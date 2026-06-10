@@ -40,7 +40,7 @@ const initApp = async () => {
   try {
     // Check and seed/sync database
     console.log('Fetching static questions database for seed/sync...');
-    const response = await fetch('/data/questions.json');
+    const response = await fetch(`${import.meta.env.BASE_URL}data/questions.json`);
     if (!response.ok) {
       throw new Error('Failed to fetch static questions.json file');
     }
