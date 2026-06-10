@@ -4,11 +4,7 @@ on:
   push:
     branches: ["main", "master"]
 
-# 允许 GITHUB_TOKEN 部署到 GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+
 
 # 只允许同时进行一次部署
 concurrency:
@@ -17,6 +13,10 @@ concurrency:
 
 jobs:
   deploy:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
