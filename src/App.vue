@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { db, initializeDatabase } from './db';
+import { initializeDatabase } from './db';
 import Dashboard from './views/Dashboard.vue';
 import QuizView from './views/QuizView.vue';
 import ReviewView from './views/ReviewView.vue';
