@@ -1,5 +1,17 @@
-# Vue 3 + TypeScript + Vite
+# NuanceTEM
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+专为 TEM-4/TEM-8（英语专业四八级）打造的近义词辨析学习应用。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 特性
+
+- **纯前端离线**：Vue 3 + Vite 构建，无服务端依赖。
+- **SM-2 记忆算法**：内置艾宾浩斯记忆曲线，科学规划复习。
+- **本地数据库**：数据全量存储于浏览器 IndexedDB，保护隐私，支持备份导出。
+- **AI 级高质题库**：内置 466 道精选近义词辨析题，且全面经过 AI 语义校对。
+
+## 运行项目
+
+```bash
+npm install
+npm run dev
+```
