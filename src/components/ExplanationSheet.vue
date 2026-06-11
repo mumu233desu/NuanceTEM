@@ -1,4 +1,8 @@
 <script setup lang="ts">
+import { ref } from 'vue';
+
+const showAnalysis = ref(false);
+const copySuccess = ref(false);
 
 const props = defineProps<{
   visible: boolean;
@@ -27,8 +31,10 @@ const copyPrompt = () => {
 请详细解释这些选项词汇之间的微妙区别，并说明为什么在这里只能选 ${props.answer} 而不能选 ${props.userChoice}。`;
   
   navigator.clipboard.writeText(prompt).then(() => {
-    // Optional: could use a toast here, but alert works for simple use
-    alert('Prompt已复制！请直接粘贴给其他大模型以获取深入解析。');
+    copySuccess.value = true;
+    setTimeout(() => {
+      copySuccess.value = false;
+    }, 2000);
   });
 };
 </script>
@@ -58,9 +64,15 @@ const copyPrompt = () => {
       <div class="section analysis-section">
         <div class="analysis-header">
           <h4>近义词辨析</h4>
-          <button class="btn-copy" @click="copyPrompt" title="复制提示词给AI">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-            请 AI 深入解析
+          <button class="btn-copy" @click="copyPrompt" :class="{ 'success': copySuccess }" title="复制提示词给AI">
+            <template v-if="!copySuccess">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+              请 AI 深入解析
+            </template>
+            <template v-else>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              已复制提示词！
+            </template>
           </button>
         </div>
         <div class="analysis-list">

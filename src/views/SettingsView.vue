@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue';
-import { db } from '../db';
+import { db, type Progress, createDefaultProgress } from '../db';
 
 const dbUpdateTime = ref('读取中...');
 
@@ -144,15 +144,7 @@ const handleResetAll = async () => {
       await db.logs.clear();
       
       const progressList = await db.progress.toArray();
-      const resetEntries = progressList.map(p => ({
-        ...p,
-        status: 'new' as const,
-        interval: 0,
-        ease: 2.5,
-        repetitions: 0,
-        nextReview: 0,
-        lastAnswered: 0,
-      }));
+      const resetEntries = progressList.map(p => createDefaultProgress(p.questionId));
       
       await db.progress.bulkPut(resetEntries);
       alert('所有学习记录已重置完毕！');
@@ -237,7 +229,7 @@ const handleResetAll = async () => {
           NuanceTEM 是一款旨在为 TEM-4 & TEM-8 备考的英语专业学生提供精准同义词辨析的学习工具。本应用基于 Vite, Vue 3, TypeScript 与 IndexedDB 搭建，提供完全本地化、无网络阻碍的复习学习体验。
         </p>
         <div class="version-info">
-          <p>软件版本: <strong>v1.0.0 (Serverless)</strong></p>
+          <p>软件版本: <strong>v{{ __APP_VERSION__ }} (Serverless)</strong></p>
           <p>存储引擎: <strong>IndexedDB (Dexie.js)</strong></p>
           <p>题库更新时间: <strong>{{ dbUpdateTime }}</strong></p>
         </div>

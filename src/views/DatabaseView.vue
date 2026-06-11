@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue';
-import { db, type Question, toggleMastered } from '../db';
+import { db, type Question, type Progress, toggleMastered, createDefaultProgress } from '../db';
 
 interface QuestionWithProgress extends Question {
   status: 'new' | 'learning' | 'mastered';
@@ -40,15 +40,7 @@ const handleToggleMaster = async (item: QuestionWithProgress) => {
 
 const handleResetProgress = async (item: QuestionWithProgress) => {
   if (confirm(`确定要重置“${item.target_word}”的记忆曲线进度吗？`)) {
-    await db.progress.put({
-      questionId: item.id,
-      status: 'new',
-      interval: 0,
-      ease: 2.5,
-      repetitions: 0,
-      nextReview: 0,
-      lastAnswered: 0,
-    });
+    await db.progress.put(createDefaultProgress(item.id));
     await loadData();
   }
 };

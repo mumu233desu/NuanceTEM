@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { db, type Question, type Progress, recordAttempt, toggleMastered } from '../db';
+import { db, type Question, type Progress, recordAttempt, toggleMastered, createDefaultProgress } from '../db';
 import QuizCard from '../components/QuizCard.vue';
 import ExplanationSheet from '../components/ExplanationSheet.vue';
 
@@ -54,15 +54,7 @@ const loadNextQuestion = async () => {
   // Load progress
   let progress = await db.progress.get(selected.id);
   if (!progress) {
-    progress = {
-      questionId: selected.id,
-      status: 'new',
-      interval: 0,
-      ease: 2.5,
-      repetitions: 0,
-      nextReview: 0,
-      lastAnswered: 0,
-    };
+    progress = createDefaultProgress(selected.id);
   }
   currentProgress.value = progress;
 };

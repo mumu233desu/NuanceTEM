@@ -57,15 +57,7 @@ export async function initializeDatabase(questionsData: Question[]) {
     await db.questions.bulkPut(questionsData);
     
     // Seed default progress entries
-    const progressEntries: Progress[] = questionsData.map(q => ({
-      questionId: q.id,
-      status: 'new',
-      interval: 0,
-      ease: 2.5,
-      repetitions: 0,
-      nextReview: 0,
-      lastAnswered: 0,
-    }));
+    const progressEntries: Progress[] = questionsData.map(q => createDefaultProgress(q.id));
     await db.progress.bulkPut(progressEntries);
     console.log(`Database seeded with ${questionsData.length} questions.`);
   } else {
@@ -77,18 +69,22 @@ export async function initializeDatabase(questionsData: Question[]) {
     const newQuestions = questionsData.filter(q => !existingIds.has(q.id));
     if (newQuestions.length > 0) {
       console.log(`Adding ${newQuestions.length} new progress entries to database.`);
-      const newProgressEntries: Progress[] = newQuestions.map(q => ({
-        questionId: q.id,
-        status: 'new',
-        interval: 0,
-        ease: 2.5,
-        repetitions: 0,
-        nextReview: 0,
-        lastAnswered: 0,
-      }));
+      const newProgressEntries: Progress[] = newQuestions.map(q => createDefaultProgress(q.id));
       await db.progress.bulkPut(newProgressEntries);
     }
   }
+}
+
+export function createDefaultProgress(questionId: string): Progress {
+  return {
+    questionId,
+    status: 'new',
+    interval: 0,
+    ease: 2.5,
+    repetitions: 0,
+    nextReview: 0,
+    lastAnswered: 0,
+  };
 }
 
 // SM-2 Spaced Repetition Algorithm
@@ -154,15 +150,7 @@ export async function recordAttempt(
   // 2. Fetch existing progress
   let progress = await db.progress.get(questionId);
   if (!progress) {
-    progress = {
-      questionId,
-      status: 'new',
-      interval: 0,
-      ease: 2.5,
-      repetitions: 0,
-      nextReview: 0,
-      lastAnswered: 0,
-    };
+    progress = createDefaultProgress(questionId);
   }
 
   // 3. Compute SM-2 variables
@@ -200,15 +188,7 @@ export async function recordAttempt(
 export async function toggleMastered(questionId: string, isMastered: boolean) {
   let progress = await db.progress.get(questionId);
   if (!progress) {
-    progress = {
-      questionId,
-      status: 'new',
-      interval: 0,
-      ease: 2.5,
-      repetitions: 0,
-      nextReview: 0,
-      lastAnswered: 0,
-    };
+    progress = createDefaultProgress(questionId);
   }
 
   progress.status = isMastered ? 'mastered' : 'learning';
