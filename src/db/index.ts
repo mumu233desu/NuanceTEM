@@ -105,9 +105,15 @@ export function calculateSM2(
   if (quality >= 3) {
     // Correct response
     if (repetitions === 0) {
-      interval = 1; // 1 day
+      // First review interval depends on quality
+      if (quality === 5) interval = 4;
+      else if (quality === 4) interval = 2;
+      else interval = 1;
     } else if (repetitions === 1) {
-      interval = 6; // 6 days
+      // Second review interval depends on quality
+      if (quality === 5) interval = 8;
+      else if (quality === 4) interval = 6;
+      else interval = 3;
     } else {
       interval = Math.round(prevInterval * prevEase);
     }
