@@ -183,6 +183,8 @@ onMounted(loadDueQuestions);
         :translation="currentQuestion.translation"
         :analysis="currentQuestion.distractor_analysis"
         :isMastered="currentProgress?.status === 'mastered'"
+        :questionText="currentQuestion.question"
+        :optionsList="currentQuestion.options"
         @next="setCurrentQuestion"
         @toggleMaster="handleToggleMaster"
         @rateDifficulty="handleRateDifficulty"
