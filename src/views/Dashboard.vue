@@ -15,6 +15,7 @@ const completedToday = ref(0);
 const dailyTarget = ref(Number(localStorage.getItem('dailyTarget')) || 20);
 
 const loadStats = async () => {
+  dailyTarget.value = Number(localStorage.getItem('dailyTarget')) || 20;
   totalQuestions.value = await db.questions.count();
   
   // Count mastered

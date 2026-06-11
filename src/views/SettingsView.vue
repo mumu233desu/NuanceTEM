@@ -116,8 +116,10 @@ const handleImport = async (event: Event) => {
       }
 
       importStatus.value = 'success';
-      importMessage.value = '备份导入成功！请刷新页面查看最新进度。';
-      alert('备份恢复成功！');
+      importMessage.value = '备份导入成功！正在为您刷新页面...';
+      setTimeout(() => {
+        window.location.reload();
+      }, 1500);
     } catch (err) {
       importStatus.value = 'error';
       importMessage.value = '导入失败：' + (err as Error).message;

@@ -77,7 +77,7 @@ const copyPrompt = () => {
           <button @click="emit('rateDifficulty', 5)" class="rate-btn easy">简单 (5)</button>
           <button @click="emit('rateDifficulty', 4)" class="rate-btn medium">适中 (4)</button>
           <button @click="emit('rateDifficulty', 3)" class="rate-btn hard">困难 (3)</button>
-          <button @click="emit('rateDifficulty', 0)" class="rate-btn fail">答错 (0)</button>
+          <button v-if="!isCorrect" @click="emit('rateDifficulty', 0)" class="rate-btn fail">答错 (0)</button>
         </div>
       </div>
     </div>

@@ -11,6 +11,8 @@ const isAnswered = ref(false);
 const isCorrect = ref(false);
 const showExplanation = ref(false);
 
+const recentQuestionIds = ref<string[]>([]);
+
 const loadNextQuestion = async () => {
   // Reset state
   userChoice.value = '';
@@ -31,10 +33,23 @@ const loadNextQuestion = async () => {
     return;
   }
 
+  // Filter out recently asked questions to avoid immediate repetition
+  let candidates = availableQuestions.filter(q => !recentQuestionIds.value.includes(q.id));
+  if (candidates.length === 0) {
+    recentQuestionIds.value = [];
+    candidates = availableQuestions;
+  }
+
   // Pick a random question
-  const randomIndex = Math.floor(Math.random() * availableQuestions.length);
-  const selected = availableQuestions[randomIndex];
+  const randomIndex = Math.floor(Math.random() * candidates.length);
+  const selected = candidates[randomIndex];
   currentQuestion.value = selected;
+
+  // Update history
+  recentQuestionIds.value.push(selected.id);
+  if (recentQuestionIds.value.length > 20) {
+    recentQuestionIds.value.shift();
+  }
 
   // Load progress
   let progress = await db.progress.get(selected.id);
