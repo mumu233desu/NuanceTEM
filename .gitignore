@@ -51,3 +51,4 @@ screenshots/
 *_backup.json
 *.bak
 *.tmp
+archive_data/
