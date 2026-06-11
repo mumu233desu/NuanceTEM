@@ -22,12 +22,16 @@ const emit = defineEmits<{
 }>();
 
 const copyPrompt = () => {
-  const prompt = `我遇到了一道题：${props.questionText}
-我选择了：${props.userChoice || '（未选择）'}
-正确答案是：${props.answer}
-选项有：${props.optionsList.join(', ')}
+const prompt = `我遇到了一道英语题：
+${props.questionText}
 
-请详细解释这些选项词汇之间的微妙区别，并说明为什么在这里只能选 ${props.answer} 而不能选 ${props.userChoice}。`;
+我的选择是：${props.userChoice || '（未选择）'}
+给定的正确答案是：${props.answer}
+所有选项为：${props.optionsList.join(', ')}
+
+请完成以下两项任务：
+1. 请保持独立思考并首先评估：这道题干本身是否存在语法、搭配语境或逻辑上的错误？给定的“正确答案”是否真的是最佳选项？如果有错题或“中式英语”的嫌疑，请毫不犹豫地直接指出。
+2. 在确定题目无误（或指出问题）后，请详细解释这些选项词汇之间的微妙区别，并说明为什么在这个特定语境下应该选 ${props.answer} 而不能选 ${props.userChoice}。`;
   
   navigator.clipboard.writeText(prompt).then(() => {
     copySuccess.value = true;
