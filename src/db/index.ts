@@ -175,10 +175,12 @@ export async function recordAttempt(
 
   // 4. Update status
   let status = progress.status;
-  if (status === 'new' && isCorrect) {
-    status = 'learning';
-  } else if (!isCorrect) {
-    status = 'learning'; // Demoted back to learning
+  if (status !== 'mastered') {
+    if (status === 'new' && isCorrect) {
+      status = 'learning';
+    } else if (!isCorrect) {
+      status = 'learning'; // Demoted back to learning
+    }
   }
 
   const nextReview = timestamp + interval * 24 * 60 * 60 * 1000;

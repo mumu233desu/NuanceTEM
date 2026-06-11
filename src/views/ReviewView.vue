@@ -154,7 +154,7 @@ onMounted(loadDueQuestions);
     <div class="header">
       <h2>Spaced Repetition 复习面板</h2>
       <p v-if="dueQuestions.length > 0">
-        今天共有 <span class="highlight">{{ dueQuestions.length - currentIndex }}</span> 道错题/到期题目需要复习。
+        今天共有 <span class="highlight">{{ Math.max(0, dueQuestions.length - currentIndex) }}</span> 道错题/到期题目需要复习。
       </p>
     </div>
 

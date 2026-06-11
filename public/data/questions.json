@@ -4931,7 +4931,7 @@
       "concentrate": "集中， 集中精力(后接 on， 宾语可以是具体或抽象的东西)； 浓缩，压缩。",
       "focus": "集中(于某事物)；将(注意力等)集中于……(后接 on，宾语一般不是具体的东西)。"
     },
-    "translation": "考试期间，同学们必须集中精力回答问题。"
+    "translation": "这个食谱要求你把酱汁煮十分钟，以使其味道更浓郁。"
   },
   {
     "id": "q_2_49_2",
@@ -8252,7 +8252,13 @@
       "confess": "语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。",
       "concede": "指在事实与证据面前勉强或不得不承认。"
     },
-    "target_word": "confess"
+    "target_word": "confess",
+    "distractor_analysis": {
+      "acknowledge": "\"承认（事实、存在等）\" - 通常指勉强或公开承认某种事实、权威或错误的存在。句中强调的是严重的犯罪行为，该词语气较弱，不够贴切。",
+      "admit": "\"承认（事实、错误等）\" - 泛指在压力下或不情愿地承认某事为真。虽可用于承认错误，但用于承认严重的违法犯罪行为时，不如confess专业。",
+      "confess": "\"坦白，供认\" - 特指承认自己犯了罪或犯了重大错误，常带有忏悔的意味。句中主语是“嫌疑人”，涉及“武装抢劫”的违法犯罪，用该词最准确。",
+      "concede": "\"（退让地）承认\" - 指在争论或辩论中，因无法辩驳而勉强承认对方的观点，或承认失败。不适用于交代犯罪事实。"
+    }
   },
   {
     "id": "q_8f1b4c",
@@ -8273,7 +8279,13 @@
       "route": "A route is a line of travel, and may be over many roads.",
       "avenue": "A avenue is a long, broad and imposing(庄严) or principal street."
     },
-    "target_word": "path"
+    "target_word": "path",
+    "distractor_analysis": {
+      "road": "\"道路，公路\" - 通常指供车辆和行人通行的铺设好或平坦的大道。句中强调“只能徒步”且是“山间的”，该词不符合此特征。",
+      "path": "\"小径，小道\" - 多指人或动物在田野、树林或山间走出来的狭窄小路。与句中“狭窄蜿蜒的山间”及“徒步”的语境完全契合。",
+      "route": "\"路线，航线\" - 指两地之间确定的行进路线，可以是陆路、水路或空路，侧重于方向和轨迹，而非具体的物理路面。",
+      "avenue": "\"林荫道，大街\" - 指城市中宽阔平坦且两旁常有树木的街道，与山间狭窄小路的语境完全不符。"
+    }
   },
   {
     "id": "q_7a9c2d",
@@ -8294,7 +8306,13 @@
       "epoch": "It indicates a long period of time marked by events or development of a particular kind. (纪元)",
       "age": "It shows a particular /a fairly definite period in history."
     },
-    "target_word": "epoch"
+    "target_word": "epoch",
+    "distractor_analysis": {
+      "period": "\"时期，阶段\" - 最普通的用词，指任何长度的时间段，缺乏“具有重大历史意义”的色彩。",
+      "time": "\"时代，时期\" - 通常作复数时可表示特定的时代，但作单数时指一般的时间或一段光阴，不强调划时代的历史转折。",
+      "epoch": "\"新纪元，时代\" - 尤指以某种重大事件或变化为起点的、具有深远历史意义的新时代。句中“蒸汽机的发明”标志着工业史上的重大转折，最能突出其划时代的意义。",
+      "age": "\"时代，时期\" - 通常指历史上以某一突出特征或杰出人物为标志的较长历史阶段（如青铜时代），但不直接强调以某一事件为起点的“新纪元”开启。"
+    }
   },
   {
     "id": "q_1d4e5f",
@@ -8315,7 +8333,13 @@
       "campaign": "A series of related military operations in a war. (战争)",
       "combat": "A fight, conflict, controversy."
     },
-    "target_word": "campaign"
+    "target_word": "campaign",
+    "distractor_analysis": {
+      "battle": "\"战斗，战役\" - 通常指战争中具体的、局部的、时间相对较短的交战。句中强调的是为特定目的（解放领土）而策划的一系列大规模军事行动，该词不够宏大。",
+      "struggle": "\"斗争，挣扎\" - 泛指为克服困难或反抗而进行的努力或持续的斗争，不仅限于军事领域，缺乏具体的军事行动意味。",
+      "campaign": "\"战役，运动\" - 在军事上指为实现某个特定战略目标而在某一地区进行的一系列有组织的军事行动。符合句中将军精心策划的大规模、有阶段性目标的军事行动。",
+      "combat": "\"战斗，格斗\" - 侧重指武装力量之间的短兵相接或具体交战行为，不如campaign宏大和有计划性。"
+    }
   },
   {
     "id": "q_9c3b8a",
@@ -8336,7 +8360,13 @@
       "father": "A little of respect for a priest, esp. in the Roman Catholic.",
       "pastor": "A Christian religious leader in charge of a church and its members, esp. in a Protestant church. (教区牧师)"
     },
-    "target_word": "pastor"
+    "target_word": "pastor",
+    "distractor_analysis": {
+      "priest": "\"神父，牧师\" - 通常指天主教、东正教或英国国教中主持圣礼的神职人员，较少用于一般的新教（Protestant）教会。",
+      "vicar": "\"教区牧师，代理主教\" - 主要指英国国教（圣公会）中负责某一教区的牧师，有特定的教派限制。",
+      "father": "\"神父\" - 主要是天主教徒对神父的尊称，不适用于句中明确提到的“新教社区”。",
+      "pastor": "\"牧师\" - 普遍用于指代新教（Protestant）教会中负责牧养会众、主持礼拜和布道的神职人员，完全符合句中新教社区的语境。"
+    }
   },
   {
     "id": "q_5f8e2d",
@@ -8357,7 +8387,13 @@
       "costume": "1) The fashion of dress peculiar to a people, nation, class, period, etc. 2) A dress worn by actors in a play.",
       "uniform": "worn by all members of the community."
     },
-    "target_word": "costume"
+    "target_word": "costume",
+    "distractor_analysis": {
+      "clothing": "\"衣服，服装（总称）\" - 是衣服的不可数总称，泛指用来蔽体的衣物，不具备戏剧、历史时期的特定含义。",
+      "garment": "\"（一件）衣服\" - 比较正式的用词，指单件的衣服，通常不用于指代特定时期或场合的整套特色服装。",
+      "costume": "\"戏服，民族服装，时代服装\" - 特指戏剧、电影演员穿的服装，或特定历史时期、地区的典型服装。句中“历史剧”和“正宗的时代风格”决定了必须用此词。",
+      "uniform": "\"制服\" - 指军队、学校、公司等特定群体成员统一穿着的服装，不符合戏剧中反映特定时代的服装要求。"
+    }
   },
   {
     "id": "q_b2a7c4",
@@ -8378,7 +8414,13 @@
       "wail": "To cry aloud from pain or sorrow. (痛哭)",
       "whine": "To make a low complaining cry. (发出低声报怨声)"
     },
-    "target_word": "sob"
+    "target_word": "sob",
+    "distractor_analysis": {
+      "weep": "\"哭泣，流泪\" - 书面用词，指无声地流泪或低声哭泣，侧重流泪的动作，但不强调句中提到的“肩膀起伏”和“短促呼吸”。",
+      "sob": "\"抽泣，啜泣\" - 指伴随着急促呼吸或身体抽动、哽咽着哭。句中明确描写了“肩膀随着短促呼吸起伏”，sob是唯一准确描绘这一动作的词。",
+      "wail": "\"哀嚎，嚎啕大哭\" - 指发出长而尖锐的悲叹或哭叫声，与句中的“quietly”（静静地）相矛盾。",
+      "whine": "\"哀鸣，发牢骚\" - 通常指人或动物发出持续的、刺耳的抱怨声或哀鸣，常带贬义，不符合被令人心碎的故事感动的语境。"
+    }
   },
   {
     "id": "q_c4d9e1",
@@ -8399,7 +8441,13 @@
       "fair": "Beautiful( of woman in poet) light in color esp., skin hair.",
       "gorgeous": "(persons or things) (inf) Extremely beautiful or handsome."
     },
-    "target_word": "gorgeous"
+    "target_word": "gorgeous",
+    "distractor_analysis": {
+      "handsome": "\"英俊的，端庄的\" - 多用于形容男性的英俊，若形容女性则指端庄健美、五官大气，不适合形容穿婚纱的新娘带来的惊艳感。",
+      "pretty": "\"漂亮的，可爱的\" - 通常指女性、小孩或小物件小巧玲珑的漂亮，语气较弱，不足以引出“所有宾客的惊叹”。",
+      "fair": "\"白皙的，美丽的\" - 偏文学或古典用词，常指肤色白皙或清秀美丽，缺乏令人震撼的视觉冲击力。",
+      "gorgeous": "\"极其漂亮的，华丽的\" - 表达强烈的美感，指令人惊叹的、光彩照人的美丽。完美契合新娘穿定制婚纱引得众人惊叹的语境。"
+    }
   },
   {
     "id": "q_f1a8b3",
@@ -8420,7 +8468,13 @@
       "haul": "It implies continuous pulling or dragging of heavy or bulky objects.",
       "tug": "It applies to hard often sudden violent effort to pull."
     },
-    "target_word": "haul"
+    "target_word": "haul",
+    "distractor_analysis": {
+      "draw": "\"拉，牵引\" - 普通用词，指平稳地拉动，用力不一定很大，不足以体现拖动“巨大的集装箱”的艰难。",
+      "drag": "\"拖，拉\" - 指在地面上吃力地拖动沉重的物体，强调物体与地面有摩擦，不强调使用重型机械进行整体搬运。",
+      "haul": "\"用力拖拉，搬运\" - 强调花费很大力气拖拉沉重物体，常指使用机械或大量人力进行长距离或大规模的运输搬运。句中与“重型机械”和“巨大集装箱”完美匹配。",
+      "tug": "\"猛拉，用力拉\" - 指突然或短暂地用力拉、拽，通常不用于指代使用机械进行的持续性的重物搬运。"
+    }
   },
   {
     "id": "q_a3b6c9",
@@ -8441,7 +8495,13 @@
       "rotate": "To turn round a fixed point with a circular movement. (转动)",
       "revolve": "To turn or move in a circle around a central point. It indicates circular or elliptical (椭圆) movement. (绕转)"
     },
-    "target_word": "revolve"
+    "target_word": "revolve",
+    "distractor_analysis": {
+      "spin": "\"快速旋转，自转\" - 指物体绕着自己的中心轴快速旋转。地球绕太阳是公转而非自转。",
+      "whirl": "\"旋转，回旋\" - 指物体快速而猛烈地旋转，常带有混乱或眼花缭乱的意味，不适用于描述天体规律的运行。",
+      "rotate": "\"旋转，自转\" - 科学术语，主要指物体围绕其自身的轴心旋转（如地球自转一天需24小时）。",
+      "revolve": "\"旋转，公转\" - 科学术语，指一个物体围绕另一物体（中心点或轴）作轨道运行。句中指地球绕太阳运行，即公转，必须用此词。"
+    }
   },
   {
     "id": "q_d8e2f5",
@@ -8462,7 +8522,13 @@
       "wrath": "Very treat anger. (literary) It suggests a desire on intent to revenge or punish. (愤怒)",
       "rage": "Wild, violent anger. It suggests loss of self- control from violence of emotion. (狂怒)"
     },
-    "target_word": "indignation"
+    "target_word": "indignation",
+    "distractor_analysis": {
+      "cross": "\"生气的，恼怒的\" - 通常表示因为小事而产生的不耐烦或轻微的生气，不适合形容面对剥削的强烈情绪，且此处需要名词形式。",
+      "indignation": "\"愤慨，义愤\" - 特指由于不公正、卑鄙或残酷的行为而引起的强烈的愤怒或不平。句中明确指出是“不公正的政策和无情的剥削”引发的，用此词最准确。",
+      "wrath": "\"愤怒，狂怒\" - 较为正式或文学化的用词，常带有神明或权贵严厉惩罚的色彩，普通工人的愤怒较少用此词。",
+      "rage": "\"狂怒，暴怒\" - 指失去理智的、难以控制的激烈愤怒，往往伴随暴力行为，不如indignation能准确表达出于正义感的不平与愤慨。"
+    }
   },
   {
     "id": "q_e5f9a2",
@@ -8483,7 +8549,13 @@
       "error": "A mistake (formal sometimes literary) It implies deviation from a standard or model (疏忽)",
       "defect": "sth lacking or imperfect. It refers to quality. (缺点 毛病)"
     },
-    "target_word": "defect"
+    "target_word": "defect",
+    "distractor_analysis": {
+      "fault": "\"过错，故障\" - 泛指人的过失，或系统、设备中导致其不能正常工作的故障。但用于“制造”环节时，不如defect专业。",
+      "shortcoming": "\"缺点，短处\" - 多用于指人性格或能力上的不足，或系统的不完善，不用于指代实体产品的物理瑕疵。",
+      "error": "\"错误，差错\" - 指由于粗心、无知或违反规则而造成的错误，多用于计算、判断或书写方面，不指代工业产品的质量问题。",
+      "defect": "\"缺陷，瑕疵\" - 指实体物品在制造、设计上的瑕疵或不完美之处。句中“制造”和召回汽车的语境，明确指向产品本身的质量缺陷，必须用此词。"
+    }
   },
   {
     "id": "q_b7c4d1",
@@ -8504,7 +8576,13 @@
       "graph": "A diagram in which a straight line, curved, or zigzag line shows how two sets of numbers or measurements are related. (曲线图)",
       "chart": "A map esp. a detailed map of a sea area. (海图)"
     },
-    "target_word": "chart"
+    "target_word": "chart",
+    "distractor_analysis": {
+      "sketch": "\"草图，素描\" - 指粗略画出的草图或轮廓，没有详细细节，不用于精确表示财务数据的统计图。",
+      "diagram": "\"示意图，图解\" - 指用来解释某物的工作原理、结构或各部分关系的线条图，通常不用于表示数量或比例的统计。",
+      "graph": "\"坐标图，曲线图\" - 通常指有横纵坐标的图表，用于表示两个变量之间的函数关系或变化趋势，不能与pie（饼状）搭配。",
+      "chart": "\"图表，航海图\" - 指用于呈现数据的表格、曲线图或饼图等统计图形。“pie chart”（饼状图）是固定搭配，专门用于展示各部分占总体的比例。"
+    }
   },
   {
     "id": "q_1a2b3c",
@@ -8525,7 +8603,13 @@
       "specific": "Detailed and exact, clear in meaning and explanation, fixed, determined. It implies a quality or character distinguishing a kind or a species. (适用/特种的)",
       "peculiar": "Strange or perhaps unpleasant. It implies strangeness. (独特的)"
     },
-    "target_word": "specific"
+    "target_word": "specific",
+    "distractor_analysis": {
+      "especial": "\"特别的，特殊的\" - 常用于强调程度深或某人/某事物比其他更特别，较少用于形容说明或指示的具体性。",
+      "particular": "\"特定的，讲究的\" - 强调在同类中挑选出特定的一个，或对细节要求严格，但不强调内容的明确具体无误。",
+      "specific": "\"具体的，明确的\" - 强调不仅特殊，而且细节清晰、明确无误、不含糊。句中详细说明了准确剂量和时间，正是在解释医嘱极其“具体明确”。",
+      "peculiar": "\"奇怪的，特有的\" - 通常指令人觉得奇怪、古怪的，或者某物所独有的特征，用在医嘱上语义不通。"
+    }
   },
   {
     "id": "q_8d9e0f",
@@ -8546,7 +8630,13 @@
       "eliminate": "To get rid of. (消灭 排除)",
       "repeal": "To bring to an end of the effect of a law or an order. (撤消 废除)"
     },
-    "target_word": "abolish"
+    "target_word": "abolish",
+    "distractor_analysis": {
+      "cancel": "\"取消，撤销\" - 普通用词，指取消计划、安排、会议、订单等，不能用于废除法律或社会制度。",
+      "abolish": "\"废除，废止\" - 专门用于指通过法律、行政手段或社会运动彻底废除长期的社会制度、风俗习惯或法律。句中废除“奴隶制度”是标准搭配。",
+      "eliminate": "\"消除，淘汰\" - 指通过努力消除问题、隐患或在竞争中淘汰对手，不用于废除制度。",
+      "repeal": "\"废除，撤销（法令）\" - 法律术语，特指立法机关正式撤销或废止某项具体的法律或法案。对于广义的“制度”，abolish更常用且宏大。"
+    }
   },
   {
     "id": "q_4c5d6e",
@@ -8567,7 +8657,13 @@
       "crack": "To break without separation of parts. It suggests the breaking out across a surface. (打裂)",
       "shatter": "To break into pieces. It suggests the breaking up of a thin surface. (砸碎 破碎)"
     },
-    "target_word": "shatter"
+    "target_word": "shatter",
+    "distractor_analysis": {
+      "crush": "\"压碎，挤碎\" - 强调受到外部重力或挤压而变形或破碎，声波不能产生这种物理挤压感。",
+      "smash": "\"打碎，砸碎\" - 指用力猛击某物使其破碎，强调动作的猛烈和力量，通常涉及物理碰撞。",
+      "crack": "\"破裂，出现裂纹\" - 指物体表面出现裂缝，但并未完全裂开成碎片，与句中“变成无数碎片”不符。",
+      "shatter": "\"粉碎，碎裂\" - 指突然且猛烈地破碎成无数小块。常用于玻璃、陶瓷等脆性物体受外力或声波震荡而瞬间粉碎，完美契合句意。"
+    }
   },
   {
     "id": "q_ch1_01",
@@ -8588,7 +8684,13 @@
       "environment": "The circumstances, things and conditions that influence you. It refers to spirit aspect, physical aspect and material aspect.",
       "circumstances": "A situation or event around us, a certain kind of atmosphere, the conditions that affect what happens."
     },
-    "target_word": "environment"
+    "target_word": "environment",
+    "distractor_analysis": {
+      "conditions": "\"条件，状况\" - 泛指影响事物发生或存在的前提、情况，或物质/生活条件，通常不与“种树和减少污染来美化”搭配。",
+      "situation": "\"局势，处境\" - 指特定时期内各种情况的综合状态，或人所处的环境境遇，不指代自然物理环境。",
+      "environment": "\"环境，自然环境\" - 指人或动植物周围的物理或自然环境，特别是生态环境。句中提到的种树、减少污染等均指向自然生态环境，用此词最准确。",
+      "circumstances": "\"环境，情况\" - 常用复数，指围绕和影响某事件或某人生活、经济状况的各种客观情况，不指自然界具体的生态环境。"
+    }
   },
   {
     "id": "q_ch1_02",
@@ -8609,7 +8711,13 @@
       "celebrated": "Famous, (substitute for renowned) It refers objectively to sb or something that has been give acclaim or honoured with awards or prizes.",
       "notorious": "Famous for something bad."
     },
-    "target_word": "distinguished"
+    "target_word": "distinguished",
+    "distractor_analysis": {
+      "famous": "\"著名的，出名的\" - 普通用词，仅表示很多人知道，不包含因成就卓越而受人尊敬的内涵。",
+      "distinguished": "\"杰出的，卓越的\" - 不仅表示出名，更强调因在某一领域表现出众、成就卓越而备受尊崇。受邀发表量子物理主题演讲的教授显然是学术界泰斗，该词最能体现其受人尊敬的杰出地位。",
+      "celebrated": "\"著名的，大名鼎鼎的\" - 强调因某事迹被广泛赞誉或经常被提及，常用于艺术家或文学家，学术严肃性略逊于distinguished。",
+      "notorious": "\"臭名昭著的\" - 贬义词，指因做坏事而出名，完全不符合邀请来做主题演讲的语境。"
+    }
   },
   {
     "id": "q_ch1_03",
@@ -8630,7 +8738,13 @@
       "burglar": "A person who breaks into a house at night to steal something.",
       "gangster": "A member of a group of criminals, esp. those who are armed and use guns to threaten."
     },
-    "target_word": "burglar"
+    "target_word": "burglar",
+    "distractor_analysis": {
+      "robber": "\"抢劫犯，强盗\" - 指使用暴力或威胁手段公开抢夺他人财物的人，通常不指暗中潜入者。",
+      "mugger": "\"行凶抢劫者\" - 特指在公共场所（如街道、公园）对人实施暴力抢劫的人。",
+      "burglar": "\"入室窃贼\" - 专门指非法破门或破窗潜入建筑物（如住宅、商店）内进行偷窃的人。句中明确提到“半夜通过后窗闯入房子”，正是此词的典型行为。",
+      "gangster": "\"歹徒，黑帮成员\" - 指犯罪团伙的成员，从事有组织的犯罪活动，不专指普通的入室盗窃者。"
+    }
   },
   {
     "id": "q_ch1_04",
@@ -8651,7 +8765,13 @@
       "shiver": "To tremble from fear or cold. It suggests a slight and rapid movement.",
       "shudder": "To shake uncontrollably for a movement. It suggests a more intense shaking."
     },
-    "target_word": "shiver"
+    "target_word": "shiver",
+    "distractor_analysis": {
+      "quiver": "\"轻微颤抖，抖动\" - 多指因情绪（如害怕、愤怒）或轻微的物理振动而产生的轻微快速颤动，常用于嘴唇、声音或树叶。",
+      "tremble": "\"发抖，战栗\" - 普通用词，指因寒冷、恐惧或激动而不由自主地全身或部分发抖。虽可用于寒冷，但不如shiver专一。",
+      "shiver": "\"打冷战，战栗\" - 特指因寒冷、发烧或恐惧而引起的短暂且不自主的身体颤抖，尤其最常用于表示因“寒冷”引起的发抖。句中“寒风”是直接原因，该词最精准。",
+      "shudder": "\"战栗，发抖\" - 强调因极度恐惧、厌恶或极度寒冷而引起的突然且强烈的全身抽动，侧重心理上的排斥感，不如shiver自然。"
+    }
   },
   {
     "id": "q_ch1_05",
@@ -8672,7 +8792,13 @@
       "proposal": "指正式提出来供研究、采纳或实行的建议。",
       "view": "侧重指对重大的或引起公众关注的问题所持的看法和态度。"
     },
-    "target_word": "proposal"
+    "target_word": "proposal",
+    "distractor_analysis": {
+      "advice": "（建议、忠告）通常指长辈、专家等给出的具有指导性的意见，多为不可数名词。不合语境中的可数名词用法（new ___）。",
+      "opinion": "（意见、看法）侧重对某事物的个人主观看法或评价，而非具体的行动计划。不符合“改善交通系统的建议”这一语境。",
+      "proposal": "（提案、建议）指针对某一计划、方案正式提出的具体建议或提案，通常需要提交给委员会或会议等审查和表决。符合语境中“审查新提案”的含义。",
+      "view": "（观点、看法）偏重于对某一问题的个人立场或观察角度，同样不表示一套具体的行动方案。"
+    }
   },
   {
     "id": "q_ch1_06",
@@ -8693,7 +8819,13 @@
       "proceed": "侧重指继续前进。",
       "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
     },
-    "target_word": "proceed"
+    "target_word": "proceed",
+    "distractor_analysis": {
+      "advance": "（前进、推进）侧重空间位置上的向前移动，或指事物的进步与发展，通常不与with连用表示继续做某事。",
+      "progress": "（进步、进展）强调事物向更好的方向发展或取得成效，多作名词或不及物动词，不用于progress with doing sth.的结构。",
+      "proceed": "（继续进行）强调在停顿或被打断之后继续进行某事，常搭配proceed with sth.（继续做某事）。完全契合“短暂休息后继续报告”的语境。",
+      "go": "（去、走）泛指移动或离开，虽可表示事物进行，但不如proceed正式，且一般不搭配go with sth.来表示“继续某事”。"
+    }
   },
   {
     "id": "q_ch1_07",
@@ -8714,7 +8846,13 @@
       "shame": "指由不光彩或不道德的行为引起的惭愧感或羞耻感。",
       "dishonor": "有时可与disgrace换用，但前者是指因失去荣誉所致。"
     },
-    "target_word": "humiliate"
+    "target_word": "humiliate",
+    "distractor_analysis": {
+      "disgrace": "（使丢脸、使丧失名誉）强调因为不光彩的行为而失去他人的尊敬或地位，侧重于名誉的败坏。",
+      "humiliate": "（羞辱、使丢脸）强调通过言语或行为践踏他人的自尊，使其在他人面前感到难堪或耻辱。符合语境中老板在众人面前批评员工使其感到屈辱的行为。",
+      "shame": "（使羞愧）侧重于让人因为做错事而从内心感到自责、内疚和羞愧，未必是被恶意贬低。",
+      "dishonor": "（使蒙羞、败坏名声）通常指行为违背了道德或荣誉准则，给家族或组织带来耻辱，语意较正式且宏大。"
+    }
   },
   {
     "id": "q_ch1_08",
@@ -8735,7 +8873,13 @@
       "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧。",
       "separate": "指把两个人或物分开，着重从原属一个整体中移居一部分或把两者隔开。"
     },
-    "target_word": "distinguish"
+    "target_word": "distinguish",
+    "distractor_analysis": {
+      "discern": "（辨别、看出）侧重通过感官或智力费力地觉察、看清或识别出模糊不清的事物，但不常与between搭配。",
+      "discriminate": "（辨别、歧视）侧重于识别出事物之间的细微差别或对不同群体加以区别对待（歧视），语气较正式且有特定感情色彩。",
+      "distinguish": "（区分、辨别）最普通的用词，指根据特征辨别事物之间的不同，常搭配distinguish between A and B（区分A和B），完全契合语境。",
+      "separate": "（分开、分离）侧重把混合在一起的或连在一起的实体物理地拆分或隔离开来，而不是指认知上的辨别。"
+    }
   },
   {
     "id": "q_ch1_09",
@@ -8756,7 +8900,13 @@
       "sovereign": "侧重指其他事物都从属于或低于它的。",
       "distinguished": "杰出的，指因为科学、艺术等方面的严肃工作而著名的人。"
     },
-    "target_word": "predominant"
+    "target_word": "predominant",
+    "distractor_analysis": {
+      "dominant": "（占统治地位的、支配的）强调拥有控制权、支配权或在力量/地位上处于绝对压倒性优势，较少用于单纯形容事物为“主要来源”。",
+      "predominant": "（占优势的、主要的）强调在数量、影响力或重要性上超过其他事物而占据主导地位，修饰source（来源）、feature（特征）等极为常见，符合语境。",
+      "sovereign": "（拥有最高统治权的、至高无上的）通常指国家、君主拥有独立的主权或最高权力，不用于修饰收入来源。",
+      "distinguished": "（卓越的、杰出的）指人或事物因表现出色而受人尊敬，用来修饰收入来源不符合逻辑。"
+    }
   },
   {
     "id": "q_ch1_10",
@@ -8777,7 +8927,13 @@
       "part": "多指使紧密相连的人或物分开，往往暗示最后分离的意味。",
       "divorce": "特指两个或更多的互为依赖的事物的分离，尤指婚姻的合法解体。"
     },
-    "target_word": "separate"
+    "target_word": "separate",
+    "distractor_analysis": {
+      "divide": "（划分、分配）强调把一个整体切割或分配成若干部分，如把蛋糕分成几块。不适合“把两类不同事物分离开”的语境。",
+      "separate": "（分开、隔离）强调把原本混杂在一起、连接在一起的两个或多个独立实体拉开或分拣开，常与from连用。符合“把可回收物与普通垃圾分开”的语境。",
+      "part": "（分开、分离）侧重指人与人之间的分别、分手，或让紧密相连的两个人或物稍微分开一点。",
+      "divorce": "（离婚、脱离）主要指法律上的解除婚姻关系，或抽象意义上使理论与实践等完全脱节，在此处语义完全不符。"
+    }
   },
   {
     "id": "q_ch1_11",
@@ -8798,7 +8954,13 @@
       "look down upon": "指自视地位优越而蔑视他人或事。",
       "humiliate": "强调受辱者自尊心的损坏。"
     },
-    "target_word": "despise"
+    "target_word": "despise",
+    "distractor_analysis": {
+      "despise": "（鄙视、看不起）感情色彩极强烈，表示由于对方的卑劣、怯懦而产生强烈的厌恶和轻蔑。符合语境中“对自己的懦弱谎言感到极度厌恶”。",
+      "scorn": "（轻蔑、鄙视）侧重于一种傲慢、嘲弄的态度，认为某人不值得自己理睬或某事根本不屑去做。",
+      "look down upon": "（看不起、轻视）一般性用语，指认为别人不如自己或地位卑微，语气不如despise强烈，较少用于反身代词指代“自己”。",
+      "humiliate": "（使蒙羞、屈辱）指通过言行伤害他人的自尊心，是使动用法，不表示内心的“鄙视”情感。"
+    }
   },
   {
     "id": "q_ch1_12",
@@ -8819,7 +8981,13 @@
       "feat": "指需要极大的勇气、智慧和力量或技术获得的成就，这一成就受人瞩目和佩服",
       "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。"
     },
-    "target_word": "feat"
+    "target_word": "feat",
+    "distractor_analysis": {
+      "achievement": "（成就、成绩）普通用词，指通过努力和技能获得的成功或达到的目标，但不一定具有极高的冒险性或传奇色彩。",
+      "accomplishment": "（成就、造诣）多指通过长期的练习或学习在某一领域获得的素养或完成的任务，侧重于“完成”。",
+      "feat": "（壮举、功绩）尤指需要巨大的勇气、力量、技巧或耐力才能完成的极不寻常的英雄事迹或杰出成就。极其契合“无氧攀登珠峰”的语境。",
+      "progress": "（进步、进展）指向前发展或有所改善的过程，不表示一项具体的伟大事迹或成就。"
+    }
   },
   {
     "id": "q_ch1_13",
@@ -8840,7 +9008,13 @@
       "allege": "宣称，断定，指在无真实凭据情况下宣称",
       "affirm": "侧重在作出断言时表现出的坚定与不可动摇的态度。"
     },
-    "target_word": "allege"
+    "target_word": "allege",
+    "distractor_analysis": {
+      "assert": "（断言、坚称）强调主观上十分自信地肯定某事是事实，不管事实是否如此，侧重态度坚决。",
+      "claim": "（声称、主张）指要求承认某项权利或声称某事为真，通常可能面临他人的质疑或反驳。",
+      "allege": "（宣称、指控）特指在法庭上或正式场合中提出未经证实的指控或断言。完全符合语境中“检察官指控但尚未提供证据”的法律背景。",
+      "affirm": "（断言、证实）指坚定、庄严地确认某事属实，通常建立在有事实根据或深思熟虑的基础上。"
+    }
   },
   {
     "id": "q_ch1_14",
@@ -8861,7 +9035,13 @@
       "title": "用于书籍、文章的标题，但有时可与subject互换",
       "suggestion": "着重为改进工作、解决困难等提出的建议，有时含所提建议不一定正确，仅供参考的意味"
     },
-    "target_word": "topic"
+    "target_word": "topic",
+    "distractor_analysis": {
+      "subject": "（主题、科目）范围较广，通常指文章、谈话、研究等的中心思想或学科分类，较为宏观。",
+      "topic": "（话题、论题）指谈话、讨论、文章或会议中具体涉及的话题或题目，侧重于大家讨论的具体焦点。符合“研讨会讨论的话题”的语境。",
+      "title": "（标题、名称）仅指书籍、文章、艺术作品等的名称或人的头衔，不代表讨论的实质内容。",
+      "suggestion": "（建议、提议）指提出的主意或计划，不表示会议的讨论主题。"
+    }
   },
   {
     "id": "q_ch1_15",
@@ -8882,7 +9062,13 @@
       "enchant": "通常用来指使被迷住的人欢喜",
       "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧"
     },
-    "target_word": "enchant"
+    "target_word": "enchant",
+    "distractor_analysis": {
+      "charm": "（吸引、迷住）指以优雅、迷人的特质讨人喜欢，语气较温和，不一定达到使人“完全入迷”的程度。",
+      "attract": "（吸引、引起注意）最普通的用词，指物理上的相互吸引或引起他人的注意和兴趣。",
+      "enchant": "（使着迷、施魔法）语气最强，本义为“施魔法”，引申为使人神魂颠倒、如痴如醉。符合语境中magical和leaving them spellbound（令其着魔般入迷）的强烈情感色彩。",
+      "distinguish": "（区分、辨别）意为分辨出不同，与“吸引、迷住”的语义完全无关。"
+    }
   },
   {
     "id": "q_ch1_16",
@@ -8903,7 +9089,13 @@
       "let": "指积极允许，不加反对或阻止，但不能用于被动结构",
       "admit": "指允许某人进入某场所、单位或加入某单位、组织"
     },
-    "target_word": "admit"
+    "target_word": "admit",
+    "distractor_analysis": {
+      "allow": "（允许）泛指听任、不加阻止，多接allow sb to do sth结构，若表“允许进入”较少直接用allow sb into。",
+      "permit": "（许可）相比allow更为正式，常指法律或制度上的批准，同样较少单独表达“准许进入某地”。",
+      "let": "（让、允许）最口语化，通常接不带to的不定式(let sb do sth)，不符合该句较正式的语境。",
+      "admit": "（准许进入、接纳）特指允许某人进入某场所或加入某组织，搭配admit sb into/to...是固定用法。极其契合“准许进入观众席”的语境。"
+    }
   },
   {
     "id": "q_201_a9f3b2",
@@ -8924,7 +9116,13 @@
       "fall": "指突然或猛烈地降落，也可指任何下落，同高度或形式无关。",
       "sink": "指在空气或水中垂直下降、下沉。"
     },
-    "target_word": "sink"
+    "target_word": "sink",
+    "distractor_analysis": {
+      "descend": "（下降）正式用词，指平稳地从高处向低处移动，如飞机降落或走下楼梯，不用于船只沉没。",
+      "drop": "（掉落）强调物体由于重力作用突然、快速地垂直下落，如杯子从手中掉落。",
+      "fall": "（落下、跌倒）最普通用词，指失去平衡而倒下，或自由落体式地掉下，不指在水中下沉。",
+      "sink": "（下沉）专指在水、泥沙等液体或半液体物质中往下沉，特指船只沉没或落水者下沉，完全契合语境。"
+    }
   },
   {
     "id": "q_202_c8d1e4",
@@ -8945,7 +9143,13 @@
       "accommodate": "即可表示提供，也可表示容纳，指“舒适地”容纳。",
       "receive": "作为干扰项，指接待或接收。"
     },
-    "target_word": "accommodate"
+    "target_word": "accommodate",
+    "distractor_analysis": {
+      "hold": "（容纳、握住）通常指容器、建筑物内部能装下或容纳一定数量的人或物，不含有“提供住宿服务”的含义。",
+      "contain": "（包含、容纳）侧重于整体内包含有某些成分或物体在里面，不用于指人为他人提供住宿。",
+      "accommodate": "（容纳、提供膳宿）侧重于为某人提供住宿、空间或满足某人的需求，符合语境中当地家庭为滞留旅客提供客房过夜的情景。",
+      "receive": "（接待、收到）指接见访客或收到物品，虽然有接待之意，但不强调提供铺位和住宿空间。"
+    }
   },
   {
     "id": "q_203_b5f7a2",
@@ -8966,7 +9170,13 @@
       "deadly": "致命的，致死的，作为干扰项。",
       "deathly": "死一般的，作为干扰项。"
     },
-    "target_word": "dying"
+    "target_word": "dying",
+    "distractor_analysis": {
+      "dead": "（死亡的）状态形容词，指生命已经完全结束。士兵还“吊着最后一口气”，即尚未死亡，因此不能用dead。",
+      "dying": "（临终的、垂死的）指生命即将结束但尚未结束的过程或状态，dying wish（临终遗愿）是固定搭配，符合语境。",
+      "deadly": "（致命的）指能导致死亡的事物，如致命的毒药(deadly poison)，不能用来形容愿望。",
+      "deathly": "（死一般的）常修饰状态，指像死了一样寂静或苍白，如deathly pale（死一样苍白），不修饰愿望。"
+    }
   },
   {
     "id": "q_204_f1a2b3",
@@ -8987,7 +9197,13 @@
       "deed": "较为庄重、显著、伟大而感人的行为，且具有持久性。",
       "behavior": "行为、举止，作为干扰项。"
     },
-    "target_word": "deed"
+    "target_word": "deed",
+    "distractor_analysis": {
+      "act": "（行为、动作）普通用词，指短暂的、具体的某一次行动或举动，感情色彩中性。",
+      "action": "（行动）强调正在进行的动作过程或一系列行为，侧重于做事的活跃状态，少用于指代具体的某一件好人好事。",
+      "deed": "（事迹、行为）尤指具有高尚道德色彩、值得赞扬的伟大行为或英雄事迹，常与heroic连用。非常符合“英勇救人的事迹”的语境。",
+      "behavior": "（举止、行为表现）侧重指一个人长期的行为方式或在某些场合下的修养与态度，不指单次的英雄壮举。"
+    }
   },
   {
     "id": "q_205_e4c8d1",
@@ -9008,7 +9224,13 @@
       "sufficient": "指数量上尤指程度上多能满足或达到某种特殊需要。",
       "abundant": "丰富的，充裕的，作为干扰项。"
     },
-    "target_word": "adequate"
+    "target_word": "adequate",
+    "distractor_analysis": {
+      "adequate": "（足够的、合格的）强调数量或质量上正好能满足某种特定标准或要求，通常暗含“刚好达标，但不算特别优秀”的意味。符合“表现不惊艳但够用”的语境。",
+      "enough": "（足够的）最普通用词，强调数量或程度上满足需要，不侧重质量上的“合格、差强人意”之感。",
+      "sufficient": "（充足的）较正式，不仅指满足基本需求，还含有非常充裕、绰绰有余的意味，用来形容业余演出的基本达标略显过高。",
+      "abundant": "（丰富的、大量的）指数量极多，远远超过所需，常形容资源、降水等，不能用于形容表演水平。"
+    }
   },
   {
     "id": "q_206_d1e4c8",
@@ -9029,7 +9251,13 @@
       "freezing": "指使人僵直，使东西凝固的冷。",
       "icy": "多指风暴、风雪和水等冷得使人感到如刺如割。"
     },
-    "target_word": "icy"
+    "target_word": "icy",
+    "distractor_analysis": {
+      "chilly": "（寒冷的、怕冷的）程度较轻，指让人感到有些发抖的冷，常指秋天的凉意，程度不及语境中的severe storm（猛烈风暴）。",
+      "frosty": "（结霜的、严寒的）侧重于天气冷得结霜了，或形容人态度冷淡，常修饰早晨或天气，形容风则不够确切。",
+      "freezing": "（极冷的、冰冻的）强调气温降至冰点以下，能把东西冻住，程度深，但不如icy侧重穿透性。",
+      "icy": "（冰冷的、刺骨的）强调像冰一样冷，常引申为寒气刺骨，与wind连用(icy wind)能极好地对应后文的cut right through（穿透）和biting（刺痛）。"
+    }
   },
   {
     "id": "q_207_a9f3b2",
@@ -9050,7 +9278,13 @@
       "fired": "口语用词，多指被断然地突然解雇，其行动犹如开枪一样干净利落。",
       "resigned": "辞职，作为干扰项。"
     },
-    "target_word": "fired"
+    "target_word": "fired",
+    "distractor_analysis": {
+      "discharged": "（解雇、允许离开）偏向中性或正式，可指因完成任务或生病而被准许离开（如出院、退伍），少用于因犯错被当场炒鱿鱼。",
+      "dismissed": "（解雇、遣散）正式用词，指上级让下级离开或解除职务，但不一定带有强烈的惩罚性质，语气较fire平缓。",
+      "fired": "（开除、解雇）口语化且语气强烈，特指员工因犯错、表现不佳而遭到强制性的开除，与“因屡次违规被当场赶走”的情境完全契合。",
+      "resigned": "（辞职）为主动行为，指自己主动放弃职位，而语境是工人被动受罚。"
+    }
   },
   {
     "id": "q_208_b5f7a2",
@@ -9071,7 +9305,13 @@
       "detect": "正式用词，强调经过周密观察或研究而有所获得和发现，尤指发现有意隐藏之物。",
       "ascertain": "较正式用词，指有意搜寻与发现，查明、确定。"
     },
-    "target_word": "detect"
+    "target_word": "detect",
+    "distractor_analysis": {
+      "discover": "（发现）侧重发现原本已经存在但未被人们知晓的事物，如发现新大陆或科学规律。",
+      "find": "（找到、发现）普通用词，指偶然发现或通过寻找找到某人某物，不强调使用仪器进行微观或隐藏层面的探测。",
+      "detect": "（探测、察觉）特指利用精密仪器或凭借敏锐观察力去发现隐藏的、不易察觉的事物，如传感器侦测微小移动，极其贴合语境。",
+      "ascertain": "（查明、弄清）强调通过调查、核对等手段确认某事物的真相或事实，不用于仪器传感器的物理探测。"
+    }
   },
   {
     "id": "q_209_c8d1e4",
@@ -9092,7 +9332,13 @@
       "formulate": "与conceive相反，指在devise之后的具体设计活动，制定计划等。",
       "create": "创造，普通用词，作为干扰项。"
     },
-    "target_word": "formulate"
+    "target_word": "formulate",
+    "distractor_analysis": {
+      "devise": "意为“设计，发明”，侧重于想出新颖或巧妙的方法、计划，具有一定的独创性和智力投入。",
+      "conceive": "意为“构思，设想”，强调在头脑中孕育想法或概念的初期阶段，较少涉及具体的细节制定。",
+      "formulate": "意为“系统地阐述，规划”，强调经过深思熟虑、有条理地制定出详细的计划或方案（如a plan），常与详细步骤、政策等搭配，符合本题语境中制定“具体的计划”。",
+      "create": "意为“创造，创作”，是一个较通用的词，强调从无到有地产生新事物，但不特指系统性地“制定”计划。"
+    }
   },
   {
     "id": "q_210_d1e4c8",
@@ -9113,7 +9359,13 @@
       "approximately": "多用于书面语，指精确度接近某个标准以致误差可忽略不计。",
       "roughly": "指按精略估计，常代替about。"
     },
-    "target_word": "approximately"
+    "target_word": "approximately",
+    "distractor_analysis": {
+      "almost": "意为“几乎，差不多”，通常强调十分接近某个标准或状态，但还差一点，不常用于正式报告中精确的估计。",
+      "about": "意为“大约”，是日常交流中最常用的表示大致数量的词汇，语气较口语化，不够正式。",
+      "approximately": "意为“大约，近似”，语气正式，多用于科技、商业、官方报告中，强调经过严密计算但允许微小误差的接近值，最符合语境。",
+      "roughly": "意为“粗略地，大约”，强调没有经过精确计算、仅凭估计得出的数值，与句中“误差可忽略不计”的严密性相矛盾。"
+    }
   },
   {
     "id": "q_211_f1a2b3",
@@ -9134,7 +9386,13 @@
       "target": "指射击的靶，军事攻击目标。引申指被攻击、批评或嘲笑的目标。",
       "object": "强调个人或需求而决定的目标、目的。"
     },
-    "target_word": "goal"
+    "target_word": "goal",
+    "distractor_analysis": {
+      "aim": "意为“目标，目的”，通常指短期或较具体的打算和志向，侧重努力的方向，不如goal宏大。",
+      "goal": "意为“目标，进球”，常指需要经过长期奋斗、克服重重困难才能达到的长远或最终目标（ultimate goal），与句中多年的艰苦训练和牺牲相契合。",
+      "target": "意为“靶子，目标”，通常指具体的、可量化的靶子或攻击对象（如销售额、射击目标等），侧重精确性。",
+      "object": "意为“目的，目标”，多指行动所追求的直接客体或动机，感情色彩较中性，不如goal强烈。"
+    }
   },
   {
     "id": "q_212_e4c8d1",
@@ -9155,7 +9413,13 @@
       "keen": "强调因兴趣强烈或欲望而急于做某事。",
       "nervous": "紧张的，担忧的，作为干扰项。"
     },
-    "target_word": "keen"
+    "target_word": "keen",
+    "distractor_analysis": {
+      "anxious": "意为“焦急的，渴望的”，通常搭配for或to do，强调由于担忧或不安而产生的一种迫切期待。",
+      "eager": "意为“渴望的，热切的”，搭配for或to do，强调对某事抱有极大的热情和积极的渴望。",
+      "keen": "意为“热衷的，渴望的”，常与介词on搭配（be keen on sth/doing sth），表示对某项爱好或活动表现出浓厚的兴趣和热情，固定搭配决定了它是本题唯一选项。",
+      "nervous": "意为“紧张的，神经质的”，常搭配about/of，表示对即将发生的事情感到害怕或不安，与句意“热衷于集邮”不符。"
+    }
   },
   {
     "id": "q_213_a9f3b2",
@@ -9176,7 +9440,13 @@
       "proclaim": "指官方宣布重大事件或施政方针，语体较正式。",
       "pronounce": "较多用于指法律判决方面的宣布。"
     },
-    "target_word": "pronounce"
+    "target_word": "pronounce",
+    "distractor_analysis": {
+      "announce": "意为“宣布，宣告”，侧重于向公众预告或传达大家感兴趣的新闻或决定，一般是事实的通知。",
+      "declare": "意为“声明，宣告”，多指在正式场合清楚有力地公开表态，或用于宣战、宣布独立等。",
+      "proclaim": "意为“宣告，公布”，通常用于极其隆重、官方的场合（如宣布国家法令、节假日等），带有威严感。",
+      "pronounce": "意为“发音，宣判”，在法律语境中是专有词汇，指法官在法庭上依法下达“判决（judgment/sentence）”，完全契合句中的法庭和主审法官语境。"
+    }
   },
   {
     "id": "q_214_b5f7a2",
@@ -9197,7 +9467,13 @@
       "care": "强调因出于责任感或顾虑等而产生的不安。",
       "concern": "侧重对他人健康、安全等的关心，也可暗示对困难、危险或失败等的忧虑。"
     },
-    "target_word": "concern"
+    "target_word": "concern",
+    "distractor_analysis": {
+      "anxiety": "意为“焦虑，不安”，指由于面临危险或未卜的命运而产生的极度紧张、忧惧的心理状态，程度较重。",
+      "worry": "意为“担忧，发愁”，是日常用语，强调个人情感上的烦恼和忧虑，不如concern正式。",
+      "care": "意为“关心，照料”，作名词时多指责任、操心或生活中的关照，很少用于表示对公司前景的“忧虑”。",
+      "concern": "意为“关切，担忧”，是个正式用词，常用于指对与自身利益相关的重要事物（如公司稳定性等）所表现出的关注与忧虑（cause concern），最符合董事会语境。"
+    }
   },
   {
     "id": "q_215_c8d1e4",
@@ -9218,7 +9494,13 @@
       "evident": "指根据事实成为显然的。",
       "manifest": "语义较强，书面用词，强调一目了然，暗示不要任何推论就一清二楚。"
     },
-    "target_word": "obvious"
+    "target_word": "obvious",
+    "distractor_analysis": {
+      "apparent": "意为“表面上的，明显的”，有时暗含“表面看如此，但实际上可能并非这样”的意味，语气较弱。",
+      "obvious": "意为“明显的，显而易见的”，指事情极为清晰，凭常识一眼就能看出来。固定搭配“for obvious reasons（出于显而易见的原因）”是惯用语。",
+      "evident": "意为“明显的，明白的”，通常侧重于有事实或证据作为基础而得出明显的结论。",
+      "manifest": "意为“明显的，显露的”，多用于书面语，指行为、态度等不仅明显，而且几乎毫无掩饰地展现出来。"
+    }
   },
   {
     "id": "q_216_d1e4c8",
@@ -9239,7 +9521,13 @@
       "forsake": "侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。",
       "leave": "普通用词，指舍弃某事或某一职业，或终止与某人的关系，但不涉及动机与结果。"
     },
-    "target_word": "desert"
+    "target_word": "desert",
+    "distractor_analysis": {
+      "abandon": "意为“放弃，遗弃”，通常指因迫不得已而彻底放弃某物或某人，强调不再承担责任或提供支持。",
+      "desert": "意为“擅离，抛弃”，侧重于违背誓言、法律或道德责任而逃离，尤指军人“擅离职守（desert one's post）”，最符合句中“军事法庭（court-martial）”的语境。",
+      "forsake": "意为“抛弃，背弃”，文学色彩浓厚，主要指抛弃所爱的人、信仰或旧习惯，侧重情感或道德层面的决裂。",
+      "leave": "意为“离开，留下”，是最普通的用词，仅仅表示空间位置上的离开，没有体现出“违背职责”的严重性。"
+    }
   },
   {
     "id": "q_chunk3_01",
@@ -9260,7 +9548,13 @@
       "faculty": "指特殊的才能或智力。",
       "genius": "语气最强，指天赋的高度才能与智力。"
     },
-    "target_word": "competence"
+    "target_word": "competence",
+    "distractor_analysis": {
+      "competence": "意为“能力，胜任”，特指具备胜任某一特定工作、任务或职业所需的专业知识和技能（professional competence），正好切合语境中“解决关键故障的业务能力”。",
+      "capacity": "意为“容量，能力”，多指人或事物接受、容纳或吸收的能力，也指固有的潜在能力，较少直接用来指代工作胜任力。",
+      "faculty": "意为“机能，天赋”，常指人与生俱来的身体机能（如听觉）或心理能力（如记忆力、推理力）。",
+      "genius": "意为“天才，天赋”，指极高的、超乎常人的创造力或智力，对于解决一次系统故障而言，词义显得过于夸张。"
+    }
   },
   {
     "id": "q_chunk3_02",
@@ -9281,7 +9575,13 @@
       "cancel": "用法广泛，多指取消债务、合同、证书、比赛、旅行、计划或约会等。",
       "delete": "删除（补充选项）"
     },
-    "target_word": "repeal"
+    "target_word": "repeal",
+    "distractor_analysis": {
+      "abolish": "意为“废除，废止”，通常指彻底废除长期存在的制度、风俗习惯或奴隶制等，范围较广。",
+      "cancel": "意为“取消，撤销”，多指取消已经安排好的活动、计划、会议或契约等。",
+      "repeal": "意为“废除，撤销（法令）”，是法律术语，特指由立法机关正式宣布撤销或废止某项法律（如tax law）、法规，用于此处最为准确。",
+      "delete": "意为“删除”，特指从文件、文本或计算机系统中删去文字或数据，不能用于“废除法律”。"
+    }
   },
   {
     "id": "q_chunk3_03",
@@ -9302,7 +9602,13 @@
       "round": "主要用于英国，多半指动态。",
       "along": "指沿着一条直线在水平方向上运动（补充选项）。"
     },
-    "target_word": "about"
+    "target_word": "about",
+    "distractor_analysis": {
+      "about": "意为“四处，到处”，在固定短语“out and about”中表示病愈后“能下床走动，能外出活动”，是地道的英语习惯用语。",
+      "around": "意为“在周围，环绕”，虽然有时可与about互换表示“到处”，但在该特定习语（out and about）中不可替代。",
+      "round": "意为“在周围，圆的”，多用于英式英语中表示环绕或四处，同样不构成此固定习语。",
+      "along": "意为“沿着，向前”，强调沿着一条线或方向移动，不具备“四处走动”的含义。"
+    }
   },
   {
     "id": "q_chunk3_04",
@@ -9323,7 +9629,13 @@
       "on": "指与另一物表面相接触。",
       "in": "在……里面（补充选项）。"
     },
-    "target_word": "over"
+    "target_word": "over",
+    "distractor_analysis": {
+      "above": "意为“在...上方”，仅表示位置高于某物，但不一定在正上方，强调相对高度。",
+      "on": "意为“在...上面”，强调与物体表面有物理接触。",
+      "over": "意为“在...正上方，覆盖”，表示垂直在某物之上，且常带有覆盖或动态动作（如盘旋）的意味，直升机在村庄“正上方盘旋”用over最合适。",
+      "in": "意为“在...里面”，表示处于三维空间的内部，显然不符合直升机在空中的位置。"
+    }
   },
   {
     "id": "q_chunk3_05",
@@ -9344,7 +9656,13 @@
       "suck": "作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。",
       "digest": "侧重在消化道内改变食物的化学结构后被人体吸收。"
     },
-    "target_word": "incorporate"
+    "target_word": "incorporate",
+    "distractor_analysis": {
+      "absorb": "意为“吸收，理解”，常指物质吸收液体、光热，或人吸收知识，侧重于将外物吸纳进体内或脑海中。",
+      "suck": "意为“吸，吮吸”，主要指用嘴或吸力将液体或气体吸入，是具体的物理动作。",
+      "digest": "意为“消化，领悟”，多指消化食物或彻底理解、融会贯通某种信息。",
+      "incorporate": "意为“把...并入，将...包含在内”，常与into搭配（incorporate sth into sth），强调将新事物作为不可分割的一部分合并或编入原有体系（如将新发现编入教科书）中，符合句意。"
+    }
   },
   {
     "id": "q_chunk3_06",
@@ -9365,7 +9683,13 @@
       "plentiful": "普通用词，指某物的数量多得称心如意，不过剩，但较少用于描写抽象之物。",
       "massive": "巨大的，大量的（补充选项）。"
     },
-    "target_word": "ample"
+    "target_word": "ample",
+    "distractor_analysis": {
+      "abundant": "意为“丰富的，充裕的”，侧重数量极多，甚至超过实际需要，常用于自然资源、降雨量等。",
+      "plentiful": "意为“大量的，丰富的”，指某物供应量充足，不缺乏，与abundant类似但语气稍弱。",
+      "ample": "意为“充足的，丰裕的”，强调不仅数量多，而且完全能够满足特定需求甚至有余，常用于时间、空间、食物等，最能体现“让所有宾客都不挨饿”的充足感。",
+      "massive": "意为“巨大的，大量的”，侧重于体积大、重量重或规模宏大，不常用于修饰“食物数量”。"
+    }
   },
   {
     "id": "q_chunk3_07",
@@ -9386,7 +9710,13 @@
       "receive": "着重仅仅接到或收到事实，而不含采取主动或积极行动的意思。",
       "take": "与receive同义，是receive的日常用法，侧重不带主观意愿地收下或接受。"
     },
-    "target_word": "admit"
+    "target_word": "admit",
+    "distractor_analysis": {
+      "accept": "意为“接受，同意”，表示主观上愿意收下或赞同某事物，虽然可指接受某人，但不如admit专业。",
+      "receive": "意为“收到，接待”，侧重被动地接到物品或客观上招待客人，不指学校的录取。",
+      "admit": "意为“准许进入，录取”，特指机构（如学校、医院等）接收或准许某人加入、进入，固定搭配admit sb into/to（录取某人进入某项目），是表示学术录取的标准用词。",
+      "take": "意为“拿，接受”，是个万能词，口语中可表示接纳，但在正式公文中描述大学“录取”，显得不够规范和严谨。"
+    }
   },
   {
     "id": "q_chunk3_08",
@@ -9407,7 +9737,13 @@
       "incident": "既可指小事件或附带事件，又可指政治上具有影响的事件或事变。",
       "occurrence": "多指日常生活中发生的一般事件，有时也指偶然发生的事。"
     },
-    "target_word": "event"
+    "target_word": "event",
+    "distractor_analysis": {
+      "accident": "意为“事故，意外”，通常指偶然发生的、带来破坏或伤害的意外事件（如车祸）。",
+      "incident": "意为“事件，事变”，多指普通的、不太重要的小事件，或政治上引起争端的事变。",
+      "event": "意为“重大事件”，特指在历史上具有重要意义或规模宏大、引人注目的事件（historical event），符合句中“引发一战爆发”这一历史节点的沉重分量。",
+      "occurrence": "意为“发生的事情”，指日常生活中随时发生的任何事情，不强调事件的重要性和历史意义。"
+    }
   },
   {
     "id": "q_chunk3_09",
@@ -9428,7 +9764,13 @@
       "conduct": "无论用于人或物均指引导带领。",
       "attend": "侧重主从关系，即下级对上级，学生对老师等，或表恭、服侍。"
     },
-    "target_word": "escort"
+    "target_word": "escort",
+    "distractor_analysis": {
+      "accompany": "意为“陪伴，伴随”，一般指作为平等的同伴陪同某人或伴随某事发生，不带有提供保护的含义。",
+      "conduct": "意为“引导，带领”，侧重于指引方向或带领某人参观，也作“指挥”解。",
+      "attend": "意为“出席，照料”，作及物动词时多表示参加会议或侍候、照顾，不用于武装安保。",
+      "escort": "意为“护卫，护送”，特指为了防范危险或出于礼仪，派遣武装人员或车队对重要人物、贵重物品（如艺术品）进行随行保护，最契合句中的安保语境。"
+    }
   },
   {
     "id": "q_chunk3_10",
@@ -9449,7 +9791,13 @@
       "hence": "较正式用词，指接下来的东西是理所当然的必需的东西，但强调其重要性。",
       "thus": "多用于书面语中，可与therefore换用。"
     },
-    "target_word": "accordingly"
+    "target_word": "accordingly",
+    "distractor_analysis": {
+      "accordingly": "意为“照着，相应地”，表示动作要根据前面提到的情况、指示或规则来进行。句中意为“（根据火警信号）采取相应行动”。",
+      "consequently": "意为“因此，结果”，强调由前因导致的合乎逻辑的结果，通常连接两个分句，不作状语修饰动词act。",
+      "hence": "意为“因此，从此”，多用于推理或引出结果，常置于句首或分句首，修饰整个句子。",
+      "thus": "意为“因此，这样”，也侧重于引出结果或表示方式，不如accordingly准确传达“顺应指示行动”的含义。"
+    }
   },
   {
     "id": "q_chunk3_11",
@@ -9470,7 +9818,13 @@
       "collect": "普通用词，多用于指物，侧重指有区别地作选择或有安排有计划地把零散物集中起来。",
       "gather": "普通用词，指人或物或抽象事物都可用。侧重于围绕一个中心的集合、聚集。"
     },
-    "target_word": "amass"
+    "target_word": "amass",
+    "distractor_analysis": {
+      "accumulate": "意为“积累，积聚”，指数量逐渐、持续地增加，可指财富、知识等，是个相对中性的通用词汇。",
+      "amass": "意为“大量积聚，积累（财富）”，主要特指怀着强烈的占有欲，在短时间内或通过手段积聚“大量财富、资金或信息”（amass a fortune），带有较强的情感色彩，最符合“贪婪的商人”语境。",
+      "collect": "意为“收集，搜集”，侧重于有选择、有目的地寻找并聚集某类物品（如邮票），不强调财富的堆积。",
+      "gather": "意为“聚集，收集”，通常指把分散的人或物集中到一起，或采集农作物等，没有积攒巨额财富的意味。"
+    }
   },
   {
     "id": "q_chunk3_12",
@@ -9491,7 +9845,13 @@
       "exact": "着重在质与量方面的准确，语气比accurate强。",
       "correct": "最常用词，主要指按一定标准或规则来衡量，没有谬误和差错或无缺点错误。"
     },
-    "target_word": "precise"
+    "target_word": "precise",
+    "distractor_analysis": {
+      "accurate": "意为“准确的”，指通过努力使结果符合标准或事实，没有错误，强调“准”（不偏离目标）。",
+      "exact": "意为“确切的，一丝不差的”，强调在细节上与事实或标准完全吻合，丝毫不差。",
+      "precise": "意为“精确的，严密的”，在科学和工程语境中，特指测量、仪器或数据的精细程度高（如精确到毫克），强调细节的极其细密和“精”度，最符合实验测量的语境。",
+      "correct": "意为“正确的”，指符合事实、规则或常识，是个相对宽泛的词，不涉及科学测量上的极高精确度。"
+    }
   },
   {
     "id": "q_chunk3_13",
@@ -9512,7 +9872,13 @@
       "secure": "强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。",
       "earn": "侧重指依靠自己的劳动或因付出代价与有功而获得。"
     },
-    "target_word": "acquire"
+    "target_word": "acquire",
+    "distractor_analysis": {
+      "acquire": "获得（技能、知识、习惯等），侧重于通过漫长过程和努力逐渐习得。符合句意中通过多年学习和实践获得语言流利度。",
+      "obtain": "获得、得到，通常指经过努力、请求或计划而得到某物，侧重于得到实体物品或特定结果，不常用于修饰语言流利度等内在技能。",
+      "secure": "获得、弄到、保卫，强调克服困难将某物牢牢掌握或确保其安全，常接工作、合同、席位等，较少搭配语言能力。",
+      "earn": "赚得、赢得，侧重于因付出劳动或有价值的行为而获得报酬、名声或地位（如earn money/respect），不搭配语言技能。"
+    }
   },
   {
     "id": "q_chunk3_14",
@@ -9533,7 +9899,13 @@
       "along": "指沿着一条直线在水平方向上运动。一般表动态，有时也与静态动词连用。",
       "over": "常和动态动词连用，指“从……上面越过”或“横越”;表静态时，指“在彼处”。"
     },
-    "target_word": "through"
+    "target_word": "through",
+    "distractor_analysis": {
+      "across": "穿过、横过，强调从物体表面的一边到另一边（如过马路、过河），不表示在内部穿行。",
+      "along": "沿着、顺着，指平行于某个较长物体的边缘或线条行进（如沿着街道、河流），不符合“穿过”森林。",
+      "over": "越过、在…上方，侧重于从物体的上方跨越或覆盖（如翻墙、飞过山顶），不符合进入森林内部的语境。",
+      "through": "穿过、贯穿，强调从立体空间或障碍物的内部穿过（如穿过森林、隧道、人群），符合在茂密森林中穿行的句意。"
+    }
   },
   {
     "id": "q_chunk3_15",
@@ -9554,7 +9926,13 @@
       "energetic": "指精力充沛、奋力从事某事业。",
       "brisk": "指动作敏捷、充满活力、轻快活泼地从事某项工作或活动。"
     },
-    "target_word": "vigorous"
+    "target_word": "vigorous",
+    "distractor_analysis": {
+      "active": "活跃的、主动的，指经常参与活动或保持运动状态，偏向于行为上的频繁，未强调身体机能的强健。",
+      "energetic": "精力充沛的，指人充满活力和热情，常指精神面貌和行动上的干劲，较普遍。",
+      "vigorous": "精力极其旺盛的、强健的，强调身体强壮、健康且活动强有力，常用来形容老年人依然健朗或运动量大，最契合句中每天跑三英里的强健体魄。",
+      "brisk": "敏捷的、轻快的（常形容步伐、风或天气），通常指动作轻盈快捷（如brisk walk），不专门用于形容人整体的身体强壮度。"
+    }
   },
   {
     "id": "q_chunk3_16",
@@ -9575,7 +9953,13 @@
       "conform": "多指与某模式或规则相符，也引申指改变习惯等以适应新的环境。",
       "accommodate": "书面用词，指以外部条件标准改变自己或某事以求得适应，着重改变或调节的有利。"
     },
-    "target_word": "adjust"
+    "target_word": "adjust",
+    "distractor_analysis": {
+      "adapt": "使适应、改编，通常指为适应新的环境或用途而做出较大幅度的改变或改造（如适应新气候、改编小说），不用于调节机器部件。",
+      "adjust": "调整、调节，指对机械、装置或位置进行微调，使其达到正确、合适的状态，符合句中调节后视镜和座椅的语境。",
+      "conform": "使一致、遵从，强调行为或思想与规则、标准、习俗相一致（常搭配to/with），不表示物理上的调节。",
+      "accommodate": "容纳、迎合、提供住宿，指提供空间以容纳某人/某物，或改变做法以迎合他人需求，不用于调节物理设备。"
+    }
   },
   {
     "id": "q_chunk4_01",
@@ -9597,7 +9981,13 @@
       "supplement": "主要指使书、报等正广更完善而额外增加的部分。",
       "accessory": "作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品。"
     },
-    "target_word": "appendix"
+    "target_word": "appendix",
+    "distractor_analysis": {
+      "addition": "增加物、附加物，泛指加进去的任何事物，是一个通用词汇，不能特指书籍末尾的专门结构。",
+      "appendix": "附录，专指书籍、文件末尾的附加部分（如参考书目、图表等），通常与正文相关但可独立存在，完全匹配“书末的参考书目”语境。",
+      "attachment": "附件，通常指电子邮件中附带的文件，或物理上连接在一起的装置，不用于指代书籍的附录。",
+      "supplement": "补充物、增刊，侧重于补充现有事物的不足（如营养补充剂）或作为书籍、报纸的独立增刊，不像appendix那样指书中固有的结尾部分。"
+    }
   },
   {
     "id": "q_chunk4_02",
@@ -9617,7 +10007,13 @@
       "extra": "指不包括本身而额外加上去的部分。",
       "supplementary": "由名词supplement派生而来，指对原有的追加或补充。"
     },
-    "target_word": "extra"
+    "target_word": "extra",
+    "distractor_analysis": {
+      "additional": "附加的、额外的，指在原有数量或内容上的增加，偏向于“更多相同的”，不如extra在费用上强调“额外超出规定”的语气强。",
+      "extra": "额外的、另外收费的，常专门用来指超出常规、定额或基本服务之外的部分，搭配费用（extra charge/fee）是固定且最常见的地道用法。",
+      "supplementary": "补充的、追加的，侧重于弥补原有的不足或欠缺，常用于说明书、资料或条款的补充，极少用于“额外收费”。",
+      "external": "外部的、外表的，指在物体外面或与外界有关的，与“费用”无关，不符合句意。"
+    }
   },
   {
     "id": "q_chunk4_03",
@@ -9639,7 +10035,13 @@
       "hail": "主要指怀着敬意欢迎某人，侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。",
       "welcome": "多指热情的官方的或正式的迎接或欢迎，但也指一般的欢迎。"
     },
-    "target_word": "salute"
+    "target_word": "salute",
+    "distractor_analysis": {
+      "address": "向…讲话、称呼，指用某种特定的称呼语与人交谈，侧重言语沟通，不指军事动作。",
+      "greet": "问候、迎接，指一般性的打招呼、欢迎（如握手、说你好），缺乏军事上下级间特有的规范性。",
+      "salute": "敬礼、致敬，专指军人之间或向国旗等举手致敬的正式动作，非常符合“士兵向指挥官致意”的特定军事语境。",
+      "hail": "欢呼、高呼（招呼）、赞扬，常指大声呼叫以引起注意（如hail a taxi）或热情赞颂，不表示军人的敬礼。"
+    }
   },
   {
     "id": "q_chunk4_04",
@@ -9662,7 +10064,13 @@
       "report": "一般是指下级给上级或负责人给委托机关的书面或口头报告。",
       "talk": "常用词，强调非正式讲话，讲话方式一般较为自由。"
     },
-    "target_word": "address"
+    "target_word": "address",
+    "distractor_analysis": {
+      "address": "演说、致辞，指正式的、面向公众或特定听众的重要讲话，尤其是政治家或领导人发表的演讲（如总统就职演说），非常契合电视演说的语境。",
+      "lecture": "讲座、授课，指在学术或教育场合对特定学科进行的系统性演讲，带有教育性质，不适合总统对国民的讲话。",
+      "oration": "演说、致辞，通常指在极其隆重的仪式（如葬礼、庆典）上发表的华丽且充满感情的正式演讲，语气过于戏剧化，不如address常用。",
+      "talk": "讲话、谈话，指非正式的、日常的交流或简短的发言，缺乏总统就国家危机发表演说的正式感。"
+    }
   },
   {
     "id": "q_chunk4_05",
@@ -9684,7 +10092,13 @@
       "regard": "最正式用词，中性，含义不很明确，一般需用修饰语加强或明确其意。",
       "esteem": "除表示尊敬之外，还暗示由此而产生的称赞。"
     },
-    "target_word": "respect"
+    "target_word": "respect",
+    "distractor_analysis": {
+      "admire": "钦佩、赞赏，强调对某人的才华、外貌或成就感到惊叹和羡慕，不常用于对长辈的“尊敬”。",
+      "honor": "尊敬、给予荣誉，通常指因极高的成就或地位而受到公开的表彰或崇高的敬意，程度较深且带有仪式感。",
+      "respect": "尊重、尊敬，指对某人的品质、经验、地位或权利给予适当的重视和敬重，是最常用的表示“尊老”的词汇，搭配show respect for。",
+      "esteem": "敬重、尊重，词义与respect相近，但更加正式且书面化，通常用作动词（hold someone in high esteem），较少直接搭配show deep esteem。"
+    }
   },
   {
     "id": "q_chunk4_06",
@@ -9706,7 +10120,13 @@
       "admonish": "一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。",
       "counsel": "正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。"
     },
-    "target_word": "warn"
+    "target_word": "warn",
+    "distractor_analysis": {
+      "advise": "建议、劝告，侧重于提供建设性的意见或方案，语气较温和，不适用于预报毁灭性灾害。",
+      "caution": "警告、提醒，指提醒某人注意潜在的危险或风险，促使其小心谨慎，语气比warn轻，通常针对较小的危险。",
+      "warn": "警告、告诫，指明确告知某人即将发生的严重危险或不良后果，语气强烈，最契合针对“飓风及其毁灭性后果”发出的紧急通知。",
+      "admonish": "告诫、责备，指对某人的错误行为进行温和而严肃的批评，或劝告其不要做某事，带有强烈的道德或纪律色彩，与天气预报无关。"
+    }
   },
   {
     "id": "q_chunk4_07",
@@ -9726,7 +10146,13 @@
       "grown-up": "多用于口语，含义与adult基本相同，但更侧重脱离儿童阶段，已成大人，与childish意思相反。",
       "mature": "用于生物时，指完全长好了。用于人时，指达到了生命的黄金时期，但所暗示的青少年和成年之间的界限不明显。"
     },
-    "target_word": "mature"
+    "target_word": "mature",
+    "distractor_analysis": {
+      "adult": "成年的、成年人的，主要作为名词使用或指生理上的发育完成，较少用来形容年轻人的心理成熟度。",
+      "grown-up": "成年的、大人的，多为儿童使用的口语词汇，指长大了的，不常用于修饰青年人处事冷静的特质。",
+      "mature": "成熟的，不仅可指生理上的发育完全，更常用于形容心理、智力或行为举止上成熟稳重、理智，非常契合句中“超出年龄的冷静处理方式”。",
+      "childish": "幼稚的、孩子气的，与句意中冷静处理冲突的稳重表现完全相反。"
+    }
   },
   {
     "id": "q_chunk4_08",
@@ -9748,7 +10174,13 @@
       "move on": "非正式用语，侧重从某一停止点向某地前进，但不表示前进的目的地。",
       "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
     },
-    "target_word": "proceed"
+    "target_word": "proceed",
+    "distractor_analysis": {
+      "advance": "前进、推进，指物理位置上的向前移动，或事物的发展、进步（如科技发展），不能后接with表示“继续进行某事”。",
+      "progress": "进步、进展，指事物朝着更好的方向发展或改善，是一个不可及物动词或名词，不能搭配with。",
+      "proceed": "继续进行、着手做，指在停顿或被打断之后继续某项活动，常搭配with（proceed with sth.），完美契合“简短介绍后继续进行演讲主题”的语境。",
+      "move on": "转移（话题）、继续前进，通常指放下当前的事情转向下一个新的话题或阶段（常搭配to），而非继续当前停顿的主题。"
+    }
   },
   {
     "id": "q_chunk4_09",
@@ -9771,7 +10203,13 @@
       "profit": "着重收益，尤指从物质、钱财等方面获得的利益。",
       "gain": "指获得的物质利益，也暗示不损坏他人利益而得的无形好处。"
     },
-    "target_word": "profit"
+    "target_word": "profit",
+    "distractor_analysis": {
+      "advantage": "优势、有利条件，指在竞争中处于比对手更好的地位，不可通过“降低生产成本”来直接最大化。",
+      "benefit": "益处、福利，泛指对身心、社会或生活有帮助的利益，或指员工福利，较少用作商业上纯财务指标的“利润”。",
+      "interest": "利益、利息、兴趣，指个人或群体的切身利益，或银行存款的利息，不符合公司通过降本增效追求的营业目标。",
+      "profit": "利润、收益，专指商业活动中收入减去成本后的财务盈余，通过“降低生产成本来最大化”是标准的商业语境，完全符合句意。"
+    }
   },
   {
     "id": "q_chunk4_10",
@@ -9793,7 +10231,13 @@
       "sustain": "侧重指连续不断的支持。",
       "advocate": "多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护。"
     },
-    "target_word": "advocate"
+    "target_word": "advocate",
+    "distractor_analysis": {
+      "uphold": "维护、支持，指坚定地维护法律、原则、正义或决定（如uphold the law），不常用于支持推广某种新技术的应用。",
+      "sustain": "维持、支撑，指提供维持生命或存在的能量，或承受住困难，强调长时间的延续，不符合句意。",
+      "advocate": "提倡、主张，指公开支持、极力推荐某一种观点、做法或政策，非常符合环保主义者呼吁、推广使用可再生能源的语境。",
+      "back": "支持、后退，指在背后提供资金、道义上的支持（如back a candidate），语气较口语化，不如advocate在政策倡导上正式准确。"
+    }
   },
   {
     "id": "q_chunk4_11",
@@ -9814,7 +10258,13 @@
       "hind": "指成对并且分前后的东西的“后面的”。",
       "behind": "指一物同它物相对的位置或场所。"
     },
-    "target_word": "hind"
+    "target_word": "hind",
+    "distractor_analysis": {
+      "back": "背部的、后面的，常指物体的背面或人的背部，偶尔用作方向，但不常用于解剖学上指代动物的后肢。",
+      "backward": "向后的、倒退的，表示方向向后或发展迟缓（如backward glance），不能作为形容词修饰腿。",
+      "hind": "后部的（动物的腿），专用于解剖学，特指四足动物的后腿（hind legs），是固定且地道的搭配，完全契合题意。",
+      "behind": "在...后面，是一个介词或副词，表示位置关系，不能作为形容词直接修饰名词legs。"
+    }
   },
   {
     "id": "q_chunk4_12",
@@ -9836,7 +10286,13 @@
       "poor": "普通用词，侧重指事物的质量或数量低于标准或不合要求。用于指天气与食品时可与bad通用。",
       "wicked": "语气比evil强，指居心叵测，任意违反道德标准，有意作恶。"
     },
-    "target_word": "wicked"
+    "target_word": "wicked",
+    "distractor_analysis": {
+      "bad": "坏的、不好的，含义最广，可指质量差、表现糟或道德有瑕疵，语气平淡，无法体现童话反派的恶毒。",
+      "ill": "生病的、不良的，常作表语表示身体不适，或作定语表示不好的（如ill luck），很少用来形容人的邪恶本性。",
+      "poor": "贫穷的、可怜的、劣质的，不包含道德败坏或邪恶的意思。",
+      "wicked": "邪恶的、恶毒的，带有强烈的道德谴责色彩，常用于形容童话或文学作品中存心不良、残忍恶毒的经典反派（如wicked witch/stepmother），最符合句意。"
+    }
   },
   {
     "id": "q_chunk4_13",
@@ -9857,7 +10313,13 @@
       "foundation": "用于具体意义时，侧重指坚固结实的建筑物的基础或地基;用作比喻意义时，与basis基本相同。",
       "ground": "含义与basis和foundation接近。一般指某种决定、论点或关系的基础，也可指某种原因的基础。"
     },
-    "target_word": "foundation"
+    "target_word": "foundation",
+    "distractor_analysis": {
+      "base": "底部、底座，指物体的最下部分或支撑物（如灯座、雕像底座），通常不指大型建筑深入地下的工程基础。",
+      "basis": "基础、根据，主要用于抽象事物，指理论、论断或行动的逻辑起点和原则基础，不能用于物理建筑。",
+      "foundation": "地基、基础，指建筑物深入地下的坚固底座（lay a solid foundation），也可指抽象的基础，在建筑语境中最准确。",
+      "ground": "土地、地面、理由，指室外的地表或论点的依据，不表示建筑学上的“地基”。"
+    }
   },
   {
     "id": "q_chunk4_14",
@@ -9879,7 +10341,13 @@
       "radical": "着重指事物的根本或其来源。",
       "vital": "正式用词，侧重指维持生命、活力必不可少的，或生死攸关的。"
     },
-    "target_word": "vital"
+    "target_word": "vital",
+    "distractor_analysis": {
+      "basic": "基础的、基本的，指事物最简单的起点或组成部分，缺乏“生死攸关”的强烈语气。",
+      "essential": "必不可少的、本质的，强调某事物对于存在或完成某事是绝对必要的，语气较强，但不如vital紧迫。",
+      "fundamental": "根本的、基础的，侧重于事物赖以存在的根基或核心原则（如fundamental rights），较少用于形容救援物资的紧迫性。",
+      "vital": "极其重要的、生死攸关的，源自词根“生命”，不仅表示不可或缺，更强调与生命存亡、成功与否直接相关，完美契合“对灾民生存至关重要”的语境。"
+    }
   },
   {
     "id": "q_chunk4_15",
@@ -9904,7 +10372,13 @@
       "combat": "泛指军事行动，尤指小规模的战斗，甚至是格斗。",
       "engagement": "指交战，交火。"
     },
-    "target_word": "campaign"
+    "target_word": "campaign",
+    "distractor_analysis": {
+      "battle": "战役、战斗，通常指在特定时间、特定地点发生的一次具体的交战，规模小于战争，不强调长期的系列计划。",
+      "war": "战争，指国家或集团之间长期的、全面的武装冲突，包含无数次战役，范围和时间跨度太大。",
+      "campaign": "战役、运动，军事上专指为了达成某个特定战略目标（如攻占首都）而在某一地区进行的一系列有计划的军事行动，完全契合题干中“计划周密、旨在攻占首都”的描述。",
+      "combat": "战斗、格斗，指近距离的武力交锋或搏斗行为（如hand-to-hand combat），更侧重于抽象的作战动作而非宏大的战略计划。"
+    }
   },
   {
     "id": "q_chunk4_16",
@@ -9926,7 +10400,13 @@
       "thrash": "侧重指用棍子或鞭子等痛打。",
       "whip": "多指用鞭子抽打。"
     },
-    "target_word": "beat"
+    "target_word": "beat",
+    "distractor_analysis": {
+      "beat": "打败、战胜，在体育比赛、游戏或竞争中击败对手是其最常见的用法（beat someone），直接切合“在决赛中打败卫冕冠军”。",
+      "strike": "击打、罢工，指突然有力地击中某物，强调物理上的打击动作，不用于“在比赛中战胜对手”。",
+      "hit": "击打、碰撞，指通过物理接触造成打击，通常用于身体部位或武器击中目标，不能表示比赛中的获胜。",
+      "thrash": "痛打、惨败，指严厉地鞭打，或在比赛中以悬殊的比分彻底击败对手，语气过于夸张，不如beat在常规陈述中自然。"
+    }
   },
   {
     "id": "q_7b82f0c1",
@@ -9947,7 +10427,13 @@
       "grow": "常指逐渐地变成新状态，强调渐变的过程。",
       "go": "作为连系动词，通常与形容词连用，指进入某种状态，从而发生变化，多指不好的状态。"
     },
-    "target_word": "go"
+    "target_word": "go",
+    "distractor_analysis": {
+      "become": "变成，成为。指从一种状态向另一种状态的过渡，较为正式，不如go搭配形容词常见于表示食物变质。",
+      "get": "变得。多用于日常口语中表示天气、温度等的变化，较少直接搭配sour表示食物变质。",
+      "grow": "逐渐变得。强调变化的过程和渐进性，不符合牛奶在酷热中“很快”变酸的语境。",
+      "go": "变得，处于...状态。常接形容词，尤用于表示事物朝不利、变坏的方向发展（如go bad/sour）。此处指牛奶变酸，属固定搭配。"
+    }
   },
   {
     "id": "q_8f91a2d3",
@@ -9968,7 +10454,13 @@
       "initiate": "指创始或发起，侧重某过程的第一步，不考虑结束，强调起始。",
       "inaugurate": "指正式而隆重的开始。"
     },
-    "target_word": "inaugurate"
+    "target_word": "inaugurate",
+    "distractor_analysis": {
+      "begin": "开始。最常用的普通词汇，指任何动作或过程的起点，不用于表示建筑物的隆重启用。",
+      "commence": "开始。begin的正式用语，常指诉讼、会议等正式程序的开始，不搭配建筑物落成。",
+      "initiate": "发起，创始。指率先采取行动或引入新事物，不用于具体建筑的启用仪式。",
+      "inaugurate": "为...举行落成/启用仪式；使就职。正式用语，强调通过隆重仪式宣布大型设施正式开放。完全契合题干中图书馆举行剪彩仪式（ribbon-cutting ceremony）的语境。"
+    }
   },
   {
     "id": "q_9c02b3e4",
@@ -9989,7 +10481,13 @@
       "confidence": "指对某人某事有充分信心，断定不会使人失望，因而给予信任。",
       "conviction": "多指根据长期交往或实践，对某人某事有了认识和了解后产生的信心和相信，侧重其坚定性。"
     },
-    "target_word": "confidence"
+    "target_word": "confidence",
+    "distractor_analysis": {
+      "belief": "相信，信念。通常指对某种客观真实性、教条或原则的主观信奉，较少用于投资环境下的“信心”。",
+      "faith": "信仰，信任。多指基于情感或宗教的盲目信任，程度比confidence深，放在日常经济复苏语境中略显夸张。",
+      "confidence": "信心，把握。指对某人某事的能力或成功几率的确信。“boost confidence in”为固定搭配，符合投资者对股市回暖预期的语境。",
+      "conviction": "坚定的信念，定罪。强调经过深思熟虑后坚定不移的看法，语气极强，不适合日常经济数据的短期提振。"
+    }
   },
   {
     "id": "q_0d13c4f5",
@@ -10010,7 +10508,13 @@
       "confide": "侧重忠诚可靠与可信赖（常指吐露秘密）。",
       "rely": "指在相信的基础上可进一步依靠，着重可靠性。"
     },
-    "target_word": "confide"
+    "target_word": "confide",
+    "distractor_analysis": {
+      "believe": "相信，认为。指相信某人说的话是真实的，作及物动词时直接接人或事，不能表达“倾诉秘密”的动作。",
+      "trust": "信任，信赖。强调对某人人格或能力的信任，多为及物动词，不能与“secrets”构成“向某人倾吐”的搭配。",
+      "confide": "吐露（秘密，心事）。特指因为信任而向某人倾诉私人或机密信息。常搭配“confide sth. to sb.”，完美契合题干中“倾诉最深层秘密”的语意。",
+      "rely": "依赖，依靠。指在困难时指望别人的支持或帮助，通常搭配“rely on”，不用于“吐露秘密”的语境。"
+    }
   },
   {
     "id": "q_1e24d5g6",
@@ -10031,7 +10535,13 @@
       "of course": "指毫无疑问，自然如此。可与certainly和naturally换用。",
       "surely": "表一种必然的可能性，也可表示信心或不轻信。强调主观判断。"
     },
-    "target_word": "naturally"
+    "target_word": "naturally",
+    "distractor_analysis": {
+      "certainly": "必定，当然。强调说话人对事情的确定性或同意，但无法体现因果关系中的“自然而然”。",
+      "naturally": "自然地，理所当然地。强调某种结果是基于先天条件或客观背景自然衍生的。由于“在双语家庭长大”，“流利说两国语言”是顺理成章、符合常理的发展，填入此处最恰当。",
+      "of course": "当然。多用于交际口语中表示同意，或表示某事显而易见，不如naturally衔接因果紧密。",
+      "surely": "无疑，想必。多带有主观推测色彩，常用于期待对方认同，不符合陈述客观自然结果的语境。"
+    }
   },
   {
     "id": "q_2f35e6h7",
@@ -10052,7 +10562,13 @@
       "conviction": "多指在理性基础上清除了原有的疑虑或无把握，着重对证据的主观反应。",
       "confidence": "指对某人某事有充分信心（非本组核心辨析词，作干扰项）。"
     },
-    "target_word": "conviction"
+    "target_word": "conviction",
+    "distractor_analysis": {
+      "certainty": "确定性，必然的事。指毫无疑问的客观事实或确定状态，而题干提到“缺乏具体证据”，更多是主观层面的深信。",
+      "assurance": "保证，担保；自信。多指为消除他人疑虑作出的口头保证或自身的从容，不侧重对某种判断的坚定。",
+      "conviction": "坚定的信念，深信。侧重指在没有绝对证据的情况下，内心理性思考或直觉下形成的不可动摇的信念，常与profound搭配，契合侦探的主观认定。",
+      "confidence": "信心，把握。指对某人某事成功的信任或把握，语气不及conviction深沉强烈，较少用于“深信某人有罪”的断定。"
+    }
   },
   {
     "id": "q_3g46f7i8",
@@ -10073,7 +10589,13 @@
       "modify": "强调起限定作用的变化或变更。指细小的变化，常含“缓和、降调”的意味。",
       "transform": "指人或物在形状、外观、形式、性质等方面发生的彻底变化，失去原状成为全新的东西。"
     },
-    "target_word": "transform"
+    "target_word": "transform",
+    "distractor_analysis": {
+      "alter": "改变，更改。指在保留原物主体的情况下对其细节做部分修改，不符合“彻底改变”的语境。",
+      "convert": "转换，改造。强调用途、目的的改变，虽可用，但不如transform强调形态或性质的颠覆性。",
+      "modify": "修改，修饰。指为了改善而进行适度调整、微调，变化幅度最小，完全不匹配“completely”。",
+      "transform": "彻底改变，使改观。指在外表、性质或功能上发生根本性、戏剧性的改变。搭配“transform...into...”，完美契合住宅区变商业区的巨变。"
+    }
   },
   {
     "id": "q_4h57g8j9",
@@ -10094,7 +10616,13 @@
       "preference": "侧重因偏见、爱好或判断等而进行选择。",
       "option": "着重特别给予的选择权利或权力，所选物常常相互排斥。"
     },
-    "target_word": "alternative"
+    "target_word": "alternative",
+    "distractor_analysis": {
+      "choice": "选择。泛指从多个选项中挑选，固定搭配常为“have no choice but to”，而非题干的“only viable...”。",
+      "alternative": "替代方案，两者择一。强调在原计划行不通时提供的替换性选择。题干中“航班取消”导致必须采取备用方案，alternative最为准确。",
+      "preference": "偏好，优先选择。强调主观上更喜欢某物，题干是迫于无奈的唯一方案，无主观偏好可言。",
+      "option": "选项，选择权。多指协议或客观提供的选项之一，不如alternative能凸显“原有方案失败后的替代手段”。"
+    }
   },
   {
     "id": "q_5i68h9k0",
@@ -10115,7 +10643,13 @@
       "elect": "指按照一定的规章或法律，用投票等方式进行的认真慎重的选择。",
       "pick": "口语用词，多指从个人角度仔细挑选，也含任意挑选之意。"
     },
-    "target_word": "select"
+    "target_word": "select",
+    "distractor_analysis": {
+      "choose": "选择。普通用语，指根据个人意愿进行挑选，但不强调挑选的严密性或淘汰率。",
+      "select": "挑选，精选。强调在广泛的范围内，经过认真筛选淘汰出最合适的人选。题干中“从数百名申请者中挑出最符合条件的”，正体现了严格选拔。",
+      "elect": "选举，推选。特指通过投票等正式民主程序选举出官员或代表，此处为委员会选拔，而非选举。",
+      "pick": "挑选，采摘。较为口语化，多指随意的挑选或凭个人喜好选择，不符合委员会选拔的正式语境。"
+    }
   },
   {
     "id": "q_6j79i0l1",
@@ -10136,7 +10670,13 @@
       "institute": "指为专门的目标而建立的学会或研究所。",
       "league": "指为了共同的目的和利益而组成的社团、同盟或联合会。"
     },
-    "target_word": "institute"
+    "target_word": "institute",
+    "distractor_analysis": {
+      "club": "俱乐部。指因共同兴趣、娱乐或社交目的自愿结合的团体，不用于科学研究机构。",
+      "association": "协会，联盟。为共同利益联合的组织，范围广，强调成员间的联络协作，非专门研究单位。",
+      "institute": "研究所，学院。特指从事教育、科学研究、技术研发等专业领域的正式专门机构，契合“致力于罕见病研究”的语境。",
+      "league": "联盟，同盟。多指为了共同利益结成的国家或团体联盟（如体育联赛），与医学研究不符。"
+    }
   },
   {
     "id": "q_7k80j1m2",
@@ -10157,7 +10697,13 @@
       "direction": "正式用词，指口头或书面的指示或命令，也可指指导性的说明。",
       "instruction": "书面用词，指不容违反、不容推翻的命令，也多指包含具体说明的指示。"
     },
-    "target_word": "instruction"
+    "target_word": "instruction",
+    "distractor_analysis": {
+      "command": "命令，指挥。具有最高权威者下达的必须绝对服从的强制性命令，在企业日常操作中语气过重。",
+      "order": "命令，指示。普通用语，多指上级对下级的具体要求，但较少专门用于“操作步骤”的指导。",
+      "direction": "方向，指导。复数多指方位指引或一般性的操作指南，但在企业专业培训中略显宽泛。",
+      "instruction": "指示，说明。常以复数出现，特指为了教授某人做某事或说明某物用法而给出的具体、系统的操作指南和步骤，契合“指导安全操作机器”。"
+    }
   },
   {
     "id": "q_8l91k2n3",
@@ -10178,7 +10724,13 @@
       "compare with": "指“把……用……作比较”以便找出差异或好坏。",
       "contrast": "指比较两个或更多东西之间的差异，侧重不同点。"
     },
-    "target_word": "contrast"
+    "target_word": "contrast",
+    "distractor_analysis": {
+      "compare": "比较。通常指寻找两者之间的相同点或同时寻找异同，不如contrast强调“相异”直接。",
+      "compare to": "把...比作。侧重指出不同类别事物之间的相似性（如把人生比作舞台），属于修辞比喻。",
+      "compare with": "与...相比较。指详细比较同类事物异同，但在题干要求重点突出“不同的价值观（differing moral values）”时，不如contrast精准。",
+      "contrast": "对比，使对照。强调通过并列比较凸显两者间的显著差异和截然不同之处。题干明确要求聚焦“不同的价值观”，contrast完美呼应。"
+    }
   },
   {
     "id": "q_9m02l3o4",
@@ -10199,7 +10751,13 @@
       "constrained": "侧重施加约束力或有约束作用的影响，尤指受良心、情感等内在力量驱使去做某事。",
       "obliged": "指由于生理上或道德上的需要，促使某人做某事，也指被迫作出的反应。"
     },
-    "target_word": "obliged"
+    "target_word": "obliged",
+    "distractor_analysis": {
+      "compelled": "被强迫的。指被外部力量或内在强烈冲动逼迫去做某事，带有不得不做的意味，缺乏职业道德的责任感。",
+      "forced": "被迫的，勉强的。强调因外力或客观恶劣条件而违背意愿行事，不符合医生主动救人的高尚情境。",
+      "constrained": "受约束的。指受环境等客观条件的限制而不能自由行动，与见义勇为语境不符。",
+      "obliged": "有义务的，责无旁贷的。强调基于道德或良知产生的一种内在责任感。“feel morally obliged”为固定搭配，契合医生的职业精神。"
+    }
   },
   {
     "id": "q_0n13m4p5",
@@ -10220,7 +10778,13 @@
       "contest": "指为争夺土地、阵地、权力或荣誉等而展开的竞争。",
       "rival": "指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。"
     },
-    "target_word": "compete"
+    "target_word": "compete",
+    "distractor_analysis": {
+      "compete": "竞争，比赛。指为了胜利与他人角逐，固定搭配“compete against/with”，完美契合体育比赛争夺冠军。",
+      "contend": "竞争，争夺。多搭配for，且常侧重于克服困难的斗争或辩论中的主张，不如compete直接。",
+      "contest": "争夺，质疑。作及物动词时直接接宾语（如contest the championship），不及物时一般不接against。",
+      "rival": "与...匹敌。常作及物动词，指在能力等方面能与对手相抗衡，不可搭配against。"
+    }
   },
   {
     "id": "q_1o24n5q6",
@@ -10241,7 +10805,13 @@
       "conclude": "正式用词，多指以某事或活动达到预期目的而告终。",
       "accomplish": "正式用词，强调一个过程的完成；也可指依靠努力达到一定目的，或取得一定结果。"
     },
-    "target_word": "accomplish"
+    "target_word": "accomplish",
+    "distractor_analysis": {
+      "complete": "完成，使完整。强调把缺失部分补齐或把事情做完，语气平淡，无法凸显十年努力的价值。",
+      "end": "结束。仅仅表示某事的终止，不论是否成功或达到目的。",
+      "conclude": "结束，得出结论。较正式，多指会议、条约等在正式程序后圆满结束。",
+      "accomplish": "完成，实现。强调经过长期的坚持不懈和巨大的努力，成功完成具有较高价值的任务。对应“十年不懈努力”和“开创性研究项目”，最能凸显成就。"
+    }
   },
   {
     "id": "q_2p35o6r7",
@@ -10262,7 +10832,13 @@
       "sophisticated": "侧重指事物发展到或达到高级的程度所体现出的复杂。",
       "intricate": "着重指错综复杂，令人迷惑理解。"
     },
-    "target_word": "intricate"
+    "target_word": "intricate",
+    "distractor_analysis": {
+      "complex": "复杂的。强调由多个相互联系的要素组成，侧重客观结构，未能完全凸显“难以修理”的繁琐精微。",
+      "complicated": "复杂的，难懂的。侧重事物关系错综复杂导致难以理解，多用于局势或人际关系。",
+      "sophisticated": "高级的，精密的。通常赞美机器技术先进，重点在“精密尖端”，不完全强调结构繁杂难修。",
+      "intricate": "错综复杂的，盘根错节的。特指事物包含极多细小且相互交织的部件，结构精细极难理清。契合“发条装置（clockwork mechanism）”的精微细节。"
+    }
   },
   {
     "id": "q_3q46p7s8",
@@ -10283,7 +10859,13 @@
       "difficulty": "困难（非本组辨析词，作干扰项）。",
       "confusion": "混乱、混淆（非本组辨析词，作干扰项）。"
     },
-    "target_word": "complication"
+    "target_word": "complication",
+    "distractor_analysis": {
+      "complexity": "复杂性。指复杂的特征本身，不能具体指代医疗过程中引发的局部病症。",
+      "complication": "复杂化；并发症。在医学语境中是专有名词，指原有疾病或手术基础上新发的其他病症。题干中术后恢复期出现的意外情况即为“并发症”。",
+      "difficulty": "困难。笼统宽泛，不足以表达医学恢复期中具体的衍生健康问题。",
+      "confusion": "混乱，困惑。指思维或秩序的不清，不适用身体手术后的病理状况。"
+    }
   },
   {
     "id": "q_4r57q8t9",
@@ -10304,7 +10886,13 @@
       "element": "指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。",
       "ingredient": "普通用词，含义笼统。既可指混在一起而本身没有变化的配料，又可指发生了变化的成分。"
     },
-    "target_word": "element"
+    "target_word": "element",
+    "distractor_analysis": {
+      "component": "组成部分，部件。通常指机械、设备或系统的具体实体部件，较少用于婚姻等抽象概念。",
+      "constituent": "成分，选民。强调构成整体不可或缺的一部分，常用于化学成分或政治区域，学术味较浓。",
+      "element": "要素，元素。广泛用于指代抽象事物的基本原则或核心部分。用来形容婚姻等抽象概念的“核心要素”，最符合题意。",
+      "ingredient": "原料，配料。本指烹饪配方成分，虽可比喻成功因素，但在谈论婚姻属性时element更为贴切。"
+    }
   },
   {
     "id": "q_5s68r9u0",
@@ -10325,7 +10913,13 @@
       "consisted": "与of连用（consist of），指一个整体由几个部分组成，没有被动态用法。",
       "constituted": "正式用词，指由某些部分组成一个整体或构成某物的基本成分（作及物动词使用）。"
     },
-    "target_word": "composed"
+    "target_word": "composed",
+    "distractor_analysis": {
+      "composed": "由...组成。最常见的被动搭配是“be composed of”，强调整体由部分组合而成，完美契合题干。",
+      "comprised": "包含。主动形式等同于consist of，传统语法认为被动“be comprised of”不够规范地道。",
+      "consisted": "由...组成。必须用主动语态“consist of”，不用于题干的被动结构（属语法错误）。",
+      "constituted": "构成，建立。通常指部分构成整体（主动形式A constitutes B），被动时不接of。"
+    }
   },
   {
     "id": "q_6t79s0v1",
@@ -10346,6 +10940,12 @@
       "hazard": "比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。",
       "menace": "所指的危险性最严重，表示使用暴力或造成破坏性的可能。"
     },
-    "target_word": "hazard"
+    "target_word": "hazard",
+    "distractor_analysis": {
+      "danger": "危险。泛指任何可能的伤害或威胁，但没有“danger lights”这种车辆标准部件叫法。",
+      "risk": "风险。多指主动采取行动时可能的潜在损失或概率，不用于交通警示灯。",
+      "hazard": "危险，隐患。强调不可预测的危险源。“hazard lights”（危险报警闪光灯/双闪灯）是汽车术语的固定表达，契合题意。",
+      "menace": "威胁，恐吓。多指蓄意造成的巨大危害或具有敌意的威胁，不能修饰车灯。"
+    }
   }
 ]

@@ -6,7 +6,7 @@ const dbUpdateTime = ref('读取中...');
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/questions.json', { method: 'HEAD' });
+    const res = await fetch(`${import.meta.env.BASE_URL}data/questions.json`, { method: 'HEAD' });
     const lastModified = res.headers.get('Last-Modified');
     if (lastModified) {
       const date = new Date(lastModified);
