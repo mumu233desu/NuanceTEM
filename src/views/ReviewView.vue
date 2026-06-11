@@ -14,6 +14,35 @@ const isCorrect = ref(false);
 const showExplanation = ref(false);
 const isLoading = ref(true);
 
+const forecast = ref<{ dayStr: string, count: number }[]>([]);
+
+const loadForecast = async () => {
+  const now = Date.now();
+  const oneDay = 24 * 60 * 60 * 1000;
+  const startOfToday = new Date().setHours(0, 0, 0, 0);
+  
+  const learningProgress = await db.progress
+    .where('status')
+    .equals('learning')
+    .filter(p => p.nextReview > now)
+    .toArray();
+    
+  const counts = [0, 0, 0, 0, 0];
+  
+  learningProgress.forEach(p => {
+    const daysAhead = Math.floor((p.nextReview - startOfToday) / oneDay);
+    if (daysAhead >= 1 && daysAhead <= 5) {
+      counts[daysAhead - 1]++;
+    }
+  });
+  
+  const labels = ['明天', '后天', '大后天', '4天后', '5天后'];
+  forecast.value = counts.map((count, i) => ({
+    dayStr: labels[i],
+    count
+  }));
+};
+
 const loadDueQuestions = async () => {
   isLoading.value = true;
   const now = Date.now();
@@ -28,6 +57,7 @@ const loadDueQuestions = async () => {
   if (dueProgress.length === 0) {
     dueQuestions.value = [];
     currentQuestion.value = null;
+    await loadForecast();
     isLoading.value = false;
     return;
   }
@@ -55,6 +85,7 @@ const loadDueQuestions = async () => {
 const setCurrentQuestion = async () => {
   if (dueQuestions.value.length === 0 || currentIndex.value >= dueQuestions.value.length) {
     currentQuestion.value = null;
+    await loadForecast();
     return;
   }
 
@@ -162,6 +193,16 @@ onMounted(loadDueQuestions);
       <div class="icon">✨</div>
       <h3>干得漂亮！今日复习计划已全部完成</h3>
       <p>暂时没有更多的到期复习题目了。您可以去“词汇挑战”做一些新题目，它们会自动计入后续的复习曲线中。</p>
+
+      <div class="forecast-container" v-if="forecast.length > 0">
+        <h4>近期复习预告</h4>
+        <div class="forecast-grid">
+          <div class="forecast-card" v-for="item in forecast" :key="item.dayStr" :class="{ 'has-reviews': item.count > 0 }">
+            <span class="day">{{ item.dayStr }}</span>
+            <span class="count">{{ item.count }} 题</span>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -245,5 +286,57 @@ onMounted(loadDueQuestions);
 .empty-state h3 {
   font-size: 1.5rem;
   margin-top: 0.5rem;
+}
+
+.forecast-container {
+  width: 100%;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px dashed var(--border-color);
+}
+
+.forecast-container h4 {
+  font-size: 1.1rem;
+  color: var(--text-main);
+  margin-bottom: 1rem;
+}
+
+.forecast-grid {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.forecast-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+  background: var(--bg-app);
+  border: 1px solid var(--border-color);
+  min-width: 80px;
+}
+
+.forecast-card.has-reviews {
+  border-color: var(--primary-light);
+  background: linear-gradient(to bottom, var(--bg-app), var(--primary-light));
+}
+
+.forecast-card .day {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.forecast-card .count {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.forecast-card.has-reviews .count {
+  color: var(--primary);
 }
 </style>

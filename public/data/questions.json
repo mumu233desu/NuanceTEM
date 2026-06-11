@@ -27,7 +27,7 @@
     "group_name": "abide, adhere, conform, comply",
     "level": "TEM-4",
     "target_word": "adhere",
-    "question": "Car drivers must ___ to the rules of driving.",
+    "question": "Despite the difficulties, we decided to ___ to our original plan.",
     "options": [
       "abide",
       "adhere",
@@ -49,7 +49,7 @@
     "group_name": "abide, adhere, conform, comply",
     "level": "TEM-4",
     "target_word": "conform",
-    "question": "All individuals are required to ___ to the laws made by their governments.",
+    "question": "The new building was not allowed to open because it did not ___ to the local safety standards.",
     "options": [
       "abide",
       "adhere",
@@ -133,7 +133,7 @@
     "group_name": "abnormal, uncommon, disordered",
     "level": "TEM-4",
     "target_word": "disordered",
-    "question": "We couldn't understand her ___ presentation because it lacked logical structure.",
+    "question": "The burglars left the living room completely ___, with papers and clothes scattered everywhere.",
     "options": [
       "abnormal",
       "uncommon",
@@ -349,7 +349,7 @@
     "group_name": "abstract, digest, outline, summary",
     "level": "TEM-4",
     "target_word": "abstract",
-    "question": "I have read the ___ of his academic book to understand his main arguments.",
+    "question": "Before reading the full research paper, I usually read the ___ to get a quick overview of the study's methodology and findings.",
     "options": [
       "abstract",
       "digest",
@@ -371,7 +371,7 @@
     "group_name": "abstract, digest, outline, summary",
     "level": "TEM-4",
     "target_word": "digest",
-    "question": "We regularly read Reader's ___ to keep up with various articles in condensed form.",
+    "question": "This magazine is essentially a monthly ___ of articles gathered and condensed from various other publications.",
     "options": [
       "abstract",
       "digest",
@@ -437,7 +437,7 @@
     "group_name": "absurd, ridiculous, silly",
     "level": "TEM-4",
     "target_word": "absurd",
-    "question": "There was an ___ idea that the earth was flat and motionless.",
+    "question": "The logic in his argument was so fundamentally flawed that his final conclusion was completely ___.",
     "options": [
       "absurd",
       "ridiculous",
@@ -457,7 +457,7 @@
     "group_name": "absurd, ridiculous, silly",
     "level": "TEM-4",
     "target_word": "ridiculous",
-    "question": "It is ___ to judge a foreign culture only by its food.",
+    "question": "He looked absolutely ___ wearing a heavy winter coat and a wool hat on the beach in the middle of summer.",
     "options": [
       "absurd",
       "ridiculous",
@@ -497,7 +497,7 @@
     "group_name": "abundant, plentiful",
     "level": "TEM-4",
     "target_word": "abundant",
-    "question": "Oil is in ___ supply in this country due to rich natural resources.",
+    "question": "The police had ___ evidence to prove that the suspect was guilty of the crime.",
     "options": [
       "abundant",
       "plentiful"
@@ -515,7 +515,7 @@
     "group_name": "abundant, plentiful",
     "level": "TEM-4",
     "target_word": "plentiful",
-    "question": "Eggs are ___ at this moment, so the price has dropped.",
+    "question": "During the late summer harvest, fresh tomatoes are cheap and ___ in the local farmers' market.",
     "options": [
       "abundant",
       "plentiful"
@@ -813,7 +813,7 @@
     "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
     "level": "TEM-4",
     "target_word": "attain",
-    "question": "The salesperson worked hard to ___ his sales goal for the month.",
+    "question": "When hunting for prey, the cheetah can ___ speeds of up to 70 miles per hour.",
     "options": [
       "acquire",
       "attain",
@@ -841,7 +841,7 @@
     "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
     "level": "TEM-4",
     "target_word": "obtain",
-    "question": "He managed to ___ the property with a bank loan.",
+    "question": "You must ___ written permission from the city council before building a fence around your house.",
     "options": [
       "acquire",
       "attain",
@@ -869,7 +869,7 @@
     "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
     "level": "TEM-4",
     "target_word": "gain",
-    "question": "Investors can ___ by buying stocks that go up in value.",
+    "question": "If you eat too much fast food and stop exercising, you will easily ___ weight.",
     "options": [
       "acquire",
       "attain",
@@ -953,7 +953,7 @@
     "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
     "level": "TEM-4",
     "target_word": "secure",
-    "question": "They managed to ___ one million signatures for the petition.",
+    "question": "The team managed to ___ a narrow victory in the final seconds of the championship game.",
     "options": [
       "acquire",
       "attain",
@@ -1003,7 +1003,7 @@
     "group_name": "acute, critical, crucial, urgent",
     "level": "TEM-4",
     "target_word": "critical",
-    "question": "It is ___ that you study hard for the exam or you will fail it.",
+    "question": "After the severe car accident, the driver was taken to the hospital and is currently in ___ condition.",
     "options": [
       "acute",
       "critical",
@@ -1025,7 +1025,7 @@
     "group_name": "acute, critical, crucial, urgent",
     "level": "TEM-4",
     "target_word": "crucial",
-    "question": "Improved consumer confidence is ___ to an economic recovery.",
+    "question": "The goalkeeper made a ___ save in the final minute of the match, ensuring his team's victory.",
     "options": [
       "acute",
       "critical",
@@ -1357,7 +1357,7 @@
     "group_name": "admit, confess, concede",
     "level": "TEM-4",
     "target_word": "admit",
-    "question": "I must ___ that you have a very good point.",
+    "question": "It takes a lot of maturity and courage to ___ when you are wrong and apologize.",
     "options": [
       "admit",
       "confess",
@@ -1397,7 +1397,7 @@
     "group_name": "admit, confess, concede",
     "level": "TEM-4",
     "target_word": "concede",
-    "question": "The driver had to ___ to the police that he caused the accident.",
+    "question": "After realizing he did not have enough votes to win, the candidate called his opponent to ___ the election.",
     "options": [
       "admit",
       "confess",
@@ -1505,7 +1505,7 @@
     "group_name": "affirm, assert, allege, claim, announce, proclaim",
     "level": "TEM-4",
     "target_word": "affirm",
-    "question": "He wanted to ___ his love for her in front of everyone.",
+    "question": "The newly elected leader used his first speech to ___ his strong commitment to protecting the environment.",
     "options": [
       "affirm",
       "assert",
@@ -1531,7 +1531,7 @@
     "group_name": "affirm, assert, allege, claim, announce, proclaim",
     "level": "TEM-4",
     "target_word": "assert",
-    "question": "She continued to ___ that she was innocent despite the doubts.",
+    "question": "When the students started to misbehave, the substitute teacher quickly tried to ___ her authority in the classroom.",
     "options": [
       "affirm",
       "assert",
@@ -1557,7 +1557,7 @@
     "group_name": "affirm, assert, allege, claim, announce, proclaim",
     "level": "TEM-4",
     "target_word": "allege",
-    "question": "The suspect would ___ that he was not in the neighborhood during the crime.",
+    "question": "The prosecutors ___ that the company's executives intentionally hid the financial losses from their investors.",
     "options": [
       "affirm",
       "assert",
@@ -1583,7 +1583,7 @@
     "group_name": "affirm, assert, allege, claim, announce, proclaim",
     "level": "TEM-4",
     "target_word": "claim",
-    "question": "They ___ that riding bicycles to work will reduce traffic.",
+    "question": "An anonymous group called the news station to ___ responsibility for the cyber attack.",
     "options": [
       "affirm",
       "assert",
@@ -1953,7 +1953,7 @@
     "group_name": "alleviate, diminish, reduce, decrease, decline",
     "level": "TEM-4",
     "target_word": "diminish",
-    "question": "The supply of oil has begun to ___ because of the war.",
+    "question": "I don't want to ___ his achievements, but he did have a significant amount of financial help from his parents.",
     "options": [
       "alleviate",
       "diminish",
@@ -2001,7 +2001,7 @@
     "group_name": "alleviate, diminish, reduce, decrease, decline",
     "level": "TEM-4",
     "target_word": "decrease",
-    "question": "The population of this town will ___ if people keep leaving.",
+    "question": "In this mathematical model, as the value of X increases, the value of Y will proportionally ___.",
     "options": [
       "alleviate",
       "diminish",
@@ -2025,7 +2025,7 @@
     "group_name": "alleviate, diminish, reduce, decrease, decline",
     "level": "TEM-4",
     "target_word": "decline",
-    "question": "The crime rate in the city has started to ___ sharply.",
+    "question": "She had to politely ___ the job offer because the salary was much lower than she expected.",
     "options": [
       "alleviate",
       "diminish",
@@ -2137,7 +2137,7 @@
     "group_name": "ambiguous, obscure, vague, unclear, dim",
     "level": "TEM-4",
     "target_word": "ambiguous",
-    "question": "His ___ directions confused us, leaving us unsure which road to take.",
+    "question": "The wording of the legal contract is so ___ that it could be interpreted in two completely different ways.",
     "options": [
       "ambiguous",
       "obscure",
@@ -2309,7 +2309,7 @@
     "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
     "level": "TEM-4",
     "target_word": "stretch",
-    "question": "The sweater will ___ if you wash it in hot water.",
+    "question": "The sweater will ___ out of shape if you pull on it too hard.",
     "options": [
       "amplify",
       "enlarge",
@@ -2413,7 +2413,7 @@
     "group_name": "anger, fury, indignation, resentment",
     "level": "TEM-4",
     "target_word": "anger",
-    "question": "He expressed his ___ by punching the wall after the argument.",
+    "question": "She could not hide her ___ when her younger brother broke her favorite toy.",
     "options": [
       "anger",
       "fury",
@@ -2501,7 +2501,7 @@
     "group_name": "apparent, evident, manifest, obvious, distinct",
     "level": "TEM-4",
     "target_word": "apparent",
-    "question": "It is ___ that he wants to leave, as he keeps checking his watch.",
+    "question": "He suddenly left the dinner party for no ___ reason.",
     "options": [
       "apparent",
       "evident",
@@ -2525,7 +2525,7 @@
     "group_name": "apparent, evident, manifest, obvious, distinct",
     "level": "TEM-4",
     "target_word": "evident",
-    "question": "It is ___ that he is guilty since his fingerprints were at the scene.",
+    "question": "The children ate the chocolate cake with ___ enjoyment.",
     "options": [
       "apparent",
       "evident",
@@ -2549,7 +2549,7 @@
     "group_name": "apparent, evident, manifest, obvious, distinct",
     "level": "TEM-4",
     "target_word": "manifest",
-    "question": "Her musical talent is ___, but she remains very humble.",
+    "question": "The workers' dissatisfaction became ___ in a series of widespread strikes.",
     "options": [
       "apparent",
       "evident",
@@ -2573,7 +2573,7 @@
     "group_name": "apparent, evident, manifest, obvious, distinct",
     "level": "TEM-4",
     "target_word": "obvious",
-    "question": "It is ___ that the driver has had too much to drink.",
+    "question": "She stated the ___ by pointing out that we were completely lost.",
     "options": [
       "apparent",
       "evident",
@@ -2621,7 +2621,7 @@
     "group_name": "applaud, clap, commend, praise",
     "level": "TEM-4",
     "target_word": "applaud",
-    "question": "The boss decided to ___ my efforts by praising my work.",
+    "question": "We all ___ her decision to donate her prize money to charity.",
     "options": [
       "applaud",
       "clap",
@@ -2665,7 +2665,7 @@
     "group_name": "applaud, clap, commend, praise",
     "level": "TEM-4",
     "target_word": "commend",
-    "question": "The teacher decided to ___ the student for doing well on the exam.",
+    "question": "The police chief decided to ___ the officer for his bravery during the rescue.",
     "options": [
       "applaud",
       "clap",
@@ -2687,7 +2687,7 @@
     "group_name": "applaud, clap, commend, praise",
     "level": "TEM-4",
     "target_word": "praise",
-    "question": "A supervisor wants to ___ the employee for her good work.",
+    "question": "Parents should always ___ their children when they behave well and do their chores.",
     "options": [
       "applaud",
       "clap",
@@ -2781,7 +2781,7 @@
     "group_name": "area, district, region, vicinity, zone",
     "level": "TEM-4",
     "target_word": "vicinity",
-    "question": "The police were alerted that the escaped criminal might be in the ___.",
+    "question": "There is no hospital in the immediate ___ of the accident.",
     "options": [
       "area",
       "district",
@@ -3109,7 +3109,7 @@
     "group_name": "assessment, estimate, evaluation",
     "level": "TEM-4",
     "target_word": "evaluation",
-    "question": "He gave a positive ___ of our scientific research.",
+    "question": "The company conducts a performance ___ for each employee at the end of the year.",
     "options": [
       "assessment",
       "estimate",
@@ -3151,7 +3151,7 @@
     "group_name": "associate, ally, combine, unite",
     "level": "TEM-4",
     "target_word": "ally",
-    "question": "Several political parties decided to ___ with each other against higher taxes.",
+    "question": "During the war, Britain had to ___ itself with the United States.",
     "options": [
       "associate",
       "ally",
@@ -3373,7 +3373,7 @@
     "group_name": "aware, conscious",
     "level": "TEM-4",
     "target_word": "aware",
-    "question": "He was ___ of his mistake.",
+    "question": "Are you ___ of the fact that your car is blocking the driveway?",
     "options": [
       "aware",
       "conscious"
@@ -3391,7 +3391,7 @@
     "group_name": "aware, conscious",
     "level": "TEM-4",
     "target_word": "conscious",
-    "question": "The salesman is ___ of the fact that he must increase sales.",
+    "question": "We must make a ___ effort to protect the environment and reduce waste.",
     "options": [
       "aware",
       "conscious"
@@ -3595,7 +3595,7 @@
     "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
     "level": "TEM-4",
     "target_word": "chuckle",
-    "question": "She does not laugh out loud; she only decides to ___.",
+    "question": "Reading the comic strip made him ___ quietly to himself.",
     "options": [
       "beam",
       "chuckle",
@@ -3655,7 +3655,7 @@
     "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
     "level": "TEM-4",
     "target_word": "grin",
-    "question": "He chose to ___ at his mother to show his happiness.",
+    "question": "The naughty boy didn't say anything, but just continued to ___ at us.",
     "options": [
       "beam",
       "chuckle",
@@ -3775,7 +3775,7 @@
     "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
     "level": "TEM-4",
     "target_word": "sneer",
-    "question": "He decided to ___ at the offer and said it was too low.",
+    "question": "Some critics tend to ___ at romantic comedies, but audiences still love them.",
     "options": [
       "beam",
       "chuckle",
@@ -3901,7 +3901,7 @@
     "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
     "level": "TEM-4",
     "target_word": "perplex",
-    "question": "The new tax laws always ___ me.",
+    "question": "The complicated symptoms of this rare disease continue to ___ doctors.",
     "options": [
       "bewilder",
       "puzzle",
@@ -3947,7 +3947,7 @@
     "group_name": "blame, condemn, reproach, scold",
     "level": "TEM-4",
     "target_word": "condemn",
-    "question": "The wife will ___ her husband for drinking too much.",
+    "question": "The international community was quick to ___ the terrorist attack.",
     "options": [
       "blame",
       "condemn",
@@ -3969,7 +3969,7 @@
     "group_name": "blame, condemn, reproach, scold",
     "level": "TEM-4",
     "target_word": "reproach",
-    "question": "His teacher will ___ him for not doing his homework.",
+    "question": "It is useless to ___ yourself for mistakes that have already been made.",
     "options": [
       "blame",
       "condemn",
@@ -4421,7 +4421,7 @@
     "group_name": "bush, shrub, jungle",
     "level": "TEM-4",
     "target_word": "shrub",
-    "question": "A rose ___ is growing in the garden.",
+    "question": "The gardener bought a rare flowering ___ from the nursery for the landscaping project.",
     "options": [
       "bush",
       "shrub",
@@ -4461,7 +4461,7 @@
     "group_name": "certify, rectify, testify, verify",
     "level": "TEM-4",
     "target_word": "certify",
-    "question": "He was able to ___ that it was his wife's handwriting.",
+    "question": "The doctor will ___ that you are healthy enough to return to work.",
     "options": [
       "certify",
       "rectify",
@@ -4549,7 +4549,7 @@
     "group_name": "compel, constrain, force, oblige",
     "level": "TEM-4",
     "target_word": "compel",
-    "question": "His serious illness will ___ him to stay in bed.",
+    "question": "The court has the power to ___ witnesses to attend the trial.",
     "options": [
       "compel",
       "constrain",
@@ -4571,7 +4571,7 @@
     "group_name": "compel, constrain, force, oblige",
     "level": "TEM-4",
     "target_word": "constrain",
-    "question": "As an artist he did not ___ himself by social conduct rules.",
+    "question": "The tight budget will inevitably ___ the project's development.",
     "options": [
       "compel",
       "constrain",
@@ -4615,7 +4615,7 @@
     "group_name": "compel, constrain, force, oblige",
     "level": "TEM-4",
     "target_word": "oblige",
-    "question": "The red light will ___ drivers to stop their cars.",
+    "question": "If you need a ride to the airport, I would be happy to ___ you.",
     "options": [
       "compel",
       "constrain",
@@ -4801,7 +4801,7 @@
     "group_name": "comprise, compose, consist, constitute, include",
     "level": "TEM-4",
     "target_word": "comprise",
-    "question": "Our company's product line will ___ 2,500 different items.",
+    "question": "The British Parliament ___ the House of Commons and the House of Lords.",
     "options": [
       "comprise",
       "compose",
@@ -4825,7 +4825,7 @@
     "group_name": "comprise, compose, consist, constitute, include",
     "level": "TEM-4",
     "target_word": "compose",
-    "question": "Water molecules ___ the liquid in the glass.",
+    "question": "Beethoven continued to ___ beautiful music even after he became completely deaf.",
     "options": [
       "comprise",
       "compose",
@@ -4873,7 +4873,7 @@
     "group_name": "comprise, compose, consist, constitute, include",
     "level": "TEM-4",
     "target_word": "constitute",
-    "question": "Crime and illegal drugs ___ the city's major problems.",
+    "question": "The presence of elevated radiation levels will ___ a serious threat to public health.",
     "options": [
       "comprise",
       "compose",
@@ -4897,7 +4897,7 @@
     "group_name": "comprise, compose, consist, constitute, include",
     "level": "TEM-4",
     "target_word": "include",
-    "question": "The conference delegates will ___ representatives from abroad.",
+    "question": "The final price is fifty dollars, which does not ___ the cost of shipping.",
     "options": [
       "comprise",
       "compose",
@@ -4921,7 +4921,7 @@
     "group_name": "concentrate, focus",
     "level": "TEM-4",
     "target_word": "concentrate",
-    "question": "During exams, students must ___ hard on answering the questions.",
+    "question": "The recipe requires you to boil the sauce for ten minutes to ___ the flavor.",
     "options": [
       "concentrate",
       "focus"
@@ -4939,7 +4939,7 @@
     "group_name": "concentrate, focus",
     "level": "TEM-4",
     "target_word": "focus",
-    "question": "Please ___ your minds on the following problem.",
+    "question": "The camera lens failed to ___ properly, resulting in a blurry photograph.",
     "options": [
       "concentrate",
       "focus"
@@ -5073,7 +5073,7 @@
     "group_name": "conserve, preserve, reserve",
     "level": "TEM-4",
     "target_word": "preserve",
-    "question": "The government ___ the rights of the individual person.",
+    "question": "We must work together to ___ our local traditions and cultural heritage.",
     "options": [
       "conserve",
       "preserve",
@@ -5093,7 +5093,7 @@
     "group_name": "conserve, preserve, reserve",
     "level": "TEM-4",
     "target_word": "reserve",
-    "question": "We are ___ these seats for my parents.",
+    "question": "I would like to ___ a table for two for tomorrow evening.",
     "options": [
       "conserve",
       "preserve",
@@ -5223,7 +5223,7 @@
     "group_name": "convert, invert, revert, transform",
     "level": "TEM-4",
     "target_word": "invert",
-    "question": "The baby ___ the cup and spilled her orange juice.",
+    "question": "To remove the cake from the pan, you need to ___ it onto a cooling rack.",
     "options": [
       "convert",
       "invert",
@@ -5245,7 +5245,7 @@
     "group_name": "convert, invert, revert, transform",
     "level": "TEM-4",
     "target_word": "revert",
-    "question": "John gave his brother a house, and when his brother died, ownership ___ back to John.",
+    "question": "If you do not save the changes, the document will automatically ___ to its previous version.",
     "options": [
       "convert",
       "invert",
@@ -5289,7 +5289,7 @@
     "group_name": "credible, credulous, plausible",
     "level": "TEM-4",
     "target_word": "credible",
-    "question": "The student told the teacher a ___ story that she missed classes because she was sick.",
+    "question": "The police concluded that the witness was ___, as her testimony matched the video footage perfectly.",
     "options": [
       "credible",
       "credulous",
@@ -5349,7 +5349,7 @@
     "group_name": "decline, refuse, reject, deny",
     "level": "TEM-4",
     "target_word": "decline",
-    "question": "I invited her to join us, but she ___.",
+    "question": "Unfortunately, I must politely ___ your invitation to the dinner party due to a prior engagement.",
     "options": [
       "decline",
       "refuse",
@@ -5371,7 +5371,7 @@
     "group_name": "decline, refuse, reject, deny",
     "level": "TEM-4",
     "target_word": "refuse",
-    "question": "He ___ to answer any questions about his private life.",
+    "question": "Despite all the evidence against him, I absolutely ___ to believe that he is a thief.",
     "options": [
       "decline",
       "refuse",
@@ -5393,7 +5393,7 @@
     "group_name": "decline, refuse, reject, deny",
     "level": "TEM-4",
     "target_word": "reject",
-    "question": "He asked her to go to the movies three times, and each time she ___ him.",
+    "question": "The university will automatically ___ any application that is submitted after the official deadline.",
     "options": [
       "decline",
       "refuse",
@@ -5415,7 +5415,7 @@
     "group_name": "decline, refuse, reject, deny",
     "level": "TEM-4",
     "target_word": "deny",
-    "question": "The defendant ___ the accusations made against him in court.",
+    "question": "The company issued a statement to officially ___ the rumors of an upcoming bankruptcy.",
     "options": [
       "decline",
       "refuse",
@@ -5437,7 +5437,7 @@
     "group_name": "deduce, induce, reduce",
     "level": "TEM-4",
     "target_word": "deduce",
-    "question": "My friend becomes quiet when his girlfriend is angry with him; today he is quiet and so I ___ she is angry.",
+    "question": "From the wet umbrellas in the hallway, we can ___ that it is raining outside.",
     "options": [
       "deduce",
       "induce",
@@ -5477,7 +5477,7 @@
     "group_name": "deduce, induce, reduce",
     "level": "TEM-4",
     "target_word": "reduce",
-    "question": "He ___ his weight by 20 pounds by eating less and exercising.",
+    "question": "You must eat less and exercise more if you want to ___ your weight.",
     "options": [
       "deduce",
       "induce",
@@ -5497,7 +5497,7 @@
     "group_name": "delay, postpone",
     "level": "TEM-4",
     "target_word": "delay",
-    "question": "Her late arrival ___ the start of the meeting.",
+    "question": "Heavy snow and strong winds will likely ___ the departure of our flight.",
     "options": [
       "delay",
       "postpone"
@@ -5515,7 +5515,7 @@
     "group_name": "delay, postpone",
     "level": "TEM-4",
     "target_word": "postpone",
-    "question": "Our meeting for today was ___ until next week.",
+    "question": "Due to the CEO's sudden illness, we have decided to ___ the board meeting until next week.",
     "options": [
       "delay",
       "postpone"
@@ -5533,7 +5533,7 @@
     "group_name": "demonstrate, illustrate",
     "level": "TEM-4",
     "target_word": "demonstrate",
-    "question": "This salesman ___ how to cook with a pressure cooker.",
+    "question": "The instructor will now ___ how to safely use the new laboratory equipment.",
     "options": [
       "demonstrate",
       "illustrate"
@@ -5551,7 +5551,7 @@
     "group_name": "demonstrate, illustrate",
     "level": "TEM-4",
     "target_word": "illustrate",
-    "question": "The teacher ___ the history lesson by telling a story about George Washington.",
+    "question": "To ___ his point about inflation, the professor shared a personal story from the 1970s.",
     "options": [
       "demonstrate",
       "illustrate"
@@ -5569,7 +5569,7 @@
     "group_name": "disappear, vanish, fade",
     "level": "TEM-4",
     "target_word": "disappear",
-    "question": "The little dog was just there, then he ___.",
+    "question": "As the sun came up, we watched the morning fog slowly ___ from the valley.",
     "options": [
       "disappear",
       "vanish",
@@ -5589,7 +5589,7 @@
     "group_name": "disappear, vanish, fade",
     "level": "TEM-4",
     "target_word": "vanish",
-    "question": "The man ran into the shop and ___ from sight.",
+    "question": "The magician waved his wand, and made the rabbit suddenly ___ into thin air.",
     "options": [
       "disappear",
       "vanish",
@@ -5609,7 +5609,7 @@
     "group_name": "disappear, vanish, fade",
     "level": "TEM-4",
     "target_word": "fade",
-    "question": "The wallpaper has ___ from red to pale pink.",
+    "question": "If you leave the photograph in direct sunlight, the colors will slowly ___ over time.",
     "options": [
       "disappear",
       "vanish",
@@ -5629,7 +5629,7 @@
     "group_name": "decline, decrease, diminish, reduce",
     "level": "TEM-4",
     "target_word": "decline",
-    "question": "Last year, the crime rate in Chicago has sharply ___.",
+    "question": "As people rely more on streaming services, the sales of physical DVDs continue to ___.",
     "options": [
       "decline",
       "decrease",
@@ -5651,7 +5651,7 @@
     "group_name": "decline, decrease, diminish, reduce",
     "level": "TEM-4",
     "target_word": "decrease",
-    "question": "The number of students in the class ___ from 40 to 35.",
+    "question": "Over the next few months, the number of customer complaints began to ___.",
     "options": [
       "decline",
       "decrease",
@@ -5673,7 +5673,7 @@
     "group_name": "decline, decrease, diminish, reduce",
     "level": "TEM-4",
     "target_word": "diminish",
-    "question": "The need to take action has ___.",
+    "question": "As the scandal was forgotten, the public's anger began to slowly ___.",
     "options": [
       "decline",
       "decrease",
@@ -5695,7 +5695,7 @@
     "group_name": "deviate, distract, divert",
     "level": "TEM-4",
     "target_word": "deviate",
-    "question": "He ___ from society by becoming a drug addict.",
+    "question": "The pilot was instructed not to ___ from the approved flight path under any circumstances.",
     "options": [
       "deviate",
       "distract",
@@ -5715,7 +5715,7 @@
     "group_name": "deviate, distract, divert",
     "level": "TEM-4",
     "target_word": "distract",
-    "question": "Noise ___ him, so he can't study for exams.",
+    "question": "Please do not ___ the driver while the bus is in motion.",
     "options": [
       "deviate",
       "distract",
@@ -5735,7 +5735,7 @@
     "group_name": "deviate, distract, divert",
     "level": "TEM-4",
     "target_word": "divert",
-    "question": "A loud noise ___ everyone's attention from their work.",
+    "question": "The police had to ___ all incoming traffic to a side street because of the accident ahead.",
     "options": [
       "deviate",
       "distract",
@@ -5755,7 +5755,7 @@
     "group_name": "dip, immerse, submerge",
     "level": "TEM-4",
     "target_word": "dip",
-    "question": "The artist ___ his brush in the paint.",
+    "question": "Before you eat the strawberry, you can ___ it into the melted chocolate.",
     "options": [
       "dip",
       "immerse",
@@ -5795,7 +5795,7 @@
     "group_name": "dip, immerse, submerge",
     "level": "TEM-4",
     "target_word": "submerge",
-    "question": "The girl was ___ in the shallow end of the pool.",
+    "question": "During a severe flood, rising river waters can completely ___ the entire town.",
     "options": [
       "dip",
       "immerse",
@@ -5815,7 +5815,7 @@
     "group_name": "divide, separate",
     "level": "TEM-4",
     "target_word": "divide",
-    "question": "The huge corporation ___ into smaller companies.",
+    "question": "If you ___ the cake into eight equal slices, everyone will get a piece.",
     "options": [
       "divide",
       "separate"
@@ -5833,7 +5833,7 @@
     "group_name": "divide, separate",
     "level": "TEM-4",
     "target_word": "separate",
-    "question": "The English Channel ___ Great Britain from Europe.",
+    "question": "Please use a fence to ___ the sheep from the cows in the pasture.",
     "options": [
       "divide",
       "separate"
@@ -5851,7 +5851,7 @@
     "group_name": "duty, obligation, responsibility",
     "level": "TEM-4",
     "target_word": "duty",
-    "question": "His ___ is to see that the business runs well.",
+    "question": "It is every citizen's civic ___ to vote in the upcoming local elections.",
     "options": [
       "duty",
       "obligation",
@@ -5911,7 +5911,7 @@
     "group_name": "eject, inject, project",
     "level": "TEM-4",
     "target_word": "eject",
-    "question": "The pilot ___ from the falling airplane.",
+    "question": "If the DVD player freezes, press this button to ___ the disc.",
     "options": [
       "eject",
       "inject",
@@ -5931,7 +5931,7 @@
     "group_name": "eject, inject, project",
     "level": "TEM-4",
     "target_word": "inject",
-    "question": "The nurse ___ some medicines into the patient with a needle.",
+    "question": "The doctor will need to ___ the vaccine directly into your muscle.",
     "options": [
       "eject",
       "inject",
@@ -5951,7 +5951,7 @@
     "group_name": "eject, inject, project",
     "level": "TEM-4",
     "target_word": "project",
-    "question": "The balcony ___ out beyond the wall of the house.",
+    "question": "We can use this machine to ___ the movie onto the large white wall.",
     "options": [
       "eject",
       "inject",
@@ -6043,7 +6043,7 @@
     "group_name": "emotion, feeling, passion, sensation, sentiment",
     "level": "TEM-4",
     "target_word": "emotion",
-    "question": "He felt mixed ___ when he thought of her.",
+    "question": "Love, joy, anger, and fear are each a basic human ___.",
     "options": [
       "emotion",
       "feeling",
@@ -6139,7 +6139,7 @@
     "group_name": "emotion, feeling, passion, sensation, sentiment",
     "level": "TEM-4",
     "target_word": "sentiment",
-    "question": "When our grandmother died, we remembered her life with strong ___.",
+    "question": "There is a growing public ___ against the use of single-use plastics.",
     "options": [
       "emotion",
       "feeling",
@@ -6163,7 +6163,7 @@
     "group_name": "encourage, excite, inspire, motivate, stimulate",
     "level": "TEM-4",
     "target_word": "encourage",
-    "question": "He ___ his son to go to a good college.",
+    "question": "The teacher likes to ___ her students by praising their creative efforts.",
     "options": [
       "encourage",
       "excite",
@@ -6187,7 +6187,7 @@
     "group_name": "encourage, excite, inspire, motivate, stimulate",
     "level": "TEM-4",
     "target_word": "excite",
-    "question": "The band played louder and ___ the audience.",
+    "question": "The news of the upcoming concert will certainly ___ the loyal fans.",
     "options": [
       "encourage",
       "excite",
@@ -6211,7 +6211,7 @@
     "group_name": "encourage, excite, inspire, motivate, stimulate",
     "level": "TEM-4",
     "target_word": "inspire",
-    "question": "My mother ___ us with stories of her difficult childhood.",
+    "question": "A great leader should be able to ___ confidence and loyalty in his team.",
     "options": [
       "encourage",
       "excite",
@@ -6235,7 +6235,7 @@
     "group_name": "encourage, excite, inspire, motivate, stimulate",
     "level": "TEM-4",
     "target_word": "motivate",
-    "question": "A desire to go to medical school ___ her to study hard everyday.",
+    "question": "A good manager knows exactly how to ___ employees to reach their sales targets.",
     "options": [
       "encourage",
       "excite",
@@ -6259,7 +6259,7 @@
     "group_name": "encourage, excite, inspire, motivate, stimulate",
     "level": "TEM-4",
     "target_word": "stimulate",
-    "question": "Cold air ___ me.",
+    "question": "Drinking a cup of coffee in the morning can help to ___ your brain.",
     "options": [
       "encourage",
       "excite",
@@ -6303,7 +6303,7 @@
     "group_name": "equal, equivalent, identical",
     "level": "TEM-4",
     "target_word": "equivalent",
-    "question": "The two computers are ___ in speed.",
+    "question": "A mile is roughly ___ to 1.6 kilometers.",
     "options": [
       "equal",
       "equivalent",
@@ -6383,7 +6383,7 @@
     "group_name": "equipment, facility, instrument",
     "level": "TEM-4",
     "target_word": "instrument",
-    "question": "As a flexible actor, he can perform, sing, dance and play several kinds of musical ___.",
+    "question": "The violin is a beautiful stringed ___.",
     "options": [
       "equipment",
       "facility",
@@ -6423,7 +6423,7 @@
     "group_name": "essential, indispensable, necessary",
     "level": "TEM-4",
     "target_word": "indispensable",
-    "question": "Warm clothing is ___ in cold weather.",
+    "question": "By learning all the specific software operations, she made herself absolutely ___ to the company.",
     "options": [
       "essential",
       "indispensable",
@@ -6483,7 +6483,7 @@
     "group_name": "exceed, surpass, transcend",
     "level": "TEM-4",
     "target_word": "surpass",
-    "question": "The runner ___ his old record by 10 seconds.",
+    "question": "The runner expects to ___ his old record by 10 seconds.",
     "options": [
       "exceed",
       "surpass",
@@ -6503,7 +6503,7 @@
     "group_name": "exceed, surpass, transcend",
     "level": "TEM-4",
     "target_word": "transcend",
-    "question": "The nature of God ___ human comprehension.",
+    "question": "Certain mysteries of the universe ___ human comprehension.",
     "options": [
       "exceed",
       "surpass",
@@ -6611,7 +6611,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "gaze",
-    "question": "She ___ at her beautiful new diamond ring.",
+    "question": "She likes to ___ at her beautiful new diamond ring.",
     "options": [
       "gaze",
       "gape",
@@ -6641,7 +6641,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "gape",
-    "question": "The children ___ at the big elephant in the zoo.",
+    "question": "The children stopped to ___ at the big elephant in the zoo.",
     "options": [
       "gaze",
       "gape",
@@ -6671,7 +6671,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "glance",
-    "question": "He ___ over the letter he had just received.",
+    "question": "He decided to ___ over the letter he had just received.",
     "options": [
       "gaze",
       "gape",
@@ -6701,7 +6701,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "glare",
-    "question": "The woman ___ at the man after he shouted rudely at her.",
+    "question": "The woman could only ___ at the man after he shouted rudely at her.",
     "options": [
       "gaze",
       "gape",
@@ -6761,7 +6761,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "peer",
-    "question": "Being somewhat short-sighted, she has the habit of ___ at people.",
+    "question": "Because she is somewhat short-sighted, she will often ___ at people.",
     "options": [
       "gaze",
       "gape",
@@ -6791,7 +6791,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "peep",
-    "question": "The mother ___ into the bedroom to see if her child was asleep.",
+    "question": "The mother tried to ___ into the bedroom to see if her child was asleep.",
     "options": [
       "gaze",
       "gape",
@@ -6821,7 +6821,7 @@
     "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
     "level": "TEM-4",
     "target_word": "stare",
-    "question": "I told my son to stop ___ at that fat woman; it wasn't nice.",
+    "question": "I told my son not to ___ at that fat woman; it wasn't nice.",
     "options": [
       "gaze",
       "gape",
@@ -6923,7 +6923,7 @@
     "group_name": "hypercritical, hypocritical",
     "level": "TEM-4",
     "target_word": "hypercritical",
-    "question": "He is so ___ that he corrects every mistake his students made.",
+    "question": "He is so ___ that he corrects every mistake his students make.",
     "options": [
       "hypercritical",
       "hypocritical"
@@ -6959,7 +6959,7 @@
     "group_name": "ignore, neglect, omit, overlook",
     "level": "TEM-4",
     "target_word": "ignore",
-    "question": "She saw him coming but she ___ him.",
+    "question": "She saw him coming but she chose to ___ him.",
     "options": [
       "ignore",
       "neglect",
@@ -6981,7 +6981,7 @@
     "group_name": "ignore, neglect, omit, overlook",
     "level": "TEM-4",
     "target_word": "neglect",
-    "question": "He ___ to make repairs in his house.",
+    "question": "He tends to ___ making repairs to his house.",
     "options": [
       "ignore",
       "neglect",
@@ -7003,7 +7003,7 @@
     "group_name": "ignore, neglect, omit, overlook",
     "level": "TEM-4",
     "target_word": "omit",
-    "question": "She ___ several steps in the experiment and it failed.",
+    "question": "Be careful not to ___ any steps in the experiment, or it will fail.",
     "options": [
       "ignore",
       "neglect",
@@ -7025,7 +7025,7 @@
     "group_name": "ignore, neglect, omit, overlook",
     "level": "TEM-4",
     "target_word": "overlook",
-    "question": "The mother ___ her little boy's bad behavior.",
+    "question": "The mother tends to ___ her little boy's bad behavior.",
     "options": [
       "ignore",
       "neglect",
@@ -7107,7 +7107,7 @@
     "group_name": "imitate, intimate, intimidate",
     "level": "TEM-4",
     "target_word": "imitate",
-    "question": "The boy ___ his father's way of talking.",
+    "question": "The boy likes to ___ his father's way of talking.",
     "options": [
       "imitate",
       "intimate",
@@ -7147,7 +7147,7 @@
     "group_name": "imitate, intimate, intimidate",
     "level": "TEM-4",
     "target_word": "intimidate",
-    "question": "An older boy ___ the little children when he took their lunch money.",
+    "question": "An older boy tried to ___ the little children when he took their lunch money.",
     "options": [
       "imitate",
       "intimate",
@@ -7203,7 +7203,7 @@
     "group_name": "imply, infer",
     "level": "TEM-4",
     "target_word": "imply",
-    "question": "The Secretary of the Treasury ___ that interest rates would go down.",
+    "question": "The Secretary of the Treasury seemed to ___ that interest rates would go down.",
     "options": [
       "imply",
       "infer"
@@ -7379,7 +7379,7 @@
     "group_name": "interfere, intervene, interrupt, disturb",
     "level": "TEM-4",
     "target_word": "interrupt",
-    "question": "His speech was constantly ___ by applause.",
+    "question": "Please do not ___ the speaker while he is presenting.",
     "options": [
       "interfere",
       "intervene",
@@ -7619,7 +7619,7 @@
     "group_name": "opt, apt",
     "level": "TEM-4",
     "target_word": "opt",
-    "question": "She ___ for a winter vacation, instead of one in summer.",
+    "question": "She will likely ___ for a winter vacation, instead of one in summer.",
     "options": [
       "opt",
       "apt"
@@ -7711,7 +7711,7 @@
     "group_name": "refrain, restrain, constrain",
     "level": "TEM-4",
     "target_word": "restrain",
-    "question": "She ___ her dog by walking him on a leash.",
+    "question": "She tried to ___ her dog by walking him on a leash.",
     "options": [
       "refrain",
       "restrain",
@@ -7731,7 +7731,7 @@
     "group_name": "refrain, restrain, constrain",
     "level": "TEM-4",
     "target_word": "constrain",
-    "question": "A law ___ the government from spending more money than it takes in.",
+    "question": "A new law aims to ___ the government from spending more money than it takes in.",
     "options": [
       "refrain",
       "restrain",
@@ -7831,7 +7831,7 @@
     "group_name": "revolve, evolve, involve",
     "level": "TEM-4",
     "target_word": "evolve",
-    "question": "Agriculture ___ slowly over thousands of years.",
+    "question": "Agriculture has continued to ___ slowly over thousands of years.",
     "options": [
       "revolve",
       "evolve",
@@ -7851,7 +7851,7 @@
     "group_name": "revolve, evolve, involve",
     "level": "TEM-4",
     "target_word": "involve",
-    "question": "Getting a driver's licence ___ learning how to drive, studying the rules of the road, and taking a test.",
+    "question": "Getting a driver's licence will ___ learning how to drive, studying the rules of the road, and taking a test.",
     "options": [
       "revolve",
       "evolve",
@@ -7929,7 +7929,7 @@
     "group_name": "scenery, scene, view, landscape",
     "level": "TEM-4",
     "target_word": "scene",
-    "question": "They stood gazing the happy ___ of children playing in the park.",
+    "question": "They stood gazing at the happy ___ of children playing in the park.",
     "options": [
       "scenery",
       "scene",
@@ -7995,7 +7995,7 @@
     "group_name": "sensible, sensitive, sentimental, sensational",
     "level": "TEM-4",
     "target_word": "sensible",
-    "question": "The patient was speechless but still ___.",
+    "question": "It was very ___ of you to bring an umbrella since it started raining.",
     "options": [
       "sensible",
       "sensitive",
@@ -8119,7 +8119,7 @@
     "group_name": "transaction, transition, transmission, transformation, transfer",
     "level": "TEM-4",
     "target_word": "transaction",
-    "question": "___ of shares on the stock exchange were up today.",
+    "question": "Every ___ on the stock exchange is carefully recorded.",
     "options": [
       "transaction",
       "transition",
@@ -8215,7 +8215,7 @@
     "group_name": "transaction, transition, transmission, transformation, transfer",
     "level": "TEM-4",
     "target_word": "transfer",
-    "question": "The club's goalkeeper isn't happy here, and has asked a ___.",
+    "question": "The club's goalkeeper isn't happy here, and has asked for a ___.",
     "options": [
       "transaction",
       "transition",
@@ -8251,7 +8251,8 @@
       "admit": "强调因外力或良心驱使或经判断而明确承认，多含不情愿或被迫意味。",
       "confess": "语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。",
       "concede": "指在事实与证据面前勉强或不得不承认。"
-    }
+    },
+    "target_word": "confess"
   },
   {
     "id": "q_8f1b4c",
@@ -8271,7 +8272,8 @@
       "path": "A way suitable to be traveled only by foot passengers or by animals.",
       "route": "A route is a line of travel, and may be over many roads.",
       "avenue": "A avenue is a long, broad and imposing(庄严) or principal street."
-    }
+    },
+    "target_word": "path"
   },
   {
     "id": "q_7a9c2d",
@@ -8291,7 +8293,8 @@
       "time": "It refers to a period in history.",
       "epoch": "It indicates a long period of time marked by events or development of a particular kind. (纪元)",
       "age": "It shows a particular /a fairly definite period in history."
-    }
+    },
+    "target_word": "epoch"
   },
   {
     "id": "q_1d4e5f",
@@ -8311,7 +8314,8 @@
       "struggle": "An effort of any kind to overcome difficulty. (战斗)",
       "campaign": "A series of related military operations in a war. (战争)",
       "combat": "A fight, conflict, controversy."
-    }
+    },
+    "target_word": "campaign"
   },
   {
     "id": "q_9c3b8a",
@@ -8331,7 +8335,8 @@
       "vicar": "A priest in charge of an area(parish) in the church of England.",
       "father": "A little of respect for a priest, esp. in the Roman Catholic.",
       "pastor": "A Christian religious leader in charge of a church and its members, esp. in a Protestant church. (教区牧师)"
-    }
+    },
+    "target_word": "pastor"
   },
   {
     "id": "q_5f8e2d",
@@ -8351,7 +8356,8 @@
       "garment": "(fl) A suit of clothes used by actors./a single article of clothing.",
       "costume": "1) The fashion of dress peculiar to a people, nation, class, period, etc. 2) A dress worn by actors in a play.",
       "uniform": "worn by all members of the community."
-    }
+    },
+    "target_word": "costume"
   },
   {
     "id": "q_b2a7c4",
@@ -8371,7 +8377,8 @@
       "sob": "To weep or sigh with short quick breaths. (抽泣 抽嗒)",
       "wail": "To cry aloud from pain or sorrow. (痛哭)",
       "whine": "To make a low complaining cry. (发出低声报怨声)"
-    }
+    },
+    "target_word": "sob"
   },
   {
     "id": "q_c4d9e1",
@@ -8391,7 +8398,8 @@
       "pretty": "(a girl, or a small thing) Suggesting liveliness and sweetness, pleasing or nice to look at.",
       "fair": "Beautiful( of woman in poet) light in color esp., skin hair.",
       "gorgeous": "(persons or things) (inf) Extremely beautiful or handsome."
-    }
+    },
+    "target_word": "gorgeous"
   },
   {
     "id": "q_f1a8b3",
@@ -8411,7 +8419,8 @@
       "drag": "It usually refers to horizontal motion or motion up an incline (slope) and it suggests laborious efforts over rough ground or against friction, resistance or gravity.",
       "haul": "It implies continuous pulling or dragging of heavy or bulky objects.",
       "tug": "It applies to hard often sudden violent effort to pull."
-    }
+    },
+    "target_word": "haul"
   },
   {
     "id": "q_a3b6c9",
@@ -8431,7 +8440,8 @@
       "whirl": "To round very fast. It implies the lock of conscious control. (急转)",
       "rotate": "To turn round a fixed point with a circular movement. (转动)",
       "revolve": "To turn or move in a circle around a central point. It indicates circular or elliptical (椭圆) movement. (绕转)"
-    }
+    },
+    "target_word": "revolve"
   },
   {
     "id": "q_d8e2f5",
@@ -8451,7 +8461,8 @@
       "indignation": "(fml) Anger. It stresses righteous anger at what one considers unfair, mean or shameful. (愤慨)",
       "wrath": "Very treat anger. (literary) It suggests a desire on intent to revenge or punish. (愤怒)",
       "rage": "Wild, violent anger. It suggests loss of self- control from violence of emotion. (狂怒)"
-    }
+    },
+    "target_word": "indignation"
   },
   {
     "id": "q_e5f9a2",
@@ -8471,27 +8482,29 @@
       "shortcoming": "weakness, failing It refers to failures or deficiencies in things as well as people.",
       "error": "A mistake (formal sometimes literary) It implies deviation from a standard or model (疏忽)",
       "defect": "sth lacking or imperfect. It refers to quality. (缺点 毛病)"
-    }
+    },
+    "target_word": "defect"
   },
   {
     "id": "q_b7c4d1",
     "level": "TEM-4",
     "group_name": "picture, painting, drawing, sketch, diagram, graph, illustration, draft, plan, elevation, chart",
-    "question": "During the presentation, the manager used a bar ___ to clearly demonstrate the relationship between the marketing budget and sales growth.",
+    "question": "The financial report included a pie ___ to clearly demonstrate the percentage of revenue generated by each department.",
     "options": [
       "sketch",
       "diagram",
       "graph",
       "chart"
     ],
-    "answer": "graph",
+    "answer": "chart",
     "translation": "在演示过程中，经理使用条形图清楚地展示了营销预算与销售增长之间的关系。",
     "analysis": {
       "sketch": "A rough not detailed drawing. (草图)",
       "diagram": "A drawing, figure that shows the arrangement of something. (图解 图表)",
       "graph": "A diagram in which a straight line, curved, or zigzag line shows how two sets of numbers or measurements are related. (曲线图)",
       "chart": "A map esp. a detailed map of a sea area. (海图)"
-    }
+    },
+    "target_word": "chart"
   },
   {
     "id": "q_1a2b3c",
@@ -8511,7 +8524,8 @@
       "particular": "Relating or belonging to only one thing or person. It stresses the distinctness of something as an individual which is worth notice. (个别的)",
       "specific": "Detailed and exact, clear in meaning and explanation, fixed, determined. It implies a quality or character distinguishing a kind or a species. (适用/特种的)",
       "peculiar": "Strange or perhaps unpleasant. It implies strangeness. (独特的)"
-    }
+    },
+    "target_word": "specific"
   },
   {
     "id": "q_8d9e0f",
@@ -8531,7 +8545,8 @@
       "abolish": "To do away with. It refers to practices, social institutions. (废除 废止)",
       "eliminate": "To get rid of. (消灭 排除)",
       "repeal": "To bring to an end of the effect of a law or an order. (撤消 废除)"
-    }
+    },
+    "target_word": "abolish"
   },
   {
     "id": "q_4c5d6e",
@@ -8551,7 +8566,8 @@
       "smash": "To break thoroughly to pieces with a crushing sound. (打碎)",
       "crack": "To break without separation of parts. It suggests the breaking out across a surface. (打裂)",
       "shatter": "To break into pieces. It suggests the breaking up of a thin surface. (砸碎 破碎)"
-    }
+    },
+    "target_word": "shatter"
   },
   {
     "id": "q_ch1_01",
@@ -8571,7 +8587,8 @@
       "situation": "A position or state at a particular time, set of conditions, facts, and events having an effect on a person, society, etc.",
       "environment": "The circumstances, things and conditions that influence you. It refers to spirit aspect, physical aspect and material aspect.",
       "circumstances": "A situation or event around us, a certain kind of atmosphere, the conditions that affect what happens."
-    }
+    },
+    "target_word": "environment"
   },
   {
     "id": "q_ch1_02",
@@ -8591,7 +8608,8 @@
       "distinguished": "Great, outstanding marked by excellent quality or deserved fame, used especially of people who are famous for serious work in science, the arts etc.",
       "celebrated": "Famous, (substitute for renowned) It refers objectively to sb or something that has been give acclaim or honoured with awards or prizes.",
       "notorious": "Famous for something bad."
-    }
+    },
+    "target_word": "distinguished"
   },
   {
     "id": "q_ch1_03",
@@ -8611,7 +8629,8 @@
       "mugger": "A person who attacks and robs people in a street or in a lift.",
       "burglar": "A person who breaks into a house at night to steal something.",
       "gangster": "A member of a group of criminals, esp. those who are armed and use guns to threaten."
-    }
+    },
+    "target_word": "burglar"
   },
   {
     "id": "q_ch1_04",
@@ -8631,7 +8650,8 @@
       "tremble": "To shake uncontrollably and slightly as from fear, cold, excitement etc. It implies uneasiness and nervousness.",
       "shiver": "To tremble from fear or cold. It suggests a slight and rapid movement.",
       "shudder": "To shake uncontrollably for a movement. It suggests a more intense shaking."
-    }
+    },
+    "target_word": "shiver"
   },
   {
     "id": "q_ch1_05",
@@ -8651,7 +8671,8 @@
       "opinion": "日常用词，泛指对某事物的想法和意见。",
       "proposal": "指正式提出来供研究、采纳或实行的建议。",
       "view": "侧重指对重大的或引起公众关注的问题所持的看法和态度。"
-    }
+    },
+    "target_word": "proposal"
   },
   {
     "id": "q_ch1_06",
@@ -8671,7 +8692,8 @@
       "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。",
       "proceed": "侧重指继续前进。",
       "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
-    }
+    },
+    "target_word": "proceed"
   },
   {
     "id": "q_ch1_07",
@@ -8691,7 +8713,8 @@
       "humiliate": "强调受辱者自尊心的损坏。",
       "shame": "指由不光彩或不道德的行为引起的惭愧感或羞耻感。",
       "dishonor": "有时可与disgrace换用，但前者是指因失去荣誉所致。"
-    }
+    },
+    "target_word": "humiliate"
   },
   {
     "id": "q_ch1_08",
@@ -8711,7 +8734,8 @@
       "discriminate": "语气强，指从十分相似的事物中辨出差异，尤其把好坏区分开来。",
       "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧。",
       "separate": "指把两个人或物分开，着重从原属一个整体中移居一部分或把两者隔开。"
-    }
+    },
+    "target_word": "distinguish"
   },
   {
     "id": "q_ch1_09",
@@ -8731,7 +8755,8 @@
       "predominant": "侧重指影响与新近的优势。",
       "sovereign": "侧重指其他事物都从属于或低于它的。",
       "distinguished": "杰出的，指因为科学、艺术等方面的严肃工作而著名的人。"
-    }
+    },
+    "target_word": "predominant"
   },
   {
     "id": "q_ch1_10",
@@ -8751,13 +8776,14 @@
       "separate": "指把两个人或物分开，着重从原属一个整体中移居一部分或把两者隔开。",
       "part": "多指使紧密相连的人或物分开，往往暗示最后分离的意味。",
       "divorce": "特指两个或更多的互为依赖的事物的分离，尤指婚姻的合法解体。"
-    }
+    },
+    "target_word": "separate"
   },
   {
     "id": "q_ch1_11",
     "level": "TEM-4",
     "group_name": "despise, scorn, look down upon",
-    "question": "He is an honest man who tends to ___ cheating in any form of competition.",
+    "question": "After cowardly lying to his best friend to save his own reputation, he began to deeply ___ himself.",
     "options": [
       "despise",
       "scorn",
@@ -8771,7 +8797,8 @@
       "scorn": "语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。",
       "look down upon": "指自视地位优越而蔑视他人或事。",
       "humiliate": "强调受辱者自尊心的损坏。"
-    }
+    },
+    "target_word": "despise"
   },
   {
     "id": "q_ch1_12",
@@ -8791,7 +8818,8 @@
       "accomplishment": "需要学问或付出一定劳动后才能且已经完成的或做好了的事",
       "feat": "指需要极大的勇气、智慧和力量或技术获得的成就，这一成就受人瞩目和佩服",
       "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。"
-    }
+    },
+    "target_word": "feat"
   },
   {
     "id": "q_ch1_13",
@@ -8811,7 +8839,8 @@
       "claim": "声称，主张，往往表示说话者反对或不同意某一观点，或指根据某种规定提出的要求或主张",
       "allege": "宣称，断定，指在无真实凭据情况下宣称",
       "affirm": "侧重在作出断言时表现出的坚定与不可动摇的态度。"
-    }
+    },
+    "target_word": "allege"
   },
   {
     "id": "q_ch1_14",
@@ -8831,7 +8860,8 @@
       "topic": "一般指话题",
       "title": "用于书籍、文章的标题，但有时可与subject互换",
       "suggestion": "着重为改进工作、解决困难等提出的建议，有时含所提建议不一定正确，仅供参考的意味"
-    }
+    },
+    "target_word": "topic"
   },
   {
     "id": "q_ch1_15",
@@ -8851,7 +8881,8 @@
       "attract": "既可以指一般的吸引，也可以指引起异性的爱慕",
       "enchant": "通常用来指使被迷住的人欢喜",
       "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧"
-    }
+    },
+    "target_word": "enchant"
   },
   {
     "id": "q_ch1_16",
@@ -8871,7 +8902,8 @@
       "permit": "常指法令的允许或不允许，也能表示含有积极地同意某人去做;表示允许时，能和allow可以互换",
       "let": "指积极允许，不加反对或阻止，但不能用于被动结构",
       "admit": "指允许某人进入某场所、单位或加入某单位、组织"
-    }
+    },
+    "target_word": "admit"
   },
   {
     "id": "q_201_a9f3b2",
@@ -8891,13 +8923,14 @@
       "drop": "指物体从一定高度落下。",
       "fall": "指突然或猛烈地降落，也可指任何下落，同高度或形式无关。",
       "sink": "指在空气或水中垂直下降、下沉。"
-    }
+    },
+    "target_word": "sink"
   },
   {
     "id": "q_202_c8d1e4",
     "level": "TEM-4",
     "group_name": "hold, contain, accommodate",
-    "question": "The newly built conference center is large enough to ___ up to 5,000 delegates comfortably during the annual summit.",
+    "question": "During the blizzard, the kind local family generously offered to ___ the stranded travelers in their guest room for the night.",
     "options": [
       "hold",
       "contain",
@@ -8911,7 +8944,8 @@
       "contain": "用容器装纳，也可指房间、大厅等的容纳，着重“其中确实包含有”。",
       "accommodate": "即可表示提供，也可表示容纳，指“舒适地”容纳。",
       "receive": "作为干扰项，指接待或接收。"
-    }
+    },
+    "target_word": "accommodate"
   },
   {
     "id": "q_203_b5f7a2",
@@ -8931,7 +8965,8 @@
       "dying": "指奄奄一息，行将死亡。",
       "deadly": "致命的，致死的，作为干扰项。",
       "deathly": "死一般的，作为干扰项。"
-    }
+    },
+    "target_word": "dying"
   },
   {
     "id": "q_204_f1a2b3",
@@ -8951,13 +8986,14 @@
       "action": "整体的行为，常用在机械、物理用语中。",
       "deed": "较为庄重、显著、伟大而感人的行为，且具有持久性。",
       "behavior": "行为、举止，作为干扰项。"
-    }
+    },
+    "target_word": "deed"
   },
   {
     "id": "q_205_e4c8d1",
     "level": "TEM-4",
     "group_name": "adequate, enough, sufficient",
-    "question": "Although the budget was relatively small, the funds provided were just ___ to cover the basic living expenses for the duration of the project.",
+    "question": "Her performance in the play wasn't brilliant, but it was ___ for an amateur community production.",
     "options": [
       "adequate",
       "enough",
@@ -8971,7 +9007,8 @@
       "enough": "指数量、份量或程度能满足一种愿望，特别是物质上的需要。",
       "sufficient": "指数量上尤指程度上多能满足或达到某种特殊需要。",
       "abundant": "丰富的，充裕的，作为干扰项。"
-    }
+    },
+    "target_word": "adequate"
   },
   {
     "id": "q_206_d1e4c8",
@@ -8991,7 +9028,8 @@
       "frosty": "指雾气在寒冷物体的表面凝结成薄冰时的严寒结霜的温度。",
       "freezing": "指使人僵直，使东西凝固的冷。",
       "icy": "多指风暴、风雪和水等冷得使人感到如刺如割。"
-    }
+    },
+    "target_word": "icy"
   },
   {
     "id": "q_207_a9f3b2",
@@ -9011,7 +9049,8 @@
       "dismissed": "正式用词，是这组词中语气最轻的一个词，一般只有从上文才能看解雇的原因或理由。",
       "fired": "口语用词，多指被断然地突然解雇，其行动犹如开枪一样干净利落。",
       "resigned": "辞职，作为干扰项。"
-    }
+    },
+    "target_word": "fired"
   },
   {
     "id": "q_208_b5f7a2",
@@ -9031,7 +9070,8 @@
       "find": "普通用词，可指偶然发现，也可指经过寻找后得到或重新获得已失去的东西，强调动作的结果。",
       "detect": "正式用词，强调经过周密观察或研究而有所获得和发现，尤指发现有意隐藏之物。",
       "ascertain": "较正式用词，指有意搜寻与发现，查明、确定。"
-    }
+    },
+    "target_word": "detect"
   },
   {
     "id": "q_209_c8d1e4",
@@ -9051,7 +9091,8 @@
       "conceive": "强调在制定计划之前的先有设想构思。",
       "formulate": "与conceive相反，指在devise之后的具体设计活动，制定计划等。",
       "create": "创造，普通用词，作为干扰项。"
-    }
+    },
+    "target_word": "formulate"
   },
   {
     "id": "q_210_d1e4c8",
@@ -9071,7 +9112,8 @@
       "about": "常可分almost和nearly换用，实际数量可能多也可能少。",
       "approximately": "多用于书面语，指精确度接近某个标准以致误差可忽略不计。",
       "roughly": "指按精略估计，常代替about。"
-    }
+    },
+    "target_word": "approximately"
   },
   {
     "id": "q_211_f1a2b3",
@@ -9091,13 +9133,14 @@
       "goal": "指经过考虑和选择，需经坚持不懈的努力奋斗才能达到的最终目标。",
       "target": "指射击的靶，军事攻击目标。引申指被攻击、批评或嘲笑的目标。",
       "object": "强调个人或需求而决定的目标、目的。"
-    }
+    },
+    "target_word": "goal"
   },
   {
     "id": "q_212_e4c8d1",
     "level": "TEM-4",
     "group_name": "anxious, eager, keen",
-    "question": "Because of his intense interest in sailing and navigation, the young sailor is ___ to go to sea on his first major voyage.",
+    "question": "Ever since she was a little girl, she has been very ___ on collecting rare stamps from around the world.",
     "options": [
       "anxious",
       "eager",
@@ -9111,7 +9154,8 @@
       "eager": "侧重于急于成功的迫切心情。",
       "keen": "强调因兴趣强烈或欲望而急于做某事。",
       "nervous": "紧张的，担忧的，作为干扰项。"
-    }
+    },
+    "target_word": "keen"
   },
   {
     "id": "q_213_a9f3b2",
@@ -9131,7 +9175,8 @@
       "declare": "侧重正式就某事清楚明白地宣布。",
       "proclaim": "指官方宣布重大事件或施政方针，语体较正式。",
       "pronounce": "较多用于指法律判决方面的宣布。"
-    }
+    },
+    "target_word": "pronounce"
   },
   {
     "id": "q_214_b5f7a2",
@@ -9151,13 +9196,14 @@
       "worry": "侧重对未知事态演变的忧虑。",
       "care": "强调因出于责任感或顾虑等而产生的不安。",
       "concern": "侧重对他人健康、安全等的关心，也可暗示对困难、危险或失败等的忧虑。"
-    }
+    },
+    "target_word": "concern"
   },
   {
     "id": "q_215_c8d1e4",
     "level": "TEM-4",
     "group_name": "apparent, obvious, evident, clear, plain, distinct, definite, manifest",
-    "question": "The politician tried to spin the facts during the interview, but it was ___ to everyone in the audience that he was simply lying.",
+    "question": "The celebrity wore a large hat and dark sunglasses, for ___ reasons, hoping to avoid being recognized by the paparazzi.",
     "options": [
       "apparent",
       "obvious",
@@ -9171,7 +9217,8 @@
       "obvious": "语气较强，指极为明显，有目共睹，无需说明和论证。",
       "evident": "指根据事实成为显然的。",
       "manifest": "语义较强，书面用词，强调一目了然，暗示不要任何推论就一清二楚。"
-    }
+    },
+    "target_word": "obvious"
   },
   {
     "id": "q_216_d1e4c8",
@@ -9191,7 +9238,8 @@
       "desert": "着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。",
       "forsake": "侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。",
       "leave": "普通用词，指舍弃某事或某一职业，或终止与某人的关系，但不涉及动机与结果。"
-    }
+    },
+    "target_word": "desert"
   },
   {
     "id": "q_chunk3_01",
@@ -9211,7 +9259,8 @@
       "capacity": "侧重指人的潜在能力，通常不指体力，多指才智，尤指接受与领悟能力。",
       "faculty": "指特殊的才能或智力。",
       "genius": "语气最强，指天赋的高度才能与智力。"
-    }
+    },
+    "target_word": "competence"
   },
   {
     "id": "q_chunk3_02",
@@ -9231,13 +9280,14 @@
       "abolish": "正式用词，指彻底废除某种制度、规章或习俗。",
       "cancel": "用法广泛，多指取消债务、合同、证书、比赛、旅行、计划或约会等。",
       "delete": "删除（补充选项）"
-    }
+    },
+    "target_word": "repeal"
   },
   {
     "id": "q_chunk3_03",
     "level": "TEM-4",
     "group_name": "about, around, round",
-    "question": "He left his belongings scattered ___ the room, making it impossible to walk without stepping on something.",
+    "question": "After being bedridden for a week with the severe flu, she is finally feeling better and is out and ___ again.",
     "options": [
       "about",
       "around",
@@ -9251,7 +9301,8 @@
       "around": "主要用于美国，静态或动态均可。",
       "round": "主要用于英国，多半指动态。",
       "along": "指沿着一条直线在水平方向上运动（补充选项）。"
-    }
+    },
+    "target_word": "about"
   },
   {
     "id": "q_chunk3_04",
@@ -9271,7 +9322,8 @@
       "above": "一般指位置高于某物，但不一定在正上方，也不接触另一物。",
       "on": "指与另一物表面相接触。",
       "in": "在……里面（补充选项）。"
-    }
+    },
+    "target_word": "over"
   },
   {
     "id": "q_chunk3_05",
@@ -9291,7 +9343,8 @@
       "absorb": "普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。",
       "suck": "作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。",
       "digest": "侧重在消化道内改变食物的化学结构后被人体吸收。"
-    }
+    },
+    "target_word": "incorporate"
   },
   {
     "id": "q_chunk3_06",
@@ -9311,7 +9364,8 @@
       "abundant": "着重某物极为丰富有或大量的供应。",
       "plentiful": "普通用词，指某物的数量多得称心如意，不过剩，但较少用于描写抽象之物。",
       "massive": "巨大的，大量的（补充选项）。"
-    }
+    },
+    "target_word": "ample"
   },
   {
     "id": "q_chunk3_07",
@@ -9331,7 +9385,8 @@
       "accept": "强调主动地或自愿地接受，或者说，经过考虑后同意接受。",
       "receive": "着重仅仅接到或收到事实，而不含采取主动或积极行动的意思。",
       "take": "与receive同义，是receive的日常用法，侧重不带主观意愿地收下或接受。"
-    }
+    },
+    "target_word": "admit"
   },
   {
     "id": "q_chunk3_08",
@@ -9351,7 +9406,8 @@
       "accident": "强调偶然或意外发生的不幸事情。",
       "incident": "既可指小事件或附带事件，又可指政治上具有影响的事件或事变。",
       "occurrence": "多指日常生活中发生的一般事件，有时也指偶然发生的事。"
-    }
+    },
+    "target_word": "event"
   },
   {
     "id": "q_chunk3_09",
@@ -9371,27 +9427,29 @@
       "accompany": "既可指人也可指物。用于人时，侧重关系紧密或同时发生。",
       "conduct": "无论用于人或物均指引导带领。",
       "attend": "侧重主从关系，即下级对上级，学生对老师等，或表恭、服侍。"
-    }
+    },
+    "target_word": "escort"
   },
   {
     "id": "q_chunk3_10",
     "level": "TEM-4",
     "group_name": "accordingly, consequently, hence, so, therefore, thus",
-    "question": "The factory severely polluted the local river; ___, it was heavily fined by the environmental protection agency.",
+    "question": "When the fire alarm rings, all staff are expected to act ___ and evacuate the building immediately.",
     "options": [
       "accordingly",
       "consequently",
       "hence",
       "thus"
     ],
-    "answer": "consequently",
+    "answer": "accordingly",
     "translation": "这家工厂严重污染了当地河流；因此，它被环保局处以重罚。",
     "analysis": {
       "consequently": "正式用词，侧重符合逻辑的结果。",
       "accordingly": "书面用词，强调根据某种原因而得出的结果，其前可用冒号或分号，但不用逗号。",
       "hence": "较正式用词，指接下来的东西是理所当然的必需的东西，但强调其重要性。",
       "thus": "多用于书面语中，可与therefore换用。"
-    }
+    },
+    "target_word": "accordingly"
   },
   {
     "id": "q_chunk3_11",
@@ -9411,7 +9469,8 @@
       "accumulate": "几乎可用于指任何事物量的增加，侧重连续不断地，一点一滴地聚积。",
       "collect": "普通用词，多用于指物，侧重指有区别地作选择或有安排有计划地把零散物集中起来。",
       "gather": "普通用词，指人或物或抽象事物都可用。侧重于围绕一个中心的集合、聚集。"
-    }
+    },
+    "target_word": "amass"
   },
   {
     "id": "q_chunk3_12",
@@ -9431,7 +9490,8 @@
       "accurate": "指通过谨慎的努力达到符合事实或实际，侧重不同程度的准确性，与事实无出入。",
       "exact": "着重在质与量方面的准确，语气比accurate强。",
       "correct": "最常用词，主要指按一定标准或规则来衡量，没有谬误和差错或无缺点错误。"
-    }
+    },
+    "target_word": "precise"
   },
   {
     "id": "q_chunk3_13",
@@ -9451,7 +9511,8 @@
       "obtain": "较正式用词，着重通过巨大努力、要求而得到所需或盼望已久的东西。",
       "secure": "强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。",
       "earn": "侧重指依靠自己的劳动或因付出代价与有功而获得。"
-    }
+    },
+    "target_word": "acquire"
   },
   {
     "id": "q_chunk3_14",
@@ -9471,7 +9532,8 @@
       "across": "指“从……的一边到另一边”，强调横过，多与动态动词连用。",
       "along": "指沿着一条直线在水平方向上运动。一般表动态，有时也与静态动词连用。",
       "over": "常和动态动词连用，指“从……上面越过”或“横越”;表静态时，指“在彼处”。"
-    }
+    },
+    "target_word": "through"
   },
   {
     "id": "q_chunk3_15",
@@ -9491,7 +9553,8 @@
       "active": "指有活动能力，强调与消极或休止相反的积极活动状态。",
       "energetic": "指精力充沛、奋力从事某事业。",
       "brisk": "指动作敏捷、充满活力、轻快活泼地从事某项工作或活动。"
-    }
+    },
+    "target_word": "vigorous"
   },
   {
     "id": "q_chunk3_16",
@@ -9511,7 +9574,8 @@
       "adapt": "指人或物在原有情况下作某些改变以适应新的环境或不同的条件，强调改变的目的和重要性。",
       "conform": "多指与某模式或规则相符，也引申指改变习惯等以适应新的环境。",
       "accommodate": "书面用词，指以外部条件标准改变自己或某事以求得适应，着重改变或调节的有利。"
-    }
+    },
+    "target_word": "adjust"
   },
   {
     "id": "q_chunk4_01",
@@ -9532,7 +9596,8 @@
       "attachment": "指用于扩大原物用途的附件。",
       "supplement": "主要指使书、报等正广更完善而额外增加的部分。",
       "accessory": "作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品。"
-    }
+    },
+    "target_word": "appendix"
   },
   {
     "id": "q_chunk4_02",
@@ -9551,7 +9616,8 @@
       "additional": "由名词addition派生出的形容词，指在原有基础上添加上去的。",
       "extra": "指不包括本身而额外加上去的部分。",
       "supplementary": "由名词supplement派生而来，指对原有的追加或补充。"
-    }
+    },
+    "target_word": "extra"
   },
   {
     "id": "q_chunk4_03",
@@ -9572,7 +9638,8 @@
       "salute": "正式用词，指用敬礼、亲吻或挥帽等动作向他人致意或问候，尤指以某种礼节欢迎某人。",
       "hail": "主要指怀着敬意欢迎某人，侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。",
       "welcome": "多指热情的官方的或正式的迎接或欢迎，但也指一般的欢迎。"
-    }
+    },
+    "target_word": "salute"
   },
   {
     "id": "q_chunk4_04",
@@ -9594,7 +9661,8 @@
       "oration": "常指在特殊场合，辞藻华丽，形式庄重，旨在激发听众感情的正式演说。",
       "report": "一般是指下级给上级或负责人给委托机关的书面或口头报告。",
       "talk": "常用词，强调非正式讲话，讲话方式一般较为自由。"
-    }
+    },
+    "target_word": "address"
   },
   {
     "id": "q_chunk4_05",
@@ -9615,7 +9683,8 @@
       "respect": "指对人的行为、品德、才华或成就等的仰慕尊重。尤指对年长或地位高的人的尊敬。",
       "regard": "最正式用词，中性，含义不很明确，一般需用修饰语加强或明确其意。",
       "esteem": "除表示尊敬之外，还暗示由此而产生的称赞。"
-    }
+    },
+    "target_word": "respect"
   },
   {
     "id": "q_chunk4_06",
@@ -9636,7 +9705,8 @@
       "warn": "含义与caution相同，但语气较重，尤指重后果。",
       "admonish": "一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。",
       "counsel": "正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。"
-    }
+    },
+    "target_word": "warn"
   },
   {
     "id": "q_chunk4_07",
@@ -9655,7 +9725,8 @@
       "adult": "一般指生理上的童年期已结束，达到法定年龄。",
       "grown-up": "多用于口语，含义与adult基本相同，但更侧重脱离儿童阶段，已成大人，与childish意思相反。",
       "mature": "用于生物时，指完全长好了。用于人时，指达到了生命的黄金时期，但所暗示的青少年和成年之间的界限不明显。"
-    }
+    },
+    "target_word": "mature"
   },
   {
     "id": "q_chunk4_08",
@@ -9676,7 +9747,8 @@
       "proceed": "侧重指继续前进。",
       "move on": "非正式用语，侧重从某一停止点向某地前进，但不表示前进的目的地。",
       "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
-    }
+    },
+    "target_word": "proceed"
   },
   {
     "id": "q_chunk4_09",
@@ -9698,7 +9770,8 @@
       "favor": "指在竞争中获得的advantage,也可指在狭隘的个人利益。",
       "profit": "着重收益，尤指从物质、钱财等方面获得的利益。",
       "gain": "指获得的物质利益，也暗示不损坏他人利益而得的无形好处。"
-    }
+    },
+    "target_word": "profit"
   },
   {
     "id": "q_chunk4_10",
@@ -9719,7 +9792,8 @@
       "support": "含义广泛，多指在道义上或物质上支持某人，也可指对某项事业的支持。",
       "sustain": "侧重指连续不断的支持。",
       "advocate": "多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护。"
-    }
+    },
+    "target_word": "advocate"
   },
   {
     "id": "q_chunk4_11",
@@ -9739,7 +9813,8 @@
       "backward": "可用于人或物，指向后的，落后的或迟钝的。",
       "hind": "指成对并且分前后的东西的“后面的”。",
       "behind": "指一物同它物相对的位置或场所。"
-    }
+    },
+    "target_word": "hind"
   },
   {
     "id": "q_chunk4_12",
@@ -9760,7 +9835,8 @@
       "ill": "与evil意义接近，但语气弱一些，常指道德或性质方面的不良。",
       "poor": "普通用词，侧重指事物的质量或数量低于标准或不合要求。用于指天气与食品时可与bad通用。",
       "wicked": "语气比evil强，指居心叵测，任意违反道德标准，有意作恶。"
-    }
+    },
+    "target_word": "wicked"
   },
   {
     "id": "q_chunk4_13",
@@ -9780,7 +9856,8 @@
       "basis": "主要用作抽象或引申意义。",
       "foundation": "用于具体意义时，侧重指坚固结实的建筑物的基础或地基;用作比喻意义时，与basis基本相同。",
       "ground": "含义与basis和foundation接近。一般指某种决定、论点或关系的基础，也可指某种原因的基础。"
-    }
+    },
+    "target_word": "foundation"
   },
   {
     "id": "q_chunk4_14",
@@ -9801,7 +9878,8 @@
       "fundamental": "书面用词，不如basic使用广泛，侧重指作为基础、根本的抽象的事物。",
       "radical": "着重指事物的根本或其来源。",
       "vital": "正式用词，侧重指维持生命、活力必不可少的，或生死攸关的。"
-    }
+    },
+    "target_word": "vital"
   },
   {
     "id": "q_chunk4_15",
@@ -9825,7 +9903,8 @@
       "fight": "最普通用词，含义广，指战斗、斗争或打斗。",
       "combat": "泛指军事行动，尤指小规模的战斗，甚至是格斗。",
       "engagement": "指交战，交火。"
-    }
+    },
+    "target_word": "campaign"
   },
   {
     "id": "q_chunk4_16",
@@ -9846,7 +9925,8 @@
       "hit": "普通用词，常与strike换用，侧重有目标的猛击，强调用力击中。",
       "thrash": "侧重指用棍子或鞭子等痛打。",
       "whip": "多指用鞭子抽打。"
-    }
+    },
+    "target_word": "beat"
   },
   {
     "id": "q_7b82f0c1",
@@ -9866,13 +9946,14 @@
       "get": "常指某人或某物有意无意地获得引起变化的因素，结果使变成另一状态。",
       "grow": "常指逐渐地变成新状态，强调渐变的过程。",
       "go": "作为连系动词，通常与形容词连用，指进入某种状态，从而发生变化，多指不好的状态。"
-    }
+    },
+    "target_word": "go"
   },
   {
     "id": "q_8f91a2d3",
     "level": "TEM-4",
     "group_name": "begin, start, commence, initiate, inaugurate",
-    "question": "The newly elected president will ___ his term of office with a grand ceremony on Monday morning.",
+    "question": "The city will ___ the newly built public library with a grand ribbon-cutting ceremony on Monday morning.",
     "options": [
       "begin",
       "commence",
@@ -9886,13 +9967,14 @@
       "commence": "系书面正式用词，语气庄重，特指有正式程序或一定仪式，或某种正式行动的开始。",
       "initiate": "指创始或发起，侧重某过程的第一步，不考虑结束，强调起始。",
       "inaugurate": "指正式而隆重的开始。"
-    }
+    },
+    "target_word": "inaugurate"
   },
   {
     "id": "q_9c02b3e4",
     "level": "TEM-4",
     "group_name": "belief, faith, confidence, conviction, credit, trust",
-    "question": "After years of working together, the manager has absolute ___ in her assistant's ability to handle the crisis.",
+    "question": "The unexpectedly positive economic data has significantly boosted investors' ___ in the stock market's recovery.",
     "options": [
       "belief",
       "faith",
@@ -9906,7 +9988,8 @@
       "faith": "语气较强，强调完全相信；有时也能仅凭感觉产生的相信。",
       "confidence": "指对某人某事有充分信心，断定不会使人失望，因而给予信任。",
       "conviction": "多指根据长期交往或实践，对某人某事有了认识和了解后产生的信心和相信，侧重其坚定性。"
-    }
+    },
+    "target_word": "confidence"
   },
   {
     "id": "q_0d13c4f5",
@@ -9926,7 +10009,8 @@
       "trust": "指绝对相信或信赖某人。",
       "confide": "侧重忠诚可靠与可信赖（常指吐露秘密）。",
       "rely": "指在相信的基础上可进一步依靠，着重可靠性。"
-    }
+    },
+    "target_word": "confide"
   },
   {
     "id": "q_1e24d5g6",
@@ -9946,7 +10030,8 @@
       "naturally": "指自然而然，毫无造作或天生如此。",
       "of course": "指毫无疑问，自然如此。可与certainly和naturally换用。",
       "surely": "表一种必然的可能性，也可表示信心或不轻信。强调主观判断。"
-    }
+    },
+    "target_word": "naturally"
   },
   {
     "id": "q_2f35e6h7",
@@ -9966,7 +10051,8 @@
       "assurance": "侧重依靠个人力量、本能、方法或对其他人或事的完全信任，强调有信心。",
       "conviction": "多指在理性基础上清除了原有的疑虑或无把握，着重对证据的主观反应。",
       "confidence": "指对某人某事有充分信心（非本组核心辨析词，作干扰项）。"
-    }
+    },
+    "target_word": "conviction"
   },
   {
     "id": "q_3g46f7i8",
@@ -9986,7 +10072,8 @@
       "convert": "指进行全部或局部改变以适应新的功能或用途。",
       "modify": "强调起限定作用的变化或变更。指细小的变化，常含“缓和、降调”的意味。",
       "transform": "指人或物在形状、外观、形式、性质等方面发生的彻底变化，失去原状成为全新的东西。"
-    }
+    },
+    "target_word": "transform"
   },
   {
     "id": "q_4h57g8j9",
@@ -10006,7 +10093,8 @@
       "alternative": "指在相互排斥的两者之间作严格的选择，也可指在两者以上中进行选择。",
       "preference": "侧重因偏见、爱好或判断等而进行选择。",
       "option": "着重特别给予的选择权利或权力，所选物常常相互排斥。"
-    }
+    },
+    "target_word": "alternative"
   },
   {
     "id": "q_5i68h9k0",
@@ -10026,7 +10114,8 @@
       "select": "书面用词，具有庄严、正式的感情色彩。强调精选。",
       "elect": "指按照一定的规章或法律，用投票等方式进行的认真慎重的选择。",
       "pick": "口语用词，多指从个人角度仔细挑选，也含任意挑选之意。"
-    }
+    },
+    "target_word": "select"
   },
   {
     "id": "q_6j79i0l1",
@@ -10046,7 +10135,8 @@
       "association": "指较为正式的组织，强调兴趣和需要的一致性。",
       "institute": "指为专门的目标而建立的学会或研究所。",
       "league": "指为了共同的目的和利益而组成的社团、同盟或联合会。"
-    }
+    },
+    "target_word": "institute"
   },
   {
     "id": "q_7k80j1m2",
@@ -10066,7 +10156,8 @@
       "order": "普通用词，侧重指具体的命令。",
       "direction": "正式用词，指口头或书面的指示或命令，也可指指导性的说明。",
       "instruction": "书面用词，指不容违反、不容推翻的命令，也多指包含具体说明的指示。"
-    }
+    },
+    "target_word": "instruction"
   },
   {
     "id": "q_8l91k2n3",
@@ -10086,7 +10177,8 @@
       "compare to": "指两物有类似或相似之处，从而“把(一物)比作(另一物)”。",
       "compare with": "指“把……用……作比较”以便找出差异或好坏。",
       "contrast": "指比较两个或更多东西之间的差异，侧重不同点。"
-    }
+    },
+    "target_word": "contrast"
   },
   {
     "id": "q_9m02l3o4",
@@ -10106,7 +10198,8 @@
       "forced": "指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。",
       "constrained": "侧重施加约束力或有约束作用的影响，尤指受良心、情感等内在力量驱使去做某事。",
       "obliged": "指由于生理上或道德上的需要，促使某人做某事，也指被迫作出的反应。"
-    }
+    },
+    "target_word": "obliged"
   },
   {
     "id": "q_0n13m4p5",
@@ -10126,7 +10219,8 @@
       "contend": "指为战胜或击败对手进行不懈努力，强调拼搏。",
       "contest": "指为争夺土地、阵地、权力或荣誉等而展开的竞争。",
       "rival": "指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。"
-    }
+    },
+    "target_word": "compete"
   },
   {
     "id": "q_1o24n5q6",
@@ -10146,7 +10240,8 @@
       "end": "最普通用词，着重事情的完成。也指某种活动因达到目的而自然结束。",
       "conclude": "正式用词，多指以某事或活动达到预期目的而告终。",
       "accomplish": "正式用词，强调一个过程的完成；也可指依靠努力达到一定目的，或取得一定结果。"
-    }
+    },
+    "target_word": "accomplish"
   },
   {
     "id": "q_2p35o6r7",
@@ -10166,7 +10261,8 @@
       "complicated": "含义接近complex但语气更强，着重极其复杂，很难分析、分辨或解释。",
       "sophisticated": "侧重指事物发展到或达到高级的程度所体现出的复杂。",
       "intricate": "着重指错综复杂，令人迷惑理解。"
-    }
+    },
+    "target_word": "intricate"
   },
   {
     "id": "q_3q46p7s8",
@@ -10186,7 +10282,8 @@
       "complication": "指纷乱复杂到令人难于理解的地步（在医学上常指并发症）。",
       "difficulty": "困难（非本组辨析词，作干扰项）。",
       "confusion": "混乱、混淆（非本组辨析词，作干扰项）。"
-    }
+    },
+    "target_word": "complication"
   },
   {
     "id": "q_4r57q8t9",
@@ -10206,7 +10303,8 @@
       "constituent": "常可与component换用，指某一整体不可少的部分或成分。",
       "element": "指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。",
       "ingredient": "普通用词，含义笼统。既可指混在一起而本身没有变化的配料，又可指发生了变化的成分。"
-    }
+    },
+    "target_word": "element"
   },
   {
     "id": "q_5s68r9u0",
@@ -10226,13 +10324,14 @@
       "comprised": "正式用词，指整体是由几个独立的部分所组成。",
       "consisted": "与of连用（consist of），指一个整体由几个部分组成，没有被动态用法。",
       "constituted": "正式用词，指由某些部分组成一个整体或构成某物的基本成分（作及物动词使用）。"
-    }
+    },
+    "target_word": "composed"
   },
   {
     "id": "q_6t79s0v1",
     "level": "TEM-4",
     "group_name": "danger, risk, hazard, menace, peril, threat",
-    "question": "Smoking poses a serious health ___ to both the smokers themselves and the people around them.",
+    "question": "When his car broke down on the side of the busy highway, he immediately turned on his ___ lights to warn other drivers.",
     "options": [
       "danger",
       "risk",
@@ -10246,6 +10345,7 @@
       "risk": "指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。",
       "hazard": "比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。",
       "menace": "所指的危险性最严重，表示使用暴力或造成破坏性的可能。"
-    }
+    },
+    "target_word": "hazard"
   }
 ]

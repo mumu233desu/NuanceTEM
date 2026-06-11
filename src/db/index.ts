@@ -69,12 +69,14 @@ export async function initializeDatabase(questionsData: Question[]) {
     await db.progress.bulkPut(progressEntries);
     console.log(`Database seeded with ${questionsData.length} questions.`);
   } else {
-    // If database already contains questions, we sync new ones if version changes or size grows
-    const existingIds = new Set(await db.questions.toCollection().primaryKeys());
+    // Sync all questions to ensure fixes/updates are applied to existing items
+    await db.questions.bulkPut(questionsData);
+    
+    // Only create progress entries for brand new questions
+    const existingIds = new Set(await db.progress.toCollection().primaryKeys());
     const newQuestions = questionsData.filter(q => !existingIds.has(q.id));
     if (newQuestions.length > 0) {
-      console.log(`Adding ${newQuestions.length} new questions to database.`);
-      await db.questions.bulkPut(newQuestions);
+      console.log(`Adding ${newQuestions.length} new progress entries to database.`);
       const newProgressEntries: Progress[] = newQuestions.map(q => ({
         questionId: q.id,
         status: 'new',

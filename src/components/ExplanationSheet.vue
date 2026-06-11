@@ -8,6 +8,8 @@ const props = defineProps<{
   translation: string;
   analysis: Record<string, string>;
   isMastered: boolean;
+  questionText: string;
+  optionsList: string[];
 }>();
 
 const emit = defineEmits<{
@@ -15,6 +17,20 @@ const emit = defineEmits<{
   (e: 'toggleMaster'): void;
   (e: 'rateDifficulty', quality: number): void;
 }>();
+
+const copyPrompt = () => {
+  const prompt = `我遇到了一道题：${props.questionText}
+我选择了：${props.userChoice || '（未选择）'}
+正确答案是：${props.answer}
+选项有：${props.optionsList.join(', ')}
+
+请详细解释这些选项词汇之间的微妙区别，并说明为什么在这里只能选 ${props.answer} 而不能选 ${props.userChoice}。`;
+  
+  navigator.clipboard.writeText(prompt).then(() => {
+    // Optional: could use a toast here, but alert works for simple use
+    alert('Prompt已复制！请直接粘贴给其他大模型以获取深入解析。');
+  });
+};
 </script>
 
 <template>
@@ -40,7 +56,13 @@ const emit = defineEmits<{
       </div>
 
       <div class="section analysis-section">
-        <h4>近义词辨析</h4>
+        <div class="analysis-header">
+          <h4>近义词辨析</h4>
+          <button class="btn-copy" @click="copyPrompt" title="复制提示词给AI">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            请 AI 深入解析
+          </button>
+        </div>
         <div class="analysis-list">
           <div v-for="(detail, option) in analysis" :key="option" class="analysis-item" :class="{ 'correct-word': option === answer }">
             <span class="word-badge">{{ option }}</span>
@@ -173,6 +195,37 @@ h4 {
   font-size: 1.05rem;
   color: var(--text-main);
   font-weight: 500;
+}
+
+.analysis-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-copy {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--primary);
+  background: var(--primary-light);
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+.btn-copy svg {
+  width: 14px;
+  height: 14px;
+}
+
+.btn-copy:hover {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
 }
 
 .analysis-list {

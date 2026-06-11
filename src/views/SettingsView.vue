@@ -1,6 +1,23 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, onMounted } from 'vue';
 import { db } from '../db';
+
+const dbUpdateTime = ref('读取中...');
+
+onMounted(async () => {
+  try {
+    const res = await fetch('/data/questions.json', { method: 'HEAD' });
+    const lastModified = res.headers.get('Last-Modified');
+    if (lastModified) {
+      const date = new Date(lastModified);
+      dbUpdateTime.value = date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+    } else {
+      dbUpdateTime.value = '2026年6月11日';
+    }
+  } catch (e) {
+    dbUpdateTime.value = '2026年6月11日';
+  }
+});
 
 const importStatus = ref('');
 const importMessage = ref('');
@@ -220,7 +237,7 @@ const handleResetAll = async () => {
         <div class="version-info">
           <p>软件版本: <strong>v1.0.0 (Serverless)</strong></p>
           <p>存储引擎: <strong>IndexedDB (Dexie.js)</strong></p>
-          <p>内置题库版本: <strong>100组 PDF 词汇辨析精选</strong></p>
+          <p>题库更新时间: <strong>{{ dbUpdateTime }}</strong></p>
         </div>
       </div>
     </div>

@@ -115,6 +115,8 @@ onMounted(loadNextQuestion);
         :translation="currentQuestion.translation"
         :analysis="currentQuestion.distractor_analysis"
         :isMastered="currentProgress?.status === 'mastered'"
+        :questionText="currentQuestion.question"
+        :optionsList="currentQuestion.options"
         @next="loadNextQuestion"
         @toggleMaster="handleToggleMaster"
         @rateDifficulty="handleRateDifficulty"
