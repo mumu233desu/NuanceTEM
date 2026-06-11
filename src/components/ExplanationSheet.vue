@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const showAnalysis = ref(false);
 const copySuccess = ref(false);
 
 const props = defineProps<{

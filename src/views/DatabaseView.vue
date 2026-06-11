@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue';
-import { db, type Question, type Progress, toggleMastered, createDefaultProgress } from '../db';
+import { db, type Question, toggleMastered, createDefaultProgress } from '../db';
 
 interface QuestionWithProgress extends Question {
   status: 'new' | 'learning' | 'mastered';
