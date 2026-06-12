@@ -65,7 +65,8 @@ export async function initializeDatabase(questionsData: Question[]) {
     await db.questions.bulkPut(questionsData);
     
     // Only create progress entries for brand new questions
-    const existingIds = new Set(await db.progress.toCollection().primaryKeys());
+    const existingProgress = await db.progress.toArray();
+    const existingIds = new Set(existingProgress.map(p => p.questionId));
     const newQuestions = questionsData.filter(q => !existingIds.has(q.id));
     if (newQuestions.length > 0) {
       console.log(`Adding ${newQuestions.length} new progress entries to database.`);
