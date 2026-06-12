@@ -52,3 +52,4 @@ screenshots/
 *.bak
 *.tmp
 archive_data/
+tests/
