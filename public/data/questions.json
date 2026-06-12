@@ -1261,7 +1261,7 @@
     "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
     "level": "TEM-4",
     "target_word": "modify",
-    "question": "His friends advised him to ___ his behavior and stay calm.",
+    "question": "The politician was forced to ___ his extreme views to win the support of the moderate voters.",
     "options": [
       "adjust",
       "regulate",
@@ -1285,7 +1285,7 @@
       "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
       "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
     },
-    "translation": "他的朋友们建议他改变自己的举止，保持冷静。"
+    "translation": "为了赢得温和派选民的支持，这位政客被迫缓和其极端的观点。"
   },
   {
     "id": "q_1_13_8",
@@ -1685,7 +1685,7 @@
     "group_name": "aggravate, reinforce, increase, strengthen, intensify",
     "level": "TEM-4",
     "target_word": "reinforce",
-    "question": "The officer radioed to ___ his team during the bank robbery.",
+    "question": "The general quickly dispatched two more battalions to ___ the frontline defenses.",
     "options": [
       "aggravate",
       "reinforce",
@@ -1701,7 +1701,7 @@
       "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
       "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
     },
-    "translation": "在银行抢劫案期间，警察用无线电请求增援他的队伍。"
+    "translation": "将军迅速调遣了另外两个营来增援前线防御。"
   },
   {
     "id": "q_1_17_3",
@@ -5651,7 +5651,7 @@
     "group_name": "decline, decrease, diminish, reduce",
     "level": "TEM-4",
     "target_word": "decrease",
-    "question": "Over the next few months, the number of customer complaints began to ___.",
+    "question": "As the driver stepped on the brakes, the speed of the car gradually ___.",
     "options": [
       "decline",
       "decrease",
@@ -5665,7 +5665,7 @@
       "diminish": "(力量、势力)减弱，减少，强调由于某种原因而减少，这种减少可以造成明显的后果或损失",
       "reduce": "及物动词，指通过人为的方法在数量、规模、范围等方面减少，或在地位、重要性上降低等级"
     },
-    "translation": "班里的学生人数从40人减少到35人。"
+    "translation": "随着司机踩下刹车，汽车的速度逐渐减慢了。"
   },
   {
     "id": "q_3_61_3",
