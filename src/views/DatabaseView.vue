@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue';
+import { ref, onMounted, computed, watch, onUnmounted } from 'vue';
 import { db, type Question, toggleMastered, createDefaultProgress } from '../db';
 
 interface QuestionWithProgress extends Question {
@@ -65,7 +65,43 @@ const toggleExpand = (id: string) => {
   expandedQuestionId.value = expandedQuestionId.value === id ? null : id;
 };
 
-onMounted(loadData);
+const PAGE_SIZE = 50;
+const displayedCount = ref(PAGE_SIZE);
+const loadMoreSentinel = ref<HTMLElement | null>(null);
+let observer: IntersectionObserver | null = null;
+
+const displayedList = computed(() => {
+  return filteredList.value.slice(0, displayedCount.value);
+});
+
+watch([searchQuery, statusFilter], () => {
+  displayedCount.value = PAGE_SIZE;
+});
+
+const setupObserver = () => {
+  observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting) {
+      if (displayedCount.value < filteredList.value.length) {
+        displayedCount.value += PAGE_SIZE;
+      }
+    }
+  }, { rootMargin: '400px' });
+  
+  if (loadMoreSentinel.value) {
+    observer.observe(loadMoreSentinel.value);
+  }
+};
+
+onMounted(async () => {
+  await loadData();
+  setTimeout(setupObserver, 100);
+});
+
+onUnmounted(() => {
+  if (observer) {
+    observer.disconnect();
+  }
+});
 </script>
 
 <template>
@@ -102,7 +138,7 @@ onMounted(loadData);
       
       <div v-else class="list-grid">
         <div
-          v-for="item in filteredList"
+          v-for="item in displayedList"
           :key="item.id"
           class="item-card glass-card"
           :class="{ expanded: expandedQuestionId === item.id }"
@@ -160,6 +196,8 @@ onMounted(loadData);
             </div>
           </div>
         </div>
+        <!-- Infinite Scroll Sentinel -->
+        <div ref="loadMoreSentinel" class="sentinel"></div>
       </div>
     </div>
   </div>
@@ -408,5 +446,10 @@ onMounted(loadData);
 .btn-action.reset:hover {
   background-color: var(--error-light);
   border-color: var(--error);
+}
+
+.sentinel {
+  height: 20px;
+  width: 100%;
 }
 </style>
