@@ -53,3 +53,4 @@ screenshots/
 *.tmp
 archive_data/
 tests/
+.wrangler/

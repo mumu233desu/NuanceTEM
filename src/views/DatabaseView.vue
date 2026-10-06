@@ -12,6 +12,7 @@ interface QuestionWithProgress extends Question {
 const list = ref<QuestionWithProgress[]>([]);
 const searchQuery = ref('');
 const statusFilter = ref<string>('all');
+const levelFilter = ref<string>('all');
 const expandedQuestionId = ref<string | null>(null);
 
 const loadData = async () => {
@@ -47,6 +48,11 @@ const handleResetProgress = async (item: QuestionWithProgress) => {
 
 const filteredList = computed(() => {
   return list.value.filter(item => {
+    // Level filter
+    if (levelFilter.value !== 'all' && item.level !== levelFilter.value) {
+      return false;
+    }
+
     // Search filter
     const query = searchQuery.value.toLowerCase().trim();
     const matchesSearch = 
@@ -74,7 +80,7 @@ const displayedList = computed(() => {
   return filteredList.value.slice(0, displayedCount.value);
 });
 
-watch([searchQuery, statusFilter], () => {
+watch([searchQuery, statusFilter, levelFilter], () => {
   displayedCount.value = PAGE_SIZE;
 });
 
@@ -120,6 +126,14 @@ onUnmounted(() => {
         <input v-model="searchQuery" type="text" placeholder="输入单词、词组、中文释义或句子..." class="search-input" />
       </div>
       
+      <div class="select-wrapper">
+        <select v-model="levelFilter" class="status-select">
+          <option value="all">所有学段 (专四 & 专八)</option>
+          <option value="TEM-4">专四 (TEM-4)</option>
+          <option value="TEM-8">专八 (TEM-8)</option>
+        </select>
+      </div>
+
       <div class="select-wrapper">
         <select v-model="statusFilter" class="status-select">
           <option value="all">所有状态</option>

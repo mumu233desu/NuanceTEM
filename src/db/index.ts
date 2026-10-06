@@ -44,6 +44,11 @@ class NuanceTEMDatabase extends Dexie {
       progress: 'questionId, status, nextReview',
       logs: '++id, timestamp, questionId',
     });
+    this.version(2).stores({
+      questions: 'id, group_id, target_word, level',
+      progress: 'questionId, status, nextReview',
+      logs: '++id, timestamp, questionId',
+    });
   }
 }
 

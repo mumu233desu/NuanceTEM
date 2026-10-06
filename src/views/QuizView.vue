@@ -12,6 +12,14 @@ const isCorrect = ref(false);
 const showExplanation = ref(false);
 
 const recentQuestionIds = ref<string[]>([]);
+const currentLevelFilter = ref<string>(localStorage.getItem('nuancetem_quiz_level') || 'ALL');
+
+const changeLevel = (lvl: string) => {
+  currentLevelFilter.value = lvl;
+  localStorage.setItem('nuancetem_quiz_level', lvl);
+  recentQuestionIds.value = [];
+  loadNextQuestion();
+};
 
 const loadNextQuestion = async () => {
   // Reset state
@@ -25,7 +33,10 @@ const loadNextQuestion = async () => {
     (await db.progress.where('status').equals('mastered').toArray()).map(p => p.questionId)
   );
 
-  const allQuestions = await db.questions.toArray();
+  let allQuestions = await db.questions.toArray();
+  if (currentLevelFilter.value !== 'ALL') {
+    allQuestions = allQuestions.filter(q => q.level === currentLevelFilter.value);
+  }
   const availableQuestions = allQuestions.filter(q => !masteredIds.has(q.id));
 
   if (availableQuestions.length === 0) {
@@ -102,8 +113,23 @@ onMounted(loadNextQuestion);
 <template>
   <div class="quiz-view slide-up">
     <div class="header">
-      <h2>每日词辨挑战</h2>
-      <p>自动挑选未熟记的题目，点击选项答题并评估掌握程度。</p>
+      <div class="title-row">
+        <div>
+          <h2>每日词辨挑战</h2>
+          <p>自动挑选未熟记的题目，点击选项答题并评估掌握程度。</p>
+        </div>
+        <div class="level-tabs">
+          <button 
+            v-for="lvl in ['ALL', 'TEM-4', 'TEM-8']" 
+            :key="lvl"
+            class="level-tab-btn" 
+            :class="{ active: currentLevelFilter === lvl }"
+            @click="changeLevel(lvl)"
+          >
+            {{ lvl === 'ALL' ? '全题库' : lvl }}
+          </button>
+        </div>
+      </div>
     </div>
 
     <div v-if="currentQuestion" class="quiz-container">
@@ -149,6 +175,46 @@ onMounted(loadNextQuestion);
 
 .header {
   margin-bottom: 0.5rem;
+}
+
+.title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.level-tabs {
+  display: flex;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  gap: 0.25rem;
+}
+[data-theme="dark"] .level-tabs {
+  background: rgba(15, 23, 42, 0.5);
+}
+
+.level-tab-btn {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.level-tab-btn:hover {
+  color: var(--text-main);
+}
+.level-tab-btn.active {
+  background: var(--primary);
+  color: white;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
 }
 
 .quiz-container {

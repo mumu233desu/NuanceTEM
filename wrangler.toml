@@ -1,0 +1,10 @@
+name = "nuancetem"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "dist"
+
+# D1 关系数据库绑定
+[[d1_databases]]
+binding = "DB"
+database_name = "nuance_tem_d1"
+database_id = "local-d1-db"
+migrations_dir = "d1/migrations"

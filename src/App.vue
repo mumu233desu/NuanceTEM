@@ -6,7 +6,14 @@ import QuizView from './views/QuizView.vue';
 import ReviewView from './views/ReviewView.vue';
 import DatabaseView from './views/DatabaseView.vue';
 import SettingsView from './views/SettingsView.vue';
+import AuthModal from './components/AuthModal.vue';
+import { useAuth } from './composables/useAuth';
+import { useSync } from './composables/useSync';
 
+const { user, isAuthenticated, logout, refreshProfile } = useAuth();
+const { status: syncStatus, syncNow } = useSync();
+
+const isAuthModalOpen = ref(false);
 const currentView = ref('dashboard');
 const isDbInitializing = ref(true);
 const isDarkMode = ref(false);
@@ -38,18 +45,33 @@ const initApp = async () => {
   checkTheme();
   
   try {
-    // Check and seed/sync database
-    console.log('Fetching static questions database for seed/sync...');
-    const response = await fetch(`${import.meta.env.BASE_URL}data/questions.json`);
-    if (!response.ok) {
-      throw new Error('Failed to fetch static questions.json file');
+    // Check and seed/sync database for TEM-4 and TEM-8
+    console.log('Fetching questions databases (TEM-4 & TEM-8)...');
+    const [res4, res8] = await Promise.all([
+      fetch(`${import.meta.env.BASE_URL}data/questions_tem4.json`).catch(() => fetch(`${import.meta.env.BASE_URL}data/questions.json`)),
+      fetch(`${import.meta.env.BASE_URL}data/questions_tem8.json`).catch(() => null),
+    ]);
+
+    let allQuestions: any[] = [];
+    if (res4 && res4.ok) {
+      allQuestions = allQuestions.concat(await res4.json());
+    } else {
+      // Fallback
+      const fb = await fetch(`${import.meta.env.BASE_URL}data/questions.json`);
+      if (fb.ok) allQuestions = allQuestions.concat(await fb.json());
     }
-    const questionsData = await response.json();
-    await initializeDatabase(questionsData);
+    if (res8 && res8.ok) {
+      allQuestions = allQuestions.concat(await res8.json());
+    }
+
+    await initializeDatabase(allQuestions);
+    console.log(`Loaded ${allQuestions.length} questions into local IndexedDB.`);
   } catch (err) {
     console.error('Failed to initialize local IndexedDB database:', err);
   } finally {
     isDbInitializing.value = false;
+    // 异步尝试同步云端
+    refreshProfile().then(() => syncNow());
   }
 };
 
@@ -66,8 +88,11 @@ onMounted(initApp);
     <!-- Desktop Sidebar -->
     <aside class="sidebar">
       <div class="logo-section">
-        <div class="logo-icon">N</div>
-        <div class="logo-text">NuanceTEM</div>
+        <div class="logo-icon">豆</div>
+        <div class="logo-titles">
+          <div class="logo-text">豆英语</div>
+          <div class="logo-sub">NuanceTEM</div>
+        </div>
       </div>
 
       <nav class="nav-links">
@@ -115,6 +140,29 @@ onMounted(initApp);
           设置
         </div>
       </nav>
+
+      <!-- Cloud Sync & Account in Sidebar -->
+      <div class="sidebar-account-section">
+        <div v-if="isAuthenticated" class="user-card glass-card">
+          <div class="user-info">
+            <span class="user-name">{{ user?.nickname || '学习者' }}</span>
+            <span class="user-email">{{ user?.email }}</span>
+          </div>
+          <div class="sync-status-row">
+            <span class="sync-indicator" :class="syncStatus">
+              {{ syncStatus === 'synced' ? '● 云端同步' : syncStatus === 'syncing' ? '○ 正在同步' : syncStatus === 'error' ? '▲ 同步失败' : '● 本地存储' }}
+            </span>
+            <button class="mini-btn" @click="syncNow" title="立即同步">同步</button>
+            <button class="mini-btn logout" @click="logout" title="退出登录">退出</button>
+          </div>
+        </div>
+        <div v-else class="login-prompt">
+          <button @click="isAuthModalOpen = true" class="login-btn glass-card">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>登录云端同步</span>
+          </button>
+        </div>
+      </div>
 
       <!-- Theme Toggle in Sidebar -->
       <div class="theme-toggle-container">
@@ -197,11 +245,118 @@ onMounted(initApp);
         <SettingsView v-if="currentView === 'settings'" />
       </template>
     </main>
+
+    <!-- Cloud Auth Modal -->
+    <AuthModal :isOpen="isAuthModalOpen" @close="isAuthModalOpen = false" />
   </div>
 </template>
 
 <style>
-/* Global stylesheet import (already handled by main.ts, but let's make sure it resets everything) */
+/* Logo Titles */
+.logo-titles {
+  display: flex;
+  flex-direction: column;
+}
+.logo-titles .logo-sub {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  margin-top: -2px;
+}
+
+/* Sidebar Account & Sync Section */
+.sidebar-account-section {
+  margin-top: auto;
+  padding: 0 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.login-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--primary);
+  background: rgba(99, 102, 241, 0.08);
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.login-btn:hover {
+  background: var(--primary);
+  color: white;
+  border-style: solid;
+}
+
+.user-card {
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  border-radius: var(--radius-md);
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+.user-name {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text-main);
+}
+.user-email {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sync-status-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.sync-indicator {
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.sync-indicator.synced { color: var(--success); }
+.sync-indicator.syncing { color: var(--primary); }
+.sync-indicator.error { color: var(--error); }
+.sync-indicator.idle { color: var(--text-muted); }
+
+.mini-btn {
+  background: transparent;
+  border: 1px solid var(--border-color);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.mini-btn:hover {
+  color: var(--text-main);
+  border-color: var(--text-muted);
+}
+.mini-btn.logout:hover {
+  color: var(--error);
+  border-color: var(--error);
+}
+
 .loading-screen {
   display: flex;
   flex-direction: column;
