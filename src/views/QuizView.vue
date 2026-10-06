@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { db, type Question, type Progress, recordAttempt, toggleMastered, createDefaultProgress } from '../db';
+import { db, type Question, type Progress, recordAttempt, toggleMastered, createDefaultProgress, TAXONOMY_MECHANISMS } from '../db';
 import QuizCard from '../components/QuizCard.vue';
 import ExplanationSheet from '../components/ExplanationSheet.vue';
 
@@ -13,10 +13,18 @@ const showExplanation = ref(false);
 
 const recentQuestionIds = ref<string[]>([]);
 const currentLevelFilter = ref<string>(localStorage.getItem('nuancetem_quiz_level') || 'ALL');
+const currentMechFilter = ref<string>(localStorage.getItem('nuancetem_quiz_mech') || 'ALL');
 
 const changeLevel = (lvl: string) => {
   currentLevelFilter.value = lvl;
   localStorage.setItem('nuancetem_quiz_level', lvl);
+  recentQuestionIds.value = [];
+  loadNextQuestion();
+};
+
+const changeMech = (mech: string) => {
+  currentMechFilter.value = mech;
+  localStorage.setItem('nuancetem_quiz_mech', mech);
   recentQuestionIds.value = [];
   loadNextQuestion();
 };
@@ -36,6 +44,9 @@ const loadNextQuestion = async () => {
   let allQuestions = await db.questions.toArray();
   if (currentLevelFilter.value !== 'ALL') {
     allQuestions = allQuestions.filter(q => q.level === currentLevelFilter.value);
+  }
+  if (currentMechFilter.value !== 'ALL') {
+    allQuestions = allQuestions.filter(q => q.mechanism === currentMechFilter.value);
   }
   const availableQuestions = allQuestions.filter(q => !masteredIds.has(q.id));
 
@@ -126,8 +137,27 @@ onMounted(loadNextQuestion);
             :class="{ active: currentLevelFilter === lvl }"
             @click="changeLevel(lvl)"
           >
-            {{ lvl === 'ALL' ? '全题库' : lvl }}
+            {{ lvl === 'ALL' ? '综合' : lvl }}
           </button>
+        </div>
+      </div>
+
+      <!-- 考点机制专项突破栏 -->
+      <div class="mech-tabs-bar">
+        <span class="mech-tabs-label">专项突破：</span>
+        <div class="mech-tabs">
+          <button 
+            class="mech-tab-btn"
+            :class="{ active: currentMechFilter === 'ALL' }"
+            @click="changeMech('ALL')"
+          >全部考点</button>
+          <button 
+            v-for="(v, k) in TAXONOMY_MECHANISMS" 
+            :key="k"
+            class="mech-tab-btn"
+            :class="{ active: currentMechFilter === k }"
+            @click="changeMech(k)"
+          >{{ v.label }}</button>
         </div>
       </div>
     </div>
@@ -150,6 +180,8 @@ onMounted(loadNextQuestion);
         :isMastered="currentProgress?.status === 'mastered'"
         :questionText="currentQuestion.question"
         :optionsList="currentQuestion.options"
+        :taxonomyNotes="currentQuestion.taxonomy_notes"
+        :mechanism="currentQuestion.mechanism"
         @next="loadNextQuestion"
         @toggleMaster="handleToggleMaster"
         @rateDifficulty="handleRateDifficulty"
@@ -215,6 +247,53 @@ onMounted(loadNextQuestion);
   background: var(--primary);
   color: white;
   box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+}
+
+.mech-tabs-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.mech-tabs-label {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.mech-tabs {
+  display: flex;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0.2rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+[data-theme="dark"] .mech-tabs {
+  background: rgba(15, 23, 42, 0.5);
+}
+
+.mech-tab-btn {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.mech-tab-btn:hover {
+  color: var(--text-main);
+}
+.mech-tab-btn.active {
+  background: var(--primary);
+  color: white;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.25);
 }
 
 .quiz-container {

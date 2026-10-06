@@ -11,7 +11,27 @@ export interface Question {
   answer: string;
   distractor_analysis: Record<string, string>;
   translation: string;
+  field?: string; // 语义场 (FIELD_CHANGE, FIELD_STANCE, ...)
+  mechanism?: string; // 辨析机制 (MECH_COLLOCATION, MECH_CONNOTATION, ...)
+  taxonomy_notes?: string; // 辨析要点简记
 }
+
+// 标签分类元数据
+export const TAXONOMY_FIELDS = {
+  FIELD_CHANGE: { code: 'FIELD_CHANGE', label: '变化与态势', desc: '增减、涨跌、恶化、缓解、剧变' },
+  FIELD_STANCE: { code: 'FIELD_STANCE', label: '立场与评价', desc: '赞同、攻讦、辩护、质疑、批判' },
+  FIELD_COGNITION: { code: 'FIELD_COGNITION', label: '认知与思维', desc: '理解、晦涩、清晰、误导、推论' },
+  FIELD_BEHAVIOR: { code: 'FIELD_BEHAVIOR', label: '意志与行事', desc: '勤勉、怠惰、坚持、放弃、挥霍' },
+  FIELD_RELATION: { code: 'FIELD_RELATION', label: '规约与社会', desc: '顺从、抵触、契约、法庭、规章' },
+  FIELD_NATURE: { code: 'FIELD_NATURE', label: '状态与时空', desc: '持续、短暂、分布、永恒、渗透' },
+} as const;
+
+export const TAXONOMY_MECHANISMS = {
+  MECH_COLLOCATION: { code: 'MECH_COLLOCATION', label: '介词与搭配', color: '#3b82f6' },
+  MECH_CONNOTATION: { code: 'MECH_CONNOTATION', label: '感情与褒贬', color: '#a855f7' },
+  MECH_REGISTER: { code: 'MECH_REGISTER', label: '语境与庄谐', color: '#f59e0b' },
+  MECH_NUANCE: { code: 'MECH_NUANCE', label: '词义与侧重', color: '#10b981' },
+} as const;
 
 export interface Progress {
   questionId: string;
@@ -46,6 +66,11 @@ class NuanceTEMDatabase extends Dexie {
     });
     this.version(2).stores({
       questions: 'id, group_id, target_word, level',
+      progress: 'questionId, status, nextReview',
+      logs: '++id, timestamp, questionId',
+    });
+    this.version(3).stores({
+      questions: 'id, group_id, target_word, level, field, mechanism',
       progress: 'questionId, status, nextReview',
       logs: '++id, timestamp, questionId',
     });

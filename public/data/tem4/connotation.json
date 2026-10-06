@@ -1,0 +1,95 @@
+[
+  {
+    "id": "tem4_pro_001",
+    "level": "TEM-4",
+    "group_name": "cry, weep, sob, snivel, blubber, whine, bawl, wail, moan, grown, mourn, lament",
+    "question": "Overwhelmed by the heartbreaking story, she began to ___ quietly, her shoulders heaving with short, quick breaths.",
+    "options": [
+      "weep",
+      "sob",
+      "wail",
+      "whine"
+    ],
+    "answer": "sob",
+    "translation": "被这个令人心碎的故事所震撼，她开始静静地抽泣，肩膀随着短促的呼吸而起伏。",
+    "analysis": {
+      "weep": "To let flow tears. (哭泣)",
+      "sob": "To weep or sigh with short quick breaths. (抽泣 抽嗒)",
+      "wail": "To cry aloud from pain or sorrow. (痛哭)",
+      "whine": "To make a low complaining cry. (发出低声报怨声)"
+    },
+    "target_word": "sob",
+    "distractor_analysis": {
+      "weep": "\"哭泣，流泪\" - 书面用词，指无声地流泪或低声哭泣，侧重流泪的动作，但不强调句中提到的“肩膀起伏”和“短促呼吸”。",
+      "sob": "\"抽泣，啜泣\" - 指伴随着急促呼吸或身体抽动、哽咽着哭。句中明确描写了“肩膀随着短促呼吸起伏”，sob是唯一准确描绘这一动作的词。",
+      "wail": "\"哀嚎，嚎啕大哭\" - 指发出长而尖锐的悲叹或哭叫声，与句中的“quietly”（静静地）相矛盾。",
+      "whine": "\"哀鸣，发牢骚\" - 通常指人或动物发出持续的、刺耳的抱怨声或哀鸣，常带贬义，不符合被令人心碎的故事感动的语境。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。",
+    "legacy_id": "q_b2a7c4"
+  },
+  {
+    "id": "tem4_pro_002",
+    "level": "TEM-4",
+    "group_name": "well-known, famous, distinguished, celebrated, renowned, noted, notorious",
+    "question": "The university invited a ___ professor to deliver a keynote speech on quantum physics.",
+    "options": [
+      "famous",
+      "distinguished",
+      "celebrated",
+      "notorious"
+    ],
+    "answer": "distinguished",
+    "translation": "大学邀请了一位杰出的教授来发表关于量子物理的主题演讲。",
+    "analysis": {
+      "famous": "The most general one. widely known or honored.",
+      "distinguished": "Great, outstanding marked by excellent quality or deserved fame, used especially of people who are famous for serious work in science, the arts etc.",
+      "celebrated": "Famous, (substitute for renowned) It refers objectively to sb or something that has been give acclaim or honoured with awards or prizes.",
+      "notorious": "Famous for something bad."
+    },
+    "target_word": "distinguished",
+    "distractor_analysis": {
+      "famous": "\"著名的，出名的\" - 普通用词，仅表示很多人知道，不包含因成就卓越而受人尊敬的内涵。",
+      "distinguished": "\"杰出的，卓越的\" - 不仅表示出名，更强调因在某一领域表现出众、成就卓越而备受尊崇。受邀发表量子物理主题演讲的教授显然是学术界泰斗，该词最能体现其受人尊敬的杰出地位。",
+      "celebrated": "\"著名的，大名鼎鼎的\" - 强调因某事迹被广泛赞誉或经常被提及，常用于艺术家或文学家，学术严肃性略逊于distinguished。",
+      "notorious": "\"臭名昭著的\" - 贬义词，指因做坏事而出名，完全不符合邀请来做主题演讲的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。",
+    "legacy_id": "q_ch1_02"
+  },
+  {
+    "id": "tem4_pro_003",
+    "level": "TEM-4",
+    "group_name": "disgrace, humiliate, shame, dishonor",
+    "question": "The boss would often ___ his employees by criticizing their mistakes in front of the entire office.",
+    "options": [
+      "disgrace",
+      "humiliate",
+      "shame",
+      "dishonor"
+    ],
+    "answer": "humiliate",
+    "translation": "老板经常在全办公室的人面前批评员工的错误，以此来羞辱他们。",
+    "analysis": {
+      "disgrace": "侧重在别人，尤其在众人面前丢脸。",
+      "humiliate": "强调受辱者自尊心的损坏。",
+      "shame": "指由不光彩或不道德的行为引起的惭愧感或羞耻感。",
+      "dishonor": "有时可与disgrace换用，但前者是指因失去荣誉所致。"
+    },
+    "target_word": "humiliate",
+    "distractor_analysis": {
+      "disgrace": "（使丢脸、使丧失名誉）强调因为不光彩的行为而失去他人的尊敬或地位，侧重于名誉的败坏。",
+      "humiliate": "（羞辱、使丢脸）强调通过言语或行为践踏他人的自尊，使其在他人面前感到难堪或耻辱。符合语境中老板在众人面前批评员工使其感到屈辱的行为。",
+      "shame": "（使羞愧）侧重于让人因为做错事而从内心感到自责、内疚和羞愧，未必是被恶意贬低。",
+      "dishonor": "（使蒙羞、败坏名声）通常指行为违背了道德或荣誉准则，给家族或组织带来耻辱，语意较正式且宏大。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。",
+    "legacy_id": "q_ch1_07"
+  }
+]

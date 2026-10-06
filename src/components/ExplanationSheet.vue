@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue';
+import { TAXONOMY_MECHANISMS } from '../db';
 
 const copySuccess = ref(false);
 
@@ -13,6 +14,8 @@ const props = defineProps<{
   isMastered: boolean;
   questionText: string;
   optionsList: string[];
+  taxonomyNotes?: string;
+  mechanism?: string;
 }>();
 
 const emit = defineEmits<{
@@ -62,6 +65,24 @@ ${props.questionText}
       <div class="section translation-section">
         <h4>译文</h4>
         <p class="translation">{{ translation }}</p>
+      </div>
+
+      <div v-if="mechanism || taxonomyNotes" class="section taxonomy-section">
+        <h4>考点机制与辨析</h4>
+        <div class="taxonomy-box">
+          <span 
+            v-if="mechanism && TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS]" 
+            class="mech-tag"
+            :style="{ 
+              borderColor: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color, 
+              color: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color,
+              backgroundColor: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color + '15'
+            }"
+          >
+            {{ TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].label }}
+          </span>
+          <span v-if="taxonomyNotes" class="taxonomy-desc">{{ taxonomyNotes }}</span>
+        </div>
       </div>
 
       <div class="section analysis-section">
@@ -210,6 +231,35 @@ h4 {
   font-size: 1.05rem;
   color: var(--text-main);
   font-weight: 500;
+}
+
+.taxonomy-box {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .taxonomy-box {
+  background: rgba(15, 23, 42, 0.2);
+}
+
+.mech-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid currentColor;
+  white-space: nowrap;
+}
+
+.taxonomy-desc {
+  font-size: 0.95rem;
+  color: var(--text-main);
+  line-height: 1.4;
 }
 
 .analysis-header {

@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "tem4_reg_001",
+    "group_id": 2,
+    "group_name": "abnormal, uncommon, disordered",
+    "level": "TEM-4",
+    "target_word": "disordered",
+    "question": "The burglars left the living room completely ___, with papers and clothes scattered everywhere.",
+    "options": [
+      "abnormal",
+      "uncommon",
+      "disordered"
+    ],
+    "answer": "disordered",
+    "distractor_analysis": {
+      "abnormal": "a. 不正常的，反常的（但并非罕见），指行为或现象（如气候）的异常。",
+      "uncommon": "a. 罕见的，不平常的，指很少经历或很少见到的状况；也表示特别的、出色的。",
+      "disordered": "a. 混乱的，杂乱的；（精神或身体）有病的。"
+    },
+    "translation": "窃贼把客厅弄得杂乱无章，纸张和衣服散落一地。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_2_3"
+  },
+  {
+    "id": "tem4_reg_002",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "acquire",
+    "question": "It is through learning that individuals ___ many habitual ways of reacting.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "acquire",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "正是通过学习，个人才得以获得应付各种情况的习惯做法。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_1"
+  },
+  {
+    "id": "tem4_reg_003",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "attain",
+    "question": "When hunting for prey, the cheetah can ___ speeds of up to 70 miles per hour.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "attain",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "猎豹在捕猎时，速度可达到每小时70英里。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_2"
+  },
+  {
+    "id": "tem4_reg_004",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "obtain",
+    "question": "You must ___ written permission from the city council before building a fence around your house.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "obtain",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "在房子周围建围栏之前，你必须获得市议会的书面许可。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_3"
+  },
+  {
+    "id": "tem4_reg_005",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "gain",
+    "question": "If you eat too much fast food and stop exercising, you will easily ___ weight.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "gain",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "如果你吃太多快餐又停止锻炼，就很容易体重增加。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_4"
+  },
+  {
+    "id": "tem4_reg_006",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "earn",
+    "question": "How much do you ___ a week from your job?",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "earn",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "你一周工作挣多少钱？",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_5"
+  },
+  {
+    "id": "tem4_reg_007",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "achieve",
+    "question": "The movie star worked hard to ___ success and wealth.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "achieve",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "这位影星努力工作以取得成功和财富。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_6"
+  },
+  {
+    "id": "tem4_reg_008",
+    "group_id": 11,
+    "group_name": "acquire, attain, obtain, gain, earn, achieve, secure",
+    "level": "TEM-4",
+    "target_word": "secure",
+    "question": "The team managed to ___ a narrow victory in the final seconds of the championship game.",
+    "options": [
+      "acquire",
+      "attain",
+      "obtain",
+      "gain",
+      "earn",
+      "achieve",
+      "secure"
+    ],
+    "answer": "secure",
+    "distractor_analysis": {
+      "acquire": "v. 多指经过努力逐步获得才能、知识、习惯等，强调一经获得就会长期持有。",
+      "attain": "v. 指经过不懈的努力获得未曾预料到的结果；也可指达到某一目标。",
+      "obtain": "v. 获得，买到，用于正式语体中，指通过努力或申请得到某物。",
+      "gain": "v. 指通过较大努力获得某种利益、好处或优势；亦可指军事夺取等。",
+      "earn": "v. 挣得，赢得，指因工作或做出贡献而得到报酬、待遇或声誉。",
+      "achieve": "v. 得到，获得，多指重要成就、目标、幸福的取得。",
+      "secure": "v. 得到，把……拿到手，含有肯定占有难以得到的东西之意；使安全。"
+    },
+    "translation": "球队在冠军赛的最后几秒钟设法以微弱优势锁定胜局。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_11_7"
+  },
+  {
+    "id": "tem4_reg_009",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "adjust",
+    "question": "I need to ___ the air conditioner to keep the room cool.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "adjust",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "我需要调节空调以保持房间凉爽。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_1"
+  },
+  {
+    "id": "tem4_reg_010",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "regulate",
+    "question": "Traffic lights are used to ___ the traffic flow on busy roads.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "regulate",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "红绿灯被用来管制繁忙道路上的交通流量。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_2"
+  },
+  {
+    "id": "tem4_reg_011",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "rectify",
+    "question": "He managed to ___ the mistake in the contract by changing its wording.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "rectify",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "他通过改变措辞成功地纠正了合同里的错误。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_3"
+  },
+  {
+    "id": "tem4_reg_012",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "amend",
+    "question": "The politicians voted to ___ the law to provide more jobs.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "amend",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "政治家们投票修改了这项法律以提供更多的就业。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_4"
+  },
+  {
+    "id": "tem4_reg_013",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "alter",
+    "question": "The tailor had to ___ the waistband on my pants because it was too tight.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "alter",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "裁缝不得不修改我的裤腰，因为它太紧了。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_6"
+  },
+  {
+    "id": "tem4_reg_014",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "modify",
+    "question": "The politician was forced to ___ his extreme views to win the support of the moderate voters.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "modify",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "为了赢得温和派选民的支持，这位政客被迫缓和其极端的观点。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_7"
+  },
+  {
+    "id": "tem4_reg_015",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "transform",
+    "question": "Remodeling can ___ an old, dark house into a cheerful one.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "transform",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "重新装修可以将一所陈旧昏暗的房子变得赏心悦目。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_13_8"
+  },
+  {
+    "id": "tem4_reg_016",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "affirm",
+    "question": "The newly elected leader used his first speech to ___ his strong commitment to protecting the environment.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "affirm",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "新当选的领导人利用他的首次演讲，重申了他保护环境的坚定承诺。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_1"
+  },
+  {
+    "id": "tem4_reg_017",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "assert",
+    "question": "When the students started to misbehave, the substitute teacher quickly tried to ___ her authority in the classroom.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "assert",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "当学生们开始调皮捣蛋时，代课老师迅速试图在教室里确立她的权威。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_2"
+  },
+  {
+    "id": "tem4_reg_018",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "allege",
+    "question": "The prosecutors ___ that the company's executives intentionally hid the financial losses from their investors.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "allege",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "检察官指控该公司的高管故意向投资者隐瞒财务损失。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_3"
+  },
+  {
+    "id": "tem4_reg_019",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "claim",
+    "question": "An anonymous group called the news station to ___ responsibility for the cyber attack.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "claim",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "一个匿名组织打电话给新闻电台，声称对此次网络攻击负责。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_4"
+  },
+  {
+    "id": "tem4_reg_020",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "announce",
+    "question": "The company will ___ the new product release tomorrow.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "announce",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "公司明天将宣布新产品的发布。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_5"
+  },
+  {
+    "id": "tem4_reg_021",
+    "group_id": 16,
+    "group_name": "affirm, assert, allege, claim, announce, proclaim",
+    "level": "TEM-4",
+    "target_word": "proclaim",
+    "question": "The president decided to ___ an emergency when the war broke out.",
+    "options": [
+      "affirm",
+      "assert",
+      "allege",
+      "claim",
+      "announce",
+      "proclaim"
+    ],
+    "answer": "proclaim",
+    "distractor_analysis": {
+      "affirm": "v. 坚信不疑地肯定或宣称，表示对某事物的断言，是 deny 的反义词。",
+      "assert": "v. 指不管事实如何，主观自信地宣称，或者清楚有力地坚持某个情况为事实。",
+      "allege": "v. 在无真凭实据的情况下宣称、断定某事。",
+      "claim": "v. 要求，声称，断言，多指根据某种规定或权利提出主张。",
+      "announce": "v. 宣布，宣告，多指首次当众正式宣布某一主张或态度，常带有预告的意味。",
+      "proclaim": "v. 正式宣布，宣告（重大事件），指深思熟虑后向大众宣布明确的决定，多用于官方场合。"
+    },
+    "translation": "当战争爆发时，总统决定宣布进入紧急状态。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_16_6"
+  },
+  {
+    "id": "tem4_reg_022",
+    "group_id": 24,
+    "group_name": "anger, fury, indignation, resentment",
+    "level": "TEM-4",
+    "target_word": "anger",
+    "question": "She could not hide her ___ when her younger brother broke her favorite toy.",
+    "options": [
+      "anger",
+      "fury",
+      "indignation",
+      "resentment"
+    ],
+    "answer": "anger",
+    "distractor_analysis": {
+      "anger": "n. 气愤，生气，是一般常用语。",
+      "fury": "n. 暴怒，大怒，程度较 anger 更强，表示极度的愤怒。",
+      "indignation": "n. 义愤，尤其指对不公正、卑劣行径等出于道义上的激愤。",
+      "resentment": "n. 愤恨，怨恨，不满，是正式用语，尤指由于受侮辱、委屈或自尊心受伤后而产生的愤慨。"
+    },
+    "translation": "当弟弟弄坏了她最喜欢的玩具时，她无法掩饰心中的愤怒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_24_1"
+  },
+  {
+    "id": "tem4_reg_023",
+    "group_id": 24,
+    "group_name": "anger, fury, indignation, resentment",
+    "level": "TEM-4",
+    "target_word": "fury",
+    "question": "She flew into a ___ when she discovered they had lied to her.",
+    "options": [
+      "anger",
+      "fury",
+      "indignation",
+      "resentment"
+    ],
+    "answer": "fury",
+    "distractor_analysis": {
+      "anger": "n. 气愤，生气，是一般常用语。",
+      "fury": "n. 暴怒，大怒，程度较 anger 更强，表示极度的愤怒。",
+      "indignation": "n. 义愤，尤其指对不公正、卑劣行径等出于道义上的激愤。",
+      "resentment": "n. 愤恨，怨恨，不满，是正式用语，尤指由于受侮辱、委屈或自尊心受伤后而产生的愤慨。"
+    },
+    "translation": "当她发现他们对她撒谎时，她勃然大怒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_24_2"
+  },
+  {
+    "id": "tem4_reg_024",
+    "group_id": 24,
+    "group_name": "anger, fury, indignation, resentment",
+    "level": "TEM-4",
+    "target_word": "resentment",
+    "question": "A feeling of ___ spread in the office after everyone's pay was cut.",
+    "options": [
+      "anger",
+      "fury",
+      "indignation",
+      "resentment"
+    ],
+    "answer": "resentment",
+    "distractor_analysis": {
+      "anger": "n. 气愤，生气，是一般常用语。",
+      "fury": "n. 暴怒，大怒，程度较 anger 更强，表示极度的愤怒。",
+      "indignation": "n. 义愤，尤其指对不公正、卑劣行径等出于道义上的激愤。",
+      "resentment": "n. 愤恨，怨恨，不满，是正式用语，尤指由于受侮辱、委屈或自尊心受伤后而产生的愤慨。"
+    },
+    "translation": "降薪后，办公室里怨声载道。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1_24_4"
+  },
+  {
+    "id": "tem4_reg_025",
+    "group_id": 26,
+    "group_name": "applaud, clap, commend, praise",
+    "level": "TEM-4",
+    "target_word": "applaud",
+    "question": "We all ___ her decision to donate her prize money to charity.",
+    "options": [
+      "applaud",
+      "clap",
+      "commend",
+      "praise"
+    ],
+    "answer": "applaud",
+    "distractor_analysis": {
+      "applaud": "鼓掌，赞扬，指因精湛表演或某种行为得到别人的赞许，大声叫好或热烈鼓掌。",
+      "clap": "拍打，常用用法是 clap one's hand=applaud，不能说 applaud one's hands；clap sb.为某人鼓掌，clap sth.拍打某物。",
+      "commend": "正式用词，用于对具体功绩或成就表示嘉奖，通常指上级对下级、长辈对晚辈的赞赏。",
+      "praise": "一般用词，用于对某人的优秀品质表示钦佩羡慕；赞颂，赞美。"
+    },
+    "translation": "我们都对她把奖金捐给慈善机构的决定表示赞赏。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_26_1"
+  },
+  {
+    "id": "tem4_reg_026",
+    "group_id": 26,
+    "group_name": "applaud, clap, commend, praise",
+    "level": "TEM-4",
+    "target_word": "commend",
+    "question": "The police chief decided to ___ the officer for his bravery during the rescue.",
+    "options": [
+      "applaud",
+      "clap",
+      "commend",
+      "praise"
+    ],
+    "answer": "commend",
+    "distractor_analysis": {
+      "applaud": "鼓掌，赞扬，指因精湛表演或某种行为得到别人的赞许，大声叫好或热烈鼓掌。",
+      "clap": "拍打，常用用法是 clap one's hand=applaud，不能说 applaud one's hands；clap sb.为某人鼓掌，clap sth.拍打某物。",
+      "commend": "正式用词，用于对具体功绩或成就表示嘉奖，通常指上级对下级、长辈对晚辈的赞赏。",
+      "praise": "一般用词，用于对某人的优秀品质表示钦佩羡慕；赞颂，赞美。"
+    },
+    "translation": "警察局长决定表彰这名警官在救援行动中的英勇表现。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_26_3"
+  },
+  {
+    "id": "tem4_reg_027",
+    "group_id": 26,
+    "group_name": "applaud, clap, commend, praise",
+    "level": "TEM-4",
+    "target_word": "praise",
+    "question": "Parents should always ___ their children when they behave well and do their chores.",
+    "options": [
+      "applaud",
+      "clap",
+      "commend",
+      "praise"
+    ],
+    "answer": "praise",
+    "distractor_analysis": {
+      "applaud": "鼓掌，赞扬，指因精湛表演或某种行为得到别人的赞许，大声叫好或热烈鼓掌。",
+      "clap": "拍打，常用用法是 clap one's hand=applaud，不能说 applaud one's hands；clap sb.为某人鼓掌，clap sth.拍打某物。",
+      "commend": "正式用词，用于对具体功绩或成就表示嘉奖，通常指上级对下级、长辈对晚辈的赞赏。",
+      "praise": "一般用词，用于对某人的优秀品质表示钦佩羡慕；赞颂，赞美。"
+    },
+    "translation": "当孩子们表现良好并完成家务时，父母应该总是表扬他们。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_26_4"
+  },
+  {
+    "id": "tem4_reg_028",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "congress",
+    "question": "___ passes laws that must be obeyed by the people.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "congress",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "国会通过的法律，人民一定要遵守。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_28_3"
+  },
+  {
+    "id": "tem4_reg_029",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "summit",
+    "question": "Next year, the ___ will be held in Vienna.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "summit",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "明年将在维也纳举行最高级会谈。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_28_7"
+  },
+  {
+    "id": "tem4_reg_030",
+    "group_id": 32,
+    "group_name": "award, reward",
+    "level": "TEM-4",
+    "target_word": "award",
+    "question": "The school principal decided to ___ a prize in history to the best student.",
+    "options": [
+      "award",
+      "reward"
+    ],
+    "answer": "award",
+    "distractor_analysis": {
+      "award": "指正式地或官方地颁发，授予，给予；也可以指法庭裁决给予。后面可跟双宾语。",
+      "reward": "酬劳，奖赏，回报，通常指因做了某一件事或提供了某种服务而应得到报酬或酬谢，其后一般以人或人的行为作宾语。后跟 with 用来说明以何物作为报酬。"
+    },
+    "translation": "学校校长决定将历史奖授予最出色的学生。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_32_1"
+  },
+  {
+    "id": "tem4_reg_031",
+    "group_id": 32,
+    "group_name": "award, reward",
+    "level": "TEM-4",
+    "target_word": "reward",
+    "question": "I will ___ the person who returns my lost dog.",
+    "options": [
+      "award",
+      "reward"
+    ],
+    "answer": "reward",
+    "distractor_analysis": {
+      "award": "指正式地或官方地颁发，授予，给予；也可以指法庭裁决给予。后面可跟双宾语。",
+      "reward": "酬劳，奖赏，回报，通常指因做了某一件事或提供了某种服务而应得到报酬或酬谢，其后一般以人或人的行为作宾语。后跟 with 用来说明以何物作为报酬。"
+    },
+    "translation": "我将酬谢帮我找回丢失的狗的人。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_32_2"
+  },
+  {
+    "id": "tem4_reg_032",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "chuckle",
+    "question": "Reading the comic strip made him ___ quietly to himself.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "chuckle",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "看连环画让他忍不住暗自轻声发笑。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_35_2"
+  },
+  {
+    "id": "tem4_reg_033",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "giggle",
+    "question": "The schoolgirls began to ___ when the famous football player walked in.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "giggle",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "当这个著名的足球运动员走进教室时，女生们都咯咯地笑起来。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_35_3"
+  },
+  {
+    "id": "tem4_reg_034",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "jeer",
+    "question": "The crowd began to ___ when the boxer was knocked down.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "jeer",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "当那个拳手被人打倒时，人群开始嘲笑他。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_35_5"
+  },
+  {
+    "id": "tem4_reg_035",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "laugh",
+    "question": "It is healthy to ___ when you are happy.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "laugh",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "高兴的时候笑是有益健康的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_35_6"
+  },
+  {
+    "id": "tem4_reg_036",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "roar",
+    "question": "He began to ___ when he heard the hilarious joke.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "roar",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "听完这个好笑的笑话，他哈哈大笑。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_35_7"
+  },
+  {
+    "id": "tem4_reg_037",
+    "group_id": 37,
+    "group_name": "blame, condemn, reproach, scold",
+    "level": "TEM-4",
+    "target_word": "blame",
+    "question": "You cannot ___ anyone in case you fail the exam.",
+    "options": [
+      "blame",
+      "condemn",
+      "reproach",
+      "scold"
+    ],
+    "answer": "blame",
+    "distractor_analysis": {
+      "blame": "责怪，把……归咎于。",
+      "condemn": "谴责，用于比较正式的、严肃的场合。",
+      "reproach": "(书面语)责备，表示不满。",
+      "scold": "责骂，训斥。"
+    },
+    "translation": "万一你考试不及格，你不能怪罪任何人。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_37_1"
+  },
+  {
+    "id": "tem4_reg_038",
+    "group_id": 37,
+    "group_name": "blame, condemn, reproach, scold",
+    "level": "TEM-4",
+    "target_word": "condemn",
+    "question": "The international community was quick to ___ the terrorist attack.",
+    "options": [
+      "blame",
+      "condemn",
+      "reproach",
+      "scold"
+    ],
+    "answer": "condemn",
+    "distractor_analysis": {
+      "blame": "责怪，把……归咎于。",
+      "condemn": "谴责，用于比较正式的、严肃的场合。",
+      "reproach": "(书面语)责备，表示不满。",
+      "scold": "责骂，训斥。"
+    },
+    "translation": "国际社会迅速谴责了这起恐怖袭击。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_37_2"
+  },
+  {
+    "id": "tem4_reg_039",
+    "group_id": 37,
+    "group_name": "blame, condemn, reproach, scold",
+    "level": "TEM-4",
+    "target_word": "reproach",
+    "question": "It is useless to ___ yourself for mistakes that have already been made.",
+    "options": [
+      "blame",
+      "condemn",
+      "reproach",
+      "scold"
+    ],
+    "answer": "reproach",
+    "distractor_analysis": {
+      "blame": "责怪，把……归咎于。",
+      "condemn": "谴责，用于比较正式的、严肃的场合。",
+      "reproach": "(书面语)责备，表示不满。",
+      "scold": "责骂，训斥。"
+    },
+    "translation": "为已经犯下的错误责备自己是毫无用处的。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_37_3"
+  },
+  {
+    "id": "tem4_reg_040",
+    "group_id": 37,
+    "group_name": "blame, condemn, reproach, scold",
+    "level": "TEM-4",
+    "target_word": "scold",
+    "question": "The mother had to ___ her child for playing with fire.",
+    "options": [
+      "blame",
+      "condemn",
+      "reproach",
+      "scold"
+    ],
+    "answer": "scold",
+    "distractor_analysis": {
+      "blame": "责怪，把……归咎于。",
+      "condemn": "谴责，用于比较正式的、严肃的场合。",
+      "reproach": "(书面语)责备，表示不满。",
+      "scold": "责骂，训斥。"
+    },
+    "translation": "母亲不得不因孩子玩火而训斥他。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_37_4"
+  },
+  {
+    "id": "tem4_reg_041",
+    "group_id": 43,
+    "group_name": "certify, rectify, testify, verify",
+    "level": "TEM-4",
+    "target_word": "certify",
+    "question": "The doctor will ___ that you are healthy enough to return to work.",
+    "options": [
+      "certify",
+      "rectify",
+      "testify",
+      "verify"
+    ],
+    "answer": "certify",
+    "distractor_analysis": {
+      "certify": "证明，声称是真的。",
+      "rectify": "改正，纠正；整顿。",
+      "testify": "(在法庭上)宣誓作证；表明。",
+      "verify": "(用事实)证实或核实。"
+    },
+    "translation": "医生将开具证明，确认你已经恢复健康，可以重返工作岗位。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_43_1"
+  },
+  {
+    "id": "tem4_reg_042",
+    "group_id": 43,
+    "group_name": "certify, rectify, testify, verify",
+    "level": "TEM-4",
+    "target_word": "rectify",
+    "question": "He decided to ___ the mistake in the contract by changing its wording.",
+    "options": [
+      "certify",
+      "rectify",
+      "testify",
+      "verify"
+    ],
+    "answer": "rectify",
+    "distractor_analysis": {
+      "certify": "证明，声称是真的。",
+      "rectify": "改正，纠正；整顿。",
+      "testify": "(在法庭上)宣誓作证；表明。",
+      "verify": "(用事实)证实或核实。"
+    },
+    "translation": "他决定通过改变措辞纠正合同里的错。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_43_2"
+  },
+  {
+    "id": "tem4_reg_043",
+    "group_id": 43,
+    "group_name": "certify, rectify, testify, verify",
+    "level": "TEM-4",
+    "target_word": "verify",
+    "question": "I wanted to ___ the store's address by calling to check it.",
+    "options": [
+      "certify",
+      "rectify",
+      "testify",
+      "verify"
+    ],
+    "answer": "verify",
+    "distractor_analysis": {
+      "certify": "证明，声称是真的。",
+      "rectify": "改正，纠正；整顿。",
+      "testify": "(在法庭上)宣誓作证；表明。",
+      "verify": "(用事实)证实或核实。"
+    },
+    "translation": "我想通过打电话来核实商店的地址。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_43_4"
+  },
+  {
+    "id": "tem4_reg_044",
+    "group_id": 44,
+    "group_name": "compel, constrain, force, oblige",
+    "level": "TEM-4",
+    "target_word": "compel",
+    "question": "The court has the power to ___ witnesses to attend the trial.",
+    "options": [
+      "compel",
+      "constrain",
+      "force",
+      "oblige"
+    ],
+    "answer": "compel",
+    "distractor_analysis": {
+      "compel": "强迫，迫使，常表示运用权利、力量迫使对方做某事；有时也表示“别无办法，不得不做”。",
+      "constrain": "力劝，强迫，与 compel 意思相近，但更多强调内心情感(如道德、怜悯等)的强迫和限制作用，一般用于正式的场合。",
+      "force": "强迫，迫使，暴力威胁的意味较浓，常用于被动语态。",
+      "oblige": "(因法律、习俗等)强迫，迫使，常常用于被动。"
+    },
+    "translation": "法庭有权强制证人出庭。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_44_1"
+  },
+  {
+    "id": "tem4_reg_045",
+    "group_id": 44,
+    "group_name": "compel, constrain, force, oblige",
+    "level": "TEM-4",
+    "target_word": "constrain",
+    "question": "The tight budget will inevitably ___ the project's development.",
+    "options": [
+      "compel",
+      "constrain",
+      "force",
+      "oblige"
+    ],
+    "answer": "constrain",
+    "distractor_analysis": {
+      "compel": "强迫，迫使，常表示运用权利、力量迫使对方做某事；有时也表示“别无办法，不得不做”。",
+      "constrain": "力劝，强迫，与 compel 意思相近，但更多强调内心情感(如道德、怜悯等)的强迫和限制作用，一般用于正式的场合。",
+      "force": "强迫，迫使，暴力威胁的意味较浓，常用于被动语态。",
+      "oblige": "(因法律、习俗等)强迫，迫使，常常用于被动。"
+    },
+    "translation": "紧张的预算不可避免地会限制该项目的发展。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_44_2"
+  },
+  {
+    "id": "tem4_reg_046",
+    "group_id": 44,
+    "group_name": "compel, constrain, force, oblige",
+    "level": "TEM-4",
+    "target_word": "force",
+    "question": "The thief wanted to ___ her to hand over the money.",
+    "options": [
+      "compel",
+      "constrain",
+      "force",
+      "oblige"
+    ],
+    "answer": "force",
+    "distractor_analysis": {
+      "compel": "强迫，迫使，常表示运用权利、力量迫使对方做某事；有时也表示“别无办法，不得不做”。",
+      "constrain": "力劝，强迫，与 compel 意思相近，但更多强调内心情感(如道德、怜悯等)的强迫和限制作用，一般用于正式的场合。",
+      "force": "强迫，迫使，暴力威胁的意味较浓，常用于被动语态。",
+      "oblige": "(因法律、习俗等)强迫，迫使，常常用于被动。"
+    },
+    "translation": "强盗逼迫她把钱交出来。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_44_3"
+  },
+  {
+    "id": "tem4_reg_047",
+    "group_id": 44,
+    "group_name": "compel, constrain, force, oblige",
+    "level": "TEM-4",
+    "target_word": "oblige",
+    "question": "If you need a ride to the airport, I would be happy to ___ you.",
+    "options": [
+      "compel",
+      "constrain",
+      "force",
+      "oblige"
+    ],
+    "answer": "oblige",
+    "distractor_analysis": {
+      "compel": "强迫，迫使，常表示运用权利、力量迫使对方做某事；有时也表示“别无办法，不得不做”。",
+      "constrain": "力劝，强迫，与 compel 意思相近，但更多强调内心情感(如道德、怜悯等)的强迫和限制作用，一般用于正式的场合。",
+      "force": "强迫，迫使，暴力威胁的意味较浓，常用于被动语态。",
+      "oblige": "(因法律、习俗等)强迫，迫使，常常用于被动。"
+    },
+    "translation": "如果你需要乘车去机场，我很乐意帮忙。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_2_44_4"
+  },
+  {
+    "id": "tem4_reg_048",
+    "group_id": 85,
+    "group_name": "interfere, intervene, interrupt, disturb",
+    "level": "TEM-4",
+    "target_word": "interfere",
+    "question": "It's unwise to ___ between husband and wife.",
+    "options": [
+      "interfere",
+      "intervene",
+      "interrupt",
+      "disturb"
+    ],
+    "answer": "interfere",
+    "distractor_analysis": {
+      "interfere": "v. 干涉，妨碍。常指干涉或妨碍他人(的事)，着重指有影响；当“干涉”讲时，后多接 in，当“妨碍，打扰”时后多接 with。",
+      "intervene": "v. 干涉，干预，较为 正式，常指带有行动的干预；此外，还有 \"调停\" 的意思。",
+      "interrupt": "v. 打扰，打断，阻碍。常有\"使……停止(中断)\"的意思。",
+      "disturb": "v. 打扰，妨碍。常指失去了正常的状态或导致困难产生。"
+    },
+    "translation": "干涉别人夫妇间的事是不明智的。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_85_1"
+  },
+  {
+    "id": "tem4_reg_049",
+    "group_id": 85,
+    "group_name": "interfere, intervene, interrupt, disturb",
+    "level": "TEM-4",
+    "target_word": "intervene",
+    "question": "Would you ___ if you saw a parent hit a child?",
+    "options": [
+      "interfere",
+      "intervene",
+      "interrupt",
+      "disturb"
+    ],
+    "answer": "intervene",
+    "distractor_analysis": {
+      "interfere": "v. 干涉，妨碍。常指干涉或妨碍他人(的事)，着重指有影响；当“干涉”讲时，后多接 in，当“妨碍，打扰”时后多接 with。",
+      "intervene": "v. 干涉，干预，较为 正式，常指带有行动的干预；此外，还有 \"调停\" 的意思。",
+      "interrupt": "v. 打扰，打断，阻碍。常有\"使……停止(中断)\"的意思。",
+      "disturb": "v. 打扰，妨碍。常指失去了正常的状态或导致困难产生。"
+    },
+    "translation": "要是你看到家长打孩子你会干 预吗？",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_85_2"
+  },
+  {
+    "id": "tem4_reg_050",
+    "group_id": 85,
+    "group_name": "interfere, intervene, interrupt, disturb",
+    "level": "TEM-4",
+    "target_word": "interrupt",
+    "question": "Please do not ___ the speaker while he is presenting.",
+    "options": [
+      "interfere",
+      "intervene",
+      "interrupt",
+      "disturb"
+    ],
+    "answer": "interrupt",
+    "distractor_analysis": {
+      "interfere": "v. 干涉，妨碍。常指干涉或妨碍他人(的事)，着重指有影响；当“干涉”讲时，后多接 in，当“妨碍，打扰”时后多接 with。",
+      "intervene": "v. 干涉，干预，较为 正式，常指带有行动的干预；此外，还有 \"调停\" 的意思。",
+      "interrupt": "v. 打扰，打断，阻碍。常有\"使……停止(中断)\"的意思。",
+      "disturb": "v. 打扰，妨碍。常指失去了正常的状态或导致困难产生。"
+    },
+    "translation": "请不要在演讲者发言时打断他。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_85_3"
+  },
+  {
+    "id": "tem4_reg_051",
+    "group_id": 85,
+    "group_name": "interfere, intervene, interrupt, disturb",
+    "level": "TEM-4",
+    "target_word": "disturb",
+    "question": "Bad dreams ___ her sleep.",
+    "options": [
+      "interfere",
+      "intervene",
+      "interrupt",
+      "disturb"
+    ],
+    "answer": "disturb",
+    "distractor_analysis": {
+      "interfere": "v. 干涉，妨碍。常指干涉或妨碍他人(的事)，着重指有影响；当“干涉”讲时，后多接 in，当“妨碍，打扰”时后多接 with。",
+      "intervene": "v. 干涉，干预，较为 正式，常指带有行动的干预；此外，还有 \"调停\" 的意思。",
+      "interrupt": "v. 打扰，打断，阻碍。常有\"使……停止(中断)\"的意思。",
+      "disturb": "v. 打扰，妨碍。常指失去了正常的状态或导致困难产生。"
+    },
+    "translation": "噩梦妨碍她的睡眠。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_85_4"
+  },
+  {
+    "id": "tem4_reg_052",
+    "group_id": 88,
+    "group_name": "judicial, judicious",
+    "level": "TEM-4",
+    "target_word": "judicial",
+    "question": "The ___ system settles arguments between people.",
+    "options": [
+      "judicial",
+      "judicious"
+    ],
+    "answer": "judicial",
+    "distractor_analysis": {
+      "judicial": "a. 司法的，法律的，法庭的。",
+      "judicious": "a. 果断的，明智的，是个正式用语。"
+    },
+    "translation": "司法系统解决人与人之间 的争端。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_88_1"
+  },
+  {
+    "id": "tem4_reg_053",
+    "group_id": 88,
+    "group_name": "judicial, judicious",
+    "level": "TEM-4",
+    "target_word": "judicious",
+    "question": "He made a ___ decision to save money for his old age.",
+    "options": [
+      "judicial",
+      "judicious"
+    ],
+    "answer": "judicious",
+    "distractor_analysis": {
+      "judicial": "a. 司法的，法律的，法庭的。",
+      "judicious": "a. 果断的，明智的，是个正式用语。"
+    },
+    "translation": "他做了一个明智的决 定，要为他的晚年攒钱。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4_88_2"
+  },
+  {
+    "id": "tem4_reg_054",
+    "level": "TEM-4",
+    "group_name": "clothing, clothes, garment, costume, uniform, dress, suit, coat, overcoat",
+    "question": "For the historical play set in the 18th century, every actor was meticulously fitted with an authentic period ___.",
+    "options": [
+      "clothing",
+      "garment",
+      "costume",
+      "uniform"
+    ],
+    "answer": "costume",
+    "translation": "在这部以18世纪为背景的历史剧中，每位演员都精心穿上了正宗的那个时代的服装。",
+    "analysis": {
+      "clothing": "(fml) General term of clothes.",
+      "garment": "(fl) A suit of clothes used by actors./a single article of clothing.",
+      "costume": "1) The fashion of dress peculiar to a people, nation, class, period, etc. 2) A dress worn by actors in a play.",
+      "uniform": "worn by all members of the community."
+    },
+    "target_word": "costume",
+    "distractor_analysis": {
+      "clothing": "\"衣服，服装（总称）\" - 是衣服的不可数总称，泛指用来蔽体的衣物，不具备戏剧、历史时期的特定含义。",
+      "garment": "\"（一件）衣服\" - 比较正式的用词，指单件的衣服，通常不用于指代特定时期或场合的整套特色服装。",
+      "costume": "\"戏服，民族服装，时代服装\" - 特指戏剧、电影演员穿的服装，或特定历史时期、地区的典型服装。句中“历史剧”和“正宗的时代风格”决定了必须用此词。",
+      "uniform": "\"制服\" - 指军队、学校、公司等特定群体成员统一穿着的服装，不符合戏剧中反映特定时代的服装要求。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_5f8e2d"
+  },
+  {
+    "id": "tem4_reg_055",
+    "level": "TEM-4",
+    "group_name": "turn, spin, whirl, rotate, revolve",
+    "question": "It is a basic astronomical fact that the Earth takes approximately 365 days to ___ around the sun.",
+    "options": [
+      "spin",
+      "whirl",
+      "rotate",
+      "revolve"
+    ],
+    "answer": "revolve",
+    "translation": "地球绕太阳公转大约需要365天，这是一个基本的天文常识。",
+    "analysis": {
+      "spin": "To turn quickly around a central point. It emphasizes the continuity of the action, and usually the narrow extent of the circular motion. (自转)",
+      "whirl": "To round very fast. It implies the lock of conscious control. (急转)",
+      "rotate": "To turn round a fixed point with a circular movement. (转动)",
+      "revolve": "To turn or move in a circle around a central point. It indicates circular or elliptical (椭圆) movement. (绕转)"
+    },
+    "target_word": "revolve",
+    "distractor_analysis": {
+      "spin": "\"快速旋转，自转\" - 指物体绕着自己的中心轴快速旋转。地球绕太阳是公转而非自转。",
+      "whirl": "\"旋转，回旋\" - 指物体快速而猛烈地旋转，常带有混乱或眼花缭乱的意味，不适用于描述天体规律的运行。",
+      "rotate": "\"旋转，自转\" - 科学术语，主要指物体围绕其自身的轴心旋转（如地球自转一天需24小时）。",
+      "revolve": "\"旋转，公转\" - 科学术语，指一个物体围绕另一物体（中心点或轴）作轨道运行。句中指地球绕太阳运行，即公转，必须用此词。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_a3b6c9"
+  },
+  {
+    "id": "tem4_reg_056",
+    "level": "TEM-4",
+    "group_name": "anger, be cross, indignation, wrath, rage, fury",
+    "question": "The unjust policies and ruthless exploitation by the management aroused widespread ___ among the factory workers.",
+    "options": [
+      "cross",
+      "indignation",
+      "wrath",
+      "rage"
+    ],
+    "answer": "indignation",
+    "translation": "管理层不公正的政策和无情的剥削引起了工厂工人们的广泛愤慨。",
+    "analysis": {
+      "cross": "Feeling easy to get angry. (易怒)",
+      "indignation": "(fml) Anger. It stresses righteous anger at what one considers unfair, mean or shameful. (愤慨)",
+      "wrath": "Very treat anger. (literary) It suggests a desire on intent to revenge or punish. (愤怒)",
+      "rage": "Wild, violent anger. It suggests loss of self- control from violence of emotion. (狂怒)"
+    },
+    "target_word": "indignation",
+    "distractor_analysis": {
+      "cross": "\"生气的，恼怒的\" - 通常表示因为小事而产生的不耐烦或轻微的生气，不适合形容面对剥削的强烈情绪，且此处需要名词形式。",
+      "indignation": "\"愤慨，义愤\" - 特指由于不公正、卑鄙或残酷的行为而引起的强烈的愤怒或不平。句中明确指出是“不公正的政策和无情的剥削”引发的，用此词最准确。",
+      "wrath": "\"愤怒，狂怒\" - 较为正式或文学化的用词，常带有神明或权贵严厉惩罚的色彩，普通工人的愤怒较少用此词。",
+      "rage": "\"狂怒，暴怒\" - 指失去理智的、难以控制的激烈愤怒，往往伴随暴力行为，不如indignation能准确表达出于正义感的不平与愤慨。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_d8e2f5"
+  },
+  {
+    "id": "tem4_reg_057",
+    "level": "TEM-4",
+    "group_name": "assert, claim, allege, affirm",
+    "question": "The prosecutors ___ that the company has been hiding its profits to avoid paying taxes, but they have not presented any evidence yet.",
+    "options": [
+      "assert",
+      "claim",
+      "allege",
+      "affirm"
+    ],
+    "answer": "allege",
+    "translation": "检察官声称该公司一直在隐瞒利润以逃避纳税，但他们尚未提供任何证据。",
+    "analysis": {
+      "assert": "宣称，坚持，指不管事实如何，主观自信地宣称",
+      "claim": "声称，主张，往往表示说话者反对或不同意某一观点，或指根据某种规定提出的要求或主张",
+      "allege": "宣称，断定，指在无真实凭据情况下宣称",
+      "affirm": "侧重在作出断言时表现出的坚定与不可动摇的态度。"
+    },
+    "target_word": "allege",
+    "distractor_analysis": {
+      "assert": "（断言、坚称）强调主观上十分自信地肯定某事是事实，不管事实是否如此，侧重态度坚决。",
+      "claim": "（声称、主张）指要求承认某项权利或声称某事为真，通常可能面临他人的质疑或反驳。",
+      "allege": "（宣称、指控）特指在法庭上或正式场合中提出未经证实的指控或断言。完全符合语境中“检察官指控但尚未提供证据”的法律背景。",
+      "affirm": "（断言、证实）指坚定、庄严地确认某事属实，通常建立在有事实根据或深思熟虑的基础上。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_ch1_13"
+  },
+  {
+    "id": "tem4_reg_058",
+    "level": "TEM-4",
+    "group_name": "almost, nearly, about, approximately, roughly",
+    "question": "The official report stated that the construction project would cost ___ 50.2 million dollars, a figure calculated with negligible margin of error.",
+    "options": [
+      "almost",
+      "about",
+      "approximately",
+      "roughly"
+    ],
+    "answer": "approximately",
+    "translation": "官方报告指出，该建筑项目将耗资约5020万美元，该数字的计算精确度高，误差可忽略不计。",
+    "analysis": {
+      "almost": "指在程度上相差很小，差不多。",
+      "about": "常可分almost和nearly换用，实际数量可能多也可能少。",
+      "approximately": "多用于书面语，指精确度接近某个标准以致误差可忽略不计。",
+      "roughly": "指按精略估计，常代替about。"
+    },
+    "target_word": "approximately",
+    "distractor_analysis": {
+      "almost": "意为“几乎，差不多”，通常强调十分接近某个标准或状态，但还差一点，不常用于正式报告中精确的估计。",
+      "about": "意为“大约”，是日常交流中最常用的表示大致数量的词汇，语气较口语化，不够正式。",
+      "approximately": "意为“大约，近似”，语气正式，多用于科技、商业、官方报告中，强调经过严密计算但允许微小误差的接近值，最符合语境。",
+      "roughly": "意为“粗略地，大约”，强调没有经过精确计算、仅凭估计得出的数值，与句中“误差可忽略不计”的严密性相矛盾。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_210_d1e4c8"
+  },
+  {
+    "id": "tem4_reg_059",
+    "level": "TEM-4",
+    "group_name": "announce, declare, proclaim, pronounce, advertise, broadcast, publish",
+    "question": "At the conclusion of the lengthy and complex trial, the presiding judge struck his gavel and prepared to ___ the official judgment on the case.",
+    "options": [
+      "announce",
+      "declare",
+      "proclaim",
+      "pronounce"
+    ],
+    "answer": "pronounce",
+    "translation": "在漫长而复杂的审判结束时，主审法官敲下法槌，准备宣布该案的正式判决。",
+    "analysis": {
+      "announce": "多指首次宣布大家感兴趣或可满足大家好奇心的事情。",
+      "declare": "侧重正式就某事清楚明白地宣布。",
+      "proclaim": "指官方宣布重大事件或施政方针，语体较正式。",
+      "pronounce": "较多用于指法律判决方面的宣布。"
+    },
+    "target_word": "pronounce",
+    "distractor_analysis": {
+      "announce": "意为“宣布，宣告”，侧重于向公众预告或传达大家感兴趣的新闻或决定，一般是事实的通知。",
+      "declare": "意为“声明，宣告”，多指在正式场合清楚有力地公开表态，或用于宣战、宣布独立等。",
+      "proclaim": "意为“宣告，公布”，通常用于极其隆重、官方的场合（如宣布国家法令、节假日等），带有威严感。",
+      "pronounce": "意为“发音，宣判”，在法律语境中是专有词汇，指法官在法庭上依法下达“判决（judgment/sentence）”，完全契合句中的法庭和主审法官语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_213_a9f3b2"
+  },
+  {
+    "id": "tem4_reg_060",
+    "level": "TEM-4",
+    "group_name": "anxiety, worry, care, concern",
+    "question": "The sudden drop in quarterly profits and the rising turnover rate have begun to cause genuine ___ among the board members regarding the company's future stability.",
+    "options": [
+      "anxiety",
+      "worry",
+      "care",
+      "concern"
+    ],
+    "answer": "concern",
+    "translation": "季度利润的突然下降和离职率的上升，已经开始引起董事会成员对公司未来稳定性的真正关心与忧虑。",
+    "analysis": {
+      "anxiety": "指对预料中的不祥之事的焦虑。",
+      "worry": "侧重对未知事态演变的忧虑。",
+      "care": "强调因出于责任感或顾虑等而产生的不安。",
+      "concern": "侧重对他人健康、安全等的关心，也可暗示对困难、危险或失败等的忧虑。"
+    },
+    "target_word": "concern",
+    "distractor_analysis": {
+      "anxiety": "意为“焦虑，不安”，指由于面临危险或未卜的命运而产生的极度紧张、忧惧的心理状态，程度较重。",
+      "worry": "意为“担忧，发愁”，是日常用语，强调个人情感上的烦恼和忧虑，不如concern正式。",
+      "care": "意为“关心，照料”，作名词时多指责任、操心或生活中的关照，很少用于表示对公司前景的“忧虑”。",
+      "concern": "意为“关切，担忧”，是个正式用词，常用于指对与自身利益相关的重要事物（如公司稳定性等）所表现出的关注与忧虑（cause concern），最符合董事会语境。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_214_b5f7a2"
+  },
+  {
+    "id": "tem4_reg_061",
+    "level": "TEM-4",
+    "group_name": "abandon, desert, forsake, leave, give up",
+    "question": "Facing a severe court-martial, the soldier was charged with choosing to ___ his post during the midnight ambush out of sheer panic.",
+    "options": [
+      "abandon",
+      "desert",
+      "forsake",
+      "leave"
+    ],
+    "answer": "desert",
+    "translation": "面临严厉的军事法庭审判，这名士兵被指控在午夜伏击中因极度恐慌而选择擅离职守（违背誓言与责任）。",
+    "analysis": {
+      "abandon": "强调永远或完全放弃或抛弃人或事物等，可能是被迫的或自愿的。",
+      "desert": "着重指违背法律责任和义务，或自己的信仰与誓言的行为，多含非难的意味。",
+      "forsake": "侧重断绝感情上的依恋，自愿抛弃所喜欢的人或物。",
+      "leave": "普通用词，指舍弃某事或某一职业，或终止与某人的关系，但不涉及动机与结果。"
+    },
+    "target_word": "desert",
+    "distractor_analysis": {
+      "abandon": "意为“放弃，遗弃”，通常指因迫不得已而彻底放弃某物或某人，强调不再承担责任或提供支持。",
+      "desert": "意为“擅离，抛弃”，侧重于违背誓言、法律或道德责任而逃离，尤指军人“擅离职守（desert one's post）”，最符合句中“军事法庭（court-martial）”的语境。",
+      "forsake": "意为“抛弃，背弃”，文学色彩浓厚，主要指抛弃所爱的人、信仰或旧习惯，侧重情感或道德层面的决裂。",
+      "leave": "意为“离开，留下”，是最普通的用词，仅仅表示空间位置上的离开，没有体现出“违背职责”的严重性。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_216_d1e4c8"
+  },
+  {
+    "id": "tem4_reg_062",
+    "level": "TEM-4",
+    "group_name": "abolish, cancel, repeal",
+    "question": "The government decided to ___ the outdated tax law to stimulate economic growth.",
+    "options": [
+      "abolish",
+      "cancel",
+      "repeal",
+      "delete"
+    ],
+    "answer": "repeal",
+    "translation": "政府决定废除那项过时的税法，以刺激经济增长。",
+    "analysis": {
+      "repeal": "书面用词，指撤销立法机关通过的协议、法案或法律等",
+      "abolish": "正式用词，指彻底废除某种制度、规章或习俗。",
+      "cancel": "用法广泛，多指取消债务、合同、证书、比赛、旅行、计划或约会等。",
+      "delete": "删除（补充选项）"
+    },
+    "target_word": "repeal",
+    "distractor_analysis": {
+      "abolish": "意为“废除，废止”，通常指彻底废除长期存在的制度、风俗习惯或奴隶制等，范围较广。",
+      "cancel": "意为“取消，撤销”，多指取消已经安排好的活动、计划、会议或契约等。",
+      "repeal": "意为“废除，撤销（法令）”，是法律术语，特指由立法机关正式宣布撤销或废止某项法律（如tax law）、法规，用于此处最为准确。",
+      "delete": "意为“删除”，特指从文件、文本或计算机系统中删去文字或数据，不能用于“废除法律”。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_chunk3_02"
+  },
+  {
+    "id": "tem4_reg_063",
+    "level": "TEM-4",
+    "group_name": "address, greet, salute, hail, welcome",
+    "question": "The soldiers were instructed to ___ their commanding officer whenever he passed by.",
+    "options": [
+      "address",
+      "greet",
+      "salute",
+      "hail"
+    ],
+    "answer": "salute",
+    "translation": "士兵们被指示每当指挥官走过时都要向他敬礼致意。",
+    "analysis": {
+      "address": "侧重打招呼的方式或指所使用的称谓。",
+      "greet": "常指友好而热诚地欢迎。",
+      "salute": "正式用词，指用敬礼、亲吻或挥帽等动作向他人致意或问候，尤指以某种礼节欢迎某人。",
+      "hail": "主要指怀着敬意欢迎某人，侧重欢快轻松和嘈杂。也指隔得较远的高声招呼。",
+      "welcome": "多指热情的官方的或正式的迎接或欢迎，但也指一般的欢迎。"
+    },
+    "target_word": "salute",
+    "distractor_analysis": {
+      "address": "向…讲话、称呼，指用某种特定的称呼语与人交谈，侧重言语沟通，不指军事动作。",
+      "greet": "问候、迎接，指一般性的打招呼、欢迎（如握手、说你好），缺乏军事上下级间特有的规范性。",
+      "salute": "敬礼、致敬，专指军人之间或向国旗等举手致敬的正式动作，非常符合“士兵向指挥官致意”的特定军事语境。",
+      "hail": "欢呼、高呼（招呼）、赞扬，常指大声呼叫以引起注意（如hail a taxi）或热情赞颂，不表示军人的敬礼。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_chunk4_03"
+  },
+  {
+    "id": "tem4_reg_064",
+    "level": "TEM-4",
+    "group_name": "back, uphold, support, sustain, advocate",
+    "question": "Many environmentalists ___ the use of renewable energy sources to combat global climate change.",
+    "options": [
+      "uphold",
+      "sustain",
+      "advocate",
+      "back"
+    ],
+    "answer": "advocate",
+    "translation": "许多环保主义者提倡使用可再生能源来应对全球气候变化。",
+    "analysis": {
+      "back": "通常指对论点、行动、事业等的强有力支持。",
+      "uphold": "既可指积极努力对陷入困境者的支持，也可指给某人在行动、道义或信仰上的支持。",
+      "support": "含义广泛，多指在道义上或物质上支持某人，也可指对某项事业的支持。",
+      "sustain": "侧重指连续不断的支持。",
+      "advocate": "多指通过写文章或发表演说等来支持或拥护，往往暗示提倡某事或为某事辩护。"
+    },
+    "target_word": "advocate",
+    "distractor_analysis": {
+      "uphold": "维护、支持，指坚定地维护法律、原则、正义或决定（如uphold the law），不常用于支持推广某种新技术的应用。",
+      "sustain": "维持、支撑，指提供维持生命或存在的能量，或承受住困难，强调长时间的延续，不符合句意。",
+      "advocate": "提倡、主张，指公开支持、极力推荐某一种观点、做法或政策，非常符合环保主义者呼吁、推广使用可再生能源的语境。",
+      "back": "支持、后退，指在背后提供资金、道义上的支持（如back a candidate），语气较口语化，不如advocate在政策倡导上正式准确。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_chunk4_10"
+  },
+  {
+    "id": "tem4_reg_065",
+    "level": "TEM-4",
+    "group_name": "certainly, naturally, of course, surely",
+    "question": "Being raised in a bilingual household, she ___ speaks both English and French fluently.",
+    "options": [
+      "certainly",
+      "naturally",
+      "of course",
+      "surely"
+    ],
+    "answer": "naturally",
+    "translation": "由于在一个双语家庭长大，她自然而然地能流利地说英语和法语。",
+    "analysis": {
+      "certainly": "强调有把握，深信不疑。",
+      "naturally": "指自然而然，毫无造作或天生如此。",
+      "of course": "指毫无疑问，自然如此。可与certainly和naturally换用。",
+      "surely": "表一种必然的可能性，也可表示信心或不轻信。强调主观判断。"
+    },
+    "target_word": "naturally",
+    "distractor_analysis": {
+      "certainly": "必定，当然。强调说话人对事情的确定性或同意，但无法体现因果关系中的“自然而然”。",
+      "naturally": "自然地，理所当然地。强调某种结果是基于先天条件或客观背景自然衍生的。由于“在双语家庭长大”，“流利说两国语言”是顺理成章、符合常理的发展，填入此处最恰当。",
+      "of course": "当然。多用于交际口语中表示同意，或表示某事显而易见，不如naturally衔接因果紧密。",
+      "surely": "无疑，想必。多带有主观推测色彩，常用于期待对方认同，不符合陈述客观自然结果的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1e24d5g6"
+  },
+  {
+    "id": "tem4_reg_066",
+    "level": "TEM-4",
+    "group_name": "choose, select, elect, pick, prefer, opt",
+    "question": "The committee will ___ the most qualified candidate from a pool of hundreds of applicants.",
+    "options": [
+      "choose",
+      "select",
+      "elect",
+      "pick"
+    ],
+    "answer": "select",
+    "translation": "委员会将从数百名申请者中精选出最符合条件的候选人。",
+    "analysis": {
+      "choose": "普通用词，侧重根据个人意愿和判断从众多的对象中进行选择，着重被选者的优点。",
+      "select": "书面用词，具有庄严、正式的感情色彩。强调精选。",
+      "elect": "指按照一定的规章或法律，用投票等方式进行的认真慎重的选择。",
+      "pick": "口语用词，多指从个人角度仔细挑选，也含任意挑选之意。"
+    },
+    "target_word": "select",
+    "distractor_analysis": {
+      "choose": "选择。普通用语，指根据个人意愿进行挑选，但不强调挑选的严密性或淘汰率。",
+      "select": "挑选，精选。强调在广泛的范围内，经过认真筛选淘汰出最合适的人选。题干中“从数百名申请者中挑出最符合条件的”，正体现了严格选拔。",
+      "elect": "选举，推选。特指通过投票等正式民主程序选举出官员或代表，此处为委员会选拔，而非选举。",
+      "pick": "挑选，采摘。较为口语化，多指随意的挑选或凭个人喜好选择，不符合委员会选拔的正式语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_5i68h9k0"
+  },
+  {
+    "id": "tem4_reg_067",
+    "level": "TEM-4",
+    "group_name": "club, association, institute, league, union, society",
+    "question": "The research ___ is dedicated to finding a cure for the rare disease and has published several groundbreaking papers.",
+    "options": [
+      "club",
+      "association",
+      "institute",
+      "league"
+    ],
+    "answer": "institute",
+    "translation": "该研究所致力于寻找治疗这种罕见疾病的方法，并发表了几篇开创性的论文。",
+    "analysis": {
+      "club": "表俱乐部或会社，其成员因志同道合、爱好而组织到一起进行社交等活动。",
+      "association": "指较为正式的组织，强调兴趣和需要的一致性。",
+      "institute": "指为专门的目标而建立的学会或研究所。",
+      "league": "指为了共同的目的和利益而组成的社团、同盟或联合会。"
+    },
+    "target_word": "institute",
+    "distractor_analysis": {
+      "club": "俱乐部。指因共同兴趣、娱乐或社交目的自愿结合的团体，不用于科学研究机构。",
+      "association": "协会，联盟。为共同利益联合的组织，范围广，强调成员间的联络协作，非专门研究单位。",
+      "institute": "研究所，学院。特指从事教育、科学研究、技术研发等专业领域的正式专门机构，契合“致力于罕见病研究”的语境。",
+      "league": "联盟，同盟。多指为了共同利益结成的国家或团体联盟（如体育联赛），与医学研究不符。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_6j79i0l1"
+  },
+  {
+    "id": "tem4_reg_068",
+    "level": "TEM-4",
+    "group_name": "complete, finish, end, close, conclude, terminate, accomplish",
+    "question": "It took the brilliant scientist over a decade of relentless effort to ___ the groundbreaking research project.",
+    "options": [
+      "complete",
+      "end",
+      "conclude",
+      "accomplish"
+    ],
+    "answer": "accomplish",
+    "translation": "这位杰出的科学家花了十多年不懈的努力才完成这项开创性的研究项目。",
+    "analysis": {
+      "complete": "侧重指完成预定的任务或使某事完善，补足缺少的部分等。",
+      "end": "最普通用词，着重事情的完成。也指某种活动因达到目的而自然结束。",
+      "conclude": "正式用词，多指以某事或活动达到预期目的而告终。",
+      "accomplish": "正式用词，强调一个过程的完成；也可指依靠努力达到一定目的，或取得一定结果。"
+    },
+    "target_word": "accomplish",
+    "distractor_analysis": {
+      "complete": "完成，使完整。强调把缺失部分补齐或把事情做完，语气平淡，无法凸显十年努力的价值。",
+      "end": "结束。仅仅表示某事的终止，不论是否成功或达到目的。",
+      "conclude": "结束，得出结论。较正式，多指会议、条约等在正式程序后圆满结束。",
+      "accomplish": "完成，实现。强调经过长期的坚持不懈和巨大的努力，成功完成具有较高价值的任务。对应“十年不懈努力”和“开创性研究项目”，最能凸显成就。"
+    },
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_1o24n5q6"
+  },
+  {
+    "id": "tem4_reg_069",
+    "level": "TEM-4",
+    "group_name": "component, constituent, element, ingredient",
+    "question": "Trust and mutual respect are essential ___s of any successful and long-lasting marriage.",
+    "options": [
+      "component",
+      "constituent",
+      "element",
+      "ingredient"
+    ],
+    "answer": "element",
+    "translation": "信任和相互尊重是任何成功而持久的婚姻中必不可少的要素。",
+    "analysis": {
+      "component": "指一个整体的组成部分。",
+      "constituent": "常可与component换用，指某一整体不可少的部分或成分。",
+      "element": "指一个整体必不可少或固有的部分，强调一个复杂整体中最基本、最简单的元件、元素或成分等。",
+      "ingredient": "普通用词，含义笼统。既可指混在一起而本身没有变化的配料，又可指发生了变化的成分。"
+    },
+    "target_word": "element",
+    "distractor_analysis": {
+      "component": "组成部分，部件。通常指机械、设备或系统的具体实体部件，较少用于婚姻等抽象概念。",
+      "constituent": "成分，选民。强调构成整体不可或缺的一部分，常用于化学成分或政治区域，学术味较浓。",
+      "element": "要素，元素。广泛用于指代抽象事物的基本原则或核心部分。用来形容婚姻等抽象概念的“核心要素”，最符合题意。",
+      "ingredient": "原料，配料。本指烹饪配方成分，虽可比喻成功因素，但在谈论婚姻属性时element更为贴切。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。",
+    "legacy_id": "q_4r57q8t9"
+  }
+]

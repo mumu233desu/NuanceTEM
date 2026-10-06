@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
-import { initializeDatabase } from './db';
+import { loadQuestionsFromManifest } from './db/loader';
 import Dashboard from './views/Dashboard.vue';
 import QuizView from './views/QuizView.vue';
 import ReviewView from './views/ReviewView.vue';
@@ -45,29 +45,10 @@ const initApp = async () => {
   checkTheme();
   
   try {
-    // Check and seed/sync database for TEM-4 and TEM-8
-    console.log('Fetching questions databases (TEM-4 & TEM-8)...');
-    const [res4, res8] = await Promise.all([
-      fetch(`${import.meta.env.BASE_URL}data/questions_tem4.json`).catch(() => fetch(`${import.meta.env.BASE_URL}data/questions.json`)),
-      fetch(`${import.meta.env.BASE_URL}data/questions_tem8.json`).catch(() => null),
-    ]);
-
-    let allQuestions: any[] = [];
-    if (res4 && res4.ok) {
-      allQuestions = allQuestions.concat(await res4.json());
-    } else {
-      // Fallback
-      const fb = await fetch(`${import.meta.env.BASE_URL}data/questions.json`);
-      if (fb.ok) allQuestions = allQuestions.concat(await fb.json());
-    }
-    if (res8 && res8.ok) {
-      allQuestions = allQuestions.concat(await res8.json());
-    }
-
-    await initializeDatabase(allQuestions);
-    console.log(`Loaded ${allQuestions.length} questions into local IndexedDB.`);
+    console.log('Loading modular questions via Manifest packages...');
+    await loadQuestionsFromManifest();
   } catch (err) {
-    console.error('Failed to initialize local IndexedDB database:', err);
+    console.error('Failed to initialize local question database:', err);
   } finally {
     isDbInitializing.value = false;
     // 异步尝试同步云端

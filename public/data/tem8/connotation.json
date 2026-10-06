@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tem8_pro_001",
+    "group_id": 103,
+    "group_name": "disparage, denigrate, belittle, deprecate",
+    "level": "TEM-8",
+    "target_word": "deprecate",
+    "question": "Known for his modesty, the distinguished scholar had a charming habit to ___ his own groundbreaking contributions to modern linguistics.",
+    "options": [
+      "disparage",
+      "denigrate",
+      "belittle",
+      "deprecate"
+    ],
+    "answer": "deprecate",
+    "distractor_analysis": {
+      "deprecate": "v. 用于自谦语境时，表示“谦逊地贬抑自身价值”，与前文 modesty 形成严密语境呼应。",
+      "denigrate": "v. 恶意抹黑诽谤，不可能用于学者对自身谦逊的自述。",
+      "disparage": "v. 带有蔑视贬低色彩，语感偏向攻讦他人。",
+      "belittle": "v. 贬低轻视，语域不如 deprecate 高级和文雅。"
+    },
+    "translation": "这位著名的学者以谦逊著称，有着一种自我贬抑、谦虚看待自己在现代语言学开创性贡献的可爱习惯。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。",
+    "legacy_id": "tem8_3_2"
+  }
+]

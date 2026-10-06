@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, onMounted, computed, watch, onUnmounted } from 'vue';
-import { db, type Question, toggleMastered, createDefaultProgress } from '../db';
+import { db, type Question, toggleMastered, createDefaultProgress, TAXONOMY_FIELDS, TAXONOMY_MECHANISMS } from '../db';
 
 interface QuestionWithProgress extends Question {
   status: 'new' | 'learning' | 'mastered';
@@ -13,6 +13,8 @@ const list = ref<QuestionWithProgress[]>([]);
 const searchQuery = ref('');
 const statusFilter = ref<string>('all');
 const levelFilter = ref<string>('all');
+const mechanismFilter = ref<string>('all');
+const fieldFilter = ref<string>('all');
 const expandedQuestionId = ref<string | null>(null);
 
 const loadData = async () => {
@@ -53,13 +55,24 @@ const filteredList = computed(() => {
       return false;
     }
 
+    // Mechanism filter
+    if (mechanismFilter.value !== 'all' && item.mechanism !== mechanismFilter.value) {
+      return false;
+    }
+
+    // Field filter
+    if (fieldFilter.value !== 'all' && item.field !== fieldFilter.value) {
+      return false;
+    }
+
     // Search filter
     const query = searchQuery.value.toLowerCase().trim();
     const matchesSearch = 
       item.target_word.toLowerCase().includes(query) ||
       item.group_name.toLowerCase().includes(query) ||
       item.translation.toLowerCase().includes(query) ||
-      item.question.toLowerCase().includes(query);
+      item.question.toLowerCase().includes(query) ||
+      item.id.toLowerCase().includes(query);
 
     // Status filter
     if (statusFilter.value === 'all') return matchesSearch;
@@ -80,7 +93,7 @@ const displayedList = computed(() => {
   return filteredList.value.slice(0, displayedCount.value);
 });
 
-watch([searchQuery, statusFilter, levelFilter], () => {
+watch([searchQuery, statusFilter, levelFilter, mechanismFilter, fieldFilter], () => {
   displayedCount.value = PAGE_SIZE;
 });
 
@@ -135,6 +148,20 @@ onUnmounted(() => {
       </div>
 
       <div class="select-wrapper">
+        <select v-model="mechanismFilter" class="status-select">
+          <option value="all">所有考点机制</option>
+          <option v-for="(v, k) in TAXONOMY_MECHANISMS" :key="k" :value="k">{{ v.label }}</option>
+        </select>
+      </div>
+
+      <div class="select-wrapper">
+        <select v-model="fieldFilter" class="status-select">
+          <option value="all">所有功能场景</option>
+          <option v-for="(v, k) in TAXONOMY_FIELDS" :key="k" :value="k">{{ v.label }}</option>
+        </select>
+      </div>
+
+      <div class="select-wrapper">
         <select v-model="statusFilter" class="status-select">
           <option value="all">所有状态</option>
           <option value="new">未学习</option>
@@ -159,7 +186,13 @@ onUnmounted(() => {
         >
           <div class="item-header" @click="toggleExpand(item.id)">
             <div class="word-info">
+              <span class="id-tag">{{ item.id }}</span>
               <span class="badge" :class="item.level === 'TEM-8' ? 'badge-warning' : 'badge-primary'">{{ item.level }}</span>
+              <span v-if="item.mechanism && TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS]" 
+                    class="badge badge-mech"
+                    :style="{ borderColor: TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].color, color: TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].color }">
+                {{ TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].label }}
+              </span>
               <span class="target-word">{{ item.target_word }}</span>
               <span class="group-name">（同组：{{ item.group_name }}）</span>
             </div>
@@ -195,6 +228,15 @@ onUnmounted(() => {
                   <strong class="dict-word">{{ option }}</strong>: <span>{{ detail }}</span>
                 </div>
               </div>
+            </div>
+            <div class="info-row" v-if="item.taxonomy_notes">
+              <span class="label">考点辨析指引</span>
+              <p class="taxonomy-note">
+                <strong v-if="item.field && TAXONOMY_FIELDS[item.field as keyof typeof TAXONOMY_FIELDS]">
+                  [{{ TAXONOMY_FIELDS[item.field as keyof typeof TAXONOMY_FIELDS].label }}]
+                </strong>
+                {{ item.taxonomy_notes }}
+              </p>
             </div>
             <div class="info-row stats-row" v-if="item.status !== 'new'">
               <span class="label">记忆统计</span>
@@ -465,5 +507,37 @@ onUnmounted(() => {
 .sentinel {
   height: 20px;
   width: 100%;
+}
+
+.id-tag {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.15rem 0.4rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+}
+[data-theme="dark"] .id-tag {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.badge-mech {
+  background: transparent;
+  border: 1px solid currentColor;
+  font-size: 0.72rem;
+  padding: 0.12rem 0.45rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+}
+
+.taxonomy-note {
+  font-size: 0.9rem;
+  color: var(--primary);
+  background: rgba(99, 102, 241, 0.06);
+  padding: 0.6rem 0.85rem;
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--primary);
+  line-height: 1.45;
 }
 </style>

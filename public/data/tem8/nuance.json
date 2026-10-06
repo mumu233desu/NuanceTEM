@@ -1,0 +1,184 @@
+[
+  {
+    "id": "tem8_nua_001",
+    "group_id": 101,
+    "group_name": "alleviate, mitigate, palliate, soothe",
+    "level": "TEM-8",
+    "target_word": "palliate",
+    "question": "The economic reform was merely a temporary compromise intended to ___ the acute social discontent rather than solve the underlying crisis.",
+    "options": [
+      "alleviate",
+      "mitigate",
+      "palliate",
+      "soothe"
+    ],
+    "answer": "palliate",
+    "distractor_analysis": {
+      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协来暂时缓和尖锐矛盾或病痛（后文 rather than solve 形成绝对排他）。",
+      "alleviate": "v. 侧重减轻痛苦、负担或身体不适，通常是带来实质性的减负，而非治标不治本。",
+      "mitigate": "v. 常用于法律、风险、气候等领域，指“减轻危害程度/降低恶劣影响”（mitigate the impact/risk）。",
+      "soothe": "v. 侧重抚慰神经、平息焦虑或缓和肉体灼痛，偏向生理或感官的安抚。"
+    },
+    "translation": "这项经济改革只是一种权宜妥协，旨在姑息缓和尖锐的社会不满情绪，而不是解决根本危机。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_1_1"
+  },
+  {
+    "id": "tem8_nua_002",
+    "group_id": 102,
+    "group_name": "ephemeral, transient, fleeting, evanescent",
+    "level": "TEM-8",
+    "target_word": "evanescent",
+    "question": "In the chilly autumn dawn, the morning mist was as ___ as vapor, dissipating completely the moment the first rays of sunlight broke through.",
+    "options": [
+      "ephemeral",
+      "transient",
+      "fleeting",
+      "evanescent"
+    ],
+    "answer": "evanescent",
+    "distractor_analysis": {
+      "evanescent": "adj. 侧重像蒸汽、薄雾或光影一样“逐渐消散并淡化成虚无”（结合后文 as vapor and dissipating 是绝对信号词）。",
+      "ephemeral": "adj. 侧重指寿命极短（原意仅活一天的蜉蝣），常形容狂热、名气或流行文化只存在转瞬数日。",
+      "transient": "adj. 侧重指人员流动、暂住或事物短暂停留后离去（如 transient guests/workers）。",
+      "fleeting": "adj. 侧重速度飞快、一掠而过（如 a fleeting glimpse/smile/moment）。"
+    },
+    "translation": "在清冷的秋日黎明，晨雾如水汽般稍纵即逝，在第一缕阳光穿透的瞬间便彻底消散。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_2_1"
+  },
+  {
+    "id": "tem8_nua_003",
+    "group_id": 102,
+    "group_name": "ephemeral, transient, fleeting, evanescent",
+    "level": "TEM-8",
+    "target_word": "ephemeral",
+    "question": "In the fast-paced age of social media, internet viral fame is notoriously ___, often vanishing after only a few days in the spotlight.",
+    "options": [
+      "ephemeral",
+      "transient",
+      "fleeting",
+      "evanescent"
+    ],
+    "answer": "ephemeral",
+    "distractor_analysis": {
+      "ephemeral": "adj. 最常用于形容名利、潮流或热度的“生命周期极短”，如昙花一现（与后文 a few days 严密呼应）。",
+      "evanescent": "adj. 强调物理上的消散隐没（如晨雾、泡沫），不用于社会热点现象。",
+      "transient": "adj. 强调过境、流动性或驻留短暂。",
+      "fleeting": "adj. 强调时间流逝之快或瞥视的一瞬间。"
+    },
+    "translation": "在快节奏的社交媒体时代，网络爆红往往是众所周知的昙花一现，在聚光灯下不过停留寥寥数日便销声匿迹。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_2_2"
+  },
+  {
+    "id": "tem8_nua_004",
+    "group_id": 104,
+    "group_name": "vindicate, exonerate, acquit, absolve",
+    "level": "TEM-8",
+    "target_word": "vindicate",
+    "question": "Although his unorthodox economic theories were widely mocked a decade ago, recent market crashes have thoroughly ___ his predictions.",
+    "options": [
+      "vindicate",
+      "exonerate",
+      "acquit",
+      "absolve"
+    ],
+    "answer": "vindicate",
+    "distractor_analysis": {
+      "vindicate": "v. 侧重“事态发展证实了先前的理论/预测是正确的，为其正名”（vindicate predictions/claims/rights）。",
+      "acquit": "v. 法律宣告无罪，宾语不能是抽象理论或预测 predictions。",
+      "exonerate": "v. 侧重洗脱嫌疑或过错，不用于证实预测准确。",
+      "absolve": "v. 免除罪孽或法律责任，宾语必须为人或责任义务。"
+    },
+    "translation": "尽管十年前他非正统的经济学理论曾饱受嘲弄，但近期的一系列市场崩盘彻底证实了他的预测是正确的。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_4_2"
+  },
+  {
+    "id": "tem8_nua_005",
+    "group_id": 105,
+    "group_name": "equivocal, ambiguous, obscure, enigmatic",
+    "level": "TEM-8",
+    "target_word": "equivocal",
+    "question": "When questioned about his direct involvement in the financial scandal, the minister deliberately gave an ___ response to evade taking a firm stance.",
+    "options": [
+      "equivocal",
+      "ambiguous",
+      "obscure",
+      "enigmatic"
+    ],
+    "answer": "equivocal",
+    "distractor_analysis": {
+      "equivocal": "adj. 专指“主观上故意含糊其辞、模棱两可”（deliberately evasive），旨在推卸责任或避开正面回答（后文 deliberately 和 evade 为决定性线索）。",
+      "ambiguous": "adj. 侧重客观表达存在多种理解（可能是无意造成的歧义）。",
+      "obscure": "adj. 侧重信息晦涩艰深、难以理解，或者鲜为人知。",
+      "enigmatic": "adj. 侧重如同谜团一般神秘、令人捉摸不透（如 an enigmatic smile）。"
+    },
+    "translation": "当被问及他是否直接卷入这起金融丑闻时，部长故意给出了模棱两可的回答，以回避采取明确立场。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_5_1"
+  },
+  {
+    "id": "tem8_nua_006",
+    "group_id": 108,
+    "group_name": "ubiquitous, pervasive, omnipresent, widespread",
+    "level": "TEM-8",
+    "target_word": "pervasive",
+    "question": "The stench of industrial pollution was so ___ throughout the valley that residents could smell it even inside tightly sealed rooms.",
+    "options": [
+      "ubiquitous",
+      "pervasive",
+      "omnipresent",
+      "widespread"
+    ],
+    "answer": "pervasive",
+    "distractor_analysis": {
+      "pervasive": "adj. 侧重于气味、思想、氛围像气体一样“无孔不入、渗透弥漫”（pervasive stench/influence，后文 smell inside tightly sealed 强关联）。",
+      "ubiquitous": "adj. 侧重实体物品“随处可见”（如 smartphones are ubiquitous），不形容气味的渗透性。",
+      "omnipresent": "adj. 偏宗教或哲学意义上的“无所不在”（如 God is omnipresent）。",
+      "widespread": "adj. 侧重地理分布范围广阔（如 widespread damage/criticism）。"
+    },
+    "translation": "工业污染的恶臭在整个山谷中弥漫渗透，以至于居民即使在紧闭门窗的室内也能闻到。",
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_8_1"
+  },
+  {
+    "id": "tem8_nua_007",
+    "group_id": 109,
+    "group_name": "placate, appease, mollify, propitiate",
+    "level": "TEM-8",
+    "target_word": "propitiate",
+    "question": "In ancient times, the tribe would sacrifice their finest cattle on the sacred altar in an effort to ___ the wrath of the tempest gods.",
+    "options": [
+      "placate",
+      "appease",
+      "mollify",
+      "propitiate"
+    ],
+    "answer": "propitiate",
+    "distractor_analysis": {
+      "propitiate": "v. 专用于宗教、神话祭祀场景，指“通过供奉献祭来抚慰神明或超自然力量以求宽恕”（后文 sacrifice on altar to gods 为绝对线索）。",
+      "appease": "v. 政治外交领域的“绥靖、姑息侵略者”，通过割让原则换取暂时苟安。",
+      "placate": "v. 侧重安抚发怒的顾客、民众或抗议者（如 placate angry customers）。",
+      "mollify": "v. 侧重平息肉体伤痛或安抚个体受挫的激烈情绪。"
+    },
+    "translation": "在远古时代，部落会在神圣的祭坛上宰杀最好的牛只作为祭品，试图借此平息风暴之神的怒火。",
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "tem8_9_1"
+  }
+]

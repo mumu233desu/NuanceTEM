@@ -1,0 +1,4744 @@
+[
+  {
+    "id": "tem4_col_001",
+    "group_id": 1,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-4",
+    "target_word": "abide",
+    "question": "I will ___ by the director's decision.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "abide",
+    "distractor_analysis": {
+      "abide": "v. 后接 by，表示“遵守，同意”。",
+      "adhere": "v. 后接 to，表示“遵守”。也可表示“坚持，粘附”。",
+      "conform": "v. 后接 to，表示“遵守，符合”。",
+      "comply": "v. 后接 with，表示“遵守，服从”，常用于正式场合。"
+    },
+    "translation": "我将遵从主任的决定。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"by\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_1_1"
+  },
+  {
+    "id": "tem4_col_002",
+    "group_id": 1,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-4",
+    "target_word": "adhere",
+    "question": "Despite the difficulties, we decided to ___ to our original plan.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "adhere",
+    "distractor_analysis": {
+      "abide": "v. 后接 by，表示“遵守，同意”。",
+      "adhere": "v. 后接 to，表示“遵守”。也可表示“坚持，粘附”。",
+      "conform": "v. 后接 to，表示“遵守，符合”。",
+      "comply": "v. 后接 with，表示“遵守，服从”，常用于正式场合。"
+    },
+    "translation": "尽管困难重重，我们还是决定坚持原来的计划。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_1_2"
+  },
+  {
+    "id": "tem4_col_003",
+    "group_id": 1,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-4",
+    "target_word": "conform",
+    "question": "The new building was not allowed to open because it did not ___ to the local safety standards.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "conform",
+    "distractor_analysis": {
+      "abide": "v. 后接 by，表示“遵守，同意”。",
+      "adhere": "v. 后接 to，表示“遵守”。也可表示“坚持，粘附”。",
+      "conform": "v. 后接 to，表示“遵守，符合”。",
+      "comply": "v. 后接 with，表示“遵守，服从”，常用于正式场合。"
+    },
+    "translation": "这座新建筑未获准开放，因为它不符合当地的安全标准。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_1_3"
+  },
+  {
+    "id": "tem4_col_004",
+    "group_id": 1,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-4",
+    "target_word": "comply",
+    "question": "Our company must ___ with governmental regulations on paying taxes.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "comply",
+    "distractor_analysis": {
+      "abide": "v. 后接 by，表示“遵守，同意”。",
+      "adhere": "v. 后接 to，表示“遵守”。也可表示“坚持，粘附”。",
+      "conform": "v. 后接 to，表示“遵守，符合”。",
+      "comply": "v. 后接 with，表示“遵守，服从”，常用于正式场合。"
+    },
+    "translation": "我们公司必须遵守政府有关纳税的规定。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_1_4"
+  },
+  {
+    "id": "tem4_col_005",
+    "group_id": 2,
+    "group_name": "abnormal, uncommon, disordered",
+    "level": "TEM-4",
+    "target_word": "abnormal",
+    "question": "His body temperature has been ___ for three days, with the highest reaching 40.5 degrees centigrade.",
+    "options": [
+      "abnormal",
+      "uncommon",
+      "disordered"
+    ],
+    "answer": "abnormal",
+    "distractor_analysis": {
+      "abnormal": "a. 不正常的，反常的（但并非罕见），指行为或现象（如气候）的异常。",
+      "uncommon": "a. 罕见的，不平常的，指很少经历或很少见到的状况；也表示特别的、出色的。",
+      "disordered": "a. 混乱的，杂乱的；（精神或身体）有病的。"
+    },
+    "translation": "他的体温三天来一直都不正常，最高的时候达到40.5摄氏度。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_2_1"
+  },
+  {
+    "id": "tem4_col_006",
+    "group_id": 2,
+    "group_name": "abnormal, uncommon, disordered",
+    "level": "TEM-4",
+    "target_word": "uncommon",
+    "question": "Hurricanes are ___ in England; they rarely occur there.",
+    "options": [
+      "abnormal",
+      "uncommon",
+      "disordered"
+    ],
+    "answer": "uncommon",
+    "distractor_analysis": {
+      "abnormal": "a. 不正常的，反常的（但并非罕见），指行为或现象（如气候）的异常。",
+      "uncommon": "a. 罕见的，不平常的，指很少经历或很少见到的状况；也表示特别的、出色的。",
+      "disordered": "a. 混乱的，杂乱的；（精神或身体）有病的。"
+    },
+    "translation": "飓风在英国非常罕见；它们很少在那里发生。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_2_2"
+  },
+  {
+    "id": "tem4_col_007",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "dispose",
+    "question": "After your picnic, please ___ of the litter.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "dispose",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "野餐后请清除掉垃圾。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_3_4"
+  },
+  {
+    "id": "tem4_col_008",
+    "group_id": 4,
+    "group_name": "abstract, digest, outline, summary",
+    "level": "TEM-4",
+    "target_word": "abstract",
+    "question": "Before reading the full research paper, I usually read the ___ to get a quick overview of the study's methodology and findings.",
+    "options": [
+      "abstract",
+      "digest",
+      "outline",
+      "summary"
+    ],
+    "answer": "abstract",
+    "distractor_analysis": {
+      "abstract": "n. 概要，摘要，尤其指对学术论文或法律论据作的简述。",
+      "digest": "n. （篇幅较长的）摘要，文摘，是对原文的浓缩且仍保持原文的顺序、重点和风格。",
+      "outline": "n. 要点，大纲，概要，指列出想法的提纲。",
+      "summary": "n. 总结，摘要，指用寥寥数语概括文章或者讲话的要点，不考虑原文的风格。"
+    },
+    "translation": "在阅读完整的研究论文之前，我通常会先看摘要，以便快速了解该研究的方法和发现。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_4_1"
+  },
+  {
+    "id": "tem4_col_009",
+    "group_id": 4,
+    "group_name": "abstract, digest, outline, summary",
+    "level": "TEM-4",
+    "target_word": "digest",
+    "question": "This magazine is essentially a monthly ___ of articles gathered and condensed from various other publications.",
+    "options": [
+      "abstract",
+      "digest",
+      "outline",
+      "summary"
+    ],
+    "answer": "digest",
+    "distractor_analysis": {
+      "abstract": "n. 概要，摘要，尤其指对学术论文或法律论据作的简述。",
+      "digest": "n. （篇幅较长的）摘要，文摘，是对原文的浓缩且仍保持原文的顺序、重点和风格。",
+      "outline": "n. 要点，大纲，概要，指列出想法的提纲。",
+      "summary": "n. 总结，摘要，指用寥寥数语概括文章或者讲话的要点，不考虑原文的风格。"
+    },
+    "translation": "这本杂志本质上是一本月度文摘，收集并浓缩了其他各种出版物上的文章。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_4_2"
+  },
+  {
+    "id": "tem4_col_010",
+    "group_id": 4,
+    "group_name": "abstract, digest, outline, summary",
+    "level": "TEM-4",
+    "target_word": "outline",
+    "question": "She made a clear ___ of the ideas she wanted to present in her talk.",
+    "options": [
+      "abstract",
+      "digest",
+      "outline",
+      "summary"
+    ],
+    "answer": "outline",
+    "distractor_analysis": {
+      "abstract": "n. 概要，摘要，尤其指对学术论文或法律论据作的简述。",
+      "digest": "n. （篇幅较长的）摘要，文摘，是对原文的浓缩且仍保持原文的顺序、重点和风格。",
+      "outline": "n. 要点，大纲，概要，指列出想法的提纲。",
+      "summary": "n. 总结，摘要，指用寥寥数语概括文章或者讲话的要点，不考虑原文的风格。"
+    },
+    "translation": "她把自己要谈的想法列了一个清晰的提纲。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_4_3"
+  },
+  {
+    "id": "tem4_col_011",
+    "group_id": 4,
+    "group_name": "abstract, digest, outline, summary",
+    "level": "TEM-4",
+    "target_word": "summary",
+    "question": "Please write a brief ___ of the meeting in just a few sentences.",
+    "options": [
+      "abstract",
+      "digest",
+      "outline",
+      "summary"
+    ],
+    "answer": "summary",
+    "distractor_analysis": {
+      "abstract": "n. 概要，摘要，尤其指对学术论文或法律论据作的简述。",
+      "digest": "n. （篇幅较长的）摘要，文摘，是对原文的浓缩且仍保持原文的顺序、重点和风格。",
+      "outline": "n. 要点，大纲，概要，指列出想法的提纲。",
+      "summary": "n. 总结，摘要，指用寥寥数语概括文章或者讲话的要点，不考虑原文的风格。"
+    },
+    "translation": "请用寥寥数语写一份会议的简要总结。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_4_4"
+  },
+  {
+    "id": "tem4_col_012",
+    "group_id": 6,
+    "group_name": "abundant, plentiful",
+    "level": "TEM-4",
+    "target_word": "plentiful",
+    "question": "During the late summer harvest, fresh tomatoes are cheap and ___ in the local farmers' market.",
+    "options": [
+      "abundant",
+      "plentiful"
+    ],
+    "answer": "plentiful",
+    "distractor_analysis": {
+      "abundant": "a. （数量）充足的，常用于人、物产、资源、雨量等，含有“过多”之意。",
+      "plentiful": "a. 丰富的，充足的，常用于食物、收获、财产等，不能用于时间、空间、思想等方面。"
+    },
+    "translation": "在夏末收获的季节，当地农贸市场上的新鲜番茄物美价廉且供应充足。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_6_2"
+  },
+  {
+    "id": "tem4_col_013",
+    "group_id": 7,
+    "group_name": "access, assess",
+    "level": "TEM-4",
+    "target_word": "access",
+    "question": "The people living in these apartments have free ___ to that swimming pool.",
+    "options": [
+      "access",
+      "assess"
+    ],
+    "answer": "access",
+    "distractor_analysis": {
+      "access": "n. 接近，进入，常指有权或有机会使用、进入某处。",
+      "assess": "v. 评估（财产，价值），估算费用。"
+    },
+    "translation": "住在这些公寓里的人可以免费使用那个游泳池。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_7_1"
+  },
+  {
+    "id": "tem4_col_014",
+    "group_id": 9,
+    "group_name": "accomplishment, attainment, achievement",
+    "level": "TEM-4",
+    "target_word": "achievement",
+    "question": "The movie star celebrated his latest ___ in the film industry.",
+    "options": [
+      "accomplishment",
+      "attainment",
+      "achievement"
+    ],
+    "answer": "achievement",
+    "distractor_analysis": {
+      "accomplishment": "n. 成功，成就；才艺，修养，强调通过努力达到的技能或完成的事。",
+      "attainment": "n. 主要指学识和造诣（常用作复数）；达到，到达某目标。",
+      "achievement": "n. 指经过努力取得的显著“成就”或具体“成绩”，与 accomplishment 是同义词。"
+    },
+    "translation": "这位影星庆祝了他在电影界取得的最新成就。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_9_3"
+  },
+  {
+    "id": "tem4_col_015",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "convert",
+    "question": "The country decided to ___ to a decimal currency system.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "convert",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "这个国家决定改用十进制货币体系。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_13_5"
+  },
+  {
+    "id": "tem4_col_016",
+    "group_id": 13,
+    "group_name": "adjust, regulate, rectify, amend, convert, alter, modify, transform, vary",
+    "level": "TEM-4",
+    "target_word": "vary",
+    "question": "Air fares will ___ from one airline to another depending on the season.",
+    "options": [
+      "adjust",
+      "regulate",
+      "rectify",
+      "amend",
+      "convert",
+      "alter",
+      "modify",
+      "transform",
+      "vary"
+    ],
+    "answer": "vary",
+    "distractor_analysis": {
+      "adjust": "v. 一般指很小的改变或技术性的调整、修理，使之适应工作需要。",
+      "regulate": "v. 指根据规定或需要对某物进行调整或调节，使之准确运行；多含有“控制”之意。",
+      "rectify": "v. 纠正，校正错误、文章、合同等中的不正确之处。",
+      "amend": "v. （正式用语）指修改文件、法律、规范等，使其更加完善或合时宜。",
+      "convert": "v. 改变事物的形式或用途，还可以指改变信仰（尤其是宗教信仰）。",
+      "alter": "v. 使事物在外观、性质、用途等方面稍作改变，但不失去其本质。",
+      "modify": "v. 修改，改变，以使某物更趋完善，也可以指使态度、脾气、意见变得温和。",
+      "transform": "v. 指彻底、深远的改变，完全改变了外观或特性，使被改变的对象脱胎换骨。",
+      "vary": "v. 强调没有一定规则、陆续的变化或差异，或使多样化。"
+    },
+    "translation": "航空公司的机票价格会因季节不同而有所变化。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_13_9"
+  },
+  {
+    "id": "tem4_col_017",
+    "group_id": 15,
+    "group_name": "affiliate, link, attach, append",
+    "level": "TEM-4",
+    "target_word": "affiliate",
+    "question": "Our school wants to ___ with a famous university to improve its resources.",
+    "options": [
+      "affiliate",
+      "link",
+      "attach",
+      "append"
+    ],
+    "answer": "affiliate",
+    "distractor_analysis": {
+      "affiliate": "v. 加入，成为……的一部分，通常指机构之间的隶属或联合关系。",
+      "link": "v. 将人或物连接起来，建立联系。",
+      "attach": "v. 将某物系在、贴在、附在另一物上，强调连接关系。",
+      "append": "v. 增加，附加，通常指在文档、书信等末尾添加内容（与 attach 接近）。"
+    },
+    "translation": "我们学校希望加盟一所著名大学以改善其资源。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_15_1"
+  },
+  {
+    "id": "tem4_col_018",
+    "group_id": 18,
+    "group_name": "alert, cautious, considerate",
+    "level": "TEM-4",
+    "target_word": "alert",
+    "question": "The security guard must remain ___ to any suspicious activity.",
+    "options": [
+      "alert",
+      "cautious",
+      "considerate"
+    ],
+    "answer": "alert",
+    "distractor_analysis": {
+      "alert": "a. 警惕的，留神的，对周围危险或变化保持高度注意。",
+      "cautious": "a. 细心的，谨慎的，避免冒险或出错，态度小心。",
+      "considerate": "a. 关心他人的，体贴的，体谅他人的感受、需要或处境。"
+    },
+    "translation": "保安必须对任何可疑活动保持警惕。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_18_1"
+  },
+  {
+    "id": "tem4_col_019",
+    "group_id": 18,
+    "group_name": "alert, cautious, considerate",
+    "level": "TEM-4",
+    "target_word": "considerate",
+    "question": "He is always ___ of others, showing kindness and sympathy.",
+    "options": [
+      "alert",
+      "cautious",
+      "considerate"
+    ],
+    "answer": "considerate",
+    "distractor_analysis": {
+      "alert": "a. 警惕的，留神的，对周围危险或变化保持高度注意。",
+      "cautious": "a. 细心的，谨慎的，避免冒险或出错，态度小心。",
+      "considerate": "a. 关心他人的，体贴的，体谅他人的感受、需要或处境。"
+    },
+    "translation": "他总是很体谅他人，表现出友善与同情。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_18_3"
+  },
+  {
+    "id": "tem4_col_020",
+    "group_id": 20,
+    "group_name": "alleviate, diminish, reduce, decrease, decline",
+    "level": "TEM-4",
+    "target_word": "alleviate",
+    "question": "The doctor gave him some medicine to ___ the pain.",
+    "options": [
+      "alleviate",
+      "diminish",
+      "reduce",
+      "decrease",
+      "decline"
+    ],
+    "answer": "alleviate",
+    "distractor_analysis": {
+      "alleviate": "v. 减轻，缓和，特指减轻痛苦、困难、压力或紧张状态。",
+      "diminish": "v. 指因为不断消耗，在数量方面缓慢减少，也指在素质或价值上的下降。",
+      "reduce": "v. 指人为地使某物在数量、重量、价格或规模方面减少或降低。",
+      "decrease": "v. 指数量上的减少，或者力量、强度的减弱，常作不及物动词表示逐渐减少。",
+      "decline": "v. （数目、价格、比率）下降；谢绝，婉言推辞；衰退，衰落。"
+    },
+    "translation": "医生给他开了一些药以减轻疼痛。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_1_20_1"
+  },
+  {
+    "id": "tem4_col_021",
+    "group_id": 20,
+    "group_name": "alleviate, diminish, reduce, decrease, decline",
+    "level": "TEM-4",
+    "target_word": "diminish",
+    "question": "I don't want to ___ his achievements, but he did have a significant amount of financial help from his parents.",
+    "options": [
+      "alleviate",
+      "diminish",
+      "reduce",
+      "decrease",
+      "decline"
+    ],
+    "answer": "diminish",
+    "distractor_analysis": {
+      "alleviate": "v. 减轻，缓和，特指减轻痛苦、困难、压力或紧张状态。",
+      "diminish": "v. 指因为不断消耗，在数量方面缓慢减少，也指在素质或价值上的下降。",
+      "reduce": "v. 指人为地使某物在数量、重量、价格或规模方面减少或降低。",
+      "decrease": "v. 指数量上的减少，或者力量、强度的减弱，常作不及物动词表示逐渐减少。",
+      "decline": "v. （数目、价格、比率）下降；谢绝，婉言推辞；衰退，衰落。"
+    },
+    "translation": "我不想贬低他的成就，但他的父母确实在经济上给了他很大帮助。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_1_20_2"
+  },
+  {
+    "id": "tem4_col_022",
+    "group_id": 20,
+    "group_name": "alleviate, diminish, reduce, decrease, decline",
+    "level": "TEM-4",
+    "target_word": "reduce",
+    "question": "We must find a way to ___ our daily expenses.",
+    "options": [
+      "alleviate",
+      "diminish",
+      "reduce",
+      "decrease",
+      "decline"
+    ],
+    "answer": "reduce",
+    "distractor_analysis": {
+      "alleviate": "v. 减轻，缓和，特指减轻痛苦、困难、压力或紧张状态。",
+      "diminish": "v. 指因为不断消耗，在数量方面缓慢减少，也指在素质或价值上的下降。",
+      "reduce": "v. 指人为地使某物在数量、重量、价格或规模方面减少或降低。",
+      "decrease": "v. 指数量上的减少，或者力量、强度的减弱，常作不及物动词表示逐渐减少。",
+      "decline": "v. （数目、价格、比率）下降；谢绝，婉言推辞；衰退，衰落。"
+    },
+    "translation": "我们必须想办法减少日常开销。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_1_20_3"
+  },
+  {
+    "id": "tem4_col_023",
+    "group_id": 20,
+    "group_name": "alleviate, diminish, reduce, decrease, decline",
+    "level": "TEM-4",
+    "target_word": "decrease",
+    "question": "In this mathematical model, as the value of X increases, the value of Y will proportionally ___.",
+    "options": [
+      "alleviate",
+      "diminish",
+      "reduce",
+      "decrease",
+      "decline"
+    ],
+    "answer": "decrease",
+    "distractor_analysis": {
+      "alleviate": "v. 减轻，缓和，特指减轻痛苦、困难、压力或紧张状态。",
+      "diminish": "v. 指因为不断消耗，在数量方面缓慢减少，也指在素质或价值上的下降。",
+      "reduce": "v. 指人为地使某物在数量、重量、价格或规模方面减少或降低。",
+      "decrease": "v. 指数量上的减少，或者力量、强度的减弱，常作不及物动词表示逐渐减少。",
+      "decline": "v. （数目、价格、比率）下降；谢绝，婉言推辞；衰退，衰落。"
+    },
+    "translation": "在这个数学模型中，随着X值的增加，Y值将成比例地减小。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_1_20_4"
+  },
+  {
+    "id": "tem4_col_024",
+    "group_id": 20,
+    "group_name": "alleviate, diminish, reduce, decrease, decline",
+    "level": "TEM-4",
+    "target_word": "decline",
+    "question": "She had to politely ___ the job offer because the salary was much lower than she expected.",
+    "options": [
+      "alleviate",
+      "diminish",
+      "reduce",
+      "decrease",
+      "decline"
+    ],
+    "answer": "decline",
+    "distractor_analysis": {
+      "alleviate": "v. 减轻，缓和，特指减轻痛苦、困难、压力或紧张状态。",
+      "diminish": "v. 指因为不断消耗，在数量方面缓慢减少，也指在素质或价值上的下降。",
+      "reduce": "v. 指人为地使某物在数量、重量、价格或规模方面减少或降低。",
+      "decrease": "v. 指数量上的减少，或者力量、强度的减弱，常作不及物动词表示逐渐减少。",
+      "decline": "v. （数目、价格、比率）下降；谢绝，婉言推辞；衰退，衰落。"
+    },
+    "translation": "因为薪水远低于她的预期，她不得不礼貌地婉拒这份工作邀请。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_1_20_5"
+  },
+  {
+    "id": "tem4_col_025",
+    "group_id": 21,
+    "group_name": "allocate, separate, detach, divide",
+    "level": "TEM-4",
+    "target_word": "divide",
+    "question": "The huge corporation decided to ___ into smaller companies.",
+    "options": [
+      "allocate",
+      "separate",
+      "detach",
+      "divide"
+    ],
+    "answer": "divide",
+    "distractor_analysis": {
+      "allocate": "v. 分配，把……拨给（资金、资源等）以供特定用途。",
+      "separate": "v. 人为地分开，使隔离，使脱离联系或分离。",
+      "detach": "v. 拆开组合的物体；或指远离、疏远。",
+      "divide": "v. 指将整体划分为若干个部分、份额或区域。"
+    },
+    "translation": "这家特大公司决定分成较小的公司。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"into\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_21_4"
+  },
+  {
+    "id": "tem4_col_026",
+    "group_id": 24,
+    "group_name": "anger, fury, indignation, resentment",
+    "level": "TEM-4",
+    "target_word": "indignation",
+    "question": "There was general ___ at the sudden steep rise in bus fares.",
+    "options": [
+      "anger",
+      "fury",
+      "indignation",
+      "resentment"
+    ],
+    "answer": "indignation",
+    "distractor_analysis": {
+      "anger": "n. 气愤，生气，是一般常用语。",
+      "fury": "n. 暴怒，大怒，程度较 anger 更强，表示极度的愤怒。",
+      "indignation": "n. 义愤，尤其指对不公正、卑劣行径等出于道义上的激愤。",
+      "resentment": "n. 愤恨，怨恨，不满，是正式用语，尤指由于受侮辱、委屈或自尊心受伤后而产生的愤慨。"
+    },
+    "translation": "公共汽车票价突然猛增激起了公愤。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_24_3"
+  },
+  {
+    "id": "tem4_col_027",
+    "group_id": 25,
+    "group_name": "apparent, evident, manifest, obvious, distinct",
+    "level": "TEM-4",
+    "target_word": "manifest",
+    "question": "The workers' dissatisfaction became ___ in a series of widespread strikes.",
+    "options": [
+      "apparent",
+      "evident",
+      "manifest",
+      "obvious",
+      "distinct"
+    ],
+    "answer": "manifest",
+    "distractor_analysis": {
+      "apparent": "a. 明显的，显而易见的，尤其指容易观察到或认识到的外部情况。",
+      "evident": "a. 明白的，明显的，与 apparent 基本同义，多用于推理或由事实证明的事物。",
+      "manifest": "a. 清楚的，明显的，多指根据外部特征、迹象便能看出其存在或意义，常作表语。",
+      "obvious": "a. 明显的，显而易见的，含有无可辩白、不需要证明之意，最为常用。",
+      "distinct": "a. 清楚的，明显的；不同的，独特的，修饰性质或界限明显不同的东西。"
+    },
+    "translation": "工人们的不满在接连发生的大规模罢工中显现出来。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_25_3"
+  },
+  {
+    "id": "tem4_col_028",
+    "group_id": 25,
+    "group_name": "apparent, evident, manifest, obvious, distinct",
+    "level": "TEM-4",
+    "target_word": "obvious",
+    "question": "She stated the ___ by pointing out that we were completely lost.",
+    "options": [
+      "apparent",
+      "evident",
+      "manifest",
+      "obvious",
+      "distinct"
+    ],
+    "answer": "obvious",
+    "distractor_analysis": {
+      "apparent": "a. 明显的，显而易见的，尤其指容易观察到或认识到的外部情况。",
+      "evident": "a. 明白的，明显的，与 apparent 基本同义，多用于推理或由事实证明的事物。",
+      "manifest": "a. 清楚的，明显的，多指根据外部特征、迹象便能看出其存在或意义，常作表语。",
+      "obvious": "a. 明显的，显而易见的，含有无可辩白、不需要证明之意，最为常用。",
+      "distinct": "a. 清楚的，明显的；不同的，独特的，修饰性质或界限明显不同的东西。"
+    },
+    "translation": "她指出了我们已经完全迷路这个显而易见的事实。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"by\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1_25_4"
+  },
+  {
+    "id": "tem4_col_029",
+    "group_id": 26,
+    "group_name": "applaud, clap, commend, praise",
+    "level": "TEM-4",
+    "target_word": "clap",
+    "question": "We should ___ for the performers after their wonderful show.",
+    "options": [
+      "applaud",
+      "clap",
+      "commend",
+      "praise"
+    ],
+    "answer": "clap",
+    "distractor_analysis": {
+      "applaud": "鼓掌，赞扬，指因精湛表演或某种行为得到别人的赞许，大声叫好或热烈鼓掌。",
+      "clap": "拍打，常用用法是 clap one's hand=applaud，不能说 applaud one's hands；clap sb.为某人鼓掌，clap sth.拍打某物。",
+      "commend": "正式用词，用于对具体功绩或成就表示嘉奖，通常指上级对下级、长辈对晚辈的赞赏。",
+      "praise": "一般用词，用于对某人的优秀品质表示钦佩羡慕；赞颂，赞美。"
+    },
+    "translation": "在演员们精彩的表演之后，我们应该为他们鼓掌。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_26_2"
+  },
+  {
+    "id": "tem4_col_030",
+    "group_id": 27,
+    "group_name": "area, district, region, vicinity, zone",
+    "level": "TEM-4",
+    "target_word": "district",
+    "question": "Xicheng is a busy ___ in Beijing.",
+    "options": [
+      "area",
+      "district",
+      "region",
+      "vicinity",
+      "zone"
+    ],
+    "answer": "district",
+    "distractor_analysis": {
+      "area": "泛指面积较大的地区；面积；专业领域。",
+      "district": "行政区划的小范围地区。",
+      "region": "行政区划上更大的地区，如“自治区”；身体部位。",
+      "vicinity": "周围地区，附近地区。",
+      "zone": "指特定的地方、地带。"
+    },
+    "translation": "西城区是北京一个繁忙的行政区。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_27_2"
+  },
+  {
+    "id": "tem4_col_031",
+    "group_id": 27,
+    "group_name": "area, district, region, vicinity, zone",
+    "level": "TEM-4",
+    "target_word": "region",
+    "question": "The northeast ___ of the USA includes New York and the six New England states.",
+    "options": [
+      "area",
+      "district",
+      "region",
+      "vicinity",
+      "zone"
+    ],
+    "answer": "region",
+    "distractor_analysis": {
+      "area": "泛指面积较大的地区；面积；专业领域。",
+      "district": "行政区划的小范围地区。",
+      "region": "行政区划上更大的地区，如“自治区”；身体部位。",
+      "vicinity": "周围地区，附近地区。",
+      "zone": "指特定的地方、地带。"
+    },
+    "translation": "美国东北部地区包括纽约和新英格兰地区的那六个州。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_27_3"
+  },
+  {
+    "id": "tem4_col_032",
+    "group_id": 27,
+    "group_name": "area, district, region, vicinity, zone",
+    "level": "TEM-4",
+    "target_word": "vicinity",
+    "question": "There is no hospital in the immediate ___ of the accident.",
+    "options": [
+      "area",
+      "district",
+      "region",
+      "vicinity",
+      "zone"
+    ],
+    "answer": "vicinity",
+    "distractor_analysis": {
+      "area": "泛指面积较大的地区；面积；专业领域。",
+      "district": "行政区划的小范围地区。",
+      "region": "行政区划上更大的地区，如“自治区”；身体部位。",
+      "vicinity": "周围地区，附近地区。",
+      "zone": "指特定的地方、地带。"
+    },
+    "translation": "事故发生地附近没有医院。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_27_4"
+  },
+  {
+    "id": "tem4_col_033",
+    "group_id": 27,
+    "group_name": "area, district, region, vicinity, zone",
+    "level": "TEM-4",
+    "target_word": "zone",
+    "question": "The city passed a law to create a business ___ on some empty land.",
+    "options": [
+      "area",
+      "district",
+      "region",
+      "vicinity",
+      "zone"
+    ],
+    "answer": "zone",
+    "distractor_analysis": {
+      "area": "泛指面积较大的地区；面积；专业领域。",
+      "district": "行政区划的小范围地区。",
+      "region": "行政区划上更大的地区，如“自治区”；身体部位。",
+      "vicinity": "周围地区，附近地区。",
+      "zone": "指特定的地方、地带。"
+    },
+    "translation": "市政府通过法律，在一些空地上开辟商业区。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_27_5"
+  },
+  {
+    "id": "tem4_col_034",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "assembly",
+    "question": "The ___ of students takes place in the auditorium.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "assembly",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "学生们在大礼堂举行集会。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_1"
+  },
+  {
+    "id": "tem4_col_035",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "conference",
+    "question": "The ___ on international economic problems met in Geneva.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "conference",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "关于世界经济问题的会议在日内瓦召开。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_2"
+  },
+  {
+    "id": "tem4_col_036",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "rally",
+    "question": "The football coach called a ___ to build up the team's excitement for the next game.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "rally",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "足球教练召开了一个动员会，以便鼓舞士气打好下次比赛。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_4"
+  },
+  {
+    "id": "tem4_col_037",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "seminar",
+    "question": "During summer vacation, the teacher will attend a ___ at college.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "seminar",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "暑假里，这位教师将在学院里参加一个研究班。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_5"
+  },
+  {
+    "id": "tem4_col_038",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "session",
+    "question": "The autumn ___ of Parliament will begin next month.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "session",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "议会的秋季会议将于下个月开始。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_6"
+  },
+  {
+    "id": "tem4_col_039",
+    "group_id": 28,
+    "group_name": "assembly, conference, congress, rally, seminar, session, summit, symposium",
+    "level": "TEM-4",
+    "target_word": "symposium",
+    "question": "The ___ on SARS research lasted two days.",
+    "options": [
+      "assembly",
+      "conference",
+      "congress",
+      "rally",
+      "seminar",
+      "session",
+      "summit",
+      "symposium"
+    ],
+    "answer": "symposium",
+    "distractor_analysis": {
+      "assembly": "集合，集会。",
+      "conference": "(专门性的)会议，讨论会。",
+      "congress": "代表大会，(美国的)国会。",
+      "rally": "(鼓舞士气的)集会；群众性集会。",
+      "seminar": "(大学的)研究班，研讨会。",
+      "session": "(一届)会议，回合。",
+      "summit": "最高级会议，峰会(通常为领导人参加)。",
+      "symposium": "(学术、科研方面的)座谈会，专题报告会。"
+    },
+    "translation": "非典型性肺炎研究的研讨会持续了两天。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_28_8"
+  },
+  {
+    "id": "tem4_col_040",
+    "group_id": 29,
+    "group_name": "assessment, estimate, evaluation",
+    "level": "TEM-4",
+    "target_word": "assessment",
+    "question": "We have a low ___ on our property.",
+    "options": [
+      "assessment",
+      "estimate",
+      "evaluation"
+    ],
+    "answer": "assessment",
+    "distractor_analysis": {
+      "assessment": "评估，估价，常常表示对于财产、价值的评估。",
+      "estimate": "估计，强调进行评估得出的结果，常与动词 give 搭配。",
+      "evaluation": "(对于能力，价值、工作业绩的)评价，估价，常带有肯定的、正确的含义。"
+    },
+    "translation": "我们对我们的资产评估很低。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_29_1"
+  },
+  {
+    "id": "tem4_col_041",
+    "group_id": 29,
+    "group_name": "assessment, estimate, evaluation",
+    "level": "TEM-4",
+    "target_word": "estimate",
+    "question": "The mechanic gave me a rough ___ of two or three hundred dollars for the repairs to my car.",
+    "options": [
+      "assessment",
+      "estimate",
+      "evaluation"
+    ],
+    "answer": "estimate",
+    "distractor_analysis": {
+      "assessment": "评估，估价，常常表示对于财产、价值的评估。",
+      "estimate": "估计，强调进行评估得出的结果，常与动词 give 搭配。",
+      "evaluation": "(对于能力，价值、工作业绩的)评价，估价，常带有肯定的、正确的含义。"
+    },
+    "translation": "机械师给我的汽车修理费的粗略估计是200或300美元。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_29_2"
+  },
+  {
+    "id": "tem4_col_042",
+    "group_id": 29,
+    "group_name": "assessment, estimate, evaluation",
+    "level": "TEM-4",
+    "target_word": "evaluation",
+    "question": "The company conducts a performance ___ for each employee at the end of the year.",
+    "options": [
+      "assessment",
+      "estimate",
+      "evaluation"
+    ],
+    "answer": "evaluation",
+    "distractor_analysis": {
+      "assessment": "评估，估价，常常表示对于财产、价值的评估。",
+      "estimate": "估计，强调进行评估得出的结果，常与动词 give 搭配。",
+      "evaluation": "(对于能力，价值、工作业绩的)评价，估价，常带有肯定的、正确的含义。"
+    },
+    "translation": "公司在年底对每位员工进行绩效评估。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_29_3"
+  },
+  {
+    "id": "tem4_col_043",
+    "group_id": 30,
+    "group_name": "associate, ally, combine, unite",
+    "level": "TEM-4",
+    "target_word": "associate",
+    "question": "We often ___ with our neighbors at church.",
+    "options": [
+      "associate",
+      "ally",
+      "combine",
+      "unite"
+    ],
+    "answer": "associate",
+    "distractor_analysis": {
+      "associate": "交往，结交；联系，联想。多指平等友好的合作，后接 with / in。",
+      "ally": "使结盟，使联姻，多与 with 搭配。",
+      "combine": "联合，化合，混合，多指为了某个目的将不同的人或物混合而成一个整体。",
+      "unite": "联合，合并，团结，尤指不同的事物或人组成统一体，强调结果的一致性。"
+    },
+    "translation": "在教堂里，我们常同邻居交往。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_30_1"
+  },
+  {
+    "id": "tem4_col_044",
+    "group_id": 30,
+    "group_name": "associate, ally, combine, unite",
+    "level": "TEM-4",
+    "target_word": "ally",
+    "question": "During the war, Britain had to ___ itself with the United States.",
+    "options": [
+      "associate",
+      "ally",
+      "combine",
+      "unite"
+    ],
+    "answer": "ally",
+    "distractor_analysis": {
+      "associate": "交往，结交；联系，联想。多指平等友好的合作，后接 with / in。",
+      "ally": "使结盟，使联姻，多与 with 搭配。",
+      "combine": "联合，化合，混合，多指为了某个目的将不同的人或物混合而成一个整体。",
+      "unite": "联合，合并，团结，尤指不同的事物或人组成统一体，强调结果的一致性。"
+    },
+    "translation": "战争期间，英国不得不与美国结盟。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_30_2"
+  },
+  {
+    "id": "tem4_col_045",
+    "group_id": 30,
+    "group_name": "associate, ally, combine, unite",
+    "level": "TEM-4",
+    "target_word": "combine",
+    "question": "The girl wants to ___ sugar, butter, and flour to make the dough.",
+    "options": [
+      "associate",
+      "ally",
+      "combine",
+      "unite"
+    ],
+    "answer": "combine",
+    "distractor_analysis": {
+      "associate": "交往，结交；联系，联想。多指平等友好的合作，后接 with / in。",
+      "ally": "使结盟，使联姻，多与 with 搭配。",
+      "combine": "联合，化合，混合，多指为了某个目的将不同的人或物混合而成一个整体。",
+      "unite": "联合，合并，团结，尤指不同的事物或人组成统一体，强调结果的一致性。"
+    },
+    "translation": "小姑娘想把糖、黄油和面粉混合到一起做成面团。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_30_3"
+  },
+  {
+    "id": "tem4_col_046",
+    "group_id": 30,
+    "group_name": "associate, ally, combine, unite",
+    "level": "TEM-4",
+    "target_word": "unite",
+    "question": "The nation decided to ___ against its enemy.",
+    "options": [
+      "associate",
+      "ally",
+      "combine",
+      "unite"
+    ],
+    "answer": "unite",
+    "distractor_analysis": {
+      "associate": "交往，结交；联系，联想。多指平等友好的合作，后接 with / in。",
+      "ally": "使结盟，使联姻，多与 with 搭配。",
+      "combine": "联合，化合，混合，多指为了某个目的将不同的人或物混合而成一个整体。",
+      "unite": "联合，合并，团结，尤指不同的事物或人组成统一体，强调结果的一致性。"
+    },
+    "translation": "国民团结一致共同对敌。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"against\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_30_4"
+  },
+  {
+    "id": "tem4_col_047",
+    "group_id": 33,
+    "group_name": "aware, conscious",
+    "level": "TEM-4",
+    "target_word": "aware",
+    "question": "Are you ___ of the fact that your car is blocking the driveway?",
+    "options": [
+      "aware",
+      "conscious"
+    ],
+    "answer": "aware",
+    "distractor_analysis": {
+      "aware": "知道的，意识到的，强调感官对外界事物的意识。",
+      "conscious": "有意识的，意识到的，一般指内心所意识到的。"
+    },
+    "translation": "你意识到你的车挡住车道了吗？",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_33_1"
+  },
+  {
+    "id": "tem4_col_048",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "base",
+    "question": "They use their apartment in New York as a home ___ from which they travel frequently.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "base",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "他们把纽约的公寓作为他们频繁出行的大本营。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_34_1"
+  },
+  {
+    "id": "tem4_col_049",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "foundation",
+    "question": "The ___ for our house is made of cement.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "foundation",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "我们房子的地基是水泥打下的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_34_2"
+  },
+  {
+    "id": "tem4_col_050",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "beam",
+    "question": "She began to ___ with happiness when she heard the news.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "beam",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "听到这个消息，她高兴得眉开眼笑。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_35_1"
+  },
+  {
+    "id": "tem4_col_051",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "grin",
+    "question": "The naughty boy didn't say anything, but just continued to ___ at us.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "grin",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "那个淘气的男孩什么也没说，只是一直冲着我们咧嘴笑。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_35_4"
+  },
+  {
+    "id": "tem4_col_052",
+    "group_id": 35,
+    "group_name": "beam, chuckle, giggle, grin, jeer, laugh, roar, sneer",
+    "level": "TEM-4",
+    "target_word": "sneer",
+    "question": "Some critics tend to ___ at romantic comedies, but audiences still love them.",
+    "options": [
+      "beam",
+      "chuckle",
+      "giggle",
+      "grin",
+      "jeer",
+      "laugh",
+      "roar",
+      "sneer"
+    ],
+    "answer": "sneer",
+    "distractor_analysis": {
+      "beam": "本义指照耀，放光，引申为“微笑”，是正式用语，指面带喜悦或笑容，暗示对他人的友好或内心的满足。",
+      "chuckle": "(书面语)吃吃的笑， 抿嘴笑， 轻声笑， 多指因得意或领会到某事中的趣味而暗自发笑。",
+      "giggle": "咯咯地笑，痴笑，傻笑，多指女人和孩子由于紧张、被逗乐、尴尬时所发出的笑声。",
+      "grin": "露齿而笑，指人因高兴、满足、轻蔑等咧开嘴露齿地笑。",
+      "jeer": "讥笑，嘲笑，其同义词是 mock。",
+      "laugh": "笑，大笑，用于一般的笑或出声的大笑。",
+      "roar": "怒吼，咆哮，引申为放声大笑，哄堂大笑。",
+      "sneer": "冷笑，嘲笑，指以语言、表情、和声调表示轻蔑或嘲弄。"
+    },
+    "translation": "一些评论家往往对浪漫喜剧嗤之以鼻，但观众依然喜欢它们。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_35_8"
+  },
+  {
+    "id": "tem4_col_053",
+    "group_id": 38,
+    "group_name": "blunder, error, mistake",
+    "level": "TEM-4",
+    "target_word": "blunder",
+    "question": "I think that I committed a ___ in asking her that question.",
+    "options": [
+      "blunder",
+      "error",
+      "mistake"
+    ],
+    "answer": "blunder",
+    "distractor_analysis": {
+      "blunder": "(因为无知、疏忽犯下的)大错，愚蠢的错误。",
+      "error": "指判断、计算或行为上的错误，也可指智力或道义上的错误。",
+      "mistake": "误会，误解；(粗心、遗忘所导致的)错误。"
+    },
+    "translation": "我觉得问她那个问题是犯了一个大错。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_38_1"
+  },
+  {
+    "id": "tem4_col_054",
+    "group_id": 40,
+    "group_name": "boundary, border, frontier, rim, verge",
+    "level": "TEM-4",
+    "target_word": "border",
+    "question": "We crossed the Mexican ___ into the USA.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "rim",
+      "verge"
+    ],
+    "answer": "border",
+    "distractor_analysis": {
+      "boundary": "边界；界线。多指作为界线的标识物等。",
+      "border": "较宽的边缘，边界， 多指两国或两地之间的分界处附近的边缘地区、 边界地带；也可以指物体的边缘等。",
+      "frontier": "边界，边境，边疆，指靠近边界(boundary)的区域；也可引申为“前沿”，“未开发的领域”等。",
+      "rim": "边，边缘，尤指圆形或近似圆形的物体的边缘。",
+      "verge": "(道路、花坛等长着草的)边缘，引申为“某事即将发生之际”。"
+    },
+    "translation": "我们穿过墨西哥边界进入美国境内。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"into\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_40_2"
+  },
+  {
+    "id": "tem4_col_055",
+    "group_id": 40,
+    "group_name": "boundary, border, frontier, rim, verge",
+    "level": "TEM-4",
+    "target_word": "frontier",
+    "question": "She is a biochemist who works on the ___ of biology.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "rim",
+      "verge"
+    ],
+    "answer": "frontier",
+    "distractor_analysis": {
+      "boundary": "边界；界线。多指作为界线的标识物等。",
+      "border": "较宽的边缘，边界， 多指两国或两地之间的分界处附近的边缘地区、 边界地带；也可以指物体的边缘等。",
+      "frontier": "边界，边境，边疆，指靠近边界(boundary)的区域；也可引申为“前沿”，“未开发的领域”等。",
+      "rim": "边，边缘，尤指圆形或近似圆形的物体的边缘。",
+      "verge": "(道路、花坛等长着草的)边缘，引申为“某事即将发生之际”。"
+    },
+    "translation": "她是从事生物学前沿研究的生化学家。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_40_3"
+  },
+  {
+    "id": "tem4_col_056",
+    "group_id": 40,
+    "group_name": "boundary, border, frontier, rim, verge",
+    "level": "TEM-4",
+    "target_word": "verge",
+    "question": "The two nations are on the ___ of war.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "rim",
+      "verge"
+    ],
+    "answer": "verge",
+    "distractor_analysis": {
+      "boundary": "边界；界线。多指作为界线的标识物等。",
+      "border": "较宽的边缘，边界， 多指两国或两地之间的分界处附近的边缘地区、 边界地带；也可以指物体的边缘等。",
+      "frontier": "边界，边境，边疆，指靠近边界(boundary)的区域；也可引申为“前沿”，“未开发的领域”等。",
+      "rim": "边，边缘，尤指圆形或近似圆形的物体的边缘。",
+      "verge": "(道路、花坛等长着草的)边缘，引申为“某事即将发生之际”。"
+    },
+    "translation": "这两个国家处于战争爆发的边缘。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_40_5"
+  },
+  {
+    "id": "tem4_col_057",
+    "group_id": 42,
+    "group_name": "bush, shrub, jungle",
+    "level": "TEM-4",
+    "target_word": "shrub",
+    "question": "The gardener bought a rare flowering ___ from the nursery for the landscaping project.",
+    "options": [
+      "bush",
+      "shrub",
+      "jungle"
+    ],
+    "answer": "shrub",
+    "distractor_analysis": {
+      "bush": "矮树丛。",
+      "shrub": "有木茎的灌木，灌木丛。",
+      "jungle": "热带稠密的雨林或丛林。"
+    },
+    "translation": "园丁从苗圃买了一株罕见的开花灌木用于景观工程。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_42_2"
+  },
+  {
+    "id": "tem4_col_058",
+    "group_id": 43,
+    "group_name": "certify, rectify, testify, verify",
+    "level": "TEM-4",
+    "target_word": "testify",
+    "question": "He is the only person who can ___ in this case.",
+    "options": [
+      "certify",
+      "rectify",
+      "testify",
+      "verify"
+    ],
+    "answer": "testify",
+    "distractor_analysis": {
+      "certify": "证明，声称是真的。",
+      "rectify": "改正，纠正；整顿。",
+      "testify": "(在法庭上)宣誓作证；表明。",
+      "verify": "(用事实)证实或核实。"
+    },
+    "translation": "他是本案中唯一可以作证的人。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_43_3"
+  },
+  {
+    "id": "tem4_col_059",
+    "group_id": 45,
+    "group_name": "complaint, disorder",
+    "level": "TEM-4",
+    "target_word": "complaint",
+    "question": "He has been suffering from a heart ___ for years.",
+    "options": [
+      "complaint",
+      "disorder"
+    ],
+    "answer": "complaint",
+    "distractor_analysis": {
+      "complaint": "疾病(主要指病人去看病时向医生描述的病症，既可以是小病、慢性病，也可以是传染性疾病)；抱怨，埋怨，不满。",
+      "disorder": "( 精神或肉体的)疾病(着重于身心、机能的失调、不平衡)；骚乱，动乱；混乱，杂乱。"
+    },
+    "translation": "他多年来一直患有心脏病。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_45_1"
+  },
+  {
+    "id": "tem4_col_060",
+    "group_id": 45,
+    "group_name": "complaint, disorder",
+    "level": "TEM-4",
+    "target_word": "disorder",
+    "question": "A poor diet can lead to a ___ of the digestive system.",
+    "options": [
+      "complaint",
+      "disorder"
+    ],
+    "answer": "disorder",
+    "distractor_analysis": {
+      "complaint": "疾病(主要指病人去看病时向医生描述的病症，既可以是小病、慢性病，也可以是传染性疾病)；抱怨，埋怨，不满。",
+      "disorder": "( 精神或肉体的)疾病(着重于身心、机能的失调、不平衡)；骚乱，动乱；混乱，杂乱。"
+    },
+    "translation": "糟糕的饮食会导致消化系统疾病。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_45_2"
+  },
+  {
+    "id": "tem4_col_061",
+    "group_id": 46,
+    "group_name": "complement, supplement, append",
+    "level": "TEM-4",
+    "target_word": "complement",
+    "question": "Rice makes an excellent ___ to a curry dish.",
+    "options": [
+      "complement",
+      "supplement",
+      "append"
+    ],
+    "answer": "complement",
+    "distractor_analysis": {
+      "complement": "补充，补充物，主要指补充不足使之完美。",
+      "supplement": "增补，补充，补贴，主要指另外补加，增补。",
+      "append": "附加，添上或补充某事物(尤指文字)。"
+    },
+    "translation": "有咖喱的菜配米饭最棒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_46_1"
+  },
+  {
+    "id": "tem4_col_062",
+    "group_id": 46,
+    "group_name": "complement, supplement, append",
+    "level": "TEM-4",
+    "target_word": "supplement",
+    "question": "We had to add a ___ to cover new events in the report.",
+    "options": [
+      "complement",
+      "supplement",
+      "append"
+    ],
+    "answer": "supplement",
+    "distractor_analysis": {
+      "complement": "补充，补充物，主要指补充不足使之完美。",
+      "supplement": "增补，补充，补贴，主要指另外补加，增补。",
+      "append": "附加，添上或补充某事物(尤指文字)。"
+    },
+    "translation": "我们必须在报告中增加一个补充部分以包含新事件。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_46_2"
+  },
+  {
+    "id": "tem4_col_063",
+    "group_id": 47,
+    "group_name": "component, element, factor, ingredient",
+    "level": "TEM-4",
+    "target_word": "component",
+    "question": "Tires are a key ___ of a car.",
+    "options": [
+      "component",
+      "element",
+      "factor",
+      "ingredient"
+    ],
+    "answer": "component",
+    "distractor_analysis": {
+      "component": "零部件；(某事物的)组成部分；成分。",
+      "element": "元素；组成部分，方面；某特定类型的人或群体，分子。",
+      "factor": "因素，要素，侧重指原因。",
+      "ingredient": "原料，成分，要素。"
+    },
+    "translation": "轮胎是汽车的一个关键零部件。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_47_1"
+  },
+  {
+    "id": "tem4_col_064",
+    "group_id": 47,
+    "group_name": "component, element, factor, ingredient",
+    "level": "TEM-4",
+    "target_word": "factor",
+    "question": "Endurance is an important ___ in success in sports.",
+    "options": [
+      "component",
+      "element",
+      "factor",
+      "ingredient"
+    ],
+    "answer": "factor",
+    "distractor_analysis": {
+      "component": "零部件；(某事物的)组成部分；成分。",
+      "element": "元素；组成部分，方面；某特定类型的人或群体，分子。",
+      "factor": "因素，要素，侧重指原因。",
+      "ingredient": "原料，成分，要素。"
+    },
+    "translation": "耐力是体育比赛成功的一个重要因素。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_47_3"
+  },
+  {
+    "id": "tem4_col_065",
+    "group_id": 47,
+    "group_name": "component, element, factor, ingredient",
+    "level": "TEM-4",
+    "target_word": "ingredient",
+    "question": "Flour is a necessary ___ in making bread.",
+    "options": [
+      "component",
+      "element",
+      "factor",
+      "ingredient"
+    ],
+    "answer": "ingredient",
+    "distractor_analysis": {
+      "component": "零部件；(某事物的)组成部分；成分。",
+      "element": "元素；组成部分，方面；某特定类型的人或群体，分子。",
+      "factor": "因素，要素，侧重指原因。",
+      "ingredient": "原料，成分，要素。"
+    },
+    "translation": "面粉是做面包的一种必要原料。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_47_4"
+  },
+  {
+    "id": "tem4_col_066",
+    "group_id": 48,
+    "group_name": "comprise, compose, consist, constitute, include",
+    "level": "TEM-4",
+    "target_word": "comprise",
+    "question": "The British Parliament ___ the House of Commons and the House of Lords.",
+    "options": [
+      "comprise",
+      "compose",
+      "consist",
+      "constitute",
+      "include"
+    ],
+    "answer": "comprise",
+    "distractor_analysis": {
+      "comprise": "包含，包括，由……组成(整体)；组成，构成。",
+      "compose": "构成(整体)，组成；由……组成(后接 of，常用于被动语态)；创作(作曲、诗歌等)。",
+      "consist": "组成，构成,由……组成(后接 of，常用于主动语态)；(后接 in)在于，存在于。",
+      "constitute": "构成，组成(整体)。",
+      "include": "包括，包含，把……列入。"
+    },
+    "translation": "英国议会由下议院和上议院组成。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_48_1"
+  },
+  {
+    "id": "tem4_col_067",
+    "group_id": 48,
+    "group_name": "comprise, compose, consist, constitute, include",
+    "level": "TEM-4",
+    "target_word": "compose",
+    "question": "Beethoven continued to ___ beautiful music even after he became completely deaf.",
+    "options": [
+      "comprise",
+      "compose",
+      "consist",
+      "constitute",
+      "include"
+    ],
+    "answer": "compose",
+    "distractor_analysis": {
+      "comprise": "包含，包括，由……组成(整体)；组成，构成。",
+      "compose": "构成(整体)，组成；由……组成(后接 of，常用于被动语态)；创作(作曲、诗歌等)。",
+      "consist": "组成，构成,由……组成(后接 of，常用于主动语态)；(后接 in)在于，存在于。",
+      "constitute": "构成，组成(整体)。",
+      "include": "包括，包含，把……列入。"
+    },
+    "translation": "贝多芬即使在完全失聪后，仍继续创作优美的音乐。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_48_2"
+  },
+  {
+    "id": "tem4_col_068",
+    "group_id": 48,
+    "group_name": "comprise, compose, consist, constitute, include",
+    "level": "TEM-4",
+    "target_word": "consist",
+    "question": "The problem will ___ of two main parts.",
+    "options": [
+      "comprise",
+      "compose",
+      "consist",
+      "constitute",
+      "include"
+    ],
+    "answer": "consist",
+    "distractor_analysis": {
+      "comprise": "包含，包括，由……组成(整体)；组成，构成。",
+      "compose": "构成(整体)，组成；由……组成(后接 of，常用于被动语态)；创作(作曲、诗歌等)。",
+      "consist": "组成，构成,由……组成(后接 of，常用于主动语态)；(后接 in)在于，存在于。",
+      "constitute": "构成，组成(整体)。",
+      "include": "包括，包含，把……列入。"
+    },
+    "translation": "这个问题将由两个主要部分组成。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_48_3"
+  },
+  {
+    "id": "tem4_col_069",
+    "group_id": 48,
+    "group_name": "comprise, compose, consist, constitute, include",
+    "level": "TEM-4",
+    "target_word": "constitute",
+    "question": "The presence of elevated radiation levels will ___ a serious threat to public health.",
+    "options": [
+      "comprise",
+      "compose",
+      "consist",
+      "constitute",
+      "include"
+    ],
+    "answer": "constitute",
+    "distractor_analysis": {
+      "comprise": "包含，包括，由……组成(整体)；组成，构成。",
+      "compose": "构成(整体)，组成；由……组成(后接 of，常用于被动语态)；创作(作曲、诗歌等)。",
+      "consist": "组成，构成,由……组成(后接 of，常用于主动语态)；(后接 in)在于，存在于。",
+      "constitute": "构成，组成(整体)。",
+      "include": "包括，包含，把……列入。"
+    },
+    "translation": "辐射水平升高的现象将对公共健康构成严重威胁。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_48_4"
+  },
+  {
+    "id": "tem4_col_070",
+    "group_id": 48,
+    "group_name": "comprise, compose, consist, constitute, include",
+    "level": "TEM-4",
+    "target_word": "include",
+    "question": "The final price is fifty dollars, which does not ___ the cost of shipping.",
+    "options": [
+      "comprise",
+      "compose",
+      "consist",
+      "constitute",
+      "include"
+    ],
+    "answer": "include",
+    "distractor_analysis": {
+      "comprise": "包含，包括，由……组成(整体)；组成，构成。",
+      "compose": "构成(整体)，组成；由……组成(后接 of，常用于被动语态)；创作(作曲、诗歌等)。",
+      "consist": "组成，构成,由……组成(后接 of，常用于主动语态)；(后接 in)在于，存在于。",
+      "constitute": "构成，组成(整体)。",
+      "include": "包括，包含，把……列入。"
+    },
+    "translation": "最终价格为五十美元，不包括运费。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_48_5"
+  },
+  {
+    "id": "tem4_col_071",
+    "group_id": 49,
+    "group_name": "concentrate, focus",
+    "level": "TEM-4",
+    "target_word": "concentrate",
+    "question": "The recipe requires you to boil the sauce for ten minutes to ___ the flavor.",
+    "options": [
+      "concentrate",
+      "focus"
+    ],
+    "answer": "concentrate",
+    "distractor_analysis": {
+      "concentrate": "集中， 集中精力(后接 on， 宾语可以是具体或抽象的东西)； 浓缩，压缩。",
+      "focus": "集中(于某事物)；将(注意力等)集中于……(后接 on，宾语一般不是具体的东西)。"
+    },
+    "translation": "这个食谱要求你把酱汁煮十分钟，以使其味道更浓郁。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_49_1"
+  },
+  {
+    "id": "tem4_col_072",
+    "group_id": 49,
+    "group_name": "concentrate, focus",
+    "level": "TEM-4",
+    "target_word": "focus",
+    "question": "The camera lens failed to ___ properly, resulting in a blurry photograph.",
+    "options": [
+      "concentrate",
+      "focus"
+    ],
+    "answer": "focus",
+    "distractor_analysis": {
+      "concentrate": "集中， 集中精力(后接 on， 宾语可以是具体或抽象的东西)； 浓缩，压缩。",
+      "focus": "集中(于某事物)；将(注意力等)集中于……(后接 on，宾语一般不是具体的东西)。"
+    },
+    "translation": "相机镜头未能正确对焦，导致照片模糊。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2_49_2"
+  },
+  {
+    "id": "tem4_col_073",
+    "group_id": 50,
+    "group_name": "confinement, limitation, restraint",
+    "level": "TEM-4",
+    "target_word": "limitation",
+    "question": "That employee has a clear ___ on what work he can do.",
+    "options": [
+      "confinement",
+      "limitation",
+      "restraint"
+    ],
+    "answer": "limitation",
+    "distractor_analysis": {
+      "confinement": "限制，囚禁(于某地或某种境地)。",
+      "limitation": "限制，局限；(能力的)缺点，弱点。",
+      "restraint": "克制，抑制；约束措施。"
+    },
+    "translation": "那个雇员能做的工作有明显的局限。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_2_50_2"
+  },
+  {
+    "id": "tem4_col_074",
+    "group_id": 51,
+    "group_name": "considerable, considerate",
+    "level": "TEM-4",
+    "target_word": "considerate",
+    "question": "He is always ___ of others; he is kind and sympathetic.",
+    "options": [
+      "considerable",
+      "considerate"
+    ],
+    "answer": "considerate",
+    "distractor_analysis": {
+      "considerable": "相当大的，相当多的；值得考虑的",
+      "considerate": "考虑周到的，体贴的，后面常跟 of 结构"
+    },
+    "translation": "他总是很体谅别人，他很慈善并且富有同情心。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_51_2"
+  },
+  {
+    "id": "tem4_col_075",
+    "group_id": 54,
+    "group_name": "convert, invert, revert, transform",
+    "level": "TEM-4",
+    "target_word": "convert",
+    "question": "He wants to ___ to Catholicism.",
+    "options": [
+      "convert",
+      "invert",
+      "revert",
+      "transform"
+    ],
+    "answer": "convert",
+    "distractor_analysis": {
+      "convert": "转变，变换，含有“使某人改变观点”的意思",
+      "invert": "使颠倒，使倒转，使反向，常表示位置、顺序、方向等的颠倒",
+      "revert": "归还，恢复原状，指回到原来的状态或情形",
+      "transform": "改变，转变，指形状、颜色、大小、性质等的改变"
+    },
+    "translation": "他要皈依天主教。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_54_1"
+  },
+  {
+    "id": "tem4_col_076",
+    "group_id": 54,
+    "group_name": "convert, invert, revert, transform",
+    "level": "TEM-4",
+    "target_word": "revert",
+    "question": "If you do not save the changes, the document will automatically ___ to its previous version.",
+    "options": [
+      "convert",
+      "invert",
+      "revert",
+      "transform"
+    ],
+    "answer": "revert",
+    "distractor_analysis": {
+      "convert": "转变，变换，含有“使某人改变观点”的意思",
+      "invert": "使颠倒，使倒转，使反向，常表示位置、顺序、方向等的颠倒",
+      "revert": "归还，恢复原状，指回到原来的状态或情形",
+      "transform": "改变，转变，指形状、颜色、大小、性质等的改变"
+    },
+    "translation": "如果你不保存更改，文档将自动恢复到之前的版本。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_54_3"
+  },
+  {
+    "id": "tem4_col_077",
+    "group_id": 56,
+    "group_name": "decline, refuse, reject, deny",
+    "level": "TEM-4",
+    "target_word": "decline",
+    "question": "Unfortunately, I must politely ___ your invitation to the dinner party due to a prior engagement.",
+    "options": [
+      "decline",
+      "refuse",
+      "reject",
+      "deny"
+    ],
+    "answer": "decline",
+    "distractor_analysis": {
+      "decline": "婉言拒绝，谢绝，主要用于拒绝社交活动的邀请或帮助请求",
+      "refuse": "比较普通的用词，表示“拒绝”，含有非常坚决地、不客气地拒绝的意思",
+      "reject": "抛弃，不采纳，主语可以是人或物，后接名词，不能接不定式",
+      "deny": "否认，否定，其后可接名词、代词或 that 从句"
+    },
+    "translation": "很遗憾，由于事先有约，我必须婉拒您的晚宴邀请。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_56_1"
+  },
+  {
+    "id": "tem4_col_078",
+    "group_id": 56,
+    "group_name": "decline, refuse, reject, deny",
+    "level": "TEM-4",
+    "target_word": "refuse",
+    "question": "Despite all the evidence against him, I absolutely ___ to believe that he is a thief.",
+    "options": [
+      "decline",
+      "refuse",
+      "reject",
+      "deny"
+    ],
+    "answer": "refuse",
+    "distractor_analysis": {
+      "decline": "婉言拒绝，谢绝，主要用于拒绝社交活动的邀请或帮助请求",
+      "refuse": "比较普通的用词，表示“拒绝”，含有非常坚决地、不客气地拒绝的意思",
+      "reject": "抛弃，不采纳，主语可以是人或物，后接名词，不能接不定式",
+      "deny": "否认，否定，其后可接名词、代词或 that 从句"
+    },
+    "translation": "尽管有所有对他不利的证据，我绝对拒绝相信他是个小偷。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_56_2"
+  },
+  {
+    "id": "tem4_col_079",
+    "group_id": 56,
+    "group_name": "decline, refuse, reject, deny",
+    "level": "TEM-4",
+    "target_word": "reject",
+    "question": "The university will automatically ___ any application that is submitted after the official deadline.",
+    "options": [
+      "decline",
+      "refuse",
+      "reject",
+      "deny"
+    ],
+    "answer": "reject",
+    "distractor_analysis": {
+      "decline": "婉言拒绝，谢绝，主要用于拒绝社交活动的邀请或帮助请求",
+      "refuse": "比较普通的用词，表示“拒绝”，含有非常坚决地、不客气地拒绝的意思",
+      "reject": "抛弃，不采纳，主语可以是人或物，后接名词，不能接不定式",
+      "deny": "否认，否定，其后可接名词、代词或 that 从句"
+    },
+    "translation": "大学将自动拒绝任何在官方截止日期之后提交的申请。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_56_3"
+  },
+  {
+    "id": "tem4_col_080",
+    "group_id": 56,
+    "group_name": "decline, refuse, reject, deny",
+    "level": "TEM-4",
+    "target_word": "deny",
+    "question": "The company issued a statement to officially ___ the rumors of an upcoming bankruptcy.",
+    "options": [
+      "decline",
+      "refuse",
+      "reject",
+      "deny"
+    ],
+    "answer": "deny",
+    "distractor_analysis": {
+      "decline": "婉言拒绝，谢绝，主要用于拒绝社交活动的邀请或帮助请求",
+      "refuse": "比较普通的用词，表示“拒绝”，含有非常坚决地、不客气地拒绝的意思",
+      "reject": "抛弃，不采纳，主语可以是人或物，后接名词，不能接不定式",
+      "deny": "否认，否定，其后可接名词、代词或 that 从句"
+    },
+    "translation": "公司发表声明，正式否认了即将破产的传闻。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_56_4"
+  },
+  {
+    "id": "tem4_col_081",
+    "group_id": 60,
+    "group_name": "disappear, vanish, fade",
+    "level": "TEM-4",
+    "target_word": "disappear",
+    "question": "As the sun came up, we watched the morning fog slowly ___ from the valley.",
+    "options": [
+      "disappear",
+      "vanish",
+      "fade"
+    ],
+    "answer": "disappear",
+    "distractor_analysis": {
+      "disappear": "消失，不见；灭绝，不复存在，是一般用语",
+      "vanish": "消失，不见，指突然间化为乌有，强调非常彻底地、神秘莫测地消失",
+      "fade": "指衣服的颜色褪色，声音的逐渐消失"
+    },
+    "translation": "太阳升起时，我们看着晨雾从山谷中慢慢消失。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_60_1"
+  },
+  {
+    "id": "tem4_col_082",
+    "group_id": 60,
+    "group_name": "disappear, vanish, fade",
+    "level": "TEM-4",
+    "target_word": "vanish",
+    "question": "The magician waved his wand, and made the rabbit suddenly ___ into thin air.",
+    "options": [
+      "disappear",
+      "vanish",
+      "fade"
+    ],
+    "answer": "vanish",
+    "distractor_analysis": {
+      "disappear": "消失，不见；灭绝，不复存在，是一般用语",
+      "vanish": "消失，不见，指突然间化为乌有，强调非常彻底地、神秘莫测地消失",
+      "fade": "指衣服的颜色褪色，声音的逐渐消失"
+    },
+    "translation": "魔术师挥舞着魔杖，让兔子突然凭空消失。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"into\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_60_2"
+  },
+  {
+    "id": "tem4_col_083",
+    "group_id": 61,
+    "group_name": "decline, decrease, diminish, reduce",
+    "level": "TEM-4",
+    "target_word": "decline",
+    "question": "As people rely more on streaming services, the sales of physical DVDs continue to ___.",
+    "options": [
+      "decline",
+      "decrease",
+      "diminish",
+      "reduce"
+    ],
+    "answer": "decline",
+    "distractor_analysis": {
+      "decline": "(数量、数字、价格、比率)下降，下落",
+      "decrease": "减少，减小，强调逐渐地下降或减少的过程",
+      "diminish": "(力量、势力)减弱，减少，强调由于某种原因而减少，这种减少可以造成明显的后果或损失",
+      "reduce": "及物动词，指通过人为的方法在数量、规模、范围等方面减少，或在地位、重要性上降低等级"
+    },
+    "translation": "随着人们越来越依赖流媒体服务，实体DVD的销量继续下降。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_61_1"
+  },
+  {
+    "id": "tem4_col_084",
+    "group_id": 61,
+    "group_name": "decline, decrease, diminish, reduce",
+    "level": "TEM-4",
+    "target_word": "decrease",
+    "question": "As the driver stepped on the brakes, the speed of the car gradually ___.",
+    "options": [
+      "decline",
+      "decrease",
+      "diminish",
+      "reduce"
+    ],
+    "answer": "decrease",
+    "distractor_analysis": {
+      "decline": "(数量、数字、价格、比率)下降，下落",
+      "decrease": "减少，减小，强调逐渐地下降或减少的过程",
+      "diminish": "(力量、势力)减弱，减少，强调由于某种原因而减少，这种减少可以造成明显的后果或损失",
+      "reduce": "及物动词，指通过人为的方法在数量、规模、范围等方面减少，或在地位、重要性上降低等级"
+    },
+    "translation": "随着司机踩下刹车，汽车的速度逐渐减慢了。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_61_2"
+  },
+  {
+    "id": "tem4_col_085",
+    "group_id": 61,
+    "group_name": "decline, decrease, diminish, reduce",
+    "level": "TEM-4",
+    "target_word": "diminish",
+    "question": "As the scandal was forgotten, the public's anger began to slowly ___.",
+    "options": [
+      "decline",
+      "decrease",
+      "diminish",
+      "reduce"
+    ],
+    "answer": "diminish",
+    "distractor_analysis": {
+      "decline": "(数量、数字、价格、比率)下降，下落",
+      "decrease": "减少，减小，强调逐渐地下降或减少的过程",
+      "diminish": "(力量、势力)减弱，减少，强调由于某种原因而减少，这种减少可以造成明显的后果或损失",
+      "reduce": "及物动词，指通过人为的方法在数量、规模、范围等方面减少，或在地位、重要性上降低等级"
+    },
+    "translation": "随着丑闻被遗忘，公众的愤怒开始慢慢减弱。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_61_3"
+  },
+  {
+    "id": "tem4_col_086",
+    "group_id": 62,
+    "group_name": "deviate, distract, divert",
+    "level": "TEM-4",
+    "target_word": "deviate",
+    "question": "The pilot was instructed not to ___ from the approved flight path under any circumstances.",
+    "options": [
+      "deviate",
+      "distract",
+      "divert"
+    ],
+    "answer": "deviate",
+    "distractor_analysis": {
+      "deviate": "背离，偏离，多指脱离正轨或正题等",
+      "distract": "使分心，分散(注意力、心理等)，常带有不能专心的意思",
+      "divert": "转移，使转向，着重改变后的结果，后常接介词 from"
+    },
+    "translation": "飞行员接到指示，在任何情况下都不得偏离批准的飞行路线。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_62_1"
+  },
+  {
+    "id": "tem4_col_087",
+    "group_id": 64,
+    "group_name": "divide, separate",
+    "level": "TEM-4",
+    "target_word": "divide",
+    "question": "If you ___ the cake into eight equal slices, everyone will get a piece.",
+    "options": [
+      "divide",
+      "separate"
+    ],
+    "answer": "divide",
+    "distractor_analysis": {
+      "divide": "分开，划分，指把整体分成若干部分，也表示“疏远”的意思",
+      "separate": "作及物动词时指把原来连接在一起或靠近的东西分隔开来，作不及物动词时指分散、分别"
+    },
+    "translation": "如果你把蛋糕平均分成八块，每个人都能分到一块。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_64_1"
+  },
+  {
+    "id": "tem4_col_088",
+    "group_id": 64,
+    "group_name": "divide, separate",
+    "level": "TEM-4",
+    "target_word": "separate",
+    "question": "Please use a fence to ___ the sheep from the cows in the pasture.",
+    "options": [
+      "divide",
+      "separate"
+    ],
+    "answer": "separate",
+    "distractor_analysis": {
+      "divide": "分开，划分，指把整体分成若干部分，也表示“疏远”的意思",
+      "separate": "作及物动词时指把原来连接在一起或靠近的东西分隔开来，作不及物动词时指分散、分别"
+    },
+    "translation": "请用栅栏把牧场里的羊和牛分开。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3_64_2"
+  },
+  {
+    "id": "tem4_col_089",
+    "group_id": 65,
+    "group_name": "duty, obligation, responsibility",
+    "level": "TEM-4",
+    "target_word": "duty",
+    "question": "It is every citizen's civic ___ to vote in the upcoming local elections.",
+    "options": [
+      "duty",
+      "obligation",
+      "responsibility"
+    ],
+    "answer": "duty",
+    "distractor_analysis": {
+      "duty": "指道义上的责任，强调自觉性，可数名词时指本职工作的任务",
+      "obligation": "指合同或法律上规定的“责任，义务”，强调其约束力",
+      "responsibility": "职责，强调对后果要负责任的意思"
+    },
+    "translation": "在即将到来的地方选举中投票是每个公民的公民义务。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_65_1"
+  },
+  {
+    "id": "tem4_col_090",
+    "group_id": 65,
+    "group_name": "duty, obligation, responsibility",
+    "level": "TEM-4",
+    "target_word": "obligation",
+    "question": "Parents have a legal ___ to ensure that their children are provided with efficient education suitable to their age.",
+    "options": [
+      "duty",
+      "obligation",
+      "responsibility"
+    ],
+    "answer": "obligation",
+    "distractor_analysis": {
+      "duty": "指道义上的责任，强调自觉性，可数名词时指本职工作的任务",
+      "obligation": "指合同或法律上规定的“责任，义务”，强调其约束力",
+      "responsibility": "职责，强调对后果要负责任的意思"
+    },
+    "translation": "父母有法律上的义务确保其子女受到适合其年龄的有效教育。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_65_2"
+  },
+  {
+    "id": "tem4_col_091",
+    "group_id": 65,
+    "group_name": "duty, obligation, responsibility",
+    "level": "TEM-4",
+    "target_word": "responsibility",
+    "question": "His father is ill, and he has the ___ of caring for him.",
+    "options": [
+      "duty",
+      "obligation",
+      "responsibility"
+    ],
+    "answer": "responsibility",
+    "distractor_analysis": {
+      "duty": "指道义上的责任，强调自觉性，可数名词时指本职工作的任务",
+      "obligation": "指合同或法律上规定的“责任，义务”，强调其约束力",
+      "responsibility": "职责，强调对后果要负责任的意思"
+    },
+    "translation": "他的父亲病了，他有责任照顾他。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_65_3"
+  },
+  {
+    "id": "tem4_col_092",
+    "group_id": 67,
+    "group_name": "eligible, illegible",
+    "level": "TEM-4",
+    "target_word": "eligible",
+    "question": "He graduated from high school with good grades, so he is ___ to enroll in the state college.",
+    "options": [
+      "eligible",
+      "illegible"
+    ],
+    "answer": "eligible",
+    "distractor_analysis": {
+      "eligible": "享有权利的，具备资格的",
+      "illegible": "很难看懂的，难以辨认的"
+    },
+    "translation": "他以优异的成绩从中学毕业，所以他有资格就读于州立大学。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_67_1"
+  },
+  {
+    "id": "tem4_col_093",
+    "group_id": 68,
+    "group_name": "eminent, imminent",
+    "level": "TEM-4",
+    "target_word": "eminent",
+    "question": "He is ___ in the field of linguistics.",
+    "options": [
+      "eminent",
+      "imminent"
+    ],
+    "answer": "eminent",
+    "distractor_analysis": {
+      "eminent": "著名的，卓越的，杰出的",
+      "imminent": "即将发生的，迫在眉睫的，临近的"
+    },
+    "translation": "他在语言学领域很有名。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_68_1"
+  },
+  {
+    "id": "tem4_col_094",
+    "group_id": 69,
+    "group_name": "emotion, feeling, passion, sensation, sentiment",
+    "level": "TEM-4",
+    "target_word": "sentiment",
+    "question": "There is a growing public ___ against the use of single-use plastics.",
+    "options": [
+      "emotion",
+      "feeling",
+      "passion",
+      "sensation",
+      "sentiment"
+    ],
+    "answer": "sentiment",
+    "distractor_analysis": {
+      "emotion": "情感，感情，指喜怒哀乐等较激动的情绪，表示某物引起的激动",
+      "feeling": "指一般的情情绪、感觉，它一般不反映感情的本质和强度",
+      "passion": "激情，热情，欲望，极度的仇恨，指强烈的爱好、愤怒或情欲",
+      "sensation": "指人体感官受到外部刺激时产生的感觉，知觉",
+      "sentiment": "思想感情，情绪，感情色彩，指由于某种思想唤起的感情，强调主观作用"
+    },
+    "translation": "公众反对使用一次性塑料制品的情绪越来越高涨。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"against\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_69_5"
+  },
+  {
+    "id": "tem4_col_095",
+    "group_id": 71,
+    "group_name": "equal, equivalent, identical",
+    "level": "TEM-4",
+    "target_word": "equivalent",
+    "question": "A mile is roughly ___ to 1.6 kilometers.",
+    "options": [
+      "equal",
+      "equivalent",
+      "identical"
+    ],
+    "answer": "equivalent",
+    "distractor_analysis": {
+      "equal": "(数字、数量、权力、价值)相等的；(指人)胜任的",
+      "equivalent": "相等的，相同的，与 equal 基本可以互换使用",
+      "identical": "同一的，完全相同的"
+    },
+    "translation": "一英里大约相当于1.6公里。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_71_2"
+  },
+  {
+    "id": "tem4_col_096",
+    "group_id": 72,
+    "group_name": "equipment, facility, instrument",
+    "level": "TEM-4",
+    "target_word": "facility",
+    "question": "The ___ at that club includes tennis courts and a swimming pool.",
+    "options": [
+      "equipment",
+      "facility",
+      "instrument"
+    ],
+    "answer": "facility",
+    "distractor_analysis": {
+      "equipment": "指生产、研究所需要的设备、装置，是不可数名词",
+      "facility": "指较大的设施、设备，尤指公用的、为大众带来便利的设备",
+      "instrument": "乐器，仪器，为某个用途而使用的工具"
+    },
+    "translation": "那家俱乐部的体育设施包括网球场地和一个游泳池。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_72_2"
+  },
+  {
+    "id": "tem4_col_097",
+    "group_id": 73,
+    "group_name": "essential, indispensable, necessary",
+    "level": "TEM-4",
+    "target_word": "indispensable",
+    "question": "By learning all the specific software operations, she made herself absolutely ___ to the company.",
+    "options": [
+      "essential",
+      "indispensable",
+      "necessary"
+    ],
+    "answer": "indispensable",
+    "distractor_analysis": {
+      "essential": "主要的，核心的，本质的，必不可少的",
+      "indispensable": "强调客观上是必不可少的，否则就无法维持生命或做不成某事",
+      "necessary": "一般用语，强调从主观上看是必须的，不可避免的"
+    },
+    "translation": "通过学习所有特定软件的操作，她让自己成为了公司绝对不可或缺的人。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_73_2"
+  },
+  {
+    "id": "tem4_col_098",
+    "group_id": 73,
+    "group_name": "essential, indispensable, necessary",
+    "level": "TEM-4",
+    "target_word": "necessary",
+    "question": "It is ___ to make a plan before starting the project.",
+    "options": [
+      "essential",
+      "indispensable",
+      "necessary"
+    ],
+    "answer": "necessary",
+    "distractor_analysis": {
+      "essential": "主要的，核心的，本质的，必不可少的",
+      "indispensable": "强调客观上是必不可少的，否则就无法维持生命或做不成某事",
+      "necessary": "一般用语，强调从主观上看是必须的，不可避免的"
+    },
+    "translation": "在开始项目之前制定一个计划是必要的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_3_73_3"
+  },
+  {
+    "id": "tem4_col_099",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "gaze",
+    "question": "She likes to ___ at her beautiful new diamond ring.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "gaze",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "她凝视着自己的这颗美丽崭新的钻 戒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_1"
+  },
+  {
+    "id": "tem4_col_100",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "gape",
+    "question": "The children stopped to ___ at the big elephant in the zoo.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "gape",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "在动物园， 孩子们张大了嘴巴呆 呆地看着大象。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_2"
+  },
+  {
+    "id": "tem4_col_101",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "glare",
+    "question": "The woman could only ___ at the man after he shouted rudely at her.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "glare",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "那男人粗暴地冲她 大声喊叫，她也怒目而视。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_4"
+  },
+  {
+    "id": "tem4_col_102",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "peer",
+    "question": "Because she is somewhat short-sighted, she will often ___ at people.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "peer",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "因为有点近 视，她有眯着眼睛看人的习惯。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_6"
+  },
+  {
+    "id": "tem4_col_103",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "peep",
+    "question": "The mother tried to ___ into the bedroom to see if her child was asleep.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "peep",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "母亲偷偷向 卧室看了一下，看她的孩子是否睡着了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"into\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_7"
+  },
+  {
+    "id": "tem4_col_104",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "stare",
+    "question": "I told my son not to ___ at that fat woman; it wasn't nice.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "stare",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "我告诉儿子不要盯 着那个胖女人，那样看人不礼貌。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_76_8"
+  },
+  {
+    "id": "tem4_col_105",
+    "group_id": 78,
+    "group_name": "hospitality, hostility",
+    "level": "TEM-4",
+    "target_word": "hospitality",
+    "question": "We enjoyed the ___ of friends at their country home.",
+    "options": [
+      "hospitality",
+      "hostility"
+    ],
+    "answer": "hospitality",
+    "distractor_analysis": {
+      "hospitality": "n. 热情招待，殷勤好客。",
+      "hostility": "n. 敌意，对抗（来自与形容词 hostile 意为“不友善的，敌对的”）。"
+    },
+    "translation": "朋友们在乡下的居所 热情地招待了我们，使我们过得很愉快。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_78_1"
+  },
+  {
+    "id": "tem4_col_106",
+    "group_id": 82,
+    "group_name": "imply, infer",
+    "level": "TEM-4",
+    "target_word": "infer",
+    "question": "I ___ from your smile that you are happy.",
+    "options": [
+      "imply",
+      "infer"
+    ],
+    "answer": "infer",
+    "distractor_analysis": {
+      "imply": "v. (从言语或态度中)暗示，暗指(某种事情)。",
+      "infer": "v. (根据已知事实)推断，推理。"
+    },
+    "translation": "从你的笑容可以看出你很高兴。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_82_4"
+  },
+  {
+    "id": "tem4_col_107",
+    "group_id": 87,
+    "group_name": "jealous, envious",
+    "level": "TEM-4",
+    "target_word": "envious",
+    "question": "He is ___ of my new car and wants one like it.",
+    "options": [
+      "jealous",
+      "envious"
+    ],
+    "answer": "envious",
+    "distractor_analysis": {
+      "jealous": "a. 妒忌的，暗含有憎恶与不好的感情。",
+      "envious": "a. 羡慕的,强调攀比心理所造成的羡慕。"
+    },
+    "translation": "他很羡慕我的新车， 也想要一辆 同样的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_87_2"
+  },
+  {
+    "id": "tem4_col_108",
+    "group_id": 89,
+    "group_name": "minor, inferior, secondary, subordinate",
+    "level": "TEM-4",
+    "target_word": "inferior",
+    "question": "Most wine from Switzerland is ___ to wine from France.",
+    "options": [
+      "minor",
+      "inferior",
+      "secondary",
+      "subordinate"
+    ],
+    "answer": "inferior",
+    "distractor_analysis": {
+      "minor": "a. 较少的，较小的，较次要的，常含有轻微的但并非不重要的意思。",
+      "inferior": "a. 次等的，较劣的，差的，当 \"下级\"讲时，强调职位的高低；当 \"次等\" 讲时，指素质、质量等的低劣。",
+      "secondary": "a. 第二等的，次要的，强调在重要性或顺序上处于第二位。",
+      "subordinate": "a. 次要的，从属的，下级的，强调主次地位或支配和隶属的关系。"
+    },
+    "translation": "产于瑞士的葡萄酒多 数要比法国的差。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_89_2"
+  },
+  {
+    "id": "tem4_col_109",
+    "group_id": 90,
+    "group_name": "opt, apt",
+    "level": "TEM-4",
+    "target_word": "opt",
+    "question": "She will likely ___ for a winter vacation, instead of one in summer.",
+    "options": [
+      "opt",
+      "apt"
+    ],
+    "answer": "opt",
+    "distractor_analysis": {
+      "opt": "v. 选择，抉择，后接 for。",
+      "apt": "a. 易于……的，（后接 to）；恰当的，贴切的。"
+    },
+    "translation": "她选择了在冬天休假而不是夏天。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_90_1"
+  },
+  {
+    "id": "tem4_col_110",
+    "group_id": 90,
+    "group_name": "opt, apt",
+    "level": "TEM-4",
+    "target_word": "apt",
+    "question": "She is ___ to make mistakes if you pressure her too much.",
+    "options": [
+      "opt",
+      "apt"
+    ],
+    "answer": "apt",
+    "distractor_analysis": {
+      "opt": "v. 选择，抉择，后接 for。",
+      "apt": "a. 易于……的，（后接 to）；恰当的，贴切的。"
+    },
+    "translation": "如果你给她施加的压力过大，她就很容易出错。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_90_2"
+  },
+  {
+    "id": "tem4_col_111",
+    "group_id": 91,
+    "group_name": "rational, reasonable",
+    "level": "TEM-4",
+    "target_word": "reasonable",
+    "question": "That man works very hard, so it is ___ for him to ask for more money.",
+    "options": [
+      "rational",
+      "reasonable"
+    ],
+    "answer": "reasonable",
+    "distractor_analysis": {
+      "rational": "a. 理性的，区别于无理性；理智的，区别于感情用事的。",
+      "reasonable": "a. 有道理的，公平合理的，或指人讲道理的。"
+    },
+    "translation": "那个 人工作努力，所以他要求加薪是合情合理的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_91_2"
+  },
+  {
+    "id": "tem4_col_112",
+    "group_id": 92,
+    "group_name": "refrain, restrain, constrain",
+    "level": "TEM-4",
+    "target_word": "refrain",
+    "question": "Students ___ from smoking in the classroom.",
+    "options": [
+      "refrain",
+      "restrain",
+      "constrain"
+    ],
+    "answer": "refrain",
+    "distractor_analysis": {
+      "refrain": "v. 抑制，禁止，强调抑制一种冲动，不及物动词，后接 from。",
+      "restrain": "v. 抑制，约束，指通过管束阻止某事发生，及物动词，习惯用法是 restrain sb./sth. from doing。",
+      "constrain": "v. 强迫，力劝，是及物动词。"
+    },
+    "translation": "学生们克制住不在教室抽烟。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_92_1"
+  },
+  {
+    "id": "tem4_col_113",
+    "group_id": 92,
+    "group_name": "refrain, restrain, constrain",
+    "level": "TEM-4",
+    "target_word": "restrain",
+    "question": "She tried to ___ her dog by walking him on a leash.",
+    "options": [
+      "refrain",
+      "restrain",
+      "constrain"
+    ],
+    "answer": "restrain",
+    "distractor_analysis": {
+      "refrain": "v. 抑制，禁止，强调抑制一种冲动，不及物动词，后接 from。",
+      "restrain": "v. 抑制，约束，指通过管束阻止某事发生，及物动词，习惯用法是 restrain sb./sth. from doing。",
+      "constrain": "v. 强迫，力劝，是及物动词。"
+    },
+    "translation": "溜狗时，她牵着狗来限制它的活动。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_4_92_2"
+  },
+  {
+    "id": "tem4_col_114",
+    "group_id": 92,
+    "group_name": "refrain, restrain, constrain",
+    "level": "TEM-4",
+    "target_word": "constrain",
+    "question": "A new law aims to ___ the government from spending more money than it takes in.",
+    "options": [
+      "refrain",
+      "restrain",
+      "constrain"
+    ],
+    "answer": "constrain",
+    "distractor_analysis": {
+      "refrain": "v. 抑制，禁止，强调抑制一种冲动，不及物动词，后接 from。",
+      "restrain": "v. 抑制，约束，指通过管束阻止某事发生，及物动词，习惯用法是 restrain sb./sth. from doing。",
+      "constrain": "v. 强迫，力劝，是及物动词。"
+    },
+    "translation": "法律 限制政府开支大于收入。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_4_92_3"
+  },
+  {
+    "id": "tem4_col_115",
+    "group_id": 95,
+    "group_name": "sanction, sanitation",
+    "level": "TEM-4",
+    "target_word": "sanction",
+    "question": "I need my parents' ___ to stay out late.",
+    "options": [
+      "sanction",
+      "sanitation"
+    ],
+    "answer": "sanction",
+    "distractor_analysis": {
+      "sanction": "n. 认可，准许，批准。",
+      "sanitation": "n. 公共卫生，环境卫生，卫生设备。"
+    },
+    "translation": "我晚回家需要得到父母的批准。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_95_1"
+  },
+  {
+    "id": "tem4_col_116",
+    "group_id": 96,
+    "group_name": "scenery, scene, view, landscape",
+    "level": "TEM-4",
+    "target_word": "scene",
+    "question": "They stood gazing at the happy ___ of children playing in the park.",
+    "options": [
+      "scenery",
+      "scene",
+      "view",
+      "landscape"
+    ],
+    "answer": "scene",
+    "distractor_analysis": {
+      "scenery": "n. 风景，景色，舞台布景，强调从美的角度看，某个国家或地区的总体 外貌。",
+      "scene": "n. 指从远处看到的某一具体景色、景象，也可以指人物的活动场面；(犯罪 的)地点，现场。",
+      "view": "n. 指从远处或窗户看到的视野范围内的风景；观点，看法。",
+      "landscape": "n. (自然的)风景，景色；风景画。"
+    },
+    "translation": "他们站在那里， 注视着孩子们在公园里玩耍的场景。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_96_2"
+  },
+  {
+    "id": "tem4_col_117",
+    "group_id": 96,
+    "group_name": "scenery, scene, view, landscape",
+    "level": "TEM-4",
+    "target_word": "view",
+    "question": "Our house has a ___ of the park.",
+    "options": [
+      "scenery",
+      "scene",
+      "view",
+      "landscape"
+    ],
+    "answer": "view",
+    "distractor_analysis": {
+      "scenery": "n. 风景，景色，舞台布景，强调从美的角度看，某个国家或地区的总体 外貌。",
+      "scene": "n. 指从远处看到的某一具体景色、景象，也可以指人物的活动场面；(犯罪 的)地点，现场。",
+      "view": "n. 指从远处或窗户看到的视野范围内的风景；观点，看法。",
+      "landscape": "n. (自然的)风景，景色；风景画。"
+    },
+    "translation": "我们的房子可以看到公园的景色。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_96_3"
+  },
+  {
+    "id": "tem4_col_118",
+    "group_id": 97,
+    "group_name": "sensible, sensitive, sentimental, sensational",
+    "level": "TEM-4",
+    "target_word": "sensible",
+    "question": "It was very ___ of you to bring an umbrella since it started raining.",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sentimental",
+      "sensational"
+    ],
+    "answer": "sensible",
+    "distractor_analysis": {
+      "sensible": "a. 有知觉的，可感知的；明智的。",
+      "sensitive": "a. 敏感的，灵敏的。",
+      "sentimental": "a. 多愁善感的，感伤的。",
+      "sensational": "a. 耸人听闻的，令人激动的。"
+    },
+    "translation": "天开始下雨了，你带了把伞真是太明智了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_97_1"
+  },
+  {
+    "id": "tem4_col_119",
+    "group_id": 97,
+    "group_name": "sensible, sensitive, sentimental, sensational",
+    "level": "TEM-4",
+    "target_word": "sensitive",
+    "question": "This film is ___ to light.",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sentimental",
+      "sensational"
+    ],
+    "answer": "sensitive",
+    "distractor_analysis": {
+      "sensible": "a. 有知觉的，可感知的；明智的。",
+      "sensitive": "a. 敏感的，灵敏的。",
+      "sentimental": "a. 多愁善感的，感伤的。",
+      "sensational": "a. 耸人听闻的，令人激动的。"
+    },
+    "translation": "这种胶片对光很敏感。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_97_2"
+  },
+  {
+    "id": "tem4_col_120",
+    "group_id": 99,
+    "group_name": "transaction, transition, transmission, transformation, transfer",
+    "level": "TEM-4",
+    "target_word": "transaction",
+    "question": "Every ___ on the stock exchange is carefully recorded.",
+    "options": [
+      "transaction",
+      "transition",
+      "transmission",
+      "transformation",
+      "transfer"
+    ],
+    "answer": "transaction",
+    "distractor_analysis": {
+      "transaction": "n. 交易行为，处理。",
+      "transition": "n. (从一种情况到另一种的)过渡，更替。",
+      "transmission": "n. 传播(比如疾病)；广播。",
+      "transformation": "n. (外观或性质的)改变，改观，转变。",
+      "transfer": "n. 转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。"
+    },
+    "translation": "证券交易所的每一笔交易都被仔细记录下来。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_99_1"
+  },
+  {
+    "id": "tem4_col_121",
+    "group_id": 99,
+    "group_name": "transaction, transition, transmission, transformation, transfer",
+    "level": "TEM-4",
+    "target_word": "transition",
+    "question": "The ___ from high school to college can be difficult for students.",
+    "options": [
+      "transaction",
+      "transition",
+      "transmission",
+      "transformation",
+      "transfer"
+    ],
+    "answer": "transition",
+    "distractor_analysis": {
+      "transaction": "n. 交易行为，处理。",
+      "transition": "n. (从一种情况到另一种的)过渡，更替。",
+      "transmission": "n. 传播(比如疾病)；广播。",
+      "transformation": "n. (外观或性质的)改变，改观，转变。",
+      "transfer": "n. 转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。"
+    },
+    "translation": "对于学生 来说，从中学到大学的过渡会是困难的。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"from\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_99_2"
+  },
+  {
+    "id": "tem4_col_122",
+    "group_id": 99,
+    "group_name": "transaction, transition, transmission, transformation, transfer",
+    "level": "TEM-4",
+    "target_word": "transmission",
+    "question": "The ___ of germs can occur by contact, breathing, and eating.",
+    "options": [
+      "transaction",
+      "transition",
+      "transmission",
+      "transformation",
+      "transfer"
+    ],
+    "answer": "transmission",
+    "distractor_analysis": {
+      "transaction": "n. 交易行为，处理。",
+      "transition": "n. (从一种情况到另一种的)过渡，更替。",
+      "transmission": "n. 传播(比如疾病)；广播。",
+      "transformation": "n. (外观或性质的)改变，改观，转变。",
+      "transfer": "n. 转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。"
+    },
+    "translation": "细菌通过 接触、呼吸和饮食传播。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4_99_3"
+  },
+  {
+    "id": "tem4_col_123",
+    "level": "TEM-4",
+    "group_name": "period, time(s), epoch, era, age",
+    "question": "The invention of the steam engine marked a new ___ in the history of industrial development.",
+    "options": [
+      "period",
+      "time",
+      "epoch",
+      "age"
+    ],
+    "answer": "epoch",
+    "translation": "蒸汽机的发明标志着工业发展史上一个新纪元的开始。",
+    "analysis": {
+      "period": "It indicates any passage of time, great or small. /an extent of time of any length. (时代)",
+      "time": "It refers to a period in history.",
+      "epoch": "It indicates a long period of time marked by events or development of a particular kind. (纪元)",
+      "age": "It shows a particular /a fairly definite period in history."
+    },
+    "target_word": "epoch",
+    "distractor_analysis": {
+      "period": "\"时期，阶段\" - 最普通的用词，指任何长度的时间段，缺乏“具有重大历史意义”的色彩。",
+      "time": "\"时代，时期\" - 通常作复数时可表示特定的时代，但作单数时指一般的时间或一段光阴，不强调划时代的历史转折。",
+      "epoch": "\"新纪元，时代\" - 尤指以某种重大事件或变化为起点的、具有深远历史意义的新时代。句中“蒸汽机的发明”标志着工业史上的重大转折，最能突出其划时代的意义。",
+      "age": "\"时代，时期\" - 通常指历史上以某一突出特征或杰出人物为标志的较长历史阶段（如青铜时代），但不直接强调以某一事件为起点的“新纪元”开启。"
+    },
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_7a9c2d"
+  },
+  {
+    "id": "tem4_col_124",
+    "level": "TEM-4",
+    "group_name": "fight, struggle, battle, campaign, war, combat",
+    "question": "The general meticulously planned a massive military ___ to liberate the occupied territories before winter arrived.",
+    "options": [
+      "battle",
+      "struggle",
+      "campaign",
+      "combat"
+    ],
+    "answer": "campaign",
+    "translation": "将军精心策划了一场大规模的军事战役，以便在冬天到来之前解放被占领土。",
+    "analysis": {
+      "battle": "A fight between armed forces. (战役)",
+      "struggle": "An effort of any kind to overcome difficulty. (战斗)",
+      "campaign": "A series of related military operations in a war. (战争)",
+      "combat": "A fight, conflict, controversy."
+    },
+    "target_word": "campaign",
+    "distractor_analysis": {
+      "battle": "\"战斗，战役\" - 通常指战争中具体的、局部的、时间相对较短的交战。句中强调的是为特定目的（解放领土）而策划的一系列大规模军事行动，该词不够宏大。",
+      "struggle": "\"斗争，挣扎\" - 泛指为克服困难或反抗而进行的努力或持续的斗争，不仅限于军事领域，缺乏具体的军事行动意味。",
+      "campaign": "\"战役，运动\" - 在军事上指为实现某个特定战略目标而在某一地区进行的一系列有组织的军事行动。符合句中将军精心策划的大规模、有阶段性目标的军事行动。",
+      "combat": "\"战斗，格斗\" - 侧重指武装力量之间的短兵相接或具体交战行为，不如campaign宏大和有计划性。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_1d4e5f"
+  },
+  {
+    "id": "tem4_col_125",
+    "level": "TEM-4",
+    "group_name": "good-looking, beautiful, handsome, pretty, lovely, fair, gorgeous",
+    "question": "The bride looked absolutely ___ in her tailor-made wedding gown, drawing gasps of admiration from all the guests.",
+    "options": [
+      "handsome",
+      "pretty",
+      "fair",
+      "gorgeous"
+    ],
+    "answer": "gorgeous",
+    "translation": "新娘穿着定制的婚纱看起来美极了，引得所有宾客发出惊叹。",
+    "analysis": {
+      "handsome": "Of attractive appearance applies to men.",
+      "pretty": "(a girl, or a small thing) Suggesting liveliness and sweetness, pleasing or nice to look at.",
+      "fair": "Beautiful( of woman in poet) light in color esp., skin hair.",
+      "gorgeous": "(persons or things) (inf) Extremely beautiful or handsome."
+    },
+    "target_word": "gorgeous",
+    "distractor_analysis": {
+      "handsome": "\"英俊的，端庄的\" - 多用于形容男性的英俊，若形容女性则指端庄健美、五官大气，不适合形容穿婚纱的新娘带来的惊艳感。",
+      "pretty": "\"漂亮的，可爱的\" - 通常指女性、小孩或小物件小巧玲珑的漂亮，语气较弱，不足以引出“所有宾客的惊叹”。",
+      "fair": "\"白皙的，美丽的\" - 偏文学或古典用词，常指肤色白皙或清秀美丽，缺乏令人震撼的视觉冲击力。",
+      "gorgeous": "\"极其漂亮的，华丽的\" - 表达强烈的美感，指令人惊叹的、光彩照人的美丽。完美契合新娘穿定制婚纱引得众人惊叹的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_c4d9e1"
+  },
+  {
+    "id": "tem4_col_126",
+    "level": "TEM-4",
+    "group_name": "mistake, fault, shortcoming, error, defect, blunder",
+    "question": "The company had to recall thousands of cars after discovering a manufacturing ___ in the braking system.",
+    "options": [
+      "fault",
+      "shortcoming",
+      "error",
+      "defect"
+    ],
+    "answer": "defect",
+    "translation": "在发现刹车系统存在制造缺陷后，该公司不得不召回数千辆汽车。",
+    "analysis": {
+      "fault": "A bad point, but not of a serious moral kind. It refers to behavior and character. (过错 弱点)",
+      "shortcoming": "weakness, failing It refers to failures or deficiencies in things as well as people.",
+      "error": "A mistake (formal sometimes literary) It implies deviation from a standard or model (疏忽)",
+      "defect": "sth lacking or imperfect. It refers to quality. (缺点 毛病)"
+    },
+    "target_word": "defect",
+    "distractor_analysis": {
+      "fault": "\"过错，故障\" - 泛指人的过失，或系统、设备中导致其不能正常工作的故障。但用于“制造”环节时，不如defect专业。",
+      "shortcoming": "\"缺点，短处\" - 多用于指人性格或能力上的不足，或系统的不完善，不用于指代实体产品的物理瑕疵。",
+      "error": "\"错误，差错\" - 指由于粗心、无知或违反规则而造成的错误，多用于计算、判断或书写方面，不指代工业产品的质量问题。",
+      "defect": "\"缺陷，瑕疵\" - 指实体物品在制造、设计上的瑕疵或不完美之处。句中“制造”和召回汽车的语境，明确指向产品本身的质量缺陷，必须用此词。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_e5f9a2"
+  },
+  {
+    "id": "tem4_col_127",
+    "level": "TEM-4",
+    "group_name": "picture, painting, drawing, sketch, diagram, graph, illustration, draft, plan, elevation, chart",
+    "question": "The financial report included a pie ___ to clearly demonstrate the percentage of revenue generated by each department.",
+    "options": [
+      "sketch",
+      "diagram",
+      "graph",
+      "chart"
+    ],
+    "answer": "chart",
+    "translation": "财务报告中包含了一张饼图，以清楚地展示每个部门产生的收入百分比。",
+    "analysis": {
+      "sketch": "A rough not detailed drawing. (草图)",
+      "diagram": "A drawing, figure that shows the arrangement of something. (图解 图表)",
+      "graph": "A diagram in which a straight line, curved, or zigzag line shows how two sets of numbers or measurements are related. (曲线图)",
+      "chart": "A map esp. a detailed map of a sea area. (海图)"
+    },
+    "target_word": "chart",
+    "distractor_analysis": {
+      "sketch": "\"草图，素描\" - 指粗略画出的草图或轮廓，没有详细细节，不用于精确表示财务数据的统计图。",
+      "diagram": "\"示意图，图解\" - 指用来解释某物的工作原理、结构或各部分关系的线条图，通常不用于表示数量或比例的统计。",
+      "graph": "\"坐标图，曲线图\" - 通常指有横纵坐标的图表，用于表示两个变量之间的函数关系或变化趋势，不能与pie（饼状）搭配。",
+      "chart": "\"图表，航海图\" - 指用于呈现数据的表格、曲线图或饼图等统计图形。“pie chart”（饼状图）是固定搭配，专门用于展示各部分占总体的比例。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_b7c4d1"
+  },
+  {
+    "id": "tem4_col_128",
+    "level": "TEM-4",
+    "group_name": "cancel, abolish, eliminate, repeal, exterminate",
+    "question": "In the 19th century, a powerful movement emerged to completely ___ the cruel institution of slavery once and for all.",
+    "options": [
+      "cancel",
+      "abolish",
+      "eliminate",
+      "repeal"
+    ],
+    "answer": "abolish",
+    "translation": "在19世纪，出现了一场旨在彻底废除残酷的奴隶制度的强大运动。",
+    "analysis": {
+      "cancel": "To give up, to declare something is to be effective. (取消 解除)",
+      "abolish": "To do away with. It refers to practices, social institutions. (废除 废止)",
+      "eliminate": "To get rid of. (消灭 排除)",
+      "repeal": "To bring to an end of the effect of a law or an order. (撤消 废除)"
+    },
+    "target_word": "abolish",
+    "distractor_analysis": {
+      "cancel": "\"取消，撤销\" - 普通用词，指取消计划、安排、会议、订单等，不能用于废除法律或社会制度。",
+      "abolish": "\"废除，废止\" - 专门用于指通过法律、行政手段或社会运动彻底废除长期的社会制度、风俗习惯或法律。句中废除“奴隶制度”是标准搭配。",
+      "eliminate": "\"消除，淘汰\" - 指通过努力消除问题、隐患或在竞争中淘汰对手，不用于废除制度。",
+      "repeal": "\"废除，撤销（法令）\" - 法律术语，特指立法机关正式撤销或废止某项具体的法律或法案。对于广义的“制度”，abolish更常用且宏大。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_8d9e0f"
+  },
+  {
+    "id": "tem4_col_129",
+    "level": "TEM-4",
+    "group_name": "break, crush, smash, crack, burst, shatter, crash",
+    "question": "The high-pitched sound waves from the opera singer's powerful voice caused the delicate wine glass to ___ into countless pieces.",
+    "options": [
+      "crush",
+      "smash",
+      "crack",
+      "shatter"
+    ],
+    "answer": "shatter",
+    "translation": "歌剧演唱者强有力的声音产生的高频声波导致精致的高脚杯碎成了无数碎片。",
+    "analysis": {
+      "crush": "To press together violently as to break, to destroy its shape by squeezing it. It suggests the effect of great external pressure. (压碎 压破)",
+      "smash": "To break thoroughly to pieces with a crushing sound. (打碎)",
+      "crack": "To break without separation of parts. It suggests the breaking out across a surface. (打裂)",
+      "shatter": "To break into pieces. It suggests the breaking up of a thin surface. (砸碎 破碎)"
+    },
+    "target_word": "shatter",
+    "distractor_analysis": {
+      "crush": "\"压碎，挤碎\" - 强调受到外部重力或挤压而变形或破碎，声波不能产生这种物理挤压感。",
+      "smash": "\"打碎，砸碎\" - 指用力猛击某物使其破碎，强调动作的猛烈和力量，通常涉及物理碰撞。",
+      "crack": "\"破裂，出现裂纹\" - 指物体表面出现裂缝，但并未完全裂开成碎片，与句中“变成无数碎片”不符。",
+      "shatter": "\"粉碎，碎裂\" - 指突然且猛烈地破碎成无数小块。常用于玻璃、陶瓷等脆性物体受外力或声波震荡而瞬间粉碎，完美契合句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"into\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_4c5d6e"
+  },
+  {
+    "id": "tem4_col_130",
+    "level": "TEM-4",
+    "group_name": "conditions, situation, environment, circumstance, surroundings",
+    "question": "We must try to beautify our ___ by planting more trees and reducing pollution.",
+    "options": [
+      "conditions",
+      "situation",
+      "environment",
+      "circumstances"
+    ],
+    "answer": "environment",
+    "translation": "我们必须努力通过种植更多的树和减少污染来美化我们的环境。",
+    "analysis": {
+      "conditions": "The location and other factors likely to affect it. It suggests something that has stayed the same for some time and which affects daily life such as food, work, and houses.",
+      "situation": "A position or state at a particular time, set of conditions, facts, and events having an effect on a person, society, etc.",
+      "environment": "The circumstances, things and conditions that influence you. It refers to spirit aspect, physical aspect and material aspect.",
+      "circumstances": "A situation or event around us, a certain kind of atmosphere, the conditions that affect what happens."
+    },
+    "target_word": "environment",
+    "distractor_analysis": {
+      "conditions": "\"条件，状况\" - 泛指影响事物发生或存在的前提、情况，或物质/生活条件，通常不与“种树和减少污染来美化”搭配。",
+      "situation": "\"局势，处境\" - 指特定时期内各种情况的综合状态，或人所处的环境境遇，不指代自然物理环境。",
+      "environment": "\"环境，自然环境\" - 指人或动植物周围的物理或自然环境，特别是生态环境。句中提到的种树、减少污染等均指向自然生态环境，用此词最准确。",
+      "circumstances": "\"环境，情况\" - 常用复数，指围绕和影响某事件或某人生活、经济状况的各种客观情况，不指自然界具体的生态环境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"by\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_ch1_01"
+  },
+  {
+    "id": "tem4_col_131",
+    "level": "TEM-4",
+    "group_name": "advice, opinion, proposal, suggestion, recommendation, view",
+    "question": "The committee will review the new ___ for improving the city's public transportation system next week.",
+    "options": [
+      "advice",
+      "opinion",
+      "proposal",
+      "view"
+    ],
+    "answer": "proposal",
+    "translation": "委员会下周将审查关于改善城市公共交通系统的新建议。",
+    "analysis": {
+      "advice": "普通用词，侧重依据个人经验、学识和正确判断而提出的忠言。",
+      "opinion": "日常用词，泛指对某事物的想法和意见。",
+      "proposal": "指正式提出来供研究、采纳或实行的建议。",
+      "view": "侧重指对重大的或引起公众关注的问题所持的看法和态度。"
+    },
+    "target_word": "proposal",
+    "distractor_analysis": {
+      "advice": "（建议、忠告）通常指长辈、专家等给出的具有指导性的意见，多为不可数名词。不合语境中的可数名词用法（new ___）。",
+      "opinion": "（意见、看法）侧重对某事物的个人主观看法或评价，而非具体的行动计划。不符合“改善交通系统的建议”这一语境。",
+      "proposal": "（提案、建议）指针对某一计划、方案正式提出的具体建议或提案，通常需要提交给委员会或会议等审查和表决。符合语境中“审查新提案”的含义。",
+      "view": "（观点、看法）偏重于对某一问题的个人立场或观察角度，同样不表示一套具体的行动方案。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_ch1_05"
+  },
+  {
+    "id": "tem4_col_132",
+    "level": "TEM-4",
+    "group_name": "advance, progress, proceed, move on, go",
+    "question": "After a short break, the chairman asked the speaker to ___ with his presentation.",
+    "options": [
+      "advance",
+      "progress",
+      "proceed",
+      "go"
+    ],
+    "answer": "proceed",
+    "translation": "短暂休息后，主席请演讲者继续他的报告。",
+    "analysis": {
+      "advance": "主要用于具体的人或物，也可指科学技术和运动等。",
+      "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。",
+      "proceed": "侧重指继续前进。",
+      "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
+    },
+    "target_word": "proceed",
+    "distractor_analysis": {
+      "advance": "（前进、推进）侧重空间位置上的向前移动，或指事物的进步与发展，通常不与with连用表示继续做某事。",
+      "progress": "（进步、进展）强调事物向更好的方向发展或取得成效，多作名词或不及物动词，不用于progress with doing sth.的结构。",
+      "proceed": "（继续进行）强调在停顿或被打断之后继续进行某事，常搭配proceed with sth.（继续做某事）。完全契合“短暂休息后继续报告”的语境。",
+      "go": "（去、走）泛指移动或离开，虽可表示事物进行，但不如proceed正式，且一般不搭配go with sth.来表示“继续某事”。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_ch1_06"
+  },
+  {
+    "id": "tem4_col_133",
+    "level": "TEM-4",
+    "group_name": "discern, discriminate, distinguish",
+    "question": "It is sometimes difficult for young children to ___ between reality and fantasy in movies.",
+    "options": [
+      "discern",
+      "discriminate",
+      "distinguish",
+      "separate"
+    ],
+    "answer": "distinguish",
+    "translation": "对于小孩子来说，有时候很难区分电影中的现实和幻想。",
+    "analysis": {
+      "discern": "语义较笼统，着重精深与准确的观察力，不一定有能分辨关系密切的各项事物的含义。",
+      "discriminate": "语气强，指从十分相似的事物中辨出差异，尤其把好坏区分开来。",
+      "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧。",
+      "separate": "指把两个人或物分开，着重从原属一个整体中移居一部分或把两者隔开。"
+    },
+    "target_word": "distinguish",
+    "distractor_analysis": {
+      "discern": "（辨别、看出）侧重通过感官或智力费力地觉察、看清或识别出模糊不清的事物，但不常与between搭配。",
+      "discriminate": "（辨别、歧视）侧重于识别出事物之间的细微差别或对不同群体加以区别对待（歧视），语气较正式且有特定感情色彩。",
+      "distinguish": "（区分、辨别）最普通的用词，指根据特征辨别事物之间的不同，常搭配distinguish between A and B（区分A和B），完全契合语境。",
+      "separate": "（分开、分离）侧重把混合在一起的或连在一起的实体物理地拆分或隔离开来，而不是指认知上的辨别。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_ch1_08"
+  },
+  {
+    "id": "tem4_col_134",
+    "level": "TEM-4",
+    "group_name": "achievement, accomplishment, feat",
+    "question": "Climbing Mount Everest without supplemental oxygen is widely regarded as a remarkable ___ of human endurance.",
+    "options": [
+      "achievement",
+      "accomplishment",
+      "feat",
+      "progress"
+    ],
+    "answer": "feat",
+    "translation": "在没有补充氧气的情况下攀登珠穆朗玛峰被广泛认为是人类耐力的一项非凡壮举。",
+    "analysis": {
+      "achievement": "指需要勇气和努力才能完成的异常危险和困难的事，其结果令人敬佩",
+      "accomplishment": "需要学问或付出一定劳动后才能且已经完成的或做好了的事",
+      "feat": "指需要极大的勇气、智慧和力量或技术获得的成就，这一成就受人瞩目和佩服",
+      "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。"
+    },
+    "target_word": "feat",
+    "distractor_analysis": {
+      "achievement": "（成就、成绩）普通用词，指通过努力和技能获得的成功或达到的目标，但不一定具有极高的冒险性或传奇色彩。",
+      "accomplishment": "（成就、造诣）多指通过长期的练习或学习在某一领域获得的素养或完成的任务，侧重于“完成”。",
+      "feat": "（壮举、功绩）尤指需要巨大的勇气、力量、技巧或耐力才能完成的极不寻常的英雄事迹或杰出成就。极其契合“无氧攀登珠峰”的语境。",
+      "progress": "（进步、进展）指向前发展或有所改善的过程，不表示一项具体的伟大事迹或成就。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_ch1_12"
+  },
+  {
+    "id": "tem4_col_135",
+    "level": "TEM-4",
+    "group_name": "subject, topic, title",
+    "question": "The main ___ of the seminar was how artificial intelligence will change the future of work.",
+    "options": [
+      "subject",
+      "topic",
+      "title",
+      "suggestion"
+    ],
+    "answer": "topic",
+    "translation": "研讨会的主要话题是人工智能将如何改变未来的工作。",
+    "analysis": {
+      "subject": "指文章、谈话等的主要内容或是标题",
+      "topic": "一般指话题",
+      "title": "用于书籍、文章的标题，但有时可与subject互换",
+      "suggestion": "着重为改进工作、解决困难等提出的建议，有时含所提建议不一定正确，仅供参考的意味"
+    },
+    "target_word": "topic",
+    "distractor_analysis": {
+      "subject": "（主题、科目）范围较广，通常指文章、谈话、研究等的中心思想或学科分类，较为宏观。",
+      "topic": "（话题、论题）指谈话、讨论、文章或会议中具体涉及的话题或题目，侧重于大家讨论的具体焦点。符合“研讨会讨论的话题”的语境。",
+      "title": "（标题、名称）仅指书籍、文章、艺术作品等的名称或人的头衔，不代表讨论的实质内容。",
+      "suggestion": "（建议、提议）指提出的主意或计划，不表示会议的讨论主题。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_ch1_14"
+  },
+  {
+    "id": "tem4_col_136",
+    "level": "TEM-4",
+    "group_name": "allow, permit, let, admit",
+    "question": "The theater rules clearly state that they will not ___ anyone into the auditorium after the performance has started.",
+    "options": [
+      "allow",
+      "permit",
+      "let",
+      "admit"
+    ],
+    "answer": "admit",
+    "translation": "剧院的规定明确指出，演出开始后他们不会允许任何人进入观众席。",
+    "analysis": {
+      "allow": "常指听任或默许某人去做，含有消极地不加反对或阻止的意思，也有表示客气的请求",
+      "permit": "常指法令的允许或不允许，也能表示含有积极地同意某人去做;表示允许时，能和allow可以互换",
+      "let": "指积极允许，不加反对或阻止，但不能用于被动结构",
+      "admit": "指允许某人进入某场所、单位或加入某单位、组织"
+    },
+    "target_word": "admit",
+    "distractor_analysis": {
+      "allow": "（允许）泛指听任、不加阻止，多接allow sb to do sth结构，若表“允许进入”较少直接用allow sb into。",
+      "permit": "（许可）相比allow更为正式，常指法律或制度上的批准，同样较少单独表达“准许进入某地”。",
+      "let": "（让、允许）最口语化，通常接不带to的不定式(let sb do sth)，不符合该句较正式的语境。",
+      "admit": "（准许进入、接纳）特指允许某人进入某场所或加入某组织，搭配admit sb into/to...是固定用法。极其契合“准许进入观众席”的语境。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_ch1_16"
+  },
+  {
+    "id": "tem4_col_137",
+    "level": "TEM-4",
+    "group_name": "descend, drop, fall, sink",
+    "question": "When the captain realized the ship was taking on water rapidly, he ordered everyone to evacuate the vessel before it began to ___ to the bottom of the ocean.",
+    "options": [
+      "descend",
+      "drop",
+      "fall",
+      "sink"
+    ],
+    "answer": "sink",
+    "translation": "当船长意识到船只在迅速进水时，他命令所有人撤离，以免船开始沉入海底。",
+    "analysis": {
+      "descend": "通常指沿斜线或斜坡下降。",
+      "drop": "指物体从一定高度落下。",
+      "fall": "指突然或猛烈地降落，也可指任何下落，同高度或形式无关。",
+      "sink": "指在空气或水中垂直下降、下沉。"
+    },
+    "target_word": "sink",
+    "distractor_analysis": {
+      "descend": "（下降）正式用词，指平稳地从高处向低处移动，如飞机降落或走下楼梯，不用于船只沉没。",
+      "drop": "（掉落）强调物体由于重力作用突然、快速地垂直下落，如杯子从手中掉落。",
+      "fall": "（落下、跌倒）最普通用词，指失去平衡而倒下，或自由落体式地掉下，不指在水中下沉。",
+      "sink": "（下沉）专指在水、泥沙等液体或半液体物质中往下沉，特指船只沉没或落水者下沉，完全契合语境。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_201_a9f3b2"
+  },
+  {
+    "id": "tem4_col_138",
+    "level": "TEM-4",
+    "group_name": "dead, dying",
+    "question": "The soldier lay on the battlefield, holding onto his final breath, with a ___ wish to see his family one last time.",
+    "options": [
+      "dead",
+      "dying",
+      "deadly",
+      "deathly"
+    ],
+    "answer": "dying",
+    "translation": "士兵躺在战场上，吊着最后一口气，怀着再见家人最后一面的临终愿望。",
+    "analysis": {
+      "dead": "指已停止呼吸和心脏跳动，与alive(活着的)相对。",
+      "dying": "指奄奄一息，行将死亡。",
+      "deadly": "致命的，致死的，作为干扰项。",
+      "deathly": "死一般的，作为干扰项。"
+    },
+    "target_word": "dying",
+    "distractor_analysis": {
+      "dead": "（死亡的）状态形容词，指生命已经完全结束。士兵还“吊着最后一口气”，即尚未死亡，因此不能用dead。",
+      "dying": "（临终的、垂死的）指生命即将结束但尚未结束的过程或状态，dying wish（临终遗愿）是固定搭配，符合语境。",
+      "deadly": "（致命的）指能导致死亡的事物，如致命的毒药(deadly poison)，不能用来形容愿望。",
+      "deathly": "（死一般的）常修饰状态，指像死了一样寂静或苍白，如deathly pale（死一样苍白），不修饰愿望。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_203_b5f7a2"
+  },
+  {
+    "id": "tem4_col_139",
+    "level": "TEM-4",
+    "group_name": "act, action, deed",
+    "question": "The firefighter was awarded a medal of bravery for his heroic ___ of saving three children from the blazing building.",
+    "options": [
+      "act",
+      "action",
+      "deed",
+      "behavior"
+    ],
+    "answer": "deed",
+    "translation": "那名消防员因从熊熊燃烧的大楼中救出三名儿童的英勇伟大事迹而被授予英勇奖章。",
+    "analysis": {
+      "act": "各自的和单一的行为，强调行为的结果。",
+      "action": "整体的行为，常用在机械、物理用语中。",
+      "deed": "较为庄重、显著、伟大而感人的行为，且具有持久性。",
+      "behavior": "行为、举止，作为干扰项。"
+    },
+    "target_word": "deed",
+    "distractor_analysis": {
+      "act": "（行为、动作）普通用词，指短暂的、具体的某一次行动或举动，感情色彩中性。",
+      "action": "（行动）强调正在进行的动作过程或一系列行为，侧重于做事的活跃状态，少用于指代具体的某一件好人好事。",
+      "deed": "（事迹、行为）尤指具有高尚道德色彩、值得赞扬的伟大行为或英雄事迹，常与heroic连用。非常符合“英勇救人的事迹”的语境。",
+      "behavior": "（举止、行为表现）侧重指一个人长期的行为方式或在某些场合下的修养与态度，不指单次的英雄壮举。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_204_f1a2b3"
+  },
+  {
+    "id": "tem4_col_140",
+    "level": "TEM-4",
+    "group_name": "adequate, enough, sufficient",
+    "question": "Her performance in the play wasn't brilliant, but it was ___ for an amateur community production.",
+    "options": [
+      "adequate",
+      "enough",
+      "sufficient",
+      "abundant"
+    ],
+    "answer": "adequate",
+    "translation": "她在剧中的表演算不上出色，但对于一个业余的社区制作来说已经足够了。",
+    "analysis": {
+      "adequate": "常含有“充分但刚好足够之程度”的意思。",
+      "enough": "指数量、份量或程度能满足一种愿望，特别是物质上的需要。",
+      "sufficient": "指数量上尤指程度上多能满足或达到某种特殊需要。",
+      "abundant": "丰富的，充裕的，作为干扰项。"
+    },
+    "target_word": "adequate",
+    "distractor_analysis": {
+      "adequate": "（足够的、合格的）强调数量或质量上正好能满足某种特定标准或要求，通常暗含“刚好达标，但不算特别优秀”的意味。符合“表现不惊艳但够用”的语境。",
+      "enough": "（足够的）最普通用词，强调数量或程度上满足需要，不侧重质量上的“合格、差强人意”之感。",
+      "sufficient": "（充足的）较正式，不仅指满足基本需求，还含有非常充裕、绰绰有余的意味，用来形容业余演出的基本达标略显过高。",
+      "abundant": "（丰富的、大量的）指数量极多，远远超过所需，常形容资源、降水等，不能用于形容表演水平。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_205_e4c8d1"
+  },
+  {
+    "id": "tem4_col_141",
+    "level": "TEM-4",
+    "group_name": "discharge, dismiss, fire",
+    "question": "After being caught repeatedly ignoring safety regulations, the construction worker was ___ on the spot without any further warnings.",
+    "options": [
+      "discharged",
+      "dismissed",
+      "fired",
+      "resigned"
+    ],
+    "answer": "fired",
+    "translation": "在多次被发现在无视安全规定后，这名建筑工人被当场干脆利落地解雇，没有任何进一步的警告。",
+    "analysis": {
+      "discharged": "语气较重，指有理由的解雇，含几乎不再复用的意味。",
+      "dismissed": "正式用词，是这组词中语气最轻的一个词，一般只有从上文才能看解雇的原因或理由。",
+      "fired": "口语用词，多指被断然地突然解雇，其行动犹如开枪一样干净利落。",
+      "resigned": "辞职，作为干扰项。"
+    },
+    "target_word": "fired",
+    "distractor_analysis": {
+      "discharged": "（解雇、允许离开）偏向中性或正式，可指因完成任务或生病而被准许离开（如出院、退伍），少用于因犯错被当场炒鱿鱼。",
+      "dismissed": "（解雇、遣散）正式用词，指上级让下级离开或解除职务，但不一定带有强烈的惩罚性质，语气较fire平缓。",
+      "fired": "（开除、解雇）口语化且语气强烈，特指员工因犯错、表现不佳而遭到强制性的开除，与“因屡次违规被当场赶走”的情境完全契合。",
+      "resigned": "（辞职）为主动行为，指自己主动放弃职位，而语境是工人被动受罚。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_207_a9f3b2"
+  },
+  {
+    "id": "tem4_col_142",
+    "level": "TEM-4",
+    "group_name": "devise, conceive, formulate",
+    "question": "After weeks of careful research and meetings, the management team was finally able to ___ a detailed plan of attack for the new market entry.",
+    "options": [
+      "devise",
+      "conceive",
+      "formulate",
+      "create"
+    ],
+    "answer": "formulate",
+    "translation": "经过数周的仔细研究和会议，管理团队终于能够为进入新市场制定出具体的进攻计划。",
+    "analysis": {
+      "devise": "侧重设计的临时性和权宜性，并隐含有更多的设想可用。",
+      "conceive": "强调在制定计划之前的先有设想构思。",
+      "formulate": "与conceive相反，指在devise之后的具体设计活动，制定计划等。",
+      "create": "创造，普通用词，作为干扰项。"
+    },
+    "target_word": "formulate",
+    "distractor_analysis": {
+      "devise": "意为“设计，发明”，侧重于想出新颖或巧妙的方法、计划，具有一定的独创性和智力投入。",
+      "conceive": "意为“构思，设想”，强调在头脑中孕育想法或概念的初期阶段，较少涉及具体的细节制定。",
+      "formulate": "意为“系统地阐述，规划”，强调经过深思熟虑、有条理地制定出详细的计划或方案（如a plan），常与详细步骤、政策等搭配，符合本题语境中制定“具体的计划”。",
+      "create": "意为“创造，创作”，是一个较通用的词，强调从无到有地产生新事物，但不特指系统性地“制定”计划。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_209_c8d1e4"
+  },
+  {
+    "id": "tem4_col_143",
+    "level": "TEM-4",
+    "group_name": "anxious, eager, keen",
+    "question": "Ever since she was a little girl, she has been very ___ on collecting rare stamps from around the world.",
+    "options": [
+      "anxious",
+      "eager",
+      "keen",
+      "nervous"
+    ],
+    "answer": "keen",
+    "translation": "从小她就非常热衷于收集世界各地的珍稀邮票。",
+    "analysis": {
+      "anxious": "强调因忧虑、关注或害怕而产生的急切心情。",
+      "eager": "侧重于急于成功的迫切心情。",
+      "keen": "强调因兴趣强烈或欲望而急于做某事。",
+      "nervous": "紧张的，担忧的，作为干扰项。"
+    },
+    "target_word": "keen",
+    "distractor_analysis": {
+      "anxious": "意为“焦急的，渴望的”，通常搭配for或to do，强调由于担忧或不安而产生的一种迫切期待。",
+      "eager": "意为“渴望的，热切的”，搭配for或to do，强调对某事抱有极大的热情和积极的渴望。",
+      "keen": "意为“热衷的，渴望的”，常与介词on搭配（be keen on sth/doing sth），表示对某项爱好或活动表现出浓厚的兴趣和热情，固定搭配决定了它是本题唯一选项。",
+      "nervous": "意为“紧张的，神经质的”，常搭配about/of，表示对即将发生的事情感到害怕或不安，与句意“热衷于集邮”不符。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"on\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_212_e4c8d1"
+  },
+  {
+    "id": "tem4_col_144",
+    "level": "TEM-4",
+    "group_name": "apparent, obvious, evident, clear, plain, distinct, definite, manifest",
+    "question": "The celebrity wore a large hat and dark sunglasses, for ___ reasons, hoping to avoid being recognized by the paparazzi.",
+    "options": [
+      "apparent",
+      "obvious",
+      "evident",
+      "manifest"
+    ],
+    "answer": "obvious",
+    "translation": "出于显而易见的原因，这位名人戴着大帽子和黑墨镜，希望避免被狗仔队认出来。",
+    "analysis": {
+      "apparent": "强调显而易见或一想便知。有时含有表面如此而事实上未必的意味。",
+      "obvious": "语气较强，指极为明显，有目共睹，无需说明和论证。",
+      "evident": "指根据事实成为显然的。",
+      "manifest": "语义较强，书面用词，强调一目了然，暗示不要任何推论就一清二楚。"
+    },
+    "target_word": "obvious",
+    "distractor_analysis": {
+      "apparent": "意为“表面上的，明显的”，有时暗含“表面看如此，但实际上可能并非这样”的意味，语气较弱。",
+      "obvious": "意为“明显的，显而易见的”，指事情极为清晰，凭常识一眼就能看出来。固定搭配“for obvious reasons（出于显而易见的原因）”是惯用语。",
+      "evident": "意为“明显的，明白的”，通常侧重于有事实或证据作为基础而得出明显的结论。",
+      "manifest": "意为“明显的，显露的”，多用于书面语，指行为、态度等不仅明显，而且几乎毫无掩饰地展现出来。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_215_c8d1e4"
+  },
+  {
+    "id": "tem4_col_145",
+    "level": "TEM-4",
+    "group_name": "ability, capacity, capability, genius, talent, competence, faculty, gift, aptitude",
+    "question": "The newly hired engineer quickly demonstrated his professional ___ by successfully resolving the critical system failure.",
+    "options": [
+      "competence",
+      "capacity",
+      "faculty",
+      "genius"
+    ],
+    "answer": "competence",
+    "translation": "这位新聘用的工程师通过成功解决关键系统故障，很快证明了他的专业业务能力。",
+    "analysis": {
+      "competence": "正式用词，侧重指令人满意的业务能力与水平，达到胜任某项工作等的要求。",
+      "capacity": "侧重指人的潜在能力，通常不指体力，多指才智，尤指接受与领悟能力。",
+      "faculty": "指特殊的才能或智力。",
+      "genius": "语气最强，指天赋的高度才能与智力。"
+    },
+    "target_word": "competence",
+    "distractor_analysis": {
+      "competence": "意为“能力，胜任”，特指具备胜任某一特定工作、任务或职业所需的专业知识和技能（professional competence），正好切合语境中“解决关键故障的业务能力”。",
+      "capacity": "意为“容量，能力”，多指人或事物接受、容纳或吸收的能力，也指固有的潜在能力，较少直接用来指代工作胜任力。",
+      "faculty": "意为“机能，天赋”，常指人与生俱来的身体机能（如听觉）或心理能力（如记忆力、推理力）。",
+      "genius": "意为“天才，天赋”，指极高的、超乎常人的创造力或智力，对于解决一次系统故障而言，词义显得过于夸张。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"by\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk3_01"
+  },
+  {
+    "id": "tem4_col_146",
+    "level": "TEM-4",
+    "group_name": "absorb, suck, digest, incorporate",
+    "question": "The new curriculum was designed to ___ the latest scientific discoveries into the textbooks.",
+    "options": [
+      "absorb",
+      "suck",
+      "digest",
+      "incorporate"
+    ],
+    "answer": "incorporate",
+    "translation": "新课程旨在将最新的科学发现融入教科书中。",
+    "analysis": {
+      "incorporate": "指一物或多物与它物相融合，形成一整体。",
+      "absorb": "普通用词，词义广泛，既可指吸收光、热、液体等具体东西，又可指吸收知识等抽象概念的东西。",
+      "suck": "作“吸收”解时，可与absorb换用，但还可有“吮吸”之意。",
+      "digest": "侧重在消化道内改变食物的化学结构后被人体吸收。"
+    },
+    "target_word": "incorporate",
+    "distractor_analysis": {
+      "absorb": "意为“吸收，理解”，常指物质吸收液体、光热，或人吸收知识，侧重于将外物吸纳进体内或脑海中。",
+      "suck": "意为“吸，吮吸”，主要指用嘴或吸力将液体或气体吸入，是具体的物理动作。",
+      "digest": "意为“消化，领悟”，多指消化食物或彻底理解、融会贯通某种信息。",
+      "incorporate": "意为“把...并入，将...包含在内”，常与into搭配（incorporate sth into sth），强调将新事物作为不可分割的一部分合并或编入原有体系（如将新发现编入教科书）中，符合句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk3_05"
+  },
+  {
+    "id": "tem4_col_147",
+    "level": "TEM-4",
+    "group_name": "accept, receive, admit, take",
+    "question": "Due to his outstanding academic performance, the university decided to ___ him into their prestigious graduate program.",
+    "options": [
+      "accept",
+      "receive",
+      "admit",
+      "take"
+    ],
+    "answer": "admit",
+    "translation": "由于他优异的学术表现，大学决定录取他进入他们享有盛誉的研究生项目。",
+    "analysis": {
+      "admit": "作“接受”讲时，强调准许或批准。",
+      "accept": "强调主动地或自愿地接受，或者说，经过考虑后同意接受。",
+      "receive": "着重仅仅接到或收到事实，而不含采取主动或积极行动的意思。",
+      "take": "与receive同义，是receive的日常用法，侧重不带主观意愿地收下或接受。"
+    },
+    "target_word": "admit",
+    "distractor_analysis": {
+      "accept": "意为“接受，同意”，表示主观上愿意收下或赞同某事物，虽然可指接受某人，但不如admit专业。",
+      "receive": "意为“收到，接待”，侧重被动地接到物品或客观上招待客人，不指学校的录取。",
+      "admit": "意为“准许进入，录取”，特指机构（如学校、医院等）接收或准许某人加入、进入，固定搭配admit sb into/to（录取某人进入某项目），是表示学术录取的标准用词。",
+      "take": "意为“拿，接受”，是个万能词，口语中可表示接纳，但在正式公文中描述大学“录取”，显得不够规范和严谨。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk3_07"
+  },
+  {
+    "id": "tem4_col_148",
+    "level": "TEM-4",
+    "group_name": "accompany, conduct, attend, escort",
+    "question": "Heavily armed security guards will ___ the valuable artwork while it is being transported to the national museum.",
+    "options": [
+      "accompany",
+      "conduct",
+      "attend",
+      "escort"
+    ],
+    "answer": "escort",
+    "translation": "在这件珍贵的艺术品被运往国家博物馆的途中，全副武装的保安人员将进行护送。",
+    "analysis": {
+      "escort": "通常指用车或人在陆上伴随、护送，其目的是保护或出于礼节。",
+      "accompany": "既可指人也可指物。用于人时，侧重关系紧密或同时发生。",
+      "conduct": "无论用于人或物均指引导带领。",
+      "attend": "侧重主从关系，即下级对上级，学生对老师等，或表恭、服侍。"
+    },
+    "target_word": "escort",
+    "distractor_analysis": {
+      "accompany": "意为“陪伴，伴随”，一般指作为平等的同伴陪同某人或伴随某事发生，不带有提供保护的含义。",
+      "conduct": "意为“引导，带领”，侧重于指引方向或带领某人参观，也作“指挥”解。",
+      "attend": "意为“出席，照料”，作及物动词时多表示参加会议或侍候、照顾，不用于武装安保。",
+      "escort": "意为“护卫，护送”，特指为了防范危险或出于礼仪，派遣武装人员或车队对重要人物、贵重物品（如艺术品）进行随行保护，最契合句中的安保语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk3_09"
+  },
+  {
+    "id": "tem4_col_149",
+    "level": "TEM-4",
+    "group_name": "acquire, obtain, gain, get, win, earn, secure",
+    "question": "After years of intense study and practice in foreign countries, she managed to ___ a near-native fluency in English.",
+    "options": [
+      "acquire",
+      "obtain",
+      "secure",
+      "earn"
+    ],
+    "answer": "acquire",
+    "translation": "在国外经过多年的刻苦学习和实践，她逐渐获得了近乎母语水平的英语流利度。",
+    "analysis": {
+      "acquire": "强调通过不断的、持续的努力而获得某物，也指日积月累地渐渐地获得。书面语用词。",
+      "obtain": "较正式用词，着重通过巨大努力、要求而得到所需或盼望已久的东西。",
+      "secure": "强调要通过努力或竞争，或需要付出代价才能获得所渴望的东西。",
+      "earn": "侧重指依靠自己的劳动或因付出代价与有功而获得。"
+    },
+    "target_word": "acquire",
+    "distractor_analysis": {
+      "acquire": "获得（技能、知识、习惯等），侧重于通过漫长过程和努力逐渐习得。符合句意中通过多年学习和实践获得语言流利度。",
+      "obtain": "获得、得到，通常指经过努力、请求或计划而得到某物，侧重于得到实体物品或特定结果，不常用于修饰语言流利度等内在技能。",
+      "secure": "获得、弄到、保卫，强调克服困难将某物牢牢掌握或确保其安全，常接工作、合同、席位等，较少搭配语言能力。",
+      "earn": "赚得、赢得，侧重于因付出劳动或有价值的行为而获得报酬、名声或地位（如earn money/respect），不搭配语言技能。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk3_13"
+  },
+  {
+    "id": "tem4_col_150",
+    "level": "TEM-4",
+    "group_name": "adapt, adjust, conform, accommodate, suit, fit",
+    "question": "Before you start driving the rental car, make sure to ___ the rearview mirrors and the seat to your height.",
+    "options": [
+      "adapt",
+      "adjust",
+      "conform",
+      "accommodate"
+    ],
+    "answer": "adjust",
+    "translation": "在开始驾驶租来的汽车之前，请务必根据你的身高调整后视镜和座椅。",
+    "analysis": {
+      "adjust": "所改变的幅度要小一些，侧重过程，主要用于调整角度、高度、光点等。",
+      "adapt": "指人或物在原有情况下作某些改变以适应新的环境或不同的条件，强调改变的目的和重要性。",
+      "conform": "多指与某模式或规则相符，也引申指改变习惯等以适应新的环境。",
+      "accommodate": "书面用词，指以外部条件标准改变自己或某事以求得适应，着重改变或调节的有利。"
+    },
+    "target_word": "adjust",
+    "distractor_analysis": {
+      "adapt": "使适应、改编，通常指为适应新的环境或用途而做出较大幅度的改变或改造（如适应新气候、改编小说），不用于调节机器部件。",
+      "adjust": "调整、调节，指对机械、装置或位置进行微调，使其达到正确、合适的状态，符合句中调节后视镜和座椅的语境。",
+      "conform": "使一致、遵从，强调行为或思想与规则、标准、习俗相一致（常搭配to/with），不表示物理上的调节。",
+      "accommodate": "容纳、迎合、提供住宿，指提供空间以容纳某人/某物，或改变做法以迎合他人需求，不用于调节物理设备。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk3_16"
+  },
+  {
+    "id": "tem4_col_151",
+    "level": "TEM-4",
+    "group_name": "addition, appendix, attachment, supplement, accessory",
+    "question": "The author included a detailed bibliography in the ___ at the end of the book.",
+    "options": [
+      "addition",
+      "appendix",
+      "attachment",
+      "supplement"
+    ],
+    "answer": "appendix",
+    "translation": "作者在书末的附录中加入了一份详细的参考书目。",
+    "analysis": {
+      "addition": "仅强调数量的增加。",
+      "appendix": "指书末的附录。",
+      "attachment": "指用于扩大原物用途的附件。",
+      "supplement": "主要指使书、报等正广更完善而额外增加的部分。",
+      "accessory": "作“附件”解时，与attachment同义，可互换，但还指增加美观的附属品。"
+    },
+    "target_word": "appendix",
+    "distractor_analysis": {
+      "addition": "增加物、附加物，泛指加进去的任何事物，是一个通用词汇，不能特指书籍末尾的专门结构。",
+      "appendix": "附录，专指书籍、文件末尾的附加部分（如参考书目、图表等），通常与正文相关但可独立存在，完全匹配“书末的参考书目”语境。",
+      "attachment": "附件，通常指电子邮件中附带的文件，或物理上连接在一起的装置，不用于指代书籍的附录。",
+      "supplement": "补充物、增刊，侧重于补充现有事物的不足（如营养补充剂）或作为书籍、报纸的独立增刊，不像appendix那样指书中固有的结尾部分。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"at\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_01"
+  },
+  {
+    "id": "tem4_col_152",
+    "level": "TEM-4",
+    "group_name": "additional, extra, supplementary",
+    "question": "There is an ___ charge for using the hotel's swimming pool.",
+    "options": [
+      "additional",
+      "extra",
+      "supplementary",
+      "external"
+    ],
+    "answer": "extra",
+    "translation": "使用酒店的游泳池需要支付额外费用。",
+    "analysis": {
+      "additional": "由名词addition派生出的形容词，指在原有基础上添加上去的。",
+      "extra": "指不包括本身而额外加上去的部分。",
+      "supplementary": "由名词supplement派生而来，指对原有的追加或补充。"
+    },
+    "target_word": "extra",
+    "distractor_analysis": {
+      "additional": "附加的、额外的，指在原有数量或内容上的增加，偏向于“更多相同的”，不如extra在费用上强调“额外超出规定”的语气强。",
+      "extra": "额外的、另外收费的，常专门用来指超出常规、定额或基本服务之外的部分，搭配费用（extra charge/fee）是固定且最常见的地道用法。",
+      "supplementary": "补充的、追加的，侧重于弥补原有的不足或欠缺，常用于说明书、资料或条款的补充，极少用于“额外收费”。",
+      "external": "外部的、外表的，指在物体外面或与外界有关的，与“费用”无关，不符合句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk4_02"
+  },
+  {
+    "id": "tem4_col_153",
+    "level": "TEM-4",
+    "group_name": "address, speech, lecture, oration, report, talk",
+    "question": "The president delivered a televised ___ to the nation regarding the recent economic crisis.",
+    "options": [
+      "address",
+      "lecture",
+      "oration",
+      "talk"
+    ],
+    "answer": "address",
+    "translation": "总统就最近的经济危机向全国发表了正式的电视演说。",
+    "analysis": {
+      "address": "正式用词，指在庄严隆重的场合作精心准备的演讲或正式演说。",
+      "speech": "普通用词，指一般的发言或讲话，可以是事先准备的，也可以是即席的。",
+      "lecture": "侧重带学术性的演讲。",
+      "oration": "常指在特殊场合，辞藻华丽，形式庄重，旨在激发听众感情的正式演说。",
+      "report": "一般是指下级给上级或负责人给委托机关的书面或口头报告。",
+      "talk": "常用词，强调非正式讲话，讲话方式一般较为自由。"
+    },
+    "target_word": "address",
+    "distractor_analysis": {
+      "address": "演说、致辞，指正式的、面向公众或特定听众的重要讲话，尤其是政治家或领导人发表的演讲（如总统就职演说），非常契合电视演说的语境。",
+      "lecture": "讲座、授课，指在学术或教育场合对特定学科进行的系统性演讲，带有教育性质，不适合总统对国民的讲话。",
+      "oration": "演说、致辞，通常指在极其隆重的仪式（如葬礼、庆典）上发表的华丽且充满感情的正式演讲，语气过于戏剧化，不如address常用。",
+      "talk": "讲话、谈话，指非正式的、日常的交流或简短的发言，缺乏总统就国家危机发表演说的正式感。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_04"
+  },
+  {
+    "id": "tem4_col_154",
+    "level": "TEM-4",
+    "group_name": "admire, honor, respect, regard, esteem",
+    "question": "We should always show deep ___ for the elderly and value their rich life experiences.",
+    "options": [
+      "admire",
+      "honor",
+      "respect",
+      "esteem"
+    ],
+    "answer": "respect",
+    "translation": "我们应该始终对长者表现出深深的尊重，并珍视他们丰富的生活经验。",
+    "analysis": {
+      "admire": "侧重指对某人或某物的仰慕、钦佩，并含欣赏爱慕之情。",
+      "honor": "侧重指对某人或某物表示极大的敬意。",
+      "respect": "指对人的行为、品德、才华或成就等的仰慕尊重。尤指对年长或地位高的人的尊敬。",
+      "regard": "最正式用词，中性，含义不很明确，一般需用修饰语加强或明确其意。",
+      "esteem": "除表示尊敬之外，还暗示由此而产生的称赞。"
+    },
+    "target_word": "respect",
+    "distractor_analysis": {
+      "admire": "钦佩、赞赏，强调对某人的才华、外貌或成就感到惊叹和羡慕，不常用于对长辈的“尊敬”。",
+      "honor": "尊敬、给予荣誉，通常指因极高的成就或地位而受到公开的表彰或崇高的敬意，程度较深且带有仪式感。",
+      "respect": "尊重、尊敬，指对某人的品质、经验、地位或权利给予适当的重视和敬重，是最常用的表示“尊老”的词汇，搭配show respect for。",
+      "esteem": "敬重、尊重，词义与respect相近，但更加正式且书面化，通常用作动词（hold someone in high esteem），较少直接搭配show deep esteem。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_05"
+  },
+  {
+    "id": "tem4_col_155",
+    "level": "TEM-4",
+    "group_name": "adult, grown-up, mature",
+    "question": "The young man is very ___ for his age, always handling conflicts with great calmness.",
+    "options": [
+      "adult",
+      "grown-up",
+      "mature",
+      "childish"
+    ],
+    "answer": "mature",
+    "translation": "这个年轻人有着超出他年龄的成熟，总是非常冷静地处理冲突。",
+    "analysis": {
+      "adult": "一般指生理上的童年期已结束，达到法定年龄。",
+      "grown-up": "多用于口语，含义与adult基本相同，但更侧重脱离儿童阶段，已成大人，与childish意思相反。",
+      "mature": "用于生物时，指完全长好了。用于人时，指达到了生命的黄金时期，但所暗示的青少年和成年之间的界限不明显。"
+    },
+    "target_word": "mature",
+    "distractor_analysis": {
+      "adult": "成年的、成年人的，主要作为名词使用或指生理上的发育完成，较少用来形容年轻人的心理成熟度。",
+      "grown-up": "成年的、大人的，多为儿童使用的口语词汇，指长大了的，不常用于修饰青年人处事冷静的特质。",
+      "mature": "成熟的，不仅可指生理上的发育完全，更常用于形容心理、智力或行为举止上成熟稳重、理智，非常契合句中“超出年龄的冷静处理方式”。",
+      "childish": "幼稚的、孩子气的，与句意中冷静处理冲突的稳重表现完全相反。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"for\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_07"
+  },
+  {
+    "id": "tem4_col_156",
+    "level": "TEM-4",
+    "group_name": "advance, progress, proceed, move on, go",
+    "question": "After a brief introduction, the chairman asked the speaker to ___ with the main topic of the presentation.",
+    "options": [
+      "advance",
+      "progress",
+      "proceed",
+      "move on"
+    ],
+    "answer": "proceed",
+    "translation": "简短介绍后，主席请演讲者继续进行演示的主题。",
+    "analysis": {
+      "advance": "主要用于具体的人或物，也可指科学技术和运动等。",
+      "progress": "指按某一既定目标前进，取得发展，目的性很明确，强调经常和稳定地前进。",
+      "proceed": "侧重指继续前进。",
+      "move on": "非正式用语，侧重从某一停止点向某地前进，但不表示前进的目的地。",
+      "go": "最常用词，含义宽泛而不确切，依上文确定其具体意思。"
+    },
+    "target_word": "proceed",
+    "distractor_analysis": {
+      "advance": "前进、推进，指物理位置上的向前移动，或事物的发展、进步（如科技发展），不能后接with表示“继续进行某事”。",
+      "progress": "进步、进展，指事物朝着更好的方向发展或改善，是一个不可及物动词或名词，不能搭配with。",
+      "proceed": "继续进行、着手做，指在停顿或被打断之后继续某项活动，常搭配with（proceed with sth.），完美契合“简短介绍后继续进行演讲主题”的语境。",
+      "move on": "转移（话题）、继续前进，通常指放下当前的事情转向下一个新的话题或阶段（常搭配to），而非继续当前停顿的主题。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"with\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_08"
+  },
+  {
+    "id": "tem4_col_157",
+    "level": "TEM-4",
+    "group_name": "advantage, benefit, interest, favor, profit, gain",
+    "question": "The company's primary goal this quarter is to maximize its ___ by significantly reducing production costs.",
+    "options": [
+      "advantage",
+      "benefit",
+      "interest",
+      "profit"
+    ],
+    "answer": "profit",
+    "translation": "公司本季度的主要目标是通过大幅降低生产成本来使利润最大化。",
+    "analysis": {
+      "advantage": "指因某方面占优势或利用某机会以及对方弱点而获得利益与好处。",
+      "benefit": "普通用词，指通过正当手段从物质或精神方面得到的任何好处或利益。",
+      "interest": "作“利益”解时，多用复数形式，既可指集团、群体的利益，又可指个人的利益。",
+      "favor": "指在竞争中获得的advantage,也可指在狭隘的个人利益。",
+      "profit": "着重收益，尤指从物质、钱财等方面获得的利益。",
+      "gain": "指获得的物质利益，也暗示不损坏他人利益而得的无形好处。"
+    },
+    "target_word": "profit",
+    "distractor_analysis": {
+      "advantage": "优势、有利条件，指在竞争中处于比对手更好的地位，不可通过“降低生产成本”来直接最大化。",
+      "benefit": "益处、福利，泛指对身心、社会或生活有帮助的利益，或指员工福利，较少用作商业上纯财务指标的“利润”。",
+      "interest": "利益、利息、兴趣，指个人或群体的切身利益，或银行存款的利息，不符合公司通过降本增效追求的营业目标。",
+      "profit": "利润、收益，专指商业活动中收入减去成本后的财务盈余，通过“降低生产成本来最大化”是标准的商业语境，完全符合句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"by\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_09"
+  },
+  {
+    "id": "tem4_col_158",
+    "level": "TEM-4",
+    "group_name": "back, backward, hind, behind",
+    "question": "The rabbit suddenly stood up on its ___ legs to get a better view of the approaching predator.",
+    "options": [
+      "back",
+      "backward",
+      "hind",
+      "behind"
+    ],
+    "answer": "hind",
+    "translation": "兔子突然用后腿站立起来，以便更好地观察逼近的捕食者。",
+    "analysis": {
+      "back": "作为副词或形容词时，强调所修饰物的位置以及动作运动方向。",
+      "backward": "可用于人或物，指向后的，落后的或迟钝的。",
+      "hind": "指成对并且分前后的东西的“后面的”。",
+      "behind": "指一物同它物相对的位置或场所。"
+    },
+    "target_word": "hind",
+    "distractor_analysis": {
+      "back": "背部的、后面的，常指物体的背面或人的背部，偶尔用作方向，但不常用于解剖学上指代动物的后肢。",
+      "backward": "向后的、倒退的，表示方向向后或发展迟缓（如backward glance），不能作为形容词修饰腿。",
+      "hind": "后部的（动物的腿），专用于解剖学，特指四足动物的后腿（hind legs），是固定且地道的搭配，完全契合题意。",
+      "behind": "在...后面，是一个介词或副词，表示位置关系，不能作为形容词直接修饰名词legs。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_chunk4_11"
+  },
+  {
+    "id": "tem4_col_159",
+    "level": "TEM-4",
+    "group_name": "basic, essential, fundamental, radical, vital",
+    "question": "The medical supplies quickly provided by the Red Cross proved ___ to the survival of the earthquake victims.",
+    "options": [
+      "basic",
+      "essential",
+      "fundamental",
+      "vital"
+    ],
+    "answer": "vital",
+    "translation": "红十字会迅速提供的医疗用品对地震灾民的生存被证明是至关重要的。",
+    "analysis": {
+      "basic": "普通用词，指明确、具体的基础或起点。",
+      "essential": "语气比basic和fundamental强，强调必不可少，暗含某物如缺少某部分，则失去本质特征的意味。",
+      "fundamental": "书面用词，不如basic使用广泛，侧重指作为基础、根本的抽象的事物。",
+      "radical": "着重指事物的根本或其来源。",
+      "vital": "正式用词，侧重指维持生命、活力必不可少的，或生死攸关的。"
+    },
+    "target_word": "vital",
+    "distractor_analysis": {
+      "basic": "基础的、基本的，指事物最简单的起点或组成部分，缺乏“生死攸关”的强烈语气。",
+      "essential": "必不可少的、本质的，强调某事物对于存在或完成某事是绝对必要的，语气较强，但不如vital紧迫。",
+      "fundamental": "根本的、基础的，侧重于事物赖以存在的根基或核心原则（如fundamental rights），较少用于形容救援物资的紧迫性。",
+      "vital": "极其重要的、生死攸关的，源自词根“生命”，不仅表示不可或缺，更强调与生命存亡、成功与否直接相关，完美契合“对灾民生存至关重要”的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_14"
+  },
+  {
+    "id": "tem4_col_160",
+    "level": "TEM-4",
+    "group_name": "battle, war, campaign, struggle, warfare, fight, combat, engagement",
+    "question": "The general launched a well-planned military ___ to capture the enemy's capital city within a month.",
+    "options": [
+      "battle",
+      "war",
+      "campaign",
+      "combat"
+    ],
+    "answer": "campaign",
+    "translation": "将军发起了一场计划周密的军事战役，旨在四周内攻占敌人的首都。",
+    "analysis": {
+      "battle": "侧重指战争中的一次较全面、时间较长的战斗，也指陆军或海军在某一特定地区进行的战斗，或个人之间的争斗。",
+      "war": "是战争的总称，一般指包括多个战役的大规模战争。",
+      "campaign": "通常指在一场大的战争中在某一地区进行的一连串有既定目的的军事行动。也可作引申用。",
+      "struggle": "指激烈或时间持续长的战斗或奋力斗争。",
+      "warfare": "侧重指战争状态或具体的作战方法。",
+      "fight": "最普通用词，含义广，指战斗、斗争或打斗。",
+      "combat": "泛指军事行动，尤指小规模的战斗，甚至是格斗。",
+      "engagement": "指交战，交火。"
+    },
+    "target_word": "campaign",
+    "distractor_analysis": {
+      "battle": "战役、战斗，通常指在特定时间、特定地点发生的一次具体的交战，规模小于战争，不强调长期的系列计划。",
+      "war": "战争，指国家或集团之间长期的、全面的武装冲突，包含无数次战役，范围和时间跨度太大。",
+      "campaign": "战役、运动，军事上专指为了达成某个特定战略目标（如攻占首都）而在某一地区进行的一系列有计划的军事行动，完全契合题干中“计划周密、旨在攻占首都”的描述。",
+      "combat": "战斗、格斗，指近距离的武力交锋或搏斗行为（如hand-to-hand combat），更侧重于抽象的作战动作而非宏大的战略计划。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_chunk4_15"
+  },
+  {
+    "id": "tem4_col_161",
+    "level": "TEM-4",
+    "group_name": "become, get, grow, turn, go, come",
+    "question": "Without proper preservation, the freshly bought milk will quickly ___ sour in this sweltering heat.",
+    "options": [
+      "become",
+      "get",
+      "grow",
+      "go"
+    ],
+    "answer": "go",
+    "translation": "如果不妥善保存，刚买的牛奶在这种酷热天气里很快就会变酸。",
+    "analysis": {
+      "become": "最普通用词，作为连系动词，指从一个状态向另一个状态的变化。",
+      "get": "常指某人或某物有意无意地获得引起变化的因素，结果使变成另一状态。",
+      "grow": "常指逐渐地变成新状态，强调渐变的过程。",
+      "go": "作为连系动词，通常与形容词连用，指进入某种状态，从而发生变化，多指不好的状态。"
+    },
+    "target_word": "go",
+    "distractor_analysis": {
+      "become": "变成，成为。指从一种状态向另一种状态的过渡，较为正式，不如go搭配形容词常见于表示食物变质。",
+      "get": "变得。多用于日常口语中表示天气、温度等的变化，较少直接搭配sour表示食物变质。",
+      "grow": "逐渐变得。强调变化的过程和渐进性，不符合牛奶在酷热中“很快”变酸的语境。",
+      "go": "变得，处于...状态。常接形容词，尤用于表示事物朝不利、变坏的方向发展（如go bad/sour）。此处指牛奶变酸，属固定搭配。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_7b82f0c1"
+  },
+  {
+    "id": "tem4_col_162",
+    "level": "TEM-4",
+    "group_name": "begin, start, commence, initiate, inaugurate",
+    "question": "The city will ___ the newly built public library with a grand ribbon-cutting ceremony on Monday morning.",
+    "options": [
+      "begin",
+      "commence",
+      "initiate",
+      "inaugurate"
+    ],
+    "answer": "inaugurate",
+    "translation": "该市将于周一早上举行隆重的剪彩仪式，为新建的公共图书馆举行落成典礼。",
+    "analysis": {
+      "begin": "最常用词，含义广泛，多用于行动、工作等的开始。",
+      "commence": "系书面正式用词，语气庄重，特指有正式程序或一定仪式，或某种正式行动的开始。",
+      "initiate": "指创始或发起，侧重某过程的第一步，不考虑结束，强调起始。",
+      "inaugurate": "指正式而隆重的开始。"
+    },
+    "target_word": "inaugurate",
+    "distractor_analysis": {
+      "begin": "开始。最常用的普通词汇，指任何动作或过程的起点，不用于表示建筑物的隆重启用。",
+      "commence": "开始。begin的正式用语，常指诉讼、会议等正式程序的开始，不搭配建筑物落成。",
+      "initiate": "发起，创始。指率先采取行动或引入新事物，不用于具体建筑的启用仪式。",
+      "inaugurate": "为...举行落成/启用仪式；使就职。正式用语，强调通过隆重仪式宣布大型设施正式开放。完全契合题干中图书馆举行剪彩仪式（ribbon-cutting ceremony）的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_8f91a2d3"
+  },
+  {
+    "id": "tem4_col_163",
+    "level": "TEM-4",
+    "group_name": "belief, faith, confidence, conviction, credit, trust",
+    "question": "The unexpectedly positive economic data has significantly boosted investors' ___ in the stock market's recovery.",
+    "options": [
+      "belief",
+      "faith",
+      "confidence",
+      "conviction"
+    ],
+    "answer": "confidence",
+    "translation": "出人意料的积极经济数据极大地提振了投资者对股市复苏的信心。",
+    "analysis": {
+      "belief": "普通用词，指单纯从主观上的相信，不着重这种相信是否有根据。",
+      "faith": "语气较强，强调完全相信；有时也能仅凭感觉产生的相信。",
+      "confidence": "指对某人某事有充分信心，断定不会使人失望，因而给予信任。",
+      "conviction": "多指根据长期交往或实践，对某人某事有了认识和了解后产生的信心和相信，侧重其坚定性。"
+    },
+    "target_word": "confidence",
+    "distractor_analysis": {
+      "belief": "相信，信念。通常指对某种客观真实性、教条或原则的主观信奉，较少用于投资环境下的“信心”。",
+      "faith": "信仰，信任。多指基于情感或宗教的盲目信任，程度比confidence深，放在日常经济复苏语境中略显夸张。",
+      "confidence": "信心，把握。指对某人某事的能力或成功几率的确信。“boost confidence in”为固定搭配，符合投资者对股市回暖预期的语境。",
+      "conviction": "坚定的信念，定罪。强调经过深思熟虑后坚定不移的看法，语气极强，不适合日常经济数据的短期提振。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"in\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_9c02b3e4"
+  },
+  {
+    "id": "tem4_col_164",
+    "level": "TEM-4",
+    "group_name": "believe, trust, confide, rely",
+    "question": "She is the only friend to whom I can freely ___ my deepest secrets without worrying about betrayal.",
+    "options": [
+      "believe",
+      "trust",
+      "confide",
+      "rely"
+    ],
+    "answer": "confide",
+    "translation": "她是我唯一可以自由倾诉内心深处秘密而不用担心被背叛的朋友。",
+    "analysis": {
+      "believe": "普通用词，常表示一种缓和、不太肯定的口气。",
+      "trust": "指绝对相信或信赖某人。",
+      "confide": "侧重忠诚可靠与可信赖（常指吐露秘密）。",
+      "rely": "指在相信的基础上可进一步依靠，着重可靠性。"
+    },
+    "target_word": "confide",
+    "distractor_analysis": {
+      "believe": "相信，认为。指相信某人说的话是真实的，作及物动词时直接接人或事，不能表达“倾诉秘密”的动作。",
+      "trust": "信任，信赖。强调对某人人格或能力的信任，多为及物动词，不能与“secrets”构成“向某人倾吐”的搭配。",
+      "confide": "吐露（秘密，心事）。特指因为信任而向某人倾诉私人或机密信息。常搭配“confide sth. to sb.”，完美契合题干中“倾诉最深层秘密”的语意。",
+      "rely": "依赖，依靠。指在困难时指望别人的支持或帮助，通常搭配“rely on”，不用于“吐露秘密”的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_0d13c4f5"
+  },
+  {
+    "id": "tem4_col_165",
+    "level": "TEM-4",
+    "group_name": "certainty, assurance, conviction",
+    "question": "Despite the lack of concrete evidence, the detective expressed his profound ___ that the suspect was guilty.",
+    "options": [
+      "certainty",
+      "assurance",
+      "conviction",
+      "confidence"
+    ],
+    "answer": "conviction",
+    "translation": "尽管缺乏具体证据，侦探深信这名嫌疑人是有罪的。",
+    "analysis": {
+      "certainty": "指在客观上和主观上都无一丝一毫的怀疑。",
+      "assurance": "侧重依靠个人力量、本能、方法或对其他人或事的完全信任，强调有信心。",
+      "conviction": "多指在理性基础上清除了原有的疑虑或无把握，着重对证据的主观反应。",
+      "confidence": "指对某人某事有充分信心（非本组核心辨析词，作干扰项）。"
+    },
+    "target_word": "conviction",
+    "distractor_analysis": {
+      "certainty": "确定性，必然的事。指毫无疑问的客观事实或确定状态，而题干提到“缺乏具体证据”，更多是主观层面的深信。",
+      "assurance": "保证，担保；自信。多指为消除他人疑虑作出的口头保证或自身的从容，不侧重对某种判断的坚定。",
+      "conviction": "坚定的信念，深信。侧重指在没有绝对证据的情况下，内心理性思考或直觉下形成的不可动摇的信念，常与profound搭配，契合侦探的主观认定。",
+      "confidence": "信心，把握。指对某人某事成功的信任或把握，语气不及conviction深沉强烈，较少用于“深信某人有罪”的断定。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_2f35e6h7"
+  },
+  {
+    "id": "tem4_col_166",
+    "level": "TEM-4",
+    "group_name": "change, alter, vary, convert, modify, transform, turn",
+    "question": "The new zoning laws will completely ___ this quiet residential neighborhood into a bustling commercial district.",
+    "options": [
+      "alter",
+      "convert",
+      "modify",
+      "transform"
+    ],
+    "answer": "transform",
+    "translation": "新的区划法将把这个安静的住宅区彻底变成一个繁华的商业区。",
+    "analysis": {
+      "alter": "常指轻微的改变，强调基本上保持原物、原状的情况下所进行的部分改变。",
+      "convert": "指进行全部或局部改变以适应新的功能或用途。",
+      "modify": "强调起限定作用的变化或变更。指细小的变化，常含“缓和、降调”的意味。",
+      "transform": "指人或物在形状、外观、形式、性质等方面发生的彻底变化，失去原状成为全新的东西。"
+    },
+    "target_word": "transform",
+    "distractor_analysis": {
+      "alter": "改变，更改。指在保留原物主体的情况下对其细节做部分修改，不符合“彻底改变”的语境。",
+      "convert": "转换，改造。强调用途、目的的改变，虽可用，但不如transform强调形态或性质的颠覆性。",
+      "modify": "修改，修饰。指为了改善而进行适度调整、微调，变化幅度最小，完全不匹配“completely”。",
+      "transform": "彻底改变，使改观。指在外表、性质或功能上发生根本性、戏剧性的改变。搭配“transform...into...”，完美契合住宅区变商业区的巨变。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_3g46f7i8"
+  },
+  {
+    "id": "tem4_col_167",
+    "level": "TEM-4",
+    "group_name": "choice, alternative, preference, option, selection, election",
+    "question": "Since all the flights were canceled due to the storm, taking the train was our only viable ___.",
+    "options": [
+      "choice",
+      "alternative",
+      "preference",
+      "option"
+    ],
+    "answer": "alternative",
+    "translation": "由于暴风雨导致所有航班被取消，乘火车成了我们唯一可行的选择（替代方案）。",
+    "analysis": {
+      "choice": "侧重指自由选择的权利或特权。",
+      "alternative": "指在相互排斥的两者之间作严格的选择，也可指在两者以上中进行选择。",
+      "preference": "侧重因偏见、爱好或判断等而进行选择。",
+      "option": "着重特别给予的选择权利或权力，所选物常常相互排斥。"
+    },
+    "target_word": "alternative",
+    "distractor_analysis": {
+      "choice": "选择。泛指从多个选项中挑选，固定搭配常为“have no choice but to”，而非题干的“only viable...”。",
+      "alternative": "替代方案，两者择一。强调在原计划行不通时提供的替换性选择。题干中“航班取消”导致必须采取备用方案，alternative最为准确。",
+      "preference": "偏好，优先选择。强调主观上更喜欢某物，题干是迫于无奈的唯一方案，无主观偏好可言。",
+      "option": "选项，选择权。多指协议或客观提供的选项之一，不如alternative能凸显“原有方案失败后的替代手段”。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "legacy_id": "q_4h57g8j9"
+  },
+  {
+    "id": "tem4_col_168",
+    "level": "TEM-4",
+    "group_name": "compel, force, constrain, oblige",
+    "question": "As a doctor, she felt morally ___ to help the injured passengers at the scene of the accident.",
+    "options": [
+      "compelled",
+      "forced",
+      "constrained",
+      "obliged"
+    ],
+    "answer": "obliged",
+    "translation": "作为一名医生，她觉得在道义上有责任在事故现场帮助受伤的乘客。",
+    "analysis": {
+      "compelled": "指在法律、权力、力量或行动等的驱使下被迫而为。",
+      "forced": "指用个人意志、权力、权威或暴力等，迫使他人改变看法或做本不愿做的事。",
+      "constrained": "侧重施加约束力或有约束作用的影响，尤指受良心、情感等内在力量驱使去做某事。",
+      "obliged": "指由于生理上或道德上的需要，促使某人做某事，也指被迫作出的反应。"
+    },
+    "target_word": "obliged",
+    "distractor_analysis": {
+      "compelled": "被强迫的。指被外部力量或内在强烈冲动逼迫去做某事，带有不得不做的意味，缺乏职业道德的责任感。",
+      "forced": "被迫的，勉强的。强调因外力或客观恶劣条件而违背意愿行事，不符合医生主动救人的高尚情境。",
+      "constrained": "受约束的。指受环境等客观条件的限制而不能自由行动，与见义勇为语境不符。",
+      "obliged": "有义务的，责无旁贷的。强调基于道德或良知产生的一种内在责任感。“feel morally obliged”为固定搭配，契合医生的职业精神。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"to\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_9m02l3o4"
+  },
+  {
+    "id": "tem4_col_169",
+    "level": "TEM-4",
+    "group_name": "compete, contend, contest, rival",
+    "question": "In order to secure the championship, our team will have to ___ against the strongest teams in the league.",
+    "options": [
+      "compete",
+      "contend",
+      "contest",
+      "rival"
+    ],
+    "answer": "compete",
+    "translation": "为了夺得冠军，我们的球队将不得不在联赛中与最强的队伍竞争。",
+    "analysis": {
+      "compete": "普通用词，含义广泛。既可指争取优胜的相互竞争，也可指为了自己的利益与他人竞争。",
+      "contend": "指为战胜或击败对手进行不懈努力，强调拼搏。",
+      "contest": "指为争夺土地、阵地、权力或荣誉等而展开的竞争。",
+      "rival": "指在两方或多方的竞争或比赛中，谁都想战胜或比得上对手。"
+    },
+    "target_word": "compete",
+    "distractor_analysis": {
+      "compete": "竞争，比赛。指为了胜利与他人角逐，固定搭配“compete against/with”，完美契合体育比赛争夺冠军。",
+      "contend": "竞争，争夺。多搭配for，且常侧重于克服困难的斗争或辩论中的主张，不如compete直接。",
+      "contest": "争夺，质疑。作及物动词时直接接宾语（如contest the championship），不及物时一般不接against。",
+      "rival": "与...匹敌。常作及物动词，指在能力等方面能与对手相抗衡，不可搭配against。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"against\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_0n13m4p5"
+  },
+  {
+    "id": "tem4_col_170",
+    "level": "TEM-4",
+    "group_name": "compose, comprise, consist, constitute",
+    "question": "According to the constitution, the Supreme Court is ___ of nine justices appointed by the President.",
+    "options": [
+      "composed",
+      "comprised",
+      "consisted",
+      "constituted"
+    ],
+    "answer": "composed",
+    "translation": "根据宪法，最高法院由总统任命的九名大法官组成。",
+    "analysis": {
+      "composed": "正式用词，多用被动态（be composed of）。指将两个或两个以上的人或物放到一起形成一个整体。",
+      "comprised": "正式用词，指整体是由几个独立的部分所组成。",
+      "consisted": "与of连用（consist of），指一个整体由几个部分组成，没有被动态用法。",
+      "constituted": "正式用词，指由某些部分组成一个整体或构成某物的基本成分（作及物动词使用）。"
+    },
+    "target_word": "composed",
+    "distractor_analysis": {
+      "composed": "由...组成。最常见的被动搭配是“be composed of”，强调整体由部分组合而成，完美契合题干。",
+      "comprised": "包含。主动形式等同于consist of，传统语法认为被动“be comprised of”不够规范地道。",
+      "consisted": "由...组成。必须用主动语态“consist of”，不用于题干的被动结构（属语法错误）。",
+      "constituted": "构成，建立。通常指部分构成整体（主动形式A constitutes B），被动时不接of。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "题干空后紧跟介词 \"of\"，考查固定动介/形介搭配约束。",
+    "legacy_id": "q_5s68r9u0"
+  }
+]

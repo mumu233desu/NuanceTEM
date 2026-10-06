@@ -1,0 +1,5931 @@
+[
+  {
+    "id": "tem4_nua_001",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "abolish",
+    "question": "The government decided to ___ the tax on alcohol.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "abolish",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "政府决定取消酒税。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_1"
+  },
+  {
+    "id": "tem4_nua_002",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "cancel",
+    "question": "They had to ___ the meeting because of the flu.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "cancel",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "由于流感，他们不得不取消会议。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_2"
+  },
+  {
+    "id": "tem4_nua_003",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "eliminate",
+    "question": "The doctor helped him ___ toxins from the intestine.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "eliminate",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "医生帮助他排出肠中的毒素。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_3"
+  },
+  {
+    "id": "tem4_nua_004",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "erase",
+    "question": "I need to ___ the music on the tape before recording again.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "erase",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "在重新录音之前，我需要消掉磁带上的音乐。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_5"
+  },
+  {
+    "id": "tem4_nua_005",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "exclude",
+    "question": "The restaurant will ___ anyone who is not properly dressed from entering.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "exclude",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "衣冠不整者将被禁止进入该餐馆。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_6"
+  },
+  {
+    "id": "tem4_nua_006",
+    "group_id": 3,
+    "group_name": "abolish, cancel, eliminate, dispose, erase, exclude, extinguish",
+    "level": "TEM-4",
+    "target_word": "extinguish",
+    "question": "Firefighters managed to ___ the big fire.",
+    "options": [
+      "abolish",
+      "cancel",
+      "eliminate",
+      "dispose",
+      "erase",
+      "exclude",
+      "extinguish"
+    ],
+    "answer": "extinguish",
+    "distractor_analysis": {
+      "abolish": "v. 指对法律、习俗、制度的废除；完全破坏。",
+      "cancel": "v. 对预先安排的某种活动（如旅行、计划、会议等）的取消；删去（字、句）。",
+      "eliminate": "v. 指消除、淘汰已经存在但是现在不需要的东西。",
+      "dispose": "v. 处理，处置；表示“除掉、扔掉”时常与 of 连用。",
+      "erase": "v. 除去，擦掉，指有意识地除去字迹、声音等。",
+      "exclude": "v. 排斥；排除，不包括在内，与 include 互为反义词。",
+      "extinguish": "v. 熄灭，扑灭（火）；使沉默，使暗淡。"
+    },
+    "translation": "消防队员设法扑灭了大火。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_3_7"
+  },
+  {
+    "id": "tem4_nua_007",
+    "group_id": 5,
+    "group_name": "absurd, ridiculous, silly",
+    "level": "TEM-4",
+    "target_word": "absurd",
+    "question": "The logic in his argument was so fundamentally flawed that his final conclusion was completely ___.",
+    "options": [
+      "absurd",
+      "ridiculous",
+      "silly"
+    ],
+    "answer": "absurd",
+    "distractor_analysis": {
+      "absurd": "a. 荒谬的，可笑的，指因不符合常识、违反真理或不合逻辑而令人发笑。",
+      "ridiculous": "a. 荒唐可笑的，指因为愚昧无知而令人发笑并成为笑柄，含有蔑视成分。",
+      "silly": "a. 愚蠢的，傻的，指由于单纯或者头脑简单而显得愚蠢。"
+    },
+    "translation": "他的论点在逻辑上存在根本性的缺陷，以至于他的最终结论是极其荒谬的。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_5_1"
+  },
+  {
+    "id": "tem4_nua_008",
+    "group_id": 5,
+    "group_name": "absurd, ridiculous, silly",
+    "level": "TEM-4",
+    "target_word": "ridiculous",
+    "question": "He looked absolutely ___ wearing a heavy winter coat and a wool hat on the beach in the middle of summer.",
+    "options": [
+      "absurd",
+      "ridiculous",
+      "silly"
+    ],
+    "answer": "ridiculous",
+    "distractor_analysis": {
+      "absurd": "a. 荒谬的，可笑的，指因不符合常识、违反真理或不合逻辑而令人发笑。",
+      "ridiculous": "a. 荒唐可笑的，指因为愚昧无知而令人发笑并成为笑柄，含有蔑视成分。",
+      "silly": "a. 愚蠢的，傻的，指由于单纯或者头脑简单而显得愚蠢。"
+    },
+    "translation": "仲夏时节，他穿着厚重的冬装，戴着羊毛帽出现在海滩上，看起来简直可笑极了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_5_2"
+  },
+  {
+    "id": "tem4_nua_009",
+    "group_id": 5,
+    "group_name": "absurd, ridiculous, silly",
+    "level": "TEM-4",
+    "target_word": "silly",
+    "question": "Don't make such a ___ mistake; you should be more careful.",
+    "options": [
+      "absurd",
+      "ridiculous",
+      "silly"
+    ],
+    "answer": "silly",
+    "distractor_analysis": {
+      "absurd": "a. 荒谬的，可笑的，指因不符合常识、违反真理或不合逻辑而令人发笑。",
+      "ridiculous": "a. 荒唐可笑的，指因为愚昧无知而令人发笑并成为笑柄，含有蔑视成分。",
+      "silly": "a. 愚蠢的，傻的，指由于单纯或者头脑简单而显得愚蠢。"
+    },
+    "translation": "不要犯这么愚蠢的错误；你应该更细心一点。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_5_3"
+  },
+  {
+    "id": "tem4_nua_010",
+    "group_id": 6,
+    "group_name": "abundant, plentiful",
+    "level": "TEM-4",
+    "target_word": "abundant",
+    "question": "The police had ___ evidence to prove that the suspect was guilty of the crime.",
+    "options": [
+      "abundant",
+      "plentiful"
+    ],
+    "answer": "abundant",
+    "distractor_analysis": {
+      "abundant": "a. （数量）充足的，常用于人、物产、资源、雨量等，含有“过多”之意。",
+      "plentiful": "a. 丰富的，充足的，常用于食物、收获、财产等，不能用于时间、空间、思想等方面。"
+    },
+    "translation": "警方有充足的证据证明嫌疑人犯有该罪行。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_6_1"
+  },
+  {
+    "id": "tem4_nua_011",
+    "group_id": 6,
+    "group_name": "accent, tone, dialect",
+    "level": "TEM-4",
+    "target_word": "accent",
+    "question": "He speaks English with a Spanish ___.",
+    "options": [
+      "accent",
+      "tone",
+      "dialect"
+    ],
+    "answer": "accent",
+    "distractor_analysis": {
+      "accent": "n. 口音，指某一地区语言的发音特征；重音。",
+      "tone": "n. 语气，音调，指说话人的口气或声音的高低、轻重等。",
+      "dialect": "n. 方言，土语，地方话，指一个地区人们所使用的语言。"
+    },
+    "translation": "他讲英语带有西班牙口音。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_6_3"
+  },
+  {
+    "id": "tem4_nua_012",
+    "group_id": 6,
+    "group_name": "accent, tone, dialect",
+    "level": "TEM-4",
+    "target_word": "tone",
+    "question": "He speaks to his baby in a soft ___.",
+    "options": [
+      "accent",
+      "tone",
+      "dialect"
+    ],
+    "answer": "tone",
+    "distractor_analysis": {
+      "accent": "n. 口音，指某一地区语言的发音特征；重音。",
+      "tone": "n. 语气，音调，指说话人的口气或声音的高低、轻重等。",
+      "dialect": "n. 方言，土语，地方话，指一个地区人们所使用的语言。"
+    },
+    "translation": "他用柔和的音调和他的婴儿说话。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_6_4"
+  },
+  {
+    "id": "tem4_nua_013",
+    "group_id": 6,
+    "group_name": "accent, tone, dialect",
+    "level": "TEM-4",
+    "target_word": "dialect",
+    "question": "She can speak the local Sichuan ___ fluently.",
+    "options": [
+      "accent",
+      "tone",
+      "dialect"
+    ],
+    "answer": "dialect",
+    "distractor_analysis": {
+      "accent": "n. 口音，指某一地区语言的发音特征；重音。",
+      "tone": "n. 语气，音调，指说话人的口气或声音的高低、轻重等。",
+      "dialect": "n. 方言，土语，地方话，指一个地区人们所使用的语言。"
+    },
+    "translation": "她能流利地讲四川方言。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_6_5"
+  },
+  {
+    "id": "tem4_nua_014",
+    "group_id": 7,
+    "group_name": "access, assess",
+    "level": "TEM-4",
+    "target_word": "assess",
+    "question": "The expert will ___ how much it would cost to build a new apartment.",
+    "options": [
+      "access",
+      "assess"
+    ],
+    "answer": "assess",
+    "distractor_analysis": {
+      "access": "n. 接近，进入，常指有权或有机会使用、进入某处。",
+      "assess": "v. 评估（财产，价值），估算费用。"
+    },
+    "translation": "专家将评估建造一套新公寓需要多少费用。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_7_2"
+  },
+  {
+    "id": "tem4_nua_015",
+    "group_id": 8,
+    "group_name": "accommodate, afford, furnish",
+    "level": "TEM-4",
+    "target_word": "accommodate",
+    "question": "This hotel can ___ up to 500 guests.",
+    "options": [
+      "accommodate",
+      "afford",
+      "furnish"
+    ],
+    "answer": "accommodate",
+    "distractor_analysis": {
+      "accommodate": "v. 提供住宿、房间；适应，迎合，迁就。",
+      "afford": "v. 负担，支付；用于“提供”时，多用于指抽象事物的提供。",
+      "furnish": "v. 指提供生活或某种用途所需要的东西，常指配备家具或提供知识等。"
+    },
+    "translation": "这家饭店可供500位来宾住宿。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_8_1"
+  },
+  {
+    "id": "tem4_nua_016",
+    "group_id": 8,
+    "group_name": "accommodate, afford, furnish",
+    "level": "TEM-4",
+    "target_word": "afford",
+    "question": "The tall building can ___ a beautiful view of the ocean.",
+    "options": [
+      "accommodate",
+      "afford",
+      "furnish"
+    ],
+    "answer": "afford",
+    "distractor_analysis": {
+      "accommodate": "v. 提供住宿、房间；适应，迎合，迁就。",
+      "afford": "v. 负担，支付；用于“提供”时，多用于指抽象事物的提供。",
+      "furnish": "v. 指提供生活或某种用途所需要的东西，常指配备家具或提供知识等。"
+    },
+    "translation": "这幢高楼可以提供大海的美丽景致。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_8_2"
+  },
+  {
+    "id": "tem4_nua_017",
+    "group_id": 8,
+    "group_name": "accommodate, afford, furnish",
+    "level": "TEM-4",
+    "target_word": "furnish",
+    "question": "Reading can ___ the mind with materials of knowledge.",
+    "options": [
+      "accommodate",
+      "afford",
+      "furnish"
+    ],
+    "answer": "furnish",
+    "distractor_analysis": {
+      "accommodate": "v. 提供住宿、房间；适应，迎合，迁就。",
+      "afford": "v. 负担，支付；用于“提供”时，多用于指抽象事物的提供。",
+      "furnish": "v. 指提供生活或某种用途所需要的东西，常指配备家具或提供知识等。"
+    },
+    "translation": "阅读可以为我们的思想提供知识的材料。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_8_3"
+  },
+  {
+    "id": "tem4_nua_018",
+    "group_id": 9,
+    "group_name": "accomplishment, attainment, achievement",
+    "level": "TEM-4",
+    "target_word": "accomplishment",
+    "question": "Being able to paint well is just one of her many ___s.",
+    "options": [
+      "accomplishment",
+      "attainment",
+      "achievement"
+    ],
+    "answer": "accomplishment",
+    "distractor_analysis": {
+      "accomplishment": "n. 成功，成就；才艺，修养，强调通过努力达到的技能或完成的事。",
+      "attainment": "n. 主要指学识和造诣（常用作复数）；达到，到达某目标。",
+      "achievement": "n. 指经过努力取得的显著“成就”或具体“成绩”，与 accomplishment 是同义词。"
+    },
+    "translation": "画画得好只是她的许多才能之一。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_9_1"
+  },
+  {
+    "id": "tem4_nua_019",
+    "group_id": 9,
+    "group_name": "accomplishment, attainment, achievement",
+    "level": "TEM-4",
+    "target_word": "attainment",
+    "question": "He is recognized as a scholar of the highest ___s.",
+    "options": [
+      "accomplishment",
+      "attainment",
+      "achievement"
+    ],
+    "answer": "attainment",
+    "distractor_analysis": {
+      "accomplishment": "n. 成功，成就；才艺，修养，强调通过努力达到的技能或完成的事。",
+      "attainment": "n. 主要指学识和造诣（常用作复数）；达到，到达某目标。",
+      "achievement": "n. 指经过努力取得的显著“成就”或具体“成绩”，与 accomplishment 是同义词。"
+    },
+    "translation": "他被公认为是一位造诣极高的学者。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_9_2"
+  },
+  {
+    "id": "tem4_nua_020",
+    "group_id": 10,
+    "group_name": "accuse, charge",
+    "level": "TEM-4",
+    "target_word": "accuse",
+    "question": "The police will ___ him of theft if they find the stolen goods.",
+    "options": [
+      "accuse",
+      "charge"
+    ],
+    "answer": "accuse",
+    "distractor_analysis": {
+      "accuse": "v. 指控，控诉，常与介词 of 连用。",
+      "charge": "v. 指控，责备，可以指小错责备或违法控告，常与介词 with 连用。"
+    },
+    "translation": "如果警察找到被盗物品，他们将指控他犯有盗窃罪。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_10_1"
+  },
+  {
+    "id": "tem4_nua_021",
+    "group_id": 10,
+    "group_name": "accuse, charge",
+    "level": "TEM-4",
+    "target_word": "charge",
+    "question": "The police decided to ___ him with murder after gathering evidence.",
+    "options": [
+      "accuse",
+      "charge"
+    ],
+    "answer": "charge",
+    "distractor_analysis": {
+      "accuse": "v. 指控，控诉，常与介词 of 连用。",
+      "charge": "v. 指控，责备，可以指小错责备或违法控告，常与介词 with 连用。"
+    },
+    "translation": "在搜集证据后，警察决定指控他犯有谋杀罪。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_10_2"
+  },
+  {
+    "id": "tem4_nua_022",
+    "group_id": 12,
+    "group_name": "acute, critical, crucial, urgent",
+    "level": "TEM-4",
+    "target_word": "acute",
+    "question": "An ___ lack of food brought hunger to the people in the war zone.",
+    "options": [
+      "acute",
+      "critical",
+      "crucial",
+      "urgent"
+    ],
+    "answer": "acute",
+    "distractor_analysis": {
+      "acute": "a. 剧烈的，严重的；急性的（病），强调严重程度或程度上的剧烈。",
+      "critical": "a. 关键的，表示处于极度缺乏的状态或危急的转折点，对缺乏的或危急的程度有更准确的衡量；也指批判性的、分析性的。",
+      "crucial": "a. 决定性的，紧要关头的，至关重要的，最为笼统，适用于多种情况。",
+      "urgent": "a. 紧迫的，急迫的，仅强调“紧急”的状态，不一定是最重要的。"
+    },
+    "translation": "食品的严重缺乏给战争地区的人民带来了饥饿。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_12_1"
+  },
+  {
+    "id": "tem4_nua_023",
+    "group_id": 12,
+    "group_name": "acute, critical, crucial, urgent",
+    "level": "TEM-4",
+    "target_word": "critical",
+    "question": "After the severe car accident, the driver was taken to the hospital and is currently in ___ condition.",
+    "options": [
+      "acute",
+      "critical",
+      "crucial",
+      "urgent"
+    ],
+    "answer": "critical",
+    "distractor_analysis": {
+      "acute": "a. 剧烈的，严重的；急性的（病），强调严重程度或程度上的剧烈。",
+      "critical": "a. 关键的，表示处于极度缺乏的状态或危急的转折点，对缺乏的或危急的程度有更准确的衡量；也指批判性的、分析性的。",
+      "crucial": "a. 决定性的，紧要关头的，至关重要的，最为笼统，适用于多种情况。",
+      "urgent": "a. 紧迫的，急迫的，仅强调“紧急”的状态，不一定是最重要的。"
+    },
+    "translation": "发生严重车祸后，司机被送往医院，目前情况危急。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_12_2"
+  },
+  {
+    "id": "tem4_nua_024",
+    "group_id": 12,
+    "group_name": "acute, critical, crucial, urgent",
+    "level": "TEM-4",
+    "target_word": "crucial",
+    "question": "The goalkeeper made a ___ save in the final minute of the match, ensuring his team's victory.",
+    "options": [
+      "acute",
+      "critical",
+      "crucial",
+      "urgent"
+    ],
+    "answer": "crucial",
+    "distractor_analysis": {
+      "acute": "a. 剧烈的，严重的；急性的（病），强调严重程度或程度上的剧烈。",
+      "critical": "a. 关键的，表示处于极度缺乏的状态或危急的转折点，对缺乏的或危急的程度有更准确的衡量；也指批判性的、分析性的。",
+      "crucial": "a. 决定性的，紧要关头的，至关重要的，最为笼统，适用于多种情况。",
+      "urgent": "a. 紧迫的，急迫的，仅强调“紧急”的状态，不一定是最重要的。"
+    },
+    "translation": "守门员在比赛最后一分钟做出了一次至关重要的扑救，确保了球队的胜利。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_12_3"
+  },
+  {
+    "id": "tem4_nua_025",
+    "group_id": 12,
+    "group_name": "acute, critical, crucial, urgent",
+    "level": "TEM-4",
+    "target_word": "urgent",
+    "question": "We have an ___ need for help as we are running out of water.",
+    "options": [
+      "acute",
+      "critical",
+      "crucial",
+      "urgent"
+    ],
+    "answer": "urgent",
+    "distractor_analysis": {
+      "acute": "a. 剧烈的，严重的；急性的（病），强调严重程度或程度上的剧烈。",
+      "critical": "a. 关键的，表示处于极度缺乏的状态或危急的转折点，对缺乏的或危急的程度有更准确的衡量；也指批判性的、分析性的。",
+      "crucial": "a. 决定性的，紧要关头的，至关重要的，最为笼统，适用于多种情况。",
+      "urgent": "a. 紧迫的，急迫的，仅强调“紧急”的状态，不一定是最重要的。"
+    },
+    "translation": "我们急需帮助，因为我们的水快用光了。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_12_4"
+  },
+  {
+    "id": "tem4_nua_026",
+    "group_id": 14,
+    "group_name": "admit, confess, concede",
+    "level": "TEM-4",
+    "target_word": "admit",
+    "question": "It takes a lot of maturity and courage to ___ when you are wrong and apologize.",
+    "options": [
+      "admit",
+      "confess",
+      "concede"
+    ],
+    "answer": "admit",
+    "distractor_analysis": {
+      "admit": "v. 指由于说服、再三追问而承认某客观事实或过错。",
+      "confess": "v. 供认（罪行、过错等），含有坦白、招认的意思。",
+      "concede": "v. 指曾想隐瞒或不愿意承认某一错误，但由于证据确凿而不得不勉强承认，也可以指以退为进的承认。"
+    },
+    "translation": "犯错时承认错误并道歉需要很大的成熟度和勇气。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_14_1"
+  },
+  {
+    "id": "tem4_nua_027",
+    "group_id": 14,
+    "group_name": "admit, confess, concede",
+    "level": "TEM-4",
+    "target_word": "confess",
+    "question": "The suspect decided to ___ his crimes to the judge.",
+    "options": [
+      "admit",
+      "confess",
+      "concede"
+    ],
+    "answer": "confess",
+    "distractor_analysis": {
+      "admit": "v. 指由于说服、再三追问而承认某客观事实或过错。",
+      "confess": "v. 供认（罪行、过错等），含有坦白、招认的意思。",
+      "concede": "v. 指曾想隐瞒或不愿意承认某一错误，但由于证据确凿而不得不勉强承认，也可以指以退为进的承认。"
+    },
+    "translation": "嫌疑犯决定向法官供认他的罪行。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_14_2"
+  },
+  {
+    "id": "tem4_nua_028",
+    "group_id": 14,
+    "group_name": "admit, confess, concede",
+    "level": "TEM-4",
+    "target_word": "concede",
+    "question": "After realizing he did not have enough votes to win, the candidate called his opponent to ___ the election.",
+    "options": [
+      "admit",
+      "confess",
+      "concede"
+    ],
+    "answer": "concede",
+    "distractor_analysis": {
+      "admit": "v. 指由于说言、再三追问而承认某客观事实或过错。",
+      "confess": "v. 供认（罪行、过错等），含有坦白、招认的意思。",
+      "concede": "v. 指曾想隐瞒或不愿意承认某一错误，但由于证据确凿而不得不勉强承认，也可以指以退为进的承认。"
+    },
+    "translation": "在意识到自己没有足够的选票获胜后，这位候选人打电话给他的对手，承认败选。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_14_3"
+  },
+  {
+    "id": "tem4_nua_029",
+    "group_id": 15,
+    "group_name": "affiliate, link, attach, append",
+    "level": "TEM-4",
+    "target_word": "link",
+    "question": "The crowd decided to ___ arms to form a barrier.",
+    "options": [
+      "affiliate",
+      "link",
+      "attach",
+      "append"
+    ],
+    "answer": "link",
+    "distractor_analysis": {
+      "affiliate": "v. 加入，成为……的一部分，通常指机构之间的隶属或联合关系。",
+      "link": "v. 将人或物连接起来，建立联系。",
+      "attach": "v. 将某物系在、贴在、附在另一物上，强调连接关系。",
+      "append": "v. 增加，附加，通常指在文档、书信等末尾添加内容（与 attach 接近）。"
+    },
+    "translation": "群众决定臂挽着臂组成人墙。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_15_2"
+  },
+  {
+    "id": "tem4_nua_030",
+    "group_id": 15,
+    "group_name": "affiliate, link, attach, append",
+    "level": "TEM-4",
+    "target_word": "attach",
+    "question": "You should ___ a note to your report with a paper clip.",
+    "options": [
+      "affiliate",
+      "link",
+      "attach",
+      "append"
+    ],
+    "answer": "attach",
+    "distractor_analysis": {
+      "affiliate": "v. 加入，成为……的一部分，通常指机构之间的隶属或联合关系。",
+      "link": "v. 将人或物连接起来，建立联系。",
+      "attach": "v. 将某物系在、贴在、附在另一物上，强调连接关系。",
+      "append": "v. 增加，附加，通常指在文档、书信等末尾添加内容（与 attach 接近）。"
+    },
+    "translation": "你应该用别针将一张字条别在报告的后面。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_15_3"
+  },
+  {
+    "id": "tem4_nua_031",
+    "group_id": 15,
+    "group_name": "affiliate, link, attach, append",
+    "level": "TEM-4",
+    "target_word": "append",
+    "question": "The lawyer decided to ___ two more pages to the contract.",
+    "options": [
+      "affiliate",
+      "link",
+      "attach",
+      "append"
+    ],
+    "answer": "append",
+    "distractor_analysis": {
+      "affiliate": "v. 加入，成为……的一部分，通常指机构之间的隶属或联合关系。",
+      "link": "v. 将人或物连接起来，建立联系。",
+      "attach": "v. 将某物系在、贴在、附在另一物上，强调连接关系。",
+      "append": "v. 增加，附加，通常指在文档、书信等末尾添加内容（与 attach 接近）。"
+    },
+    "translation": "律师决定在合同后又附加了两页。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_15_4"
+  },
+  {
+    "id": "tem4_nua_032",
+    "group_id": 17,
+    "group_name": "aggravate, reinforce, increase, strengthen, intensify",
+    "level": "TEM-4",
+    "target_word": "aggravate",
+    "question": "Do not ___ your foot injury by trying to walk too soon.",
+    "options": [
+      "aggravate",
+      "reinforce",
+      "increase",
+      "strengthen",
+      "intensify"
+    ],
+    "answer": "aggravate",
+    "distractor_analysis": {
+      "aggravate": "v. 加重（负担、罪行、病情等），使之恶化。",
+      "reinforce": "v. 增援，一般用于军队或警察的行动；或指（以添加材料等）加固。",
+      "increase": "v. 指数量、程度、大小等方面的增加或增长。",
+      "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
+      "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
+    },
+    "translation": "不要过早下地走路以致加重你的脚伤。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_17_1"
+  },
+  {
+    "id": "tem4_nua_033",
+    "group_id": 17,
+    "group_name": "aggravate, reinforce, increase, strengthen, intensify",
+    "level": "TEM-4",
+    "target_word": "reinforce",
+    "question": "The general quickly dispatched two more battalions to ___ the frontline defenses.",
+    "options": [
+      "aggravate",
+      "reinforce",
+      "increase",
+      "strengthen",
+      "intensify"
+    ],
+    "answer": "reinforce",
+    "distractor_analysis": {
+      "aggravate": "v. 加重（负担、罪行、病情等），使之恶化。",
+      "reinforce": "v. 增援，一般用于军队或警察的行动；或指（以添加材料等）加固。",
+      "increase": "v. 指数量、程度、大小等方面的增加或增长。",
+      "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
+      "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
+    },
+    "translation": "将军迅速调遣了另外两个营来增援前线防御。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_17_2"
+  },
+  {
+    "id": "tem4_nua_034",
+    "group_id": 17,
+    "group_name": "aggravate, reinforce, increase, strengthen, intensify",
+    "level": "TEM-4",
+    "target_word": "increase",
+    "question": "The company plans to ___ the number of employees this year.",
+    "options": [
+      "aggravate",
+      "reinforce",
+      "increase",
+      "strengthen",
+      "intensify"
+    ],
+    "answer": "increase",
+    "distractor_analysis": {
+      "aggravate": "v. 加重（负担、罪行、病情等），使之恶化。",
+      "reinforce": "v. 增援，一般用于军队或警察的行动；或指（以添加材料等）加固。",
+      "increase": "v. 指数量、程度、大小等方面的增加或增长。",
+      "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
+      "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
+    },
+    "translation": "公司计划今年增加员工人数。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_17_3"
+  },
+  {
+    "id": "tem4_nua_035",
+    "group_id": 17,
+    "group_name": "aggravate, reinforce, increase, strengthen, intensify",
+    "level": "TEM-4",
+    "target_word": "strengthen",
+    "question": "Regular exercise will help ___ the heart and muscles.",
+    "options": [
+      "aggravate",
+      "reinforce",
+      "increase",
+      "strengthen",
+      "intensify"
+    ],
+    "answer": "strengthen",
+    "distractor_analysis": {
+      "aggravate": "v. 加重（负担、罪行、病情等），使之恶化。",
+      "reinforce": "v. 增援，一般用于军队或警察的行动；或指（以添加材料等）加固。",
+      "increase": "v. 指数量、程度、大小等方面的增加或增长。",
+      "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
+      "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
+    },
+    "translation": "经常锻炼将有助于增强心脏和肌肉。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_17_4"
+  },
+  {
+    "id": "tem4_nua_036",
+    "group_id": 17,
+    "group_name": "aggravate, reinforce, increase, strengthen, intensify",
+    "level": "TEM-4",
+    "target_word": "intensify",
+    "question": "The ongoing conflict will only ___ the hatred between the two groups.",
+    "options": [
+      "aggravate",
+      "reinforce",
+      "increase",
+      "strengthen",
+      "intensify"
+    ],
+    "answer": "intensify",
+    "distractor_analysis": {
+      "aggravate": "v. 加重（负担、罪行、病情等），使之恶化。",
+      "reinforce": "v. 增援，一般用于军队或警察的行动；或指（以添加材料等）加固。",
+      "increase": "v. 指数量、程度、大小等方面的增加或增长。",
+      "strengthen": "v. 加强，巩固，增强，使变得更强壮或更有力。",
+      "intensify": "v. 使变得更强烈、剧烈，加剧，相当于变得更激烈。"
+    },
+    "translation": "持续的冲突只会加深两组人之间的仇恨。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_17_5"
+  },
+  {
+    "id": "tem4_nua_037",
+    "group_id": 18,
+    "group_name": "alert, cautious, considerate",
+    "level": "TEM-4",
+    "target_word": "cautious",
+    "question": "He always adopts a ___ attitude about spending money.",
+    "options": [
+      "alert",
+      "cautious",
+      "considerate"
+    ],
+    "answer": "cautious",
+    "distractor_analysis": {
+      "alert": "a. 警惕的，留神的，对周围危险或变化保持高度注意。",
+      "cautious": "a. 细心的，谨慎的，避免冒险或出错，态度小心。",
+      "considerate": "a. 关心他人的，体贴的，体谅他人的感受、需要或处境。"
+    },
+    "translation": "在花钱问题上，他总是采取谨慎的态度。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_18_2"
+  },
+  {
+    "id": "tem4_nua_038",
+    "group_id": 19,
+    "group_name": "alive, live, living, lively",
+    "level": "TEM-4",
+    "target_word": "alive",
+    "question": "After the terrible car accident, the driver was barely ___.",
+    "options": [
+      "alive",
+      "live",
+      "living",
+      "lively"
+    ],
+    "answer": "alive",
+    "distractor_analysis": {
+      "alive": "a. 活着的，有活力的，常作表语，作定语时必须后置（如 all men alive）。",
+      "live": "a. 活的，有生命的，现场直播的，通常作定语修饰物。",
+      "living": "a. 活着的，现存的，作定语可前可后，可修饰人或物。",
+      "lively": "a. 活泼的，活跃的，栩栩如生的，形容人性格或事物充满生气。"
+    },
+    "translation": "在可怕的车祸后，司机奄奄一息。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_19_1"
+  },
+  {
+    "id": "tem4_nua_039",
+    "group_id": 19,
+    "group_name": "alive, live, living, lively",
+    "level": "TEM-4",
+    "target_word": "live",
+    "question": "We watched the ___ broadcast of the opera on television.",
+    "options": [
+      "alive",
+      "live",
+      "living",
+      "lively"
+    ],
+    "answer": "live",
+    "distractor_analysis": {
+      "alive": "a. 活着的，有活力的，常作表语，作定语时必须后置（如 all men alive）。",
+      "live": "a. 活的，有生命的，现场直播的，通常作定语修饰物。",
+      "living": "a. 活着的，现存的，作定语可前可后，可修饰人或物。",
+      "lively": "a. 活泼的，活跃的，栩栩如生的，形容人性格或事物充满生气。"
+    },
+    "translation": "我们通过电视观看了这部歌剧的实况转播。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_19_2"
+  },
+  {
+    "id": "tem4_nua_040",
+    "group_id": 19,
+    "group_name": "alive, live, living, lively",
+    "level": "TEM-4",
+    "target_word": "living",
+    "question": "Who is considered the world's greatest ___ artist today?",
+    "options": [
+      "alive",
+      "live",
+      "living",
+      "lively"
+    ],
+    "answer": "living",
+    "distractor_analysis": {
+      "alive": "a. 活着的，有活力的，常作表语，作定语时必须后置（如 all men alive）。",
+      "live": "a. 活的，有生命的，现场直播的，通常作定语修饰物。",
+      "living": "a. 活着的，现存的，作定语可前可后，可修饰人或物。",
+      "lively": "a. 活泼的，活跃的，栩栩如生的，形容人性格或事物充满生气。"
+    },
+    "translation": "谁被认为是当今世界上最伟大的健在的艺术家？",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_19_3"
+  },
+  {
+    "id": "tem4_nua_041",
+    "group_id": 19,
+    "group_name": "alive, live, living, lively",
+    "level": "TEM-4",
+    "target_word": "lively",
+    "question": "She is a ___ young girl, always laughing and active.",
+    "options": [
+      "alive",
+      "live",
+      "living",
+      "lively"
+    ],
+    "answer": "lively",
+    "distractor_analysis": {
+      "alive": "a. 活着的，有活力的，常作表语，作定语时必须后置（如 all men alive）。",
+      "live": "a. 活的，有生命的，现场直播的，通常作定语修饰物。",
+      "living": "a. 活着的，现存的，作定语可前可后，可修饰人或物。",
+      "lively": "a. 活泼的，活跃的，栩栩如生的，形容人性格或事物充满生气。"
+    },
+    "translation": "她是个活泼的年轻姑娘，总是欢声笑语，充满活力。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_19_4"
+  },
+  {
+    "id": "tem4_nua_042",
+    "group_id": 21,
+    "group_name": "allocate, separate, detach, divide",
+    "level": "TEM-4",
+    "target_word": "allocate",
+    "question": "The city council will ___ money for new schools in this year's budget.",
+    "options": [
+      "allocate",
+      "separate",
+      "detach",
+      "divide"
+    ],
+    "answer": "allocate",
+    "distractor_analysis": {
+      "allocate": "v. 分配，把……拨给（资金、资源等）以供特定用途。",
+      "separate": "v. 人为地分开，使隔离，使脱离联系或分离。",
+      "detach": "v. 拆开组合的物体；或指远离、疏远。",
+      "divide": "v. 指将整体划分为若干个部分、份额或区域。"
+    },
+    "translation": "市政委将在今年的预算中给新学校分配资金。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_21_1"
+  },
+  {
+    "id": "tem4_nua_043",
+    "group_id": 21,
+    "group_name": "allocate, separate, detach, divide",
+    "level": "TEM-4",
+    "target_word": "separate",
+    "question": "We should ___ the salad forks from the dinner forks.",
+    "options": [
+      "allocate",
+      "separate",
+      "detach",
+      "divide"
+    ],
+    "answer": "separate",
+    "distractor_analysis": {
+      "allocate": "v. 分配，把……拨给（资金、资源等）以供特定用途。",
+      "separate": "v. 人为地分开，使隔离，使脱离联系或分离。",
+      "detach": "v. 拆开组合的物体；或指远离、疏远。",
+      "divide": "v. 指将整体划分为若干个部分、份额或区域。"
+    },
+    "translation": "我们应该把沙拉叉和正餐叉分开。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_21_2"
+  },
+  {
+    "id": "tem4_nua_044",
+    "group_id": 21,
+    "group_name": "allocate, separate, detach, divide",
+    "level": "TEM-4",
+    "target_word": "detach",
+    "question": "We need a carpenter to ___ this bookshelf from the wall.",
+    "options": [
+      "allocate",
+      "separate",
+      "detach",
+      "divide"
+    ],
+    "answer": "detach",
+    "distractor_analysis": {
+      "allocate": "v. 分配，把……拨给（资金、资源等）以供特定用途。",
+      "separate": "v. 人为地分开，使隔离，使脱离联系或分离。",
+      "detach": "v. 拆开组合 of 的物体；或指远离、疏远。",
+      "divide": "v. 指将整体划分为若干个部分、份额或区域。"
+    },
+    "translation": "我们需要一名木匠把这个书架从墙上拆下来。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_21_3"
+  },
+  {
+    "id": "tem4_nua_045",
+    "group_id": 22,
+    "group_name": "ambiguous, obscure, vague, unclear, dim",
+    "level": "TEM-4",
+    "target_word": "ambiguous",
+    "question": "The wording of the legal contract is so ___ that it could be interpreted in two completely different ways.",
+    "options": [
+      "ambiguous",
+      "obscure",
+      "vague",
+      "unclear",
+      "dim"
+    ],
+    "answer": "ambiguous",
+    "distractor_analysis": {
+      "ambiguous": "a. 意义含糊的，有歧义的，指因字、词、句有歧义而使人感到模糊不清、难以把握。",
+      "obscure": "a. 指因光线不足而使人看不清；引申为语法、文字、记忆等因复杂、深奥而使人看不懂、无法理解。",
+      "vague": "a. 含混的，不清楚的，多用于比喻，指因逻辑关系不清、言辞笼统而导致的不明确；也指轮廓模糊。",
+      "unclear": "a. 指句意、字迹不清楚，使人难以看懂；也有不肯定的意思。",
+      "dim": "a. 光线暗淡的，看不清的；记忆力模糊的；（康复、成功等）可能性渺茫的。"
+    },
+    "translation": "这份法律合同的措辞非常模棱两可，以至于可以用两种完全不同的方式来解释。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_22_1"
+  },
+  {
+    "id": "tem4_nua_046",
+    "group_id": 22,
+    "group_name": "ambiguous, obscure, vague, unclear, dim",
+    "level": "TEM-4",
+    "target_word": "obscure",
+    "question": "The poem is difficult to understand because of its many ___ references.",
+    "options": [
+      "ambiguous",
+      "obscure",
+      "vague",
+      "unclear",
+      "dim"
+    ],
+    "answer": "obscure",
+    "distractor_analysis": {
+      "ambiguous": "a. 意义含糊的，有歧义的，指因字、词、句有歧义而使人感到模糊不清、难以把握。",
+      "obscure": "a. 指因光线不足而使人看不清；引申为语法、文字、记忆等因复杂、深奥而使人看不懂、无法理解。",
+      "vague": "a. 含混的，不清楚的，多用于比喻，指因逻辑关系不清、言辞笼统而导致的不明确；也指轮廓模糊。",
+      "unclear": "a. 指句意、字迹不清楚，使人难以看懂；也有不肯定的意思。",
+      "dim": "a. 光线暗淡的，看不清的；记忆力模糊的；（康复、成功等）可能性渺茫的。"
+    },
+    "translation": "这首诗很难理解，因为它包含许多晦涩的典故。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_22_2"
+  },
+  {
+    "id": "tem4_nua_047",
+    "group_id": 22,
+    "group_name": "ambiguous, obscure, vague, unclear, dim",
+    "level": "TEM-4",
+    "target_word": "vague",
+    "question": "He has some ___ ideas about his future plans, but nothing specific.",
+    "options": [
+      "ambiguous",
+      "obscure",
+      "vague",
+      "unclear",
+      "dim"
+    ],
+    "answer": "vague",
+    "distractor_analysis": {
+      "ambiguous": "a. 意义含糊的，有歧义的，指因字、词、句有歧义而使人感到模糊不清、难以把握。",
+      "obscure": "a. 指因光线不足而使人看不清；引申为语法、文字、记忆等因复杂、深奥而使人看不懂、无法理解。",
+      "vague": "a. 含混的，不清楚的，多用于比喻，指因逻辑关系不清、言辞笼统而导致的不明确；也指轮廓模糊。",
+      "unclear": "a. 指句意、字迹不清楚，使人难以看懂；也有不肯定的意思。",
+      "dim": "a. 光线暗淡的，看不清的；记忆力模糊的；（康复、成功等）可能性渺茫的。"
+    },
+    "translation": "他对他未来的计划有一些模糊的想法，但没有具体的计划。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_22_3"
+  },
+  {
+    "id": "tem4_nua_048",
+    "group_id": 22,
+    "group_name": "ambiguous, obscure, vague, unclear, dim",
+    "level": "TEM-4",
+    "target_word": "unclear",
+    "question": "It is still ___ whether the economy will get better next quarter.",
+    "options": [
+      "ambiguous",
+      "obscure",
+      "vague",
+      "unclear",
+      "dim"
+    ],
+    "answer": "unclear",
+    "distractor_analysis": {
+      "ambiguous": "a. 意义含糊的，有歧义的，指因字、词、句有歧义而使人感到模糊不清、难以把握。",
+      "obscure": "a. 指因光线不足而使人看不清；引申为语法、文字、记忆等因复杂、深奥而使人看不懂、无法理解。",
+      "vague": "a. 含混的，不清楚的，多用于比喻，指因逻辑关系不清、言辞笼统而导致的不明确；也指轮廓模糊。",
+      "unclear": "a. 指句意、字迹不清楚，使人难以看懂；也有不肯定的意思。",
+      "dim": "a. 光线暗淡的，看不清的；记忆力模糊的；（康复、成功等）可能性渺茫的。"
+    },
+    "translation": "下季度经济是否会好转仍不明朗。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_22_4"
+  },
+  {
+    "id": "tem4_nua_049",
+    "group_id": 22,
+    "group_name": "ambiguous, obscure, vague, unclear, dim",
+    "level": "TEM-4",
+    "target_word": "dim",
+    "question": "His chances of recovery from the serious illness are rather ___.",
+    "options": [
+      "ambiguous",
+      "obscure",
+      "vague",
+      "unclear",
+      "dim"
+    ],
+    "answer": "dim",
+    "distractor_analysis": {
+      "ambiguous": "a. 意义含糊的，有歧义的，指因字、词、句有歧义而使人感到模糊不清、难以把握。",
+      "obscure": "a. 指因光线不足而使人看不清；引申为语法、文字、记忆等因复杂、深奥而使人看不懂、无法理解。",
+      "vague": "a. 含混的，不清楚的，多用于比喻，指因逻辑关系不清、言辞笼统而导致的不明确；也指轮廓模糊。",
+      "unclear": "a. 指句意、字迹不清楚，使人难以看懂；也有不肯定的意思。",
+      "dim": "a. 光线暗淡的，看不清的；记忆力模糊的；（康复、成功等）可能性渺茫的。"
+    },
+    "translation": "他从重病中康复的可能性相当渺茫。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_22_5"
+  },
+  {
+    "id": "tem4_nua_050",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "amplify",
+    "question": "We must ask you to ___ your statement with more details.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "amplify",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "我们得请你对你的说法作进一步的详细说明。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_1"
+  },
+  {
+    "id": "tem4_nua_051",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "enlarge",
+    "question": "They want to ___ their house to make room for the new baby.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "enlarge",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "他们想扩建房子以容纳新生儿。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_2"
+  },
+  {
+    "id": "tem4_nua_052",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "stretch",
+    "question": "The sweater will ___ out of shape if you pull on it too hard.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "stretch",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "如果你用力拉扯，这件毛衣会被拉长变形。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_3"
+  },
+  {
+    "id": "tem4_nua_053",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "magnify",
+    "question": "These special lenses can ___ words, making them easier to read.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "magnify",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "这些特殊的镜片可以放大字迹，使其更容易阅读。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_4"
+  },
+  {
+    "id": "tem4_nua_054",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "reinforce",
+    "question": "They decided to ___ the bridge with steel beams.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "reinforce",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "他们决定用钢梁加固这座桥梁。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_5"
+  },
+  {
+    "id": "tem4_nua_055",
+    "group_id": 23,
+    "group_name": "amplify, enlarge, stretch, magnify, reinforce, expand",
+    "level": "TEM-4",
+    "target_word": "expand",
+    "question": "The company hopes to ___ its market share in Europe.",
+    "options": [
+      "amplify",
+      "enlarge",
+      "stretch",
+      "magnify",
+      "reinforce",
+      "expand"
+    ],
+    "answer": "expand",
+    "distractor_analysis": {
+      "amplify": "v. 扩大，增加，尤其指通过增强电流使声音扩大，或补充叙述（故事、事件等）的内容细节。",
+      "enlarge": "v. 扩大，多指具体物品（如照片）的放大或建筑物（如房屋）的扩建。",
+      "stretch": "v. （有弹性地）伸展，延伸，拉长；或伸长、伸出并绷紧肌肉。",
+      "magnify": "v. 放大，指用透镜、显微镜等使物体看上去大一些。",
+      "reinforce": "v. 增援，加固，通过添加力量或材料来强化。",
+      "expand": "v. 指范围、体积、容积 of 的扩大、增大，或指文章内容、细节的充实。"
+    },
+    "translation": "公司希望扩大其在欧洲的市场份额。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_23_6"
+  },
+  {
+    "id": "tem4_nua_056",
+    "group_id": 25,
+    "group_name": "apparent, evident, manifest, obvious, distinct",
+    "level": "TEM-4",
+    "target_word": "apparent",
+    "question": "He suddenly left the dinner party for no ___ reason.",
+    "options": [
+      "apparent",
+      "evident",
+      "manifest",
+      "obvious",
+      "distinct"
+    ],
+    "answer": "apparent",
+    "distractor_analysis": {
+      "apparent": "a. 明显的，显而易见的，尤其指容易观察到或认识到的外部情况。",
+      "evident": "a. 明白的，明显的，与 apparent 基本同义，多用于推理或由事实证明的事物。",
+      "manifest": "a. 清楚的，明显的，多指根据外部特征、迹象便能看出其存在或意义，常作表语。",
+      "obvious": "a. 明显的，显而易见的，含有无可辩白、不需要证明之意，最为常用。",
+      "distinct": "a. 清楚的，明显的；不同的，独特的，修饰性质或界限明显不同的东西。"
+    },
+    "translation": "他毫无明显理由地突然离开了晚宴。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_25_1"
+  },
+  {
+    "id": "tem4_nua_057",
+    "group_id": 25,
+    "group_name": "apparent, evident, manifest, obvious, distinct",
+    "level": "TEM-4",
+    "target_word": "evident",
+    "question": "The children ate the chocolate cake with ___ enjoyment.",
+    "options": [
+      "apparent",
+      "evident",
+      "manifest",
+      "obvious",
+      "distinct"
+    ],
+    "answer": "evident",
+    "distractor_analysis": {
+      "apparent": "a. 明显的，显而易见的，尤其指容易观察到或认识到的外部情况。",
+      "evident": "a. 明白的，明显的，与 apparent 基本同义，多用于推理或由事实证明的事物。",
+      "manifest": "a. 清楚的，明显的，多指根据外部特征、迹象便能看出其存在或意义，常作表语。",
+      "obvious": "a. 明显的，显而易见的，含有无可辩白、不需要证明之意，最为常用。",
+      "distinct": "a. 清楚的，明显的；不同的，独特的，修饰性质或界限明显不同的东西。"
+    },
+    "translation": "孩子们显然非常享受地吃着巧克力蛋糕。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_25_2"
+  },
+  {
+    "id": "tem4_nua_058",
+    "group_id": 25,
+    "group_name": "apparent, evident, manifest, obvious, distinct",
+    "level": "TEM-4",
+    "target_word": "distinct",
+    "question": "The new medical treatment brought about a ___ improvement in his health.",
+    "options": [
+      "apparent",
+      "evident",
+      "manifest",
+      "obvious",
+      "distinct"
+    ],
+    "answer": "distinct",
+    "distractor_analysis": {
+      "apparent": "a. 明显的，显而易见的，尤其指容易观察到或认识到的外部情况。",
+      "evident": "a. 明白的，明显的，与 apparent 基本同义，多用于推理或由事实证明的事物。",
+      "manifest": "a. 清楚的，明显的，多指根据外部特征、迹象便能看出其存在或意义，常作表语。",
+      "obvious": "a. 明显的，显而易见的，含有无可辩白、不需要证明之意，最为常用。",
+      "distinct": "a. 清楚的，明显的；不同的，独特的，修饰性质或界限明显不同的东西。"
+    },
+    "translation": "新的治疗方法使他的健康状况有了明显的改善。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1_25_5"
+  },
+  {
+    "id": "tem4_nua_059",
+    "group_id": 27,
+    "group_name": "area, district, region, vicinity, zone",
+    "level": "TEM-4",
+    "target_word": "area",
+    "question": "The New York ___ has high rents.",
+    "options": [
+      "area",
+      "district",
+      "region",
+      "vicinity",
+      "zone"
+    ],
+    "answer": "area",
+    "distractor_analysis": {
+      "area": "泛指面积较大的地区；面积；专业领域。",
+      "district": "行政区划的小范围地区。",
+      "region": "行政区划上更大的地区，如“自治区”；身体部位。",
+      "vicinity": "周围地区，附近地区。",
+      "zone": "指特定的地方、地带。"
+    },
+    "translation": "纽约地区房租很高。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_27_1"
+  },
+  {
+    "id": "tem4_nua_060",
+    "group_id": 31,
+    "group_name": "average, common, general, universal, usual",
+    "level": "TEM-4",
+    "target_word": "average",
+    "question": "The ___ runner can run 2 miles in fifteen minutes.",
+    "options": [
+      "average",
+      "common",
+      "general",
+      "universal",
+      "usual"
+    ],
+    "answer": "average",
+    "distractor_analysis": {
+      "average": "普通的，一般的，它强调的是一般水准或普通水准；通常在有数字出现的情况下，表示“平均的”。",
+      "common": "常见的，普通的，不足为奇的，有时引申为“平凡的”，强调事物的共同性。另外，它还有“公共的，共同的”之意。",
+      "general": "普通的，一般的，表示涉及到各方面，强调整体性而非个别和例外，该词的反义词为 particular。",
+      "universal": "普遍的，比 general 语气更强，有“全然没有例外”的意思。",
+      "usual": "通常的，惯常的，强调“习惯性的，符合规章制度的”。"
+    },
+    "translation": "跑步者15分钟内平均跑两英里。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_31_1"
+  },
+  {
+    "id": "tem4_nua_061",
+    "group_id": 31,
+    "group_name": "average, common, general, universal, usual",
+    "level": "TEM-4",
+    "target_word": "common",
+    "question": "Car accidents are a ___ occurrence.",
+    "options": [
+      "average",
+      "common",
+      "general",
+      "universal",
+      "usual"
+    ],
+    "answer": "common",
+    "distractor_analysis": {
+      "average": "普通的，一般的，它强调的是一般水准或普通水准；通常在有数字出现的情况下，表示“平均的”。",
+      "common": "常见的，普通的，不足为奇的，有时引申为“平凡的”，强调事物的共同性。另外，它还有“公共的，共同的”之意。",
+      "general": "普通的，一般的，表示涉及到各方面，强调整体性而非个别和例外，该词的反义词为 particular。",
+      "universal": "普遍的，比 general 语气更强，有“全然没有例外”的意思。",
+      "usual": "通常的，惯常的，强调“习惯性的，符合规章制度的”。"
+    },
+    "translation": "交通事故是很普通的事件。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_31_2"
+  },
+  {
+    "id": "tem4_nua_062",
+    "group_id": 31,
+    "group_name": "average, common, general, universal, usual",
+    "level": "TEM-4",
+    "target_word": "general",
+    "question": "In ___ , the economy is doing well now.",
+    "options": [
+      "average",
+      "common",
+      "general",
+      "universal",
+      "usual"
+    ],
+    "answer": "general",
+    "distractor_analysis": {
+      "average": "普通的，一般的，它强调的是一般水准或普通水准；通常在有数字出现的情况下，表示“平均的”。",
+      "common": "常见的，普通的，不足为奇的，有时引申为“平凡的”，强调事物的共同性。另外，它还有“公共的，共同的”之意。",
+      "general": "普通的，一般的，表示涉及到各方面，强调整体性而非个别和例外，该词的反义词为 particular。",
+      "universal": "普遍的，比 general 语气更强，有“全然没有例外”的意思。",
+      "usual": "通常的，惯常的，强调“习惯性的，符合规章制度的”。"
+    },
+    "translation": "总的来说，现在的经济形式还不错。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_31_3"
+  },
+  {
+    "id": "tem4_nua_063",
+    "group_id": 31,
+    "group_name": "average, common, general, universal, usual",
+    "level": "TEM-4",
+    "target_word": "universal",
+    "question": "Poverty is a ___ problem all over the world.",
+    "options": [
+      "average",
+      "common",
+      "general",
+      "universal",
+      "usual"
+    ],
+    "answer": "universal",
+    "distractor_analysis": {
+      "average": "普通的，一般的，它强调的是一般水准或普通水准；通常在有数字出现的情况下，表示“平均的”。",
+      "common": "常见的，普通的，不足为奇的，有时引申为“平凡的”，强调事物的共同性。另外，它还有“公共的，共同的”之意。",
+      "general": "普通的，一般的，表示涉及到各方面，强调整体性而非个别和例外，该词的反义词为 particular。",
+      "universal": "普遍的，比 general 语气更强，有“全然没有例外”的意思。",
+      "usual": "通常的，惯常的，强调“习惯性的，符合规章制度的”。"
+    },
+    "translation": "贫困是世界各地普遍存在的问题。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_31_4"
+  },
+  {
+    "id": "tem4_nua_064",
+    "group_id": 31,
+    "group_name": "average, common, general, universal, usual",
+    "level": "TEM-4",
+    "target_word": "usual",
+    "question": "He arrived at his ___ time in the morning.",
+    "options": [
+      "average",
+      "common",
+      "general",
+      "universal",
+      "usual"
+    ],
+    "answer": "usual",
+    "distractor_analysis": {
+      "average": "普通的，一般的，它强调的是一般水准或普通水准；通常在有数字出现的情况下，表示“平均的”。",
+      "common": "常见的，普通的，不足为奇的，有时引申为“平凡的”，强调事物的共同性。另外，它还有“公共的，共同的”之意。",
+      "general": "普通的，一般的，表示涉及到各方面，强调整体性而非个别和例外，该词的反义词为 particular。",
+      "universal": "普遍的，比 general 语气更强，有“全然没有例外”的意思。",
+      "usual": "通常的，惯常的，强调“习惯性的，符合规章制度的”。"
+    },
+    "translation": "他在早上惯常的时间到达了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_31_5"
+  },
+  {
+    "id": "tem4_nua_065",
+    "group_id": 33,
+    "group_name": "aware, conscious",
+    "level": "TEM-4",
+    "target_word": "conscious",
+    "question": "We must make a ___ effort to protect the environment and reduce waste.",
+    "options": [
+      "aware",
+      "conscious"
+    ],
+    "answer": "conscious",
+    "distractor_analysis": {
+      "aware": "知道的，意识到的，强调感官对外界事物的意识。",
+      "conscious": "有意识的，意识到的，一般指内心所意识到的。"
+    },
+    "translation": "我们必须有意识地努力保护环境并减少浪费。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_33_2"
+  },
+  {
+    "id": "tem4_nua_066",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "ground",
+    "question": "The dry ___ is cracked after weeks of no rain.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "ground",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "在数周未下雨后，干燥的土地开裂了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_34_3"
+  },
+  {
+    "id": "tem4_nua_067",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "basic",
+    "question": "He has a ___ understanding of the problem.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "basic",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "他对问题有基本的了解。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_34_4"
+  },
+  {
+    "id": "tem4_nua_068",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "elementary",
+    "question": "My younger sister is studying at an ___ school.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "elementary",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "我妹妹在一所小学学习。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_34_5"
+  },
+  {
+    "id": "tem4_nua_069",
+    "group_id": 34,
+    "group_name": "base, foundation, ground, basic, elementary, fundamental",
+    "level": "TEM-4",
+    "target_word": "fundamental",
+    "question": "Honesty is a ___ principle in dealing with others.",
+    "options": [
+      "base",
+      "foundation",
+      "ground",
+      "basic",
+      "elementary",
+      "fundamental"
+    ],
+    "answer": "fundamental",
+    "distractor_analysis": {
+      "base": "指具体的有形的基础，也可指物体的底部、基部；基地，总部。",
+      "foundation": "本义指建筑物的地基，含有坚实的基础的意思；基金会。",
+      "ground": "地面，土地，也指地域，水底，海底。",
+      "basic": "基本的，基础的，既可用于具体事物，也可用于抽象事物。",
+      "elementary": "初步的，初级的。",
+      "fundamental": "根本性的，一般只用于抽象的事物；必要的，必须的。"
+    },
+    "translation": "诚实是与别人相处的基本原则。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_34_6"
+  },
+  {
+    "id": "tem4_nua_070",
+    "group_id": 36,
+    "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
+    "level": "TEM-4",
+    "target_word": "bewilder",
+    "question": "The complicated traffic system in the city can ___ the farmers.",
+    "options": [
+      "bewilder",
+      "puzzle",
+      "confuse",
+      "embarrass",
+      "perplex"
+    ],
+    "answer": "bewilder",
+    "distractor_analysis": {
+      "bewilder": "使困惑，使茫然，强调非常困惑，通常表现为心理 and 智力的紊乱，语气最重。",
+      "puzzle": "使迷惑，感到不解，强调不理解或解决不了。",
+      "confuse": "一般用语，使混乱，使糊涂，强调因混淆而使人产生迷乱。",
+      "embarrass": "使窘迫， 使为难， 使困惑， 有令人不快、 难为情和内心混乱的意味。",
+      "perplex": "使杂乱，使疑虑，使不安。"
+    },
+    "translation": "城市复杂的交通系统会让农民感到迷茫。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_36_1"
+  },
+  {
+    "id": "tem4_nua_071",
+    "group_id": 36,
+    "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
+    "level": "TEM-4",
+    "target_word": "puzzle",
+    "question": "Where the sunken treasure is will always ___ explorers.",
+    "options": [
+      "bewilder",
+      "puzzle",
+      "confuse",
+      "embarrass",
+      "perplex"
+    ],
+    "answer": "puzzle",
+    "distractor_analysis": {
+      "bewilder": "使困惑，使茫然，强调非常困惑，通常表现为心理 and 智力的紊乱，语气最重。",
+      "puzzle": "使迷惑，感到不解，强调不理解或解决不了。",
+      "confuse": "一般用语，使混乱，使糊涂，强调因混淆而使人产生迷乱。",
+      "embarrass": "使窘迫， 使为难， 使困惑， 有令人不快、 难为情和内心混乱的意味。",
+      "perplex": "使杂乱，使疑虑，使不安。"
+    },
+    "translation": "沉没宝藏的下落令探险家们大惑不解。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_36_2"
+  },
+  {
+    "id": "tem4_nua_072",
+    "group_id": 36,
+    "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
+    "level": "TEM-4",
+    "target_word": "confuse",
+    "question": "He may ___ the reports if they are not labeled properly.",
+    "options": [
+      "bewilder",
+      "puzzle",
+      "confuse",
+      "embarrass",
+      "perplex"
+    ],
+    "answer": "confuse",
+    "distractor_analysis": {
+      "bewilder": "使困惑，使茫然，强调非常困惑，通常表现为心理 and 智力的紊乱，语气最重。",
+      "puzzle": "使迷惑，感到不解，强调不理解或解决不了。",
+      "confuse": "一般用语，使混乱，使糊涂，强调因混淆而使人产生迷乱。",
+      "embarrass": "使窘迫， 使为难， 使困惑， 有令人不快、 难为情和内心混乱的意味。",
+      "perplex": "使杂乱，使疑虑，使不安。"
+    },
+    "translation": "如果报告没有贴好标签，他可能会把它们弄混。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_36_3"
+  },
+  {
+    "id": "tem4_nua_073",
+    "group_id": 36,
+    "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
+    "level": "TEM-4",
+    "target_word": "embarrass",
+    "question": "Her boyfriend decided to ___ her by teasing her in front of others.",
+    "options": [
+      "bewilder",
+      "puzzle",
+      "confuse",
+      "embarrass",
+      "perplex"
+    ],
+    "answer": "embarrass",
+    "distractor_analysis": {
+      "bewilder": "使困惑，使茫然，强调非常困惑，通常表现为心理 and 智力的紊乱，语气最重。",
+      "puzzle": "使迷惑，感到不解，强调不理解或解决不了。",
+      "confuse": "一般用语，使混乱，使糊涂，强调因混淆而使人产生迷乱。",
+      "embarrass": "使窘迫， 使为难， 使困惑， 有令人不快、 难为情和内心混乱的意味。",
+      "perplex": "使杂乱，使疑虑，使不安。"
+    },
+    "translation": "她的男友在别人面前戏弄她，使她感到难堪。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_36_4"
+  },
+  {
+    "id": "tem4_nua_074",
+    "group_id": 36,
+    "group_name": "bewilder, puzzle, confuse, embarrass, perplex",
+    "level": "TEM-4",
+    "target_word": "perplex",
+    "question": "The complicated symptoms of this rare disease continue to ___ doctors.",
+    "options": [
+      "bewilder",
+      "puzzle",
+      "confuse",
+      "embarrass",
+      "perplex"
+    ],
+    "answer": "perplex",
+    "distractor_analysis": {
+      "bewilder": "使困惑，使茫然，强调非常困惑，通常表现为心理 and 智力的紊乱，语气最重。",
+      "puzzle": "使迷惑，感到不解，强调不理解或解决不了。",
+      "confuse": "一般用语，使混乱，使糊涂，强调因混淆而使人产生迷乱。",
+      "embarrass": "使窘迫， 使为难， 使困惑， 有令人不快、 难为情和内心混乱的意味。",
+      "perplex": "使杂乱，使疑虑，使不安。"
+    },
+    "translation": "这种罕见疾病的复杂症状继续让医生们感到困惑。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_36_5"
+  },
+  {
+    "id": "tem4_nua_075",
+    "group_id": 38,
+    "group_name": "blunder, error, mistake",
+    "level": "TEM-4",
+    "target_word": "error",
+    "question": "The accident was the result of human ___.",
+    "options": [
+      "blunder",
+      "error",
+      "mistake"
+    ],
+    "answer": "error",
+    "distractor_analysis": {
+      "blunder": "(因为无知、疏忽犯下的)大错，愚蠢的错误。",
+      "error": "指判断、计算或行为上的错误，也可指智力或道义上的错误。",
+      "mistake": "误会，误解；(粗心、遗忘所导致的)错误。"
+    },
+    "translation": "这事故是人为的错误造成的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_38_2"
+  },
+  {
+    "id": "tem4_nua_076",
+    "group_id": 38,
+    "group_name": "blunder, error, mistake",
+    "level": "TEM-4",
+    "target_word": "mistake",
+    "question": "I took your bag instead of mine by ___.",
+    "options": [
+      "blunder",
+      "error",
+      "mistake"
+    ],
+    "answer": "mistake",
+    "distractor_analysis": {
+      "blunder": "(因为无知、疏忽犯下的)大错，愚蠢的错误。",
+      "error": "指判断、计算或行为上的错误，也可指智力或道义上的错误。",
+      "mistake": "误会，误解；(粗心、遗忘所导致的)错误。"
+    },
+    "translation": "我错拿了你的手提包。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_38_3"
+  },
+  {
+    "id": "tem4_nua_077",
+    "group_id": 39,
+    "group_name": "brittle, fragile, frail, crisp, invalid",
+    "level": "TEM-4",
+    "target_word": "brittle",
+    "question": "The bones of elderly people become ___ and easily broken.",
+    "options": [
+      "brittle",
+      "fragile",
+      "frail",
+      "crisp",
+      "invalid"
+    ],
+    "answer": "brittle",
+    "distractor_analysis": {
+      "brittle": "易碎的，易损坏的，通常是指坚硬的东西。",
+      "fragile": "常常修饰使用时必须小心才不会破碎的东西， 也引申为体弱的， 虚弱的。",
+      "frail": "(指人)体弱的，虚弱的，也可以指东西易碎的。",
+      "crisp": "指食品的松脆；清新的，爽快的；活跃的，有生气的，干净利落的。",
+      "invalid": "不正确的，缺乏证据的；无效的，作废的。作名词时，表示病弱者，伤残者，久病者。"
+    },
+    "translation": "老年人的骨头变得脆弱，很容易骨折。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_39_1"
+  },
+  {
+    "id": "tem4_nua_078",
+    "group_id": 39,
+    "group_name": "brittle, fragile, frail, crisp, invalid",
+    "level": "TEM-4",
+    "target_word": "fragile",
+    "question": "He is feeling a bit ___ after last night's party.",
+    "options": [
+      "brittle",
+      "fragile",
+      "frail",
+      "crisp",
+      "invalid"
+    ],
+    "answer": "fragile",
+    "distractor_analysis": {
+      "brittle": "易碎的，易损坏的，通常是指坚硬的东西。",
+      "fragile": "常常修饰使用时必须小心才不会破碎的东西， 也引申为体弱的， 虚弱的。",
+      "frail": "(指人)体弱的，虚弱的，也可以指东西易碎的。",
+      "crisp": "指食品的松脆；清新的，爽快的；活跃的，有生气的，干净利落的。",
+      "invalid": "不正确的，缺乏证据的；无效的，作废的。作名词时，表示病弱者，伤残者，久病者。"
+    },
+    "translation": "他参加了昨晚的聚会以后，现在感觉有些虚弱。",
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_39_2"
+  },
+  {
+    "id": "tem4_nua_079",
+    "group_id": 39,
+    "group_name": "brittle, fragile, frail, crisp, invalid",
+    "level": "TEM-4",
+    "target_word": "frail",
+    "question": "His mother has grown old and ___.",
+    "options": [
+      "brittle",
+      "fragile",
+      "frail",
+      "crisp",
+      "invalid"
+    ],
+    "answer": "frail",
+    "distractor_analysis": {
+      "brittle": "易碎的，易损坏的，通常是指坚硬的东西。",
+      "fragile": "常常修饰使用时必须小心才不会破碎的东西， 也引申为体弱的， 虚弱的。",
+      "frail": "(指人)体弱的，虚弱的，也可以指东西易碎的。",
+      "crisp": "指食品的松脆；清新的，爽快的；活跃的，有生气的，干净利落的。",
+      "invalid": "不正确的，缺乏证据的；无效的，作废的。作名词时，表示病弱者，伤残者，久病者。"
+    },
+    "translation": "他母亲已经年老体弱。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_39_3"
+  },
+  {
+    "id": "tem4_nua_080",
+    "group_id": 39,
+    "group_name": "brittle, fragile, frail, crisp, invalid",
+    "level": "TEM-4",
+    "target_word": "crisp",
+    "question": "The student gave a clear, ___ answer to the question.",
+    "options": [
+      "brittle",
+      "fragile",
+      "frail",
+      "crisp",
+      "invalid"
+    ],
+    "answer": "crisp",
+    "distractor_analysis": {
+      "brittle": "易碎的，易损坏的，通常是指坚硬的东西。",
+      "fragile": "常常修饰使用时必须小心才不会破碎的东西， 也引申为体弱的， 虚弱的。",
+      "frail": "(指人)体弱的，虚弱的，也可以指东西易碎的。",
+      "crisp": "指食品的松脆；清新的，爽快的；活跃的，有生气的，干净利落的。",
+      "invalid": "不正确的，缺乏证据的；无效的，作废的。作名词时，表示病弱者，伤残者，久病者。"
+    },
+    "translation": "学生干净利落地回答了问题。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_39_4"
+  },
+  {
+    "id": "tem4_nua_081",
+    "group_id": 39,
+    "group_name": "brittle, fragile, frail, crisp, invalid",
+    "level": "TEM-4",
+    "target_word": "invalid",
+    "question": "Your ideas about the first humans are interesting but ___.",
+    "options": [
+      "brittle",
+      "fragile",
+      "frail",
+      "crisp",
+      "invalid"
+    ],
+    "answer": "invalid",
+    "distractor_analysis": {
+      "brittle": "易碎的，易损坏的，通常是指坚硬的东西。",
+      "fragile": "常常修饰使用时必须小心才不会破碎的东西， 也引申为体弱的， 虚弱的。",
+      "frail": "(指人)体弱的，虚弱的，也可以指东西易碎的。",
+      "crisp": "指食品的松脆；清新的，爽快的；活跃的，有生气的，干净利落的。",
+      "invalid": "不正确的，缺乏证据的；无效的，作废的。作名词时，表示病弱者，伤残者，久病者。"
+    },
+    "translation": "你关于最早的人类的观点很有意思，但是缺乏证据。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_39_5"
+  },
+  {
+    "id": "tem4_nua_082",
+    "group_id": 40,
+    "group_name": "boundary, border, frontier, rim, verge",
+    "level": "TEM-4",
+    "target_word": "boundary",
+    "question": "The fence marks the ___ between my land and hers.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "rim",
+      "verge"
+    ],
+    "answer": "boundary",
+    "distractor_analysis": {
+      "boundary": "边界；界线。多指作为界线的标识物等。",
+      "border": "较宽的边缘，边界， 多指两国或两地之间的分界处附近的边缘地区、 边界地带；也可以指物体的边缘等。",
+      "frontier": "边界，边境，边疆，指靠近边界(boundary)的区域；也可引申为“前沿”，“未开发的领域”等。",
+      "rim": "边，边缘，尤指圆形或近似圆形的物体的边缘。",
+      "verge": "(道路、花坛等长着草的)边缘，引申为“某事即将发生之际”。"
+    },
+    "translation": "这道栅栏是我的地和她的地的分界线。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_40_1"
+  },
+  {
+    "id": "tem4_nua_083",
+    "group_id": 40,
+    "group_name": "boundary, border, frontier, rim, verge",
+    "level": "TEM-4",
+    "target_word": "rim",
+    "question": "The cup has a gold ___ around its top.",
+    "options": [
+      "boundary",
+      "border",
+      "frontier",
+      "rim",
+      "verge"
+    ],
+    "answer": "rim",
+    "distractor_analysis": {
+      "boundary": "边界；界线。多指作为界线的标识物等。",
+      "border": "较宽的边缘，边界， 多指两国或两地之间的分界处附近的边缘地区、 边界地带；也可以指物体的边缘等。",
+      "frontier": "边界，边境，边疆，指靠近边界(boundary)的区域；也可引申为“前沿”，“未开发的领域”等。",
+      "rim": "边，边缘，尤指圆形或近似圆形的物体的边缘。",
+      "verge": "(道路、花坛等长着草的)边缘，引申为“某事即将发生之际”。"
+    },
+    "translation": "杯子的顶部边缘有一圈金边。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_40_4"
+  },
+  {
+    "id": "tem4_nua_084",
+    "group_id": 41,
+    "group_name": "brief, concise, curt, succinct",
+    "level": "TEM-4",
+    "target_word": "brief",
+    "question": "The manager made a ___ statement to open the meeting.",
+    "options": [
+      "brief",
+      "concise",
+      "curt",
+      "succinct"
+    ],
+    "answer": "brief",
+    "distractor_analysis": {
+      "brief": "简明扼要的，简短的，指时间短暂，办事利索，态度明了等；有时含有“虽短但却不失全面”的意味。",
+      "concise": "(文字等的)简要、精练，常含有保留主要部分的意思。",
+      "curt": "三言两语的，简短的，常含有“草率”的意思。",
+      "succinct": "简明的，简洁的，简练的，尤指用词简练，除含有 concise 的意思外，还有经过压缩的或简化的意思。"
+    },
+    "translation": "经理致了简短的开幕词。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_41_1"
+  },
+  {
+    "id": "tem4_nua_085",
+    "group_id": 41,
+    "group_name": "brief, concise, curt, succinct",
+    "level": "TEM-4",
+    "target_word": "concise",
+    "question": "His letter was ___ , omitting everything not pertinent to the job.",
+    "options": [
+      "brief",
+      "concise",
+      "curt",
+      "succinct"
+    ],
+    "answer": "concise",
+    "distractor_analysis": {
+      "brief": "简明扼要的，简短的，指时间短暂，办事利索，态度明了等；有时含有“虽短但却不失全面”的意味。",
+      "concise": "(文字等的)简要、精练，常含有保留主要部分的意思。",
+      "curt": "三言两语的，简短的，常含有“草率”的意思。",
+      "succinct": "简明的，简洁的，简练的，尤指用词简练，除含有 concise 的意思外，还有经过压缩的或简化的意思。"
+    },
+    "translation": "他的信写得简明扼要，省略掉了所有与该项工作无关的部分。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_41_2"
+  },
+  {
+    "id": "tem4_nua_086",
+    "group_id": 41,
+    "group_name": "brief, concise, curt, succinct",
+    "level": "TEM-4",
+    "target_word": "curt",
+    "question": "He asked his boss a question, but got a ___ reply.",
+    "options": [
+      "brief",
+      "concise",
+      "curt",
+      "succinct"
+    ],
+    "answer": "curt",
+    "distractor_analysis": {
+      "brief": "简明扼要的，简短的，指时间短暂，办事利索，态度明了等；有时含有“虽短但却不失全面”的意味。",
+      "concise": "(文字等的)简要、精练，常含有保留主要部分的意思。",
+      "curt": "三言两语的，简短的，常含有“草率”的意思。",
+      "succinct": "简明的，简洁的，简练的，尤指用词简练，除含有 concise 的意思外，还有经过压缩的或简化的意思。"
+    },
+    "translation": "他问老板一个问题，但是老板粗率地回答了一下。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_41_3"
+  },
+  {
+    "id": "tem4_nua_087",
+    "group_id": 41,
+    "group_name": "brief, concise, curt, succinct",
+    "level": "TEM-4",
+    "target_word": "succinct",
+    "question": "He gave a ___ summary of the argument to save time.",
+    "options": [
+      "brief",
+      "concise",
+      "curt",
+      "succinct"
+    ],
+    "answer": "succinct",
+    "distractor_analysis": {
+      "brief": "简明扼要的，简短的，指时间短暂，办事利索，态度明了等；有时含有“虽短但却不失全面”的意味。",
+      "concise": "(文字等的)简要、精练，常含有保留主要部分的意思。",
+      "curt": "三言两语的，简短的，常含有“草率”的意思。",
+      "succinct": "简明的，简洁的，简练的，尤指用词简练，除含有 concise 的意思外，还有经过压缩的或简化的意思。"
+    },
+    "translation": "他给出了论点的简要概述以节省时间。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_41_4"
+  },
+  {
+    "id": "tem4_nua_088",
+    "group_id": 42,
+    "group_name": "bush, shrub, jungle",
+    "level": "TEM-4",
+    "target_word": "bush",
+    "question": "The rabbit disappeared into a green ___.",
+    "options": [
+      "bush",
+      "shrub",
+      "jungle"
+    ],
+    "answer": "bush",
+    "distractor_analysis": {
+      "bush": "矮树丛。",
+      "shrub": "有木茎的灌木，灌木丛。",
+      "jungle": "热带稠密的雨林或丛林。"
+    },
+    "translation": "兔子消失在绿色的矮树丛中。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_42_1"
+  },
+  {
+    "id": "tem4_nua_089",
+    "group_id": 42,
+    "group_name": "bush, shrub, jungle",
+    "level": "TEM-4",
+    "target_word": "jungle",
+    "question": "They had to cut their way through the thick ___.",
+    "options": [
+      "bush",
+      "shrub",
+      "jungle"
+    ],
+    "answer": "jungle",
+    "distractor_analysis": {
+      "bush": "矮树丛。",
+      "shrub": "有木茎的灌木，灌木丛。",
+      "jungle": "热带稠密的雨林或丛林。"
+    },
+    "translation": "他们不得不开路穿过茂密的热带雨林。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_42_3"
+  },
+  {
+    "id": "tem4_nua_090",
+    "group_id": 47,
+    "group_name": "component, element, factor, ingredient",
+    "level": "TEM-4",
+    "target_word": "element",
+    "question": "Hydrogen is a chemical ___.",
+    "options": [
+      "component",
+      "element",
+      "factor",
+      "ingredient"
+    ],
+    "answer": "element",
+    "distractor_analysis": {
+      "component": "零部件；(某事物的)组成部分；成分。",
+      "element": "元素；组成部分，方面；某特定类型的人或群体，分子。",
+      "factor": "因素，要素，侧重指原因。",
+      "ingredient": "原料，成分，要素。"
+    },
+    "translation": "氢是一种化学元素。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_47_2"
+  },
+  {
+    "id": "tem4_nua_091",
+    "group_id": 50,
+    "group_name": "confinement, limitation, restraint",
+    "level": "TEM-4",
+    "target_word": "confinement",
+    "question": "The prisoner was sentenced to three months' solitary ___.",
+    "options": [
+      "confinement",
+      "limitation",
+      "restraint"
+    ],
+    "answer": "confinement",
+    "distractor_analysis": {
+      "confinement": "限制，囚禁(于某地或某种境地)。",
+      "limitation": "限制，局限；(能力的)缺点，弱点。",
+      "restraint": "克制，抑制；约束措施。"
+    },
+    "translation": "那犯人被判处单独监禁三个月。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_50_1"
+  },
+  {
+    "id": "tem4_nua_092",
+    "group_id": 50,
+    "group_name": "confinement, limitation, restraint",
+    "level": "TEM-4",
+    "target_word": "restraint",
+    "question": "Even though the mother was very angry, she acted with ___.",
+    "options": [
+      "confinement",
+      "limitation",
+      "restraint"
+    ],
+    "answer": "restraint",
+    "distractor_analysis": {
+      "confinement": "限制，囚禁(于某地或某种境地)。",
+      "limitation": "限制，局限；(能力的)缺点，弱点。",
+      "restraint": "克制，抑制；约束措施。"
+    },
+    "translation": "即使母亲很生气，她仍克制自己。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2_50_3"
+  },
+  {
+    "id": "tem4_nua_093",
+    "group_id": 51,
+    "group_name": "considerable, considerate",
+    "level": "TEM-4",
+    "target_word": "considerable",
+    "question": "That family owns a ___ amount of land.",
+    "options": [
+      "considerable",
+      "considerate"
+    ],
+    "answer": "considerable",
+    "distractor_analysis": {
+      "considerable": "相当大的，相当多的；值得考虑的",
+      "considerate": "考虑周到的，体贴的，后面常跟 of 结构"
+    },
+    "translation": "那个家族拥有大量的土地。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_51_1"
+  },
+  {
+    "id": "tem4_nua_094",
+    "group_id": 52,
+    "group_name": "conserve, preserve, reserve",
+    "level": "TEM-4",
+    "target_word": "conserve",
+    "question": "In winter, some people ___ energy by lowering the heat at night.",
+    "options": [
+      "conserve",
+      "preserve",
+      "reserve"
+    ],
+    "answer": "conserve",
+    "distractor_analysis": {
+      "conserve": "保存，保藏，保护(强调节约)",
+      "preserve": "保护；维持；保养；防止(食物)腐败(强调使不受破坏)",
+      "reserve": "保留，储备(强调为某一特殊目的)；订(座位)，预定"
+    },
+    "translation": "冬天，为节约能源有些人在夜里把暖气调小。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_52_1"
+  },
+  {
+    "id": "tem4_nua_095",
+    "group_id": 52,
+    "group_name": "conserve, preserve, reserve",
+    "level": "TEM-4",
+    "target_word": "preserve",
+    "question": "We must work together to ___ our local traditions and cultural heritage.",
+    "options": [
+      "conserve",
+      "preserve",
+      "reserve"
+    ],
+    "answer": "preserve",
+    "distractor_analysis": {
+      "conserve": "保存，保藏，保护(强调节约)",
+      "preserve": "保护；维持；保养；防止(食物)腐败(强调使不受破坏)",
+      "reserve": "保留，储备(强调为某一特殊目的)；订(座位)，预定"
+    },
+    "translation": "我们必须共同努力，保护我们的地方传统和文化遗产。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_52_2"
+  },
+  {
+    "id": "tem4_nua_096",
+    "group_id": 52,
+    "group_name": "conserve, preserve, reserve",
+    "level": "TEM-4",
+    "target_word": "reserve",
+    "question": "I would like to ___ a table for two for tomorrow evening.",
+    "options": [
+      "conserve",
+      "preserve",
+      "reserve"
+    ],
+    "answer": "reserve",
+    "distractor_analysis": {
+      "conserve": "保存，保藏，保护(强调节约)",
+      "preserve": "保护；维持；保养；防止(食物)腐败(强调使不受破坏)",
+      "reserve": "保留，储备(强调为某一特殊目的)；订(座位)，预定"
+    },
+    "translation": "我想预订一张明晚的两人桌。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_52_3"
+  },
+  {
+    "id": "tem4_nua_097",
+    "group_id": 53,
+    "group_name": "continual, continuous, constant, incessant",
+    "level": "TEM-4",
+    "target_word": "continual",
+    "question": "That dog's barking is a ___ annoyance.",
+    "options": [
+      "continual",
+      "continuous",
+      "constant",
+      "incessant"
+    ],
+    "answer": "continual",
+    "distractor_analysis": {
+      "continual": "连续不断的；频繁的，表示时断时续的发生",
+      "continuous": "不停的，连续不断的，强调中间不停顿",
+      "constant": "不断的，经常的，强调始终如一地经常出现",
+      "incessant": "不停的，持续不断的，强调令人厌烦地重复出现，中间可能有停顿"
+    },
+    "translation": "那条狗不停地叫，真是烦死人了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_53_1"
+  },
+  {
+    "id": "tem4_nua_098",
+    "group_id": 53,
+    "group_name": "continual, continuous, constant, incessant",
+    "level": "TEM-4",
+    "target_word": "continuous",
+    "question": "Our homes and offices need a ___ supply of electricity.",
+    "options": [
+      "continual",
+      "continuous",
+      "constant",
+      "incessant"
+    ],
+    "answer": "continuous",
+    "distractor_analysis": {
+      "continual": "连续不断的；频繁的，表示时断时续的发生",
+      "continuous": "不停的，连续不断的，强调中间不停顿",
+      "constant": "不断的，经常的，强调始终如一地经常出现",
+      "incessant": "不停的，持续不断的，强调令人厌烦地重复出现，中间可能有停顿"
+    },
+    "translation": "我们的家庭以及办公室需要不间断的供电。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_53_2"
+  },
+  {
+    "id": "tem4_nua_099",
+    "group_id": 53,
+    "group_name": "continual, continuous, constant, incessant",
+    "level": "TEM-4",
+    "target_word": "constant",
+    "question": "Everything in the universe is in ___ motion.",
+    "options": [
+      "continual",
+      "continuous",
+      "constant",
+      "incessant"
+    ],
+    "answer": "constant",
+    "distractor_analysis": {
+      "continual": "连续不断的；频繁的，表示时断时续的发生",
+      "continuous": "不停的，连续不断的，强调中间不停顿",
+      "constant": "不断的，经常的，强调始终如一地经常出现",
+      "incessant": "不停的，持续不断的，强调令人厌烦地重复出现，中间可能有停顿"
+    },
+    "translation": "宇宙中的万物都在不断地运动。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_53_3"
+  },
+  {
+    "id": "tem4_nua_100",
+    "group_id": 53,
+    "group_name": "continual, continuous, constant, incessant",
+    "level": "TEM-4",
+    "target_word": "incessant",
+    "question": "___ noise makes me appreciate silence.",
+    "options": [
+      "continual",
+      "continuous",
+      "constant",
+      "incessant"
+    ],
+    "answer": "incessant",
+    "distractor_analysis": {
+      "continual": "连续不断的；频繁的，表示时断时续的发生",
+      "continuous": "不停的，连续不断的，强调中间不停顿",
+      "constant": "不断的，经常的，强调始终如一地经常出现",
+      "incessant": "不停的，持续不断的，强调令人厌烦地重复出现，中间可能有停顿"
+    },
+    "translation": "持续不断的噪声骚扰使我喜欢安静的环境。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_53_4"
+  },
+  {
+    "id": "tem4_nua_101",
+    "group_id": 54,
+    "group_name": "convert, invert, revert, transform",
+    "level": "TEM-4",
+    "target_word": "invert",
+    "question": "To remove the cake from the pan, you need to ___ it onto a cooling rack.",
+    "options": [
+      "convert",
+      "invert",
+      "revert",
+      "transform"
+    ],
+    "answer": "invert",
+    "distractor_analysis": {
+      "convert": "转变，变换，含有“使某人改变观点”的意思",
+      "invert": "使颠倒，使倒转，使反向，常表示位置、顺序、方向等的颠倒",
+      "revert": "归还，恢复原状，指回到原来的状态或情形",
+      "transform": "改变，转变，指形状、颜色、大小、性质等的改变"
+    },
+    "translation": "要把蛋糕从烤盘里取出来，你需要把它倒扣在冷却架上。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_54_2"
+  },
+  {
+    "id": "tem4_nua_102",
+    "group_id": 54,
+    "group_name": "convert, invert, revert, transform",
+    "level": "TEM-4",
+    "target_word": "transform",
+    "question": "A little paint will soon ___ the old house.",
+    "options": [
+      "convert",
+      "invert",
+      "revert",
+      "transform"
+    ],
+    "answer": "transform",
+    "distractor_analysis": {
+      "convert": "转变，变换，含有“使某人改变观点”的意思",
+      "invert": "使颠倒，使倒转，使反向，常表示位置、顺序、方向等的颠倒",
+      "revert": "归还，恢复原状，指回到原来的状态或情形",
+      "transform": "改变，转变，指形状、颜色、大小、性质等的改变"
+    },
+    "translation": "刷一点油漆很快就会使这所旧房子大为改观。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_54_4"
+  },
+  {
+    "id": "tem4_nua_103",
+    "group_id": 55,
+    "group_name": "credible, credulous, plausible",
+    "level": "TEM-4",
+    "target_word": "credible",
+    "question": "The police concluded that the witness was ___, as her testimony matched the video footage perfectly.",
+    "options": [
+      "credible",
+      "credulous",
+      "plausible"
+    ],
+    "answer": "credible",
+    "distractor_analysis": {
+      "credible": "可信的，可靠的",
+      "credulous": "轻信的，易于相信的",
+      "plausible": "似乎有理的，可信的，常带有怀疑的意思"
+    },
+    "translation": "警方断定这名证人是可信的，因为她的证词与视频录像完全吻合。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_55_1"
+  },
+  {
+    "id": "tem4_nua_104",
+    "group_id": 55,
+    "group_name": "credible, credulous, plausible",
+    "level": "TEM-4",
+    "target_word": "credulous",
+    "question": "She was ___ when she listened to the salesman and bought the car for too much money.",
+    "options": [
+      "credible",
+      "credulous",
+      "plausible"
+    ],
+    "answer": "credulous",
+    "distractor_analysis": {
+      "credible": "可信的，可靠的",
+      "credulous": "轻信的，易于相信的",
+      "plausible": "似乎有理的，可信的，常带有怀疑的意思"
+    },
+    "translation": "她很容易轻信别人，竟然听信那个销售员的话以高价买了那辆车。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_55_2"
+  },
+  {
+    "id": "tem4_nua_105",
+    "group_id": 55,
+    "group_name": "credible, credulous, plausible",
+    "level": "TEM-4",
+    "target_word": "plausible",
+    "question": "Even though it is a ___ explanation, I am not completely convinced.",
+    "options": [
+      "credible",
+      "credulous",
+      "plausible"
+    ],
+    "answer": "plausible",
+    "distractor_analysis": {
+      "credible": "可信的，可靠的",
+      "credulous": "轻信的，易于相信的",
+      "plausible": "似乎有理的，可信的，常带有怀疑的意思"
+    },
+    "translation": "虽然这个解释合理，但仍不可能使我完全相信。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_55_3"
+  },
+  {
+    "id": "tem4_nua_106",
+    "group_id": 57,
+    "group_name": "deduce, induce, reduce",
+    "level": "TEM-4",
+    "target_word": "deduce",
+    "question": "From the wet umbrellas in the hallway, we can ___ that it is raining outside.",
+    "options": [
+      "deduce",
+      "induce",
+      "reduce"
+    ],
+    "answer": "deduce",
+    "distractor_analysis": {
+      "deduce": "推断，推理，演绎",
+      "induce": "引诱，劝；引起，导致",
+      "reduce": "减轻，减小；降低"
+    },
+    "translation": "从走廊里湿漉漉的雨伞，我们可以推断出外面正在下雨。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_57_1"
+  },
+  {
+    "id": "tem4_nua_107",
+    "group_id": 57,
+    "group_name": "deduce, induce, reduce",
+    "level": "TEM-4",
+    "target_word": "induce",
+    "question": "We couldn't ___ the old lady to travel by air.",
+    "options": [
+      "deduce",
+      "induce",
+      "reduce"
+    ],
+    "answer": "induce",
+    "distractor_analysis": {
+      "deduce": "推断，推理，演绎",
+      "induce": "引诱，劝；引起，导致",
+      "reduce": "减轻，减小；降低"
+    },
+    "translation": "我们无法劝说那位老太太坐飞机去。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_57_2"
+  },
+  {
+    "id": "tem4_nua_108",
+    "group_id": 57,
+    "group_name": "deduce, induce, reduce",
+    "level": "TEM-4",
+    "target_word": "reduce",
+    "question": "You must eat less and exercise more if you want to ___ your weight.",
+    "options": [
+      "deduce",
+      "induce",
+      "reduce"
+    ],
+    "answer": "reduce",
+    "distractor_analysis": {
+      "deduce": "推断，推理，演绎",
+      "induce": "引诱，劝；引起，导致",
+      "reduce": "减轻，减小；降低"
+    },
+    "translation": "如果你想减轻体重，就必须少吃多运动。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_57_3"
+  },
+  {
+    "id": "tem4_nua_109",
+    "group_id": 58,
+    "group_name": "delay, postpone",
+    "level": "TEM-4",
+    "target_word": "delay",
+    "question": "Heavy snow and strong winds will likely ___ the departure of our flight.",
+    "options": [
+      "delay",
+      "postpone"
+    ],
+    "answer": "delay",
+    "distractor_analysis": {
+      "delay": "延期，延缓，耽搁，常指由于不可避免的障碍等原因而延期",
+      "postpone": "耽搁，暂缓，常指将某事放置一边，等到另一事发生或一定时间后再做"
+    },
+    "translation": "大雪和强风可能会延误我们航班的起飞。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_58_1"
+  },
+  {
+    "id": "tem4_nua_110",
+    "group_id": 58,
+    "group_name": "delay, postpone",
+    "level": "TEM-4",
+    "target_word": "postpone",
+    "question": "Due to the CEO's sudden illness, we have decided to ___ the board meeting until next week.",
+    "options": [
+      "delay",
+      "postpone"
+    ],
+    "answer": "postpone",
+    "distractor_analysis": {
+      "delay": "延期，延缓，耽搁，常指由于不可避免的障碍等原因而延期",
+      "postpone": "耽搁，暂缓，常指将某事放置一边，等到另一事发生或一定时间后再做"
+    },
+    "translation": "由于首席执行官突发疾病，我们决定将董事会会议推迟到下周。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_58_2"
+  },
+  {
+    "id": "tem4_nua_111",
+    "group_id": 59,
+    "group_name": "demonstrate, illustrate",
+    "level": "TEM-4",
+    "target_word": "demonstrate",
+    "question": "The instructor will now ___ how to safely use the new laboratory equipment.",
+    "options": [
+      "demonstrate",
+      "illustrate"
+    ],
+    "answer": "demonstrate",
+    "distractor_analysis": {
+      "demonstrate": "多指通过具体动作或物体进行演示、示范、表演、展示等",
+      "illustrate": "强调通过举例、列图表或比较等方式来说明道理"
+    },
+    "translation": "导师现在将演示如何安全使用新的实验室设备。",
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_59_1"
+  },
+  {
+    "id": "tem4_nua_112",
+    "group_id": 59,
+    "group_name": "demonstrate, illustrate",
+    "level": "TEM-4",
+    "target_word": "illustrate",
+    "question": "To ___ his point about inflation, the professor shared a personal story from the 1970s.",
+    "options": [
+      "demonstrate",
+      "illustrate"
+    ],
+    "answer": "illustrate",
+    "distractor_analysis": {
+      "demonstrate": "多指通过具体动作或物体进行演示、示范、表演、展示等",
+      "illustrate": "强调通过举例、列图表或比较等方式来说明道理"
+    },
+    "translation": "为了说明他关于通货膨胀的观点，教授分享了一个发生在上世纪70年代的亲身经历。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_59_2"
+  },
+  {
+    "id": "tem4_nua_113",
+    "group_id": 60,
+    "group_name": "disappear, vanish, fade",
+    "level": "TEM-4",
+    "target_word": "fade",
+    "question": "If you leave the photograph in direct sunlight, the colors will slowly ___ over time.",
+    "options": [
+      "disappear",
+      "vanish",
+      "fade"
+    ],
+    "answer": "fade",
+    "distractor_analysis": {
+      "disappear": "消失，不见；灭绝，不复存在，是一般用语",
+      "vanish": "消失，不见，指突然间化为乌有，强调非常彻底地、神秘莫测地消失",
+      "fade": "指衣服的颜色褪色，声音的逐渐消失"
+    },
+    "translation": "如果你把照片放在阳光直射的地方，颜色会随着时间的推移慢慢褪去。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_60_3"
+  },
+  {
+    "id": "tem4_nua_114",
+    "group_id": 62,
+    "group_name": "deviate, distract, divert",
+    "level": "TEM-4",
+    "target_word": "distract",
+    "question": "Please do not ___ the driver while the bus is in motion.",
+    "options": [
+      "deviate",
+      "distract",
+      "divert"
+    ],
+    "answer": "distract",
+    "distractor_analysis": {
+      "deviate": "背离，偏离，多指脱离正轨或正题等",
+      "distract": "使分心，分散(注意力、心理等)，常带有不能专心的意思",
+      "divert": "转移，使转向，着重改变后的结果，后常接介词 from"
+    },
+    "translation": "巴士行驶时请不要让司机分心。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_62_2"
+  },
+  {
+    "id": "tem4_nua_115",
+    "group_id": 62,
+    "group_name": "deviate, distract, divert",
+    "level": "TEM-4",
+    "target_word": "divert",
+    "question": "The police had to ___ all incoming traffic to a side street because of the accident ahead.",
+    "options": [
+      "deviate",
+      "distract",
+      "divert"
+    ],
+    "answer": "divert",
+    "distractor_analysis": {
+      "deviate": "背离，偏离，多指脱离正轨或正题等",
+      "distract": "使分心，分散(注意力、心理等)，常带有不能专心的意思",
+      "divert": "转移，使转向，着重改变后的结果，后常接介词 from"
+    },
+    "translation": "由于前方发生事故，警察不得不将所有驶来的车辆改道至一条小路。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_62_3"
+  },
+  {
+    "id": "tem4_nua_116",
+    "group_id": 63,
+    "group_name": "dip, immerse, submerge",
+    "level": "TEM-4",
+    "target_word": "dip",
+    "question": "Before you eat the strawberry, you can ___ it into the melted chocolate.",
+    "options": [
+      "dip",
+      "immerse",
+      "submerge"
+    ],
+    "answer": "dip",
+    "distractor_analysis": {
+      "dip": "浸，浸染，蘸，多指短时地将某物部分地浸到液体中，有小心翼翼的意思",
+      "immerse": "沉浸，使沉浸于，指全部浸泡在液体中达一段时间，也可指一种氛围",
+      "submerge": "浸没，淹没，多指全部浸没在水下达一定深度"
+    },
+    "translation": "在吃草莓之前，你可以把它蘸到融化的巧克力里。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_63_1"
+  },
+  {
+    "id": "tem4_nua_117",
+    "group_id": 63,
+    "group_name": "dip, immerse, submerge",
+    "level": "TEM-4",
+    "target_word": "immerse",
+    "question": "Students ___ themselves in their studies.",
+    "options": [
+      "dip",
+      "immerse",
+      "submerge"
+    ],
+    "answer": "immerse",
+    "distractor_analysis": {
+      "dip": "浸，浸染，蘸，多指短时地将某物部分地浸到液体中，有小心翼翼的意思",
+      "immerse": "沉浸，使沉浸于，指全部浸泡在液体中达一段时间，也可指一种氛围",
+      "submerge": "浸没，淹没，多指全部浸没在水下达一定深度"
+    },
+    "translation": "同学们在专心致志地学习。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_63_2"
+  },
+  {
+    "id": "tem4_nua_118",
+    "group_id": 63,
+    "group_name": "dip, immerse, submerge",
+    "level": "TEM-4",
+    "target_word": "submerge",
+    "question": "During a severe flood, rising river waters can completely ___ the entire town.",
+    "options": [
+      "dip",
+      "immerse",
+      "submerge"
+    ],
+    "answer": "submerge",
+    "distractor_analysis": {
+      "dip": "浸，浸染，蘸，多指短时地将某物部分地浸到液体中，有小心翼翼的意思",
+      "immerse": "沉浸，使沉浸于，指全部浸泡在液体中达一段时间，也可指一种氛围",
+      "submerge": "浸没，淹没，多指全部浸没在水下达一定深度"
+    },
+    "translation": "在严重的洪水中，不断上涨的河水会完全淹没整个城镇。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_63_3"
+  },
+  {
+    "id": "tem4_nua_119",
+    "group_id": 66,
+    "group_name": "eject, inject, project",
+    "level": "TEM-4",
+    "target_word": "eject",
+    "question": "If the DVD player freezes, press this button to ___ the disc.",
+    "options": [
+      "eject",
+      "inject",
+      "project"
+    ],
+    "answer": "eject",
+    "distractor_analysis": {
+      "eject": "跳出，喷出，弹射出",
+      "inject": "注射",
+      "project": "伸出，突出；预计，预报；投射，放映"
+    },
+    "translation": "如果DVD播放机卡住了，按这个按钮弹出光盘。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_66_1"
+  },
+  {
+    "id": "tem4_nua_120",
+    "group_id": 66,
+    "group_name": "eject, inject, project",
+    "level": "TEM-4",
+    "target_word": "inject",
+    "question": "The doctor will need to ___ the vaccine directly into your muscle.",
+    "options": [
+      "eject",
+      "inject",
+      "project"
+    ],
+    "answer": "inject",
+    "distractor_analysis": {
+      "eject": "跳出，喷出，弹射出",
+      "inject": "注射",
+      "project": "伸出，突出；预计，预报；投射，放映"
+    },
+    "translation": "医生需要将疫苗直接注射到你的肌肉中。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_66_2"
+  },
+  {
+    "id": "tem4_nua_121",
+    "group_id": 66,
+    "group_name": "eject, inject, project",
+    "level": "TEM-4",
+    "target_word": "project",
+    "question": "We can use this machine to ___ the movie onto the large white wall.",
+    "options": [
+      "eject",
+      "inject",
+      "project"
+    ],
+    "answer": "project",
+    "distractor_analysis": {
+      "eject": "跳出，喷出，弹射出",
+      "inject": "注射",
+      "project": "伸出，突出；预计，预报；投射，放映"
+    },
+    "translation": "我们可以用这台机器把电影投影到那面巨大的白墙上。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_66_3"
+  },
+  {
+    "id": "tem4_nua_122",
+    "group_id": 67,
+    "group_name": "eligible, illegible",
+    "level": "TEM-4",
+    "target_word": "illegible",
+    "question": "The writing is ___; I cannot read what it says.",
+    "options": [
+      "eligible",
+      "illegible"
+    ],
+    "answer": "illegible",
+    "distractor_analysis": {
+      "eligible": "享有权利的，具备资格的",
+      "illegible": "很难看懂的，难以辨认的"
+    },
+    "translation": "字迹不清楚，我看不清上面写的是什么。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_67_2"
+  },
+  {
+    "id": "tem4_nua_123",
+    "group_id": 68,
+    "group_name": "eminent, imminent",
+    "level": "TEM-4",
+    "target_word": "imminent",
+    "question": "The wedding date is ___, so we must send invitations.",
+    "options": [
+      "eminent",
+      "imminent"
+    ],
+    "answer": "imminent",
+    "distractor_analysis": {
+      "eminent": "著名的，卓越的，杰出的",
+      "imminent": "即将发生的，迫在眉睫的，临近的"
+    },
+    "translation": "婚礼迫近，所以我们必须发放请柬了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_68_2"
+  },
+  {
+    "id": "tem4_nua_124",
+    "group_id": 69,
+    "group_name": "emotion, feeling, passion, sensation, sentiment",
+    "level": "TEM-4",
+    "target_word": "emotion",
+    "question": "Love, joy, anger, and fear are each a basic human ___.",
+    "options": [
+      "emotion",
+      "feeling",
+      "passion",
+      "sensation",
+      "sentiment"
+    ],
+    "answer": "emotion",
+    "distractor_analysis": {
+      "emotion": "情感，感情，指喜怒哀乐等较激动的情绪，表示某物引起的激动",
+      "feeling": "指一般的情绪、感觉，它一般不反映感情的本质和强度",
+      "passion": "激情，热情，欲望，极度的仇恨，指强烈的爱好、愤怒或情欲",
+      "sensation": "指人体感官受到外部刺激时产生的感觉，知觉",
+      "sentiment": "思想感情，情绪，感情色彩，指由于某种思想唤起的感情，强调主观作用"
+    },
+    "translation": "爱、喜悦、愤怒和恐惧都是人类的基本情感。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_69_1"
+  },
+  {
+    "id": "tem4_nua_125",
+    "group_id": 69,
+    "group_name": "emotion, feeling, passion, sensation, sentiment",
+    "level": "TEM-4",
+    "target_word": "feeling",
+    "question": "She has a strange ___ that someone is following her.",
+    "options": [
+      "emotion",
+      "feeling",
+      "passion",
+      "sensation",
+      "sentiment"
+    ],
+    "answer": "feeling",
+    "distractor_analysis": {
+      "emotion": "情感，感情，指喜怒哀乐等较激动的情绪，表示某物引起的激动",
+      "feeling": "指一般的情情绪、感觉，它一般不反映感情的本质和强度",
+      "passion": "激情，热情，欲望，极度的仇恨，指强烈的爱好、愤怒或情欲",
+      "sensation": "指人体感官受到外部刺激时产生的感觉，知觉",
+      "sentiment": "思想感情，情绪，感情色彩，指由于某种思想唤起的感情，强调主观作用"
+    },
+    "translation": "她有一种奇怪的感觉，觉得有人在跟着她。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_69_2"
+  },
+  {
+    "id": "tem4_nua_126",
+    "group_id": 69,
+    "group_name": "emotion, feeling, passion, sensation, sentiment",
+    "level": "TEM-4",
+    "target_word": "passion",
+    "question": "He spoke with ___ about the love of freedom.",
+    "options": [
+      "emotion",
+      "feeling",
+      "passion",
+      "sensation",
+      "sentiment"
+    ],
+    "answer": "passion",
+    "distractor_analysis": {
+      "emotion": "情感，感情，指喜怒哀乐等较激动的情绪，表示某物引起的激动",
+      "feeling": "指一般的情绪、感觉，它一般不反映感情的本质 and 强度",
+      "passion": "激情，热情，欲望，极度的仇恨，指强烈的爱好、愤怒或情欲",
+      "sensation": "指人体感官受到外部刺激时产生的感觉，知觉",
+      "sentiment": "思想感情，情绪，感情色彩，指由于某种思想唤起的感情，强调主观作用"
+    },
+    "translation": "他满腔热情地谈论着对自由的热爱。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_69_3"
+  },
+  {
+    "id": "tem4_nua_127",
+    "group_id": 69,
+    "group_name": "emotion, feeling, passion, sensation, sentiment",
+    "level": "TEM-4",
+    "target_word": "sensation",
+    "question": "When she watched the film, she had the ___ that she was in a moving car.",
+    "options": [
+      "emotion",
+      "feeling",
+      "passion",
+      "sensation",
+      "sentiment"
+    ],
+    "answer": "sensation",
+    "distractor_analysis": {
+      "emotion": "情感，感情，指喜怒哀乐等较激动的情绪，表示某物引起的激动",
+      "feeling": "指一般的情绪、感觉，它一般不反映感情的本质和强度",
+      "passion": "激情，热情，欲望，极度的仇恨，指强烈的爱好、愤怒或情欲",
+      "sensation": "指人体感官受到外部刺激时产生的感觉，知觉",
+      "sentiment": "思想感情，情绪，感情色彩，指由于某种思想唤起的感情，强调主观作用"
+    },
+    "translation": "她看电影时，感觉自己正坐在一辆开动的汽车上。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_69_4"
+  },
+  {
+    "id": "tem4_nua_128",
+    "group_id": 70,
+    "group_name": "encourage, excite, inspire, motivate, stimulate",
+    "level": "TEM-4",
+    "target_word": "encourage",
+    "question": "The teacher likes to ___ her students by praising their creative efforts.",
+    "options": [
+      "encourage",
+      "excite",
+      "inspire",
+      "motivate",
+      "stimulate"
+    ],
+    "answer": "encourage",
+    "distractor_analysis": {
+      "encourage": "鼓励，促进，含有“使增强勇气或给予希望”的意味",
+      "excite": "指使人感到激动、兴奋；煽动，鼓动",
+      "inspire": "鼓舞，激发，影响，常常带有“启迪，启发”的意思",
+      "motivate": "激发，促动，强调激起动机去做某事",
+      "stimulate": "刺激，激发，促进，强调刺激反应的结果"
+    },
+    "translation": "这位老师喜欢通过表扬学生的创造性努力来鼓励他们。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_70_1"
+  },
+  {
+    "id": "tem4_nua_129",
+    "group_id": 70,
+    "group_name": "encourage, excite, inspire, motivate, stimulate",
+    "level": "TEM-4",
+    "target_word": "excite",
+    "question": "The news of the upcoming concert will certainly ___ the loyal fans.",
+    "options": [
+      "encourage",
+      "excite",
+      "inspire",
+      "motivate",
+      "stimulate"
+    ],
+    "answer": "excite",
+    "distractor_analysis": {
+      "encourage": "鼓励，促进，含有“使增强勇气或给予希望”的意味",
+      "excite": "指使人感到激动、兴奋；煽动，鼓动",
+      "inspire": "鼓舞，激发，影响，常常带有“启迪，启发”的意思",
+      "motivate": "激发，促动，强调激起动机去做某事",
+      "stimulate": "刺激，激发，促进，强调刺激反应的结果"
+    },
+    "translation": "即将举办演唱会的消息肯定会让那些忠实的粉丝们感到激动。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_70_2"
+  },
+  {
+    "id": "tem4_nua_130",
+    "group_id": 70,
+    "group_name": "encourage, excite, inspire, motivate, stimulate",
+    "level": "TEM-4",
+    "target_word": "inspire",
+    "question": "A great leader should be able to ___ confidence and loyalty in his team.",
+    "options": [
+      "encourage",
+      "excite",
+      "inspire",
+      "motivate",
+      "stimulate"
+    ],
+    "answer": "inspire",
+    "distractor_analysis": {
+      "encourage": "鼓励，促进，含有“使增强勇气或给予希望”的意味",
+      "excite": "指使人感到激动、兴奋；煽动，鼓动",
+      "inspire": "鼓舞，激发，影响，常常带有“启迪，启发”的意思",
+      "motivate": "激发，促动，强调激起动机去做某事",
+      "stimulate": "刺激，激发，促进，强调刺激反应的结果"
+    },
+    "translation": "一个伟大的领导者应该能够激发团队的信心和忠诚度。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_70_3"
+  },
+  {
+    "id": "tem4_nua_131",
+    "group_id": 70,
+    "group_name": "encourage, excite, inspire, motivate, stimulate",
+    "level": "TEM-4",
+    "target_word": "motivate",
+    "question": "A good manager knows exactly how to ___ employees to reach their sales targets.",
+    "options": [
+      "encourage",
+      "excite",
+      "inspire",
+      "motivate",
+      "stimulate"
+    ],
+    "answer": "motivate",
+    "distractor_analysis": {
+      "encourage": "鼓励，促进，含有“使增强勇气或给予希望”的意味",
+      "excite": "指使人感到激动、兴奋；煽动，鼓动",
+      "inspire": "鼓舞，激发，影响，常常带有“启迪，启发”的意思",
+      "motivate": "激发，促动，强调激起动机去做某事",
+      "stimulate": "刺激，激发，促进，强调刺激反应的结果"
+    },
+    "translation": "一个优秀的经理完全知道如何激励员工去实现他们的销售目标。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_70_4"
+  },
+  {
+    "id": "tem4_nua_132",
+    "group_id": 70,
+    "group_name": "encourage, excite, inspire, motivate, stimulate",
+    "level": "TEM-4",
+    "target_word": "stimulate",
+    "question": "Drinking a cup of coffee in the morning can help to ___ your brain.",
+    "options": [
+      "encourage",
+      "excite",
+      "inspire",
+      "motivate",
+      "stimulate"
+    ],
+    "answer": "stimulate",
+    "distractor_analysis": {
+      "encourage": "鼓励，促进，含有“使增强勇气或给予希望”的意味",
+      "excite": "指使人感到激动、兴奋；煽动，鼓动",
+      "inspire": "鼓舞，激发，影响，常常带有“启迪，启发”的意思",
+      "motivate": "激发，促动，强调激起动机去做某事",
+      "stimulate": "刺激，激发，促进，强调刺激反应的结果"
+    },
+    "translation": "早上喝杯咖啡有助于刺激你的大脑。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_70_5"
+  },
+  {
+    "id": "tem4_nua_133",
+    "group_id": 71,
+    "group_name": "equal, equivalent, identical",
+    "level": "TEM-4",
+    "target_word": "equal",
+    "question": "Those two tables are of ___ length.",
+    "options": [
+      "equal",
+      "equivalent",
+      "identical"
+    ],
+    "answer": "equal",
+    "distractor_analysis": {
+      "equal": "(数字、数量、权力、价值)相等的；(指人)胜任的",
+      "equivalent": "相等的，相同的，与 equal 基本可以互换使用",
+      "identical": "同一的，完全相同的"
+    },
+    "translation": "这两张桌子一样长。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_71_1"
+  },
+  {
+    "id": "tem4_nua_134",
+    "group_id": 71,
+    "group_name": "equal, equivalent, identical",
+    "level": "TEM-4",
+    "target_word": "identical",
+    "question": "The boys are ___ twins.",
+    "options": [
+      "equal",
+      "equivalent",
+      "identical"
+    ],
+    "answer": "identical",
+    "distractor_analysis": {
+      "equal": "(数字、数量、权力、价值)相等的；(指人)胜任的",
+      "equivalent": "相等的，相同的，与 equal 基本可以互换使用",
+      "identical": "同一的，完全相同的"
+    },
+    "translation": "这两个男孩子是一模一样的双胞胎。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_71_3"
+  },
+  {
+    "id": "tem4_nua_135",
+    "group_id": 72,
+    "group_name": "equipment, facility, instrument",
+    "level": "TEM-4",
+    "target_word": "equipment",
+    "question": "The factory is equipped with modern ___.",
+    "options": [
+      "equipment",
+      "facility",
+      "instrument"
+    ],
+    "answer": "equipment",
+    "distractor_analysis": {
+      "equipment": "指生产、研究所需要的设备、装置，是不可数名词",
+      "facility": "指较大的设施、设备，尤指公用的、为大众带来便利的设备",
+      "instrument": "乐器，仪器，为某个用途而使用的工具"
+    },
+    "translation": "这家工厂配备了现代化的设备。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_72_1"
+  },
+  {
+    "id": "tem4_nua_136",
+    "group_id": 72,
+    "group_name": "equipment, facility, instrument",
+    "level": "TEM-4",
+    "target_word": "instrument",
+    "question": "The violin is a beautiful stringed ___.",
+    "options": [
+      "equipment",
+      "facility",
+      "instrument"
+    ],
+    "answer": "instrument",
+    "distractor_analysis": {
+      "equipment": "指生产、研究所需要的设备、装置，是不可数名词",
+      "facility": "指较大的设施、设备，尤指公用的、为大众带来便利的设备",
+      "instrument": "乐器，仪器，为某个用途而使用的工具"
+    },
+    "translation": "小提琴是一种优美的弦乐器。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_72_3"
+  },
+  {
+    "id": "tem4_nua_137",
+    "group_id": 73,
+    "group_name": "essential, indispensable, necessary",
+    "level": "TEM-4",
+    "target_word": "essential",
+    "question": "The ___ point is we must do what the contract says.",
+    "options": [
+      "essential",
+      "indispensable",
+      "necessary"
+    ],
+    "answer": "essential",
+    "distractor_analysis": {
+      "essential": "主要的，核心的，本质的，必不可少的",
+      "indispensable": "强调客观上是必不可少的，否则就无法维持生命或做不成某事",
+      "necessary": "一般用语，强调从主观上看是必须的，不可避免的"
+    },
+    "translation": "核心的一点是我们必须按照合同的规定去做。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_73_1"
+  },
+  {
+    "id": "tem4_nua_138",
+    "group_id": 74,
+    "group_name": "exceed, surpass, transcend",
+    "level": "TEM-4",
+    "target_word": "exceed",
+    "question": "Sales of the new product ___ our estimates.",
+    "options": [
+      "exceed",
+      "surpass",
+      "transcend"
+    ],
+    "answer": "exceed",
+    "distractor_analysis": {
+      "exceed": "多于，大于，超过，多指数量或允许的限度",
+      "surpass": "优于或超过某人(某物)",
+      "transcend": "超出或超越，一般指超越经验、常识、普通能力等，强调难以为大众理解"
+    },
+    "translation": "新产品的销售超出了我们的预计。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_74_1"
+  },
+  {
+    "id": "tem4_nua_139",
+    "group_id": 74,
+    "group_name": "exceed, surpass, transcend",
+    "level": "TEM-4",
+    "target_word": "surpass",
+    "question": "The runner expects to ___ his old record by 10 seconds.",
+    "options": [
+      "exceed",
+      "surpass",
+      "transcend"
+    ],
+    "answer": "surpass",
+    "distractor_analysis": {
+      "exceed": "多于，大于，超过，多指数量或允许的限度",
+      "surpass": "优于或超过某人(某物)",
+      "transcend": "超出或超越，一般指超越经验、常识、普通能力等，强调难以为大众理解"
+    },
+    "translation": "跑步运动员比他过去的记录提高了 10 秒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_74_2"
+  },
+  {
+    "id": "tem4_nua_140",
+    "group_id": 74,
+    "group_name": "exceed, surpass, transcend",
+    "level": "TEM-4",
+    "target_word": "transcend",
+    "question": "Certain mysteries of the universe ___ human comprehension.",
+    "options": [
+      "exceed",
+      "surpass",
+      "transcend"
+    ],
+    "answer": "transcend",
+    "distractor_analysis": {
+      "exceed": "多于，大于，超过，多指数量或允许的限度",
+      "surpass": "优于或超过某人(某物)",
+      "transcend": "超出或超越，一般指超越经验、常识、普通能力等，强调难以为大众理解"
+    },
+    "translation": "宇宙的某些奥秘超越了人类的理解。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_74_3"
+  },
+  {
+    "id": "tem4_nua_141",
+    "group_id": 75,
+    "group_name": "faint, feeble, fragile, weak",
+    "level": "TEM-4",
+    "target_word": "faint",
+    "question": "The summer sun was so strong that she felt ___.",
+    "options": [
+      "faint",
+      "feeble",
+      "fragile",
+      "weak"
+    ],
+    "answer": "faint",
+    "distractor_analysis": {
+      "faint": "虚弱的，眩晕的，指由于某种原因造成的暂时的虚弱/眩晕",
+      "feeble": "虚弱的，无力的，常用来形容人的声音或行为",
+      "fragile": "脆弱的，易碎的，指物体容易打碎，或人体质虚弱、容易受伤害",
+      "weak": "应用范围最广，可指身体虚弱的，无力的，或力量、权力、技能等方面有欠缺"
+    },
+    "translation": "夏天的阳光太强烈了，她感觉到眩晕。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_75_1"
+  },
+  {
+    "id": "tem4_nua_142",
+    "group_id": 75,
+    "group_name": "faint, feeble, fragile, weak",
+    "level": "TEM-4",
+    "target_word": "feeble",
+    "question": "The elderly lady has become ___ and unable to care for herself.",
+    "options": [
+      "faint",
+      "feeble",
+      "fragile",
+      "weak"
+    ],
+    "answer": "feeble",
+    "distractor_analysis": {
+      "faint": "虚弱的，眩晕的，指由于某种原因造成的暂时的虚弱/眩晕",
+      "feeble": "虚弱的，无力的，常用来形容人的声音或行为",
+      "fragile": "脆弱的，易碎的，指物体容易打碎，或人体质虚弱、容易受伤害",
+      "weak": "应用范围最广，可指身体虚弱的，无力的，或力量、权力、技能等方面有欠缺"
+    },
+    "translation": "这个老太太已经很虚弱了，无法照顾她自己。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_75_2"
+  },
+  {
+    "id": "tem4_nua_143",
+    "group_id": 75,
+    "group_name": "faint, feeble, fragile, weak",
+    "level": "TEM-4",
+    "target_word": "fragile",
+    "question": "That dish is ___, so be careful.",
+    "options": [
+      "faint",
+      "feeble",
+      "fragile",
+      "weak"
+    ],
+    "answer": "fragile",
+    "distractor_analysis": {
+      "faint": "虚弱的，眩晕的，指由于某种原因造成的暂时的虚弱/眩晕",
+      "feeble": "虚弱的，无力的，常用来形容人的声音或行为",
+      "fragile": "脆弱的，易碎的，指物体容易打碎，或人体质虚弱、容易受伤害",
+      "weak": "应用范围最广，可指身体虚弱的，无力的，或力量、权力、技能等方面有欠缺"
+    },
+    "translation": "那个盘子容易碎，所以千万小心。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_75_3"
+  },
+  {
+    "id": "tem4_nua_144",
+    "group_id": 75,
+    "group_name": "faint, feeble, fragile, weak",
+    "level": "TEM-4",
+    "target_word": "weak",
+    "question": "The patient is losing blood and becoming ___.",
+    "options": [
+      "faint",
+      "feeble",
+      "fragile",
+      "weak"
+    ],
+    "answer": "weak",
+    "distractor_analysis": {
+      "faint": "虚弱的，眩晕的，指由于某种原因造成的暂时的虚弱/眩晕",
+      "feeble": "虚弱的，无力的，常用来形容人的声音或行为",
+      "fragile": "脆弱的，易碎的，指物体容易打碎，或人体质虚弱、容易受伤害",
+      "weak": "应用范围最广，可指身体虚弱的，无力的，或力量、权力、技能等方面有欠缺"
+    },
+    "translation": "病人在失血，身体开始虚弱下去。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3_75_4"
+  },
+  {
+    "id": "tem4_nua_145",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "glance",
+    "question": "He decided to ___ over the letter he had just received.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "glance",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "他把刚收到的那封信粗略地看了 一遍。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_76_3"
+  },
+  {
+    "id": "tem4_nua_146",
+    "group_id": 76,
+    "group_name": "gaze, gape, glance, glare, glimpse, peer, peep, stare",
+    "level": "TEM-4",
+    "target_word": "glimpse",
+    "question": "I managed to ___ the celebrity as she got out of the car.",
+    "options": [
+      "gaze",
+      "gape",
+      "glance",
+      "glare",
+      "glimpse",
+      "peer",
+      "peep",
+      "stare"
+    ],
+    "answer": "glimpse",
+    "distractor_analysis": {
+      "gaze": "v. 凝视，注视，指由于好奇、感叹、长时间目不转睛地看。",
+      "gape": "v. (张着嘴、瞪大眼睛)呆看，强调一种吃惊的状态。",
+      "glance": "v. (粗略地、随便地)一瞥，看一眼。",
+      "glare": "v. 怒目而视，强调怀有敌意或在气愤的情绪下看；眩目地照射。",
+      "glimpse": "v. 与 glance 意思相近，短促地看一眼，一瞥。",
+      "peer": "v. 指眯起眼睛仔细看，尤指看不清楚的情况下；费力地看，凝视。",
+      "peep": "v. 窥视，偷看。",
+      "stare": "v. 凝视， 盯着， 指由于好奇、 惊讶、 赞叹等原因而瞪大眼睛长时间地、 直接 地注视，常常含有粗鲁无礼的意思。"
+    },
+    "translation": "当那位明星下车时，我设法看清了她一眼。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_76_5"
+  },
+  {
+    "id": "tem4_nua_147",
+    "group_id": 77,
+    "group_name": "historical, historic",
+    "level": "TEM-4",
+    "target_word": "historical",
+    "question": "The French Revolution was of great ___ importance.",
+    "options": [
+      "historical",
+      "historic"
+    ],
+    "answer": "historical",
+    "distractor_analysis": {
+      "historical": "a. 历史上的，有关历史的，史学方面的，以历史为基础的。",
+      "historic": "a. 历史上著名的，重要的。"
+    },
+    "translation": "法国革命具有重要的历 史意义。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_77_1"
+  },
+  {
+    "id": "tem4_nua_148",
+    "group_id": 77,
+    "group_name": "historical, historic",
+    "level": "TEM-4",
+    "target_word": "historic",
+    "question": "The ___ meeting between two leaders was broadcast live.",
+    "options": [
+      "historical",
+      "historic"
+    ],
+    "answer": "historic",
+    "distractor_analysis": {
+      "historical": "a. 历史上的，有关历史的，史学方面的，以历史为基础的。",
+      "historic": "a. 历史上著名的，重要的。"
+    },
+    "translation": "两位领袖之间的历史性会晤进行了现场直播。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_77_2"
+  },
+  {
+    "id": "tem4_nua_149",
+    "group_id": 78,
+    "group_name": "hospitality, hostility",
+    "level": "TEM-4",
+    "target_word": "hostility",
+    "question": "You can feel the ___ coming from that man.",
+    "options": [
+      "hospitality",
+      "hostility"
+    ],
+    "answer": "hostility",
+    "distractor_analysis": {
+      "hospitality": "n. 热情招待，殷勤好客。",
+      "hostility": "n. 敌意，对抗（来自与形容词 hostile 意为“不友善的，敌对的”）。"
+    },
+    "translation": "你可以感觉到那个人的敌意。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_78_2"
+  },
+  {
+    "id": "tem4_nua_150",
+    "group_id": 78,
+    "group_name": "hypercritical, hypocritical",
+    "level": "TEM-4",
+    "target_word": "hypercritical",
+    "question": "He is so ___ that he corrects every mistake his students make.",
+    "options": [
+      "hypercritical",
+      "hypocritical"
+    ],
+    "answer": "hypercritical",
+    "distractor_analysis": {
+      "hypercritical": "a. 吹毛求疵的，批评苛刻的。",
+      "hypocritical": "a. 虚伪的，伪善的。"
+    },
+    "translation": "他很苛刻， 对于学生的每个错误都要纠正。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_78_3"
+  },
+  {
+    "id": "tem4_nua_151",
+    "group_id": 78,
+    "group_name": "hypercritical, hypocritical",
+    "level": "TEM-4",
+    "target_word": "hypocritical",
+    "question": "We were disgusted by his ___ behavior.",
+    "options": [
+      "hypercritical",
+      "hypocritical"
+    ],
+    "answer": "hypocritical",
+    "distractor_analysis": {
+      "hypercritical": "a. 吹毛求疵的，批评苛刻的。",
+      "hypocritical": "a. 虚伪的，伪善的。"
+    },
+    "translation": "我们对他伪善的行为感到厌恶。",
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_78_4"
+  },
+  {
+    "id": "tem4_nua_152",
+    "group_id": 79,
+    "group_name": "ignore, neglect, omit, overlook",
+    "level": "TEM-4",
+    "target_word": "ignore",
+    "question": "She saw him coming but she chose to ___ him.",
+    "options": [
+      "ignore",
+      "neglect",
+      "omit",
+      "overlook"
+    ],
+    "answer": "ignore",
+    "distractor_analysis": {
+      "ignore": "v. 忽视，不理睬，指有意识地拒绝。",
+      "neglect": "v. 忽视，忽略，疏忽，指无意识地忽视或忘记。",
+      "omit": "v. 遗漏，忽略，忘记，指由于疏忽而忘记，也可以表示因不利或不好而被忽 略等。",
+      "overlook": "v. 忽略，疏漏，指有意识地遗漏，也可以指无意识地忽略。"
+    },
+    "translation": "她看见他走过来，但是装作没看见。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_79_1"
+  },
+  {
+    "id": "tem4_nua_153",
+    "group_id": 79,
+    "group_name": "ignore, neglect, omit, overlook",
+    "level": "TEM-4",
+    "target_word": "neglect",
+    "question": "He tends to ___ making repairs to his house.",
+    "options": [
+      "ignore",
+      "neglect",
+      "omit",
+      "overlook"
+    ],
+    "answer": "neglect",
+    "distractor_analysis": {
+      "ignore": "v. 忽视，不理睬，指有意识地拒绝。",
+      "neglect": "v. 忽视，忽略，疏忽，指无意识地忽视或忘记。",
+      "omit": "v. 遗漏，忽略，忘记，指由于疏忽而忘记，也可以表示因不利或不好而被忽 略等。",
+      "overlook": "v. 忽略，疏漏，指有意识地遗漏，也可以指无意识地忽略。"
+    },
+    "translation": "他忘记了修理房子。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_79_2"
+  },
+  {
+    "id": "tem4_nua_154",
+    "group_id": 79,
+    "group_name": "ignore, neglect, omit, overlook",
+    "level": "TEM-4",
+    "target_word": "omit",
+    "question": "Be careful not to ___ any steps in the experiment, or it will fail.",
+    "options": [
+      "ignore",
+      "neglect",
+      "omit",
+      "overlook"
+    ],
+    "answer": "omit",
+    "distractor_analysis": {
+      "ignore": "v. 忽视，不理睬，指有意识地拒绝。",
+      "neglect": "v. 忽视，忽略，疏忽，指无意识地忽视或忘记。",
+      "omit": "v. 遗漏，忽略，忘记，指由于疏忽而忘记，也可以表示因不利或不好而被忽 略等。",
+      "overlook": "v. 忽略，疏漏，指有意识地遗漏，也可以指无意识地忽略。"
+    },
+    "translation": "注意不要遗漏实验中的任何步骤，否则实验将会失败。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_79_3"
+  },
+  {
+    "id": "tem4_nua_155",
+    "group_id": 79,
+    "group_name": "ignore, neglect, omit, overlook",
+    "level": "TEM-4",
+    "target_word": "overlook",
+    "question": "The mother tends to ___ her little boy's bad behavior.",
+    "options": [
+      "ignore",
+      "neglect",
+      "omit",
+      "overlook"
+    ],
+    "answer": "overlook",
+    "distractor_analysis": {
+      "ignore": "v. 忽视，不理睬，指有意识地拒绝。",
+      "neglect": "v. 忽视，忽略，疏忽，指无意识地忽视或忘记。",
+      "omit": "v. 遗漏，忽略，忘记，指由于疏忽而忘记，也可以表示因不利或不好而被忽 略等。",
+      "overlook": "v. 忽略，疏漏，指有意识地遗漏，也可以指无意识地忽略。"
+    },
+    "translation": "那位母亲忽视了她的小儿子 的不良行为。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_79_4"
+  },
+  {
+    "id": "tem4_nua_156",
+    "group_id": 80,
+    "group_name": "imaginable, imaginary, imaginative",
+    "level": "TEM-4",
+    "target_word": "imaginable",
+    "question": "In her painting, she has used every color ___.",
+    "options": [
+      "imaginable",
+      "imaginary",
+      "imaginative"
+    ],
+    "answer": "imaginable",
+    "distractor_analysis": {
+      "imaginable": "a. 可想象的，往往作后置定语，所修饰的名词前常加all，every，only 或形容词的最高级。",
+      "imaginary": "a. 虚构的，想象中的。",
+      "imaginative": "a. 富于想象力的。"
+    },
+    "translation": "在她的绘画中， 她用了所以可 以想象的到的色彩。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_80_1"
+  },
+  {
+    "id": "tem4_nua_157",
+    "group_id": 80,
+    "group_name": "imaginable, imaginary, imaginative",
+    "level": "TEM-4",
+    "target_word": "imaginary",
+    "question": "The child has an ___ friend.",
+    "options": [
+      "imaginable",
+      "imaginary",
+      "imaginative"
+    ],
+    "answer": "imaginary",
+    "distractor_analysis": {
+      "imaginable": "a. 可想象的，往往作后置定语，所修饰的名词前常加all，every，only 或形容词的最高级。",
+      "imaginary": "a. 虚构的，想象中的。",
+      "imaginative": "a. 富于想象力的。"
+    },
+    "translation": "那个孩子有个假想中的朋友。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_80_2"
+  },
+  {
+    "id": "tem4_nua_158",
+    "group_id": 80,
+    "group_name": "imaginable, imaginary, imaginative",
+    "level": "TEM-4",
+    "target_word": "imaginative",
+    "question": "He is an ___ writer who creates wonderful worlds.",
+    "options": [
+      "imaginable",
+      "imaginary",
+      "imaginative"
+    ],
+    "answer": "imaginative",
+    "distractor_analysis": {
+      "imaginable": "a. 可想象的，往往作后置定语，所修饰的名词前常加all，every，only 或形容词的最高级。",
+      "imaginary": "a. 虚构的，想象中的。",
+      "imaginative": "a. 富于想象力的。"
+    },
+    "translation": "他是一个创造了奇妙世界的富于想象力的作家。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_80_3"
+  },
+  {
+    "id": "tem4_nua_159",
+    "group_id": 81,
+    "group_name": "imitate, intimate, intimidate",
+    "level": "TEM-4",
+    "target_word": "imitate",
+    "question": "The boy likes to ___ his father's way of talking.",
+    "options": [
+      "imitate",
+      "intimate",
+      "intimidate"
+    ],
+    "answer": "imitate",
+    "distractor_analysis": {
+      "imitate": "v. 模仿，仿效；复制，仿造。",
+      "intimate": "a. 亲密的；温馨的，舒适的。",
+      "intimidate": "v. 恐吓，威胁。"
+    },
+    "translation": "那个男孩模仿他父亲说话的样子。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_81_1"
+  },
+  {
+    "id": "tem4_nua_160",
+    "group_id": 81,
+    "group_name": "imitate, intimate, intimidate",
+    "level": "TEM-4",
+    "target_word": "intimate",
+    "question": "We have had an ___ friendship since we were young.",
+    "options": [
+      "imitate",
+      "intimate",
+      "intimidate"
+    ],
+    "answer": "intimate",
+    "distractor_analysis": {
+      "imitate": "v. 模仿，仿效；复制，仿造。",
+      "intimate": "a. 亲密的；温馨的，舒适的。",
+      "intimidate": "v. 恐吓，威胁。"
+    },
+    "translation": "我们自年轻时代起就建 立了亲密的友谊。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_81_2"
+  },
+  {
+    "id": "tem4_nua_161",
+    "group_id": 81,
+    "group_name": "imitate, intimate, intimidate",
+    "level": "TEM-4",
+    "target_word": "intimidate",
+    "question": "An older boy tried to ___ the little children when he took their lunch money.",
+    "options": [
+      "imitate",
+      "intimate",
+      "intimidate"
+    ],
+    "answer": "intimidate",
+    "distractor_analysis": {
+      "imitate": "v. 模仿，仿效；复制，仿造。",
+      "intimate": "a. 亲密的；温馨的，舒适的。",
+      "intimidate": "v. 恐吓，威胁。"
+    },
+    "translation": "一个 年龄大一点的男孩恐吓那些小孩子，并且抢走了他们的午饭钱。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_81_3"
+  },
+  {
+    "id": "tem4_nua_162",
+    "group_id": 82,
+    "group_name": "imperial, imperious",
+    "level": "TEM-4",
+    "target_word": "imperial",
+    "question": "The ___ guards protected the palace.",
+    "options": [
+      "imperial",
+      "imperious"
+    ],
+    "answer": "imperial",
+    "distractor_analysis": {
+      "imperial": "a. 帝国的，帝王的；帝王般的，威严的；英制的。",
+      "imperious": "a. 傲慢的，专横的。"
+    },
+    "translation": "帝国卫士站在皇宫门口。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_82_1"
+  },
+  {
+    "id": "tem4_nua_163",
+    "group_id": 82,
+    "group_name": "imperial, imperious",
+    "level": "TEM-4",
+    "target_word": "imperious",
+    "question": "The strict father showed an ___ attitude toward his children.",
+    "options": [
+      "imperial",
+      "imperious"
+    ],
+    "answer": "imperious",
+    "distractor_analysis": {
+      "imperial": "a. 帝国的，帝王的；帝王般的，威严的；英制的。",
+      "imperious": "a. 傲慢的，专横的。"
+    },
+    "translation": "那个严厉父亲 对孩子的态度很专横。 imply, infer",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_82_2"
+  },
+  {
+    "id": "tem4_nua_164",
+    "group_id": 82,
+    "group_name": "imply, infer",
+    "level": "TEM-4",
+    "target_word": "imply",
+    "question": "The Secretary of the Treasury seemed to ___ that interest rates would go down.",
+    "options": [
+      "imply",
+      "infer"
+    ],
+    "answer": "imply",
+    "distractor_analysis": {
+      "imply": "v. (从言语或态度中)暗示，暗指(某种事情)。",
+      "infer": "v. (根据已知事实)推断，推理。"
+    },
+    "translation": "财政大臣 暗示利率将下降。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_82_3"
+  },
+  {
+    "id": "tem4_nua_165",
+    "group_id": 83,
+    "group_name": "industrial, industrious",
+    "level": "TEM-4",
+    "target_word": "industrial",
+    "question": "___ production is up this year, but agriculture is weak.",
+    "options": [
+      "industrial",
+      "industrious"
+    ],
+    "answer": "industrial",
+    "distractor_analysis": {
+      "industrial": "a. 工业的，产业的（来自于名词 industry）。",
+      "industrious": "a. 勤奋的，忙碌的。"
+    },
+    "translation": "今年的工业产值上升了，但是农业依然薄弱。",
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_83_1"
+  },
+  {
+    "id": "tem4_nua_166",
+    "group_id": 83,
+    "group_name": "industrial, industrious",
+    "level": "TEM-4",
+    "target_word": "industrious",
+    "question": "She started her own business and is now very ___.",
+    "options": [
+      "industrial",
+      "industrious"
+    ],
+    "answer": "industrious",
+    "distractor_analysis": {
+      "industrial": "a. 工业的，产业的（来自于名词 industry）。",
+      "industrious": "a. 勤奋的，忙碌的。"
+    },
+    "translation": "她自己开了一家公司， 因此很忙碌。",
+    "field": "FIELD_BEHAVIOR",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_83_2"
+  },
+  {
+    "id": "tem4_nua_167",
+    "group_id": 84,
+    "group_name": "initial, original, primitive",
+    "level": "TEM-4",
+    "target_word": "initial",
+    "question": "My ___ good opinion of him changed with time.",
+    "options": [
+      "initial",
+      "original",
+      "primitive"
+    ],
+    "answer": "initial",
+    "distractor_analysis": {
+      "initial": "a. 开始的， 最初的， 强调处于事物的起始阶段， 也可以指位于开头地方的。",
+      "original": "a. 最初的，最早的；原版的，原物的。指按顺序是首位的，在此前不再 有更为原始的同类的东西；也指原件的，原物的，非仿造的东西。",
+      "primitive": "a. 原始的，上古的，早期的，指处于人类生命或事物发展的早期阶段， 也可以指自然的或简朴的。"
+    },
+    "translation": "时间长了我对他最初的好印象 改变了。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_84_1"
+  },
+  {
+    "id": "tem4_nua_168",
+    "group_id": 84,
+    "group_name": "initial, original, primitive",
+    "level": "TEM-4",
+    "target_word": "original",
+    "question": "This is the ___ piano on which the composer created some of his greatest works.",
+    "options": [
+      "initial",
+      "original",
+      "primitive"
+    ],
+    "answer": "original",
+    "distractor_analysis": {
+      "initial": "a. 开始的， 最初的， 强调处于事物的起始阶段， 也可以指位于开头地方的。",
+      "original": "a. 最初的，最早的；原版的，原物的。指按顺序是首位的，在此前不再 有更为原始的同类的东西；也指原件的，原物的，非仿造的东西。",
+      "primitive": "a. 原始的，上古的，早期的，指处于人类生命或事物发展的早期阶段， 也可以指自然的或简朴的。"
+    },
+    "translation": "就是在这架钢琴上，这位作曲家创作出了他的一些伟大的作品。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_84_2"
+  },
+  {
+    "id": "tem4_nua_169",
+    "group_id": 84,
+    "group_name": "initial, original, primitive",
+    "level": "TEM-4",
+    "target_word": "primitive",
+    "question": "___ tribes live in the Amazon River basin.",
+    "options": [
+      "initial",
+      "original",
+      "primitive"
+    ],
+    "answer": "primitive",
+    "distractor_analysis": {
+      "initial": "a. 开始的， 最初的， 强调处于事物的起始阶段， 也可以指位于开头地方的。",
+      "original": "a. 最初的，最早的；原版的，原物的。指按顺序是首位的，在此前不再 有更为原始的同类的东西；也指原件的，原物的，非仿造的东西。",
+      "primitive": "a. 原始的，上古的，早期的，指处于人类生命或事物发展的早期阶段， 也可以指自然的或简朴的。"
+    },
+    "translation": "原始部落居住在亚马逊河盆地。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_84_3"
+  },
+  {
+    "id": "tem4_nua_170",
+    "group_id": 86,
+    "group_name": "invaluable, valueless",
+    "level": "TEM-4",
+    "target_word": "invaluable",
+    "question": "Your help in moving the big refrigerator was ___ .",
+    "options": [
+      "invaluable",
+      "valueless"
+    ],
+    "answer": "invaluable",
+    "distractor_analysis": {
+      "invaluable": "a. 无价的，非常宝贵的，相当于 priceless。",
+      "valueless": "a. 没有价值的，相当于 worthless。"
+    },
+    "translation": "你帮忙搬那个大冰箱，你的帮助是可贵的。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_86_1"
+  },
+  {
+    "id": "tem4_nua_171",
+    "group_id": 86,
+    "group_name": "invaluable, valueless",
+    "level": "TEM-4",
+    "target_word": "valueless",
+    "question": "That bracelet is a cheap, ___ piece of jewelry.",
+    "options": [
+      "invaluable",
+      "valueless"
+    ],
+    "answer": "valueless",
+    "distractor_analysis": {
+      "invaluable": "a. 无价的，非常宝贵的，相当于 priceless。",
+      "valueless": "a. 没有价值的，相当于 worthless。"
+    },
+    "translation": "那个手镯是一件便宜的、不值钱的首饰。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_86_2"
+  },
+  {
+    "id": "tem4_nua_172",
+    "group_id": 87,
+    "group_name": "jealous, envious",
+    "level": "TEM-4",
+    "target_word": "jealous",
+    "question": "He gets ___ when another man talks to his girlfriend.",
+    "options": [
+      "jealous",
+      "envious"
+    ],
+    "answer": "jealous",
+    "distractor_analysis": {
+      "jealous": "a. 妒忌的，暗含有憎恶与不好的感情。",
+      "envious": "a. 羡慕的,强调攀比心理所造成的羡慕。"
+    },
+    "translation": "当别的男人和他的女朋友 说话时间]，他会很嫉妒。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_87_1"
+  },
+  {
+    "id": "tem4_nua_173",
+    "group_id": 89,
+    "group_name": "minor, inferior, secondary, subordinate",
+    "level": "TEM-4",
+    "target_word": "minor",
+    "question": "We agreed on everything in the contract, even ___ points.",
+    "options": [
+      "minor",
+      "inferior",
+      "secondary",
+      "subordinate"
+    ],
+    "answer": "minor",
+    "distractor_analysis": {
+      "minor": "a. 较少的，较小的，较次要的，常含有轻微的但并非不重要的意思。",
+      "inferior": "a. 次等的，较劣的，差的，当 \"下级\"讲时，强调职位的高低；当 \"次等\" 讲时，指素质、质量等的低劣。",
+      "secondary": "a. 第二等的，次要的，强调在重要性或顺序上处于第二位。",
+      "subordinate": "a. 次要的，从属的，下级的，强调主次地位或支配和隶属的关系。"
+    },
+    "translation": "我们对合同中的一切 问题，甚至是细枝末节都达成了一致。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_89_1"
+  },
+  {
+    "id": "tem4_nua_174",
+    "group_id": 89,
+    "group_name": "minor, inferior, secondary, subordinate",
+    "level": "TEM-4",
+    "target_word": "secondary",
+    "question": "My job is of ___ importance to my health.",
+    "options": [
+      "minor",
+      "inferior",
+      "secondary",
+      "subordinate"
+    ],
+    "answer": "secondary",
+    "distractor_analysis": {
+      "minor": "a. 较少的，较小的，较次要的，常含有轻微的但并非不重要的意思。",
+      "inferior": "a. 次等的，较劣的，差的，当 \"下级\"讲时，强调职位的高低；当 \"次等\" 讲时，指素质、质量等的低劣。",
+      "secondary": "a. 第二等的，次要的，强调在重要性或顺序上处于第二位。",
+      "subordinate": "a. 次要的，从属的，下级的，强调主次地位或支配和隶属的关系。"
+    },
+    "translation": "我的工作比起身体来说不那么重 要。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_89_3"
+  },
+  {
+    "id": "tem4_nua_175",
+    "group_id": 89,
+    "group_name": "minor, inferior, secondary, subordinate",
+    "level": "TEM-4",
+    "target_word": "subordinate",
+    "question": "He was always friendly to his ___ officers.",
+    "options": [
+      "minor",
+      "inferior",
+      "secondary",
+      "subordinate"
+    ],
+    "answer": "subordinate",
+    "distractor_analysis": {
+      "minor": "a. 较少的，较小的，较次要的，常含有轻微的但并非不重要的意思。",
+      "inferior": "a. 次等的，较劣的，差的，当 \"下级\"讲时，强调职位的高低；当 \"次等\" 讲时，指素质、质量等的低劣。",
+      "secondary": "a. 第二等的，次要的，强调在重要性或顺序上处于第二位。",
+      "subordinate": "a. 次要的，从属的，下级的，强调主次地位或支配和隶属的关系。"
+    },
+    "translation": "她对下级官员一向和蔼可亲。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_89_4"
+  },
+  {
+    "id": "tem4_nua_176",
+    "group_id": 91,
+    "group_name": "rational, reasonable",
+    "level": "TEM-4",
+    "target_word": "rational",
+    "question": "The ___ thing to do was to take the sick man to a doctor.",
+    "options": [
+      "rational",
+      "reasonable"
+    ],
+    "answer": "rational",
+    "distractor_analysis": {
+      "rational": "a. 理性的，区别于无理性；理智的，区别于感情用事的。",
+      "reasonable": "a. 有道理的，公平合理的，或指人讲道理的。"
+    },
+    "translation": "理智的做法是送病 人去看医生。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_91_1"
+  },
+  {
+    "id": "tem4_nua_177",
+    "group_id": 93,
+    "group_name": "respectable, respectful, respective",
+    "level": "TEM-4",
+    "target_word": "respectable",
+    "question": "They are ___ people who are liked and trusted in their town.",
+    "options": [
+      "respectable",
+      "respectful",
+      "respective"
+    ],
+    "answer": "respectable",
+    "distractor_analysis": {
+      "respectable": "a. 值得尊敬的，有好名声的。",
+      "respectful": "a. 尊敬他人的，恭敬的。",
+      "respective": "a. 单个的，分别的。"
+    },
+    "translation": "他们在家乡 是受人们敬爱和信任的人。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_93_1"
+  },
+  {
+    "id": "tem4_nua_178",
+    "group_id": 93,
+    "group_name": "respectable, respectful, respective",
+    "level": "TEM-4",
+    "target_word": "respectful",
+    "question": "Students and teachers should have a ___ attitude toward each other.",
+    "options": [
+      "respectable",
+      "respectful",
+      "respective"
+    ],
+    "answer": "respectful",
+    "distractor_analysis": {
+      "respectable": "a. 值得尊敬的，有好名声的。",
+      "respectful": "a. 尊敬他人的，恭敬的。",
+      "respective": "a. 单个的，分别的。"
+    },
+    "translation": "师生 应该相互彬彬有礼。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_93_2"
+  },
+  {
+    "id": "tem4_nua_179",
+    "group_id": 93,
+    "group_name": "respectable, respectful, respective",
+    "level": "TEM-4",
+    "target_word": "respective",
+    "question": "After the meeting, they returned to their ___ offices.",
+    "options": [
+      "respectable",
+      "respectful",
+      "respective"
+    ],
+    "answer": "respective",
+    "distractor_analysis": {
+      "respectable": "a. 值得尊敬的，有好名声的。",
+      "respectful": "a. 尊敬他人的，恭敬的。",
+      "respective": "a. 单个的，分别的。"
+    },
+    "translation": "会议结束后，他们回到了各自的办公室。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_93_3"
+  },
+  {
+    "id": "tem4_nua_180",
+    "group_id": 94,
+    "group_name": "revolve, evolve, involve",
+    "level": "TEM-4",
+    "target_word": "revolve",
+    "question": "The room began to ___ , then he fainted.",
+    "options": [
+      "revolve",
+      "evolve",
+      "involve"
+    ],
+    "answer": "revolve",
+    "distractor_analysis": {
+      "revolve": "v. 旋转，转动。",
+      "evolve": "v. 发展，演变。",
+      "involve": "v. 需要，包含；使卷入，牵涉。"
+    },
+    "translation": "屋子开始旋转，然后他就昏倒了。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_94_1"
+  },
+  {
+    "id": "tem4_nua_181",
+    "group_id": 94,
+    "group_name": "revolve, evolve, involve",
+    "level": "TEM-4",
+    "target_word": "evolve",
+    "question": "Agriculture has continued to ___ slowly over thousands of years.",
+    "options": [
+      "revolve",
+      "evolve",
+      "involve"
+    ],
+    "answer": "evolve",
+    "distractor_analysis": {
+      "revolve": "v. 旋转，转动。",
+      "evolve": "v. 发展，演变。",
+      "involve": "v. 需要，包含；使卷入，牵涉。"
+    },
+    "translation": "几千年来， 农业发展得很缓慢。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_94_2"
+  },
+  {
+    "id": "tem4_nua_182",
+    "group_id": 94,
+    "group_name": "revolve, evolve, involve",
+    "level": "TEM-4",
+    "target_word": "involve",
+    "question": "Getting a driver's licence will ___ learning how to drive, studying the rules of the road, and taking a test.",
+    "options": [
+      "revolve",
+      "evolve",
+      "involve"
+    ],
+    "answer": "involve",
+    "distractor_analysis": {
+      "revolve": "v. 旋转，转动。",
+      "evolve": "v. 发展，演变。",
+      "involve": "v. 需要，包含；使卷入，牵涉。"
+    },
+    "translation": "要得到驾驶执照需要学习开车，学习交通规则，还要经过 考试。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_94_3"
+  },
+  {
+    "id": "tem4_nua_183",
+    "group_id": 95,
+    "group_name": "sanction, sanitation",
+    "level": "TEM-4",
+    "target_word": "sanitation",
+    "question": "Strict ___ is used in businesses such as barber shops and restaurants.",
+    "options": [
+      "sanction",
+      "sanitation"
+    ],
+    "answer": "sanitation",
+    "distractor_analysis": {
+      "sanction": "n. 认可，准许，批准。",
+      "sanitation": "n. 公共卫生，环境卫生，卫生设备。"
+    },
+    "translation": "在理 发店和餐馆等营业场所执行严格的公共卫生制度。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_95_2"
+  },
+  {
+    "id": "tem4_nua_184",
+    "group_id": 96,
+    "group_name": "scenery, scene, view, landscape",
+    "level": "TEM-4",
+    "target_word": "scenery",
+    "question": "Each year, we spend our vacation in the mountains and enjoy the ___.",
+    "options": [
+      "scenery",
+      "scene",
+      "view",
+      "landscape"
+    ],
+    "answer": "scenery",
+    "distractor_analysis": {
+      "scenery": "n. 风景，景色，舞台布景，强调从美的角度看，某个国家或地区的总体 外貌。",
+      "scene": "n. 指从远处看到的某一具体景色、景象，也可以指人物的活动场面；(犯罪 的)地点，现场。",
+      "view": "n. 指从远处或窗户看到的视野范围内的风景；观点，看法。",
+      "landscape": "n. (自然的)风景，景色；风景画。"
+    },
+    "translation": "我们每 年到山区渡假，并欣赏那里的风景。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_96_1"
+  },
+  {
+    "id": "tem4_nua_185",
+    "group_id": 96,
+    "group_name": "scenery, scene, view, landscape",
+    "level": "TEM-4",
+    "target_word": "landscape",
+    "question": "The ___ seen from the mountains is green and beautiful.",
+    "options": [
+      "scenery",
+      "scene",
+      "view",
+      "landscape"
+    ],
+    "answer": "landscape",
+    "distractor_analysis": {
+      "scenery": "n. 风景，景色，舞台布景，强调从美的角度看，某个国家或地区的总体 外貌。",
+      "scene": "n. 指从远处看到的某一具体景色、景象，也可以指人物的活动场面；(犯罪 的)地点，现场。",
+      "view": "n. 指从远处或窗户看到的视野范围内的风景；观点，看法。",
+      "landscape": "n. (自然的)风景，景色；风景画。"
+    },
+    "translation": "站在群山之巅看到 的是一片美丽的绿色。",
+    "analysis": "### 任务一：题干质量与答案评估\n\n直接给出结论：这是一道设计存在明显缺陷的典型劣质EFL（英语作为外语）测试题。 你的选择 `view` 在真实的英语母语交流中是极其自然且高频的表达。出题人强行将 `landscape` 设定为唯一正确答案，暴露了国内一些英语测试在题库设计上的教条主义和对语境的刻板切割。\n\n如果非要为出题人找一个“技术性”的借口，问题出在题干的 `seen` 这个词上。\n在自然英语中，母语者会直接说：\"The view from the mountains is green and beautiful.\"（从山上的视野很美）。因为 `view` 这个词本身已经包含了“被看到的东西（what you can see）”这层含义，所以在它后面加上 `seen`（The view seen from...），在严格的语用学和语义学分析中，构成了一种轻微的语义重复（tautology）。出题人大概率是因为这个瑕疵排除了 `view`。\n\n尽管如此，用这种极其生硬的语病陷阱来考查词汇辨析，并不是一种科学的语言评估方式。你不必对自己的语感产生怀疑。\n\n### 任务二：选项词汇辨析与应试逻辑\n\n在排除了题目本身的合理性之后，我们来拆解出题人试图考查的“微观词义界限”。在极其严苛的应试逻辑下，这四个词的区隔如下：\n\n1.  **为什么出题人的逻辑指向 landscape？**\n    *   **核心释义**：地貌、风景（侧重于陆地的宽广延展和地表特征）。\n    *   **应试逻辑**：`landscape` 强调的是客观存在的物理陆地形态（a large area of land），包括上面的植被、山川等。题干中使用了明确的物理颜色属性 \"green\"（绿色的），出题人的死板逻辑是：“绿色”描述的是具体的植被和土地，所以必须选一个指代物理地表的词，即 `landscape`。同时，`landscape seen from...`（从山上看到的陆地风光）在语法上避开了 `view` 的语义重复问题。\n2.  **为什么 view 被判定为错误？**\n    *   **核心释义**：视野、风景（侧重于从特定的观察点所能看到的视觉范围）。\n    *   **应试逻辑**：正如前面分析的，除了 `view seen` 的语义重复嫌疑外，出题人可能认为 `view` 强调的是“看”这个动作带来的视觉结果，是一个相对抽象的光学/视觉概念，用来直接搭配物理颜色（green）不如 `landscape` 贴切。\n3.  **另外两个选项的严格区分：**\n    *   **scenery（风景、景色）：**\n        *   **核心特征**：这是一个不可数名词，泛指某地总体的自然美景。\n        *   **排除原因**：虽然语义上可以说是自然风光很美，但在强调从某个特定高处（from the mountains）向下俯视一整片开阔区域的物理地貌时，`landscape` 更具画面感。此外，在有些语境中 `scenery` 偏向美学评价，而 `landscape` 更偏向客观的地貌陈述。\n    *   **scene（场景、画面、现场）：**\n        *   **核心特征**：这是一个可数名词，侧重于一个具体的、局部的、通常有人或事件发生的“画面”或“现场”（例如：crime scene 犯罪现场，a touching scene 动人的场景）。\n        *   **排除原因**：用来指代大自然广阔的山川风貌，格局太小，完全不适用。\n\n**总结：**\n在真实的语境中，表达“从高处看到的风景”，`The view from...` 永远是最流畅的首选。但在这类刻板的词汇辨析题中，如果题干强调了非常具体的地表物理属性（如颜色、地形起伏），出题人通常在等你选择 `landscape`。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_96_4"
+  },
+  {
+    "id": "tem4_nua_186",
+    "group_id": 97,
+    "group_name": "sensible, sensitive, sentimental, sensational",
+    "level": "TEM-4",
+    "target_word": "sentimental",
+    "question": "The novel has scenes full of love and loss; it is so ___!",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sentimental",
+      "sensational"
+    ],
+    "answer": "sentimental",
+    "distractor_analysis": {
+      "sensible": "a. 有知觉的，可感知的；明智的。",
+      "sensitive": "a. 敏感的，灵敏的。",
+      "sentimental": "a. 多愁善感的，感伤的。",
+      "sensational": "a. 耸人听闻的，令人激动的。"
+    },
+    "translation": "小说有多处场景充 满爱情的悲欢离合，真是感伤啊！",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_97_3"
+  },
+  {
+    "id": "tem4_nua_187",
+    "group_id": 97,
+    "group_name": "sensible, sensitive, sentimental, sensational",
+    "level": "TEM-4",
+    "target_word": "sensational",
+    "question": "I read a ___ story about a ten-year-old mother.",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sentimental",
+      "sensational"
+    ],
+    "answer": "sensational",
+    "distractor_analysis": {
+      "sensible": "a. 有知觉的，可感知的；明智的。",
+      "sensitive": "a. 敏感的，灵敏的。",
+      "sentimental": "a. 多愁善感的，感伤的。",
+      "sensational": "a. 耸人听闻的，令人激动的。"
+    },
+    "translation": "我听到一则耸人听闻的故 事：十岁女孩做妈妈。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_97_4"
+  },
+  {
+    "id": "tem4_nua_188",
+    "group_id": 98,
+    "group_name": "technological, technical",
+    "level": "TEM-4",
+    "target_word": "technological",
+    "question": "Scientists achieved a major ___ breakthrough.",
+    "options": [
+      "technological",
+      "technical"
+    ],
+    "answer": "technological",
+    "distractor_analysis": {
+      "technological": "a. 技术上的。",
+      "technical": "a. 技术的，工艺(学)的；专门的，深奥的。"
+    },
+    "translation": "科学家们取得了主要的技术性突破。",
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_98_1"
+  },
+  {
+    "id": "tem4_nua_189",
+    "group_id": 98,
+    "group_name": "technological, technical",
+    "level": "TEM-4",
+    "target_word": "technical",
+    "question": "The banker made some ___ points about the economy in his speech.",
+    "options": [
+      "technological",
+      "technical"
+    ],
+    "answer": "technical",
+    "distractor_analysis": {
+      "technological": "a. 技术上的。",
+      "technical": "a. 技术的，工艺(学)的；专门的，深奥的。"
+    },
+    "translation": "银行家 在他的关于经济的演说中提出了几个很专业的论点。",
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_98_2"
+  },
+  {
+    "id": "tem4_nua_190",
+    "group_id": 99,
+    "group_name": "transaction, transition, transmission, transformation, transfer",
+    "level": "TEM-4",
+    "target_word": "transformation",
+    "question": "His character seems to have undergone a complete ___ since his marriage.",
+    "options": [
+      "transaction",
+      "transition",
+      "transmission",
+      "transformation",
+      "transfer"
+    ],
+    "answer": "transformation",
+    "distractor_analysis": {
+      "transaction": "n. 交易行为，处理。",
+      "transition": "n. (从一种情况到另一种的)过渡，更替。",
+      "transmission": "n. 传播(比如疾病)；广播。",
+      "transformation": "n. (外观或性质的)改变，改观，转变。",
+      "transfer": "n. 转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。"
+    },
+    "translation": "他结婚之后性格判若两人。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_99_4"
+  },
+  {
+    "id": "tem4_nua_191",
+    "group_id": 99,
+    "group_name": "transaction, transition, transmission, transformation, transfer",
+    "level": "TEM-4",
+    "target_word": "transfer",
+    "question": "The club's goalkeeper isn't happy here, and has asked for a ___.",
+    "options": [
+      "transaction",
+      "transition",
+      "transmission",
+      "transformation",
+      "transfer"
+    ],
+    "answer": "transfer",
+    "distractor_analysis": {
+      "transaction": "n. 交易行为，处理。",
+      "transition": "n. (从一种情况到另一种的)过渡，更替。",
+      "transmission": "n. 传播(比如疾病)；广播。",
+      "transformation": "n. (外观或性质的)改变，改观，转变。",
+      "transfer": "n. 转移，转让；(工作的)调动；(旅途中的)换乘，改变路线。"
+    },
+    "translation": "这个足球俱乐部 的守门员在此过得不愉快，已经要求转会到其他俱乐部。",
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_4_99_5"
+  },
+  {
+    "id": "tem4_nua_192",
+    "level": "TEM-4",
+    "group_name": "acknowledge, admit, confess, recognize, concede",
+    "question": "After hours of intense interrogation, the suspect finally broke down and decided to ___ his involvement in the armed robbery.",
+    "options": [
+      "acknowledge",
+      "admit",
+      "confess",
+      "concede"
+    ],
+    "answer": "confess",
+    "translation": "经过数小时的严格审讯，嫌疑人最终崩溃，决定坦白自己参与了武装抢劫。",
+    "analysis": {
+      "acknowledge": "通常指公开承认某事的真实情况或自己的过错。",
+      "admit": "强调因外力或良心驱使或经判断而明确承认，多含不情愿或被迫意味。",
+      "confess": "语气较强，着重承认自己意识到的错误或罪行，含坦白忏悔的意味。",
+      "concede": "指在事实与证据面前勉强或不得不承认。"
+    },
+    "target_word": "confess",
+    "distractor_analysis": {
+      "acknowledge": "\"承认（事实、存在等）\" - 通常指勉强或公开承认某种事实、权威或错误的存在。句中强调的是严重的犯罪行为，该词语气较弱，不够贴切。",
+      "admit": "\"承认（事实、错误等）\" - 泛指在压力下或不情愿地承认某事为真。虽可用于承认错误，但用于承认严重的违法犯罪行为时，不如confess专业。",
+      "confess": "\"坦白，供认\" - 特指承认自己犯了罪或犯了重大错误，常带有忏悔的意味。句中主语是“嫌疑人”，涉及“武装抢劫”的违法犯罪，用该词最准确。",
+      "concede": "\"（退让地）承认\" - 指在争论或辩论中，因无法辩驳而勉强承认对方的观点，或承认失败。不适用于交代犯罪事实。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_e3d2a1"
+  },
+  {
+    "id": "tem4_nua_193",
+    "level": "TEM-4",
+    "group_name": "way, road, path, route, street, avenue",
+    "question": "The explorers carefully navigated the narrow, winding mountain ___ that could only be traversed on foot.",
+    "options": [
+      "road",
+      "path",
+      "route",
+      "avenue"
+    ],
+    "answer": "path",
+    "translation": "探险者们小心翼翼地在只能徒步穿越的狭窄蜿蜒的山间小径上行进。",
+    "analysis": {
+      "road": "A road is a prepared way for traveling with horses or vehicles.",
+      "path": "A way suitable to be traveled only by foot passengers or by animals.",
+      "route": "A route is a line of travel, and may be over many roads.",
+      "avenue": "A avenue is a long, broad and imposing(庄严) or principal street."
+    },
+    "target_word": "path",
+    "distractor_analysis": {
+      "road": "\"道路，公路\" - 通常指供车辆和行人通行的铺设好或平坦的大道。句中强调“只能徒步”且是“山间的”，该词不符合此特征。",
+      "path": "\"小径，小道\" - 多指人或动物在田野、树林或山间走出来的狭窄小路。与句中“狭窄蜿蜒的山间”及“徒步”的语境完全契合。",
+      "route": "\"路线，航线\" - 指两地之间确定的行进路线，可以是陆路、水路或空路，侧重于方向和轨迹，而非具体的物理路面。",
+      "avenue": "\"林荫道，大街\" - 指城市中宽阔平坦且两旁常有树木的街道，与山间狭窄小路的语境完全不符。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_8f1b4c"
+  },
+  {
+    "id": "tem4_nua_194",
+    "level": "TEM-4",
+    "group_name": "priest, minister, clergy, clergyman, pastor, vicar, father",
+    "question": "The local ___, well-respected for his inspiring Sunday sermons, dedicated his life to serving the Protestant community.",
+    "options": [
+      "priest",
+      "vicar",
+      "father",
+      "pastor"
+    ],
+    "answer": "pastor",
+    "translation": "这位当地的教区牧师因其鼓舞人心的周日布道而备受尊敬，他一生致力于服务新教社区。",
+    "analysis": {
+      "priest": "A person, esp. a man specially trained for various religious duties and ceremonies, in the Christian church, esp. in the Roman Catholic church (牧师)",
+      "vicar": "A priest in charge of an area(parish) in the church of England.",
+      "father": "A little of respect for a priest, esp. in the Roman Catholic.",
+      "pastor": "A Christian religious leader in charge of a church and its members, esp. in a Protestant church. (教区牧师)"
+    },
+    "target_word": "pastor",
+    "distractor_analysis": {
+      "priest": "\"神父，牧师\" - 通常指天主教、东正教或英国国教中主持圣礼的神职人员，较少用于一般的新教（Protestant）教会。",
+      "vicar": "\"教区牧师，代理主教\" - 主要指英国国教（圣公会）中负责某一教区的牧师，有特定的教派限制。",
+      "father": "\"神父\" - 主要是天主教徒对神父的尊称，不适用于句中明确提到的“新教社区”。",
+      "pastor": "\"牧师\" - 普遍用于指代新教（Protestant）教会中负责牧养会众、主持礼拜和布道的神职人员，完全符合句中新教社区的语境。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_9c3b8a"
+  },
+  {
+    "id": "tem4_nua_195",
+    "level": "TEM-4",
+    "group_name": "pull, draw, drag, haul, tug, jerk, tow, wrench",
+    "question": "The harbor workers had to use heavy machinery to ___ the massive cargo containers from the ship to the dock.",
+    "options": [
+      "draw",
+      "drag",
+      "haul",
+      "tug"
+    ],
+    "answer": "haul",
+    "translation": "港口工人不得不使用重型机械将巨大的集装箱从船上拖到码头。",
+    "analysis": {
+      "draw": "It implies a smoother, steadier motion and generally a lighter force than pull.",
+      "drag": "It usually refers to horizontal motion or motion up an incline (slope) and it suggests laborious efforts over rough ground or against friction, resistance or gravity.",
+      "haul": "It implies continuous pulling or dragging of heavy or bulky objects.",
+      "tug": "It applies to hard often sudden violent effort to pull."
+    },
+    "target_word": "haul",
+    "distractor_analysis": {
+      "draw": "\"拉，牵引\" - 普通用词，指平稳地拉动，用力不一定很大，不足以体现拖动“巨大的集装箱”的艰难。",
+      "drag": "\"拖，拉\" - 指在地面上吃力地拖动沉重的物体，强调物体与地面有摩擦，不强调使用重型机械进行整体搬运。",
+      "haul": "\"用力拖拉，搬运\" - 强调花费很大力气拖拉沉重物体，常指使用机械或大量人力进行长距离或大规模的运输搬运。句中与“重型机械”和“巨大集装箱”完美匹配。",
+      "tug": "\"猛拉，用力拉\" - 指突然或短暂地用力拉、拽，通常不用于指代使用机械进行的持续性的重物搬运。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_f1a8b3"
+  },
+  {
+    "id": "tem4_nua_196",
+    "level": "TEM-4",
+    "group_name": "special, especial, particular, specific, peculiar",
+    "question": "The doctor gave me very ___ instructions on how to take the medication, detailing the exact dosage and timing.",
+    "options": [
+      "especial",
+      "particular",
+      "specific",
+      "peculiar"
+    ],
+    "answer": "specific",
+    "translation": "医生给了我关于如何服药的非常具体的指示，详细说明了准确的剂量和时间。",
+    "analysis": {
+      "especial": "(fml) To an usually great degree, exceptional; It emphasizes the importance of the things or the persons mentioned (特别的)",
+      "particular": "Relating or belonging to only one thing or person. It stresses the distinctness of something as an individual which is worth notice. (个别的)",
+      "specific": "Detailed and exact, clear in meaning and explanation, fixed, determined. It implies a quality or character distinguishing a kind or a species. (适用/特种的)",
+      "peculiar": "Strange or perhaps unpleasant. It implies strangeness. (独特的)"
+    },
+    "target_word": "specific",
+    "distractor_analysis": {
+      "especial": "\"特别的，特殊的\" - 常用于强调程度深或某人/某事物比其他更特别，较少用于形容说明或指示的具体性。",
+      "particular": "\"特定的，讲究的\" - 强调在同类中挑选出特定的一个，或对细节要求严格，但不强调内容的明确具体无误。",
+      "specific": "\"具体的，明确的\" - 强调不仅特殊，而且细节清晰、明确无误、不含糊。句中详细说明了准确剂量和时间，正是在解释医嘱极其“具体明确”。",
+      "peculiar": "\"奇怪的，特有的\" - 通常指令人觉得奇怪、古怪的，或者某物所独有的特征，用在医嘱上语义不通。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_1a2b3c"
+  },
+  {
+    "id": "tem4_nua_197",
+    "level": "TEM-4",
+    "group_name": "thief, robber, mugger, burglar, gangster, bandit, brigand, pirate",
+    "question": "The ___ broke into the house through the back window at midnight while the family was sleeping.",
+    "options": [
+      "robber",
+      "mugger",
+      "burglar",
+      "gangster"
+    ],
+    "answer": "burglar",
+    "translation": "窃贼在半夜全家熟睡时从后窗闯入了房子。",
+    "analysis": {
+      "robber": "It suggests a direct confrontation in which the owner is forced to give up his valuables.",
+      "mugger": "A person who attacks and robs people in a street or in a lift.",
+      "burglar": "A person who breaks into a house at night to steal something.",
+      "gangster": "A member of a group of criminals, esp. those who are armed and use guns to threaten."
+    },
+    "target_word": "burglar",
+    "distractor_analysis": {
+      "robber": "\"抢劫犯，强盗\" - 指使用暴力或威胁手段公开抢夺他人财物的人，通常不指暗中潜入者。",
+      "mugger": "\"行凶抢劫者\" - 特指在公共场所（如街道、公园）对人实施暴力抢劫的人。",
+      "burglar": "\"入室窃贼\" - 专门指非法破门或破窗潜入建筑物（如住宅、商店）内进行偷窃的人。句中明确提到“半夜通过后窗闯入房子”，正是此词的典型行为。",
+      "gangster": "\"歹徒，黑帮成员\" - 指犯罪团伙的成员，从事有组织的犯罪活动，不专指普通的入室盗窃者。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_03"
+  },
+  {
+    "id": "tem4_nua_198",
+    "level": "TEM-4",
+    "group_name": "shake, quiver, tremble, shiver, quake, shudder",
+    "question": "Standing outside in the freezing wind without a coat, he began to ___ uncontrollably.",
+    "options": [
+      "quiver",
+      "tremble",
+      "shiver",
+      "shudder"
+    ],
+    "answer": "shiver",
+    "translation": "没有穿外套站在寒风中，他开始不受控制地发抖。",
+    "analysis": {
+      "quiver": "To tremble a little. It suggests a rapid but invisible vibration.",
+      "tremble": "To shake uncontrollably and slightly as from fear, cold, excitement etc. It implies uneasiness and nervousness.",
+      "shiver": "To tremble from fear or cold. It suggests a slight and rapid movement.",
+      "shudder": "To shake uncontrollably for a movement. It suggests a more intense shaking."
+    },
+    "target_word": "shiver",
+    "distractor_analysis": {
+      "quiver": "\"轻微颤抖，抖动\" - 多指因情绪（如害怕、愤怒）或轻微的物理振动而产生的轻微快速颤动，常用于嘴唇、声音或树叶。",
+      "tremble": "\"发抖，战栗\" - 普通用词，指因寒冷、恐惧或激动而不由自主地全身或部分发抖。虽可用于寒冷，但不如shiver专一。",
+      "shiver": "\"打冷战，战栗\" - 特指因寒冷、发烧或恐惧而引起的短暂且不自主的身体颤抖，尤其最常用于表示因“寒冷”引起的发抖。句中“寒风”是直接原因，该词最精准。",
+      "shudder": "\"战栗，发抖\" - 强调因极度恐惧、厌恶或极度寒冷而引起的突然且强烈的全身抽动，侧重心理上的排斥感，不如shiver自然。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_04"
+  },
+  {
+    "id": "tem4_nua_199",
+    "level": "TEM-4",
+    "group_name": "dominant, predominant, sovereign",
+    "question": "In this rural region, agriculture is still the ___ source of income for most families.",
+    "options": [
+      "dominant",
+      "predominant",
+      "sovereign",
+      "distinguished"
+    ],
+    "answer": "predominant",
+    "translation": "在这个农村地区，农业仍然是大多数家庭的主要收入来源。",
+    "analysis": {
+      "dominant": "强调权威。",
+      "predominant": "侧重指影响与新近的优势。",
+      "sovereign": "侧重指其他事物都从属于或低于它的。",
+      "distinguished": "杰出的，指因为科学、艺术等方面的严肃工作而著名的人。"
+    },
+    "target_word": "predominant",
+    "distractor_analysis": {
+      "dominant": "（占统治地位的、支配的）强调拥有控制权、支配权或在力量/地位上处于绝对压倒性优势，较少用于单纯形容事物为“主要来源”。",
+      "predominant": "（占优势的、主要的）强调在数量、影响力或重要性上超过其他事物而占据主导地位，修饰source（来源）、feature（特征）等极为常见，符合语境。",
+      "sovereign": "（拥有最高统治权的、至高无上的）通常指国家、君主拥有独立的主权或最高权力，不用于修饰收入来源。",
+      "distinguished": "（卓越的、杰出的）指人或事物因表现出色而受人尊敬，用来修饰收入来源不符合逻辑。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_09"
+  },
+  {
+    "id": "tem4_nua_200",
+    "level": "TEM-4",
+    "group_name": "divide, separate, part, divorce",
+    "question": "It is a good habit to ___ recyclable materials from regular household waste.",
+    "options": [
+      "divide",
+      "separate",
+      "part",
+      "divorce"
+    ],
+    "answer": "separate",
+    "translation": "将可回收材料与普通生活垃圾分开是一个好习惯。",
+    "analysis": {
+      "divide": "指把一个整体按要求分成几个部分，暗示分配之意;也可指分开两个对立的事物。",
+      "separate": "指把两个人或物分开，着重从原属一个整体中移居一部分或把两者隔开。",
+      "part": "多指使紧密相连的人或物分开，往往暗示最后分离的意味。",
+      "divorce": "特指两个或更多的互为依赖的事物的分离，尤指婚姻的合法解体。"
+    },
+    "target_word": "separate",
+    "distractor_analysis": {
+      "divide": "（划分、分配）强调把一个整体切割或分配成若干部分，如把蛋糕分成几块。不适合“把两类不同事物分离开”的语境。",
+      "separate": "（分开、隔离）强调把原本混杂在一起、连接在一起的两个或多个独立实体拉开或分拣开，常与from连用。符合“把可回收物与普通垃圾分开”的语境。",
+      "part": "（分开、分离）侧重指人与人之间的分别、分手，或让紧密相连的两个人或物稍微分开一点。",
+      "divorce": "（离婚、脱离）主要指法律上的解除婚姻关系，或抽象意义上使理论与实践等完全脱节，在此处语义完全不符。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_10"
+  },
+  {
+    "id": "tem4_nua_201",
+    "level": "TEM-4",
+    "group_name": "despise, scorn, look down upon",
+    "question": "After cowardly lying to his best friend to save his own reputation, he began to deeply ___ himself.",
+    "options": [
+      "despise",
+      "scorn",
+      "look down upon",
+      "humiliate"
+    ],
+    "answer": "despise",
+    "translation": "在为了挽救自己的名声而怯懦地对最好的朋友撒谎之后，他开始深深地鄙视自己。",
+    "analysis": {
+      "despise": "指由于卑鄙、软弱，渺小或无价值等而被轻视。",
+      "scorn": "语气较强，指极端的蔑视，常伴有愤怒或恼怒的情感。",
+      "look down upon": "指自视地位优越而蔑视他人或事。",
+      "humiliate": "强调受辱者自尊心的损坏。"
+    },
+    "target_word": "despise",
+    "distractor_analysis": {
+      "despise": "（鄙视、看不起）感情色彩极强烈，表示由于对方的卑劣、怯懦而产生强烈的厌恶和轻蔑。符合语境中“对自己的懦弱谎言感到极度厌恶”。",
+      "scorn": "（轻蔑、鄙视）侧重于一种傲慢、嘲弄的态度，认为某人不值得自己理睬或某事根本不屑去做。",
+      "look down upon": "（看不起、轻视）一般性用语，指认为别人不如自己或地位卑微，语气不如despise强烈，较少用于反身代词指代“自己”。",
+      "humiliate": "（使蒙羞、屈辱）指通过言行伤害他人的自尊心，是使动用法，不表示内心的“鄙视”情感。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_11"
+  },
+  {
+    "id": "tem4_nua_202",
+    "level": "TEM-4",
+    "group_name": "charm, attract, enchant",
+    "question": "The magical performance of the ballet dancers seemed to ___ the entire audience, leaving them spellbound.",
+    "options": [
+      "charm",
+      "attract",
+      "enchant",
+      "distinguish"
+    ],
+    "answer": "enchant",
+    "translation": "芭蕾舞演员神奇的表演似乎迷住了全场观众，让他们看得入迷。",
+    "analysis": {
+      "charm": "指以一种魅力把人迷住",
+      "attract": "既可以指一般的吸引，也可以指引起异性的爱慕",
+      "enchant": "通常用来指使被迷住的人欢喜",
+      "distinguish": "普通用词，指辨别者的能力或实际观察到的区别，强调辨别所需的技巧"
+    },
+    "target_word": "enchant",
+    "distractor_analysis": {
+      "charm": "（吸引、迷住）指以优雅、迷人的特质讨人喜欢，语气较温和，不一定达到使人“完全入迷”的程度。",
+      "attract": "（吸引、引起注意）最普通的用词，指物理上的相互吸引或引起他人的注意和兴趣。",
+      "enchant": "（使着迷、施魔法）语气最强，本义为“施魔法”，引申为使人神魂颠倒、如痴如醉。符合语境中magical和leaving them spellbound（令其着魔般入迷）的强烈情感色彩。",
+      "distinguish": "（区分、辨别）意为分辨出不同，与“吸引、迷住”的语义完全无关。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_ch1_15"
+  },
+  {
+    "id": "tem4_nua_203",
+    "level": "TEM-4",
+    "group_name": "hold, contain, accommodate",
+    "question": "During the blizzard, the kind local family generously offered to ___ the stranded travelers in their guest room for the night.",
+    "options": [
+      "hold",
+      "contain",
+      "accommodate",
+      "receive"
+    ],
+    "answer": "accommodate",
+    "translation": "暴风雪期间，善良的当地家庭慷慨地提出让滞留的旅客在他们的客房里留宿一晚。",
+    "analysis": {
+      "hold": "指房间或大厅能容纳(多少人等)。",
+      "contain": "用容器装纳，也可指房间、大厅等的容纳，着重“其中确实包含有”。",
+      "accommodate": "即可表示提供，也可表示容纳，指“舒适地”容纳。",
+      "receive": "作为干扰项，指接待或接收。"
+    },
+    "target_word": "accommodate",
+    "distractor_analysis": {
+      "hold": "（容纳、握住）通常指容器、建筑物内部能装下或容纳一定数量的人或物，不含有“提供住宿服务”的含义。",
+      "contain": "（包含、容纳）侧重于整体内包含有某些成分或物体在里面，不用于指人为他人提供住宿。",
+      "accommodate": "（容纳、提供膳宿）侧重于为某人提供住宿、空间或满足某人的需求，符合语境中当地家庭为滞留旅客提供客房过夜的情景。",
+      "receive": "（接待、收到）指接见访客或收到物品，虽然有接待之意，但不强调提供铺位和住宿空间。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_202_c8d1e4"
+  },
+  {
+    "id": "tem4_nua_204",
+    "level": "TEM-4",
+    "group_name": "cold, cool, chilly, frosty, freezing, icy",
+    "question": "The winter storm was so severe that the ___ wind cut right through our thickest jackets, biting our faces.",
+    "options": [
+      "chilly",
+      "frosty",
+      "freezing",
+      "icy"
+    ],
+    "answer": "icy",
+    "translation": "冬季风暴非常猛烈，刺骨的寒风穿透了我们最厚的夹克，冷彻骨髓。",
+    "analysis": {
+      "chilly": "指使哆嗦的冷。",
+      "frosty": "指雾气在寒冷物体的表面凝结成薄冰时的严寒结霜的温度。",
+      "freezing": "指使人僵直，使东西凝固的冷。",
+      "icy": "多指风暴、风雪和水等冷得使人感到如刺如割。"
+    },
+    "target_word": "icy",
+    "distractor_analysis": {
+      "chilly": "（寒冷的、怕冷的）程度较轻，指让人感到有些发抖的冷，常指秋天的凉意，程度不及语境中的severe storm（猛烈风暴）。",
+      "frosty": "（结霜的、严寒的）侧重于天气冷得结霜了，或形容人态度冷淡，常修饰早晨或天气，形容风则不够确切。",
+      "freezing": "（极冷的、冰冻的）强调气温降至冰点以下，能把东西冻住，程度深，但不如icy侧重穿透性。",
+      "icy": "（冰冷的、刺骨的）强调像冰一样冷，常引申为寒气刺骨，与wind连用(icy wind)能极好地对应后文的cut right through（穿透）和biting（刺痛）。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_206_d1e4c8"
+  },
+  {
+    "id": "tem4_nua_205",
+    "level": "TEM-4",
+    "group_name": "discover, find, detect, ascertain",
+    "question": "The security system uses advanced sensors that can easily ___ the slightest movement or the presence of hidden objects in the restricted area.",
+    "options": [
+      "discover",
+      "find",
+      "detect",
+      "ascertain"
+    ],
+    "answer": "detect",
+    "translation": "该安全系统使用先进的传感器，可以轻松侦测到禁区内最轻微的移动或隐藏物体的存在。",
+    "analysis": {
+      "discover": "普通用词，指发现本来存在，但未被认识的事物、真理或情况。",
+      "find": "普通用词，可指偶然发现，也可指经过寻找后得到或重新获得已失去的东西，强调动作的结果。",
+      "detect": "正式用词，强调经过周密观察或研究而有所获得和发现，尤指发现有意隐藏之物。",
+      "ascertain": "较正式用词，指有意搜寻与发现，查明、确定。"
+    },
+    "target_word": "detect",
+    "distractor_analysis": {
+      "discover": "（发现）侧重发现原本已经存在但未被人们知晓的事物，如发现新大陆或科学规律。",
+      "find": "（找到、发现）普通用词，指偶然发现或通过寻找找到某人某物，不强调使用仪器进行微观或隐藏层面的探测。",
+      "detect": "（探测、察觉）特指利用精密仪器或凭借敏锐观察力去发现隐藏的、不易察觉的事物，如传感器侦测微小移动，极其贴合语境。",
+      "ascertain": "（查明、弄清）强调通过调查、核对等手段确认某事物的真相或事实，不用于仪器传感器的物理探测。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_208_b5f7a2"
+  },
+  {
+    "id": "tem4_nua_206",
+    "level": "TEM-4",
+    "group_name": "aim, goal, purpose, end, target, object",
+    "question": "After years of rigorous training, persistent struggles, and immense personal sacrifices, winning the Olympic gold medal became her ultimate ___.",
+    "options": [
+      "aim",
+      "goal",
+      "target",
+      "object"
+    ],
+    "answer": "goal",
+    "translation": "经过多年的艰苦训练、持续不断的奋斗和巨大的个人牺牲，赢得奥运金牌成为她最终要达到的目标。",
+    "analysis": {
+      "aim": "侧重比较具体而明确的目标，但常指短期目标。",
+      "goal": "指经过考虑和选择，需经坚持不懈的努力奋斗才能达到的最终目标。",
+      "target": "指射击的靶，军事攻击目标。引申指被攻击、批评或嘲笑的目标。",
+      "object": "强调个人或需求而决定的目标、目的。"
+    },
+    "target_word": "goal",
+    "distractor_analysis": {
+      "aim": "意为“目标，目的”，通常指短期或较具体的打算和志向，侧重努力的方向，不如goal宏大。",
+      "goal": "意为“目标，进球”，常指需要经过长期奋斗、克服重重困难才能达到的长远或最终目标（ultimate goal），与句中多年的艰苦训练和牺牲相契合。",
+      "target": "意为“靶子，目标”，通常指具体的、可量化的靶子或攻击对象（如销售额、射击目标等），侧重精确性。",
+      "object": "意为“目的，目标”，多指行动所追求的直接客体或动机，感情色彩较中性，不如goal强烈。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_211_f1a2b3"
+  },
+  {
+    "id": "tem4_nua_207",
+    "level": "TEM-4",
+    "group_name": "about, around, round",
+    "question": "After being bedridden for a week with the severe flu, she is finally feeling better and is out and ___ again.",
+    "options": [
+      "about",
+      "around",
+      "round",
+      "along"
+    ],
+    "answer": "about",
+    "translation": "在因患重感冒卧床一周后，她终于感觉好些了，又可以外出活动了。",
+    "analysis": {
+      "about": "既可表静态，也可表动态。",
+      "around": "主要用于美国，静态或动态均可。",
+      "round": "主要用于英国，多半指动态。",
+      "along": "指沿着一条直线在水平方向上运动（补充选项）。"
+    },
+    "target_word": "about",
+    "distractor_analysis": {
+      "about": "意为“四处，到处”，在固定短语“out and about”中表示病愈后“能下床走动，能外出活动”，是地道的英语习惯用语。",
+      "around": "意为“在周围，环绕”，虽然有时可与about互换表示“到处”，但在该特定习语（out and about）中不可替代。",
+      "round": "意为“在周围，圆的”，多用于英式英语中表示环绕或四处，同样不构成此固定习语。",
+      "along": "意为“沿着，向前”，强调沿着一条线或方向移动，不具备“四处走动”的含义。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_03"
+  },
+  {
+    "id": "tem4_nua_208",
+    "level": "TEM-4",
+    "group_name": "above, on, over",
+    "question": "The rescue helicopter hovered ___ the flooded village, ready to drop supplies to the stranded residents.",
+    "options": [
+      "above",
+      "on",
+      "over",
+      "in"
+    ],
+    "answer": "over",
+    "translation": "救援直升机在被洪水淹没的村庄正上方盘旋，准备向受困居民空投物资。",
+    "analysis": {
+      "over": "指一物在另一物的垂直上方，多暗示悬空，但也含“覆盖于……之上”之意。",
+      "above": "一般指位置高于某物，但不一定在正上方，也不接触另一物。",
+      "on": "指与另一物表面相接触。",
+      "in": "在……里面（补充选项）。"
+    },
+    "target_word": "over",
+    "distractor_analysis": {
+      "above": "意为“在...上方”，仅表示位置高于某物，但不一定在正上方，强调相对高度。",
+      "on": "意为“在...上面”，强调与物体表面有物理接触。",
+      "over": "意为“在...正上方，覆盖”，表示垂直在某物之上，且常带有覆盖或动态动作（如盘旋）的意味，直升机在村庄“正上方盘旋”用over最合适。",
+      "in": "意为“在...里面”，表示处于三维空间的内部，显然不符合直升机在空中的位置。"
+    },
+    "field": "FIELD_CHANGE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_04"
+  },
+  {
+    "id": "tem4_nua_209",
+    "level": "TEM-4",
+    "group_name": "abundant, plentiful, ample",
+    "question": "The host made sure there was ___ food and drink for all the guests at the wedding party, so no one would go hungry.",
+    "options": [
+      "abundant",
+      "plentiful",
+      "ample",
+      "massive"
+    ],
+    "answer": "ample",
+    "translation": "主人确保在婚宴上为所有宾客提供充足的食物和饮料，以免有人挨饿。",
+    "analysis": {
+      "ample": "指某物不仅满足了需要而且有余。",
+      "abundant": "着重某物极为丰富有或大量的供应。",
+      "plentiful": "普通用词，指某物的数量多得称心如意，不过剩，但较少用于描写抽象之物。",
+      "massive": "巨大的，大量的（补充选项）。"
+    },
+    "target_word": "ample",
+    "distractor_analysis": {
+      "abundant": "意为“丰富的，充裕的”，侧重数量极多，甚至超过实际需要，常用于自然资源、降雨量等。",
+      "plentiful": "意为“大量的，丰富的”，指某物供应量充足，不缺乏，与abundant类似但语气稍弱。",
+      "ample": "意为“充足的，丰裕的”，强调不仅数量多，而且完全能够满足特定需求甚至有余，常用于时间、空间、食物等，最能体现“让所有宾客都不挨饿”的充足感。",
+      "massive": "意为“巨大的，大量的”，侧重于体积大、重量重或规模宏大，不常用于修饰“食物数量”。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_06"
+  },
+  {
+    "id": "tem4_nua_210",
+    "level": "TEM-4",
+    "group_name": "accident, incident, event, occurrence, happening",
+    "question": "The assassination of the Archduke was a major historical ___ that triggered the outbreak of World War I.",
+    "options": [
+      "accident",
+      "incident",
+      "event",
+      "occurrence"
+    ],
+    "answer": "event",
+    "translation": "大公被暗杀是引发第一次世界大战爆发的重大历史事件。",
+    "analysis": {
+      "event": "可指任何大小事件，但尤指历史上的重大事件。",
+      "accident": "强调偶然或意外发生的不幸事情。",
+      "incident": "既可指小事件或附带事件，又可指政治上具有影响的事件或事变。",
+      "occurrence": "多指日常生活中发生的一般事件，有时也指偶然发生的事。"
+    },
+    "target_word": "event",
+    "distractor_analysis": {
+      "accident": "意为“事故，意外”，通常指偶然发生的、带来破坏或伤害的意外事件（如车祸）。",
+      "incident": "意为“事件，事变”，多指普通的、不太重要的小事件，或政治上引起争端的事变。",
+      "event": "意为“重大事件”，特指在历史上具有重要意义或规模宏大、引人注目的事件（historical event），符合句中“引发一战爆发”这一历史节点的沉重分量。",
+      "occurrence": "意为“发生的事情”，指日常生活中随时发生的任何事情，不强调事件的重要性和历史意义。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_08"
+  },
+  {
+    "id": "tem4_nua_211",
+    "level": "TEM-4",
+    "group_name": "accordingly, consequently, hence, so, therefore, thus",
+    "question": "When the fire alarm rings, all staff are expected to act ___ and evacuate the building immediately.",
+    "options": [
+      "accordingly",
+      "consequently",
+      "hence",
+      "thus"
+    ],
+    "answer": "accordingly",
+    "translation": "当火灾警报响起时，所有员工都应采取相应的行动，并立即撤离大楼。",
+    "analysis": {
+      "consequently": "正式用词，侧重符合逻辑的结果。",
+      "accordingly": "书面用词，强调根据某种原因而得出的结果，其前可用冒号或分号，但不用逗号。",
+      "hence": "较正式用词，指接下来的东西是理所当然的必需的东西，但强调其重要性。",
+      "thus": "多用于书面语中，可与therefore换用。"
+    },
+    "target_word": "accordingly",
+    "distractor_analysis": {
+      "accordingly": "意为“照着，相应地”，表示动作要根据前面提到的情况、指示或规则来进行。句中意为“（根据火警信号）采取相应行动”。",
+      "consequently": "意为“因此，结果”，强调由前因导致的合乎逻辑的结果，通常连接两个分句，不作状语修饰动词act。",
+      "hence": "意为“因此，从此”，多用于推理或引出结果，常置于句首或分句首，修饰整个句子。",
+      "thus": "意为“因此，这样”，也侧重于引出结果或表示方式，不如accordingly准确传达“顺应指示行动”的含义。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_10"
+  },
+  {
+    "id": "tem4_nua_212",
+    "level": "TEM-4",
+    "group_name": "accumulate, amass, collect, gather, heap, pile",
+    "question": "Over the years, the greedy merchant managed to ___ a massive fortune by exploiting the poor workers.",
+    "options": [
+      "accumulate",
+      "amass",
+      "collect",
+      "gather"
+    ],
+    "answer": "amass",
+    "translation": "多年来，这个贪婪的商人通过剥削贫苦工人，积累了巨额财富。",
+    "analysis": {
+      "amass": "着重大量地积聚，尤指对如金钱、珠宝等有价值东西的大量积聚。",
+      "accumulate": "几乎可用于指任何事物量的增加，侧重连续不断地，一点一滴地聚积。",
+      "collect": "普通用词，多用于指物，侧重指有区别地作选择或有安排有计划地把零散物集中起来。",
+      "gather": "普通用词，指人或物或抽象事物都可用。侧重于围绕一个中心的集合、聚集。"
+    },
+    "target_word": "amass",
+    "distractor_analysis": {
+      "accumulate": "意为“积累，积聚”，指数量逐渐、持续地增加，可指财富、知识等，是个相对中性的通用词汇。",
+      "amass": "意为“大量积聚，积累（财富）”，主要特指怀着强烈的占有欲，在短时间内或通过手段积聚“大量财富、资金或信息”（amass a fortune），带有较强的情感色彩，最符合“贪婪的商人”语境。",
+      "collect": "意为“收集，搜集”，侧重于有选择、有目的地寻找并聚集某类物品（如邮票），不强调财富的堆积。",
+      "gather": "意为“聚集，收集”，通常指把分散的人或物集中到一起，或采集农作物等，没有积攒巨额财富的意味。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_11"
+  },
+  {
+    "id": "tem4_nua_213",
+    "level": "TEM-4",
+    "group_name": "accurate, exact, precise, right, true, correct",
+    "question": "To ensure the experiment is successful, the scientist requires ___ measurements of the chemical compounds down to the milligram.",
+    "options": [
+      "accurate",
+      "exact",
+      "precise",
+      "correct"
+    ],
+    "answer": "precise",
+    "translation": "为了确保实验成功，科学家要求对化合物的测量精确到毫克。",
+    "analysis": {
+      "precise": "侧重极端准确，更强调细节的精确无误。",
+      "accurate": "指通过谨慎的努力达到符合事实或实际，侧重不同程度的准确性，与事实无出入。",
+      "exact": "着重在质与量方面的准确，语气比accurate强。",
+      "correct": "最常用词，主要指按一定标准或规则来衡量，没有谬误和差错或无缺点错误。"
+    },
+    "target_word": "precise",
+    "distractor_analysis": {
+      "accurate": "意为“准确的”，指通过努力使结果符合标准或事实，没有错误，强调“准”（不偏离目标）。",
+      "exact": "意为“确切的，一丝不差的”，强调在细节上与事实或标准完全吻合，丝毫不差。",
+      "precise": "意为“精确的，严密的”，在科学和工程语境中，特指测量、仪器或数据的精细程度高（如精确到毫克），强调细节的极其细密和“精”度，最符合实验测量的语境。",
+      "correct": "意为“正确的”，指符合事实、规则或常识，是个相对宽泛的词，不涉及科学测量上的极高精确度。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_12"
+  },
+  {
+    "id": "tem4_nua_214",
+    "level": "TEM-4",
+    "group_name": "across, along, over, through",
+    "question": "The hikers decided to take a shortcut ___ the dense forest instead of walking around it.",
+    "options": [
+      "across",
+      "along",
+      "over",
+      "through"
+    ],
+    "answer": "through",
+    "translation": "徒步旅行者决定抄近路穿过茂密的森林，而不是绕行。",
+    "analysis": {
+      "through": "侧重从一端穿到另一端。",
+      "across": "指“从……的一边到另一边”，强调横过，多与动态动词连用。",
+      "along": "指沿着一条直线在水平方向上运动。一般表动态，有时也与静态动词连用。",
+      "over": "常和动态动词连用，指“从……上面越过”或“横越”;表静态时，指“在彼处”。"
+    },
+    "target_word": "through",
+    "distractor_analysis": {
+      "across": "穿过、横过，强调从物体表面的一边到另一边（如过马路、过河），不表示在内部穿行。",
+      "along": "沿着、顺着，指平行于某个较长物体的边缘或线条行进（如沿着街道、河流），不符合“穿过”森林。",
+      "over": "越过、在…上方，侧重于从物体的上方跨越或覆盖（如翻墙、飞过山顶），不符合进入森林内部的语境。",
+      "through": "穿过、贯穿，强调从立体空间或障碍物的内部穿过（如穿过森林、隧道、人群），符合在茂密森林中穿行的句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_14"
+  },
+  {
+    "id": "tem4_nua_215",
+    "level": "TEM-4",
+    "group_name": "active, energetic, vigorous, brisk, lively",
+    "question": "Despite his old age, the grandfather remains exceptionally ___ and still goes for a three-mile run every morning.",
+    "options": [
+      "active",
+      "energetic",
+      "vigorous",
+      "brisk"
+    ],
+    "answer": "vigorous",
+    "translation": "尽管年事已高，这位祖父依然精力极其旺盛，每天早上仍要跑三英里。",
+    "analysis": {
+      "vigorous": "指不仅表现积极、有生气，而且固有精力和活力十分旺盛。",
+      "active": "指有活动能力，强调与消极或休止相反的积极活动状态。",
+      "energetic": "指精力充沛、奋力从事某事业。",
+      "brisk": "指动作敏捷、充满活力、轻快活泼地从事某项工作或活动。"
+    },
+    "target_word": "vigorous",
+    "distractor_analysis": {
+      "active": "活跃的、主动的，指经常参与活动或保持运动状态，偏向于行为上的频繁，未强调身体机能的强健。",
+      "energetic": "精力充沛的，指人充满活力和热情，常指精神面貌和行动上的干劲，较普遍。",
+      "vigorous": "精力极其旺盛的、强健的，强调身体强壮、健康且活动强有力，常用来形容老年人依然健朗或运动量大，最契合句中每天跑三英里的强健体魄。",
+      "brisk": "敏捷的、轻快的（常形容步伐、风或天气），通常指动作轻盈快捷（如brisk walk），不专门用于形容人整体的身体强壮度。"
+    },
+    "field": "FIELD_NATURE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk3_15"
+  },
+  {
+    "id": "tem4_nua_216",
+    "level": "TEM-4",
+    "group_name": "advise, caution, warn, admonish, counsel",
+    "question": "The meteorologist issued a broadcast to ___ the public about the approaching hurricane and its devastating consequences.",
+    "options": [
+      "advise",
+      "caution",
+      "warn",
+      "admonish"
+    ],
+    "answer": "warn",
+    "translation": "气象学家发布广播，警告公众飓风即将来临及其可能带来的毁灭性后果。",
+    "analysis": {
+      "advise": "普通用词，泛指劝告，不涉及对方是否听从劝告。",
+      "caution": "主要指针对有潜在危险而提出的警告，含小心从事的意味。",
+      "warn": "含义与caution相同，但语气较重，尤指重后果。",
+      "admonish": "一般指年长者或领导对已犯错误的或有过失的人提出的忠告或警告以避免类似错误。",
+      "counsel": "正式用词，语气比advise强一些，侧重指对重要问题提出的劝告、建议或咨询。"
+    },
+    "target_word": "warn",
+    "distractor_analysis": {
+      "advise": "建议、劝告，侧重于提供建设性的意见或方案，语气较温和，不适用于预报毁灭性灾害。",
+      "caution": "警告、提醒，指提醒某人注意潜在的危险或风险，促使其小心谨慎，语气比warn轻，通常针对较小的危险。",
+      "warn": "警告、告诫，指明确告知某人即将发生的严重危险或不良后果，语气强烈，最契合针对“飓风及其毁灭性后果”发出的紧急通知。",
+      "admonish": "告诫、责备，指对某人的错误行为进行温和而严肃的批评，或劝告其不要做某事，带有强烈的道德或纪律色彩，与天气预报无关。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk4_06"
+  },
+  {
+    "id": "tem4_nua_217",
+    "level": "TEM-4",
+    "group_name": "bad, evil, ill, poor, wicked",
+    "question": "In the classic fairy tale, the ___ witch tried to trick the innocent princess with a poisoned apple.",
+    "options": [
+      "bad",
+      "ill",
+      "poor",
+      "wicked"
+    ],
+    "answer": "wicked",
+    "translation": "在经典的童话故事中，那个居心叵测的邪恶巫婆试图用毒苹果欺骗无辜的公主。",
+    "analysis": {
+      "bad": "含义广泛，指任何不好的或不合需要的品质。",
+      "evil": "语气比bad强，强调道德上的邪恶不良，含狡猾凶险或危害他人的意味。",
+      "ill": "与evil意义接近，但语气弱一些，常指道德或性质方面的不良。",
+      "poor": "普通用词，侧重指事物的质量或数量低于标准或不合要求。用于指天气与食品时可与bad通用。",
+      "wicked": "语气比evil强，指居心叵测，任意违反道德标准，有意作恶。"
+    },
+    "target_word": "wicked",
+    "distractor_analysis": {
+      "bad": "坏的、不好的，含义最广，可指质量差、表现糟或道德有瑕疵，语气平淡，无法体现童话反派的恶毒。",
+      "ill": "生病的、不良的，常作表语表示身体不适，或作定语表示不好的（如ill luck），很少用来形容人的邪恶本性。",
+      "poor": "贫穷的、可怜的、劣质的，不包含道德败坏或邪恶的意思。",
+      "wicked": "邪恶的、恶毒的，带有强烈的道德谴责色彩，常用于形容童话或文学作品中存心不良、残忍恶毒的经典反派（如wicked witch/stepmother），最符合句意。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk4_12"
+  },
+  {
+    "id": "tem4_nua_218",
+    "level": "TEM-4",
+    "group_name": "base, basis, foundation, ground",
+    "question": "The construction workers spent several weeks laying a solid ___ before building the skyscraper.",
+    "options": [
+      "base",
+      "basis",
+      "foundation",
+      "ground"
+    ],
+    "answer": "foundation",
+    "translation": "建筑工人在建造摩天大楼之前花了几周时间铺设坚实的地基。",
+    "analysis": {
+      "base": "侧重指构成或支撑某一具体物体的基础，也可指军事基地或用作比喻意义。",
+      "basis": "主要用作抽象或引申意义。",
+      "foundation": "用于具体意义时，侧重指坚固结实的建筑物的基础或地基;用作比喻意义时，与basis基本相同。",
+      "ground": "含义与basis和foundation接近。一般指某种决定、论点或关系的基础，也可指某种原因的基础。"
+    },
+    "target_word": "foundation",
+    "distractor_analysis": {
+      "base": "底部、底座，指物体的最下部分或支撑物（如灯座、雕像底座），通常不指大型建筑深入地下的工程基础。",
+      "basis": "基础、根据，主要用于抽象事物，指理论、论断或行动的逻辑起点和原则基础，不能用于物理建筑。",
+      "foundation": "地基、基础，指建筑物深入地下的坚固底座（lay a solid foundation），也可指抽象的基础，在建筑语境中最准确。",
+      "ground": "土地、地面、理由，指室外的地表或论点的依据，不表示建筑学上的“地基”。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk4_13"
+  },
+  {
+    "id": "tem4_nua_219",
+    "level": "TEM-4",
+    "group_name": "beat, strike, hit, thrash, whip",
+    "question": "Despite being considered the underdog, our school basketball team managed to ___ the defending champions in the final match.",
+    "options": [
+      "beat",
+      "strike",
+      "hit",
+      "thrash"
+    ],
+    "answer": "beat",
+    "translation": "尽管被认为是不被看好的一方，我们学校的篮球队还是在决赛中成功打败了卫冕冠军。",
+    "analysis": {
+      "beat": "普通用词，含义广泛，指连续打击。游戏、竞赛或战争中作打败解。",
+      "strike": "普通用词，多指急速或突然一次猛击。",
+      "hit": "普通用词，常与strike换用，侧重有目标的猛击，强调用力击中。",
+      "thrash": "侧重指用棍子或鞭子等痛打。",
+      "whip": "多指用鞭子抽打。"
+    },
+    "target_word": "beat",
+    "distractor_analysis": {
+      "beat": "打败、战胜，在体育比赛、游戏或竞争中击败对手是其最常见的用法（beat someone），直接切合“在决赛中打败卫冕冠军”。",
+      "strike": "击打、罢工，指突然有力地击中某物，强调物理上的打击动作，不用于“在比赛中战胜对手”。",
+      "hit": "击打、碰撞，指通过物理接触造成打击，通常用于身体部位或武器击中目标，不能表示比赛中的获胜。",
+      "thrash": "痛打、惨败，指严厉地鞭打，或在比赛中以悬殊的比分彻底击败对手，语气过于夸张，不如beat在常规陈述中自然。"
+    },
+    "field": "FIELD_STANCE",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_chunk4_16"
+  },
+  {
+    "id": "tem4_nua_220",
+    "level": "TEM-4",
+    "group_name": "command, order, direction, instruction",
+    "question": "The supervisor gave the new employees clear ___s on how to operate the machinery safely.",
+    "options": [
+      "command",
+      "order",
+      "direction",
+      "instruction"
+    ],
+    "answer": "instruction",
+    "translation": "主管给新员工下达了关于如何安全操作机器的明确指示。",
+    "analysis": {
+      "command": "较正式用词，强调权威性、全局性和强制性。",
+      "order": "普通用词，侧重指具体的命令。",
+      "direction": "正式用词，指口头或书面的指示或命令，也可指指导性的说明。",
+      "instruction": "书面用词，指不容违反、不容推翻的命令，也多指包含具体说明的指示。"
+    },
+    "target_word": "instruction",
+    "distractor_analysis": {
+      "command": "命令，指挥。具有最高权威者下达的必须绝对服从的强制性命令，在企业日常操作中语气过重。",
+      "order": "命令，指示。普通用语，多指上级对下级的具体要求，但较少专门用于“操作步骤”的指导。",
+      "direction": "方向，指导。复数多指方位指引或一般性的操作指南，但在企业专业培训中略显宽泛。",
+      "instruction": "指示，说明。常以复数出现，特指为了教授某人做某事或说明某物用法而给出的具体、系统的操作指南和步骤，契合“指导安全操作机器”。"
+    },
+    "field": "FIELD_RELATION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_7k80j1m2"
+  },
+  {
+    "id": "tem4_nua_221",
+    "level": "TEM-4",
+    "group_name": "compare, compare to, compare with, contrast",
+    "question": "The essay requires you to ___ the main characters in the two novels, focusing on their differing moral values.",
+    "options": [
+      "compare",
+      "compare to",
+      "compare with",
+      "contrast"
+    ],
+    "answer": "contrast",
+    "translation": "这篇论文要求你对比这两部小说中的主要人物，重点关注他们截然不同的道德价值观。",
+    "analysis": {
+      "compare": "侧重比较两个或更多东西的异同优劣，强调相同或类似之处。",
+      "compare to": "指两物有类似或相似之处，从而“把(一物)比作(另一物)”。",
+      "compare with": "指“把……用……作比较”以便找出差异或好坏。",
+      "contrast": "指比较两个或更多东西之间的差异，侧重不同点。"
+    },
+    "target_word": "contrast",
+    "distractor_analysis": {
+      "compare": "比较。通常指寻找两者之间的相同点或同时寻找异同，不如contrast强调“相异”直接。",
+      "compare to": "把...比作。侧重指出不同类别事物之间的相似性（如把人生比作舞台），属于修辞比喻。",
+      "compare with": "与...相比较。指详细比较同类事物异同，但在题干要求重点突出“不同的价值观（differing moral values）”时，不如contrast精准。",
+      "contrast": "对比，使对照。强调通过并列比较凸显两者间的显著差异和截然不同之处。题干明确要求聚焦“不同的价值观”，contrast完美呼应。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_8l91k2n3"
+  },
+  {
+    "id": "tem4_nua_222",
+    "level": "TEM-4",
+    "group_name": "complex, complicated, sophisticated, intricate",
+    "question": "The design of the clockwork mechanism is so ___ that only a master watchmaker can repair it.",
+    "options": [
+      "complex",
+      "complicated",
+      "sophisticated",
+      "intricate"
+    ],
+    "answer": "intricate",
+    "translation": "这个发条装置的设计如此错综复杂，只有钟表大师才能修理它。",
+    "analysis": {
+      "complex": "侧重内在关系的复杂，需通过仔细研究与了解才能掌握和运用。",
+      "complicated": "含义接近complex但语气更强，着重极其复杂，很难分析、分辨或解释。",
+      "sophisticated": "侧重指事物发展到或达到高级的程度所体现出的复杂。",
+      "intricate": "着重指错综复杂，令人迷惑理解。"
+    },
+    "target_word": "intricate",
+    "distractor_analysis": {
+      "complex": "复杂的。强调由多个相互联系的要素组成，侧重客观结构，未能完全凸显“难以修理”的繁琐精微。",
+      "complicated": "复杂的，难懂的。侧重事物关系错综复杂导致难以理解，多用于局势或人际关系。",
+      "sophisticated": "高级的，精密的。通常赞美机器技术先进，重点在“精密尖端”，不完全强调结构繁杂难修。",
+      "intricate": "错综复杂的，盘根错节的。特指事物包含极多细小且相互交织的部件，结构精细极难理清。契合“发条装置（clockwork mechanism）”的精微细节。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_2p35o6r7"
+  },
+  {
+    "id": "tem4_nua_223",
+    "level": "TEM-4",
+    "group_name": "complexity, complication",
+    "question": "The patient's surgery was generally successful, but an unexpected ___ arose during his recovery phase.",
+    "options": [
+      "complexity",
+      "complication",
+      "difficulty",
+      "confusion"
+    ],
+    "answer": "complication",
+    "translation": "病人的手术总体很成功，但在恢复阶段出现了意想不到的并发症（复杂情况）。",
+    "analysis": {
+      "complexity": "着重指极度复杂而难于辨认的关系。",
+      "complication": "指纷乱复杂到令人难于理解的地步（在医学上常指并发症）。",
+      "difficulty": "困难（非本组辨析词，作干扰项）。",
+      "confusion": "混乱、混淆（非本组辨析词，作干扰项）。"
+    },
+    "target_word": "complication",
+    "distractor_analysis": {
+      "complexity": "复杂性。指复杂的特征本身，不能具体指代医疗过程中引发的局部病症。",
+      "complication": "复杂化；并发症。在医学语境中是专有名词，指原有疾病或手术基础上新发的其他病症。题干中术后恢复期出现的意外情况即为“并发症”。",
+      "difficulty": "困难。笼统宽泛，不足以表达医学恢复期中具体的衍生健康问题。",
+      "confusion": "混乱，困惑。指思维或秩序的不清，不适用身体手术后的病理状况。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_3q46p7s8"
+  },
+  {
+    "id": "tem4_nua_224",
+    "level": "TEM-4",
+    "group_name": "danger, risk, hazard, menace, peril, threat",
+    "question": "When his car broke down on the side of the busy highway, he immediately turned on his ___ lights to warn other drivers.",
+    "options": [
+      "danger",
+      "risk",
+      "hazard",
+      "menace"
+    ],
+    "answer": "hazard",
+    "translation": "当他的车在繁忙的高速公路边抛锚时，他立刻打开了危险报警闪光灯来警告其他司机。",
+    "analysis": {
+      "danger": "（原文为anger系拼写错误）含义广，普通用词，指能够造成伤害、损害或不利的任何情况。",
+      "risk": "指有可能发生的危险，尤指主动进行某种活动或去碰运气而冒的危险。",
+      "hazard": "比risk正式，多指偶然发生的或无法控制的危险，常含较严重或有一定风险的意味。",
+      "menace": "所指的危险性最严重，表示使用暴力或造成破坏性的可能。"
+    },
+    "target_word": "hazard",
+    "distractor_analysis": {
+      "danger": "危险。泛指任何可能的伤害或威胁，但没有“danger lights”这种车辆标准部件叫法。",
+      "risk": "风险。多指主动采取行动时可能的潜在损失或概率，不用于交通警示灯。",
+      "hazard": "危险，隐患。强调不可预测的危险源。“hazard lights”（危险报警闪光灯/双闪灯）是汽车术语的固定表达，契合题意。",
+      "menace": "威胁，恐吓。多指蓄意造成的巨大危害或具有敌意的威胁，不能修饰车灯。"
+    },
+    "field": "FIELD_COGNITION",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "legacy_id": "q_6t79s0v1"
+  }
+]
