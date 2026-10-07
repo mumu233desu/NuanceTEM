@@ -9,9 +9,11 @@ import SettingsView from './views/SettingsView.vue';
 import AuthModal from './components/AuthModal.vue';
 import { useAuth } from './composables/useAuth';
 import { useSync } from './composables/useSync';
+import { useScope } from './composables/useScope';
 
 const { user, isAuthenticated, logout, refreshProfile } = useAuth();
 const { status: syncStatus, syncNow } = useSync();
+const { currentScope } = useScope();
 
 const isAuthModalOpen = ref(false);
 const currentView = ref('dashboard');
@@ -72,7 +74,7 @@ onMounted(initApp);
         <div class="logo-icon">豆</div>
         <div class="logo-titles">
           <div class="logo-text">豆英语</div>
-          <div class="logo-sub">NuanceTEM</div>
+          <div class="logo-sub">NuanceTEM · {{ currentScope === 'ALL' ? '综合' : currentScope }}</div>
         </div>
       </div>
 

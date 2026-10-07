@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
 import { db, type Question, type Progress, recordAttempt, toggleMastered, createDefaultProgress, TAXONOMY_MECHANISMS } from '../db';
+import { useScope, type LevelScope } from '../composables/useScope';
 import QuizCard from '../components/QuizCard.vue';
 import ExplanationSheet from '../components/ExplanationSheet.vue';
+
+const { currentScope, setScope } = useScope();
 
 const currentQuestion = ref<Question | null>(null);
 const currentProgress = ref<Progress | null>(null);
@@ -12,15 +15,18 @@ const isCorrect = ref(false);
 const showExplanation = ref(false);
 
 const recentQuestionIds = ref<string[]>([]);
-const currentLevelFilter = ref<string>(localStorage.getItem('nuancetem_quiz_level') || 'ALL');
 const currentMechFilter = ref<string>(localStorage.getItem('nuancetem_quiz_mech') || 'ALL');
 
-const changeLevel = (lvl: string) => {
-  currentLevelFilter.value = lvl;
-  localStorage.setItem('nuancetem_quiz_level', lvl);
+const changeLevel = (lvl: LevelScope) => {
+  setScope(lvl);
   recentQuestionIds.value = [];
   loadNextQuestion();
 };
+
+watch(currentScope, () => {
+  recentQuestionIds.value = [];
+  loadNextQuestion();
+});
 
 const changeMech = (mech: string) => {
   currentMechFilter.value = mech;
@@ -42,8 +48,8 @@ const loadNextQuestion = async () => {
   );
 
   let allQuestions = await db.questions.toArray();
-  if (currentLevelFilter.value !== 'ALL') {
-    allQuestions = allQuestions.filter(q => q.level === currentLevelFilter.value);
+  if (currentScope.value !== 'ALL') {
+    allQuestions = allQuestions.filter(q => q.level === currentScope.value);
   }
   if (currentMechFilter.value !== 'ALL') {
     allQuestions = allQuestions.filter(q => q.mechanism === currentMechFilter.value);
@@ -134,8 +140,8 @@ onMounted(loadNextQuestion);
             v-for="lvl in ['ALL', 'TEM-4', 'TEM-8']" 
             :key="lvl"
             class="level-tab-btn" 
-            :class="{ active: currentLevelFilter === lvl }"
-            @click="changeLevel(lvl)"
+            :class="{ active: currentScope === lvl }"
+            @click="changeLevel(lvl as LevelScope)"
           >
             {{ lvl === 'ALL' ? '综合' : lvl }}
           </button>

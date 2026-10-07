@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted, computed, watch, onUnmounted } from 'vue';
 import { db, type Question, toggleMastered, createDefaultProgress, TAXONOMY_FIELDS, TAXONOMY_MECHANISMS } from '../db';
+import { useScope, type LevelScope } from '../composables/useScope';
 
 interface QuestionWithProgress extends Question {
   status: 'new' | 'learning' | 'mastered';
@@ -9,13 +10,30 @@ interface QuestionWithProgress extends Question {
   repetitions: number;
 }
 
+const { currentScope, setScope } = useScope();
+
 const list = ref<QuestionWithProgress[]>([]);
 const searchQuery = ref('');
 const statusFilter = ref<string>('all');
-const levelFilter = ref<string>('all');
+const levelFilter = ref<string>(currentScope.value === 'ALL' ? 'all' : currentScope.value);
 const mechanismFilter = ref<string>('all');
 const fieldFilter = ref<string>('all');
 const expandedQuestionId = ref<string | null>(null);
+
+watch(levelFilter, (newVal) => {
+  if (newVal === 'all') {
+    setScope('ALL');
+  } else if (newVal === 'TEM-4' || newVal === 'TEM-8') {
+    setScope(newVal as LevelScope);
+  }
+});
+
+watch(currentScope, (newScope) => {
+  const target = newScope === 'ALL' ? 'all' : newScope;
+  if (levelFilter.value !== target) {
+    levelFilter.value = target;
+  }
+});
 
 const loadData = async () => {
   const allQuestions = await db.questions.toArray();

@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
 import { db } from '../db';
+import { useScope, type LevelScope } from '../composables/useScope';
 
 const emit = defineEmits<{
   (e: 'navigate', view: string): void;
 }>();
+
+const { currentScope, setScope } = useScope();
 
 const totalQuestions = ref(0);
 const masteredCount = ref(0);
@@ -16,32 +19,63 @@ const dailyTarget = ref(Number(localStorage.getItem('dailyTarget')) || 20);
 
 const loadStats = async () => {
   dailyTarget.value = Number(localStorage.getItem('dailyTarget')) || 20;
-  totalQuestions.value = await db.questions.count();
-  
-  // Count mastered
-  masteredCount.value = await db.progress.where('status').equals('mastered').count();
-  
-  // Count learning
-  learningCount.value = await db.progress.where('status').equals('learning').count();
-  
-  // Count new
-  newCount.value = await db.progress.where('status').equals('new').count();
-  
-  // Count due for review (status is learning and nextReview <= now)
   const now = Date.now();
-  dueCount.value = await db.progress
-    .where('status')
-    .equals('learning')
-    .filter(p => p.nextReview <= now)
-    .count();
-
-  // Count completed today (logs where timestamp is within today)
   const startOfToday = new Date().setHours(0, 0, 0, 0);
-  completedToday.value = await db.logs
-    .where('timestamp')
-    .aboveOrEqual(startOfToday)
-    .count();
+
+  if (currentScope.value === 'ALL') {
+    totalQuestions.value = await db.questions.count();
+    masteredCount.value = await db.progress.where('status').equals('mastered').count();
+    learningCount.value = await db.progress.where('status').equals('learning').count();
+    newCount.value = await db.progress.where('status').equals('new').count();
+    dueCount.value = await db.progress
+      .where('status')
+      .equals('learning')
+      .filter(p => p.nextReview <= now)
+      .count();
+    completedToday.value = await db.logs
+      .where('timestamp')
+      .aboveOrEqual(startOfToday)
+      .count();
+  } else {
+    const levelQuestions = await db.questions.where('level').equals(currentScope.value).toArray();
+    const levelQuestionIds = new Set(levelQuestions.map(q => q.id));
+    totalQuestions.value = levelQuestions.length;
+
+    masteredCount.value = await db.progress
+      .where('status')
+      .equals('mastered')
+      .filter(p => levelQuestionIds.has(p.questionId))
+      .count();
+
+    learningCount.value = await db.progress
+      .where('status')
+      .equals('learning')
+      .filter(p => levelQuestionIds.has(p.questionId))
+      .count();
+
+    newCount.value = await db.progress
+      .where('status')
+      .equals('new')
+      .filter(p => levelQuestionIds.has(p.questionId))
+      .count();
+
+    dueCount.value = await db.progress
+      .where('status')
+      .equals('learning')
+      .filter(p => p.nextReview <= now && levelQuestionIds.has(p.questionId))
+      .count();
+
+    completedToday.value = await db.logs
+      .where('timestamp')
+      .aboveOrEqual(startOfToday)
+      .filter(l => levelQuestionIds.has(l.questionId))
+      .count();
+  }
 };
+
+watch(currentScope, () => {
+  loadStats();
+});
 
 onMounted(loadStats);
 </script>
@@ -51,8 +85,21 @@ onMounted(loadStats);
     <!-- Header Hero -->
     <div class="hero-section">
       <div class="hero-text">
-        <h1>Welcome to NuanceTEM</h1>
-        <p>精琢词义辨析，拿下专四专八。今天也要坚持打卡哦！</p>
+        <div class="hero-title-row">
+          <h1>欢迎来到 豆英语</h1>
+          <div class="level-tabs">
+            <button 
+              v-for="lvl in ['ALL', 'TEM-4', 'TEM-8']" 
+              :key="lvl"
+              class="level-tab-btn" 
+              :class="{ active: currentScope === lvl }"
+              @click="setScope(lvl as LevelScope)"
+            >
+              {{ lvl === 'ALL' ? '综合总览' : lvl }}
+            </button>
+          </div>
+        </div>
+        <p>精琢词义辨析，拿下专四专八。{{ currentScope === 'ALL' ? '综合题库' : currentScope + ' 专项' }}今天也要坚持打卡哦！</p>
       </div>
       <div class="hero-progress-circle">
         <svg viewBox="0 0 36 36" class="circular-chart">
@@ -185,9 +232,53 @@ onMounted(loadStats);
   }
 }
 
+.hero-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.level-tabs {
+  display: flex;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  gap: 0.25rem;
+}
+
+[data-theme="dark"] .level-tabs {
+  background: rgba(15, 23, 42, 0.5);
+}
+
+.level-tab-btn {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.level-tab-btn:hover {
+  color: var(--text-main);
+}
+
+.level-tab-btn.active {
+  background: var(--primary);
+  color: white;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+}
+
 .hero-text h1 {
   font-size: clamp(2rem, 6vw, 3rem);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0;
   background: linear-gradient(135deg, var(--text-main) 20%, var(--primary));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

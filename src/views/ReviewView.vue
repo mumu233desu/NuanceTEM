@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, watch } from 'vue';
 import { db, type Question, type Progress, recordAttempt, toggleMastered } from '../db';
+import { useScope, type LevelScope } from '../composables/useScope';
 import QuizCard from '../components/QuizCard.vue';
 import ExplanationSheet from '../components/ExplanationSheet.vue';
+
+const { currentScope, setScope } = useScope();
 
 const dueQuestions = ref<Question[]>([]);
 const currentQuestion = ref<Question | null>(null);
@@ -16,16 +19,26 @@ const isLoading = ref(true);
 
 const forecast = ref<{ dayStr: string, count: number }[]>([]);
 
+const changeLevel = (lvl: LevelScope) => {
+  setScope(lvl);
+};
+
 const loadForecast = async () => {
   const now = Date.now();
   const oneDay = 24 * 60 * 60 * 1000;
   const startOfToday = new Date().setHours(0, 0, 0, 0);
   
-  const learningProgress = await db.progress
+  let learningProgress = await db.progress
     .where('status')
     .equals('learning')
     .filter(p => p.nextReview > now)
     .toArray();
+
+  if (currentScope.value !== 'ALL') {
+    const levelQuestions = await db.questions.where('level').equals(currentScope.value).toArray();
+    const levelIds = new Set(levelQuestions.map(q => q.id));
+    learningProgress = learningProgress.filter(p => levelIds.has(p.questionId));
+  }
     
   const counts = [0, 0, 0, 0, 0];
   
@@ -48,11 +61,18 @@ const loadDueQuestions = async () => {
   const now = Date.now();
   
   // Find progress entries that are due
-  const dueProgress = await db.progress
+  let dueProgress = await db.progress
     .where('status')
     .equals('learning')
     .filter(p => p.nextReview <= now)
     .toArray();
+
+  const allQuestions = await db.questions.toArray();
+
+  if (currentScope.value !== 'ALL') {
+    const levelIds = new Set(allQuestions.filter(q => q.level === currentScope.value).map(q => q.id));
+    dueProgress = dueProgress.filter(p => levelIds.has(p.questionId));
+  }
 
   if (dueProgress.length === 0) {
     dueQuestions.value = [];
@@ -64,7 +84,6 @@ const loadDueQuestions = async () => {
 
   // Map progress entries to questions
   const dueIds = new Set(dueProgress.map(p => p.questionId));
-  const allQuestions = await db.questions.toArray();
   
   // Keep the order defined by nextReview ascending (older reviews first)
   const idToProgressMap = new Map(dueProgress.map(p => [p.questionId, p]));
@@ -81,6 +100,10 @@ const loadDueQuestions = async () => {
   setCurrentQuestion();
   isLoading.value = false;
 };
+
+watch(currentScope, () => {
+  loadDueQuestions();
+});
 
 const setCurrentQuestion = async () => {
   if (dueQuestions.value.length === 0 || currentIndex.value >= dueQuestions.value.length) {
@@ -152,10 +175,28 @@ onMounted(loadDueQuestions);
 <template>
   <div class="review-view slide-up">
     <div class="header">
-      <h2>Spaced Repetition 复习面板</h2>
-      <p v-if="dueQuestions.length > 0">
-        今天共有 <span class="highlight">{{ Math.max(0, dueQuestions.length - currentIndex) }}</span> 道错题/到期题目需要复习。
-      </p>
+      <div class="title-row">
+        <div>
+          <h2>Spaced Repetition 复习面板</h2>
+          <p v-if="dueQuestions.length > 0">
+            {{ currentScope === 'ALL' ? '综合题库' : currentScope + ' 专项' }} 今天共有 <span class="highlight">{{ Math.max(0, dueQuestions.length - currentIndex) }}</span> 道错题/到期题目需要复习。
+          </p>
+          <p v-else>
+            {{ currentScope === 'ALL' ? '综合题库' : currentScope + ' 专项' }} 当前暂无到期复习任务。
+          </p>
+        </div>
+        <div class="level-tabs">
+          <button 
+            v-for="lvl in ['ALL', 'TEM-4', 'TEM-8']" 
+            :key="lvl"
+            class="level-tab-btn" 
+            :class="{ active: currentScope === lvl }"
+            @click="changeLevel(lvl as LevelScope)"
+          >
+            {{ lvl === 'ALL' ? '综合' : lvl }}
+          </button>
+        </div>
+      </div>
     </div>
 
     <div v-if="isLoading" class="loading-state glass-card">
@@ -185,6 +226,8 @@ onMounted(loadDueQuestions);
         :isMastered="currentProgress?.status === 'mastered'"
         :questionText="currentQuestion.question"
         :optionsList="currentQuestion.options"
+        :taxonomyNotes="currentQuestion.taxonomy_notes"
+        :mechanism="currentQuestion.mechanism"
         @next="setCurrentQuestion"
         @toggleMaster="handleToggleMaster"
         @rateDifficulty="handleRateDifficulty"
@@ -220,6 +263,49 @@ onMounted(loadDueQuestions);
 
 .header {
   margin-bottom: 0.5rem;
+}
+
+.title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.level-tabs {
+  display: flex;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 0.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  gap: 0.25rem;
+}
+
+[data-theme="dark"] .level-tabs {
+  background: rgba(15, 23, 42, 0.5);
+}
+
+.level-tab-btn {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.level-tab-btn:hover {
+  color: var(--text-main);
+}
+
+.level-tab-btn.active {
+  background: var(--primary);
+  color: white;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
 }
 
 .highlight {
