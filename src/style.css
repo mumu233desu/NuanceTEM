@@ -2,7 +2,7 @@
 
 /* Color & Theme Variables */
 :root {
-  color-scheme: light;
+  color-scheme: light dark;
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-display: 'Outfit', var(--font-sans);
   --font-mono: 'JetBrains Mono', monospace;
@@ -42,7 +42,13 @@
   --radius-lg: 24px;
 }
 
-[data-theme="dark"] {
+[data-theme="light"],
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+[data-theme="dark"],
+:root[data-theme="dark"] {
   color-scheme: dark;
   /* Dark Theme (Deep Midnight Obsidian) */
   --bg-app: #090e1a;

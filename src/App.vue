@@ -20,26 +20,32 @@ const currentView = ref('dashboard');
 const isDbInitializing = ref(true);
 const isDarkMode = ref(false);
 
+const applyTheme = (isDark: boolean) => {
+  isDarkMode.value = isDark;
+  const theme = isDark ? 'dark' : 'light';
+  document.documentElement.setAttribute('data-theme', theme);
+  document.documentElement.style.colorScheme = theme;
+  const meta = document.getElementById('meta-theme-color');
+  if (meta) meta.setAttribute('content', isDark ? '#090e1a' : '#fcfaf7');
+};
+
 const checkTheme = () => {
   const savedTheme = localStorage.getItem('theme');
   if (savedTheme === 'dark') {
-    isDarkMode.value = true;
-    document.documentElement.setAttribute('data-theme', 'dark');
+    applyTheme(true);
   } else if (savedTheme === 'light') {
-    isDarkMode.value = false;
-    document.documentElement.setAttribute('data-theme', 'light');
+    applyTheme(false);
   } else {
     // System preferences (default when no preference or 'system')
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    isDarkMode.value = prefersDark;
-    document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    applyTheme(prefersDark);
   }
 };
 
 const toggleTheme = () => {
-  isDarkMode.value = !isDarkMode.value;
-  const nextTheme = isDarkMode.value ? 'dark' : 'light';
-  document.documentElement.setAttribute('data-theme', nextTheme);
+  const nextIsDark = !isDarkMode.value;
+  applyTheme(nextIsDark);
+  const nextTheme = nextIsDark ? 'dark' : 'light';
   localStorage.setItem('theme', nextTheme);
   window.dispatchEvent(new CustomEvent('theme-changed', { detail: nextTheme }));
 };
@@ -51,8 +57,7 @@ const initApp = async () => {
   const handleSystemThemeChange = (e: MediaQueryListEvent) => {
     const savedTheme = localStorage.getItem('theme');
     if (!savedTheme || savedTheme === 'system') {
-      isDarkMode.value = e.matches;
-      document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+      applyTheme(e.matches);
     }
   };
   mediaQuery.addEventListener('change', handleSystemThemeChange);
@@ -155,7 +160,7 @@ onMounted(initApp);
           </div>
         </div>
         <div v-else class="login-prompt">
-          <button @click="isAuthModalOpen = true" class="login-btn glass-card">
+          <button @click="isAuthModalOpen = true" class="login-btn">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
             <span>登录云端同步</span>
           </button>
@@ -240,7 +245,7 @@ onMounted(initApp);
         <QuizView v-if="currentView === 'quiz'" />
         <ReviewView v-if="currentView === 'review'" />
         <DatabaseView v-if="currentView === 'database'" />
-        <SettingsView v-if="currentView === 'settings'" />
+        <SettingsView v-if="currentView === 'settings'" @open-auth="isAuthModalOpen = true" />
       </template>
     </main>
 
@@ -278,18 +283,34 @@ onMounted(initApp);
   gap: 0.6rem;
   padding: 0.75rem 1rem;
   border-radius: var(--radius-md);
-  border: 1px dashed var(--primary);
+  border: 1px solid rgba(15, 118, 110, 0.35);
   background: var(--primary-light);
   color: var(--primary);
   font-weight: 600;
   font-size: 0.85rem;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
 }
 .login-btn:hover {
   background: var(--primary);
   color: var(--text-on-primary);
-  border-style: solid;
+  border-color: var(--primary);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(15, 118, 110, 0.2);
+}
+
+[data-theme="dark"] .login-btn {
+  background: rgba(45, 212, 191, 0.12);
+  border-color: rgba(45, 212, 191, 0.4);
+  color: #2dd4bf;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+[data-theme="dark"] .login-btn:hover {
+  background: #2dd4bf;
+  color: #042f2e;
+  border-color: #2dd4bf;
+  box-shadow: 0 4px 16px rgba(45, 212, 191, 0.3);
 }
 
 .user-card {

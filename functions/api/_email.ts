@@ -53,6 +53,13 @@ export interface WelcomeEmailOptions {
   siteUrl?: string;
 }
 
+export interface VerificationCodeEmailOptions {
+  userEmail: string;
+  code: string;
+  expiresInMinutes?: number;
+  siteUrl?: string;
+}
+
 export interface SendEmailOptions {
   apiKey: string;
   from?: string;
@@ -263,7 +270,80 @@ ${resetLink}
 }
 
 /**
- * 模板 2：新用户欢迎邮件（预留扩展）
+ * 模板 2：注册邮箱验证码（Verification Code）
+ * 发送 6 位随机生成、15 分钟有效期的验证码
+ */
+export function renderVerificationCodeEmail(options: VerificationCodeEmailOptions): EmailRenderResult {
+  const {
+    userEmail,
+    code,
+    expiresInMinutes = 15,
+    siteUrl = BRAND.defaultSiteUrl,
+  } = options;
+
+  const subject = `【豆英语 · NuanceTEM】您的注册验证码：${code}`;
+  const previewText = `您的 NuanceTEM 注册验证码为 ${code}，该验证码在 ${expiresInMinutes} 分钟内有效。`;
+
+  const contentHtml = `
+    <!-- 标题 -->
+    <h1 style="margin: 0 0 12px 0; font-size: 20px; font-weight: 700; color: ${BRAND.textMain}; line-height: 1.4;">
+      验证您的电子邮箱
+    </h1>
+
+    <!-- 问候与说明 -->
+    <p style="margin: 0 0 14px 0; font-size: 15px; line-height: 1.65; color: ${BRAND.textBody};">
+      您好，<strong style="color: ${BRAND.textMain};">${userEmail}</strong>：
+    </p>
+    <p style="margin: 0 0 20px 0; font-size: 15px; line-height: 1.65; color: ${BRAND.textBody};">
+      感谢您注册 NuanceTEM（豆英语）。您本次注册账号的验证码如下，请在注册页面输入以完成邮箱验证：
+    </p>
+
+    <!-- 6 位验证码高亮展示卡片 (移动端与桌面端自适应大字号等宽) -->
+    <div style="margin: 24px 0; text-align: center;">
+      <div style="display: inline-block; background-color: #f1f5f9; border: 2px dashed ${BRAND.primaryColor}; border-radius: 12px; padding: 16px 32px; letter-spacing: 8px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 32px; font-weight: 800; color: ${BRAND.primaryColor};">
+        ${code}
+      </div>
+    </div>
+
+    <p style="margin: 0 0 20px 0; font-size: 14px; text-align: center; color: ${BRAND.textMuted};">
+      验证码在 <strong>${expiresInMinutes} 分钟</strong>内有效。
+    </p>
+
+    <!-- 安全防伪提示 -->
+    <div style="padding-top: 18px; border-top: 1px solid ${BRAND.borderColor};">
+      <p style="margin: 0; font-size: 13px; line-height: 1.6; color: ${BRAND.textMuted};">
+        🔒 <strong>安全提醒：</strong>工作人员绝不会向您索取验证码，请切勿泄露给他人。如非您本人发起的注册请求，请忽略此邮件。
+      </p>
+    </div>
+  `;
+
+  const html = renderEmailLayout({
+    title: subject,
+    previewText,
+    badge: '注册验证',
+    contentHtml,
+    siteUrl,
+  });
+
+  const text = `【豆英语 · NuanceTEM】您的注册验证码：${code}
+
+您好，${userEmail}：
+
+感谢您注册 NuanceTEM（豆英语）。您本次注册账号的验证码为：
+
+${code}
+
+该验证码在 ${expiresInMinutes} 分钟内有效。如非您本人操作，请忽略此邮件。
+
+---
+官方网站：${siteUrl}
+本邮件由系统自动发出，请勿直接回复。`;
+
+  return { subject, html, text };
+}
+
+/**
+ * 模板 3：新用户欢迎邮件（预留扩展）
  */
 export function renderWelcomeEmail(options: WelcomeEmailOptions): EmailRenderResult {
   const { userEmail, nickname = '学友', siteUrl = BRAND.defaultSiteUrl } = options;

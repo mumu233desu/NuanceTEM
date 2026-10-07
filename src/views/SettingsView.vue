@@ -1,6 +1,15 @@
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue';
 import { db, createDefaultProgress } from '../db';
+import { useAuth } from '../composables/useAuth';
+import { useSync } from '../composables/useSync';
+
+const emit = defineEmits<{
+  (e: 'open-auth'): void;
+}>();
+
+const { user, isAuthenticated, logout, resetCloudProgress } = useAuth();
+const { status: syncStatus, syncNow } = useSync();
 
 const appVersion = __APP_VERSION__;
 const dbUpdateTime = ref('读取中...');
@@ -31,16 +40,19 @@ const currentTheme = ref<ThemeOption>((localStorage.getItem('theme') as ThemeOpt
 
 const setTheme = (theme: ThemeOption) => {
   currentTheme.value = theme;
+  let isDark = false;
   if (theme === 'system') {
     localStorage.removeItem('theme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
-    window.dispatchEvent(new CustomEvent('theme-changed', { detail: 'system' }));
+    isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   } else {
     localStorage.setItem('theme', theme);
-    document.documentElement.setAttribute('data-theme', theme);
-    window.dispatchEvent(new CustomEvent('theme-changed', { detail: theme }));
+    isDark = theme === 'dark';
   }
+  document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';
+  const meta = document.getElementById('meta-theme-color');
+  if (meta) meta.setAttribute('content', isDark ? '#090e1a' : '#fcfaf7');
+  window.dispatchEvent(new CustomEvent('theme-changed', { detail: theme }));
 };
 
 // Watch for changes and save to localStorage
@@ -157,18 +169,40 @@ const handleImport = async (event: Event) => {
 };
 
 const handleResetAll = async () => {
-  if (confirm('警告：此操作将永久抹除所有错题记录、已熟记列表及学习进度，恢复为未学习状态！您确定要重置吗？')) {
-    try {
-      await db.logs.clear();
-      
-      const progressList = await db.progress.toArray();
-      const resetEntries = progressList.map(p => createDefaultProgress(p.questionId));
-      
-      await db.progress.bulkPut(resetEntries);
-      alert('所有学习记录已重置完毕！');
-    } catch (err) {
-      alert('重置进度失败：' + err);
+  let confirmMessage = '警告：此操作将永久抹除所有错题记录、已熟记列表及学习进度，恢复为未学习状态！您确定要重置吗？';
+  if (isAuthenticated.value) {
+    confirmMessage = `⚠️ 危险操作确认：\n您当前已登录云端账户（${user.value?.email}）。\n\n此操作将清空本机所有做题记录，并【同时彻底清空云端备份数据库】，确保多设备进度彻底归零。\n\n您确定要彻底重置吗？`;
+  }
+
+  if (!confirm(confirmMessage)) return;
+
+  try {
+    // 1. 如果已登录，优先彻底清空云端备份数据
+    if (isAuthenticated.value) {
+      try {
+        await resetCloudProgress();
+      } catch (e: any) {
+        if (!confirm(`清空云端数据时遇到异常（${e.message}）。是否仍要继续清空本地数据？`)) {
+          return;
+        }
+      }
     }
+
+    // 2. 清空本地 logs 和将进度复原为初始状态
+    await db.logs.clear();
+    const progressList = await db.progress.toArray();
+    const resetEntries = progressList.map(p => createDefaultProgress(p.questionId));
+    await db.progress.bulkPut(resetEntries);
+
+    // 3. 触发一次同步以固化云端最新空状态
+    if (isAuthenticated.value) {
+      await syncNow();
+    }
+
+    alert(isAuthenticated.value ? '所有本地与云端学习进度已彻底重置为初始状态！' : '所有本地学习记录已重置完毕！');
+    window.location.reload();
+  } catch (err) {
+    alert('重置进度失败：' + err);
   }
 };
 </script>
@@ -181,6 +215,38 @@ const handleResetAll = async () => {
     </div>
 
     <div class="settings-grid">
+      <!-- Cloud Account & Sync Section (方便移动端与桌面端用户管理账户) -->
+      <div class="settings-card glass-card account-card">
+        <h3>云端账户与多端同步</h3>
+        <p class="description">
+          {{ isAuthenticated ? '您的学习记录已接入 Cloudflare 边缘云端同步，SM-2 记忆算法排程与错题本在手机和电脑间无缝漫游。' : '登录账户即可开启基于 Cloudflare 边缘网络的云端实时同步，学习进度永不丢失。' }}
+        </p>
+
+        <div v-if="isAuthenticated" class="account-profile-box">
+          <div class="profile-main">
+            <div class="profile-avatar">{{ (user?.nickname || user?.email || 'U')[0].toUpperCase() }}</div>
+            <div class="profile-details">
+              <span class="profile-name">{{ user?.nickname || '学习者' }}</span>
+              <span class="profile-email">{{ user?.email }}</span>
+            </div>
+            <span class="sync-badge" :class="syncStatus">
+              {{ syncStatus === 'synced' ? '● 云端已同步' : syncStatus === 'syncing' ? '○ 正在同步' : syncStatus === 'error' ? '▲ 同步失败' : '● 本地存储' }}
+            </span>
+          </div>
+          <div class="account-actions">
+            <button class="btn-action mini-action" @click="syncNow">立即同步</button>
+            <button class="btn-action mini-action logout-btn" @click="logout">退出登录</button>
+          </div>
+        </div>
+
+        <div v-else class="account-login-prompt">
+          <button @click="emit('open-auth')" class="login-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>登录 / 注册云端同步账号</span>
+          </button>
+        </div>
+      </div>
+
       <!-- Learning Preferences -->
       <div class="settings-card glass-card">
         <h3>学习目标</h3>
@@ -249,7 +315,7 @@ const handleResetAll = async () => {
       <div class="settings-card glass-card">
         <h3>数据备份与迁移</h3>
         <p class="description">
-          由于 NuanceTEM 采用纯前端离线架构，所有数据均保存在您的本地浏览器中。如果您需要更换设备或防止数据丢失，请定期备份您的记录。
+          {{ isAuthenticated ? '您已开启云端多端同步，但仍可随时将本地记录导出为 JSON 文件进行离线冷备份或迁移。' : '当前处于本地离线存储模式，所有数据保存在本地浏览器中。建议定期导出备份或登录开启云端漫游。' }}
         </p>
         
         <div class="backup-actions">
@@ -280,14 +346,14 @@ const handleResetAll = async () => {
       <div class="settings-card glass-card danger-zone">
         <h3>危险区域</h3>
         <p class="description">
-          重置进度将会删除您的所有学习历史日志，并将错题本和熟记词汇的状态复原。此操作不可撤销，请谨慎操作。
+          重置进度将会清除您的所有学习历史日志，并将错题本和熟记词汇的状态复原。{{ isAuthenticated ? '已登录状态下将同步清空云端备份数据库。' : '' }}此操作不可撤销，请谨慎操作。
         </p>
         
         <button @click="handleResetAll" class="btn-danger">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="icon">
             <path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
           </svg>
-          完全重置所有数据
+          完全重置所有数据{{ isAuthenticated ? ' (含云端)' : '' }}
         </button>
       </div>
 
@@ -295,11 +361,24 @@ const handleResetAll = async () => {
       <div class="settings-card glass-card about-card">
         <h3>关于 NuanceTEM</h3>
         <p class="description">
-          NuanceTEM 是一款旨在为 TEM-4 & TEM-8 备考的英语专业学生提供精准同义词辨析的学习工具。本应用基于 Vite, Vue 3, TypeScript 与 IndexedDB 搭建，提供完全本地化、无网络阻碍的复习学习体验。
+          NuanceTEM 是一款专为 TEM-4（英语专业四级）与 TEM-8（英语专业八级）备考设计的近义词辨析学习系统。采用 SM-2 智能记忆曲线与极简自适应界面设计，助力英专学子攻克细微语境词义辨析难关。
         </p>
         <div class="version-info">
-          <p>软件版本: <strong>v{{ appVersion }} (Serverless)</strong></p>
-          <p>存储引擎: <strong>IndexedDB (Dexie.js)</strong></p>
+          <p>
+            当前运行模式:
+            <span class="runtime-badge" :class="isAuthenticated ? 'cloud' : 'local'">
+              {{ isAuthenticated ? '云端漫游同步已连接' : '本地离线运行模式' }}
+            </span>
+          </p>
+          <p>软件版本: <strong>v{{ appVersion }}</strong></p>
+          <p v-if="isAuthenticated">
+            登录云端账号: <strong>{{ user?.nickname || '学习者' }} ({{ user?.email }})</strong>
+          </p>
+          <p v-else>
+            云端连接状态: <span class="dim-text">未登录（数据仅存本地浏览器）</span>
+          </p>
+          <p>存储引擎: <strong>IndexedDB (Dexie.js 本地引擎){{ isAuthenticated ? ' + Cloudflare D1 (云端分布式数据库)' : '' }}</strong></p>
+          <p>软件架构: <strong>Vite + Vue 3 + Cloudflare Pages &amp; Edge Functions</strong></p>
           <p>题库更新时间: <strong>{{ dbUpdateTime }}</strong></p>
         </div>
       </div>
@@ -502,5 +581,107 @@ const handleResetAll = async () => {
   color: var(--text-on-primary);
   border-color: var(--primary);
   box-shadow: 0 2px 10px var(--primary-light);
+}
+
+/* Account & Sync Section */
+.account-card {
+  width: 100%;
+}
+
+.account-profile-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-md);
+}
+
+.profile-main {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.profile-avatar {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: var(--text-on-primary);
+  font-weight: 700;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-details {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 160px;
+}
+
+.profile-name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--text-main);
+}
+
+.profile-email {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.sync-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.6rem;
+  border-radius: 9999px;
+  background: var(--bg-app);
+}
+.sync-badge.synced { color: var(--success); }
+.sync-badge.syncing { color: var(--primary); }
+.sync-badge.error { color: var(--error); }
+.sync-badge.idle { color: var(--text-muted); }
+
+.account-actions {
+  display: flex;
+  gap: 0.75rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.mini-action {
+  padding: 0.4rem 0.85rem;
+  font-size: 0.8rem;
+}
+
+.logout-btn:hover {
+  color: var(--error);
+  border-color: var(--error);
+}
+
+.runtime-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.runtime-badge.cloud {
+  background: var(--primary-light);
+  color: var(--primary);
+}
+.runtime-badge.local {
+  background: rgba(148, 163, 184, 0.15);
+  color: var(--text-muted);
+}
+.dim-text {
+  color: var(--text-muted);
 }
 </style>

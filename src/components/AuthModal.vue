@@ -12,7 +12,7 @@ const emit = defineEmits<{
   (e: 'authenticated'): void;
 }>();
 
-const { login, register, requestPasswordReset } = useAuth();
+const { login, register, requestPasswordReset, sendVerificationCode } = useAuth();
 const { syncNow } = useSync();
 
 type Mode = 'login' | 'register' | 'forgot';
@@ -21,6 +21,11 @@ const mode = ref<Mode>('login');
 const email = ref('');
 const password = ref('');
 const nickname = ref('');
+const verificationCode = ref('');
+const isSendingCode = ref(false);
+const countdown = ref(0);
+let countdownTimer: any = null;
+
 const isLoading = ref(false);
 const errorMsg = ref('');
 const successMsg = ref('');
@@ -28,11 +33,42 @@ const successMsg = ref('');
 const resetForm = () => {
   errorMsg.value = '';
   successMsg.value = '';
+  verificationCode.value = '';
 };
 
 const switchMode = (newMode: Mode) => {
   mode.value = newMode;
   resetForm();
+};
+
+const handleSendCode = async () => {
+  const emailVal = email.value.trim().toLowerCase();
+  if (!emailVal || !emailVal.includes('@')) {
+    errorMsg.value = '请先输入有效的电子邮箱地址';
+    return;
+  }
+
+  errorMsg.value = '';
+  successMsg.value = '';
+  isSendingCode.value = true;
+
+  try {
+    const res = await sendVerificationCode(emailVal, 'register');
+    successMsg.value = res.message || '验证码已发送至您的邮箱，请查收！';
+    countdown.value = 60;
+    if (countdownTimer) clearInterval(countdownTimer);
+    countdownTimer = setInterval(() => {
+      countdown.value--;
+      if (countdown.value <= 0) {
+        clearInterval(countdownTimer);
+        countdownTimer = null;
+      }
+    }, 1000);
+  } catch (err: any) {
+    errorMsg.value = err.message || '发送验证码失败，请重试';
+  } finally {
+    isSendingCode.value = false;
+  }
 };
 
 const handleSubmit = async () => {
@@ -47,7 +83,12 @@ const handleSubmit = async () => {
       emit('authenticated');
       emit('close');
     } else if (mode.value === 'register') {
-      await register(email.value, password.value, nickname.value);
+      if (!verificationCode.value.trim()) {
+        errorMsg.value = '请输入 6 位邮箱验证码';
+        isLoading.value = false;
+        return;
+      }
+      await register(email.value, password.value, verificationCode.value.trim(), nickname.value);
       await syncNow();
       emit('authenticated');
       emit('close');
@@ -99,6 +140,29 @@ const handleSubmit = async () => {
         <div class="form-group">
           <label>电子邮箱</label>
           <input v-model="email" type="email" required placeholder="your.name@example.com" class="input-field" />
+        </div>
+
+        <div v-if="mode === 'register'" class="form-group">
+          <label>邮箱验证码</label>
+          <div class="code-input-row">
+            <input
+              v-model="verificationCode"
+              type="text"
+              required
+              maxlength="6"
+              placeholder="6 位验证码"
+              class="input-field code-input"
+            />
+            <button
+              type="button"
+              class="send-code-btn"
+              :disabled="isSendingCode || countdown > 0"
+              @click="handleSendCode"
+            >
+              <span v-if="isSendingCode" class="mini-spinner"></span>
+              <span v-else>{{ countdown > 0 ? `${countdown}s 后重发` : '获取验证码' }}</span>
+            </button>
+          </div>
         </div>
 
         <div v-if="mode !== 'forgot'" class="form-group">
@@ -275,6 +339,56 @@ const handleSubmit = async () => {
   outline: none;
   border-color: var(--primary);
   box-shadow: 0 0 0 3px var(--primary-light);
+}
+
+.code-input-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.code-input {
+  flex: 1;
+  letter-spacing: 3px;
+  font-family: var(--font-mono, monospace);
+  font-weight: 600;
+}
+
+.send-code-btn {
+  padding: 0.75rem 0.9rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--primary);
+  background: var(--primary-light);
+  color: var(--primary);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 105px;
+}
+
+.send-code-btn:hover:not(:disabled) {
+  background: var(--primary);
+  color: var(--text-on-primary);
+}
+
+.send-code-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  border-color: var(--border-color);
+  color: var(--text-muted);
+}
+
+.mini-spinner {
+  width: 14px;
+  height: 14px;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
 }
 
 .submit-btn {

@@ -32,15 +32,37 @@ export function useAuth() {
     localStorage.removeItem(USER_KEY);
   };
 
-  const register = async (email: string, password: string, nickname?: string) => {
+  const register = async (email: string, password: string, code: string, nickname?: string) => {
     const res = await fetch('/api/auth/register', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email, password, nickname }),
+      body: JSON.stringify({ email, password, code, nickname }),
     });
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || '注册失败');
     setAuth(data.token, data.user);
+    return data;
+  };
+
+  const sendVerificationCode = async (email: string, type: 'register' = 'register') => {
+    const res = await fetch('/api/auth/send-code', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, type }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || '发送验证码失败');
+    return data;
+  };
+
+  const resetCloudProgress = async () => {
+    if (!token.value) return;
+    const res = await fetch('/api/sync/reset', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token.value}` },
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || '重置云端数据失败');
     return data;
   };
 
@@ -105,6 +127,8 @@ export function useAuth() {
     token,
     isAuthenticated,
     register,
+    sendVerificationCode,
+    resetCloudProgress,
     login,
     logout,
     requestPasswordReset,
