@@ -205,7 +205,7 @@ ${props.questionText}
 
 .btn-master.mastered {
   background: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
   border-color: var(--primary);
 }
 
@@ -244,7 +244,8 @@ h4 {
 }
 
 [data-theme="dark"] .taxonomy-box {
-  background: rgba(15, 23, 42, 0.2);
+  background: rgba(30, 41, 59, 0.45);
+  border-color: var(--border-color);
 }
 
 .mech-tag {
@@ -289,7 +290,7 @@ h4 {
 
 .btn-copy:hover {
   background: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
   border-color: var(--primary);
 }
 
@@ -309,7 +310,8 @@ h4 {
 }
 
 [data-theme="dark"] .analysis-item {
-  background: rgba(15, 23, 42, 0.2);
+  background: rgba(30, 41, 59, 0.4);
+  border-color: var(--border-color);
 }
 
 .analysis-item.correct-word {
@@ -330,7 +332,7 @@ h4 {
 
 .correct-word .word-badge {
   background-color: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
 }
 
 .word-detail {
@@ -352,6 +354,8 @@ h4 {
   font-weight: 600;
   border-radius: var(--radius-md);
   border: 1px solid var(--border-color);
+  background: var(--bg-card);
+  color: var(--text-main);
   transition: all 0.2s ease;
 }
 
@@ -368,7 +372,7 @@ h4 {
 
 .btn-next {
   background: linear-gradient(135deg, var(--primary), var(--primary-hover));
-  color: white;
+  color: var(--text-on-primary);
   padding: 0.85rem 2rem;
   border-radius: var(--radius-md);
   font-weight: 700;

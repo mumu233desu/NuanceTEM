@@ -150,8 +150,12 @@ const handleSubmit = async () => {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
-  background: var(--glass-bg);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  background: var(--bg-card);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
 }
 
 .close-btn {
@@ -168,7 +172,7 @@ const handleSubmit = async () => {
 }
 .close-btn:hover {
   color: var(--text-main);
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--border-color);
 }
 
 .header {
@@ -183,15 +187,15 @@ const handleSubmit = async () => {
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: white;
+  background: linear-gradient(135deg, var(--primary), var(--primary-hover));
+  color: var(--text-on-primary);
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--font-display);
   font-weight: 800;
   font-size: 1.4rem;
-  box-shadow: 0 8px 16px rgba(99, 102, 241, 0.35);
+  box-shadow: 0 4px 14px var(--primary-light);
   margin-bottom: 0.25rem;
 }
 
@@ -261,32 +265,29 @@ const handleSubmit = async () => {
   padding: 0.75rem 1rem;
   border-radius: var(--radius-md);
   border: 1px solid var(--border-color);
-  background: rgba(255, 255, 255, 0.4);
+  background: var(--bg-app);
   color: var(--text-main);
   font-size: 0.95rem;
   transition: all 0.2s;
-}
-[data-theme="dark"] .input-field {
-  background: rgba(15, 23, 42, 0.5);
 }
 
 .input-field:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+  box-shadow: 0 0 0 3px var(--primary-light);
 }
 
 .submit-btn {
   margin-top: 0.5rem;
   padding: 0.85rem;
   border-radius: var(--radius-md);
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: white;
-  font-weight: 600;
+  background: linear-gradient(135deg, var(--primary), var(--primary-hover));
+  color: var(--text-on-primary);
+  font-weight: 700;
   font-size: 0.95rem;
   border: none;
   cursor: pointer;
-  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+  box-shadow: 0 4px 12px var(--primary-light);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -295,6 +296,7 @@ const handleSubmit = async () => {
 .submit-btn:hover:not(:disabled) {
   opacity: 0.95;
   transform: translateY(-1px);
+  box-shadow: 0 6px 16px var(--primary-light);
 }
 .submit-btn:disabled {
   opacity: 0.6;

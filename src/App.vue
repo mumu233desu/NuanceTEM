@@ -29,7 +29,7 @@ const checkTheme = () => {
     isDarkMode.value = false;
     document.documentElement.setAttribute('data-theme', 'light');
   } else {
-    // System preferences
+    // System preferences (default when no preference or 'system')
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     isDarkMode.value = prefersDark;
     document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
@@ -41,10 +41,25 @@ const toggleTheme = () => {
   const nextTheme = isDarkMode.value ? 'dark' : 'light';
   document.documentElement.setAttribute('data-theme', nextTheme);
   localStorage.setItem('theme', nextTheme);
+  window.dispatchEvent(new CustomEvent('theme-changed', { detail: nextTheme }));
 };
 
 const initApp = async () => {
   checkTheme();
+
+  const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  const handleSystemThemeChange = (e: MediaQueryListEvent) => {
+    const savedTheme = localStorage.getItem('theme');
+    if (!savedTheme || savedTheme === 'system') {
+      isDarkMode.value = e.matches;
+      document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+    }
+  };
+  mediaQuery.addEventListener('change', handleSystemThemeChange);
+
+  window.addEventListener('theme-changed', (() => {
+    checkTheme();
+  }) as EventListener);
   
   try {
     console.log('Loading modular questions via Manifest packages...');
@@ -264,7 +279,7 @@ onMounted(initApp);
   padding: 0.75rem 1rem;
   border-radius: var(--radius-md);
   border: 1px dashed var(--primary);
-  background: rgba(99, 102, 241, 0.08);
+  background: var(--primary-light);
   color: var(--primary);
   font-weight: 600;
   font-size: 0.85rem;
@@ -273,7 +288,7 @@ onMounted(initApp);
 }
 .login-btn:hover {
   background: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
   border-style: solid;
 }
 

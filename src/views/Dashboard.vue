@@ -269,8 +269,9 @@ onMounted(loadStats);
 
 .level-tab-btn.active {
   background: var(--primary);
-  color: white;
-  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+  color: var(--text-on-primary);
+  font-weight: 700;
+  box-shadow: 0 2px 8px var(--primary-light);
 }
 
 .hero-text h1 {

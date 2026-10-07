@@ -497,7 +497,7 @@ onUnmounted(() => {
 
 .btn-action.master.active {
   background: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
   border-color: var(--primary);
 }
 
@@ -546,7 +546,7 @@ onUnmounted(() => {
 .taxonomy-note {
   font-size: 0.9rem;
   color: var(--primary);
-  background: rgba(99, 102, 241, 0.06);
+  background: var(--primary-light);
   padding: 0.6rem 0.85rem;
   border-radius: var(--radius-sm);
   border-left: 3px solid var(--primary);

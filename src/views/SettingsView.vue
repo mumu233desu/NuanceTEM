@@ -26,6 +26,23 @@ const isImporting = ref(false);
 
 const dailyTarget = ref(Number(localStorage.getItem('dailyTarget')) || 20);
 
+type ThemeOption = 'system' | 'light' | 'dark';
+const currentTheme = ref<ThemeOption>((localStorage.getItem('theme') as ThemeOption) || 'system');
+
+const setTheme = (theme: ThemeOption) => {
+  currentTheme.value = theme;
+  if (theme === 'system') {
+    localStorage.removeItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+    window.dispatchEvent(new CustomEvent('theme-changed', { detail: 'system' }));
+  } else {
+    localStorage.setItem('theme', theme);
+    document.documentElement.setAttribute('data-theme', theme);
+    window.dispatchEvent(new CustomEvent('theme-changed', { detail: theme }));
+  }
+};
+
 // Watch for changes and save to localStorage
 watch(dailyTarget, (newVal) => {
   if (newVal < 1) dailyTarget.value = 1;
@@ -174,6 +191,57 @@ const handleResetAll = async () => {
           <div class="input-group">
             <input id="daily-target" type="number" v-model.number="dailyTarget" min="1" max="1000" class="num-input" />
           </div>
+        </div>
+      </div>
+
+      <!-- Appearance / Theme Preferences -->
+      <div class="settings-card glass-card">
+        <h3>外观与主题</h3>
+        <p class="description">根据您的学习环境与习惯自由选择深浅色视觉风格，移动端与桌面端全局生效。</p>
+        
+        <div class="theme-options-grid">
+          <button
+            class="theme-btn"
+            :class="{ active: currentTheme === 'system' }"
+            @click="setTheme('system')"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+              <line x1="8" y1="21" x2="16" y2="21"></line>
+              <line x1="12" y1="17" x2="12" y2="21"></line>
+            </svg>
+            <span>跟随系统</span>
+          </button>
+
+          <button
+            class="theme-btn"
+            :class="{ active: currentTheme === 'light' }"
+            @click="setTheme('light')"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <span>日间浅色</span>
+          </button>
+
+          <button
+            class="theme-btn"
+            :class="{ active: currentTheme === 'dark' }"
+            @click="setTheme('dark')"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+            <span>深夜暗色</span>
+          </button>
         </div>
       </div>
 
@@ -399,5 +467,40 @@ const handleResetAll = async () => {
 
 .version-info p {
   color: var(--text-main);
+}
+
+.theme-options-grid {
+  display: flex;
+  gap: 0.75rem;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.theme-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-card);
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-btn:hover {
+  border-color: var(--primary);
+  color: var(--text-main);
+  background-color: var(--bg-card-hover);
+}
+
+.theme-btn.active {
+  background: var(--primary);
+  color: var(--text-on-primary);
+  border-color: var(--primary);
+  box-shadow: 0 2px 10px var(--primary-light);
 }
 </style>

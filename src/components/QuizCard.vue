@@ -175,7 +175,7 @@ const getOptionClass = (option: string) => {
 
 .option-btn:hover .option-index {
   background-color: var(--primary);
-  color: white;
+  color: var(--text-on-primary);
 }
 
 .option-word {
@@ -192,15 +192,25 @@ const getOptionClass = (option: string) => {
   background-color: var(--primary-light);
 }
 
+.option-btn.selected .option-word {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.option-btn.selected .option-index {
+  background-color: var(--primary);
+  color: var(--text-on-primary);
+}
+
 .option-btn.correct {
   border-color: var(--success);
   background-color: var(--success-light);
-  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.05);
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.1);
 }
 
 .option-btn.correct .option-index {
   background-color: var(--success);
-  color: white;
+  color: var(--text-on-primary);
 }
 
 .option-btn.correct .option-word {
