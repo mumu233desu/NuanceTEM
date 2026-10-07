@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "tem8_c0_01",
+    "group_id": 1,
+    "group_name": "palliate, mitigate, alleviate, soothe",
+    "level": "TEM-8",
+    "target_word": "palliate",
+    "question": "The emergency subsidies announced by the coalition government merely served to ___ mounting public discontent rather than resolve the underlying structural inequalities that had destabilized the sovereign economy.",
+    "options": [
+      "palliate",
+      "mitigate",
+      "alleviate",
+      "soothe"
+    ],
+    "answer": "palliate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "后文 'rather than resolve the underlying structural inequalities'（而非解决根本性结构不公）构成核心排他线索，专指治标不治本、掩盖或暂时缓和矛盾而未能根治问题。",
+    "distractor_analysis": {
+      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协或临时补救暂时缓和症状或社会矛盾，但无法从根本上消除危机根源，与后文 'rather than resolve the underlying structural inequalities' 构成绝对逻辑互锁。",
+      "mitigate": "v. 指“减轻、缓和”危害、损失或系统性风险的严重程度（如 mitigate systemic risks/losses），强调客观风险或破坏力的减弱，不带“治标不治本、敷衍塞责”的消极批判贬义色彩。",
+      "alleviate": "v. 指“缓解、减轻”身体疼痛、心理苦难或客观沉重负担（如 alleviate poverty/suffering），通常蕴含正面积极的纾困意图，不用于形容政治上的敷衍姑息。",
+      "soothe": "v. 指“抚慰、安抚”情绪或平息局部生理灼痛，语域多偏向感性安抚或人际心理层面，置于宏观国家政经社论语境中文体风格不契合。"
+    },
+    "translation": "联合政府宣布的紧急补贴不过是为了敷衍暂时平息日益高涨的公众不满，而非真正解决动摇国家经济稳定的根本性结构不公。"
+  },
+  {
+    "id": "tem8_c0_02",
+    "group_id": 1,
+    "group_name": "palliate, mitigate, alleviate, soothe",
+    "level": "TEM-8",
+    "target_word": "mitigate",
+    "question": "To prevent contagion across emerging bond markets, the regulatory council enacted stringent macroprudential buffers designed specifically to ___ the systemic risks of sudden cross-border capital reversals.",
+    "options": [
+      "mitigate",
+      "palliate",
+      "alleviate",
+      "soothe"
+    ],
+    "answer": "mitigate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语 'the systemic risks of sudden cross-border capital reversals'（跨境资本骤停逆流的系统性风险）是宏观审慎金融监管的标准搭配，mitigate risk 为固定学术强搭配。",
+    "distractor_analysis": {
+      "mitigate": "v. 指“缓解、减弱”客观潜在的危险、损失或负面冲击程度，在国际宏观经济学中与 'systemic risks' 构成绝对固定学术搭配（mitigate systemic risk）。",
+      "palliate": "v. 含有“敷衍塞责、姑息掩盖或对病症作非根治性维持”的贬义色彩，不可用于描述专业监管机构出台严谨宏观审慎防线以主动防范风险的正面施政行为。",
+      "alleviate": "v. 侧重于“减轻、分担”已存在的沉重负担、穷困或肉体折磨（alleviate burden/poverty），一般不搭配潜在抽象的金融“系统性风险（systemic risks）”。",
+      "soothe": "v. 侧重于抚慰神经、心理情绪或平息肉体刺痛，与高度冷峻严谨的宏观金融监管制度框架完全脱节。"
+    },
+    "translation": "为防止恐慌在新兴债券市场蔓延，监管委员会出台了严格的宏观审慎缓冲工具，专门旨在缓释跨境资本突发逆流的系统性风险。"
+  },
+  {
+    "id": "tem8_c0_03",
+    "group_id": 2,
+    "group_name": "wreak, inflict, impose, execute",
+    "level": "TEM-8",
+    "target_word": "wreak",
+    "question": "Unprecedented retaliatory tariffs threatened to ___ immense diplomatic and logistical havoc upon global semiconductor supply chains already strained by maritime blockades.",
+    "options": [
+      "wreak",
+      "inflict",
+      "impose",
+      "execute"
+    ],
+    "answer": "wreak",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语 'havoc upon...' 与动词构成英语最高频绝对动宾固定搭配 'wreak havoc upon/on'（造成浩劫与严重破坏）。",
+    "distractor_analysis": {
+      "wreak": "v. 专与 havoc 搭配构成固定成语性表达 'wreak havoc upon/on'，意为“对……造成严重破坏/毁灭性灾难”，句法与语义完全吻合。",
+      "inflict": "v. 虽接 upon，但其标准宾语通常为 casualties（伤亡）、pain（痛苦）、damage（损坏）或 injuries（创伤），不可与 havoc 构成动宾搭配（无 inflict havoc 之说）。",
+      "impose": "v. 通常指“强加、强制实施”税收、禁令、惩罚或限制（impose tariffs/sanctions/fines on sb.），不可接 havoc 作直接宾语。",
+      "execute": "v. 意为“执行（命令/计划）、处决（死刑）”，完全不能与 havoc 搭配。"
+    },
+    "translation": "史无前例的报复性关税极有可能对本已因海上封锁而紧绷的全球半导体供应链造成巨大的外交与物流浩劫。"
+  },
+  {
+    "id": "tem8_c0_04",
+    "group_id": 2,
+    "group_name": "wreak, inflict, impose, execute",
+    "level": "TEM-8",
+    "target_word": "inflict",
+    "question": "The coordinated drone strikes were calibrated to ___ crippling operational casualties upon hostile naval assets without provoking full-scale escalation across contested littoral corridors.",
+    "options": [
+      "inflict",
+      "wreak",
+      "impose",
+      "execute"
+    ],
+    "answer": "inflict",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语 'crippling operational casualties upon...'（对敌方海军资产造成毁灭性作战伤亡/瘫痪）是军事战术学术语域的典型动宾搭配，inflict casualties/damage upon sb. 具有唯一排他性。",
+    "distractor_analysis": {
+      "inflict": "v. 专指“施加（创伤、重创、伤亡、惩罚）于……”，接 casualties / losses / pain / damage upon sb.，与军事打击语境高度吻合。",
+      "wreak": "v. 习惯接 havoc, vengeance, ruin 等抽象毁灭或复仇名词，不接具体的 casualties（伤亡人数）作为直接宾语。",
+      "impose": "v. 意为“利用权威强加规章、赋税、关税或惩罚”，不可用于形容通过无人机导弹打击在物理战术上“造成伤亡（casualties）”。",
+      "execute": "v. 意为“处决（犯人）”或“执行（战术计划）”，若接 casualties 则在句法和逻辑上完全断裂破格。"
+    },
+    "translation": "经过严密测算的协同无人机打击旨在对敌对海军力量造成瘫痪性的战损伤亡，同时避免在争议近海走廊引发全面升级。"
+  },
+  {
+    "id": "tem8_c0_05",
+    "group_id": 3,
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "level": "TEM-8",
+    "target_word": "deteriorate",
+    "question": "Despite intensive diplomatic backchannel negotiations, bilateral relations between the two nuclear-armed powers continued to ___ rapidly following the unannounced deployment of surveillance satellites.",
+    "options": [
+      "deteriorate",
+      "degenerate",
+      "retrogress",
+      "decline"
+    ],
+    "answer": "deteriorate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语 'bilateral relations... continued to ___ rapidly' 是地缘政治经典用语，“双边关系恶化”的严谨外刊学术表达为 relations deteriorate；副词 rapidly 修饰关系恶化进程。",
+    "distractor_analysis": {
+      "deteriorate": "v. 不及物动词，指情况、健康、安全形势或国际关系等在质量与稳定度上“恶化、退化”，主谓搭配 'relations deteriorate' 极为纯正地道。",
+      "degenerate": "v. 不及物动词，通常指事物在道德、品格或本质上发生蜕化并转变为更低级的形态，句法上极度依赖 'degenerate into...'（蜕变为……）结构，在此无介词 into 引出蜕变结果，句法不匹配。",
+      "retrogress": "v. 强调在历史、文明或演化进程上“倒退、逆行”（与 progress 相对），不用于描述突发外交危机的双边关系急剧恶化。",
+      "decline": "v. 多指经济指标、权力影响力或总体国力在数量、水平上的“下降、衰减”或帝国历史性衰亡，修饰具体双边国际关系骤然恶化时不及 deteriorate 贴切精准。"
+    },
+    "translation": "尽管展开了密集的秘密外交斡旋，但在侦察卫星不宣而战式部署之后，这两个拥核大国之间的双边关系依然迅速恶化。"
+  },
+  {
+    "id": "tem8_c0_06",
+    "group_id": 3,
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "level": "TEM-8",
+    "target_word": "degenerate",
+    "question": "Western observers cautioned that the contested border skirmishes could swiftly ___ into outright asymmetric warfare unless multilateral peacekeepers secured an immediate perimeter buffer.",
+    "options": [
+      "degenerate",
+      "deteriorate",
+      "retrogress",
+      "decline"
+    ],
+    "answer": "degenerate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句式结构 '___ into outright asymmetric warfare'（蜕变为/演变为全面的非对称战争）中，介词短语 'into + 名词' 是绝对排他语法锚点，degenerate into 构成不可分割的蜕化转换短语。",
+    "distractor_analysis": {
+      "degenerate": "v. 严格搭配介词 into，即 'degenerate into sth.'，指局部小规模冲突或不良事态蜕化、失控演变成性质更为恶劣的混乱与战争态势。",
+      "deteriorate": "v. 不及物动词，仅表示事物自身状态的恶化，在现代标准英语中不接 'into + 新事物'（不可表达为 deteriorate into warfare，出现句法破格）。",
+      "retrogress": "v. 搭配介词 to（retrogress to an earlier state），不可接 into，且强调复古倒退而非冲突升级蜕变。",
+      "decline": "v. 接 into 时极罕见且仅表示身体陷入虚弱（如 decline into illness），绝不能表示局部摩擦演变升级为全面战争。"
+    },
+    "translation": "西方观察家警告称，除非多边维和部队立即建立外围缓冲区，否则争议边境摩擦恐将迅速演变为全面的非对称战争。"
+  },
+  {
+    "id": "tem8_c0_07",
+    "group_id": 4,
+    "group_name": "abate, subside, ebb, wane",
+    "level": "TEM-8",
+    "target_word": "abate",
+    "question": "Although direct military skirmishes ceased along the border, trade analysts noted that tariff-induced import cost pressures showed few signs of beginning to ___.",
+    "options": [
+      "abate",
+      "subside",
+      "ebb",
+      "wane"
+    ],
+    "answer": "abate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语 'tariff-induced import cost pressures'（关税引发的进口成本压力）与动词搭配；在政经社论中，通胀、关税与成本压力减弱的标准术语是 pressures abate。",
+    "distractor_analysis": {
+      "abate": "v. 指暴风雨、烈火、战火、暴力或宏观政经压力（pressures）的“强度减弱、势头衰减”，是《经济学人》等宏观经济语境中修饰成本/通胀压力减退的标准用词。",
+      "subside": "v. 侧重指洪水水位回落、地面沉降、人体伤口肿胀消退，或群体暴动抗议（riots/protests）逐渐平息，不修饰宏观关税成本压力。",
+      "ebb": "v. 专借潮水退落比喻信心、热情、生命力如潮水般流逝减退（常作 ebb and flow 或 confidence ebbed），不用于进口关税物价压力。",
+      "wane": "v. 指月相由圆变缺，引申为威望、霸权地位、月光或影响力的日渐衰落（waning influence/hegemony），不与抽象成本压力搭配。"
+    },
+    "translation": "尽管边境沿线的直接军事摩擦已经停止，但贸易分析师指出，关税引发的进口成本压力几乎没有显现出减弱的迹象。"
+  },
+  {
+    "id": "tem8_c0_08",
+    "group_id": 4,
+    "group_name": "abate, subside, ebb, wane",
+    "level": "TEM-8",
+    "target_word": "subside",
+    "question": "After days of violent street clashes outside the ministry of finance, the mass anti-austerity demonstrations began to ___ only when emergency fuel subsidies were reinstated.",
+    "options": [
+      "subside",
+      "abate",
+      "ebb",
+      "wane"
+    ],
+    "answer": "subside",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语 'the mass anti-austerity demonstrations'（大规模反紧缩抗议示威）与动词搭配，示威浪潮、抗议骚乱平息沉寂的标准用语为 demonstrations/protests subside。",
+    "distractor_analysis": {
+      "subside": "v. 专指社会抗议、示威浪潮、骚乱暴动（protests, riots, unrest）从狂热躁动逐步平息沉寂下来（MW 原生释义：the protests subsided after a few days）。",
+      "abate": "v. 侧重指恶劣自然气候（风暴、严寒）、物理烈度或抽象经济压力的猛烈程度减轻，不用于直接描述群众走上街头的实体示威集会事件自行平息消退。",
+      "ebb": "v. 侧重潮汐般的周期性衰退或无形情绪（如 enthusiasm/support）的流失，无法作为指代实体集会游行平息的谓语动词。",
+      "wane": "v. 侧重指长期的权力、威信或影响力的衰弱日薄西山，不适于指几天内街头游行示威的平息。"
+    },
+    "translation": "在财政部门外爆发了数日激烈的街头冲突之后，直到紧急燃油补贴得以恢复，大规模反紧缩抗议示威才开始逐渐平息。"
+  },
+  {
+    "id": "tem8_c0_09",
+    "group_id": 5,
+    "group_name": "diminish, dwindle, contract, shrink",
+    "level": "TEM-8",
+    "target_word": "dwindle",
+    "question": "As the maritime blockade dragged into its fourth month, the island nation’s strategic petroleum reserves began to ___ to perilously negligible levels.",
+    "options": [
+      "dwindle",
+      "diminish",
+      "contract",
+      "shrink"
+    ],
+    "answer": "dwindle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语与介词短语组合 'strategic petroleum reserves began to ___ to perilously negligible levels'（战略石油储备逐渐减少至微不足道的危险水平），有限物质储备逐渐消耗递减至极低水平专指 dwindle。",
+    "distractor_analysis": {
+      "dwindle": "v. 专指资金、物资储备、人力或供应量等有限资源（reserves, savings, supplies）随着消耗持续“逐步减少、缩减至微乎其微”（dwindle to...），精准对应后文 perilously negligible levels。",
+      "diminish": "v. 侧重权威、声誉、重要性或抽象价值的贬损与缩水，虽亦指减少，但不强调有限物质存量在消耗下的持续枯竭感，且极少与介词短语 to negligible levels 形成强动宾储备搭配。",
+      "contract": "v. 专指经济规模、肌肉或物理形体在体积、维度上的“收缩、紧缩”（如 an economy contracts），不可修饰石油等散装实物储备量的耗尽。",
+      "shrink": "v. 强调织物缩水、尺寸缩小或因畏惧退缩，置于严肃国家宏观战略储备耗竭的学术政经语境中显得口语化且语义不确切。"
+    },
+    "translation": "随着海上封锁拖入第四个月，该岛国的战略石油储备开始逐渐减少到微不足道的危险水平。"
+  },
+  {
+    "id": "tem8_c0_10",
+    "group_id": 5,
+    "group_name": "diminish, dwindle, contract, shrink",
+    "level": "TEM-8",
+    "target_word": "diminish",
+    "question": "The unilateral withdrawal from the multilateral climate accord did not destroy the treaty, but it severely served to ___ the superpower’s moral authority in subsequent diplomatic summits.",
+    "options": [
+      "diminish",
+      "dwindle",
+      "contract",
+      "shrink"
+    ],
+    "answer": "diminish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "及物动词搭配抽象宾语 'the superpower’s moral authority'（大国的道德权威），专指权威、声誉或声望受到贬损削弱（diminish authority/stature）。",
+    "distractor_analysis": {
+      "diminish": "v. 及物动词，专指使权力、名誉、威信或崇高地位受到“贬损、削弱”（MW 原生释义：to lessen the authority, dignity, or reputation of : BELITTLE），与 moral authority 构成绝对学术搭配。",
+      "dwindle": "v. 不及物动词，绝对不可后接宾语（不能 dwindle authority），句法直接破格。",
+      "contract": "v. 及物动词时意为“订立合同”或“感染疾病”，作“缩减”解时仅作不及物（或用于物理收缩），不可接 moral authority 作宾语。",
+      "shrink": "v. 作及物动词时通常指物理缩小尺寸或缩编预算，与崇高抽象的道德权威（moral authority）搭配严重违背外刊社论典雅语体风格。"
+    },
+    "translation": "单方面退出多边气候协定并未彻底毁掉该条约，但却严重削弱了该超级大国在随后的外交峰会上的道德权威。"
+  },
+  {
+    "id": "tem8_c0_11",
+    "group_id": 6,
+    "group_name": "escalate, proliferate, burgeon, multiply",
+    "level": "TEM-8",
+    "target_word": "escalate",
+    "question": "Diplomats cautioned that minor skirmishes in the disputed maritime corridor could rapidly ___ into a catastrophic regional war unless both navies exercised immediate operational restraint.",
+    "options": [
+      "escalate",
+      "proliferate",
+      "burgeon",
+      "multiply"
+    ],
+    "answer": "escalate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语冲突 'minor skirmishes'（微小摩擦）搭配介词短语 'into a catastrophic regional war'（演变为灾难性区域战争），专指地缘冲突或武装对抗在规模烈度上的升级与螺旋上升。",
+    "distractor_analysis": {
+      "escalate": "v. 专指争端、危机或战争在紧张程度、规模与烈度上的“步步升级、螺旋恶化”（escalate into a war），在地缘安全政治语域中具有排他性应用。",
+      "proliferate": "v. 专指数量、技术或细胞实体的“激增、扩散”（如核武器扩散 nuclear proliferation），不接 'into war' 表示冲突烈度的级别升级。",
+      "burgeon": "v. 强调工商业、贸易或城市等健康实体的“蓬勃发展、迅速兴起”，带积极欣欣向荣含义，不可用于局部武装摩擦恶性升级为惨烈战争。",
+      "multiply": "v. 强调数学上或客观数量上的翻倍增多，不接介词 into 引出战争升级状态。"
+    },
+    "translation": "外交官警告称，除非双方海军立即采取行动保持克制，否则争议海上走廊的微小摩擦可能迅速升级为一场灾难性的地区战争。"
+  },
+  {
+    "id": "tem8_c0_12",
+    "group_id": 6,
+    "group_name": "escalate, proliferate, burgeon, multiply",
+    "level": "TEM-8",
+    "target_word": "proliferate",
+    "question": "Following the collapse of non-proliferation oversight mechanisms, covert enrichment facilities and illicit dual-use drone technologies began to ___ across ungoverned border provinces.",
+    "options": [
+      "proliferate",
+      "escalate",
+      "burgeon",
+      "multiply"
+    ],
+    "answer": "proliferate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语 'covert enrichment facilities and illicit dual-use drone technologies'（秘密浓缩设施与违禁军民两用无人机技术）及前文 'non-proliferation oversight'，技术与违禁设施的大规模迅速散播扩散专指 proliferate。",
+    "distractor_analysis": {
+      "proliferate": "v. 专指敏感军备、核技术、违禁武器或地下设施在某一区域迅速“扩散、激增、繁衍”，与前文 non-proliferation 形成直接概念照应。",
+      "escalate": "v. 强调抽象紧张局势、冲突烈度或价格的“攀升、升级”，不可用于形容物理设施与硬件技术装备在地理上的繁衍扩散。",
+      "burgeon": "v. 多指经济、产业或文艺的蓬勃萌芽与繁荣生机，带有积极正面色彩，绝不可用于形容违禁军事浓缩设施和非法无人机扩散。",
+      "multiply": "v. 侧重基础数值的成倍增长，不及 proliferate 具有地缘政治军备控制领域的专业学术语域质感。"
+    },
+    "translation": "在防扩散监督机制崩溃之后，秘密铀浓缩设施与非法的军民两用无人机技术开始在无人管辖的边境省份迅速扩散。"
+  },
+  {
+    "id": "tem8_c0_13",
+    "group_id": 7,
+    "group_name": "aggravate, exacerbate, worsen, inflame",
+    "level": "TEM-8",
+    "target_word": "aggravate",
+    "question": "The repeated naval incursions into the disputed archipelago were calculated to ___ foreign defense officials, goading them into deploying patrol vessels prematurely.",
+    "options": [
+      "aggravate",
+      "exacerbate",
+      "worsen",
+      "inflame"
+    ],
+    "answer": "aggravate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "直接宾语为具体的人物对象 'foreign defense officials'（外国国防官员），后文 'goading them into...'（刺激/激怒他们）表明此处表示“故意激怒、惹恼对方当事人”。",
+    "distractor_analysis": {
+      "aggravate": "v. 及物动词，具有专指“触怒、激怒、使人生气”（to make someone angry or irritated especially by bothering again and again）的独特及物用法，可直接接人作宾语（aggravate defense officials）。",
+      "exacerbate": "v. 仅能以无生命的抽象危机、矛盾、疾病或不良状况作宾语（exacerbate tension/crisis），绝对不能以具体自然人作直接宾语（*exacerbate officials 属于严重语用与搭配错误）。",
+      "worsen": "v. 通常接抽象局势作宾语或作不及物动词，极罕见以具体职位官员作宾语，且无法体现后文 goading 所包含的蓄意挑衅激怒之义。",
+      "inflame": "v. 通常接抽象情绪或身体部位（如 inflame passions/tensions/joints），极少直接接人（*inflame officials 搭配极不地道）。"
+    },
+    "translation": "屡次侵入争议群岛海域的行动旨在蓄意激怒外国防务官员，诱使他们过早派出巡逻舰艇。"
+  },
+  {
+    "id": "tem8_c0_14",
+    "group_id": 7,
+    "group_name": "aggravate, exacerbate, worsen, inflame",
+    "level": "TEM-8",
+    "target_word": "inflame",
+    "question": "The premier’s incendiary televised address regarding ancestral borders was calculated to ___ sectarian passions, mobilizing militant partisans ahead of the parliamentary vote.",
+    "options": [
+      "inflame",
+      "exacerbate",
+      "aggravate",
+      "worsen"
+    ],
+    "answer": "inflame",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语形容词 'incendiary'（煽动性的/燃烧性的）与宾语 'sectarian passions'（宗派主义狂热情绪）构成生动的火性隐喻，inflame passions 是经典固定动宾搭配。",
+    "distractor_analysis": {
+      "inflame": "v. 含有如火如荼、点燃狂热烈火的比喻义，与前文 'incendiary'（如火煽动的）及后文 'passions'（激情狂热）构成天衣无缝的修辞与语义互锁（inflame passions/sentiment）。",
+      "exacerbate": "v. 意为加剧严峻形势或恶化客观问题（如 exacerbate the deficit/crisis），与激情、情绪（passions）搭配不当，亦丧失了与 incendiary 呼应的生动比喻色彩。",
+      "aggravate": "v. 意为加重伤情或使问题更为沉重，不与 passions 搭配（无 aggravate passions 之说）。",
+      "worsen": "v. 及物动词意为使恶化，语义平淡普通，无法与煽动情绪、引爆党派狂热的政治鼓动语境相匹配。"
+    },
+    "translation": "总理就祖传边界问题发表的煽动性电视讲话旨在点燃宗派狂热情绪，以便在议会投票前动员激进的党派支持者。"
+  },
+  {
+    "id": "tem8_c0_15",
+    "group_id": 8,
+    "group_name": "amend, rectify, remedy, redress",
+    "level": "TEM-8",
+    "target_word": "amend",
+    "question": "Following months of contentious parliamentary debate, legislators voted by a supermajority to ___ the post-war constitution to authorize overseas collective defense deployments.",
+    "options": [
+      "amend",
+      "rectify",
+      "remedy",
+      "redress"
+    ],
+    "answer": "amend",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语 'the post-war constitution'（战后宪法）及主语 'legislators voted by a supermajority'（议员以绝对多数表决通过），修改宪法法案在法律与议会语境中具有排他性法律动宾搭配 amend the constitution。",
+    "distractor_analysis": {
+      "amend": "v. 严格法律与政治学术用语，专指通过法定立法程序对宪法、法案、条约或章程进行“修正、修订”（amend the constitution/law），具有唯一排他性。",
+      "rectify": "v. 专指“纠正、整顿”账目差错、技术失误、错误边界或偏离轨道（rectify an error/imbalance），不能用于庄严表决修正国家宪法。",
+      "remedy": "v. 强调“弥补、补救”社会弊端、损害或体制缺陷（remedy an evil/deficiency），不可直接作修改宪法条文之解。",
+      "redress": "v. 专指“平反、赔偿”历史不公、所受委屈或损害（redress grievances/injustices），不可接宪法文本作为被修改的客体。"
+    },
+    "translation": "经过数月激烈的议会辩论，议员们以绝对多数通过投票，修正战后宪法，以授权海外集体自卫行动的部署。"
+  },
+  {
+    "id": "tem8_c0_16",
+    "group_id": 8,
+    "group_name": "amend, rectify, remedy, redress",
+    "level": "TEM-8",
+    "target_word": "redress",
+    "question": "The developing nations demanded binding reparations within the climate treaty to ___ historic structural injustices caused by centuries of unfettered carbon emissions.",
+    "options": [
+      "redress",
+      "amend",
+      "rectify",
+      "remedy"
+    ],
+    "answer": "redress",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "动宾搭配 '___ historic structural injustices'（纠正/赔偿历史性结构不公）以及前文 'binding reparations'（具有约束力的赔偿金），通过法律或赔偿手段平反昭雪历史不公是 redress 的核心定义。",
+    "distractor_analysis": {
+      "redress": "v. 法律与正义伦理核心用语，专指通过经济补偿、司法救济或政治手段“纠正、平反、赔偿”过去所遭受的不公与冤屈（redress injustices/grievances），与 reparations 完美呼应。",
+      "amend": "v. 专指修订宪法、法律条文或修正自身行为，不能用于“平反纠正历史不公”。",
+      "rectify": "v. 侧重纠正数据、技术差错或调整扭曲的客观偏斜，缺乏 redress 所承载的道义清算与法律赔偿的崇高正义内涵。",
+      "remedy": "v. 多指医疗治愈或消除某种不良弊病缺陷，不用于对带有政治与历史维度的巨大不公正（historic injustices）提供赔偿性矫正。"
+    },
+    "translation": "发展中国家要求在气候条约中载入具有约束力的赔偿条款，以纠正几个世纪以来无节制碳排放所造成的历史性结构不公。"
+  },
+  {
+    "id": "tem8_c0_17",
+    "group_id": 9,
+    "group_name": "truncate, abridge, curtail, shorten",
+    "level": "TEM-8",
+    "target_word": "curtail",
+    "question": "Facing an unprecedented balance-of-payments crisis, the interim government introduced sweeping austerity measures to ___ public spending and import subsidies across all administrative departments.",
+    "options": [
+      "curtail",
+      "truncate",
+      "abridge",
+      "shorten"
+    ],
+    "answer": "curtail",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "及物动宾搭配 '___ public spending and import subsidies'（削减/限制公共开支与进口补贴）是宏观紧缩财政政策的核心术语，curtail spending/expenses 具有排他性正式学术语域属性。",
+    "distractor_analysis": {
+      "curtail": "v. 专指官方通过行政或法律命令对开支、预算、特权或自由进行“削减、限制、缩减”（curtail spending/liberties），在财政经济政策中极为地道典雅。",
+      "truncate": "v. 侧重从几何末端、物理实体或数字化数据流上进行“截断、切断末端”，不用于指国家宏观财政政策上的削减开支。",
+      "abridge": "v. 专指在保留核心要义的前提下对书籍、宪章、文本进行“节略、删减”或削弱公民法定权利（abridge the rights），不可接公共开支预算。",
+      "shorten": "v. 泛指缩短空间距离或时间长短（shorten a trip/distance），用于修饰大幅度削减财政支出显得极不正式、缺乏专八学术政经质感。"
+    },
+    "translation": "面对前所未有的国际收支危机，过渡政府出台了全面的紧缩措施，以削减所有行政部门的公共开支和进口补贴。"
+  },
+  {
+    "id": "tem8_c0_18",
+    "group_id": 9,
+    "group_name": "truncate, abridge, curtail, shorten",
+    "level": "TEM-8",
+    "target_word": "truncate",
+    "question": "When cross-border shelling erupted near the neutral enclave, organizers were forced to ___ the bilateral peace summit, sending delegates home after only two days.",
+    "options": [
+      "truncate",
+      "abridge",
+      "curtail",
+      "shorten"
+    ],
+    "answer": "truncate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语与状语 '___ the bilateral peace summit, sending delegates home after only two days'（将双边和平峰会腰斩，仅两天后便遣散代表），专指因突发变故将某既定议程/事件中途腰斩截断。",
+    "distractor_analysis": {
+      "truncate": "v. 原义为切去顶端/末端，在正式高阶语境中专指因突发意外将原本规划更长的会议、仪式、赛季或议程“中途强行截断/提前腰斩”（MW 原生释义：truncated season/summit）。",
+      "abridge": "v. 专指将长篇文学、法律文本在保留骨架前提下“删节精简”（abridge a novel/manuscript），不能用于因炮击将现场政治峰会提前腰斩散会。",
+      "curtail": "v. 侧重对持续性行为或开支权利施加额度限制，若用于会议通常需表达为 curtail activities，对于将既定日程直接腰斩斩断而言不及 truncate 精准生动。",
+      "shorten": "v. 属于日常通用词，缺乏专八试题对突发地缘政治事件中会议“被迫腰斩”的庄严、学术与精微色彩表达。"
+    },
+    "translation": "当越境炮击在中立飞地附近爆发时，组织者被迫腰斩了这场双边和平峰会，仅两天后就遣散了所有代表。"
+  },
+  {
+    "id": "tem8_c0_19",
+    "group_id": 10,
+    "group_name": "rejuvenate, revitalize, resuscitate, regenerate",
+    "level": "TEM-8",
+    "target_word": "rejuvenate",
+    "question": "To counter a rapidly aging population and a shrinking tax base, the government enacted aggressive pro-natal subsidies designed specifically to ___ the national workforce.",
+    "options": [
+      "rejuvenate",
+      "revitalize",
+      "resuscitate",
+      "regenerate"
+    ],
+    "answer": "rejuvenate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "前文 'To counter a rapidly aging population'（为了应对人口迅速老龄化），词根语义与逻辑形成绝对排他互锁：使劳动力人口“年轻化、恢复青春活力”专指 rejuvenate（re- + juvenile）。",
+    "distractor_analysis": {
+      "rejuvenate": "v. 词源核心为使重新变年轻（juvenile），与前文解决人口“老龄化（aging population）”在语义和词源逻辑上构成绝对排他呼应，专指使国家劳动力结构重焕年轻活力。",
+      "revitalize": "v. 意为赋予新的生命力或活力，虽可修饰经济，但在直接针对逆转“人口老龄化（aging）”这一明确年龄维度的语境下，不具备 rejuvenate 所独有的“青年化、返老还童”针对性语义。",
+      "resuscitate": "v. 专指在生命垂危、心脏骤停或濒临破产死亡（moribund）边缘进行医学抢救苏醒，与鼓励生育以调整老龄化人口结构的长期政策语域脱节。",
+      "regenerate": "v. 侧重生物机体组织再生，或精神道德上的重塑更新，不能精准表达扭转劳动力老龄化、实现年轻化的特定政策内涵。"
+    },
+    "translation": "为应对迅速老龄化的人口和不断萎缩的税基，政府出台了激进的鼓励生育补贴政策，专门旨在使国家劳动力结构重焕年轻活力。"
+  },
+  {
+    "id": "tem8_c0_20",
+    "group_id": 10,
+    "group_name": "rejuvenate, revitalize, resuscitate, regenerate",
+    "level": "TEM-8",
+    "target_word": "resuscitate",
+    "question": "The emergency multi-billion-dollar bailout package was an eleventh-hour bid by the IMF to ___ the moribund banking sector before national insolvency triggered widespread systemic contagion.",
+    "options": [
+      "resuscitate",
+      "rejuvenate",
+      "revitalize",
+      "regenerate"
+    ],
+    "answer": "resuscitate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "修饰语 'eleventh-hour bid'（最后关头的救命努力）与宾语定语 'the moribund banking sector'（垂死边缘的银行业），moribund（濒死的）在隐喻上严格要求“抢救起死回生”动词 resuscitate。",
+    "distractor_analysis": {
+      "resuscitate": "v. 原指对休克濒死者进行心肺复苏抢救（revive from near-death），在宏观经济危局中与 'eleventh-hour'（千钧一发）和 'moribund'（濒死边缘的）构成绝对隐喻逻辑对应，意为使濒临崩溃的银行体系起死回生。",
+      "rejuvenate": "v. 侧重让衰老之物重获青春容貌与活力，无法契合在命悬一线、即将暴毙的破产危机中实施生死抢救的紧急急救医学隐喻。",
+      "revitalize": "v. 指使原本缺乏生机的事物重振生机（如振奋文化、活跃商贸），语义烈度不足以匹配 moribund 所传达的在悬崖绝壁处“挽救濒死者”的惊险语境。",
+      "regenerate": "v. 侧重从旧体制内部实现漫长再生与改良重建，不符合最后时刻火线急救注资的急迫急救场景。"
+    },
+    "translation": "这笔数十亿美元的紧急救助方案是国际货币基金组织在最后关头采取的抢救行动，旨在该国债务违约引发大面积系统性蔓延之前，使濒临死地的银行业起死回生。"
+  },
+  {
+    "id": "tem8_c0_21",
+    "group_id": 11,
+    "group_name": "denigrate, deprecate, disparage, belittle",
+    "level": "TEM-8",
+    "target_word": "denigrate",
+    "question": "State-sponsored disinformation campaigns were coordinated across social platforms to ___ the sovereign legitimacy of neighboring democratic institutions ahead of the constitutional referendum.",
+    "options": [
+      "denigrate",
+      "deprecate",
+      "disparage",
+      "belittle"
+    ],
+    "answer": "denigrate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "主语 'State-sponsored disinformation campaigns'（国家支持的虚假信息认知战）及宾语 'sovereign legitimacy'（主权合法性），专指以恶意诽谤、泼脏水手段诋毁攻击国家制度的国际声誉（denigrate legitimacy）。",
+    "distractor_analysis": {
+      "denigrate": "v. 专指通过恶意诋毁、造谣中伤来抹黑、玷污制度、大国威望或群体的声誉与合法性（MW：to attack the reputation of : DEFAME），是认知战与地缘外刊的高频学术动词。",
+      "deprecate": "v. 意为对某行为表达强烈的官方不赞同、抗议或学者自谦（self-deprecating），并不包含通过虚假信息战手段蓄意泼脏水诽谤抹黑之义。",
+      "disparage": "v. 侧重言语轻蔑、贬低某人的个人努力或成果（如 disparage one's efforts），语域多偏向人际间轻蔑评价，不及 denigrate 具备国家级抹黑诽谤的学术深度。",
+      "belittle": "v. 意为小看、轻视某人的成就以使其显得微不足道（play down），语域偏日常口语化，与国家间虚假认知战的庄严政治语体极不协调。"
+    },
+    "translation": "在宪法公投之前，国家支持的虚假信息宣传战在各社交平台上协同展开，旨在蓄意抹黑抹煞邻国民主机构的主权合法性。"
+  },
+  {
+    "id": "tem8_c0_22",
+    "group_id": 11,
+    "group_name": "denigrate, deprecate, disparage, belittle",
+    "level": "TEM-8",
+    "target_word": "deprecate",
+    "question": "The United Nations Security Council issued an official communiqué to ___ the unilateral deployment of ballistic missile batteries in contested border regions.",
+    "options": [
+      "deprecate",
+      "denigrate",
+      "disparage",
+      "belittle"
+    ],
+    "answer": "deprecate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "主语与动作 'The United Nations Security Council issued an official communiqué to ___...'（联合国安理会发表官方公报以正式抗议/强烈反对……），外交高阶公报中正式表示强烈抗议与反对的典雅古雅用词为 deprecate。",
+    "distractor_analysis": {
+      "deprecate": "v. 在高阶外交辞令与正式政治文告中专指“正式表达强烈不赞成、抗议与深表关切”（WordNet：express strong disapproval of; deplore），高度契合安理会官方公报语体。",
+      "denigrate": "v. 意为恶意造谣诽谤抹黑，安理会作为国际最高多边机构，绝不会在官方公报中使用这一带有蓄意中伤意味的词汇来陈述自身立场。",
+      "disparage": "v. 意为蔑视、贬低，属于带有主观情绪色彩的轻蔑评价，不符合国际外交公报客观、庄严中立的程序性语域规范。",
+      "belittle": "v. 口语及普通书面语词汇，意为小看矮化，完全不具备联合国安理会官方决议与公报所必需的庄严肃穆文风。"
+    },
+    "translation": "联合国安理会发表官方公报，对在争议边境地区单方面部署弹道导弹阵地的行径表示强烈反对与谴责。"
+  },
+  {
+    "id": "tem8_c0_23",
+    "group_id": 12,
+    "group_name": "castigate, chastise, rebuke, reprimand",
+    "level": "TEM-8",
+    "target_word": "castigate",
+    "question": "In a scathing editorial, international human rights monitors did not hesitate to ___ the military junta for its blatant suppression of independent journalism.",
+    "options": [
+      "castigate",
+      "chastise",
+      "rebuke",
+      "reprimand"
+    ],
+    "answer": "castigate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "语境线索 'In a scathing editorial...'（在一篇言辞犀利的社论中）与状语介词 'for its blatant suppression'，在媒体社论与公共舆论场中对威权政权展开公开痛斥与口诛笔伐专指 castigate。",
+    "distractor_analysis": {
+      "castigate": "v. 书面学术高阶语域，专指在社论、文章或公开演讲中对劣迹或当权者进行极其严厉的“口诛笔伐、公开痛斥与声讨”（MW：editorial castigating the entire city council）。",
+      "chastise": "v. 带有长辈、教师对晚辈下属在肉体或纪律上的“惩戒、责罚训诫”（如父责其子），不符合独立人权机构在报刊社论中对外国军政府的政治批驳语境。",
+      "rebuke": "v. 侧重当面直接指责或斥责某人具体的不当言行，多为口头形式，不用于公开发表的媒体长篇学术社论。",
+      "reprimand": "v. 专指官方长官、纪检或行政治理机构对下属公务人员进行的“行政申诫、正式处分”，人权监督机构对外国军政府不具备内部行政管辖权，无法对其下达 reprimand。"
+    },
+    "translation": "在一篇措辞严厉的社论中，国际人权监督机构毫不留情地公开痛斥军政府公然镇压独立新闻报道的行径。"
+  },
+  {
+    "id": "tem8_c0_24",
+    "group_id": 12,
+    "group_name": "castigate, chastise, rebuke, reprimand",
+    "level": "TEM-8",
+    "target_word": "reprimand",
+    "question": "The naval high command convened an inquiry to officially ___ the rear admiral for navigating a warship into sovereign waters without prior ministerial authorization.",
+    "options": [
+      "reprimand",
+      "castigate",
+      "chastise",
+      "rebuke"
+    ],
+    "answer": "reprimand",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "机构主语与状语 'The naval high command convened an inquiry to officially ___...'（海军最高指挥部召开调查听证会以正式训诫/申诫……），军队内部正式组织调查程序并给予官方纪律处分专指 reprimand。",
+    "distractor_analysis": {
+      "reprimand": "v. 专指军队、政府或法定上级机构通过正式官方调查程序（convened an inquiry）对违纪违规官员施加的“正式申诫、行政谴责处分”（officially reprimand），句法与行政程序属性绝对匹配。",
+      "castigate": "v. 强调舆论媒体或公众的严厉痛斥声讨，不属于军队纪检调查会议下达的规范化法定行政纪律处分术语。",
+      "chastise": "v. 偏向道德规训或惩戒，不用于现代军事实规中的听证会官方训诫。",
+      "rebuke": "v. 多指个别长官在现场的直接言语斥责，不能作为正式军事法庭或专门调查会议所宣布的官方规章性处分动作。"
+    },
+    "translation": "海军最高指挥部召开调查听证会，正式申诫那名未经部级内阁预先授权便将战舰驶入主权领海的海军少将。"
+  },
+  {
+    "id": "tem8_c0_25",
+    "group_id": 13,
+    "group_name": "berate, upbraid, scold, reproach",
+    "level": "TEM-8",
+    "target_word": "berate",
+    "question": "During the acrimonious bilateral summit behind closed doors, the foreign minister furiously began to ___ the ambassador for several minutes over leaked diplomatic cables.",
+    "options": [
+      "berate",
+      "upbraid",
+      "scold",
+      "reproach"
+    ],
+    "answer": "berate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "状语与时间副词修饰 'furiously began to ___ the ambassador for several minutes'（愤怒地连珠炮般痛骂该大使数分钟之久），长时间、情绪激烈、暴怒训斥专指 berate。",
+    "distractor_analysis": {
+      "berate": "v. 专指“长时间、暴怒且激烈地痛骂、严辞怒斥”（MW 原生释义：to scold or condemn vehemently and at length），与 furiously 及 for several minutes 形成绝无仅有的情态契合。",
+      "upbraid": "v. 侧重于站在道德道义立场上提出庄严严肃的责备与良心拷问，不包含暴跳如雷、喋喋不休大骂数分钟的剧烈情绪失控色彩。",
+      "scold": "v. 语域偏向家庭中父母对淘气小孩的数落训斥（如 scolding the children），置于最高层外交官闭门唇枪舌剑的博弈中风格严重失谐破格。",
+      "reproach": "v. 强调心怀失望或哀怨地进行温和责备（often with a sense of grief or disappointment），与暴怒（furiously）狂风暴雨式的辱骂相矛盾。"
+    },
+    "translation": "在闭门举行的火药味十足的双边峰会期间，外交部长因外泄的外交电报事件，极其愤怒地当面痛斥了那名大使数分钟之久。"
+  },
+  {
+    "id": "tem8_c0_26",
+    "group_id": 13,
+    "group_name": "berate, upbraid, scold, reproach",
+    "level": "TEM-8",
+    "target_word": "upbraid",
+    "question": "The coalition party leader publicly rose in parliament to ___ his cabinet allies for their cowardly surrender to lobbyist demands on foreign aid.",
+    "options": [
+      "upbraid",
+      "berate",
+      "scold",
+      "reproach"
+    ],
+    "answer": "upbraid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "动作与庄重场合 'publicly rose in parliament to ___ his cabinet allies for their cowardly surrender'（在议会公开起立，就其懦弱投降严厉谴责内阁盟友），在立法大厅庄重基于道义原则进行严厉公开谴责是 upbraid 的经典范式。",
+    "distractor_analysis": {
+      "upbraid": "v. 典雅庄重的书面动词，专指在公共或立法等严肃场合就背信弃义、失职或道德懦弱（cowardly surrender）向他人提出“正义而严厉的谴责与道义申斥”。",
+      "berate": "v. 侧重个人歇斯底里般的气急败坏与冗长痛骂，缺乏在议会大厦讲台上进行道义与政治原则申斥的崇高政治严肃性。",
+      "scold": "v. 日常用词，专指日常琐事上的唠叨数落，置于议会政治盟友公开决裂谴责的宏大语境中显得极其幼稚滑稽。",
+      "reproach": "v. 侧重私人感情上的温和埋怨或面带遗憾的微词（mild reproach），力量感远不足以表达议会起立公开清算懦夫行径的政治烈度。"
+    },
+    "translation": "执政联盟党首在议会公开起立，严厉斥责其内阁盟友在对外援助问题上向说客诉求可耻妥协的懦弱行径。"
+  },
+  {
+    "id": "tem8_c0_27",
+    "group_id": 14,
+    "group_name": "impugn, challenge, gainsay, contest",
+    "level": "TEM-8",
+    "target_word": "impugn",
+    "question": "The defense minister accused opposition lawmakers of attempting to ___ the moral integrity of intelligence officers investigating foreign covert interference.",
+    "options": [
+      "impugn",
+      "challenge",
+      "gainsay",
+      "contest"
+    ],
+    "answer": "impugn",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "动宾搭配 '___ the moral integrity of intelligence officers'（质疑攻击情报官员的道德操守/品格正直），impugn the integrity of sb. 是专八考辨体系中不可撼动的核心学术搭配。",
+    "distractor_analysis": {
+      "impugn": "v. 专指攻击并质疑他人的“操守、名节、诚实或动机”（MW 原生释义：oppose or attack as false or lacking integrity; impugn integrity/motives），与 moral integrity 构成唯一真题级固定搭配。",
+      "challenge": "v. 虽然可指质疑，但通常接观点、政策、权威或主权合法性（challenge an assertion/policy/status），在指责恶意攻击他人道德操守时，缺乏 impugn 专属的“诋毁名誉诚信”之特定法理与伦理内核。",
+      "gainsay": "v. 意为否定、反驳既成客观事实（to deny or contradict a fact），不能与个人的 moral integrity（道德操守）构成搭配。",
+      "contest": "v. 专指通过法律、选举或竞争争夺有争议的所有权、裁决或选举结果（contest an election/will/ruling），不用于针对个人内在品行操守的诽谤性攻击。"
+    },
+    "translation": "国防部长指责反对党议员试图质疑和攻击正在调查外国秘密干涉行动的情报官员的道德操守。"
+  },
+  {
+    "id": "tem8_c0_28",
+    "group_id": 14,
+    "group_name": "impugn, challenge, gainsay, contest",
+    "level": "TEM-8",
+    "target_word": "gainsay",
+    "question": "Although analysts debated the long-term diplomatic ramifications of the defense pact, few sovereign intelligence agencies could ___ the empirical reality of hypersonic military parity.",
+    "options": [
+      "gainsay",
+      "impugn",
+      "challenge",
+      "contest"
+    ],
+    "answer": "gainsay",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "否定主语搭配抽象客观现实 'few sovereign intelligence agencies could ___ the empirical reality of...'（几乎没有国家情报机构能够否认……的客观现实），gainsay 专用于否定句中表示“否定无可辩驳的客观事实”。",
+    "distractor_analysis": {
+      "gainsay": "v. 典雅古雅高阶学术动词，几乎约定俗成地专用于否定句或疑问句结构中（如 few could gainsay / no one can gainsay），意为“否认、反驳（无可否认的客观事实与铁证）”，与 empirical reality 完美融合。",
+      "impugn": "v. 专指攻击人的诚信、名节与品德（impugn integrity），不可用于否认宏观军事实力的客观事实（*impugn the reality 属于严重搭配破格）。",
+      "challenge": "v. 侧重向某种地位、理论提出挑战并试图推翻，但在表达“无人能够矢口否认既成铁一般事实”的典雅否定构式上不及 gainsay 精练准确。",
+      "contest": "v. 意为争夺所有权或在法庭上辩驳争议点，不符合否定铁证事实的语义。"
+    },
+    "translation": "尽管分析人士对该防务条约的长期外交后果争论不休，但几乎没有哪个国家的情报机构能够否认高超音速军事实力均势的客观现实。"
+  },
+  {
+    "id": "tem8_c0_29",
+    "group_id": 15,
+    "group_name": "extol, laud, eulogize, commend",
+    "level": "TEM-8",
+    "target_word": "extol",
+    "question": "At the World Economic Forum, delegates gathered to ___ the virtues of multilateral free trade even as protectionist tariffs dismantled global integration.",
+    "options": [
+      "extol",
+      "laud",
+      "eulogize",
+      "commend"
+    ],
+    "answer": "extol",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "经典固定学术动宾搭配 '___ the virtues of multilateral free trade'（大肆盛赞多边自由贸易的诸多美德/长处），extol the virtues of 为外刊最高频学术成语搭配。",
+    "distractor_analysis": {
+      "extol": "v. 专与 the virtues/merits/benefits of 构成英语学术最高频固定搭配（MW：extol the virtues of...），意为“高度赞美、极力推崇”，在此具有排他性契合度。",
+      "laud": "v. 通常直接后接被赞扬的对象本身（如 laud their achievements/reforms），较少直接搭配 'the virtues of'，搭配紧密度远不及 extol。",
+      "eulogize": "v. 专指为逝者致悼词，或对已经消亡作古的历史事物发表哀悼式颂扬，不能用于在达沃斯经济论坛上推崇倡导仍在运作的自由贸易理念。",
+      "commend": "v. 仅表示行政或日常语境下的平实认可与“表彰、推荐”（express approval of），情感烈度与文体质感远达不到达沃斯论坛布道式“极力盛赞”的修辞高度。"
+    },
+    "translation": "在世界经济论坛上，代表们齐聚一堂极力盛赞多边自由贸易的长处，即便此时保护主义关税正在瓦解全球一体化。"
+  },
+  {
+    "id": "tem8_c0_30",
+    "group_id": 15,
+    "group_name": "extol, laud, eulogize, commend",
+    "level": "TEM-8",
+    "target_word": "eulogize",
+    "question": "Diplomats convened in Geneva to formally ___ the late secretary-general, celebrating his tireless mediation during the Cuban Missile Crisis.",
+    "options": [
+      "eulogize",
+      "extol",
+      "laud",
+      "commend"
+    ],
+    "answer": "eulogize",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰语 'the late secretary-general'（已故前秘书长）是绝对排他题眼，专指为已故逝者宣读悼词、庄严缅怀颂扬。",
+    "distractor_analysis": {
+      "eulogize": "v. 庄严法律与外交礼仪专门词汇，专指在纪念仪式上为逝者宣读悼词或进行崇高的追思赞颂（MW：to praise formally and eloquently; WordNet: The dead woman was eulogized），与 'the late'（已故的）形成绝对排他互锁。",
+      "extol": "v. 侧重极力赞美某种品德、体制长处或抽象理论，不能直接用于为刚刚离世的国家政要主持追悼赞颂仪式。",
+      "laud": "v. 意为赞扬成就功绩，不具有针对已故逝者的专属追悼悼念礼仪功能。",
+      "commend": "v. 侧重普通的嘉奖或肯定，用在纪念已故秘书长的庄严追悼外交场合显得轻描淡写，语用严重失当。"
+    },
+    "translation": "外交官们齐聚日内瓦，正式向已故前秘书长致悼词以颂扬其功绩，缅怀他在古巴导弹危机期间不知疲倦的斡旋。"
+  },
+  {
+    "id": "tem8_c0_31",
+    "group_id": 16,
+    "group_name": "substantiate, corroborate, authenticate, verify",
+    "level": "TEM-8",
+    "target_word": "corroborate",
+    "question": "Independent satellite reconnaissance data helped to ___ intelligence reports alleging that covert enrichment facilities were operating near the contested mountain border.",
+    "options": [
+      "corroborate",
+      "substantiate",
+      "authenticate",
+      "verify"
+    ],
+    "answer": "corroborate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "主谓宾关系 'Independent satellite reconnaissance data helped to ___ intelligence reports...'（独立的卫星侦察数据有助于佐证情报报告……），以来自第三方的独立客观新证据支持已有证言或报告专指 corroborate。",
+    "distractor_analysis": {
+      "corroborate": "v. 司法与战略情报专门术语，专指“用独立第三方提供的辅助证据来确证、佐证”（MW：witnesses corroborated his story; strengthen as with new evidence），完美匹配卫星侦察数据与情报报告的相互印证关系。",
+      "substantiate": "v. 强调为某个抽象指控、主张从零开始“提供充分证据以确立其真实性”（substantiate a claim/allegation），宾语一般是指控或假说本身，而非由一份独立证据去支持另一份已有书面“情报报告（reports）”。",
+      "authenticate": "v. 专指鉴别艺术品、手稿、签字或数字密钥是否为“真迹/正品”，不可用于表示侦察数据与情报报告之间的交叉佐证。",
+      "verify": "v. 强调通过对照事实或技术排查核实某事物真伪（如 verify facts），不具备两份独立证据链条相互“印证/佐证”的严谨情报分析法律特征。"
+    },
+    "translation": "独立的卫星侦察数据有助于佐证此前指称有秘密浓缩设施在争议山区边境附近运转的情报报告。"
+  },
+  {
+    "id": "tem8_c0_32",
+    "group_id": 16,
+    "group_name": "substantiate, corroborate, authenticate, verify",
+    "level": "TEM-8",
+    "target_word": "authenticate",
+    "question": "Before releasing the leaked diplomatic correspondence to the international press, forensic cyber experts were dispatched to ___ the digital signature of the ambassador.",
+    "options": [
+      "authenticate",
+      "corroborate",
+      "substantiate",
+      "verify"
+    ],
+    "answer": "authenticate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "宾语 'the digital signature of the ambassador'（大使的数字签名）与主语 'forensic cyber experts'（网络取证专家），鉴定签名、手迹或公文的真伪/真迹专指 authenticate。",
+    "distractor_analysis": {
+      "authenticate": "v. 专指技术或法医专家鉴定文件、手迹、签名或文物的“真伪、正品与真实合法性”（MW：handwriting experts authenticated the diaries），与数字签名鉴定形成唯一的专业语用对齐。",
+      "corroborate": "v. 必须是以外部证据去支持某种陈述或证词（佐证），绝不能用来表达“鉴定签字是真迹还是伪造”。",
+      "substantiate": "v. 意为用论据坐实某种指控或指责，不可接具体的一个数字签名作宾语（无 substantiate a signature 之说）。",
+      "verify": "v. 虽有核实之意，但在专业数字网络安全与取证科学（forensic cyber experts）中，检验密码学签名合法真实性的唯一法定技术动作术语为 authenticate。"
+    },
+    "translation": "在向国际媒体披露外泄的外交信函之前，网络取证专家被派往现场，以核实鉴别该大使数字签名的真伪。"
+  },
+  {
+    "id": "tem8_c0_33",
+    "group_id": 17,
+    "group_name": "vilify, malign, slander, defame",
+    "level": "TEM-8",
+    "target_word": "vilify",
+    "question": "State-controlled broadcasts launched a coordinated campaign to ___ political dissidents, portraying them as treasonous foreign agents seeking to destabilize national sovereignty.",
+    "options": [
+      "vilify",
+      "malign",
+      "slander",
+      "defame"
+    ],
+    "answer": "vilify",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文伴随状语 'portraying them as treasonous foreign agents...'（将他们描绘成企图颠覆国家主权的叛国外国特务），以极端妖魔化、贬损为罪大恶极邪恶化身专指 vilify（vilis = 邪恶丑陋）。",
+    "distractor_analysis": {
+      "vilify": "v. 强调在宣传媒介上以极具攻击性、污名化的恶毒字眼将人“妖魔化、痛斥为罪恶昭彰之徒”（MW 原生释义：to speak of as wicked : DEFAME），精准契合将异见人士污名化为叛国特务的政治迫害宣传特征。",
+      "malign": "v. 侧重在背后恶意说人坏话或中伤散布有害谣言，情感冲击力与国家机器发动的“妖魔化（vilify）”运动相比烈度不足。",
+      "slander": "v. 严格法律侵权术语，专指通过“口头言语”进行的虚假陈述诽谤（口头诽谤），而国家广播电视属于广播媒体公开宣传（在英美侵权法中广播等同于永久性形式的 libel），不能用 slander 概括政治舆论战上的系统性妖魔化。",
+      "defame": "v. 泛指在民事法理上破坏名誉，属于冷峻客观的中性法学侵权词汇，无法生动体现后文将其刻画为叛国极端恶魔的“妖魔化贬斥”情感色彩。"
+    },
+    "translation": "国家控制的广播电视发起了一场协同宣传攻势，大肆妖魔化政治异见人士，将他们描绘成企图动摇国家主权的叛国外国特务。"
+  },
+  {
+    "id": "tem8_c0_34",
+    "group_id": 17,
+    "group_name": "vilify, malign, slander, defame",
+    "level": "TEM-8",
+    "target_word": "slander",
+    "question": "The opposition envoy threatened legal action after a televised press conference in which rival ministers sought to orally ___ his diplomatic integrity with baseless allegations.",
+    "options": [
+      "slander",
+      "vilify",
+      "malign",
+      "defame"
+    ],
+    "answer": "slander",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "方式状语 'orally'（口头地）与前文 'threatened legal action'（威胁采取法律行动），英美法系中以口头言辞发表无端指控侵害名誉专称为 slander（口头诽谤，严格区别于书面诽谤 libel）。",
+    "distractor_analysis": {
+      "slander": "v. 侵权法与严谨学术排他性用语，专指通过“口头口述言论（orally）”所实施的恶意造谣与名誉侵权（spoken defamation），与后文 orally 构成绝对排他互锁。",
+      "vilify": "v. 强调在政治或道德层面上将人妖魔化为恶徒，不包含法学上“口头口述（orally）”这一特定侵权方式限定。",
+      "malign": "v. 指说坏话中伤，属于通用描述，无法与法律诉讼（legal action）中严格限定口头侵害形态的法学术语对齐。",
+      "defame": "v. 为诽谤的上位统称（包含口头 slander 与书面 libel），在已明确限定方式状语 orally 的语境下，不符合精准对标具体侵权类型的专八考查规则。"
+    },
+    "translation": "在政敌部长们于电视新闻发布会上企图通过口头不实指控诋毁其外交声誉之后，反对党特使威胁将采取法律行动。"
+  },
+  {
+    "id": "tem8_c0_35",
+    "group_id": 18,
+    "group_name": "adulate, fawn, cajole, flatter",
+    "level": "TEM-8",
+    "target_word": "fawn",
+    "question": "Ambitious junior diplomats were seen to shamelessly ___ on the visiting authoritarian leader, seeking preferential trade concessions for their sovereign state.",
+    "options": [
+      "fawn",
+      "adulate",
+      "cajole",
+      "flatter"
+    ],
+    "answer": "fawn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "介词搭配 '___ on the visiting authoritarian leader'，4个选项中仅有 fawn 为不及物动词并严格要求接介词 on/upon（fawn on/upon sb.）。",
+    "distractor_analysis": {
+      "fawn": "v. 不及物动词，专与介词 on 或 upon 搭配（fawn on sb.），意为“卑躬屈膝、谄媚讨好”，在句法介词搭配上具备绝对排他性。",
+      "adulate": "v. 及物动词，必须直接接宾语（adulate sb.），接介词 on 产生严重句法破格错误（*adulate on 为语法残缺）。",
+      "cajole": "v. 及物动词，意为哄骗，标准句式为 cajole sb. into doing sth.，不能接 on sb.（*cajole on sb. 不合语法）。",
+      "flatter": "v. 及物动词，直接接宾语（flatter sb.），不可后接介词 on（*flatter on sb. 属于错词）。"
+    },
+    "translation": "有人看到野心勃勃的年轻外交官厚颜无耻地向来访的威权领导人阿谀奉承，为其所在国家谋求优惠贸易让步。"
+  },
+  {
+    "id": "tem8_c0_36",
+    "group_id": 18,
+    "group_name": "adulate, fawn, cajole, flatter",
+    "level": "TEM-8",
+    "target_word": "cajole",
+    "question": "The seasoned mediator spent days attempting to ___ reluctant factional leaders into signing a provisional ceasefire before civilian humanitarian corridors collapsed.",
+    "options": [
+      "cajole",
+      "fawn",
+      "adulate",
+      "flatter"
+    ],
+    "answer": "cajole",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句型框架 '___ reluctant factional leaders into signing a provisional ceasefire'，动词结构 'cajole sb into doing sth'（通过软磨硬泡/劝诱使某人做某事）是英语中极具辨识度的固定语法句型。",
+    "distractor_analysis": {
+      "cajole": "v. 及物动词，核心句型为 'cajole sb. into doing sth.'，意为“通过软硬兼施、百般劝诱来促使某人做某事”，完美契合调解人促成停火协议的斡旋语境。",
+      "fawn": "v. 不及物动词，必须接介词 on/upon，绝对无法接 'sb. into doing sth.'（句法完全崩溃）。",
+      "adulate": "v. 及物动词，仅表示盲目崇拜奴颜婢膝奉承某人，不可接 'into doing sth.' 句式（无 adulate sb into signing 之说）。",
+      "flatter": "v. 及物动词，虽可表达奉承，但不能像 cajole 这样带动词短语 'into doing sth.' 表示成功诱劝或促成特定行动。"
+    },
+    "translation": "这位经验丰富的调解员花了数天时间，试图软磨硬泡百般劝诱不情愿的派系领导人签署临时停火协议，以免平民人道主义走廊彻底关闭。"
+  },
+  {
+    "id": "tem8_c0_37",
+    "group_id": 19,
+    "group_name": "rebuff, spurn, repudiate, reject",
+    "level": "TEM-8",
+    "target_word": "rebuff",
+    "question": "Despite soaring casualties and severe energy shortages, the embattled premier chose to bluntly ___ foreign diplomatic proposals for a demilitarized buffer zone.",
+    "options": [
+      "rebuff",
+      "spurn",
+      "repudiate",
+      "reject"
+    ],
+    "answer": "rebuff",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "副词与宾语 'bluntly ___ foreign diplomatic proposals for...'（断然回绝外国外交建言/提议），专指粗暴生硬地挡回外方的主动示好、求和或外交倡议（MW 原生释义：rebuffed calls / rebuffed proposals）。",
+    "distractor_analysis": {
+      "rebuff": "v. 专指对外部提出的好意提议、外交和解接触或谈判请求给予“生硬回绝、粗暴碰钉子”（to reject or criticize sharply : SNUB; a refusal to meet an advance or offer），与副词 bluntly 构成绝佳语境呼应。",
+      "spurn": "v. 带有强烈的鄙夷与轻蔑不屑色彩（reject with contempt or disdain），多用于男女情爱追求或文学叙事，在外刊严肃政府首脑回绝和解方案的政治报道中不如 rebuff 精准规范。",
+      "repudiate": "v. 专指正式在法律上声明不承认、废弃已签订的条约、婚姻、父子关系或国家主权债务，不用于当面回绝他人新提出的外交停火提议。",
+      "reject": "v. 属于大白话通用词汇，无法精准传递出地缘外交斡旋中“生硬生冷地碰钉子挡回”的精微排他性语用色彩。"
+    },
+    "translation": "尽管伤亡人数激增且能源严重短缺，这位四面楚歌的总理仍旧选择粗暴断然回绝外国关于设立非军事缓冲区的外交提议。"
+  },
+  {
+    "id": "tem8_c0_38",
+    "group_id": 19,
+    "group_name": "rebuff, spurn, repudiate, reject",
+    "level": "TEM-8",
+    "target_word": "repudiate",
+    "question": "Upon assuming office, the nationalist administration moved swiftly to unilaterally ___ sovereign debt obligations incurred by the preceding autocratic regime.",
+    "options": [
+      "repudiate",
+      "rebuff",
+      "spurn",
+      "reject"
+    ],
+    "answer": "repudiate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "副词与宾语 'unilaterally ___ sovereign debt obligations'（单方面赖账拒付国家主权债务），国际金融法上对主权债务拒绝承认并不予偿还的标准法律术语为 repudiate sovereign debt。",
+    "distractor_analysis": {
+      "repudiate": "v. 国际公法与金融学专业核心动词，专指国家政权“拒绝承认或拒绝履行（主权债务、国际条约或合法继承义务）”（WordNet：refuse to acknowledge or pay; repudiate debt/treaty），在此具有绝对排他性。",
+      "rebuff": "v. 侧重生硬拒绝他人的求爱、示好或外交提请，不可与具体的法定财务义务（debt obligations）构成法理动作搭配。",
+      "spurn": "v. 强调因鄙视而唾弃，不具备主权政府通过法律声明正式废除债务清偿义务的法理学术色彩。",
+      "reject": "v. 通俗泛指拒绝，但无法精确传达国际主权金融博弈中新政府对既有“债务赖账/废弃不认”的严谨专八术语内涵。"
+    },
+    "translation": "在上任之后，该民族主义政府迅速采取行动，单方面宣布拒绝承认并废止前专制政权所欠下的国家主权债务。"
+  },
+  {
+    "id": "tem8_c0_39",
+    "group_id": 20,
+    "group_name": "decry, denounce, condemn, censure",
+    "level": "TEM-8",
+    "target_word": "decry",
+    "question": "Leading developmental economists gathered in London to ___ the resurgence of protectionist tariffs as a disastrous threat to global poverty alleviation.",
+    "options": [
+      "decry",
+      "denounce",
+      "condemn",
+      "censure"
+    ],
+    "answer": "decry",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "主语学者群体 'Leading developmental economists...' 针对宏观趋势宾语 'the resurgence of protectionist tariffs as...'（公开大声痛陈/谴责保护主义关税卷土重来是灾难性威胁），知识界公开谴责、大声疾呼反对不良社会政策趋势专指 decry。",
+    "distractor_analysis": {
+      "decry": "v. 知识分子、经济学家或舆论评论家公开“谴责、大声痛陈、大声疾呼反对”某种不良政策趋势或退步现象（MW 原生释义：to express strong disapproval of; decry the environmental recklessness/overregulation），带有公开痛陈弊端并呼吁警惕的文人批判色彩。",
+      "denounce": "v. 侧重在政治或道义上正式宣布某人是叛徒、罪犯，或官方正式声明废除某条约，不契合经济学家在学术研讨会上公开发表观点痛陈关税弊端的语态。",
+      "condemn": "v. 属于重度道德与司法审判词汇（如 condemn terrorism/violence），多用于政府或法院对邪恶罪行的定性，不如 decry 贴合学术社论对经济政策弊端的痛陈批驳。",
+      "censure": "v. 专指立法机构、官方机关经过正式投票程序对某人实施的制度性官方申诫，学者群体不具备对经济趋势下达 censure 的法定公权力。"
+    },
+    "translation": "知名发展经济学家齐聚伦敦，大声疾呼痛斥保护主义关税的抬头是对全球减贫事业的灾难性威胁。"
+  },
+  {
+    "id": "tem8_c0_40",
+    "group_id": 20,
+    "group_name": "decry, denounce, condemn, censure",
+    "level": "TEM-8",
+    "target_word": "denounce",
+    "question": "In a provocative diplomatic escalation, the imperial state declared its intention to formally ___ the nuclear arms control treaty, citing non-compliance by rival signatories.",
+    "options": [
+      "denounce",
+      "decry",
+      "condemn",
+      "censure"
+    ],
+    "answer": "denounce",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "状语与宾语组合 'declared its intention to formally ___ the nuclear arms control treaty'（宣布有意正式废除/通告退出该核军控条约），国际公法上正式宣告废止条约或通告退出专指 denounce a treaty。",
+    "distractor_analysis": {
+      "denounce": "v. 国际条约法（International Treaty Law）中绝无仅有的专属法律术语：'denounce a treaty' 专指一国按照法定条款“正式通告废除或退出国际条约”，具有法律排他性。",
+      "decry": "v. 意为公开发表言论谴责某事物，并不能在法律上实现单方面“废弃或终止核军控条约”的法定条约废止法律效果。",
+      "condemn": "v. 意为道德谴责，国家无法通过单纯的 condemn 来在法律上正式废止军控条约。",
+      "censure": "v. 意为官方谴责某人的过失，绝不能与国际条约搭配作“废止条约”之解。"
+    },
+    "translation": "在一次挑衅性的外交升级中，该大国宣布打算正式通告废止这项核军控条约，理由是对手机约方未予遵约。"
+  },
+  {
+    "id": "tem8_c0_41",
+    "group_id": 21,
+    "group_name": "equivocal, enigmatic, ambiguous, obscure",
+    "level": "TEM-8",
+    "target_word": "equivocal",
+    "question": "Fearing electoral backlash from both pacifist and hawkish factions, the candidate offered a deliberately ___ response regarding military intervention abroad.",
+    "options": [
+      "equivocal",
+      "enigmatic",
+      "ambiguous",
+      "obscure"
+    ],
+    "answer": "equivocal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "前因后果与副词搭配 'Fearing electoral backlash... offered a deliberately ___ response'（因害怕两派反弹而故意给出模棱两可、含糊其辞的回应），为了逃避表态而故意含糊其辞专指 equivocal。",
+    "distractor_analysis": {
+      "equivocal": "adj. 专指“故意、蓄意使用双关语或模棱两可措辞以回避正面承诺或误导公众”（MW：subject to two or more interpretations and usually used to mislead or confuse），副词 deliberately 是对其最核心定义的排他性锚定。",
+      "enigmatic": "adj. 指像谜团一样高深莫测、令人费解（mysterious, like a riddle），形容政客为了选票狡黠地打太极、回避立场不合适。",
+      "ambiguous": "adj. 多指客观语法、句子结构或含义上存在歧义（可以是非故意的歧义模糊），不及 equivocal 明确包含政客蓄意规避政治表态的狡黠主观意图。",
+      "obscure": "adj. 指晦涩难懂、鲜为人知或光线昏暗，形容政治家的公开表态语句不符合语境。"
+    },
+    "translation": "因害怕招致和平派与鹰派两大阵营的选举反弹，该候选人就海外军事干预问题给出了一个刻意模棱两可、含糊其辞的回应。"
+  },
+  {
+    "id": "tem8_c0_42",
+    "group_id": 21,
+    "group_name": "equivocal, enigmatic, ambiguous, obscure",
+    "level": "TEM-8",
+    "target_word": "enigmatic",
+    "question": "Throughout decades of clandestine diplomacy, the reclusive spymaster maintained an ___ persona, rarely granting interviews and leaving foreign analysts utterly baffled by his strategic motives.",
+    "options": [
+      "enigmatic",
+      "equivocal",
+      "ambiguous",
+      "obscure"
+    ],
+    "answer": "enigmatic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰对象与后文提示 'the reclusive spymaster maintained an ___ persona... leaving foreign analysts utterly baffled'（深居简出的间谍头目保持着谜一般难以捉摸的人格形象，让外国分析人士完全摸不着头脑），像谜一样神秘莫测专指 enigmatic。",
+    "distractor_analysis": {
+      "enigmatic": "adj. 专指人、表情、性格或动机“如谜一般高深莫测、难以参透”（WordNet：not clear to the understanding; like an enigma），与深居简出的情报总监形象（spymaster persona）和后文 baffled 形成严密互锁。",
+      "equivocal": "adj. 侧重言论词句故意模棱两可含糊其辞，不修饰具有神秘气质的人格形象（persona）。",
+      "ambiguous": "adj. 侧重概念或一句话产生多重歧义理解，不能形容深邃神秘莫测的谍报人物人格。",
+      "obscure": "adj. 意为不出名的、无名卑微的或晦涩的，该间谍头目权倾朝野名扬四海只是深居简出，绝非无名小辈（obscure）。"
+    },
+    "translation": "在长达数十年的秘密外交生涯中，这位深居简出的间谍头脑始终保持着谜一般神秘莫测的形象，极少接受采访，其战略动机让外国分析人士完全摸不着头脑。"
+  },
+  {
+    "id": "tem8_c0_43",
+    "group_id": 22,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "level": "TEM-8",
+    "target_word": "sensual",
+    "question": "Critics condemned the authoritarian court's hedonistic lifestyle, accusing the sovereign elite of indulging in extravagant, ___ pleasures while the civilian populace endured catastrophic famine.",
+    "options": [
+      "sensual",
+      "sensuous",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "answer": "sensual",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "批判定性与对比 'hedonistic lifestyle... indulging in extravagant, ___ pleasures while the civilian populace endured catastrophic famine'（沉溺于享乐主义生活方式，在平民饱受饥荒之际沉迷于肉体肉欲享乐），带有道德贬义的肉欲纵欲享乐专指 sensual。",
+    "distractor_analysis": {
+      "sensual": "adj. 带有强烈的道德谴责色彩，专指“肉体上的、感官肉欲的、肉欲享乐的”（WordNet：marked by the appetites and passions of the body : carnal），精准对应后文在饥荒中骄奢淫逸的沉沦批判。",
+      "sensuous": "adj. 专指通过感官欣赏艺术、音乐、自然所获得的“纯粹美感享受”（Milton 首创以区别于肉欲贬义词 sensual），带有褒义审美色彩，不可用于批判专制统治者荒淫无道的肉欲享乐。",
+      "aesthetic": "adj. 意为美学的、审美的，与荒淫残暴的肉欲贪图享乐南辕北辙。",
+      "voluptuous": "adj. 侧重指女性形体丰满性感或生活极度奢侈豪华，修饰 pleasures 时不及 sensual 具备专八经典考点中对“肉欲享乐 vs 审美感官（sensual vs sensuous）”的严谨二元哲学对立辨析。"
+    },
+    "translation": "批评人士谴责该专制宫廷的享乐主义生活方式，指责统治精英在平民忍受灾难性饥荒之际，却沉溺于奢靡的肉欲享乐之中。"
+  },
+  {
+    "id": "tem8_c0_44",
+    "group_id": 22,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "level": "TEM-8",
+    "target_word": "sensuous",
+    "question": "The state pavilion was celebrated for its ___ architectural elegance, immersing visiting diplomats in a harmonious interplay of flowing water, natural timber, and ambient light.",
+    "options": [
+      "sensuous",
+      "sensual",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "answer": "sensuous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文细节描述 'immersing visiting diplomats in a harmonious interplay of flowing water, natural timber, and ambient light'（让外交官沉浸于流水、原木与光影的和谐交织中），通过视听触觉引发的高雅美感享受专指 sensuous。",
+    "distractor_analysis": {
+      "sensuous": "adj. 专指通过五官感官体验（光线、流水触感、木纹视觉）给精神带来高雅纯洁的“美感愉悦”（MW：characterized by sense impressions or imagery aimed at the senses），无任何肉欲沉沦杂质，精准契合建筑艺术殿堂的高雅审美体验。",
+      "sensual": "adj. 专指放纵肉体肉欲（carnal lust），用于赞美国家展馆的高雅建筑艺术风格属于严重贬义倒错与语义破格。",
+      "aesthetic": "adj. 后文已有名词 elegance，若作 'aesthetic architectural elegance' 存在严重的用词同义叠床架屋（aesthetic 与 elegance 语义高度重叠冗余）。",
+      "voluptuous": "adj. 强调妖娆肉感或纵欲奢华，不能用来形容由流水、原木与漫射光构成的空灵静谧的建筑之美。"
+    },
+    "translation": "该国国家馆因其极具感官美感的建筑风雅而备受赞誉，让来访的外交官沉浸于流水、原木与漫射光的和谐交响之中。"
+  },
+  {
+    "id": "tem8_c0_45",
+    "group_id": 23,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "judicious",
+    "question": "The finance minister emphasized that only a ___ balance between austerity and stimulus could steer the fragile national economy away from stagflation.",
+    "options": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "judicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰核心名词搭配 'a ___ balance between austerity and stimulus'（在紧缩与刺激之间达成明智审慎的平衡），固定地道高阶搭配 a judicious balance 强调兼听兼顾各方维度的精准智慧平衡。",
+    "distractor_analysis": {
+      "judicious": "adj. 专指在实践权衡中表现出深思熟虑、精明公正的“明智审慎的判断”（having sound judgment），与 a judicious balance（明智平衡）构成经典学术固定搭配。",
+      "judicial": "adj. 专指法院的、司法审判的（judicial branch/review），不可用来形容紧缩与财政刺激政策之间的明智平衡。",
+      "prudent": "adj. 侧重谨小慎微、规避风险与未雨绸缪（cautious, avoiding risk），修饰主动在对立宏观经济政策间寻找最佳结合点的“平衡（balance）”时不及 judicious 地道精妙。",
+      "legislative": "adj. 意为立法的（legislative power），在此出现语义风马牛不相及。"
+    },
+    "translation": "财政部长强调，唯有在紧缩政策与刺激措施之间达成明智审慎的平衡，才能引领脆弱的国家经济远离滞胀泥潭。"
+  },
+  {
+    "id": "tem8_c0_46",
+    "group_id": 23,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "judicial",
+    "question": "The newly drafted bilateral investment treaty included a specialized arbitration clause that operated entirely outside domestic ___ oversight.",
+    "options": [
+      "judicial",
+      "judicious",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "judicial",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法律与三权分立语境搭配 'outside domestic ___ oversight'（处于国内司法审查/监督之外），仲裁条款排除普通法院的“司法监督”为排他性国际商法与宪政术语 judicial oversight。",
+    "distractor_analysis": {
+      "judicial": "adj. 专指法院、法官或司法裁决系统的（MW 原生释义：proceeding from a court of justice），与 oversight 构成排他性宪政法学术语 'judicial oversight'（司法监督/司法审查）。",
+      "judicious": "adj. 意为明智深思熟虑的，若作 judicious oversight 则变成“明智的监督”，完全背离了双边投资协定（BIT）国际仲裁条款将争议排除于“国内普通法院司法管辖审查”之外的经典法律实体内涵。",
+      "prudent": "adj. 意为谨慎小心的，不能构成指代司法审判分支监督的专有名词短语。",
+      "legislative": "adj. 意为议会立法的，投资仲裁主要规避的是国内法院判决（judicial），而非国内立法监督。"
+    },
+    "translation": "新起草的双边投资条约包含一项专门的仲裁条款，该条款完全独立于国内司法监督之外运作。"
+  }
+]

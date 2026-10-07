@@ -1,0 +1,1489 @@
+{
+  "chunk_id": 5,
+  "theme_info": {
+    "chunk_id": 5,
+    "theme": "认知心理、心智哲学与情感精微 (Cognitive Psychology & Emotional Nuance)",
+    "guidance": "题干刻画深层心理机制、群体迷思、决策心理偏差、细微性格特质（自谦、固执、虚荣、敏锐）等人性剖析。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 116,
+      "group_name": "autopsy, rake, scan, look",
+      "target_word": "autopsy",
+      "words": [
+        "autopsy",
+        "rake",
+        "scan",
+        "look"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "autopsy 辨析组 (autopsy.v.01)",
+      "synset_definition": "perform an autopsy on a dead body; do a post-mortem",
+      "merriam_webster": {
+        "definitions": [
+          "an examination of a body after death to determine the cause of death or the character and extent of changes produced by disease",
+          "a critical examination, evaluation, or assessment of someone or something past",
+          "an examination of a dead body especially to find out the cause of death",
+          "an examination of the body after death usually with such dissection as will expose the vital organs for determining the cause of death or the character and extent of changes produced by disease"
+        ],
+        "dictionary_examples": [
+          "The coroner’s statement, released more than a month after Panettiere died unexpectedly at 36, also said an autopsy found no evidence of trauma that contributed to her death.",
+          "The exact causes of death are pending autopsies, WALB reported.",
+          "The 63-year-old woman's identity and the circumstances of her death were withheld by police pending an autopsy by the New York City Medical Examiner's Office, an NYPD spokesperson told ABC News.",
+          "Wells’s family, along with commissioning their own autopsy, hired their own forensic experts."
+        ],
+        "web_examples": [
+          "The coroner’s statement, released more than a month after Panettiere died unexpectedly at 36, also said an autopsy found no evidence of trauma that contributed to her death.",
+          "The exact causes of death are pending autopsies, WALB reported.",
+          "The 63-year-old woman's identity and the circumstances of her death were withheld by police pending an autopsy by the New York City Medical Examiner's Office, an NYPD spokesperson told ABC News.",
+          "Wells’s family, along with commissioning their own autopsy, hired their own forensic experts."
+        ],
+        "synonym_discussion": "Synonyms of autopsy\nRelevance\ndissection\npostmortem\nnecropsy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "autopsy": {
+          "synset": "autopsy.n.01",
+          "definition": "an examination and dissection of a dead body to determine cause of death or the changes produced by disease",
+          "examples": []
+        },
+        "rake": {
+          "synset": "rake.n.01",
+          "definition": "a dissolute man in fashionable society",
+          "examples": []
+        },
+        "scan": {
+          "synset": "scan.n.01",
+          "definition": "the act of scanning; systematic examination of a prescribed region",
+          "examples": [
+            "he made a thorough scan of the beach with his binoculars"
+          ]
+        },
+        "look": {
+          "synset": "expression.n.01",
+          "definition": "the feelings expressed on a person's face",
+          "examples": [
+            "a sad expression",
+            "a look of triumph"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 117,
+      "group_name": "avail, exploit, consecrate, take",
+      "target_word": "avail",
+      "words": [
+        "avail",
+        "exploit",
+        "consecrate",
+        "take"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "avail 辨析组 (avail.v.01)",
+      "synset_definition": "use to one's advantage",
+      "merriam_webster": {
+        "definitions": [
+          "to be of use or advantage : SERVE",
+          "to produce or result in as a benefit or advantage : GAIN",
+          "advantage toward attainment of a goal or purpose : USE",
+          "to be of use or help"
+        ],
+        "dictionary_examples": [
+          "In such a Hobbesian world, grand idealistic designs will avail the United States nothing. Nor will a quest for American dominance in the name of the good.",
+          "Soon middle-class girls were slipping into their starched white shirtwaists, marching into a place of business … and eventually standing up as private secretaries, bank tellers, accountants, and managers. So many, in fact, availed themselves of this new opportunity that by 1900 nearly 75 percent of all clerical workers in America were women (Bliven puts the number, in 1888, at 60,000); and for decades the typist and her machine were both called \"typewriters.\"",
+          "One comes away from the book stunned by the remarkable energy and willingness to resist that so many demonstrated but haunted by the recognition of how little that resistance availed.",
+          "It seemed to be the national dish, as it appeared on every menu. It is a spicy pork or veal stew with tomatoes and onions and a little sour cream on top. It was fabulous, and I'm dying to get the recipe. I've spent hours looking for it on the internet to no avail.",
+          "In the 14th century the porcelain from China made its way westward along trade routes to Europe's rich and royal. The artisans of Europe tried to duplicate the Chinese formula and process, but to no avail.",
+          "Even so, analysts said, investors can avail themselves of products that make the most of higher interest rates, such as high-yield savings accounts and CDs."
+        ],
+        "web_examples": [
+          "Even so, analysts said, investors can avail themselves of products that make the most of higher interest rates, such as high-yield savings accounts and CDs.",
+          "But Preckwinkle’s administration suggested last week that the window has now closed, and the school district will not be able to avail itself of the unearmarked $109 million.",
+          "For decades, Washington strove to align perceptions across theaters, to little avail.",
+          "After that, when the impossibility of recovering anyone else became clear, Al-Zaharnah and others kept hoping international organizations would convince Israel to allow more construction equipment, but to little avail."
+        ],
+        "synonym_discussion": "Synonyms of avail\nRelevance\n\nVerb\n\nbenefit\n\nNoun\n\nuse\nusefulness\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "avail": {
+          "synset": "avail.n.01",
+          "definition": "a means of serving",
+          "examples": [
+            "of no avail",
+            "there's no help for it"
+          ]
+        },
+        "exploit": {
+          "synset": "feat.n.01",
+          "definition": "a notable achievement",
+          "examples": [
+            "he performed a great feat",
+            "the book was her finest effort"
+          ]
+        },
+        "consecrate": {
+          "synset": "ordain.v.02",
+          "definition": "appoint to a clerical posts",
+          "examples": [
+            "he was ordained in the Church"
+          ]
+        },
+        "take": {
+          "synset": "return.n.06",
+          "definition": "the income or profit arising from such transactions as the sale of land or other property",
+          "examples": [
+            "the average return was about 5%"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 118,
+      "group_name": "avert, avoid, debar, obviate",
+      "target_word": "avert",
+      "words": [
+        "avert",
+        "avoid",
+        "debar",
+        "obviate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "avert 辨析组 (debar.v.02)",
+      "synset_definition": "prevent the occurrence of; prevent from happening",
+      "merriam_webster": {
+        "definitions": [
+          "to turn away or aside (the eyes, one's gaze, etc.) in avoidance",
+          "to see coming and ward off : AVOID",
+          "to turn away",
+          "to keep from happening"
+        ],
+        "dictionary_examples": [
+          "While people in Israel are praising the passengers and the captain as heroes for averting disaster, a broader debate is emerging over government failures that allowed something like this to happen, Lonsdorf says.",
+          "Each time the door shut behind the man, Shawn had the feeling that some danger had been temporarily dodged, some crisis averted until the next day.",
+          "Boeing averted a potential strike from its white-collar union when the union on Thursday agreed to the planemaker's four-year contract proposal.",
+          "But multiple studies have shown the flu vaccine reduces the disease’s severity and averts hospitalizations and deaths."
+        ],
+        "web_examples": [
+          "While people in Israel are praising the passengers and the captain as heroes for averting disaster, a broader debate is emerging over government failures that allowed something like this to happen, Lonsdorf says.",
+          "Each time the door shut behind the man, Shawn had the feeling that some danger had been temporarily dodged, some crisis averted until the next day.",
+          "Boeing averted a potential strike from its white-collar union when the union on Thursday agreed to the planemaker's four-year contract proposal.",
+          "But multiple studies have shown the flu vaccine reduces the disease’s severity and averts hospitalizations and deaths."
+        ],
+        "synonym_discussion": "Synonyms of avert\nRelevance\nprevent\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "avert": {
+          "synset": "debar.v.02",
+          "definition": "prevent the occurrence of; prevent from happening",
+          "examples": [
+            "Let's avoid a confrontation",
+            "head off a confrontation"
+          ]
+        },
+        "avoid": {
+          "synset": "avoid.v.01",
+          "definition": "stay clear from; keep away from; keep out of the way of someone or something",
+          "examples": [
+            "Her former friends now avoid her"
+          ]
+        },
+        "debar": {
+          "synset": "suspend.v.03",
+          "definition": "bar temporarily; from school, office, etc.",
+          "examples": []
+        },
+        "obviate": {
+          "synset": "obviate.v.01",
+          "definition": "do away with",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 119,
+      "group_name": "babble, bay, slur, rasp",
+      "target_word": "babble",
+      "words": [
+        "babble",
+        "bay",
+        "slur",
+        "rasp"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "babble 辨析组 (babble.v.01)",
+      "synset_definition": "utter meaningless sounds, like a baby, or utter in an incoherent way",
+      "merriam_webster": {
+        "definitions": [
+          "to talk enthusiastically or excessively",
+          "to utter meaningless or unintelligible sounds",
+          "to make sounds as though babbling",
+          "to utter in an incoherently or meaninglessly repetitious manner"
+        ],
+        "dictionary_examples": [
+          "The kids are drawing slowly with chalk and babbling to each other.",
+          "The surrounding 23 acres the estate sits on are full of trails ripe for exploring, too, and take visitors past historic stone walls, cemeteries, and babbling brooks.",
+          "Both have stellar amenities, space, and sit next to one another on a babbling creek.",
+          "Seeing her daughter in that state, babbling nonsense and barely able to stand, Letizia had goggled with the watery eyes of a sickly old lady."
+        ],
+        "web_examples": [
+          "The kids are drawing slowly with chalk and babbling to each other.",
+          "The surrounding 23 acres the estate sits on are full of trails ripe for exploring, too, and take visitors past historic stone walls, cemeteries, and babbling brooks.",
+          "Both have stellar amenities, space, and sit next to one another on a babbling creek.",
+          "Seeing her daughter in that state, babbling nonsense and barely able to stand, Letizia had goggled with the watery eyes of a sickly old lady."
+        ],
+        "synonym_discussion": "Synonyms of babble\nRelevance\nchatter\nchat\nprattle\ndrool\ngibber\ngabble\nshout\njabber\nsputter\nrattle\ndrivel\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "babble": {
+          "synset": "babble.n.01",
+          "definition": "gibberish resembling the sounds of a baby",
+          "examples": []
+        },
+        "bay": {
+          "synset": "bay.n.01",
+          "definition": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+          "examples": []
+        },
+        "slur": {
+          "synset": "slur.n.01",
+          "definition": "(music) a curved line spanning notes that are to be played legato",
+          "examples": []
+        },
+        "rasp": {
+          "synset": "rasp.n.01",
+          "definition": "uttering in an irritated tone",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 120,
+      "group_name": "backfire, recur, transpire, come",
+      "target_word": "backfire",
+      "words": [
+        "backfire",
+        "recur",
+        "transpire",
+        "come"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "backfire 辨析组 (backfire.v.01)",
+      "synset_definition": "come back to the originator of an action with an undesired effect",
+      "merriam_webster": {
+        "definitions": [
+          "to have the reverse of the desired or expected effect",
+          "to make or undergo a backfire",
+          "a loud noise caused by the improperly timed explosion of fuel mixture in the cylinder of an internal combustion engine",
+          "a fire started to check an advancing fire by clearing an area"
+        ],
+        "dictionary_examples": [
+          "That strategy backfired horrifically, as Wood fired a pass to wide receiver Ryan Jezioro smack dab in the middle of the endzone.",
+          "However, Maria de Kleijn, a partner in Kearney’s energy practice, warns that response could backfire.",
+          "During the first hour, pine grove owners urged fire commanders to light a backfire a few hundred yards from Le Porge.",
+          "Rumors thrive in the gap between official statements and visible reality, especially when vague reassurances backfire."
+        ],
+        "web_examples": [
+          "That strategy backfired horrifically, as Wood fired a pass to wide receiver Ryan Jezioro smack dab in the middle of the endzone.",
+          "However, Maria de Kleijn, a partner in Kearney’s energy practice, warns that response could backfire.",
+          "During the first hour, pine grove owners urged fire commanders to light a backfire a few hundred yards from Le Porge.",
+          "Rumors thrive in the gap between official statements and visible reality, especially when vague reassurances backfire."
+        ],
+        "synonym_discussion": "Synonyms of backfire\nRelevance\n\nVerb\n\ncollapse\nflop\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "backfire": {
+          "synset": "blowback.n.01",
+          "definition": "the backward escape of gases and unburned gunpowder after a gun is fired",
+          "examples": []
+        },
+        "recur": {
+          "synset": "recur.v.01",
+          "definition": "happen or occur again",
+          "examples": [
+            "This is a recurring story"
+          ]
+        },
+        "transpire": {
+          "synset": "transpire.v.01",
+          "definition": "pass through the tissue or substance or its pores or interstices, as of gas",
+          "examples": []
+        },
+        "come": {
+          "synset": "semen.n.01",
+          "definition": "the thick white fluid containing spermatozoa that is ejaculated by the male genital tract",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 121,
+      "group_name": "backhand, loft, pop, toe",
+      "target_word": "backhand",
+      "words": [
+        "backhand",
+        "loft",
+        "pop",
+        "toe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "backhand 辨析组 (backhand.v.01)",
+      "synset_definition": "hit a tennis ball backhand",
+      "merriam_webster": {
+        "definitions": [
+          "a stroke (as in tennis) made with the back of the hand turned in the direction of movement",
+          "the side on which such strokes are made",
+          "a catch (as in baseball) made to the side of the body opposite the hand being used",
+          "handwriting whose strokes slant downward from left to right"
+        ],
+        "dictionary_examples": [
+          "Kane trimmed the deficit to one early in the third with a slick backhand, but Hanifin answered shortly thereafter to restore the two-goal cushion.",
+          "Angels first baseman Vaughn Grissom made a sliding, backhand stop of Naylor’s potential double-play grounder, but his throw to second sailed into left field for an error, two runs scoring on the play for a 5-2 Seattle lead.",
+          "The Winterhawks don’t get back as a give-and-go between Korchinski and Schaefer in the neutral zone creates a 2-on-1, and Korchinski quickly makes a backhand feed to Crnkovic in front.",
+          "Larkin had a backhand attempt early in the power play, but otherwise a unit of him, Bertuzzi, Raymond, Seider and David Perron were unable to create much.",
+          "But daughter Christy Childers says her mom still rules at table tennis with a killer backhand.",
+          "When one last backhand by Nadal found the net, Tiafoe put his hands on his head."
+        ],
+        "web_examples": [
+          "Kane trimmed the deficit to one early in the third with a slick backhand, but Hanifin answered shortly thereafter to restore the two-goal cushion.",
+          "Angels first baseman Vaughn Grissom made a sliding, backhand stop of Naylor’s potential double-play grounder, but his throw to second sailed into left field for an error, two runs scoring on the play for a 5-2 Seattle lead.",
+          "The Winterhawks don’t get back as a give-and-go between Korchinski and Schaefer in the neutral zone creates a 2-on-1, and Korchinski quickly makes a backhand feed to Crnkovic in front.",
+          "Larkin had a backhand attempt early in the power play, but otherwise a unit of him, Bertuzzi, Raymond, Seider and David Perron were unable to create much."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "backhand": {
+          "synset": "backhand.n.01",
+          "definition": "a return made with the back of the hand facing the direction of the stroke",
+          "examples": []
+        },
+        "loft": {
+          "synset": "loft.n.01",
+          "definition": "floor consisting of a large unpartitioned space over a factory or warehouse or other commercial space",
+          "examples": []
+        },
+        "pop": {
+          "synset": "dad.n.01",
+          "definition": "an informal term for a father; probably derived from baby talk",
+          "examples": []
+        },
+        "toe": {
+          "synset": "toe.n.01",
+          "definition": "one of the digits of the foot",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 122,
+      "group_name": "badger, pester, bug, tease",
+      "target_word": "badger",
+      "words": [
+        "badger",
+        "pester",
+        "bug",
+        "tease"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "badger 辨析组 (tease.v.01)",
+      "synset_definition": "annoy persistently",
+      "merriam_webster": {
+        "definitions": [
+          "any of various burrowing mammals (especially Taxidea taxus and Meles meles) of the weasel family that are widely distributed in the northern hemisphere",
+          "the pelt or fur of a badger",
+          "a native or resident of Wisconsin",
+          "to harass or annoy persistently"
+        ],
+        "dictionary_examples": [
+          "baited the chained dog",
+          "badgered her father for a car",
+          "drunks heckled the stand-up comic",
+          "football players hectored by their coach",
+          "chivied the new student mercilessly",
+          "hounded by creditors"
+        ],
+        "web_examples": [
+          "Gavin Lahm added a field goal for the Badgers, who were sluggish and mistake-prone in the first two periods and trailed 17-7 at halftime.",
+          "The same year, scientists swabbed a roadkill badger and discovered it was infected with plague.",
+          "For her part, Clare isn’t thrilled when her mother badgers her about bringing her mysterious new boyfriend to dinner to finally meet the family.",
+          "For more than a decade, genre fans and journalists have badgered Onslaught director Adam Wingard for a sequel to The Guest."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "badger": {
+          "synset": "wisconsinite.n.01",
+          "definition": "a native or resident of Wisconsin",
+          "examples": []
+        },
+        "pester": {
+          "synset": "tease.v.01",
+          "definition": "annoy persistently",
+          "examples": [
+            "The children teased the boy because of his stammer"
+          ]
+        },
+        "bug": {
+          "synset": "bug.n.01",
+          "definition": "general term for any insect or similar creeping or crawling invertebrate",
+          "examples": []
+        },
+        "tease": {
+          "synset": "tease.n.01",
+          "definition": "someone given to teasing (as by mocking or stirring curiosity)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 123,
+      "group_name": "baffle, vex, gravel, get",
+      "target_word": "baffle",
+      "words": [
+        "baffle",
+        "vex",
+        "gravel",
+        "get"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "baffle 辨析组 (perplex.v.01)",
+      "synset_definition": "be a mystery or bewildering to",
+      "merriam_webster": {
+        "definitions": [
+          "to defeat or check (someone) by confusing or puzzling : to confuse or frustrate completely : DISCONCERT",
+          "to check or break the force or flow of by or as if by a baffle (see baffle entry 2)",
+          "a device (such as a plate, wall, or screen) to deflect, check, or regulate flow or passage (as of a fluid, light, or sound)",
+          "to defeat or check by confusing : PERPLEX"
+        ],
+        "dictionary_examples": [
+          "frustrated attempts at government reform",
+          "the army thwarted his attempt at a coup",
+          "foiled by her parents, he stopped trying to see her",
+          "baffled by the maze of rules and regulations",
+          "officials felt that legal restrictions had balked their efforts to control crime",
+          "Her home isn’t in the highway’s path, but she was still baffled by council’s decision."
+        ],
+        "web_examples": [
+          "Her home isn’t in the highway’s path, but she was still baffled by council’s decision.",
+          "Their admirable determination makes Diamantis’ flight from the United States baffling for us and humiliating for them.",
+          "Two panels along the upper and lower body of the Hubble can also be removed to expose the mirrors, as well as the central baffle that directs the light from stars and galaxies to the observatory’s instruments and primary mirror.",
+          "When the center tube (resonator) partially collapses internally or the baffles break loose, exhaust flow becomes turbulent or restricted."
+        ],
+        "synonym_discussion": "Synonyms of baffle\nRelevance\n\nVerb\n\nfrustrate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "baffle": {
+          "synset": "baffle.n.01",
+          "definition": "a flat plate that controls or directs the flow of fluid or energy",
+          "examples": []
+        },
+        "vex": {
+          "synset": "annoy.v.01",
+          "definition": "cause annoyance in; disturb, especially by minor irritations",
+          "examples": [
+            "Mosquitoes buzzing in my ear really bothers me",
+            "It irritates me that she never closes the door after she leaves"
+          ]
+        },
+        "gravel": {
+          "synset": "gravel.n.01",
+          "definition": "rock fragments and pebbles",
+          "examples": []
+        },
+        "get": {
+          "synset": "get.n.01",
+          "definition": "a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 124,
+      "group_name": "balk, jib, baulk, resist",
+      "target_word": "balk",
+      "words": [
+        "balk",
+        "jib",
+        "baulk",
+        "resist"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "balk 辨析组 (resist.v.06)",
+      "synset_definition": "refuse to comply",
+      "merriam_webster": {
+        "definitions": [
+          "to refuse abruptly",
+          "to stop short and refuse to proceed",
+          "to commit a balk (see balk entry 2 sense 1)",
+          "to check or stop by or as if by an obstacle : BLOCK"
+        ],
+        "dictionary_examples": [
+          "… Congress balked at putting up the money …\n—Thomas Fleming",
+          "frustrated attempts at government reform",
+          "the army thwarted his attempt at a coup",
+          "foiled by her parents, he stopped trying to see her",
+          "baffled by the maze of rules and regulations",
+          "officials felt that legal restrictions had balked their efforts to control crime"
+        ],
+        "web_examples": [
+          "How odd that your in-laws can call your bed old and ugly, but balk at insulting their neighbor’s castoffs by not using them.",
+          "After an anecdote having to do with cocaine use in another band around the time that guitarist Jimmy McColloch departed, Apatow asked if drugs were a big issue in Wings starting to fall apart in the late ’70s, but McCartney balked at that idea.",
+          "Boston went ahead 3-2 in the fifth after reliever Jakob Junis dropped the ball while on the rubber, resulting in a balk that sent a runner home from third base.",
+          "While the balk reversal was big moment in the game, the Marlins held on to close out the series opener in the ninth."
+        ],
+        "synonym_discussion": "Synonyms of balk\nRelevance\n\nVerb\n\nfrustrate\nthwart\nbaffle\nstop\nhamper\n\nNoun\n\nobstacle\nhurdle\nembarrassment\nobstruction\nlet\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "balk": {
+          "synset": "balk.n.01",
+          "definition": "the area on a billiard table behind the balkline",
+          "examples": [
+            "a player with ball in hand must play from the balk"
+          ]
+        },
+        "jib": {
+          "synset": "jib.n.01",
+          "definition": "any triangular fore-and-aft sail (set forward of the foremast)",
+          "examples": []
+        },
+        "baulk": {
+          "synset": "balk.n.01",
+          "definition": "the area on a billiard table behind the balkline",
+          "examples": [
+            "a player with ball in hand must play from the balk"
+          ]
+        },
+        "resist": {
+          "synset": "defy.v.02",
+          "definition": "elude, especially in a baffling way",
+          "examples": [
+            "This behavior defies explanation"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 125,
+      "group_name": "banish, shun, ban, blackball",
+      "target_word": "banish",
+      "words": [
+        "banish",
+        "shun",
+        "ban",
+        "blackball"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "banish 辨析组 (banish.v.01)",
+      "synset_definition": "expel from a community or group",
+      "merriam_webster": {
+        "definitions": [
+          "to require by authority to leave a country",
+          "to drive out or remove from a home or place of usual resort or continuance",
+          "to clear away : DISPEL",
+          "to force to leave a country"
+        ],
+        "dictionary_examples": [
+          "banished for seditious activities",
+          "a writer who exiled himself for political reasons",
+          "migrants may be deported",
+          "a convict who was transported to Australia",
+          "Though Kid Rock has not yet discussed his new album — or his relationship with Allen — beyond a brief Instagram post, past comments might offer a hint into his decision to include someone who’s been all but banished from the country music industry.",
+          "After he is banished, a magical bracelet carries her across worlds and parallel space-times on a journey to reclaim her dreams and her lost love."
+        ],
+        "web_examples": [
+          "Though Kid Rock has not yet discussed his new album — or his relationship with Allen — beyond a brief Instagram post, past comments might offer a hint into his decision to include someone who’s been all but banished from the country music industry.",
+          "After he is banished, a magical bracelet carries her across worlds and parallel space-times on a journey to reclaim her dreams and her lost love.",
+          "New Blood introduces new twists to gameplay to capitalize on that tension; this season, the Traitors have a $15,000 bounty on their heads, money that will be added to the prize pot every time the group banishes one.",
+          "With an almost puritanical zeal, Pavese sought to banish rhetoric and image."
+        ],
+        "synonym_discussion": "Synonyms of banish\nRelevance\nexile\nrelegate\ndeport\nevict\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "banish": {
+          "synset": "banish.v.01",
+          "definition": "expel from a community or group",
+          "examples": []
+        },
+        "shun": {
+          "synset": "shun.v.01",
+          "definition": "avoid and stay away from deliberately; stay clear of",
+          "examples": []
+        },
+        "ban": {
+          "synset": "prohibition.n.02",
+          "definition": "a decree that prohibits something",
+          "examples": []
+        },
+        "blackball": {
+          "synset": "barring.n.01",
+          "definition": "the act of excluding someone by a negative vote or veto",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 126,
+      "group_name": "banter, kid, josh, chaff",
+      "target_word": "banter",
+      "words": [
+        "banter",
+        "kid",
+        "josh",
+        "chaff"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "banter 辨析组 (kid.v.02)",
+      "synset_definition": "be silly or tease one another",
+      "merriam_webster": {
+        "definitions": [
+          "to speak to or address in a witty and teasing manner",
+          "DELUDE",
+          "CHALLENGE",
+          "to speak or act playfully or wittily"
+        ],
+        "dictionary_examples": [
+          "Built to banter about local news, sports and immigration raids, Coyotec now airs in English and is expanding to stations in Sacramento, Las Vegas and beyond.",
+          "Lee fills his glass from a second bottle, bantering away with his lifelong pal before picking up a third.",
+          "Harrelson went on to banter with Frazier about just how great McConaughey could be, acting as unofficial campaign manager.",
+          "Gilhaus, Schneider and Cambree Sussex embody the friendly banter and interwoven relationships of Cy-Hawk week."
+        ],
+        "web_examples": [
+          "Built to banter about local news, sports and immigration raids, Coyotec now airs in English and is expanding to stations in Sacramento, Las Vegas and beyond.",
+          "Lee fills his glass from a second bottle, bantering away with his lifelong pal before picking up a third.",
+          "Harrelson went on to banter with Frazier about just how great McConaughey could be, acting as unofficial campaign manager.",
+          "Gilhaus, Schneider and Cambree Sussex embody the friendly banter and interwoven relationships of Cy-Hawk week."
+        ],
+        "synonym_discussion": "Synonyms of banter\nRelevance\n\nVerb\n\njoke\nfun\n\nNoun\n\njoke\nlaugh\nbadinage\nrepartee\njesting\nhumor\nchatter\nraillery\npersiflage\nribbing\nhumorousness\ngive-and-take\njoshing\nchaff\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "banter": {
+          "synset": "banter.n.01",
+          "definition": "light teasing repartee",
+          "examples": []
+        },
+        "kid": {
+          "synset": "child.n.01",
+          "definition": "a young person of either sex",
+          "examples": [
+            "she writes books for children",
+            "they're just kids"
+          ]
+        },
+        "josh": {
+          "synset": "kid.v.02",
+          "definition": "be silly or tease one another",
+          "examples": [
+            "After we relaxed, we just kidded around"
+          ]
+        },
+        "chaff": {
+          "synset": "chaff.n.01",
+          "definition": "material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 127,
+      "group_name": "barrage, bombard, rip, claw",
+      "target_word": "barrage",
+      "words": [
+        "barrage",
+        "bombard",
+        "rip",
+        "claw"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "barrage 辨析组 (bombard.v.03)",
+      "synset_definition": "address with continuously or persistently, as if with a barrage",
+      "merriam_webster": {
+        "definitions": [
+          "a dam placed in a watercourse to increase the depth of water or to divert it into a channel for navigation or irrigation",
+          "artillery fire laid on a line (see line entry 1 sense 6c) close to friendly troops to screen and protect them",
+          "a vigorous or rapid outpouring or projection of many things at once",
+          "to deliver a barrage (see barrage entry 2) against"
+        ],
+        "dictionary_examples": [
+          "One California law firm says yes, and has filed a barrage of lawsuits this year, targeting hotels in California and elsewhere over synthetic fragrances in common areas.",
+          "Yamile Martinez, 21; Johntaya Alexander, 21; and Melinda Davis, 57, were killed in the barrage.",
+          "But Mark, in Ronson’s telling, quickly grows antagonistic, abruptly asking Ronson to sign an NDA, then later barraging him with suspicious texts and threatening him with a pair of goons.",
+          "The Weather Channel radar shows Lake County getting barraged with rain."
+        ],
+        "web_examples": [
+          "One California law firm says yes, and has filed a barrage of lawsuits this year, targeting hotels in California and elsewhere over synthetic fragrances in common areas.",
+          "Yamile Martinez, 21; Johntaya Alexander, 21; and Melinda Davis, 57, were killed in the barrage.",
+          "But Mark, in Ronson’s telling, quickly grows antagonistic, abruptly asking Ronson to sign an NDA, then later barraging him with suspicious texts and threatening him with a pair of goons.",
+          "The Weather Channel radar shows Lake County getting barraged with rain."
+        ],
+        "synonym_discussion": "Synonyms of barrage\nRelevance\n\nNoun (2)\n\nflurry\nbombardment\nvolley\nhail\nflood\ntorrent\n\nVerb\n\nflood\nbombard\nbomb\nquestion\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "barrage": {
+          "synset": "barrage.n.01",
+          "definition": "the rapid and continuous delivery of linguistic communication (spoken or written)",
+          "examples": [
+            "a barrage of questions",
+            "a bombardment of mail complaining about his mistake"
+          ]
+        },
+        "bombard": {
+          "synset": "bombardon.n.02",
+          "definition": "a large shawm; the bass member of the shawm family",
+          "examples": []
+        },
+        "rip": {
+          "synset": "rake.n.01",
+          "definition": "a dissolute man in fashionable society",
+          "examples": []
+        },
+        "claw": {
+          "synset": "claw.n.01",
+          "definition": "sharp curved horny process on the toe of a bird or some mammals or reptiles",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 128,
+      "group_name": "barricade, bar, stop, block",
+      "target_word": "barricade",
+      "words": [
+        "barricade",
+        "bar",
+        "stop",
+        "block"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "barricade 辨析组 (barricade.v.01)",
+      "synset_definition": "render unsuitable for passage",
+      "merriam_webster": {
+        "definitions": [
+          "to block off or stop up with a barricade",
+          "to prevent access to by means of a barricade",
+          "an obstruction or rampart thrown up across a way or passage to check the advance of the enemy",
+          "BARRIER sense 1a"
+        ],
+        "dictionary_examples": [
+          "Danenza fired the handgun from inside the home and barricaded himself inside, police said.",
+          "Police detained dozens of protesters and some opposition leaders heading to the site, which had been barricaded off.",
+          "Public Works is preparing for 24-hour operations, monitoring low-water crossings, dams, roadways, debris and traffic signals while staging barricades for potential road closures.",
+          "There are plenty of barricades built with the explicit goal of keeping certain types of artists from access ing those rooms."
+        ],
+        "web_examples": [
+          "Danenza fired the handgun from inside the home and barricaded himself inside, police said.",
+          "Police detained dozens of protesters and some opposition leaders heading to the site, which had been barricaded off.",
+          "Public Works is preparing for 24-hour operations, monitoring low-water crossings, dams, roadways, debris and traffic signals while staging barricades for potential road closures.",
+          "There are plenty of barricades built with the explicit goal of keeping certain types of artists from access ing those rooms."
+        ],
+        "synonym_discussion": "Synonyms of barricade\nRelevance\n\nVerb\n\nguard\n\nNoun\n\nfence\nbarrier\nwall\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "barricade": {
+          "synset": "roadblock.n.02",
+          "definition": "a barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.",
+          "examples": []
+        },
+        "bar": {
+          "synset": "barroom.n.01",
+          "definition": "a room or establishment where alcoholic drinks are served over a counter",
+          "examples": [
+            "he drowned his sorrows in whiskey at the bar"
+          ]
+        },
+        "stop": {
+          "synset": "stop.n.01",
+          "definition": "the event of something ending",
+          "examples": [
+            "it came to a stop at the bottom of the hill"
+          ]
+        },
+        "block": {
+          "synset": "block.n.01",
+          "definition": "a solid piece of something (usually having flat rectangular sides)",
+          "examples": [
+            "the pyramids were built with large stone blocks"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 129,
+      "group_name": "barter, swap, sub, swop",
+      "target_word": "barter",
+      "words": [
+        "barter",
+        "swap",
+        "sub",
+        "swop"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "barter 辨析组 (barter.v.01)",
+      "synset_definition": "exchange goods without involving money",
+      "merriam_webster": {
+        "definitions": [
+          "to trade by exchanging one commodity for another : to trade goods or services in exchange for other goods or services",
+          "to trade or exchange by or as if by bartering",
+          "the act or practice of trading goods or services for other goods or services : the act or practice of carrying on trade by bartering",
+          "goods or services that are traded for other goods or services : the thing given in exchange in bartering"
+        ],
+        "dictionary_examples": [
+          "Case in point, Musk share a shockingly sexist tweet last year claiming that women were designed to be captured or bartered as property.",
+          "In the second-season finale, some time after Aemond had killed Rhaenyra’s son Luke, Alicent arrives in secret to Dragonstone to barter Aegon’s life in exchange for peace, and safety in particular for her daughter (and Aegon’s wife) Helaena.",
+          "Farmers will also be able to report information about land that is rented out via barter or for free.",
+          "Like the Marrakech souks, Chatuchak is a full sensory experience of loud music, the smell of Thai street food and a buzzing, barter-friendly atmosphere."
+        ],
+        "web_examples": [
+          "Case in point, Musk share a shockingly sexist tweet last year claiming that women were designed to be captured or bartered as property.",
+          "In the second-season finale, some time after Aemond had killed Rhaenyra’s son Luke, Alicent arrives in secret to Dragonstone to barter Aegon’s life in exchange for peace, and safety in particular for her daughter (and Aegon’s wife) Helaena.",
+          "Farmers will also be able to report information about land that is rented out via barter or for free.",
+          "Like the Marrakech souks, Chatuchak is a full sensory experience of loud music, the smell of Thai street food and a buzzing, barter-friendly atmosphere."
+        ],
+        "synonym_discussion": "Synonyms of barter\nRelevance\n\nNoun\n\nexchange\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "barter": {
+          "synset": "barter.n.01",
+          "definition": "an equal exchange",
+          "examples": [
+            "we had no money so we had to live by barter"
+          ]
+        },
+        "swap": {
+          "synset": "barter.n.01",
+          "definition": "an equal exchange",
+          "examples": [
+            "we had no money so we had to live by barter"
+          ]
+        },
+        "sub": {
+          "synset": "bomber.n.03",
+          "definition": "a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States",
+          "examples": []
+        },
+        "swop": {
+          "synset": "barter.n.01",
+          "definition": "an equal exchange",
+          "examples": [
+            "we had no money so we had to live by barter"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 130,
+      "group_name": "bash, bop, whop, whap",
+      "target_word": "bash",
+      "words": [
+        "bash",
+        "bop",
+        "whop",
+        "whap"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bash 辨析组 (sock.v.01)",
+      "synset_definition": "hit hard",
+      "merriam_webster": {
+        "definitions": [
+          "to strike violently : HIT",
+          "to injure or damage by striking : SMASH",
+          "to attack physically or verbally",
+          "CRASH"
+        ],
+        "dictionary_examples": [
+          "During this conversation, Adam and Charles hear a creaking sound on the porch that ends up being Cathy with her head bashed in and gain another diversion point in their relationship.",
+          "Trump said, then took a detour to bash the practice of cashless bail, wondering aloud if that were part of the problem.",
+          "But for a few hours every year, the VMA bash is when MTV decides to cosplay as MTV for a night—and the Nineties glow of this year’s model made that clearer than ever.",
+          "The singer was throwing a bash to unveil his second collection for Dondup, where he was named creative director last May."
+        ],
+        "web_examples": [
+          "During this conversation, Adam and Charles hear a creaking sound on the porch that ends up being Cathy with her head bashed in and gain another diversion point in their relationship.",
+          "Trump said, then took a detour to bash the practice of cashless bail, wondering aloud if that were part of the problem.",
+          "But for a few hours every year, the VMA bash is when MTV decides to cosplay as MTV for a night—and the Nineties glow of this year’s model made that clearer than ever.",
+          "The singer was throwing a bash to unveil his second collection for Dondup, where he was named creative director last May."
+        ],
+        "synonym_discussion": "Synonyms of bash\nRelevance\n\nVerb\n\nbump\nslam\nbang\nsmash\ncollide\nhit\nknock\ncrash\nram\n\nNoun\n\nblow\nslap\nhit\nthump\npunch\nswipe\nknock\nwhack\nthud\npoke\npound\nslam\nbang\nsmack\nstroke\nspank\nlick\nbeat\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "bash": {
+          "synset": "knock.n.03",
+          "definition": "a vigorous blow",
+          "examples": [
+            "the sudden knock floored him",
+            "he took a bash right in his face"
+          ]
+        },
+        "bop": {
+          "synset": "federal_bureau_of_prisons.n.01",
+          "definition": "the law enforcement agency of the Justice Department that operates a nationwide system of prisons and detention facilities to incarcerate inmates sentenced to imprisonment for federal crimes",
+          "examples": []
+        },
+        "whop": {
+          "synset": "whack.v.01",
+          "definition": "hit hard",
+          "examples": [
+            "The teacher whacked the boy"
+          ]
+        },
+        "whap": {
+          "synset": "sock.v.01",
+          "definition": "hit hard",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 131,
+      "group_name": "aberrant, deviate, deviant, abnormal",
+      "target_word": "aberrant",
+      "words": [
+        "aberrant",
+        "deviate",
+        "deviant",
+        "abnormal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aberrant 辨析组 (aberrant.s.01)",
+      "synset_definition": "markedly different from an accepted norm",
+      "merriam_webster": {
+        "definitions": [
+          "deviating from the usual or natural type : ATYPICAL, ABNORMAL",
+          "straying from the right or normal way",
+          "a group, individual, or structure that is not normal or typical : an aberrant group, individual, or structure",
+          "a person whose behavior departs substantially from the standard"
+        ],
+        "dictionary_examples": [
+          "The stones, silvered in the moon's aberrant light, shone like spectral tombs, and the figures, which Dalgliesh knew were Helena, Lettie and the Bostocks, became discarnate shapes disappearing into the darkness.",
+          "… as if he had happily spied an aberrant crocus amid the wintry gray scene of Presidential impeachment.",
+          "… at the brief and aberrant moment in time when it was possible to believe that America owed its great place in the world to its military and moral virtue rather than to the weight of its currency.",
+          "For instance, Cruz referred to the popular assumption that the NIL era must be causing schools to cancel sports at historically aberrant rates.",
+          "Sabatini suggested to the jury there were possible explanations for that aberrant behavior without settling on a specific reason.",
+          "An adventure without a modicum of agenda, absent any aspirations, aberrant or apposite."
+        ],
+        "web_examples": [
+          "For instance, Cruz referred to the popular assumption that the NIL era must be causing schools to cancel sports at historically aberrant rates.",
+          "Sabatini suggested to the jury there were possible explanations for that aberrant behavior without settling on a specific reason.",
+          "An adventure without a modicum of agenda, absent any aspirations, aberrant or apposite."
+        ],
+        "synonym_discussion": "Synonyms of aberrant\nRelevance\n\nAdjective\n\nunusual\nextraordinary\nabnormal\nexceptional\nunique\nrare\nuncommon\nodd\noutstanding\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "aberrant": {
+          "synset": "aberrant.n.01",
+          "definition": "one whose behavior departs substantially from the norm of a group",
+          "examples": []
+        },
+        "deviate": {
+          "synset": "pervert.n.01",
+          "definition": "a person whose behavior deviates from what is acceptable especially in sexual behavior",
+          "examples": []
+        },
+        "deviant": {
+          "synset": "pervert.n.01",
+          "definition": "a person whose behavior deviates from what is acceptable especially in sexual behavior",
+          "examples": []
+        },
+        "abnormal": {
+          "synset": "abnormal.a.01",
+          "definition": "not normal; not typical or usual or regular or conforming to a norm",
+          "examples": [
+            "abnormal powers of concentration",
+            "abnormal amounts of rain"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 132,
+      "group_name": "abiding, lasting, enduring, permanent",
+      "target_word": "abiding",
+      "words": [
+        "abiding",
+        "lasting",
+        "enduring",
+        "permanent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abiding 辨析组 (abiding.s.01)",
+      "synset_definition": "unceasing",
+      "merriam_webster": {
+        "definitions": [
+          "continuing for a long time : ENDURING"
+        ],
+        "dictionary_examples": [
+          "Yet whatever the circumstances, the characters who populate her songs have an abiding and unshakable likability.",
+          "Though only married for a few years, their partnership feels seasoned, fortified by faith, ambition and an abiding sense of gratitude.",
+          "And civilians on both sides, despite a deep and abiding mistrust between the Catholic and Protestant communities, had also had enough.",
+          "This year’s Wimbledon, however, reawakened me to the abiding, fundamental connection between writers and tennis players."
+        ],
+        "web_examples": [
+          "Yet whatever the circumstances, the characters who populate her songs have an abiding and unshakable likability.",
+          "Though only married for a few years, their partnership feels seasoned, fortified by faith, ambition and an abiding sense of gratitude.",
+          "And civilians on both sides, despite a deep and abiding mistrust between the Catholic and Protestant communities, had also had enough.",
+          "This year’s Wimbledon, however, reawakened me to the abiding, fundamental connection between writers and tennis players."
+        ],
+        "synonym_discussion": "Synonyms of abiding\nRelevance\n\nAdjective\n\nenduring\nimmortal\nongoing\neternal\ncontinuing\nlasting\nperpetual\nperennial\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abiding": {
+          "synset": "bide.v.01",
+          "definition": "dwell",
+          "examples": [
+            "You can stay with me while you are in town",
+            "stay a bit longer--the day is still young"
+          ]
+        },
+        "lasting": {
+          "synset": "last.v.01",
+          "definition": "persist for a specified period of time",
+          "examples": [
+            "The bad weather lasted for three days"
+          ]
+        },
+        "enduring": {
+          "synset": "digest.v.03",
+          "definition": "put up with something or somebody unpleasant",
+          "examples": [
+            "I cannot bear his constant criticism",
+            "The new secretary had to endure a lot of unprofessional remarks"
+          ]
+        },
+        "permanent": {
+          "synset": "permanent_wave.n.01",
+          "definition": "a series of waves in the hair made by applying heat and chemicals",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 133,
+      "group_name": "abject, low, scummy, scurvy",
+      "target_word": "abject",
+      "words": [
+        "abject",
+        "low",
+        "scummy",
+        "scurvy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abject 辨析组 (abject.s.01)",
+      "synset_definition": "of the most contemptible kind",
+      "merriam_webster": {
+        "definitions": [
+          "sunk to or existing in a low state or condition : very bad or severe",
+          "cast down in spirit : SERVILE, SPIRITLESS",
+          "showing hopelessness or resignation",
+          "expressing or offered in a humble and often ingratiating spirit"
+        ],
+        "dictionary_examples": [
+          "mean and petty satire",
+          "an ignoble scramble after material possessions",
+          "abject poverty",
+          "a sordid story of murder and revenge",
+          "… the time would come that no human being should be humiliated or be made abject.",
+          "… my critical intelligence sometimes shrivels to an abject nodding of the head."
+        ],
+        "web_examples": [
+          "Tim, Devin and Reese, with the fourth, Lila, represented by the camera — are panicked, worried the strange-looking man is leading them to some abject horror.",
+          "Ancient Mesopotamians lived in abject fear of Lamashtu—for good reason.",
+          "The price for such an abject display is likely to have already been paid by the players.",
+          "But one price for all, a concept conceived by the Quakers, who believed that charging different prices to different people was morally abject, became commonplace."
+        ],
+        "synonym_discussion": "Synonyms of abject\nRelevance\nhumble\nservile\nmeek\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abject": {
+          "synset": "abject.s.01",
+          "definition": "of the most contemptible kind",
+          "examples": [
+            "abject cowardice",
+            "a low stunt to pull"
+          ]
+        },
+        "low": {
+          "synset": "low.n.01",
+          "definition": "an air mass of lower pressure; often brings precipitation",
+          "examples": [
+            "a low moved in over night bringing sleet and snow"
+          ]
+        },
+        "scummy": {
+          "synset": "abject.s.01",
+          "definition": "of the most contemptible kind",
+          "examples": [
+            "abject cowardice",
+            "a low stunt to pull"
+          ]
+        },
+        "scurvy": {
+          "synset": "scurvy.n.01",
+          "definition": "a condition caused by deficiency of ascorbic acid (vitamin C)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 134,
+      "group_name": "ablaze, aflame, aroused, passionate",
+      "target_word": "ablaze",
+      "words": [
+        "ablaze",
+        "aflame",
+        "aroused",
+        "passionate"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ablaze 辨析组 (ablaze.s.01)",
+      "synset_definition": "keenly excited (especially sexually) or indicating excitement; - Bram Stoker",
+      "merriam_webster": {
+        "definitions": [
+          "being on fire",
+          "radiant with light or emotion",
+          "being in a state of great excitement or energy",
+          "being on fire"
+        ],
+        "dictionary_examples": [
+          "The house was ablaze.",
+          "The sky was ablaze with color.",
+          "Her eyes were ablaze with anger.",
+          "Social media was ablaze with the news.",
+          "The headquarters of the National Democratic Party was set ablaze.",
+          "Paris — Students fought running battles with police and several schools were ablaze Friday as a new day of violence gripped France with no end in sight to protests that have rocked the country."
+        ],
+        "web_examples": [
+          "The headquarters of the National Democratic Party was set ablaze.",
+          "Paris — Students fought running battles with police and several schools were ablaze Friday as a new day of violence gripped France with no end in sight to protests that have rocked the country.",
+          "The titular musical is a recounting of the 9/11 terror attacks, with original music and cardboard Twin Towers ablaze.",
+          "All the while, social media was ablaze with rumors about the assault, including Ezukanma’s name."
+        ],
+        "synonym_discussion": "Synonyms of ablaze\nRelevance\nburning\nblazing\nflaming\naflame\nflickering\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ablaze": {
+          "synset": "ablaze.s.01",
+          "definition": "keenly excited (especially sexually) or indicating excitement; - Bram Stoker",
+          "examples": [
+            "his face all ablaze with excitement",
+            "he was aflame with desire"
+          ]
+        },
+        "aflame": {
+          "synset": "ablaze.s.01",
+          "definition": "keenly excited (especially sexually) or indicating excitement; - Bram Stoker",
+          "examples": [
+            "his face all ablaze with excitement",
+            "he was aflame with desire"
+          ]
+        },
+        "aroused": {
+          "synset": "arouse.v.01",
+          "definition": "call forth (emotions, feelings, and responses)",
+          "examples": [
+            "arouse pity",
+            "raise a smile"
+          ]
+        },
+        "passionate": {
+          "synset": "passionate.a.01",
+          "definition": "having or expressing strong emotions",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 135,
+      "group_name": "abominable, execrable, odious, hateful",
+      "target_word": "abominable",
+      "words": [
+        "abominable",
+        "execrable",
+        "odious",
+        "hateful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abominable 辨析组 (abominable.s.01)",
+      "synset_definition": "unequivocally detestable; ; ; ; - Edmund Burke",
+      "merriam_webster": {
+        "definitions": [
+          "worthy of or causing disgust or hatred : DETESTABLE",
+          "very bad or unpleasant",
+          "deserving or causing disgust : HATEFUL, DETESTABLE",
+          "quite disagreeable"
+        ],
+        "dictionary_examples": [
+          "No sooner had the Chiefs’ abominable 2025 season (6-11) come to an end, team president Mark Donovan said last month, than the organization pivoted to 2026.",
+          "That led to cycles of reform and renovation, as well as backlash, chiefly from cultural conservatives, who saw the adoption of western European habits and attitudes as abominable and even heretical.",
+          "Those who are at the club often seem either disinterested or go into their shells, contributing to an abominable home record at a stadium where opposing teams and fans usually have a great day out.",
+          "And would that really lower our appalling, outrageous, abominable electric bills?"
+        ],
+        "web_examples": [
+          "No sooner had the Chiefs’ abominable 2025 season (6-11) come to an end, team president Mark Donovan said last month, than the organization pivoted to 2026.",
+          "That led to cycles of reform and renovation, as well as backlash, chiefly from cultural conservatives, who saw the adoption of western European habits and attitudes as abominable and even heretical.",
+          "Those who are at the club often seem either disinterested or go into their shells, contributing to an abominable home record at a stadium where opposing teams and fans usually have a great day out.",
+          "And would that really lower our appalling, outrageous, abominable electric bills?"
+        ],
+        "synonym_discussion": "Synonyms of abominable\nRelevance\ndisgusting\nawful\nhorrible\nugly\nhideous\nsickening\nobnoxious\nobscene\ndreadful\nshocking\noffensive\nnasty\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abominable": {
+          "synset": "abominable.s.01",
+          "definition": "unequivocally detestable; ; ; ; - Edmund Burke",
+          "examples": [
+            "abominable treatment of prisoners",
+            "detestable vices"
+          ]
+        },
+        "execrable": {
+          "synset": "deplorable.s.02",
+          "definition": "of very poor quality or condition",
+          "examples": [
+            "deplorable housing conditions in the inner city",
+            "woeful treatment of the accused"
+          ]
+        },
+        "odious": {
+          "synset": "abominable.s.01",
+          "definition": "unequivocally detestable; ; ; ; - Edmund Burke",
+          "examples": [
+            "abominable treatment of prisoners",
+            "detestable vices"
+          ]
+        },
+        "hateful": {
+          "synset": "hateful.a.01",
+          "definition": "evoking or deserving hatred; - Joseph Priestly",
+          "examples": [
+            "no vice is universally as hateful as ingratitude"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 136,
+      "group_name": "aboveboard, square, straight, straightforward",
+      "target_word": "aboveboard",
+      "words": [
+        "aboveboard",
+        "square",
+        "straight",
+        "straightforward"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aboveboard 辨析组 (aboveboard.s.01)",
+      "synset_definition": "without concealment or deception; honest",
+      "merriam_webster": {
+        "definitions": [
+          "in a straightforward manner : OPENLY",
+          "free from all traces of deceit or duplicity",
+          "without concealment or deceit"
+        ],
+        "dictionary_examples": [
+          "But now that going legal is an option, legacy businesses like Buddy’s are being watched over by officials who hope to see the entire industry move aboveboard.",
+          "Live bands already perform at Catonsville establishments, and the bill will bring current practices aboveboard.",
+          "An ex-military man and engineer by profession, Tennessee explores new business opportunities with Rodney that aren’t exactly aboveboard.",
+          "Now that payments are aboveboard and Congress is getting involved, the former running back agrees with those who have suggested college football players have a union to negotiate on their behalf."
+        ],
+        "web_examples": [
+          "But now that going legal is an option, legacy businesses like Buddy’s are being watched over by officials who hope to see the entire industry move aboveboard.",
+          "Live bands already perform at Catonsville establishments, and the bill will bring current practices aboveboard.",
+          "An ex-military man and engineer by profession, Tennessee explores new business opportunities with Rodney that aren’t exactly aboveboard.",
+          "Now that payments are aboveboard and Congress is getting involved, the former running back agrees with those who have suggested college football players have a union to negotiate on their behalf."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aboveboard": {
+          "synset": "aboveboard.s.01",
+          "definition": "without concealment or deception; honest",
+          "examples": [
+            "their business was open and aboveboard",
+            "straightforward in all his business affairs"
+          ]
+        },
+        "square": {
+          "synset": "square.n.01",
+          "definition": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+          "examples": [
+            "you can compute the area of a square if you know the length of its sides"
+          ]
+        },
+        "straight": {
+          "synset": "heterosexual.n.01",
+          "definition": "a heterosexual person; someone having a sexual orientation to persons of the opposite sex",
+          "examples": []
+        },
+        "straightforward": {
+          "synset": "straightforward.s.01",
+          "definition": "free from ambiguity",
+          "examples": [
+            "a straightforward set of instructions"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 137,
+      "group_name": "abrasive, rough, unsmooth, scratchy",
+      "target_word": "abrasive",
+      "words": [
+        "abrasive",
+        "rough",
+        "unsmooth",
+        "scratchy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abrasive 辨析组 (abrasive.s.01)",
+      "synset_definition": "causing abrasion",
+      "merriam_webster": {
+        "definitions": [
+          "causing damage, wear, or removal of surface material by grinding or rubbing : tending to abrade",
+          "causing irritation",
+          "a substance (such as emery or pumice) used for abrading, smoothing, or polishing",
+          "having the effect of abrading"
+        ],
+        "dictionary_examples": [
+          "But the seeds are abrasive and, over time, wore down the foragers’ teeth so much that inner pulp chambers were exposed.",
+          "To me, Harry’s moves still feel a little too abrasive for these styles, but the judges eat up this exuberant jive.",
+          "Bar Keeper’s Friend is another mild abrasive but contains oxalic acid, which helps dissolve rust.",
+          "Dip a damp sponge in baking soda to act as a gentle abrasive and scrub the pan."
+        ],
+        "web_examples": [
+          "But the seeds are abrasive and, over time, wore down the foragers’ teeth so much that inner pulp chambers were exposed.",
+          "To me, Harry’s moves still feel a little too abrasive for these styles, but the judges eat up this exuberant jive.",
+          "Bar Keeper’s Friend is another mild abrasive but contains oxalic acid, which helps dissolve rust.",
+          "Dip a damp sponge in baking soda to act as a gentle abrasive and scrub the pan."
+        ],
+        "synonym_discussion": "Synonyms of abrasive\nRelevance\n\nAdjective\n\nannoying\nirritating\nfrustrating\ndisturbing\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abrasive": {
+          "synset": "abrasive.n.01",
+          "definition": "a substance that abrades or wears down",
+          "examples": []
+        },
+        "rough": {
+          "synset": "rough.n.01",
+          "definition": "the part of a golf course bordering the fairway where the grass is not cut short",
+          "examples": []
+        },
+        "unsmooth": {
+          "synset": "rough.a.01",
+          "definition": "having or caused by an irregular surface",
+          "examples": [
+            "trees with rough bark",
+            "rough ground"
+          ]
+        },
+        "scratchy": {
+          "synset": "abrasive.s.01",
+          "definition": "causing abrasion",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 138,
+      "group_name": "abusive, offensive, scurrilous, opprobrious",
+      "target_word": "abusive",
+      "words": [
+        "abusive",
+        "offensive",
+        "scurrilous",
+        "opprobrious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abusive 辨析组 (abusive.s.01)",
+      "synset_definition": "expressing offensive reproach",
+      "merriam_webster": {
+        "definitions": [
+          "using harsh, insulting language",
+          "harsh and insulting",
+          "using or involving physical violence or emotional cruelty",
+          "characterized by wrong or improper use or action"
+        ],
+        "dictionary_examples": [
+          "Livia’s sister-in-law invokes the poem when Livia learns, to her surprise, that her manipulative, abusive mother had been a frustrated musician.",
+          "Rating sites filled up with one-star scores, and the social media accounts of cast members drew abusive comments.",
+          "Ken Urker, the partner of Gypsy Rose Blanchard, who became the subject of intense media attention for her role in killing her abusive mother, has died.",
+          "His research interests include event system theory and workplace behaviors, especially proactive behaviors (such as creativity and citizenship), and counterproductive ones (such as turnover and abusive supervision)."
+        ],
+        "web_examples": [
+          "Livia’s sister-in-law invokes the poem when Livia learns, to her surprise, that her manipulative, abusive mother had been a frustrated musician.",
+          "Rating sites filled up with one-star scores, and the social media accounts of cast members drew abusive comments.",
+          "Ken Urker, the partner of Gypsy Rose Blanchard, who became the subject of intense media attention for her role in killing her abusive mother, has died.",
+          "His research interests include event system theory and workplace behaviors, especially proactive behaviors (such as creativity and citizenship), and counterproductive ones (such as turnover and abusive supervision)."
+        ],
+        "synonym_discussion": "Synonyms of abusive\nRelevance\ninsulting\noutrageous\nobscene\nvituperative\nmalicious\noffensive\nscurrilous\nvitriolic\nopprobrious\ninvective\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abusive": {
+          "synset": "abusive.s.01",
+          "definition": "expressing offensive reproach",
+          "examples": []
+        },
+        "offensive": {
+          "synset": "offense.n.05",
+          "definition": "the action of attacking an enemy",
+          "examples": []
+        },
+        "scurrilous": {
+          "synset": "abusive.s.01",
+          "definition": "expressing offensive reproach",
+          "examples": []
+        },
+        "opprobrious": {
+          "synset": "abusive.s.01",
+          "definition": "expressing offensive reproach",
+          "examples": []
+        }
+      }
+    }
+  ]
+}

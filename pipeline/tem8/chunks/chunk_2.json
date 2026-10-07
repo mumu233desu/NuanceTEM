@@ -1,0 +1,1581 @@
+{
+  "chunk_id": 2,
+  "theme_info": {
+    "chunk_id": 2,
+    "theme": "学术论证、方法论与批判性思维 (Academic Argumentation & Empiricism)",
+    "guidance": "题干应多出现同行评议、假说推翻、实验对照、数据偏差、论点驳斥等学术期刊摘要级长难句。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 47,
+      "group_name": "infringe, transgress, violate, contravene",
+      "target_word": "infringe",
+      "words": [
+        "infringe",
+        "transgress",
+        "violate",
+        "contravene"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "infringe 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to encroach upon in a way that violates law or the rights of another",
+          "DEFEAT, FRUSTRATE",
+          "ENCROACH",
+          "to fail to obey or act in agreement with : VIOLATE"
+        ],
+        "dictionary_examples": [
+          "infringe on our rights",
+          "hunters trespassing on farmland",
+          "the encroaching settlers displacing the native peoples",
+          "infringing a copyright",
+          "accused of invading their privacy",
+          "The companies also argue that these lawsuits infringe on the federal government’s exclusive authority over foreign affairs."
+        ],
+        "web_examples": [
+          "The companies also argue that these lawsuits infringe on the federal government’s exclusive authority over foreign affairs.",
+          "The court also ordered that Lidl must cease offering all of the infringing sandals in the Netherlands, subject to a penalty of 5,000 euros per day of non-compliance.",
+          "Kelly did not address the question of whether the White House’s yanking of press access to CNN, MS NOW and Politico infringed their First Amendment rights.",
+          "Lawyers argued that the law infringes on the daycare’s right to protect their kids and direct their upbringing, as well as the freedom to associate with those who have similar public health beliefs, according to previous Idaho Statesman reporting."
+        ],
+        "synonym_discussion": "Synonyms of infringe\nRelevance\nviolate\nbreak\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "infringe": {
+          "synset": "conflict.v.02",
+          "definition": "go against, as of rules and laws",
+          "examples": [
+            "He ran afoul of the law",
+            "This behavior conflicts with our rules"
+          ]
+        },
+        "transgress": {
+          "synset": "transgress.v.01",
+          "definition": "act in disregard of laws, rules, contracts, or promises",
+          "examples": [
+            "offend all laws of humanity",
+            "violate the basic laws or human civilization"
+          ]
+        },
+        "violate": {
+          "synset": "violate.v.01",
+          "definition": "fail to agree with; be in violation of; as of rules or patterns",
+          "examples": [
+            "This sentence violates the rules of syntax"
+          ]
+        },
+        "contravene": {
+          "synset": "conflict.v.02",
+          "definition": "go against, as of rules and laws",
+          "examples": [
+            "He ran afoul of the law",
+            "This behavior conflicts with our rules"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 48,
+      "group_name": "alienate, estrange, disaffect, separate",
+      "target_word": "alienate",
+      "words": [
+        "alienate",
+        "estrange",
+        "disaffect",
+        "separate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "alienate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to cause to be estranged : to make unfriendly, hostile, or indifferent especially where attachment formerly existed",
+          "to convey or transfer (something, such as property or a right) usually by a specific act (as a sale) rather than the due course of law (as by descent)",
+          "to cause to be withdrawn or diverted",
+          "to transfer (as a title, property, or right) to another"
+        ],
+        "dictionary_examples": [
+          "his estranged wife",
+          "managed to alienate all his coworkers",
+          "troops disaffected by hunger",
+          "We will also be pulled into a collective remembrance of societal traumas that bond us to certain people and alienate us from others.",
+          "Amid lagging sales, retailers marked down the figurines, alienating collectors who want to see items appreciate in value.",
+          "But Chadbourne, who regularly attends rallies in support of girls having their own spaces, will tell you that the Democrats are alienating their own constituents."
+        ],
+        "web_examples": [
+          "We will also be pulled into a collective remembrance of societal traumas that bond us to certain people and alienate us from others.",
+          "Amid lagging sales, retailers marked down the figurines, alienating collectors who want to see items appreciate in value.",
+          "But Chadbourne, who regularly attends rallies in support of girls having their own spaces, will tell you that the Democrats are alienating their own constituents.",
+          "These views have already alienated some members of the HELP Committee."
+        ],
+        "synonym_discussion": "Synonyms of alienate\nRelevance\ninfuriate\nanger\nestrange\nenrage\nannoy\nalien\noutrage\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alienate": {
+          "synset": "estrange.v.02",
+          "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+          "examples": [
+            "She alienated her friends when she became fanatically religious"
+          ]
+        },
+        "estrange": {
+          "synset": "estrange.v.01",
+          "definition": "remove from customary environment or associations",
+          "examples": [
+            "years of boarding school estranged the child from her home"
+          ]
+        },
+        "disaffect": {
+          "synset": "estrange.v.02",
+          "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+          "examples": [
+            "She alienated her friends when she became fanatically religious"
+          ]
+        },
+        "separate": {
+          "synset": "offprint.n.01",
+          "definition": "a separately printed article that originally appeared in a larger publication",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 49,
+      "group_name": "subjugate, vanquish, subdue, conquer",
+      "target_word": "subjugate",
+      "words": [
+        "subjugate",
+        "vanquish",
+        "subdue",
+        "conquer"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "subjugate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to bring under control and governance as a subject : CONQUER",
+          "to make submissive : SUBDUE",
+          "to bring under control and rule as a subject : CONQUER",
+          "to make willing to submit to others : SUBDUE"
+        ],
+        "dictionary_examples": [
+          "For years, Putin has been ideologically committed to subjugating all of Ukraine, attacking and reattacking the country in order to control all of it.",
+          "The ruling was widely seen by progressives as subjugating the role of the individual in the election process to that of the corporation.",
+          "More generally, the movie, directed by Elegance Bratton, is about the historical context of this murder, the conscious and organized effort by white Southern citizens and officials to intimidate, persecute, and subjugate Black people.",
+          "In fact, in this retelling, their free will and autonomy are essential elements of that virtuous cycle, rather than subjugated by it."
+        ],
+        "web_examples": [
+          "For years, Putin has been ideologically committed to subjugating all of Ukraine, attacking and reattacking the country in order to control all of it.",
+          "The ruling was widely seen by progressives as subjugating the role of the individual in the election process to that of the corporation.",
+          "More generally, the movie, directed by Elegance Bratton, is about the historical context of this murder, the conscious and organized effort by white Southern citizens and officials to intimidate, persecute, and subjugate Black people.",
+          "In fact, in this retelling, their free will and autonomy are essential elements of that virtuous cycle, rather than subjugated by it."
+        ],
+        "synonym_discussion": "Synonyms of subjugate\nRelevance\nsubdue\ndominate\nconquer\nsubject\ndefeat\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "subjugate": {
+          "synset": "repress.v.01",
+          "definition": "put down by force or intimidation",
+          "examples": [
+            "The government quashes any attempt of an uprising",
+            "China keeps down her dissidents very efficiently"
+          ]
+        },
+        "vanquish": {
+          "synset": "beat.v.01",
+          "definition": "come out better in a competition, race, or conflict",
+          "examples": [
+            "Agassi beat Becker in the tennis championship",
+            "We beat the competition"
+          ]
+        },
+        "subdue": {
+          "synset": "repress.v.01",
+          "definition": "put down by force or intimidation",
+          "examples": [
+            "The government quashes any attempt of an uprising",
+            "China keeps down her dissidents very efficiently"
+          ]
+        },
+        "conquer": {
+          "synset": "suppress.v.01",
+          "definition": "to put down by force or authority",
+          "examples": [
+            "suppress a nascent uprising",
+            "stamp down on littering"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 50,
+      "group_name": "usurp, arrogate, appropriate, seize",
+      "target_word": "usurp",
+      "words": [
+        "usurp",
+        "arrogate",
+        "appropriate",
+        "seize"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "usurp 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to seize and hold (office, place, functions, powers, etc.) in possession by force or without right",
+          "to take or make use of without right",
+          "to take the place of by or as if by force : SUPPLANT",
+          "to seize or exercise authority or possession wrongfully"
+        ],
+        "dictionary_examples": [
+          "Murray said that in recent spending negotiations, Democrats fought to include language to prevent the administration from usurping Congress’ power on spending decisions, but Republicans have declined to go along.",
+          "The Founders never intended for the federal government to usurp the authority of your local school board or your homeowners’ association.",
+          "Just Keenan could usurp Maher, and after a furtive hug of her horse’s neck before the starting bell, the 29-year-old certainly tried.",
+          "Jason Speaking of football-loving families, the Kelces seem to have usurped the Mannings for the sport’s first family."
+        ],
+        "web_examples": [
+          "Murray said that in recent spending negotiations, Democrats fought to include language to prevent the administration from usurping Congress’ power on spending decisions, but Republicans have declined to go along.",
+          "The Founders never intended for the federal government to usurp the authority of your local school board or your homeowners’ association.",
+          "Just Keenan could usurp Maher, and after a furtive hug of her horse’s neck before the starting bell, the 29-year-old certainly tried.",
+          "Jason Speaking of football-loving families, the Kelces seem to have usurped the Mannings for the sport’s first family."
+        ],
+        "synonym_discussion": "Synonyms of usurp\nRelevance\nseize\nconfiscate\nsteal\ngrab\noccupy\nconvert\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "usurp": {
+          "synset": "assume.v.06",
+          "definition": "seize and take control without authority and possibly with force; take as one's right or possession",
+          "examples": [
+            "He assumed to himself the right to fill all positions in the town",
+            "he usurped my rights"
+          ]
+        },
+        "arrogate": {
+          "synset": "claim.v.02",
+          "definition": "demand as being one's due or property; assert one's right or title to",
+          "examples": [
+            "He claimed his suitcases at the airline counter",
+            "Mr. Smith claims special tax exemptions because he is a foreign resident"
+          ]
+        },
+        "appropriate": {
+          "synset": "allow.v.04",
+          "definition": "give or assign a resource to a particular person or cause",
+          "examples": [
+            "I will earmark this money for your research",
+            "She sets aside time for meditation every day"
+          ]
+        },
+        "seize": {
+          "synset": "seize.v.01",
+          "definition": "take hold of; grab",
+          "examples": [
+            "The sales clerk quickly seized the money on the counter",
+            "She clutched her purse"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 51,
+      "group_name": "evanescent, ephemeral, transient, fleeting",
+      "target_word": "evanescent",
+      "words": [
+        "evanescent",
+        "ephemeral",
+        "transient",
+        "fleeting"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "evanescent 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "tending to vanish like vapor",
+          "tending to vanish like vapor : not lasting",
+          "tending to disappear quickly : of relatively short duration"
+        ],
+        "dictionary_examples": [
+          "a hotel catering primarily to transient guests",
+          "fame in the movies is transitory",
+          "many slang words are ephemeral",
+          "my feelings of guilt were only momentary",
+          "let a fugitive smile flit across his face",
+          "fleeting moments of joy"
+        ],
+        "web_examples": [
+          "Still, this is evanescent stuff, hardly weighty enough to get mad about with respect to the aforementioned problematic areas.",
+          "The benefits of being a statesman, analysts say, can be evanescent if domestic woes keep piling up.",
+          "The finished product is bright and evanescent, sweet but not too sweet, celebratory, fun, and delicious.",
+          "Sketches and blackouts are often evanescent, like an idea sketched on a cocktail napkin; some last only a few seconds yet might have been fiendishly complicated to prepare and execute."
+        ],
+        "synonym_discussion": "Synonyms of evanescent\nRelevance\nflash\nbrief\ntemporary\ntransient\npassing\nfleeting\nephemeral\ntransitory\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "evanescent": {
+          "synset": "evanescent.s.01",
+          "definition": "tending to vanish like vapor",
+          "examples": [
+            "evanescent beauty"
+          ]
+        },
+        "ephemeral": {
+          "synset": "ephemeron.n.01",
+          "definition": "anything short-lived, as an insect that lives only for a day in its winged form",
+          "examples": []
+        },
+        "transient": {
+          "synset": "transient.n.01",
+          "definition": "one who stays for only a short time",
+          "examples": [
+            "transient laborers"
+          ]
+        },
+        "fleeting": {
+          "synset": "flit.v.01",
+          "definition": "move along rapidly and lightly; skim or dart",
+          "examples": [
+            "The hummingbird flitted among the branches"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 52,
+      "group_name": "capricious, mercurial, volatile, erratic",
+      "target_word": "capricious",
+      "words": [
+        "capricious",
+        "mercurial",
+        "volatile",
+        "erratic"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "capricious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "governed or characterized by sudden irrational and unpredictable impulses or whims : IMPULSIVE",
+          "UNPREDICTABLE, ERRATIC",
+          "not supported by the weight of evidence or established rules of law",
+          "moved or controlled by caprice : apt to change suddenly"
+        ],
+        "dictionary_examples": [
+          "an inconstant friend",
+          "performers discover how fickle fans can be",
+          "an utterly capricious critic",
+          "made anxious by her boss's mercurial temperament",
+          "too unstable to hold a job",
+          "… every balloon voyage is a race between capricious winds and the amount of fuel on board."
+        ],
+        "web_examples": [
+          "Instead, rather than risking extinction at the capricious will of AI, humanity will benefit enormously from AI’s ability to self-optimize.",
+          "Meanwhile, Leigh—intellectual, magnetic, and capricious—went to finishing school before marrying a stolid, stable lawyer named Herbert Leigh Holman in 1932.",
+          "In the capricious luxury sector, Hermès has a reputation for steady thinking.",
+          "That, in turn, might leave Seoul exposed to its capricious northern neighbor, which has its own takeaways from the Iran war."
+        ],
+        "synonym_discussion": "Synonyms of capricious\nRelevance\nvolatile\nunpredictable\nchangeful\ninconsistent\nunstable\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "capricious": {
+          "synset": "capricious.s.01",
+          "definition": "changeable",
+          "examples": [
+            "a capricious summer breeze",
+            "freakish weather"
+          ]
+        },
+        "mercurial": {
+          "synset": "erratic.s.01",
+          "definition": "liable to sudden unpredictable change",
+          "examples": [
+            "erratic behavior",
+            "fickle weather"
+          ]
+        },
+        "volatile": {
+          "synset": "volatile.n.01",
+          "definition": "a volatile substance; a substance that changes readily from solid or liquid to a vapor",
+          "examples": [
+            "it was heated to evaporate the volatiles"
+          ]
+        },
+        "erratic": {
+          "synset": "erratic.s.01",
+          "definition": "liable to sudden unpredictable change",
+          "examples": [
+            "erratic behavior",
+            "fickle weather"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 53,
+      "group_name": "pervasive, ubiquitous, omnipresent, prevalent",
+      "target_word": "pervasive",
+      "words": [
+        "pervasive",
+        "ubiquitous",
+        "omnipresent",
+        "prevalent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "pervasive 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "existing in or spreading through every part of something",
+          "spread throughout so thoroughly as to be seen or felt everywhere"
+        ],
+        "dictionary_examples": [
+          "A resuscitated orthodoxy, so pervasive as to be nearly invisible, rules the land.",
+          "The manic money-grab excitement of the Nineties had never been altogether free of our pervasive American guilt.",
+          "Race was never articulated as an issue at the trial, even though its presence was pervasive.",
+          "Meta owns Instagram, Facebook and WhatsApp, and its pervasive internet presence — along with the app’s relatively easy interface — largely drove the AI agent’s success.",
+          "And despite the pervasive use of AI as a tool throughout the competition, its only contribution to the winning team was to write an upload script.",
+          "The upcoming elections, like most elections in Russia, will take place under a climate of pervasive fear and manipulation, not the freedom to exercise a democratic right, according to critics."
+        ],
+        "web_examples": [
+          "Meta owns Instagram, Facebook and WhatsApp, and its pervasive internet presence — along with the app’s relatively easy interface — largely drove the AI agent’s success.",
+          "And despite the pervasive use of AI as a tool throughout the competition, its only contribution to the winning team was to write an upload script.",
+          "The upcoming elections, like most elections in Russia, will take place under a climate of pervasive fear and manipulation, not the freedom to exercise a democratic right, according to critics.",
+          "The argument that our existing laws are inadequate in the face of progress is so pervasive in the tech industry, breaking rules is basically a strategy."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "pervasive": {
+          "synset": "permeant.s.01",
+          "definition": "spreading or spread throughout",
+          "examples": [
+            "armed with permeative irony...he punctures affectations",
+            "the pervasive odor of garlic"
+          ]
+        },
+        "ubiquitous": {
+          "synset": "omnipresent.s.01",
+          "definition": "being present everywhere at once",
+          "examples": []
+        },
+        "omnipresent": {
+          "synset": "omnipresent.s.01",
+          "definition": "being present everywhere at once",
+          "examples": []
+        },
+        "prevalent": {
+          "synset": "prevailing.s.01",
+          "definition": "most frequent or common",
+          "examples": [
+            "prevailing winds"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 54,
+      "group_name": "perennial, interminable, perpetual, incessant",
+      "target_word": "perennial",
+      "words": [
+        "perennial",
+        "interminable",
+        "perpetual",
+        "incessant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "perennial 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "present at all seasons of the year",
+          "persisting for several years usually with new herbaceous growth from a perennating part",
+          "PERSISTENT, ENDURING",
+          "continuing without interruption : CONSTANT, PERPETUAL"
+        ],
+        "dictionary_examples": [
+          "continual showers the whole weekend",
+          "football's oldest continuous rivalry",
+          "lived in constant pain",
+          "annoyed by the incessant quarreling",
+          "a land of perpetual snowfall",
+          "a perennial source of controversy"
+        ],
+        "web_examples": [
+          "Like many bulbs, lilies store nutrients in their bulbs over winter, so pruning too early can reduce next year’s blooms of these perennial flowers.",
+          "The Florida Panthers became perennial Stanley Cup contenders since Maurice’s arrival as head coach, reaching the Cup Final each of his first three years and winning it all in 2024 and 2025.",
+          "And both previously-unbeaten DeLand and perennial power Tampa Plant had the Rams on the edge of defeat in Saturday’s marquee matches in the inaugural Sunshine State Invitational at Oviedo High School.",
+          "In fact, until the end, the fans treated it like a typical late-season Sun game from years past, when the franchise was a perennial playoff contender, cheering, chanting, getting after the refs at all the right moments."
+        ],
+        "synonym_discussion": "Synonyms of perennial\nRelevance\nenduring\nongoing\nimmortal\neternal\nperpetual\ncontinuing\nlasting\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "perennial": {
+          "synset": "perennial.n.01",
+          "definition": "(botany) a plant lasting for three seasons or more",
+          "examples": []
+        },
+        "interminable": {
+          "synset": "endless.s.01",
+          "definition": "tiresomely long; seemingly without end",
+          "examples": [
+            "endless debates",
+            "an endless conversation"
+          ]
+        },
+        "perpetual": {
+          "synset": "ageless.s.01",
+          "definition": "continuing forever or indefinitely",
+          "examples": [
+            "the ageless themes of love and revenge",
+            "eternal truths"
+          ]
+        },
+        "incessant": {
+          "synset": "ceaseless.s.01",
+          "definition": "uninterrupted in time and indefinitely long continuing",
+          "examples": [
+            "the ceaseless thunder of surf",
+            "in constant pain"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 55,
+      "group_name": "sporadic, intermittent, periodic, fitful",
+      "target_word": "sporadic",
+      "words": [
+        "sporadic",
+        "intermittent",
+        "periodic",
+        "fitful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sporadic 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "occurring occasionally, singly, or in irregular or random instances",
+          "occurring or done now and then",
+          "occurring occasionally, singly, or in scattered instances",
+          "compare endemic, epidemic sense 1"
+        ],
+        "dictionary_examples": [
+          "infrequent family visits",
+          "smallpox is now uncommon in many countries",
+          "jobs were scarce during the Depression",
+          "rare first editions",
+          "sporadic cases of influenza",
+          "I left Madras twenty years ago. Two marriages and three children later I am a different man from the one who left. My return visits have been sporadic. But there is great delight in a homecoming."
+        ],
+        "web_examples": [
+          "Foreigners have also experienced sporadic outbursts of xenophobic violence.",
+          "Others look further back to early and sporadic insurgent activity in 1964, before the UDI, or to 1965, the year of the UDI (November 11) itself.",
+          "Pisces, the lakeside seafood restaurant, gives you a front-row seat at the Lake of Dreams and its sporadic and fun evening shows.",
+          "In the 1980s teams of mathematicians around the world unearthed the polynomials corresponding to 25 of the 26 sporadic groups—but not M23."
+        ],
+        "synonym_discussion": "Synonyms of sporadic\nRelevance\noccasional\nintermittent\nerratic\nsudden\nirregular\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "sporadic": {
+          "synset": "sporadic.a.01",
+          "definition": "recurring in scattered and irregular or unpredictable instances",
+          "examples": [
+            "a city subjected to sporadic bombing raids"
+          ]
+        },
+        "intermittent": {
+          "synset": "intermittent.s.01",
+          "definition": "stopping and starting at irregular intervals",
+          "examples": [
+            "intermittent rain showers"
+          ]
+        },
+        "periodic": {
+          "synset": "periodic.a.01",
+          "definition": "happening or recurring at regular intervals",
+          "examples": [
+            "the periodic appearance of the seventeen-year locust"
+          ]
+        },
+        "fitful": {
+          "synset": "fitful.s.01",
+          "definition": "occurring in spells and often abruptly",
+          "examples": [
+            "fitful bursts of energy",
+            "spasmodic rifle fire"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 56,
+      "group_name": "salubrious, wholesome, healthy, salutary",
+      "target_word": "salubrious",
+      "words": [
+        "salubrious",
+        "wholesome",
+        "healthy",
+        "salutary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "salubrious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "favorable to or promoting health or well-being",
+          "favorable to health",
+          "favorable to or promoting health or well-being"
+        ],
+        "dictionary_examples": [
+          "a healthful diet",
+          "wholesome foods",
+          "the movie is wholesome family entertainment",
+          "cool and salubrious weather",
+          "a salutary warning that resulted in increased production",
+          "Rich in sodium chloride, bromine and iodine, the salubrious streams that bubble up from the depths of the lake now feed the SPA & Thermal Garden (previously known as Aquaria) complex, with infinity pools overlooking the waterbody."
+        ],
+        "web_examples": [
+          "Rich in sodium chloride, bromine and iodine, the salubrious streams that bubble up from the depths of the lake now feed the SPA & Thermal Garden (previously known as Aquaria) complex, with infinity pools overlooking the waterbody.",
+          "The Austrian Southern Railway Company managers’ masterstroke was to promote Opatija as a spa town no less salubrious—and no less glamorous—than Nice, the prime destination for convalescents in the age of tuberculosis.",
+          "By then, the salubrious environment that Central Florida’s earliest settlers found had already been transformed many times over.",
+          "Since its 2017 inception on the doorstep of Rwanda’s Volcanoes National Park, bucket-listers and Hollywood A-listers (allegedly) have flocked to this most salubrious of base camps for gorilla trekking."
+        ],
+        "synonym_discussion": "Synonyms of salubrious\nRelevance\nhealthy\ngood\nmedicinal\nhealthful\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "salubrious": {
+          "synset": "healthy.s.03",
+          "definition": "promoting health; healthful; ; ; ; ; - C.B.Davis",
+          "examples": [
+            "a healthy diet",
+            "clean healthy air"
+          ]
+        },
+        "wholesome": {
+          "synset": "wholesome.a.01",
+          "definition": "conducive to or characteristic of physical or moral well-being",
+          "examples": [
+            "wholesome attitude",
+            "wholesome appearance"
+          ]
+        },
+        "healthy": {
+          "synset": "healthy.a.01",
+          "definition": "having or indicating good health in body or mind; free from infirmity or disease",
+          "examples": [
+            "a rosy healthy baby",
+            "staying fit and healthy"
+          ]
+        },
+        "salutary": {
+          "synset": "good.s.18",
+          "definition": "tending to promote physical well-being; beneficial to health",
+          "examples": [
+            "beneficial effects of a balanced diet",
+            "a good night's sleep"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 57,
+      "group_name": "deleterious, detrimental, pernicious, noxious",
+      "target_word": "deleterious",
+      "words": [
+        "deleterious",
+        "detrimental",
+        "pernicious",
+        "noxious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "deleterious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "harmful often in a subtle or unexpected way",
+          "HARMFUL, NOXIOUS",
+          "harmful often in a subtle or an unexpected way"
+        ],
+        "dictionary_examples": [
+          "the claim that pornography has a pernicious effect on society",
+          "the baneful notion that discipline destroys creativity",
+          "noxious chemical fumes",
+          "a diet found to have deleterious effects",
+          "the detrimental effects of excessive drinking",
+          "In developing countries, the imposition of boundaries around national parks and protected areas has been deleterious for both people and wildlife."
+        ],
+        "web_examples": [
+          "The backlash against this perfectly reasonable post demonstrates the deleterious effect of mass immigration on our democratic system.",
+          "During this time, bogs, marshes, and other wetlands, historically seen as disease-ridden and deleterious to human health, were reevaluated by scientists and conservationists as valuable wildlife habitats.",
+          "The effects of this are going to be really deleterious to this whole thing.",
+          "The quickest way to artificially boost a company’s stock price is to slash R&D, gut capex, and initiate massive share buybacks, often with deleterious long-term consequences."
+        ],
+        "synonym_discussion": "Synonyms of deleterious\nRelevance\nharmful\ndetrimental\nadverse\ndamaging\ndangerous\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "deleterious": {
+          "synset": "deleterious.s.01",
+          "definition": "harmful to living things",
+          "examples": [
+            "deleterious chemical additives"
+          ]
+        },
+        "detrimental": {
+          "synset": "damaging.s.01",
+          "definition": "(sometimes followed by `to') causing harm or injury",
+          "examples": [
+            "damaging to career and reputation",
+            "the reporter's coverage resulted in prejudicial publicity for the defendant"
+          ]
+        },
+        "pernicious": {
+          "synset": "baneful.s.01",
+          "definition": "exceedingly harmful",
+          "examples": []
+        },
+        "noxious": {
+          "synset": "noxious.a.01",
+          "definition": "injurious to physical or mental health",
+          "examples": [
+            "noxious chemical wastes",
+            "noxious ideas"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 58,
+      "group_name": "pell-mell, chaotic, tumultuous, turbulent",
+      "target_word": "pell-mell",
+      "words": [
+        "pell-mell",
+        "chaotic",
+        "tumultuous",
+        "turbulent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pell-mell 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "in mingled confusion or disorder",
+          "in confused haste",
+          "in confusion or disorder",
+          "in great haste"
+        ],
+        "dictionary_examples": [
+          "What was pell-mell and excited becomes thoughtful and decorous.",
+          "The first act has a visceral, terrifying sequence with panicky close-ups of extras sprinting pell-mell toward the car.",
+          "In a desperate attempt to avoid getting their fingers caught in the cookie jar, there is a pell-mell sprint toward finding a watermark removal app that can yank out the digital watermarks.",
+          "The sight of Musk swinging a chainsaw onstage at a conservative conference captured the pell-mell approach, not to mention the brutality, of the billionaire’s plan to bring the federal government to heel."
+        ],
+        "web_examples": [
+          "What was pell-mell and excited becomes thoughtful and decorous.",
+          "The first act has a visceral, terrifying sequence with panicky close-ups of extras sprinting pell-mell toward the car.",
+          "In a desperate attempt to avoid getting their fingers caught in the cookie jar, there is a pell-mell sprint toward finding a watermark removal app that can yank out the digital watermarks.",
+          "The sight of Musk swinging a chainsaw onstage at a conservative conference captured the pell-mell approach, not to mention the brutality, of the billionaire’s plan to bring the federal government to heel."
+        ],
+        "synonym_discussion": "Synonyms of pell-mell\nRelevance\nfrantically\nwildly\nwild\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "pell-mell": {
+          "synset": "helter-skelter.s.02",
+          "definition": "with undue hurry and confusion",
+          "examples": [
+            "a helter-skelter kind of existence with never a pause",
+            "a pell-mell dash for the train"
+          ]
+        },
+        "chaotic": {
+          "synset": "chaotic.s.01",
+          "definition": "lacking a visible order or organization",
+          "examples": []
+        },
+        "tumultuous": {
+          "synset": "disruptive.s.01",
+          "definition": "characterized by unrest or disorder or insubordination",
+          "examples": [
+            "effects of the struggle will be violent and disruptive",
+            "riotous times"
+          ]
+        },
+        "turbulent": {
+          "synset": "disruptive.s.01",
+          "definition": "characterized by unrest or disorder or insubordination",
+          "examples": [
+            "effects of the struggle will be violent and disruptive",
+            "riotous times"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 59,
+      "group_name": "immutable, unalterable, inexorable, inflexible",
+      "target_word": "immutable",
+      "words": [
+        "immutable",
+        "unalterable",
+        "inexorable",
+        "inflexible"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "immutable 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "not capable of or susceptible to change",
+          "impossible to change"
+        ],
+        "dictionary_examples": [
+          "In none of these cases could a backup be considered absolutely immutable.",
+          "Blockchain, despite being popularly associated with cryptocurrency, can be applied to any industry, especially with its technology, which makes the input data immutable.",
+          "Their interest isn’t a token to be spent on me or somebody else, but rather a more immutable quality that led them to my book and hopefully many more books to come.",
+          "As a beekeeper, you are also granted a glimpse into a society radically unlike our own, a world of harmony where each bee has its own immutable function."
+        ],
+        "web_examples": [
+          "In none of these cases could a backup be considered absolutely immutable.",
+          "Blockchain, despite being popularly associated with cryptocurrency, can be applied to any industry, especially with its technology, which makes the input data immutable.",
+          "Their interest isn’t a token to be spent on me or somebody else, but rather a more immutable quality that led them to my book and hopefully many more books to come.",
+          "As a beekeeper, you are also granted a glimpse into a society radically unlike our own, a world of harmony where each bee has its own immutable function."
+        ],
+        "synonym_discussion": "Synonyms of immutable\nRelevance\nunchangeable\nunchanging\nfixed\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "immutable": {
+          "synset": "immutable.a.01",
+          "definition": "not subject or susceptible to change or variation in form or quality or nature",
+          "examples": [
+            "the view of that time was that all species were immutable, created by God"
+          ]
+        },
+        "unalterable": {
+          "synset": "unalterable.a.01",
+          "definition": "not capable of being changed or altered",
+          "examples": [
+            "unalterable resolve",
+            "an unalterable ground rule"
+          ]
+        },
+        "inexorable": {
+          "synset": "grim.s.01",
+          "definition": "not to be placated or appeased or moved by entreaty",
+          "examples": [
+            "grim determination",
+            "grim necessity"
+          ]
+        },
+        "inflexible": {
+          "synset": "inflexible.a.01",
+          "definition": "incapable of change",
+          "examples": [
+            "a man of inflexible purpose"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 60,
+      "group_name": "insidious, treacherous, stealthy, surreptitious",
+      "target_word": "insidious",
+      "words": [
+        "insidious",
+        "treacherous",
+        "stealthy",
+        "surreptitious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "insidious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "causing harm in a way that is gradual or not easily noticed",
+          "having a gradual and cumulative negative effect",
+          "developing so gradually as to be well established before becoming apparent",
+          "awaiting a chance to entrap : TREACHEROUS"
+        ],
+        "dictionary_examples": [
+          "But the litigation is also prompting a subtle and insidious change in the way that medicine is practiced, which affects anyone who consults a health professional, even if they would not dream of setting foot in a lawyer's office. It is known as \"defensive medicine.\"",
+          "Spin is sometimes dismissed as a simple euphemism for lying. But it's actually something more insidious: indifference to the truth.",
+          "As these boats aged and bedding compounds deteriorated, the water torture began, which led to rot, corrosion, and other insidious problems.",
+          "Perhaps most controversial and, some say, the most insidious of all, is the growing adoption of digital tipping and tipping culture in general across France.",
+          "Given the chance to go big with his take on insidious zealotry, the Harold & Kumar star is both charming and gargantuan.",
+          "For The Times) New research in California’s San Joaquin Valley finds valley fever fungus thriving in urban areas in rodent burrows, revealing a wider, more insidious footprint."
+        ],
+        "web_examples": [
+          "Perhaps most controversial and, some say, the most insidious of all, is the growing adoption of digital tipping and tipping culture in general across France.",
+          "Given the chance to go big with his take on insidious zealotry, the Harold & Kumar star is both charming and gargantuan.",
+          "For The Times) New research in California’s San Joaquin Valley finds valley fever fungus thriving in urban areas in rodent burrows, revealing a wider, more insidious footprint.",
+          "Duckworth also faced backlash from critics who argued that her message was, at best, a series of hollow exhortations to simply try harder and, at worst, an insidious form of victim-blaming that ignored structural inequality."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "insidious": {
+          "synset": "insidious.s.01",
+          "definition": "beguiling but harmful",
+          "examples": [
+            "insidious pleasures"
+          ]
+        },
+        "treacherous": {
+          "synset": "treacherous.s.01",
+          "definition": "dangerously unstable and unpredictable",
+          "examples": [
+            "treacherous winding roads",
+            "an unreliable trestle"
+          ]
+        },
+        "stealthy": {
+          "synset": "furtive.s.01",
+          "definition": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+          "examples": [
+            "a furtive manner",
+            "a sneak attack"
+          ]
+        },
+        "surreptitious": {
+          "synset": "furtive.s.01",
+          "definition": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+          "examples": [
+            "a furtive manner",
+            "a sneak attack"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 61,
+      "group_name": "abase, humble, mortify, chagrin",
+      "target_word": "abase",
+      "words": [
+        "abase",
+        "humble",
+        "mortify",
+        "chagrin"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "abase 辨析组 (humiliate.v.01)",
+      "synset_definition": "cause to feel shame; hurt the pride of",
+      "merriam_webster": {
+        "definitions": [
+          "to lower in rank, office, prestige, or esteem",
+          "to lower physically",
+          "to lower in rank or position : HUMBLE, DEGRADE"
+        ],
+        "dictionary_examples": [
+          "Pence has long since perfected the ability to abase himself in public without seeming the least bit ashamed.",
+          "Unfortunately, an impulse to abase oneself isn’t resolved by a recognition that human life is a collaboration.",
+          "One by one, internees abase themselves before 60 of their fellow prisoners, repenting of their errors in thinking and their nonprogressive religious practices."
+        ],
+        "web_examples": [
+          "Pence has long since perfected the ability to abase himself in public without seeming the least bit ashamed.",
+          "Unfortunately, an impulse to abase oneself isn’t resolved by a recognition that human life is a collaboration.",
+          "One by one, internees abase themselves before 60 of their fellow prisoners, repenting of their errors in thinking and their nonprogressive religious practices."
+        ],
+        "synonym_discussion": "Synonyms of abase\nRelevance\ndegrade\nhumiliate\ndebase\nweaken\npoison\ndemean\ncorrupt\nsubvert\ndestroy\ndebauch\ndeprave\ndeteriorate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abase": {
+          "synset": "humiliate.v.01",
+          "definition": "cause to feel shame; hurt the pride of",
+          "examples": [
+            "He humiliated his colleague by criticising him in front of the boss"
+          ]
+        },
+        "humble": {
+          "synset": "humble.v.01",
+          "definition": "cause to be unpretentious",
+          "examples": [
+            "This experience will humble him"
+          ]
+        },
+        "mortify": {
+          "synset": "mortify.v.01",
+          "definition": "practice self-denial of one's body and appetites",
+          "examples": []
+        },
+        "chagrin": {
+          "synset": "chagrin.n.01",
+          "definition": "strong feelings of embarrassment",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 62,
+      "group_name": "abbreviate, cut, reduce, shorten",
+      "target_word": "abbreviate",
+      "words": [
+        "abbreviate",
+        "cut",
+        "reduce",
+        "shorten"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abbreviate 辨析组 (abridge.v.01)",
+      "synset_definition": "reduce in scope while retaining essential elements",
+      "merriam_webster": {
+        "definitions": [
+          "to make briefer",
+          "to reduce (a word or name) to a shorter form intended to stand for the whole",
+          "to make briefer : SHORTEN",
+          "to reduce (as a word) to a shorter form intended to stand for the whole"
+        ],
+        "dictionary_examples": [
+          "shorten a speech",
+          "ceremonies curtailed because of rain",
+          "using an abbreviated title",
+          "the abridged version of the novel",
+          "declining business forced the company to retrench",
+          "The playoffs will conclude an eventful 2026 season fans at one point worried would either be abbreviated or eliminated entirely by labor strife."
+        ],
+        "web_examples": [
+          "The playoffs will conclude an eventful 2026 season fans at one point worried would either be abbreviated or eliminated entirely by labor strife.",
+          "High-dynamic range High-dynamic range, which is often abbreviated as HDR in product specs, dramatically improves the color and contrast of a TV.",
+          "Pacific Northwest - Severe snow drought across the Cascades, followed by heat, dryness, and wildfire concerns, is expected to produce a more variable and abbreviated season.",
+          "Now stock prices could be transmitted across the country at the speed of one character a second, a process made even more efficient when the names of companies were abbreviated—an early form of what today is known as a ticker symbol."
+        ],
+        "synonym_discussion": "Synonyms of abbreviate\nRelevance\nshorten\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abbreviate": {
+          "synset": "abridge.v.01",
+          "definition": "reduce in scope while retaining essential elements",
+          "examples": [
+            "The manuscript must be shortened"
+          ]
+        },
+        "cut": {
+          "synset": "cut.n.01",
+          "definition": "a share of the profits",
+          "examples": [
+            "everyone got a cut of the earnings"
+          ]
+        },
+        "reduce": {
+          "synset": "reduce.v.01",
+          "definition": "cut down on; make a reduction in",
+          "examples": [
+            "reduce your daily fat intake",
+            "The employer wants to cut back health benefits"
+          ]
+        },
+        "shorten": {
+          "synset": "shorten.v.01",
+          "definition": "make shorter than originally intended; reduce or retrench in length or duration",
+          "examples": [
+            "He shortened his trip due to illness"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 63,
+      "group_name": "abduct, kidnap, nobble, snatch",
+      "target_word": "abduct",
+      "words": [
+        "abduct",
+        "kidnap",
+        "nobble",
+        "snatch"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abduct 辨析组 (kidnap.v.01)",
+      "synset_definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+      "merriam_webster": {
+        "definitions": [
+          "to seize and take away (a person) by force",
+          "to draw or spread away (a part of the body, such as a limb or the fingers) from a position near or parallel to the median axis of the body or from the axis of a limb",
+          "to carry (a person) off by force",
+          "to draw (a part of the body) away from a middle plane or line that divides the body or a bodily part into right and left halves"
+        ],
+        "dictionary_examples": [
+          "Authorities in Southern California are searching for four children allegedly abducted by their mother, who was prevented by a court order from removing them from their Reseda home.",
+          "During the rescue operation, Libyan militiamen intervene and abduct several people, including a woman, Roro, and her two young children.",
+          "North Korea hasn't publicly commented on the transfer but has previously claimed major defections of its citizens were the result of South Korea abducting them or luring them to flee.",
+          "On that day in 1991, Allee, a corporal at the county jail, was abducted from the Greenspoint Mall parking lot."
+        ],
+        "web_examples": [
+          "Authorities in Southern California are searching for four children allegedly abducted by their mother, who was prevented by a court order from removing them from their Reseda home.",
+          "During the rescue operation, Libyan militiamen intervene and abduct several people, including a woman, Roro, and her two young children.",
+          "North Korea hasn't publicly commented on the transfer but has previously claimed major defections of its citizens were the result of South Korea abducting them or luring them to flee.",
+          "On that day in 1991, Allee, a corporal at the county jail, was abducted from the Greenspoint Mall parking lot."
+        ],
+        "synonym_discussion": "Synonyms of abduct\nRelevance\nkidnap\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abduct": {
+          "synset": "kidnap.v.01",
+          "definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+          "examples": [
+            "The industrialist's son was kidnapped"
+          ]
+        },
+        "kidnap": {
+          "synset": "kidnap.v.01",
+          "definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+          "examples": [
+            "The industrialist's son was kidnapped"
+          ]
+        },
+        "nobble": {
+          "synset": "victimize.v.03",
+          "definition": "deprive of by deceit",
+          "examples": [
+            "He swindled me out of my inheritance",
+            "She defrauded the customers who trusted her"
+          ]
+        },
+        "snatch": {
+          "synset": "snatch.n.01",
+          "definition": "a small fragment",
+          "examples": [
+            "overheard snatches of their conversation"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 64,
+      "group_name": "abhor, loathe, execrate, abominate",
+      "target_word": "abhor",
+      "words": [
+        "abhor",
+        "loathe",
+        "execrate",
+        "abominate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abhor 辨析组 (abhor.v.01)",
+      "synset_definition": "find repugnant",
+      "merriam_webster": {
+        "definitions": [
+          "to regard with extreme repugnance : to feel hatred or loathing for : LOATHE",
+          "to shrink from in disgust"
+        ],
+        "dictionary_examples": [
+          "hated the enemy with a passion",
+          "detests cowards",
+          "a crime abhorred by all",
+          "abominates all forms of violence",
+          "loathed the mere sight of them",
+          "We believe we know that Americans abhor extremes and mistrust ideology."
+        ],
+        "web_examples": [
+          "No exploitation was depicted here, no brutal birth of empire, no hint of a Catholic faith that the society, and most Americans, feared and abhorred.",
+          "Building an authoritarian, ultranationalist party that marinates in populist conspiracy theories but that abhors anti-Semitism turns out to be tricky.",
+          "Museums abhor windows, so the building has all the approachability of a medieval keep, as gloomily defensive as the park is welcoming.",
+          "Then there’s Abdul El-Sayed, the progressive backed by Hasan Piker, abhorred by AIPAC, and leading the polls."
+        ],
+        "synonym_discussion": "Synonyms of abhor\nRelevance\nhate\ndespise\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abhor": {
+          "synset": "abhor.v.01",
+          "definition": "find repugnant",
+          "examples": [
+            "I loathe that man",
+            "She abhors cats"
+          ]
+        },
+        "loathe": {
+          "synset": "abhor.v.01",
+          "definition": "find repugnant",
+          "examples": [
+            "I loathe that man",
+            "She abhors cats"
+          ]
+        },
+        "execrate": {
+          "synset": "abhor.v.01",
+          "definition": "find repugnant",
+          "examples": [
+            "I loathe that man",
+            "She abhors cats"
+          ]
+        },
+        "abominate": {
+          "synset": "abhor.v.01",
+          "definition": "find repugnant",
+          "examples": [
+            "I loathe that man",
+            "She abhors cats"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 65,
+      "group_name": "abide, bear, stand, brook",
+      "target_word": "abide",
+      "words": [
+        "abide",
+        "bear",
+        "stand",
+        "brook"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abide 辨析组 (digest.v.03)",
+      "synset_definition": "put up with something or somebody unpleasant",
+      "merriam_webster": {
+        "definitions": [
+          "to bear patiently : TOLERATE",
+          "to endure without yielding : WITHSTAND",
+          "to wait for : AWAIT",
+          "to accept without objection"
+        ],
+        "dictionary_examples": [
+          "forced to bear a tragic loss",
+          "suffering many insults",
+          "endured years of rejection",
+          "cannot abide their rudeness",
+          "refused to tolerate such treatment",
+          "unable to stand teasing"
+        ],
+        "web_examples": [
+          "Lamashtu said something the patriarch couldn’t abide, and for that she was cast out of polite divine society forever and sent to make chaos among mortals.",
+          "Until Monday night, anyway, when the Chiefs blasted Denver 31-10 behind Walker’s 173 yards on 23 carries — including a 60-yard touchdown run on a bold fourth-and-1 that in itself illustrated the abiding evolution of Reid.",
+          "My abiding memory of that night is sitting on the hood of my car talking to a crew member on the street after the show and watching David Bowie leave the club alone.",
+          "Here, Ava Wallace, Matt Futterman and James Hansen present their takeaways from the final Grand Slam of 2026, from the best matches and biggest upsets to their abiding memories."
+        ],
+        "synonym_discussion": "Synonyms of abide\nRelevance\nremain\nstay\nwait\ndwell\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abide": {
+          "synset": "bide.v.01",
+          "definition": "dwell",
+          "examples": [
+            "You can stay with me while you are in town",
+            "stay a bit longer--the day is still young"
+          ]
+        },
+        "bear": {
+          "synset": "bear.n.01",
+          "definition": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+          "examples": []
+        },
+        "stand": {
+          "synset": "base.n.08",
+          "definition": "a support or foundation",
+          "examples": [
+            "the base of the lamp"
+          ]
+        },
+        "brook": {
+          "synset": "brook.n.01",
+          "definition": "a natural stream of water smaller than a river (and often a tributary of a river)",
+          "examples": [
+            "the creek dried up every summer"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 66,
+      "group_name": "abort, culminate, axe, lift",
+      "target_word": "abort",
+      "words": [
+        "abort",
+        "culminate",
+        "axe",
+        "lift"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abort 辨析组 (abort.v.01)",
+      "synset_definition": "terminate before completion",
+      "merriam_webster": {
+        "definitions": [
+          "to bring forth stillborn, nonviable, or premature offspring",
+          "to become checked in development so as to degenerate or remain rudimentary",
+          "to terminate a procedure prematurely",
+          "to induce the abortion of or give birth to prematurely"
+        ],
+        "dictionary_examples": [
+          "SpaceX says this mission's launch profile includes portions that would allow Starship to abort its orbital trajectory and return to Earth safely.",
+          "Flight-recorder data showed the pilots tried in the last seconds to lift off again to attempt to abort the landing and try again, but there was not enough runway left.",
+          "Despite the failure of an upper stage engine, an abort was avoided, allowing the spacecraft to reach orbit and deploy 26 Starlink satellites.",
+          "Similar launch abort systems were used on NASA's Mercury Gemini and Apollo missions, as well as on the agency's Space Launch System rocket and Orion spacecraft."
+        ],
+        "web_examples": [
+          "SpaceX says this mission's launch profile includes portions that would allow Starship to abort its orbital trajectory and return to Earth safely.",
+          "Flight-recorder data showed the pilots tried in the last seconds to lift off again to attempt to abort the landing and try again, but there was not enough runway left.",
+          "Despite the failure of an upper stage engine, an abort was avoided, allowing the spacecraft to reach orbit and deploy 26 Starlink satellites.",
+          "Similar launch abort systems were used on NASA's Mercury Gemini and Apollo missions, as well as on the agency's Space Launch System rocket and Orion spacecraft."
+        ],
+        "synonym_discussion": "Synonyms of abort\nRelevance\n\nVerb\n\ncancel\nabandon\nrevoke\nscrap\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abort": {
+          "synset": "abort.n.01",
+          "definition": "the act of terminating a project or procedure before it is completed",
+          "examples": [
+            "I wasted a year of my life working on an abort",
+            "he sent a short message requesting an abort due to extreme winds in the area"
+          ]
+        },
+        "culminate": {
+          "synset": "culminate.v.01",
+          "definition": "end, especially to reach a final or climactic stage",
+          "examples": [
+            "The meeting culminated in a tearful embrace"
+          ]
+        },
+        "axe": {
+          "synset": "ax.n.01",
+          "definition": "an edge tool with a heavy bladed head mounted across a handle",
+          "examples": []
+        },
+        "lift": {
+          "synset": "lift.n.01",
+          "definition": "the act of giving temporary assistance",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 67,
+      "group_name": "abstain, forbear, help, save",
+      "target_word": "abstain",
+      "words": [
+        "abstain",
+        "forbear",
+        "help",
+        "save"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abstain 辨析组 (abstain.v.01)",
+      "synset_definition": "refrain from voting",
+      "merriam_webster": {
+        "definitions": [
+          "to choose not to do or have something : to refrain deliberately and often with an effort of self-denial from an action or practice",
+          "to choose not to vote",
+          "to keep oneself from doing something",
+          "to refrain deliberately and often with an effort of self-denial from an action or practice (as consumption of a food or a drug or indulgence in sexual intercourse)"
+        ],
+        "dictionary_examples": [
+          "During that meeting, Mitchell abstained from a vote to put the item on the ballot.",
+          "The vote was 164 countries in favor of the change, six abstaining and one — the United States — against.",
+          "Six nations — Estonia, Georgia, Lithuania, Moldova, Serbia and Ukraine — abstained.",
+          "The proposal was defeated by a vote of 11-2, with Somalia and Pakistan abstaining, because of the Russian and Chinese vetoes."
+        ],
+        "web_examples": [
+          "During that meeting, Mitchell abstained from a vote to put the item on the ballot.",
+          "The vote was 164 countries in favor of the change, six abstaining and one — the United States — against.",
+          "Six nations — Estonia, Georgia, Lithuania, Moldova, Serbia and Ukraine — abstained.",
+          "The proposal was defeated by a vote of 11-2, with Somalia and Pakistan abstaining, because of the Russian and Chinese vetoes."
+        ],
+        "synonym_discussion": "Synonyms of abstain\nRelevance\nkeep (from)\nrefrain (from)\navoid\nwithhold (from)\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abstain": {
+          "synset": "abstain.v.01",
+          "definition": "refrain from voting",
+          "examples": []
+        },
+        "forbear": {
+          "synset": "forebear.n.01",
+          "definition": "a person from whom you are descended",
+          "examples": []
+        },
+        "help": {
+          "synset": "aid.n.02",
+          "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+          "examples": [
+            "he gave me an assist with the housework",
+            "could not walk without assistance"
+          ]
+        },
+        "save": {
+          "synset": "save.n.01",
+          "definition": "(sports) the act of preventing the opposition from scoring",
+          "examples": [
+            "the goalie made a brilliant save",
+            "the relief pitcher got credit for a save"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 68,
+      "group_name": "accede, defer, bow, submit",
+      "target_word": "accede",
+      "words": [
+        "accede",
+        "defer",
+        "bow",
+        "submit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accede 辨析组 (submit.v.06)",
+      "synset_definition": "yield to another's wish or opinion",
+      "merriam_webster": {
+        "definitions": [
+          "to express approval or give consent : to agree to a request or demand",
+          "to become a party to something (such as an agreement)",
+          "to enter upon an office or position",
+          "APPROACH"
+        ],
+        "dictionary_examples": [
+          "The government acceded to their demands.",
+          "accede to the terms of a contract",
+          "He acceded to the throne [=became king] in 1838.",
+          "voters assented to the proposal",
+          "consented to their daughter's going",
+          "officials acceded to the prisoners' demands"
+        ],
+        "web_examples": [
+          "Weeks of work were undone by last minute demands that the Canadians simply could not accede to.",
+          "Despite all of this potential economic turmoil on the Canadian side, Carney still concluded that at the end of the day, the cost of acceding to Washington’s extravagant demands was higher than the cost of job losses and strain on a key industry.",
+          "When Queen Elizabeth acceded to the throne in 1952 upon the death of her father, King George VI, Winston Churchill was the British prime minister.",
+          "But while the union asked for voluntary recognition, the company did not accede to that request."
+        ],
+        "synonym_discussion": "Synonyms of accede\nRelevance\nagree\nassent\nacquiesce\nconsent\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accede": {
+          "synset": "submit.v.06",
+          "definition": "yield to another's wish or opinion",
+          "examples": [
+            "The government bowed to the military pressure"
+          ]
+        },
+        "defer": {
+          "synset": "postpone.v.01",
+          "definition": "hold back to a later time",
+          "examples": [
+            "let's postpone the exam"
+          ]
+        },
+        "bow": {
+          "synset": "bow.n.01",
+          "definition": "a knot with two loops and loose ends; used to tie shoelaces",
+          "examples": []
+        },
+        "submit": {
+          "synset": "submit.v.01",
+          "definition": "refer for judgment or consideration",
+          "examples": [
+            "The lawyers submitted the material to the court"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 69,
+      "group_name": "accentuate, stress, accent, punctuate",
+      "target_word": "accentuate",
+      "words": [
+        "accentuate",
+        "stress",
+        "accent",
+        "punctuate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "accentuate 辨析组 (stress.v.01)",
+      "synset_definition": "to stress, single out as important",
+      "merriam_webster": {
+        "definitions": [
+          "to make (something) more prominent or noticeable : ACCENT, EMPHASIZE",
+          "INTENSIFY",
+          "to pronounce or mark with an accent",
+          "EMPHASIZE"
+        ],
+        "dictionary_examples": [
+          "But Galactic Racer layers on some clever elements to help accentuate its distinct style.",
+          "The audio was then used to accentuate tense scenes featuring astronauts Dave Bowman (Keir Dullea) and Frank Poole (Gary Lockwood).",
+          "The long-sleeve blouse was a polished piece that was further accentuated by a pair of charcoal gray trousers with pleating and a wide-leg silhouette.",
+          "In the guest rooms, a floor-to-celing window looks out to an expansive view of Tokyo’s skyline, filtering in lots of sunlight and accentuating the modern, unfussy interiors."
+        ],
+        "web_examples": [
+          "But Galactic Racer layers on some clever elements to help accentuate its distinct style.",
+          "The audio was then used to accentuate tense scenes featuring astronauts Dave Bowman (Keir Dullea) and Frank Poole (Gary Lockwood).",
+          "The long-sleeve blouse was a polished piece that was further accentuated by a pair of charcoal gray trousers with pleating and a wide-leg silhouette.",
+          "In the guest rooms, a floor-to-celing window looks out to an expansive view of Tokyo’s skyline, filtering in lots of sunlight and accentuating the modern, unfussy interiors."
+        ],
+        "synonym_discussion": "Synonyms of accentuate\nRelevance\nemphasize\nhighlight\nstress\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accentuate": {
+          "synset": "stress.v.01",
+          "definition": "to stress, single out as important",
+          "examples": [
+            "Dr. Jones emphasizes exercise in addition to a change in diet"
+          ]
+        },
+        "stress": {
+          "synset": "stress.n.01",
+          "definition": "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+          "examples": [
+            "he put the stress on the wrong syllable"
+          ]
+        },
+        "accent": {
+          "synset": "accent.n.01",
+          "definition": "distinctive manner of oral expression",
+          "examples": [
+            "he couldn't suppress his contemptuous accent",
+            "she had a very clear speech pattern"
+          ]
+        },
+        "punctuate": {
+          "synset": "punctuate.v.01",
+          "definition": "insert punctuation marks into",
+          "examples": []
+        }
+      }
+    }
+  ]
+}

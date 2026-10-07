@@ -1,0 +1,1530 @@
+{
+  "chunk_id": 0,
+  "theme_info": {
+    "chunk_id": 0,
+    "theme": "地缘政治、宏观态势与大国博弈 (Geopolitics & Macroeconomic Trends)",
+    "guidance": "题干应多采用《经济学人》政经社论语体，围绕国际摩擦、通胀治理、财政赤字、多边妥协等外刊高频议题命题。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 1,
+      "group_name": "palliate, mitigate, alleviate, soothe",
+      "target_word": "palliate",
+      "words": [
+        "palliate",
+        "mitigate",
+        "alleviate",
+        "soothe"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "palliate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to reduce the violence of (a disease)",
+          "to ease (symptoms) without curing the underlying disease",
+          "to cover by excuses and apologies",
+          "to moderate the intensity of"
+        ],
+        "dictionary_examples": [
+          "Radiation can also be used to palliate painful bone metastases, as well as chemotherapy.",
+          "Senior-home avatars who are designed to palliate dementia patients in their darkest days.",
+          "Long hours of sitting masquerade as wellness, insecurity is palliated by snacks, and flexibility’s just another name for no time of your own.",
+          "Rhys drank heavily to palliate her burdens, and was known for tirades and other skunky behavior.",
+          "The friends are teen-agers, both outcasts of a kind, lonely and looking for ways to palliate their solitude.",
+          "Those would likely be limited to economic benefits to palliate the loss of crops and revenues for farmers."
+        ],
+        "web_examples": [
+          "Radiation can also be used to palliate painful bone metastases, as well as chemotherapy.",
+          "Senior-home avatars who are designed to palliate dementia patients in their darkest days.",
+          "Long hours of sitting masquerade as wellness, insecurity is palliated by snacks, and flexibility’s just another name for no time of your own.",
+          "Rhys drank heavily to palliate her burdens, and was known for tirades and other skunky behavior."
+        ],
+        "synonym_discussion": "Synonyms of palliate\nRelevance\nexcuse\njustify\nexplain\nextenuate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "palliate": {
+          "synset": "extenuate.v.01",
+          "definition": "lessen or to try to lessen the seriousness or extent of",
+          "examples": [
+            "The circumstances extenuate the crime"
+          ]
+        },
+        "mitigate": {
+          "synset": "extenuate.v.01",
+          "definition": "lessen or to try to lessen the seriousness or extent of",
+          "examples": [
+            "The circumstances extenuate the crime"
+          ]
+        },
+        "alleviate": {
+          "synset": "relieve.v.01",
+          "definition": "provide physical relief, as from pain",
+          "examples": [
+            "This pill will relieve your headaches"
+          ]
+        },
+        "soothe": {
+          "synset": "comfort.v.01",
+          "definition": "give moral or emotional strength to",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 2,
+      "group_name": "wreak, inflict, impose, execute",
+      "target_word": "wreak",
+      "words": [
+        "wreak",
+        "inflict",
+        "impose",
+        "execute"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "wreak 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "BRING ABOUT, CAUSE",
+          "to cause the infliction of (vengeance or punishment)",
+          "AVENGE",
+          "to give free play or course to (malevolent feeling)"
+        ],
+        "dictionary_examples": [
+          "So where does this rank among the wackiest havoc ever wreaked by domes on innocent baseballs?",
+          "But until then, Kyiv needs to get ahead of Moscow and stop its ability to wreak aerial havoc.",
+          "History has shown that excessive agricultural burning can wreak environmental havoc, as can overgrazing.",
+          "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post."
+        ],
+        "web_examples": [
+          "So where does this rank among the wackiest havoc ever wreaked by domes on innocent baseballs?",
+          "But until then, Kyiv needs to get ahead of Moscow and stop its ability to wreak aerial havoc.",
+          "History has shown that excessive agricultural burning can wreak environmental havoc, as can overgrazing.",
+          "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "wreak": {
+          "synset": "bring.v.03",
+          "definition": "cause to happen or to occur as a consequence",
+          "examples": [
+            "I cannot work a miracle",
+            "wreak havoc"
+          ]
+        },
+        "inflict": {
+          "synset": "inflict.v.01",
+          "definition": "impose something unpleasant",
+          "examples": [
+            "The principal visited his rage on the students"
+          ]
+        },
+        "impose": {
+          "synset": "enforce.v.02",
+          "definition": "compel to behave in a certain way",
+          "examples": [
+            "Social relations impose courtesy"
+          ]
+        },
+        "execute": {
+          "synset": "execute.v.01",
+          "definition": "kill as a means of socially sanctioned punishment",
+          "examples": [
+            "In some states, criminals are executed"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 3,
+      "group_name": "deteriorate, degenerate, retrogress, decline",
+      "target_word": "deteriorate",
+      "words": [
+        "deteriorate",
+        "degenerate",
+        "retrogress",
+        "decline"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "deteriorate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to make worse or lower in quality or value : IMPAIR",
+          "DISINTEGRATE",
+          "to become impaired in quality, functioning, or condition : become gradually worse",
+          "to make or become worse or of less value : DEGENERATE"
+        ],
+        "dictionary_examples": [
+          "Meanwhile, at the celebratory crew dinner, the we’re-all-in-this-together vibe starts to deteriorate.",
+          "As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.",
+          "Students have cited overcrowded classrooms, teacher shortages and deteriorating school buildings — including water leaks and rat infestations — among their grievances.",
+          "However, as Germany’s economic problems — slow growth, high inflation, rising energy prices — have worsened, public sentiment toward the newcomers has deteriorated."
+        ],
+        "web_examples": [
+          "Meanwhile, at the celebratory crew dinner, the we’re-all-in-this-together vibe starts to deteriorate.",
+          "As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.",
+          "Students have cited overcrowded classrooms, teacher shortages and deteriorating school buildings — including water leaks and rat infestations — among their grievances.",
+          "However, as Germany’s economic problems — slow growth, high inflation, rising energy prices — have worsened, public sentiment toward the newcomers has deteriorated."
+        ],
+        "synonym_discussion": "Synonyms of deteriorate\nRelevance\nworsen\ncrumble\ndecline\ndescend\ndiminish\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "deteriorate": {
+          "synset": "deteriorate.v.01",
+          "definition": "become worse or disintegrate",
+          "examples": [
+            "His mind deteriorated"
+          ]
+        },
+        "degenerate": {
+          "synset": "pervert.n.01",
+          "definition": "a person whose behavior deviates from what is acceptable especially in sexual behavior",
+          "examples": []
+        },
+        "retrogress": {
+          "synset": "regress.v.03",
+          "definition": "get worse or fall back to a previous condition",
+          "examples": []
+        },
+        "decline": {
+          "synset": "decline.n.01",
+          "definition": "change toward something smaller or lower",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 4,
+      "group_name": "abate, subside, ebb, wane",
+      "target_word": "abate",
+      "words": [
+        "abate",
+        "subside",
+        "ebb",
+        "wane"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to decrease in force or intensity",
+          "to become defeated or become null or void (as of a writ or appeal)",
+          "to decrease in amount or value",
+          "to put an end to"
+        ],
+        "dictionary_examples": [
+          "the storm abated",
+          "the protests subsided after a few days",
+          "waning enthusiasm",
+          "the ebbing of daylight",
+          "For a while, in the Cold War's aftermath, the public fascination for espionage may abate, though somehow I doubt it.",
+          "At about six, as the heat abated, people began to crowd the streets and marketplaces, and to fill the cafés."
+        ],
+        "web_examples": [
+          "But one annual summer tradition showed no signs of abating in Georgia.",
+          "By October of 1945, The Nation’s embrace of world government as a practical solution for the problem of potentially life-effacing weapons had somewhat abated.",
+          "Williams added that the pressure on goods prices from tariffs has largely abated.",
+          "Green’s ability to connect with people hasn’t abated with his success."
+        ],
+        "synonym_discussion": "Synonyms of abate\nRelevance\nsubside\ndecrease\ndiminish\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abate": {
+          "synset": "slake.v.02",
+          "definition": "make less active or intense",
+          "examples": []
+        },
+        "subside": {
+          "synset": "subside.v.01",
+          "definition": "wear off or die down",
+          "examples": [
+            "The pain subsided"
+          ]
+        },
+        "ebb": {
+          "synset": "ebb.n.01",
+          "definition": "a gradual decline (in size or strength or power or number)",
+          "examples": []
+        },
+        "wane": {
+          "synset": "ebb.n.01",
+          "definition": "a gradual decline (in size or strength or power or number)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 5,
+      "group_name": "diminish, dwindle, contract, shrink",
+      "target_word": "diminish",
+      "words": [
+        "diminish",
+        "dwindle",
+        "contract",
+        "shrink"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "diminish 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to make less or cause to appear less",
+          "to lessen the authority, dignity, or reputation of : BELITTLE",
+          "to cause to taper (see taper entry 1 sense 1)",
+          "to become gradually less (as in size or importance) : DWINDLE"
+        ],
+        "dictionary_examples": [
+          "slowly decreased the amount of pressure",
+          "has been unable to lessen her debt",
+          "his visual acuity has diminished",
+          "you must reduce your caloric intake",
+          "the storm abated",
+          "their provisions dwindled slowly"
+        ],
+        "web_examples": [
+          "None of this diminishes the humanity of a fetus or the anguish of parents confronting a lethal or life-limiting diagnosis.",
+          "My concern with this amendment is that the sources that primarily fund first responders and public schools would be severely diminished.",
+          "As part of that effort, executives have begun to diminish the Hulu service and brand, which sprung to life nearly 20 years ago.",
+          "This discretion does not mean it’s diminished under the hood."
+        ],
+        "synonym_discussion": "Synonyms of diminish\nRelevance\nminimize\ndismiss\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "diminish": {
+          "synset": "decrease.v.01",
+          "definition": "decrease in size, extent, or range",
+          "examples": [
+            "The amount of homework decreased towards the end of the semester",
+            "The cabin pressure fell dramatically"
+          ]
+        },
+        "dwindle": {
+          "synset": "dwindle.v.01",
+          "definition": "become smaller or lose substance",
+          "examples": [
+            "Her savings dwindled down"
+          ]
+        },
+        "contract": {
+          "synset": "contract.n.01",
+          "definition": "a binding agreement between two or more persons that is enforceable by law",
+          "examples": []
+        },
+        "shrink": {
+          "synset": "psychiatrist.n.01",
+          "definition": "a physician who specializes in psychiatry",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 6,
+      "group_name": "escalate, proliferate, burgeon, multiply",
+      "target_word": "escalate",
+      "words": [
+        "escalate",
+        "proliferate",
+        "burgeon",
+        "multiply"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "escalate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to increase in extent, volume, number, amount, intensity, or scope",
+          "EXPAND sense 2",
+          "to increase in extent, volume, or scope : EXPAND"
+        ],
+        "dictionary_examples": [
+          "Mercury in Scorpio squares Mars in Leo, making opinions stronger, reactions quicker, and certain conversations easier to escalate than intended.",
+          "In a world that escalated from criminals planning a heist to steal DVD players to flying in a rocketship to space, anything’s possible.",
+          "Meanwhile, the escalating price of seafood challenged Darden’s original dream—and parent companies’ finances.",
+          "Maryna Lystopad, 35, said her hair has started falling out due to the stress from escalating attacks and never knowing where the next attack will hit."
+        ],
+        "web_examples": [
+          "Mercury in Scorpio squares Mars in Leo, making opinions stronger, reactions quicker, and certain conversations easier to escalate than intended.",
+          "In a world that escalated from criminals planning a heist to steal DVD players to flying in a rocketship to space, anything’s possible.",
+          "Meanwhile, the escalating price of seafood challenged Darden’s original dream—and parent companies’ finances.",
+          "Maryna Lystopad, 35, said her hair has started falling out due to the stress from escalating attacks and never knowing where the next attack will hit."
+        ],
+        "synonym_discussion": "Synonyms of escalate\nRelevance\nincrease\nrise\naccelerate\nswell\nexpand\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "escalate": {
+          "synset": "escalate.v.01",
+          "definition": "increase in extent or intensity",
+          "examples": [
+            "The Allies escalated the bombing"
+          ]
+        },
+        "proliferate": {
+          "synset": "proliferate.v.01",
+          "definition": "grow rapidly",
+          "examples": [
+            "Pizza parlors proliferate in this area"
+          ]
+        },
+        "burgeon": {
+          "synset": "burgeon.v.01",
+          "definition": "grow and flourish",
+          "examples": [
+            "The burgeoning administration",
+            "The burgeoning population"
+          ]
+        },
+        "multiply": {
+          "synset": "multiply.v.01",
+          "definition": "combine by multiplication",
+          "examples": [
+            "multiply 10 by 15"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 7,
+      "group_name": "aggravate, exacerbate, worsen, inflame",
+      "target_word": "aggravate",
+      "words": [
+        "aggravate",
+        "exacerbate",
+        "worsen",
+        "inflame"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "aggravate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to make (something) worse, more serious, or more severe : to intensify (something) unpleasantly",
+          "to make (someone) angry or irritated especially by bothering again and again",
+          "to produce inflammation in (a part of the body) : IRRITATE",
+          "BURDEN"
+        ],
+        "dictionary_examples": [
+          "Higher mortgage rates aggravate the problem by discouraging many existing homeowners from selling.",
+          "And those are things that end up aggravating behavioral health disabilities.",
+          "With Williams dealing with an injury that’s always tricky for players in this league, there’s no reason to rush him back and risk aggravating it again.",
+          "Michigan running back Jordan Marshall appeared to aggravate an injury in the second half."
+        ],
+        "web_examples": [
+          "Higher mortgage rates aggravate the problem by discouraging many existing homeowners from selling.",
+          "And those are things that end up aggravating behavioral health disabilities.",
+          "With Williams dealing with an injury that’s always tricky for players in this league, there’s no reason to rush him back and risk aggravating it again.",
+          "Michigan running back Jordan Marshall appeared to aggravate an injury in the second half."
+        ],
+        "synonym_discussion": "Synonyms of aggravate\nRelevance\nannoy\nirritate\nbother\nbug\npersecute\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "aggravate": {
+          "synset": "worsen.v.02",
+          "definition": "make worse",
+          "examples": [
+            "This drug aggravates the pain"
+          ]
+        },
+        "exacerbate": {
+          "synset": "worsen.v.02",
+          "definition": "make worse",
+          "examples": [
+            "This drug aggravates the pain"
+          ]
+        },
+        "worsen": {
+          "synset": "worsen.v.01",
+          "definition": "grow worse",
+          "examples": [
+            "Conditions in the slum worsened"
+          ]
+        },
+        "inflame": {
+          "synset": "inflame.v.01",
+          "definition": "cause inflammation in",
+          "examples": [
+            "The repetitive motion inflamed her joint"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 8,
+      "group_name": "amend, rectify, remedy, redress",
+      "target_word": "amend",
+      "words": [
+        "amend",
+        "rectify",
+        "remedy",
+        "redress"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "amend 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to put right",
+          "to make emendations in (something, such as a text)",
+          "to change or modify (something) for the better : IMPROVE",
+          "to alter especially in phraseology"
+        ],
+        "dictionary_examples": [
+          "correct your spelling",
+          "rectify a misguided policy",
+          "emend a text",
+          "set out to remedy the evils of the world",
+          "redress past social injustices",
+          "amend a law"
+        ],
+        "web_examples": [
+          "In a statement, ICE downplayed the significance of the memo, which said the new guidance was intended to replace and amend prior directives issued earlier this year, last year and in 2018.",
+          "York was initially charged with engaging in prostitution, but prosecutors amended that to disorderly conduct.",
+          "In 2024, the city of Los Angeles formed a commission to find ways to improve services and amend its charter, which essentially serves as the city’s constitution.",
+          "In April 2025, the United Arab Emirates created a Regulatory Intelligence Office that uses AI to draft and amend federal laws, work once done by legislative staff."
+        ],
+        "synonym_discussion": "Synonyms of amend\nRelevance\nimprove\nenhance\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "amend": {
+          "synset": "amend.v.01",
+          "definition": "make amendments to",
+          "examples": [
+            "amend the document"
+          ]
+        },
+        "rectify": {
+          "synset": "rectify.v.01",
+          "definition": "math: determine the length of",
+          "examples": [
+            "rectify a curve"
+          ]
+        },
+        "remedy": {
+          "synset": "redress.n.02",
+          "definition": "act of correcting an error or a fault or an evil",
+          "examples": []
+        },
+        "redress": {
+          "synset": "damages.n.01",
+          "definition": "a sum of money paid in compensation for loss or injury",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 9,
+      "group_name": "truncate, abridge, curtail, shorten",
+      "target_word": "truncate",
+      "words": [
+        "truncate",
+        "abridge",
+        "curtail",
+        "shorten"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "truncate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to shorten by or as if by cutting off",
+          "to replace (an edge or corner of a crystal) by a plane",
+          "having the end square or even",
+          "having the end square or blunt"
+        ],
+        "dictionary_examples": [
+          "Formal rites for the dying, already limited, were further truncated or skipped entirely.",
+          "The Hulu reality series is currently filming Season 6 after Season 5 was truncated due to Paul’s domestic violence claims from her ex, Dakota Mortensen.",
+          "Names become other plausible names, dates shift by a patient-specific offset that preserves clinical timelines, ZIP codes truncate, ID numbers become valid-format tokens.",
+          "System rules regarding scannability and link formatting should only act as soft, secondary suggestions on how to style the text, rather than hard walls that truncate the content entirely."
+        ],
+        "web_examples": [
+          "Formal rites for the dying, already limited, were further truncated or skipped entirely.",
+          "The Hulu reality series is currently filming Season 6 after Season 5 was truncated due to Paul’s domestic violence claims from her ex, Dakota Mortensen.",
+          "Names become other plausible names, dates shift by a patient-specific offset that preserves clinical timelines, ZIP codes truncate, ID numbers become valid-format tokens.",
+          "System rules regarding scannability and link formatting should only act as soft, secondary suggestions on how to style the text, rather than hard walls that truncate the content entirely."
+        ],
+        "synonym_discussion": "Synonyms of truncate\nRelevance\n\nVerb\n\nshorten\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "truncate": {
+          "synset": "truncate.v.01",
+          "definition": "replace a corner by a plane",
+          "examples": []
+        },
+        "abridge": {
+          "synset": "abridge.v.01",
+          "definition": "reduce in scope while retaining essential elements",
+          "examples": [
+            "The manuscript must be shortened"
+          ]
+        },
+        "curtail": {
+          "synset": "restrict.v.01",
+          "definition": "place restrictions on",
+          "examples": [
+            "curtail drinking in school"
+          ]
+        },
+        "shorten": {
+          "synset": "shorten.v.01",
+          "definition": "make shorter than originally intended; reduce or retrench in length or duration",
+          "examples": [
+            "He shortened his trip due to illness"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 10,
+      "group_name": "rejuvenate, revitalize, resuscitate, regenerate",
+      "target_word": "rejuvenate",
+      "words": [
+        "rejuvenate",
+        "revitalize",
+        "resuscitate",
+        "regenerate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "rejuvenate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to make young or youthful again : give new vigor to",
+          "to restore to an original or new state",
+          "to stimulate (a stream) to renewed erosive activity especially by uplift",
+          "to develop youthful features of topography in"
+        ],
+        "dictionary_examples": [
+          "efforts to renew the splendor of the old castle",
+          "restored a fine piece of furniture",
+          "a refreshing drink",
+          "the apartment has been entirely renovated",
+          "the change in jobs rejuvenated her spirits",
+          "Multifaceted and deeply mindful, the Healing Village Spa at this classic beachfront resort's treatments are wholly original and sublimely rejuvenating."
+        ],
+        "web_examples": [
+          "Multifaceted and deeply mindful, the Healing Village Spa at this classic beachfront resort's treatments are wholly original and sublimely rejuvenating.",
+          "The overall lacklustre performance has prompted Saudi’s market regulator, the Capital Market Authority (CMA), to propose a sweeping set of reforms in a bid to rejuvenate the Tadawul.",
+          "The viscous formula is powered by four plant ferments (soybean, barley, pomegranate, and Korean pear, to name a few) and works wonders to rejuvenate skin in a single use.",
+          "The formula also includes sesame oil to deeply hydrate, rejuvenate, and plump the skin, making fine lines and crow’s feet less detectable."
+        ],
+        "synonym_discussion": "Synonyms of rejuvenate\nRelevance\nrestore\nrevive\nrefresh\nrecreate\nrenew\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "rejuvenate": {
+          "synset": "rejuvenate.v.01",
+          "definition": "cause (a stream or river) to erode, as by an uplift of the land",
+          "examples": []
+        },
+        "revitalize": {
+          "synset": "regenerate.v.09",
+          "definition": "restore strength",
+          "examples": [
+            "This food revitalized the patient"
+          ]
+        },
+        "resuscitate": {
+          "synset": "resuscitate.v.01",
+          "definition": "cause to regain consciousness",
+          "examples": [
+            "The doctors revived the comatose man"
+          ]
+        },
+        "regenerate": {
+          "synset": "regenerate.v.01",
+          "definition": "reestablish on a new, usually improved, basis or make new or like new",
+          "examples": [
+            "We renewed our friendship after a hiatus of twenty years",
+            "They renewed their membership"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 11,
+      "group_name": "denigrate, deprecate, disparage, belittle",
+      "target_word": "denigrate",
+      "words": [
+        "denigrate",
+        "deprecate",
+        "disparage",
+        "belittle"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "denigrate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to attack the reputation of : DEFAME",
+          "to deny the importance or validity of : BELITTLE",
+          "to attack the reputation of : DEFAME",
+          "to deny the importance or validity of : BELITTLE"
+        ],
+        "dictionary_examples": [
+          "Today, some of Nashville’s biggest stars have aligned themselves with (or shrewdly eschewed criticism of) a political movement that has denigrated countless demographic groups, including Punjabi immigrants.",
+          "Trump’s preference for immediate gratification explains many of his decisions, including defunding scientific and medical research, accelerating fossil-fuel emissions, and denigrating American soft power globally.",
+          "Newsom’s film speaks directly to harm inflicted on young women who are routinely denigrated on social media and who face constant scrutiny of their appearance and comportment through online platforms.",
+          "Some of the reason for this is rooted in a foreign influence campaign designed to denigrate America’s artificial intelligence dominance so that China, in particular, can dominate the technology and jobs of the future."
+        ],
+        "web_examples": [
+          "Today, some of Nashville’s biggest stars have aligned themselves with (or shrewdly eschewed criticism of) a political movement that has denigrated countless demographic groups, including Punjabi immigrants.",
+          "Trump’s preference for immediate gratification explains many of his decisions, including defunding scientific and medical research, accelerating fossil-fuel emissions, and denigrating American soft power globally.",
+          "Newsom’s film speaks directly to harm inflicted on young women who are routinely denigrated on social media and who face constant scrutiny of their appearance and comportment through online platforms.",
+          "Some of the reason for this is rooted in a foreign influence campaign designed to denigrate America’s artificial intelligence dominance so that China, in particular, can dominate the technology and jobs of the future."
+        ],
+        "synonym_discussion": "Synonyms of denigrate\nRelevance\ndismiss\nminimize\ndiminish\ncriticize\ndisparage\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "denigrate": {
+          "synset": "minimize.v.03",
+          "definition": "cause to seem less serious; play down",
+          "examples": [
+            "Don't belittle his influence"
+          ]
+        },
+        "deprecate": {
+          "synset": "deprecate.v.01",
+          "definition": "express strong disapproval of; deplore",
+          "examples": []
+        },
+        "disparage": {
+          "synset": "disparage.v.01",
+          "definition": "express a negative opinion of",
+          "examples": [
+            "She disparaged her student's efforts"
+          ]
+        },
+        "belittle": {
+          "synset": "minimize.v.03",
+          "definition": "cause to seem less serious; play down",
+          "examples": [
+            "Don't belittle his influence"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 12,
+      "group_name": "castigate, chastise, rebuke, reprimand",
+      "target_word": "castigate",
+      "words": [
+        "castigate",
+        "chastise",
+        "rebuke",
+        "reprimand"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "castigate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to subject to severe punishment, reproof, or criticism",
+          "to punish, scold, or criticize harshly"
+        ],
+        "dictionary_examples": [
+          "punished for stealing",
+          "chastised his son for neglecting his studies",
+          "an editorial castigating the entire city council",
+          "chastened by a landslide election defeat",
+          "parents must discipline their children",
+          "the function of prison is to correct the wrongdoer"
+        ],
+        "web_examples": [
+          "Matt O’Shea, 19th, castigated Johnson’s administration for not more clearly and quickly communicating with aldermen about the sale, first sparked over a year ago.",
+          "New York streets were plastered with posters calling for a boycott of the gala, castigating the couple over their conspicuous displays of wealth and accusing them of attempting to buy their way into fashion’s high society.",
+          "Some of the Democrats who were castigated Friday night at the democratic socialist, progressive rally received an overwhelmingly positive response on Saturday at a get-out-the-vote rally at the Pride Center at Equality Park in Wilton Manors.",
+          "El-Sayed is running on Medicare for All while castigating corporate influence in politics."
+        ],
+        "synonym_discussion": "Synonyms of castigate\nRelevance\nscold\ncriticize\nlecture\nreprimand\nblame\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "castigate": {
+          "synset": "chastise.v.01",
+          "definition": "censure severely",
+          "examples": [
+            "She chastised him for his insensitive remarks"
+          ]
+        },
+        "chastise": {
+          "synset": "chastise.v.01",
+          "definition": "censure severely",
+          "examples": [
+            "She chastised him for his insensitive remarks"
+          ]
+        },
+        "rebuke": {
+          "synset": "rebuke.n.01",
+          "definition": "an act or expression of criticism and censure",
+          "examples": [
+            "he had to take the rebuke with a smile on his face"
+          ]
+        },
+        "reprimand": {
+          "synset": "rebuke.n.01",
+          "definition": "an act or expression of criticism and censure",
+          "examples": [
+            "he had to take the rebuke with a smile on his face"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 13,
+      "group_name": "berate, upbraid, scold, reproach",
+      "target_word": "berate",
+      "words": [
+        "berate",
+        "upbraid",
+        "scold",
+        "reproach"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "berate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to scold or condemn vehemently and at length",
+          "to scold forcefully"
+        ],
+        "dictionary_examples": [
+          "angrily scolding the children",
+          "upbraided her assistants for poor research",
+          "berated continually by an overbearing boss",
+          "railed loudly at their insolence",
+          "an alleged killer reviled in the press",
+          "was vituperated for betraying his friends"
+        ],
+        "web_examples": [
+          "In June, the Senate approved a war powers resolution after four GOP senators joined Democrats, but Republicans abruptly reversed course the next day after Trump berated them during a private lunch over the outcome.",
+          "Lizzie’s father, meanwhile, stands by quietly as his wife berates both his daughter and the family maid, Margaret, at dinner that evening.",
+          "The Senate on its 10th try also approved a war powers resolution to end the conflict, but GOP senators quickly reversed course the next day after Trump berated them during a closed-door lunch.",
+          "Sanders allegedly snatched a cigarette from one employee’s mouth and berated him for smoking."
+        ],
+        "synonym_discussion": "Synonyms of berate\nRelevance\nscold\nlecture\nreprimand\ncriticize\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "berate": {
+          "synset": "call_on_the_carpet.v.01",
+          "definition": "censure severely or angrily",
+          "examples": [
+            "The mother scolded the child for entering a stranger's car",
+            "The deputy ragged the Prime Minister"
+          ]
+        },
+        "upbraid": {
+          "synset": "reproach.v.01",
+          "definition": "express criticism towards",
+          "examples": [
+            "The president reproached the general for his irresponsible behavior"
+          ]
+        },
+        "scold": {
+          "synset": "scold.n.01",
+          "definition": "someone (especially a woman) who annoys people by constantly finding fault",
+          "examples": []
+        },
+        "reproach": {
+          "synset": "reproach.n.01",
+          "definition": "a mild rebuke or criticism",
+          "examples": [
+            "words of reproach"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 14,
+      "group_name": "impugn, challenge, gainsay, contest",
+      "target_word": "impugn",
+      "words": [
+        "impugn",
+        "challenge",
+        "gainsay",
+        "contest"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "impugn 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to assail by words or arguments",
+          "oppose or attack as false or lacking integrity",
+          "ASSAIL",
+          "RESIST"
+        ],
+        "dictionary_examples": [
+          "This is not to impugn the nobility of counting, of the close and careful observation of nature, of the rational, ordered efforts to understand it.",
+          "The reputations of our decent and hard-working journalists were terribly impugned, and today they have been exonerated.",
+          "None of this impugns Moskowitz’s or Fry’s motives.",
+          "But the Pentagon’s representatives seemed to feel impugned."
+        ],
+        "web_examples": [
+          "This is not to impugn the nobility of counting, of the close and careful observation of nature, of the rational, ordered efforts to understand it.",
+          "The reputations of our decent and hard-working journalists were terribly impugned, and today they have been exonerated.",
+          "None of this impugns Moskowitz’s or Fry’s motives.",
+          "But the Pentagon’s representatives seemed to feel impugned."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "impugn": {
+          "synset": "impugn.v.01",
+          "definition": "attack as false or wrong",
+          "examples": []
+        },
+        "challenge": {
+          "synset": "challenge.n.01",
+          "definition": "a demanding or stimulating situation",
+          "examples": [
+            "they reacted irrationally to the challenge of Russian power"
+          ]
+        },
+        "gainsay": {
+          "synset": "challenge.v.01",
+          "definition": "take exception to",
+          "examples": [
+            "She challenged his claims"
+          ]
+        },
+        "contest": {
+          "synset": "contest.n.01",
+          "definition": "an occasion on which a winner is selected from among two or more contestants",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 15,
+      "group_name": "extol, laud, eulogize, commend",
+      "target_word": "extol",
+      "words": [
+        "extol",
+        "laud",
+        "eulogize",
+        "commend"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "extol 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to praise highly : GLORIFY",
+          "to praise highly"
+        ],
+        "dictionary_examples": [
+          "New recruits and seasoned officers alike take field trips to the Museum of Tolerance, where trainers extol the virtues of multiculturalism.",
+          "With sardinemaxxing, TikTok creators extol the health benefits of sardines and share creative ways to eat more of them.",
+          "Unused Electronics Pope extols the virtues of clearing your house of all useless electronics.",
+          "Fortunately, film is a visual medium and Sienkiewicz’s magnificent artwork provides top shelf eye candy as the shifting cast of actors, directors, art collectors and artists extol his work."
+        ],
+        "web_examples": [
+          "New recruits and seasoned officers alike take field trips to the Museum of Tolerance, where trainers extol the virtues of multiculturalism.",
+          "With sardinemaxxing, TikTok creators extol the health benefits of sardines and share creative ways to eat more of them.",
+          "Unused Electronics Pope extols the virtues of clearing your house of all useless electronics.",
+          "Fortunately, film is a visual medium and Sienkiewicz’s magnificent artwork provides top shelf eye candy as the shifting cast of actors, directors, art collectors and artists extol his work."
+        ],
+        "synonym_discussion": "Synonyms of extol\nRelevance\ncelebrate\npraise\nbless\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "extol": {
+          "synset": "laud.v.01",
+          "definition": "praise, glorify, or honor",
+          "examples": [
+            "extol the virtues of one's children",
+            "glorify one's spouse's cooking"
+          ]
+        },
+        "laud": {
+          "synset": "laud.v.01",
+          "definition": "praise, glorify, or honor",
+          "examples": [
+            "extol the virtues of one's children",
+            "glorify one's spouse's cooking"
+          ]
+        },
+        "eulogize": {
+          "synset": "eulogize.v.01",
+          "definition": "praise formally and eloquently",
+          "examples": [
+            "The dead woman was eulogized at the funeral"
+          ]
+        },
+        "commend": {
+          "synset": "commend.v.01",
+          "definition": "express approval of",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 16,
+      "group_name": "substantiate, corroborate, authenticate, verify",
+      "target_word": "substantiate",
+      "words": [
+        "substantiate",
+        "corroborate",
+        "authenticate",
+        "verify"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "substantiate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to give substance or form to : EMBODY",
+          "to establish by proof or competent evidence : VERIFY",
+          "to give substance or form to : EMBODY",
+          "to establish by proof or evidence"
+        ],
+        "dictionary_examples": [
+          "confirmed the reports",
+          "witnesses corroborated his story",
+          "the claims have yet to be substantiated",
+          "all statements of fact in the article have been verified",
+          "handwriting experts authenticated the diaries",
+          "validated the hypothesis by experiments"
+        ],
+        "web_examples": [
+          "There is no factual evidence that this psychological and economic slaughter of Amadeus by Salieri is substantiated by truth.",
+          "Israel wants the agency known as UNRWA out of Gaza and has repeatedly accused it of being infiltrated by Hamas militants, allegations the International Court of Justice says have not been substantiated.",
+          "The certification scheme does not automatically substantiate every claim made alongside its label.",
+          "Such theories were substantiated less than half an hour into his debut against Arsenal."
+        ],
+        "synonym_discussion": "Synonyms of substantiate\nRelevance\nprove\nestablish\ndemonstrate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "substantiate": {
+          "synset": "confirm.v.01",
+          "definition": "establish or strengthen as with new evidence or facts",
+          "examples": [
+            "his story confirmed my doubts",
+            "The evidence supports the defendant"
+          ]
+        },
+        "corroborate": {
+          "synset": "confirm.v.01",
+          "definition": "establish or strengthen as with new evidence or facts",
+          "examples": [
+            "his story confirmed my doubts",
+            "The evidence supports the defendant"
+          ]
+        },
+        "authenticate": {
+          "synset": "authenticate.v.01",
+          "definition": "establish the authenticity of something",
+          "examples": []
+        },
+        "verify": {
+          "synset": "verify.v.01",
+          "definition": "confirm the truth of",
+          "examples": [
+            "Please verify that the doors are closed",
+            "verify a claim"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 17,
+      "group_name": "vilify, malign, slander, defame",
+      "target_word": "vilify",
+      "words": [
+        "vilify",
+        "malign",
+        "slander",
+        "defame"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "vilify 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to utter slanderous and abusive statements against : DEFAME",
+          "to lower in estimation or importance",
+          "to speak of as wicked"
+        ],
+        "dictionary_examples": [
+          "the most maligned monarch in British history",
+          "so traduced the governor that he was driven from office",
+          "both candidates aspersed the other's motives",
+          "no criminal was more vilified in the press",
+          "falsely calumniated as a traitor",
+          "sued them for defaming her reputation"
+        ],
+        "web_examples": [
+          "Some of this was exacerbated by going to Duke, of course, which has a history of some of its best players being vilified nationwide.",
+          "But Timothy Leary’s version became the dominant idea of psychedelics, and when President Ronald Reagan’s War on Drugs began, psychedelics were vilified as the gateway to ruin.",
+          "As a result, partisans of the political left and right routinely use allegations of plagiarism to vilify their ideological adversaries.",
+          "That is enough for them, no matter the facts or context, to side with the Black lesbian woman and vilify the straight white one."
+        ],
+        "synonym_discussion": "Synonyms of vilify\nRelevance\nlibel\nsmear\nhumiliate\ndiscredit\ndefame\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "vilify": {
+          "synset": "vilify.v.01",
+          "definition": "spread negative information about",
+          "examples": [
+            "The Nazi propaganda vilified the Jews"
+          ]
+        },
+        "malign": {
+          "synset": "badmouth.v.01",
+          "definition": "speak unfavorably about",
+          "examples": [
+            "She badmouths her husband everywhere"
+          ]
+        },
+        "slander": {
+          "synset": "slander.n.01",
+          "definition": "words falsely spoken that damage the reputation of another",
+          "examples": []
+        },
+        "defame": {
+          "synset": "defame.v.01",
+          "definition": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+          "examples": [
+            "The journalists have defamed me!",
+            "The article in the paper sullied my reputation"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 18,
+      "group_name": "adulate, fawn, cajole, flatter",
+      "target_word": "adulate",
+      "words": [
+        "adulate",
+        "fawn",
+        "cajole",
+        "flatter"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "adulate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to praise effusively and slavishly : flatter excessively : fawn upon",
+          "to pay homage to without exercising a critical sense of values",
+          "to admire or be devoted to abjectly and excessively",
+          "to flatter or admire excessively"
+        ],
+        "dictionary_examples": [],
+        "web_examples": [],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "adulate": {
+          "synset": "adulate.v.01",
+          "definition": "flatter in an obsequious manner",
+          "examples": []
+        },
+        "fawn": {
+          "synset": "dun.n.02",
+          "definition": "a color or pigment varying around a light grey-brown color",
+          "examples": [
+            "she wore dun"
+          ]
+        },
+        "cajole": {
+          "synset": "wheedle.v.01",
+          "definition": "influence or urge by gentle urging, caressing, or flattering",
+          "examples": [
+            "He palavered her into going along"
+          ]
+        },
+        "flatter": {
+          "synset": "flatter.v.01",
+          "definition": "praise somewhat dishonestly",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 19,
+      "group_name": "rebuff, spurn, repudiate, reject",
+      "target_word": "rebuff",
+      "words": [
+        "rebuff",
+        "spurn",
+        "repudiate",
+        "reject"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "rebuff 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to reject or criticize sharply : SNUB",
+          "to refuse or check sharply",
+          "a refusal to meet an advance or offer"
+        ],
+        "dictionary_examples": [
+          "After Washington rebuffed calls to strike Houthi rebels, Saudi Arabia is pursuing new maritime and defense alliances.",
+          "While Republican court challenges have been successful in North Carolina, they have been rebuffed twice in Michigan as similar lawsuits continue in Arizona and at least five other states.",
+          "Alarmed at the unexpected setback, Saudi Crown Prince Mohammed bin Salman, who last year agreed a defense pact with Washington, personallyrequested US military intervention but was rebuffed, a source familiar with the matter told CNN.",
+          "At the same time, Sobyanin, who is widely seen as a pragmatist, has rebuffed calls by Russian hawks for a broad mobilization of conscripts and putting the entire economy on a war footing."
+        ],
+        "web_examples": [
+          "After Washington rebuffed calls to strike Houthi rebels, Saudi Arabia is pursuing new maritime and defense alliances.",
+          "While Republican court challenges have been successful in North Carolina, they have been rebuffed twice in Michigan as similar lawsuits continue in Arizona and at least five other states.",
+          "Alarmed at the unexpected setback, Saudi Crown Prince Mohammed bin Salman, who last year agreed a defense pact with Washington, personallyrequested US military intervention but was rebuffed, a source familiar with the matter told CNN.",
+          "At the same time, Sobyanin, who is widely seen as a pragmatist, has rebuffed calls by Russian hawks for a broad mobilization of conscripts and putting the entire economy on a war footing."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "rebuff": {
+          "synset": "rebuff.n.01",
+          "definition": "a deliberate discourteous act (usually as an expression of anger or disapproval)",
+          "examples": []
+        },
+        "spurn": {
+          "synset": "reject.v.04",
+          "definition": "reject with contempt",
+          "examples": [
+            "She spurned his advances"
+          ]
+        },
+        "repudiate": {
+          "synset": "disown.v.02",
+          "definition": "cast off",
+          "examples": [
+            "She renounced her husband",
+            "The parents repudiated their son"
+          ]
+        },
+        "reject": {
+          "synset": "cull.n.01",
+          "definition": "the person or thing that is rejected or set aside as inferior in quality",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 20,
+      "group_name": "decry, denounce, condemn, censure",
+      "target_word": "decry",
+      "words": [
+        "decry",
+        "denounce",
+        "condemn",
+        "censure"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "decry 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to depreciate (something, such as a coin) officially or publicly",
+          "to express strong disapproval of",
+          "to express disrespect and scorn for : BELITTLE",
+          "to find fault with : CONDEMN"
+        ],
+        "dictionary_examples": [
+          "decried their defeatist attitude",
+          "critics depreciate his plays for being unabashedly sentimental",
+          "disparaged polo as a game for the rich",
+          "belittled the achievements of others",
+          "But Humboldt County residents and officials decry the move as just the latest example of overregulation and government overreach in liberal California — and of the disconnect between its rural and urban places.",
+          "One of the grid’s most astute late-nineteenth-century critics, the geologist John Wesley Powell, decried its environmental recklessness."
+        ],
+        "web_examples": [
+          "But Humboldt County residents and officials decry the move as just the latest example of overregulation and government overreach in liberal California — and of the disconnect between its rural and urban places.",
+          "One of the grid’s most astute late-nineteenth-century critics, the geologist John Wesley Powell, decried its environmental recklessness.",
+          "For more than a decade, agents and analysts have decried the death of the movie star.",
+          "As reports of the states reaching a settlement with Paramount emerged Monday, critics decried the deal — while warning of what further consolidation could mean in an industry already controlled by just a few major players."
+        ],
+        "synonym_discussion": "Synonyms of decry\nRelevance\ndismiss\nminimize\ncriticize\ndiminish\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "decry": {
+          "synset": "condemn.v.01",
+          "definition": "express strong disapproval of",
+          "examples": [
+            "We condemn the racism in South Africa",
+            "These ideas were reprobated"
+          ]
+        },
+        "denounce": {
+          "synset": "denounce.v.01",
+          "definition": "speak out against",
+          "examples": [
+            "He denounced the Nazis"
+          ]
+        },
+        "condemn": {
+          "synset": "condemn.v.01",
+          "definition": "express strong disapproval of",
+          "examples": [
+            "We condemn the racism in South Africa",
+            "These ideas were reprobated"
+          ]
+        },
+        "censure": {
+          "synset": "censure.n.01",
+          "definition": "harsh criticism or disapproval",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 21,
+      "group_name": "equivocal, enigmatic, ambiguous, obscure",
+      "target_word": "equivocal",
+      "words": [
+        "equivocal",
+        "enigmatic",
+        "ambiguous",
+        "obscure"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "equivocal 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "subject to two or more interpretations and usually used to mislead or confuse",
+          "uncertain as an indication or sign",
+          "of uncertain nature or classification",
+          "of uncertain disposition toward a person or thing : UNDECIDED"
+        ],
+        "dictionary_examples": [
+          "obscure poems",
+          "muttered dark hints of revenge",
+          "a vague sense of obligation",
+          "enigmatic occult writings",
+          "cryptic hints of hidden treasure",
+          "an ambiguous directive"
+        ],
+        "web_examples": [
+          "The Ostrich Army spoke of the impending incursion as the advent of jackboot autocracy, but plans to resist it seemed more equivocal.",
+          "Orders can be equivocal, statements ambiguous, instructions murky.",
+          "Perhaps no modernist artist proved less equivocal regarding form than Brancusi (save perhaps Mondrian).",
+          "But when McGill sent me her summary of the study later, the results were equivocal."
+        ],
+        "synonym_discussion": "Synonyms of equivocal\nRelevance\nquestionable\ndubious\ndisputable\ndoubtful\nsuspicious\ndebatable\nproblematic\nsuspect\nambiguous\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "equivocal": {
+          "synset": "equivocal.a.01",
+          "definition": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+          "examples": [
+            "an equivocal statement",
+            "the polling had a complex and equivocal (or ambiguous) message for potential female candidates"
+          ]
+        },
+        "enigmatic": {
+          "synset": "enigmatic.s.01",
+          "definition": "not clear to the understanding",
+          "examples": [
+            "I didn't grasp the meaning of that enigmatic comment until much later",
+            "prophetic texts so enigmatic that their meaning has been disputed for centuries"
+          ]
+        },
+        "ambiguous": {
+          "synset": "equivocal.a.01",
+          "definition": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+          "examples": [
+            "an equivocal statement",
+            "the polling had a complex and equivocal (or ambiguous) message for potential female candidates"
+          ]
+        },
+        "obscure": {
+          "synset": "obscure.v.01",
+          "definition": "make less visible or unclear",
+          "examples": [
+            "The stars are obscured by the clouds",
+            "the big elm tree obscures our view of the valley"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 22,
+      "group_name": "sensuous, sensual, aesthetic, voluptuous",
+      "target_word": "sensuous",
+      "words": [
+        "sensuous",
+        "sensual",
+        "aesthetic",
+        "voluptuous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "sensuous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "of or relating to the senses or sensible objects",
+          "producing or characterized by gratification of the senses : having strong sensory appeal",
+          "characterized by sense impressions or imagery aimed at the senses",
+          "highly susceptible to influence through the senses"
+        ],
+        "dictionary_examples": [
+          "the sensuous delights of great music",
+          "a life devoted to sensual pleasures",
+          "a luxurious hotel",
+          "a voluptuous feast",
+          "And their courtship, which White shoots with a sensuous intimacy, begins with some canoodling at a bar, then progresses into an impulsive hookup during a late session at the office.",
+          "In our natural state, the sensuous and formal drives conflict with each other."
+        ],
+        "web_examples": [
+          "And their courtship, which White shoots with a sensuous intimacy, begins with some canoodling at a bar, then progresses into an impulsive hookup during a late session at the office.",
+          "In our natural state, the sensuous and formal drives conflict with each other.",
+          "The interplay between straight lines and sensuous curves is there, too.",
+          "Kate Fry, whose assignment here as Gretl requires a temporal transition from the coquettish and sensuous to a character rich with the moral authority of experience and an ability to judge the folly of others, is quite extraordinary."
+        ],
+        "synonym_discussion": "Synonyms of sensuous\nRelevance\nsensory\nsensual\nsensorial\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "sensuous": {
+          "synset": "sensuous.s.01",
+          "definition": "taking delight in beauty",
+          "examples": [
+            "the sensuous joy from all things fair"
+          ]
+        },
+        "sensual": {
+          "synset": "animal.s.01",
+          "definition": "marked by the appetites and passions of the body",
+          "examples": [
+            "animal instincts",
+            "carnal knowledge"
+          ]
+        },
+        "aesthetic": {
+          "synset": "aesthetic.n.01",
+          "definition": "(philosophy) a philosophical theory as to what is beautiful",
+          "examples": [
+            "he despised the esthetic of minimalism"
+          ]
+        },
+        "voluptuous": {
+          "synset": "juicy.s.02",
+          "definition": "having strong sexual appeal",
+          "examples": [
+            "juicy barmaids",
+            "a red-hot mama"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 23,
+      "group_name": "judicious, judicial, prudent, legislative",
+      "target_word": "judicious",
+      "words": [
+        "judicious",
+        "judicial",
+        "prudent",
+        "legislative"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "judicious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "having, exercising, or characterized by sound judgment",
+          "having, exercising, or characterized by sound judgment"
+        ],
+        "dictionary_examples": [
+          "wise beyond his tender years",
+          "the sage advice of my father",
+          "the sapient musings of an old philosopher",
+          "judicious parents using kindness and discipline in equal measure",
+          "a prudent decision to wait out the storm",
+          "a sensible woman who was not fooled by flattery"
+        ],
+        "web_examples": [
+          "To ensure his effectiveness and align with his routine, team officials are more judicious in phoning down to the bullpen when he could be used.",
+          "Buck has long since dismounted from his high horse, but people who live in glass houses that are also occupied by Mike Darnell should probably be a bit more judicious when hucking rocks.",
+          "At an Assembly Health Committee hearing in June, Chief Probation Officers of California Legislative Director Danielle Sanchez said these facilities are already subjected to judicious inspection and would not benefit from additional oversight.",
+          "These details will be crucial to determining how effective and judicious the program will be."
+        ],
+        "synonym_discussion": "Synonyms of judicious\nRelevance\nintelligent\nprudent\ncautious\ndiscreet\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "judicious": {
+          "synset": "judicious.s.01",
+          "definition": "marked by the exercise of good judgment or common sense in practical matters",
+          "examples": [
+            "judicious use of one's money",
+            "a wise decision"
+          ]
+        },
+        "judicial": {
+          "synset": "judicial.s.01",
+          "definition": "decreed by or proceeding from a court of justice",
+          "examples": [
+            "a judicial decision"
+          ]
+        },
+        "prudent": {
+          "synset": "prudent.a.01",
+          "definition": "careful and sensible; marked by sound judgment",
+          "examples": [
+            "a prudent manager",
+            "prudent rulers"
+          ]
+        },
+        "legislative": {
+          "synset": "legislative.a.01",
+          "definition": "relating to a legislature or composed of members of a legislature",
+          "examples": [
+            "legislative council"
+          ]
+        }
+      }
+    }
+  ]
+}

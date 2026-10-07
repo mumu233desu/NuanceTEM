@@ -1,0 +1,922 @@
+[
+  {
+    "id": "tem8_c6_01",
+    "group_id": 139,
+    "group_name": "accessible, handy, getatable, reachable",
+    "level": "TEM-8",
+    "target_word": "accessible",
+    "question": "Under the sunshine statute, the appellate court ruled that all unsealed evidentiary exhibits must remain readily ___ to accredited journalists and members of the public throughout the judicial proceedings.",
+    "options": ["accessible", "handy", "getatable", "reachable"],
+    "answer": "accessible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题干核心题眼为 'readily ___ to accredited journalists and members of the public'。在法学与信息公开法（sunshine laws）中，'accessible to the public' 是指公共档案与物证对公众保持可查阅/可获取性的绝对法定固定搭配。",
+    "distractor_analysis": {
+      "accessible": "adj. 正式法学与公法用语，专指资料、档案或公共场所“可供查阅、可供公众获取的”（accessible to sb.）。此处与 sunshine statute 及 public 构成严密的政经法律搭配。",
+      "handy": "adj. 口语化词汇，指物品或工具“手边的、便于使用的”（如 a handy tool），语域过于随和口语，不能用于修饰庄严法庭证据档案的公众开放性。",
+      "getatable": "adj. 英式非正式俚语/口语，指“弄得到的、可达到的”，文体极其低端俚俗，在司法判决书与学术长难句中属于严重语域破格。",
+      "reachable": "adj. 侧重地理/空间上的“可到达的”或通讯手段上的“可联络的”（如 reachable by phone），无法准确表达法律制度层面上档案对公众的“公开查阅权与可获取性”。"
+    },
+    "translation": "依据信息公开法规，上诉法院裁定，在整个司法审判过程中，所有解封的证据展品必须随时向认可记者和公众开放查阅。"
+  },
+  {
+    "id": "tem8_c6_02",
+    "group_id": 139,
+    "group_name": "accessible, handy, getatable, reachable",
+    "level": "TEM-8",
+    "target_word": "reachable",
+    "question": "Although the non-resident defendant fled across the state boundary, prosecutors maintained that he remained legally ___ through an interstate extradition warrant issued by the magistrate.",
+    "options": ["accessible", "handy", "getatable", "reachable"],
+    "answer": "reachable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题干题眼为 'remained legally ___ through an interstate extradition warrant'（通过跨州引渡令在法律上仍处于……）。reachable 专指涉案人员处于管辖权、传票或司法逮捕程序的追及与触达范围内。",
+    "distractor_analysis": {
+      "reachable": "adj. 专指人或实体在司法管辖、物理追捕或程序送达上“可触及、可追及的”（legally reachable by/through legal process），在此与引渡令达成精准语义闭环。",
+      "accessible": "adj. 侧重客观资源、建筑物或资料“易接近、可供查阅利用”，极少用来形容潜逃在外的刑事被告人处于司法抓捕管辖的触达范围之下。",
+      "handy": "adj. 意为“手边的、方便的”，属日常口语词，代入修饰刑事潜逃犯产生荒谬的语意和语体错位。",
+      "getatable": "adj. 属口语罕见俚语词，无法进入严谨的跨州刑事管辖与引渡程序语境。"
+    },
+    "translation": "尽管该非本州居住的被告潜逃越过了州界，但检方坚称，通过治安法官签发的跨州引渡令，他在法律管辖上依然是可以追及抓捕的。"
+  },
+  {
+    "id": "tem8_c6_03",
+    "group_id": 140,
+    "group_name": "adamant, inflexible, inexorable, intransigent",
+    "level": "TEM-8",
+    "target_word": "adamant",
+    "question": "Despite mounting pressure from the presiding judge to accept a plea bargain, the defense attorney remained ___ that her client would not plead guilty to crimes he did not commit.",
+    "options": ["adamant", "inflexible", "inexorable", "intransigent"],
+    "answer": "adamant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句法绝对排他题眼：空格后紧接 'that her client would not plead guilty...' 从句。四个选项中仅有 adamant 具备后接 that 宾语/同位语从句的特有句法功能（be/remain adamant that...）；其余三词均不可接 that 从句。",
+    "distractor_analysis": {
+      "adamant": "adj. 坚定不移的，固执坚持的。其独特的句法搭配是后接 that 从句（adamant that...，如 MW 例句 'adamant that the work should continue'），表坚决主张某事，句法与语境完全契合。",
+      "inflexible": "adj. 不可变通的、顽固的。通常作前置定语或表语接 in（inflexible in their demands），在现代标准英语中不能直接后接 that 从句（*inflexible that... 属句法严重破格）。",
+      "inexorable": "adj. 无情的、不可阻挡的。通常修饰客观进程、法则或命运（如 inexorable rise/logic），不接 that 从句，亦不能用于主观坚持某项无罪抗辩意见。",
+      "intransigent": "adj. 不妥协的、毫不让步的。通常用于形容政治派系或谈判者的立场态度（接 on/about），句法上不可接 that 从句（*intransigent that... 属句法错误）。"
+    },
+    "translation": "尽管审判长施加了越来越大的压力要求其接受认罪协议，辩护律师仍然坚决表示，她的当事人绝不会就其未曾犯下的罪行认罪。"
+  },
+  {
+    "id": "tem8_c6_04",
+    "group_id": 140,
+    "group_name": "adamant, inflexible, inexorable, intransigent",
+    "level": "TEM-8",
+    "target_word": "inexorable",
+    "question": "Under mandatory minimum sentencing statutes, the trial judge lamented that the ___ logic of statutory punishment left the bench no equitable discretion to mitigate the offender's severe prison term.",
+    "options": ["adamant", "inflexible", "inexorable", "intransigent"],
+    "answer": "inexorable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "题眼为 'the ___ logic of statutory punishment left the bench no equitable discretion'（法定刑罚的……逻辑让法官毫无衡平裁量权）。inexorable 专指客观规律、法则或机器般不徇私情、不可遏止地无情推进的逻辑机制。",
+    "distractor_analysis": {
+      "inexorable": "adj. 专指抽象规律、法定机制或时间进程“不可阻挡的、不为求情所动的、无情推进的”（MW: not to be persuaded, moved, or stopped: relentless）。与 the inexorable logic of statutory punishment 构成专八法哲学经典搭配。",
+      "adamant": "adj. 专指“人”在态度或主张上的坚决固执（如 adamant attorney/refusal），不能用来修饰抽象的法律成文法惩罚逻辑机制。",
+      "inflexible": "adj. 意为“僵硬的、不灵活的”，侧重物理硬度或规则死板，但无法表达法律机制如命运般“残酷无情、不可抗拒、毫无同情余地”的法学深层悲剧质感。",
+      "intransigent": "adj. 专指社会政治争端中“拒绝妥协斡旋的谈判者或党派”（如 an intransigent negotiator），主语通常为人或政党组织，不可修饰逻辑推导机制。"
+    },
+    "translation": "在强制性最低刑期法规之下，主审法官慨叹道，成文法惩罚那无情冷酷的逻辑让法官席完全丧失了减轻罪犯严苛刑期的衡平自由裁量权。"
+  },
+  {
+    "id": "tem8_c6_05",
+    "group_id": 141,
+    "group_name": "additive, cumulative, complementary, completing",
+    "level": "TEM-8",
+    "target_word": "cumulative",
+    "question": "The presiding judge sustained the objection under Rule 403, ruling that introducing a fifth expert testimony on the identical ballistics finding was needlessly ___ and would cause undue delay.",
+    "options": ["additive", "cumulative", "complementary", "completing"],
+    "answer": "cumulative",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为证据法（Federal Rule of Evidence 403）中关于排除不必要证据的绝对法定术语：'needlessly cumulative'（不必要的累赘重复证据）。",
+    "distractor_analysis": {
+      "cumulative": "adj. 证据法专有术语。在联邦证据规则第 403 条中，“needlessly cumulative evidence”（无谓重复/累赘证据）是法官行使自由裁量权排除过剩证据的核心法定事由，固定搭配不可替代。",
+      "additive": "adj. 侧重化学、工业或数学领域的“添加剂的、相加的”，指简单相加产生总和效应，非证据法专有名词。",
+      "complementary": "adj. 意为“互补的、相辅相成的”，与语境中因“重复同一种弹道学发现（identical ballistics finding）”而被法官驳回的逻辑恰好相反。",
+      "completing": "adj./part. 意为“使完成的、完工的”，既非证据法规范术语，亦不能修饰证据造成的冗余与拖延。"
+    },
+    "translation": "审判长依据《联邦证据规则》第 403 条支持了异议，裁定就完全相同的弹道学调查结果引入第五份专家证言属于毫无必要的累赘重复，并会导致不当延误。"
+  },
+  {
+    "id": "tem8_c6_06",
+    "group_id": 141,
+    "group_name": "additive, cumulative, complementary, completing",
+    "level": "TEM-8",
+    "target_word": "complementary",
+    "question": "The Supreme Court noted that federal antitrust statutes and state consumer protection doctrines serve ___ roles, reinforcing each other rather than preempting local regulatory enforcement.",
+    "options": ["additive", "cumulative", "complementary", "completing"],
+    "answer": "complementary",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题干后半句 'reinforcing each other rather than preempting local regulatory enforcement'（相互强化而非排挤架空地方规制）为决定性排他线索，专指两套法律制度各具特色、相辅相成。",
+    "distractor_analysis": {
+      "complementary": "adj. 互补的、相辅相成的。指两套不同的机制互相补充短板、协同发挥作用（MW: mutually supplying each other's lack），与后文 reinforcing each other 完美呼应。",
+      "additive": "adj. 强调单向机械累加（如 additive effect），无法传达联邦法与州法在制度管辖权层面的功能互补与协同分工。",
+      "cumulative": "adj. 累积的、递增的（如 cumulative penalties/growth），强调数量层层叠加，而非不同职能之间的有机配合。",
+      "completing": "adj./part. 意为“完成性质的、补充圆满的”，不能用于表达两个法律部门互为补充支撑的制度性角色。"
+    },
+    "translation": "最高法院指出，联邦反垄断法与州消费者权益保护学说发挥着互补作用，彼此相互强化，而非排斥架空地方监管执法。"
+  },
+  {
+    "id": "tem8_c6_07",
+    "group_id": 142,
+    "group_name": "adept, good, expert, skilled",
+    "level": "TEM-8",
+    "target_word": "adept",
+    "question": "The veteran trial litigator proved exceptionally ___ at exposing minor inconsistencies in the witness's deposition, systematically dismantling the prosecution's narrative before the captivated jury.",
+    "options": ["adept", "good", "expert", "skilled"],
+    "answer": "adept",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为固定搭配 'exceptionally ___ at exposing minor inconsistencies'。adept at doing sth. 是表达在策略与辩护技巧上熟稔精巧的高频外刊学术搭配。",
+    "distractor_analysis": {
+      "adept": "adj. 娴熟的、机敏灵巧的。固定搭配 adept at doing sth.（MW: adept at doing long division），专指在应对复杂多变或富有策略性的法庭对抗中展现出的敏捷技艺，语域典雅。",
+      "good": "adj. 虽可接 at，但属于基础初中词汇，在描述资深法庭诉讼律师交叉询问的高阶长难句中语域严重失范低俗。",
+      "expert": "adj. 熟练的、专门的。作为形容词时习惯接 in 或 on（如 expert in forensic science），接 at doing sth. 极其罕见且生硬。",
+      "skilled": "adj. 熟练的、有技能的。通常接 in（如 skilled in the art of advocacy）或强调经过机械专门培训的手艺，修饰机动性强的法庭拆招不如 adept 贴切。"
+    },
+    "translation": "这位资深庭审诉讼律师极其擅长揭示证人庭外宣誓证词中的微小矛盾，在全神贯注的陪审团面前系统性地瓦解了检方的叙事框架。"
+  },
+  {
+    "id": "tem8_c6_08",
+    "group_id": 142,
+    "group_name": "adept, good, expert, skilled",
+    "level": "TEM-8",
+    "target_word": "expert",
+    "question": "Before the chemist could offer forensic testimony regarding toxic chemical exposure, the court conducted a rigorous voir dire hearing to qualify her as an ___ witness under evidentiary standards.",
+    "options": ["adept", "good", "expert", "skilled"],
+    "answer": "expert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼为英美证据法核心专有名词：'qualify her as an ___ witness under evidentiary standards'。证据法中的“专家证人”只能固定表达为 expert witness。",
+    "distractor_analysis": {
+      "expert": "adj./n. 证据法专有法定概念。在英美法庭预备审查（voir dire）中，法官依法裁定证人具备特定专长资格并允许其发表意见证词，该法定主体必须称为 expert witness（专家证人）。",
+      "adept": "adj. 仅作普通修饰语指技巧熟练，非证据法法定术语，不存在 *adept witness 这一法律概念。",
+      "good": "adj. 普通日常形容词，完全脱离法律规范术语体系。",
+      "skilled": "adj. 虽有技术熟练之意，但在英美法系法定证据规则（如 Federal Rules of Evidence）中，受审资格评定的证人法定类别统一定名为 expert witness，skilled witness 非规范称谓。"
+    },
+    "translation": "在这位化学家就受有毒化学品暴露发表法医毒理学证词之前，法庭举行了严格的先期审查听证，以依据证据标准确认其专家证人资格。"
+  },
+  {
+    "id": "tem8_c6_09",
+    "group_id": 143,
+    "group_name": "adhesive, gluey, pasty, gummy",
+    "level": "TEM-8",
+    "target_word": "adhesive",
+    "question": "Forensic investigators retrieved crucial latent fingerprints from the crime scene by applying a specialized ___ tape designed to preserve delicate ridge patterns on smooth metal surfaces.",
+    "options": ["adhesive", "gluey", "pasty", "gummy"],
+    "answer": "adhesive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "刑侦与物证勘验固定术语题眼：'specialized ___ tape designed to preserve delicate ridge patterns'。在物证技术中，提取潜在指纹的专用胶带专称为 adhesive tape。",
+    "distractor_analysis": {
+      "adhesive": "adj. 粘合的、带胶的。在刑事物证提取中，“adhesive tape”（物证粘性胶带）是提取平整表面潜在指纹（latent fingerprints）的唯一法定专业术语。",
+      "gluey": "adj. 胶状的、黏糊糊的。属于描述半流体物理状态的日常口语词，不能用于界定工业或刑侦规范胶带产品。",
+      "pasty": "adj. 浆糊状的、苍白面糊状的。多形容面色或糊状稠度，与压敏物证胶带毫无关联。",
+      "gummy": "adj. 胶粘的、多树胶的。通常描述带糖胶或树胶的黏稠质地，非物证技术规范用语。"
+    },
+    "translation": "法医调查人员通过使用一种旨在保护光滑金属表面细微脊纹特征的特制物证粘性胶带，从犯罪现场提取到了关键的潜在指纹。"
+  },
+  {
+    "id": "tem8_c6_10",
+    "group_id": 143,
+    "group_name": "adhesive, gluey, pasty, gummy",
+    "level": "TEM-8",
+    "target_word": "pasty",
+    "question": "Observing the defendant's trembling hands and unusually ___ complexion during cross-examination, the court marshals suspected he was experiencing severe acute withdrawal rather than ordinary courtroom anxiety.",
+    "options": ["adhesive", "gluey", "pasty", "gummy"],
+    "answer": "pasty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "题眼为固定外貌修饰搭配：'unusually ___ complexion'。在英语中修饰因病痛、毒瘾戒断或虚脱而呈现病态苍白蜡黄的面色，唯一固定搭配为 pasty complexion。",
+    "distractor_analysis": {
+      "pasty": "adj. （面色）苍白无血色的、虚浮蜡黄的。形容人体面色因疾病或剧烈应激呈病态苍白（pasty complexion），与后文 acute withdrawal（急性戒断反应）构成严丝合缝的法庭病理学特征呼应。",
+      "adhesive": "adj. 粘性的、粘合的。用来形容人体的 complexion（面色）完全不合句意与常理，造成荒诞语义错误。",
+      "gluey": "adj. 胶粘的、黏糊的。无法用于修饰人类面部气色。",
+      "gummy": "adj. 树胶状的、牙龈的。既不能修饰面容，代入后亦造成逻辑混乱。"
+    },
+    "translation": "在交叉询问过程中，法警注意到被告颤抖的双手和异常苍白蜡黄的面色，怀疑他正在经历严重的急性毒瘾戒断反应，而非普通的庭审焦虑。"
+  },
+  {
+    "id": "tem8_c6_11",
+    "group_id": 144,
+    "group_name": "adjunct, adjuvant, accessory, ancillary",
+    "level": "TEM-8",
+    "target_word": "ancillary",
+    "question": "Under federal procedural rules, the district court exercised ___ jurisdiction over the state-law cross-claims because they arose from the identical transaction and nucleus of operative fact.",
+    "options": ["adjunct", "adjuvant", "accessory", "ancillary"],
+    "answer": "ancillary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "联邦民事诉讼法（Federal Civil Procedure）管辖权核心法定概念：'exercised ___ jurisdiction over the state-law cross-claims'。附随/附属管辖权专指 ancillary jurisdiction。",
+    "distractor_analysis": {
+      "ancillary": "adj. 附随的、辅助的。在司法诉讼法体系中，“ancillary jurisdiction”（附随管辖权）是联邦法院处理基于同一案件事实所派生之州法诉求的专有宪制法律术语。",
+      "adjunct": "adj./n. 附属物、副职/兼任人员（如 an adjunct professor）。非司法管辖权法定分类概念，不存在 *adjunct jurisdiction。",
+      "adjuvant": "adj./n. 医学辅助佐剂、辅助治疗的。专门用于生物医药领域，不能用于法庭程序管辖体系。",
+      "accessory": "adj./n. 刑法从犯、饰品配件。虽属于法律涉案词汇，但其形容词作从属解时不能修饰法院司法管辖权。"
+    },
+    "translation": "依据联邦诉讼规则，地区法院对涉及州法的交叉索赔行使了附随管辖权，因为这些索赔源于完全相同的交易和核心有效事实。"
+  },
+  {
+    "id": "tem8_c6_12",
+    "group_id": 144,
+    "group_name": "adjunct, adjuvant, accessory, ancillary",
+    "level": "TEM-8",
+    "target_word": "accessory",
+    "question": "The grand jury indicted the driver as an ___ after the fact, alleging he harbored the principal fugitive and concealed the firearm used in the armed robbery.",
+    "options": ["adjunct", "adjuvant", "accessory", "ancillary"],
+    "answer": "accessory",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "英美刑法法定共同犯罪罪名题眼：'indicted the driver as an ___ after the fact'。刑法中专指包庇窝藏、事后协助正犯的罪名为 accessory after the fact（事后从犯）。",
+    "distractor_analysis": {
+      "accessory": "n. 刑法专有名词。在共同犯罪理论中，“accessory after the fact”（事后从犯/包庇窝藏犯）是法定罪名，专指明知他人犯罪而在事后为其提供藏匿、毁灭证据帮助的行为主体。",
+      "adjunct": "n. 附属物、辅助人员。通常用于学术机构或行政编制外雇佣，非刑法刑事责任归责主体。",
+      "adjuvant": "n. 药理学佐剂、增强剂。完全属于生物医学语域，不能充当刑法刑事被告人罪名。",
+      "ancillary": "adj. 附属的、辅助性的。通常作形容词修饰权利、程序或管辖权，不作名词表示刑事共犯主体。"
+    },
+    "translation": "大陪审团起诉该司机为事后从犯，指控其窝藏主犯并隐匿了在持械抢劫案中所使用的枪支。"
+  },
+  {
+    "id": "tem8_c6_13",
+    "group_id": 145,
+    "group_name": "admissible, permissible, allowable, admittible",
+    "level": "TEM-8",
+    "target_word": "admissible",
+    "question": "The appellate bench affirmed that wiretap recordings obtained without a valid search warrant were wholly in violation of the Fourth Amendment and therefore legally deemed not ___ at trial.",
+    "options": ["admissible", "permissible", "allowable", "admittible"],
+    "answer": "admissible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "证据法核心题眼：'recordings obtained without a valid search warrant ... legally deemed not ___ at trial'。证据在庭审中是否具备采纳资格，法定规范术语必须为 admissible at trial（证据可采性）。",
+    "distractor_analysis": {
+      "admissible": "adj. （证据）有证据能力的、可采纳的。在英美证据法中，“admissible evidence / admissible at trial”是判定证据是否允许进入法庭事实认定程序的唯一专有法律概念（MW: admissible at trial）。",
+      "permissible": "adj. 准许的、容许的。泛指某种行为、推理或措施在道德或一般规章上被认可（如 permissible conduct），非认定物证是否具备采信能力的证据学术语。",
+      "allowable": "adj. 允许的、可扣除的。多用于财务、开支报销或税收扣除额度（如 allowable tax deduction），脱离证据法语境。",
+      "admittible": "adj. 生僻拼写或非标准词汇，不符合当代英美司法判决书规范正字法。"
+    },
+    "translation": "上诉法院合议庭确认，在没有有效搜查令的情况下获取的窃听录音完全违反了第四修正案，因此在法律上被认定在庭审中不具可采性。"
+  },
+  {
+    "id": "tem8_c6_14",
+    "group_id": 145,
+    "group_name": "admissible, permissible, allowable, admittible",
+    "level": "TEM-8",
+    "target_word": "permissible",
+    "question": "The Supreme Court clarified that while harsh interrogation tactics were unconstitutional, drawing an adverse factual inference from a civil litigant's silence remained constitutionally ___ under due process.",
+    "options": ["admissible", "permissible", "allowable", "admittible"],
+    "answer": "permissible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "宪法审查权威搭配题眼：'drawing an adverse factual inference ... remained constitutionally ___ under due process'。宪法正当程序所允许的法律解释或推论，专有表述为 constitutionally permissible。",
+    "distractor_analysis": {
+      "permissible": "adj. 法律/规则上被允许的、合宪的。在宪法裁决与公法审查中，“constitutionally permissible”（合乎宪法所容许范围的）是判定程序机制是否逾越正当程序底线的经典法学学术搭配。",
+      "admissible": "adj. 专门修饰具体的物证、证言等“证据能力”（admissible evidence），不能用来修饰抽象的事实推定（inference）在宪制维度的合宪合法性。",
+      "allowable": "adj. 侧重数量限额或免税扣除额度（allowable claim/cost），不能形容司法推断在宪法层面上的合法有效性。",
+      "admittible": "adj. 罕见古旧且非标准形式，严重破坏高阶司法判例之庄重文体。"
+    },
+    "translation": "最高法院阐明，虽然严酷的审讯手段属于违宪，但在正当程序原则下，从民事诉讼当事人的沉默中推定出不利的事实结论在宪法上依然是被允许的。"
+  },
+  {
+    "id": "tem8_c6_15",
+    "group_id": 146,
+    "group_name": "adrift, afloat, aimless, planless",
+    "level": "TEM-8",
+    "target_word": "adrift",
+    "question": "Because the trial judge provided convoluted and contradictory jury instructions on criminal intent, the sequestered panel was left entirely ___ regarding the requisite standard of reasonable doubt.",
+    "options": ["adrift", "afloat", "aimless", "planless"],
+    "answer": "adrift",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为隐喻修辞短语：'the sequestered panel was left entirely ___ regarding the requisite standard...'。MW 权威释义 'without ties, guidance, or security'，专指陪审团由于法官指引混乱而陷入无所适从、失去方向的迷失状态（left adrift）。",
+    "distractor_analysis": {
+      "adrift": "adj. 随波逐流的、失去指引而迷茫的。固定搭配 be left adrift（MW: without ties, guidance, or security; left adrift by script/instructions），形象刻画出陪审团因法官指引矛盾而陷入失去方向的无助孤立境地。",
+      "afloat": "adj. 漂浮的、在财务上免于破产的（keep afloat）。无法与 left entirely ___ 搭配表达在法律标准理解上的迷失无据。",
+      "aimless": "adj. 无目的的、漫无目的的。多修饰主动的流浪、游荡（如 aimless wandering）或缺乏宗旨的行动，不能作宾语补足语搭配表达被抛入无从遵循的被动困境。",
+      "planless": "adj. 缺乏计划的。侧重缺乏前期规划设计，无法表达陪审团在复杂的合理怀疑证明标准面前所遭遇的认知迷失与断裂。"
+    },
+    "translation": "由于审判长在犯罪故意方面作出了晦涩且自相矛盾的陪审团指引，被隔离的陪审团在面对法定合理怀疑证明标准时完全无所适从、迷失了方向。"
+  },
+  {
+    "id": "tem8_c6_16",
+    "group_id": 146,
+    "group_name": "adrift, afloat, aimless, planless",
+    "level": "TEM-8",
+    "target_word": "afloat",
+    "question": "During the contentious Chapter 11 bankruptcy restructuring, debtor-in-possession financing served as the solitary lifeline that kept the insolvent retail corporation financially ___ while litigating claims with creditors.",
+    "options": ["adrift", "afloat", "aimless", "planless"],
+    "answer": "afloat",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "商法与破产法经典固定搭配题眼：'solitary lifeline that kept the insolvent retail corporation financially ___'。保持濒危企业资金链不至于断裂沉没，唯一固定搭配为 keep ... financially afloat。",
+    "distractor_analysis": {
+      "afloat": "adj. 经济/商法固定隐喻搭配。与 lifeline（救生索）以及 financially 连用，“keep a corporation financially afloat”（维持破产企业财务运转不致倒闭沉没）是外刊政经法律报道的标准专有表达。",
+      "adrift": "adj. 漂泊不定的、失去支撑的。常用于负面失控（go adrift），若填入将与 lifeline 所起的救命维持作用发生逻辑对立倒错。",
+      "aimless": "adj. 漫无目的的。不能用于修饰企业的资金周转维系状态。",
+      "planless": "adj. 无计划的。不能用于 financially 修饰下的生存维续状态。"
+    },
+    "translation": "在充满争议的第 11 章破产重组期间，占有债务人融资成为了唯一的生命线，在与债权人就索赔进行诉讼之际，维持了这家资不抵债的零售公司在财务上不至覆灭。"
+  },
+  {
+    "id": "tem8_c6_17",
+    "group_id": 147,
+    "group_name": "adverse, untoward, unfavorable, unfavourable",
+    "level": "TEM-8",
+    "target_word": "adverse",
+    "question": "When the corporate executive invoked the Fifth Amendment privilege against self-incrimination in the civil fraud suit, the presiding magistrate permitted the jury to draw an ___ factual inference.",
+    "options": ["adverse", "untoward", "unfavorable", "unfavourable"],
+    "answer": "adverse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "证据法与民事诉讼绝对专有题眼：'permitted the jury to draw an ___ factual inference'。英美证据法中，由当事人行使沉默权或隐匿证据而派生出的“不利推断”，法学专有名词统称为 adverse inference。",
+    "distractor_analysis": {
+      "adverse": "adj. 证据法专有术语。在民事诉讼中，当事人援引第五修正案拒绝作证时，陪审团有权作出“adverse inference”（不利推断），此乃普通法系不可动摇的术语基石（MW: adverse action/adverse to the estate）。",
+      "untoward": "adj. 不幸的、不当的、失检的。常修饰意外事件或失德举止（untoward incident），无法修饰法律推论过程。",
+      "unfavorable": "adj. 不利的、不赞同的。属于宽泛的日常用语，非证据法关于负面法律事实推定的法定专门术语。",
+      "unfavourable": "adj. 英式拼写同义词，同样属于泛化日常词汇，非英美证据法专业技术用词。"
+    },
+    "translation": "当该企业高管在民事欺诈诉讼中援引第五修正案反强迫自证其罪特权时，主审治安法官允许陪审团据此作出不利的事实推断。"
+  },
+  {
+    "id": "tem8_c6_18",
+    "group_id": 147,
+    "group_name": "adverse, untoward, unfavorable, unfavourable",
+    "level": "TEM-8",
+    "target_word": "untoward",
+    "question": "The appellate court reversed the murder conviction after discovering that an ___ ex parte communication between the trial prosecutor and the jury foreman had tainted deliberative impartiality.",
+    "options": ["adverse", "untoward", "unfavorable", "unfavourable"],
+    "answer": "untoward",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "司法伦理与正当程序题眼：'an ___ ex parte communication between the trial prosecutor and the jury foreman had tainted deliberative impartiality'。untoward 专指违背司法礼仪规矩、不合体统乃至产生程序玷污的失检不当接触。",
+    "distractor_analysis": {
+      "untoward": "adj. 不得体的、越轨失检的、不当的（MW: not favorable, improper, indecorous）。在司法程序审查中，untoward communication 专指违反司法伦理、破坏程序公正的越轨私下接触。",
+      "adverse": "adj. 敌对的、不利于某方的（adverse party/ruling）。修饰私下接触语义不通，因为检察官与陪审团主席的私下联络是“不正当、违纪越轨”，而非对联络双方本身“有害”。",
+      "unfavorable": "adj. 负面的、不赞许的。仅表示评价不高，无法表达违反司法纪律、伤风败俗或不合程序体统的违规性质。",
+      "unfavourable": "adj. 英式拼写，同样侧重主观评价的不赞成，缺乏 untoward 所包含的严重违反程序正义规则的道德伦理失检含义。"
+    },
+    "translation": "上诉法院在发现庭审检察官与陪审团主席之间存在不当的单方私下接触并已玷污了审议的中立性后，撤销了谋杀定罪判决。"
+  },
+  {
+    "id": "tem8_c6_19",
+    "group_id": 148,
+    "group_name": "affable, genial, amiable, cordial",
+    "level": "TEM-8",
+    "target_word": "cordial",
+    "question": "Despite acrimonious bilateral treaty disputes between the sovereign nations, the presiding international arbitrators maintained a strictly professional yet ___ atmosphere throughout the grueling Hague hearings.",
+    "options": ["affable", "genial", "amiable", "cordial"],
+    "answer": "cordial",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "国际法庭与外事审判语境题眼：'maintained a strictly professional yet ___ atmosphere throughout the grueling Hague hearings'。外事公法与庄重法律仲裁中描述得体、礼节性友好而不失威严的氛围，专有搭配为 a cordial atmosphere / cordial relations。",
+    "distractor_analysis": {
+      "cordial": "adj. 诚挚客气的、保持外交礼节友善的。专用于官方正式交往、外交与国际司法仲裁语境（cordial relations / cordial atmosphere），既表达善意又保持应有的专业距离与尊严。",
+      "affable": "adj. 和蔼可亲的、平易近人的。MW 核心义为 being pleasant and at ease in talking to others，专修饰个人的待人性格（如一位平易近人的领导），不能修饰国际法庭的庄重程序氛围。",
+      "genial": "adj. 温暖亲切的、乐呵呵的。侧重个人性格上的阳光随和与生活情趣，与海牙国际仲裁的严谨法学语域产生剧烈文体冲突。",
+      "amiable": "adj. 亲切温和的、讨人喜欢的。专指性情柔顺随和，常用于朋友日常聚会，无法支撑国际主权争端仲裁的公法文体。"
+    },
+    "translation": "尽管主权国家之间存在激烈的双边条约争端，但在漫长艰苦的海牙听证会期间，主持审判的国际仲裁员始终保持着一种既高度专业又诚挚融洽的氛围。"
+  },
+  {
+    "id": "tem8_c6_20",
+    "group_id": 148,
+    "group_name": "affable, genial, amiable, cordial",
+    "level": "TEM-8",
+    "target_word": "affable",
+    "question": "To disarm the cynical jury, the defense counsel adopted an unassuming and ___ courtroom persona, deliberately contrasting with the prosecutor's combative and theatrical posturing.",
+    "options": ["affable", "genial", "amiable", "cordial"],
+    "answer": "affable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "诉讼策略与庭辩人设题眼：'adopted an unassuming and ___ courtroom persona, deliberately contrasting with the prosecutor's combative and theatrical posturing'。affable 专指谈吐平易近人、和蔼无架子、极易在交谈中拉近距离。",
+    "distractor_analysis": {
+      "affable": "adj. 平易近人的、和蔼可亲的。MW 专指 being at ease and pleasant especially in conversation，与 unassuming（谦逊不张扬的）构成经典并列，精准刻画出律师通过亲和谈吐卸下陪审团防备的策略形象。",
+      "cordial": "adj. 礼貌庄重的、外交辞令式的。常修饰关系或招待（cordial greeting），不能用于刻画当事人为了迎合他人而在性格举止上展现出的“平易近人”的人设气质。",
+      "genial": "adj. 乐呵呵的天性愉快的。侧重天性乐观外向，缺乏 affable 在交谈与倾听中所展现的社交策略性与可亲近性。",
+      "amiable": "adj. 脾气好、顺从迁就的。侧重老好人式的性格随和，无法与 combative 形成在“交流沟通技巧”上的有力抗衡。"
+    },
+    "translation": "为了卸下多疑陪审团的心理防备，辩护律师采取了谦逊且平易近人的法庭人设，有意与检方咄咄逼人且戏剧化的装腔作势形成鲜明反差。"
+  },
+  {
+    "id": "tem8_c6_21",
+    "group_id": 149,
+    "group_name": "agile, quick, nimble, spry",
+    "level": "TEM-8",
+    "target_word": "agile",
+    "question": "The competition tribunal emphasized that modern antitrust enforcement against algorithmic monopolies requires an ___ regulatory framework capable of adapting instantaneously to rapid digital innovations.",
+    "options": ["agile", "quick", "nimble", "spry"],
+    "answer": "agile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "现代规制法学与反垄断题眼：'requires an ___ regulatory framework capable of adapting instantaneously'。在法学与公共政策中，指制度、框架能够随环境快速迭代应变的专有学术前缀为 agile（agile regulatory framework / agile governance）。",
+    "distractor_analysis": {
+      "agile": "adj. 敏捷的、灵活适应的。在当代行政法学与数字经济监管中，“an agile regulatory framework”（敏捷监管框架）是专指监管架构能够对算法和数字创新进行动态迭代调节的规范学术用语。",
+      "quick": "adj. 迅速的、快捷的。属基础日常词汇，指速度快或耗时短，不能用于界定法理层面的自适应制度架构。",
+      "nimble": "adj. 动作敏捷的、反应灵敏的。多修饰具体个人、手指动作或短平快的战术动作（a nimble athlete/mind），修饰庞大的法律制度框架（framework）不符合法学文体习惯。",
+      "spry": "adj. （尤指老年人）步履矫健的、精神矍铄的。专门修饰年长者的生理动作灵便，在此造成荒谬修辞错误。"
+    },
+    "translation": "竞争裁判所强调，针对算法垄断的现代反垄断执法需要一个敏捷的监管框架，能够即时适应飞速发展的数字化创新。"
+  },
+  {
+    "id": "tem8_c6_22",
+    "group_id": 149,
+    "group_name": "agile, quick, nimble, spry",
+    "level": "TEM-8",
+    "target_word": "nimble",
+    "question": "During oral arguments, the young appellate advocate demonstrated remarkably ___ legal reasoning, skillfully sidestepping the Chief Justice's hostile hypotheticals while anchoring her core constitutional thesis.",
+    "options": ["agile", "quick", "nimble", "spry"],
+    "answer": "nimble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法庭辩论智识机敏题眼：'demonstrated remarkably ___ legal reasoning, skillfully sidestepping the Chief Justice's hostile hypotheticals'。nimble reasoning / nimble mind 专指在头脑思辨中如杂技般巧妙躲闪陷阱、闪转腾挪的极度灵巧。",
+    "distractor_analysis": {
+      "nimble": "adj. 灵敏的、机巧腾挪的。MW 义为 marked by quick, light, or resourceful movement，修饰辩论思维（nimble reasoning）专指善于在辩论交锋中巧妙躲避逻辑陷阱、见招拆招的思辨机敏度。",
+      "agile": "adj. 侧重系统、团队或管理体制在战略上的敏捷调整（如 agile workforce/framework），形容纯粹思维在辩论瞬息中的闪避腾挪不如 nimble 地道精确。",
+      "quick": "adj. 快的、迅速的。语义过于单薄平白，无法体现高阶法律论辩中拆解虚构假设（hypotheticals）时的巧思与精妙技巧。",
+      "spry": "adj. 专指高龄老人动作硬朗，修饰法律思辨能力属于常识破格。"
+    },
+    "translation": "在庭审口头辩论中，这位年轻的上诉律师展现了极其机敏灵动的法律推理，巧妙避开了首席大法官提出的刁钻假设性问题，同时牢牢确立了她的核心宪法论点。"
+  },
+  {
+    "id": "tem8_c6_23",
+    "group_id": 150,
+    "group_name": "agonizing, harrowing, painful, agonising",
+    "level": "TEM-8",
+    "target_word": "harrowing",
+    "question": "During the capital sentencing phase, the surviving eyewitness delivered a ___ testimony detailing the mass casualty incident, leaving spectators and jurors visibly shaken.",
+    "options": ["agonizing", "harrowing", "painful", "agonising"],
+    "answer": "harrowing",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法庭创伤证言固定题眼：'delivered a ___ testimony detailing the mass casualty incident, leaving spectators and jurors visibly shaken'。描绘惨绝人寰案发现场并令在场者极度震撼的证词，英美司法界与高端外刊唯一惯用搭配是 harrowing testimony。",
+    "distractor_analysis": {
+      "harrowing": "adj. 令人极其痛心震撼的、令人毛骨悚然的（MW: acutely distressing or painful）。法庭报道与判例中“a harrowing testimony / harrowing ordeal”是极高频固定搭配，专指对灾难或惨案细节创伤性的还原叙述。",
+      "agonizing": "adj. 极其痛苦煎熬的。侧重当事者内心面临折磨或漫长艰难抉择（如 an agonizing decision），不作为描绘震撼性惨案证词的标准修饰语。",
+      "painful": "adj. 令人痛苦的。属于日常通用词，语域不够典雅庄重，无法传达导致旁听席和陪审团集体震颤的强烈创伤震撼度。",
+      "agonising": "adj. 英式拼写同义词，除拼写差异外，其语义同样偏向主观内心的煎熬困苦而非外部叙事的触目惊心。"
+    },
+    "translation": "在死刑量刑阶段，幸存的目击证人发表了一份令人极度揪心震撼的证言，详细描述了这起重大伤亡事件，令在场旁听人员和陪审员们无不深受震动。"
+  },
+  {
+    "id": "tem8_c6_24",
+    "group_id": 150,
+    "group_name": "agonizing, harrowing, painful, agonising",
+    "level": "TEM-8",
+    "target_word": "agonizing",
+    "question": "Faced with the profound bioethical dilemma in the withdrawal of life support, the appellate panel underwent an ___ three-day deliberation before issuing its landmark emergency injunction.",
+    "options": ["agonizing", "harrowing", "painful", "agonising"],
+    "answer": "agonizing",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法官艰难心路裁决题眼：'underwent an ___ three-day deliberation before issuing its landmark emergency injunction'。在生命伦理难题面前，形容法官或决策者经历精神上的剧烈痛苦煎熬与权衡，专八核心高频词为 agonizing deliberation / agonizing process。",
+    "distractor_analysis": {
+      "agonizing": "adj. 极其令人痛苦煎熬的。MW 释义为 causing agony，专门修饰人在面临生死抉择或道义两难时所经历的漫长、撕裂且极度痛苦的审议过程（an agonizing deliberation/process）。",
+      "harrowing": "adj. 令人惊悚震撼的。专指外部悲剧经历给感官带来的恐怖冲击（如 harrowing experience/testimony），不能修饰法官坐在合议室里进行的理性法理权衡。",
+      "painful": "adj. 痛苦的。语阶过低，无法展现上诉法院合议庭在生命伦理巨峰面前所承受的崇高哲学悲剧感与精神阵痛。",
+      "agonising": "adj. 英式拼写变体。在标准美式 TEM-8 官方语料中，规范正字法优先选用 agonizing。"
+    },
+    "translation": "面对撤除生命支持系统这一深奥的生命伦理困境，上诉法院合议庭在签发具有里程碑意义的紧急禁令之前，经历了一场长达三天、极其痛苦煎熬的慎重审议。"
+  },
+  {
+    "id": "tem8_c6_25",
+    "group_id": 151,
+    "group_name": "ailing, seedy, indisposed, ill",
+    "level": "TEM-8",
+    "target_word": "ailing",
+    "question": "Under antitrust doctrine, the merger of the telecommunications giants was exceptionally cleared under the 'failing firm' defense to prevent the ___ subsidiary from collapsing into abrupt liquidation.",
+    "options": ["ailing", "seedy", "indisposed", "ill"],
+    "answer": "ailing",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "反垄断与公司破产法专有题眼：'failing firm defense to prevent the ___ subsidiary from collapsing into abrupt liquidation'。修饰濒临破产崩溃的企业或经济实体，外刊政经法学唯一规范搭配为 ailing subsidiary / ailing firm。",
+    "distractor_analysis": {
+      "ailing": "adj. 处境维艰的、濒临倒闭的。外刊经济与反垄断法固定高频搭配（MW: an ailing company / an ailing economy），专指企业因严重财务危机而陷入衰退病态，与破产法语境完全契合。",
+      "seedy": "adj. 破旧邋遢的、下流不正派的（如 a seedy hotel）。形容道德败坏或环境脏乱，与商业法人实体无关。",
+      "indisposed": "adj. 身体欠安的、微恙的。只能用于自然人（尤其是法官、官员身体不适不克视事），不能形容公司企业。",
+      "ill": "adj. 生病的。修饰法人组织极其生硬别扭，属于语言不规范表达。"
+    },
+    "translation": "根据反垄断法理，这两家电信巨头的合并依据‘濒临破产企业’抗辩例外获得了批准，以防止这家陷入重度财务困境的子公司陷入突发性清算倒闭。"
+  },
+  {
+    "id": "tem8_c6_26",
+    "group_id": 151,
+    "group_name": "ailing, seedy, indisposed, ill",
+    "level": "TEM-8",
+    "target_word": "indisposed",
+    "question": "The clerk announced an emergency continuance of the trial docket because the presiding judge was temporarily ___ and unable to take the bench.",
+    "options": ["ailing", "seedy", "indisposed", "ill"],
+    "answer": "indisposed",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "法庭礼仪公文委婉语题眼：'announced an emergency continuance ... because the presiding judge was temporarily ___ and unable to take the bench'。在司法程序公文中，委婉宣称法官偶感微恙无法升堂开庭，唯一庄重规范辞令为 temporarily indisposed。",
+    "distractor_analysis": {
+      "indisposed": "adj. （官场/法庭委婉语）身体微恙的、身体欠安而不便出面的。MW 专指 slightly ill or unwilling，在英美法庭公告中，“temporarily indisposed”是法官因病临时休庭的绝对标准官方正式用语。",
+      "ailing": "adj. 长期抱病的、日薄西山的。强调身体长期衰竭或慢性病缠身，与 temporarily（暂时）形成逻辑语义冲突。",
+      "seedy": "adj. 精神萎靡的、邋遢下流的。带有严重贬义与不体面色彩，绝对不可用于尊严的法官。",
+      "ill": "adj. 生病的。直白粗鄙，属于不通晓法庭公文规范的初阶口语词汇，违背专八司法庄重语体规约。"
+    },
+    "translation": "法庭书记官宣布案件审理紧急延期，原因是审判长身体临时欠安，无法升堂开庭。"
+  },
+  {
+    "id": "tem8_c6_27",
+    "group_id": 152,
+    "group_name": "airy, windy, utopian, laputan",
+    "level": "TEM-8",
+    "target_word": "utopian",
+    "question": "Legal realists dismissed the draft treaty as a ___ construct that presumed total interstate goodwill while ignoring the anarchic, self-interested realities of geopolitical competition.",
+    "options": ["airy", "windy", "utopian", "laputan"],
+    "answer": "utopian",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法理学批判题眼：'dismissed the draft treaty as a ___ construct that presumed total interstate goodwill while ignoring the anarchic, self-interested realities...'。法律现实主义者批判空想制度脱离人性自私现实，专有法哲学术语为 utopian construct。",
+    "distractor_analysis": {
+      "utopian": "adj. 乌托邦式的、空想不切实际的。法哲学与国际公法中批判过于理想化制度设计的专有名词（a utopian scheme/construct），与后文假定完全善意而脱离地缘政治竞争现实构成完美照应。",
+      "airy": "adj. 轻浮的、空中楼阁的。多修饰轻率的态度（airy nonchalance）或宽敞通风的房间，不能作为批判条约制度设计的学术理论术语。",
+      "windy": "adj. 刮风的、高谈阔论空洞无物的。修饰讲话冗长（windy speeches），不可修饰法学条约体系建构。",
+      "laputan": "adj. （源自《格列佛游记》飞岛国）异想天开脱离实际的。过于文学怪诞且罕见，非国际法理论批判规范用词。"
+    },
+    "translation": "法律现实主义学者将该条约草案斥为一种乌托邦式的空想建构，因为它假定各主权国家间存在绝对的善意，却无视地缘政治竞争中处于无政府状态且追逐私利的客观现实。"
+  },
+  {
+    "id": "tem8_c6_28",
+    "group_id": 152,
+    "group_name": "airy, windy, utopian, laputan",
+    "level": "TEM-8",
+    "target_word": "airy",
+    "question": "The appellate court affirmed the summary judgment, holding that the plaintiff's complaint rested on ___ speculations of corporate conspiracy rather than concrete factual averments.",
+    "options": ["airy", "windy", "utopian", "laputan"],
+    "answer": "airy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "民事诉讼判词经典对照题眼：'rested on ___ speculations of corporate conspiracy rather than concrete factual averments'。airy speculations 专指毫无事实凭据、捕风捉影的虚无揣测，与后文 concrete factual averments 形成鲜明法理对立。",
+    "distractor_analysis": {
+      "airy": "adj. 虚无缥缈的、捕风捉影的（MW: unreal, illusory, speculative）。在英美判决书中，“airy speculations”专指缺乏真凭实据的凭空臆断，与后文 concrete factual averments（具体的事实主张）构成绝对排他性对仗。",
+      "windy": "adj. 啰嗦长篇大论的。指言语夸饰冗长（windy rhetoric），而非指事实主张缺乏实质凭据（illusory）。",
+      "utopian": "adj. 乌托邦理想主义的。用于形容追求理想社会体制，无法用于形容原告对企业非法阴谋的胡乱猜忌。",
+      "laputan": "adj. 飞岛国式的。带有浓厚荒诞讽刺小说色彩，不符合民事诉讼裁判文书语言规范。"
+    },
+    "translation": "上诉法院维持了即决判决，认定原告的起诉状仅仅建立在对企业阴谋捕风捉影的凭空臆测之上，而非基于具体的事实主张。"
+  },
+  {
+    "id": "tem8_c6_29",
+    "group_id": 153,
+    "group_name": "allergic, susceptible, sensitised, sensitized",
+    "level": "TEM-8",
+    "target_word": "susceptible",
+    "question": "The Supreme Court struck down the vague penal statute, ruling that its punitive language was ___ to multiple conflicting interpretations and invited arbitrary enforcement.",
+    "options": ["allergic", "susceptible", "sensitised", "sensitized"],
+    "answer": "susceptible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "宪法刑法明确性原则（void-for-vagueness doctrine）题眼：'its punitive language was ___ to multiple conflicting interpretations'。法学判词中指涉法律文本“容纳多种解释/易产生歧义理解”，绝对固定搭配为 susceptible to multiple interpretations。",
+    "distractor_analysis": {
+      "susceptible": "adj. 易受影响的、可作某种解释的。固定法学搭配 susceptible to multiple interpretations（MW: susceptible of/to），专指法条字面含混不清、容易被解读出不同甚至冲突的意涵，符合明确性原则审查要求。",
+      "allergic": "adj. 身体过敏的、反感的（allergic to）。代入指法条“反感多种解释”完全违背文意且语义滑稽。",
+      "sensitised": "v./adj. 使敏感化的（英式拼写）。属分词形态，意为被人工赋予敏感情感或光敏化，无法表达法条客观文本易产生多重歧义的属性。",
+      "sensitized": "v./adj. 使敏感化的（美式拼写）。同上，无法作为形容词修饰条文具备被解释的多样可能。"
+    },
+    "translation": "最高法院推翻了该部含混不清的刑法法规，裁定其惩罚性条文措辞容易产生多种相互冲突的司法解释，并会导致执法中的任意妄为。"
+  },
+  {
+    "id": "tem8_c6_30",
+    "group_id": 153,
+    "group_name": "allergic, susceptible, sensitised, sensitized",
+    "level": "TEM-8",
+    "target_word": "sensitized",
+    "question": "Through exhaustive pretrial questionnaire protocols, the trial court ensured that prospective jurors were thoroughly ___ to subtle implicit biases before capital deliberations began.",
+    "options": ["allergic", "susceptible", "sensitised", "sensitized"],
+    "answer": "sensitized",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "陪审员选任（voir dire）心理学培训题眼：'ensured that prospective jurors were thoroughly ___ to subtle implicit biases'。审前程序通过问卷促使陪审员认识到、警惕潜在隐性偏见，标准学术规范用词为 sensitized to（使其具有感知敏锐度）。",
+    "distractor_analysis": {
+      "sensitized": "adj./part. 使警觉感知的、使具有敏感意识的（MW: make sensitive or aware）。在现代司法选拔程序中，sensitized to implicit bias 专指使陪审员深刻觉察自身潜意识偏见，从而保障公正量刑。",
+      "allergic": "adj. 对……过敏的或极其讨厌的。不能表达使人通过理性引导具备自我警察能力的心理学语境。",
+      "susceptible": "adj. 易受侵害的、易被感染的。若填入 susceptible to implicit biases，则表示“确保陪审员容易受到隐性偏见的侵害和侵蚀”，与法庭审前程序的排除偏见初衷彻底南辕北辙！",
+      "sensitised": "adj./part. 英式拼写变体。在标准美式 TEM-8 法律专八规范中，美式拼写 sensitized 优先。"
+    },
+    "translation": "通过详尽的审前问卷审查方案，初审法院确保潜在陪审员在死刑审议开始之前，已对细微的潜意识偏见具备了充分的警觉与认知敏感度。"
+  },
+  {
+    "id": "tem8_c6_31",
+    "group_id": 154,
+    "group_name": "ambivalent, unsure, incertain, uncertain",
+    "level": "TEM-8",
+    "target_word": "ambivalent",
+    "question": "Legal scholars remain deeply ___ about the Supreme Court's aggressive intervention in state legislative redistricting, simultaneously applauding civil rights protections while fearing judicial overreach.",
+    "options": ["ambivalent", "unsure", "incertain", "uncertain"],
+    "answer": "ambivalent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "心理与态度矛盾题眼：'simultaneously applauding civil rights protections while fearing judicial overreach'（既对民权保护鼓掌欢呼，又对司法越权深感恐惧）。ambivalent 专指“同时存在截然对立的矛盾情感与复杂态度”。",
+    "distractor_analysis": {
+      "ambivalent": "adj. （态度或情感）矛盾复杂的、爱恨交织的。MW 核心释义为 having simultaneous and contradictory attitudes or feelings，精准对应后文“既赞扬民权保护又担忧司法扩权”的双重对立心境。",
+      "unsure": "adj. 不自信的、吃不准的。侧重缺乏确信感，不能体现学者内心对两种不同法理价值兼具正反两方面的深刻撕裂。",
+      "incertain": "adj. 生僻且非标准拼写，在当代标准法学英语中弃用。",
+      "uncertain": "adj. 不确定的、难以预测的。侧重客观情况不明朗或主观不知道结果，无法传达这种特定“态度上既支持又反对”的复杂矛盾性。"
+    },
+    "translation": "法学学者对最高法院强势介入各州选区重新划分的裁决依然抱有极其矛盾的心态，他们既为民权保护拍手称赞，又深切担忧司法越权。"
+  },
+  {
+    "id": "tem8_c6_32",
+    "group_id": 154,
+    "group_name": "ambivalent, unsure, incertain, uncertain",
+    "level": "TEM-8",
+    "target_word": "uncertain",
+    "question": "The appellate court declared the preliminary indemnity clause unenforceable because its open-ended duration and ambiguous liability cap rendered the contractual obligations incurably ___.",
+    "options": ["ambivalent", "unsure", "incertain", "uncertain"],
+    "answer": "uncertain",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "合同法效力审查核心题眼：'rendered the contractual obligations incurably ___'。合同因条款含义无法确定而归于无效的法学核心术语为 void for uncertainty / incurably uncertain。",
+    "distractor_analysis": {
+      "uncertain": "adj. （合同条款）不确定的、内容不明的。在普通法系合同法中，“incurably uncertain / void for uncertainty”（因含义含混不确定而无可救药地无效）是宣告免责或赔偿条款不具执行力的专有法律定性词。",
+      "ambivalent": "adj. 矛盾心理的。只能用来形容人类的内心态度（ambivalent feelings），不能修饰客观合同义务的法律效力状态。",
+      "unsure": "adj. 缺乏自信的。专指人的心理犹豫，无法修饰合同债权债务关系的效力确定性。",
+      "incertain": "adj. 古旧非标准词，严重违背当代合同法诉讼判决书的严谨正字法规范。"
+    },
+    "translation": "上诉法院宣布该初步赔偿条款不具备强制执行力，因为其开放式的有效期限和模棱两可的责任上限使得合同项下的义务陷入了不可挽回的不确定状态。"
+  },
+  {
+    "id": "tem8_c6_33",
+    "group_id": 155,
+    "group_name": "amicable, friendly, favorable, unthreatening",
+    "level": "TEM-8",
+    "target_word": "amicable",
+    "question": "Following intensive court-annexed mediation, the disputing pharmaceutical patent holders reached an ___ settlement, thereby averting a protracted and ruinous federal trial.",
+    "options": ["amicable", "friendly", "favorable", "unthreatening"],
+    "answer": "amicable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "民商事纠纷解决核心题眼：'reached an ___ settlement, thereby averting a protracted and ruinous federal trial'。在诉讼和解法学语境中，“友好和解协议”的绝对唯一专有法学固定搭配是 an amicable settlement。",
+    "distractor_analysis": {
+      "amicable": "adj. 和睦的、友好和平的。MW 核心义为 characterized by friendly goodwill: peaceable，在民商事调解中，“an amicable settlement”（友好和解协议）是替代对抗性审判的唯一法定规范术语。",
+      "friendly": "adj. 友好的。属日常社交泛化词，在普通法系商事诉讼判决与和解协议中，一般不使用 *friendly settlement 这一非规范口语化说法。",
+      "favorable": "adj. 有利的、赞同的。通常指单方获利的判决（a favorable verdict/ruling），与双方互谅互让达成一致的和解合意（settlement）性质不符。",
+      "unthreatening": "adj. 不构成威胁的。无法修饰双方经过谈判达成的法律调解协议。"
+    },
+    "translation": "经过法院附设调解机构的密集调解，存在争议的制药专利持有人达成了一项友好和解协议，从而避免了一场旷日持久且两败俱伤的联邦庭审。"
+  },
+  {
+    "id": "tem8_c6_34",
+    "group_id": 155,
+    "group_name": "amicable, friendly, favorable, unthreatening",
+    "level": "TEM-8",
+    "target_word": "favorable",
+    "question": "In adjudicating a motion for summary judgment, the federal district court is procedurally required to construe all record evidence in the light most ___ to the non-moving party.",
+    "options": ["amicable", "friendly", "favorable", "unthreatening"],
+    "answer": "favorable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "联邦民事诉讼法（FRCP Rule 56）即决判决法定标准题眼：'construe all record evidence in the light most ___ to the non-moving party'。法庭在审查证据时必须以“对非动议方最有利的视角”进行事实推定，法定程式语言固定为 in the light most favorable to...",
+    "distractor_analysis": {
+      "favorable": "adj. 最有利的。联邦民事诉讼规则第 56 条法定证据审查准则的核心表述：“construe evidence in the light most favorable to the non-moving party”（以对非动议方最有利的方式解读案卷证据），此乃绝对排他的法言法语公式。",
+      "amicable": "adj. 友好的、平息争端的。用于修饰和解（amicable settlement），不能修饰有利于某一诉讼主体的证据审查推定方向。",
+      "friendly": "adj. 友善的。完全脱离民事诉讼法审理简易判决动议的程序法条标准。",
+      "unthreatening": "adj. 无威胁的。不能修饰法理上的利害证据考量角度。"
+    },
+    "translation": "在审理即决判决动议时，联邦地区法院在程序上必须以对非动议方最有利的视角来解释全部案卷证据。"
+  },
+  {
+    "id": "tem8_c6_35",
+    "group_id": 156,
+    "group_name": "anarchic, lawless, anarchical, uncontrolled",
+    "level": "TEM-8",
+    "target_word": "anarchic",
+    "question": "The international law jurist warned that cyberspace must not become an ___ frontier where sovereign nations deploy destructive ransomware without accountability or normative constraints.",
+    "options": ["anarchic", "lawless", "anarchical", "uncontrolled"],
+    "answer": "anarchic",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "国际公法与治理理论题眼：'cyberspace must not become an ___ frontier where sovereign nations deploy destructive ransomware without accountability or normative constraints'。国际关系与公法理论界界定缺乏主权公权力规范与问责制度的领域，专八典雅搭配为 an anarchic frontier / realm。",
+    "distractor_analysis": {
+      "anarchic": "adj. 无政府状态的、缺乏制度规约的。MW 核心义为 lacking order, regularity, or definiteness; of or relating to anarchy。在国际公法与网络主权学术讨论中，an anarchic frontier 专指缺乏统一主权秩序与规范约束的法外领域。",
+      "lawless": "adj. 肆意违法的、暴乱无纪的。侧重暴民或歹徒积极实施犯罪（如 a lawless mob），而非国际公法层面上描述缺少顶层制度治理架构的无政府法理状态。",
+      "anarchical": "adj. 无政府主义的。在现代政经与国际公法高阶学术外刊中，修饰 frontier 时，形态上标准通行为 anarchic，anarchical 已偏向历史政治运动色彩。",
+      "uncontrolled": "adj. 失去控制的。仅指物理或数量上的无法遏止（如 uncontrolled fire/growth），缺乏法学上指代“无主权规范与问责体系”的深层制度法哲学内涵。"
+    },
+    "translation": "这位国际法法学家警告称，网络空间绝不能沦为一个处于无政府状态的法外边疆，让主权国家在其中肆无忌惮地部署破坏性勒索软件而无需承担任何问责或受到规范约束。"
+  },
+  {
+    "id": "tem8_c6_36",
+    "group_id": 156,
+    "group_name": "anarchic, lawless, anarchical, uncontrolled",
+    "level": "TEM-8",
+    "target_word": "lawless",
+    "question": "Faced with roving armed militias burning public courthouses, the governor declared a state of emergency to restore order in what had become an entirely ___ municipal district.",
+    "options": ["anarchic", "lawless", "anarchical", "uncontrolled"],
+    "answer": "lawless",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "武装暴力与法治崩塌题眼：'roving armed militias burning public courthouses, ... restore order in what had become an entirely ___ municipal district'。强调武装民兵公然践踏法纪、到处纵火施暴的现实治安崩溃，专有形容词为 a lawless district。",
+    "distractor_analysis": {
+      "lawless": "adj. 无法无天的、肆意践踏法纪的。MW 核心义为 not regulated by or based on law; unruly。直接针对公然焚烧法院、无视公序良俗的暴民罪行，准确刻画出充斥着犯罪暴力的“无法无天之区”。",
+      "anarchic": "adj. 侧重政治学或哲学层面抽象的“无中央权威统治”（anarchic international system），修饰充满烧杀抢掠实际暴力街区不如 lawless 贴切具体。",
+      "anarchical": "adj. 侧重理论无政府体系，无法准确表达暴民武装积极触犯刑律的恶劣暴力治安现实。",
+      "uncontrolled": "adj. 失控的。仅描述力量不受约束，缺乏对法律与司法机关进行公然反抗与践踏的“抗法性”内涵。"
+    },
+    "translation": "面对成群结队焚烧公共法院大楼的武装民兵，州长宣布进入紧急状态，以在已然完全沦为无法无天地带的市政辖区恢复基本秩序。"
+  },
+  {
+    "id": "tem8_c6_37",
+    "group_id": 157,
+    "group_name": "apposite, pertinent, apt, apropos",
+    "level": "TEM-8",
+    "target_word": "apposite",
+    "question": "In striking down the unconstitutional executive overreach, the Justice bolstered his majority opinion with an exceptionally ___ passage from John Locke's Second Treatise of Government.",
+    "options": ["apposite", "pertinent", "apt", "apropos"],
+    "answer": "apposite",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "最高院判词引用经典名著题眼：'bolstered his majority opinion with an exceptionally ___ passage from John Locke's Second Treatise...'。在法学判例与高阶学术评论中，引述先贤哲人经典著作且切中肯綮、极其妥帖时，唯一殿堂级学术用词是 apposite passage / quotation。",
+    "distractor_analysis": {
+      "apposite": "adj. 极其贴切的、极其妥当的。MW 核心搭配明确指出 'add an apposite quotation to the definition'，专指在司法判决或学术论文中引述先贤警句极其妥帖精准、严丝合缝，兼具典雅文风与厚重感。",
+      "pertinent": "adj. 相关的、有直接关联的。侧重法律证据对待证事实的逻辑相关性（pertinent evidence/matter），修饰所引用的经典文献名篇缺乏 apposite 的文体典雅感。",
+      "apt": "adj. 恰当的、生动的。虽有贴切之意（an apt remark），但偏重轻快生动或倾向性（apt to do），修饰宪法宏篇巨著引文力度不如 apposite 庄重深邃。",
+      "apropos": "adj./prep. 凑巧的、恰当的。多用作介词短语（apropos of）或作表语，作为前置定语修饰历史宪法文献引文极其罕见且生涩。"
+    },
+    "translation": "在推翻违宪的行政权扩张时，大法官引用了约翰·洛克《政府论（下篇）》中一段极其贴切切题的段落，以有力支撑其多数派判决意见。"
+  },
+  {
+    "id": "tem8_c6_38",
+    "group_id": 157,
+    "group_name": "apposite, pertinent, apt, apropos",
+    "level": "TEM-8",
+    "target_word": "pertinent",
+    "question": "Under Federal Rule of Civil Procedure 26, parties may obtain discovery regarding any nonprivileged matter that is strictly ___ to any party's claim or defense.",
+    "options": ["apposite", "pertinent", "apt", "apropos"],
+    "answer": "pertinent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "联邦民事诉讼法第26条证据开示范围题眼：'obtain discovery regarding any nonprivileged matter that is strictly ___ to any party's claim or defense'。法律证据与当事人主张、抗辩之间的直接实质相关性，法定专有搭配为 pertinent to a claim or defense。",
+    "distractor_analysis": {
+      "pertinent": "adj. 密切相关的、针对本案主张的。联邦民事诉讼规则第 26 条关于可获取证据范围的核心法条专有表述（pertinent to any party's claim or defense），专指材料与诉讼争点存在实质法律关联。",
+      "apposite": "adj. 极贴切的。专指引用引文或评注恰到好处，不接介词 to 修饰诉讼当事人的法律主张与抗辩。",
+      "apt": "adj. 易于……的、恰当的。接 to 常表示倾向于发生（apt to ignore），不可表示证据对案件争点的法理关涉性。",
+      "apropos": "adj. 凑巧的。接 to 极不自然且属于法学非规范措辞，无法充当严格的证据开示法条限定词。"
+    },
+    "translation": "依据《联邦民事诉讼规则》第 26 条，当事人可以就与任何一方的主张或抗辩严格相关的任何非特权事项获得证据开示。"
+  },
+  {
+    "id": "tem8_c6_39",
+    "group_id": 158,
+    "group_name": "archaic, old, antiquated, antediluvian",
+    "level": "TEM-8",
+    "target_word": "archaic",
+    "question": "Civil liberties advocates petitioned the state legislature to repeal an ___ blasphemy statute enacted in 1842, arguing that criminalizing religious criticism blatantly violates modern First Amendment jurisprudence.",
+    "options": ["archaic", "old", "antiquated", "antediluvian"],
+    "answer": "archaic",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "过时历史法条与废法请愿题眼：'petitioned the state legislature to repeal an ___ blasphemy statute enacted in 1842'。修饰年代久远、残存古代专制色彩的古老成文法法规，政经学术界与司法文书统一定名为 an archaic statute / law。",
+    "distractor_analysis": {
+      "archaic": "adj. 古旧过时的、古代残留下来的。MW 例证特别给出司法相关例句（arguably archaic criminal standards），专修饰源自久远历史年代、不合现代宪政精神的古老成文法法规（archaic statute）。",
+      "old": "adj. 老的。过于平铺直叙口语化，无法传达出法学界指责某项法律属于“前现代封建遗存”的深层制度批判色彩。",
+      "antiquated": "adj. 陈旧过时的。侧重技术、设备或方法因未能更新换代而落后（antiquated methods/systems），修饰具有历史渊源的古代法条不如 archaic 规范地道。",
+      "antediluvian": "adj. 大洪水之前的、极度古旧可笑的。带有极其夸张诙谐的文学讽刺修辞，不符合公民自由请愿书与学术法学论述的严肃性。"
+    },
+    "translation": "公民自由倡导者向州立法机构请愿，要求废除一部颁布于 1842 年的古旧陈腐的亵渎神明法，理由是将宗教批评定为刑事犯罪公然违背了现代第一修正案的判例法理。"
+  },
+  {
+    "id": "tem8_c6_40",
+    "group_id": 158,
+    "group_name": "archaic, old, antiquated, antediluvian",
+    "level": "TEM-8",
+    "target_word": "antiquated",
+    "question": "The Chief Judge testified before Congress that the federal judiciary's reliance on ___ electronic filing systems severely compromised data security and obstructed efficient case management.",
+    "options": ["archaic", "old", "antiquated", "antediluvian"],
+    "answer": "antiquated",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "司法信息化技术滞后题眼：'reliance on ___ electronic filing systems severely compromised data security'。指技术产品、计算机电子系统因岁月变迁而落后老化，标准专有名词为 antiquated systems。",
+    "distractor_analysis": {
+      "antiquated": "adj. 陈旧过时的、技术落伍的。MW 核心义为 obsolete, outmoded，在现代行政司法管理中，“antiquated electronic systems”（老旧落后的电子归档系统）是专指技术迭代严重滞后于时代需求的标准表达。",
+      "archaic": "adj. 古代的、原初时期的。专指古代词汇、历史制度或久远法条（archaic codes），电子计算机系统仅有数十年历史，不可称为“古代史前期的（archaic）”。",
+      "old": "adj. 年久的。属最基础词汇，无法在国会听证会（testified before Congress）的学术政经语境中展现专业批评质感。",
+      "antediluvian": "adj. 大洪水前的。属于荒诞夸张修辞，违背司法长官在国会证言中的庄严实事求是语域。"
+    },
+    "translation": "首席法官在国会作证时指出，联邦司法系统对老旧落后的电子案件归档系统的依赖，严重危及了数据安全并阻碍了高效的案件管理。"
+  },
+  {
+    "id": "tem8_c6_41",
+    "group_id": 159,
+    "group_name": "ardent, torrid, fervent, impassioned",
+    "level": "TEM-8",
+    "target_word": "impassioned",
+    "question": "During his final summation, the public defender delivered an ___ plea for mercy, moving several jurors to tears as he underscored the juvenile defendant's abusive upbringing.",
+    "options": ["ardent", "torrid", "fervent", "impassioned"],
+    "answer": "impassioned",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "法庭终结辩论恳请题眼：'delivered an ___ plea for mercy, moving several jurors to tears'。法庭辩论中打动陪审团的热烈深情呼吁与恳求，专八与外刊经典绝对搭配为 an impassioned plea for mercy。",
+    "distractor_analysis": {
+      "impassioned": "adj. 充满激情的、感人至深的。MW 权威收录核心搭配 'an impassioned plea for justice'，专指演讲或法庭辩护中充满深情、打动人心的慷慨陈词，与 moving jurors to tears 构成完美互文。",
+      "ardent": "adj. 热烈的、热心的。MW 例句为 an ardent supporter，专指长期坚定拥护某种理念或人物，不修饰特定法庭结辩当口的情感爆发恳请（*an ardent plea 极不自然）。",
+      "torrid": "adj. 灼热的、充满情欲的（a torrid affair）。形容热带气候或炽热情欲，代入法庭辩论产生荒谬语意破格。",
+      "fervent": "adj. 虔诚热烈的。MW 例句为 fervent good wishes / prayers，侧重宗教式祷告或内心情感祈愿，修饰公开的慷慨辩词不如 impassioned 地道准确。"
+    },
+    "translation": "在最终的法庭总结辩论中，公职辩护人发表了一番感人至深、慷慨陈词的求情答辩，在他强调这名未成年被告遭受虐待的成长背景时，令几名陪审员当场感动落泪。"
+  },
+  {
+    "id": "tem8_c6_42",
+    "group_id": 159,
+    "group_name": "ardent, torrid, fervent, impassioned",
+    "level": "TEM-8",
+    "target_word": "ardent",
+    "question": "Throughout his tenure on the Supreme Court, the veteran justice remained an ___ defender of uninhibited free speech, refusing to endorse content-based government censorship.",
+    "options": ["ardent", "torrid", "fervent", "impassioned"],
+    "answer": "ardent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "长期坚定捍卫宪法原则题眼：'remained an ___ defender of uninhibited free speech'。在宪政与法哲学著作中，形容坚定不移、满腔热忱的原则捍卫者，固定规范搭配为 an ardent defender / champion of...",
+    "distractor_analysis": {
+      "ardent": "adj. 热诚坚定的、矢志不移的。MW 核心例证为 an ardent supporter of human rights，专指长期且坚定不移地捍卫某种崇高法律政治信条的拥护者（an ardent defender），与整个司法生涯（throughout tenure）完美呼应。",
+      "impassioned": "adj. 激情澎湃的。仅修饰一时一刻的情感表达行为（如 an impassioned speech/plea），不能作定语修饰长达数十年的司法原则捍卫者角色（*an impassioned defender 语意不通）。",
+      "torrid": "adj. 炽热激情的。专指情爱或气候炎热，与司法哲学原则捍卫毫不相干。",
+      "fervent": "adj. 炽热虔诚的。多修饰宗教信仰或内心的殷切祈盼（fervent hopes/beliefs），在修饰世俗宪法学者和法官的制度捍卫者身份时，外刊与判词偏好 ardent。"
+    },
+    "translation": "在最高法院的整个任职期间，这位资深大法官始终是不受限制的言论自由的坚定捍卫者，坚决拒绝支持任何基于内容的政府审查制度。"
+  },
+  {
+    "id": "tem8_c6_43",
+    "group_id": 160,
+    "group_name": "arduous, laborious, backbreaking, hard",
+    "level": "TEM-8",
+    "target_word": "arduous",
+    "question": "Navigating antitrust class actions is an inherently ___ undertaking that demands years of voluminous discovery, forensic accounting audits, and protracted appellate review.",
+    "options": ["arduous", "laborious", "backbreaking", "hard"],
+    "answer": "arduous",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "重大复杂诉讼漫长历程题眼：'an inherently ___ undertaking that demands years of voluminous discovery...'。形容需要克服多重险阻、历经数载艰辛的宏大诉讼事业，政经外刊与法学长难句殿堂级搭配为 an arduous undertaking。",
+    "distractor_analysis": {
+      "arduous": "adj. 步步维艰的、极度艰巨费力的。MW 专指 hard to accomplish, marked by great labor: strenuous（MW: the arduous task / arduous process），专用于修饰宏观上耗时经年、充满未知险阻与战略挑战的庞大法律事业（an arduous undertaking）。",
+      "laborious": "adj. 费时耗力的、动作繁重吃力的。侧重微观上机械繁琐、细节累人的苦差事（如 laborious calculation），不能准确体现跨越数年的反垄断集体诉讼的宏大战略挑战度。",
+      "backbreaking": "adj. 累断腰的、极度繁重的体力劳作。专门形容农耕、搬运等重度体力劳动（backbreaking physical labor），用于形容律师打官司属于严重语域错位。",
+      "hard": "adj. 困难的。属于初中基础词汇，语域过低且平铺直叙，完全丧失专八学术英语的庄重文采与深沉张力。"
+    },
+    "translation": "应对反垄断集体诉讼本质上是一项极其艰巨的事业，需要耗费数年的海量证据开示、法务会计审计以及漫长的上诉审查。"
+  },
+  {
+    "id": "tem8_c6_44",
+    "group_id": 160,
+    "group_name": "arduous, laborious, backbreaking, hard",
+    "level": "TEM-8",
+    "target_word": "laborious",
+    "question": "Before producing subpoenaed corporate emails to federal prosecutors, paralegals engaged in the ___ task of reviewing and redacting millions of privileged attorney-client communications page by page.",
+    "options": ["arduous", "laborious", "backbreaking", "hard"],
+    "answer": "laborious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "微观繁琐校阅校对题眼：'engaged in the ___ task of reviewing and redacting millions of ... communications page by page'。针对逐页审查、耗时极其繁琐累人、机械重复度高的文书苦差，专有精准搭配为 the laborious task of doing sth.",
+    "distractor_analysis": {
+      "laborious": "adj. 耗时费力且繁琐枯燥的。MW 核心义为 characterized by effort and great care, tedious and painstaking，精准对应律所助理逐页（page by page）审查数百万份邮件特权信息并进行涂黑隐匿的繁琐沉重工作属性。",
+      "arduous": "adj. 艰巨宏大的。侧重宏观目标的登攀险阻与漫长战略征途（arduous journey/undertaking），修饰纯案头文字校对涂黑这一具体繁琐细务不如 laborious 精确。",
+      "backbreaking": "adj. 极费体力的、累断腰的。专属重体力劳动，案头电脑审查文件绝非体力上的 backbreaking。",
+      "hard": "adj. 困难的。过于通俗单一，无法体现“繁琐耗时、极其注重细节而令人精疲力竭”的特定劳作质感。"
+    },
+    "translation": "在将受到传票调取的公司电子邮件提交给联邦检察官之前，律师助理们投入到了这项耗时繁琐的苦差之中：逐页审查并涂黑遮蔽数百万份受律师-当事人保密特权保护的沟通记录。"
+  },
+  {
+    "id": "tem8_c6_45",
+    "group_id": 161,
+    "group_name": "artful, twisted, distorted, perverted",
+    "level": "TEM-8",
+    "target_word": "artful",
+    "question": "Federal prosecutors unraveled an ___ corporate scheme in which executives used complex offshore shell companies to conceal illicit profits while projecting an outward facade of fiscal integrity.",
+    "options": ["artful", "twisted", "distorted", "perverted"],
+    "answer": "artful",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "白领金融欺诈阴谋题眼：'unraveled an ___ corporate scheme in which executives used complex offshore shell companies ... while projecting an outward facade'。artful 专指狡黠巧妙、工于心计、手法机巧高超的阴谋诡计（an artful scheme）。",
+    "distractor_analysis": {
+      "artful": "adj. 狡黠机巧的、诡计多端的。MW 核心义为 adroit in attaining an end usually by insinuating or indirect means: wily，专指白领罪犯利用精巧金融外衣瞒天过海的复杂巧计（an artful corporate scheme）。",
+      "twisted": "adj. 心理扭曲的、变态的。侧重人的心理变态或物理扭曲，不能修饰精密复杂的商业财务欺诈骗局。",
+      "distorted": "adj. 被曲解失真的。通常修饰事实、数据或画面（distorted facts/image），不能作为主动设计出的“诡计策划（scheme）”的前置定语。",
+      "perverted": "adj. 道德沦丧的、颠倒黑白的。带有强烈的性变态或伦理败坏色彩，无法准确体现金融罪犯利用现代离岸壳架构所展示出的“高超狡黠性与策略技巧性”。"
+    },
+    "translation": "联邦检察官破获了一起精巧狡黠的企业欺诈阴谋，其中高管们利用复杂的离岸空壳公司隐匿非法利润，同时对外粉饰出一副财务诚信的完好门面。"
+  },
+  {
+    "id": "tem8_c6_46",
+    "group_id": 161,
+    "group_name": "artful, twisted, distorted, perverted",
+    "level": "TEM-8",
+    "target_word": "perverted",
+    "question": "The rogue detective was convicted of official corruption after investigators proved he deliberately fabricated ballistic reports and ___ the course of justice to secure an unlawful conviction.",
+    "options": ["artful", "twisted", "distorted", "perverted"],
+    "answer": "perverted",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "英美普通法系绝对法定罪名固定搭配：'fabricated ballistic reports and ___ the course of justice to secure an unlawful conviction'。在普通法中，歪曲妨害司法公正的法定唯一罪名表述就是 pervert the course of justice。",
+    "distractor_analysis": {
+      "perverted": "v./adj. 歪曲、破坏、颠倒。在普通法系刑事法中，“pervert the course of justice”（妨碍司法公正/颠倒正义进程）是具有数百年历史的唯一法定专门罪名表述，固定搭配不可撼动。",
+      "artful": "adj. 狡黠机巧的。词性为形容词，在此处作为与 fabricated 并列的谓语动词过去式存在严重的句法破格（词性不符）。",
+      "twisted": "v. 拧、曲解。虽然可以作动词，但在法律制度中不存在 *twist the course of justice 这一罪名搭配。",
+      "distorted": "v. 歪曲（事实）。可接 distorted facts，但不能与 the course of justice 搭配构成法定妨碍司法罪名。"
+    },
+    "translation": "在调查人员证实这名变节警探故意伪造弹道报告并妨碍司法公正以谋求非法定罪后，他被判定犯有公职腐败罪。"
+  }
+]

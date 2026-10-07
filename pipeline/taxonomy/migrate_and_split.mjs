@@ -179,7 +179,7 @@ function runMigration() {
 
   // 4. 生成统一的 manifest.json
   const manifest = {
-    version: '2026.10.08',
+    version: '2026.10.09',
     updated_at: Date.now(),
     packages: {
       tem4: {

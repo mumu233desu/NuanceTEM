@@ -1,0 +1,922 @@
+[
+  {
+    "id": "tem8_c3_01",
+    "group_id": 70,
+    "group_name": "accession, log, post, book",
+    "level": "TEM-8",
+    "target_word": "accession",
+    "question": "Before any paleontological specimen can reshape existing evolutionary taxonomy, the curatorial board must formally ___ the fossil into the permanent archive, assigning it a verified stratigraphic provenance.",
+    "options": ["accession", "log", "post", "book"],
+    "answer": "accession",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'the fossil into the permanent archive' 专指博物馆与档案馆将实物标本正式登记入库、赋予馆藏编目的制度化行为（accession sth. into an archive）。",
+    "distractor_analysis": {
+      "accession": "v. 专指博物馆、档案馆或标本库将新增藏品、化石等正式“登记录入、编目入藏”（accession a specimen into an archive），与后文馆藏档案语境严丝合缝。",
+      "log": "v. 指航海日志式的“系统记载、记录（数据、运行日志或航行事件）”，后通常不接实物标本进入固定馆藏档案（specimen into archive），语域偏向日常监测记录。",
+      "post": "v. 多指“张贴、发布（公告、网帖）”或商业会计上的“登账、过账”，无法用于描述科学博物馆对实物标本的正式档案编目与入藏手续。",
+      "book": "v. 多指“预订（席位、行程）”或执法机关“登记（嫌疑人案底）”，在自然科学标本馆藏编目语境中属于用词错位。"
+    },
+    "translation": "在任何古生物标本能够重塑现有演化分类学之前，馆藏管理委员会必须正式将该化石编目入藏至永久档案馆，并赋予其经过核实的完整地层学出处。"
+  },
+  {
+    "id": "tem8_c3_02",
+    "group_id": 70,
+    "group_name": "accession, log, post, book",
+    "level": "TEM-8",
+    "target_word": "log",
+    "question": "During long-term deep-sea observational missions, the marine laboratory protocol mandates that researchers rigorously ___ every hydrothermal temperature anomaly in the real-time sensor register for subsequent statistical calibration.",
+    "options": ["accession", "log", "post", "book"],
+    "answer": "log",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'rigorously ___ every hydrothermal temperature anomaly in the real-time sensor register' 专指在监测仪器日志中按时间序列系统记录物理数据与异常值（log an anomaly in the register）。",
+    "distractor_analysis": {
+      "log": "v. 专指按时间序列或操作规范“系统记录、记载（实验数据、观测事件或异常值）”，常用于科研实验日志与传感器记录表，句法语义完全契合。",
+      "accession": "v. 特指档案馆或博物馆对新增藏品进行“编目入藏”，宾语须为实物标本或档案卷宗，不可用于实时记录流体温度异常数据。",
+      "post": "v. 多指网络发布信息、张贴公文或会计过账，不能用于在科研监测设备上客观记录瞬态物理数值。",
+      "book": "v. 指“预订、预约”或司法登记入狱，与连续记录深海传感器温度数据的科学规程完全不符。"
+    },
+    "translation": "在长期的深海观测任务中，海洋实验室规范要求研究人员必须在实时传感器记录簿中严密记录每一次热液温度异常，以便后续进行统计校准。"
+  },
+  {
+    "id": "tem8_c3_03",
+    "group_id": 71,
+    "group_name": "acclaim, hail, cheer, herald",
+    "level": "TEM-8",
+    "target_word": "herald",
+    "question": "The sudden detection of gravitational waves did not merely confirm general relativity; it served to ___ a new epoch in observational astrophysics, fundamentally altering how cosmologists interrogate the universe.",
+    "options": ["acclaim", "hail", "cheer", "herald"],
+    "answer": "herald",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 '___ a new epoch in observational astrophysics' 属于固定学术与史学搭配，专指重大科学发现“宣告、预示全新时代的开启（herald a new era/epoch）”。",
+    "distractor_analysis": {
+      "herald": "v. 特指重大科学突破或历史事件“预示……的到来、开创新纪元”（herald a new epoch/era），直接接 a new epoch 构成经典学术搭配。",
+      "acclaim": "v. 意为“公开盛赞、高度称道”，宾语通常为学者、理论或著作本身，不能搭配 a new epoch 来表达“拉开新时代序幕”。",
+      "hail": "v. 意为“赞誉为、欢呼”，作表彰赞誉解时必须搭配介词 as（如 hail sth. as a breakthrough），此处缺失介词 as，且无法表达开启新纪元的动词功能。",
+      "cheer": "v. 多指群众欢呼喝彩、鼓劲加油，语域高度日常化，与严谨深邃的理论天体物理学范式演进语境格格不入。"
+    },
+    "translation": "引力波的骤然探测不仅证实了广义相对论，它更预示着观测天体物理学全新纪元的开启，从根本上改变了宇宙学家审视宇宙的方式。"
+  },
+  {
+    "id": "tem8_c3_04",
+    "group_id": 71,
+    "group_name": "acclaim, hail, cheer, herald",
+    "level": "TEM-8",
+    "target_word": "acclaim",
+    "question": "Peer reviewers were quick to ___ the young logician's deductive proof for its axiomatic parsimony, yet they remained deeply divided over the physical validity of its underlying ontology.",
+    "options": ["acclaim", "hail", "cheer", "herald"],
+    "answer": "acclaim",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句式 '___ the young logician's deductive proof for its axiomatic parsimony' 中，acclaim 直接接被赞赏的成果并加介词 for 表原因；而 hail 必须接 as 补足语。",
+    "distractor_analysis": {
+      "acclaim": "v. 指因杰出成就而公开盛赞、高度推崇，常用于 \"acclaim sth. for sth.\" 结构（因其公理简约性而盛赞该证明），句法语义完全契合同行评审语境。",
+      "hail": "v. 表赞赏时须遵循固定句式 \"hail sth. as sth.\"（誉为……），在此处缺乏介词 as 补足语标志，句法结构断裂。",
+      "cheer": "v. 指为某人或某事欢呼喝彩，语域偏向大众集会或文体赛事，缺乏学术同行严肃评议（peer review）的评价语体特质。",
+      "herald": "v. 意为“预兆、预示……的降临”，宾语多为未来事件或时代，不能接现有推导证明并在后文以 \"for its parsimony\" 充当赞赏原因状语。"
+    },
+    "translation": "同行评审专家迅速对这位年轻逻辑学家的演绎证明因其公理的简约性而给予高度赞誉，但对于其底层本体论的物理有效性，众人仍旧存在深刻分歧。"
+  },
+  {
+    "id": "tem8_c3_05",
+    "group_id": 72,
+    "group_name": "accredit, franchise, charter, recognise",
+    "level": "TEM-8",
+    "target_word": "accredit",
+    "question": "Before a forensic laboratory can submit biochemical evidence to epistemological scrutiny in federal inquiries, independent scientific boards must rigorously ___ the facility as compliant with international metrological standards.",
+    "options": ["accredit", "franchise", "charter", "recognise"],
+    "answer": "accredit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 '___ the facility as compliant with international metrological standards' 专指专业评审委员会按照严苛标准对实验室进行官方“技术资质认证（accredit a facility/laboratory as compliant）”。",
+    "distractor_analysis": {
+      "accredit": "v. 专指权威机构或学术委员会对实验室、院校等机构进行“官方审核并认定资质、认证合规”（accredit an institution as compliant），与国际计量学标准严密挂钩。",
+      "franchise": "v. 专指商业领域的“特许经营权授予”或政治上的“赋予投票选举权”，与科学法医实验室的计量技术合规审查完全无关。",
+      "charter": "v. 特指国家首脑或立法机关通过法令特许设立法团、高校等法人实体，用于创设机构而非基于技术规范定期进行资质合格认证。",
+      "recognise": "v. 词义过于泛化（认出、表彰或主观认可），缺乏由权威委员会授予专业法定技术准入执照（credentials）的严格法治化规约色彩。"
+    },
+    "translation": "在法医实验室将其生化证据提交给联邦调查中的认识论审查之前，独立科学委员会必须严格认证该机构符合国际计量学标准。"
+  },
+  {
+    "id": "tem8_c3_06",
+    "group_id": 72,
+    "group_name": "accredit, franchise, charter, recognise",
+    "level": "TEM-8",
+    "target_word": "charter",
+    "question": "When seventeenth-century empiricists sought institutional autonomy from scholastic theology, the sovereign agreed to ___ the Royal Society by royal decree, endowing it with corporate permanence.",
+    "options": ["accredit", "franchise", "charter", "recognise"],
+    "answer": "charter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'by royal decree, endowing it with corporate permanence'（通过王室法令确立其法人团体永久地位）是特许设立国家科学学会的专指线索（charter an academy by decree）。",
+    "distractor_analysis": {
+      "charter": "v. 特指国家君主或政府通过特许状、法令“特许设立、正式批准成立（学术学会、法团机构等）”，与 royal decree 和 corporate permanence 构成历史科学哲学的经典搭配。",
+      "accredit": "v. 意为“评估并认证……的技术资质”，适用于对已有机构的合规性核验，而非在法理和建制层面从无到有“特许成立”学会。",
+      "franchise": "v. 意为特许专营或赋予公民权，无法表达 17 世纪国家政权对皇家学会这种学术共同体的宪制特许设立。",
+      "recognise": "v. 意为“承认、认可”，属于事实或外交层面的主观接纳，无法体现 royal decree 背后所附带的法定法人地位创制力（incorporation under charter）。"
+    },
+    "translation": "当十七世纪经验主义者寻求脱离经院哲学的建制自主时，君主同意通过王室法令特许设立皇家学会，赋予其永久法人地位。"
+  },
+  {
+    "id": "tem8_c3_07",
+    "group_id": 73,
+    "group_name": "accrue, wax, add, gain",
+    "level": "TEM-8",
+    "target_word": "accrue",
+    "question": "In Bayesian epistemology, substantial explanatory credibility cannot ___ to an ad hoc hypothesis unless it demonstrates an uncanny capacity to predict novel empirical phenomena beyond its initial parameters.",
+    "options": ["accrue", "wax", "add", "gain"],
+    "answer": "accrue",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句式 'credibility cannot ___ to an ad hoc hypothesis' 中保留的介词 to 构成绝对排他，专指信誉、权威等抽象收益随着实证检验“自然累积并归于（accrue to sth.）”。",
+    "distractor_analysis": {
+      "accrue": "v. 不及物动词，固定与介词 to 连用（accrue to sth.），特指信誉、威望或收益在经过历练后“自然累积、归属于某一理论/主体”，语义完全吻合。",
+      "wax": "v. 不及物动词，多作半系动词接形容词（如 wax eloquent），或描述月相圆缺，不能接介词 to 表示信誉归属于某种假说。",
+      "add": "v. 作不及物动词与 to 连用时（add to sth.），表示“增加/加重某事物的程度”（主语常为负担或数量），不能表示“可信度归属于某一假说”（逻辑颠倒）。",
+      "gain": "v. 及物动词须直接接宾语（如 gain credibility），不能作不及物动词与 to 连用表达“信任归属于假说”。"
+    },
+    "translation": "在贝叶斯认识论中，除非一个特设假说能够展现出预测超出其初始参数之外的新颖经验现象的神奇能力，否则重大的解释可信度不可能自然累积于其自身。"
+  },
+  {
+    "id": "tem8_c3_08",
+    "group_id": 73,
+    "group_name": "accrue, wax, add, gain",
+    "level": "TEM-8",
+    "target_word": "wax",
+    "question": "When confronted with insoluble quantum measurement paradoxes, theorists often ___ philosophical about the nature of conscious observers rather than adhere strictly to instrumentalist equations.",
+    "options": ["accrue", "wax", "add", "gain"],
+    "answer": "wax",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中 'theorists often ___ philosophical about the nature of...' 构成半系动词后接形容词的极其固定搭配 'wax philosophical'（变得富有哲思、言辞滔滔不绝地大发议论）。",
+    "distractor_analysis": {
+      "wax": "v. 半系动词，专用于与形容词连用构成固定修辞（如 wax philosophical / lyrical / poetic），表示学者在特定情境下“变得富有哲理、侃侃而谈起来”，文体典雅。",
+      "accrue": "v. 动词，表示积累、增长，不能作为半系动词后接形容词 philosophical 充当表语。",
+      "add": "v. 动词，表示相加、增加，不能充当连系动词接形容词。",
+      "gain": "v. 及物动词，表示获得、增加，不能充当连系动词接形容词 philosophical。"
+    },
+    "translation": "面对无法解决的量子测量悖论，理论家们往往会就意识观察者的本质大发哲学议论，而不是严格固守工具主义的数学方程式。"
+  },
+  {
+    "id": "tem8_c3_09",
+    "group_id": 74,
+    "group_name": "acquiesce, accede, assent, bargain",
+    "level": "TEM-8",
+    "target_word": "acquiesce",
+    "question": "Rather than mounting a rigorous falsification program, the scientific establishment chose to ___ in the prevailing reductionist dogma, tacitly ignoring anomalous biochemical data that disrupted their unified model.",
+    "options": ["acquiesce", "accede", "assent", "bargain"],
+    "answer": "acquiesce",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中保留的介词 'in'（___ in the dogma）以及后文 'tacitly'（默许地、消极顺从）是绝对排他线索，专指对教条的消极顺从（acquiesce in a dogma）。",
+    "distractor_analysis": {
+      "acquiesce": "v. 不及物动词，传统正式语体固定接介词 in（亦可接 to），特指对主流学说或现状“默许、消极顺应、不提出异议”，与后文 tacitly 形成绝对闭环呼应。",
+      "accede": "v. 不及物动词，固定搭配介词 to（accede to a request/demand），不能与介词 in 搭配，且常指正式屈从要求或就任官职。",
+      "assent": "v. 不及物动词，固定搭配介词 to（assent to a proposal/statement），无法与介词 in 搭配。",
+      "bargain": "v. 不及物动词，通常搭配 with 或 for（bargain for sth.），意为讨价还价，与介词 in 产生语法破格且语意不合。"
+    },
+    "translation": "学术建制派并没有发起严格的证伪检验，而是选择默从于盛行的还原论教条，心照不宣地忽略那些破坏其统一模型的反常生化数据。"
+  },
+  {
+    "id": "tem8_c3_10",
+    "group_id": 74,
+    "group_name": "acquiesce, accede, assent, bargain",
+    "level": "TEM-8",
+    "target_word": "assent",
+    "question": "In formal modal logic, a rational agent cannot simultaneously ___ to a synthetic proposition and deny its deductive entailments without falling into outright cognitive dissonance.",
+    "options": ["acquiesce", "accede", "assent", "bargain"],
+    "answer": "assent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'simultaneously ___ to a synthetic proposition and deny its deductive entailments' 专指认识论主体在理性与逻辑上“赞同、认可（某一命题陈述）”（assent to a proposition）。",
+    "distractor_analysis": {
+      "assent": "v. 不及物动词，固定搭配 to（assent to a proposition），专指在认识论与形式逻辑中对陈述或命题的真实性予以“智识上的认可、赞同”，完全吻合题意。",
+      "acquiesce": "v. 不及物动词，主要指对外部制度或现状的“消极顺从、妥协默认”，不用于逻辑学中对综合命题真值的理性认可。",
+      "accede": "v. 不及物动词，虽接 to，但专指同意他人的要求、索请（accede to demands/terms），非指对命题真值推论的认知首肯。",
+      "bargain": "v. 动词，意为讨价还价，接介词 to 造成严重搭配错误，且与模态逻辑的命题真值判定毫无关联。"
+    },
+    "translation": "在形式模态逻辑中，一个理性主体不可能在赞同某个综合命题的同时又否认其演绎蕴涵，而不陷入彻底的认知失调。"
+  },
+  {
+    "id": "tem8_c3_11",
+    "group_id": 75,
+    "group_name": "adjoin, butt, edge, abut",
+    "level": "TEM-8",
+    "target_word": "abut",
+    "question": "In non-Euclidean spatial modeling, two distinct manifolds are said to ___ upon each other along an infinitesimal boundary without their internal metrics degenerating into a singularity.",
+    "options": ["adjoin", "butt", "edge", "abut"],
+    "answer": "abut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中保留的介词 'upon'（___ upon each other）是排他线索；abut 固定接 on/upon 表示几何实体或空间“毗连相接”，而 adjoin 为及物动词直接接宾语。",
+    "distractor_analysis": {
+      "abut": "v. 不及物动词，固定搭配介词 on 或 upon（abut upon sth.），专指几何结构、空间流形或边界“紧密邻接、毗连”，句法结构与拓扑学语境严密契合。",
+      "adjoin": "v. 及物动词，必须直接接宾语（如 two spaces adjoin each other），不可后加介词 upon，代入会造成明显语法破格。",
+      "butt": "v. 动词，通常接 up against，指物理端头硬性顶撞或贴近，在纯粹数学非欧几何的高级学术语域中显得粗俗突兀。",
+      "edge": "v. 动词，意为给……加边或沿边缘缓慢挪动，无法与 upon 连用表达空间流形间的拓扑接壤。"
+    },
+    "translation": "在非欧空间建模中，两个不同的流形如果沿着一条无穷小边界相互毗邻，其内部度量并不必然退化为奇点。"
+  },
+  {
+    "id": "tem8_c3_12",
+    "group_id": 75,
+    "group_name": "adjoin, butt, edge, abut",
+    "level": "TEM-8",
+    "target_word": "adjoin",
+    "question": "Architects of the particle accelerator ensured that the radiation shielding vault would directly ___ the subterranean linear collider, thereby containing relativistic lepton emissions within a single fortified corridor.",
+    "options": ["adjoin", "butt", "edge", "abut"],
+    "answer": "adjoin",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'directly ___ the subterranean linear collider' 后无介词直接跟宾语名词短语，要求及物动词表示空间或物理设施“与……紧邻相连（adjoin sth.）”。",
+    "distractor_analysis": {
+      "adjoin": "v. 及物动词，直接接名词宾语（adjoin the collider），精确表示物理实验设施、建筑物之间“紧密相连、彼此毗邻”，句法语义顺畅完美。",
+      "abut": "v. 不及物动词，表示邻接时必须接介词 on/upon/against，不能直接跟及物宾语，代入导致句法结构断裂。",
+      "butt": "v. 动词，表示靠拢相接时须接 against 或 up against，不能直接接及物宾语。",
+      "edge": "v. 动词，意为镶边或缓慢移动，无法表达两处大型实验地下设施之间的物理接壤毗连。"
+    },
+    "translation": "粒子对撞机的建筑设计师确保辐射屏蔽舱与地下直线加速器直接相邻，从而将相对论性轻子辐射控制在单一防护走廊之内。"
+  },
+  {
+    "id": "tem8_c3_13",
+    "group_id": 76,
+    "group_name": "adjourn, lapse, culminate, break",
+    "level": "TEM-8",
+    "target_word": "adjourn",
+    "question": "Faced with irreconcilable methodological divisions over CRISPR safety protocols, the bioethics symposium voted to ___ until independent longitudinal data could clarify the clinical implications.",
+    "options": ["adjourn", "lapse", "culminate", "break"],
+    "answer": "adjourn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'the bioethics symposium voted to ___ until...' 专指正式学术伦理委员会或代表大会通过表决“宣布休会、延期复会（adjourn until...）”。",
+    "distractor_analysis": {
+      "adjourn": "v. 专用于正式会议、审议机构经表决“休会、暂停以待日后复会”（voted to adjourn until...），语域极其规范严谨。",
+      "lapse": "v. 动词，常指权利、专利失效，或时间流逝，主语不能是研讨会本身（symposium voted to lapse 语义不通且荒谬）。",
+      "culminate": "v. 不及物动词，必须接介词 in（culminate in sth.），表示达到高潮或最终终结，无法与 until 时间状语连用表示暂停休会。",
+      "break": "v. 动词，表示暂停休息时通常须接介词短语（如 break for recess），在学术伦理大会投票表决的正式议事程序中，break 语域偏向非正式口语。"
+    },
+    "translation": "面对在CRISPR安全协议上不可调和的方法论分歧，生物伦理研讨会表决决定休会，直至独立的纵向研究数据能够阐明其临床影响。"
+  },
+  {
+    "id": "tem8_c3_14",
+    "group_id": 76,
+    "group_name": "adjourn, lapse, culminate, break",
+    "level": "TEM-8",
+    "target_word": "culminate",
+    "question": "Decades of disparate phenomenological investigations into black hole thermodynamics did not dissipate; rather, they were destined to ___ in Hawking's celebrated derivation of quantum radiation.",
+    "options": ["adjourn", "lapse", "culminate", "break"],
+    "answer": "culminate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中保留的介词 'in'（were destined to ___ in Hawking's derivation...）是排他线索，专指漫长理论演进最终达到顶峰并结出重大理论硕果（culminate in sth.）。",
+    "distractor_analysis": {
+      "culminate": "v. 不及物动词，固定搭配介词 in（culminate in sth.），专指长期的科学探索与理论演进“最终达到顶峰并以……告终”，极富科学史纵深感。",
+      "adjourn": "v. 动词，专指立法或学术会议休会，不能搭配介词 in 来表达科学理论演进在某项划时代推导中达到高潮。",
+      "lapse": "v. 不及物动词，指权利失效或滑入不良状态（lapse into），不能接介词 in 表达学术研究取得终极辉煌成就。",
+      "break": "v. 不及物动词，若接 in 表示“打断、插话”或“闯入”，完全违背句子原意。"
+    },
+    "translation": "对黑洞热力学长达数十年的零散唯象研究并未随风消散；相反，它们注定在霍金对量子辐射的著名推导中达到最高峰。"
+  },
+  {
+    "id": "tem8_c3_15",
+    "group_id": 77,
+    "group_name": "adjudicate, try, seal, take",
+    "level": "TEM-8",
+    "target_word": "adjudicate",
+    "question": "When two incommensurable cosmological theories yield conflicting empirical predictions, empirical observations alone may be insufficient to ___ between the rival ontological frameworks without invoking auxiliary pragmatic principles.",
+    "options": ["adjudicate", "try", "seal", "take"],
+    "answer": "adjudicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中 'insufficient to ___ between the rival ontological frameworks' 专指在两个相互对立的不可通约范式之间进行理性权威“裁决、评判（adjudicate between rival frameworks）”。",
+    "distractor_analysis": {
+      "adjudicate": "v. 动词，接介词 between，特指在科学哲学争议中对互相对立的范式、假说或诉求进行权威的“评判、裁决、仲裁”（adjudicate between rival theories）。",
+      "try": "v. 动词，接 between 产生语法搭配破格（try 通常接及物宾语或 to do），不可与 between 连用表示在两个科学理论之间裁定是非。",
+      "seal": "v. 及物动词，意为“盖章、封存”，无法与 between 连用。",
+      "take": "v. 动词，意为“拿取、采纳”，不能构成 take between 表示对理论争议的正式仲裁。"
+    },
+    "translation": "当两个不可通约的宇宙学理论产生相互冲突的经验预测时，若不引入辅助的实用主义原则，单凭经验观察可能不足以在势不两立的本体论框架之间做出权威裁决。"
+  },
+  {
+    "id": "tem8_c3_16",
+    "group_id": 77,
+    "group_name": "adjudicate, try, seal, take",
+    "level": "TEM-8",
+    "target_word": "seal",
+    "question": "The definitive detection of stellar parallax served to ___ the fate of geocentric astronomy once and for all, rendering Ptolemaic epicycles mathematically obsolete.",
+    "options": ["adjudicate", "try", "seal", "take"],
+    "answer": "seal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句式 'served to ___ the fate of geocentric astronomy once and for all' 构成高度固定的英语成语搭配 'seal the fate of sth.'（彻底注定了……的终结命运）。",
+    "distractor_analysis": {
+      "seal": "v. 及物动词，与 the fate of 构成不可拆解的固定搭配（seal the fate of sth.，注定……的命运），精准描述关键反常观测对旧范式的致命打击。",
+      "adjudicate": "v. 动词，意为裁决争议，不能搭配 the fate of（英语无 adjudicate the fate 这一搭配）。",
+      "try": "v. 动词，意为审判或尝试，不能与 the fate of 搭配表示终结性地决定其命运。",
+      "take": "v. 动词，意为拿取，不能与 the fate of 搭配表示注定命运（无 take the fate of 说法）。"
+    },
+    "translation": "恒星视差的确定性探测一举彻底注定了地心说天文学的终结命运，使得托勒密本轮在数学上彻底被废弃。"
+  },
+  {
+    "id": "tem8_c3_17",
+    "group_id": 78,
+    "group_name": "admonish, warn, monish, discourage",
+    "level": "TEM-8",
+    "target_word": "admonish",
+    "question": "In his influential critique of inductive reasoning, the philosopher took care to ___ empirical researchers against confusing mere temporal succession with genuine causal necessitation.",
+    "options": ["admonish", "warn", "monish", "discourage"],
+    "answer": "admonish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'took care to ___ empirical researchers against confusing...' 中保留的 'admonish sb. against doing sth.' 强调从学术理性与哲学规范层面的“严正告诫、劝告”。",
+    "distractor_analysis": {
+      "admonish": "v. 及物动词，常接 against，专指学者、长辈出于学术理性对潜在认知谬误进行“严肃告诫、规戒”，语域庄重典雅，契合归纳批判语境。",
+      "warn": "v. 动词，多指对迫在眉睫的物理危险进行通报预警（warn of danger），语域偏向日常实用，不如 admonish 蕴含深刻的学术思辨与规范劝勉色彩。",
+      "monish": "v. 古旧罕用词（archaic），在现代标准学术政经刊物及专八规范中已被淘汰。",
+      "discourage": "v. 及物动词，固定搭配介词 from（discourage sb. from doing sth.），题干介词为 against，代入会破坏固定句型。"
+    },
+    "translation": "在其对归纳推理的有力批判中，这位哲学家特意严正告诫经验研究者，切勿将单纯的时间先后相继混同为真正的因果必然性。"
+  },
+  {
+    "id": "tem8_c3_18",
+    "group_id": 78,
+    "group_name": "admonish, warn, monish, discourage",
+    "level": "TEM-8",
+    "target_word": "discourage",
+    "question": "Orthodox adherents of logical positivism sought to ___ young metaphysicians from investigating unobservable entities, dismissing theoretical constructs that lacked direct sensory verification as cognitively meaningless.",
+    "options": ["admonish", "warn", "monish", "discourage"],
+    "answer": "discourage",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中保留的介词 'from'（sought to ___ young metaphysicians from investigating...）是绝对排他线索，专指在方法论上“劝阻、打消某人从事某事的念头（discourage sb. from doing sth.）”。",
+    "distractor_analysis": {
+      "discourage": "v. 及物动词，固定搭配 \"discourage sb. from (doing) sth.\"，指在思想或行动上“打消……的积极性、劝阻某人避免去做”，与介词 from 严密契合。",
+      "admonish": "v. 及物动词，固定搭配 against 或接不定式 to do / not to do，不能与介词 from 搭配，代入造成语法断裂。",
+      "warn": "v. 动词，通常搭配 warn against 或 warn of，绝不搭配 warn sb. from doing sth.，语法破格。",
+      "monish": "v. 动词，古旧过时词，现代英语无此规范用法，且不能接 from doing。"
+    },
+    "translation": "逻辑实证主义的正统信徒极力劝阻年轻形而上学家去研究不可观察实体，将缺乏直接感官证实的理论构念斥为在认知上毫无意义。"
+  },
+  {
+    "id": "tem8_c3_19",
+    "group_id": 79,
+    "group_name": "adorn, beautify, embellish, grace",
+    "level": "TEM-8",
+    "target_word": "embellish",
+    "question": "When experimental findings failed to corroborate his hypothesis, the geneticist succumbed to the temptation to ___ the underlying data with speculative flourishes, compromising the study's empirical integrity.",
+    "options": ["adorn", "beautify", "embellish", "grace"],
+    "answer": "embellish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中 '___ the underlying data with speculative flourishes' 专指在事实数据或叙述中“添油加醋、虚饰润色（embellish data/accounts with...）”，带有损害客观真实的学术批判色彩。",
+    "distractor_analysis": {
+      "embellish": "v. 及物动词，专指在事实、叙述或实验数据中“添枝加叶、虚饰粉饰”（embellish the data with flourishes），带有削弱真实性的批判色彩，完美契合科研不端语境。",
+      "adorn": "v. 及物动词，专指用实物饰品“装饰、美化（房间、身体）”，不能用于学术实验数据的不端篡改与虚假润色。",
+      "beautify": "v. 及物动词，专指美化环境或外貌（如 beautify the campus），用于科研数据属于严重搭配不当与语域错位。",
+      "grace": "v. 及物动词，意为“使增光添彩、因莅临而添荣耀”，不能用于贬义的篡改或虚报科研数据。"
+    },
+    "translation": "当实验结果未能证实其假说时，这位遗传学家屈服于诱惑，在底层数据中添枝加叶进行推测性粉饰，从而损害了该研究的经验真实性。"
+  },
+  {
+    "id": "tem8_c3_20",
+    "group_id": 79,
+    "group_name": "adorn, beautify, embellish, grace",
+    "level": "TEM-8",
+    "target_word": "grace",
+    "question": "Bronze busts of pioneering natural philosophers continue to ___ the grand colonnades of the Royal Society, reminding successive generations of fellows of the austere origins of the scientific revolution.",
+    "options": ["adorn", "beautify", "embellish", "grace"],
+    "answer": "grace",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句式 'Bronze busts ... continue to ___ the grand colonnades of the Royal Society' 专指崇高纪念物、学术先驱肖像“使（学术殿堂）增辉生彩、使蓬荜生辉（grace the halls/colonnades）”。",
+    "distractor_analysis": {
+      "grace": "v. 及物动词，专指崇高、庄严的人物或艺术杰作“使……增辉、使生色”（grace the halls/colonnades），语域典雅尊崇，完美衬托科学先驱的历史地位。",
+      "adorn": "v. 及物动词，虽可表装饰，但强调以具体饰物使其外观变得华丽，不具备 grace 所蕴含的赋予历史尊崇感与殿堂光彩的高阶文体色彩。",
+      "beautify": "v. 及物动词，多用于市政环境美化或容貌修饰，语体平实日常，无法承载学术殿堂庄严崇高的历史敬意。",
+      "embellish": "v. 及物动词，偏向文字修饰粉饰或过度装点，用作先驱雕像陈列的主谓搭配不符合自然学术英语习惯。"
+    },
+    "translation": "先驱自然哲学家的青铜半身像依然为皇家学会宏伟的柱廊增光添彩，提醒着历代院士科学革命质朴严谨的起源。"
+  },
+  {
+    "id": "tem8_c3_21",
+    "group_id": 80,
+    "group_name": "adulterate, debase, load, dilute",
+    "level": "TEM-8",
+    "target_word": "adulterate",
+    "question": "Rationalist philosophers insisted that empirical sensory intuitions should never be permitted to ___ the purity of a priori mathematical deductions, lest absolute necessity be reduced to mere psychological contingency.",
+    "options": ["adulterate", "debase", "load", "dilute"],
+    "answer": "adulterate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句式 'never be permitted to ___ the purity of a priori mathematical deductions' 专指因混入异质经验成分而“掺杂、污染（纯洁体系或纯正概念）”（adulterate the purity of sth.）。",
+    "distractor_analysis": {
+      "adulterate": "v. 及物动词，特指因混入外来低级、杂质性成分而使原本纯粹之物“掺假、掺杂受污”（adulterate the purity of），精准对接哲学上先验公理与感官经验的排他性对立。",
+      "debase": "v. 及物动词，常指贬低货币成色、降低道德品格，强调价值与尊严的贬损，而非“因混入外来杂质而破坏纯度”。",
+      "load": "v. 动词，表示装载或在骰子上灌铅作弊，与抽象理性知识纯度的“掺杂污染”缺乏修辞理据。",
+      "dilute": "v. 及物动词，指“稀释、冲淡（溶液或某种力度）”，强调整体浓度的降低，不能深刻揭示“以低劣成分玷污纯粹本质”的认识论批判意蕴。"
+    },
+    "translation": "理性主义哲学家坚称，决不允许经验感官直觉玷污先验数学演绎的纯粹性，以免绝对必然性沦为单纯的心理偶然性。"
+  },
+  {
+    "id": "tem8_c3_22",
+    "group_id": 80,
+    "group_name": "adulterate, debase, load, dilute",
+    "level": "TEM-8",
+    "target_word": "debase",
+    "question": "By subordinating objective peer review to partisan political expediency, the totalitarian regime threatened to ___ the intellectual integrity of the scientific enterprise into mere state propaganda.",
+    "options": ["adulterate", "debase", "load", "dilute"],
+    "answer": "debase",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'threatened to ___ the intellectual integrity of the scientific enterprise into mere state propaganda' 指将崇高的学术尊严与诚信“贬低、贬损至低劣状态（debase sth. into propaganda）”。",
+    "distractor_analysis": {
+      "debase": "v. 及物动词，专指“贬损、降低（学术尊严、道德操守或品格价值）”，后接抽象的 intellectual integrity 并导向沦落结局，具有极其强烈的价值降格批判色彩。",
+      "adulterate": "v. 及物动词，核心义是向物质或体系中“掺假、掺入杂质”，不用于将某种尊严整体贬斥堕落为宣传工具的价值降维表述。",
+      "load": "v. 动词，意为装载或加重负担，语义断裂。",
+      "dilute": "v. 及物动词，意为稀释、冲淡力量，虽可接抽象名词，但无法表达将严谨科学诚信彻底“贬低蜕变（debase into propaganda）”的严重恶化态势。"
+    },
+    "translation": "通过将客观的同行评审屈从于党派政治权宜之计，该极权政权企图将科学事业的智识诚信贬损为单纯的国家宣传工具。"
+  },
+  {
+    "id": "tem8_c3_23",
+    "group_id": 81,
+    "group_name": "affiliate, assort, consort, associate",
+    "level": "TEM-8",
+    "target_word": "affiliate",
+    "question": "To secure access to the synchrophasotron, independent particle physicists were required to formally ___ with the European consortium before submitting their collaborative experimental proposals.",
+    "options": ["affiliate", "assort", "consort", "associate"],
+    "answer": "affiliate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'formally ___ with the European consortium' 结合科研机构“正式挂靠、附属入会（affiliate with an organization/consortium）”形成绝对排他。",
+    "distractor_analysis": {
+      "affiliate": "v. 不及物动词（亦可及物），固定接介词 with（affiliate with），专指科研人员或机构“正式加盟、挂靠于（大型学术组织/科研联盟）”，语域高度合规。",
+      "assort": "v. 不及物动词，生物学中指等位基因自由组合（assort independently），与 with 连用表示分类相配，不能表示学者依附加盟科研实体。",
+      "consort": "v. 不及物动词，搭配 with（consort with），但在现代英语中带有强烈的贬义（如与恶势力“勾结、厮混”），与正规国际大科学科研联盟合作语境严重冲突。",
+      "associate": "v. 不及物动词虽可接 with，但多指泛泛的“交往、打交道”或心理联想，缺乏 affiliate 所特有的严格法制化官方挂靠认证色彩。"
+    },
+    "translation": "为了获得使用同步稳相加速器的权限，独立粒子物理学家在提交合作实验提案之前，必须正式挂靠于该欧洲科研联盟。"
+  },
+  {
+    "id": "tem8_c3_24",
+    "group_id": 81,
+    "group_name": "affiliate, assort, consort, associate",
+    "level": "TEM-8",
+    "target_word": "consort",
+    "question": "The orthodox astrophysicist faced stern condemnation from the disciplinary committee after choosing to openly ___ with notorious pseudoscientists whose discredited theories had already been thoroughly refuted.",
+    "options": ["affiliate", "assort", "consort", "associate"],
+    "answer": "consort",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中 'faced stern condemnation ... choosing to openly ___ with notorious pseudoscientists' 含有强烈的学术纪律谴责色彩，consort with 专指与名声不佳者“厮混、勾结”的贬义内涵。",
+    "distractor_analysis": {
+      "consort": "v. 不及物动词，固定搭配 consort with，专指与品行不端、声名狼藉之人（如 notorious pseudoscientists）“勾结、厮混、过从甚密”，带有强烈的负面道德与学术戒律批判色彩。",
+      "affiliate": "v. 动词，专指官方合法的分支挂靠或正规加盟，与后文违背学术伦理而遭纪律处分的负面语境直接对立。",
+      "assort": "v. 动词，意为分类、配合或遗传学上的自由组合，无法表示人际交往。",
+      "associate": "v. 动词，中性词（与某人交往），缺乏 consort with 所独有的受伦理谴责的贬义色彩（pejorative connotation）。"
+    },
+    "translation": "这位正统天体物理学家在选择公开与臭名昭著的伪科学家过从甚密后，面临纪律委员会的严厉谴责，而那些伪科学家的荒谬理论早已被彻底驳倒。"
+  },
+  {
+    "id": "tem8_c3_25",
+    "group_id": 82,
+    "group_name": "afflict, faze, unnerve, unsettle",
+    "level": "TEM-8",
+    "target_word": "afflict",
+    "question": "Epistemologists observe that systemic confirmation bias continues to ___ empirical psychology, preventing investigators from acknowledging anomalous data that would otherwise dismantle their pet hypotheses.",
+    "options": ["afflict", "faze", "unnerve", "unsettle"],
+    "answer": "afflict",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'systemic confirmation bias continues to ___ empirical psychology' 专指某种弊端、痼疾或认知缺陷“长期困扰、折磨（某个学术学科或群体）”（afflict an academic discipline）。",
+    "distractor_analysis": {
+      "afflict": "v. 及物动词，专指系统性痼疾、灾祸或弊病“长期困扰、折磨（学科领域或群体）”，宾语为学科（empirical psychology），医学与认识论隐喻极为精准。",
+      "faze": "v. 及物动词，常用于否定句，指使人感到气馁、慌乱（nothing could faze him），语域极其通俗口语化，不可用于严肃学术论述。",
+      "unnerve": "v. 及物动词，指使某人丧失勇气、情绪慌乱，通常以具象的人作宾语，不能以学科领域（empirical psychology）作及物宾语。",
+      "unsettle": "v. 及物动词，指打乱平静、使动摇，但在表示“系统性弊端长期折磨/困扰某一学科”时，不如 afflict 具备痼疾深重的学术专属性。"
+    },
+    "translation": "认识论学家观察到，系统性的确认偏误依然长期困扰着经验心理学，阻碍研究人员承认那些本可瓦解其钟爱假说的反常数据。"
+  },
+  {
+    "id": "tem8_c3_26",
+    "group_id": 82,
+    "group_name": "afflict, faze, unnerve, unsettle",
+    "level": "TEM-8",
+    "target_word": "unsettle",
+    "question": "The unexpected discovery of dark energy served to profoundly ___ established cosmological models, forcing theoretical physicists to re-examine Einstein's cosmological constant after decades of complacent consensus.",
+    "options": ["afflict", "faze", "unnerve", "unsettle"],
+    "answer": "unsettle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'served to profoundly ___ established cosmological models, forcing theoretical physicists to re-examine...' 专指重大颠覆性发现“动摇、打乱（稳固的理论模型与既定共识）”（unsettle models/consensus）。",
+    "distractor_analysis": {
+      "unsettle": "v. 及物动词，专指某种意外颠覆性科学反常“动摇、打乱（既定理论模型、基础假设或学术共识）”，学术逻辑极为严谨。",
+      "afflict": "v. 及物动词，指疾病或祸患长期折磨受害者，不能搭配抽象的物理理论模型作为被扰乱动摇的对象（不作 afflict cosmological models）。",
+      "faze": "v. 及物动词，口语俚俗词汇，指使某人胆怯慌乱，完全脱离理论物理学高阶学术语域。",
+      "unnerve": "v. 及物动词，指使心理神经紧张，宾语必须是有意识的人，不能直接接 cosmological models 作为动作承受者。"
+    },
+    "translation": "暗能量的意外发现极大地动摇了既有的宇宙学模型，迫使理论物理学家在经历数十年轻松达成共识之后，重新审视爱因斯坦的宇宙学常数。"
+  },
+  {
+    "id": "tem8_c3_27",
+    "group_id": 83,
+    "group_name": "affront, abase, diss, sting",
+    "level": "TEM-8",
+    "target_word": "affront",
+    "question": "The assertion that scientific truth is merely a subjective social construct was perceived by empiricists to ___ the very foundation of objective rational inquiry.",
+    "options": ["affront", "abase", "diss", "sting"],
+    "answer": "affront",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中 'perceived by empiricists to ___ the very foundation of objective rational inquiry' 专指相对主义极端主张“公然亵渎、冒犯（客观理性探究的基石）”（affront the foundation of inquiry）。",
+    "distractor_analysis": {
+      "affront": "v. 及物动词，指言论或行为“公然冒犯、侮辱、公然蔑视（尊严、原则或理性基石）”，常用于哲学认识论对后现代极端相对主义的学术反击。",
+      "abase": "v. 及物动词，常作反身动词（abase oneself），指“自我贬低、使屈辱”，不能用于主语抽象论断对客观真理基石的公然冒犯。",
+      "diss": "v. 及物动词，属于现代街头嘻哈与俚语（disrespect 的简写），极度非正式，严禁出现在专八学术语篇中。",
+      "sting": "v. 动词，通常指昆虫叮咬或引起刺痛，作及物动词指言辞刺伤某人情感，不能搭配抽象的 the very foundation of objective rational inquiry。"
+    },
+    "translation": "科学真理仅仅是主观社会建构的论调，被经验主义者视为对客观理性探究基石的公然亵渎。"
+  },
+  {
+    "id": "tem8_c3_28",
+    "group_id": 83,
+    "group_name": "affront, abase, diss, sting",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Galileo vehemently rejected the scholastic insistence that natural philosophy must ___ itself before theological dogma, arguing that empirical observations of celestial bodies admitted of no ecclesiastical censorship.",
+    "options": ["affront", "abase", "diss", "sting"],
+    "answer": "abase",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中 'natural philosophy must ___ itself before theological dogma' 中构成的反身搭配 'abase itself before' 专指在权威前“自贬身价、卑微屈服”，排他性极强。",
+    "distractor_analysis": {
+      "abase": "v. 及物动词，常用于反身结构 \"abase oneself/itself before sb./sth.\"，特指在权威或神权面前“自贬身份、卑微屈从”，完美契合科学革命早期的认识论抗争。",
+      "affront": "v. 及物动词，意为冒犯、侮辱，后接 itself before 导致语义变成“侮辱自己”，与向神学屈从的原意彻底相悖。",
+      "diss": "v. 动词，街头俚语，语体极其低俗口语化，不可用于伽利略科学史思想斗争的严肃论述。",
+      "sting": "v. 动词，指叮咬或刺痛，不构成反身屈从结构（sting itself before 语法与语义均不通）。"
+    },
+    "translation": "伽利略强烈反对经院哲学坚持自然哲学必须在神学教条面前自贬身价的论调，坚称天体的经验观测决不能接受教会的审查审查。"
+  },
+  {
+    "id": "tem8_c3_29",
+    "group_id": 84,
+    "group_name": "aggregate, intermingle, blend, concoct",
+    "level": "TEM-8",
+    "target_word": "aggregate",
+    "question": "Before deriving general thermodynamic laws, the computational simulation must systematically ___ micro-level particle velocities across millions of molecular collisions into macroscopic variables like temperature and pressure.",
+    "options": ["aggregate", "intermingle", "blend", "concoct"],
+    "answer": "aggregate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'systematically ___ micro-level particle velocities ... into macroscopic variables' 专指在统计物理学中将分散的微观参量“聚合、归并统计为宏观总体（aggregate micro-data into macro-variables）”。",
+    "distractor_analysis": {
+      "aggregate": "v. 及物动词，专指在统计物理与数据建模中将离散微观单元或数据“统计聚合为宏观综合量”（aggregate micro-level data into macroscopic variables）。",
+      "intermingle": "v. 动词，多指物质或人群在物理空间中“相互混杂”，无法表达统计物理学中严密的数学加总与宏观量化聚合过程。",
+      "blend": "v. 动词，指将不同原料或特征无缝融合为均匀混合物（如调配咖啡或颜色），不表达自下而上的数据与物理量聚合计算。",
+      "concoct": "v. 及物动词，指“调制、编造、捏造（借口、假说）”，带有不真实或临时代用的贬义色彩，严重违背严肃物理模拟语境。"
+    },
+    "translation": "在推导普适热力学定律之前，计算机模拟必须系统性地将数百万次分子碰撞中的微观粒子速度聚合成温度与压力等宏观变量。"
+  },
+  {
+    "id": "tem8_c3_30",
+    "group_id": 84,
+    "group_name": "aggregate, intermingle, blend, concoct",
+    "level": "TEM-8",
+    "target_word": "concoct",
+    "question": "Karl Popper sharply warned that unprincipled theorists would often ___ ad hoc hypotheses simply to insulate their favored paradigms from being decisively refuted by conflicting empirical observations.",
+    "options": ["aggregate", "intermingle", "blend", "concoct"],
+    "answer": "concoct",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中 'unprincipled theorists would often ___ ad hoc hypotheses simply to insulate their favored paradigms' 专指为了规避伪证而凭空“编造、炮制（特设性假说）”（concoct ad hoc hypotheses）。",
+    "distractor_analysis": {
+      "concoct": "v. 及物动词，常含贬义，指出于私利或托词而“编造、炮制（理论、借口、假说）”，与批判特设假说（ad hoc hypotheses）形成绝佳学术呼应。",
+      "aggregate": "v. 动词，意为统计汇总、聚合，与理论家凭空捏造特设假说的逃避行为南辕北辙。",
+      "intermingle": "v. 动词，指相互混合，不能以 ad hoc hypotheses 作及物宾语表示“凭空捏造理论”。",
+      "blend": "v. 动词，指调和、融合，无法体现波普尔哲学对凭空捏造逃避伪证手段的严厉批判色彩。"
+    },
+    "translation": "卡尔·波普尔严厉警告称，缺乏原则的理论家往往会随意炮制特设性假说，纯粹是为了使他们钟爱的范式免遭冲突性经验观察的决定性驳斥。"
+  },
+  {
+    "id": "tem8_c3_31",
+    "group_id": 85,
+    "group_name": "agitate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "agitate",
+    "question": "Frustrated by institutional inertia, dissenting quantum physicists began to actively ___ for a fundamental re-examination of non-locality, challenging the dogmatic Copenhagen consensus through published manifestos and debates.",
+    "options": ["agitate", "jog", "lure", "entice"],
+    "answer": "agitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中保留的介词 'for'（actively ___ for a fundamental re-examination）是绝对排他线索，专指为争取某项学术变革而“积极奔走呼吁、掀起公共争论（agitate for a reform/review）”。",
+    "distractor_analysis": {
+      "agitate": "v. 不及物动词，固定搭配介词 for（agitate for sth.），特指为打破现状而“鼓动、奔走呼吁、掀起广泛争辩”，与后文发表宣言挑战哥本哈根共识完全吻合。",
+      "jog": "v. 动词，意为“慢跑”或“唤醒（记忆，如 jog memory）”，不能与介词 for 连用表示为某种理论重审而抗争呼吁。",
+      "lure": "v. 及物动词，指诱惑、诱骗，必须直接接宾语（lure sb. into），不能直接接介词 for。",
+      "entice": "v. 及物动词，指诱使、怂恿，亦须接及物宾语（entice sb. to do），不能接 for 进行不及物鼓动呼吁。"
+    },
+    "translation": "出于对学术建制惰性的沮丧，持不同政见的量子物理学家开始积极奔走呼吁，要求对非定域性进行根本性重新审视，并通过发表宣言和辩论来挑战教条的哥本哈根共识。"
+  },
+  {
+    "id": "tem8_c3_32",
+    "group_id": 85,
+    "group_name": "agitate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "entice",
+    "question": "The deceptive elegance of deterministic equations should not ___ young cosmologists into abandoning the probabilistic nuances inherent in modern quantum field theories.",
+    "options": ["agitate", "jog", "lure", "entice"],
+    "answer": "entice",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'should not ___ young cosmologists into abandoning...' 保留的结构 'entice sb. into doing sth.' 专指以表面美感“诱使、诱惑某人做出偏离原则的行为”。",
+    "distractor_analysis": {
+      "entice": "v. 及物动词，固定搭配 \"entice sb. into doing sth.\"，指以表面的优雅或利益“诱惑、诱使某人陷入某种理论偏颇”，句法语义完美契合。",
+      "agitate": "v. 动词，意为煽动、使焦虑，无法构成 \"agitate sb. into doing\" 这种诱使学者放弃理论细微差异的语用意蕴。",
+      "jog": "v. 动词，接 into 产生搭配断裂，无法表达以公式的简洁诱使学者步入歧途。",
+      "lure": "v. 动词，虽可接 into，但常指具体的陷阱诱捕，而 entice 更侧重智识审美或表面诱惑（deceptive elegance）对思想的潜移默化诱使。"
+    },
+    "translation": "确定性方程式虚幻的优雅，不应诱使年轻宇宙学家放弃现代量子场论中固有的概率细微特质。"
+  },
+  {
+    "id": "tem8_c3_33",
+    "group_id": 86,
+    "group_name": "alight, port, perch, beach",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "After wandering through decades of sterile metaphysical disputes, analytic philosophers finally began to ___ on an epistemic framework that treated scientific models as pragmatic instruments rather than mirror images of reality.",
+    "options": ["alight", "port", "perch", "beach"],
+    "answer": "alight",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中保留的介词 'on'（began to ___ on an epistemic framework）构成 'alight on' 的排他线索，专指思绪或探索历程在长久搜寻后“最终落脚于、选定（某一理论框架）”。",
+    "distractor_analysis": {
+      "alight": "v. 不及物动词，固定搭配介词 on/upon（alight on sth.），引申指目光、思绪或哲学探索在久经徘徊后“最终落脚于、停留在（某一结论或框架）”，学术文采典雅。",
+      "port": "v. 动词，计算机领域指软件移植，航海指转向左舷，不能与介词 on 连用表达理论探索的最终归宿。",
+      "perch": "v. 不及物动词，虽可接 on，但具体指鸟类或物体“栖息在高处或悬岩边”，用于认识论思想探索框架的最终落脚属于概念范畴错位。",
+      "beach": "v. 动词，指船只搁浅或冲上海滩，不接 on 表达选定某一哲学框架。"
+    },
+    "translation": "在经历了数十年毫无结果的形而上学纷争之后，分析哲学家终于开始落脚于一种认识论框架，该框架将科学模型视为实用工具而非现实的镜像镜像。"
+  },
+  {
+    "id": "tem8_c3_34",
+    "group_id": 86,
+    "group_name": "alight, port, perch, beach",
+    "level": "TEM-8",
+    "target_word": "perch",
+    "question": "Skeptics pointed out that the entire theoretical edifice continued to ___ precariously upon a set of unfalsifiable axioms, vulnerable to total collapse should any fundamental anomaly be verified.",
+    "options": ["alight", "port", "perch", "beach"],
+    "answer": "perch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中 'continued to ___ precariously upon a set of unfalsifiable axioms' 中构成的固定隐喻搭配 'perch precariously upon'（摇摇欲坠地悬立于……之上）是绝对排他线索。",
+    "distractor_analysis": {
+      "perch": "v. 不及物动词，常与 precariously upon 搭配（perch precariously on/upon），形象描绘脆弱的理论大厦“悬危地立于未经验证的公理之上”，科学哲学隐喻极为贴切。",
+      "alight": "v. 不及物动词，表示降落、停歇于，不能与副词 precariously 搭配描绘宏大理论大厦持久处于摇摇欲坠的悬空状态。",
+      "port": "v. 动词，意为移植或转向，无此搭配用法。",
+      "beach": "v. 动词，指船只搁浅，不能用于描绘理论体系 perched upon axioms 的高危悬空状态。"
+    },
+    "translation": "怀疑论者指出，整座理论大厦依然岌岌可危地悬立于一组不可证伪的公理之上，一旦任何根本性反常得到证实，它随时可能彻底崩塌。"
+  },
+  {
+    "id": "tem8_c3_35",
+    "group_id": 87,
+    "group_name": "align, skew, aline, adjust",
+    "level": "TEM-8",
+    "target_word": "align",
+    "question": "To preserve internal coherence, theoretical cosmologists must continuously ___ their mathematical predictions with the high-precision cosmic microwave background observations gathered by orbital space telescopes.",
+    "options": ["align", "skew", "aline", "adjust"],
+    "answer": "align",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'must continuously ___ their mathematical predictions with the high-precision ... observations' 保留的介词 'with'（align A with B）专指使理论预测与观测基准“保持一致、校准并轨”。",
+    "distractor_analysis": {
+      "align": "v. 及物动词，常搭配介词 with（align A with B），特指将数学预测与精密实证观测数据“校准、对齐、使之一致”，是科学哲学的经典术语。",
+      "skew": "v. 及物动词，指“使偏斜、歪曲（数据）”，会导致预测与实证背离，与句首保持理论自洽（preserve internal coherence）的逻辑彻底倒错。",
+      "aline": "v. 动词，为 align 的罕用/古旧异体拼写，在现代正规学术标准出版物中均不采用。",
+      "adjust": "v. 及物动词，虽可表示调节，但通常接 \"adjust A to B\"（调整 A 以适应 B），较少与 with 连用表达两者方向与体系上的严密并轨对齐。"
+    },
+    "translation": "为了保持内在自洽性，理论宇宙学家必须不断将他们的数学预测与轨道空间望远镜收集的高精度宇宙微波背景辐射观测数据进行校准对齐。"
+  },
+  {
+    "id": "tem8_c3_36",
+    "group_id": 87,
+    "group_name": "align, skew, aline, adjust",
+    "level": "TEM-8",
+    "target_word": "skew",
+    "question": "Systematic measurement errors introduced by thermal fluctuations in the particle detector will invariably ___ the statistical distribution of observed decay rates, generating spurious evidence of novel physics.",
+    "options": ["align", "skew", "aline", "adjust"],
+    "answer": "skew",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'will invariably ___ the statistical distribution of observed decay rates, generating spurious evidence' 专指测量误差导致统计分布“发生偏倚、歪斜（skew the distribution）”，从而生成虚假证据。",
+    "distractor_analysis": {
+      "skew": "v. 及物动词，专指系统性误差或偏见导致数据、统计分布“发生偏斜、产生失真偏差”（skew the distribution），直接导致伪证据的生成。",
+      "align": "v. 及物动词，意为对齐、校准，若对齐分布则不会产生虚假证据（spurious evidence），逻辑反向颠倒。",
+      "aline": "v. 罕见异体词，意同 align，同样逻辑倒错。",
+      "adjust": "v. 及物动词，意为校正、微调，通常是为了消除误差而非引起失真，与 generating spurious evidence 的消极因果关系冲突。"
+    },
+    "translation": "粒子探测器中的热涨落引入的系统测量误差，将不可避免地使观测到的衰变率统计分布发生偏斜，从而产生关于新物理学的虚假证据。"
+  },
+  {
+    "id": "tem8_c3_37",
+    "group_id": 88,
+    "group_name": "allay, ease, still, relieve",
+    "level": "TEM-8",
+    "target_word": "allay",
+    "question": "Rigorous double-blind replication trials were conducted specifically to ___ lingering skepticism among senior epidemiologists regarding the reproducibility of the vaccine efficacy data.",
+    "options": ["allay", "ease", "still", "relieve"],
+    "answer": "allay",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'conducted specifically to ___ lingering skepticism among senior epidemiologists' 构成不可拆解的高阶学术动宾搭配 'allay skepticism / fears / concerns'（消除、平息智识疑虑与怀疑）。",
+    "distractor_analysis": {
+      "allay": "v. 及物动词，专指平息、消除心智层面的“疑虑、担忧、怀疑”（allay skepticism/concerns/doubts），语体极其典雅，与学术界的怀疑态度完美对接。",
+      "ease": "v. 及物动词，多搭配 ease the burden, tension 或 difficulty，接抽象的 skepticism 不如 allay 纯正并具绝对排他性。",
+      "still": "v. 及物动词，多指使物理运动或环境“平静、静止”，虽然文学中有 still the doubts，但在学术文献中不如 allay 规范严谨。",
+      "relieve": "v. 及物动词，专接痛苦、压力、疾病或负担（relieve pain/pressure/symptoms），不能接智识层面的怀疑态度（不作 relieve skepticism）。"
+    },
+    "translation": "开展严格的双盲重复试验，专门为了平息资深流行病学家对疫苗有效性数据可重现性所抱有的挥之不去的疑虑。"
+  },
+  {
+    "id": "tem8_c3_38",
+    "group_id": 88,
+    "group_name": "allay, ease, still, relieve",
+    "level": "TEM-8",
+    "target_word": "ease",
+    "question": "The introduction of tensor processing units served to substantially ___ the computational bottleneck in deep neural network simulations, enabling researchers to execute billions of matrix operations concurrently.",
+    "options": ["allay", "ease", "still", "relieve"],
+    "answer": "ease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'substantially ___ the computational bottleneck ... enabling researchers to execute...' 专指软硬件技术革新“缓解、减轻（计算瓶颈、压力或负荷）”（ease the bottleneck/burden）。",
+    "distractor_analysis": {
+      "ease": "v. 及物动词，专与 bottleneck, burden, tension 搭配，表示“缓解、减轻（计算瓶颈或运算负荷）”，符合计算机科学与定量科学语境。",
+      "allay": "v. 及物动词，宾语必须是心理疑虑或情绪恐惧（allay fears/concerns），不能用于缓解客观运算瓶颈（不作 allay the bottleneck）。",
+      "still": "v. 及物动词，指使静止，不能与 bottleneck 搭配表示缓解瓶颈。",
+      "relieve": "v. 及物动词，虽可缓解压力，但通常接 pain, stress, suffering，针对计算流程中的 bottleneck，ease the bottleneck 是最标准的外刊学术搭配。"
+    },
+    "translation": "张量处理单元的引入极大地缓解了深度神经网络模拟中的计算瓶颈，使研究人员能够并发执行数十亿次矩阵运算。"
+  },
+  {
+    "id": "tem8_c3_39",
+    "group_id": 89,
+    "group_name": "alleviate, relieve, assuage, palliate",
+    "level": "TEM-8",
+    "target_word": "palliate",
+    "question": "Epistemologists argued that introducing arbitrary corrective factors could only ___ the superficial symptoms of theoretical breakdown, rather than cure the underlying mathematical inconsistency of the paradigm.",
+    "options": ["alleviate", "relieve", "assuage", "palliate"],
+    "answer": "palliate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中与后文 'rather than cure the underlying mathematical inconsistency' 形成绝妙反差的 '___ the superficial symptoms' 专指“治标不治本、掩盖缓和表层病灶（palliate symptoms）”。",
+    "distractor_analysis": {
+      "palliate": "v. 及物动词，专指“姑息、缓和症状但未能根治（治标不治本）”，与句中 \"superficial symptoms ... rather than cure\" 形成绝对排他的对仗批判。",
+      "alleviate": "v. 及物动词，指实质性减轻疾苦或困难，缺乏 palliate 包含的“仅治标不治本、掩盖深层病灶”的讽刺与批判哲学内涵。",
+      "relieve": "v. 及物动词，多指消除实际痛苦或释放压力，同样无法精确对应后文“未能根治（rather than cure）”的治标不治本语境。",
+      "assuage": "v. 及物动词，专指平息心理内疚、渴望或悲伤情绪（如 assuage grief/guilt），不能用于修饰理论崩溃的表层数学症状。"
+    },
+    "translation": "认识论学者指出，引入任意的修正因子只能姑息理论崩溃的表面症状，而无法根治该范式底层的数学自相矛盾。"
+  },
+  {
+    "id": "tem8_c3_40",
+    "group_id": 89,
+    "group_name": "alleviate, relieve, assuage, palliate",
+    "level": "TEM-8",
+    "target_word": "assuage",
+    "question": "In an effort to ___ their lingering epistemological anxiety, the researchers clung to outdated deterministic assumptions even as non-deterministic quantum phenomena repeatedly defied classical prediction.",
+    "options": ["alleviate", "relieve", "assuage", "palliate"],
+    "answer": "assuage",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'In an effort to ___ their lingering epistemological anxiety' 专指安抚、平息内心深处的“认知焦虑、内疚或恐惧情绪”（assuage anxiety/guilt）。",
+    "distractor_analysis": {
+      "assuage": "v. 及物动词，专用于平息、安抚深层心理层面的“焦虑、愧疚、痛楚”（assuage anxiety/fears），语调富于内省修辞色彩。",
+      "palliate": "v. 及物动词，指对外部弊病或生理病症的治标性掩饰，不用于平息学者内在的认识论焦虑情绪。",
+      "alleviate": "v. 及物动词，虽可接 suffering 或 problems，但在搭配深度个人认知心理焦虑（lingering epistemological anxiety）时，assuage 的情感平复质感更胜一筹。",
+      "relieve": "v. 及物动词，偏向外在压力释放或生理痛感缓解，缺乏 assuage 特有的抚平内心心理波动之意境。"
+    },
+    "translation": "为了平抚内心挥之不去的认识论焦虑，研究人员依然死死抱住过时的确定性假设，即便非确定性量子现象一再公然打破经典预测。"
+  },
+  {
+    "id": "tem8_c3_41",
+    "group_id": 90,
+    "group_name": "allude, insinuate, touch, advert",
+    "level": "TEM-8",
+    "target_word": "allude",
+    "question": "In his seminal 1905 paper, Einstein chose to merely ___ to the luminiferous aether in passing, dismissing it as superfluous rather than mounting an exhaustive polemical assault against its physical reality.",
+    "options": ["allude", "insinuate", "touch", "advert"],
+    "answer": "allude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中保留的介词 'to' 与短语 'in passing'（___ to the aether in passing）是绝对排他线索，专指对某理论进行“顺带提及、含蓄暗示（allude to sth. in passing）”。",
+    "distractor_analysis": {
+      "allude": "v. 不及物动词，固定搭配介词 to（allude to），特指在学术或文学论著中“间接地、顺带地提及（某事物）”，与 in passing 语意高度契合。",
+      "insinuate": "v. 及物动词，必须直接接从句或名词宾语（如 insinuate that...），带有恶意影射之意，不能接介词 to。",
+      "touch": "v. 不及物动词时须接介词 on 或 upon（touch on a topic），不能与 to 搭配。",
+      "advert": "v. 不及物动词虽可接 to（advert to），但意为正式“将注意力转向、明确提到”，不含 allude 所特有的“含蓄暗示、顺带带过”之意境。"
+    },
+    "translation": "在其1905年的开创性论文中，爱因斯坦选择只是顺带略微提及发光以太，将其斥为多余之物，而不是对其物理实在性发起详尽的论战抨击。"
+  },
+  {
+    "id": "tem8_c3_42",
+    "group_id": 90,
+    "group_name": "allude, insinuate, touch, advert",
+    "level": "TEM-8",
+    "target_word": "insinuate",
+    "question": "During the heated methodological controversy, the revisionist historian appeared to maliciously ___ that the celebrated laboratory had fabricated its cosmological radiation measurements to secure federal funding.",
+    "options": ["allude", "insinuate", "touch", "advert"],
+    "answer": "insinuate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中后接 that 宾语从句及修饰副词 'maliciously'（恶意地），专指带有诽谤性质的“暗讽、恶意影射（insinuate that...）”。",
+    "distractor_analysis": {
+      "insinuate": "v. 及物动词，后接 that 引导的宾语从句，专指带有阴险、恶意色彩地“影射、暗指（某人造假/不端）”，与 maliciously 完美呼应。",
+      "allude": "v. 不及物动词，必须接介词 to，不能直接跟 that 从句作为及物宾语（不可作 allude that...）。",
+      "touch": "v. 动词，后接从句语法断裂（必须接 on/upon），不能引导含有造假指控的间接宾语从句。",
+      "advert": "v. 不及物动词，接介词 to，绝不能直接接 that 引导的名词性从句。"
+    },
+    "translation": "在这场激烈的科学方法论争端中，这位修正主义历史学家似乎在恶意影射那家著名实验室伪造了其宇宙辐射测量数据，以骗取联邦资助。"
+  },
+  {
+    "id": "tem8_c3_43",
+    "group_id": 91,
+    "group_name": "amalgamate, mix, unify, commix",
+    "level": "TEM-8",
+    "target_word": "unify",
+    "question": "The holy grail of contemporary theoretical physics remains the ambition to ___ quantum mechanics and general relativity under a mathematically consistent framework of quantum gravity.",
+    "options": ["amalgamate", "mix", "unify", "commix"],
+    "answer": "unify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'ambition to ___ quantum mechanics and general relativity under a mathematically consistent framework' 是理论物理的标志性术语，专指将互斥理论“统一于单一终极定律（unify theories）”。",
+    "distractor_analysis": {
+      "unify": "v. 及物动词，专用于理论物理与认识论中将不同分支的自然法则或相斥理论“统一于单一终极公理体系（unify distinct fields/theories）”，是科学哲学经典术语。",
+      "amalgamate": "v. 及物动词，多指不同组织、法团或异质成分“合并为一个混合实体”，无法体现物理学万物理论从根本法则层面实现大一统的深刻内涵。",
+      "mix": "v. 动词，仅指粗浅物理混合，语域极其平庸日常，无法用于前沿理论大一统的高深学术语境。",
+      "commix": "v. 动词，为文学罕用/古旧词汇，意为掺杂混合，不具备现代数理哲学统一定律的学术功能。"
+    },
+    "translation": "当代理论物理学的圣杯，依然是将量子力学与广义相对论统一在数学自洽的量子引力框架之下的宏大抱负。"
+  },
+  {
+    "id": "tem8_c3_44",
+    "group_id": 91,
+    "group_name": "amalgamate, mix, unify, commix",
+    "level": "TEM-8",
+    "target_word": "amalgamate",
+    "question": "To construct a comprehensive sociological theory of science, the research group sought to ___ ethnographic laboratory observations with quantitative citation network metrics into a coherent institutional analysis.",
+    "options": ["amalgamate", "mix", "unify", "commix"],
+    "answer": "amalgamate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式 'sought to ___ ethnographic laboratory observations with quantitative citation network metrics into a coherent institutional analysis' 专指将两类迥异的实体/方法体系“合并融合为一个综合框架（amalgamate A with B into C）”。",
+    "distractor_analysis": {
+      "amalgamate": "v. 及物动词，常搭配介词 with 以及 into（amalgamate A with B into C），专指将互不相干的研究流派、异质数据或不同体系“融合成一个统一实体”，契合跨学科方法论整合。",
+      "unify": "v. 及物动词，指使之具有单一属性或统一法则，通常不使用 \"amalgamate A with B into a framework\" 这种强调将异质组成部分融为一体的句式搭配。",
+      "mix": "v. 动词，语域过于日常通俗，不符合严肃社会学知识论方法论融合的文体要求。",
+      "commix": "v. 古旧罕见词，现代社科方法论出版物中不采用。"
+    },
+    "translation": "为了构建一个全面的科学社会学理论，该研究团队试图将实验室民族志观察与定量引文网络指标融合成一个连贯的制度分析框架。"
+  },
+  {
+    "id": "tem8_c3_45",
+    "group_id": 92,
+    "group_name": "amass, gather, cumulate, accumulate",
+    "level": "TEM-8",
+    "target_word": "accumulate",
+    "question": "According to Thomas Kuhn's historical epistemology, unreconciled empirical anomalies gradually ___ within a dominant paradigm until the scientific community faces an existential crisis that precipitates a revolutionary shift.",
+    "options": ["amass", "gather", "cumulate", "accumulate"],
+    "answer": "accumulate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'unreconciled empirical anomalies gradually ___ within a dominant paradigm until...' 专指反常现象在旧范式内经历长期增量式的“逐步累积（anomalies gradually accumulate）”。",
+    "distractor_analysis": {
+      "accumulate": "v. 不及物动词（亦可及物），专指反常现象、误差或材料随时间推移“逐渐聚积、与日俱增”，与 Kuhn 科学革命结构中反常现象的缓慢累积形成经典契合。",
+      "amass": "v. 及物动词，必须接直接宾语（如 amass evidence），不能作不及物动词表自主积聚，在此处会导致句法破格。",
+      "gather": "v. 动词，虽可作不及物动词（如乌云聚拢），但搭配反常现象（anomalies）时缺乏科学哲学中逐级增量累积的术语精准度。",
+      "cumulate": "v. 动词，多用于统计学专业术语（如累积频数），作一般不及物动词描述反常现象的自然增生不符合标准外刊哲学叙述习惯。"
+    },
+    "translation": "根据托马斯·库恩的历史认识论，未被调和的经验反常现象会在主导范式中逐渐累积，直至科学共同体面临一场引发革命性转变的生存危机。"
+  },
+  {
+    "id": "tem8_c3_46",
+    "group_id": 92,
+    "group_name": "amass, gather, cumulate, accumulate",
+    "level": "TEM-8",
+    "target_word": "amass",
+    "question": "Before venturing to challenge the canonical cosmological model, the observational astrophysicist spent three decades striving to ___ an irrefutable body of spectrographic evidence from deep-space radio observatories.",
+    "options": ["amass", "gather", "cumulate", "accumulate"],
+    "answer": "amass",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'striving to ___ an irrefutable body of spectrographic evidence' 构成极高权威度的学术专指搭配 'amass a body of evidence / data'（大量聚拢、积聚起浩瀚确凿的证据库）。",
+    "distractor_analysis": {
+      "amass": "v. 及物动词，专与 a formidable/vast body of evidence 或 wealth 搭配，强调付出长期心血后“聚积起数量极为庞大、份量厚重的主体”，语势极其雄浑有力。",
+      "accumulate": "v. 动词，虽可表达累积，但在修饰有意识地“汇集起一整套庞大证据体系（an irrefutable body of evidence）”时，amass 远比 accumulate 具有更强的目的性与厚重感。",
+      "gather": "v. 动词，属于基础常用词，词义泛化，缺乏专八学术长难句中形容收集海量关键证据所必需的厚重学术修辞力量。",
+      "cumulate": "v. 动词，偏向技术层面的叠加，通常不与 \"an irrefutable body of evidence\" 构成高阶习惯搭配。"
+    },
+    "translation": "在敢于挑战经典宇宙学模型之前，这位观测天体物理学家花了三十年时间，竭力从深空射电天文台搜集积累起一套无可辩驳的光谱证据体系。"
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "tem8_c4_01",
+    "group_id": 93,
+    "group_name": "ambush, lurk, scupper, waylay",
+    "level": "TEM-8",
+    "target_word": "waylay",
+    "question": "The avant-garde playwright instructed his actors to ___ unsuspecting patrons in the dim theater lobby with confrontational monologues, thereby dissolving the traditional boundary between stage and spectator.",
+    "options": ["ambush", "lurk", "scupper", "waylay"],
+    "answer": "waylay",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'unsuspecting patrons in the dim theater lobby with confrontational monologues'（在大厅中截住毫无防备的观众展开对抗性独白）是决定性排他线索，专指半路截停以盘问或攀谈。",
+    "distractor_analysis": {
+      "waylay": "v. 专指“半路拦截、截住（某人攀谈或盘问）”，与先锋戏剧中演员在剧场前厅截停观众开展互动独白的语境高度契合。",
+      "ambush": "v. 侧重军事伏击或带有暴力性质的突袭，用于沉浸式戏剧表演语域显得过于凶残粗暴且搭配不当。",
+      "lurk": "v. 不及物动词（通常后接介词 behind/in/around），语法上不能直接跟及物宾语 patrons。",
+      "scupper": "v. 意为“使受挫、蓄意断送（计划、企图等）”，宾语通常为方案或前程，不可接具体人物。"
+    },
+    "translation": "这位先锋派剧作家指示演员们在昏暗的剧场大厅里截住毫无防备的观众并进行对抗性独白，从而打破了舞台与观众之间的传统界限。"
+  },
+  {
+    "id": "tem8_c4_02",
+    "group_id": 93,
+    "group_name": "ambush, lurk, scupper, waylay",
+    "level": "TEM-8",
+    "target_word": "scupper",
+    "question": "Fierce ideological factionalism threatened to ___ the curator's ambitious retrospective, as conservative board members withdrew vital institutional funding at the eleventh hour.",
+    "options": ["ambush", "lurk", "scupper", "waylay"],
+    "answer": "scupper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "后文 'the curator's ambitious retrospective, as conservative board members withdrew vital institutional funding'（策展人雄心勃勃的回顾展，因董事会撤资而面临夭折）专配表示计划被断送或摧毁的动词。",
+    "distractor_analysis": {
+      "scupper": "v. 专指“断送、蓄意挫败（计划、方案或艺术企划）”，与展览因资方临阵撤资而面临流产的语境构成精准搭配。",
+      "ambush": "v. 意为“设伏伏击”，主语与宾语均针对具象的人或实体，不能与抽象艺术展事 retrospective 搭配。",
+      "lurk": "v. 不及物动词（潜伏、潜藏），无法直接支配宾语 the curator's retrospective。",
+      "waylay": "v. 专指“半路拦截某人”，宾语必须为人，不能用于挫败项目或展览。"
+    },
+    "translation": "激烈的意识形态派系之争眼看就要断送策展人雄心勃勃的回顾展，因为保守派董事会成员在最后关头撤回了关键的机构资助。"
+  },
+  {
+    "id": "tem8_c4_03",
+    "group_id": 94,
+    "group_name": "anagram, decipher, skim, trace",
+    "level": "TEM-8",
+    "target_word": "anagram",
+    "question": "In his experimental metafiction, the postmodern novelist chose to ___ the protagonist's name across successive chapter titles, inviting astute readers to reconstruct the concealed literary tribute.",
+    "options": ["anagram", "decipher", "skim", "trace"],
+    "answer": "anagram",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'the protagonist's name across successive chapter titles, inviting astute readers to reconstruct...'（将主角姓名在各章节标题中打乱重拼，等待敏锐读者还原）锁定将字母颠倒重组的字谜修辞手法。",
+    "distractor_analysis": {
+      "anagram": "v. 专指“通过变位打乱、重新拼缀字母成谜”，作者将人名打乱隐藏于章节名中，与后文 readers reconstruct（读者重构）形成创设字谜的严密呼应。",
+      "decipher": "v. 意为“破译、解读（隐秘信息）”，动作施事主体应为解读者或读者，作者本身并非在“破译”自己编排的姓名。",
+      "skim": "v. 意为“略读、掠过”，与字谜设计的精密文字构造语意冲突。",
+      "trace": "v. 意为“追溯、描摹”，无法体现将字母次序颠倒拆分以隐藏特定线索的微观文学技巧。"
+    },
+    "translation": "在这部实验性元小说中，这位后现代小说家选择将主人公的名字以字母变位打乱的方式嵌入连续的章节标题中，邀请敏锐的读者去重构其中隐藏的文学致敬。"
+  },
+  {
+    "id": "tem8_c4_04",
+    "group_id": 94,
+    "group_name": "anagram, decipher, skim, trace",
+    "level": "TEM-8",
+    "target_word": "decipher",
+    "question": "Art historians spent decades attempting to ___ the cryptic iconography embedded in the Flemish master's altarpiece, whose allegorical symbols had long resisted orthodox theological interpretation.",
+    "options": ["anagram", "decipher", "skim", "trace"],
+    "answer": "decipher",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'the cryptic iconography embedded in the Flemish master's altarpiece, whose allegorical symbols had long resisted...'（破译祭坛画中抗拒传统神学阐释的隐秘图像与象征寓意）是专配 decode/decipher 的题眼。",
+    "distractor_analysis": {
+      "decipher": "v. 专指“破译、解读（晦涩难懂的密码、隐秘图像学象征）”，与 cryptic iconography 及 resisting interpretation 形成绝对排他性搭配。",
+      "anagram": "v. 专指“把词句作字母变位重组”，无法用于解读视觉艺术中的祭坛画图像与象征。",
+      "skim": "v. 意为“泛读、粗略浏览”，与艺术史家历经数十年（spent decades）严谨精细的学术考证语境完全违背。",
+      "trace": "v. 侧重“追溯源流或描绘轮廓”，在此无法表达攻克并释读复杂隐秘象征体系的“破译”内涵。"
+    },
+    "translation": "艺术史学家们耗费了数十年时间试图破译这位弗拉芒大师祭坛画中深奥的图像学隐喻，其象征寓意长期以来一直抗拒着传统正统神学的阐释。"
+  },
+  {
+    "id": "tem8_c4_05",
+    "group_id": 95,
+    "group_name": "anguish, lose, grieve, sorrow",
+    "level": "TEM-8",
+    "target_word": "lose",
+    "question": "Obsessed with ornamental virtuosity, the decadent poet threatened to ___ all aesthetic balance, sacrificing structural coherence in favor of intoxicating but transient sensory impressions.",
+    "options": ["anguish", "lose", "grieve", "sorrow"],
+    "answer": "lose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "固定搭配 'threatened to ___ all aesthetic balance'（丧失一切美学平衡），后接抽象宾语 balance，其余三个心理悲痛类动词均无法接此类宾语。",
+    "distractor_analysis": {
+      "lose": "v. 意为“丧失、失去”，与 all aesthetic balance（美学平衡）构成经典宾语搭配，表达因过度追求辞藻技巧而失衡的批评意图。",
+      "anguish": "v. 意为“极度痛苦、深感焦虑”，通常作不及物动词（接 over）或表示使痛苦，不可支配 all aesthetic balance 作宾语。",
+      "grieve": "v. 意为“悲伤、哀悼”，及物动词时接令人痛心的人或事，不能表达“丧失平衡”。",
+      "sorrow": "v. 意为“悲伤、悲痛”，多为不及物动词（接 for/over），不可直接跟 balance。"
+    },
+    "translation": "沉迷于修饰性技巧的颓废派诗人面临着丧失所有美学平衡的危险，为了追求令人陶醉却转瞬即逝的感官印象而牺牲了结构上的连贯性。"
+  },
+  {
+    "id": "tem8_c4_06",
+    "group_id": 95,
+    "group_name": "anguish, lose, grieve, sorrow",
+    "level": "TEM-8",
+    "target_word": "grieve",
+    "question": "Deeply shaken by the untimely passing of his mentor, the Renaissance painter refused all commissions, choosing instead to ___ in solitary confinement for an entire season.",
+    "options": ["anguish", "lose", "grieve", "sorrow"],
+    "answer": "grieve",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "前文 'untimely passing of his mentor'（导师英年早逝）及后文 'choosing instead to ___ in solitary confinement for an entire season'（闭门守丧避世整季）锁定表示悼念逝者、服丧志哀的动词。",
+    "distractor_analysis": {
+      "grieve": "v. 专指“因亲友离世等重大丧失而哀悼、志哀”，强调有特定逝者对象的沉痛悼念行为，与导师猝然离世的哀悼语境最为贴切合辙。",
+      "anguish": "v. 侧重突发剧烈的心理焦灼与精神煎熬（mental distress），非特指对故人的定期守丧与悼念过程。",
+      "lose": "v. 意为“遗失、输掉”，不及物用法不能表达因故人离世而闭门志哀的情感体验。",
+      "sorrow": "v. 虽可表示感到悲伤，但现代书面语中不及物动词用法极为罕见且偏向古语，更无专指悼念逝者服丧的行为意味。"
+    },
+    "translation": "导师的英年早逝令这位文艺复兴时期的画家深受震动，他拒绝了所有画作委托，而是选择闭门索居整整一个季节以悼念逝者。"
+  },
+  {
+    "id": "tem8_c4_07",
+    "group_id": 96,
+    "group_name": "animate, exalt, enliven, invigorate",
+    "level": "TEM-8",
+    "target_word": "exalt",
+    "question": "The Romantic ode sought to ___ the sublime terror of the natural world, elevating mundane pastoral topoi into transcendent manifestations of divine power.",
+    "options": ["animate", "exalt", "enliven", "invigorate"],
+    "answer": "exalt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文 'elevating mundane pastoral topoi into transcendent manifestations of divine power'（将平淡田园意象升华为神圣力量的超验显现）是决定性排他线索，专指精神上的推崇与升华。",
+    "distractor_analysis": {
+      "exalt": "v. 专指“颂扬、推崇、使升华为崇高/神圣地位”，与后文 elevating... into transcendent manifestations 形成严密的美学语义共振。",
+      "animate": "v. 意为“赋予生命活力、驱使”，侧重使无生气之物活动起来，缺乏崇高化与神圣化的美学哲学向度。",
+      "enliven": "v. 意为“使更有趣、使生动”，多用于世俗对话或平淡场景的点缀，无法承载浪漫主义崇高恐怖的超验境界。",
+      "invigorate": "v. 意为“使身心充沛、使健壮”，侧重机体或精神力量的焕发，不指哲学美学意义上的拔高与尊崇。"
+    },
+    "translation": "这首浪漫主义颂诗旨在赞颂自然界的崇高可怖之美，将平淡无奇的田园意象升华成为神圣力量的超验显现。"
+  },
+  {
+    "id": "tem8_c4_08",
+    "group_id": 96,
+    "group_name": "animate, exalt, enliven, invigorate",
+    "level": "TEM-8",
+    "target_word": "enliven",
+    "question": "To prevent the rigorous formal analysis from alienating general readers, the essayist sought to ___ his prose with whimsical anecdotes drawn from the bohemian demimonde.",
+    "options": ["animate", "exalt", "enliven", "invigorate"],
+    "answer": "enliven",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "后文搭配 '___ his prose with whimsical anecdotes'（用离奇生动的轶事使散文生动活泼），属于 enliven A with B（以...增添生趣）的经典题眼。",
+    "distractor_analysis": {
+      "enliven": "v. 专指“通过点缀趣味元素使枯燥的文本或言辞变得生动鲜活”，与后文 with whimsical anecdotes（借离奇轶事点缀散文）构成教科书级固定搭配。",
+      "exalt": "v. 意为“赞扬、使升华”，无法接用逸闻趣事来活泼文风的修辞手法。",
+      "animate": "v. 意为“赋予灵魂或作为内在动力”，通常强调内在核心精神，不与 with anecdotes 构成外部点缀增色的固定句式。",
+      "invigorate": "v. 意为“给...注入活力、振兴”，多用于经济、机体或组织，不用于修辞写作中使篇章趣味化。"
+    },
+    "translation": "为了防止严苛的形式主义分析劝退普通读者，这位散文家试图用取材于波希米亚边缘阶层的离奇逸事来使自己的文笔生动鲜活。"
+  },
+  {
+    "id": "tem8_c4_09",
+    "group_id": 97,
+    "group_name": "annihilate, decimate, eliminate, eradicate",
+    "level": "TEM-8",
+    "target_word": "eradicate",
+    "question": "The fanatical iconoclasts sought to ___ every visible trace of figurative art from the basilica, systematically hacking ancient marble reliefs to dust.",
+    "options": ["annihilate", "decimate", "eliminate", "eradicate"],
+    "answer": "eradicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "搭配 '___ every visible trace of figurative art'（彻底根除具象艺术的每一处可见痕迹）以及后文 'hacking ancient marble reliefs to dust' 锁定根除余孽、不留余烬的专属动词 eradicate trace。",
+    "distractor_analysis": {
+      "eradicate": "v. 专指“连根拔起、彻底根除”，与 every visible trace（一切可见痕迹）构成权威外刊固定搭配，传达毁灭性清洗的彻底性。",
+      "annihilate": "v. 意为“湮灭、消灭（物理实体或敌军）”，不常与 trace 搭配构成根除痕迹的成语性动宾结构。",
+      "decimate": "v. 意为“大批削减、大比例毁伤”，其词源与语义限定为部分毁损（如削减大半），与 every visible trace（彻底无遗）逻辑矛盾。",
+      "eliminate": "v. 意为“排除、淘汰”，语调平淡客观，缺乏圣像破坏运动中狂热斩草除根的暴烈情绪色彩。"
+    },
+    "translation": "狂热的圣像破坏者企图彻底根除大教堂中具象艺术的一切可见痕迹，有系统地将古老的大理石浮雕捣成了碎屑。"
+  },
+  {
+    "id": "tem8_c4_10",
+    "group_id": 97,
+    "group_name": "annihilate, decimate, eliminate, eradicate",
+    "level": "TEM-8",
+    "target_word": "decimate",
+    "question": "Severe municipal austerity measures threatened to ___ the regional theater's resident ensemble, forcing the artistic director to cut nearly half of the permanent troupe.",
+    "options": ["annihilate", "decimate", "eliminate", "eradicate"],
+    "answer": "decimate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "后文 'forcing the artistic director to cut nearly half of the permanent troupe'（迫使艺术总监裁减近半数常驻团员）是绝对排他线索，专指遭受大比例折损而非全部荡平。",
+    "distractor_analysis": {
+      "decimate": "v. 专指“大幅毁灭、重创削减（群体规模或编制的大半）”，与裁减将近半数人员（cut nearly half）的数量折损语境高度吻合。",
+      "annihilate": "v. 专指“彻底歼灭、使完全化为乌有（100%消失）”，与后文仍保留另一半剧团成员的事实产生语义排斥。",
+      "eradicate": "v. 意为“连根拔起消除（疾病、陋习、痕迹）”，针对的是抽象恶疾或事物，不用于形容对剧团人员比例的毁灭性裁员。",
+      "eliminate": "v. 意为“清除、淘汰”，单用 eliminate the ensemble 意味着整支剧团被取缔解散，与裁员近半相抵触。"
+    },
+    "translation": "严厉的市政紧缩措施眼看要重创这家地区剧院的常驻演艺班底，迫使艺术总监裁掉了常驻剧团近半数的成员。"
+  },
+  {
+    "id": "tem8_c4_11",
+    "group_id": 98,
+    "group_name": "antagonize, fret, grate, harass",
+    "level": "TEM-8",
+    "target_word": "grate",
+    "question": "The soprano's shrill, unsupported high register began to ___ on the audience's refined sensibilities, shattering the illusion of fragile vulnerability.",
+    "options": ["antagonize", "fret", "grate", "harass"],
+    "answer": "grate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文介词搭配 '___ on the audience's refined sensibilities'（刺激/刺痛观众敏锐的审美感官），锁定接介词 on 表示刺耳难耐的专属动词 grate on。",
+    "distractor_analysis": {
+      "grate": "v. 专指“发出刺耳摩擦声，使人烦躁难耐”，固定搭配 grate on/upon one's nerves/sensibilities，句法与美学语境完全契合。",
+      "antagonize": "v. 及物动词，意为“招惹、激怒”，不可后接介词 on 构成宾语搭配。",
+      "fret": "v. 意为“发愁、焦躁”，通常接介词 about 或 over，不可接 on sensibilities 表达声音刺耳使人不适。",
+      "harass": "v. 及物动词，意为“骚扰、不断折磨”，语法上必须直接带宾语，不能接 on。"
+    },
+    "translation": "这位女高音尖锐且缺乏支撑的高音区开始刺激起观众敏锐细腻的听觉神经，瞬间击碎了那种脆弱易伤的艺术幻觉。"
+  },
+  {
+    "id": "tem8_c4_12",
+    "group_id": 98,
+    "group_name": "antagonize, fret, grate, harass",
+    "level": "TEM-8",
+    "target_word": "antagonize",
+    "question": "By publishing an inflammatory manifesto denouncing the salon's wealthy benefactors, the polemical painter knowingly chose to ___ the very institutions that funded his livelihood.",
+    "options": ["antagonize", "fret", "grate", "harass"],
+    "answer": "antagonize",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文及物动词搭配 '___ the very institutions that funded his livelihood'（招惹/激怒资助其生计的机构本身），强调因公开挑衅树敌而招致对立反感。",
+    "distractor_analysis": {
+      "antagonize": "v. 专指“招惹、引起...的反感或敌意”，与画家发表激进宣言公然树敌、挑衅资助机构的行为构成最贴切的政治美学批评色彩。",
+      "fret": "v. 不及物动词（意为烦躁苦恼），无法直接带宾语 institutions。",
+      "grate": "v. 意为“发出刺耳声使难受”，用于人时需后接介词 on，不可作及物动词支配机构。",
+      "harass": "v. 侧重“反复持续纠缠、侵扰”，多指身体、法律或肢体上的骚扰折磨，与画家发表檄文公开树敌的语境不符。"
+    },
+    "translation": "通过发表谴责沙龙富商赞助人的煽动性宣言，这位好辩的画家蓄意激怒了那些资助其生计的艺术机构本身。"
+  },
+  {
+    "id": "tem8_c4_13",
+    "group_id": 99,
+    "group_name": "apparel, tog, garb, dress",
+    "level": "TEM-8",
+    "target_word": "garb",
+    "question": "Determined to satirize ecclesiastical hypocrisy, the subversive dramatist chose to ___ his villainous protagonist in authentic cardinal robes, provoking outrage among clerical spectators.",
+    "options": ["apparel", "tog", "garb", "dress"],
+    "answer": "garb",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 '___ his villainous protagonist in authentic cardinal robes'（让恶棍主角身着正统红衣主教法衣），专配表示穿着特定戏剧或身份仪轨制服的正式文雅动词 garb in。",
+    "distractor_analysis": {
+      "garb": "v. 专指“（尤指为特定戏剧角色、社会身份或仪轨）使穿戴特定制服或奇装”，与穿戴象征特定教职身份的法衣（cardinal robes）最相契合。",
+      "apparel": "v. 偏文学性高古词，多用于对大自然万物、抽象拟人化形象的锦绣修饰，戏剧换装语境下不及 garb 精准。",
+      "tog": "v. 口语及英式非正式用语，通常需与副词连用构成 tog out 或 tog up，文体色彩过于俗俚，与严肃戏剧批评语境相悖。",
+      "dress": "v. 泛指穿衣，过于普通日常，缺乏戏剧戏服与象征性宗教行头（vestments）所特有的程式化与文雅色彩。"
+    },
+    "translation": "决心讽刺教会伪善的这位颠覆性剧作家，选择让他的恶棍主角穿上正统的红衣主教法衣，从而引发了教士观众的强烈愤慨。"
+  },
+  {
+    "id": "tem8_c4_14",
+    "group_id": 99,
+    "group_name": "apparel, tog, garb, dress",
+    "level": "TEM-8",
+    "target_word": "apparel",
+    "question": "In his allegorical pastoral epic, the poet envisioned personified Spring to ___ the barren hillsides in luxuriant blossoms, transforming winter's stony desolation into lyrical splendor.",
+    "options": ["apparel", "tog", "garb", "dress"],
+    "answer": "apparel",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "语篇为高雅诗歌隐喻 'envisioned personified Spring to ___ the barren hillsides in luxuriant blossoms'（想象拟人化的春神以繁花盛装装点荒芜山峦），属于 apparel in 的古典诗歌典雅语域。",
+    "distractor_analysis": {
+      "apparel": "v. 文学/诗歌典雅动词，专用于拟人化修辞或自然界华美装点（如盛装打扮山峦大地），典雅崇高语域独一无二。",
+      "tog": "v. 现代口语俚语动词，多用于市井日常装束（tog out），在典雅田园史诗修辞中产生严重文体破格。",
+      "garb": "v. 侧重人类穿戴具有特定职业或社群特色的外袍行头，不用于繁花覆盖大地的宏大诗学意象。",
+      "dress": "v. 过于口语普通，缺乏古典田园诗学中拟人化繁花披覆所需的宏大文学修辞质感。"
+    },
+    "translation": "在这部寓言式田园史诗中，诗人设想拟人化的春神用繁花锦簇装点荒芜的山坡，将凛冬的石质荒凉化作抒情的璀璨壮丽。"
+  },
+  {
+    "id": "tem8_c4_15",
+    "group_id": 100,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "level": "TEM-8",
+    "target_word": "appease",
+    "question": "Rather than defending the aesthetic integrity of the controversial retrospective, the museum director opted to ___ moralistic censors by quietly withdrawing three provocative nudes from the exhibition.",
+    "options": ["appease", "pacify", "mollify", "conciliate"],
+    "answer": "appease",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "前文 'Rather than defending the aesthetic integrity...'（放弃捍卫艺术纯洁性）及后文撤下画作以屈服于审查者，锁定'牺牲原则以姑息妥协'这一带有强烈贬义的专属动词 appease。",
+    "distractor_analysis": {
+      "appease": "v. 专指“以牺牲原则或退让妥协的方式姑息、绥靖侵犯者或批评者”，与放弃艺术操守、撤展迎合审查者的屈辱语境产生绝对排他契合。",
+      "pacify": "v. 侧重“平定叛乱、平抚暴乱”，多涉及以强力或秩序恢复暴动区域的和平，不指对意识形态审查者的委曲求全。",
+      "mollify": "v. 侧重“安抚被激怒者的情绪，使其怒气消减”，不带有牺牲自身原则换取苟安的政治妥协贬义色彩。",
+      "conciliate": "v. 侧重“通过平等磋商化解分歧、赢得好感”，通常为中性或褒义的外交斡旋，与馆长无原则妥协退让相违背。"
+    },
+    "translation": "这位博物馆馆长并未捍卫该争议回顾展的艺术完整性，而是选择通过悄悄撤下展厅中的三幅挑衅性裸体画来姑息道德审查者。"
+  },
+  {
+    "id": "tem8_c4_16",
+    "group_id": 100,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "level": "TEM-8",
+    "target_word": "mollify",
+    "question": "A lavish catalog gifted by the gallery director failed to ___ the insulted sculptor, whose fiery denunciation of the botched lighting dominated contemporary art reviews.",
+    "options": ["appease", "pacify", "mollify", "conciliate"],
+    "answer": "mollify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'failed to ___ the insulted sculptor, whose fiery denunciation...'（未能平息受辱雕塑家的个人怒气），专指通过小意示好安抚受伤害个体的愤怒情绪。",
+    "distractor_analysis": {
+      "mollify": "v. 专指“抚慰被冒犯或受辱个体的愤怒与不平（soften temper/anger）”，与赠送图录试图平息雕塑家被冒犯怒火的场景完全契合。",
+      "appease": "v. 带有严重的无原则妥协或面对强权政治割地求和的色彩，不用于送礼抚慰个人艺术家的受伤自尊心。",
+      "pacify": "v. 侧重于平息大规模动乱或武力冲突，用于平息个人的艺术意气显得大词小用、语境错位。",
+      "conciliate": "v. 侧重于在敌对两个阵营或多方之间达成协议与合作，不可单纯表达抚平一位受辱艺术家的激愤心绪。"
+    },
+    "translation": "画廊总监赠送的一本奢华画册未能抚慰受辱雕塑家的怒气，他对拙劣灯光布置的激烈谴责占据了当代艺术评论的头条。"
+  },
+  {
+    "id": "tem8_c4_17",
+    "group_id": 101,
+    "group_name": "append, tether, clip, yoke",
+    "level": "TEM-8",
+    "target_word": "append",
+    "question": "In the definitive critical edition, the literary scholar chose to ___ a comprehensive textual apparatus to the posthumous manuscript, resolving decades of editorial dispute over variant readings.",
+    "options": ["append", "tether", "clip", "yoke"],
+    "answer": "append",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配 '___ a comprehensive textual apparatus to the posthumous manuscript'（在遗稿文末附上详尽的校勘记），锁定文献学中在书末增添附录/校勘的专属动词 append A to B。",
+    "distractor_analysis": {
+      "append": "v. 专指“在文献、手稿末尾增补、附加（附录、注释或校勘记）”，与文献学术语 textual apparatus 构成绝对不可替代的学术搭配。",
+      "tether": "v. 意为“用绳链拴住、束缚”，用于具象物体或动物，无法用于文献附录的增补。",
+      "clip": "v. 意为“用夹子夹住”或“修剪、截短”，均不具备在文末添加学术校勘附录的语义。",
+      "yoke": "v. 意为“将...强行结合、给...套上轭”，强调强制结合两个异质事物，无法用于在手稿末尾追加附录。"
+    },
+    "translation": "在这部权威校勘本中，这位文学学者选择在这部遗稿末尾附上详尽的校勘记，解决了数十年来围绕异文读法产生的编辑学纷争。"
+  },
+  {
+    "id": "tem8_c4_18",
+    "group_id": 101,
+    "group_name": "append, tether, clip, yoke",
+    "level": "TEM-8",
+    "target_word": "yoke",
+    "question": "The poststructuralist theorist argued that the totalitarian regime attempted to ___ aesthetic autonomy to ideological conformity, reducing visionary poetry to didactic party propaganda.",
+    "options": ["append", "tether", "clip", "yoke"],
+    "answer": "yoke",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "后文搭配 'attempted to ___ aesthetic autonomy to ideological conformity'（企图将艺术自主性生硬套上意识形态遵从的枷锁），锁定生硬捆绑奴役的隐喻动词 yoke A to B。",
+    "distractor_analysis": {
+      "yoke": "v. 专指“套轭结合、强行将两事物捆绑束缚于一处（多指违背意愿的支配与禁锢）”，深刻传达极权体制对美学自由的强行规训。",
+      "append": "v. 意为“附加上、增补于末尾”，为中性文本操作词，完全缺乏将美学强行套上意识形态枷锁的暴力奴役意象。",
+      "tether": "v. 意为“拴系”，侧重限制活动半径（tether to a stake），不构成将“自主性”与“意识形态”生硬套在一起驱使的经典隐喻搭配。",
+      "clip": "v. 意为“剪辑、夹住”，无法体现哲学批判中将艺术强行捆绑于教条政治之上的思想暴力。"
+    },
+    "translation": "这位后结构主义理论家认为，极权体制企图将审美自主性生硬地套上意识形态顺从的枷锁，从而将富有远见的诗歌贬低为说教式的党派宣传。"
+  },
+  {
+    "id": "tem8_c4_19",
+    "group_id": 102,
+    "group_name": "appraise, value, assess, valuate",
+    "level": "TEM-8",
+    "target_word": "appraise",
+    "question": "Before the auction house could catalogue the rediscovered Baroque canvas, an independent connoisseur was summoned to ___ its stylistic authenticity and assign a provisional market valuation.",
+    "options": ["appraise", "value", "assess", "valuate"],
+    "answer": "appraise",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "前文 'an independent connoisseur was summoned to ___ its stylistic authenticity'（邀请独立鉴赏家对其风格真伪进行权威鉴定），锁定特指专家对艺术品品质、真伪与价值进行综合鉴定的动词 appraise。",
+    "distractor_analysis": {
+      "appraise": "v. 专指“（由专家或鉴赏家）对艺术品、文物等的质量、真伪及价值进行专业评估鉴定”，与鉴赏家（connoisseur）的鉴定职能天造地设。",
+      "value": "v. 意为“给...定价”或“重视”，动作通常直接给出一个具体数字，无法涵盖对艺术风格真伪（authenticity）的全面学术鉴定。",
+      "assess": "v. 侧重“评估（损害、税额、风险或形势）”，多用于保险、自然灾害或综合态势研判，不特指艺术鉴赏家的真伪鉴定。",
+      "valuate": "v. 属于财务与不动产估价的狭隘技术用词（如资产重估），在艺术鉴赏与学术语域中极为罕见且生硬。"
+    },
+    "translation": "在这家拍卖行为重新发现的巴洛克油画编制图录之前，一位独立鉴赏家受邀对该作品的风格真伪进行鉴定并给出临时市场估价。"
+  },
+  {
+    "id": "tem8_c4_20",
+    "group_id": 102,
+    "group_name": "appraise, value, assess, valuate",
+    "level": "TEM-8",
+    "target_word": "assess",
+    "question": "Restorers utilized advanced multispectral photography to ___ the full extent of pigment degradation concealed beneath centuries of yellowed varnish and clumsy retouches.",
+    "options": ["appraise", "value", "assess", "valuate"],
+    "answer": "assess",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配 '___ the full extent of pigment degradation'（评估颜料退化与损坏的完整程度），属于 assess the extent of damage/degradation 的教科书式搭配。",
+    "distractor_analysis": {
+      "assess": "v. 专指“评估、核定（损害、恶化或物理退化的程度与范围）”，与 the full extent of pigment degradation（颜料退化程度）构成绝对固定搭配。",
+      "appraise": "v. 专指对艺术品价值、美学成就或品质进行鉴赏评估，不能用于评估物理颜料受损老化的客观程度。",
+      "value": "v. 意为“评估...的货币价值”，不能接颜料退化程度作为受词。",
+      "valuate": "v. 金融财务领域中“为资产确定账面价值”，无法搭配画作物理损坏程度。"
+    },
+    "translation": "修复人员利用先进的多光谱照相技术来评估被数百年来泛黄光油和拙劣补绘所掩盖的颜料退化程度。"
+  },
+  {
+    "id": "tem8_c4_21",
+    "group_id": 103,
+    "group_name": "apprehend, dig, grok, savvy",
+    "level": "TEM-8",
+    "target_word": "apprehend",
+    "question": "To truly ___ the metaphysical depth of Kantian aesthetics, one must move beyond passive contemplation and engage directly with the antinomies of pure reason.",
+    "options": ["apprehend", "dig", "grok", "savvy"],
+    "answer": "apprehend",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语篇为纯正哲学学术语境 'the metaphysical depth of Kantian aesthetics... antinomies of pure reason'（康德美学的形而上深度与纯粹理性二律背反），锁定唯有学术高雅语体动词 apprehend 能够匹配。",
+    "distractor_analysis": {
+      "apprehend": "v. 正式学术/哲学用词，专指“（在知性或理性层面上）理解、领会深奥义理”，与康德哲学批判的崇高学术语域天衣无缝。",
+      "dig": "v. 俚语/口语，意为“喜欢、欣赏、理解”，用于严肃哲学美学论述中产生严重的通俗破格。",
+      "grok": "v. 20世纪60年代科幻与反叛文化黑话（出自海因莱因小说），属于反主流文化的直觉同理心用词，完全不符古典哲学语境。",
+      "savvy": "v./adj. 俚俗口语词，多指具有市井通达敏锐的实操洞察，语体过于市井轻浮。"
+    },
+    "translation": "要真正领会康德美学的形而上深度，人们必须超越被动的凝视，直接切入纯粹理性的二律背反之中。"
+  },
+  {
+    "id": "tem8_c4_22",
+    "group_id": 103,
+    "group_name": "apprehend, dig, grok, savvy",
+    "level": "TEM-8",
+    "target_word": "grok",
+    "question": "Underground counterculture zines urged listeners not merely to analyze psychedelic rock, but to ___ its distorted sonic landscapes through holistic, unmediated empathy.",
+    "options": ["apprehend", "dig", "grok", "savvy"],
+    "answer": "grok",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'Underground counterculture zines... through holistic, unmediated empathy'（地下反主流文化刊物号召通过全然无隔阂的共情去感悟），锁定60年代反叛文化专属词 grok。",
+    "distractor_analysis": {
+      "grok": "v. 专指“凭全身心的直觉与共情达到深刻的精神交融与顿悟”，是20世纪60年代地下迷幻摇滚与反叛文化批评的标志性专有词。",
+      "apprehend": "v. 学院派古典哲学词汇，强调理智逻辑的领会，与地下反文化刊物推崇感性共融的叛逆语境背道而驰。",
+      "dig": "v. 口语词，仅表示浅层的“喜欢、懂行”，无法承载 holistic, unmediated empathy（全然无隔阂的整体共情）的玄奥精神共鸣。",
+      "savvy": "v. 侧重世俗的精明晓事，不具备迷幻音乐美学所需的超验共情内涵。"
+    },
+    "translation": "地下反主流文化刊物敦促听众不要仅仅去分析迷幻摇滚，而应通过全然无隔阂的全身心共情去体悟其扭曲的声景。"
+  },
+  {
+    "id": "tem8_c4_23",
+    "group_id": 104,
+    "group_name": "arbitrate, mediate, liaise, intercede",
+    "level": "TEM-8",
+    "target_word": "arbitrate",
+    "question": "Critics argued that academic committees were ill-equipped to ___ aesthetic disputes between competing artistic factions, as subjective merit defies binding institutional verdicts.",
+    "options": ["arbitrate", "mediate", "liaise", "intercede"],
+    "answer": "arbitrate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文 'between competing artistic factions, as subjective merit defies binding institutional verdicts'（艺术派系之争，因主观价值抗拒具有约束力的制度裁决），锁定作出终局权威裁决的动词 arbitrate。",
+    "distractor_analysis": {
+      "arbitrate": "v. 专指“仲裁、公断（作为权威公断人听取双方辩词后作出具有约束力的终局裁决）”，与 binding institutional verdicts 绝对呼应。",
+      "mediate": "v. 侧重“斡旋、居中调解”，旨在促成双方妥协，不作出单方面的权威强制裁决（binding verdict）。",
+      "liaise": "v. 不及物动词（通常后接介词 with），意为“保持联络”，不能直接带宾语 aesthetic disputes。",
+      "intercede": "v. 不及物动词（接 with/for），意为“代为求情”，完全无法用于公断两派纷争。"
+    },
+    "translation": "批评家们认为，学术委员会不具备对对立艺术派系之间的美学纷争进行权威仲裁的能力，因为主观审美价值抗拒任何具有制度约束力的终局裁决。"
+  },
+  {
+    "id": "tem8_c4_24",
+    "group_id": 104,
+    "group_name": "arbitrate, mediate, liaise, intercede",
+    "level": "TEM-8",
+    "target_word": "intercede",
+    "question": "When the municipal council threatened to raze the historic Bauhaus pavilion, a coalition of prominent architects resolved to ___ on behalf of the endangered architectural landmark.",
+    "options": ["arbitrate", "mediate", "liaise", "intercede"],
+    "answer": "intercede",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句法介词题眼 'resolved to ___ on behalf of the endangered architectural landmark'（为濒危地标挺身求情/说项），锁定固定句式 intercede on behalf of。",
+    "distractor_analysis": {
+      "intercede": "v. 专指“（为处境危险者向当权者）说情、代为求告、出面斡旋”，固定搭配 intercede on behalf of sb/sth，语法与语义完全契合。",
+      "arbitrate": "v. 意为“仲裁”，要求作为中立第三方判定是非，绝不可偏袒一方使用 on behalf of（代表受危地标利益）。",
+      "mediate": "v. 意为“调解”，搭配通常为 mediate between A and B，不能搭配 mediate on behalf of 进行单向求情说项。",
+      "liaise": "v. 意为“联络沟通”，固定搭配为 liaise with sb，不能与 on behalf of 连用表达求情干预。"
+    },
+    "translation": "当市议会威胁要拆除具有历史意义的包豪斯展馆时，一个由著名建筑师组成的联盟决定挺身而出，为这座濒危的建筑地标出面说情。"
+  },
+  {
+    "id": "tem8_c4_25",
+    "group_id": 105,
+    "group_name": "articulate, grate, fund, step",
+    "level": "TEM-8",
+    "target_word": "articulate",
+    "question": "The visionary choreographer used minimalist movements to ___ the profound alienation of modern urban life, giving tangible physical form to unvoiced existential anxieties.",
+    "options": ["articulate", "grate", "fund", "step"],
+    "answer": "articulate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'giving tangible physical form to unvoiced existential anxieties'（将未发声的存在主义焦虑转化为切实可见的身体形式），锁定清晰表述/传达抽象观念的动词 articulate。",
+    "distractor_analysis": {
+      "articulate": "v. 专指“清晰明确地表达、阐发（复杂的思想、情感或概念）”，与现代舞蹈通过动作外化无形都市疏离感的语境完美贴合。",
+      "grate": "v. 意为“发出刺耳声使人不适”，无法与表达疏离感这一高级艺术表现动作相符。",
+      "fund": "v. 意为“为...提供资金”，动作与舞蹈编导用肢体动作表达主题无关。",
+      "step": "v. 意为“迈步、踩踏”，属于基础日常动作动词，无法及物支配抽象名词 alienation。"
+    },
+    "translation": "这位富有远见的编舞家运用极简主义的动作清晰地表达了现代都市生活的深刻疏离感，赋予了那些未被道出的存在主义焦虑以切实的身体形态。"
+  },
+  {
+    "id": "tem8_c4_26",
+    "group_id": 105,
+    "group_name": "articulate, grate, fund, step",
+    "level": "TEM-8",
+    "target_word": "fund",
+    "question": "Without private philanthropic endowments to ___ experimental theater workshops, independent playwrights were forced to compromise their radical scripts for commercial Broadway producers.",
+    "options": ["articulate", "grate", "fund", "step"],
+    "answer": "fund",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "前文 'Without private philanthropic endowments to ___ experimental theater workshops'（若无私人慈善基金会的赞助拨款），锁定提供资金赞助的动宾搭配 fund workshops。",
+    "distractor_analysis": {
+      "fund": "v. 意为“资助、提供专款”，与 philanthropic endowments（慈善捐赠基金）及 theater workshops（剧场工坊）构成标准的艺术赞助搭配。",
+      "articulate": "v. 意为“清楚表达”，基金会本身不是为了在工坊中清楚发音或表达思想。",
+      "grate": "v. 意为“摩擦发声、使烦躁”，语意荒谬不通。",
+      "step": "v. 意为“跨步、踩”，无法作及物动词带 experimental workshops。"
+    },
+    "translation": "倘若没有私人慈善基金会为实验戏剧工坊提供资助，独立剧作家们就不得不迎合百老汇商业制作人而妥协其激进的剧本。"
+  },
+  {
+    "id": "tem8_c4_27",
+    "group_id": 106,
+    "group_name": "ascertain, see, check, ensure",
+    "level": "TEM-8",
+    "target_word": "ascertain",
+    "question": "Curators subjected the disputed Renaissance panel to radiocarbon testing and pigment spectrometry in order to ___ its precise chronological origin.",
+    "options": ["ascertain", "see", "check", "ensure"],
+    "answer": "ascertain",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "前文 'subjected... to radiocarbon testing and pigment spectrometry'（通过碳十四测定与颜料光谱分析）及后文 'its precise chronological origin'（确凿查明其精确年代源流），锁定科学探究后的确定性查证 ascertain。",
+    "distractor_analysis": {
+      "ascertain": "v. 专指“通过科学实验、深入调查或精密测算查明、探知事实真伪”，与放射性碳测定及光谱学术语境高度契合。",
+      "see": "v. 侧重肉眼视觉感知或泛泛的明白，缺乏通过精尖科技手段严谨考证的学术质感。",
+      "check": "v. 侧重常规性核对或检查，属于日常事务性操作词，不具备通过专业考据确凿定论的学术分量。",
+      "ensure": "v. 意为“确保、担保（使某事在未来发生）”，后接 that 从句或抽象保障，无法直接及物接 origin 表达“查明起源”。"
+    },
+    "translation": "策展人对这幅有争议的文艺复兴时期木板画进行了放射性碳定年和颜料光谱分析，以查明其精确的年代渊源。"
+  },
+  {
+    "id": "tem8_c4_28",
+    "group_id": 106,
+    "group_name": "ascertain, see, check, ensure",
+    "level": "TEM-8",
+    "target_word": "ensure",
+    "question": "The museum installed climate-controlled display vitrines to ___ that the delicate medieval illuminated manuscripts remained shielded from fluctuating atmospheric humidity.",
+    "options": ["ascertain", "see", "check", "ensure"],
+    "answer": "ensure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句法题眼 'to ___ that the delicate medieval illuminated manuscripts remained shielded...'（安装恒温展柜以确保泥金手抄本受到保护），锁定带 that 从句表示预防性保证的动词 ensure that。",
+    "distractor_analysis": {
+      "ensure": "v. 专指“确保、保证（采取预防措施使某种安全状态得以实现）”，固定句式为 ensure that + 从句，完全契合安装防潮设备的目的。",
+      "ascertain": "v. 专指“查明、探究事实真相”，接 that 从句时表示查证已知事实，不能表示采取预防措施去“确保安全”。",
+      "see": "v. 若表达确保通常需用短语 see to it that，单用 to see that 在严谨学术语体中表示“目睹”而非建立保障机制。",
+      "check": "v. 意为“检查、核对”，后接 that 从句用法受限（通常接 if/whether 表达核验），不可表达建立恒温保护措施以实现担保。"
+    },
+    "translation": "博物馆安装了恒温恒湿玻璃展柜，以确保脆弱的中世纪泥金装饰手抄本免受大气湿度波动的影响。"
+  },
+  {
+    "id": "tem8_c4_29",
+    "group_id": 107,
+    "group_name": "ascribe, attribute, impute, assign",
+    "level": "TEM-8",
+    "target_word": "impute",
+    "question": "Conservative reviewers attempted to ___ subversive political motives to the avant-garde sculptor, alleging that his distorted bronze forms mocked civic virtue.",
+    "options": ["ascribe", "attribute", "impute", "assign"],
+    "answer": "impute",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配题眼 'attempted to ___ subversive political motives to the avant-garde sculptor'（企图将颠覆性的政治动机强加/归咎于先锋雕塑家），锁定专指归咎负面恶意/罪责的动词 impute ... to ...。",
+    "distractor_analysis": {
+      "impute": "v. 专指“（将险恶动机、罪责、过失）归咎于、强加于”，具有极强的负面贬义色彩，与扣上颠覆性政治动机（subversive motives）的语境天造地设。",
+      "ascribe": "v. 中性词，专用于将作品、文本或特征客观归功或归源于某人（如考证作者归属），不自带恶意构陷的贬抑色彩。",
+      "attribute": "v. 中性词，指将某种性质或成因归因于某物，缺乏对阴险险恶动机进行政治构陷的修辞力度。",
+      "assign": "v. 意为“指派、分配”或断代，不用于将不可告人的阴暗政治动机强加于人。"
+    },
+    "translation": "保守派评论家试图将颠覆性的政治动机归咎于这位先锋派雕塑家，声称其扭曲的青铜造像是在嘲弄公民美德。"
+  },
+  {
+    "id": "tem8_c4_30",
+    "group_id": 107,
+    "group_name": "ascribe, attribute, impute, assign",
+    "level": "TEM-8",
+    "target_word": "assign",
+    "question": "Paleographers relied on codicological script analysis to ___ the anonymous liturgical parchment to the late Carolingian period rather than the Ottonian renaissance.",
+    "options": ["ascribe", "attribute", "impute", "assign"],
+    "answer": "assign",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "学术考证搭配 'to ___ the anonymous liturgical parchment to the late Carolingian period'（将无名礼仪羊皮纸手稿断代归属于卡洛林晚期），锁定历史学与古文书学中将文物断代指定给特定时期的专属动词 assign ... to a period。",
+    "distractor_analysis": {
+      "assign": "v. 专指“（在历史学、考古学、古文献学中）将文物、手稿等断代归入特定历史纪元或年代”，与 to the late Carolingian period 构成绝对专业学术搭配。",
+      "ascribe": "v. 专指将作品归属于某位作者或画派大师（ascribe sth to an author/master），不与具体历史纪元构成编年断代搭配。",
+      "attribute": "v. 侧重于将作品的艺术所有权归于某艺术家（attribute a work to Rembrandt），断代到某一历史时期在古文献学中远不及 assign 专门精准。",
+      "impute": "v. 带有强烈的罪过与不端动机归咎色彩，完全不能用于古文书学的历史纪元断代。"
+    },
+    "translation": "古文书学家依靠手抄本字体分析，将这份匿名的礼拜仪式羊皮纸文献断代归属于加洛林王朝晚期，而非奥托王朝文艺复兴时期。"
+  },
+  {
+    "id": "tem8_c4_31",
+    "group_id": 108,
+    "group_name": "assail, spar, feud, fence",
+    "level": "TEM-8",
+    "target_word": "assail",
+    "question": "Traditionalist art critics convened at the academy to ___ the provocative installation, denouncing its disjointed multimedia elements as vulgar charlatanism.",
+    "options": ["assail", "spar", "feud", "fence"],
+    "answer": "assail",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文及物动词结构 'to ___ the provocative installation, denouncing its disjointed multimedia elements as vulgar charlatanism'（猛烈抨击挑衅性装置，斥责其多媒体元素为庸俗骗术），锁定及物动词群起声讨抨击的专属词 assail。",
+    "distractor_analysis": {
+      "assail": "v. 专指“（在舆论、批评中）猛烈抨击、声讨”，作及物动词支配装置作品 installation，语意铿锵有力且句法完全吻合。",
+      "spar": "v. 不及物动词（通常后接介词 with），意为“与...争论打嘴仗”，不可作及物动词直接接 installation。",
+      "feud": "v. 不及物动词（接 with），意为“长期结怨争斗”，语法上不能及物支配艺术装置。",
+      "fence": "v. 不及物动词（接 with），意为“迂回搪塞、闪烁其词”，无法表达正面猛烈谴责与攻击。"
+    },
+    "translation": "传统派艺术批评家齐聚学院，对这件挑衅性的艺术装置群起攻之，斥责其支离破碎的多媒体元素不过是庸俗的江湖骗术。"
+  },
+  {
+    "id": "tem8_c4_32",
+    "group_id": 108,
+    "group_name": "assail, spar, feud, fence",
+    "level": "TEM-8",
+    "target_word": "spar",
+    "question": "During the televised symposium, the Marxist theorist paused to ___ with his formalist rival over the sociopolitical function of twentieth-century lyric poetry.",
+    "options": ["assail", "spar", "feud", "fence"],
+    "answer": "spar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句法介词题眼 'paused to ___ with his formalist rival over the sociopolitical function...'（就抒情诗的社会政治功能与形式主义论敌展开唇枪舌剑），锁定 spar with sb over sth 的论辩交锋句型。",
+    "distractor_analysis": {
+      "spar": "v. 专指“（在学术或言论上）唇枪舌剑、言语交锋”，固定搭配 spar with sb over sth，生动还原学术研讨会上的辩论过招。",
+      "assail": "v. 及物动词，后接被攻击者为直接宾语，不能接 with 进行双向学术辩论。",
+      "feud": "v. 侧重“结下世仇、长期宿怨”，带有家族或帮派式私仇色彩，不符学术研讨会上文明切磋观点的语域。",
+      "fence": "v. 侧重“巧妙闪避、闪烁其词以回避实质交锋”，与就特定学术论题展开你来我往交锋的辩论语境相悖。"
+    },
+    "translation": "在电视转播的专题研讨会上，这位马克思主义理论家停顿片刻，就二十世纪抒情诗的社会政治功能与他的形式主义论敌展开了激烈的唇枪舌剑。"
+  },
+  {
+    "id": "tem8_c4_33",
+    "group_id": 109,
+    "group_name": "assimilate, study, absorb, ingest",
+    "level": "TEM-8",
+    "target_word": "assimilate",
+    "question": "Art historians cautioned against simplistic attempts to ___ indigenous textile motifs into European modernism, as such appropriation strips the symbols of sacred ritual meaning.",
+    "options": ["assimilate", "study", "absorb", "ingest"],
+    "answer": "assimilate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "学术批评搭配 'attempts to ___ indigenous textile motifs into European modernism, as such appropriation strips...'（企图将原住民织物图案同化吸纳进欧洲现代主义范式中），锁定表示文化/艺术流派同化吸收的专属动词 assimilate A into B。",
+    "distractor_analysis": {
+      "assimilate": "v. 专指“（将外来文化、观念或异质元素）同化、吸收融入主流文化或理论体系”，搭配 assimilate into 构成艺术史后殖民批评的核心概念。",
+      "study": "v. 意为“研究、研习”，不能构成 study A into B 的使动同化句法结构。",
+      "absorb": "v. 侧重“物理吸附或泛指兼收并蓄”，缺乏文化批评语境中将异质符号“同化重组并消解其本真性”的理论深度。",
+      "ingest": "v. 生物生理学词汇，专指“摄入、咽下（食物或药物）”，在文艺批评中隐喻极度罕见且显得生硬滑稽。"
+    },
+    "translation": "艺术史学家警告不要草率地试图将原住民织物图案同化吸纳进欧洲现代主义体系之中，因为这种文化挪用剥夺了这些符号的神圣仪式内涵。"
+  },
+  {
+    "id": "tem8_c4_34",
+    "group_id": 109,
+    "group_name": "assimilate, study, absorb, ingest",
+    "level": "TEM-8",
+    "target_word": "absorb",
+    "question": "The acoustic shell of the newly designed concert hall was lined with porous timber panels to ___ stray reverberations without deadening orchestral warmth.",
+    "options": ["assimilate", "study", "absorb", "ingest"],
+    "answer": "absorb",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "建筑声学物理搭配 'lined with porous timber panels to ___ stray reverberations without deadening orchestral warmth'（铺设多孔木板以吸收多余杂散混响），锁定建筑物理声学专有名词 absorb reverberations。",
+    "distractor_analysis": {
+      "absorb": "v. 专指“（材料对光、声波、震荡等物理能量的）吸收、减震”，与建筑声学中的消声吸音（absorb reverberations）构成绝对科学搭配。",
+      "assimilate": "v. 专指智力层面的理解消化或文化同化，无法用于物理木板对声学声波的吸附吸收。",
+      "study": "v. 意为“学习、观察”，木板不可能去“研究”混响。",
+      "ingest": "v. 生理学进食吞咽，绝不可用于声学消声。"
+    },
+    "translation": "新建音乐厅的声学反射罩内衬有多孔木板，以吸收杂乱的混响，同时又不至于破坏管弦乐原有的丰沛温暖感。"
+  },
+  {
+    "id": "tem8_c4_35",
+    "group_id": 110,
+    "group_name": "asterisk, flag, delineate, tip",
+    "level": "TEM-8",
+    "target_word": "asterisk",
+    "question": "Cynical biographers chose to ___ the author's prestigious literary award, citing pervasive allegations of ghostwriting and plagiarism that permanently tainted the achievement.",
+    "options": ["asterisk", "flag", "delineate", "tip"],
+    "answer": "asterisk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文 'the author's prestigious literary award, citing pervasive allegations... that permanently tainted the achievement'（鉴于代笔与抄袭传闻玷污了成就，给作家的文学奖项打上保留星号以示其成色存疑），锁定表示因污点限制而注明保留/成色打折的动词 asterisk。",
+    "distractor_analysis": {
+      "asterisk": "v. 专指“加星号注明限制事实、使（成就/记录）成色大打折扣（indicate a limiting taint）”，在传记与当代文化批评中精准传达荣誉蒙尘之意。",
+      "flag": "v. 意为“标记以引起注意”或“警告危险”，通常用于软件或审查流程中的警告标记，不具备使历史荣誉成色存疑打折扣的比喻义涵。",
+      "delineate": "v. 意为“细致描绘、勾勒轮廓”，与因丑闻给奖项打上存疑污点无关。",
+      "tip": "v. 意为“倾斜、给小费、提示”，语义在此完全不通。"
+    },
+    "translation": "愤世嫉俗的传记作家们选择给这位作者颇具声望的文学奖项打上存疑的星号，理由是普遍存在的代笔和抄袭指控使得这一成就永远蒙上了污点。"
+  },
+  {
+    "id": "tem8_c4_36",
+    "group_id": 110,
+    "group_name": "asterisk, flag, delineate, tip",
+    "level": "TEM-8",
+    "target_word": "delineate",
+    "question": "With a few deft strokes of charcoal, the master draughtsman was able to ___ the subtle curvature of the dancer's spine with astonishing anatomical precision.",
+    "options": ["asterisk", "flag", "delineate", "tip"],
+    "answer": "delineate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "美术素描专业语境 'With a few deft strokes of charcoal, the master draughtsman was able to ___ the subtle curvature... with astonishing anatomical precision'（炭笔寥寥数笔，精准勾勒舞者脊柱的微妙曲线），锁定勾勒轮廓的术语 delineate。",
+    "distractor_analysis": {
+      "delineate": "v. 专指“（用线条或炭笔）精确勾画、描绘出...的轮廓”，在素描与人体解剖写生（anatomical drawing）中是不可替代的核心术语。",
+      "asterisk": "v. 意为“加星号标记”，无法用炭笔在画纸上勾勒人体曲线。",
+      "flag": "v. 意为“插旗标记、标示关注”，不能表达造型艺术中对人体轮廓的美学勾勒描绘。",
+      "tip": "v. 意为“使倾斜、给小费”，语义风马牛不相及。"
+    },
+    "translation": "仅凭几笔熟练的炭笔线条，这位素描大师便以惊人的解剖学精准度勾勒出了舞者脊柱那微妙的曼妙曲线。"
+  },
+  {
+    "id": "tem8_c4_37",
+    "group_id": 111,
+    "group_name": "attest, certify, evidence, manifest",
+    "level": "TEM-8",
+    "target_word": "attest",
+    "question": "The weathered marble colonnades of the forum still ___ to the monumental architectural grandeur of the Augustan age, enduring despite centuries of seismic upheaval.",
+    "options": ["attest", "certify", "evidence", "manifest"],
+    "answer": "attest",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句法介词题眼 'still ___ to the monumental architectural grandeur'（仍能证实/见证奥古斯都时代的建筑宏伟），锁定及物/不及物结构中唯一后接介词 to 表示见证/证明的动词 attest to。",
+    "distractor_analysis": {
+      "attest": "v. 专指“证明、证实、见证（历史辉煌或真实性）”，固定不及物动词句式为 attest to sth，句法与建筑历史批判完全严丝合缝。",
+      "certify": "v. 及物动词，后接从句或直接支配宾语（certify sth），不接介词 to 来表达历史建筑见证昔日辉煌。",
+      "evidence": "v. 及物动词，意为“表明、作为...的证据”，直接跟名词宾语，不能接介词 to。",
+      "manifest": "v. 及物动词，意为“显露、表现出”，直接带宾语，接介词 to 属严重句法破格。"
+    },
+    "translation": "广场上饱经风霜的大理石柱廊依然见证着奥古斯都时代建筑的宏伟壮观，历经数个世纪的地震动荡却依然屹立不倒。"
+  },
+  {
+    "id": "tem8_c4_38",
+    "group_id": 111,
+    "group_name": "attest, certify, evidence, manifest",
+    "level": "TEM-8",
+    "target_word": "certify",
+    "question": "Before entering the museum's permanent archive, each historical document must be examined by an accredited paleographer to ___ its material authenticity.",
+    "options": ["attest", "certify", "evidence", "manifest"],
+    "answer": "certify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文 'examined by an accredited paleographer to ___ its material authenticity'（由获认证的古文书学家检验并出具官方证明以核实真伪），锁定权威专家官方签发证书核实真伪的及物动词 certify its authenticity。",
+    "distractor_analysis": {
+      "certify": "v. 专指“（经资格认证的专业人员正式检验后）出具书面证明、官方核实认证”，及物动词搭配 its material authenticity 极度规范。",
+      "attest": "v. 表示证实或作证时必须接介词 to（attest to its authenticity），不可直接作及物动词接 authenticity。",
+      "evidence": "v. 侧重“作为间接证据暗示或显明”，非古文书鉴定专家出具具有行政/学术法律效力的真伪鉴定证书。",
+      "manifest": "v. 侧重“使自身特征向外显露、显现”，主语应为作品自身展示的迹象，不能作为专家实施的认证鉴定动作。"
+    },
+    "translation": "在被纳入博物馆永久档案之前，每份历史文献都必须经过一名获得认证的古文书学家的检验，以出具官方证明核实其物理真伪。"
+  },
+  {
+    "id": "tem8_c4_39",
+    "group_id": 112,
+    "group_name": "auctioneer, bootleg, syndicate, move",
+    "level": "TEM-8",
+    "target_word": "auctioneer",
+    "question": "To liquidate the bankrupt gallery's remaining inventory, court-appointed liquidators hired an elite London firm to ___ dozens of rare Impressionist lithographs to international bidders.",
+    "options": ["auctioneer", "bootleg", "syndicate", "move"],
+    "answer": "auctioneer",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "拍卖语境题眼 'hired an elite London firm to ___ dozens of rare Impressionist lithographs to international bidders'（聘请伦敦顶级行向国际竞买人公开拍卖印象派版画），锁定通过竞价公开拍卖的动词 auctioneer。",
+    "distractor_analysis": {
+      "auctioneer": "v. 专指“主持拍卖、将...公开拍卖出售”，与向国际竞标者公开拍卖艺术藏品的商业语境形成严格对应。",
+      "bootleg": "v. 意为“非法翻印、走私盗录”，为地下黑市犯罪行为，与破产清算人公开合法处置艺术品相悖。",
+      "syndicate": "v. 意为“通过辛迪加财团联合发行（文章、专栏、剧集）”，不用于向拍卖竞标人出售版画实体。",
+      "move": "v. 商业口语中虽可指推销走货（move inventory），但无法体现由专业拍卖行面向国际竞标人主持拍卖拍卖会（to international bidders）的专业机制。"
+    },
+    "translation": "为清算破产画廊的剩余存货，法院指定的清算人聘请了一家伦敦顶尖机构，向国际竞拍者公开拍卖数十幅罕见的印象派石版画。"
+  },
+  {
+    "id": "tem8_c4_40",
+    "group_id": 112,
+    "group_name": "auctioneer, bootleg, syndicate, move",
+    "level": "TEM-8",
+    "target_word": "bootleg",
+    "question": "Before digital streaming revolutionized music distribution, passionate opera aficionados would routinely ___ rare live festival performances using tape recorders secretly smuggled into European concert halls.",
+    "options": ["auctioneer", "bootleg", "syndicate", "move"],
+    "answer": "bootleg",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'using tape recorders secretly smuggled into European concert halls'（用私自带入欧洲音乐厅的录音机进行未经授权的盗录制作），锁定地下盗录、私制音像制品的专有词 bootleg。",
+    "distractor_analysis": {
+      "bootleg": "v. 专指“非法录制、私自翻录或走私出版（未经授权的现场音乐会、非公开发行作品）”，在音乐文化批评中特指私录实况母带的行为。",
+      "auctioneer": "v. 意为“公开主持拍卖”，私藏录音机偷录演出的偷盗行为不可能构成公开拍卖。",
+      "syndicate": "v. 意为“通过媒体辛迪加联合公开发行”，属于正规合法分发机制，与私带设备偷录相冲突。",
+      "move": "v. 意为“移动、出售走货”，不能特指将未授权演出现场偷偷录制成盗版制品的核心动作。"
+    },
+    "translation": "在数字流媒体彻底改变音乐传播格局之前，狂热的歌剧迷们经常使用偷偷带入欧洲音乐厅的录音机，将罕见的现场音乐节演出私下盗录留存。"
+  },
+  {
+    "id": "tem8_c4_41",
+    "group_id": 113,
+    "group_name": "audition, rap, interlude, act",
+    "level": "TEM-8",
+    "target_word": "audition",
+    "question": "Dozens of conservatory graduates queued outside the conservatory to ___ for the coveted position of principal cellist in the national philharmonic orchestra.",
+    "options": ["audition", "rap", "interlude", "act"],
+    "answer": "audition",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "演艺选拔固定搭配 'queued outside... to ___ for the coveted position of principal cellist'（排队争取首席大提琴手职位），锁定演艺界参加试奏试镜的固定词组 audition for a position/role。",
+    "distractor_analysis": {
+      "audition": "v. 专指“（演员、乐手）参加试演、试奏或试镜以争取席位”，固定搭配 audition for，与争夺管弦乐团首席职位的句法语境完全吻合。",
+      "rap": "v. 意为“敲击、说唱、斥责”，不可搭配 for the position 表达乐手应聘试奏。",
+      "interlude": "v./n. 意为“插入插曲、幕间休息”，完全缺乏参加演艺选拔考核的语义。",
+      "act": "v. 意为“表演、扮演”，搭配接 for 时通常表示“代行职务（act for sb）”，无法表达音乐学院毕业生为争夺乐团席位而进行的考核试奏。"
+    },
+    "translation": "数十名音乐学院毕业生在校外排起长队，为国家爱乐乐团中令人垂涎的首席大提琴手职位参加考核试奏。"
+  },
+  {
+    "id": "tem8_c4_42",
+    "group_id": 113,
+    "group_name": "audition, rap, interlude, act",
+    "level": "TEM-8",
+    "target_word": "act",
+    "question": "Steeped in the Stanislavski tradition, the method actor refused to merely ___ out of superficial mimicry, striving instead to inhabit the character's subconscious motivations.",
+    "options": ["audition", "rap", "interlude", "act"],
+    "answer": "act",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "戏剧表演美学对比 'refused to merely ___ out of superficial mimicry, striving instead to inhabit the character's subconscious motivations'（拒绝仅凭肤浅模仿机械表演，而是力图化身并沉浸于角色潜意识之中），锁定戏剧专业术语 act（演戏/表面表演）。",
+    "distractor_analysis": {
+      "act": "v. 专指“表演、演戏（在戏剧学中常与真实沉浸体验 inhabit/experience 形成形式与内里的辨析对立）”，在斯坦尼斯拉夫斯基表演体系批评中作为核心词使用。",
+      "audition": "v. 意为“试镜、试演”，属于争取角色阶段的考核，在正式角色塑造的排演语境中产生时间与阶段错位。",
+      "rap": "v. 意为“叩击、念说唱”，非正统斯坦尼斯拉夫斯基戏剧表演的范畴动词。",
+      "interlude": "v. 意为“插奏、插入”，无法与 out of superficial mimicry（出于表面模仿而演戏）构成合乎戏剧理论的语义搭配。"
+    },
+    "translation": "深谙斯坦尼斯拉夫斯基表演体系的这位方法派演员拒绝仅凭肤浅的摹仿去机械表演，而是力求深入体验并沉浸在角色的潜意识动机之中。"
+  },
+  {
+    "id": "tem8_c4_43",
+    "group_id": 114,
+    "group_name": "augment, boost, rev, widen",
+    "level": "TEM-8",
+    "target_word": "augment",
+    "question": "To heighten the tragic pathos of the symphonic finale, the composer decided to ___ the standard orchestra with an offstage brass ensemble and tubular bells.",
+    "options": ["augment", "boost", "rev", "widen"],
+    "answer": "augment",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "管弦乐编制搭配 'decided to ___ the standard orchestra with an offstage brass ensemble'（用后台铜管乐团扩充常规管弦编制），锁定音乐编制扩充的正式学术术语 augment A with B。",
+    "distractor_analysis": {
+      "augment": "v. 专指“（通过增添补充要素）扩大、扩充（规模、编制、声部）”，augment the orchestra with 为严肃音乐学中扩充乐团编制的标准典雅用词。",
+      "boost": "v. 意为“提高、推助”，属于非正式商业与日常用语（如 boost sales/morale），与严肃交响配器法典雅学术语体严重冲突。",
+      "rev": "v. 俚语/机械用语，专指“使发动机加速运转（rev up）”，与古典音乐配器毫无关联。",
+      "widen": "v. 侧重“加宽物理宽度或拓宽抽象视野（如 widen horizons）”，不可用于用附加乐器来扩充管弦乐团编制。"
+    },
+    "translation": "为了强化交响乐终章的悲壮感召力，作曲家决定用一支后台铜管重奏组和管钟来扩充标准管弦乐团的编制。"
+  },
+  {
+    "id": "tem8_c4_44",
+    "group_id": 114,
+    "group_name": "augment, boost, rev, widen",
+    "level": "TEM-8",
+    "target_word": "widen",
+    "question": "By incorporating non-Western oral traditions into the comparative literature syllabus, the department sought to ___ the critical horizons of students steeped exclusively in European modernism.",
+    "options": ["augment", "boost", "rev", "widen"],
+    "answer": "widen",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定搭配 'sought to ___ the critical horizons of students'（拓宽学生的批判性视野），属于 widen one's horizons 的经典固定成语题眼。",
+    "distractor_analysis": {
+      "widen": "v. 意为“使变宽、拓宽”，与 critical/aesthetic horizons（批判性/审美视野）构成不可分割的英语成语性固定搭配（widen horizons）。",
+      "augment": "v. 侧重“在数量、规模、体积上增大增添”，不与 horizons 构成拓宽视野的修辞搭配。",
+      "boost": "v. 意为“提振、促进”，多修饰士气、经济或信心，不能与 horizons 搭配。",
+      "rev": "v. 俗俚用词（加速引擎），在学术比较文学大纲论述中属严重语体错误。"
+    },
+    "translation": "通过将非西方口头文学传统纳入比较文学教学大纲，该系旨在拓宽那些完全浸淫在欧洲现代主义中的学生的批评视野。"
+  },
+  {
+    "id": "tem8_c4_45",
+    "group_id": 115,
+    "group_name": "autograph, endorse, ink, execute",
+    "level": "TEM-8",
+    "target_word": "autograph",
+    "question": "At the rare book fair, the celebrated poet agreed to ___ only the deluxe clothbound copies of his debut sonnet collection for private bibliophiles.",
+    "options": ["autograph", "endorse", "ink", "execute"],
+    "answer": "autograph",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'agreed to ___ only the deluxe clothbound copies of his debut sonnet collection for private bibliophiles'（在特装布面十四行诗集上亲笔签名题词以供藏书家收藏），锁定作者为读者/收藏者亲笔题签签名本的专属动词 autograph books。",
+    "distractor_analysis": {
+      "autograph": "v. 专指“（名人、作者、艺术家）为仰慕者或收藏家亲笔签名、题签（书籍、纪念品）”，与藏书文化及签名本出版（autograph copies）精准契合。",
+      "endorse": "v. 专指“背书支票”或“公开背书认可（某种观点、候选人）”，不用于作者在书籍扉页题赠签名留念。",
+      "ink": "v. 商业新闻黑话，意为“（在合同协议上）签字成交（ink a contract/deal）”，在珍贵文献藏书语境中属于粗俗商界行话，文体错位。",
+      "execute": "v. 意为“依法签署执行（遗嘱、法律文件）”或“处决”，不可用于在诗集上亲笔签名题词。"
+    },
+    "translation": "在珍本书博览会上，这位著名诗人同意仅为私人藏书家在其首部十四行诗集的精装布面限量本上亲笔题名。"
+  },
+  {
+    "id": "tem8_c4_46",
+    "group_id": 115,
+    "group_name": "autograph, endorse, ink, execute",
+    "level": "TEM-8",
+    "target_word": "execute",
+    "question": "Although the architectural master conceived the radical geometric blueprint, artisan stonecutters were commissioned to ___ the intricate marble tracery of the cathedral façade.",
+    "options": ["autograph", "endorse", "ink", "execute"],
+    "answer": "execute",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "美学设计与具体制作的经典对立 'Although the architectural master conceived the radical geometric blueprint, artisan stonecutters were commissioned to ___ the intricate marble tracery...'（尽管大师构思了蓝图设计，工匠受雇负责精确施工制作雕刻细节），锁定艺术与建筑学中专指照图施工/制作完成艺术作品的动词 execute。",
+    "distractor_analysis": {
+      "execute": "v. 艺术/建筑专业术语，专指“根据构思或图纸精准制作、雕琢完成（艺术品、雕像或建筑细部）”，与前期构思设计（conceive the blueprint）形成经典的“构思-执行制作”美学对立。",
+      "autograph": "v. 意为“亲笔签名”，石匠不可能去“签名”大理石窗花花格。",
+      "endorse": "v. 意为“认可、赞同”，工匠的职责是实际动手雕刻施工，而非对图纸进行背书赞同。",
+      "ink": "v. 意为“用墨水上色或签署商业合同”，不能表达在大理石上雕凿繁复花饰的精工物理制作过程。"
+    },
+    "translation": "尽管这位建筑大师构思了激进的几何蓝图，但大教堂立面上繁复的大理石窗花花格则是由受托的石雕工匠具体雕琢施工完成的。"
+  }
+]

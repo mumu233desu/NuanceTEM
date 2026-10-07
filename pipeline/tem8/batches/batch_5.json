@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "tem8_c5_01",
+    "group_id": 116,
+    "group_name": "autopsy, rake, scan, look",
+    "level": "TEM-8",
+    "target_word": "autopsy",
+    "question": "In their post-mortem analysis of the corporate collapse, behavioral economists sought to clinically ___ the disastrous groupthink, dissecting each systemic delusion with forensic detachment.",
+    "options": [
+      "autopsy",
+      "rake",
+      "scan",
+      "look"
+    ],
+    "answer": "autopsy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 post-mortem analysis 与 dissecting each delusion with forensic detachment（法医病理学式深度复盘隐喻）。",
+    "distractor_analysis": {
+      "autopsy": "v. 专指如验尸般对已发生的失败或灾难进行解剖式深度复盘与病理归因，完美契合题干的 post-mortem 与 forensic 语境。",
+      "rake": "v. 意为梳理或搜寻，及物时常表耙掘，表示复盘时须接 over/through（如 rake over old coals），直接及物产生搭配断裂。",
+      "scan": "v. 意为快速扫视或粗略巡视，与题干所强调的“法医般冷静剖析（forensic detachment）”在认知精细度上严重冲突。",
+      "look": "v. 为不及物动词，后接宾语必须加介词 at，直接接宾语产生严重语法破格。"
+    },
+    "translation": "在对企业崩盘的事后复盘分析中，行为经济学家试图冷静解剖那场灾难性的群体迷思，以法医般的超然态度剖析每一个系统性妄念。"
+  },
+  {
+    "id": "tem8_c5_02",
+    "group_id": 116,
+    "group_name": "autopsy, rake, scan, look",
+    "level": "TEM-8",
+    "target_word": "scan",
+    "question": "Under acute psychological distress, the human amygdala prompts vigilance, compelling the individual to rapidly ___ the surrounding visual field for subtle manifestations of danger or social hostility.",
+    "options": [
+      "autopsy",
+      "rake",
+      "scan",
+      "look"
+    ],
+    "answer": "scan",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 rapidly ___ the surrounding visual field for（认知心理学中视觉搜索与威胁监测的核心搭配）。",
+    "distractor_analysis": {
+      "scan": "v. 专指系统性、快速地巡视或扫视某一特定区域（scan the visual field for sth），精准契合杏仁核触发的威胁警觉机制。",
+      "autopsy": "v. 专指对死亡尸体或过去失败进行事后尸检复盘，无法用于实时视觉神经扫描场景。",
+      "rake": "v. 意为用耙子耙梳或以火力扫射，与视觉视野搜索缺乏搭配契合度。",
+      "look": "v. 为不及物动词，直连 the visual field 造成句法破格（须接 look around/at）。"
+    },
+    "translation": "在剧烈心理应激下，人类杏仁核会激发警觉，迫使个体迅速扫视周围视野，以搜寻危险或社交敌意的细微表征。"
+  },
+  {
+    "id": "tem8_c5_03",
+    "group_id": 117,
+    "group_name": "avail, exploit, consecrate, take",
+    "level": "TEM-8",
+    "target_word": "avail",
+    "question": "During the rigorous cognitive-behavioral intervention, patients were strongly encouraged to ___ themselves of evidence-based coping mechanisms whenever overwhelming intrusive thoughts threatened to destabilize their emotional equilibrium.",
+    "options": [
+      "avail",
+      "exploit",
+      "consecrate",
+      "take"
+    ],
+    "answer": "avail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为反身代词固定句式 ___ themselves of（使自己利用/借助……资源）。",
+    "distractor_analysis": {
+      "avail": "v. 固定搭配 avail oneself of sth，意为“利用、借助（机会或资源）”，是专八学术语域高频动词短语。",
+      "exploit": "v. 为纯及物动词，直接接宾语（exploit sth），接反身代词加 of 产生严重语法破格。",
+      "consecrate": "v. 意为奉献或祝圣，句型为 consecrate oneself to sth，介词 of 导致搭配断裂。",
+      "take": "v. 接 advantage of 时方可表利用，单独使用 take themselves of 属于严重搭配错误。"
+    },
+    "translation": "在严谨的认知行为干预过程中，每当压倒性的侵入性念头企图破坏情绪平衡时，患者都被强烈建议利用循证应对机制。"
+  },
+  {
+    "id": "tem8_c5_04",
+    "group_id": 117,
+    "group_name": "avail, exploit, consecrate, take",
+    "level": "TEM-8",
+    "target_word": "exploit",
+    "question": "Individuals exhibiting pronounced Machiavellian traits deliberately identify subconscious vulnerabilities in their peers in order to systematically ___ those psychological insecurities for personal political ascendancy.",
+    "options": [
+      "avail",
+      "exploit",
+      "consecrate",
+      "take"
+    ],
+    "answer": "exploit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为及物动词直接支配 those psychological insecurities，并暗含“榨取弱点以谋私利”的人格操纵逻辑。",
+    "distractor_analysis": {
+      "exploit": "v. 及物动词，专指利用他人的心理缺陷、弱点进行剥削与榨取以牟取私利，精准契合马基雅维利式人格剖析。",
+      "avail": "v. 作及物动词时意为“对……有益”（avail sb nothing），不能直接接 insecurities 表操控榨取，须用 avail oneself of 且语义不合。",
+      "consecrate": "v. 意为把……奉为神圣或献身，与暗黑人格操纵完全意义倒错。",
+      "take": "v. 动词含义泛化，无法传达出马基雅维利主义深谋远虑的恶意榨取（ruthless exploitation）意涵。"
+    },
+    "translation": "表现出明显马基雅维利特质的个体，会蓄意探查同伴的潜意识脆弱点，以便系统性利用那些心理安全感缺失来谋取个人政治地位。"
+  },
+  {
+    "id": "tem8_c5_05",
+    "group_id": 118,
+    "group_name": "avert, avoid, debar, obviate",
+    "level": "TEM-8",
+    "target_word": "avert",
+    "question": "Confronted with the inquisitorial glare of the panel, the hypervigilant candidate instinctively sought to ___ her gaze, thereby betraying the severe underlying social apprehension she desperately wished to conceal.",
+    "options": [
+      "avert",
+      "avoid",
+      "debar",
+      "obviate"
+    ],
+    "answer": "avert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为固定搭配 ___ her gaze（移开视线/回避目光，社交恐惧症防御行为的特异性动作）。",
+    "distractor_analysis": {
+      "avert": "v. 专用于移开目光或视线（avert one's gaze/eyes），是心理学中描写焦虑回避反应的地道表达。",
+      "avoid": "v. 虽意为避免，但常接 avoidance of people/situations，英语中极少说 avoid one's gaze 来指主动移开视线的身体动作。",
+      "debar": "v. 意为剥夺资格、阻拦参与（常接 from），接 gaze 产生荒谬语义破格。",
+      "obviate": "v. 意为消除必要性（常接 need），与 gaze 无法形成合法语义关联。"
+    },
+    "translation": "面对评审团审讯般的逼视，这名高度戒备的候选人本能地移开目光，从而暴露了她极力隐瞒的深层社交焦虑。"
+  },
+  {
+    "id": "tem8_c5_06",
+    "group_id": 118,
+    "group_name": "avert, avoid, debar, obviate",
+    "level": "TEM-8",
+    "target_word": "obviate",
+    "question": "Cognitive scientists demonstrate that establishing automatic behavioral heuristics can effectively ___ the need for agonizing conscious deliberation during routine, high-frequency decision scenarios.",
+    "options": [
+      "avert",
+      "avoid",
+      "debar",
+      "obviate"
+    ],
+    "answer": "obviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为学术定型搭配 ___ the need for（消除……的需求/使之不再必要）。",
+    "distractor_analysis": {
+      "obviate": "v. 经典学术搭配 obviate the need for，意为排除或消除某种繁复程序的必要性，高度吻合认知启发式策略的省力机制。",
+      "avert": "v. 专用于防止灾祸发生或移开视线（avert disaster/gaze），不能与 the need for 形成搭配。",
+      "avoid": "v. 虽有避免之意，但接 the need for 属于语义冗余且非地道学术用语（通常接 doing 或普通名词）。",
+      "debar": "v. 专指剥夺资格或禁止进入（debar sb from doing），与抽象需求毫无句法契合度。"
+    },
+    "translation": "认知科学家指出，建立自动化的行为启发式机制，能有效免除日常高频决策情境中痛苦的意识审慎权衡之需。"
+  },
+  {
+    "id": "tem8_c5_07",
+    "group_id": 119,
+    "group_name": "babble, bay, slur, rasp",
+    "level": "TEM-8",
+    "target_word": "babble",
+    "question": "Paralyzed by sheer sensory overload and existential panic, the traumatized patient could only ___ incoherently, unable to synthesize his chaotic perceptions into articulate, intelligible linguistic propositions.",
+    "options": [
+      "babble",
+      "bay",
+      "slur",
+      "rasp"
+    ],
+    "answer": "babble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 ___ incoherently 与后文 unable to synthesize into intelligible propositions（思维瓦解胡言乱语）。",
+    "distractor_analysis": {
+      "babble": "v. 专指由于极度惊恐或智力瓦解而发出语无伦次、前言不搭后语的呓语与胡话（babble incoherently）。",
+      "bay": "v. 专指猎犬长吠或群体愤怒地咆哮（如 bay for blood），无法用于个体惊恐时的语无伦次。",
+      "slur": "v. 专指因神经受损或醉酒导致的发音含糊连读（吐字不清），强调发音物理动作而非内容思维混乱。",
+      "rasp": "v. 专指发出粗糙沙哑的声音，强调音质的摩擦刺耳，非思维组织能力的崩溃。"
+    },
+    "translation": "因极度感官过载和存在主义恐慌而瘫倒的创伤患者只能语无伦次地胡乱呢喃，无法将混乱的感知合成为清晰可辨的语言表述。"
+  },
+  {
+    "id": "tem8_c5_08",
+    "group_id": 119,
+    "group_name": "babble, bay, slur, rasp",
+    "level": "TEM-8",
+    "target_word": "slur",
+    "question": "Following the transient ischemic attack, the patient exhibited cognitive clarity but began to noticeably ___ her words, as the motor cortex failed to coordinate the fine movements of her tongue.",
+    "options": [
+      "babble",
+      "bay",
+      "slur",
+      "rasp"
+    ],
+    "answer": "slur",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 ___ her words 及运动皮层无法协调舌部动作（构音运动障碍导致的发音含糊连读）。",
+    "distractor_analysis": {
+      "slur": "v. 及物动词，固定搭配 slur one's words，精准描述因中风或神经受损造成的字音粘连、发音含混。",
+      "babble": "v. 为不及物动词，且题干明确指出患者具备 cognitive clarity（认知清晰），与 babble 表现的胡言乱语语义矛盾。",
+      "bay": "v. 意为狂吠或深沉号叫，不可接 words，语法与语境完全破格。",
+      "rasp": "v. 意为发出沙哑刺耳声，不与 words 构成表吐字含混连读的定型搭配。"
+    },
+    "translation": "在短暂性脑缺血发作后，患者虽然思维清晰，但开始明显咬字含混不清，因为运动皮层未能协调好舌头的精细动作。"
+  },
+  {
+    "id": "tem8_c5_09",
+    "group_id": 120,
+    "group_name": "backfire, recur, transpire, come",
+    "level": "TEM-8",
+    "target_word": "backfire",
+    "question": "Psychologists warn that deliberate thought suppression strategies almost inevitably ___, producing an ironic rebound effect wherein the forbidden intrusive obsession becomes even more intensely salient.",
+    "options": [
+      "backfire",
+      "recur",
+      "transpire",
+      "come"
+    ],
+    "answer": "backfire",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 producing an ironic rebound effect（产生讽刺性的反弹逆效果，策略事与愿违并反噬自身）。",
+    "distractor_analysis": {
+      "backfire": "v. 专指某种计策或企图产生截然相反的恶果并反噬始作俑者，完美契合思维压抑理论中的讽刺性反弹（ironic rebound）。",
+      "recur": "v. 意为周期性重现或再发，主语应为念头或症状本身，而不能是心理压抑策略（strategies cannot recur in this causal sense）。",
+      "transpire": "v. 意为显露、为人所知或发生，缺乏事与愿违、适得其反的因果反讽色彩。",
+      "come": "v. 词义过于泛化，无法承载认知心理学中反弹反噬的学术语义深度。"
+    },
+    "translation": "心理学家警告称，蓄意的杂念压制策略几乎不可避免地会适得其反，产生一种讽刺性的反弹效应，使被禁止的侵入性执念变得更加强烈凸显。"
+  },
+  {
+    "id": "tem8_c5_10",
+    "group_id": 120,
+    "group_name": "backfire, recur, transpire, come",
+    "level": "TEM-8",
+    "target_word": "recur",
+    "question": "In individuals suffering from acute post-traumatic distress, distressing autobiographical memories tend to uncontrollably ___ whenever innocuous sensory triggers evoke the original context of the traumatic event.",
+    "options": [
+      "backfire",
+      "recur",
+      "transpire",
+      "come"
+    ],
+    "answer": "recur",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为主语 memories 与副词 uncontrollably（创伤记忆失控地反复再现与侵入）。",
+    "distractor_analysis": {
+      "recur": "v. 不及物动词，专指痛苦记忆、病症或事件的“反复发作、周期性重现”，精准对应 PTSD 的记忆闪回特质。",
+      "backfire": "v. 专指策略或计划产生相反恶果，记忆作为被动心理产物无法 backfire。",
+      "transpire": "v. 意为事情发生或秘密泄漏，不能形容既有历史创伤记忆的反复侵入重现。",
+      "come": "v. 缺乏前缀 re- 所承载的“反复、重现（recurrence）”的核心再发性含义。"
+    },
+    "translation": "在患有急性创伤后应激障碍的个体中，每当无害的感官诱因唤起创伤事件的原始情境时，痛苦的自传体记忆往往会不受控制地反复重现。"
+  },
+  {
+    "id": "tem8_c5_11",
+    "group_id": 121,
+    "group_name": "backhand, loft, pop, toe",
+    "level": "TEM-8",
+    "target_word": "backhand",
+    "question": "When the crosscourt return bounced sharply toward his non-dominant side, the elite tennis player had to instinctively ___ the ball across the court, relying entirely on automated neuromuscular memory under intense competitive stress.",
+    "options": [
+      "backhand",
+      "loft",
+      "pop",
+      "toe"
+    ],
+    "answer": "backhand",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 non-dominant side（非主导侧/反手侧）及 tennis player 运动反应。",
+    "distractor_analysis": {
+      "backhand": "v. 专指网球等运动中以反手击球（backhand the ball），契合球弹向 non-dominant side 的运动学场景。",
+      "loft": "v. 意为将球高挑入空中，强调抛物线高度而非击球方位的反手机制。",
+      "pop": "v. 意为向上轻击出内野高飞球（pop up），不具备非优势侧反向击球的运动学含义。",
+      "toe": "v. 专指用脚趾触球或踢球（如在足球中），在网球击球情境中完全荒谬破格。"
+    },
+    "translation": "当斜线回球急剧弹向其非优势侧时，这名顶尖网球选手只得本能地反手将球击过球场，在巨大的竞技压力下完全依赖自动化的神经肌肉记忆。"
+  },
+  {
+    "id": "tem8_c5_12",
+    "group_id": 121,
+    "group_name": "backhand, loft, pop, toe",
+    "level": "TEM-8",
+    "target_word": "toe",
+    "question": "Under acute normative peer pressure in the experimental group, dissenters ultimately chose to ___ the line, suppressing their idiosyncratic doubts to preserve collective harmony.",
+    "options": [
+      "backhand",
+      "loft",
+      "pop",
+      "toe"
+    ],
+    "answer": "toe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为固定从众成语搭配 ___ the line（顺从规矩、服从集体路线）。",
+    "distractor_analysis": {
+      "toe": "v. 固定搭配 toe the line，意为“顺从命令、服从群体规范”，是社会心理学群体从众实验的核心成语。",
+      "backhand": "v. 与 the line 无法构成合法短语，搭配彻底断裂。",
+      "loft": "v. 意为高挑、吊高，与 the line 毫无关联。",
+      "pop": "v. 意为爆裂或突然出现，不能与 the line 连用（pop the question 为求婚，无 pop the line 一说）。"
+    },
+    "translation": "在实验组强烈的规范性同伴压力下，持异议者最终选择顺从规矩，压抑自己独特的疑虑以维护集体和谐。"
+  },
+  {
+    "id": "tem8_c5_13",
+    "group_id": 122,
+    "group_name": "badger, pester, bug, tease",
+    "level": "TEM-8",
+    "target_word": "badger",
+    "question": "During the hostile cross-examination, the aggressive prosecutor attempted to relentlessly ___ the distressed defendant into contradicting herself, prompting the defense attorney to object to the intimidation tactics.",
+    "options": [
+      "badger",
+      "pester",
+      "bug",
+      "tease"
+    ],
+    "answer": "badger",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 hostile cross-examination 与 object to the intimidation tactics（法庭司法质证中的威压纠缠）。",
+    "distractor_analysis": {
+      "badger": "v. 司法与正式语境特指以咄咄逼人的连续质问威逼、骚扰证人或被告（如法庭术语 badgering the witness），完全契合题干情境。",
+      "pester": "v. 侧重于以琐碎要求纠缠打扰他人（如推销员纠缠），缺乏法庭严肃审讯的威慑压迫性。",
+      "bug": "v. 属于非正式日常口语（如 don't bug me），严重背离学术与司法交锋的典雅学术语域。",
+      "tease": "v. 专指取笑、调戏或逗弄，与旨在迫使被告前后矛盾的司法严酷审问在情调上严重倒错。"
+    },
+    "translation": "在严厉的反诘盘问中，咄咄逼人的检察官企图通过不依不饶的逼问使心烦意乱的被告自相矛盾，导致辩护律师对其恐吓手段提出抗议。"
+  },
+  {
+    "id": "tem8_c5_14",
+    "group_id": 122,
+    "group_name": "badger, pester, bug, tease",
+    "level": "TEM-8",
+    "target_word": "tease",
+    "question": "Through delicate psychoanalytic probing, the therapist attempted to gradually ___ out the patient's deeply repressed childhood traumas from a dense web of defensive rationalizations.",
+    "options": [
+      "badger",
+      "pester",
+      "bug",
+      "tease"
+    ],
+    "answer": "tease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为动词短语固定搭配 ___ out the patient's deeply repressed traumas（抽丝剥茧梳理出隐藏的创伤）。",
+    "distractor_analysis": {
+      "tease": "v. 经典学术搭配 tease out，专指抽丝剥茧、极其精细地理清并分离出隐藏的复杂心理根源或隐秘真相。",
+      "badger": "v. 不能与 out 连用表示梳理提炼，且 badger 含有强硬逼迫之意，违背题干的 delicate probing（细腻探寻）。",
+      "pester": "v. 无法构成 pester out 短语，语义亦完全不合。",
+      "bug": "v. 口语词汇，无 bug out 表示心理学深度梳理之用法。"
+    },
+    "translation": "通过细腻的精神分析探查，治疗师试图从密密麻麻的防御性合理化编织物中，逐步抽丝剥茧梳理出患者深藏心底的童年创伤。"
+  },
+  {
+    "id": "tem8_c5_15",
+    "group_id": 123,
+    "group_name": "baffle, vex, gravel, get",
+    "level": "TEM-8",
+    "target_word": "baffle",
+    "question": "The patient's bizarre dissociative symptoms continue to profoundly ___ neuroscientists, defying all established physiological explanations and confounding conventional diagnostic paradigms with unprecedented cognitive anomalies.",
+    "options": [
+      "baffle",
+      "vex",
+      "gravel",
+      "get"
+    ],
+    "answer": "baffle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 defying all established explanations and confounding conventional paradigms（认知科学谜题令人彻底困惑不解）。",
+    "distractor_analysis": {
+      "baffle": "v. 专指由于事物极其扑朔迷离而使研究者“彻底困惑、毫无头绪”（baffle neuroscientists），与后文 confound 构成同义递进。",
+      "vex": "v. 侧重于引起情绪上的恼怒、烦躁或焦躁不安（cause irritation），而非认知理解层面的神秘难解。",
+      "gravel": "v. 属于古旧罕用词，侧重使人尴尬窘迫，不符合现代神经科学前沿语篇。",
+      "get": "v. 过于非正式通俗口语化（如 that gets me），严重破坏专八学术文体质感。"
+    },
+    "translation": "该患者离奇的解离症状令神经科学家深感困惑不解，它们打破了所有既定的生理学解释，并以前所未有的认知反常使常规诊断范式陷入混乱。"
+  },
+  {
+    "id": "tem8_c5_16",
+    "group_id": 123,
+    "group_name": "baffle, vex, gravel, get",
+    "level": "TEM-8",
+    "target_word": "vex",
+    "question": "The intractable mind-body problem continues to perpetually ___ theoretical philosophers, not merely because it resists empirical verification, but because its metaphysical paradoxes provoke relentless intellectual frustration.",
+    "options": [
+      "baffle",
+      "vex",
+      "gravel",
+      "get"
+    ],
+    "answer": "vex",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 provoke relentless intellectual frustration（难题带来的持续智力烦扰与情绪挫败感）。",
+    "distractor_analysis": {
+      "vex": "v. 专指深奥难缠的问题在心智上“使人心烦意乱、深感困扰挫败”（vex someone with endless frustration），契合后文的情绪挫败。",
+      "baffle": "v. 仅强调使人困惑迷茫，缺乏持续性情绪焦躁与心智烦扰（vexation）的内涵。",
+      "gravel": "v. 极其生僻罕用，不符合心智哲学现代经典学术规范。",
+      "get": "v. 口语口头词，缺乏学术思辨语域的庄重感。"
+    },
+    "translation": "棘手的身心难题继续令理论哲学家们长期深感困扰心烦，这不仅因为它抗拒经验验证，更因为其形而上学悖论引发了无休止的智力挫败感。"
+  },
+  {
+    "id": "tem8_c5_17",
+    "group_id": 124,
+    "group_name": "balk, jib, baulk, resist",
+    "level": "TEM-8",
+    "target_word": "resist",
+    "question": "Cognitive dissonance theory posits that deeply dogmatic partisans instinctively ___ disconfirming empirical evidence, mobilizing elaborate defensive rationalizations to preserve the sanctity of their pre-existing ideological convictions.",
+    "options": [
+      "balk",
+      "jib",
+      "baulk",
+      "resist"
+    ],
+    "answer": "resist",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为直接支配名词宾语 disconfirming empirical evidence（及物动词句法排他）。",
+    "distractor_analysis": {
+      "resist": "v. 及物动词，直接接宾语（resist disconfirming evidence - 抵制证伪证据），句法与认知失调理论完美契合。",
+      "balk": "v. 为不及物动词，必须接介词 at（balk at sth），直接接名词短语产生严重语法破格。",
+      "jib": "v. 为不及物动词，接宾语必须加 at（jib at sth），直接接宾语语法破格。",
+      "baulk": "v. 为不及物动词（balk 的英式拼写），同样必须加 at，直接接宾语产生语法破格。"
+    },
+    "translation": "认知失调理论假定，根深蒂固的教条式党同者会本能地抵制证伪的经验证据，调动繁复的防御性合理化机制以维护其既有意识形态信念的崇高地位。"
+  },
+  {
+    "id": "tem8_c5_18",
+    "group_id": 124,
+    "group_name": "balk, jib, baulk, resist",
+    "level": "TEM-8",
+    "target_word": "balk",
+    "question": "Adhering strictly to American Psychological Association stylistic standards, the behavioral researchers observed that risk-averse participants consistently ___ at committing substantial capital to ambiguous financial propositions.",
+    "options": [
+      "balk",
+      "jib",
+      "baulk",
+      "resist"
+    ],
+    "answer": "balk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为固定搭配 ___ at doing sth 及前置美式学术出版体例（APA standards 确立美式拼写）。",
+    "distractor_analysis": {
+      "balk": "v. 固定搭配 balk at doing sth（对……畏缩不前、断然拒绝），且符合 APA 美式标准拼写规范。",
+      "baulk": "v. 为英式拼写变体，在明确限定的 APA 美式期刊体例要求下属于拼写规范不合。",
+      "jib": "v. 虽亦可接 at，但属于古旧马匹或航海隐喻，在现代行为经济学论文中存在语域严重脱节。",
+      "resist": "v. 为及物动词，不能接介词 at（resist at 属于灾难性语法搭配错误）。"
+    },
+    "translation": "严格遵循美国心理学会（APA）体例规范的行为研究人员观察到，风险规避型参与者在面对模糊的财务方案时，一贯对投入大笔资金迟疑退缩。"
+  },
+  {
+    "id": "tem8_c5_19",
+    "group_id": 125,
+    "group_name": "banish, shun, ban, blackball",
+    "level": "TEM-8",
+    "target_word": "banish",
+    "question": "Through disciplined meditative practice, the stoic philosopher sought to decisively ___ all irrational anxieties and agonizing regrets from his conscious awareness, achieving serene psychological equanimity.",
+    "options": [
+      "banish",
+      "shun",
+      "ban",
+      "blackball"
+    ],
+    "answer": "banish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为固定介词搭配 ___ ... from his conscious awareness（将杂念从意识中彻底驱逐/驱散）。",
+    "distractor_analysis": {
+      "banish": "v. 固定搭配 banish sth from one's mind/awareness，专指将恐惧、焦虑等心理杂念从意识中“彻底驱除、摒弃”。",
+      "shun": "v. 意为主观躲避或疏远（如 shun bad company），句型为 shun sth，不能接 from one's awareness。",
+      "ban": "v. 意为官方明令禁止，无法用于驱逐内心心理杂念的句式。",
+      "blackball": "v. 专指通过投反对票将某人排斥出组织，与驱除内心思想毫无逻辑关联。"
+    },
+    "translation": "通过自律的冥想修行，这位斯多葛哲学家试图将所有非理性的焦虑与痛苦的悔恨彻底驱逐出自己的清醒意识，以达到宁静的心灵安详。"
+  },
+  {
+    "id": "tem8_c5_20",
+    "group_id": 125,
+    "group_name": "banish, shun, ban, blackball",
+    "level": "TEM-8",
+    "target_word": "blackball",
+    "question": "When the dissenting researcher challenged the department's reigning orthodoxies, the tenured faculty conspired to covertly ___ him from the prestigious academic society through unanimous negative voting.",
+    "options": [
+      "banish",
+      "shun",
+      "ban",
+      "blackball"
+    ],
+    "answer": "blackball",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题眼为 through unanimous negative voting（通过一致投反对票进行秘密封杀与排斥）。",
+    "distractor_analysis": {
+      "blackball": "v. 专指在俱乐部或学会中“通过投反对票暗中排斥/封杀某人”（blackball sb from a society），后文 negative voting 是绝对排他线索。",
+      "banish": "v. 侧重官方公开流放或放逐，不包含暗中票决封杀的机制。",
+      "shun": "v. 侧重人际间的冷落回避，属于社会交往冷暴力，不涉及正式投票程序。",
+      "ban": "v. 意为法律或行规明文禁止，无法体现同行评议中以秘密票决搞学术排挤的特定内涵。"
+    },
+    "translation": "当持异见的研究员挑战系里的主流正统学说时，终身教职员工们合谋通过一致投反对票，秘密将其从该著名学术团体中排挤封杀。"
+  },
+  {
+    "id": "tem8_c5_21",
+    "group_id": 126,
+    "group_name": "banter, kid, josh, chaff",
+    "level": "TEM-8",
+    "target_word": "banter",
+    "question": "In high-pressure diplomatic receptions, seasoned negotiators frequently ___ with their counterparts, utilizing sophisticated, witty repartee to defuse latent ideological friction without forfeiting substantive strategic posture.",
+    "options": [
+      "banter",
+      "kid",
+      "josh",
+      "chaff"
+    ],
+    "answer": "banter",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 utilizing sophisticated, witty repartee（运用优雅机智的敏捷对答诙谐打趣）。",
+    "distractor_analysis": {
+      "banter": "v. 专指在有教养的正式社交场合以机智幽默的俏皮话轻松打趣（witty repartee），完美匹配外交博弈语域。",
+      "kid": "v. 属于日常通俗口语（如 just kidding），严重违背外交高阶外刊分析的学术质感。",
+      "josh": "v. 带有浓厚的乡土与俚俗色彩（josh around），不适合外交精英与战略磋商语境。",
+      "chaff": "v. 侧重善意取笑某人个人缺点或短处，缺乏双向优雅机敏对答（repartee）的高级语用内涵。"
+    },
+    "translation": "在高压外交招待会上，经验老到的谈判专家经常与对手诙谐打趣，利用精妙机智的妙语交锋来化解潜在的意识形态摩擦，同时毫不放弃实质性战略立场。"
+  },
+  {
+    "id": "tem8_c5_22",
+    "group_id": 126,
+    "group_name": "banter, kid, josh, chaff",
+    "level": "TEM-8",
+    "target_word": "chaff",
+    "question": "Despite the somber academic atmosphere, senior colleagues would affectionately ___ the young prodigy about his endearing eccentricities, softening the harsh edges of relentless intellectual competition.",
+    "options": [
+      "banter",
+      "kid",
+      "josh",
+      "chaff"
+    ],
+    "answer": "chaff",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题眼为及物动词句型 affectionately ___ sb about his eccentricities（善意拿某人的小癖好打趣开玩笑）。",
+    "distractor_analysis": {
+      "chaff": "v. 及物动词，固定搭配 chaff sb about sth，专指以善意、喜爱的方式拿某人的怪癖或小毛病打趣。",
+      "banter": "v. 通常为不及物动词与 with 连用（banter with sb），较少作为及物动词直接接宾语后加 about。",
+      "kid": "v. 属于通俗口语，及物用法多接宾语从句或用于 kidding aside，不符典雅语域。",
+      "josh": "v. 俚俗非正式动词，通常为不及物（josh with sb），搭配与文体均不合。"
+    },
+    "translation": "尽管学术氛围沉重，资深同事们仍会深情地拿这位年轻神童讨喜的古怪癖好善意打趣，从而缓和无情智力竞争的生硬边缘。"
+  },
+  {
+    "id": "tem8_c5_23",
+    "group_id": 127,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "barrage",
+    "question": "Cognitive psychologists observe that modern digital notifications relentlessly ___ consumers with fragmented sensory stimuli, systematically overwhelming the prefrontal cortex's capacity for sustained, deep reflective contemplation.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "barrage",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题眼为 relentlessly ___ consumers with fragmented sensory stimuli（以密如弹幕的感官刺激倾泻式轰炸消费者）。",
+    "distractor_analysis": {
+      "barrage": "v. 专指大量信息、通知或质问如密集弹幕般持续倾泻而来（barrage with stimuli），具强烈的现代外刊社科修辞色彩。",
+      "bombard": "v. 虽亦可接 with，但更侧重物理粒子碰撞或重炮单点轰击，在数字通知连珠炮式袭来的现代语境中 barrage 更加精准生动。",
+      "rip": "v. 意为撕裂或扯开，不能接 with 表示密集信息冲击，语法与语义破格。",
+      "claw": "v. 意为用爪抓挠，搭配与语用完全不合。"
+    },
+    "translation": "认知心理学家观察到，现代数字通知以零碎的感官刺激无情地狂轰滥炸消费者，系统性地摧毁了前额叶皮层进行持续深度反思的能力。"
+  },
+  {
+    "id": "tem8_c5_24",
+    "group_id": 127,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "claw",
+    "question": "Following years of debilitating despair, the resilient artist managed to painfully ___ her way back to emotional stability through rigorous dialectical behavior therapy and disciplined creative labor.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "claw",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为经典坚毅搏斗成语搭配 ___ one's way back to（历经千难万险奋力挣扎回归……）。",
+    "distractor_analysis": {
+      "claw": "v. 固定搭配 claw one's way back to (health/stability)，生动刻画从绝望深渊中手脚并用、艰难挣扎重获新生的痛苦过程。",
+      "barrage": "v. 无法与 one's way back to 构成搭配，句法彻底断裂。",
+      "bombard": "v. 无法与 one's way 搭配，语义破格。",
+      "rip": "v. 虽有 rip one's way through 之说，但绝无 rip one's way back to emotional stability 的心理疗愈习惯搭配。"
+    },
+    "translation": "历经数年极度消沉之后，这位坚韧的艺术家通过严谨的辩证行为疗法和自律的创作劳动，艰难地一步步挣扎重归情绪稳定。"
+  },
+  {
+    "id": "tem8_c5_25",
+    "group_id": 128,
+    "group_name": "barricade, bar, stop, block",
+    "level": "TEM-8",
+    "target_word": "barricade",
+    "question": "Overwhelmed by acute persecutory paranoia, the reclusive scholar retreated into his study and chose to ___ himself inside, refusing all therapeutic contact with the outside world.",
+    "options": [
+      "barricade",
+      "bar",
+      "stop",
+      "block"
+    ],
+    "answer": "barricade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为反身代词闭锁搭配 ___ himself inside（构筑障碍将自己反锁在室内与世隔绝）。",
+    "distractor_analysis": {
+      "barricade": "v. 专属反身代词固定搭配 barricade oneself inside，专指将自己反锁闭门、设障与外界隔绝，极富创伤应激的防御色彩。",
+      "bar": "v. 意为阻拦，句法上不存在 bar oneself inside 这种用法。",
+      "stop": "v. 不能与 oneself inside 连用，语法严重破格。",
+      "block": "v. block 专指阻挡外部通道（block the door），英语中没有 block oneself inside 的地道用法。"
+    },
+    "translation": "在急性被害妄想症的重压下，这名深居简出的学者退回书房并将自己深锁在内，拒绝与外界进行任何治疗性接触。"
+  },
+  {
+    "id": "tem8_c5_26",
+    "group_id": 128,
+    "group_name": "barricade, bar, stop, block",
+    "level": "TEM-8",
+    "target_word": "bar",
+    "question": "The institution's stringent psychological fitness evaluation was designed to definitively ___ unstable candidates from obtaining security clearances for sensitive diplomatic missions.",
+    "options": [
+      "barricade",
+      "bar",
+      "stop",
+      "block"
+    ],
+    "answer": "bar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "题眼为正式制度性排斥搭配 ___ candidates from obtaining security clearances（剥夺资格/明令禁止获得机密许可）。",
+    "distractor_analysis": {
+      "bar": "v. 及物动词，固定搭配 bar sb from doing sth，专指从法理、制度上严加阻止或剥夺资格，具备高度严肃性。",
+      "barricade": "v. 意为设路障阻挡物理通道，不可接 from doing 表示制度性剥夺资格。",
+      "stop": "v. 语气过于平淡日常，缺乏国家安全资质审查中权威性定性排斥（authoritative disqualification）的法律语域质感。",
+      "block": "v. block sb from doing 偏向物理阻挡或中性阻截，不如 bar 在官方资格审查中体现不可逾越的禁入权威。"
+    },
+    "translation": "该机构严苛的心理健康评估旨在从根本上杜绝心理不稳定的候选人获得执行敏感外交任务的安全审查许可。"
+  },
+  {
+    "id": "tem8_c5_27",
+    "group_id": 129,
+    "group_name": "barter, swap, sub, swop",
+    "level": "TEM-8",
+    "target_word": "barter",
+    "question": "In times of existential terror, frightened citizens are often distressingly willing to ___ their hard-won civil liberties in exchange for the seductive illusion of collective psychological protection.",
+    "options": [
+      "barter",
+      "swap",
+      "sub",
+      "swop"
+    ],
+    "answer": "barter",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "题眼为庄严权利出卖语境 ___ their hard-won civil liberties in exchange for...（为换取虚幻保护而典当珍贵权利）。",
+    "distractor_analysis": {
+      "barter": "v. 典雅外刊政治哲学常用词，专指以极珍贵的无形资产（如原则、自由）作代价进行惨痛交易（barter away/in exchange for）。",
+      "swap": "v. 属于日常非正式口语（如 swap cards/seats），修饰出卖公民自由产生严重文体降格。",
+      "swop": "v. 为 swap 的英式非正式拼写变体，同样属于通俗口语，语域破格。",
+      "sub": "v. 意为代替或替补，搭配与语义皆彻底不通。"
+    },
+    "translation": "在存在主义恐惧笼罩的时期，受惊吓的公民往往令人痛心地甘愿拿他们来之不易的公民自由做交易，以换取集体心理保护的诱人假象。"
+  },
+  {
+    "id": "tem8_c5_28",
+    "group_id": 129,
+    "group_name": "barter, swap, sub, swop",
+    "level": "TEM-8",
+    "target_word": "sub",
+    "question": "When the lead experimenter was unexpectedly incapacitated by a migraine, a senior postdoctoral fellow had to temporarily ___ for him during the intricate neuroimaging trials.",
+    "options": [
+      "barter",
+      "swap",
+      "sub",
+      "swop"
+    ],
+    "answer": "sub",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为固定介词搭配 temporarily ___ for him（临时顶替/替补某人工作）。",
+    "distractor_analysis": {
+      "sub": "v. 固定搭配 sub for sb（substitute 的简写动词化用法），专指临时顶替、充当替补角色。",
+      "barter": "v. 意为以物易物，不能接 for sb 表顶替某人，语义荒谬。",
+      "swap": "v. 意为交换，表示交换须接 swap with sb，不能接 for him 表示替班顶岗。",
+      "swop": "v. 含义同 swap，介词搭配断裂。"
+    },
+    "translation": "当首席实验员因偏头痛突发丧失工作能力时，一名资深博士后研究员不得不在复杂的神经影像实验中临时替他顶班。"
+  },
+  {
+    "id": "tem8_c5_29",
+    "group_id": 130,
+    "group_name": "bash, bop, whop, whap",
+    "level": "TEM-8",
+    "target_word": "bash",
+    "question": "Rather than engaging with the nuanced empirical arguments, demagogues frequently prefer to verbally ___ their political adversaries, exploiting primal tribal hatreds to consolidate ideological loyalty among their followers.",
+    "options": [
+      "bash",
+      "bop",
+      "whop",
+      "whap"
+    ],
+    "answer": "bash",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 verbally ___ their political adversaries（言辞攻讦/口诛笔伐政敌的政治心理学隐喻）。",
+    "distractor_analysis": {
+      "bash": "v. 专用于政治与公共论战中表示猛烈抨击、口诛笔伐（verbally bash someone/bashing adversaries），兼具力量感与外刊修辞色彩。",
+      "bop": "v. 意为轻拍或跳轻快流行舞，无法用于残酷的政治言辞攻讦。",
+      "whop": "v. 专指物理意义上的重击（如用重物打击），缺乏政治传媒中定型的言辞攻击引申义。",
+      "whap": "v. 意为啪的一声重拍，纯属物理击打动作拟声，不能用于口头讨伐。"
+    },
+    "translation": "煽动家们往往不愿深究细致的经验论据，而是更喜欢在言辞上肆意痛击其政治对手，利用原始的部族仇恨来巩固追随者的意识形态忠诚。"
+  },
+  {
+    "id": "tem8_c5_30",
+    "group_id": 130,
+    "group_name": "bash, bop, whop, whap",
+    "level": "TEM-8",
+    "target_word": "bop",
+    "question": "Neuroscientists studying auditory-motor entrainment observed that infant subjects instinctively began to ___ their heads to the syncopated jazz rhythm, demonstrating innate human sensitivity to musical tempo.",
+    "options": [
+      "bash",
+      "bop",
+      "whop",
+      "whap"
+    ],
+    "answer": "bop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为音乐认知神经经典搭配 ___ their heads to the syncopated jazz rhythm（随着节拍欢快点头律动）。",
+    "distractor_analysis": {
+      "bop": "v. 经典定型搭配 bop one's head to the rhythm/music，专指随着动感节拍轻快地上下晃头律动。",
+      "bash": "v. 意为猛烈撞击（bash one's head 将头砸破），若代入产生血腥残酷的自残荒谬语义，逻辑彻底倒错。",
+      "whop": "v. 意为重重抽打，无法形容随节拍律动的轻快动作。",
+      "whap": "v. 意为拍击并发出响声，与儿童听音乐的自然节律反应风马牛不相及。"
+    },
+    "translation": "研究听觉-运动协同的神经科学家观察到，婴儿受试者本能地随着切分爵士节奏点头律动，展示了人类对音乐节拍的先天敏感性。"
+  },
+  {
+    "id": "tem8_c5_31",
+    "group_id": 131,
+    "group_name": "aberrant, deviate, deviant, abnormal",
+    "level": "TEM-8",
+    "target_word": "aberrant",
+    "question": "Contemporary neuropsychiatry posits that schizophrenia arises from ___ salience, wherein dysregulated dopamine firing causes neutral, mundane sensory inputs to be perceived as ominously meaningful.",
+    "options": [
+      "aberrant",
+      "deviate",
+      "deviant",
+      "abnormal"
+    ],
+    "answer": "aberrant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为精神病理学核心专有名词 ___ salience（异常显著性假说 - Aberrant Salience Hypothesis）。",
+    "distractor_analysis": {
+      "aberrant": "adj. 精神医学专有学术术语 aberrant salience（异常显著性），专指神经多巴胺紊乱导致对中性刺激赋予异常病理意义。",
+      "deviate": "adj./v. 在现代学术英语中主要作动词或名词，作前置定语修饰 salience 产生词性与语法破格。",
+      "deviant": "adj. 属于社会学范畴，专指背离社会道德与行为规范的越轨（如 deviant behavior/peer），不用于神经认知生理显著性。",
+      "abnormal": "adj. 泛化非特异词汇，abnormal salience 并非精神病学标准假说术语，缺乏学术严密性。"
+    },
+    "translation": "当代神经精神病学假定，精神分裂症源自“异常显著性”，即多巴胺放电失调导致中性、平常的感官输入被感知为具有凶险深意的信号。"
+  },
+  {
+    "id": "tem8_c5_32",
+    "group_id": 131,
+    "group_name": "aberrant, deviate, deviant, abnormal",
+    "level": "TEM-8",
+    "target_word": "deviant",
+    "question": "Criminological psychologists emphasize that an adolescent's immersion in a ___ peer subculture significantly amplifies antisocial inclinations, systematically legitimizing lawbreaking as an accepted badge of group identity.",
+    "options": [
+      "aberrant",
+      "deviate",
+      "deviant",
+      "abnormal"
+    ],
+    "answer": "deviant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为犯罪心理学定型术语 a ___ peer subculture（越轨同伴亚文化，越轨社会学核心概念）。",
+    "distractor_analysis": {
+      "deviant": "adj. 犯罪学与社会学标准术语 deviant subculture / deviant peers，专指偏离主流社会法纪规范的越轨文化与群体。",
+      "aberrant": "adj. 侧重生物染色体、物理光线或精神生理机制的反常畸变（如 aberrant cells），不用于修饰具有社会制度背反特征的亚文化。",
+      "deviate": "adj./n. 现主要作动词或变态者名词，作前置定语修饰 subculture 发生句法不合。",
+      "abnormal": "adj. 偏向统计学或生物医学异常，无法表达亚文化对社会规范的反叛与对抗性。"
+    },
+    "translation": "犯罪心理学家强调，青少年沉浸在越轨同伴亚文化中会显著放大其反社会倾向，系统性地将违法行为合理化为受认可的群体认同标志。"
+  },
+  {
+    "id": "tem8_c5_33",
+    "group_id": 132,
+    "group_name": "abiding, lasting, enduring, permanent",
+    "level": "TEM-8",
+    "target_word": "abiding",
+    "question": "Decades after their initial estrangement, the elderly philosopher harbored an ___ affection for his mentor, a profound emotional reverence that completely transcended their bitter doctrinal disputes.",
+    "options": [
+      "abiding",
+      "lasting",
+      "enduring",
+      "permanent"
+    ],
+    "answer": "abiding",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 harbored an ___ affection for his mentor（内心深处对导师怀有恒久不渝、深沉执着的深情与敬畏）。",
+    "distractor_analysis": {
+      "abiding": "adj. 专用于修饰深刻的情感、信仰或敬畏（如 abiding affection/faith/reverence），传达出历经风雨而不变质的精神精微度。",
+      "lasting": "adj. 多用于修饰客观影响、和平或外在成就（如 lasting peace/impression），修饰个人内心深层眷恋略显疏离公事化。",
+      "enduring": "adj. 侧重于强调经受住外界严酷考验而经久不衰（如 enduring popularity/appeal），与 harbor 构成的细腻柔情契合度稍逊。",
+      "permanent": "adj. 侧重于物理状态或法律地位的恒久固定（如 permanent address/injury），修饰情感显得机械冰冷。"
+    },
+    "translation": "在最初的决裂过去数十年后，这位年迈的哲学家仍对他的恩师怀有一份历久弥坚的深情，这是一种完全超越了他们激烈教条分歧的深沉情感敬畏。"
+  },
+  {
+    "id": "tem8_c5_34",
+    "group_id": 132,
+    "group_name": "abiding, lasting, enduring, permanent",
+    "level": "TEM-8",
+    "target_word": "permanent",
+    "question": "Neurosurgeons confirmed that the extensive focal stroke had inflicted ___ structural damage upon the left temporal lobe, completely extinguishing the patient's capacity for syntactic speech comprehension.",
+    "options": [
+      "abiding",
+      "lasting",
+      "enduring",
+      "permanent"
+    ],
+    "answer": "permanent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "题眼为神经外科医学病理定性 ___ structural damage upon the temporal lobe（左颞叶不可逆器质性永久损伤）。",
+    "distractor_analysis": {
+      "permanent": "adj. 临床医学专有不可逆诊断术语 permanent structural damage（永久性结构器质损伤），具绝对病理排他性。",
+      "abiding": "adj. 专指精神信念与恒久情感，修饰脑组织物理损伤产生荒诞文体冲突。",
+      "lasting": "adj. 虽表持久，但缺乏医学病理确诊中所要求的“不可逆、永久定性（irreversible permanence）”法定严谨性。",
+      "enduring": "adj. 含有积极“隐忍坚挺、历久弥新”的褒义色彩，修饰破坏性脑损伤造成严重情感色彩倒错。"
+    },
+    "translation": "神经外科医生证实，这场大面积局灶性中风已对左颞叶造成了永久性结构损伤，彻底断绝了该患者理解句法语音的能力。"
+  },
+  {
+    "id": "tem8_c5_35",
+    "group_id": 133,
+    "group_name": "abject, low, scummy, scurvy",
+    "level": "TEM-8",
+    "target_word": "abject",
+    "question": "When confronted with the tribunal's overwhelming incriminating evidence, the once haughty minister was reduced to an ___ state of sniveling terror, offering humiliatingly groveling confessions to spare himself.",
+    "options": [
+      "abject",
+      "low",
+      "scummy",
+      "scurvy"
+    ],
+    "answer": "abject",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 reduced to an ___ state of sniveling terror, offering groveling confessions（卑躬屈膝、万念俱灰的绝望惨境）。",
+    "distractor_analysis": {
+      "abject": "adj. 典雅外刊高级词汇，专指因恐惧、绝望而丧失全部人格尊严的“卑躬屈膝、凄惨绝望”（abject state/terror/apology），后文 groveling 为绝对排他线索。",
+      "low": "adj. 过于泛化通俗，缺乏刻画人格尊严彻底瓦解的深刻修辞力量。",
+      "scummy": "adj. 俚语低俗词（人渣般的、龌龊的），严重破坏外刊学术语境的高雅质感。",
+      "scurvy": "adj. 属于古英语或医学坏血病，作为侮辱词已脱离现代高阶学术政经语境。"
+    },
+    "translation": "当面对法庭压倒性的确凿罪证时，这位曾经傲慢的部长沦为一种抽泣惊恐的卑微凄惨境地，做出屈辱至极的摇尾乞怜式忏悔以求自保。"
+  },
+  {
+    "id": "tem8_c5_36",
+    "group_id": 133,
+    "group_name": "abject, low, scummy, scurvy",
+    "level": "TEM-8",
+    "target_word": "scurvy",
+    "question": "In eighteenth-century moral treatises, ethicists universally castigated the informant's deceit as a ___ trick unworthy of any gentleman, illustrating the era's uncompromising obsession with chivalric honor.",
+    "options": [
+      "abject",
+      "low",
+      "scummy",
+      "scurvy"
+    ],
+    "answer": "scurvy",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼为 eighteenth-century moral treatises 与 a ___ trick unworthy of any gentleman（18世纪英国经典道德斥责短语 a scurvy trick）。",
+    "distractor_analysis": {
+      "scurvy": "adj. 历史文学经典定式 a scurvy trick（下流龌龊的卑鄙诡计），题干“18世纪伦理学论著”与绅士荣誉构成立体时代排他锁定。",
+      "abject": "adj. 侧重当事人自身的凄惨绝望与卑躬屈膝（如 abject poverty/terror），不与 trick 构成此种历史道德谴责搭配。",
+      "low": "adj. 过于现代与口语泛化，无法体现18世纪道德论著的历史厚重感与语体色彩。",
+      "scummy": "adj. 现代俚语口语，在此历史语境中产生荒谬的时代穿梭破格。"
+    },
+    "translation": "在18世纪的道德论著中，伦理学家们普遍将告密者的背信弃义斥为不配称作绅士的下流卑鄙勾当，这说明了那个时代对骑士荣誉毫不妥协的执念。"
+  },
+  {
+    "id": "tem8_c5_37",
+    "group_id": 134,
+    "group_name": "ablaze, aflame, aroused, passionate",
+    "level": "TEM-8",
+    "target_word": "ablaze",
+    "question": "When the whistle-blower exposed the corporation's lethal negligence, the lead prosecutor stood before the jury with eyes ___ with righteous indignation, delivering an electrifying condemnation of corporate greed.",
+    "options": [
+      "ablaze",
+      "aflame",
+      "aroused",
+      "passionate"
+    ],
+    "answer": "ablaze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为文学神态定型搭配 with eyes ___ with righteous indignation（双目怒火中烧、炽烈如焰）。",
+    "distractor_analysis": {
+      "ablaze": "adj. 经典神态修辞搭配 eyes ablaze with (anger/indignation)，专指目光因极度义愤或怒火而灼灼燃烧、光芒炽烈。",
+      "aflame": "adj. 多用于修饰抽象欲望（aflame with desire），英语中极少说 eyes aflame with。",
+      "aroused": "adj. 属于自主神经生理唤醒术语，修饰目光（eyes aroused with）语义怪异且语法不通。",
+      "passionate": "adj. 虽指热情，但不能置于名词 eyes 之后充当后置修饰语（with eyes passionate with 搭配破格）。"
+    },
+    "translation": "当吹哨人揭露了该企业致命的玩忽职守行为时，首席检察官站在陪审团面前，眼中燃烧着义愤的怒火，对企业贪婪做出了令人震撼的控诉。"
+  },
+  {
+    "id": "tem8_c5_38",
+    "group_id": 134,
+    "group_name": "ablaze, aflame, aroused, passionate",
+    "level": "TEM-8",
+    "target_word": "aroused",
+    "question": "Psychophysiological monitoring revealed that individuals with hyperactive sympathetic nervous systems remained chronically in an ___, vigilant state, even when resting in completely benign environments.",
+    "options": [
+      "ablaze",
+      "aflame",
+      "aroused",
+      "passionate"
+    ],
+    "answer": "aroused",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为心理生理学交感神经兴奋术语 in an ___, vigilant state（处于高度激惹唤醒的警觉状态）。",
+    "distractor_analysis": {
+      "aroused": "adj. 神经生物学与心理生理学核心术语（physiologically aroused state），专指自主神经系统处于高唤醒/高激惹状态。",
+      "ablaze": "adj. 专指着火或目光炽烈，不能修饰人体的自主神经生理状态。",
+      "aflame": "adj. 侧重火焰燃烧或情欲如火，用于生理监测术语属于严重语用修辞错位。",
+      "passionate": "adj. 强调主观情感的狂热激情，无法表达交感神经系统的客观生理性兴奋唤醒。"
+    },
+    "translation": "心理生理学监测显示，交感神经系统过度活跃的个体长期处于高度唤醒的警觉状态，即便在完全良性的环境中休息时亦是如此。"
+  },
+  {
+    "id": "tem8_c5_39",
+    "group_id": 135,
+    "group_name": "abominable, execrable, odious, hateful",
+    "level": "TEM-8",
+    "target_word": "odious",
+    "question": "In philosophical ethics, theorists argue that drawing an ___ comparison between unequal moral dilemmas inevitably obscures qualitative ethical distinctions, breeding resentment rather than clarifying justice.",
+    "options": [
+      "abominable",
+      "execrable",
+      "odious",
+      "hateful"
+    ],
+    "answer": "odious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼为哲学与修辞经典定型成语短语 drawing an ___ comparison（进行令人反感的牵强对比 - 源自成语 comparisons are odious）。",
+    "distractor_analysis": {
+      "odious": "adj. 专有经典成语搭配 odious comparison（引人厌恶、不合时宜的对比），源自古老哲理格言，具排他性搭配特权。",
+      "abominable": "adj. 语义过重，专指令人发指的残暴行径或极度恶劣的天气（如 abominable crime），不能修饰 comparison。",
+      "execrable": "adj. 专指质量低劣拙劣（execrable taste/art），不能用于修饰伦理比附。",
+      "hateful": "adj. 侧重充满仇恨的（hateful speech），无法体现引喻失义所造成的厌烦感。"
+    },
+    "translation": "在哲学伦理学中，理论家们指出，在不相等的道德困境之间做引人厌恶的类比，必然会模糊质的伦理差别，滋生怨怼而非厘清正义。"
+  },
+  {
+    "id": "tem8_c5_40",
+    "group_id": 135,
+    "group_name": "abominable, execrable, odious, hateful",
+    "level": "TEM-8",
+    "target_word": "execrable",
+    "question": "Renowned critics dismissed the novelist's self-indulgent psychological memoir as a piece of ___ craftsmanship, decrying its clunky prose, pretentious metaphors, and utter lack of structural discipline.",
+    "options": [
+      "abominable",
+      "execrable",
+      "odious",
+      "hateful"
+    ],
+    "answer": "execrable",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼为 literary criticism 语境下的 a piece of ___ craftsmanship, decrying its clunky prose（痛斥技艺极度拙劣、粗制滥造）。",
+    "distractor_analysis": {
+      "execrable": "adj. 艺术与文学批评专业语域词汇，专指艺术水平或手艺“恶劣至极、拙劣不堪”（execrable craftsmanship/verse/taste）。",
+      "abominable": "adj. 侧重道德层面令人发指的暴行（abominable atrocities），用于批评文学技艺低劣属于大词小用与文体错位。",
+      "odious": "adj. 侧重令人反感憎恶的人格品性或对比，不用于形容艺术手艺水平的粗劣。",
+      "hateful": "adj. 意为充满仇恨的或可恶的，不能用于客观评价工艺造诣之高低。"
+    },
+    "translation": "著名评论家将这位小说家自怨自艾的心理回忆录贬为拙劣至极的工艺之作，痛斥其散文笨拙、隐喻做作且完全缺乏结构纪律。"
+  },
+  {
+    "id": "tem8_c5_41",
+    "group_id": 136,
+    "group_name": "aboveboard, square, straight, straightforward",
+    "level": "TEM-8",
+    "target_word": "aboveboard",
+    "question": "To counteract widespread reproducibility crises, meta-scientists demand that all experimental methodologies and data collection protocols be entirely open and ___, leaving no room for clandestine post-hoc manipulations.",
+    "options": [
+      "aboveboard",
+      "square",
+      "straight",
+      "straightforward"
+    ],
+    "answer": "aboveboard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为经典同义并列固定搭配 open and ___ 及后文排除秘密操纵（leaving no room for clandestine manipulations）。",
+    "distractor_analysis": {
+      "aboveboard": "adj. 专指光明磊落、无欺诈隐瞒，经典双词配对 open and aboveboard（公开透明、光明正大），是学术防欺诈运动的标准用语。",
+      "square": "adj. 虽有公正之意（如 fair and square），但不能与 open 搭配构成 open and square。",
+      "straight": "adj. 意为笔直或坦率，open and straight 非标准学术英语搭配。",
+      "straightforward": "adj. 意为简明易懂，与题干后文强调排斥欺瞒造假（clandestine manipulations）的核心诚信语境不相契合。"
+    },
+    "translation": "为了应对普遍的可重复性危机，元科学家们要求所有实验方法和数据收集方案必须完全公开透明且光明磊落，不留任何暗中事后操纵的余地。"
+  },
+  {
+    "id": "tem8_c5_42",
+    "group_id": 136,
+    "group_name": "aboveboard, square, straight, straightforward",
+    "level": "TEM-8",
+    "target_word": "straightforward",
+    "question": "Cognitive psychologists recommend that public health directives adopt a ___, unembellished instructional format, thereby minimizing cognitive load and preventing debilitating ambiguity among anxious citizens during crises.",
+    "options": [
+      "aboveboard",
+      "square",
+      "straight",
+      "straightforward"
+    ],
+    "answer": "straightforward",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 adopt a ___, unembellished instructional format ... minimizing cognitive load and preventing ambiguity（直截了当、易于理解的说明格式）。",
+    "distractor_analysis": {
+      "straightforward": "adj. 专指指示、信息简单明了、易于理解（straightforward format），直接与消解歧义、降低认知负荷互锁锁定。",
+      "aboveboard": "adj. 专指行事坦荡、无欺诈，在修饰指令格式易懂性上产生语义错位。",
+      "square": "adj. 指正方形或公正，无法形容说明书或政令清晰明了。",
+      "straight": "adj. 词义泛化且多义模糊，不如 straightforward 在认知心理学与人机交互语境中规范精确。"
+    },
+    "translation": "认知心理学家建议公共卫生指令采用直接明了、不加修饰的指导格式，从而在危机期间最大限度减少认知负荷并防止焦虑公民产生消极的歧义困惑。"
+  },
+  {
+    "id": "tem8_c5_43",
+    "group_id": 137,
+    "group_name": "abrasive, rough, unsmooth, scratchy",
+    "level": "TEM-8",
+    "target_word": "abrasive",
+    "question": "Despite the laboratory director's formidable intellectual acumen, his intensely ___ interpersonal manner constantly alienates junior researchers, creating a corrosive workplace climate fraught with interpersonal friction.",
+    "options": [
+      "abrasive",
+      "rough",
+      "unsmooth",
+      "scratchy"
+    ],
+    "answer": "abrasive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 his intensely ___ interpersonal manner 及后文 interpersonal friction（生硬粗暴、伤人感情、容易引发人际摩擦的处事风格）。",
+    "distractor_analysis": {
+      "abrasive": "adj. 专用于刻画人物性格风格“生硬伤人、令人摩擦不适”（abrasive manner/personality），后文 interpersonal friction 是绝妙隐喻照应。",
+      "rough": "adj. 意为粗糙或粗鲁，但修饰人际作风时（rough manner）远不如 abrasive 专指那种“如砂纸般磨损人际关系”的攻击性特质。",
+      "unsmooth": "adj. 极罕见生造词，仅描述物理表面不平滑，修饰人际风格产生严重语用破格。",
+      "scratchy": "adj. 专指织物发痒或嗓音嘶哑，不能修饰职场人际处事风格。"
+    },
+    "translation": "尽管这位实验室主任拥有令人敬畏的敏锐才智，但他极其粗暴伤人的人际交往风格却不断疏远年轻研究员，营造了一种充满人际摩擦的恶劣职场氛围。"
+  },
+  {
+    "id": "tem8_c5_44",
+    "group_id": 137,
+    "group_name": "abrasive, rough, unsmooth, scratchy",
+    "level": "TEM-8",
+    "target_word": "scratchy",
+    "question": "In sensory perception experiments, participants subjected to continuous ___ audio frequencies demonstrated a sharp spike in cortisol levels, corroborating the hypothesis that grating acoustic stimuli trigger acute stress.",
+    "options": [
+      "abrasive",
+      "rough",
+      "unsmooth",
+      "scratchy"
+    ],
+    "answer": "scratchy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为声学感知实验中的 ___ audio frequencies 与后文 grating acoustic stimuli（带有刺耳沙沙摩擦杂音的音频信号）。",
+    "distractor_analysis": {
+      "scratchy": "adj. 专用于声学感知中指声音粗糙刺耳、带有沙沙摩擦杂音（scratchy audio/sound），契合后文 grating acoustic stimuli。",
+      "abrasive": "adj. 虽指令人不快，但在物理与声学中不直接修饰音频信号（audio frequencies）。",
+      "rough": "adj. 泛指声音粗重，但在修饰实验音频信号的毛刺感时远不如 scratchy 具有声学物理特异性。",
+      "unsmooth": "adj. 机械物理表面词汇，修饰声波音频极度生硬别扭。"
+    },
+    "translation": "在感官知觉实验中，遭受持续粗糙刺耳音频刺激的参与者皮质醇水平急剧上升，证实了刺耳声学刺激会引发急性应激的假说。"
+  },
+  {
+    "id": "tem8_c5_45",
+    "group_id": 138,
+    "group_name": "abusive, offensive, scurrilous, opprobrious",
+    "level": "TEM-8",
+    "target_word": "abusive",
+    "question": "Contemporary organizational psychologists have extensively documented that ___ supervision in corporate hierarchies precipitates severe psychological distress among subordinates, ultimately triggering heightened employee burnout and turnover.",
+    "options": [
+      "abusive",
+      "offensive",
+      "scurrilous",
+      "opprobrious"
+    ],
+    "answer": "abusive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为管理心理学与组织行为学世界级权威术语 ___ supervision（辱虐管理/虐待型监管 - Tepper, 2000）。",
+    "distractor_analysis": {
+      "abusive": "adj. 组织行为学标准学术术语 abusive supervision（辱虐管理），具备独占性专有搭配地位，在职场心理剖析中不可替代。",
+      "offensive": "adj. 虽表冒犯的，但管理心理学中无 offensive supervision 这一标准学术概念。",
+      "scurrilous": "adj. 专指恶毒诽谤造谣的言辞（scurrilous rumors），不能修饰上级对下级的监管模式。",
+      "opprobrious": "adj. 专指侮辱性称谓或辱骂言辞（opprobrious epithets），修饰 supervision 产生概念范畴错误。"
+    },
+    "translation": "当代组织心理学家已大量证实，企业层级制度中的“辱虐管理”会在下属中引发严重的心理痛苦，最终导致员工职业倦怠和离职率显著上升。"
+  },
+  {
+    "id": "tem8_c5_46",
+    "group_id": 138,
+    "group_name": "abusive, offensive, scurrilous, opprobrious",
+    "level": "TEM-8",
+    "target_word": "scurrilous",
+    "question": "To discredit the pioneering cognitive theorist, hostile political tabloids launched a campaign of ___ allegations, fabricating lurid personal scandals to divert public attention from his revolutionary empirical findings.",
+    "options": [
+      "abusive",
+      "offensive",
+      "scurrilous",
+      "opprobrious"
+    ],
+    "answer": "scurrilous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼为 hostile political tabloids 与 fabricating lurid personal scandals（小报捏造低俗丑闻进行诽谤中伤的恶毒指控）。",
+    "distractor_analysis": {
+      "scurrilous": "adj. 专用于媒体与政治构陷中指“捏造下流丑闻、恶毒诽谤中伤的”（scurrilous allegations/attacks），后文 fabricating lurid scandals 是绝对排他线索。",
+      "abusive": "adj. 侧重当面语言辱骂或家庭/职场虐待（abusive language/relationship），不特指针对公众人物捏造低俗丑闻的媒体诽谤指控。",
+      "offensive": "adj. 偏向主观感受上的令人不悦，缺乏刻画虚假诽谤造谣的法理与政治修辞色彩。",
+      "opprobrious": "adj. 专指带有耻辱意味的侮辱性称谓（opprobrious epithets），无法与造谣丑闻构陷的 allegations 构成定型搭配。"
+    },
+    "translation": "为了抹黑这位开创性的认知理论家，敌对的政治小报发起了一场恶毒诽谤的指控运动，捏造耸人听闻的个人丑闻以转移公众对其革命性经验发现的注意力。"
+  }
+]

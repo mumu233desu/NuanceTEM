@@ -1,205 +1,1066 @@
 [
   {
     "id": "tem8_pro_001",
-    "group_id": 101,
-    "group_name": "alleviate, mitigate, palliate, soothe",
+    "group_id": 1,
+    "group_name": "palliate, mitigate, alleviate, soothe",
     "level": "TEM-8",
     "target_word": "palliate",
-    "question": "The economic reform was merely a temporary compromise intended to ___ the acute social discontent rather than solve the underlying crisis.",
+    "question": "The emergency subsidies announced by the coalition government merely served to ___ mounting public discontent rather than resolve the underlying structural inequalities that had destabilized the sovereign economy.",
     "options": [
-      "alleviate",
-      "mitigate",
       "palliate",
+      "mitigate",
+      "alleviate",
       "soothe"
     ],
     "answer": "palliate",
     "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_NUANCE",
     "field": "FIELD_CHANGE",
-    "anchor_clue": "后文 'rather than solve the underlying crisis'（而非解决根本危机）是绝对排他线索，专指治标不治本的敷衍妥协。",
+    "anchor_clue": "后文 'rather than resolve the underlying structural inequalities'（而非解决根本性结构不公）构成核心排他线索，专指治标不治本、掩盖或暂时缓和矛盾而未能根治问题。",
     "distractor_analysis": {
-      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协来暂时缓和尖锐矛盾或病痛（后文 rather than solve 形成绝对排他）。",
-      "alleviate": "v. 侧重实质性减轻痛苦、贫困或紧迫症状（alleviate poverty/suffering），而非虚与委蛇的治标敷衍。",
-      "mitigate": "v. 常用于法律、风险、气候等政经领域，指主动降低危害严重性（mitigate the impact/risk），不合治标妥协的语境。",
-      "soothe": "v. 侧重抚慰神经、平息焦虑或缓和肉体灼痛，偏向生理或感官的安抚。"
+      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协或临时补救暂时缓和症状或社会矛盾，但无法从根本上消除危机根源，与后文 'rather than resolve the underlying structural inequalities' 构成绝对逻辑互锁。",
+      "mitigate": "v. 指“减轻、缓和”危害、损失或系统性风险的严重程度（如 mitigate systemic risks/losses），强调客观风险或破坏力的减弱，不带“治标不治本、敷衍塞责”的消极批判贬义色彩。",
+      "alleviate": "v. 指“缓解、减轻”身体疼痛、心理苦难或客观沉重负担（如 alleviate poverty/suffering），通常蕴含正面积极的纾困意图，不用于形容政治上的敷衍姑息。",
+      "soothe": "v. 指“抚慰、安抚”情绪或平息局部生理灼痛，语域多偏向感性安抚或人际心理层面，置于宏观国家政经社论语境中文体风格不契合。"
     },
-    "translation": "这项经济改革只是一种权宜妥协，旨在姑息缓和尖锐的社会不满情绪，而不是解决根本危机。",
+    "translation": "联合政府宣布的紧急补贴不过是为了敷衍暂时平息日益高涨的公众不满，而非真正解决动摇国家经济稳定的根本性结构不公。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "后文 'rather than solve the underlying crisis'（而非解决根本危机）是绝对排他线索，专指治标不治本的敷衍妥协。",
-    "legacy_id": "tem8_1_1"
+    "taxonomy_notes": "后文 'rather than resolve the underlying structural inequalities'（而非解决根本性结构不公）构成核心排他线索，专指治标不治本、掩盖或暂时缓和矛盾而未能根治问题。",
+    "legacy_id": "tem8_001"
   },
   {
     "id": "tem8_pro_002",
-    "group_id": 103,
-    "group_name": "disparage, denigrate, belittle, deprecate",
+    "group_id": 7,
+    "group_name": "aggravate, exacerbate, worsen, inflame",
     "level": "TEM-8",
-    "target_word": "denigrate",
-    "question": "The political campaign took a malicious turn when the rival party launched ads designed to completely ___ the candidate's moral integrity and character.",
+    "target_word": "inflame",
+    "question": "The premier’s incendiary televised address regarding ancestral borders was calculated to ___ sectarian passions, mobilizing militant partisans ahead of the parliamentary vote.",
     "options": [
-      "disparage",
-      "denigrate",
-      "belittle",
-      "deprecate"
+      "inflame",
+      "exacerbate",
+      "aggravate",
+      "worsen"
     ],
-    "answer": "denigrate",
+    "answer": "inflame",
     "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_REGISTER",
-    "field": "FIELD_STANCE",
-    "anchor_clue": "修饰政治竞选中恶意攻击对手的名誉与道德操守（malicious, moral integrity and character）。",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语形容词 'incendiary'（煽动性的/燃烧性的）与宾语 'sectarian passions'（宗派主义狂热情绪）构成生动的火性隐喻，inflame passions 是经典固定动宾搭配。",
     "distractor_analysis": {
-      "denigrate": "v. 词源含有“抹黑、玷污”之意，语气极重，专门搭配并恶意攻击他人名誉、人格、品德（denigrate integrity/character）。",
-      "belittle": "v. 侧重在言语上“轻视、贬低他人成就的价值”（belittle sb.'s achievements）。",
-      "disparage": "v. 侧重不公平地轻蔑评价某事物的质量或地位。",
-      "deprecate": "v. 侧重表示强烈反对或自谦地自我贬抑（self-deprecating）。"
+      "inflame": "v. 含有如火如荼、点燃狂热烈火的比喻义，与前文 'incendiary'（如火煽动的）及后文 'passions'（激情狂热）构成天衣无缝的修辞与语义互锁（inflame passions/sentiment）。",
+      "exacerbate": "v. 意为加剧严峻形势或恶化客观问题（如 exacerbate the deficit/crisis），与激情、情绪（passions）搭配不当，亦丧失了与 incendiary 呼应的生动比喻色彩。",
+      "aggravate": "v. 意为加重伤情或使问题更为沉重，不与 passions 搭配（无 aggravate passions 之说）。",
+      "worsen": "v. 及物动词意为使恶化，语义平淡普通，无法与煽动情绪、引爆党派狂热的政治鼓动语境相匹配。"
     },
-    "translation": "当对手政党投放旨在彻底玷污抹黑该候选人道德操守与人品的恶意广告时，这场政治竞选变了味。",
+    "translation": "总理就祖传边界问题发表的煽动性电视讲话旨在点燃宗派狂热情绪，以便在议会投票前动员激进的党派支持者。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "修饰政治竞选中恶意攻击对手的名誉与道德操守（malicious, moral integrity and character）。",
-    "legacy_id": "tem8_3_1"
+    "taxonomy_notes": "主语形容词 'incendiary'（煽动性的/燃烧性的）与宾语 'sectarian passions'（宗派主义狂热情绪）构成生动的火性隐喻，inflame passions 是经典固定动宾搭配。",
+    "legacy_id": "tem8_014"
   },
   {
     "id": "tem8_pro_003",
-    "group_id": 105,
-    "group_name": "equivocal, ambiguous, obscure, enigmatic",
+    "group_id": 17,
+    "group_name": "vilify, malign, slander, defame",
     "level": "TEM-8",
-    "target_word": "equivocal",
-    "question": "When questioned about his direct involvement in the financial scandal, the minister deliberately gave an ___ response to evade taking a firm stance.",
+    "target_word": "vilify",
+    "question": "State-controlled broadcasts launched a coordinated campaign to ___ political dissidents, portraying them as treasonous foreign agents seeking to destabilize national sovereignty.",
     "options": [
-      "equivocal",
-      "ambiguous",
-      "obscure",
-      "enigmatic"
+      "vilify",
+      "malign",
+      "slander",
+      "defame"
     ],
-    "answer": "equivocal",
+    "answer": "vilify",
     "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_NUANCE",
-    "field": "FIELD_COGNITION",
-    "anchor_clue": "副词 'deliberately'（故意地）与目的 'to evade taking a firm stance'（以逃避表态），唯一锁定政客故意含糊其辞。",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文伴随状语 'portraying them as treasonous foreign agents...'（将他们描绘成企图颠覆国家主权的叛国外国特务），以极端妖魔化、贬损为罪大恶极邪恶化身专指 vilify（vilis = 邪恶丑陋）。",
     "distractor_analysis": {
-      "equivocal": "adj. 专指“主观上故意含糊其辞、模棱两可”（deliberately evasive），旨在推卸责任或避开正面回答（后文 deliberately 和 evade 为决定性线索）。",
-      "ambiguous": "adj. 侧重客观表达存在多种理解（可能是无意造成的歧义）。",
-      "obscure": "adj. 侧重信息晦涩艰深、难以理解，或者鲜为人知。",
-      "enigmatic": "adj. 侧重如同谜团一般神秘、令人捉摸不透（如 an enigmatic smile）。"
+      "vilify": "v. 强调在宣传媒介上以极具攻击性、污名化的恶毒字眼将人“妖魔化、痛斥为罪恶昭彰之徒”（MW 原生释义：to speak of as wicked : DEFAME），精准契合将异见人士污名化为叛国特务的政治迫害宣传特征。",
+      "malign": "v. 侧重在背后恶意说人坏话或中伤散布有害谣言，情感冲击力与国家机器发动的“妖魔化（vilify）”运动相比烈度不足。",
+      "slander": "v. 严格法律侵权术语，专指通过“口头言语”进行的虚假陈述诽谤（口头诽谤），而国家广播电视属于广播媒体公开宣传（在英美侵权法中广播等同于永久性形式的 libel），不能用 slander 概括政治舆论战上的系统性妖魔化。",
+      "defame": "v. 泛指在民事法理上破坏名誉，属于冷峻客观的中性法学侵权词汇，无法生动体现后文将其刻画为叛国极端恶魔的“妖魔化贬斥”情感色彩。"
     },
-    "translation": "当被问及他是否直接卷入这起金融丑闻时，部长故意给出了模棱两可的回答，以回避采取明确立场。",
+    "translation": "国家控制的广播电视发起了一场协同宣传攻势，大肆妖魔化政治异见人士，将他们描绘成企图动摇国家主权的叛国外国特务。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "副词 'deliberately'（故意地）与目的 'to evade taking a firm stance'（以逃避表态），唯一锁定政客故意含糊其辞。",
-    "legacy_id": "tem8_5_1"
+    "taxonomy_notes": "后文伴随状语 'portraying them as treasonous foreign agents...'（将他们描绘成企图颠覆国家主权的叛国外国特务），以极端妖魔化、贬损为罪大恶极邪恶化身专指 vilify（vilis = 邪恶丑陋）。",
+    "legacy_id": "tem8_033"
   },
   {
     "id": "tem8_pro_004",
-    "group_id": 108,
-    "group_name": "ubiquitous, pervasive, omnipresent, widespread",
-    "level": "TEM-8",
-    "target_word": "pervasive",
-    "question": "The stench of industrial pollution was so ___ throughout the valley that residents could smell it even inside tightly sealed rooms.",
-    "options": [
-      "ubiquitous",
-      "pervasive",
-      "omnipresent",
-      "widespread"
-    ],
-    "answer": "pervasive",
-    "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_COLLOCATION",
-    "field": "FIELD_NATURE",
-    "anchor_clue": "修饰恶臭且具有穿透性 'stench ... could smell it even inside tightly sealed rooms'，消极渗透语义韵。",
-    "distractor_analysis": {
-      "pervasive": "adj. 侧重于气味、思想、氛围像气体一样“无孔不入、渗透弥漫”（pervasive stench/influence，后文 smell inside tightly sealed 强关联）。",
-      "ubiquitous": "adj. 侧重实体物品“随处可见”（如 smartphones are ubiquitous），不形容气味的渗透性。",
-      "omnipresent": "adj. 偏宗教或哲学意义上的“无所不在”（如 God is omnipresent）。",
-      "widespread": "adj. 侧重地理分布范围广阔（如 widespread damage/criticism）。"
-    },
-    "translation": "工业污染的恶臭在整个山谷中弥漫渗透，以至于居民即使在紧闭门窗的室内也能闻到。",
-    "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "修饰恶臭且具有穿透性 'stench ... could smell it even inside tightly sealed rooms'，消极渗透语义韵。",
-    "legacy_id": "tem8_8_1"
-  },
-  {
-    "id": "tem8_pro_005",
-    "group_id": 109,
-    "group_name": "placate, appease, mollify, propitiate",
-    "level": "TEM-8",
-    "target_word": "appease",
-    "question": "History has repeatedly demonstrated that yielding sovereignty in a desperate attempt to ___ an aggressive dictator only invites further subjugation.",
-    "options": [
-      "placate",
-      "appease",
-      "mollify",
-      "propitiate"
-    ],
-    "answer": "appease",
-    "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_REGISTER",
-    "field": "FIELD_RELATION",
-    "anchor_clue": "地缘政治与割让主权妥协侵略者 'yielding sovereignty ... to an aggressive dictator'，政经绥靖消极语义韵。",
-    "distractor_analysis": {
-      "appease": "v. 国际政治与历史经典专有术语，专指“绥靖政策（appeasement）”，通过违背原则的屈服妥协来姑息侵略者。",
-      "propitiate": "v. 祭祀供奉以取悦神明，不用于国际政局对独裁者的妥协。",
-      "mollify": "v. 抚慰受伤自尊或肉体创伤，语域不符。",
-      "placate": "v. 安抚商业或日常争端中的不满者，语体不够深沉严肃。"
-    },
-    "translation": "历史屡次证明，试图通过让渡主权来苟安绥靖侵略成性的独裁者，只会招致进一步的奴役与征服。",
-    "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "地缘政治与割让主权妥协侵略者 'yielding sovereignty ... to an aggressive dictator'，政经绥靖消极语义韵。",
-    "legacy_id": "tem8_9_2"
-  },
-  {
-    "id": "tem8_pro_006",
-    "group_id": 114,
+    "group_id": 22,
     "group_name": "sensuous, sensual, aesthetic, voluptuous",
     "level": "TEM-8",
     "target_word": "sensual",
-    "question": "The decadent Roman banquets were notorious for indulging guests in pure, unbridled ___ excess, devoid of any intellectual or moral restraint.",
+    "question": "Critics condemned the authoritarian court's hedonistic lifestyle, accusing the sovereign elite of indulging in extravagant, ___ pleasures while the civilian populace endured catastrophic famine.",
+    "options": [
+      "sensual",
+      "sensuous",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "answer": "sensual",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "批判定性与对比 'hedonistic lifestyle... indulging in extravagant, ___ pleasures while the civilian populace endured catastrophic famine'（沉溺于享乐主义生活方式，在平民饱受饥荒之际沉迷于肉体肉欲享乐），带有道德贬义的肉欲纵欲享乐专指 sensual。",
+    "distractor_analysis": {
+      "sensual": "adj. 带有强烈的道德谴责色彩，专指“肉体上的、感官肉欲的、肉欲享乐的”（WordNet：marked by the appetites and passions of the body : carnal），精准对应后文在饥荒中骄奢淫逸的沉沦批判。",
+      "sensuous": "adj. 专指通过感官欣赏艺术、音乐、自然所获得的“纯粹美感享受”（Milton 首创以区别于肉欲贬义词 sensual），带有褒义审美色彩，不可用于批判专制统治者荒淫无道的肉欲享乐。",
+      "aesthetic": "adj. 意为美学的、审美的，与荒淫残暴的肉欲贪图享乐南辕北辙。",
+      "voluptuous": "adj. 侧重指女性形体丰满性感或生活极度奢侈豪华，修饰 pleasures 时不及 sensual 具备专八经典考点中对“肉欲享乐 vs 审美感官（sensual vs sensuous）”的严谨二元哲学对立辨析。"
+    },
+    "translation": "批评人士谴责该专制宫廷的享乐主义生活方式，指责统治精英在平民忍受灾难性饥荒之际，却沉溺于奢靡的肉欲享乐之中。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "批判定性与对比 'hedonistic lifestyle... indulging in extravagant, ___ pleasures while the civilian populace endured catastrophic famine'（沉溺于享乐主义生活方式，在平民饱受饥荒之际沉迷于肉体肉欲享乐），带有道德贬义的肉欲纵欲享乐专指 sensual。",
+    "legacy_id": "tem8_043"
+  },
+  {
+    "id": "tem8_pro_005",
+    "group_id": 22,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "level": "TEM-8",
+    "target_word": "sensuous",
+    "question": "The state pavilion was celebrated for its ___ architectural elegance, immersing visiting diplomats in a harmonious interplay of flowing water, natural timber, and ambient light.",
     "options": [
       "sensuous",
       "sensual",
       "aesthetic",
       "voluptuous"
     ],
-    "answer": "sensual",
+    "answer": "sensuous",
     "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_NUANCE",
     "field": "FIELD_COGNITION",
-    "anchor_clue": "修饰奢靡宴席的纯粹肉体感官放纵 'decadent banquets ... unbridled sensual excess, devoid of moral restraint'。",
+    "anchor_clue": "后文细节描述 'immersing visiting diplomats in a harmonious interplay of flowing water, natural timber, and ambient light'（让外交官沉浸于流水、原木与光影的和谐交织中），通过视听触觉引发的高雅美感享受专指 sensuous。",
     "distractor_analysis": {
-      "sensual": "adj. 专指“肉体的、肉欲享乐的”（结合 decadent banquets 与 devoid of moral restraint 为绝对线索）。",
-      "sensuous": "adj. 强调艺术文学中的纯洁通感美，绝不用于纸醉金迷的肉体放纵贬义语境。",
-      "aesthetic": "adj. 审美的、艺术的，语意截然相反。",
-      "voluptuous": "adj. 常修饰女性身材体态丰满婀娜，不直接搭配 abstract excess。"
+      "sensuous": "adj. 专指通过五官感官体验（光线、流水触感、木纹视觉）给精神带来高雅纯洁的“美感愉悦”（MW：characterized by sense impressions or imagery aimed at the senses），无任何肉欲沉沦杂质，精准契合建筑艺术殿堂的高雅审美体验。",
+      "sensual": "adj. 专指放纵肉体肉欲（carnal lust），用于赞美国家展馆的高雅建筑艺术风格属于严重贬义倒错与语义破格。",
+      "aesthetic": "adj. 后文已有名词 elegance，若作 'aesthetic architectural elegance' 存在严重的用词同义叠床架屋（aesthetic 与 elegance 语义高度重叠冗余）。",
+      "voluptuous": "adj. 强调妖娆肉感或纵欲奢华，不能用来形容由流水、原木与漫射光构成的空灵静谧的建筑之美。"
     },
-    "translation": "罗马帝国颓废时期的宴会以沉溺于纯粹、肆无忌惮的肉欲享乐而臭名昭著，毫无任何精神追求或道德约束。",
+    "translation": "该国国家馆因其极具感官美感的建筑风雅而备受赞誉，让来访的外交官沉浸于流水、原木与漫射光的和谐交响之中。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "修饰奢靡宴席的纯粹肉体感官放纵 'decadent banquets ... unbridled sensual excess, devoid of moral restraint'。",
-    "legacy_id": "tem8_14_2"
+    "taxonomy_notes": "后文细节描述 'immersing visiting diplomats in a harmonious interplay of flowing water, natural timber, and ambient light'（让外交官沉浸于流水、原木与光影的和谐交织中），通过视听触觉引发的高雅美感享受专指 sensuous。",
+    "legacy_id": "tem8_044"
+  },
+  {
+    "id": "tem8_pro_006",
+    "group_id": 24,
+    "group_name": "specious, spurious, fallacious, plausible",
+    "level": "TEM-8",
+    "target_word": "specious",
+    "question": "The envoy dismissed the rogue regime's legal justification as merely a ___ argument, which possessed an alluring veneer of procedural legitimacy but masked blatant revanchist ambitions.",
+    "options": [
+      "specious",
+      "spurious",
+      "fallacious",
+      "plausible"
+    ],
+    "answer": "specious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'possessed an alluring veneer of procedural legitimacy but masked blatant revanchist ambitions'（表面具有诱人的正当性外衣，实则包藏侵略野心）是绝对排他线索，专指外表似是而非、极具迷惑性欺骗性的论调。",
+    "distractor_analysis": {
+      "specious": "adj. 专指“似是而非的、华而不实的”，表面看似合情合理、极具吸引力或正当性（alluring veneer），但经不起实质推敲且暗藏欺骗，与句意中‘以程序合法外衣掩盖扩张野心’形成绝对语义互锁。",
+      "spurious": "adj. 强调“伪造的、私生非正统的、虚假的”，侧重于来源或实质的非法造假（如 spurious documents/correlations），而非强调表面具有迷人的合理性外表。",
+      "fallacious": "adj. 侧重于逻辑学意义上的“谬误的、推论不成立的”（containing a formal fallacy/unsound reasoning），侧重逻辑论证的推导破裂，不强调表面具有迷惑性的华丽诱人外表。",
+      "plausible": "adj. 意为“看似合情合理的、可信的”，多为中性或正面评价（plausible explanation），在此处若代入则与后半句揭露其包藏侵略野心的强批判语境相矛盾。"
+    },
+    "translation": "特使驳斥了该非法政权的法律辩词，称其不过是似是而非的狡辩——表面上裹着一层诱人的程序合法性外衣，实则掩盖着明目张胆的领土复仇野心。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'possessed an alluring veneer of procedural legitimacy but masked blatant revanchist ambitions'（表面具有诱人的正当性外衣，实则包藏侵略野心）是绝对排他线索，专指外表似是而非、极具迷惑性欺骗性的论调。",
+    "legacy_id": "tem8_047"
   },
   {
     "id": "tem8_pro_007",
-    "group_id": 116,
-    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "group_id": 27,
+    "group_name": "astute, shrewd, perspicacious, sagacious",
     "level": "TEM-8",
-    "target_word": "degenerate",
-    "question": "What began as a civilized intellectual debate soon ___ into a chaotic brawl marked by personal insults and petty vitriol.",
+    "target_word": "astute",
+    "question": "Through ___ diplomatic maneuvering at the summit, the chief negotiator exploited emerging fissures among allied creditor nations, successfully renegotiating the sovereign debt package without surrendering energy assets.",
     "options": [
-      "deteriorate",
-      "degenerate",
-      "retrogress",
-      "decline"
+      "astute",
+      "sagacious",
+      "perspicacious",
+      "shrewd"
     ],
-    "answer": "degenerate",
+    "answer": "astute",
     "primary_mechanism": "MECH_CONNOTATION",
-    "secondary_mechanism": "MECH_COLLOCATION",
-    "field": "FIELD_CHANGE",
-    "anchor_clue": "固定搭配 'degenerate into' 蜕变堕落成低级下流的混乱打斗，贬义语义韵强烈。",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "与 'diplomatic maneuvering'（外交折冲博弈）搭配，后文紧跟 'exploited emerging fissures... renegotiating sovereign debt without surrendering energy assets'，体现极强硬核、讲求实效的政治敏锐手腕。",
     "distractor_analysis": {
-      "degenerate": "v. 侧重性质、品格或事态“蜕化、堕落、恶化退化为低劣下流的状态”（固定介词搭配 degenerate into insults/chaos）。",
-      "deteriorate": "v. 侧重客观状况、健康、天气或关系的“恶化变糟”，不常接 into + 混乱低级形式。",
-      "retrogress": "v. 偏向学术用语的“历史或进化倒退”，语境不符。",
-      "decline": "v. 侧重数量、威力或经济实力的“下降、衰退”。"
+      "astute": "adj. 指“机敏的老练的、精于政治算计的”（practical, hardheaded intelligence），在国际谈判与政治博弈中修饰 diplomatic maneuvering 为标准权威搭配。",
+      "sagacious": "adj. 指高尚深邃的睿智与长远哲理智慧，过分庄严崇高，无法贴切修饰分化债权国裂隙、夺取具体利益的硬派外交战术周旋。",
+      "perspicacious": "adj. 侧重眼光独到、洞察力敏锐，主要形容人本身的察言观色与认知穿透力，通常不修饰 dynamic 政治行动（maneuvering）。",
+      "shrewd": "adj. 虽也指精明，但语体较为通俗平实，且常带有自私自利的小聪明或商业逐利色彩，专八政经大报更倾向使用学术级词汇 astute。"
     },
-    "translation": "原本一场文质彬彬的学术辩论，很快就堕落蜕变为一场充斥着人身攻击与狭隘攻讦的混乱混战。",
+    "translation": "凭借在峰会上机敏老练的外交斡旋，首席谈判代表利用了盟国债权国之间初现的裂痕，成功重新商定了主权债务方案，且未割让任何国家能源资产。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "固定搭配 'degenerate into' 蜕变堕落成低级下流的混乱打斗，贬义语义韵强烈。",
-    "legacy_id": "tem8_16_1"
+    "taxonomy_notes": "与 'diplomatic maneuvering'（外交折冲博弈）搭配，后文紧跟 'exploited emerging fissures... renegotiating sovereign debt without surrendering energy assets'，体现极强硬核、讲求实效的政治敏锐手腕。",
+    "legacy_id": "tem8_054"
+  },
+  {
+    "id": "tem8_pro_008",
+    "group_id": 30,
+    "group_name": "nebulous, vague, indistinct, murky",
+    "level": "TEM-8",
+    "target_word": "murky",
+    "question": "The anti-corruption bureau initiated a formal probe into the ___ defense procurement arrangements, suspecting that high-ranking officials had laundered kickbacks through offshore shell corporations.",
+    "options": [
+      "murky",
+      "nebulous",
+      "indistinct",
+      "vague"
+    ],
+    "answer": "murky",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'suspecting that high-ranking officials had laundered kickbacks through offshore shell corporations'（怀疑高官通过离岸空壳公司洗钱收受回扣）提供强烈的道德阴暗、贪腐见不得光色彩。",
+    "distractor_analysis": {
+      "murky": "adj. 专指“晦暗可疑的、暗藏腐败猫腻的”（morally dubious, obscure, shady），常用于形容见不得光的军火采购或金融交易（murky procurement deals/transactions）。",
+      "nebulous": "adj. 侧重概念形态的虚无缥缈、无固定形状，不能表达暗箱操作与贪腐受贿的阴暗隐秘性。",
+      "indistinct": "adj. 仅指视觉/听觉感知上的微弱不分明，无法承载洗钱贪腐的道德贬义批判色彩。",
+      "vague": "adj. 意为“含糊的”，仅指语言表达不明确，不能传递出暗藏非法勾当、浑水摸鱼的贬义情态。"
+    },
+    "translation": "反贪局对这起疑云密布的国防采购协议展开了正式调查，怀疑有高级官员通过离岸空壳公司洗钱并收受巨额回扣。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'suspecting that high-ranking officials had laundered kickbacks through offshore shell corporations'（怀疑高官通过离岸空壳公司洗钱收受回扣）提供强烈的道德阴暗、贪腐见不得光色彩。",
+    "legacy_id": "tem8_060"
+  },
+  {
+    "id": "tem8_pro_009",
+    "group_id": 33,
+    "group_name": "tenacious, obstinate, stubborn, pertinacious",
+    "level": "TEM-8",
+    "target_word": "tenacious",
+    "question": "Owing to the ___ advocacy of indigenous delegates, who clung resolutely to their sovereignty rights despite relentless corporate lobbying, the international biodiversity pact preserved sacred ancestral lands.",
+    "options": [
+      "tenacious",
+      "obstinate",
+      "stubborn",
+      "pertinacious"
+    ],
+    "answer": "tenacious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首赞美性原因状语 'Owing to the ___ advocacy of... who clung resolutely... preserved sacred ancestral lands' 赋予本空强烈的高度正面褒义色彩，专指在逆境中坚韧不拔、持之以恒的崇高品质。",
+    "distractor_analysis": {
+      "tenacious": "adj. 含有高度正面褒奖色彩，指“坚韧不拔的、执着坚守的”（aggressively persistent in pursuing or holding something valued），与代表们在强权下坚守权益并最终取得公约胜利的正面赞颂完全吻合。",
+      "obstinate": "adj. 含有强烈贬义，指“顽固不化的、冥顽不灵的”（stubbornly unreasonable），用于形容正义抗争会导致褒贬色彩严重倒错。",
+      "stubborn": "adj. 多为日常消极评价（固执倔强），缺乏专八政治公文赞扬坚韧意志的学术褒义美感。",
+      "pertinacious": "adj. 侧重于偏执不屈、难缠的固执坚持，常带微贬义或用于贬称对手死缠烂打，不用于由衷赞扬原住民代表维护家园的崇高品质。"
+    },
+    "translation": "归功于原住民代表坚韧不拔的呼吁倡导——尽管面临跨国企业的无情游说，他们仍坚定维护自身主权权益——该国际生物多样性条约最终保护了神圣的祖传领地。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句首赞美性原因状语 'Owing to the ___ advocacy of... who clung resolutely... preserved sacred ancestral lands' 赋予本空强烈的高度正面褒义色彩，专指在逆境中坚韧不拔、持之以恒的崇高品质。",
+    "legacy_id": "tem8_065"
+  },
+  {
+    "id": "tem8_pro_010",
+    "group_id": 33,
+    "group_name": "tenacious, obstinate, stubborn, pertinacious",
+    "level": "TEM-8",
+    "target_word": "obstinate",
+    "question": "Ceasefire talks foundered upon the military junta's ___ refusal to permit international aid convoys into the famine-stricken province, an irrational stance that provoked widespread global condemnation.",
+    "options": [
+      "obstinate",
+      "tenacious",
+      "pertinacious",
+      "stubborn"
+    ],
+    "answer": "obstinate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'refusal to permit international aid convoys... an irrational stance that provoked widespread global condemnation' 明确表达对冥顽不灵、蛮不讲理顽固立场的严正谴责（强贬义）。",
+    "distractor_analysis": {
+      "obstinate": "adj. 强调“冥顽不化的、不可理喻固执己见的”（stubbornly refusing to change one's opinion or course of action despite reason），专用于批评军政府阻挠人道主义援助的不合理蛮横态度。",
+      "tenacious": "adj. 带有正面坚韧、百折不挠的褒义色彩，若用于形容草菅人命的军政府阻挠救援，会导致严重的价值倾向倒错破格。",
+      "pertinacious": "adj. 侧重于针对特定辩论细节或信念的死磕与坚持，较少用于形容国家政权公然违反国际人道主义法的大是大非蛮横抗拒。",
+      "stubborn": "adj. 属于口语和普通生活语域词汇，在体现国际谴责与安理会决议严厉性的学术长难句中语域层级不足。"
+    },
+    "translation": "停火谈判因军政府冥顽不灵地拒绝允许国际救援车队进入饥荒省份而彻底破裂，这一非理性的蛮横立场激起了全世界的广泛谴责。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'refusal to permit international aid convoys... an irrational stance that provoked widespread global condemnation' 明确表达对冥顽不灵、蛮不讲理顽固立场的严正谴责（强贬义）。",
+    "legacy_id": "tem8_066"
+  },
+  {
+    "id": "tem8_pro_011",
+    "group_id": 34,
+    "group_name": "profligate, prodigal, extravagant, spendthrift",
+    "level": "TEM-8",
+    "target_word": "profligate",
+    "question": "The IMF bailout conditioned debt relief on immediate structural overhauls, aiming to curb the corrupt regime's ___ dissipation of sovereign mineral revenues on vanity infrastructure while schools deteriorated.",
+    "options": [
+      "profligate",
+      "prodigal",
+      "extravagant",
+      "spendthrift"
+    ],
+    "answer": "profligate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰 'dissipation of sovereign mineral revenues on vanity infrastructure while schools deteriorated'，揭露腐败政权在民生凋敝时对国家主权财富穷奢极欲、肆意挥霍的严重道德败坏（morally dissipated and wildly extravagant）。",
+    "distractor_analysis": {
+      "profligate": "adj. 专指“肆意挥霍的、穷奢极欲的、毫无节制且道德败坏的”（wildly extravagant, completely given up to dissipation），深度契合政客在公共财政上腐败挥霍、劳民伤财的语境。",
+      "prodigal": "adj. 多含有典故意味（如浪子回头 the prodigal son），侧重出手阔绰或倾囊相授的挥霍，不具备 profligate 对公共财富腐败挥霍的尖锐道德谴责意涵。",
+      "extravagant": "adj. 词义过轻，仅指花费过高或超出预算（exceeding reasonable bounds），缺乏对腐败政权掠夺性挥霍的政治批判深度。",
+      "spendthrift": "adj./n. 多作名词指败家子，作形容词时多指个人理财花钱大手大脚、缺乏储蓄意识，置于宏观主权财政与国际货币基金组织制裁语境中显得文体错位。"
+    },
+    "translation": "国际货币基金组织的救助方案将债务减免与即刻的结构性改革相挂钩，旨在遏制该腐败政权在学校破败凋零之际将主权矿产收入挥霍于面子工程的无度浪费。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修饰 'dissipation of sovereign mineral revenues on vanity infrastructure while schools deteriorated'，揭露腐败政权在民生凋敝时对国家主权财富穷奢极欲、肆意挥霍的严重道德败坏（morally dissipated and wildly extravagant）。",
+    "legacy_id": "tem8_067"
+  },
+  {
+    "id": "tem8_pro_012",
+    "group_id": 35,
+    "group_name": "frugal, parsimonious, penurious, thrifty",
+    "level": "TEM-8",
+    "target_word": "parsimonious",
+    "question": "The UN High Commissioner rebuked wealthy member states for their ___ foreign aid pledges, pointing out that their miserly commitments met barely three percent of emergency famine relief needs.",
+    "options": [
+      "parsimonious",
+      "frugal",
+      "thrifty",
+      "penurious"
+    ],
+    "answer": "parsimonious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'rebuked wealthy member states for their ___ pledges, pointing out that their miserly commitments met barely three percent'，'miserly'（极其吝啬小气）赋予了本空绝对的强烈道德指责与吝啬贬义色彩。",
+    "distractor_analysis": {
+      "parsimonious": "adj. 专指“极其吝啬小气的、一毛不拔的”（excessively unwilling to spend; stingy），在外交语境中修饰富国面对人道灾难时少得可怜的施舍捐助，与 miserly 呼应。",
+      "frugal": "adj. 属于褒义词，指“节俭节约的、朴素的”（reflecting thrift and efficiency），形容正面美德，不能用于专员斥责捐款微薄吝啬的负面批评语境。",
+      "thrifty": "adj. 属于褒义词，指个人或家庭善于精打细算（prudent financial management），完全不符合多边国际人道救济中批评富国抠门的庄严语体。",
+      "penurious": "adj. 核心词义指“身无分文的、穷困潦倒的”（wretchedly poor, indigent），用来形容富裕成员国（wealthy member states）在逻辑上发生事实性矛盾。"
+    },
+    "translation": "联合国高级专员谴责富裕成员国在对外援助认捐上的极度吝啬，指出它们小气微薄的承诺连紧急饥荒救援需求的百分之三都未能满足。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'rebuked wealthy member states for their ___ pledges, pointing out that their miserly commitments met barely three percent'，'miserly'（极其吝啬小气）赋予了本空绝对的强烈道德指责与吝啬贬义色彩。",
+    "legacy_id": "tem8_069"
+  },
+  {
+    "id": "tem8_pro_013",
+    "group_id": 35,
+    "group_name": "frugal, parsimonious, penurious, thrifty",
+    "level": "TEM-8",
+    "target_word": "frugal",
+    "question": "To regain fiscal credibility after an inflationary shock, the transitional government enforced a strictly ___ budgetary regime, slashing redundant bureaucratic overheads while ring-fencing essential healthcare programs.",
+    "options": [
+      "frugal",
+      "parsimonious",
+      "penurious",
+      "thrifty"
+    ],
+    "answer": "frugal",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "前文 'To regain fiscal credibility' 与后文 'slashing redundant overheads while ring-fencing essential healthcare' 凸显出合理压缩开支、高效杜绝浪费的政策理性与理财美德（正面褒义）。",
+    "distractor_analysis": {
+      "frugal": "adj. 具有高度政策褒义，指“厉行节约的、杜绝浪费的、精简高效的”（characterized by thrift and efficiency in resources），与过渡政府重塑财政信誉的审慎改革完美呼应。",
+      "parsimonious": "adj. 含有极度吝啬小气的负面贬义，若代入则将政府整顿财政的良政措施污名化为葛朗台式的抠门狭隘。",
+      "penurious": "adj. 指贫困匮乏或赤贫的，不能形容国家财政制度的主动科学节约。",
+      "thrifty": "adj. 语体偏向民间私人家计或个体经营者的省吃俭用，较少用于形容主权国家政府的宏观预算制度（budgetary regime）。"
+    },
+    "translation": "为了在通胀冲击后重塑财政信誉，过渡政府推行了严格节约高效的预算制度，在削减冗余官僚开支的同时，切实保障了关键医疗卫生项目的资金。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "前文 'To regain fiscal credibility' 与后文 'slashing redundant overheads while ring-fencing essential healthcare' 凸显出合理压缩开支、高效杜绝浪费的政策理性与理财美德（正面褒义）。",
+    "legacy_id": "tem8_070"
+  },
+  {
+    "id": "tem8_pro_014",
+    "group_id": 36,
+    "group_name": "intrepid, audacious, dauntless, valiant",
+    "level": "TEM-8",
+    "target_word": "audacious",
+    "question": "The rebel commander orchestrated an ___ dawn raid against the neutral demilitarized zone, an insolent gamble that provoked immediate international outrage and shattered fragile ceasefire protocols.",
+    "options": [
+      "audacious",
+      "intrepid",
+      "dauntless",
+      "valiant"
+    ],
+    "answer": "audacious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'an insolent gamble that provoked immediate international outrage and shattered fragile ceasefire protocols'（公然挑衅的豪赌，激起国际公愤并粉碎停火协议）赋予本空强烈的蛮横大胆、肆无忌惮色彩。",
+    "distractor_analysis": {
+      "audacious": "adj. 专指“大胆狂妄的、肆无忌惮的、公然藐视规则的”（bold in defying conventions or limits; insolent），直接对接叛军突袭非军事区、破坏国际停火的猖狂冒险豪赌。",
+      "intrepid": "adj. 纯属崇高正面的无畏勇敢（fearless in facing danger/seeking truth），不可用于修饰挑起战火、破坏和平协议的叛乱袭击。",
+      "dauntless": "adj. 强调坚不可摧的坚强意志，无法表达出公然藐视国际准则的狂妄冒进性。",
+      "valiant": "adj. 指崇高的英勇、英勇就义（showing valor），具有骑士般的崇高美德，绝不可用于形容背信弃义的偷袭。"
+    },
+    "translation": "叛军指挥官策划了拂晓针对中立非军事区的大胆狂妄突袭——这是一场激起国际公愤并粉碎脆弱停火协议的公然挑衅式豪赌。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'an insolent gamble that provoked immediate international outrage and shattered fragile ceasefire protocols'（公然挑衅的豪赌，激起国际公愤并粉碎停火协议）赋予本空强烈的蛮横大胆、肆无忌惮色彩。",
+    "legacy_id": "tem8_072"
+  },
+  {
+    "id": "tem8_pro_015",
+    "group_id": 38,
+    "group_name": "indolent, slothful, lethargic, torpid",
+    "level": "TEM-8",
+    "target_word": "indolent",
+    "question": "The ombudsman dismissed three senior procurement directors whose ___ management style had allowed contractor fraud to proliferate unchecked for nearly a decade, prioritizing personal comfort over rigorous regulatory oversight.",
+    "options": [
+      "indolent",
+      "torpid",
+      "lethargic",
+      "slothful"
+    ],
+    "answer": "indolent",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文指出 'prioritizing personal comfort over rigorous regulatory oversight'（将个人安逸舒适置于严密监管之上），专指贪图安逸、游手好闲、懒于任事的好逸恶劳风格。",
+    "distractor_analysis": {
+      "indolent": "adj. 专指“好逸恶劳的、懒于任事的”（averse to activity or effort; habitually lazy），在此处修饰官僚为了自身安逸舒适而尸位素餐的任事风格，契合度极高。",
+      "torpid": "adj. 指处于僵死、麻木迟钝的冷冻状态，不侧重追求享乐安逸的主观怠工品行。",
+      "lethargic": "adj. 指昏昏欲睡、无精打采的生理状态，多由疾病或疲倦引起，不强调为个人私利安逸而渎职怠政。",
+      "slothful": "adj. 带有古典说教贬义（懒散罪孽），在现代行政与公共管理制度批评中通常选用更为严谨规范的 indolent。"
+    },
+    "translation": "监察专员撤换了三名高级采购主管，他们那种好逸恶劳的管理作风导致承包商欺诈行为近十年来滋生蔓延，且他们始终将个人安逸置于严格的监管职责之上。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文指出 'prioritizing personal comfort over rigorous regulatory oversight'（将个人安逸舒适置于严密监管之上），专指贪图安逸、游手好闲、懒于任事的好逸恶劳风格。",
+    "legacy_id": "tem8_076"
+  },
+  {
+    "id": "tem8_pro_016",
+    "group_id": 40,
+    "group_name": "scrupulous, punctilious, meticulous, exacting",
+    "level": "TEM-8",
+    "target_word": "scrupulous",
+    "question": "The special prosecutor maintained a ___ commitment to statutory ethics, recusing herself from cases involving former associates to guarantee absolute impartiality during the sovereign embezzlement trials.",
+    "options": [
+      "scrupulous",
+      "punctilious",
+      "meticulous",
+      "exacting"
+    ],
+    "answer": "scrupulous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'commitment to statutory ethics' 与 'recusing herself... to guarantee absolute impartiality'，强调建立在良知、伦理原则与道德操守基础上的严正廉洁（having moral integrity; principled）。",
+    "distractor_analysis": {
+      "scrupulous": "adj. 专指“严守道德原则的、正直廉洁的、讲求良知的”（having moral integrity; acting in strict regard for what is right），完美呼应检察官为维护司法公正而主动回避利益关联的崇高道德自觉。",
+      "punctilious": "adj. 偏向于死板遵守社交礼节或表面规章程序，不包含深沉的司法正义与良心操守底色。",
+      "meticulous": "adj. 仅指做事情精细微小、关注技术细节，是技术中性词，不涵盖抵制贪腐、捍卫伦理的道德良知内涵。",
+      "exacting": "adj. 强调要求严格甚至挑剔苛刻，不能准确刻画检察官自我克制、坚守司法伦理的正直人格品质。"
+    },
+    "translation": "特别检察官对法定伦理准则保持着一丝不苟的道德坚守，主动回避了涉及前同事的案件，以确保在主权侵吞资产审判中实现绝对公正。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "搭配 'commitment to statutory ethics' 与 'recusing herself... to guarantee absolute impartiality'，强调建立在良知、伦理原则与道德操守基础上的严正廉洁（having moral integrity; principled）。",
+    "legacy_id": "tem8_080"
+  },
+  {
+    "id": "tem8_pro_017",
+    "group_id": 48,
+    "group_name": "alienate, estrange, disaffect, separate",
+    "level": "TEM-8",
+    "target_word": "disaffect",
+    "question": "Persistent administrative opacity and unequal grant allocations threatened to ___ the research fellows, fostering systemic disloyalty and institutional cynicism toward the university leadership.",
+    "options": [
+      "alienate",
+      "estrange",
+      "disaffect",
+      "separate"
+    ],
+    "answer": "disaffect",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "后文 'fostering systemic disloyalty and institutional cynicism toward the university leadership'（催生制度性不忠与对领导层的犬儒态度）是绝对语义题眼，精准对应 disaffect 指煽动对体制/权威的离心背德之核心含义。",
+    "distractor_analysis": {
+      "disaffect": "正确。v. 专指因遭受不公待遇而对所属组织、权威机构或领导层产生强烈不满、离心倾向与不忠诚（fostering disloyalty），语义严丝合缝。",
+      "alienate": "错误。v. 语义宽泛，仅表示让人心生疏远或敌意，缺乏对上级权威产生“背叛不忠、丧失归属感”的制度性对抗色彩。",
+      "estrange": "错误。v. 侧重于私人亲情或婚姻情感的离异与隔阂，无法与后文对校方领导层的制度性背离产生逻辑共振。",
+      "separate": "错误。v. 纯粹表示物理分离或职务切割，毫无对权威产生心理怨愤与忠诚度瓦解的内涵。"
+    },
+    "translation": "持续的管理不透明和不平等的科研经费分配有可能使研究员们离心离德，从而在他们心中滋生对大学领导层的系统性不忠和体制性冷漠。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'fostering systemic disloyalty and institutional cynicism toward the university leadership'（催生制度性不忠与对领导层的犬儒态度）是绝对语义题眼，精准对应 disaffect 指煽动对体制/权威的离心背德之核心含义。",
+    "legacy_id": "tem8_096"
+  },
+  {
+    "id": "tem8_pro_018",
+    "group_id": 54,
+    "group_name": "perennial, interminable, perpetual, incessant",
+    "level": "TEM-8",
+    "target_word": "interminable",
+    "question": "Exasperated by the ___ tenure review meetings that dragged on for months without reaching consensus, the prominent biochemist accepted a competing professorship in Zurich.",
+    "options": [
+      "perennial",
+      "interminable",
+      "perpetual",
+      "incessant"
+    ],
+    "answer": "interminable",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "前文的情感定调 'Exasperated by'（对……感到极其恼怒厌烦）与 'dragged on for months without reaching consensus'（拖延数月未达成共识）直接锚定带有烦躁贬义色彩的 interminable。",
+    "distractor_analysis": {
+      "interminable": "正确。adj. 专指令人极度厌烦、似乎无休无止且毫无建树的漫长过程（interminable meetings），完美呼应开篇的 exasperated。",
+      "perennial": "错误。adj. 为中性或褒义词，指常青的、周期性重现的经典话题，不能表达行政评审会议冗长折磨人、令人出走的情感色彩。",
+      "perpetual": "错误。adj. 描述客观上永久存在或长年不息的状态（perpetual snow），不能表达主观上因拖沓而感到的无休止。",
+      "incessant": "错误。adj. 强调声音、动作毫无间断的高频持续发生（如 incessant pounding），修饰断续举行的系列行政评审会议搭配不当。"
+    },
+    "translation": "由于对拖延数月却未达成任何共识的冗长终身教职评审会感到忍无可忍，这位著名的生物化学家接受了苏黎世一所大学的教授席位。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "前文的情感定调 'Exasperated by'（对……感到极其恼怒厌烦）与 'dragged on for months without reaching consensus'（拖延数月未达成共识）直接锚定带有烦躁贬义色彩的 interminable。",
+    "legacy_id": "tem8_108"
+  },
+  {
+    "id": "tem8_pro_019",
+    "group_id": 60,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "level": "TEM-8",
+    "target_word": "insidious",
+    "question": "Clinical researchers warned that subclinical lead poisoning is an exceptionally ___ pathology, silently impairing neurodevelopment in infants long before overt physical symptoms become medically detectable.",
+    "options": [
+      "insidious",
+      "treacherous",
+      "stealthy",
+      "surreptitious"
+    ],
+    "answer": "insidious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'silently impairing neurodevelopment ... long before overt physical symptoms become medically detectable'：insidious 专用于医学与病理学，指疾病暗中潜伏滋生、造成严重累积损伤却无早期表征。",
+    "distractor_analysis": {
+      "insidious": "正确。adj. 医学病理学绝对规范用词（insidious disease/pathology），专指病情发展潜伏隐蔽、在不知不觉中对生理造成不可逆伤害。",
+      "treacherous": "错误。adj. 侧重具有背信弃义或外部环境极具危险性（treacherous ice/ally），不属于医学描述慢性潜伏疾病的规范语术。",
+      "stealthy": "错误。adj. 描摹身体动作放轻以防被人察觉（stealthy steps），属于通俗描写，不能用于修饰严密的病理学机制。",
+      "surreptitious": "错误。adj. 强调人类主体偷偷摸摸、暗地行事的非道德行为（surreptitious glance/recording），不可用于客观病理过程。"
+    },
+    "translation": "临床研究人员警告称，亚临床铅中毒是一种极具隐匿性和渐进危害性的病理过程，早在肉眼可见的躯体症状出现之前，便已在悄无声息中损害了婴儿的神经发育。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "'silently impairing neurodevelopment ... long before overt physical symptoms become medically detectable'：insidious 专用于医学与病理学，指疾病暗中潜伏滋生、造成严重累积损伤却无早期表征。",
+    "legacy_id": "tem8_119"
+  },
+  {
+    "id": "tem8_pro_020",
+    "group_id": 61,
+    "group_name": "abase, humble, mortify, chagrin",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Steadfastly refusing to ___ himself before the tribunal of academic orthodoxy, the pioneering astrophysicist reiterated his unorthodox cosmology despite knowing it would cost him his tenure.",
+    "options": [
+      "abase",
+      "humble",
+      "mortify",
+      "chagrin"
+    ],
+    "answer": "abase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式搭配 'refusing to ___ himself before the tribunal'：abase oneself before...（在法庭/权威面前低三下四自贬求饶）是经典排他搭配，体现坚守学术真理的崇高风骨。",
+    "distractor_analysis": {
+      "abase": "正确。v. 构成反身搭配 abase oneself before，表示“在权贵或审判席面前自贬身份、卑躬屈膝”，与学术抗争语境完美匹配。",
+      "humble": "错误。v. 虽有 humble oneself，但常指促使某人谦卑、戒骄戒躁（This experience will humble him），不能表达在异端裁判所面前屈辱自贬的尖锐对抗感。",
+      "mortify": "错误。v. 意为使人极度尴尬或克制肉欲（mortify the flesh），不能构成 *mortify oneself before a tribunal* 的屈从句型。",
+      "chagrin": "错误。v./n. 意为使懊恼、懊丧，几乎不作反身及物动词使用，*chagrin oneself* 属于严重英语语法破格。"
+    },
+    "translation": "这位开创性的天体物理学家坚决拒绝在学术正统法庭面前低头自贬，尽管深知这会让他失去终身教职，他依然重申了他那离经叛道的天体物理学说。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句式搭配 'refusing to ___ himself before the tribunal'：abase oneself before...（在法庭/权威面前低三下四自贬求饶）是经典排他搭配，体现坚守学术真理的崇高风骨。",
+    "legacy_id": "tem8_121"
+  },
+  {
+    "id": "tem8_pro_021",
+    "group_id": 81,
+    "group_name": "affiliate, assort, consort, associate",
+    "level": "TEM-8",
+    "target_word": "consort",
+    "question": "The orthodox astrophysicist faced stern condemnation from the disciplinary committee after choosing to openly ___ with notorious pseudoscientists whose discredited theories had already been thoroughly refuted.",
+    "options": [
+      "affiliate",
+      "assort",
+      "consort",
+      "associate"
+    ],
+    "answer": "consort",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中 'faced stern condemnation ... choosing to openly ___ with notorious pseudoscientists' 含有强烈的学术纪律谴责色彩，consort with 专指与名声不佳者“厮混、勾结”的贬义内涵。",
+    "distractor_analysis": {
+      "consort": "v. 不及物动词，固定搭配 consort with，专指与品行不端、声名狼藉之人（如 notorious pseudoscientists）“勾结、厮混、过从甚密”，带有强烈的负面道德与学术戒律批判色彩。",
+      "affiliate": "v. 动词，专指官方合法的分支挂靠或正规加盟，与后文违背学术伦理而遭纪律处分的负面语境直接对立。",
+      "assort": "v. 动词，意为分类、配合或遗传学上的自由组合，无法表示人际交往。",
+      "associate": "v. 动词，中性词（与某人交往），缺乏 consort with 所独有的受伦理谴责的贬义色彩（pejorative connotation）。"
+    },
+    "translation": "这位正统天体物理学家在选择公开与臭名昭著的伪科学家过从甚密后，面临纪律委员会的严厉谴责，而那些伪科学家的荒谬理论早已被彻底驳倒。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中 'faced stern condemnation ... choosing to openly ___ with notorious pseudoscientists' 含有强烈的学术纪律谴责色彩，consort with 专指与名声不佳者“厮混、勾结”的贬义内涵。",
+    "legacy_id": "tem8_162"
+  },
+  {
+    "id": "tem8_pro_022",
+    "group_id": 84,
+    "group_name": "aggregate, intermingle, blend, concoct",
+    "level": "TEM-8",
+    "target_word": "concoct",
+    "question": "Karl Popper sharply warned that unprincipled theorists would often ___ ad hoc hypotheses simply to insulate their favored paradigms from being decisively refuted by conflicting empirical observations.",
+    "options": [
+      "aggregate",
+      "intermingle",
+      "blend",
+      "concoct"
+    ],
+    "answer": "concoct",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中 'unprincipled theorists would often ___ ad hoc hypotheses simply to insulate their favored paradigms' 专指为了规避伪证而凭空“编造、炮制（特设性假说）”（concoct ad hoc hypotheses）。",
+    "distractor_analysis": {
+      "concoct": "v. 及物动词，常含贬义，指出于私利或托词而“编造、炮制（理论、借口、假说）”，与批判特设假说（ad hoc hypotheses）形成绝佳学术呼应。",
+      "aggregate": "v. 动词，意为统计汇总、聚合，与理论家凭空捏造特设假说的逃避行为南辕北辙。",
+      "intermingle": "v. 动词，指相互混合，不能以 ad hoc hypotheses 作及物宾语表示“凭空捏造理论”。",
+      "blend": "v. 动词，指调和、融合，无法体现波普尔哲学对凭空捏造逃避伪证手段的严厉批判色彩。"
+    },
+    "translation": "卡尔·波普尔严厉警告称，缺乏原则的理论家往往会随意炮制特设性假说，纯粹是为了使他们钟爱的范式免遭冲突性经验观察的决定性驳斥。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中 'unprincipled theorists would often ___ ad hoc hypotheses simply to insulate their favored paradigms' 专指为了规避伪证而凭空“编造、炮制（特设性假说）”（concoct ad hoc hypotheses）。",
+    "legacy_id": "tem8_168"
+  },
+  {
+    "id": "tem8_pro_023",
+    "group_id": 87,
+    "group_name": "align, skew, aline, adjust",
+    "level": "TEM-8",
+    "target_word": "skew",
+    "question": "Systematic measurement errors introduced by thermal fluctuations in the particle detector will invariably ___ the statistical distribution of observed decay rates, generating spurious evidence of novel physics.",
+    "options": [
+      "align",
+      "skew",
+      "aline",
+      "adjust"
+    ],
+    "answer": "skew",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中 'will invariably ___ the statistical distribution of observed decay rates, generating spurious evidence' 专指测量误差导致统计分布“发生偏倚、歪斜（skew the distribution）”，从而生成虚假证据。",
+    "distractor_analysis": {
+      "skew": "v. 及物动词，专指系统性误差或偏见导致数据、统计分布“发生偏斜、产生失真偏差”（skew the distribution），直接导致伪证据的生成。",
+      "align": "v. 及物动词，意为对齐、校准，若对齐分布则不会产生虚假证据（spurious evidence），逻辑反向颠倒。",
+      "aline": "v. 罕见异体词，意同 align，同样逻辑倒错。",
+      "adjust": "v. 及物动词，意为校正、微调，通常是为了消除误差而非引起失真，与 generating spurious evidence 的消极因果关系冲突。"
+    },
+    "translation": "粒子探测器中的热涨落引入的系统测量误差，将不可避免地使观测到的衰变率统计分布发生偏斜，从而产生关于新物理学的虚假证据。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中 'will invariably ___ the statistical distribution of observed decay rates, generating spurious evidence' 专指测量误差导致统计分布“发生偏倚、歪斜（skew the distribution）”，从而生成虚假证据。",
+    "legacy_id": "tem8_174"
+  },
+  {
+    "id": "tem8_pro_024",
+    "group_id": 89,
+    "group_name": "alleviate, relieve, assuage, palliate",
+    "level": "TEM-8",
+    "target_word": "palliate",
+    "question": "Epistemologists argued that introducing arbitrary corrective factors could only ___ the superficial symptoms of theoretical breakdown, rather than cure the underlying mathematical inconsistency of the paradigm.",
+    "options": [
+      "alleviate",
+      "relieve",
+      "assuage",
+      "palliate"
+    ],
+    "answer": "palliate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中与后文 'rather than cure the underlying mathematical inconsistency' 形成绝妙反差的 '___ the superficial symptoms' 专指“治标不治本、掩盖缓和表层病灶（palliate symptoms）”。",
+    "distractor_analysis": {
+      "palliate": "v. 及物动词，专指“姑息、缓和症状但未能根治（治标不治本）”，与句中 \"superficial symptoms ... rather than cure\" 形成绝对排他的对仗批判。",
+      "alleviate": "v. 及物动词，指实质性减轻疾苦或困难，缺乏 palliate 包含的“仅治标不治本、掩盖深层病灶”的讽刺与批判哲学内涵。",
+      "relieve": "v. 及物动词，多指消除实际痛苦或释放压力，同样无法精确对应后文“未能根治（rather than cure）”的治标不治本语境。",
+      "assuage": "v. 及物动词，专指平息心理内疚、渴望或悲伤情绪（如 assuage grief/guilt），不能用于修饰理论崩溃的表层数学症状。"
+    },
+    "translation": "认识论学者指出，引入任意的修正因子只能姑息理论崩溃的表面症状，而无法根治该范式底层的数学自相矛盾。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中与后文 'rather than cure the underlying mathematical inconsistency' 形成绝妙反差的 '___ the superficial symptoms' 专指“治标不治本、掩盖缓和表层病灶（palliate symptoms）”。",
+    "legacy_id": "tem8_177"
+  },
+  {
+    "id": "tem8_pro_025",
+    "group_id": 90,
+    "group_name": "allude, insinuate, touch, advert",
+    "level": "TEM-8",
+    "target_word": "insinuate",
+    "question": "During the heated methodological controversy, the revisionist historian appeared to maliciously ___ that the celebrated laboratory had fabricated its cosmological radiation measurements to secure federal funding.",
+    "options": [
+      "allude",
+      "insinuate",
+      "touch",
+      "advert"
+    ],
+    "answer": "insinuate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中后接 that 宾语从句及修饰副词 'maliciously'（恶意地），专指带有诽谤性质的“暗讽、恶意影射（insinuate that...）”。",
+    "distractor_analysis": {
+      "insinuate": "v. 及物动词，后接 that 引导的宾语从句，专指带有阴险、恶意色彩地“影射、暗指（某人造假/不端）”，与 maliciously 完美呼应。",
+      "allude": "v. 不及物动词，必须接介词 to，不能直接跟 that 从句作为及物宾语（不可作 allude that...）。",
+      "touch": "v. 动词，后接从句语法断裂（必须接 on/upon），不能引导含有造假指控的间接宾语从句。",
+      "advert": "v. 不及物动词，接介词 to，绝不能直接接 that 引导的名词性从句。"
+    },
+    "translation": "在这场激烈的科学方法论争端中，这位修正主义历史学家似乎在恶意影射那家著名实验室伪造了其宇宙辐射测量数据，以骗取联邦资助。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中后接 that 宾语从句及修饰副词 'maliciously'（恶意地），专指带有诽谤性质的“暗讽、恶意影射（insinuate that...）”。",
+    "legacy_id": "tem8_180"
+  },
+  {
+    "id": "tem8_pro_026",
+    "group_id": 98,
+    "group_name": "antagonize, fret, grate, harass",
+    "level": "TEM-8",
+    "target_word": "antagonize",
+    "question": "By publishing an inflammatory manifesto denouncing the salon's wealthy benefactors, the polemical painter knowingly chose to ___ the very institutions that funded his livelihood.",
+    "options": [
+      "antagonize",
+      "fret",
+      "grate",
+      "harass"
+    ],
+    "answer": "antagonize",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "后文及物动词搭配 '___ the very institutions that funded his livelihood'（招惹/激怒资助其生计的机构本身），强调因公开挑衅树敌而招致对立反感。",
+    "distractor_analysis": {
+      "antagonize": "v. 专指“招惹、引起...的反感或敌意”，与画家发表激进宣言公然树敌、挑衅资助机构的行为构成最贴切的政治美学批评色彩。",
+      "fret": "v. 不及物动词（意为烦躁苦恼），无法直接带宾语 institutions。",
+      "grate": "v. 意为“发出刺耳声使难受”，用于人时需后接介词 on，不可作及物动词支配机构。",
+      "harass": "v. 侧重“反复持续纠缠、侵扰”，多指身体、法律或肢体上的骚扰折磨，与画家发表檄文公开树敌的语境不符。"
+    },
+    "translation": "通过发表谴责沙龙富商赞助人的煽动性宣言，这位好辩的画家蓄意激怒了那些资助其生计的艺术机构本身。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文及物动词搭配 '___ the very institutions that funded his livelihood'（招惹/激怒资助其生计的机构本身），强调因公开挑衅树敌而招致对立反感。",
+    "legacy_id": "tem8_196"
+  },
+  {
+    "id": "tem8_pro_027",
+    "group_id": 100,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "level": "TEM-8",
+    "target_word": "appease",
+    "question": "Rather than defending the aesthetic integrity of the controversial retrospective, the museum director opted to ___ moralistic censors by quietly withdrawing three provocative nudes from the exhibition.",
+    "options": [
+      "appease",
+      "pacify",
+      "mollify",
+      "conciliate"
+    ],
+    "answer": "appease",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "前文 'Rather than defending the aesthetic integrity...'（放弃捍卫艺术纯洁性）及后文撤下画作以屈服于审查者，锁定'牺牲原则以姑息妥协'这一带有强烈贬义的专属动词 appease。",
+    "distractor_analysis": {
+      "appease": "v. 专指“以牺牲原则或退让妥协的方式姑息、绥靖侵犯者或批评者”，与放弃艺术操守、撤展迎合审查者的屈辱语境产生绝对排他契合。",
+      "pacify": "v. 侧重“平定叛乱、平抚暴乱”，多涉及以强力或秩序恢复暴动区域的和平，不指对意识形态审查者的委曲求全。",
+      "mollify": "v. 侧重“安抚被激怒者的情绪，使其怒气消减”，不带有牺牲自身原则换取苟安的政治妥协贬义色彩。",
+      "conciliate": "v. 侧重“通过平等磋商化解分歧、赢得好感”，通常为中性或褒义的外交斡旋，与馆长无原则妥协退让相违背。"
+    },
+    "translation": "这位博物馆馆长并未捍卫该争议回顾展的艺术完整性，而是选择通过悄悄撤下展厅中的三幅挑衅性裸体画来姑息道德审查者。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "前文 'Rather than defending the aesthetic integrity...'（放弃捍卫艺术纯洁性）及后文撤下画作以屈服于审查者，锁定'牺牲原则以姑息妥协'这一带有强烈贬义的专属动词 appease。",
+    "legacy_id": "tem8_199"
+  },
+  {
+    "id": "tem8_pro_028",
+    "group_id": 103,
+    "group_name": "apprehend, dig, grok, savvy",
+    "level": "TEM-8",
+    "target_word": "grok",
+    "question": "Underground counterculture zines urged listeners not merely to analyze psychedelic rock, but to ___ its distorted sonic landscapes through holistic, unmediated empathy.",
+    "options": [
+      "apprehend",
+      "dig",
+      "grok",
+      "savvy"
+    ],
+    "answer": "grok",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'Underground counterculture zines... through holistic, unmediated empathy'（地下反主流文化刊物号召通过全然无隔阂的共情去感悟），锁定60年代反叛文化专属词 grok。",
+    "distractor_analysis": {
+      "grok": "v. 专指“凭全身心的直觉与共情达到深刻的精神交融与顿悟”，是20世纪60年代地下迷幻摇滚与反叛文化批评的标志性专有词。",
+      "apprehend": "v. 学院派古典哲学词汇，强调理智逻辑的领会，与地下反文化刊物推崇感性共融的叛逆语境背道而驰。",
+      "dig": "v. 口语词，仅表示浅层的“喜欢、懂行”，无法承载 holistic, unmediated empathy（全然无隔阂的整体共情）的玄奥精神共鸣。",
+      "savvy": "v. 侧重世俗的精明晓事，不具备迷幻音乐美学所需的超验共情内涵。"
+    },
+    "translation": "地下反主流文化刊物敦促听众不要仅仅去分析迷幻摇滚，而应通过全然无隔阂的全身心共情去体悟其扭曲的声景。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'Underground counterculture zines... through holistic, unmediated empathy'（地下反主流文化刊物号召通过全然无隔阂的共情去感悟），锁定60年代反叛文化专属词 grok。",
+    "legacy_id": "tem8_206"
+  },
+  {
+    "id": "tem8_pro_029",
+    "group_id": 107,
+    "group_name": "ascribe, attribute, impute, assign",
+    "level": "TEM-8",
+    "target_word": "impute",
+    "question": "Conservative reviewers attempted to ___ subversive political motives to the avant-garde sculptor, alleging that his distorted bronze forms mocked civic virtue.",
+    "options": [
+      "ascribe",
+      "attribute",
+      "impute",
+      "assign"
+    ],
+    "answer": "impute",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配题眼 'attempted to ___ subversive political motives to the avant-garde sculptor'（企图将颠覆性的政治动机强加/归咎于先锋雕塑家），锁定专指归咎负面恶意/罪责的动词 impute ... to ...。",
+    "distractor_analysis": {
+      "impute": "v. 专指“（将险恶动机、罪责、过失）归咎于、强加于”，具有极强的负面贬义色彩，与扣上颠覆性政治动机（subversive motives）的语境天造地设。",
+      "ascribe": "v. 中性词，专用于将作品、文本或特征客观归功或归源于某人（如考证作者归属），不自带恶意构陷的贬抑色彩。",
+      "attribute": "v. 中性词，指将某种性质或成因归因于某物，缺乏对阴险险恶动机进行政治构陷的修辞力度。",
+      "assign": "v. 意为“指派、分配”或断代，不用于将不可告人的阴暗政治动机强加于人。"
+    },
+    "translation": "保守派评论家试图将颠覆性的政治动机归咎于这位先锋派雕塑家，声称其扭曲的青铜造像是在嘲弄公民美德。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "搭配题眼 'attempted to ___ subversive political motives to the avant-garde sculptor'（企图将颠覆性的政治动机强加/归咎于先锋雕塑家），锁定专指归咎负面恶意/罪责的动词 impute ... to ...。",
+    "legacy_id": "tem8_213"
+  },
+  {
+    "id": "tem8_pro_030",
+    "group_id": 112,
+    "group_name": "auctioneer, bootleg, syndicate, move",
+    "level": "TEM-8",
+    "target_word": "bootleg",
+    "question": "Before digital streaming revolutionized music distribution, passionate opera aficionados would routinely ___ rare live festival performances using tape recorders secretly smuggled into European concert halls.",
+    "options": [
+      "auctioneer",
+      "bootleg",
+      "syndicate",
+      "move"
+    ],
+    "answer": "bootleg",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'using tape recorders secretly smuggled into European concert halls'（用私自带入欧洲音乐厅的录音机进行未经授权的盗录制作），锁定地下盗录、私制音像制品的专有词 bootleg。",
+    "distractor_analysis": {
+      "bootleg": "v. 专指“非法录制、私自翻录或走私出版（未经授权的现场音乐会、非公开发行作品）”，在音乐文化批评中特指私录实况母带的行为。",
+      "auctioneer": "v. 意为“公开主持拍卖”，私藏录音机偷录演出的偷盗行为不可能构成公开拍卖。",
+      "syndicate": "v. 意为“通过媒体辛迪加联合公开发行”，属于正规合法分发机制，与私带设备偷录相冲突。",
+      "move": "v. 意为“移动、出售走货”，不能特指将未授权演出现场偷偷录制成盗版制品的核心动作。"
+    },
+    "translation": "在数字流媒体彻底改变音乐传播格局之前，狂热的歌剧迷们经常使用偷偷带入欧洲音乐厅的录音机，将罕见的现场音乐节演出私下盗录留存。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'using tape recorders secretly smuggled into European concert halls'（用私自带入欧洲音乐厅的录音机进行未经授权的盗录制作），锁定地下盗录、私制音像制品的专有词 bootleg。",
+    "legacy_id": "tem8_224"
+  },
+  {
+    "id": "tem8_pro_031",
+    "group_id": 120,
+    "group_name": "backfire, recur, transpire, come",
+    "level": "TEM-8",
+    "target_word": "backfire",
+    "question": "Psychologists warn that deliberate thought suppression strategies almost inevitably ___, producing an ironic rebound effect wherein the forbidden intrusive obsession becomes even more intensely salient.",
+    "options": [
+      "backfire",
+      "recur",
+      "transpire",
+      "come"
+    ],
+    "answer": "backfire",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 producing an ironic rebound effect（产生讽刺性的反弹逆效果，策略事与愿违并反噬自身）。",
+    "distractor_analysis": {
+      "backfire": "v. 专指某种计策或企图产生截然相反的恶果并反噬始作俑者，完美契合思维压抑理论中的讽刺性反弹（ironic rebound）。",
+      "recur": "v. 意为周期性重现或再发，主语应为念头或症状本身，而不能是心理压抑策略（strategies cannot recur in this causal sense）。",
+      "transpire": "v. 意为显露、为人所知或发生，缺乏事与愿违、适得其反的因果反讽色彩。",
+      "come": "v. 词义过于泛化，无法承载认知心理学中反弹反噬的学术语义深度。"
+    },
+    "translation": "心理学家警告称，蓄意的杂念压制策略几乎不可避免地会适得其反，产生一种讽刺性的反弹效应，使被禁止的侵入性执念变得更加强烈凸显。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "题眼为 producing an ironic rebound effect（产生讽刺性的反弹逆效果，策略事与愿违并反噬自身）。",
+    "legacy_id": "tem8_239"
+  },
+  {
+    "id": "tem8_pro_032",
+    "group_id": 164,
+    "group_name": "assertive, cocky, forceful, emphatic",
+    "level": "TEM-8",
+    "target_word": "cocky",
+    "question": "The hedge fund's ___ chief negotiator alienated the regulatory arbiters when he dismissed the antitrust probe as a trivial nuisance, ultimately sabotaging his own buyout bid.",
+    "options": [
+      "assertive",
+      "cocky",
+      "forceful",
+      "emphatic"
+    ],
+    "answer": "cocky",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'alienated the regulatory arbiters'（得罪监管仲裁人）及轻率蔑视调查导致要约流产，要求具有明显负面贬义色彩的“盲目自大、轻佻自负”。",
+    "distractor_analysis": {
+      "cocky": "正确。贬义形容词，意为“狂妄自大、目中无人的”，精准契合把反垄断审查斥为小麻烦并触怒仲裁员的盲目傲慢。",
+      "assertive": "错误。褒义/中性词，指“坚定自信、果敢表达立场的”，在商业谈判中通常是积极职业素质，不会直接导致触怒仲裁员。",
+      "forceful": "错误。中性词，意为“强有力的、有说服力的”，无法体现后文导致的无知轻敌与自毁谈判的贬义色彩。",
+      "emphatic": "错误。意为“断然的、着重的”，多修饰言辞（如 emphatic denial），不常直接作前置定语修饰谈判代表指其性格傲慢。"
+    },
+    "translation": "该对冲基金狂妄自大的首席谈判代表得罪了监管仲裁人员，因为他将反垄断调查轻描淡写地斥为微不足道的麻烦，最终彻底葬送了自己的收购要约。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'alienated the regulatory arbiters'（得罪监管仲裁人）及轻率蔑视调查导致要约流产，要求具有明显负面贬义色彩的“盲目自大、轻佻自负”。",
+    "legacy_id": "tem8_327"
+  },
+  {
+    "id": "tem8_pro_033",
+    "group_id": 165,
+    "group_name": "assorted, sundry, motley, miscellaneous",
+    "level": "TEM-8",
+    "target_word": "motley",
+    "question": "The beleaguered target firm was defended by a ___ coalition of dissident hedge funds, local union leaders, and environmental lobbyists, whose irreconcilable objectives paralyzed the defense.",
+    "options": [
+      "assorted",
+      "sundry",
+      "motley",
+      "miscellaneous"
+    ],
+    "answer": "motley",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "修饰 'coalition'，且后文指出 'whose irreconcilable objectives paralyzed the defense'（目标不可调和导致瘫痪）；专指动机各异、乌合之众式的杂凑联盟。",
+    "distractor_analysis": {
+      "motley": "正确。常修饰 crew/coalition，带有贬义或讽刺色彩，专指“鱼龙混杂、动机各异且拼凑而成的群体”，后文利益不可调和形成完美排他题眼。",
+      "assorted": "错误。客观中性词，意为“各种各样的”，常用于商品或分类物品（如 assorted biscuits），不指政治利益联盟的杂乱与内耗。",
+      "sundry": "错误。正式用语，常作后置定语或并列（sundry matters），不用于修饰充满矛盾的利益集团拼凑联盟。",
+      "miscellaneous": "错误。客观归类术语，指“杂项的、未分类的”（如 miscellaneous expenses），不具备形容人员联盟杂乱无章的修辞色彩。"
+    },
+    "translation": "这家陷入困境的目标公司由一个杂乱拼凑的联盟出面防御，成员包括持不同政见的对冲基金、地方工会领袖和环保说客，但彼此互不相容的目标使防御陷入瘫痪。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修饰 'coalition'，且后文指出 'whose irreconcilable objectives paralyzed the defense'（目标不可调和导致瘫痪）；专指动机各异、乌合之众式的杂凑联盟。",
+    "legacy_id": "tem8_329"
+  },
+  {
+    "id": "tem8_pro_034",
+    "group_id": 170,
+    "group_name": "august, grand, noble, lordly",
+    "level": "TEM-8",
+    "target_word": "lordly",
+    "question": "Corporate governance watchdogs condemned the former chief executive for his ___ disdain of internal audit warnings, treating multi-million dollar compliance sanctions as trivial operational costs.",
+    "options": [
+      "august",
+      "grand",
+      "noble",
+      "lordly"
+    ],
+    "answer": "lordly",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰 'disdain of internal audit warnings'（对内部审计警告的蔑视）；带有贬义，指自命不凡、摆老爷派头的狂妄蔑视。",
+    "distractor_analysis": {
+      "lordly": "正确。贬义形容词，意为“傲慢专横的、居高临下的、摆老爷架子的”，精准描绘CEO对内部审计警告自命不凡的轻蔑。",
+      "august": "错误。高度褒义词，形容神圣威严，与对合规警告的不端藐视在语义情感色彩上严重倒错。",
+      "grand": "错误。通常指宏大的、壮丽的，不可与蔑视（disdain）构成合理语义修饰。",
+      "noble": "错误。指品格高尚，与违规无视内部审计的丑态完全对立。"
+    },
+    "translation": "公司治理监督机构谴责前首席执行官对内部审计警告抱有居高临下的傲慢蔑视，将数百万美元的合规制裁款项仅视作微不足道的运营成本。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修饰 'disdain of internal audit warnings'（对内部审计警告的蔑视）；带有贬义，指自命不凡、摆老爷派头的狂妄蔑视。",
+    "legacy_id": "tem8_340"
+  },
+  {
+    "id": "tem8_pro_035",
+    "group_id": 180,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "level": "TEM-8",
+    "target_word": "bemused",
+    "question": "Industry observers watched with ___ detachment as the aging antitrust lawmakers repeatedly demonstrated an utter lack of comprehension regarding basic cloud computing architectures during the televised hearing.",
+    "options": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "answer": "bemused",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修辞搭配 'watched with ___ detachment as ... lawmakers repeatedly demonstrated an utter lack of comprehension'；形容看客啼笑皆非、略带讽刺困惑的超然神态。",
+    "distractor_analysis": {
+      "bemused": "正确。外刊高阶评论特色词汇（bemused detachment/smile），意为“感到荒唐好笑却又无可奈何、略带困惑与戏谑的”，精准描绘懂行人看待外行议员审问云技术时的心态。",
+      "preoccupied": "错误。指心事重重的，无法修饰面对听证会荒唐表现时作为看客的超脱态度（detachment）。",
+      "lost": "错误。指迷茫迷失的，不用于构成描述旁观心态的高阶修辞。",
+      "thoughtful": "错误。指深思熟虑的，无法体现出听证会问答暴露无知时所引发的黑色幽默与荒谬感。"
+    },
+    "translation": "在电视直播的听证会上，随着年迈的反垄断议员们一再暴露出对基础云计算架构的全然无知，业内观察人士带着啼笑皆非的超然神态旁观着这一切。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修辞搭配 'watched with ___ detachment as ... lawmakers repeatedly demonstrated an utter lack of comprehension'；形容看客啼笑皆非、略带讽刺困惑的超然神态。",
+    "legacy_id": "tem8_360"
+  },
+  {
+    "id": "tem8_pro_036",
+    "group_id": 187,
+    "group_name": "boisterous, unruly, disorderly, robustious",
+    "level": "TEM-8",
+    "target_word": "boisterous",
+    "question": "Field researchers observed that juvenile chimpanzees engaged in ___ mock fights within the canopy, emitting raucous vocalizations that serve vital developmental functions in establishing social bonds and physical agility.",
+    "options": [
+      "boisterous",
+      "unruly",
+      "disorderly",
+      "robustious"
+    ],
+    "answer": "boisterous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文的 'mock fights'（打闹嬉戏）与 'serve vital developmental functions' 表明行为充满活力与欢闹，而非破坏性违纪。",
+    "distractor_analysis": {
+      "boisterous": "adj. 意为“喧闹欢腾的、精力充沛的”（MW: marked by or expressive of exuberance and high spirits），精准契合幼年灵长类动物活力四射的嬉闹打斗。",
+      "unruly": "adj. 强调打破纪律、难管束的不良习性，带有负面失控色彩，与动物幼崽健康的玩耍发育不符。",
+      "disorderly": "adj. 强调杂乱无章或扰乱治安，无法传达幼崽活泼充沛的生命元气。",
+      "robustious": "adj. 古旧生僻词，含有粗鲁笨拙之贬义，不符动物行为学语体。"
+    },
+    "translation": "野外研究人员观察到，幼年黑猩猩在树冠间进行喧闹欢腾的模拟打闹，发出刺耳的啼叫声，这在其建立社交纽带与锻炼身体敏捷性方面发挥着关键的发育功能。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文的 'mock fights'（打闹嬉戏）与 'serve vital developmental functions' 表明行为充满活力与欢闹，而非破坏性违纪。",
+    "legacy_id": "tem8_374"
+  },
+  {
+    "id": "tem8_pro_037",
+    "group_id": 216,
+    "group_name": "aids, mumps, polio, mono",
+    "level": "TEM-8",
+    "target_word": "aids",
+    "question": "Cultural historians scrutinizing the late twentieth century argue that the ___ epidemic not only decimated a generation of creative artists but also catalyzed unprecedented activist mobilization against institutional homophobia.",
+    "options": [
+      "aids",
+      "mumps",
+      "polio",
+      "mono"
+    ],
+    "answer": "aids",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'late twentieth century'（20世纪晚期）、'decimated a generation of creative artists' 与 'mobilization against institutional homophobia'（对抗制度性同性恋偏见的激进动员）构成绝对历史排他线索。",
+    "distractor_analysis": {
+      "aids": "n. 艾滋病；20世纪80年代重创欧美艺术界并直接催生了反抗制度性性取向偏见政治运动的历史性世纪公共卫生危机。",
+      "mumps": "n. 流行性腮腺炎；儿童自限性疾病，绝不可能摧毁一代艺术家或引发对抗制度性偏见的激进平权运动。",
+      "polio": "n. 脊髓灰质炎（小儿麻痹症）；高发于20世纪中叶且已研制出疫苗，与20世纪末及反抗同性恋歧视运动完全无关。",
+      "mono": "n. 单核细胞增多症；青年常见轻度腺热感染，不具备此种毁灭一代文化名人的历史沉重感。"
+    },
+    "translation": "审视20世纪晚期的文化史学家认为，艾滋病疫情不仅重创了整整一代富有创造力的艺术家，还催生了针对制度性同性恋偏见的前所未有的维权动员。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "'late twentieth century'（20世纪晚期）、'decimated a generation of creative artists' 与 'mobilization against institutional homophobia'（对抗制度性同性恋偏见的激进动员）构成绝对历史排他线索。",
+    "legacy_id": "tem8_431"
+  },
+  {
+    "id": "tem8_pro_038",
+    "group_id": 220,
+    "group_name": "alchemy, dealings, politics, chemistry",
+    "level": "TEM-8",
+    "target_word": "alchemy",
+    "question": "Urban historians marvel at the cultural ___ that transmuted neglected immigrant tenements into a vibrant cradle of twentieth-century modernism, forging revolutionary artistic idioms out of economic precarity.",
+    "options": [
+      "alchemy",
+      "dealings",
+      "politics",
+      "chemistry"
+    ],
+    "answer": "alchemy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'cultural ___ that transmuted neglected immigrant tenements into... forging revolutionary artistic idioms out of economic precarity' 构成绝对线索，动词 transmute 与 out of economic precarity 绝对锚定炼金术般的化腐朽为神奇。",
+    "distractor_analysis": {
+      "alchemy": "n. 炼金术、奇迹般的转变（cultural alchemy），与后文动词 transmute（点石成金般点化）构成同源修辞的排他性绝配。",
+      "dealings": "n. 往来、人际交易；无法作为主语去把廉租公寓 transmute 为现代主义艺术摇篮。",
+      "politics": "n. 政治斗争、手腕；缺乏将困顿物质神奇升华为先锋艺术的魔幻转化隐喻内涵。",
+      "chemistry": "n. 化学反应、人际投契；虽有相互作用之意，但英语中唯有 alchemy 与 transmute（炼金转化）构成绝对呼应的隐喻体系。"
+    },
+    "translation": "城市史学家惊叹于那种将破败的移民廉租公寓蜕变为20世纪现代主义生机勃勃摇篮的文化炼金术，在经济朝不保夕的困境中熔铸出革命性的艺术语言。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "'cultural ___ that transmuted neglected immigrant tenements into... forging revolutionary artistic idioms out of economic precarity' 构成绝对线索，动词 transmute 与 out of economic precarity 绝对锚定炼金术般的化腐朽为神奇。",
+    "legacy_id": "tem8_439"
   }
 ]

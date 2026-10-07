@@ -1,0 +1,1540 @@
+{
+  "chunk_id": 3,
+  "theme_info": {
+    "chunk_id": 3,
+    "theme": "科学哲学、逻辑推演与理论演化 (Scientific Philosophy & Epistemology)",
+    "guidance": "题干探讨科学范式转移、理论自洽性、因果推断、归纳困境等高阶论述语境。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 70,
+      "group_name": "accession, log, post, book",
+      "target_word": "accession",
+      "words": [
+        "accession",
+        "log",
+        "post",
+        "book"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accession 辨析组 (accession.v.01)",
+      "synset_definition": "make a record of additions to a collection, such as a library",
+      "merriam_webster": {
+        "definitions": [
+          "the act or process by which someone rises to a position of honor or power",
+          "an act of coming near or to something : APPROACH, ADMITTANCE",
+          "something added : ACQUISITION",
+          "increase by something added"
+        ],
+        "dictionary_examples": [
+          "While formally a candidate for European Union membership, Serbia’s accession process has stalled under Vucic, who maintains close ties with Russia and China.",
+          "The question put to the Nordic nation of nearly 400,000 was whether Iceland should resume accession negotiations with the European Union.",
+          "Avidly sought by collectors, and accessioned by museums, the boxes became safe deposits for his legacy – or travel insurance in case the Philadelphia Museum ever crumbled.",
+          "The American Museum of Natural History accessioned its Banksy and put it on display in its Center for Science, Education, and Innovation."
+        ],
+        "web_examples": [
+          "While formally a candidate for European Union membership, Serbia’s accession process has stalled under Vucic, who maintains close ties with Russia and China.",
+          "The question put to the Nordic nation of nearly 400,000 was whether Iceland should resume accession negotiations with the European Union.",
+          "Avidly sought by collectors, and accessioned by museums, the boxes became safe deposits for his legacy – or travel insurance in case the Philadelphia Museum ever crumbled.",
+          "The American Museum of Natural History accessioned its Banksy and put it on display in its Center for Science, Education, and Innovation."
+        ],
+        "synonym_discussion": "Synonyms of accession\nRelevance\n\nNoun\n\nacquisition\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accession": {
+          "synset": "accession.n.01",
+          "definition": "a process of increasing by addition (as to a collection or group)",
+          "examples": [
+            "the art collection grew through accession"
+          ]
+        },
+        "log": {
+          "synset": "log.n.01",
+          "definition": "a segment of the trunk of a tree when stripped of branches",
+          "examples": []
+        },
+        "post": {
+          "synset": "post.n.01",
+          "definition": "the position where someone (as a guard or sentry) stands or is assigned to stand",
+          "examples": [
+            "a soldier manned the entrance post",
+            "a sentry station"
+          ]
+        },
+        "book": {
+          "synset": "book.n.01",
+          "definition": "a written work or composition that has been published (printed on pages bound together)",
+          "examples": [
+            "I am reading a good book on economics"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 71,
+      "group_name": "acclaim, hail, cheer, herald",
+      "target_word": "acclaim",
+      "words": [
+        "acclaim",
+        "hail",
+        "cheer",
+        "herald"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "acclaim 辨析组 (acclaim.v.01)",
+      "synset_definition": "praise vociferously",
+      "merriam_webster": {
+        "definitions": [
+          "APPLAUD, PRAISE",
+          "to declare by acclamation",
+          "to shout praise or applause",
+          "the act of acclaiming"
+        ],
+        "dictionary_examples": [
+          "But, as Zirin observes, Zinn’s version of the American story was far from universally acclaimed.",
+          "Humm will be his more casual à la carte restaurant, promising the same culinary excellence that Humm (the chef) is acclaimed for.",
+          "The singer recently put out her eighth studio album, Popstar, to much critical acclaim and fanfare online, as her day one fans are taking a victory lap on social media.",
+          "There’s plenty of that to go around, too, beginning with a bizarrely grisly meet-uncute between Lowen Ashleigh (Johnson), a young novelist with acclaim but no sales to write home about, and slick realtor Jeremy Crawford (Hartnett)."
+        ],
+        "web_examples": [
+          "But, as Zirin observes, Zinn’s version of the American story was far from universally acclaimed.",
+          "Humm will be his more casual à la carte restaurant, promising the same culinary excellence that Humm (the chef) is acclaimed for.",
+          "The singer recently put out her eighth studio album, Popstar, to much critical acclaim and fanfare online, as her day one fans are taking a victory lap on social media.",
+          "There’s plenty of that to go around, too, beginning with a bizarrely grisly meet-uncute between Lowen Ashleigh (Johnson), a young novelist with acclaim but no sales to write home about, and slick realtor Jeremy Crawford (Hartnett)."
+        ],
+        "synonym_discussion": "Synonyms of acclaim\nRelevance\n\nVerb\n\npraise\napplaud\nhail\n\nNoun\n\napplause\naccolade\nglory\ncredit\npraise\nhonor\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acclaim": {
+          "synset": "acclaim.n.01",
+          "definition": "enthusiastic approval",
+          "examples": [
+            "the book met with modest acclaim",
+            "he acknowledged the plaudits of the crowd"
+          ]
+        },
+        "hail": {
+          "synset": "hail.n.01",
+          "definition": "precipitation of ice pellets when there are strong rising air currents",
+          "examples": []
+        },
+        "cheer": {
+          "synset": "cheer.n.01",
+          "definition": "a cry or shout of approval",
+          "examples": []
+        },
+        "herald": {
+          "synset": "herald.n.01",
+          "definition": "(formal) a person who announces important news",
+          "examples": [
+            "the chieftain had a herald who announced his arrival with a trumpet"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 72,
+      "group_name": "accredit, franchise, charter, recognise",
+      "target_word": "accredit",
+      "words": [
+        "accredit",
+        "franchise",
+        "charter",
+        "recognise"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accredit 辨析组 (accredit.v.01)",
+      "synset_definition": "grant credentials to",
+      "merriam_webster": {
+        "definitions": [
+          "to give official authorization to or approval of:",
+          "to provide with credentials",
+          "to send (an envoy) with letters of authorization",
+          "to recognize or vouch for as conforming with a standard"
+        ],
+        "dictionary_examples": [
+          "the parents approve of the marriage",
+          "publicly endorsed her for Senator",
+          "the President sanctioned covert operations",
+          "the board voted to accredit the college",
+          "must be certified to teach",
+          "In Arkansas, private schools participating in the voucher-like program have to be accredited or working toward it, which often requires creating curriculum and school handbooks."
+        ],
+        "web_examples": [
+          "In Arkansas, private schools participating in the voucher-like program have to be accredited or working toward it, which often requires creating curriculum and school handbooks.",
+          "And what of her plans, if any, now that she’s accredited in the kitchen?",
+          "At the time when the show was canceled, Meloni accredited the fans for the longevity of his character Elliot Stabler.",
+          "In September 2025, the schools announced plans to merge that became official in June after the universities’ accrediting agency approved."
+        ],
+        "synonym_discussion": "Synonyms of accredit\nRelevance\nascribe\nattribute\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accredit": {
+          "synset": "accredit.v.01",
+          "definition": "grant credentials to",
+          "examples": [
+            "The Regents officially recognized the new educational institution",
+            "recognize an academic degree"
+          ]
+        },
+        "franchise": {
+          "synset": "franchise.n.01",
+          "definition": "an authorization to sell a company's goods or services in a particular place",
+          "examples": []
+        },
+        "charter": {
+          "synset": "charter.n.01",
+          "definition": "a document incorporating an institution and specifying its rights; includes the articles of incorporation and the certificate of incorporation",
+          "examples": []
+        },
+        "recognise": {
+          "synset": "recognize.v.09",
+          "definition": "show approval or appreciation of",
+          "examples": [
+            "My work is not recognized by anybody!",
+            "The best student was recognized by the Dean"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 73,
+      "group_name": "accrue, wax, add, gain",
+      "target_word": "accrue",
+      "words": [
+        "accrue",
+        "wax",
+        "add",
+        "gain"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accrue 辨析组 (accrue.v.01)",
+      "synset_definition": "grow by addition",
+      "merriam_webster": {
+        "definitions": [
+          "to accumulate or be added periodically",
+          "to come about as a natural growth, increase, or advantage",
+          "to come as a direct result of some state or action",
+          "to come into existence as a legally enforceable claim"
+        ],
+        "dictionary_examples": [
+          "Keep in mind that interest continues to accrue during deferment, which can increase the total cost of the loan.",
+          "His writing tends toward the picaresque, his characters moving through series of strange encounters that accrue meaning through juxtaposition.",
+          "Those rules generally require a notice of claim to be served within 180 days after the claim accrues and a lawsuit to be filed within one year.",
+          "Beyond attempting to smooth the industry’s many ruffled feathers, Hollywood’s newest mogul must now also wrestle down an astonishing $80 billion in debt accrued as a result of this highly leveraged merger."
+        ],
+        "web_examples": [
+          "Keep in mind that interest continues to accrue during deferment, which can increase the total cost of the loan.",
+          "His writing tends toward the picaresque, his characters moving through series of strange encounters that accrue meaning through juxtaposition.",
+          "Those rules generally require a notice of claim to be served within 180 days after the claim accrues and a lawsuit to be filed within one year.",
+          "Beyond attempting to smooth the industry’s many ruffled feathers, Hollywood’s newest mogul must now also wrestle down an astonishing $80 billion in debt accrued as a result of this highly leveraged merger."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "accrue": {
+          "synset": "accrue.v.01",
+          "definition": "grow by addition",
+          "examples": [
+            "The interest accrues"
+          ]
+        },
+        "wax": {
+          "synset": "wax.n.01",
+          "definition": "any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water",
+          "examples": []
+        },
+        "add": {
+          "synset": "attention_deficit_disorder.n.01",
+          "definition": "a condition (mostly in boys) characterized by behavioral and learning disorders",
+          "examples": []
+        },
+        "gain": {
+          "synset": "addition.n.03",
+          "definition": "a quantity that is added",
+          "examples": [
+            "there was an addition to property taxes this year",
+            "they recorded the cattle's gain in weight over a period of weeks"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 74,
+      "group_name": "acquiesce, accede, assent, bargain",
+      "target_word": "acquiesce",
+      "words": [
+        "acquiesce",
+        "accede",
+        "assent",
+        "bargain"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "acquiesce 辨析组 (assent.v.01)",
+      "synset_definition": "to agree or express agreement",
+      "merriam_webster": {
+        "definitions": [
+          "to accept, agree, or comply usually by staying silent or by not arguing",
+          "to accept, agree, or give consent by keeping silent or by not raising objections",
+          "to accept, comply, or submit tacitly or passively"
+        ],
+        "dictionary_examples": [
+          "acquiesced to their request with a simple nod",
+          "The public is not only acquiescing in but is actually supporting the move …\n—Jeffrey Sachs",
+          "voters assented to the proposal",
+          "consented to their daughter's going",
+          "officials acceded to the prisoners' demands",
+          "acquiesced to his boss's wishes"
+        ],
+        "web_examples": [
+          "As the Tingleys alternately acquiesced to and resisted Vista Grande's insistence on medication, administrators started calling 911 after altercations, according to ambulance and police dispatch records.",
+          "For the past five years, Ella had only acquiesced to seeing them on Easter and Christmas Eve, which for an Italian-American family was equivalent to a declaration of war.",
+          "The transfer from 2012 came a few days before Israel announced the end of a military operation in Gaza; not long after, Netanyahu effectively acquiesced to Sheikh Hamad’s visit.",
+          "Even absent Chinese aggression, people in Taiwan increasingly identify as Taiwanese and do not seem inclined to repeat Hong Kong’s experience of acquiescing to Chinese rule."
+        ],
+        "synonym_discussion": "Synonyms of acquiesce\nRelevance\nagree\nassent\nconsent\naccede\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acquiesce": {
+          "synset": "assent.v.01",
+          "definition": "to agree or express agreement",
+          "examples": [
+            "The Maestro assented to the request for an encore"
+          ]
+        },
+        "accede": {
+          "synset": "submit.v.06",
+          "definition": "yield to another's wish or opinion",
+          "examples": [
+            "The government bowed to the military pressure"
+          ]
+        },
+        "assent": {
+          "synset": "assent.n.01",
+          "definition": "agreement with a statement or proposal to do something",
+          "examples": [
+            "he gave his assent eagerly",
+            "a murmur of acquiescence from the assembly"
+          ]
+        },
+        "bargain": {
+          "synset": "bargain.n.01",
+          "definition": "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+          "examples": [
+            "he made a bargain with the devil",
+            "he rose to prominence through a series of shady deals"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 75,
+      "group_name": "adjoin, butt, edge, abut",
+      "target_word": "adjoin",
+      "words": [
+        "adjoin",
+        "butt",
+        "edge",
+        "abut"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adjoin 辨析组 (border.v.05)",
+      "synset_definition": "lie adjacent to another or share a boundary",
+      "merriam_webster": {
+        "definitions": [
+          "to add or attach by joining",
+          "to lie next to or in contact with",
+          "to be close to or in contact with one another",
+          "to add or attach by joining"
+        ],
+        "dictionary_examples": [
+          "The two ports adjoin one another and together form the largest container port complex in the Western Hemisphere.",
+          "Nearby, a dining area topped with a Noguchi light fixture adjoins a sleek matte black and brass-accented kitchen, which has an expansive island that seats five, integrated appliances, and a walk-in pantry.",
+          "Undeterred, the three friends bought the hotel and adjoining property for $3 million and have since spent over $10 million on renovations and redesign.",
+          "The film could use a few more such colorful secondary strands adjoining the main conflict, though one subplot involving a maybe-romance between two jaded journalists assigned to the summit is oddly framed and abruptly dropped."
+        ],
+        "web_examples": [
+          "The two ports adjoin one another and together form the largest container port complex in the Western Hemisphere.",
+          "Nearby, a dining area topped with a Noguchi light fixture adjoins a sleek matte black and brass-accented kitchen, which has an expansive island that seats five, integrated appliances, and a walk-in pantry.",
+          "Undeterred, the three friends bought the hotel and adjoining property for $3 million and have since spent over $10 million on renovations and redesign.",
+          "The film could use a few more such colorful secondary strands adjoining the main conflict, though one subplot involving a maybe-romance between two jaded journalists assigned to the summit is oddly framed and abruptly dropped."
+        ],
+        "synonym_discussion": "Synonyms of adjoin\nRelevance\njoin\nflank\nsurround\nneighbor\ntouch\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adjoin": {
+          "synset": "border.v.05",
+          "definition": "lie adjacent to another or share a boundary",
+          "examples": [
+            "Canada adjoins the U.S.",
+            "England marches with Scotland"
+          ]
+        },
+        "butt": {
+          "synset": "butt.n.01",
+          "definition": "thick end of the handle",
+          "examples": []
+        },
+        "edge": {
+          "synset": "edge.n.01",
+          "definition": "the boundary of a surface",
+          "examples": []
+        },
+        "abut": {
+          "synset": "border.v.05",
+          "definition": "lie adjacent to another or share a boundary",
+          "examples": [
+            "Canada adjoins the U.S.",
+            "England marches with Scotland"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 76,
+      "group_name": "adjourn, lapse, culminate, break",
+      "target_word": "adjourn",
+      "words": [
+        "adjourn",
+        "lapse",
+        "culminate",
+        "break"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adjourn 辨析组 (adjourn.v.01)",
+      "synset_definition": "close at the end of a session",
+      "merriam_webster": {
+        "definitions": [
+          "to suspend indefinitely or until a later stated time",
+          "to suspend a session indefinitely or to another time or place",
+          "to move to another place",
+          "to bring or come to a close for a period of time"
+        ],
+        "dictionary_examples": [
+          "But amid a flurry of amendments and pushback from the AFL-CIO and Congressional Black Caucus, the bill failed to reach the floor for a vote before the Senate adjourned for its five-week August recess.",
+          "The terms adjourned and continued are similar but have distinct meanings.",
+          "Chief among his fabrications is the absurd claim that this motion was 'adjourned' by mutual agreement between the government and the defense.",
+          "The House already is in recess through the midterms, and the Senate is about to adjourn soon."
+        ],
+        "web_examples": [
+          "But amid a flurry of amendments and pushback from the AFL-CIO and Congressional Black Caucus, the bill failed to reach the floor for a vote before the Senate adjourned for its five-week August recess.",
+          "The terms adjourned and continued are similar but have distinct meanings.",
+          "Chief among his fabrications is the absurd claim that this motion was 'adjourned' by mutual agreement between the government and the defense.",
+          "The House already is in recess through the midterms, and the Senate is about to adjourn soon."
+        ],
+        "synonym_discussion": "Synonyms of adjourn\nRelevance\nsuspend\npostpone\nrecess\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adjourn": {
+          "synset": "adjourn.v.01",
+          "definition": "close at the end of a session",
+          "examples": [
+            "The court adjourned"
+          ]
+        },
+        "lapse": {
+          "synset": "oversight.n.03",
+          "definition": "a mistake resulting from inattention",
+          "examples": []
+        },
+        "culminate": {
+          "synset": "culminate.v.01",
+          "definition": "end, especially to reach a final or climactic stage",
+          "examples": [
+            "The meeting culminated in a tearful embrace"
+          ]
+        },
+        "break": {
+          "synset": "interruption.n.02",
+          "definition": "some abrupt occurrence that interrupts an ongoing activity",
+          "examples": [
+            "the telephone is an annoying interruption",
+            "there was a break in the action when a player was hurt"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 77,
+      "group_name": "adjudicate, try, seal, take",
+      "target_word": "adjudicate",
+      "words": [
+        "adjudicate",
+        "try",
+        "seal",
+        "take"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adjudicate 辨析组 (judge.v.05)",
+      "synset_definition": "put on trial or hear a case and sit as the judge at the trial of",
+      "merriam_webster": {
+        "definitions": [
+          "to make an official decision about who is right in (a dispute) : to settle judicially",
+          "to act as judge",
+          "to decide, award, or sentence judicially",
+          "to settle either finally or temporarily (the rights and duties of the parties to a judicial or quasi-judicial proceeding) on the merits of the issues raised"
+        ],
+        "dictionary_examples": [
+          "The states likewise argued that the board does not raise First Amendment concerns, arguing that the deal will not put the court in the position of adjudicating news judgments.",
+          "In the last three years, the city’s longtime process for adjudicating those cases has been largely paused as the legal fight between the city and FOP, the union representing rank-and-file police officers, wound its way through the state judiciary.",
+          "The lawsuits Hoekstra has filed lean on a similar legal theory to the landmark social media case that was adjudicated in California in March, on which her firm assisted.",
+          "The events recreate Ireland’s own experience with the actor Scott Shepherd in 2012, an act that was messily adjudicated before MeToo, and which, as of Pre-Existing Condition, is still a raw thing."
+        ],
+        "web_examples": [
+          "The states likewise argued that the board does not raise First Amendment concerns, arguing that the deal will not put the court in the position of adjudicating news judgments.",
+          "In the last three years, the city’s longtime process for adjudicating those cases has been largely paused as the legal fight between the city and FOP, the union representing rank-and-file police officers, wound its way through the state judiciary.",
+          "The lawsuits Hoekstra has filed lean on a similar legal theory to the landmark social media case that was adjudicated in California in March, on which her firm assisted.",
+          "The events recreate Ireland’s own experience with the actor Scott Shepherd in 2012, an act that was messily adjudicated before MeToo, and which, as of Pre-Existing Condition, is still a raw thing."
+        ],
+        "synonym_discussion": "Synonyms of adjudicate\nRelevance\ndecide\nsettle\ndetermine\narbitrate\njudge\nadjudge\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adjudicate": {
+          "synset": "judge.v.05",
+          "definition": "put on trial or hear a case and sit as the judge at the trial of",
+          "examples": [
+            "The football star was tried for the murder of his wife",
+            "The judge tried both father and son in separate trials"
+          ]
+        },
+        "try": {
+          "synset": "attempt.n.01",
+          "definition": "earnest and conscientious activity intended to do or accomplish something",
+          "examples": [
+            "made an effort to cover all the reading material",
+            "wished him luck in his endeavor"
+          ]
+        },
+        "seal": {
+          "synset": "sealing_wax.n.01",
+          "definition": "fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters",
+          "examples": []
+        },
+        "take": {
+          "synset": "return.n.06",
+          "definition": "the income or profit arising from such transactions as the sale of land or other property",
+          "examples": [
+            "the average return was about 5%"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 78,
+      "group_name": "admonish, warn, monish, discourage",
+      "target_word": "admonish",
+      "words": [
+        "admonish",
+        "warn",
+        "monish",
+        "discourage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "admonish 辨析组 (warn.v.02)",
+      "synset_definition": "admonish or counsel in terms of someone's behavior",
+      "merriam_webster": {
+        "definitions": [
+          "to indicate duties or obligations to",
+          "to express warning or disapproval to (someone) about a fault or oversight especially in a gentle but serious way",
+          "to give friendly earnest advice or encouragement to",
+          "to say (something) as advice or a warning"
+        ],
+        "dictionary_examples": [
+          "gently reproved my table manners",
+          "the papal letter rebuked dissenting clerics",
+          "reprimanded by the ethics committee",
+          "admonished by my parents to control expenses",
+          "reproached him for tardiness",
+          "chided by their mother for untidiness"
+        ],
+        "web_examples": [
+          "In April 2025, Braxton Keith stopped a show to admonish fans for tossing beer and elaborated on the issue during an appearance on Rolling Stone’s Nashville Now podcast.",
+          "Despite being a point of contention for Prince William and Prince Harry, who’ve publicly admonished him for revealing personal details about Diana for financial gain, this memoir is only one of several royal tell-alls penned by Burrell.",
+          "All officers were also admonished that improper access of ALPR and other law enforcement systems is grounds for termination, Joseph said.",
+          "All persons having business before this honorable court are admonished to draw near and give their attention, for the court is now sitting."
+        ],
+        "synonym_discussion": "Synonyms of admonish\nRelevance\nreprimand\nscold\ncriticize\nblame\nchide\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "admonish": {
+          "synset": "warn.v.02",
+          "definition": "admonish or counsel in terms of someone's behavior",
+          "examples": [
+            "I warned him not to go too far",
+            "I warn you against false assumptions"
+          ]
+        },
+        "warn": {
+          "synset": "warn.v.01",
+          "definition": "notify of danger, potential harm, or risk",
+          "examples": [
+            "The director warned him that he might be fired",
+            "The doctor warned me about the dangers of smoking"
+          ]
+        },
+        "monish": {
+          "synset": "caution.v.01",
+          "definition": "warn strongly; put on guard",
+          "examples": []
+        },
+        "discourage": {
+          "synset": "deter.v.01",
+          "definition": "try to prevent; show opposition to",
+          "examples": [
+            "We should discourage this practice among our youth"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 79,
+      "group_name": "adorn, beautify, embellish, grace",
+      "target_word": "adorn",
+      "words": [
+        "adorn",
+        "beautify",
+        "embellish",
+        "grace"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adorn 辨析组 (decorate.v.01)",
+      "synset_definition": "make more attractive by adding ornament, colour, etc.",
+      "merriam_webster": {
+        "definitions": [
+          "to enhance the appearance of especially with beautiful objects",
+          "to enliven or decorate as if with ornaments",
+          "to enhance the appearance of with ornaments"
+        ],
+        "dictionary_examples": [
+          "a diamond necklace adorned her neck",
+          "decorate a birthday cake",
+          "a white house ornamented with green shutters",
+          "embellish a page with floral borders",
+          "will beautify the grounds with flower beds",
+          "a house all decked out for Christmas"
+        ],
+        "web_examples": [
+          "Murals of a variety of styles continue to adorn buildings, walls and parks in the Sacramento region, with varying degrees of issues and controversy and connections to art, history and community.",
+          "Silk also makes its way into all three pocket squares; they are adorned with a straight flush, a nod to Bond’s victory over Le Chiffre in the movie.",
+          "Zamindar’s Clubhouse, which opened in June in the former Link & Pin location in South End, offers a lush, opulent space adorned with Indian art, heritage architectural features, brass accents and warm lighting.",
+          "There were handheld American flags on skinny sticks, midsize ones to display on a wall and majestic formal flags adorned with silky gold fringe."
+        ],
+        "synonym_discussion": "Synonyms of adorn\nRelevance\ndecorate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adorn": {
+          "synset": "decorate.v.01",
+          "definition": "make more attractive by adding ornament, colour, etc.",
+          "examples": [
+            "Decorate the room for the party",
+            "beautify yourself for the special day"
+          ]
+        },
+        "beautify": {
+          "synset": "fancify.v.01",
+          "definition": "make more beautiful",
+          "examples": []
+        },
+        "embellish": {
+          "synset": "embroider.v.02",
+          "definition": "add details to",
+          "examples": []
+        },
+        "grace": {
+          "synset": "grace.n.01",
+          "definition": "(Christian theology) a state of sanctification by God; the state of one who is under such divine influence",
+          "examples": [
+            "the conception of grace developed alongside the conception of sin",
+            "it was debated whether saving grace could be obtained outside the membership of the church"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 80,
+      "group_name": "adulterate, debase, load, dilute",
+      "target_word": "adulterate",
+      "words": [
+        "adulterate",
+        "debase",
+        "load",
+        "dilute"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adulterate 辨析组 (load.v.05)",
+      "synset_definition": "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones",
+      "merriam_webster": {
+        "definitions": [
+          "to corrupt, debase, or make impure by the addition of a foreign or inferior substance or element",
+          "to prepare for sale by replacing more valuable with less valuable or inert ingredients",
+          "being adulterated : SPURIOUS",
+          "tainted with adultery : ADULTEROUS"
+        ],
+        "dictionary_examples": [
+          "Though some guests may appreciate a starter kit with unused and sealed products, such as snacks and cold beverages, Jones said the kitchen should be cleared of all food items in case they have been contaminated or adulterated.",
+          "The risk rises sharply when leaf products are adulterated or spiked with concentrated 7-OH (see below).",
+          "The vast majority – 89% – showed signs of being adulterated with other, cheaper oils, such as soybean oil.",
+          "At the time, there was little to no quality control of the foods sold in stores and markets across India, and vendors were known to cheat consumers by adulterating food products."
+        ],
+        "web_examples": [
+          "Though some guests may appreciate a starter kit with unused and sealed products, such as snacks and cold beverages, Jones said the kitchen should be cleared of all food items in case they have been contaminated or adulterated.",
+          "The risk rises sharply when leaf products are adulterated or spiked with concentrated 7-OH (see below).",
+          "The vast majority – 89% – showed signs of being adulterated with other, cheaper oils, such as soybean oil.",
+          "At the time, there was little to no quality control of the foods sold in stores and markets across India, and vendors were known to cheat consumers by adulterating food products."
+        ],
+        "synonym_discussion": "Synonyms of adulterate\nRelevance\n\nVerb\n\ndilute\npollute\n\nAdjective\n\ndilute\npolluted\nadulterated\ndiluted\nthinned\ncontaminated\nmixed\ntainted\nblended\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adulterate": {
+          "synset": "load.v.05",
+          "definition": "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones",
+          "examples": [
+            "adulterate liquor"
+          ]
+        },
+        "debase": {
+          "synset": "corrupt.v.01",
+          "definition": "corrupt morally or by intemperance or sensuality",
+          "examples": [
+            "debauch the young people with wine and women",
+            "Socrates was accused of corrupting young men"
+          ]
+        },
+        "load": {
+          "synset": "load.n.01",
+          "definition": "weight to be borne or conveyed",
+          "examples": []
+        },
+        "dilute": {
+          "synset": "dilute.v.01",
+          "definition": "lessen the strength or flavor of a solution or mixture",
+          "examples": [
+            "cut bourbon"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 81,
+      "group_name": "affiliate, assort, consort, associate",
+      "target_word": "affiliate",
+      "words": [
+        "affiliate",
+        "assort",
+        "consort",
+        "associate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affiliate 辨析组 (consort.v.01)",
+      "synset_definition": "keep company with; hang out with",
+      "merriam_webster": {
+        "definitions": [
+          "to bring or receive into close connection as a member or branch",
+          "to associate as a member",
+          "to trace the origin of",
+          "to connect or associate oneself : COMBINE"
+        ],
+        "dictionary_examples": [
+          "The letter is spearheaded by Guardrails Action, the nonprofit affiliated with Guardrails Alliance, the super PAC launched in June as a counterweight to pro-AI election groups.",
+          "No current members of the team have been affiliated with Chi Phi, the statement said.",
+          "Overlapping with Zaslav during their time at NBCU, Perrette rose to president of digital and affiliate distribution.",
+          "The deal also allows Samsung to leverage capabilities across its affiliates, spanning semiconductors and cooling systems to data center construction and batteries, as the group seeks to expand its role in the global AI infrastructure buildout."
+        ],
+        "web_examples": [
+          "The letter is spearheaded by Guardrails Action, the nonprofit affiliated with Guardrails Alliance, the super PAC launched in June as a counterweight to pro-AI election groups.",
+          "No current members of the team have been affiliated with Chi Phi, the statement said.",
+          "Overlapping with Zaslav during their time at NBCU, Perrette rose to president of digital and affiliate distribution.",
+          "The deal also allows Samsung to leverage capabilities across its affiliates, spanning semiconductors and cooling systems to data center construction and batteries, as the group seeks to expand its role in the global AI infrastructure buildout."
+        ],
+        "synonym_discussion": "Synonyms of affiliate\nRelevance\n\nNoun\n\nchapter\ncell\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "affiliate": {
+          "synset": "affiliate.n.01",
+          "definition": "a subordinate or subsidiary associate; a person who is affiliated with another or with an organization",
+          "examples": []
+        },
+        "assort": {
+          "synset": "consort.v.01",
+          "definition": "keep company with; hang out with",
+          "examples": [
+            "He associates with strange people",
+            "She affiliates with her colleagues"
+          ]
+        },
+        "consort": {
+          "synset": "consort.n.01",
+          "definition": "the husband or wife of a reigning monarch",
+          "examples": []
+        },
+        "associate": {
+          "synset": "associate.n.01",
+          "definition": "a person who joins with others in some activity or endeavor",
+          "examples": [
+            "he had to consult his associate before continuing"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 82,
+      "group_name": "afflict, faze, unnerve, unsettle",
+      "target_word": "afflict",
+      "words": [
+        "afflict",
+        "faze",
+        "unnerve",
+        "unsettle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "afflict 辨析组 (afflict.v.01)",
+      "synset_definition": "cause great unhappiness for; distress",
+      "merriam_webster": {
+        "definitions": [
+          "to cause pain or suffering to : to distress so severely as to cause persistent suffering or anguish",
+          "TROUBLE, INJURE",
+          "HUMBLE",
+          "OVERTHROW"
+        ],
+        "dictionary_examples": [
+          "ills that afflict the elderly",
+          "children often try their parents' patience",
+          "a horse tormented by flies",
+          "tortured by a sense of guilt",
+          "a body racked by pain",
+          "Engineers have also taken steps to ensure that a CFT-like thruster anomaly doesn't afflict future Starliner flights."
+        ],
+        "web_examples": [
+          "Engineers have also taken steps to ensure that a CFT-like thruster anomaly doesn't afflict future Starliner flights.",
+          "While the epicenter was located in Nantou County in central Taiwan, serious damage afflicted residents across the island as roads buckled, bridges collapsed and landslides destroyed everything in their path.",
+          "Here’s my Sunday postgame piece on a miserable condition that has afflicted Dolphins fans for years, and our plea to Jon-Eric Sullivan to fix it.",
+          "Singh and Jaggseer, like Beyoncé and Lil Nas X before them, highlight an identity crisis afflicting modern country music."
+        ],
+        "synonym_discussion": "Synonyms of afflict\nRelevance\nplague\npersecute\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "afflict": {
+          "synset": "afflict.v.01",
+          "definition": "cause great unhappiness for; distress",
+          "examples": [
+            "she was afflicted by the death of her parents"
+          ]
+        },
+        "faze": {
+          "synset": "faze.v.01",
+          "definition": "disturb the composure of",
+          "examples": []
+        },
+        "unnerve": {
+          "synset": "faze.v.01",
+          "definition": "disturb the composure of",
+          "examples": []
+        },
+        "unsettle": {
+          "synset": "faze.v.01",
+          "definition": "disturb the composure of",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 83,
+      "group_name": "affront, abase, diss, sting",
+      "target_word": "affront",
+      "words": [
+        "affront",
+        "abase",
+        "diss",
+        "sting"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affront 辨析组 (diss.v.01)",
+      "synset_definition": "treat, mention, or speak to rudely",
+      "merriam_webster": {
+        "definitions": [
+          "to insult especially to the face by behavior or language",
+          "to cause offense to",
+          "to face in defiance : CONFRONT",
+          "to encounter face-to-face"
+        ],
+        "dictionary_examples": [
+          "hoped that my remarks had not offended her",
+          "outraged by their accusations",
+          "deeply affronted by his callousness",
+          "insulted every guest at the party",
+          "Iraq similarly felt scandalized that its sovereignty had been so blatantly affronted and disregarded.",
+          "But the pop culture of twelve years ago is baffling, uncanny, affronting."
+        ],
+        "web_examples": [
+          "Iraq similarly felt scandalized that its sovereignty had been so blatantly affronted and disregarded.",
+          "But the pop culture of twelve years ago is baffling, uncanny, affronting.",
+          "The pollster and the newspaper described the lawsuit as a conspiracy theory and an affront to free speech protections.",
+          "Perhaps the kid is resisting gendered socialization itself, the whole ascent to physical adulthood and its attendant adolescent affronts."
+        ],
+        "synonym_discussion": "Synonyms of affront\nRelevance\n\nVerb\n\ninsult\noffend\noutrage\n\nNoun\n\ninsult\nsarcasm\noutrage\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "affront": {
+          "synset": "insult.n.02",
+          "definition": "a deliberately offensive act or something producing the effect of deliberate disrespect",
+          "examples": [
+            "turning his back on me was a deliberate insult"
+          ]
+        },
+        "abase": {
+          "synset": "humiliate.v.01",
+          "definition": "cause to feel shame; hurt the pride of",
+          "examples": [
+            "He humiliated his colleague by criticising him in front of the boss"
+          ]
+        },
+        "diss": {
+          "synset": "dis.n.01",
+          "definition": "god of the underworld; counterpart of Greek Pluto",
+          "examples": []
+        },
+        "sting": {
+          "synset": "sting.n.01",
+          "definition": "a kind of pain; something as sudden and painful as being stung",
+          "examples": [
+            "the sting of death",
+            "he felt the stinging of nettles"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 84,
+      "group_name": "aggregate, intermingle, blend, concoct",
+      "target_word": "aggregate",
+      "words": [
+        "aggregate",
+        "intermingle",
+        "blend",
+        "concoct"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aggregate 辨析组 (aggregate.v.02)",
+      "synset_definition": "gather in a mass, sum, or whole",
+      "merriam_webster": {
+        "definitions": [
+          "formed by the collection of units or particles into a body, mass, or amount : COLLECTIVE: such as",
+          "clustered in a dense mass or head",
+          "formed from several separate ovaries of a single flower",
+          "composed of mineral crystals of one or more kinds or of mineral rock fragments"
+        ],
+        "dictionary_examples": [
+          "There were to be thirty-seven playgrounds, twenty schools. There were to be a hundred and thirty-three miles of street, paved with an inch and a half of No. 2 macadam on an aggregate base.",
+          "Their success at opening up new sources of supply, generating and servicing demand, and connecting new markets with the processing industries of the Amsterdam entrepôt seemed … to belie the axiom of an inelastic aggregate volume of world trade—a zero-sum competition.",
+          "The mulberry looks a bit like a raspberry. But the raspberry (along with the other brambles, members of the genus Rubus, such as the blackberry) is an aggregate fruit generated by a single, if complex, flower.",
+          "With Keynes, standard theory conceded that disequilibria might intrude upon the economy as a whole, but it held that these could be remedied by judicious stabilization of aggregate demand—that is, combined government and consumer purchasing power.",
+          "The problem, in this case, is that the synergy creates incentives for segregation. Ethnic advertisers scour the TV schedule for shows and channels that \"aggregate\" viewers of the type the client wants to reach …",
+          "\"We are good at aggregating eyeballs and delivering services,\" says Barry Schuler, the president of AOL Interactive Services, \"and the Time Warner deal is a natural extension of that.\""
+        ],
+        "web_examples": [
+          "Conversely, modern concrete is subject to irreversible decay, a form of disintegration owing to its formation as a composite of cement and aggregate materials, such as gravel and sand.",
+          "Paxton is trailing Talarico by 3 points, according to aggregate survey data from RealClearPolling.",
+          "Specifically, the law directs the California Public Utilities Commission to create a pathway for these separate devices to be aggregated to export electricity by June 30, 2027.",
+          "Condé Nast, like other publishers, has seen its web traffic decline as AI chatbots aggregate information that readers would previously have sought out on media platforms."
+        ],
+        "synonym_discussion": "Synonyms of aggregate\nRelevance\n\nVerb\n\nnumber\naverage\ntotal\n\nNoun\n\ntotal\nsum\ntotality\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "aggregate": {
+          "synset": "sum.n.05",
+          "definition": "the whole amount",
+          "examples": []
+        },
+        "intermingle": {
+          "synset": "blend.v.01",
+          "definition": "combine into one",
+          "examples": [
+            "blend the nuts and raisins together",
+            "he blends in with the crowd"
+          ]
+        },
+        "blend": {
+          "synset": "blend.n.01",
+          "definition": "an occurrence of thorough mixing",
+          "examples": []
+        },
+        "concoct": {
+          "synset": "concoct.v.01",
+          "definition": "make a concoction (of) by mixing",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 85,
+      "group_name": "agitate, jog, lure, entice",
+      "target_word": "agitate",
+      "words": [
+        "agitate",
+        "jog",
+        "lure",
+        "entice"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "agitate 辨析组 (agitate.v.01)",
+      "synset_definition": "try to stir up public opinion",
+      "merriam_webster": {
+        "definitions": [
+          "to excite and often trouble the mind or feelings of : DISTURB",
+          "to discuss excitedly and earnestly",
+          "to stir up public discussion of",
+          "to give motion to"
+        ],
+        "dictionary_examples": [
+          "shake well before using",
+          "an ocean agitated by storms",
+          "the whole city was rocked by the explosion",
+          "spectators were convulsed with laughter",
+          "discomposed by the loss of his beloved wife",
+          "the disquieting news of factories closing"
+        ],
+        "web_examples": [
+          "Each of these segments offers your community bank an opportunity to personalize your marketing to provide more value and deepen your relationship, rather than sending along generic one-size-fits-all offers that are ignored or agitate your base.",
+          "Billions of minuscule creatures, after all, agitate the waterways of the world.",
+          "The poorer the air being inhaled by children in Hackney, the more regularly the dust was agitated and the thicker the storm and richer the color inside the box.",
+          "The dryer balls will bounce around and agitate the filling in your duvet, allowing for more efficient drying and constant fluffing."
+        ],
+        "synonym_discussion": "Synonyms of agitate\nRelevance\nstir\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "agitate": {
+          "synset": "agitate.v.01",
+          "definition": "try to stir up public opinion",
+          "examples": []
+        },
+        "jog": {
+          "synset": "jog.n.01",
+          "definition": "a sharp change in direction",
+          "examples": [
+            "there was a jog in the road"
+          ]
+        },
+        "lure": {
+          "synset": "lure.n.01",
+          "definition": "qualities that attract by seeming to promise some kind of reward",
+          "examples": []
+        },
+        "entice": {
+          "synset": "entice.v.01",
+          "definition": "provoke someone to do something through (often false or exaggerated) promises or persuasion",
+          "examples": [
+            "He lured me into temptation"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 86,
+      "group_name": "alight, port, perch, beach",
+      "target_word": "alight",
+      "words": [
+        "alight",
+        "port",
+        "perch",
+        "beach"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "alight 辨析组 (alight.v.01)",
+      "synset_definition": "to come to rest, settle",
+      "merriam_webster": {
+        "definitions": [
+          "to come down from something (such as a vehicle): such as",
+          "DISMOUNT",
+          "DEPLANE",
+          "to descend from or as if from the air and come to rest : LAND, SETTLE"
+        ],
+        "dictionary_examples": [
+          "Their gaze is increasingly alighting on Europe, the world’s second-largest consumer market.",
+          "This shimmering, sonorous work, from one of our greatest living directors, moves through the peculiar landscapes of human interaction with certainty, eccentricity and grace, alighting on a generous if rueful conclusion.",
+          "Brown will over the course of eight episodes shine alight on some of the absurd health experiences that play a significant role in women’s lives.",
+          "Two cars were set alight outside the bar during the shooting."
+        ],
+        "web_examples": [
+          "Their gaze is increasingly alighting on Europe, the world’s second-largest consumer market.",
+          "This shimmering, sonorous work, from one of our greatest living directors, moves through the peculiar landscapes of human interaction with certainty, eccentricity and grace, alighting on a generous if rueful conclusion.",
+          "Brown will over the course of eight episodes shine alight on some of the absurd health experiences that play a significant role in women’s lives.",
+          "Two cars were set alight outside the bar during the shooting."
+        ],
+        "synonym_discussion": "Synonyms of alight\nRelevance\n\nVerb\n\nperch\nland\nlight\n\nAdjective\n\nilluminated\nlit\nillumined\nlight\nbright\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alight": {
+          "synset": "alight.v.01",
+          "definition": "to come to rest, settle",
+          "examples": [
+            "Misfortune lighted upon him"
+          ]
+        },
+        "port": {
+          "synset": "port.n.01",
+          "definition": "a place (seaport or airport) where people and merchandise can enter or leave a country",
+          "examples": []
+        },
+        "perch": {
+          "synset": "perch.n.01",
+          "definition": "support consisting of a branch or rod that serves as a resting place (especially for a bird)",
+          "examples": []
+        },
+        "beach": {
+          "synset": "beach.n.01",
+          "definition": "an area of sand sloping down to the water of a sea or lake",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 87,
+      "group_name": "align, skew, aline, adjust",
+      "target_word": "align",
+      "words": [
+        "align",
+        "skew",
+        "aline",
+        "adjust"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "align 辨析组 (align.v.01)",
+      "synset_definition": "place in a line or arrange so as to be parallel or straight",
+      "merriam_webster": {
+        "definitions": [
+          "to bring into line or alignment",
+          "to array on the side of or against a party or cause",
+          "to get or fall into line",
+          "to be in or come into precise adjustment or correct relative position"
+        ],
+        "dictionary_examples": [
+          "Bibb claimed the group is also in talks with members of Congress about aligning their agendas.",
+          "The team notes that this version uses one cell line, muscle fibers aligned in one direction and simple shapes.",
+          "The decision aligns with current economic trends, tariffs, and public interest in onshore manufacturing.",
+          "Horowitz has described getting the product right, then aligning it with the right brand voice and customer experience."
+        ],
+        "web_examples": [
+          "Bibb claimed the group is also in talks with members of Congress about aligning their agendas.",
+          "The team notes that this version uses one cell line, muscle fibers aligned in one direction and simple shapes.",
+          "The decision aligns with current economic trends, tariffs, and public interest in onshore manufacturing.",
+          "Horowitz has described getting the product right, then aligning it with the right brand voice and customer experience."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "align": {
+          "synset": "align.v.01",
+          "definition": "place in a line or arrange so as to be parallel or straight",
+          "examples": [
+            "align the car with the curb",
+            "align the sheets of paper on the table"
+          ]
+        },
+        "skew": {
+          "synset": "skew.v.01",
+          "definition": "turn or place at an angle",
+          "examples": [
+            "the lines on the sheet of paper are skewed"
+          ]
+        },
+        "aline": {
+          "synset": "align.v.01",
+          "definition": "place in a line or arrange so as to be parallel or straight",
+          "examples": [
+            "align the car with the curb",
+            "align the sheets of paper on the table"
+          ]
+        },
+        "adjust": {
+          "synset": "adjust.v.01",
+          "definition": "alter or regulate so as to achieve accuracy or conform to a standard",
+          "examples": [
+            "Adjust the clock, please",
+            "correct the alignment of the front wheels"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 88,
+      "group_name": "allay, ease, still, relieve",
+      "target_word": "allay",
+      "words": [
+        "allay",
+        "ease",
+        "still",
+        "relieve"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "allay 辨析组 (still.v.03)",
+      "synset_definition": "lessen the intensity of or calm",
+      "merriam_webster": {
+        "definitions": [
+          "to subdue or reduce in intensity or severity : ALLEVIATE",
+          "to make quiet : CALM",
+          "to diminish in strength : SUBSIDE",
+          "to make less severe : RELIEVE"
+        ],
+        "dictionary_examples": [
+          "took an aspirin to relieve the pain",
+          "the lotion alleviated the itching",
+          "good news would lighten our worries",
+          "ocean breezes assuaged the intense heat",
+          "the need to mitigate barbaric laws",
+          "allayed their fears"
+        ],
+        "web_examples": [
+          "The purpose was to provide transparency about the process and to allay concerns about the integrity of our voting system.",
+          "One way to allay fears that the United States is retrenching from the world’s most important region is to chart an ambitious course for its most critical alliance.",
+          "Trump and key members of his team, such as Treasury Secretary Scott Bessent, have suggested this is now the path forward to allay any debt concerns.",
+          "The House of Representatives passed a bipartisan bill that would require data centers to cover the cost of grid and energy upgrades, an effort to shield households from rising energy prices and allay rising fears among voters about the industry."
+        ],
+        "synonym_discussion": "Synonyms of allay\nRelevance\nalleviate\nrelieve\nhelp\nsoothe\nmitigate\nease\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "allay": {
+          "synset": "still.v.03",
+          "definition": "lessen the intensity of or calm",
+          "examples": [
+            "The news eased my conscience",
+            "still the fears"
+          ]
+        },
+        "ease": {
+          "synset": "ease.n.01",
+          "definition": "freedom from difficulty or hardship or effort",
+          "examples": [
+            "he rose through the ranks with apparent ease",
+            "they put it into containers for ease of transportation"
+          ]
+        },
+        "still": {
+          "synset": "still.n.01",
+          "definition": "a static photograph (especially one taken from a movie and used for advertising purposes)",
+          "examples": [
+            "he wanted some stills for a magazine ad"
+          ]
+        },
+        "relieve": {
+          "synset": "relieve.v.01",
+          "definition": "provide physical relief, as from pain",
+          "examples": [
+            "This pill will relieve your headaches"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 89,
+      "group_name": "alleviate, relieve, assuage, palliate",
+      "target_word": "alleviate",
+      "words": [
+        "alleviate",
+        "relieve",
+        "assuage",
+        "palliate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "alleviate 辨析组 (relieve.v.01)",
+      "synset_definition": "provide physical relief, as from pain",
+      "merriam_webster": {
+        "definitions": [
+          "RELIEVE, LESSEN: such as",
+          "to make (something, such as pain or suffering) more bearable",
+          "to partially remove or correct (something undesirable)",
+          "to make easier to put up with : RELIEVE"
+        ],
+        "dictionary_examples": [
+          "took an aspirin to relieve the pain",
+          "the lotion alleviated the itching",
+          "good news would lighten our worries",
+          "ocean breezes assuaged the intense heat",
+          "the need to mitigate barbaric laws",
+          "allayed their fears"
+        ],
+        "web_examples": [
+          "Authorities are monitoring air quality and hotspots, with the government conducting cloud seeding when conditions permit to alleviate the situation.",
+          "After initially refusing surgical intervention, Joel had a shunt implanted to alleviate some effects of the disorder.",
+          "This wasn’t a game where Johnson tried to be extremely creative with the run game, getting D’Andre Swift and others involved to alleviate the pressure on Keenum.",
+          "Alternate shipping routes, release of reserves, export bans and additional subsidies are some of the short-term measures that can alleviate the worst of the pain."
+        ],
+        "synonym_discussion": "Synonyms of alleviate\nRelevance\nrelieve\nhelp\nmitigate\nsoothe\nease\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alleviate": {
+          "synset": "relieve.v.01",
+          "definition": "provide physical relief, as from pain",
+          "examples": [
+            "This pill will relieve your headaches"
+          ]
+        },
+        "relieve": {
+          "synset": "relieve.v.01",
+          "definition": "provide physical relief, as from pain",
+          "examples": [
+            "This pill will relieve your headaches"
+          ]
+        },
+        "assuage": {
+          "synset": "pacify.v.01",
+          "definition": "cause to be more favorably inclined; gain the good will of",
+          "examples": [
+            "She managed to mollify the angry customer"
+          ]
+        },
+        "palliate": {
+          "synset": "extenuate.v.01",
+          "definition": "lessen or to try to lessen the seriousness or extent of",
+          "examples": [
+            "The circumstances extenuate the crime"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 90,
+      "group_name": "allude, insinuate, touch, advert",
+      "target_word": "allude",
+      "words": [
+        "allude",
+        "insinuate",
+        "touch",
+        "advert"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "allude 辨析组 (allude.v.01)",
+      "synset_definition": "make a more or less disguised reference to",
+      "merriam_webster": {
+        "definitions": [
+          "to make indirect reference",
+          "REFER",
+          "to speak of or hint at without mentioning directly"
+        ],
+        "dictionary_examples": [
+          "As alluded to previously, the entire universe may actually exist in a higher-dimensional space.",
+          "Adams had alluded to slavery in 1816, when he confided to Jefferson that \"there will be greater difficulties to preserve our Union, than You and I, our Fathers Brothers Friends … have had to form it.\"",
+          "The more challenging problems in fact—ones that the optimists rarely allude to—will be the problems of success.",
+          "Der Kaufmann von Berlin self-consciously alluded, in its title and to a certain extent its plot, to Shakespeare’s Merchant of Venice.",
+          "Cramer alluded those remarks from Huang, and argued the debate should be settled.",
+          "The women have been alluding that all will be revealed in Season 5 for some time."
+        ],
+        "web_examples": [
+          "Der Kaufmann von Berlin self-consciously alluded, in its title and to a certain extent its plot, to Shakespeare’s Merchant of Venice.",
+          "Cramer alluded those remarks from Huang, and argued the debate should be settled.",
+          "The women have been alluding that all will be revealed in Season 5 for some time.",
+          "The Debbie and Thom switch-up Ellis often alludes that Thom (Campbell) is unintelligent in the novel, with Bret telling readers that his best friend isn’t picking up on clues that his girlfriend, Susan, and Robert are romantically involved."
+        ],
+        "synonym_discussion": "Synonyms of allude\nRelevance\nindicate\nimply\nsuggest\nhint\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "allude": {
+          "synset": "allude.v.01",
+          "definition": "make a more or less disguised reference to",
+          "examples": [
+            "He alluded to the problem but did not mention it"
+          ]
+        },
+        "insinuate": {
+          "synset": "insinuate.v.01",
+          "definition": "introduce or insert (oneself) in a subtle manner",
+          "examples": [
+            "He insinuated himself into the conversation of the people at the nearby table"
+          ]
+        },
+        "touch": {
+          "synset": "touch.n.01",
+          "definition": "the event of something coming in contact with the body",
+          "examples": [
+            "he longed for the touch of her hand",
+            "the cooling touch of the night air"
+          ]
+        },
+        "advert": {
+          "synset": "ad.n.01",
+          "definition": "a public promotion of some product or service",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 91,
+      "group_name": "amalgamate, mix, unify, commix",
+      "target_word": "amalgamate",
+      "words": [
+        "amalgamate",
+        "mix",
+        "unify",
+        "commix"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "amalgamate 辨析组 (mix.v.05)",
+      "synset_definition": "to bring or combine together or with something else",
+      "merriam_webster": {
+        "definitions": [
+          "to unite in or as if in an amalgam",
+          "to merge into a single body",
+          "to unite in an amalgam",
+          "to combine into a single body : MERGE"
+        ],
+        "dictionary_examples": [
+          "mix the salad greens",
+          "mix a drink",
+          "fear mingled with anticipation in my mind",
+          "a sense of duty commingled with a fierce pride drove her",
+          "blended several teas to create a balanced flavor",
+          "in his mind reality and fantasy merged"
+        ],
+        "web_examples": [
+          "Moreover, Skida had been amalgamating preseason orders with instant stock in the same retail order flows, creating a host of complicated inventory issues.",
+          "The combined company would also amalgamate CBS, CNN, HBO Max, Paramount+ and dozens of cable channels.",
+          "Closures are part of an ongoing effort to shutter, amalgamate or repurpose campuses throughout the district in response to a precipitous decline in enrollment.",
+          "Yang suspects that the same reactions that take place in a combustion engine could be occurring naturally within certain mini-Neptunes, producing PAHS that amalgamate as clouds of soot that then rise higher into the atmosphere, perhaps driven upwards by thermal convection currents."
+        ],
+        "synonym_discussion": "Synonyms of amalgamate\nRelevance\ncombine\nmerge\nmix\nintegrate\nblend\nincorporate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "amalgamate": {
+          "synset": "mix.v.05",
+          "definition": "to bring or combine together or with something else",
+          "examples": [
+            "resourcefully he mingled music and dance"
+          ]
+        },
+        "mix": {
+          "synset": "mix.n.01",
+          "definition": "a commercially prepared mixture of dry ingredients",
+          "examples": []
+        },
+        "unify": {
+          "synset": "unify.v.01",
+          "definition": "become one",
+          "examples": [
+            "Germany unified officially in 1990",
+            "the cells merge"
+          ]
+        },
+        "commix": {
+          "synset": "mix.v.05",
+          "definition": "to bring or combine together or with something else",
+          "examples": [
+            "resourcefully he mingled music and dance"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 92,
+      "group_name": "amass, gather, cumulate, accumulate",
+      "target_word": "amass",
+      "words": [
+        "amass",
+        "gather",
+        "cumulate",
+        "accumulate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "amass 辨析组 (accumulate.v.02)",
+      "synset_definition": "collect or gather",
+      "merriam_webster": {
+        "definitions": [
+          "to collect for oneself : ACCUMULATE",
+          "to collect into a mass : GATHER",
+          "to come together : ASSEMBLE",
+          "to collect into a mass : ACCUMULATE"
+        ],
+        "dictionary_examples": [
+          "Starting freshman tight end Mark Bowman was also listed as questionable on the report after catching six passes for 44 yards against Oregon and amassing the second-most receptions on the team overall with 21.",
+          "In addition to their share in Walmart, the family has continued to amass their fortune through the acquisition of sports teams.",
+          "The paintings come from a collection amassed by the late Argentine art collector Nelly Arrieta de Blaquier and her sugar magnate husband, Carlos Pedro Blaquier, and are being sold by their children.",
+          "Eagles running back Saquon Barkley has amassed 64 credits care of his DirecTV and Nationwide commitments."
+        ],
+        "web_examples": [
+          "Starting freshman tight end Mark Bowman was also listed as questionable on the report after catching six passes for 44 yards against Oregon and amassing the second-most receptions on the team overall with 21.",
+          "In addition to their share in Walmart, the family has continued to amass their fortune through the acquisition of sports teams.",
+          "The paintings come from a collection amassed by the late Argentine art collector Nelly Arrieta de Blaquier and her sugar magnate husband, Carlos Pedro Blaquier, and are being sold by their children.",
+          "Eagles running back Saquon Barkley has amassed 64 credits care of his DirecTV and Nationwide commitments."
+        ],
+        "synonym_discussion": "Synonyms of amass\nRelevance\ncollect\ngather\nassemble\naccumulate\ngarner\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "amass": {
+          "synset": "accumulate.v.02",
+          "definition": "collect or gather",
+          "examples": [
+            "Journals are accumulating in my office",
+            "The work keeps piling up"
+          ]
+        },
+        "gather": {
+          "synset": "gather.n.01",
+          "definition": "sewing consisting of small folds or puckers made by pulling tight a thread in a line of stitching",
+          "examples": []
+        },
+        "cumulate": {
+          "synset": "accumulate.v.02",
+          "definition": "collect or gather",
+          "examples": [
+            "Journals are accumulating in my office",
+            "The work keeps piling up"
+          ]
+        },
+        "accumulate": {
+          "synset": "roll_up.v.02",
+          "definition": "get or gather together",
+          "examples": [
+            "I am accumulating evidence for the man's unfaithfulness to his wife",
+            "She is amassing a lot of data for her thesis"
+          ]
+        }
+      }
+    }
+  ]
+}

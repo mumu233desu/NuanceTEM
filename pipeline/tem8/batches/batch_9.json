@@ -1,0 +1,722 @@
+[
+  {
+    "id": "tem8_c9_01",
+    "group_id": 208,
+    "group_name": "adversity, sewer, toilet, gutter",
+    "level": "TEM-8",
+    "target_word": "adversity",
+    "question": "Sociological studies on post-war reconstruction illustrate that shared national ___ fostered profound generational solidarity, compelling displaced communities to pool scarce communal resources rather than retreat into atomized despair.",
+    "options": ["adversity", "sewer", "toilet", "gutter"],
+    "answer": "adversity",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰语 'shared national' 与后文 'fostered profound generational solidarity' 及 'retreat into atomized despair' 构成绝对排他线索，专指整个民族共同面对的宏观苦难与逆境。",
+    "distractor_analysis": {
+      "adversity": "n. 专指“逆境、厄运、苦难”（shared national adversity），指代全民族在战后废墟中共同经历的客观艰苦逆境，与代际团结呼应。",
+      "sewer": "n. 下水道、排污管道；属于具体地下市政基础设施，无法用 national 修饰来充当代际团结的精神凝聚催化剂。",
+      "toilet": "n. 盥洗室、抽水马桶；具体卫浴设施名词，语域与学术文本完全脱节。",
+      "gutter": "n. 街沟、排水沟；虽可喻指社会赤贫（in the gutter），但不能作抽象不可数名词由 national 修饰，句法与语义均破格。"
+    },
+    "translation": "针对战后重建的社会学研究表明，整个国家共同经历的厄运与逆境培育了深厚的代际团结，迫使流离失所的社区集中稀缺的公共资源，而非退缩进原子化的绝望之中。"
+  },
+  {
+    "id": "tem8_c9_02",
+    "group_id": 208,
+    "group_name": "adversity, sewer, toilet, gutter",
+    "level": "TEM-8",
+    "target_word": "adversity",
+    "question": "Archival records reveal that the exiled dissident poets turned acute political ___ into an aesthetic catalyst, transforming personal displacement and material deprivation into enduring literature of anti-colonial resistance.",
+    "options": ["adversity", "sewer", "toilet", "gutter"],
+    "answer": "adversity",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配 'acute political ___ into an aesthetic catalyst' 以及后文同位阐释 'personal displacement and material deprivation'（流离失所与物质匮乏）构成决定性题眼，专指政治层面的逆境与磨难。",
+    "distractor_analysis": {
+      "adversity": "n. 逆境、困境（acute political adversity），准确指代异见诗人在流亡中所承受的政治迫害与恶劣逆境。",
+      "sewer": "n. 下水道；具体排污工程，无法受 political 修饰构成艺术创作的催化剂。",
+      "toilet": "n. 抽水马桶；具体器物，无论在句法、语义还是文体上均属破格。",
+      "gutter": "n. 街沟；俚语中有 political gutter（政治下作/龌龊），但作定语或固定短语，无法由 acute 修饰作为流亡诗人转化为美学成果的厄运实体。"
+    },
+    "translation": "档案记录表明，流亡的异见诗人将尖锐的政治逆境转化为美学催化剂，将个人的流离失所与物质匮乏升华为经久不衰的反殖民抵抗文学。"
+  },
+  {
+    "id": "tem8_c9_03",
+    "group_id": 209,
+    "group_name": "advocacy, blessing, approval, adhesion",
+    "level": "TEM-8",
+    "target_word": "advocacy",
+    "question": "The legal historian noted that sustained grassroots ___ on behalf of disenfranchised tenants ultimately pressured municipal authorities into abolishing discriminatory tenancy charters that had persisted for generations.",
+    "options": ["advocacy", "blessing", "approval", "adhesion"],
+    "answer": "advocacy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "'grassroots ___ on behalf of disenfranchised tenants'（代表无权租户的基层倡导/发声）构成决定性排他题眼，专指为弱势群体利益进行的主动倡导与维权奔走。",
+    "distractor_analysis": {
+      "advocacy": "n. 积极倡导、呼吁发声（grassroots advocacy on behalf of），强调自下而上为受压迫群体争取权利的主动抗争行动。",
+      "blessing": "n. 祝福、默许；属于掌权者或长辈自上而下的施予（give one's blessing），不能用于基层群众向市政当局施压的抗争语境。",
+      "approval": "n. 批准、赞同；属于对现成方案的被动认可，缺乏主动为弱势群体辩护奔走的政治动员内涵。",
+      "adhesion": "n. 粘附、粘连；通常用于医学或物理学，与 on behalf of 完全无法发生句法搭配。"
+    },
+    "translation": "法律史学家指出，代表被剥夺权利之租户的持续基层倡导，最终迫使市政当局废除了延续数代的歧视性租赁特许状。"
+  },
+  {
+    "id": "tem8_c9_04",
+    "group_id": 209,
+    "group_name": "advocacy, blessing, approval, adhesion",
+    "level": "TEM-8",
+    "target_word": "advocacy",
+    "question": "Her relentless scholarly ___ of restorative justice challenged orthodox judicial historiography, demonstrating how customary community reconciliations had been systematically dismantled under imperial jurisprudence.",
+    "options": ["advocacy", "blessing", "approval", "adhesion"],
+    "answer": "advocacy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'scholarly ___ of restorative justice' 搭配后文 'challenged orthodox judicial historiography'，专指学者在学术理论上对某种司法理念的主动倡导与积极辩护。",
+    "distractor_analysis": {
+      "advocacy": "n. 倡导、主张（scholarly advocacy of sth.），专指在理论场域对某种正义学说的坚定支持与积极弘扬。",
+      "blessing": "n. 赐福、准许；学术理念不依赖学者个人的恩赐性“祈福”，语域与概念不当。",
+      "approval": "n. 认可、审定；通常指对行政报告或既定事实的被动核准，不能体现学者发起理论挑战的持续主动倡导。",
+      "adhesion": "n. 附着、粘连；主要指物理表面附着或病理组织粘连，不能用于思想学说的理论倡导。"
+    },
+    "translation": "她对恢复性司法不懈的学术倡导挑战了正统司法史学，揭示了传统的社区和解如何在帝国法学体制下被系统性瓦解。"
+  },
+  {
+    "id": "tem8_c9_05",
+    "group_id": 210,
+    "group_name": "aerobatics, sortie, solo, pass",
+    "level": "TEM-8",
+    "target_word": "aerobatics",
+    "question": "During the interwar decade, state-sponsored displays of daring ___ functioned as potent nationalist propaganda, captivating urban crowds while signaling technological prowess to rival European powers.",
+    "options": ["aerobatics", "sortie", "solo", "pass"],
+    "answer": "aerobatics",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'displays of daring ___' 与 'captivating urban crowds while signaling technological prowess' 构成绝对题眼，专指向公众展示的惊险特技飞行表演。",
+    "distractor_analysis": {
+      "aerobatics": "n. 特技飞行表演（daring aerobatics），特指战机在空中完成的翻滚、俯冲等高难度观赏性飞行技巧。",
+      "sortie": "n. （军机）出击、突围飞行；专指实战作战任务，绝非面向城市大众观赏的观赏性国家展示（displays）。",
+      "solo": "n. 独唱、独奏；单人独飞；虽可指单人飞行，但不能搭配 displays of daring 来统领国家级飞行梯队表演项目。",
+      "pass": "n. 隘口、通行证、低空飞越；单次掠过动作，不能指代展现国家综合工业技术实力的系列高难空中特技。"
+    },
+    "translation": "在两次世界大战之间的十年里，国家资助的大胆特技飞行表演发挥了强有力的民族主义宣传作用，在吸引城市大众的同时向欧洲敌对大国宣示技术实力。"
+  },
+  {
+    "id": "tem8_c9_06",
+    "group_id": 210,
+    "group_name": "aerobatics, sortie, solo, pass",
+    "level": "TEM-8",
+    "target_word": "aerobatics",
+    "question": "Historians of military aviation argue that the peacetime spectacles of synchronized ___ masked the lethal geopolitical rivalries of the Cold War behind choreographed displays of mechanical grace.",
+    "options": ["aerobatics", "sortie", "solo", "pass"],
+    "answer": "aerobatics",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'synchronized ___' 与后文 'choreographed displays of mechanical grace'（精心编排的机械优雅表演）构成排他锚点，专指编队同步特技飞行。",
+    "distractor_analysis": {
+      "aerobatics": "n. 特技飞行；synchronized aerobatics 专指编队同步特技飞行表演，与后文 choreographed displays of mechanical grace 形成完美互文。",
+      "sortie": "n. 战斗出击；系实弹武装攻击飞行，绝不可能被定性为 peacetime spectacles of mechanical grace（和平时期的机械优雅奇观）。",
+      "solo": "n. 单人独演；其单人属性与 synchronized（多人多机协同同步）在逻辑与语义上产生绝对矛盾。",
+      "pass": "n. 低空通场、隘口；无法被 synchronized 修饰作为展现编排技巧的整套特技表演艺术。"
+    },
+    "translation": "军事航空史学家认为，和平时期同步编队特技飞行的壮观场面，将冷战时期致命的地缘政治竞争掩盖在精心编排的机械优雅表演之后。"
+  },
+  {
+    "id": "tem8_c9_07",
+    "group_id": 211,
+    "group_name": "aerodynamics, dynamics, statics, kinetics",
+    "level": "TEM-8",
+    "target_word": "aerodynamics",
+    "question": "The 1930s industrial design movement embraced the principles of vehicular ___, reshaping high-speed locomotives and household appliances alike into streamlined emblems of rapid technological progression.",
+    "options": ["aerodynamics", "dynamics", "statics", "kinetics"],
+    "answer": "aerodynamics",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'principles of vehicular ___' 与后文 'reshaping high-speed locomotives... into streamlined emblems' 构成题眼，专指塑造流线型外观的气动力学原理。",
+    "distractor_analysis": {
+      "aerodynamics": "n. 空气动力学；vehicular aerodynamics（车辆空气动力学）是20世纪30年代将机车外形改造为流线型（streamlined）以减小风阻的专门学科。",
+      "dynamics": "n. 动力学、动态机制；范畴过于泛化，不能特指与高速流线型造型设计直接相关的空气阻力力学。",
+      "statics": "n. 静力学；研究物体处于静止平衡状态下的力，与高速运行（high-speed）及流线型减阻产生直接概念对立。",
+      "kinetics": "n. 运动学、反应动力学；主要侧重速度与受力变化过程或化学反应速率，不与 vehicular 搭配指代车体气动设计原理。"
+    },
+    "translation": "20世纪30年代的工业设计运动采纳了车辆空气动力学原理，将高速机车与家用电器一并重塑为象征技术飞速进步的流线型标志。"
+  },
+  {
+    "id": "tem8_c9_08",
+    "group_id": 211,
+    "group_name": "aerodynamics, dynamics, statics, kinetics",
+    "level": "TEM-8",
+    "target_word": "aerodynamics",
+    "question": "Retrospective analyses of the supersonic transport race reveal that theoretical breakthroughs in high-speed ___ were frequently subordinated to national prestige, culminating in commercially unsustainable aeronautical marvels.",
+    "options": ["aerodynamics", "dynamics", "statics", "kinetics"],
+    "answer": "aerodynamics",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'supersonic transport race'（超音速客机竞赛）与 'breakthroughs in high-speed ___' 及后文 'aeronautical marvels'（航空奇迹）构成绝对排他线索，专指高速超音速空气动力学。",
+    "distractor_analysis": {
+      "aerodynamics": "n. 空气动力学；high-speed aerodynamics（高速空气动力学）是突破音障、研发超音速客机（supersonic transport）的核心航空力学分支。",
+      "dynamics": "n. 动力学；泛指力与运动关系的学科总称，不包含针对超音速飞行气流阻力与激波的专指性。",
+      "statics": "n. 静力学；研究静止体系平衡，与超音速（supersonic）高速气流力学完全不相容。",
+      "kinetics": "n. 动力学、化学动力学；通常研究微观反应速率或机械运动学，不用于表述机翼超音速气动突破。"
+    },
+    "translation": "对超音速客机竞赛的回顾性分析表明，高速空气动力学的理论突破往往屈从于国家声望的考量，最终促成了商业上难以为继的航空奇迹。"
+  },
+  {
+    "id": "tem8_c9_09",
+    "group_id": 212,
+    "group_name": "aerosol, coma, nebula, mushroom",
+    "level": "TEM-8",
+    "target_word": "aerosol",
+    "question": "Paleoclimatic surveys of Arctic ice cores indicate that industrial sulphate ___ emissions surged exponentially during the nineteenth century, leaving indelible chemical signatures of early fossil-fuel capitalism.",
+    "options": ["aerosol", "coma", "nebula", "mushroom"],
+    "answer": "aerosol",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'industrial sulphate ___ emissions'（工业硫酸盐气溶胶排放）与后文冰芯中留下化学印记（chemical signatures）构成排他性科学线索。",
+    "distractor_analysis": {
+      "aerosol": "n. 气溶胶；sulphate aerosol emissions（硫酸盐气溶胶排放）是古气候学与环境变迁史中记录工业革命大气污染的经典学术术语。",
+      "coma": "n. 昏迷；彗发；医学上的病理性深度意识丧失，与工业大气排放毫无交集。",
+      "nebula": "n. 星云；天文学中的宇宙深空气体尘埃云，无法作为地球工业排放的微粒术语。",
+      "mushroom": "n. 蘑菇；真菌植物，不能与 sulphate 搭配修饰工业气体排放。"
+    },
+    "translation": "对北极冰芯的古气候调查表明，工业硫酸盐气溶胶排放在19世纪呈指数级激增，留下了早期化石燃料资本主义不可磨灭的化学印记。"
+  },
+  {
+    "id": "tem8_c9_10",
+    "group_id": 212,
+    "group_name": "aerosol, coma, nebula, mushroom",
+    "level": "TEM-8",
+    "target_word": "aerosol",
+    "question": "Historical accounts of the environmental movement trace the ban on chlorofluorocarbons back to widespread consumer boycotts of pressurized ___ cans that had jeopardized the stratospheric ozone layer.",
+    "options": ["aerosol", "coma", "nebula", "mushroom"],
+    "answer": "aerosol",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'pressurized ___ cans' 与 'chlorofluorocarbons' 及 'stratospheric ozone layer' 构成排他题眼，专指使用氟利昂的加压气雾罐/喷雾罐。",
+    "distractor_analysis": {
+      "aerosol": "n. 气雾剂、喷雾；pressurized aerosol cans（加压气雾罐）是20世纪后半叶破坏平流层臭氧层的标志性消费品载体。",
+      "coma": "n. 昏迷；生理学重症，无法修饰金属罐装容器（cans）。",
+      "nebula": "n. 星云；天文宏观概念，不能作为日常消费品包装罐的修饰语。",
+      "mushroom": "n. 蘑菇；虽有罐头蘑菇（canned mushrooms），但 pressurized（加压的）以及消耗臭氧层的氟利昂线索彻底排除了 mushroom。"
+    },
+    "translation": "关于环保运动的历史记载将对氯氟烃的禁令追溯至消费者对加压气雾罐的广泛抵制，这些气雾罐曾严重危害平流层臭氧层。"
+  },
+  {
+    "id": "tem8_c9_11",
+    "group_id": 213,
+    "group_name": "aerospace, mare, air, side",
+    "level": "TEM-8",
+    "target_word": "aerospace",
+    "question": "The postwar economic boom in Southern California was predominantly spearheaded by the federal subsidization of the burgeoning ___ sector, which absorbed thousands of demobilized engineers and technicians.",
+    "options": ["aerospace", "mare", "air", "side"],
+    "answer": "aerospace",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'the burgeoning ___ sector, which absorbed thousands of demobilized engineers and technicians' 构成绝对线索，专指战后加州吸纳大批复员工程师与技术人员的航空航天产业。",
+    "distractor_analysis": {
+      "aerospace": "n./adj. 航空航天（aerospace sector/industry），指战后美国军工复合体中涵盖飞机与导弹航天器的核心高科技支柱产业。",
+      "mare": "n. 母马；月海；农业动物或天文学名词，无法作为高科技工业部门（sector）。",
+      "air": "n. 空气、天空；air sector 属于错误搭配，统领战后高端技术产业的工业术语是 aerospace。",
+      "side": "n. 方面、侧边；side sector 毫无经济史概念意义。"
+    },
+    "translation": "南加州战后的经济繁荣主要由联邦政府对蓬勃发展的航空航天部门的补贴所引领，该产业吸收了数以千计的复员工程师和技术人员。"
+  },
+  {
+    "id": "tem8_c9_12",
+    "group_id": 213,
+    "group_name": "aerospace, mare, air, side",
+    "level": "TEM-8",
+    "target_word": "aerospace",
+    "question": "Memoirs from the Apollo era emphasize that the colossal expansion of the national ___ enterprise reshaped civic identity, turning distant celestial exploration into a secular religion of progress.",
+    "options": ["aerospace", "mare", "air", "side"],
+    "answer": "aerospace",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'Apollo era'（阿波罗时代）、'national ___ enterprise' 与后文 'celestial exploration into a secular religion' 构成题眼，专指统领外太空探索的国家航空航天事业。",
+    "distractor_analysis": {
+      "aerospace": "n./adj. 航空航天；national aerospace enterprise 专指跨越地球大气层与外层空间的天体探测国家工程体系。",
+      "mare": "n. 母马；月海（阿波罗飞船虽降落于月海，但 mare 不可作为定语修饰国家级 exploration enterprise）。",
+      "air": "n. 空气、航空；national air enterprise 仅局限于民航或普通空域运输，无法涵盖阿波罗登月等天体探索（celestial exploration）。",
+      "side": "n. 方面、边界；与国家级太空宏大工程的语境完全格格不入。"
+    },
+    "translation": "阿波罗时代的回忆录强调，国家航空航天事业的空前扩张重塑了公民认同，将遥远的天体探索转化为一种关于进步的世俗信仰。"
+  },
+  {
+    "id": "tem8_c9_13",
+    "group_id": 214,
+    "group_name": "affinity, magnetism, bond, gravity",
+    "level": "TEM-8",
+    "target_word": "affinity",
+    "question": "Early nationalist intellectuals educated in metropolitan capitals discovered a profound ideological ___ with European radical republicanism, weaponizing Western egalitarian doctrines against imperial hegemony at home.",
+    "options": ["affinity", "magnetism", "bond", "gravity"],
+    "answer": "affinity",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'ideological ___ with'（与……在意识形态上的深层亲和/契合）构成核心介词搭配题眼，表示思想理论之间的内在亲近与志趣相投。",
+    "distractor_analysis": {
+      "affinity": "n. 亲和力、契合共鸣（ideological affinity with），专指思想、信念或政治理念之间的内在相通性。",
+      "magnetism": "n. 磁性、个人魅力；一般不接 ideological magnetism with，magnetism 强调向心吸引而非两者思想维度的对称契合。",
+      "bond": "n. 纽带；通常表达为 a bond between A and B，若与 with 连用多指具体情感联结，无法自然表达与某种激进政治哲学思潮的理念投契。",
+      "gravity": "n. 重力、严重性；与 with 搭配产生语义破格，无法形容意识形态上的共鸣。"
+    },
+    "translation": "宗主国大都市受教育的早期民族主义知识分子发现，自己与欧洲激进共和主义存在着深刻的意识形态亲和性，从而将西方平等主义学说武器化以对抗本国的帝国霸权。"
+  },
+  {
+    "id": "tem8_c9_14",
+    "group_id": 214,
+    "group_name": "affinity, magnetism, bond, gravity",
+    "level": "TEM-8",
+    "target_word": "affinity",
+    "question": "The cultural historian observed that the countercultural youth harbored an instinctive ___ for Zen aesthetics, seeking spiritual solace in minimalist philosophy as an antidote to aggressive postwar consumerism.",
+    "options": ["affinity", "magnetism", "bond", "gravity"],
+    "answer": "affinity",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "'harbored an instinctive ___ for' 构成决定性搭配题眼，专指对某种美学或哲学的本能亲近与天然喜爱。",
+    "distractor_analysis": {
+      "affinity": "n. 喜爱、天然亲近（harbor an instinctive affinity for sth.），精准表达文化群体对某种东方美学的心灵契合与偏爱。",
+      "magnetism": "n. 磁力、吸引力；magnetism 是事物散发出的吸引力（不可说某人 harbor a magnetism for 某种美学），主被动逻辑倒错。",
+      "bond": "n. 纽带、契约；不与 harbor a bond for 搭配（通常为 a bond between/with）。",
+      "gravity": "n. 严肃、引力；harbor a gravity for 属于句法与语意双重破格。"
+    },
+    "translation": "这位文化史学家指出，反文化青年对禅宗美学怀有一种本能的亲近感，试图在极简主义哲学中寻求精神慰藉，以此作为抵御战后激进消费主义的解药。"
+  },
+  {
+    "id": "tem8_c9_15",
+    "group_id": 215,
+    "group_name": "agitation, trance, trauma, hypnosis",
+    "level": "TEM-8",
+    "target_word": "agitation",
+    "question": "Nineteenth-century abolitionists recognized that moral rhetoric alone was insufficient without relentless popular ___ to shatter parliamentary complacency and compel the immediate legislative prohibition of the transatlantic slave trade.",
+    "options": ["agitation", "trance", "trauma", "hypnosis"],
+    "answer": "agitation",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'relentless popular ___ to shatter parliamentary complacency and compel... legislative prohibition' 构成题眼，专指打破议会懈怠、迫成立法的激进群众政治鼓动与抗争。",
+    "distractor_analysis": {
+      "agitation": "n. 政治鼓动、社会骚动（popular agitation），专指社会运动中为推动立法变革而组织的大规模群众抗争与激进动员。",
+      "trance": "n. 恍惚、出神；个体失神心理状态，与迫使议会立法的积极群众动员背道而驰。",
+      "trauma": "n. 创伤；指受害者承受的精神创伤，属于被动承受的痛苦，不能主动充当打破政治僵局的抗争手段。",
+      "hypnosis": "n. 催眠；心理催眠术，无法作为推动法案通过的社会政治斗争形式。"
+    },
+    "translation": "19世纪的废奴主义者认识到，若没有持续不断的民众政治鼓动来打破议会的自满并迫成立法废除大西洋奴隶贸易，单凭道德说教是远远不够的。"
+  },
+  {
+    "id": "tem8_c9_16",
+    "group_id": 215,
+    "group_name": "agitation, trance, trauma, hypnosis",
+    "level": "TEM-8",
+    "target_word": "agitation",
+    "question": "Archival pamphlets demonstrate that radical union organizers orchestrated widespread industrial ___ across northern textile mills, transforming disparate wage grievances into a unified proletarian movement.",
+    "options": ["agitation", "trance", "trauma", "hypnosis"],
+    "answer": "agitation",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'orchestrated widespread industrial ___ across northern textile mills' 与后文 'transforming disparate wage grievances into a unified proletarian movement' 构成排他搭配题眼。",
+    "distractor_analysis": {
+      "agitation": "n. 罢工风潮、劳工运动鼓动（industrial agitation），是工运史与劳工社会学中形容工会策划抗争风暴的经典学术搭配。",
+      "trance": "n. 恍惚；精神出神状态，与工会精心策划（orchestrated）的抗争运动毫无关联。",
+      "trauma": "n. 创伤；创伤是被动遭受的痛苦，不能被工会组织者作为一种抗争武器来“精心策划”（orchestrate industrial trauma 逻辑不通）。",
+      "hypnosis": "n. 催眠；不可用于修饰纺织厂劳工群体的组织抗争活动。"
+    },
+    "translation": "档案小册子表明，激进的工会组织者在北部纺织厂策划了广泛的劳工抗争风潮，将零散的工资诉求转化为统一的无产阶级运动。"
+  },
+  {
+    "id": "tem8_c9_17",
+    "group_id": 216,
+    "group_name": "aids, mumps, polio, mono",
+    "level": "TEM-8",
+    "target_word": "aids",
+    "question": "Cultural historians scrutinizing the late twentieth century argue that the ___ epidemic not only decimated a generation of creative artists but also catalyzed unprecedented activist mobilization against institutional homophobia.",
+    "options": ["aids", "mumps", "polio", "mono"],
+    "answer": "aids",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'late twentieth century'（20世纪晚期）、'decimated a generation of creative artists' 与 'mobilization against institutional homophobia'（对抗制度性同性恋偏见的激进动员）构成绝对历史排他线索。",
+    "distractor_analysis": {
+      "aids": "n. 艾滋病；20世纪80年代重创欧美艺术界并直接催生了反抗制度性性取向偏见政治运动的历史性世纪公共卫生危机。",
+      "mumps": "n. 流行性腮腺炎；儿童自限性疾病，绝不可能摧毁一代艺术家或引发对抗制度性偏见的激进平权运动。",
+      "polio": "n. 脊髓灰质炎（小儿麻痹症）；高发于20世纪中叶且已研制出疫苗，与20世纪末及反抗同性恋歧视运动完全无关。",
+      "mono": "n. 单核细胞增多症；青年常见轻度腺热感染，不具备此种毁灭一代文化名人的历史沉重感。"
+    },
+    "translation": "审视20世纪晚期的文化史学家认为，艾滋病疫情不仅重创了整整一代富有创造力的艺术家，还催生了针对制度性同性恋偏见的前所未有的维权动员。"
+  },
+  {
+    "id": "tem8_c9_18",
+    "group_id": 216,
+    "group_name": "aids, mumps, polio, mono",
+    "level": "TEM-8",
+    "target_word": "aids",
+    "question": "The commemorative quilt project transformed the devastating toll of the emerging ___ crisis into a monumental artifact of public grief, challenging government indifference through collective textile memory.",
+    "options": ["aids", "mumps", "polio", "mono"],
+    "answer": "aids",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'commemorative quilt project'（著名的艾滋病纪念拼布 The AIDS Memorial Quilt）与后文 'challenging government indifference through collective textile memory' 构成独一无二的历史专指题眼。",
+    "distractor_analysis": {
+      "aids": "n. 艾滋病；The AIDS Memorial Quilt（艾滋病纪念拼布）是当代公共记忆与反抗政府冷漠的历史地标性集体纪念艺术。",
+      "mumps": "n. 腮腺炎；普通儿童病，历史上不存在挑战政府冷漠的拼布公共纪念运动。",
+      "polio": "n. 脊髓灰质炎；历史上主要通过慈善基金推进疫苗，无对抗政府冷漠的纺织拼布公共哀悼项目。",
+      "mono": "n. 单核细胞增多症；良性自愈性疾病，不可能引发全国性的 public grief 纪念拼布运动。"
+    },
+    "translation": "这一纪念拼布项目将新出现的艾滋病危机的灾难性代价转化为公共哀悼的丰碑式遗存，通过集体织物记忆向政府的冷漠发起了挑战。"
+  },
+  {
+    "id": "tem8_c9_19",
+    "group_id": 217,
+    "group_name": "ailment, ill, sprue, choking",
+    "level": "TEM-8",
+    "target_word": "ailment",
+    "question": "Nineteenth-century geopolitical commentators frequently diagnosed the crumbling empire not as a victim of external aggression, but as a sclerotic body politic suffering from an incurable chronic ___.",
+    "options": ["ailment", "ill", "sprue", "choking"],
+    "answer": "ailment",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'sclerotic body politic suffering from an incurable chronic ___' 构成决定性搭配题眼，将国家机体衰退隐喻为饱受无法治愈的慢性顽疾折磨。",
+    "distractor_analysis": {
+      "ailment": "n. 痼疾、慢性病（chronic ailment），在外刊社论中常作为国家机体（body politic）长期制度性衰落的经典医学隐喻。",
+      "ill": "n. 祸害、弊病；指代社会弊端时绝大多数情况下恒用复数形式（social ills），冠词 an 与单数 ill 搭配极不自然且不符合医学隐喻惯用法。",
+      "sprue": "n. 热带口炎性腹泻；罕见消化道器质性疾病，无法承担宏大政治有机体的衰亡隐喻。",
+      "choking": "n. 窒息；系突发急性机械性气道受阻，与 chronic（长期的、慢性的）在医学病理逻辑上直接矛盾。"
+    },
+    "translation": "19世纪的地缘政治评论家经常将分崩离析的帝国诊断为并非外敌侵略的受害者，而是一个硬化的政治机体，正饱受某种无法根治的慢性痼疾折磨。"
+  },
+  {
+    "id": "tem8_c9_20",
+    "group_id": 217,
+    "group_name": "ailment, ill, sprue, choking",
+    "level": "TEM-8",
+    "target_word": "ailment",
+    "question": "Victorian sanitation inspectors documented that premature retirement among factory hands was routinely precipitated by a respiratory ___, contracted after decades of inhaling toxic cotton dust.",
+    "options": ["ailment", "ill", "sprue", "choking"],
+    "answer": "ailment",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'routinely precipitated by a respiratory ___ contracted after decades of inhaling toxic cotton dust' 构成排他线索，专指数十年吸入粉尘导致的呼吸系统慢性疾病。",
+    "distractor_analysis": {
+      "ailment": "n. 慢性疾病、微恙（respiratory ailment），精准指代由长期职业有害暴露诱发的呼吸道慢性器质性病痛。",
+      "ill": "n. 弊端、疾病；作为可数名词单数接 a respiratory ill 违反英语标准惯用表达（一般用 respiratory illness 或 ailment）。",
+      "sprue": "n. 口炎性腹泻；肠道吸收不良病，与呼吸系统（respiratory）及吸入棉尘毫无医学因果联系。",
+      "choking": "n. 窒息感；是急性物理窒息症状，不能用 contracted（染上某种病症）作为导致提前退休的持续性疾病名词。"
+    },
+    "translation": "维多利亚时代的卫生稽查员记录表明，工厂工人过早丧失劳动能力通常是由呼吸系统顽疾引发的，而这种病症是在吸入有毒棉尘数十年后罹患的。"
+  },
+  {
+    "id": "tem8_c9_21",
+    "group_id": 218,
+    "group_name": "airlift, lift, carry, drive",
+    "level": "TEM-8",
+    "target_word": "airlift",
+    "question": "Cold War memoirs vividly recall that the monumental Allied ___ sustained two million West Berliners during the Soviet blockade, transforming former wartime adversaries into ideological protectors.",
+    "options": ["airlift", "lift", "carry", "drive"],
+    "answer": "airlift",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'monumental Allied ___ sustained two million West Berliners during the Soviet blockade' 构成绝对历史题眼，专指破除苏联封锁的“柏林空运”重大历史行动。",
+    "distractor_analysis": {
+      "airlift": "n. 紧急空运大行动（Allied airlift）；柏林空运（Berlin Airlift）是冷战史举世皆知的专有历史事件名称。",
+      "lift": "n. 举起、顺风车；虽可通俗指空运货物，但作为重大地缘政治事件专有名称时缺乏专业历史严密性。",
+      "carry": "n. 搬运、携带；普通物理搬运动作，无法指代跨国战略物资空中运输行动。",
+      "drive": "n. 驱车、攻势；地面交通已被苏联彻底切断封锁，地面 drive 根本无法维持城市运转。"
+    },
+    "translation": "冷战回忆录生动地记述了规模空前的盟军大空运如何在苏联封锁期间维持了两百万西柏林人的生存，并将昔日的战时敌手转变为意识形态保护者。"
+  },
+  {
+    "id": "tem8_c9_22",
+    "group_id": 218,
+    "group_name": "airlift, lift, carry, drive",
+    "level": "TEM-8",
+    "target_word": "airlift",
+    "question": "The dramatic evacuation from the embassy rooftop remains etched in popular memory as the final desperate ___ marking the chaotic dissolution of American dominance in Southeast Asia.",
+    "options": ["airlift", "lift", "carry", "drive"],
+    "answer": "airlift",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'evacuation from the embassy rooftop' 与后文 'the final desperate ___ marking the chaotic dissolution' 构成排他线索，专指1975年西贡使馆屋顶直升机紧急撤离空中行动。",
+    "distractor_analysis": {
+      "airlift": "n. 空中紧急疏散/大空运（desperate airlift），精准概括历史影像中直升机从屋顶大撤离的空中逃生行动。",
+      "lift": "n. 升降、提振；作为名词使用时语域过于口语单薄，无法彰显战乱撤离军事行动的沉重历史质感。",
+      "carry": "n. 搬运；属于基础肢体动作，无法指代由飞行器机群执行的国家级撤离行动。",
+      "drive": "n. 驱车前行；从使馆屋顶（embassy rooftop）撤离属于纯粹的空中作业，与陆路 drive 存在物理空间冲突。"
+    },
+    "translation": "使馆屋顶戏剧性的大撤离深深烙印在公众记忆中，成为标志着美国在东南亚主导地位混乱瓦解的最后一次绝望空中大撤退。"
+  },
+  {
+    "id": "tem8_c9_23",
+    "group_id": 219,
+    "group_name": "airstrip, drome, strip, airport",
+    "level": "TEM-8",
+    "target_word": "airstrip",
+    "question": "Exploring the remote Melanesian atoll, archaeologists uncovered an overgrown coral ___ constructed by Seabees in 1943, where rust-eaten fuselages still lay buried beneath tropical foliage.",
+    "options": ["airstrip", "drome", "strip", "airport"],
+    "answer": "airstrip",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'overgrown coral ___ constructed by Seabees in 1943, where rust-eaten fuselages still lay buried' 构成绝对题眼，专指二战工兵在热带珊瑚岛开辟的简易起降跑道。",
+    "distractor_analysis": {
+      "airstrip": "n. 简易起降跑道（coral airstrip），特指战时在岛屿野外紧急压实开辟、无民用航站设施的战地简易跑道。",
+      "drome": "n. 机场；属于古英语或构词词缀，在现代学术英语中无法独立与 coral 搭配。",
+      "strip": "n. 条状物；缺乏 landing 复合修饰时语义宽泛含混，不及 airstrip 准确专业。",
+      "airport": "n. 机场；具备正规航站楼、候机设施与商业服务，偏远珊瑚礁上的战时野战工事绝非现代 airport。"
+    },
+    "translation": "在探查偏远的美拉尼西亚环礁时，考古学家发现了一条由海军工程兵于1943年修筑且杂草丛生的珊瑚简易跑道，锈迹斑斑的飞机机身仍掩埋在热带植被之下。"
+  },
+  {
+    "id": "tem8_c9_24",
+    "group_id": 219,
+    "group_name": "airstrip, drome, strip, airport",
+    "level": "TEM-8",
+    "target_word": "airstrip",
+    "question": "Declassified intelligence memos confirm that covert supply planes landed under cover of darkness on a clandestine jungle ___, delivering munitions to anti-communist insurgent militias.",
+    "options": ["airstrip", "drome", "strip", "airport"],
+    "answer": "airstrip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'covert supply planes landed... on a clandestine jungle ___' 构成搭配与语境题眼，专指秘密行动中在丛林深处秘密开辟的临时起降场。",
+    "distractor_analysis": {
+      "airstrip": "n. 简易跑道；clandestine jungle airstrip（秘密丛林简易跑道）是冷战地缘秘密武装空运行动中的标准学术搭配。",
+      "drome": "n. 机场（非正式或古英语残存词），无法与 clandestine jungle 搭配使用。",
+      "strip": "n. 带状地带；单独出现易与狭长地块或脱衣混淆，不符合严谨史学档案用语。",
+      "airport": "n. 正规机场；拥有雷达塔台与海关监管，不可能神不知鬼不觉地隐匿在热带雨林中充当反叛民兵的秘密起降点。"
+    },
+    "translation": "解密的谍报备忘录证实，秘密补给机在夜幕掩护下降落于一条隐蔽的丛林简易跑道上，向反共叛乱民兵运送军火弹药。"
+  },
+  {
+    "id": "tem8_c9_25",
+    "group_id": 220,
+    "group_name": "alchemy, dealings, politics, chemistry",
+    "level": "TEM-8",
+    "target_word": "alchemy",
+    "question": "Urban historians marvel at the cultural ___ that transmuted neglected immigrant tenements into a vibrant cradle of twentieth-century modernism, forging revolutionary artistic idioms out of economic precarity.",
+    "options": ["alchemy", "dealings", "politics", "chemistry"],
+    "answer": "alchemy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'cultural ___ that transmuted neglected immigrant tenements into... forging revolutionary artistic idioms out of economic precarity' 构成绝对线索，动词 transmute 与 out of economic precarity 绝对锚定炼金术般的化腐朽为神奇。",
+    "distractor_analysis": {
+      "alchemy": "n. 炼金术、奇迹般的转变（cultural alchemy），与后文动词 transmute（点石成金般点化）构成同源修辞的排他性绝配。",
+      "dealings": "n. 往来、人际交易；无法作为主语去把廉租公寓 transmute 为现代主义艺术摇篮。",
+      "politics": "n. 政治斗争、手腕；缺乏将困顿物质神奇升华为先锋艺术的魔幻转化隐喻内涵。",
+      "chemistry": "n. 化学反应、人际投契；虽有相互作用之意，但英语中唯有 alchemy 与 transmute（炼金转化）构成绝对呼应的隐喻体系。"
+    },
+    "translation": "城市史学家惊叹于那种将破败的移民廉租公寓蜕变为20世纪现代主义生机勃勃摇篮的文化炼金术，在经济朝不保夕的困境中熔铸出革命性的艺术语言。"
+  },
+  {
+    "id": "tem8_c9_26",
+    "group_id": 220,
+    "group_name": "alchemy, dealings, politics, chemistry",
+    "level": "TEM-8",
+    "target_word": "alchemy",
+    "question": "Through a shrewd commercial ___, mid-century broadcast executives transformed provincial folk balladeers into globally idolized pop icons, transmuting raw regional nostalgia into lucrative mass consumer spectacles.",
+    "options": ["alchemy", "dealings", "politics", "chemistry"],
+    "answer": "alchemy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'Through a shrewd commercial ___... transmuting raw regional nostalgia into lucrative mass consumer spectacles' 构成题眼，专指将朴素乡愁神奇点化为暴利狂欢的商业点金术。",
+    "distractor_analysis": {
+      "alchemy": "n. 点金术、魔幻化合（commercial alchemy），呼应后文分词 transmuting，意指商业传媒运作中点石成金的奇妙转化机制。",
+      "dealings": "n. 商业交易（复数）；受不定冠词 a 修饰发生单复数语法破格（a shrewd commercial dealings 错误）。",
+      "politics": "n. 政治策略；无法与 transmuting raw nostalgia into mass spectacles 形成魔幻转化的隐喻统一。",
+      "chemistry": "n. 化学；commercial chemistry 侧重商业伙伴之间的默契，不能作为实施外部造神转化的手段机制。"
+    },
+    "translation": "凭借精明的商业点金术，20世纪中叶的广播业高管将乡土民谣歌手重塑为全球膜拜的流行偶像，将朴素的地域乡愁点化为利润丰厚的大众消费奇观。"
+  },
+  {
+    "id": "tem8_c9_27",
+    "group_id": 221,
+    "group_name": "alcoholism, egomania, potomania, agromania",
+    "level": "TEM-8",
+    "target_word": "alcoholism",
+    "question": "Pioneering temperance crusaders depicted chronic ___ as the paramount social scourge of the industrial age, arguing that tavern wages squandered on spirits drove working-class households into destitution.",
+    "options": ["alcoholism", "egomania", "potomania", "agromania"],
+    "answer": "alcoholism",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'temperance crusaders'（禁酒运动倡导者）与 'tavern wages squandered on spirits'（在酒馆挥霍于烈酒上的薪酬）构成排他题眼，专指工业革命时期的慢性酗酒恶习。",
+    "distractor_analysis": {
+      "alcoholism": "n. 酗酒、慢性酒精中毒；禁酒运动（temperance movement）的历史核心攻击目标，与 tavern（小酒馆）及 spirits（烈酒）严密呼应。",
+      "egomania": "n. 极度利己狂、自恋自大狂；与酒馆饮酒破产毫无关联。",
+      "potomania": "n. 狂饮癖；高度冷僻罕见的医学病理词（指强迫性过量饮水或液体），历史禁酒运动文献的标准定性词是 alcoholism。",
+      "agromania": "n. 旷野狂；心理学罕用词，指狂热渴望遁入荒野，与城市酒馆劳工酗酒问题毫无关系。"
+    },
+    "translation": "早期的禁酒运动倡导者将慢性酗酒描绘为工业时代最首要的社会公害，坚称工人在小酒馆里挥霍在烈酒上的工资将工人阶级家庭推向了一贫如洗的境地。"
+  },
+  {
+    "id": "tem8_c9_28",
+    "group_id": 221,
+    "group_name": "alcoholism, egomania, potomania, agromania",
+    "level": "TEM-8",
+    "target_word": "alcoholism",
+    "question": "Biographers studying lost-generation expatriates observe that severe ___ plagued their Parisian exile, reflecting the profound existential disillusionment that haunted veterans returning from the trenches.",
+    "options": ["alcoholism", "egomania", "potomania", "agromania"],
+    "answer": "alcoholism",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'lost-generation expatriates... severe ___ plagued their Parisian exile' 与战壕创伤（veterans returning from the trenches）构成题眼，专指迷惘一代文人的自毁性酗酒宿疾。",
+    "distractor_analysis": {
+      "alcoholism": "n. 酗酒成瘾；海明威、菲茨杰拉德等一战“迷惘的一代”流亡作家在巴黎用以逃避战争创伤虚无感的标志性历史病理恶疾。",
+      "egomania": "n. 极端自大狂；无法准确对应迷惘一代沉溺酒精以麻痹战壕心理创伤的集体宿命。",
+      "potomania": "n. 强迫性多饮；极其生僻的生理学术语，绝非20世纪文学传记与社会历史语篇的学术用语。",
+      "agromania": "n. 旷野狂；指病态渴望遁入开阔田野，迷惘一代流亡者扎堆于巴黎市中心的咖啡馆与酒吧，与此病症完全相反。"
+    },
+    "translation": "研究迷惘一代流亡作家的传记作者指出，严重的酗酒恶疾困扰着他们的巴黎流亡岁月，反映了从战壕归来的退伍军人心中挥之不去的深刻存在主义幻灭。"
+  },
+  {
+    "id": "tem8_c9_29",
+    "group_id": 222,
+    "group_name": "alias, brand, title, marque",
+    "level": "TEM-8",
+    "target_word": "alias",
+    "question": "Nineteenth-century literary historians emphasize that Mary Ann Evans adopted the male ___ 'George Eliot' not merely for concealment, but to shield her philosophical fiction from patriarchal condescension.",
+    "options": ["alias", "brand", "title", "marque"],
+    "answer": "alias",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'Mary Ann Evans adopted the male ___ 'George Eliot' not merely for concealment' 构成决定性文学史题眼，专指女性作家为隐匿身份而采用的男性化名/笔名。",
+    "distractor_analysis": {
+      "alias": "n. 化名、别名（male alias）；指代创作者或当事人为隐藏自身真实身份而启用的假名。",
+      "brand": "n. 品牌、商标；商业术语，不能指代女作家的文学化名笔名。",
+      "title": "n. 标题、封号头衔；'George Eliot' 是一个人名假名，而非贵族爵位或学术头衔。",
+      "marque": "n. （名车、奢侈品的）品牌、型号；高端商业商品制造标志，与个人文学化名毫不相干。"
+    },
+    "translation": "19世纪文学史家强调，玛丽·安·埃文斯采用男性化名“乔治·艾略特”不仅是为了隐匿身份，更是为了保护她的哲学小说免遭父权制的居高临下审视。"
+  },
+  {
+    "id": "tem8_c9_30",
+    "group_id": 222,
+    "group_name": "alias, brand, title, marque",
+    "level": "TEM-8",
+    "target_word": "alias",
+    "question": "Declassified dossiers show that the defector lived quietly for decades under a mundane ___, completely erasing his past identity as a high-ranking intelligence officer within the Eastern Bloc.",
+    "options": ["alias", "brand", "title", "marque"],
+    "answer": "alias",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "'the defector lived quietly for decades under a mundane ___ completely erasing his past identity' 构成题眼，固定搭配 'live under an alias' 专指隐姓埋名生活于伪造假名之下。",
+    "distractor_analysis": {
+      "alias": "n. 假名、伪名（live under an alias），指流亡特工为切断过去身份线索而采用的掩护性假名。",
+      "brand": "n. 品牌；属于商业商品标识，不能作人类隐匿身份的 live under a brand。",
+      "title": "n. 头衔、爵位；隐匿身份是为了消除引人注目的特质，绝不可能生活在显眼头衔之下，且固定搭配为 under the title of（指书名）。",
+      "marque": "n. （高端工业品）名牌；与个人隐姓埋名的生存状态完全不搭。"
+    },
+    "translation": "解密的档案卷宗显示，该叛逃者数十年间隐姓埋名生活在一个平淡无奇的假名之下，彻底抹去了他曾作为东欧阵营高级情报官员的昔日身份。"
+  },
+  {
+    "id": "tem8_c9_31",
+    "group_id": 223,
+    "group_name": "alibi, excuse, apology, apologia",
+    "level": "TEM-8",
+    "target_word": "alibi",
+    "question": "Revisionist historians contend that the proclaimed 'civilizing mission' provided a convenient moral ___ for European powers, disguising ruthless resource extraction under the veneer of paternalistic humanitarianism.",
+    "options": ["alibi", "excuse", "apology", "apologia"],
+    "answer": "alibi",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "'provided a convenient moral ___ for European powers, disguising ruthless resource extraction' 构成学术批判题眼，'moral alibi'（道德脱罪挡箭牌/道德不在场借口）是后殖民理论核心术语。",
+    "distractor_analysis": {
+      "alibi": "n. 不在场证明；比喻引申为“推卸罪责的挡箭牌、脱罪借口”（a moral alibi），专指在国际关系与历史批判中为罪恶掠夺提供虚假合法性的防御性借口。",
+      "excuse": "n. 借口；语域偏向日常琐碎的小借口，在后殖民宏大史学反思中缺乏 alibi 具有法理脱罪色彩的学术质感。",
+      "apology": "n. 道歉；殖民宗主国是在为其掠夺进行自欺欺人的粉饰辩解，而非做出认错道歉。",
+      "apologia": "n. 正式辩白书；专指具体的长篇书面信仰辩护文本（如纽曼红衣主教的名作），不可搭配 a convenient moral apologia 来概括一种国家制度性掩护机制。"
+    },
+    "translation": "修正主义历史学家主张，所谓‘文明化使命’为欧洲列强提供了一个便利的道德脱罪挡箭牌，在家长式人道主义的虚伪外衣下掩盖了残酷的资源掠夺。"
+  },
+  {
+    "id": "tem8_c9_32",
+    "group_id": 223,
+    "group_name": "alibi, excuse, apology, apologia",
+    "level": "TEM-8",
+    "target_word": "alibi",
+    "question": "At the post-war tribunals, the defendants sought to construct an impenetrable legal ___, insisting that bureaucratic obedience absolved them of personal culpability for atrocities committed during the occupation.",
+    "options": ["alibi", "excuse", "apology", "apologia"],
+    "answer": "alibi",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "'construct an impenetrable legal ___ insisting that bureaucratic obedience absolved them of personal culpability' 构成法庭辩护题眼，专指在审判中构建以求彻底脱罪的法律抗辩证明。",
+    "distractor_analysis": {
+      "alibi": "n. 法律脱罪借口/不在场证明（legal alibi），专指军事审判法庭上被告试图用来全盘免除罪责（absolve of culpability）的法律抗辩防线。",
+      "excuse": "n. 托词、理由；属于口语日常词，在严谨的国际军事法庭（tribunals）语境中过于通俗，不构成司法防线术语。",
+      "apology": "n. 歉意、道歉；道歉意味着当庭认罪，这与坚持自己毫无个人罪责（absolved of personal culpability）产生直接法律逻辑矛盾。",
+      "apologia": "n. （信仰或哲学的）辩解文；系个人思想自辩的书面文本形态，不能在法庭上被“构建”为免责的证据机制。"
+    },
+    "translation": "在战后军事法庭上，被告试图构建一条坚不可摧的法律脱罪防线，坚称服从官僚指令免除了他们对占领期间所犯罪行承担的个人罪责。"
+  },
+  {
+    "id": "tem8_c9_33",
+    "group_id": 224,
+    "group_name": "alkali, incense, repellent, base",
+    "level": "TEM-8",
+    "target_word": "alkali",
+    "question": "Historians of the Industrial Revolution underscore that the synthetic production of ___, pioneered through the Leblanc process, resolved chronic shortages of soda ash and propelled the mass expansion of British textile manufacturing.",
+    "options": ["alkali", "incense", "repellent", "base"],
+    "answer": "alkali",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'synthetic production of ___ pioneered through the Leblanc process, resolved chronic shortages of soda ash' 构成绝对化学工业史题眼，专指勒布朗制碱法对无机碱/纯碱工业的历史性突破。",
+    "distractor_analysis": {
+      "alkali": "n. 碱（尤指纯碱与苛性碱）；the Leblanc process（勒布朗制碱法）是工业革命史上合成制造碱（production of alkali）的开创性工业支柱。",
+      "incense": "n. 熏香；祭祀焚香用品，与勒布朗化工工艺及解决纯碱（soda ash）短缺毫无干系。",
+      "repellent": "n. 驱虫剂、防潮剂；并非勒布朗工艺合成的大宗无机化工原料。",
+      "base": "n. 碱；base 是宽泛的化学概念总称，而在工业史与化工工程史上，合成纯碱工业的专有学科术语是 alkali industry / production of alkali。"
+    },
+    "translation": "工业革命史学家强调，通过勒布朗工艺首创的碱的合成制造解决了纯碱的长期短缺，并推动了英国纺织制造业的大规模扩张。"
+  },
+  {
+    "id": "tem8_c9_34",
+    "group_id": 224,
+    "group_name": "alkali, incense, repellent, base",
+    "level": "TEM-8",
+    "target_word": "alkali",
+    "question": "Environmental law scholars celebrate Britain's 1863 ___ Act as a landmark regulatory milestone, which established toxic chimney inspections to curb corrosive hydrogen chloride fumes from chemical factories.",
+    "options": ["alkali", "incense", "repellent", "base"],
+    "answer": "alkali",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'Britain's 1863 ___ Act as a landmark regulatory milestone, which established toxic chimney inspections to curb corrosive hydrogen chloride fumes from chemical factories' 构成绝对法律史题眼，专指英国1863年《碱业法》（The Alkali Act 1863）。",
+    "distractor_analysis": {
+      "alkali": "n. 碱业；The Alkali Act 1863（1863年《碱业法》）是世界公认的第一部现代工业公害防治环境法案，专指遏制化工厂酸雾排放。",
+      "incense": "n. 香料；生产熏香不会释放高腐蚀性氯化氢酸雾（corrosive hydrogen chloride fumes），且历史上不存在 1863 Incense Act。",
+      "repellent": "n. 驱避剂；历史上不存在 1863 Repellent Act。",
+      "base": "n. 基础、碱；法案正式法定历史名称为 Alkali Act，base 无法构成该法律专有名词。"
+    },
+    "translation": "环境法学者将英国1863年的《碱业法》誉为一个里程碑式的监管转折点，该法案确立了有毒烟囱检查制度，以遏制化工厂排放的腐蚀性氯化氢烟气。"
+  },
+  {
+    "id": "tem8_c9_35",
+    "group_id": 225,
+    "group_name": "allegiance, loyalty, commitment, dedication",
+    "level": "TEM-8",
+    "target_word": "allegiance",
+    "question": "When the Austro-Hungarian empire collapsed in 1918, millions of conscripted subjects abruptly severed their sworn ___ to the Habsburg Crown, redirecting their political fidelity toward fiercely competitive nascent nation-states.",
+    "options": ["allegiance", "loyalty", "commitment", "dedication"],
+    "answer": "allegiance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "'subjects abruptly severed their sworn ___ to the Habsburg Crown' 构成君主制政治誓约题眼，固定搭配 'sworn allegiance to the Crown' 专指臣民对王权的效忠誓言。",
+    "distractor_analysis": {
+      "allegiance": "n. 政治效忠（sworn allegiance to the Crown），专指臣民对主权王权立下的封建/宪政宣誓效忠义务。",
+      "loyalty": "n. 忠心、忠诚；泛指情感或组织上的忠诚，但法律性质的向王室君主宣誓效忠固定搭配恒为 sworn allegiance，缺乏对王权称臣的正式法权色彩。",
+      "commitment": "n. 承诺、投入；指个人职责或项目参与，不能修饰向王权君主（the Crown）立下的臣属效忠契约。",
+      "dedication": "n. 献身精神、敬业；属于个人美德或崇高奉献，不能搭配 sworn dedication to the Crown 来表达断绝臣民对王室的效忠誓词。"
+    },
+    "translation": "当奥匈帝国于1918年解体时，数百万应征入伍的臣民突然断绝了对哈布斯堡王室立下的效忠誓言，将他们的政治忠诚转向了竞争激烈的初生民族国家。"
+  },
+  {
+    "id": "tem8_c9_36",
+    "group_id": 225,
+    "group_name": "allegiance, loyalty, commitment, dedication",
+    "level": "TEM-8",
+    "target_word": "allegiance",
+    "question": "During the American Revolution, colonists often endured harrowing crises of divided ___, torn between ancestral sentimental bonds with the British monarchy and radical republican demands for total sovereign independence.",
+    "options": ["allegiance", "loyalty", "commitment", "dedication"],
+    "answer": "allegiance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "'crises of divided ___ torn between ancestral sentimental bonds with the British monarchy and... sovereign independence' 构成政治史题眼，专指在两个主权政权撕裂下的‘双重效忠危机’（divided allegiance）。",
+    "distractor_analysis": {
+      "allegiance": "n. 效忠；divided allegiance（双重效忠、效忠危机）是政治学与近代革命史中描述民众在两个对立政权/主权阵营之间撕裂的专有核心搭配。",
+      "loyalty": "n. 忠诚；虽有 divided loyalty 之口语表达，但在探讨主权独立（sovereign independence）与君主体制（monarchy）的重大宪政革命历史语境中，学术规范优先使用具备主权效忠法理内涵的 divided allegiance。",
+      "commitment": "n. 承诺、投入；指精力或资源分配，不用于形容对相互敌对的主权阵营的效忠撕裂。",
+      "dedication": "n. 奉献；指敬业或道德献身精神，与政治主权立场的效忠冲突（divided allegiance）无关。"
+    },
+    "translation": "在美国独立战争期间，殖民地居民常常经历双重效忠的残酷危机，在与英国君主制的代际情感羁绊和彻底争取主权独立的激进共和要求之间痛苦撕裂。"
+  }
+]

@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "tem8_c1_01",
+    "group_id": 24,
+    "group_name": "specious, spurious, fallacious, plausible",
+    "level": "TEM-8",
+    "target_word": "specious",
+    "question": "The envoy dismissed the rogue regime's legal justification as merely a ___ argument, which possessed an alluring veneer of procedural legitimacy but masked blatant revanchist ambitions.",
+    "options": [
+      "specious",
+      "spurious",
+      "fallacious",
+      "plausible"
+    ],
+    "answer": "specious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'possessed an alluring veneer of procedural legitimacy but masked blatant revanchist ambitions'（表面具有诱人的正当性外衣，实则包藏侵略野心）是绝对排他线索，专指外表似是而非、极具迷惑性欺骗性的论调。",
+    "distractor_analysis": {
+      "specious": "adj. 专指“似是而非的、华而不实的”，表面看似合情合理、极具吸引力或正当性（alluring veneer），但经不起实质推敲且暗藏欺骗，与句意中‘以程序合法外衣掩盖扩张野心’形成绝对语义互锁。",
+      "spurious": "adj. 强调“伪造的、私生非正统的、虚假的”，侧重于来源或实质的非法造假（如 spurious documents/correlations），而非强调表面具有迷人的合理性外表。",
+      "fallacious": "adj. 侧重于逻辑学意义上的“谬误的、推论不成立的”（containing a formal fallacy/unsound reasoning），侧重逻辑论证的推导破裂，不强调表面具有迷惑性的华丽诱人外表。",
+      "plausible": "adj. 意为“看似合情合理的、可信的”，多为中性或正面评价（plausible explanation），在此处若代入则与后半句揭露其包藏侵略野心的强批判语境相矛盾。"
+    },
+    "translation": "特使驳斥了该非法政权的法律辩词，称其不过是似是而非的狡辩——表面上裹着一层诱人的程序合法性外衣，实则掩盖着明目张胆的领土复仇野心。"
+  },
+  {
+    "id": "tem8_c1_02",
+    "group_id": 24,
+    "group_name": "specious, spurious, fallacious, plausible",
+    "level": "TEM-8",
+    "target_word": "spurious",
+    "question": "The international arbitration tribunal rejected the maritime claim after forensic cartographers confirmed that the delegation had submitted ___ historical charts fabricated to invent non-existent historic rights.",
+    "options": [
+      "spurious",
+      "specious",
+      "fallacious",
+      "plausible"
+    ],
+    "answer": "spurious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 'forensic cartographers confirmed... submitted ___ historical charts fabricated to invent non-existent historic rights'，修饰被法医专家证实纯属伪造、非真品的实体档案图表。",
+    "distractor_analysis": {
+      "spurious": "adj. 意为“伪造的、虚假的、非正统真实的”，专门用于修饰伪造的物证、文献、图表或缺乏真实渊源的断言（spurious charts/claims），与被专家鉴定为伪造（fabricated）的语境高度契合。",
+      "specious": "adj. 专用于修饰言辞、推理或辩解在表象上的似是而非，通常不直接修饰物理造假的古地图或文献原件。",
+      "fallacious": "adj. 指逻辑推理上的谬误（fallacious argument/reasoning），不能用于描述伪造制造的实物海图。",
+      "plausible": "adj. 指言论或解释在情理上貌似成立，与后文法医鉴定为伪造（fabricated）且捏造历史权利的定性截然相反。"
+    },
+    "translation": "在法医制图专家证实该代表团提交了旨在虚构不存在的历史性权利的伪造历史海图后，国际仲裁法庭果断驳回了该海洋主权主张。"
+  },
+  {
+    "id": "tem8_c1_03",
+    "group_id": 25,
+    "group_name": "lucid, perspicuous, pellucid, transparent",
+    "level": "TEM-8",
+    "target_word": "perspicuous",
+    "question": "Drafted by veteran international jurists, the draft covenant was acclaimed for its remarkably ___ legal style, which completely eliminated interpretive ambiguities that had paralyzed previous border demarcations.",
+    "options": [
+      "perspicuous",
+      "lucid",
+      "pellucid",
+      "transparent"
+    ],
+    "answer": "perspicuous",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "中心词为 'legal style'（法律文体风格），且后文强调 'eliminated interpretive ambiguities'，属于修辞学与立法公文最高语域中表述极其明晰、条理透彻的专属搭配（a perspicuous style）。",
+    "distractor_analysis": {
+      "perspicuous": "adj. 【最高学术/修辞语域】专指书面语言、阐释文风或法律公文“表达清晰透彻、毫无歧义”（a perspicuous style/exposition），直接对接法律条文草拟消弭歧义的庄重语境。",
+      "lucid": "adj. 虽可指条理清楚，但更广泛用于指人的神志清醒、思维健全或口头讲解的通俗易懂（lucid explanation/mind），在形容高规格立法文体修辞时不如 perspicuous 精准典雅。",
+      "pellucid": "adj. 带有较浓厚的文学色彩与感官意象，多形容水体/晶体的透亮清澈（pellucid water）或诗意文风，罕用于冷峻严苛的条约公文法律起草。",
+      "transparent": "adj. 在全球治理语境中常作政治术语指“公开透明的、无幕后暗箱的”（transparent governance），修饰 legal style 容易与政治透明度产生语意混淆，且不专指文字表达的透彻性。"
+    },
+    "translation": "由资深国际法学家起草的公约草案因其极其明晰透彻的法律行文风格而备受赞誉，该风格彻底消除了此前导致边界划界陷入瘫痪的解释性歧义。"
+  },
+  {
+    "id": "tem8_c1_04",
+    "group_id": 25,
+    "group_name": "lucid, perspicuous, pellucid, transparent",
+    "level": "TEM-8",
+    "target_word": "lucid",
+    "question": "Despite seventy continuous hours of grueling peace mediation, the lead diplomat delivered a remarkably ___ summary of the disputed treaty provisions, retaining absolute mental acuity amid physical exhaustion.",
+    "options": [
+      "lucid",
+      "perspicuous",
+      "pellucid",
+      "transparent"
+    ],
+    "answer": "lucid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'retaining absolute mental acuity amid physical exhaustion'（在身体极度透支中保持绝对敏锐的心智）是核心题眼，专指人在高压或极端疲惫下头脑依旧保持清醒理智、条理清晰。",
+    "distractor_analysis": {
+      "lucid": "adj. 核心词义指心智与思维的“清醒、神志清晰、条理分明”，在经历多日连续谈判、极端疲惫的语境下，修饰 diplomat 或其 summary 最能呼应后文的 mental acuity。",
+      "perspicuous": "adj. 专指篇章、文体或论述本身的文字清晰无歧义，不用于形容人在疲惫高压下保持神智清明或思维条理性。",
+      "pellucid": "adj. 偏文学意象，侧重光线、水质的纯净清澈或思想的晶莹剔透，不契合外交谈判高压疲惫下心智机能清晰的表述。",
+      "transparent": "adj. 意为“透明的、一目了然的”，多用于政策运作流程的无隐瞒性，不能表达发言人在透支状态下心智保持清醒有条理。"
+    },
+    "translation": "尽管经历了长达七十个小时艰苦卓绝的和平斡旋，首席外交官依然对争议条约条款作出了极其清醒条理的总结，在身体极度透支中保持了绝对敏锐的思维。"
+  },
+  {
+    "id": "tem8_c1_05",
+    "group_id": 26,
+    "group_name": "esoteric, abstruse, recondite, arcane",
+    "level": "TEM-8",
+    "target_word": "arcane",
+    "question": "The trade representative skillfully navigated the organization's most ___ procedural statutes, exploiting obscure institutional loopholes that had remained impenetrable to outside negotiators for generations.",
+    "options": [
+      "arcane",
+      "esoteric",
+      "abstruse",
+      "recondite"
+    ],
+    "answer": "arcane",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题干搭配 'procedural statutes' 与 'obscure institutional loopholes... impenetrable to outside negotiators'，专指官僚体制内神秘晦涩、错综复杂、仅有少数体制内行家方能洞悉的繁复规程。",
+    "distractor_analysis": {
+      "arcane": "adj. 专指机构规章、繁文缛节或官僚体制中“神秘晦涩的、外人难以参透的”（arcane procedural rules/bureaucratic mechanisms），与条约体制内不为人知的程序漏洞形成精准呼应。",
+      "esoteric": "adj. 侧重指特定学术门派、神秘宗教或内圈极小众群体的私密学说知识（designed for the initiated inner circle），不侧重官僚程序法典的晦涩繁琐。",
+      "abstruse": "adj. 侧重指哲学理论、形而上学或高深数理逻辑在理解上的“深奥难懂”（difficult to penetrate intellectually），不强调官僚机制规章的隐秘与繁琐。",
+      "recondite": "adj. 侧重学识渊博、罕见深奥的学者冷门考据与古代典籍（recondite academic lore），修饰现代国际贸易机构的程序规程并不地道。"
+    },
+    "translation": "该贸易代表熟练运用了该组织最为晦涩繁复的程序规章，巧妙利用了外界谈判代表数代人以来都难以参透的隐秘体制漏洞。"
+  },
+  {
+    "id": "tem8_c1_06",
+    "group_id": 26,
+    "group_name": "esoteric, abstruse, recondite, arcane",
+    "level": "TEM-8",
+    "target_word": "abstruse",
+    "question": "Delegates from developing nations struggled to challenge the technocrats' ___ macroeconomic models, whose labyrinthine algebraic formulas regarding sovereign credit ratings obscured real human costs.",
+    "options": [
+      "abstruse",
+      "arcane",
+      "esoteric",
+      "recondite"
+    ],
+    "answer": "abstruse",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'whose labyrinthine algebraic formulas regarding sovereign credit ratings obscured real human costs' 明确指向高深抽象、数理逻辑极其复杂深奥的理论模型（difficult to penetrate intellectually）。",
+    "distractor_analysis": {
+      "abstruse": "adj. 专指由于理论高度抽象、逻辑严密深奥而使普通人“极难理解、高深莫测的”（abstruse theories/mathematical models），与复杂的宏观经济模型及代数公式构成严密对应。",
+      "arcane": "adj. 偏向于指古老神秘、不透明的仪式、官僚暗号或程序，而非指数理经济学模型自身的认知智力深奥度。",
+      "esoteric": "adj. 强调知识仅为内圈信徒或特定特权阶层所享有传授，偏向圈子排他性，而非技术推导本身的高度智力晦涩。",
+      "recondite": "adj. 侧重冷僻、隐蔽的学术文献或不为人知的罕见史料知识，较少用来形容前沿主流的技术性经济数理模型。"
+    },
+    "translation": "发展中国家代表艰难地试图质疑技术官僚们高深深奥的宏观经济模型，这些模型中关于主权信用评级的错综复杂的代数公式掩盖了真实的民生代价。"
+  },
+  {
+    "id": "tem8_c1_07",
+    "group_id": 27,
+    "group_name": "astute, shrewd, perspicacious, sagacious",
+    "level": "TEM-8",
+    "target_word": "sagacious",
+    "question": "The venerable statesman was venerated as a ___ diplomat whose far-sighted moral vision and seasoned wisdom steered fragile multinational alliances through multiple nuclear standoffs.",
+    "options": [
+      "sagacious",
+      "astute",
+      "shrewd",
+      "perspicacious"
+    ],
+    "answer": "sagacious",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文修饰线索为 'far-sighted moral vision and seasoned wisdom'（高瞻远瞩的道德远见与阅历沉淀的睿智），专指德高望重、具深邃远见的智者政治家（a sagacious statesman）。",
+    "distractor_analysis": {
+      "sagacious": "adj. 【极高书面语域】指“富有远见卓识的、深谋远虑的、睿智的”，特指老一辈政治家历经风雨、拥有崇高道德远见与深厚阅历（seasoned wisdom），文风尊崇庄重。",
+      "astute": "adj. 侧重于现实政治中的“精明的、敏锐的”（marked by practical hardheaded intelligence），多形容战术上的老练或捕捉利益的机敏，缺乏庄严的道德远见色彩。",
+      "shrewd": "adj. 带有强烈的世俗、实用乃至市侩商业精明感（shrewd businessman/politician），语域偏日常，置于崇敬老外交家高尚远见的语境中显得格格不入。",
+      "perspicacious": "adj. 侧重观察力敏锐、“能一眼看破本质或伪装的”（keen discernment/penetrating），侧重判断力的尖锐透彻，而非涵盖深厚人生阅历与宏大历史远见的睿智。"
+    },
+    "translation": "这位德高望重的政治家被尊为睿智深邃的外交家，他那高瞻远瞩的道德远见与老练沉淀的智慧，曾引领脆弱的多国联盟度过了多次核对峙危机。"
+  },
+  {
+    "id": "tem8_c1_08",
+    "group_id": 27,
+    "group_name": "astute, shrewd, perspicacious, sagacious",
+    "level": "TEM-8",
+    "target_word": "astute",
+    "question": "Through ___ diplomatic maneuvering at the summit, the chief negotiator exploited emerging fissures among allied creditor nations, successfully renegotiating the sovereign debt package without surrendering energy assets.",
+    "options": [
+      "astute",
+      "sagacious",
+      "perspicacious",
+      "shrewd"
+    ],
+    "answer": "astute",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "与 'diplomatic maneuvering'（外交折冲博弈）搭配，后文紧跟 'exploited emerging fissures... renegotiating sovereign debt without surrendering energy assets'，体现极强硬核、讲求实效的政治敏锐手腕。",
+    "distractor_analysis": {
+      "astute": "adj. 指“机敏的老练的、精于政治算计的”（practical, hardheaded intelligence），在国际谈判与政治博弈中修饰 diplomatic maneuvering 为标准权威搭配。",
+      "sagacious": "adj. 指高尚深邃的睿智与长远哲理智慧，过分庄严崇高，无法贴切修饰分化债权国裂隙、夺取具体利益的硬派外交战术周旋。",
+      "perspicacious": "adj. 侧重眼光独到、洞察力敏锐，主要形容人本身的察言观色与认知穿透力，通常不修饰 dynamic 政治行动（maneuvering）。",
+      "shrewd": "adj. 虽也指精明，但语体较为通俗平实，且常带有自私自利的小聪明或商业逐利色彩，专八政经大报更倾向使用学术级词汇 astute。"
+    },
+    "translation": "凭借在峰会上机敏老练的外交斡旋，首席谈判代表利用了盟国债权国之间初现的裂痕，成功重新商定了主权债务方案，且未割让任何国家能源资产。"
+  },
+  {
+    "id": "tem8_c1_09",
+    "group_id": 28,
+    "group_name": "credulous, gullible, naive, ingenuous",
+    "level": "TEM-8",
+    "target_word": "credulous",
+    "question": "Media watchdogs faulted international correspondents for being overly ___ toward the authoritarian ministry's press briefings, uncritically amplifying fabricated casualty statistics without seeking independent corroboration.",
+    "options": [
+      "credulous",
+      "gullible",
+      "naive",
+      "ingenuous"
+    ],
+    "answer": "credulous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句型 'overly ___ toward the ministry's press briefings, uncritically amplifying fabricated statistics' 中，credulous toward 是标准介词搭配，专指在证据不足时极易轻信官方言辞与宣传。",
+    "distractor_analysis": {
+      "credulous": "adj. 专指“轻信的、易受传言蒙蔽的”（disposed to believe on slight or uncertain evidence），常与 toward 或 of 连用（credulous toward official narratives），直接呼应记者未经验证便轻信宣传的语境。",
+      "gullible": "adj. 强调极易受骗上当、容易被圈套或骗局玩弄（easily tricked/cheated），语体偏通俗口语，常用于被具体行骗场景，且不常搭配 toward statements。",
+      "naive": "adj. 强调天真幼稚、缺乏社会阅历（lacking worldly experience），侧重认知上的不谙世事，而非特指针对新闻声明的轻信态度。",
+      "ingenuous": "adj. 强调“天真单纯的、坦诚毫无心机的”（artless, frank, candid），修饰人的性格或言论，无法用于形容记者轻信宣传通报。"
+    },
+    "translation": "媒体监督机构谴责国际战地记者对威权部门的新闻简报过分轻信，在没有寻求独立佐证的情况下，不加甄别地放大了捏造的伤亡数据。"
+  },
+  {
+    "id": "tem8_c1_10",
+    "group_id": 28,
+    "group_name": "credulous, gullible, naive, ingenuous",
+    "level": "TEM-8",
+    "target_word": "ingenuous",
+    "question": "The junior attaché's surprisingly ___ remarks regarding confidential back-channel discussions unnerved seasoned diplomats, who were utterly unaccustomed to such unvarnished candor at bilateral summits.",
+    "options": [
+      "ingenuous",
+      "credulous",
+      "gullible",
+      "naive"
+    ],
+    "answer": "ingenuous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'unvarnished candor at bilateral summits'（双边峰会上毫无掩饰的真诚直率）与 'unnerved seasoned diplomats' 是绝对题眼，专指说话坦白纯真、毫无防备与城府。",
+    "distractor_analysis": {
+      "ingenuous": "adj. 专指“坦白纯真的、天真无邪的、不弄虚作假的”（characterized by artless candor; not devious），在此处修饰新手外交官在保密会谈中毫无城府的发言，与 unvarnished candor 严密咬合。",
+      "credulous": "adj. 指轻信他人虚假言论的心理状态，不能形容发言人自身说话坦白纯朴、无心机。",
+      "gullible": "adj. 指容易受骗上当的受骗者特质，不能用来修饰言辞的坦诚与质朴。",
+      "naive": "adj. 虽有天真之意，但常带有消极批评色彩（指愚蠢幼稚、缺乏现实判断），不及 ingenuous 那样准确表达出“质朴坦诚、缺乏外交虚伪掩饰”的词义特质。"
+    },
+    "translation": "这位初级随员在谈及机密幕后渠道磋商时出人意料的坦率直言让老练的外交官们颇感不安，他们完全不习惯在双边峰会上见到如此毫无掩饰的真诚。"
+  },
+  {
+    "id": "tem8_c1_11",
+    "group_id": 29,
+    "group_name": "trenchant, incisive, pungent, piercing",
+    "level": "TEM-8",
+    "target_word": "trenchant",
+    "question": "The special rapporteur published a ___ critique of the newly enacted sedition law, forcefully demonstrating how its ambiguous clauses effectively criminalized peaceful environmental dissent.",
+    "options": [
+      "trenchant",
+      "pungent",
+      "piercing",
+      "incisive"
+    ],
+    "answer": "trenchant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题干中搭配 'critique of the newly enacted sedition law'，后文紧接 'forcefully demonstrating'，“trenchant critique”是政治哲学与外刊政论对严厉、一针见血批判的最经典固定搭配。",
+    "distractor_analysis": {
+      "trenchant": "adj. 指“（言辞、批判）尖锐有力的、一针见血的”（vigorously effective and articulate; cutting），与 critique 构成学术政论界的绝对固定搭配（trenchant critique）。",
+      "pungent": "adj. 侧重于感官上的刺鼻、辛辣（pungent smell），在转义形容言辞时侧重冷嘲热讽、尖酸刻薄（pungent sarcasm/wit），不契合联合国特别报告员严正有力的法律批判。",
+      "piercing": "adj. 侧重于物理穿透力、声音尖厉（piercing shriek）或目光锐利审视（piercing eyes），一般不用于正式书面报告的政治批判。",
+      "incisive": "adj. 强调分析的敏锐深刻和条分缕析（incisive analysis/mind），但当与 critique 搭配表达“毫不留情的猛烈抨击”时，trenchant 是最精确纯正的语体搭配。"
+    },
+    "translation": "特别报告员发表了一份对新颁布煽动叛乱法的尖锐抨击报告，有力地论证了该法模糊的条款如何实质上将和平的环保异见定为刑事犯罪。"
+  },
+  {
+    "id": "tem8_c1_12",
+    "group_id": 29,
+    "group_name": "trenchant, incisive, pungent, piercing",
+    "level": "TEM-8",
+    "target_word": "incisive",
+    "question": "Through a succession of ___ questions during the cross-examination, the chief counsel pierced the defense's fabricated alibi, exposing deliberate falsification within the naval command logbooks.",
+    "options": [
+      "incisive",
+      "trenchant",
+      "pungent",
+      "piercing"
+    ],
+    "answer": "incisive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰 'questions during the cross-examination'（交叉质询中的提问），且后文紧跟 'pierced the defense's fabricated alibi'，强调如同手术刀般直插要害、抽丝剥茧的敏锐发问（incisive questioning）。",
+    "distractor_analysis": {
+      "incisive": "adj. 指思维或提问“深刻敏锐的、切中要害的”（clear, sharp, penetrating into essence），在法律质询与学术辩论中修饰 questions/investigation 极具专八题感。",
+      "trenchant": "adj. 强调言辞猛烈有力且具有毁灭性攻击力（trenchant criticism），常修饰整篇评论或抨击，较少用来形容庭审质询中的微观连环发问。",
+      "pungent": "adj. 侧重尖酸、辛辣或讽刺的味道，不能用来形容法庭辩论中精妙严谨、切中命脉的法律发问。",
+      "piercing": "adj. 题干后文已有动词 'pierced'，若前置再用 piercing 则造成严重的词汇重复破格；且 piercing questions 语气偏向声音尖厉或纯直觉逼视，不如 incisive 富有知性穿透力。"
+    },
+    "translation": "在法庭交叉质询中，首席律师通过一连串切中要害的发问撕破了辩方伪造的不在场证明，揭露了海军指挥日志中的蓄意造假行为。"
+  },
+  {
+    "id": "tem8_c1_13",
+    "group_id": 30,
+    "group_name": "nebulous, vague, indistinct, murky",
+    "level": "TEM-8",
+    "target_word": "nebulous",
+    "question": "Civil society groups criticized the multilateral declaration for offering only ___ aspirations toward climate reparations, lamenting that the agreement lacked enforceable timelines, definitions, or financial mechanisms.",
+    "options": [
+      "nebulous",
+      "murky",
+      "indistinct",
+      "vague"
+    ],
+    "answer": "nebulous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题眼为 'aspirations... lacked enforceable timelines, definitions, or financial mechanisms'，形容政策宣言如星云般“虚无缥缈、缺乏具体形态与架构边界”。",
+    "distractor_analysis": {
+      "nebulous": "adj. 专指概念、蓝图或承诺“如星云般模糊不清、缺乏明确轮廓与实质架构的”（lacking definite form or limits; amorphous），完美修饰气候公约中空洞缥缈的远景愿望。",
+      "murky": "adj. 强调水质浑浊、环境阴暗，或指幕后交易的不光彩、道德可疑（murky deals/waters），不侧重政策构想缺乏结构边界的空泛感。",
+      "indistinct": "adj. 侧重于感官知觉上的轮廓模糊、听不清或看不清（indistinct sound/shape），较少抽象指称宏观政策框架的空洞无形。",
+      "vague": "adj. 属于普通词汇，仅指笼统不详，无法体现星云般虚无缥缈、没有骨架支撑的学术文体质感。"
+    },
+    "translation": "公民社会团体批评该多边宣言对气候赔偿仅提出了虚无缥缈的愿景，遗憾的是该协议缺乏具有约束力的时间表、明确界定或资金保障机制。"
+  },
+  {
+    "id": "tem8_c1_14",
+    "group_id": 30,
+    "group_name": "nebulous, vague, indistinct, murky",
+    "level": "TEM-8",
+    "target_word": "murky",
+    "question": "The anti-corruption bureau initiated a formal probe into the ___ defense procurement arrangements, suspecting that high-ranking officials had laundered kickbacks through offshore shell corporations.",
+    "options": [
+      "murky",
+      "nebulous",
+      "indistinct",
+      "vague"
+    ],
+    "answer": "murky",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'suspecting that high-ranking officials had laundered kickbacks through offshore shell corporations'（怀疑高官通过离岸空壳公司洗钱收受回扣）提供强烈的道德阴暗、贪腐见不得光色彩。",
+    "distractor_analysis": {
+      "murky": "adj. 专指“晦暗可疑的、暗藏腐败猫腻的”（morally dubious, obscure, shady），常用于形容见不得光的军火采购或金融交易（murky procurement deals/transactions）。",
+      "nebulous": "adj. 侧重概念形态的虚无缥缈、无固定形状，不能表达暗箱操作与贪腐受贿的阴暗隐秘性。",
+      "indistinct": "adj. 仅指视觉/听觉感知上的微弱不分明，无法承载洗钱贪腐的道德贬义批判色彩。",
+      "vague": "adj. 意为“含糊的”，仅指语言表达不明确，不能传递出暗藏非法勾当、浑水摸鱼的贬义情态。"
+    },
+    "translation": "反贪局对这起疑云密布的国防采购协议展开了正式调查，怀疑有高级官员通过离岸空壳公司洗钱并收受巨额回扣。"
+  },
+  {
+    "id": "tem8_c1_15",
+    "group_id": 31,
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "level": "TEM-8",
+    "target_word": "assiduous",
+    "question": "The prime minister was renowned for his ___ avoidance of partisan squabbles, dedicating unremitting effort to maintaining broad legislative consensus during the sovereign debt negotiations.",
+    "options": [
+      "assiduous",
+      "industrious",
+      "diligent",
+      "sedulous"
+    ],
+    "answer": "assiduous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "与 'avoidance of partisan squabbles' 搭配，且后文指出 'dedicating unremitting effort'。“assiduous avoidance”是高阶英语与外刊政论中的绝对固定搭配（意为坚持不懈、小心翼翼地回避）。",
+    "distractor_analysis": {
+      "assiduous": "adj. 指“持之以恒的、细致关照的”，与 avoidance 搭配构成著名外刊学术固定搭配（assiduous avoidance），体现出时刻保持警惕、不遗余力回避党争的政治克制。",
+      "industrious": "adj. 侧重指体力的勤劳奔忙或生产活动中的勤勉（hardworking in production），无法与 avoidance 构成抽象搭配。",
+      "diligent": "adj. 通用语域词汇，通常修饰认真履行正面职责（diligent student/worker），在学术政论中不与 avoidance 形成惯用搭配。",
+      "sedulous": "adj. 侧重于针对具体创作、调查或学术研究的苦心孤诣（sedulous research/investigation），不构成 'sedulous avoidance' 这一惯用政治语篇习语。"
+    },
+    "translation": "首相以其对党派纷争的不懈克制与刻意回避而著称，在主权债务谈判期间倾注了坚持不懈的努力以维系广泛的立法共识。"
+  },
+  {
+    "id": "tem8_c1_16",
+    "group_id": 31,
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "level": "TEM-8",
+    "target_word": "sedulous",
+    "question": "Only through decades of ___ historical excavation and archival research could international legal historians unearth the suppressed treaties that redefined modern maritime sovereignty.",
+    "options": [
+      "sedulous",
+      "assiduous",
+      "industrious",
+      "diligent"
+    ],
+    "answer": "sedulous",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'historical excavation and archival research'（史料发掘与档案考证），属于严谨繁重学术考据活动的高阶拉丁语源修饰词，强调苦心孤诣、一丝不苟的治学精神。",
+    "distractor_analysis": {
+      "sedulous": "adj. 【最高学术语域】指“苦心孤诣的、持之以恒惨淡经营的”（marked by painstaking, persistent application），在专八级学术语篇中专用于修饰严谨长期的档案文献考据与学术钻研（sedulous research）。",
+      "assiduous": "adj. 侧重于社交周全或行动上的勤勉关照，修饰深层文献考古不如 sedulous 具沉郁严谨的学究色彩。",
+      "industrious": "adj. 侧重劳动操作或经济生产上的手勤脚快，与文献档案的高阶学术考证脱节。",
+      "diligent": "adj. 属于常见大众词汇，缺乏专八典雅学术长难句所必需的 Latinate 学术文体重量感。"
+    },
+    "translation": "只有通过数十年苦心孤诣的历史发掘与档案文献考据，国际法律史学家才得以发掘出那些曾被隐匿并重新定义了现代海洋主权的条约。"
+  },
+  {
+    "id": "tem8_c1_17",
+    "group_id": 32,
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "level": "TEM-8",
+    "target_word": "perfunctory",
+    "question": "Human rights inspectors condemned the detention facility for conducting only ___ medical examinations, noting that physicians merely initialed intake logs with mechanical indifference without checking vital signs.",
+    "options": [
+      "perfunctory",
+      "peremptory",
+      "cursory",
+      "imperative"
+    ],
+    "answer": "perfunctory",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "题眼为 'merely initialed intake logs with mechanical indifference without checking vital signs'（以机械麻木的冷漠态度草草签字，根本不测生命体征），专指敷衍塞责、走过场、应付公事的官僚行为。",
+    "distractor_analysis": {
+      "perfunctory": "adj. 专指“敷衍塞责的、例行公事的、机械应付的”（done mechanically and superficially as a routine duty; lacking interest），精准对应医生连生命体征都不测、仅机械签字走过场的行径。",
+      "peremptory": "adj. 指态度“专横的、霸道的、不容拒绝的”（imperious, dictatorial），形容命令或态度，不能形容医疗检查敷衍塞责的属性。",
+      "cursory": "adj. 指“粗略匆忙的、草草一瞥的”（hasty glance/inspection），侧重时间仓促与看一眼就过，不及 perfunctory 强调“制度性走过场、机械麻木无责任心”的官僚本质。",
+      "imperative": "adj. 意为“极其紧迫的、必要的”（vital, pressing），语义完全相左。"
+    },
+    "translation": "人权监督员谴责该拘留场所只进行敷衍例行的体检，指出医生们只是带着机械麻木的冷漠在入所登记簿上签字，根本没有检查生命体征。"
+  },
+  {
+    "id": "tem8_c1_18",
+    "group_id": 32,
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "level": "TEM-8",
+    "target_word": "peremptory",
+    "question": "The sovereign council rejected the invading power's ___ ultimatum, refusing to bow before an arrogant diktat that brooked neither counterproposal nor diplomatic compromise.",
+    "options": [
+      "peremptory",
+      "perfunctory",
+      "cursory",
+      "imperative"
+    ],
+    "answer": "peremptory",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'ultimatum'，后文紧跟 'refusing to bow before an arrogant diktat that brooked neither counterproposal nor diplomatic compromise'，排他性指向专横武断、不容反驳的命令风格。",
+    "distractor_analysis": {
+      "peremptory": "adj. 专指“专横霸道的、强制性的、不容置辩拒绝的”（authoritative, admitting no contradiction or debate），常与 ultimatum/command/diktat 连用，与后文 brooked neither counterproposal 形成绝对逻辑互锁。",
+      "perfunctory": "adj. 指例行公事、敷衍塞责的，与最后通牒不容反驳的专横霸道语义相反。",
+      "cursory": "adj. 指草率匆促的，不能用于形容咄咄逼人、强制服从的严酷最后通牒。",
+      "imperative": "adj. 指客观上的“势在必行的、至关重要的”，不能用于形容侵略方颐指气使、专横跋扈的主观最后通牒（an arrogant diktat）。"
+    },
+    "translation": "主权委员会拒绝了侵略大国专横霸道的最后通牒，拒绝向这一不容任何反提案或外交妥协的傲慢命令低头。"
+  },
+  {
+    "id": "tem8_c1_19",
+    "group_id": 33,
+    "group_name": "tenacious, obstinate, stubborn, pertinacious",
+    "level": "TEM-8",
+    "target_word": "tenacious",
+    "question": "Owing to the ___ advocacy of indigenous delegates, who clung resolutely to their sovereignty rights despite relentless corporate lobbying, the international biodiversity pact preserved sacred ancestral lands.",
+    "options": [
+      "tenacious",
+      "obstinate",
+      "stubborn",
+      "pertinacious"
+    ],
+    "answer": "tenacious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首赞美性原因状语 'Owing to the ___ advocacy of... who clung resolutely... preserved sacred ancestral lands' 赋予本空强烈的高度正面褒义色彩，专指在逆境中坚韧不拔、持之以恒的崇高品质。",
+    "distractor_analysis": {
+      "tenacious": "adj. 含有高度正面褒奖色彩，指“坚韧不拔的、执着坚守的”（aggressively persistent in pursuing or holding something valued），与代表们在强权下坚守权益并最终取得公约胜利的正面赞颂完全吻合。",
+      "obstinate": "adj. 含有强烈贬义，指“顽固不化的、冥顽不灵的”（stubbornly unreasonable），用于形容正义抗争会导致褒贬色彩严重倒错。",
+      "stubborn": "adj. 多为日常消极评价（固执倔强），缺乏专八政治公文赞扬坚韧意志的学术褒义美感。",
+      "pertinacious": "adj. 侧重于偏执不屈、难缠的固执坚持，常带微贬义或用于贬称对手死缠烂打，不用于由衷赞扬原住民代表维护家园的崇高品质。"
+    },
+    "translation": "归功于原住民代表坚韧不拔的呼吁倡导——尽管面临跨国企业的无情游说，他们仍坚定维护自身主权权益——该国际生物多样性条约最终保护了神圣的祖传领地。"
+  },
+  {
+    "id": "tem8_c1_20",
+    "group_id": 33,
+    "group_name": "tenacious, obstinate, stubborn, pertinacious",
+    "level": "TEM-8",
+    "target_word": "obstinate",
+    "question": "Ceasefire talks foundered upon the military junta's ___ refusal to permit international aid convoys into the famine-stricken province, an irrational stance that provoked widespread global condemnation.",
+    "options": [
+      "obstinate",
+      "tenacious",
+      "pertinacious",
+      "stubborn"
+    ],
+    "answer": "obstinate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'refusal to permit international aid convoys... an irrational stance that provoked widespread global condemnation' 明确表达对冥顽不灵、蛮不讲理顽固立场的严正谴责（强贬义）。",
+    "distractor_analysis": {
+      "obstinate": "adj. 强调“冥顽不化的、不可理喻固执己见的”（stubbornly refusing to change one's opinion or course of action despite reason），专用于批评军政府阻挠人道主义援助的不合理蛮横态度。",
+      "tenacious": "adj. 带有正面坚韧、百折不挠的褒义色彩，若用于形容草菅人命的军政府阻挠救援，会导致严重的价值倾向倒错破格。",
+      "pertinacious": "adj. 侧重于针对特定辩论细节或信念的死磕与坚持，较少用于形容国家政权公然违反国际人道主义法的大是大非蛮横抗拒。",
+      "stubborn": "adj. 属于口语和普通生活语域词汇，在体现国际谴责与安理会决议严厉性的学术长难句中语域层级不足。"
+    },
+    "translation": "停火谈判因军政府冥顽不灵地拒绝允许国际救援车队进入饥荒省份而彻底破裂，这一非理性的蛮横立场激起了全世界的广泛谴责。"
+  },
+  {
+    "id": "tem8_c1_21",
+    "group_id": 34,
+    "group_name": "profligate, prodigal, extravagant, spendthrift",
+    "level": "TEM-8",
+    "target_word": "profligate",
+    "question": "The IMF bailout conditioned debt relief on immediate structural overhauls, aiming to curb the corrupt regime's ___ dissipation of sovereign mineral revenues on vanity infrastructure while schools deteriorated.",
+    "options": [
+      "profligate",
+      "prodigal",
+      "extravagant",
+      "spendthrift"
+    ],
+    "answer": "profligate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰 'dissipation of sovereign mineral revenues on vanity infrastructure while schools deteriorated'，揭露腐败政权在民生凋敝时对国家主权财富穷奢极欲、肆意挥霍的严重道德败坏（morally dissipated and wildly extravagant）。",
+    "distractor_analysis": {
+      "profligate": "adj. 专指“肆意挥霍的、穷奢极欲的、毫无节制且道德败坏的”（wildly extravagant, completely given up to dissipation），深度契合政客在公共财政上腐败挥霍、劳民伤财的语境。",
+      "prodigal": "adj. 多含有典故意味（如浪子回头 the prodigal son），侧重出手阔绰或倾囊相授的挥霍，不具备 profligate 对公共财富腐败挥霍的尖锐道德谴责意涵。",
+      "extravagant": "adj. 词义过轻，仅指花费过高或超出预算（exceeding reasonable bounds），缺乏对腐败政权掠夺性挥霍的政治批判深度。",
+      "spendthrift": "adj./n. 多作名词指败家子，作形容词时多指个人理财花钱大手大脚、缺乏储蓄意识，置于宏观主权财政与国际货币基金组织制裁语境中显得文体错位。"
+    },
+    "translation": "国际货币基金组织的救助方案将债务减免与即刻的结构性改革相挂钩，旨在遏制该腐败政权在学校破败凋零之际将主权矿产收入挥霍于面子工程的无度浪费。"
+  },
+  {
+    "id": "tem8_c1_22",
+    "group_id": 34,
+    "group_name": "profligate, prodigal, extravagant, spendthrift",
+    "level": "TEM-8",
+    "target_word": "prodigal",
+    "question": "Having been extraordinarily ___ with its sovereign wealth reserves during the commodity supercycle, the petrostate suffered catastrophic fiscal deficits the moment crude export revenues plummeted.",
+    "options": [
+      "prodigal",
+      "profligate",
+      "spendthrift",
+      "extravagant"
+    ],
+    "answer": "prodigal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "语法题眼为固定搭配介词 'with'（___ with its sovereign wealth reserves），'prodigal with' 是形容大手大脚、不留后路挥霍丰富资源的绝对经典搭配。",
+    "distractor_analysis": {
+      "prodigal": "adj. 构成固定搭配“be prodigal with sth.”（对自身丰饶财富毫无节制地挥霍浪费），直接呼应石油富国在大宗商品繁荣期肆意挥霍主权财富基金的语境。",
+      "profligate": "adj. 很少以 'profligate with' 形式作表语修饰储备金消耗，通常直接做前置定语（profligate spending）；且 profligate 带有更重的淫乱与败德色彩，不及 prodigal 契合“挥霍天赋丰厚家底”。",
+      "spendthrift": "adj. 主要用作定语或名词，不存在 'spendthrift with reserves' 的表语介词搭配用法。",
+      "extravagant": "adj. 虽偶见搭配 with，但在宏观经济学中形容资源挥霍时表现力远不及权威文学/政论成语 prodigal with 地道深刻。"
+    },
+    "translation": "在大宗商品超级周期中，该石油国对其主权财富储备挥霍无度，以至于原油出口收入骤降之际，该国立刻陷入了灾难性的财政赤字。"
+  },
+  {
+    "id": "tem8_c1_23",
+    "group_id": 35,
+    "group_name": "frugal, parsimonious, penurious, thrifty",
+    "level": "TEM-8",
+    "target_word": "parsimonious",
+    "question": "The UN High Commissioner rebuked wealthy member states for their ___ foreign aid pledges, pointing out that their miserly commitments met barely three percent of emergency famine relief needs.",
+    "options": [
+      "parsimonious",
+      "frugal",
+      "thrifty",
+      "penurious"
+    ],
+    "answer": "parsimonious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'rebuked wealthy member states for their ___ pledges, pointing out that their miserly commitments met barely three percent'，'miserly'（极其吝啬小气）赋予了本空绝对的强烈道德指责与吝啬贬义色彩。",
+    "distractor_analysis": {
+      "parsimonious": "adj. 专指“极其吝啬小气的、一毛不拔的”（excessively unwilling to spend; stingy），在外交语境中修饰富国面对人道灾难时少得可怜的施舍捐助，与 miserly 呼应。",
+      "frugal": "adj. 属于褒义词，指“节俭节约的、朴素的”（reflecting thrift and efficiency），形容正面美德，不能用于专员斥责捐款微薄吝啬的负面批评语境。",
+      "thrifty": "adj. 属于褒义词，指个人或家庭善于精打细算（prudent financial management），完全不符合多边国际人道救济中批评富国抠门的庄严语体。",
+      "penurious": "adj. 核心词义指“身无分文的、穷困潦倒的”（wretchedly poor, indigent），用来形容富裕成员国（wealthy member states）在逻辑上发生事实性矛盾。"
+    },
+    "translation": "联合国高级专员谴责富裕成员国在对外援助认捐上的极度吝啬，指出它们小气微薄的承诺连紧急饥荒救援需求的百分之三都未能满足。"
+  },
+  {
+    "id": "tem8_c1_24",
+    "group_id": 35,
+    "group_name": "frugal, parsimonious, penurious, thrifty",
+    "level": "TEM-8",
+    "target_word": "frugal",
+    "question": "To regain fiscal credibility after an inflationary shock, the transitional government enforced a strictly ___ budgetary regime, slashing redundant bureaucratic overheads while ring-fencing essential healthcare programs.",
+    "options": [
+      "frugal",
+      "parsimonious",
+      "penurious",
+      "thrifty"
+    ],
+    "answer": "frugal",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "前文 'To regain fiscal credibility' 与后文 'slashing redundant overheads while ring-fencing essential healthcare' 凸显出合理压缩开支、高效杜绝浪费的政策理性与理财美德（正面褒义）。",
+    "distractor_analysis": {
+      "frugal": "adj. 具有高度政策褒义，指“厉行节约的、杜绝浪费的、精简高效的”（characterized by thrift and efficiency in resources），与过渡政府重塑财政信誉的审慎改革完美呼应。",
+      "parsimonious": "adj. 含有极度吝啬小气的负面贬义，若代入则将政府整顿财政的良政措施污名化为葛朗台式的抠门狭隘。",
+      "penurious": "adj. 指贫困匮乏或赤贫的，不能形容国家财政制度的主动科学节约。",
+      "thrifty": "adj. 语体偏向民间私人家计或个体经营者的省吃俭用，较少用于形容主权国家政府的宏观预算制度（budgetary regime）。"
+    },
+    "translation": "为了在通胀冲击后重塑财政信誉，过渡政府推行了严格节约高效的预算制度，在削减冗余官僚开支的同时，切实保障了关键医疗卫生项目的资金。"
+  },
+  {
+    "id": "tem8_c1_25",
+    "group_id": 36,
+    "group_name": "intrepid, audacious, dauntless, valiant",
+    "level": "TEM-8",
+    "target_word": "intrepid",
+    "question": "Braving mortar barrages and targeted cyber threats, ___ international forensic monitors infiltrated the occupied border zone to secure digital evidence of systematic chemical warfare.",
+    "options": [
+      "intrepid",
+      "audacious",
+      "dauntless",
+      "valiant"
+    ],
+    "answer": "intrepid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配调查人员 '___ international forensic monitors infiltrated the occupied border zone'，“intrepid reporters/monitors/investigators”是外刊与专业报道中形容调查人员无所畏惧深入险境的绝对典型搭配。",
+    "distractor_analysis": {
+      "intrepid": "adj. 专指在探险、实地调查或揭露真相时“无畏艰险的、刚毅英勇的”（resolute fearlessness in exploring or investigating dangers），与深入交战区取证的法医/国际调查员构成权威固定搭配（intrepid monitors）。",
+      "audacious": "adj. 往往含有胆大包天、鲁莽甚至挑衅性冒险（recklessly bold, insolent）的色彩，置于由衷赞扬联合国/独立调查员正义勇敢的语境中会引入不和谐的冒失贬义。",
+      "dauntless": "adj. 侧重百折不挠的心理顽强意志（dauntless spirit/courage），一般不作为修饰前线调查专员的主流职务形容词。",
+      "valiant": "adj. 带有古典战场骑士式的浴血搏杀色彩（valiant warrior/effort），较少用于现代技术性法医监察取证专员。"
+    },
+    "translation": "冒着迫击炮火与定点网络威胁，无畏艰险的国际法医监察员潜入被占领的边境地区，成功锁定了针对性化学战的数字化证据。"
+  },
+  {
+    "id": "tem8_c1_26",
+    "group_id": 36,
+    "group_name": "intrepid, audacious, dauntless, valiant",
+    "level": "TEM-8",
+    "target_word": "audacious",
+    "question": "The rebel commander orchestrated an ___ dawn raid against the neutral demilitarized zone, an insolent gamble that provoked immediate international outrage and shattered fragile ceasefire protocols.",
+    "options": [
+      "audacious",
+      "intrepid",
+      "dauntless",
+      "valiant"
+    ],
+    "answer": "audacious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'an insolent gamble that provoked immediate international outrage and shattered fragile ceasefire protocols'（公然挑衅的豪赌，激起国际公愤并粉碎停火协议）赋予本空强烈的蛮横大胆、肆无忌惮色彩。",
+    "distractor_analysis": {
+      "audacious": "adj. 专指“大胆狂妄的、肆无忌惮的、公然藐视规则的”（bold in defying conventions or limits; insolent），直接对接叛军突袭非军事区、破坏国际停火的猖狂冒险豪赌。",
+      "intrepid": "adj. 纯属崇高正面的无畏勇敢（fearless in facing danger/seeking truth），不可用于修饰挑起战火、破坏和平协议的叛乱袭击。",
+      "dauntless": "adj. 强调坚不可摧的坚强意志，无法表达出公然藐视国际准则的狂妄冒进性。",
+      "valiant": "adj. 指崇高的英勇、英勇就义（showing valor），具有骑士般的崇高美德，绝不可用于形容背信弃义的偷袭。"
+    },
+    "translation": "叛军指挥官策划了拂晓针对中立非军事区的大胆狂妄突袭——这是一场激起国际公愤并粉碎脆弱停火协议的公然挑衅式豪赌。"
+  },
+  {
+    "id": "tem8_c1_27",
+    "group_id": 37,
+    "group_name": "timorous, pusillanimous, diffident, cowardly",
+    "level": "TEM-8",
+    "target_word": "pusillanimous",
+    "question": "Historians condemned the cabinet's ___ appeasement of the expansionist dictator, arguing that its contemptible refusal to enforce mutual defense treaties precipitated catastrophic global conflict.",
+    "options": [
+      "pusillanimous",
+      "timorous",
+      "diffident",
+      "cowardly"
+    ],
+    "answer": "pusillanimous",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰 'appeasement of the expansionist dictator'，后文紧跟 'contemptible refusal to enforce mutual defense treaties'，属于史学政论中抨击政治软弱绥靖的最高学术语域词汇（contemptibly cowardly）。",
+    "distractor_analysis": {
+      "pusillanimous": "adj. 【最高书面/政治哲学术语】专指在重大历史关头“卑劣怯懦的、畏首畏尾的、丧失决断勇气的”（lacking in courage and resolution; contemptibly faint-hearted），修饰大国政府的绥靖行径最为典雅贴切。",
+      "timorous": "adj. 侧重指性格胆怯、容易惊吓畏缩（timid by nature, fearful），多用于形容微观个体的胆战心惊，缺乏宏观政治批判的学术重量。",
+      "diffident": "adj. 强调缺乏自信、害羞腼腆（shy and modest reserve），毫无谴责大国政府背弃防御条约的卑劣怯懦罪责之意。",
+      "cowardly": "adj. 通俗日常词汇，在严肃的外交史学批判长难句中显得过于直白浅显，语域等级不足。"
+    },
+    "translation": "历史学家们谴责了内阁对扩张主义独裁者卑劣怯懦的绥靖政策，指出其对执行共同防御条约的卑劣拒绝最终加速引发了灾难性的全球冲突。"
+  },
+  {
+    "id": "tem8_c1_28",
+    "group_id": 37,
+    "group_name": "timorous, pusillanimous, diffident, cowardly",
+    "level": "TEM-8",
+    "target_word": "diffident",
+    "question": "Representing a microstate vulnerable to rising sea levels, the novice envoy seemed excessively ___ during the plenary session, speaking only in hesitant murmurs despite possessing vital oceanographic data.",
+    "options": [
+      "diffident",
+      "pusillanimous",
+      "timorous",
+      "cowardly"
+    ],
+    "answer": "diffident",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'speaking only in hesitant murmurs despite possessing vital oceanographic data' 描摹出新手代表缺乏自信、腼腆退缩、生怕说错话的心理状态（lack of self-confidence; shy and reserved）。",
+    "distractor_analysis": {
+      "diffident": "adj. 专指由于缺乏自信或谦逊过度而表现出的“胆怯内向的、吞吞吐吐的、不自信的”（lacking self-confidence; hesitant, reserved），完美契合小国新手外交官在大国全会上的局促表现。",
+      "pusillanimous": "adj. 带有严重的道德鄙视贬义（指卑鄙懦弱、贪生怕死），不能用来描写新手由于缺乏经验而产生的腼腆拘谨。",
+      "timorous": "adj. 强调神经敏感、易受惊吓的胆小（fearful, skittish），偏感官生理层面的受惊反应，不及 diffident 契合社交场合的不自信。",
+      "cowardly": "adj. 意为卑劣胆小的，带有强烈贬损，用于形容由于地位边缘化而拘谨发言的外交官不仅文体不合，也存在严重的语用情态误判。"
+    },
+    "translation": "代表一个深受海平面上升威胁的微型国家，这位新手特使在全体会议上显得过分怯生退缩，尽管手握关键的海洋学数据，发言时却始终吞吞吐吐。"
+  },
+  {
+    "id": "tem8_c1_29",
+    "group_id": 38,
+    "group_name": "indolent, slothful, lethargic, torpid",
+    "level": "TEM-8",
+    "target_word": "torpid",
+    "question": "The regional security apparatus remained dangerously ___ throughout the initial border incursions, paralyzed by bureaucratic paralysis and utterly unable to scramble rapid-reaction battalions until several border towns had fallen.",
+    "options": [
+      "torpid",
+      "indolent",
+      "slothful",
+      "lethargic"
+    ],
+    "answer": "torpid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'paralyzed by bureaucratic paralysis and utterly unable to scramble rapid-reaction battalions' 描摹出如冬眠生物般麻木僵死、对重大外界刺激毫无反应的组织瘫痪状态（dormant, numb, lacking response）。",
+    "distractor_analysis": {
+      "torpid": "adj. 专指“迟钝僵化的、冬眠般麻木停滞的”（sluggish, numb, apathetic, in a state of suspended activity），用于修饰安全机制在遭受突袭时陷入麻痹僵死、动弹不得的状态最为精炼传神。",
+      "indolent": "adj. 侧重于主观意志上的好逸恶劳、习惯性懒惰（habitually lazy），侧重个人享受安逸，不能准确形容整个军事安全体系的瘫痪麻木与反应迟滞。",
+      "slothful": "adj. 带有浓厚的宗教与道德惩戒意味（七宗罪之一的懒惰），多形容人品格上的怠惰堕落，不用于描述现代地缘安全机构的机能麻木。",
+      "lethargic": "adj. 侧重生理层面的嗜睡、倦怠与无精打采（drowsy and lacking energy），通常修饰病人或疲劳个体的状态，修饰军事安全机器不如 torpid 地道。"
+    },
+    "translation": "在最初的边境侵入期间，该地区安全机制极其危险地处于迟钝麻木状态，因官僚主义陷入瘫痪，直到几个边境城镇陷落都完全未能紧急出动快速反应部队。"
+  },
+  {
+    "id": "tem8_c1_30",
+    "group_id": 38,
+    "group_name": "indolent, slothful, lethargic, torpid",
+    "level": "TEM-8",
+    "target_word": "indolent",
+    "question": "The ombudsman dismissed three senior procurement directors whose ___ management style had allowed contractor fraud to proliferate unchecked for nearly a decade, prioritizing personal comfort over rigorous regulatory oversight.",
+    "options": [
+      "indolent",
+      "torpid",
+      "lethargic",
+      "slothful"
+    ],
+    "answer": "indolent",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文指出 'prioritizing personal comfort over rigorous regulatory oversight'（将个人安逸舒适置于严密监管之上），专指贪图安逸、游手好闲、懒于任事的好逸恶劳风格。",
+    "distractor_analysis": {
+      "indolent": "adj. 专指“好逸恶劳的、懒于任事的”（averse to activity or effort; habitually lazy），在此处修饰官僚为了自身安逸舒适而尸位素餐的任事风格，契合度极高。",
+      "torpid": "adj. 指处于僵死、麻木迟钝的冷冻状态，不侧重追求享乐安逸的主观怠工品行。",
+      "lethargic": "adj. 指昏昏欲睡、无精打采的生理状态，多由疾病或疲倦引起，不强调为个人私利安逸而渎职怠政。",
+      "slothful": "adj. 带有古典说教贬义（懒散罪孽），在现代行政与公共管理制度批评中通常选用更为严谨规范的 indolent。"
+    },
+    "translation": "监察专员撤换了三名高级采购主管，他们那种好逸恶劳的管理作风导致承包商欺诈行为近十年来滋生蔓延，且他们始终将个人安逸置于严格的监管职责之上。"
+  },
+  {
+    "id": "tem8_c1_31",
+    "group_id": 39,
+    "group_name": "heedless, imprudent, reckless, rash",
+    "level": "TEM-8",
+    "target_word": "heedless",
+    "question": "Ecologists cautioned that the industrial empire's ___ exploitation of virgin aquifers, conducted in complete disregard of replenishing limits, would permanently degrade the nation's hydrological breadbasket.",
+    "options": [
+      "heedless",
+      "imprudent",
+      "reckless",
+      "rash"
+    ],
+    "answer": "heedless",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "与 'exploitation' 搭配，且后文紧跟 'conducted in complete disregard of replenishing limits'。“heedless exploitation”是直接引自当代政治经济学与《资本论》批判语境的经典固定搭配（不顾警告后果、置若罔闻的肆意开采）。",
+    "distractor_analysis": {
+      "heedless": "adj. 指“不注意的、对危险警告置若罔闻的”（not taking heed; inattentive to consequences），与 exploitation 构成著名环境经济学固定词组（heedless exploitation of nature），呼应后文完全无视自然补给极限的行径。",
+      "imprudent": "adj. 侧重于指在经济或决策上“不明智的、不审慎的”（lacking wisdom/prudence），语气较为温和，不能充分表达出明知有警戒却肆意践踏自然底线的狂妄放任。",
+      "reckless": "adj. 侧重于狂暴嚣张、铤而走险（rash defiance of danger），在搭配生态资源掠夺时不如 heedless exploitation 地道纯正。",
+      "rash": "adj. 强调情急之下、轻率草率的单次仓促决定（a rash decision），不适合形容跨越多年、持续性的工业规模开采。"
+    },
+    "translation": "生态学家们警告称，该工业帝国对原生含水层的肆意破坏性开采完全无视了地下水补给极限，最终将彻底毁掉该国的水文粮仓。"
+  },
+  {
+    "id": "tem8_c1_32",
+    "group_id": 39,
+    "group_name": "heedless, imprudent, reckless, rash",
+    "level": "TEM-8",
+    "target_word": "imprudent",
+    "question": "The central bank governor warned that it would be highly ___ for the finance ministry to slash borrowing costs prematurely while core consumer inflation remained stubbornly detached from target levels.",
+    "options": [
+      "imprudent",
+      "heedless",
+      "reckless",
+      "rash"
+    ],
+    "answer": "imprudent",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "央行行长专业宏观经济学评估常用句式 'it would be highly ___ for the ministry to slash borrowing costs prematurely'，专指在经济与金融决策上缺乏审慎远见、不明智（not prudent or wise）。",
+    "distractor_analysis": {
+      "imprudent": "adj. 【宏观经济与政策公文权威用词】专指决策“不明智的、不审慎的、缺乏风险考量的”（not prudent; ill-advised），“highly imprudent”是央行与财政部高层警告过激政策的经典学术措辞。",
+      "heedless": "adj. 侧重于对眼前明确的危险或告诫听而不闻（heedless of warnings），在此处句型中通常需要带 of 短语，做表语形式不如 imprudent 符合央行官方语调。",
+      "reckless": "adj. 语意过于激烈甚至带有违法犯罪的狂暴鲁莽感（reckless driving/behavior），不符合央行官僚委婉严谨的专业技术语域。",
+      "rash": "adj. 指一时冲动下做出的冒失鲁莽行为，语境偏非正式，不符合宏观货币政策的审慎辩论氛围。"
+    },
+    "translation": "央行行长警告称，在核心消费者通胀仍顽固偏离目标水平之际，财政部过早削减借贷成本将是极不明智且欠缺审慎的。"
+  },
+  {
+    "id": "tem8_c1_33",
+    "group_id": 40,
+    "group_name": "scrupulous, punctilious, meticulous, exacting",
+    "level": "TEM-8",
+    "target_word": "punctilious",
+    "question": "The veteran chief of protocol was famously ___ in his observance of diplomatic etiquette, ensuring that every ambassador was seated precisely according to the date of accreditation to avert diplomatic offense.",
+    "options": [
+      "punctilious",
+      "scrupulous",
+      "meticulous",
+      "exacting"
+    ],
+    "answer": "punctilious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'observance of diplomatic etiquette' 与 'seated precisely according to the date of accreditation'，专指在礼节、规矩、客套程序上极其注重细节、一丝不苟的礼宾行为（punctilious in attention to etiquette/rules）。",
+    "distractor_analysis": {
+      "punctilious": "adj. 专指在社交礼仪、正式礼节和既定规矩上“一丝不苟的、谨小慎微的”（marked by precise accordance with details of etiquette and rules），与外交礼宾司长对座次礼仪的严苛遵从构成天衣无缝的锁定。",
+      "scrupulous": "adj. 侧重道德良心、廉洁与正直原则（principled, having moral integrity），不专指外交礼节细节的繁文缛节。",
+      "meticulous": "adj. 泛指在日常工作或科学研究中对细节的细致入微（meticulous research），缺乏 punctilious 特有的“遵守繁文缛节与礼仪法度”的专属色彩。",
+      "exacting": "adj. 侧重指标准极高、要求极为苛刻或任务繁重艰难（exacting task/standards），不常作为表语形容个人遵从礼节的一丝不苟态度。"
+    },
+    "translation": "这位资深礼宾司长在遵守外交礼节方面以一丝不苟而闻名，他确保每位大使都严格按照国书呈递日期入座，以避免引发外交龃龉。"
+  },
+  {
+    "id": "tem8_c1_34",
+    "group_id": 40,
+    "group_name": "scrupulous, punctilious, meticulous, exacting",
+    "level": "TEM-8",
+    "target_word": "scrupulous",
+    "question": "The special prosecutor maintained a ___ commitment to statutory ethics, recusing herself from cases involving former associates to guarantee absolute impartiality during the sovereign embezzlement trials.",
+    "options": [
+      "scrupulous",
+      "punctilious",
+      "meticulous",
+      "exacting"
+    ],
+    "answer": "scrupulous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'commitment to statutory ethics' 与 'recusing herself... to guarantee absolute impartiality'，强调建立在良知、伦理原则与道德操守基础上的严正廉洁（having moral integrity; principled）。",
+    "distractor_analysis": {
+      "scrupulous": "adj. 专指“严守道德原则的、正直廉洁的、讲求良知的”（having moral integrity; acting in strict regard for what is right），完美呼应检察官为维护司法公正而主动回避利益关联的崇高道德自觉。",
+      "punctilious": "adj. 偏向于死板遵守社交礼节或表面规章程序，不包含深沉的司法正义与良心操守底色。",
+      "meticulous": "adj. 仅指做事情精细微小、关注技术细节，是技术中性词，不涵盖抵制贪腐、捍卫伦理的道德良知内涵。",
+      "exacting": "adj. 强调要求严格甚至挑剔苛刻，不能准确刻画检察官自我克制、坚守司法伦理的正直人格品质。"
+    },
+    "translation": "特别检察官对法定伦理准则保持着一丝不苟的道德坚守，主动回避了涉及前同事的案件，以确保在主权侵吞资产审判中实现绝对公正。"
+  },
+  {
+    "id": "tem8_c1_35",
+    "group_id": 41,
+    "group_name": "acquit, vindicate, exonerate, absolve",
+    "level": "TEM-8",
+    "target_word": "vindicate",
+    "question": "Subsequent stabilization across sovereign credit markets served to ___ the finance minister's controversial capital controls, demonstrating that his emergency interventions had averted catastrophic currency collapse.",
+    "options": [
+      "vindicate",
+      "acquit",
+      "exonerate",
+      "absolve"
+    ],
+    "answer": "vindicate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语为客观事实 'Subsequent stabilization across sovereign credit markets served to ___ the controversial capital controls'，后文紧跟证明其政策的正确性，专指通过后来的事实或成果证明过去的决策或主张是正当、正确且英明的（vindicate a policy/decision）。",
+    "distractor_analysis": {
+      "vindicate": "v. 专指“证实…正确合理、为…平反辩护”（show to be right or justified by subsequent events），其宾语通常为有争议的主张、政策或名誉（vindicate a policy/claim），主语常为后续的事实验证，完全契合题干逻辑。",
+      "acquit": "v. 专指法庭经过审判后“宣判无罪”（acquit a defendant of charges），只能接被告人为宾语，不能以资本管制政策为宾语。",
+      "exonerate": "v. 强调通过调查证明某人“免受指控或洗脱罪名”（exonerate sb from blame/charges），宾语多为人，不用于证明某项宏观经济政策决策的先见之明与正确性。",
+      "absolve": "v. 带有强烈的宗教赦免或免除债务/义务意味（absolve sb of sin/duty），不能用于客观事实证明某政策的正确合理。"
+    },
+    "translation": "随后主权信贷市场的稳定证明了财政部长备受争议的资本管制政策是完全正确的，事实表明他的紧急干预措施避免了灾难性的货币崩溃。"
+  },
+  {
+    "id": "tem8_c1_36",
+    "group_id": 41,
+    "group_name": "acquit, vindicate, exonerate, absolve",
+    "level": "TEM-8",
+    "target_word": "exonerate",
+    "question": "A comprehensive forensic inquiry by the UN tribunal served to ___ the peacekeeping battalion of atrocity allegations, revealing that the artillery shells originated from a rogue militia's concealed battery.",
+    "options": [
+      "exonerate",
+      "vindicate",
+      "acquit",
+      "absolve"
+    ],
+    "answer": "exonerate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句型 'served to ___ the peacekeeping battalion of atrocity allegations'，结构为固定搭配“exonerate sb of/from allegations”（通过调查正式洗刷指控、澄清清白）。",
+    "distractor_analysis": {
+      "exonerate": "v. 专指“正式洗清（某人/某机构的）罪名或指控”（officially clear from accusation or blame），常接 'sb of/from allegations'，由独立调查报告作为主语来洗刷维和部队的暴行指控，句法与语境完全闭环。",
+      "vindicate": "v. 强调证明某种看法或主张的正确合理（vindicate an argument/claim），不搭配 'sb of allegations' 这一免罪清洗语法结构。",
+      "acquit": "v. 必须是法庭陪审团或法官作出的法定刑事判决（acquit sb of murder），一般不用于非司法审判性质的联合国联合调查组查明事实的语境。",
+      "absolve": "v. 侧重在道德或宗教上赦免宽恕过错，不用于严谨的国际战争罪调查组在事实层面上洗刷诬告。"
+    },
+    "translation": "联合国法庭开展的全面法医调查洗清了维和营涉嫌暴行的指控，查明迫击炮弹实则源自某非法民兵武装的隐蔽炮兵阵地。"
+  },
+  {
+    "id": "tem8_c1_37",
+    "group_id": 42,
+    "group_name": "connive, collude, conspire, scheme",
+    "level": "TEM-8",
+    "target_word": "connive",
+    "question": "The investigative commission revealed that corrupt border guards had actively chosen to ___ at the illegal trafficking of rare earth minerals, deliberately disabling surveillance cameras in exchange for offshore kickbacks.",
+    "options": [
+      "connive",
+      "collude",
+      "conspire",
+      "scheme"
+    ],
+    "answer": "connive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "语法题眼为介词 'at'（chosen to ___ at the illegal trafficking... deliberately disabling surveillance cameras），“connive at”是英语中绝对排他的固定动介搭配，专指对违法犯罪行为放任纵容、默许默许、假装不见。",
+    "distractor_analysis": {
+      "connive": "v. 构成固定搭配“connive at sth.”（纵容、默许、暗中包庇某违法行为），与故意关闭监控摄像头、对走私装聋作哑的渎职行径形成语法与语意的绝对双重咬合。",
+      "collude": "v. 只能搭配 with 或 in（collude with sb to do sth），绝不能与介词 at 连用，代入产生致命句法断裂。",
+      "conspire": "v. 搭配 with sb 或 to do sth（conspire against/with），不搭配 at 动介短语，语法完全错误。",
+      "scheme": "v. 搭配 to do 或 against（scheme against sb），同样绝不与介词 at 构成及物动词短语。"
+    },
+    "translation": "调查委员会披露，腐败的边防警卫主动纵容稀土矿物的非法走私活动，为了离岸回扣而故意关闭监控摄像头并假装视而不见。"
+  },
+  {
+    "id": "tem8_c1_38",
+    "group_id": 42,
+    "group_name": "connive, collude, conspire, scheme",
+    "level": "TEM-8",
+    "target_word": "collude",
+    "question": "Antitrust regulators produced encrypted communications proving that the state-backed telecommunications conglomerates had agreed to ___ with one another to fix wholesale broadband prices across the continent.",
+    "options": [
+      "collude",
+      "connive",
+      "conspire",
+      "scheme"
+    ],
+    "answer": "collude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "搭配 'agreed to ___ with one another to fix wholesale broadband prices'，在反垄断监管与贸易法中，寡头企业相互串通搞价格卡特尔的法定专属词汇为 collude（collude to fix prices）。",
+    "distractor_analysis": {
+      "collude": "v. 【反垄断与商法法定术语】专指商业竞争对手之间“非法串通、勾结串通”（act in unison secretly for deceitful or illegal purposes），与企业相互勾结操控价格（collude with one another to fix prices）构成绝对行业固定搭配。",
+      "connive": "v. 强调对下属或他人的罪行纵容姑息、睁一只眼闭一只眼（connive at），不用于寡头企业彼此之间进行横向非法串通联合。",
+      "conspire": "v. 偏向于政治图谋推翻政权或策划刑事暴力阴谋（conspire to overthrow a government），在规范的经济反垄断公文中不如专业法言法语 collude 严谨贴切。",
+      "scheme": "v. 侧重耍手段、耍诡计策划私利，不构成反垄断法中界定价格同盟卡特尔串通行为的法定标准词汇。"
+    },
+    "translation": "反垄断监管机构出具了加密通信记录，证实这些国有电信巨头曾彼此勾结串通，以联手操纵整个大陆的批发宽带价格。"
+  },
+  {
+    "id": "tem8_c1_39",
+    "group_id": 43,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "broker",
+    "question": "After months of grueling shuttle diplomacy across neutral capitals, the special envoy finally managed to ___ an elusive ceasefire between the warring factions, opening corridors for emergency medical convoys.",
+    "options": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "answer": "broker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "修饰 'an elusive ceasefire between the warring factions'，“broker a ceasefire / broker peace”是国际外交斡旋中由第三方特使最终成功达成、促成停火协定的最核心固定搭配（as intermediary bringing about a treaty）。",
+    "distractor_analysis": {
+      "broker": "v. 专指外交中间人通过穿梭斡旋“成功促成、调解达成”（arrange and negotiate a settlement as a third party），与 broker a ceasefire 构成国际危机管控中的经典地道搭配。",
+      "negotiate": "v. 侧重于交涉商谈的过程本身（negotiate terms），在此处虽可表达谈判，但强调第三方外交官最终促成落实两造达成停火契约时，broker 具有无可替代的结果达成与权威调解色彩。",
+      "mediate": "v. 强调充当居间斡旋人（mediate a dispute/settlement），但在及物动词搭配抽象协议时，通常表达调解纠纷（mediate between parties），较少像 broker a ceasefire 那样强调最终敲定成案。",
+      "arbitrate": "v. 专指仲裁机构依据法律对争议作出具有法律约束力的裁决（arbitrate a dispute by issuing a ruling），不能用于斡旋促成政治性停火协议。"
+    },
+    "translation": "在中立国首都进行了数月艰苦卓绝的穿梭外交之后，这位特别特使终于成功促成了交战派系之间极难达成的停火协议，为紧急医疗车队开辟了通道。"
+  },
+  {
+    "id": "tem8_c1_40",
+    "group_id": 43,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "arbitrate",
+    "question": "Both littoral states submitted their overlapping continental shelf claims to the Permanent Court of Arbitration, empowering the international tribunal to ___ their maritime boundary dispute with a legally binding demarcation.",
+    "options": [
+      "arbitrate",
+      "broker",
+      "negotiate",
+      "mediate"
+    ],
+    "answer": "arbitrate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语为国际仲裁法院（Permanent Court of Arbitration），且后文明确指出 'empowering the tribunal to ___ their dispute with a legally binding demarcation'，绝对排他性指向司法/仲裁庭行使公权力作出有法律约束力裁决的专属行为（arbitrate a dispute）。",
+    "distractor_analysis": {
+      "arbitrate": "v. 【国际公法专属术语】专指授权仲裁庭依据法律证据对两国立场进行审理并作出“具有终局约束力的司法裁决”（act as an impartial judge with authority to deliver binding judgment），与题干中法庭作出有法律约束力的划界完全闭合。",
+      "broker": "v. 指政治中介人通过妥协促成交易协议，无权作出具有法律强制执行力的法庭划界裁决。",
+      "negotiate": "v. 是争议双方自己的平级谈判，而不是授权法庭审理裁决。",
+      "mediate": "v. 仅指调解斡旋，调解人无权作出单方面强制性的界线划定裁决。"
+    },
+    "translation": "两个沿海国将其重叠的大陆架主张提交常设仲裁法院，授权该国际仲裁庭对它们的海洋边界争端进行仲裁，并作出具有法律约束力的划界裁决。"
+  },
+  {
+    "id": "tem8_c1_41",
+    "group_id": 44,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quash",
+    "question": "The constitutional court convened in an emergency session to ___ the executive decree, ruling that the head of state had exceeded his constitutional mandate by suspending parliamentary immunity.",
+    "options": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语为 'constitutional court'（宪法法院），宾语为 'the executive decree'（行政命令），“quash a decree / quash a subpoena / quash a conviction”是司法机关依法撤销、废止、宣布法令无效的绝对司法专属搭配。",
+    "distractor_analysis": {
+      "quash": "v. 【宪政法学法定术语】专指法院通过司法判决“撤销、废除、宣布无效”（nullify or void especially by judicial action），与宪法法院依法撤销违宪总统令构成唯一合法搭配。",
+      "quell": "v. 专指通过武力平息动乱、暴乱或恐惧（quell riots/rebellion/fear），绝不能用于法院推翻法律法令。",
+      "suppress": "v. 侧重指武力镇压民众抗议或在物理/信息上压制封锁消息（suppress dissent/information），不是法庭行使司法审查权的专业法定词汇。",
+      "stifle": "v. 指扼杀、窒息某事物的发展或压制声音（stifle innovation/speech），不能充当宪法法院撤销总统令的严谨法律术语。"
+    },
+    "translation": "宪法法院召开紧急会议撤销了该项行政命令，裁定国家元首暂停议员豁免权的行为超越了其宪法授权范围。"
+  },
+  {
+    "id": "tem8_c1_42",
+    "group_id": 44,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quell",
+    "question": "Peacekeeping battalions were authorized under a Chapter VII mandate to ___ the violent civil unrest that erupted across the capital following disputed presidential election results.",
+    "options": [
+      "quell",
+      "quash",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quell",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "修饰 'the violent civil unrest that erupted across the capital'，“quell civil unrest / quell riots”是国际安全领域维和部队出动恢复秩序、平息暴力动乱的标准固定搭配。",
+    "distractor_analysis": {
+      "quell": "v. 专指“平息、平定（暴乱、骚乱、暴动）”（put down completely; suppress and pacify violent disorder），与平定选举后爆发的首都暴力骚乱（quell civil unrest）高度匹配。",
+      "quash": "v. 侧重司法裁决层面的撤销传票/法令，或迅速扑灭谣言，一般不用于维和部队出动防暴力量在街头平息暴乱。",
+      "suppress": "v. 带有强烈的专制政权残酷镇压异见与合法权利的贬义政治色彩（suppress freedom/dissent），在联合国安理会授权维和部队平息街头骚乱、恢复法律秩序的正当公文中，quell 语用更为规范典雅且符合国际法措辞。",
+      "stifle": "v. 侧重窒息扼杀生长活力或捂住声音，不用于大规模街头武装冲突或暴力动乱的平定。"
+    },
+    "translation": "根据联合国宪章第七条授权，维和营奉命平息因有争议的总统选举结果而在首都全境爆发的暴力国内动乱。"
+  },
+  {
+    "id": "tem8_c1_43",
+    "group_id": 45,
+    "group_name": "rescind, repeal, revoke, abrogate",
+    "level": "TEM-8",
+    "target_word": "abrogate",
+    "question": "By unilaterally resuming enriched uranium production, the revisionist regime chose to effectively ___ the multilateral non-proliferation treaty, demolishing three decades of painstakingly negotiated international security guarantees.",
+    "options": [
+      "abrogate",
+      "repeal",
+      "revoke",
+      "rescind"
+    ],
+    "answer": "abrogate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "宾语为 'the multilateral non-proliferation treaty'（多边防扩散条约），“abrogate a treaty / abrogate an international accord”是国际公法中废除、撕毁主权条约与国际公约的最高法定语域动词。",
+    "distractor_analysis": {
+      "abrogate": "v. 【国际公法权威专属用词】专指主权国家单方面“废除、撕毁、废止（条约、公约、国家宪章）”（annul or repudiate a treaty/formal agreement formally），修饰废除多边条约具有唯一的法学排他性。",
+      "repeal": "v. 专指代议制立法机关废止国内成文法律（repeal a statute/law by parliament），不可用于撕毁主权国家间的国际条约。",
+      "revoke": "v. 专指撤销执照、公民身份、特权或单方许可（revoke a license/citizenship/privilege），不用于多边主权条约的大规模废止。",
+      "rescind": "v. 侧重行政机关撤销行政指令、决定或商业合同（rescind a contract/directive/offer），不如 abrogate 具有国际条约法公认的崇高公法语域地位。"
+    },
+    "translation": "通过单方面恢复浓缩铀生产，该修正主义政权实际上选择了公然废除该多边防扩散条约，摧毁了长达三十年惨淡经营谈判达成的国际安全保障。"
+  },
+  {
+    "id": "tem8_c1_44",
+    "group_id": 45,
+    "group_name": "rescind, repeal, revoke, abrogate",
+    "level": "TEM-8",
+    "target_word": "repeal",
+    "question": "Prompted by nationwide protests against systemic censorship, parliament convened in a rare midnight session to ___ the nineteenth-century sedition statute, expunging the punitive measure from the criminal code.",
+    "options": [
+      "repeal",
+      "abrogate",
+      "revoke",
+      "rescind"
+    ],
+    "answer": "repeal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语为 'parliament'（议会/国会），宾语为 'the sedition statute'（煽动叛乱法令），后文强调 'expunging the measure from the criminal code'（将其从刑法典中彻底删除），绝对排他性指向立法机关废止本国法案（repeal a statute）。",
+    "distractor_analysis": {
+      "repeal": "v. 【宪政立法专属术语】专指议会通过立法程序“废止、撤销（法律、成文法令）”（officially revoke or annul a statute/law by legislative enactment），与国会投票废止刑法典中的煽动罪法条形成严密闭环。",
+      "abrogate": "v. 专用于废止国际条约或宪政契约，不能作为国会废除国内刑法具体法条的标准动词。",
+      "revoke": "v. 侧重撤回对个体的许可、护照或资格（revoke a visa/permit），不是议会废除现行法律条文的法定立法术语。",
+      "rescind": "v. 侧重政府行政部门废止行政命令或决议，在议会依法废除刑事法案时必须使用专业立法词汇 repeal。"
+    },
+    "translation": "在全国抗议体制性审查制度的浪潮推动下，议会召开了罕见的午夜特别会议，废止了这部十九世纪的煽动叛乱法令，将这项惩罚性措施从刑法典中彻底抹去。"
+  },
+  {
+    "id": "tem8_c1_45",
+    "group_id": 46,
+    "group_name": "adhere, conform, comply, abide",
+    "level": "TEM-8",
+    "target_word": "abide",
+    "question": "Before formal maritime arbitration began, both disputing republics signed an irrevocable covenant pledging unconditionally to ___ by the international tribunal's boundary determination without appeal.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "abide",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "语法题眼为介词 'by'（pledging unconditionally to ___ by the tribunal's boundary determination），“abide by”是英语中绝对排他的固定动介搭配（遵守裁决、服从判决）。",
+    "distractor_analysis": {
+      "abide": "v. 与介词 by 构成固定搭配“abide by”（遵守、信守判决或契约），是四个选项中唯一能够且必须与 by 搭配表示遵守规则的动词。",
+      "adhere": "v. 必须搭配介词 to（adhere to a treaty/principle），代入搭配 by 产生严重语法破格。",
+      "conform": "v. 必须搭配介词 to（conform to rules/standards），代入搭配 by 在语法上根本不成立。",
+      "comply": "v. 必须搭配介词 with（comply with regulations），代入搭配 by 造成固定搭配严重断裂。"
+    },
+    "translation": "在正式的海洋仲裁开始之前，双方争议共和国签署了一项不可撤销的公约，无条件承诺服从国际仲裁庭的划界裁决且不再上诉。"
+  },
+  {
+    "id": "tem8_c1_46",
+    "group_id": 46,
+    "group_name": "adhere, conform, comply, abide",
+    "level": "TEM-8",
+    "target_word": "comply",
+    "question": "The aviation regulator grounded the flag carrier's entire long-haul fleet after safety audits revealed that executive management had repeatedly failed to ___ with mandatory international turbine maintenance directives.",
+    "options": [
+      "comply",
+      "adhere",
+      "conform",
+      "abide"
+    ],
+    "answer": "comply",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "语法题眼为介词 'with'（repeatedly failed to ___ with mandatory international turbine maintenance directives），“comply with”是绝对排他的固定动介搭配（遵从法规指令）。",
+    "distractor_analysis": {
+      "comply": "v. 与介词 with 构成固定搭配“comply with directives/regulations”（遵从安全指令与强制规章），与后文介词 with 形成唯一的句法互锁。",
+      "adhere": "v. 搭配介词 to（adhere to rules），不能与 with 搭配，代入导致语法错误。",
+      "conform": "v. 搭配介词 to（conform to standards），不能与 with 搭配，代入导致语法错误。",
+      "abide": "v. 搭配介词 by（abide by decisions），不能与 with 搭配，代入导致语法错误。"
+    },
+    "translation": "在安全审计查明管理高层屡次未能遵从国际强制性涡轮维护指令之后，航空监管机构下令该载旗航空公司的全部远程机队停飞。"
+  }
+]

@@ -1,0 +1,1590 @@
+{
+  "chunk_id": 1,
+  "theme_info": {
+    "chunk_id": 1,
+    "theme": "公共政策、全球治理与外交斡旋 (Public Policy & Global Governance)",
+    "guidance": "题干应体现多边组织协议签署、难民危机、主权纠纷、环境碳税公约等联合国/G20官方公文与权威媒体语调。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 24,
+      "group_name": "specious, spurious, fallacious, plausible",
+      "target_word": "specious",
+      "words": [
+        "specious",
+        "spurious",
+        "fallacious",
+        "plausible"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "specious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "having a false look of truth or genuineness : SOPHISTIC",
+          "having deceptive attraction or allure",
+          "SHOWY",
+          "having a false look of being fair, just, or right"
+        ],
+        "dictionary_examples": [
+          "Forty years ago I was not yet thirty, and my father still held to the hope that I would come to my senses, abandon the practice of journalism, and follow a career in one of the Wall Street money trades. As a young man during the Great Depression he had labored briefly as a city-room reporter for William Randolph Hearst's San Francisco Examiner, and he knew that the game was poorly paid and usually rigged, more often than not a matter of converting specious rumor into dubious fact.",
+          "By and large, they made these changes with specious explanations or no explanation at all. Today, when curricula list rhetoric as a subject, it usually means simply the study of how to write effectively.",
+          "One must always guard the interests of one's constituency in the public forum even when its claims are weak or perhaps specious, lest one's opponents steal the march in the never-ending battle for resources or public support.",
+          "This specious parallel is all too readily available; the bombing of Dresden is the more obvious comparison.",
+          "In the world of wellness and health content, few areas of our anatomy attract more interest lately — and specious claims — than the gut microbiome.",
+          "In fairness, concluding no one cares is a specious take, at best, based on the evidence Tuesday."
+        ],
+        "web_examples": [
+          "This specious parallel is all too readily available; the bombing of Dresden is the more obvious comparison.",
+          "In the world of wellness and health content, few areas of our anatomy attract more interest lately — and specious claims — than the gut microbiome.",
+          "In fairness, concluding no one cares is a specious take, at best, based on the evidence Tuesday.",
+          "As expected, Harald attacks Lakey with all of his specious assumptions."
+        ],
+        "synonym_discussion": "Synonyms of specious\nRelevance\nmisleading\ndeceptive\nfalse\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "specious": {
+          "synset": "specious.s.01",
+          "definition": "plausible but false",
+          "examples": [
+            "a specious claim",
+            "spurious inferences"
+          ]
+        },
+        "spurious": {
+          "synset": "specious.s.01",
+          "definition": "plausible but false",
+          "examples": [
+            "a specious claim",
+            "spurious inferences"
+          ]
+        },
+        "fallacious": {
+          "synset": "fallacious.s.01",
+          "definition": "containing or based on a fallacy",
+          "examples": [
+            "fallacious reasoning",
+            "an unsound argument"
+          ]
+        },
+        "plausible": {
+          "synset": "plausible.a.01",
+          "definition": "apparently reasonable and valid, and truthful",
+          "examples": [
+            "a plausible excuse"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 25,
+      "group_name": "lucid, perspicuous, pellucid, transparent",
+      "target_word": "lucid",
+      "words": [
+        "lucid",
+        "perspicuous",
+        "pellucid",
+        "transparent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "lucid 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "clear to the understanding : INTELLIGIBLE",
+          "having full use of one's faculties",
+          "suffused with light : LUMINOUS",
+          "TRANSLUCENT"
+        ],
+        "dictionary_examples": [
+          "clear instructions",
+          "a perspicuous style",
+          "a lucid explanation",
+          "The stroke also set off a major crisis of presidential succession, as the debilitated and not entirely lucid president continued to cling to office and plan feebly for re-election.",
+          "His lucid history of this grim subject is scrupulously accurate, so far as I am able to judge …",
+          "\"You would like me to read to you?\" \"You would oblige me greatly by doing so, Dorothea,\" said Mr. Casaubon, with a shade more meekness than usual in his polite manner. \"I am wakeful: my mind is remarkably lucid.\""
+        ],
+        "web_examples": [
+          "But his memory, of a long career as a reporter around the globe, with turns as an essayist, a historian, a novelist, and a political activist, remains almost eerily lucid.",
+          "These 16 slaps are lucid and adventurous, featuring random Jay Electronica warblings, DJ Quik rhythms, and a couple of surprisingly appropriate Westside Gunn vignettes.",
+          "Carr and Konkoly would wire everyone up with EEG, perform their lucid-dreaming protocol, and let people drift off.",
+          "Songs about heartbreak and toxic relationship cycles are precise and lucid, even in their delusions."
+        ],
+        "synonym_discussion": "Synonyms of lucid\nRelevance\nclear\nobvious\napparent\nstraightforward\nunmistakable\nevident\ndistinct\ntransparent\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "lucid": {
+          "synset": "limpid.s.03",
+          "definition": "(of language) transparently clear; easily understandable; ; ; - Robert Burton",
+          "examples": [
+            "writes in a limpid style",
+            "lucid directions"
+          ]
+        },
+        "perspicuous": {
+          "synset": "limpid.s.03",
+          "definition": "(of language) transparently clear; easily understandable; ; ; - Robert Burton",
+          "examples": [
+            "writes in a limpid style",
+            "lucid directions"
+          ]
+        },
+        "pellucid": {
+          "synset": "crystalline.s.03",
+          "definition": "transmitting light; able to be seen through with clarity",
+          "examples": [
+            "the cold crystalline water of melted snow",
+            "crystal clear skies"
+          ]
+        },
+        "transparent": {
+          "synset": "crystalline.s.03",
+          "definition": "transmitting light; able to be seen through with clarity",
+          "examples": [
+            "the cold crystalline water of melted snow",
+            "crystal clear skies"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 26,
+      "group_name": "esoteric, abstruse, recondite, arcane",
+      "target_word": "esoteric",
+      "words": [
+        "esoteric",
+        "abstruse",
+        "recondite",
+        "arcane"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "esoteric 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "designed for or understood by the specially initiated alone",
+          "requiring or exhibiting knowledge that is restricted to a small group",
+          "difficult to understand",
+          "limited to a small circle"
+        ],
+        "dictionary_examples": [
+          "A kahuna is a master of Hawaiian esoteric practices. Recently, Mariko Gordon and Hugh Cosman engaged a kahuna to bless their house.  …",
+          "… he listens to a group of Malaysians playing reedy, plangent music on some esoteric kind of wind instrument.",
+          "There was a new mall, an excellent bookstore with esoteric literary and policy journals, some restaurants with cosmopolitan menus, and engaging real estate advertisements.",
+          "But then Mehmet is let go from his job teaching esoteric music practices to university students and the household’s sole steady source of income is gone.",
+          "Some say the public backlash to AI, and OpenAI, is partly because messaging from the leading labs can be esoteric, rather than grounded in the day-to-day benefits of AI, and in some cases, downright frightening.",
+          "Their job is to reduce the world to a series of numbers that can be punched into increasingly complex statistical equations and published in esoteric journals with high barriers to entry and minuscule readerships."
+        ],
+        "web_examples": [
+          "But then Mehmet is let go from his job teaching esoteric music practices to university students and the household’s sole steady source of income is gone.",
+          "Some say the public backlash to AI, and OpenAI, is partly because messaging from the leading labs can be esoteric, rather than grounded in the day-to-day benefits of AI, and in some cases, downright frightening.",
+          "Their job is to reduce the world to a series of numbers that can be punched into increasingly complex statistical equations and published in esoteric journals with high barriers to entry and minuscule readerships.",
+          "Another challenge is that though the Langlands program is sweeping and unifying, the mathematical correspondences themselves are excruciatingly specific and esoteric."
+        ],
+        "synonym_discussion": "Synonyms of esoteric\nRelevance\nprofound\nscholarly\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "esoteric": {
+          "synset": "esoteric.a.01",
+          "definition": "confined to and understandable by only an enlightened inner circle",
+          "examples": [
+            "a compilation of esoteric philosophical theories"
+          ]
+        },
+        "abstruse": {
+          "synset": "abstruse.s.01",
+          "definition": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+          "examples": [
+            "the professor's lectures were so abstruse that students tended to avoid them",
+            "a deep metaphysical theory"
+          ]
+        },
+        "recondite": {
+          "synset": "abstruse.s.01",
+          "definition": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+          "examples": [
+            "the professor's lectures were so abstruse that students tended to avoid them",
+            "a deep metaphysical theory"
+          ]
+        },
+        "arcane": {
+          "synset": "arcane.s.01",
+          "definition": "requiring secret or mysterious knowledge",
+          "examples": [
+            "the arcane science of dowsing"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 27,
+      "group_name": "astute, shrewd, perspicacious, sagacious",
+      "target_word": "astute",
+      "words": [
+        "astute",
+        "shrewd",
+        "perspicacious",
+        "sagacious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "astute 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "having or showing shrewdness and an ability to notice and understand things clearly : mentally sharp or clever",
+          "clever in the use of subtlety or strategy : CRAFTY, WILY",
+          "having or showing understanding and the skill to make good choices or decisions : WISE, SHREWD"
+        ],
+        "dictionary_examples": [
+          "a shrewd judge of character",
+          "sagacious investors got in on the ground floor",
+          "a perspicacious counselor saw through the child's facade",
+          "an astute player of party politics",
+          "We thought they were not very intellectually astute, but we didn't really understand how political a lot of what they were doing was.",
+          "He asked astute diagnosticians around the country how they approached and cracked difficult diagnoses and what happened when they failed. Misdiagnosis is not an insignificant problem: Groopman cites a finding that between one in six and one in seven patients is incorrectly assessed."
+        ],
+        "web_examples": [
+          "One of the grid’s most astute late-nineteenth-century critics, the geologist John Wesley Powell, decried its environmental recklessness.",
+          "As some astute readers have pointed out, Gen has piled up a lot of dirty laundry this season.",
+          "Bowman, Babcock and Chaulk can aid each player’s progress with some astute deployment.",
+          "Rowland, as politically astute as any recording artist living in the United Kingdom, went on to form new bands, release solo music and drop albums as Dexys."
+        ],
+        "synonym_discussion": "Synonyms of astute\nRelevance\nsmart\nshrewd\nsavvy\nwise\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "astute": {
+          "synset": "astute.s.01",
+          "definition": "marked by practical hardheaded intelligence",
+          "examples": [
+            "a smart businessman",
+            "an astute tenant always reads the small print in a lease"
+          ]
+        },
+        "shrewd": {
+          "synset": "astute.s.01",
+          "definition": "marked by practical hardheaded intelligence",
+          "examples": [
+            "a smart businessman",
+            "an astute tenant always reads the small print in a lease"
+          ]
+        },
+        "perspicacious": {
+          "synset": "perspicacious.s.01",
+          "definition": "acutely insightful and wise",
+          "examples": [
+            "much too perspicacious to be taken in by such a spurious argument",
+            "observant and thoughtful, he was given to asking sagacious questions"
+          ]
+        },
+        "sagacious": {
+          "synset": "perspicacious.s.01",
+          "definition": "acutely insightful and wise",
+          "examples": [
+            "much too perspicacious to be taken in by such a spurious argument",
+            "observant and thoughtful, he was given to asking sagacious questions"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 28,
+      "group_name": "credulous, gullible, naive, ingenuous",
+      "target_word": "credulous",
+      "words": [
+        "credulous",
+        "gullible",
+        "naive",
+        "ingenuous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "credulous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "ready to believe especially on slight or uncertain evidence",
+          "proceeding from credulity",
+          "ready to believe especially on little evidence"
+        ],
+        "dictionary_examples": [
+          "Jentleson spends only one page on this obvious disappointment, faulting Fetterman for taking too much delight in conflict with the left and for becoming too credulous toward AIPAC.",
+          "So what if the credulous smallfolk now believe that the Usurper’s rule is ordained by the Gods?",
+          "In 1972, Joyce Carol Oates wrote a letter to the New York Times Book Review questioning a credulous review of Castaneda’s books.",
+          "Room for Disagreement My colleague (OK, editor) Laura McGann notes that US coverage of the Iran war has been less credulous of the official government line."
+        ],
+        "web_examples": [
+          "Jentleson spends only one page on this obvious disappointment, faulting Fetterman for taking too much delight in conflict with the left and for becoming too credulous toward AIPAC.",
+          "So what if the credulous smallfolk now believe that the Usurper’s rule is ordained by the Gods?",
+          "In 1972, Joyce Carol Oates wrote a letter to the New York Times Book Review questioning a credulous review of Castaneda’s books.",
+          "Room for Disagreement My colleague (OK, editor) Laura McGann notes that US coverage of the Iran war has been less credulous of the official government line."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "credulous": {
+          "synset": "credulous.a.01",
+          "definition": "disposed to believe on little evidence",
+          "examples": [
+            "the gimmick would convince none but the most credulous"
+          ]
+        },
+        "gullible": {
+          "synset": "fleeceable.s.01",
+          "definition": "naive and easily deceived or tricked",
+          "examples": [
+            "at that early age she had been gullible and in love"
+          ]
+        },
+        "naive": {
+          "synset": "naive.a.01",
+          "definition": "marked by or showing unaffected simplicity and lack of guile or worldly experience",
+          "examples": [
+            "a teenager's naive ignorance of life",
+            "the naive assumption that things can only get better"
+          ]
+        },
+        "ingenuous": {
+          "synset": "ingenuous.a.01",
+          "definition": "characterized by an inability to mask your feelings; not devious",
+          "examples": [
+            "an ingenuous admission of responsibility"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 29,
+      "group_name": "trenchant, incisive, pungent, piercing",
+      "target_word": "trenchant",
+      "words": [
+        "trenchant",
+        "incisive",
+        "pungent",
+        "piercing"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "trenchant 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "KEEN, SHARP",
+          "vigorously effective and articulate",
+          "CAUSTIC",
+          "sharply perceptive : PENETRATING"
+        ],
+        "dictionary_examples": [
+          "Writer-director Reed Van Dyk’s feature debut navigates tricky emotional waters but emerges as a trenchant examination of what forgiveness and penitence can look like, allowing no room for anything resembling a pat happy ending.",
+          "Over time, as the human side of the evolving machine-flesh dyad matured, WHEEP-3 shifted its attention to the silicon partner, offering trenchant critiques of the inadequacies of machine learning.",
+          "Guys’ inability to fully deliver for Dean is explored in trenchant lyrics that seem to be exploring fateful realizations about so-so situationships in real time.",
+          "More so than its source material, the new series is a monster mystery mixed with a trenchant social thriller."
+        ],
+        "web_examples": [
+          "Writer-director Reed Van Dyk’s feature debut navigates tricky emotional waters but emerges as a trenchant examination of what forgiveness and penitence can look like, allowing no room for anything resembling a pat happy ending.",
+          "Over time, as the human side of the evolving machine-flesh dyad matured, WHEEP-3 shifted its attention to the silicon partner, offering trenchant critiques of the inadequacies of machine learning.",
+          "Guys’ inability to fully deliver for Dean is explored in trenchant lyrics that seem to be exploring fateful realizations about so-so situationships in real time.",
+          "More so than its source material, the new series is a monster mystery mixed with a trenchant social thriller."
+        ],
+        "synonym_discussion": "Synonyms of trenchant\nRelevance\nsharpened\nsharp\ncutting\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "trenchant": {
+          "synset": "searching.s.02",
+          "definition": "having keenness and forcefulness and penetration in thought, expression, or intellect",
+          "examples": [
+            "searching insights",
+            "trenchant criticism"
+          ]
+        },
+        "incisive": {
+          "synset": "acute.s.03",
+          "definition": "having or demonstrating ability to recognize or draw fine distinctions",
+          "examples": [
+            "an acute observer of politics and politicians",
+            "incisive comments"
+          ]
+        },
+        "pungent": {
+          "synset": "pungent.s.01",
+          "definition": "strong and sharp",
+          "examples": [
+            "the pungent taste of radishes",
+            "the acrid smell of burning rubber"
+          ]
+        },
+        "piercing": {
+          "synset": "pierce.v.01",
+          "definition": "cut or make a way through",
+          "examples": [
+            "the knife cut through the flesh",
+            "The path pierced the jungle"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 30,
+      "group_name": "nebulous, vague, indistinct, murky",
+      "target_word": "nebulous",
+      "words": [
+        "nebulous",
+        "vague",
+        "indistinct",
+        "murky"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "nebulous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "of, relating to, or resembling a nebula : NEBULAR",
+          "INDISTINCT, VAGUE",
+          "of, relating to, or resembling a nebula",
+          "not clear or sharp : VAGUE"
+        ],
+        "dictionary_examples": [
+          "The administration’s efforts, led by Vice President JD Vance, have sometimes been overestimated or nebulous.",
+          "There aren’t easy answers for more nebulous skills such as understanding, communication, and vision.",
+          "Though these predictions exist weeks ahead of events, their impact on preparedness is nebulous.",
+          "The rift between my mother and her sister, Nell, was something more nebulous, harder to trace."
+        ],
+        "web_examples": [
+          "The administration’s efforts, led by Vice President JD Vance, have sometimes been overestimated or nebulous.",
+          "There aren’t easy answers for more nebulous skills such as understanding, communication, and vision.",
+          "Though these predictions exist weeks ahead of events, their impact on preparedness is nebulous.",
+          "The rift between my mother and her sister, Nell, was something more nebulous, harder to trace."
+        ],
+        "synonym_discussion": "Synonyms of nebulous\nRelevance\nambiguous\ncryptic\nobscure\ndark\nvague\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "nebulous": {
+          "synset": "cloudy.s.01",
+          "definition": "lacking definite form or limits; - H.T.Moore",
+          "examples": [
+            "gropes among cloudy issues toward a feeble conclusion",
+            "nebulous distinction between pride and conceit"
+          ]
+        },
+        "vague": {
+          "synset": "obscure.s.01",
+          "definition": "not clearly understood or expressed; ; -Anatole Broyard; - P.A.Sorokin; - John Locke",
+          "examples": [
+            "an obscure turn of phrase",
+            "an impulse to go off and fight certain obscure battles of his own spirit"
+          ]
+        },
+        "indistinct": {
+          "synset": "indistinct.a.01",
+          "definition": "not clearly defined or easy to perceive or understand",
+          "examples": [
+            "indistinct shapes in the gloom",
+            "an indistinct memory"
+          ]
+        },
+        "murky": {
+          "synset": "cloudy.s.03",
+          "definition": "(of liquids) clouded as with sediment",
+          "examples": [
+            "a cloudy liquid",
+            "muddy coffee"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 31,
+      "group_name": "assiduous, sedulous, diligent, industrious",
+      "target_word": "assiduous",
+      "words": [
+        "assiduous",
+        "sedulous",
+        "diligent",
+        "industrious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "assiduous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "showing great care, attention, and effort : marked by careful unremitting attention or persistent application",
+          "constantly attentive : DILIGENT"
+        ],
+        "dictionary_examples": [
+          "too busy to spend time with the children",
+          "industrious employees",
+          "very diligent in her pursuit of a degree",
+          "assiduous practice",
+          "a sedulous investigation of the murder",
+          "There is some minor damage noted in the Carfax report, and the auction listing also notes there is an open recall on the car—suggesting its owner was perhaps not the most assiduous—but, overall, looks clean in the photos."
+        ],
+        "web_examples": [
+          "There is some minor damage noted in the Carfax report, and the auction listing also notes there is an open recall on the car—suggesting its owner was perhaps not the most assiduous—but, overall, looks clean in the photos.",
+          "The astronauts were therefore assiduous in their descriptions of the crater.",
+          "Conversely, one area where Meeks’ restraint doesn’t pay off is in his assiduous avoidance of the political context around Cody, Jack, and the program.",
+          "All of it together can swamp even those who are most assiduous about their health."
+        ],
+        "synonym_discussion": "Synonyms of assiduous\nRelevance\ndiligent\nengaged\nbusy\nemployed\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "assiduous": {
+          "synset": "assiduous.s.01",
+          "definition": "marked by care and persistent effort",
+          "examples": [
+            "her assiduous attempts to learn French",
+            "assiduous research"
+          ]
+        },
+        "sedulous": {
+          "synset": "assiduous.s.01",
+          "definition": "marked by care and persistent effort",
+          "examples": [
+            "her assiduous attempts to learn French",
+            "assiduous research"
+          ]
+        },
+        "diligent": {
+          "synset": "diligent.s.01",
+          "definition": "quietly and steadily persevering especially in detail or exactness",
+          "examples": [
+            "a diligent (or patient) worker",
+            "with persevering (or patient) industry she revived the failing business"
+          ]
+        },
+        "industrious": {
+          "synset": "hardworking.s.01",
+          "definition": "characterized by hard work and perseverance",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 32,
+      "group_name": "perfunctory, peremptory, cursory, imperative",
+      "target_word": "perfunctory",
+      "words": [
+        "perfunctory",
+        "peremptory",
+        "cursory",
+        "imperative"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "perfunctory 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "characterized by routine or superficiality : MECHANICAL",
+          "lacking in interest or enthusiasm",
+          "done mechanically or carelessly",
+          "lacking in interest or enthusiasm : INDIFFERENT"
+        ],
+        "dictionary_examples": [
+          "The eight-time Pro Bowl player sometimes goes several weeks without agreeing to do even the most perfunctory postgame interviews.",
+          "Convivial and self-absorbed, he talks freely about crime and crooks, with only the most perfunctory nods toward conventional morality.",
+          "You probably don't want to know how perfunctory was the presentation of the state's evidence, how tenth-rate was the performance of the court-appointed defense or how wretched was the end.",
+          "Intended for short, procedural orders, the justices have instead been using the docket to make substantive legal decisions with perfunctory orders that offer thin or zero legal reasoning, after minimal briefing and, often, no oral argument.",
+          "Hannah-Jones does repeat the old arguments about why these schools fail, but in an almost perfunctory manner, the way a heretic might recite the Lord’s Prayer more out of habit than out of belief.",
+          "Jernmark’s genius doesn’t jump out through a perfunctory scroll of Lielle’s dishes on social media."
+        ],
+        "web_examples": [
+          "Intended for short, procedural orders, the justices have instead been using the docket to make substantive legal decisions with perfunctory orders that offer thin or zero legal reasoning, after minimal briefing and, often, no oral argument.",
+          "Hannah-Jones does repeat the old arguments about why these schools fail, but in an almost perfunctory manner, the way a heretic might recite the Lord’s Prayer more out of habit than out of belief.",
+          "Jernmark’s genius doesn’t jump out through a perfunctory scroll of Lielle’s dishes on social media.",
+          "The sheer aura of this sandbox, and your agile tools for exploring it, almost make the rest of Control Resonant feel perfunctory by comparison."
+        ],
+        "synonym_discussion": "Synonyms of perfunctory\nRelevance\nnonchalant\ncasual\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "perfunctory": {
+          "synset": "casual.s.05",
+          "definition": "hasty and without attention to detail; not thorough",
+          "examples": [
+            "a casual (or cursory) inspection failed to reveal the house's structural flaws",
+            "a passing glance"
+          ]
+        },
+        "peremptory": {
+          "synset": "autocratic.s.01",
+          "definition": "offensively self-assured or given to exercising usually unwarranted power",
+          "examples": [
+            "an autocratic person",
+            "autocratic behavior"
+          ]
+        },
+        "cursory": {
+          "synset": "casual.s.05",
+          "definition": "hasty and without attention to detail; not thorough",
+          "examples": [
+            "a casual (or cursory) inspection failed to reveal the house's structural flaws",
+            "a passing glance"
+          ]
+        },
+        "imperative": {
+          "synset": "imperative_mood.n.01",
+          "definition": "a mood that expresses an intention to influence the listener's behavior",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 33,
+      "group_name": "tenacious, obstinate, stubborn, pertinacious",
+      "target_word": "tenacious",
+      "words": [
+        "tenacious",
+        "obstinate",
+        "stubborn",
+        "pertinacious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "tenacious 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "aggressively persistent in maintaining, adhering to, or seeking something valued or desired",
+          "enduring especially when challenged",
+          "RETENTIVE",
+          "not easily pulled apart"
+        ],
+        "dictionary_examples": [
+          "strong arms",
+          "the defense has a strong case",
+          "stout hiking boots",
+          "a sturdy table",
+          "people of sturdy independence",
+          "stalwart environmentalists"
+        ],
+        "web_examples": [
+          "Western and Asian governments feared the tenacious insurgencies could help foster Islamic extremism in Southeast Asia.",
+          "Enciso can be the bustling out-ball, the tenacious, front-footed defender and provide the moments of individual brilliance to get Ipswich out of the relegation trouble many anticipate.",
+          "Part of the frustration and fascination of these climbing docs is that the filmmakers can never quite answer the question of why these people — tenacious, but undoubtedly masochistic — carry on and up the mountain again and again.",
+          "That day in the spring brought the work of several tenacious investigators – with the assist of genetic genealogy – closer to identifying the remains."
+        ],
+        "synonym_discussion": "Synonyms of tenacious\nRelevance\npersistent\nstubborn\nresolute\ninsistent\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "tenacious": {
+          "synset": "retentive.a.01",
+          "definition": "good at remembering",
+          "examples": [
+            "a retentive mind",
+            "tenacious memory"
+          ]
+        },
+        "obstinate": {
+          "synset": "obstinate.v.01",
+          "definition": "persist stubbornly",
+          "examples": [
+            "he obstinates himself against all rational arguments"
+          ]
+        },
+        "stubborn": {
+          "synset": "stubborn.a.01",
+          "definition": "tenaciously unwilling or marked by tenacious unwillingness to yield",
+          "examples": []
+        },
+        "pertinacious": {
+          "synset": "dogged.s.01",
+          "definition": "stubbornly unyielding; ; ; ; - T.S.Eliot",
+          "examples": [
+            "dogged persistence",
+            "dour determination"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 34,
+      "group_name": "profligate, prodigal, extravagant, spendthrift",
+      "target_word": "profligate",
+      "words": [
+        "profligate",
+        "prodigal",
+        "extravagant",
+        "spendthrift"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "profligate 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "wildly extravagant",
+          "completely given up to dissipation and licentiousness : shamelessly immoral",
+          "a person given to wildly extravagant and usually grossly self-indulgent expenditure",
+          "wicked in character or morals : DISSIPATED"
+        ],
+        "dictionary_examples": [
+          "In a curious way, part of the genius of America has been a collective forgetfulness, a talent for somehow outdistancing problems in a headlong race toward something new. It is a form of heedlessness, perhaps, blithe and profligate, but also an exuberant forward spin that may spare people the exhausting obligations of revenge.",
+          "Sure, the trade deficit symbolizes a profligate America, consuming more than it produces and spending more than it has.",
+          "Everyone seemed fond of statistics, but the counterterrorism experts were especially profligate with numbers.",
+          "\"Why did you ask that scoundrel, Rawdon Crawley, to dine?\" said the Rector to his lady, as they were walking home through the park. \"I don't want the fellow. He looks down upon us country people as so many blackamoors.  … Besides, he's such an infernal character—he's a gambler—he's a drunkard—he's a profligate in every way.\"",
+          "Bournemouth were profligate, despite scoring through Marcus Tavernier and forcing a Malick Thiaw own goal, with multiple first-half chances wasted.",
+          "This shift occasioned the profligate production that would mark her oeuvre, with Kusama going on to make hundreds of paintings in which forests of lines and dots cradled variously floral and phallic figures."
+        ],
+        "web_examples": [
+          "Bournemouth were profligate, despite scoring through Marcus Tavernier and forcing a Malick Thiaw own goal, with multiple first-half chances wasted.",
+          "This shift occasioned the profligate production that would mark her oeuvre, with Kusama going on to make hundreds of paintings in which forests of lines and dots cradled variously floral and phallic figures.",
+          "As nouveau riche neighbor Yermolái (Lance Gardner) tries to impress upon the profligate Liubóv that her property is in arrears and about to be auctioned off, the rules and tone of their world still seem unsettled under the direction of Carey Perloff.",
+          "In some ways, the game was set up for him, with Villa profligate but still regularly creating chances."
+        ],
+        "synonym_discussion": "Synonyms of profligate\nRelevance\n\nAdjective\n\nwasteful\n\nNoun\n\nspendthrift\nwastrel\nprodigal\nspender\nwaster\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "profligate": {
+          "synset": "rake.n.01",
+          "definition": "a dissolute man in fashionable society",
+          "examples": []
+        },
+        "prodigal": {
+          "synset": "prodigal.n.01",
+          "definition": "a recklessly extravagant consumer",
+          "examples": []
+        },
+        "extravagant": {
+          "synset": "excessive.s.02",
+          "definition": "unrestrained, especially with regard to feelings",
+          "examples": [
+            "extravagant praise",
+            "exuberant compliments"
+          ]
+        },
+        "spendthrift": {
+          "synset": "spendthrift.n.01",
+          "definition": "someone who spends money prodigally",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 35,
+      "group_name": "frugal, parsimonious, penurious, thrifty",
+      "target_word": "frugal",
+      "words": [
+        "frugal",
+        "parsimonious",
+        "penurious",
+        "thrifty"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "frugal 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "characterized by or reflecting thrift and efficiency in the use of resources",
+          "careful in spending or using resources"
+        ],
+        "dictionary_examples": [
+          "sparing in the offering of advice",
+          "ran a frugal household",
+          "thrifty use of nonrenewable resources",
+          "an economical health care plan",
+          "His meals are the frugal fare of the poor: tea, bread, yogurt, a bit of cheese, vegetables.",
+          "Like frugal cooks everywhere, Cajun cooks from generations past found plenty of ways to use every part of the animals they raised."
+        ],
+        "web_examples": [
+          "And there was like that frugal DIY part of me that was like, ‘That’s ridiculous, man.",
+          "Cruze also opens up about growing up with her father, who is known for his extremely frugal money-saving tactics.",
+          "Andrew was said to have been frugal with his daughters, but gave money to his new wife’s family.",
+          "Other bids for frugal, fuss-free hair arrived in the form of low-hanging, loose ponytails, as seen at Cult Gaia, Tory Burch and Lii."
+        ],
+        "synonym_discussion": "Synonyms of frugal\nRelevance\neconomical\neconomizing\nthrifty\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "frugal": {
+          "synset": "economical.s.03",
+          "definition": "avoiding waste",
+          "examples": [
+            "an economical meal",
+            "an economical shopper"
+          ]
+        },
+        "parsimonious": {
+          "synset": "parsimonious.s.01",
+          "definition": "excessively unwilling to spend",
+          "examples": [
+            "parsimonious thrift relieved by few generous impulses",
+            "lived in a most penurious manner--denying himself every indulgence"
+          ]
+        },
+        "penurious": {
+          "synset": "hard_up.s.01",
+          "definition": "not having enough money to pay for necessities",
+          "examples": []
+        },
+        "thrifty": {
+          "synset": "thrifty.a.01",
+          "definition": "careful and diligent in the use of resources",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 36,
+      "group_name": "intrepid, audacious, dauntless, valiant",
+      "target_word": "intrepid",
+      "words": [
+        "intrepid",
+        "audacious",
+        "dauntless",
+        "valiant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "intrepid 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "characterized by resolute fearlessness, fortitude, and endurance",
+          "feeling no fear : BOLD"
+        ],
+        "dictionary_examples": [
+          "The heroes are intrepid small-business owners, investigative reporters, plaintiffs and their lawyers, and, of course, Nader himself and his grass-roots organizations.",
+          "Author and explorer Dame Freya Stark was one of the most intrepid adventurers of all time. (T. E. Lawrence, no slouch in the travel department himself, called her \"gallant\" and \"remarkable.\")",
+          "Meanwhile, the intrepid Florentine traveler Marco Polo had been to China and brought back with him a noodle dish that became Italian pasta …",
+          "Back then, yoga and meditation, powerful and intuitive massage, herbal treatments inspired by centuries-old rituals of Balinese royalty and, of course, the mysterious local energy healers known as balian drew intrepid pre–smartphone era travelers.",
+          "Yet some intrepid public readers are unaffected by the seasons.",
+          "These beautiful, intrepid, witty and irrepressible young women and men are living witnesses to the destruction of the last vestiges of the dream of freedom of expression in Russia."
+        ],
+        "web_examples": [
+          "Back then, yoga and meditation, powerful and intuitive massage, herbal treatments inspired by centuries-old rituals of Balinese royalty and, of course, the mysterious local energy healers known as balian drew intrepid pre–smartphone era travelers.",
+          "Yet some intrepid public readers are unaffected by the seasons.",
+          "These beautiful, intrepid, witty and irrepressible young women and men are living witnesses to the destruction of the last vestiges of the dream of freedom of expression in Russia.",
+          "In the end, however, Mitić’s intrepid approach is undeniably bracing, and held together at its core by Kostić’s simmering performance."
+        ],
+        "synonym_discussion": "Synonyms of intrepid\nRelevance\ncourageous\nbrave\nfearless\nvaliant\nheroic\ngallant\nadventurous\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "intrepid": {
+          "synset": "audacious.s.01",
+          "definition": "invulnerable to fear or intimidation",
+          "examples": [
+            "audacious explorers",
+            "fearless reporters and photographers"
+          ]
+        },
+        "audacious": {
+          "synset": "audacious.s.01",
+          "definition": "invulnerable to fear or intimidation",
+          "examples": [
+            "audacious explorers",
+            "fearless reporters and photographers"
+          ]
+        },
+        "dauntless": {
+          "synset": "audacious.s.01",
+          "definition": "invulnerable to fear or intimidation",
+          "examples": [
+            "audacious explorers",
+            "fearless reporters and photographers"
+          ]
+        },
+        "valiant": {
+          "synset": "valiant.s.01",
+          "definition": "having or showing valor",
+          "examples": [
+            "a valiant attempt to prevent the hijack",
+            "a valiant soldier"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 37,
+      "group_name": "timorous, pusillanimous, diffident, cowardly",
+      "target_word": "timorous",
+      "words": [
+        "timorous",
+        "pusillanimous",
+        "diffident",
+        "cowardly"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "timorous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "of a timid disposition : FEARFUL",
+          "expressing or suggesting timidity",
+          "easily frightened : FEARFUL"
+        ],
+        "dictionary_examples": [
+          "The lesser among them, the timorous, the doubtful, and the wavering, stood back, watching, waiting for some greater sign, savoring their doubts.",
+          "The great danger of that moment was that a political backlash — abetted by a furious media and timorous politicians — would lead to a restoration of the policy of Roe.",
+          "Hundreds of timorous Timothée Chalamet lookalikes congregated in Washington Square Park.",
+          "Phillips has made a jukebox spectacle that’s bold in conception but oddly cautious, even timorous, in execution."
+        ],
+        "web_examples": [
+          "The lesser among them, the timorous, the doubtful, and the wavering, stood back, watching, waiting for some greater sign, savoring their doubts.",
+          "The great danger of that moment was that a political backlash — abetted by a furious media and timorous politicians — would lead to a restoration of the policy of Roe.",
+          "Hundreds of timorous Timothée Chalamet lookalikes congregated in Washington Square Park.",
+          "Phillips has made a jukebox spectacle that’s bold in conception but oddly cautious, even timorous, in execution."
+        ],
+        "synonym_discussion": "Synonyms of timorous\nRelevance\ntimid\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "timorous": {
+          "synset": "fearful.s.05",
+          "definition": "timid by nature or revealing timidity",
+          "examples": [
+            "timorous little mouse",
+            "in a timorous tone"
+          ]
+        },
+        "pusillanimous": {
+          "synset": "pusillanimous.s.01",
+          "definition": "lacking in courage and manly strength and resolution; contemptibly fearful",
+          "examples": []
+        },
+        "diffident": {
+          "synset": "diffident.s.01",
+          "definition": "showing modest reserve",
+          "examples": [
+            "she was diffident when offering a comment on the professor's lecture"
+          ]
+        },
+        "cowardly": {
+          "synset": "cowardly.a.01",
+          "definition": "lacking courage; ignobly timid and faint-hearted; - P.B.Shelley",
+          "examples": [
+            "cowardly dogs, ye will not aid me then"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 38,
+      "group_name": "indolent, slothful, lethargic, torpid",
+      "target_word": "indolent",
+      "words": [
+        "indolent",
+        "slothful",
+        "lethargic",
+        "torpid"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "indolent 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "averse to activity, effort, or movement : habitually lazy",
+          "showing an inclination to laziness",
+          "conducive to or encouraging laziness",
+          "causing little or no pain"
+        ],
+        "dictionary_examples": [
+          "take-out foods for lazy cooks",
+          "the heat made us indolent",
+          "fired for being slothful about filling orders",
+          "Perhaps Henry James's idea of the taste for art in England as a \"tribute to propriety\" holds perversely true, with the indolent taste for scandal and celebrity having taken hold as a bizarre new form of etiquette.",
+          "At home, however, there's something indolent about listening to a record that offers no hope for the unexpected.",
+          "Air-conditioning is for the weak and indolent. This isn't the Ritz, you know. Be thankful for a little breeze. It was luxuries like A/C that brought down the Roman Empire."
+        ],
+        "web_examples": [
+          "Screenings in healthy adults are also more likely to catch indolent disease, meaning slow-growing or static conditions, than aggressive ones.",
+          "Possibly a deepening and widening of populist politics, as both the far right and the far left win over more of the allegedly indolent youth.",
+          "Every journey with indolent systemic mastocytosis (ISM) is unique, but my journey with ISM has been especially unique.",
+          "Furthermore, there is a risk of overdiagnosis, where the test detects a slow-growing, indolent cancer that would never have caused harm in a person’s lifetime, leading to unnecessary treatments, side effects and psychological burden."
+        ],
+        "synonym_discussion": "Synonyms of indolent\nRelevance\nlazy\nidle\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "indolent": {
+          "synset": "faineant.s.01",
+          "definition": "disinclined to work or exertion",
+          "examples": [
+            "faineant kings under whose rule the country languished",
+            "an indolent hanger-on"
+          ]
+        },
+        "slothful": {
+          "synset": "faineant.s.01",
+          "definition": "disinclined to work or exertion",
+          "examples": [
+            "faineant kings under whose rule the country languished",
+            "an indolent hanger-on"
+          ]
+        },
+        "lethargic": {
+          "synset": "lethargic.a.01",
+          "definition": "deficient in alertness or activity",
+          "examples": [
+            "bullfrogs became lethargic with the first cold nights"
+          ]
+        },
+        "torpid": {
+          "synset": "inert.s.03",
+          "definition": "slow and apathetic",
+          "examples": [
+            "she was fat and inert",
+            "a sluggish worker"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 39,
+      "group_name": "heedless, imprudent, reckless, rash",
+      "target_word": "heedless",
+      "words": [
+        "heedless",
+        "imprudent",
+        "reckless",
+        "rash"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "heedless 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "not taking heed : INCONSIDERATE, THOUGHTLESS",
+          "not taking heed : THOUGHTLESS"
+        ],
+        "dictionary_examples": [
+          "Damon’s Odysseus is numbed by the massacre of Troy’s civilians; Fiennes’ hates himself for leading the best men of Ithaca to their death, gutting his own community in the heedless destruction of another.",
+          "Later, in Capital, Marx warns that soil depletion caused by the heedless exploitation of nature would threaten the physical foundation of society itself.",
+          "Like the wonderful Clover Club, raspberries have a heedless love for rose water, and that means Hendrick’s Gin.",
+          "The time that went into making the film shows up, most notably, during a break in the middle of the story that (avoiding spoilers) takes Ray’s heedless behavior to a logical extreme."
+        ],
+        "web_examples": [
+          "Damon’s Odysseus is numbed by the massacre of Troy’s civilians; Fiennes’ hates himself for leading the best men of Ithaca to their death, gutting his own community in the heedless destruction of another.",
+          "Later, in Capital, Marx warns that soil depletion caused by the heedless exploitation of nature would threaten the physical foundation of society itself.",
+          "Like the wonderful Clover Club, raspberries have a heedless love for rose water, and that means Hendrick’s Gin.",
+          "The time that went into making the film shows up, most notably, during a break in the middle of the story that (avoiding spoilers) takes Ray’s heedless behavior to a logical extreme."
+        ],
+        "synonym_discussion": "Synonyms of heedless\nRelevance\ncareless\nunsafe\nreckless\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "heedless": {
+          "synset": "heedless.a.01",
+          "definition": "marked by or paying little heed or attention; --Franklin D. Roosevelt",
+          "examples": [
+            "We have always known that heedless self-interest was bad morals; we know now that it is bad economics",
+            "heedless of danger"
+          ]
+        },
+        "imprudent": {
+          "synset": "imprudent.a.01",
+          "definition": "not prudent or wise; ; - A.M.Schlesinger",
+          "examples": [
+            "very imprudent of her mother to encourage her in such silly romantic ideas",
+            "would be imprudent for a noneconomist to talk about the details of economic policy"
+          ]
+        },
+        "reckless": {
+          "synset": "foolhardy.s.01",
+          "definition": "marked by defiant disregard for danger or consequences; ; -Macaulay",
+          "examples": [
+            "foolhardy enough to try to seize the gun from the hijacker",
+            "became the fiercest and most reckless of partisans"
+          ]
+        },
+        "rash": {
+          "synset": "rash.n.01",
+          "definition": "any red eruption of the skin",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 40,
+      "group_name": "scrupulous, punctilious, meticulous, exacting",
+      "target_word": "scrupulous",
+      "words": [
+        "scrupulous",
+        "punctilious",
+        "meticulous",
+        "exacting"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "scrupulous 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "having moral integrity : acting in strict regard for what is considered right or proper",
+          "punctiliously exact : PAINSTAKING",
+          "full of or having scruples : STRICT",
+          "being very exact : PAINSTAKING"
+        ],
+        "dictionary_examples": [
+          "a stern and upright minister",
+          "known for being honest in business dealings",
+          "workers given just compensation",
+          "conscientious in the completion of her assignments",
+          "scrupulous in carrying out the terms of the will",
+          "a difficult but honorable decision"
+        ],
+        "web_examples": [
+          "Any pause mechanism would also need to ensure less scrupulous AI labs don’t secretly keep working to advance the technology during a break, likely through checks by peer labs.",
+          "Abdul-Mateen would next find out that Kingsley has his own scrupulous process for sizing up his collaborators.",
+          "Emery is a stickler for detail, but players accepted that more important games require even more scrupulous preparation.",
+          "But less scrupulous institutions address that by focusing their instruction strictly on the knowledge needed to pass the test — not the skills needed for actual patient care."
+        ],
+        "synonym_discussion": "Synonyms of scrupulous\nRelevance\nhonorable\nconscientious\nethical\nmoral\nhonest\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "scrupulous": {
+          "synset": "scrupulous.a.01",
+          "definition": "having scruples; arising from a sense of right and wrong; principled",
+          "examples": [
+            "less scrupulous producers sent bundles that were deceptive in appearance"
+          ]
+        },
+        "punctilious": {
+          "synset": "meticulous.s.01",
+          "definition": "marked by precise accordance with details",
+          "examples": [
+            "meticulous research",
+            "punctilious in his attention to rules of etiquette"
+          ]
+        },
+        "meticulous": {
+          "synset": "meticulous.s.01",
+          "definition": "marked by precise accordance with details",
+          "examples": [
+            "meticulous research",
+            "punctilious in his attention to rules of etiquette"
+          ]
+        },
+        "exacting": {
+          "synset": "demand.v.03",
+          "definition": "claim as due or just",
+          "examples": [
+            "The bank demanded payment of the loan"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 41,
+      "group_name": "acquit, vindicate, exonerate, absolve",
+      "target_word": "acquit",
+      "words": [
+        "acquit",
+        "vindicate",
+        "exonerate",
+        "absolve"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "acquit 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to discharge completely (as from an accusation or obligation)",
+          "to conduct (oneself) usually satisfactorily especially under stress",
+          "to pay off (something, such as a claim or debt)",
+          "REPAY, REQUITE"
+        ],
+        "dictionary_examples": [
+          "the children behaved in church",
+          "conducted herself with unfailing good humor",
+          "the hero deported himself in accord with the code of chivalry",
+          "comported themselves as gentlemen",
+          "acquitted herself well in her first assignment",
+          "exculpating himself from the charge of overenthusiasm"
+        ],
+        "web_examples": [
+          "But at Tuesday's hearing, Reddington sought to persuade Judge William Sullivan -- the same judge who presided over the first trial -- to acquit Clancy.",
+          "McCloud was acquitted in 2001, partly on the basis that his holdings were art; art critic Carlo McCormick was among those to testify.",
+          "He was acquitted on one count of conspiracy to commit wire fraud.",
+          "Two years later, a federal jury acquitted the officers in the case."
+        ],
+        "synonym_discussion": "Synonyms of acquit\nRelevance\nclear\nabsolve\nforgive\nexonerate\nvindicate\nrelease\nliberate\nexculpate\nredeem\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acquit": {
+          "synset": "acquit.v.01",
+          "definition": "pronounce not guilty of criminal charges",
+          "examples": [
+            "The suspect was cleared of the murder charges"
+          ]
+        },
+        "vindicate": {
+          "synset": "justify.v.02",
+          "definition": "show to be right by providing justification or proof",
+          "examples": [
+            "vindicate a claim"
+          ]
+        },
+        "exonerate": {
+          "synset": "acquit.v.01",
+          "definition": "pronounce not guilty of criminal charges",
+          "examples": [
+            "The suspect was cleared of the murder charges"
+          ]
+        },
+        "absolve": {
+          "synset": "shrive.v.01",
+          "definition": "grant remission of a sin to",
+          "examples": [
+            "The priest absolved him and told him to say ten Hail Mary's"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 42,
+      "group_name": "connive, collude, conspire, scheme",
+      "target_word": "connive",
+      "words": [
+        "connive",
+        "collude",
+        "conspire",
+        "scheme"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "connive 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to pretend ignorance of or fail to take action against something one ought to oppose",
+          "to be indulgent or in secret sympathy : WINK",
+          "to cooperate secretly or have a secret understanding",
+          "CONSPIRE, INTRIGUE"
+        ],
+        "dictionary_examples": [
+          "Gizelle, who has been stirring the pot and playing producer for everyone on the trip, keeps up her conniving ways by sitting down all the RHOP ladies except for Candiace during their Potomac retrospective moment at the party.",
+          "The conniving Cardinal Richelieu is the central villain in this 1993 action/comedy adaptation of Alexandre Dumas’ classic 1844 novel.",
+          "Locklear played the conniving Amanda Woodward from 1993 through the end of the series’ seven-season run, earning four Golden Globe nominations in the process.",
+          "Also, the conniving acts of communication and coordination don’t have to work in real-time."
+        ],
+        "web_examples": [
+          "Gizelle, who has been stirring the pot and playing producer for everyone on the trip, keeps up her conniving ways by sitting down all the RHOP ladies except for Candiace during their Potomac retrospective moment at the party.",
+          "The conniving Cardinal Richelieu is the central villain in this 1993 action/comedy adaptation of Alexandre Dumas’ classic 1844 novel.",
+          "Locklear played the conniving Amanda Woodward from 1993 through the end of the series’ seven-season run, earning four Golden Globe nominations in the process.",
+          "Also, the conniving acts of communication and coordination don’t have to work in real-time."
+        ],
+        "synonym_discussion": "Synonyms of connive\nRelevance\nignore\nwink\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "connive": {
+          "synset": "connive.v.01",
+          "definition": "encourage or assent to illegally or criminally",
+          "examples": []
+        },
+        "collude": {
+          "synset": "conspire.v.02",
+          "definition": "act in unison or agreement and in secret towards a deceitful or illegal purpose",
+          "examples": [
+            "The two companies conspired to cause the value of the stock to fall"
+          ]
+        },
+        "conspire": {
+          "synset": "conspire.v.01",
+          "definition": "engage in plotting or enter into a conspiracy, swear together",
+          "examples": [
+            "They conspired to overthrow the government"
+          ]
+        },
+        "scheme": {
+          "synset": "scheme.n.01",
+          "definition": "an elaborate and systematic plan of action",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 43,
+      "group_name": "broker, negotiate, mediate, arbitrate",
+      "target_word": "broker",
+      "words": [
+        "broker",
+        "negotiate",
+        "mediate",
+        "arbitrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "broker 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "someone who acts as an intermediary: such as",
+          "an agent who negotiates contracts of purchase and sale (as of real estate, commodities, or securities)",
+          "see also pawnbroker, stockbroker",
+          "an agent who arranges marriages"
+        ],
+        "dictionary_examples": [
+          "In the same way that no investor would use a securities broker not covered by FINRA, no consumer or business would use an AI product developed outside the bounds of a self-regulatory organization’s standards.",
+          "The buyer’s broker representing my daughter had never seen a checklist like mine.",
+          "Washington’s diplomatic efforts to broker peace between Russia and Ukraine have faltered, with Moscow looking to up its defense spending next year.",
+          "Rivera also met with Rubio in Washington in July 2017 to discuss whether Gorrín could help broker Maduro’s departure."
+        ],
+        "web_examples": [
+          "In the same way that no investor would use a securities broker not covered by FINRA, no consumer or business would use an AI product developed outside the bounds of a self-regulatory organization’s standards.",
+          "The buyer’s broker representing my daughter had never seen a checklist like mine.",
+          "Washington’s diplomatic efforts to broker peace between Russia and Ukraine have faltered, with Moscow looking to up its defense spending next year.",
+          "Rivera also met with Rubio in Washington in July 2017 to discuss whether Gorrín could help broker Maduro’s departure."
+        ],
+        "synonym_discussion": "Synonyms of broker\nRelevance\n\nNoun\n\nnegotiator\nmediator\nintermediary\nagent\nambassador\nmiddleman\nliaison\nattorney\nbuffer\npeacemaker\nconciliator\nhonest broker\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "broker": {
+          "synset": "agent.n.04",
+          "definition": "a businessman who buys or sells for another in exchange for a commission",
+          "examples": []
+        },
+        "negotiate": {
+          "synset": "negociate.v.06",
+          "definition": "discuss the terms of an arrangement",
+          "examples": [
+            "They negotiated the sale of the house"
+          ]
+        },
+        "mediate": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        },
+        "arbitrate": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 44,
+      "group_name": "quash, quell, suppress, stifle",
+      "target_word": "quash",
+      "words": [
+        "quash",
+        "quell",
+        "suppress",
+        "stifle"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quash 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to suppress or extinguish summarily and completely",
+          "to nullify especially by judicial action",
+          "to put down completely : QUELL",
+          "to cancel by court action"
+        ],
+        "dictionary_examples": [
+          "This new paper highlights a number of topics where scientists might best fill the vacuum created by the White House’s report-quashing actions.",
+          "Merz quashed talk within the press and his own party about his possible resignation despite Sunday's losses for his party just two weeks after a crushing defeat in the state of Saxony-Anhalt.",
+          "Diamantis has another pending criminal case in federal court, where he's accused of taking bribes to quash a state audit of an eye doctor accused of Medicaid fraud.",
+          "The image feels like a private memorial to Russia’s quashed anti-war movement."
+        ],
+        "web_examples": [
+          "This new paper highlights a number of topics where scientists might best fill the vacuum created by the White House’s report-quashing actions.",
+          "Merz quashed talk within the press and his own party about his possible resignation despite Sunday's losses for his party just two weeks after a crushing defeat in the state of Saxony-Anhalt.",
+          "Diamantis has another pending criminal case in federal court, where he's accused of taking bribes to quash a state audit of an eye doctor accused of Medicaid fraud.",
+          "The image feels like a private memorial to Russia’s quashed anti-war movement."
+        ],
+        "synonym_discussion": "Synonyms of quash\nRelevance\n\nVerb (1)\n\nquell\nsuppress\nsubdue\n\nVerb (2)\n\nabolish\nrepeal\ncancel\noverturn\navoid\nvacate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "quash": {
+          "synset": "repress.v.01",
+          "definition": "put down by force or intimidation",
+          "examples": [
+            "The government quashes any attempt of an uprising",
+            "China keeps down her dissidents very efficiently"
+          ]
+        },
+        "quell": {
+          "synset": "squelch.v.01",
+          "definition": "suppress or crush completely",
+          "examples": [
+            "squelch any sign of dissent",
+            "quench a rebellion"
+          ]
+        },
+        "suppress": {
+          "synset": "suppress.v.01",
+          "definition": "to put down by force or authority",
+          "examples": [
+            "suppress a nascent uprising",
+            "stamp down on littering"
+          ]
+        },
+        "stifle": {
+          "synset": "stifle.n.01",
+          "definition": "joint between the femur and tibia in a quadruped; corresponds to the human knee",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 45,
+      "group_name": "rescind, repeal, revoke, abrogate",
+      "target_word": "rescind",
+      "words": [
+        "rescind",
+        "repeal",
+        "revoke",
+        "abrogate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "rescind 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to take away : REMOVE",
+          "TAKE BACK, CANCEL",
+          "to abrogate (a contract) and restore the parties to the positions they would have occupied had there been no contract",
+          "to make void by action of the enacting authority or a superior authority : REPEAL"
+        ],
+        "dictionary_examples": [
+          "The enemies these efforts made for him concocted charges of disloyalty, and following a hearing before the Atomic Energy Commission in 1954, Oppenheimer's security clearance was rescinded.",
+          "But Maria convinced Leverich that she had the authority to rescind the executor's decision to appoint him as biographer.",
+          "The Navy barred its personnel from his church, but he challenged the decree in federal court as a constitutional violation of freedom of religion. Eventually, the Navy rescinded its ban.",
+          "Earlier this year, the administration rescinded the 2009 Endangerment Finding, claiming the Clean Air Act does not give the Environmental Protection Agency authority to regulate greenhouse gas emissions.",
+          "In August, Secretary of State Marco Rubio rescinded Syria's designation as a state sponsor of terrorism, helping paving the way for the latest step in drawing closer to the current government.",
+          "Shortly after multiple outlets broke the news, Tina Brown, the former editor-in-chief of Vanity Fair and The New Yorker, reported that the offer was rescinded."
+        ],
+        "web_examples": [
+          "Earlier this year, the administration rescinded the 2009 Endangerment Finding, claiming the Clean Air Act does not give the Environmental Protection Agency authority to regulate greenhouse gas emissions.",
+          "In August, Secretary of State Marco Rubio rescinded Syria's designation as a state sponsor of terrorism, helping paving the way for the latest step in drawing closer to the current government.",
+          "Shortly after multiple outlets broke the news, Tina Brown, the former editor-in-chief of Vanity Fair and The New Yorker, reported that the offer was rescinded.",
+          "In August, Secretary of State Marco Rubio rescinded Syria’s designation as a state sponsor of terrorism, helping paving the way for the latest step in drawing closer to the current government."
+        ],
+        "synonym_discussion": "Synonyms of rescind\nRelevance\ncancel\nrevoke\nabandon\nscrap\nrepeal\nabort\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "rescind": {
+          "synset": "revoke.v.02",
+          "definition": "cancel officially",
+          "examples": [
+            "He revoked the ban on smoking",
+            "lift an embargo"
+          ]
+        },
+        "repeal": {
+          "synset": "abrogation.n.01",
+          "definition": "the act of abrogating; an official or legal cancellation",
+          "examples": []
+        },
+        "revoke": {
+          "synset": "revoke.n.01",
+          "definition": "the mistake of not following suit when able to do so",
+          "examples": []
+        },
+        "abrogate": {
+          "synset": "abrogate.v.01",
+          "definition": "revoke formally",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 46,
+      "group_name": "adhere, conform, comply, abide",
+      "target_word": "adhere",
+      "words": [
+        "adhere",
+        "conform",
+        "comply",
+        "abide"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adhere 与近义词辨析",
+      "synset_definition": "",
+      "merriam_webster": {
+        "definitions": [
+          "to hold fast or stick by or as if by gluing, suction, grasping, or fusing",
+          "to give support or maintain loyalty",
+          "to bind oneself to observance",
+          "ACCORD sense intransitive 1"
+        ],
+        "dictionary_examples": [
+          "couldn't get the label to stick",
+          "antibodies adhering to a virus",
+          "eggs will make the mixture cohere",
+          "clinging to a capsized boat",
+          "the wet shirt cleaved to his back",
+          "McCarthy and his co-screenwriters, Noé Debré and Thomas Bidegain, have adhered closely to the actual transcripts of the conference in their efforts to recreate it."
+        ],
+        "web_examples": [
+          "McCarthy and his co-screenwriters, Noé Debré and Thomas Bidegain, have adhered closely to the actual transcripts of the conference in their efforts to recreate it.",
+          "Scatter about half of panko mixture over, pressing in with your hands to adhere.",
+          "Kiko Milano Eyeshadow Stick’s formula fortunately adheres perfectly to the lids.",
+          "Repeat guests begin wrapping their feet with tape and adhering gel pads to prevent blisters."
+        ],
+        "synonym_discussion": "Synonyms of adhere\nRelevance\ncling\nstick\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adhere": {
+          "synset": "adhere.v.01",
+          "definition": "be compatible or in accordance with",
+          "examples": [
+            "You must adhere to the rules"
+          ]
+        },
+        "conform": {
+          "synset": "conform.v.01",
+          "definition": "be similar, be in line with",
+          "examples": []
+        },
+        "comply": {
+          "synset": "comply.v.01",
+          "definition": "act in accordance with someone's rules, commands, or wishes",
+          "examples": [
+            "He complied with my instructions",
+            "You must comply or else!"
+          ]
+        },
+        "abide": {
+          "synset": "bide.v.01",
+          "definition": "dwell",
+          "examples": [
+            "You can stay with me while you are in town",
+            "stay a bit longer--the day is still young"
+          ]
+        }
+      }
+    }
+  ]
+}

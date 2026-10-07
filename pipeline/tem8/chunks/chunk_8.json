@@ -1,0 +1,1467 @@
+{
+  "chunk_id": 8,
+  "theme_info": {
+    "chunk_id": 8,
+    "theme": "生态环境、气候危机与技术伦理 (Ecology, Climate Crisis & Bioethics)",
+    "guidance": "题干围绕生物多样性锐减、基因编辑伦理、人工智能算法歧视、可再生能源转型等当代前沿外刊社论。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 185,
+      "group_name": "blatant, blazing, unconcealed, conspicuous",
+      "target_word": "blatant",
+      "words": [
+        "blatant",
+        "blazing",
+        "unconcealed",
+        "conspicuous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "blatant 辨析组 (blatant.s.01)",
+      "synset_definition": "without any attempt at concealment; completely obvious",
+      "merriam_webster": {
+        "definitions": [
+          "noisy especially in a vulgar or offensive manner : CLAMOROUS",
+          "completely obvious, conspicuous, or obtrusive especially in a crass or offensive manner : BRAZEN",
+          "noisy especially in a rude way",
+          "completely obvious especially in a disagreeable way"
+        ],
+        "dictionary_examples": [
+          "vociferous cries of protest and outrage",
+          "clamorous demands for prison reforms",
+          "blatant rock music",
+          "a blatant clamor for impeachment",
+          "heard the strident cry of the crow",
+          "a boisterous crowd of party goers"
+        ],
+        "web_examples": [
+          "The move appeared as a blatant response to stadium owner Robert Kraft’s role in having rapper Macklemore removed from Ed Sheeran’s tour after the rapper made pro-Palestinian comments onstage at MetLife Stadium in New Jersey.",
+          "That said, even in a sport now infamous for quick cash grabs, this feels like the most blatant of them all.",
+          "Some level of punitive cost for this blatant category fraud is long overdue.",
+          "As a result, fraud and crimes will keep happening, often through blatant noncompliance."
+        ],
+        "synonym_discussion": "Synonyms of blatant\nRelevance\nvocal\noutspoken\nvociferous\nnoisy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "blatant": {
+          "synset": "blatant.s.01",
+          "definition": "without any attempt at concealment; completely obvious",
+          "examples": [
+            "blatant disregard of the law",
+            "a blatant appeal to vanity"
+          ]
+        },
+        "blazing": {
+          "synset": "blaze.n.01",
+          "definition": "a strong flame that burns brightly",
+          "examples": [
+            "the blaze spread rapidly"
+          ]
+        },
+        "unconcealed": {
+          "synset": "unconcealed.a.01",
+          "definition": "not concealed or hidden",
+          "examples": [
+            "her unconcealed hostility poisoned the atmosphere",
+            "watched with unconcealed curiosity"
+          ]
+        },
+        "conspicuous": {
+          "synset": "conspicuous.a.01",
+          "definition": "obvious to the eye or mind",
+          "examples": [
+            "a tower conspicuous at a great distance",
+            "wore conspicuous neckties"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 186,
+      "group_name": "bogus, counterfeit, fake, phony",
+      "target_word": "bogus",
+      "words": [
+        "bogus",
+        "counterfeit",
+        "fake",
+        "phony"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bogus 辨析组 (bogus.s.01)",
+      "synset_definition": "fraudulent; having a misleading appearance",
+      "merriam_webster": {
+        "definitions": [
+          "not genuine : COUNTERFEIT, SHAM",
+          "not genuine : COUNTERFEIT, SHAM"
+        ],
+        "dictionary_examples": [
+          "Many fact-checking websites then sprang into action and traced the root of this obviously bogus story to an interview being mistranslated overseas.",
+          "Attackers increasingly use fake CAPTCHA pages and bogus error messages to tell victims to open Windows Run, PowerShell, Command Prompt or Terminal.",
+          "Lots of fans elsewhere turned on the Chiefs, leading to bogus claims that the league was having its game officials help Kansas City.",
+          "Bad tax advice promoted on social media We've been warned in the past about a flurry of bad tax advice by social media influencers that drove thousands of taxpayers to file bogus tax returns that claimed inflated refunds."
+        ],
+        "web_examples": [
+          "Many fact-checking websites then sprang into action and traced the root of this obviously bogus story to an interview being mistranslated overseas.",
+          "Attackers increasingly use fake CAPTCHA pages and bogus error messages to tell victims to open Windows Run, PowerShell, Command Prompt or Terminal.",
+          "Lots of fans elsewhere turned on the Chiefs, leading to bogus claims that the league was having its game officials help Kansas City.",
+          "Bad tax advice promoted on social media We've been warned in the past about a flurry of bad tax advice by social media influencers that drove thousands of taxpayers to file bogus tax returns that claimed inflated refunds."
+        ],
+        "synonym_discussion": "Synonyms of bogus\nRelevance\nfake\nfaux\nsynthetic\nsimulated\nartificial\nfalse\ndummy\nimitation\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "bogus": {
+          "synset": "bogus.s.01",
+          "definition": "fraudulent; having a misleading appearance",
+          "examples": []
+        },
+        "counterfeit": {
+          "synset": "counterfeit.n.01",
+          "definition": "a copy that is represented as the original",
+          "examples": []
+        },
+        "fake": {
+          "synset": "fake.n.01",
+          "definition": "something that is a counterfeit; not what it seems to be",
+          "examples": []
+        },
+        "phony": {
+          "synset": "hypocrite.n.01",
+          "definition": "a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 187,
+      "group_name": "boisterous, unruly, disorderly, robustious",
+      "target_word": "boisterous",
+      "words": [
+        "boisterous",
+        "unruly",
+        "disorderly",
+        "robustious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "boisterous 辨析组 (boisterous.s.01)",
+      "synset_definition": "noisy and lacking in restraint or discipline",
+      "merriam_webster": {
+        "definitions": [
+          "noisily turbulent : ROWDY",
+          "marked by or expressive of exuberance and high spirits",
+          "STORMY, TUMULTUOUS",
+          "COARSE"
+        ],
+        "dictionary_examples": [
+          "vociferous cries of protest and outrage",
+          "clamorous demands for prison reforms",
+          "blatant rock music",
+          "a blatant clamor for impeachment",
+          "heard the strident cry of the crow",
+          "a boisterous crowd of party goers"
+        ],
+        "web_examples": [
+          "The Americans rallied behind endless and boisterous cheers, some of which went a little too far.",
+          "The result is a boisterous, exhausting drama that struggles to balance trauma, satire and the painful legacy of Black sitcom fame.",
+          "The crowd—not overly boisterous but vocally enthusiastic—is hip and serious about good pizza.",
+          "Between his boisterous laugh and reputation for being a fountain of whimsy, Lou Wilson is Dropout’s most lovable staple."
+        ],
+        "synonym_discussion": "Synonyms of boisterous\nRelevance\nraucous\nrowdy\nrambunctious\nlively\nrumbustious\nnoisy\nrollicking\nrobustious\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "boisterous": {
+          "synset": "boisterous.s.01",
+          "definition": "noisy and lacking in restraint or discipline",
+          "examples": [
+            "a boisterous crowd",
+            "a social gathering that became rambunctious and out of hand"
+          ]
+        },
+        "unruly": {
+          "synset": "boisterous.s.01",
+          "definition": "noisy and lacking in restraint or discipline",
+          "examples": [
+            "a boisterous crowd",
+            "a social gathering that became rambunctious and out of hand"
+          ]
+        },
+        "disorderly": {
+          "synset": "disorderly.a.01",
+          "definition": "undisciplined and unruly",
+          "examples": [
+            "disorderly youths",
+            "disorderly conduct"
+          ]
+        },
+        "robustious": {
+          "synset": "boisterous.s.01",
+          "definition": "noisy and lacking in restraint or discipline",
+          "examples": [
+            "a boisterous crowd",
+            "a social gathering that became rambunctious and out of hand"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 188,
+      "group_name": "bountiful, big, giving, liberal",
+      "target_word": "bountiful",
+      "words": [
+        "bountiful",
+        "big",
+        "giving",
+        "liberal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bountiful 辨析组 (big.s.12)",
+      "synset_definition": "given or giving freely",
+      "merriam_webster": {
+        "definitions": [
+          "liberal or generous in bestowing gifts or favors",
+          "given or provided abundantly",
+          "GENEROUS sense 1",
+          "PLENTIFUL sense 2"
+        ],
+        "dictionary_examples": [
+          "a teacher liberal with her praise",
+          "a generous offer of help",
+          "children spoiled by bountiful presents",
+          "a munificent foundation grant",
+          "Highlighting ingredients is paramount with basic, but bountiful baskets of whole organic veggies on offer for a whopping 18€ for two people.",
+          "And don’t miss Oceania’s bountiful brunch, which is one of my favorites at sea."
+        ],
+        "web_examples": [
+          "Highlighting ingredients is paramount with basic, but bountiful baskets of whole organic veggies on offer for a whopping 18€ for two people.",
+          "And don’t miss Oceania’s bountiful brunch, which is one of my favorites at sea.",
+          "Lush forests of giant club mosses and ferns produced bountiful quantities of organic matter.",
+          "After bountiful rain in New Jersey, beaches have been under fecal bacteria advisories and at one point two beaches were closed."
+        ],
+        "synonym_discussion": "Synonyms of bountiful\nRelevance\nplentiful\nample\ngenerous\nplenty\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "bountiful": {
+          "synset": "big.s.12",
+          "definition": "given or giving freely",
+          "examples": [
+            "was a big tipper",
+            "the bounteous goodness of God"
+          ]
+        },
+        "big": {
+          "synset": "large.a.01",
+          "definition": "above average in size or number or quantity or magnitude or extent",
+          "examples": [
+            "a large city",
+            "set out for the big city"
+          ]
+        },
+        "giving": {
+          "synset": "giving.n.01",
+          "definition": "the act of giving",
+          "examples": []
+        },
+        "liberal": {
+          "synset": "liberal.n.01",
+          "definition": "a person who favors a political philosophy of progress and reform and the protection of civil liberties",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 189,
+      "group_name": "brash, nervy, cheeky, forward",
+      "target_word": "brash",
+      "words": [
+        "brash",
+        "nervy",
+        "cheeky",
+        "forward"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "brash 辨析组 (brash.s.01)",
+      "synset_definition": "offensively bold",
+      "merriam_webster": {
+        "definitions": [
+          "BRITTLE",
+          "heedless of the consequences : AUDACIOUS",
+          "done in haste without regard for consequences : RASH",
+          "full of fresh raw vitality"
+        ],
+        "dictionary_examples": [
+          "Reiter’s character’s brash self-assurance, along with her expressive face and physicality, really complement a deadpan Wickline.",
+          "Rounding things out is a black-and-white leather interior, a brash graphics package, and a set of white 18-inch Nismo LGMT2 wheels.",
+          "Like Alura, Virgos prefer to be overly cautious rather than acting brash.",
+          "But the hole left in the sport — after the sudden exit of its brash, polarizing superstar — will be impossible to fill."
+        ],
+        "web_examples": [
+          "Reiter’s character’s brash self-assurance, along with her expressive face and physicality, really complement a deadpan Wickline.",
+          "Rounding things out is a black-and-white leather interior, a brash graphics package, and a set of white 18-inch Nismo LGMT2 wheels.",
+          "Like Alura, Virgos prefer to be overly cautious rather than acting brash.",
+          "But the hole left in the sport — after the sudden exit of its brash, polarizing superstar — will be impossible to fill."
+        ],
+        "synonym_discussion": "Synonyms of brash\nRelevance\n\nAdjective\n\nbold\nwise\ncocky\nbrazen\nbrassy\nimpudent\ninsolent\nsassy\nfresh\nblunt\ncocksure\ncheeky\nassertive\ndefiant\nsaucy\naudacious\nimpertinent\nnervy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "brash": {
+          "synset": "brash.s.01",
+          "definition": "offensively bold",
+          "examples": [
+            "a brash newcomer disputed the age-old rules for admission to the club",
+            "a nervy thing to say"
+          ]
+        },
+        "nervy": {
+          "synset": "edgy.s.01",
+          "definition": "being in a tense state",
+          "examples": []
+        },
+        "cheeky": {
+          "synset": "brash.s.01",
+          "definition": "offensively bold",
+          "examples": [
+            "a brash newcomer disputed the age-old rules for admission to the club",
+            "a nervy thing to say"
+          ]
+        },
+        "forward": {
+          "synset": "forward.n.01",
+          "definition": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 190,
+      "group_name": "brittle, brickly, brickle, breakable",
+      "target_word": "brittle",
+      "words": [
+        "brittle",
+        "brickly",
+        "brickle",
+        "breakable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "brittle 辨析组 (brittle.s.01)",
+      "synset_definition": "having little elasticity; hence easily cracked or fractured or snapped",
+      "merriam_webster": {
+        "definitions": [
+          "easily broken, cracked, or snapped",
+          "easily disrupted, overthrown, or damaged : FRAIL",
+          "PERISHABLE, MORTAL",
+          "TRANSITORY, EVANESCENT"
+        ],
+        "dictionary_examples": [
+          "a fragile antique chair",
+          "frangible stone used for paving",
+          "brittle bones",
+          "crisp lettuce",
+          "friable soil",
+          "Sand-like granules collecting in gutters, curling or missing shingles, brittle or cracking shingles, sagging sections and indoor leaks or ceiling stains are the standard indicators that a roof is failing."
+        ],
+        "web_examples": [
+          "Sand-like granules collecting in gutters, curling or missing shingles, brittle or cracking shingles, sagging sections and indoor leaks or ceiling stains are the standard indicators that a roof is failing.",
+          "Studying an intact oarfish is remarkably difficult because their bodies typically disintegrate into brittle segments upon death.",
+          "Pass Mountain Trail seems to be the star this year with a range of blooms that include poppies, lupines, brittles, fiddleneck, cinchweed, chuparosa and asters.",
+          "Once everything is set, break the brittle into pieces and enjoy."
+        ],
+        "synonym_discussion": "Synonyms of brittle\nRelevance\n\nAdjective\n\ncrisp\nfragile\ncrumbly\nfriable\ncrisped\nflaky\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "brittle": {
+          "synset": "brittle.n.01",
+          "definition": "caramelized sugar cooled in thin sheets",
+          "examples": []
+        },
+        "brickly": {
+          "synset": "brittle.s.01",
+          "definition": "having little elasticity; hence easily cracked or fractured or snapped",
+          "examples": [
+            "brittle bones",
+            "glass is brittle"
+          ]
+        },
+        "brickle": {
+          "synset": "brittle.s.01",
+          "definition": "having little elasticity; hence easily cracked or fractured or snapped",
+          "examples": [
+            "brittle bones",
+            "glass is brittle"
+          ]
+        },
+        "breakable": {
+          "synset": "breakable.n.01",
+          "definition": "an article that is fragile and easily broken",
+          "examples": [
+            "pack the breakables separately"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 191,
+      "group_name": "abacus, adder, quipu, counter",
+      "target_word": "abacus",
+      "words": [
+        "abacus",
+        "adder",
+        "quipu",
+        "counter"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abacus 辨析组 (abacus.n.02)",
+      "synset_definition": "a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves",
+      "merriam_webster": {
+        "definitions": [
+          "an instrument for performing calculations by sliding counters along rods or in grooves",
+          "a slab that forms the uppermost member or division of the capital of a column",
+          "an instrument for making calculations by sliding counters along rods or in grooves"
+        ],
+        "dictionary_examples": [
+          "Remember that no prescription is required — so no need to reach for your abacus to calculate a co-pay or rebate.",
+          "Workers mixed mortar and drove a scissor lift to the edge of a concrete plinth surmounted by four steel rods—supports for the Buddha, whose sandstone body would slide down them in four parts, like beads in an abacus.",
+          "What are you guys doing, using an abacus to calculate pre-money valuation?",
+          "Kids ages 5-12 can handle replica artifacts, such as an abacus, armor and lyre, and learn how professional archeologists make inferences."
+        ],
+        "web_examples": [
+          "Remember that no prescription is required — so no need to reach for your abacus to calculate a co-pay or rebate.",
+          "Workers mixed mortar and drove a scissor lift to the edge of a concrete plinth surmounted by four steel rods—supports for the Buddha, whose sandstone body would slide down them in four parts, like beads in an abacus.",
+          "What are you guys doing, using an abacus to calculate pre-money valuation?",
+          "Kids ages 5-12 can handle replica artifacts, such as an abacus, armor and lyre, and learn how professional archeologists make inferences."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "abacus": {
+          "synset": "abacus.n.01",
+          "definition": "a tablet placed horizontally on top of the capital of a column as an aid in supporting the architrave",
+          "examples": []
+        },
+        "adder": {
+          "synset": "adder.n.01",
+          "definition": "a person who adds numbers",
+          "examples": []
+        },
+        "quipu": {
+          "synset": "quipu.n.01",
+          "definition": "calculator consisting of a cord with attached cords; used by ancient Peruvians for calculating and keeping records",
+          "examples": []
+        },
+        "counter": {
+          "synset": "counter.n.01",
+          "definition": "table consisting of a horizontal surface over which business is transacted",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 192,
+      "group_name": "abbreviation, root, base, stem",
+      "target_word": "abbreviation",
+      "words": [
+        "abbreviation",
+        "root",
+        "base",
+        "stem"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abbreviation 辨析组 (abbreviation.n.01)",
+      "synset_definition": "a shortened form of a word or phrase",
+      "merriam_webster": {
+        "definitions": [
+          "a shortened form of a written word or phrase used in place of the whole word or phrase",
+          "the act or result of abbreviating something : ABRIDGMENT",
+          "the act or result of abbreviating : ABRIDGMENT",
+          "a shortened form of a written word or phrase used in place of the whole"
+        ],
+        "dictionary_examples": [
+          "The second is a partial abbreviation in the answer, which is TP-ED — as in, toilet-papered a house.",
+          "For spacing purposes, Steele has removed the following words – left, at, by, went, had, in, the, to, for, and, then and got – and has crafted his own abbreviations.",
+          "Yet when the latter is replaced by the abbreviation algol (Algorithmic Language), a whole other order of reference comes into view, involving celestial movements and mythic monstrosities.",
+          "The security service, also known by its local abbreviation SBU, said an officer serving in Ukraine’s military intelligence agency confessed to killing Berezovska with the help of a former law enforcement officer."
+        ],
+        "web_examples": [
+          "The second is a partial abbreviation in the answer, which is TP-ED — as in, toilet-papered a house.",
+          "For spacing purposes, Steele has removed the following words – left, at, by, went, had, in, the, to, for, and, then and got – and has crafted his own abbreviations.",
+          "Yet when the latter is replaced by the abbreviation algol (Algorithmic Language), a whole other order of reference comes into view, involving celestial movements and mythic monstrosities.",
+          "The security service, also known by its local abbreviation SBU, said an officer serving in Ukraine’s military intelligence agency confessed to killing Berezovska with the help of a former law enforcement officer."
+        ],
+        "synonym_discussion": "Synonyms of abbreviation\nRelevance\nsummary\ncondensation\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abbreviation": {
+          "synset": "abbreviation.n.01",
+          "definition": "a shortened form of a word or phrase",
+          "examples": []
+        },
+        "root": {
+          "synset": "root.n.01",
+          "definition": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground",
+          "examples": []
+        },
+        "base": {
+          "synset": "base.n.01",
+          "definition": "installation from which a military force initiates operations",
+          "examples": [
+            "the attack wiped out our forward bases"
+          ]
+        },
+        "stem": {
+          "synset": "root.n.03",
+          "definition": "(linguistics) the form of a word after all affixes are removed",
+          "examples": [
+            "thematic vowels are part of the stem"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 193,
+      "group_name": "abdominal, sura, calf, psoas",
+      "target_word": "abdominal",
+      "words": [
+        "abdominal",
+        "sura",
+        "calf",
+        "psoas"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abdominal 辨析组 (abdominal.n.01)",
+      "synset_definition": "the muscles of the abdomen",
+      "merriam_webster": {
+        "definitions": [
+          "of, relating to, or involving the abdomen",
+          "see also abdominal cavity",
+          "of, belonging to, or affecting the abdomen",
+          "performed by entry through the abdominal wall"
+        ],
+        "dictionary_examples": [
+          "Infielder Joey Ortiz was included after missing the final two regular-season games with knee and abdominal issues.",
+          "Nacua sat out the last two games because of a hip injury that caused hip, groin and abdominal soreness.",
+          "In the study, about 74% of people reported back or abdominal pain, and about 45% reported changes in bowel habits.",
+          "People infected with salmonella can experience fever, diarrhea, nausea, vomiting and abdominal pain, the CDC said."
+        ],
+        "web_examples": [
+          "Infielder Joey Ortiz was included after missing the final two regular-season games with knee and abdominal issues.",
+          "Nacua sat out the last two games because of a hip injury that caused hip, groin and abdominal soreness.",
+          "In the study, about 74% of people reported back or abdominal pain, and about 45% reported changes in bowel habits.",
+          "People infected with salmonella can experience fever, diarrhea, nausea, vomiting and abdominal pain, the CDC said."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "abdominal": {
+          "synset": "abdominal.n.01",
+          "definition": "the muscles of the abdomen",
+          "examples": []
+        },
+        "sura": {
+          "synset": "sura.n.01",
+          "definition": "one of the sections (or chapters) in the Koran",
+          "examples": [
+            "the Quran is divided in 114 suras"
+          ]
+        },
+        "calf": {
+          "synset": "calf.n.01",
+          "definition": "young of domestic cattle",
+          "examples": []
+        },
+        "psoas": {
+          "synset": "psoas.n.01",
+          "definition": "either of two muscles of the abdomen and pelvis that flex the trunk and rotate the thigh",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 194,
+      "group_name": "abnormality, sleep, arousal, sedation",
+      "target_word": "abnormality",
+      "words": [
+        "abnormality",
+        "sleep",
+        "arousal",
+        "sedation"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abnormality 辨析组 (abnormality.n.01)",
+      "synset_definition": "an abnormal physical condition resulting from defective genes or developmental deficiencies",
+      "merriam_webster": {
+        "definitions": [
+          "something abnormal",
+          "the quality or state of being abnormal",
+          "the state of being abnormal",
+          "something abnormal"
+        ],
+        "dictionary_examples": [
+          "Some clinics may also offer full-body MRIs, which scan for any abnormalities from cancerous tumors to evidence of stroke.",
+          "However, because the Food and Drug Administration has warned about a potential for birth abnormalities, it is not recommended for women who are pregnant or who want to get pregnant.",
+          "For healthcare leaders, the path forward is less about detecting ever more abnormalities than about improving the balance between early detection, diagnostic precision and health-system capacity.",
+          "Incidental findings are small abnormalities that are doing no harm and would not have been discovered without a scan."
+        ],
+        "web_examples": [
+          "Some clinics may also offer full-body MRIs, which scan for any abnormalities from cancerous tumors to evidence of stroke.",
+          "However, because the Food and Drug Administration has warned about a potential for birth abnormalities, it is not recommended for women who are pregnant or who want to get pregnant.",
+          "For healthcare leaders, the path forward is less about detecting ever more abnormalities than about improving the balance between early detection, diagnostic precision and health-system capacity.",
+          "Incidental findings are small abnormalities that are doing no harm and would not have been discovered without a scan."
+        ],
+        "synonym_discussion": "Synonyms of abnormality\nRelevance\nanomaly\nmutation\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abnormality": {
+          "synset": "abnormality.n.01",
+          "definition": "an abnormal physical condition resulting from defective genes or developmental deficiencies",
+          "examples": []
+        },
+        "sleep": {
+          "synset": "sleep.n.01",
+          "definition": "a natural and periodic state of rest during which consciousness of the world is suspended",
+          "examples": [
+            "he didn't get enough sleep last night",
+            "calm as a child in dreamless slumber"
+          ]
+        },
+        "arousal": {
+          "synset": "arousal.n.01",
+          "definition": "the act of arousing",
+          "examples": [
+            "the purpose of art is the arousal of emotions"
+          ]
+        },
+        "sedation": {
+          "synset": "sedation.n.01",
+          "definition": "a state of reduced excitement or anxiety that is induced by the administrative of a sedative agent",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 195,
+      "group_name": "abode, domicile, home, dwelling",
+      "target_word": "abode",
+      "words": [
+        "abode",
+        "domicile",
+        "home",
+        "dwelling"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abode 辨析组 (dwelling.n.01)",
+      "synset_definition": "housing that someone is living in",
+      "merriam_webster": {
+        "definitions": [
+          "the place where one lives : HOME",
+          "a temporary stay : SOJOURN",
+          "WAIT, DELAY",
+          "the place where one stays or lives"
+        ],
+        "dictionary_examples": [
+          "From my little Brooklyn, New York abode, that generally means heading out east for beachy trips to Montauk, hopping around upstate’s Hudson Valley or Catskills towns, and taking advantage of ski mountains all over the east coast.",
+          "After receiving a $7 million price cut, the six-bedroom, seven-bathroom abode is up for grabs yet again.",
+          "The contemporary abode includes five bedrooms, six bathrooms, a private pool, and outdoor space.",
+          "The contemporary abode is outfitted with pale wood floors, a full black-and-white kitchen, and glass-and-steel doors that separate the queen bedroom from the rest of the airy space."
+        ],
+        "web_examples": [
+          "From my little Brooklyn, New York abode, that generally means heading out east for beachy trips to Montauk, hopping around upstate’s Hudson Valley or Catskills towns, and taking advantage of ski mountains all over the east coast.",
+          "After receiving a $7 million price cut, the six-bedroom, seven-bathroom abode is up for grabs yet again.",
+          "The contemporary abode includes five bedrooms, six bathrooms, a private pool, and outdoor space.",
+          "The contemporary abode is outfitted with pale wood floors, a full black-and-white kitchen, and glass-and-steel doors that separate the queen bedroom from the rest of the airy space."
+        ],
+        "synonym_discussion": "Synonyms of abode\nRelevance\n\nNoun\n\nresidence\ndwelling\nhouse\nhome\nlodging\nroof\nplace\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "abode": {
+          "synset": "residence.n.01",
+          "definition": "any address at which you dwell more than temporarily",
+          "examples": [
+            "a person can have several residences"
+          ]
+        },
+        "domicile": {
+          "synset": "domicile.n.01",
+          "definition": "(law) the residence where you have your permanent home or principal establishment and to where, whenever you are absent, you intend to return; every person is compelled to have one and only one domicile at a time",
+          "examples": [
+            "what's his legal residence?"
+          ]
+        },
+        "home": {
+          "synset": "home.n.01",
+          "definition": "where you live at a particular time",
+          "examples": [
+            "deliver the package to my home",
+            "he doesn't have a home to go to"
+          ]
+        },
+        "dwelling": {
+          "synset": "dwelling.n.01",
+          "definition": "housing that someone is living in",
+          "examples": [
+            "he built a modest dwelling near the pond",
+            "they raise money to provide homes for the homeless"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 196,
+      "group_name": "absentee, flier, transient, mover",
+      "target_word": "absentee",
+      "words": [
+        "absentee",
+        "flier",
+        "transient",
+        "mover"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "absentee 辨析组 (absentee.n.01)",
+      "synset_definition": "one that is absent or not in residence",
+      "merriam_webster": {
+        "definitions": [
+          "one that is absent: such as",
+          "a proprietor of an estate or business who lives far away from it and rarely visits it",
+          "one missing from work or school",
+          "a person who is absent"
+        ],
+        "dictionary_examples": [
+          "In contrast to Democrats, their agenda has included repealing no-excuse absentee balloting, banning the use of ballot drop boxes and instituting stronger voter identification requirements.",
+          "What's the difference between absentee voting and vote-by-mail?",
+          "Qualifying residents, including those unable to vote in person for religious reasons or disability, may vote absentee.",
+          "Voters also can opt into absentee voting on a one-time basis."
+        ],
+        "web_examples": [
+          "In contrast to Democrats, their agenda has included repealing no-excuse absentee balloting, banning the use of ballot drop boxes and instituting stronger voter identification requirements.",
+          "What's the difference between absentee voting and vote-by-mail?",
+          "Qualifying residents, including those unable to vote in person for religious reasons or disability, may vote absentee.",
+          "Voters also can opt into absentee voting on a one-time basis."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "absentee": {
+          "synset": "absentee.n.01",
+          "definition": "one that is absent or not in residence",
+          "examples": []
+        },
+        "flier": {
+          "synset": "flier.n.01",
+          "definition": "someone who travels by air",
+          "examples": []
+        },
+        "transient": {
+          "synset": "transient.n.01",
+          "definition": "one who stays for only a short time",
+          "examples": [
+            "transient laborers"
+          ]
+        },
+        "mover": {
+          "synset": "mover.n.01",
+          "definition": "workman employed by a moving company",
+          "examples": [
+            "the movers were very careful with the grand piano"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 197,
+      "group_name": "abstention, austerity, abstinence, continency",
+      "target_word": "abstention",
+      "words": [
+        "abstention",
+        "austerity",
+        "abstinence",
+        "continency"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abstention 辨析组 (abstinence.n.01)",
+      "synset_definition": "the trait of abstaining (especially from alcohol)",
+      "merriam_webster": {
+        "definitions": [
+          "the act or practice of abstaining: such as",
+          "the act or practice of choosing not to do or have something",
+          "a formal refusal to vote on something",
+          "the act or practice of abstaining"
+        ],
+        "dictionary_examples": [
+          "Smith never specified whether his 10-day protocol was liquids-only, time-restricted or a total abstention from food and drink, a distinction that matters clinically.",
+          "The measure cleared the upper house 81-51 with seven abstentions.",
+          "The same Datafolha results show over-70s reporting the strongest interest in politics of any age group, despite their traditionally high abstention rates.",
+          "The resolution, seen by AFP, was adopted by 23 votes in favor, three votes against and eight abstentions, two diplomats told AFP."
+        ],
+        "web_examples": [
+          "Smith never specified whether his 10-day protocol was liquids-only, time-restricted or a total abstention from food and drink, a distinction that matters clinically.",
+          "The measure cleared the upper house 81-51 with seven abstentions.",
+          "The same Datafolha results show over-70s reporting the strongest interest in politics of any age group, despite their traditionally high abstention rates.",
+          "The resolution, seen by AFP, was adopted by 23 votes in favor, three votes against and eight abstentions, two diplomats told AFP."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "abstention": {
+          "synset": "abstinence.n.01",
+          "definition": "the trait of abstaining (especially from alcohol)",
+          "examples": []
+        },
+        "austerity": {
+          "synset": "austerity.n.01",
+          "definition": "the trait of great self-denial (especially refraining from worldly pleasures)",
+          "examples": []
+        },
+        "abstinence": {
+          "synset": "abstinence.n.01",
+          "definition": "the trait of abstaining (especially from alcohol)",
+          "examples": []
+        },
+        "continency": {
+          "synset": "continence.n.01",
+          "definition": "the exercise of self constraint in sexual matters",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 198,
+      "group_name": "accompanist, oboist, singer, harper",
+      "target_word": "accompanist",
+      "words": [
+        "accompanist",
+        "oboist",
+        "singer",
+        "harper"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accompanist 辨析组 (accompanist.n.01)",
+      "synset_definition": "a person who provides musical accompaniment (usually on a piano)",
+      "merriam_webster": {
+        "definitions": [
+          "one (such as a pianist) who plays an accompaniment",
+          "a musician who plays an accompaniment"
+        ],
+        "dictionary_examples": [
+          "The piece, inspired by the 12th-century polymathic mystic Saint Hildegard of Bingen, was skin-tinglingly breathy and slow, with long tones (played by Malone and her accompanist Stephen O’Malley) that rose up and swirled around the room.",
+          "Sheeran, 35, will become the first artist to perform a full-stadium show at the downtown San Diego ballpark without a band or any accompanists.",
+          "Some of the best scenes revolve around original songs by Burton’s longtime musical accompanist, Danny Elfman.",
+          "Bono presented the accolade, the two talked Springteen’s music and activism and joined Patti Smith and her longtime accompanist Tony Shanahan in People Have The Power to standing ovations, clapping and loud cheers."
+        ],
+        "web_examples": [
+          "The piece, inspired by the 12th-century polymathic mystic Saint Hildegard of Bingen, was skin-tinglingly breathy and slow, with long tones (played by Malone and her accompanist Stephen O’Malley) that rose up and swirled around the room.",
+          "Sheeran, 35, will become the first artist to perform a full-stadium show at the downtown San Diego ballpark without a band or any accompanists.",
+          "Some of the best scenes revolve around original songs by Burton’s longtime musical accompanist, Danny Elfman.",
+          "Bono presented the accolade, the two talked Springteen’s music and activism and joined Patti Smith and her longtime accompanist Tony Shanahan in People Have The Power to standing ovations, clapping and loud cheers."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "accompanist": {
+          "synset": "accompanist.n.01",
+          "definition": "a person who provides musical accompaniment (usually on a piano)",
+          "examples": []
+        },
+        "oboist": {
+          "synset": "oboist.n.01",
+          "definition": "a musician who plays the oboe",
+          "examples": []
+        },
+        "singer": {
+          "synset": "singer.n.01",
+          "definition": "a person who sings",
+          "examples": []
+        },
+        "harper": {
+          "synset": "harpist.n.01",
+          "definition": "someone who plays the harp",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 199,
+      "group_name": "accomplice, confederate, aide, model",
+      "target_word": "accomplice",
+      "words": [
+        "accomplice",
+        "confederate",
+        "aide",
+        "model"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "accomplice 辨析组 (accomplice.n.01)",
+      "synset_definition": "a person who joins with another in carrying out some plan (especially an unethical or illegal plan)",
+      "merriam_webster": {
+        "definitions": [
+          "one associated with another especially in wrongdoing",
+          "someone associated with another in wrongdoing",
+          "one who intentionally and voluntarily participates with another in a crime by encouraging or assisting in the commission of the crime or by failing to prevent it though under a duty to do so"
+        ],
+        "dictionary_examples": [
+          "All a novelist can do when representing Bush Two’s accomplices is to embody plausible ideologies in specific fictional characters.",
+          "So when a charming stranger and his accomplice arrive with an offer, Boyd makes a high-stakes deal for himself and his team.",
+          "So when a charming stranger and his captivating accomplice arrive with an offer too good to refuse, Joe makes a deal that could give both him and his team a second chance.",
+          "Each has their own reasoning – some say any action AI would take that could wipe out humanity would need heavy involvement from human accomplices."
+        ],
+        "web_examples": [
+          "All a novelist can do when representing Bush Two’s accomplices is to embody plausible ideologies in specific fictional characters.",
+          "So when a charming stranger and his accomplice arrive with an offer, Boyd makes a high-stakes deal for himself and his team.",
+          "So when a charming stranger and his captivating accomplice arrive with an offer too good to refuse, Joe makes a deal that could give both him and his team a second chance.",
+          "Each has their own reasoning – some say any action AI would take that could wipe out humanity would need heavy involvement from human accomplices."
+        ],
+        "synonym_discussion": "Synonyms of accomplice\nRelevance\nhenchman\ncohort\npartner\naccessory\nabettor\ninformant\ninformer\ncompanion\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accomplice": {
+          "synset": "accomplice.n.01",
+          "definition": "a person who joins with another in carrying out some plan (especially an unethical or illegal plan)",
+          "examples": []
+        },
+        "confederate": {
+          "synset": "confederate.n.01",
+          "definition": "a supporter of the Confederate States of America",
+          "examples": []
+        },
+        "aide": {
+          "synset": "adjutant.n.01",
+          "definition": "an officer who acts as military assistant to a more senior officer",
+          "examples": []
+        },
+        "model": {
+          "synset": "model.n.01",
+          "definition": "a hypothetical description of a complex entity or process",
+          "examples": [
+            "the computer program was based on a model of the circulatory and respiratory systems"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 200,
+      "group_name": "accountancy, game, post, spot",
+      "target_word": "accountancy",
+      "words": [
+        "accountancy",
+        "game",
+        "post",
+        "spot"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "accountancy 辨析组 (accountancy.n.01)",
+      "synset_definition": "the occupation of maintaining and auditing records and preparing financial reports for a business",
+      "merriam_webster": {
+        "definitions": [
+          "the profession or practice of accounting"
+        ],
+        "dictionary_examples": [
+          "My mother headed the auto-claims division at a public-sector insurance company in India; my father built his own chartered accountancy practice of 20.",
+          "The 29-year-old, who works for an accountancy firm, was born in the Cheshire town of Crewe, 50 miles from Liverpool, but has lived in Chicago for the past seven years.",
+          "Mandi Alt, senior instructor of accountancy at the University of Illinois, said the lease arrangement was not unusual.",
+          "According to the Financial Times, many employers worry that, after the anticipated rise, those on the NLW will be earning close to the typical starting salary for graduate roles in professions like accountancy, law and finance."
+        ],
+        "web_examples": [
+          "My mother headed the auto-claims division at a public-sector insurance company in India; my father built his own chartered accountancy practice of 20.",
+          "The 29-year-old, who works for an accountancy firm, was born in the Cheshire town of Crewe, 50 miles from Liverpool, but has lived in Chicago for the past seven years.",
+          "Mandi Alt, senior instructor of accountancy at the University of Illinois, said the lease arrangement was not unusual.",
+          "According to the Financial Times, many employers worry that, after the anticipated rise, those on the NLW will be earning close to the typical starting salary for graduate roles in professions like accountancy, law and finance."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "accountancy": {
+          "synset": "accountancy.n.01",
+          "definition": "the occupation of maintaining and auditing records and preparing financial reports for a business",
+          "examples": []
+        },
+        "game": {
+          "synset": "game.n.01",
+          "definition": "a contest with rules to determine a winner",
+          "examples": [
+            "you need four people to play this game"
+          ]
+        },
+        "post": {
+          "synset": "post.n.01",
+          "definition": "the position where someone (as a guard or sentry) stands or is assigned to stand",
+          "examples": [
+            "a soldier manned the entrance post",
+            "a sentry station"
+          ]
+        },
+        "spot": {
+          "synset": "topographic_point.n.01",
+          "definition": "a point located with respect to surface features of some region",
+          "examples": [
+            "this is a nice place for a picnic",
+            "a bright spot on a planet"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 201,
+      "group_name": "acquittal, sentence, conviction, condemnation",
+      "target_word": "acquittal",
+      "words": [
+        "acquittal",
+        "sentence",
+        "conviction",
+        "condemnation"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "acquittal 辨析组 (acquittal.n.01)",
+      "synset_definition": "a judgment of not guilty",
+      "merriam_webster": {
+        "definitions": [
+          "a setting free from the charge of an offense by verdict, sentence, or other legal process",
+          "the freeing (as by verdict) of a person from the charge of a crime",
+          "release or discharge from debt or other liability",
+          "a setting free or deliverance from the charge of an offense by verdict of a jury, judgment of a court, or other legal process\n see also implied acquittal, JUDGMENT OF ACQUITTAL at judgment sense 1a\n compare conviction"
+        ],
+        "dictionary_examples": [
+          "Both the prosecution and the defense appealed that verdict, with the prosecution requesting 14 years and the defense pushing for acquittal.",
+          "Despite the acquittal, Michael never returned to Neverland Ranch.",
+          "Some jurors have since come forward and said the jury was split 11-1 in favor of acquittal by lack of criminal responsibility.",
+          "The case drew national attention and became racially charged, with supporters of Anthony criticizing the lack of Black jurors and calling for his acquittal, while supporters of the Metcalf family gathered outside the courthouse seeking justice."
+        ],
+        "web_examples": [
+          "Both the prosecution and the defense appealed that verdict, with the prosecution requesting 14 years and the defense pushing for acquittal.",
+          "Despite the acquittal, Michael never returned to Neverland Ranch.",
+          "Some jurors have since come forward and said the jury was split 11-1 in favor of acquittal by lack of criminal responsibility.",
+          "The case drew national attention and became racially charged, with supporters of Anthony criticizing the lack of Black jurors and calling for his acquittal, while supporters of the Metcalf family gathered outside the courthouse seeking justice."
+        ],
+        "synonym_discussion": "Synonyms of acquittal\nRelevance\npardon\nforgiveness\nclearing\nexoneration\nvindication\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acquittal": {
+          "synset": "acquittal.n.01",
+          "definition": "a judgment of not guilty",
+          "examples": []
+        },
+        "sentence": {
+          "synset": "sentence.n.01",
+          "definition": "a string of words satisfying the grammatical rules of a language",
+          "examples": [
+            "he always spoke in grammatical sentences"
+          ]
+        },
+        "conviction": {
+          "synset": "conviction.n.01",
+          "definition": "an unshakable belief in something without need for proof or evidence",
+          "examples": []
+        },
+        "condemnation": {
+          "synset": "disapprobation.n.01",
+          "definition": "an expression of strong disapproval; pronouncing as wrong or morally culpable",
+          "examples": [
+            "his uncompromising condemnation of racism"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 202,
+      "group_name": "acrimony, jaundice, tartness, acerbity",
+      "target_word": "acrimony",
+      "words": [
+        "acrimony",
+        "jaundice",
+        "tartness",
+        "acerbity"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "acrimony 辨析组 (bitterness.n.02)",
+      "synset_definition": "a rough and bitter manner",
+      "merriam_webster": {
+        "definitions": [
+          "anger and bitterness : harsh or biting sharpness especially of words, manner, or feelings",
+          "harsh or biting sharpness especially of words, manner, or disposition"
+        ],
+        "dictionary_examples": [
+          "This was prior to the public acrimony between Diana and Charles, and photos seemed to confirm the happy family unit.",
+          "Ahead of the meeting, rhetoric from Washington and Beijing has underscored only deepening acrimony and distrust over their rush to dominate the technological frontier.",
+          "The Royal Family, whose relations with Spencer have long been strained, are said to fear the book could contain numerous bombshells about Charles and Diana’s relationship, which was infamously plagued by adultery and acrimony.",
+          "Many, if not most, partition sales of a home have had extreme acrimony between the joint owners."
+        ],
+        "web_examples": [
+          "This was prior to the public acrimony between Diana and Charles, and photos seemed to confirm the happy family unit.",
+          "Ahead of the meeting, rhetoric from Washington and Beijing has underscored only deepening acrimony and distrust over their rush to dominate the technological frontier.",
+          "The Royal Family, whose relations with Spencer have long been strained, are said to fear the book could contain numerous bombshells about Charles and Diana’s relationship, which was infamously plagued by adultery and acrimony.",
+          "Many, if not most, partition sales of a home have had extreme acrimony between the joint owners."
+        ],
+        "synonym_discussion": "Synonyms of acrimony\nRelevance\nbitterness\nhostility\nseverity\nanger\nmalice\nbile\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acrimony": {
+          "synset": "bitterness.n.02",
+          "definition": "a rough and bitter manner",
+          "examples": []
+        },
+        "jaundice": {
+          "synset": "jaundice.n.01",
+          "definition": "yellowing of the skin and the whites of the eyes caused by an accumulation of bile pigment (bilirubin) in the blood; can be a symptom of gallstones or liver infection or anemia",
+          "examples": []
+        },
+        "tartness": {
+          "synset": "sour.n.02",
+          "definition": "the taste experience when vinegar or lemon juice is taken into the mouth",
+          "examples": []
+        },
+        "acerbity": {
+          "synset": "acerbity.n.01",
+          "definition": "a sharp bitterness",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 203,
+      "group_name": "actuality, animation, life, living",
+      "target_word": "actuality",
+      "words": [
+        "actuality",
+        "animation",
+        "life",
+        "living"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "actuality 辨析组 (actuality.n.01)",
+      "synset_definition": "the state of actually existing objectively",
+      "merriam_webster": {
+        "definitions": [
+          "the quality or state of being actual",
+          "something that is actual : FACT, REALITY"
+        ],
+        "dictionary_examples": [
+          "The combined implication of transitivity and the infinitive verb is that, speaking conceptually, the artist engages a category of encounter that is absolute, while process and contingency govern the actuality of the work as a function of time.",
+          "In actuality, there was no professional photographer there, just his mother hiding in the bushes filming the entire thing.",
+          "The two of them stood on Syl’s porch, which in actuality was just a wide, square block of cement.",
+          "In actuality, its premise falls closer to Apple’s Palm Royale or the 2010s ABC drama Revenge, following a mysterious outsider trying to gain a foothold among the elite."
+        ],
+        "web_examples": [
+          "The combined implication of transitivity and the infinitive verb is that, speaking conceptually, the artist engages a category of encounter that is absolute, while process and contingency govern the actuality of the work as a function of time.",
+          "In actuality, there was no professional photographer there, just his mother hiding in the bushes filming the entire thing.",
+          "The two of them stood on Syl’s porch, which in actuality was just a wide, square block of cement.",
+          "In actuality, its premise falls closer to Apple’s Palm Royale or the 2010s ABC drama Revenge, following a mysterious outsider trying to gain a foothold among the elite."
+        ],
+        "synonym_discussion": "Synonyms of actuality\nRelevance\nexistence\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "actuality": {
+          "synset": "actuality.n.01",
+          "definition": "the state of actually existing objectively",
+          "examples": [
+            "a hope that progressed from possibility to actuality"
+          ]
+        },
+        "animation": {
+          "synset": "animation.n.01",
+          "definition": "the condition of living or the state of being alive",
+          "examples": [
+            "while there's life there's hope",
+            "life depends on many chemical and physical processes"
+          ]
+        },
+        "life": {
+          "synset": "life.n.01",
+          "definition": "a characteristic state or mode of living",
+          "examples": [
+            "social life",
+            "city life"
+          ]
+        },
+        "living": {
+          "synset": "life.n.02",
+          "definition": "the experience of being alive; the course of human events and activities",
+          "examples": [
+            "he could no longer cope with the complexities of life"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 204,
+      "group_name": "acumen, node, fuzz, spur",
+      "target_word": "acumen",
+      "words": [
+        "acumen",
+        "node",
+        "fuzz",
+        "spur"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "acumen 辨析组 (acumen.n.01)",
+      "synset_definition": "a tapering point",
+      "merriam_webster": {
+        "definitions": [
+          "clarity of mind and depth of perception, discernment, or discrimination especially in practical decision-making",
+          "keenness of mind : SHREWDNESS"
+        ],
+        "dictionary_examples": [
+          "the discernment to know true friends",
+          "the discrimination that develops through listening to a lot of great music",
+          "a novelist of keen perception into human motives",
+          "lacks the penetration to see the scorn beneath their friendly smiles",
+          "a documentary providing insight into the plight of people affected by the housing crisis",
+          "a director of reliable box-office acumen"
+        ],
+        "web_examples": [
+          "Cignetti has tapped into a distinctly Hoosier brand of team pride, which proves that his acumen is just as strong off the football field as on it.",
+          "The guys up at Auburn rave about his intelligence, his football acumen and his work ethic.",
+          "But Lord knows, there’s a mountain of acumen and perspicacity or, in plain terms, good horse sense stored in those minds and souls.",
+          "Minaya, a New Yorker for much of his life, is the former GM of the Expos and Mets and is well respected for his scouting acumen and connections in Latin America."
+        ],
+        "synonym_discussion": "Synonyms of acumen\nRelevance\nintelligence\nwit\ninsight\nastuteness\nshrewdness\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "acumen": {
+          "synset": "acumen.n.01",
+          "definition": "a tapering point",
+          "examples": []
+        },
+        "node": {
+          "synset": "node.n.01",
+          "definition": "a connecting point at which several lines come together",
+          "examples": []
+        },
+        "fuzz": {
+          "synset": "hair.n.03",
+          "definition": "filamentous hairlike growth on a plant",
+          "examples": [
+            "peach fuzz"
+          ]
+        },
+        "spur": {
+          "synset": "goad.n.02",
+          "definition": "a verbalization that encourages you to attempt something",
+          "examples": [
+            "the ceaseless prodding got on his nerves"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 205,
+      "group_name": "ado, bustle, flurry, fuss",
+      "target_word": "ado",
+      "words": [
+        "ado",
+        "bustle",
+        "flurry",
+        "fuss"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ado 辨析组 (bustle.n.01)",
+      "synset_definition": "a rapid active commotion",
+      "merriam_webster": {
+        "definitions": [
+          "heightened fuss or concern : TO-DO",
+          "time-wasting bother over trivial details",
+          "TROUBLE, DIFFICULTY",
+          "FUSS entry 1 sense 1, TROUBLE"
+        ],
+        "dictionary_examples": [
+          "For their part, LA28 administrators insist that the disclosure kerfuffle is much ado about nothing and nobody will even remember who disclosed what when the Games break even or generate millions in profits.",
+          "Without further ado and in no particular order, here's where to find some of the best apple picking near New York City.",
+          "Without further ado, here are the best stackable outdoor chairs to keep in mind for your backyard seating roster.",
+          "So without further ado, here are the best small towns in Virginia—from a quaint getaway in the heart of horse country to a remote escape on the Eastern Shore."
+        ],
+        "web_examples": [
+          "For their part, LA28 administrators insist that the disclosure kerfuffle is much ado about nothing and nobody will even remember who disclosed what when the Games break even or generate millions in profits.",
+          "Without further ado and in no particular order, here's where to find some of the best apple picking near New York City.",
+          "Without further ado, here are the best stackable outdoor chairs to keep in mind for your backyard seating roster.",
+          "So without further ado, here are the best small towns in Virginia—from a quaint getaway in the heart of horse country to a remote escape on the Eastern Shore."
+        ],
+        "synonym_discussion": "Synonyms of ado\nRelevance\ncommotion\nfuss\nhurry\nstir\ndisturbance\nturmoil\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ado": {
+          "synset": "bustle.n.01",
+          "definition": "a rapid active commotion",
+          "examples": []
+        },
+        "bustle": {
+          "synset": "bustle.n.01",
+          "definition": "a rapid active commotion",
+          "examples": []
+        },
+        "flurry": {
+          "synset": "bustle.n.01",
+          "definition": "a rapid active commotion",
+          "examples": []
+        },
+        "fuss": {
+          "synset": "dither.n.01",
+          "definition": "an excited state of agitation",
+          "examples": [
+            "he was in a dither",
+            "there was a terrible flap about the theft"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 206,
+      "group_name": "advent, noel, lent, yule",
+      "target_word": "advent",
+      "words": [
+        "advent",
+        "noel",
+        "lent",
+        "yule"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "advent 辨析组 (advent.n.02)",
+      "synset_definition": "the season including the four Sundays preceding Christmas",
+      "merriam_webster": {
+        "definitions": [
+          "the period beginning four Sundays before Christmas and observed by some Christians as a season of prayer and fasting\n see also advent calendar",
+          "the coming of Christ at the Incarnation (see incarnation sense 3b(1))",
+          "SECOND COMING",
+          "a coming into being or use"
+        ],
+        "dictionary_examples": [
+          "Private equity funds are equally hungry for beauty brand takeovers, with Advent International acquiring bodycare brand Salt & Stone for an undisclosed sum.",
+          "The crowds lined both sides of Willow Springs Road from the Garden Market shopping center to just south of University of Chicago Advent La Grange Hospital.",
+          "Most people aren’t focused on Advent calendars right now — those chocolates hidden under perforated punch-outs to celebrate each day of the season.",
+          "Keller, a primary care doctor at Advent Health off Prairie Star Parkway, said that the health care facility is struggling with nursing retention due to nurses not having access to nearby affordable homes."
+        ],
+        "web_examples": [
+          "Private equity funds are equally hungry for beauty brand takeovers, with Advent International acquiring bodycare brand Salt & Stone for an undisclosed sum.",
+          "The crowds lined both sides of Willow Springs Road from the Garden Market shopping center to just south of University of Chicago Advent La Grange Hospital.",
+          "Most people aren’t focused on Advent calendars right now — those chocolates hidden under perforated punch-outs to celebrate each day of the season.",
+          "Keller, a primary care doctor at Advent Health off Prairie Star Parkway, said that the health care facility is struggling with nursing retention due to nurses not having access to nearby affordable homes."
+        ],
+        "synonym_discussion": "Synonyms of Advent\nRelevance\narrival\nappearance\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "advent": {
+          "synset": "advent.n.01",
+          "definition": "arrival that has been awaited (especially of something momentous)",
+          "examples": [
+            "the advent of the computer"
+          ]
+        },
+        "noel": {
+          "synset": "christmas.n.01",
+          "definition": "period extending from Dec. 24 to Jan. 6",
+          "examples": []
+        },
+        "lent": {
+          "synset": "lent.n.01",
+          "definition": "a period of 40 weekdays from Ash Wednesday to Holy Saturday",
+          "examples": []
+        },
+        "yule": {
+          "synset": "christmas.n.01",
+          "definition": "period extending from Dec. 24 to Jan. 6",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 207,
+      "group_name": "adversary, opposer, opponent, resister",
+      "target_word": "adversary",
+      "words": [
+        "adversary",
+        "opposer",
+        "opponent",
+        "resister"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adversary 辨析组 (adversary.n.01)",
+      "synset_definition": "someone who offers opposition",
+      "merriam_webster": {
+        "definitions": [
+          "one that contends with, opposes, or resists : an enemy or opponent",
+          "of, relating to, or involving an enemy or adversary",
+          "having or involving antagonistic parties or opposing interests",
+          "someone or something that struggles with, opposes, or resists : ENEMY, OPPONENT"
+        ],
+        "dictionary_examples": [
+          "He's a very smart criminal who pushes emotional buttons to get what he wants. He's quite a worthy adversary for Mac and the team.",
+          "American diplomacy after World War II exemplified the soundness of this principle. We put our power at the disposal of all who cherished freedom and peace. We did things for others they couldn't do for themselves. We defended others, yes, but we also forgave our former enemies and helped reconcile old adversaries, such as France and Germany.",
+          "Nike's adversary was an amorphous group of disgruntled consumers connected by a decentralized network of e-mail addresses. Although the press has presented my battle with Nike as a David versus Goliath parable, the real story is the battle between a company like Nike, with access to the mass media, and a network of citizens on the Internet …",
+          "Not perfected until the eve of World War I, this small boat cruised on the surface with a diesel engine that also charged the batteries that powered the submarine's electric motors for submerged operation. If it spotted an adversary, the submarine would dive, either to escape or attack.",
+          "The quest for air superiority would come to include strikes on adversary airfields, but only as part of a larger effort also involving such staples as defensive fighter interception, offensive air sweeps, and escort missions with bombers designed to draw enemy fighters into battle.",
+          "Critics of military justice complain that it is not a true adversary system because the JAG has authority over judges, prosecutors and defense attorneys and controls the funds of each."
+        ],
+        "web_examples": [
+          "Gaines was also in the building that night, and her adversary and Olympic legend Simone Biles was the team's guest of honor for that game.",
+          "Recent polling suggests Americans broadly agree with their push to slow down AI development, as the communist adversary the leftists support is powering ahead with the technology for military purposes.",
+          "In the air, stealth aircraft require covert, point-to-point laser links to exchange target data without revealing their position to adversary direction-finding systems.",
+          "Yet distillation has been controversial when used by third parties — particularly in adversary nations like China or Russia — to replicate proprietary work without authorization."
+        ],
+        "synonym_discussion": "Synonyms of adversary\nRelevance\n\nNoun\n\nenemy\nopponent\nfoe\n\nAdjective\n\nhostile\nnegative\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adversary": {
+          "synset": "adversary.n.01",
+          "definition": "someone who offers opposition",
+          "examples": []
+        },
+        "opposer": {
+          "synset": "adversary.n.01",
+          "definition": "someone who offers opposition",
+          "examples": []
+        },
+        "opponent": {
+          "synset": "opposition.n.04",
+          "definition": "a contestant that you are matched against",
+          "examples": []
+        },
+        "resister": {
+          "synset": "obstructionist.n.01",
+          "definition": "someone who systematically obstructs some action that others want to take",
+          "examples": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1531 @@
+{
+  "chunk_id": 4,
+  "theme_info": {
+    "chunk_id": 4,
+    "theme": "人文艺术、文艺批评与美学思辨 (Humanities, Aesthetic Criticism & Art)",
+    "guidance": "题干体现后现代文学评论、视觉艺术鉴赏、建筑风格演进、戏剧美感等《纽约书评》/《大西洋月刊》文化专栏语风。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 93,
+      "group_name": "ambush, lurk, scupper, waylay",
+      "target_word": "ambush",
+      "words": [
+        "ambush",
+        "lurk",
+        "scupper",
+        "waylay"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ambush 辨析组 (ambush.v.01)",
+      "synset_definition": "wait in hiding to attack",
+      "merriam_webster": {
+        "definitions": [
+          "to attack by surprise from a hidden place : WAYLAY",
+          "to station in ambush (see ambush entry 2 sense 2)",
+          "to lie in wait : LURK",
+          "a trap in which one or more concealed attackers lie in wait to attack by surprise"
+        ],
+        "dictionary_examples": [
+          "ambush journalism",
+          "… did not return calls or e-mails and was hostile when a television crew conducted an ambush interview several years ago.\n—Neely Tucker",
+          "However, the night took a turn when Kanye West ambushed Swift’s acceptance speech, creating one of the most infamous moments in the awards show’s history — and subsequently sparking a years-long feud with Swift.",
+          "Hansen, who left NBC in 2013 but remains a leader in the pervert-ambushing space, has spoken about having considered a sting operation against Jeffrey Epstein in 2015.",
+          "With roads around the hospital unsafe, transferring patients to other facilities was not an option in the first hours of the attack, while sending ambulances into the field risked exposing them to Hamas ambushes.",
+          "But prosecutors disputed that story, pointing to how the Miami-Dade Medical Examiner’s Office determined that Machado had defensive wounds all over her hands from the ambush in the car."
+        ],
+        "web_examples": [
+          "However, the night took a turn when Kanye West ambushed Swift’s acceptance speech, creating one of the most infamous moments in the awards show’s history — and subsequently sparking a years-long feud with Swift.",
+          "Hansen, who left NBC in 2013 but remains a leader in the pervert-ambushing space, has spoken about having considered a sting operation against Jeffrey Epstein in 2015.",
+          "With roads around the hospital unsafe, transferring patients to other facilities was not an option in the first hours of the attack, while sending ambulances into the field risked exposing them to Hamas ambushes.",
+          "But prosecutors disputed that story, pointing to how the Miami-Dade Medical Examiner’s Office determined that Machado had defensive wounds all over her hands from the ambush in the car."
+        ],
+        "synonym_discussion": "Synonyms of ambush\nRelevance\n\nVerb\n\nattack\nassault\nwaylay\nsurprise\ncapture\n\nNoun\n\nattack\nambushment\ntrap\nsurprise\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ambush": {
+          "synset": "ambush.n.01",
+          "definition": "the act of concealing yourself and lying in wait to attack by surprise",
+          "examples": []
+        },
+        "lurk": {
+          "synset": "lurk.v.01",
+          "definition": "lie in wait, lie in ambush, behave in a sneaky and secretive manner",
+          "examples": []
+        },
+        "scupper": {
+          "synset": "scupper.n.01",
+          "definition": "drain that allows water on the deck of a vessel to flow overboard",
+          "examples": []
+        },
+        "waylay": {
+          "synset": "ambush.v.01",
+          "definition": "wait in hiding to attack",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 94,
+      "group_name": "anagram, decipher, skim, trace",
+      "target_word": "anagram",
+      "words": [
+        "anagram",
+        "decipher",
+        "skim",
+        "trace"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "anagram 辨析组 (anagram.v.01)",
+      "synset_definition": "read letters out of order to discover a hidden meaning",
+      "merriam_webster": {
+        "definitions": [
+          "a word or phrase made by transposing the letters of another word or phrase",
+          "a game in which words are formed by rearranging the letters of other words or by arranging letters taken (as from a stock of cards or blocks) at random",
+          "to transpose the letters in (a word or phrase) so as to form an anagram : ANAGRAMMATIZE",
+          "to rearrange (the letters of a text) in order to discover a hidden message"
+        ],
+        "dictionary_examples": [
+          "Star individuals, teams, the language of the sport, anagrams, players with food in their surnames and so much more — there is an enormous amount of fun to be had with soccer trivia and wordplay.",
+          "The geeky’s Seth’s love of turning names into anagrams shows questions subtly concepts of order and meaning.",
+          "To decipher her code, translate the picture (or pictures) on each card into two words, then anagram the letters to spell out one of the dishes depicted on the right."
+        ],
+        "web_examples": [
+          "Star individuals, teams, the language of the sport, anagrams, players with food in their surnames and so much more — there is an enormous amount of fun to be had with soccer trivia and wordplay.",
+          "The geeky’s Seth’s love of turning names into anagrams shows questions subtly concepts of order and meaning.",
+          "To decipher her code, translate the picture (or pictures) on each card into two words, then anagram the letters to spell out one of the dishes depicted on the right."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "anagram": {
+          "synset": "anagram.n.01",
+          "definition": "a word or phrase spelled by rearranging the letters of another word or phrase",
+          "examples": []
+        },
+        "decipher": {
+          "synset": "decode.v.01",
+          "definition": "convert code into ordinary language",
+          "examples": []
+        },
+        "skim": {
+          "synset": "skim.n.01",
+          "definition": "a thin layer covering the surface of a liquid",
+          "examples": [
+            "there was a thin skim of oil on the water"
+          ]
+        },
+        "trace": {
+          "synset": "trace.n.01",
+          "definition": "a just detectable amount",
+          "examples": [
+            "he speaks French with a trace of an accent"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 95,
+      "group_name": "anguish, lose, grieve, sorrow",
+      "target_word": "anguish",
+      "words": [
+        "anguish",
+        "lose",
+        "grieve",
+        "sorrow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "anguish 辨析组 (anguish.v.01)",
+      "synset_definition": "suffer great pains or distress",
+      "merriam_webster": {
+        "definitions": [
+          "extreme pain, distress, or anxiety",
+          "to suffer anguish",
+          "to cause to suffer anguish",
+          "extreme pain or distress of body or mind"
+        ],
+        "dictionary_examples": [
+          "a family united in sorrow upon the patriarch's death",
+          "the inexpressible grief of the bereaved parents",
+          "the anguish felt by the parents of the kidnapped child",
+          "cries of woe echoed throughout the bombed city",
+          "nagging regret for missed opportunities",
+          "None of this diminishes the humanity of a fetus or the anguish of parents confronting a lethal or life-limiting diagnosis."
+        ],
+        "web_examples": [
+          "None of this diminishes the humanity of a fetus or the anguish of parents confronting a lethal or life-limiting diagnosis.",
+          "Love is actually heartbreak, pain, anguish, but the myth of love is happiness and joy.",
+          "Stylistically, this encyclopedic catch-all of genres readily segues from sermons and soliloquies to thrilling action sequences and anguished cris de coeur.",
+          "His effort to have (ahem) his cake and eat it too regarding Iran — acting reportedly anguished behind closed doors but publicly supportive of the administration — speaks to a level of calculation that makes people uncomfortable."
+        ],
+        "synonym_discussion": "Synonyms of anguish\nRelevance\n\nNoun\n\ndistress\nagony\npain\nmisery\ndiscomfort\n\nVerb\n\nplague\npersecute\nafflict\ntorture\ntorment\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "anguish": {
+          "synset": "anguish.n.01",
+          "definition": "extreme mental distress",
+          "examples": []
+        },
+        "lose": {
+          "synset": "lose.v.01",
+          "definition": "fail to keep or to maintain; cease to have, either physically or in an abstract sense",
+          "examples": [
+            "She lost her purse when she left it unattended on her seat"
+          ]
+        },
+        "grieve": {
+          "synset": "grieve.v.01",
+          "definition": "feel grief",
+          "examples": []
+        },
+        "sorrow": {
+          "synset": "sorrow.n.01",
+          "definition": "an emotion of great sadness associated with loss or bereavement",
+          "examples": [
+            "he tried to express his sorrow at her loss"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 96,
+      "group_name": "animate, exalt, enliven, invigorate",
+      "target_word": "animate",
+      "words": [
+        "animate",
+        "exalt",
+        "enliven",
+        "invigorate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "animate 辨析组 (inspire.v.01)",
+      "synset_definition": "heighten or intensify",
+      "merriam_webster": {
+        "definitions": [
+          "possessing or characterized by life : ALIVE",
+          "full of life : ANIMATED",
+          "of or relating to animal life as opposed to plant life",
+          "referring to a living thing"
+        ],
+        "dictionary_examples": [
+          "the arrival of spring quickens the earth",
+          "happiness animated his conversation",
+          "enlivened her lectures with humorous anecdotes",
+          "new blood needed to vivify the dying club",
+          "To imagine the natural world not as a passive resource but as an animate collaborator would be to reorder more than aesthetic categories, demanding another relation to our environment.",
+          "Zugunruhe is the itinerant desire of any animate being to keep moving and growing."
+        ],
+        "web_examples": [
+          "To imagine the natural world not as a passive resource but as an animate collaborator would be to reorder more than aesthetic categories, demanding another relation to our environment.",
+          "Zugunruhe is the itinerant desire of any animate being to keep moving and growing.",
+          "Cage previously starred in the first two Ghost Rider movies, a franchise now being revived by Ryan Gosling, and as Spider-Noir in both the animated Beyond the Spider-Verse films and the live-action series Prime Video just canceled.",
+          "HaMo Real-Time Animation System (Spain) HaMo Animation is building patented hardware and software for animating digital characters live, combining the responsiveness of traditional puppetry with real-time virtual production."
+        ],
+        "synonym_discussion": "Synonyms of animate\nRelevance\n\nAdjective\n\nanimated\nlively\nenergetic\nactive\n\nVerb\n\nstimulate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "animate": {
+          "synset": "inspire.v.01",
+          "definition": "heighten or intensify",
+          "examples": [
+            "These paintings exalt the imagination"
+          ]
+        },
+        "exalt": {
+          "synset": "laud.v.01",
+          "definition": "praise, glorify, or honor",
+          "examples": [
+            "extol the virtues of one's children",
+            "glorify one's spouse's cooking"
+          ]
+        },
+        "enliven": {
+          "synset": "inspire.v.01",
+          "definition": "heighten or intensify",
+          "examples": [
+            "These paintings exalt the imagination"
+          ]
+        },
+        "invigorate": {
+          "synset": "inspire.v.01",
+          "definition": "heighten or intensify",
+          "examples": [
+            "These paintings exalt the imagination"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 97,
+      "group_name": "annihilate, decimate, eliminate, eradicate",
+      "target_word": "annihilate",
+      "words": [
+        "annihilate",
+        "decimate",
+        "eliminate",
+        "eradicate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "annihilate 辨析组 (eliminate.v.03)",
+      "synset_definition": "kill in large numbers",
+      "merriam_webster": {
+        "definitions": [
+          "to cause to cease to exist : to do away with entirely so that nothing remains",
+          "to destroy a considerable part of",
+          "to defeat overwhelmingly : ROUT",
+          "to cause to be of no effect : NULLIFY"
+        ],
+        "dictionary_examples": [
+          "About 66 million years ago, the Chicxulub asteroid smashed into Earth, kicking up tsunamis and dropping hot debris that annihilated non-avian dinosaurs and many other species.",
+          "After the gold ions annihilated in collisions and produced new bits of matter, STAR tracked the paths of that debris.",
+          "Walker will see recurring opportunities to annihilate offensive lines and leave carriers in a heap.",
+          "Here was an artist actively working to annihilate members of the LGBTQ+ community for sport, and Dolly tells me to still show love to him?"
+        ],
+        "web_examples": [
+          "About 66 million years ago, the Chicxulub asteroid smashed into Earth, kicking up tsunamis and dropping hot debris that annihilated non-avian dinosaurs and many other species.",
+          "After the gold ions annihilated in collisions and produced new bits of matter, STAR tracked the paths of that debris.",
+          "Walker will see recurring opportunities to annihilate offensive lines and leave carriers in a heap.",
+          "Here was an artist actively working to annihilate members of the LGBTQ+ community for sport, and Dolly tells me to still show love to him?"
+        ],
+        "synonym_discussion": "Synonyms of annihilate\nRelevance\neradicate\nerase\nabolish\ndestroy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "annihilate": {
+          "synset": "eliminate.v.03",
+          "definition": "kill in large numbers",
+          "examples": [
+            "the plague wiped out an entire population"
+          ]
+        },
+        "decimate": {
+          "synset": "decimate.v.01",
+          "definition": "kill one in every ten, as of mutineers in Roman armies",
+          "examples": []
+        },
+        "eliminate": {
+          "synset": "extinguish.v.04",
+          "definition": "terminate, end, or take out",
+          "examples": [
+            "Let's eliminate the course on Akkadian hieroglyphics",
+            "Socialism extinguished these archaic customs"
+          ]
+        },
+        "eradicate": {
+          "synset": "eliminate.v.03",
+          "definition": "kill in large numbers",
+          "examples": [
+            "the plague wiped out an entire population"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 98,
+      "group_name": "antagonize, fret, grate, harass",
+      "target_word": "antagonize",
+      "words": [
+        "antagonize",
+        "fret",
+        "grate",
+        "harass"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "antagonize 辨析组 (antagonize.v.01)",
+      "synset_definition": "provoke the hostility of",
+      "merriam_webster": {
+        "definitions": [
+          "to incur or provoke the hostility of",
+          "to act in opposition to : COUNTERACT",
+          "to stir up dislike or anger in",
+          "to act in antagonism to : COUNTERACT"
+        ],
+        "dictionary_examples": [
+          "Davidson is even calm when talking about Kardashian’s ex-husband Ye, who once wrote a song antagonizing Davidson.",
+          "Few Brazilians have publicly antagonized the move due to evident hazards brought by online betting to the country’s economy and mental health.",
+          "And at a moment when the US is antagonizing allies and has yet to find a way to end its war on Iran that’s destabilizing the global economy, Xi has been burnishing China’s image as a responsible and dependable global leader.",
+          "India, the host, wants the summit to accomplish as much as possible without antagonizing the United States."
+        ],
+        "web_examples": [
+          "Davidson is even calm when talking about Kardashian’s ex-husband Ye, who once wrote a song antagonizing Davidson.",
+          "Few Brazilians have publicly antagonized the move due to evident hazards brought by online betting to the country’s economy and mental health.",
+          "And at a moment when the US is antagonizing allies and has yet to find a way to end its war on Iran that’s destabilizing the global economy, Xi has been burnishing China’s image as a responsible and dependable global leader.",
+          "India, the host, wants the summit to accomplish as much as possible without antagonizing the United States."
+        ],
+        "synonym_discussion": "Synonyms of antagonize\nRelevance\ninfuriate\nenrage\nanger\nembitter\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "antagonize": {
+          "synset": "antagonize.v.01",
+          "definition": "provoke the hostility of",
+          "examples": [
+            "Don't antagonize your boss"
+          ]
+        },
+        "fret": {
+          "synset": "fret.n.01",
+          "definition": "agitation resulting from active worry",
+          "examples": [
+            "don't get in a stew",
+            "he's in a sweat about exams"
+          ]
+        },
+        "grate": {
+          "synset": "grate.n.01",
+          "definition": "a frame of iron bars to hold a fire",
+          "examples": []
+        },
+        "harass": {
+          "synset": "harass.v.01",
+          "definition": "annoy continually or chronically",
+          "examples": [
+            "He is known to harry his staff when he is overworked",
+            "This man harasses his female co-workers"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 99,
+      "group_name": "apparel, tog, garb, dress",
+      "target_word": "apparel",
+      "words": [
+        "apparel",
+        "tog",
+        "garb",
+        "dress"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "apparel 辨析组 (dress.v.02)",
+      "synset_definition": "provide with clothes or put clothes on",
+      "merriam_webster": {
+        "definitions": [
+          "personal attire : clothing of a particular kind",
+          "the equipment (such as sails and rigging) of a ship",
+          "something that clothes or adorns",
+          "to put clothes on : DRESS"
+        ],
+        "dictionary_examples": [
+          "a new line of women's apparel",
+          "athletic apparel",
+          "Nike — Shares fell almost 6% after the athletic footwear and apparel maker’s fiscal first-quarter revenue missed analyst expectations, according to LSEG data.",
+          "The sneaker and athletic apparel company reported a stronger profit for the latest quarter than analysts expected, but its revenue weakened by more than feared.",
+          "Cole Haan is turning its sights to apparel.",
+          "On top of everyday savings, the warehouse club also offers members additional monthly savings on top products—everything from grocery items to apparel."
+        ],
+        "web_examples": [
+          "Nike — Shares fell almost 6% after the athletic footwear and apparel maker’s fiscal first-quarter revenue missed analyst expectations, according to LSEG data.",
+          "The sneaker and athletic apparel company reported a stronger profit for the latest quarter than analysts expected, but its revenue weakened by more than feared.",
+          "Cole Haan is turning its sights to apparel.",
+          "On top of everyday savings, the warehouse club also offers members additional monthly savings on top products—everything from grocery items to apparel."
+        ],
+        "synonym_discussion": "Synonyms of apparel\nRelevance\n\nNoun\n\nclothing\nclothes\nattire\ngarments\n\nVerb\n\nclothe\ndress\ngarment\nattire\ncostume\ngown\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "apparel": {
+          "synset": "apparel.n.01",
+          "definition": "clothing in general",
+          "examples": [
+            "she was refined in her choice of apparel",
+            "he always bought his clothes at the same store"
+          ]
+        },
+        "tog": {
+          "synset": "dress.v.02",
+          "definition": "provide with clothes or put clothes on",
+          "examples": [
+            "Parents must feed and dress their child"
+          ]
+        },
+        "garb": {
+          "synset": "attire.n.01",
+          "definition": "clothing of a distinctive style or for a particular occasion",
+          "examples": [
+            "formal attire",
+            "battle dress"
+          ]
+        },
+        "dress": {
+          "synset": "dress.n.01",
+          "definition": "a one-piece garment for a woman; has skirt and bodice",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 100,
+      "group_name": "appease, pacify, mollify, conciliate",
+      "target_word": "appease",
+      "words": [
+        "appease",
+        "pacify",
+        "mollify",
+        "conciliate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "appease 辨析组 (pacify.v.01)",
+      "synset_definition": "cause to be more favorably inclined; gain the good will of",
+      "merriam_webster": {
+        "definitions": [
+          "PACIFY, CONCILIATE",
+          "to make concessions to (someone, such as an aggressor or a critic) often at the sacrifice of principles",
+          "to cause to subside : ALLAY",
+          "to bring to a state of peace or quiet : CALM"
+        ],
+        "dictionary_examples": [
+          "pacified by a sincere apology",
+          "appease their territorial ambitions",
+          "a move to placate local opposition",
+          "a speech that mollified the demonstrators",
+          "propitiated his parents by dressing up",
+          "conciliating the belligerent nations"
+        ],
+        "web_examples": [
+          "It could be attributed to the fawn stress response, in which a survivor may appease or try to maintain peace with the person who harmed them, Cutter said.",
+          "Some visitors had expressed fears that exhibits, such as the casket of Emmett Till and a Greensboro lunch counter housed at the neighboring American History Museum, may have been altered to appease the administration’s concerns.",
+          "The fickle pop public Cyrus once wanted to appease no longer seems to no longer have any leverage over her.",
+          "The bill now also includes a compromise on stablecoin yield aimed at appeasing banking interests by directing the Treasury secretary to restrict rewards if deposit flight from community banks occurs on a substantial scale."
+        ],
+        "synonym_discussion": "Synonyms of appease\nRelevance\nplacate\ncomfort\nsoothe\nplease\npacify\npropitiate\nmollify\ncalm\nassuage\nconciliate\nsatisfy\nconsole\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "appease": {
+          "synset": "pacify.v.01",
+          "definition": "cause to be more favorably inclined; gain the good will of",
+          "examples": [
+            "She managed to mollify the angry customer"
+          ]
+        },
+        "pacify": {
+          "synset": "pacify.v.01",
+          "definition": "cause to be more favorably inclined; gain the good will of",
+          "examples": [
+            "She managed to mollify the angry customer"
+          ]
+        },
+        "mollify": {
+          "synset": "pacify.v.01",
+          "definition": "cause to be more favorably inclined; gain the good will of",
+          "examples": [
+            "She managed to mollify the angry customer"
+          ]
+        },
+        "conciliate": {
+          "synset": "pacify.v.01",
+          "definition": "cause to be more favorably inclined; gain the good will of",
+          "examples": [
+            "She managed to mollify the angry customer"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 101,
+      "group_name": "append, tether, clip, yoke",
+      "target_word": "append",
+      "words": [
+        "append",
+        "tether",
+        "clip",
+        "yoke"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "append 辨析组 (append.v.01)",
+      "synset_definition": "add to the very end",
+      "merriam_webster": {
+        "definitions": [
+          "ATTACH, AFFIX",
+          "to add as a supplement or appendix (as in a book)",
+          "to add as something extra"
+        ],
+        "dictionary_examples": [
+          "The free trial associated with this subscription will be appended to the standard duration of access.",
+          "In 1996, when the first three novels were reprinted again, Kennedy appended a prelude that reads like an account of the cycle’s evolution—except that the author of these books is identified as Billy Phelan’s nephew Daniel Quinn.",
+          "Earlier this month, The Financial Times appended a note to a guest column after readers questioned whether it was written using AI.",
+          "The sensitive information was appended to a separate URL that Copilot automatically opened on the user’s device."
+        ],
+        "web_examples": [
+          "The free trial associated with this subscription will be appended to the standard duration of access.",
+          "In 1996, when the first three novels were reprinted again, Kennedy appended a prelude that reads like an account of the cycle’s evolution—except that the author of these books is identified as Billy Phelan’s nephew Daniel Quinn.",
+          "Earlier this month, The Financial Times appended a note to a guest column after readers questioned whether it was written using AI.",
+          "The sensitive information was appended to a separate URL that Copilot automatically opened on the user’s device."
+        ],
+        "synonym_discussion": "Synonyms of append\nRelevance\nadd\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "append": {
+          "synset": "append.v.01",
+          "definition": "add to the very end",
+          "examples": [
+            "He appended a glossary to his novel where he used an invented language"
+          ]
+        },
+        "tether": {
+          "synset": "leash.n.01",
+          "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+          "examples": []
+        },
+        "clip": {
+          "synset": "cartridge_holder.n.01",
+          "definition": "a metal frame or container holding cartridges; can be inserted into an automatic gun",
+          "examples": []
+        },
+        "yoke": {
+          "synset": "yoke.n.01",
+          "definition": "fabric comprising a fitted part at the top of a garment",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 102,
+      "group_name": "appraise, value, assess, valuate",
+      "target_word": "appraise",
+      "words": [
+        "appraise",
+        "value",
+        "assess",
+        "valuate"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "appraise 辨析组 (measure.v.04)",
+      "synset_definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+      "merriam_webster": {
+        "definitions": [
+          "to set a value on : to estimate the amount of",
+          "to evaluate the worth, significance, or status of",
+          "to give an expert judgment of the value or merit of",
+          "to set a value on"
+        ],
+        "dictionary_examples": [
+          "estimated the crowd at two hundred",
+          "having their house appraised",
+          "evaluate a student's work",
+          "a watercolor valued by the donor at $500",
+          "a highly rated restaurant",
+          "officials are trying to assess the damage"
+        ],
+        "web_examples": [
+          "Once it's been appraised and everything is checked out, the hold is released.",
+          "Ellen displays intimacy with Lara in front of Ruby; Lara withholds and then offers attention; Ruby watches with envy, desire, and the alertness of a guest who cannot tell whether she is being welcomed or appraised.",
+          "Besides the basic ratio calculation, the property has to be appraised and the title has to be clear.",
+          "Heilbronner had her artwork appraised there, though the gallery declined to purchase Music (Arcadian Scene)."
+        ],
+        "synonym_discussion": "Synonyms of appraise\nRelevance\nassess\nestimate\nvalue\nevaluate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "appraise": {
+          "synset": "measure.v.04",
+          "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+          "examples": [
+            "I will have the family jewels appraised by a professional",
+            "access all the factors when taking a risk"
+          ]
+        },
+        "value": {
+          "synset": "value.n.01",
+          "definition": "a numerical quantity measured or assigned or computed",
+          "examples": [
+            "the value assigned was 16 milliseconds"
+          ]
+        },
+        "assess": {
+          "synset": "measure.v.04",
+          "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+          "examples": [
+            "I will have the family jewels appraised by a professional",
+            "access all the factors when taking a risk"
+          ]
+        },
+        "valuate": {
+          "synset": "measure.v.04",
+          "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+          "examples": [
+            "I will have the family jewels appraised by a professional",
+            "access all the factors when taking a risk"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 103,
+      "group_name": "apprehend, dig, grok, savvy",
+      "target_word": "apprehend",
+      "words": [
+        "apprehend",
+        "dig",
+        "grok",
+        "savvy"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "apprehend 辨析组 (grok.v.01)",
+      "synset_definition": "get the meaning of something",
+      "merriam_webster": {
+        "definitions": [
+          "ARREST, SEIZE",
+          "to become aware of : PERCEIVE",
+          "to anticipate especially with anxiety, dread, or fear",
+          "to grasp with the understanding : recognize the meaning of"
+        ],
+        "dictionary_examples": [
+          "Aguirre was apprehended last month in Venezuela, and Patel subsequently told lawmakers the FBI had captured one of the nation's top fugitives.",
+          "The video includes the search of Mangione's bag when he was apprehended at an Altoona McDonald's, the retrieval of the murder weapon and Mangione's transport in a squad car.",
+          "Moscow’s citywide facial recognition system, deployed across 200,000 cameras, was used to identify and apprehend protesters during the 2021 antigovernment demonstrations.",
+          "After being apprehended in Syria, she was transferred to FBI custody in January 2022."
+        ],
+        "web_examples": [
+          "Aguirre was apprehended last month in Venezuela, and Patel subsequently told lawmakers the FBI had captured one of the nation's top fugitives.",
+          "The video includes the search of Mangione's bag when he was apprehended at an Altoona McDonald's, the retrieval of the murder weapon and Mangione's transport in a squad car.",
+          "Moscow’s citywide facial recognition system, deployed across 200,000 cameras, was used to identify and apprehend protesters during the 2021 antigovernment demonstrations.",
+          "After being apprehended in Syria, she was transferred to FBI custody in January 2022."
+        ],
+        "synonym_discussion": "Synonyms of apprehend\nRelevance\nunderstand\nknow\ncomprehend\nrecognize\ndecipher\ngrasp\nsee\nappreciate\ndiscern\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "apprehend": {
+          "synset": "grok.v.01",
+          "definition": "get the meaning of something",
+          "examples": [
+            "Do you comprehend the meaning of this letter?"
+          ]
+        },
+        "dig": {
+          "synset": "dig.n.01",
+          "definition": "the site of an archeological exploration",
+          "examples": [
+            "they set up camp next to the dig"
+          ]
+        },
+        "grok": {
+          "synset": "grok.v.01",
+          "definition": "get the meaning of something",
+          "examples": [
+            "Do you comprehend the meaning of this letter?"
+          ]
+        },
+        "savvy": {
+          "synset": "understanding.n.01",
+          "definition": "the cognitive condition of someone who understands",
+          "examples": [
+            "he has virtually no understanding of social cause and effect"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 104,
+      "group_name": "arbitrate, mediate, liaise, intercede",
+      "target_word": "arbitrate",
+      "words": [
+        "arbitrate",
+        "mediate",
+        "liaise",
+        "intercede"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "arbitrate 辨析组 (intercede.v.01)",
+      "synset_definition": "act between parties with a view to reconciling differences",
+      "merriam_webster": {
+        "definitions": [
+          "to act as arbiter upon (a disputed question) : to settle (a dispute between two people or groups) after hearing the arguments and opinions of both",
+          "to submit or refer for decision to an arbiter",
+          "DECIDE, DETERMINE",
+          "to act as arbiter"
+        ],
+        "dictionary_examples": [
+          "As Rees sees it, legacy institutions are ill-equipped to arbitrate informational or cultural truths in a network-first world.",
+          "The underlying logic is that if parties contractually agree to arbitrate their grievances, which Moore and other professional tennis players do, judges ought to treat the outcome as final, assuming there are no extraordinary circumstances.",
+          "Even at the height of Jewish segregation, Jews might work in partnership with Christians, call on Christians to arbitrate in disputes, or be welcomed into Christian homes as friends.",
+          "In each instance, once parties have agreed to arbitrate, a court may confirm and enforce the resulting arbitration award, subject to limited grounds for setting it aside."
+        ],
+        "web_examples": [
+          "As Rees sees it, legacy institutions are ill-equipped to arbitrate informational or cultural truths in a network-first world.",
+          "The underlying logic is that if parties contractually agree to arbitrate their grievances, which Moore and other professional tennis players do, judges ought to treat the outcome as final, assuming there are no extraordinary circumstances.",
+          "Even at the height of Jewish segregation, Jews might work in partnership with Christians, call on Christians to arbitrate in disputes, or be welcomed into Christian homes as friends.",
+          "In each instance, once parties have agreed to arbitrate, a court may confirm and enforce the resulting arbitration award, subject to limited grounds for setting it aside."
+        ],
+        "synonym_discussion": "Synonyms of arbitrate\nRelevance\ndecide\nsettle\ndetermine\nadjudicate\njudge\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "arbitrate": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        },
+        "mediate": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        },
+        "liaise": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        },
+        "intercede": {
+          "synset": "intercede.v.01",
+          "definition": "act between parties with a view to reconciling differences",
+          "examples": [
+            "He interceded in the family dispute",
+            "He mediated a settlement"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 105,
+      "group_name": "articulate, grate, fund, step",
+      "target_word": "articulate",
+      "words": [
+        "articulate",
+        "grate",
+        "fund",
+        "step"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "articulate 辨析组 (joint.v.02)",
+      "synset_definition": "provide with a joint",
+      "merriam_webster": {
+        "definitions": [
+          "expressing oneself readily, clearly, and effectively",
+          "expressed in such a manner",
+          "divided into syllables or words meaningfully arranged : INTELLIGIBLE",
+          "able to speak"
+        ],
+        "dictionary_examples": [
+          "But he clearly adored his quick-witted and mercilessly articulate elder daughter. Contrary to feminist accounts of her patriarchal imprisonment, Emily Dickinson's objections to her father's strictures had an affectionate tone …",
+          "Among the most articulate critics of the tests are the boycotting students, who complain about narrowing opportunities and shrinking curricula.",
+          "She was shocked, she told me, to see that he insisted on talking about her ideas—and about the pains and hopes that gave rise to them. \"The only way to keep it is to give it away,\" he told her, articulating and enacting the essence of altruism.",
+          "\"Fiction just doesn't interest me,\" one 41-year-old construction worker told CNN. \"If I'm going to get a story, I'll get a movie,\" he said, articulating an attitude surely shared by many others in our media-saturated world.",
+          "Erudite, elderly, and introspective, one of my patients articulates clearly some of today's dilemmas facing both alcoholic patients and their physicians.",
+          "The most persuasive passages in The Radiance occur when its articulate narrator cannot quite tell us what happened to him."
+        ],
+        "web_examples": [
+          "The most persuasive passages in The Radiance occur when its articulate narrator cannot quite tell us what happened to him.",
+          "Al Mubarak was an elegant, articulate embodiment of a project many saw as an extension of Abu Dhabi soft power as much as a sheikh’s personal investment.",
+          "While Versant has articulated a plan to broaden its revenue beyond traditional TV, that platform at present delivers the bulk of its financial fuel, which makes distribution alliances a primary financial benchmark for the company.",
+          "Keep the narrative tight on the evolution of cultural aspects, offer a decisive point of view, articulate the support needed from the board, identify where decisions are required and be ready for questions."
+        ],
+        "synonym_discussion": "Synonyms of articulate\nRelevance\n\nAdjective\n\neloquent\nvocal\noutspoken\n\nVerb\n\nspeak\nsay\nexpress\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "articulate": {
+          "synset": "joint.v.02",
+          "definition": "provide with a joint",
+          "examples": [
+            "the carpenter jointed two pieces of wood"
+          ]
+        },
+        "grate": {
+          "synset": "grate.n.01",
+          "definition": "a frame of iron bars to hold a fire",
+          "examples": []
+        },
+        "fund": {
+          "synset": "fund.n.01",
+          "definition": "a reserve of money set aside for some purpose",
+          "examples": []
+        },
+        "step": {
+          "synset": "measure.n.01",
+          "definition": "any maneuver made as part of progress toward a goal",
+          "examples": [
+            "the situation called for strong measures",
+            "the police took steps to reduce crime"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 106,
+      "group_name": "ascertain, see, check, ensure",
+      "target_word": "ascertain",
+      "words": [
+        "ascertain",
+        "see",
+        "check",
+        "ensure"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ascertain 辨析组 (see.v.10)",
+      "synset_definition": "be careful or certain to do something; make certain of something",
+      "merriam_webster": {
+        "definitions": [
+          "to find out or learn with certainty",
+          "to make certain, exact, or precise",
+          "to learn with certainty : FIND OUT"
+        ],
+        "dictionary_examples": [
+          "discovered the source of the river",
+          "attempts to ascertain the population of the region",
+          "unable to determine the origin of the word",
+          "unearth old records",
+          "I learned her name only today",
+          "learning Greek"
+        ],
+        "web_examples": [
+          "Bland said detectives were looking to interview staff and the suspect to ascertain a motive for the attack.",
+          "Many children will train at three or four of the ‘pre-academy’ centres run by professional clubs to ascertain a preference before choosing which club to officially join at under-nine.",
+          "Research-Grade Interviewing Beyond collecting responses, ascertain whether the system uses research-grade interviewing to probe for deeper meaning.",
+          "Roman’s catalog of galaxies will help scientists ascertain how quickly the universe is expanding due to these puzzling, unseen forces."
+        ],
+        "synonym_discussion": "Synonyms of ascertain\nRelevance\ndiscover\nrealize\nsee\nhear\nlearn\nfind\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ascertain": {
+          "synset": "determine.v.01",
+          "definition": "establish after a calculation, investigation, experiment, survey, or study",
+          "examples": [
+            "find the product of two numbers",
+            "The physicist who found the elusive particle won the Nobel Prize"
+          ]
+        },
+        "see": {
+          "synset": "see.n.01",
+          "definition": "the seat within a bishop's diocese where his cathedral is located",
+          "examples": []
+        },
+        "check": {
+          "synset": "check.n.01",
+          "definition": "a written order directing a bank to pay money",
+          "examples": [
+            "he paid all his bills by check"
+          ]
+        },
+        "ensure": {
+          "synset": "guarantee.v.02",
+          "definition": "make certain of",
+          "examples": [
+            "This nest egg will ensure a nice retirement for us",
+            "Preparation will guarantee success!"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 107,
+      "group_name": "ascribe, attribute, impute, assign",
+      "target_word": "ascribe",
+      "words": [
+        "ascribe",
+        "attribute",
+        "impute",
+        "assign"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ascribe 辨析组 (impute.v.01)",
+      "synset_definition": "attribute or credit to",
+      "merriam_webster": {
+        "definitions": [
+          "to refer to a supposed cause, source, or author : to say or think that (something) is caused by, comes from, or is associated with a particular person or thing",
+          "to think of as coming from a specified cause, source, or author"
+        ],
+        "dictionary_examples": [
+          "forged paintings formerly ascribed to masters",
+          "attributed to Rembrandt but possibly done by an associate",
+          "assigned the bones to the Cretaceous period",
+          "tried to impute sinister motives to my actions",
+          "credited his teammates for his success",
+          "Ghosts have gone more mainstream than vampires, no longer grouped with the other weird freaks— the zombies and the werewolves, that paranormal genre once ascribed only to lovers of the macabre."
+        ],
+        "web_examples": [
+          "Ghosts have gone more mainstream than vampires, no longer grouped with the other weird freaks— the zombies and the werewolves, that paranormal genre once ascribed only to lovers of the macabre.",
+          "Her presence, too, is felt in the people who now inhabit the space, like her granddaughter Charley, 25, whose easy warmth recalls qualities long ascribed to the matriarch.",
+          "In announcing the arrest, police did not ascribe any motive to the alleged murder.",
+          "But top South Korean tech companies continue to ascribe value to degrees."
+        ],
+        "synonym_discussion": "Synonyms of ascribe\nRelevance\nattribute\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ascribe": {
+          "synset": "impute.v.01",
+          "definition": "attribute or credit to",
+          "examples": [
+            "We attributed this quotation to Shakespeare",
+            "People impute great cleverness to cats"
+          ]
+        },
+        "attribute": {
+          "synset": "property.n.04",
+          "definition": "a construct whereby objects or individuals can be distinguished",
+          "examples": [
+            "self-confidence is not an endearing property"
+          ]
+        },
+        "impute": {
+          "synset": "impute.v.01",
+          "definition": "attribute or credit to",
+          "examples": [
+            "We attributed this quotation to Shakespeare",
+            "People impute great cleverness to cats"
+          ]
+        },
+        "assign": {
+          "synset": "delegate.v.02",
+          "definition": "give an assignment to (a person) to a post, or assign a task to (a person)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 108,
+      "group_name": "assail, spar, feud, fence",
+      "target_word": "assail",
+      "words": [
+        "assail",
+        "spar",
+        "feud",
+        "fence"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assail 辨析组 (attack.v.01)",
+      "synset_definition": "launch an attack or assault on; begin hostilities or start warfare with",
+      "merriam_webster": {
+        "definitions": [
+          "to attack violently : ASSAULT",
+          "to encounter, undertake, or confront energetically",
+          "to oppose, challenge, or criticize harshly and forcefully",
+          "to trouble or afflict in a manner that threatens to overwhelm"
+        ],
+        "dictionary_examples": [
+          "plan to attack the town at dawn",
+          "assailed the enemy with artillery fire",
+          "commandos assaulted the building from all sides",
+          "bombarded the city nightly",
+          "preparing to storm the fortress",
+          "Hundreds of diplomats filed out as Netanyahu approached the lectern from where leaders of France, Brazil, and the UK assailed Israel this week."
+        ],
+        "web_examples": [
+          "Hundreds of diplomats filed out as Netanyahu approached the lectern from where leaders of France, Brazil, and the UK assailed Israel this week.",
+          "Predecessor Justin Trudeau's government had assailed Saudi Arabia’s human rights record, spurring a five-year diplomatic split.",
+          "Kalshi and Polymarket, which have been assailed by critics for encouraging financial risk taking by making betting more accessible, are now using the promise of free groceries to win over New Yorkers.",
+          "And yet 20 years ago, the haka’s future was in doubt — assailed by protests from rival teams that New Zealand gained an unfair advantage from performing it as the final action before kick-off in a Test match."
+        ],
+        "synonym_discussion": "Synonyms of assail\nRelevance\nattack\nslam\nscold\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "assail": {
+          "synset": "assail.v.01",
+          "definition": "attack someone physically or emotionally",
+          "examples": [
+            "The mugger assaulted the woman",
+            "Nightmares assailed him regularly"
+          ]
+        },
+        "spar": {
+          "synset": "spar.n.01",
+          "definition": "any of various nonmetallic minerals (calcite or feldspar) that are light in color and transparent or translucent and cleavable",
+          "examples": []
+        },
+        "feud": {
+          "synset": "feud.n.01",
+          "definition": "a bitter quarrel between two parties",
+          "examples": []
+        },
+        "fence": {
+          "synset": "fence.n.01",
+          "definition": "a barrier that serves to enclose an area",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 109,
+      "group_name": "assimilate, study, absorb, ingest",
+      "target_word": "assimilate",
+      "words": [
+        "assimilate",
+        "study",
+        "absorb",
+        "ingest"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assimilate 辨析组 (absorb.v.02)",
+      "synset_definition": "take up mentally",
+      "merriam_webster": {
+        "definitions": [
+          "to take into the mind and thoroughly understand",
+          "to take in and utilize as nourishment : to absorb into the system",
+          "to absorb into the cultural tradition of a population or group",
+          "to make similar"
+        ],
+        "dictionary_examples": [
+          "They found it hard to assimilate to American society.",
+          "… she grew up learning how to … assimilate into new groups.\n—Glynis Costin",
+          "Over time, most of the inhabitants of the \"Little Italies\" … assimilated rapidly to the society …",
+          "Those groups were eagerly assimilating into the larger culture and rejecting their own cuisine …",
+          "The mistaken attempts to assimilate Lindner's paintings into the Pop Art movement in the 1960s …",
+          "This is the friction that Tariq felt was a nonnegotiable for the film, factions of an immigrant community torn between assimilating into American culture and proudly celebrating its differences as loudly as possible."
+        ],
+        "web_examples": [
+          "This is the friction that Tariq felt was a nonnegotiable for the film, factions of an immigrant community torn between assimilating into American culture and proudly celebrating its differences as loudly as possible.",
+          "These prejudices, combined with the establishment of Italian churches and feasts, led to the belief that Italian immigrants clung too strongly to the traditions of their homeland and refused to assimilate into American culture.",
+          "Jack O’Connell creepily plays the fiend like a cult leader, not looking to feast so much as assimilate.",
+          "The more advanced kids in the class have quietly watched Eflin assimilate."
+        ],
+        "synonym_discussion": "Synonyms of assimilate\nRelevance\n\nVerb\n\ncompare\nequate\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "assimilate": {
+          "synset": "absorb.v.02",
+          "definition": "take up mentally",
+          "examples": [
+            "he absorbed the knowledge or beliefs of his tribe"
+          ]
+        },
+        "study": {
+          "synset": "survey.n.01",
+          "definition": "a detailed critical inspection",
+          "examples": []
+        },
+        "absorb": {
+          "synset": "absorb.v.01",
+          "definition": "become imbued",
+          "examples": [
+            "The liquids, light, and gases absorb"
+          ]
+        },
+        "ingest": {
+          "synset": "consume.v.02",
+          "definition": "serve oneself to, or consume regularly",
+          "examples": [
+            "Have another bowl of chicken soup!",
+            "I don't take sugar in my coffee"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 110,
+      "group_name": "asterisk, flag, delineate, tip",
+      "target_word": "asterisk",
+      "words": [
+        "asterisk",
+        "flag",
+        "delineate",
+        "tip"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "asterisk 辨析组 (star.v.03)",
+      "synset_definition": "mark with an asterisk",
+      "merriam_webster": {
+        "definitions": [
+          "the character * used in printing or writing as a reference mark, as an indication of the omission of letters or words, to denote a hypothetical or unattested linguistic form, or for various arbitrary meanings",
+          "the character * thought of as being appended to something (such as an athletic accomplishment included in a record book) typically in order to indicate that there is a limiting fact or consideration which makes that thing less important or impressive than it would otherwise be",
+          "someone or something considered too minor for prominent mention : FOOTNOTE",
+          "to mark with an asterisk : STAR"
+        ],
+        "dictionary_examples": [
+          "After this weekend, that declaration might come with an asterisk.",
+          "Farrar’s post was a tiny script, of sorts, in which a character makes a pronouncement that is then interrupted by an action denoted by asterisks.",
+          "Put another way, countries may look to asterisk the excess supply that sits on the wrong side of the Strait, counting only a portion of it as actually accessible excess.",
+          "The game validated all of the improvement that was asterisked by the low level of Ohio State's competition since the loss to Oklahoma."
+        ],
+        "web_examples": [
+          "After this weekend, that declaration might come with an asterisk.",
+          "Farrar’s post was a tiny script, of sorts, in which a character makes a pronouncement that is then interrupted by an action denoted by asterisks.",
+          "Put another way, countries may look to asterisk the excess supply that sits on the wrong side of the Strait, counting only a portion of it as actually accessible excess.",
+          "The game validated all of the improvement that was asterisked by the low level of Ohio State's competition since the loss to Oklahoma."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "asterisk": {
+          "synset": "asterisk.n.01",
+          "definition": "a star-shaped character * used in printing",
+          "examples": []
+        },
+        "flag": {
+          "synset": "flag.n.01",
+          "definition": "emblem usually consisting of a rectangular piece of cloth of distinctive design",
+          "examples": []
+        },
+        "delineate": {
+          "synset": "define.v.04",
+          "definition": "show the form or outline of",
+          "examples": [
+            "The tree was clearly defined by the light",
+            "The camera could define the smallest object"
+          ]
+        },
+        "tip": {
+          "synset": "tip.n.01",
+          "definition": "the extreme end of something; especially something pointed",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 111,
+      "group_name": "attest, certify, evidence, manifest",
+      "target_word": "attest",
+      "words": [
+        "attest",
+        "certify",
+        "evidence",
+        "manifest"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "attest 辨析组 (attest.v.01)",
+      "synset_definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+      "merriam_webster": {
+        "definitions": [
+          "to affirm to be true or genuine",
+          "to authenticate by signing as a witness",
+          "to authenticate officially",
+          "to establish or verify the usage of"
+        ],
+        "dictionary_examples": [
+          "I can attest to the truth of his statement.",
+          "attest to a belief",
+          "certified that the candidate had met all requirements",
+          "attested to the authenticity of the document",
+          "witnessed the signing of the will",
+          "willing to vouch for her integrity"
+        ],
+        "web_examples": [
+          "The determination to do so sometimes exacts a great price, as Gettysburg attests.",
+          "More than 12,900 five-star reviewers attest to the function and style, with one reviewer sharing that the AirTag slot brought peace of mind while on an international trip.",
+          "Pavese situated the story of his time in much longer cycles than the ventennio of Fascism, which, as contemporary history attests, wasn’t so much defeated as repressed.",
+          "While something like the Mercator or Equal Earth projections would both make sense for a map related to Apollo, neither excels at depicting the poles, as their treatment of Antarctica attests."
+        ],
+        "synonym_discussion": "Synonyms of attest\nRelevance\ncertify\nguarantee\naffirm\nwitness\ntestify (to)\nauthenticate\nassert\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "attest": {
+          "synset": "attest.v.01",
+          "definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+          "examples": [
+            "His high fever attested to his illness",
+            "The buildings in Rome manifest a high level of architectural sophistication"
+          ]
+        },
+        "certify": {
+          "synset": "attest.v.01",
+          "definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+          "examples": [
+            "His high fever attested to his illness",
+            "The buildings in Rome manifest a high level of architectural sophistication"
+          ]
+        },
+        "evidence": {
+          "synset": "evidence.n.01",
+          "definition": "your basis for belief or disbelief; knowledge on which to base belief",
+          "examples": [
+            "the evidence that smoking causes lung cancer is very compelling"
+          ]
+        },
+        "manifest": {
+          "synset": "manifest.n.01",
+          "definition": "a customs document listing the contents put on a ship or plane",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 112,
+      "group_name": "auctioneer, bootleg, syndicate, move",
+      "target_word": "auctioneer",
+      "words": [
+        "auctioneer",
+        "bootleg",
+        "syndicate",
+        "move"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "auctioneer 辨析组 (auction.v.01)",
+      "synset_definition": "sell at an auction",
+      "merriam_webster": {
+        "definitions": [
+          "an agent who sells goods at auction",
+          "a person in charge of an auction"
+        ],
+        "dictionary_examples": [
+          "Online bidding is underway for the park's equipment and other assets via auctioneer Bill Ramsey and Associates.",
+          "Several heirs to Jewish banker Salomon Flavian have taken Sotheby’s to court in Paris over the auctioneer’s sale of a painting by Camille Pissarro.",
+          "They're joined by fishermen, auctioneers, fish hawkers and wholesalers, transport workers and ice suppliers.",
+          "The sale will include nearly 300 lots and will be handled by auctioneer Millon at the Hotel Drouot auction house on Monday."
+        ],
+        "web_examples": [
+          "Online bidding is underway for the park's equipment and other assets via auctioneer Bill Ramsey and Associates.",
+          "Several heirs to Jewish banker Salomon Flavian have taken Sotheby’s to court in Paris over the auctioneer’s sale of a painting by Camille Pissarro.",
+          "They're joined by fishermen, auctioneers, fish hawkers and wholesalers, transport workers and ice suppliers.",
+          "The sale will include nearly 300 lots and will be handled by auctioneer Millon at the Hotel Drouot auction house on Monday."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "auctioneer": {
+          "synset": "auctioneer.n.01",
+          "definition": "an agent who conducts an auction",
+          "examples": []
+        },
+        "bootleg": {
+          "synset": "moonshine.n.02",
+          "definition": "whiskey illegally distilled from a corn mash",
+          "examples": []
+        },
+        "syndicate": {
+          "synset": "syndicate.n.01",
+          "definition": "a loose affiliation of gangsters in charge of organized criminal activities",
+          "examples": []
+        },
+        "move": {
+          "synset": "move.n.01",
+          "definition": "the act of deciding to do something",
+          "examples": [
+            "he didn't make a move to help",
+            "his first move was to hire a lawyer"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 113,
+      "group_name": "audition, rap, interlude, act",
+      "target_word": "audition",
+      "words": [
+        "audition",
+        "rap",
+        "interlude",
+        "act"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "audition 辨析组 (audition.v.01)",
+      "synset_definition": "perform in order to get a role",
+      "merriam_webster": {
+        "definitions": [
+          "the power or sense of hearing",
+          "the act of hearing",
+          "a critical hearing",
+          "a trial performance to appraise an entertainer's merits"
+        ],
+        "dictionary_examples": [
+          "People from across Massachusetts have submitted auditions to be featured as the official overhead announcement voice at Logan Airport.",
+          "In those early auditions, an unsuspecting superpower came from Kendrick’s radical modesty.",
+          "After Pearson lost $1,800 betting on basketball in one night, chasing his losses with increasingly long-shot bets, he was invited to audition to become a DraftKings VIP.",
+          "Then Jesse Eisenberg auditioned and proved undeniable for director David Fincher."
+        ],
+        "web_examples": [
+          "People from across Massachusetts have submitted auditions to be featured as the official overhead announcement voice at Logan Airport.",
+          "In those early auditions, an unsuspecting superpower came from Kendrick’s radical modesty.",
+          "After Pearson lost $1,800 betting on basketball in one night, chasing his losses with increasingly long-shot bets, he was invited to audition to become a DraftKings VIP.",
+          "Then Jesse Eisenberg auditioned and proved undeniable for director David Fincher."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "audition": {
+          "synset": "hearing.n.06",
+          "definition": "the ability to hear; the auditory faculty",
+          "examples": [
+            "his hearing was impaired"
+          ]
+        },
+        "rap": {
+          "synset": "blame.n.02",
+          "definition": "a reproach for some lapse or misdeed",
+          "examples": [
+            "he took the blame for it",
+            "it was a bum rap"
+          ]
+        },
+        "interlude": {
+          "synset": "interlude.n.01",
+          "definition": "an intervening period or episode",
+          "examples": []
+        },
+        "act": {
+          "synset": "act.n.01",
+          "definition": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 114,
+      "group_name": "augment, boost, rev, widen",
+      "target_word": "augment",
+      "words": [
+        "augment",
+        "boost",
+        "rev",
+        "widen"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "augment 辨析组 (augment.v.01)",
+      "synset_definition": "enlarge or increase",
+      "merriam_webster": {
+        "definitions": [
+          "to make greater, more numerous, larger, or more intense",
+          "SUPPLEMENT",
+          "to add an augment to (a verb form) (see augment entry 2)",
+          "to become augmented"
+        ],
+        "dictionary_examples": [
+          "his waistline increased with age",
+          "increased her landholdings",
+          "enlarged the kitchen",
+          "the inheritance augmented his fortune",
+          "with each attempt the problems multiplied",
+          "… a former member of Brunet's team, Jean-Renaud Boisserie of Berkeley, is in the Middle Awash seeking to augment the animal fossil record—particularly that of hippopotamuses."
+        ],
+        "web_examples": [
+          "The more important questions became which activities could be delegated to intelligent systems, which should be augmented and where human judgment still created differentiated value.",
+          "L’Oréal Professionnel is also now using AI to augment traditional before-and-after looks, which was shot on real models, to immersive effect.",
+          "Now artificial intelligence promises to automate, augment, or dramatically reduce the need for many of the same tasks.",
+          "The leaders who understand that every interaction either augments or diminishes trust will compound an advantage their competitors cannot match by spending more."
+        ],
+        "synonym_discussion": "Synonyms of augment\nRelevance\n\nVerb\n\nincrease\nexpand\naccelerate\nboost\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "augment": {
+          "synset": "augment.v.01",
+          "definition": "enlarge or increase",
+          "examples": [
+            "The recent speech of the president augmented tensions in the Near East"
+          ]
+        },
+        "boost": {
+          "synset": "boost.n.01",
+          "definition": "the act of giving hope or support to someone",
+          "examples": []
+        },
+        "rev": {
+          "synset": "revolutions_per_minute.n.01",
+          "definition": "rate of revolution of a motor",
+          "examples": [
+            "the engine was doing 6000 revs"
+          ]
+        },
+        "widen": {
+          "synset": "widen.v.01",
+          "definition": "become broader or wider or more extensive",
+          "examples": [
+            "The road widened"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 115,
+      "group_name": "autograph, endorse, ink, execute",
+      "target_word": "autograph",
+      "words": [
+        "autograph",
+        "endorse",
+        "ink",
+        "execute"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "autograph 辨析组 (autograph.v.01)",
+      "synset_definition": "mark with one's signature",
+      "merriam_webster": {
+        "definitions": [
+          "something written or made with one's own hand:",
+          "an original manuscript or work of art",
+          "a person's handwritten signature",
+          "being in the writer's own handwriting : not copied or duplicated"
+        ],
+        "dictionary_examples": [
+          "The archive includes 168 autograph letters by the naval commander, along with battle papers, family documents, naval logs, and books from Nelson and Hamilton’s libraries.",
+          "Moorea Bassett, 26, rushed down to the area on Thursday morning in hopes of grabbing an autograph from Ramsay for her husband, Rex, who is a major fan, having made Ramsay’s beef Wellington for Christmas a couple of years ago.",
+          "Those are autograph sellers 100 percent of the time.",
+          "Within seconds, a smiling Ayo Dosunmu got in Wembanyama’s face, saying something that didn’t appear to be an autograph request.",
+          "The patch is removed, authenticated and packaged with a trading card autographed by the player.",
+          "The ball was also autographed by Happ, who left a third message between the red stitches."
+        ],
+        "web_examples": [
+          "The archive includes 168 autograph letters by the naval commander, along with battle papers, family documents, naval logs, and books from Nelson and Hamilton’s libraries.",
+          "Moorea Bassett, 26, rushed down to the area on Thursday morning in hopes of grabbing an autograph from Ramsay for her husband, Rex, who is a major fan, having made Ramsay’s beef Wellington for Christmas a couple of years ago.",
+          "Those are autograph sellers 100 percent of the time.",
+          "Within seconds, a smiling Ayo Dosunmu got in Wembanyama’s face, saying something that didn’t appear to be an autograph request."
+        ],
+        "synonym_discussion": "Synonyms of autograph\nRelevance\n\nNoun\n\nsignature\nhand\n\nVerb\n\nsign\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "autograph": {
+          "synset": "autograph.n.01",
+          "definition": "something written by one's own hand",
+          "examples": []
+        },
+        "endorse": {
+          "synset": "back.v.01",
+          "definition": "be behind; approve of",
+          "examples": [
+            "He plumped for the Labor Party",
+            "I backed Kennedy in 1960"
+          ]
+        },
+        "ink": {
+          "synset": "ink.n.01",
+          "definition": "a liquid used for printing or writing or drawing",
+          "examples": []
+        },
+        "execute": {
+          "synset": "execute.v.01",
+          "definition": "kill as a means of socially sanctioned punishment",
+          "examples": [
+            "In some states, criminals are executed"
+          ]
+        }
+      }
+    }
+  ]
+}

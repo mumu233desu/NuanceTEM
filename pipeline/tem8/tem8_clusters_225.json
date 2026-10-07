@@ -1,0 +1,3602 @@
+[
+  {
+    "group_id": 1,
+    "group_name": "palliate, mitigate, alleviate, soothe",
+    "target_word": "palliate",
+    "words": [
+      "palliate",
+      "mitigate",
+      "alleviate",
+      "soothe"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "palliate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 2,
+    "group_name": "wreak, inflict, impose, execute",
+    "target_word": "wreak",
+    "words": [
+      "wreak",
+      "inflict",
+      "impose",
+      "execute"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "wreak 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 3,
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "target_word": "deteriorate",
+    "words": [
+      "deteriorate",
+      "degenerate",
+      "retrogress",
+      "decline"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "deteriorate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 4,
+    "group_name": "abate, subside, ebb, wane",
+    "target_word": "abate",
+    "words": [
+      "abate",
+      "subside",
+      "ebb",
+      "wane"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "abate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 5,
+    "group_name": "diminish, dwindle, contract, shrink",
+    "target_word": "diminish",
+    "words": [
+      "diminish",
+      "dwindle",
+      "contract",
+      "shrink"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "diminish 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 6,
+    "group_name": "escalate, proliferate, burgeon, multiply",
+    "target_word": "escalate",
+    "words": [
+      "escalate",
+      "proliferate",
+      "burgeon",
+      "multiply"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "escalate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 7,
+    "group_name": "aggravate, exacerbate, worsen, inflame",
+    "target_word": "aggravate",
+    "words": [
+      "aggravate",
+      "exacerbate",
+      "worsen",
+      "inflame"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "aggravate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 8,
+    "group_name": "amend, rectify, remedy, redress",
+    "target_word": "amend",
+    "words": [
+      "amend",
+      "rectify",
+      "remedy",
+      "redress"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "amend 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 9,
+    "group_name": "truncate, abridge, curtail, shorten",
+    "target_word": "truncate",
+    "words": [
+      "truncate",
+      "abridge",
+      "curtail",
+      "shorten"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "truncate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 10,
+    "group_name": "rejuvenate, revitalize, resuscitate, regenerate",
+    "target_word": "rejuvenate",
+    "words": [
+      "rejuvenate",
+      "revitalize",
+      "resuscitate",
+      "regenerate"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "rejuvenate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 11,
+    "group_name": "denigrate, deprecate, disparage, belittle",
+    "target_word": "denigrate",
+    "words": [
+      "denigrate",
+      "deprecate",
+      "disparage",
+      "belittle"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "denigrate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 12,
+    "group_name": "castigate, chastise, rebuke, reprimand",
+    "target_word": "castigate",
+    "words": [
+      "castigate",
+      "chastise",
+      "rebuke",
+      "reprimand"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "castigate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 13,
+    "group_name": "berate, upbraid, scold, reproach",
+    "target_word": "berate",
+    "words": [
+      "berate",
+      "upbraid",
+      "scold",
+      "reproach"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "berate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 14,
+    "group_name": "impugn, challenge, gainsay, contest",
+    "target_word": "impugn",
+    "words": [
+      "impugn",
+      "challenge",
+      "gainsay",
+      "contest"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "impugn 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 15,
+    "group_name": "extol, laud, eulogize, commend",
+    "target_word": "extol",
+    "words": [
+      "extol",
+      "laud",
+      "eulogize",
+      "commend"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "extol 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 16,
+    "group_name": "substantiate, corroborate, authenticate, verify",
+    "target_word": "substantiate",
+    "words": [
+      "substantiate",
+      "corroborate",
+      "authenticate",
+      "verify"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "substantiate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 17,
+    "group_name": "vilify, malign, slander, defame",
+    "target_word": "vilify",
+    "words": [
+      "vilify",
+      "malign",
+      "slander",
+      "defame"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "vilify 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 18,
+    "group_name": "adulate, fawn, cajole, flatter",
+    "target_word": "adulate",
+    "words": [
+      "adulate",
+      "fawn",
+      "cajole",
+      "flatter"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "adulate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 19,
+    "group_name": "rebuff, spurn, repudiate, reject",
+    "target_word": "rebuff",
+    "words": [
+      "rebuff",
+      "spurn",
+      "repudiate",
+      "reject"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "rebuff 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 20,
+    "group_name": "decry, denounce, condemn, censure",
+    "target_word": "decry",
+    "words": [
+      "decry",
+      "denounce",
+      "condemn",
+      "censure"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "decry 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 21,
+    "group_name": "equivocal, enigmatic, ambiguous, obscure",
+    "target_word": "equivocal",
+    "words": [
+      "equivocal",
+      "enigmatic",
+      "ambiguous",
+      "obscure"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "equivocal 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 22,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "target_word": "sensuous",
+    "words": [
+      "sensuous",
+      "sensual",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "sensuous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 23,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "target_word": "judicious",
+    "words": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "judicious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 24,
+    "group_name": "specious, spurious, fallacious, plausible",
+    "target_word": "specious",
+    "words": [
+      "specious",
+      "spurious",
+      "fallacious",
+      "plausible"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "specious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 25,
+    "group_name": "lucid, perspicuous, pellucid, transparent",
+    "target_word": "lucid",
+    "words": [
+      "lucid",
+      "perspicuous",
+      "pellucid",
+      "transparent"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "lucid 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 26,
+    "group_name": "esoteric, abstruse, recondite, arcane",
+    "target_word": "esoteric",
+    "words": [
+      "esoteric",
+      "abstruse",
+      "recondite",
+      "arcane"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "esoteric 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 27,
+    "group_name": "astute, shrewd, perspicacious, sagacious",
+    "target_word": "astute",
+    "words": [
+      "astute",
+      "shrewd",
+      "perspicacious",
+      "sagacious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "astute 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 28,
+    "group_name": "credulous, gullible, naive, ingenuous",
+    "target_word": "credulous",
+    "words": [
+      "credulous",
+      "gullible",
+      "naive",
+      "ingenuous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "credulous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 29,
+    "group_name": "trenchant, incisive, pungent, piercing",
+    "target_word": "trenchant",
+    "words": [
+      "trenchant",
+      "incisive",
+      "pungent",
+      "piercing"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "trenchant 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 30,
+    "group_name": "nebulous, vague, indistinct, murky",
+    "target_word": "nebulous",
+    "words": [
+      "nebulous",
+      "vague",
+      "indistinct",
+      "murky"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "nebulous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 31,
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "target_word": "assiduous",
+    "words": [
+      "assiduous",
+      "sedulous",
+      "diligent",
+      "industrious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "assiduous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 32,
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "target_word": "perfunctory",
+    "words": [
+      "perfunctory",
+      "peremptory",
+      "cursory",
+      "imperative"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "perfunctory 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 33,
+    "group_name": "tenacious, obstinate, stubborn, pertinacious",
+    "target_word": "tenacious",
+    "words": [
+      "tenacious",
+      "obstinate",
+      "stubborn",
+      "pertinacious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "tenacious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 34,
+    "group_name": "profligate, prodigal, extravagant, spendthrift",
+    "target_word": "profligate",
+    "words": [
+      "profligate",
+      "prodigal",
+      "extravagant",
+      "spendthrift"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "profligate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 35,
+    "group_name": "frugal, parsimonious, penurious, thrifty",
+    "target_word": "frugal",
+    "words": [
+      "frugal",
+      "parsimonious",
+      "penurious",
+      "thrifty"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "frugal 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 36,
+    "group_name": "intrepid, audacious, dauntless, valiant",
+    "target_word": "intrepid",
+    "words": [
+      "intrepid",
+      "audacious",
+      "dauntless",
+      "valiant"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "intrepid 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 37,
+    "group_name": "timorous, pusillanimous, diffident, cowardly",
+    "target_word": "timorous",
+    "words": [
+      "timorous",
+      "pusillanimous",
+      "diffident",
+      "cowardly"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "timorous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 38,
+    "group_name": "indolent, slothful, lethargic, torpid",
+    "target_word": "indolent",
+    "words": [
+      "indolent",
+      "slothful",
+      "lethargic",
+      "torpid"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "indolent 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 39,
+    "group_name": "heedless, imprudent, reckless, rash",
+    "target_word": "heedless",
+    "words": [
+      "heedless",
+      "imprudent",
+      "reckless",
+      "rash"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "heedless 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 40,
+    "group_name": "scrupulous, punctilious, meticulous, exacting",
+    "target_word": "scrupulous",
+    "words": [
+      "scrupulous",
+      "punctilious",
+      "meticulous",
+      "exacting"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "scrupulous 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 41,
+    "group_name": "acquit, vindicate, exonerate, absolve",
+    "target_word": "acquit",
+    "words": [
+      "acquit",
+      "vindicate",
+      "exonerate",
+      "absolve"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "acquit 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 42,
+    "group_name": "connive, collude, conspire, scheme",
+    "target_word": "connive",
+    "words": [
+      "connive",
+      "collude",
+      "conspire",
+      "scheme"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "connive 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 43,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "target_word": "broker",
+    "words": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "broker 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 44,
+    "group_name": "quash, quell, suppress, stifle",
+    "target_word": "quash",
+    "words": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "quash 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 45,
+    "group_name": "rescind, repeal, revoke, abrogate",
+    "target_word": "rescind",
+    "words": [
+      "rescind",
+      "repeal",
+      "revoke",
+      "abrogate"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "rescind 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 46,
+    "group_name": "adhere, conform, comply, abide",
+    "target_word": "adhere",
+    "words": [
+      "adhere",
+      "conform",
+      "comply",
+      "abide"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adhere 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 47,
+    "group_name": "infringe, transgress, violate, contravene",
+    "target_word": "infringe",
+    "words": [
+      "infringe",
+      "transgress",
+      "violate",
+      "contravene"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "infringe 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 48,
+    "group_name": "alienate, estrange, disaffect, separate",
+    "target_word": "alienate",
+    "words": [
+      "alienate",
+      "estrange",
+      "disaffect",
+      "separate"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "alienate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 49,
+    "group_name": "subjugate, vanquish, subdue, conquer",
+    "target_word": "subjugate",
+    "words": [
+      "subjugate",
+      "vanquish",
+      "subdue",
+      "conquer"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "subjugate 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 50,
+    "group_name": "usurp, arrogate, appropriate, seize",
+    "target_word": "usurp",
+    "words": [
+      "usurp",
+      "arrogate",
+      "appropriate",
+      "seize"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "usurp 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 51,
+    "group_name": "evanescent, ephemeral, transient, fleeting",
+    "target_word": "evanescent",
+    "words": [
+      "evanescent",
+      "ephemeral",
+      "transient",
+      "fleeting"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "evanescent 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 52,
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "target_word": "capricious",
+    "words": [
+      "capricious",
+      "mercurial",
+      "volatile",
+      "erratic"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "capricious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 53,
+    "group_name": "pervasive, ubiquitous, omnipresent, prevalent",
+    "target_word": "pervasive",
+    "words": [
+      "pervasive",
+      "ubiquitous",
+      "omnipresent",
+      "prevalent"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "pervasive 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 54,
+    "group_name": "perennial, interminable, perpetual, incessant",
+    "target_word": "perennial",
+    "words": [
+      "perennial",
+      "interminable",
+      "perpetual",
+      "incessant"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "perennial 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 55,
+    "group_name": "sporadic, intermittent, periodic, fitful",
+    "target_word": "sporadic",
+    "words": [
+      "sporadic",
+      "intermittent",
+      "periodic",
+      "fitful"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "sporadic 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 56,
+    "group_name": "salubrious, wholesome, healthy, salutary",
+    "target_word": "salubrious",
+    "words": [
+      "salubrious",
+      "wholesome",
+      "healthy",
+      "salutary"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "salubrious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 57,
+    "group_name": "deleterious, detrimental, pernicious, noxious",
+    "target_word": "deleterious",
+    "words": [
+      "deleterious",
+      "detrimental",
+      "pernicious",
+      "noxious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "deleterious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 58,
+    "group_name": "pell-mell, chaotic, tumultuous, turbulent",
+    "target_word": "pell-mell",
+    "words": [
+      "pell-mell",
+      "chaotic",
+      "tumultuous",
+      "turbulent"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "pell-mell 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 59,
+    "group_name": "immutable, unalterable, inexorable, inflexible",
+    "target_word": "immutable",
+    "words": [
+      "immutable",
+      "unalterable",
+      "inexorable",
+      "inflexible"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "immutable 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 60,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "target_word": "insidious",
+    "words": [
+      "insidious",
+      "treacherous",
+      "stealthy",
+      "surreptitious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "insidious 与近义词辨析",
+    "synset_definition": ""
+  },
+  {
+    "group_id": 61,
+    "group_name": "abase, humble, mortify, chagrin",
+    "target_word": "abase",
+    "words": [
+      "abase",
+      "humble",
+      "mortify",
+      "chagrin"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "abase 辨析组 (humiliate.v.01)",
+    "synset_definition": "cause to feel shame; hurt the pride of"
+  },
+  {
+    "group_id": 62,
+    "group_name": "abbreviate, cut, reduce, shorten",
+    "target_word": "abbreviate",
+    "words": [
+      "abbreviate",
+      "cut",
+      "reduce",
+      "shorten"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abbreviate 辨析组 (abridge.v.01)",
+    "synset_definition": "reduce in scope while retaining essential elements"
+  },
+  {
+    "group_id": 63,
+    "group_name": "abduct, kidnap, nobble, snatch",
+    "target_word": "abduct",
+    "words": [
+      "abduct",
+      "kidnap",
+      "nobble",
+      "snatch"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abduct 辨析组 (kidnap.v.01)",
+    "synset_definition": "take away to an undisclosed location against their will and usually in order to extract a ransom"
+  },
+  {
+    "group_id": 64,
+    "group_name": "abhor, loathe, execrate, abominate",
+    "target_word": "abhor",
+    "words": [
+      "abhor",
+      "loathe",
+      "execrate",
+      "abominate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abhor 辨析组 (abhor.v.01)",
+    "synset_definition": "find repugnant"
+  },
+  {
+    "group_id": 65,
+    "group_name": "abide, bear, stand, brook",
+    "target_word": "abide",
+    "words": [
+      "abide",
+      "bear",
+      "stand",
+      "brook"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abide 辨析组 (digest.v.03)",
+    "synset_definition": "put up with something or somebody unpleasant"
+  },
+  {
+    "group_id": 66,
+    "group_name": "abort, culminate, axe, lift",
+    "target_word": "abort",
+    "words": [
+      "abort",
+      "culminate",
+      "axe",
+      "lift"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abort 辨析组 (abort.v.01)",
+    "synset_definition": "terminate before completion"
+  },
+  {
+    "group_id": 67,
+    "group_name": "abstain, forbear, help, save",
+    "target_word": "abstain",
+    "words": [
+      "abstain",
+      "forbear",
+      "help",
+      "save"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abstain 辨析组 (abstain.v.01)",
+    "synset_definition": "refrain from voting"
+  },
+  {
+    "group_id": 68,
+    "group_name": "accede, defer, bow, submit",
+    "target_word": "accede",
+    "words": [
+      "accede",
+      "defer",
+      "bow",
+      "submit"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "accede 辨析组 (submit.v.06)",
+    "synset_definition": "yield to another's wish or opinion"
+  },
+  {
+    "group_id": 69,
+    "group_name": "accentuate, stress, accent, punctuate",
+    "target_word": "accentuate",
+    "words": [
+      "accentuate",
+      "stress",
+      "accent",
+      "punctuate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "accentuate 辨析组 (stress.v.01)",
+    "synset_definition": "to stress, single out as important"
+  },
+  {
+    "group_id": 70,
+    "group_name": "accession, log, post, book",
+    "target_word": "accession",
+    "words": [
+      "accession",
+      "log",
+      "post",
+      "book"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "accession 辨析组 (accession.v.01)",
+    "synset_definition": "make a record of additions to a collection, such as a library"
+  },
+  {
+    "group_id": 71,
+    "group_name": "acclaim, hail, cheer, herald",
+    "target_word": "acclaim",
+    "words": [
+      "acclaim",
+      "hail",
+      "cheer",
+      "herald"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "acclaim 辨析组 (acclaim.v.01)",
+    "synset_definition": "praise vociferously"
+  },
+  {
+    "group_id": 72,
+    "group_name": "accredit, franchise, charter, recognise",
+    "target_word": "accredit",
+    "words": [
+      "accredit",
+      "franchise",
+      "charter",
+      "recognise"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "accredit 辨析组 (accredit.v.01)",
+    "synset_definition": "grant credentials to"
+  },
+  {
+    "group_id": 73,
+    "group_name": "accrue, wax, add, gain",
+    "target_word": "accrue",
+    "words": [
+      "accrue",
+      "wax",
+      "add",
+      "gain"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "accrue 辨析组 (accrue.v.01)",
+    "synset_definition": "grow by addition"
+  },
+  {
+    "group_id": 74,
+    "group_name": "acquiesce, accede, assent, bargain",
+    "target_word": "acquiesce",
+    "words": [
+      "acquiesce",
+      "accede",
+      "assent",
+      "bargain"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "acquiesce 辨析组 (assent.v.01)",
+    "synset_definition": "to agree or express agreement"
+  },
+  {
+    "group_id": 75,
+    "group_name": "adjoin, butt, edge, abut",
+    "target_word": "adjoin",
+    "words": [
+      "adjoin",
+      "butt",
+      "edge",
+      "abut"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adjoin 辨析组 (border.v.05)",
+    "synset_definition": "lie adjacent to another or share a boundary"
+  },
+  {
+    "group_id": 76,
+    "group_name": "adjourn, lapse, culminate, break",
+    "target_word": "adjourn",
+    "words": [
+      "adjourn",
+      "lapse",
+      "culminate",
+      "break"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adjourn 辨析组 (adjourn.v.01)",
+    "synset_definition": "close at the end of a session"
+  },
+  {
+    "group_id": 77,
+    "group_name": "adjudicate, try, seal, take",
+    "target_word": "adjudicate",
+    "words": [
+      "adjudicate",
+      "try",
+      "seal",
+      "take"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adjudicate 辨析组 (judge.v.05)",
+    "synset_definition": "put on trial or hear a case and sit as the judge at the trial of"
+  },
+  {
+    "group_id": 78,
+    "group_name": "admonish, warn, monish, discourage",
+    "target_word": "admonish",
+    "words": [
+      "admonish",
+      "warn",
+      "monish",
+      "discourage"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "admonish 辨析组 (warn.v.02)",
+    "synset_definition": "admonish or counsel in terms of someone's behavior"
+  },
+  {
+    "group_id": 79,
+    "group_name": "adorn, beautify, embellish, grace",
+    "target_word": "adorn",
+    "words": [
+      "adorn",
+      "beautify",
+      "embellish",
+      "grace"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adorn 辨析组 (decorate.v.01)",
+    "synset_definition": "make more attractive by adding ornament, colour, etc."
+  },
+  {
+    "group_id": 80,
+    "group_name": "adulterate, debase, load, dilute",
+    "target_word": "adulterate",
+    "words": [
+      "adulterate",
+      "debase",
+      "load",
+      "dilute"
+    ],
+    "pos": "v",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adulterate 辨析组 (load.v.05)",
+    "synset_definition": "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones"
+  },
+  {
+    "group_id": 81,
+    "group_name": "affiliate, assort, consort, associate",
+    "target_word": "affiliate",
+    "words": [
+      "affiliate",
+      "assort",
+      "consort",
+      "associate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "affiliate 辨析组 (consort.v.01)",
+    "synset_definition": "keep company with; hang out with"
+  },
+  {
+    "group_id": 82,
+    "group_name": "afflict, faze, unnerve, unsettle",
+    "target_word": "afflict",
+    "words": [
+      "afflict",
+      "faze",
+      "unnerve",
+      "unsettle"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "afflict 辨析组 (afflict.v.01)",
+    "synset_definition": "cause great unhappiness for; distress"
+  },
+  {
+    "group_id": 83,
+    "group_name": "affront, abase, diss, sting",
+    "target_word": "affront",
+    "words": [
+      "affront",
+      "abase",
+      "diss",
+      "sting"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "affront 辨析组 (diss.v.01)",
+    "synset_definition": "treat, mention, or speak to rudely"
+  },
+  {
+    "group_id": 84,
+    "group_name": "aggregate, intermingle, blend, concoct",
+    "target_word": "aggregate",
+    "words": [
+      "aggregate",
+      "intermingle",
+      "blend",
+      "concoct"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aggregate 辨析组 (aggregate.v.02)",
+    "synset_definition": "gather in a mass, sum, or whole"
+  },
+  {
+    "group_id": 85,
+    "group_name": "agitate, jog, lure, entice",
+    "target_word": "agitate",
+    "words": [
+      "agitate",
+      "jog",
+      "lure",
+      "entice"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "agitate 辨析组 (agitate.v.01)",
+    "synset_definition": "try to stir up public opinion"
+  },
+  {
+    "group_id": 86,
+    "group_name": "alight, port, perch, beach",
+    "target_word": "alight",
+    "words": [
+      "alight",
+      "port",
+      "perch",
+      "beach"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "alight 辨析组 (alight.v.01)",
+    "synset_definition": "to come to rest, settle"
+  },
+  {
+    "group_id": 87,
+    "group_name": "align, skew, aline, adjust",
+    "target_word": "align",
+    "words": [
+      "align",
+      "skew",
+      "aline",
+      "adjust"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "align 辨析组 (align.v.01)",
+    "synset_definition": "place in a line or arrange so as to be parallel or straight"
+  },
+  {
+    "group_id": 88,
+    "group_name": "allay, ease, still, relieve",
+    "target_word": "allay",
+    "words": [
+      "allay",
+      "ease",
+      "still",
+      "relieve"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "allay 辨析组 (still.v.03)",
+    "synset_definition": "lessen the intensity of or calm"
+  },
+  {
+    "group_id": 89,
+    "group_name": "alleviate, relieve, assuage, palliate",
+    "target_word": "alleviate",
+    "words": [
+      "alleviate",
+      "relieve",
+      "assuage",
+      "palliate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "alleviate 辨析组 (relieve.v.01)",
+    "synset_definition": "provide physical relief, as from pain"
+  },
+  {
+    "group_id": 90,
+    "group_name": "allude, insinuate, touch, advert",
+    "target_word": "allude",
+    "words": [
+      "allude",
+      "insinuate",
+      "touch",
+      "advert"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "allude 辨析组 (allude.v.01)",
+    "synset_definition": "make a more or less disguised reference to"
+  },
+  {
+    "group_id": 91,
+    "group_name": "amalgamate, mix, unify, commix",
+    "target_word": "amalgamate",
+    "words": [
+      "amalgamate",
+      "mix",
+      "unify",
+      "commix"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "amalgamate 辨析组 (mix.v.05)",
+    "synset_definition": "to bring or combine together or with something else"
+  },
+  {
+    "group_id": 92,
+    "group_name": "amass, gather, cumulate, accumulate",
+    "target_word": "amass",
+    "words": [
+      "amass",
+      "gather",
+      "cumulate",
+      "accumulate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "amass 辨析组 (accumulate.v.02)",
+    "synset_definition": "collect or gather"
+  },
+  {
+    "group_id": 93,
+    "group_name": "ambush, lurk, scupper, waylay",
+    "target_word": "ambush",
+    "words": [
+      "ambush",
+      "lurk",
+      "scupper",
+      "waylay"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ambush 辨析组 (ambush.v.01)",
+    "synset_definition": "wait in hiding to attack"
+  },
+  {
+    "group_id": 94,
+    "group_name": "anagram, decipher, skim, trace",
+    "target_word": "anagram",
+    "words": [
+      "anagram",
+      "decipher",
+      "skim",
+      "trace"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "anagram 辨析组 (anagram.v.01)",
+    "synset_definition": "read letters out of order to discover a hidden meaning"
+  },
+  {
+    "group_id": 95,
+    "group_name": "anguish, lose, grieve, sorrow",
+    "target_word": "anguish",
+    "words": [
+      "anguish",
+      "lose",
+      "grieve",
+      "sorrow"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "anguish 辨析组 (anguish.v.01)",
+    "synset_definition": "suffer great pains or distress"
+  },
+  {
+    "group_id": 96,
+    "group_name": "animate, exalt, enliven, invigorate",
+    "target_word": "animate",
+    "words": [
+      "animate",
+      "exalt",
+      "enliven",
+      "invigorate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "animate 辨析组 (inspire.v.01)",
+    "synset_definition": "heighten or intensify"
+  },
+  {
+    "group_id": 97,
+    "group_name": "annihilate, decimate, eliminate, eradicate",
+    "target_word": "annihilate",
+    "words": [
+      "annihilate",
+      "decimate",
+      "eliminate",
+      "eradicate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "annihilate 辨析组 (eliminate.v.03)",
+    "synset_definition": "kill in large numbers"
+  },
+  {
+    "group_id": 98,
+    "group_name": "antagonize, fret, grate, harass",
+    "target_word": "antagonize",
+    "words": [
+      "antagonize",
+      "fret",
+      "grate",
+      "harass"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "antagonize 辨析组 (antagonize.v.01)",
+    "synset_definition": "provoke the hostility of"
+  },
+  {
+    "group_id": 99,
+    "group_name": "apparel, tog, garb, dress",
+    "target_word": "apparel",
+    "words": [
+      "apparel",
+      "tog",
+      "garb",
+      "dress"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "apparel 辨析组 (dress.v.02)",
+    "synset_definition": "provide with clothes or put clothes on"
+  },
+  {
+    "group_id": 100,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "target_word": "appease",
+    "words": [
+      "appease",
+      "pacify",
+      "mollify",
+      "conciliate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "appease 辨析组 (pacify.v.01)",
+    "synset_definition": "cause to be more favorably inclined; gain the good will of"
+  },
+  {
+    "group_id": 101,
+    "group_name": "append, tether, clip, yoke",
+    "target_word": "append",
+    "words": [
+      "append",
+      "tether",
+      "clip",
+      "yoke"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "append 辨析组 (append.v.01)",
+    "synset_definition": "add to the very end"
+  },
+  {
+    "group_id": 102,
+    "group_name": "appraise, value, assess, valuate",
+    "target_word": "appraise",
+    "words": [
+      "appraise",
+      "value",
+      "assess",
+      "valuate"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "appraise 辨析组 (measure.v.04)",
+    "synset_definition": "evaluate or estimate the nature, quality, ability, extent, or significance of"
+  },
+  {
+    "group_id": 103,
+    "group_name": "apprehend, dig, grok, savvy",
+    "target_word": "apprehend",
+    "words": [
+      "apprehend",
+      "dig",
+      "grok",
+      "savvy"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "apprehend 辨析组 (grok.v.01)",
+    "synset_definition": "get the meaning of something"
+  },
+  {
+    "group_id": 104,
+    "group_name": "arbitrate, mediate, liaise, intercede",
+    "target_word": "arbitrate",
+    "words": [
+      "arbitrate",
+      "mediate",
+      "liaise",
+      "intercede"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "arbitrate 辨析组 (intercede.v.01)",
+    "synset_definition": "act between parties with a view to reconciling differences"
+  },
+  {
+    "group_id": 105,
+    "group_name": "articulate, grate, fund, step",
+    "target_word": "articulate",
+    "words": [
+      "articulate",
+      "grate",
+      "fund",
+      "step"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "articulate 辨析组 (joint.v.02)",
+    "synset_definition": "provide with a joint"
+  },
+  {
+    "group_id": 106,
+    "group_name": "ascertain, see, check, ensure",
+    "target_word": "ascertain",
+    "words": [
+      "ascertain",
+      "see",
+      "check",
+      "ensure"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "ascertain 辨析组 (see.v.10)",
+    "synset_definition": "be careful or certain to do something; make certain of something"
+  },
+  {
+    "group_id": 107,
+    "group_name": "ascribe, attribute, impute, assign",
+    "target_word": "ascribe",
+    "words": [
+      "ascribe",
+      "attribute",
+      "impute",
+      "assign"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ascribe 辨析组 (impute.v.01)",
+    "synset_definition": "attribute or credit to"
+  },
+  {
+    "group_id": 108,
+    "group_name": "assail, spar, feud, fence",
+    "target_word": "assail",
+    "words": [
+      "assail",
+      "spar",
+      "feud",
+      "fence"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "assail 辨析组 (attack.v.01)",
+    "synset_definition": "launch an attack or assault on; begin hostilities or start warfare with"
+  },
+  {
+    "group_id": 109,
+    "group_name": "assimilate, study, absorb, ingest",
+    "target_word": "assimilate",
+    "words": [
+      "assimilate",
+      "study",
+      "absorb",
+      "ingest"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "assimilate 辨析组 (absorb.v.02)",
+    "synset_definition": "take up mentally"
+  },
+  {
+    "group_id": 110,
+    "group_name": "asterisk, flag, delineate, tip",
+    "target_word": "asterisk",
+    "words": [
+      "asterisk",
+      "flag",
+      "delineate",
+      "tip"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "asterisk 辨析组 (star.v.03)",
+    "synset_definition": "mark with an asterisk"
+  },
+  {
+    "group_id": 111,
+    "group_name": "attest, certify, evidence, manifest",
+    "target_word": "attest",
+    "words": [
+      "attest",
+      "certify",
+      "evidence",
+      "manifest"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "attest 辨析组 (attest.v.01)",
+    "synset_definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes"
+  },
+  {
+    "group_id": 112,
+    "group_name": "auctioneer, bootleg, syndicate, move",
+    "target_word": "auctioneer",
+    "words": [
+      "auctioneer",
+      "bootleg",
+      "syndicate",
+      "move"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "auctioneer 辨析组 (auction.v.01)",
+    "synset_definition": "sell at an auction"
+  },
+  {
+    "group_id": 113,
+    "group_name": "audition, rap, interlude, act",
+    "target_word": "audition",
+    "words": [
+      "audition",
+      "rap",
+      "interlude",
+      "act"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "audition 辨析组 (audition.v.01)",
+    "synset_definition": "perform in order to get a role"
+  },
+  {
+    "group_id": 114,
+    "group_name": "augment, boost, rev, widen",
+    "target_word": "augment",
+    "words": [
+      "augment",
+      "boost",
+      "rev",
+      "widen"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "augment 辨析组 (augment.v.01)",
+    "synset_definition": "enlarge or increase"
+  },
+  {
+    "group_id": 115,
+    "group_name": "autograph, endorse, ink, execute",
+    "target_word": "autograph",
+    "words": [
+      "autograph",
+      "endorse",
+      "ink",
+      "execute"
+    ],
+    "pos": "v",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "autograph 辨析组 (autograph.v.01)",
+    "synset_definition": "mark with one's signature"
+  },
+  {
+    "group_id": 116,
+    "group_name": "autopsy, rake, scan, look",
+    "target_word": "autopsy",
+    "words": [
+      "autopsy",
+      "rake",
+      "scan",
+      "look"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "autopsy 辨析组 (autopsy.v.01)",
+    "synset_definition": "perform an autopsy on a dead body; do a post-mortem"
+  },
+  {
+    "group_id": 117,
+    "group_name": "avail, exploit, consecrate, take",
+    "target_word": "avail",
+    "words": [
+      "avail",
+      "exploit",
+      "consecrate",
+      "take"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "avail 辨析组 (avail.v.01)",
+    "synset_definition": "use to one's advantage"
+  },
+  {
+    "group_id": 118,
+    "group_name": "avert, avoid, debar, obviate",
+    "target_word": "avert",
+    "words": [
+      "avert",
+      "avoid",
+      "debar",
+      "obviate"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "avert 辨析组 (debar.v.02)",
+    "synset_definition": "prevent the occurrence of; prevent from happening"
+  },
+  {
+    "group_id": 119,
+    "group_name": "babble, bay, slur, rasp",
+    "target_word": "babble",
+    "words": [
+      "babble",
+      "bay",
+      "slur",
+      "rasp"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "babble 辨析组 (babble.v.01)",
+    "synset_definition": "utter meaningless sounds, like a baby, or utter in an incoherent way"
+  },
+  {
+    "group_id": 120,
+    "group_name": "backfire, recur, transpire, come",
+    "target_word": "backfire",
+    "words": [
+      "backfire",
+      "recur",
+      "transpire",
+      "come"
+    ],
+    "pos": "v",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "backfire 辨析组 (backfire.v.01)",
+    "synset_definition": "come back to the originator of an action with an undesired effect"
+  },
+  {
+    "group_id": 121,
+    "group_name": "backhand, loft, pop, toe",
+    "target_word": "backhand",
+    "words": [
+      "backhand",
+      "loft",
+      "pop",
+      "toe"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "backhand 辨析组 (backhand.v.01)",
+    "synset_definition": "hit a tennis ball backhand"
+  },
+  {
+    "group_id": 122,
+    "group_name": "badger, pester, bug, tease",
+    "target_word": "badger",
+    "words": [
+      "badger",
+      "pester",
+      "bug",
+      "tease"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "badger 辨析组 (tease.v.01)",
+    "synset_definition": "annoy persistently"
+  },
+  {
+    "group_id": 123,
+    "group_name": "baffle, vex, gravel, get",
+    "target_word": "baffle",
+    "words": [
+      "baffle",
+      "vex",
+      "gravel",
+      "get"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "baffle 辨析组 (perplex.v.01)",
+    "synset_definition": "be a mystery or bewildering to"
+  },
+  {
+    "group_id": 124,
+    "group_name": "balk, jib, baulk, resist",
+    "target_word": "balk",
+    "words": [
+      "balk",
+      "jib",
+      "baulk",
+      "resist"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "balk 辨析组 (resist.v.06)",
+    "synset_definition": "refuse to comply"
+  },
+  {
+    "group_id": 125,
+    "group_name": "banish, shun, ban, blackball",
+    "target_word": "banish",
+    "words": [
+      "banish",
+      "shun",
+      "ban",
+      "blackball"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "banish 辨析组 (banish.v.01)",
+    "synset_definition": "expel from a community or group"
+  },
+  {
+    "group_id": 126,
+    "group_name": "banter, kid, josh, chaff",
+    "target_word": "banter",
+    "words": [
+      "banter",
+      "kid",
+      "josh",
+      "chaff"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "banter 辨析组 (kid.v.02)",
+    "synset_definition": "be silly or tease one another"
+  },
+  {
+    "group_id": 127,
+    "group_name": "barrage, bombard, rip, claw",
+    "target_word": "barrage",
+    "words": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "barrage 辨析组 (bombard.v.03)",
+    "synset_definition": "address with continuously or persistently, as if with a barrage"
+  },
+  {
+    "group_id": 128,
+    "group_name": "barricade, bar, stop, block",
+    "target_word": "barricade",
+    "words": [
+      "barricade",
+      "bar",
+      "stop",
+      "block"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "barricade 辨析组 (barricade.v.01)",
+    "synset_definition": "render unsuitable for passage"
+  },
+  {
+    "group_id": 129,
+    "group_name": "barter, swap, sub, swop",
+    "target_word": "barter",
+    "words": [
+      "barter",
+      "swap",
+      "sub",
+      "swop"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "barter 辨析组 (barter.v.01)",
+    "synset_definition": "exchange goods without involving money"
+  },
+  {
+    "group_id": 130,
+    "group_name": "bash, bop, whop, whap",
+    "target_word": "bash",
+    "words": [
+      "bash",
+      "bop",
+      "whop",
+      "whap"
+    ],
+    "pos": "v",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bash 辨析组 (sock.v.01)",
+    "synset_definition": "hit hard"
+  },
+  {
+    "group_id": 131,
+    "group_name": "aberrant, deviate, deviant, abnormal",
+    "target_word": "aberrant",
+    "words": [
+      "aberrant",
+      "deviate",
+      "deviant",
+      "abnormal"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aberrant 辨析组 (aberrant.s.01)",
+    "synset_definition": "markedly different from an accepted norm"
+  },
+  {
+    "group_id": 132,
+    "group_name": "abiding, lasting, enduring, permanent",
+    "target_word": "abiding",
+    "words": [
+      "abiding",
+      "lasting",
+      "enduring",
+      "permanent"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "abiding 辨析组 (abiding.s.01)",
+    "synset_definition": "unceasing"
+  },
+  {
+    "group_id": 133,
+    "group_name": "abject, low, scummy, scurvy",
+    "target_word": "abject",
+    "words": [
+      "abject",
+      "low",
+      "scummy",
+      "scurvy"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "abject 辨析组 (abject.s.01)",
+    "synset_definition": "of the most contemptible kind"
+  },
+  {
+    "group_id": 134,
+    "group_name": "ablaze, aflame, aroused, passionate",
+    "target_word": "ablaze",
+    "words": [
+      "ablaze",
+      "aflame",
+      "aroused",
+      "passionate"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ablaze 辨析组 (ablaze.s.01)",
+    "synset_definition": "keenly excited (especially sexually) or indicating excitement; - Bram Stoker"
+  },
+  {
+    "group_id": 135,
+    "group_name": "abominable, execrable, odious, hateful",
+    "target_word": "abominable",
+    "words": [
+      "abominable",
+      "execrable",
+      "odious",
+      "hateful"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abominable 辨析组 (abominable.s.01)",
+    "synset_definition": "unequivocally detestable; ; ; ; - Edmund Burke"
+  },
+  {
+    "group_id": 136,
+    "group_name": "aboveboard, square, straight, straightforward",
+    "target_word": "aboveboard",
+    "words": [
+      "aboveboard",
+      "square",
+      "straight",
+      "straightforward"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aboveboard 辨析组 (aboveboard.s.01)",
+    "synset_definition": "without concealment or deception; honest"
+  },
+  {
+    "group_id": 137,
+    "group_name": "abrasive, rough, unsmooth, scratchy",
+    "target_word": "abrasive",
+    "words": [
+      "abrasive",
+      "rough",
+      "unsmooth",
+      "scratchy"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abrasive 辨析组 (abrasive.s.01)",
+    "synset_definition": "causing abrasion"
+  },
+  {
+    "group_id": 138,
+    "group_name": "abusive, offensive, scurrilous, opprobrious",
+    "target_word": "abusive",
+    "words": [
+      "abusive",
+      "offensive",
+      "scurrilous",
+      "opprobrious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "abusive 辨析组 (abusive.s.01)",
+    "synset_definition": "expressing offensive reproach"
+  },
+  {
+    "group_id": 139,
+    "group_name": "accessible, handy, getatable, reachable",
+    "target_word": "accessible",
+    "words": [
+      "accessible",
+      "handy",
+      "getatable",
+      "reachable"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "accessible 辨析组 (accessible.a.01)",
+    "synset_definition": "capable of being reached"
+  },
+  {
+    "group_id": 140,
+    "group_name": "adamant, inflexible, inexorable, intransigent",
+    "target_word": "adamant",
+    "words": [
+      "adamant",
+      "inflexible",
+      "inexorable",
+      "intransigent"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adamant 辨析组 (adamant.s.01)",
+    "synset_definition": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill"
+  },
+  {
+    "group_id": 141,
+    "group_name": "additive, cumulative, complementary, completing",
+    "target_word": "additive",
+    "words": [
+      "additive",
+      "cumulative",
+      "complementary",
+      "completing"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "additive 辨析组 (additive.a.02)",
+    "synset_definition": "characterized or produced by addition"
+  },
+  {
+    "group_id": 142,
+    "group_name": "adept, good, expert, skilled",
+    "target_word": "adept",
+    "words": [
+      "adept",
+      "good",
+      "expert",
+      "skilled"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adept 辨析组 (adept.s.01)",
+    "synset_definition": "having or showing knowledge and skill and aptitude"
+  },
+  {
+    "group_id": 143,
+    "group_name": "adhesive, gluey, pasty, gummy",
+    "target_word": "adhesive",
+    "words": [
+      "adhesive",
+      "gluey",
+      "pasty",
+      "gummy"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adhesive 辨析组 (adhesive.a.01)",
+    "synset_definition": "tending to adhere"
+  },
+  {
+    "group_id": 144,
+    "group_name": "adjunct, adjuvant, accessory, ancillary",
+    "target_word": "adjunct",
+    "words": [
+      "adjunct",
+      "adjuvant",
+      "accessory",
+      "ancillary"
+    ],
+    "pos": "adj",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adjunct 辨析组 (accessory.s.02)",
+    "synset_definition": "furnishing added support"
+  },
+  {
+    "group_id": 145,
+    "group_name": "admissible, permissible, allowable, admittible",
+    "target_word": "admissible",
+    "words": [
+      "admissible",
+      "permissible",
+      "allowable",
+      "admittible"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "admissible 辨析组 (admissible.a.01)",
+    "synset_definition": "deserving to be admitted"
+  },
+  {
+    "group_id": 146,
+    "group_name": "adrift, afloat, aimless, planless",
+    "target_word": "adrift",
+    "words": [
+      "adrift",
+      "afloat",
+      "aimless",
+      "planless"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adrift 辨析组 (adrift.s.01)",
+    "synset_definition": "aimlessly drifting"
+  },
+  {
+    "group_id": 147,
+    "group_name": "adverse, untoward, unfavorable, unfavourable",
+    "target_word": "adverse",
+    "words": [
+      "adverse",
+      "untoward",
+      "unfavorable",
+      "unfavourable"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adverse 辨析组 (adverse.s.01)",
+    "synset_definition": "contrary to your interests or welfare"
+  },
+  {
+    "group_id": 148,
+    "group_name": "affable, genial, amiable, cordial",
+    "target_word": "affable",
+    "words": [
+      "affable",
+      "genial",
+      "amiable",
+      "cordial"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "affable 辨析组 (affable.s.01)",
+    "synset_definition": "diffusing warmth and friendliness"
+  },
+  {
+    "group_id": 149,
+    "group_name": "agile, quick, nimble, spry",
+    "target_word": "agile",
+    "words": [
+      "agile",
+      "quick",
+      "nimble",
+      "spry"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "agile 辨析组 (agile.s.01)",
+    "synset_definition": "moving quickly and lightly"
+  },
+  {
+    "group_id": 150,
+    "group_name": "agonizing, harrowing, painful, agonising",
+    "target_word": "agonizing",
+    "words": [
+      "agonizing",
+      "harrowing",
+      "painful",
+      "agonising"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "agonizing 辨析组 (agonizing.s.01)",
+    "synset_definition": "extremely painful"
+  },
+  {
+    "group_id": 151,
+    "group_name": "ailing, seedy, indisposed, ill",
+    "target_word": "ailing",
+    "words": [
+      "ailing",
+      "seedy",
+      "indisposed",
+      "ill"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ailing 辨析组 (ailing.s.01)",
+    "synset_definition": "somewhat ill or prone to illness"
+  },
+  {
+    "group_id": 152,
+    "group_name": "airy, windy, utopian, laputan",
+    "target_word": "airy",
+    "words": [
+      "airy",
+      "windy",
+      "utopian",
+      "laputan"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "airy 辨析组 (airy.s.02)",
+    "synset_definition": "not practical or realizable; speculative"
+  },
+  {
+    "group_id": 153,
+    "group_name": "allergic, susceptible, sensitised, sensitized",
+    "target_word": "allergic",
+    "words": [
+      "allergic",
+      "susceptible",
+      "sensitised",
+      "sensitized"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "allergic 辨析组 (allergic.s.02)",
+    "synset_definition": "having an allergy or peculiar or excessive susceptibility (especially to a specific factor)"
+  },
+  {
+    "group_id": 154,
+    "group_name": "ambivalent, unsure, incertain, uncertain",
+    "target_word": "ambivalent",
+    "words": [
+      "ambivalent",
+      "unsure",
+      "incertain",
+      "uncertain"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ambivalent 辨析组 (ambivalent.s.01)",
+    "synset_definition": "uncertain or unable to decide about what course to follow"
+  },
+  {
+    "group_id": 155,
+    "group_name": "amicable, friendly, favorable, unthreatening",
+    "target_word": "amicable",
+    "words": [
+      "amicable",
+      "friendly",
+      "favorable",
+      "unthreatening"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "amicable 辨析组 (amicable.a.01)",
+    "synset_definition": "characterized by friendship and good will"
+  },
+  {
+    "group_id": 156,
+    "group_name": "anarchic, lawless, anarchical, uncontrolled",
+    "target_word": "anarchic",
+    "words": [
+      "anarchic",
+      "lawless",
+      "anarchical",
+      "uncontrolled"
+    ],
+    "pos": "adj",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "anarchic 辨析组 (anarchic.s.01)",
+    "synset_definition": "without law or control"
+  },
+  {
+    "group_id": 157,
+    "group_name": "apposite, pertinent, apt, apropos",
+    "target_word": "apposite",
+    "words": [
+      "apposite",
+      "pertinent",
+      "apt",
+      "apropos"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "apposite 辨析组 (apposite.s.01)",
+    "synset_definition": "being of striking appropriateness and pertinence"
+  },
+  {
+    "group_id": 158,
+    "group_name": "archaic, old, antiquated, antediluvian",
+    "target_word": "archaic",
+    "words": [
+      "archaic",
+      "old",
+      "antiquated",
+      "antediluvian"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "archaic 辨析组 (antediluvian.s.02)",
+    "synset_definition": "so extremely old as seeming to belong to an earlier period"
+  },
+  {
+    "group_id": 159,
+    "group_name": "ardent, torrid, fervent, impassioned",
+    "target_word": "ardent",
+    "words": [
+      "ardent",
+      "torrid",
+      "fervent",
+      "impassioned"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "ardent 辨析组 (ardent.s.01)",
+    "synset_definition": "characterized by intense emotion"
+  },
+  {
+    "group_id": 160,
+    "group_name": "arduous, laborious, backbreaking, hard",
+    "target_word": "arduous",
+    "words": [
+      "arduous",
+      "laborious",
+      "backbreaking",
+      "hard"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "arduous 辨析组 (arduous.s.01)",
+    "synset_definition": "characterized by effort to the point of exhaustion; especially physical effort"
+  },
+  {
+    "group_id": 161,
+    "group_name": "artful, twisted, distorted, perverted",
+    "target_word": "artful",
+    "words": [
+      "artful",
+      "twisted",
+      "distorted",
+      "perverted"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "artful 辨析组 (disingenuous.a.01)",
+    "synset_definition": "not straightforward or candid; giving a false appearance of frankness; - David Cannadine"
+  },
+  {
+    "group_id": 162,
+    "group_name": "ascendant, ascensive, ascendent, ascending",
+    "target_word": "ascendant",
+    "words": [
+      "ascendant",
+      "ascensive",
+      "ascendent",
+      "ascending"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "ascendant 辨析组 (ascendant.s.01)",
+    "synset_definition": "tending or directed upward; - John Ruskin"
+  },
+  {
+    "group_id": 163,
+    "group_name": "ascetic, austere, spartan, ascetical",
+    "target_word": "ascetic",
+    "words": [
+      "ascetic",
+      "austere",
+      "spartan",
+      "ascetical"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "ascetic 辨析组 (ascetic.s.02)",
+    "synset_definition": "practicing great self-denial; - William James"
+  },
+  {
+    "group_id": 164,
+    "group_name": "assertive, cocky, forceful, emphatic",
+    "target_word": "assertive",
+    "words": [
+      "assertive",
+      "cocky",
+      "forceful",
+      "emphatic"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "assertive 辨析组 (assertive.a.01)",
+    "synset_definition": "aggressively self-assured"
+  },
+  {
+    "group_id": 165,
+    "group_name": "assorted, sundry, motley, miscellaneous",
+    "target_word": "assorted",
+    "words": [
+      "assorted",
+      "sundry",
+      "motley",
+      "miscellaneous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "assorted 辨析组 (assorted.s.01)",
+    "synset_definition": "consisting of a haphazard assortment of different kinds; ; ; ; ; ; - I.A.Richards"
+  },
+  {
+    "group_id": 166,
+    "group_name": "asymmetric, lopsided, unsymmetric, asymmetrical",
+    "target_word": "asymmetric",
+    "words": [
+      "asymmetric",
+      "lopsided",
+      "unsymmetric",
+      "asymmetrical"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "asymmetric 辨析组 (asymmetrical.a.01)",
+    "synset_definition": "characterized by asymmetry in the spatial arrangement or placement of parts or components"
+  },
+  {
+    "group_id": 167,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "target_word": "atrocious",
+    "words": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "atrocious 辨析组 (atrocious.s.01)",
+    "synset_definition": "shockingly brutal or cruel"
+  },
+  {
+    "group_id": 168,
+    "group_name": "audacious, dauntless, bold, brave",
+    "target_word": "audacious",
+    "words": [
+      "audacious",
+      "dauntless",
+      "bold",
+      "brave"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "audacious 辨析组 (audacious.s.01)",
+    "synset_definition": "invulnerable to fear or intimidation"
+  },
+  {
+    "group_id": 169,
+    "group_name": "audible, sonic, clunky, sounding",
+    "target_word": "audible",
+    "words": [
+      "audible",
+      "sonic",
+      "clunky",
+      "sounding"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "audible 辨析组 (audible.a.01)",
+    "synset_definition": "heard or perceptible by the ear"
+  },
+  {
+    "group_id": 170,
+    "group_name": "august, grand, noble, lordly",
+    "target_word": "august",
+    "words": [
+      "august",
+      "grand",
+      "noble",
+      "lordly"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "august 辨析组 (august.s.01)",
+    "synset_definition": "of or befitting a lord"
+  },
+  {
+    "group_id": 171,
+    "group_name": "auspicious, rosy, bright, hopeful",
+    "target_word": "auspicious",
+    "words": [
+      "auspicious",
+      "rosy",
+      "bright",
+      "hopeful"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "auspicious 辨析组 (auspicious.a.01)",
+    "synset_definition": "auguring favorable circumstances and good luck"
+  },
+  {
+    "group_id": 172,
+    "group_name": "authoritarian, tyrannical, autocratic, despotic",
+    "target_word": "authoritarian",
+    "words": [
+      "authoritarian",
+      "tyrannical",
+      "autocratic",
+      "despotic"
+    ],
+    "pos": "adj",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "authoritarian 辨析组 (authoritarian.s.01)",
+    "synset_definition": "characteristic of an absolute ruler or absolute rule; having absolute sovereignty"
+  },
+  {
+    "group_id": 173,
+    "group_name": "avid, desirous, greedy, wishful",
+    "target_word": "avid",
+    "words": [
+      "avid",
+      "desirous",
+      "greedy",
+      "wishful"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "avid 辨析组 (avid.s.01)",
+    "synset_definition": "(often followed by `for') ardently or excessively desirous"
+  },
+  {
+    "group_id": 174,
+    "group_name": "awesome, awing, awful, amazing",
+    "target_word": "awesome",
+    "words": [
+      "awesome",
+      "awing",
+      "awful",
+      "amazing"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "awesome 辨析组 (amazing.s.02)",
+    "synset_definition": "inspiring awe or admiration or wonder; ; ; ; - Melville"
+  },
+  {
+    "group_id": 175,
+    "group_name": "baleful, ominous, forbidding, menacing",
+    "target_word": "baleful",
+    "words": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "menacing"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "baleful 辨析组 (baleful.s.02)",
+    "synset_definition": "threatening or foreshadowing evil or tragic developments"
+  },
+  {
+    "group_id": 176,
+    "group_name": "balmy, daft, buggy, haywire",
+    "target_word": "balmy",
+    "words": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "balmy 辨析组 (balmy.s.01)",
+    "synset_definition": "informal or slang terms for mentally irregular"
+  },
+  {
+    "group_id": 177,
+    "group_name": "banal, hackneyed, threadbare, stock",
+    "target_word": "banal",
+    "words": [
+      "banal",
+      "hackneyed",
+      "threadbare",
+      "stock"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "banal 辨析组 (banal.s.01)",
+    "synset_definition": "repeated too often; overfamiliar through overuse"
+  },
+  {
+    "group_id": 178,
+    "group_name": "baroque, fancy, churrigueresco, churrigueresque",
+    "target_word": "baroque",
+    "words": [
+      "baroque",
+      "fancy",
+      "churrigueresco",
+      "churrigueresque"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "baroque 辨析组 (baroque.s.01)",
+    "synset_definition": "having elaborate symmetrical ornamentation; -William Dean Howells"
+  },
+  {
+    "group_id": 179,
+    "group_name": "beastly, brutish, brute, brutal",
+    "target_word": "beastly",
+    "words": [
+      "beastly",
+      "brutish",
+      "brute",
+      "brutal"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "beastly 辨析组 (beastly.s.02)",
+    "synset_definition": "resembling a beast; showing lack of human sensibility"
+  },
+  {
+    "group_id": 180,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "target_word": "bemused",
+    "words": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bemused 辨析组 (bemused.s.01)",
+    "synset_definition": "deeply absorbed in thought"
+  },
+  {
+    "group_id": 181,
+    "group_name": "benevolent, kind, kindly, charitable",
+    "target_word": "benevolent",
+    "words": [
+      "benevolent",
+      "kind",
+      "kindly",
+      "charitable"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "benevolent 辨析组 (charitable.s.03)",
+    "synset_definition": "showing or motivated by sympathy and understanding and generosity"
+  },
+  {
+    "group_id": 182,
+    "group_name": "bereaved, bereft, mourning, grieving",
+    "target_word": "bereaved",
+    "words": [
+      "bereaved",
+      "bereft",
+      "mourning",
+      "grieving"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "bereaved 辨析组 (bereaved.s.01)",
+    "synset_definition": "sorrowful through loss or deprivation"
+  },
+  {
+    "group_id": 183,
+    "group_name": "bipartisan, bipartizan, nonpartizan, nonpartisan",
+    "target_word": "bipartisan",
+    "words": [
+      "bipartisan",
+      "bipartizan",
+      "nonpartizan",
+      "nonpartisan"
+    ],
+    "pos": "adj",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bipartisan 辨析组 (bipartisan.s.01)",
+    "synset_definition": "supported by both sides"
+  },
+  {
+    "group_id": 184,
+    "group_name": "bizarre, outlandish, gonzo, outre",
+    "target_word": "bizarre",
+    "words": [
+      "bizarre",
+      "outlandish",
+      "gonzo",
+      "outre"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bizarre 辨析组 (bizarre.s.01)",
+    "synset_definition": "conspicuously or grossly unconventional or unusual"
+  },
+  {
+    "group_id": 185,
+    "group_name": "blatant, blazing, unconcealed, conspicuous",
+    "target_word": "blatant",
+    "words": [
+      "blatant",
+      "blazing",
+      "unconcealed",
+      "conspicuous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "blatant 辨析组 (blatant.s.01)",
+    "synset_definition": "without any attempt at concealment; completely obvious"
+  },
+  {
+    "group_id": 186,
+    "group_name": "bogus, counterfeit, fake, phony",
+    "target_word": "bogus",
+    "words": [
+      "bogus",
+      "counterfeit",
+      "fake",
+      "phony"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bogus 辨析组 (bogus.s.01)",
+    "synset_definition": "fraudulent; having a misleading appearance"
+  },
+  {
+    "group_id": 187,
+    "group_name": "boisterous, unruly, disorderly, robustious",
+    "target_word": "boisterous",
+    "words": [
+      "boisterous",
+      "unruly",
+      "disorderly",
+      "robustious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "boisterous 辨析组 (boisterous.s.01)",
+    "synset_definition": "noisy and lacking in restraint or discipline"
+  },
+  {
+    "group_id": 188,
+    "group_name": "bountiful, big, giving, liberal",
+    "target_word": "bountiful",
+    "words": [
+      "bountiful",
+      "big",
+      "giving",
+      "liberal"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "bountiful 辨析组 (big.s.12)",
+    "synset_definition": "given or giving freely"
+  },
+  {
+    "group_id": 189,
+    "group_name": "brash, nervy, cheeky, forward",
+    "target_word": "brash",
+    "words": [
+      "brash",
+      "nervy",
+      "cheeky",
+      "forward"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "brash 辨析组 (brash.s.01)",
+    "synset_definition": "offensively bold"
+  },
+  {
+    "group_id": 190,
+    "group_name": "brittle, brickly, brickle, breakable",
+    "target_word": "brittle",
+    "words": [
+      "brittle",
+      "brickly",
+      "brickle",
+      "breakable"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "brittle 辨析组 (brittle.s.01)",
+    "synset_definition": "having little elasticity; hence easily cracked or fractured or snapped"
+  },
+  {
+    "group_id": 191,
+    "group_name": "abacus, adder, quipu, counter",
+    "target_word": "abacus",
+    "words": [
+      "abacus",
+      "adder",
+      "quipu",
+      "counter"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abacus 辨析组 (abacus.n.02)",
+    "synset_definition": "a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves"
+  },
+  {
+    "group_id": 192,
+    "group_name": "abbreviation, root, base, stem",
+    "target_word": "abbreviation",
+    "words": [
+      "abbreviation",
+      "root",
+      "base",
+      "stem"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abbreviation 辨析组 (abbreviation.n.01)",
+    "synset_definition": "a shortened form of a word or phrase"
+  },
+  {
+    "group_id": 193,
+    "group_name": "abdominal, sura, calf, psoas",
+    "target_word": "abdominal",
+    "words": [
+      "abdominal",
+      "sura",
+      "calf",
+      "psoas"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "abdominal 辨析组 (abdominal.n.01)",
+    "synset_definition": "the muscles of the abdomen"
+  },
+  {
+    "group_id": 194,
+    "group_name": "abnormality, sleep, arousal, sedation",
+    "target_word": "abnormality",
+    "words": [
+      "abnormality",
+      "sleep",
+      "arousal",
+      "sedation"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abnormality 辨析组 (abnormality.n.01)",
+    "synset_definition": "an abnormal physical condition resulting from defective genes or developmental deficiencies"
+  },
+  {
+    "group_id": 195,
+    "group_name": "abode, domicile, home, dwelling",
+    "target_word": "abode",
+    "words": [
+      "abode",
+      "domicile",
+      "home",
+      "dwelling"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abode 辨析组 (dwelling.n.01)",
+    "synset_definition": "housing that someone is living in"
+  },
+  {
+    "group_id": 196,
+    "group_name": "absentee, flier, transient, mover",
+    "target_word": "absentee",
+    "words": [
+      "absentee",
+      "flier",
+      "transient",
+      "mover"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "absentee 辨析组 (absentee.n.01)",
+    "synset_definition": "one that is absent or not in residence"
+  },
+  {
+    "group_id": 197,
+    "group_name": "abstention, austerity, abstinence, continency",
+    "target_word": "abstention",
+    "words": [
+      "abstention",
+      "austerity",
+      "abstinence",
+      "continency"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "abstention 辨析组 (abstinence.n.01)",
+    "synset_definition": "the trait of abstaining (especially from alcohol)"
+  },
+  {
+    "group_id": 198,
+    "group_name": "accompanist, oboist, singer, harper",
+    "target_word": "accompanist",
+    "words": [
+      "accompanist",
+      "oboist",
+      "singer",
+      "harper"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "accompanist 辨析组 (accompanist.n.01)",
+    "synset_definition": "a person who provides musical accompaniment (usually on a piano)"
+  },
+  {
+    "group_id": 199,
+    "group_name": "accomplice, confederate, aide, model",
+    "target_word": "accomplice",
+    "words": [
+      "accomplice",
+      "confederate",
+      "aide",
+      "model"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "accomplice 辨析组 (accomplice.n.01)",
+    "synset_definition": "a person who joins with another in carrying out some plan (especially an unethical or illegal plan)"
+  },
+  {
+    "group_id": 200,
+    "group_name": "accountancy, game, post, spot",
+    "target_word": "accountancy",
+    "words": [
+      "accountancy",
+      "game",
+      "post",
+      "spot"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "accountancy 辨析组 (accountancy.n.01)",
+    "synset_definition": "the occupation of maintaining and auditing records and preparing financial reports for a business"
+  },
+  {
+    "group_id": 201,
+    "group_name": "acquittal, sentence, conviction, condemnation",
+    "target_word": "acquittal",
+    "words": [
+      "acquittal",
+      "sentence",
+      "conviction",
+      "condemnation"
+    ],
+    "pos": "n",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "acquittal 辨析组 (acquittal.n.01)",
+    "synset_definition": "a judgment of not guilty"
+  },
+  {
+    "group_id": 202,
+    "group_name": "acrimony, jaundice, tartness, acerbity",
+    "target_word": "acrimony",
+    "words": [
+      "acrimony",
+      "jaundice",
+      "tartness",
+      "acerbity"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "acrimony 辨析组 (bitterness.n.02)",
+    "synset_definition": "a rough and bitter manner"
+  },
+  {
+    "group_id": 203,
+    "group_name": "actuality, animation, life, living",
+    "target_word": "actuality",
+    "words": [
+      "actuality",
+      "animation",
+      "life",
+      "living"
+    ],
+    "pos": "n",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "actuality 辨析组 (actuality.n.01)",
+    "synset_definition": "the state of actually existing objectively"
+  },
+  {
+    "group_id": 204,
+    "group_name": "acumen, node, fuzz, spur",
+    "target_word": "acumen",
+    "words": [
+      "acumen",
+      "node",
+      "fuzz",
+      "spur"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "acumen 辨析组 (acumen.n.01)",
+    "synset_definition": "a tapering point"
+  },
+  {
+    "group_id": 205,
+    "group_name": "ado, bustle, flurry, fuss",
+    "target_word": "ado",
+    "words": [
+      "ado",
+      "bustle",
+      "flurry",
+      "fuss"
+    ],
+    "pos": "n",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "ado 辨析组 (bustle.n.01)",
+    "synset_definition": "a rapid active commotion"
+  },
+  {
+    "group_id": 206,
+    "group_name": "advent, noel, lent, yule",
+    "target_word": "advent",
+    "words": [
+      "advent",
+      "noel",
+      "lent",
+      "yule"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "advent 辨析组 (advent.n.02)",
+    "synset_definition": "the season including the four Sundays preceding Christmas"
+  },
+  {
+    "group_id": 207,
+    "group_name": "adversary, opposer, opponent, resister",
+    "target_word": "adversary",
+    "words": [
+      "adversary",
+      "opposer",
+      "opponent",
+      "resister"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "adversary 辨析组 (adversary.n.01)",
+    "synset_definition": "someone who offers opposition"
+  },
+  {
+    "group_id": 208,
+    "group_name": "adversity, sewer, toilet, gutter",
+    "target_word": "adversity",
+    "words": [
+      "adversity",
+      "sewer",
+      "toilet",
+      "gutter"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "adversity 辨析组 (adversity.n.01)",
+    "synset_definition": "a state of misfortune or affliction"
+  },
+  {
+    "group_id": 209,
+    "group_name": "advocacy, blessing, approval, adhesion",
+    "target_word": "advocacy",
+    "words": [
+      "advocacy",
+      "blessing",
+      "approval",
+      "adhesion"
+    ],
+    "pos": "n",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "advocacy 辨析组 (advocacy.n.01)",
+    "synset_definition": "active support of an idea or cause etc.; especially the act of pleading or arguing for something"
+  },
+  {
+    "group_id": 210,
+    "group_name": "aerobatics, sortie, solo, pass",
+    "target_word": "aerobatics",
+    "words": [
+      "aerobatics",
+      "sortie",
+      "solo",
+      "pass"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aerobatics 辨析组 (acrobatics.n.02)",
+    "synset_definition": "the performance of stunts while in flight in an aircraft"
+  },
+  {
+    "group_id": 211,
+    "group_name": "aerodynamics, dynamics, statics, kinetics",
+    "target_word": "aerodynamics",
+    "words": [
+      "aerodynamics",
+      "dynamics",
+      "statics",
+      "kinetics"
+    ],
+    "pos": "n",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aerodynamics 辨析组 (aeromechanics.n.01)",
+    "synset_definition": "the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow"
+  },
+  {
+    "group_id": 212,
+    "group_name": "aerosol, coma, nebula, mushroom",
+    "target_word": "aerosol",
+    "words": [
+      "aerosol",
+      "coma",
+      "nebula",
+      "mushroom"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "aerosol 辨析组 (aerosol.n.01)",
+    "synset_definition": "a cloud of solid or liquid particles in a gas"
+  },
+  {
+    "group_id": 213,
+    "group_name": "aerospace, mare, air, side",
+    "target_word": "aerospace",
+    "words": [
+      "aerospace",
+      "mare",
+      "air",
+      "side"
+    ],
+    "pos": "n",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aerospace 辨析组 (aerospace.n.01)",
+    "synset_definition": "the atmosphere and outer space considered as a whole"
+  },
+  {
+    "group_id": 214,
+    "group_name": "affinity, magnetism, bond, gravity",
+    "target_word": "affinity",
+    "words": [
+      "affinity",
+      "magnetism",
+      "bond",
+      "gravity"
+    ],
+    "pos": "n",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "affinity 辨析组 (affinity.n.01)",
+    "synset_definition": "(immunology) the attraction between an antigen and an antibody"
+  },
+  {
+    "group_id": 215,
+    "group_name": "agitation, trance, trauma, hypnosis",
+    "target_word": "agitation",
+    "words": [
+      "agitation",
+      "trance",
+      "trauma",
+      "hypnosis"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "agitation 辨析组 (agitation.n.01)",
+    "synset_definition": "a mental state of extreme emotional disturbance"
+  },
+  {
+    "group_id": 216,
+    "group_name": "aids, mumps, polio, mono",
+    "target_word": "aids",
+    "words": [
+      "aids",
+      "mumps",
+      "polio",
+      "mono"
+    ],
+    "pos": "n",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "aids 辨析组 (aids.n.01)",
+    "synset_definition": "a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles"
+  },
+  {
+    "group_id": 217,
+    "group_name": "ailment, ill, sprue, choking",
+    "target_word": "ailment",
+    "words": [
+      "ailment",
+      "ill",
+      "sprue",
+      "choking"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "ailment 辨析组 (ailment.n.01)",
+    "synset_definition": "an often persistent bodily disorder or disease; a cause for complaining"
+  },
+  {
+    "group_id": 218,
+    "group_name": "airlift, lift, carry, drive",
+    "target_word": "airlift",
+    "words": [
+      "airlift",
+      "lift",
+      "carry",
+      "drive"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "airlift 辨析组 (airlift.n.01)",
+    "synset_definition": "transportation of people or goods by air (especially when other means of access are unavailable)"
+  },
+  {
+    "group_id": 219,
+    "group_name": "airstrip, drome, strip, airport",
+    "target_word": "airstrip",
+    "words": [
+      "airstrip",
+      "drome",
+      "strip",
+      "airport"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "airstrip 辨析组 (airstrip.n.01)",
+    "synset_definition": "an airfield without normal airport facilities"
+  },
+  {
+    "group_id": 220,
+    "group_name": "alchemy, dealings, politics, chemistry",
+    "target_word": "alchemy",
+    "words": [
+      "alchemy",
+      "dealings",
+      "politics",
+      "chemistry"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "alchemy 辨析组 (chemistry.n.03)",
+    "synset_definition": "the way two individuals relate to each other"
+  },
+  {
+    "group_id": 221,
+    "group_name": "alcoholism, egomania, potomania, agromania",
+    "target_word": "alcoholism",
+    "words": [
+      "alcoholism",
+      "egomania",
+      "potomania",
+      "agromania"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "theme_label": "alcoholism 辨析组 (dipsomania.n.01)",
+    "synset_definition": "an intense persistent desire to drink alcoholic beverages to excess"
+  },
+  {
+    "group_id": 222,
+    "group_name": "alias, brand, title, marque",
+    "target_word": "alias",
+    "words": [
+      "alias",
+      "brand",
+      "title",
+      "marque"
+    ],
+    "pos": "n",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "alias 辨析组 (alias.n.01)",
+    "synset_definition": "a name that has been assumed temporarily"
+  },
+  {
+    "group_id": 223,
+    "group_name": "alibi, excuse, apology, apologia",
+    "target_word": "alibi",
+    "words": [
+      "alibi",
+      "excuse",
+      "apology",
+      "apologia"
+    ],
+    "pos": "n",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "theme_label": "alibi 辨析组 (alibi.n.01)",
+    "synset_definition": "(law) a defense by an accused person purporting to show that he or she could not have committed the crime in question"
+  },
+  {
+    "group_id": 224,
+    "group_name": "alkali, incense, repellent, base",
+    "target_word": "alkali",
+    "words": [
+      "alkali",
+      "incense",
+      "repellent",
+      "base"
+    ],
+    "pos": "n",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "alkali 辨析组 (base.n.10)",
+    "synset_definition": "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water"
+  },
+  {
+    "group_id": 225,
+    "group_name": "allegiance, loyalty, commitment, dedication",
+    "target_word": "allegiance",
+    "words": [
+      "allegiance",
+      "loyalty",
+      "commitment",
+      "dedication"
+    ],
+    "pos": "n",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "allegiance 辨析组 (commitment.n.02)",
+    "synset_definition": "the act of binding yourself (intellectually or emotionally) to a course of action"
+  }
+]

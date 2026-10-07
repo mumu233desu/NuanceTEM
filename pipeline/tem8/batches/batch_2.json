@@ -1,0 +1,922 @@
+[
+  {
+    "id": "tem8_c2_01",
+    "group_id": 47,
+    "group_name": "infringe, transgress, violate, contravene",
+    "level": "TEM-8",
+    "target_word": "infringe",
+    "question": "The university legal counsel argued that the state ministry's intrusive mandate would unconstitutionally ___ on academic freedom and institutional autonomy, eroding centuries of empirical independence.",
+    "options": ["infringe", "transgress", "violate", "contravene"],
+    "answer": "infringe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "介词 'on' 与 'academic freedom' 构成绝对语法排他线索：infringe on 为固定搭配，其余三项在此处均产生严重句法破格。",
+    "distractor_analysis": {
+      "infringe": "正确。v. 与介词 on/upon 构成固定搭配（infringe on/upon rights/freedom），表示“侵犯、侵害（权利或自由）”，句法与语境完全吻合。",
+      "transgress": "错误。v. 表示“越界、违反（道德/戒律）”，作及物动词或接介词 against（transgress against），不可与 on 搭配使用，在此产生句法破格。",
+      "violate": "错误。v. 属于纯及物动词，直接接宾语（violate academic freedom），严禁接介词 on，*violate on* 属于基础句法错误。",
+      "contravene": "错误。v. 同样为及物动词，专指“抵触、违反（法律法规/章程）”（contravene statutory provisions），后不可跟介词 on。"
+    },
+    "translation": "大学法律顾问辩称，州政府部门强加的干预性指令将在宪法层面上侵犯学术自由与院校自治，进而侵蚀数百年来的实证独立传统。"
+  },
+  {
+    "id": "tem8_c2_02",
+    "group_id": 47,
+    "group_name": "infringe, transgress, violate, contravene",
+    "level": "TEM-8",
+    "target_word": "transgress",
+    "question": "The epistemologist maintained that dogmatic assertions in empirical science inevitably ___ against the fundamental ethos of open inquiry, reducing objective skepticism to ideological orthodoxy.",
+    "options": ["infringe", "transgress", "violate", "contravene"],
+    "answer": "transgress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "介词 'against' 是决定性语法题眼：transgress against 专指违背道德准则、科学精神或戒律；其余三项接 against 均为严重句法错误。",
+    "distractor_analysis": {
+      "transgress": "正确。v. 与介词 against 构成固定搭配（transgress against divine/moral law or ethos），指“背离、违犯（道德信念/基本精神）”，语义与句法完美匹配。",
+      "infringe": "错误。v. 不及物用法仅与 on/upon 搭配（infringe on），绝不可接介词 against，句法断裂。",
+      "violate": "错误。v. 为纯及物动词（violate the ethos），直接加宾语，*violate against* 存在严重语法破格。",
+      "contravene": "错误。v. 亦为纯及物动词（contravene regulations/laws），不可接介词 against，句法不成立。"
+    },
+    "translation": "这位认识论学者坚持认为，实证科学中教条式的断言不可避免地违背了开放式探索的基本精神，将客观怀疑精神贬低为意识形态的正统说教。"
+  },
+  {
+    "id": "tem8_c2_03",
+    "group_id": 48,
+    "group_name": "alienate, estrange, disaffect, separate",
+    "level": "TEM-8",
+    "target_word": "alienate",
+    "question": "The theorist's polemical tone and dismissive treatment of quantitative methodology served ultimately to ___ the empirical researchers whose peer support was crucial for validating the paradigm.",
+    "options": ["alienate", "estrange", "disaffect", "separate"],
+    "answer": "alienate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "宾语 'the empirical researchers' 与前文辩难语调结合：alienate 专指因过激言论或孤傲态度使同行、受众疏远或产生敌意；estrange 偏向家庭/婚姻亲情断裂。",
+    "distractor_analysis": {
+      "alienate": "正确。v. 指通过过激言辞或独断行为使同行群体、受众产生疏离、冷漠或敌意（alienate peers/readers），高度契合学术语境。",
+      "estrange": "错误。v. 核心语义指家庭成员、夫妻或密友之间亲密感情的破裂与疏远（estranged spouse/family），用于同行学者之间存在明显的语域与语境偏离。",
+      "disaffect": "错误。v. 专指使臣民、士兵或下属对统治者、权力机构产生政治上的不满、疏离或叛离（disaffect subjects/troops），不可用于同行学术争鸣。",
+      "separate": "错误。v. 仅指空间物理或概念上的客观分隔与隔离，缺乏引起人际情感隔阂或敌对的心理学语义内涵。"
+    },
+    "translation": "该理论家激烈的辩难语调及其对定量研究方法的贬低态度，最终反而疏远了实证研究人员，而这些同行的支持对于确立该范式至关重要。"
+  },
+  {
+    "id": "tem8_c2_04",
+    "group_id": 48,
+    "group_name": "alienate, estrange, disaffect, separate",
+    "level": "TEM-8",
+    "target_word": "disaffect",
+    "question": "Persistent administrative opacity and unequal grant allocations threatened to ___ the research fellows, fostering systemic disloyalty and institutional cynicism toward the university leadership.",
+    "options": ["alienate", "estrange", "disaffect", "separate"],
+    "answer": "disaffect",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "后文 'fostering systemic disloyalty and institutional cynicism toward the university leadership'（催生制度性不忠与对领导层的犬儒态度）是绝对语义题眼，精准对应 disaffect 指煽动对体制/权威的离心背德之核心含义。",
+    "distractor_analysis": {
+      "disaffect": "正确。v. 专指因遭受不公待遇而对所属组织、权威机构或领导层产生强烈不满、离心倾向与不忠诚（fostering disloyalty），语义严丝合缝。",
+      "alienate": "错误。v. 语义宽泛，仅表示让人心生疏远或敌意，缺乏对上级权威产生“背叛不忠、丧失归属感”的制度性对抗色彩。",
+      "estrange": "错误。v. 侧重于私人亲情或婚姻情感的离异与隔阂，无法与后文对校方领导层的制度性背离产生逻辑共振。",
+      "separate": "错误。v. 纯粹表示物理分离或职务切割，毫无对权威产生心理怨愤与忠诚度瓦解的内涵。"
+    },
+    "translation": "持续的管理不透明和不平等的科研经费分配有可能使研究员们离心离德，从而在他们心中滋生对大学领导层的系统性不忠和体制性冷漠。"
+  },
+  {
+    "id": "tem8_c2_05",
+    "group_id": 49,
+    "group_name": "subjugate, vanquish, subdue, conquer",
+    "level": "TEM-8",
+    "target_word": "subjugate",
+    "question": "The methodological critique warned that the author's deductive framework tended to ___ empirical observations to preconceived ideological dogmas, sacrificing factual accuracy for theoretical elegance.",
+    "options": ["subjugate", "vanquish", "subdue", "conquer"],
+    "answer": "subjugate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "搭配结构 '___ [X] to [preconceived dogmas]'（使经验观察屈从/臣服于先入为主的教条）形成排他性搭配：subjugate ... to 专指使某物处于屈从、附庸地位。",
+    "distractor_analysis": {
+      "subjugate": "正确。v. 构成 subjugate A to B 结构，指“使……屈从于、受制于（教条/权力）”，在此精准表达事实被迫附庸于意识形态。",
+      "vanquish": "错误。v. 表示在战争或竞赛中彻底击败对手，不可构成 *vanquish A to B* 的使役屈从搭配，句法不通。",
+      "subdue": "错误。v. 指武力制服、抑制情绪或平息骚乱（subdue one's anger），不用于抽象认知体系中使事实从属于教条的搭配。",
+      "conquer": "错误。v. 专指征服领土、克服困难或战胜恶习（conquer obstacles），不可与介词 to 搭配表示逻辑上的从属服从。"
+    },
+    "translation": "这篇方法论批判警示道，该学者的演绎框架往往使实证观察屈从于先入为主的意识形态教条，为了理论的形式优美而牺牲了事实的真实性。"
+  },
+  {
+    "id": "tem8_c2_06",
+    "group_id": 49,
+    "group_name": "subjugate, vanquish, subdue, conquer",
+    "level": "TEM-8",
+    "target_word": "vanquish",
+    "question": "In the landmark debate over quantum mechanics, the empirical physicist sought to decisively ___ his rival's deterministic hypothesis by presenting indisputable particle collision data.",
+    "options": ["subjugate", "vanquish", "subdue", "conquer"],
+    "answer": "vanquish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "'decisively ___ his rival's deterministic hypothesis'（彻底击溃对手的确定论假说）结合学术争鸣语境，vanquish 专指在论战或竞争中彻底击败、摧毁对手的主张。",
+    "distractor_analysis": {
+      "vanquish": "正确。v. 指在智识论战、公开较量中彻底击溃、战胜敌手或其对立假说（vanquish a rival's hypothesis），文体庄重典雅。",
+      "subjugate": "错误。v. 指将人或地区置于持续统治之下（奴役、征服为臣民），不能用于在辩论中驳倒某项假说。",
+      "subdue": "错误。v. 侧重于压制、减弱冲动、情绪或平息暴乱（subdue the unrest），无法表达论战中“彻底驳倒”的决胜性。",
+      "conquer": "错误。v. 侧重攻克地理要塞、克服技术难关或战胜个人恐惧（conquer nature/fear），不用于学术学术论辩击溃敌论。"
+    },
+    "translation": "在关于量子力学的里程碑式辩论中，这位实证物理学家试图通过展示无可辩驳的粒子碰撞数据，彻底击溃其对手的决定论假说。"
+  },
+  {
+    "id": "tem8_c2_07",
+    "group_id": 50,
+    "group_name": "usurp, arrogate, appropriate, seize",
+    "level": "TEM-8",
+    "target_word": "arrogate",
+    "question": "The principal investigator was reprimanded by the ethics committee for attempting to ___ to himself the exclusive intellectual authorship of a multi-center collaborative clinical trial.",
+    "options": ["usurp", "arrogate", "appropriate", "seize"],
+    "answer": "arrogate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "反身与与格结构 '___ to himself the exclusive intellectual authorship' 是绝对语法排他线索：arrogate to oneself 专指擅自揽权、冒领权益；其余三项无法接入该句型。",
+    "distractor_analysis": {
+      "arrogate": "正确。v. 专用于 arrogate to oneself 句型，表示“擅自为自己索取/妄取（名誉、权力或著作权）”，句法和语义完全匹配。",
+      "usurp": "错误。v. 为及物动词，直接接宾语（usurp power/throne），不能接 *to oneself* 介词短语，句法严重破格。",
+      "appropriate": "错误。v. 指挪用公款或据为己有（appropriate funds），接直接宾语，不可用 *appropriate to himself* 表达此学术冒领句意。",
+      "seize": "错误。v. 意为突然抓住或扣押（seize an opportunity/assets），直接跟受词，*seize to himself* 属于非规范表达。"
+    },
+    "translation": "这位首席研究员受到了伦理委员会的训诫，因其试图将一项多中心协同临床试验的独家学术著作权据为己有。"
+  },
+  {
+    "id": "tem8_c2_08",
+    "group_id": 50,
+    "group_name": "usurp, arrogate, appropriate, seize",
+    "level": "TEM-8",
+    "target_word": "usurp",
+    "question": "The epistemologist cautioned that artificial intelligence algorithms must not be permitted to ___ the statutory prerogative of human peer reviewers in evaluating the qualitative merit of scholarship.",
+    "options": ["usurp", "arrogate", "appropriate", "seize"],
+    "answer": "usurp",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "宾语搭配 'the statutory prerogative of human peer reviewers'（人类同行评审员的法定特权）：usurp 专指非法篡夺、僭取正统职权或既定特权。",
+    "distractor_analysis": {
+      "usurp": "正确。v. 专指非法夺取、篡夺职能、特权或法定权力（usurp the prerogative/office/throne），在学术伦理与政治哲学语域中极为精准。",
+      "arrogate": "错误。v. 多用于声明不属于自己的权利或接反身代词（arrogate to oneself the right），在此作简单及物动词接 prerogative 搭配不契合。",
+      "appropriate": "错误。v. 侧重于非法占有或私自挪用有形财产、经费或文化符号（appropriate funds），不可用于篡夺法定特权与职责。",
+      "seize": "错误。v. 偏向动作性的猛抓、查封或夺取（seize control），缺乏“非法篡位、取代正当职权”的制度性僭越意味。"
+    },
+    "translation": "这位认识论学者告诫道，绝不能允许人工智能算法篡夺人类同行评审员在评判学术定性价值方面的法定特权。"
+  },
+  {
+    "id": "tem8_c2_09",
+    "group_id": 51,
+    "group_name": "evanescent, ephemeral, transient, fleeting",
+    "level": "TEM-8",
+    "target_word": "evanescent",
+    "question": "Due to the extreme instability of the synthesized isotope, the particle detector recorded merely an ___ trace of radiation that vanished like vapor within femtoseconds.",
+    "options": ["evanescent", "ephemeral", "transient", "fleeting"],
+    "answer": "evanescent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文 'vanished like vapor within femtoseconds'（在飞秒内如汽化般消散）与词源学核心含义（e- + vanescere，如烟云般消逝）产生绝对排他对应。",
+    "distractor_analysis": {
+      "evanescent": "正确。adj. 意为“如蒸气般消散的、转瞬即逝的”，词根源自 vapor，专指物理微观踪迹、光影瞬息化为乌有，与后文 vanished like vapor 形成绝妙呼应。",
+      "ephemeral": "错误。adj. 源自希腊语“只活一天的生物”，侧重生命周期短促或文化潮流的短暂流行（ephemeral trends），不用于微观粒子的汽化消散。",
+      "transient": "错误。adj. 强调“过境的、不常驻的”（如 transient workers/states），侧重过渡性与流动性，而非微观形态的消散无踪。",
+      "fleeting": "错误。adj. 偏文学与日常语域，多修饰短暂的主观情绪或瞥见（a fleeting glance/moment），在精密的粒子物理实证语境中显得文体不称。"
+    },
+    "translation": "由于所合成同位素的极度不稳定性，粒子探测器仅仅记录到了一道如烟雾般消散的辐射微痕，在飞秒级的时间内便化为乌有。"
+  },
+  {
+    "id": "tem8_c2_10",
+    "group_id": 51,
+    "group_name": "evanescent, ephemeral, transient, fleeting",
+    "level": "TEM-8",
+    "target_word": "ephemeral",
+    "question": "The sociologist argued that social media fads represent ___ cultural artifacts whose lifespan of mere weeks renders them useless as explanatory variables in longitudinal empirical research.",
+    "options": ["evanescent", "ephemeral", "transient", "fleeting"],
+    "answer": "ephemeral",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "主语 'social media fads' 与 'lifespan of mere weeks'（数周的生命周期）构成排他性线索：ephemeral 专指具有短暂生存周期、瞬息兴衰的文化或生物现象。",
+    "distractor_analysis": {
+      "ephemeral": "正确。adj. 专指生物存活周期极短或文化产物昙花一现（ephemeral cultural artifacts），与几周内的兴衰消亡完美呼应。",
+      "evanescent": "错误。adj. 指像水汽般迅速消解或难以捕捉的微弱迹象（evanescent vapor/light），不修饰具有实际社会存续期的文化狂热。",
+      "transient": "错误。adj. 强调在外居留的暂时性或状态的流转（transient population/symptoms），不突出文化产品内在生命周期的短促夭折。",
+      "fleeting": "错误。adj. 属于描述一刹那感受的通俗文体（fleeting smile），无法支撑社会学纵向实证研究的严谨学术论述。"
+    },
+    "translation": "这位社会学家指出，社交媒体的跟风狂热属于昙花一现的文化现象，其短短数周的生命周期使其无法作为纵向实证研究中的解释变量。"
+  },
+  {
+    "id": "tem8_c2_11",
+    "group_id": 52,
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "level": "TEM-8",
+    "target_word": "erratic",
+    "question": "The statistician discarded the preliminary sensor readings, explaining that the ___ spikes in the telemetry data stemmed from hardware calibration faults rather than genuine atmospheric fluctuations.",
+    "options": ["capricious", "mercurial", "volatile", "erratic"],
+    "answer": "erratic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "中心词 'spikes in the telemetry data'（遥测数据中的尖峰）结合校准错误语境：erratic 专用于形容数据、运动轨迹、心律或读数出现无规律的不规则偏移。",
+    "distractor_analysis": {
+      "erratic": "正确。adj. 统计学与仪器测量标准搭配（erratic readings/data/behavior），指数据缺乏规律、胡乱飘移或忽高忽低。",
+      "capricious": "错误。adj. 带有拟人化的“任性、反复无常”色彩（capricious ruler/winds），强调由变幻莫测的意志或冲动支配，不可修饰硬件数据异常。",
+      "mercurial": "错误。adj. 源自水银之变，专指人的性格、情绪多变或神采飞扬（mercurial temperament），绝对不可修饰数字测量结果。",
+      "volatile": "错误。adj. 指化学物质易挥发或局势容易剧烈爆发冲突（volatile market/chemicals），不能表达遥测数据无序跳跃的特征。"
+    },
+    "translation": "统计学家剔除了初步的传感器读数，解释称遥测数据中出现的忽高忽低的不规则突变源于硬件校准失误，而非真实的大气波动。"
+  },
+  {
+    "id": "tem8_c2_12",
+    "group_id": 52,
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "level": "TEM-8",
+    "target_word": "mercurial",
+    "question": "Biographers observed that the mathematician's ___ temperament—alternating unpredictably between bouts of manic analytical euphoria and brooding intellectual paralysis—severely impeded his ability to sustain collaborative research.",
+    "options": ["capricious", "mercurial", "volatile", "erratic"],
+    "answer": "mercurial",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "搭配词 'temperament' 以及破折号内对情绪大起大落的解释（狂喜与抑郁不测交替）：mercurial temperament 是学术传记领域的经典排他搭配。",
+    "distractor_analysis": {
+      "mercurial": "正确。adj. 固定学术传记搭配（mercurial temperament），专指人的才情与性情敏感多变、情绪在极度高亢与消沉之间变幻莫测。",
+      "capricious": "错误。adj. 侧重于行事的善变、任性与主观武断（如多变的决策），未能精准传达双相情绪般的才华波荡。",
+      "volatile": "错误。adj. 侧重于具有暴烈性、容易瞬间引爆冲突的危险状态（volatile temper 易怒），不强调分析狂热与忧郁瘫痪之间的心境交替。",
+      "erratic": "错误。adj. 侧重行动或轨迹的偏离常轨、不规律（erratic schedule），修饰性格时多指古怪异常，不及 mercurial 典雅精确。"
+    },
+    "translation": "传记作者指出，这位数学家水银泻地般多变的性情——不可预见地在狂热的分析亢奋与阴郁的思维停滞之间反复摆动——严重阻碍了他维持合作研究的能力。"
+  },
+  {
+    "id": "tem8_c2_13",
+    "group_id": 53,
+    "group_name": "pervasive, ubiquitous, omnipresent, prevalent",
+    "level": "TEM-8",
+    "target_word": "pervasive",
+    "question": "The peer review highlighted a ___ confirmation bias that subtly permeated every stage of the clinical trial, from patient recruitment to data interpretation.",
+    "options": ["pervasive", "ubiquitous", "omnipresent", "prevalent"],
+    "answer": "pervasive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文定语从句 'that subtly permeated every stage'（微妙渗透进每一个阶段）是绝对排他题眼：pervasive 词源即为渗透（permeating），专指无形偏见或影响由内而外浸润蔓延。",
+    "distractor_analysis": {
+      "pervasive": "正确。adj. 意为“弥漫的、无孔不入的”，专指某种不良风气、偏见或心理倾向由内向外深刻渗透（permeating everywhere），与后文 permeated 形成精准互文。",
+      "ubiquitous": "错误。adj. 侧重物理空间中实物或技术在各处普遍可见、随处存在（ubiquitous smartphones），不表达隐蔽侵入各流程的无形渗透。",
+      "omnipresent": "错误。adj. 属于神学或形而上学崇高语域，指神圣维度的“无所不在”，用于描述科研流程中的实验偏见属于严重的文体用词不当。",
+      "prevalent": "错误。adj. 统计学概念，表示某种现象、疾病在某一时期“普遍流行、广为存在”（prevalent disease），不包含由内向外深层浸润渗透的动态特征。"
+    },
+    "translation": "同行评审特别指出了一种无孔不入的确认偏误，该偏误微妙地渗透进了临床试验的每一个阶段，从招募患者直至数据解释。"
+  },
+  {
+    "id": "tem8_c2_14",
+    "group_id": 53,
+    "group_name": "pervasive, ubiquitous, omnipresent, prevalent",
+    "level": "TEM-8",
+    "target_word": "ubiquitous",
+    "question": "Although computational data-mining tools have become ___ across contemporary university laboratories, senior ethicists warn that automated pattern recognition cannot substitute for rigorous human skepticism.",
+    "options": ["pervasive", "ubiquitous", "omnipresent", "prevalent"],
+    "answer": "ubiquitous",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "主语是具体工具 'computational data-mining tools' 且范围是 'across contemporary university laboratories'：ubiquitous 专指工具、设备随处可见、普遍应用。",
+    "distractor_analysis": {
+      "ubiquitous": "正确。adj. 专指实体器械、技术手段或日用设施在客观空间中随处可见、无处不在（ubiquitous tools/technology），符合学术科技常态叙述。",
+      "pervasive": "错误。adj. 带有负面或浸染性色彩，多指无形气味、腐蚀性思想或偏见的弥漫渗透，不可用于描述普通数据分析工具的普遍普及。",
+      "omnipresent": "错误。adj. 语体过高，带有神圣泛在之意（如上帝 omnipresent），在讨论实验室软件工具普及率时显得夸大失当。",
+      "prevalent": "错误。adj. 侧重疾病、社会风尚或观点的流行（prevalent customs/views），通常不与实体科技工具构成此类表述搭配。"
+    },
+    "translation": "尽管计算数据挖掘工具在当今各大学实验室中已随处可见，但资深伦理学家警告称，自动模式识别绝不能取代严谨的人类怀疑精神。"
+  },
+  {
+    "id": "tem8_c2_15",
+    "group_id": 54,
+    "group_name": "perennial, interminable, perpetual, incessant",
+    "level": "TEM-8",
+    "target_word": "perennial",
+    "question": "Whether inductive reasoning can ever yield absolute epistemological certainty remains a ___ question that periodically resurfaces whenever a paradigm shift roils the scientific community.",
+    "options": ["perennial", "interminable", "perpetual", "incessant"],
+    "answer": "perennial",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰词与后文提示 'a ___ question that periodically resurfaces'（周期性重现的问题）：perennial question 为哲学与学术史经典排他搭配，指历久弥新、屡屡被重提的课题。",
+    "distractor_analysis": {
+      "perennial": "正确。adj. 学术哲学固定搭配（a perennial question/debate），专指跨越时代、年复一年周期性复活探讨的经典深层命题。",
+      "interminable": "错误。adj. 带有强烈的厌倦与折磨感，指令人厌烦的冗长、似乎永远不结（interminable delay/speeches），不可修饰崇高的哲学基本问题。",
+      "perpetual": "错误。adj. 强调不间断的物理永动或永恒延续（perpetual motion），不表达周期性冬去春来般重现的特征。",
+      "incessant": "错误。adj. 专指持续不断、令人心烦意乱的物理噪音、活动或喋喋不休（incessant noise/rain），搭配 question 违背学术用法。"
+    },
+    "translation": "归纳推理能否产生绝对的认识论确定性，依然是一个历久弥新的经典命题，每当科学界爆发范式转移的震荡时，它都会周期性地重新浮出水面。"
+  },
+  {
+    "id": "tem8_c2_16",
+    "group_id": 54,
+    "group_name": "perennial, interminable, perpetual, incessant",
+    "level": "TEM-8",
+    "target_word": "interminable",
+    "question": "Exasperated by the ___ tenure review meetings that dragged on for months without reaching consensus, the prominent biochemist accepted a competing professorship in Zurich.",
+    "options": ["perennial", "interminable", "perpetual", "incessant"],
+    "answer": "interminable",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "前文的情感定调 'Exasperated by'（对……感到极其恼怒厌烦）与 'dragged on for months without reaching consensus'（拖延数月未达成共识）直接锚定带有烦躁贬义色彩的 interminable。",
+    "distractor_analysis": {
+      "interminable": "正确。adj. 专指令人极度厌烦、似乎无休无止且毫无建树的漫长过程（interminable meetings），完美呼应开篇的 exasperated。",
+      "perennial": "错误。adj. 为中性或褒义词，指常青的、周期性重现的经典话题，不能表达行政评审会议冗长折磨人、令人出走的情感色彩。",
+      "perpetual": "错误。adj. 描述客观上永久存在或长年不息的状态（perpetual snow），不能表达主观上因拖沓而感到的无休止。",
+      "incessant": "错误。adj. 强调声音、动作毫无间断的高频持续发生（如 incessant pounding），修饰断续举行的系列行政评审会议搭配不当。"
+    },
+    "translation": "由于对拖延数月却未达成任何共识的冗长终身教职评审会感到忍无可忍，这位著名的生物化学家接受了苏黎世一所大学的教授席位。"
+  },
+  {
+    "id": "tem8_c2_17",
+    "group_id": 55,
+    "group_name": "sporadic, intermittent, periodic, fitful",
+    "level": "TEM-8",
+    "target_word": "sporadic",
+    "question": "Because empirical sightings of the deep-sea predator were entirely ___, occurring at random intervals without spatial predictability, the marine biologist could not construct a statistically robust population model.",
+    "options": ["sporadic", "intermittent", "periodic", "fitful"],
+    "answer": "sporadic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "状语阐释 'occurring at random intervals without spatial predictability'（以随机间隔发生，毫无空间可预测性）锁定零散散布、全无规律的 sporadic。",
+    "distractor_analysis": {
+      "sporadic": "正确。adj. 专指散落的、偶发的、在时空上完全缺乏规律的孤立事件（sporadic instances/outbreaks），与后文 random 完全吻合。",
+      "periodic": "错误。adj. 意为“定期的、周期的”，指按既定时间间隔可预测地循环重现（periodic cycles），与后文全无规律性截然相反。",
+      "intermittent": "错误。adj. 指时断时续、间歇性的（如 intermittent rain），通常暗示停歇与运作之间有交替节律，不及 sporadic 的完全随机散在。",
+      "fitful": "错误。adj. 侧重断断续续、阵发性或烦躁不安的状态（fitful sleep/bursts of effort），文学色彩浓厚，不符合野外生物抽样的统计学术语境。"
+    },
+    "translation": "由于对该深海捕食者的实证目击完全是零星偶发的，在时间间隔上毫无规律且无空间可预测性，这位海洋生物学家无法构建出具有统计学稳健性的种群模型。"
+  },
+  {
+    "id": "tem8_c2_18",
+    "group_id": 55,
+    "group_name": "sporadic, intermittent, periodic, fitful",
+    "level": "TEM-8",
+    "target_word": "periodic",
+    "question": "The climatological observatory documented ___ oscillations in polar stratospheric temperatures, which recurred at regular multi-year intervals driven by predictable planetary wave cycles.",
+    "options": ["sporadic", "intermittent", "periodic", "fitful"],
+    "answer": "periodic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰定语从句 'which recurred at regular multi-year intervals driven by predictable planetary wave cycles'（受可预测波动周期驱动，按固定多年间隔重现）指向标准周期性 periodic。",
+    "distractor_analysis": {
+      "periodic": "正确。adj. 科学计量术语，指现象按固定、可预测的数学时间跨度周期性重现（periodic oscillations），与 regular intervals 完美呼应。",
+      "sporadic": "错误。adj. 指毫无规律、偶然散在出现的现象，与句中阐明的“固定间隔”和“可预测性”发生逻辑上的正反冲突。",
+      "intermittent": "错误。adj. 仅指中途停停走走、时开时闭（intermittent fasting/stream），不强调严格的恒定时间周期性。",
+      "fitful": "错误。adj. 描述抽搐状的、阵发不安的起伏（fitful activity），缺乏地球物理科学描述中的规律性与严谨性。"
+    },
+    "translation": "气候观测站记录到了极地平流层气温的周期性震荡，该震荡在可预测的行星波周期驱动下，以规律的数年间隔循环重现。"
+  },
+  {
+    "id": "tem8_c2_19",
+    "group_id": 56,
+    "group_name": "salubrious, wholesome, healthy, salutary",
+    "level": "TEM-8",
+    "target_word": "salutary",
+    "question": "Although the reviewer's demolition of the working hypothesis was unsparingly harsh, it exerted a ___ effect on the laboratory by forcing a total rethink of their methodology.",
+    "options": ["salubrious", "wholesome", "healthy", "salutary"],
+    "answer": "salutary",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "语境让步关系 'Although ... unsparingly harsh, it exerted a ___ effect ... forcing a total rethink'：salutary effect 专指良药苦口、经历挫折或斥责后产生的警醒与裨益。",
+    "distractor_analysis": {
+      "salutary": "正确。adj. 学术与思想批评经典搭配（a salutary effect/lesson），特指因经历严厉斥责、挫折或逆境而带来的有益纠偏与深刻启发。",
+      "salubrious": "错误。adj. 语体极高，但专用于描述有益健康的气候、空气或自然环境（salubrious climate/air），绝对不能用来修饰批评意见的有益效果。",
+      "wholesome": "错误。adj. 侧重道德纯洁无瑕、内容有益身心健康（wholesome entertainment/food），不能用于描述尖锐推翻假说的严苛批评。",
+      "healthy": "错误。adj. 口语与通俗语域常见词，指身体强健或良性状态（healthy body/profits），缺乏专八所考察的“挫折带来警醒”之深刻内涵。"
+    },
+    "translation": "尽管评审专家对该工作假说的驳斥无情而严厉，但它迫使课题组彻底反思其研究方法，从而对实验室产生了一种良药苦口般的警醒助益。"
+  },
+  {
+    "id": "tem8_c2_20",
+    "group_id": 56,
+    "group_name": "salubrious, wholesome, healthy, salutary",
+    "level": "TEM-8",
+    "target_word": "salubrious",
+    "question": "Nineteenth-century sanatorium physicians operated under the empirical assumption that high-altitude alpine air was singularly ___, promoting pulmonary healing through its purity and absence of urban contaminants.",
+    "options": ["salubrious", "wholesome", "healthy", "salutary"],
+    "answer": "salubrious",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "主语是 'high-altitude alpine air' 并指向 'promoting pulmonary healing'：salubrious 是医学史与自然地理学中专指空气、气候有益于疗养康复的高级学术词汇。",
+    "distractor_analysis": {
+      "salubrious": "正确。adj. 经典高雅学术与医学地理用词，专指气候宜人、空气清新极度有益于肺病疗养或身心健康（salubrious air/climate）。",
+      "salutary": "错误。adj. 专指精神或认知层面的警示与有益教训（salutary warning），不可用于描述大自然的物理空气。",
+      "wholesome": "错误。adj. 强调食物营养丰富或品行道德端正健美，用于描述高山疗养院环境的医学专著中显得语域失准。",
+      "healthy": "错误。adj. 基础日常用词，在论述 19 世纪疗养院医学史长难句中缺乏专八水准的学术文体质感。"
+    },
+    "translation": "19世纪疗养院的医师们遵循这样一种实证假设：高山清气对于健康具有非凡的滋补疗效，能凭借其高纯度及免受城市污染物的侵蚀而促进肺部康复。"
+  },
+  {
+    "id": "tem8_c2_21",
+    "group_id": 57,
+    "group_name": "deleterious, detrimental, pernicious, noxious",
+    "level": "TEM-8",
+    "target_word": "deleterious",
+    "question": "The toxicological monograph concluded that chronic microplastic accumulation exerts subtle yet ___ effects on neural plasticity, gradually degrading cognitive faculties over decades.",
+    "options": ["deleterious", "detrimental", "pernicious", "noxious"],
+    "answer": "deleterious",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'subtle yet ___ effects on neural plasticity, gradually degrading cognitive faculties over decades'：deleterious effects 是生化与毒理学顶级学术搭配，专指微妙累积、渐进式损害生物机能的负面影响。",
+    "distractor_analysis": {
+      "deleterious": "正确。adj. 实验科学与毒理学生理学标准用词（deleterious effects），精微契合对生理功能微妙而隐蔽的累积性损害。",
+      "noxious": "错误。adj. 物理化学词汇，专指有毒、恶臭、令人窒息的气体或物质（noxious fumes/wastes），不可用于抽象修饰长达数十年的负面效应。",
+      "pernicious": "错误。adj. 侧重指恶毒的、致命毁灭性的社会或政治思想影响（pernicious doctrines），偏伦理批判色彩，不符合纯毒理学实证语域。",
+      "detrimental": "错误。adj. 构词常见，通常构成 detrimental to 搭配，但在学术专著定语位置与 subtle 并置时，deleterious 具有压倒性的专业特异性。"
+    },
+    "translation": "该毒理学专著得出结论称，长期微塑料累积对神经可塑性产生微隐却有害的累积影响，在数十年间逐渐削弱认知机能。"
+  },
+  {
+    "id": "tem8_c2_22",
+    "group_id": 57,
+    "group_name": "deleterious, detrimental, pernicious, noxious",
+    "level": "TEM-8",
+    "target_word": "noxious",
+    "question": "Following an unexpected failure in the organic chemistry laboratory's fume hood, research assistants were evacuated after inhaling ___ vapors that caused immediate respiratory distress.",
+    "options": ["deleterious", "detrimental", "pernicious", "noxious"],
+    "answer": "noxious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "搭配词 'vapors that caused immediate respiratory distress'（导致即刻呼吸窘迫的气体）：noxious vapors/fumes 是化学与环境卫生学不可分割的排他固定搭配。",
+    "distractor_analysis": {
+      "noxious": "正确。adj. 专用于修饰气体、烟雾、化学品（noxious vapors/fumes），指其具有物理毒性、刺激性且危害吸入者身体健康。",
+      "deleterious": "错误。adj. 侧重指长期或潜移默化的危害后果（deleterious effects），不用于直接修饰引起即刻急性中毒的有害物理蒸汽。",
+      "detrimental": "错误。adj. 意为“不利的、有害的”，是高度抽象的评价词，修饰具体吸入性有毒蒸汽严重违背英语固定搭配习惯。",
+      "pernicious": "错误。adj. 指具有深远腐蚀性或暗中毁灭性的影响（pernicious influence），无法修饰实验室泄漏的有毒气体。"
+    },
+    "translation": "在有机化学实验室通风橱发生意外故障后，研究助理们因吸入引起急性呼吸窘迫的有毒蒸汽而被紧急疏散。"
+  },
+  {
+    "id": "tem8_c2_23",
+    "group_id": 58,
+    "group_name": "pell-mell, chaotic, tumultuous, turbulent",
+    "level": "TEM-8",
+    "target_word": "pell-mell",
+    "question": "The archival historian criticized the department's ___ retreat from the controversial research initiative, observing that raw experimental datasets were abandoned in headlong disarray rather than cataloged.",
+    "options": ["pell-mell", "chaotic", "tumultuous", "turbulent"],
+    "answer": "pell-mell",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰词与后文对应 'abandoned in headlong disarray rather than cataloged'（在仓皇混乱中被遗弃）：pell-mell 兼具“慌忙狂奔”与“杂乱无章”的双重核心语义。",
+    "distractor_analysis": {
+      "pell-mell": "正确。adj./adv. 专指杂乱无章、慌乱仓皇、急于撤退或奔逃的状态（in headlong disarray / pell-mell retreat），语感精微绝伦。",
+      "chaotic": "错误。adj. 泛指毫无秩序的状态，不包含“慌乱抢步、仓皇狂奔”的动态速度感，无法对应 headlong（迅猛慌乱）的核心特征。",
+      "tumultuous": "错误。adj. 强调声音嘈杂喧闹、群众情绪激动骚动（tumultuous applause/crowd），不适于描述文档数据遗弃的仓皇撤退。",
+      "turbulent": "错误。adj. 侧重政治局势风云变幻动荡不安或流体湍急（turbulent era/flow），不表达急迫奔逃中的混乱。"
+    },
+    "translation": "这位档案历史学者批评了该系从争议性研究项目中慌乱无序的溃退，指出原始实验数据集是在仓皇混乱中被草率丢弃，而非进行系统编目。"
+  },
+  {
+    "id": "tem8_c2_24",
+    "group_id": 58,
+    "group_name": "pell-mell, chaotic, tumultuous, turbulent",
+    "level": "TEM-8",
+    "target_word": "turbulent",
+    "question": "In computational fluid dynamics, the simulation contrasted the stable, predictable streamlines of laminar flow with the chaotic dissipative vortices characteristic of ___ airflow across the airfoil.",
+    "options": ["pell-mell", "chaotic", "tumultuous", "turbulent"],
+    "answer": "turbulent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "流体力学专业对立线索：前文 'laminar flow'（层流）与后文 '___ airflow across the airfoil'（机翼上方气流）形成经典对立：laminar flow 对比 turbulent flow（湍流）。",
+    "distractor_analysis": {
+      "turbulent": "正确。adj. 空气动力学与流体力学绝对专业术语，与 laminar（层流的）构成严密的反义对称，专指流体的不规则“湍流”（turbulent flow）。",
+      "pell-mell": "错误。adj. 为叙事文学用词，指行动慌忙无序，在计算流体力学学术论文中出现属于不可接受的语域破格。",
+      "chaotic": "错误。adj. 句中已出现副词/形容词概念修饰 vortices，若再次直接修饰 airflow，不仅表述重复，且未能使用流体力学规范定名 turbulent。",
+      "tumultuous": "错误。adj. 指人声鼎沸、风暴般狂暴的人群或时代，不能用作空气动力学描述流体状态的术语。"
+    },
+    "translation": "在计算流体力学中，该数值模拟将层流稳定可测的流线，与机翼表面湍流气流所特有的耗散混沌涡流进行了鲜明对比。"
+  },
+  {
+    "id": "tem8_c2_25",
+    "group_id": 59,
+    "group_name": "immutable, unalterable, inexorable, inflexible",
+    "level": "TEM-8",
+    "target_word": "immutable",
+    "question": "Classical physicists originally conceptualized the mathematical principles governing celestial mechanics as ___ axioms, presuming that cosmic laws remained fundamentally immune to temporal mutation or relativistic distortion.",
+    "options": ["immutable", "unalterable", "inexorable", "inflexible"],
+    "answer": "immutable",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰词与后文阐释 'immune to temporal mutation'（对时间演变免疫）：immutable 词源即为不可突变（in- + mutare），专指自然规律、数学公理亘古不变。",
+    "distractor_analysis": {
+      "immutable": "正确。adj. 科学哲学与形而上学最高语域词汇（immutable laws/axioms），专指自然定律、公理在本质上亘古长存、不可变异（immune to mutation）。",
+      "inexorable": "错误。adj. 专指动动态进程、命运或时间不可阻挡、不通融地向前推进（inexorable progress/march），无法修饰静态永恒的物理公理。",
+      "inflexible": "错误。adj. 侧重物质的刚硬不易弯曲，或人的立场固执刻板不知变通（inflexible rules/posture），用于描述宇宙基本规律文体太低。",
+      "unalterable": "错误。adj. 侧重人类做出的决定、法律判决或事实不可更改（unalterable verdict），不及 immutable 具有宇宙哲学本体论的崇高感。"
+    },
+    "translation": "经典物理学家最初将支配天体力学的数学法则构想为亘古不变的公理，假定宇宙法则在根本上免受时间演化或相对论畸变的影响。"
+  },
+  {
+    "id": "tem8_c2_26",
+    "group_id": 59,
+    "group_name": "immutable, unalterable, inexorable, inflexible",
+    "level": "TEM-8",
+    "target_word": "inexorable",
+    "question": "The actuarial report demonstrated that despite incremental public health reforms, the ___ march of population aging would inevitably outstrip the fiscal capacity of the national pension system.",
+    "options": ["immutable", "unalterable", "inexorable", "inflexible"],
+    "answer": "inexorable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "搭配词 'march of population aging' 与 'inevitably outstrip'：the inexorable march of...（不可阻挡的滚滚进程）是社科政经学术论文的标志性固定搭配。",
+    "distractor_analysis": {
+      "inexorable": "正确。adj. 固定学术政经搭配（the inexorable march of...），形象而冷酷地描绘历史潮流、人口老龄化等宏观趋势势不可挡向前推进。",
+      "immutable": "错误。adj. 意为静止不动的、恒常不变的，而 march（行进）是动态向前的发展，二者在动静语义上存在矛盾冲突。",
+      "unalterable": "错误。adj. 侧重既成事实或终审判决不可取消（unalterable fact/will），修饰宏观向前迈进的时代浪潮搭配极不自然。",
+      "inflexible": "错误。adj. 强调僵化顽固或缺乏柔韧性，不能用来修饰人口老龄化这一不可抗拒的时代进程。"
+    },
+    "translation": "精算报告表明，尽管推行了渐进式的公共卫生改革，但人口老龄化不可阻挡的步伐终将压垮国家养老金体系的财政承受力。"
+  },
+  {
+    "id": "tem8_c2_27",
+    "group_id": 60,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "level": "TEM-8",
+    "target_word": "insidious",
+    "question": "Clinical researchers warned that subclinical lead poisoning is an exceptionally ___ pathology, silently impairing neurodevelopment in infants long before overt physical symptoms become medically detectable.",
+    "options": ["insidious", "treacherous", "stealthy", "surreptitious"],
+    "answer": "insidious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'silently impairing neurodevelopment ... long before overt physical symptoms become medically detectable'：insidious 专用于医学与病理学，指疾病暗中潜伏滋生、造成严重累积损伤却无早期表征。",
+    "distractor_analysis": {
+      "insidious": "正确。adj. 医学病理学绝对规范用词（insidious disease/pathology），专指病情发展潜伏隐蔽、在不知不觉中对生理造成不可逆伤害。",
+      "treacherous": "错误。adj. 侧重具有背信弃义或外部环境极具危险性（treacherous ice/ally），不属于医学描述慢性潜伏疾病的规范语术。",
+      "stealthy": "错误。adj. 描摹身体动作放轻以防被人察觉（stealthy steps），属于通俗描写，不能用于修饰严密的病理学机制。",
+      "surreptitious": "错误。adj. 强调人类主体偷偷摸摸、暗地行事的非道德行为（surreptitious glance/recording），不可用于客观病理过程。"
+    },
+    "translation": "临床研究人员警告称，亚临床铅中毒是一种极具隐匿性和渐进危害性的病理过程，早在肉眼可见的躯体症状出现之前，便已在悄无声息中损害了婴儿的神经发育。"
+  },
+  {
+    "id": "tem8_c2_28",
+    "group_id": 60,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "level": "TEM-8",
+    "target_word": "surreptitious",
+    "question": "An independent institutional investigation confirmed that the lab technician had made ___ revisions to the primary spreadsheet files late at night to conceal erratic outlier data points.",
+    "options": ["insidious", "treacherous", "stealthy", "surreptitious"],
+    "answer": "surreptitious",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "'had made ___ revisions to the primary spreadsheet files late at night to conceal'：surreptitious revisions/actions 专指人类行为主体鬼鬼祟祟、暗地进行的不正当操作。",
+    "distractor_analysis": {
+      "surreptitious": "正确。adj. 专指违背规程、暗地里背着他人偷偷摸摸进行的勾当（surreptitious revisions/tampering），与学术不端调查完美契合。",
+      "insidious": "错误。adj. 描述无形力量、病毒或制度缺陷潜移默化带来的长期损害，不可直接修饰深更半夜具体的人工篡改动作。",
+      "treacherous": "错误。adj. 指叛徒或路况凶险险象环生，不可用来修饰暗地修改文件表格的行为。",
+      "stealthy": "错误。adj. 偏向肉体动作轻手轻脚（stealthy footstep/movement），形容数据篡改显得口语化且不地道。"
+    },
+    "translation": "一项独立的机构调查证实，该实验技术员在深夜对原始电子表格文件进行了暗中篡改，以掩盖不规则的离群数据点。"
+  },
+  {
+    "id": "tem8_c2_29",
+    "group_id": 61,
+    "group_name": "abase, humble, mortify, chagrin",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Steadfastly refusing to ___ himself before the tribunal of academic orthodoxy, the pioneering astrophysicist reiterated his unorthodox cosmology despite knowing it would cost him his tenure.",
+    "options": ["abase", "humble", "mortify", "chagrin"],
+    "answer": "abase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式搭配 'refusing to ___ himself before the tribunal'：abase oneself before...（在法庭/权威面前低三下四自贬求饶）是经典排他搭配，体现坚守学术真理的崇高风骨。",
+    "distractor_analysis": {
+      "abase": "正确。v. 构成反身搭配 abase oneself before，表示“在权贵或审判席面前自贬身份、卑躬屈膝”，与学术抗争语境完美匹配。",
+      "humble": "错误。v. 虽有 humble oneself，但常指促使某人谦卑、戒骄戒躁（This experience will humble him），不能表达在异端裁判所面前屈辱自贬的尖锐对抗感。",
+      "mortify": "错误。v. 意为使人极度尴尬或克制肉欲（mortify the flesh），不能构成 *mortify oneself before a tribunal* 的屈从句型。",
+      "chagrin": "错误。v./n. 意为使懊恼、懊丧，几乎不作反身及物动词使用，*chagrin oneself* 属于严重英语语法破格。"
+    },
+    "translation": "这位开创性的天体物理学家坚决拒绝在学术正统法庭面前低头自贬，尽管深知这会让他失去终身教职，他依然重申了他那离经叛道的天体物理学说。"
+  },
+  {
+    "id": "tem8_c2_30",
+    "group_id": 61,
+    "group_name": "abase, humble, mortify, chagrin",
+    "level": "TEM-8",
+    "target_word": "mortify",
+    "question": "The young doctoral candidate was thoroughly ___ when an invited symposium panelist pointed out an uncorrected high-school arithmetic error at the core of his theoretical regression matrix.",
+    "options": ["abase", "humble", "mortify", "chagrin"],
+    "answer": "mortify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语心理反应被动语态 'thoroughly ___ when an invited panelist pointed out an uncorrected error'：be thoroughly mortified 专指因当众犯下低级错误而感到无地自容、羞愧至极。",
+    "distractor_analysis": {
+      "mortify": "正确。v. 被动语态 be thoroughly mortified 专指因当众暴露出愚蠢低级的差错而感到无地自容、极度羞耻和难堪。",
+      "abase": "错误。v. 主动使受辱或反身低声下气，不能用来形容学者因犯学术计算错误而在心理上感受到的当众难堪（be abased 强调地位被贬）。",
+      "humble": "错误。v. be humbled 侧重表示“受到谦逊教育、感念自身渺小”，情感色彩是端庄平和的，缺乏当众丢脸无地自容的剧烈刺痛感。",
+      "chagrin": "错误。v. 作过去分词时多用 chagrined（感到懊丧沮丧），但其程度仅为扫兴或受挫，远远达不到由低级数学算术错误引发的钻心之耻。"
+    },
+    "translation": "当特邀研讨会专家指出其理论回归矩阵核心处存在一个未经修正的高中算术错误时，这位年轻的博士候选人感到无地自容、极度羞愧。"
+  },
+  {
+    "id": "tem8_c2_31",
+    "group_id": 62,
+    "group_name": "abbreviate, cut, reduce, shorten",
+    "level": "TEM-8",
+    "target_word": "abbreviate",
+    "question": "According to the formal conventions of botanical taxonomy, authors must fully spell out the binomial name on first mention but may subsequently ___ the generic epithet to a single letter.",
+    "options": ["abbreviate", "cut", "reduce", "shorten"],
+    "answer": "abbreviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句式与语境 'spell out the binomial name on first mention but may subsequently ___ the generic epithet to a single letter'：abbreviate a word/name to...（将词汇/属名缩写为单个字母）是植物分类学命名法绝对排他搭配。",
+    "distractor_analysis": {
+      "abbreviate": "正确。v. 语言学与分类学绝对规范术语，专指将单词、专有名词缩写为简写或首字母（abbreviate the epithet to a letter）。",
+      "shorten": "错误。v. 泛指缩短空间距离或时间长度（shorten the trip/speech），不能精确替代植物分类命名法中的专业拼写“缩写”概念。",
+      "cut": "错误。v. 属于非正式通俗动词（如裁员、削减），不可用于严谨生物学术分类法的字母缩写规则。",
+      "reduce": "错误。v. 强调在数量、体积极限或维度上的减少或降低（reduce cost/fat），不能表示将正规拉丁拼写简称为字母缩写。"
+    },
+    "translation": "根据植物分类学的正式规范，作者在首次提及双名法学名时必须完整拼写，但在后续内容中可将属名首名缩写为单个字母。"
+  },
+  {
+    "id": "tem8_c2_32",
+    "group_id": 62,
+    "group_name": "abbreviate, cut, reduce, shorten",
+    "level": "TEM-8",
+    "target_word": "shorten",
+    "question": "By introducing an optimized zeolitic catalyst into the synthesis chamber, chemical engineers managed to significantly ___ the incubation period required to achieve thermodynamic equilibrium.",
+    "options": ["abbreviate", "cut", "reduce", "shorten"],
+    "answer": "shorten",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语 'the incubation period required to achieve equilibrium'：shorten the period/duration 是科学实验中缩短反应时长、潜伏周期的核心标准搭配。",
+    "distractor_analysis": {
+      "shorten": "正确。v. 经典科技物理时间搭配（shorten the period/duration），准确表达化学平衡所需培育时长的缩短。",
+      "abbreviate": "错误。v. 严格局限于文本、讲演、名字或符号的缩短与缩略，绝对不可用于缩短化学实验的反应物理时长。",
+      "cut": "错误。v. 偏口语和财经商业语境（cut costs/prices），在描述高精尖化学工程实验过程时长时文体显得过于随性非正式。",
+      "reduce": "错误。v. 虽然 reduce the time 偶有出现，但与 period 并置时，shorten the period 构成了描述时间跨度缩短的最地道专属学术搭配。"
+    },
+    "translation": "通过在合成室中引入经过优化的沸石催化剂，化学工程师成功显著缩短了达到热力学平衡所需的孵化反应期。"
+  },
+  {
+    "id": "tem8_c2_33",
+    "group_id": 63,
+    "group_name": "abduct, kidnap, nobble, snatch",
+    "level": "TEM-8",
+    "target_word": "abduct",
+    "question": "In human functional anatomy, the tensor fasciae latae works synchronously with the gluteus medius to ___ the femur, stabilizing the pelvis during the stance phase of bipedal gait.",
+    "options": ["abduct", "kidnap", "nobble", "snatch"],
+    "answer": "abduct",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "解剖学专业语境 'works synchronously with the gluteus medius to ___ the femur'：abduct 在生物解剖学中专指骨骼或肢体由身体中线“外展”（与 adduct 内收相对），其余三项全无解剖学意义。",
+    "distractor_analysis": {
+      "abduct": "正确。v. 解剖学与生物力学顶级考点，专指使肢体或骨骼向身体中线外侧“外展”（abduct the femur），其余选项无此专业义项。",
+      "kidnap": "错误。v. 刑法专属罪名，指非法绑架人类并勒索赎金，在人体解剖学描述中出现纯属逻辑荒谬。",
+      "nobble": "错误。v. 英国俚语，指在赛马前下药使马致残，或用不正当手段贿赂、拉拢，完全不属于学术科学语域。",
+      "snatch": "错误。v. 意为一把抓起或强夺（snatch a purse），是通俗动作描述，与肌肉骨骼力学运动毫不相干。"
+    },
+    "translation": "在人体机能解剖学中，阔筋膜张肌与臀中肌同步协作以使股骨外展，从而在双足步态的单腿支撑阶段稳定骨盆。"
+  },
+  {
+    "id": "tem8_c2_34",
+    "group_id": 63,
+    "group_name": "abduct, kidnap, nobble, snatch",
+    "level": "TEM-8",
+    "target_word": "snatch",
+    "question": "Working under severe time constraints before the dialect community dispersed, the field linguist was barely able to ___ brief audio fragments of an unrecorded tonal language.",
+    "options": ["abduct", "kidnap", "nobble", "snatch"],
+    "answer": "snatch",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "'under severe time constraints ... barely able to ___ brief audio fragments'：snatch fragments 形象表达在紧迫时间与濒危条件下抓紧采集、争分夺秒捕获点滴零星片段。",
+    "distractor_analysis": {
+      "snatch": "正确。v. 生动传达在极其仓促紧迫的时限下争分夺秒捕获、抢录到零星碎片（snatch brief fragments），修辞意境高度凝练契合。",
+      "abduct": "错误。v. 专指刑法诱拐绑架或解剖学外展骨骼，不能用于田野调查抢录濒危语言语音片段。",
+      "kidnap": "错误。v. 专指对自然人的勒索性绑架，绝对无法与抽象的音频片段搭配使用。",
+      "nobble": "错误。v. 英式俚语，指下药暗害参赛马匹或贿赂勾结，带有非法的暗算色彩，完全脱离田野语言学学术语境。"
+    },
+    "translation": "由于方言群体即将消散且面临极其紧迫的时间限制，这位田野语言学家仅能勉强抢录到一种此前从未被记录过的声调语言的零星音频片段。"
+  },
+  {
+    "id": "tem8_c2_35",
+    "group_id": 64,
+    "group_name": "abhor, loathe, execrate, abominate",
+    "level": "TEM-8",
+    "target_word": "abhor",
+    "question": "In his seminal treatise on barometric pressure, seventeenth-century physicist Evangelista Torricelli boldly refuted the scholastic dogma that nature inherently ___ a vacuum, demonstrating the weight of the atmosphere.",
+    "options": ["abhor", "loathe", "execrate", "abominate"],
+    "answer": "abhor",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "科学史不朽名言 'the scholastic dogma that nature inherently ___ a vacuum'：nature abhors a vacuum（自然界厌恶真空）是物理学与哲学史专属固定成语。",
+    "distractor_analysis": {
+      "abhor": "正确。v. 科学哲学与物理学史永恒经典习语（nature abhors a vacuum），专指物质自然界对真空的所谓本体论排斥。",
+      "loathe": "错误。v. 强调个人生理或心理上的极度厌恶恶心（loathe the sight of sb），无法用于经院哲学中对大自然拟人化的哲学断言。",
+      "execrate": "错误。v. 强调在宗教或道德层面上予以庄严诅咒与斥责，不用于自然哲学规律。",
+      "abominate": "错误。v. 专指将某事视为宗教或伦理上的大逆不道而加以痛恨，不能替换古典物理学假说中的专属搭配词汇。"
+    },
+    "translation": "在其关于气压的开创性专著中，17世纪物理学家埃万杰利斯塔·托里拆利大胆驳斥了经院哲学所谓‘自然厌恶真空’的教条，实证论证了大气的重量。"
+  },
+  {
+    "id": "tem8_c2_36",
+    "group_id": 64,
+    "group_name": "abhor, loathe, execrate, abominate",
+    "level": "TEM-8",
+    "target_word": "execrate",
+    "question": "Although contemporary historians of science universally ___ the fraudulent racial hierarchies of nineteenth-century phrenology, Victorian medical journals once lauded them as pinnacle achievements of quantitative measurement.",
+    "options": ["abhor", "loathe", "execrate", "abominate"],
+    "answer": "execrate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境是当代科学史家对伪科学进行普遍公开的严正谴责与历史唾弃（universally ___ the fraudulent racial hierarchies）：execrate 具有学术界公开痛斥、定性唾弃的最高庄重语域。",
+    "distractor_analysis": {
+      "execrate": "正确。v. 历史与思想史最高学术语域，指对历史上臭名昭著的伪科学、罪行进行公认而严正的道德与学术唾弃与斥责。",
+      "abhor": "错误。v. 侧重内在的心理厌恶与反感，缺乏历史学界公开声明予以一致谴责、口诛笔伐的判决性庄严色彩。",
+      "loathe": "错误。v. 日常情绪化词汇，侧重私人情感上的极度厌憎与作呕，用于科学史学的宏大评述显得缺乏学术学术沉淀。",
+      "abominate": "错误。v. 带有宗教神学禁忌色彩（视其为可憎之物），不符合当代世俗科学史批判颅相学的历史唯物主义语境。"
+    },
+    "translation": "尽管当代的科学史学者普遍对19世纪颅相学中伪造的种族等级论嗤之以鼻并予以严正谴责，但维多利亚时期的医学期刊曾一度将其奉为定量测量领域的巅峰之作。"
+  },
+  {
+    "id": "tem8_c2_37",
+    "group_id": 65,
+    "group_name": "abide, bear, stand, brook",
+    "level": "TEM-8",
+    "target_word": "abide",
+    "question": "The ethics compliance committee mandated that all sponsored research projects must scrupulously ___ by the open-science protocols established under the updated Helsinki Declaration.",
+    "options": ["abide", "bear", "stand", "brook"],
+    "answer": "abide",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词 'by' 与制度规范 'open-science protocols'：abide by 是法律与科研伦理恪守准则的核心动词短语；其余三项后接 by 均引发严重句法崩溃。",
+    "distractor_analysis": {
+      "abide": "正确。v. 与介词 by 构成固定搭配（abide by rules/protocols），意为“遵守、恪守（科研伦理准则）”，句法语义无可挑剔。",
+      "bear": "错误。v. 为及物动词（bear the cost），接介词 by 属于完全破格的句法错误（*bear by* 根本不存在）。",
+      "stand": "错误。v. 虽有 stand by（支持/袖手旁观），但不可表达“遵守规章制度”之意，且无法接入此类科研合规语境。",
+      "brook": "错误。v. 纯及物动词，专用于否定句（brook no interference），不可接介词 by，句法严重破格。"
+    },
+    "translation": "伦理合规委员会明确要求，所有受资助的研究项目必须恪守更新后的《赫尔辛基宣言》所确立的开放科学准则。"
+  },
+  {
+    "id": "tem8_c2_38",
+    "group_id": 65,
+    "group_name": "abide, bear, stand, brook",
+    "level": "TEM-8",
+    "target_word": "brook",
+    "question": "Dedicated to absolute empirical veracity, the journal's editor-in-chief would ___ no compromise on raw data transparency, rejecting any submission that concealed algorithmic source codes.",
+    "options": ["abide", "bear", "stand", "brook"],
+    "answer": "brook",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配结构 'would ___ no compromise on raw data transparency'：brook no compromise/delay/interference 是英语学术与政治高层决断的绝对排他句式。",
+    "distractor_analysis": {
+      "brook": "正确。v. 典雅及物动词，具有专属否定极性，与 no 搭配（brook no compromise/deviation），专指“绝不容忍任何妥协”，文体极其高雅。",
+      "abide": "错误。v. 表容忍时常用于 cannot abide（后接名/动名词），不能直接接 no compromise 构成此类正统书面决断搭配。",
+      "bear": "错误。v. 口语及普通语境表示承受，*would bear no compromise* 不符合严谨学术期刊声明的标准地道表达习惯。",
+      "stand": "错误。v. 属于日常口语通俗动词（can't stand it），在阐述国际权威期刊主编学术原则的长难句中出现属于严重语域错配。"
+    },
+    "translation": "出于对绝对实证真实性的执着追求，该期刊主编在原始数据透明度上绝不容忍任何妥协，坚决拒收任何隐瞒算法源代码的投稿。"
+  },
+  {
+    "id": "tem8_c2_39",
+    "group_id": 66,
+    "group_name": "abort, culminate, axe, lift",
+    "level": "TEM-8",
+    "target_word": "abort",
+    "question": "When unexpected cryogenic fuel pressure anomalies surfaced during the terminal countdown sequence, launch directors made the critical decision to instantly ___ the lunar reconnaissance mission.",
+    "options": ["abort", "culminate", "axe", "lift"],
+    "answer": "abort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "技术语境 'terminal countdown sequence' 与操作对象 'the lunar reconnaissance mission'：abort a mission/launch 是航天工程与高科技实验中因故障提前终止程序的绝对专属术语。",
+    "distractor_analysis": {
+      "abort": "正确。v. 航天、航空与尖端工程技术标准术语（abort a mission/launch），专指在关键倒计时或执行阶段因危险故障紧急终止程序。",
+      "culminate": "错误。v. 不及物动词，通常接 in（culminate in success），指发展至最高潮并结束，不可作及物动词支配 mission，句法错误。",
+      "axe": "错误。v. 属于通俗新闻媒体俚俗比喻，指政府或公司大幅砍掉预算或解雇员工，绝对不用于航天发射控制室的工程技术操作。",
+      "lift": "错误。v. 意为抬起或解除禁令/封锁（lift a ban/sanction），不能表达终止正在进行中的高危航天发射任务。"
+    },
+    "translation": "当低温燃料压力异常在最终倒计时程序中意外出现时，发射指挥官们做出了关键决定，立即中止了这次月球侦察任务。"
+  },
+  {
+    "id": "tem8_c2_40",
+    "group_id": 66,
+    "group_name": "abort, culminate, axe, lift",
+    "level": "TEM-8",
+    "target_word": "culminate",
+    "question": "Over three decades of international observational collaboration and radio telescope telemetry were destined to ___ in the historic direct imaging of a supermassive black hole.",
+    "options": ["abort", "culminate", "axe", "lift"],
+    "answer": "culminate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后接介词 'in' 以及表示巅峰成就的宾语 'in the historic direct imaging of a supermassive black hole'：culminate in（最终以……达到巅峰告成）是学术成就叙事的绝对排他搭配。",
+    "distractor_analysis": {
+      "culminate": "正确。v. 不及物动词，与介词 in 构成固定搭配（culminate in sth），表示漫长探索与合作最终在巅峰性历史成就中圆满告成。",
+      "abort": "错误。v. 及物动词，意为中途夭折流产，不能接介词 in，且与历史性直接成像的辉煌科学成就形成荒谬的语义矛盾。",
+      "axe": "错误。v. 及物动词，意为砍掉削减，不可接介词 in，句法与语义均破格。",
+      "lift": "错误。v. 及物动词，意为举起或解除，不可接介词 in 表达学术发展达到巅峰。"
+    },
+    "translation": "三十余年来国际观测合作与射电望远镜遥测技术的积累，注定将以人类历史性地直接拍摄到超大质量黑洞的壮举而达到巅峰。"
+  },
+  {
+    "id": "tem8_c2_41",
+    "group_id": 67,
+    "group_name": "abstain, forbear, help, save",
+    "level": "TEM-8",
+    "target_word": "abstain",
+    "question": "To eliminate any perception of nepotism or financial bias, the senior biochemist chose to conscientiously ___ from voting on the commercial patent license submitted by his former student.",
+    "options": ["abstain", "forbear", "help", "save"],
+    "answer": "abstain",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "语法线索 '___ from voting on...'：abstain from voting（在表决投票中弃权）是学术治理、利益回避及议事规程的绝对排他搭配。",
+    "distractor_analysis": {
+      "abstain": "正确。v. 与介词 from 搭配（abstain from voting），专指在正式委员会投票中出于利益回避原则而“克制弃权”。",
+      "forbear": "错误。v. 虽有克制忍耐之意，但现代英语中接不定式或直接宾语（forbear to do），不构成 *forbear from voting* 的官方委员会弃权术语。",
+      "help": "错误。v. 虽有 cannot help doing 搭配，但在肯定句 chose to 中无法表达利益回避的弃权含义，语义荒谬。",
+      "save": "错误。v. 作动词指挽救拯救，*save from voting* 语义不通，完全不属于规避利益冲突的法定议事用语。"
+    },
+    "translation": "为杜绝任何任人唯亲或经济利益偏向的嫌疑，这位资深生物化学家审慎地选择在评审其昔日学生提交的商业专利许可表决中弃权。"
+  },
+  {
+    "id": "tem8_c2_42",
+    "group_id": 67,
+    "group_name": "abstain, forbear, help, save",
+    "level": "TEM-8",
+    "target_word": "forbear",
+    "question": "Out of profound respect for his mentor's failing health, the young epistemologist chose to ___ to expose the glaring inductive fallacy during the public retirement symposium.",
+    "options": ["abstain", "forbear", "help", "save"],
+    "answer": "forbear",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "动词后接不定式结构 'chose to ___ to expose the glaring fallacy'：forbear to do sth 是典雅学术语体中表达出于礼貌、敬意而“克制隐忍、隐忍不言”的专属语法构式。",
+    "distractor_analysis": {
+      "forbear": "正确。v. 经典高贵语域动词，接不定式（forbear to do sth），表达出于修养、敬意或体谅而克制不做某事（隐忍不予揭穿）。",
+      "abstain": "错误。v. 必须接介词 from + 动名词（abstain from exposing），接不定式 *abstain to expose* 属于严重语法错误。",
+      "help": "错误。v. 虽可接不定式，但 *chose to help to expose* 意为“选择协助揭露”，与前文“出于深切敬意”形成直接的逻辑矛盾。",
+      "save": "错误。v. 意为拯救保留，不能接不定式充当此处的意志克制谓语，*save to expose* 句法不成立。"
+    },
+    "translation": "出于对其导师日渐衰弱的身体状况的深切体谅与敬意，这位年轻的认识论学者在公开退休研讨会上选择克制隐忍，没有当众揭穿那个显而易见的归纳谬误。"
+  },
+  {
+    "id": "tem8_c2_43",
+    "group_id": 68,
+    "group_name": "accede, defer, bow, submit",
+    "level": "TEM-8",
+    "target_word": "accede",
+    "question": "Following contentious contract negotiations, the university library syndicate finally resolved to ___ to the academic publisher's unyielding demand for bundled subscription fees.",
+    "options": ["accede", "defer", "bow", "submit"],
+    "answer": "accede",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配结构 'resolved to ___ to the academic publisher's unyielding demand'：accede to demands/terms 是法律、机构谈判与出版契约中表示正式“同意、依从要求”的高级专属动词搭配。",
+    "distractor_analysis": {
+      "accede": "正确。v. 正式契约与机构谈判专属搭配（accede to demands/requests），专指经磋商后最终正式同意、答应对方的强硬要求。",
+      "defer": "错误。v. 虽然也接 to，但 defer to 指“出于敬重而听从某人的专业权威或判断”（defer to one's expertise），不表示在商务合同谈判中依从对方的要价条件。",
+      "bow": "错误。v. 虽然 bow to pressure 常见，但带有屈膝下跪的通俗比喻义，修饰大学图书馆联合会与出版商的商业签约显得文体过俗。",
+      "submit": "错误。v. 接 to 侧重于战败投降或完全屈服于暴力统治（submit to tyranny），不及 accede 契合平等主体间合同妥协的法务语域。"
+    },
+    "translation": "经过激烈的合同谈判，大学图书馆联盟最终决定依从该学术出版商关于捆绑订阅费用的强硬要求。"
+  },
+  {
+    "id": "tem8_c2_44",
+    "group_id": 68,
+    "group_name": "accede, defer, bow, submit",
+    "level": "TEM-8",
+    "target_word": "defer",
+    "question": "Acknowledging his limited familiarity with Bayesian statistical modeling, the cognitive psychologist prudently chose to ___ to his biostatistical collaborators on all computational sampling procedures.",
+    "options": ["accede", "defer", "bow", "submit"],
+    "answer": "defer",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句意为因承认自身外行而听从合作学者的专业指导 'prudently chose to ___ to his biostatistical collaborators on all computational sampling procedures'：defer to sb 专指在专业领域出于对他人权威经验的信任而主动遵从听取意见。",
+    "distractor_analysis": {
+      "defer": "正确。v. 学术合作与跨学科研究核心动词（defer to experts/collaborators），专指因他人具备更专精学识而主动听从其专业裁定与意见。",
+      "accede": "错误。v. 专指答应某人的要求或条约（accede to demands），不可用于表达听从合作者的专业学识或权威。",
+      "bow": "错误。v. 偏向在强权逼迫下被迫屈服让步（bow to pressure），在描写科研同行之间健康的跨学科谦逊协作时显得极不恰当。",
+      "submit": "错误。v. 强调屈服、投降或受制于压迫，带有丧失尊严的消极色彩，完全背离了学者在方法论上虚心求教同行的正常科研合作氛围。"
+    },
+    "translation": "鉴于自己在贝叶斯统计建模方面知识有限，这位认知心理学家审慎地选择在所有计算抽样程序上听从其生物统计合作学者的专业判断。"
+  },
+  {
+    "id": "tem8_c2_45",
+    "group_id": 69,
+    "group_name": "accentuate, stress, accent, punctuate",
+    "level": "TEM-8",
+    "target_word": "accentuate",
+    "question": "By applying high-contrast oblique illumination to the geological specimen, the petrologist managed to dramatically ___ the micro-fractures that had eluded previous microscopic inspections.",
+    "options": ["accentuate", "stress", "accent", "punctuate"],
+    "answer": "accentuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "视觉观察手段 'applying high-contrast oblique illumination' 与凸显的目标 '___ the micro-fractures'：accentuate 专指通过光影、反差等视觉手段使物理微观特征显著凸显出来。",
+    "distractor_analysis": {
+      "accentuate": "正确。v. 视觉科学、摄影与地质学标准动词，专指通过光线、色彩等对比手段使微观断层、物理特征显著突出、分外醒目。",
+      "stress": "错误。v. 侧重在口头、论点或思维逻辑上予以重点强调（stress a point），不能用于光照物理显影下凸显岩石微裂缝。",
+      "accent": "错误。v. 主要指语音重读或作为微小的装饰点缀，在严谨地质岩相学术语境中修饰高反差凸显裂纹不如 accentuate 精确地道。",
+      "punctuate": "错误。v. 意为加标点或间歇性打断（punctuated by applause），完全脱离了光照增强显微细节的语义场。"
+    },
+    "translation": "通过对地质标本施加高对比度的斜向光照，这位岩石学家成功使此前显微检查中遗漏的微裂缝显著凸显出来。"
+  },
+  {
+    "id": "tem8_c2_46",
+    "group_id": 69,
+    "group_name": "accentuate, stress, accent, punctuate",
+    "level": "TEM-8",
+    "target_word": "punctuate",
+    "question": "In macroevolutionary theory, Stephen Jay Gould posited that prolonged epochs of morphological stasis in the fossil record were abruptly ___ by brief pulses of rapid speciation.",
+    "options": ["accentuate", "stress", "accent", "punctuate"],
+    "answer": "punctuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "古生物学里程碑学说排他线索：斯蒂芬·古尔德的间断平衡理论（punctuated equilibrium）中，长期的形态停滞被短暂的快速物种形成脉冲所“间断/打断”（prolonged epochs were abruptly ___ by brief pulses）。",
+    "distractor_analysis": {
+      "punctuate": "正确。v. 演化生物学经典名篇绝对排他搭配（punctuated equilibrium / punctuated by pulses），指长期的停滞平衡被突发离散事件周期性“间断、打断”。",
+      "stress": "错误。v. 及物动词意为强调或施加压力，被动语态 *were stressed by* 无法表达地质纪元停滞期被新物种形成突变所切断的演化机制。",
+      "accentuate": "错误。v. 意为在视觉或形态上突出强调，漫长停滞期不会被物种爆发所“凸显”，二者是演化时间轴上的离散交替关系。",
+      "accent": "错误。v. 意为加重音或点缀，在此处与古尔德的间断平衡学说完全不匹配，破坏了核心概念。"
+    },
+    "translation": "在宏观演化理论中，斯蒂芬·杰·古尔德提出假说认为，化石记录中长期的形态停滞纪元会被短暂而剧烈的快速物种形成脉冲所骤然打断。"
+  }
+]

@@ -1,0 +1,1104 @@
+{
+  "chunk_id": 9,
+  "theme_info": {
+    "chunk_id": 9,
+    "theme": "社会变迁、历史回溯与集体记忆 (Historical Retrospect & Social Change)",
+    "guidance": "题干回顾制度瓦解与兴起、殖民历史反思、代际价值观断裂、流行文化生命周期等宏大叙事学术长难句。"
+  },
+  "cluster_count": 18,
+  "expected_questions": 36,
+  "clusters": [
+    {
+      "group_id": 208,
+      "group_name": "adversity, sewer, toilet, gutter",
+      "target_word": "adversity",
+      "words": [
+        "adversity",
+        "sewer",
+        "toilet",
+        "gutter"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adversity 辨析组 (adversity.n.01)",
+      "synset_definition": "a state of misfortune or affliction",
+      "merriam_webster": {
+        "definitions": [
+          "a state or instance of serious or continued difficulty or misfortune",
+          "an instance or condition of serious or continued misfortune"
+        ],
+        "dictionary_examples": [
+          "never lost hope even in the depths of misfortune",
+          "took the wrong road by mischance",
+          "had never experienced great adversity",
+          "the usual mishaps of a family vacation",
+          "After two years of research, I discovered that everyone has a crisis personality survivor IQ—that they marshal in a moment of adversity: a mindset and ways of thinking about a situation.",
+          "Perhaps because their brains are wired differently, dyslexics are often skilled problem solvers, coming at solutions from novel or surprising angles and making conceptual leaps.  … It may also be that their early struggle with reading better prepares them for dealing with adversity in a volatile, fast-changing world."
+        ],
+        "web_examples": [
+          "When adversity came knocking at that door, you guys never opened that door.",
+          "Many are shouldering economic hardship, exposure to adversity and discrimination, family responsibilities, uncertainty about the future and social pressures.",
+          "The motivational phrase helped carry the British people through the adversity of World War II.",
+          "Mackert, a Western Illinois recruit who has had a huge start to the season, is going to do everything in his power to make sure adversity doesn’t derail the Celtics."
+        ],
+        "synonym_discussion": "Synonyms of adversity\nRelevance\nmisfortune\ntragedy\nhardship\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adversity": {
+          "synset": "adversity.n.01",
+          "definition": "a state of misfortune or affliction",
+          "examples": [
+            "debt-ridden farmers struggling with adversity",
+            "a life of hardship"
+          ]
+        },
+        "sewer": {
+          "synset": "sewer.n.01",
+          "definition": "a waste pipe that carries away sewage or surface water",
+          "examples": []
+        },
+        "toilet": {
+          "synset": "toilet.n.01",
+          "definition": "a room or building equipped with one or more toilets",
+          "examples": []
+        },
+        "gutter": {
+          "synset": "gutter.n.01",
+          "definition": "a channel along the eaves or on the roof; collects and carries away rainwater",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 209,
+      "group_name": "advocacy, blessing, approval, adhesion",
+      "target_word": "advocacy",
+      "words": [
+        "advocacy",
+        "blessing",
+        "approval",
+        "adhesion"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "advocacy 辨析组 (advocacy.n.01)",
+      "synset_definition": "active support of an idea or cause etc.; especially the act of pleading or arguing for something",
+      "merriam_webster": {
+        "definitions": [
+          "the act or process of supporting a cause or proposal : the act or process of advocating (see advocate entry 2) something",
+          "the act or process of advocating : SUPPORT",
+          "the profession or work of an advocate",
+          "the action of advocating, pleading for, or supporting a cause or proposal"
+        ],
+        "dictionary_examples": [
+          "The coalition of survivor parents seeking change at the federal level spans the ideological spectrum and has members with varying levels of advocacy experience in politics.",
+          "The grim findings come from a survey of 524 disability care providers published Wednesday by ANCOR, an advocacy group for people with intellectual and developmental disabilities.",
+          "The literary and free speech advocacy group PEN America documented 2,532 instances of book bans in public schools in 2021–22.",
+          "Do No Harm and Students for Fair Admissions, two advocacy groups, sued the medical school over such allegations in May 2025."
+        ],
+        "web_examples": [
+          "The coalition of survivor parents seeking change at the federal level spans the ideological spectrum and has members with varying levels of advocacy experience in politics.",
+          "The grim findings come from a survey of 524 disability care providers published Wednesday by ANCOR, an advocacy group for people with intellectual and developmental disabilities.",
+          "The literary and free speech advocacy group PEN America documented 2,532 instances of book bans in public schools in 2021–22.",
+          "Do No Harm and Students for Fair Admissions, two advocacy groups, sued the medical school over such allegations in May 2025."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "advocacy": {
+          "synset": "advocacy.n.01",
+          "definition": "active support of an idea or cause etc.; especially the act of pleading or arguing for something",
+          "examples": []
+        },
+        "blessing": {
+          "synset": "blessing.n.01",
+          "definition": "the formal act of approving",
+          "examples": [
+            "he gave the project his blessing",
+            "his decision merited the approval of any sensible person"
+          ]
+        },
+        "approval": {
+          "synset": "blessing.n.01",
+          "definition": "the formal act of approving",
+          "examples": [
+            "he gave the project his blessing",
+            "his decision merited the approval of any sensible person"
+          ]
+        },
+        "adhesion": {
+          "synset": "adhesion.n.01",
+          "definition": "abnormal union of bodily tissues; most common in the abdomen",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 210,
+      "group_name": "aerobatics, sortie, solo, pass",
+      "target_word": "aerobatics",
+      "words": [
+        "aerobatics",
+        "sortie",
+        "solo",
+        "pass"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aerobatics 辨析组 (acrobatics.n.02)",
+      "synset_definition": "the performance of stunts while in flight in an aircraft",
+      "merriam_webster": {
+        "definitions": [
+          "spectacular flying feats and maneuvers (such as rolls and dives)",
+          "spectacular flying feats and maneuvers"
+        ],
+        "dictionary_examples": [],
+        "web_examples": [],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aerobatics": {
+          "synset": "acrobatics.n.02",
+          "definition": "the performance of stunts while in flight in an aircraft",
+          "examples": []
+        },
+        "sortie": {
+          "synset": "sortie.n.01",
+          "definition": "a military action in which besieged troops burst forth from their position",
+          "examples": []
+        },
+        "solo": {
+          "synset": "solo.n.01",
+          "definition": "any activity that is performed alone without assistance",
+          "examples": []
+        },
+        "pass": {
+          "synset": "base_on_balls.n.01",
+          "definition": "(baseball) an advance to first base by a batter who receives four balls",
+          "examples": [
+            "he worked the pitcher for a base on balls"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 211,
+      "group_name": "aerodynamics, dynamics, statics, kinetics",
+      "target_word": "aerodynamics",
+      "words": [
+        "aerodynamics",
+        "dynamics",
+        "statics",
+        "kinetics"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aerodynamics 辨析组 (aeromechanics.n.01)",
+      "synset_definition": "the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow",
+      "merriam_webster": {
+        "definitions": [
+          "a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids",
+          "the qualities of an object that affect how easily it is able to move through the air",
+          "a science that deals with the motion of fluids (as air) that are gases and with the forces acting on bodies exposed to them",
+          "a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids"
+        ],
+        "dictionary_examples": [
+          "Interactive displays examine vehicle design, aerodynamics and engine technology, while real racing hardware brings those lessons off the screen."
+        ],
+        "web_examples": [
+          "Interactive displays examine vehicle design, aerodynamics and engine technology, while real racing hardware brings those lessons off the screen."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aerodynamics": {
+          "synset": "aeromechanics.n.01",
+          "definition": "the branch of mechanics that deals with the motion of gases (especially air) and their effects on bodies in the flow",
+          "examples": []
+        },
+        "dynamics": {
+          "synset": "dynamics.n.01",
+          "definition": "the branch of mechanics concerned with the forces that cause motions of bodies",
+          "examples": []
+        },
+        "statics": {
+          "synset": "statics.n.01",
+          "definition": "the branch of mechanics concerned with forces in equilibrium",
+          "examples": []
+        },
+        "kinetics": {
+          "synset": "dynamics.n.01",
+          "definition": "the branch of mechanics concerned with the forces that cause motions of bodies",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 212,
+      "group_name": "aerosol, coma, nebula, mushroom",
+      "target_word": "aerosol",
+      "words": [
+        "aerosol",
+        "coma",
+        "nebula",
+        "mushroom"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "aerosol 辨析组 (aerosol.n.01)",
+      "synset_definition": "a cloud of solid or liquid particles in a gas",
+      "merriam_webster": {
+        "definitions": [
+          "a suspension of fine solid or liquid particles in gas",
+          "the fine particles of an aerosol",
+          "a substance (such as an insecticide or medicine) dispensed from a pressurized container as an aerosol",
+          "the container for this"
+        ],
+        "dictionary_examples": [
+          "Methylene chloride, also known as Dichloromethane (DCM), is an industrial solvent typically used in adhesives, paint and coating products, pharmaceuticals, metal cleaning, chemical processing, and aerosols.",
+          "Printing circuits on curves One of the team’s systems mounts an aerosol jet printer on an articulated robotic arm.",
+          "The last of Lila and Amisha’s henchmen has fled with the remaining supply of poison aerosol, intending to detonate it, on Amisha’s orders, at a nightclub.",
+          "Use an aerosol wasp spray, labeled for quick knockdowns, which can spray from 10 feet or more away."
+        ],
+        "web_examples": [
+          "Methylene chloride, also known as Dichloromethane (DCM), is an industrial solvent typically used in adhesives, paint and coating products, pharmaceuticals, metal cleaning, chemical processing, and aerosols.",
+          "Printing circuits on curves One of the team’s systems mounts an aerosol jet printer on an articulated robotic arm.",
+          "The last of Lila and Amisha’s henchmen has fled with the remaining supply of poison aerosol, intending to detonate it, on Amisha’s orders, at a nightclub.",
+          "Use an aerosol wasp spray, labeled for quick knockdowns, which can spray from 10 feet or more away."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aerosol": {
+          "synset": "aerosol.n.01",
+          "definition": "a cloud of solid or liquid particles in a gas",
+          "examples": []
+        },
+        "coma": {
+          "synset": "coma.n.01",
+          "definition": "a state of deep and often prolonged unconsciousness; usually the result of disease or injury",
+          "examples": []
+        },
+        "nebula": {
+          "synset": "nebula.n.01",
+          "definition": "a medicinal liquid preparation intended for use in an atomizer",
+          "examples": []
+        },
+        "mushroom": {
+          "synset": "mushroom.n.01",
+          "definition": "common name for an edible agaric (contrasting with the inedible toadstool)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 213,
+      "group_name": "aerospace, mare, air, side",
+      "target_word": "aerospace",
+      "words": [
+        "aerospace",
+        "mare",
+        "air",
+        "side"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aerospace 辨析组 (aerospace.n.01)",
+      "synset_definition": "the atmosphere and outer space considered as a whole",
+      "merriam_webster": {
+        "definitions": [
+          "space comprising the earth's atmosphere and the space beyond",
+          "a physical science that deals with aerospace",
+          "the aerospace industry",
+          "of or relating to aerospace, to vehicles used in aerospace or the manufacture of such vehicles, or to travel in aerospace"
+        ],
+        "dictionary_examples": [
+          "Scandium, a rare-earth element, is used in lightweight aluminum-scandium alloys, including in aerospace components, and in solid oxide fuel cells.",
+          "The base's innovations have attracted new aerospace companies to the area, including Joby Aviation, the Sierra Nevada Corporation and Electra.",
+          "Cygnus still flies today, for the aerospace giant Northrop Grumman, which bought Orbital Sciences in 2018.",
+          "And despite the high barrier to entry for non-aerospace businesses, new companies are getting in on the action."
+        ],
+        "web_examples": [
+          "Scandium, a rare-earth element, is used in lightweight aluminum-scandium alloys, including in aerospace components, and in solid oxide fuel cells.",
+          "The base's innovations have attracted new aerospace companies to the area, including Joby Aviation, the Sierra Nevada Corporation and Electra.",
+          "Cygnus still flies today, for the aerospace giant Northrop Grumman, which bought Orbital Sciences in 2018.",
+          "And despite the high barrier to entry for non-aerospace businesses, new companies are getting in on the action."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aerospace": {
+          "synset": "aerospace.n.01",
+          "definition": "the atmosphere and outer space considered as a whole",
+          "examples": []
+        },
+        "mare": {
+          "synset": "mare.n.01",
+          "definition": "female equine animal",
+          "examples": []
+        },
+        "air": {
+          "synset": "air.n.01",
+          "definition": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+          "examples": [
+            "air pollution",
+            "a smell of chemicals in the air"
+          ]
+        },
+        "side": {
+          "synset": "side.n.01",
+          "definition": "a place within a region identified relative to a center or reference location",
+          "examples": [
+            "they always sat on the right side of the church",
+            "he never left my side"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 214,
+      "group_name": "affinity, magnetism, bond, gravity",
+      "target_word": "affinity",
+      "words": [
+        "affinity",
+        "magnetism",
+        "bond",
+        "gravity"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affinity 辨析组 (affinity.n.01)",
+      "synset_definition": "(immunology) the attraction between an antigen and an antibody",
+      "merriam_webster": {
+        "definitions": [
+          "sympathy marked by community of interest : KINSHIP",
+          "an attraction to or liking for something",
+          "an attractive force between substances or particles that causes them to enter into and remain in chemical combination",
+          "relationship by marriage"
+        ],
+        "dictionary_examples": [
+          "felt an attraction to danger",
+          "an affinity for mathematics",
+          "two minds in sympathy",
+          "Jefferson's personal debts continued to mount … His addiction to French wine, like his affinity for French ideas, never came to grips with the more mundane realities.",
+          "… neither virus has an affinity for T cells.",
+          "Animals sharing this basic architecture may have no closer affinity than a beetle and a squid."
+        ],
+        "web_examples": [
+          "With its affinities for isolation and, at times, imposing scale, Land art conjures archaeology and the geological sublime—vast expanses of space and time.",
+          "Her affinity for fashion might be part of the reason she was tapped for the upcoming season of Peacock’s super-popular competition show The Traitors.",
+          "The looks were presented in pairs to highlight affinities, variations and visual echoes that reflect the designers’ methodology and approach rooted in the principle of duality.",
+          "Many have pondered why Mexicans and Mexican Americans have such an affinity for those blokes from across the pond."
+        ],
+        "synonym_discussion": "Synonyms of affinity\nRelevance\n\nNoun\n\naptitude\ntendency\ninclination\ndevices\naffection\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "affinity": {
+          "synset": "affinity.n.01",
+          "definition": "(immunology) the attraction between an antigen and an antibody",
+          "examples": []
+        },
+        "magnetism": {
+          "synset": "magnetism.n.01",
+          "definition": "attraction for iron; associated with electric currents as well as magnets; characterized by fields of force",
+          "examples": []
+        },
+        "bond": {
+          "synset": "chemical_bond.n.01",
+          "definition": "an electrical force linking atoms",
+          "examples": []
+        },
+        "gravity": {
+          "synset": "gravity.n.01",
+          "definition": "(physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --Albert Einstein",
+          "examples": [
+            "the more remote the body the less the gravity",
+            "the gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 215,
+      "group_name": "agitation, trance, trauma, hypnosis",
+      "target_word": "agitation",
+      "words": [
+        "agitation",
+        "trance",
+        "trauma",
+        "hypnosis"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "agitation 辨析组 (agitation.n.01)",
+      "synset_definition": "a mental state of extreme emotional disturbance",
+      "merriam_webster": {
+        "definitions": [
+          "the act or an instance of agitating something : a moving back and forth or with an irregular, rapid, or violent action",
+          "a state or feeling of being agitated and restless",
+          "a state of excessive psychomotor activity accompanied by increased tension and irritability",
+          "a persistent and sustained attempt to arouse public feeling or influence public opinion (as by appeals, discussions, or demonstrations)"
+        ],
+        "dictionary_examples": [
+          "In addition to the heightened abstract threat level, there continue to be intense pro-Palestinian protests as well as corresponding agitation on social media.",
+          "In that case, the plaintiff's attorneys alleged social media companies led a young user down a dark path of mental health agitation.",
+          "Advanced signs include anxiety, confusion, agitation, hallucinations, extreme thirst paired with panic at the sight of fluids, heavy saliva and aggressive thrashing or biting.",
+          "Water, detergent, agitation and friction all take a toll, and drying piles on heat and more tumbling."
+        ],
+        "web_examples": [
+          "In addition to the heightened abstract threat level, there continue to be intense pro-Palestinian protests as well as corresponding agitation on social media.",
+          "In that case, the plaintiff's attorneys alleged social media companies led a young user down a dark path of mental health agitation.",
+          "Advanced signs include anxiety, confusion, agitation, hallucinations, extreme thirst paired with panic at the sight of fluids, heavy saliva and aggressive thrashing or biting.",
+          "Water, detergent, agitation and friction all take a toll, and drying piles on heat and more tumbling."
+        ],
+        "synonym_discussion": "Synonyms of agitation\nRelevance\nfrenzy\nrampage\nrage\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "agitation": {
+          "synset": "agitation.n.01",
+          "definition": "a mental state of extreme emotional disturbance",
+          "examples": []
+        },
+        "trance": {
+          "synset": "enchantment.n.02",
+          "definition": "a psychological state induced by (or as if induced by) a magical incantation",
+          "examples": []
+        },
+        "trauma": {
+          "synset": "injury.n.01",
+          "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+          "examples": []
+        },
+        "hypnosis": {
+          "synset": "hypnosis.n.01",
+          "definition": "a state that resembles sleep but that is induced by suggestion",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 216,
+      "group_name": "aids, mumps, polio, mono",
+      "target_word": "aids",
+      "words": [
+        "aids",
+        "mumps",
+        "polio",
+        "mono"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aids 辨析组 (aids.n.01)",
+      "synset_definition": "a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles",
+      "merriam_webster": {
+        "definitions": [
+          "a disease of the human immune system that is characterized cytologically especially by reduction in the numbers of CD4-bearing helper T cells to 20 percent or less of normal thereby rendering the subject highly vulnerable to life-threatening conditions (such as Pneumocystis carinii pneumonia) and to some (such as Kaposi's sarcoma) that become life-threatening and that is caused by infection with HIV commonly transmitted in infected blood especially during illicit intravenous drug use and in bodily secretions (such as semen) during sexual intercourse",
+          "a serious disease of the human immune system marked by destruction of a large proportion of the helper T cells in the body due to infection by the HIV virus commonly transmitted especially in blood and semen",
+          "a disease of the human immune system that is characterized cytologically especially by a reduction in the numbers of CD4-bearing helper T cells to 20 percent or less of normal thereby rendering the subject highly vulnerable to life-threatening conditions (as Pneumocystis carinii pneumonia) and to some that become life threatening (as Kaposi's sarcoma) and that is caused by infection with HIV commonly transmitted in infected blood especially during illicit intravenous drug use and in bodily secretions (as semen) during sexual intercourse"
+        ],
+        "dictionary_examples": [
+          "After his best friend died of AIDS, activist Cleve Jones channeled his grief into a sewing project that became the AIDS Memorial Quilt.",
+          "The organization has release 21 compilations and raised over $10 million since; its subsequent television special on ABC became one of the first major AIDS benefits in the music business.",
+          "In his final years, Haring created powerful political imagery and was a particularly outspoken advocate for safe sex and AIDS awareness.",
+          "These are ways of memorializing not merely dead friends but often also their long days of dying in a time when AIDS was a death sentence."
+        ],
+        "web_examples": [
+          "After his best friend died of AIDS, activist Cleve Jones channeled his grief into a sewing project that became the AIDS Memorial Quilt.",
+          "The organization has release 21 compilations and raised over $10 million since; its subsequent television special on ABC became one of the first major AIDS benefits in the music business.",
+          "In his final years, Haring created powerful political imagery and was a particularly outspoken advocate for safe sex and AIDS awareness.",
+          "These are ways of memorializing not merely dead friends but often also their long days of dying in a time when AIDS was a death sentence."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "aids": {
+          "synset": "aids.n.01",
+          "definition": "a serious (often fatal) disease of the immune system transmitted through blood products especially by sexual contact or contaminated needles",
+          "examples": []
+        },
+        "mumps": {
+          "synset": "mumps.n.01",
+          "definition": "an acute contagious viral disease characterized by fever and by swelling of the parotid glands",
+          "examples": []
+        },
+        "polio": {
+          "synset": "poliomyelitis.n.01",
+          "definition": "an acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord",
+          "examples": []
+        },
+        "mono": {
+          "synset": "infectious_mononucleosis.n.01",
+          "definition": "an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream; not highly contagious; some believe it can be transmitted by kissing",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 217,
+      "group_name": "ailment, ill, sprue, choking",
+      "target_word": "ailment",
+      "words": [
+        "ailment",
+        "ill",
+        "sprue",
+        "choking"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ailment 辨析组 (ailment.n.01)",
+      "synset_definition": "an often persistent bodily disorder or disease; a cause for complaining",
+      "merriam_webster": {
+        "definitions": [
+          "a bodily disorder or chronic disease",
+          "UNREST, UNEASINESS",
+          "a bodily disorder : SICKNESS",
+          "a bodily disorder or chronic disease"
+        ],
+        "dictionary_examples": [
+          "Another handful of Panthers injuries to monitor The Panthers also have a few ailments to keep track of during the Week 5 bye.",
+          "This puzzle is stuffed with nuance, pleasing crosses and a lot of simply terrific, ridiculously evocative stuff — for example, a jarring assortment of lovely trivia intersecting with some hideous ailments at more than one juncture.",
+          "Most of the siblings died of similar ailments, following similar patterns, that experts said could have been resolved with interventions as simple as insulin, antibiotics or a supply of oxygen.",
+          "Miller, though, who is dealing with hip and back ailments, was downgraded to not participating Thursday after he was limited at Wednesday drills."
+        ],
+        "web_examples": [
+          "Another handful of Panthers injuries to monitor The Panthers also have a few ailments to keep track of during the Week 5 bye.",
+          "This puzzle is stuffed with nuance, pleasing crosses and a lot of simply terrific, ridiculously evocative stuff — for example, a jarring assortment of lovely trivia intersecting with some hideous ailments at more than one juncture.",
+          "Most of the siblings died of similar ailments, following similar patterns, that experts said could have been resolved with interventions as simple as insulin, antibiotics or a supply of oxygen.",
+          "Miller, though, who is dealing with hip and back ailments, was downgraded to not participating Thursday after he was limited at Wednesday drills."
+        ],
+        "synonym_discussion": "Synonyms of ailment\nRelevance\ndisease\nillness\nill\ncondition\nfever\nsickness\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ailment": {
+          "synset": "ailment.n.01",
+          "definition": "an often persistent bodily disorder or disease; a cause for complaining",
+          "examples": []
+        },
+        "ill": {
+          "synset": "ailment.n.01",
+          "definition": "an often persistent bodily disorder or disease; a cause for complaining",
+          "examples": []
+        },
+        "sprue": {
+          "synset": "sprue.n.01",
+          "definition": "a chronic disorder that occurs in tropical and non-tropical forms and in both children and adults; nutrients are not absorbed; symptoms include foul-smelling diarrhea and emaciation",
+          "examples": []
+        },
+        "choking": {
+          "synset": "choking.n.01",
+          "definition": "a condition caused by blocking the airways to the lungs (as with food or swelling of the larynx)",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 218,
+      "group_name": "airlift, lift, carry, drive",
+      "target_word": "airlift",
+      "words": [
+        "airlift",
+        "lift",
+        "carry",
+        "drive"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "airlift 辨析组 (airlift.n.01)",
+      "synset_definition": "transportation of people or goods by air (especially when other means of access are unavailable)",
+      "merriam_webster": {
+        "definitions": [
+          "a system of transporting cargo or passengers by aircraft often to or from an otherwise inaccessible area",
+          "a system of transporting cargo or passengers by aircraft to or from an area otherwise impossible to reach"
+        ],
+        "dictionary_examples": [
+          "In 2021, two suicide bombers and gunmen attacked crowds of Afghans flocking to Kabul’s airport, transforming a scene of desperation into one of horror in the waning days of an airlift for those fleeing the Taliban takeover of the country.",
+          "The airlift was handled by a UH-60 Blackhawk crew from Knoxville’s 1-230th Assault Helicopter Battalion, officials said.",
+          "Additionally, while Iranian officials talk about a ground offensive, Bubiyan and Bahrain are islands, which would necessitate amphibious operations or sizable airlifts.",
+          "Six Boeing 767 airlifts have carried 295 tons of relief supplies into the country."
+        ],
+        "web_examples": [
+          "In 2021, two suicide bombers and gunmen attacked crowds of Afghans flocking to Kabul’s airport, transforming a scene of desperation into one of horror in the waning days of an airlift for those fleeing the Taliban takeover of the country.",
+          "The airlift was handled by a UH-60 Blackhawk crew from Knoxville’s 1-230th Assault Helicopter Battalion, officials said.",
+          "Additionally, while Iranian officials talk about a ground offensive, Bubiyan and Bahrain are islands, which would necessitate amphibious operations or sizable airlifts.",
+          "Six Boeing 767 airlifts have carried 295 tons of relief supplies into the country."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "airlift": {
+          "synset": "airlift.n.01",
+          "definition": "transportation of people or goods by air (especially when other means of access are unavailable)",
+          "examples": []
+        },
+        "lift": {
+          "synset": "lift.n.01",
+          "definition": "the act of giving temporary assistance",
+          "examples": []
+        },
+        "carry": {
+          "synset": "carry.n.01",
+          "definition": "the act of carrying something",
+          "examples": []
+        },
+        "drive": {
+          "synset": "drive.n.01",
+          "definition": "the act of applying force to propel something",
+          "examples": [
+            "after reaching the desired velocity the drive is cut off"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 219,
+      "group_name": "airstrip, drome, strip, airport",
+      "target_word": "airstrip",
+      "words": [
+        "airstrip",
+        "drome",
+        "strip",
+        "airport"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "airstrip 辨析组 (airstrip.n.01)",
+      "synset_definition": "an airfield without normal airport facilities",
+      "merriam_webster": {
+        "definitions": [
+          "a runway without normal air base or airport facilities",
+          "a runway without normal air base or airport equipment"
+        ],
+        "dictionary_examples": [
+          "Those victories flying off island airstrips might have been the final legacy of the Corsair, but British Royal Navy pilots figured out how to fly it off carriers, according to the museum.",
+          "In June, citing concerns related to hurricane season, DHS said all detainees at the Florida state-run center located at an isolated airstrip in the Everglades were transferred to other facilities.",
+          "Most of the detainees at Alligator Alcatraz were held in soft-sided tents on an airstrip in the middle of the Everglades, which were further divided into dormitory-style units surrounded by metal fencing and filled with bunk beds.",
+          "The crash happened near the Long Lellang airstrip in northern Sarawak, Malaysia’s largest state, which covers vast rural and remote areas where healthcare access can be difficult."
+        ],
+        "web_examples": [
+          "Those victories flying off island airstrips might have been the final legacy of the Corsair, but British Royal Navy pilots figured out how to fly it off carriers, according to the museum.",
+          "In June, citing concerns related to hurricane season, DHS said all detainees at the Florida state-run center located at an isolated airstrip in the Everglades were transferred to other facilities.",
+          "Most of the detainees at Alligator Alcatraz were held in soft-sided tents on an airstrip in the middle of the Everglades, which were further divided into dormitory-style units surrounded by metal fencing and filled with bunk beds.",
+          "The crash happened near the Long Lellang airstrip in northern Sarawak, Malaysia’s largest state, which covers vast rural and remote areas where healthcare access can be difficult."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "airstrip": {
+          "synset": "airstrip.n.01",
+          "definition": "an airfield without normal airport facilities",
+          "examples": []
+        },
+        "drome": {
+          "synset": "airport.n.01",
+          "definition": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+          "examples": []
+        },
+        "strip": {
+          "synset": "strip.n.01",
+          "definition": "a relatively long narrow piece of something",
+          "examples": [
+            "he felt a flat strip of muscle"
+          ]
+        },
+        "airport": {
+          "synset": "airport.n.01",
+          "definition": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 220,
+      "group_name": "alchemy, dealings, politics, chemistry",
+      "target_word": "alchemy",
+      "words": [
+        "alchemy",
+        "dealings",
+        "politics",
+        "chemistry"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "alchemy 辨析组 (chemistry.n.03)",
+      "synset_definition": "the way two individuals relate to each other",
+      "merriam_webster": {
+        "definitions": [
+          "a medieval chemical science and speculative philosophy aiming to achieve the transmutation of the base metals into gold, the discovery of a universal cure for disease, and the discovery of a means of indefinitely prolonging life",
+          "a power or process that changes or transforms something in a mysterious or impressive way",
+          "an inexplicable or mysterious transmuting",
+          "a medieval chemical science with the goals of changing less valuable metals into gold, discovering a single cure for all diseases, and discovering how to live forever"
+        ],
+        "dictionary_examples": [
+          "The most potent day of the month for inner alchemy and purification will be on October 23, when the Sun enters Scorpio and conjoins Venus, an event otherwise known as a Venus cazimi.",
+          "All of that information creates an alchemy that becomes our instinct as creators.",
+          "My slice was an alchemy of crust and rich berry, somewhere in the blue to blackberry spectrum.",
+          "Saturated in velvety blues, reds, and blacks, Zumthor’s surfaces all but vibrate; the subtle variations in the application of the paint and the alchemy of the pigment on the concrete substrate bring the walls maximally to life."
+        ],
+        "web_examples": [
+          "The most potent day of the month for inner alchemy and purification will be on October 23, when the Sun enters Scorpio and conjoins Venus, an event otherwise known as a Venus cazimi.",
+          "All of that information creates an alchemy that becomes our instinct as creators.",
+          "My slice was an alchemy of crust and rich berry, somewhere in the blue to blackberry spectrum.",
+          "Saturated in velvety blues, reds, and blacks, Zumthor’s surfaces all but vibrate; the subtle variations in the application of the paint and the alchemy of the pigment on the concrete substrate bring the walls maximally to life."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "alchemy": {
+          "synset": "chemistry.n.03",
+          "definition": "the way two individuals relate to each other",
+          "examples": [
+            "their chemistry was wrong from the beginning -- they hated each other",
+            "a mysterious alchemy brought them together"
+          ]
+        },
+        "dealings": {
+          "synset": "dealings.n.01",
+          "definition": "social or verbal interchange (usually followed by `with')",
+          "examples": []
+        },
+        "politics": {
+          "synset": "politics.n.01",
+          "definition": "social relations involving intrigue to gain authority or power",
+          "examples": [
+            "office politics is often counterproductive"
+          ]
+        },
+        "chemistry": {
+          "synset": "chemistry.n.01",
+          "definition": "the science of matter; the branch of the natural sciences dealing with the composition of substances and their properties and reactions",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 221,
+      "group_name": "alcoholism, egomania, potomania, agromania",
+      "target_word": "alcoholism",
+      "words": [
+        "alcoholism",
+        "egomania",
+        "potomania",
+        "agromania"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "alcoholism 辨析组 (dipsomania.n.01)",
+      "synset_definition": "an intense persistent desire to drink alcoholic beverages to excess",
+      "merriam_webster": {
+        "definitions": [
+          "continued excessive or compulsive use of alcoholic drinks",
+          "a chronic, progressive, potentially fatal disorder marked by excessive and usually compulsive drinking of alcohol leading to psychological and physical dependence or addiction",
+          "acute alcohol poisoning resulting from the usually rapid consumption of excessive alcoholic beverages",
+          "continued, uncontrolled, and greater than normal use of alcoholic drinks"
+        ],
+        "dictionary_examples": [
+          "During their time together in Milwaukee, Antetokounmpo built a strong connection with Baker and expressed admiration for Baker’s winding NBA journey and his successful battle with alcoholism and substance abuse.",
+          "Juan Angel, who went on to build a successful landscaping business, struggled with alcoholism, which Rivera chronicles in this narrative that does not shy away from the role addiction played in the life and death of his role model.",
+          "She’s rattled by hearing his name again, which, among other things, raises the specter of her alcoholism.",
+          "In 1925, as Arbuckle was struggling with alcoholism in the wake of his trials, Carter DeHaven’s short Character Studies was released."
+        ],
+        "web_examples": [
+          "During their time together in Milwaukee, Antetokounmpo built a strong connection with Baker and expressed admiration for Baker’s winding NBA journey and his successful battle with alcoholism and substance abuse.",
+          "Juan Angel, who went on to build a successful landscaping business, struggled with alcoholism, which Rivera chronicles in this narrative that does not shy away from the role addiction played in the life and death of his role model.",
+          "She’s rattled by hearing his name again, which, among other things, raises the specter of her alcoholism.",
+          "In 1925, as Arbuckle was struggling with alcoholism in the wake of his trials, Carter DeHaven’s short Character Studies was released."
+        ],
+        "synonym_discussion": "Synonyms of alcoholism\nRelevance\ndrunkenness\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alcoholism": {
+          "synset": "alcoholism.n.01",
+          "definition": "habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms",
+          "examples": []
+        },
+        "egomania": {
+          "synset": "egomania.n.01",
+          "definition": "an intense and irresistible love for yourself and concern for your own needs",
+          "examples": []
+        },
+        "potomania": {
+          "synset": "dipsomania.n.01",
+          "definition": "an intense persistent desire to drink alcoholic beverages to excess",
+          "examples": []
+        },
+        "agromania": {
+          "synset": "agromania.n.01",
+          "definition": "an intense desire to be alone or out in the open",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 222,
+      "group_name": "alias, brand, title, marque",
+      "target_word": "alias",
+      "words": [
+        "alias",
+        "brand",
+        "title",
+        "marque"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "alias 辨析组 (alias.n.01)",
+      "synset_definition": "a name that has been assumed temporarily",
+      "merriam_webster": {
+        "definitions": [
+          "an assumed or additional name that a person sometimes uses",
+          "a pseudonym (such as a pen name or stage name) that is associated with a person's professional identity",
+          "otherwise called : otherwise known as",
+          "otherwise called : otherwise known as"
+        ],
+        "dictionary_examples": [
+          "John Smith alias Richard Jones",
+          "the outlaw William H. Bonney, Jr. alias \"Billy the Kid\"",
+          "Some are terms of affection, while others have reportedly been used as aliases for privacy or security.",
+          "Other candidates skip celebrity impersonations and opt instead for catchy aliases.",
+          "During a news conference on Monday, FBI officials provided new information on Satinderjeet Singh, who is also known as Goldy Brar among other aliases.",
+          "The Department of Justice says Love used several aliases, including Jon Love, Avril Lyto Love, and Jordan Love."
+        ],
+        "web_examples": [
+          "Some are terms of affection, while others have reportedly been used as aliases for privacy or security.",
+          "Other candidates skip celebrity impersonations and opt instead for catchy aliases.",
+          "During a news conference on Monday, FBI officials provided new information on Satinderjeet Singh, who is also known as Goldy Brar among other aliases.",
+          "The Department of Justice says Love used several aliases, including Jon Love, Avril Lyto Love, and Jordan Love."
+        ],
+        "synonym_discussion": "Synonyms of alias\nRelevance\n\nNoun\n\nnickname\nsurname\nmoniker\nepithet\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alias": {
+          "synset": "alias.n.01",
+          "definition": "a name that has been assumed temporarily",
+          "examples": []
+        },
+        "brand": {
+          "synset": "trade_name.n.01",
+          "definition": "a name given to a product or service",
+          "examples": []
+        },
+        "title": {
+          "synset": "title.n.01",
+          "definition": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+          "examples": [
+            "Title 8 provided federal help for schools"
+          ]
+        },
+        "marque": {
+          "synset": "trade_name.n.01",
+          "definition": "a name given to a product or service",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 223,
+      "group_name": "alibi, excuse, apology, apologia",
+      "target_word": "alibi",
+      "words": [
+        "alibi",
+        "excuse",
+        "apology",
+        "apologia"
+      ],
+      "pos": "n",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "alibi 辨析组 (alibi.n.01)",
+      "synset_definition": "(law) a defense by an accused person purporting to show that he or she could not have committed the crime in question",
+      "merriam_webster": {
+        "definitions": [
+          "a defense of having been at the time of the commission of an act elsewhere than at the place of commission",
+          "the fact or state of having been elsewhere at the time",
+          "an excuse usually intended to avert blame or punishment (as for failure or negligence)",
+          "someone or something that provides a person with an alibi"
+        ],
+        "dictionary_examples": [
+          "said by way of apology that he would have met them if he could",
+          "his speech was an apologia for his foreign policy",
+          "used illness as an excuse for missing the meeting",
+          "her usual plea that she was nearsighted",
+          "used any pretext to get out of work",
+          "his alibi failed to stand scrutiny"
+        ],
+        "web_examples": [
+          "The doctor’s husband, Mark Sievers, was in Connecticut with their two young daughters — an airtight alibi.",
+          "Prosecutors instead relied on circumstantial evidence to make their case, including a secret affair and undermining his alibi.",
+          "Even more fortunately, TJ also has a real, if mortifying, alibi.",
+          "This includes evaluation of eyewitness identifications, alibi questioning and case documentation."
+        ],
+        "synonym_discussion": "Synonyms of alibi\nRelevance\n\nNoun\n\nexcuse\njustification\nreason\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "alibi": {
+          "synset": "alibi.n.01",
+          "definition": "(law) a defense by an accused person purporting to show that he or she could not have committed the crime in question",
+          "examples": []
+        },
+        "excuse": {
+          "synset": "excuse.n.01",
+          "definition": "a defense of some offensive behavior or some failure to keep a promise etc.",
+          "examples": [
+            "he kept finding excuses to stay",
+            "every day he had a new alibi for not getting a job"
+          ]
+        },
+        "apology": {
+          "synset": "apology.n.01",
+          "definition": "an expression of regret at having caused trouble for someone",
+          "examples": [
+            "he wrote a letter of apology to the hostess"
+          ]
+        },
+        "apologia": {
+          "synset": "apology.n.02",
+          "definition": "a formal written defense of something you believe in strongly",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 224,
+      "group_name": "alkali, incense, repellent, base",
+      "target_word": "alkali",
+      "words": [
+        "alkali",
+        "incense",
+        "repellent",
+        "base"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "alkali 辨析组 (base.n.10)",
+      "synset_definition": "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water",
+      "merriam_webster": {
+        "definitions": [
+          "a soluble salt obtained from the ashes of plants and consisting largely of potassium or sodium carbonate",
+          "a substance (such as a hydroxide or carbonate of an alkali metal) having marked basic properties\n compare base sense 6a",
+          "ALKALI METAL",
+          "a soluble salt or a mixture of soluble salts present in some soils of arid regions in quantity detrimental to agriculture"
+        ],
+        "dictionary_examples": [
+          "Some dark chocolate products are Dutch-processed or treated with alkali to improve flavor and appearance.",
+          "Sold under brand names such as Stump Stop, Stump Out, and Stump Killer, these chemical stump removers typically use concentrated salts, potassium nitrate, alkalis, and sulfiting agents to break down wood and speed up natural decay.",
+          "Leggate called OxyChem a steady potential cash cow that focuses on its growing chlor-alkali business manufacturing PVC (polyvinyl chloride) resin for piping, construction materials, medical equipment, and more.",
+          "Dutch-processed is best because the alkali used in its production gives the cocoa a richer, deeper hue and smoother taste that’s important for color and flavor intensity."
+        ],
+        "web_examples": [
+          "Some dark chocolate products are Dutch-processed or treated with alkali to improve flavor and appearance.",
+          "Sold under brand names such as Stump Stop, Stump Out, and Stump Killer, these chemical stump removers typically use concentrated salts, potassium nitrate, alkalis, and sulfiting agents to break down wood and speed up natural decay.",
+          "Leggate called OxyChem a steady potential cash cow that focuses on its growing chlor-alkali business manufacturing PVC (polyvinyl chloride) resin for piping, construction materials, medical equipment, and more.",
+          "Dutch-processed is best because the alkali used in its production gives the cocoa a richer, deeper hue and smoother taste that’s important for color and flavor intensity."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "alkali": {
+          "synset": "base.n.10",
+          "definition": "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water",
+          "examples": [
+            "bases include oxides and hydroxides of metals and ammonia"
+          ]
+        },
+        "incense": {
+          "synset": "incense.n.01",
+          "definition": "a substance that produces a fragrant odor when burned",
+          "examples": []
+        },
+        "repellent": {
+          "synset": "repellent.n.01",
+          "definition": "a compound with which fabrics are treated to repel water",
+          "examples": []
+        },
+        "base": {
+          "synset": "base.n.01",
+          "definition": "installation from which a military force initiates operations",
+          "examples": [
+            "the attack wiped out our forward bases"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 225,
+      "group_name": "allegiance, loyalty, commitment, dedication",
+      "target_word": "allegiance",
+      "words": [
+        "allegiance",
+        "loyalty",
+        "commitment",
+        "dedication"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "allegiance 辨析组 (commitment.n.02)",
+      "synset_definition": "the act of binding yourself (intellectually or emotionally) to a course of action",
+      "merriam_webster": {
+        "definitions": [
+          "the obligation of a feudal vassal to a liege lord",
+          "the fidelity owed by a subject, citizen, or noncitizen resident to a sovereign or government",
+          "devotion or loyalty to a person, group, or cause",
+          "loyalty and obedience owed to one's country or government"
+        ],
+        "dictionary_examples": [
+          "marital fidelity",
+          "pledging allegiance",
+          "fealty to the truth",
+          "valued the loyalty of his friends",
+          "a painter's devotion to her art",
+          "filial piety"
+        ],
+        "web_examples": [
+          "Throw in some divine intervention with the first Chicago pope confessing his allegiance to the South Siders, and the Cinderella story has captured the nation’s imagination.",
+          "There could be work drama or commotion among your colleagues that shakes up existing allegiances, which will compel you to reevaluate who’s really on your team.",
+          "In that same scene, Adam also jokingly calls Olive a rebel, which could be a nod to Rey’s allegiance to the Resistance.",
+          "During state visits especially, clothes enter a new lexicon of diplomacy, where the choice of colors, designers, and silhouettes innately acquire symbolism and signal allegiances."
+        ],
+        "synonym_discussion": "Synonyms of allegiance\nRelevance\nloyalty\ncommitment\ndedication\ndevotion\nfidelity\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "allegiance": {
+          "synset": "commitment.n.02",
+          "definition": "the act of binding yourself (intellectually or emotionally) to a course of action",
+          "examples": [
+            "his long commitment to public service",
+            "they felt no loyalty to a losing team"
+          ]
+        },
+        "loyalty": {
+          "synset": "loyalty.n.01",
+          "definition": "the quality of being loyal",
+          "examples": []
+        },
+        "commitment": {
+          "synset": "committedness.n.01",
+          "definition": "the trait of sincere and steadfast fixity of purpose",
+          "examples": [
+            "a man of energy and commitment"
+          ]
+        },
+        "dedication": {
+          "synset": "dedication.n.01",
+          "definition": "complete and wholehearted fidelity",
+          "examples": []
+        }
+      }
+    }
+  ]
+}

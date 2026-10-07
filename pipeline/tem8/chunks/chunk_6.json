@@ -1,0 +1,1538 @@
+{
+  "chunk_id": 6,
+  "theme_info": {
+    "chunk_id": 6,
+    "theme": "司法审判、法律规约与法庭辩论 (Jurisprudence & Courtroom Adjudication)",
+    "guidance": "题干围绕宪法审查、证据开示、抗辩豁免、法官公断、连带责任等高阶法律英语专有连带与庄重文体。"
+  },
+  "cluster_count": 23,
+  "expected_questions": 46,
+  "clusters": [
+    {
+      "group_id": 139,
+      "group_name": "accessible, handy, getatable, reachable",
+      "target_word": "accessible",
+      "words": [
+        "accessible",
+        "handy",
+        "getatable",
+        "reachable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "accessible 辨析组 (accessible.a.01)",
+      "synset_definition": "capable of being reached",
+      "merriam_webster": {
+        "definitions": [
+          "capable of being reached",
+          "being within reach",
+          "easy to speak to or deal with",
+          "capable of being used or seen : AVAILABLE"
+        ],
+        "dictionary_examples": [
+          "Accessibility The resort is not ADA compliant, however rumor has it an accessible ground-level suite may be added.",
+          "Each touchpoint reinforced the others, making Cedars-Sinai’s community investment more visible and accessible while building relationships beyond any single activation.",
+          "This is one of the most consequential challenges of accessible genomic interpretations.",
+          "Clarissa Laguardia Clarissa Laguardia wanted to make language services more accessible to everyone."
+        ],
+        "web_examples": [
+          "Accessibility The resort is not ADA compliant, however rumor has it an accessible ground-level suite may be added.",
+          "Each touchpoint reinforced the others, making Cedars-Sinai’s community investment more visible and accessible while building relationships beyond any single activation.",
+          "This is one of the most consequential challenges of accessible genomic interpretations.",
+          "Clarissa Laguardia Clarissa Laguardia wanted to make language services more accessible to everyone."
+        ],
+        "synonym_discussion": "Synonyms of accessible\nRelevance\npopular\naffordable\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "accessible": {
+          "synset": "accessible.a.01",
+          "definition": "capable of being reached",
+          "examples": [
+            "a town accessible by rail"
+          ]
+        },
+        "handy": {
+          "synset": "handy.n.01",
+          "definition": "United States blues musician who transcribed and published traditional blues music (1873-1958)",
+          "examples": []
+        },
+        "getatable": {
+          "synset": "come-at-able.s.02",
+          "definition": "capable of being reached or attained",
+          "examples": [
+            "a very getatable man",
+            "both oil and coal are there but not in getatable locations"
+          ]
+        },
+        "reachable": {
+          "synset": "approachable.s.03",
+          "definition": "easily approached",
+          "examples": [
+            "a site approachable from a branch of the Niger"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 140,
+      "group_name": "adamant, inflexible, inexorable, intransigent",
+      "target_word": "adamant",
+      "words": [
+        "adamant",
+        "inflexible",
+        "inexorable",
+        "intransigent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adamant 辨析组 (adamant.s.01)",
+      "synset_definition": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill",
+      "merriam_webster": {
+        "definitions": [
+          "unshakable or insistent especially in maintaining a position or opinion : UNYIELDING",
+          "a stone (such as a diamond) formerly believed to be of impenetrable hardness",
+          "an unbreakable or extremely hard substance",
+          "an imaginary stone of great hardness"
+        ],
+        "dictionary_examples": [
+          "'Gilbert, don't!' she cried, in a tone that would have pierced a heart of adamant.\n—Anne Brontë",
+          "inflexible in their demands",
+          "obdurate in his refusal to grant clemency",
+          "adamant that the work should continue",
+          "I am keen not to share my genetic code with my insurer, I am keen that my doctor should know it and use it, but I am adamant to the point of fanaticism that it is my decision.",
+          "Arrive to find child physically intact but … adamant that he will not remain another minute in Ski Bunny program. Despite their 'professionalism,' staff members eagerly concur."
+        ],
+        "web_examples": [
+          "So my thought process was to come in and early in the day float her name subtly, and not be too adamant about it.",
+          "The Grammy winner was adamant in his Tuesday statement that he wouldn’t be drawn into discussion of the war in Gaza, arguing that his fans don’t come to his shows to hear about these issues.",
+          "The Grammy winner was adamant in his Tuesday statement that he wouldn't be drawn into discussion of the war in Gaza, arguing that his fans don’t come to his shows to hear about these issues.",
+          "Hart is a breast cancer survivor who underwent a double mastectomy as part of their treatment and is adamant about diverse breast representation."
+        ],
+        "synonym_discussion": "Synonyms of adamant\nRelevance\n\nAdjective\n\nstubborn\nsteadfast\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adamant": {
+          "synset": "diamond.n.02",
+          "definition": "very hard native crystalline carbon valued as a gem",
+          "examples": []
+        },
+        "inflexible": {
+          "synset": "inflexible.a.01",
+          "definition": "incapable of change",
+          "examples": [
+            "a man of inflexible purpose"
+          ]
+        },
+        "inexorable": {
+          "synset": "grim.s.01",
+          "definition": "not to be placated or appeased or moved by entreaty",
+          "examples": [
+            "grim determination",
+            "grim necessity"
+          ]
+        },
+        "intransigent": {
+          "synset": "adamant.s.01",
+          "definition": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill",
+          "examples": [
+            "he is adamant in his refusal to change his mind",
+            "Cynthia was inexorable; she would have none of him"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 141,
+      "group_name": "additive, cumulative, complementary, completing",
+      "target_word": "additive",
+      "words": [
+        "additive",
+        "cumulative",
+        "complementary",
+        "completing"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "additive 辨析组 (additive.a.02)",
+      "synset_definition": "characterized or produced by addition",
+      "merriam_webster": {
+        "definitions": [
+          "of, relating to, or characterized by addition",
+          "produced by addition",
+          "characterized by, being, or producing effects (such as drug responses or gene products) that when the causative factors act together are the sum of their individual effects",
+          "a substance added to another in relatively small amounts to effect a desired change in properties"
+        ],
+        "dictionary_examples": [
+          "The team stated that commercial success will depend on precisely balancing additive placement, pore structure, and chemical concentration.",
+          "Grail says its Galleri test should be additive to standardized cancer screenings, like colonoscopies and mammograms, and not be used as a replacement.",
+          "Fentanyl – a pharmaceutical developed in the 1960s as a safer alternative to morphine – proliferated as a cheaper, more convenient additive.",
+          "South Korean research team has designed a dry thick-film cathode technology using porous graphitic carbon nitride as a cathode additive."
+        ],
+        "web_examples": [
+          "The team stated that commercial success will depend on precisely balancing additive placement, pore structure, and chemical concentration.",
+          "Grail says its Galleri test should be additive to standardized cancer screenings, like colonoscopies and mammograms, and not be used as a replacement.",
+          "Fentanyl – a pharmaceutical developed in the 1960s as a safer alternative to morphine – proliferated as a cheaper, more convenient additive.",
+          "South Korean research team has designed a dry thick-film cathode technology using porous graphitic carbon nitride as a cathode additive."
+        ],
+        "synonym_discussion": "Synonyms of additive\nRelevance\n\nAdjective\n\ncumulative\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "additive": {
+          "synset": "additive.n.01",
+          "definition": "something added to enhance food or gasoline or paint or medicine",
+          "examples": []
+        },
+        "cumulative": {
+          "synset": "accumulative.s.01",
+          "definition": "increasing by successive addition",
+          "examples": [
+            "the benefits are cumulative",
+            "the eventual accumulative effect of these substances"
+          ]
+        },
+        "complementary": {
+          "synset": "complementary_color.n.01",
+          "definition": "either one of two chromatic colors that when mixed together give white (in the case of lights) or grey (in the case of pigments)",
+          "examples": [
+            "yellow and blue are complementaries"
+          ]
+        },
+        "completing": {
+          "synset": "complete.v.01",
+          "definition": "come or bring to a finish or an end",
+          "examples": [
+            "He finished the dishes",
+            "She completed the requirements for her Master's Degree"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 142,
+      "group_name": "adept, good, expert, skilled",
+      "target_word": "adept",
+      "words": [
+        "adept",
+        "good",
+        "expert",
+        "skilled"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adept 辨析组 (adept.s.01)",
+      "synset_definition": "having or showing knowledge and skill and aptitude",
+      "merriam_webster": {
+        "definitions": [
+          "thoroughly proficient : EXPERT",
+          "a highly skilled or well-trained individual : EXPERT",
+          "a highly skilled or well-trained individual : EXPERT",
+          "very good at something"
+        ],
+        "dictionary_examples": [
+          "proficient in translating foreign languages",
+          "adept at doing long division",
+          "a skilled surgeon",
+          "skillful drivers",
+          "expert in the evaluation of wines",
+          "Madison, Jefferson's lifelong friend, collaborator, and political ally, was quizzical and skeptical. His mind was less capacious and less elevated than Jefferson's, but more … original, and instinctively contrary. Less learned than Jefferson, his verbal skills inferior, he was almost pedantically alert to inner complications, and so, though less adept a politician, he was more consistent."
+        ],
+        "web_examples": [
+          "Nicole Feng, Zhang's mother, said her son has become more adept at using AI tools to explore his own interests, such as aviation.",
+          "Walker, who leads the NFL with 360 rushing yards, also is adept at avoiding an issue that plagues many ball carriers and receivers in the NFL.",
+          "Still, the question of what Ebel was doing with his adepts swept through Prussia, dominating the newspapers that had only recently begun to emerge from their eighteenth-century chronicling of obligations to a more modern publicizing role.",
+          "Lest things get predictable, Tasjan’s adept at letting the music battle with the lyrics in a way that hints at how any experience is far more complex than we are led to believe."
+        ],
+        "synonym_discussion": "Synonyms of adept\nRelevance\n\nAdjective\n\nskilled\nskillful\nproficient\nexperienced\nexpert\n\nNoun\n\nexpert\nmaster\nscholar\nvirtuoso\nwizard\nproficient\nguru\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adept": {
+          "synset": "ace.n.03",
+          "definition": "someone who is dazzlingly skilled in any field",
+          "examples": []
+        },
+        "good": {
+          "synset": "good.n.01",
+          "definition": "benefit",
+          "examples": [
+            "for your own good",
+            "what's the good of worrying?"
+          ]
+        },
+        "expert": {
+          "synset": "expert.n.01",
+          "definition": "a person with special knowledge or ability who performs skillfully",
+          "examples": []
+        },
+        "skilled": {
+          "synset": "skilled.a.01",
+          "definition": "having or showing or requiring special skill",
+          "examples": [
+            "only the most skilled gymnasts make an Olympic team",
+            "a skilled surgeon has many years of training and experience"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 143,
+      "group_name": "adhesive, gluey, pasty, gummy",
+      "target_word": "adhesive",
+      "words": [
+        "adhesive",
+        "gluey",
+        "pasty",
+        "gummy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adhesive 辨析组 (adhesive.a.01)",
+      "synset_definition": "tending to adhere",
+      "merriam_webster": {
+        "definitions": [
+          "tending to remain in association or memory",
+          "tending to adhere or cause adherence",
+          "prepared for adhering",
+          "characterized by the formation of new fibrous tissue resulting from an inflammatory process"
+        ],
+        "dictionary_examples": [
+          "The researchers managed to engineer a special strain of Saccharomyces cerevisiae yeast that produces extremely adhesive proteins.",
+          "Spray the adhesive side of the film with your water and soap solution.",
+          "Crews used laser levels and temporary adhesive to fix items to the walls, checking their work for accuracy against renderings of the actual office before nailing many adornments to the walls.",
+          "Geckos scale smooth vertical surfaces without adhesives or suction cups thanks to microscopic hairs on their feet called setae."
+        ],
+        "web_examples": [
+          "The researchers managed to engineer a special strain of Saccharomyces cerevisiae yeast that produces extremely adhesive proteins.",
+          "Spray the adhesive side of the film with your water and soap solution.",
+          "Crews used laser levels and temporary adhesive to fix items to the walls, checking their work for accuracy against renderings of the actual office before nailing many adornments to the walls.",
+          "Geckos scale smooth vertical surfaces without adhesives or suction cups thanks to microscopic hairs on their feet called setae."
+        ],
+        "synonym_discussion": "Synonyms of adhesive\nRelevance\n\nAdjective\n\nsticky\nadherent\n\nNoun\n\nglue\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adhesive": {
+          "synset": "adhesive_material.n.01",
+          "definition": "a substance that unites or bonds surfaces together",
+          "examples": []
+        },
+        "gluey": {
+          "synset": "gluey.s.01",
+          "definition": "having the sticky properties of an adhesive",
+          "examples": []
+        },
+        "pasty": {
+          "synset": "pasty.n.01",
+          "definition": "small meat pie or turnover",
+          "examples": []
+        },
+        "gummy": {
+          "synset": "gluey.s.01",
+          "definition": "having the sticky properties of an adhesive",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 144,
+      "group_name": "adjunct, adjuvant, accessory, ancillary",
+      "target_word": "adjunct",
+      "words": [
+        "adjunct",
+        "adjuvant",
+        "accessory",
+        "ancillary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adjunct 辨析组 (accessory.s.02)",
+      "synset_definition": "furnishing added support",
+      "merriam_webster": {
+        "definitions": [
+          "something joined or added to another thing but not essentially a part of it",
+          "a word or word group that qualifies or completes the meaning of another word or other words and is not itself a main structural element in its sentence",
+          "an adverb or adverbial phrase (such as heartily in \"They ate heartily\" or at noon in \"We left at noon\") attached to the verb of a clause especially to express a relation of time, place, frequency, degree, or manner\n compare disjunct sense 2",
+          "an associate or assistant of another"
+        ],
+        "dictionary_examples": [
+          "Because Joseph Ellis has been an outspoken critic of social and women's history, he appears a peculiar choice to write the foreword, despite his many publications on the Revolutionary era. Unsurprisingly, perhaps, he treats Abigail here more as her husband's adjunct and supporter than as her own woman.",
+          "As an adjunct to its basic educational role, the public library will increasingly serve as an access point to the resources of other libraries as well as to nonlibrary sources of publicly available information.",
+          "In A.D. 400 western Europe was merely a geographic expression. Roman civilization was centered on the Mediterranean, and France, England, and the Rhine valley were mere adjuncts of the Mediterranean world.",
+          "But it's Sainte-Marie's less-well-known life as a computer geek—and an adjunct professor of digital art, Native American studies, and philosophy at several universities—that brings her to midtown Manhattan today.",
+          "There is a terrible shortage of jobs in the universities, where, increasingly, men and women with Ph.D.s hang on to various forms of underpaid adjunct posts. Believe me, it happens at Harvard, too.",
+          "Using his chauffeur-driven car as an adjunct office, the designer shuttles among the design ateliers of his three major collections: the one that bears his name; Chanel, and, after a seven-year hiatus, Chloé."
+        ],
+        "web_examples": [
+          "The Cornell chapter of the AAUP represents faculty, adjuncts, librarians, post-doctoral candidates and academic staff at Cornell University.",
+          "Any adjuncts already teaching these subjects could continue to do so if the Oklahoma State Board of Education grants their district a waiver and the teacher completes training in the science of reading, according to the law.",
+          "The strongest evidence sits with clinic-grade lasers used by veterinarians as an adjunct for arthritis, wound healing and inflammatory conditions.",
+          "Writer-directors Vishnu Sinha, adjunct faculty at Columbia University, and Paromita Dhar return as Lab instructors."
+        ],
+        "synonym_discussion": "Synonyms of adjunct\nRelevance\n\nNoun\n\nassistant\naide\naid\napprentice\nadjutant\ndeputy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adjunct": {
+          "synset": "adjunct.n.01",
+          "definition": "something added to another thing but not an essential part of it",
+          "examples": []
+        },
+        "adjuvant": {
+          "synset": "adjuvant.n.01",
+          "definition": "an additive that enhances the effectiveness of medical treatment",
+          "examples": []
+        },
+        "accessory": {
+          "synset": "accessory.n.01",
+          "definition": "clothing that is worn or carried, but not part of your main clothing",
+          "examples": []
+        },
+        "ancillary": {
+          "synset": "accessory.s.02",
+          "definition": "furnishing added support",
+          "examples": [
+            "an ancillary pump",
+            "an adjuvant discipline to forms of mysticism"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 145,
+      "group_name": "admissible, permissible, allowable, admittible",
+      "target_word": "admissible",
+      "words": [
+        "admissible",
+        "permissible",
+        "allowable",
+        "admittible"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "admissible 辨析组 (admissible.a.01)",
+      "synset_definition": "deserving to be admitted",
+      "merriam_webster": {
+        "definitions": [
+          "capable of being allowed or conceded : PERMISSIBLE",
+          "capable or worthy of being admitted",
+          "that can be or is worthy to be admitted or allowed",
+          "capable of being allowed or permitted"
+        ],
+        "dictionary_examples": [
+          "Statements made during the conference are confidential and will not be admissible at trial if the case does not settle.",
+          "The parties also may relitigate some issues over what evidence and witnesses should be admissible in a new trial.",
+          "The lingerie, which was considered somewhat risqué, met a need in the Spanish consumer that was beginning to be admissible as the Franco regime came to an end.",
+          "While expressing concerns about the possible protections surrounding that interview, Kierny acknowledged that his statements were given voluntarily and may now be admissible."
+        ],
+        "web_examples": [
+          "Statements made during the conference are confidential and will not be admissible at trial if the case does not settle.",
+          "The parties also may relitigate some issues over what evidence and witnesses should be admissible in a new trial.",
+          "The lingerie, which was considered somewhat risqué, met a need in the Spanish consumer that was beginning to be admissible as the Franco regime came to an end.",
+          "While expressing concerns about the possible protections surrounding that interview, Kierny acknowledged that his statements were given voluntarily and may now be admissible."
+        ],
+        "synonym_discussion": "Synonyms of admissible\nRelevance\nallowable\nacceptable\npermissible\npermitted\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "admissible": {
+          "synset": "admissible.a.01",
+          "definition": "deserving to be admitted",
+          "examples": [
+            "admissible evidence"
+          ]
+        },
+        "permissible": {
+          "synset": "permissible.a.01",
+          "definition": "that may be permitted especially as according to rule",
+          "examples": [
+            "permissible behavior in school",
+            "a permissible tax deduction"
+          ]
+        },
+        "allowable": {
+          "synset": "allowable.s.01",
+          "definition": "deductible according to the tax laws",
+          "examples": []
+        },
+        "admittible": {
+          "synset": "admittable.s.01",
+          "definition": "deserving to be allowed to enter",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 146,
+      "group_name": "adrift, afloat, aimless, planless",
+      "target_word": "adrift",
+      "words": [
+        "adrift",
+        "afloat",
+        "aimless",
+        "planless"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adrift 辨析组 (adrift.s.01)",
+      "synset_definition": "aimlessly drifting",
+      "merriam_webster": {
+        "definitions": [
+          "without motive power and without anchor or mooring",
+          "without ties, guidance, or security",
+          "free from restraint or support",
+          "without power or anchor"
+        ],
+        "dictionary_examples": [
+          "Four people and a dog were left adrift in a treacherous ocean inlet when their boat capsized off Oak Island on the North Carolina coast, according to searchers.",
+          "With the parents distracted by their game of cat and mouse, the kids are left adrift in the kind of cutthroat private school where suicide is an everyday topic.",
+          "All four stars are more than capable actors, but they’re left adrift here by Armstrong’s script.",
+          "Eve and Marshall’s welcoming her into their community kept her from going adrift."
+        ],
+        "web_examples": [
+          "Four people and a dog were left adrift in a treacherous ocean inlet when their boat capsized off Oak Island on the North Carolina coast, according to searchers.",
+          "With the parents distracted by their game of cat and mouse, the kids are left adrift in the kind of cutthroat private school where suicide is an everyday topic.",
+          "All four stars are more than capable actors, but they’re left adrift here by Armstrong’s script.",
+          "Eve and Marshall’s welcoming her into their community kept her from going adrift."
+        ],
+        "synonym_discussion": ""
+      },
+      "wordnet": {
+        "adrift": {
+          "synset": "adrift.s.01",
+          "definition": "aimlessly drifting",
+          "examples": []
+        },
+        "afloat": {
+          "synset": "adrift.s.01",
+          "definition": "aimlessly drifting",
+          "examples": []
+        },
+        "aimless": {
+          "synset": "adrift.s.01",
+          "definition": "aimlessly drifting",
+          "examples": []
+        },
+        "planless": {
+          "synset": "adrift.s.01",
+          "definition": "aimlessly drifting",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 147,
+      "group_name": "adverse, untoward, unfavorable, unfavourable",
+      "target_word": "adverse",
+      "words": [
+        "adverse",
+        "untoward",
+        "unfavorable",
+        "unfavourable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adverse 辨析组 (adverse.s.01)",
+      "synset_definition": "contrary to your interests or welfare",
+      "merriam_webster": {
+        "definitions": [
+          "acting against or in a contrary direction : HOSTILE",
+          "opposed to one's interests",
+          "UNFAVORABLE",
+          "causing harm : HARMFUL"
+        ],
+        "dictionary_examples": [
+          "The Bankruptcy Code requires that debtor's counsel be disinterested and not have an interest adverse to the estate.",
+          "On more than one occasion his decrees provoked riots, and there were those who voiced adverse opinions on the Duke in public.",
+          "The plant tolerates adverse conditions …",
+          "Retaliation is described as an adverse employment action connected to an activity protected by a law under its jurisdiction.",
+          "Eating Sweetened Foods With Protein Eating protein alongside sugary snacks can help stabilize your blood sugar and minimize the spikes that lead to a host of adverse health effects.",
+          "In many cases, insects live symbiotically with these bacteria and experience no symptoms or adverse effects from the microbe’s presence."
+        ],
+        "web_examples": [
+          "Retaliation is described as an adverse employment action connected to an activity protected by a law under its jurisdiction.",
+          "Eating Sweetened Foods With Protein Eating protein alongside sugary snacks can help stabilize your blood sugar and minimize the spikes that lead to a host of adverse health effects.",
+          "In many cases, insects live symbiotically with these bacteria and experience no symptoms or adverse effects from the microbe’s presence.",
+          "Ingestion and even airborne exposure can cause adverse reactions, such as respiratory issues, liver failure, and oral irritation."
+        ],
+        "synonym_discussion": "Synonyms of adverse\nRelevance\nunfavorable\nnegative\nhostile\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "adverse": {
+          "synset": "adverse.s.01",
+          "definition": "contrary to your interests or welfare",
+          "examples": [
+            "adverse circumstances",
+            "made a place for themselves under the most untoward conditions"
+          ]
+        },
+        "untoward": {
+          "synset": "indecent.s.01",
+          "definition": "not in keeping with accepted standards of what is right or proper in polite society",
+          "examples": [
+            "was buried with indecent haste",
+            "indecorous behavior"
+          ]
+        },
+        "unfavorable": {
+          "synset": "unfavorable.a.01",
+          "definition": "not encouraging or approving or pleasing; ; ; ,",
+          "examples": [
+            "unfavorable conditions",
+            "an unfavorable comparison"
+          ]
+        },
+        "unfavourable": {
+          "synset": "unfavorable.a.01",
+          "definition": "not encouraging or approving or pleasing; ; ; ,",
+          "examples": [
+            "unfavorable conditions",
+            "an unfavorable comparison"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 148,
+      "group_name": "affable, genial, amiable, cordial",
+      "target_word": "affable",
+      "words": [
+        "affable",
+        "genial",
+        "amiable",
+        "cordial"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "affable 辨析组 (affable.s.01)",
+      "synset_definition": "diffusing warmth and friendliness",
+      "merriam_webster": {
+        "definitions": [
+          "being pleasant and at ease in talking to others",
+          "characterized by ease and friendliness",
+          "being at ease and pleasant especially in conversation"
+        ],
+        "dictionary_examples": [
+          "the gracious award winner thanked her colleagues",
+          "our host was cordial as he greeted us",
+          "though wealthy, she was affable to all",
+          "a genial companion with a ready quip",
+          "sociable people who enjoy entertaining",
+          "Bertie's a bright, affable fellow, but every little success he has feels cheapened in comparison with his dad's overpowering accomplishments."
+        ],
+        "web_examples": [
+          "Playing do-gooder cop Matt in Heroes is just one milestone on the resume of Greg Grunberg, who has made a name for himself as an affable everyman.",
+          "But the affable and articulate Brown is team leader and fan favorite who makes fast friends, even if few of them can keep up.",
+          "The affable Belgian designer, who rose to fashion fame thanks to his 11-year stint helming Y/Project, further cemented his fashion profile last year by taking up the reins of Maison Margiela, succeeding John Galliano.",
+          "Behind, a frieze of listless, phallus-dragging men and affable, gabbing women cross the horizon."
+        ],
+        "synonym_discussion": "Synonyms of affable\nRelevance\nunaffected\ncasual\nmellow\neasygoing\nnonchalant\ninformal\nfamiliar\nflexible\nlow-pressure\nbreezy\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "affable": {
+          "synset": "affable.s.01",
+          "definition": "diffusing warmth and friendliness",
+          "examples": [
+            "an affable smile",
+            "an amiable gathering"
+          ]
+        },
+        "genial": {
+          "synset": "affable.s.01",
+          "definition": "diffusing warmth and friendliness",
+          "examples": [
+            "an affable smile",
+            "an amiable gathering"
+          ]
+        },
+        "amiable": {
+          "synset": "amiable.s.01",
+          "definition": "disposed to please; - Hal Hinson",
+          "examples": [
+            "an amiable villain with a cocky sidelong grin"
+          ]
+        },
+        "cordial": {
+          "synset": "liqueur.n.01",
+          "definition": "strong highly flavored sweet liquor usually drunk after a meal",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 149,
+      "group_name": "agile, quick, nimble, spry",
+      "target_word": "agile",
+      "words": [
+        "agile",
+        "quick",
+        "nimble",
+        "spry"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "agile 辨析组 (agile.s.01)",
+      "synset_definition": "moving quickly and lightly",
+      "merriam_webster": {
+        "definitions": [
+          "marked by ready ability to move with quick easy grace",
+          "having a quick resourceful and adaptable character",
+          "able to move quickly and easily : NIMBLE",
+          "mentally quick"
+        ],
+        "dictionary_examples": [
+          "Tall, agile and rangy, the 6-foot-3, 155-pound Van Dellen believes football isn’t even his best sport.",
+          "These qualities create a more agile workforce that’s ready to navigate change and seize new opportunities.",
+          "But the frontier for this capability, many experts say, lies in RPOs by small, agile robotic satellites.",
+          "Creating a market mechanism where compatibility is the price of admission forces traditional defense companies to compete with agile startups, ultimately lowering unit costs and guaranteeing better integration for the entire allied enterprise."
+        ],
+        "web_examples": [
+          "Tall, agile and rangy, the 6-foot-3, 155-pound Van Dellen believes football isn’t even his best sport.",
+          "These qualities create a more agile workforce that’s ready to navigate change and seize new opportunities.",
+          "But the frontier for this capability, many experts say, lies in RPOs by small, agile robotic satellites.",
+          "Creating a market mechanism where compatibility is the price of admission forces traditional defense companies to compete with agile startups, ultimately lowering unit costs and guaranteeing better integration for the entire allied enterprise."
+        ],
+        "synonym_discussion": "Synonyms of agile\nRelevance\ngraceful\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "agile": {
+          "synset": "agile.s.01",
+          "definition": "moving quickly and lightly",
+          "examples": [
+            "sleek and agile as a gymnast",
+            "as nimble as a deer"
+          ]
+        },
+        "quick": {
+          "synset": "quick.n.01",
+          "definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
+          "examples": []
+        },
+        "nimble": {
+          "synset": "agile.s.01",
+          "definition": "moving quickly and lightly",
+          "examples": [
+            "sleek and agile as a gymnast",
+            "as nimble as a deer"
+          ]
+        },
+        "spry": {
+          "synset": "agile.s.01",
+          "definition": "moving quickly and lightly",
+          "examples": [
+            "sleek and agile as a gymnast",
+            "as nimble as a deer"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 150,
+      "group_name": "agonizing, harrowing, painful, agonising",
+      "target_word": "agonizing",
+      "words": [
+        "agonizing",
+        "harrowing",
+        "painful",
+        "agonising"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "agonizing 辨析组 (agonizing.s.01)",
+      "synset_definition": "extremely painful",
+      "merriam_webster": {
+        "definitions": [
+          "causing agony"
+        ],
+        "dictionary_examples": [
+          "So, in addition to a week of bloody diarrhea, vomiting and agonizing stomachaches, there’s also the possibility of hemolytic uremic syndrome or HUS.",
+          "This chapter of American history reminds us that the quest for justice is a lengthy and often agonizing process—but incremental progress over time can truly change the world.",
+          "Cathy sets her family home ablaze to fake her own death and leave town; her parents suffer agonizing deaths in that fire.",
+          "Hamilton’s challenge to Marshall has generated national attention as Republicans prepare for a potentially agonizing midterm election."
+        ],
+        "web_examples": [
+          "So, in addition to a week of bloody diarrhea, vomiting and agonizing stomachaches, there’s also the possibility of hemolytic uremic syndrome or HUS.",
+          "This chapter of American history reminds us that the quest for justice is a lengthy and often agonizing process—but incremental progress over time can truly change the world.",
+          "Cathy sets her family home ablaze to fake her own death and leave town; her parents suffer agonizing deaths in that fire.",
+          "Hamilton’s challenge to Marshall has generated national attention as Republicans prepare for a potentially agonizing midterm election."
+        ],
+        "synonym_discussion": "Synonyms of agonizing\nRelevance\n\nAdjective\n\npainful\nharsh\ntorturous\ncruel\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "agonizing": {
+          "synset": "agonize.v.01",
+          "definition": "cause to agonize",
+          "examples": []
+        },
+        "harrowing": {
+          "synset": "harrow.v.01",
+          "definition": "draw a harrow over (land)",
+          "examples": []
+        },
+        "painful": {
+          "synset": "painful.a.01",
+          "definition": "causing physical or psychological pain",
+          "examples": [
+            "worked with painful slowness"
+          ]
+        },
+        "agonising": {
+          "synset": "agonize.v.01",
+          "definition": "cause to agonize",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 151,
+      "group_name": "ailing, seedy, indisposed, ill",
+      "target_word": "ailing",
+      "words": [
+        "ailing",
+        "seedy",
+        "indisposed",
+        "ill"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ailing 辨析组 (ailing.s.01)",
+      "synset_definition": "somewhat ill or prone to illness",
+      "merriam_webster": {
+        "definitions": [
+          "having or suffering from an illness or injury"
+        ],
+        "dictionary_examples": [
+          "an ailing company",
+          "an ailing economy",
+          "The ailing former movie mogul is also awaiting resentencing in Los Angeles, where he was convicted of rape, and is likely to remain behind bars into his late 80s.",
+          "Given that measles is so transmissible, the presence of measles is symptomatic of an ailing public health immunization structure.",
+          "Johnson’s role in Verity is Lowen Ashleigh, a down-on-her-luck writer who moves into the house of a mysteriously ailing but much more successful novelist, Verity Crawford (Hathaway), to help finish a blockbuster series of thrillers.",
+          "Costello told The News there weren’t many people looking out for the ailing former mayor."
+        ],
+        "web_examples": [
+          "The ailing former movie mogul is also awaiting resentencing in Los Angeles, where he was convicted of rape, and is likely to remain behind bars into his late 80s.",
+          "Given that measles is so transmissible, the presence of measles is symptomatic of an ailing public health immunization structure.",
+          "Johnson’s role in Verity is Lowen Ashleigh, a down-on-her-luck writer who moves into the house of a mysteriously ailing but much more successful novelist, Verity Crawford (Hathaway), to help finish a blockbuster series of thrillers.",
+          "Costello told The News there weren’t many people looking out for the ailing former mayor."
+        ],
+        "synonym_discussion": "Synonyms of ailing\nRelevance\n\nAdjective\n\nfragile\ndying\nfrail\nsickly\nsick\nweak\ninvalid\nweakly\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ailing": {
+          "synset": "ail.v.01",
+          "definition": "be ill or unwell",
+          "examples": []
+        },
+        "seedy": {
+          "synset": "seedy.a.01",
+          "definition": "full of seeds",
+          "examples": [
+            "as seedy as a fig"
+          ]
+        },
+        "indisposed": {
+          "synset": "indispose.v.01",
+          "definition": "make unwilling",
+          "examples": []
+        },
+        "ill": {
+          "synset": "ailment.n.01",
+          "definition": "an often persistent bodily disorder or disease; a cause for complaining",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 152,
+      "group_name": "airy, windy, utopian, laputan",
+      "target_word": "airy",
+      "words": [
+        "airy",
+        "windy",
+        "utopian",
+        "laputan"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "airy 辨析组 (airy.s.02)",
+      "synset_definition": "not practical or realizable; speculative",
+      "merriam_webster": {
+        "definitions": [
+          "of or relating to air : ATMOSPHERIC",
+          "high in the air : LOFTY",
+          "performed in air : AERIAL",
+          "UNREAL, ILLUSORY"
+        ],
+        "dictionary_examples": [
+          "The song runs along a bouncing track with airy melodies swirling throughout each verse.",
+          "Bold headboards and textured bedding accents ensure that even the more compact rooms have a distinct style, while other airier spaces offer tall ceilings, big windows, and chinoiserie prints wrapping the walls.",
+          "Warm cork flooring, sliding Shoji screens, clerestory windows, and floor-to-ceiling walls of glass anchor the airy interiors, which flow out to expansive terraces.",
+          "The third floor, an airy attic space, is a yoga and Pilates studio."
+        ],
+        "web_examples": [
+          "The song runs along a bouncing track with airy melodies swirling throughout each verse.",
+          "Bold headboards and textured bedding accents ensure that even the more compact rooms have a distinct style, while other airier spaces offer tall ceilings, big windows, and chinoiserie prints wrapping the walls.",
+          "Warm cork flooring, sliding Shoji screens, clerestory windows, and floor-to-ceiling walls of glass anchor the airy interiors, which flow out to expansive terraces.",
+          "The third floor, an airy attic space, is a yoga and Pilates studio."
+        ],
+        "synonym_discussion": "Synonyms of airy\nRelevance\nfluffy\nlight\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "airy": {
+          "synset": "aired.s.01",
+          "definition": "open to or abounding in fresh air",
+          "examples": [
+            "airy rooms"
+          ]
+        },
+        "windy": {
+          "synset": "blowy.s.01",
+          "definition": "abounding in or exposed to the wind or breezes",
+          "examples": [
+            "blowy weather",
+            "a windy bluff"
+          ]
+        },
+        "utopian": {
+          "synset": "utopian.n.01",
+          "definition": "an idealistic (but usually impractical) social reformer",
+          "examples": [
+            "a Utopian believes in the ultimate perfectibility of man"
+          ]
+        },
+        "laputan": {
+          "synset": "laputan.a.01",
+          "definition": "relating to or characteristic of the imaginary country of Laputa or its people",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 153,
+      "group_name": "allergic, susceptible, sensitised, sensitized",
+      "target_word": "allergic",
+      "words": [
+        "allergic",
+        "susceptible",
+        "sensitised",
+        "sensitized"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "allergic 辨析组 (allergic.s.02)",
+      "synset_definition": "having an allergy or peculiar or excessive susceptibility (especially to a specific factor)",
+      "merriam_webster": {
+        "definitions": [
+          "of, relating to, affected with, or caused by allergy",
+          "having an aversion",
+          "of, relating to, affected with, or caused by allergy",
+          "having a dislike for something"
+        ],
+        "dictionary_examples": [
+          "The sugar, found in most mammals but not in humans, prompts the antibodies that trigger an allergic reaction.",
+          "Relatives of the missing person told ABC7 that the woman was being transported from Catalina Island to the mainland for medical care after having an allergic reaction.",
+          "Bath & Body Works describes these formulas as hypoallergenic, which generally means they’re formulated to be less likely to cause an allergic reaction.",
+          "People with a heightened sensitivity to fungal spores can have an allergic reaction."
+        ],
+        "web_examples": [
+          "The sugar, found in most mammals but not in humans, prompts the antibodies that trigger an allergic reaction.",
+          "Relatives of the missing person told ABC7 that the woman was being transported from Catalina Island to the mainland for medical care after having an allergic reaction.",
+          "Bath & Body Works describes these formulas as hypoallergenic, which generally means they’re formulated to be less likely to cause an allergic reaction.",
+          "People with a heightened sensitivity to fungal spores can have an allergic reaction."
+        ],
+        "synonym_discussion": "Synonyms of allergic\nRelevance\nafraid\nreluctant\nopposed\nopposing\naverse\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "allergic": {
+          "synset": "allergic.a.01",
+          "definition": "characterized by or caused by allergy",
+          "examples": [
+            "an allergic reaction"
+          ]
+        },
+        "susceptible": {
+          "synset": "susceptible.a.01",
+          "definition": "(often followed by `of' or `to') yielding readily to or capable of",
+          "examples": [
+            "susceptible to colds",
+            "susceptible of proof"
+          ]
+        },
+        "sensitised": {
+          "synset": "sensitize.v.02",
+          "definition": "cause to sense; make sensitive",
+          "examples": [
+            "She sensitized me with respect to gender differences in this traditional male-dominated society",
+            "My tongue became sensitized to good wine"
+          ]
+        },
+        "sensitized": {
+          "synset": "sensitize.v.01",
+          "definition": "make sensitive or aware",
+          "examples": [
+            "He was not sensitized to her emotional needs"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 154,
+      "group_name": "ambivalent, unsure, incertain, uncertain",
+      "target_word": "ambivalent",
+      "words": [
+        "ambivalent",
+        "unsure",
+        "incertain",
+        "uncertain"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ambivalent 辨析组 (ambivalent.s.01)",
+      "synset_definition": "uncertain or unable to decide about what course to follow",
+      "merriam_webster": {
+        "definitions": [
+          "having or showing simultaneous and contradictory attitudes or feelings toward something or someone : characterized by ambivalence"
+        ],
+        "dictionary_examples": [
+          "With Spider-Noir, the actor figures this ambivalence toward his public persona into Reilly’s ambivalent battle with the Spider inside him.",
+          "In particular, respondents were ambivalent about whether data centers should be charged higher electricity rates than other customers.",
+          "Republicans are more ambivalent about their party’s ability to handle key healthcare issues, compared with Democrats.",
+          "The ensemble of actors is convincing in its naturalness, with the characterizations remaining consistently precise and ambivalent."
+        ],
+        "web_examples": [
+          "With Spider-Noir, the actor figures this ambivalence toward his public persona into Reilly’s ambivalent battle with the Spider inside him.",
+          "In particular, respondents were ambivalent about whether data centers should be charged higher electricity rates than other customers.",
+          "Republicans are more ambivalent about their party’s ability to handle key healthcare issues, compared with Democrats.",
+          "The ensemble of actors is convincing in its naturalness, with the characterizations remaining consistently precise and ambivalent."
+        ],
+        "synonym_discussion": "Synonyms of ambivalent\nRelevance\nunsure\nconflicted\nafraid\nhesitant\nuncertain\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ambivalent": {
+          "synset": "ambivalent.s.01",
+          "definition": "uncertain or unable to decide about what course to follow",
+          "examples": [
+            "was ambivalent about having children"
+          ]
+        },
+        "unsure": {
+          "synset": "diffident.a.02",
+          "definition": "lacking self-confidence",
+          "examples": [
+            "stood in the doorway diffident and abashed",
+            "problems that call for bold not timid responses"
+          ]
+        },
+        "incertain": {
+          "synset": "uncertain.a.01",
+          "definition": "lacking or indicating lack of confidence or assurance",
+          "examples": [
+            "uncertain of his convictions",
+            "unsure of himself and his future"
+          ]
+        },
+        "uncertain": {
+          "synset": "uncertain.a.01",
+          "definition": "lacking or indicating lack of confidence or assurance",
+          "examples": [
+            "uncertain of his convictions",
+            "unsure of himself and his future"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 155,
+      "group_name": "amicable, friendly, favorable, unthreatening",
+      "target_word": "amicable",
+      "words": [
+        "amicable",
+        "friendly",
+        "favorable",
+        "unthreatening"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "amicable 辨析组 (amicable.a.01)",
+      "synset_definition": "characterized by friendship and good will",
+      "merriam_webster": {
+        "definitions": [
+          "characterized by friendly goodwill : PEACEABLE",
+          "showing kindness or goodwill : PEACEABLE"
+        ],
+        "dictionary_examples": [
+          "maintained amicable relations",
+          "neighborly concern",
+          "sought friendly advice",
+          "About a million couples divorce each year in the United States, and most, like my ex and me, start out striving to keep the split amicable. And though you may have good intentions, things can go awry during the traditional I-win-you-lose adversarial process.",
+          "Instead, with the help of a neighborhood activist, Rob struck out in another direction. He retook his old turf from the dealers who had replaced him and opened a fruit stand and, later, a hot-dog concession. Bright, amicable and assured, Rob so impressed Anderson that the sociologist hired him as a part-time assistant.",
+          "Cops such as William Anderson and Lowell Powell had been Sonny's friends. \"I was a policeman and he was something of a thug,\" Powell recalled, but nonetheless their dealings were amicable. In the big picture, however, there was no love lost between Sonny and the cops."
+        ],
+        "web_examples": [
+          "What happened next remains a source of amicable contention thirty-three years later.",
+          "Ever since, the Black Eyed Peas continued to release music and tour as a trio, all the while maintaining that the split was amicable.",
+          "Still once Libra season begins, things take a more amicable turn, as you could be left with no choice but to slow down, and consider other people’s needs, desires and timelines, as opposed to solely focusing on yourself.",
+          "The children were all very close and everyone got along, with their parents remaining amicable even after having divorced, according to Mercer."
+        ],
+        "synonym_discussion": "Synonyms of amicable\nRelevance\ncompatible\nunanimous\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "amicable": {
+          "synset": "amicable.a.01",
+          "definition": "characterized by friendship and good will",
+          "examples": []
+        },
+        "friendly": {
+          "synset": "friendly.n.01",
+          "definition": "troops belonging to or allied with your own military forces",
+          "examples": [
+            "friendlies came to their rescue"
+          ]
+        },
+        "favorable": {
+          "synset": "favorable.a.01",
+          "definition": "encouraging or approving or pleasing",
+          "examples": [
+            "a favorable reply",
+            "he received a favorable rating"
+          ]
+        },
+        "unthreatening": {
+          "synset": "well-meaning.s.01",
+          "definition": "not unfriendly or threatening",
+          "examples": [
+            "her well-meaning words were received in silence",
+            "the exasperation of a...well-meaning cow worried by dogs"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 156,
+      "group_name": "anarchic, lawless, anarchical, uncontrolled",
+      "target_word": "anarchic",
+      "words": [
+        "anarchic",
+        "lawless",
+        "anarchical",
+        "uncontrolled"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "anarchic 辨析组 (anarchic.s.01)",
+      "synset_definition": "without law or control",
+      "merriam_webster": {
+        "definitions": [
+          "of, relating to, or advocating anarchy",
+          "likely to bring about anarchy",
+          "lacking order, regularity, or definiteness",
+          "of or relating to anarchy"
+        ],
+        "dictionary_examples": [
+          "The poet, Pavese implies, is a creature of Chaos—that anarchic state in which good is mixed with bad and monsters mingle with men and gods.",
+          "Together, the two embark on an anarchic mother-and-daughter journey to reconnect.",
+          "The whole thing is an anarchic delirium reminiscent of the kind experienced by Bart and Milhouse after drinking an all-syrup Super Squishee; thankfully, the comedown is quick and relatively painless.",
+          "The story links the creatures’ anarchic physical comedy to silent-era pioneers such as Charlie Chaplin, Harold Lloyd and Buster Keaton."
+        ],
+        "web_examples": [
+          "The poet, Pavese implies, is a creature of Chaos—that anarchic state in which good is mixed with bad and monsters mingle with men and gods.",
+          "Together, the two embark on an anarchic mother-and-daughter journey to reconnect.",
+          "The whole thing is an anarchic delirium reminiscent of the kind experienced by Bart and Milhouse after drinking an all-syrup Super Squishee; thankfully, the comedown is quick and relatively painless.",
+          "The story links the creatures’ anarchic physical comedy to silent-era pioneers such as Charlie Chaplin, Harold Lloyd and Buster Keaton."
+        ],
+        "synonym_discussion": "Synonyms of anarchic\nRelevance\nrebellious\ncriminal\ndisorderly\nillicit\nillegal\nlawless\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "anarchic": {
+          "synset": "anarchic.s.01",
+          "definition": "without law or control",
+          "examples": [
+            "the system is economically inefficient and politically anarchic"
+          ]
+        },
+        "lawless": {
+          "synset": "anarchic.s.01",
+          "definition": "without law or control",
+          "examples": [
+            "the system is economically inefficient and politically anarchic"
+          ]
+        },
+        "anarchical": {
+          "synset": "anarchic.s.01",
+          "definition": "without law or control",
+          "examples": [
+            "the system is economically inefficient and politically anarchic"
+          ]
+        },
+        "uncontrolled": {
+          "synset": "uncontrolled.a.01",
+          "definition": "not being under control; out of control",
+          "examples": [
+            "the greatest uncontrolled health problem is AIDS",
+            "uncontrolled growth"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 157,
+      "group_name": "apposite, pertinent, apt, apropos",
+      "target_word": "apposite",
+      "words": [
+        "apposite",
+        "pertinent",
+        "apt",
+        "apropos"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "apposite 辨析组 (apposite.s.01)",
+      "synset_definition": "being of striking appropriateness and pertinence",
+      "merriam_webster": {
+        "definitions": [
+          "highly pertinent or appropriate : APT",
+          "highly appropriate : PERTINENT, APT",
+          "highly pertinent or appropriate"
+        ],
+        "dictionary_examples": [
+          "found material relevant to her case",
+          "a point not germane to the discussion",
+          "facts material to the investigation",
+          "a pertinent observation",
+          "add an apposite quotation to the definition",
+          "the rule is not applicable in this case"
+        ],
+        "web_examples": [
+          "According to Petrick, web3 is a particularly apposite medium for PUMA due to the strong correlation between sports and fashion and web3 culture.",
+          "Diño concurred and said that budgets in the Philippines for independent films have also gone up to $1 million and going international allows filmmakers to realize their cinematic visions with apposite budgets."
+        ],
+        "synonym_discussion": "Synonyms of apposite\nRelevance\nrelevant\napplicable\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "apposite": {
+          "synset": "apposite.s.01",
+          "definition": "being of striking appropriateness and pertinence",
+          "examples": [
+            "the successful copywriter is a master of apposite and evocative verbal images",
+            "an apt reply"
+          ]
+        },
+        "pertinent": {
+          "synset": "pertinent.s.01",
+          "definition": "having precise or logical relevance to the matter at hand",
+          "examples": [
+            "a list of articles pertinent to the discussion",
+            "remarks that were to the point"
+          ]
+        },
+        "apt": {
+          "synset": "apt.s.01",
+          "definition": "(usually followed by `to') naturally disposed toward",
+          "examples": [
+            "he is apt to ignore matters he considers unimportant",
+            "I am not minded to answer any questions"
+          ]
+        },
+        "apropos": {
+          "synset": "apropos.a.01",
+          "definition": "of an appropriate or pertinent nature",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 158,
+      "group_name": "archaic, old, antiquated, antediluvian",
+      "target_word": "archaic",
+      "words": [
+        "archaic",
+        "old",
+        "antiquated",
+        "antediluvian"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "archaic 辨析组 (antediluvian.s.02)",
+      "synset_definition": "so extremely old as seeming to belong to an earlier period",
+      "merriam_webster": {
+        "definitions": [
+          "having the characteristics of the language of the past and surviving chiefly in specialized uses",
+          "of, relating to, or characteristic of an earlier or more primitive time : ANTIQUATED",
+          "of or belonging to the early or formative phases of a culture or a period of artistic development",
+          "of or belonging to the period leading up to the classical period of Greek culture"
+        ],
+        "dictionary_examples": [
+          "old houses",
+          "an old sweater of mine",
+          "ancient accounts of dragons",
+          "the family's venerable patriarch",
+          "collected antique Chippendale furniture",
+          "antiquated teaching methods"
+        ],
+        "web_examples": [
+          "Cornell University’s investigation, of course, did not have to adhere to New York’s arguably archaic criminal standards, but its response, too, has triggered anger and disbelief across airwaves and social media.",
+          "Not that Georgian masculinity, with its macho, bellicose posturing and archaic codes of honor, is portrayed as anything other than fumbling and futile.",
+          "Li said that Yunnan would have offered our archaic human relatives a hospitable climate, rich in plant and animal life.",
+          "What struck me is that your Homer is not strange because the English is archaic or difficult, but the strangeness lies instead in the Homeric world itself—its assumptions, values, and images."
+        ],
+        "synonym_discussion": "Synonyms of archaic\nRelevance\nobsolete\nantiquated\nmedieval\nprehistoric\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "archaic": {
+          "synset": "antediluvian.s.02",
+          "definition": "so extremely old as seeming to belong to an earlier period",
+          "examples": [
+            "a ramshackle antediluvian tenement",
+            "antediluvian ideas"
+          ]
+        },
+        "old": {
+          "synset": "old.n.01",
+          "definition": "past times (especially in the phrase `in days of old')",
+          "examples": []
+        },
+        "antiquated": {
+          "synset": "antiquate.v.01",
+          "definition": "make obsolete or old-fashioned",
+          "examples": []
+        },
+        "antediluvian": {
+          "synset": "antediluvian.n.01",
+          "definition": "any of the early patriarchs who lived prior to the Noachian deluge",
+          "examples": []
+        }
+      }
+    },
+    {
+      "group_id": 159,
+      "group_name": "ardent, torrid, fervent, impassioned",
+      "target_word": "ardent",
+      "words": [
+        "ardent",
+        "torrid",
+        "fervent",
+        "impassioned"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ardent 辨析组 (ardent.s.01)",
+      "synset_definition": "characterized by intense emotion",
+      "merriam_webster": {
+        "definitions": [
+          "characterized by warmth of feeling typically expressed in eager zealous support or activity",
+          "FIERY, HOT",
+          "SHINING, GLOWING",
+          "showing or having warmth of feeling : PASSIONATE"
+        ],
+        "dictionary_examples": [
+          "an impassioned plea for justice",
+          "a passionate denunciation",
+          "an ardent supporter of human rights",
+          "fervent good wishes",
+          "fervid love letters",
+          "perfervid expressions of patriotism"
+        ],
+        "web_examples": [
+          "Perez, now 26, has spent much of the past decade growing an ardent and loyal fanbase with her many heart-rendering songs about grief and yearning for something out of reach.",
+          "Critics praised the work, but only the most ardent Pattinson heads turned out and most of the films were more admired than seen.",
+          "Even the most ardent, passionate, loyal, faithful and blind supporter of all things Deion Sanders would to have to admit that this is not going well.",
+          "This is the creation of two of the most ardent and knowledgeable fans of Algren."
+        ],
+        "synonym_discussion": "Synonyms of ardent\nRelevance\npassionate\nfervent\npassional\nwarm\nintense\nenthusiastic\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "ardent": {
+          "synset": "ardent.s.01",
+          "definition": "characterized by intense emotion",
+          "examples": [
+            "ardent love",
+            "an ardent lover"
+          ]
+        },
+        "torrid": {
+          "synset": "ardent.s.01",
+          "definition": "characterized by intense emotion",
+          "examples": [
+            "ardent love",
+            "an ardent lover"
+          ]
+        },
+        "fervent": {
+          "synset": "ardent.s.01",
+          "definition": "characterized by intense emotion",
+          "examples": [
+            "ardent love",
+            "an ardent lover"
+          ]
+        },
+        "impassioned": {
+          "synset": "ardent.s.01",
+          "definition": "characterized by intense emotion",
+          "examples": [
+            "ardent love",
+            "an ardent lover"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 160,
+      "group_name": "arduous, laborious, backbreaking, hard",
+      "target_word": "arduous",
+      "words": [
+        "arduous",
+        "laborious",
+        "backbreaking",
+        "hard"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "arduous 辨析组 (arduous.s.01)",
+      "synset_definition": "characterized by effort to the point of exhaustion; especially physical effort",
+      "merriam_webster": {
+        "definitions": [
+          "hard to accomplish or achieve : DIFFICULT",
+          "marked by great labor or effort : STRENUOUS",
+          "hard to climb : STEEP",
+          "extremely difficult : LABORIOUS"
+        ],
+        "dictionary_examples": [
+          "farming is hard work",
+          "the difficult ascent of the mountain",
+          "the arduous task of rebuilding",
+          "Traveling for several days by train, stagecoach and horseback, they would reach Mariposa Grove, a stand of some 200 ancient giant sequoias, where they would rest before embarking on an arduous descent via 26 switchbacks into the valley.",
+          "As yoga classes go, this is not an arduous one, but the students don't know that.",
+          "Women of middling means had the most to gain from increased consumption, for imported goods often reduced their long and arduous labor, especially in making candles and soap or in spinning and weaving cloth."
+        ],
+        "web_examples": [
+          "The organization shared a glimpse into the arduous recovery mission on social media.",
+          "The Washington is typically deployed to Pacific Ocean but it was moved to the Middle East to relieve the USS Abraham Lincoln, whose arduous deployment resulted in the crew being at sea for more than 260 days straight.",
+          "Berger credited Berger and Ross for pushing the extra mile on the film, while his energy levels were low after an arduous months-long edit process.",
+          "The cold temperature combined with the stickiness of any food juices that get stuck to the inside of the fridge make cleaning it arduous and time-consuming (and gross)."
+        ],
+        "synonym_discussion": "Synonyms of arduous\nRelevance\ndifficult\nchallenging\ntough\nrigorous\nhard\ndemanding\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "arduous": {
+          "synset": "arduous.s.01",
+          "definition": "characterized by effort to the point of exhaustion; especially physical effort",
+          "examples": [
+            "worked their arduous way up the mining valley",
+            "a grueling campaign"
+          ]
+        },
+        "laborious": {
+          "synset": "arduous.s.01",
+          "definition": "characterized by effort to the point of exhaustion; especially physical effort",
+          "examples": [
+            "worked their arduous way up the mining valley",
+            "a grueling campaign"
+          ]
+        },
+        "backbreaking": {
+          "synset": "arduous.s.01",
+          "definition": "characterized by effort to the point of exhaustion; especially physical effort",
+          "examples": [
+            "worked their arduous way up the mining valley",
+            "a grueling campaign"
+          ]
+        },
+        "hard": {
+          "synset": "difficult.a.01",
+          "definition": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+          "examples": [
+            "a difficult task",
+            "nesting places on the cliffs are difficult of access"
+          ]
+        }
+      }
+    },
+    {
+      "group_id": 161,
+      "group_name": "artful, twisted, distorted, perverted",
+      "target_word": "artful",
+      "words": [
+        "artful",
+        "twisted",
+        "distorted",
+        "perverted"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "artful 辨析组 (disingenuous.a.01)",
+      "synset_definition": "not straightforward or candid; giving a false appearance of frankness; - David Cannadine",
+      "merriam_webster": {
+        "definitions": [
+          "performed with or showing art or skill",
+          "using or characterized by art and skill : DEXTEROUS",
+          "adroit in attaining an end usually by insinuating or indirect means : WILY",
+          "ARTIFICIAL"
+        ],
+        "dictionary_examples": [
+          "a sly corporate raider",
+          "the cunning fox avoided the trap",
+          "a crafty lefthander",
+          "the wily fugitive escaped the posse",
+          "a tricky political operative",
+          "a foxy publicity man planting stories"
+        ],
+        "web_examples": [
+          "Set the scene The Homestead screams quirky, artful, and vintage yet restored—capturing a whimsical, fairytale ambiance embellished with hints of Southern charm.",
+          "Some are simply for those who want to hide ugly rental apartment floors with a bold colorway or an artful pattern.",
+          "Elevated flats dominate for day, while statement heels confirm that sculptural, artful footwear is officially back.",
+          "Laika is best known for its artful stop-motion animation films like Coraline, but has been pushing into the live-action space, building out a slate of features that include Lulu Wang‘s Audition, starring Lucy Liu and Charles Melton."
+        ],
+        "synonym_discussion": "Synonyms of artful\nRelevance\ncunning\ncute\nsubtle\nslick\ndeceptive\nSee All Synonyms & Antonyms in Thesaurus"
+      },
+      "wordnet": {
+        "artful": {
+          "synset": "disingenuous.a.01",
+          "definition": "not straightforward or candid; giving a false appearance of frankness; - David Cannadine",
+          "examples": [
+            "an ambitious, disingenuous, philistine, and hypocritical operator, who...exemplified...the most disagreeable traits of his time",
+            "a disingenuous excuse"
+          ]
+        },
+        "twisted": {
+          "synset": "writhe.v.01",
+          "definition": "to move in a twisting or contorted motion, (especially when struggling)",
+          "examples": [
+            "The prisoner writhed in discomfort",
+            "The child tried to wriggle free from his aunt's embrace"
+          ]
+        },
+        "distorted": {
+          "synset": "falsify.v.01",
+          "definition": "make false by mutilation or addition; as of a message or story",
+          "examples": []
+        },
+        "perverted": {
+          "synset": "corrupt.v.01",
+          "definition": "corrupt morally or by intemperance or sensuality",
+          "examples": [
+            "debauch the young people with wine and women",
+            "Socrates was accused of corrupting young men"
+          ]
+        }
+      }
+    }
+  ]
+}

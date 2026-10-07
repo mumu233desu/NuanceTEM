@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "tem8_c7_01",
+    "group_id": 162,
+    "group_name": "ascendant, ascensive, ascendent, ascending",
+    "level": "TEM-8",
+    "target_word": "ascendant",
+    "question": "With populist regulatory scrutiny now in the ___, antitrust officials felt emboldened to block the mega-merger, citing severe risks of monopolistic pricing across digital ad markets.",
+    "options": [
+      "ascendant",
+      "ascensive",
+      "ascendent",
+      "ascending"
+    ],
+    "answer": "ascendant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "固定搭配 'in the ascendant'（处于支配/上升主导地位），此处作为表语短语与句首介词 in 搭配，形容监管审视正处于权势日盛之势。",
+    "distractor_analysis": {
+      "ascendant": "正确。固定成语 'in the ascendant' 意为“权势日重、处于主导支配地位”，精准契合监管审视势头正盛的政治商业语境。",
+      "ascensive": "错误。语言学专用术语，意为“递进的、上升的”（如 ascensive conjunction），不可用于政治监管权势语境。",
+      "ascendent": "错误。虽在历史上可作变体拼写，但现代权威英语与外刊均规范写作 'in the ascendant'，非首选标准书面形式。",
+      "ascending": "错误。现在分词或形容词，常修饰 order（升序）或指位置上升，不能与 'in the ___' 构成表达“占上风、势头正劲”的固定成语。"
+    },
+    "translation": "随着民粹主义式的监管审视势头正盛，反垄断官员受到鼓舞，以数字广告市场面临严重的垄断定价风险为由，阻止了这起巨型并购案。"
+  },
+  {
+    "id": "tem8_c7_02",
+    "group_id": 162,
+    "group_name": "ascendant, ascensive, ascendent, ascending",
+    "level": "TEM-8",
+    "target_word": "ascending",
+    "question": "The forensic audit ranked the suspicious offshore shell transactions in ___ order of nominal value to trace how illicit capital systematically bypassed board oversight.",
+    "options": [
+      "ascendant",
+      "ascensive",
+      "ascendent",
+      "ascending"
+    ],
+    "answer": "ascending",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定搭配 'in ascending order of'（按……递增顺序排列），是商业财务审计中对数值从小到大排查排布的标准专业术语。",
+    "distractor_analysis": {
+      "ascending": "正确。固定术语 'in ascending order' 专指按数值从小到大的“升序排列”，符合法务审计对交易金额的排序要求。",
+      "ascendant": "错误。意为“占优势的、居支配地位的”，不可与 'order of nominal value' 搭配表示数值升序。",
+      "ascensive": "错误。语法学修辞概念（表递进），不可用于数据与名义价值的升序排列。",
+      "ascendent": "错误。名词或变体，不可修饰 order 表达财务统计中的升序。"
+    },
+    "translation": "法务审计团队按名义价值从低到高的升序对可疑的离岸空壳交易进行了排列，以追踪非法资金是如何系统性绕过董事会监管的。"
+  },
+  {
+    "id": "tem8_c7_03",
+    "group_id": 163,
+    "group_name": "ascetic, austere, spartan, ascetical",
+    "level": "TEM-8",
+    "target_word": "austere",
+    "question": "Confronted by impending insolvency and relentless creditor litigation, the newly appointed chief restructuring officer imposed an ___ regime of fiscal retrenchment across all operational subsidiaries.",
+    "options": [
+      "ascetic",
+      "austere",
+      "spartan",
+      "ascetical"
+    ],
+    "answer": "austere",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'regime of fiscal retrenchment'（财政紧缩体制）是绝对题眼；经济与企业重组领域的专业学术搭配为 'austere regime / fiscal austerity'。",
+    "distractor_analysis": {
+      "austere": "正确。专用于宏观经济与企业重组领域，指政策或财政体制“严苛紧缩的、节衣缩食的”，契合破产重组语境。",
+      "ascetic": "错误。侧重宗教与道德哲学上的“苦行禁欲、克己自律”，不可修饰企业法人的财政重组政纲。",
+      "spartan": "错误。侧重生活物质条件的“简陋艰苦、斯巴达式的”（如 spartan accommodation），不用于修饰企业层面的财政制度体制。",
+      "ascetical": "错误。ascetic 的罕见变体，宗教苦修意味浓厚，完全偏离公司治理语境。"
+    },
+    "translation": "面对迫在眉睫的破产风险与债权人连绵不断的诉讼，新任命的首席重组官在所有运营子公司推行了一套严苛的财政紧缩体制。"
+  },
+  {
+    "id": "tem8_c7_04",
+    "group_id": 163,
+    "group_name": "ascetic, austere, spartan, ascetical",
+    "level": "TEM-8",
+    "target_word": "spartan",
+    "question": "To signal corporate sobriety ahead of the restructuring arbitration, the board stripped executives of private jet access, relegating senior management to ___ living quarters during cross-border renegotiations.",
+    "options": [
+      "ascetic",
+      "austere",
+      "spartan",
+      "ascetical"
+    ],
+    "answer": "spartan",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'living quarters'（住宿起居处所），与前文剥夺私人飞机形成对比；'spartan living quarters' 专指物质生活设施简陋无华。",
+    "distractor_analysis": {
+      "spartan": "正确。修饰 living quarters 或 accommodations，专指生活起居环境“极其朴素、简陋无奢华点缀的”，与剥夺私人飞机等特权形成鲜明呼应。",
+      "ascetic": "错误。强调个人精神修行层面的禁欲克己，不直接用于描述物理住宿条件的简朴配置。",
+      "austere": "错误。虽可指朴素，但修饰居住设施时侧重建筑风格严肃阴沉，不及 spartan quarters 专指物质生活条件的克难极简。",
+      "ascetical": "错误。仅见于宗教戒律，无法修饰涉外重组谈判中的高管客房。"
+    },
+    "translation": "为在重组仲裁前表明企业整肃开支的严谨态度，董事会剥夺了高管使用私人飞机的特权，将管理层在跨境再谈判期间的差旅住宿降格为简朴至极的起居室。"
+  },
+  {
+    "id": "tem8_c7_05",
+    "group_id": 164,
+    "group_name": "assertive, cocky, forceful, emphatic",
+    "level": "TEM-8",
+    "target_word": "cocky",
+    "question": "The hedge fund's ___ chief negotiator alienated the regulatory arbiters when he dismissed the antitrust probe as a trivial nuisance, ultimately sabotaging his own buyout bid.",
+    "options": [
+      "assertive",
+      "cocky",
+      "forceful",
+      "emphatic"
+    ],
+    "answer": "cocky",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'alienated the regulatory arbiters'（得罪监管仲裁人）及轻率蔑视调查导致要约流产，要求具有明显负面贬义色彩的“盲目自大、轻佻自负”。",
+    "distractor_analysis": {
+      "cocky": "正确。贬义形容词，意为“狂妄自大、目中无人的”，精准契合把反垄断审查斥为小麻烦并触怒仲裁员的盲目傲慢。",
+      "assertive": "错误。褒义/中性词，指“坚定自信、果敢表达立场的”，在商业谈判中通常是积极职业素质，不会直接导致触怒仲裁员。",
+      "forceful": "错误。中性词，意为“强有力的、有说服力的”，无法体现后文导致的无知轻敌与自毁谈判的贬义色彩。",
+      "emphatic": "错误。意为“断然的、着重的”，多修饰言辞（如 emphatic denial），不常直接作前置定语修饰谈判代表指其性格傲慢。"
+    },
+    "translation": "该对冲基金狂妄自大的首席谈判代表得罪了监管仲裁人员，因为他将反垄断调查轻描淡写地斥为微不足道的麻烦，最终彻底葬送了自己的收购要约。"
+  },
+  {
+    "id": "tem8_c7_06",
+    "group_id": 164,
+    "group_name": "assertive, cocky, forceful, emphatic",
+    "level": "TEM-8",
+    "target_word": "emphatic",
+    "question": "During the contentious antitrust deposition, the compliance director issued an ___ denial of any clandestine price-fixing agreements, insisting that identical price surges were mere coincidences.",
+    "options": [
+      "assertive",
+      "cocky",
+      "forceful",
+      "emphatic"
+    ],
+    "answer": "emphatic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "固定句式搭配 'issued an ___ denial of'（断然坚决否认），专用于法律作证与正式公关声明中表达斩截否定。",
+    "distractor_analysis": {
+      "emphatic": "正确。固定律政搭配 'an emphatic denial'，意为“断然坚决的否认”，专用于正式法律作证与公开申明。",
+      "assertive": "错误。多用于修饰人的态度或行为方式（assertive behavior），与 denial 搭配不合正规法律用语习惯。",
+      "cocky": "错误。口语贬义词（狂妄的），不符合合规总监在反垄断宣誓作证时的正式书面语境。",
+      "forceful": "错误。虽可形容有力的论辩（forceful argument），但正式表态中全盘坚决否认的权威搭配为 'emphatic denial'。"
+    },
+    "translation": "在气氛紧张的反垄断宣誓作证中，合规总监对任何秘密价格同盟协议予以断然否认，坚称同步的价格飙升纯属市场巧合。"
+  },
+  {
+    "id": "tem8_c7_07",
+    "group_id": 165,
+    "group_name": "assorted, sundry, motley, miscellaneous",
+    "level": "TEM-8",
+    "target_word": "motley",
+    "question": "The beleaguered target firm was defended by a ___ coalition of dissident hedge funds, local union leaders, and environmental lobbyists, whose irreconcilable objectives paralyzed the defense.",
+    "options": [
+      "assorted",
+      "sundry",
+      "motley",
+      "miscellaneous"
+    ],
+    "answer": "motley",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "修饰 'coalition'，且后文指出 'whose irreconcilable objectives paralyzed the defense'（目标不可调和导致瘫痪）；专指动机各异、乌合之众式的杂凑联盟。",
+    "distractor_analysis": {
+      "motley": "正确。常修饰 crew/coalition，带有贬义或讽刺色彩，专指“鱼龙混杂、动机各异且拼凑而成的群体”，后文利益不可调和形成完美排他题眼。",
+      "assorted": "错误。客观中性词，意为“各种各样的”，常用于商品或分类物品（如 assorted biscuits），不指政治利益联盟的杂乱与内耗。",
+      "sundry": "错误。正式用语，常作后置定语或并列（sundry matters），不用于修饰充满矛盾的利益集团拼凑联盟。",
+      "miscellaneous": "错误。客观归类术语，指“杂项的、未分类的”（如 miscellaneous expenses），不具备形容人员联盟杂乱无章的修辞色彩。"
+    },
+    "translation": "这家陷入困境的目标公司由一个杂乱拼凑的联盟出面防御，成员包括持不同政见的对冲基金、地方工会领袖和环保说客，但彼此互不相容的目标使防御陷入瘫痪。"
+  },
+  {
+    "id": "tem8_c7_08",
+    "group_id": 165,
+    "group_name": "assorted, sundry, motley, miscellaneous",
+    "level": "TEM-8",
+    "target_word": "miscellaneous",
+    "question": "Forensic accountants flagged millions of dollars booked under '___ corporate expenditures,' suspecting that the vague accounting category concealed kickbacks paid to offshore regulatory officials.",
+    "options": [
+      "assorted",
+      "sundry",
+      "motley",
+      "miscellaneous"
+    ],
+    "answer": "miscellaneous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "财务报表与法务会计的标准法定会计科目搭配：'miscellaneous expenditures / expenses'（杂项开支）。",
+    "distractor_analysis": {
+      "miscellaneous": "正确。会计学与财务报表中的专业固定术语即 'miscellaneous expenditures/expenses'（杂项支出），准确揭示笼统科目掩盖回扣的行径。",
+      "assorted": "错误。指什锦的、各种不同款式的物品，不是财务记账的标准科目用词。",
+      "sundry": "错误。虽在古老英式会计中有 sundry items，但现代企业综合损益表中归集未列明开支的标准统一术语是 miscellaneous expenses/expenditures。",
+      "motley": "错误。带有贬义混杂意味，用于修饰人或外观杂乱，不能作财务科目的正式修饰语。"
+    },
+    "translation": "法务会计师们对记在“公司杂项支出”名下的数百万美元提出了质疑，怀疑这一含糊不清的会计科目掩盖了向离岸监管官员支付的回扣。"
+  },
+  {
+    "id": "tem8_c7_09",
+    "group_id": 166,
+    "group_name": "asymmetric, lopsided, unsymmetric, asymmetrical",
+    "level": "TEM-8",
+    "target_word": "asymmetric",
+    "question": "The antitrust regulator intervened because Big Tech digital gatekeepers possessed vastly ___ information regarding consumer traffic patterns, systematically disadvantaging independent merchant competitors.",
+    "options": [
+      "asymmetric",
+      "lopsided",
+      "unsymmetric",
+      "asymmetrical"
+    ],
+    "answer": "asymmetric",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "产业组织学与反垄断规制中的核心经典专有名词：'asymmetric information'（信息不对称）。",
+    "distractor_analysis": {
+      "asymmetric": "正确。反垄断与信息经济学核心规范术语“信息不对称”（asymmetric information），指平台与商户之间掌握信息的结构性不对等。",
+      "lopsided": "错误。通俗口语化词汇，指“倾斜的、一边倒的”，多修饰比分或投票结果（如 a lopsided victory），非微观经济学术语。",
+      "unsymmetric": "错误。科学中极少见的物理形态描述，非社会科学与反垄断术语。",
+      "asymmetrical": "错误。在纯几何或生物解剖学中常用，但在诺贝尔经济学奖及反垄断法典奠基概念中，公认标准术语为 'asymmetric information'。"
+    },
+    "translation": "反垄断监管机构出手干预，因为大型科技数字看门人掌握着极其不对称的消费者流量信息，系统性地将独立商户竞争者置于劣势地位。"
+  },
+  {
+    "id": "tem8_c7_10",
+    "group_id": 166,
+    "group_name": "asymmetric, lopsided, unsymmetric, asymmetrical",
+    "level": "TEM-8",
+    "target_word": "lopsided",
+    "question": "The activist investor suffered a ___ defeat at the annual shareholder meeting, garnering barely twelve percent of proxy votes against management's slate.",
+    "options": [
+      "asymmetric",
+      "lopsided",
+      "unsymmetric",
+      "asymmetrical"
+    ],
+    "answer": "lopsided",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "搭配 'defeat'，且后文指出 'garnering barely twelve percent of proxy votes'（仅获得不足 12% 代理票）；专八政经标准搭配为 'a lopsided defeat'（一边倒的惨败）。",
+    "distractor_analysis": {
+      "lopsided": "正确。固定搭配 'a lopsided defeat'，专指选举、表决或竞赛中双方得票悬殊、“一边倒的惨败”。",
+      "asymmetric": "错误。学术用语，指系统机制、信息或战争结构的非对称，不用于形容股东表决比分悬殊的惨败。",
+      "unsymmetric": "错误。偏门物理词汇，不可修饰表决溃败。",
+      "asymmetrical": "错误。主要形容抽象结构或空间布局，不用于修饰票数悬殊的选举/表决结果。"
+    },
+    "translation": "激进投资者在年度股东大会上遭遇了一场一边倒的惨败，在反对管理层候选名单的表决中仅获得了不足百分之十二的代理选票。"
+  },
+  {
+    "id": "tem8_c7_11",
+    "group_id": 167,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "grievous",
+    "question": "The special litigation committee concluded that the former executives had committed a ___ breach of fiduciary duty by concealing the conglomerate's massive off-balance-sheet liabilities.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "grievous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "英美公司治理与衡平法核心严肃术语：'grievous breach of fiduciary duty'（极其严重的违反信托责任）。",
+    "distractor_analysis": {
+      "grievous": "正确。英美衡平法与公司治理中的标准严肃法律措辞 'a grievous breach of fiduciary duty'，指造成重大损害或极为恶劣的信托违信行为。",
+      "atrocious": "错误。侧重令人发指的残暴或极端拙劣的质量，并非描述法律违信责任的规范法律用词。",
+      "evil": "错误。偏向道德与神学层面的“邪恶”，与世俗法庭和公司董事会法律调查语域严重脱节。",
+      "monstrous": "错误。侧重庞大怪异或骇人听闻（monstrous lie/size），不能规范构成对 breach of duty 的法理定性。"
+    },
+    "translation": "特别诉讼委员会得出结论，前高管通过隐瞒集团庞大的表外负债，构成了对信托责任的极其严重的违反。"
+  },
+  {
+    "id": "tem8_c7_12",
+    "group_id": 167,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "atrocious",
+    "question": "State attorneys general initiated joint civil probes into the subprime auto lender's ___ lending practices, which saddled vulnerable borrowers with exorbitant predatory interest rates.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "atrocious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "韦氏词典商业专有例句用法（'sales practices that were atrocious'）；修饰令人发指且掠夺弱势群体的商业放贷行径。",
+    "distractor_analysis": {
+      "atrocious": "正确。韦氏词典政经专有例句用法，形容商业中令人发指的欺诈掠夺行径（atrocious lending/sales practices）。",
+      "grievous": "错误。常修饰危害后果、创伤或背信（grievous bodily harm / grievous breach），不常直接作前置定语修饰复数 business practices。",
+      "evil": "错误。哲学/宗教词汇，不符合州总检察长在民事商业调查公告中的法务用语规范。",
+      "monstrous": "错误。强调体量巨大或怪诞荒谬，不属于监管机构定性商业欺凌掠夺行为的典型用语。"
+    },
+    "translation": "各州总检察长对该次级汽车贷款机构极其恶劣的放贷行径展开联合民事调查，该机构给弱势借款人套上了高额的掠夺性利率枷锁。"
+  },
+  {
+    "id": "tem8_c7_13",
+    "group_id": 168,
+    "group_name": "audacious, dauntless, bold, brave",
+    "level": "TEM-8",
+    "target_word": "audacious",
+    "question": "The activist investor launched an ___ hostile takeover bid for the heritage media conglomerate, catching the complacent board entirely off guard with a thirty percent premium.",
+    "options": [
+      "audacious",
+      "dauntless",
+      "bold",
+      "brave"
+    ],
+    "answer": "audacious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "金融资本并购外刊高频核心搭配：'an audacious hostile takeover bid'（大胆惊人且极具野心的敌意收购要约）。",
+    "distractor_analysis": {
+      "audacious": "正确。商业财经语境核心搭配（an audacious bid/claim/gambit），特指挑战现有巨头秩序、令人震惊且充满野心的大胆商业行动。",
+      "dauntless": "错误。具有史诗或探险家色彩（如 dauntless courage/explorer），侧重“不屈不挠、无惧威胁”，不用于形容资本市场的突袭收购要约。",
+      "brave": "错误。日常口语词汇，用于人面对危险时的勇气，无法传达资本要约的大胆狂放与金融魄力。",
+      "bold": "错误。含义过于泛化，缺乏 audacious 在专八考点中所独具的“令人咋舌的野心与颠覆性挑战”的修辞深度。"
+    },
+    "translation": "该激进投资者对这家老牌传媒集团发起了极具野心且大胆惊人的敌意收购要约，溢价百分之三十的举动让自满的董事会完全猝不及防。"
+  },
+  {
+    "id": "tem8_c7_14",
+    "group_id": 168,
+    "group_name": "audacious, dauntless, bold, brave",
+    "level": "TEM-8",
+    "target_word": "dauntless",
+    "question": "Despite facing pervasive corporate retaliation and legal intimidation from senior partners, the compliance officer exhibited a ___ commitment to uncovering the accounting fraud.",
+    "options": [
+      "audacious",
+      "dauntless",
+      "bold",
+      "brave"
+    ],
+    "answer": "dauntless",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "题眼在于 'Despite facing pervasive corporate retaliation and legal intimidation'（尽管面对报复与恐吓）；dauntless 专指面对恐吓威逼时无畏坚韧。",
+    "distractor_analysis": {
+      "dauntless": "正确。精准呼应前文面临报复与恐吓（intimidation），专指在威逼高压面前“不屈不挠、大义凛然、无畏恐吓”。",
+      "audacious": "错误。侧重胆大妄为或异想天开的冒险举动，不用于描绘面对打击报复时坚守合规底线的正义品格。",
+      "brave": "错误。语体色彩偏普通日常，缺乏外刊学术社论描述吹哨人时那种高贵沉稳的书面语质感。",
+      "bold": "错误。偏向行事有魄力，但不能精准对应“抵御恐吓与报复”这一由 daunt（使畏惧）演化而来的排他性语义特征。"
+    },
+    "translation": "尽管面临来自高级合伙人的普遍企业报复与法律恐吓，这名合规官员在揭露财务造假方面依然展现出了百折不挠的无畏担当。"
+  },
+  {
+    "id": "tem8_c7_15",
+    "group_id": 169,
+    "group_name": "audible, sonic, clunky, sounding",
+    "level": "TEM-8",
+    "target_word": "audible",
+    "question": "When the chairman declared an unexpected sixty percent cut to shareholder dividends, an ___ gasp of astonishment rippled across the crowded annual general meeting.",
+    "options": [
+      "audible",
+      "sonic",
+      "clunky",
+      "sounding"
+    ],
+    "answer": "audible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定经典搭配 'an ___ gasp of astonishment'（清晰可闻的惊愕抽气声），形容全场听闻削减股息时的强烈震惊。",
+    "distractor_analysis": {
+      "audible": "正确。固定搭配 'an audible gasp'，指“清晰可听见的倒吸凉气声”，完美烘托大会现场股东听闻削减股息时的震惊反应。",
+      "sonic": "错误。物理学术语，指“声波的、声速的”（如 sonic boom），不可修饰人的叹气或倒吸冷气。",
+      "clunky": "错误。形容机械、软件或流程“笨重不灵便的”，与声音感知完全不搭。",
+      "sounding": "错误。指“测量深度的”或作名词，不能前置修饰 gasp。"
+    },
+    "translation": "当董事长宣布将股东股息意外削减百分之六十时，拥挤的年度股东大会现场顿时响起一阵清晰可闻的惊愕抽气声。"
+  },
+  {
+    "id": "tem8_c7_16",
+    "group_id": 169,
+    "group_name": "audible, sonic, clunky, sounding",
+    "level": "TEM-8",
+    "target_word": "clunky",
+    "question": "Antitrust plaintiffs alleged that the incumbent tech giant deliberately degraded rival software through a ___ user interface and frequent latency errors to preserve its ecosystem dominance.",
+    "options": [
+      "audible",
+      "sonic",
+      "clunky",
+      "sounding"
+    ],
+    "answer": "clunky",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配 'user interface and frequent latency errors'（用户界面与频繁延迟）；形容人机交互系统笨拙不便、操作卡顿的标准行业用语为 clunky。",
+    "distractor_analysis": {
+      "clunky": "正确。科技反垄断与商业评论核心词，专指软件或系统界面“笨拙粗劣、不流畅、响应迟缓”，与后文 latency 完美契合。",
+      "audible": "错误。意为“听得见的”，与图形用户界面（UI）毫无逻辑关联。",
+      "sonic": "错误。意为“声音的”，无法修饰软件界面的笨重卡顿。",
+      "sounding": "错误。不具备形容软件人机界面笨拙落后的含义。"
+    },
+    "translation": "反垄断原告指控该在位科技巨头蓄意通过笨拙卡顿的用户界面和频繁的延迟错误来贬损竞争对手的软件，以维持其生态系统的统治地位。"
+  },
+  {
+    "id": "tem8_c7_17",
+    "group_id": 170,
+    "group_name": "august, grand, noble, lordly",
+    "level": "TEM-8",
+    "target_word": "august",
+    "question": "The tech cartel's legal counsel argued their appeal before the ___ bench of the constitutional court, hoping to overturn the regulator's historic breakup order.",
+    "options": [
+      "august",
+      "grand",
+      "noble",
+      "lordly"
+    ],
+    "answer": "august",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰 'bench of the constitutional court'（宪法法院审判席）；韦氏词典司法经典用例，专指享有崇高权威与神圣尊严的法庭席位。",
+    "distractor_analysis": {
+      "august": "正确。典雅高阶词汇，专用于形容历史悠久、庄严肃穆、令人肃然起敬的最高司法机构或法官席（the august bench / body）。",
+      "grand": "错误。多用于指物理宏大、宏伟景观或通俗意义上的宏大计划，缺乏宪政司法机构庄重神圣的语域色彩。",
+      "noble": "错误。侧重贵族血统或道德崇高（noble character），不规范修饰国家宪法法庭的合议庭席位。",
+      "lordly": "错误。多带贬义“傲慢专横的、老爷派头的”，不可用于正面形容司法殿堂。"
+    },
+    "translation": "该科技卡特尔的法律顾问在宪法法院庄严肃穆的审判席前陈词上诉，期望推翻监管机构所作出的具有历史意义的分拆指令。"
+  },
+  {
+    "id": "tem8_c7_18",
+    "group_id": 170,
+    "group_name": "august, grand, noble, lordly",
+    "level": "TEM-8",
+    "target_word": "lordly",
+    "question": "Corporate governance watchdogs condemned the former chief executive for his ___ disdain of internal audit warnings, treating multi-million dollar compliance sanctions as trivial operational costs.",
+    "options": [
+      "august",
+      "grand",
+      "noble",
+      "lordly"
+    ],
+    "answer": "lordly",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰 'disdain of internal audit warnings'（对内部审计警告的蔑视）；带有贬义，指自命不凡、摆老爷派头的狂妄蔑视。",
+    "distractor_analysis": {
+      "lordly": "正确。贬义形容词，意为“傲慢专横的、居高临下的、摆老爷架子的”，精准描绘CEO对内部审计警告自命不凡的轻蔑。",
+      "august": "错误。高度褒义词，形容神圣威严，与对合规警告的不端藐视在语义情感色彩上严重倒错。",
+      "grand": "错误。通常指宏大的、壮丽的，不可与蔑视（disdain）构成合理语义修饰。",
+      "noble": "错误。指品格高尚，与违规无视内部审计的丑态完全对立。"
+    },
+    "translation": "公司治理监督机构谴责前首席执行官对内部审计警告抱有居高临下的傲慢蔑视，将数百万美元的合规制裁款项仅视作微不足道的运营成本。"
+  },
+  {
+    "id": "tem8_c7_19",
+    "group_id": 171,
+    "group_name": "auspicious, rosy, bright, hopeful",
+    "level": "TEM-8",
+    "target_word": "auspicious",
+    "question": "Despite the volatility in global semiconductor markets, the fabless chip startup celebrated an ___ debut on NASDAQ, with shares surging forty percent on opening day.",
+    "options": [
+      "auspicious",
+      "rosy",
+      "bright",
+      "hopeful"
+    ],
+    "answer": "auspicious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "资本市场 IPO 与首发交易核心典雅搭配：'celebrated an ___ debut'（迎来了开门红/大吉大利的首秀）。",
+    "distractor_analysis": {
+      "auspicious": "正确。正式商业与财经高阶词汇，专指项目或首次公开募股（IPO）在起始阶段“预兆吉利、开局大吉的”（an auspicious debut/beginning）。",
+      "rosy": "错误。多用于修饰对未来预期的展望（a rosy outlook / rosy picture），不与一次性的开市亮相（debut）连用。",
+      "bright": "错误。通俗日常词汇（a bright future），语域低于专八外刊长句对 IPO 首秀的专业措辞要求。",
+      "hopeful": "错误。主观形容怀有希望的人或态度，不修饰在纳斯达克交易上市的客观事实表现。"
+    },
+    "translation": "尽管全球半导体市场动荡不安，这家无晶圆厂芯片初创企业仍迎来了在纳斯达克的吉利首秀，开盘首日股价便大涨百分之四十。"
+  },
+  {
+    "id": "tem8_c7_20",
+    "group_id": 171,
+    "group_name": "auspicious, rosy, bright, hopeful",
+    "level": "TEM-8",
+    "target_word": "rosy",
+    "question": "The Securities and Exchange Commission charged the fintech unicorn with painting a deceptively ___ picture of its loan recovery rates to mislead institutional bondholders.",
+    "options": [
+      "auspicious",
+      "rosy",
+      "bright",
+      "hopeful"
+    ],
+    "answer": "rosy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "商业财务报告欺诈核心经典成语搭配：'paint a deceptively ___ picture of'（描绘虚假乐观的前景图景、粉饰太平）。",
+    "distractor_analysis": {
+      "rosy": "正确。固定习惯搭配 'paint a rosy picture'，专指在财务报告或路演中“粉饰乐观前景、报喜不报忧”，完美揭示欺诈性美化。",
+      "auspicious": "错误。强调事情开端的吉兆，不与动词 paint 搭配构成修饰现状描述的习惯用语。",
+      "bright": "错误。虽有 bright prospect，但与动词 paint 及介词 of 连用表达粉饰虚假繁荣时，标准成语是 paint a rosy picture。",
+      "hopeful": "错误。指抱有希望的心态，不可作此类固定习语的定语核心词。"
+    },
+    "translation": "美国证券交易委员会指控该金融科技独角兽企业对其贷款回收率描绘了一幅具有误导性的虚假乐观图景，以此欺骗机构债券持有人。"
+  },
+  {
+    "id": "tem8_c7_21",
+    "group_id": 172,
+    "group_name": "authoritarian, tyrannical, autocratic, despotic",
+    "level": "TEM-8",
+    "target_word": "autocratic",
+    "question": "Institutional shareholders rebelled against the founder's ___ governance style, demanding the immediate separation of the chief executive and board chairman roles to curb unilateral decision-making.",
+    "options": [
+      "authoritarian",
+      "tyrannical",
+      "autocratic",
+      "despotic"
+    ],
+    "answer": "autocratic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "后文 'to curb unilateral decision-making'（遏制单方面独断决策）与 CEO 兼董事长分权，商业治理学专用术语为 'autocratic governance / leadership style'。",
+    "distractor_analysis": {
+      "autocratic": "正确。管理学与公司治理专有高频术语（autocratic leadership/governance style），指领导者独揽大权、不容他人分权或参与决策。",
+      "authoritarian": "错误。政治学色彩浓厚，主要用于描述要求对政权盲从的国家体制（authoritarian regime），少用于修饰微观董事会内部决策风格。",
+      "tyrannical": "错误。带有残酷压迫与施虐色彩（暴虐的），用于董事会治理风格过于戏剧化，偏离商业严肃文体。",
+      "despotic": "错误。专指封建专制君主的残暴独裁，脱离现代股份公司治理语境。"
+    },
+    "translation": "机构股东奋起反抗创始人独断专行的治理风格，要求立即剥离首席执行官与董事会主席的职务，以遏制其单方面的独断决策。"
+  },
+  {
+    "id": "tem8_c7_22",
+    "group_id": 172,
+    "group_name": "authoritarian, tyrannical, autocratic, despotic",
+    "level": "TEM-8",
+    "target_word": "authoritarian",
+    "question": "Multinational corporations re-evaluated their direct foreign investments as host governments tightened ___ regulatory controls over private enterprise data and strategic energy assets.",
+    "options": [
+      "authoritarian",
+      "tyrannical",
+      "autocratic",
+      "despotic"
+    ],
+    "answer": "authoritarian",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "修饰国家层面对数据和能源实施强制服从、无申诉渠道的国家集权式监管规制：'authoritarian regulatory controls'。",
+    "distractor_analysis": {
+      "authoritarian": "正确。精准修饰国家层面的行政规制机制（authoritarian regulatory controls/measures），指权力高度集中、要求无条件服从且缺乏司法申诉途径的国家管控制度。",
+      "autocratic": "错误。侧重指某个具体掌权个人独断专行，不适合修饰国家整体行政监管架构。",
+      "tyrannical": "错误。指残暴无理的暴政，非国际政经评论中定性主权国家监管模式的中性学术用语。",
+      "despotic": "错误。指封建暴君统治，在现代跨境投资和数据规制语境中显得过时与情绪化。"
+    },
+    "translation": "跨国公司重新评估了其对外直接投资，因为东道国政府收紧了对民营企业数据和战略能源资产的威权式监管控制。"
+  },
+  {
+    "id": "tem8_c7_23",
+    "group_id": 173,
+    "group_name": "avid, desirous, greedy, wishful",
+    "level": "TEM-8",
+    "target_word": "avid",
+    "question": "Attracted by deflated technology valuations following the market correction, the sovereign wealth fund emerged as an ___ acquirer of artificial intelligence startups across Europe.",
+    "options": [
+      "avid",
+      "desirous",
+      "greedy",
+      "wishful"
+    ],
+    "answer": "avid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "金融投资与并购外刊极高频专业搭配：'emerged as an ___ acquirer/buyer of'（成为极具热忱、频频出手的积极买家）。",
+    "distractor_analysis": {
+      "avid": "正确。投行与商业外刊标准搭配（an avid acquirer/buyer），形容买方在市场上展现出极大热忱与持续的积极收购态势。",
+      "desirous": "错误。多作表语并后接 of（desirous of sth），极罕见作前置定语修饰名词指收购方。",
+      "greedy": "错误。带有明显的贪婪贬义色彩，不符合中立客观报道主权财富基金逆周期战略布局的投行语境。",
+      "wishful": "错误。意为“一厢情愿的、妄想的”（如 wishful thinking），完全无法形容实际大举出资收购的买方。"
+    },
+    "translation": "受到市场回调后科技估值下调的吸引，该主权财富基金迅速崛起，成为欧洲人工智能初创企业极为积极热切的收购方。"
+  },
+  {
+    "id": "tem8_c7_24",
+    "group_id": 173,
+    "group_name": "avid, desirous, greedy, wishful",
+    "level": "TEM-8",
+    "target_word": "desirous",
+    "question": "The joint venture partners, ___ of averting a protracted and commercially destructive arbitration, agreed to submit their dispute to confidential expert mediation.",
+    "options": [
+      "avid",
+      "desirous",
+      "greedy",
+      "wishful"
+    ],
+    "answer": "desirous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "语法介词绝对锚点：'___ of averting a protracted ... arbitration'；'desirous of doing sth' 为正式书面语固定句式，表“渴望达成某目的”。",
+    "distractor_analysis": {
+      "desirous": "正确。语法固定搭配 'desirous of doing sth'，典雅法律书面语，表示“渴望/意图达成某种结果”，完美引导非限制性修饰短语。",
+      "avid": "错误。习惯接 for（如 avid for success）或动词不定式，不能接 of 引导避免争端的动名词短语。",
+      "greedy": "错误。贬义词（贪婪的），与合资双方谋求理性化解争端的主旨冲突，且搭配不当。",
+      "wishful": "错误。指不可实现的空想（wishful thinking），不能用于描述双方具有实际行动指向的合作意愿。"
+    },
+    "translation": "合资双方由于渴望避免旷日持久且在商业上两败俱伤的仲裁，同意将其争议提交给保密的专家调解机构。"
+  },
+  {
+    "id": "tem8_c7_25",
+    "group_id": 174,
+    "group_name": "awesome, awing, awful, amazing",
+    "level": "TEM-8",
+    "target_word": "awesome",
+    "question": "Antitrust enforcers warned that the search engine had accumulated ___ market power, wielding the discretionary capacity to unilaterally destroy downstream e-commerce merchants.",
+    "options": [
+      "awesome",
+      "awing",
+      "awful",
+      "amazing"
+    ],
+    "answer": "awesome",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "反垄断司法论述修辞：'accumulated ___ market power'（积聚了令人敬畏、庞大骇人的市场支配力）。",
+    "distractor_analysis": {
+      "awesome": "正确。反垄断司法评论典雅用法，指权力“令人望而生畏的、规模极其巨大的”（awesome market power），凸显寡头支配力的恐怖量级。",
+      "awful": "错误。在现代通用语域中表示“糟糕的、恶劣的”，若修饰 market power 会产生歧义且不合反垄断法理文体。",
+      "awing": "错误。现在分词形式极罕见用作前置定语，不符合标准法律英语表达。",
+      "amazing": "错误。侧重令人惊奇赞叹，带有积极惊喜色彩，用于描述非法垄断地位会导致文风色彩倒错。"
+    },
+    "translation": "反垄断执法官员警告称，该搜索引擎已经积聚了令人望而生畏的市场支配力，拥有可以单方面毁灭下游电商商户的自由裁量权力。"
+  },
+  {
+    "id": "tem8_c7_26",
+    "group_id": 174,
+    "group_name": "awesome, awing, awful, amazing",
+    "level": "TEM-8",
+    "target_word": "awful",
+    "question": "The independent directors were forced to confront the ___ realization that their failure to implement effective internal controls had exposed the bank to multibillion-dollar regulatory fines.",
+    "options": [
+      "awesome",
+      "awing",
+      "awful",
+      "amazing"
+    ],
+    "answer": "awful",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定经典搭配 'confront the ___ realization that'（面对可怕残酷的现实觉醒），指意识到严重过失造成灾难性后果。",
+    "distractor_analysis": {
+      "awful": "正确。固定语用搭配 'an awful realization'，专指突然意识到某种极其可怕、严重且令人痛心疾首的残酷现实。",
+      "awesome": "错误。指令人敬畏的或俚语中极好的，在此处无法搭配这种对失职造成巨额罚款的悔恨痛苦心境。",
+      "awing": "错误。分词不规范，无法修饰主观认知觉醒（realization）。",
+      "amazing": "错误。侧重惊奇神奇，带有正面赞叹或中性诧异，不可用于意识到自己面临毁灭性监管巨额处罚的悔恨语境。"
+    },
+    "translation": "独立董事们不得不面对一个可怕而残酷的现实：他们未能建立有效的内部控制体系，已使该银行面临数十亿美元的监管巨额罚款。"
+  },
+  {
+    "id": "tem8_c7_27",
+    "group_id": 175,
+    "group_name": "baleful, ominous, forbidding, menacing",
+    "level": "TEM-8",
+    "target_word": "baleful",
+    "question": "The regulatory commission released an extensive empirical report on the ___ influence of algorithmic high-frequency trading on price discovery and liquidity during market dislocations.",
+    "options": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "menacing"
+    ],
+    "answer": "baleful",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "韦氏原生例句（'baleful influence / baleful effects'）；专指造成严重损害与毒害破坏的深远影响。",
+    "distractor_analysis": {
+      "baleful": "正确。韦氏词典及政经社评经典搭配 'baleful influence/effects'，专指带来深远危害、破坏或恶性腐蚀的深重影响。",
+      "ominous": "错误。意为“不祥的、预示凶兆的”，侧重对未来事件的征兆预兆（an ominous sign），不修饰已经发生的实质性有害影响（influence）。",
+      "forbidding": "错误。指外貌或环境“令人望而生畏的、冷酷险峻的”（a forbidding appearance/landscape），不修饰抽象制度影响。",
+      "menacing": "错误。侧重充满威胁姿态的（a menacing gesture），不规范搭配 influence 表达实质危害。"
+    },
+    "translation": "监管委员会发布了一份详尽的实证报告，阐述了算法高频交易在市场动荡期间对价格发现与流动性所产生的深远恶性影响。"
+  },
+  {
+    "id": "tem8_c7_28",
+    "group_id": 175,
+    "group_name": "baleful, ominous, forbidding, menacing",
+    "level": "TEM-8",
+    "target_word": "ominous",
+    "question": "Spreading credit default swap premiums across the commercial real estate sector served as an ___ signal that regional banks were teetering on systemic insolvency.",
+    "options": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "menacing"
+    ],
+    "answer": "ominous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配 'served as an ___ signal that'（充当了预示未来金融灾难爆发的不祥信号/征兆）。",
+    "distractor_analysis": {
+      "ominous": "正确。固定搭配 'an ominous signal/sign'，专指预示即将发生系统性危机或金融灾难的不祥信号。",
+      "baleful": "错误。侧重已经产生的有害恶性结果（baleful effect），不搭配 signal 充当未来危机的先兆指示。",
+      "forbidding": "错误。指外表严峻拒人千里之外，不用于金融危机的预兆表述。",
+      "menacing": "错误。强调当下的攻击性与威胁举动，不及 ominous 具有深沉的金融末日征兆预测色彩。"
+    },
+    "translation": "商业地产板块不断扩大的信用违约互换利差，成了一个不祥的信号，预示着区域性银行正滑向系统性资不抵债的边缘。"
+  },
+  {
+    "id": "tem8_c7_29",
+    "group_id": 176,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "haywire",
+    "question": "When automated market-making algorithms went ___ during the flash crash, cascading sell orders erased billions in corporate equity within minutes.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "haywire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "题眼动词短语搭配 'went ___'（彻底失灵、陷入混乱失控）；商业与工程中形容机器算法紊乱的标准成语为 'go haywire'。",
+    "distractor_analysis": {
+      "haywire": "正确。固定习语 'go haywire'，商业与科技领域权威表达，专指精密系统、算法或市场机制“陷入混乱失控、发生严重故障”。",
+      "balmy": "错误。指气候温和宜人，或口语中指发疯，不能与 went 搭配表示机器或交易算法全面紊乱失控。",
+      "daft": "错误。指人荒谬愚蠢的（a daft idea），不可用于描述量化算法失控。",
+      "buggy": "错误。作形容词可指软件充满漏洞（buggy software），但固定习惯搭配是 go haywire，不能说 go buggy。"
+    },
+    "translation": "当自动化做市算法在闪崩期间彻底失灵失控时，连环触发的抛盘指令在几分钟之内便蒸发了数百亿美元的企业股票市值。"
+  },
+  {
+    "id": "tem8_c7_30",
+    "group_id": 176,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "buggy",
+    "question": "In its antitrust lawsuit, the competition authority asserted that the tech monopoly forced enterprise clients to license its ___ beta software as a mandatory precondition for accessing cloud servers.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "buggy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "搭配 '___ beta software'；反垄断诉讼中指软件充满缺陷漏洞、尚未完善便被强制捆绑销售：'buggy software'。",
+    "distractor_analysis": {
+      "buggy": "正确。计算机与反垄断司法核心术语，专指软件“多漏洞的、程序缺陷百出的”，与 beta software 完美契合。",
+      "balmy": "错误。指天气温和宜人的，用于修饰软件完全不知所云。",
+      "daft": "错误。形容人愚蠢或主意荒唐，不可修饰存在技术缺陷的软件产品。",
+      "haywire": "错误。通常用作表语（go haywire），不能作前置定语修饰 beta software。"
+    },
+    "translation": "竞争主管机构在其反垄断诉讼中声称，该科技垄断巨头强迫企业客户将其漏洞百出的测试版软件作为使用云服务器的强制性前置条件。"
+  },
+  {
+    "id": "tem8_c7_31",
+    "group_id": 177,
+    "group_name": "banal, hackneyed, threadbare, stock",
+    "level": "TEM-8",
+    "target_word": "stock",
+    "question": "Activist hedge funds grew exasperated by the board's ___ responses to governance inquiries, which merely recited generic boilerplate legal disclaimers rather than addressing strategic deficits.",
+    "options": [
+      "banal",
+      "hackneyed",
+      "threadbare",
+      "stock"
+    ],
+    "answer": "stock",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配 'the board's ___ responses' 与后文 'generic boilerplate legal disclaimers'（通用模板法律免责声明）；专指现成老套、千篇一律的官方套话。",
+    "distractor_analysis": {
+      "stock": "正确。固定用法 'stock responses/answers'，专指商业、外交中“老一套现成的、千篇一律的、敷衍了事的应答套话”，后文 boilerplate 形成精确排他。",
+      "banal": "错误。侧重乏味平庸、毫无新意（如 banal conversation），不常作专门定语用来指称企业官方老生常谈的预备答案。",
+      "hackneyed": "错误。主要形容修辞陈腐、老生常谈的话语（hackneyed slogans/phrases），与正式公司公关问答的契合度不及 stock responses。",
+      "threadbare": "错误。侧重借口或论据被反复使用以致于“破绽百出、站不住脚的”（threadbare excuses/arguments），非此处的“现成套话”。"
+    },
+    "translation": "激进对冲基金对董事会就治理质询给出的老套敷衍应答愈发感到恼火，这些应答仅仅是在背诵格式化的法律免责套话，而未解决战略缺陷。"
+  },
+  {
+    "id": "tem8_c7_32",
+    "group_id": 177,
+    "group_name": "banal, hackneyed, threadbare, stock",
+    "level": "TEM-8",
+    "target_word": "threadbare",
+    "question": "The appellate judge dismantled the telecom conglomerate's ___ efficiency defenses, ruling that speculative merger synergies could not legally justify price escalation in regional broadband markets.",
+    "options": [
+      "banal",
+      "hackneyed",
+      "threadbare",
+      "stock"
+    ],
+    "answer": "threadbare",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰 'efficiency defenses' 并被法官拆穿驳斥；形容论辩或抗辩理由破绽百出、站不住脚且陈腐乏力：'threadbare defenses / arguments'。",
+    "distractor_analysis": {
+      "threadbare": "正确。政经与司法高阶修辞，形容辩解或论点“老调重弹、苍白无力、千疮百孔的”（threadbare defenses/arguments），直接与法官击碎虚假并购协同效应呼应。",
+      "banal": "错误。指平凡琐碎的，不用于法庭上驳斥严密的抗辩理由。",
+      "hackneyed": "错误。指陈词滥调的短语，用于修饰法律抗辩不及 threadbare 具有“经不起推敲检验的破绽”之意。",
+      "stock": "错误。指老一套现成的，但与法官在判决中严厉驳斥（dismantled）破绽百出的抗辩相比，threadbare 更具修辞力度与法理精准度。"
+    },
+    "translation": "上诉法官驳回了该电信企业集团苍白无力的效率抗辩，裁定预期的合并协同效应在法律上不能为区域宽带市场的价格上涨进行辩护。"
+  },
+  {
+    "id": "tem8_c7_33",
+    "group_id": 178,
+    "group_name": "baroque, fancy, churrigueresco, churrigueresque",
+    "level": "TEM-8",
+    "target_word": "baroque",
+    "question": "Tax enforcement authorities scrutinized the tech multinational's ___ corporate structure, which spanned dozens of interlocking subsidiaries across zero-tax jurisdictions solely to siphon off taxable intellectual property revenue.",
+    "options": [
+      "baroque",
+      "fancy",
+      "churrigueresco",
+      "churrigueresque"
+    ],
+    "answer": "baroque",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "政经评论高级隐喻：修饰 'corporate structure, which spanned dozens of interlocking subsidiaries'；专指组织或制度架构过度繁复、盘根错节、人工雕琢。",
+    "distractor_analysis": {
+      "baroque": "正确。商业财经与政治社论高级隐喻，形容体系、架构或规则“极其错综繁复、盘根错节的”（baroque structure/bureaucracy），精准刻画避税网络的人为复杂性。",
+      "fancy": "错误。日常口语词汇（时髦的、花哨的），缺乏外刊对于跨国避税结构学术解剖的语域高度。",
+      "churrigueresco": "错误。西班牙语建筑学专有名词，指丘里格拉巴洛克建筑风格，不能用于现代公司避税结构。",
+      "churrigueresque": "错误。同为纯建筑学专业词汇（过分繁饰的建筑风格），完全脱离商业治理语境。"
+    },
+    "translation": "税务执法机关严密审查了该科技跨国公司极其繁杂盘根错节的公司结构，该结构跨越零税率司法管辖区的数十家交叉子公司，纯粹为了抽逃应税知识产权收入。"
+  },
+  {
+    "id": "tem8_c7_34",
+    "group_id": 178,
+    "group_name": "baroque, fancy, churrigueresco, churrigueresque",
+    "level": "TEM-8",
+    "target_word": "fancy",
+    "question": "The bankruptcy examiner noted that beneath all the ___ financial engineering and proprietary valuation algorithms lay a primitive Ponzi scheme incapable of generating organic cash flow.",
+    "options": [
+      "baroque",
+      "fancy",
+      "churrigueresco",
+      "churrigueresque"
+    ],
+    "answer": "fancy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "外刊财经反讽搭配：'beneath all the ___ financial engineering ... lay a primitive Ponzi scheme'；修饰表面花哨精巧却掩盖诈骗的花招包装。",
+    "distractor_analysis": {
+      "fancy": "正确。外刊评论经典对比用法，修饰 'fancy financial engineering'，讽刺其“表面花哨繁复、唬人精巧”，与后文 primitive Ponzi scheme（原始庞氏骗局）形成鲜明对照。",
+      "baroque": "错误。侧重结构过度繁复冗余，但不如 fancy financial engineering 带有外刊惯常用来戳穿忽悠散户的讽刺对比意味。",
+      "churrigueresco": "错误。外来建筑学词汇，与现代金融工程毫无关联。",
+      "churrigueresque": "错误。建筑雕刻术语，无法修饰金融工程。"
+    },
+    "translation": "破产审查人指出，在所有那些看似花哨繁复的金融工程与专有估值算法之下，潜藏着一个根本无法产生内生现金流的原始庞氏骗局。"
+  },
+  {
+    "id": "tem8_c7_35",
+    "group_id": 179,
+    "group_name": "beastly, brutish, brute, brutal",
+    "level": "TEM-8",
+    "target_word": "brutal",
+    "question": "Following the debt-financed leveraged buyout, the private equity owners enacted a ___ round of corporate restructuring, eliminating forty percent of the workforce to service loan interest.",
+    "options": [
+      "beastly",
+      "brutish",
+      "brute",
+      "brutal"
+    ],
+    "answer": "brutal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "商业财经外刊高频核心搭配：'enacted a ___ round of corporate restructuring'（推行了一轮残酷剧烈的企业重组）。",
+    "distractor_analysis": {
+      "brutal": "正确。财经媒体与公司治理经典搭配 'a brutal round of restructuring/cuts'，形容裁员与重组“残酷无情、严苛剧烈”。",
+      "beastly": "错误。英式日常口语，多表示“讨厌的、恶劣的”（beastly weather），语域与语体完全不符合严肃的杠杆收购重组报道。",
+      "brutish": "错误。侧重野蛮野兽般的粗暴或愚钝（brutish behavior/ignorance），不修饰制度性、商业性的企业裁员决策。",
+      "brute": "错误。作定语常修饰 force/fact（如 brute force 蛮力，brute facts 冰冷冷的事实），不能用于修饰一轮企业重组。"
+    },
+    "translation": "在这起依靠负债融资的杠杆收购之后，私募股权所有者推行了一轮残酷无情的企业重组，削减了百分之四十的员工以偿还贷款利息。"
+  },
+  {
+    "id": "tem8_c7_36",
+    "group_id": 179,
+    "group_name": "beastly, brutish, brute, brutal",
+    "level": "TEM-8",
+    "target_word": "brute",
+    "question": "The antitrust regulator asserted that the e-commerce conglomerate achieved its retail monopoly not through technological innovation, but through the application of ___ financial force to undercut local merchants.",
+    "options": [
+      "beastly",
+      "brutish",
+      "brute",
+      "brutal"
+    ],
+    "answer": "brute",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "固定成语搭配 'application of ___ financial force'；在经济法学论述中，'brute force' 专指单纯依仗庞大体量的粗暴蛮力压制。",
+    "distractor_analysis": {
+      "brute": "正确。固定熟语 'brute force'，在经济与法学评论中指“单纯仰仗体量规模的粗暴蛮力”，精准揭露资本碾压式竞争。",
+      "brutal": "错误。意为残暴的，用于形容行为特征，而与 force 构成特定“蛮力、纯凭硬实力压制”的固定成语是 brute force。",
+      "beastly": "错误。口语词，指令人讨厌的，不可与 financial force 构成法务反垄断术语。",
+      "brutish": "错误。指粗俗野蛮的品格，不可构成金融蛮力这一固定表达。"
+    },
+    "translation": "反垄断监管机构坚称，该电子商务巨头取得零售垄断地位并非凭借技术创新，而是通过运用纯粹的资金蛮力来以低价挤垮当地商户。"
+  },
+  {
+    "id": "tem8_c7_37",
+    "group_id": 180,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "level": "TEM-8",
+    "target_word": "preoccupied",
+    "question": "The post-mortem inquiry revealed that the risk oversight committee was so completely ___ with short-term earnings guidance that it overlooked massive liquidity vulnerabilities across the derivatives portfolio.",
+    "options": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "answer": "preoccupied",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语法介词搭配：'was so completely ___ with short-term earnings guidance that...'；'preoccupied with' 专指全副心思被……占据而玩忽职守。",
+    "distractor_analysis": {
+      "preoccupied": "正确。固定语法搭配 'preoccupied with'，意为“全副心思被……占据，心无旁骛以致玩忽职守”，后文 overlooked 构成因果逻辑题眼。",
+      "bemused": "错误。意为“困惑茫然的”或“觉得啼笑皆非的”，不与 with 搭配表示心思被某事完全占据。",
+      "lost": "错误。表达陷入沉思迷失时搭配介词 in（如 lost in thought），不接 with。",
+      "thoughtful": "错误。意为“体贴的”或“深思熟虑的”，无法搭配介词 with 表达注意力被短期业绩所绑架。"
+    },
+    "translation": "事后调查显示，风险监管委员会全副心思完全被短期收益指引所占据，以至于忽视了衍生品投资组合中巨大的流动性脆弱漏洞。"
+  },
+  {
+    "id": "tem8_c7_38",
+    "group_id": 180,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "level": "TEM-8",
+    "target_word": "bemused",
+    "question": "Industry observers watched with ___ detachment as the aging antitrust lawmakers repeatedly demonstrated an utter lack of comprehension regarding basic cloud computing architectures during the televised hearing.",
+    "options": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "answer": "bemused",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修辞搭配 'watched with ___ detachment as ... lawmakers repeatedly demonstrated an utter lack of comprehension'；形容看客啼笑皆非、略带讽刺困惑的超然神态。",
+    "distractor_analysis": {
+      "bemused": "正确。外刊高阶评论特色词汇（bemused detachment/smile），意为“感到荒唐好笑却又无可奈何、略带困惑与戏谑的”，精准描绘懂行人看待外行议员审问云技术时的心态。",
+      "preoccupied": "错误。指心事重重的，无法修饰面对听证会荒唐表现时作为看客的超脱态度（detachment）。",
+      "lost": "错误。指迷茫迷失的，不用于构成描述旁观心态的高阶修辞。",
+      "thoughtful": "错误。指深思熟虑的，无法体现出听证会问答暴露无知时所引发的黑色幽默与荒谬感。"
+    },
+    "translation": "在电视直播的听证会上，随着年迈的反垄断议员们一再暴露出对基础云计算架构的全然无知，业内观察人士带着啼笑皆非的超然神态旁观着这一切。"
+  },
+  {
+    "id": "tem8_c7_39",
+    "group_id": 181,
+    "group_name": "benevolent, kind, kindly, charitable",
+    "level": "TEM-8",
+    "target_word": "benevolent",
+    "question": "Union representatives rejected the management's offer, warning that what executive leadership characterized as ___ paternalism was actually a calculated mechanism to suppress collective bargaining rights.",
+    "options": [
+      "benevolent",
+      "kind",
+      "kindly",
+      "charitable"
+    ],
+    "answer": "benevolent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "劳资谈判与企业社会学经典学术术语：'___ paternalism'（仁慈的家长制管理），指资方假借仁慈行专制压制之实。",
+    "distractor_analysis": {
+      "benevolent": "正确。劳资谈判与公司治理学术专用术语 'benevolent paternalism'（仁慈的家长制统治），精准呼应资方假借慈悲掩盖压制集体谈判之意。",
+      "kind": "错误。通用口语形容词，语域平淡，不与学术概念 paternalism 构成固定辨析术语。",
+      "kindly": "错误。多作副词，作形容词时指亲切和蔼的个体（a kindly old man），无法用于制度层面的治理机制定性。",
+      "charitable": "错误。专指慈善性质的或宽容的（charitable donation/trust），不能与 paternalism 结合构成特定的资方统治形态。"
+    },
+    "translation": "工会代表拒绝了管理层的提议，警告称管理层领导口中所谓的“仁慈家长式关怀”，实际上是一种旨在压制集体谈判权利的蓄意手段。"
+  },
+  {
+    "id": "tem8_c7_40",
+    "group_id": 181,
+    "group_name": "benevolent, kind, kindly, charitable",
+    "level": "TEM-8",
+    "target_word": "charitable",
+    "question": "The state attorney general dissolved the pharmaceutical billionaire's private foundation after an audit revealed that corporate assets masquerading as ___ donations were diverted to luxury real estate.",
+    "options": [
+      "benevolent",
+      "kind",
+      "kindly",
+      "charitable"
+    ],
+    "answer": "charitable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "税法与公益基金会治理的法定固定搭配：'___ donations / contributions'（慈善捐助，享受免税抵扣的法定捐赠）。",
+    "distractor_analysis": {
+      "charitable": "正确。法务与税务法规中的法定标准搭配 'charitable donations'（慈善捐助），契合打击假借公益基金会逃税和转移资产的语境。",
+      "benevolent": "错误。指心怀善意的，但法律免税抵扣与基金会章程中官方定性术语是 charitable donations，而非 benevolent donations。",
+      "kind": "错误。日常口语词汇，无税法与公司治理规范效力。",
+      "kindly": "错误。修饰人的神态举止，不能修饰公司捐赠款物。"
+    },
+    "translation": "州总检察长解散了该制药巨头的私人基金会，此前的一项审计显示，伪装成慈善捐款的公司资产被挪用于购买豪华房产。"
+  },
+  {
+    "id": "tem8_c7_41",
+    "group_id": 182,
+    "group_name": "bereaved, bereft, mourning, grieving",
+    "level": "TEM-8",
+    "target_word": "bereft",
+    "question": "Following the sudden ouster of its charismatic visionary founder, the enterprise software company found itself entirely ___ of strategic direction amid aggressive antitrust scrutiny.",
+    "options": [
+      "bereaved",
+      "bereft",
+      "mourning",
+      "grieving"
+    ],
+    "answer": "bereft",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "语法介词绝对锚点：'found itself entirely ___ of strategic direction'；'bereft of sth'（完全丧失/缺乏……）为标准排他书面表达。",
+    "distractor_analysis": {
+      "bereft": "正确。固定语法搭配 'bereft of'（完全被剥夺……、彻底丧失/缺乏……），精准指企业在创始人离职后丧失了战略方向。",
+      "bereaved": "错误。专指“痛失亲人的”，不能用于形容公司失去战略方向（bereft of direction）。",
+      "mourning": "错误。作现在分词或名词指悼念丧亲，不能接 of 充当缺乏抽象指引的形容词短语。",
+      "grieving": "错误。指感到悲痛的，不与 of 搭配表示缺乏战略方向。"
+    },
+    "translation": "在其极具号召力的远见创始人突遭罢免后，这家企业级软件公司在面临严厉的反垄断审查之际，发现自己彻底丧失了战略方向。"
+  },
+  {
+    "id": "tem8_c7_42",
+    "group_id": 182,
+    "group_name": "bereaved, bereft, mourning, grieving",
+    "level": "TEM-8",
+    "target_word": "bereaved",
+    "question": "The arbitration tribunal ordered the chemical multinational to establish a dedicated restitution fund for the ___ families of workers killed in the refinery explosion.",
+    "options": [
+      "bereaved",
+      "bereft",
+      "mourning",
+      "grieving"
+    ],
+    "answer": "bereaved",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "工伤侵权与仲裁赔偿法定规范搭配：'the ___ families of workers killed'（遇难工人的丧亲家属/遇难者家属）。",
+    "distractor_analysis": {
+      "bereaved": "正确。法务与伤亡赔偿专有法定词汇 'bereaved families'，专指因事故或灾难而痛失至亲的遇难者家属。",
+      "bereft": "错误。常作表语接 of 表示缺乏（bereft of hope/ideas），不能作定语修饰遇难工人家属。",
+      "mourning": "错误。虽有 mourning family 说法，但指正在服丧期间的情态，而法律仲裁赔偿基金的受让法律主体规范称谓是 the bereaved families。",
+      "grieving": "错误。描述悲痛的主观心理情感，不是赔偿协议中指称遇难者直系遗属的标准律政措辞。"
+    },
+    "translation": "仲裁法庭责令该跨国化工企业设立一个专门的赔偿基金，用于救济在炼油厂爆炸中丧生工人的遇难者家属。"
+  },
+  {
+    "id": "tem8_c7_43",
+    "group_id": 183,
+    "group_name": "bipartisan, bipartizan, nonpartizan, nonpartisan",
+    "level": "TEM-8",
+    "target_word": "bipartisan",
+    "question": "Congressional leaders forged a rare ___ consensus to introduce comprehensive antitrust reform legislation aimed at curbing monopolistic acquisitions by dominant online platforms.",
+    "options": [
+      "bipartisan",
+      "bipartizan",
+      "nonpartizan",
+      "nonpartisan"
+    ],
+    "answer": "bipartisan",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "国会立法核心标准搭配：'forged a rare ___ consensus'（达成罕见的两党共识，共同推动反垄断立法）。",
+    "distractor_analysis": {
+      "bipartisan": "正确。政治与立法规范核心搭配 'a bipartisan consensus'（两党共识），指由敌对的两大政党携手合作推进反垄断法案。",
+      "bipartizan": "错误。非标准拼写形式，在现行专八与正规主流权威出版物中均以 -san 为正字法标准。",
+      "nonpartisan": "错误。指“无党派的、超然中立的”（如 nonpartisan watchdog），而国会两大政党共同协商投票达成的共识必须用 bipartisan。",
+      "nonpartizan": "错误。非主流拼写形式，且同样指非党派中立，不符合两党跨党派立法的特定语境。"
+    },
+    "translation": "国会领袖们罕见地达成了两党共识，提出了一项全面的反垄断改革立法，旨在遏制主导性在线平台的垄断性并购行为。"
+  },
+  {
+    "id": "tem8_c7_44",
+    "group_id": 183,
+    "group_name": "bipartisan, bipartizan, nonpartizan, nonpartisan",
+    "level": "TEM-8",
+    "target_word": "nonpartisan",
+    "question": "To ensure absolute credibility during the market manipulation inquiry, the board engaged a strictly ___ forensic ethics committee with no prior financial ties to management.",
+    "options": [
+      "bipartisan",
+      "bipartizan",
+      "nonpartizan",
+      "nonpartisan"
+    ],
+    "answer": "nonpartisan",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "修饰 'forensic ethics committee with no prior financial ties to management'；专指不受任何利益派系影响、完全独立客观中立：'strictly nonpartisan'。",
+    "distractor_analysis": {
+      "nonpartisan": "正确。专指“不偏不倚的、无党派偏见的、中立超然的”（a nonpartisan committee），契合独立调查机构免受管理层与各派系操纵的语境。",
+      "bipartisan": "错误。指包含两个政党利益妥协的（两党的），不修饰企业内部纯粹客观中立的独立法务调查委员会。",
+      "nonpartizan": "错误。为变体拼写，非专八与权威学术文本的标准现代拼写。",
+      "bipartizan": "错误。变体拼写且词义为两党派的，完全脱离公司内部调查的中立语境。"
+    },
+    "translation": "为确保市场操纵调查的绝对公信力，董事会聘请了一个与管理层没有任何既往财务往来的、严格保持客观中立的法务伦理委员会。"
+  },
+  {
+    "id": "tem8_c7_45",
+    "group_id": 184,
+    "group_name": "bizarre, outlandish, gonzo, outre",
+    "level": "TEM-8",
+    "target_word": "outlandish",
+    "question": "The target company's board adopted an ___ poison pill defense, granting golden parachutes so exorbitant that potential suitors immediately condemned the scheme as reckless corporate waste.",
+    "options": [
+      "bizarre",
+      "outlandish",
+      "gonzo",
+      "outre"
+    ],
+    "answer": "outlandish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰 'poison pill defense, granting golden parachutes so exorbitant that...'；商业治理外刊高阶词汇，专指过分荒诞离奇、离谱得超出常理的防御方案。",
+    "distractor_analysis": {
+      "outlandish": "正确。商业与公司治理深度评论高频词，形容策略或要求“荒诞不经的、离谱可笑的”（an outlandish defense/claim），精准呼应天价离谱的金色降落伞。",
+      "bizarre": "错误。意为奇异怪诞的，多用于外貌、自然现象或不可思议的偶发事件，用于修饰公司董事会制定的离谱防御方案时，学术外刊通常以 outlandish 凸显其荒唐无度。",
+      "gonzo": "错误。带有狂欢派、非主流主观新闻主义色彩的俚语（如 gonzo journalism），不能用于正式商业契约与公司法防御术语。",
+      "outre": "错误。外来文艺术语，指违背习俗礼仪的前卫怪诞，不适合修饰敌意收购防御机制。"
+    },
+    "translation": "目标公司董事会采纳了一项荒诞离谱的“毒丸”防御计划，授予了如此高额的金色降落伞，以至于潜在收购方随即谴责该方案为肆意挥霍公司资产。"
+  },
+  {
+    "id": "tem8_c7_46",
+    "group_id": 184,
+    "group_name": "bizarre, outlandish, gonzo, outre",
+    "level": "TEM-8",
+    "target_word": "bizarre",
+    "question": "Surveillance algorithms detected a ___ pattern of cross-border wash trades executed within microsecond intervals, creating the synthetic illusion of liquidity in an otherwise moribund penny stock.",
+    "options": [
+      "bizarre",
+      "outlandish",
+      "gonzo",
+      "outre"
+    ],
+    "answer": "bizarre",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "金融监管与市场侦测核心固定搭配：'detected a ___ pattern of cross-border wash trades'（侦测到极其反常诡异的交易形态）。",
+    "distractor_analysis": {
+      "bizarre": "正确。标准高频搭配 'a bizarre pattern'，金融监管与市场侦测中专门用来形容反常诡异、不可思议的交易异动形态。",
+      "outlandish": "错误。侧重荒谬可笑或异想天开的主张、装扮或行为举止，不修饰自动化微秒级高频量化交易的隐蔽诡异形态。",
+      "gonzo": "错误。俚语，指狂放不羁的怪诞，与严肃金融反操纵监管语境水火不容。",
+      "outre": "错误。主要形容艺术与风尚的奇特怪癖，不可用于算法交易数据异动侦测。"
+    },
+    "translation": "监控算法侦测到一种在微秒间隔内执行的诡异跨国对倒交易模式，在一只原本毫无生气的廉价仙股中营造出了虚假繁荣的流动性假象。"
+  }
+]
