@@ -6,5 +6,5 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "nuance_tem_d1"
-database_id = "local-d1-db"
+database_id = "1160e7cd-c8b8-4ec7-bcab-c0254051bfbb"
 migrations_dir = "d1/migrations"
