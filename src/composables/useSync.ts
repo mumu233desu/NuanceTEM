@@ -11,7 +11,7 @@ const lastSyncTime = ref<number | null>(
 const syncError = ref<string | null>(null);
 
 export function useSync() {
-  const { token, isAuthenticated } = useAuth();
+  const { token, isAuthenticated, logout } = useAuth();
 
   const syncNow = async () => {
     if (!isAuthenticated.value || !token.value) {
@@ -33,6 +33,11 @@ export function useSync() {
         headers: { Authorization: `Bearer ${token.value}` },
       });
 
+      if (pullRes.status === 401) {
+        logout();
+        throw new Error('登录凭证已失效，请重新登录');
+      }
+
       if (!pullRes.ok) {
         throw new Error('拉取云端数据失败');
       }
@@ -48,11 +53,11 @@ export function useSync() {
       const localToUpdate: Progress[] = [];
       const cloudToPush: Array<Progress & { updatedAt: number }> = [];
 
-      // A. 合并本地与云端已有的
+      // A. 合并本地与云端已有的（基于 updatedAt 进行双向时间戳仲裁）
       for (const cloudItem of cloudList) {
         const localItem = localMap.get(cloudItem.questionId);
         const cloudTime = cloudItem.updatedAt || cloudItem.lastAnswered || 0;
-        const localTime = localItem?.lastAnswered || 0;
+        const localTime = localItem?.updatedAt || localItem?.lastAnswered || 0;
 
         if (!localItem) {
           // 本地缺失，从云端恢复
@@ -64,9 +69,10 @@ export function useSync() {
             repetitions: cloudItem.repetitions,
             nextReview: cloudItem.nextReview,
             lastAnswered: cloudItem.lastAnswered,
+            updatedAt: cloudTime || Date.now(),
           });
         } else if (cloudTime > localTime && cloudItem.status !== 'new') {
-          // 云端更新，同步到本地
+          // 云端较新，更新到本地
           localToUpdate.push({
             questionId: cloudItem.questionId,
             status: cloudItem.status,
@@ -75,16 +81,17 @@ export function useSync() {
             repetitions: cloudItem.repetitions,
             nextReview: cloudItem.nextReview,
             lastAnswered: cloudItem.lastAnswered,
+            updatedAt: cloudTime,
           });
         }
       }
 
-      // B. 寻找本地较新或已答题的数据推送给云端
+      // B. 寻找本地较新或已答题/标记熟记的数据推送给云端
       for (const localItem of localList) {
-        if (localItem.status === 'new' && localItem.repetitions === 0) continue; // 未答过的不必强制推
+        if (localItem.status === 'new' && localItem.repetitions === 0) continue;
         const cloudItem = cloudMap.get(localItem.questionId);
         const cloudTime = cloudItem?.updatedAt || cloudItem?.lastAnswered || 0;
-        const localTime = localItem.lastAnswered || 0;
+        const localTime = localItem.updatedAt || localItem.lastAnswered || 0;
 
         if (!cloudItem || localTime > cloudTime) {
           cloudToPush.push({
@@ -109,6 +116,11 @@ export function useSync() {
           },
           body: JSON.stringify({ items: cloudToPush }),
         });
+
+        if (pushRes.status === 401) {
+          logout();
+          throw new Error('登录凭证已失效，请重新登录');
+        }
 
         if (!pushRes.ok) {
           throw new Error('向云端同步答题记录失败');

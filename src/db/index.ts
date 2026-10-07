@@ -41,6 +41,7 @@ export interface Progress {
   repetitions: number; // consecutive correct answers
   nextReview: number; // timestamp in ms
   lastAnswered: number; // timestamp in ms
+  updatedAt?: number; // timestamp in ms (for two-way sync)
 }
 
 export interface StudyLog {
@@ -79,33 +80,6 @@ class NuanceTEMDatabase extends Dexie {
 
 export const db = new NuanceTEMDatabase();
 
-// Initialize DB with JSON data if empty
-export async function initializeDatabase(questionsData: Question[]) {
-  const count = await db.questions.count();
-  if (count === 0) {
-    console.log('IndexedDB is empty. Seeding question database...');
-    await db.questions.bulkPut(questionsData);
-    
-    // Seed default progress entries
-    const progressEntries: Progress[] = questionsData.map(q => createDefaultProgress(q.id));
-    await db.progress.bulkPut(progressEntries);
-    console.log(`Database seeded with ${questionsData.length} questions.`);
-  } else {
-    // Sync all questions to ensure fixes/updates are applied to existing items
-    await db.questions.bulkPut(questionsData);
-    
-    // Only create progress entries for brand new questions
-    const existingProgress = await db.progress.toArray();
-    const existingIds = new Set(existingProgress.map(p => p.questionId));
-    const newQuestions = questionsData.filter(q => !existingIds.has(q.id));
-    if (newQuestions.length > 0) {
-      console.log(`Adding ${newQuestions.length} new progress entries to database.`);
-      const newProgressEntries: Progress[] = newQuestions.map(q => createDefaultProgress(q.id));
-      await db.progress.bulkPut(newProgressEntries);
-    }
-  }
-}
-
 export function createDefaultProgress(questionId: string): Progress {
   return {
     questionId,
@@ -115,6 +89,7 @@ export function createDefaultProgress(questionId: string): Progress {
     repetitions: 0,
     nextReview: 0,
     lastAnswered: 0,
+    updatedAt: Date.now(),
   };
 }
 
@@ -212,6 +187,7 @@ export async function recordAttempt(
     repetitions,
     nextReview,
     lastAnswered: timestamp,
+    updatedAt: timestamp,
   });
 }
 
@@ -225,6 +201,7 @@ export async function toggleMastered(questionId: string, isMastered: boolean) {
   progress.status = isMastered ? 'mastered' : 'learning';
   // If mastered, push next review far into future, or just rely on status filter
   progress.nextReview = isMastered ? Date.now() + 365 * 24 * 60 * 60 * 1000 : Date.now();
+  progress.updatedAt = Date.now();
   
   await db.progress.put(progress);
 }

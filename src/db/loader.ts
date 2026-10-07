@@ -1,4 +1,4 @@
-import { db, createDefaultProgress, type Question, type Progress } from './index';
+import { db, createDefaultProgress, type Question, type Progress, type StudyLog } from './index';
 
 interface PackageInfo {
   path: string;
@@ -15,6 +15,8 @@ interface Manifest {
   };
 }
 
+const MANIFEST_VERSION_KEY = 'nuancetem_manifest_version';
+
 export async function loadQuestionsFromManifest(): Promise<Question[]> {
   try {
     const baseUrl = import.meta.env.BASE_URL;
@@ -26,7 +28,15 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
     const manifest: Manifest = await manifestResp.json();
     const version = manifest.version || 'default';
 
-    // 2. 收集所有题包路径
+    // 2. 检查本地版本与已有数据，避免无脑全量重复下载
+    const cachedVersion = localStorage.getItem(MANIFEST_VERSION_KEY);
+    const existingCount = await db.questions.count();
+    if (cachedVersion === version && existingCount > 0) {
+      console.log(`[Loader] Manifest version (${version}) already loaded. Local DB has ${existingCount} items. Skipping re-download.`);
+      return await db.questions.toArray();
+    }
+
+    // 3. 收集所有题包路径
     const packagePaths: string[] = [];
     for (const scope of ['tem4', 'tem8'] as const) {
       const scopePackages = manifest.packages[scope];
@@ -39,7 +49,7 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
       }
     }
 
-    // 3. 并行拉取所有考点分包
+    // 4. 并行拉取所有考点分包
     const fetchPromises = packagePaths.map(pkgPath =>
       fetch(`${baseUrl}data/${pkgPath}?v=${version}`)
         .then(r => r.ok ? r.json() : [])
@@ -52,7 +62,7 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
     const results = await Promise.all(fetchPromises);
     const allQuestions: Question[] = results.flat();
 
-    // 4. 读取老 ID 映射字典，进行老数据无损平滑迁移
+    // 5. 读取老 ID 映射字典，进行老数据无损平滑迁移（同步清理旧题目与流水）
     try {
       const mappingResp = await fetch(`${baseUrl}data/id_mapping.json?v=${version}`);
       if (mappingResp.ok) {
@@ -63,10 +73,10 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
       console.warn('ID mapping migration skipped:', e);
     }
 
-    // 5. 弱解耦存入本地 IndexedDB
+    // 6. 弱解耦存入本地 IndexedDB
     await db.questions.bulkPut(allQuestions);
 
-    // 6. 仅为缺失进度的题目补充初始进度
+    // 7. 仅为缺失进度的题目补充初始进度
     const existingProgress = await db.progress.toArray();
     const existingIds = new Set(existingProgress.map(p => p.questionId));
     const newQuestions = allQuestions.filter(q => !existingIds.has(q.id));
@@ -76,45 +86,76 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
       console.log(`Initialized progress for ${newEntries.length} new questions.`);
     }
 
-    console.log(`Successfully loaded ${allQuestions.length} questions from ${packagePaths.length} packages.`);
+    // 记录成功加载的版本号
+    localStorage.setItem(MANIFEST_VERSION_KEY, version);
+    console.log(`Successfully loaded ${allQuestions.length} questions from ${packagePaths.length} packages (v: ${version}).`);
     return allQuestions;
   } catch (error) {
-    console.error('Failed to load questions via manifest, falling back to legacy fallback:', error);
-    // 兜底回退
-    const fallbackResp = await fetch(`${import.meta.env.BASE_URL}data/questions.json`);
-    if (fallbackResp.ok) {
-      const fallbackData = await fallbackResp.json();
-      await db.questions.bulkPut(fallbackData);
-      return fallbackData;
+    console.error('Failed to load questions via manifest:', error);
+    // 离线/故障兜底：优先复用本地已存题目，避免拉取旧版未分类数据污染
+    const fallbackCount = await db.questions.count();
+    if (fallbackCount > 0) {
+      console.log(`[Loader Fallback] Utilizing ${fallbackCount} cached questions from IndexedDB.`);
+      return await db.questions.toArray();
     }
     return [];
   }
 }
 
-// 老用户进度无损迁移
+// 老用户数据无损迁移（包含 progress 表、questions 表清理与 logs 表迁移）
 async function migrateLegacyProgress(idMapping: Record<string, string>) {
+  const legacyIds = Object.keys(idMapping);
+  if (legacyIds.length === 0) return;
+
+  // 1. 迁移进度表 (progress)
   const allProgress = await db.progress.toArray();
-  const toUpdate: Progress[] = [];
-  const toDeleteKeys: string[] = [];
+  const progressToUpdate: Progress[] = [];
+  const progressToDeleteKeys: string[] = [];
 
   for (const prog of allProgress) {
     const newId = idMapping[prog.questionId];
     if (newId && newId !== prog.questionId) {
-      // 迁移为新自解释 ID
-      toUpdate.push({
+      progressToUpdate.push({
         ...prog,
         questionId: newId,
+        updatedAt: prog.updatedAt || Date.now(),
       });
-      toDeleteKeys.push(prog.questionId);
+      progressToDeleteKeys.push(prog.questionId);
     }
   }
 
-  if (toUpdate.length > 0) {
-    console.log(`Migrating ${toUpdate.length} legacy progress records to new namespaced IDs...`);
-    await db.transaction('rw', db.progress, async () => {
-      await db.progress.bulkDelete(toDeleteKeys);
-      await db.progress.bulkPut(toUpdate);
+  // 2. 清理旧题目表幽灵数据 (questions)
+  const legacyQuestionCount = await db.questions.where('id').anyOf(legacyIds).count();
+
+  // 3. 迁移流水表 (logs)
+  const allLogs = await db.logs.toArray();
+  const logsToUpdate: StudyLog[] = [];
+  for (const log of allLogs) {
+    const newId = idMapping[log.questionId];
+    if (newId && newId !== log.questionId) {
+      logsToUpdate.push({
+        ...log,
+        questionId: newId,
+      });
+    }
+  }
+
+  if (progressToUpdate.length > 0 || legacyQuestionCount > 0 || logsToUpdate.length > 0) {
+    console.log(`[Migration] Migrating ${progressToUpdate.length} progress records, deleting ${legacyQuestionCount} legacy questions, and updating ${logsToUpdate.length} study logs...`);
+    await db.transaction('rw', [db.progress, db.questions, db.logs], async () => {
+      if (progressToDeleteKeys.length > 0) {
+        await db.progress.bulkDelete(progressToDeleteKeys);
+      }
+      if (progressToUpdate.length > 0) {
+        await db.progress.bulkPut(progressToUpdate);
+      }
+      if (legacyIds.length > 0) {
+        await db.questions.bulkDelete(legacyIds);
+      }
+      if (logsToUpdate.length > 0) {
+        await db.logs.bulkPut(logsToUpdate);
+      }
     });
-    console.log('Legacy progress migration finished.');
+    console.log('[Migration] Legacy migration finished cleanly.');
   }
 }

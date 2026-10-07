@@ -23,6 +23,8 @@ const changeLevel = (lvl: LevelScope) => {
   setScope(lvl);
 };
 
+const relearningIds = ref<Set<string>>(new Set());
+
 const loadForecast = async () => {
   const now = Date.now();
   const oneDay = 24 * 60 * 60 * 1000;
@@ -35,8 +37,7 @@ const loadForecast = async () => {
     .toArray();
 
   if (currentScope.value !== 'ALL') {
-    const levelQuestions = await db.questions.where('level').equals(currentScope.value).toArray();
-    const levelIds = new Set(levelQuestions.map(q => q.id));
+    const levelIds = new Set(await db.questions.where('level').equals(currentScope.value).primaryKeys());
     learningProgress = learningProgress.filter(p => levelIds.has(p.questionId));
   }
     
@@ -58,6 +59,7 @@ const loadForecast = async () => {
 
 const loadDueQuestions = async () => {
   isLoading.value = true;
+  relearningIds.value = new Set();
   const now = Date.now();
   
   // Find progress entries that are due
@@ -67,10 +69,8 @@ const loadDueQuestions = async () => {
     .filter(p => p.nextReview <= now)
     .toArray();
 
-  const allQuestions = await db.questions.toArray();
-
   if (currentScope.value !== 'ALL') {
-    const levelIds = new Set(allQuestions.filter(q => q.level === currentScope.value).map(q => q.id));
+    const levelIds = new Set(await db.questions.where('level').equals(currentScope.value).primaryKeys());
     dueProgress = dueProgress.filter(p => levelIds.has(p.questionId));
   }
 
@@ -82,19 +82,16 @@ const loadDueQuestions = async () => {
     return;
   }
 
-  // Map progress entries to questions
-  const dueIds = new Set(dueProgress.map(p => p.questionId));
-  
-  // Keep the order defined by nextReview ascending (older reviews first)
+  // 仅读取到期题目的详情，避免全表扫描
+  const dueIds = dueProgress.map(p => p.questionId);
+  const questions = await db.questions.where('id').anyOf(dueIds).toArray();
   const idToProgressMap = new Map(dueProgress.map(p => [p.questionId, p]));
   
-  dueQuestions.value = allQuestions
-    .filter(q => dueIds.has(q.id))
-    .sort((a, b) => {
-      const nextA = idToProgressMap.get(a.id)?.nextReview ?? 0;
-      const nextB = idToProgressMap.get(b.id)?.nextReview ?? 0;
-      return nextA - nextB;
-    });
+  dueQuestions.value = questions.sort((a, b) => {
+    const nextA = idToProgressMap.get(a.id)?.nextReview ?? 0;
+    const nextB = idToProgressMap.get(b.id)?.nextReview ?? 0;
+    return nextA - nextB;
+  });
 
   currentIndex.value = 0;
   setCurrentQuestion();
@@ -150,19 +147,32 @@ const handleToggleMaster = async () => {
 
 const handleRateDifficulty = async (quality: number) => {
   if (!currentQuestion.value) return;
-  
-  // Update progress using SM-2
-  await recordAttempt(
-    currentQuestion.value.id,
-    userChoice.value,
-    isCorrect.value,
-    quality
-  );
+  const qId = currentQuestion.value.id;
 
-  // If answer was wrong (quality == 0), move it to the end of the current session queue to re-test
-  if (quality < 3) {
-    const wrongQuestion = dueQuestions.value[currentIndex.value];
-    dueQuestions.value.push(wrongQuestion);
+  if (relearningIds.value.has(qId)) {
+    // 当轮错题重测：用户在同次会话中重新练习
+    // 不二次推进 SM-2 算法，避免提前递增重复次数与跳过间隔冷静期
+    if (quality < 3) {
+      const wrongQuestion = dueQuestions.value[currentIndex.value];
+      dueQuestions.value.push(wrongQuestion);
+    } else {
+      relearningIds.value.delete(qId);
+    }
+  } else {
+    // 首次当轮测评：按标准 SM-2 算法记录结果
+    await recordAttempt(
+      qId,
+      userChoice.value,
+      isCorrect.value,
+      quality
+    );
+
+    // 若答错，放入队尾重练，并标记为 relearning
+    if (quality < 3) {
+      relearningIds.value.add(qId);
+      const wrongQuestion = dueQuestions.value[currentIndex.value];
+      dueQuestions.value.push(wrongQuestion);
+    }
   }
 
   currentIndex.value++;

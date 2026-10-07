@@ -29,16 +29,41 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     }
 
     const body = await context.request.json() as { items?: SyncItem[] };
-    const items = body.items || [];
+    const rawItems = body.items || [];
 
-    if (items.length === 0) {
+    if (!Array.isArray(rawItems)) {
+      return Response.json({ error: '数据格式错误' }, { status: 400 });
+    }
+
+    // 防止超大数据批次导致 Worker CPU 超时
+    const MAX_ITEMS = 500;
+    if (rawItems.length > MAX_ITEMS) {
+      return Response.json({ error: `单次同步不能超过 ${MAX_ITEMS} 条数据` }, { status: 400 });
+    }
+
+    // 数据有效性校验与清洗
+    const validItems = rawItems.filter(item => {
+      return (
+        typeof item.questionId === 'string' &&
+        item.questionId.length > 0 &&
+        item.questionId.length < 100 &&
+        ['new', 'learning', 'mastered'].includes(item.status) &&
+        Number.isFinite(item.interval) &&
+        Number.isFinite(item.ease) &&
+        Number.isFinite(item.repetitions) &&
+        Number.isFinite(item.nextReview) &&
+        Number.isFinite(item.lastAnswered)
+      );
+    });
+
+    if (validItems.length === 0) {
       return Response.json({ success: true, updatedCount: 0 });
     }
 
     const now = Date.now();
     // 使用 D1 batch 执行批量 Upsert
-    const statements = items.map(item => {
-      const updatedAt = item.updatedAt || item.lastAnswered || now;
+    const statements = validItems.map(item => {
+      const updatedAt = Number.isFinite(item.updatedAt) ? item.updatedAt! : item.lastAnswered || now;
       return context.env.DB.prepare(`
         INSERT INTO user_progress (
           user_id, question_id, status, interval, ease, repetitions, next_review, last_answered, updated_at
@@ -65,7 +90,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       );
     });
 
-    // D1 一次性最多批处理 100 条
+    // D1 一次性最多批处理 50 条
     const CHUNK_SIZE = 50;
     for (let i = 0; i < statements.length; i += CHUNK_SIZE) {
       const chunk = statements.slice(i, i + CHUNK_SIZE);
@@ -74,7 +99,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
 
     return Response.json({
       success: true,
-      updatedCount: items.length,
+      updatedCount: validItems.length,
       serverTime: now,
     });
   } catch (error: any) {

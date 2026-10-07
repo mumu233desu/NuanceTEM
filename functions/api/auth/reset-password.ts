@@ -6,6 +6,11 @@ interface Env {
   APP_URL?: string;
 }
 
+async function hashToken(token: string): Promise<string> {
+  const buffer = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(token));
+  return Array.from(new Uint8Array(buffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
 export const onRequestPost: PagesFunction<Env> = async (context) => {
   try {
     const body = await context.request.json() as {
@@ -26,61 +31,64 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
         .bind(email)
         .first<{ id: string; email: string }>();
 
-      if (!user) {
-        // 安全考量：不透露用户是否存在
-        return Response.json({ success: true, message: '如果该邮箱已注册，重置密码指令已发送。' });
-      }
+      if (user) {
+        // 先作废该用户以往所有未使用的有效 Token
+        await context.env.DB.prepare(
+          'UPDATE password_reset_tokens SET used = 1 WHERE user_id = ? AND used = 0'
+        ).bind(user.id).run();
 
-      // 生成安全的重置 Token
-      const token = crypto.randomUUID();
-      const expiresAt = Date.now() + 1000 * 60 * 60; // 1小时有效
-      const tokenId = crypto.randomUUID();
+        // 生成安全的重置 Token
+        const rawToken = crypto.randomUUID();
+        const tokenHash = await hashToken(rawToken);
+        const expiresAt = Date.now() + 1000 * 60 * 60; // 1小时有效
+        const tokenId = crypto.randomUUID();
 
-      await context.env.DB.prepare(
-        'INSERT INTO password_reset_tokens (id, user_id, token_hash, expires_at, created_at) VALUES (?, ?, ?, ?, ?)'
-      ).bind(tokenId, user.id, token, expiresAt, Date.now()).run();
+        // 仅将 Token 的 SHA-256 哈希值写入数据库
+        await context.env.DB.prepare(
+          'INSERT INTO password_reset_tokens (id, user_id, token_hash, expires_at, created_at) VALUES (?, ?, ?, ?, ?)'
+        ).bind(tokenId, user.id, tokenHash, expiresAt, Date.now()).run();
 
-      const appUrl = context.env.APP_URL || new URL(context.request.url).origin;
-      const resetLink = `${appUrl}/#reset-password?token=${token}`;
+        const appUrl = context.env.APP_URL || new URL(context.request.url).origin;
+        const resetLink = `${appUrl}/#reset-password?token=${rawToken}`;
 
-      // 如果配置了 Resend，发送真实邮件
-      let emailSent = false;
-      if (context.env.RESEND_API_KEY) {
-        try {
-          const resendResp = await fetch('https://api.resend.com/emails', {
-            method: 'POST',
-            headers: {
-              'Authorization': `Bearer ${context.env.RESEND_API_KEY}`,
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-              from: 'NuanceTEM <auth@resend.dev>',
-              to: [email],
-              subject: '【NuanceTEM】重置您的账户密码',
-              html: `
-                <div style="font-family: sans-serif; max-width: 500px; margin: 0 auto; padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px;">
-                  <h2 style="color: #4f46e5;">NuanceTEM 账户密码重置</h2>
-                  <p>您好！我们收到了重置您账户密码的请求。请在 1 小时内点击下方按钮设置新密码：</p>
-                  <p style="margin: 25px 0;">
-                    <a href="${resetLink}" style="background: #4f46e5; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">重置密码</a>
-                  </p>
-                  <p style="color: #64748b; font-size: 13px;">如果按钮无法点击，请复制以下链接到浏览器访问：<br/>${resetLink}</p>
-                  <p style="color: #94a3b8; font-size: 12px; margin-top: 30px;">如非您本人操作，请忽略此邮件，您的账户依然安全。</p>
-                </div>
-              `,
-            }),
-          });
-          emailSent = resendResp.ok;
-        } catch (e) {
-          console.error('Failed to send email via Resend:', e);
+        if (context.env.RESEND_API_KEY) {
+          try {
+            await fetch('https://api.resend.com/emails', {
+              method: 'POST',
+              headers: {
+                'Authorization': `Bearer ${context.env.RESEND_API_KEY}`,
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({
+                from: 'NuanceTEM <auth@resend.dev>',
+                to: [email],
+                subject: '【豆英语 · NuanceTEM】重置您的账户密码',
+                html: `
+                  <div style="font-family: sans-serif; max-width: 500px; margin: 0 auto; padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px;">
+                    <h2 style="color: #4f46e5;">豆英语 · NuanceTEM 账户密码重置</h2>
+                    <p>您好！我们收到了重置您账户密码的请求。请在 1 小时内点击下方按钮设置新密码：</p>
+                    <p style="margin: 25px 0;">
+                      <a href="${resetLink}" style="background: #4f46e5; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 6px; font-weight: bold;">重置密码</a>
+                    </p>
+                    <p style="color: #64748b; font-size: 13px;">如果按钮无法点击，请复制以下链接到浏览器访问：<br/>${resetLink}</p>
+                    <p style="color: #94a3b8; font-size: 12px; margin-top: 30px;">如非您本人操作，请忽略此邮件，您的账户依然安全。</p>
+                  </div>
+                `,
+              }),
+            });
+          } catch (e) {
+            console.error('Failed to send email via Resend:', e);
+          }
+        } else {
+          // 本地无发信配置时仅在服务端安全日志打印，严禁通过 HTTP 响应输出
+          console.warn(`[DEV Reset Link for ${email}]: ${resetLink}`);
         }
       }
 
+      // 无论用户是否存在，均返回完全一致的信息，阻断邮箱探测
       return Response.json({
         success: true,
         message: '如果该邮箱已注册，重置密码指令已发送。',
-        // 开发调试辅助 (无真实发信环境时提供便捷链接)
-        debugResetLink: !context.env.RESEND_API_KEY ? resetLink : undefined,
       });
     }
 
@@ -91,9 +99,10 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
         return Response.json({ error: '无效请求或新密码长度不足 6 位' }, { status: 400 });
       }
 
+      const tokenHash = await hashToken(token);
       const resetRecord = await context.env.DB.prepare(
         'SELECT id, user_id, expires_at, used FROM password_reset_tokens WHERE token_hash = ?'
-      ).bind(token).first<{ id: string; user_id: string; expires_at: number; used: number }>();
+      ).bind(tokenHash).first<{ id: string; user_id: string; expires_at: number; used: number }>();
 
       if (!resetRecord || resetRecord.used === 1 || Date.now() > resetRecord.expires_at) {
         return Response.json({ error: '重置链接无效或已过期，请重新申请' }, { status: 400 });

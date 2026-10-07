@@ -15,24 +15,15 @@ const { currentScope, setScope } = useScope();
 const list = ref<QuestionWithProgress[]>([]);
 const searchQuery = ref('');
 const statusFilter = ref<string>('all');
-const levelFilter = ref<string>(currentScope.value === 'ALL' ? 'all' : currentScope.value);
 const mechanismFilter = ref<string>('all');
 const fieldFilter = ref<string>('all');
 const expandedQuestionId = ref<string | null>(null);
 
-watch(levelFilter, (newVal) => {
-  if (newVal === 'all') {
-    setScope('ALL');
-  } else if (newVal === 'TEM-4' || newVal === 'TEM-8') {
-    setScope(newVal as LevelScope);
-  }
-});
-
-watch(currentScope, (newScope) => {
-  const target = newScope === 'ALL' ? 'all' : newScope;
-  if (levelFilter.value !== target) {
-    levelFilter.value = target;
-  }
+const levelFilter = computed<string>({
+  get: () => (currentScope.value === 'ALL' ? 'all' : currentScope.value),
+  set: (val: string) => {
+    setScope(val === 'all' ? 'ALL' : (val as LevelScope));
+  },
 });
 
 const loadData = async () => {
@@ -56,13 +47,16 @@ const loadData = async () => {
 const handleToggleMaster = async (item: QuestionWithProgress) => {
   const nextVal = item.status !== 'mastered';
   await toggleMastered(item.id, nextVal);
-  await loadData();
+  item.status = nextVal ? 'mastered' : 'learning';
 };
 
 const handleResetProgress = async (item: QuestionWithProgress) => {
   if (confirm(`确定要重置“${item.target_word}”的记忆曲线进度吗？`)) {
     await db.progress.put(createDefaultProgress(item.id));
-    await loadData();
+    item.status = 'new';
+    item.ease = 2.5;
+    item.interval = 0;
+    item.repetitions = 0;
   }
 };
 

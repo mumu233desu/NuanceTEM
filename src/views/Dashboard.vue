@@ -22,53 +22,50 @@ const loadStats = async () => {
   const now = Date.now();
   const startOfToday = new Date().setHours(0, 0, 0, 0);
 
+  let levelQuestionIds: Set<string> | null = null;
   if (currentScope.value === 'ALL') {
     totalQuestions.value = await db.questions.count();
-    masteredCount.value = await db.progress.where('status').equals('mastered').count();
-    learningCount.value = await db.progress.where('status').equals('learning').count();
-    newCount.value = await db.progress.where('status').equals('new').count();
-    dueCount.value = await db.progress
-      .where('status')
-      .equals('learning')
-      .filter(p => p.nextReview <= now)
-      .count();
+  } else {
+    const keys = await db.questions.where('level').equals(currentScope.value).primaryKeys();
+    levelQuestionIds = new Set(keys as string[]);
+    totalQuestions.value = keys.length;
+  }
+
+  // 单次遍历聚合统计所有状态指标，极大降低游标开销
+  let mastered = 0;
+  let learning = 0;
+  let fresh = 0;
+  let due = 0;
+
+  const allProgress = await db.progress.toArray();
+  for (const p of allProgress) {
+    if (levelQuestionIds && !levelQuestionIds.has(p.questionId)) continue;
+    if (p.status === 'mastered') {
+      mastered++;
+    } else if (p.status === 'learning') {
+      learning++;
+      if (p.nextReview <= now) due++;
+    } else {
+      fresh++;
+    }
+  }
+
+  masteredCount.value = mastered;
+  learningCount.value = learning;
+  newCount.value = fresh;
+  dueCount.value = due;
+
+  // 统计今日完成打卡流水
+  if (levelQuestionIds) {
     completedToday.value = await db.logs
       .where('timestamp')
       .aboveOrEqual(startOfToday)
+      .filter(l => levelQuestionIds!.has(l.questionId))
       .count();
   } else {
-    const levelQuestions = await db.questions.where('level').equals(currentScope.value).toArray();
-    const levelQuestionIds = new Set(levelQuestions.map(q => q.id));
-    totalQuestions.value = levelQuestions.length;
-
-    masteredCount.value = await db.progress
-      .where('status')
-      .equals('mastered')
-      .filter(p => levelQuestionIds.has(p.questionId))
-      .count();
-
-    learningCount.value = await db.progress
-      .where('status')
-      .equals('learning')
-      .filter(p => levelQuestionIds.has(p.questionId))
-      .count();
-
-    newCount.value = await db.progress
-      .where('status')
-      .equals('new')
-      .filter(p => levelQuestionIds.has(p.questionId))
-      .count();
-
-    dueCount.value = await db.progress
-      .where('status')
-      .equals('learning')
-      .filter(p => p.nextReview <= now && levelQuestionIds.has(p.questionId))
-      .count();
-
     completedToday.value = await db.logs
       .where('timestamp')
       .aboveOrEqual(startOfToday)
-      .filter(l => levelQuestionIds.has(l.questionId))
       .count();
   }
 };

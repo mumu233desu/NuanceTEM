@@ -17,10 +17,15 @@ const showExplanation = ref(false);
 const recentQuestionIds = ref<string[]>([]);
 const currentMechFilter = ref<string>(localStorage.getItem('nuancetem_quiz_mech') || 'ALL');
 
+const isCategoryEmpty = ref(false);
+
 const changeLevel = (lvl: LevelScope) => {
-  setScope(lvl);
-  recentQuestionIds.value = [];
-  loadNextQuestion();
+  if (currentScope.value === lvl) {
+    recentQuestionIds.value = [];
+    loadNextQuestion();
+  } else {
+    setScope(lvl); // 触发 watch(currentScope)
+  }
 };
 
 watch(currentScope, () => {
@@ -42,19 +47,40 @@ const loadNextQuestion = async () => {
   isCorrect.value = false;
   showExplanation.value = false;
 
-  // Find all questions that are not mastered
+  // 1. 获取已熟记题目集合
   const masteredIds = new Set(
     (await db.progress.where('status').equals('mastered').toArray()).map(p => p.questionId)
   );
 
-  let allQuestions = await db.questions.toArray();
-  if (currentScope.value !== 'ALL') {
-    allQuestions = allQuestions.filter(q => q.level === currentScope.value);
+  // 2. 利用 Dexie 索引定位题目，避免全表扫描
+  let availableQuestions: Question[] = [];
+  let totalInCategory = 0;
+
+  if (currentScope.value !== 'ALL' && currentMechFilter.value !== 'ALL') {
+    const questions = await db.questions
+      .where('level').equals(currentScope.value)
+      .filter(q => q.mechanism === currentMechFilter.value)
+      .toArray();
+    totalInCategory = questions.length;
+    availableQuestions = questions.filter(q => !masteredIds.has(q.id));
+  } else if (currentScope.value !== 'ALL') {
+    const questions = await db.questions
+      .where('level').equals(currentScope.value)
+      .toArray();
+    totalInCategory = questions.length;
+    availableQuestions = questions.filter(q => !masteredIds.has(q.id));
+  } else if (currentMechFilter.value !== 'ALL') {
+    const questions = await db.questions
+      .where('mechanism').equals(currentMechFilter.value)
+      .toArray();
+    totalInCategory = questions.length;
+    availableQuestions = questions.filter(q => !masteredIds.has(q.id));
+  } else {
+    totalInCategory = await db.questions.count();
+    availableQuestions = await db.questions.filter(q => !masteredIds.has(q.id)).toArray();
   }
-  if (currentMechFilter.value !== 'ALL') {
-    allQuestions = allQuestions.filter(q => q.mechanism === currentMechFilter.value);
-  }
-  const availableQuestions = allQuestions.filter(q => !masteredIds.has(q.id));
+
+  isCategoryEmpty.value = totalInCategory === 0;
 
   if (availableQuestions.length === 0) {
     currentQuestion.value = null;
@@ -195,9 +221,16 @@ onMounted(loadNextQuestion);
     </div>
 
     <div v-else class="empty-state glass-card">
-      <div class="icon">🏆</div>
-      <h3>太棒了！所有的题目都已被您彻底熟记</h3>
-      <p>您可以前往“设置”导入新题库，或在“词库浏览器”中重置部分熟记词汇的进度。</p>
+      <template v-if="isCategoryEmpty">
+        <div class="icon">📂</div>
+        <h3>当前考点暂未收录题目</h3>
+        <p>该分类题库正在整理扩充中，您可以切换其他考点或学段继续挑战！</p>
+      </template>
+      <template v-else>
+        <div class="icon">🏆</div>
+        <h3>太棒了！该分类下题目均已熟记</h3>
+        <p>您可以前往“智能复习”巩固记忆，或在“词库浏览器”中重置部分熟记词汇的进度。</p>
+      </template>
     </div>
   </div>
 </template>
