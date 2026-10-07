@@ -22,7 +22,7 @@ export const BRAND = {
   textMuted: '#64748b',
   textLight: '#94a3b8',
   borderColor: '#e2e8f0',
-  defaultFrom: 'NuanceTEM <onboarding@resend.dev>',
+  defaultFrom: 'NuanceTEM <auth@nuancetem.mumu233.top>',
   defaultSiteUrl: 'https://nuancetem.mumu233.top',
 };
 
