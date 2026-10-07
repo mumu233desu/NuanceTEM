@@ -1,4 +1,5 @@
 import { hashPassword } from './_utils';
+import { renderPasswordResetEmail, sendEmailViaResend, BRAND } from '../_email';
 
 interface Env {
   DB: D1Database;
@@ -53,41 +54,21 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
         const resetLink = `${appUrl}/#reset-password?token=${rawToken}`;
 
         if (context.env.RESEND_API_KEY) {
-          try {
-            const fromEmail = context.env.RESEND_FROM || 'NuanceTEM <onboarding@resend.dev>';
-            const resendResp = await fetch('https://api.resend.com/emails', {
-              method: 'POST',
-              headers: {
-                'Authorization': `Bearer ${context.env.RESEND_API_KEY}`,
-                'Content-Type': 'application/json',
-              },
-              body: JSON.stringify({
-                from: fromEmail,
-                to: [email],
-                subject: '【豆英语 · NuanceTEM】重置您的账户密码',
-                html: `
-                  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 520px; margin: 0 auto; padding: 30px 20px; border: 1px solid #e2e8f0; border-radius: 12px; background: #ffffff;">
-                    <div style="margin-bottom: 20px;">
-                      <h2 style="color: #0f766e; margin: 0; font-size: 20px;">豆英语 · NuanceTEM</h2>
-                    </div>
-                    <p style="color: #1e293b; font-size: 15px; line-height: 1.6;">您好！我们收到了重置您账户密码的申请。请在 1 小时内点击下方按钮设置新密码：</p>
-                    <div style="margin: 28px 0; text-align: center;">
-                      <a href="${resetLink}" style="background: #0f766e; color: #ffffff; padding: 12px 28px; text-decoration: none; border-radius: 8px; font-weight: 600; font-size: 15px; display: inline-block;">设置新密码</a>
-                    </div>
-                    <p style="color: #64748b; font-size: 13px; line-height: 1.5; word-break: break-all;">如果按钮无法点击，请复制以下链接至浏览器访问：<br/><a href="${resetLink}" style="color: #0f766e;">${resetLink}</a></p>
-                    <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 25px 0;" />
-                    <p style="color: #94a3b8; font-size: 12px; margin: 0;">如非您本人申请，请忽略此邮件，您的账户依然安全。</p>
-                  </div>
-                `,
-              }),
-            });
-            if (!resendResp.ok) {
-              const errBody = await resendResp.text();
-              console.error('[Resend Error]:', resendResp.status, errBody);
-            }
-          } catch (e) {
-            console.error('Failed to send email via Resend:', e);
-          }
+          const emailData = renderPasswordResetEmail({
+            userEmail: email,
+            resetLink,
+            expiresInMinutes: 60,
+            siteUrl: appUrl,
+          });
+
+          await sendEmailViaResend({
+            apiKey: context.env.RESEND_API_KEY,
+            from: context.env.RESEND_FROM || BRAND.defaultFrom,
+            to: email,
+            subject: emailData.subject,
+            html: emailData.html,
+            text: emailData.text,
+          });
         } else {
           // 本地无发信配置时仅在服务端安全日志打印，严禁通过 HTTP 响应输出
           console.warn(`[DEV Reset Link for ${email}]: ${resetLink}`);
