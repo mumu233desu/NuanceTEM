@@ -16,9 +16,38 @@ const { status: syncStatus, syncNow } = useSync();
 const { currentScope } = useScope();
 
 const isAuthModalOpen = ref(false);
+const authModalMode = ref<'login' | 'register' | 'forgot' | 'reset'>('login');
+const authResetToken = ref('');
 const currentView = ref('dashboard');
 const isDbInitializing = ref(true);
 const isDarkMode = ref(false);
+
+const openAuthModal = (mode: 'login' | 'register' = 'login') => {
+  authModalMode.value = mode;
+  authResetToken.value = '';
+  isAuthModalOpen.value = true;
+};
+
+const checkResetPasswordHash = () => {
+  const hash = window.location.hash;
+  const url = new URL(window.location.href);
+  let token = url.searchParams.get('token');
+
+  if (hash.startsWith('#reset-password') || hash.includes('reset-password')) {
+    if (!token && hash.includes('token=')) {
+      const qIndex = hash.indexOf('?');
+      if (qIndex !== -1) {
+        const params = new URLSearchParams(hash.slice(qIndex + 1));
+        token = params.get('token');
+      }
+    }
+    if (token) {
+      authResetToken.value = token;
+      authModalMode.value = 'reset';
+      isAuthModalOpen.value = true;
+    }
+  }
+};
 
 const applyTheme = (isDark: boolean) => {
   isDarkMode.value = isDark;
@@ -52,6 +81,8 @@ const toggleTheme = () => {
 
 const initApp = async () => {
   checkTheme();
+  checkResetPasswordHash();
+  window.addEventListener('hashchange', checkResetPasswordHash);
 
   const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
   const handleSystemThemeChange = (e: MediaQueryListEvent) => {
@@ -160,7 +191,7 @@ onMounted(initApp);
           </div>
         </div>
         <div v-else class="login-prompt">
-          <button @click="isAuthModalOpen = true" class="login-btn">
+          <button @click="openAuthModal('login')" class="login-btn">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
             <span>登录云端同步</span>
           </button>
@@ -245,12 +276,17 @@ onMounted(initApp);
         <QuizView v-if="currentView === 'quiz'" />
         <ReviewView v-if="currentView === 'review'" />
         <DatabaseView v-if="currentView === 'database'" />
-        <SettingsView v-if="currentView === 'settings'" @open-auth="isAuthModalOpen = true" />
+        <SettingsView v-if="currentView === 'settings'" @open-auth="openAuthModal('login')" />
       </template>
     </main>
 
     <!-- Cloud Auth Modal -->
-    <AuthModal :isOpen="isAuthModalOpen" @close="isAuthModalOpen = false" />
+    <AuthModal
+      :isOpen="isAuthModalOpen"
+      :initialMode="authModalMode"
+      :initialToken="authResetToken"
+      @close="isAuthModalOpen = false"
+    />
   </div>
 </template>
 

@@ -1,25 +1,33 @@
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
 import { useAuth } from '../composables/useAuth';
 import { useSync } from '../composables/useSync';
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   isOpen: boolean;
-}>();
+  initialMode?: 'login' | 'register' | 'forgot' | 'reset';
+  initialToken?: string;
+}>(), {
+  initialMode: 'login',
+  initialToken: '',
+});
 
 const emit = defineEmits<{
   (e: 'close'): void;
   (e: 'authenticated'): void;
 }>();
 
-const { login, register, requestPasswordReset, sendVerificationCode } = useAuth();
+const { login, register, requestPasswordReset, confirmPasswordReset, sendVerificationCode } = useAuth();
 const { syncNow } = useSync();
 
-type Mode = 'login' | 'register' | 'forgot';
-const mode = ref<Mode>('login');
+type Mode = 'login' | 'register' | 'forgot' | 'reset';
+const mode = ref<Mode>(props.initialMode || 'login');
 
 const email = ref('');
 const password = ref('');
+const newPassword = ref('');
+const confirmPassword = ref('');
+const resetToken = ref(props.initialToken || '');
 const nickname = ref('');
 const verificationCode = ref('');
 const isSendingCode = ref(false);
@@ -34,11 +42,36 @@ const resetForm = () => {
   errorMsg.value = '';
   successMsg.value = '';
   verificationCode.value = '';
+  newPassword.value = '';
+  confirmPassword.value = '';
 };
 
 const switchMode = (newMode: Mode) => {
   mode.value = newMode;
   resetForm();
+};
+
+watch(() => props.initialMode, (newVal) => {
+  if (newVal) mode.value = newVal;
+});
+
+watch(() => props.initialToken, (newVal) => {
+  if (newVal !== undefined) resetToken.value = newVal;
+});
+
+watch(() => props.isOpen, (newVal) => {
+  if (newVal) {
+    if (props.initialMode) mode.value = props.initialMode;
+    if (props.initialToken) resetToken.value = props.initialToken;
+    resetForm();
+  }
+});
+
+const handleClose = () => {
+  if (window.location.hash.includes('reset-password')) {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+  }
+  emit('close');
 };
 
 const handleSendCode = async () => {
@@ -95,6 +128,32 @@ const handleSubmit = async () => {
     } else if (mode.value === 'forgot') {
       const res = await requestPasswordReset(email.value);
       successMsg.value = res.message || '重置指令已发送至您的邮箱，请查收！';
+    } else if (mode.value === 'reset') {
+      if (!resetToken.value) {
+        errorMsg.value = '缺少重置令牌或链接不完整，请重新申请找回密码';
+        isLoading.value = false;
+        return;
+      }
+      if (!newPassword.value || newPassword.value.length < 6) {
+        errorMsg.value = '新密码长度至少需要 6 位字符';
+        isLoading.value = false;
+        return;
+      }
+      if (newPassword.value !== confirmPassword.value) {
+        errorMsg.value = '两次输入的新密码不一致，请核对后重试';
+        isLoading.value = false;
+        return;
+      }
+
+      const res = await confirmPasswordReset(resetToken.value, newPassword.value);
+      successMsg.value = res.message || '密码重置成功！正在为您跳转至登录...';
+      if (window.location.hash.includes('reset-password')) {
+        history.replaceState(null, '', window.location.pathname + window.location.search);
+      }
+      setTimeout(() => {
+        password.value = '';
+        switchMode('login');
+      }, 1500);
     }
   } catch (err: any) {
     errorMsg.value = err.message || '操作失败，请重试';
@@ -105,9 +164,9 @@ const handleSubmit = async () => {
 </script>
 
 <template>
-  <div v-if="isOpen" class="modal-backdrop fade-in" @click.self="emit('close')">
+  <div v-if="isOpen" class="modal-backdrop fade-in" @click.self="handleClose">
     <div class="auth-card glass-card scale-in">
-      <button class="close-btn" @click="emit('close')" aria-label="关闭">
+      <button class="close-btn" @click="handleClose" aria-label="关闭">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <line x1="18" y1="6" x2="6" y2="18"></line>
           <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -117,10 +176,10 @@ const handleSubmit = async () => {
       <div class="header">
         <div class="logo-mark">N</div>
         <h3>
-          {{ mode === 'login' ? '登录 NuanceTEM 云端同步' : mode === 'register' ? '注册新学习账号' : '找回密码' }}
+          {{ mode === 'login' ? '登录 NuanceTEM 云端同步' : mode === 'register' ? '注册新学习账号' : mode === 'forgot' ? '找回密码' : '设置新密码' }}
         </h3>
         <p class="subtitle">
-          {{ mode === 'login' ? '多设备实时漫游记忆曲线，复习进度永不丢失' : mode === 'register' ? '加入专业英语近义词辨析计划' : '输入您的注册邮箱以获取重置链接' }}
+          {{ mode === 'login' ? '多设备实时漫游记忆曲线，复习进度永不丢失' : mode === 'register' ? '加入专业英语近义词辨析计划' : mode === 'forgot' ? '输入您的注册邮箱以获取重置链接' : '请为您的 NuanceTEM 账号设定一个新的安全密码' }}
         </p>
       </div>
 
@@ -132,50 +191,79 @@ const handleSubmit = async () => {
       </div>
 
       <form @submit.prevent="handleSubmit" class="auth-form">
-        <div v-if="mode === 'register'" class="form-group">
-          <label>昵称 (可选)</label>
-          <input v-model="nickname" type="text" placeholder="你的学习代号" class="input-field" />
-        </div>
-
-        <div class="form-group">
-          <label>电子邮箱</label>
-          <input v-model="email" type="email" required placeholder="your.name@example.com" class="input-field" />
-        </div>
-
-        <div v-if="mode === 'register'" class="form-group">
-          <label>邮箱验证码</label>
-          <div class="code-input-row">
+        <!-- 重置新密码模式 -->
+        <template v-if="mode === 'reset'">
+          <div class="form-group">
+            <label>新密码</label>
             <input
-              v-model="verificationCode"
-              type="text"
+              v-model="newPassword"
+              type="password"
               required
-              maxlength="6"
-              placeholder="6 位验证码"
-              class="input-field code-input"
+              minlength="6"
+              placeholder="至少 6 位新密码"
+              class="input-field"
             />
-            <button
-              type="button"
-              class="send-code-btn"
-              :disabled="isSendingCode || countdown > 0"
-              @click="handleSendCode"
-            >
-              <span v-if="isSendingCode" class="mini-spinner"></span>
-              <span v-else>{{ countdown > 0 ? `${countdown}s 后重发` : '获取验证码' }}</span>
-            </button>
           </div>
-        </div>
+          <div class="form-group">
+            <label>确认新密码</label>
+            <input
+              v-model="confirmPassword"
+              type="password"
+              required
+              minlength="6"
+              placeholder="请再次输入新密码"
+              class="input-field"
+            />
+          </div>
+        </template>
 
-        <div v-if="mode !== 'forgot'" class="form-group">
-          <div class="label-row">
-            <label>密码</label>
-            <a v-if="mode === 'login'" href="#" @click.prevent="switchMode('forgot')" class="forgot-link">忘记密码？</a>
+        <!-- 常规模式：登录 / 注册 / 找回密码 -->
+        <template v-else>
+          <div v-if="mode === 'register'" class="form-group">
+            <label>昵称 (可选)</label>
+            <input v-model="nickname" type="text" placeholder="你的学习代号" class="input-field" />
           </div>
-          <input v-model="password" type="password" required minlength="6" placeholder="至少 6 位字符" class="input-field" />
-        </div>
+
+          <div class="form-group">
+            <label>电子邮箱</label>
+            <input v-model="email" type="email" required placeholder="your.name@example.com" class="input-field" />
+          </div>
+
+          <div v-if="mode === 'register'" class="form-group">
+            <label>邮箱验证码</label>
+            <div class="code-input-row">
+              <input
+                v-model="verificationCode"
+                type="text"
+                required
+                maxlength="6"
+                placeholder="6 位验证码"
+                class="input-field code-input"
+              />
+              <button
+                type="button"
+                class="send-code-btn"
+                :disabled="isSendingCode || countdown > 0"
+                @click="handleSendCode"
+              >
+                <span v-if="isSendingCode" class="mini-spinner"></span>
+                <span v-else>{{ countdown > 0 ? `${countdown}s 后重发` : '获取验证码' }}</span>
+              </button>
+            </div>
+          </div>
+
+          <div v-if="mode !== 'forgot'" class="form-group">
+            <div class="label-row">
+              <label>密码</label>
+              <a v-if="mode === 'login'" href="#" @click.prevent="switchMode('forgot')" class="forgot-link">忘记密码？</a>
+            </div>
+            <input v-model="password" type="password" required minlength="6" placeholder="至少 6 位字符" class="input-field" />
+          </div>
+        </template>
 
         <button type="submit" class="submit-btn" :disabled="isLoading">
           <span v-if="isLoading" class="spinner"></span>
-          <span v-else>{{ mode === 'login' ? '立即登录' : mode === 'register' ? '创建账号并同步' : '发送重置邮件' }}</span>
+          <span v-else>{{ mode === 'login' ? '立即登录' : mode === 'register' ? '创建账号并同步' : mode === 'forgot' ? '发送重置邮件' : '确认重置新密码' }}</span>
         </button>
       </form>
 
@@ -183,6 +271,10 @@ const handleSubmit = async () => {
         <template v-if="mode === 'login'">
           <span>还没有账号？</span>
           <a href="#" @click.prevent="switchMode('register')">免费注册</a>
+        </template>
+        <template v-else-if="mode === 'reset'">
+          <span>想起来了？</span>
+          <a href="#" @click.prevent="switchMode('login')">返回登录</a>
         </template>
         <template v-else>
           <span>已有账号？</span>

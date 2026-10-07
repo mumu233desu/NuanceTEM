@@ -8,8 +8,23 @@ const emit = defineEmits<{
   (e: 'open-auth'): void;
 }>();
 
-const { user, isAuthenticated, logout, resetCloudProgress } = useAuth();
+const { user, isAuthenticated, logout, resetCloudProgress, requestPasswordReset } = useAuth();
 const { status: syncStatus, syncNow } = useSync();
+
+const isSendingResetEmail = ref(false);
+const handleRequestReset = async () => {
+  if (!user.value?.email) return;
+  if (!confirm(`将向您的绑定邮箱（${user.value.email}）发送密码重置安全邮件。确认发送吗？`)) return;
+  isSendingResetEmail.value = true;
+  try {
+    const res = await requestPasswordReset(user.value.email);
+    alert(res.message || '重置邮件已发送至您的邮箱，请查收并点击链接重置！');
+  } catch (err: any) {
+    alert('发送重置邮件失败: ' + (err.message || err));
+  } finally {
+    isSendingResetEmail.value = false;
+  }
+};
 
 const appVersion = __APP_VERSION__;
 const dbUpdateTime = ref('读取中...');
@@ -235,6 +250,9 @@ const handleResetAll = async () => {
           </div>
           <div class="account-actions">
             <button class="btn-action mini-action" @click="syncNow">立即同步</button>
+            <button class="btn-action mini-action" :disabled="isSendingResetEmail" @click="handleRequestReset">
+              {{ isSendingResetEmail ? '正在发送...' : '重置密码' }}
+            </button>
             <button class="btn-action mini-action logout-btn" @click="logout">退出登录</button>
           </div>
         </div>
