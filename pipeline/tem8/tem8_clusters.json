@@ -1,0 +1,1148 @@
+[
+  {
+    "group_name": "alleviate, mitigate, palliate, soothe",
+    "words": [
+      "palliate",
+      "mitigate",
+      "alleviate",
+      "soothe"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "theme_label": "缓和、减免与治标姑息",
+    "synset_details": {
+      "palliate": {
+        "synset": "extenuate.v.01",
+        "definition": "lessen or to try to lessen the seriousness or extent of",
+        "synonyms_in_synset": [
+          "extenuate",
+          "palliate",
+          "mitigate"
+        ],
+        "syllabus_trans": ""
+      },
+      "mitigate": {
+        "synset": "extenuate.v.01",
+        "definition": "lessen or to try to lessen the seriousness or extent of",
+        "synonyms_in_synset": [
+          "extenuate",
+          "palliate",
+          "mitigate"
+        ],
+        "syllabus_trans": "减轻…的严重性，缓和"
+      },
+      "alleviate": {
+        "synset": "relieve.v.01",
+        "definition": "provide physical relief, as from pain",
+        "synonyms_in_synset": [
+          "relieve",
+          "alleviate",
+          "palliate",
+          "assuage"
+        ],
+        "syllabus_trans": "缓和，减轻(痛苦等)"
+      },
+      "soothe": {
+        "synset": "comfort.v.01",
+        "definition": "give moral or emotional strength to",
+        "synonyms_in_synset": [
+          "comfort",
+          "soothe",
+          "console",
+          "solace"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "ephemeral, transient, fleeting, evanescent",
+    "words": [
+      "evanescent",
+      "ephemeral",
+      "transient",
+      "fleeting"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "稍纵即逝、虚无消散与短暂",
+    "synset_details": {
+      "evanescent": {
+        "synset": "evanescent.s.01",
+        "definition": "tending to vanish like vapor",
+        "synonyms_in_synset": [
+          "evanescent"
+        ],
+        "syllabus_trans": ""
+      },
+      "ephemeral": {
+        "synset": "ephemeral.s.01",
+        "definition": "lasting a very short time",
+        "synonyms_in_synset": [
+          "ephemeral",
+          "passing",
+          "short-lived",
+          "transient",
+          "transitory",
+          "fugacious"
+        ],
+        "syllabus_trans": "短暂的，短命的，朝生暮死的"
+      },
+      "transient": {
+        "synset": "transeunt.a.01",
+        "definition": "of a mental act; causing effects outside the mind",
+        "synonyms_in_synset": [
+          "transeunt",
+          "transient"
+        ],
+        "syllabus_trans": "短暂的，转瞬即逝的 n. 仅短暂在某地停留或工作的人"
+      },
+      "fleeting": {
+        "synset": "fleeting.s.01",
+        "definition": "lasting for a markedly brief time",
+        "synonyms_in_synset": [
+          "fleeting",
+          "fugitive",
+          "momentaneous",
+          "momentary"
+        ],
+        "syllabus_trans": "短暂的，稍纵即逝的"
+      }
+    }
+  },
+  {
+    "group_name": "disparage, denigrate, belittle, deprecate",
+    "words": [
+      "denigrate",
+      "deprecate",
+      "disparage",
+      "belittle"
+    ],
+    "pos": "v",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "贬抑、恶意抹黑与谦逊自贬",
+    "synset_details": {
+      "denigrate": {
+        "synset": "minimize.v.03",
+        "definition": "cause to seem less serious; play down",
+        "synonyms_in_synset": [
+          "minimize",
+          "belittle",
+          "denigrate",
+          "derogate"
+        ],
+        "syllabus_trans": ""
+      },
+      "deprecate": {
+        "synset": "deprecate.v.01",
+        "definition": "express strong disapproval of; deplore",
+        "synonyms_in_synset": [
+          "deprecate"
+        ],
+        "syllabus_trans": "反对，对…表示不赞成"
+      },
+      "disparage": {
+        "synset": "disparage.v.01",
+        "definition": "express a negative opinion of",
+        "synonyms_in_synset": [
+          "disparage",
+          "belittle",
+          "pick at"
+        ],
+        "syllabus_trans": ""
+      },
+      "belittle": {
+        "synset": "minimize.v.03",
+        "definition": "cause to seem less serious; play down",
+        "synonyms_in_synset": [
+          "minimize",
+          "belittle",
+          "denigrate",
+          "derogate"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "vindicate, exonerate, acquit, absolve",
+    "words": [
+      "acquit",
+      "vindicate",
+      "exonerate",
+      "absolve"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "theme_label": "宣告无罪、洗刷冤屈与事实证实",
+    "synset_details": {
+      "acquit": {
+        "synset": "acquit.v.01",
+        "definition": "pronounce not guilty of criminal charges",
+        "synonyms_in_synset": [
+          "acquit",
+          "assoil",
+          "clear",
+          "discharge",
+          "exonerate",
+          "exculpate"
+        ],
+        "syllabus_trans": "1. 宣判(某人)无罪 2. 表现，履行，完成"
+      },
+      "vindicate": {
+        "synset": "justify.v.02",
+        "definition": "show to be right by providing justification or proof",
+        "synonyms_in_synset": [
+          "justify",
+          "vindicate"
+        ],
+        "syllabus_trans": "1. 为…辩护 2. 证明…正确"
+      },
+      "exonerate": {
+        "synset": "acquit.v.01",
+        "definition": "pronounce not guilty of criminal charges",
+        "synonyms_in_synset": [
+          "acquit",
+          "assoil",
+          "clear",
+          "discharge",
+          "exonerate",
+          "exculpate"
+        ],
+        "syllabus_trans": "使免受责备(指控)"
+      },
+      "absolve": {
+        "synset": "shrive.v.01",
+        "definition": "grant remission of a sin to",
+        "synonyms_in_synset": [
+          "shrive",
+          "absolve"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "equivocal, ambiguous, obscure, enigmatic",
+    "words": [
+      "equivocal",
+      "enigmatic",
+      "ambiguous",
+      "obscure"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "故弄玄虚、模棱两可与神秘莫测",
+    "synset_details": {
+      "equivocal": {
+        "synset": "equivocal.a.01",
+        "definition": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+        "synonyms_in_synset": [
+          "equivocal",
+          "ambiguous"
+        ],
+        "syllabus_trans": "有歧义的，模棱两可的，含糊的"
+      },
+      "enigmatic": {
+        "synset": "enigmatic.s.01",
+        "definition": "not clear to the understanding",
+        "synonyms_in_synset": [
+          "enigmatic",
+          "enigmatical",
+          "puzzling"
+        ],
+        "syllabus_trans": "难以理解的，神秘的"
+      },
+      "ambiguous": {
+        "synset": "equivocal.a.01",
+        "definition": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+        "synonyms_in_synset": [
+          "equivocal",
+          "ambiguous"
+        ],
+        "syllabus_trans": ""
+      },
+      "obscure": {
+        "synset": "obscure.s.01",
+        "definition": "not clearly understood or expressed; ; -Anatole Broyard; - P.A.Sorokin; - John Locke",
+        "synonyms_in_synset": [
+          "obscure",
+          "vague"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "words": [
+      "assiduous",
+      "sedulous",
+      "diligent",
+      "industrious"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_NUANCE",
+    "theme_label": "一丝不苟、刻苦钻研与勤奋",
+    "synset_details": {
+      "assiduous": {
+        "synset": "assiduous.s.01",
+        "definition": "marked by care and persistent effort",
+        "synonyms_in_synset": [
+          "assiduous",
+          "sedulous"
+        ],
+        "syllabus_trans": "刻苦的，勤奋的"
+      },
+      "sedulous": {
+        "synset": "assiduous.s.01",
+        "definition": "marked by care and persistent effort",
+        "synonyms_in_synset": [
+          "assiduous",
+          "sedulous"
+        ],
+        "syllabus_trans": ""
+      },
+      "diligent": {
+        "synset": "diligent.s.01",
+        "definition": "quietly and steadily persevering especially in detail or exactness",
+        "synonyms_in_synset": [
+          "diligent",
+          "persevering"
+        ],
+        "syllabus_trans": ""
+      },
+      "industrious": {
+        "synset": "hardworking.s.01",
+        "definition": "characterized by hard work and perseverance",
+        "synonyms_in_synset": [
+          "hardworking",
+          "industrious",
+          "tireless",
+          "untiring"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "supercilious, disdainful, haughty, arrogant",
+    "words": [
+      "supercilious",
+      "haughty",
+      "disdainful",
+      "arrogant"
+    ],
+    "pos": "adj",
+    "field": "FIELD_STANCE",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "目空一切、傲慢挑眉与居高临下",
+    "synset_details": {
+      "supercilious": {
+        "synset": "disdainful.s.02",
+        "definition": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+        "synonyms_in_synset": [
+          "disdainful",
+          "haughty",
+          "imperious",
+          "lordly",
+          "overbearing",
+          "prideful",
+          "sniffy",
+          "supercilious",
+          "swaggering"
+        ],
+        "syllabus_trans": ""
+      },
+      "haughty": {
+        "synset": "disdainful.s.02",
+        "definition": "having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer",
+        "synonyms_in_synset": [
+          "disdainful",
+          "haughty",
+          "imperious",
+          "lordly",
+          "overbearing",
+          "prideful",
+          "sniffy",
+          "supercilious",
+          "swaggering"
+        ],
+        "syllabus_trans": ""
+      },
+      "disdainful": {
+        "synset": "contemptuous.s.01",
+        "definition": "expressing extreme contempt",
+        "synonyms_in_synset": [
+          "contemptuous",
+          "disdainful",
+          "insulting",
+          "scornful"
+        ],
+        "syllabus_trans": ""
+      },
+      "arrogant": {
+        "synset": "arrogant.s.01",
+        "definition": "having or showing feelings of unwarranted importance out of overbearing pride",
+        "synonyms_in_synset": [
+          "arrogant",
+          "chesty",
+          "self-important"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "ubiquitous, pervasive, omnipresent, widespread",
+    "words": [
+      "pervasive",
+      "ubiquitous",
+      "omnipresent",
+      "widespread"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "theme_label": "无孔不入的弥漫、随处可见与普遍",
+    "synset_details": {
+      "pervasive": {
+        "synset": "permeant.s.01",
+        "definition": "spreading or spread throughout",
+        "synonyms_in_synset": [
+          "permeant",
+          "permeating",
+          "permeative",
+          "pervasive"
+        ],
+        "syllabus_trans": ""
+      },
+      "ubiquitous": {
+        "synset": "omnipresent.s.01",
+        "definition": "being present everywhere at once",
+        "synonyms_in_synset": [
+          "omnipresent",
+          "ubiquitous"
+        ],
+        "syllabus_trans": "普遍存在的，无处不有的"
+      },
+      "omnipresent": {
+        "synset": "omnipresent.s.01",
+        "definition": "being present everywhere at once",
+        "synonyms_in_synset": [
+          "omnipresent",
+          "ubiquitous"
+        ],
+        "syllabus_trans": ""
+      },
+      "widespread": {
+        "synset": "widespread.s.01",
+        "definition": "widely circulated or diffused",
+        "synonyms_in_synset": [
+          "widespread"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "placate, appease, mollify, propitiate",
+    "words": [
+      "propitiate",
+      "appease",
+      "placate",
+      "mollify"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "祭祀安抚、政治绥靖与平息怒火",
+    "synset_details": {
+      "propitiate": {
+        "synset": "propitiate.v.01",
+        "definition": "make peace with",
+        "synonyms_in_synset": [
+          "propitiate",
+          "appease"
+        ],
+        "syllabus_trans": ""
+      },
+      "appease": {
+        "synset": "pacify.v.01",
+        "definition": "cause to be more favorably inclined; gain the good will of",
+        "synonyms_in_synset": [
+          "pacify",
+          "lenify",
+          "conciliate",
+          "assuage",
+          "appease",
+          "mollify",
+          "placate",
+          "gentle",
+          "gruntle"
+        ],
+        "syllabus_trans": "使满足，平息，抚慰"
+      },
+      "placate": {
+        "synset": "pacify.v.01",
+        "definition": "cause to be more favorably inclined; gain the good will of",
+        "synonyms_in_synset": [
+          "pacify",
+          "lenify",
+          "conciliate",
+          "assuage",
+          "appease",
+          "mollify",
+          "placate",
+          "gentle",
+          "gruntle"
+        ],
+        "syllabus_trans": ""
+      },
+      "mollify": {
+        "synset": "pacify.v.01",
+        "definition": "cause to be more favorably inclined; gain the good will of",
+        "synonyms_in_synset": [
+          "pacify",
+          "lenify",
+          "conciliate",
+          "assuage",
+          "appease",
+          "mollify",
+          "placate",
+          "gentle",
+          "gruntle"
+        ],
+        "syllabus_trans": "抚慰，平息"
+      }
+    }
+  },
+  {
+    "group_name": "reticent, taciturn, reserved, laconic",
+    "words": [
+      "laconic",
+      "taciturn",
+      "reticent",
+      "reserved"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "惜字如金的凝练、沉默寡言与性格克制",
+    "synset_details": {
+      "laconic": {
+        "synset": "crisp.s.06",
+        "definition": "brief and to the point; effectively cut short",
+        "synonyms_in_synset": [
+          "crisp",
+          "curt",
+          "laconic",
+          "terse"
+        ],
+        "syllabus_trans": ""
+      },
+      "taciturn": {
+        "synset": "taciturn.a.01",
+        "definition": "habitually reserved and uncommunicative",
+        "synonyms_in_synset": [
+          "taciturn"
+        ],
+        "syllabus_trans": "沉默寡言的"
+      },
+      "reticent": {
+        "synset": "reticent.s.01",
+        "definition": "temperamentally disinclined to talk",
+        "synonyms_in_synset": [
+          "reticent",
+          "untalkative"
+        ],
+        "syllabus_trans": "不轻易暴露思想或感情的，有保留的"
+      },
+      "reserved": {
+        "synset": "reserved.a.01",
+        "definition": "set aside for the use of a particular person or party",
+        "synonyms_in_synset": [
+          "reserved"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "ingenious, ingenuous, naive, subtle",
+    "words": [
+      "ingenious",
+      "ingenuous",
+      "naive",
+      "subtle"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "形似易混：机巧灵敏 vs 单纯天真",
+    "synset_details": {
+      "ingenious": {
+        "synset": "clever.s.03",
+        "definition": "showing inventiveness and skill",
+        "synonyms_in_synset": [
+          "clever",
+          "cunning",
+          "ingenious"
+        ],
+        "syllabus_trans": ""
+      },
+      "ingenuous": {
+        "synset": "ingenuous.a.01",
+        "definition": "characterized by an inability to mask your feelings; not devious",
+        "synonyms_in_synset": [
+          "ingenuous",
+          "artless"
+        ],
+        "syllabus_trans": "纯朴的，坦率的，天真无邪的"
+      },
+      "naive": {
+        "synset": "naive.a.01",
+        "definition": "marked by or showing unaffected simplicity and lack of guile or worldly experience",
+        "synonyms_in_synset": [
+          "naive",
+          "naif"
+        ],
+        "syllabus_trans": ""
+      },
+      "subtle": {
+        "synset": "elusive.s.03",
+        "definition": "difficult to detect or grasp by the mind or analyze",
+        "synonyms_in_synset": [
+          "elusive",
+          "subtle"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "words": [
+      "perfunctory",
+      "peremptory",
+      "cursory",
+      "imperative"
+    ],
+    "pos": "adj",
+    "field": "FIELD_BEHAVIOR",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "theme_label": "形似易混：敷衍草率 vs 专横独断",
+    "synset_details": {
+      "perfunctory": {
+        "synset": "casual.s.05",
+        "definition": "hasty and without attention to detail; not thorough",
+        "synonyms_in_synset": [
+          "casual",
+          "cursory",
+          "passing",
+          "perfunctory"
+        ],
+        "syllabus_trans": "敷衍的，马虎的 perfunctorily"
+      },
+      "peremptory": {
+        "synset": "autocratic.s.01",
+        "definition": "offensively self-assured or given to exercising usually unwarranted power",
+        "synonyms_in_synset": [
+          "autocratic",
+          "bossy",
+          "dominating",
+          "high-and-mighty",
+          "magisterial",
+          "peremptory"
+        ],
+        "syllabus_trans": ""
+      },
+      "cursory": {
+        "synset": "casual.s.05",
+        "definition": "hasty and without attention to detail; not thorough",
+        "synonyms_in_synset": [
+          "casual",
+          "cursory",
+          "passing",
+          "perfunctory"
+        ],
+        "syllabus_trans": "粗略的，匆促的，草率的"
+      },
+      "imperative": {
+        "synset": "imperative.a.01",
+        "definition": "requiring attention or action",
+        "synonyms_in_synset": [
+          "imperative"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "quash, quell, suppress, stifle",
+    "words": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "司法撤销/镇压叛乱 vs 扼杀平息",
+    "synset_details": {
+      "quash": {
+        "synset": "repress.v.01",
+        "definition": "put down by force or intimidation",
+        "synonyms_in_synset": [
+          "repress",
+          "quash",
+          "keep down",
+          "subdue",
+          "subjugate",
+          "reduce"
+        ],
+        "syllabus_trans": "1. 拒绝接受，取消 2. 镇压，平息"
+      },
+      "quell": {
+        "synset": "squelch.v.01",
+        "definition": "suppress or crush completely",
+        "synonyms_in_synset": [
+          "squelch",
+          "quell",
+          "quench"
+        ],
+        "syllabus_trans": "击败，制止，镇压"
+      },
+      "suppress": {
+        "synset": "suppress.v.01",
+        "definition": "to put down by force or authority",
+        "synonyms_in_synset": [
+          "suppress",
+          "stamp down",
+          "inhibit",
+          "subdue",
+          "conquer",
+          "curb"
+        ],
+        "syllabus_trans": ""
+      },
+      "stifle": {
+        "synset": "smother.v.03",
+        "definition": "conceal or hide",
+        "synonyms_in_synset": [
+          "smother",
+          "stifle",
+          "strangle",
+          "muffle",
+          "repress"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "words": [
+      "sensuous",
+      "sensual",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "形似易混：感官审美 vs 肉欲享乐",
+    "synset_details": {
+      "sensuous": {
+        "synset": "sensuous.s.01",
+        "definition": "taking delight in beauty",
+        "synonyms_in_synset": [
+          "sensuous"
+        ],
+        "syllabus_trans": "1. 刺激感官的，激发美感的 2. 官能享受的，好色的"
+      },
+      "sensual": {
+        "synset": "animal.s.01",
+        "definition": "marked by the appetites and passions of the body",
+        "synonyms_in_synset": [
+          "animal",
+          "carnal",
+          "fleshly",
+          "sensual"
+        ],
+        "syllabus_trans": "1. 肉体上的，感官上的 2. 官能享受的，好色的"
+      },
+      "aesthetic": {
+        "synset": "aesthetic.a.01",
+        "definition": "relating to or dealing with the subject of aesthetics",
+        "synonyms_in_synset": [
+          "aesthetic",
+          "esthetic"
+        ],
+        "syllabus_trans": ""
+      },
+      "voluptuous": {
+        "synset": "juicy.s.02",
+        "definition": "having strong sexual appeal",
+        "synonyms_in_synset": [
+          "juicy",
+          "luscious",
+          "red-hot",
+          "toothsome",
+          "voluptuous"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "judicious, judicial, prudent, legislative",
+    "words": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "pos": "adj",
+    "field": "FIELD_COGNITION",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "形似易混：明智审慎 vs 司法语域",
+    "synset_details": {
+      "judicious": {
+        "synset": "judicious.s.01",
+        "definition": "marked by the exercise of good judgment or common sense in practical matters",
+        "synonyms_in_synset": [
+          "judicious",
+          "wise",
+          "heady"
+        ],
+        "syllabus_trans": "明智的，有见识的"
+      },
+      "judicial": {
+        "synset": "judicial.s.01",
+        "definition": "decreed by or proceeding from a court of justice",
+        "synonyms_in_synset": [
+          "judicial"
+        ],
+        "syllabus_trans": ""
+      },
+      "prudent": {
+        "synset": "prudent.a.01",
+        "definition": "careful and sensible; marked by sound judgment",
+        "synonyms_in_synset": [
+          "prudent"
+        ],
+        "syllabus_trans": "谨慎的，精明的"
+      },
+      "legislative": {
+        "synset": "legislative.a.01",
+        "definition": "relating to a legislature or composed of members of a legislature",
+        "synonyms_in_synset": [
+          "legislative"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "words": [
+      "deteriorate",
+      "degenerate",
+      "retrogress",
+      "decline"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "恶化、堕落变质与倒退",
+    "synset_details": {
+      "deteriorate": {
+        "synset": "deteriorate.v.01",
+        "definition": "become worse or disintegrate",
+        "synonyms_in_synset": [
+          "deteriorate"
+        ],
+        "syllabus_trans": ""
+      },
+      "degenerate": {
+        "synset": "devolve.v.03",
+        "definition": "grow worse",
+        "synonyms_in_synset": [
+          "devolve",
+          "deteriorate",
+          "drop",
+          "degenerate"
+        ],
+        "syllabus_trans": "退步的，退化的，堕落的 n. 堕落者，腐化者 [dɪˈdʒenəreɪt] v. 退化，衰败，堕落"
+      },
+      "retrogress": {
+        "synset": "regress.v.03",
+        "definition": "get worse or fall back to a previous condition",
+        "synonyms_in_synset": [
+          "regress",
+          "retrograde",
+          "retrogress"
+        ],
+        "syllabus_trans": ""
+      },
+      "decline": {
+        "synset": "worsen.v.01",
+        "definition": "grow worse",
+        "synonyms_in_synset": [
+          "worsen",
+          "decline"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "words": [
+      "capricious",
+      "mercurial",
+      "volatile",
+      "erratic"
+    ],
+    "pos": "adj",
+    "field": "FIELD_NATURE",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "反复无常、喜怒难测与暴躁易变",
+    "synset_details": {
+      "capricious": {
+        "synset": "capricious.s.01",
+        "definition": "changeable",
+        "synonyms_in_synset": [
+          "capricious",
+          "freakish"
+        ],
+        "syllabus_trans": "反复无常的，善变的，任性的"
+      },
+      "mercurial": {
+        "synset": "erratic.s.01",
+        "definition": "liable to sudden unpredictable change",
+        "synonyms_in_synset": [
+          "erratic",
+          "fickle",
+          "mercurial",
+          "quicksilver"
+        ],
+        "syllabus_trans": ""
+      },
+      "volatile": {
+        "synset": "volatile.a.01",
+        "definition": "evaporating readily at normal temperatures and pressures",
+        "synonyms_in_synset": [
+          "volatile"
+        ],
+        "syllabus_trans": "1. (指液体)易挥发的 2. (指人)情绪(兴趣)多变的，无常性的 3. (指商情等)急剧波动的，不稳定的"
+      },
+      "erratic": {
+        "synset": "erratic.s.01",
+        "definition": "liable to sudden unpredictable change",
+        "synonyms_in_synset": [
+          "erratic",
+          "fickle",
+          "mercurial",
+          "quicksilver"
+        ],
+        "syllabus_trans": "反复无常的，古怪的，不规则的"
+      }
+    }
+  },
+  {
+    "group_name": "connive, conspire, collude, scheme",
+    "words": [
+      "connive",
+      "collude",
+      "conspire",
+      "scheme"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "纵容默许 (connive at) vs 串通勾结",
+    "synset_details": {
+      "connive": {
+        "synset": "connive.v.01",
+        "definition": "encourage or assent to illegally or criminally",
+        "synonyms_in_synset": [
+          "connive"
+        ],
+        "syllabus_trans": ""
+      },
+      "collude": {
+        "synset": "conspire.v.02",
+        "definition": "act in unison or agreement and in secret towards a deceitful or illegal purpose",
+        "synonyms_in_synset": [
+          "conspire",
+          "collude"
+        ],
+        "syllabus_trans": "共谋，勾结，串通"
+      },
+      "conspire": {
+        "synset": "conspire.v.01",
+        "definition": "engage in plotting or enter into a conspiracy, swear together",
+        "synonyms_in_synset": [
+          "conspire",
+          "cabal",
+          "complot",
+          "conjure",
+          "machinate"
+        ],
+        "syllabus_trans": "密谋，搞阴谋，图谋"
+      },
+      "scheme": {
+        "synset": "scheme.v.01",
+        "definition": "form intrigues (for) in an underhand manner",
+        "synonyms_in_synset": [
+          "scheme",
+          "intrigue",
+          "connive"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "wreak, inflict, impose, execute",
+    "words": [
+      "wreak",
+      "inflict",
+      "impose",
+      "execute"
+    ],
+    "pos": "v",
+    "field": "FIELD_CHANGE",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "theme_label": "动宾连带：发泄破坏 (wreak havoc) vs 强加",
+    "synset_details": {
+      "wreak": {
+        "synset": "bring.v.03",
+        "definition": "cause to happen or to occur as a consequence",
+        "synonyms_in_synset": [
+          "bring",
+          "work",
+          "play",
+          "wreak",
+          "make for"
+        ],
+        "syllabus_trans": ""
+      },
+      "inflict": {
+        "synset": "inflict.v.01",
+        "definition": "impose something unpleasant",
+        "synonyms_in_synset": [
+          "inflict",
+          "bring down",
+          "visit",
+          "impose"
+        ],
+        "syllabus_trans": "1. 予以(打击)，使遭受，强加于 2. 施(刑)，处(罚)"
+      },
+      "impose": {
+        "synset": "enforce.v.02",
+        "definition": "compel to behave in a certain way",
+        "synonyms_in_synset": [
+          "enforce",
+          "impose"
+        ],
+        "syllabus_trans": ""
+      },
+      "execute": {
+        "synset": "execute.v.01",
+        "definition": "kill as a means of socially sanctioned punishment",
+        "synonyms_in_synset": [
+          "execute",
+          "put to death"
+        ],
+        "syllabus_trans": ""
+      }
+    }
+  },
+  {
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "words": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "pos": "v",
+    "field": "FIELD_RELATION",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "theme_label": "动宾连带：斡旋停火 (broker a truce/deal) vs 仲裁",
+    "synset_details": {
+      "broker": {
+        "synset": "broker.v.01",
+        "definition": "act as a broker",
+        "synonyms_in_synset": [
+          "broker"
+        ],
+        "syllabus_trans": "1. 经纪人，掮客，中间人 2. 股票经纪人"
+      },
+      "negotiate": {
+        "synset": "negociate.v.06",
+        "definition": "discuss the terms of an arrangement",
+        "synonyms_in_synset": [
+          "negociate",
+          "negotiate",
+          "talk terms"
+        ],
+        "syllabus_trans": ""
+      },
+      "mediate": {
+        "synset": "intercede.v.01",
+        "definition": "act between parties with a view to reconciling differences",
+        "synonyms_in_synset": [
+          "intercede",
+          "mediate",
+          "intermediate",
+          "liaise",
+          "arbitrate"
+        ],
+        "syllabus_trans": "调停，斡旋"
+      },
+      "arbitrate": {
+        "synset": "intercede.v.01",
+        "definition": "act between parties with a view to reconciling differences",
+        "synonyms_in_synset": [
+          "intercede",
+          "mediate",
+          "intermediate",
+          "liaise",
+          "arbitrate"
+        ],
+        "syllabus_trans": "仲裁，公断，裁决"
+      }
+    }
+  }
+]

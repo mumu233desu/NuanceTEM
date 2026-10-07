@@ -13,46 +13,23 @@
       "soothe"
     ],
     "answer": "mitigate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "搭配抽象的全局性灾难后果（consequences of global warming），为正式环保政经学术经典动宾搭配。",
     "distractor_analysis": {
       "mitigate": "v. 正式学术及政经用语，固定搭配后果、危害或风险（mitigate consequences/effects/penalties），指主动干预以降低危害严重性。",
       "alleviate": "v. 侧重于缓和已存在的沉重痛苦、贫困或紧迫症状（alleviate poverty/suffering）。",
-      "palliate": "v. 指姑息疗法或敷衍塞责的遮掩，不合环保治理的政策语境。",
+      "palliate": "v. 指姑息疗法或敷衍遮掩，不合环保治理主动应对的政策语境。",
       "soothe": "v. 抚慰、镇定，不能搭配抽象的全球变暖灾难性后果。"
     },
     "translation": "环保机构实施了严格的碳排放上限，以紧急减轻全球变暖带来的毁灭性后果。",
-    "field": "FIELD_CHANGE",
     "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "taxonomy_notes": "搭配抽象的全局性灾难后果（consequences of global warming），为正式环保政经学术经典动宾搭配。",
     "legacy_id": "tem8_1_2"
   },
   {
     "id": "tem8_col_002",
-    "group_id": 103,
-    "group_name": "disparage, denigrate, belittle, deprecate",
-    "level": "TEM-8",
-    "target_word": "denigrate",
-    "question": "The political campaign took a malicious turn when the rival party launched ads designed to completely ___ the candidate's moral integrity and character.",
-    "options": [
-      "disparage",
-      "denigrate",
-      "belittle",
-      "deprecate"
-    ],
-    "answer": "denigrate",
-    "distractor_analysis": {
-      "denigrate": "v. 词源含有“抹黑、玷污”之意，语气极重，专门搭配并攻击他人名誉、人格、品德（denigrate integrity/character）。",
-      "belittle": "v. 侧重在言语上“轻视、贬低他人成就的价值”（belittle sb.'s achievements）。",
-      "disparage": "v. 侧重不公平地轻蔑评价某事物的质量或地位。",
-      "deprecate": "v. 侧重表示强烈反对或自谦地自我贬抑（self-deprecating）。"
-    },
-    "translation": "当对手政党投放旨在彻底玷污抹黑该候选人道德操守与人品的恶意广告时，这场政治竞选变了味。",
-    "field": "FIELD_STANCE",
-    "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
-    "legacy_id": "tem8_3_1"
-  },
-  {
-    "id": "tem8_col_003",
     "group_id": 104,
     "group_name": "vindicate, exonerate, acquit, absolve",
     "level": "TEM-8",
@@ -65,6 +42,10 @@
       "absolve"
     ],
     "answer": "acquit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语是陪审团（the jury），固定介词搭配 'acquit sb. OF felony charges'。",
     "distractor_analysis": {
       "acquit": "v. 严密的法律审判动词，主语通常是法官或陪审团（the jury），固定介词搭配 acquit sb. OF charges（宣判无罪）。",
       "vindicate": "v. 侧重通过后续事实“证明某人的主张/荣誉是正确且正当的”，不接 of charges 这种严格法庭宣告。",
@@ -72,91 +53,12 @@
       "absolve": "v. 宗教或良心层面的“赦免/宽恕”，接 of/from sin or guilt。"
     },
     "translation": "在审查了无可争议的法医物证之后，陪审团一致裁定宣告被告的所有重罪指控不成立。",
-    "field": "FIELD_STANCE",
     "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "taxonomy_notes": "主语是陪审团（the jury），固定介词搭配 'acquit sb. OF felony charges'。",
     "legacy_id": "tem8_4_1"
   },
   {
-    "id": "tem8_col_004",
-    "group_id": 105,
-    "group_name": "equivocal, ambiguous, obscure, enigmatic",
-    "level": "TEM-8",
-    "target_word": "enigmatic",
-    "question": "The Mona Lisa continues to bewitch art historians primarily due to her subtle and ___ smile, whose true emotion remains an impenetrable mystery.",
-    "options": [
-      "equivocal",
-      "ambiguous",
-      "obscure",
-      "enigmatic"
-    ],
-    "answer": "enigmatic",
-    "distractor_analysis": {
-      "enigmatic": "adj. 经典搭配用于艺术品、表情或人物性格，表示“神秘莫测、耐人寻味”（与后文 impenetrable mystery 严丝合缝）。",
-      "equivocal": "adj. 政治外交式故意模棱两可，不能形容微笑的艺术美感。",
-      "ambiguous": "adj. 侧重字面歧义，语境不协调。",
-      "obscure": "adj. 侧重偏僻无名或文本艰涩。"
-    },
-    "translation": "蒙娜丽莎之所以持续吸引着艺术史学家，主要是因为她那微妙而神秘莫测的微笑，其真实情感至今仍是一个无法参透的谜团。",
-    "field": "FIELD_NATURE",
-    "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
-    "legacy_id": "tem8_5_2"
-  },
-  {
-    "id": "tem8_col_005",
-    "group_id": 106,
-    "group_name": "assiduous, sedulous, diligent, industrious",
-    "level": "TEM-8",
-    "target_word": "assiduous",
-    "question": "Through decades of ___ archival research and relentless attention to detail, she uncovered the long-forgotten manuscripts of the Renaissance poet.",
-    "options": [
-      "assiduous",
-      "sedulous",
-      "diligent",
-      "industrious"
-    ],
-    "answer": "assiduous",
-    "distractor_analysis": {
-      "assiduous": "adj. 专八高阶学术用语，强调在学术考证、精细任务中“持之以恒、极其注重细节且一丝不苟”（搭配 attention to detail 是经典考点）。",
-      "industrious": "adj. 侧重体力劳动或工农生产的勤奋耐劳（如 an industrious worker）。",
-      "diligent": "adj. 通用基础词汇，偏重认真好学或克尽职守，学术语域不如 assiduous 精妙。",
-      "sedulous": "adj. 偏向坚持不懈的刻苦模仿或繁复操作，在学术研究搭配中频次略逊于 assiduous。"
-    },
-    "translation": "经过数十年一丝不苟的档案文献研究以及对细节坚持不懈的执着，她发掘出了这位文艺复兴时期诗人被遗忘已久的手稿。",
-    "field": "FIELD_BEHAVIOR",
-    "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
-    "legacy_id": "tem8_6_1"
-  },
-  {
-    "id": "tem8_col_006",
-    "group_id": 107,
-    "group_name": "supercilious, disdainful, haughty, arrogant",
-    "level": "TEM-8",
-    "target_word": "supercilious",
-    "question": "The wealthy aristocrat cast a ___ glance down his nose at the modest cottage, as if the mere sight of poverty offended his delicate sensibilities.",
-    "options": [
-      "supercilious",
-      "disdainful",
-      "haughty",
-      "arrogant"
-    ],
-    "answer": "supercilious",
-    "distractor_analysis": {
-      "supercilious": "adj. 词源来自“挑起眉毛（eyebrow）”，形象地指“傲慢地扬起眉毛、用鼻孔看人、目空一切”（搭配 glance down his nose 是典型形象写照）。",
-      "arrogant": "adj. 普通日常高频词，泛指狂妄自大，缺乏身体动作的具象感。",
-      "haughty": "adj. 侧重贵族式的孤高冷傲，态度矜持。",
-      "disdainful": "adj. 侧重鄙夷、嫌恶他人的轻蔑神色。"
-    },
-    "translation": "这位富有的贵族轻蔑地扬起眉毛，从鼻孔里俯视着那座简陋的小屋，仿佛仅仅看到贫困就冒犯了他那娇贵的情感。",
-    "field": "FIELD_COGNITION",
-    "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
-    "legacy_id": "tem8_7_1"
-  },
-  {
-    "id": "tem8_col_007",
+    "id": "tem8_col_003",
     "group_id": 110,
     "group_name": "reticent, taciturn, reserved, laconic",
     "level": "TEM-8",
@@ -169,16 +71,280 @@
       "laconic"
     ],
     "answer": "laconic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰极度简练的回答 'a three-word reply: We weren't ready'，典故源自斯巴达人语言风格。",
     "distractor_analysis": {
       "laconic": "adj. 源自斯巴达人（Laconia），专指语言风格“言简意赅、惜字如金、甚至显得冷峻”（搭配 three-word reply 是标准用法）。",
-      "taciturn": "adj. 形容人的性格天生沉默寡言、不苟言笑，指性格特质而非单次发言的修辞。",
+      "taciturn": "adj. 形容人的性格天生沉默寡言、不苟言笑，指长久性格特质而非单次发言的修辞。",
       "reticent": "adj. 强调心理上的谨慎克制，不愿透露私人情感或秘密（reticent about personal life）。",
       "reserved": "adj. 强调举止矜持、不轻易表露喜怒哀乐。"
     },
     "translation": "当被要求解释这场出人意料的失利时，面色阴沉的主教练仅仅给出了极其简练的三个字回复：“我们没准备好。”",
-    "field": "FIELD_COGNITION",
     "mechanism": "MECH_COLLOCATION",
-    "taxonomy_notes": "选项在句法结构、及物性或介词搭配习惯上存在严格限制。",
+    "taxonomy_notes": "修饰极度简练的回答 'a three-word reply: We weren't ready'，典故源自斯巴达人语言风格。",
     "legacy_id": "tem8_10_1"
+  },
+  {
+    "id": "tem8_col_004",
+    "group_id": 112,
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "level": "TEM-8",
+    "target_word": "perfunctory",
+    "question": "Exhausted from the long shift, the border guard gave only a ___ glance at their passports before waving the convoy through.",
+    "options": [
+      "perfunctory",
+      "peremptory",
+      "cursory",
+      "imperative"
+    ],
+    "answer": "perfunctory",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配例行公事敷衍走过场 'gave only a perfunctory glance... waving the convoy through'。",
+    "distractor_analysis": {
+      "perfunctory": "adj. 专指“例行公事、敷衍应付的”（perfunctory inspection/glance），缺乏责任心与专注。",
+      "peremptory": "adj. 专横跋扈、不容置疑，不能修饰例行敷衍的眼神扫视。",
+      "cursory": "adj. 虽指粗略，但强调动作速度快，不如 perfunctory 强烈体现“敷衍渎职、应付差事”的态度。",
+      "imperative": "adj. 紧迫的、必要的，语意不合。"
+    },
+    "translation": "长时间执勤已精疲力竭，边防守卫只是敷衍草率地瞥了一眼他们的护照，便挥手示意车队通过。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "搭配例行公事敷衍走过场 'gave only a perfunctory glance... waving the convoy through'。",
+    "legacy_id": "tem8_12_2"
+  },
+  {
+    "id": "tem8_col_005",
+    "group_id": 113,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quash",
+    "question": "The Supreme Court acted decisively to ___ the lower tribunal's controversial ruling, citing severe constitutional violations.",
+    "options": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "最高法院撤销下级法庭判决 'The Supreme Court ... ruling'，司法撤销判决专属动宾搭配。",
+    "distractor_analysis": {
+      "quash": "v. 专有法律审判术语，指“由上级法院依法宣布撤销、作废判决或传票”（quash a verdict/ruling/subpoena）。",
+      "quell": "v. 侧重武力平息暴乱、骚乱或平复内心强烈恐惧（quell riots/fears）。",
+      "suppress": "v. 泛指国家机器镇压起义或压抑言论出版自由。",
+      "stifle": "v. 侧重物理使窒息或扼杀新生创造力、打哈欠（stifle yawn/creativity）。"
+    },
+    "translation": "最高法院采取果断行动撤销了下级法庭的争议性裁决，理由是存在严重的违宪行为。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "最高法院撤销下级法庭判决 'The Supreme Court ... ruling'，司法撤销判决专属动宾搭配。",
+    "legacy_id": "tem8_13_1"
+  },
+  {
+    "id": "tem8_col_006",
+    "group_id": 113,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quell",
+    "question": "The newly deployed peacekeeping troops succeeded in their mission to ___ the violent civil unrest engulfing the port city.",
+    "options": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quell",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "搭配平息武装骚乱暴动 'peacekeeping troops ... violent civil unrest'。",
+    "distractor_analysis": {
+      "quell": "v. 经典军事政经动宾搭配，专指“武力平定骚乱、平息暴力暴动”（quell unrest/rebellion/riots）。",
+      "quash": "v. 专用于司法审判撤销判决，或压制非武装的谣言/疑虑。",
+      "stifle": "v. 扼杀、使窒息，不能搭配大规模城市武装骚乱。",
+      "suppress": "v. 镇压，语义偏向高压政治统治，语境搭配不如 quell civil unrest 权威地道。"
+    },
+    "translation": "新部署的维和部队成功完成了使命，平息了席卷这座港口城市的暴力民间骚乱。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "搭配平息武装骚乱暴动 'peacekeeping troops ... violent civil unrest'。",
+    "legacy_id": "tem8_13_2"
+  },
+  {
+    "id": "tem8_col_007",
+    "group_id": 117,
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "level": "TEM-8",
+    "target_word": "volatile",
+    "question": "Financial authorities abruptly halted trading after a spike in geopolitical tensions made the commodities market dangerously ___.",
+    "options": [
+      "capricious",
+      "mercurial",
+      "volatile",
+      "erratic"
+    ],
+    "answer": "volatile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "大宗商品金融市场动荡不稳定 'commodities market dangerously volatile'。",
+    "distractor_analysis": {
+      "volatile": "adj. 权威财经政经核心用词，固定搭配市场、局势易爆剧烈波动（volatile market/situation）。",
+      "mercurial": "adj. 专指人物性格多变，不修饰宏观大宗商品交易市场。",
+      "capricious": "adj. 强调个体主观任性冲动，缺乏金融暴烈波动的严密性。",
+      "erratic": "adj. 侧重偏离常规轨迹，不如 volatile 传神表达暴跌暴涨的危险态势。"
+    },
+    "translation": "在地缘政治紧张局势骤然升级导致大宗商品市场出现极度危险的剧烈动荡后，金融监管机构紧急叫停了交易。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "大宗商品金融市场动荡不稳定 'commodities market dangerously volatile'。",
+    "legacy_id": "tem8_17_2"
+  },
+  {
+    "id": "tem8_col_008",
+    "group_id": 118,
+    "group_name": "connive, conspire, collude, scheme",
+    "level": "TEM-8",
+    "target_word": "connive",
+    "question": "Whistleblowers alleged that senior port inspectors had actively ___ at contraband smuggling by deliberately disabling security scanners.",
+    "options": [
+      "connive",
+      "conspire",
+      "collude",
+      "scheme"
+    ],
+    "answer": "connive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "固定介词搭配 'connive AT contraband smuggling'，指放任纵容默许违法行为。",
+    "distractor_analysis": {
+      "connive": "v. 专八高频搭配动词，固定接介词 AT（connive at sth.），专指“默许、纵容、包庇罪行”（睁一只眼闭一只眼）。",
+      "conspire": "v. 密谋、图谋，接 with sb. 或 to do sth.，不搭配 at contraband。",
+      "collude": "v. 串通勾结，通常接 with 或 in，不接 at。",
+      "scheme": "v. 耍阴谋密谋，及物动词或接 for/to do。"
+    },
+    "translation": "举报人指控资深港口稽查员故意关闭安检扫描仪，公然对违禁品走私活动予以默许纵容。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "固定介词搭配 'connive AT contraband smuggling'，指放任纵容默许违法行为。",
+    "legacy_id": "tem8_18_1"
+  },
+  {
+    "id": "tem8_col_009",
+    "group_id": 118,
+    "group_name": "connive, conspire, collude, scheme",
+    "level": "TEM-8",
+    "target_word": "collude",
+    "question": "Antitrust regulators penalized the telecom giants after evidence confirmed they had secretly ___ to fix mobile data prices.",
+    "options": [
+      "connive",
+      "conspire",
+      "collude",
+      "scheme"
+    ],
+    "answer": "collude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "反垄断寡头共谋固定搭配 'collude to fix prices'（反垄断价格串通）。",
+    "distractor_analysis": {
+      "collude": "v. 反垄断法与政经专用术语，专指寡头企业之间“暗中勾结、非法串通”（collude to fix prices/rig bids）。",
+      "connive": "v. 纵容默许渎职，不指企业间主动协议串通控价。",
+      "conspire": "v. 泛指密谋犯罪，商业反垄断语境专有程度不如 collude。",
+      "scheme": "v. 暗中策划，语阶偏通用口语色彩。"
+    },
+    "translation": "反垄断监管机构在掌握确凿证据证实数家电信巨头暗中非法串通操纵移动数据价格后，对其处以了巨额罚款。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "反垄断寡头共谋固定搭配 'collude to fix prices'（反垄断价格串通）。",
+    "legacy_id": "tem8_18_2"
+  },
+  {
+    "id": "tem8_col_010",
+    "group_id": 119,
+    "group_name": "wreak, inflict, impose, execute",
+    "level": "TEM-8",
+    "target_word": "wreak",
+    "question": "The catastrophic cyclone made landfall at midnight, ___ unprecedented havoc across the unfortified agricultural heartland.",
+    "options": [
+      "wreak",
+      "inflict",
+      "impose",
+      "execute"
+    ],
+    "answer": "wreak",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "英语最经典强连带动宾搭配之一 'wreak havoc'（造成毁灭性破坏）。",
+    "distractor_analysis": {
+      "wreak": "v. 专八顶级固定动宾连带（Lexical Priming），必考搭配 'wreak havoc/destruction/vengeance'（造成浩劫/肆虐破坏）。",
+      "inflict": "v. 接 pain, injury, damage, defeat upon sb.，不接 havoc。",
+      "impose": "v. 强加关税、制裁或限制（impose tariffs/sanctions）。",
+      "execute": "v. 执行命令、处决犯人，语意不合。"
+    },
+    "translation": "这场灾难性的飓风在半夜登陆，对未设防的农业腹地造成了前所未有的毁灭性浩劫。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "英语最经典强连带动宾搭配之一 'wreak havoc'（造成毁灭性破坏）。",
+    "legacy_id": "tem8_19_1"
+  },
+  {
+    "id": "tem8_col_011",
+    "group_id": 119,
+    "group_name": "wreak, inflict, impose, execute",
+    "level": "TEM-8",
+    "target_word": "inflict",
+    "question": "The drone strikes were calculated to ___ maximum casualties upon the entrenched command post while minimizing civilian harm.",
+    "options": [
+      "wreak",
+      "inflict",
+      "impose",
+      "execute"
+    ],
+    "answer": "inflict",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "搭配给予敌方沉重打击或伤亡 'inflict maximum casualties upon sb.'。",
+    "distractor_analysis": {
+      "inflict": "v. 军事与法律标准搭配，指主动施加打击、伤亡或创伤（inflict casualties/damage/punishment UPON sb.）。",
+      "wreak": "v. 专配 havoc/vengeance，不可接 casualties 作为直接宾语。",
+      "impose": "v. 强制推行制度法令，不指造成肉体伤亡。",
+      "execute": "v. 执行任务或死刑处决，语法结构不同。"
+    },
+    "translation": "这次无人机精确打击旨在对固守的指挥所造成最大程度的伤亡，同时将对平民的附带伤害降至最低。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "搭配给予敌方沉重打击或伤亡 'inflict maximum casualties upon sb.'。",
+    "legacy_id": "tem8_19_2"
+  },
+  {
+    "id": "tem8_col_012",
+    "group_id": 120,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "broker",
+    "question": "After seventy-two hours of intense diplomatic deadlock, the United Nations envoy successfully ___ a fragile temporary ceasefire.",
+    "options": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "answer": "broker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "外交居中斡旋促成协议停火经典动宾连带 'broker a fragile ceasefire/truce/agreement'。",
+    "distractor_analysis": {
+      "broker": "v. 高阶外刊政经核心动词，专指外交家或斡旋者“居中促成、斡旋达成重大协议”（broker a ceasefire/peace/deal）。",
+      "negotiate": "v. 谈判协商，主语多为争端当事方本身，作为及物动词时不如 broker a ceasefire 强调第三方的穿梭斡旋。",
+      "mediate": "v. 调解居中（mediate between parties），通常不直接以协议或停火作为宾语。",
+      "arbitrate": "v. 正式仲裁裁决（arbitrate disputes），带有准司法强制裁决属性。"
+    },
+    "translation": "在长达七十二小时剑拔弩张的外交僵局之后，联合国特使终于成功斡旋达成了一项脆弱的临时停火协议。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "外交居中斡旋促成协议停火经典动宾连带 'broker a fragile ceasefire/truce/agreement'。",
+    "legacy_id": "tem8_20_1"
   }
 ]

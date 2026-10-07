@@ -1,1 +1,263 @@
-[]
+[
+  {
+    "id": "tem8_reg_001",
+    "group_id": 102,
+    "group_name": "ephemeral, transient, fleeting, evanescent",
+    "level": "TEM-8",
+    "target_word": "ephemeral",
+    "question": "In the fast-paced age of social media, internet viral fame is notoriously ___, often vanishing after only a few days in the spotlight.",
+    "options": [
+      "ephemeral",
+      "transient",
+      "fleeting",
+      "evanescent"
+    ],
+    "answer": "ephemeral",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "形容网络流行热度与聚光灯关注度生命周期短暂（vanishing after only a few days in the spotlight）。",
+    "distractor_analysis": {
+      "ephemeral": "adj. 最常用于形容名利、潮流或热度的“生命周期极短”，如昙花一现（与后文 a few days 严密呼应）。",
+      "evanescent": "adj. 强调物理上的消散隐没（如晨雾、泡沫），不用于社会文化热点现象。",
+      "transient": "adj. 强调过境、流动性或驻留短暂。",
+      "fleeting": "adj. 强调时间流逝之快或瞥视的一瞬间。"
+    },
+    "translation": "在快节奏的社交媒体时代，网络爆红往往是众所周知的昙花一现，在聚光灯下不过停留寥寥数日便销声匿迹。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "形容网络流行热度与聚光灯关注度生命周期短暂（vanishing after only a few days in the spotlight）。",
+    "legacy_id": "tem8_2_2"
+  },
+  {
+    "id": "tem8_reg_002",
+    "group_id": 103,
+    "group_name": "disparage, denigrate, belittle, deprecate",
+    "level": "TEM-8",
+    "target_word": "deprecate",
+    "question": "Known for his modesty, the distinguished scholar had a charming habit to ___ his own groundbreaking contributions to modern linguistics.",
+    "options": [
+      "disparage",
+      "denigrate",
+      "belittle",
+      "deprecate"
+    ],
+    "answer": "deprecate",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "前文 'Known for his modesty'（以谦逊著称）明确判定为学者自谦贬抑，属文雅高阶自谦语体。",
+    "distractor_analysis": {
+      "deprecate": "v. 用于自谦语境时，表示“谦逊地贬抑自身价值”，与前文 modesty 形成严密语境呼应。",
+      "denigrate": "v. 恶意抹黑诽谤，不可能用于学者对自身谦逊的自述。",
+      "disparage": "v. 带有蔑视贬低色彩，语感偏向攻讦他人。",
+      "belittle": "v. 贬低轻视，语域不如 deprecate 高级和文雅。"
+    },
+    "translation": "这位著名的学者以谦逊著称，有着一种自我贬抑、谦虚看待自己在现代语言学开创性贡献的可爱习惯。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "前文 'Known for his modesty'（以谦逊著称）明确判定为学者自谦贬抑，属文雅高阶自谦语体。",
+    "legacy_id": "tem8_3_2"
+  },
+  {
+    "id": "tem8_reg_003",
+    "group_id": 106,
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "level": "TEM-8",
+    "target_word": "assiduous",
+    "question": "Through decades of ___ archival research and relentless attention to detail, she uncovered the long-forgotten manuscripts of the Renaissance poet.",
+    "options": [
+      "assiduous",
+      "sedulous",
+      "diligent",
+      "industrious"
+    ],
+    "answer": "assiduous",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配学术文献考证 'archival research and relentless attention to detail'，属于严谨考证的高阶学术语域。",
+    "distractor_analysis": {
+      "assiduous": "adj. 专八高阶学术用语，强调在学术考证、精细任务中“持之以恒、极其注重细节且一丝不苟”（搭配 attention to detail 是经典考点）。",
+      "industrious": "adj. 侧重体力劳动或工农生产的勤奋耐劳（如 an industrious worker）。",
+      "diligent": "adj. 通用基础词汇，偏重认真好学或克尽职守，学术语域不如 assiduous 精妙。",
+      "sedulous": "adj. 偏向坚持不懈的刻苦模仿或繁复操作，在学术文献档案研究搭配中频次略逊于 assiduous。"
+    },
+    "translation": "经过数十年一丝不苟的档案文献研究以及对细节坚持不懈的执着，她发掘出了这位文艺复兴时期诗人被遗忘已久的手稿。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "搭配学术文献考证 'archival research and relentless attention to detail'，属于严谨考证的高阶学术语域。",
+    "legacy_id": "tem8_6_1"
+  },
+  {
+    "id": "tem8_reg_004",
+    "group_id": 107,
+    "group_name": "supercilious, disdainful, haughty, arrogant",
+    "level": "TEM-8",
+    "target_word": "haughty",
+    "question": "Accustomed to courtly deference, the dowager duchess maintained a ___ aloofness, refusing to engage with anyone beneath her noble pedigree.",
+    "options": [
+      "supercilious",
+      "disdainful",
+      "haughty",
+      "arrogant"
+    ],
+    "answer": "haughty",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配门第身份孤傲 'courtly deference, maintained a haughty aloofness... beneath her noble pedigree'。",
+    "distractor_analysis": {
+      "haughty": "adj. 专指因高贵出身、特权或优越社会地位而产生的“贵族式孤高冷傲、目中无人”（haughty aloofness/manner）。",
+      "supercilious": "adj. 侧重挑眉冷笑的具象神态，不特指门第阶层的孤傲冷漠。",
+      "arrogant": "adj. 泛指自负狂妄，缺乏贵族阶级特权文体色彩。",
+      "disdainful": "adj. 侧重鄙视与嫌恶情绪。"
+    },
+    "translation": "习惯了宫廷式尊崇的公爵遗孀保持着一种贵族式的孤高冷傲，拒绝与任何门第地位低于她的人打交道。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "搭配门第身份孤傲 'courtly deference, maintained a haughty aloofness... beneath her noble pedigree'。",
+    "legacy_id": "tem8_7_2"
+  },
+  {
+    "id": "tem8_reg_005",
+    "group_id": 109,
+    "group_name": "placate, appease, mollify, propitiate",
+    "level": "TEM-8",
+    "target_word": "propitiate",
+    "question": "In ancient times, the tribe would sacrifice their finest cattle on the sacred altar in an effort to ___ the wrath of the tempest gods.",
+    "options": [
+      "placate",
+      "appease",
+      "mollify",
+      "propitiate"
+    ],
+    "answer": "propitiate",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "祭坛祭神献祭语境 'sacrifice cattle on the sacred altar to the gods'，属宗教学术祭神专有语域。",
+    "distractor_analysis": {
+      "propitiate": "v. 专用于宗教、神话祭祀场景，指“通过供奉献祭来抚慰神明或超自然力量以求宽恕”（后文 sacrifice on altar to gods 为绝对线索）。",
+      "appease": "v. 政治外交领域的“绥靖、姑息侵略者”，通过割让原则换取暂时苟安。",
+      "placate": "v. 侧重安抚发怒的顾客、民众或抗议者（如 placate angry customers）。",
+      "mollify": "v. 侧重平息肉体伤痛或安抚个体受挫的激烈情绪。"
+    },
+    "translation": "在远古时代，部落会在神圣的祭坛上宰杀最好的牛只作为祭品，试图借此平息风暴之神的怒火。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "祭坛祭神献祭语境 'sacrifice cattle on the sacred altar to the gods'，属宗教学术祭神专有语域。",
+    "legacy_id": "tem8_9_1"
+  },
+  {
+    "id": "tem8_reg_006",
+    "group_id": 114,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "level": "TEM-8",
+    "target_word": "sensuous",
+    "question": "John Keats's Romantic verse is widely celebrated for its rich, ___ imagery that enchants the ears, eyes, and tactile imagination of the reader.",
+    "options": [
+      "sensuous",
+      "sensual",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "answer": "sensuous",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰济慈浪漫主义诗歌的感官审美意象 'Romantic verse ... imagery that enchants ears, eyes, and tactile imagination'。",
+    "distractor_analysis": {
+      "sensuous": "adj. 弥尔顿创造的高雅审美词，专指“文学艺术引发的丰富感官愉悦美感（五官审美享受）”，纯粹高雅且毫无肉欲下流色彩。",
+      "sensual": "adj. 形似词，侧重“肉欲的、肉体享乐的”，通常带有放荡沉溺的贬义色彩（sensual pleasures）。",
+      "aesthetic": "adj. 美学的、审美的，偏哲学抽象范畴，不如 sensuous 体现具体五官通感的生动细腻。",
+      "voluptuous": "adj. 丰满性感的、酒池肉林的奢靡肉欲享受。"
+    },
+    "translation": "约翰·济慈的浪漫主义诗篇以其丰富而通感的感官审美意象著称，令读者的耳朵、眼睛及触觉想象沉醉其中。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "修饰济慈浪漫主义诗歌的感官审美意象 'Romantic verse ... imagery that enchants ears, eyes, and tactile imagination'。",
+    "legacy_id": "tem8_14_1"
+  },
+  {
+    "id": "tem8_reg_007",
+    "group_id": 115,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "judicial",
+    "question": "Civil rights advocacy groups petitioned the European Court of Human Rights seeking ___ review of the newly passed surveillance act.",
+    "options": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "judicial",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "法学公文专有固定搭配 'seeking judicial review'（申请司法审查）。",
+    "distractor_analysis": {
+      "judicial": "adj. 法律与宪法专有术语，固定搭配司法审查（judicial review）及司法机构（judicial branch）。",
+      "judicious": "adj. 形似词，指头脑明智审慎，不可与 review 组合为专有法学名词。",
+      "prudent": "adj. 谨慎的，非公文专有名词。",
+      "legislative": "adj. 立法的，与法庭司法审查（judicial review）性质相反。"
+    },
+    "translation": "民权倡导组织向欧洲人权法院提起申诉，请求对新近通过的监控法案进行司法审查。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "法学公文专有固定搭配 'seeking judicial review'（申请司法审查）。",
+    "legacy_id": "tem8_15_2"
+  },
+  {
+    "id": "tem8_reg_008",
+    "group_id": 117,
+    "group_name": "capricious, mercurial, volatile, erratic",
+    "level": "TEM-8",
+    "target_word": "mercurial",
+    "question": "Known for his ___ temperament, the theater director could pivot in seconds from radiant jubilation to thunderous, screaming fury.",
+    "options": [
+      "capricious",
+      "mercurial",
+      "volatile",
+      "erratic"
+    ],
+    "answer": "mercurial",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "形容艺术名家性情如水银般阴晴不定 'mercurial temperament ... pivot in seconds from jubilation to fury'。",
+    "distractor_analysis": {
+      "mercurial": "adj. 词源出自墨丘利神（水银），专指人的才华性格“敏捷多变、喜怒无常、阴晴莫测”（mercurial temperament）。",
+      "volatile": "adj. 偏向政经金融或化学气体的易挥发、暴烈不稳定（volatile markets）。",
+      "capricious": "adj. 强调任性胡来、毫无根据地一时冲动改变主意。",
+      "erratic": "adj. 侧重运行轨道、节律古怪不稳定，偏机械属性。"
+    },
+    "translation": "这位戏剧导演以喜怒无常的性情著称，几秒钟内便能从容光焕发的狂喜突变为雷霆万钧的狂怒。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "形容艺术名家性情如水银般阴晴不定 'mercurial temperament ... pivot in seconds from jubilation to fury'。",
+    "legacy_id": "tem8_17_1"
+  },
+  {
+    "id": "tem8_reg_009",
+    "group_id": 120,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "arbitrate",
+    "question": "The international shipping contract stipulates that any maritime salvage disputes must be referred to a London tribunal to ___.",
+    "options": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "answer": "arbitrate",
+    "primary_mechanism": "MECH_REGISTER",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "合同法律争议移交独立法庭裁决 'stipulates that disputes must be referred to a tribunal to arbitrate'。",
+    "distractor_analysis": {
+      "arbitrate": "v. 司法与国际商事公文专有动词，指作为第三方仲裁员依法“仲裁、公断纠纷”（arbitrate disputes），裁决具有法律约束力。",
+      "broker": "v. 促成商业交易或停火协议，不用于法庭对纠纷的司法仲裁。",
+      "mediate": "v. 民间调解，其结果无强制法律效力。",
+      "negotiate": "v. 协商，由争议双方当事人主导。"
+    },
+    "translation": "这份国际航运合同明确规定，任何海难救助纠纷均须移交伦敦仲裁庭予以法定仲裁。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "合同法律争议移交独立法庭裁决 'stipulates that disputes must be referred to a tribunal to arbitrate'。",
+    "legacy_id": "tem8_20_2"
+  }
+]

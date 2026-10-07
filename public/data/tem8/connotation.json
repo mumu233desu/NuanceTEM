@@ -1,28 +1,205 @@
 [
   {
     "id": "tem8_pro_001",
+    "group_id": 101,
+    "group_name": "alleviate, mitigate, palliate, soothe",
+    "level": "TEM-8",
+    "target_word": "palliate",
+    "question": "The economic reform was merely a temporary compromise intended to ___ the acute social discontent rather than solve the underlying crisis.",
+    "options": [
+      "alleviate",
+      "mitigate",
+      "palliate",
+      "soothe"
+    ],
+    "answer": "palliate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "后文 'rather than solve the underlying crisis'（而非解决根本危机）是绝对排他线索，专指治标不治本的敷衍妥协。",
+    "distractor_analysis": {
+      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协来暂时缓和尖锐矛盾或病痛（后文 rather than solve 形成绝对排他）。",
+      "alleviate": "v. 侧重实质性减轻痛苦、贫困或紧迫症状（alleviate poverty/suffering），而非虚与委蛇的治标敷衍。",
+      "mitigate": "v. 常用于法律、风险、气候等政经领域，指主动降低危害严重性（mitigate the impact/risk），不合治标妥协的语境。",
+      "soothe": "v. 侧重抚慰神经、平息焦虑或缓和肉体灼痛，偏向生理或感官的安抚。"
+    },
+    "translation": "这项经济改革只是一种权宜妥协，旨在姑息缓和尖锐的社会不满情绪，而不是解决根本危机。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文 'rather than solve the underlying crisis'（而非解决根本危机）是绝对排他线索，专指治标不治本的敷衍妥协。",
+    "legacy_id": "tem8_1_1"
+  },
+  {
+    "id": "tem8_pro_002",
     "group_id": 103,
     "group_name": "disparage, denigrate, belittle, deprecate",
     "level": "TEM-8",
-    "target_word": "deprecate",
-    "question": "Known for his modesty, the distinguished scholar had a charming habit to ___ his own groundbreaking contributions to modern linguistics.",
+    "target_word": "denigrate",
+    "question": "The political campaign took a malicious turn when the rival party launched ads designed to completely ___ the candidate's moral integrity and character.",
     "options": [
       "disparage",
       "denigrate",
       "belittle",
       "deprecate"
     ],
-    "answer": "deprecate",
-    "distractor_analysis": {
-      "deprecate": "v. 用于自谦语境时，表示“谦逊地贬抑自身价值”，与前文 modesty 形成严密语境呼应。",
-      "denigrate": "v. 恶意抹黑诽谤，不可能用于学者对自身谦逊的自述。",
-      "disparage": "v. 带有蔑视贬低色彩，语感偏向攻讦他人。",
-      "belittle": "v. 贬低轻视，语域不如 deprecate 高级和文雅。"
-    },
-    "translation": "这位著名的学者以谦逊著称，有着一种自我贬抑、谦虚看待自己在现代语言学开创性贡献的可爱习惯。",
+    "answer": "denigrate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_REGISTER",
     "field": "FIELD_STANCE",
+    "anchor_clue": "修饰政治竞选中恶意攻击对手的名誉与道德操守（malicious, moral integrity and character）。",
+    "distractor_analysis": {
+      "denigrate": "v. 词源含有“抹黑、玷污”之意，语气极重，专门搭配并恶意攻击他人名誉、人格、品德（denigrate integrity/character）。",
+      "belittle": "v. 侧重在言语上“轻视、贬低他人成就的价值”（belittle sb.'s achievements）。",
+      "disparage": "v. 侧重不公平地轻蔑评价某事物的质量或地位。",
+      "deprecate": "v. 侧重表示强烈反对或自谦地自我贬抑（self-deprecating）。"
+    },
+    "translation": "当对手政党投放旨在彻底玷污抹黑该候选人道德操守与人品的恶意广告时，这场政治竞选变了味。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。",
-    "legacy_id": "tem8_3_2"
+    "taxonomy_notes": "修饰政治竞选中恶意攻击对手的名誉与道德操守（malicious, moral integrity and character）。",
+    "legacy_id": "tem8_3_1"
+  },
+  {
+    "id": "tem8_pro_003",
+    "group_id": 105,
+    "group_name": "equivocal, ambiguous, obscure, enigmatic",
+    "level": "TEM-8",
+    "target_word": "equivocal",
+    "question": "When questioned about his direct involvement in the financial scandal, the minister deliberately gave an ___ response to evade taking a firm stance.",
+    "options": [
+      "equivocal",
+      "ambiguous",
+      "obscure",
+      "enigmatic"
+    ],
+    "answer": "equivocal",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词 'deliberately'（故意地）与目的 'to evade taking a firm stance'（以逃避表态），唯一锁定政客故意含糊其辞。",
+    "distractor_analysis": {
+      "equivocal": "adj. 专指“主观上故意含糊其辞、模棱两可”（deliberately evasive），旨在推卸责任或避开正面回答（后文 deliberately 和 evade 为决定性线索）。",
+      "ambiguous": "adj. 侧重客观表达存在多种理解（可能是无意造成的歧义）。",
+      "obscure": "adj. 侧重信息晦涩艰深、难以理解，或者鲜为人知。",
+      "enigmatic": "adj. 侧重如同谜团一般神秘、令人捉摸不透（如 an enigmatic smile）。"
+    },
+    "translation": "当被问及他是否直接卷入这起金融丑闻时，部长故意给出了模棱两可的回答，以回避采取明确立场。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "副词 'deliberately'（故意地）与目的 'to evade taking a firm stance'（以逃避表态），唯一锁定政客故意含糊其辞。",
+    "legacy_id": "tem8_5_1"
+  },
+  {
+    "id": "tem8_pro_004",
+    "group_id": 108,
+    "group_name": "ubiquitous, pervasive, omnipresent, widespread",
+    "level": "TEM-8",
+    "target_word": "pervasive",
+    "question": "The stench of industrial pollution was so ___ throughout the valley that residents could smell it even inside tightly sealed rooms.",
+    "options": [
+      "ubiquitous",
+      "pervasive",
+      "omnipresent",
+      "widespread"
+    ],
+    "answer": "pervasive",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰恶臭且具有穿透性 'stench ... could smell it even inside tightly sealed rooms'，消极渗透语义韵。",
+    "distractor_analysis": {
+      "pervasive": "adj. 侧重于气味、思想、氛围像气体一样“无孔不入、渗透弥漫”（pervasive stench/influence，后文 smell inside tightly sealed 强关联）。",
+      "ubiquitous": "adj. 侧重实体物品“随处可见”（如 smartphones are ubiquitous），不形容气味的渗透性。",
+      "omnipresent": "adj. 偏宗教或哲学意义上的“无所不在”（如 God is omnipresent）。",
+      "widespread": "adj. 侧重地理分布范围广阔（如 widespread damage/criticism）。"
+    },
+    "translation": "工业污染的恶臭在整个山谷中弥漫渗透，以至于居民即使在紧闭门窗的室内也能闻到。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修饰恶臭且具有穿透性 'stench ... could smell it even inside tightly sealed rooms'，消极渗透语义韵。",
+    "legacy_id": "tem8_8_1"
+  },
+  {
+    "id": "tem8_pro_005",
+    "group_id": 109,
+    "group_name": "placate, appease, mollify, propitiate",
+    "level": "TEM-8",
+    "target_word": "appease",
+    "question": "History has repeatedly demonstrated that yielding sovereignty in a desperate attempt to ___ an aggressive dictator only invites further subjugation.",
+    "options": [
+      "placate",
+      "appease",
+      "mollify",
+      "propitiate"
+    ],
+    "answer": "appease",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "地缘政治与割让主权妥协侵略者 'yielding sovereignty ... to an aggressive dictator'，政经绥靖消极语义韵。",
+    "distractor_analysis": {
+      "appease": "v. 国际政治与历史经典专有术语，专指“绥靖政策（appeasement）”，通过违背原则的屈服妥协来姑息侵略者。",
+      "propitiate": "v. 祭祀供奉以取悦神明，不用于国际政局对独裁者的妥协。",
+      "mollify": "v. 抚慰受伤自尊或肉体创伤，语域不符。",
+      "placate": "v. 安抚商业或日常争端中的不满者，语体不够深沉严肃。"
+    },
+    "translation": "历史屡次证明，试图通过让渡主权来苟安绥靖侵略成性的独裁者，只会招致进一步的奴役与征服。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "地缘政治与割让主权妥协侵略者 'yielding sovereignty ... to an aggressive dictator'，政经绥靖消极语义韵。",
+    "legacy_id": "tem8_9_2"
+  },
+  {
+    "id": "tem8_pro_006",
+    "group_id": 114,
+    "group_name": "sensuous, sensual, aesthetic, voluptuous",
+    "level": "TEM-8",
+    "target_word": "sensual",
+    "question": "The decadent Roman banquets were notorious for indulging guests in pure, unbridled ___ excess, devoid of any intellectual or moral restraint.",
+    "options": [
+      "sensuous",
+      "sensual",
+      "aesthetic",
+      "voluptuous"
+    ],
+    "answer": "sensual",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰奢靡宴席的纯粹肉体感官放纵 'decadent banquets ... unbridled sensual excess, devoid of moral restraint'。",
+    "distractor_analysis": {
+      "sensual": "adj. 专指“肉体的、肉欲享乐的”（结合 decadent banquets 与 devoid of moral restraint 为绝对线索）。",
+      "sensuous": "adj. 强调艺术文学中的纯洁通感美，绝不用于纸醉金迷的肉体放纵贬义语境。",
+      "aesthetic": "adj. 审美的、艺术的，语意截然相反。",
+      "voluptuous": "adj. 常修饰女性身材体态丰满婀娜，不直接搭配 abstract excess。"
+    },
+    "translation": "罗马帝国颓废时期的宴会以沉溺于纯粹、肆无忌惮的肉欲享乐而臭名昭著，毫无任何精神追求或道德约束。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "修饰奢靡宴席的纯粹肉体感官放纵 'decadent banquets ... unbridled sensual excess, devoid of moral restraint'。",
+    "legacy_id": "tem8_14_2"
+  },
+  {
+    "id": "tem8_pro_007",
+    "group_id": 116,
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "level": "TEM-8",
+    "target_word": "degenerate",
+    "question": "What began as a civilized intellectual debate soon ___ into a chaotic brawl marked by personal insults and petty vitriol.",
+    "options": [
+      "deteriorate",
+      "degenerate",
+      "retrogress",
+      "decline"
+    ],
+    "answer": "degenerate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "固定搭配 'degenerate into' 蜕变堕落成低级下流的混乱打斗，贬义语义韵强烈。",
+    "distractor_analysis": {
+      "degenerate": "v. 侧重性质、品格或事态“蜕化、堕落、恶化退化为低劣下流的状态”（固定介词搭配 degenerate into insults/chaos）。",
+      "deteriorate": "v. 侧重客观状况、健康、天气或关系的“恶化变糟”，不常接 into + 混乱低级形式。",
+      "retrogress": "v. 偏向学术用语的“历史或进化倒退”，语境不符。",
+      "decline": "v. 侧重数量、威力或经济实力的“下降、衰退”。"
+    },
+    "translation": "原本一场文质彬彬的学术辩论，很快就堕落蜕变为一场充斥着人身攻击与狭隘攻讦的混乱混战。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "固定搭配 'degenerate into' 蜕变堕落成低级下流的混乱打斗，贬义语义韵强烈。",
+    "legacy_id": "tem8_16_1"
   }
 ]

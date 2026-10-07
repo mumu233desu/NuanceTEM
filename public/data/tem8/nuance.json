@@ -1,32 +1,6 @@
 [
   {
     "id": "tem8_nua_001",
-    "group_id": 101,
-    "group_name": "alleviate, mitigate, palliate, soothe",
-    "level": "TEM-8",
-    "target_word": "palliate",
-    "question": "The economic reform was merely a temporary compromise intended to ___ the acute social discontent rather than solve the underlying crisis.",
-    "options": [
-      "alleviate",
-      "mitigate",
-      "palliate",
-      "soothe"
-    ],
-    "answer": "palliate",
-    "distractor_analysis": {
-      "palliate": "v. 专指“姑息、掩饰、治标不治本”，通过表面妥协来暂时缓和尖锐矛盾或病痛（后文 rather than solve 形成绝对排他）。",
-      "alleviate": "v. 侧重减轻痛苦、负担或身体不适，通常是带来实质性的减负，而非治标不治本。",
-      "mitigate": "v. 常用于法律、风险、气候等领域，指“减轻危害程度/降低恶劣影响”（mitigate the impact/risk）。",
-      "soothe": "v. 侧重抚慰神经、平息焦虑或缓和肉体灼痛，偏向生理或感官的安抚。"
-    },
-    "translation": "这项经济改革只是一种权宜妥协，旨在姑息缓和尖锐的社会不满情绪，而不是解决根本危机。",
-    "field": "FIELD_CHANGE",
-    "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
-    "legacy_id": "tem8_1_1"
-  },
-  {
-    "id": "tem8_nua_002",
     "group_id": 102,
     "group_name": "ephemeral, transient, fleeting, evanescent",
     "level": "TEM-8",
@@ -39,6 +13,10 @@
       "evanescent"
     ],
     "answer": "evanescent",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "题干比喻 'as vapor, dissipating completely'（如水汽般消散隐没），精准对应词源像蒸汽般化为虚无的意象。",
     "distractor_analysis": {
       "evanescent": "adj. 侧重像蒸汽、薄雾或光影一样“逐渐消散并淡化成虚无”（结合后文 as vapor and dissipating 是绝对信号词）。",
       "ephemeral": "adj. 侧重指寿命极短（原意仅活一天的蜉蝣），常形容狂热、名气或流行文化只存在转瞬数日。",
@@ -46,39 +24,12 @@
       "fleeting": "adj. 侧重速度飞快、一掠而过（如 a fleeting glimpse/smile/moment）。"
     },
     "translation": "在清冷的秋日黎明，晨雾如水汽般稍纵即逝，在第一缕阳光穿透的瞬间便彻底消散。",
-    "field": "FIELD_NATURE",
     "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "taxonomy_notes": "题干比喻 'as vapor, dissipating completely'（如水汽般消散隐没），精准对应词源像蒸汽般化为虚无的意象。",
     "legacy_id": "tem8_2_1"
   },
   {
-    "id": "tem8_nua_003",
-    "group_id": 102,
-    "group_name": "ephemeral, transient, fleeting, evanescent",
-    "level": "TEM-8",
-    "target_word": "ephemeral",
-    "question": "In the fast-paced age of social media, internet viral fame is notoriously ___, often vanishing after only a few days in the spotlight.",
-    "options": [
-      "ephemeral",
-      "transient",
-      "fleeting",
-      "evanescent"
-    ],
-    "answer": "ephemeral",
-    "distractor_analysis": {
-      "ephemeral": "adj. 最常用于形容名利、潮流或热度的“生命周期极短”，如昙花一现（与后文 a few days 严密呼应）。",
-      "evanescent": "adj. 强调物理上的消散隐没（如晨雾、泡沫），不用于社会热点现象。",
-      "transient": "adj. 强调过境、流动性或驻留短暂。",
-      "fleeting": "adj. 强调时间流逝之快或瞥视的一瞬间。"
-    },
-    "translation": "在快节奏的社交媒体时代，网络爆红往往是众所周知的昙花一现，在聚光灯下不过停留寥寥数日便销声匿迹。",
-    "field": "FIELD_NATURE",
-    "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
-    "legacy_id": "tem8_2_2"
-  },
-  {
-    "id": "tem8_nua_004",
+    "id": "tem8_nua_002",
     "group_id": 104,
     "group_name": "vindicate, exonerate, acquit, absolve",
     "level": "TEM-8",
@@ -91,6 +42,10 @@
       "absolve"
     ],
     "answer": "vindicate",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "主语是市场崩盘事实，宾语是预测（vindicate his predictions），表示事实证明原论断正确无误。",
     "distractor_analysis": {
       "vindicate": "v. 侧重“事态发展证实了先前的理论/预测是正确的，为其正名”（vindicate predictions/claims/rights）。",
       "acquit": "v. 法律宣告无罪，宾语不能是抽象理论或预测 predictions。",
@@ -98,87 +53,298 @@
       "absolve": "v. 免除罪孽或法律责任，宾语必须为人或责任义务。"
     },
     "translation": "尽管十年前他非正统的经济学理论曾饱受嘲弄，但近期的一系列市场崩盘彻底证实了他的预测是正确的。",
-    "field": "FIELD_STANCE",
     "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
+    "taxonomy_notes": "主语是市场崩盘事实，宾语是预测（vindicate his predictions），表示事实证明原论断正确无误。",
     "legacy_id": "tem8_4_2"
   },
   {
-    "id": "tem8_nua_005",
+    "id": "tem8_nua_003",
     "group_id": 105,
     "group_name": "equivocal, ambiguous, obscure, enigmatic",
     "level": "TEM-8",
-    "target_word": "equivocal",
-    "question": "When questioned about his direct involvement in the financial scandal, the minister deliberately gave an ___ response to evade taking a firm stance.",
+    "target_word": "enigmatic",
+    "question": "The Mona Lisa continues to bewitch art historians primarily due to her subtle and ___ smile, whose true emotion remains an impenetrable mystery.",
     "options": [
       "equivocal",
       "ambiguous",
       "obscure",
       "enigmatic"
     ],
-    "answer": "equivocal",
-    "distractor_analysis": {
-      "equivocal": "adj. 专指“主观上故意含糊其辞、模棱两可”（deliberately evasive），旨在推卸责任或避开正面回答（后文 deliberately 和 evade 为决定性线索）。",
-      "ambiguous": "adj. 侧重客观表达存在多种理解（可能是无意造成的歧义）。",
-      "obscure": "adj. 侧重信息晦涩艰深、难以理解，或者鲜为人知。",
-      "enigmatic": "adj. 侧重如同谜团一般神秘、令人捉摸不透（如 an enigmatic smile）。"
-    },
-    "translation": "当被问及他是否直接卷入这起金融丑闻时，部长故意给出了模棱两可的回答，以回避采取明确立场。",
+    "answer": "enigmatic",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
     "field": "FIELD_COGNITION",
+    "anchor_clue": "后文 'remains an impenetrable mystery'（至今仍是一个无法参透的谜团），修饰艺术品微笑。",
+    "distractor_analysis": {
+      "enigmatic": "adj. 经典搭配用于艺术品、表情或人物性格，表示“神秘莫测、耐人寻味”（与后文 impenetrable mystery 严丝合缝）。",
+      "equivocal": "adj. 政治外交式故意模棱两可，不能形容微笑的艺术美感。",
+      "ambiguous": "adj. 侧重字面歧义，语境不协调。",
+      "obscure": "adj. 侧重偏僻无名或文本艰涩。"
+    },
+    "translation": "蒙娜丽莎之所以持续吸引着艺术史学家，主要是因为她那微妙而神秘莫测的微笑，其真实情感至今仍是一个无法参透的谜团。",
     "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
-    "legacy_id": "tem8_5_1"
+    "taxonomy_notes": "后文 'remains an impenetrable mystery'（至今仍是一个无法参透的谜团），修饰艺术品微笑。",
+    "legacy_id": "tem8_5_2"
+  },
+  {
+    "id": "tem8_nua_004",
+    "group_id": 106,
+    "group_name": "assiduous, sedulous, diligent, industrious",
+    "level": "TEM-8",
+    "target_word": "sedulous",
+    "question": "The novice essayist acquired his polished rhetorical style through the ___ imitation of Addison's prose, rewriting essays dozens of times.",
+    "options": [
+      "assiduous",
+      "sedulous",
+      "diligent",
+      "industrious"
+    ],
+    "answer": "sedulous",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配修辞摹写 'sedulous imitation of Addison's prose'，典故出自文学史中的刻苦揣摩模仿。",
+    "distractor_analysis": {
+      "sedulous": "adj. 经典文学与学术搭配，专指在学习技巧、修辞仿写或艺术训练中“孜孜不倦、精雕细琢的刻苦模仿”（sedulous imitation）。",
+      "industrious": "adj. 侧重工农产业劳动勤劳，不可用于文风修辞模仿。",
+      "diligent": "adj. 中性泛指勤奋，缺乏精雕细琢摹仿的特定意象。",
+      "assiduous": "adj. 侧重对待考据、照料细节的专心致志。"
+    },
+    "translation": "这位初涉文坛的散文家通过对艾迪生散文孜孜不倦的刻苦摹写，将散文重写数十遍，最终习得了精湛圆融的修辞风格。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "搭配修辞摹写 'sedulous imitation of Addison's prose'，典故出自文学史中的刻苦揣摩模仿。",
+    "legacy_id": "tem8_6_2"
+  },
+  {
+    "id": "tem8_nua_005",
+    "group_id": 107,
+    "group_name": "supercilious, disdainful, haughty, arrogant",
+    "level": "TEM-8",
+    "target_word": "supercilious",
+    "question": "The wealthy aristocrat cast a ___ glance down his nose at the modest cottage, as if the mere sight of poverty offended his delicate sensibilities.",
+    "options": [
+      "supercilious",
+      "disdainful",
+      "haughty",
+      "arrogant"
+    ],
+    "answer": "supercilious",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "搭配具象动作 'cast a glance down his nose'（从鼻孔里看人、扬起眉毛），直指词源挑眉目空一切之意象。",
+    "distractor_analysis": {
+      "supercilious": "adj. 词源来自“挑起眉毛（eyebrow）”，形象地指“傲慢地扬起眉毛、用鼻孔看人、目空一切”（搭配 glance down his nose 是典型形象写照）。",
+      "arrogant": "adj. 普通日常高频词，泛指狂妄自大，缺乏身体动作的具象感。",
+      "haughty": "adj. 侧重贵族式的孤高冷傲，态度矜持。",
+      "disdainful": "adj. 侧重鄙夷、嫌恶他人的轻蔑神色。"
+    },
+    "translation": "这位富有的贵族轻蔑地扬起眉毛，从鼻孔里俯视着那座简陋的小屋，仿佛仅仅看到贫困就冒犯了他那娇贵的情感。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "搭配具象动作 'cast a glance down his nose'（从鼻孔里看人、扬起眉毛），直指词源挑眉目空一切之意象。",
+    "legacy_id": "tem8_7_1"
   },
   {
     "id": "tem8_nua_006",
     "group_id": 108,
     "group_name": "ubiquitous, pervasive, omnipresent, widespread",
     "level": "TEM-8",
-    "target_word": "pervasive",
-    "question": "The stench of industrial pollution was so ___ throughout the valley that residents could smell it even inside tightly sealed rooms.",
+    "target_word": "ubiquitous",
+    "question": "Within less than two decades, handheld smartphones have transformed from luxury oddities into ___ tools found in every corner of the globe.",
     "options": [
       "ubiquitous",
       "pervasive",
       "omnipresent",
       "widespread"
     ],
-    "answer": "pervasive",
+    "answer": "ubiquitous",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "修饰实体数码产品随处可见 'smartphones ... tools found in every corner of the globe'。",
     "distractor_analysis": {
-      "pervasive": "adj. 侧重于气味、思想、氛围像气体一样“无孔不入、渗透弥漫”（pervasive stench/influence，后文 smell inside tightly sealed 强关联）。",
-      "ubiquitous": "adj. 侧重实体物品“随处可见”（如 smartphones are ubiquitous），不形容气味的渗透性。",
-      "omnipresent": "adj. 偏宗教或哲学意义上的“无所不在”（如 God is omnipresent）。",
-      "widespread": "adj. 侧重地理分布范围广阔（如 widespread damage/criticism）。"
+      "ubiquitous": "adj. 现代科技社论经典用词，专指实体物品或技术“无处不在、随处可见”（ubiquitous smartphones/computing）。",
+      "pervasive": "adj. 强调无形事物、气氛或气味的渗透性弥漫，不用于实体工具的遍及。",
+      "omnipresent": "adj. 带有神学或无所不在的抽象压迫感，语域不符。",
+      "widespread": "adj. 仅说明分布广泛，缺乏 ubiquitous 所传递的“随时随地近在眼前”的强烈冲击。"
     },
-    "translation": "工业污染的恶臭在整个山谷中弥漫渗透，以至于居民即使在紧闭门窗的室内也能闻到。",
-    "field": "FIELD_BEHAVIOR",
+    "translation": "在不到二十年的时间里，手持智能手机已从奢侈罕物演变为在全球每个角落随处可见的必备工具。",
     "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
-    "legacy_id": "tem8_8_1"
+    "taxonomy_notes": "修饰实体数码产品随处可见 'smartphones ... tools found in every corner of the globe'。",
+    "legacy_id": "tem8_8_2"
   },
   {
     "id": "tem8_nua_007",
-    "group_id": 109,
-    "group_name": "placate, appease, mollify, propitiate",
+    "group_id": 110,
+    "group_name": "reticent, taciturn, reserved, laconic",
     "level": "TEM-8",
-    "target_word": "propitiate",
-    "question": "In ancient times, the tribe would sacrifice their finest cattle on the sacred altar in an effort to ___ the wrath of the tempest gods.",
+    "target_word": "taciturn",
+    "question": "Raised in the rugged highlands, the old mountaineer was naturally ___, often spending entire days trekking without uttering a single syllable.",
     "options": [
-      "placate",
-      "appease",
-      "mollify",
-      "propitiate"
+      "reticent",
+      "taciturn",
+      "reserved",
+      "laconic"
     ],
-    "answer": "propitiate",
-    "distractor_analysis": {
-      "propitiate": "v. 专用于宗教、神话祭祀场景，指“通过供奉献祭来抚慰神明或超自然力量以求宽恕”（后文 sacrifice on altar to gods 为绝对线索）。",
-      "appease": "v. 政治外交领域的“绥靖、姑息侵略者”，通过割让原则换取暂时苟安。",
-      "placate": "v. 侧重安抚发怒的顾客、民众或抗议者（如 placate angry customers）。",
-      "mollify": "v. 侧重平息肉体伤痛或安抚个体受挫的激烈情绪。"
-    },
-    "translation": "在远古时代，部落会在神圣的祭坛上宰杀最好的牛只作为祭品，试图借此平息风暴之神的怒火。",
+    "answer": "taciturn",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
     "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "形容与生俱来的沉默寡言性格特质 'naturally ... trekking without uttering a single syllable'。",
+    "distractor_analysis": {
+      "taciturn": "adj. 强调性格气质上的“习惯性寡言少语、孤僻沉默”（a taciturn disposition），指长久的人格特征。",
+      "laconic": "adj. 侧重言辞表达上的简短精辟（a laconic comment），不直接形容终日不语的性格沉默。",
+      "reticent": "adj. 侧重克制保留，不愿畅所欲言或隐瞒信息。",
+      "reserved": "adj. 侧重彬彬有礼的矜持与内敛社交。"
+    },
+    "translation": "在这片崎岖高地长大的老登山家天生沉默寡言，经常一整天跋涉徒步却不吐露半个字句。",
     "mechanism": "MECH_NUANCE",
-    "taxonomy_notes": "核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。",
-    "legacy_id": "tem8_9_1"
+    "taxonomy_notes": "形容与生俱来的沉默寡言性格特质 'naturally ... trekking without uttering a single syllable'。",
+    "legacy_id": "tem8_10_2"
+  },
+  {
+    "id": "tem8_nua_008",
+    "group_id": 111,
+    "group_name": "ingenious, ingenuous, naive, subtle",
+    "level": "TEM-8",
+    "target_word": "ingenuous",
+    "question": "The experienced diplomats were thoroughly disarmed by the young ambassador's ___ candor, which was completely devoid of political guile.",
+    "options": [
+      "ingenious",
+      "ingenuous",
+      "naive",
+      "subtle"
+    ],
+    "answer": "ingenuous",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰坦诚且无政治心机 'candor, completely devoid of political guile'，专八核心形似词辨析。",
+    "distractor_analysis": {
+      "ingenuous": "adj. 专八高频易混形似词，指人“单纯天真、真诚坦率、毫无心机”（搭配 candor/frankness 是绝对考点）。",
+      "ingenious": "adj. 拼写仅一字之差，指方案、发明或头脑“机巧敏锐、设计精妙”（an ingenious device）。",
+      "naive": "adj. 通用词汇，多含贬义，指幼稚、缺乏世故甚至愚蠢可欺。",
+      "subtle": "adj. 巧妙微妙、难以捉摸，与后文 devoid of guile（毫无心机）语义冲突。"
+    },
+    "translation": "经验丰富的外交官们被这位年轻大使那毫不掩饰、毫无政治心机的单纯真诚彻底卸下了防备。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "修饰坦诚且无政治心机 'candor, completely devoid of political guile'，专八核心形似词辨析。",
+    "legacy_id": "tem8_11_1"
+  },
+  {
+    "id": "tem8_nua_009",
+    "group_id": 111,
+    "group_name": "ingenious, ingenuous, naive, subtle",
+    "level": "TEM-8",
+    "target_word": "ingenious",
+    "question": "Confronted with an unexpected power blackout, the aerospace engineer devised an ___ workaround that kept life-support systems operational.",
+    "options": [
+      "ingenious",
+      "ingenuous",
+      "naive",
+      "subtle"
+    ],
+    "answer": "ingenious",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配技术应急方案 'devised an ingenious workaround that kept life-support systems operational'。",
+    "distractor_analysis": {
+      "ingenious": "adj. 专指构思、发明或解题构想“精巧独创、设计巧妙”（an ingenious solution/workaround）。",
+      "ingenuous": "adj. 形似词，指人天真单纯、毫不做作，不能修饰工程解决方案。",
+      "naive": "adj. 幼稚天真，语意相悖。",
+      "subtle": "adj. 侧重隐约细微，不如 ingenious 强调机敏的创造力。"
+    },
+    "translation": "面对突如其来的电力中断，这位航天工程师设计出了一个极其精巧的应急方案，使得生命维持系统得以持续运转。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "搭配技术应急方案 'devised an ingenious workaround that kept life-support systems operational'。",
+    "legacy_id": "tem8_11_2"
+  },
+  {
+    "id": "tem8_nua_010",
+    "group_id": 112,
+    "group_name": "perfunctory, peremptory, cursory, imperative",
+    "level": "TEM-8",
+    "target_word": "peremptory",
+    "question": "The military governor issued a ___ decree ordering all foreign nationals to evacuate the province immediately, brooking no debate or delay.",
+    "options": [
+      "perfunctory",
+      "peremptory",
+      "cursory",
+      "imperative"
+    ],
+    "answer": "peremptory",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "专横号令且不容辩驳 'brooking no debate or delay'（不容辩驳与延误），命令口吻绝对断然。",
+    "distractor_analysis": {
+      "peremptory": "adj. 专八高频形似词，指态度或命令“专横跋扈的、强制不容置疑的”（结合 brooking no debate 是标准信号词）。",
+      "perfunctory": "adj. 形似词，指做事“敷衍了事的、例行公事毫无热情的”（如 a perfunctory nod）。",
+      "cursory": "adj. 侧重动作飞快匆忙、浮于表面（a cursory glance）。",
+      "imperative": "adj. 必要的、当务之急的，缺乏语气上的专横独断色彩。"
+    },
+    "translation": "军政长官发布了一项不容抗辩的严苛法令，命令所有外国公民立即撤离该省，不容任何争论与延误。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "专横号令且不容辩驳 'brooking no debate or delay'（不容辩驳与延误），命令口吻绝对断然。",
+    "legacy_id": "tem8_12_1"
+  },
+  {
+    "id": "tem8_nua_011",
+    "group_id": 115,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "judicious",
+    "question": "Through a remarkably ___ allocation of capital reserves during the market crash, the executive steered the conglomerate clear of bankruptcy.",
+    "options": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "judicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰资本调配决策明智审慎 'judicious allocation of capital reserves'，专八核心形似词。",
+    "distractor_analysis": {
+      "judicious": "adj. 专八核心形似词，指判断、选择或决策“审慎明智、深谋远虑的”（judicious allocation/choice）。",
+      "judicial": "adj. 拼写极为相似，专指“司法的、审判的、法官的”（judicial review/system），不可形容商业资本分配。",
+      "prudent": "adj. 偏防守稳健，在财经政经决策搭配中不及 judicious 体现精妙判断力。",
+      "legislative": "adj. 立法的，语域完全不符。"
+    },
+    "translation": "通过在市场崩溃期间对资本储备极其明智审慎的调配，这位高管带领整个企业集团避开了破产厄运。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "修饰资本调配决策明智审慎 'judicious allocation of capital reserves'，专八核心形似词。",
+    "legacy_id": "tem8_15_1"
+  },
+  {
+    "id": "tem8_nua_012",
+    "group_id": 116,
+    "group_name": "deteriorate, degenerate, retrogress, decline",
+    "level": "TEM-8",
+    "target_word": "deteriorate",
+    "question": "As the extreme heatwave entered its fourth consecutive week, the patient's respiratory condition ___ at an alarming rate.",
+    "options": [
+      "deteriorate",
+      "degenerate",
+      "retrogress",
+      "decline"
+    ],
+    "answer": "deteriorate",
+    "primary_mechanism": "MECH_NUANCE",
+    "secondary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "搭配病情与客观身体状况恶化 'respiratory condition deteriorated at an alarming rate'。",
+    "distractor_analysis": {
+      "deteriorate": "v. 经典医学与自然环境用词，专指健康状况、病情、气候条件“不断恶化、每况愈下”（condition deteriorated）。",
+      "degenerate": "v. 侧重道德品质上的败坏或事态变质，不形容单纯生理病理指标变差。",
+      "retrogress": "v. 历史倒退，不用于生命体征。",
+      "decline": "v. 虽可形容衰落，但语气不如 deteriorate 紧迫和严重。"
+    },
+    "translation": "随着极端热浪进入连续第四周，这名患者的呼吸系统病情以惊人的速度恶化。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "搭配病情与客观身体状况恶化 'respiratory condition deteriorated at an alarming rate'。",
+    "legacy_id": "tem8_16_2"
   }
 ]
