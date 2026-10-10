@@ -1,0 +1,188 @@
+{
+  "batch_id": 25,
+  "chunk_name": "chunk_25",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 251,
+      "group_name": "molest, sic, beset, ravish",
+      "target_word": "molest",
+      "words": [
+        "molest",
+        "sic",
+        "beset",
+        "ravish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "molest 与近义词辨析",
+      "synset_definition": "harass or assault sexually; make indecent advances to",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 252,
+      "group_name": "mope, swoop, fidget, flurry",
+      "target_word": "mope",
+      "words": [
+        "mope",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mope 与近义词辨析",
+      "synset_definition": "move around slowly and aimlessly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 253,
+      "group_name": "mumble, blurt, whiff, snivel",
+      "target_word": "mumble",
+      "words": [
+        "mumble",
+        "blurt",
+        "whiff",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mumble 与近义词辨析",
+      "synset_definition": "talk indistinctly; usually in a low voice",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 254,
+      "group_name": "nudge, prod, shove, jostle",
+      "target_word": "nudge",
+      "words": [
+        "nudge",
+        "prod",
+        "shove",
+        "jostle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "nudge 与近义词辨析",
+      "synset_definition": "to push against gently",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 255,
+      "group_name": "ooze, crap, exude, purge",
+      "target_word": "ooze",
+      "words": [
+        "ooze",
+        "crap",
+        "exude",
+        "purge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ooze 与近义词辨析",
+      "synset_definition": "release (a liquid) in drops or small quantities",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 256,
+      "group_name": "pivot, flip, avert, swivel",
+      "target_word": "pivot",
+      "words": [
+        "pivot",
+        "flip",
+        "avert",
+        "swivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pivot 与近义词辨析",
+      "synset_definition": "turn on a pivot",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 257,
+      "group_name": "plead, profess, sanctify, consecrate",
+      "target_word": "plead",
+      "words": [
+        "plead",
+        "profess",
+        "sanctify",
+        "consecrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "plead 与近义词辨析",
+      "synset_definition": "enter a plea, as in courts of law",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 258,
+      "group_name": "protrude, furl, flex, bulge",
+      "target_word": "protrude",
+      "words": [
+        "protrude",
+        "furl",
+        "flex",
+        "bulge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "protrude 与近义词辨析",
+      "synset_definition": "swell or protrude outwards",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 259,
+      "group_name": "quell, quench, dampen, smother",
+      "target_word": "quell",
+      "words": [
+        "quell",
+        "quench",
+        "dampen",
+        "smother"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "quell 与近义词辨析",
+      "synset_definition": "suppress or crush completely",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 260,
+      "group_name": "racket, honk, creak, crunch",
+      "target_word": "racket",
+      "words": [
+        "racket",
+        "honk",
+        "creak",
+        "crunch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "racket 与近义词辨析",
+      "synset_definition": "make loud and annoying noises",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

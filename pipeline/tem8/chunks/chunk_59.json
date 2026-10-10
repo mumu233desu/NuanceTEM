@@ -1,0 +1,188 @@
+{
+  "batch_id": 59,
+  "chunk_name": "chunk_59",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 591,
+      "group_name": "evangelist, rabbi, reverend, patriarch",
+      "target_word": "evangelist",
+      "words": [
+        "evangelist",
+        "rabbi",
+        "reverend",
+        "patriarch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "evangelist 与近义词辨析",
+      "synset_definition": "(when capitalized) any of the spiritual leaders who are assumed to be authors of the Gospels in the New Testament: Matthew, Mark, Luke, and John",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 592,
+      "group_name": "exaltation, node, apex, zenith",
+      "target_word": "exaltation",
+      "words": [
+        "exaltation",
+        "node",
+        "apex",
+        "zenith"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exaltation 与近义词辨析",
+      "synset_definition": "the location of a planet in the zodiac at which it is believed to exert its maximum influence",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 593,
+      "group_name": "feint, gambit, gimmick, artifice",
+      "target_word": "feint",
+      "words": [
+        "feint",
+        "gambit",
+        "gimmick",
+        "artifice"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "feint 与近义词辨析",
+      "synset_definition": "any distracting or deceptive maneuver (as a mock attack)",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 594,
+      "group_name": "felicity, ecstasy, rapture, exaltation",
+      "target_word": "felicity",
+      "words": [
+        "felicity",
+        "ecstasy",
+        "rapture",
+        "exaltation"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "felicity 与近义词辨析",
+      "synset_definition": "state of well-being characterized by emotions ranging from contentment to intense joy",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 595,
+      "group_name": "fence, jetty, grate, fender",
+      "target_word": "fence",
+      "words": [
+        "fence",
+        "jetty",
+        "grate",
+        "fender"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fence 与近义词辨析",
+      "synset_definition": "a barrier that serves to enclose an area",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 596,
+      "group_name": "finery, rig, outfit, turnout",
+      "target_word": "finery",
+      "words": [
+        "finery",
+        "rig",
+        "outfit",
+        "turnout"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "finery 与近义词辨析",
+      "synset_definition": "elaborate or showy attire and accessories",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 597,
+      "group_name": "foible, stub, turnout, pressing",
+      "target_word": "foible",
+      "words": [
+        "foible",
+        "stub",
+        "turnout",
+        "pressing"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "foible 与近义词辨析",
+      "synset_definition": "the weaker part of a sword's blade from the forte to the tip",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 598,
+      "group_name": "foil, inset, montage, likeness",
+      "target_word": "foil",
+      "words": [
+        "foil",
+        "inset",
+        "montage",
+        "likeness"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "foil 与近义词辨析",
+      "synset_definition": "picture consisting of a positive photograph or drawing on a transparent base; viewed with a projector",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 599,
+      "group_name": "foothill, mound, hillock, hammock",
+      "target_word": "foothill",
+      "words": [
+        "foothill",
+        "mound",
+        "hillock",
+        "hammock"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "foothill 与近义词辨析",
+      "synset_definition": "a relatively low hill on the lower slope of a mountain",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 600,
+      "group_name": "forefront, vanguard, paradigm, straddle",
+      "target_word": "forefront",
+      "words": [
+        "forefront",
+        "vanguard",
+        "paradigm",
+        "straddle"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "forefront 与近义词辨析",
+      "synset_definition": "the position of greatest importance or advancement; the leading position in any movement or field",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 49,
+  "chunk_name": "chunk_49",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 491,
+      "group_name": "genteel, polite, refined, cultivated",
+      "target_word": "genteel",
+      "words": [
+        "genteel",
+        "polite",
+        "refined",
+        "cultivated"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "genteel 与近义词辨析",
+      "synset_definition": "marked by refinement in taste and manners",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 492,
+      "group_name": "hapless, poor, pathetic, wretched",
+      "target_word": "hapless",
+      "words": [
+        "hapless",
+        "poor",
+        "pathetic",
+        "wretched"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hapless 与近义词辨析",
+      "synset_definition": "deserving or inciting pity; ; ; - Galsworthy",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 493,
+      "group_name": "homogeneous, solid, uniform, consistent",
+      "target_word": "homogeneous",
+      "words": [
+        "homogeneous",
+        "solid",
+        "uniform",
+        "consistent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "homogeneous 与近义词辨析",
+      "synset_definition": "all of the same or similar kind or nature",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 494,
+      "group_name": "impenetrable, dense, heavy, thick",
+      "target_word": "impenetrable",
+      "words": [
+        "impenetrable",
+        "dense",
+        "heavy",
+        "thick"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "impenetrable 与近义词辨析",
+      "synset_definition": "permitting little if any light to pass through because of denseness of matter",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 495,
+      "group_name": "incarnate, corporal, material, corporate",
+      "target_word": "incarnate",
+      "words": [
+        "incarnate",
+        "corporal",
+        "material",
+        "corporate"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incarnate 与近义词辨析",
+      "synset_definition": "possessing or existing in bodily form; - Shakespeare",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 496,
+      "group_name": "incoming, in, elect, designate",
+      "target_word": "incoming",
+      "words": [
+        "incoming",
+        "in",
+        "elect",
+        "designate"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incoming 与近义词辨析",
+      "synset_definition": "arriving at a place or position",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 497,
+      "group_name": "inglorious, black, shameful, disgraceful",
+      "target_word": "inglorious",
+      "words": [
+        "inglorious",
+        "black",
+        "shameful",
+        "disgraceful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "inglorious 与近义词辨析",
+      "synset_definition": "(used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 498,
+      "group_name": "innate, born, natural, intelligent",
+      "target_word": "innate",
+      "words": [
+        "innate",
+        "born",
+        "natural",
+        "intelligent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "innate 与近义词辨析",
+      "synset_definition": "being talented through inherited qualities",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 499,
+      "group_name": "inordinate, undue, excessive, unreasonable",
+      "target_word": "inordinate",
+      "words": [
+        "inordinate",
+        "undue",
+        "excessive",
+        "unreasonable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "inordinate 与近义词辨析",
+      "synset_definition": "beyond normal limits",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 500,
+      "group_name": "interminable, long, endless, eternal",
+      "target_word": "interminable",
+      "words": [
+        "interminable",
+        "long",
+        "endless",
+        "eternal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "interminable 与近义词辨析",
+      "synset_definition": "tiresomely long; seemingly without end",
+      "t8_count": 1,
+      "cas_score": 78
+    }
+  ]
+}

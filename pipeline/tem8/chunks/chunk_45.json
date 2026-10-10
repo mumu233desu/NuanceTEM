@@ -1,0 +1,188 @@
+{
+  "batch_id": 45,
+  "chunk_name": "chunk_45",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 451,
+      "group_name": "impotent, ineffectual, unable, ineffective",
+      "target_word": "impotent",
+      "words": [
+        "impotent",
+        "ineffectual",
+        "unable",
+        "ineffective"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impotent 与近义词辨析",
+      "synset_definition": "lacking power or ability; - Freeman J.Dyson",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 452,
+      "group_name": "impressionable, susceptible, easy, plastic",
+      "target_word": "impressionable",
+      "words": [
+        "impressionable",
+        "susceptible",
+        "easy",
+        "plastic"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impressionable 与近义词辨析",
+      "synset_definition": "easily impressed or influenced",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 453,
+      "group_name": "inbuilt, intrinsic, inherent, integral",
+      "target_word": "inbuilt",
+      "words": [
+        "inbuilt",
+        "intrinsic",
+        "inherent",
+        "integral"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "inbuilt 与近义词辨析",
+      "synset_definition": "existing as an essential constituent or characteristic",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 454,
+      "group_name": "incessant, unremitting, constant, perpetual",
+      "target_word": "incessant",
+      "words": [
+        "incessant",
+        "unremitting",
+        "constant",
+        "perpetual"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "incessant 与近义词辨析",
+      "synset_definition": "uninterrupted in time and indefinitely long continuing",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 455,
+      "group_name": "infirm, rickety, weak, frail",
+      "target_word": "infirm",
+      "words": [
+        "infirm",
+        "rickety",
+        "weak",
+        "frail"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "infirm 与近义词辨析",
+      "synset_definition": "lacking bodily or muscular strength or vitality",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 456,
+      "group_name": "lax, floppy, limp, loose",
+      "target_word": "lax",
+      "words": [
+        "lax",
+        "floppy",
+        "limp",
+        "loose"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lax 与近义词辨析",
+      "synset_definition": "lacking in strength or firmness or resilience",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 457,
+      "group_name": "luscious, yummy, tasty, delicious",
+      "target_word": "luscious",
+      "words": [
+        "luscious",
+        "yummy",
+        "tasty",
+        "delicious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "luscious 与近义词辨析",
+      "synset_definition": "extremely pleasing to the sense of taste",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 458,
+      "group_name": "manful, virile, male, masculine",
+      "target_word": "manful",
+      "words": [
+        "manful",
+        "virile",
+        "male",
+        "masculine"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "manful 与近义词辨析",
+      "synset_definition": "characteristic of a man",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 459,
+      "group_name": "mystic, esoteric, secret, mysterious",
+      "target_word": "mystic",
+      "words": [
+        "mystic",
+        "esoteric",
+        "secret",
+        "mysterious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mystic 与近义词辨析",
+      "synset_definition": "having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 460,
+      "group_name": "negligent, lax, slack, derelict",
+      "target_word": "negligent",
+      "words": [
+        "negligent",
+        "lax",
+        "slack",
+        "derelict"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "negligent 与近义词辨析",
+      "synset_definition": "characterized by neglect and undue lack of concern",
+      "t8_count": 2,
+      "cas_score": 80
+    }
+  ]
+}

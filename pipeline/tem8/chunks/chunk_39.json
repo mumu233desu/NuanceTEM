@@ -1,0 +1,188 @@
+{
+  "batch_id": 39,
+  "chunk_name": "chunk_39",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 391,
+      "group_name": "lavish, lush, plush, rich",
+      "target_word": "lavish",
+      "words": [
+        "lavish",
+        "lush",
+        "plush",
+        "rich"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lavish 与近义词辨析",
+      "synset_definition": "characterized by extravagance and profusion",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 392,
+      "group_name": "perceptive, observant, discerning, understanding",
+      "target_word": "perceptive",
+      "words": [
+        "perceptive",
+        "observant",
+        "discerning",
+        "understanding"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "perceptive 与近义词辨析",
+      "synset_definition": "having the ability to perceive or understand; keen in discernment",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 393,
+      "group_name": "robust, husky, stalwart, iron",
+      "target_word": "robust",
+      "words": [
+        "robust",
+        "husky",
+        "stalwart",
+        "iron"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "robust 与近义词辨析",
+      "synset_definition": "sturdy and strong in form, constitution, or construction",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 394,
+      "group_name": "sleazy, bum, tinny, cheap",
+      "target_word": "sleazy",
+      "words": [
+        "sleazy",
+        "bum",
+        "tinny",
+        "cheap"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sleazy 与近义词辨析",
+      "synset_definition": "of very poor quality; flimsy",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 395,
+      "group_name": "slick, wily, artful, sly",
+      "target_word": "slick",
+      "words": [
+        "slick",
+        "wily",
+        "artful",
+        "sly"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "slick 与近义词辨析",
+      "synset_definition": "marked by skill in deception",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 396,
+      "group_name": "unwieldy, ungainly, cumbersome, clumsy",
+      "target_word": "unwieldy",
+      "words": [
+        "unwieldy",
+        "ungainly",
+        "cumbersome",
+        "clumsy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "unwieldy 与近义词辨析",
+      "synset_definition": "difficult to use or handle or manage because of size or weight or shape",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 397,
+      "group_name": "abominable, atrocious, awful, painful",
+      "target_word": "abominable",
+      "words": [
+        "abominable",
+        "atrocious",
+        "awful",
+        "painful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "abominable 与近义词辨析",
+      "synset_definition": "exceptionally bad or displeasing",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 398,
+      "group_name": "adroit, deft, neat, handy",
+      "target_word": "adroit",
+      "words": [
+        "adroit",
+        "deft",
+        "neat",
+        "handy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adroit 与近义词辨析",
+      "synset_definition": "quick or skillful or adept in action or thought",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 399,
+      "group_name": "articulate, facile, fluent, silver",
+      "target_word": "articulate",
+      "words": [
+        "articulate",
+        "facile",
+        "fluent",
+        "silver"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "articulate 与近义词辨析",
+      "synset_definition": "expressing yourself easily or characterized by clear expressive language",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 400,
+      "group_name": "assertive, cocky, emphatic, forceful",
+      "target_word": "assertive",
+      "words": [
+        "assertive",
+        "cocky",
+        "emphatic",
+        "forceful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assertive 与近义词辨析",
+      "synset_definition": "aggressively self-assured",
+      "t8_count": 2,
+      "cas_score": 84
+    }
+  ]
+}

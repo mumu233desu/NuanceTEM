@@ -1,0 +1,188 @@
+{
+  "batch_id": 55,
+  "chunk_name": "chunk_55",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 551,
+      "group_name": "mammoth, big, large, gigantic",
+      "target_word": "mammoth",
+      "words": [
+        "mammoth",
+        "big",
+        "large",
+        "gigantic"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mammoth 与近义词辨析",
+      "synset_definition": "so exceedingly large or extensive as to suggest a giant or mammoth",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 552,
+      "group_name": "mediocre, fair, average, ordinary",
+      "target_word": "mediocre",
+      "words": [
+        "mediocre",
+        "fair",
+        "average",
+        "ordinary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mediocre 与近义词辨析",
+      "synset_definition": "lacking exceptional quality or ability",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 553,
+      "group_name": "meek, mild, modest, humble",
+      "target_word": "meek",
+      "words": [
+        "meek",
+        "mild",
+        "modest",
+        "humble"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "meek 与近义词辨析",
+      "synset_definition": "humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 554,
+      "group_name": "midget, tiny, small, little",
+      "target_word": "midget",
+      "words": [
+        "midget",
+        "tiny",
+        "small",
+        "little"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "midget 与近义词辨析",
+      "synset_definition": "very small",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 555,
+      "group_name": "monumental, big, large, massive",
+      "target_word": "monumental",
+      "words": [
+        "monumental",
+        "big",
+        "large",
+        "massive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "monumental 与近义词辨析",
+      "synset_definition": "imposing in size or bulk or solidity",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 556,
+      "group_name": "myriad, infinite, countless, innumerable",
+      "target_word": "myriad",
+      "words": [
+        "myriad",
+        "infinite",
+        "countless",
+        "innumerable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "myriad 与近义词辨析",
+      "synset_definition": "too numerous to be counted",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 557,
+      "group_name": "nigh, hot, near, warm",
+      "target_word": "nigh",
+      "words": [
+        "nigh",
+        "hot",
+        "near",
+        "warm"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "nigh 与近义词辨析",
+      "synset_definition": "not far distant in time or space or degree or circumstances",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 558,
+      "group_name": "overt, raw, open, bald",
+      "target_word": "overt",
+      "words": [
+        "overt",
+        "raw",
+        "open",
+        "bald"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "overt 与近义词辨析",
+      "synset_definition": "open and observable; not secret or hidden",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 559,
+      "group_name": "pivotal, polar, crucial, important",
+      "target_word": "pivotal",
+      "words": [
+        "pivotal",
+        "polar",
+        "crucial",
+        "important"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pivotal 与近义词辨析",
+      "synset_definition": "being of crucial importance; ; - Henry Kissinger",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 560,
+      "group_name": "prevalent, dominant, frequent, predominant",
+      "target_word": "prevalent",
+      "words": [
+        "prevalent",
+        "dominant",
+        "frequent",
+        "predominant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "prevalent 与近义词辨析",
+      "synset_definition": "most frequent or common",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

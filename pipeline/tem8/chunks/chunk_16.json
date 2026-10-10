@@ -1,0 +1,188 @@
+{
+  "batch_id": 16,
+  "chunk_name": "chunk_16",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 161,
+      "group_name": "spout, blurt, whiff, snarl",
+      "target_word": "spout",
+      "words": [
+        "spout",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "spout 与近义词辨析",
+      "synset_definition": "talk in a noisy, excited, or declamatory manner",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 162,
+      "group_name": "sprawl, strew, straggle, propagate",
+      "target_word": "sprawl",
+      "words": [
+        "sprawl",
+        "strew",
+        "straggle",
+        "propagate"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sprawl 与近义词辨析",
+      "synset_definition": "go, come, or spread in a rambling or irregular way",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 163,
+      "group_name": "strut, wade, slink, mince",
+      "target_word": "strut",
+      "words": [
+        "strut",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "strut 与近义词辨析",
+      "synset_definition": "to walk with a lofty proud gait, often in an attempt to impress others",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 164,
+      "group_name": "supple, lighten, exacerbate, exasperate",
+      "target_word": "supple",
+      "words": [
+        "supple",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "supple 与近义词辨析",
+      "synset_definition": "make pliant and flexible",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 165,
+      "group_name": "syndicate, undercut, undersell, auctioneer",
+      "target_word": "syndicate",
+      "words": [
+        "syndicate",
+        "undercut",
+        "undersell",
+        "auctioneer"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "syndicate 与近义词辨析",
+      "synset_definition": "sell articles, television programs, or photos to several publications or independent broadcasting stations",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 166,
+      "group_name": "tamper, knead, wield, shuffle",
+      "target_word": "tamper",
+      "words": [
+        "tamper",
+        "knead",
+        "wield",
+        "shuffle"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "tamper 与近义词辨析",
+      "synset_definition": "play around with or alter or falsify, usually secretively or dishonestly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 167,
+      "group_name": "teeter, swoop, totter, fidget",
+      "target_word": "teeter",
+      "words": [
+        "teeter",
+        "swoop",
+        "totter",
+        "fidget"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "teeter 与近义词辨析",
+      "synset_definition": "move unsteadily, with a rocking motion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 168,
+      "group_name": "trample, wade, slink, mince",
+      "target_word": "trample",
+      "words": [
+        "trample",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "trample 与近义词辨析",
+      "synset_definition": "walk on and flatten",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 169,
+      "group_name": "transfigure, lighten, exacerbate, exasperate",
+      "target_word": "transfigure",
+      "words": [
+        "transfigure",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "transfigure 与近义词辨析",
+      "synset_definition": "elevate or idealize, in allusion to Christ's transfiguration",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 170,
+      "group_name": "transmute, lighten, exacerbate, exasperate",
+      "target_word": "transmute",
+      "words": [
+        "transmute",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "transmute 与近义词辨析",
+      "synset_definition": "change or alter in form, appearance, or nature",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

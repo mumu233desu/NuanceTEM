@@ -1,0 +1,188 @@
+{
+  "batch_id": 64,
+  "chunk_name": "chunk_64",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 641,
+      "group_name": "baritone, tuba, trump, cornet",
+      "target_word": "baritone",
+      "words": [
+        "baritone",
+        "tuba",
+        "trump",
+        "cornet"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "baritone 与近义词辨析",
+      "synset_definition": "the second lowest brass wind instrument",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 642,
+      "group_name": "clutter, jumble, muddle, fuddle",
+      "target_word": "clutter",
+      "words": [
+        "clutter",
+        "jumble",
+        "muddle",
+        "fuddle"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "clutter 与近义词辨析",
+      "synset_definition": "a confused multitude of things",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 643,
+      "group_name": "courier, rover, flier, flyer",
+      "target_word": "courier",
+      "words": [
+        "courier",
+        "rover",
+        "flier",
+        "flyer"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "courier 与近义词辨析",
+      "synset_definition": "a person who carries a message",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 644,
+      "group_name": "drool, humbug, gibber, gibberish",
+      "target_word": "drool",
+      "words": [
+        "drool",
+        "humbug",
+        "gibber",
+        "gibberish"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "drool 与近义词辨析",
+      "synset_definition": "pretentious or silly talk or writing",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 645,
+      "group_name": "duet, duo, quartet, quintet",
+      "target_word": "duet",
+      "words": [
+        "duet",
+        "duo",
+        "quartet",
+        "quintet"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "duet 与近义词辨析",
+      "synset_definition": "two performers or singers who perform together",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 646,
+      "group_name": "eclectic, stoic, cynic, existentialist",
+      "target_word": "eclectic",
+      "words": [
+        "eclectic",
+        "stoic",
+        "cynic",
+        "existentialist"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "eclectic 与近义词辨析",
+      "synset_definition": "someone who selects according to the eclectic method",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 647,
+      "group_name": "equilibrium, honeycomb, impediment, counterbalance",
+      "target_word": "equilibrium",
+      "words": [
+        "equilibrium",
+        "honeycomb",
+        "impediment",
+        "counterbalance"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "equilibrium 与近义词辨析",
+      "synset_definition": "equality of distribution",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 648,
+      "group_name": "figurehead, sham, pseudo, impostor",
+      "target_word": "figurehead",
+      "words": [
+        "figurehead",
+        "sham",
+        "pseudo",
+        "impostor"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "figurehead 与近义词辨析",
+      "synset_definition": "a person used as a cover for some questionable activity",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 649,
+      "group_name": "fissure, sag, furrow, crease",
+      "target_word": "fissure",
+      "words": [
+        "fissure",
+        "sag",
+        "furrow",
+        "crease"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fissure 与近义词辨析",
+      "synset_definition": "a long narrow depression in a surface",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 650,
+      "group_name": "fitting, drape, mantle, drapery",
+      "target_word": "fitting",
+      "words": [
+        "fitting",
+        "drape",
+        "mantle",
+        "drapery"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fitting 与近义词辨析",
+      "synset_definition": "(usually plural) furnishings and equipment (especially for a ship or hotel)",
+      "t8_count": 4,
+      "cas_score": 89
+    }
+  ]
+}

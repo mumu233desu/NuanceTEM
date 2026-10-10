@@ -1,0 +1,188 @@
+{
+  "batch_id": 56,
+  "chunk_name": "chunk_56",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 561,
+      "group_name": "sizeable, big, ample, large",
+      "target_word": "sizeable",
+      "words": [
+        "sizeable",
+        "big",
+        "ample",
+        "large"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sizeable 与近义词辨析",
+      "synset_definition": "fairly large",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 562,
+      "group_name": "standing, erect, upright, vertical",
+      "target_word": "standing",
+      "words": [
+        "standing",
+        "erect",
+        "upright",
+        "vertical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "standing 与近义词辨析",
+      "synset_definition": "having a supporting base",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 563,
+      "group_name": "supplementary, auxiliary, secondary, subsidiary",
+      "target_word": "supplementary",
+      "words": [
+        "supplementary",
+        "auxiliary",
+        "secondary",
+        "subsidiary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "supplementary 与近义词辨析",
+      "synset_definition": "functioning in a supporting capacity",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 564,
+      "group_name": "tonic, brisk, fresh, refreshing",
+      "target_word": "tonic",
+      "words": [
+        "tonic",
+        "brisk",
+        "fresh",
+        "refreshing"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "tonic 与近义词辨析",
+      "synset_definition": "imparting vitality and energy",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 565,
+      "group_name": "unswerving, staunch, constant, steadfast",
+      "target_word": "unswerving",
+      "words": [
+        "unswerving",
+        "staunch",
+        "constant",
+        "steadfast"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "unswerving 与近义词辨析",
+      "synset_definition": "firm and dependable especially in loyalty",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 566,
+      "group_name": "vehement, fierce, violent, intense",
+      "target_word": "vehement",
+      "words": [
+        "vehement",
+        "fierce",
+        "violent",
+        "intense"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "vehement 与近义词辨析",
+      "synset_definition": "marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 567,
+      "group_name": "veritable, genuine, authentic, unquestionable",
+      "target_word": "veritable",
+      "words": [
+        "veritable",
+        "genuine",
+        "authentic",
+        "unquestionable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "veritable 与近义词辨析",
+      "synset_definition": "not counterfeit or copied",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 568,
+      "group_name": "vernacular, common, vulgar, informal",
+      "target_word": "vernacular",
+      "words": [
+        "vernacular",
+        "common",
+        "vulgar",
+        "informal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "vernacular 与近义词辨析",
+      "synset_definition": "being or characteristic of or appropriate to everyday language",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 569,
+      "group_name": "wanton, easy, light, loose",
+      "target_word": "wanton",
+      "words": [
+        "wanton",
+        "easy",
+        "light",
+        "loose"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wanton 与近义词辨析",
+      "synset_definition": "casual and unrestrained in sexual behavior",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 570,
+      "group_name": "absentee, rover, flier, flyer",
+      "target_word": "absentee",
+      "words": [
+        "absentee",
+        "rover",
+        "flier",
+        "flyer"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "absentee 与近义词辨析",
+      "synset_definition": "one that is absent or not in residence",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

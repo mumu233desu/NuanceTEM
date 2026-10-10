@@ -1,0 +1,188 @@
+{
+  "batch_id": 7,
+  "chunk_name": "chunk_07",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 71,
+      "group_name": "evacuate, void, ooze, crap",
+      "target_word": "evacuate",
+      "words": [
+        "evacuate",
+        "void",
+        "ooze",
+        "crap"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "evacuate 与近义词辨析",
+      "synset_definition": "excrete or discharge from the body",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 72,
+      "group_name": "exacerbate, irk, madden, enrage",
+      "target_word": "exacerbate",
+      "words": [
+        "exacerbate",
+        "irk",
+        "madden",
+        "enrage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exacerbate 与近义词辨析",
+      "synset_definition": "exasperate or irritate",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 73,
+      "group_name": "exasperate, irk, madden, enrage",
+      "target_word": "exasperate",
+      "words": [
+        "exasperate",
+        "irk",
+        "madden",
+        "enrage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exasperate 与近义词辨析",
+      "synset_definition": "exasperate or irritate",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 74,
+      "group_name": "extort, loot, foray, despoil",
+      "target_word": "extort",
+      "words": [
+        "extort",
+        "loot",
+        "foray",
+        "despoil"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "extort 与近义词辨析",
+      "synset_definition": "obtain through intimidation",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 75,
+      "group_name": "extract, bum, procure, excavate",
+      "target_word": "extract",
+      "words": [
+        "extract",
+        "bum",
+        "procure",
+        "excavate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "extract 与近义词辨析",
+      "synset_definition": "get despite difficulties or obstacles",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 76,
+      "group_name": "exude, evoke, connote, formulate",
+      "target_word": "exude",
+      "words": [
+        "exude",
+        "evoke",
+        "connote",
+        "formulate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exude 与近义词辨析",
+      "synset_definition": "make apparent by one's mood or behavior",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 77,
+      "group_name": "falcon, snipe, poach, forage",
+      "target_word": "falcon",
+      "words": [
+        "falcon",
+        "snipe",
+        "poach",
+        "forage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "falcon 与近义词辨析",
+      "synset_definition": "hunt with falcons",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 78,
+      "group_name": "falsify, warp, sham, feign",
+      "target_word": "falsify",
+      "words": [
+        "falsify",
+        "warp",
+        "sham",
+        "feign"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "falsify 与近义词辨析",
+      "synset_definition": "make false by mutilation or addition; as of a message or story",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 79,
+      "group_name": "farce, clog, deluge, clutter",
+      "target_word": "farce",
+      "words": [
+        "farce",
+        "clog",
+        "deluge",
+        "clutter"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "farce 与近义词辨析",
+      "synset_definition": "fill with a stuffing while cooking",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 80,
+      "group_name": "ferret, snipe, poach, falcon",
+      "target_word": "ferret",
+      "words": [
+        "ferret",
+        "snipe",
+        "poach",
+        "falcon"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ferret 与近义词辨析",
+      "synset_definition": "hunt with ferrets",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

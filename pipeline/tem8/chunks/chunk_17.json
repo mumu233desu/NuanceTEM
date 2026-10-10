@@ -1,0 +1,188 @@
+{
+  "batch_id": 17,
+  "chunk_name": "chunk_17",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 171,
+      "group_name": "transpose, lighten, exacerbate, exasperate",
+      "target_word": "transpose",
+      "words": [
+        "transpose",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "transpose 与近义词辨析",
+      "synset_definition": "cause to change places",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 172,
+      "group_name": "tremor, slash, wiggle, rattle",
+      "target_word": "tremor",
+      "words": [
+        "tremor",
+        "slash",
+        "wiggle",
+        "rattle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "tremor 与近义词辨析",
+      "synset_definition": "shake with seismic vibrations",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 173,
+      "group_name": "trump, rap, thud, drone",
+      "target_word": "trump",
+      "words": [
+        "trump",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "trump 与近义词辨析",
+      "synset_definition": "produce a sound as if from a trumpet",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 174,
+      "group_name": "twitch, swoop, fidget, flurry",
+      "target_word": "twitch",
+      "words": [
+        "twitch",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "twitch 与近义词辨析",
+      "synset_definition": "move with abrupt, seemingly uncontrolled motions",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 175,
+      "group_name": "underlie, flank, nestle, mediate",
+      "target_word": "underlie",
+      "words": [
+        "underlie",
+        "flank",
+        "nestle",
+        "mediate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "underlie 与近义词辨析",
+      "synset_definition": "lie underneath",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 176,
+      "group_name": "urinate, ooze, crap, piss",
+      "target_word": "urinate",
+      "words": [
+        "urinate",
+        "ooze",
+        "crap",
+        "piss"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "urinate 与近义词辨析",
+      "synset_definition": "pass after the manner of urine",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 177,
+      "group_name": "usurp, loot, extort, despoil",
+      "target_word": "usurp",
+      "words": [
+        "usurp",
+        "loot",
+        "extort",
+        "despoil"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "usurp 与近义词辨析",
+      "synset_definition": "seize and take control without authority and possibly with force; take as one's right or possession",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 178,
+      "group_name": "validate, lighten, exacerbate, exasperate",
+      "target_word": "validate",
+      "words": [
+        "validate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "validate 与近义词辨析",
+      "synset_definition": "make valid or confirm the validity of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 179,
+      "group_name": "visualize, lighten, exacerbate, exasperate",
+      "target_word": "visualize",
+      "words": [
+        "visualize",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "visualize 与近义词辨析",
+      "synset_definition": "make visible",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 180,
+      "group_name": "vitalize, lighten, exacerbate, exasperate",
+      "target_word": "vitalize",
+      "words": [
+        "vitalize",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vitalize 与近义词辨析",
+      "synset_definition": "give life to",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

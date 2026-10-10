@@ -1,0 +1,188 @@
+{
+  "batch_id": 9,
+  "chunk_name": "chunk_09",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 91,
+      "group_name": "furl, flex, taper, deform",
+      "target_word": "furl",
+      "words": [
+        "furl",
+        "flex",
+        "taper",
+        "deform"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "furl 与近义词辨析",
+      "synset_definition": "form into a cylinder by rolling",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 92,
+      "group_name": "gabble, blurt, whiff, gibber",
+      "target_word": "gabble",
+      "words": [
+        "gabble",
+        "blurt",
+        "whiff",
+        "gibber"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gabble 与近义词辨析",
+      "synset_definition": "speak (about unimportant matters) rapidly and incessantly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 93,
+      "group_name": "grate, blur, scrub, scour",
+      "target_word": "grate",
+      "words": [
+        "grate",
+        "blur",
+        "scrub",
+        "scour"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "grate 与近义词辨析",
+      "synset_definition": "reduce to small shreds or pulverize by rubbing against a rough or sharp perforated surface",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 94,
+      "group_name": "gravitate, swoop, fidget, flurry",
+      "target_word": "gravitate",
+      "words": [
+        "gravitate",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gravitate 与近义词辨析",
+      "synset_definition": "move due to the pull of gravitation",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 95,
+      "group_name": "gurgle, rap, thud, drone",
+      "target_word": "gurgle",
+      "words": [
+        "gurgle",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gurgle 与近义词辨析",
+      "synset_definition": "make sounds similar to gurgling water",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 96,
+      "group_name": "hamstring, badger, pester, madden",
+      "target_word": "hamstring",
+      "words": [
+        "hamstring",
+        "badger",
+        "pester",
+        "madden"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "hamstring 与近义词辨析",
+      "synset_definition": "make ineffective or powerless",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 97,
+      "group_name": "hemorrhage, spew, abort, fester",
+      "target_word": "hemorrhage",
+      "words": [
+        "hemorrhage",
+        "spew",
+        "abort",
+        "fester"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hemorrhage 与近义词辨析",
+      "synset_definition": "lose blood from one's body",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 98,
+      "group_name": "hiss, blurt, whiff, snarl",
+      "target_word": "hiss",
+      "words": [
+        "hiss",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hiss 与近义词辨析",
+      "synset_definition": "express or utter with a hiss",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 99,
+      "group_name": "hobble, wade, slink, mince",
+      "target_word": "hobble",
+      "words": [
+        "hobble",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hobble 与近义词辨析",
+      "synset_definition": "walk impeded by some physical limitation or injury",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 100,
+      "group_name": "honeycomb, foray, immerse, pervade",
+      "target_word": "honeycomb",
+      "words": [
+        "honeycomb",
+        "foray",
+        "immerse",
+        "pervade"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "honeycomb 与近义词辨析",
+      "synset_definition": "penetrate thoroughly and into every part",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

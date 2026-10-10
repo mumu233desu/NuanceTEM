@@ -1,0 +1,188 @@
+{
+  "batch_id": 54,
+  "chunk_name": "chunk_54",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 541,
+      "group_name": "hoary, old, grey, gray",
+      "target_word": "hoary",
+      "words": [
+        "hoary",
+        "old",
+        "grey",
+        "gray"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "hoary 与近义词辨析",
+      "synset_definition": "showing characteristics of age, especially having grey or white hair; -Coleridge",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 542,
+      "group_name": "illicit, outlaw, illegal, unlawful",
+      "target_word": "illicit",
+      "words": [
+        "illicit",
+        "outlaw",
+        "illegal",
+        "unlawful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "illicit 与近义词辨析",
+      "synset_definition": "contrary to or forbidden by law",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 543,
+      "group_name": "illustrious, famed, noted, known",
+      "target_word": "illustrious",
+      "words": [
+        "illustrious",
+        "famed",
+        "noted",
+        "known"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "illustrious 与近义词辨析",
+      "synset_definition": "widely known and esteemed",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 544,
+      "group_name": "immobile, fast, firm, fixed",
+      "target_word": "immobile",
+      "words": [
+        "immobile",
+        "fast",
+        "firm",
+        "fixed"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "immobile 与近义词辨析",
+      "synset_definition": "securely fixed in place",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 545,
+      "group_name": "infernal, damn, blame, damned",
+      "target_word": "infernal",
+      "words": [
+        "infernal",
+        "damn",
+        "blame",
+        "damned"
+      ],
+      "pos": "adj",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "infernal 与近义词辨析",
+      "synset_definition": "expletives used informally as intensifiers",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 546,
+      "group_name": "irksome, dull, slow, boring",
+      "target_word": "irksome",
+      "words": [
+        "irksome",
+        "dull",
+        "slow",
+        "boring"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "irksome 与近义词辨析",
+      "synset_definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 547,
+      "group_name": "legible, fair, clean, clear",
+      "target_word": "legible",
+      "words": [
+        "legible",
+        "fair",
+        "clean",
+        "clear"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "legible 与近义词辨析",
+      "synset_definition": "(of handwriting, print, etc.) capable of being read or deciphered",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 548,
+      "group_name": "literal, real, true, actual",
+      "target_word": "literal",
+      "words": [
+        "literal",
+        "real",
+        "true",
+        "actual"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "literal 与近义词辨析",
+      "synset_definition": "being or reflecting the essential or genuine character of something; ; - G.K.Chesterton",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 549,
+      "group_name": "lousy, dirty, nasty, awful",
+      "target_word": "lousy",
+      "words": [
+        "lousy",
+        "dirty",
+        "nasty",
+        "awful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lousy 与近义词辨析",
+      "synset_definition": "vile; despicable",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 550,
+      "group_name": "ludicrous, absurd, foolish, ridiculous",
+      "target_word": "ludicrous",
+      "words": [
+        "ludicrous",
+        "absurd",
+        "foolish",
+        "ridiculous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ludicrous 与近义词辨析",
+      "synset_definition": "incongruous;inviting ridicule",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

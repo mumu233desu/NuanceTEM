@@ -1,0 +1,188 @@
+{
+  "batch_id": 18,
+  "chunk_name": "chunk_18",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 181,
+      "group_name": "void, ooze, crap, exude",
+      "target_word": "void",
+      "words": [
+        "void",
+        "ooze",
+        "crap",
+        "exude"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "void 与近义词辨析",
+      "synset_definition": "excrete or discharge from the body",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 182,
+      "group_name": "wade, slink, mince, slouch",
+      "target_word": "wade",
+      "words": [
+        "wade",
+        "slink",
+        "mince",
+        "slouch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "wade 与近义词辨析",
+      "synset_definition": "walk (through relatively shallow water)",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 183,
+      "group_name": "waver, swoop, fidget, flurry",
+      "target_word": "waver",
+      "words": [
+        "waver",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "waver 与近义词辨析",
+      "synset_definition": "move hesitatingly, as if about to give way",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 184,
+      "group_name": "whiff, blurt, snarl, snivel",
+      "target_word": "whiff",
+      "words": [
+        "whiff",
+        "blurt",
+        "snarl",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "whiff 与近义词辨析",
+      "synset_definition": "utter with a puff of air",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 185,
+      "group_name": "whoop, wail, squawk, screech",
+      "target_word": "whoop",
+      "words": [
+        "whoop",
+        "wail",
+        "squawk",
+        "screech"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "whoop 与近义词辨析",
+      "synset_definition": "shout, as if with joy or enthusiasm",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 186,
+      "group_name": "ambush, snipe, poach, falcon",
+      "target_word": "ambush",
+      "words": [
+        "ambush",
+        "snipe",
+        "poach",
+        "falcon"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ambush 与近义词辨析",
+      "synset_definition": "hunt (quarry) by stalking and ambushing",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 187,
+      "group_name": "attest, profess, sanctify, consecrate",
+      "target_word": "attest",
+      "words": [
+        "attest",
+        "profess",
+        "sanctify",
+        "consecrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "attest 与近义词辨析",
+      "synset_definition": "give testimony in a court of law",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 188,
+      "group_name": "babble, blurt, whiff, snarl",
+      "target_word": "babble",
+      "words": [
+        "babble",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "babble 与近义词辨析",
+      "synset_definition": "utter meaningless sounds, like a baby, or utter in an incoherent way",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 189,
+      "group_name": "backfire, honk, creak, crunch",
+      "target_word": "backfire",
+      "words": [
+        "backfire",
+        "honk",
+        "creak",
+        "crunch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "backfire 与近义词辨析",
+      "synset_definition": "emit a loud noise as a result of undergoing a backfire",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 190,
+      "group_name": "baffle, rein, hamper, inhibit",
+      "target_word": "baffle",
+      "words": [
+        "baffle",
+        "rein",
+        "hamper",
+        "inhibit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "baffle 与近义词辨析",
+      "synset_definition": "check the emission of (sound)",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

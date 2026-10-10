@@ -1,0 +1,188 @@
+{
+  "batch_id": 0,
+  "chunk_name": "chunk_00",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 1,
+      "group_name": "abate, subside, ebb, wane",
+      "target_word": "abate",
+      "words": [
+        "abate",
+        "subside",
+        "ebb",
+        "wane"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "abate 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 3,
+      "cas_score": 95
+    },
+    {
+      "group_id": 2,
+      "group_name": "diminish, dwindle, contract, shrink",
+      "target_word": "diminish",
+      "words": [
+        "diminish",
+        "dwindle",
+        "contract",
+        "shrink"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "diminish 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 0,
+      "cas_score": 95
+    },
+    {
+      "group_id": 3,
+      "group_name": "amend, rectify, remedy, redress",
+      "target_word": "amend",
+      "words": [
+        "amend",
+        "rectify",
+        "remedy",
+        "redress"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "amend 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 4,
+      "group_name": "decry, denounce, condemn, censure",
+      "target_word": "decry",
+      "words": [
+        "decry",
+        "denounce",
+        "condemn",
+        "censure"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "decry 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 5,
+      "group_name": "equivocal, enigmatic, ambiguous, obscure",
+      "target_word": "equivocal",
+      "words": [
+        "equivocal",
+        "enigmatic",
+        "ambiguous",
+        "obscure"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "equivocal 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 6,
+      "group_name": "judicious, judicial, prudent, legislative",
+      "target_word": "judicious",
+      "words": [
+        "judicious",
+        "judicial",
+        "prudent",
+        "legislative"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "judicious 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 7,
+      "group_name": "credulous, gullible, naive, ingenuous",
+      "target_word": "credulous",
+      "words": [
+        "credulous",
+        "gullible",
+        "naive",
+        "ingenuous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "credulous 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 1,
+      "cas_score": 95
+    },
+    {
+      "group_id": 8,
+      "group_name": "acquit, vindicate, exonerate, absolve",
+      "target_word": "acquit",
+      "words": [
+        "acquit",
+        "vindicate",
+        "exonerate",
+        "absolve"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "acquit 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 3,
+      "cas_score": 95
+    },
+    {
+      "group_id": 9,
+      "group_name": "broker, negotiate, mediate, arbitrate",
+      "target_word": "broker",
+      "words": [
+        "broker",
+        "negotiate",
+        "mediate",
+        "arbitrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "broker 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 3,
+      "cas_score": 95
+    },
+    {
+      "group_id": 10,
+      "group_name": "quash, quell, suppress, stifle",
+      "target_word": "quash",
+      "words": [
+        "quash",
+        "quell",
+        "suppress",
+        "stifle"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quash 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    }
+  ]
+}

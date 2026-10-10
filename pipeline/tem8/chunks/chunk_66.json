@@ -1,0 +1,188 @@
+{
+  "batch_id": 66,
+  "chunk_name": "chunk_66",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 661,
+      "group_name": "imbecile, dope, booby, retard",
+      "target_word": "imbecile",
+      "words": [
+        "imbecile",
+        "dope",
+        "booby",
+        "retard"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "imbecile 与近义词辨析",
+      "synset_definition": "a person of subnormal intelligence",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 662,
+      "group_name": "imbecility, blunder, oversight, incursion",
+      "target_word": "imbecility",
+      "words": [
+        "imbecility",
+        "blunder",
+        "oversight",
+        "incursion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "imbecility 与近义词辨析",
+      "synset_definition": "a stupid mistake",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 663,
+      "group_name": "lament, ballad, requiem, serenade",
+      "target_word": "lament",
+      "words": [
+        "lament",
+        "ballad",
+        "requiem",
+        "serenade"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lament 与近义词辨析",
+      "synset_definition": "a song or hymn of mourning composed or performed as a memorial to a dead person",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 664,
+      "group_name": "loft, hovel, hutch, shack",
+      "target_word": "loft",
+      "words": [
+        "loft",
+        "hovel",
+        "hutch",
+        "shack"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "loft 与近义词辨析",
+      "synset_definition": "a raised shelter in which pigeons are kept",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 665,
+      "group_name": "mar, visage, blemish, countenance",
+      "target_word": "mar",
+      "words": [
+        "mar",
+        "visage",
+        "blemish",
+        "countenance"
+      ],
+      "pos": "n",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "mar 与近义词辨析",
+      "synset_definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 666,
+      "group_name": "novelty, frill, ruffle, trinket",
+      "target_word": "novelty",
+      "words": [
+        "novelty",
+        "frill",
+        "ruffle",
+        "trinket"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "novelty 与近义词辨析",
+      "synset_definition": "cheap showy jewelry or ornament on clothing",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 667,
+      "group_name": "parson, rector, deacon, divine",
+      "target_word": "parson",
+      "words": [
+        "parson",
+        "rector",
+        "deacon",
+        "divine"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "parson 与近义词辨析",
+      "synset_definition": "a person authorized to conduct religious worship",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 668,
+      "group_name": "pitfall, balk, deterrent, impediment",
+      "target_word": "pitfall",
+      "words": [
+        "pitfall",
+        "balk",
+        "deterrent",
+        "impediment"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pitfall 与近义词辨析",
+      "synset_definition": "an unforeseen or unexpected or surprising difficulty",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 669,
+      "group_name": "plaid, mesh, tartan, polyester",
+      "target_word": "plaid",
+      "words": [
+        "plaid",
+        "mesh",
+        "tartan",
+        "polyester"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "plaid 与近义词辨析",
+      "synset_definition": "a cloth having a crisscross design",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 670,
+      "group_name": "pressing, jog, boost, shove",
+      "target_word": "pressing",
+      "words": [
+        "pressing",
+        "jog",
+        "boost",
+        "shove"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pressing 与近义词辨析",
+      "synset_definition": "the act of pressing; the exertion of pressure",
+      "t8_count": 4,
+      "cas_score": 89
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 23,
+  "chunk_name": "chunk_23",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 231,
+      "group_name": "encase, fence, fortify, enshrine",
+      "target_word": "encase",
+      "words": [
+        "encase",
+        "fence",
+        "fortify",
+        "enshrine"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "encase 与近义词辨析",
+      "synset_definition": "enclose in, or as if in, a case",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 232,
+      "group_name": "encroach, lapse, forge, impinge",
+      "target_word": "encroach",
+      "words": [
+        "encroach",
+        "lapse",
+        "forge",
+        "impinge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "encroach 与近义词辨析",
+      "synset_definition": "advance beyond the usual limit",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 233,
+      "group_name": "encumber, rein, baffle, hamper",
+      "target_word": "encumber",
+      "words": [
+        "encumber",
+        "rein",
+        "baffle",
+        "hamper"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "encumber 与近义词辨析",
+      "synset_definition": "hold back",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 234,
+      "group_name": "entwine, wring, snarl, wrench",
+      "target_word": "entwine",
+      "words": [
+        "entwine",
+        "wring",
+        "snarl",
+        "wrench"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "entwine 与近义词辨析",
+      "synset_definition": "spin,wind, or twist together",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 235,
+      "group_name": "flex, swoop, fidget, flurry",
+      "target_word": "flex",
+      "words": [
+        "flex",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flex 与近义词辨析",
+      "synset_definition": "bend a joint",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 236,
+      "group_name": "flop, alight, subside, cascade",
+      "target_word": "flop",
+      "words": [
+        "flop",
+        "alight",
+        "subside",
+        "cascade"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flop 与近义词辨析",
+      "synset_definition": "fall suddenly and abruptly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 237,
+      "group_name": "flux, swoop, fidget, flurry",
+      "target_word": "flux",
+      "words": [
+        "flux",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flux 与近义词辨析",
+      "synset_definition": "move or progress freely as if in a stream",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 238,
+      "group_name": "forego, waive, chuck, forfeit",
+      "target_word": "forego",
+      "words": [
+        "forego",
+        "waive",
+        "chuck",
+        "forfeit"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "forego 与近义词辨析",
+      "synset_definition": "lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 239,
+      "group_name": "gauge, blur, scrub, scour",
+      "target_word": "gauge",
+      "words": [
+        "gauge",
+        "blur",
+        "scrub",
+        "scour"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "gauge 与近义词辨析",
+      "synset_definition": "rub to a uniform size",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 240,
+      "group_name": "harness, rein, baffle, hamper",
+      "target_word": "harness",
+      "words": [
+        "harness",
+        "rein",
+        "baffle",
+        "hamper"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "harness 与近义词辨析",
+      "synset_definition": "keep in check",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

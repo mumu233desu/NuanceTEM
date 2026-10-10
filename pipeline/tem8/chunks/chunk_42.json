@@ -1,0 +1,188 @@
+{
+  "batch_id": 42,
+  "chunk_name": "chunk_42",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 421,
+      "group_name": "precipitous, precipitate, hasty, hurried",
+      "target_word": "precipitous",
+      "words": [
+        "precipitous",
+        "precipitate",
+        "hasty",
+        "hurried"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "precipitous 与近义词辨析",
+      "synset_definition": "done with very great haste and without due deliberation; - Shakespeare; - Arthur Geddes",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 422,
+      "group_name": "reputable, estimable, good, respectable",
+      "target_word": "reputable",
+      "words": [
+        "reputable",
+        "estimable",
+        "good",
+        "respectable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "reputable 与近义词辨析",
+      "synset_definition": "having a good reputation",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 423,
+      "group_name": "rigorous, stringent, tight, demanding",
+      "target_word": "rigorous",
+      "words": [
+        "rigorous",
+        "stringent",
+        "tight",
+        "demanding"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rigorous 与近义词辨析",
+      "synset_definition": "demanding strict attention to rules and procedures",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 424,
+      "group_name": "stalwart, robust, hardy, stout",
+      "target_word": "stalwart",
+      "words": [
+        "stalwart",
+        "robust",
+        "hardy",
+        "stout"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "stalwart 与近义词辨析",
+      "synset_definition": "having rugged physical strength; inured to fatigue or hardships",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 425,
+      "group_name": "steep, precipitous, sharp, heavy",
+      "target_word": "steep",
+      "words": [
+        "steep",
+        "precipitous",
+        "sharp",
+        "heavy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "steep 与近义词辨析",
+      "synset_definition": "having a sharp inclination",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 426,
+      "group_name": "turbid, opaque, muddy, cloudy",
+      "target_word": "turbid",
+      "words": [
+        "turbid",
+        "opaque",
+        "muddy",
+        "cloudy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "turbid 与近义词辨析",
+      "synset_definition": "(of liquids) clouded as with sediment",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 427,
+      "group_name": "unbecoming, unseemly, indecent, improper",
+      "target_word": "unbecoming",
+      "words": [
+        "unbecoming",
+        "unseemly",
+        "indecent",
+        "improper"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "unbecoming 与近义词辨析",
+      "synset_definition": "not in keeping with accepted standards of what is right or proper in polite society",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 428,
+      "group_name": "unsettled, tentative, open, doubtful",
+      "target_word": "unsettled",
+      "words": [
+        "unsettled",
+        "tentative",
+        "open",
+        "doubtful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "unsettled 与近义词辨析",
+      "synset_definition": "still in doubt",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 429,
+      "group_name": "airy, ethereal, aerial, unreal",
+      "target_word": "airy",
+      "words": [
+        "airy",
+        "ethereal",
+        "aerial",
+        "unreal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "airy 与近义词辨析",
+      "synset_definition": "characterized by lightness and insubstantiality; as impalpable or intangible as air; - Thomas Carlyle",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 430,
+      "group_name": "austere, stark, stern, plain",
+      "target_word": "austere",
+      "words": [
+        "austere",
+        "stark",
+        "stern",
+        "plain"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "austere 与近义词辨析",
+      "synset_definition": "severely simple",
+      "t8_count": 2,
+      "cas_score": 80
+    }
+  ]
+}

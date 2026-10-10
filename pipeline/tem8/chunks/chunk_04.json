@@ -1,0 +1,188 @@
+{
+  "batch_id": 4,
+  "chunk_name": "chunk_04",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 41,
+      "group_name": "crease, pleat, pinch, furrow",
+      "target_word": "crease",
+      "words": [
+        "crease",
+        "pleat",
+        "pinch",
+        "furrow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "crease 与近义词辨析",
+      "synset_definition": "make wrinkled or creased",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 42,
+      "group_name": "cringe, funk, wince, quail",
+      "target_word": "cringe",
+      "words": [
+        "cringe",
+        "funk",
+        "wince",
+        "quail"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cringe 与近义词辨析",
+      "synset_definition": "draw back, as with fear or pain",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 43,
+      "group_name": "crunch, mash, grate, sliver",
+      "target_word": "crunch",
+      "words": [
+        "crunch",
+        "mash",
+        "grate",
+        "sliver"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "crunch 与近义词辨析",
+      "synset_definition": "reduce to small pieces or particles by pounding or abrading",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 44,
+      "group_name": "deaden, lighten, exacerbate, exasperate",
+      "target_word": "deaden",
+      "words": [
+        "deaden",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deaden 与近义词辨析",
+      "synset_definition": "make vapid or deprive of spirit",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 45,
+      "group_name": "debilitate, dampen, negate, mollify",
+      "target_word": "debilitate",
+      "words": [
+        "debilitate",
+        "dampen",
+        "negate",
+        "mollify"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "debilitate 与近义词辨析",
+      "synset_definition": "make weak",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 46,
+      "group_name": "decelerate, wane, flag, remit",
+      "target_word": "decelerate",
+      "words": [
+        "decelerate",
+        "wane",
+        "flag",
+        "remit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "decelerate 与近义词辨析",
+      "synset_definition": "lose velocity; move more slowly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 47,
+      "group_name": "deflate, lighten, exacerbate, exasperate",
+      "target_word": "deflate",
+      "words": [
+        "deflate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deflate 与近义词辨析",
+      "synset_definition": "produce deflation in",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 48,
+      "group_name": "deform, lighten, exacerbate, exasperate",
+      "target_word": "deform",
+      "words": [
+        "deform",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deform 与近义词辨析",
+      "synset_definition": "make formless",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 49,
+      "group_name": "deplore, trounce, reprove, admonish",
+      "target_word": "deplore",
+      "words": [
+        "deplore",
+        "trounce",
+        "reprove",
+        "admonish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "deplore 与近义词辨析",
+      "synset_definition": "express strong disapproval of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 50,
+      "group_name": "depose, profess, sanctify, consecrate",
+      "target_word": "depose",
+      "words": [
+        "depose",
+        "profess",
+        "sanctify",
+        "consecrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "depose 与近义词辨析",
+      "synset_definition": "make a deposition; declare under oath",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

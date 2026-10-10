@@ -1,0 +1,188 @@
+{
+  "batch_id": 51,
+  "chunk_name": "chunk_51",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 511,
+      "group_name": "ruddy, red, ruby, cherry",
+      "target_word": "ruddy",
+      "words": [
+        "ruddy",
+        "red",
+        "ruby",
+        "cherry"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ruddy 与近义词辨析",
+      "synset_definition": "of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 512,
+      "group_name": "rum, odd, funny, queer",
+      "target_word": "rum",
+      "words": [
+        "rum",
+        "odd",
+        "funny",
+        "queer"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rum 与近义词辨析",
+      "synset_definition": "beyond or deviating from the usual or expected",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 513,
+      "group_name": "salient, striking, prominent, outstanding",
+      "target_word": "salient",
+      "words": [
+        "salient",
+        "striking",
+        "prominent",
+        "outstanding"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "salient 与近义词辨析",
+      "synset_definition": "having a quality that thrusts itself into attention",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 514,
+      "group_name": "stark, blunt, crude, unconditional",
+      "target_word": "stark",
+      "words": [
+        "stark",
+        "blunt",
+        "crude",
+        "unconditional"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "stark 与近义词辨析",
+      "synset_definition": "devoid of any qualifications or disguise or adornment",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 515,
+      "group_name": "stately, noble, imposing, impressive",
+      "target_word": "stately",
+      "words": [
+        "stately",
+        "noble",
+        "imposing",
+        "impressive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "stately 与近义词辨析",
+      "synset_definition": "impressive in appearance",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 516,
+      "group_name": "uncouth, coarse, common, vulgar",
+      "target_word": "uncouth",
+      "words": [
+        "uncouth",
+        "coarse",
+        "common",
+        "vulgar"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "uncouth 与近义词辨析",
+      "synset_definition": "lacking refinement or cultivation or taste",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 517,
+      "group_name": "unequivocal, absolute, unquestionable, straightforward",
+      "target_word": "unequivocal",
+      "words": [
+        "unequivocal",
+        "absolute",
+        "unquestionable",
+        "straightforward"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "unequivocal 与近义词辨析",
+      "synset_definition": "admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 518,
+      "group_name": "unparalleled, alone, unique, incomparable",
+      "target_word": "unparalleled",
+      "words": [
+        "unparalleled",
+        "alone",
+        "unique",
+        "incomparable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "unparalleled 与近义词辨析",
+      "synset_definition": "radically distinctive and without equal",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 519,
+      "group_name": "vernal, young, youthful, immature",
+      "target_word": "vernal",
+      "words": [
+        "vernal",
+        "young",
+        "youthful",
+        "immature"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vernal 与近义词辨析",
+      "synset_definition": "suggestive of youth; vigorous and fresh",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 520,
+      "group_name": "viable, feasible, possible, practicable",
+      "target_word": "viable",
+      "words": [
+        "viable",
+        "feasible",
+        "possible",
+        "practicable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "viable 与近义词辨析",
+      "synset_definition": "capable of being done with means at hand and circumstances as they are",
+      "t8_count": 1,
+      "cas_score": 78
+    }
+  ]
+}

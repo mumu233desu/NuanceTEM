@@ -1,0 +1,188 @@
+{
+  "batch_id": 53,
+  "chunk_name": "chunk_53",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 531,
+      "group_name": "earthy, crude, gross, vulgar",
+      "target_word": "earthy",
+      "words": [
+        "earthy",
+        "crude",
+        "gross",
+        "vulgar"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "earthy 与近义词辨析",
+      "synset_definition": "conspicuously and tastelessly indecent",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 532,
+      "group_name": "elemental, basic, primary, elementary",
+      "target_word": "elemental",
+      "words": [
+        "elemental",
+        "basic",
+        "primary",
+        "elementary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "elemental 与近义词辨析",
+      "synset_definition": "of or being the essential or basic part",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 533,
+      "group_name": "eligible, worthy, suitable, desirable",
+      "target_word": "eligible",
+      "words": [
+        "eligible",
+        "worthy",
+        "suitable",
+        "desirable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "eligible 与近义词辨析",
+      "synset_definition": "qualified for or allowed or worthy of being chosen",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 534,
+      "group_name": "fainthearted, faint, timid, fearful",
+      "target_word": "fainthearted",
+      "words": [
+        "fainthearted",
+        "faint",
+        "timid",
+        "fearful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fainthearted 与近义词辨析",
+      "synset_definition": "lacking conviction or boldness or courage",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 535,
+      "group_name": "festive, gay, merry, joyous",
+      "target_word": "festive",
+      "words": [
+        "festive",
+        "gay",
+        "merry",
+        "joyous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "festive 与近义词辨析",
+      "synset_definition": "offering fun and gaiety",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 536,
+      "group_name": "fiddling, petty, little, trivial",
+      "target_word": "fiddling",
+      "words": [
+        "fiddling",
+        "petty",
+        "little",
+        "trivial"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "fiddling 与近义词辨析",
+      "synset_definition": "(informal) small and of little importance",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 537,
+      "group_name": "flaxen, sandy, blond, blonde",
+      "target_word": "flaxen",
+      "words": [
+        "flaxen",
+        "sandy",
+        "blond",
+        "blonde"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flaxen 与近义词辨析",
+      "synset_definition": "of hair color; pale yellowish to yellowish brown",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 538,
+      "group_name": "glum, dark, sour, sullen",
+      "target_word": "glum",
+      "words": [
+        "glum",
+        "dark",
+        "sour",
+        "sullen"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "glum 与近义词辨析",
+      "synset_definition": "showing a brooding ill humor; ; ; ; ; ; - Bruce Bliven",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 539,
+      "group_name": "grotesque, antic, strange, unusual",
+      "target_word": "grotesque",
+      "words": [
+        "grotesque",
+        "antic",
+        "strange",
+        "unusual"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "grotesque 与近义词辨析",
+      "synset_definition": "ludicrously odd",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 540,
+      "group_name": "harebrained, mad, insane, foolish",
+      "target_word": "harebrained",
+      "words": [
+        "harebrained",
+        "mad",
+        "insane",
+        "foolish"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "harebrained 与近义词辨析",
+      "synset_definition": "very foolish",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

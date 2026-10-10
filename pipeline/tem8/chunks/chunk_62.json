@@ -1,0 +1,188 @@
+{
+  "batch_id": 62,
+  "chunk_name": "chunk_62",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 621,
+      "group_name": "plight, mire, pinch, bitch",
+      "target_word": "plight",
+      "words": [
+        "plight",
+        "mire",
+        "pinch",
+        "bitch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "plight 与近义词辨析",
+      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 622,
+      "group_name": "posture, stance, reverence, disrespect",
+      "target_word": "posture",
+      "words": [
+        "posture",
+        "stance",
+        "reverence",
+        "disrespect"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "posture 与近义词辨析",
+      "synset_definition": "a rationalized mental attitude",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 623,
+      "group_name": "predicament, mire, pinch, bitch",
+      "target_word": "predicament",
+      "words": [
+        "predicament",
+        "mire",
+        "pinch",
+        "bitch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "predicament 与近义词辨析",
+      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 624,
+      "group_name": "quicksand, impasse, deadlock, stalemate",
+      "target_word": "quicksand",
+      "words": [
+        "quicksand",
+        "impasse",
+        "deadlock",
+        "stalemate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quicksand 与近义词辨析",
+      "synset_definition": "a treacherous situation that tends to entrap and destroy",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 625,
+      "group_name": "racer, mutant, scavenger, herbivore",
+      "target_word": "racer",
+      "words": [
+        "racer",
+        "mutant",
+        "scavenger",
+        "herbivore"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "racer 与近义词辨析",
+      "synset_definition": "an animal that races",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 626,
+      "group_name": "relapse, lapse, flunk, failing",
+      "target_word": "relapse",
+      "words": [
+        "relapse",
+        "lapse",
+        "flunk",
+        "failing"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "relapse 与近义词辨析",
+      "synset_definition": "a failure to maintain a higher state",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 627,
+      "group_name": "respite, lull, lapse, blackout",
+      "target_word": "respite",
+      "words": [
+        "respite",
+        "lull",
+        "lapse",
+        "blackout"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "respite 与近义词辨析",
+      "synset_definition": "a pause for relaxation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 628,
+      "group_name": "reversion, lapse, flunk, relapse",
+      "target_word": "reversion",
+      "words": [
+        "reversion",
+        "lapse",
+        "flunk",
+        "relapse"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "reversion 与近义词辨析",
+      "synset_definition": "a failure to maintain a higher state",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 629,
+      "group_name": "sag, furrow, crease, dimple",
+      "target_word": "sag",
+      "words": [
+        "sag",
+        "furrow",
+        "crease",
+        "dimple"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sag 与近义词辨析",
+      "synset_definition": "a shape that sags",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 630,
+      "group_name": "sanctuary, loft, hovel, hutch",
+      "target_word": "sanctuary",
+      "words": [
+        "sanctuary",
+        "loft",
+        "hovel",
+        "hutch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sanctuary 与近义词辨析",
+      "synset_definition": "a shelter from danger or hardship",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

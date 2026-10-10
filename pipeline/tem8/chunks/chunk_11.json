@@ -1,0 +1,188 @@
+{
+  "batch_id": 11,
+  "chunk_name": "chunk_11",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 111,
+      "group_name": "insulate, lighten, exacerbate, exasperate",
+      "target_word": "insulate",
+      "words": [
+        "insulate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "insulate 与近义词辨析",
+      "synset_definition": "protect from heat, cold, or noise by surrounding with insulating material",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 112,
+      "group_name": "intersperse, foist, inset, inoculate",
+      "target_word": "intersperse",
+      "words": [
+        "intersperse",
+        "foist",
+        "inset",
+        "inoculate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "intersperse 与近义词辨析",
+      "synset_definition": "introduce one's writing or speech with certain expressions",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 113,
+      "group_name": "introvert, lighten, exacerbate, exasperate",
+      "target_word": "introvert",
+      "words": [
+        "introvert",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "introvert 与近义词辨析",
+      "synset_definition": "turn inside",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 114,
+      "group_name": "jog, scurry, sprint, scuttle",
+      "target_word": "jog",
+      "words": [
+        "jog",
+        "scurry",
+        "sprint",
+        "scuttle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "jog 与近义词辨析",
+      "synset_definition": "run at a moderately swift pace",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 115,
+      "group_name": "jolt, swoop, fidget, flurry",
+      "target_word": "jolt",
+      "words": [
+        "jolt",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "jolt 与近义词辨析",
+      "synset_definition": "move or cause to move with a sudden jerky motion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 116,
+      "group_name": "juggle, chuck, hurtle, bombard",
+      "target_word": "juggle",
+      "words": [
+        "juggle",
+        "chuck",
+        "hurtle",
+        "bombard"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "juggle 与近义词辨析",
+      "synset_definition": "throw, catch, and keep in the air several things simultaneously",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 117,
+      "group_name": "knead, wield, ruffle, tamper",
+      "target_word": "knead",
+      "words": [
+        "knead",
+        "wield",
+        "ruffle",
+        "tamper"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "knead 与近义词辨析",
+      "synset_definition": "manually manipulate (someone's body), usually for medicinal or relaxation purposes",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 118,
+      "group_name": "mince, lighten, exacerbate, exasperate",
+      "target_word": "mince",
+      "words": [
+        "mince",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mince 与近义词辨析",
+      "synset_definition": "make less severe or harsh",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 119,
+      "group_name": "mire, muck, foul, slime",
+      "target_word": "mire",
+      "words": [
+        "mire",
+        "muck",
+        "foul",
+        "slime"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mire 与近义词辨析",
+      "synset_definition": "soil with mud, muck, or mire",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 120,
+      "group_name": "mitigate, pare, abate, abbreviate",
+      "target_word": "mitigate",
+      "words": [
+        "mitigate",
+        "pare",
+        "abate",
+        "abbreviate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mitigate 与近义词辨析",
+      "synset_definition": "make less severe or harsh",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 13,
+  "chunk_name": "chunk_13",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 131,
+      "group_name": "quiver, swoop, fidget, flurry",
+      "target_word": "quiver",
+      "words": [
+        "quiver",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quiver 与近义词辨析",
+      "synset_definition": "move with or as if with a regular alternating motion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 132,
+      "group_name": "rasp, blurt, whiff, snarl",
+      "target_word": "rasp",
+      "words": [
+        "rasp",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rasp 与近义词辨析",
+      "synset_definition": "utter in a grating voice",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 133,
+      "group_name": "rationalize, lighten, exacerbate, exasperate",
+      "target_word": "rationalize",
+      "words": [
+        "rationalize",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rationalize 与近义词辨析",
+      "synset_definition": "remove irrational quantities from",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 134,
+      "group_name": "rattle, rap, thud, drone",
+      "target_word": "rattle",
+      "words": [
+        "rattle",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rattle 与近义词辨析",
+      "synset_definition": "make short successive sounds",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 135,
+      "group_name": "recapture, loot, foray, extort",
+      "target_word": "recapture",
+      "words": [
+        "recapture",
+        "loot",
+        "foray",
+        "extort"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "recapture 与近义词辨析",
+      "synset_definition": "take back by force, as after a battle",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 136,
+      "group_name": "reciprocate, swoop, fidget, flurry",
+      "target_word": "reciprocate",
+      "words": [
+        "reciprocate",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "reciprocate 与近义词辨析",
+      "synset_definition": "alternate the direction of motion of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 137,
+      "group_name": "rectify, lighten, exacerbate, exasperate",
+      "target_word": "rectify",
+      "words": [
+        "rectify",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "rectify 与近义词辨析",
+      "synset_definition": "bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 138,
+      "group_name": "regress, flip, revert, falsify",
+      "target_word": "regress",
+      "words": [
+        "regress",
+        "flip",
+        "revert",
+        "falsify"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "regress 与近义词辨析",
+      "synset_definition": "go back to a previous state",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 139,
+      "group_name": "reinstate, lighten, exacerbate, exasperate",
+      "target_word": "reinstate",
+      "words": [
+        "reinstate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "reinstate 与近义词辨析",
+      "synset_definition": "bring back into original existence, use, function, or position",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 140,
+      "group_name": "rejuvenate, jog, lure, entice",
+      "target_word": "rejuvenate",
+      "words": [
+        "rejuvenate",
+        "jog",
+        "lure",
+        "entice"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rejuvenate 与近义词辨析",
+      "synset_definition": "cause (a stream or river) to erode, as by an uplift of the land",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

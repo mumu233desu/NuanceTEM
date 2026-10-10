@@ -1,0 +1,188 @@
+{
+  "batch_id": 35,
+  "chunk_name": "chunk_35",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 351,
+      "group_name": "temporal, mundane, mercenary, terrestrial",
+      "target_word": "temporal",
+      "words": [
+        "temporal",
+        "mundane",
+        "mercenary",
+        "terrestrial"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "temporal 与近义词辨析",
+      "synset_definition": "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 352,
+      "group_name": "aberrant, deviant, deviate, abnormal",
+      "target_word": "aberrant",
+      "words": [
+        "aberrant",
+        "deviant",
+        "deviate",
+        "abnormal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aberrant 与近义词辨析",
+      "synset_definition": "markedly different from an accepted norm",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 353,
+      "group_name": "ailing, seedy, indisposed, ill",
+      "target_word": "ailing",
+      "words": [
+        "ailing",
+        "seedy",
+        "indisposed",
+        "ill"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ailing 与近义词辨析",
+      "synset_definition": "somewhat ill or prone to illness",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 354,
+      "group_name": "artful, cute, elusive, precious",
+      "target_word": "artful",
+      "words": [
+        "artful",
+        "cute",
+        "elusive",
+        "precious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "artful 与近义词辨析",
+      "synset_definition": "marked by skill in achieving a desired end especially with cunning or craft",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 355,
+      "group_name": "baleful, ominous, forbidding, sinister",
+      "target_word": "baleful",
+      "words": [
+        "baleful",
+        "ominous",
+        "forbidding",
+        "sinister"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "baleful 与近义词辨析",
+      "synset_definition": "threatening or foreshadowing evil or tragic developments",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 356,
+      "group_name": "banal, hackneyed, threadbare, stock",
+      "target_word": "banal",
+      "words": [
+        "banal",
+        "hackneyed",
+        "threadbare",
+        "stock"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "banal 与近义词辨析",
+      "synset_definition": "repeated too often; overfamiliar through overuse",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 357,
+      "group_name": "candid, outspoken, forthright, blunt",
+      "target_word": "candid",
+      "words": [
+        "candid",
+        "outspoken",
+        "forthright",
+        "blunt"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "candid 与近义词辨析",
+      "synset_definition": "characterized by directness in manner or speech; without subtlety or evasion",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 358,
+      "group_name": "clandestine, covert, surreptitious, secret",
+      "target_word": "clandestine",
+      "words": [
+        "clandestine",
+        "covert",
+        "surreptitious",
+        "secret"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clandestine 与近义词辨析",
+      "synset_definition": "conducted with or marked by hidden aims or methods",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 359,
+      "group_name": "corpulent, obese, weighty, fat",
+      "target_word": "corpulent",
+      "words": [
+        "corpulent",
+        "obese",
+        "weighty",
+        "fat"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "corpulent 与近义词辨析",
+      "synset_definition": "excessively fat",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 360,
+      "group_name": "degenerate, dissolute, dissipated, fast",
+      "target_word": "degenerate",
+      "words": [
+        "degenerate",
+        "dissolute",
+        "dissipated",
+        "fast"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "degenerate 与近义词辨析",
+      "synset_definition": "unrestrained by convention or morality",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

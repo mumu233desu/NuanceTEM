@@ -1,0 +1,188 @@
+{
+  "batch_id": 74,
+  "chunk_name": "chunk_74",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 741,
+      "group_name": "blitz, bombard, circumvent, gas",
+      "target_word": "blitz",
+      "words": [
+        "blitz",
+        "bombard",
+        "circumvent",
+        "gas"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "blitz 与近义词辨析",
+      "synset_definition": "attack suddenly and without warning",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 742,
+      "group_name": "blob, fleck, spot, blot",
+      "target_word": "blob",
+      "words": [
+        "blob",
+        "fleck",
+        "spot",
+        "blot"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blob 与近义词辨析",
+      "synset_definition": "make a spot or mark onto",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 743,
+      "group_name": "bog, fracture, disrupt, interrupt",
+      "target_word": "bog",
+      "words": [
+        "bog",
+        "fracture",
+        "disrupt",
+        "interrupt"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bog 与近义词辨析",
+      "synset_definition": "get stuck while doing something",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 744,
+      "group_name": "boggle, waver, hover, falter",
+      "target_word": "boggle",
+      "words": [
+        "boggle",
+        "waver",
+        "hover",
+        "falter"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "boggle 与近义词辨析",
+      "synset_definition": "hesitate when confronted with a problem, or when in doubt or fear",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 745,
+      "group_name": "brainwash, seduce, cajole, badger",
+      "target_word": "brainwash",
+      "words": [
+        "brainwash",
+        "seduce",
+        "cajole",
+        "badger"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "brainwash 与近义词辨析",
+      "synset_definition": "persuade completely, often through coercion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 746,
+      "group_name": "bridle, field, repay, retort",
+      "target_word": "bridle",
+      "words": [
+        "bridle",
+        "field",
+        "repay",
+        "retort"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bridle 与近义词辨析",
+      "synset_definition": "respond to the reins, as of horses",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 747,
+      "group_name": "budge, agitate, stir, shift",
+      "target_word": "budge",
+      "words": [
+        "budge",
+        "agitate",
+        "stir",
+        "shift"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "budge 与近义词辨析",
+      "synset_definition": "move very slightly",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 748,
+      "group_name": "burrow, rut, furrow, root",
+      "target_word": "burrow",
+      "words": [
+        "burrow",
+        "rut",
+        "furrow",
+        "root"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "burrow 与近义词辨析",
+      "synset_definition": "move through by or as by digging",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 749,
+      "group_name": "camouflage, masquerade, mask, cloak",
+      "target_word": "camouflage",
+      "words": [
+        "camouflage",
+        "masquerade",
+        "mask",
+        "cloak"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "camouflage 与近义词辨析",
+      "synset_definition": "disguise by camouflaging; exploit the natural surroundings to disguise something",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 750,
+      "group_name": "canoe, row, sail, yacht",
+      "target_word": "canoe",
+      "words": [
+        "canoe",
+        "row",
+        "sail",
+        "yacht"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "canoe 与近义词辨析",
+      "synset_definition": "travel by canoe",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

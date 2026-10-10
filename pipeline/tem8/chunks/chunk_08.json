@@ -1,0 +1,188 @@
+{
+  "batch_id": 8,
+  "chunk_name": "chunk_08",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 81,
+      "group_name": "flag, wane, remit, deflate",
+      "target_word": "flag",
+      "words": [
+        "flag",
+        "wane",
+        "remit",
+        "deflate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flag 与近义词辨析",
+      "synset_definition": "become less intense",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 82,
+      "group_name": "flinch, funk, wince, quail",
+      "target_word": "flinch",
+      "words": [
+        "flinch",
+        "funk",
+        "wince",
+        "quail"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flinch 与近义词辨析",
+      "synset_definition": "draw back, as with fear or pain",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 83,
+      "group_name": "flip, swoop, twitch, fidget",
+      "target_word": "flip",
+      "words": [
+        "flip",
+        "swoop",
+        "twitch",
+        "fidget"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flip 与近义词辨析",
+      "synset_definition": "toss with a sharp movement so as to cause to turn over in the air",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 84,
+      "group_name": "flounder, wade, slink, mince",
+      "target_word": "flounder",
+      "words": [
+        "flounder",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flounder 与近义词辨析",
+      "synset_definition": "walk with great difficulty",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 85,
+      "group_name": "flout, jeer, scoff, banter",
+      "target_word": "flout",
+      "words": [
+        "flout",
+        "jeer",
+        "scoff",
+        "banter"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "flout 与近义词辨析",
+      "synset_definition": "laugh at with contempt and derision",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 86,
+      "group_name": "flurry, swoop, fidget, wallow",
+      "target_word": "flurry",
+      "words": [
+        "flurry",
+        "swoop",
+        "fidget",
+        "wallow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flurry 与近义词辨析",
+      "synset_definition": "move in an agitated or confused manner",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 87,
+      "group_name": "foray, immerse, pervade, permeate",
+      "target_word": "foray",
+      "words": [
+        "foray",
+        "immerse",
+        "pervade",
+        "permeate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "foray 与近义词辨析",
+      "synset_definition": "briefly enter enemy territory",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 88,
+      "group_name": "fortify, lighten, exacerbate, exasperate",
+      "target_word": "fortify",
+      "words": [
+        "fortify",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fortify 与近义词辨析",
+      "synset_definition": "make strong or stronger",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 89,
+      "group_name": "fracture, maim, trample, incapacitate",
+      "target_word": "fracture",
+      "words": [
+        "fracture",
+        "maim",
+        "trample",
+        "incapacitate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fracture 与近义词辨析",
+      "synset_definition": "fracture a bone of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 90,
+      "group_name": "fret, grate, beset, harass",
+      "target_word": "fret",
+      "words": [
+        "fret",
+        "grate",
+        "beset",
+        "harass"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fret 与近义词辨析",
+      "synset_definition": "cause annoyance in",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

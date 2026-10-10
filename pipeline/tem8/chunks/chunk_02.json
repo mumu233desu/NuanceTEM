@@ -1,0 +1,188 @@
+{
+  "batch_id": 2,
+  "chunk_name": "chunk_02",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 21,
+      "group_name": "appease, pacify, mollify, conciliate",
+      "target_word": "appease",
+      "words": [
+        "appease",
+        "pacify",
+        "mollify",
+        "conciliate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "appease 与近义词辨析",
+      "synset_definition": "cause to be more favorably inclined; gain the good will of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 22,
+      "group_name": "assimilate, lighten, exacerbate, exasperate",
+      "target_word": "assimilate",
+      "words": [
+        "assimilate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assimilate 与近义词辨析",
+      "synset_definition": "make similar",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 23,
+      "group_name": "banish, shun, eject, relegate",
+      "target_word": "banish",
+      "words": [
+        "banish",
+        "shun",
+        "eject",
+        "relegate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "banish 与近义词辨析",
+      "synset_definition": "expel from a community or group",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 24,
+      "group_name": "beguile, trance, bewitch, captivate",
+      "target_word": "beguile",
+      "words": [
+        "beguile",
+        "trance",
+        "bewitch",
+        "captivate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "beguile 与近义词辨析",
+      "synset_definition": "attract; cause to be enamored",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 25,
+      "group_name": "blunder, fumble, trespass, infiltrate",
+      "target_word": "blunder",
+      "words": [
+        "blunder",
+        "fumble",
+        "trespass",
+        "infiltrate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "blunder 与近义词辨析",
+      "synset_definition": "make one's way clumsily or blindly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 26,
+      "group_name": "blur, lighten, exacerbate, exasperate",
+      "target_word": "blur",
+      "words": [
+        "blur",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "blur 与近义词辨析",
+      "synset_definition": "to make less distinct or clear",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 27,
+      "group_name": "boost, ram, jab, prod",
+      "target_word": "boost",
+      "words": [
+        "boost",
+        "ram",
+        "jab",
+        "prod"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "boost 与近义词辨析",
+      "synset_definition": "push or shove upward, as if from below or behind",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 28,
+      "group_name": "bunker, shunt, shuffle, transpose",
+      "target_word": "bunker",
+      "words": [
+        "bunker",
+        "shunt",
+        "shuffle",
+        "transpose"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "bunker 与近义词辨析",
+      "synset_definition": "transfer cargo from a ship to a warehouse",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 29,
+      "group_name": "chant, trill, chirp, quaver",
+      "target_word": "chant",
+      "words": [
+        "chant",
+        "trill",
+        "chirp",
+        "quaver"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "chant 与近义词辨析",
+      "synset_definition": "recite with musical intonation; recite as a chant or a psalm",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 30,
+      "group_name": "churn, swoop, fidget, flurry",
+      "target_word": "churn",
+      "words": [
+        "churn",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "churn 与近义词辨析",
+      "synset_definition": "be agitated",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

@@ -56,3 +56,6 @@ screenshots/
 archive_data/
 tests/
 .wrangler/
+pipeline/tem8/.cache/
+__pycache__/
+*.pyc

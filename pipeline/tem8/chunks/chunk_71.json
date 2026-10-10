@@ -1,0 +1,188 @@
+{
+  "batch_id": 71,
+  "chunk_name": "chunk_71",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 711,
+      "group_name": "allude, insinuate, touch, intimate",
+      "target_word": "allude",
+      "words": [
+        "allude",
+        "insinuate",
+        "touch",
+        "intimate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "allude 与近义词辨析",
+      "synset_definition": "make a more or less disguised reference to",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 712,
+      "group_name": "amalgamate, mix, unify, mingle",
+      "target_word": "amalgamate",
+      "words": [
+        "amalgamate",
+        "mix",
+        "unify",
+        "mingle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "amalgamate 与近义词辨析",
+      "synset_definition": "to bring or combine together or with something else",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 713,
+      "group_name": "amass, accrue, add, wax",
+      "target_word": "amass",
+      "words": [
+        "amass",
+        "accrue",
+        "add",
+        "wax"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "amass 与近义词辨析",
+      "synset_definition": "collect or gather",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 714,
+      "group_name": "anagram, decipher, skim, trace",
+      "target_word": "anagram",
+      "words": [
+        "anagram",
+        "decipher",
+        "skim",
+        "trace"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "anagram 与近义词辨析",
+      "synset_definition": "read letters out of order to discover a hidden meaning",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 715,
+      "group_name": "anguish, lose, grieve, sorrow",
+      "target_word": "anguish",
+      "words": [
+        "anguish",
+        "lose",
+        "grieve",
+        "sorrow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "anguish 与近义词辨析",
+      "synset_definition": "suffer great pains or distress",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 716,
+      "group_name": "annihilate, decimate, eliminate, eradicate",
+      "target_word": "annihilate",
+      "words": [
+        "annihilate",
+        "decimate",
+        "eliminate",
+        "eradicate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "annihilate 与近义词辨析",
+      "synset_definition": "kill in large numbers",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 717,
+      "group_name": "apparel, unwind, burn, thin",
+      "target_word": "apparel",
+      "words": [
+        "apparel",
+        "unwind",
+        "burn",
+        "thin"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "apparel 与近义词辨析",
+      "synset_definition": "provide with clothes or put clothes on",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 718,
+      "group_name": "append, tether, tag, nail",
+      "target_word": "append",
+      "words": [
+        "append",
+        "tether",
+        "tag",
+        "nail"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "append 与近义词辨析",
+      "synset_definition": "add to the very end",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 719,
+      "group_name": "appraise, value, assess, measure",
+      "target_word": "appraise",
+      "words": [
+        "appraise",
+        "value",
+        "assess",
+        "measure"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "appraise 与近义词辨析",
+      "synset_definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 720,
+      "group_name": "apprehend, dig, grasp, compass",
+      "target_word": "apprehend",
+      "words": [
+        "apprehend",
+        "dig",
+        "grasp",
+        "compass"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "apprehend 与近义词辨析",
+      "synset_definition": "get the meaning of something",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

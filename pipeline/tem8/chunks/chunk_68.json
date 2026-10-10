@@ -1,0 +1,188 @@
+{
+  "batch_id": 68,
+  "chunk_name": "chunk_68",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 681,
+      "group_name": "squirm, waver, wiggle, quiver",
+      "target_word": "squirm",
+      "words": [
+        "squirm",
+        "waver",
+        "wiggle",
+        "quiver"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "squirm 与近义词辨析",
+      "synset_definition": "the act of wiggling",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 682,
+      "group_name": "stereotype, blur, fuzz, schema",
+      "target_word": "stereotype",
+      "words": [
+        "stereotype",
+        "blur",
+        "fuzz",
+        "schema"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "stereotype 与近义词辨析",
+      "synset_definition": "a conventional or formulaic conception or image",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 683,
+      "group_name": "straddle, waver, quiver, flicker",
+      "target_word": "straddle",
+      "words": [
+        "straddle",
+        "waver",
+        "quiver",
+        "flicker"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "straddle 与近义词辨析",
+      "synset_definition": "the act of sitting or standing astride",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 684,
+      "group_name": "transient, rover, flier, flyer",
+      "target_word": "transient",
+      "words": [
+        "transient",
+        "rover",
+        "flier",
+        "flyer"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "transient 与近义词辨析",
+      "synset_definition": "one who stays for only a short time",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 685,
+      "group_name": "turning, wring, rebound, repercussion",
+      "target_word": "turning",
+      "words": [
+        "turning",
+        "wring",
+        "rebound",
+        "repercussion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "turning 与近义词辨析",
+      "synset_definition": "a movement in a new direction",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 686,
+      "group_name": "wrench, rupture, frostbite, hemorrhage",
+      "target_word": "wrench",
+      "words": [
+        "wrench",
+        "rupture",
+        "frostbite",
+        "hemorrhage"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wrench 与近义词辨析",
+      "synset_definition": "a sharp strain on muscles or ligaments",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 687,
+      "group_name": "wriggle, waver, wiggle, squirm",
+      "target_word": "wriggle",
+      "words": [
+        "wriggle",
+        "waver",
+        "wiggle",
+        "squirm"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wriggle 与近义词辨析",
+      "synset_definition": "the act of wiggling",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 688,
+      "group_name": "abrasive, rind, adhesive, foam",
+      "target_word": "abrasive",
+      "words": [
+        "abrasive",
+        "rind",
+        "adhesive",
+        "foam"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abrasive 与近义词辨析",
+      "synset_definition": "a substance that abrades or wears down",
+      "t8_count": 3,
+      "cas_score": 85
+    },
+    {
+      "group_id": 689,
+      "group_name": "affinity, lineage, parentage, birth",
+      "target_word": "affinity",
+      "words": [
+        "affinity",
+        "lineage",
+        "parentage",
+        "birth"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affinity 与近义词辨析",
+      "synset_definition": "(anthropology) kinship by marriage or adoption; not a blood relationship",
+      "t8_count": 3,
+      "cas_score": 85
+    },
+    {
+      "group_id": 690,
+      "group_name": "abase, affront, sting, humble",
+      "target_word": "abase",
+      "words": [
+        "abase",
+        "affront",
+        "sting",
+        "humble"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "abase 与近义词辨析",
+      "synset_definition": "cause to feel shame; hurt the pride of",
+      "t8_count": 2,
+      "cas_score": 84
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 31,
+  "chunk_name": "chunk_31",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 311,
+      "group_name": "conspire, conjure, intrigue, scheme",
+      "target_word": "conspire",
+      "words": [
+        "conspire",
+        "conjure",
+        "intrigue",
+        "scheme"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "conspire 与近义词辨析",
+      "synset_definition": "engage in plotting or enter into a conspiracy, swear together",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 312,
+      "group_name": "contemplate, muse, meditate, ponder",
+      "target_word": "contemplate",
+      "words": [
+        "contemplate",
+        "muse",
+        "meditate",
+        "ponder"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "contemplate 与近义词辨析",
+      "synset_definition": "reflect deeply on a subject",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 313,
+      "group_name": "contrive, forge, formulate, invent",
+      "target_word": "contrive",
+      "words": [
+        "contrive",
+        "forge",
+        "formulate",
+        "invent"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "contrive 与近义词辨析",
+      "synset_definition": "come up with (an idea, plan, explanation, theory, or principle) after a mental effort",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 314,
+      "group_name": "counteract, subvert, sabotage, weaken",
+      "target_word": "counteract",
+      "words": [
+        "counteract",
+        "subvert",
+        "sabotage",
+        "weaken"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "counteract 与近义词辨析",
+      "synset_definition": "destroy property or hinder normal operations",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 315,
+      "group_name": "critique, ascribe, attribute, rate",
+      "target_word": "critique",
+      "words": [
+        "critique",
+        "ascribe",
+        "attribute",
+        "rate"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "critique 与近义词辨析",
+      "synset_definition": "appraise critically",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 316,
+      "group_name": "croak, perish, decease, go",
+      "target_word": "croak",
+      "words": [
+        "croak",
+        "perish",
+        "decease",
+        "go"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "croak 与近义词辨析",
+      "synset_definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 317,
+      "group_name": "culminate, lapse, adjourn, break",
+      "target_word": "culminate",
+      "words": [
+        "culminate",
+        "lapse",
+        "adjourn",
+        "break"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "culminate 与近义词辨析",
+      "synset_definition": "end, especially to reach a final or climactic stage",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 318,
+      "group_name": "dab, jab, hew, pat",
+      "target_word": "dab",
+      "words": [
+        "dab",
+        "jab",
+        "hew",
+        "pat"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dab 与近义词辨析",
+      "synset_definition": "hit lightly",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 319,
+      "group_name": "debase, pervert, subvert, corrupt",
+      "target_word": "debase",
+      "words": [
+        "debase",
+        "pervert",
+        "subvert",
+        "corrupt"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "debase 与近义词辨析",
+      "synset_definition": "corrupt morally or by intemperance or sensuality",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 320,
+      "group_name": "decoy, snare, seduce, hook",
+      "target_word": "decoy",
+      "words": [
+        "decoy",
+        "snare",
+        "seduce",
+        "hook"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "decoy 与近义词辨析",
+      "synset_definition": "lure or entrap with or as if with a decoy",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

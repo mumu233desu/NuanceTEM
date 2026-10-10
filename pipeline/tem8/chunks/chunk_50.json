@@ -1,0 +1,188 @@
+{
+  "batch_id": 50,
+  "chunk_name": "chunk_50",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 501,
+      "group_name": "jumbo, big, giant, large",
+      "target_word": "jumbo",
+      "words": [
+        "jumbo",
+        "big",
+        "giant",
+        "large"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "jumbo 与近义词辨析",
+      "synset_definition": "of great mass; huge and bulky",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 502,
+      "group_name": "mean, nasty, awful, hateful",
+      "target_word": "mean",
+      "words": [
+        "mean",
+        "nasty",
+        "awful",
+        "hateful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mean 与近义词辨析",
+      "synset_definition": "characterized by malice",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 503,
+      "group_name": "operational, active, fighting, effective",
+      "target_word": "operational",
+      "words": [
+        "operational",
+        "active",
+        "fighting",
+        "effective"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "operational 与近义词辨析",
+      "synset_definition": "(military) of or intended for or involved in military operations",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 504,
+      "group_name": "planetary, world, global, international",
+      "target_word": "planetary",
+      "words": [
+        "planetary",
+        "world",
+        "global",
+        "international"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "planetary 与近义词辨析",
+      "synset_definition": "involving the entire earth; not limited or provincial in scope",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 505,
+      "group_name": "prospective, likely, future, potential",
+      "target_word": "prospective",
+      "words": [
+        "prospective",
+        "likely",
+        "future",
+        "potential"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "prospective 与近义词辨析",
+      "synset_definition": "of or concerned with or related to the future",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 506,
+      "group_name": "quick, fast, prompt, immediate",
+      "target_word": "quick",
+      "words": [
+        "quick",
+        "fast",
+        "prompt",
+        "immediate"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quick 与近义词辨析",
+      "synset_definition": "performed with little or no delay",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 507,
+      "group_name": "rampant, erect, upright, vertical",
+      "target_word": "rampant",
+      "words": [
+        "rampant",
+        "erect",
+        "upright",
+        "vertical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rampant 与近义词辨析",
+      "synset_definition": "rearing on left hind leg with forelegs elevated and head usually in profile",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 508,
+      "group_name": "resplendent, glorious, splendid, beautiful",
+      "target_word": "resplendent",
+      "words": [
+        "resplendent",
+        "glorious",
+        "splendid",
+        "beautiful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "resplendent 与近义词辨析",
+      "synset_definition": "having great beauty and splendor",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 509,
+      "group_name": "resultant, attendant, consequent, incidental",
+      "target_word": "resultant",
+      "words": [
+        "resultant",
+        "attendant",
+        "consequent",
+        "incidental"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "resultant 与近义词辨析",
+      "synset_definition": "following or accompanying as a consequence",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 510,
+      "group_name": "righteous, good, just, sound",
+      "target_word": "righteous",
+      "words": [
+        "righteous",
+        "good",
+        "just",
+        "sound"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "righteous 与近义词辨析",
+      "synset_definition": "characterized by or proceeding from accepted standards of morality or justice; - James 5:16",
+      "t8_count": 1,
+      "cas_score": 78
+    }
+  ]
+}

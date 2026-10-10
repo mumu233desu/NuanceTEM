@@ -1,0 +1,188 @@
+{
+  "batch_id": 20,
+  "chunk_name": "chunk_20",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 201,
+      "group_name": "bleep, rap, thud, drone",
+      "target_word": "bleep",
+      "words": [
+        "bleep",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bleep 与近义词辨析",
+      "synset_definition": "emit a single short high-pitched signal",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 202,
+      "group_name": "blemish, sully, taint, deface",
+      "target_word": "blemish",
+      "words": [
+        "blemish",
+        "sully",
+        "taint",
+        "deface"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blemish 与近义词辨析",
+      "synset_definition": "mar or spoil the appearance of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 203,
+      "group_name": "bootleg, undercut, undersell, auctioneer",
+      "target_word": "bootleg",
+      "words": [
+        "bootleg",
+        "undercut",
+        "undersell",
+        "auctioneer"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bootleg 与近义词辨析",
+      "synset_definition": "sell illicit products such as drugs or alcohol",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 204,
+      "group_name": "buff, slick, sleek, gloss",
+      "target_word": "buff",
+      "words": [
+        "buff",
+        "slick",
+        "sleek",
+        "gloss"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "buff 与近义词辨析",
+      "synset_definition": "polish and make shiny",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 205,
+      "group_name": "bulge, furl, flex, pouch",
+      "target_word": "bulge",
+      "words": [
+        "bulge",
+        "furl",
+        "flex",
+        "pouch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bulge 与近义词辨析",
+      "synset_definition": "swell or protrude outwards",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 206,
+      "group_name": "bunk, juggle, surcharge, victimize",
+      "target_word": "bunk",
+      "words": [
+        "bunk",
+        "juggle",
+        "surcharge",
+        "victimize"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bunk 与近义词辨析",
+      "synset_definition": "avoid paying",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 207,
+      "group_name": "bustle, swoop, fidget, flurry",
+      "target_word": "bustle",
+      "words": [
+        "bustle",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bustle 与近义词辨析",
+      "synset_definition": "move or cause to move energetically or busily",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 208,
+      "group_name": "buzz, rap, thud, drone",
+      "target_word": "buzz",
+      "words": [
+        "buzz",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "buzz 与近义词辨析",
+      "synset_definition": "make a buzzing sound",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 209,
+      "group_name": "bypass, shun, fudge, evade",
+      "target_word": "bypass",
+      "words": [
+        "bypass",
+        "shun",
+        "fudge",
+        "evade"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bypass 与近义词辨析",
+      "synset_definition": "avoid something unpleasant or laborious",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 210,
+      "group_name": "cackle, blurt, whiff, snarl",
+      "target_word": "cackle",
+      "words": [
+        "cackle",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "cackle 与近义词辨析",
+      "synset_definition": "talk or utter in a cackling manner",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

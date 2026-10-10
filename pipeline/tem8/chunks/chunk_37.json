@@ -1,0 +1,188 @@
+{
+  "batch_id": 37,
+  "chunk_name": "chunk_37",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 371,
+      "group_name": "incoherent, fuzzy, disjointed, illogical",
+      "target_word": "incoherent",
+      "words": [
+        "incoherent",
+        "fuzzy",
+        "disjointed",
+        "illogical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incoherent 与近义词辨析",
+      "synset_definition": "without logical or meaningful connection",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 372,
+      "group_name": "mundane, temporal, terrestrial, secular",
+      "target_word": "mundane",
+      "words": [
+        "mundane",
+        "temporal",
+        "terrestrial",
+        "secular"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mundane 与近义词辨析",
+      "synset_definition": "concerned with the world or worldly matters",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 373,
+      "group_name": "vagabond, vagrant, unsettled, aimless",
+      "target_word": "vagabond",
+      "words": [
+        "vagabond",
+        "vagrant",
+        "unsettled",
+        "aimless"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vagabond 与近义词辨析",
+      "synset_definition": "continually changing especially as from one abode or occupation to another",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 374,
+      "group_name": "wicked, heinous, villainous, heavy",
+      "target_word": "wicked",
+      "words": [
+        "wicked",
+        "heinous",
+        "villainous",
+        "heavy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "wicked 与近义词辨析",
+      "synset_definition": "morally bad in principle or practice",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 375,
+      "group_name": "affable, genial, amiable, cordial",
+      "target_word": "affable",
+      "words": [
+        "affable",
+        "genial",
+        "amiable",
+        "cordial"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "affable 与近义词辨析",
+      "synset_definition": "diffusing warmth and friendliness",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 376,
+      "group_name": "agile, quick, nimble, active",
+      "target_word": "agile",
+      "words": [
+        "agile",
+        "quick",
+        "nimble",
+        "active"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "agile 与近义词辨析",
+      "synset_definition": "moving quickly and lightly",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 377,
+      "group_name": "arduous, laborious, backbreaking, hard",
+      "target_word": "arduous",
+      "words": [
+        "arduous",
+        "laborious",
+        "backbreaking",
+        "hard"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "arduous 与近义词辨析",
+      "synset_definition": "characterized by effort to the point of exhaustion; especially physical effort",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 378,
+      "group_name": "dainty, squeamish, fastidious, nice",
+      "target_word": "dainty",
+      "words": [
+        "dainty",
+        "squeamish",
+        "fastidious",
+        "nice"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dainty 与近义词辨析",
+      "synset_definition": "excessively fastidious and easily disgusted",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 379,
+      "group_name": "desirous, avid, nostalgic, greedy",
+      "target_word": "desirous",
+      "words": [
+        "desirous",
+        "avid",
+        "nostalgic",
+        "greedy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "desirous 与近义词辨析",
+      "synset_definition": "having or expressing desire for something",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 380,
+      "group_name": "dire, horrific, horrendous, awful",
+      "target_word": "dire",
+      "words": [
+        "dire",
+        "horrific",
+        "horrendous",
+        "awful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dire 与近义词辨析",
+      "synset_definition": "causing fear or dread or terror",
+      "t8_count": 3,
+      "cas_score": 88
+    }
+  ]
+}

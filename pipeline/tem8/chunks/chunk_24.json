@@ -1,0 +1,188 @@
+{
+  "batch_id": 24,
+  "chunk_name": "chunk_24",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 241,
+      "group_name": "honk, rap, thud, drone",
+      "target_word": "honk",
+      "words": [
+        "honk",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "honk 与近义词辨析",
+      "synset_definition": "make a loud noise",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 242,
+      "group_name": "hoodwink, bunk, juggle, beguile",
+      "target_word": "hoodwink",
+      "words": [
+        "hoodwink",
+        "bunk",
+        "juggle",
+        "beguile"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "hoodwink 与近义词辨析",
+      "synset_definition": "influence by slyness",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 243,
+      "group_name": "immerse, fence, fortify, enshrine",
+      "target_word": "immerse",
+      "words": [
+        "immerse",
+        "fence",
+        "fortify",
+        "enshrine"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "immerse 与近义词辨析",
+      "synset_definition": "enclose or envelop completely, as if by swallowing",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 244,
+      "group_name": "impoverish, devolve, regress, inflame",
+      "target_word": "impoverish",
+      "words": [
+        "impoverish",
+        "devolve",
+        "regress",
+        "inflame"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impoverish 与近义词辨析",
+      "synset_definition": "take away",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 245,
+      "group_name": "infringe, lapse, forge, impinge",
+      "target_word": "infringe",
+      "words": [
+        "infringe",
+        "lapse",
+        "forge",
+        "impinge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "infringe 与近义词辨析",
+      "synset_definition": "advance beyond the usual limit",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 246,
+      "group_name": "invalidate, void, lighten, exacerbate",
+      "target_word": "invalidate",
+      "words": [
+        "invalidate",
+        "void",
+        "lighten",
+        "exacerbate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "invalidate 与近义词辨析",
+      "synset_definition": "take away the legal force of or render ineffective",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 247,
+      "group_name": "itch, lust, crave, hanker",
+      "target_word": "itch",
+      "words": [
+        "itch",
+        "lust",
+        "crave",
+        "hanker"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "itch 与近义词辨析",
+      "synset_definition": "have a strong desire or urge to do something",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 248,
+      "group_name": "jingle, honk, creak, crunch",
+      "target_word": "jingle",
+      "words": [
+        "jingle",
+        "honk",
+        "creak",
+        "crunch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "jingle 与近义词辨析",
+      "synset_definition": "make a sound typical of metallic objects",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 249,
+      "group_name": "lull, pacify, appease, mollify",
+      "target_word": "lull",
+      "words": [
+        "lull",
+        "pacify",
+        "appease",
+        "mollify"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lull 与近义词辨析",
+      "synset_definition": "calm by deception",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 250,
+      "group_name": "lurch, swoop, fidget, flurry",
+      "target_word": "lurch",
+      "words": [
+        "lurch",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "lurch 与近义词辨析",
+      "synset_definition": "move abruptly",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

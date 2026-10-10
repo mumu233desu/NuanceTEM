@@ -1,0 +1,188 @@
+{
+  "batch_id": 58,
+  "chunk_name": "chunk_58",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 581,
+      "group_name": "beating, fray, ruffle, rumble",
+      "target_word": "beating",
+      "words": [
+        "beating",
+        "fray",
+        "ruffle",
+        "rumble"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "beating 与近义词辨析",
+      "synset_definition": "the act of overcoming or outdoing",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 582,
+      "group_name": "boo, hoot, hiss, snort",
+      "target_word": "boo",
+      "words": [
+        "boo",
+        "hoot",
+        "hiss",
+        "snort"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "boo 与近义词辨析",
+      "synset_definition": "a cry or noise made to express displeasure or contempt",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 583,
+      "group_name": "buffer, lure, decoy, fender",
+      "target_word": "buffer",
+      "words": [
+        "buffer",
+        "lure",
+        "decoy",
+        "fender"
+      ],
+      "pos": "n",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "buffer 与近义词辨析",
+      "synset_definition": "a cushion-like device that reduces shock due to an impact",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 584,
+      "group_name": "catchword, quip, maxim, epigram",
+      "target_word": "catchword",
+      "words": [
+        "catchword",
+        "quip",
+        "maxim",
+        "epigram"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "catchword 与近义词辨析",
+      "synset_definition": "a favorite saying of a sect or political group",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 585,
+      "group_name": "connotation, nuance, purport, subtlety",
+      "target_word": "connotation",
+      "words": [
+        "connotation",
+        "nuance",
+        "purport",
+        "subtlety"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "connotation 与近义词辨析",
+      "synset_definition": "what you must know in order to determine the reference of an expression",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 586,
+      "group_name": "counterbalance, redress, indemnity, reparation",
+      "target_word": "counterbalance",
+      "words": [
+        "counterbalance",
+        "redress",
+        "indemnity",
+        "reparation"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "counterbalance 与近义词辨析",
+      "synset_definition": "a compensating equivalent",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 587,
+      "group_name": "deviant, pervert, deviate, degenerate",
+      "target_word": "deviant",
+      "words": [
+        "deviant",
+        "pervert",
+        "deviate",
+        "degenerate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deviant 与近义词辨析",
+      "synset_definition": "a person whose behavior deviates from what is acceptable especially in sexual behavior",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 588,
+      "group_name": "diagonal, slash, brace, colon",
+      "target_word": "diagonal",
+      "words": [
+        "diagonal",
+        "slash",
+        "brace",
+        "colon"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "diagonal 与近义词辨析",
+      "synset_definition": "a punctuation mark (/) used to separate related items of information",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 589,
+      "group_name": "dribble, flux, spate, dripping",
+      "target_word": "dribble",
+      "words": [
+        "dribble",
+        "flux",
+        "spate",
+        "dripping"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dribble 与近义词辨析",
+      "synset_definition": "flowing in drops; the formation and falling of drops of liquid",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 590,
+      "group_name": "euphemism, quip, maxim, epigram",
+      "target_word": "euphemism",
+      "words": [
+        "euphemism",
+        "quip",
+        "maxim",
+        "epigram"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "euphemism 与近义词辨析",
+      "synset_definition": "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

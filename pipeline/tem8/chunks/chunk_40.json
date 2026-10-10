@@ -1,0 +1,188 @@
+{
+  "batch_id": 40,
+  "chunk_name": "chunk_40",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 401,
+      "group_name": "atrocious, grievous, evil, monstrous",
+      "target_word": "atrocious",
+      "words": [
+        "atrocious",
+        "grievous",
+        "evil",
+        "monstrous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "atrocious 与近义词辨析",
+      "synset_definition": "shockingly brutal or cruel",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 402,
+      "group_name": "audacious, dauntless, bold, brave",
+      "target_word": "audacious",
+      "words": [
+        "audacious",
+        "dauntless",
+        "bold",
+        "brave"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "audacious 与近义词辨析",
+      "synset_definition": "invulnerable to fear or intimidation",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 403,
+      "group_name": "capricious, whimsical, impulsive, arbitrary",
+      "target_word": "capricious",
+      "words": [
+        "capricious",
+        "whimsical",
+        "impulsive",
+        "arbitrary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "capricious 与近义词辨析",
+      "synset_definition": "determined by chance or impulse or whim rather than by necessity or reason",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 404,
+      "group_name": "chaste, virtuous, pure, virgin",
+      "target_word": "chaste",
+      "words": [
+        "chaste",
+        "virtuous",
+        "pure",
+        "virgin"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "chaste 与近义词辨析",
+      "synset_definition": "morally pure (especially not having experienced sexual intercourse)",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 405,
+      "group_name": "colossal, stupendous, big, large",
+      "target_word": "colossal",
+      "words": [
+        "colossal",
+        "stupendous",
+        "big",
+        "large"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "colossal 与近义词辨析",
+      "synset_definition": "so great in size or force or extent as to elicit awe",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 406,
+      "group_name": "cryptic, inexplicable, deep, mysterious",
+      "target_word": "cryptic",
+      "words": [
+        "cryptic",
+        "inexplicable",
+        "deep",
+        "mysterious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cryptic 与近义词辨析",
+      "synset_definition": "of an obscure nature; ; ; ; - Rachel Carson",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 407,
+      "group_name": "cursory, perfunctory, casual, careless",
+      "target_word": "cursory",
+      "words": [
+        "cursory",
+        "perfunctory",
+        "casual",
+        "careless"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cursory 与近义词辨析",
+      "synset_definition": "hasty and without attention to detail; not thorough",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 408,
+      "group_name": "doomed, fated, sure, certain",
+      "target_word": "doomed",
+      "words": [
+        "doomed",
+        "fated",
+        "sure",
+        "certain"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "doomed 与近义词辨析",
+      "synset_definition": "(usually followed by `to') determined by tragic fate",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 409,
+      "group_name": "exalted, sublime, grand, lofty",
+      "target_word": "exalted",
+      "words": [
+        "exalted",
+        "sublime",
+        "grand",
+        "lofty"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "exalted 与近义词辨析",
+      "synset_definition": "of high moral or intellectual value; elevated in nature or style; ; - Oliver Franks",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 410,
+      "group_name": "gallant, majestic, lofty, proud",
+      "target_word": "gallant",
+      "words": [
+        "gallant",
+        "majestic",
+        "lofty",
+        "proud"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gallant 与近义词辨析",
+      "synset_definition": "having or displaying great dignity or nobility",
+      "t8_count": 2,
+      "cas_score": 84
+    }
+  ]
+}

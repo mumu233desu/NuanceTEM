@@ -1,0 +1,188 @@
+{
+  "batch_id": 32,
+  "chunk_name": "chunk_32",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 321,
+      "group_name": "defile, sully, taint, cloud",
+      "target_word": "defile",
+      "words": [
+        "defile",
+        "sully",
+        "taint",
+        "cloud"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "defile 与近义词辨析",
+      "synset_definition": "place under suspicion or cast doubt upon",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 322,
+      "group_name": "dehydrate, pickle, desiccate, can",
+      "target_word": "dehydrate",
+      "words": [
+        "dehydrate",
+        "pickle",
+        "desiccate",
+        "can"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dehydrate 与近义词辨析",
+      "synset_definition": "preserve by removing all water and liquids from",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 323,
+      "group_name": "deluge, drench, inundate, flow",
+      "target_word": "deluge",
+      "words": [
+        "deluge",
+        "drench",
+        "inundate",
+        "flow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deluge 与近义词辨析",
+      "synset_definition": "fill or cover completely, usually with water",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 324,
+      "group_name": "deprecate, discredit, depreciate, pan",
+      "target_word": "deprecate",
+      "words": [
+        "deprecate",
+        "discredit",
+        "depreciate",
+        "pan"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deprecate 与近义词辨析",
+      "synset_definition": "belittle",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 325,
+      "group_name": "detract, quench, deflate, thin",
+      "target_word": "detract",
+      "words": [
+        "detract",
+        "quench",
+        "deflate",
+        "thin"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "detract 与近义词辨析",
+      "synset_definition": "take away a part from; diminish",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 326,
+      "group_name": "deviate, flip, avert, roll",
+      "target_word": "deviate",
+      "words": [
+        "deviate",
+        "flip",
+        "avert",
+        "roll"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "deviate 与近义词辨析",
+      "synset_definition": "turn aside; turn away from",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 327,
+      "group_name": "devolve, demote, mandate, cast",
+      "target_word": "devolve",
+      "words": [
+        "devolve",
+        "demote",
+        "mandate",
+        "cast"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "devolve 与近义词辨析",
+      "synset_definition": "pass on or delegate to another",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 328,
+      "group_name": "dice, lop, pare, saw",
+      "target_word": "dice",
+      "words": [
+        "dice",
+        "lop",
+        "pare",
+        "saw"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dice 与近义词辨析",
+      "synset_definition": "cut into cubes",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 329,
+      "group_name": "digress, detour, straggle, depart",
+      "target_word": "digress",
+      "words": [
+        "digress",
+        "detour",
+        "straggle",
+        "depart"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "digress 与近义词辨析",
+      "synset_definition": "wander from a direct or straight course",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 330,
+      "group_name": "dimple, asterisk, delineate, ink",
+      "target_word": "dimple",
+      "words": [
+        "dimple",
+        "asterisk",
+        "delineate",
+        "ink"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dimple 与近义词辨析",
+      "synset_definition": "mark with, or as if with, dimples",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 44,
+  "chunk_name": "chunk_44",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 441,
+      "group_name": "drab, sombre, sober, colourless",
+      "target_word": "drab",
+      "words": [
+        "drab",
+        "sombre",
+        "sober",
+        "colourless"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "drab 与近义词辨析",
+      "synset_definition": "lacking brightness or color; dull",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 442,
+      "group_name": "execrable, woeful, wretched, inferior",
+      "target_word": "execrable",
+      "words": [
+        "execrable",
+        "woeful",
+        "wretched",
+        "inferior"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "execrable 与近义词辨析",
+      "synset_definition": "of very poor quality or condition",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 443,
+      "group_name": "fallacious, fraudulent, deceitful, dishonest",
+      "target_word": "fallacious",
+      "words": [
+        "fallacious",
+        "fraudulent",
+        "deceitful",
+        "dishonest"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fallacious 与近义词辨析",
+      "synset_definition": "intended to deceive; ; ;  - S.T.Coleridge",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 444,
+      "group_name": "fecund, prolific, fertile, productive",
+      "target_word": "fecund",
+      "words": [
+        "fecund",
+        "prolific",
+        "fertile",
+        "productive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fecund 与近义词辨析",
+      "synset_definition": "intellectually productive",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 445,
+      "group_name": "finicky, fastidious, fussy, particular",
+      "target_word": "finicky",
+      "words": [
+        "finicky",
+        "fastidious",
+        "fussy",
+        "particular"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "finicky 与近义词辨析",
+      "synset_definition": "exacting especially about details",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 446,
+      "group_name": "flimsy, tenuous, thin, slight",
+      "target_word": "flimsy",
+      "words": [
+        "flimsy",
+        "tenuous",
+        "thin",
+        "slight"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flimsy 与近义词辨析",
+      "synset_definition": "lacking substance or significance; ; ; ; a fragile claim to fame\"",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 447,
+      "group_name": "frigid, glacial, icy, cold",
+      "target_word": "frigid",
+      "words": [
+        "frigid",
+        "glacial",
+        "icy",
+        "cold"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "frigid 与近义词辨析",
+      "synset_definition": "extremely cold",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 448,
+      "group_name": "furtive, surreptitious, sneak, stealthy",
+      "target_word": "furtive",
+      "words": [
+        "furtive",
+        "surreptitious",
+        "sneak",
+        "stealthy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "furtive 与近义词辨析",
+      "synset_definition": "marked by quiet and caution and secrecy; taking pains to avoid being observed",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 449,
+      "group_name": "giddy, frivolous, dizzy, silly",
+      "target_word": "giddy",
+      "words": [
+        "giddy",
+        "frivolous",
+        "dizzy",
+        "silly"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "giddy 与近义词辨析",
+      "synset_definition": "lacking seriousness; given to frivolity",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 450,
+      "group_name": "hefty, sizeable, tidy, healthy",
+      "target_word": "hefty",
+      "words": [
+        "hefty",
+        "sizeable",
+        "tidy",
+        "healthy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "hefty 与近义词辨析",
+      "synset_definition": "large in amount or extent or degree",
+      "t8_count": 2,
+      "cas_score": 80
+    }
+  ]
+}

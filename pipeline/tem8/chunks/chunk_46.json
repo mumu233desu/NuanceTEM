@@ -1,0 +1,188 @@
+{
+  "batch_id": 46,
+  "chunk_name": "chunk_46",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 461,
+      "group_name": "opulent, sumptuous, rich, grand",
+      "target_word": "opulent",
+      "words": [
+        "opulent",
+        "sumptuous",
+        "rich",
+        "grand"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "opulent 与近义词辨析",
+      "synset_definition": "rich and superior in quality",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 462,
+      "group_name": "outgoing, effluent, out, past",
+      "target_word": "outgoing",
+      "words": [
+        "outgoing",
+        "effluent",
+        "out",
+        "past"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "outgoing 与近义词辨析",
+      "synset_definition": "leaving a place or a position",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 463,
+      "group_name": "perceptible, discernible, weak, faint",
+      "target_word": "perceptible",
+      "words": [
+        "perceptible",
+        "discernible",
+        "weak",
+        "faint"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "perceptible 与近义词辨析",
+      "synset_definition": "capable of being perceived by the mind or senses",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 464,
+      "group_name": "pernicious, insidious, subtle, harmful",
+      "target_word": "pernicious",
+      "words": [
+        "pernicious",
+        "insidious",
+        "subtle",
+        "harmful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "pernicious 与近义词辨析",
+      "synset_definition": "working or spreading in a hidden and usually injurious way",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 465,
+      "group_name": "provident, farsighted, long, careful",
+      "target_word": "provident",
+      "words": [
+        "provident",
+        "farsighted",
+        "long",
+        "careful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "provident 与近义词辨析",
+      "synset_definition": "providing carefully for the future",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 466,
+      "group_name": "redundant, superfluous, extra, spare",
+      "target_word": "redundant",
+      "words": [
+        "redundant",
+        "superfluous",
+        "extra",
+        "spare"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "redundant 与近义词辨析",
+      "synset_definition": "more than is needed, desired, or required",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 467,
+      "group_name": "relentless, unrelenting, continual, persistent",
+      "target_word": "relentless",
+      "words": [
+        "relentless",
+        "unrelenting",
+        "continual",
+        "persistent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "relentless 与近义词辨析",
+      "synset_definition": "never-ceasing",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 468,
+      "group_name": "scrawny, skinny, thin, lean",
+      "target_word": "scrawny",
+      "words": [
+        "scrawny",
+        "skinny",
+        "thin",
+        "lean"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "scrawny 与近义词辨析",
+      "synset_definition": "being very thin",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 469,
+      "group_name": "sleek, slick, silky, bright",
+      "target_word": "sleek",
+      "words": [
+        "sleek",
+        "slick",
+        "silky",
+        "bright"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sleek 与近义词辨析",
+      "synset_definition": "having a smooth, gleaming surface reflecting light",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 470,
+      "group_name": "sulphurous, virulent, acid, bitter",
+      "target_word": "sulphurous",
+      "words": [
+        "sulphurous",
+        "virulent",
+        "acid",
+        "bitter"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sulphurous 与近义词辨析",
+      "synset_definition": "harsh or corrosive in tone",
+      "t8_count": 2,
+      "cas_score": 80
+    }
+  ]
+}

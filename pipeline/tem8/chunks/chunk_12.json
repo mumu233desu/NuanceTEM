@@ -1,0 +1,188 @@
+{
+  "batch_id": 12,
+  "chunk_name": "chunk_12",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 121,
+      "group_name": "mutilate, mar, impair, blemish",
+      "target_word": "mutilate",
+      "words": [
+        "mutilate",
+        "mar",
+        "impair",
+        "blemish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mutilate 与近义词辨析",
+      "synset_definition": "destroy or injure severely",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 122,
+      "group_name": "nag, bitch, repine, deplore",
+      "target_word": "nag",
+      "words": [
+        "nag",
+        "bitch",
+        "repine",
+        "deplore"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "nag 与近义词辨析",
+      "synset_definition": "bother persistently with trivial complaints",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 123,
+      "group_name": "oxidize, lighten, exacerbate, exasperate",
+      "target_word": "oxidize",
+      "words": [
+        "oxidize",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "oxidize 与近义词辨析",
+      "synset_definition": "add oxygen to or combine with oxygen",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 124,
+      "group_name": "patter, rap, thud, drone",
+      "target_word": "patter",
+      "words": [
+        "patter",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "patter 与近义词辨析",
+      "synset_definition": "make light, rapid and repeated sounds",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 125,
+      "group_name": "piss, ooze, crap, exude",
+      "target_word": "piss",
+      "words": [
+        "piss",
+        "ooze",
+        "crap",
+        "exude"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "piss 与近义词辨析",
+      "synset_definition": "eliminate urine",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 126,
+      "group_name": "pleat, pinch, ruffle, furrow",
+      "target_word": "pleat",
+      "words": [
+        "pleat",
+        "pinch",
+        "ruffle",
+        "furrow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pleat 与近义词辨析",
+      "synset_definition": "pleat or gather into a ruffle",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 127,
+      "group_name": "pounce, swoop, alight, subside",
+      "target_word": "pounce",
+      "words": [
+        "pounce",
+        "swoop",
+        "alight",
+        "subside"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pounce 与近义词辨析",
+      "synset_definition": "move down on as if in an attack",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 128,
+      "group_name": "precipitate, alight, subside, cascade",
+      "target_word": "precipitate",
+      "words": [
+        "precipitate",
+        "alight",
+        "subside",
+        "cascade"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "precipitate 与近义词辨析",
+      "synset_definition": "fall vertically, sharply, or headlong",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 129,
+      "group_name": "propagate, swoop, fidget, flurry",
+      "target_word": "propagate",
+      "words": [
+        "propagate",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "propagate 与近义词辨析",
+      "synset_definition": "become distributed or widespread",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 130,
+      "group_name": "purge, lighten, sanctify, exacerbate",
+      "target_word": "purge",
+      "words": [
+        "purge",
+        "lighten",
+        "sanctify",
+        "exacerbate"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "purge 与近义词辨析",
+      "synset_definition": "make pure or free from sin or guilt",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

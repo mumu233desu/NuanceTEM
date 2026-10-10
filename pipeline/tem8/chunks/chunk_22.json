@@ -1,0 +1,188 @@
+{
+  "batch_id": 22,
+  "chunk_name": "chunk_22",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 221,
+      "group_name": "crook, fawn, cringe, grovel",
+      "target_word": "crook",
+      "words": [
+        "crook",
+        "fawn",
+        "cringe",
+        "grovel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "crook 与近义词辨析",
+      "synset_definition": "bend or cause to bend",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 222,
+      "group_name": "crucify, deplore, trounce, admonish",
+      "target_word": "crucify",
+      "words": [
+        "crucify",
+        "deplore",
+        "trounce",
+        "admonish"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "crucify 与近义词辨析",
+      "synset_definition": "criticize harshly or violently",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 223,
+      "group_name": "dampen, quell, smother, repress",
+      "target_word": "dampen",
+      "words": [
+        "dampen",
+        "quell",
+        "smother",
+        "repress"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dampen 与近义词辨析",
+      "synset_definition": "smother or suppress",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 224,
+      "group_name": "dawdle, swoop, fidget, flurry",
+      "target_word": "dawdle",
+      "words": [
+        "dawdle",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dawdle 与近义词辨析",
+      "synset_definition": "take one's time; proceed slowly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 225,
+      "group_name": "deface, sully, taint, defile",
+      "target_word": "deface",
+      "words": [
+        "deface",
+        "sully",
+        "taint",
+        "defile"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "deface 与近义词辨析",
+      "synset_definition": "mar or spoil the appearance of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 226,
+      "group_name": "din, rap, thud, drone",
+      "target_word": "din",
+      "words": [
+        "din",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "din 与近义词辨析",
+      "synset_definition": "make a resonant sound, like artillery",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 227,
+      "group_name": "diverge, swoop, fidget, flurry",
+      "target_word": "diverge",
+      "words": [
+        "diverge",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "diverge 与近义词辨析",
+      "synset_definition": "move or draw apart",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 228,
+      "group_name": "drone, blurt, whiff, snarl",
+      "target_word": "drone",
+      "words": [
+        "drone",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "drone 与近义词辨析",
+      "synset_definition": "talk in a monotonous voice",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 229,
+      "group_name": "elicit, evoke, extract, misapprehend",
+      "target_word": "elicit",
+      "words": [
+        "elicit",
+        "evoke",
+        "extract",
+        "misapprehend"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "elicit 与近义词辨析",
+      "synset_definition": "deduce (a principle) or construe (a meaning)",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 230,
+      "group_name": "elude, fudge, evade, parry",
+      "target_word": "elude",
+      "words": [
+        "elude",
+        "fudge",
+        "evade",
+        "parry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "elude 与近义词辨析",
+      "synset_definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

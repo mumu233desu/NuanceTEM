@@ -1,0 +1,188 @@
+{
+  "batch_id": 48,
+  "chunk_name": "chunk_48",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 481,
+      "group_name": "demented, mad, sick, crazy",
+      "target_word": "demented",
+      "words": [
+        "demented",
+        "mad",
+        "sick",
+        "crazy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "demented 与近义词辨析",
+      "synset_definition": "affected with madness or insanity",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 482,
+      "group_name": "dumpy, squat, short, little",
+      "target_word": "dumpy",
+      "words": [
+        "dumpy",
+        "squat",
+        "short",
+        "little"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dumpy 与近义词辨析",
+      "synset_definition": "short and thick; as e.g. having short legs and heavy musculature",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 483,
+      "group_name": "elusive, hard, tough, difficult",
+      "target_word": "elusive",
+      "words": [
+        "elusive",
+        "hard",
+        "tough",
+        "difficult"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "elusive 与近义词辨析",
+      "synset_definition": "making great mental demands; hard to comprehend or solve or believe",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 484,
+      "group_name": "equitable, just, fair, honest",
+      "target_word": "equitable",
+      "words": [
+        "equitable",
+        "just",
+        "fair",
+        "honest"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "equitable 与近义词辨析",
+      "synset_definition": "fair to all parties as dictated by reason and conscience",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 485,
+      "group_name": "exotic, alien, foreign, strange",
+      "target_word": "exotic",
+      "words": [
+        "exotic",
+        "alien",
+        "foreign",
+        "strange"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exotic 与近义词辨析",
+      "synset_definition": "being or from or characteristic of another place or part of the world",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 486,
+      "group_name": "expansive, grand, heroic, impressive",
+      "target_word": "expansive",
+      "words": [
+        "expansive",
+        "grand",
+        "heroic",
+        "impressive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "expansive 与近义词辨析",
+      "synset_definition": "of behavior that is impressive and ambitious in scale or scope",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 487,
+      "group_name": "expectant, big, great, large",
+      "target_word": "expectant",
+      "words": [
+        "expectant",
+        "big",
+        "great",
+        "large"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "expectant 与近义词辨析",
+      "synset_definition": "in an advanced stage of pregnancy",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 488,
+      "group_name": "fallible, weak, frail, human",
+      "target_word": "fallible",
+      "words": [
+        "fallible",
+        "weak",
+        "frail",
+        "human"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "fallible 与近义词辨析",
+      "synset_definition": "wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 489,
+      "group_name": "fateful, black, fatal, disastrous",
+      "target_word": "fateful",
+      "words": [
+        "fateful",
+        "black",
+        "fatal",
+        "disastrous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fateful 与近义词辨析",
+      "synset_definition": "(of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - Charles Darwin; - Douglas MacArthur",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 490,
+      "group_name": "flagrant, rank, gross, glaring",
+      "target_word": "flagrant",
+      "words": [
+        "flagrant",
+        "rank",
+        "gross",
+        "glaring"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "flagrant 与近义词辨析",
+      "synset_definition": "conspicuously and outrageously bad or reprehensible",
+      "t8_count": 1,
+      "cas_score": 78
+    }
+  ]
+}

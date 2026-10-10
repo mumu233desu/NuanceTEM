@@ -1,0 +1,188 @@
+{
+  "batch_id": 38,
+  "chunk_name": "chunk_38",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 381,
+      "group_name": "docile, meek, sheepish, tame",
+      "target_word": "docile",
+      "words": [
+        "docile",
+        "meek",
+        "sheepish",
+        "tame"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "docile 与近义词辨析",
+      "synset_definition": "willing to be taught or led or supervised or directed",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 382,
+      "group_name": "domineering, tyrannical, authoritarian, oppressive",
+      "target_word": "domineering",
+      "words": [
+        "domineering",
+        "tyrannical",
+        "authoritarian",
+        "oppressive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "domineering 与近义词辨析",
+      "synset_definition": "tending to domineer",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 383,
+      "group_name": "ephemeral, transient, transitory, temporary",
+      "target_word": "ephemeral",
+      "words": [
+        "ephemeral",
+        "transient",
+        "transitory",
+        "temporary"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ephemeral 与近义词辨析",
+      "synset_definition": "lasting a very short time",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 384,
+      "group_name": "esoteric, mystic, cryptic, deep",
+      "target_word": "esoteric",
+      "words": [
+        "esoteric",
+        "mystic",
+        "cryptic",
+        "deep"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "esoteric 与近义词辨析",
+      "synset_definition": "confined to and understandable by only an enlightened inner circle",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 385,
+      "group_name": "exuberant, lush, luxuriant, abundant",
+      "target_word": "exuberant",
+      "words": [
+        "exuberant",
+        "lush",
+        "luxuriant",
+        "abundant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "exuberant 与近义词辨析",
+      "synset_definition": "produced or growing in extreme abundance",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 386,
+      "group_name": "fetid, foul, funky, smelly",
+      "target_word": "fetid",
+      "words": [
+        "fetid",
+        "foul",
+        "funky",
+        "smelly"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fetid 与近义词辨析",
+      "synset_definition": "offensively malodorous",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 387,
+      "group_name": "fictitious, sham, counterfeit, false",
+      "target_word": "fictitious",
+      "words": [
+        "fictitious",
+        "sham",
+        "counterfeit",
+        "false"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fictitious 与近义词辨析",
+      "synset_definition": "adopted in order to deceive",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 388,
+      "group_name": "fleeting, fugitive, momentary, short",
+      "target_word": "fleeting",
+      "words": [
+        "fleeting",
+        "fugitive",
+        "momentary",
+        "short"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fleeting 与近义词辨析",
+      "synset_definition": "lasting for a markedly brief time",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 389,
+      "group_name": "ghastly, grisly, gruesome, grim",
+      "target_word": "ghastly",
+      "words": [
+        "ghastly",
+        "grisly",
+        "gruesome",
+        "grim"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ghastly 与近义词辨析",
+      "synset_definition": "shockingly repellent; inspiring horror",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 390,
+      "group_name": "inexplicable, cryptic, paradoxical, deep",
+      "target_word": "inexplicable",
+      "words": [
+        "inexplicable",
+        "cryptic",
+        "paradoxical",
+        "deep"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "inexplicable 与近义词辨析",
+      "synset_definition": "incapable of being explained or accounted for",
+      "t8_count": 3,
+      "cas_score": 88
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 61,
+  "chunk_name": "chunk_61",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 611,
+      "group_name": "keel, hump, bulge, salient",
+      "target_word": "keel",
+      "words": [
+        "keel",
+        "hump",
+        "bulge",
+        "salient"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "keel 与近义词辨析",
+      "synset_definition": "a projection or ridge that suggests a keel",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 612,
+      "group_name": "lance, buff, flail, buffer",
+      "target_word": "lance",
+      "words": [
+        "lance",
+        "buff",
+        "flail",
+        "buffer"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "lance 与近义词辨析",
+      "synset_definition": "an implement with a shaft and barbed point used for catching fish",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 613,
+      "group_name": "lapse, blunder, oversight, incursion",
+      "target_word": "lapse",
+      "words": [
+        "lapse",
+        "blunder",
+        "oversight",
+        "incursion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "lapse 与近义词辨析",
+      "synset_definition": "a mistake resulting from inattention",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 614,
+      "group_name": "lookout, sentry, picket, sentinel",
+      "target_word": "lookout",
+      "words": [
+        "lookout",
+        "sentry",
+        "picket",
+        "sentinel"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "lookout 与近义词辨析",
+      "synset_definition": "a person employed to keep watch for some anticipated event",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 615,
+      "group_name": "migrant, rover, flier, flyer",
+      "target_word": "migrant",
+      "words": [
+        "migrant",
+        "rover",
+        "flier",
+        "flyer"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "migrant 与近义词辨析",
+      "synset_definition": "traveler who moves from one region or country to another",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 616,
+      "group_name": "mink, ferret, badger, glutton",
+      "target_word": "mink",
+      "words": [
+        "mink",
+        "ferret",
+        "badger",
+        "glutton"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "mink 与近义词辨析",
+      "synset_definition": "slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 617,
+      "group_name": "observance, peek, squint, lookout",
+      "target_word": "observance",
+      "words": [
+        "observance",
+        "peek",
+        "squint",
+        "lookout"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "observance 与近义词辨析",
+      "synset_definition": "the act of observing; taking a patient look",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 618,
+      "group_name": "pant, creak, rustle, squawk",
+      "target_word": "pant",
+      "words": [
+        "pant",
+        "creak",
+        "rustle",
+        "squawk"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pant 与近义词辨析",
+      "synset_definition": "the noise made by a short puff of steam (as from an engine)",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 619,
+      "group_name": "pinch, rupture, frostbite, hemorrhage",
+      "target_word": "pinch",
+      "words": [
+        "pinch",
+        "rupture",
+        "frostbite",
+        "hemorrhage"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pinch 与近义词辨析",
+      "synset_definition": "an injury resulting from getting some body part squeezed",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 620,
+      "group_name": "platoon, corps, infantry, battalion",
+      "target_word": "platoon",
+      "words": [
+        "platoon",
+        "corps",
+        "infantry",
+        "battalion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "platoon 与近义词辨析",
+      "synset_definition": "a military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

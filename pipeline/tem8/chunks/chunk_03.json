@@ -1,0 +1,188 @@
+{
+  "batch_id": 3,
+  "chunk_name": "chunk_03",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 31,
+      "group_name": "circumvent, outcry, outgrow, outweigh",
+      "target_word": "circumvent",
+      "words": [
+        "circumvent",
+        "outcry",
+        "outgrow",
+        "outweigh"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "circumvent 与近义词辨析",
+      "synset_definition": "beat through cleverness and wit",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 32,
+      "group_name": "clatter, honk, creak, crunch",
+      "target_word": "clatter",
+      "words": [
+        "clatter",
+        "honk",
+        "creak",
+        "crunch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clatter 与近义词辨析",
+      "synset_definition": "make a rattling sound",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 33,
+      "group_name": "clog, deluge, clutter, inundate",
+      "target_word": "clog",
+      "words": [
+        "clog",
+        "deluge",
+        "clutter",
+        "inundate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clog 与近义词辨析",
+      "synset_definition": "fill to excess so that function is impaired",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 34,
+      "group_name": "clot, lighten, exacerbate, exasperate",
+      "target_word": "clot",
+      "words": [
+        "clot",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clot 与近义词辨析",
+      "synset_definition": "cause to change from a liquid to a solid or thickened state",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 35,
+      "group_name": "clump, rap, thud, drone",
+      "target_word": "clump",
+      "words": [
+        "clump",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clump 与近义词辨析",
+      "synset_definition": "make or move along with a sound as of a horse's hooves striking the ground",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 36,
+      "group_name": "connote, evoke, formulate, articulate",
+      "target_word": "connote",
+      "words": [
+        "connote",
+        "evoke",
+        "formulate",
+        "articulate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "connote 与近义词辨析",
+      "synset_definition": "express or state indirectly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 37,
+      "group_name": "contend, profess, purport, postulate",
+      "target_word": "contend",
+      "words": [
+        "contend",
+        "profess",
+        "purport",
+        "postulate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "contend 与近义词辨析",
+      "synset_definition": "maintain or assert",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 38,
+      "group_name": "converge, hive, clump, convene",
+      "target_word": "converge",
+      "words": [
+        "converge",
+        "hive",
+        "clump",
+        "convene"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "converge 与近义词辨析",
+      "synset_definition": "move or draw together at a certain location",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 39,
+      "group_name": "corrode, mar, impair, blemish",
+      "target_word": "corrode",
+      "words": [
+        "corrode",
+        "mar",
+        "impair",
+        "blemish"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "corrode 与近义词辨析",
+      "synset_definition": "cause to deteriorate due to the action of water, air, or an acid",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 40,
+      "group_name": "cramp, brace, energize, intoxicate",
+      "target_word": "cramp",
+      "words": [
+        "cramp",
+        "brace",
+        "energize",
+        "intoxicate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cramp 与近义词辨析",
+      "synset_definition": "affect with or as if with a cramp",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

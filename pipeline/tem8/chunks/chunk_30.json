@@ -1,0 +1,188 @@
+{
+  "batch_id": 30,
+  "chunk_name": "chunk_30",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 301,
+      "group_name": "cajole, coax, seduce, sell",
+      "target_word": "cajole",
+      "words": [
+        "cajole",
+        "coax",
+        "seduce",
+        "sell"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cajole 与近义词辨析",
+      "synset_definition": "influence or urge by gentle urging, caressing, or flattering",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 302,
+      "group_name": "caricature, parody, impersonate, ape",
+      "target_word": "caricature",
+      "words": [
+        "caricature",
+        "parody",
+        "impersonate",
+        "ape"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "caricature 与近义词辨析",
+      "synset_definition": "represent in or produce a caricature of",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 303,
+      "group_name": "cavern, scallop, excavate, dig",
+      "target_word": "cavern",
+      "words": [
+        "cavern",
+        "scallop",
+        "excavate",
+        "dig"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cavern 与近义词辨析",
+      "synset_definition": "hollow out as if making a cavern",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 304,
+      "group_name": "cede, raffle, bequeath, will",
+      "target_word": "cede",
+      "words": [
+        "cede",
+        "raffle",
+        "bequeath",
+        "will"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "cede 与近义词辨析",
+      "synset_definition": "relinquish possession or control over",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 305,
+      "group_name": "coddle, fry, poach, stew",
+      "target_word": "coddle",
+      "words": [
+        "coddle",
+        "fry",
+        "poach",
+        "stew"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "coddle 与近义词辨析",
+      "synset_definition": "cook in nearly boiling water",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 306,
+      "group_name": "condescend, affiliate, interpose, treat",
+      "target_word": "condescend",
+      "words": [
+        "condescend",
+        "affiliate",
+        "interpose",
+        "treat"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "condescend 与近义词辨析",
+      "synset_definition": "treat condescendingly",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 307,
+      "group_name": "confederate, espouse, federate, wed",
+      "target_word": "confederate",
+      "words": [
+        "confederate",
+        "espouse",
+        "federate",
+        "wed"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "confederate 与近义词辨析",
+      "synset_definition": "form a group or unite",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 308,
+      "group_name": "conflate, flux, fuse, mix",
+      "target_word": "conflate",
+      "words": [
+        "conflate",
+        "flux",
+        "fuse",
+        "mix"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "conflate 与近义词辨析",
+      "synset_definition": "mix together different elements",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 309,
+      "group_name": "conjure, evoke, invoke, stir",
+      "target_word": "conjure",
+      "words": [
+        "conjure",
+        "evoke",
+        "invoke",
+        "stir"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "conjure 与近义词辨析",
+      "synset_definition": "summon into action or bring into existence, often as if by magic",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 310,
+      "group_name": "consecrate, ordain, enthrone, order",
+      "target_word": "consecrate",
+      "words": [
+        "consecrate",
+        "ordain",
+        "enthrone",
+        "order"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "consecrate 与近义词辨析",
+      "synset_definition": "appoint to a clerical posts",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 60,
+  "chunk_name": "chunk_60",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 601,
+      "group_name": "frill, ruffle, rosette, novelty",
+      "target_word": "frill",
+      "words": [
+        "frill",
+        "ruffle",
+        "rosette",
+        "novelty"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "frill 与近义词辨析",
+      "synset_definition": "a strip of pleated material used as a decoration or a trim",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 602,
+      "group_name": "fuzz, blur, schema, perception",
+      "target_word": "fuzz",
+      "words": [
+        "fuzz",
+        "blur",
+        "schema",
+        "perception"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fuzz 与近义词辨析",
+      "synset_definition": "a hazy or indistinct representation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 603,
+      "group_name": "gag, muzzle, hamper, tether",
+      "target_word": "gag",
+      "words": [
+        "gag",
+        "muzzle",
+        "hamper",
+        "tether"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gag 与近义词辨析",
+      "synset_definition": "restraint put into a person's mouth to prevent speaking or shouting",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 604,
+      "group_name": "gentility, chic, flair, grandeur",
+      "target_word": "gentility",
+      "words": [
+        "gentility",
+        "chic",
+        "flair",
+        "grandeur"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "gentility 与近义词辨析",
+      "synset_definition": "elegance by virtue of fineness of manner and expression",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 605,
+      "group_name": "gloss, visage, semblance, countenance",
+      "target_word": "gloss",
+      "words": [
+        "gloss",
+        "visage",
+        "semblance",
+        "countenance"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gloss 与近义词辨析",
+      "synset_definition": "an outward or token appearance or form that is deliberately misleading",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 606,
+      "group_name": "gush, flux, spate, dripping",
+      "target_word": "gush",
+      "words": [
+        "gush",
+        "flux",
+        "spate",
+        "dripping"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gush 与近义词辨析",
+      "synset_definition": "a sudden rapid flow (as of water)",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 607,
+      "group_name": "hedonist, pagan, erotic, wanton",
+      "target_word": "hedonist",
+      "words": [
+        "hedonist",
+        "pagan",
+        "erotic",
+        "wanton"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hedonist 与近义词辨析",
+      "synset_definition": "someone motivated by desires for sensual pleasures",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 608,
+      "group_name": "hubbub, creak, rustle, squawk",
+      "target_word": "hubbub",
+      "words": [
+        "hubbub",
+        "creak",
+        "rustle",
+        "squawk"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hubbub 与近义词辨析",
+      "synset_definition": "loud confused noise from many sources",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 609,
+      "group_name": "hurdle, fence, jetty, grate",
+      "target_word": "hurdle",
+      "words": [
+        "hurdle",
+        "fence",
+        "jetty",
+        "grate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hurdle 与近义词辨析",
+      "synset_definition": "a light movable barrier that competitors must leap over in certain races",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 610,
+      "group_name": "indemnity, redress, reparation, restitution",
+      "target_word": "indemnity",
+      "words": [
+        "indemnity",
+        "redress",
+        "reparation",
+        "restitution"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "indemnity 与近义词辨析",
+      "synset_definition": "a sum of money paid in compensation for loss or injury",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

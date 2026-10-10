@@ -1,0 +1,188 @@
+{
+  "batch_id": 15,
+  "chunk_name": "chunk_15",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 151,
+      "group_name": "shrivel, wane, flag, remit",
+      "target_word": "shrivel",
+      "words": [
+        "shrivel",
+        "wane",
+        "flag",
+        "remit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shrivel 与近义词辨析",
+      "synset_definition": "wither, as with a loss of moisture",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 152,
+      "group_name": "shun, fudge, evade, parry",
+      "target_word": "shun",
+      "words": [
+        "shun",
+        "fudge",
+        "evade",
+        "parry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shun 与近义词辨析",
+      "synset_definition": "avoid and stay away from deliberately; stay clear of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 153,
+      "group_name": "sizzle, honk, creak, crunch",
+      "target_word": "sizzle",
+      "words": [
+        "sizzle",
+        "honk",
+        "creak",
+        "crunch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sizzle 与近义词辨析",
+      "synset_definition": "make a sound like frying fat",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 154,
+      "group_name": "slash, quench, detract, deflate",
+      "target_word": "slash",
+      "words": [
+        "slash",
+        "quench",
+        "detract",
+        "deflate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "slash 与近义词辨析",
+      "synset_definition": "cut drastically",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 155,
+      "group_name": "slime, foul, mire, blemish",
+      "target_word": "slime",
+      "words": [
+        "slime",
+        "foul",
+        "mire",
+        "blemish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "slime 与近义词辨析",
+      "synset_definition": "cover or stain with slime",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 156,
+      "group_name": "snag, bum, procure, excavate",
+      "target_word": "snag",
+      "words": [
+        "snag",
+        "bum",
+        "procure",
+        "excavate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "snag 与近义词辨析",
+      "synset_definition": "get by acting quickly and smartly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 157,
+      "group_name": "snarl, rap, thud, drone",
+      "target_word": "snarl",
+      "words": [
+        "snarl",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "snarl 与近义词辨析",
+      "synset_definition": "make a snarling noise or move with a snarling noise",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 158,
+      "group_name": "sniffle, wail, bawl, snivel",
+      "target_word": "sniffle",
+      "words": [
+        "sniffle",
+        "wail",
+        "bawl",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sniffle 与近义词辨析",
+      "synset_definition": "cry or whine with snuffling",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 159,
+      "group_name": "spatter, sully, defile, tarnish",
+      "target_word": "spatter",
+      "words": [
+        "spatter",
+        "sully",
+        "defile",
+        "tarnish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "spatter 与近义词辨析",
+      "synset_definition": "spot, splash, or soil",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 160,
+      "group_name": "speckle, sully, defile, tarnish",
+      "target_word": "speckle",
+      "words": [
+        "speckle",
+        "sully",
+        "defile",
+        "tarnish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "speckle 与近义词辨析",
+      "synset_definition": "mark with small spots",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

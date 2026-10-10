@@ -1,0 +1,188 @@
+{
+  "batch_id": 33,
+  "chunk_name": "chunk_33",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 331,
+      "group_name": "disassociate, disunite, dissociate, divorce",
+      "target_word": "disassociate",
+      "words": [
+        "disassociate",
+        "disunite",
+        "dissociate",
+        "divorce"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "disassociate 与近义词辨析",
+      "synset_definition": "part; cease or break association with",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 332,
+      "group_name": "dislocate, dislodge, evacuate, bump",
+      "target_word": "dislocate",
+      "words": [
+        "dislocate",
+        "dislodge",
+        "evacuate",
+        "bump"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dislocate 与近义词辨析",
+      "synset_definition": "put out of its usual place, position, or relationship",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 333,
+      "group_name": "dismantle, fracture, exterminate, level",
+      "target_word": "dismantle",
+      "words": [
+        "dismantle",
+        "fracture",
+        "exterminate",
+        "level"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dismantle 与近义词辨析",
+      "synset_definition": "tear down so as to make flat with the ground",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 334,
+      "group_name": "dissuade, exhort, admonish, tip",
+      "target_word": "dissuade",
+      "words": [
+        "dissuade",
+        "exhort",
+        "admonish",
+        "tip"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dissuade 与近义词辨析",
+      "synset_definition": "turn away from by persuasion",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 335,
+      "group_name": "dredge, scour, divine, drag",
+      "target_word": "dredge",
+      "words": [
+        "dredge",
+        "scour",
+        "divine",
+        "drag"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dredge 与近义词辨析",
+      "synset_definition": "search (as the bottom of a body of water) for something valuable or lost",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 336,
+      "group_name": "demonic, satanic, fiendish, infernal",
+      "target_word": "demonic",
+      "words": [
+        "demonic",
+        "satanic",
+        "fiendish",
+        "infernal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "demonic 与近义词辨析",
+      "synset_definition": "extremely evil or cruel; expressive of cruelty or befitting hell",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 337,
+      "group_name": "flamboyant, showy, pretentious, ostentatious",
+      "target_word": "flamboyant",
+      "words": [
+        "flamboyant",
+        "showy",
+        "pretentious",
+        "ostentatious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "flamboyant 与近义词辨析",
+      "synset_definition": "marked by ostentation but often tasteless",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 338,
+      "group_name": "frivolous, giddy, flighty, flippant",
+      "target_word": "frivolous",
+      "words": [
+        "frivolous",
+        "giddy",
+        "flighty",
+        "flippant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "frivolous 与近义词辨析",
+      "synset_definition": "not serious in content or attitude or behavior",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 339,
+      "group_name": "heterogeneous, motley, sundry, assorted",
+      "target_word": "heterogeneous",
+      "words": [
+        "heterogeneous",
+        "motley",
+        "sundry",
+        "assorted"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "heterogeneous 与近义词辨析",
+      "synset_definition": "consisting of elements that are not of the same kind or nature",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 340,
+      "group_name": "implacable, inexorable, relentless, unrelenting",
+      "target_word": "implacable",
+      "words": [
+        "implacable",
+        "inexorable",
+        "relentless",
+        "unrelenting"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "implacable 与近义词辨析",
+      "synset_definition": "incapable of being placated",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

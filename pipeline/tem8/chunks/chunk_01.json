@@ -1,0 +1,188 @@
+{
+  "batch_id": 1,
+  "chunk_name": "chunk_01",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 11,
+      "group_name": "adhere, conform, comply, abide",
+      "target_word": "adhere",
+      "words": [
+        "adhere",
+        "conform",
+        "comply",
+        "abide"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adhere 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 1,
+      "cas_score": 95
+    },
+    {
+      "group_id": 12,
+      "group_name": "sporadic, intermittent, periodic, fitful",
+      "target_word": "sporadic",
+      "words": [
+        "sporadic",
+        "intermittent",
+        "periodic",
+        "fitful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sporadic 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 4,
+      "cas_score": 95
+    },
+    {
+      "group_id": 13,
+      "group_name": "insidious, treacherous, stealthy, surreptitious",
+      "target_word": "insidious",
+      "words": [
+        "insidious",
+        "treacherous",
+        "stealthy",
+        "surreptitious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "insidious 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 14,
+      "group_name": "abort, spew, fester, ejaculate",
+      "target_word": "abort",
+      "words": [
+        "abort",
+        "spew",
+        "fester",
+        "ejaculate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abort 与近义词辨析",
+      "synset_definition": "terminate a pregnancy by undergoing an abortion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 15,
+      "group_name": "afflict, faze, unnerve, anguish",
+      "target_word": "afflict",
+      "words": [
+        "afflict",
+        "faze",
+        "unnerve",
+        "anguish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "afflict 与近义词辨析",
+      "synset_definition": "cause great unhappiness for; distress",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 16,
+      "group_name": "agitate, jog, lure, entice",
+      "target_word": "agitate",
+      "words": [
+        "agitate",
+        "jog",
+        "lure",
+        "entice"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "agitate 与近义词辨析",
+      "synset_definition": "try to stir up public opinion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 17,
+      "group_name": "allay, quell, quench, appease",
+      "target_word": "allay",
+      "words": [
+        "allay",
+        "quell",
+        "quench",
+        "appease"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "allay 与近义词辨析",
+      "synset_definition": "satisfy (thirst)",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 18,
+      "group_name": "alleviate, avail, succour, expedite",
+      "target_word": "alleviate",
+      "words": [
+        "alleviate",
+        "avail",
+        "succour",
+        "expedite"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "alleviate 与近义词辨析",
+      "synset_definition": "make easier",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 19,
+      "group_name": "animate, exalt, enliven, invigorate",
+      "target_word": "animate",
+      "words": [
+        "animate",
+        "exalt",
+        "enliven",
+        "invigorate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "animate 与近义词辨析",
+      "synset_definition": "heighten or intensify",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 20,
+      "group_name": "antagonize, fret, grate, beset",
+      "target_word": "antagonize",
+      "words": [
+        "antagonize",
+        "fret",
+        "grate",
+        "beset"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "antagonize 与近义词辨析",
+      "synset_definition": "provoke the hostility of",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

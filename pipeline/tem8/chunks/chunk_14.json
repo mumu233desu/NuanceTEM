@@ -1,0 +1,188 @@
+{
+  "batch_id": 14,
+  "chunk_name": "chunk_14",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 141,
+      "group_name": "replenish, clog, deluge, clutter",
+      "target_word": "replenish",
+      "words": [
+        "replenish",
+        "clog",
+        "deluge",
+        "clutter"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "replenish 与近义词辨析",
+      "synset_definition": "fill something that had previously been emptied",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 142,
+      "group_name": "replicate, fawn, crook, cringe",
+      "target_word": "replicate",
+      "words": [
+        "replicate",
+        "fawn",
+        "crook",
+        "cringe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "replicate 与近义词辨析",
+      "synset_definition": "bend or turn backward",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 143,
+      "group_name": "retard, lighten, exacerbate, exasperate",
+      "target_word": "retard",
+      "words": [
+        "retard",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "retard 与近义词辨析",
+      "synset_definition": "slow the growth or development of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 144,
+      "group_name": "revamp, darn, cobble, tinker",
+      "target_word": "revamp",
+      "words": [
+        "revamp",
+        "darn",
+        "cobble",
+        "tinker"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "revamp 与近义词辨析",
+      "synset_definition": "provide (a shoe) with a new vamp",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 145,
+      "group_name": "ruffle, fret, grate, beset",
+      "target_word": "ruffle",
+      "words": [
+        "ruffle",
+        "fret",
+        "grate",
+        "beset"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ruffle 与近义词辨析",
+      "synset_definition": "trouble or vex",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 146,
+      "group_name": "salvage, rake, glean, scavenge",
+      "target_word": "salvage",
+      "words": [
+        "salvage",
+        "rake",
+        "glean",
+        "scavenge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "salvage 与近义词辨析",
+      "synset_definition": "collect discarded or refused material",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 147,
+      "group_name": "schematize, lighten, exacerbate, exasperate",
+      "target_word": "schematize",
+      "words": [
+        "schematize",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "schematize 与近义词辨析",
+      "synset_definition": "give conventional form to",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 148,
+      "group_name": "shatter, mar, impair, blemish",
+      "target_word": "shatter",
+      "words": [
+        "shatter",
+        "mar",
+        "impair",
+        "blemish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shatter 与近义词辨析",
+      "synset_definition": "damage or destroy",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 149,
+      "group_name": "shirk, shun, fudge, evade",
+      "target_word": "shirk",
+      "words": [
+        "shirk",
+        "shun",
+        "fudge",
+        "evade"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shirk 与近义词辨析",
+      "synset_definition": "avoid dealing with",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 150,
+      "group_name": "shoal, lighten, exacerbate, exasperate",
+      "target_word": "shoal",
+      "words": [
+        "shoal",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shoal 与近义词辨析",
+      "synset_definition": "make shallow",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

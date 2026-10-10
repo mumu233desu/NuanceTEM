@@ -1,0 +1,188 @@
+{
+  "batch_id": 10,
+  "chunk_name": "chunk_10",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 101,
+      "group_name": "hue, lighten, exacerbate, exasperate",
+      "target_word": "hue",
+      "words": [
+        "hue",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hue 与近义词辨析",
+      "synset_definition": "take on color or become colored",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 102,
+      "group_name": "huff, snort, snuff, snivel",
+      "target_word": "huff",
+      "words": [
+        "huff",
+        "snort",
+        "snuff",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "huff 与近义词辨析",
+      "synset_definition": "inhale recreational drugs",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 103,
+      "group_name": "imbue, hue, tint, tinge",
+      "target_word": "imbue",
+      "words": [
+        "imbue",
+        "hue",
+        "tint",
+        "tinge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "imbue 与近义词辨析",
+      "synset_definition": "suffuse with color",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 104,
+      "group_name": "impregnate, clog, infuse, deluge",
+      "target_word": "impregnate",
+      "words": [
+        "impregnate",
+        "clog",
+        "infuse",
+        "deluge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "impregnate 与近义词辨析",
+      "synset_definition": "fill, as with a certain quality",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 105,
+      "group_name": "incapacitate, lighten, exacerbate, exasperate",
+      "target_word": "incapacitate",
+      "words": [
+        "incapacitate",
+        "lighten",
+        "exacerbate",
+        "exasperate"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incapacitate 与近义词辨析",
+      "synset_definition": "make unable to perform a certain action",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 106,
+      "group_name": "incriminate, sully, defame, indict",
+      "target_word": "incriminate",
+      "words": [
+        "incriminate",
+        "sully",
+        "defame",
+        "indict"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incriminate 与近义词辨析",
+      "synset_definition": "bring an accusation against; level a charge against",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 107,
+      "group_name": "inflame, devolve, regress, degenerate",
+      "target_word": "inflame",
+      "words": [
+        "inflame",
+        "devolve",
+        "regress",
+        "degenerate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "inflame 与近义词辨析",
+      "synset_definition": "become inflamed; get sore",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 108,
+      "group_name": "infuriate, irk, madden, enrage",
+      "target_word": "infuriate",
+      "words": [
+        "infuriate",
+        "irk",
+        "madden",
+        "enrage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "infuriate 与近义词辨析",
+      "synset_definition": "make furious",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 109,
+      "group_name": "infuse, clog, deluge, clutter",
+      "target_word": "infuse",
+      "words": [
+        "infuse",
+        "clog",
+        "deluge",
+        "clutter"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "infuse 与近义词辨析",
+      "synset_definition": "fill, as with a certain quality",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 110,
+      "group_name": "instigate, jog, lure, incite",
+      "target_word": "instigate",
+      "words": [
+        "instigate",
+        "jog",
+        "lure",
+        "incite"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "instigate 与近义词辨析",
+      "synset_definition": "provoke or stir up",
+      "t8_count": 4,
+      "cas_score": 100
+    }
+  ]
+}

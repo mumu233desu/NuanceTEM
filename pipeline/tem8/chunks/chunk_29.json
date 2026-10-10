@@ -1,0 +1,188 @@
+{
+  "batch_id": 29,
+  "chunk_name": "chunk_29",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 291,
+      "group_name": "arbitrate, broker, mediate, bargain",
+      "target_word": "arbitrate",
+      "words": [
+        "arbitrate",
+        "broker",
+        "mediate",
+        "bargain"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "arbitrate 与近义词辨析",
+      "synset_definition": "act between parties with a view to reconciling differences",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 292,
+      "group_name": "auctioneer, undercut, undersell, dump",
+      "target_word": "auctioneer",
+      "words": [
+        "auctioneer",
+        "undercut",
+        "undersell",
+        "dump"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "auctioneer 与近义词辨析",
+      "synset_definition": "sell at an auction",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 293,
+      "group_name": "augment, boost, escalate, up",
+      "target_word": "augment",
+      "words": [
+        "augment",
+        "boost",
+        "escalate",
+        "up"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "augment 与近义词辨析",
+      "synset_definition": "enlarge or increase",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 294,
+      "group_name": "barricade, clog, foul, dam",
+      "target_word": "barricade",
+      "words": [
+        "barricade",
+        "clog",
+        "foul",
+        "dam"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "barricade 与近义词辨析",
+      "synset_definition": "block off with barricades",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 295,
+      "group_name": "binge, gorge, satiate, stuff",
+      "target_word": "binge",
+      "words": [
+        "binge",
+        "gorge",
+        "satiate",
+        "stuff"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "binge 与近义词辨析",
+      "synset_definition": "overeat or eat immodestly; make a pig of oneself",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 296,
+      "group_name": "bombard, chuck, hurtle, shy",
+      "target_word": "bombard",
+      "words": [
+        "bombard",
+        "chuck",
+        "hurtle",
+        "shy"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "bombard 与近义词辨析",
+      "synset_definition": "cast, hurl, or throw repeatedly with some missile",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 297,
+      "group_name": "booze, fuddle, satiate, eat",
+      "target_word": "booze",
+      "words": [
+        "booze",
+        "fuddle",
+        "satiate",
+        "eat"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "booze 与近义词辨析",
+      "synset_definition": "consume alcohol",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 298,
+      "group_name": "brace, vitalize, substantiate, steady",
+      "target_word": "brace",
+      "words": [
+        "brace",
+        "vitalize",
+        "substantiate",
+        "steady"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "brace 与近义词辨析",
+      "synset_definition": "support or hold steady and make steadfast, with or as if with a brace",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 299,
+      "group_name": "braid, festoon, wreathe, gild",
+      "target_word": "braid",
+      "words": [
+        "braid",
+        "festoon",
+        "wreathe",
+        "gild"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "braid 与近义词辨析",
+      "synset_definition": "decorate with braids or ribbons",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 300,
+      "group_name": "bum, procure, excavate, gain",
+      "target_word": "bum",
+      "words": [
+        "bum",
+        "procure",
+        "excavate",
+        "gain"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "bum 与近义词辨析",
+      "synset_definition": "ask for and get free; be a parasite",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

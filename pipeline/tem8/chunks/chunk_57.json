@@ -1,0 +1,188 @@
+{
+  "batch_id": 57,
+  "chunk_name": "chunk_57",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 571,
+      "group_name": "accession, assent, concord, collusion",
+      "target_word": "accession",
+      "words": [
+        "accession",
+        "assent",
+        "concord",
+        "collusion"
+      ],
+      "pos": "n",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "accession 与近义词辨析",
+      "synset_definition": "agreeing with or consenting to (often unwillingly)",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 572,
+      "group_name": "agitation, waver, quiver, flicker",
+      "target_word": "agitation",
+      "words": [
+        "agitation",
+        "waver",
+        "quiver",
+        "flicker"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "agitation 与近义词辨析",
+      "synset_definition": "the act of agitating something; causing it to move around (usually vigorously)",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 573,
+      "group_name": "antidote, balm, lotion, panacea",
+      "target_word": "antidote",
+      "words": [
+        "antidote",
+        "balm",
+        "lotion",
+        "panacea"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "antidote 与近义词辨析",
+      "synset_definition": "a remedy that stops or controls the effects of a poison",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 574,
+      "group_name": "antipathy, hobgoblin, infatuation, hallucination",
+      "target_word": "antipathy",
+      "words": [
+        "antipathy",
+        "hobgoblin",
+        "infatuation",
+        "hallucination"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "antipathy 与近义词辨析",
+      "synset_definition": "the object of a feeling of intense aversion; something to be avoided",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 575,
+      "group_name": "apex, node, zenith, equinox",
+      "target_word": "apex",
+      "words": [
+        "apex",
+        "node",
+        "zenith",
+        "equinox"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "apex 与近义词辨析",
+      "synset_definition": "the point on the celestial sphere toward which the sun and solar system appear to be moving relative to the fixed stars",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 576,
+      "group_name": "apprehension, misgiving, foretaste, expectancy",
+      "target_word": "apprehension",
+      "words": [
+        "apprehension",
+        "misgiving",
+        "foretaste",
+        "expectancy"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "apprehension 与近义词辨析",
+      "synset_definition": "painful expectation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 577,
+      "group_name": "archetype, epitome, paradigm, prototype",
+      "target_word": "archetype",
+      "words": [
+        "archetype",
+        "epitome",
+        "paradigm",
+        "prototype"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "archetype 与近义词辨析",
+      "synset_definition": "something that serves as a model or a basis for making copies",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 578,
+      "group_name": "asylum, loft, hovel, hutch",
+      "target_word": "asylum",
+      "words": [
+        "asylum",
+        "loft",
+        "hovel",
+        "hutch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "asylum 与近义词辨析",
+      "synset_definition": "a shelter from danger or hardship",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 579,
+      "group_name": "balm, lotion, panacea, ointment",
+      "target_word": "balm",
+      "words": [
+        "balm",
+        "lotion",
+        "panacea",
+        "ointment"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "balm 与近义词辨析",
+      "synset_definition": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 580,
+      "group_name": "balustrade, fence, jetty, grate",
+      "target_word": "balustrade",
+      "words": [
+        "balustrade",
+        "fence",
+        "jetty",
+        "grate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "balustrade 与近义词辨析",
+      "synset_definition": "a railing at the side of a staircase or balcony to prevent people from falling",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

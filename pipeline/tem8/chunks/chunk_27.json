@@ -1,0 +1,188 @@
+{
+  "batch_id": 27,
+  "chunk_name": "chunk_27",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 271,
+      "group_name": "sidestep, fudge, evade, parry",
+      "target_word": "sidestep",
+      "words": [
+        "sidestep",
+        "fudge",
+        "evade",
+        "parry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sidestep 与近义词辨析",
+      "synset_definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 272,
+      "group_name": "sidle, swoop, fidget, flurry",
+      "target_word": "sidle",
+      "words": [
+        "sidle",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sidle 与近义词辨析",
+      "synset_definition": "move unobtrusively or furtively",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 273,
+      "group_name": "slump, alight, subside, cascade",
+      "target_word": "slump",
+      "words": [
+        "slump",
+        "alight",
+        "subside",
+        "cascade"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "slump 与近义词辨析",
+      "synset_definition": "go down in value",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 274,
+      "group_name": "slur, blurt, whiff, snarl",
+      "target_word": "slur",
+      "words": [
+        "slur",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "slur 与近义词辨析",
+      "synset_definition": "utter indistinctly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 275,
+      "group_name": "spew, honk, purge, chuck",
+      "target_word": "spew",
+      "words": [
+        "spew",
+        "honk",
+        "purge",
+        "chuck"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "spew 与近义词辨析",
+      "synset_definition": "eject the contents of the stomach through the mouth",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 276,
+      "group_name": "stalk, wade, slink, mince",
+      "target_word": "stalk",
+      "words": [
+        "stalk",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "stalk 与近义词辨析",
+      "synset_definition": "walk stiffly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 277,
+      "group_name": "strew, drape, mantle, shroud",
+      "target_word": "strew",
+      "words": [
+        "strew",
+        "drape",
+        "mantle",
+        "shroud"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "strew 与近义词辨析",
+      "synset_definition": "cover; be dispersed over",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 278,
+      "group_name": "surcharge, clog, deluge, clutter",
+      "target_word": "surcharge",
+      "words": [
+        "surcharge",
+        "clog",
+        "deluge",
+        "clutter"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "surcharge 与近义词辨析",
+      "synset_definition": "fill to an excessive degree",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 279,
+      "group_name": "taper, wane, flag, remit",
+      "target_word": "taper",
+      "words": [
+        "taper",
+        "wane",
+        "flag",
+        "remit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "taper 与近义词辨析",
+      "synset_definition": "diminish gradually",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 280,
+      "group_name": "thud, rap, thump, drone",
+      "target_word": "thud",
+      "words": [
+        "thud",
+        "rap",
+        "thump",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "thud 与近义词辨析",
+      "synset_definition": "make a dull sound",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

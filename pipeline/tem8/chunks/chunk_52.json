@@ -1,0 +1,188 @@
+{
+  "batch_id": 52,
+  "chunk_name": "chunk_52",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 521,
+      "group_name": "wizard, magic, magical, charming",
+      "target_word": "wizard",
+      "words": [
+        "wizard",
+        "magic",
+        "magical",
+        "charming"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "wizard 与近义词辨析",
+      "synset_definition": "possessing or using or characteristic of or appropriate to supernatural powers; ; ; ; - Shakespeare",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 522,
+      "group_name": "adept, good, expert, proficient",
+      "target_word": "adept",
+      "words": [
+        "adept",
+        "good",
+        "expert",
+        "proficient"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adept 与近义词辨析",
+      "synset_definition": "having or showing knowledge and skill and aptitude",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 523,
+      "group_name": "adjunct, accessory, auxiliary, supportive",
+      "target_word": "adjunct",
+      "words": [
+        "adjunct",
+        "accessory",
+        "auxiliary",
+        "supportive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adjunct 与近义词辨析",
+      "synset_definition": "furnishing added support",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 524,
+      "group_name": "auspicious, rosy, bright, hopeful",
+      "target_word": "auspicious",
+      "words": [
+        "auspicious",
+        "rosy",
+        "bright",
+        "hopeful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "auspicious 与近义词辨析",
+      "synset_definition": "auguring favorable circumstances and good luck",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 525,
+      "group_name": "bountiful, big, liberal, handsome",
+      "target_word": "bountiful",
+      "words": [
+        "bountiful",
+        "big",
+        "liberal",
+        "handsome"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bountiful 与近义词辨析",
+      "synset_definition": "given or giving freely",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 526,
+      "group_name": "chic, smart, stylish, fashionable",
+      "target_word": "chic",
+      "words": [
+        "chic",
+        "smart",
+        "stylish",
+        "fashionable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "chic 与近义词辨析",
+      "synset_definition": "elegant and stylish",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 527,
+      "group_name": "constituent, organic, essential, constitutional",
+      "target_word": "constituent",
+      "words": [
+        "constituent",
+        "organic",
+        "essential",
+        "constitutional"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "constituent 与近义词辨析",
+      "synset_definition": "constitutional in the structure of something (especially your physical makeup)",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 528,
+      "group_name": "definitive, classic, standard, classical",
+      "target_word": "definitive",
+      "words": [
+        "definitive",
+        "classic",
+        "standard",
+        "classical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "definitive 与近义词辨析",
+      "synset_definition": "of recognized authority or excellence",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 529,
+      "group_name": "devout, dear, earnest, sincere",
+      "target_word": "devout",
+      "words": [
+        "devout",
+        "dear",
+        "earnest",
+        "sincere"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "devout 与近义词辨析",
+      "synset_definition": "earnest",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 530,
+      "group_name": "downright, rank, sheer, absolute",
+      "target_word": "downright",
+      "words": [
+        "downright",
+        "rank",
+        "sheer",
+        "absolute"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "downright 与近义词辨析",
+      "synset_definition": "complete and without restriction or qualification; sometimes used informally as intensifiers",
+      "t8_count": 1,
+      "cas_score": 74
+    }
+  ]
+}

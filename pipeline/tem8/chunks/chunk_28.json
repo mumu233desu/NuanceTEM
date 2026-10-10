@@ -1,0 +1,188 @@
+{
+  "batch_id": 28,
+  "chunk_name": "chunk_28",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 281,
+      "group_name": "thump, swoop, fidget, flurry",
+      "target_word": "thump",
+      "words": [
+        "thump",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "thump 与近义词辨析",
+      "synset_definition": "move rhythmically",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 282,
+      "group_name": "tilt, swoop, fidget, flurry",
+      "target_word": "tilt",
+      "words": [
+        "tilt",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "tilt 与近义词辨析",
+      "synset_definition": "heel over",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 283,
+      "group_name": "treble, chant, trill, chirp",
+      "target_word": "treble",
+      "words": [
+        "treble",
+        "chant",
+        "trill",
+        "chirp"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "treble 与近义词辨析",
+      "synset_definition": "sing treble",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 284,
+      "group_name": "trudge, wade, slink, mince",
+      "target_word": "trudge",
+      "words": [
+        "trudge",
+        "wade",
+        "slink",
+        "mince"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "trudge 与近义词辨析",
+      "synset_definition": "walk heavily and firmly, as when weary, or through mud",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 285,
+      "group_name": "unsettle, faze, unnerve, afflict",
+      "target_word": "unsettle",
+      "words": [
+        "unsettle",
+        "faze",
+        "unnerve",
+        "afflict"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "unsettle 与近义词辨析",
+      "synset_definition": "disturb the composure of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 286,
+      "group_name": "unwind, brace, cramp, energize",
+      "target_word": "unwind",
+      "words": [
+        "unwind",
+        "brace",
+        "cramp",
+        "energize"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "unwind 与近义词辨析",
+      "synset_definition": "cause to feel relaxed",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 287,
+      "group_name": "whizz, rap, thud, drone",
+      "target_word": "whizz",
+      "words": [
+        "whizz",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "whizz 与近义词辨析",
+      "synset_definition": "make a soft swishing sound",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 288,
+      "group_name": "wobble, swoop, fidget, flurry",
+      "target_word": "wobble",
+      "words": [
+        "wobble",
+        "swoop",
+        "fidget",
+        "flurry"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wobble 与近义词辨析",
+      "synset_definition": "move unsteadily",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 289,
+      "group_name": "abduct, yank, hale, tug",
+      "target_word": "abduct",
+      "words": [
+        "abduct",
+        "yank",
+        "hale",
+        "tug"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abduct 与近义词辨析",
+      "synset_definition": "pull away from the body",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 290,
+      "group_name": "adorn, beautify, embellish, grace",
+      "target_word": "adorn",
+      "words": [
+        "adorn",
+        "beautify",
+        "embellish",
+        "grace"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adorn 与近义词辨析",
+      "synset_definition": "make more attractive by adding ornament, colour, etc.",
+      "t8_count": 3,
+      "cas_score": 92
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "batch_id": 69,
+  "chunk_name": "chunk_69",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 691,
+      "group_name": "abbreviate, cut, reduce, abridge",
+      "target_word": "abbreviate",
+      "words": [
+        "abbreviate",
+        "cut",
+        "reduce",
+        "abridge"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abbreviate 与近义词辨析",
+      "synset_definition": "reduce in scope while retaining essential elements",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 692,
+      "group_name": "abhor, loathe, scorn, despise",
+      "target_word": "abhor",
+      "words": [
+        "abhor",
+        "loathe",
+        "scorn",
+        "despise"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abhor 与近义词辨析",
+      "synset_definition": "find repugnant",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 693,
+      "group_name": "abide, bear, stand, brook",
+      "target_word": "abide",
+      "words": [
+        "abide",
+        "bear",
+        "stand",
+        "brook"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abide 与近义词辨析",
+      "synset_definition": "put up with something or somebody unpleasant",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 694,
+      "group_name": "abstain, forbear, help, save",
+      "target_word": "abstain",
+      "words": [
+        "abstain",
+        "forbear",
+        "help",
+        "save"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abstain 与近义词辨析",
+      "synset_definition": "refrain from voting",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 695,
+      "group_name": "accede, defer, bow, submit",
+      "target_word": "accede",
+      "words": [
+        "accede",
+        "defer",
+        "bow",
+        "submit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accede 与近义词辨析",
+      "synset_definition": "yield to another's wish or opinion",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 696,
+      "group_name": "accentuate, stress, accent, emphasize",
+      "target_word": "accentuate",
+      "words": [
+        "accentuate",
+        "stress",
+        "accent",
+        "emphasize"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "accentuate 与近义词辨析",
+      "synset_definition": "to stress, single out as important",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 697,
+      "group_name": "acclaim, hail, cheer, herald",
+      "target_word": "acclaim",
+      "words": [
+        "acclaim",
+        "hail",
+        "cheer",
+        "herald"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "acclaim 与近义词辨析",
+      "synset_definition": "praise vociferously",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 698,
+      "group_name": "accredit, franchise, charter, recognize",
+      "target_word": "accredit",
+      "words": [
+        "accredit",
+        "franchise",
+        "charter",
+        "recognize"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accredit 与近义词辨析",
+      "synset_definition": "grant credentials to",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 699,
+      "group_name": "accrue, add, wax, gain",
+      "target_word": "accrue",
+      "words": [
+        "accrue",
+        "add",
+        "wax",
+        "gain"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "accrue 与近义词辨析",
+      "synset_definition": "grow by addition",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 700,
+      "group_name": "acquiesce, assent, accede, bargain",
+      "target_word": "acquiesce",
+      "words": [
+        "acquiesce",
+        "assent",
+        "accede",
+        "bargain"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "acquiesce 与近义词辨析",
+      "synset_definition": "to agree or express agreement",
+      "t8_count": 3,
+      "cas_score": 88
+    }
+  ]
+}

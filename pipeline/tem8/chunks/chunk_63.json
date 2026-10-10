@@ -1,0 +1,188 @@
+{
+  "batch_id": 63,
+  "chunk_name": "chunk_63",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 631,
+      "group_name": "sap, dope, booby, scatterbrain",
+      "target_word": "sap",
+      "words": [
+        "sap",
+        "dope",
+        "booby",
+        "scatterbrain"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sap 与近义词辨析",
+      "synset_definition": "a person who lacks good judgment",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 632,
+      "group_name": "skid, gag, hamper, muzzle",
+      "target_word": "skid",
+      "words": [
+        "skid",
+        "gag",
+        "hamper",
+        "muzzle"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "skid 与近义词辨析",
+      "synset_definition": "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 633,
+      "group_name": "sophist, stoic, cynic, existentialist",
+      "target_word": "sophist",
+      "words": [
+        "sophist",
+        "stoic",
+        "cynic",
+        "existentialist"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sophist 与近义词辨析",
+      "synset_definition": "any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 634,
+      "group_name": "spate, flux, upsurge, dripping",
+      "target_word": "spate",
+      "words": [
+        "spate",
+        "flux",
+        "upsurge",
+        "dripping"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "spate 与近义词辨析",
+      "synset_definition": "a sudden forceful flow",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 635,
+      "group_name": "splutter, creak, rustle, squawk",
+      "target_word": "splutter",
+      "words": [
+        "splutter",
+        "creak",
+        "rustle",
+        "squawk"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "splutter 与近义词辨析",
+      "synset_definition": "the noise of something spattering or sputtering explosively",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 636,
+      "group_name": "trance, stupor, blackout, stupefaction",
+      "target_word": "trance",
+      "words": [
+        "trance",
+        "stupor",
+        "blackout",
+        "stupefaction"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "trance 与近义词辨析",
+      "synset_definition": "a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sleep",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 637,
+      "group_name": "vanguard, corps, infantry, battalion",
+      "target_word": "vanguard",
+      "words": [
+        "vanguard",
+        "corps",
+        "infantry",
+        "battalion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vanguard 与近义词辨析",
+      "synset_definition": "the leading units moving at the head of an army",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 638,
+      "group_name": "vulture, rowdy, ruffian, hooligan",
+      "target_word": "vulture",
+      "words": [
+        "vulture",
+        "rowdy",
+        "ruffian",
+        "hooligan"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vulture 与近义词辨析",
+      "synset_definition": "someone who attacks in search of booty",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 639,
+      "group_name": "waddle, strut, stalk, lurch",
+      "target_word": "waddle",
+      "words": [
+        "waddle",
+        "strut",
+        "stalk",
+        "lurch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "waddle 与近义词辨析",
+      "synset_definition": "walking with short steps and the weight tilting from one foot to the other",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 640,
+      "group_name": "wreckage, stub, turnout, pressing",
+      "target_word": "wreckage",
+      "words": [
+        "wreckage",
+        "stub",
+        "turnout",
+        "pressing"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "wreckage 与近义词辨析",
+      "synset_definition": "the remaining parts of something that has been wrecked",
+      "t8_count": 4,
+      "cas_score": 93
+    }
+  ]
+}

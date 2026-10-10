@@ -1,0 +1,188 @@
+{
+  "batch_id": 67,
+  "chunk_name": "chunk_67",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 671,
+      "group_name": "quadruple, quartet, nucleus, portfolio",
+      "target_word": "quadruple",
+      "words": [
+        "quadruple",
+        "quartet",
+        "nucleus",
+        "portfolio"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "quadruple 与近义词辨析",
+      "synset_definition": "a set of four similar things considered as a unit",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 672,
+      "group_name": "rapist, rowdy, ruffian, vulture",
+      "target_word": "rapist",
+      "words": [
+        "rapist",
+        "rowdy",
+        "ruffian",
+        "vulture"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "rapist 与近义词辨析",
+      "synset_definition": "someone who forces another to have sexual intercourse",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 673,
+      "group_name": "revoke, blunder, oversight, incursion",
+      "target_word": "revoke",
+      "words": [
+        "revoke",
+        "blunder",
+        "oversight",
+        "incursion"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "revoke 与近义词辨析",
+      "synset_definition": "the mistake of not following suit when able to do so",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 674,
+      "group_name": "ruckus, din, havoc, turmoil",
+      "target_word": "ruckus",
+      "words": [
+        "ruckus",
+        "din",
+        "havoc",
+        "turmoil"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ruckus 与近义词辨析",
+      "synset_definition": "the act of making a noisy disturbance",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 675,
+      "group_name": "scholastic, stoic, cynic, existentialist",
+      "target_word": "scholastic",
+      "words": [
+        "scholastic",
+        "stoic",
+        "cynic",
+        "existentialist"
+      ],
+      "pos": "n",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "scholastic 与近义词辨析",
+      "synset_definition": "a Scholastic philosopher or theologian",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 676,
+      "group_name": "scowl, gape, snarl, wince",
+      "target_word": "scowl",
+      "words": [
+        "scowl",
+        "gape",
+        "snarl",
+        "wince"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "scowl 与近义词辨析",
+      "synset_definition": "a facial expression of dislike or displeasure",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 677,
+      "group_name": "semblance, foil, inset, montage",
+      "target_word": "semblance",
+      "words": [
+        "semblance",
+        "foil",
+        "inset",
+        "montage"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "semblance 与近义词辨析",
+      "synset_definition": "picture consisting of a graphic image of a person or thing",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 678,
+      "group_name": "shove, jog, boost, nudge",
+      "target_word": "shove",
+      "words": [
+        "shove",
+        "jog",
+        "boost",
+        "nudge"
+      ],
+      "pos": "n",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "shove 与近义词辨析",
+      "synset_definition": "the act of shoving (giving a push to someone or something)",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 679,
+      "group_name": "smother, jumble, muddle, fuddle",
+      "target_word": "smother",
+      "words": [
+        "smother",
+        "jumble",
+        "muddle",
+        "fuddle"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "smother 与近义词辨析",
+      "synset_definition": "a confused multitude of things",
+      "t8_count": 4,
+      "cas_score": 89
+    },
+    {
+      "group_id": 680,
+      "group_name": "squawk, creak, rustle, squeak",
+      "target_word": "squawk",
+      "words": [
+        "squawk",
+        "creak",
+        "rustle",
+        "squeak"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "squawk 与近义词辨析",
+      "synset_definition": "the noise of squawking",
+      "t8_count": 4,
+      "cas_score": 89
+    }
+  ]
+}

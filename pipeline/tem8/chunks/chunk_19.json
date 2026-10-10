@@ -1,0 +1,188 @@
+{
+  "batch_id": 19,
+  "chunk_name": "chunk_19",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 191,
+      "group_name": "balk, subvert, sabotage, counteract",
+      "target_word": "balk",
+      "words": [
+        "balk",
+        "subvert",
+        "sabotage",
+        "counteract"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "balk 与近义词辨析",
+      "synset_definition": "refuse to comply",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 192,
+      "group_name": "bay, blurt, whiff, snarl",
+      "target_word": "bay",
+      "words": [
+        "bay",
+        "blurt",
+        "whiff",
+        "snarl"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bay 与近义词辨析",
+      "synset_definition": "utter in deep prolonged tones",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 193,
+      "group_name": "beautify, emend, enhance, embellish",
+      "target_word": "beautify",
+      "words": [
+        "beautify",
+        "emend",
+        "enhance",
+        "embellish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beautify 与近义词辨析",
+      "synset_definition": "make more beautiful",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 194,
+      "group_name": "beckon, trance, beguile, bewitch",
+      "target_word": "beckon",
+      "words": [
+        "beckon",
+        "trance",
+        "beguile",
+        "bewitch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beckon 与近义词辨析",
+      "synset_definition": "appear inviting",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 195,
+      "group_name": "begrudge, lust, crave, hanker",
+      "target_word": "begrudge",
+      "words": [
+        "begrudge",
+        "lust",
+        "crave",
+        "hanker"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "begrudge 与近义词辨析",
+      "synset_definition": "be envious of; set one's heart on",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 196,
+      "group_name": "bemoan, bitch, lament, repine",
+      "target_word": "bemoan",
+      "words": [
+        "bemoan",
+        "bitch",
+        "lament",
+        "repine"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bemoan 与近义词辨析",
+      "synset_definition": "regret strongly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 197,
+      "group_name": "beset, harass, hassle, molest",
+      "target_word": "beset",
+      "words": [
+        "beset",
+        "harass",
+        "hassle",
+        "molest"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beset 与近义词辨析",
+      "synset_definition": "annoy continually or chronically",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 198,
+      "group_name": "bicker, spar, quibble, squabble",
+      "target_word": "bicker",
+      "words": [
+        "bicker",
+        "spar",
+        "quibble",
+        "squabble"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bicker 与近义词辨析",
+      "synset_definition": "argue over petty things",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 199,
+      "group_name": "bitch, croak, repine, deplore",
+      "target_word": "bitch",
+      "words": [
+        "bitch",
+        "croak",
+        "repine",
+        "deplore"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bitch 与近义词辨析",
+      "synset_definition": "say mean things",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 200,
+      "group_name": "blanch, fry, poach, coddle",
+      "target_word": "blanch",
+      "words": [
+        "blanch",
+        "fry",
+        "poach",
+        "coddle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blanch 与近义词辨析",
+      "synset_definition": "cook (vegetables) briefly",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

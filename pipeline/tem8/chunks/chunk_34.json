@@ -1,0 +1,188 @@
+{
+  "batch_id": 34,
+  "chunk_name": "chunk_34",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 341,
+      "group_name": "seedy, sleazy, sordid, squalid",
+      "target_word": "seedy",
+      "words": [
+        "seedy",
+        "sleazy",
+        "sordid",
+        "squalid"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "seedy 与近义词辨析",
+      "synset_definition": "morally degraded; ; ; ; - Seattle Weekly; - James Joyce",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 342,
+      "group_name": "adamant, inexorable, inflexible, intransigent",
+      "target_word": "adamant",
+      "words": [
+        "adamant",
+        "inexorable",
+        "inflexible",
+        "intransigent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adamant 与近义词辨析",
+      "synset_definition": "impervious to pleas, persuasion, requests, reason; ; - W.Churchill",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 343,
+      "group_name": "ardent, torrid, fervent, impassioned",
+      "target_word": "ardent",
+      "words": [
+        "ardent",
+        "torrid",
+        "fervent",
+        "impassioned"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ardent 与近义词辨析",
+      "synset_definition": "characterized by intense emotion",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 344,
+      "group_name": "assorted, motley, sundry, miscellaneous",
+      "target_word": "assorted",
+      "words": [
+        "assorted",
+        "motley",
+        "sundry",
+        "miscellaneous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "assorted 与近义词辨析",
+      "synset_definition": "consisting of a haphazard assortment of different kinds; ; ; ; ; ; - I.A.Richards",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 345,
+      "group_name": "balmy, daft, buggy, haywire",
+      "target_word": "balmy",
+      "words": [
+        "balmy",
+        "daft",
+        "buggy",
+        "haywire"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "balmy 与近义词辨析",
+      "synset_definition": "informal or slang terms for mentally irregular",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 346,
+      "group_name": "combustible, flammable, incendiary, inflammable",
+      "target_word": "combustible",
+      "words": [
+        "combustible",
+        "flammable",
+        "incendiary",
+        "inflammable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "combustible 与近义词辨析",
+      "synset_definition": "capable of igniting and burning",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 347,
+      "group_name": "foul, wicked, repellent, offensive",
+      "target_word": "foul",
+      "words": [
+        "foul",
+        "wicked",
+        "repellent",
+        "offensive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "foul 与近义词辨析",
+      "synset_definition": "highly offensive; arousing aversion or disgust",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 348,
+      "group_name": "obscene, repugnant, repulsive, offensive",
+      "target_word": "obscene",
+      "words": [
+        "obscene",
+        "repugnant",
+        "repulsive",
+        "offensive"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "obscene 与近义词辨析",
+      "synset_definition": "offensive to the mind",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 349,
+      "group_name": "prudent, heady, discreet, provident",
+      "target_word": "prudent",
+      "words": [
+        "prudent",
+        "heady",
+        "discreet",
+        "provident"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "prudent 与近义词辨析",
+      "synset_definition": "careful and sensible; marked by sound judgment",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 350,
+      "group_name": "scholarly, erudite, pedantic, studious",
+      "target_word": "scholarly",
+      "words": [
+        "scholarly",
+        "erudite",
+        "pedantic",
+        "studious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "scholarly 与近义词辨析",
+      "synset_definition": "characteristic of scholars or scholarship",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

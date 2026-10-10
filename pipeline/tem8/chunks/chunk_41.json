@@ -1,0 +1,188 @@
+{
+  "batch_id": 41,
+  "chunk_name": "chunk_41",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 411,
+      "group_name": "grievous, weighty, grave, heavy",
+      "target_word": "grievous",
+      "words": [
+        "grievous",
+        "weighty",
+        "grave",
+        "heavy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "grievous 与近义词辨析",
+      "synset_definition": "of great gravity or crucial import; requiring serious thought",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 412,
+      "group_name": "hardheaded, pragmatic, practical, realistic",
+      "target_word": "hardheaded",
+      "words": [
+        "hardheaded",
+        "pragmatic",
+        "practical",
+        "realistic"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hardheaded 与近义词辨析",
+      "synset_definition": "guided by practical experience and observation rather than theory",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 413,
+      "group_name": "implicit, tacit, silent, inherent",
+      "target_word": "implicit",
+      "words": [
+        "implicit",
+        "tacit",
+        "silent",
+        "inherent"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "implicit 与近义词辨析",
+      "synset_definition": "implied though not directly expressed; inherent in the nature of something",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 414,
+      "group_name": "incisive, perceptive, keen, acute",
+      "target_word": "incisive",
+      "words": [
+        "incisive",
+        "perceptive",
+        "keen",
+        "acute"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "incisive 与近义词辨析",
+      "synset_definition": "having or demonstrating ability to recognize or draw fine distinctions",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 415,
+      "group_name": "intrinsic, inbuilt, inner, internal",
+      "target_word": "intrinsic",
+      "words": [
+        "intrinsic",
+        "inbuilt",
+        "inner",
+        "internal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "intrinsic 与近义词辨析",
+      "synset_definition": "belonging to a thing by its very nature; - John Dewey",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 416,
+      "group_name": "jubilant, elated, joyful, joyous",
+      "target_word": "jubilant",
+      "words": [
+        "jubilant",
+        "elated",
+        "joyful",
+        "joyous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "jubilant 与近义词辨析",
+      "synset_definition": "full of high-spirited delight",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 417,
+      "group_name": "majestic, regal, royal, noble",
+      "target_word": "majestic",
+      "words": [
+        "majestic",
+        "regal",
+        "royal",
+        "noble"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "majestic 与近义词辨析",
+      "synset_definition": "belonging to or befitting a supreme ruler",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 418,
+      "group_name": "neurotic, maladjusted, hysteric, hysterical",
+      "target_word": "neurotic",
+      "words": [
+        "neurotic",
+        "maladjusted",
+        "hysteric",
+        "hysterical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "neurotic 与近义词辨析",
+      "synset_definition": "affected with emotional disorder",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 419,
+      "group_name": "operative, operational, good, effective",
+      "target_word": "operative",
+      "words": [
+        "operative",
+        "operational",
+        "good",
+        "effective"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "operative 与近义词辨析",
+      "synset_definition": "being in force or having or exerting force",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 420,
+      "group_name": "painstaking, scrupulous, careful, conscientious",
+      "target_word": "painstaking",
+      "words": [
+        "painstaking",
+        "scrupulous",
+        "careful",
+        "conscientious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "painstaking 与近义词辨析",
+      "synset_definition": "characterized by extreme care and great effort",
+      "t8_count": 2,
+      "cas_score": 84
+    }
+  ]
+}

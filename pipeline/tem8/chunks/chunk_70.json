@@ -1,0 +1,188 @@
+{
+  "batch_id": 70,
+  "chunk_name": "chunk_70",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 701,
+      "group_name": "adjoin, edge, butt, march",
+      "target_word": "adjoin",
+      "words": [
+        "adjoin",
+        "edge",
+        "butt",
+        "march"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "adjoin 与近义词辨析",
+      "synset_definition": "lie adjacent to another or share a boundary",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 702,
+      "group_name": "adjourn, lapse, culminate, go",
+      "target_word": "adjourn",
+      "words": [
+        "adjourn",
+        "lapse",
+        "culminate",
+        "go"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adjourn 与近义词辨析",
+      "synset_definition": "close at the end of a session",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 703,
+      "group_name": "adjudicate, try, take, rule",
+      "target_word": "adjudicate",
+      "words": [
+        "adjudicate",
+        "try",
+        "take",
+        "rule"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adjudicate 与近义词辨析",
+      "synset_definition": "put on trial or hear a case and sit as the judge at the trial of",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 704,
+      "group_name": "admonish, forewarn, alarm, alert",
+      "target_word": "admonish",
+      "words": [
+        "admonish",
+        "forewarn",
+        "alarm",
+        "alert"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "admonish 与近义词辨析",
+      "synset_definition": "warn strongly; put on guard",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 705,
+      "group_name": "adulterate, debase, load, dilute",
+      "target_word": "adulterate",
+      "words": [
+        "adulterate",
+        "debase",
+        "load",
+        "dilute"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adulterate 与近义词辨析",
+      "synset_definition": "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 706,
+      "group_name": "affiliate, conspire, interpose, meet",
+      "target_word": "affiliate",
+      "words": [
+        "affiliate",
+        "conspire",
+        "interpose",
+        "meet"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affiliate 与近义词辨析",
+      "synset_definition": "keep company with; hang out with",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 707,
+      "group_name": "affront, abase, sting, insult",
+      "target_word": "affront",
+      "words": [
+        "affront",
+        "abase",
+        "sting",
+        "insult"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affront 与近义词辨析",
+      "synset_definition": "treat, mention, or speak to rudely",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 708,
+      "group_name": "aggregate, intermingle, blend, combine",
+      "target_word": "aggregate",
+      "words": [
+        "aggregate",
+        "intermingle",
+        "blend",
+        "combine"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "aggregate 与近义词辨析",
+      "synset_definition": "gather in a mass, sum, or whole",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 709,
+      "group_name": "alight, port, light, perch",
+      "target_word": "alight",
+      "words": [
+        "alight",
+        "port",
+        "light",
+        "perch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "alight 与近义词辨析",
+      "synset_definition": "to come to rest, settle",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 710,
+      "group_name": "align, corroborate, twin, suit",
+      "target_word": "align",
+      "words": [
+        "align",
+        "corroborate",
+        "twin",
+        "suit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "align 与近义词辨析",
+      "synset_definition": "be or come into adjustment with",
+      "t8_count": 2,
+      "cas_score": 84
+    }
+  ]
+}

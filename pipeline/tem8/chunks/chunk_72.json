@@ -1,0 +1,188 @@
+{
+  "batch_id": 72,
+  "chunk_name": "chunk_72",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 721,
+      "group_name": "ascertain, see, check, insure",
+      "target_word": "ascertain",
+      "words": [
+        "ascertain",
+        "see",
+        "check",
+        "insure"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ascertain 与近义词辨析",
+      "synset_definition": "be careful or certain to do something; make certain of something",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 722,
+      "group_name": "ascribe, attribute, rate, rank",
+      "target_word": "ascribe",
+      "words": [
+        "ascribe",
+        "attribute",
+        "rate",
+        "rank"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ascribe 与近义词辨析",
+      "synset_definition": "attribute or credit to",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 723,
+      "group_name": "assail, fence, war, tug",
+      "target_word": "assail",
+      "words": [
+        "assail",
+        "fence",
+        "war",
+        "tug"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assail 与近义词辨析",
+      "synset_definition": "launch an attack or assault on; begin hostilities or start warfare with",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 724,
+      "group_name": "asterisk, flag, delineate, ink",
+      "target_word": "asterisk",
+      "words": [
+        "asterisk",
+        "flag",
+        "delineate",
+        "ink"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "asterisk 与近义词辨析",
+      "synset_definition": "mark with an asterisk",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 725,
+      "group_name": "audition, rap, act, play",
+      "target_word": "audition",
+      "words": [
+        "audition",
+        "rap",
+        "act",
+        "play"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "audition 与近义词辨析",
+      "synset_definition": "perform in order to get a role",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 726,
+      "group_name": "autograph, endorse, ink, execute",
+      "target_word": "autograph",
+      "words": [
+        "autograph",
+        "endorse",
+        "ink",
+        "execute"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "autograph 与近义词辨析",
+      "synset_definition": "mark with one's signature",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 727,
+      "group_name": "autopsy, rake, look, scan",
+      "target_word": "autopsy",
+      "words": [
+        "autopsy",
+        "rake",
+        "look",
+        "scan"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "autopsy 与近义词辨析",
+      "synset_definition": "perform an autopsy on a dead body; do a post-mortem",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 728,
+      "group_name": "avail, recur, put, play",
+      "target_word": "avail",
+      "words": [
+        "avail",
+        "recur",
+        "put",
+        "play"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "avail 与近义词辨析",
+      "synset_definition": "use to one's advantage",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 729,
+      "group_name": "avert, stop, halt, save",
+      "target_word": "avert",
+      "words": [
+        "avert",
+        "stop",
+        "halt",
+        "save"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "avert 与近义词辨析",
+      "synset_definition": "prevent the occurrence of; prevent from happening",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 730,
+      "group_name": "backhand, foul, racket, undercut",
+      "target_word": "backhand",
+      "words": [
+        "backhand",
+        "foul",
+        "racket",
+        "undercut"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "backhand 与近义词辨析",
+      "synset_definition": "hit a tennis ball backhand",
+      "t8_count": 4,
+      "cas_score": 96
+    }
+  ]
+}

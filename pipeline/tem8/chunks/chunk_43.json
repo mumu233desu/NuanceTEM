@@ -1,0 +1,188 @@
+{
+  "batch_id": 43,
+  "chunk_name": "chunk_43",
+  "clusters_count": 10,
+  "questions_target": 20,
+  "clusters": [
+    {
+      "group_id": 431,
+      "group_name": "beastly, brutish, brute, brutal",
+      "target_word": "beastly",
+      "words": [
+        "beastly",
+        "brutish",
+        "brute",
+        "brutal"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beastly 与近义词辨析",
+      "synset_definition": "resembling a beast; showing lack of human sensibility",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 432,
+      "group_name": "bemused, preoccupied, lost, thoughtful",
+      "target_word": "bemused",
+      "words": [
+        "bemused",
+        "preoccupied",
+        "lost",
+        "thoughtful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bemused 与近义词辨析",
+      "synset_definition": "deeply absorbed in thought",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 433,
+      "group_name": "bogus, counterfeit, fake, bastard",
+      "target_word": "bogus",
+      "words": [
+        "bogus",
+        "counterfeit",
+        "fake",
+        "bastard"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bogus 与近义词辨析",
+      "synset_definition": "fraudulent; having a misleading appearance",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 434,
+      "group_name": "carnal, sensual, animal, physical",
+      "target_word": "carnal",
+      "words": [
+        "carnal",
+        "sensual",
+        "animal",
+        "physical"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "carnal 与近义词辨析",
+      "synset_definition": "marked by the appetites and passions of the body",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 435,
+      "group_name": "consummate, stark, pure, gross",
+      "target_word": "consummate",
+      "words": [
+        "consummate",
+        "stark",
+        "pure",
+        "gross"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "consummate 与近义词辨析",
+      "synset_definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 436,
+      "group_name": "cumbersome, inept, clumsy, awkward",
+      "target_word": "cumbersome",
+      "words": [
+        "cumbersome",
+        "inept",
+        "clumsy",
+        "awkward"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "cumbersome 与近义词辨析",
+      "synset_definition": "not elegant or graceful in expression",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 437,
+      "group_name": "curt, terse, crisp, concise",
+      "target_word": "curt",
+      "words": [
+        "curt",
+        "terse",
+        "crisp",
+        "concise"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "curt 与近义词辨析",
+      "synset_definition": "brief and to the point; effectively cut short",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 438,
+      "group_name": "delirious, frantic, mad, wild",
+      "target_word": "delirious",
+      "words": [
+        "delirious",
+        "frantic",
+        "mad",
+        "wild"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "delirious 与近义词辨析",
+      "synset_definition": "marked by uncontrolled excitement or emotion",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 439,
+      "group_name": "destitute, devoid, free, barren",
+      "target_word": "destitute",
+      "words": [
+        "destitute",
+        "devoid",
+        "free",
+        "barren"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "destitute 与近义词辨析",
+      "synset_definition": "completely wanting or lacking",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 440,
+      "group_name": "dingy, drab, blue, dark",
+      "target_word": "dingy",
+      "words": [
+        "dingy",
+        "drab",
+        "blue",
+        "dark"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dingy 与近义词辨析",
+      "synset_definition": "causing dejection",
+      "t8_count": 2,
+      "cas_score": 80
+    }
+  ]
+}
