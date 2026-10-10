@@ -101,12 +101,15 @@ class BatchGenerator:
         q_id_1 = f"tem8_b{batch_id:02d}_{idx_in_batch * 2 + 1:02d}"
         q_id_2 = f"tem8_b{batch_id:02d}_{idx_in_batch * 2 + 2:02d}"
 
-        # 提取 MW 真实学术例句
+        # 提取 MW 真实学术例句 (合并词典原生例句与外刊真实报道，保留 100% 完整长难句)
         target = cluster["target_word"]
         mw_entry = self.mw_cache.get(target, {})
-        mw_examples = mw_entry.get("examples", [])
+        dict_exs = mw_entry.get("dictionary_examples", [])
+        web_exs = mw_entry.get("web_examples", [])
+        mw_examples = list(dict.fromkeys(dict_exs + web_exs))
+        mw_defs = mw_entry.get("definitions", [])
 
-        user_prompt = build_generator_user_prompt(cluster, q_id_1, q_id_2, mw_examples)
+        user_prompt = build_generator_user_prompt(cluster, q_id_1, q_id_2, mw_examples, mw_defs)
         messages = [
             {"role": "system", "content": SYSTEM_PROMPT_GENERATOR},
             {"role": "user", "content": user_prompt}

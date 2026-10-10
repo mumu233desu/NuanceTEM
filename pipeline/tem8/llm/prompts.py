@@ -1,5 +1,5 @@
 import json
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional
 
 # 1. 命题专家 System Prompt
 SYSTEM_PROMPT_GENERATOR = """You are a Senior Chief Examiner for the National TEM-8 (Test for English Majors - Band 8) and an expert Corpus Linguist specializing in Advanced Academic English, Stylistic Register, and Lexical Semantics.
@@ -30,11 +30,13 @@ def build_generator_user_prompt(
     cluster: Dict[str, Any],
     q_id_1: str,
     q_id_2: str,
-    mw_examples: List[str]
+    mw_examples: List[str],
+    mw_defs: Optional[List[str]] = None
 ) -> str:
     words_str = ", ".join(cluster["words"])
-    mw_text = "\n".join([f"- {ex}" for ex in mw_examples[:4]]) if mw_examples else "None available (rely on standard dictionary definitions)."
-    
+    mw_ex_text = "\n".join([f"- {ex}" for ex in mw_examples[:5]]) if mw_examples else "None available (rely on standard dictionary definitions)."
+    mw_def_text = "\n".join([f"- {d}" for d in (mw_defs or [])[:3]]) if mw_defs else cluster.get('synset_definition', '')
+
     prompt = f"""Please generate exactly 2 distinct TEM-8 examination questions for the following synonym cluster:
 
 [CLUSTER METADATA]
@@ -44,10 +46,13 @@ def build_generator_user_prompt(
 - Functional Discourse Field: {cluster.get('field', 'FIELD_COGNITION')}
 - Primary Mechanism: {cluster.get('primary_mechanism', 'MECH_NUANCE')}
 - Theme: {cluster.get('theme_label', '')}
-- WordNet Definition: {cluster.get('synset_definition', '')}
 
-[AUTHENTIC MERRIAM-WEBSTER EXAMPLES & CITATIONS]
-{mw_text}
+[AUTHENTIC MERRIAM-WEBSTER DEFINITIONS & EXAMPLES]
+Official MW Definitions:
+{mw_def_text}
+
+Full Authentic Examples & Publications (Uncut):
+{mw_ex_text}
 
 [REQUIREMENTS FOR THE 2 QUESTIONS]
 - Question 1 (ID: "{q_id_1}"): Focus primarily on the primary mechanism ({cluster.get('primary_mechanism', 'MECH_COLLOCATION')}). Target answer: "{cluster['target_word']}".
