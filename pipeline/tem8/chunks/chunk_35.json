@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 351,
+      "group_name": "scholarly, erudite, pedantic, studious",
+      "target_word": "scholarly",
+      "words": [
+        "scholarly",
+        "erudite",
+        "pedantic",
+        "studious"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "scholarly 与近义词辨析",
+      "synset_definition": "characteristic of scholars or scholarship",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 352,
       "group_name": "temporal, mundane, mercenary, terrestrial",
       "target_word": "temporal",
       "words": [
@@ -23,7 +41,25 @@
       "cas_score": 96
     },
     {
-      "group_id": 352,
+      "group_id": 353,
+      "group_name": "unsettled, vagrant, migrant, vagabond",
+      "target_word": "unsettled",
+      "words": [
+        "unsettled",
+        "vagrant",
+        "migrant",
+        "vagabond"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "unsettled 与近义词辨析",
+      "synset_definition": "not settled or established",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 354,
       "group_name": "aberrant, deviant, deviate, abnormal",
       "target_word": "aberrant",
       "words": [
@@ -41,7 +77,25 @@
       "cas_score": 92
     },
     {
-      "group_id": 353,
+      "group_id": 355,
+      "group_name": "additive, cumulative, complementary, extra",
+      "target_word": "additive",
+      "words": [
+        "additive",
+        "cumulative",
+        "complementary",
+        "extra"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "additive 与近义词辨析",
+      "synset_definition": "characterized or produced by addition",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 356,
       "group_name": "ailing, seedy, indisposed, ill",
       "target_word": "ailing",
       "words": [
@@ -59,7 +113,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 354,
+      "group_id": 357,
       "group_name": "artful, cute, elusive, precious",
       "target_word": "artful",
       "words": [
@@ -77,7 +131,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 355,
+      "group_id": 358,
       "group_name": "baleful, ominous, forbidding, sinister",
       "target_word": "baleful",
       "words": [
@@ -95,7 +149,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 356,
+      "group_id": 359,
       "group_name": "banal, hackneyed, threadbare, stock",
       "target_word": "banal",
       "words": [
@@ -113,7 +167,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 357,
+      "group_id": 360,
       "group_name": "candid, outspoken, forthright, blunt",
       "target_word": "candid",
       "words": [
@@ -127,60 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "candid 与近义词辨析",
       "synset_definition": "characterized by directness in manner or speech; without subtlety or evasion",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 358,
-      "group_name": "clandestine, covert, surreptitious, secret",
-      "target_word": "clandestine",
-      "words": [
-        "clandestine",
-        "covert",
-        "surreptitious",
-        "secret"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "clandestine 与近义词辨析",
-      "synset_definition": "conducted with or marked by hidden aims or methods",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 359,
-      "group_name": "corpulent, obese, weighty, fat",
-      "target_word": "corpulent",
-      "words": [
-        "corpulent",
-        "obese",
-        "weighty",
-        "fat"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "corpulent 与近义词辨析",
-      "synset_definition": "excessively fat",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 360,
-      "group_name": "degenerate, dissolute, dissipated, fast",
-      "target_word": "degenerate",
-      "words": [
-        "degenerate",
-        "dissolute",
-        "dissipated",
-        "fast"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "degenerate 与近义词辨析",
-      "synset_definition": "unrestrained by convention or morality",
       "t8_count": 3,
       "cas_score": 92
     }

@@ -162,16 +162,20 @@ def build_top_750_clusters():
         # Verify 100% syllabus compliance
         if not all(w in syllabus_all for w in seed["words"]):
             continue
+        t8_in_seed = [w for w in seed["words"] if w in tem8_words]
+        if not t8_in_seed:
+            continue  # 必须至少包含一个专八标星词
+        target = t8_in_seed[0]  # 目标词严格保证属于专八标星词
         if key not in used_groups:
             used_groups.add(key)
-            target = seed["words"][0]
             used_targets.add(target)
-            t8_c = sum(1 for w in seed["words"] if w in tem8_words)
+            t8_c = len(t8_in_seed)
+            reordered_words = [target] + [w for w in seed["words"] if w != target]
             final_clusters.append({
                 "group_id": len(final_clusters) + 1,
-                "group_name": ", ".join(seed["words"]),
+                "group_name": ", ".join(reordered_words),
                 "target_word": target,
-                "words": seed["words"],
+                "words": reordered_words,
                 "pos": seed["pos"],
                 "field": seed["field"],
                 "primary_mechanism": seed["mech"],

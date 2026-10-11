@@ -6,183 +6,183 @@
   "clusters": [
     {
       "group_id": 661,
-      "group_name": "imbecile, dope, booby, retard",
-      "target_word": "imbecile",
+      "group_name": "sanctuary, loft, hovel, hutch",
+      "target_word": "sanctuary",
       "words": [
-        "imbecile",
-        "dope",
-        "booby",
-        "retard"
+        "sanctuary",
+        "loft",
+        "hovel",
+        "hutch"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "imbecile 与近义词辨析",
-      "synset_definition": "a person of subnormal intelligence",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sanctuary 与近义词辨析",
+      "synset_definition": "a shelter from danger or hardship",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 662,
-      "group_name": "imbecility, blunder, oversight, incursion",
-      "target_word": "imbecility",
+      "group_name": "sap, dope, booby, scatterbrain",
+      "target_word": "sap",
       "words": [
-        "imbecility",
-        "blunder",
-        "oversight",
-        "incursion"
+        "sap",
+        "dope",
+        "booby",
+        "scatterbrain"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "imbecility 与近义词辨析",
-      "synset_definition": "a stupid mistake",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sap 与近义词辨析",
+      "synset_definition": "a person who lacks good judgment",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 663,
-      "group_name": "lament, ballad, requiem, serenade",
-      "target_word": "lament",
+      "group_name": "sensor, prod, foil, buffer",
+      "target_word": "sensor",
       "words": [
-        "lament",
-        "ballad",
-        "requiem",
-        "serenade"
+        "sensor",
+        "prod",
+        "foil",
+        "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "lament 与近义词辨析",
-      "synset_definition": "a song or hymn of mourning composed or performed as a memorial to a dead person",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sensor 与近义词辨析",
+      "synset_definition": "any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 664,
-      "group_name": "loft, hovel, hutch, shack",
-      "target_word": "loft",
+      "group_name": "shimmer, decease, transmutation, scintillation",
+      "target_word": "shimmer",
       "words": [
-        "loft",
-        "hovel",
-        "hutch",
-        "shack"
+        "shimmer",
+        "decease",
+        "transmutation",
+        "scintillation"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "loft 与近义词辨析",
-      "synset_definition": "a raised shelter in which pigeons are kept",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shimmer 与近义词辨析",
+      "synset_definition": "a weak and tremulous light",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 665,
-      "group_name": "mar, visage, blemish, countenance",
-      "target_word": "mar",
+      "group_name": "spate, gush, flux, upsurge",
+      "target_word": "spate",
       "words": [
-        "mar",
-        "visage",
-        "blemish",
-        "countenance"
+        "spate",
+        "gush",
+        "flux",
+        "upsurge"
       ],
       "pos": "n",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "mar 与近义词辨析",
-      "synset_definition": "a mark or flaw that spoils the appearance of something (especially on a person's body)",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "spate 与近义词辨析",
+      "synset_definition": "a sudden forceful flow",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 666,
-      "group_name": "novelty, frill, ruffle, trinket",
-      "target_word": "novelty",
+      "group_name": "stirrup, pier, brace, foothold",
+      "target_word": "stirrup",
       "words": [
-        "novelty",
-        "frill",
-        "ruffle",
-        "trinket"
+        "stirrup",
+        "pier",
+        "brace",
+        "foothold"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "novelty 与近义词辨析",
-      "synset_definition": "cheap showy jewelry or ornament on clothing",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "stirrup 与近义词辨析",
+      "synset_definition": "support consisting of metal loops into which rider's feet go",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 667,
-      "group_name": "parson, rector, deacon, divine",
-      "target_word": "parson",
+      "group_name": "stub, forte, turnout, pressing",
+      "target_word": "stub",
       "words": [
-        "parson",
-        "rector",
-        "deacon",
-        "divine"
+        "stub",
+        "forte",
+        "turnout",
+        "pressing"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "parson 与近义词辨析",
-      "synset_definition": "a person authorized to conduct religious worship",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "stub 与近义词辨析",
+      "synset_definition": "the small unused part of something (especially the end of a cigarette that is left after smoking)",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 668,
-      "group_name": "pitfall, balk, deterrent, impediment",
-      "target_word": "pitfall",
+      "group_name": "substantive, hybrid, catchword, quantifier",
+      "target_word": "substantive",
       "words": [
-        "pitfall",
-        "balk",
-        "deterrent",
-        "impediment"
+        "substantive",
+        "hybrid",
+        "catchword",
+        "quantifier"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "pitfall 与近义词辨析",
-      "synset_definition": "an unforeseen or unexpected or surprising difficulty",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "substantive 与近义词辨析",
+      "synset_definition": "any word or group of words functioning as a noun",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 669,
-      "group_name": "plaid, mesh, tartan, polyester",
-      "target_word": "plaid",
+      "group_name": "tongs, prod, foil, buffer",
+      "target_word": "tongs",
       "words": [
-        "plaid",
-        "mesh",
-        "tartan",
-        "polyester"
+        "tongs",
+        "prod",
+        "foil",
+        "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "plaid 与近义词辨析",
-      "synset_definition": "a cloth having a crisscross design",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "tongs 与近义词辨析",
+      "synset_definition": "any of various devices for taking hold of objects; usually have two hinged legs with handles above and pointed hooks below",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 670,
-      "group_name": "pressing, jog, boost, shove",
-      "target_word": "pressing",
+      "group_name": "trance, hypnosis, vexation, agitation",
+      "target_word": "trance",
       "words": [
-        "pressing",
-        "jog",
-        "boost",
-        "shove"
+        "trance",
+        "hypnosis",
+        "vexation",
+        "agitation"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "pressing 与近义词辨析",
-      "synset_definition": "the act of pressing; the exertion of pressure",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "trance 与近义词辨析",
+      "synset_definition": "a psychological state induced by (or as if induced by) a magical incantation",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     }
   ]
 }

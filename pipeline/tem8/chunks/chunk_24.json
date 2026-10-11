@@ -6,114 +6,6 @@
   "clusters": [
     {
       "group_id": 241,
-      "group_name": "honk, rap, thud, drone",
-      "target_word": "honk",
-      "words": [
-        "honk",
-        "rap",
-        "thud",
-        "drone"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "honk 与近义词辨析",
-      "synset_definition": "make a loud noise",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 242,
-      "group_name": "hoodwink, bunk, juggle, beguile",
-      "target_word": "hoodwink",
-      "words": [
-        "hoodwink",
-        "bunk",
-        "juggle",
-        "beguile"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "hoodwink 与近义词辨析",
-      "synset_definition": "influence by slyness",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 243,
-      "group_name": "immerse, fence, fortify, enshrine",
-      "target_word": "immerse",
-      "words": [
-        "immerse",
-        "fence",
-        "fortify",
-        "enshrine"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "immerse 与近义词辨析",
-      "synset_definition": "enclose or envelop completely, as if by swallowing",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 244,
-      "group_name": "impoverish, devolve, regress, inflame",
-      "target_word": "impoverish",
-      "words": [
-        "impoverish",
-        "devolve",
-        "regress",
-        "inflame"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "impoverish 与近义词辨析",
-      "synset_definition": "take away",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 245,
-      "group_name": "infringe, lapse, forge, impinge",
-      "target_word": "infringe",
-      "words": [
-        "infringe",
-        "lapse",
-        "forge",
-        "impinge"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "infringe 与近义词辨析",
-      "synset_definition": "advance beyond the usual limit",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 246,
-      "group_name": "invalidate, void, lighten, exacerbate",
-      "target_word": "invalidate",
-      "words": [
-        "invalidate",
-        "void",
-        "lighten",
-        "exacerbate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "invalidate 与近义词辨析",
-      "synset_definition": "take away the legal force of or render ineffective",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 247,
       "group_name": "itch, lust, crave, hanker",
       "target_word": "itch",
       "words": [
@@ -131,14 +23,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 248,
-      "group_name": "jingle, honk, creak, crunch",
+      "group_id": 242,
+      "group_name": "jingle, honk, creak, racket",
       "target_word": "jingle",
       "words": [
         "jingle",
         "honk",
         "creak",
-        "crunch"
+        "racket"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -149,7 +41,25 @@
       "cas_score": 96
     },
     {
-      "group_id": 249,
+      "group_id": 243,
+      "group_name": "loot, pinch, swipe, rustle",
+      "target_word": "loot",
+      "words": [
+        "loot",
+        "pinch",
+        "swipe",
+        "rustle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "loot 与近义词辨析",
+      "synset_definition": "take illegally; of intellectual property",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 244,
       "group_name": "lull, pacify, appease, mollify",
       "target_word": "lull",
       "words": [
@@ -167,20 +77,110 @@
       "cas_score": 96
     },
     {
-      "group_id": 250,
-      "group_name": "lurch, swoop, fidget, flurry",
+      "group_id": 245,
+      "group_name": "lurch, waver, quiver, writhe",
       "target_word": "lurch",
       "words": [
         "lurch",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "lurch 与近义词辨析",
       "synset_definition": "move abruptly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 246,
+      "group_name": "mince, wade, slink, slouch",
+      "target_word": "mince",
+      "words": [
+        "mince",
+        "wade",
+        "slink",
+        "slouch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mince 与近义词辨析",
+      "synset_definition": "walk daintily",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 247,
+      "group_name": "mope, waver, quiver, writhe",
+      "target_word": "mope",
+      "words": [
+        "mope",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mope 与近义词辨析",
+      "synset_definition": "move around slowly and aimlessly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 248,
+      "group_name": "mumble, blurt, whiff, snivel",
+      "target_word": "mumble",
+      "words": [
+        "mumble",
+        "blurt",
+        "whiff",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "mumble 与近义词辨析",
+      "synset_definition": "talk indistinctly; usually in a low voice",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 249,
+      "group_name": "nip, lop, pare, indent",
+      "target_word": "nip",
+      "words": [
+        "nip",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "nip 与近义词辨析",
+      "synset_definition": "sever or remove by pinching or snipping",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 250,
+      "group_name": "nudge, prod, shove, jostle",
+      "target_word": "nudge",
+      "words": [
+        "nudge",
+        "prod",
+        "shove",
+        "jostle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "nudge 与近义词辨析",
+      "synset_definition": "to push against gently",
       "t8_count": 4,
       "cas_score": 96
     }

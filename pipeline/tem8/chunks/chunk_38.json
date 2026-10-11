@@ -6,6 +6,60 @@
   "clusters": [
     {
       "group_id": 381,
+      "group_name": "crooked, lopsided, voluminous, tortuous",
+      "target_word": "crooked",
+      "words": [
+        "crooked",
+        "lopsided",
+        "voluminous",
+        "tortuous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "crooked 与近义词辨析",
+      "synset_definition": "having or marked by bends or angles; not straight or aligned",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 382,
+      "group_name": "dainty, squeamish, fastidious, nice",
+      "target_word": "dainty",
+      "words": [
+        "dainty",
+        "squeamish",
+        "fastidious",
+        "nice"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dainty 与近义词辨析",
+      "synset_definition": "excessively fastidious and easily disgusted",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 383,
+      "group_name": "dire, horrific, horrendous, awful",
+      "target_word": "dire",
+      "words": [
+        "dire",
+        "horrific",
+        "horrendous",
+        "awful"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dire 与近义词辨析",
+      "synset_definition": "causing fear or dread or terror",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 384,
       "group_name": "docile, meek, sheepish, tame",
       "target_word": "docile",
       "words": [
@@ -23,25 +77,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 382,
-      "group_name": "domineering, tyrannical, authoritarian, oppressive",
-      "target_word": "domineering",
-      "words": [
-        "domineering",
-        "tyrannical",
-        "authoritarian",
-        "oppressive"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "domineering 与近义词辨析",
-      "synset_definition": "tending to domineer",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 383,
+      "group_id": 385,
       "group_name": "ephemeral, transient, transitory, temporary",
       "target_word": "ephemeral",
       "words": [
@@ -59,7 +95,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 384,
+      "group_id": 386,
       "group_name": "esoteric, mystic, cryptic, deep",
       "target_word": "esoteric",
       "words": [
@@ -77,7 +113,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 385,
+      "group_id": 387,
       "group_name": "exuberant, lush, luxuriant, abundant",
       "target_word": "exuberant",
       "words": [
@@ -95,7 +131,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 386,
+      "group_id": 388,
       "group_name": "fetid, foul, funky, smelly",
       "target_word": "fetid",
       "words": [
@@ -113,7 +149,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 387,
+      "group_id": 389,
       "group_name": "fictitious, sham, counterfeit, false",
       "target_word": "fictitious",
       "words": [
@@ -131,7 +167,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 388,
+      "group_id": 390,
       "group_name": "fleeting, fugitive, momentary, short",
       "target_word": "fleeting",
       "words": [
@@ -145,42 +181,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "fleeting 与近义词辨析",
       "synset_definition": "lasting for a markedly brief time",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 389,
-      "group_name": "ghastly, grisly, gruesome, grim",
-      "target_word": "ghastly",
-      "words": [
-        "ghastly",
-        "grisly",
-        "gruesome",
-        "grim"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "ghastly 与近义词辨析",
-      "synset_definition": "shockingly repellent; inspiring horror",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 390,
-      "group_name": "inexplicable, cryptic, paradoxical, deep",
-      "target_word": "inexplicable",
-      "words": [
-        "inexplicable",
-        "cryptic",
-        "paradoxical",
-        "deep"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "inexplicable 与近义词辨析",
-      "synset_definition": "incapable of being explained or accounted for",
       "t8_count": 3,
       "cas_score": 88
     }

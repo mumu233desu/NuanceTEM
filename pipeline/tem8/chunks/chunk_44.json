@@ -6,24 +6,6 @@
   "clusters": [
     {
       "group_id": 441,
-      "group_name": "drab, sombre, sober, colourless",
-      "target_word": "drab",
-      "words": [
-        "drab",
-        "sombre",
-        "sober",
-        "colourless"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "drab 与近义词辨析",
-      "synset_definition": "lacking brightness or color; dull",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 442,
       "group_name": "execrable, woeful, wretched, inferior",
       "target_word": "execrable",
       "words": [
@@ -41,7 +23,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 443,
+      "group_id": 442,
       "group_name": "fallacious, fraudulent, deceitful, dishonest",
       "target_word": "fallacious",
       "words": [
@@ -59,7 +41,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 444,
+      "group_id": 443,
       "group_name": "fecund, prolific, fertile, productive",
       "target_word": "fecund",
       "words": [
@@ -77,7 +59,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 445,
+      "group_id": 444,
       "group_name": "finicky, fastidious, fussy, particular",
       "target_word": "finicky",
       "words": [
@@ -95,7 +77,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 446,
+      "group_id": 445,
       "group_name": "flimsy, tenuous, thin, slight",
       "target_word": "flimsy",
       "words": [
@@ -113,7 +95,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 447,
+      "group_id": 446,
       "group_name": "frigid, glacial, icy, cold",
       "target_word": "frigid",
       "words": [
@@ -131,7 +113,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 448,
+      "group_id": 447,
       "group_name": "furtive, surreptitious, sneak, stealthy",
       "target_word": "furtive",
       "words": [
@@ -149,7 +131,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 449,
+      "group_id": 448,
       "group_name": "giddy, frivolous, dizzy, silly",
       "target_word": "giddy",
       "words": [
@@ -167,7 +149,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 450,
+      "group_id": 449,
       "group_name": "hefty, sizeable, tidy, healthy",
       "target_word": "hefty",
       "words": [
@@ -181,6 +163,24 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "hefty 与近义词辨析",
       "synset_definition": "large in amount or extent or degree",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 450,
+      "group_name": "impotent, ineffectual, unable, ineffective",
+      "target_word": "impotent",
+      "words": [
+        "impotent",
+        "ineffectual",
+        "unable",
+        "ineffective"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impotent 与近义词辨析",
+      "synset_definition": "lacking power or ability; - Freeman J.Dyson",
       "t8_count": 2,
       "cas_score": 80
     }

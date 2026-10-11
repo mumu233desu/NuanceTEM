@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 521,
+      "group_name": "viable, feasible, possible, practicable",
+      "target_word": "viable",
+      "words": [
+        "viable",
+        "feasible",
+        "possible",
+        "practicable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "viable 与近义词辨析",
+      "synset_definition": "capable of being done with means at hand and circumstances as they are",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 522,
       "group_name": "wizard, magic, magical, charming",
       "target_word": "wizard",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 522,
+      "group_id": 523,
       "group_name": "adept, good, expert, proficient",
       "target_word": "adept",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 523,
+      "group_id": 524,
       "group_name": "adjunct, accessory, auxiliary, supportive",
       "target_word": "adjunct",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 524,
+      "group_id": 525,
       "group_name": "auspicious, rosy, bright, hopeful",
       "target_word": "auspicious",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 525,
+      "group_id": 526,
       "group_name": "bountiful, big, liberal, handsome",
       "target_word": "bountiful",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 526,
+      "group_id": 527,
       "group_name": "chic, smart, stylish, fashionable",
       "target_word": "chic",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 527,
+      "group_id": 528,
       "group_name": "constituent, organic, essential, constitutional",
       "target_word": "constituent",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 528,
+      "group_id": 529,
       "group_name": "definitive, classic, standard, classical",
       "target_word": "definitive",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 529,
+      "group_id": 530,
       "group_name": "devout, dear, earnest, sincere",
       "target_word": "devout",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "devout 与近义词辨析",
       "synset_definition": "earnest",
-      "t8_count": 1,
-      "cas_score": 74
-    },
-    {
-      "group_id": 530,
-      "group_name": "downright, rank, sheer, absolute",
-      "target_word": "downright",
-      "words": [
-        "downright",
-        "rank",
-        "sheer",
-        "absolute"
-      ],
-      "pos": "adj",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "downright 与近义词辨析",
-      "synset_definition": "complete and without restriction or qualification; sometimes used informally as intensifiers",
       "t8_count": 1,
       "cas_score": 74
     }

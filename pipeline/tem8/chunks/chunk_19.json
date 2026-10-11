@@ -6,132 +6,6 @@
   "clusters": [
     {
       "group_id": 191,
-      "group_name": "balk, subvert, sabotage, counteract",
-      "target_word": "balk",
-      "words": [
-        "balk",
-        "subvert",
-        "sabotage",
-        "counteract"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "balk 与近义词辨析",
-      "synset_definition": "refuse to comply",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 192,
-      "group_name": "bay, blurt, whiff, snarl",
-      "target_word": "bay",
-      "words": [
-        "bay",
-        "blurt",
-        "whiff",
-        "snarl"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bay 与近义词辨析",
-      "synset_definition": "utter in deep prolonged tones",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 193,
-      "group_name": "beautify, emend, enhance, embellish",
-      "target_word": "beautify",
-      "words": [
-        "beautify",
-        "emend",
-        "enhance",
-        "embellish"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "beautify 与近义词辨析",
-      "synset_definition": "make more beautiful",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 194,
-      "group_name": "beckon, trance, beguile, bewitch",
-      "target_word": "beckon",
-      "words": [
-        "beckon",
-        "trance",
-        "beguile",
-        "bewitch"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "beckon 与近义词辨析",
-      "synset_definition": "appear inviting",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 195,
-      "group_name": "begrudge, lust, crave, hanker",
-      "target_word": "begrudge",
-      "words": [
-        "begrudge",
-        "lust",
-        "crave",
-        "hanker"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "begrudge 与近义词辨析",
-      "synset_definition": "be envious of; set one's heart on",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 196,
-      "group_name": "bemoan, bitch, lament, repine",
-      "target_word": "bemoan",
-      "words": [
-        "bemoan",
-        "bitch",
-        "lament",
-        "repine"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bemoan 与近义词辨析",
-      "synset_definition": "regret strongly",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 197,
-      "group_name": "beset, harass, hassle, molest",
-      "target_word": "beset",
-      "words": [
-        "beset",
-        "harass",
-        "hassle",
-        "molest"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "beset 与近义词辨析",
-      "synset_definition": "annoy continually or chronically",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 198,
       "group_name": "bicker, spar, quibble, squabble",
       "target_word": "bicker",
       "words": [
@@ -149,25 +23,25 @@
       "cas_score": 96
     },
     {
-      "group_id": 199,
-      "group_name": "bitch, croak, repine, deplore",
-      "target_word": "bitch",
+      "group_id": 192,
+      "group_name": "bisect, lop, pare, indent",
+      "target_word": "bisect",
       "words": [
-        "bitch",
-        "croak",
-        "repine",
-        "deplore"
+        "bisect",
+        "lop",
+        "pare",
+        "indent"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bitch 与近义词辨析",
-      "synset_definition": "say mean things",
+      "theme_label": "bisect 与近义词辨析",
+      "synset_definition": "cut in half or cut in two",
       "t8_count": 4,
       "cas_score": 96
     },
     {
-      "group_id": 200,
+      "group_id": 193,
       "group_name": "blanch, fry, poach, coddle",
       "target_word": "blanch",
       "words": [
@@ -181,6 +55,132 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "blanch 与近义词辨析",
       "synset_definition": "cook (vegetables) briefly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 194,
+      "group_name": "bleep, rap, thud, drone",
+      "target_word": "bleep",
+      "words": [
+        "bleep",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bleep 与近义词辨析",
+      "synset_definition": "emit a single short high-pitched signal",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 195,
+      "group_name": "blemish, sully, taint, deface",
+      "target_word": "blemish",
+      "words": [
+        "blemish",
+        "sully",
+        "taint",
+        "deface"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blemish 与近义词辨析",
+      "synset_definition": "mar or spoil the appearance of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 196,
+      "group_name": "blunder, fumble, traverse, trespass",
+      "target_word": "blunder",
+      "words": [
+        "blunder",
+        "fumble",
+        "traverse",
+        "trespass"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blunder 与近义词辨析",
+      "synset_definition": "make one's way clumsily or blindly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 197,
+      "group_name": "blur, gauge, scrub, scour",
+      "target_word": "blur",
+      "words": [
+        "blur",
+        "gauge",
+        "scrub",
+        "scour"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blur 与近义词辨析",
+      "synset_definition": "make a smudge on; soil by smudging",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 198,
+      "group_name": "bootleg, undercut, undersell, auctioneer",
+      "target_word": "bootleg",
+      "words": [
+        "bootleg",
+        "undercut",
+        "undersell",
+        "auctioneer"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bootleg 与近义词辨析",
+      "synset_definition": "sell illicit products such as drugs or alcohol",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 199,
+      "group_name": "buff, slick, sleek, gloss",
+      "target_word": "buff",
+      "words": [
+        "buff",
+        "slick",
+        "sleek",
+        "gloss"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "buff 与近义词辨析",
+      "synset_definition": "polish and make shiny",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 200,
+      "group_name": "bunk, juggle, beguile, hoodwink",
+      "target_word": "bunk",
+      "words": [
+        "bunk",
+        "juggle",
+        "beguile",
+        "hoodwink"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bunk 与近义词辨析",
+      "synset_definition": "avoid paying",
       "t8_count": 4,
       "cas_score": 96
     }

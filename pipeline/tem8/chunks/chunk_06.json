@@ -6,114 +6,24 @@
   "clusters": [
     {
       "group_id": 61,
-      "group_name": "electrify, clog, deluge, clutter",
-      "target_word": "electrify",
+      "group_name": "ensconce, ladle, siphon, stratify",
+      "target_word": "ensconce",
       "words": [
-        "electrify",
-        "clog",
-        "deluge",
-        "clutter"
+        "ensconce",
+        "ladle",
+        "siphon",
+        "stratify"
       ],
       "pos": "v",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "electrify 与近义词辨析",
-      "synset_definition": "charge (a conductor) with electricity",
+      "theme_label": "ensconce 与近义词辨析",
+      "synset_definition": "fix firmly",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 62,
-      "group_name": "embezzle, loot, rustle, misappropriate",
-      "target_word": "embezzle",
-      "words": [
-        "embezzle",
-        "loot",
-        "rustle",
-        "misappropriate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "embezzle 与近义词辨析",
-      "synset_definition": "appropriate (as property entrusted to one's care) fraudulently to one's own use",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 63,
-      "group_name": "energize, lighten, exacerbate, exasperate",
-      "target_word": "energize",
-      "words": [
-        "energize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "energize 与近义词辨析",
-      "synset_definition": "raise to a higher energy level",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 64,
-      "group_name": "enfeeble, dampen, negate, mollify",
-      "target_word": "enfeeble",
-      "words": [
-        "enfeeble",
-        "dampen",
-        "negate",
-        "mollify"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "enfeeble 与近义词辨析",
-      "synset_definition": "make weak",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 65,
-      "group_name": "enliven, liven, animate, invigorate",
-      "target_word": "enliven",
-      "words": [
-        "enliven",
-        "liven",
-        "animate",
-        "invigorate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "enliven 与近义词辨析",
-      "synset_definition": "make lively",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 66,
-      "group_name": "enrage, irk, madden, incense",
-      "target_word": "enrage",
-      "words": [
-        "enrage",
-        "irk",
-        "madden",
-        "incense"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "enrage 与近义词辨析",
-      "synset_definition": "put into a rage; make violently angry",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 67,
       "group_name": "entice, jog, lure, incite",
       "target_word": "entice",
       "words": [
@@ -131,32 +41,14 @@
       "cas_score": 100
     },
     {
-      "group_id": 68,
-      "group_name": "equate, lighten, exacerbate, exasperate",
-      "target_word": "equate",
-      "words": [
-        "equate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "equate 与近义词辨析",
-      "synset_definition": "make equal, uniform, corresponding, or matching",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 69,
-      "group_name": "eschew, shun, fudge, evade",
+      "group_id": 63,
+      "group_name": "eschew, shun, shirk, fudge",
       "target_word": "eschew",
       "words": [
         "eschew",
         "shun",
-        "fudge",
-        "evade"
+        "shirk",
+        "fudge"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -167,20 +59,128 @@
       "cas_score": 100
     },
     {
-      "group_id": 70,
-      "group_name": "estrange, lighten, exacerbate, exasperate",
-      "target_word": "estrange",
+      "group_id": 64,
+      "group_name": "evacuate, void, ooze, crap",
+      "target_word": "evacuate",
       "words": [
-        "estrange",
-        "lighten",
+        "evacuate",
+        "void",
+        "ooze",
+        "crap"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "evacuate 与近义词辨析",
+      "synset_definition": "excrete or discharge from the body",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 65,
+      "group_name": "evoke, exude, connote, formulate",
+      "target_word": "evoke",
+      "words": [
+        "evoke",
+        "exude",
+        "connote",
+        "formulate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "evoke 与近义词辨析",
+      "synset_definition": "call to mind",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 66,
+      "group_name": "exacerbate, clot, reinstate, exasperate",
+      "target_word": "exacerbate",
+      "words": [
         "exacerbate",
+        "clot",
+        "reinstate",
         "exasperate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "estrange 与近义词辨析",
-      "synset_definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+      "theme_label": "exacerbate 与近义词辨析",
+      "synset_definition": "make worse",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 67,
+      "group_name": "exasperate, irk, madden, enrage",
+      "target_word": "exasperate",
+      "words": [
+        "exasperate",
+        "irk",
+        "madden",
+        "enrage"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "exasperate 与近义词辨析",
+      "synset_definition": "exasperate or irritate",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 68,
+      "group_name": "extort, loot, despoil, recapture",
+      "target_word": "extort",
+      "words": [
+        "extort",
+        "loot",
+        "despoil",
+        "recapture"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "extort 与近义词辨析",
+      "synset_definition": "obtain through intimidation",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 69,
+      "group_name": "falcon, snipe, forage, scrounge",
+      "target_word": "falcon",
+      "words": [
+        "falcon",
+        "snipe",
+        "forage",
+        "scrounge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "falcon 与近义词辨析",
+      "synset_definition": "hunt with falcons",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 70,
+      "group_name": "falsify, warp, sham, feign",
+      "target_word": "falsify",
+      "words": [
+        "falsify",
+        "warp",
+        "sham",
+        "feign"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "falsify 与近义词辨析",
+      "synset_definition": "make false by mutilation or addition; as of a message or story",
       "t8_count": 4,
       "cas_score": 100
     }

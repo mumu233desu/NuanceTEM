@@ -24,24 +24,6 @@
     },
     {
       "group_id": 22,
-      "group_name": "assimilate, lighten, exacerbate, exasperate",
-      "target_word": "assimilate",
-      "words": [
-        "assimilate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "assimilate 与近义词辨析",
-      "synset_definition": "make similar",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 23,
       "group_name": "banish, shun, eject, relegate",
       "target_word": "banish",
       "words": [
@@ -59,7 +41,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 24,
+      "group_id": 23,
       "group_name": "beguile, trance, bewitch, captivate",
       "target_word": "beguile",
       "words": [
@@ -77,43 +59,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 25,
-      "group_name": "blunder, fumble, trespass, infiltrate",
-      "target_word": "blunder",
-      "words": [
-        "blunder",
-        "fumble",
-        "trespass",
-        "infiltrate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "blunder 与近义词辨析",
-      "synset_definition": "make one's way clumsily or blindly",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 26,
-      "group_name": "blur, lighten, exacerbate, exasperate",
-      "target_word": "blur",
-      "words": [
-        "blur",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "blur 与近义词辨析",
-      "synset_definition": "to make less distinct or clear",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 27,
+      "group_id": 24,
       "group_name": "boost, ram, jab, prod",
       "target_word": "boost",
       "words": [
@@ -131,7 +77,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 28,
+      "group_id": 25,
       "group_name": "bunker, shunt, shuffle, transpose",
       "target_word": "bunker",
       "words": [
@@ -149,7 +95,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 29,
+      "group_id": 26,
+      "group_name": "cajole, coax, badger, seduce",
+      "target_word": "cajole",
+      "words": [
+        "cajole",
+        "coax",
+        "badger",
+        "seduce"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "cajole 与近义词辨析",
+      "synset_definition": "influence or urge by gentle urging, caressing, or flattering",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 27,
       "group_name": "chant, trill, chirp, quaver",
       "target_word": "chant",
       "words": [
@@ -167,20 +131,56 @@
       "cas_score": 100
     },
     {
-      "group_id": 30,
-      "group_name": "churn, swoop, fidget, flurry",
+      "group_id": 28,
+      "group_name": "churn, waver, quiver, writhe",
       "target_word": "churn",
       "words": [
         "churn",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "churn 与近义词辨析",
       "synset_definition": "be agitated",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 29,
+      "group_name": "circumvent, outcry, outgrow, outweigh",
+      "target_word": "circumvent",
+      "words": [
+        "circumvent",
+        "outcry",
+        "outgrow",
+        "outweigh"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "circumvent 与近义词辨析",
+      "synset_definition": "beat through cleverness and wit",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 30,
+      "group_name": "clatter, honk, creak, racket",
+      "target_word": "clatter",
+      "words": [
+        "clatter",
+        "honk",
+        "creak",
+        "racket"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clatter 与近义词辨析",
+      "synset_definition": "make a rattling sound",
       "t8_count": 4,
       "cas_score": 100
     }

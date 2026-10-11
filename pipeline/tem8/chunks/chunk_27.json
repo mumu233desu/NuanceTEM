@@ -6,67 +6,13 @@
   "clusters": [
     {
       "group_id": 271,
-      "group_name": "sidestep, fudge, evade, parry",
-      "target_word": "sidestep",
-      "words": [
-        "sidestep",
-        "fudge",
-        "evade",
-        "parry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "sidestep 与近义词辨析",
-      "synset_definition": "avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 272,
-      "group_name": "sidle, swoop, fidget, flurry",
-      "target_word": "sidle",
-      "words": [
-        "sidle",
-        "swoop",
-        "fidget",
-        "flurry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "sidle 与近义词辨析",
-      "synset_definition": "move unobtrusively or furtively",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 273,
-      "group_name": "slump, alight, subside, cascade",
-      "target_word": "slump",
-      "words": [
-        "slump",
-        "alight",
-        "subside",
-        "cascade"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "slump 与近义词辨析",
-      "synset_definition": "go down in value",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 274,
-      "group_name": "slur, blurt, whiff, snarl",
+      "group_name": "slur, blurt, whiff, snivel",
       "target_word": "slur",
       "words": [
         "slur",
         "blurt",
         "whiff",
-        "snarl"
+        "snivel"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -77,7 +23,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 275,
+      "group_id": 272,
       "group_name": "spew, honk, purge, chuck",
       "target_word": "spew",
       "words": [
@@ -95,14 +41,32 @@
       "cas_score": 96
     },
     {
-      "group_id": 276,
-      "group_name": "stalk, wade, slink, mince",
+      "group_id": 273,
+      "group_name": "squeal, hoot, squall, gobble",
+      "target_word": "squeal",
+      "words": [
+        "squeal",
+        "hoot",
+        "squall",
+        "gobble"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "squeal 与近义词辨析",
+      "synset_definition": "utter a high-pitched cry, characteristic of pigs",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 274,
+      "group_name": "stalk, wade, slink, slouch",
       "target_word": "stalk",
       "words": [
         "stalk",
         "wade",
         "slink",
-        "mince"
+        "slouch"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -113,25 +77,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 277,
-      "group_name": "strew, drape, mantle, shroud",
-      "target_word": "strew",
-      "words": [
-        "strew",
-        "drape",
-        "mantle",
-        "shroud"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "strew 与近义词辨析",
-      "synset_definition": "cover; be dispersed over",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 278,
+      "group_id": 275,
       "group_name": "surcharge, clog, deluge, clutter",
       "target_word": "surcharge",
       "words": [
@@ -149,25 +95,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 279,
-      "group_name": "taper, wane, flag, remit",
-      "target_word": "taper",
-      "words": [
-        "taper",
-        "wane",
-        "flag",
-        "remit"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "taper 与近义词辨析",
-      "synset_definition": "diminish gradually",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 280,
+      "group_id": 276,
       "group_name": "thud, rap, thump, drone",
       "target_word": "thud",
       "words": [
@@ -181,6 +109,78 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "thud 与近义词辨析",
       "synset_definition": "make a dull sound",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 277,
+      "group_name": "thump, waver, quiver, writhe",
+      "target_word": "thump",
+      "words": [
+        "thump",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "thump 与近义词辨析",
+      "synset_definition": "move rhythmically",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 278,
+      "group_name": "tilt, waver, quiver, writhe",
+      "target_word": "tilt",
+      "words": [
+        "tilt",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "tilt 与近义词辨析",
+      "synset_definition": "heel over",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 279,
+      "group_name": "transpose, flip, revert, regress",
+      "target_word": "transpose",
+      "words": [
+        "transpose",
+        "flip",
+        "revert",
+        "regress"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "transpose 与近义词辨析",
+      "synset_definition": "change the order or arrangement of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 280,
+      "group_name": "treble, chant, trill, chirp",
+      "target_word": "treble",
+      "words": [
+        "treble",
+        "chant",
+        "trill",
+        "chirp"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "treble 与近义词辨析",
+      "synset_definition": "sing treble",
       "t8_count": 4,
       "cas_score": 96
     }

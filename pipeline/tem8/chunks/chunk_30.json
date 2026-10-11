@@ -6,24 +6,60 @@
   "clusters": [
     {
       "group_id": 301,
-      "group_name": "cajole, coax, seduce, sell",
-      "target_word": "cajole",
+      "group_name": "booze, fuddle, satiate, use",
+      "target_word": "booze",
       "words": [
-        "cajole",
-        "coax",
-        "seduce",
-        "sell"
+        "booze",
+        "fuddle",
+        "satiate",
+        "use"
       ],
       "pos": "v",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "cajole 与近义词辨析",
-      "synset_definition": "influence or urge by gentle urging, caressing, or flattering",
+      "theme_label": "booze 与近义词辨析",
+      "synset_definition": "consume alcohol",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 302,
+      "group_name": "brace, vitalize, substantiate, steady",
+      "target_word": "brace",
+      "words": [
+        "brace",
+        "vitalize",
+        "substantiate",
+        "steady"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "brace 与近义词辨析",
+      "synset_definition": "support or hold steady and make steadfast, with or as if with a brace",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 303,
+      "group_name": "braid, festoon, wreathe, gild",
+      "target_word": "braid",
+      "words": [
+        "braid",
+        "festoon",
+        "wreathe",
+        "gild"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "braid 与近义词辨析",
+      "synset_definition": "decorate with braids or ribbons",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 304,
       "group_name": "caricature, parody, impersonate, ape",
       "target_word": "caricature",
       "words": [
@@ -41,7 +77,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 303,
+      "group_id": 305,
       "group_name": "cavern, scallop, excavate, dig",
       "target_word": "cavern",
       "words": [
@@ -59,14 +95,14 @@
       "cas_score": 92
     },
     {
-      "group_id": 304,
-      "group_name": "cede, raffle, bequeath, will",
+      "group_id": 306,
+      "group_name": "cede, raffle, bequeath, tip",
       "target_word": "cede",
       "words": [
         "cede",
         "raffle",
         "bequeath",
-        "will"
+        "tip"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -77,7 +113,25 @@
       "cas_score": 92
     },
     {
-      "group_id": 305,
+      "group_id": 307,
+      "group_name": "clinch, rig, wedge, hang",
+      "target_word": "clinch",
+      "words": [
+        "clinch",
+        "rig",
+        "wedge",
+        "hang"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clinch 与近义词辨析",
+      "synset_definition": "secure or fasten by flattening the ends of nails or bolts",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 308,
       "group_name": "coddle, fry, poach, stew",
       "target_word": "coddle",
       "words": [
@@ -95,25 +149,25 @@
       "cas_score": 92
     },
     {
-      "group_id": 306,
-      "group_name": "condescend, affiliate, interpose, treat",
-      "target_word": "condescend",
+      "group_id": 309,
+      "group_name": "concord, correlate, corroborate, twin",
+      "target_word": "concord",
       "words": [
-        "condescend",
-        "affiliate",
-        "interpose",
-        "treat"
+        "concord",
+        "correlate",
+        "corroborate",
+        "twin"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "condescend 与近义词辨析",
-      "synset_definition": "treat condescendingly",
+      "theme_label": "concord 与近义词辨析",
+      "synset_definition": "go together",
       "t8_count": 3,
       "cas_score": 92
     },
     {
-      "group_id": 307,
+      "group_id": 310,
       "group_name": "confederate, espouse, federate, wed",
       "target_word": "confederate",
       "words": [
@@ -127,60 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "confederate 与近义词辨析",
       "synset_definition": "form a group or unite",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 308,
-      "group_name": "conflate, flux, fuse, mix",
-      "target_word": "conflate",
-      "words": [
-        "conflate",
-        "flux",
-        "fuse",
-        "mix"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "conflate 与近义词辨析",
-      "synset_definition": "mix together different elements",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 309,
-      "group_name": "conjure, evoke, invoke, stir",
-      "target_word": "conjure",
-      "words": [
-        "conjure",
-        "evoke",
-        "invoke",
-        "stir"
-      ],
-      "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "conjure 与近义词辨析",
-      "synset_definition": "summon into action or bring into existence, often as if by magic",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 310,
-      "group_name": "consecrate, ordain, enthrone, order",
-      "target_word": "consecrate",
-      "words": [
-        "consecrate",
-        "ordain",
-        "enthrone",
-        "order"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "consecrate 与近义词辨析",
-      "synset_definition": "appoint to a clerical posts",
       "t8_count": 3,
       "cas_score": 92
     }

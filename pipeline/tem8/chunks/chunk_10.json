@@ -6,96 +6,6 @@
   "clusters": [
     {
       "group_id": 101,
-      "group_name": "hue, lighten, exacerbate, exasperate",
-      "target_word": "hue",
-      "words": [
-        "hue",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "hue 与近义词辨析",
-      "synset_definition": "take on color or become colored",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 102,
-      "group_name": "huff, snort, snuff, snivel",
-      "target_word": "huff",
-      "words": [
-        "huff",
-        "snort",
-        "snuff",
-        "snivel"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "huff 与近义词辨析",
-      "synset_definition": "inhale recreational drugs",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 103,
-      "group_name": "imbue, hue, tint, tinge",
-      "target_word": "imbue",
-      "words": [
-        "imbue",
-        "hue",
-        "tint",
-        "tinge"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "imbue 与近义词辨析",
-      "synset_definition": "suffuse with color",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 104,
-      "group_name": "impregnate, clog, infuse, deluge",
-      "target_word": "impregnate",
-      "words": [
-        "impregnate",
-        "clog",
-        "infuse",
-        "deluge"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "impregnate 与近义词辨析",
-      "synset_definition": "fill, as with a certain quality",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 105,
-      "group_name": "incapacitate, lighten, exacerbate, exasperate",
-      "target_word": "incapacitate",
-      "words": [
-        "incapacitate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "incapacitate 与近义词辨析",
-      "synset_definition": "make unable to perform a certain action",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 106,
       "group_name": "incriminate, sully, defame, indict",
       "target_word": "incriminate",
       "words": [
@@ -113,13 +23,31 @@
       "cas_score": 100
     },
     {
-      "group_id": 107,
-      "group_name": "inflame, devolve, regress, degenerate",
+      "group_id": 102,
+      "group_name": "infiltrate, fumble, blunder, traverse",
+      "target_word": "infiltrate",
+      "words": [
+        "infiltrate",
+        "fumble",
+        "blunder",
+        "traverse"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "infiltrate 与近义词辨析",
+      "synset_definition": "pass through an enemy line; in a military conflict",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 103,
+      "group_name": "inflame, regress, devolve, degenerate",
       "target_word": "inflame",
       "words": [
         "inflame",
-        "devolve",
         "regress",
+        "devolve",
         "degenerate"
       ],
       "pos": "v",
@@ -131,7 +59,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 108,
+      "group_id": 104,
       "group_name": "infuriate, irk, madden, enrage",
       "target_word": "infuriate",
       "words": [
@@ -149,7 +77,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 109,
+      "group_id": 105,
       "group_name": "infuse, clog, deluge, clutter",
       "target_word": "infuse",
       "words": [
@@ -167,7 +95,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 110,
+      "group_id": 106,
+      "group_name": "inset, foist, inoculate, intersperse",
+      "target_word": "inset",
+      "words": [
+        "inset",
+        "foist",
+        "inoculate",
+        "intersperse"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "inset 与近义词辨析",
+      "synset_definition": "set or place in",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 107,
       "group_name": "instigate, jog, lure, incite",
       "target_word": "instigate",
       "words": [
@@ -181,6 +127,60 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "instigate 与近义词辨析",
       "synset_definition": "provoke or stir up",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 108,
+      "group_name": "intersperse, ladle, siphon, stratify",
+      "target_word": "intersperse",
+      "words": [
+        "intersperse",
+        "ladle",
+        "siphon",
+        "stratify"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "intersperse 与近义词辨析",
+      "synset_definition": "place at intervals in or among",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 109,
+      "group_name": "intoxicate, exalt, uplift, animate",
+      "target_word": "intoxicate",
+      "words": [
+        "intoxicate",
+        "exalt",
+        "uplift",
+        "animate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "intoxicate 与近义词辨析",
+      "synset_definition": "fill with high spirits; fill with optimism",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 110,
+      "group_name": "jog, scurry, sprint, scuttle",
+      "target_word": "jog",
+      "words": [
+        "jog",
+        "scurry",
+        "sprint",
+        "scuttle"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "jog 与近义词辨析",
+      "synset_definition": "run at a moderately swift pace",
       "t8_count": 4,
       "cas_score": 100
     }

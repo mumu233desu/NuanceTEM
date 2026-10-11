@@ -6,91 +6,91 @@
   "clusters": [
     {
       "group_id": 331,
-      "group_name": "disassociate, disunite, dissociate, divorce",
-      "target_word": "disassociate",
+      "group_name": "detract, slash, deflate, thin",
+      "target_word": "detract",
       "words": [
-        "disassociate",
-        "disunite",
-        "dissociate",
-        "divorce"
+        "detract",
+        "slash",
+        "deflate",
+        "thin"
       ],
       "pos": "v",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "disassociate 与近义词辨析",
-      "synset_definition": "part; cease or break association with",
+      "theme_label": "detract 与近义词辨析",
+      "synset_definition": "take away a part from; diminish",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 332,
-      "group_name": "dislocate, dislodge, evacuate, bump",
-      "target_word": "dislocate",
+      "group_name": "deviate, flip, avert, roll",
+      "target_word": "deviate",
       "words": [
-        "dislocate",
-        "dislodge",
-        "evacuate",
-        "bump"
+        "deviate",
+        "flip",
+        "avert",
+        "roll"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dislocate 与近义词辨析",
-      "synset_definition": "put out of its usual place, position, or relationship",
+      "theme_label": "deviate 与近义词辨析",
+      "synset_definition": "turn aside; turn away from",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 333,
-      "group_name": "dismantle, fracture, exterminate, level",
-      "target_word": "dismantle",
+      "group_name": "devolve, demote, mandate, cast",
+      "target_word": "devolve",
       "words": [
-        "dismantle",
-        "fracture",
-        "exterminate",
-        "level"
+        "devolve",
+        "demote",
+        "mandate",
+        "cast"
       ],
       "pos": "v",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dismantle 与近义词辨析",
-      "synset_definition": "tear down so as to make flat with the ground",
+      "theme_label": "devolve 与近义词辨析",
+      "synset_definition": "pass on or delegate to another",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 334,
-      "group_name": "dissuade, exhort, admonish, tip",
-      "target_word": "dissuade",
+      "group_name": "digress, impart, harbinger, air",
+      "target_word": "digress",
       "words": [
-        "dissuade",
-        "exhort",
-        "admonish",
-        "tip"
+        "digress",
+        "impart",
+        "harbinger",
+        "air"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dissuade 与近义词辨析",
-      "synset_definition": "turn away from by persuasion",
+      "theme_label": "digress 与近义词辨析",
+      "synset_definition": "lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 335,
-      "group_name": "dredge, scour, divine, drag",
-      "target_word": "dredge",
+      "group_name": "dimple, flag, asterisk, tip",
+      "target_word": "dimple",
       "words": [
-        "dredge",
-        "scour",
-        "divine",
-        "drag"
+        "dimple",
+        "flag",
+        "asterisk",
+        "tip"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dredge 与近义词辨析",
-      "synset_definition": "search (as the bottom of a body of water) for something valuable or lost",
+      "theme_label": "dimple 与近义词辨析",
+      "synset_definition": "mark with, or as if with, dimples",
       "t8_count": 3,
       "cas_score": 92
     },
@@ -114,6 +114,24 @@
     },
     {
       "group_id": 337,
+      "group_name": "fastidious, dainty, finicky, squeamish",
+      "target_word": "fastidious",
+      "words": [
+        "fastidious",
+        "dainty",
+        "finicky",
+        "squeamish"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fastidious 与近义词辨析",
+      "synset_definition": "giving careful attention to detail; hard to please; excessively concerned with cleanliness",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 338,
       "group_name": "flamboyant, showy, pretentious, ostentatious",
       "target_word": "flamboyant",
       "words": [
@@ -127,24 +145,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "flamboyant 与近义词辨析",
       "synset_definition": "marked by ostentation but often tasteless",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 338,
-      "group_name": "frivolous, giddy, flighty, flippant",
-      "target_word": "frivolous",
-      "words": [
-        "frivolous",
-        "giddy",
-        "flighty",
-        "flippant"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "frivolous 与近义词辨析",
-      "synset_definition": "not serious in content or attitude or behavior",
       "t8_count": 4,
       "cas_score": 100
     },

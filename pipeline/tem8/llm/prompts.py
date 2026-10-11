@@ -1,5 +1,40 @@
 import json
+import re
 from typing import Any, Dict, List, Optional
+
+def extract_json(text: str) -> Any:
+    """鲁棒的 JSON 提取器，可自动容忍并剥离 Markdown 代码块与杂乱前后缀"""
+    text = text.strip()
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
+
+    # 1. 优先提取 ```json ... ``` 代码块内容
+    fenced = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", text)
+    if fenced:
+        try:
+            return json.loads(fenced.group(1).strip())
+        except Exception:
+            pass
+
+    # 2. 尝试贪婪匹配最外层的 [ { ... } ]
+    match_arr = re.search(r"\[\s*\{[\s\S]*\}\s*\]", text)
+    if match_arr:
+        try:
+            return json.loads(match_arr.group(0))
+        except Exception:
+            pass
+
+    # 3. 尝试贪婪匹配最外层的 { ... }
+    match_obj = re.search(r"\{[\s\S]*\}", text)
+    if match_obj:
+        try:
+            return json.loads(match_obj.group(0))
+        except Exception:
+            pass
+
+    raise ValueError(f"Could not extract valid JSON from response (length {len(text)}):\n{text[:300]}")
 
 # 1. 命题专家 System Prompt
 SYSTEM_PROMPT_GENERATOR = """You are a Senior Chief Examiner for the National TEM-8 (Test for English Majors - Band 8) and an expert Corpus Linguist specializing in Advanced Academic English, Stylistic Register, and Lexical Semantics.
@@ -31,9 +66,13 @@ def build_generator_user_prompt(
     q_id_1: str,
     q_id_2: str,
     mw_examples: List[str],
-    mw_defs: Optional[List[str]] = None
+    mw_defs: Optional[List[str]] = None,
+    secondary_target: Optional[str] = None
 ) -> str:
     words_str = ", ".join(cluster["words"])
+    target_1 = cluster["target_word"]
+    target_2 = secondary_target or target_1
+
     mw_ex_text = "\n".join([f"- {ex}" for ex in mw_examples[:5]]) if mw_examples else "None available (rely on standard dictionary definitions)."
     mw_def_text = "\n".join([f"- {d}" for d in (mw_defs or [])[:3]]) if mw_defs else cluster.get('synset_definition', '')
 
@@ -41,7 +80,8 @@ def build_generator_user_prompt(
 
 [CLUSTER METADATA]
 - Cluster Words: {words_str} (All 4 must appear as options)
-- Primary Target Word: {cluster['target_word']}
+- Primary Target Word: {target_1} (100% TEM-8 starred)
+- Secondary Target Word: {target_2} (100% TEM-8 starred)
 - Part of Speech: {cluster['pos']}
 - Functional Discourse Field: {cluster.get('field', 'FIELD_COGNITION')}
 - Primary Mechanism: {cluster.get('primary_mechanism', 'MECH_NUANCE')}
@@ -55,8 +95,8 @@ Full Authentic Examples & Publications (Uncut):
 {mw_ex_text}
 
 [REQUIREMENTS FOR THE 2 QUESTIONS]
-- Question 1 (ID: "{q_id_1}"): Focus primarily on the primary mechanism ({cluster.get('primary_mechanism', 'MECH_COLLOCATION')}). Target answer: "{cluster['target_word']}".
-- Question 2 (ID: "{q_id_2}"): Focus on a complementary nuance or secondary target word from the cluster: "{cluster['words'][1] if len(cluster['words']) > 1 else cluster['target_word']}". All 4 options remain [{words_str}].
+- Question 1 (ID: "{q_id_1}"): Focus primarily on the primary mechanism ({cluster.get('primary_mechanism', 'MECH_COLLOCATION')}). Target answer: "{target_1}".
+- Question 2 (ID: "{q_id_2}"): Focus on a complementary nuance or secondary context. Target answer: "{target_2}". All 4 options remain [{words_str}].
 
 Output a JSON array containing the 2 question objects with exact fields:
 [
@@ -65,10 +105,10 @@ Output a JSON array containing the 2 question objects with exact fields:
     "group_id": {cluster['group_id']},
     "group_name": "{words_str}",
     "level": "TEM-8",
-    "target_word": "{cluster['target_word']}",
+    "target_word": "{target_1}",
     "question": "The sentence with exactly one '___' placeholder and 20~38 words...",
     "options": ["{cluster['words'][0]}", "{cluster['words'][1]}", "{cluster['words'][2]}", "{cluster['words'][3]}"],
-    "answer": "{cluster['target_word']}",
+    "answer": "{target_1}",
     "primary_mechanism": "{cluster.get('primary_mechanism', 'MECH_COLLOCATION')}",
     "field": "{cluster.get('field', 'FIELD_COGNITION')}",
     "anchor_clue": "Decisive anchor clue explaining why other 3 options are strictly excluded...",
@@ -80,7 +120,26 @@ Output a JSON array containing the 2 question objects with exact fields:
     }},
     "translation": "Accurate and elegant Chinese translation of the sentence."
   }},
-  ...
+  {{
+    "id": "{q_id_2}",
+    "group_id": {cluster['group_id']},
+    "group_name": "{words_str}",
+    "level": "TEM-8",
+    "target_word": "{target_2}",
+    "question": "A distinct sentence with exactly one '___' placeholder and 20~38 words...",
+    "options": ["{cluster['words'][0]}", "{cluster['words'][1]}", "{cluster['words'][2]}", "{cluster['words'][3]}"],
+    "answer": "{target_2}",
+    "primary_mechanism": "{cluster.get('primary_mechanism', 'MECH_NUANCE')}",
+    "field": "{cluster.get('field', 'FIELD_COGNITION')}",
+    "anchor_clue": "Decisive anchor clue for target 2...",
+    "distractor_analysis": {{
+      "{cluster['words'][0]}": "Detailed explanation...",
+      "{cluster['words'][1]}": "Detailed explanation...",
+      "{cluster['words'][2]}": "Detailed explanation...",
+      "{cluster['words'][3]}": "Detailed explanation..."
+    }},
+    "translation": "Accurate and elegant Chinese translation of the sentence."
+  }}
 ]"""
     return prompt
 

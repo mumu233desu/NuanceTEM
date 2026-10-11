@@ -6,85 +6,13 @@
   "clusters": [
     {
       "group_id": 111,
-      "group_name": "insulate, lighten, exacerbate, exasperate",
-      "target_word": "insulate",
-      "words": [
-        "insulate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "insulate 与近义词辨析",
-      "synset_definition": "protect from heat, cold, or noise by surrounding with insulating material",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 112,
-      "group_name": "intersperse, foist, inset, inoculate",
-      "target_word": "intersperse",
-      "words": [
-        "intersperse",
-        "foist",
-        "inset",
-        "inoculate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "intersperse 与近义词辨析",
-      "synset_definition": "introduce one's writing or speech with certain expressions",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 113,
-      "group_name": "introvert, lighten, exacerbate, exasperate",
-      "target_word": "introvert",
-      "words": [
-        "introvert",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "introvert 与近义词辨析",
-      "synset_definition": "turn inside",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 114,
-      "group_name": "jog, scurry, sprint, scuttle",
-      "target_word": "jog",
-      "words": [
-        "jog",
-        "scurry",
-        "sprint",
-        "scuttle"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "jog 与近义词辨析",
-      "synset_definition": "run at a moderately swift pace",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 115,
-      "group_name": "jolt, swoop, fidget, flurry",
+      "group_name": "jolt, waver, quiver, writhe",
       "target_word": "jolt",
       "words": [
         "jolt",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -95,7 +23,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 116,
+      "group_id": 112,
       "group_name": "juggle, chuck, hurtle, bombard",
       "target_word": "juggle",
       "words": [
@@ -113,7 +41,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 117,
+      "group_id": 113,
+      "group_name": "juxtapose, ladle, siphon, stratify",
+      "target_word": "juxtapose",
+      "words": [
+        "juxtapose",
+        "ladle",
+        "siphon",
+        "stratify"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "juxtapose 与近义词辨析",
+      "synset_definition": "place side by side",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 114,
       "group_name": "knead, wield, ruffle, tamper",
       "target_word": "knead",
       "words": [
@@ -131,25 +77,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 118,
-      "group_name": "mince, lighten, exacerbate, exasperate",
-      "target_word": "mince",
+      "group_id": 115,
+      "group_name": "manicure, lop, pare, indent",
+      "target_word": "manicure",
       "words": [
-        "mince",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "manicure",
+        "lop",
+        "pare",
+        "indent"
       ],
       "pos": "v",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "mince 与近义词辨析",
-      "synset_definition": "make less severe or harsh",
+      "theme_label": "manicure 与近义词辨析",
+      "synset_definition": "trim carefully and neatly",
       "t8_count": 4,
       "cas_score": 100
     },
     {
-      "group_id": 119,
+      "group_id": 116,
       "group_name": "mire, muck, foul, slime",
       "target_word": "mire",
       "words": [
@@ -167,20 +113,74 @@
       "cas_score": 100
     },
     {
-      "group_id": 120,
-      "group_name": "mitigate, pare, abate, abbreviate",
-      "target_word": "mitigate",
+      "group_id": 117,
+      "group_name": "misappropriate, loot, pinch, swipe",
+      "target_word": "misappropriate",
       "words": [
-        "mitigate",
-        "pare",
-        "abate",
-        "abbreviate"
+        "misappropriate",
+        "loot",
+        "pinch",
+        "swipe"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "misappropriate 与近义词辨析",
+      "synset_definition": "appropriate (as property entrusted to one's care) fraudulently to one's own use",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 118,
+      "group_name": "misplace, ladle, siphon, stratify",
+      "target_word": "misplace",
+      "words": [
+        "misplace",
+        "ladle",
+        "siphon",
+        "stratify"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "mitigate 与近义词辨析",
-      "synset_definition": "make less severe or harsh",
+      "theme_label": "misplace 与近义词辨析",
+      "synset_definition": "place (something) where one cannot find it again",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 119,
+      "group_name": "mutilate, mar, impair, blemish",
+      "target_word": "mutilate",
+      "words": [
+        "mutilate",
+        "mar",
+        "impair",
+        "blemish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "mutilate 与近义词辨析",
+      "synset_definition": "destroy or injure severely",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 120,
+      "group_name": "nag, bitch, lament, bemoan",
+      "target_word": "nag",
+      "words": [
+        "nag",
+        "bitch",
+        "lament",
+        "bemoan"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "nag 与近义词辨析",
+      "synset_definition": "bother persistently with trivial complaints",
       "t8_count": 4,
       "cas_score": 100
     }

@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 561,
+      "group_name": "prevalent, dominant, frequent, predominant",
+      "target_word": "prevalent",
+      "words": [
+        "prevalent",
+        "dominant",
+        "frequent",
+        "predominant"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "prevalent 与近义词辨析",
+      "synset_definition": "most frequent or common",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 562,
       "group_name": "sizeable, big, ample, large",
       "target_word": "sizeable",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 562,
+      "group_id": 563,
       "group_name": "standing, erect, upright, vertical",
       "target_word": "standing",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 563,
+      "group_id": 564,
       "group_name": "supplementary, auxiliary, secondary, subsidiary",
       "target_word": "supplementary",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 564,
+      "group_id": 565,
       "group_name": "tonic, brisk, fresh, refreshing",
       "target_word": "tonic",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 565,
+      "group_id": 566,
       "group_name": "unswerving, staunch, constant, steadfast",
       "target_word": "unswerving",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 566,
+      "group_id": 567,
       "group_name": "vehement, fierce, violent, intense",
       "target_word": "vehement",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 567,
+      "group_id": 568,
       "group_name": "veritable, genuine, authentic, unquestionable",
       "target_word": "veritable",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 568,
+      "group_id": 569,
       "group_name": "vernacular, common, vulgar, informal",
       "target_word": "vernacular",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 569,
+      "group_id": 570,
       "group_name": "wanton, easy, light, loose",
       "target_word": "wanton",
       "words": [
@@ -165,24 +183,6 @@
       "synset_definition": "casual and unrestrained in sexual behavior",
       "t8_count": 1,
       "cas_score": 74
-    },
-    {
-      "group_id": 570,
-      "group_name": "absentee, rover, flier, flyer",
-      "target_word": "absentee",
-      "words": [
-        "absentee",
-        "rover",
-        "flier",
-        "flyer"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "absentee 与近义词辨析",
-      "synset_definition": "one that is absent or not in residence",
-      "t8_count": 4,
-      "cas_score": 93
     }
   ]
 }

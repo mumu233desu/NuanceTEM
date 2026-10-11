@@ -6,139 +6,31 @@
   "clusters": [
     {
       "group_id": 731,
-      "group_name": "badger, pester, bug, tease",
-      "target_word": "badger",
+      "group_name": "bemoan, nag, bitch, croak",
+      "target_word": "bemoan",
       "words": [
-        "badger",
-        "pester",
-        "bug",
-        "tease"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "badger 与近义词辨析",
-      "synset_definition": "annoy persistently",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 732,
-      "group_name": "barrage, bombard, rip, claw",
-      "target_word": "barrage",
-      "words": [
-        "barrage",
-        "bombard",
-        "rip",
-        "claw"
-      ],
-      "pos": "v",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "barrage 与近义词辨析",
-      "synset_definition": "address with continuously or persistently, as if with a barrage",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 733,
-      "group_name": "barter, swap, cash, sell",
-      "target_word": "barter",
-      "words": [
-        "barter",
-        "swap",
-        "cash",
-        "sell"
-      ],
-      "pos": "v",
-      "field": "FIELD_CHANGE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "barter 与近义词辨析",
-      "synset_definition": "exchange goods without involving money",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 734,
-      "group_name": "bash, swipe, bat, cut",
-      "target_word": "bash",
-      "words": [
-        "bash",
-        "swipe",
-        "bat",
-        "cut"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "bash 与近义词辨析",
-      "synset_definition": "hit hard",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 735,
-      "group_name": "bask, sprawl, recline, sun",
-      "target_word": "bask",
-      "words": [
-        "bask",
-        "sprawl",
-        "recline",
-        "sun"
+        "bemoan",
+        "nag",
+        "bitch",
+        "croak"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bask 与近义词辨析",
-      "synset_definition": "be exposed",
-      "t8_count": 3,
-      "cas_score": 88
+      "theme_label": "bemoan 与近义词辨析",
+      "synset_definition": "regret strongly",
+      "t8_count": 4,
+      "cas_score": 96
     },
     {
-      "group_id": 736,
-      "group_name": "bawl, yell, roar, bellow",
-      "target_word": "bawl",
-      "words": [
-        "bawl",
-        "yell",
-        "roar",
-        "bellow"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "bawl 与近义词辨析",
-      "synset_definition": "shout loudly and without restraint",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 737,
-      "group_name": "bequeath, cede, raffle, tip",
-      "target_word": "bequeath",
-      "words": [
-        "bequeath",
-        "cede",
-        "raffle",
-        "tip"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "bequeath 与近义词辨析",
-      "synset_definition": "leave or give by will after one's death",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 738,
-      "group_name": "billow, propagate, run, roll",
+      "group_id": 732,
+      "group_name": "billow, swap, fall, play",
       "target_word": "billow",
       "words": [
         "billow",
-        "propagate",
-        "run",
-        "roll"
+        "swap",
+        "fall",
+        "play"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -149,25 +41,25 @@
       "cas_score": 84
     },
     {
-      "group_id": 739,
-      "group_name": "bisect, lop, pare, hack",
-      "target_word": "bisect",
+      "group_id": 733,
+      "group_name": "bitch, gripe, squawk, crab",
+      "target_word": "bitch",
       "words": [
-        "bisect",
-        "lop",
-        "pare",
-        "hack"
+        "bitch",
+        "gripe",
+        "squawk",
+        "crab"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bisect 与近义词辨析",
-      "synset_definition": "cut in half or cut in two",
-      "t8_count": 4,
-      "cas_score": 96
+      "theme_label": "bitch 与近义词辨析",
+      "synset_definition": "complain",
+      "t8_count": 3,
+      "cas_score": 88
     },
     {
-      "group_id": 740,
+      "group_id": 734,
       "group_name": "blackmail, imprint, fix, form",
       "target_word": "blackmail",
       "words": [
@@ -183,6 +75,114 @@
       "synset_definition": "exert pressure on someone through threats",
       "t8_count": 2,
       "cas_score": 84
+    },
+    {
+      "group_id": 735,
+      "group_name": "blob, fleck, spot, blot",
+      "target_word": "blob",
+      "words": [
+        "blob",
+        "fleck",
+        "spot",
+        "blot"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blob 与近义词辨析",
+      "synset_definition": "make a spot or mark onto",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 736,
+      "group_name": "blurt, whiff, snarl, snivel",
+      "target_word": "blurt",
+      "words": [
+        "blurt",
+        "whiff",
+        "snarl",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "blurt 与近义词辨析",
+      "synset_definition": "utter impulsively",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 737,
+      "group_name": "bog, fracture, disrupt, interrupt",
+      "target_word": "bog",
+      "words": [
+        "bog",
+        "fracture",
+        "disrupt",
+        "interrupt"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bog 与近义词辨析",
+      "synset_definition": "get stuck while doing something",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 738,
+      "group_name": "boggle, waver, hover, falter",
+      "target_word": "boggle",
+      "words": [
+        "boggle",
+        "waver",
+        "hover",
+        "falter"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "boggle 与近义词辨析",
+      "synset_definition": "hesitate when confronted with a problem, or when in doubt or fear",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 739,
+      "group_name": "brainwash, badger, seduce, cajole",
+      "target_word": "brainwash",
+      "words": [
+        "brainwash",
+        "badger",
+        "seduce",
+        "cajole"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "brainwash 与近义词辨析",
+      "synset_definition": "persuade completely, often through coercion",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 740,
+      "group_name": "bridle, field, repay, retort",
+      "target_word": "bridle",
+      "words": [
+        "bridle",
+        "field",
+        "repay",
+        "retort"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bridle 与近义词辨析",
+      "synset_definition": "respond to the reins, as of horses",
+      "t8_count": 1,
+      "cas_score": 74
     }
   ]
 }

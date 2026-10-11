@@ -6,67 +6,13 @@
   "clusters": [
     {
       "group_id": 171,
-      "group_name": "transpose, lighten, exacerbate, exasperate",
-      "target_word": "transpose",
-      "words": [
-        "transpose",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_CHANGE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "transpose 与近义词辨析",
-      "synset_definition": "cause to change places",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 172,
-      "group_name": "tremor, slash, wiggle, rattle",
-      "target_word": "tremor",
-      "words": [
-        "tremor",
-        "slash",
-        "wiggle",
-        "rattle"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "tremor 与近义词辨析",
-      "synset_definition": "shake with seismic vibrations",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 173,
-      "group_name": "trump, rap, thud, drone",
-      "target_word": "trump",
-      "words": [
-        "trump",
-        "rap",
-        "thud",
-        "drone"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "trump 与近义词辨析",
-      "synset_definition": "produce a sound as if from a trumpet",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 174,
-      "group_name": "twitch, swoop, fidget, flurry",
+      "group_name": "twitch, waver, quiver, writhe",
       "target_word": "twitch",
       "words": [
         "twitch",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -77,7 +23,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 175,
+      "group_id": 172,
+      "group_name": "undercut, lop, pare, indent",
+      "target_word": "undercut",
+      "words": [
+        "undercut",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "undercut 与近义词辨析",
+      "synset_definition": "cut obliquely into (a tree) below the main cut and on the side toward which the tree will fall",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 173,
       "group_name": "underlie, flank, nestle, mediate",
       "target_word": "underlie",
       "words": [
@@ -95,7 +59,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 176,
+      "group_id": 174,
+      "group_name": "uplift, exalt, animate, enliven",
+      "target_word": "uplift",
+      "words": [
+        "uplift",
+        "exalt",
+        "animate",
+        "enliven"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "uplift 与近义词辨析",
+      "synset_definition": "fill with high spirits; fill with optimism",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 175,
       "group_name": "urinate, ooze, crap, piss",
       "target_word": "urinate",
       "words": [
@@ -113,14 +95,14 @@
       "cas_score": 100
     },
     {
-      "group_id": 177,
-      "group_name": "usurp, loot, extort, despoil",
+      "group_id": 176,
+      "group_name": "usurp, extort, despoil, recapture",
       "target_word": "usurp",
       "words": [
         "usurp",
-        "loot",
         "extort",
-        "despoil"
+        "despoil",
+        "recapture"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -131,58 +113,76 @@
       "cas_score": 100
     },
     {
-      "group_id": 178,
-      "group_name": "validate, lighten, exacerbate, exasperate",
-      "target_word": "validate",
+      "group_id": 177,
+      "group_name": "void, ooze, crap, piss",
+      "target_word": "void",
       "words": [
-        "validate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "void",
+        "ooze",
+        "crap",
+        "piss"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "validate 与近义词辨析",
-      "synset_definition": "make valid or confirm the validity of",
+      "theme_label": "void 与近义词辨析",
+      "synset_definition": "excrete or discharge from the body",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 178,
+      "group_name": "whiff, blurt, snivel, blunder",
+      "target_word": "whiff",
+      "words": [
+        "whiff",
+        "blurt",
+        "snivel",
+        "blunder"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "whiff 与近义词辨析",
+      "synset_definition": "utter with a puff of air",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 179,
-      "group_name": "visualize, lighten, exacerbate, exasperate",
-      "target_word": "visualize",
+      "group_name": "whoop, wail, squawk, screech",
+      "target_word": "whoop",
       "words": [
-        "visualize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "whoop",
+        "wail",
+        "squawk",
+        "screech"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "visualize 与近义词辨析",
-      "synset_definition": "make visible",
+      "theme_label": "whoop 与近义词辨析",
+      "synset_definition": "shout, as if with joy or enthusiasm",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 180,
-      "group_name": "vitalize, lighten, exacerbate, exasperate",
-      "target_word": "vitalize",
+      "group_name": "admonish, snipe, assail, reprove",
+      "target_word": "admonish",
       "words": [
-        "vitalize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "admonish",
+        "snipe",
+        "assail",
+        "reprove"
       ],
       "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "vitalize 与近义词辨析",
-      "synset_definition": "give life to",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "admonish 与近义词辨析",
+      "synset_definition": "take to task",
       "t8_count": 4,
-      "cas_score": 100
+      "cas_score": 96
     }
   ]
 }

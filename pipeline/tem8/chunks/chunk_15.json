@@ -6,49 +6,31 @@
   "clusters": [
     {
       "group_id": 151,
-      "group_name": "shrivel, wane, flag, remit",
-      "target_word": "shrivel",
+      "group_name": "sic, beset, molest, ravish",
+      "target_word": "sic",
       "words": [
-        "shrivel",
-        "wane",
-        "flag",
-        "remit"
+        "sic",
+        "beset",
+        "molest",
+        "ravish"
       ],
       "pos": "v",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_STANCE",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "shrivel 与近义词辨析",
-      "synset_definition": "wither, as with a loss of moisture",
+      "theme_label": "sic 与近义词辨析",
+      "synset_definition": "urge to attack someone",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 152,
-      "group_name": "shun, fudge, evade, parry",
-      "target_word": "shun",
-      "words": [
-        "shun",
-        "fudge",
-        "evade",
-        "parry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "shun 与近义词辨析",
-      "synset_definition": "avoid and stay away from deliberately; stay clear of",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 153,
-      "group_name": "sizzle, honk, creak, crunch",
+      "group_name": "sizzle, honk, creak, racket",
       "target_word": "sizzle",
       "words": [
         "sizzle",
         "honk",
         "creak",
-        "crunch"
+        "racket"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -59,61 +41,25 @@
       "cas_score": 100
     },
     {
-      "group_id": 154,
-      "group_name": "slash, quench, detract, deflate",
+      "group_id": 153,
+      "group_name": "slash, lop, pare, indent",
       "target_word": "slash",
       "words": [
         "slash",
-        "quench",
-        "detract",
-        "deflate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "slash 与近义词辨析",
-      "synset_definition": "cut drastically",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 155,
-      "group_name": "slime, foul, mire, blemish",
-      "target_word": "slime",
-      "words": [
-        "slime",
-        "foul",
-        "mire",
-        "blemish"
+        "lop",
+        "pare",
+        "indent"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "slime 与近义词辨析",
-      "synset_definition": "cover or stain with slime",
+      "theme_label": "slash 与近义词辨析",
+      "synset_definition": "cut with sweeping strokes; as with an ax or machete",
       "t8_count": 4,
       "cas_score": 100
     },
     {
-      "group_id": 156,
-      "group_name": "snag, bum, procure, excavate",
-      "target_word": "snag",
-      "words": [
-        "snag",
-        "bum",
-        "procure",
-        "excavate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "snag 与近义词辨析",
-      "synset_definition": "get by acting quickly and smartly",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 157,
+      "group_id": 154,
       "group_name": "snarl, rap, thud, drone",
       "target_word": "snarl",
       "words": [
@@ -131,7 +77,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 158,
+      "group_id": 155,
       "group_name": "sniffle, wail, bawl, snivel",
       "target_word": "sniffle",
       "words": [
@@ -149,14 +95,32 @@
       "cas_score": 100
     },
     {
-      "group_id": 159,
-      "group_name": "spatter, sully, defile, tarnish",
+      "group_id": 156,
+      "group_name": "snort, hoot, squall, gobble",
+      "target_word": "snort",
+      "words": [
+        "snort",
+        "hoot",
+        "squall",
+        "gobble"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "snort 与近义词辨析",
+      "synset_definition": "indicate contempt by breathing noisily and forcefully through the nose",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 157,
+      "group_name": "spatter, sully, defile, speckle",
       "target_word": "spatter",
       "words": [
         "spatter",
         "sully",
         "defile",
-        "tarnish"
+        "speckle"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -167,20 +131,56 @@
       "cas_score": 100
     },
     {
-      "group_id": 160,
-      "group_name": "speckle, sully, defile, tarnish",
-      "target_word": "speckle",
+      "group_id": 158,
+      "group_name": "splutter, hoot, squall, gobble",
+      "target_word": "splutter",
       "words": [
-        "speckle",
-        "sully",
-        "defile",
-        "tarnish"
+        "splutter",
+        "hoot",
+        "squall",
+        "gobble"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "speckle 与近义词辨析",
-      "synset_definition": "mark with small spots",
+      "theme_label": "splutter 与近义词辨析",
+      "synset_definition": "utter with a spitting sound, as if in a rage",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 159,
+      "group_name": "spout, blurt, whiff, snivel",
+      "target_word": "spout",
+      "words": [
+        "spout",
+        "blurt",
+        "whiff",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "spout 与近义词辨析",
+      "synset_definition": "talk in a noisy, excited, or declamatory manner",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 160,
+      "group_name": "sprawl, strew, straggle, propagate",
+      "target_word": "sprawl",
+      "words": [
+        "sprawl",
+        "strew",
+        "straggle",
+        "propagate"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sprawl 与近义词辨析",
+      "synset_definition": "go, come, or spread in a rambling or irregular way",
       "t8_count": 4,
       "cas_score": 100
     }

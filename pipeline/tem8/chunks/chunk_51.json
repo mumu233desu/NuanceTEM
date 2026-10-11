@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 511,
+      "group_name": "righteous, good, just, sound",
+      "target_word": "righteous",
+      "words": [
+        "righteous",
+        "good",
+        "just",
+        "sound"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "righteous 与近义词辨析",
+      "synset_definition": "characterized by or proceeding from accepted standards of morality or justice; - James 5:16",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 512,
       "group_name": "ruddy, red, ruby, cherry",
       "target_word": "ruddy",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 512,
+      "group_id": 513,
       "group_name": "rum, odd, funny, queer",
       "target_word": "rum",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 513,
+      "group_id": 514,
       "group_name": "salient, striking, prominent, outstanding",
       "target_word": "salient",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 514,
+      "group_id": 515,
       "group_name": "stark, blunt, crude, unconditional",
       "target_word": "stark",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 515,
+      "group_id": 516,
       "group_name": "stately, noble, imposing, impressive",
       "target_word": "stately",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 516,
+      "group_id": 517,
       "group_name": "uncouth, coarse, common, vulgar",
       "target_word": "uncouth",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 517,
+      "group_id": 518,
       "group_name": "unequivocal, absolute, unquestionable, straightforward",
       "target_word": "unequivocal",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 518,
+      "group_id": 519,
       "group_name": "unparalleled, alone, unique, incomparable",
       "target_word": "unparalleled",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 519,
+      "group_id": 520,
       "group_name": "vernal, young, youthful, immature",
       "target_word": "vernal",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "vernal 与近义词辨析",
       "synset_definition": "suggestive of youth; vigorous and fresh",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 520,
-      "group_name": "viable, feasible, possible, practicable",
-      "target_word": "viable",
-      "words": [
-        "viable",
-        "feasible",
-        "possible",
-        "practicable"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "viable 与近义词辨析",
-      "synset_definition": "capable of being done with means at hand and circumstances as they are",
       "t8_count": 1,
       "cas_score": 78
     }

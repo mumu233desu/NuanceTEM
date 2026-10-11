@@ -3,7 +3,7 @@ import re
 from typing import Any, Dict, List, Tuple
 from .config import CONFIG
 from .client import LLMClient
-from .prompts import SYSTEM_PROMPT_REVIEWER, build_reviewer_user_prompt
+from .prompts import SYSTEM_PROMPT_REVIEWER, build_reviewer_user_prompt, extract_json
 
 class ExclusivityReviewer:
     """
@@ -27,13 +27,7 @@ class ExclusivityReviewer:
                 use_cache=True
             )
 
-            # 清理可能的 markdown 标记
-            clean_resp = raw_resp.strip()
-            if clean_resp.startswith("```"):
-                clean_resp = re.sub(r"^```(?:json)?\s*", "", clean_resp)
-                clean_resp = re.sub(r"\s*```$", "", clean_resp)
-
-            audit_res = json.loads(clean_resp.strip())
+            audit_res = extract_json(raw_resp)
             passed = audit_res.get("passed", False)
             score = audit_res.get("score", 0)
             issues = audit_res.get("issues", [])

@@ -6,183 +6,183 @@
   "clusters": [
     {
       "group_id": 681,
-      "group_name": "squirm, waver, wiggle, quiver",
-      "target_word": "squirm",
+      "group_name": "countenance, mar, visage, blemish",
+      "target_word": "countenance",
       "words": [
-        "squirm",
-        "waver",
-        "wiggle",
-        "quiver"
+        "countenance",
+        "mar",
+        "visage",
+        "blemish"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "squirm 与近义词辨析",
-      "synset_definition": "the act of wiggling",
+      "theme_label": "countenance 与近义词辨析",
+      "synset_definition": "the appearance conveyed by a person's face",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 682,
-      "group_name": "stereotype, blur, fuzz, schema",
-      "target_word": "stereotype",
+      "group_name": "divine, parson, rector, chaplain",
+      "target_word": "divine",
       "words": [
-        "stereotype",
-        "blur",
-        "fuzz",
-        "schema"
+        "divine",
+        "parson",
+        "rector",
+        "chaplain"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "stereotype 与近义词辨析",
-      "synset_definition": "a conventional or formulaic conception or image",
+      "theme_label": "divine 与近义词辨析",
+      "synset_definition": "a clergyman or other person in religious orders",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 683,
-      "group_name": "straddle, waver, quiver, flicker",
-      "target_word": "straddle",
+      "group_name": "drool, humbug, gibber, gibberish",
+      "target_word": "drool",
       "words": [
-        "straddle",
-        "waver",
-        "quiver",
-        "flicker"
+        "drool",
+        "humbug",
+        "gibber",
+        "gibberish"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "straddle 与近义词辨析",
-      "synset_definition": "the act of sitting or standing astride",
+      "theme_label": "drool 与近义词辨析",
+      "synset_definition": "pretentious or silly talk or writing",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 684,
-      "group_name": "transient, rover, flier, flyer",
-      "target_word": "transient",
+      "group_name": "duet, duo, quartet, quintet",
+      "target_word": "duet",
       "words": [
-        "transient",
-        "rover",
-        "flier",
-        "flyer"
+        "duet",
+        "duo",
+        "quartet",
+        "quintet"
       ],
       "pos": "n",
-      "field": "FIELD_NATURE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "transient 与近义词辨析",
-      "synset_definition": "one who stays for only a short time",
+      "theme_label": "duet 与近义词辨析",
+      "synset_definition": "two performers or singers who perform together",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 685,
-      "group_name": "turning, wring, rebound, repercussion",
-      "target_word": "turning",
+      "group_name": "ensemble, mound, fauna, corpus",
+      "target_word": "ensemble",
       "words": [
-        "turning",
-        "wring",
-        "rebound",
-        "repercussion"
+        "ensemble",
+        "mound",
+        "fauna",
+        "corpus"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "turning 与近义词辨析",
-      "synset_definition": "a movement in a new direction",
+      "theme_label": "ensemble 与近义词辨析",
+      "synset_definition": "an assemblage of parts or details (as in a work of art) considered as forming a whole",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 686,
-      "group_name": "wrench, rupture, frostbite, hemorrhage",
-      "target_word": "wrench",
+      "group_name": "figurehead, sham, pseudo, impostor",
+      "target_word": "figurehead",
       "words": [
-        "wrench",
-        "rupture",
-        "frostbite",
-        "hemorrhage"
+        "figurehead",
+        "sham",
+        "pseudo",
+        "impostor"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "wrench 与近义词辨析",
-      "synset_definition": "a sharp strain on muscles or ligaments",
+      "theme_label": "figurehead 与近义词辨析",
+      "synset_definition": "a person used as a cover for some questionable activity",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 687,
-      "group_name": "wriggle, waver, wiggle, squirm",
-      "target_word": "wriggle",
+      "group_name": "fissure, sag, furrow, crease",
+      "target_word": "fissure",
       "words": [
-        "wriggle",
-        "waver",
-        "wiggle",
-        "squirm"
+        "fissure",
+        "sag",
+        "furrow",
+        "crease"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "wriggle 与近义词辨析",
-      "synset_definition": "the act of wiggling",
+      "theme_label": "fissure 与近义词辨析",
+      "synset_definition": "a long narrow depression in a surface",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 688,
-      "group_name": "abrasive, rind, adhesive, foam",
-      "target_word": "abrasive",
+      "group_name": "fitting, drape, mantle, drapery",
+      "target_word": "fitting",
       "words": [
-        "abrasive",
-        "rind",
-        "adhesive",
-        "foam"
+        "fitting",
+        "drape",
+        "mantle",
+        "drapery"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "abrasive 与近义词辨析",
-      "synset_definition": "a substance that abrades or wears down",
-      "t8_count": 3,
-      "cas_score": 85
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "fitting 与近义词辨析",
+      "synset_definition": "(usually plural) furnishings and equipment (especially for a ship or hotel)",
+      "t8_count": 4,
+      "cas_score": 89
     },
     {
       "group_id": 689,
-      "group_name": "affinity, lineage, parentage, birth",
-      "target_word": "affinity",
+      "group_name": "flicker, flit, waver, wiggle",
+      "target_word": "flicker",
       "words": [
-        "affinity",
-        "lineage",
-        "parentage",
-        "birth"
+        "flicker",
+        "flit",
+        "waver",
+        "wiggle"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "affinity 与近义词辨析",
-      "synset_definition": "(anthropology) kinship by marriage or adoption; not a blood relationship",
-      "t8_count": 3,
-      "cas_score": 85
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flicker 与近义词辨析",
+      "synset_definition": "the act of moving back and forth",
+      "t8_count": 4,
+      "cas_score": 89
     },
     {
       "group_id": 690,
-      "group_name": "abase, affront, sting, humble",
-      "target_word": "abase",
+      "group_name": "flit, wiggle, squirm, wriggle",
+      "target_word": "flit",
       "words": [
-        "abase",
-        "affront",
-        "sting",
-        "humble"
+        "flit",
+        "wiggle",
+        "squirm",
+        "wriggle"
       ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "abase 与近义词辨析",
-      "synset_definition": "cause to feel shame; hurt the pride of",
-      "t8_count": 2,
-      "cas_score": 84
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "flit 与近义词辨析",
+      "synset_definition": "a sudden quick movement",
+      "t8_count": 4,
+      "cas_score": 89
     }
   ]
 }

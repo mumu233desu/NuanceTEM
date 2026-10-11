@@ -6,6 +6,42 @@
   "clusters": [
     {
       "group_id": 491,
+      "group_name": "fateful, black, fatal, disastrous",
+      "target_word": "fateful",
+      "words": [
+        "fateful",
+        "black",
+        "fatal",
+        "disastrous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fateful 与近义词辨析",
+      "synset_definition": "(of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - Charles Darwin; - Douglas MacArthur",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 492,
+      "group_name": "flagrant, rank, gross, glaring",
+      "target_word": "flagrant",
+      "words": [
+        "flagrant",
+        "rank",
+        "gross",
+        "glaring"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "flagrant 与近义词辨析",
+      "synset_definition": "conspicuously and outrageously bad or reprehensible",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 493,
       "group_name": "genteel, polite, refined, cultivated",
       "target_word": "genteel",
       "words": [
@@ -23,7 +59,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 492,
+      "group_id": 494,
       "group_name": "hapless, poor, pathetic, wretched",
       "target_word": "hapless",
       "words": [
@@ -41,7 +77,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 493,
+      "group_id": 495,
       "group_name": "homogeneous, solid, uniform, consistent",
       "target_word": "homogeneous",
       "words": [
@@ -59,7 +95,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 494,
+      "group_id": 496,
       "group_name": "impenetrable, dense, heavy, thick",
       "target_word": "impenetrable",
       "words": [
@@ -77,7 +113,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 495,
+      "group_id": 497,
       "group_name": "incarnate, corporal, material, corporate",
       "target_word": "incarnate",
       "words": [
@@ -95,25 +131,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 496,
-      "group_name": "incoming, in, elect, designate",
-      "target_word": "incoming",
-      "words": [
-        "incoming",
-        "in",
-        "elect",
-        "designate"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "incoming 与近义词辨析",
-      "synset_definition": "arriving at a place or position",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 497,
+      "group_id": 498,
       "group_name": "inglorious, black, shameful, disgraceful",
       "target_word": "inglorious",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 498,
+      "group_id": 499,
       "group_name": "innate, born, natural, intelligent",
       "target_word": "innate",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 499,
+      "group_id": 500,
       "group_name": "inordinate, undue, excessive, unreasonable",
       "target_word": "inordinate",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "inordinate 与近义词辨析",
       "synset_definition": "beyond normal limits",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 500,
-      "group_name": "interminable, long, endless, eternal",
-      "target_word": "interminable",
-      "words": [
-        "interminable",
-        "long",
-        "endless",
-        "eternal"
-      ],
-      "pos": "adj",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "interminable 与近义词辨析",
-      "synset_definition": "tiresomely long; seemingly without end",
       "t8_count": 1,
       "cas_score": 78
     }

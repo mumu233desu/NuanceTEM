@@ -6,132 +6,6 @@
   "clusters": [
     {
       "group_id": 201,
-      "group_name": "bleep, rap, thud, drone",
-      "target_word": "bleep",
-      "words": [
-        "bleep",
-        "rap",
-        "thud",
-        "drone"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bleep 与近义词辨析",
-      "synset_definition": "emit a single short high-pitched signal",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 202,
-      "group_name": "blemish, sully, taint, deface",
-      "target_word": "blemish",
-      "words": [
-        "blemish",
-        "sully",
-        "taint",
-        "deface"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "blemish 与近义词辨析",
-      "synset_definition": "mar or spoil the appearance of",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 203,
-      "group_name": "bootleg, undercut, undersell, auctioneer",
-      "target_word": "bootleg",
-      "words": [
-        "bootleg",
-        "undercut",
-        "undersell",
-        "auctioneer"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bootleg 与近义词辨析",
-      "synset_definition": "sell illicit products such as drugs or alcohol",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 204,
-      "group_name": "buff, slick, sleek, gloss",
-      "target_word": "buff",
-      "words": [
-        "buff",
-        "slick",
-        "sleek",
-        "gloss"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "buff 与近义词辨析",
-      "synset_definition": "polish and make shiny",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 205,
-      "group_name": "bulge, furl, flex, pouch",
-      "target_word": "bulge",
-      "words": [
-        "bulge",
-        "furl",
-        "flex",
-        "pouch"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bulge 与近义词辨析",
-      "synset_definition": "swell or protrude outwards",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 206,
-      "group_name": "bunk, juggle, surcharge, victimize",
-      "target_word": "bunk",
-      "words": [
-        "bunk",
-        "juggle",
-        "surcharge",
-        "victimize"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bunk 与近义词辨析",
-      "synset_definition": "avoid paying",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 207,
-      "group_name": "bustle, swoop, fidget, flurry",
-      "target_word": "bustle",
-      "words": [
-        "bustle",
-        "swoop",
-        "fidget",
-        "flurry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bustle 与近义词辨析",
-      "synset_definition": "move or cause to move energetically or busily",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 208,
       "group_name": "buzz, rap, thud, drone",
       "target_word": "buzz",
       "words": [
@@ -149,14 +23,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 209,
-      "group_name": "bypass, shun, fudge, evade",
+      "group_id": 202,
+      "group_name": "bypass, shun, shirk, fudge",
       "target_word": "bypass",
       "words": [
         "bypass",
         "shun",
-        "fudge",
-        "evade"
+        "shirk",
+        "fudge"
       ],
       "pos": "v",
       "field": "FIELD_BEHAVIOR",
@@ -167,20 +41,146 @@
       "cas_score": 96
     },
     {
-      "group_id": 210,
-      "group_name": "cackle, blurt, whiff, snarl",
+      "group_id": 203,
+      "group_name": "cackle, blurt, whiff, snivel",
       "target_word": "cackle",
       "words": [
         "cackle",
         "blurt",
         "whiff",
-        "snarl"
+        "snivel"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "cackle 与近义词辨析",
       "synset_definition": "talk or utter in a cackling manner",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 204,
+      "group_name": "censure, snipe, assail, deplore",
+      "target_word": "censure",
+      "words": [
+        "censure",
+        "snipe",
+        "assail",
+        "deplore"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "censure 与近义词辨析",
+      "synset_definition": "rebuke formally",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 205,
+      "group_name": "chime, rap, thud, drone",
+      "target_word": "chime",
+      "words": [
+        "chime",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "chime 与近义词辨析",
+      "synset_definition": "emit a sound",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 206,
+      "group_name": "chirp, hoot, squall, gobble",
+      "target_word": "chirp",
+      "words": [
+        "chirp",
+        "hoot",
+        "squall",
+        "gobble"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "chirp 与近义词辨析",
+      "synset_definition": "make high-pitched sounds",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 207,
+      "group_name": "chuck, waive, forego, forfeit",
+      "target_word": "chuck",
+      "words": [
+        "chuck",
+        "waive",
+        "forego",
+        "forfeit"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "chuck 与近义词辨析",
+      "synset_definition": "throw away",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 208,
+      "group_name": "collude, conspire, affiliate, condescend",
+      "target_word": "collude",
+      "words": [
+        "collude",
+        "conspire",
+        "affiliate",
+        "condescend"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "collude 与近义词辨析",
+      "synset_definition": "act in unison or agreement and in secret towards a deceitful or illegal purpose",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 209,
+      "group_name": "con, diddle, defraud, victimize",
+      "target_word": "con",
+      "words": [
+        "con",
+        "diddle",
+        "defraud",
+        "victimize"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "con 与近义词辨析",
+      "synset_definition": "deprive of by deceit",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 210,
+      "group_name": "consign, waive, chuck, forego",
+      "target_word": "consign",
+      "words": [
+        "consign",
+        "waive",
+        "chuck",
+        "forego"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "consign 与近义词辨析",
+      "synset_definition": "commit forever; commit irrevocably",
       "t8_count": 4,
       "cas_score": 96
     }

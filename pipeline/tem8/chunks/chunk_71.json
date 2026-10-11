@@ -6,78 +6,6 @@
   "clusters": [
     {
       "group_id": 711,
-      "group_name": "allude, insinuate, touch, intimate",
-      "target_word": "allude",
-      "words": [
-        "allude",
-        "insinuate",
-        "touch",
-        "intimate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "allude 与近义词辨析",
-      "synset_definition": "make a more or less disguised reference to",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 712,
-      "group_name": "amalgamate, mix, unify, mingle",
-      "target_word": "amalgamate",
-      "words": [
-        "amalgamate",
-        "mix",
-        "unify",
-        "mingle"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "amalgamate 与近义词辨析",
-      "synset_definition": "to bring or combine together or with something else",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 713,
-      "group_name": "amass, accrue, add, wax",
-      "target_word": "amass",
-      "words": [
-        "amass",
-        "accrue",
-        "add",
-        "wax"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "amass 与近义词辨析",
-      "synset_definition": "collect or gather",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 714,
-      "group_name": "anagram, decipher, skim, trace",
-      "target_word": "anagram",
-      "words": [
-        "anagram",
-        "decipher",
-        "skim",
-        "trace"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "anagram 与近义词辨析",
-      "synset_definition": "read letters out of order to discover a hidden meaning",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 715,
       "group_name": "anguish, lose, grieve, sorrow",
       "target_word": "anguish",
       "words": [
@@ -95,7 +23,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 716,
+      "group_id": 712,
       "group_name": "annihilate, decimate, eliminate, eradicate",
       "target_word": "annihilate",
       "words": [
@@ -113,7 +41,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 717,
+      "group_id": 713,
       "group_name": "apparel, unwind, burn, thin",
       "target_word": "apparel",
       "words": [
@@ -131,7 +59,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 718,
+      "group_id": 714,
       "group_name": "append, tether, tag, nail",
       "target_word": "append",
       "words": [
@@ -149,7 +77,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 719,
+      "group_id": 715,
       "group_name": "appraise, value, assess, measure",
       "target_word": "appraise",
       "words": [
@@ -167,7 +95,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 720,
+      "group_id": 716,
       "group_name": "apprehend, dig, grasp, compass",
       "target_word": "apprehend",
       "words": [
@@ -183,6 +111,78 @@
       "synset_definition": "get the meaning of something",
       "t8_count": 1,
       "cas_score": 74
+    },
+    {
+      "group_id": 717,
+      "group_name": "ascertain, see, check, insure",
+      "target_word": "ascertain",
+      "words": [
+        "ascertain",
+        "see",
+        "check",
+        "insure"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ascertain 与近义词辨析",
+      "synset_definition": "be careful or certain to do something; make certain of something",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 718,
+      "group_name": "ascribe, attribute, rate, rank",
+      "target_word": "ascribe",
+      "words": [
+        "ascribe",
+        "attribute",
+        "rate",
+        "rank"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ascribe 与近义词辨析",
+      "synset_definition": "attribute or credit to",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 719,
+      "group_name": "assail, fence, war, tug",
+      "target_word": "assail",
+      "words": [
+        "assail",
+        "fence",
+        "war",
+        "tug"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "assail 与近义词辨析",
+      "synset_definition": "launch an attack or assault on; begin hostilities or start warfare with",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 720,
+      "group_name": "attest, certify, manifest, evidence",
+      "target_word": "attest",
+      "words": [
+        "attest",
+        "certify",
+        "manifest",
+        "evidence"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "attest 与近义词辨析",
+      "synset_definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+      "t8_count": 2,
+      "cas_score": 84
     }
   ]
 }

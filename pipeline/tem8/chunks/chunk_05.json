@@ -6,42 +6,6 @@
   "clusters": [
     {
       "group_id": 51,
-      "group_name": "depreciate, wane, flag, remit",
-      "target_word": "depreciate",
-      "words": [
-        "depreciate",
-        "wane",
-        "flag",
-        "remit"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "depreciate 与近义词辨析",
-      "synset_definition": "lose in value",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 52,
-      "group_name": "disarray, lighten, exacerbate, exasperate",
-      "target_word": "disarray",
-      "words": [
-        "disarray",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "disarray 与近义词辨析",
-      "synset_definition": "bring disorder to",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 53,
       "group_name": "disentangle, mousse, cleanse, manicure",
       "target_word": "disentangle",
       "words": [
@@ -59,43 +23,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 54,
-      "group_name": "domesticate, lighten, exacerbate, exasperate",
-      "target_word": "domesticate",
-      "words": [
-        "domesticate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "domesticate 与近义词辨析",
-      "synset_definition": "overcome the wildness of; make docile and tractable",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 55,
-      "group_name": "dope, lighten, exacerbate, exasperate",
-      "target_word": "dope",
-      "words": [
-        "dope",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_CHANGE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dope 与近义词辨析",
-      "synset_definition": "add impurities to (a semiconductor) in order to produce or modify its properties",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 56,
+      "group_id": 52,
       "group_name": "down, lurch, trounce, vanquish",
       "target_word": "down",
       "words": [
@@ -113,25 +41,7 @@
       "cas_score": 100
     },
     {
-      "group_id": 57,
-      "group_name": "drape, mantle, shroud, smother",
-      "target_word": "drape",
-      "words": [
-        "drape",
-        "mantle",
-        "shroud",
-        "smother"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "drape 与近义词辨析",
-      "synset_definition": "cover as if with clothing",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 58,
+      "group_id": 53,
       "group_name": "drench, nurture, procure, gratify",
       "target_word": "drench",
       "words": [
@@ -149,14 +59,14 @@
       "cas_score": 100
     },
     {
-      "group_id": 59,
-      "group_name": "ejaculate, blurt, whiff, snarl",
+      "group_id": 54,
+      "group_name": "ejaculate, blurt, whiff, snivel",
       "target_word": "ejaculate",
       "words": [
         "ejaculate",
         "blurt",
         "whiff",
-        "snarl"
+        "snivel"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -167,20 +77,110 @@
       "cas_score": 100
     },
     {
-      "group_id": 60,
-      "group_name": "eject, banish, relegate, extradite",
-      "target_word": "eject",
+      "group_id": 55,
+      "group_name": "electrify, clog, deluge, clutter",
+      "target_word": "electrify",
       "words": [
-        "eject",
-        "banish",
-        "relegate",
-        "extradite"
+        "electrify",
+        "clog",
+        "deluge",
+        "clutter"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "electrify 与近义词辨析",
+      "synset_definition": "charge (a conductor) with electricity",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 56,
+      "group_name": "electrocute, fry, lynch, liquidate",
+      "target_word": "electrocute",
+      "words": [
+        "electrocute",
+        "fry",
+        "lynch",
+        "liquidate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "eject 与近义词辨析",
-      "synset_definition": "put out or expel from a place",
+      "theme_label": "electrocute 与近义词辨析",
+      "synset_definition": "kill by electrocution, as in the electric chair",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 57,
+      "group_name": "embezzle, loot, pinch, swipe",
+      "target_word": "embezzle",
+      "words": [
+        "embezzle",
+        "loot",
+        "pinch",
+        "swipe"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "embezzle 与近义词辨析",
+      "synset_definition": "appropriate (as property entrusted to one's care) fraudulently to one's own use",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 58,
+      "group_name": "embody, retard, incarnate, substantiate",
+      "target_word": "embody",
+      "words": [
+        "embody",
+        "retard",
+        "incarnate",
+        "substantiate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "embody 与近义词辨析",
+      "synset_definition": "represent in bodily form",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 59,
+      "group_name": "enliven, liven, animate, invigorate",
+      "target_word": "enliven",
+      "words": [
+        "enliven",
+        "liven",
+        "animate",
+        "invigorate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "enliven 与近义词辨析",
+      "synset_definition": "make lively",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 60,
+      "group_name": "enrage, irk, madden, incense",
+      "target_word": "enrage",
+      "words": [
+        "enrage",
+        "irk",
+        "madden",
+        "incense"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "enrage 与近义词辨析",
+      "synset_definition": "put into a rage; make violently angry",
       "t8_count": 4,
       "cas_score": 100
     }

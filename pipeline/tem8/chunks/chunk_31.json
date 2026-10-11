@@ -6,6 +6,42 @@
   "clusters": [
     {
       "group_id": 311,
+      "group_name": "conflate, flux, fuse, mix",
+      "target_word": "conflate",
+      "words": [
+        "conflate",
+        "flux",
+        "fuse",
+        "mix"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "conflate 与近义词辨析",
+      "synset_definition": "mix together different elements",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 312,
+      "group_name": "conjure, evoke, invoke, stir",
+      "target_word": "conjure",
+      "words": [
+        "conjure",
+        "evoke",
+        "invoke",
+        "stir"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "conjure 与近义词辨析",
+      "synset_definition": "summon into action or bring into existence, often as if by magic",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 313,
       "group_name": "conspire, conjure, intrigue, scheme",
       "target_word": "conspire",
       "words": [
@@ -23,7 +59,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 312,
+      "group_id": 314,
       "group_name": "contemplate, muse, meditate, ponder",
       "target_word": "contemplate",
       "words": [
@@ -41,7 +77,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 313,
+      "group_id": 315,
       "group_name": "contrive, forge, formulate, invent",
       "target_word": "contrive",
       "words": [
@@ -59,79 +95,61 @@
       "cas_score": 92
     },
     {
-      "group_id": 314,
-      "group_name": "counteract, subvert, sabotage, weaken",
+      "group_id": 316,
+      "group_name": "counteract, antagonize, reciprocate, deal",
       "target_word": "counteract",
       "words": [
         "counteract",
-        "subvert",
-        "sabotage",
-        "weaken"
+        "antagonize",
+        "reciprocate",
+        "deal"
       ],
       "pos": "v",
       "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "counteract 与近义词辨析",
-      "synset_definition": "destroy property or hinder normal operations",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 315,
-      "group_name": "critique, ascribe, attribute, rate",
-      "target_word": "critique",
-      "words": [
-        "critique",
-        "ascribe",
-        "attribute",
-        "rate"
-      ],
-      "pos": "v",
-      "field": "FIELD_STANCE",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "critique 与近义词辨析",
-      "synset_definition": "appraise critically",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 316,
-      "group_name": "croak, perish, decease, go",
-      "target_word": "croak",
-      "words": [
-        "croak",
-        "perish",
-        "decease",
-        "go"
-      ],
-      "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "croak 与近义词辨析",
-      "synset_definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "synset_definition": "act in opposition to",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 317,
-      "group_name": "culminate, lapse, adjourn, break",
-      "target_word": "culminate",
+      "group_name": "cudgel, thump, swipe, bat",
+      "target_word": "cudgel",
       "words": [
-        "culminate",
-        "lapse",
-        "adjourn",
-        "break"
+        "cudgel",
+        "thump",
+        "swipe",
+        "bat"
       ],
       "pos": "v",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "culminate 与近义词辨析",
-      "synset_definition": "end, especially to reach a final or climactic stage",
+      "theme_label": "cudgel 与近义词辨析",
+      "synset_definition": "strike with a cudgel",
       "t8_count": 3,
       "cas_score": 92
     },
     {
       "group_id": 318,
+      "group_name": "culminate, abort, adjudicate, stop",
+      "target_word": "culminate",
+      "words": [
+        "culminate",
+        "abort",
+        "adjudicate",
+        "stop"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "culminate 与近义词辨析",
+      "synset_definition": "bring to a head or to the highest point",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 319,
       "group_name": "dab, jab, hew, pat",
       "target_word": "dab",
       "words": [
@@ -149,38 +167,20 @@
       "cas_score": 92
     },
     {
-      "group_id": 319,
-      "group_name": "debase, pervert, subvert, corrupt",
-      "target_word": "debase",
-      "words": [
-        "debase",
-        "pervert",
-        "subvert",
-        "corrupt"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "debase 与近义词辨析",
-      "synset_definition": "corrupt morally or by intemperance or sensuality",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
       "group_id": 320,
-      "group_name": "decoy, snare, seduce, hook",
-      "target_word": "decoy",
+      "group_name": "deaden, slit, girdle, worry",
+      "target_word": "deaden",
       "words": [
-        "decoy",
-        "snare",
-        "seduce",
-        "hook"
+        "deaden",
+        "slit",
+        "girdle",
+        "worry"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "decoy 与近义词辨析",
-      "synset_definition": "lure or entrap with or as if with a decoy",
+      "theme_label": "deaden 与近义词辨析",
+      "synset_definition": "cut a girdle around so as to kill by interrupting the circulation of water and nutrients",
       "t8_count": 3,
       "cas_score": 92
     }

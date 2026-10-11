@@ -6,6 +6,60 @@
   "clusters": [
     {
       "group_id": 361,
+      "group_name": "clandestine, covert, surreptitious, secret",
+      "target_word": "clandestine",
+      "words": [
+        "clandestine",
+        "covert",
+        "surreptitious",
+        "secret"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "clandestine 与近义词辨析",
+      "synset_definition": "conducted with or marked by hidden aims or methods",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 362,
+      "group_name": "corpulent, obese, weighty, fat",
+      "target_word": "corpulent",
+      "words": [
+        "corpulent",
+        "obese",
+        "weighty",
+        "fat"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "corpulent 与近义词辨析",
+      "synset_definition": "excessively fat",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 363,
+      "group_name": "degenerate, dissolute, dissipated, fast",
+      "target_word": "degenerate",
+      "words": [
+        "degenerate",
+        "dissolute",
+        "dissipated",
+        "fast"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "degenerate 与近义词辨析",
+      "synset_definition": "unrestrained by convention or morality",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 364,
       "group_name": "despicable, vile, slimy, ugly",
       "target_word": "despicable",
       "words": [
@@ -23,7 +77,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 362,
+      "group_id": 365,
       "group_name": "dispirited, down, downhearted, low",
       "target_word": "dispirited",
       "words": [
@@ -41,25 +95,25 @@
       "cas_score": 92
     },
     {
-      "group_id": 363,
-      "group_name": "elated, sublime, jubilant, high",
-      "target_word": "elated",
+      "group_id": 366,
+      "group_name": "domineering, autocratic, authoritarian, bossy",
+      "target_word": "domineering",
       "words": [
-        "elated",
-        "sublime",
-        "jubilant",
-        "high"
+        "domineering",
+        "autocratic",
+        "authoritarian",
+        "bossy"
       ],
       "pos": "adj",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "elated 与近义词辨析",
-      "synset_definition": "exultantly proud and joyful; in high spirits",
+      "theme_label": "domineering 与近义词辨析",
+      "synset_definition": "tending to domineer",
       "t8_count": 3,
       "cas_score": 92
     },
     {
-      "group_id": 364,
+      "group_id": 367,
       "group_name": "emaciated, gaunt, haggard, bony",
       "target_word": "emaciated",
       "words": [
@@ -77,7 +131,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 365,
+      "group_id": 368,
       "group_name": "evocative, redolent, reminiscent, aware",
       "target_word": "evocative",
       "words": [
@@ -95,25 +149,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 366,
-      "group_name": "fastidious, finicky, meticulous, fussy",
-      "target_word": "fastidious",
-      "words": [
-        "fastidious",
-        "finicky",
-        "meticulous",
-        "fussy"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "fastidious 与近义词辨析",
-      "synset_definition": "giving careful attention to detail; hard to please; excessively concerned with cleanliness",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 367,
+      "group_id": 369,
       "group_name": "florid, ruddy, sanguine, healthy",
       "target_word": "florid",
       "words": [
@@ -131,56 +167,20 @@
       "cas_score": 92
     },
     {
-      "group_id": 368,
-      "group_name": "heady, prudent, judicious, wise",
-      "target_word": "heady",
-      "words": [
-        "heady",
-        "prudent",
-        "judicious",
-        "wise"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "heady 与近义词辨析",
-      "synset_definition": "marked by the exercise of good judgment or common sense in practical matters",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 369,
-      "group_name": "heretical, heterodox, unorthodox, dissident",
-      "target_word": "heretical",
-      "words": [
-        "heretical",
-        "heterodox",
-        "unorthodox",
-        "dissident"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "heretical 与近义词辨析",
-      "synset_definition": "characterized by departure from accepted beliefs or standards",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
       "group_id": 370,
-      "group_name": "horrid, horrific, offensive, hideous",
-      "target_word": "horrid",
+      "group_name": "frivolous, flighty, flippant, light",
+      "target_word": "frivolous",
       "words": [
-        "horrid",
-        "horrific",
-        "offensive",
-        "hideous"
+        "frivolous",
+        "flighty",
+        "flippant",
+        "light"
       ],
       "pos": "adj",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "horrid 与近义词辨析",
-      "synset_definition": "grossly offensive to decency or morality; causing horror",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "frivolous 与近义词辨析",
+      "synset_definition": "not serious in content or attitude or behavior",
       "t8_count": 3,
       "cas_score": 92
     }

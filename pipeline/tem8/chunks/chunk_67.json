@@ -6,154 +6,154 @@
   "clusters": [
     {
       "group_id": 671,
-      "group_name": "quadruple, quartet, nucleus, portfolio",
-      "target_word": "quadruple",
+      "group_name": "trauma, hypnosis, vexation, agitation",
+      "target_word": "trauma",
       "words": [
-        "quadruple",
-        "quartet",
-        "nucleus",
-        "portfolio"
+        "trauma",
+        "hypnosis",
+        "vexation",
+        "agitation"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "quadruple 与近义词辨析",
-      "synset_definition": "a set of four similar things considered as a unit",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "trauma 与近义词辨析",
+      "synset_definition": "an emotional wound or shock often having long-lasting effects",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 672,
-      "group_name": "rapist, rowdy, ruffian, vulture",
-      "target_word": "rapist",
+      "group_name": "vanguard, corps, infantry, battalion",
+      "target_word": "vanguard",
       "words": [
-        "rapist",
-        "rowdy",
-        "ruffian",
-        "vulture"
+        "vanguard",
+        "corps",
+        "infantry",
+        "battalion"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "rapist 与近义词辨析",
-      "synset_definition": "someone who forces another to have sexual intercourse",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vanguard 与近义词辨析",
+      "synset_definition": "the leading units moving at the head of an army",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 673,
-      "group_name": "revoke, blunder, oversight, incursion",
-      "target_word": "revoke",
+      "group_name": "vulture, rowdy, ruffian, hooligan",
+      "target_word": "vulture",
       "words": [
-        "revoke",
-        "blunder",
-        "oversight",
-        "incursion"
+        "vulture",
+        "rowdy",
+        "ruffian",
+        "hooligan"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "revoke 与近义词辨析",
-      "synset_definition": "the mistake of not following suit when able to do so",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "vulture 与近义词辨析",
+      "synset_definition": "someone who attacks in search of booty",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 674,
-      "group_name": "ruckus, din, havoc, turmoil",
-      "target_word": "ruckus",
+      "group_name": "waddle, strut, lurch, stalk",
+      "target_word": "waddle",
       "words": [
-        "ruckus",
-        "din",
-        "havoc",
-        "turmoil"
-      ],
-      "pos": "n",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "ruckus 与近义词辨析",
-      "synset_definition": "the act of making a noisy disturbance",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 675,
-      "group_name": "scholastic, stoic, cynic, existentialist",
-      "target_word": "scholastic",
-      "words": [
-        "scholastic",
-        "stoic",
-        "cynic",
-        "existentialist"
-      ],
-      "pos": "n",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "scholastic 与近义词辨析",
-      "synset_definition": "a Scholastic philosopher or theologian",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 676,
-      "group_name": "scowl, gape, snarl, wince",
-      "target_word": "scowl",
-      "words": [
-        "scowl",
-        "gape",
-        "snarl",
-        "wince"
+        "waddle",
+        "strut",
+        "lurch",
+        "stalk"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "waddle 与近义词辨析",
+      "synset_definition": "walking with short steps and the weight tilting from one foot to the other",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 675,
+      "group_name": "whack, rap, patter, quaver",
+      "target_word": "whack",
+      "words": [
+        "whack",
+        "rap",
+        "patter",
+        "quaver"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "whack 与近义词辨析",
+      "synset_definition": "the sound made by a sharp swift blow",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 676,
+      "group_name": "arcade, hull, mound, hangar",
+      "target_word": "arcade",
+      "words": [
+        "arcade",
+        "hull",
+        "mound",
+        "hangar"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "scowl 与近义词辨析",
-      "synset_definition": "a facial expression of dislike or displeasure",
+      "theme_label": "arcade 与近义词辨析",
+      "synset_definition": "a structure composed of a series of arches supported by columns",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 677,
-      "group_name": "semblance, foil, inset, montage",
-      "target_word": "semblance",
+      "group_name": "baritone, tuba, trump, cornet",
+      "target_word": "baritone",
       "words": [
-        "semblance",
-        "foil",
-        "inset",
-        "montage"
+        "baritone",
+        "tuba",
+        "trump",
+        "cornet"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "semblance 与近义词辨析",
-      "synset_definition": "picture consisting of a graphic image of a person or thing",
+      "theme_label": "baritone 与近义词辨析",
+      "synset_definition": "the second lowest brass wind instrument",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 678,
-      "group_name": "shove, jog, boost, nudge",
-      "target_word": "shove",
+      "group_name": "blackout, trance, stupor, stupefaction",
+      "target_word": "blackout",
       "words": [
-        "shove",
-        "jog",
-        "boost",
-        "nudge"
+        "blackout",
+        "trance",
+        "stupor",
+        "stupefaction"
       ],
       "pos": "n",
       "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "shove 与近义词辨析",
-      "synset_definition": "the act of shoving (giving a push to someone or something)",
+      "theme_label": "blackout 与近义词辨析",
+      "synset_definition": "a momentary loss of consciousness",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 679,
-      "group_name": "smother, jumble, muddle, fuddle",
-      "target_word": "smother",
+      "group_name": "clutter, jumble, muddle, fuddle",
+      "target_word": "clutter",
       "words": [
-        "smother",
+        "clutter",
         "jumble",
         "muddle",
         "fuddle"
@@ -161,26 +161,26 @@
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "smother 与近义词辨析",
+      "theme_label": "clutter 与近义词辨析",
       "synset_definition": "a confused multitude of things",
       "t8_count": 4,
       "cas_score": 89
     },
     {
       "group_id": 680,
-      "group_name": "squawk, creak, rustle, squeak",
-      "target_word": "squawk",
+      "group_name": "contraceptive, prod, foil, buffer",
+      "target_word": "contraceptive",
       "words": [
-        "squawk",
-        "creak",
-        "rustle",
-        "squeak"
+        "contraceptive",
+        "prod",
+        "foil",
+        "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "squawk 与近义词辨析",
-      "synset_definition": "the noise of squawking",
+      "theme_label": "contraceptive 与近义词辨析",
+      "synset_definition": "an agent or device intended to prevent conception",
       "t8_count": 4,
       "cas_score": 89
     }

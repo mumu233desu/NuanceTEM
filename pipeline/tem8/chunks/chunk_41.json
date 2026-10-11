@@ -60,6 +60,24 @@
     },
     {
       "group_id": 414,
+      "group_name": "inarticulate, incoherent, dumb, mute",
+      "target_word": "inarticulate",
+      "words": [
+        "inarticulate",
+        "incoherent",
+        "dumb",
+        "mute"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "inarticulate 与近义词辨析",
+      "synset_definition": "without or deprived of the use of speech or words",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 415,
       "group_name": "incisive, perceptive, keen, acute",
       "target_word": "incisive",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 415,
+      "group_id": 416,
       "group_name": "intrinsic, inbuilt, inner, internal",
       "target_word": "intrinsic",
       "words": [
@@ -91,24 +109,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "intrinsic 与近义词辨析",
       "synset_definition": "belonging to a thing by its very nature; - John Dewey",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 416,
-      "group_name": "jubilant, elated, joyful, joyous",
-      "target_word": "jubilant",
-      "words": [
-        "jubilant",
-        "elated",
-        "joyful",
-        "joyous"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "jubilant 与近义词辨析",
-      "synset_definition": "full of high-spirited delight",
       "t8_count": 2,
       "cas_score": 84
     },
@@ -132,24 +132,6 @@
     },
     {
       "group_id": 418,
-      "group_name": "neurotic, maladjusted, hysteric, hysterical",
-      "target_word": "neurotic",
-      "words": [
-        "neurotic",
-        "maladjusted",
-        "hysteric",
-        "hysterical"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "neurotic 与近义词辨析",
-      "synset_definition": "affected with emotional disorder",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 419,
       "group_name": "operative, operational, good, effective",
       "target_word": "operative",
       "words": [
@@ -167,7 +149,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 420,
+      "group_id": 419,
       "group_name": "painstaking, scrupulous, careful, conscientious",
       "target_word": "painstaking",
       "words": [
@@ -181,6 +163,24 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "painstaking 与近义词辨析",
       "synset_definition": "characterized by extreme care and great effort",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 420,
+      "group_name": "precipitous, precipitate, hasty, hurried",
+      "target_word": "precipitous",
+      "words": [
+        "precipitous",
+        "precipitate",
+        "hasty",
+        "hurried"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "precipitous 与近义词辨析",
+      "synset_definition": "done with very great haste and without due deliberation; - Shakespeare; - Arthur Geddes",
       "t8_count": 2,
       "cas_score": 84
     }

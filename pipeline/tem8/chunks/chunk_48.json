@@ -6,6 +6,42 @@
   "clusters": [
     {
       "group_id": 481,
+      "group_name": "dandy, keen, neat, good",
+      "target_word": "dandy",
+      "words": [
+        "dandy",
+        "keen",
+        "neat",
+        "good"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dandy 与近义词辨析",
+      "synset_definition": "very good",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 482,
+      "group_name": "dapper, spruce, stylish, fashionable",
+      "target_word": "dapper",
+      "words": [
+        "dapper",
+        "spruce",
+        "stylish",
+        "fashionable"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dapper 与近义词辨析",
+      "synset_definition": "marked by up-to-dateness in dress and manners",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 483,
       "group_name": "demented, mad, sick, crazy",
       "target_word": "demented",
       "words": [
@@ -23,7 +59,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 482,
+      "group_id": 484,
       "group_name": "dumpy, squat, short, little",
       "target_word": "dumpy",
       "words": [
@@ -41,7 +77,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 483,
+      "group_id": 485,
       "group_name": "elusive, hard, tough, difficult",
       "target_word": "elusive",
       "words": [
@@ -59,7 +95,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 484,
+      "group_id": 486,
       "group_name": "equitable, just, fair, honest",
       "target_word": "equitable",
       "words": [
@@ -77,7 +113,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 485,
+      "group_id": 487,
       "group_name": "exotic, alien, foreign, strange",
       "target_word": "exotic",
       "words": [
@@ -95,7 +131,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 486,
+      "group_id": 488,
       "group_name": "expansive, grand, heroic, impressive",
       "target_word": "expansive",
       "words": [
@@ -113,7 +149,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 487,
+      "group_id": 489,
       "group_name": "expectant, big, great, large",
       "target_word": "expectant",
       "words": [
@@ -131,7 +167,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 488,
+      "group_id": 490,
       "group_name": "fallible, weak, frail, human",
       "target_word": "fallible",
       "words": [
@@ -145,42 +181,6 @@
       "primary_mechanism": "MECH_CONNOTATION",
       "theme_label": "fallible 与近义词辨析",
       "synset_definition": "wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 489,
-      "group_name": "fateful, black, fatal, disastrous",
-      "target_word": "fateful",
-      "words": [
-        "fateful",
-        "black",
-        "fatal",
-        "disastrous"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "fateful 与近义词辨析",
-      "synset_definition": "(of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - Charles Darwin; - Douglas MacArthur",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 490,
-      "group_name": "flagrant, rank, gross, glaring",
-      "target_word": "flagrant",
-      "words": [
-        "flagrant",
-        "rank",
-        "gross",
-        "glaring"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "flagrant 与近义词辨析",
-      "synset_definition": "conspicuously and outrageously bad or reprehensible",
       "t8_count": 1,
       "cas_score": 78
     }

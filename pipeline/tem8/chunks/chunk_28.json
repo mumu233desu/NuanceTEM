@@ -6,67 +6,13 @@
   "clusters": [
     {
       "group_id": 281,
-      "group_name": "thump, swoop, fidget, flurry",
-      "target_word": "thump",
-      "words": [
-        "thump",
-        "swoop",
-        "fidget",
-        "flurry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "thump 与近义词辨析",
-      "synset_definition": "move rhythmically",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 282,
-      "group_name": "tilt, swoop, fidget, flurry",
-      "target_word": "tilt",
-      "words": [
-        "tilt",
-        "swoop",
-        "fidget",
-        "flurry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "tilt 与近义词辨析",
-      "synset_definition": "heel over",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 283,
-      "group_name": "treble, chant, trill, chirp",
-      "target_word": "treble",
-      "words": [
-        "treble",
-        "chant",
-        "trill",
-        "chirp"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "treble 与近义词辨析",
-      "synset_definition": "sing treble",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 284,
-      "group_name": "trudge, wade, slink, mince",
+      "group_name": "trudge, wade, slink, slouch",
       "target_word": "trudge",
       "words": [
         "trudge",
         "wade",
         "slink",
-        "mince"
+        "slouch"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -77,7 +23,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 285,
+      "group_id": 282,
       "group_name": "unsettle, faze, unnerve, afflict",
       "target_word": "unsettle",
       "words": [
@@ -95,7 +41,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 286,
+      "group_id": 283,
       "group_name": "unwind, brace, cramp, energize",
       "target_word": "unwind",
       "words": [
@@ -113,7 +59,25 @@
       "cas_score": 96
     },
     {
-      "group_id": 287,
+      "group_id": 284,
+      "group_name": "wallow, waver, quiver, writhe",
+      "target_word": "wallow",
+      "words": [
+        "wallow",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wallow 与近义词辨析",
+      "synset_definition": "roll around,",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 285,
       "group_name": "whizz, rap, thud, drone",
       "target_word": "whizz",
       "words": [
@@ -131,14 +95,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 288,
-      "group_name": "wobble, swoop, fidget, flurry",
+      "group_id": 286,
+      "group_name": "wobble, waver, quiver, writhe",
       "target_word": "wobble",
       "words": [
         "wobble",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -149,25 +113,25 @@
       "cas_score": 96
     },
     {
-      "group_id": 289,
-      "group_name": "abduct, yank, hale, tug",
-      "target_word": "abduct",
+      "group_id": 287,
+      "group_name": "wrench, wring, deform, contort",
+      "target_word": "wrench",
       "words": [
-        "abduct",
-        "yank",
-        "hale",
-        "tug"
+        "wrench",
+        "wring",
+        "deform",
+        "contort"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "abduct 与近义词辨析",
-      "synset_definition": "pull away from the body",
-      "t8_count": 3,
-      "cas_score": 92
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "wrench 与近义词辨析",
+      "synset_definition": "twist and compress, as if in pain or anguish",
+      "t8_count": 4,
+      "cas_score": 96
     },
     {
-      "group_id": 290,
+      "group_id": 288,
       "group_name": "adorn, beautify, embellish, grace",
       "target_word": "adorn",
       "words": [
@@ -181,6 +145,42 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "adorn 与近义词辨析",
       "synset_definition": "make more attractive by adding ornament, colour, etc.",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 289,
+      "group_name": "affiliate, interpose, condescend, treat",
+      "target_word": "affiliate",
+      "words": [
+        "affiliate",
+        "interpose",
+        "condescend",
+        "treat"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "affiliate 与近义词辨析",
+      "synset_definition": "keep company with; hang out with",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 290,
+      "group_name": "align, correlate, corroborate, twin",
+      "target_word": "align",
+      "words": [
+        "align",
+        "correlate",
+        "corroborate",
+        "twin"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "align 与近义词辨析",
+      "synset_definition": "be or come into adjustment with",
       "t8_count": 3,
       "cas_score": 92
     }

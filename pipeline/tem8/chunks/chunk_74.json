@@ -6,114 +6,6 @@
   "clusters": [
     {
       "group_id": 741,
-      "group_name": "blitz, bombard, circumvent, gas",
-      "target_word": "blitz",
-      "words": [
-        "blitz",
-        "bombard",
-        "circumvent",
-        "gas"
-      ],
-      "pos": "v",
-      "field": "FIELD_STANCE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "blitz 与近义词辨析",
-      "synset_definition": "attack suddenly and without warning",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 742,
-      "group_name": "blob, fleck, spot, blot",
-      "target_word": "blob",
-      "words": [
-        "blob",
-        "fleck",
-        "spot",
-        "blot"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "blob 与近义词辨析",
-      "synset_definition": "make a spot or mark onto",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 743,
-      "group_name": "bog, fracture, disrupt, interrupt",
-      "target_word": "bog",
-      "words": [
-        "bog",
-        "fracture",
-        "disrupt",
-        "interrupt"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bog 与近义词辨析",
-      "synset_definition": "get stuck while doing something",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 744,
-      "group_name": "boggle, waver, hover, falter",
-      "target_word": "boggle",
-      "words": [
-        "boggle",
-        "waver",
-        "hover",
-        "falter"
-      ],
-      "pos": "v",
-      "field": "FIELD_CHANGE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "boggle 与近义词辨析",
-      "synset_definition": "hesitate when confronted with a problem, or when in doubt or fear",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 745,
-      "group_name": "brainwash, seduce, cajole, badger",
-      "target_word": "brainwash",
-      "words": [
-        "brainwash",
-        "seduce",
-        "cajole",
-        "badger"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "brainwash 与近义词辨析",
-      "synset_definition": "persuade completely, often through coercion",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 746,
-      "group_name": "bridle, field, repay, retort",
-      "target_word": "bridle",
-      "words": [
-        "bridle",
-        "field",
-        "repay",
-        "retort"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bridle 与近义词辨析",
-      "synset_definition": "respond to the reins, as of horses",
-      "t8_count": 1,
-      "cas_score": 74
-    },
-    {
-      "group_id": 747,
       "group_name": "budge, agitate, stir, shift",
       "target_word": "budge",
       "words": [
@@ -131,7 +23,25 @@
       "cas_score": 84
     },
     {
-      "group_id": 748,
+      "group_id": 742,
+      "group_name": "bulge, bag, spear, thrust",
+      "target_word": "bulge",
+      "words": [
+        "bulge",
+        "bag",
+        "spear",
+        "thrust"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bulge 与近义词辨析",
+      "synset_definition": "bulge out; form a bulge outward, or be so full as to appear to bulge",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 743,
       "group_name": "burrow, rut, furrow, root",
       "target_word": "burrow",
       "words": [
@@ -149,7 +59,25 @@
       "cas_score": 88
     },
     {
-      "group_id": 749,
+      "group_id": 744,
+      "group_name": "bustle, waver, lunge, quiver",
+      "target_word": "bustle",
+      "words": [
+        "bustle",
+        "waver",
+        "lunge",
+        "quiver"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bustle 与近义词辨析",
+      "synset_definition": "move or cause to move energetically or busily",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 745,
       "group_name": "camouflage, masquerade, mask, cloak",
       "target_word": "camouflage",
       "words": [
@@ -167,7 +95,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 750,
+      "group_id": 746,
       "group_name": "canoe, row, sail, yacht",
       "target_word": "canoe",
       "words": [
@@ -183,6 +111,78 @@
       "synset_definition": "travel by canoe",
       "t8_count": 1,
       "cas_score": 74
+    },
+    {
+      "group_id": 747,
+      "group_name": "canopy, enfold, oil, bind",
+      "target_word": "canopy",
+      "words": [
+        "canopy",
+        "enfold",
+        "oil",
+        "bind"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "canopy 与近义词辨析",
+      "synset_definition": "cover with a canopy",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 748,
+      "group_name": "canter, post, trot, gallop",
+      "target_word": "canter",
+      "words": [
+        "canter",
+        "post",
+        "trot",
+        "gallop"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "canter 与近义词辨析",
+      "synset_definition": "ride at a canter",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 749,
+      "group_name": "canvass, lobby, quest, canvas",
+      "target_word": "canvass",
+      "words": [
+        "canvass",
+        "lobby",
+        "quest",
+        "canvas"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "canvass 与近义词辨析",
+      "synset_definition": "solicit votes from potential voters in an electoral campaign",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 750,
+      "group_name": "caress, fondle, lap, lick",
+      "target_word": "caress",
+      "words": [
+        "caress",
+        "fondle",
+        "lap",
+        "lick"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "caress 与近义词辨析",
+      "synset_definition": "touch or stroke lightly in a loving or endearing manner",
+      "t8_count": 2,
+      "cas_score": 80
     }
   ]
 }

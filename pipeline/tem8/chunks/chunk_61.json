@@ -6,181 +6,181 @@
   "clusters": [
     {
       "group_id": 611,
-      "group_name": "keel, hump, bulge, salient",
-      "target_word": "keel",
+      "group_name": "flare, prod, foil, buffer",
+      "target_word": "flare",
       "words": [
-        "keel",
-        "hump",
-        "bulge",
-        "salient"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "keel 与近义词辨析",
-      "synset_definition": "a projection or ridge that suggests a keel",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 612,
-      "group_name": "lance, buff, flail, buffer",
-      "target_word": "lance",
-      "words": [
-        "lance",
-        "buff",
-        "flail",
+        "flare",
+        "prod",
+        "foil",
         "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "lance 与近义词辨析",
-      "synset_definition": "an implement with a shaft and barbed point used for catching fish",
+      "theme_label": "flare 与近义词辨析",
+      "synset_definition": "a device that produces a bright light for warning or illumination or identification",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 612,
+      "group_name": "foible, forte, turnout, pressing",
+      "target_word": "foible",
+      "words": [
+        "foible",
+        "forte",
+        "turnout",
+        "pressing"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "foible 与近义词辨析",
+      "synset_definition": "the weaker part of a sword's blade from the forte to the tip",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 613,
-      "group_name": "lapse, blunder, oversight, incursion",
-      "target_word": "lapse",
+      "group_name": "foil, inset, montage, likeness",
+      "target_word": "foil",
       "words": [
-        "lapse",
-        "blunder",
-        "oversight",
-        "incursion"
+        "foil",
+        "inset",
+        "montage",
+        "likeness"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "lapse 与近义词辨析",
-      "synset_definition": "a mistake resulting from inattention",
+      "theme_label": "foil 与近义词辨析",
+      "synset_definition": "picture consisting of a positive photograph or drawing on a transparent base; viewed with a projector",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 614,
-      "group_name": "lookout, sentry, picket, sentinel",
-      "target_word": "lookout",
+      "group_name": "foothill, mound, hillock, hammock",
+      "target_word": "foothill",
       "words": [
-        "lookout",
-        "sentry",
-        "picket",
-        "sentinel"
+        "foothill",
+        "mound",
+        "hillock",
+        "hammock"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "lookout 与近义词辨析",
-      "synset_definition": "a person employed to keep watch for some anticipated event",
+      "theme_label": "foothill 与近义词辨析",
+      "synset_definition": "a relatively low hill on the lower slope of a mountain",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 615,
-      "group_name": "migrant, rover, flier, flyer",
-      "target_word": "migrant",
+      "group_name": "forefront, vanguard, paradigm, straddle",
+      "target_word": "forefront",
       "words": [
-        "migrant",
-        "rover",
-        "flier",
-        "flyer"
+        "forefront",
+        "vanguard",
+        "paradigm",
+        "straddle"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "migrant 与近义词辨析",
-      "synset_definition": "traveler who moves from one region or country to another",
+      "theme_label": "forefront 与近义词辨析",
+      "synset_definition": "the position of greatest importance or advancement; the leading position in any movement or field",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 616,
-      "group_name": "mink, ferret, badger, glutton",
-      "target_word": "mink",
+      "group_name": "fuzz, blur, schema, perception",
+      "target_word": "fuzz",
       "words": [
-        "mink",
-        "ferret",
-        "badger",
-        "glutton"
+        "fuzz",
+        "blur",
+        "schema",
+        "perception"
       ],
       "pos": "n",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "mink 与近义词辨析",
-      "synset_definition": "slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "fuzz 与近义词辨析",
+      "synset_definition": "a hazy or indistinct representation",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 617,
-      "group_name": "observance, peek, squint, lookout",
-      "target_word": "observance",
+      "group_name": "gag, skid, muzzle, tether",
+      "target_word": "gag",
       "words": [
-        "observance",
-        "peek",
-        "squint",
-        "lookout"
+        "gag",
+        "skid",
+        "muzzle",
+        "tether"
       ],
       "pos": "n",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "observance 与近义词辨析",
-      "synset_definition": "the act of observing; taking a patient look",
+      "theme_label": "gag 与近义词辨析",
+      "synset_definition": "restraint put into a person's mouth to prevent speaking or shouting",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 618,
-      "group_name": "pant, creak, rustle, squawk",
-      "target_word": "pant",
+      "group_name": "gentility, chic, flair, grandeur",
+      "target_word": "gentility",
       "words": [
-        "pant",
-        "creak",
-        "rustle",
-        "squawk"
+        "gentility",
+        "chic",
+        "flair",
+        "grandeur"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "pant 与近义词辨析",
-      "synset_definition": "the noise made by a short puff of steam (as from an engine)",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "gentility 与近义词辨析",
+      "synset_definition": "elegance by virtue of fineness of manner and expression",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 619,
-      "group_name": "pinch, rupture, frostbite, hemorrhage",
-      "target_word": "pinch",
+      "group_name": "gloss, mar, blemish, semblance",
+      "target_word": "gloss",
       "words": [
-        "pinch",
-        "rupture",
-        "frostbite",
-        "hemorrhage"
+        "gloss",
+        "mar",
+        "blemish",
+        "semblance"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "pinch 与近义词辨析",
-      "synset_definition": "an injury resulting from getting some body part squeezed",
+      "theme_label": "gloss 与近义词辨析",
+      "synset_definition": "an outward or token appearance or form that is deliberately misleading",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 620,
-      "group_name": "platoon, corps, infantry, battalion",
-      "target_word": "platoon",
+      "group_name": "grate, din, pant, rumble",
+      "target_word": "grate",
       "words": [
-        "platoon",
-        "corps",
-        "infantry",
-        "battalion"
+        "grate",
+        "din",
+        "pant",
+        "rumble"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "platoon 与近义词辨析",
-      "synset_definition": "a military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant",
+      "theme_label": "grate 与近义词辨析",
+      "synset_definition": "a harsh rasping sound made by scraping something",
       "t8_count": 4,
       "cas_score": 93
     }

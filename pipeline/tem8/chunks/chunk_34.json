@@ -24,6 +24,24 @@
     },
     {
       "group_id": 342,
+      "group_name": "wicked, heinous, ungodly, villainous",
+      "target_word": "wicked",
+      "words": [
+        "wicked",
+        "heinous",
+        "ungodly",
+        "villainous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "wicked 与近义词辨析",
+      "synset_definition": "morally bad in principle or practice",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 343,
       "group_name": "adamant, inexorable, inflexible, intransigent",
       "target_word": "adamant",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 343,
+      "group_id": 344,
       "group_name": "ardent, torrid, fervent, impassioned",
       "target_word": "ardent",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 344,
+      "group_id": 345,
       "group_name": "assorted, motley, sundry, miscellaneous",
       "target_word": "assorted",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 345,
+      "group_id": 346,
       "group_name": "balmy, daft, buggy, haywire",
       "target_word": "balmy",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 346,
+      "group_id": 347,
       "group_name": "combustible, flammable, incendiary, inflammable",
       "target_word": "combustible",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 347,
+      "group_id": 348,
       "group_name": "foul, wicked, repellent, offensive",
       "target_word": "foul",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 348,
+      "group_id": 349,
       "group_name": "obscene, repugnant, repulsive, offensive",
       "target_word": "obscene",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 349,
+      "group_id": 350,
       "group_name": "prudent, heady, discreet, provident",
       "target_word": "prudent",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "prudent 与近义词辨析",
       "synset_definition": "careful and sensible; marked by sound judgment",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 350,
-      "group_name": "scholarly, erudite, pedantic, studious",
-      "target_word": "scholarly",
-      "words": [
-        "scholarly",
-        "erudite",
-        "pedantic",
-        "studious"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "scholarly 与近义词辨析",
-      "synset_definition": "characteristic of scholars or scholarship",
       "t8_count": 4,
       "cas_score": 96
     }

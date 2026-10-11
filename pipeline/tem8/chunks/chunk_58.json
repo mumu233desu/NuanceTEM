@@ -6,6 +6,114 @@
   "clusters": [
     {
       "group_id": 581,
+      "group_name": "ballad, ditty, lament, requiem",
+      "target_word": "ballad",
+      "words": [
+        "ballad",
+        "ditty",
+        "lament",
+        "requiem"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ballad 与近义词辨析",
+      "synset_definition": "a narrative song with a recurrent refrain",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 582,
+      "group_name": "ballast, abrasive, undercut, aggregate",
+      "target_word": "ballast",
+      "words": [
+        "ballast",
+        "abrasive",
+        "undercut",
+        "aggregate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "ballast 与近义词辨析",
+      "synset_definition": "any heavy material used to stabilize a ship or airship",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 583,
+      "group_name": "balm, lotion, panacea, ointment",
+      "target_word": "balm",
+      "words": [
+        "balm",
+        "lotion",
+        "panacea",
+        "ointment"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "balm 与近义词辨析",
+      "synset_definition": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 584,
+      "group_name": "balustrade, jetty, fence, grate",
+      "target_word": "balustrade",
+      "words": [
+        "balustrade",
+        "jetty",
+        "fence",
+        "grate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "balustrade 与近义词辨析",
+      "synset_definition": "a railing at the side of a staircase or balcony to prevent people from falling",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 585,
+      "group_name": "barricade, jetty, fence, grate",
+      "target_word": "barricade",
+      "words": [
+        "barricade",
+        "jetty",
+        "fence",
+        "grate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "barricade 与近义词辨析",
+      "synset_definition": "a barrier set up by police to stop traffic on a street or road in order to catch a fugitive or inspect traffic etc.",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 586,
+      "group_name": "bearing, pier, brace, foothold",
+      "target_word": "bearing",
+      "words": [
+        "bearing",
+        "pier",
+        "brace",
+        "foothold"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "bearing 与近义词辨析",
+      "synset_definition": "a rotating support placed between moving parts to allow them to move easily",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 587,
       "group_name": "beating, fray, ruffle, rumble",
       "target_word": "beating",
       "words": [
@@ -23,7 +131,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 582,
+      "group_id": 588,
       "group_name": "boo, hoot, hiss, snort",
       "target_word": "boo",
       "words": [
@@ -41,13 +149,13 @@
       "cas_score": 93
     },
     {
-      "group_id": 583,
-      "group_name": "buffer, lure, decoy, fender",
+      "group_id": 589,
+      "group_name": "buffer, prod, foil, fender",
       "target_word": "buffer",
       "words": [
         "buffer",
-        "lure",
-        "decoy",
+        "prod",
+        "foil",
         "fender"
       ],
       "pos": "n",
@@ -59,7 +167,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 584,
+      "group_id": 590,
       "group_name": "catchword, quip, maxim, epigram",
       "target_word": "catchword",
       "words": [
@@ -73,114 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "catchword 与近义词辨析",
       "synset_definition": "a favorite saying of a sect or political group",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 585,
-      "group_name": "connotation, nuance, purport, subtlety",
-      "target_word": "connotation",
-      "words": [
-        "connotation",
-        "nuance",
-        "purport",
-        "subtlety"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "connotation 与近义词辨析",
-      "synset_definition": "what you must know in order to determine the reference of an expression",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 586,
-      "group_name": "counterbalance, redress, indemnity, reparation",
-      "target_word": "counterbalance",
-      "words": [
-        "counterbalance",
-        "redress",
-        "indemnity",
-        "reparation"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "counterbalance 与近义词辨析",
-      "synset_definition": "a compensating equivalent",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 587,
-      "group_name": "deviant, pervert, deviate, degenerate",
-      "target_word": "deviant",
-      "words": [
-        "deviant",
-        "pervert",
-        "deviate",
-        "degenerate"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "deviant 与近义词辨析",
-      "synset_definition": "a person whose behavior deviates from what is acceptable especially in sexual behavior",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 588,
-      "group_name": "diagonal, slash, brace, colon",
-      "target_word": "diagonal",
-      "words": [
-        "diagonal",
-        "slash",
-        "brace",
-        "colon"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "diagonal 与近义词辨析",
-      "synset_definition": "a punctuation mark (/) used to separate related items of information",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 589,
-      "group_name": "dribble, flux, spate, dripping",
-      "target_word": "dribble",
-      "words": [
-        "dribble",
-        "flux",
-        "spate",
-        "dripping"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dribble 与近义词辨析",
-      "synset_definition": "flowing in drops; the formation and falling of drops of liquid",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 590,
-      "group_name": "euphemism, quip, maxim, epigram",
-      "target_word": "euphemism",
-      "words": [
-        "euphemism",
-        "quip",
-        "maxim",
-        "epigram"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "euphemism 与近义词辨析",
-      "synset_definition": "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh",
       "t8_count": 4,
       "cas_score": 93
     }

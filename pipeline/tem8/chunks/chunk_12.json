@@ -6,55 +6,55 @@
   "clusters": [
     {
       "group_id": 121,
-      "group_name": "mutilate, mar, impair, blemish",
-      "target_word": "mutilate",
+      "group_name": "negate, dampen, enfeeble, debilitate",
+      "target_word": "negate",
       "words": [
-        "mutilate",
-        "mar",
-        "impair",
-        "blemish"
+        "negate",
+        "dampen",
+        "enfeeble",
+        "debilitate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "mutilate 与近义词辨析",
-      "synset_definition": "destroy or injure severely",
+      "theme_label": "negate 与近义词辨析",
+      "synset_definition": "make ineffective by counterbalancing the effect of",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 122,
-      "group_name": "nag, bitch, repine, deplore",
-      "target_word": "nag",
+      "group_name": "nestle, ladle, siphon, stratify",
+      "target_word": "nestle",
       "words": [
-        "nag",
-        "bitch",
-        "repine",
-        "deplore"
+        "nestle",
+        "ladle",
+        "siphon",
+        "stratify"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "nag 与近义词辨析",
-      "synset_definition": "bother persistently with trivial complaints",
+      "theme_label": "nestle 与近义词辨析",
+      "synset_definition": "position comfortably",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 123,
-      "group_name": "oxidize, lighten, exacerbate, exasperate",
-      "target_word": "oxidize",
+      "group_name": "pant, hoot, squall, gobble",
+      "target_word": "pant",
       "words": [
-        "oxidize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "pant",
+        "hoot",
+        "squall",
+        "gobble"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "oxidize 与近义词辨析",
-      "synset_definition": "add oxygen to or combine with oxygen",
+      "theme_label": "pant 与近义词辨析",
+      "synset_definition": "utter while panting, as if out of breath",
       "t8_count": 4,
       "cas_score": 100
     },
@@ -78,6 +78,24 @@
     },
     {
       "group_id": 125,
+      "group_name": "pinch, pleat, ruffle, furrow",
+      "target_word": "pinch",
+      "words": [
+        "pinch",
+        "pleat",
+        "ruffle",
+        "furrow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pinch 与近义词辨析",
+      "synset_definition": "make ridges into by pinching together",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 126,
       "group_name": "piss, ooze, crap, exude",
       "target_word": "piss",
       "words": [
@@ -91,24 +109,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "piss 与近义词辨析",
       "synset_definition": "eliminate urine",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 126,
-      "group_name": "pleat, pinch, ruffle, furrow",
-      "target_word": "pleat",
-      "words": [
-        "pleat",
-        "pinch",
-        "ruffle",
-        "furrow"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "pleat 与近义词辨析",
-      "synset_definition": "pleat or gather into a ruffle",
       "t8_count": 4,
       "cas_score": 100
     },
@@ -150,13 +150,13 @@
     },
     {
       "group_id": 129,
-      "group_name": "propagate, swoop, fidget, flurry",
+      "group_name": "propagate, waver, quiver, writhe",
       "target_word": "propagate",
       "words": [
         "propagate",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_NATURE",
@@ -168,13 +168,13 @@
     },
     {
       "group_id": 130,
-      "group_name": "purge, lighten, sanctify, exacerbate",
+      "group_name": "purge, clot, sanctify, reinstate",
       "target_word": "purge",
       "words": [
         "purge",
-        "lighten",
+        "clot",
         "sanctify",
-        "exacerbate"
+        "reinstate"
       ],
       "pos": "v",
       "field": "FIELD_RELATION",

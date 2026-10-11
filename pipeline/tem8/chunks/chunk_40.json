@@ -6,24 +6,6 @@
   "clusters": [
     {
       "group_id": 401,
-      "group_name": "atrocious, grievous, evil, monstrous",
-      "target_word": "atrocious",
-      "words": [
-        "atrocious",
-        "grievous",
-        "evil",
-        "monstrous"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "atrocious 与近义词辨析",
-      "synset_definition": "shockingly brutal or cruel",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 402,
       "group_name": "audacious, dauntless, bold, brave",
       "target_word": "audacious",
       "words": [
@@ -41,7 +23,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 403,
+      "group_id": 402,
       "group_name": "capricious, whimsical, impulsive, arbitrary",
       "target_word": "capricious",
       "words": [
@@ -59,7 +41,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 404,
+      "group_id": 403,
       "group_name": "chaste, virtuous, pure, virgin",
       "target_word": "chaste",
       "words": [
@@ -77,7 +59,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 405,
+      "group_id": 404,
       "group_name": "colossal, stupendous, big, large",
       "target_word": "colossal",
       "words": [
@@ -95,7 +77,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 406,
+      "group_id": 405,
       "group_name": "cryptic, inexplicable, deep, mysterious",
       "target_word": "cryptic",
       "words": [
@@ -113,7 +95,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 407,
+      "group_id": 406,
       "group_name": "cursory, perfunctory, casual, careless",
       "target_word": "cursory",
       "words": [
@@ -131,7 +113,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 408,
+      "group_id": 407,
       "group_name": "doomed, fated, sure, certain",
       "target_word": "doomed",
       "words": [
@@ -145,6 +127,24 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "doomed 与近义词辨析",
       "synset_definition": "(usually followed by `to') determined by tragic fate",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 408,
+      "group_name": "elated, jubilant, joyful, joyous",
+      "target_word": "elated",
+      "words": [
+        "elated",
+        "jubilant",
+        "joyful",
+        "joyous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "elated 与近义词辨析",
+      "synset_definition": "full of high-spirited delight",
       "t8_count": 2,
       "cas_score": 84
     },

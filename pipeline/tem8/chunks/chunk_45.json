@@ -6,24 +6,6 @@
   "clusters": [
     {
       "group_id": 451,
-      "group_name": "impotent, ineffectual, unable, ineffective",
-      "target_word": "impotent",
-      "words": [
-        "impotent",
-        "ineffectual",
-        "unable",
-        "ineffective"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "impotent 与近义词辨析",
-      "synset_definition": "lacking power or ability; - Freeman J.Dyson",
-      "t8_count": 2,
-      "cas_score": 80
-    },
-    {
-      "group_id": 452,
       "group_name": "impressionable, susceptible, easy, plastic",
       "target_word": "impressionable",
       "words": [
@@ -41,7 +23,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 453,
+      "group_id": 452,
       "group_name": "inbuilt, intrinsic, inherent, integral",
       "target_word": "inbuilt",
       "words": [
@@ -59,7 +41,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 454,
+      "group_id": 453,
       "group_name": "incessant, unremitting, constant, perpetual",
       "target_word": "incessant",
       "words": [
@@ -77,7 +59,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 455,
+      "group_id": 454,
       "group_name": "infirm, rickety, weak, frail",
       "target_word": "infirm",
       "words": [
@@ -95,7 +77,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 456,
+      "group_id": 455,
       "group_name": "lax, floppy, limp, loose",
       "target_word": "lax",
       "words": [
@@ -113,7 +95,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 457,
+      "group_id": 456,
       "group_name": "luscious, yummy, tasty, delicious",
       "target_word": "luscious",
       "words": [
@@ -131,7 +113,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 458,
+      "group_id": 457,
       "group_name": "manful, virile, male, masculine",
       "target_word": "manful",
       "words": [
@@ -149,7 +131,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 459,
+      "group_id": 458,
       "group_name": "mystic, esoteric, secret, mysterious",
       "target_word": "mystic",
       "words": [
@@ -167,7 +149,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 460,
+      "group_id": 459,
       "group_name": "negligent, lax, slack, derelict",
       "target_word": "negligent",
       "words": [
@@ -181,6 +163,24 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "negligent 与近义词辨析",
       "synset_definition": "characterized by neglect and undue lack of concern",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 460,
+      "group_name": "opaque, turbid, solid, muddy",
+      "target_word": "opaque",
+      "words": [
+        "opaque",
+        "turbid",
+        "solid",
+        "muddy"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "opaque 与近义词辨析",
+      "synset_definition": "not transmitting or reflecting light or radiant energy; impenetrable to sight",
       "t8_count": 2,
       "cas_score": 80
     }

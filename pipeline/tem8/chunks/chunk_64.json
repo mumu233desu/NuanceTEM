@@ -6,183 +6,183 @@
   "clusters": [
     {
       "group_id": 641,
-      "group_name": "baritone, tuba, trump, cornet",
-      "target_word": "baritone",
+      "group_name": "pedestal, pier, brace, foothold",
+      "target_word": "pedestal",
       "words": [
-        "baritone",
-        "tuba",
-        "trump",
-        "cornet"
+        "pedestal",
+        "pier",
+        "brace",
+        "foothold"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "baritone 与近义词辨析",
-      "synset_definition": "the second lowest brass wind instrument",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pedestal 与近义词辨析",
+      "synset_definition": "a support or foundation",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 642,
-      "group_name": "clutter, jumble, muddle, fuddle",
-      "target_word": "clutter",
+      "group_name": "platoon, corps, infantry, battalion",
+      "target_word": "platoon",
       "words": [
-        "clutter",
-        "jumble",
-        "muddle",
-        "fuddle"
+        "platoon",
+        "corps",
+        "infantry",
+        "battalion"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "clutter 与近义词辨析",
-      "synset_definition": "a confused multitude of things",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "platoon 与近义词辨析",
+      "synset_definition": "a military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 643,
-      "group_name": "courier, rover, flier, flyer",
-      "target_word": "courier",
+      "group_name": "plight, mire, pinch, bitch",
+      "target_word": "plight",
       "words": [
-        "courier",
-        "rover",
-        "flier",
-        "flyer"
+        "plight",
+        "mire",
+        "pinch",
+        "bitch"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "courier 与近义词辨析",
-      "synset_definition": "a person who carries a message",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "plight 与近义词辨析",
+      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 644,
-      "group_name": "drool, humbug, gibber, gibberish",
-      "target_word": "drool",
+      "group_name": "portfolio, nucleus, quartet, quadruple",
+      "target_word": "portfolio",
       "words": [
-        "drool",
-        "humbug",
-        "gibber",
-        "gibberish"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "drool 与近义词辨析",
-      "synset_definition": "pretentious or silly talk or writing",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 645,
-      "group_name": "duet, duo, quartet, quintet",
-      "target_word": "duet",
-      "words": [
-        "duet",
-        "duo",
+        "portfolio",
+        "nucleus",
         "quartet",
-        "quintet"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "duet 与近义词辨析",
-      "synset_definition": "two performers or singers who perform together",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 646,
-      "group_name": "eclectic, stoic, cynic, existentialist",
-      "target_word": "eclectic",
-      "words": [
-        "eclectic",
-        "stoic",
-        "cynic",
-        "existentialist"
-      ],
-      "pos": "n",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "eclectic 与近义词辨析",
-      "synset_definition": "someone who selects according to the eclectic method",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 647,
-      "group_name": "equilibrium, honeycomb, impediment, counterbalance",
-      "target_word": "equilibrium",
-      "words": [
-        "equilibrium",
-        "honeycomb",
-        "impediment",
-        "counterbalance"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "equilibrium 与近义词辨析",
-      "synset_definition": "equality of distribution",
-      "t8_count": 4,
-      "cas_score": 89
-    },
-    {
-      "group_id": 648,
-      "group_name": "figurehead, sham, pseudo, impostor",
-      "target_word": "figurehead",
-      "words": [
-        "figurehead",
-        "sham",
-        "pseudo",
-        "impostor"
+        "quadruple"
       ],
       "pos": "n",
       "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "figurehead 与近义词辨析",
-      "synset_definition": "a person used as a cover for some questionable activity",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "portfolio 与近义词辨析",
+      "synset_definition": "a set of pieces of creative work collected to be shown to potential customers or employers",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
+    },
+    {
+      "group_id": 645,
+      "group_name": "posture, stance, reverence, disrespect",
+      "target_word": "posture",
+      "words": [
+        "posture",
+        "stance",
+        "reverence",
+        "disrespect"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "posture 与近义词辨析",
+      "synset_definition": "a rationalized mental attitude",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 646,
+      "group_name": "predicament, mire, pinch, bitch",
+      "target_word": "predicament",
+      "words": [
+        "predicament",
+        "mire",
+        "pinch",
+        "bitch"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "predicament 与近义词辨析",
+      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 647,
+      "group_name": "pressing, forte, turnout, wreckage",
+      "target_word": "pressing",
+      "words": [
+        "pressing",
+        "forte",
+        "turnout",
+        "wreckage"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "pressing 与近义词辨析",
+      "synset_definition": "a metal or plastic part that is made by a mechanical press",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 648,
+      "group_name": "projection, hull, mound, hangar",
+      "target_word": "projection",
+      "words": [
+        "projection",
+        "hull",
+        "mound",
+        "hangar"
+      ],
+      "pos": "n",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "projection 与近义词辨析",
+      "synset_definition": "any structure that branches out from a central support",
+      "t8_count": 4,
+      "cas_score": 93
     },
     {
       "group_id": 649,
-      "group_name": "fissure, sag, furrow, crease",
-      "target_word": "fissure",
+      "group_name": "quicksand, impasse, deadlock, stalemate",
+      "target_word": "quicksand",
       "words": [
-        "fissure",
-        "sag",
-        "furrow",
-        "crease"
+        "quicksand",
+        "impasse",
+        "deadlock",
+        "stalemate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "fissure 与近义词辨析",
-      "synset_definition": "a long narrow depression in a surface",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quicksand 与近义词辨析",
+      "synset_definition": "a treacherous situation that tends to entrap and destroy",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 650,
-      "group_name": "fitting, drape, mantle, drapery",
-      "target_word": "fitting",
+      "group_name": "racer, sedan, hardtop, hatchback",
+      "target_word": "racer",
       "words": [
-        "fitting",
-        "drape",
-        "mantle",
-        "drapery"
+        "racer",
+        "sedan",
+        "hardtop",
+        "hatchback"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "fitting 与近义词辨析",
-      "synset_definition": "(usually plural) furnishings and equipment (especially for a ship or hotel)",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "racer 与近义词辨析",
+      "synset_definition": "a fast car that competes in races",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     }
   ]
 }

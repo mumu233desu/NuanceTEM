@@ -6,121 +6,13 @@
   "clusters": [
     {
       "group_id": 211,
-      "group_name": "censure, deplore, trounce, admonish",
-      "target_word": "censure",
-      "words": [
-        "censure",
-        "deplore",
-        "trounce",
-        "admonish"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "censure 与近义词辨析",
-      "synset_definition": "rebuke formally",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 212,
-      "group_name": "chime, rap, thud, drone",
-      "target_word": "chime",
-      "words": [
-        "chime",
-        "rap",
-        "thud",
-        "drone"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "chime 与近义词辨析",
-      "synset_definition": "emit a sound",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 213,
-      "group_name": "chuck, waive, forego, consign",
-      "target_word": "chuck",
-      "words": [
-        "chuck",
-        "waive",
-        "forego",
-        "consign"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "chuck 与近义词辨析",
-      "synset_definition": "throw away",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 214,
-      "group_name": "clinch, nab, grapple, apprehend",
-      "target_word": "clinch",
-      "words": [
-        "clinch",
-        "nab",
-        "grapple",
-        "apprehend"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "clinch 与近义词辨析",
-      "synset_definition": "hold in a tight grasp",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 215,
-      "group_name": "collude, conspire, affiliate, interpose",
-      "target_word": "collude",
-      "words": [
-        "collude",
-        "conspire",
-        "affiliate",
-        "interpose"
-      ],
-      "pos": "v",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "collude 与近义词辨析",
-      "synset_definition": "act in unison or agreement and in secret towards a deceitful or illegal purpose",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 216,
-      "group_name": "con, diddle, defraud, victimize",
-      "target_word": "con",
-      "words": [
-        "con",
-        "diddle",
-        "defraud",
-        "victimize"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "con 与近义词辨析",
-      "synset_definition": "deprive of by deceit",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 217,
-      "group_name": "constrain, rein, baffle, hamper",
+      "group_name": "constrain, rein, baffle, inhibit",
       "target_word": "constrain",
       "words": [
         "constrain",
         "rein",
         "baffle",
-        "hamper"
+        "inhibit"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -131,25 +23,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 218,
-      "group_name": "convulse, slash, tremor, wiggle",
-      "target_word": "convulse",
-      "words": [
-        "convulse",
-        "slash",
-        "tremor",
-        "wiggle"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "convulse 与近义词辨析",
-      "synset_definition": "shake uncontrollably",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 219,
+      "group_id": 212,
       "group_name": "crackle, honk, creak, crunch",
       "target_word": "crackle",
       "words": [
@@ -167,20 +41,146 @@
       "cas_score": 96
     },
     {
-      "group_id": 220,
-      "group_name": "creak, honk, squeak, crunch",
+      "group_id": 213,
+      "group_name": "creak, honk, squeak, racket",
       "target_word": "creak",
       "words": [
         "creak",
         "honk",
         "squeak",
-        "crunch"
+        "racket"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "creak 与近义词辨析",
       "synset_definition": "make a high-pitched, screeching noise",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 214,
+      "group_name": "croak, hoot, squall, gobble",
+      "target_word": "croak",
+      "words": [
+        "croak",
+        "hoot",
+        "squall",
+        "gobble"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "croak 与近义词辨析",
+      "synset_definition": "utter a hoarse sound, like a raven",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 215,
+      "group_name": "crook, fawn, cringe, grovel",
+      "target_word": "crook",
+      "words": [
+        "crook",
+        "fawn",
+        "cringe",
+        "grovel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "crook 与近义词辨析",
+      "synset_definition": "bend or cause to bend",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 216,
+      "group_name": "crucify, snipe, assail, deplore",
+      "target_word": "crucify",
+      "words": [
+        "crucify",
+        "snipe",
+        "assail",
+        "deplore"
+      ],
+      "pos": "v",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "crucify 与近义词辨析",
+      "synset_definition": "criticize harshly or violently",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 217,
+      "group_name": "dawdle, waver, quiver, writhe",
+      "target_word": "dawdle",
+      "words": [
+        "dawdle",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "dawdle 与近义词辨析",
+      "synset_definition": "take one's time; proceed slowly",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 218,
+      "group_name": "deface, sully, taint, defile",
+      "target_word": "deface",
+      "words": [
+        "deface",
+        "sully",
+        "taint",
+        "defile"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "deface 与近义词辨析",
+      "synset_definition": "mar or spoil the appearance of",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 219,
+      "group_name": "deform, furl, flex, bulge",
+      "target_word": "deform",
+      "words": [
+        "deform",
+        "furl",
+        "flex",
+        "bulge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "deform 与近义词辨析",
+      "synset_definition": "become misshapen",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 220,
+      "group_name": "din, rap, thud, drone",
+      "target_word": "din",
+      "words": [
+        "din",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "din 与近义词辨析",
+      "synset_definition": "make a resonant sound, like artillery",
       "t8_count": 4,
       "cas_score": 96
     }

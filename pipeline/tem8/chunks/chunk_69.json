@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 691,
+      "group_name": "abase, affront, sting, humble",
+      "target_word": "abase",
+      "words": [
+        "abase",
+        "affront",
+        "sting",
+        "humble"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "abase 与近义词辨析",
+      "synset_definition": "cause to feel shame; hurt the pride of",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 692,
       "group_name": "abbreviate, cut, reduce, abridge",
       "target_word": "abbreviate",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 692,
+      "group_id": 693,
       "group_name": "abhor, loathe, scorn, despise",
       "target_word": "abhor",
       "words": [
@@ -39,24 +57,6 @@
       "synset_definition": "find repugnant",
       "t8_count": 2,
       "cas_score": 84
-    },
-    {
-      "group_id": 693,
-      "group_name": "abide, bear, stand, brook",
-      "target_word": "abide",
-      "words": [
-        "abide",
-        "bear",
-        "stand",
-        "brook"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "abide 与近义词辨析",
-      "synset_definition": "put up with something or somebody unpleasant",
-      "t8_count": 1,
-      "cas_score": 78
     },
     {
       "group_id": 694,
@@ -150,13 +150,13 @@
     },
     {
       "group_id": 699,
-      "group_name": "accrue, add, wax, gain",
+      "group_name": "accrue, wax, add, full",
       "target_word": "accrue",
       "words": [
         "accrue",
-        "add",
         "wax",
-        "gain"
+        "add",
+        "full"
       ],
       "pos": "v",
       "field": "FIELD_CHANGE",

@@ -6,102 +6,12 @@
   "clusters": [
     {
       "group_id": 181,
-      "group_name": "void, ooze, crap, exude",
-      "target_word": "void",
-      "words": [
-        "void",
-        "ooze",
-        "crap",
-        "exude"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "void 与近义词辨析",
-      "synset_definition": "excrete or discharge from the body",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 182,
-      "group_name": "wade, slink, mince, slouch",
-      "target_word": "wade",
-      "words": [
-        "wade",
-        "slink",
-        "mince",
-        "slouch"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "wade 与近义词辨析",
-      "synset_definition": "walk (through relatively shallow water)",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 183,
-      "group_name": "waver, swoop, fidget, flurry",
-      "target_word": "waver",
-      "words": [
-        "waver",
-        "swoop",
-        "fidget",
-        "flurry"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "waver 与近义词辨析",
-      "synset_definition": "move hesitatingly, as if about to give way",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 184,
-      "group_name": "whiff, blurt, snarl, snivel",
-      "target_word": "whiff",
-      "words": [
-        "whiff",
-        "blurt",
-        "snarl",
-        "snivel"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "whiff 与近义词辨析",
-      "synset_definition": "utter with a puff of air",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 185,
-      "group_name": "whoop, wail, squawk, screech",
-      "target_word": "whoop",
-      "words": [
-        "whoop",
-        "wail",
-        "squawk",
-        "screech"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "whoop 与近义词辨析",
-      "synset_definition": "shout, as if with joy or enthusiasm",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 186,
-      "group_name": "ambush, snipe, poach, falcon",
+      "group_name": "ambush, snipe, forage, falcon",
       "target_word": "ambush",
       "words": [
         "ambush",
         "snipe",
-        "poach",
+        "forage",
         "falcon"
       ],
       "pos": "v",
@@ -113,32 +23,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 187,
-      "group_name": "attest, profess, sanctify, consecrate",
-      "target_word": "attest",
-      "words": [
-        "attest",
-        "profess",
-        "sanctify",
-        "consecrate"
-      ],
-      "pos": "v",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "attest 与近义词辨析",
-      "synset_definition": "give testimony in a court of law",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 188,
-      "group_name": "babble, blurt, whiff, snarl",
+      "group_id": 182,
+      "group_name": "babble, blurt, whiff, snivel",
       "target_word": "babble",
       "words": [
         "babble",
         "blurt",
         "whiff",
-        "snarl"
+        "snivel"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -149,14 +41,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 189,
-      "group_name": "backfire, honk, creak, crunch",
+      "group_id": 183,
+      "group_name": "backfire, honk, creak, racket",
       "target_word": "backfire",
       "words": [
         "backfire",
         "honk",
         "creak",
-        "crunch"
+        "racket"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -167,20 +59,128 @@
       "cas_score": 96
     },
     {
-      "group_id": 190,
-      "group_name": "baffle, rein, hamper, inhibit",
+      "group_id": 184,
+      "group_name": "baffle, inhibit, encumber, constrain",
       "target_word": "baffle",
       "words": [
         "baffle",
-        "rein",
-        "hamper",
-        "inhibit"
+        "inhibit",
+        "encumber",
+        "constrain"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "baffle 与近义词辨析",
       "synset_definition": "check the emission of (sound)",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 185,
+      "group_name": "balk, subvert, sabotage, counteract",
+      "target_word": "balk",
+      "words": [
+        "balk",
+        "subvert",
+        "sabotage",
+        "counteract"
+      ],
+      "pos": "v",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "balk 与近义词辨析",
+      "synset_definition": "refuse to comply",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 186,
+      "group_name": "bay, blurt, whiff, snivel",
+      "target_word": "bay",
+      "words": [
+        "bay",
+        "blurt",
+        "whiff",
+        "snivel"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bay 与近义词辨析",
+      "synset_definition": "utter in deep prolonged tones",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 187,
+      "group_name": "beautify, emend, enhance, embellish",
+      "target_word": "beautify",
+      "words": [
+        "beautify",
+        "emend",
+        "enhance",
+        "embellish"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beautify 与近义词辨析",
+      "synset_definition": "make more beautiful",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 188,
+      "group_name": "beckon, trance, beguile, bewitch",
+      "target_word": "beckon",
+      "words": [
+        "beckon",
+        "trance",
+        "beguile",
+        "bewitch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beckon 与近义词辨析",
+      "synset_definition": "appear inviting",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 189,
+      "group_name": "begrudge, lust, crave, hanker",
+      "target_word": "begrudge",
+      "words": [
+        "begrudge",
+        "lust",
+        "crave",
+        "hanker"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "begrudge 与近义词辨析",
+      "synset_definition": "be envious of; set one's heart on",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 190,
+      "group_name": "beset, harass, hassle, molest",
+      "target_word": "beset",
+      "words": [
+        "beset",
+        "harass",
+        "hassle",
+        "molest"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "beset 与近义词辨析",
+      "synset_definition": "annoy continually or chronically",
       "t8_count": 4,
       "cas_score": 96
     }

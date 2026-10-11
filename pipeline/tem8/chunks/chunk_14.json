@@ -42,19 +42,19 @@
     },
     {
       "group_id": 143,
-      "group_name": "retard, lighten, exacerbate, exasperate",
+      "group_name": "retard, wane, flag, deflate",
       "target_word": "retard",
       "words": [
         "retard",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "wane",
+        "flag",
+        "deflate"
       ],
       "pos": "v",
-      "field": "FIELD_CHANGE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "retard 与近义词辨析",
-      "synset_definition": "slow the growth or development of",
+      "synset_definition": "lose velocity; move more slowly",
       "t8_count": 4,
       "cas_score": 100
     },
@@ -114,24 +114,6 @@
     },
     {
       "group_id": 147,
-      "group_name": "schematize, lighten, exacerbate, exasperate",
-      "target_word": "schematize",
-      "words": [
-        "schematize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "schematize 与近义词辨析",
-      "synset_definition": "give conventional form to",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 148,
       "group_name": "shatter, mar, impair, blemish",
       "target_word": "shatter",
       "words": [
@@ -145,6 +127,24 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "shatter 与近义词辨析",
       "synset_definition": "damage or destroy",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 148,
+      "group_name": "shear, lop, pare, indent",
+      "target_word": "shear",
+      "words": [
+        "shear",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "shear 与近义词辨析",
+      "synset_definition": "cut or cut through with shears",
       "t8_count": 4,
       "cas_score": 100
     },
@@ -168,19 +168,19 @@
     },
     {
       "group_id": 150,
-      "group_name": "shoal, lighten, exacerbate, exasperate",
-      "target_word": "shoal",
+      "group_name": "shrivel, wane, flag, deflate",
+      "target_word": "shrivel",
       "words": [
-        "shoal",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "shrivel",
+        "wane",
+        "flag",
+        "deflate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "shoal 与近义词辨析",
-      "synset_definition": "make shallow",
+      "theme_label": "shrivel 与近义词辨析",
+      "synset_definition": "wither, as with a loss of moisture",
       "t8_count": 4,
       "cas_score": 100
     }

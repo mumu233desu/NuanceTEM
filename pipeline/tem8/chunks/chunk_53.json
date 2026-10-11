@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 531,
+      "group_name": "downright, rank, sheer, absolute",
+      "target_word": "downright",
+      "words": [
+        "downright",
+        "rank",
+        "sheer",
+        "absolute"
+      ],
+      "pos": "adj",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "downright 与近义词辨析",
+      "synset_definition": "complete and without restriction or qualification; sometimes used informally as intensifiers",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 532,
       "group_name": "earthy, crude, gross, vulgar",
       "target_word": "earthy",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 532,
+      "group_id": 533,
       "group_name": "elemental, basic, primary, elementary",
       "target_word": "elemental",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 533,
+      "group_id": 534,
       "group_name": "eligible, worthy, suitable, desirable",
       "target_word": "eligible",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 534,
+      "group_id": 535,
       "group_name": "fainthearted, faint, timid, fearful",
       "target_word": "fainthearted",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 535,
+      "group_id": 536,
       "group_name": "festive, gay, merry, joyous",
       "target_word": "festive",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 536,
+      "group_id": 537,
       "group_name": "fiddling, petty, little, trivial",
       "target_word": "fiddling",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 537,
+      "group_id": 538,
       "group_name": "flaxen, sandy, blond, blonde",
       "target_word": "flaxen",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 538,
+      "group_id": 539,
       "group_name": "glum, dark, sour, sullen",
       "target_word": "glum",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 539,
+      "group_id": 540,
       "group_name": "grotesque, antic, strange, unusual",
       "target_word": "grotesque",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "grotesque 与近义词辨析",
       "synset_definition": "ludicrously odd",
-      "t8_count": 1,
-      "cas_score": 74
-    },
-    {
-      "group_id": 540,
-      "group_name": "harebrained, mad, insane, foolish",
-      "target_word": "harebrained",
-      "words": [
-        "harebrained",
-        "mad",
-        "insane",
-        "foolish"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "harebrained 与近义词辨析",
-      "synset_definition": "very foolish",
       "t8_count": 1,
       "cas_score": 74
     }

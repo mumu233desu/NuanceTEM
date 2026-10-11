@@ -11,7 +11,8 @@ from .reviewer import ExclusivityReviewer
 from .prompts import (
     SYSTEM_PROMPT_GENERATOR,
     build_generator_user_prompt,
-    build_retry_user_prompt
+    build_retry_user_prompt,
+    extract_json
 )
 
 class BatchGenerator:
@@ -58,12 +59,7 @@ class BatchGenerator:
                     temperature=CONFIG.temperature,
                     use_cache=False  # 修复重试绕过缓存
                 )
-                clean_resp = raw_resp.strip()
-                if clean_resp.startswith("```"):
-                    clean_resp = re.sub(r"^```(?:json)?\s*", "", clean_resp)
-                    clean_resp = re.sub(r"\s*```$", "", clean_resp)
-
-                fixed_q = json.loads(clean_resp.strip())
+                fixed_q = extract_json(raw_resp)
                 if isinstance(fixed_q, list) and len(fixed_q) > 0:
                     fixed_q = fixed_q[0]
 
@@ -109,19 +105,21 @@ class BatchGenerator:
         mw_examples = list(dict.fromkeys(dict_exs + web_exs))
         mw_defs = mw_entry.get("definitions", [])
 
-        user_prompt = build_generator_user_prompt(cluster, q_id_1, q_id_2, mw_examples, mw_defs)
+        # 确定 target_1 与 target_2 (二者均严格保证属于专八标星大纲词)
+        target_1 = cluster["target_word"]
+        other_t8 = [w for w in cluster["words"] if w in self.verifier.tem8_words and w != target_1]
+        target_2 = other_t8[0] if other_t8 else target_1
+
+        user_prompt = build_generator_user_prompt(
+            cluster, q_id_1, q_id_2, mw_examples, mw_defs, secondary_target=target_2
+        )
         messages = [
             {"role": "system", "content": SYSTEM_PROMPT_GENERATOR},
             {"role": "user", "content": user_prompt}
         ]
 
         raw_resp = await self.client.chat_completion(messages=messages, temperature=CONFIG.temperature)
-        clean_resp = raw_resp.strip()
-        if clean_resp.startswith("```"):
-            clean_resp = re.sub(r"^```(?:json)?\s*", "", clean_resp)
-            clean_resp = re.sub(r"\s*```$", "", clean_resp)
-
-        questions = json.loads(clean_resp.strip())
+        questions = extract_json(raw_resp)
         if not isinstance(questions, list):
             questions = [questions]
 

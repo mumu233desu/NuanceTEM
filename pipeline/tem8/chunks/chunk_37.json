@@ -6,6 +6,60 @@
   "clusters": [
     {
       "group_id": 371,
+      "group_name": "heady, prudent, judicious, wise",
+      "target_word": "heady",
+      "words": [
+        "heady",
+        "prudent",
+        "judicious",
+        "wise"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "heady 与近义词辨析",
+      "synset_definition": "marked by the exercise of good judgment or common sense in practical matters",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 372,
+      "group_name": "heretical, heterodox, unorthodox, dissident",
+      "target_word": "heretical",
+      "words": [
+        "heretical",
+        "heterodox",
+        "unorthodox",
+        "dissident"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "heretical 与近义词辨析",
+      "synset_definition": "characterized by departure from accepted beliefs or standards",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 373,
+      "group_name": "horrid, horrific, offensive, hideous",
+      "target_word": "horrid",
+      "words": [
+        "horrid",
+        "horrific",
+        "offensive",
+        "hideous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "horrid 与近义词辨析",
+      "synset_definition": "grossly offensive to decency or morality; causing horror",
+      "t8_count": 3,
+      "cas_score": 92
+    },
+    {
+      "group_id": 374,
       "group_name": "incoherent, fuzzy, disjointed, illogical",
       "target_word": "incoherent",
       "words": [
@@ -23,7 +77,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 372,
+      "group_id": 375,
       "group_name": "mundane, temporal, terrestrial, secular",
       "target_word": "mundane",
       "words": [
@@ -41,7 +95,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 373,
+      "group_id": 376,
       "group_name": "vagabond, vagrant, unsettled, aimless",
       "target_word": "vagabond",
       "words": [
@@ -59,25 +113,7 @@
       "cas_score": 92
     },
     {
-      "group_id": 374,
-      "group_name": "wicked, heinous, villainous, heavy",
-      "target_word": "wicked",
-      "words": [
-        "wicked",
-        "heinous",
-        "villainous",
-        "heavy"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "wicked 与近义词辨析",
-      "synset_definition": "morally bad in principle or practice",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 375,
+      "group_id": 377,
       "group_name": "affable, genial, amiable, cordial",
       "target_word": "affable",
       "words": [
@@ -95,7 +131,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 376,
+      "group_id": 378,
       "group_name": "agile, quick, nimble, active",
       "target_word": "agile",
       "words": [
@@ -113,7 +149,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 377,
+      "group_id": 379,
       "group_name": "arduous, laborious, backbreaking, hard",
       "target_word": "arduous",
       "words": [
@@ -131,56 +167,20 @@
       "cas_score": 88
     },
     {
-      "group_id": 378,
-      "group_name": "dainty, squeamish, fastidious, nice",
-      "target_word": "dainty",
-      "words": [
-        "dainty",
-        "squeamish",
-        "fastidious",
-        "nice"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "dainty 与近义词辨析",
-      "synset_definition": "excessively fastidious and easily disgusted",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 379,
-      "group_name": "desirous, avid, nostalgic, greedy",
-      "target_word": "desirous",
-      "words": [
-        "desirous",
-        "avid",
-        "nostalgic",
-        "greedy"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "desirous 与近义词辨析",
-      "synset_definition": "having or expressing desire for something",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
       "group_id": 380,
-      "group_name": "dire, horrific, horrendous, awful",
-      "target_word": "dire",
+      "group_name": "bum, tinny, sleazy, cheap",
+      "target_word": "bum",
       "words": [
-        "dire",
-        "horrific",
-        "horrendous",
-        "awful"
+        "bum",
+        "tinny",
+        "sleazy",
+        "cheap"
       ],
       "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "dire 与近义词辨析",
-      "synset_definition": "causing fear or dread or terror",
+      "theme_label": "bum 与近义词辨析",
+      "synset_definition": "of very poor quality; flimsy",
       "t8_count": 3,
       "cas_score": 88
     }

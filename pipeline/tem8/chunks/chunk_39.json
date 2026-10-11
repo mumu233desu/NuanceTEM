@@ -6,6 +6,42 @@
   "clusters": [
     {
       "group_id": 391,
+      "group_name": "ghastly, grisly, gruesome, grim",
+      "target_word": "ghastly",
+      "words": [
+        "ghastly",
+        "grisly",
+        "gruesome",
+        "grim"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "ghastly 与近义词辨析",
+      "synset_definition": "shockingly repellent; inspiring horror",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 392,
+      "group_name": "inexplicable, cryptic, paradoxical, deep",
+      "target_word": "inexplicable",
+      "words": [
+        "inexplicable",
+        "cryptic",
+        "paradoxical",
+        "deep"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "inexplicable 与近义词辨析",
+      "synset_definition": "incapable of being explained or accounted for",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 393,
       "group_name": "lavish, lush, plush, rich",
       "target_word": "lavish",
       "words": [
@@ -23,25 +59,7 @@
       "cas_score": 88
     },
     {
-      "group_id": 392,
-      "group_name": "perceptive, observant, discerning, understanding",
-      "target_word": "perceptive",
-      "words": [
-        "perceptive",
-        "observant",
-        "discerning",
-        "understanding"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "perceptive 与近义词辨析",
-      "synset_definition": "having the ability to perceive or understand; keen in discernment",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 393,
+      "group_id": 394,
       "group_name": "robust, husky, stalwart, iron",
       "target_word": "robust",
       "words": [
@@ -55,24 +73,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "robust 与近义词辨析",
       "synset_definition": "sturdy and strong in form, constitution, or construction",
-      "t8_count": 3,
-      "cas_score": 88
-    },
-    {
-      "group_id": 394,
-      "group_name": "sleazy, bum, tinny, cheap",
-      "target_word": "sleazy",
-      "words": [
-        "sleazy",
-        "bum",
-        "tinny",
-        "cheap"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "sleazy 与近义词辨析",
-      "synset_definition": "of very poor quality; flimsy",
       "t8_count": 3,
       "cas_score": 88
     },
@@ -132,24 +132,6 @@
     },
     {
       "group_id": 398,
-      "group_name": "adroit, deft, neat, handy",
-      "target_word": "adroit",
-      "words": [
-        "adroit",
-        "deft",
-        "neat",
-        "handy"
-      ],
-      "pos": "adj",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "adroit 与近义词辨析",
-      "synset_definition": "quick or skillful or adept in action or thought",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 399,
       "group_name": "articulate, facile, fluent, silver",
       "target_word": "articulate",
       "words": [
@@ -167,7 +149,7 @@
       "cas_score": 84
     },
     {
-      "group_id": 400,
+      "group_id": 399,
       "group_name": "assertive, cocky, emphatic, forceful",
       "target_word": "assertive",
       "words": [
@@ -181,6 +163,24 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "assertive 与近义词辨析",
       "synset_definition": "aggressively self-assured",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 400,
+      "group_name": "atrocious, grievous, evil, monstrous",
+      "target_word": "atrocious",
+      "words": [
+        "atrocious",
+        "grievous",
+        "evil",
+        "monstrous"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "atrocious 与近义词辨析",
+      "synset_definition": "shockingly brutal or cruel",
       "t8_count": 2,
       "cas_score": 84
     }

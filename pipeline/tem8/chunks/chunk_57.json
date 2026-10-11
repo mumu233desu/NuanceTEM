@@ -24,13 +24,31 @@
     },
     {
       "group_id": 572,
-      "group_name": "agitation, waver, quiver, flicker",
+      "group_name": "adhesive, abrasive, undercut, aggregate",
+      "target_word": "adhesive",
+      "words": [
+        "adhesive",
+        "abrasive",
+        "undercut",
+        "aggregate"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adhesive 与近义词辨析",
+      "synset_definition": "a substance that unites or bonds surfaces together",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 573,
+      "group_name": "agitation, flit, wiggle, squirm",
       "target_word": "agitation",
       "words": [
         "agitation",
-        "waver",
-        "quiver",
-        "flicker"
+        "flit",
+        "wiggle",
+        "squirm"
       ],
       "pos": "n",
       "field": "FIELD_BEHAVIOR",
@@ -41,7 +59,25 @@
       "cas_score": 93
     },
     {
-      "group_id": 573,
+      "group_id": 574,
+      "group_name": "anagram, hybrid, catchword, quantifier",
+      "target_word": "anagram",
+      "words": [
+        "anagram",
+        "hybrid",
+        "catchword",
+        "quantifier"
+      ],
+      "pos": "n",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "anagram 与近义词辨析",
+      "synset_definition": "a word or phrase spelled by rearranging the letters of another word or phrase",
+      "t8_count": 4,
+      "cas_score": 93
+    },
+    {
+      "group_id": 575,
       "group_name": "antidote, balm, lotion, panacea",
       "target_word": "antidote",
       "words": [
@@ -59,7 +95,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 574,
+      "group_id": 576,
       "group_name": "antipathy, hobgoblin, infatuation, hallucination",
       "target_word": "antipathy",
       "words": [
@@ -77,7 +113,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 575,
+      "group_id": 577,
       "group_name": "apex, node, zenith, equinox",
       "target_word": "apex",
       "words": [
@@ -95,7 +131,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 576,
+      "group_id": 578,
       "group_name": "apprehension, misgiving, foretaste, expectancy",
       "target_word": "apprehension",
       "words": [
@@ -113,7 +149,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 577,
+      "group_id": 579,
       "group_name": "archetype, epitome, paradigm, prototype",
       "target_word": "archetype",
       "words": [
@@ -131,7 +167,7 @@
       "cas_score": 93
     },
     {
-      "group_id": 578,
+      "group_id": 580,
       "group_name": "asylum, loft, hovel, hutch",
       "target_word": "asylum",
       "words": [
@@ -145,42 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "asylum 与近义词辨析",
       "synset_definition": "a shelter from danger or hardship",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 579,
-      "group_name": "balm, lotion, panacea, ointment",
-      "target_word": "balm",
-      "words": [
-        "balm",
-        "lotion",
-        "panacea",
-        "ointment"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "balm 与近义词辨析",
-      "synset_definition": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
-      "t8_count": 4,
-      "cas_score": 93
-    },
-    {
-      "group_id": 580,
-      "group_name": "balustrade, fence, jetty, grate",
-      "target_word": "balustrade",
-      "words": [
-        "balustrade",
-        "fence",
-        "jetty",
-        "grate"
-      ],
-      "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "balustrade 与近义词辨析",
-      "synset_definition": "a railing at the side of a staircase or balcony to prevent people from falling",
       "t8_count": 4,
       "cas_score": 93
     }

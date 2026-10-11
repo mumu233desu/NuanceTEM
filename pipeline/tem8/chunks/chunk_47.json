@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 471,
+      "group_name": "sulphurous, virulent, acid, bitter",
+      "target_word": "sulphurous",
+      "words": [
+        "sulphurous",
+        "virulent",
+        "acid",
+        "bitter"
+      ],
+      "pos": "adj",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "sulphurous 与近义词辨析",
+      "synset_definition": "harsh or corrosive in tone",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 472,
       "group_name": "tacky, tawdry, loud, cheap",
       "target_word": "tacky",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 472,
+      "group_id": 473,
       "group_name": "ungainly, unwieldy, clumsy, awkward",
       "target_word": "ungainly",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 473,
+      "group_id": 474,
       "group_name": "venomous, virulent, toxic, deadly",
       "target_word": "venomous",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 474,
+      "group_id": 475,
       "group_name": "aboveboard, square, straight, straightforward",
       "target_word": "aboveboard",
       "words": [
@@ -77,7 +95,25 @@
       "cas_score": 78
     },
     {
-      "group_id": 475,
+      "group_id": 476,
+      "group_name": "adroit, neat, handy, clean",
+      "target_word": "adroit",
+      "words": [
+        "adroit",
+        "neat",
+        "handy",
+        "clean"
+      ],
+      "pos": "adj",
+      "field": "FIELD_BEHAVIOR",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "adroit 与近义词辨析",
+      "synset_definition": "quick or skillful or adept in action or thought",
+      "t8_count": 1,
+      "cas_score": 78
+    },
+    {
+      "group_id": 477,
       "group_name": "awesome, awful, amazing, impressive",
       "target_word": "awesome",
       "words": [
@@ -95,7 +131,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 476,
+      "group_id": 478,
       "group_name": "benevolent, kind, kindly, charitable",
       "target_word": "benevolent",
       "words": [
@@ -113,7 +149,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 477,
+      "group_id": 479,
       "group_name": "catchy, hard, tricky, difficult",
       "target_word": "catchy",
       "words": [
@@ -131,7 +167,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 478,
+      "group_id": 480,
       "group_name": "categorical, flat, unqualified, unconditional",
       "target_word": "categorical",
       "words": [
@@ -145,42 +181,6 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "categorical 与近义词辨析",
       "synset_definition": "not modified or restricted by reservations",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 479,
-      "group_name": "dandy, keen, neat, good",
-      "target_word": "dandy",
-      "words": [
-        "dandy",
-        "keen",
-        "neat",
-        "good"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dandy 与近义词辨析",
-      "synset_definition": "very good",
-      "t8_count": 1,
-      "cas_score": 78
-    },
-    {
-      "group_id": 480,
-      "group_name": "dapper, spruce, stylish, fashionable",
-      "target_word": "dapper",
-      "words": [
-        "dapper",
-        "spruce",
-        "stylish",
-        "fashionable"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "dapper 与近义词辨析",
-      "synset_definition": "marked by up-to-dateness in dress and manners",
       "t8_count": 1,
       "cas_score": 78
     }

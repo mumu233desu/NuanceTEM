@@ -6,24 +6,6 @@
   "clusters": [
     {
       "group_id": 11,
-      "group_name": "adhere, conform, comply, abide",
-      "target_word": "adhere",
-      "words": [
-        "adhere",
-        "conform",
-        "comply",
-        "abide"
-      ],
-      "pos": "v",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "adhere 与近义词辨析",
-      "synset_definition": "",
-      "t8_count": 1,
-      "cas_score": 95
-    },
-    {
-      "group_id": 12,
       "group_name": "sporadic, intermittent, periodic, fitful",
       "target_word": "sporadic",
       "words": [
@@ -41,7 +23,7 @@
       "cas_score": 95
     },
     {
-      "group_id": 13,
+      "group_id": 12,
       "group_name": "insidious, treacherous, stealthy, surreptitious",
       "target_word": "insidious",
       "words": [
@@ -57,6 +39,24 @@
       "synset_definition": "",
       "t8_count": 2,
       "cas_score": 95
+    },
+    {
+      "group_id": 13,
+      "group_name": "abduct, yank, hale, twitch",
+      "target_word": "abduct",
+      "words": [
+        "abduct",
+        "yank",
+        "hale",
+        "twitch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abduct 与近义词辨析",
+      "synset_definition": "pull away from the body",
+      "t8_count": 4,
+      "cas_score": 100
     },
     {
       "group_id": 14,

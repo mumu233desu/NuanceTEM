@@ -6,49 +6,13 @@
   "clusters": [
     {
       "group_id": 161,
-      "group_name": "spout, blurt, whiff, snarl",
-      "target_word": "spout",
-      "words": [
-        "spout",
-        "blurt",
-        "whiff",
-        "snarl"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "spout 与近义词辨析",
-      "synset_definition": "talk in a noisy, excited, or declamatory manner",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 162,
-      "group_name": "sprawl, strew, straggle, propagate",
-      "target_word": "sprawl",
-      "words": [
-        "sprawl",
-        "strew",
-        "straggle",
-        "propagate"
-      ],
-      "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "sprawl 与近义词辨析",
-      "synset_definition": "go, come, or spread in a rambling or irregular way",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 163,
-      "group_name": "strut, wade, slink, mince",
+      "group_name": "strut, wade, slink, ruffle",
       "target_word": "strut",
       "words": [
         "strut",
         "wade",
         "slink",
-        "mince"
+        "ruffle"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -59,25 +23,43 @@
       "cas_score": 100
     },
     {
-      "group_id": 164,
-      "group_name": "supple, lighten, exacerbate, exasperate",
-      "target_word": "supple",
+      "group_id": 162,
+      "group_name": "superimpose, ladle, siphon, stratify",
+      "target_word": "superimpose",
       "words": [
-        "supple",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "superimpose",
+        "ladle",
+        "siphon",
+        "stratify"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "supple 与近义词辨析",
-      "synset_definition": "make pliant and flexible",
+      "theme_label": "superimpose 与近义词辨析",
+      "synset_definition": "place on top of",
       "t8_count": 4,
       "cas_score": 100
     },
     {
-      "group_id": 165,
+      "group_id": 163,
+      "group_name": "swoop, waver, quiver, writhe",
+      "target_word": "swoop",
+      "words": [
+        "swoop",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "swoop 与近义词辨析",
+      "synset_definition": "move with a sweep, or in a swooping arc",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 164,
       "group_name": "syndicate, undercut, undersell, auctioneer",
       "target_word": "syndicate",
       "words": [
@@ -95,32 +77,32 @@
       "cas_score": 100
     },
     {
-      "group_id": 166,
-      "group_name": "tamper, knead, wield, shuffle",
-      "target_word": "tamper",
+      "group_id": 165,
+      "group_name": "taper, wane, flag, deflate",
+      "target_word": "taper",
       "words": [
-        "tamper",
-        "knead",
-        "wield",
-        "shuffle"
+        "taper",
+        "wane",
+        "flag",
+        "deflate"
       ],
       "pos": "v",
-      "field": "FIELD_CHANGE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "tamper 与近义词辨析",
-      "synset_definition": "play around with or alter or falsify, usually secretively or dishonestly",
+      "theme_label": "taper 与近义词辨析",
+      "synset_definition": "diminish gradually",
       "t8_count": 4,
       "cas_score": 100
     },
     {
-      "group_id": 167,
-      "group_name": "teeter, swoop, totter, fidget",
+      "group_id": 166,
+      "group_name": "teeter, waver, totter, quiver",
       "target_word": "teeter",
       "words": [
         "teeter",
-        "swoop",
+        "waver",
         "totter",
-        "fidget"
+        "quiver"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -131,14 +113,14 @@
       "cas_score": 100
     },
     {
-      "group_id": 168,
-      "group_name": "trample, wade, slink, mince",
+      "group_id": 167,
+      "group_name": "trample, wade, slink, slouch",
       "target_word": "trample",
       "words": [
         "trample",
         "wade",
         "slink",
-        "mince"
+        "slouch"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -149,38 +131,56 @@
       "cas_score": 100
     },
     {
-      "group_id": 169,
-      "group_name": "transfigure, lighten, exacerbate, exasperate",
+      "group_id": 168,
+      "group_name": "transfigure, flip, revert, regress",
       "target_word": "transfigure",
       "words": [
         "transfigure",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "flip",
+        "revert",
+        "regress"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "transfigure 与近义词辨析",
+      "synset_definition": "change completely the nature or appearance of",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 169,
+      "group_name": "tremor, slash, rattle, wiggle",
+      "target_word": "tremor",
+      "words": [
+        "tremor",
+        "slash",
+        "rattle",
+        "wiggle"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "transfigure 与近义词辨析",
-      "synset_definition": "elevate or idealize, in allusion to Christ's transfiguration",
+      "theme_label": "tremor 与近义词辨析",
+      "synset_definition": "shake with seismic vibrations",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 170,
-      "group_name": "transmute, lighten, exacerbate, exasperate",
-      "target_word": "transmute",
+      "group_name": "trump, rap, thud, drone",
+      "target_word": "trump",
       "words": [
-        "transmute",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "trump",
+        "rap",
+        "thud",
+        "drone"
       ],
       "pos": "v",
-      "field": "FIELD_CHANGE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "transmute 与近义词辨析",
-      "synset_definition": "change or alter in form, appearance, or nature",
+      "theme_label": "trump 与近义词辨析",
+      "synset_definition": "produce a sound as if from a trumpet",
       "t8_count": 4,
       "cas_score": 100
     }

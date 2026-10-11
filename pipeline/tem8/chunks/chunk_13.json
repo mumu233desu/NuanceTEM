@@ -6,13 +6,31 @@
   "clusters": [
     {
       "group_id": 131,
-      "group_name": "quiver, swoop, fidget, flurry",
+      "group_name": "quench, slash, detract, deflate",
+      "target_word": "quench",
+      "words": [
+        "quench",
+        "slash",
+        "detract",
+        "deflate"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "quench 与近义词辨析",
+      "synset_definition": "reduce the degree of (luminescence or phosphorescence) in (excited molecules or a material) by adding a suitable substance",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 132,
+      "group_name": "quiver, waver, writhe, bustle",
       "target_word": "quiver",
       "words": [
         "quiver",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "writhe",
+        "bustle"
       ],
       "pos": "v",
       "field": "FIELD_CHANGE",
@@ -23,38 +41,20 @@
       "cas_score": 100
     },
     {
-      "group_id": 132,
-      "group_name": "rasp, blurt, whiff, snarl",
+      "group_id": 133,
+      "group_name": "rasp, blurt, whiff, snivel",
       "target_word": "rasp",
       "words": [
         "rasp",
         "blurt",
         "whiff",
-        "snarl"
+        "snivel"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "rasp 与近义词辨析",
       "synset_definition": "utter in a grating voice",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 133,
-      "group_name": "rationalize, lighten, exacerbate, exasperate",
-      "target_word": "rationalize",
-      "words": [
-        "rationalize",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "rationalize 与近义词辨析",
-      "synset_definition": "remove irrational quantities from",
       "t8_count": 4,
       "cas_score": 100
     },
@@ -78,31 +78,31 @@
     },
     {
       "group_id": 135,
-      "group_name": "recapture, loot, foray, extort",
-      "target_word": "recapture",
+      "group_name": "rebate, lop, pare, indent",
+      "target_word": "rebate",
       "words": [
-        "recapture",
-        "loot",
-        "foray",
-        "extort"
+        "rebate",
+        "lop",
+        "pare",
+        "indent"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "recapture 与近义词辨析",
-      "synset_definition": "take back by force, as after a battle",
+      "theme_label": "rebate 与近义词辨析",
+      "synset_definition": "cut a rebate in (timber or stone)",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 136,
-      "group_name": "reciprocate, swoop, fidget, flurry",
+      "group_name": "reciprocate, waver, quiver, writhe",
       "target_word": "reciprocate",
       "words": [
         "reciprocate",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_CHANGE",
@@ -114,60 +114,42 @@
     },
     {
       "group_id": 137,
-      "group_name": "rectify, lighten, exacerbate, exasperate",
-      "target_word": "rectify",
+      "group_name": "recline, ladle, siphon, stratify",
+      "target_word": "recline",
       "words": [
-        "rectify",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "recline",
+        "ladle",
+        "siphon",
+        "stratify"
       ],
       "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "rectify 与近义词辨析",
-      "synset_definition": "bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "recline 与近义词辨析",
+      "synset_definition": "cause to recline",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 138,
-      "group_name": "regress, flip, revert, falsify",
-      "target_word": "regress",
+      "group_name": "regret, stag, inoculate, understate",
+      "target_word": "regret",
       "words": [
-        "regress",
-        "flip",
-        "revert",
-        "falsify"
+        "regret",
+        "stag",
+        "inoculate",
+        "understate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "regress 与近义词辨析",
-      "synset_definition": "go back to a previous state",
+      "theme_label": "regret 与近义词辨析",
+      "synset_definition": "express with regret",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 139,
-      "group_name": "reinstate, lighten, exacerbate, exasperate",
-      "target_word": "reinstate",
-      "words": [
-        "reinstate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_NATURE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "reinstate 与近义词辨析",
-      "synset_definition": "bring back into original existence, use, function, or position",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 140,
       "group_name": "rejuvenate, jog, lure, entice",
       "target_word": "rejuvenate",
       "words": [
@@ -181,6 +163,24 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "rejuvenate 与近义词辨析",
       "synset_definition": "cause (a stream or river) to erode, as by an uplift of the land",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 140,
+      "group_name": "remit, wane, flag, deflate",
+      "target_word": "remit",
+      "words": [
+        "remit",
+        "wane",
+        "flag",
+        "deflate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "remit 与近义词辨析",
+      "synset_definition": "diminish or abate",
       "t8_count": 4,
       "cas_score": 100
     }

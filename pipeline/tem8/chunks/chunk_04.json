@@ -60,49 +60,31 @@
     },
     {
       "group_id": 44,
-      "group_name": "deaden, lighten, exacerbate, exasperate",
-      "target_word": "deaden",
+      "group_name": "dampen, mollify, enfeeble, debilitate",
+      "target_word": "dampen",
       "words": [
-        "deaden",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "dampen",
+        "mollify",
+        "enfeeble",
+        "debilitate"
       ],
       "pos": "v",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_CHANGE",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "deaden 与近义词辨析",
-      "synset_definition": "make vapid or deprive of spirit",
+      "theme_label": "dampen 与近义词辨析",
+      "synset_definition": "reduce the amplitude (of oscillations or waves)",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 45,
-      "group_name": "debilitate, dampen, negate, mollify",
-      "target_word": "debilitate",
-      "words": [
-        "debilitate",
-        "dampen",
-        "negate",
-        "mollify"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "debilitate 与近义词辨析",
-      "synset_definition": "make weak",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 46,
-      "group_name": "decelerate, wane, flag, remit",
+      "group_name": "decelerate, wane, flag, retard",
       "target_word": "decelerate",
       "words": [
         "decelerate",
         "wane",
         "flag",
-        "remit"
+        "retard"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -113,49 +95,49 @@
       "cas_score": 100
     },
     {
+      "group_id": 46,
+      "group_name": "decompose, flux, fuse, conflate",
+      "target_word": "decompose",
+      "words": [
+        "decompose",
+        "flux",
+        "fuse",
+        "conflate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "decompose 与近义词辨析",
+      "synset_definition": "lose a stored charge, magnetic flux, or current",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
       "group_id": 47,
-      "group_name": "deflate, lighten, exacerbate, exasperate",
+      "group_name": "deflate, wane, flag, depreciate",
       "target_word": "deflate",
       "words": [
         "deflate",
-        "lighten",
-        "exacerbate",
-        "exasperate"
+        "wane",
+        "flag",
+        "depreciate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "deflate 与近义词辨析",
-      "synset_definition": "produce deflation in",
+      "synset_definition": "become deflated or flaccid, as by losing air",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 48,
-      "group_name": "deform, lighten, exacerbate, exasperate",
-      "target_word": "deform",
-      "words": [
-        "deform",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "deform 与近义词辨析",
-      "synset_definition": "make formless",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 49,
-      "group_name": "deplore, trounce, reprove, admonish",
+      "group_name": "deplore, snipe, assail, admonish",
       "target_word": "deplore",
       "words": [
         "deplore",
-        "trounce",
-        "reprove",
+        "snipe",
+        "assail",
         "admonish"
       ],
       "pos": "v",
@@ -167,20 +149,38 @@
       "cas_score": 100
     },
     {
-      "group_id": 50,
-      "group_name": "depose, profess, sanctify, consecrate",
-      "target_word": "depose",
+      "group_id": 49,
+      "group_name": "detonate, flux, fuse, conflate",
+      "target_word": "detonate",
       "words": [
-        "depose",
-        "profess",
-        "sanctify",
-        "consecrate"
+        "detonate",
+        "flux",
+        "fuse",
+        "conflate"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "depose 与近义词辨析",
-      "synset_definition": "make a deposition; declare under oath",
+      "theme_label": "detonate 与近义词辨析",
+      "synset_definition": "cause to burst with a violent release of energy",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 50,
+      "group_name": "dice, lop, pare, indent",
+      "target_word": "dice",
+      "words": [
+        "dice",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "dice 与近义词辨析",
+      "synset_definition": "cut into cubes",
       "t8_count": 4,
       "cas_score": 100
     }

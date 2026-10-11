@@ -6,181 +6,181 @@
   "clusters": [
     {
       "group_id": 631,
-      "group_name": "sap, dope, booby, scatterbrain",
-      "target_word": "sap",
+      "group_name": "lapse, blunder, oversight, incursion",
+      "target_word": "lapse",
       "words": [
-        "sap",
-        "dope",
-        "booby",
-        "scatterbrain"
+        "lapse",
+        "blunder",
+        "oversight",
+        "incursion"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "sap 与近义词辨析",
-      "synset_definition": "a person who lacks good judgment",
+      "theme_label": "lapse 与近义词辨析",
+      "synset_definition": "a mistake resulting from inattention",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 632,
-      "group_name": "skid, gag, hamper, muzzle",
-      "target_word": "skid",
+      "group_name": "lookout, sentry, picket, sentinel",
+      "target_word": "lookout",
       "words": [
-        "skid",
-        "gag",
-        "hamper",
-        "muzzle"
+        "lookout",
+        "sentry",
+        "picket",
+        "sentinel"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "skid 与近义词辨析",
-      "synset_definition": "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation",
+      "theme_label": "lookout 与近义词辨析",
+      "synset_definition": "a person employed to keep watch for some anticipated event",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 633,
-      "group_name": "sophist, stoic, cynic, existentialist",
-      "target_word": "sophist",
+      "group_name": "lure, prod, foil, decoy",
+      "target_word": "lure",
       "words": [
-        "sophist",
-        "stoic",
-        "cynic",
-        "existentialist"
+        "lure",
+        "prod",
+        "foil",
+        "decoy"
       ],
       "pos": "n",
-      "field": "FIELD_NATURE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "sophist 与近义词辨析",
-      "synset_definition": "any of a group of Greek philosophers and teachers in the 5th century BC who speculated on a wide range of subjects",
+      "theme_label": "lure 与近义词辨析",
+      "synset_definition": "something used to lure fish or other animals into danger so they can be trapped or killed",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 634,
-      "group_name": "spate, flux, upsurge, dripping",
-      "target_word": "spate",
+      "group_name": "mink, ferret, badger, glutton",
+      "target_word": "mink",
       "words": [
-        "spate",
-        "flux",
-        "upsurge",
-        "dripping"
+        "mink",
+        "ferret",
+        "badger",
+        "glutton"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "spate 与近义词辨析",
-      "synset_definition": "a sudden forceful flow",
+      "field": "FIELD_NATURE",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "mink 与近义词辨析",
+      "synset_definition": "slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 635,
-      "group_name": "splutter, creak, rustle, squawk",
-      "target_word": "splutter",
+      "group_name": "mythology, mound, fauna, corpus",
+      "target_word": "mythology",
       "words": [
-        "splutter",
-        "creak",
-        "rustle",
-        "squawk"
+        "mythology",
+        "mound",
+        "fauna",
+        "corpus"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "splutter 与近义词辨析",
-      "synset_definition": "the noise of something spattering or sputtering explosively",
+      "theme_label": "mythology 与近义词辨析",
+      "synset_definition": "myths collectively; the body of stories associated with a culture or institution or person",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 636,
-      "group_name": "trance, stupor, blackout, stupefaction",
-      "target_word": "trance",
+      "group_name": "observance, peek, squint, lookout",
+      "target_word": "observance",
       "words": [
-        "trance",
-        "stupor",
-        "blackout",
-        "stupefaction"
+        "observance",
+        "peek",
+        "squint",
+        "lookout"
       ],
       "pos": "n",
       "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "trance 与近义词辨析",
-      "synset_definition": "a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sleep",
+      "theme_label": "observance 与近义词辨析",
+      "synset_definition": "the act of observing; taking a patient look",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 637,
-      "group_name": "vanguard, corps, infantry, battalion",
-      "target_word": "vanguard",
+      "group_name": "ooze, gush, flux, spate",
+      "target_word": "ooze",
       "words": [
-        "vanguard",
-        "corps",
-        "infantry",
-        "battalion"
+        "ooze",
+        "gush",
+        "flux",
+        "spate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "vanguard 与近义词辨析",
-      "synset_definition": "the leading units moving at the head of an army",
+      "theme_label": "ooze 与近义词辨析",
+      "synset_definition": "the process of seeping",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 638,
-      "group_name": "vulture, rowdy, ruffian, hooligan",
-      "target_word": "vulture",
+      "group_name": "orientation, stance, posture, reverence",
+      "target_word": "orientation",
       "words": [
-        "vulture",
-        "rowdy",
-        "ruffian",
-        "hooligan"
+        "orientation",
+        "stance",
+        "posture",
+        "reverence"
       ],
       "pos": "n",
-      "field": "FIELD_STANCE",
+      "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "vulture 与近义词辨析",
-      "synset_definition": "someone who attacks in search of booty",
+      "theme_label": "orientation 与近义词辨析",
+      "synset_definition": "an integrated set of attitudes and beliefs",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 639,
-      "group_name": "waddle, strut, stalk, lurch",
-      "target_word": "waddle",
+      "group_name": "override, prod, foil, buffer",
+      "target_word": "override",
       "words": [
-        "waddle",
-        "strut",
-        "stalk",
-        "lurch"
+        "override",
+        "prod",
+        "foil",
+        "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "waddle 与近义词辨析",
-      "synset_definition": "walking with short steps and the weight tilting from one foot to the other",
+      "theme_label": "override 与近义词辨析",
+      "synset_definition": "a manually operated device to correct the operation of an automatic device",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 640,
-      "group_name": "wreckage, stub, turnout, pressing",
-      "target_word": "wreckage",
+      "group_name": "pawn, underling, accomplice, confederate",
+      "target_word": "pawn",
       "words": [
-        "wreckage",
-        "stub",
-        "turnout",
-        "pressing"
+        "pawn",
+        "underling",
+        "accomplice",
+        "confederate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "wreckage 与近义词辨析",
-      "synset_definition": "the remaining parts of something that has been wrecked",
+      "theme_label": "pawn 与近义词辨析",
+      "synset_definition": "a person used by another to gain an end",
       "t8_count": 4,
       "cas_score": 93
     }

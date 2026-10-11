@@ -24,42 +24,24 @@
     },
     {
       "group_id": 2,
-      "group_name": "diminish, dwindle, contract, shrink",
-      "target_word": "diminish",
+      "group_name": "rectify, amend, remedy, redress",
+      "target_word": "rectify",
       "words": [
-        "diminish",
-        "dwindle",
-        "contract",
-        "shrink"
-      ],
-      "pos": "v",
-      "field": "FIELD_CHANGE",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "diminish 与近义词辨析",
-      "synset_definition": "",
-      "t8_count": 0,
-      "cas_score": 95
-    },
-    {
-      "group_id": 3,
-      "group_name": "amend, rectify, remedy, redress",
-      "target_word": "amend",
-      "words": [
-        "amend",
         "rectify",
+        "amend",
         "remedy",
         "redress"
       ],
       "pos": "v",
       "field": "FIELD_CHANGE",
       "primary_mechanism": "MECH_REGISTER",
-      "theme_label": "amend 与近义词辨析",
+      "theme_label": "rectify 与近义词辨析",
       "synset_definition": "",
       "t8_count": 2,
       "cas_score": 95
     },
     {
-      "group_id": 4,
+      "group_id": 3,
       "group_name": "decry, denounce, condemn, censure",
       "target_word": "decry",
       "words": [
@@ -77,7 +59,7 @@
       "cas_score": 95
     },
     {
-      "group_id": 5,
+      "group_id": 4,
       "group_name": "equivocal, enigmatic, ambiguous, obscure",
       "target_word": "equivocal",
       "words": [
@@ -95,7 +77,7 @@
       "cas_score": 95
     },
     {
-      "group_id": 6,
+      "group_id": 5,
       "group_name": "judicious, judicial, prudent, legislative",
       "target_word": "judicious",
       "words": [
@@ -113,25 +95,25 @@
       "cas_score": 95
     },
     {
-      "group_id": 7,
-      "group_name": "credulous, gullible, naive, ingenuous",
-      "target_word": "credulous",
+      "group_id": 6,
+      "group_name": "ingenuous, credulous, gullible, naive",
+      "target_word": "ingenuous",
       "words": [
+        "ingenuous",
         "credulous",
         "gullible",
-        "naive",
-        "ingenuous"
+        "naive"
       ],
       "pos": "adj",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "credulous 与近义词辨析",
+      "theme_label": "ingenuous 与近义词辨析",
       "synset_definition": "",
       "t8_count": 1,
       "cas_score": 95
     },
     {
-      "group_id": 8,
+      "group_id": 7,
       "group_name": "acquit, vindicate, exonerate, absolve",
       "target_word": "acquit",
       "words": [
@@ -149,7 +131,7 @@
       "cas_score": 95
     },
     {
-      "group_id": 9,
+      "group_id": 8,
       "group_name": "broker, negotiate, mediate, arbitrate",
       "target_word": "broker",
       "words": [
@@ -167,7 +149,7 @@
       "cas_score": 95
     },
     {
-      "group_id": 10,
+      "group_id": 9,
       "group_name": "quash, quell, suppress, stifle",
       "target_word": "quash",
       "words": [
@@ -182,6 +164,24 @@
       "theme_label": "quash 与近义词辨析",
       "synset_definition": "",
       "t8_count": 2,
+      "cas_score": 95
+    },
+    {
+      "group_id": 10,
+      "group_name": "abide, adhere, conform, comply",
+      "target_word": "abide",
+      "words": [
+        "abide",
+        "adhere",
+        "conform",
+        "comply"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "abide 与近义词辨析",
+      "synset_definition": "",
+      "t8_count": 1,
       "cas_score": 95
     }
   ]

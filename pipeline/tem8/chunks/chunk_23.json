@@ -6,85 +6,13 @@
   "clusters": [
     {
       "group_id": 231,
-      "group_name": "encase, fence, fortify, enshrine",
-      "target_word": "encase",
-      "words": [
-        "encase",
-        "fence",
-        "fortify",
-        "enshrine"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "encase 与近义词辨析",
-      "synset_definition": "enclose in, or as if in, a case",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 232,
-      "group_name": "encroach, lapse, forge, impinge",
-      "target_word": "encroach",
-      "words": [
-        "encroach",
-        "lapse",
-        "forge",
-        "impinge"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "encroach 与近义词辨析",
-      "synset_definition": "advance beyond the usual limit",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 233,
-      "group_name": "encumber, rein, baffle, hamper",
-      "target_word": "encumber",
-      "words": [
-        "encumber",
-        "rein",
-        "baffle",
-        "hamper"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "encumber 与近义词辨析",
-      "synset_definition": "hold back",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 234,
-      "group_name": "entwine, wring, snarl, wrench",
-      "target_word": "entwine",
-      "words": [
-        "entwine",
-        "wring",
-        "snarl",
-        "wrench"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "entwine 与近义词辨析",
-      "synset_definition": "spin,wind, or twist together",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 235,
-      "group_name": "flex, swoop, fidget, flurry",
+      "group_name": "flex, waver, quiver, writhe",
       "target_word": "flex",
       "words": [
         "flex",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -95,7 +23,7 @@
       "cas_score": 96
     },
     {
-      "group_id": 236,
+      "group_id": 232,
       "group_name": "flop, alight, subside, cascade",
       "target_word": "flop",
       "words": [
@@ -113,14 +41,14 @@
       "cas_score": 96
     },
     {
-      "group_id": 237,
-      "group_name": "flux, swoop, fidget, flurry",
+      "group_id": 233,
+      "group_name": "flux, waver, quiver, writhe",
       "target_word": "flux",
       "words": [
         "flux",
-        "swoop",
-        "fidget",
-        "flurry"
+        "waver",
+        "quiver",
+        "writhe"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -131,56 +59,128 @@
       "cas_score": 96
     },
     {
-      "group_id": 238,
-      "group_name": "forego, waive, chuck, forfeit",
-      "target_word": "forego",
-      "words": [
-        "forego",
-        "waive",
-        "chuck",
-        "forfeit"
-      ],
-      "pos": "v",
-      "field": "FIELD_RELATION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "forego 与近义词辨析",
-      "synset_definition": "lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 239,
-      "group_name": "gauge, blur, scrub, scour",
-      "target_word": "gauge",
-      "words": [
-        "gauge",
-        "blur",
-        "scrub",
-        "scour"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "gauge 与近义词辨析",
-      "synset_definition": "rub to a uniform size",
-      "t8_count": 4,
-      "cas_score": 96
-    },
-    {
-      "group_id": 240,
-      "group_name": "harness, rein, baffle, hamper",
+      "group_id": 234,
+      "group_name": "harness, rein, baffle, inhibit",
       "target_word": "harness",
       "words": [
         "harness",
         "rein",
         "baffle",
-        "hamper"
+        "inhibit"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "harness 与近义词辨析",
       "synset_definition": "keep in check",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 235,
+      "group_name": "honk, rap, thud, drone",
+      "target_word": "honk",
+      "words": [
+        "honk",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "honk 与近义词辨析",
+      "synset_definition": "make a loud noise",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 236,
+      "group_name": "immerse, fence, encase, enshrine",
+      "target_word": "immerse",
+      "words": [
+        "immerse",
+        "fence",
+        "encase",
+        "enshrine"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "immerse 与近义词辨析",
+      "synset_definition": "enclose or envelop completely, as if by swallowing",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 237,
+      "group_name": "impair, mar, blemish, afflict",
+      "target_word": "impair",
+      "words": [
+        "impair",
+        "mar",
+        "blemish",
+        "afflict"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impair 与近义词辨析",
+      "synset_definition": "make worse or less effective",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 238,
+      "group_name": "impoverish, regress, inflame, devolve",
+      "target_word": "impoverish",
+      "words": [
+        "impoverish",
+        "regress",
+        "inflame",
+        "devolve"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "impoverish 与近义词辨析",
+      "synset_definition": "take away",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 239,
+      "group_name": "infringe, lapse, forge, impinge",
+      "target_word": "infringe",
+      "words": [
+        "infringe",
+        "lapse",
+        "forge",
+        "impinge"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "infringe 与近义词辨析",
+      "synset_definition": "advance beyond the usual limit",
+      "t8_count": 4,
+      "cas_score": 96
+    },
+    {
+      "group_id": 240,
+      "group_name": "invalidate, void, clot, reinstate",
+      "target_word": "invalidate",
+      "words": [
+        "invalidate",
+        "void",
+        "clot",
+        "reinstate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "invalidate 与近义词辨析",
+      "synset_definition": "take away the legal force of or render ineffective",
       "t8_count": 4,
       "cas_score": 96
     }

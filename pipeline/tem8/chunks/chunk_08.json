@@ -6,168 +6,24 @@
   "clusters": [
     {
       "group_id": 81,
-      "group_name": "flag, wane, remit, deflate",
-      "target_word": "flag",
+      "group_name": "freelance, fag, scab, tinker",
+      "target_word": "freelance",
       "words": [
-        "flag",
-        "wane",
-        "remit",
-        "deflate"
+        "freelance",
+        "fag",
+        "scab",
+        "tinker"
       ],
       "pos": "v",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_RELATION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "flag 与近义词辨析",
-      "synset_definition": "become less intense",
+      "theme_label": "freelance 与近义词辨析",
+      "synset_definition": "work independently and on temporary contracts rather than for a long-term employer",
       "t8_count": 4,
       "cas_score": 100
     },
     {
       "group_id": 82,
-      "group_name": "flinch, funk, wince, quail",
-      "target_word": "flinch",
-      "words": [
-        "flinch",
-        "funk",
-        "wince",
-        "quail"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "flinch 与近义词辨析",
-      "synset_definition": "draw back, as with fear or pain",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 83,
-      "group_name": "flip, swoop, twitch, fidget",
-      "target_word": "flip",
-      "words": [
-        "flip",
-        "swoop",
-        "twitch",
-        "fidget"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "flip 与近义词辨析",
-      "synset_definition": "toss with a sharp movement so as to cause to turn over in the air",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 84,
-      "group_name": "flounder, wade, slink, mince",
-      "target_word": "flounder",
-      "words": [
-        "flounder",
-        "wade",
-        "slink",
-        "mince"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "flounder 与近义词辨析",
-      "synset_definition": "walk with great difficulty",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 85,
-      "group_name": "flout, jeer, scoff, banter",
-      "target_word": "flout",
-      "words": [
-        "flout",
-        "jeer",
-        "scoff",
-        "banter"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "flout 与近义词辨析",
-      "synset_definition": "laugh at with contempt and derision",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 86,
-      "group_name": "flurry, swoop, fidget, wallow",
-      "target_word": "flurry",
-      "words": [
-        "flurry",
-        "swoop",
-        "fidget",
-        "wallow"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "flurry 与近义词辨析",
-      "synset_definition": "move in an agitated or confused manner",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 87,
-      "group_name": "foray, immerse, pervade, permeate",
-      "target_word": "foray",
-      "words": [
-        "foray",
-        "immerse",
-        "pervade",
-        "permeate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "foray 与近义词辨析",
-      "synset_definition": "briefly enter enemy territory",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 88,
-      "group_name": "fortify, lighten, exacerbate, exasperate",
-      "target_word": "fortify",
-      "words": [
-        "fortify",
-        "lighten",
-        "exacerbate",
-        "exasperate"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "fortify 与近义词辨析",
-      "synset_definition": "make strong or stronger",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 89,
-      "group_name": "fracture, maim, trample, incapacitate",
-      "target_word": "fracture",
-      "words": [
-        "fracture",
-        "maim",
-        "trample",
-        "incapacitate"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "fracture 与近义词辨析",
-      "synset_definition": "fracture a bone of",
-      "t8_count": 4,
-      "cas_score": 100
-    },
-    {
-      "group_id": 90,
       "group_name": "fret, grate, beset, harass",
       "target_word": "fret",
       "words": [
@@ -181,6 +37,150 @@
       "primary_mechanism": "MECH_COLLOCATION",
       "theme_label": "fret 与近义词辨析",
       "synset_definition": "cause annoyance in",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 83,
+      "group_name": "furl, flex, bulge, pouch",
+      "target_word": "furl",
+      "words": [
+        "furl",
+        "flex",
+        "bulge",
+        "pouch"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "furl 与近义词辨析",
+      "synset_definition": "form into a cylinder by rolling",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 84,
+      "group_name": "furrow, lop, pare, indent",
+      "target_word": "furrow",
+      "words": [
+        "furrow",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "furrow 与近义词辨析",
+      "synset_definition": "cut a furrow into a columns",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 85,
+      "group_name": "gabble, blurt, whiff, gibber",
+      "target_word": "gabble",
+      "words": [
+        "gabble",
+        "blurt",
+        "whiff",
+        "gibber"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gabble 与近义词辨析",
+      "synset_definition": "speak (about unimportant matters) rapidly and incessantly",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 86,
+      "group_name": "gauge, scrub, scour, grate",
+      "target_word": "gauge",
+      "words": [
+        "gauge",
+        "scrub",
+        "scour",
+        "grate"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gauge 与近义词辨析",
+      "synset_definition": "rub to a uniform size",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 87,
+      "group_name": "gibber, hoot, squall, gobble",
+      "target_word": "gibber",
+      "words": [
+        "gibber",
+        "hoot",
+        "squall",
+        "gobble"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gibber 与近义词辨析",
+      "synset_definition": "chatter inarticulately; of monkeys",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 88,
+      "group_name": "gravitate, waver, quiver, writhe",
+      "target_word": "gravitate",
+      "words": [
+        "gravitate",
+        "waver",
+        "quiver",
+        "writhe"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gravitate 与近义词辨析",
+      "synset_definition": "move due to the pull of gravitation",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 89,
+      "group_name": "gurgle, rap, thud, drone",
+      "target_word": "gurgle",
+      "words": [
+        "gurgle",
+        "rap",
+        "thud",
+        "drone"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "gurgle 与近义词辨析",
+      "synset_definition": "make sounds similar to gurgling water",
+      "t8_count": 4,
+      "cas_score": 100
+    },
+    {
+      "group_id": 90,
+      "group_name": "hack, lop, pare, indent",
+      "target_word": "hack",
+      "words": [
+        "hack",
+        "lop",
+        "pare",
+        "indent"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "hack 与近义词辨析",
+      "synset_definition": "cut with a hacking tool",
       "t8_count": 4,
       "cas_score": 100
     }

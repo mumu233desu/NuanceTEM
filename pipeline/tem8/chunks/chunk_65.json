@@ -6,183 +6,183 @@
   "clusters": [
     {
       "group_id": 651,
-      "group_name": "flit, waver, quiver, flicker",
-      "target_word": "flit",
+      "group_name": "rake, ram, tamper, grapple",
+      "target_word": "rake",
       "words": [
-        "flit",
-        "waver",
-        "quiver",
-        "flicker"
+        "rake",
+        "ram",
+        "tamper",
+        "grapple"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "flit 与近义词辨析",
-      "synset_definition": "a sudden quick movement",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rake 与近义词辨析",
+      "synset_definition": "a long-handled tool with a row of teeth at its head; used to move leaves or loosen soil",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 652,
-      "group_name": "footwork, feint, gambit, gimmick",
-      "target_word": "footwork",
+      "group_name": "rebound, wring, wrench, repercussion",
+      "target_word": "rebound",
       "words": [
-        "footwork",
-        "feint",
-        "gambit",
-        "gimmick"
+        "rebound",
+        "wring",
+        "wrench",
+        "repercussion"
       ],
       "pos": "n",
       "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "footwork 与近义词辨析",
-      "synset_definition": "skillful maneuvering or dealing",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rebound 与近义词辨析",
+      "synset_definition": "a movement back from an impact",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 653,
-      "group_name": "foreland, cape, slash, archipelago",
-      "target_word": "foreland",
+      "group_name": "relapse, lapse, flunk, failing",
+      "target_word": "relapse",
       "words": [
-        "foreland",
-        "cape",
-        "slash",
-        "archipelago"
+        "relapse",
+        "lapse",
+        "flunk",
+        "failing"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "foreland 与近义词辨析",
-      "synset_definition": "land forming the forward margin of something",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "relapse 与近义词辨析",
+      "synset_definition": "a failure to maintain a higher state",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 654,
-      "group_name": "forte, stub, turnout, pressing",
-      "target_word": "forte",
+      "group_name": "repertoire, mound, fauna, corpus",
+      "target_word": "repertoire",
       "words": [
-        "forte",
-        "stub",
-        "turnout",
-        "pressing"
+        "repertoire",
+        "mound",
+        "fauna",
+        "corpus"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "forte 与近义词辨析",
-      "synset_definition": "the stronger part of a sword blade between the hilt and the foible",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "repertoire 与近义词辨析",
+      "synset_definition": "the entire range of skills or aptitudes or devices used in a particular field or occupation",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 655,
-      "group_name": "fray, ruffle, rumble, hassle",
-      "target_word": "fray",
+      "group_name": "respite, lull, lapse, blackout",
+      "target_word": "respite",
       "words": [
-        "fray",
-        "ruffle",
-        "rumble",
-        "hassle"
+        "respite",
+        "lull",
+        "lapse",
+        "blackout"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "fray 与近义词辨析",
-      "synset_definition": "a noisy fight",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "respite 与近义词辨析",
+      "synset_definition": "a pause for relaxation",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 656,
-      "group_name": "frontal, frill, ruffle, rosette",
-      "target_word": "frontal",
+      "group_name": "reversion, lapse, flunk, relapse",
+      "target_word": "reversion",
       "words": [
-        "frontal",
-        "frill",
-        "ruffle",
-        "rosette"
+        "reversion",
+        "lapse",
+        "flunk",
+        "relapse"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "frontal 与近义词辨析",
-      "synset_definition": "an adornment worn on the forehead",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "reversion 与近义词辨析",
+      "synset_definition": "a failure to maintain a higher state",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 657,
-      "group_name": "hairpiece, rig, finery, outfit",
-      "target_word": "hairpiece",
+      "group_name": "rind, abrasive, undercut, aggregate",
+      "target_word": "rind",
       "words": [
-        "hairpiece",
-        "rig",
-        "finery",
-        "outfit"
+        "rind",
+        "abrasive",
+        "undercut",
+        "aggregate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "hairpiece 与近义词辨析",
-      "synset_definition": "a covering or bunch of human or artificial hair used for disguise or adornment",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rind 与近义词辨析",
+      "synset_definition": "the natural outer covering of food (usually removed before eating)",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 658,
-      "group_name": "haven, loft, oasis, hovel",
-      "target_word": "haven",
+      "group_name": "rocker, pier, brace, foothold",
+      "target_word": "rocker",
       "words": [
-        "haven",
-        "loft",
-        "oasis",
-        "hovel"
+        "rocker",
+        "pier",
+        "brace",
+        "foothold"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "haven 与近义词辨析",
-      "synset_definition": "a shelter serving as a place of safety or sanctuary",
+      "field": "FIELD_STANCE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "rocker 与近义词辨析",
+      "synset_definition": "a curved support that permits the supported object to rock to and fro",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 659,
-      "group_name": "havoc, mayhem, turmoil, rampage",
-      "target_word": "havoc",
+      "group_name": "rosette, frill, ruffle, frontal",
+      "target_word": "rosette",
       "words": [
-        "havoc",
-        "mayhem",
-        "turmoil",
-        "rampage"
+        "rosette",
+        "frill",
+        "ruffle",
+        "frontal"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "havoc 与近义词辨析",
-      "synset_definition": "violent and needless disturbance",
+      "primary_mechanism": "MECH_CONNOTATION",
+      "theme_label": "rosette 与近义词辨析",
+      "synset_definition": "an ornament or pattern resembling a rose that is worn as a badge of office or as recognition of having won an honor",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     },
     {
       "group_id": 660,
-      "group_name": "hub, stub, turnout, pressing",
-      "target_word": "hub",
+      "group_name": "sag, furrow, crease, dimple",
+      "target_word": "sag",
       "words": [
-        "hub",
-        "stub",
-        "turnout",
-        "pressing"
+        "sag",
+        "furrow",
+        "crease",
+        "dimple"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "hub 与近义词辨析",
-      "synset_definition": "the central part of a car wheel (or fan or propeller etc) through which the shaft or axle passes",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "sag 与近义词辨析",
+      "synset_definition": "a shape that sags",
       "t8_count": 4,
-      "cas_score": 89
+      "cas_score": 93
     }
   ]
 }

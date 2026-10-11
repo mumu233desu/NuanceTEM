@@ -6,6 +6,24 @@
   "clusters": [
     {
       "group_id": 541,
+      "group_name": "harebrained, mad, insane, foolish",
+      "target_word": "harebrained",
+      "words": [
+        "harebrained",
+        "mad",
+        "insane",
+        "foolish"
+      ],
+      "pos": "adj",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "harebrained 与近义词辨析",
+      "synset_definition": "very foolish",
+      "t8_count": 1,
+      "cas_score": 74
+    },
+    {
+      "group_id": 542,
       "group_name": "hoary, old, grey, gray",
       "target_word": "hoary",
       "words": [
@@ -23,7 +41,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 542,
+      "group_id": 543,
       "group_name": "illicit, outlaw, illegal, unlawful",
       "target_word": "illicit",
       "words": [
@@ -41,7 +59,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 543,
+      "group_id": 544,
       "group_name": "illustrious, famed, noted, known",
       "target_word": "illustrious",
       "words": [
@@ -59,7 +77,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 544,
+      "group_id": 545,
       "group_name": "immobile, fast, firm, fixed",
       "target_word": "immobile",
       "words": [
@@ -77,7 +95,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 545,
+      "group_id": 546,
       "group_name": "infernal, damn, blame, damned",
       "target_word": "infernal",
       "words": [
@@ -95,7 +113,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 546,
+      "group_id": 547,
       "group_name": "irksome, dull, slow, boring",
       "target_word": "irksome",
       "words": [
@@ -113,7 +131,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 547,
+      "group_id": 548,
       "group_name": "legible, fair, clean, clear",
       "target_word": "legible",
       "words": [
@@ -131,7 +149,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 548,
+      "group_id": 549,
       "group_name": "literal, real, true, actual",
       "target_word": "literal",
       "words": [
@@ -149,7 +167,7 @@
       "cas_score": 74
     },
     {
-      "group_id": 549,
+      "group_id": 550,
       "group_name": "lousy, dirty, nasty, awful",
       "target_word": "lousy",
       "words": [
@@ -163,24 +181,6 @@
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "lousy 与近义词辨析",
       "synset_definition": "vile; despicable",
-      "t8_count": 1,
-      "cas_score": 74
-    },
-    {
-      "group_id": 550,
-      "group_name": "ludicrous, absurd, foolish, ridiculous",
-      "target_word": "ludicrous",
-      "words": [
-        "ludicrous",
-        "absurd",
-        "foolish",
-        "ridiculous"
-      ],
-      "pos": "adj",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "ludicrous 与近义词辨析",
-      "synset_definition": "incongruous;inviting ridicule",
       "t8_count": 1,
       "cas_score": 74
     }

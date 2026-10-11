@@ -6,96 +6,24 @@
   "clusters": [
     {
       "group_id": 721,
-      "group_name": "ascertain, see, check, insure",
-      "target_word": "ascertain",
-      "words": [
-        "ascertain",
-        "see",
-        "check",
-        "insure"
-      ],
-      "pos": "v",
-      "field": "FIELD_BEHAVIOR",
-      "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "ascertain 与近义词辨析",
-      "synset_definition": "be careful or certain to do something; make certain of something",
-      "t8_count": 1,
-      "cas_score": 74
-    },
-    {
-      "group_id": 722,
-      "group_name": "ascribe, attribute, rate, rank",
-      "target_word": "ascribe",
-      "words": [
-        "ascribe",
-        "attribute",
-        "rate",
-        "rank"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "ascribe 与近义词辨析",
-      "synset_definition": "attribute or credit to",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 723,
-      "group_name": "assail, fence, war, tug",
-      "target_word": "assail",
-      "words": [
-        "assail",
-        "fence",
-        "war",
-        "tug"
-      ],
-      "pos": "v",
-      "field": "FIELD_STANCE",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "assail 与近义词辨析",
-      "synset_definition": "launch an attack or assault on; begin hostilities or start warfare with",
-      "t8_count": 2,
-      "cas_score": 84
-    },
-    {
-      "group_id": 724,
-      "group_name": "asterisk, flag, delineate, ink",
-      "target_word": "asterisk",
-      "words": [
-        "asterisk",
-        "flag",
-        "delineate",
-        "ink"
-      ],
-      "pos": "v",
-      "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "asterisk 与近义词辨析",
-      "synset_definition": "mark with an asterisk",
-      "t8_count": 3,
-      "cas_score": 92
-    },
-    {
-      "group_id": 725,
-      "group_name": "audition, rap, act, play",
+      "group_name": "audition, rap, interlude, act",
       "target_word": "audition",
       "words": [
         "audition",
         "rap",
-        "act",
-        "play"
+        "interlude",
+        "act"
       ],
       "pos": "v",
       "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_NUANCE",
       "theme_label": "audition 与近义词辨析",
       "synset_definition": "perform in order to get a role",
-      "t8_count": 2,
-      "cas_score": 80
+      "t8_count": 3,
+      "cas_score": 88
     },
     {
-      "group_id": 726,
+      "group_id": 722,
       "group_name": "autograph, endorse, ink, execute",
       "target_word": "autograph",
       "words": [
@@ -113,14 +41,14 @@
       "cas_score": 84
     },
     {
-      "group_id": 727,
-      "group_name": "autopsy, rake, look, scan",
+      "group_id": 723,
+      "group_name": "autopsy, rake, scan, skim",
       "target_word": "autopsy",
       "words": [
         "autopsy",
         "rake",
-        "look",
-        "scan"
+        "scan",
+        "skim"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -131,7 +59,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 728,
+      "group_id": 724,
       "group_name": "avail, recur, put, play",
       "target_word": "avail",
       "words": [
@@ -149,7 +77,7 @@
       "cas_score": 80
     },
     {
-      "group_id": 729,
+      "group_id": 725,
       "group_name": "avert, stop, halt, save",
       "target_word": "avert",
       "words": [
@@ -167,7 +95,7 @@
       "cas_score": 78
     },
     {
-      "group_id": 730,
+      "group_id": 726,
       "group_name": "backhand, foul, racket, undercut",
       "target_word": "backhand",
       "words": [
@@ -183,6 +111,78 @@
       "synset_definition": "hit a tennis ball backhand",
       "t8_count": 4,
       "cas_score": 96
+    },
+    {
+      "group_id": 727,
+      "group_name": "barrage, bombard, rip, claw",
+      "target_word": "barrage",
+      "words": [
+        "barrage",
+        "bombard",
+        "rip",
+        "claw"
+      ],
+      "pos": "v",
+      "field": "FIELD_RELATION",
+      "primary_mechanism": "MECH_REGISTER",
+      "theme_label": "barrage 与近义词辨析",
+      "synset_definition": "address with continuously or persistently, as if with a barrage",
+      "t8_count": 2,
+      "cas_score": 80
+    },
+    {
+      "group_id": 728,
+      "group_name": "barter, swap, cash, sell",
+      "target_word": "barter",
+      "words": [
+        "barter",
+        "swap",
+        "cash",
+        "sell"
+      ],
+      "pos": "v",
+      "field": "FIELD_CHANGE",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "barter 与近义词辨析",
+      "synset_definition": "exchange goods without involving money",
+      "t8_count": 2,
+      "cas_score": 84
+    },
+    {
+      "group_id": 729,
+      "group_name": "bask, sprawl, recline, sun",
+      "target_word": "bask",
+      "words": [
+        "bask",
+        "sprawl",
+        "recline",
+        "sun"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_NUANCE",
+      "theme_label": "bask 与近义词辨析",
+      "synset_definition": "be exposed",
+      "t8_count": 3,
+      "cas_score": 88
+    },
+    {
+      "group_id": 730,
+      "group_name": "bawl, roar, yell, bellow",
+      "target_word": "bawl",
+      "words": [
+        "bawl",
+        "roar",
+        "yell",
+        "bellow"
+      ],
+      "pos": "v",
+      "field": "FIELD_COGNITION",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "bawl 与近义词辨析",
+      "synset_definition": "shout loudly and without restraint",
+      "t8_count": 1,
+      "cas_score": 78
     }
   ]
 }

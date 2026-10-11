@@ -6,181 +6,181 @@
   "clusters": [
     {
       "group_id": 601,
-      "group_name": "frill, ruffle, rosette, novelty",
-      "target_word": "frill",
+      "group_name": "dribble, gush, flux, spate",
+      "target_word": "dribble",
       "words": [
-        "frill",
-        "ruffle",
-        "rosette",
-        "novelty"
+        "dribble",
+        "gush",
+        "flux",
+        "spate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "frill 与近义词辨析",
-      "synset_definition": "a strip of pleated material used as a decoration or a trim",
+      "theme_label": "dribble 与近义词辨析",
+      "synset_definition": "flowing in drops; the formation and falling of drops of liquid",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 602,
-      "group_name": "fuzz, blur, schema, perception",
-      "target_word": "fuzz",
+      "group_name": "dripping, gush, flux, spate",
+      "target_word": "dripping",
       "words": [
-        "fuzz",
-        "blur",
-        "schema",
-        "perception"
+        "dripping",
+        "gush",
+        "flux",
+        "spate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "fuzz 与近义词辨析",
-      "synset_definition": "a hazy or indistinct representation",
+      "theme_label": "dripping 与近义词辨析",
+      "synset_definition": "a liquid (as water) that flows in drops (as from the eaves of house)",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 603,
-      "group_name": "gag, muzzle, hamper, tether",
-      "target_word": "gag",
+      "group_name": "edifice, hull, mound, hangar",
+      "target_word": "edifice",
       "words": [
-        "gag",
-        "muzzle",
-        "hamper",
-        "tether"
+        "edifice",
+        "hull",
+        "mound",
+        "hangar"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "gag 与近义词辨析",
-      "synset_definition": "restraint put into a person's mouth to prevent speaking or shouting",
+      "theme_label": "edifice 与近义词辨析",
+      "synset_definition": "a structure that has a roof and walls and stands more or less permanently in one place",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 604,
-      "group_name": "gentility, chic, flair, grandeur",
-      "target_word": "gentility",
+      "group_name": "euphemism, quip, maxim, epigram",
+      "target_word": "euphemism",
       "words": [
-        "gentility",
-        "chic",
-        "flair",
-        "grandeur"
+        "euphemism",
+        "quip",
+        "maxim",
+        "epigram"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
-      "primary_mechanism": "MECH_CONNOTATION",
-      "theme_label": "gentility 与近义词辨析",
-      "synset_definition": "elegance by virtue of fineness of manner and expression",
+      "primary_mechanism": "MECH_COLLOCATION",
+      "theme_label": "euphemism 与近义词辨析",
+      "synset_definition": "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 605,
-      "group_name": "gloss, visage, semblance, countenance",
-      "target_word": "gloss",
+      "group_name": "evangelist, rabbi, reverend, patriarch",
+      "target_word": "evangelist",
       "words": [
-        "gloss",
-        "visage",
-        "semblance",
-        "countenance"
+        "evangelist",
+        "rabbi",
+        "reverend",
+        "patriarch"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "gloss 与近义词辨析",
-      "synset_definition": "an outward or token appearance or form that is deliberately misleading",
+      "theme_label": "evangelist 与近义词辨析",
+      "synset_definition": "(when capitalized) any of the spiritual leaders who are assumed to be authors of the Gospels in the New Testament: Matthew, Mark, Luke, and John",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 606,
-      "group_name": "gush, flux, spate, dripping",
-      "target_word": "gush",
+      "group_name": "exaltation, apex, node, zenith",
+      "target_word": "exaltation",
       "words": [
-        "gush",
-        "flux",
-        "spate",
-        "dripping"
+        "exaltation",
+        "apex",
+        "node",
+        "zenith"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "gush 与近义词辨析",
-      "synset_definition": "a sudden rapid flow (as of water)",
+      "theme_label": "exaltation 与近义词辨析",
+      "synset_definition": "the location of a planet in the zodiac at which it is believed to exert its maximum influence",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 607,
-      "group_name": "hedonist, pagan, erotic, wanton",
-      "target_word": "hedonist",
+      "group_name": "feint, gambit, gimmick, artifice",
+      "target_word": "feint",
       "words": [
-        "hedonist",
-        "pagan",
-        "erotic",
-        "wanton"
+        "feint",
+        "gambit",
+        "gimmick",
+        "artifice"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_STANCE",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "hedonist 与近义词辨析",
-      "synset_definition": "someone motivated by desires for sensual pleasures",
+      "theme_label": "feint 与近义词辨析",
+      "synset_definition": "any distracting or deceptive maneuver (as a mock attack)",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 608,
-      "group_name": "hubbub, creak, rustle, squawk",
-      "target_word": "hubbub",
+      "group_name": "felicity, ecstasy, rapture, exaltation",
+      "target_word": "felicity",
       "words": [
-        "hubbub",
-        "creak",
-        "rustle",
-        "squawk"
+        "felicity",
+        "ecstasy",
+        "rapture",
+        "exaltation"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "hubbub 与近义词辨析",
-      "synset_definition": "loud confused noise from many sources",
+      "theme_label": "felicity 与近义词辨析",
+      "synset_definition": "state of well-being characterized by emotions ranging from contentment to intense joy",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 609,
-      "group_name": "hurdle, fence, jetty, grate",
-      "target_word": "hurdle",
+      "group_name": "fence, jetty, grate, fender",
+      "target_word": "fence",
       "words": [
-        "hurdle",
         "fence",
         "jetty",
-        "grate"
+        "grate",
+        "fender"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "hurdle 与近义词辨析",
-      "synset_definition": "a light movable barrier that competitors must leap over in certain races",
+      "theme_label": "fence 与近义词辨析",
+      "synset_definition": "a barrier that serves to enclose an area",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 610,
-      "group_name": "indemnity, redress, reparation, restitution",
-      "target_word": "indemnity",
+      "group_name": "finery, rig, outfit, turnout",
+      "target_word": "finery",
       "words": [
-        "indemnity",
-        "redress",
-        "reparation",
-        "restitution"
+        "finery",
+        "rig",
+        "outfit",
+        "turnout"
       ],
       "pos": "n",
-      "field": "FIELD_COGNITION",
+      "field": "FIELD_BEHAVIOR",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "indemnity 与近义词辨析",
-      "synset_definition": "a sum of money paid in compensation for loss or injury",
+      "theme_label": "finery 与近义词辨析",
+      "synset_definition": "elaborate or showy attire and accessories",
       "t8_count": 4,
       "cas_score": 93
     }

@@ -6,181 +6,181 @@
   "clusters": [
     {
       "group_id": 621,
-      "group_name": "plight, mire, pinch, bitch",
-      "target_word": "plight",
+      "group_name": "hamper, skid, tether, muzzle",
+      "target_word": "hamper",
       "words": [
-        "plight",
-        "mire",
-        "pinch",
-        "bitch"
+        "hamper",
+        "skid",
+        "tether",
+        "muzzle"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "plight 与近义词辨析",
-      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "theme_label": "hamper 与近义词辨析",
+      "synset_definition": "a restraint that confines or restricts freedom (especially something used to tie down or restrain a prisoner)",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 622,
-      "group_name": "posture, stance, reverence, disrespect",
-      "target_word": "posture",
+      "group_name": "hangar, hull, mound, equilibrium",
+      "target_word": "hangar",
       "words": [
-        "posture",
-        "stance",
-        "reverence",
-        "disrespect"
+        "hangar",
+        "hull",
+        "mound",
+        "equilibrium"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "posture 与近义词辨析",
-      "synset_definition": "a rationalized mental attitude",
+      "theme_label": "hangar 与近义词辨析",
+      "synset_definition": "a large structure at an airport where aircraft can be stored and maintained",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 623,
-      "group_name": "predicament, mire, pinch, bitch",
-      "target_word": "predicament",
+      "group_name": "hanger, pier, brace, foothold",
+      "target_word": "hanger",
       "words": [
-        "predicament",
-        "mire",
-        "pinch",
-        "bitch"
+        "hanger",
+        "pier",
+        "brace",
+        "foothold"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "predicament 与近义词辨析",
-      "synset_definition": "a situation from which extrication is difficult especially an unpleasant or trying one",
+      "theme_label": "hanger 与近义词辨析",
+      "synset_definition": "anything from which something can be hung",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 624,
-      "group_name": "quicksand, impasse, deadlock, stalemate",
-      "target_word": "quicksand",
+      "group_name": "hedonist, pagan, erotic, wanton",
+      "target_word": "hedonist",
       "words": [
-        "quicksand",
-        "impasse",
-        "deadlock",
-        "stalemate"
+        "hedonist",
+        "pagan",
+        "erotic",
+        "wanton"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "quicksand 与近义词辨析",
-      "synset_definition": "a treacherous situation that tends to entrap and destroy",
+      "theme_label": "hedonist 与近义词辨析",
+      "synset_definition": "someone motivated by desires for sensual pleasures",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 625,
-      "group_name": "racer, mutant, scavenger, herbivore",
-      "target_word": "racer",
+      "group_name": "hubbub, din, pant, rumble",
+      "target_word": "hubbub",
       "words": [
-        "racer",
-        "mutant",
-        "scavenger",
-        "herbivore"
+        "hubbub",
+        "din",
+        "pant",
+        "rumble"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "racer 与近义词辨析",
-      "synset_definition": "an animal that races",
+      "theme_label": "hubbub 与近义词辨析",
+      "synset_definition": "loud confused noise from many sources",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 626,
-      "group_name": "relapse, lapse, flunk, failing",
-      "target_word": "relapse",
+      "group_name": "hurdle, jetty, fence, grate",
+      "target_word": "hurdle",
       "words": [
-        "relapse",
-        "lapse",
-        "flunk",
-        "failing"
+        "hurdle",
+        "jetty",
+        "fence",
+        "grate"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "relapse 与近义词辨析",
-      "synset_definition": "a failure to maintain a higher state",
+      "theme_label": "hurdle 与近义词辨析",
+      "synset_definition": "a light movable barrier that competitors must leap over in certain races",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 627,
-      "group_name": "respite, lull, lapse, blackout",
-      "target_word": "respite",
+      "group_name": "impediment, hull, mound, hangar",
+      "target_word": "impediment",
       "words": [
-        "respite",
-        "lull",
-        "lapse",
-        "blackout"
+        "impediment",
+        "hull",
+        "mound",
+        "hangar"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "respite 与近义词辨析",
-      "synset_definition": "a pause for relaxation",
+      "theme_label": "impediment 与近义词辨析",
+      "synset_definition": "any structure that makes progress difficult",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 628,
-      "group_name": "reversion, lapse, flunk, relapse",
-      "target_word": "reversion",
+      "group_name": "indemnity, redress, reparation, restitution",
+      "target_word": "indemnity",
       "words": [
-        "reversion",
-        "lapse",
-        "flunk",
-        "relapse"
+        "indemnity",
+        "redress",
+        "reparation",
+        "restitution"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "reversion 与近义词辨析",
-      "synset_definition": "a failure to maintain a higher state",
+      "theme_label": "indemnity 与近义词辨析",
+      "synset_definition": "a sum of money paid in compensation for loss or injury",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 629,
-      "group_name": "sag, furrow, crease, dimple",
-      "target_word": "sag",
+      "group_name": "interlock, prod, foil, buffer",
+      "target_word": "interlock",
       "words": [
-        "sag",
-        "furrow",
-        "crease",
-        "dimple"
+        "interlock",
+        "prod",
+        "foil",
+        "buffer"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "sag 与近义词辨析",
-      "synset_definition": "a shape that sags",
+      "theme_label": "interlock 与近义词辨析",
+      "synset_definition": "a device that prevents an automotive engine from starting",
       "t8_count": 4,
       "cas_score": 93
     },
     {
       "group_id": 630,
-      "group_name": "sanctuary, loft, hovel, hutch",
-      "target_word": "sanctuary",
+      "group_name": "keel, hump, bulge, salient",
+      "target_word": "keel",
       "words": [
-        "sanctuary",
-        "loft",
-        "hovel",
-        "hutch"
+        "keel",
+        "hump",
+        "bulge",
+        "salient"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "sanctuary 与近义词辨析",
-      "synset_definition": "a shelter from danger or hardship",
+      "theme_label": "keel 与近义词辨析",
+      "synset_definition": "a projection or ridge that suggests a keel",
       "t8_count": 4,
       "cas_score": 93
     }
