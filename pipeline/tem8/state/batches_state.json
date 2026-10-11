@@ -1,32 +1,29 @@
 {
   "batch_00": {
     "batch_id": 0,
-    "status": "PENDING",
+    "status": "VERIFIED",
     "cluster_count": 10,
     "question_target": 20,
-    "questions_verified": 0,
-    "retry_count": 0,
-    "last_updated": null,
+    "questions_verified": 20,
+    "last_updated": "2026-10-11T15:29:47.020594",
     "error_log": []
   },
   "batch_01": {
     "batch_id": 1,
-    "status": "PENDING",
+    "status": "VERIFIED",
     "cluster_count": 10,
     "question_target": 20,
-    "questions_verified": 0,
-    "retry_count": 0,
-    "last_updated": null,
+    "questions_verified": 20,
+    "last_updated": "2026-10-11T15:43:47.623789",
     "error_log": []
   },
   "batch_02": {
     "batch_id": 2,
-    "status": "PENDING",
+    "status": "VERIFIED",
     "cluster_count": 10,
     "question_target": 20,
-    "questions_verified": 0,
-    "retry_count": 0,
-    "last_updated": null,
+    "questions_verified": 20,
+    "last_updated": "2026-10-11T15:49:48.782129",
     "error_log": []
   },
   "batch_03": {
