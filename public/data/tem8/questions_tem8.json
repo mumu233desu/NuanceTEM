@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "tem8_b00_01",
+    "group_id": 1,
+    "group_name": "abate, subside, ebb, wane",
+    "level": "TEM-8",
+    "target_word": "abate",
+    "question": "Although the treaty obligated industrialized member states to deploy advanced carbon-capture technologies to ___ hazardous industrial emissions, persistent compliance loopholes allowed several regional power plants to bypass emission caps entirely.",
+    "options": [
+      "abate",
+      "subside",
+      "ebb",
+      "wane"
+    ],
+    "answer": "abate",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Decisive anchor clue: The blank governs the direct noun phrase complement 'hazardous industrial emissions'. Among all four cluster verbs, only 'abate' possesses causative transitivity in formal academic register (meaning to suppress, mitigate, or reduce the quantity/severity of a pollutant or nuisance; cf. 'emissions abatement'). In contrast, 'subside', 'ebb', and 'wane' are strictly intransitive in modern standard English, resulting in immediate syntactic rupture if inserted here.",
+    "distractor_analysis": {
+      "abate": "【正确项】在此处作及物动词，意为“抑制、减缓、消除（恶劣事物、污染、公害等）”，后接名词短语 hazardous industrial emissions（有害工业排放）作宾语。在环境治理与公共政策语境中，“abate emissions / pollution / nuisances”属于高度规范的学术与法治搭配（如专有名词 carbon abatement），兼备句法及格性与语义精确性。",
+      "subside": "【干扰项】在现代英语中为纯不及物动词（intransitive verb），核心语义为“（水势、暴风雨、地质沉降或激动情绪）平息、沉降回落”，绝对不可后接宾语。若填入此处会导致严重的句法及格性断裂（syntactic violation）。",
+      "ebb": "【干扰项】为纯不及物动词，原义指潮汐“退潮”，引申为抽象力量、信心、支持率等“逐渐衰退、消散”（常与 away 连用或单独成句），无法作及物动词支配名词短语（*ebb industrial emissions 为不可接受的语法错误）。",
+      "wane": "【干扰项】为纯不及物动词，原指月相“亏缺”，后多用于比喻权力、热忱、声望或影响力“由盛转衰、式微”（如 waning enthusiasm / power），语法上不可带宾语，语义上亦无法表达通过政策或技术手段主动“削减”外在污染物的含义。"
+    },
+    "translation": "尽管该条约要求工业化成员国部署先进的碳捕集技术以削减有害工业排放，但长期的履约漏洞仍使部分区域发电厂得以彻底规避排放上限。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "Decisive anchor clue: The blank governs the direct noun phrase complement 'hazardous industrial emissions'. Among all four cluster verbs, only 'abate' possesses causative transitivity in formal academic register (meaning to suppress, mitigate, or reduce the quantity/severity of a pollutant or nuisance; cf. 'emissions abatement'). In contrast, 'subside', 'ebb', and 'wane' are strictly intransitive in modern standard English, resulting in immediate syntactic rupture if inserted here."
+  },
+  {
+    "id": "tem8_b00_02",
+    "group_id": 1,
+    "group_name": "abate, subside, ebb, wane",
+    "level": "TEM-8",
+    "target_word": "subside",
+    "question": "Following days of volatile street protests across the capital, civic unrest finally began to ___ into a precarious calm, allowing weary municipal authorities to resume emergency public services.",
+    "options": [
+      "abate",
+      "subside",
+      "ebb",
+      "wane"
+    ],
+    "answer": "subside",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Decisive anchor clue: The governing prepositional phrase 'into a precarious calm'. 'Subside' uniquely selects the resultative preposition 'into' (as in 'subside into calm / silence / quiescence'), capturing the semantic transition of turbulent commotion sinking down to an inactive, quiet baseline. While 'abate' can describe unrest losing strength, it rejects the resultative complement '*abate into'; neither 'ebb' nor 'wane' can collocate with 'into [a state of calm]'.",
+    "distractor_analysis": {
+      "subside": "【正确项】不及物动词，核心语素为“沉降并回复平静（sink down or settle to a normal level）”，常用于描述暴动、肿胀或嘈杂混乱的平息。其决定性锚点在于后接介词短语“into a precarious calm”（平息并归于不稳定的平静），subside into 是极具辨识度的固定句式搭配（如 subside into silence / calm / quiescence），完美契合社会动荡逐渐平复的语义动态。",
+      "abate": "【干扰项】虽可作不及物动词表示风暴或骚乱“减弱、衰退”（例如 the unrest abated），但在现代英语中它仅描述烈度本身的降低，绝不可与介词 into 连用以引出平复后的结果状态（*abate into a calm 属于严重搭配断裂）。",
+      "ebb": "【干扰项】侧重于潮汐式的“衰落、消退”（如 support ebbed away / ebbing tides），通常单独作谓语或与副词 away 搭配，无法接续介词 into 来表述由暴烈骚乱转入风平浪静的演变状态。",
+      "wane": "【干扰项】侧重于月相盈亏或盛极而衰的“渐趋式微”（如 a waning dynasty / waning popularity），不能与介词 into 搭配用于描述群体骚乱（civic unrest）平息并归于平静的场景。"
+    },
+    "translation": "在首都持续数日的激烈街头抗议之后，民间动荡终于开始平息并归于短暂脆弱的平静，使疲惫不堪的市政当局得以重启紧急公共服务。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "Decisive anchor clue: The governing prepositional phrase 'into a precarious calm'. 'Subside' uniquely selects the resultative preposition 'into' (as in 'subside into calm / silence / quiescence'), capturing the semantic transition of turbulent commotion sinking down to an inactive, quiet baseline. While 'abate' can describe unrest losing strength, it rejects the resultative complement '*abate into'; neither 'ebb' nor 'wane' can collocate with 'into [a state of calm]'."
+  },
+  {
+    "id": "tem8_b00_03",
+    "group_id": 2,
+    "group_name": "rectify, amend, remedy, redress",
+    "level": "TEM-8",
+    "target_word": "rectify",
+    "question": "Prompted by an independent compliance audit, the supervisory board instructed the fund managers to ___ the computational discrepancies identified in their quarterly risk models before submitting the final prospectus.",
+    "options": [
+      "rectify",
+      "amend",
+      "remedy",
+      "redress"
+    ],
+    "answer": "rectify",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Direct object 'computational discrepancies' in an audit/financial modeling context strictly requires a technical, procedural verb denoting the correction of numerical errors or standard deviations.",
+    "distractor_analysis": {
+      "rectify": "【正确】源自拉丁语 rectus（正确、校正），专指通过修正错误、疏漏或计算偏差，使其达到精确、合规的标准状态。在金融审计与学术语域中，与“computational discrepancies”（计算偏差）构成最地道、精确的专业搭配（rectify discrepancies/errors）。",
+      "amend": "【错误】意为“修订、修正”，主要用于对成文法、宪法、合同或草案等文本内容的正式修改与补充（如 amend the legislation/constitution），不能直接接“computational discrepancies”来表示纠正具体的计算错误。",
+      "remedy": "【错误】侧重“补救、医治、消除不良状况”，多用于改善机能障碍、物资短缺或解决弊端（如 remedy a defect/shortage），语域偏向实用与功能性补救，不符合针对客观量化模型误差的技术性纠错要求。",
+      "redress": "【错误】专指对不公、冤屈或损害给予“矫正、伸冤、赔偿”（如 redress grievances/wrongs），属于伦理与法律范畴，具有强烈的道德诉求，绝不可用于修正纯粹的算法或数字偏差。"
+    },
+    "translation": "在一项独立合规审计的敦促下，监事会责令基金经理在提交最终招股说明书之前，立即纠正其季度风险模型中发现的计算偏差。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "Direct object 'computational discrepancies' in an audit/financial modeling context strictly requires a technical, procedural verb denoting the correction of numerical errors or standard deviations."
+  },
+  {
+    "id": "tem8_b00_04",
+    "group_id": 2,
+    "group_name": "rectify, amend, remedy, redress",
+    "level": "TEM-8",
+    "target_word": "redress",
+    "question": "To ___ the balance between state surveillance and individual privacy, the appellate court imposed stringent statutory warrants, effectively constraining the intelligence agency's unchecked discretionary powers.",
+    "options": [
+      "rectify",
+      "amend",
+      "remedy",
+      "redress"
+    ],
+    "answer": "redress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_GOVERNANCE",
+    "anchor_clue": "The noun phrase 'the balance between... and...' functions as an ironclad lexical anchor. In standard English, 'redress the balance' is an entrenched, irreplaceable idiom meaning to restore parity or fairness. The other three verbs exclusively select negatively valenced nouns (e.g., 'an imbalance', 'a defect', 'an error') or text-based objects ('a statute', 'a charter') and cannot govern 'the balance'.",
+    "distractor_analysis": {
+      "redress": "【正确】搭配 'redress the balance (between A and B)' 为各权威词典（牛津、韦氏、剑桥）收录的高阶政治与法学固定习语搭配（idiom），意为“纠正失衡、使恢复平衡”（to restore equality or fairness in a situation）。在此处精准描述上诉法院通过确立搜查令门槛，以重构国家公权力与公民隐私权之间的平衡态，无可挑剔。",
+      "rectify": "【错误】意为“纠正、整改”。其语义选择限制（selectional restriction）严格要求支配具有负面瑕疵色彩的宾语（如 rectify an error / a deficiency / an imbalance）。在规范英语中，只有 'rectify an imbalance'（纠正失衡），绝无搭配基准中性词 'rectify the balance' 的用法，属严重搭配破裂。",
+      "amend": "【错误】意为“修正、修订”，专指对法律条文、议案、章程文本的修改（如 amend a constitution / treaty / law）或言行品德的修正（amend one's conduct）。完全无法支配 'the balance'，句法与语义均不通。",
+      "remedy": "【错误】意为“补救、医治”，词源与语义核指向消除病患、弊端或缺陷，其支配对象必须是负向问题名词（如 remedy an illness / a defect / an imbalance / a grievance）。与 rectify 类似，英语中可以说 'remedy an imbalance'，但根本不存在 'remedy the balance' 的表达。"
+    },
+    "translation": "为了恢复国家监视权力与个人隐私权之间的平衡，上诉法院下达了严格的法定搜查令，从而有效遏制了情报机构不受制约的自由裁量权。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The noun phrase 'the balance between... and...' functions as an ironclad lexical anchor. In standard English, 'redress the balance' is an entrenched, irreplaceable idiom meaning to restore parity or fairness. The other three verbs exclusively select negatively valenced nouns (e.g., 'an imbalance', 'a defect', 'an error') or text-based objects ('a statute', 'a charter') and cannot govern 'the balance'."
+  },
+  {
+    "id": "tem8_b00_05",
+    "group_id": 3,
+    "group_name": "decry, denounce, condemn, censure",
+    "level": "TEM-8",
+    "target_word": "decry",
+    "question": "Although institutional proponents celebrate the rapid proliferation of algorithmic diagnostics, medical humanists steadfastly ___ the acute dearth of qualitative bedside observation, warning that clinical empathy cannot be simulated by predictive computation.",
+    "options": [
+      "decry",
+      "denounce",
+      "condemn",
+      "censure"
+    ],
+    "answer": "decry",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中关键受事宾语为抽象匮乏名词短语 'the acute dearth of qualitative bedside observation'（定性床旁观察的严重匮乏），且与前半句让步从句中的 'celebrate the rapid proliferation'（赞美迅速普及）构成鲜明的修辞与态度对立（extol proliferation vs. decry dearth）。在词汇语义学与选择限制（selectional restrictions）上：decry（痛惜、哀叹、公开发表反对/贬抑）独占针对某种抽象的‘缺失、衰退、丧失’（dearth, loss, decline, erosion）进行公开痛陈与批判的搭配特征（如 decry the dearth of...）；而 denounce（指控罪恶/背叛）、condemn（定罪/道德宣判/宣告报废）以及 censure（纪律处分/正式申诫）的语义选择限制均强制要求受事宾语具备道德能动性、犯罪恶性或制度过错主体，绝对无法支配表示‘数量/维度匮乏’的抽象状态名词 dearth，从而确立了唯一的排他性答案。",
+    "distractor_analysis": {
+      "decry": "正确。decry 源自古法语 décrier（cry down，公开贬抑/痛陈……的不足），在学术批评与高级政论中专门用于对某种令人遗憾的客观现状、缺失、衰微或水准下滑表示公开痛惜与强烈反对（to express strong disapproval of a lamentable state, loss, or deficiency），是学术英语中修饰 'the acute dearth of...' 的典范高阶搭配，完美呼应前文 'celebrate' 的反向对立。",
+      "denounce": "错误。denounce 的核心语义选择限制要求受事对象具备道德劣根性、刑事违法性或背叛性质（如 denounce a traitor, corruption, human rights abuses），意为‘公开揭露/谴责某人或某罪恶行径’，或用于外交条约的废除（denounce a treaty）。'dearth'（匮乏）纯属一种客观缺失状态，不存在能动的主观恶意或罪行，与 denounce 产生严重的语义选择限制冲突（selectional restriction violation）。",
+      "condemn": "错误。condemn 侧重于不可逆转的司法定罪、严厉的终极道德判决（condemn terrorism/violence）或裁定建筑物/船只危险不堪使用（condemn a building）。它要求支配具体的恶劣罪行、危害行为或受刑客体，不能施加于抽象的‘短缺/匮乏’名词（在英语中不可搭配 *condemn a dearth）。",
+      "censure": "错误。censure 属于制度性或法定权威机构针对个人渎职或不端行为的正式训诫与纪律处分（an official reprimand by an authoritative body for misconduct）。其宾语必须是违纪的当事人或不端操守（如 censure the physician for negligence），'medical humanists' 作为学术评论群体既无官方纪律惩戒权，宾语 'dearth' 也绝非可受申诫纪律处分的违纪实体。"
+    },
+    "translation": "尽管机构倡导者赞美算法诊断的迅速普及，但医学人文学者却坚决痛陈定性床旁观察的严重匮乏，警告称临床同理心绝无法被预测性计算所模拟。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "句中关键受事宾语为抽象匮乏名词短语 'the acute dearth of qualitative bedside observation'（定性床旁观察的严重匮乏），且与前半句让步从句中的 'celebrate the rapid proliferation'（赞美迅速普及）构成鲜明的修辞与态度对立（extol proliferation vs. decry dearth）。在词汇语义学与选择限制（selectional restrictions）上：decry（痛惜、哀叹、公开发表反对/贬抑）独占针对某种抽象的‘缺失、衰退、丧失’（dearth, loss, decline, erosion）进行公开痛陈与批判的搭配特征（如 decry the dearth of...）；而 denounce（指控罪恶/背叛）、condemn（定罪/道德宣判/宣告报废）以及 censure（纪律处分/正式申诫）的语义选择限制均强制要求受事宾语具备道德能动性、犯罪恶性或制度过错主体，绝对无法支配表示‘数量/维度匮乏’的抽象状态名词 dearth，从而确立了唯一的排他性答案。"
+  },
+  {
+    "id": "tem8_b00_06",
+    "group_id": 3,
+    "group_name": "decry, denounce, condemn, censure",
+    "level": "TEM-8",
+    "target_word": "censure",
+    "question": "Following an exhaustive six-month ethics investigation, the university's disciplinary tribunal voted unanimously to ___ the department chair for flagrantly misallocating research endowments to private ventures.",
+    "options": [
+      "decry",
+      "denounce",
+      "condemn",
+      "censure"
+    ],
+    "answer": "censure",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中主语为具备法定监管权的纪律仲裁机构 'the university's disciplinary tribunal'，动作通过正式程序表决 'voted unanimously to ___'，针对对象为具体的涉事官员及违规行为 'the department chair for flagrantly misallocating research endowments'。在法律与高校行政规章体系中，具有纪律管辖权的仲裁机构对违纪人员做出的正式行政申诫与官方谴责，法定术语严格限定为 censure（censure sb for sth）。",
+    "distractor_analysis": {
+      "censure": "正确。《韦氏词典》明确指出：'CENSURE carries a strong implication of severe formal or official reprimand'，专指官方或专业机构（如议会、伦理委员会、纪律仲裁庭）依照正式程序对违纪违规成员做出的权威性正式训诫与谴责，与 'tribunal voted unanimously to... for...' 构成无懈可击的制度语域与句法搭配。",
+      "decry": "错误。decry 意为“公开反对、哀叹并贬低……的价值”，其宾语通常为某种社会趋势、观念或政策现象，决不能作为仲裁庭针对具体公职人员贪腐违纪做出的纪律处分决议（不存在 *tribunal voted to decry sb for misconduct 的用法）。",
+      "denounce": "错误。denounce 指公开告发、公开声讨或宣布条约废止，属于政治性或社会舆论层面的控诉与抨击，而非纪律仲裁机构内部通过表决形成的法制化处分决议（disciplinary sanction）。仲裁庭的法定职能是对违规者予以 censure，而非单方面政治声讨。",
+      "condemn": "错误。condemn 侧重于宣告最终的道德极刑或司法定罪（如判处死刑），在机构纪律惩处体系中缺乏 censure 所特有的“官方正式通报批评/行政申诫（official reprimand）”这一精确的制度层级定位。"
+    },
+    "translation": "在经历了长达六个月详尽的道德调查后，大学纪律仲裁庭一致投票决定，对公然将科研基金挪作个人商业投资的系主任予以正式行政申诫。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中主语为具备法定监管权的纪律仲裁机构 'the university's disciplinary tribunal'，动作通过正式程序表决 'voted unanimously to ___'，针对对象为具体的涉事官员及违规行为 'the department chair for flagrantly misallocating research endowments'。在法律与高校行政规章体系中，具有纪律管辖权的仲裁机构对违纪人员做出的正式行政申诫与官方谴责，法定术语严格限定为 censure（censure sb for sth）。"
+  },
+  {
+    "id": "tem8_b00_07",
+    "group_id": 4,
+    "group_name": "equivocal, enigmatic, ambiguous, obscure",
+    "level": "TEM-8",
+    "target_word": "equivocal",
+    "question": "Far from being an instance of accidental syntactic vagueness, the spokesperson’s ___ reply was a masterclass in political duplicity, crafted deliberately to mislead the press corps while evading legal accountability.",
+    "options": [
+      "equivocal",
+      "enigmatic",
+      "ambiguous",
+      "obscure"
+    ],
+    "answer": "equivocal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首短语 'Far from being an instance of accidental syntactic vagueness'（绝非偶然的句法模糊）与后半句 'a masterclass in political duplicity, crafted deliberately to mislead... while evading legal accountability'（蓄意误导并逃避法律责任的政治欺瞒）形成鲜明对照。Merriam-Webster 明确指出 equivocal 的特质在于 'subject to two or more interpretations and usually used to mislead or confuse'，即带有蓄意欺骗、闪烁其词与推诿责任（prevarication）的主观动机，从而精准排除了仅表示客观含义多元、常出于无心之失的 ambiguous，以及侧重神秘不可解的 enigmatic 和晦涩难懂的 obscure。",
+    "distractor_analysis": {
+      "equivocal": "正确。Merriam-Webster 释义为 'subject to two or more interpretations and usually used to mislead or confuse'。该词强调说话者为了逃避承诺、推诿责任或故意误导他人，刻意使用具有双重解释可能性的措辞。本句中 'political duplicity'（政治欺骗）和 'deliberately to mislead... while evading legal accountability'（蓄意误导且规避法律追责）正是该词的典型语境。",
+      "ambiguous": "错误。ambiguous 意为 'capable of being understood in two or more possible senses'，主要指言语在客观上具有多种理解可能，多由结构松散、代词指代不清或标点混乱等偶然语法失误引起，并不包含主观上的恶意欺瞒。句首 'Far from being an instance of accidental syntactic vagueness' 明确否定了单纯由语法疏忽造成的客观歧义，因而在修辞对比上排除了 ambiguous。",
+      "enigmatic": "错误。enigmatic 意为 'mysterious, baffling'，源自 enigma（谜），强调像谜团一样高深莫测、令人费解（如 enigmatic smile），常用于形容人的神态、性格或充满隐喻的哲学艺术话语，不能用来修饰旨在通过两可之辞规避法律责任的政治诡辩话术。",
+      "obscure": "错误。obscure 强调由于缺乏光线、清晰度不足或内容过于冷僻深奥而导致 '难以看清或难以理解'（not clear to the mind or senses），亦可表示默默无闻。发言人的回答是一场 '精心编排的政治欺瞒'（masterclass in political duplicity），其表达本身是精准受控的双关算计，而非表达能力拙劣所致的晦涩难懂。"
+    },
+    "translation": "发言人那模棱两可、闪烁其词的答复绝非偶然的句法模糊，而是一场政治欺瞒的大师级表演，其蓄意误导媒体记者，同时又在法律层面规避了自身责任。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "句首短语 'Far from being an instance of accidental syntactic vagueness'（绝非偶然的句法模糊）与后半句 'a masterclass in political duplicity, crafted deliberately to mislead... while evading legal accountability'（蓄意误导并逃避法律责任的政治欺瞒）形成鲜明对照。Merriam-Webster 明确指出 equivocal 的特质在于 'subject to two or more interpretations and usually used to mislead or confuse'，即带有蓄意欺骗、闪烁其词与推诿责任（prevarication）的主观动机，从而精准排除了仅表示客观含义多元、常出于无心之失的 ambiguous，以及侧重神秘不可解的 enigmatic 和晦涩难懂的 obscure。"
+  },
+  {
+    "id": "tem8_b00_08",
+    "group_id": 4,
+    "group_name": "equivocal, enigmatic, ambiguous, obscure",
+    "level": "TEM-8",
+    "target_word": "enigmatic",
+    "question": "Despite decades of relentless biographical scrutiny, the reclusive painter remained an ___ figure, whose sphinx-like silence and labyrinthine motifs consistently confounded every scholar's attempt to decipher his true worldview.",
+    "options": [
+      "equivocal",
+      "enigmatic",
+      "ambiguous",
+      "obscure"
+    ],
+    "answer": "enigmatic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步状语 'Despite decades of relentless biographical scrutiny' 明确表明该人物是学界长期聚焦研究的显赫焦点，直接在语义上排除了 obscure（指无名、不为人知的）；后文的核心比喻 'sphinx-like silence'（斯芬克斯般的沉默）和谓语动词 'confounded every scholar's attempt to decipher'（挫败了学者们每一次破译其世界观的尝试）直接呼应了 enigma（斯芬克斯之谜）的原生隐喻，要求选用专指神秘莫测、如谜一般的 enigmatic，排除了带有道德欺骗色彩的 equivocal 与单纯语义多歧的 ambiguous。",
+    "distractor_analysis": {
+      "enigmatic": "正确。Merriam-Webster 释义为 'of, relating to, or resembling an enigma: mysterious, baffling'。'enigmatic figure' 是经典的高阶英语搭配；后文的 'sphinx-like silence'（斯芬克斯般的缄默）与 'decipher his true worldview'（破译其真实世界观）在词源与修辞上直接构成了对 '谜'（enigma）的呼应，完美契合人物深不可测、令人百思不得其解的学术语境。",
+      "obscure": "错误。obscure 用于形容人物（an obscure figure）时，核心义项是 '默默无闻的、不著名的'（not prominent or well known）。然而句首由 Despite 引导的语境显示该画家历经数十年严密的传记文献考证，是广为人知的研究对象，若填入 obscure 会与 'relentless biographical scrutiny' 产生严重的逻辑矛盾。",
+      "equivocal": "错误。用于修饰人时，an equivocal figure 指 '品行可疑的人、立场模棱两可或正邪难辨的人'（of doubtful moral character or loyalty），具有明显的道德贬义；句中描述的是隐士艺术家深奥莫测的精神气质，毫无怀疑其道德品行或政治忠诚之意。",
+      "ambiguous": "错误。ambiguous 指事物具有两种甚至多种互斥的解释可能；用于形容人时，通常指此人身份或派系属性模棱两可（例如既似朋友又似对手）。它缺乏 enigmatic 所独有的那种斯芬克斯式的神秘性与诱人探究的谜样气质，与 'sphinx-like silence' 搭配显得语感割裂。"
+    },
+    "translation": "尽管历经数十年严密详尽的传记考证，这位隐世画家依然是一个如谜般难以捉摸的人物；他那斯芬克斯般的缄默与迷宫般的作品母题，令学者们试图破译其真正世界观的每一次努力尽数落空。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "句首让步状语 'Despite decades of relentless biographical scrutiny' 明确表明该人物是学界长期聚焦研究的显赫焦点，直接在语义上排除了 obscure（指无名、不为人知的）；后文的核心比喻 'sphinx-like silence'（斯芬克斯般的沉默）和谓语动词 'confounded every scholar's attempt to decipher'（挫败了学者们每一次破译其世界观的尝试）直接呼应了 enigma（斯芬克斯之谜）的原生隐喻，要求选用专指神秘莫测、如谜一般的 enigmatic，排除了带有道德欺骗色彩的 equivocal 与单纯语义多歧的 ambiguous。"
+  },
+  {
+    "id": "tem8_b00_09",
+    "group_id": 5,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "judicious",
+    "question": "The curator achieved widespread critical acclaim through her ___ selection of archival artifacts, presenting a balanced historical narrative that neither romanticized colonial triumphs nor suppressed institutional culpability.",
+    "options": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "judicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后半部分的‘presenting a balanced historical narrative that neither romanticized... nor suppressed...’构成了决定性语义锚点，强调在相互冲突的视角之间展现出深思熟虑、权衡精当、兼具比例感与辨别力的明智判断（sound, balanced judgment），这正是 judicious 的核心意涵。",
+    "distractor_analysis": {
+      "judicious": "正确。judicious 指‘有明智判断力的、审慎精当的’，尤指在处理复杂事物时展现出客观公允的辨别力与权衡比例（judicious selection/blend/use）。句中策展人对档案文物的甄选兼顾不同历史面向，既不美化殖民胜利也不隐瞒机构罪责，完美契合 judicious 所强调的‘平衡与精当裁量’。",
+      "judicial": "错误。judicial 意为‘司法的、审判的、法官的’（如 judicial review, judicial system），属于专门的法律领域词汇，用于修饰博物馆策展人的藏品甄选属于严重的语域错配与搭配不当。",
+      "prudent": "错误。prudent 强调‘审慎的、防范风险的、有先见之明的’（cautious, circumspect in avoiding danger or loss），常与防范损失或危险（如 prudent fiscal policy, prudent investor）相关。本句侧重的是学术与审美上的‘公正平衡与精准辨识’，而非‘规避风险或保全自我’；且勇于揭露体制罪责本身带有学术担当，与 prudent 所指的‘趋利避害、明哲保身’存在明显的语意倾向背离。",
+      "legislative": "错误。legislative 意为‘立法的、立法机构的’（如 legislative assembly, legislative reform），与历史文化策展的认知语境毫无语义关联。"
+    },
+    "translation": "这位策展人凭借对档案文物的精当甄选赢得了广泛的评论界赞誉，她呈现了一种平衡的历史叙事，既未将殖民胜利浪漫化，亦未隐瞒体制性的罪责。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "句中后半部分的‘presenting a balanced historical narrative that neither romanticized... nor suppressed...’构成了决定性语义锚点，强调在相互冲突的视角之间展现出深思熟虑、权衡精当、兼具比例感与辨别力的明智判断（sound, balanced judgment），这正是 judicious 的核心意涵。"
+  },
+  {
+    "id": "tem8_b00_10",
+    "group_id": 5,
+    "group_name": "judicious, judicial, prudent, legislative",
+    "level": "TEM-8",
+    "target_word": "prudent",
+    "question": "In assessing whether the pension fund trustees had breached their fiduciary duty, the court invoked the established legal standard of the reasonably ___ investor, holding that exposure to unhedged derivatives constituted inexcusable negligence.",
+    "options": [
+      "judicious",
+      "judicial",
+      "prudent",
+      "legislative"
+    ],
+    "answer": "prudent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_AND_GOVERNANCE",
+    "anchor_clue": "句中的“legal standard of the reasonably ___ investor”（合理审慎投资人标准）构成了不可动摇的决定性制度与搭配锚点。在英美信托法与金融监管体系中，“reasonably prudent investor”（审慎投资人，源于著名的 prudent investor rule）是具有唯一法效性的专业术语（term of art），专指受托人在管理财产时必须恪守的规避无端风险、保障本金安全的法定注意义务。替换为其他选项均会导致严重的法律术语破裂或范畴错误。",
+    "distractor_analysis": {
+      "prudent": "正确。prudent 指“谨慎小心的、有前瞻性防范意识的”，尤其强调在管理资产、防范风险与未来损失时所表现出的克制与智慧。在法律与金融语域中，“reasonably prudent investor”（合理审慎投资人）是衡量受托人是否尽职的唯一法定专有搭配（prudent investor rule），完美吻合后文“breached their fiduciary duty”（违反信托义务）与“unhedged derivatives”（未对冲的衍生品）的风控指责。",
+      "judicious": "错误。judicious 强调“判断英明的、权衡周全的、具备辨别力的”（showing sound judgment and discernment），通常用于修饰论断、资源分配或策略抉择（如 a judicious decision/selection）。但在法律法理学中，关于受托责任的标准被牢牢固定为“prudent investor / prudent person”，法律语料库中绝无“judicious investor standard”这一说法。填入 judicious 会造成致命的法律术语搭配断裂（collocational rupture）。",
+      "judicial": "错误。judicial 专指“司法的、审判的、法官的”（relating to courts or judges，如 judicial review）。将其用于修饰投资人（“reasonably judicial investor”）属于逻辑与修饰范畴错误，为利用句中出现的“court”与“legal standard”而设置的形近干扰项。",
+      "legislative": "错误。legislative 专指“立法的、立法机关的”（relating to the enactment of laws，如 legislative authority），与微观层面的信托资产管理和投资过失判定毫无语义交集。"
+    },
+    "translation": "在评估该养老基金的受托人是否违反其受托义务时，法院援引了公认的‘合理审慎投资人’法定标准，认定将资产暴露于未对冲的衍生品风险中构成了不可原谅的过失。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中的“legal standard of the reasonably ___ investor”（合理审慎投资人标准）构成了不可动摇的决定性制度与搭配锚点。在英美信托法与金融监管体系中，“reasonably prudent investor”（审慎投资人，源于著名的 prudent investor rule）是具有唯一法效性的专业术语（term of art），专指受托人在管理财产时必须恪守的规避无端风险、保障本金安全的法定注意义务。替换为其他选项均会导致严重的法律术语破裂或范畴错误。"
+  },
+  {
+    "id": "tem8_b00_11",
+    "group_id": 6,
+    "group_name": "ingenuous, credulous, gullible, naive",
+    "level": "TEM-8",
+    "target_word": "ingenuous",
+    "question": "Far from offering disingenuous rationalizations, the theorist exhibited ___ candor regarding his model's empirical limitations, demonstrating a rigorous transparency that critics lauded for its integrity and intellectual sophistication.",
+    "options": [
+      "ingenuous",
+      "credulous",
+      "gullible",
+      "naive"
+    ],
+    "answer": "ingenuous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional clause 'Far from offering disingenuous rationalizations' establishes a direct morphological and semantic antonymic demand for 'ingenuous' (candid, artless, and completely free from deceitful calculation). The target position modifies the uncountable noun 'candor' without an indefinite article, removing the phonological cueing flaw. Grammatically and conceptually, 'credulous' and 'gullible' are restricted to epistemic recipients susceptible to deception and cannot modify an expressive communicative virtue like 'candor'. Furthermore, the concluding participial clause explicitly praises the act for its 'intellectual sophistication', creating an insurmountable logical contradiction with 'naive' (which connotes analytical shallowness, childish simplicity, or deficient worldly wisdom).",
+    "distractor_analysis": {
+      "ingenuous": "正确。ingenuous 意为“坦率真诚的、开诚布公的、毫无虚饰狡诈的”（showing candidness, openness, and freedom from deceitful calculation）。此处修饰不可数名词 candor（坦诚、坦白），与句首“Far from offering disingenuous rationalizations”（绝非提供虚伪矫饰的合理解释）形成学术话语中极具标志性的 disingenuous 与 ingenuous 的精准反义对仗。全句完全规避了不定冠词，杜绝了元音先行暗示，高度契合后文“严谨透明度（rigorous transparency）”的语境脉络。",
+      "credulous": "错误。credulous 意为“轻信的、易受骗的”（disposed to believe on slight or uncertain evidence），专指认知主体（听众、大众）盲从信奉的心理倾向（如 a credulous public）。在语义搭配（selectional restrictions）上，它无法修饰表述行为或道德品质名词 candor（*credulous candor 属范畴错配），且学者是在主动剖析自我理论的局限，而非轻信他人。",
+      "gullible": "错误。gullible 意为“易受骗的、过分轻信而任人愚弄的”（easily duped or cheated），强调受害个体缺乏戒备、极易上当。用于修饰学术反省中的 candor 构成严重的语义断裂与范畴失配；坦承自身局限并非被蒙骗操纵的表现。",
+      "naive": "错误。naive 意为“幼稚无知的、浅薄粗疏的、缺乏洞察力的”（deficient in worldly wisdom, informed judgment, or analytical depth）。在学术批评语境中，“naive candor”常指因理论稚嫩或不谙世故而表现出的浅薄直率；这与后文定语从句明确指出的“批评家盛赞其兼具崇高操守与极高的学术造诣/老练成熟（intellectual sophistication）”构成直接且不可调和的逻辑反讽与语义矛盾。"
+    },
+    "translation": "这位理论家绝未提供任何虚伪矫饰的辩解，而是对其模型的经验局限性展现出坦率真诚的态度，体现出一种因其学术操守与卓越智识造诣而广受批评家赞誉的严谨透明度。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The prepositional clause 'Far from offering disingenuous rationalizations' establishes a direct morphological and semantic antonymic demand for 'ingenuous' (candid, artless, and completely free from deceitful calculation). The target position modifies the uncountable noun 'candor' without an indefinite article, removing the phonological cueing flaw. Grammatically and conceptually, 'credulous' and 'gullible' are restricted to epistemic recipients susceptible to deception and cannot modify an expressive communicative virtue like 'candor'. Furthermore, the concluding participial clause explicitly praises the act for its 'intellectual sophistication', creating an insurmountable logical contradiction with 'naive' (which connotes analytical shallowness, childish simplicity, or deficient worldly wisdom)."
+  },
+  {
+    "id": "tem8_b00_12",
+    "group_id": 6,
+    "group_name": "ingenuous, credulous, gullible, naive",
+    "level": "TEM-8",
+    "target_word": "ingenuous",
+    "question": "Though celebrated for her shrewd analytical mind and immunity to deception, the jurist presented a remarkably ___ defense of civil liberties, marked by an unfeigned, artless frankness that refused all institutional dissimulation.",
+    "options": [
+      "ingenuous",
+      "credulous",
+      "gullible",
+      "naive"
+    ],
+    "answer": "ingenuous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The qualifying clause 'celebrated for her shrewd analytical mind and immunity to deception' strictly precludes cognitive vulnerability or foolishness ('credulous', 'gullible', 'naive'), while 'unfeigned, artless frankness that refused all institutional dissimulation' exclusively selects 'ingenuous' (candid, artless, free from pretense).",
+    "distractor_analysis": {
+      "ingenuous": "正确。ingenuous 准确传达了‘坦率质朴的、毫无伪饰的、真诚的’（free from reserve, deceit, or dissimulation），在此修饰 defense，与后文的 unfeigned, artless frankness（毫无虚伪矫饰的坦率）以及 against institutional dissimulation（抵制体制性掩饰）构成高度精准的语义共振。",
+      "credulous": "错误。credulous 指主观上‘盲信盲从的’，描述的是接收信息时的判断力缺陷，既不能作属性形容词修饰旨在抗辩的法律陈词（defense），也与句首明确标明的‘具有欺骗免疫力’（immunity to deception）逻辑自相矛盾。",
+      "gullible": "错误。gullible 意为‘轻信易欺的’，多用来指代受骗者极易被欺蒙或敲诈的弱点，其负面认知色彩与‘精明的剖析头脑’（shrewd analytical mind）不可调和，且无法用于形容一种坦诚有力的辩护风格。",
+      "naive": "错误。naive 若用于修饰辩护（naive defense），通常表示辩护策略‘幼稚不成熟的、浅陋的、缺乏深思熟虑的’，带有负面评价，这与前文对该法学家‘精明敏锐’（shrewd）的高度赞誉以及其主动摒弃体制掩饰的高尚直率形成语义断裂。"
+    },
+    "translation": "这位法学家虽以敏锐的思辨能力及对欺骗的天然免疫力著称，却就公民自由提出了一项极为真率质朴的辩护，其特点在于那种拒绝一切体制性伪饰的真诚与直率。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The qualifying clause 'celebrated for her shrewd analytical mind and immunity to deception' strictly precludes cognitive vulnerability or foolishness ('credulous', 'gullible', 'naive'), while 'unfeigned, artless frankness that refused all institutional dissimulation' exclusively selects 'ingenuous' (candid, artless, free from pretense)."
+  },
+  {
+    "id": "tem8_b00_13",
+    "group_id": 7,
+    "group_name": "acquit, vindicate, exonerate, absolve",
+    "level": "TEM-8",
+    "target_word": "acquit",
+    "question": "Subjected to aggressive parliamentary cross-examination, the young trade envoy managed to ___ herself with exceptional poise, thereby defying domestic skepticism and earning unexpected bipartisan acclaim.",
+    "options": [
+      "acquit",
+      "vindicate",
+      "exonerate",
+      "absolve"
+    ],
+    "answer": "acquit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "Decisive anchor clue: The reflexive structure with a manner prepositional phrase ('___ herself with exceptional poise') uniquely activates the Merriam-Webster behavioral sense of 'acquit oneself' ('to conduct oneself usually satisfactorily especially under stress'). The other three verbs cannot collocate with a reflexive pronoun and a manner adverbial to mean performing or conducting oneself under scrutiny.",
+    "distractor_analysis": {
+      "acquit": "正确。acquit在此处考查其高级反身用法'acquit oneself (well / with poise / with distinction)'，源自韦氏词典核心义项'to conduct (oneself) usually satisfactorily especially under stress'（在严峻或高压形势下表现得体、履行职责），与句中'under aggressive parliamentary cross-examination'及'with exceptional poise'构成严密无瑕的搭配与语境契合。",
+      "vindicate": "错误。vindicate作及物动词时意为'证明……正确/合理'（如vindicate a decision/claim）或'证实某人清白'；虽有'vindicate oneself'的用法，但其含义为'通过事实或论据证明自己是对的或无辜的'，无法与表示举止神态的介词短语'with exceptional poise'连用表示'临场表现沉着得体'的行为举止。",
+      "exonerate": "错误。exonerate通常用于'exonerate somebody from/of blame/charges'（免除某人的责任或罪责）。若使用反身代词'exonerate oneself'，语义仅限于'为自己洗脱罪名/推卸责任'，既不符合句中年轻外交代表在高压质询中展现个人沉着风度（conduct）的语境，更在句法上无法与'with exceptional poise'构成合乎英语习惯的表达。",
+      "absolve": "错误。absolve的核心语义为宗教或道德层面的'赦免罪过、免除义务'（如absolve somebody of sin/guilt/liability）；'absolve oneself'意为'免除自己的道德愧疚或法律责任'，在此处出现严重的范畴错配（category mistake），完全无法表达在质询中'应对自如、举止得体'之意。"
+    },
+    "translation": "面对议会咄咄逼人的严厉质询，这位年轻的贸易特使表现得异常沉着得体，从而打破了国内的质疑，赢得了跨党派的意外赞誉。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Decisive anchor clue: The reflexive structure with a manner prepositional phrase ('___ herself with exceptional poise') uniquely activates the Merriam-Webster behavioral sense of 'acquit oneself' ('to conduct oneself usually satisfactorily especially under stress'). The other three verbs cannot collocate with a reflexive pronoun and a manner adverbial to mean performing or conducting oneself under scrutiny."
+  },
+  {
+    "id": "tem8_b00_14",
+    "group_id": 7,
+    "group_name": "acquit, vindicate, exonerate, absolve",
+    "level": "TEM-8",
+    "target_word": "vindicate",
+    "question": "Subsequent macroeconomic data have served to ___ the central bank's controversial decision to hike interest rates, demonstrating that early aggressive tightening was essential to curb runaway inflation.",
+    "options": [
+      "acquit",
+      "vindicate",
+      "exonerate",
+      "absolve"
+    ],
+    "answer": "vindicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "Decisive anchor clue: The direct object is an abstract policy choice ('the central bank's controversial decision'). Only 'vindicate' possesses the semantic-syntactic profile meaning 'to justify or prove the validity/correctness of an action, claim, or decision in light of subsequent evidence'. 'Acquit', 'exonerate', and 'absolve' require human beings, legal defendants, or moral agents as objects and are syntactically barred from taking policy decisions as direct objects.",
+    "distractor_analysis": {
+      "acquit": "错误。acquit的法律义项为'宣告无罪'（常与of搭配），其直接宾语必须是被控告的人或法人团体（如acquit the defendant），绝不能以抽象的经济决策（decision）作为及物宾语，存在致命的语义范畴违冲。",
+      "vindicate": "正确。vindicate在此考查其核心学术与政经搭配'vindicate a decision / policy / hypothesis'，意为'后续事态或数据证明……是完全正确、合理且有正当理由的'（to show that a course of action was justified by subsequent developments）。句中后续宏观数据证实了当初激进加息的必要性，精准契合此义。",
+      "exonerate": "错误。exonerate主要指官方机构或调查'洗清某人的法律罪责或不端指控'（clear of accusation or blame），其搭配对象为指人的名词（如exonerate the official），不能用于证明某项政策决策在事实层面的正确性或合理性。",
+      "absolve": "错误。absolve属于道德与法律宽免范畴，指'免除（某人的）罪责或契约责任'（absolve someone from blame/responsibility），不能以宏观经济'决策'作为宾语来表示事实上的正当性验证。"
+    },
+    "translation": "随后的宏观经济数据证明，央行此前备受争议的加息决定是完全正确的，这表明早期的激进紧缩举措对于遏制失控的通胀而言至关重要。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Decisive anchor clue: The direct object is an abstract policy choice ('the central bank's controversial decision'). Only 'vindicate' possesses the semantic-syntactic profile meaning 'to justify or prove the validity/correctness of an action, claim, or decision in light of subsequent evidence'. 'Acquit', 'exonerate', and 'absolve' require human beings, legal defendants, or moral agents as objects and are syntactically barred from taking policy decisions as direct objects."
+  },
+  {
+    "id": "tem8_b00_15",
+    "group_id": 8,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "broker",
+    "question": "Serving as an indispensable third-party conduit, the neutral state deployed extensive geopolitical influence to ___ an improbable rapprochement between the two longstanding adversaries, effectively defusing months of escalating border hostilities.",
+    "options": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "answer": "broker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中宾语为抽象的外交关系转折词“an improbable rapprochement”（历史性/难以置信的和解），主语则是外部第三方中介（an indispensable third-party conduit）。在高级国际政治与外交语料中，“broker a rapprochement/peace/ceasefire”是绝对主导的固定动宾搭配，专指第三方以斡旋者、操盘手身份促成/促成达成重大关系改善。其他选项均存在致命的搭配断裂或主客体错配。",
+    "distractor_analysis": {
+      "broker": "正确。broker 作为及物动词，核心义为“作为中间人斡旋、促成（交易、停火、和解等）”，句中与“rapprochement”（和解/恢复邦交）构成权威外交公文的经典动宾搭配（broker a rapprochement），且完美呼应主语“third-party conduit”（第三方渠道/中介）的角色定位。",
+      "negotiate": "错误。negotiate 意为“协商、谈判”，其及物动词宾语通常为具体的协议、条约文本或条款（如 negotiate a treaty/contract），且动作主体通常是谈判的“当事双方（principals）”；外部第三方斡旋并不直接与双方“negotiate a rapprochement”，在语义逻辑与固定搭配上均不成立。",
+      "mediate": "错误。mediate 意为“调解、调停”，其及物用法时的宾语通常为“争端、冲突、分歧”（如 mediate a dispute/conflict），或作不及物动词后接介词 between（mediate between the parties）。它不能直接带表示良性结果的“rapprochement”作为直接宾语，“mediate a rapprochement”属于典型的中介动词搭配混淆错误。",
+      "arbitrate": "错误。arbitrate 专指“仲裁、公断”，具有严格的法律与准司法色彩，指裁判者听取双方陈述后做出具有约束力的裁决（arbitrate a legal dispute/claim）。这与国家间自主自愿的外交政治“和解”（rapprochement）存在根本的机制属性冲突。"
+    },
+    "translation": "该中立国充当了不可或缺的第三方渠道，运用广泛的地缘政治影响力促成了两个宿敌之间难以置信的历史性和解，从而有效化解了持续数月且不断升级的边境敌对状态。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中宾语为抽象的外交关系转折词“an improbable rapprochement”（历史性/难以置信的和解），主语则是外部第三方中介（an indispensable third-party conduit）。在高级国际政治与外交语料中，“broker a rapprochement/peace/ceasefire”是绝对主导的固定动宾搭配，专指第三方以斡旋者、操盘手身份促成/促成达成重大关系改善。其他选项均存在致命的搭配断裂或主客体错配。"
+  },
+  {
+    "id": "tem8_b00_16",
+    "group_id": 8,
+    "group_name": "broker, negotiate, mediate, arbitrate",
+    "level": "TEM-8",
+    "target_word": "mediate",
+    "question": "Refusing to impose binding settlements, the newly appointed ombudsman acted strictly as an impartial facilitator to ___ longstanding grievances between department heads and faculty members, thereby fostering voluntary reconciliation.",
+    "options": [
+      "broker",
+      "negotiate",
+      "mediate",
+      "arbitrate"
+    ],
+    "answer": "mediate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中宾语为负面争议对象“longstanding grievances”（长期积怨/申诉），同时前置语境明确指出“Refusing to impose binding settlements”（拒绝强加具有约束力的裁决）且“acted strictly as an impartial facilitator”（严格作为公正的协助者），后置目标为“voluntary reconciliation”（自愿和解）。此特征决定了该动作必须是针对“争端/矛盾”的“非约束性斡旋调停”（mediate grievances/disputes），彻底排除了具有强制裁决权的 arbitrate 以及只能接正面协议类宾语的 broker 和 negotiate。",
+    "distractor_analysis": {
+      "mediate": "正确。mediate 意为“调解、斡旋”，及物动词可直接接“disputes, differences, grievances”（调解争端/平息怨怼），且其本质即为居中协助、不具强制裁判权的自愿调解（facilitative and non-binding），与句中的“impartial facilitator”及“voluntary reconciliation”完美契合。",
+      "broker": "错误。broker 意为“操盘、促成”，其及物动词宾语必须是达成的“协议、交易、妥协结果”（如 broker a deal/truce/compromise），绝对不能接矛盾本身（即不能说 broker grievances/disputes），搭配严重失范。",
+      "negotiate": "错误。negotiate 意为“谈判、洽商”，及物动词宾语通常为具体条款或解决协定（negotiate a settlement）；对于矛盾双方的积怨，当事方只能 negotiate over/about grievances，申诉专员（ombudsman）作为独立第三人无法直接“negotiate grievances”。",
+      "arbitrate": "错误。虽然 arbitrate 在法律上可以接 grievances 作为宾语（如 arbitrate a labor grievance），但 arbitrate 的核心语义为“仲裁”，其定义必然包含做出权威且具有法律约束力的裁定（binding ruling）。前半句“Refusing to impose binding settlements”构成了决定性排他锚点，从逻辑上断然否定了 arbitrate。"
+    },
+    "translation": "新任命的申诉专员拒绝强加任何具有约束力的裁决方案，而是严格以公正促进者的身份调解系主任与教职员工之间的长期积怨，从而促进了双方的自愿和解。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中宾语为负面争议对象“longstanding grievances”（长期积怨/申诉），同时前置语境明确指出“Refusing to impose binding settlements”（拒绝强加具有约束力的裁决）且“acted strictly as an impartial facilitator”（严格作为公正的协助者），后置目标为“voluntary reconciliation”（自愿和解）。此特征决定了该动作必须是针对“争端/矛盾”的“非约束性斡旋调停”（mediate grievances/disputes），彻底排除了具有强制裁决权的 arbitrate 以及只能接正面协议类宾语的 broker 和 negotiate。"
+  },
+  {
+    "id": "tem8_b00_17",
+    "group_id": 9,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quash",
+    "question": "Citing pervasive procedural irregularities and prosecutorial misconduct during the trial, the appellate court moved decisively to ___ the lower tribunal's conviction, thereby dismissing all outstanding charges against the defendant.",
+    "options": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "司法语境与核心动宾搭配锚点：“the lower tribunal's conviction”（初审法庭的定罪判决）。在法律专业术语中，上级法院“正式宣布撤销、作废判决或起诉书”的排他性法定动词为 quash（quash a conviction/indictment/verdict，源自韦氏词典定义 'to nullify especially by judicial action'）。其余选项均无‘司法废止’之义。",
+    "distractor_analysis": {
+      "quash": "正确。Merriam-Webster 明确定义其核心法律义项为“to nullify especially by judicial action”（特指通过司法裁决撤销、宣布无效）。在英美法系及高级司法文献中，“quash a conviction/indictment”是不可替换的绝对权威专业搭配，完美契合句中上诉法院依法撤销原判并驳回指控的语境。",
+      "quell": "错误。核心语义为“平息、镇压、抚平”，支配客体通常为内心的恐慌焦虑（quell fears/anxieties）或外在的暴乱动荡（quell a riot/unrest）。该词完全不具备“通过法律手段废止或撤销裁决”的语义功能，与 conviction 搭配构成严重范畴错配。",
+      "suppress": "错误。虽然法律中存在“motion to suppress evidence”（申请排除/压制非法证据）之表达，但其作用对象严格限定为未被采纳的物证或口供，意为隐匿或排除信息；绝不能用于上诉法院撤销已经作出的“定罪裁决（conviction）”，在此属于法律术语的严重误用。",
+      "stifle": "错误。核心义为“使窒息、扼杀、抑制发展或表达”，常搭配 innovation, dissent, debate, yawn 等，强调阻碍活力或生机，完全脱离司法诉讼与程序正义的文体语域，搭配极其荒谬。"
+    },
+    "translation": "鉴于审判期间普遍存在的程序违规和检察官不当行为，上诉法院果断做出裁决，撤销了初审法庭的定罪，从而驳回了针对被告的所有未决指控。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "司法语境与核心动宾搭配锚点：“the lower tribunal's conviction”（初审法庭的定罪判决）。在法律专业术语中，上级法院“正式宣布撤销、作废判决或起诉书”的排他性法定动词为 quash（quash a conviction/indictment/verdict，源自韦氏词典定义 'to nullify especially by judicial action'）。其余选项均无‘司法废止’之义。"
+  },
+  {
+    "id": "tem8_b00_18",
+    "group_id": 9,
+    "group_name": "quash, quell, suppress, stifle",
+    "level": "TEM-8",
+    "target_word": "quell",
+    "question": "Facing widespread runs on regional lenders, the finance minister addressed the emergency press conference primarily to ___ mounting depositors' panic, reassuring the public that all institutional balances remained fully guaranteed.",
+    "options": [
+      "quash",
+      "quell",
+      "suppress",
+      "stifle"
+    ],
+    "answer": "quell",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "群体心理状态客体与安抚动因锚点：“mounting depositors' panic”（储户日益加剧的恐慌情绪）与后文伴随状语“reassuring the public”（向公众保证）。韦氏词典定义 quell 为“to quiet, pacify”（平息、安抚、抚慰），专门用于消除蔓延的群体恐慌或内在情感风暴（quell panic/fear/anxiety）；而 quash 侧重粉碎事实/言论，suppress 侧重武力封堵或压制外露，stifle 侧重扼杀活力，均与消解恐慌的安抚语境相悖。",
+    "distractor_analysis": {
+      "quell": "正确。Merriam-Webster 释义为“to quiet, pacify”（平息、安抚、使平静）。在宏观金融与政治高级语域中，quell 与 panic, fears, anxieties 构成高度紧密的经典搭配。财长通过发布会澄清事实并提供担保，其目的正是“平息、抚慰公众的恐慌情绪”，语意最为精准贴切。",
+      "quash": "错误。其核心意象为“以强制力断然粉碎、取缔或宣布无效”（to suppress or extinguish summarily and completely），常用于驳斥谣言（quash rumors）、打碎希望或推翻法案。恐慌（panic）属于主观情绪波动，不能被“粉碎或废除”，使用 quash 造成语义逻辑生硬且搭配失范。",
+      "suppress": "错误。含义为通过外力“强制封锁、隐匿或暴力镇压”（如 suppress information/dissent），或指行为主体压抑自身情感的外露（如 suppress a smile）。政府发言人无法通过言论保证去“强行查禁、压制”他人内心自发产生的恐慌，不符合施动者的行为逻辑与心理动因。",
+      "stifle": "错误。本义为“使窒息”，引申为扼杀生机、压制言论或阻碍创新（如 stifle competition/economic growth）。它侧重于切断发展动能或阻碍自由表达，完全不能用于表示通过心理安抚来平复市场恐慌。"
+    },
+    "translation": "面对地区性银行普遍遭遇的挤兑潮，财政部长召开紧急新闻发布会，主要旨在平息储户日益蔓延的恐慌情绪，并向公众保证所有机构存款均得到全额担保。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "群体心理状态客体与安抚动因锚点：“mounting depositors' panic”（储户日益加剧的恐慌情绪）与后文伴随状语“reassuring the public”（向公众保证）。韦氏词典定义 quell 为“to quiet, pacify”（平息、安抚、抚慰），专门用于消除蔓延的群体恐慌或内在情感风暴（quell panic/fear/anxiety）；而 quash 侧重粉碎事实/言论，suppress 侧重武力封堵或压制外露，stifle 侧重扼杀活力，均与消解恐慌的安抚语境相悖。"
+  },
+  {
+    "id": "tem8_b00_19",
+    "group_id": 10,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-8",
+    "target_word": "abide",
+    "question": "Although several dissenting delegates questioned the jurisdictional legitimacy of the international tribunal, every member state was ultimately bound to ___ by its definitive ruling regarding maritime boundaries.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "abide",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "空后紧接的介词 'by' 与法律决议 'definitive ruling' 构成不可动摇的决定性排他搭配。四个选项中仅有 'abide by' 能与介词 by 搭配表示‘遵守、服从（决议/裁决）’；adhere 必须接 to，conform 必须接 to/with，comply 必须接 with。",
+    "distractor_analysis": {
+      "abide": "正确。abide 构成的固定短语 'abide by' 意为‘遵守、依从（判决、规则、协定）’，是国际公法和正式外交文本中裁决服从的标准高频表达，与空后的 'by its definitive ruling' 形成完美的句法与语体契合。",
+      "adhere": "错误。adhere 表示‘坚持、遵循’时是不及物动词，其固定介词搭配为 to（adhere to a ruling/principle），绝对无法与空后的介词 by 搭配，产生严重的介词选择错配。",
+      "conform": "错误。conform 表示‘遵从、符合’时，其规范介词搭配为 to 或 with（conform to/with rules/standards），不能接介词 by，语法结构不成立。",
+      "comply": "错误。comply 表示‘服从、顺从’时，其强制性介词搭配为 with（comply with a ruling/directive），直接置于介词 by 前会造成直接的句法破裂。"
+    },
+    "translation": "尽管几位持不同意见的代表对该国际法庭的管辖合法性提出了质疑，但每个成员国最终都必须遵守其关于海洋划界的最终裁决。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "空后紧接的介词 'by' 与法律决议 'definitive ruling' 构成不可动摇的决定性排他搭配。四个选项中仅有 'abide by' 能与介词 by 搭配表示‘遵守、服从（决议/裁决）’；adhere 必须接 to，conform 必须接 to/with，comply 必须接 with。"
+  },
+  {
+    "id": "tem8_b00_20",
+    "group_id": 10,
+    "group_name": "abide, adhere, conform, comply",
+    "level": "TEM-8",
+    "target_word": "abide",
+    "question": "Although the veteran diplomat had weathered turbulent geopolitical crises throughout his career, he confessed that he could scarcely ___ the pervasive cynicism and moral duplicity governing the peace negotiations.",
+    "options": [
+      "abide",
+      "adhere",
+      "conform",
+      "comply"
+    ],
+    "answer": "abide",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "情态限制副词 'could scarcely' 以及空后直接跟有名词短语直接宾语 'the pervasive cynicism and moral duplicity'（无任何介词介入）。在四个选项中，仅有 abide 具备及物动词用法且构成经典惯用搭配（cannot/could scarcely abide sth，意为‘无法容忍、难以忍受’）；adhere、conform、comply 均为严格不及物动词，绝不可直接跟宾语，且词义均与‘容忍/耐受’毫无关联。",
+    "distractor_analysis": {
+      "abide": "正确。根据《韦氏词典》，abide 作及物动词时核心义为 'to bear patiently : TOLERATE'，常与 cannot、could scarcely 等情态动词/否定副词连用构成惯用搭配，直接支配名词短语宾语，在此处极佳地表达‘难以容忍蔓延的犬儒主义与道德虚伪’，句法与语义双重契合。",
+      "adhere": "错误。adhere 为严格不及物动词，若引出宾语必须依托介词 to（adhere to），且词义为‘附着；坚持（信念）’，既无法直接支配及物宾语，在语义上表示‘坚持犬儒主义’也与 scarcely 及上下文情感逻辑彻底冲突。",
+      "conform": "错误。conform 为不及物动词，需搭配介词 to 或 with（conform to），不能直接带宾语，且词义为‘遵从、顺应’，无‘容忍、忍受’之义。",
+      "comply": "错误。comply 同样为不及物动词，必须接介词 with（comply with），不可直接及物使用；其词义为‘依从、遵照’，与句中外交官对虚伪做派的厌恶与不能容忍的情感完全不符。"
+    },
+    "translation": "尽管这位资深外交官在职业生涯中历经动荡的地缘政治危机，但他坦言，自己几乎无法容忍主导这场和平谈判的普遍犬儒主义和道德伪善。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "情态限制副词 'could scarcely' 以及空后直接跟有名词短语直接宾语 'the pervasive cynicism and moral duplicity'（无任何介词介入）。在四个选项中，仅有 abide 具备及物动词用法且构成经典惯用搭配（cannot/could scarcely abide sth，意为‘无法容忍、难以忍受’）；adhere、conform、comply 均为严格不及物动词，绝不可直接跟宾语，且词义均与‘容忍/耐受’毫无关联。"
+  },
+  {
+    "id": "tem8_b01_01",
+    "group_id": 11,
+    "group_name": "sporadic, intermittent, periodic, fitful",
+    "level": "TEM-8",
+    "target_word": "sporadic",
+    "question": "Although public health surveillance detected ___ cases of the avian virus across distant agricultural provinces, these isolated, epidemiologically unlinked infections demonstrated neither sustained community transmission nor cyclical seasonal resurgence.",
+    "options": [
+      "sporadic",
+      "intermittent",
+      "periodic",
+      "fitful"
+    ],
+    "answer": "sporadic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor: The co-occurrence of 'across distant agricultural provinces' and 'isolated, epidemiologically unlinked infections' defines singular, spatially scattered occurrences lacking an interconnected transmission chain, while 'neither sustained... nor cyclical seasonal resurgence' definitively eliminates continuous or cyclical phenomena.",
+    "distractor_analysis": {
+      "sporadic": "正确。sporadic 源自希腊语 sporadikos（意为“如散落的种子般分散的”），Merriam-Webster 定义为“occurring occasionally, singly, or in irregular or random instances”（偶发的、单度出现的、或在零星分散实例中发生的）。在流行病学与高级学术语境中，“sporadic cases”（散发病例）是极其严谨且固定的专业搭配，特指在时间与广袤地理空间中“零星孤立出现、彼此无传染链条关联”的发病个案。句中“across distant agricultural provinces”、“isolated, epidemiologically unlinked infections”及排除周期性的从句语境，与 sporadic 的空间离散与时间偶发特征严丝合缝。",
+      "intermittent": "错误。intermittent（MW: coming and going at intervals; not continuous; stopping and starting again）强调“同一连续实体、过程或活动在时间维度上的间歇暂停与重新启动”（如 intermittent fever 间歇热、intermittent stream 间歇河）。群体中分散出现的独立“病例”（cases）是彼此割裂的离散个体事件，不能构成一个可“中断并重启”的连续统一体，因此“intermittent cases”存在严重的范畴错配（category mistake）与搭配断裂。",
+      "periodic": "错误。periodic 强调“定期的、周期的”，即按照固定、可预期的规律间隔循环再现（occurring or recurring at regular intervals）。句末的决定性排他锚点“demonstrated neither sustained community transmission nor cyclical seasonal resurgence”（既无持续社区传播，亦无周期性季节复苏）明确排除了规律循环特征，填入 periodic 会造成直接的逻辑语义自相矛盾。",
+      "fitful": "错误。fitful 指“一阵阵的、痉挛不稳的、断续无常的”（MW: characterized by erratic bursts, fits, or restless activity），通常修饰伴随躁动不安或缺乏恒心的人类行为、睡眠状态或自然力爆发（如 fitful sleep、fitful breathing、fitful efforts）。用其修饰客观严谨的流行病学统计名词“cases”，属于极其严重的文体风格冲突（stylistic clash）与搭配失当。"
+    },
+    "translation": "尽管公共卫生监测机构在相距遥远的农业省份发现了散发的禽流感病毒病例，但这些孤立且缺乏流行病学关联的感染既未表现出持续的社区传播，亦未呈现出周期性的季节性复苏。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "Decisive anchor: The co-occurrence of 'across distant agricultural provinces' and 'isolated, epidemiologically unlinked infections' defines singular, spatially scattered occurrences lacking an interconnected transmission chain, while 'neither sustained... nor cyclical seasonal resurgence' definitively eliminates continuous or cyclical phenomena."
+  },
+  {
+    "id": "tem8_b01_02",
+    "group_id": 11,
+    "group_name": "sporadic, intermittent, periodic, fitful",
+    "level": "TEM-8",
+    "target_word": "intermittent",
+    "question": "Despite maintaining sufficient subsurface moisture, the alpine creek exhibited ___ flow throughout the drought, repeatedly pausing for several days before resuming a steady trickle following brief thunderstorms.",
+    "options": [
+      "sporadic",
+      "intermittent",
+      "periodic",
+      "fitful"
+    ],
+    "answer": "intermittent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor: The explanatory non-finite clause 'repeatedly pausing for several days before resuming a steady trickle' denotes an ongoing physical process alternately stopping and resuming at intervals.",
+    "distractor_analysis": {
+      "intermittent": "正确。intermittent 词源为拉丁语 intermittere（中间暂停），权威词典核心义为“间歇的、停顿后又恢复的”（stopping and starting alternately）。在水文学与自然物理语境中，'intermittent flow/stream' 是标准学术搭配，准确表述水流在干旱期“反复暂停数日，逢降雨后又重新流淌”的交替循环特征。",
+      "sporadic": "错误。sporadic 侧重于描述时间或空间上孤立、分散、毫无规律的离散点状事件（如 sporadic outbreaks / sporadic attacks），强调彼此毫无连续性。本句描述的是同一条高山溪流水流（flow）这一物理过程的“暂停与重启交替”，而非散在分布的孤立事件，无法契合后文 'repeatedly pausing... before resuming' 的动态机制。",
+      "periodic": "错误。periodic 意为“周期的、规律定时的”，要求事件依据固定或可预期的循环周期发生。文中的溪流恢复流动是由不可预测的 'brief thunderstorms'（短暂雷阵雨）触发的，且停顿 'for several days' 并非固定时间法则，因而不具备 periodic 所严格要求的周期定常性。",
+      "fitful": "错误。fitful 侧重指断续不宁、痉挛发作或不稳定的阵发状态（spasmodic and restless），常见搭配为 fitful breeze 或 fitful slumber。在客观严谨的水文学和生态学语境中用于修饰溪流流动机制，既缺乏科学精确性，又存在拟人化修辞过当的语域偏离。"
+    },
+    "translation": "尽管地下水层保持了充足的水分，但这条高山溪流在干旱期间仍表现为断断续续的流淌，在数日的反复停流后，往往只有在短暂的雷雨过后才会重新汇成细流。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "Decisive anchor: The explanatory non-finite clause 'repeatedly pausing for several days before resuming a steady trickle' denotes an ongoing physical process alternately stopping and resuming at intervals."
+  },
+  {
+    "id": "tem8_b01_03",
+    "group_id": 12,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "level": "TEM-8",
+    "target_word": "insidious",
+    "question": "Marine biologists caution that microplastic contamination represents a far more ___ ecological threat than acute oil spills, as its cumulative, imperceptible degradation of benthic food webs eludes detection until irreversible damage occurs.",
+    "options": [
+      "insidious",
+      "treacherous",
+      "stealthy",
+      "surreptitious"
+    ],
+    "answer": "insidious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中通过与突发性、高可见度的原油泄漏（acute oil spills）形成鲜明反差，并以“cumulative, imperceptible degradation... eludes detection until irreversible damage occurs”（渐进累积、难以察觉的破坏……潜伏滋生直至造成不可逆损伤才被发现）作为决定性排他锚点。这完全契合韦氏词典对 insidious 的核心释义：指某种有害事物以极其缓慢且不易察觉的方式发展，直至完全确立并造成深远破坏。",
+    "distractor_analysis": {
+      "insidious": "正确。意为“（危害、弊端等）暗中滋生的、潜伏的、潜移默化产生严重恶果的”，专用于描述某种具有破坏性的趋势、毒害或疾病以缓慢、累积且难以察觉的方式蚕食系统，与后文“cumulative, imperceptible degradation... until irreversible damage occurs”构成严丝合缝的语义映射，亦与“acute”形成典雅的学术对比。",
+      "treacherous": "错误。主要指“背叛的、不忠的”或自然环境表面看似安全但实则“暗藏杀机、变幻莫测的”（如 treacherous currents/ice），强调危险的不可预测性与突发性致命风险，而非微观污染物在食物链中历经漫长时间缓慢蓄积（cumulative）的隐秘退化过程。",
+      "stealthy": "错误。侧重于具有物理实体的动作在行动时“静悄悄、蹑手蹑脚以防被察觉”（如 a stealthy predator stalking its prey），强调物理移动上的防探知性，无法用于修饰无生命污染物质在生物化学层面长年累月的缓慢侵蚀与渐进式生态威胁。",
+      "surreptitious": "错误。通常强调人类行为主体出于规避惩罚、道德谴责或官方审查而采取的“鬼鬼祟祟的、私下违规进行的、秘密瞒哄的”行为（如 surreptitious glances / surreptitious transactions），带有主观故意性与非法瞒天过海的色彩，不能修饰客观存在的非生物环境破坏进程。"
+    },
+    "translation": "海洋生物学家警告称，与突发性的原油泄漏相比，微塑料污染构成了一种隐蔽得多的生态威胁，因为其对底栖生物食物网渐进、难以察觉的侵蚀破坏往往能躲过监测，直至造成不可逆的灾难。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中通过与突发性、高可见度的原油泄漏（acute oil spills）形成鲜明反差，并以“cumulative, imperceptible degradation... eludes detection until irreversible damage occurs”（渐进累积、难以察觉的破坏……潜伏滋生直至造成不可逆损伤才被发现）作为决定性排他锚点。这完全契合韦氏词典对 insidious 的核心释义：指某种有害事物以极其缓慢且不易察觉的方式发展，直至完全确立并造成深远破坏。"
+  },
+  {
+    "id": "tem8_b01_04",
+    "group_id": 12,
+    "group_name": "insidious, treacherous, stealthy, surreptitious",
+    "level": "TEM-8",
+    "target_word": "surreptitious",
+    "question": "Conservation authorities uncovered evidence of ___ bioprospecting in the protected reserve, where unauthorized commercial researchers had spent months collecting rare orchid species without governmental oversight or ethical permits.",
+    "options": [
+      "insidious",
+      "treacherous",
+      "stealthy",
+      "surreptitious"
+    ],
+    "answer": "surreptitious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文由 where 引导的定语从句明确指出“unauthorized commercial researchers had spent months collecting rare orchid species without governmental oversight or ethical permits”（未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下长达数月私自采集珍稀兰花）。“unauthorized”（未经授权的）与“without governmental oversight or permits”（绕过官方监管机制）构成了决定性排他锚点，精准锁定 surreptitious 专有的“暗中进行的、未获准许的、规避官方监视的（done by stealth or without authority）”内涵。",
+    "distractor_analysis": {
+      "surreptitious": "正确。意为“未经许可私自暗中进行的、偷偷摸摸的、规避监视的”（obtained, done, or made by stealth or without proper authority）。此处与 bioprospecting（生物勘探）搭配，精准传达出科研采集人员故意逃避行政许可与官方督察、在自然保护区暗中进行的非法科研采集活动。",
+      "insidious": "错误。主要描述某种恶性隐患、疾病或弊病暗中渐进累积、不知不觉侵蚀整体的过程（如 an insidious trend），强调渐进累积的负面危害后果，不能用来修饰具有明确意图、规避行政准入的偷采或勘探行为本身。",
+      "treacherous": "错误。意为“叛逆的、背信弃义的”或“（地形、气候等）看似风平浪静实则暗流汹涌的”，不能用于描述逃避规章制度、秘密进行的学术或商业勘查活动。",
+      "stealthy": "错误。侧重于身体动作上的轻缓、无声以求不被听见（如 stealthy steps across the room）。此处描述的“生物勘探”是一项包含样本采集、记录与转运的长期性科研商业操作，并非单纯的物理潜行静音动作，在此行政与法律监管语境下应使用表征“暗中违规进行”的 surreptitious。"
+    },
+    "translation": "自然保护区管理部门发现了在保护区内进行秘密生物勘探的证据；数月以来，未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下，一直在暗中采集珍稀兰花物种。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "后文由 where 引导的定语从句明确指出“unauthorized commercial researchers had spent months collecting rare orchid species without governmental oversight or ethical permits”（未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下长达数月私自采集珍稀兰花）。“unauthorized”（未经授权的）与“without governmental oversight or permits”（绕过官方监管机制）构成了决定性排他锚点，精准锁定 surreptitious 专有的“暗中进行的、未获准许的、规避官方监视的（done by stealth or without authority）”内涵。"
+  },
+  {
+    "id": "tem8_b01_05",
+    "group_id": 13,
+    "group_name": "abduct, yank, hale, twitch",
+    "level": "TEM-8",
+    "target_word": "abduct",
+    "question": "Cognitive scientists studying state-sponsored repression observed that covert operations designed to ___ prominent political dissidents inflict profound psychological trauma, effectively dismantling communal trust and paralyzing collective dissent across authoritarian societies.",
+    "options": [
+      "abduct",
+      "yank",
+      "hale",
+      "twitch"
+    ],
+    "answer": "abduct",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中及物动词的宾语为 prominent political dissidents（知名政治异见人士），结合主语修饰语 covert operations（秘密行动）以及后文对心理创伤与社会镇压的论述，构成国际政治与人权学术语境下严密的动宾搭配（covert operations to abduct dissidents）；其余选项中，yank 语体通俗且语义不合，hale 仅限于押送出庭的司法搭配，twitch 无法支配人身宾语。",
+    "distractor_analysis": {
+      "abduct": "【正确】动词，意为“（通过暴力或诱骗手段非法）绑架、劫持”，解剖学中亦表示“外展（肢体）”。此处在认知政治心理学语境中与 prominent political dissidents 构成固定且地道的高端学术搭配，准确传达威权体制通过越境或秘密绑架异见人士制造普遍社会恐惧的语义，语体高度严谨契合。",
+      "yank": "【错误】动词，本义为“猛拉、猛拽”，引申为新闻体中的“突然撤销（资金、许可等）”。用于针对政治异见人士的人身非法劫持时，不仅语义严重失真（完全不包含“非法拘禁/秘密绑架”之意），而且其非正式与通俗口语色彩（informal register）与严肃的学术政论风格格格不入。",
+      "hale": "【错误】动词，属于古旧或特种法律专有词汇，意为“强拉、硬拖”，在现代英语中几乎仅见于固定法律搭配 hale sb into court / before a magistrate（强行传唤某人出庭受审）。本句描述的是法外秘密绑架行为，而非正当法庭传唤，且句中缺少表示法庭目的地的介词短语（如 into court），用法明显不当。",
+      "twitch": "【错误】动词，主要用作不及物动词表示“（肌肉、面部）抽搐、微动”；作及物动词时仅限于支配微小的物体或身体部位（如 twitch an eyebrow/curtain）。该词绝对不能以人（political dissidents）作为支配对象，存在根本性的动宾语义与选择限制违背。"
+    },
+    "translation": "研究国家支持的镇压行为的认知科学家指出，旨在绑架知名政治异见人士的秘密行动造成了深重的心理创伤，有力地瓦解了群体信任，并使威权社会的集体反抗陷于瘫痪。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中及物动词的宾语为 prominent political dissidents（知名政治异见人士），结合主语修饰语 covert operations（秘密行动）以及后文对心理创伤与社会镇压的论述，构成国际政治与人权学术语境下严密的动宾搭配（covert operations to abduct dissidents）；其余选项中，yank 语体通俗且语义不合，hale 仅限于押送出庭的司法搭配，twitch 无法支配人身宾语。"
+  },
+  {
+    "id": "tem8_b01_06",
+    "group_id": 13,
+    "group_name": "abduct, yank, hale, twitch",
+    "level": "TEM-8",
+    "target_word": "yank",
+    "question": "Confronted with compelling cognitive research demonstrating addictive algorithmic manipulation, the entertainment conglomerate moved swiftly to ___ the controversial virtual-reality game from international retail platforms.",
+    "options": [
+      "abduct",
+      "yank",
+      "hale",
+      "twitch"
+    ],
+    "answer": "yank",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动词后接无生命商业文化产品 the controversial virtual-reality game，后接介词短语 from international retail platforms（从国际销售平台）。韦氏词典专门收录 yank 的及物动词核心引申义项“to extract or remove abruptly”（迅速撤回、紧急下架，如 yank a commercial/game from the platform）；其余三个选项在语义选择限制（selectional restrictions）上均绝不可能支配数字软件产品并与 from platforms 搭配。",
+    "distractor_analysis": {
+      "yank": "【正确】动词，在此处激活其权威词典明确认可的比喻转义“迅速抽离、紧急撤下、强制下架”（to extract or remove abruptly）。与宾语 the controversial virtual-reality game 及来源介词 from 紧密搭配，生动且准确地描摹出大型企业在认知操控丑闻曝光后紧急下架争议产品的决断举措，搭配浑然天成。",
+      "abduct": "【错误】动词，核心语义为“绑架、诱拐”，在解剖学中指“外展（肢体）”。其宾语受严格的选择限制（selectional restriction），必须为具生命的个体（人类或幼童）或解剖学部位，绝不可能支配无生命的虚拟游戏产品（game），存在致命的语义范畴谬误。",
+      "hale": "【错误】动词，为极具年代感的古旧书面语，核心意义为“强行押送、传唤（某人去受审）”，其论元角色必须是人，且常接介词 to/into court。该词既无法支配现代科技商业产品，更不能表达从零售平台“下架”之意，在现代科技与商业语境中不可接受。",
+      "twitch": "【错误】动词，意为“抽动、抽搐、轻颤”，表示短促不规则的微小物理震颤，作及物动词时仅能接线绳、胡须、肌肉等具体微小事物。它完全不具备“撤回、移除”的语义潜能，与商业平台及软件产品搭配造成逻辑与语义上的彻底断裂。"
+    },
+    "translation": "面对证明成瘾性算法操纵的确凿认知研究，这家娱乐业巨头迅速采取行动，从国际销售平台紧急下架了这款极具争议的虚拟现实游戏。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中动词后接无生命商业文化产品 the controversial virtual-reality game，后接介词短语 from international retail platforms（从国际销售平台）。韦氏词典专门收录 yank 的及物动词核心引申义项“to extract or remove abruptly”（迅速撤回、紧急下架，如 yank a commercial/game from the platform）；其余三个选项在语义选择限制（selectional restrictions）上均绝不可能支配数字软件产品并与 from platforms 搭配。"
+  },
+  {
+    "id": "tem8_b01_07",
+    "group_id": 14,
+    "group_name": "abort, spew, fester, ejaculate",
+    "level": "TEM-8",
+    "target_word": "abort",
+    "question": "Confronted with anomalous telemetry data that threatened algorithmic validity, the principal investigators resolved to ___ the experimental trial before irrevocable systematic errors compromised their longitudinal findings.",
+    "options": [
+      "abort",
+      "spew",
+      "fester",
+      "ejaculate"
+    ],
+    "answer": "abort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动宾搭配‘___ the experimental trial’（中止实验性试验）及时间状语从句‘before irrevocable systematic errors compromised...’（在不可逆的系统误差破坏结果之前）。语境明确要求一个表示‘因故障或风险而使程序/试验提前终止’的及物动词，在选项中唯有 abort 具备此核心搭配与语义特征。",
+    "distractor_analysis": {
+      "abort": "正确。abort 作为及物动词，核心学术义项为‘使（程序、试验、任务等）提前终止（to terminate a procedure or mission prematurely）’，与宾语 the experimental trial 构成标准学术搭配，完全契合因检测到异常数据而主动叫停试验的语境。",
+      "spew": "错误。spew 意为‘喷涌出，大量散播（尤指毒害、污物或恶言）’，后接 physical matter 或 vitriol/propaganda 等，不能与 the experimental trial 搭配，语义逻辑不通。",
+      "fester": "错误。fester 为不及物动词，意为‘（伤口）化脓溃烂；（怨恨等）郁积恶化’，不能直接接宾语 the experimental trial，语法结构严重错误。",
+      "ejaculate": "错误。ejaculate 在书面语认知/言语交流中虽可表示‘突然脱口而出（喊出）’，但通常后接引语或短句，无法与 the experimental trial 搭配表示‘终止/叫停’试验，语义脱节。"
+    },
+    "translation": "面对威胁到算法有效性的遥测数据异常，首席研究员们果断决定提前中止该实验性试验，以免不可逆的系统误差破坏其纵向研究结论。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "动宾搭配‘___ the experimental trial’（中止实验性试验）及时间状语从句‘before irrevocable systematic errors compromised...’（在不可逆的系统误差破坏结果之前）。语境明确要求一个表示‘因故障或风险而使程序/试验提前终止’的及物动词，在选项中唯有 abort 具备此核心搭配与语义特征。"
+  },
+  {
+    "id": "tem8_b01_08",
+    "group_id": 14,
+    "group_name": "abort, spew, fester, ejaculate",
+    "level": "TEM-8",
+    "target_word": "spew",
+    "question": "Propelled by algorithmic engagement metrics, automated bot networks continue to ___ inflammatory disinformation across mainstream platforms, systematically polluting the epistemic environment and subverting rational political deliberation.",
+    "options": [
+      "abort",
+      "spew",
+      "fester",
+      "ejaculate"
+    ],
+    "answer": "spew",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "及物动宾搭配‘___ inflammatory disinformation across mainstream platforms’（在主流平台上大量喷涌/散布煽动性虚假信息），并与后文伴随状语‘polluting the epistemic environment’（污染认知环境）形成严密的隐喻与因果呼应。四个选项中仅 spew 能以隐喻形式生动表达‘大量喷吐/倾泻（有害信息）’。",
+    "distractor_analysis": {
+      "abort": "错误。abort 意为‘提前终止、叫停（计划或程序）’，主语为机器人网络时，既不可能‘终止虚假信息’，更无法与后续‘污染认知环境’的恶性结果产生逻辑因果关联。",
+      "spew": "正确。spew 本义为‘喷涌、吐出’，在现代认知政治与传播学学术语境中高频引申为‘大量喷吐、倾泻（恶意言论、虚假信息等）’（to expel copiously and aggressively），与 inflammatory disinformation 构成极具辨识度的修辞搭配，且与 polluting 形成生动的隐喻协同。",
+      "fester": "错误。fester 为不及物动词，指‘溃烂、郁结恶化’（如 wounds fester, grievances fester），无法及物连接 inflammatory disinformation 作为动作的承受对象，存在致命语法缺陷。",
+      "ejaculate": "错误。ejaculate 在传统文学语体中表示‘突然喊出、叫嚷’（to utter suddenly），既无法与连续性的大规模网络信息散播（automated bot networks）相匹配，且其现代主导语义与严肃学术批判语域严重冲突。"
+    },
+    "translation": "在算法互动指标的推动下，自动化机器人网络持续在各大主流平台大量喷涌煽动性虚假信息，系统性地污染了公众的认知环境，并破坏了理性的政治审议。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "及物动宾搭配‘___ inflammatory disinformation across mainstream platforms’（在主流平台上大量喷涌/散布煽动性虚假信息），并与后文伴随状语‘polluting the epistemic environment’（污染认知环境）形成严密的隐喻与因果呼应。四个选项中仅 spew 能以隐喻形式生动表达‘大量喷吐/倾泻（有害信息）’。"
+  },
+  {
+    "id": "tem8_b01_09",
+    "group_id": 15,
+    "group_name": "afflict, faze, unnerve, anguish",
+    "level": "TEM-8",
+    "target_word": "afflict",
+    "question": "Public health epidemiologists warn that chronic degenerative conditions continue to ___ marginalized rural populations, compounding existing socioeconomic disparities and overwhelming underfunded regional clinics that lack basic diagnostic infrastructure.",
+    "options": [
+      "afflict",
+      "faze",
+      "unnerve",
+      "anguish"
+    ],
+    "answer": "afflict",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为客观存在的疾病与痼疾（chronic degenerative conditions），宾语为受害群体（marginalized rural populations）。在英语高级学术及公共卫生语域中，表示疾病、灾害或贫困等长期“折磨、使遭受痛苦”的经典搭配具有不可替代的排他性动词为 afflict。",
+    "distractor_analysis": {
+      "afflict": "正确。afflict 为及物动词，核心义为“使遭受长期痛苦、折磨”，常用于疾病、贫困、灾害对人群或社会的长期肆虐（经典搭配如 ills/diseases that afflict the population），完美切合学术语域与流行病学背景。",
+      "faze": "错误。faze 意为“使慌乱、打扰”，主要用于口语及非正式语体，且绝大多数出现于否定句中表示“某人的从容不迫”（如 nothing could faze him），主语通常为人或心理压力，绝不能与客观慢性疾病侵害人群搭配。",
+      "unnerve": "错误。unnerve 意为“使丧失勇气、使胆怯不安”，强调恐吓、突发惊吓对个体心理胆量造成的瓦解作用，与慢性退行性疾病对偏远人口造成的客观生理与社会侵害完全不符。",
+      "anguish": "错误。anguish 在现代标准英语中主要作名词（极度痛苦），若作动词则几乎完全是不及物动词（常用搭配为 anguish over/about sth.），在此处无法直接带宾语 marginalized rural populations，语法与语义双重不成立。"
+    },
+    "translation": "公共卫生流行病学专家警告称，慢性退行性疾病仍在持续折磨着边缘化的农村人口，这加剧了现有的社会经济差距，并使缺乏基本诊疗设施、资金不足的地区诊所不堪重负。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "主语为客观存在的疾病与痼疾（chronic degenerative conditions），宾语为受害群体（marginalized rural populations）。在英语高级学术及公共卫生语域中，表示疾病、灾害或贫困等长期“折磨、使遭受痛苦”的经典搭配具有不可替代的排他性动词为 afflict。"
+  },
+  {
+    "id": "tem8_b01_10",
+    "group_id": 15,
+    "group_name": "afflict, faze, unnerve, anguish",
+    "level": "TEM-8",
+    "target_word": "faze",
+    "question": "Though such tedious fieldwork would deter less hardy researchers, the rudimentary camp and sweltering humidity failed to ___ the veteran botanists, who methodically cataloged hundreds of rare specimens.",
+    "options": [
+      "afflict",
+      "faze",
+      "unnerve",
+      "anguish"
+    ],
+    "answer": "faze",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_SCIENCE_AND_TECHNOLOGY",
+    "anchor_clue": "句首让步从句“Though such tedious fieldwork would deter less hardy researchers（尽管如此枯燥乏味的野外工作会让耐力欠佳的研究者望而却步）”设立了决定性的语义参照轴——刺激源为“枯燥的琐事与艰苦恶劣的物质条件（tedious fieldwork, rudimentary camp, sweltering humidity）”，其预期心理效应为“使人退缩、气馁或打消念头（deter）”。主句随后以否定极性结构“failed to ___”形成语义反转。依据权威词典（Merriam-Webster, Garner's Modern English Usage），faze意为“to daunt, disconcert, or discompose”，其最典型的语用特征即为专用于否定句中（如 failed to faze, nothing can faze them），特指面对繁重单调的艰辛、恶劣环境或现实阻碍时“未被打乱步调、毫不气馁退缩”，与让步从句中的“deter”形成严丝合缝的语义对仗。其他选项在此语境下均存在不可调和的语义、句法或搭配断裂。",
+    "distractor_analysis": {
+      "afflict": "错误。afflict（使受苦、折磨）指造成持续深重的生理病痛、灾难或悲剧性打击（Merriam-Webster: to cause persistent pain or suffering to; to distress severely），主语通常为重大瘟疫、战乱、慢性疾病或极度贫困（如 famine/disease afflicts the populace），强调受害者承受客观的苦难境遇。简陋的营地和闷热天气属于普通的野外艰苦条件，绝非使人遭受深重摧残的灾异，且“failed to afflict”在表述“未使人退缩”时存在严重语用与逻辑错位。",
+      "faze": "正确。faze意为“使慌乱、使气馁、使退缩”（Merriam-Webster: to disconcert, discompose, or daunt），专指遇到令人不快、繁琐枯燥的阻碍或艰苦条件时产生动摇或退意，且在现代英语中具有极强的否定极性倾向（predominantly used in negative constructions）。在此处与“tedious fieldwork would deter...”形成精准的词义对仗，完美契合资深植物学家面对简陋营地与潮湿闷热时泰然自若、毫不退缩的语境与语体。",
+      "unnerve": "错误。unnerve（使丧失勇气、使心慌意乱）的核心义项是“剥夺胆魄、定力或自信，诱发恐惧、焦虑与恐慌”（Merriam-Webster: implies a marked loss of courage, resolve, or steady purpose: a sight that unnerved the bravest）。其诱因必须是具有心理威慑、不可预测风险、重大压力或令人胆怯的危机（如恐怖场景、严酷质询、剧烈市场动荡）。本句的刺激源明确限定为“tedious fieldwork（单调枯燥的野外作业）”及简陋闷热的生活条件，考验的是耐心与毅力，完全不涉及人身危险或恐惧心理，根本无法触发致人“丧失胆量（lose nerve）”的心理机制，与前文的“deter”发生严重语义范畴冲突。",
+      "anguish": "错误。anguish在现代标准英语中几乎严格作为不及物动词使用（常接介词 over/about，如 anguishing over an agonizing choice）或作为名词（极度痛苦）。其及物动词用法在现代英语中极为罕见且已属古旧过时，后直接宾语“the veteran botanists”构成句法搭配不当；此外，其词义特指“令人撕心裂肺、痛不欲生（excruciating mental torment）”，用以描述植物标本采集的野外艰苦完全属于语义畸变。"
+    },
+    "translation": "尽管如此枯燥乏味的野外工作会让耐力欠佳的研究者望而却步，但简陋的营地和闷热潮湿的气候丝毫没有让这些资深植物学家心生退意，他们有条不紊地对数百种珍稀标本进行了分类编目。",
+    "mechanism": "MECH_NUANCE",
+    "taxonomy_notes": "句首让步从句“Though such tedious fieldwork would deter less hardy researchers（尽管如此枯燥乏味的野外工作会让耐力欠佳的研究者望而却步）”设立了决定性的语义参照轴——刺激源为“枯燥的琐事与艰苦恶劣的物质条件（tedious fieldwork, rudimentary camp, sweltering humidity）”，其预期心理效应为“使人退缩、气馁或打消念头（deter）”。主句随后以否定极性结构“failed to ___”形成语义反转。依据权威词典（Merriam-Webster, Garner's Modern English Usage），faze意为“to daunt, disconcert, or discompose”，其最典型的语用特征即为专用于否定句中（如 failed to faze, nothing can faze them），特指面对繁重单调的艰辛、恶劣环境或现实阻碍时“未被打乱步调、毫不气馁退缩”，与让步从句中的“deter”形成严丝合缝的语义对仗。其他选项在此语境下均存在不可调和的语义、句法或搭配断裂。"
+  },
+  {
+    "id": "tem8_b01_11",
+    "group_id": 16,
+    "group_name": "agitate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "agitate",
+    "question": "Rather than quietly accepting the dogmas of scholastic philosophy, early Renaissance humanists began to ___ for an epistemological shift that prioritized empirical observation over ecclesiastical authority.",
+    "options": [
+      "agitate",
+      "jog",
+      "lure",
+      "entice"
+    ],
+    "answer": "agitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The immediate preposition 'for' following the blank combined with an abstract ideological goal ('an epistemological shift') forms the decisive syntactic and collocational anchor. Among all options, only 'agitate' functions intransitively with 'for' to mean campaigning vigorously to arouse public or intellectual support for a cause.",
+    "distractor_analysis": {
+      "agitate": "正确。agitate 在此作不及物动词，与介词 for 构成固定搭配 agitate for，意为“公开鼓动、积极争取、为……奔走呼吁”。句中指文艺复兴人文主义者为推动认识论转向而积极发声呼吁，完全符合学术思想史的严谨语境与句法搭配。",
+      "jog": "错误。jog 作不及物动词时意为“慢跑”，无法与 for an epistemological shift 连用表达“呼吁或倡导变革”；作及物动词时常与 memory 搭配（如 jog someone's memory），在此处既不满足不及物句法要求，语义亦完全不通。",
+      "lure": "错误。lure 为典型及物动词，其后必须直接接宾语（通常为有知觉的生命体，即 lure sb./sth. into...），意为“引诱、诱惑”，不能充当不及物动词后接介词 for 来表达“为某种思想主张呼吁”，存在直接的句法受限。",
+      "entice": "错误。entice 同样是强及物动词，典型构式为 entice sb. to do sth. 或 entice sb. into sth.，意为“以利益或好处诱使某人”，无法用于“不及物动词 + for”结构，在句法与语境逻辑层面均不成立。"
+    },
+    "translation": "早期文艺复兴时期的人文主义者并未默默接受经院哲学的教条，而是开始积极呼吁进行一场认识论转向，将经验观察置于教会权威之上。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The immediate preposition 'for' following the blank combined with an abstract ideological goal ('an epistemological shift') forms the decisive syntactic and collocational anchor. Among all options, only 'agitate' functions intransitively with 'for' to mean campaigning vigorously to arouse public or intellectual support for a cause."
+  },
+  {
+    "id": "tem8_b01_12",
+    "group_id": 16,
+    "group_name": "agitate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "jog",
+    "question": "During the cognitive interview, the forensic psychologist introduced tactile stimuli and contemporaneous photographs in a deliberate attempt to ___ the traumatized witness's memory without implanting misleading suggestions.",
+    "options": [
+      "agitate",
+      "jog",
+      "lure",
+      "entice"
+    ],
+    "answer": "jog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'the traumatized witness's memory' establishes an inescapable cognitive collocation. In standard English, only 'jog' collocates with 'memory' to denote gently stimulating or reviving dormant recollection.",
+    "distractor_analysis": {
+      "agitate": "错误。agitate 作及物动词时意为“使焦虑、使烦躁、扰乱”（如 agitate the mind）或“煽动”，不能与 memory 搭配表示“唤起或激活记忆”。若强行代入，不仅违背惯用搭配，而且语义变为“扰乱证人的记忆”，与司法认知访谈旨在准确提取线索的专业语境完全相悖。",
+      "jog": "正确。jog one's memory 是认知心理学与高阶学术英语中的核心固定搭配，意为“唤醒、唤起某人的记忆”。句中指司法心理学家通过外部线索审慎激活受创证人的沉睡记忆，语体与搭配皆无可挑剔。",
+      "lure": "错误。lure 意为“诱惑、诱捕”，其受词通常为具有行动能力与欲望的个体（人或动物），不能与抽象心理认知概念 memory 搭配；记忆作为认知机能无法被“引诱”，构成范畴错配（category mistake）。",
+      "entice": "错误。entice 意为“以利益、愉悦吸引或诱使某人”，其支配的宾语必须是具备感知力与动机的行为主体，无法与抽象名词 memory 搭配，存在严重的搭配断裂与语义逻辑畸变。"
+    },
+    "translation": "在认知访谈过程中，司法心理学家引入了触觉刺激物和同期的现场照片，试图在不植入误导性暗示的前提下，审慎地唤起受创证人的记忆。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The direct object 'the traumatized witness's memory' establishes an inescapable cognitive collocation. In standard English, only 'jog' collocates with 'memory' to denote gently stimulating or reviving dormant recollection."
+  },
+  {
+    "id": "tem8_b01_13",
+    "group_id": 17,
+    "group_name": "allay, quell, quench, appease",
+    "level": "TEM-8",
+    "target_word": "allay",
+    "question": "By releasing the unredacted clinical trial data and methodological protocols, the oversight committee sought to ___ lingering misgivings among independent researchers regarding the drug's safety, without compromising proprietary manufacturing processes.",
+    "options": [
+      "allay",
+      "quell",
+      "quench",
+      "appease"
+    ],
+    "answer": "allay",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_MEDICINE",
+    "anchor_clue": "空后直接宾语为表示认知性疑虑与审慎担忧的'lingering misgivings'，前置语境为主管委员会通过公开试验数据与方案提供理性透明的说明。在四个选项中，只有'allay'在严谨学术英语中与'misgivings'构成高度固定的经典搭配（allay misgivings/doubts/fears，MW与Oxford均以此作为典范例证），特指通过证据、事实或抚慰来减轻、平息内心的怀疑与不安。相比之下，'quell'专用于以强力手段压制动乱叛乱或平定突发剧烈的惊恐恐慌，无法支配温和反思性的'misgivings'；'quench'受事严格局限于火、渴或炽烈欲望；'appease'要求支配具有诉求的敌对施压者或生理饥饿，且隐含妥协让步的绥靖色彩，与句末'without compromising'（未作妥协）构成逻辑冲突。",
+    "distractor_analysis": {
+      "allay": "正确。'allay'在权威词典（Merriam-Webster, Oxford, Longman）中的核心义项为'通过解释、证据或安慰使（担忧、疑虑、恐惧等负面心境）平息或减弱'（to make quiet: CALM），其最地道、最受限的宾语即为认知与心理层面的怀疑（allay misgivings/fears/doubts）。句中委员会通过公开未删节数据这一理性透明的学术举措来缓解研究人员的'持续顾虑'（lingering misgivings），语法搭配、语义内涵及语体风格完全吻合。",
+      "quell": "错误。'quell'（源自古英语 cwellan，意为消灭、镇压）的核心语义是通过强硬手段或压倒性力量彻底'镇压、平息'外部骚乱、反叛（如 quell a riot/rebellion），或引申为平定具有突发性、暴发性的剧烈恐慌（如 quell panic/hysteria）与剧烈病理反射（如 quell nausea/pain）。'misgivings'指反思性的、温和理性的审慎疑虑，缺乏暴力动乱或暴发属性，与'quell'存在严重的语义选择限制冲突（语料库中几乎不存在 *quell misgivings 的用例）；且委员会所采取的开放透明举措绝非强力压制。",
+      "quench": "错误。'quench'的原义指用水或液体'浇灭、熄灭（火焰、光热）'（quench a flame/fire），引申指通过饮水'解渴'（quench thirst），或在文学语体中满足极其炽烈的生理渴求与欲望（quench one's lust/desire）。其受事论元具有明确的物理热度或强烈生理本能属性，绝不能支配表示抽象认知怀疑的'misgivings'，属于严重的语义范畴错配（category mistake）。",
+      "appease": "错误。'appease'在及物搭配与语义机制上有双重阻断：首先，其受事论元通常为具有施压能力或敌意的'施压主体/人物'（如 appease critics, appease an aggressor）或原发性欲望（如 appease hunger），不能直接支配表示认知疑虑的名词（*appease misgivings 构成搭配违歧）；其次，'appease'在政治与外交语境中带有明显的贬义色彩，指通过做出让步、牺牲原则来讨好对方的'绥靖'行径，这与句末委员会坚守底线、未损害核心专有工艺（without compromising proprietary manufacturing processes）的话语逻辑直接相悖。"
+    },
+    "translation": "通过公开未经删节的临床试验数据和方法学方案，监督委员会力求消除独立研究人员对该药物安全性的持续顾虑，同时又未妥协其专有的制造工艺。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "空后直接宾语为表示认知性疑虑与审慎担忧的'lingering misgivings'，前置语境为主管委员会通过公开试验数据与方案提供理性透明的说明。在四个选项中，只有'allay'在严谨学术英语中与'misgivings'构成高度固定的经典搭配（allay misgivings/doubts/fears，MW与Oxford均以此作为典范例证），特指通过证据、事实或抚慰来减轻、平息内心的怀疑与不安。相比之下，'quell'专用于以强力手段压制动乱叛乱或平定突发剧烈的惊恐恐慌，无法支配温和反思性的'misgivings'；'quench'受事严格局限于火、渴或炽烈欲望；'appease'要求支配具有诉求的敌对施压者或生理饥饿，且隐含妥协让步的绥靖色彩，与句末'without compromising'（未作妥协）构成逻辑冲突。"
+  },
+  {
+    "id": "tem8_b01_14",
+    "group_id": 17,
+    "group_name": "allay, quell, quench, appease",
+    "level": "TEM-8",
+    "target_word": "quell",
+    "question": "The authoritarian regime deployed paramilitary forces and enforced an indefinite nocturnal curfew to ___ the burgeoning civil unrest that threatened to dismantle its administrative hegemony over the capital.",
+    "options": [
+      "allay",
+      "quell",
+      "quench",
+      "appease"
+    ],
+    "answer": "quell",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中宾语为'the burgeoning civil unrest（萌生的民众动乱）'，且手段状语为'部署准军事部队并实施无限期夜间宵禁'。四个选项中，仅有'quell'专指使用国家机器或强制威权'平息、平定、镇压（骚乱、叛叛）'；'allay'不能支配客观动荡，'quench'无法修饰政治骚乱，而'appease'（妥协绥靖）在逻辑语义上与'动用军队宵禁'完全相悖。",
+    "distractor_analysis": {
+      "quell": "正确。'quell'的经典高阶学术/政治语域搭配即为 quell unrest, quell a rebellion, quell riots，意为运用压倒性力量彻底压制、平息社会动荡或群体反抗，与句中'部署准军事部队、实施宵禁'的强制性手段形成精确的语义与语境闭环。",
+      "allay": "错误。'allay'仅用于缓解内心的恐惧、疑虑（fears, doubts）或减轻生理上的轻微痛苦（pain），其动词属性是温和的'减轻、抚慰'，绝不能带'civil unrest（民众动乱）'这类具有实体行动与暴力属性的群体政治事件作宾语。",
+      "quench": "错误。'quench'仅支配火（flames）、干渴（thirst）或抽象的炽烈欲望（passion/desire）。将'quench'用于'civil unrest'属于严重的词义泛化与搭配不当，在现代正式英语中不具备可接受度。",
+      "appease": "错误。'appease'的核心义项为向对立方让步、妥协以求息事宁人（pacify by granting demands）。句中政府采取的是出动武装力量与实施严酷宵禁的强力压制手段，这与'appeasement（绥靖妥协）'构成直接的逻辑语义对立；此外，'appease'的宾语通常为具备施压能力的群体或其怒火，亦不与'unrest'直接搭配。"
+    },
+    "translation": "该专制政权部署了准军事部队并实行无限期夜间宵禁，以强力平息萌生中的民间动乱，这场动乱此前已威胁到其对首都的行政统治权。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中宾语为'the burgeoning civil unrest（萌生的民众动乱）'，且手段状语为'部署准军事部队并实施无限期夜间宵禁'。四个选项中，仅有'quell'专指使用国家机器或强制威权'平息、平定、镇压（骚乱、叛叛）'；'allay'不能支配客观动荡，'quench'无法修饰政治骚乱，而'appease'（妥协绥靖）在逻辑语义上与'动用军队宵禁'完全相悖。"
+  },
+  {
+    "id": "tem8_b01_15",
+    "group_id": 18,
+    "group_name": "alleviate, avail, succour, expedite",
+    "level": "TEM-8",
+    "target_word": "alleviate",
+    "question": "Although the experimental therapeutic regimen was designed to ___ cognitive fatigue among overworked clinicians, persistent institutional pressure and erratic shift schedules severely undermined the measurable benefits of the intervention.",
+    "options": [
+      "alleviate",
+      "avail",
+      "succour",
+      "expedite"
+    ],
+    "answer": "alleviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后直接宾语为负面心理/生理状态'cognitive fatigue'，要求搭配表示'减轻、缓解'的及物动词；succour 仅能以处于困境中的'人'作宾语，avail 无法直接接病症名词作单宾语，而 expedite（加速）会导致与后文'therapeutic benefits'的逻辑反转。",
+    "distractor_analysis": {
+      "alleviate": "正确。及物动词，核心义为“减轻、缓和（痛苦、疲劳、困难等负面状态）”，与宾语“cognitive fatigue”（认知疲劳）构成高度纯正的学术搭配，完全符合主句中表达“治疗方案旨在改善症状”的语篇逻辑。",
+      "avail": "错误。句法与语义均不契合。avail 作及物动词时意为“对……有用、有益”，常见结构为“avail somebody nothing/little”或搭配反身代词“avail oneself of”（利用），无法直接以抽象的负面状态名词“cognitive fatigue”充当单宾语来表示“缓解疲劳”。",
+      "succour": "错误。词汇选择限制（selectional restriction）冲突。succour 意为“救助、援助（处于险境或困境中的人）”，其及物动词的宾语必须是遭受苦难的“人”或“群体”（如 succour the injured clinicians），不能以病理或认知状态充当宾语（不可说 succour fatigue）。",
+      "expedite": "错误。语意逻辑严重反转。expedite 意为“加速、促进（进程或事项）”，若置于此处则意为“加速认知疲劳的产生”，与前文的“therapeutic regimen”（治疗方案）以及后文的“measurable benefits”（可衡量的疗效）发生直接逻辑冲突。"
+    },
+    "translation": "尽管这项实验性治疗方案旨在缓解过度劳累的临床医生的认知疲劳，但持续存在的机构压力和不规律的轮班安排严重削弱了该干预措施的可衡量疗效。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "空后直接宾语为负面心理/生理状态'cognitive fatigue'，要求搭配表示'减轻、缓解'的及物动词；succour 仅能以处于困境中的'人'作宾语，avail 无法直接接病症名词作单宾语，而 expedite（加速）会导致与后文'therapeutic benefits'的逻辑反转。"
+  },
+  {
+    "id": "tem8_b01_16",
+    "group_id": 18,
+    "group_name": "alleviate, avail, succour, expedite",
+    "level": "TEM-8",
+    "target_word": "avail",
+    "question": "Rigorous theoretical deductions and elaborate epistemological models will ultimately ___ the cognitive scientists nothing if their underlying empirical methodologies fail to replicate across diverse human populations.",
+    "options": [
+      "alleviate",
+      "avail",
+      "succour",
+      "expedite"
+    ],
+    "answer": "avail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的'___ the cognitive scientists nothing'构成了具有绝对决定性的英美学术/典雅句式'avail somebody nothing'（对某人毫无裨益）；其余三项（alleviate, succour, expedite）在句法配价上皆为单及物动词，语法上绝不能接'人 + nothing'的双重补足结构。",
+    "distractor_analysis": {
+      "avail": "正确。在此处构成正式学术英语中经典的“avail somebody nothing”句式（意为“对某人毫无用处/未能使某人获益”），精准表达了“若基础实证方法无法复现，严谨的理论模型对认知科学家而言将毫无价值”的严密推论。",
+      "alleviate": "错误。句法配价（valency）严重违背。alleviate 属于单及物动词，其后必须接表示痛苦、负担或问题的抽象名词（如 alleviate burden），绝对无法支配“人 + nothing”的句式结构（英语中不存在 *alleviate sb nothing 结构）。",
+      "succour": "错误。句法结构不相容。succour 意为“救援、救助”，接遭遇困难的人作直接宾语（如 succour the scientists），其词义和句法均不支持后接副词性名词 nothing 构成结果或程度补足结构（不存在 *succour sb nothing）。",
+      "expedite": "错误。句法结构与词义双重不符。expedite 意为“加快、促进”，后接进程、任务或审批流程（如 expedite the research process），无法接人作宾语并与 nothing 连用，与语境所要求的“无所裨益”毫无关联。"
+    },
+    "translation": "如果认知科学家们所依赖的实证方法无法在不同人群中成功复现，那么严密的理论推演和精心构建的认识论模型最终将对他们毫无裨益。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中的'___ the cognitive scientists nothing'构成了具有绝对决定性的英美学术/典雅句式'avail somebody nothing'（对某人毫无裨益）；其余三项（alleviate, succour, expedite）在句法配价上皆为单及物动词，语法上绝不能接'人 + nothing'的双重补足结构。"
+  },
+  {
+    "id": "tem8_b01_17",
+    "group_id": 19,
+    "group_name": "animate, exalt, enliven, invigorate",
+    "level": "TEM-8",
+    "target_word": "animate",
+    "question": "Although positivism once dominated psychological research, an existential imperative continues to ___ qualitative inquiry, reminding scholars that human subjectivity cannot be reduced to sterile numerical indices.",
+    "options": [
+      "animate",
+      "exalt",
+      "enliven",
+      "invigorate"
+    ],
+    "answer": "animate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'existential imperative' functioning as subject, paired with qualitative inquiry as object, collocates with 'animate' in the sense of infusing a theoretical paradigm with vital spirit, directly contrasted with the adjective 'sterile' (lifeless).",
+    "distractor_analysis": {
+      "animate": "正确。animate 在学术与哲学语境（FIELD_COGNITION）中常引申为“赋予内在生命力、作为核心精神贯穿驱动”，常与 imperative, principle, ethos 等搭配作谓语。此外，句尾的 'sterile numerical indices'（毫无生气的数值指标）与 animate 所蕴含的“注入生机与灵魂”形成鲜明的语义张力与反衬。",
+      "exalt": "错误。exalt 意为“高度颂扬、提升（地位/声望）”，通常要求崇拜、地位擢升或等级评判的语义框架（如 exalt reason above emotion），而“存在主义诉求”并非在外部地位上“赞美”质性研究，而是从内部赋予其思想生命力，语义逻辑不符。",
+      "enliven": "错误。enliven 侧重于“使（气氛、演讲、场面）更加生动活跃”，多表现为外在形式或感官层面的活跃与趣味性（如用趣闻轶事点缀），其轻快的语义色彩无法用于严谨的学术认识论层面来表征对研究范式的深层精神赋予。",
+      "invigorate": "错误。invigorate 意为“使精力充沛、使恢复活力”，主要用于身体机能、生理状态或陷入停滞的机制/经济（如 invigorate the economy），强调注入外力使其摆脱疲态或恢复强健，缺乏 animate 所特有的赋予本体论“生命与灵魂”的认知哲学意涵。"
+    },
+    "translation": "尽管实证主义曾一度主导心理学研究，但一种存在主义的必然诉求依然贯穿着质性研究并为其注入生命力，它提醒学者们，人类的主观性绝不能被简化为毫无生气的数值指标。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The noun phrase 'existential imperative' functioning as subject, paired with qualitative inquiry as object, collocates with 'animate' in the sense of infusing a theoretical paradigm with vital spirit, directly contrasted with the adjective 'sterile' (lifeless)."
+  },
+  {
+    "id": "tem8_b01_18",
+    "group_id": 19,
+    "group_name": "animate, exalt, enliven, invigorate",
+    "level": "TEM-8",
+    "target_word": "exalt",
+    "question": "Enlightenment rationalism tended to ___ abstract intellect above affective experience, arguing that genuine epistemic authority resided exclusively in rigorous deductive principles rather than subjective emotional intuitions.",
+    "options": [
+      "animate",
+      "exalt",
+      "enliven",
+      "invigorate"
+    ],
+    "answer": "exalt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic anchor is the prepositional complementation '___ abstract intellect above affective experience'. Only 'exalt' licenses the transitive comparative structure 'exalt A above B' (to elevate/prize A above B in status or value).",
+    "distractor_analysis": {
+      "exalt": "正确。exalt 可作及物动词，表示在地位、价值或认知排序上“推崇、抬高”，常构成固定学术论辩搭配“exalt A above B”（将A置于B之上/推崇A甚于B）。此处完美契合启蒙理性主义将抽象理智抬高至情感体验之上的哲学认识论立场。",
+      "animate": "错误。animate 意为“赋予……生命或活力”，为纯及物动词，其句法论元结构无法后接表示比较与等级差别的介词短语“above...”（不存在 *animate A above B 的用法），代入会导致句法严重断裂。",
+      "enliven": "错误。enliven 意为“使生动、使有生气”，后接宾语表示活跃的对象，同样不能与介词 above 搭配构成价值层面的优劣排序，且与严谨的认识论权威构建语境格格不入。",
+      "invigorate": "错误。invigorate 意为“使振奋、使健壮”，在语法上不能跟接介词短语 above 构成层级排他关系，在语义上偏重机能复苏而非哲学认知层面的价值推崇与偏重。"
+    },
+    "translation": "启蒙理性主义往往推崇抽象理智甚于情感体验，认为真正的认知权威完全存在于严密的演绎原则之中，而非主观的情感直觉。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The decisive syntactic anchor is the prepositional complementation '___ abstract intellect above affective experience'. Only 'exalt' licenses the transitive comparative structure 'exalt A above B' (to elevate/prize A above B in status or value)."
+  },
+  {
+    "id": "tem8_b01_19",
+    "group_id": 20,
+    "group_name": "antagonize, fret, grate, beset",
+    "level": "TEM-8",
+    "target_word": "antagonize",
+    "question": "By unilaterally imposing punitive tariffs during sensitive multilateral negotiations, the administration risked doing more to ___ its pivotal European allies than to compel structural economic concessions from its strategic adversaries.",
+    "options": [
+      "antagonize",
+      "fret",
+      "grate",
+      "beset"
+    ],
+    "answer": "antagonize",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格后直接接及物动词宾语“its pivotal European allies”（关键欧洲盟友），且句意表达单边关税政策在外交上“激起……敌意/使……疏远”的政治后果；与其后“compel... concessions from its strategic adversaries”形成鲜明的外交博弈对照。四选一中仅及物动词 antagonize 完全契合该句法结构与外交语域搭配。",
+    "distractor_analysis": {
+      "antagonize": "正确。antagonize 为及物动词，意为“激怒、引起……反感、树敌”（to incur or provoke the hostility of），在国际关系与地缘政治语域中常与 allies、constituents、blocs 等复数人称/集体名词搭配（如 antagonize allies），在此精准表达政策失误导致盟友离心离德。",
+      "fret": "错误。fret 作“苦恼、焦虑、烦躁”解时主要为不及物动词，必须接介词 over 或 about（如 fret over market volatility），不可直接接外部对象做宾语来表示“使盟友敌对”；若作及物动词多用于反身（fret oneself）或表示物理上的“磨损、腐蚀”，在此出现句法与语意双重断裂。",
+      "grate": "错误。grate 表“使人恼怒、使烦躁”时为不及物动词，其标配句法为 grate on/upon somebody / somebody's nerves（如 his remarks grated on them）；作及物动词时仅表示物理意义的“磨碎、碾磨（食物等）”，绝不能直接接人或政治实体表示激怒。",
+      "beset": "错误。beset 意为“困扰、围攻、威胁”，在句法上其主语通常是抽象灾难、困难、疾病或敌人（e.g., problems beset the government），或常用于被动语态（be beset by/with challenges）。主语 the administration 作为施动主体，无法直接主动“beset 其盟友”来表达外交疏离或激起对立。"
+    },
+    "translation": "在敏感的多边谈判期间单方面加征惩罚性关税，该政府这样做的风险在于，其激怒关键欧洲盟友的程度，远甚于从战略对手那里迫使获得结构性经济让步的可能。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中空格后直接接及物动词宾语“its pivotal European allies”（关键欧洲盟友），且句意表达单边关税政策在外交上“激起……敌意/使……疏远”的政治后果；与其后“compel... concessions from its strategic adversaries”形成鲜明的外交博弈对照。四选一中仅及物动词 antagonize 完全契合该句法结构与外交语域搭配。"
+  },
+  {
+    "id": "tem8_b01_20",
+    "group_id": 20,
+    "group_name": "antagonize, fret, grate, beset",
+    "level": "TEM-8",
+    "target_word": "fret",
+    "question": "While risk-averse institutional investors continually ___ over transient quarterly fluctuations and impending regulatory shifts, visionary venture capitalists remain steadfastly focused on the disruptive, long-term technological transformations reshaping global industries.",
+    "options": [
+      "antagonize",
+      "fret",
+      "grate",
+      "beset"
+    ],
+    "answer": "fret",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格后紧跟介词短语“over transient quarterly fluctuations...”，形成固定认知情绪搭配“___ over sth.”（为某事焦虑、发愁），与后半句“remain steadfastly focused on”形成主观心态上的鲜明反差。在四个选项中，仅 fret 具备接介词 over 表达认知焦虑的不及物动词用法。",
+    "distractor_analysis": {
+      "fret": "正确。fret 在认知与心理语域中是不及物动词，固定搭配为 fret over / fret about something，意为“对……忧心忡忡、苦恼发愁”，与主语“规避风险的机构投资者”的心理反应完全契合，完美呼应介词 over。",
+      "antagonize": "错误。antagonize 是纯及物动词，意为“激怒、引起……对抗”，必须直接接宾语，绝不存在“antagonize over”的介词搭配形式，在句法结构上无法成立。",
+      "grate": "错误。grate 表“令人厌烦、刺激”时是不及物动词，但其固定介词搭配是 on 或 upon（如 grate on sb's nerves），既不搭配 over，在语义上也无法表达投资者主观的担忧烦恼情绪。",
+      "beset": "错误。beset 为及物动词，意为“困扰、使苦恼、围攻”（常用于 troubles beset sb 或 be beset with/by），无法作为主动不及物动词后接介词 over（investors beset over 属严重语法错误）。"
+    },
+    "translation": "当规避风险的机构投资者为短暂的季度波动和即将来临的监管变动而持续忧心忡忡时，富有远见的风险投资家们却坚定地专注于重塑全球产业的颠覆性长期技术变革。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中空格后紧跟介词短语“over transient quarterly fluctuations...”，形成固定认知情绪搭配“___ over sth.”（为某事焦虑、发愁），与后半句“remain steadfastly focused on”形成主观心态上的鲜明反差。在四个选项中，仅 fret 具备接介词 over 表达认知焦虑的不及物动词用法。"
+  },
+  {
+    "id": "tem8_b02_01",
+    "group_id": 21,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "level": "TEM-8",
+    "target_word": "appease",
+    "question": "The foreign ministry warned that unilateral concessions would merely ___ the autocratic neighbor's expansionist ambitions, arguing that lasting regional security could only be guaranteed through credible military deterrence.",
+    "options": [
+      "appease",
+      "pacify",
+      "mollify",
+      "conciliate"
+    ],
+    "answer": "appease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的直接宾语为“the autocratic neighbor's expansionist ambitions”（扩张野心），且手段为“unilateral concessions”（单方面让步）。在英语搭配中，唯有 appease 能与欲望、胃口或政治野心搭配（如 Merriam-Webster 权威示例：appease their territorial ambitions），意指“通过牺牲原则妥协让步以满足侵略者的野心”。其余三词在动宾搭配和语义逻辑上均无法支配 ambitions。",
+    "distractor_analysis": {
+      "appease": "正确。Merriam-Webster 明确收录其与欲望/野心类抽象名词的经典搭配（如 appease their territorial ambitions / appease one's appetite），并界定其核心政治语意为“以牺牲原则向侵略者做出妥协（to make concessions to an aggressor at the sacrifice of principles）”。句中“unilateral concessions”（单方让步）与“expansionist ambitions”（扩张野心）构成不可替代的双重语境与搭配锚点。",
+      "pacify": "错误。pacify（平息、安抚、绥靖）的及物宾语通常为处于骚乱、愤怒状态的“人或人群”（如 pacify the mob），或需要平定叛乱的“地理区域”（如 pacify a province），不能与抽象的欲望、抱负类名词（ambitions）构成动宾搭配，属于严重的搭配断裂。",
+      "mollify": "错误。mollify 词源义为“使变软（mollis）”，在现代英语中专门表示缓和或平息具体的情绪创伤、愤怒或受损的自尊（如 mollify critics, mollify hurt pride/anger），无法支配具有进攻性、扩张性的政治野心（expansionist ambitions）。",
+      "conciliate": "错误。conciliate 侧重于通过友好沟通、怀柔手段或调停来“博取好感、化敌为友”（gain goodwill / reconcile），其宾语通常为具备独立意志的敌对者、反对派群体（如 conciliate an adversary），同样无法与 expansionist ambitions 搭配。"
+    },
+    "translation": "外交部警告称，单方面的妥协退让只会助长专制邻国的扩张野心，并坚称只有通过可靠的军事威慑才能保障持久的地区安全。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中的直接宾语为“the autocratic neighbor's expansionist ambitions”（扩张野心），且手段为“unilateral concessions”（单方面让步）。在英语搭配中，唯有 appease 能与欲望、胃口或政治野心搭配（如 Merriam-Webster 权威示例：appease their territorial ambitions），意指“通过牺牲原则妥协让步以满足侵略者的野心”。其余三词在动宾搭配和语义逻辑上均无法支配 ambitions。"
+  },
+  {
+    "id": "tem8_b02_02",
+    "group_id": 21,
+    "group_name": "appease, pacify, mollify, conciliate",
+    "level": "TEM-8",
+    "target_word": "pacify",
+    "question": "Although the imperial governor deployed heavy cavalry to ___ the restive border territories, the brutal suppression merely deepened public resentment, leaving the underlying ideological rebellion unresolved.",
+    "options": [
+      "appease",
+      "pacify",
+      "mollify",
+      "conciliate"
+    ],
+    "answer": "pacify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动词所支配的直接宾语为地理疆域“the restive border territories”（动荡不安的边境领土），且伴随的动作手段是“deployed heavy cavalry”（部署重骑兵）与“brutal suppression”（残酷镇压）。在四个选项中，唯有 pacify 具有“通过武力镇压以平定（叛乱地区/国家）使其恢复秩序（to reduce to a submissive state : SUBDUE）”的专门政治军事义项与支配地域名词的选择限制（selectional restriction）。",
+    "distractor_analysis": {
+      "pacify": "正确。Merriam-Webster 明确列出其核心义项：“to reduce to a submissive state : SUBDUE <pacify the country>”（武力平定叛乱地区以恢复安定秩序，名词形式为 pacification）。句中以“the restive border territories”（动荡的边境地区）为支配对象，且施动手段为“deployed heavy cavalry”与“brutal suppression”，无论在语义选择限制还是暴力平乱的历史政治语域上，均只有 pacify 完全吻合。",
+      "appease": "错误。appease 核心语义为“妥协让步、绥靖（make concessions）”，其宾语不能是地理区域（territories）；更关键的是，依靠重骑兵进行残酷镇压与“妥协让步（appeasement）”在逻辑方向上完全对立。",
+      "mollify": "错误。mollify 专指通过温和举措抚慰、软化具体的受损情绪或怒气（to soothe anger），其宾语必须为有感知能力的人或情绪名词，既无法支配地域名词 territories，也不能通过“重骑兵镇压”来实现。",
+      "conciliate": "错误。conciliate 指通过外交善意、拉拢或调停以争取敌对方的信任（win over from hostility），手段必须是怀柔性的，这与句中“heavy cavalry”（重骑兵）和“brutal suppression”（暴力镇压）的强硬语境产生强烈的语用冲突；此外该词亦不与地域名词搭配。"
+    },
+    "translation": "尽管帝国总督部署重骑兵以武力平定动荡的边境地区，但残酷的镇压只会加深民众的怨恨，未能化解深层的意识形态叛乱。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "动词所支配的直接宾语为地理疆域“the restive border territories”（动荡不安的边境领土），且伴随的动作手段是“deployed heavy cavalry”（部署重骑兵）与“brutal suppression”（残酷镇压）。在四个选项中，唯有 pacify 具有“通过武力镇压以平定（叛乱地区/国家）使其恢复秩序（to reduce to a submissive state : SUBDUE）”的专门政治军事义项与支配地域名词的选择限制（selectional restriction）。"
+  },
+  {
+    "id": "tem8_b02_03",
+    "group_id": 22,
+    "group_name": "banish, shun, eject, relegate",
+    "level": "TEM-8",
+    "target_word": "banish",
+    "question": "Despite rigorous psychoanalytic intervention, the former intelligence officer could not entirely ___ the persistent dread of impending retaliation from his waking thoughts, as traumatic memories continuously resurfaced.",
+    "options": [
+      "banish",
+      "shun",
+      "eject",
+      "relegate"
+    ],
+    "answer": "banish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心认知宾语'the persistent dread'与后置介词短语'from his waking thoughts'构成绝对性排除锚点。在认知心理与高级书面语域中，'banish sth (fear/doubt/dread) from one's mind/thoughts'是表示'从心头驱散/摒除恐惧或杂念'的经典固定搭配。其余选项在句法介词选择或语义认知范畴上均不成立。",
+    "distractor_analysis": {
+      "banish": "正确。banish在高级英语认知域（FIELD_COGNITION）中常表示“驱散、摒弃（念头、恐惧、忧虑）”，与后文介词短语“from his waking thoughts”构成极为地道的动介搭配（banish sth from one's thoughts/mind），完美契合语境。",
+      "shun": "错误。shun意为“刻意回避、避开”（to avoid deliberately），通常用于回避人、社交场合、恶习或争端，属于及物动词且后接直接宾语，不能与介词短语“from his waking thoughts”搭配构成“把……从意识中赶出”的移出义结构，存在严重句法障碍。",
+      "eject": "错误。eject侧重指从物理空间或机构中“强行逐出、弹出、喷出”（如eject a pilot, eject an unruly customer），用于排除内心抽象的情感或恐惧（dread）属于严重的语域不当与搭配断裂。",
+      "relegate": "错误。relegate意为“降级、使降入次要地位”，其及物用法在句法上强制要求介词to引出归宿（relegate sth/sb to an inferior position），与句中的介词from形成直接的句法冲突。"
+    },
+    "translation": "尽管接受了严格的心理分析干预，这名前情报官员仍无法从自己的日常思绪中彻底驱散对迫在眉睫的报复的持续恐惧，痛苦的记忆依然不断浮现。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中核心认知宾语'the persistent dread'与后置介词短语'from his waking thoughts'构成绝对性排除锚点。在认知心理与高级书面语域中，'banish sth (fear/doubt/dread) from one's mind/thoughts'是表示'从心头驱散/摒除恐惧或杂念'的经典固定搭配。其余选项在句法介词选择或语义认知范畴上均不成立。"
+  },
+  {
+    "id": "tem8_b02_04",
+    "group_id": 22,
+    "group_name": "banish, shun, eject, relegate",
+    "level": "TEM-8",
+    "target_word": "shun",
+    "question": "Throughout her illustrious judicial career, the senior jurist consistently chose to ___ all public controversy, conducting her deliberations with profound discretion and steadfastly refusing to court media attention.",
+    "options": [
+      "banish",
+      "shun",
+      "eject",
+      "relegate"
+    ],
+    "answer": "shun",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的'conducting her deliberations with profound discretion'（极其审慎地进行审议）与'steadfastly refusing to court media attention'（坚决不招揽媒体关注）构成决定性语境锚点。此处表达法官主动避开外界纷争的行为姿态，'shun controversy/publicity'属于高频典雅搭配。法官作为个体无权或无法'消除/驱逐'（banish/eject）客观存在的公共争议，只能主动'避开'（shun）。",
+    "distractor_analysis": {
+      "shun": "正确。shun意为“有意回避、避开”（to deliberately avoid or eschew），常用于回避争议（shun controversy）、聚光灯或社交名利，与后文的“审慎行事”及“拒绝迎合媒体”形成严丝合缝的逻辑同向呼应。",
+      "banish": "错误。banish意为“驱逐出境”或“彻底消除”。公共争议（public controversy）是外部社会客观存在的现象，个别法官不可能凭个人意愿在社会中将其“驱逐/彻底消除”，主谓宾逻辑严重失调。",
+      "eject": "错误。eject专指用外力将具体的人或物从封闭物理空间中“驱赶或弹出”，绝不能用于抽象的社会现象或公众讨论（controversy），属于词义域与认知范畴的严重错配。",
+      "relegate": "错误。relegate意为“贬低、降职；将……归入次要类别”，其作为及物动词必须接介词to引入归属地或等级（relegate sth to...），此处无介词to，句法结构残缺不全。"
+    },
+    "translation": "在她辉煌的司法生涯中，这位资深法官始终选择避开一切公众争议，以极大的审慎展开案件审议，并坚决拒绝招揽媒体的关注。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "后文的'conducting her deliberations with profound discretion'（极其审慎地进行审议）与'steadfastly refusing to court media attention'（坚决不招揽媒体关注）构成决定性语境锚点。此处表达法官主动避开外界纷争的行为姿态，'shun controversy/publicity'属于高频典雅搭配。法官作为个体无权或无法'消除/驱逐'（banish/eject）客观存在的公共争议，只能主动'避开'（shun）。"
+  },
+  {
+    "id": "tem8_b02_05",
+    "group_id": 23,
+    "group_name": "beguile, trance, bewitch, captivate",
+    "level": "TEM-8",
+    "target_word": "beguile",
+    "question": "Through an artful synthesis of diplomatic charm and feigned conciliation, the seasoned envoy sought to ___ the rival delegates into signing the disadvantageous treaty, masking his government's aggressive territorial ambitions.",
+    "options": [
+      "beguile",
+      "trance",
+      "bewitch",
+      "captivate"
+    ],
+    "answer": "beguile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中存在决定性的句法语义双重锚点：一是动词搭配框架“___ sb into doing sth”（诱使某人做某事），二是上下文所提示的“diplomatic charm and feigned conciliation”（外交魅力与虚假和解）与“masking... aggressive ambitions”（掩饰侵略野心）这一兼具“魅力吸引”与“欺诈诱骗”的双重语意指向。在四个选项中，仅 beguile 具备这一专有句式与欺诈性魅力内涵。",
+    "distractor_analysis": {
+      "beguile": "正确。beguile 在韦氏词典中意为“to lead by deception; to engage the interest of by or as if by guile”，兼具“吸引、陶醉”与“欺瞒、诱骗”之意，且在句法上经典搭配“beguile somebody into doing something”（通过巧妙手段或诱惑使某人落入圈套），完全契合外交使节利用虚假魅力诱使对手签约的语境。",
+      "trance": "错误。trance 作及物动词时意为“使昏睡、使入迷”（to put into a trance），多用于描述催眠、出神或失去意识的状态，不能接“sb into doing sth”这种表劝诱或欺骗结果的补足语结构，在外交谈判语境中存在严重的语义与搭配断裂。",
+      "bewitch": "错误。bewitch 意为“使着迷、施魔法于”，强调如受巫术般被极度吸引或失去理智（通常用于情感或审美上的倾倒），其及物动词用法不接“into + 动名词”的致使性行为结果补足语（不能用于 bewitch sb into signing），存在固定搭配违规。",
+      "captivate": "错误。captivate 意为“迷住、吸引”（to hold the attention or affection of），属于纯粹的情感与审美吸引动词，感彩积极且为非结果致使性及物动词；它无法支配“into doing sth”结构（不存在 captivate someone into signing 这一用法），且完全不含句意所需的“欺诈与伪装（feigned, masking）”隐性语义特征。"
+    },
+    "translation": "通过巧妙结合外交魅力与虚与委蛇的和解姿态，这位经验丰富的外交使节企图诱骗对手代表签署这份不利的条约，以掩饰其政府咄咄逼人的领土野心。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句中存在决定性的句法语义双重锚点：一是动词搭配框架“___ sb into doing sth”（诱使某人做某事），二是上下文所提示的“diplomatic charm and feigned conciliation”（外交魅力与虚假和解）与“masking... aggressive ambitions”（掩饰侵略野心）这一兼具“魅力吸引”与“欺诈诱骗”的双重语意指向。在四个选项中，仅 beguile 具备这一专有句式与欺诈性魅力内涵。"
+  },
+  {
+    "id": "tem8_b02_06",
+    "group_id": 23,
+    "group_name": "beguile, trance, bewitch, captivate",
+    "level": "TEM-8",
+    "target_word": "trance",
+    "question": "Monitored by continuous electroencephalography, the subject lapsed into a profound dissociative ___, exhibiting marked slowing of cortical oscillations alongside an acute, reversible suspension of responsiveness to external sensory stimuli.",
+    "options": [
+      "beguile",
+      "trance",
+      "bewitch",
+      "captivate"
+    ],
+    "answer": "trance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点包含词性句法约束与专有学术搭配双重维度：首先，空格位于冠词与双重形容词修饰语“a profound dissociative ___”之后，充当介词 into 所引介词短语的核心名词（Head Noun），必须填入单数名词。四个选项中，beguile、bewitch 与 captivate 在现代标准英语中均纯属及物动词（transitive verbs），代入直接引发严重的词性范畴违规（Syntactic Category Violation）。其次，在认知神经科学与精神医学语境中，“dissociative trance”（解离性恍惚/出神状态）是官方病理学与变异意识状态标准术语（DSM-5 / ICD-11），与动词短语“lapse into”构成严密固化搭配，并精准对应后文“对感官刺激的反应性暂时中断”这一生理定义。",
+    "distractor_analysis": {
+      "trance": "正确。trance 在此作名词，指“出神、恍惚或意识部分/完全悬置的变异意识状态”（a state of altered consciousness characterized by profound abstraction or suspended responsiveness to external stimuli）。在句法上，它完美充当“into a profound dissociative ___”结构中的核心名词；在专业搭配上，“dissociative trance”（解离性恍惚）是神经科学与临床精神病学的规范术语，且与“lapse into a trance”这一经典搭配无缝契合；在语义逻辑上，后文“suspension of responsiveness to external sensory stimuli”（对外界刺激反应性的可逆中断）精确呼应了 trance 的现代生理与心理学释义。",
+      "beguile": "错误。beguile 在现代英语中纯属及物动词（其名词形式为 beguilement），意为“欺瞒、诱骗”或“以娱人的手段消磨时光、吸引心神”。代入冠词与形容词“a profound dissociative ___”之后，直接导致严重的词性语法违规；此外，其表欺瞒或消遣的主观意图语义亦与客观严肃的神经电生理监测语境完全格格不入。",
+      "bewitch": "错误。bewitch 纯属及物动词（其名词形式为 bewitchment），意为“施魔法于、使神魂颠倒、使着迷”。将其置于句中充当介词宾语的核心名词，在句法结构上无法成立；同时，该词带有浓厚的文学抒情与情感迷恋色彩，在探讨脑电皮层振荡变缓的学术语境中存在严重的文体语体冲突（Register Clash）。",
+      "captivate": "错误。captivate 纯属及物动词（其名词形式为 captivation），意为“以魅力吸引、迷住”。代入空格在句法层面上构成立即的词性错误；在语义层面上，captivate 强调意识清醒状态下的高度审美专注与情感倾倒，与句中所述“脑电波变慢、感官知觉反应暂时中止”的神经抑制状态在语义极性上完全相反。"
+    },
+    "translation": "在连续脑电图的监测下，该受试者陷入了一种深度的解离性出神状态，表现为皮层振荡显著减慢，并伴随着对外界感官刺激反应性的急性、可逆性中断。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "决定性锚点包含词性句法约束与专有学术搭配双重维度：首先，空格位于冠词与双重形容词修饰语“a profound dissociative ___”之后，充当介词 into 所引介词短语的核心名词（Head Noun），必须填入单数名词。四个选项中，beguile、bewitch 与 captivate 在现代标准英语中均纯属及物动词（transitive verbs），代入直接引发严重的词性范畴违规（Syntactic Category Violation）。其次，在认知神经科学与精神医学语境中，“dissociative trance”（解离性恍惚/出神状态）是官方病理学与变异意识状态标准术语（DSM-5 / ICD-11），与动词短语“lapse into”构成严密固化搭配，并精准对应后文“对感官刺激的反应性暂时中断”这一生理定义。"
+  },
+  {
+    "id": "tem8_b02_07",
+    "group_id": 24,
+    "group_name": "boost, ram, jab, prod",
+    "level": "TEM-8",
+    "target_word": "boost",
+    "question": "Longitudinal neuroimaging assessments confirm that sustained aerobic exercise does not merely ___ cognitive flexibility in aging populations, but actively preserves the structural integrity of prefrontal networks against neurodegenerative atrophy.",
+    "options": [
+      "boost",
+      "ram",
+      "jab",
+      "prod"
+    ],
+    "answer": "boost",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates transitively with the abstract psychological capacity 'cognitive flexibility' to denote enhancing or elevating function; the other three verbs cannot govern abstract cognitive traits as direct objects.",
+    "distractor_analysis": {
+      "boost": "正确。boost意为“推动、提高、增强”（to increase, improve, or make more successful），在此处与抽象心理认知指标“cognitive flexibility”（认知灵活性）形成经典学术搭配，完美契合后文递进结构中的“preserves the structural integrity”（维护结构完整性）。",
+      "ram": "错误。ram作及物动词时意为“猛撞、强行推入”，通常接具体物理对象或与介词搭配（如ram through, ram into），无法直接支配抽象心智功能短语“cognitive flexibility”表示“提升”，语义与句法均不成立。",
+      "jab": "错误。jab指“用尖物刺戳”或“猛击”（to poke or hit sharply），转义为“尖锐批评”，既无“促进、改善”之意，亦无法以认知机能充当宾语，搭配严重破裂。",
+      "prod": "错误。prod意为“戳、刺”或引申为“敦促、激励（某人采取行动）”，其典型句型为“prod sb into doing sth”或“prod sb to do sth”，宾语必须为施动者（人或动物），不可直接及物支配抽象心智机能（prod cognitive flexibility属于语义范畴错配）。"
+    },
+    "translation": "纵向神经影像学评估证实，持续的有氧运动不仅能增强老年人群的认知灵活性，还能主动维护前额叶网络结构的完整性，使其免受神经退行性萎缩的影响。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Collocates transitively with the abstract psychological capacity 'cognitive flexibility' to denote enhancing or elevating function; the other three verbs cannot govern abstract cognitive traits as direct objects."
+  },
+  {
+    "id": "tem8_b02_08",
+    "group_id": 24,
+    "group_name": "boost, ram, jab, prod",
+    "level": "TEM-8",
+    "target_word": "ram",
+    "question": "Cognitive psychologists utilized rigorous empirical demonstrations to ___ home the counterintuitive realization that human memory is fundamentally reconstructive rather than a faithful recording of past reality.",
+    "options": [
+      "boost",
+      "ram",
+      "jab",
+      "prod"
+    ],
+    "answer": "ram",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Forms the fixed cognitive idiomatic collocation 'ram home (the realization/point/fact)', meaning to forcefully impress an idea upon the mind; none of the other three verbs can pair with 'home' in this context.",
+    "distractor_analysis": {
+      "ram": "正确。ram在此构成高级英语核心习语“ram home (a point/argument/realization)”，意为“使……被彻底领会、强有力地阐明/强调（某观点或事实）”（to emphasize or demonstrate sth so forcefully that it cannot be doubted or ignored）。与“home the counterintuitive realization”严密契合。",
+      "boost": "错误。boost虽可表示提升或促进，但完全不存在“boost home”这一习语表达，置于此处置空处直接造成严重的习惯搭配断裂。",
+      "jab": "错误。jab与副词home无法构成表“阐明认知事实”的短语动词；jab仅在拳击中偶有物理意义的组合，绝不能引申用于认知或论证语境中指“向某人讲透某道理”。",
+      "prod": "错误。prod虽有“促使、启发”之意，但其搭配介词通常为into或at（如prod sb into awareness），英语中不存在“prod home a realization”的习语用法，属于臆造搭配。"
+    },
+    "translation": "认知心理学家借助严谨的实证研究，力图彻底阐明并强调这一违背直觉的认知事实：人类的记忆在本质上是重构性的，而非对过去现实的忠实记录。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Forms the fixed cognitive idiomatic collocation 'ram home (the realization/point/fact)', meaning to forcefully impress an idea upon the mind; none of the other three verbs can pair with 'home' in this context."
+  },
+  {
+    "id": "tem8_b02_09",
+    "group_id": 25,
+    "group_name": "bunker, shunt, shuffle, transpose",
+    "level": "TEM-8",
+    "target_word": "bunker",
+    "question": "When confronted with robust empirical counterevidence, doctrinaire theorists often ___ themselves behind defensive axiomatic assumptions, steadfastly refusing to accommodate anomalies that could dismantle their long-established paradigm.",
+    "options": [
+      "bunker",
+      "shunt",
+      "shuffle",
+      "transpose"
+    ],
+    "answer": "bunker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic-semantic construction 'bunker oneself behind [defensive assumptions]', where the verb 'bunker' specifically licenses a reflexive pronoun followed by 'behind/in' to denote entrenching or isolating oneself defensively against external intellectual attacks.",
+    "distractor_analysis": {
+      "bunker": "正确。动词 bunker 源于名词“地堡/掩体”，引申至高阶学术与论辩语境中，常用于反身结构 bunker oneself behind/in sth，意为“（在思想或立场上面对批驳时）固步自封、自我封闭于……之后构筑防御工事”。句中教条主义理论家面对经验反证时，将自身蜷缩固守于防御性公理预设之后，其句法构式（bunker oneself behind）与“构筑认知掩体”的隐喻色彩完全吻合。",
+      "shunt": "错误。及物动词 shunt 核心义为“分流、使转轨；推卸、搁置”，典型句法搭配为 shunt sth/sb to/into/aside（如 shunt traffic onto side roads 或 shunt responsibility onto others），既无“退避固守以自保”的语义，也无法与反身代词和介词 behind 构成合语法且合逻辑的搭配。",
+      "shuffle": "错误。shuffle 作及物动词时表示“洗（纸牌）、调换……的位置”或与 off 构成固定短语 shuffle off（推卸责任、摆脱）；作不及物动词时指“拖步慢行、支吾推诿”。英语中不存在 shuffle oneself behind 的用法，置于句中会造成严重的语义破损与搭配断裂。",
+      "transpose": "错误。transpose 核心义为“使调换位置、颠倒顺序、移调、置换”（常用于 transpose A and B 或 transpose A into B）。该词要求宾语为可置换的对应成分，绝不能与反身代词连用表示“退守隐匿于……之后”，在句法结构与概念语义上均存在范畴错配。"
+    },
+    "translation": "当面对确凿的经验反证时，教条主义理论家往往将自身封闭于防御性的公理预设之后，顽固地拒斥任何可能瓦解其长期确立之范式的反常事实。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Syntactic-semantic construction 'bunker oneself behind [defensive assumptions]', where the verb 'bunker' specifically licenses a reflexive pronoun followed by 'behind/in' to denote entrenching or isolating oneself defensively against external intellectual attacks."
+  },
+  {
+    "id": "tem8_b02_10",
+    "group_id": 25,
+    "group_name": "bunker, shunt, shuffle, transpose",
+    "level": "TEM-8",
+    "target_word": "shunt",
+    "question": "Fearful that an open inquiry would expose systemic negligence, the academic senate voted to ___ the ethics investigation into a bureaucratic siding, ensuring that no substantive verdict would emerge before the accreditation review.",
+    "options": [
+      "bunker",
+      "shunt",
+      "shuffle",
+      "transpose"
+    ],
+    "answer": "shunt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive metaphorical anchor 'into a bureaucratic siding' (combined with object 'the ethics investigation'), activating the classic railway idiom 'shunt sth into a siding' (to sidetrack, shelve, or stall an inquiry indefinitely).",
+    "distractor_analysis": {
+      "bunker": "错误。bunker 作动词指“储存燃料、将（球）击入沙坑”或反身使用表“固守掩体防卫”，无法以调查（investigation）为及物宾语，更不可能与表示轨道侧线的介词短语 into a siding 搭配，存在句法与意象的双重冲突。",
+      "shunt": "正确。shunt 原为铁路专业术语，指“使火车转轨、把车厢调入侧线（siding）”。在机构政治与学术论述中，其极为固化的比喻性搭配为 shunt sth into a (bureaucratic/political) siding，意为“通过程序性手段将（某项调查、法案或敏感争议）推入冷板凳/侧线加以搁置”，句中的 into a bureaucratic siding 是绝对的排他锚点。",
+      "shuffle": "错误。shuffle 意为“洗牌、拖足行走、搪塞”，虽然含有消极敷衍的色彩，但其介词搭配通常为 shuffle off（推诿）或 shuffle sth around（反复调换），绝不可与名词 siding（侧线）搭配形成 transfer/diversion 意象，属于严重语用搭配不当。",
+      "transpose": "错误。transpose 意为“调换位置、音调转换、概念移植”，常见搭配为 transpose A into B（将A移植或转变为B形式）。将其置于此句无法产生“官僚化搁置调查”的语用意义，与铁路侧线（siding）隐喻彻底脱节。"
+    },
+    "translation": "由于担心公开质询会暴露系统性疏忽，学术委员会投票决定将伦理调查搁置于官僚程序的侧线，以确保在即将到来的资质评审之前不会产生任何实质性结论。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Decisive metaphorical anchor 'into a bureaucratic siding' (combined with object 'the ethics investigation'), activating the classic railway idiom 'shunt sth into a siding' (to sidetrack, shelve, or stall an inquiry indefinitely)."
+  },
+  {
+    "id": "tem8_b02_11",
+    "group_id": 26,
+    "group_name": "cajole, coax, badger, seduce",
+    "level": "TEM-8",
+    "target_word": "cajole",
+    "question": "Recognizing the narcissistic diplomat’s immense vanity, the special envoy sought to ___ him into signing the fragile accord through lavish, calculated flattery rather than substantive policy compromises.",
+    "options": [
+      "cajole",
+      "coax",
+      "badger",
+      "seduce"
+    ],
+    "answer": "cajole",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的核心线索'immense vanity'（极大的虚荣心）与'through lavish, calculated flattery'（通过精心设计的极尽奉承）明确锁定了手段为'甜言蜜语阿谀奉承'。根据Merriam-Webster定义，cajole的核心义素正是'to influence or urge by gentle urging, caressing, or flattering; wheedle'，唯有该词精准呼应利用虚荣心谄媚诱劝的语义内涵。",
+    "distractor_analysis": {
+      "cajole": "正确。cajole指以甜言蜜语、阿谀奉承或虚假承诺哄骗、劝诱某人（尤指克服其抵触心理），与句中的'narcissistic... vanity'和'calculated flattery'构成决定性的语义闭环与习惯搭配（cajole sb into doing sth）。",
+      "coax": "错误。coax侧重依靠持久的耐心、温和体贴的态度或艺术性手段循循善诱，其词义内核中并不包含'阿谀奉承（flattery）'或'虚伪迎合虚荣心'的贬义色彩，无法精准匹配语境中的修辞手段。",
+      "badger": "错误。badger意为'纠缠不休、反复骚扰逼迫'，强调以令人烦躁的重复催促施加压力，与句中'lavish, calculated flattery'所体现的迎合奉承手段在行为逻辑与情感色彩上产生直接冲突。",
+      "seduce": "错误。seduce意为'引诱、勾引……入歧途'，侧重利用感官欲望、金钱或利益诱惑使人放弃原则或道德底线，在此与通过个人崇拜式的外交奉承劝诱签署条约的语境严重不符。"
+    },
+    "translation": "敏锐地察觉到那位自负外交官极强的虚荣心后，特使试图通过精心设计的极尽奉承——而非实质性的政策妥协——哄劝他签署这份脆弱的协议。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的核心线索'immense vanity'（极大的虚荣心）与'through lavish, calculated flattery'（通过精心设计的极尽奉承）明确锁定了手段为'甜言蜜语阿谀奉承'。根据Merriam-Webster定义，cajole的核心义素正是'to influence or urge by gentle urging, caressing, or flattering; wheedle'，唯有该词精准呼应利用虚荣心谄媚诱劝的语义内涵。"
+  },
+  {
+    "id": "tem8_b02_12",
+    "group_id": 26,
+    "group_name": "cajole, coax, badger, seduce",
+    "level": "TEM-8",
+    "target_word": "coax",
+    "question": "Through exquisite bow control and delicate micro-adjustments of finger pressure, the virtuoso cellist managed to ___ an astonishingly luminous resonance from the temperamental eighteenth-century instrument.",
+    "options": [
+      "cajole",
+      "coax",
+      "badger",
+      "seduce"
+    ],
+    "answer": "coax",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的宾语及介词搭配'___ an astonishingly luminous resonance from the... instrument'（从乐器中诱发共鸣）构成了绝对的排他性锚点。依据Merriam-Webster的高阶释义，coax拥有独特的引申义'to draw, gain, or bring to a desired state by gentle persistent effort'（如coax a tone from a flute），专指以极大的耐心与技巧从精细或难驾驭的客体中调谐出最佳状态；其余三项仅能支配具有主观意识的人类受体，代入本句均构成严重的范畴错误与搭配断裂。",
+    "distractor_analysis": {
+      "coax": "正确。coax在此体现其高级文学与专业语体用法，指凭借精湛技艺、极度耐心与细微操控使不易顺从的物件（如乐器、机械等）展现出最佳性能或发出声音（coax a resonance from the instrument），完全契合学术与艺术批评的崇高语域。",
+      "cajole": "错误。cajole严格要求受体具备能够被奉承或甜言蜜语讨好的心智与自尊心，属于人际间的心理操纵动词；乐器属于物理实体，无法被'cajole'，代入导致严重的搭配断裂（collocational rupture）。",
+      "badger": "错误。badger表示纠缠、唠叨、骚扰施压，其支配宾语必须是能产生烦躁情绪的人，绝不可能与从乐器中引出声音搭配。",
+      "seduce": "错误。seduce表示利用邪念、物欲或肉体诱使人堕落或做出不智之举，其语义特征与'通过微调指压从古董大提琴中引出共鸣'毫无关联，构成语义逻辑割裂。"
+    },
+    "translation": "凭借精湛的运弓控制以及对指压的微妙调整，这位大提琴大师成功从这件脾性难辨的十八世纪古老乐器中引出了令人惊叹的澄澈共鸣。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的宾语及介词搭配'___ an astonishingly luminous resonance from the... instrument'（从乐器中诱发共鸣）构成了绝对的排他性锚点。依据Merriam-Webster的高阶释义，coax拥有独特的引申义'to draw, gain, or bring to a desired state by gentle persistent effort'（如coax a tone from a flute），专指以极大的耐心与技巧从精细或难驾驭的客体中调谐出最佳状态；其余三项仅能支配具有主观意识的人类受体，代入本句均构成严重的范畴错误与搭配断裂。"
+  },
+  {
+    "id": "tem8_b02_13",
+    "group_id": 27,
+    "group_name": "chant, trill, chirp, quaver",
+    "level": "TEM-8",
+    "target_word": "chant",
+    "question": "When dogmatic ideologues unthinkingly ___ party litanies rather than interrogate pressing socioeconomic realities, public discourse degenerates into a ritualized spectacle that preemptively stifles any authentic intellectual dissent.",
+    "options": [
+      "chant",
+      "trill",
+      "chirp",
+      "quaver"
+    ],
+    "answer": "chant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'party litanies' combined with 'unthinkingly' and the resulting 'ritualized spectacle' demands the verb 'chant', which uniquely denotes the mechanical, repetitive recitation of dogmas or ritual formulas.",
+    "distractor_analysis": {
+      "chant": "正确。在政治认知与公共话语批评语境中，chant 常用于高级引申义，与 litany, dogma, slogan, mantra 等抽象名词构成经典固定搭配，意为“机械、反复且不假思索地背诵/反复念叨（教条或套话）”，与下文中的 party litanies（党派教条/长篇套话）及 ritualized spectacle（仪式化闹剧）形成无缝契合。",
+      "trill": "错误。trill 意为“发颤音、用颤音唱出或以尖脆高调说话”，其及物动词搭配对象通常是具体音符、特定辅音或俏皮短语，与沉重且教条化的“party litanies”在语义特征与文体语域上严重冲突。",
+      "chirp": "错误。chirp 本义指虫鸟啁啾，引申为以轻快、欢快或不合时宜的高亢声调说话，带有欢悦或轻浮的情感色彩，无法承载教条主义者刻板灌输意识形态时的机械与僵化语义。",
+      "quaver": "错误。quaver 指声音因恐惧、年迈或紧张而颤抖、发颤，通常作不及物动词，且表意偏向怯懦与游移不定，与语境中自负固执的教条主义者（dogmatic ideologues）不容置疑地重复既定说辞构成直接逻辑反差。"
+    },
+    "translation": "当教条主义的意识形态鼓吹者们不动脑筋地反复念诵党派信条、而非审视迫切的社会经济现实时，公共话语便堕落为一场仪式化的闹剧，先发制人地扼杀了任何真正的知识分子异见。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The direct object 'party litanies' combined with 'unthinkingly' and the resulting 'ritualized spectacle' demands the verb 'chant', which uniquely denotes the mechanical, repetitive recitation of dogmas or ritual formulas."
+  },
+  {
+    "id": "tem8_b02_14",
+    "group_id": 27,
+    "group_name": "chant, trill, chirp, quaver",
+    "level": "TEM-8",
+    "target_word": "trill",
+    "question": "In developmental linguistics, researchers observe that while toddlers easily learn to ___ alveolar rhotics through rapid lingual vibrations, adult second-language learners often struggle to reproduce such precise motor articulatory gestures.",
+    "options": [
+      "chant",
+      "trill",
+      "chirp",
+      "quaver"
+    ],
+    "answer": "trill",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The technical linguistic object 'alveolar rhotics' (齿龈r音) and the articulatory condition 'through rapid lingual vibrations' uniquely specify the phonetic verb 'trill' (to articulate a vibrated sound).",
+    "distractor_analysis": {
+      "trill": "正确。trill 在认知语言学及语音学中具备精确的专业义项，作及物动词时表示“发颤音（尤指舌尖或悬雍垂快速震颤发出辅音）”，与宾语 alveolar rhotics（齿龈颤音）及方式状语 through rapid lingual vibrations 构成排他性的严密学术搭配。",
+      "chant": "错误。chant 意为“有节奏地唱诵、高呼口号”，其所支配的宾语必须是歌词、咒文、口号等成段的语篇单位，不能支配单个音位或辅音类型（alveolar rhotics），存在明显的语义与句法搭配断裂。",
+      "chirp": "错误。chirp 指鸟类发出短促尖锐的叫声，或人欢快尖细地讲话，在发音生理学中并无表示“借助舌肌震颤发特定辅音”的术语功能，与精确的运动发音动作（motor articulatory gestures）毫无关联。",
+      "quaver": "错误。quaver 指发声器官因软弱或情绪失控而不自主地颤抖，属于非受控的不稳定颤音，而非认知与运动神经系统主动精细调控舌部肌肉以产生特定音位的规律发音行为。"
+    },
+    "translation": "在发展语言学中，研究人员观察到，尽管幼儿能够轻松通过舌部的快速震颤发出齿龈颤音，成年第二语言学习者却往往难以复现这种高度精密的肌肉发音动作。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The technical linguistic object 'alveolar rhotics' (齿龈r音) and the articulatory condition 'through rapid lingual vibrations' uniquely specify the phonetic verb 'trill' (to articulate a vibrated sound)."
+  },
+  {
+    "id": "tem8_b02_15",
+    "group_id": 28,
+    "group_name": "churn, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "churn",
+    "question": "As the tribunal examined the classified dossiers, conflicting emotions and ethical doubts began to ___ violently within the jurist’s conscience, eroding his previously unassailable sense of detachment.",
+    "options": [
+      "churn",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "churn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为抽象的情感与道德疑虑（conflicting emotions and ethical doubts），句中限定了副词修饰语 violently 与方位介词短语 within the jurist's conscience。在认知与心理场中，仅 churn 具备表示“（思绪、情感等）在内心深处剧烈翻腾、翻江倒海”（be agitated）的特异性隐喻搭配。",
+    "distractor_analysis": {
+      "churn": "正确。churn 意为“剧烈搅动、翻腾”（MW: be agitated），在认知与心理认知语境中常用于抽象概念，专指“（思绪、情感、疑虑在内心）翻江倒海、剧烈震荡”，与句中的 violently 以及 within the jurist's conscience 构成严密贴切的高阶学术搭配。",
+      "waver": "错误。waver 意为“动摇、犹豫不决”（MW: to vacillate irresolutely between choices），其主语通常是人或人的意志、决心（如 resolve, commitment），且常接介词 between 或 in，不能以“情感与疑虑”为主语并在良知深处作“剧烈翻滚”解。",
+      "quiver": "错误。quiver 意为“微颤、发抖”（MW: to shake or move with a slight trembling motion），通常指身体部位（如声音、双唇）或细小物理对象的微弱颤动，语义内涵强调“微弱、快速的震颤”，与副词 violently（剧烈地）存在语义冲突，且不与抽象的“情感疑虑”搭配。",
+      "writhe": "错误。writhe 意为“（因剧痛或苦闷而）扭动、翻滚打滚”（MW: to twist the body in pain or agony），其核心主语必须是有血肉之躯的实体（人或动物在痛苦中扭动），不可支配抽象的认知心理概念（emotions and doubts）作为其主体。"
+    },
+    "translation": "随着特别法庭对机密档案展开审查，矛盾的情感与道德疑虑开始在该法官的良知深处剧烈翻腾，悄然侵蚀着他此前坚不可摧的超然与客观。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "主语为抽象的情感与道德疑虑（conflicting emotions and ethical doubts），句中限定了副词修饰语 violently 与方位介词短语 within the jurist's conscience。在认知与心理场中，仅 churn 具备表示“（思绪、情感等）在内心深处剧烈翻腾、翻江倒海”（be agitated）的特异性隐喻搭配。"
+  },
+  {
+    "id": "tem8_b02_16",
+    "group_id": 28,
+    "group_name": "churn, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Faced with contradictory economic indicators, the central bank’s monetary committee began to ___ between raising interest rates to curb stubborn inflation and easing credit to forestall a deepening recession.",
+    "options": [
+      "churn",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式结构“began to ___ between [doing X] and [doing Y]”构成了绝对排他的句法搭配锚点。主语为机构决策者（the central bank's monetary committee），表达在两种互相对立的政策考量之间举棋不定、摇摆犹豫。四个选项中仅 waver 具备 waver between A and B 的固定认知决策搭配。",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为“犹豫不决、举棋不定、动摇”（MW: to vacillate irresolutely between choices），常用于高层政治、经济决策语境，其核心搭配模式为 waver between A and B，精准体现决策层在加息抗通胀与宽松防衰退之间的举棋不定。",
+      "churn": "错误。churn 意为“激荡、剧烈翻滚”（MW: be agitated），侧重内心的骚乱搅动或物理搅拌，无法进入“___ between doing X and doing Y”这一表达两种政策选项之间犹豫权衡的句法框架。",
+      "quiver": "错误。quiver 意为“轻颤、颤抖”（MW: to shake with a slight trembling motion），仅用于描述物理层面的轻微颤动或情绪引发的生理发抖，完全不具备认知抉择中“在两种方案之间摇摆”的语义功能。",
+      "writhe": "错误。writhe 意为“扭动、辗转翻滚”（MW: to twist or squirm in physical pain or embarrassment），侧重身体因肉体剧痛或极度难堪而蜷缩扭曲，不能接 between 结构表示方案上的摇摆与犹豫。"
+    },
+    "translation": "面对相互矛盾的经济指标，央行货币政策委员会开始在通过加息遏制顽固通胀与通过放宽信贷防止经济进一步衰退之间举棋不定。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "句式结构“began to ___ between [doing X] and [doing Y]”构成了绝对排他的句法搭配锚点。主语为机构决策者（the central bank's monetary committee），表达在两种互相对立的政策考量之间举棋不定、摇摆犹豫。四个选项中仅 waver 具备 waver between A and B 的固定认知决策搭配。"
+  },
+  {
+    "id": "tem8_b02_17",
+    "group_id": 29,
+    "group_name": "circumvent, outcry, outgrow, outweigh",
+    "level": "TEM-8",
+    "target_word": "circumvent",
+    "question": "Faced with stringent international sanctions, the regime established an intricate network of offshore shell companies designed specifically to ___ export controls and maintain the covert procurement of critical dual-use technology.",
+    "options": [
+      "circumvent",
+      "outcry",
+      "outgrow",
+      "outweigh"
+    ],
+    "answer": "circumvent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Strong collocation with 'export controls' in the context of sanctions evasion through 'offshore shell companies' to secure 'covert procurement'.",
+    "distractor_analysis": {
+      "circumvent": "正确项。动词，意为“规避、绕过（法律、规则或限制）”。在国际经贸与政治文本中，'circumvent export controls/sanctions' 是极其地道、固定的学术与政经搭配。句中设立“离岸空壳公司网络”以维持“秘密采购”，完全吻合通过迂回、隐蔽手段规避制度壁垒的语义特征。",
+      "outcry": "干扰项。及物动词时意为“叫得比……响、在喊叫声中压倒”，无法与抽象的制度性禁令“export controls”搭配，句法与语义均不通。",
+      "outgrow": "干扰项。动词，意为“因长大/发展而不再适用、因成熟而戒除”，常接衣物、幼稚习惯或组织发展初期的特定阶段，不能接法律或贸易管制名词，空壳公司网络并不能“自然生长而摆脱”出口管制。",
+      "outweigh": "干扰项。动词，意为“在重量、价值或重要性上超过”，属于利弊权衡范畴（如 outweigh the costs/risks），不能以“export controls”作为直接宾语表达规避制裁之意。"
+    },
+    "translation": "面对严厉的国际制裁，该政权建立了一个复杂的离岸空壳公司网络，专门用于规避出口管制，并维持关键军民两用技术的秘密采购。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "Strong collocation with 'export controls' in the context of sanctions evasion through 'offshore shell companies' to secure 'covert procurement'."
+  },
+  {
+    "id": "tem8_b02_18",
+    "group_id": 29,
+    "group_name": "circumvent, outcry, outgrow, outweigh",
+    "level": "TEM-8",
+    "target_word": "outcry",
+    "question": "The cabinet's abrupt decision to dismantle environmental protections provoked an immediate public ___, compelling the prime minister to abandon the contentious legislation before its final parliamentary reading.",
+    "options": [
+      "circumvent",
+      "outcry",
+      "outgrow",
+      "outweigh"
+    ],
+    "answer": "outcry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The nominal syntactic slot governed by the verb 'provoked' and the modifier 'an immediate public', which forms the indispensable idiomatic collocation 'public outcry' in the context of political backlash.",
+    "distractor_analysis": {
+      "outcry": "正确项。名词，意为“强烈的抗议、公开的反对声”（a strong usually public expression of protest or indignation）。在句中充当及物动词 provoked 的宾语，与前置修饰语 an immediate public 形成高度契合的学术政论固定搭配（public outcry），准确契合内阁废除环保政策引发众怒、迫使首相撤回提案的因果语境。",
+      "circumvent": "干扰项。及物动词，意为“规避、绕过（规则、限制等）”。空格受冠词与形容词“an immediate public”限定，语法上必须填入单数名词；circumvent 为纯动词，存在不可调和的词性冲突，且语义上无法充当“引发”的直接承受客体。",
+      "outgrow": "干扰项。及物动词，意为“因长大/发展而不再适用、戒除”。句法上无法充当名词宾语；语义上表示形体或心理上的成长超越，与政策变动引发的社会舆论反弹毫无逻辑关联。",
+      "outweigh": "干扰项。及物动词，意为“（在重要性或价值上）超过”。不仅在语法上因动词词性导致句子结构破裂，且在语义上常用于利弊权衡比较（如 benefits outweigh costs），无法与公众抗议的语境相匹配。"
+    },
+    "translation": "内阁突然废除环境保护条款的决定引发了公众的强烈抗议，迫使首相在该争议性法案进入议会最后审议阶段之前将其撤回。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "The nominal syntactic slot governed by the verb 'provoked' and the modifier 'an immediate public', which forms the indispensable idiomatic collocation 'public outcry' in the context of political backlash."
+  },
+  {
+    "id": "tem8_b02_19",
+    "group_id": 30,
+    "group_name": "clatter, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "clatter",
+    "question": "When seismic vibrations rippled through the restoration laboratory, hundreds of loose porcelain sherds began to ___ against the metal trays, immediately arresting the conservator’s cognitive focus before automated seismic monitors triggered.",
+    "options": [
+      "clatter",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "clatter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为硬脆物体“loose porcelain sherds”（松散的瓷器残片），后接介词短语“against the metal trays”，语境为物理震动引发的硬质物体反复碰撞声，唯有“clatter against”构成标准物理音效与句法搭配。",
+    "distractor_analysis": {
+      "clatter": "【正确】不及物动词，指坚硬、脆性或金属物体相互碰撞或撞击硬表面时发出的“咔嗒咔嗒、乒乓作响”的连续清脆碰撞声。与主语“porcelain sherds”及介词短语“against the metal trays”形成精确的声学搭配与物理意象。",
+      "honk": "【错误】动词，专指汽车喇叭“鸣响”或雁、鹅等禽类“引颈高叫”，主语通常为车辆司机或禽鸟，不能用于形容陶瓷碎屑撞击托盘的声响，语义领域严重脱节。",
+      "creak": "【错误】动词，指由于承重受压、摩擦或陈旧老化而发出的“嘎吱、咯吱”摩擦声（如老旧木地板、受力横梁、铰链），不能用于描述碎硬物体的连续敲击与振动声。",
+      "racket": "【错误】作为不及物动词时意为“欢闹喧扰、花天酒地”或“四处吵闹游荡（常接 around/about）”，既不符合微观硬物撞击的声学特征，也无法与“against the metal trays”搭配表示物理碰撞发声。"
+    },
+    "translation": "当微小的地震波纹掠过修复实验室时，数百枚散落的瓷器残片开始在金属托盘上铿锵作响，在自动化地震监测器触发警报之前，瞬间攫住了文物修复师的认知注意力。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "主语为硬脆物体“loose porcelain sherds”（松散的瓷器残片），后接介词短语“against the metal trays”，语境为物理震动引发的硬质物体反复碰撞声，唯有“clatter against”构成标准物理音效与句法搭配。"
+  },
+  {
+    "id": "tem8_b02_20",
+    "group_id": 30,
+    "group_name": "clatter, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Frustrated motorists trapped in gridlocked arterial corridors frequently ___ with punitive impatience, producing an abrasive acoustic cue that cognitive psychologists found significantly impaired auditory processing in nearby pedestrians.",
+    "options": [
+      "clatter",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语“motorists”（受困于拥堵走廊的机动车驾驶员）及状语“with punitive impatience”（带着惩罚性焦躁），锁定了驾驶员主动操控汽车鸣笛发泄的动作，必须选用表示“按汽车喇叭鸣笛”的动词。",
+    "distractor_analysis": {
+      "honk": "【正确】不及物动词，意为“（汽车喇叭）鸣响；按汽车喇叭”。与主语“motorists”以及“with punitive impatience”完全吻合，精准传达出城市交通心理学中驾驶者焦躁鸣笛的声学侵扰行为。",
+      "clatter": "【错误】动词，指硬物剧烈碰撞或马蹄、坚硬鞋底叩击地面发出的咔嗒声，不能用来表达受困司机“鸣笛示警/泄愤”的动作，主谓搭配不当。",
+      "creak": "【错误】动词，指物体（如木结构、皮革、关节）因应力形变或干燥摩擦发出的刺耳吱嘎声，不能作司机的主动发声行为动词。",
+      "racket": "【错误】动词，指大声喧哗骚动或过着放荡喧闹的生活，不具备“按喇叭鸣笛”的具体语义，无法与副词状语“with punitive impatience”结合产生合乎常理的驾驶行为意象。"
+    },
+    "translation": "受困于严重拥堵的主干道上的沮丧司机们频频带着惩戒性的焦躁狂按喇叭，制造出刺耳的声学刺激；认知心理学家发现，这种噪音显著损害了附近行人的听觉信息处理能力。",
+    "mechanism": "MECH_COLLOCATION",
+    "taxonomy_notes": "主语“motorists”（受困于拥堵走廊的机动车驾驶员）及状语“with punitive impatience”（带着惩罚性焦躁），锁定了驾驶员主动操控汽车鸣笛发泄的动作，必须选用表示“按汽车喇叭鸣笛”的动词。"
+  }
+]

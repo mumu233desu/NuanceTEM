@@ -73,8 +73,16 @@ export async function loadQuestionsFromManifest(): Promise<Question[]> {
       console.warn('ID mapping migration skipped:', e);
     }
 
-    // 6. 弱解耦存入本地 IndexedDB
+    // 6. 弱解耦存入本地 IndexedDB，并自动清理不在当前清单中的孤儿废弃题目与进度（保证单一可信源）
     await db.questions.bulkPut(allQuestions);
+    const validIdSet = new Set(allQuestions.map(q => q.id));
+    const allDbQuestions = await db.questions.toArray();
+    const staleQuestionIds = allDbQuestions.filter(q => !validIdSet.has(q.id)).map(q => q.id);
+    if (staleQuestionIds.length > 0) {
+      console.log(`[Loader] Pruning ${staleQuestionIds.length} stale/deprecated questions and their orphan progress from local cache.`);
+      await db.questions.bulkDelete(staleQuestionIds);
+      await db.progress.bulkDelete(staleQuestionIds);
+    }
 
     // 7. 仅为缺失进度的题目补充初始进度
     const existingProgress = await db.progress.toArray();

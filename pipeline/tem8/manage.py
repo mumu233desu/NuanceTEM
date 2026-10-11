@@ -138,22 +138,37 @@ def cmd_review(args):
     print(f"\nResult: {passed}/{len(questions)} passed rule verification.")
 
 def cmd_merge(args):
-    """全量聚合已验证批次并物理分包拆分"""
+    """全量聚合已验证批次并物理分包拆分（支持幂等合并与规范数据契约）"""
     print("\n[Merge] Scanning verified batch files in:", CONFIG.batches_dir)
     all_questions = []
     seen_ids = set()
 
-    for fname in sorted(os.listdir(CONFIG.batches_dir)):
-        if fname.startswith("batch_") and fname.endswith(".json"):
-            fp = os.path.join(CONFIG.batches_dir, fname)
+    state_file = CONFIG.batches_state_file
+    verified_batch_names = []
+    if os.path.exists(state_file):
+        with open(state_file, "r", encoding="utf-8") as f:
+            state = json.load(f)
+            verified_batch_names = [k for k, v in state.items() if v.get("status") == "VERIFIED"]
+
+    if not verified_batch_names:
+        print("[Merge] No VERIFIED batches found in state file!")
+        return
+
+    print(f"[Merge] Found {len(verified_batch_names)} VERIFIED batches in state: {', '.join(sorted(verified_batch_names))}")
+
+    for bname in sorted(verified_batch_names):
+        fp = os.path.join(CONFIG.batches_dir, f"{bname}.json")
+        if os.path.exists(fp):
             with open(fp, "r", encoding="utf-8") as f:
                 items = json.load(f)
                 for q in items:
                     if q["id"] not in seen_ids:
                         seen_ids.add(q["id"])
                         all_questions.append(q)
+        else:
+            print(f"[Merge] Warning: Batch file not found: {fp}")
 
-    print(f"[Merge] Aggregated {len(all_questions)} unique questions.")
+    print(f"[Merge] Aggregated {len(all_questions)} unique questions from verified batches.")
     verifier = RuleVerifier()
     valid_questions = []
     for q in all_questions:
@@ -163,52 +178,123 @@ def cmd_merge(args):
 
     print(f"[Merge] Total 100% compliant questions: {len(valid_questions)}")
 
-    # 物理分包
+    # 路径准备
     root_dir = os.path.dirname(os.path.dirname(CONFIG.base_dir))
     public_data_dir = os.path.join(root_dir, "public", "data")
-    os.makedirs(public_data_dir, exist_ok=True)
+    tem8_dir = os.path.join(public_data_dir, "tem8")
+    os.makedirs(tem8_dir, exist_ok=True)
 
-    # 1. 保存全量 questions_tem8.json
-    full_path = os.path.join(public_data_dir, "questions_tem8.json")
-    with open(full_path, "w", encoding="utf-8") as f:
-        json.dump(valid_questions, f, ensure_ascii=False, indent=2)
-    print(f"  -> Saved full dataset to {full_path}")
-
-    # 2. 按照机制拆包
+    # 1. 契约规范化与分类分包 (Schema Normalization & Categorization)
     by_mech = {
         "collocation": [],
         "connotation": [],
         "register": [],
         "nuance": []
     }
-    for q in valid_questions:
-        mech = q.get("primary_mechanism", "MECH_NUANCE")
-        if "COLLOCATION" in mech:
-            by_mech["collocation"].append(q)
-        elif "CONNOTATION" in mech:
-            by_mech["connotation"].append(q)
-        elif "REGISTER" in mech:
-            by_mech["register"].append(q)
-        else:
-            by_mech["nuance"].append(q)
 
+    normalized_questions = []
+    for q in valid_questions:
+        nq = dict(q)
+        mech_raw = str(nq.get("primary_mechanism") or nq.get("mechanism") or "MECH_NUANCE").upper()
+
+        # 归一化映射到前端四大核心机制
+        if "COLLOCATION" in mech_raw or "SYNTAX" in mech_raw:
+            canonical_mech = "MECH_COLLOCATION"
+            cat = "collocation"
+        elif "CONNOTATION" in mech_raw:
+            canonical_mech = "MECH_CONNOTATION"
+            cat = "connotation"
+        elif "REGISTER" in mech_raw:
+            canonical_mech = "MECH_REGISTER"
+            cat = "register"
+        else:
+            canonical_mech = "MECH_NUANCE"
+            cat = "nuance"
+
+        nq["mechanism"] = canonical_mech
+        nq["primary_mechanism"] = canonical_mech
+        if "taxonomy_notes" not in nq:
+            nq["taxonomy_notes"] = nq.get("anchor_clue", "")
+
+        normalized_questions.append(nq)
+        by_mech[cat].append(nq)
+
+    # 2. 保存分包文件至 public/data/tem8/
     for k, v in by_mech.items():
-        sub_path = os.path.join(public_data_dir, f"{k}.json")
+        sub_path = os.path.join(tem8_dir, f"{k}.json")
         with open(sub_path, "w", encoding="utf-8") as f:
             json.dump(v, f, ensure_ascii=False, indent=2)
-        print(f"  -> [{k}] {len(v)} questions saved to {sub_path}")
+        print(f"  -> [tem8/{k}] {len(v)} questions saved to {sub_path}")
 
-    # 3. 更新 manifest.json
+    # 3. 保存全量 questions_tem8.json (兼顾 tem8 目录与根目录兼容)
+    full_path_tem8 = os.path.join(tem8_dir, "questions_tem8.json")
+    with open(full_path_tem8, "w", encoding="utf-8") as f:
+        json.dump(normalized_questions, f, ensure_ascii=False, indent=2)
+    print(f"  -> Saved full dataset to {full_path_tem8}")
+
+    full_path_root = os.path.join(public_data_dir, "questions_tem8.json")
+    with open(full_path_root, "w", encoding="utf-8") as f:
+        json.dump(normalized_questions, f, ensure_ascii=False, indent=2)
+
+    # 4. 幂等更新 manifest.json (完整保留 tem4 配置)
     manifest_path = os.path.join(public_data_dir, "manifest.json")
-    now_stamp = datetime.now().strftime("%Y.%m.%d")
-    manifest = {
-        "version": now_stamp,
-        "total": len(valid_questions),
-        "categories": {k: len(v) for k, v in by_mech.items()}
+    manifest = {}
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, "r", encoding="utf-8") as f:
+                manifest = json.load(f)
+        except Exception as e:
+            print(f"[Merge] Warning: Could not read existing manifest.json: {e}")
+
+    now_dt = datetime.now()
+    now_stamp = now_dt.strftime("%Y.%m.%d")
+    version_str = f"{now_stamp}.preview" if len(normalized_questions) < 1500 else now_stamp
+
+    manifest["version"] = version_str
+    manifest["updated_at"] = int(now_dt.timestamp() * 1000)
+
+    if "packages" not in manifest or not isinstance(manifest["packages"], dict):
+        manifest["packages"] = {}
+
+    # 保留 tem4 不变（如果缺失则提供标准占位）
+    if "tem4" not in manifest["packages"]:
+        manifest["packages"]["tem4"] = {
+            "collocation": {"path": "tem4/collocation.json", "count": 0, "label": "介词与句式搭配"},
+            "connotation": {"path": "tem4/connotation.json", "count": 0, "label": "感情色彩与褒贬"},
+            "register": {"path": "tem4/register.json", "count": 0, "label": "语境庄谐与文体"},
+            "nuance": {"path": "tem4/nuance.json", "count": 0, "label": "词义侧重与深浅"},
+            "total_count": 0
+        }
+
+    # 更新 tem8 结构
+    manifest["packages"]["tem8"] = {
+        "collocation": {
+            "path": "tem8/collocation.json",
+            "count": len(by_mech["collocation"]),
+            "label": "介词与句式搭配"
+        },
+        "connotation": {
+            "path": "tem8/connotation.json",
+            "count": len(by_mech["connotation"]),
+            "label": "感情色彩与褒贬"
+        },
+        "register": {
+            "path": "tem8/register.json",
+            "count": len(by_mech["register"]),
+            "label": "语境庄谐与文体"
+        },
+        "nuance": {
+            "path": "tem8/nuance.json",
+            "count": len(by_mech["nuance"]),
+            "label": "词义侧重与深浅"
+        },
+        "total_count": len(normalized_questions)
     }
+
     with open(manifest_path, "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
-    print(f"  -> Updated manifest.json: version {now_stamp}, total {len(valid_questions)}")
+    print(f"  -> Updated manifest.json cleanly: version '{version_str}', tem8 total {len(normalized_questions)}, tem4 preserved.")
+
 
 def main():
     parser = argparse.ArgumentParser(description="NuanceTEM TEM-8 LLM Pipeline Management CLI")
