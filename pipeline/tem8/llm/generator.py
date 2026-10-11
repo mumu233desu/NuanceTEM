@@ -118,10 +118,12 @@ class BatchGenerator:
             {"role": "user", "content": user_prompt}
         ]
 
+        print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Generating '{target}'...", flush=True)
         raw_resp = await self.client.chat_completion(messages=messages, temperature=CONFIG.temperature)
         questions = extract_json(raw_resp)
         if not isinstance(questions, list):
             questions = [questions]
+        print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Got {len(questions)} questions for '{target}', checking quality...", flush=True)
 
         verified_questions = []
         for q in questions[:2]:
@@ -142,6 +144,7 @@ class BatchGenerator:
 
             verified_questions.append(q)
 
+        print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Completed '{target}' -> {len(verified_questions)} questions passed.", flush=True)
         return verified_questions
 
     async def run_batch(

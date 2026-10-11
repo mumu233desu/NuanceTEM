@@ -7,7 +7,7 @@ from datetime import datetime
 from typing import List
 
 if hasattr(sys.stdout, "reconfigure"):
-    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
 
 # 确保包路径可导入
 current_dir = os.path.dirname(os.path.abspath(__file__))

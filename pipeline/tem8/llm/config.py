@@ -20,7 +20,7 @@ class LLMConfig:
 
     # Concurrency & Networking
     default_concurrency: int = 4
-    timeout_seconds: float = 45.0
+    timeout_seconds: float = 180.0
     max_retries: int = 3
     retry_delay_base: float = 2.0
 
