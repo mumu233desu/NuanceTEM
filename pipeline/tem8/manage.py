@@ -114,7 +114,7 @@ def cmd_run_all(args):
     asyncio.run(_runner())
 
 def cmd_review(args):
-    """重新执行本地规则与审查"""
+    """重新执行本地规则与审查 (支持 --l2 参数开启 Layer 2 审校)"""
     b_id = args.batch
     batch_file = os.path.join(CONFIG.batches_dir, f"batch_{b_id:02d}.json")
     if not os.path.exists(batch_file):
@@ -125,17 +125,56 @@ def cmd_review(args):
         questions = json.load(f)
 
     verifier = RuleVerifier()
-    passed = 0
-    print(f"\n[Reviewing Batch {b_id:02d}] Total {len(questions)} questions:")
-    for q in questions:
-        ok, errs = verifier.verify_question(q)
-        if ok:
-            passed += 1
-            print(f"  ✓ [{q['id']}] {q['target_word']} (Length: {len(q['question'].split())}w) -> PASS")
-        else:
-            print(f"  ✗ [{q['id']}] {q['target_word']} -> FAIL: {errs}")
+    chunk_file = os.path.join(CONFIG.chunks_dir, f"chunk_{b_id:02d}.json")
+    cluster_map = {}
+    if os.path.exists(chunk_file):
+        with open(chunk_file, "r", encoding="utf-8") as f:
+            cdata = json.load(f)
+            for cl in cdata.get("clusters", []):
+                cluster_map[cl["group_id"]] = cl
 
-    print(f"\nResult: {passed}/{len(questions)} passed rule verification.")
+    run_l2 = getattr(args, "l2", False)
+    reviewer = None
+    if run_l2:
+        from llm.client import LLMClient
+        from llm.reviewer import ExclusivityReviewer
+        client = LLMClient()
+        reviewer = ExclusivityReviewer(client)
+
+    passed = 0
+    print(f"\n[Reviewing Batch {b_id:02d}] Total {len(questions)} questions (L2 enabled: {run_l2}):")
+
+    async def _async_review():
+        nonlocal passed
+        for q in questions:
+            cl = cluster_map.get(q.get("group_id"))
+            ok, errs = verifier.verify_question(q, cluster=cl, expected_id=q.get("id"))
+            if not ok:
+                print(f"  ✗ [{q['id']}] {q['target_word']} -> L1 FAIL: {errs}")
+                continue
+
+            if reviewer:
+                l2_ok, l2_errs = await reviewer.review_question(q)
+                if not l2_ok:
+                    print(f"  ✗ [{q['id']}] {q['target_word']} -> L2 FAIL: {l2_errs}")
+                    continue
+
+            passed += 1
+            print(f"  ✓ [{q['id']}] {q['target_word']} -> PASS (L1 + {'L2' if reviewer else 'Rules'})")
+
+    if run_l2:
+        asyncio.run(_async_review())
+    else:
+        for q in questions:
+            cl = cluster_map.get(q.get("group_id"))
+            ok, errs = verifier.verify_question(q, cluster=cl, expected_id=q.get("id"))
+            if ok:
+                passed += 1
+                print(f"  ✓ [{q['id']}] {q['target_word']} -> PASS")
+            else:
+                print(f"  ✗ [{q['id']}] {q['target_word']} -> FAIL: {errs}")
+
+    print(f"\nResult: {passed}/{len(questions)} passed verification.")
 
 def cmd_merge(args):
     """全量聚合已验证批次并物理分包拆分（支持幂等合并与规范数据契约）"""
@@ -320,6 +359,7 @@ def main():
     # review
     p_review = subparsers.add_parser("review", help="Re-review a generated batch")
     p_review.add_argument("--batch", type=int, required=True, help="Batch ID (0-74)")
+    p_review.add_argument("--l2", action="store_true", help="Also run Layer 2 LLM review")
     p_review.set_defaults(func=cmd_review)
 
     # merge

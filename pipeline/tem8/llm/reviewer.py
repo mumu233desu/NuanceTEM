@@ -41,6 +41,6 @@ class ExclusivityReviewer:
                 return False, issues
 
         except Exception as e:
-            # 审校 API 偶发解析错误时，记录日志并标记警告
-            print(f"[Reviewer Warning] Failed to parse reviewer response for {q.get('id')}: {e}")
-            return True, [f"Reviewer parse exception: {e}"]
+            # 审校 API 异常时严格 Fail-Closed，拒绝放行未审校题目
+            print(f"[Reviewer Error] Failed to complete review for {q.get('id')}: {e}")
+            return False, [f"Reviewer execution exception: {str(e)}"]

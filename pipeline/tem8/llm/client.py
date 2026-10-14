@@ -20,6 +20,21 @@ class LLMClient:
             "Authorization": f"Bearer {CONFIG.api_key}",
             "Content-Type": "application/json"
         }
+        self._session: Optional[aiohttp.ClientSession] = None
+
+    async def get_session(self) -> aiohttp.ClientSession:
+        if self._session is None or self._session.closed:
+            timeout = aiohttp.ClientTimeout(total=CONFIG.timeout_seconds)
+            connector = aiohttp.TCPConnector(limit=self.concurrency * 2, ttl_dns_cache=300)
+            self._session = aiohttp.ClientSession(timeout=timeout, connector=connector)
+        return self._session
+
+    async def close(self):
+        if self._session and not self._session.closed:
+            await self._session.close()
+
+    def make_cache_key(self, messages: List[Dict[str, str]], temperature: float) -> str:
+        return self.cache.make_key(CONFIG.model_name, messages, temperature)
 
     async def chat_completion(
         self,
@@ -29,7 +44,7 @@ class LLMClient:
         use_cache: bool = True
     ) -> str:
         # 1. 检查缓存
-        cache_key = self.cache.make_key(CONFIG.model_name, messages, temperature)
+        cache_key = self.make_cache_key(messages, temperature)
         if use_cache:
             cached_resp = self.cache.get(cache_key)
             if cached_resp is not None:
@@ -43,23 +58,22 @@ class LLMClient:
             "max_tokens": max_tokens
         }
 
-        # 2. 并发限流调度与指数退避重试
+        # 2. 并发限流调度与指数退避重试 (复用 TCP 会话池)
         async with self.semaphore:
+            session = await self.get_session()
             last_err = None
             for attempt in range(1, CONFIG.max_retries + 1):
                 try:
-                    timeout = aiohttp.ClientTimeout(total=CONFIG.timeout_seconds)
-                    async with aiohttp.ClientSession(timeout=timeout) as session:
-                        async with session.post(self.api_url, headers=self.headers, json=payload) as resp:
-                            if resp.status == 200:
-                                res_json = await resp.json()
-                                content = res_json["choices"][0]["message"]["content"]
-                                if use_cache:
-                                    self.cache.set(cache_key, content)
-                                return content
-                            else:
-                                err_text = await resp.text()
-                                last_err = f"HTTP {resp.status}: {err_text[:200]}"
+                    async with session.post(self.api_url, headers=self.headers, json=payload) as resp:
+                        if resp.status == 200:
+                            res_json = await resp.json()
+                            content = res_json["choices"][0]["message"]["content"]
+                            if use_cache:
+                                self.cache.set(cache_key, content)
+                            return content
+                        else:
+                            err_text = await resp.text()
+                            last_err = f"HTTP {resp.status}: {err_text[:200]}"
                 except asyncio.TimeoutError:
                     last_err = f"Request timed out after {CONFIG.timeout_seconds}s"
                 except Exception as e:

@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 from .config import CONFIG
 
 class RuleVerifier:
@@ -25,7 +25,12 @@ class RuleVerifier:
         self.tem4_words = set(data["tem4_words"].keys())
         self.syllabus_all = self.tem8_words | self.tem4_words
 
-    def verify_question(self, q: Dict[str, Any]) -> Tuple[bool, List[str]]:
+    def verify_question(
+        self,
+        q: Dict[str, Any],
+        cluster: Optional[Dict[str, Any]] = None,
+        expected_id: Optional[str] = None
+    ) -> Tuple[bool, List[str]]:
         errors = []
 
         # 1. 必填字段完整性
@@ -41,21 +46,25 @@ class RuleVerifier:
         if errors:
             return False, errors
 
-        # 2. 等级合规
+        # 2. 题目 ID 严格校验
+        if expected_id and q.get("id") != expected_id:
+            errors.append(f"Question ID mismatch: expected '{expected_id}', got '{q.get('id')}'")
+
+        # 3. 等级合规
         if q["level"] != "TEM-8":
             errors.append(f"Invalid level: '{q['level']}' (must be 'TEM-8')")
 
-        # 3. 目标考点词必须 100% 属于专八标星词
+        # 4. 目标考点词必须 100% 属于专八标星词
         target = q["target_word"].lower().strip()
         if target not in self.tem8_words:
             errors.append(f"Target word '{target}' is NOT in official TEM-8 starred syllabus!")
 
-        # 4. 答案必须与目标词一致
+        # 5. 答案必须与目标词一致
         answer = q["answer"].lower().strip()
         if answer != target:
             errors.append(f"Answer '{answer}' does not match target word '{target}'")
 
-        # 5. 选项校验 (必须恰好 4 个不重复项)
+        # 6. 选项校验 (必须恰好 4 个不重复项，且全量属于大纲白名单)
         options = q["options"]
         if not isinstance(options, list) or len(options) != 4:
             errors.append(f"Options must be a list of 4 items, got: {len(options) if isinstance(options, list) else type(options)}")
@@ -67,36 +76,46 @@ class RuleVerifier:
             if target not in opt_lower:
                 errors.append(f"Target word '{target}' is not present in options {opt_lower}")
 
-            # 6. 大纲白名单硬过滤 (0 容忍超纲词)
+            # 若提供了来源词群，严格校验 4 个选项必须 100% 等于该 Cluster 的 4 个单词
+            if cluster and "words" in cluster:
+                expected_cluster_words = set(str(w).lower().strip() for w in cluster["words"])
+                if set(opt_lower) != expected_cluster_words:
+                    errors.append(f"Options {opt_lower} do not strictly match cluster words {list(expected_cluster_words)}")
+
+            # 大纲白名单硬过滤 (0 容忍超纲词)
             for opt in opt_lower:
                 if opt not in self.syllabus_all:
                     errors.append(f"CRITICAL: Option '{opt}' is OUT OF SYLLABUS! (Not in 12,097 syllabus whitelist)")
 
-        # 7. 题干词数检验 (20 ~ 38 词区间)
-        question_text = q["question"]
-        words_in_q = [w for w in re.split(r"\s+", question_text.strip()) if w and w != "___"]
+        # 7. 题干词数检验 (20 ~ 38 词区间) 与严格挖空校验
+        question_text = str(q["question"])
+        blank_matches = re.findall(r"_{3,}", question_text)
+        if len(blank_matches) != 1:
+            errors.append(f"Question must contain exactly 1 blank placeholder '___', found {len(blank_matches)}")
+
+        # 剔除挖空占位符及其粘连的标点符号，防止标点粘连导致字数误判虚增
+        cleaned_text = re.sub(r"_{3,}[.,;:?!'\"“”‘’]*", "", question_text)
+        words_in_q = [w for w in re.split(r"\s+", cleaned_text.strip()) if w]
         word_count = len(words_in_q)
         if word_count < 20 or word_count > 38:
             errors.append(f"Question length ({word_count} words) is outside TEM-8 standard range [20, 38]")
 
-        if "___" not in question_text:
-            errors.append("Question missing blank placeholder '___'")
-
-        # 8. 4 选项逐项剖析完整性
+        # 8. 4 选项逐项剖析完整性 (容忍末尾冒号或词性说明标注)
         analysis = q.get("distractor_analysis", {})
         if not isinstance(analysis, dict):
             errors.append("distractor_analysis must be a dictionary")
         else:
             for opt in options:
-                opt_str = str(opt).strip()
-                # 兼容大小写 key
+                opt_str = str(opt).strip().lower()
+                norm_opt = re.sub(r"[\s\:\(\)\[\]\.\,\-]+", "", opt_str)
                 found = False
                 for k, v in analysis.items():
-                    if k.lower().strip() == opt_str.lower() and v and len(str(v).strip()) >= 5:
+                    norm_k = re.sub(r"[\s\:\(\)\[\]\.\,\-]+", "", str(k).lower())
+                    if (norm_k == norm_opt or norm_k.startswith(norm_opt)) and v and len(str(v).strip()) >= 5:
                         found = True
                         break
                 if not found:
-                    errors.append(f"Missing or insufficient distractor analysis for option '{opt_str}'")
+                    errors.append(f"Missing or insufficient distractor analysis for option '{opt}'")
 
         # 9. 排他锚点与中文释义
         anchor = str(q.get("anchor_clue", "")).strip()

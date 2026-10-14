@@ -45,9 +45,10 @@ class BatchGenerator:
         """靶向自动重试：向 LLM 注入错误原因进行单题修复"""
         curr_q = question
         curr_errors = errors
+        exp_id = curr_q.get("id")
 
         for attempt in range(1, max_retries + 1):
-            print(f"      [Retry #{attempt}] Repairing {curr_q.get('id')} for issues: {curr_errors[:2]}")
+            print(f"      [Retry #{attempt}] Repairing {exp_id} for issues: {curr_errors[:2]}")
             messages = [
                 {"role": "system", "content": SYSTEM_PROMPT_GENERATOR},
                 {"role": "user", "content": build_retry_user_prompt(curr_q, curr_errors, cluster)}
@@ -63,8 +64,14 @@ class BatchGenerator:
                 if isinstance(fixed_q, list) and len(fixed_q) > 0:
                     fixed_q = fixed_q[0]
 
-                # Layer 1 再次质检
-                l1_ok, l1_errs = self.verifier.verify_question(fixed_q)
+                if not isinstance(fixed_q, dict):
+                    continue
+
+                if exp_id:
+                    fixed_q["id"] = exp_id
+
+                # Layer 1 再次质检 (传入 cluster 和 expected_id)
+                l1_ok, l1_errs = self.verifier.verify_question(fixed_q, cluster=cluster, expected_id=exp_id)
                 if not l1_ok:
                     curr_q = fixed_q
                     curr_errors = l1_errs
@@ -77,14 +84,14 @@ class BatchGenerator:
                     curr_errors = l2_errs
                     continue
 
-                print(f"      [Retry Success] {fixed_q.get('id')} repaired and passed dual review!")
+                print(f"      [Retry Success] {exp_id} repaired and passed dual review!")
                 return fixed_q
 
             except Exception as e:
                 curr_errors = [f"Repair parse exception: {e}"]
 
-        print(f"      [Retry Failed] Could not repair {curr_q.get('id')} after {max_retries} attempts.")
-        return curr_q
+        print(f"      [Retry Failed] Could not repair {exp_id} after {max_retries} attempts.")
+        return None
 
     async def process_cluster(
         self,
@@ -118,30 +125,77 @@ class BatchGenerator:
             {"role": "user", "content": user_prompt}
         ]
 
+        cache_key = self.client.make_cache_key(messages, CONFIG.temperature)
         print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Generating '{target}'...", flush=True)
+
         raw_resp = await self.client.chat_completion(messages=messages, temperature=CONFIG.temperature)
-        questions = extract_json(raw_resp)
-        if not isinstance(questions, list):
-            questions = [questions]
+        try:
+            questions = extract_json(raw_resp)
+            if not isinstance(questions, list):
+                questions = [questions]
+        except Exception as e:
+            print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] JSON parse error, evicting cache: {e}", flush=True)
+            self.client.cache.evict(cache_key)
+            raise
+
         print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Got {len(questions)} questions for '{target}', checking quality...", flush=True)
 
+        target_pairs = [
+            (q_id_1, target_1),
+            (q_id_2, target_2)
+        ]
+
         verified_questions = []
-        for q in questions[:2]:
-            # Layer 1: Python 规则质检
-            l1_ok, l1_errs = self.verifier.verify_question(q)
+        words_str = ", ".join(cluster["words"])
+        for i, (exp_id, exp_tgt) in enumerate(target_pairs):
+            if i < len(questions) and isinstance(questions[i], dict):
+                q = questions[i]
+            else:
+                # BUG-06 修复：若 LLM 少生成了题目，发起单题针对性补全生成
+                print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Missing question #{i+1}, requesting dedicated generation for '{exp_tgt}'...", flush=True)
+                single_prompt = f"Generate exactly 1 TEM-8 question with ID '{exp_id}' for cluster [{words_str}], target word '{exp_tgt}'. Follow all rules. Return raw JSON single question object."
+                single_messages = [
+                    {"role": "system", "content": SYSTEM_PROMPT_GENERATOR},
+                    {"role": "user", "content": single_prompt}
+                ]
+                try:
+                    single_resp = await self.client.chat_completion(messages=single_messages, temperature=CONFIG.temperature, use_cache=False)
+                    q_cand = extract_json(single_resp)
+                    q = q_cand[0] if isinstance(q_cand, list) else q_cand
+                except Exception as e:
+                    print(f"   [Batch {batch_id:02d}] Failed dedicated generation for '{exp_tgt}': {e}", flush=True)
+                    continue
+
+            # 强制对齐 ID 与目标词
+            q["id"] = exp_id
+            q["target_word"] = exp_tgt
+            q["answer"] = exp_tgt
+
+            # Layer 1: Python 规则质检 (传入 cluster 强校验选项)
+            l1_ok, l1_errs = self.verifier.verify_question(q, cluster=cluster, expected_id=exp_id)
             if not l1_ok:
                 repaired = await self._repair_question(q, cluster, l1_errs)
-                if repaired:
+                if repaired is not None:
                     q = repaired
+                else:
+                    print(f"      [Drop] {exp_id} failed Layer 1 rules after retries, dropped.", flush=True)
+                    self.client.cache.evict(cache_key)
+                    continue
 
             # Layer 2: LLM 审校
             if enable_l2_review:
                 l2_ok, l2_errs = await self.reviewer.review_question(q)
                 if not l2_ok:
                     repaired = await self._repair_question(q, cluster, l2_errs)
-                    if repaired:
+                    if repaired is not None:
                         q = repaired
+                    else:
+                        print(f"      [Drop] {exp_id} failed Layer 2 review after retries, dropped.", flush=True)
+                        self.client.cache.evict(cache_key)
+                        continue
 
+            q["_l1_passed"] = True
+            q["_l2_passed"] = True if enable_l2_review else False
             verified_questions.append(q)
 
         print(f"   [Batch {batch_id:02d} | #{idx_in_batch+1:02d}/10] Completed '{target}' -> {len(verified_questions)} questions passed.", flush=True)
@@ -181,11 +235,12 @@ class BatchGenerator:
             elif isinstance(r, Exception):
                 errors.append(str(r))
 
-        # 统计合格率
+        # 统计合格率 (必须双层通过)
         pass_count = 0
         for q in batch_questions:
             l1_ok, _ = self.verifier.verify_question(q)
-            if l1_ok:
+            l2_ok = q.get("_l2_passed", True) if enable_l2_review else True
+            if l1_ok and l2_ok:
                 pass_count += 1
 
         # 保存本批次产物
@@ -202,7 +257,7 @@ class BatchGenerator:
             errors=errors
         )
 
-        print(f"[Batch {batch_id:02d}] Done! Generated {len(batch_questions)} questions ({pass_count} passed rule verification).")
+        print(f"[Batch {batch_id:02d}] Done! Generated {len(batch_questions)} questions ({pass_count} passed dual-layer verification).")
         print(f"Saved to: {out_batch_file}")
         return state
 

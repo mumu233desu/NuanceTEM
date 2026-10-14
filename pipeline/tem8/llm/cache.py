@@ -43,6 +43,15 @@ class ResponseCache:
         raw_str = json.dumps(payload, sort_keys=True, ensure_ascii=False)
         return hashlib.sha256(raw_str.encode("utf-8")).hexdigest()
 
+    def _save_to_disk(self):
+        tmp_file = self.cache_file + ".tmp"
+        try:
+            with open(tmp_file, "w", encoding="utf-8") as f:
+                json.dump(self.cache_data, f, ensure_ascii=False)
+            os.replace(tmp_file, self.cache_file)
+        except Exception as e:
+            print(f"[Cache] Error saving cache to disk: {e}")
+
     def get(self, key: str) -> Optional[str]:
         with self._lock:
             return self.cache_data.get(key)
@@ -50,14 +59,14 @@ class ResponseCache:
     def set(self, key: str, value: str):
         with self._lock:
             self.cache_data[key] = value
-            # 原子写盘
-            tmp_file = self.cache_file + ".tmp"
-            try:
-                with open(tmp_file, "w", encoding="utf-8") as f:
-                    json.dump(self.cache_data, f, ensure_ascii=False)
-                os.replace(tmp_file, self.cache_file)
-            except Exception as e:
-                print(f"[Cache] Error saving cache to disk: {e}")
+            self._save_to_disk()
+
+    def evict(self, key: str):
+        """驱逐单个损坏/未通过验证的缓存项并持久化写盘"""
+        with self._lock:
+            if key in self.cache_data:
+                del self.cache_data[key]
+                self._save_to_disk()
 
     def count(self) -> int:
         with self._lock:
