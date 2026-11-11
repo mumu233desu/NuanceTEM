@@ -86,6 +86,10 @@
   -webkit-tap-highlight-color: transparent;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 html, body {
   font-family: var(--font-sans);
   background-color: var(--bg-app);
@@ -140,7 +144,7 @@ button {
 .app-container {
   display: flex;
   min-height: 100vh;
-  width: 100vw;
+  width: 100%;
   position: relative;
 }
 
@@ -150,7 +154,7 @@ button {
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
-  padding-bottom: 6rem; /* space for mobile nav */
+  padding-bottom: 2.5rem;
 }
 
 /* Sidebar Styling (Desktop) */
@@ -294,13 +298,13 @@ button {
 }
 
 /* Responsive Rules */
-@media (min-width: 769px) {
+@media (min-width: 1024px) {
   .mobile-nav {
     display: none !important;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   .sidebar {
     display: none !important;
   }
@@ -314,7 +318,7 @@ button {
     flex-direction: column;
   }
 
-  /* Bottom Nav (Mobile) */
+  /* Bottom Nav (Mobile & Tablet) */
   .mobile-nav {
     display: flex;
     justify-content: space-around;
@@ -322,12 +326,13 @@ button {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100vw;
+    width: 100%;
     background: var(--bg-card);
     backdrop-filter: var(--glass-blur);
     -webkit-backdrop-filter: var(--glass-blur);
     border-top: 1px solid var(--border-color);
     padding: 0.75rem 1rem;
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
     z-index: 999;
     box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.15);
   }

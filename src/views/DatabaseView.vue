@@ -318,7 +318,8 @@ onUnmounted(() => {
 }
 
 .select-wrapper {
-  min-width: 180px;
+  flex: 1 1 calc(50% - 0.5rem);
+  min-width: 140px;
   background: rgba(255, 255, 255, 0.5);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);

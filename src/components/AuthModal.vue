@@ -314,16 +314,20 @@ const handleSubmit = async () => {
   background: rgba(15, 23, 42, 0.45);
   backdrop-filter: blur(8px);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   z-index: 1000;
   padding: 1.5rem;
+  overflow-y: auto;
 }
 
 .auth-card {
   position: relative;
   width: 100%;
   max-width: 420px;
+  margin: auto;
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
   padding: 2.25rem;
   display: flex;
   flex-direction: column;
