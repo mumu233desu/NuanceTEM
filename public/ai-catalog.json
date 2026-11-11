@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "NuanceTEM",
+  "description": "专四专八近义词辨析与 SM-2 智能记忆系统",
+  "url": "https://nuancetem.mumu233.top",
+  "version": "1.0.0",
+  "capabilities": [
+    "tem4_vocabulary",
+    "tem8_vocabulary",
+    "synonym_discrimination",
+    "sm2_spaced_repetition",
+    "offline_first"
+  ]
+}

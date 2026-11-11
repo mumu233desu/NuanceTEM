@@ -1,0 +1,16 @@
+# NuanceTEM - 专四专八近义词深度辨析系统
+
+> NuanceTEM 是一款专为英语专业四级（TEM-4）与八级（TEM-8）备考设计的近义词辨析与词汇精准化学习系统。内置 SM-2 间隔记忆算法，支持完全离线的本地答题、错题本复习与 Cloudflare 边缘云端同步。
+
+## 核心功能与页面导航
+
+- [仪表盘 (Dashboard)](https://nuancetem.mumu233.top/#dashboard): 学习总览、待复习队列与每日进度统计
+- [词汇挑战 (Vocabulary Quiz)](https://nuancetem.mumu233.top/#quiz): TEM-4 / TEM-8 句子填空辨析答题与即时错题归档
+- [智能复习 (Smart Review)](https://nuancetem.mumu233.top/#review): 基于 SM-2 遗忘曲线算法的针对性错题排程复习
+- [词库浏览 (Vocabulary Database)](https://nuancetem.mumu233.top/#database): 近两千道精编近义词辨析题库检索与考点机制分类浏览
+- [系统设置 (Settings & Sync)](https://nuancetem.mumu233.top/#settings): 每日目标配置、IndexedDB 数据导入导出备份与云端账户多端同步
+
+## 技术架构
+
+- 前端技术栈: Vue 3, TypeScript, Vite, Dexie.js (IndexedDB)
+- 边缘云服务: Cloudflare Workers, Cloudflare D1
