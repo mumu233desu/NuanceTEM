@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, onMounted, onUnmounted } from 'vue';
+import { ref, watch, onMounted, onUnmounted, nextTick } from 'vue';
 import { useAuth } from '../composables/useAuth';
 import { useSync } from '../composables/useSync';
 
@@ -64,6 +64,10 @@ watch(() => props.isOpen, (newVal) => {
     if (props.initialMode) mode.value = props.initialMode;
     if (props.initialToken) resetToken.value = props.initialToken;
     resetForm();
+    nextTick(() => {
+      const firstInput = document.querySelector('.auth-card input') as HTMLInputElement | null;
+      firstInput?.focus();
+    });
   }
 });
 

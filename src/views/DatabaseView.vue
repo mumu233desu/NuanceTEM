@@ -201,7 +201,7 @@ onUnmounted(() => {
               <span class="badge" :class="item.level === 'TEM-8' ? 'badge-warning' : 'badge-primary'">{{ item.level }}</span>
               <span v-if="item.mechanism && TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS]" 
                     class="badge badge-mech"
-                    :style="{ borderColor: TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].color, color: TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].color }">
+                    :class="'mech-' + item.mechanism.toLowerCase()">
                 {{ TAXONOMY_MECHANISMS[item.mechanism as keyof typeof TAXONOMY_MECHANISMS].label }}
               </span>
               <span class="target-word">{{ item.target_word }}</span>
@@ -290,7 +290,7 @@ onUnmounted(() => {
 
 .search-input-wrapper {
   flex: 1;
-  min-width: 280px;
+  min-width: 200px;
   display: flex;
   align-items: center;
   gap: 0.75rem;
@@ -322,9 +322,14 @@ onUnmounted(() => {
   font-size: 0.95rem;
 }
 
+.search-input:focus-visible,
+.status-select:focus-visible {
+  outline: none;
+}
+
 .select-wrapper {
   flex: 1 1 calc(50% - 0.5rem);
-  min-width: 140px;
+  min-width: 120px;
   background: rgba(255, 255, 255, 0.5);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
@@ -341,6 +346,16 @@ onUnmounted(() => {
   width: 100%;
   font-size: 0.95rem;
   cursor: pointer;
+}
+
+@media (max-width: 640px) {
+  .filters-bar {
+    padding: 1rem;
+    gap: 0.75rem;
+  }
+  .search-input-wrapper {
+    min-width: 100%;
+  }
 }
 
 .list-grid {
@@ -549,7 +564,7 @@ onUnmounted(() => {
 .id-tag {
   font-family: var(--font-mono);
   font-size: 0.72rem;
-  color: var(--text-muted);
+  color: #475569;
   background: rgba(0, 0, 0, 0.05);
   padding: 0.15rem 0.4rem;
   border-radius: var(--radius-sm);
@@ -568,6 +583,11 @@ onUnmounted(() => {
   border-radius: var(--radius-sm);
   font-weight: 600;
 }
+
+.badge-mech.mech-mech_collocation { color: var(--mech-collocation); border-color: var(--mech-collocation); background: var(--mech-collocation-bg); }
+.badge-mech.mech-mech_connotation { color: var(--mech-connotation); border-color: var(--mech-connotation); background: var(--mech-connotation-bg); }
+.badge-mech.mech-mech_register { color: var(--mech-register); border-color: var(--mech-register); background: var(--mech-register-bg); }
+.badge-mech.mech-mech_nuance { color: var(--mech-nuance); border-color: var(--mech-nuance); background: var(--mech-nuance-bg); }
 
 .taxonomy-note {
   font-size: 0.9rem;

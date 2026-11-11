@@ -73,11 +73,7 @@ ${props.questionText}
           <span 
             v-if="mechanism && TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS]" 
             class="mech-tag"
-            :style="{ 
-              borderColor: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color, 
-              color: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color,
-              backgroundColor: TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].color + '15'
-            }"
+            :class="'mech-' + mechanism.toLowerCase()"
           >
             {{ TAXONOMY_MECHANISMS[mechanism as keyof typeof TAXONOMY_MECHANISMS].label }}
           </span>
@@ -256,6 +252,11 @@ h4 {
   border: 1px solid currentColor;
   white-space: nowrap;
 }
+
+.mech-tag.mech-mech_collocation { color: var(--mech-collocation); border-color: var(--mech-collocation); background-color: var(--mech-collocation-bg); }
+.mech-tag.mech-mech_connotation { color: var(--mech-connotation); border-color: var(--mech-connotation); background-color: var(--mech-connotation-bg); }
+.mech-tag.mech-mech_register { color: var(--mech-register); border-color: var(--mech-register); background-color: var(--mech-register-bg); }
+.mech-tag.mech-mech_nuance { color: var(--mech-nuance); border-color: var(--mech-nuance); background-color: var(--mech-nuance-bg); }
 
 .taxonomy-desc {
   font-size: 0.95rem;
