@@ -516,11 +516,13 @@ onMounted(initApp);
   width: 50%;
   background: var(--primary);
   border-radius: var(--radius-sm);
+  transform: translateX(-100%);
   animation: loading 1.5s ease-in-out infinite;
+  will-change: transform;
 }
 
 @keyframes loading {
-  0% { left: -50%; }
-  100% { left: 100%; }
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
 }
 </style>

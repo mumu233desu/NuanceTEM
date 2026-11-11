@@ -348,6 +348,7 @@ button {
 
 .slide-up {
   animation: slideUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: transform, opacity;
 }
 
 @keyframes scaleIn {
@@ -357,6 +358,7 @@ button {
 
 .scale-in {
   animation: scaleIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  will-change: transform, opacity;
 }
 
 /* Responsive Rules */
