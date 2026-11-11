@@ -229,8 +229,7 @@ const handleResetAll = async () => {
       <p>管理您的学习进度备份，或重置系统数据。</p>
     </div>
 
-    <div class="settings-grid">
-      <!-- Cloud Account & Sync Section (方便移动端与桌面端用户管理账户) -->
+    <!-- Cloud Account & Sync Section (方便移动端与桌面端用户管理账户) -->
       <div class="settings-card glass-card account-card">
         <h3>云端账户与多端同步</h3>
         <p class="description">
@@ -400,18 +399,11 @@ const handleResetAll = async () => {
           <p>题库更新时间: <strong>{{ dbUpdateTime }}</strong></p>
         </div>
       </div>
-    </div>
   </div>
 </template>
 
 <style scoped>
 .settings-view {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-.settings-grid {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;

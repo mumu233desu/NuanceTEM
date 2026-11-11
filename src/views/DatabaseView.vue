@@ -184,18 +184,17 @@ onUnmounted(() => {
     </div>
 
     <!-- Main List -->
-    <div class="list-container">
-      <div v-if="filteredList.length === 0" class="no-results glass-card">
-        <p>没有找到匹配的词条。请尝试其他搜索词或清除状态筛选。</p>
-      </div>
-      
-      <div v-else class="list-grid">
-        <div
-          v-for="item in displayedList"
-          :key="item.id"
-          class="item-card glass-card"
-          :class="{ expanded: expandedQuestionId === item.id }"
-        >
+    <div v-if="filteredList.length === 0" class="no-results glass-card">
+      <p>没有找到匹配的词条。请尝试其他搜索词或清除状态筛选。</p>
+    </div>
+    
+    <div v-else class="list-grid">
+      <div
+        v-for="item in displayedList"
+        :key="item.id"
+        class="item-card"
+        :class="{ expanded: expandedQuestionId === item.id }"
+      >
           <div class="item-header" @click="toggleExpand(item.id)">
             <div class="word-info">
               <span class="id-tag">{{ item.id }}</span>
@@ -271,7 +270,6 @@ onUnmounted(() => {
         <!-- Infinite Scroll Sentinel -->
         <div ref="loadMoreSentinel" class="sentinel"></div>
       </div>
-    </div>
   </div>
 </template>
 
@@ -300,10 +298,17 @@ onUnmounted(() => {
   border: 1px solid var(--border-color);
   padding: 0.65rem 1rem;
   border-radius: var(--radius-md);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 [data-theme="dark"] .search-input-wrapper {
   background: rgba(15, 23, 42, 0.4);
+}
+
+.search-input-wrapper:focus-within,
+.select-wrapper:focus-within {
+  border-color: var(--border-focus);
+  box-shadow: 0 0 0 2px var(--primary-light);
 }
 
 .search-icon {
@@ -325,6 +330,7 @@ onUnmounted(() => {
   border-radius: var(--radius-md);
   overflow: hidden;
   padding: 0.65rem 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 [data-theme="dark"] .select-wrapper {
@@ -335,11 +341,6 @@ onUnmounted(() => {
   width: 100%;
   font-size: 0.95rem;
   cursor: pointer;
-}
-
-.list-container {
-  display: flex;
-  flex-direction: column;
 }
 
 .list-grid {
@@ -355,11 +356,22 @@ onUnmounted(() => {
 }
 
 .item-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
   padding: 1.25rem 1.5rem;
   cursor: pointer;
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.item-card:hover {
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary);
+  background: var(--bg-card-hover);
 }
 
 .item-header {
