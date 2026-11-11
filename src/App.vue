@@ -1,12 +1,13 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue';
+import { ref, onMounted, defineAsyncComponent } from 'vue';
 import { loadQuestionsFromManifest } from './db/loader';
 import Dashboard from './views/Dashboard.vue';
-import QuizView from './views/QuizView.vue';
-import ReviewView from './views/ReviewView.vue';
-import DatabaseView from './views/DatabaseView.vue';
-import SettingsView from './views/SettingsView.vue';
-import AuthModal from './components/AuthModal.vue';
+
+const QuizView = defineAsyncComponent(() => import('./views/QuizView.vue'));
+const ReviewView = defineAsyncComponent(() => import('./views/ReviewView.vue'));
+const DatabaseView = defineAsyncComponent(() => import('./views/DatabaseView.vue'));
+const SettingsView = defineAsyncComponent(() => import('./views/SettingsView.vue'));
+const AuthModal = defineAsyncComponent(() => import('./components/AuthModal.vue'));
 import { useAuth } from './composables/useAuth';
 import { useSync } from './composables/useSync';
 import { useScope } from './composables/useScope';
