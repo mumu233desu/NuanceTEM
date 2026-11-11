@@ -3,6 +3,7 @@ import { ref, watch, onMounted } from 'vue';
 import { db, createDefaultProgress } from '../db';
 import { useAuth } from '../composables/useAuth';
 import { useSync } from '../composables/useSync';
+import { useTheme } from '../composables/useTheme';
 
 const emit = defineEmits<{
   (e: 'open-auth'): void;
@@ -50,25 +51,7 @@ const isImporting = ref(false);
 
 const dailyTarget = ref(Number(localStorage.getItem('dailyTarget')) || 20);
 
-type ThemeOption = 'system' | 'light' | 'dark';
-const currentTheme = ref<ThemeOption>((localStorage.getItem('theme') as ThemeOption) || 'system');
-
-const setTheme = (theme: ThemeOption) => {
-  currentTheme.value = theme;
-  let isDark = false;
-  if (theme === 'system') {
-    localStorage.removeItem('theme');
-    isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  } else {
-    localStorage.setItem('theme', theme);
-    isDark = theme === 'dark';
-  }
-  document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-  document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';
-  const meta = document.getElementById('meta-theme-color');
-  if (meta) meta.setAttribute('content', isDark ? '#090e1a' : '#fcfaf7');
-  window.dispatchEvent(new CustomEvent('theme-changed', { detail: theme }));
-};
+const { themePreference: currentTheme, setTheme } = useTheme();
 
 // Watch for changes and save to localStorage
 watch(dailyTarget, (newVal) => {

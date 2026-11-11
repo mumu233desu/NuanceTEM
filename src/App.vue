@@ -10,17 +10,18 @@ import AuthModal from './components/AuthModal.vue';
 import { useAuth } from './composables/useAuth';
 import { useSync } from './composables/useSync';
 import { useScope } from './composables/useScope';
+import { useTheme } from './composables/useTheme';
 
 const { user, isAuthenticated, logout, refreshProfile } = useAuth();
 const { status: syncStatus, syncNow } = useSync();
 const { currentScope } = useScope();
+const { isDarkMode, toggleTheme, initTheme } = useTheme();
 
 const isAuthModalOpen = ref(false);
 const authModalMode = ref<'login' | 'register' | 'forgot' | 'reset'>('login');
 const authResetToken = ref('');
 const currentView = ref('dashboard');
 const isDbInitializing = ref(true);
-const isDarkMode = ref(false);
 
 const openAuthModal = (mode: 'login' | 'register' = 'login') => {
   authModalMode.value = mode;
@@ -49,53 +50,10 @@ const checkResetPasswordHash = () => {
   }
 };
 
-const applyTheme = (isDark: boolean) => {
-  isDarkMode.value = isDark;
-  const theme = isDark ? 'dark' : 'light';
-  document.documentElement.setAttribute('data-theme', theme);
-  document.documentElement.style.colorScheme = theme;
-  const meta = document.getElementById('meta-theme-color');
-  if (meta) meta.setAttribute('content', isDark ? '#090e1a' : '#fcfaf7');
-};
-
-const checkTheme = () => {
-  const savedTheme = localStorage.getItem('theme');
-  if (savedTheme === 'dark') {
-    applyTheme(true);
-  } else if (savedTheme === 'light') {
-    applyTheme(false);
-  } else {
-    // System preferences (default when no preference or 'system')
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    applyTheme(prefersDark);
-  }
-};
-
-const toggleTheme = () => {
-  const nextIsDark = !isDarkMode.value;
-  applyTheme(nextIsDark);
-  const nextTheme = nextIsDark ? 'dark' : 'light';
-  localStorage.setItem('theme', nextTheme);
-  window.dispatchEvent(new CustomEvent('theme-changed', { detail: nextTheme }));
-};
-
 const initApp = async () => {
-  checkTheme();
+  initTheme();
   checkResetPasswordHash();
   window.addEventListener('hashchange', checkResetPasswordHash);
-
-  const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-  const handleSystemThemeChange = (e: MediaQueryListEvent) => {
-    const savedTheme = localStorage.getItem('theme');
-    if (!savedTheme || savedTheme === 'system') {
-      applyTheme(e.matches);
-    }
-  };
-  mediaQuery.addEventListener('change', handleSystemThemeChange);
-
-  window.addEventListener('theme-changed', (() => {
-    checkTheme();
-  }) as EventListener);
   
   try {
     console.log('Loading modular questions via Manifest packages...');
@@ -230,7 +188,13 @@ onMounted(initApp);
 
       <!-- Theme Toggle in Sidebar -->
       <div class="theme-toggle-container">
-        <button type="button" @click="toggleTheme" class="nav-item">
+        <button
+          type="button"
+          @click="toggleTheme"
+          class="nav-item"
+          :aria-label="isDarkMode ? '切换至日间模式' : '切换至夜间模式'"
+          :title="isDarkMode ? '切换至日间模式' : '切换至夜间模式'"
+        >
           <svg v-if="isDarkMode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
@@ -245,10 +209,45 @@ onMounted(initApp);
           <svg v-else xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
-          {{ isDarkMode ? '日间模式' : '夜间模式' }}
+          <span>{{ isDarkMode ? '日间模式' : '夜间模式' }}</span>
         </button>
       </div>
     </aside>
+
+    <!-- Mobile Top Bar (< 1024px) -->
+    <header class="mobile-top-bar" aria-label="移动端顶部栏">
+      <div class="mobile-brand">
+        <div class="logo-icon-sm" aria-hidden="true">豆</div>
+        <div class="mobile-brand-text">
+          <span class="mobile-brand-title">NuanceTEM</span>
+          <span class="mobile-brand-scope">{{ currentScope === 'ALL' ? '综合' : currentScope }}</span>
+        </div>
+      </div>
+      <div class="mobile-top-actions">
+        <button
+          type="button"
+          class="theme-toggle-btn-mobile"
+          @click="toggleTheme"
+          :aria-label="isDarkMode ? '切换至日间模式' : '切换至夜间模式'"
+          :title="isDarkMode ? '切换至日间模式' : '切换至夜间模式'"
+        >
+          <svg v-if="isDarkMode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg v-else xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+    </header>
 
     <!-- Mobile Navigation Bar -->
     <nav class="mobile-nav" aria-label="移动端底部导航">
