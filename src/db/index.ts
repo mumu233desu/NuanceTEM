@@ -27,10 +27,10 @@ export const TAXONOMY_FIELDS = {
 } as const;
 
 export const TAXONOMY_MECHANISMS = {
-  MECH_COLLOCATION: { code: 'MECH_COLLOCATION', label: '介词与搭配', color: '#3b82f6' },
-  MECH_CONNOTATION: { code: 'MECH_CONNOTATION', label: '感情与褒贬', color: '#a855f7' },
-  MECH_REGISTER: { code: 'MECH_REGISTER', label: '语境与庄谐', color: '#f59e0b' },
-  MECH_NUANCE: { code: 'MECH_NUANCE', label: '词义与侧重', color: '#10b981' },
+  MECH_COLLOCATION: { code: 'MECH_COLLOCATION', label: '介词与搭配', color: '#1d4ed8' },
+  MECH_CONNOTATION: { code: 'MECH_CONNOTATION', label: '感情与褒贬', color: '#7e22ce' },
+  MECH_REGISTER: { code: 'MECH_REGISTER', label: '语境与庄谐', color: '#b45309' },
+  MECH_NUANCE: { code: 'MECH_NUANCE', label: '词义与侧重', color: '#047857' },
 } as const;
 
 export interface Progress {

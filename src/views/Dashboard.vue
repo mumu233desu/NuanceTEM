@@ -252,7 +252,11 @@ onMounted(loadStats);
 }
 
 .level-tab-btn {
-  padding: 0.4rem 0.85rem;
+  padding: 0.5rem 0.9rem;
+  min-height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-size: 0.8rem;
   font-weight: 600;
   border-radius: var(--radius-sm);
@@ -420,7 +424,8 @@ onMounted(loadStats);
 
 .btn-primary.disabled {
   background: var(--border-color);
-  color: var(--text-muted);
+  color: var(--text-main);
+  opacity: 0.75;
   box-shadow: none;
   cursor: not-allowed;
 }

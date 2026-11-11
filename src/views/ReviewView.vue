@@ -297,7 +297,11 @@ onMounted(loadDueQuestions);
 }
 
 .level-tab-btn {
-  padding: 0.4rem 0.85rem;
+  padding: 0.5rem 0.9rem;
+  min-height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   font-size: 0.8rem;
   font-weight: 600;
   border-radius: var(--radius-sm);

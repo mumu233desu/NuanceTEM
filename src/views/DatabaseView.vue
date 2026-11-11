@@ -145,14 +145,14 @@ onUnmounted(() => {
     <!-- Filters and Search Bar -->
     <div class="filters-bar glass-card">
       <div class="search-input-wrapper">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="search-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" class="search-icon" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
-        <input v-model="searchQuery" type="text" placeholder="输入单词、词组、中文释义或句子..." class="search-input" />
+        <input v-model="searchQuery" type="text" placeholder="输入单词、词组、中文释义或句子..." class="search-input" aria-label="搜索词库" />
       </div>
       
       <div class="select-wrapper">
-        <select v-model="levelFilter" class="status-select">
+        <select v-model="levelFilter" class="status-select" aria-label="学段筛选">
           <option value="all">所有学段 (专四 & 专八)</option>
           <option value="TEM-4">专四 (TEM-4)</option>
           <option value="TEM-8">专八 (TEM-8)</option>
@@ -160,21 +160,21 @@ onUnmounted(() => {
       </div>
 
       <div class="select-wrapper">
-        <select v-model="mechanismFilter" class="status-select">
+        <select v-model="mechanismFilter" class="status-select" aria-label="考点机制筛选">
           <option value="all">所有考点机制</option>
           <option v-for="(v, k) in TAXONOMY_MECHANISMS" :key="k" :value="k">{{ v.label }}</option>
         </select>
       </div>
 
       <div class="select-wrapper">
-        <select v-model="fieldFilter" class="status-select">
+        <select v-model="fieldFilter" class="status-select" aria-label="功能场景筛选">
           <option value="all">所有功能场景</option>
           <option v-for="(v, k) in TAXONOMY_FIELDS" :key="k" :value="k">{{ v.label }}</option>
         </select>
       </div>
 
       <div class="select-wrapper">
-        <select v-model="statusFilter" class="status-select">
+        <select v-model="statusFilter" class="status-select" aria-label="学习状态筛选">
           <option value="all">所有状态</option>
           <option value="new">未学习</option>
           <option value="learning">学习中 (记忆曲线)</option>
@@ -215,8 +215,12 @@ onUnmounted(() => {
                 item.status === 'learning' ? '复习中' : '未学习'
               }}</span>
               
-              <button class="btn-expand">
-                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" class="chevron">
+              <button
+                class="btn-expand"
+                :aria-expanded="expandedQuestionId === item.id"
+                :aria-label="expandedQuestionId === item.id ? '收起详情' : '展开详情'"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5" class="chevron" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                 </svg>
               </button>
@@ -405,6 +409,14 @@ onUnmounted(() => {
   align-items: center;
   justify-content: center;
   color: var(--text-muted);
+  padding: 0.4rem;
+  border-radius: var(--radius-sm);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.btn-expand:hover {
+  background-color: var(--primary-light);
+  color: var(--primary);
 }
 
 .chevron {
@@ -532,6 +544,7 @@ onUnmounted(() => {
 }
 [data-theme="dark"] .id-tag {
   background: rgba(255, 255, 255, 0.08);
+  color: var(--text-main);
 }
 
 .badge-mech {

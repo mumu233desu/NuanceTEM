@@ -27,13 +27,13 @@
   --glass-border: rgba(255, 255, 255, 0.5);
 
   /* Feedback Colors */
-  --success: #10b981;
+  --success: #047857;
   --success-light: #ecfdf5;
   --error: #ef4444;
   --error-light: #fef2f2;
-  --warning: #f59e0b;
+  --warning: #b45309;
   --warning-light: #fefbeb;
-  --info: #3b82f6;
+  --info: #1d4ed8;
   --info-light: #eff6ff;
 
   --sidebar-width: 260px;
