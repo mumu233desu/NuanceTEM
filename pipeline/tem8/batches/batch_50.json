@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b50_01",
+    "group_id": 501,
+    "group_name": "interminable, long, endless, eternal",
+    "level": "TEM-8",
+    "target_word": "interminable",
+    "question": "Although the mining consortium claimed the concession agreement was ___ and thus immune to revocation, the supreme court ruled that it was implicitly terminable upon reasonable notice by the sovereign state.",
+    "options": [
+      "interminable",
+      "long",
+      "endless",
+      "eternal"
+    ],
+    "answer": "interminable",
+    "primary_mechanism": "MECH_REGISTER_DISCOURSE",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中后半部分的“implicitly terminable upon reasonable notice”（在合理通知期后可默示终止）构成了决定性的法理与词汇形态学锚点（terminable vs. interminable）。《韦氏第三版新国际英语词典》（Webster's Third New International Dictionary）对 interminable 专门收录了法律释义：“not terminable : continuing indefinitely without being terminated”，典型权威配例即为“an interminable agreement / lease”（不可终止的协议/租赁）。在合同法与特许权管辖语境中，唯一能与“terminable”构成严格对立并合理推导出“immune to revocation”（不可废止）的术语唯有 interminable。",
+    "distractor_analysis": {
+      "interminable": "正确。符合《韦氏第三版新国际英语词典》法律释义“not terminable : continuing indefinitely without being terminated”（不可终止的，未设终止期限的）以及英美合同法经典判例（如 Chitty on Contracts 所探讨的 terminable 与 interminable 契约）。其在句中精准表述该特许权协议属于“不可由通知而单方终止”的合同，从而严密支撑“immune to revocation”，并与主句的“implicitly terminable”构成无可替代的反义闭环。",
+      "long": "错误。语义逻辑断裂。“long”仅中性地指示时间跨度之久（例如长达数十年），但合同期限无论多长（long），都绝不意味着其在法理上“immune to revocation”（不可废止）；此外，“long”无法与法律术语“terminable”构成形态与逻辑上的反义对立。",
+      "endless": "错误。语域与搭配严重失范。“endless”侧重于物理空间的无边无际、机械循环（如 endless chain）或日常修辞中的“无休止”（如 endless complaints）。在严肃的司法与国家特许权公文语域中，合同从不被称为“endless agreement”，该词无法表达“不可依约终止”的法理效力，属于严重的语域错配。",
+      "eternal": "错误。范畴错配（category mistake）与风格冲突。“eternal”属于神学、形而上学或宇宙论词汇，强调超脱时间维度的“永恒不灭”（如 eternal salvation, eternal truth）。商业采矿特许权属于世俗法律契约，使用“eternal”修饰合同属于荒谬的修辞夸张，严重违背学术与法律文本的严谨性。"
+    },
+    "translation": "尽管该采矿财团声称特许权协议属于不可终止的合同，因而不可被废止，但最高法院最终裁定，主权国家在给予合理通知后有权默示终止该协议。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_02",
+    "group_id": 501,
+    "group_name": "interminable, long, endless, eternal",
+    "level": "TEM-8",
+    "target_word": "interminable",
+    "question": "Under established commercial law, agreements that omit a fixed expiration date are not presumed to be ___, but are instead construed as terminable upon reasonable notice by either participating party.",
+    "options": [
+      "interminable",
+      "long",
+      "endless",
+      "eternal"
+    ],
+    "answer": "interminable",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中转折并列结构“not presumed to be ___, but are instead construed as terminable upon reasonable notice”提供了决定性排他锚点。在英美合同法体系与高阶法学论述中（如权威法典 Chitty on Contracts 与经典判例 Llanelly Railway 案），界定无固定期限合同的核心法律范畴正是“interminable”（不可终止的，由前缀 in- 与 terminable 派生构成）与“terminable on reasonable notice”（可经合理通知终止的）之间的法定对立。空格前置为系动词不定式“to be”，彻底消除了冠词引起的语音线索缺陷。在严格的法理与正式语域中，唯有 interminable 与 terminable 构成严密对称的法学术语对仗，其余选项均因语域错配或范畴脱节而无法成立。",
+    "distractor_analysis": {
+      "interminable": "正确。在高级学术与商事实体法语境中，interminable 具备专门的法学词义与构词特征，即“admitting of no termination or limitation”（不可废止的/无终止期限的，如 interminable contract/lease），与后半句的“terminable upon reasonable notice”（可经合理通知终止）构成严丝合缝的形态与逻辑反义对仗，完美契合正式学术语域。",
+      "long": "错误。long 仅指客观时间或空间跨度大，无法指代合同是否具备法律层面的可终止性（terminability），与后文的“terminable”形成非对称的逻辑范畴错配（不能说“合同不是长期的，而是可终止的”），且语体过于基础平淡，缺乏学术论述的精密性。",
+      "endless": "错误。endless 虽在口语或通俗语域中可引申表示“漫长的”，但其核心义为空间或时间上的无边界性或物理循环（如 endless loop），在英美契约法与严肃学术论述中从未将合同性质表述为 endless contract，代入此处会产生严重的语域断裂（register clash）与学术搭配破裂。",
+      "eternal": "错误。eternal 属于神学、形而上学或崇高诗歌语域，专指超越时间、永恒不灭的事物（如 eternal salvation/truth）。将其用于修饰世俗商业合同（commercial agreements）属于严重的范畴谬误（category mistake），在法学与严肃学术语境中极不自然。"
+    },
+    "translation": "根据既定商法，未注明固定到期日的协议不会被推定为不可终止，而是被解释为任一签约方均可经合理通知后予以终止。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_03",
+    "group_id": 502,
+    "group_name": "jumbo, big, giant, large",
+    "level": "TEM-8",
+    "target_word": "jumbo",
+    "question": "Under federal lending frameworks, any residential loan that exceeds the conforming balance threshold set by government-sponsored enterprises is formally classified as a ___ mortgage, subject to more rigorous underwriting standards.",
+    "options": [
+      "jumbo",
+      "big",
+      "giant",
+      "large"
+    ],
+    "answer": "jumbo",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BUSINESS_FINANCE",
+    "anchor_clue": "'exceeds the conforming balance threshold ... formally classified as a ___ mortgage' strictly demands the codified financial and regulatory term of art 'jumbo mortgage' (contrasted with 'conforming mortgage'); other options are descriptive adjectives that lack statutory standing.",
+    "distractor_analysis": {
+      "jumbo": "正确。在金融经济学与不动产信贷监管法规范畴内，“jumbo mortgage”（巨额抵押贷款/超限额抵押贷款）是具有严格法定界限的行业专有术语（term of art），特指贷款额超过政府赞助企业（如房利美、房地美）所设定的合规上限（conforming loan limit）的非合规住宅贷款。《韦氏词典》（Merriam-Webster）收录该词条时直接将“a jumbo mortgage”作为典型例证。句中“exceeds the conforming balance threshold”与“formally classified as a ___ mortgage”构成严密的法定分类锚点，唯有 jumbo 符合制度性专业术语要求。",
+      "big": "错误。big 属于日常非正式基础词汇，缺乏金融监管与学术语篇所必须的严肃性与专业度；在法定信贷资产分类体系中绝不存在“big mortgage”这一名称。",
+      "giant": "错误。giant 侧重于实体物理维度的极其庞大或神话般的体量，带有强烈的修辞夸张色彩，在精密严肃的银行法与信贷分类语境中会产生严重的文体风格冲突（stylistic clash），亦无此金融术语用法。",
+      "large": "错误。large 虽然属于较正式的通用量度形容词，但在本句中仅能用于宽泛的非正式描述（如 a large sum / a large loan）。句中“formally classified as a ___ mortgage”（在法定分类上属于……抵押贷款）要求填入与“conforming mortgage”（合规抵押贷款）相对立的唯一法定专门术语；监管法律与学术金融界从未将超额贷款分类为“large mortgage”，替换后构成术语错用。"
+    },
+    "translation": "在联邦借贷监管框架下，任何超过政府赞助企业设定的合规余额上限的住宅贷款，在法定分类上均属于巨额抵押贷款（jumbo mortgage），须遵循更为严苛的核保标准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_04",
+    "group_id": 502,
+    "group_name": "jumbo, big, giant, large",
+    "level": "TEM-8",
+    "target_word": "jumbo",
+    "question": "Because the proposed credit facility surpassed conforming lending limits established by government-sponsored enterprises, the underwriting board reclassified the transaction as a ___ mortgage, mandating stricter debt-to-income thresholds.",
+    "options": [
+      "jumbo",
+      "big",
+      "giant",
+      "large"
+    ],
+    "answer": "jumbo",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "In banking regulation and mortgage finance, a loan that exceeds standard 'conforming lending limits' is legally and contractually classified as a 'jumbo mortgage'; neither 'big', 'giant', nor 'large' functions as this statutory financial asset class designation.",
+    "distractor_analysis": {
+      "jumbo": "正确。在信贷风控与房地产金融领域，“jumbo mortgage”（超限额大额抵押贷款）是法定的专业制度术语，专指金额超过政府资助机构规定的“标准合规贷款限额”（conforming lending limits）的抵押贷款，具有绝对的排他性。",
+      "big": "错误。big 仅表达通俗层面的“大”，在严密规范的信贷审批与金融监管法律文本中不具备资产分类的法定效力。",
+      "giant": "错误。giant 强调具象层面的庞然大物，带有文学修辞色调，完全脱离了银行学与金融资产分类的专业术语体系。",
+      "large": "错误。large 仅可用作一般性定语描述贷款规模较大（如 a large loan），但无法形成对标“conforming loan”的特定抵押贷款金融产品法定品类名称。"
+    },
+    "translation": "鉴于拟申请的信贷额度超过了政府资助机构设定的合规贷款限额，风控承保委员会将该笔业务重新归类为超限额大额房贷，并强制执行更为严格的债务收入比门槛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_05",
+    "group_id": 503,
+    "group_name": "mean, nasty, awful, hateful",
+    "level": "TEM-8",
+    "target_word": "mean",
+    "question": "Although the department chair maintained an outward façade of collegiality, he was notoriously ___ with commendation, systematically withholding professional credit from subordinates out of a petty resentment of their burgeoning reputations.",
+    "options": [
+      "mean",
+      "nasty",
+      "awful",
+      "hateful"
+    ],
+    "answer": "mean",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "介词搭配与语义双重锚点：句中与介词 with 及抽象名词 commendation 连用，表示在给予赞赏或认可方面极其吝啬、刻薄（mean with something），且后文明确点出其动机是出于狭隘的嫉恨（petty resentment），完全锁定 mean 的核心行为特征。",
+    "distractor_analysis": {
+      "mean": "正确。mean 在行为语域中常表示“吝啬的、刻薄的、心胸狭隘的”，韦氏词典释义包含“characterized by malice”及“characterized by lack of generosity”。其经典句法搭配为“mean with sth”（在……上极其吝啬、不愿给予），在此与 commendation 完美契合，精准表达系主任出于狭隘嫉恨而蓄意克扣对下属赞许的卑劣行为。",
+      "nasty": "错误。nasty 强调令人作呕、恶毒或下流的行径（spiteful, offensive），通常与介词 to 或 toward 搭配表示对某人凶狠恶毒（如 nasty to subordinates），不能与 with 及表示给予物的抽象名词（commendation）构成表示“吝于给予”的介词搭配，在句法与搭配上均不成立。",
+      "awful": "错误。awful 主要表示“极坏的、令人不适的”，口语中可用于 awful with 结构，但仅表示“在某方面笨拙/不擅长”（如 awful with names/numbers），在此完全违背文意中“蓄意、有系统地打压并克扣认可（systematically withholding...）”的心机与恶意。",
+      "hateful": "错误。hateful 意为“极其可恨的、充满深仇大恨的”（expressing or deserving extreme hatred），语意程度过重，指极端的恶毒与仇恨，且语法上不接“with + 给予物”结构，不能用于形容职场中狭隘克扣赞许的微观嫉妒行为。"
+    },
+    "translation": "尽管系主任表面上维持着和睦友善的假象，但他在给予赞许方面却出了名地刻薄吝啬，因狭隘地嫉妒下属日益显赫的声誉而蓄意侵吞其专业荣誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_06",
+    "group_id": 503,
+    "group_name": "mean, nasty, awful, hateful",
+    "level": "TEM-8",
+    "target_word": "mean",
+    "question": "Rather than debating the legislation on its merits, the senator sought to take a ___ advantage of his colleague's bereavement, rushing the controversial bill to a floor vote during her absence.",
+    "options": [
+      "mean",
+      "nasty",
+      "awful",
+      "hateful"
+    ],
+    "answer": "mean",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "固定动宾搭配锚点：英语中表达“卑鄙地利用他人的不幸或弱点”固定搭配为“take a mean advantage of”，mean 在此表示 ignoble、base、dishonorable，其他三项均无法与 take an advantage of 形成合规的学术/政论搭配。",
+    "distractor_analysis": {
+      "mean": "正确。mean 在正式政论及文学语域中可表示“卑鄙的、不光彩的、乘人之危的”（ignoble, base, contemptible）。短语“take a mean advantage of sb/sth”是英语中高度成熟且专一的固定习语搭配，意为“卑劣地利用（他人的困境、不幸或弱点）”，精准对应趁同僚丧亲缺席强推法案的不齿行径。",
+      "nasty": "错误。nasty 虽然表示恶意或卑劣，但在英语中不存在“take a nasty advantage of”这一搭配，强行代入造成严重的词汇搭配断裂（collocational rupture）。",
+      "awful": "错误。awful 意为“糟糕的、可怕的”，通常修饰事件或质量的恶劣程度，不与 advantage 构成定语搭配，“take an awful advantage”在标准英语中属于非规范表达，逻辑与语域均不匹配。",
+      "hateful": "错误。hateful 强调“可憎的、充满仇恨的”，语义焦点在于激发强烈憎恨（full of hate），用于此处不仅割裂了 fixed collocation（无 take a hateful advantage 用法），更在语义上误将政客的机会主义卑劣行径拔高为血海深仇般的恶意。"
+    },
+    "translation": "这位参议员没有就立法本身的价值展开辩论，反而企图卑鄙地利用同僚丧亲之机，趁她缺席之际将这项备受争议的法案匆忙推向全院表决。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_07",
+    "group_id": 504,
+    "group_name": "operational, active, fighting, effective",
+    "level": "TEM-8",
+    "target_word": "operational",
+    "question": "Bridging the conceptual divide between grand strategy and ground-level tactical engagements, modern ___ art focuses on orchestrating synchronized military campaigns across expansive theaters to secure decisive geopolitical objectives.",
+    "options": [
+      "operational",
+      "active",
+      "fighting",
+      "effective"
+    ],
+    "answer": "operational",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The decisive anchor is the conceptual framework 'Bridging the conceptual divide between grand strategy and ground-level tactical engagements'. In standard military theory and strategic studies, military art is strictly divided into three tiers: strategic, operational, and tactical. The recognized doctrinal term bridging strategy and tactics is 'operational art' (战役艺术/战役法).",
+    "distractor_analysis": {
+      "operational": "正确。在军事理论与安全战略中，'operational art'（战役艺术/战役法）是专有名词与固定术语，特指介于宏观大战略（grand strategy）与微观战术交战（tactics）之间、用于筹划与实施战役（campaigns）的指挥艺术。",
+      "active": "错误。'active' 意为'积极的、活跃的'或用于表示编制状态（如 active duty 现役），与 'art' 无法构成军事理论中的层级分类搭配，'active art' 在英语中无此意义。",
+      "fighting": "错误。'fighting art' 通常指格斗技巧或武术系统（如 martial arts），与后文所描述的在大纵深战区内筹划战略性联合战役的高层军事科学语域严重冲突。",
+      "effective": "错误。'effective' 仅为主观评价性形容词（意为'有效的、起作用的'），无法充当军事科学中指代特定层级分类的专门理论术语。"
+    },
+    "translation": "现代战役艺术弥合了宏观战略与一线战术交战之间的概念鸿沟，其核心在于在广阔战区内统筹协调同步军事战役，以实现决定性的地缘政治目标。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_08",
+    "group_id": 504,
+    "group_name": "operational, active, fighting, effective",
+    "level": "TEM-8",
+    "target_word": "operational",
+    "question": "Following rigorous carrier-deck trials and complex avionics integration, the advanced multirole fighter finally achieved initial ___ capability, clearing the path for its official induction into front-line squadrons next autumn.",
+    "options": [
+      "operational",
+      "active",
+      "fighting",
+      "effective"
+    ],
+    "answer": "operational",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The decisive anchor is the established defense procurement and military qualification formula 'achieved initial ___ capability'. 'Initial Operational Capability' (IOC, 初始作战能力) is the globally standardized benchmark denoting that a weapon system is ready for fielded operational execution.",
+    "distractor_analysis": {
+      "operational": "正确。'Initial Operational Capability'（IOC，初始作战能力）是国防采办、航空航天及军工领域的国际通用准入术语，专指武器系统通过所有基础测试、具备投入预定实战任务能力的里程碑状态。",
+      "active": "错误。'active' 常用于修饰服役状态（如 active service 现役），但国防采办体制中不存在 'initial active capability' 这一术语搭配。",
+      "fighting": "错误。'fighting' 多作非正式或描述性定语（如 fighting spirit 战斗精神，fighting vehicle 战车），属于通俗表达，绝不用于正规采办与验收准则中。",
+      "effective": "错误。'effective' 着重指实际效力或杀伤效果（如 effective range 有效射程），不能表示系统已达到法定可运作或战备就绪的准入标准。"
+    },
+    "translation": "经过严格的航母甲板试验与复杂的航电设备整合，这款先进多用途战斗机终于具备了初始作战能力，为其明年秋季正式列装一线飞行中队扫清了道路。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_09",
+    "group_id": 505,
+    "group_name": "planetary, world, global, international",
+    "level": "TEM-8",
+    "target_word": "planetary",
+    "question": "As Earth system scientists delineate the nine critical ___ boundaries that regulate biosphere resilience, policymakers increasingly recognize that transgressing these ecological thresholds risks triggering irreversible, system-wide environmental tipping points.",
+    "options": [
+      "planetary",
+      "world",
+      "global",
+      "international"
+    ],
+    "answer": "planetary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocation 'planetary boundaries' (established by Johan Rockström et al. in Earth system science to define Earth's safe biophysical limits), directly reinforced by 'regulate biosphere resilience' and 'ecological thresholds'.",
+    "distractor_analysis": {
+      "planetary": "正确。在地球系统科学与认知生态学中，“planetary boundaries”（行星边界）是2009年由约翰·罗克斯特伦（Johan Rockström）等科学家创立的权威专有名词，特指界定人类安全生存空间的九大地球生物物理临界阈值。句中“nine critical... boundaries that regulate biosphere resilience”（调节生物圈韧性的九大关键边界）与“ecological thresholds”（生态阈值）构成了不可替代的决定性学术搭配锚点。",
+      "world": "错误。world 主要用作名词或名词前置修饰语（noun adjunct），侧重于人类文明、社会生活或世俗经验构成的世界（如 world trade, world order），既不能修饰科学意义上的自然生物物理极限，也无法构成“world boundaries”这一生态学术语，语域与学术搭配严重不合。",
+      "global": "错误。global 虽常用于描述全球尺度或宏观范围的事物（如 global warming, global governance），但在地球系统科学领域，表征维护地球系统稳态的九项生物物理阈值框架已被严格固定冠名为“planetary boundaries”；学术界不存在“global boundaries”这一术语，填入此处属于典型的伪搭配（pseudo-collocation）。",
+      "international": "错误。语义发生严重偏离。international 严格指代“国家之间的、主权跨国的”（inter-state / between nations），“international boundaries”在国际法及政治地理中固定指代“国界/国家政治分界线”，与句中指涉的地球自然调节系统（biosphere resilience）及生态阈值（ecological thresholds）产生根本性的逻辑断裂与概念错位。"
+    },
+    "translation": "随着地球系统科学家划定调节生物圈韧性的九大关键行星边界，决策者日益认识到，跨越这些生态阈值有可能引发不可逆的、系统性的环境临界质变点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_10",
+    "group_id": 505,
+    "group_name": "planetary, world, global, international",
+    "level": "TEM-8",
+    "target_word": "planetary",
+    "question": "Distinguished from political internationalism and economic globalization, the concept of ___ consciousness demands that humans perceive themselves not merely as citizens of nations, but as biological agents embedded within Earth's life-support systems.",
+    "options": [
+      "planetary",
+      "world",
+      "global",
+      "international"
+    ],
+    "answer": "planetary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrastive opening 'Distinguished from political internationalism and economic globalization' logically excludes 'international' and 'global' via non-tautology, while the ecological re-anchoring to 'biological agents embedded within Earth's life-support systems' uniquely mandates 'planetary consciousness'.",
+    "distractor_analysis": {
+      "planetary": "正确。在当代环境哲学、人类世思想与认知理论中，“planetary consciousness”（行星意识）是一个高度专门化的学术术语，特指突破以人类为中心的狭隘视角，将人类认知置于作为天体和整体生物物理系统的地球尺度之中。句首的排除性状语“Distinguished from political internationalism and economic globalization”（有别于政治国际主义与经济全球化）与后文“biological agents embedded within Earth's life-support systems”（嵌入地球生命支持系统的生物行动者）构成了严密的排他性论证逻辑，唯有 planetary 能准确对应这种地球系统层面的认知跨越。",
+      "world": "错误。在批判理论与人文学科中，“world”通常特指由人类语言、文化与社会制度建构的“生活世界”或“人类社会”（如海德格尔或现象学谱系中的 the world of humans）；它本身就是人类中心主义的产物，无法与句中“biological agents”（生物行动者）及地球物理支持系统构成契合，且在学术术语中“world consciousness”不能与 internationalism 及 globalization 形成此种生态维度上的严格理论对位。",
+      "global": "错误。句首已明确出现对比排除标志“Distinguished from ... economic globalization”（有别于经济全球化）。若再选用 global 构成“global consciousness”，会导致极度冗余的语义同义反复（tautology）与逻辑自相矛盾。此外，global 在生态哲学中正是表征以人类经贸、技术网络为核心的全球化范畴，恰恰是“行星意识”所要批判超越的对象。",
+      "international": "错误。句首明确给出“Distinguished from political internationalism”（有别于政治国际主义），若填入 international 形成“international consciousness”，在句式逻辑上构成直接的语义冲突。再者，international 始终锚定在民族国家（nation-states）的政治互动上，与后文“not merely as citizens of nations, but as biological agents”所呼唤的超国家、全地球生物圈认知尺度背道而驰。"
+    },
+    "translation": "有别于政治国际主义与经济全球化，行星意识这一概念要求人类不仅将自身视为各个国家的公民，更要视为嵌入地球生命支持系统之中的生物行动者。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_11",
+    "group_id": 506,
+    "group_name": "prospective, future, likely, potential",
+    "level": "TEM-8",
+    "target_word": "prospective",
+    "question": "Unlike retrospective recall, which retrieves previously encoded information from the past, ___ memory requires cognitive control to formulate intentions, preserve them across delay intervals, and execute them upon encountering relevant retrieval cues.",
+    "options": [
+      "prospective",
+      "future",
+      "likely",
+      "potential"
+    ],
+    "answer": "prospective",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首的 'Unlike retrospective recall'（与回溯性回忆不同）构成了认知心理学领域的严格对立概念锚点。在认知科学中，'prospective memory'（前瞻性记忆）是不可替换的固定学术术语，指对未来特定情境下执行预定意图的记忆功能，其余三词均无法构成该科学术语。",
+    "distractor_analysis": {
+      "prospective": "正确。在认知心理学与神经科学中，'prospective memory'（前瞻性记忆）是规范的固定术语，特指形成某种行动意图并在未来的指定线索出现时予以执行的认知机制，与句首的 'retrospective recall' 形成严密的学术对照。",
+      "future": "错误。'future' 虽然意为“未来的”，但在认知科学中不能与 'memory' 构成此项心理学机制的专业命名；'future memory' 属于非学术拼凑，违背认知术语规范。",
+      "likely": "错误。'likely' 为概率形容词（意为“很可能的”），无法修饰抽象的认知系统或心理机能，'likely memory' 在语法与认知语义上皆不成立。",
+      "potential": "错误。'potential' 强调“潜在的、可能转化为现实的”（如 potential capacity），'potential memory' 指尚未表现出的潜在记忆潜能，与后文描述的“制定意向并在延时后执行”的主动性认知机制完全脱节。"
+    },
+    "translation": "与提取既往编码信息的回溯性回忆不同，前瞻性记忆需要认知控制来形成行动意图、在延迟间隔期维持该意图，并在遇到相关检索线索时将其付诸执行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_12",
+    "group_id": 506,
+    "group_name": "prospective, future, likely, potential",
+    "level": "TEM-8",
+    "target_word": "prospective",
+    "question": "To eliminate the recall biases inherent in retrospective self-reporting, the neuroscientists implemented a ___ cohort design that tracked the cognitive trajectories of adolescent participants over a ten-year longitudinal observation period.",
+    "options": [
+      "prospective",
+      "future",
+      "likely",
+      "potential"
+    ],
+    "answer": "prospective",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'retrospective self-reporting'（回顾性自述）与后文 'tracked... over a ten-year longitudinal observation period'（随访追踪）明确锁定了实证研究范式。在统计与临床研究设计中，'prospective cohort design'（前瞻性队列设计）是唯一的标准方法学术语。",
+    "distractor_analysis": {
+      "prospective": "正确。在认知研究和流行病学方法论中，'prospective cohort design / study'（前瞻性队列设计/研究）属于高度固化的专业搭配，专指在基线招募无病/健康个体并向前追踪其认知变化的科研范式，与句中的 'retrospective' 形成规范的方法论对立。",
+      "future": "错误。'future' 虽表时间上的“未来”，但无法与 'cohort design' 构成专业统计学/实验方法术语，'future cohort design' 属非规范表达，不符合学术期刊用语标准。",
+      "likely": "错误。'likely' 意为“可能的”，作定语修饰已实际付诸实施（implemented）的研究方案在逻辑上出现错位，且无法修饰研究设计（cohort design）。",
+      "potential": "错误。'potential' 意为“潜在的、未成形的”，若修饰 'cohort design' 则表示“一个潜在构想的设计”，这与主句谓语 'implemented'（已经实施开展）以及后文对十年实际追踪过程的描述发生直接的逻辑自相矛盾。"
+    },
+    "translation": "为了消除回顾性自评固有的回忆偏差，神经科学家采用了一种前瞻性队列设计，在长达十年的纵向观察期内持续追踪青少年受试者的认知发展轨迹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_13",
+    "group_id": 507,
+    "group_name": "quick, fast, prompt, immediate",
+    "level": "TEM-8",
+    "target_word": "quick",
+    "question": "Celebrated for her remarkably ___ wit and dialectical agility, the philosopher consistently exposed latent contradictions within orthodox theories before her interlocutors could even finish presenting their foundational premises.",
+    "options": [
+      "quick",
+      "fast",
+      "prompt",
+      "immediate"
+    ],
+    "answer": "quick",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The noun 'wit' (reinforced by 'dialectical agility'). In English cognitive discourse, the mental attribute of intellectual nimbleness and sharp repartee forms an unalterable, classic collocation with 'quick' ('quick wit'). 'Fast' is restricted to physical velocity or general tempo and clashes collocationally with 'wit'; 'prompt' describes punctual actions/responses rather than an internal cognitive faculty; and 'immediate' denotes temporal or spatial directness rather than cognitive sharpness.",
+    "distractor_analysis": {
+      "quick": "正确。quick 在认知与智力语域（FIELD_COGNITION）中专指‘头脑敏锐的、反应迅捷的’，与 wit 构成高度固化的经典搭配（quick wit，机智敏捷的才思），与后文的 dialectical agility（辩证敏锐度）形成严密的语义呼应，风格典雅严谨。",
+      "fast": "错误。fast 主要强调物体的高速率物理位移（如 fast train）或节奏的急促（如 fast pace），在修饰人的内在智力、才智敏捷度时与 wit 构成严重的搭配冲突（不存在 *fast wit 的用法）。",
+      "prompt": "错误。prompt 侧重于行为的即刻性、守时性或毫不拖延的行动响应（如 prompt reply, prompt assistance），修饰具体的行为、决策或处事态度，不能修饰内在认知特质或机智本身（*prompt wit 属于范畴搭配错误）。",
+      "immediate": "错误。immediate 强调空间上的直接相邻或时间上的毫无间隔（如 immediate reaction, immediate cause），指‘直接的、即刻发生的’外部状态，无法用于修饰人类智力机敏的认知品质。"
+    },
+    "translation": "这位哲学家以其非凡的敏捷才思与辩证敏锐度而闻名，往往在对话者尚未陈述完基本前提之前，便已敏锐地揭示出传统理论中潜藏的内在矛盾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_14",
+    "group_id": 507,
+    "group_name": "quick, fast, prompt, immediate",
+    "level": "TEM-8",
+    "target_word": "quick",
+    "question": "Remarkably ___ of apprehension and endowed with rigorous analytical acumen, the young jurist identified the constitutional flaws in the proposed statute long before the parliamentary committee concluded its formal review.",
+    "options": [
+      "quick",
+      "fast",
+      "prompt",
+      "immediate"
+    ],
+    "answer": "quick",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The postpositive prepositional complement 'of apprehension'. In formal academic and literary English, 'quick of apprehension' is an established cognitive collocation meaning 'having a keen and rapid capacity to perceive and understand'. The distractors 'fast', 'prompt', and 'immediate' cannot grammatically govern an 'of + cognitive noun' complement (*fast of apprehension, *prompt of apprehension, and *immediate of apprehension are all syntactically invalid).",
+    "distractor_analysis": {
+      "quick": "正确。quick of apprehension 为高级学术与书面语中的经典认知固定搭配（apprehension 在此指‘理解力、感知力’），意为‘理解力极强、领悟极其敏锐’。在所给四个选项中，仅 quick 能接介词 of 构成此类认知资质短语（如 quick of understanding, quick of apprehension）。",
+      "fast": "错误。fast 在语法上绝对不能接 of + 抽象名词构成表语或定语补足语，*fast of apprehension 属于严重的句法搭配违例。",
+      "prompt": "错误。prompt 表示动作迅捷或反应及时，通常接介词 in（如 prompt in action / prompt in payment）或不定式 to do（如 prompt to respond），绝不与 of 搭配（*prompt of apprehension 在句法上不成立）。",
+      "immediate": "错误。immediate 表示‘直接的、即刻的’，既不能表示心智理解力的敏锐，也无法支配介词 of 构成认知短语（*immediate of apprehension 语义不通且句法错误）。"
+    },
+    "translation": "这位年轻的法学家领悟力极其敏锐，且兼具严谨的分析洞察力，早在议会委员会结束正式审查之前，便已敏锐识别出该拟议法案中存在的宪法漏洞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_15",
+    "group_id": 508,
+    "group_name": "rampant, erect, upright, vertical",
+    "level": "TEM-8",
+    "target_word": "rampant",
+    "question": "In an era dominated by algorithmic echo chambers, cognitive scientists warn that ___ confirmation bias undermines deliberative democracy, as citizens reflexively filter out empirical evidence contradicting their entrenched ideological convictions.",
+    "options": [
+      "rampant",
+      "erect",
+      "upright",
+      "vertical"
+    ],
+    "answer": "rampant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格修饰核心认知心理学术语“confirmation bias”（确认偏误），其后谓语为“undermines deliberative democracy”（破坏审议民主），由状语“citizens reflexively filter out empirical evidence...”揭示出该认知偏差处于失控、蔓延且危害极大的状态。四个选项中，仅有 rampant 能与有害认知偏误或社会病理现象形成“猖獗泛滥、难以遏制”的标准学术搭配；其余三词均局限于物理空间形态或正向道德属性。",
+    "distractor_analysis": {
+      "rampant": "【正确】意为“（不良现象）猖獗的、肆虐的、泛滥成灾的”。在认知科学与社会政治学语境中，与“confirmation bias”构成高度地道的学术强搭配，精准表达出算法极化下确认偏误肆意蔓延且不可收拾的恶劣影响。",
+      "erect": "【错误】意为“直立的、垂直的、竖立的”，主要用于描述人或动物的直立躯体姿态（如 erect posture）或物理建筑物的挺立，用于修饰认知偏误属于严重的范畴错配（category mistake）。",
+      "upright": "【错误】作形容词时本义指物理上的“直立的、垂直的”，引申为伦理道德上的“正直的、诚实的”（如 an upright citizen）。无论取空间义还是道德义，均无法修饰指代认知缺陷的“confirmation bias”，且在语意逻辑上产生荒谬冲突。",
+      "vertical": "【错误】为几何与空间方位术语，表示“垂直的、纵向的”（如 vertical axis），或用于经济学中的“纵向的”（如 vertical integration）。与群体认知层面的心理偏差没有任何修饰关系或搭配习惯。"
+    },
+    "translation": "在一个充斥着算法回音室的时代，认知科学家警告称，猖獗泛滥的确认偏误正在瓦解审议民主，因为公民会本能地下意识过滤掉与其根深蒂固的意识形态信念相抵触的经验证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_16",
+    "group_id": 508,
+    "group_name": "rampant, erect, upright, vertical",
+    "level": "TEM-8",
+    "target_word": "rampant",
+    "question": "In his critique of post-truth epistemology, the philosopher argued that ___ cynicism regarding objective reality does not liberate the human intellect, but rather paralyzes critical judgment and leaves society vulnerable to ideological manipulation.",
+    "options": [
+      "rampant",
+      "erect",
+      "upright",
+      "vertical"
+    ],
+    "answer": "rampant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "被修饰语为哲学认知范畴的“cynicism”（犬儒心态/冷嘲怀疑），后文以“paralyzes critical judgment and leaves society vulnerable to ideological manipulation”（麻痹批判性判断，使社会极易受意识形态操控）指明该思维状态呈病态蔓延、失控肆虐之势。erect 和 vertical 纯属几何空间与物理形态词，upright 意为道德高尚，与负面的 cynicism 语义尖锐对立；唯有 rampant 表达思想思潮的“甚嚣尘上与肆意蔓延”。",
+    "distractor_analysis": {
+      "rampant": "【正确】意为“（消极思潮、态度等）不受约束蔓延的、甚嚣尘上的”。与“cynicism”构成典范搭配，生动表现出在后真相认识论语境中，针对客观事实的虚无主义与犬儒心态肆虐泛滥、瓦解理性辨别力的危害。",
+      "erect": "【错误】严格限于具象的物理挺立状态（如身体站直或物体坚挺），不能延伸至认识论或主观心态范畴修饰“cynicism”。",
+      "upright": "【错误】虽然具备抽象引申义，但其语意固定为褒义的“正直的、品行端正的”。与作为消极认知病态的“cynicism”（犬儒主义、玩世不恭）构成语义冲突与逻辑抵触，无法共现。",
+      "vertical": "【错误】指空间直角垂直方向或层级构型，属于数理与几何描述性词汇，完全无法用于形容人类认知心态或认识论思潮的扩散状态。"
+    },
+    "translation": "在对后真相认识论的批判中，这位哲学家指出，对客观现实肆意蔓延的犬儒怀疑非但不能解放人类智识，反而会麻痹批判性判断力，使社会在意识形态操弄面前不堪一击。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_17",
+    "group_id": 509,
+    "group_name": "resplendent, glorious, splendid, beautiful",
+    "level": "TEM-8",
+    "target_word": "resplendent",
+    "question": "During the diplomatic summit, the envoy appeared ___ in traditional woven regalia, utilizing sensory pageantry to project cultural sovereignty and command immediate deference from foreign emissaries.",
+    "options": [
+      "resplendent",
+      "glorious",
+      "splendid",
+      "beautiful"
+    ],
+    "answer": "resplendent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The rigid high-register collocation '___ in [traditional/ceremonial regalia/attire]', combined with the visual splendor and sensory pageantry that evokes physical luminescence and majesty.",
+    "distractor_analysis": {
+      "resplendent": "正确。resplendent 源自拉丁语 resplendere（灿烂发光），在高级英语中与介词 in 构成极其经典的典范性搭配（resplendent in regalia/attire/robes），专指“身着华服而光彩夺目、华丽非凡”，完美契合句中外交使节身着盛装以彰显主权威仪的庄重语境。",
+      "glorious": "错误。glorious 侧重抽象维度的“光荣的、带来荣耀的”或天气层面的“壮丽灿烂”，当与介词 in 搭配时通常接抽象概念（如 glorious in defeat, glorious in battle），无法与具体的礼服（regalia）形成表示“盛装打扮、华美夺目”的固定搭配。",
+      "splendid": "错误。splendid 意为“壮观的、极好的”，通常作前置定语（如 splendid regalia）或作评价性表语，但在当代标准书面语中极少构成“appeared splendid in + 服饰”的习惯用法，缺乏表示华服珠光闪耀的特定词汇联结。",
+      "beautiful": "错误。beautiful 属于基础通识词汇，语义泛化，侧重普遍的感官愉悦，在严肃外交政治仪式的高阶语体（formal/ceremonial register）中不仅语域失配，更无法表达出通过盛装华服展现出的慑人威严与耀目光华。"
+    },
+    "translation": "在外交峰会期间，特使身着华丽的传统织锦礼服盛装亮相，借助视觉盛典彰显文化主权，并赢得外国使节由衷的敬意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_18",
+    "group_id": 509,
+    "group_name": "resplendent, glorious, splendid, beautiful",
+    "level": "TEM-8",
+    "target_word": "resplendent",
+    "question": "Painstakingly restored by architectural conservators, the basilica’s sanctuary stood ___ with burnished gold leaf and lapis lazuli, its lustrous surfaces catching the raking light to produce an aesthetic impression of transcendent majesty.",
+    "options": [
+      "resplendent",
+      "glorious",
+      "splendid",
+      "beautiful"
+    ],
+    "answer": "resplendent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_AESTHETICS",
+    "anchor_clue": "The decisive construction 'stood ___ with burnished gold leaf...', syntactically reinforced by the photic modifier 'its lustrous surfaces catching the raking light', uniquely requires an adjective denoting intense, light-reflecting brilliance (shining brilliantly).",
+    "distractor_analysis": {
+      "resplendent": "正确。resplendent 源自拉丁语 resplendere（光芒四射），核心义项为“光辉灿烂的、熠熠生辉的”（shining brilliantly; characterized by a glowing splendor）。在句法上，它与介词 with 构成描述装潢、器物或服饰因珍贵材质而流光溢彩的高阶固定搭配（resplendent with...）；在语义上，它与后文“its lustrous surfaces catching the raking light（有光泽的表面捕捉着侧光）”所展现的光学反射机制形成严密的语义呼应与照应互文。",
+      "glorious": "错误。glorious 侧重精神层面的崇高荣誉、历史功勋或神圣壮美（marked by great beauty or splendor eliciting veneration/renown），缺乏描述贵重矿物与金属表面因光线折射而产生的具象物理反光与明艳闪烁感；在现代学术语境中，它通常不与具体装饰性建材搭配充当主语补足语（无 stood glorious with gold leaf 之用法）。",
+      "splendid": "错误。splendid 侧重于规模上的宏伟宏大、排场的奢华或品质上的极佳卓越（marked by grandeur, magnificence, or ostentatious display）。尽管在早期古典文学中偶见 splendid with，但在现代学术与艺术批评语体中，splendid 已抽象化为纯粹的宏大审美评价，失去了“灿烂闪烁、光彩夺目”的核心光学义素，无法与后文强调表面光泽与反光的分词从句精准咬合，语意精密度明显不足。",
+      "beautiful": "错误。beautiful 属于基础通识词汇，语义涵盖范围过宽，仅泛指感官或精神上的愉悦感（exciting aesthetic pleasure）。它在句法上无法与“with + 饰金矿物材料”形成有效后置搭配（无 stood beautiful with 之惯用构式），且在严肃的艺术史与建筑保护分析语境中显得语体等级过低，缺乏学术文本所需的庄严感与意象浓度。"
+    },
+    "translation": "经建筑修复专家精心修复后，大教堂的圣所因贴金箔与青金石的装饰而熠熠生辉、金碧辉煌，其光泽的表面捕捉着侧光，营造出一种超凡威严的美学印象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_19",
+    "group_id": 510,
+    "group_name": "resultant, attendant, consequent, incidental",
+    "level": "TEM-8",
+    "target_word": "resultant",
+    "question": "When conflicting motivational drives pull an agent in divergent behavioral directions, the central nervous system integrates these opposing vectors into a single ___ force that ultimately dictates motor execution.",
+    "options": [
+      "resultant",
+      "attendant",
+      "consequent",
+      "incidental"
+    ],
+    "answer": "resultant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "integrates these opposing vectors into a single ___ force: In cognitive neurodynamics, psychophysics, and vector mechanics, the net vector sum produced by combining opposing forces is strictly termed 'resultant force' (合力/合矢量).",
+    "distractor_analysis": {
+      "resultant": "正确。在认知神经动力学与生物物理学语境中，多向度相互冲突的“矢量/向量”（opposing vectors）经中枢神经系统整合后，所形成的主导机体动作执行的单一“合力”，存在高度固定的专业搭配“resultant force”（合力/合矢量）。此外，Merriam-Webster 明确指出 resultant 特指“由两股或多股力量、要素复合或化合而产生的结果”（derived from or designating a combination or compounding of elements or factors），与句中的“integrates these opposing vectors”构成严丝合缝的逻辑与语义共振。",
+      "attendant": "错误。attendant 意为“伴随的、附带的”（accompanying, concomitant），多用来修饰伴随某项活动或境遇而产生的问题、风险、代价或责任（如 attendant risks, attendant difficulties），指从属的伴随状态，无法用于表述多个分量合成后的“合力”，亦无“attendant force”指代合矢量的用法。",
+      "consequent": "错误。consequent 侧重于时间或因果链条上的“随之发生的、作为后续结果的”（following as a result or effect），通常描述单向度的事件前后因果顺承（如 the crash and consequent delays），不具备“多元力量矢量相加/多要素复合”的内涵，与 force 搭配不能表达“合力”。",
+      "incidental": "错误。incidental 意为“附带的、次要的、偶然的”（secondary, minor, fortuitous），后文定语从句明确指出该力量“最终决定动作执行”（ultimately dictates motor execution），具有绝对的主导性与决定性，与 incidental 的“非实质、次要”属性产生致命的逻辑矛盾。"
+    },
+    "translation": "当相互冲突的动机驱力将行为主体引向不同的行为方向时，中枢神经系统会将这些相反的矢量整合为一股合力，最终支配动作的执行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b50_20",
+    "group_id": 510,
+    "group_name": "resultant, attendant, consequent, incidental",
+    "level": "TEM-8",
+    "target_word": "resultant",
+    "question": "By synthesizing fragmented visual cues, auditory inputs, and vestibular signals, the nervous system constructs a unified, ___ percept of physical equilibrium that defies simple sensory reductionism.",
+    "options": [
+      "resultant",
+      "attendant",
+      "consequent",
+      "incidental"
+    ],
+    "answer": "resultant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "By synthesizing fragmented visual cues, auditory inputs, and vestibular signals... unified: Merriam-Webster explicitly defines 'resultant' as applying to 'what exists or takes place as the result of the combination or compounding of two or more forces, causes, or elements', matching the cognitive synthesis of multi-sensory inputs into a 'resultant percept'.",
+    "distractor_analysis": {
+      "resultant": "正确。Merriam-Webster 词典义原明确辨析：resultant 专指“因两股或两股以上力量、原因或要素结合/复合而产生的存在或状态”（applies to what exists or takes place as the result of the combination or compounding of two or more forces, causes, or elements）。本句句首状语详细罗列了视觉、听觉与前庭信号三项感官要素的融合加工（synthesizing...）；在认知知觉心理学中，“resultant percept”（合成知觉/复合感知体）是描述多感官通道整合后涌现出的统一表征的标准学术搭配。",
+      "attendant": "错误。attendant 意指“伴随而来的、从属副产的”，往往修饰主导事物所引发的次要状况或伴随危害。此处所建构的知觉实体是多源神经信息加工的终极核心产物，而非伴随出现的附带物。",
+      "consequent": "错误。consequent 强调在单一直线因果链条中“作为后续必然结果而发生的”（following another thing as a natural or logical effect），无法凸显本句核心呈现的“多源感知数据经复杂中枢整合后涌现出的合成效应”（compounding synthesis），不符合精细词义辨析要求。",
+      "incidental": "错误。incidental 意为“偶然的、非本质的、附带发生的”（subordinate, non-essential）。后文强调该感知整体“打破了简单的感官还原论”，说明它是中枢神经精密加工的核心成果，使用 incidental 会在语义和话语基调上构成不可调和的对立。"
+    },
+    "translation": "通过综合零散的视觉线索、听觉输入与前庭信号，神经系统建构起一种关于身体平衡的统一合成知觉，这种知觉绝非简单的感官还原论所能解释。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

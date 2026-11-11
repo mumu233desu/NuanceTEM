@@ -114,12 +114,12 @@
     },
     {
       "group_id": 257,
-      "group_name": "repine, nag, bitch, lament",
+      "group_name": "repine, nag, carp, lament",
       "target_word": "repine",
       "words": [
         "repine",
         "nag",
-        "bitch",
+        "carp",
         "lament"
       ],
       "pos": "v",

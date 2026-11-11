@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b69_01",
+    "group_id": 691,
+    "group_name": "abase, affront, sting, humble",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Far from displaying genuine penitence or modest contrition, the disgraced oligarch chose to ___ himself through groveling sycophancy, trading away his remaining dignity solely to placate the authoritarian regime.",
+    "options": [
+      "abase",
+      "affront",
+      "sting",
+      "humble"
+    ],
+    "answer": "abase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首转折对比状语'Far from displaying genuine penitence or modest contrition'与后文'through groveling sycophancy, trading away his remaining dignity'形成决定性语义锚点。反身结构搭配下，虽然humble亦可接oneself，但humble侧重于抑制骄傲、出于谦逊或道德自省而放低姿态（与前句contrition同向，故被Far from否定）；唯有abase精准表达为了迎合强权而进行奴颜婢膝的自我贬损与体统丧失（suggests a loss of dignity, prestige, or self-respect by groveling）。affront与sting在及物反身句法及语境语义上均彻底不适配。",
+    "distractor_analysis": {
+      "abase": "正确。Merriam-Webster明确指出，abase特指因卑屈迎合或奴才举动而使自身地位、名誉或尊严扫地（suggests a loss of dignity, prestige, or self-respect, often by groveling or submissive behavior）。本题中'abase himself'与后文的'groveling sycophancy'（卑躬屈膝的逢迎）以及'trading away his remaining dignity'（彻底出卖最后的尊严）形成严密的语义呼应，语体色彩高度吻合。",
+      "affront": "错误。affront意为'当面侮辱、公开冒犯'（to insult to one's face; cause offense to），为及物动词，通常接他人或尊严为宾语（如affront sb. / affront one's dignity），在英语中极少作反身动词（affront oneself）；且其'冒犯/冒渎'之意与句中'屈膝讨好以求自保'的逻辑方向南辕北辙。",
+      "sting": "错误。sting本义为'刺伤、叮蜇'，引申为'使感到刺痛、激怒或激起痛苦反应'，既不存在'sting oneself'表示自我贬低的惯用法，在语义逻辑上也完全无法与'through groveling sycophancy'相衔接。",
+      "humble": "错误。humble虽常用于反身结构（humble oneself），但Merriam-Webster同义辨析着重指出，humble侧重于抑制傲慢、展现谦逊，通常作为一种道德美德或得体认错的表现（suggests a lowering in pride or arrogance, often as an act of modesty or virtue）。句首已用'Far from displaying genuine penitence or modest contrition'明确否定了正向的'悔过与克制傲气'，若填入humble将导致句子前后逻辑矛盾；只有代表无底线自贬自践的abase符合语境贬义内涵。"
+    },
+    "translation": "这位失势的寡头绝非在展现真诚的忏悔或适度的悔悟，而是选择通过卑躬屈膝的谄媚来极力自我贬损，纯粹为了安抚威权政权而将自己仅存的尊严彻底弃置不顾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_02",
+    "group_id": 691,
+    "group_name": "abase, affront, sting, humble",
+    "level": "TEM-8",
+    "target_word": "affront",
+    "question": "The visiting delegate's brazenly condescending remarks threatened to ___ the delicate sensibilities of the host government, nearly derailing the bilateral summit before formal negotiations had even commenced.",
+    "options": [
+      "abase",
+      "affront",
+      "sting",
+      "humble"
+    ],
+    "answer": "affront",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "宾语 the delicate sensibilities 构成了严格的词汇搭配与语义选择限制；MW 词典权威释义明确标注 affront 意为 'to offend the modesty or values of'，并直接给出典范搭配 <affronted their sensibilities>（冒犯敏感神经/价值观）。",
+    "distractor_analysis": {
+      "abase": "错误。abase 的支配对象必须是“具有社会地位、尊严或声望的个体或团体自身”（如 abase oneself / abase a proud prince），意在降低身份地位，在动宾搭配上绝不能接抽象的情感反应或价值尺度名词 *abase the sensibilities。",
+      "affront": "正确。affront 表示“公然侮辱，公然冒犯”，韦氏词典核心义项为“to offend the modesty or values of”，其最经典的高阶学术与政论搭配即为 affront one's sensibilities（冒犯某人的情感/敏感神经），与句中 brazenly condescending remarks（傲慢居高临下的言论）形成的冒犯性语境完全吻合。",
+      "sting": "错误。sting 表示“刺伤，激怒”，通常以具体的被伤害者为直接宾语（如 sting the minister with criticism），或搭配 pride/conscience（刺痛良心/傲气），但与 the delicate sensibilities 搭配极不地道，且 sting 侧重于瞬时的刺痛感，无法体现外交语境中那种公然、蓄意挑战对方尊严与禁忌的冒犯性（deliberate, insolent offense）。",
+      "humble": "错误。humble 作为及物动词意为“击溃……的傲气，使……俯首称臣”，宾语通常是强大的对手、狂妄的帝国或某人的 pride，不能与 the sensibilities 搭配（*humble the sensibilities 属于语用搭配断裂）。"
+    },
+    "translation": "这位来访代表公然居高临下的傲慢言论极有可能冒犯东道国政府敏感的神经，在正式谈判尚未开启之际就险些使这场双边峰会彻底脱轨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_03",
+    "group_id": 692,
+    "group_name": "abbreviate, cut, reduce, abridge",
+    "level": "TEM-8",
+    "target_word": "abbreviate",
+    "question": "Contributors to the archaeological journal are explicitly instructed to ___ lengthy bibliographic titles in the footnotes, converting cumbersome institutional names into standardized, recognizable acronyms for the sake of typographic economy.",
+    "options": [
+      "abbreviate",
+      "cut",
+      "reduce",
+      "abridge"
+    ],
+    "answer": "abbreviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "搭配宾语 'lengthy bibliographic titles' 以及后置伴随状语 'converting cumbersome institutional names into standardized, recognizable acronyms' 构成了决定性排他锚点。英语中唯有 abbreviate 专指对词语、专有名词或标题进行正字法/形态学层面的缩写（特别是缩减为首字母缩略词 acronyms）；abridge 搭配的对象必须是篇幅宏大的完整文本或著作本身，绝不能用于缩写‘标题/名称’。",
+    "distractor_analysis": {
+      "abbreviate": "正确。根据《韦氏词典》，abbreviate 意为 'to reduce (a word or name) to a shorter form intended to stand for the whole'。其典型搭配即为 abbreviate a title/word/name/phrase，本句宾语为 'bibliographic titles'（文献标题），后接 'into... acronyms'，在学术引注规范的语境下，abbreviate 是唯一在语义特异性与学术搭配上完全吻合的动词。",
+      "abridge": "错误。abridge 指通过删节、凝练或摘编等方式缩短一部长篇文字作品（如小说、典籍、词典、法律条文等）的篇幅，同时保留其核心主旨（如 an abridged edition of a novel）；它不能用来修饰单个的 'title' 或 'name'，更无法搭配将单词缩写为首字母缩写词（acronyms）的正字法转换过程，属于典型的搭配对象范畴错配（category mismatch）。",
+      "reduce": "错误。reduce 是外延极其宽泛的一般性动词，意为在数量、程度、尺寸或价格上‘缩减、降低’。若与 'bibliographic titles' 搭配，'reduce titles' 会产生严重歧义（如削减文献条目数量或降低头衔），无法准确表达将长标题‘缩略/简写为首字母缩写’的形态学概念，缺乏专指性。",
+      "cut": "错误。cut 属于口语或新闻英语中较为粗粝的常用词，意为‘删除、削减’（如 cut funding/scenes/lines）。若在句中使用 'cut titles'，其语义偏向于将文献标题直接‘剔除/删去’，这与后文伴随状语中所述的‘转换为标准缩略词’（保留信息但精简形式）产生直接的逻辑冲突，且语域风格不够严谨、正式。"
+    },
+    "translation": "该考古学期刊明确要求投稿人须在脚注中缩写冗长的文献标题，将繁琐的机构名称转换为规范、易辨识的首字母缩略词，以节约版面排版空间。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_04",
+    "group_id": 692,
+    "group_name": "abbreviate, cut, reduce, abridge",
+    "level": "TEM-8",
+    "target_word": "abbreviate",
+    "question": "Compelled by sudden cabinet instability at home, the plenipotentiary was forced to ___ his scheduled diplomatic visit to the Baltic states, departing two days ahead of the bilateral summit.",
+    "options": [
+      "abbreviate",
+      "cut",
+      "reduce",
+      "abridge"
+    ],
+    "answer": "abbreviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "his scheduled diplomatic visit to the Baltic states, departing two days ahead of the bilateral summit (shortening the duration of a scheduled event)",
+    "distractor_analysis": {
+      "abbreviate": "正确。Merriam-Webster 同义词辨析专条指出：'ABBREVIATE suggests a making shorter in length, duration, or extent, typically of something having a fixed or normal length or duration'（特指缩短原本具有固定或既定时长的事物的时间或持续期，官方典题即为 abbreviated his visit）。句中宾语为具有预定日程的活动 'his scheduled diplomatic visit'，后文 'departing two days ahead of...' 构成决定性的时长缩短锚点，在高级正式公文与外交语境中唯有 abbreviate 最为典雅契合。",
+      "cut": "错误。在表达提前终止行程或缩短停留时间时，现代英语必须使用固定短语 'cut short'（如 cut short his visit）；单独使用及物动词 cut 接 visit 属于严重搭配不当与口语化省略，且 cut 本身缺乏使既定日程在时间上缩短的正式语义。",
+      "reduce": "错误。reduce 表达减少时，必须支配具有度量属性的抽象名词（如 reduce the duration of the visit, reduce the budget），无法直接支配具体事件、行程或访问（不能说 reduce a visit 来表示缩短行程的时间）。",
+      "abridge": "错误。abridge 的用法严格受限，仅用于书籍、文献、长篇演说等文本材料的节略（abridge a text），或宪法与法律权利的削减（abridge privileges），绝不能用于削减现实事件或外交访问的实际持续时间。"
+    },
+    "translation": "因国内内阁突发政局动荡，全权特使被迫缩短了对波罗的海国家的预定外交访问，在双边峰会召开前两天便启程回国。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_05",
+    "group_id": 693,
+    "group_name": "abhor, loathe, scorn, despise",
+    "level": "TEM-8",
+    "target_word": "abhor",
+    "question": "Although the extremist faction defended its tactical necessity, civilized nations universally ___ political assassination, condemning the practice as an intolerable assault on international law and fundamental human decency.",
+    "options": [
+      "abhor",
+      "loathe",
+      "scorn",
+      "despise"
+    ],
+    "answer": "abhor",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为国家政治实体“civilized nations”，搭配副词“universally”，宾语为极其严重的政治暴行“political assassination”，后接“an intolerable assault on international law and fundamental human decency”。《韦氏词典》明确指出：“ABHOR implies a deep-seated, often moral repugnance or aversion”，并给出权威搭配例证“a crime abhorred by all”。在高度正式的国际政治与法理语域中，唯有 abhor 能够准确表达对严重违背人类公义与法律底线的罪行所持有的原则性痛绝与道义谴责。",
+    "distractor_analysis": {
+      "abhor": "正确。动词，指基于崇高道德准则或根本原则对邪恶、暴行产生的“深恶痛绝、痛恨”。在正式的政治哲学和国际公法语境中，“universally abhor political assassination / violence”是经典的标准学术搭配，与句中人类文明公义（human decency）的宏大语域完全契合。",
+      "loathe": "错误。动词，侧重指由个人感官不适或极端反感所引发的“生理性作呕、极度讨厌”（visceral disgust or physical intolerance）。国际社会或主权国家针对政治暗杀罪行作出的严正声讨属于理性与道义层面的抵制，使用 loathe 带有过于个人化和情绪化的生理排斥色彩，造成语域严重失谐。",
+      "scorn": "错误。动词，意为“轻蔑、藐视；不屑于”（to treat with contempt; reject as unworthy），其语义核心是居高临下的鄙视或将某物视为不值一提而轻蔑拒绝（如 scorn an offer）。国际社会绝不会将严重的“政治暗杀”轻蔑地视作“不足挂齿之物”，在逻辑评价和语义场上完全不通。",
+      "despise": "错误。动词，意为“鄙视、看不起”（to look down on with contempt），多用于对软弱、卑鄙、下作之人或品行表达居高临下的蔑视（如 despise cowards）。面对具有巨大杀伤力和破坏性的政治暗杀，国际社会表达的是道义上的震恐与谴责，而非人格上的俯视蔑视。"
+    },
+    "translation": "尽管该极端派系为其策略上的必要性百般辩解，文明国家仍一致对政治暗杀深恶痛绝，谴责这种行径是对国际法和人类基本尊严不可容忍的践踏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_06",
+    "group_id": 693,
+    "group_name": "abhor, loathe, scorn, despise",
+    "level": "TEM-8",
+    "target_word": "loathe",
+    "question": "In his candid memoirs, the reclusive novelist confessed that he had come to ___ the mere sight of literary galas, experiencing an acute visceral revulsion whenever forced into superficial salon banter.",
+    "options": [
+      "abhor",
+      "loathe",
+      "scorn",
+      "despise"
+    ],
+    "answer": "loathe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“the mere sight of...”（一看到……）直接呼应《韦氏词典》关于 loathe 的核心专有例证“loathed the mere sight of them”；同时后文“experiencing an acute visceral revulsion”（体会到一种强烈的生理性反胃感）精准锁定了 loathe 独有的核心义项——强调生理层面的极度反感、作呕与感官难以容忍（visceral disgust and physical intolerance）。其余三词均无此感官性与句式搭配特征。",
+    "distractor_analysis": {
+      "loathe": "正确。动词，意为“极度厌恶、憎恶”。《韦氏词典》强调：“LOATHE implies utter disgust and intolerance”，并载有权威经典例证“loathed the mere sight of them”。句中的“the mere sight of”与“visceral revulsion”（生理反胃感）是其决定性的词汇搭配与语意锚点，精准表现了作家对社交聚会产生的情感作呕与强烈不适。",
+      "abhor": "错误。动词，意为“深恶痛绝”。abhor 专用于对违反道德规范、社会伦理或抽象原则的事物（如残酷、暴政、欺骗）表达严肃的道义退缩与反感（moral horror），不用于描述个人在感官上对世俗聚会产生的生理性厌烦，亦不能与“the mere sight of”搭配表达生理厌恶。",
+      "scorn": "错误。动词，意为“藐视、不屑一顾”。scorn 表明一种傲慢的评价态度，常接表示提议或谄媚的抽象名词（如 scorn flattery），或后接不定式（scorn to do）；它既不能与“the mere sight of”构成表示厌烦的固定搭配，也无法与后文表示躯体感受的“visceral revulsion”形成语义衔接。",
+      "despise": "错误。动词，意为“鄙视、轻视”。despise 侧重于认定对象卑下、无能或道德低劣而投以鄙夷的目光（look down upon as base or worthless）。其核心是价值评判而非感官排斥，不能用来搭配由“the mere sight of”引发的生理作呕体验。"
+    },
+    "translation": "在其坦诚的个人回忆录中，这位深居简出的作家坦白自己早已对各种文学名流盛会深感厌恶、一见便作呕，每当被迫卷入浮华的沙龙闲聊时，他都会体验到一种强烈的生理性反感。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_07",
+    "group_id": 694,
+    "group_name": "abstain, forbear, help, save",
+    "level": "TEM-8",
+    "target_word": "abstain",
+    "question": "Confronted with conflicting diplomatic directives, the ambassador instructed the mission to ___ on the contentious sanctions resolution, thereby avoiding an overt rupture with both major economic blocs.",
+    "options": [
+      "abstain",
+      "forbear",
+      "help",
+      "save"
+    ],
+    "answer": "abstain",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational and syntactic pairing with 'on the contentious sanctions resolution' to signify formal diplomatic non-voting, reinforced by the clause 'thereby avoiding an overt rupture'.",
+    "distractor_analysis": {
+      "abstain": "正确。在国际外交与议会表决程序中，abstain on a resolution 为标准制度性搭配，意为“在某项决议的表决中投弃权票/弃权”。句中“on the contentious sanctions resolution”是决定性搭配锚点，且与后文“avoiding an overt rupture with both major economic blocs”（避免与两大经济阵营公开破裂）的政治中立逻辑完全契合。",
+      "forbear": "错误。forbear 意为“克制、容忍”，其后通常接 to-infinitive 或 from + 动名词，不能与介词 on 连用表达程序性表决中的“弃权”（不存在 forbear on a resolution 的搭配）；且该词侧重个体在受到挑衅时的宽容与自我克制，不适用于主权代表在多边机制下的程序性行为。",
+      "help": "错误。help on 意为“在某方面提供协助”，若填入句中则表示代表团“协助推动该制裁决议”，这与后文非谓语从句所呈现的“避免与两大阵营破裂”的避险逻辑直接矛盾（主动推进制裁必然打破中立，引发外交决裂）。",
+      "save": "错误。save on 为习语搭配，意为“节省、节约（开支或成本）”，后接资金、资源类名词（如 save on costs），与“制裁决议”搭配在语义与语用层面均完全不成立。"
+    },
+    "translation": "面对相互冲突的外交训令，大使指示代表团在该争议性制裁决议上投弃权票，从而避免了与两大主要经济阵营发生公开决裂。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_08",
+    "group_id": 694,
+    "group_name": "abstain, forbear, help, save",
+    "level": "TEM-8",
+    "target_word": "forbear",
+    "question": "Under the doctrine of judicial restraint, appellate courts must ___ to intervene in legislative policymaking unless a statute clearly contravenes established constitutional principles.",
+    "options": [
+      "abstain",
+      "forbear",
+      "help",
+      "save"
+    ],
+    "answer": "forbear",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Syntactic licensing of a 'to-infinitive' complement ('to intervene') combined with the legal philosophy context of 'judicial restraint' requiring institutional self-denial.",
+    "distractor_analysis": {
+      "forbear": "正确。forbear to do sth 为高级学术与法学英语中的规范搭配，意为“克制、自律而不做某事”。在法理学语境中，“judicial restraint”（司法克制原则）要求上诉法院在没有明确违宪事实时，必须自觉克制对立法决策的介入，forbear 既完美接续不定式补足语（to intervene），又精准体现了司法自抑的哲学内涵。",
+      "abstain": "错误。存在绝对句法排他。abstain 表达“戒除、克制不做某事”时为严格的介词动词，必须接介词短语 from doing（即 abstain from intervening），在现代规范英语中绝对不能直接跟动词不定式（*abstain to intervene 属于严重句法错误）。",
+      "help": "错误。存在逻辑与法理反转。help to intervene 意为“协助干预、促成介入”，这与主语所受的限定前提“doctrine of judicial restraint”（司法克制原则——即司法权不得随意干涉立法权的核心法理）构成根本性的语义逻辑对立。",
+      "save": "错误。save 作动词时表示“救助、保存、储蓄”，无“自我克制、忍耐”之意，且无法与后文 to intervene in legislative policymaking 形成通顺的句法与语义衔接。"
+    },
+    "translation": "根据司法克制原则，上诉法院必须克制介入立法决策，除非相关法规明显违背既定的宪法原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_09",
+    "group_id": 695,
+    "group_name": "accede, defer, bow, submit",
+    "level": "TEM-8",
+    "target_word": "accede",
+    "question": "Convinced by the rigorous empirical findings, the regulatory board chose not to contest the proposed standards but rather to ___ to the advisory panel's formal request.",
+    "options": [
+      "accede",
+      "defer",
+      "bow",
+      "submit"
+    ],
+    "answer": "accede",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首分词短语 'Convinced by the rigorous empirical findings' 表明主体是基于理性论据主动认同，而后接的核心搭配对象是 'to the advisory panel's formal request'。在四个选项中，只有 accede to 具备'正式应允、批准（请求、提议或要求）'的特定制度与公文语体功能，完全契合主动同意的逻辑。",
+    "distractor_analysis": {
+      "accede": "正确。accede to 为正式学术及官方机构语境的高频固定搭配，意为'同意、应允（请求、提议、条款等）'（to agree to a request or demand）。句中 regulatory board 经充分论证后同意 panel 的 formal request，动宾搭配与语域色彩严丝合缝。",
+      "defer": "错误。defer to 意为'遵从、听从（他人的权威、意愿或专业判断）'（to yield respectfully to another's judgment or authority），其受词通常是人、专家团队或抽象的判断（如 defer to the panel / defer to expert judgment），不可与具体的事务性要求 'formal request' 形成直接搭配。",
+      "bow": "错误。bow to 意为'在压力、强制或不可抗力下屈服、低头'（to yield under duress or pressure），语义带有被迫与无奈退让的消极色彩。这与句首 'Convinced by the rigorous empirical findings' 所体现的主动、理性认可形成逻辑断裂与语用意图冲突。",
+      "submit": "错误。submit 作不及物动词与 to 连用时，意为'屈服于（统治、暴力、纪律）'或'使自己受制于（审查、裁决）'（to yield to governance or control; to undergo scrutiny），强调层级从属或完全丧失自主权；若要表达提交请求须用及物用法（submit a request），不可作不及物动词表达'同意请求'。"
+    },
+    "translation": "在被严谨的实证研究结果说服后，监管委员会决定不再对拟议的标准提出异议，而是选择同意顾问小组的正式请求。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_10",
+    "group_id": 695,
+    "group_name": "accede, defer, bow, submit",
+    "level": "TEM-8",
+    "target_word": "defer",
+    "question": "Lacking specialized training in statistical epidemiology, the senior bioethicist preferred to ___ to the methodologists' professional judgment regarding the validity of the clinical trial's sampling techniques.",
+    "options": [
+      "accede",
+      "defer",
+      "bow",
+      "submit"
+    ],
+    "answer": "defer",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首原因状语 'Lacking specialized training in statistical epidemiology' 明确界定了主体因认知局限而展现的专业谦逊，后接核心宾语 'to the methodologists' professional judgment'。在近义词中，只有 defer to 专指'出于对专业知识、权威或经验的尊重而遵从其判断'。",
+    "distractor_analysis": {
+      "accede": "错误。accede to 意为'应允、同意（外在的请求、要求、公约等）'，其搭配对象为外在的诉求实体（如 request, demand, proposal, treaty），不能与内在的认知意见或专业裁量 'judgment' 搭配，造成严重的语义和搭配脱节。",
+      "defer": "正确。defer to 为学术认知与决策语境的经典搭配，特指'出于尊重对方的专门知识、判断力或权威而听从、遵从其意见'（to yield respectfully to another's judgment or opinion），与句中的 bioethicist 听从 methodologists' professional judgment 构成无可争议的排他性契合。",
+      "bow": "错误。bow to 意为'被迫屈从于（压力、舆论、严酷现实）'，带有受迫妥协与不甘的消极色彩（如 bow to political pressure）。本句展示的是跨学科合作中合情合理的学术尊重与同行信任，使用 bow 会严重破坏文体基调与理性语境。",
+      "submit": "错误。submit to 意为'屈服于（强权、管辖）'或'受制于（法律制裁、全面审查）'，含有被动受制于外界统治秩序或接受居高临下裁决的受压意味，无法准确表达学术共同体内部基于认知分工的自愿遵从与信赖。"
+    },
+    "translation": "由于缺乏统计流行病学方面的专业训练，这位资深生物伦理学家更倾向于在临床试验抽样技术的有效性问题上听从方法学家的专业判断。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_11",
+    "group_id": 696,
+    "group_name": "accentuate, stress, accent, emphasize",
+    "level": "TEM-8",
+    "target_word": "accentuate",
+    "question": "Experimental findings demonstrate that acute cognitive fatigue does not merely dampen overall alertness; it directly serves to ___ pre-existing perceptual asymmetries, transforming subtle processing discrepancies into debilitating cognitive deficits.",
+    "options": [
+      "accentuate",
+      "stress",
+      "accent",
+      "emphasize"
+    ],
+    "answer": "accentuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的主语是非生命生理状态（acute cognitive fatigue），宾语为潜在的结构性差异（pre-existing perceptual asymmetries），后接表实际致使性结果的分词短语（transforming subtle processing discrepancies into debilitating cognitive deficits）。此语境决定了所填动词必须具备“加剧、使……显著突出、使恶化”（intensify / make more prominent）的内在致使性语义；stress（施加物理/机械应力，或口头强调）、accent（加重音、缀以装饰）与emphasize（言语/认知上的修辞性强调）均无法在不具备主观交际意图的前提下表示“使既有缺陷/差异在现实中加剧恶化”，因而在搭配与逻辑上被绝对排除。",
+    "distractor_analysis": {
+      "accentuate": "正确。accentuate在此处取韦氏词典的核心义项“to intensify; to make more prominent or noticeable”（加剧、使……更加显著突出）。在认知科学与学术英语中，该词常与disparities、asymmetries、deficits、cleavages等搭配，表示某种生理机制或客观外部因素使潜在的失衡与差异急剧加剧并凸显出来，完美契合后文“将细微差异转化为严重功能缺陷”的致使性因果逻辑。",
+      "stress": "错误。stress作及物动词时，其一指在言语或论证中“强调、着重提出”（如stress the importance of），需要具有交际意图的人类主语，非生命的“认知疲劳”无法作为主体去修辞性强调“不对称性”；其二指“对……施加物理/机械应力或使其承受心理重压”（如stress the structural materials / stress the patient），不能以“perceptual asymmetries（不对称性）”这类抽象状态作为承受应力的对象，属于语义搭配断裂。",
+      "accent": "错误。accent作及物动词时，其主要用法局限于语音学上的“读重音”（accent a syllable）、正字法上的“标重音符号”（accent a vowel），或在美学/设计语境中表示“以对比细节予以点缀/衬托”（常与with连用，如accented with bright colors）。它在现代学术与医学认知语境中完全不能用于描述神经、认知失衡或缺陷的“加剧”与“激化”，语体及词义严重不符。",
+      "emphasize": "错误。emphasize属于典型的交际与修辞动词，指“在言语、文字或注意力上给予特别重视/强调”（to give special importance to something in speaking or writing）。尽管其释义在某些词典中被用作accentuate的同义解说，但emphasize严格强调主观意志或认知层面的“侧重”，完全不具备accentuate所独有的“intensify / deepen / aggravate（在客观实体层面加剧、恶化某一状况）”的致使性含义。疲劳并不会“修辞性地强调”缺陷，而是“实质性地激化”缺陷，填入emphasize会产生严重的逻辑范畴错误（category mistake）。"
+    },
+    "translation": "实验结果表明，急性认知疲劳不仅会削弱整体警觉度，还会直接加剧既有的知觉不对称性，将细微的信息处理差异转化为破坏性的认知缺陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_12",
+    "group_id": 696,
+    "group_name": "accentuate, stress, accent, emphasize",
+    "level": "TEM-8",
+    "target_word": "accentuate",
+    "question": "Experimental findings in cognitive psychology indicate that severe sensory overload does not merely impair executive functioning, but tends to ___ pre-existing attentional biases, causing subjects to fixate disproportionately on perceived environmental threats.",
+    "options": [
+      "accentuate",
+      "stress",
+      "accent",
+      "emphasize"
+    ],
+    "answer": "accentuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为非人称生理/心理状态'severe sensory overload'（严重感官过载），宾语为'pre-existing attentional biases'（既有的注意偏向），后文结果状语为'causing subjects to fixate disproportionately...'。此处考查该动词在行为认知科学中'加剧、使……更严重或更尖锐'（INTENSIFY）的核心内涵，强调该状态使原有的心理偏向进一步深化恶化。",
+    "distractor_analysis": {
+      "accentuate": "【正选】韦氏词典核心释义明确包含'INTENSIFY'（加剧、深化、强化）。在认知心理学与系统分析中，accentuate pre-existing biases/disparities为固定学术表达，指某种负面压力或环境冲击使既有的结构性缺陷、认知失真或心理偏向'变得更加剧烈、突出'，逻辑严丝合缝。",
+      "stress": "【排除】意为'强调……的重要性'或'使承受压力'。'感官过载'作为一种病理/生理状态，无法充当施动者对'认知偏向'进行言语或论证层面的强调；'stress a bias'在英语中极度不自然且无'加剧心理偏向'之义。",
+      "accent": "【排除】语义局限于语音重读、节拍重音或器物装潢细节的点缀修饰，完全不具备心理学中'激化、加重某种认知缺陷或思维定势'的引申语义维度。",
+      "emphasize": "【排除】核心语义为'通过陈述、说明强调某一事实或观点的重大意义'。感官过载无法执行'强调某一偏见之重要性'的认知功能，且emphasize本身不含'使病态倾向或矛盾加剧恶化（intensify/sharpen）'的动态演变义。"
+    },
+    "translation": "认知心理学的实验结果表明，严重的感官超载不仅会损害执行功能，还往往会加剧个体原有的注意偏向，导致受试者对感知到的环境威胁产生过度聚焦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_13",
+    "group_id": 697,
+    "group_name": "acclaim, hail, cheer, herald",
+    "level": "TEM-8",
+    "target_word": "acclaim",
+    "question": "Although the retrospective exhibition garnered widespread critical ___ upon its European debut, several conservative academics argued that its radical deconstructivist framing ultimately compromised historical fidelity.",
+    "options": [
+      "acclaim",
+      "hail",
+      "cheer",
+      "herald"
+    ],
+    "answer": "acclaim",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ARTS",
+    "anchor_clue": "High-register verbal-nominal collocational nexus 'garnered widespread critical ___', requiring an uncountable noun denoting authoritative praise and aesthetic commendation; only 'acclaim' functions as an uncountable noun of praise, while 'hail' (precipitation/barrage), 'cheer' (vocal shout/mood), and 'herald' (countable noun meaning harbinger) fail syntactically and semantically.",
+    "distractor_analysis": {
+      "acclaim": "正确。acclaim 作不可数名词时，意为“（公众或批评界的）高度赞誉、称赞”（enthusiastic and public praise），与形容词 critical 以及动词 garner 构成极高频且正统的学术与艺术评论界固定搭配“garner critical acclaim”（赢得批评界赞誉/好评），语义及语体质感完美切合。",
+      "hail": "错误。hail 作名词时仅指“冰雹”或比喻意义上的密集倾泻（如 a hail of bullets/criticism，倾泻而下的子弹/密集的抨击批评），英语中绝无作为不可数名词表示“赞扬、称誉”的用法；若强行视为比喻义名词，亦须构成“a hail of...”结构，填入此处会导致句法与语义双重破裂。",
+      "cheer": "错误。cheer 作不可数名词时意为“欢欣、愉快的心境”（如 be of good cheer）或“节日饮食”；作“欢呼声、喝彩”讲时则为可数名词且多用复数形式（cheers）。在学术艺术评论语域中既不存在“critical cheer”表示“批评界赞赏”的搭配，亦无法与及物动词 garner 构成合法搭配。",
+      "herald": "错误。herald 作名词时为可数名词（须带冠词 a/the 或以复数形式出现），意为“先驱、前兆”（harbinger/forerunner）或“使者、传令官”。空格前受形容词修饰且无任何冠词，填入单数形式的 herald 违反名词数与冠词的句法规则，且语义完全脱节。"
+    },
+    "translation": "尽管该回顾展在欧洲首次亮相时便赢得了批评界的广泛赞誉，但几位保守派学者仍认为，其激进的解构主义构架最终损害了历史真实性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_14",
+    "group_id": 697,
+    "group_name": "acclaim, hail, cheer, herald",
+    "level": "TEM-8",
+    "target_word": "acclaim",
+    "question": "Although the revisionist monograph garnered widespread critical ___ for its archival rigor, conservative historiographers vehemently contested its provocative thesis regarding the socioeconomic origins of the imperial collapse.",
+    "options": [
+      "acclaim",
+      "hail",
+      "cheer",
+      "herald"
+    ],
+    "answer": "acclaim",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ACADEMIC_RESEARCH",
+    "anchor_clue": "Direct syntactic and collocational selection of the uncountable abstract noun 'acclaim' following 'garnered widespread critical' ('garner critical acclaim for...'); 'hail' as a noun denotes only precipitation or a barrage, 'cheer' as an uncountable noun denotes mood/gaiety, and 'herald' is strictly a countable noun denoting a harbinger or messenger.",
+    "distractor_analysis": {
+      "acclaim": "正确。acclaim 可作不可数名词，专指公开、热烈的高度赞赏与推崇。在此处与“widespread critical”（学界/评论界广泛的）构成学术批评语境下的权威固定搭配（garner/receive critical acclaim for sth.），完美充当动词 garnered 的宾语，并在让步从句中与主句保守派学者激烈的反驳（vehemently contested）形成清晰的篇章对立。",
+      "hail": "错误。hail 作名词时在现代标准英语中绝无“赞誉、喝彩”的抽象不可数语义；其名词义仅指“冰雹”（不可数）或比喻意义上的“密集阵、如雹般倾泻而来的事物”（如 a hail of bullets / a hail of criticism）。在句中与 critical 构成严重的搭配断裂，且若取“密集抨击”之意不仅语法残缺（缺少冠词 a 与介词 of），还会彻底破坏 Although 引导的让步转折逻辑。",
+      "cheer": "错误。cheer 作不可数名词时语义为“欢快的心情、兴高采烈”（如 be of good cheer）或“节庆饮食”（holiday cheer）；作“欢呼声、喝彩声”解时为纯粹的可数名词（a cheer / cheers）。学术专著不可能获得学术界的“critical cheer”（既非严肃学术用语，也存在语法数与语义范畴的严重偏离）。",
+      "herald": "错误。herald 作为名词是完全可数的具体名词，指“预兆、先驱”（a herald of change）或历史上的“传令官、使者”。本句中空白处为无冠词修饰的及物动词单数宾语，填入 herald 将导致单数可数名词裸用的语法错误；且专著因考据严谨而获得“信使/先兆”在语义逻辑上亦完全不通。"
+    },
+    "translation": "尽管这部修正主义历史专著因其严谨的史料考证赢得了学界的广泛赞誉，但保守派历史学家仍对其关于帝国崩溃社会经济根源的激进论点提出了激烈反驳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_15",
+    "group_id": 698,
+    "group_name": "accredit, franchise, charter, recognize",
+    "level": "TEM-8",
+    "target_word": "accredit",
+    "question": "Following an exhaustive peer review of curriculum rigor and faculty research output, the national commission voted unanimously to ___ the private university for a renewed seven-year term.",
+    "options": [
+      "accredit",
+      "franchise",
+      "charter",
+      "recognize"
+    ],
+    "answer": "accredit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“peer review of curriculum rigor”（课程严谨度的同行评审）与“for a renewed seven-year term”（为期七年的延期认证）构成了学术与专业机构评估的决定性情境；在英语制度语境中，专指权威认证委员会对教育机构是否符合学术标准进行周期性考核并正式授予合格资质的动词唯有 accredit。",
+    "distractor_analysis": {
+      "accredit": "正确。accredit 意为“官方认证；鉴定……合格”，特别指专业认证机构依据既定学术、技术或操作规范，对大学、学院、专业项目或实验室进行严格评估后正式认可其达到标准（MW: to recognize or vouch for as conforming to a standard）。句中的课程与学术产出审核及有期限的延期认证（for a renewed seven-year term）是该词的经典搭配场景。",
+      "franchise": "错误。franchise 作动词意为“赋予特许经营权”或“赋予选举权/公民权”，主要用于商业加盟模式或宪政选举权，与高校学术委员会对科研与教学质量的达标认证毫无语义关联。",
+      "charter": "错误。charter 指国家元首、政府或立法机关通过颁发“特许状/特许宪章”来依法设立、创办某法人实体（如设立大学、银行或自治市，如 chartered by Royal decree），具有一次性法律创制的性质；它不用于在既有大学运营过程中依据教学科研指标进行周期性的资格复审与合格延期。",
+      "recognize": "错误。recognize 词义过于宽泛，通常表示在认知上“承认……的存在、合法性或主权地位”（如承认国家或外交代表）；但在英美高等教育监管的法定行政程序中，不能用 recognize a university for a renewed term 来表示“周期性复核后通过认证”，缺乏 accredit 所具备的“对照质量基准核验达标”的专业制度色彩。"
+    },
+    "translation": "在对课程严谨度与教师科研成果展开详尽的同行评审之后，国家委员会一致投票通过，正式为这所私立大学换发为期七年的办学资质认证。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_16",
+    "group_id": 698,
+    "group_name": "accredit, franchise, charter, recognize",
+    "level": "TEM-8",
+    "target_word": "franchise",
+    "question": "Rather than opening company-owned branches across overseas markets, the retail conglomerate resolved to ___ vetted local entrepreneurs, empowering them to operate branded outlets under strict quality guidelines.",
+    "options": [
+      "accredit",
+      "franchise",
+      "charter",
+      "recognize"
+    ],
+    "answer": "franchise",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首“Rather than opening company-owned branches”（与其开设直营分店）与后文“operate branded outlets”（经营品牌门店）形成了商业扩张模式中“直营”（company-owned）与“特许经营/加盟”（franchising）的绝对语义对立；在商业法律与组织行为语境中，向独立创业者授予品牌经营权的动词唯有 franchise。",
+    "distractor_analysis": {
+      "franchise": "正确。franchise 作为及物动词，核心义项为“向……授予特许经营权”（MW: to grant a commercial franchise to）。句中跨国零售集团决定不采取直营开店模式，转而授权经审核的本地创业者使用其品牌自主经营门店，完全符合 franchise 的专业商业内涵与及物用法。",
+      "accredit": "错误。accredit 意为“官方认定合格；委任（外交使节）”，专用于学术机构资质认证、实验室技术标准达标或外交公使派出，无法用于商业母公司向加盟商授权销售品牌产品的场景。",
+      "charter": "错误。charter 作动词指国家或君主通过特许状“特许设立（公司、城市等）”，或商业上的“包租（船只、飞机）”。企业绝不可能“charter 独立创业者”来开设零售分店，搭配与语境完全脱节。",
+      "recognize": "错误。recognize 仅表示“承认、认可、赏识”。句中涉及的是具体的商业特许法律授权行为，使得受许人获得经营品牌分店的专营权能，使用泛指的 recognize 既无法体现特许加盟的专有法律关系，也无法与前半句的 company-owned branches 构成严谨的商业模式对比。"
+    },
+    "translation": "这家零售巨头并未在海外市场开设直营分店，而是决定向通过资质审核的当地创业者授予特许经营权，授权他们在严格的质量规范下运营品牌门店。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_17",
+    "group_id": 699,
+    "group_name": "accrue, wax, add, full",
+    "level": "TEM-8",
+    "target_word": "accrue",
+    "question": "Development economists frequently observe that while trade liberalization stimulates macro-level expansion, the resulting technological spillovers and economic benefits rarely ___ to impoverished agrarian communities without targeted state intervention.",
+    "options": [
+      "accrue",
+      "wax",
+      "add",
+      "full"
+    ],
+    "answer": "accrue",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中主语为“technological spillovers and economic benefits”，后接介词短语“to impoverished agrarian communities”，构成“(benefits/advantages) accrue to sb”的经典学术与法经搭配，表示利益、权益“自然归属于/逐渐落到某方”。其余选项均存在严重的句法介词冲突或语义语体断裂。",
+    "distractor_analysis": {
+      "accrue": "正确。accrue在此处作不及物动词，与介词to构成固定搭配（accrue to sb/sth），意为“（利益、收益或优势）自然增长并归于某人/某方”。完全契合句中发展经济学关于“贸易红利自然惠及/归于边缘群体”的高阶学术语境与句法框架。",
+      "wax": "错误。wax作不及物动词常指“（月亮）渐圆”或“（势力、情感）增强、渐盛”（如wax and wane），亦可用作系动词（如wax poetic）。它既不能与表示受益主体的介词to连用，也不能表示利益的自然赋予或归属。",
+      "add": "错误。add若作不及物动词后接to（即add to sth），其核心语义是“使……增加/加大”（例如His presence added to our difficulties），其主语通常是造成增加的因素，而宾语是“被增加的某种特征或状态”。若填入add，句意将扭曲为“经济红利使贫困社区本身增加”，彻底背离原句“红利最终归属于受惠者”的受益逻辑与施受关系。",
+      "full": "错误。full作动词时为专门的纺织工艺用语，指“漂洗、缩绒（使毛织物紧缩增厚）”，在现代英语学术政经文本中作谓语表示“增长或归属”纯属语法与语义错误。"
+    },
+    "translation": "发展经济学家常常观察到，尽管贸易自由化能够刺激宏观层面的增长，但若缺乏精准的国家干预，由此产生的技术溢出效应和经济红利极少会自然惠及并归属于贫困的农业社群。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_18",
+    "group_id": 699,
+    "group_name": "accrue, wax, add, full",
+    "level": "TEM-8",
+    "target_word": "accrue",
+    "question": "Under statutory lending guidelines, unpaid finance charges will continue to ___ on deferred commercial obligations throughout the moratorium, thereby dramatically compounding the borrower's ultimate debt burden.",
+    "options": [
+      "accrue",
+      "wax",
+      "add",
+      "full"
+    ],
+    "answer": "accrue",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "主语为“unpaid finance charges（未付财务费用/利息）”，后接介词短语“on deferred commercial obligations（展期商业债务）”，构成金融法定术语“charges/interest accrue on sth”，特指利息或费用在规定时间内“周期性地累积/计提”。",
+    "distractor_analysis": {
+      "accrue": "正确。accrue在金融、会计与法律语境中具有绝对排他性专业内涵，指利息、股息、滞纳金等款项“按期累积、自然孳生”（to accumulate or be added periodically），常与介词on搭配表示“在某项本金或债务上计提产生”，完美契合主语finance charges与介词on。",
+      "wax": "错误。wax指物理形态或抽象势头上的增大、变强，属于文学化书面语，绝不能用于金融利息的计提或债务的周期性累加，与finance charges存在严重的专业语域冲突，且不能与介词on构成表“按本金孳生”的搭配。",
+      "add": "错误。add虽有“增加”之意，但表“追加/附加上”时多为及物短语（add A to B）或短语动词add on（且通常带宾语或用于被动语态，如a surcharge is added on）。在严谨的借贷与金融法文本中，不能用不及物动词add直接与on连用来表达“按期计息/累积产生费用”。",
+      "full": "错误。full用作动词仅局限于纺织行业“缩绒、缩呢”或极罕见的方言用法，在商业金融法规语境中完全无法充当谓语动词。"
+    },
+    "translation": "根据法定贷款指导方针，在延期还款期间，未偿付的财务费用将继续在延期的商业债务上累积计提，从而极大地加重借款人的最终债务负担。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_19",
+    "group_id": 700,
+    "group_name": "acquiesce, assent, accede, bargain",
+    "level": "TEM-8",
+    "target_word": "acquiesce",
+    "question": "Faced with overwhelming institutional pressure, the dissenting board members chose to ___ in the contentious buyout, offering neither enthusiastic endorsement nor vocal opposition during the final shareholder vote.",
+    "options": [
+      "acquiesce",
+      "assent",
+      "accede",
+      "bargain"
+    ],
+    "answer": "acquiesce",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "介词搭配 '___ in' 构成决定性语法排他（assent 与 accede 均只接 to，bargain 接 for/with）；同时语义锚点 'offering neither enthusiastic endorsement nor vocal opposition'（既不热烈支持亦不公开发声反对）精确锁定了 acquiesce 的核心义项——消极默许、无异议顺从。",
+    "distractor_analysis": {
+      "acquiesce": "【正确】acquiesce 意为“默许、勉强同意”，指虽有保留但不公开反对、消极顺从（MW: to accept, agree, or submit tacitly or passively）。在高端学术及政经文体中，acquiesce in 是高度典雅规范的固定搭配（如 acquiesce in a decision/policy）；且后文“既不热烈支持亦不发声反对”完美对应其消极顺从的语义色彩。",
+      "assent": "【排除】assent 意为“赞同、同意”，强调经过理智权衡后的积极认同或正式批准。语法上，assent 作不及物动词时严格后接介词 to（assent to sth.），绝不与 in 搭配（*assent in 为严重语法错误）；语义上也无法与消极沉默、不表支持的语境相吻合。",
+      "accede": "【排除】accede 意为“应允、让步”，多指在他人敦促、请求或外部施压下同意条件或要求。语法上，accede 必须与介词 to 连用（accede to demands/requests），无法接介词 in；因此在此处产生严重的句法断裂。",
+      "bargain": "【排除】bargain 意为“讨价还价、商讨条件”，通常接介词 for（争取…）或 with（与…协商），无法接 in 构成表示“接受协议”的结构；且句中董事会成员已经放弃抗争、选择沉默接受，与 bargain 所体现的积极谈判意图完全相反。"
+    },
+    "translation": "面对来自机构的巨大压力，持异议的董事会成员选择对这起备受争议的收购案保持默许，在最终的股东表决中既未表示热烈支持，也未公开发表反对意见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b69_20",
+    "group_id": 700,
+    "group_name": "acquiesce, assent, accede, bargain",
+    "level": "TEM-8",
+    "target_word": "assent",
+    "question": "Epistemologists emphasize that an autonomous inquirer cannot genuinely ___ to an empirical proposition without rigorous verification, because rational conviction demands deliberate cognitive concurrence rather than passive conformity or reluctant compromise.",
+    "options": [
+      "acquiesce",
+      "assent",
+      "accede",
+      "bargain"
+    ],
+    "answer": "assent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "核心搭配 '___ to an empirical proposition'（对经验命题表示赞同）是认识论与哲学语域的专有搭配；后文显性对比 'deliberate cognitive concurrence'（深思熟虑的认知赞同）直接定义了 assent，并明确排斥了 'passive conformity'（排除 acquiesce）与 'reluctant compromise'（排除 accede）。",
+    "distractor_analysis": {
+      "assent": "【正确】assent 意为“同意、赞成”，指经过深思熟虑后在理智或判断层面的主动认可（MW: to agree to something especially after thoughtful consideration; express concurrence of minds）。在哲学与认知领域，assent to a proposition（对某一命题首肯/认同）是极为经典的核心术语，完全契合后文的 deliberate cognitive concurrence（理智赞同）。",
+      "acquiesce": "【排除】acquiesce 强调“无声的妥协、消极默许”（tacit or passive compliance），而非出自理性认知的主动赞许。句中后半句明确指出“rather than passive conformity”（而非消极顺从），在语义逻辑上直接将 acquiesce 确切排除；且 acquiesce to a proposition 不符合认识论严肃用词规范。",
+      "accede": "【排除】accede to 常指在压力或恳求下“顺从、依从、答应条件/要求”（yield to requests/demands），体现为一种外在行为妥协。后半句的“rather than reluctant compromise”（而非勉强的妥协）在语义上直接排斥了 accede；且认知主体对科学/哲学“命题”的接受不能搭配 accede。",
+      "bargain": "【排除】bargain 意为“讨价还价、谈判交涉”，语法上不能接 to + 抽象命题（*bargain to a proposition 在语法和语义上均不成立），与句子所讨论的科学探究及认知确信毫无关联。"
+    },
+    "translation": "认识论学者强调，一个具有独立思考能力的探究者若无严谨的实证，绝不可能真正对某个经验命题表示认同，因为理性的确信需要深思熟虑的认知赞同，而非消极的盲从或勉强的妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b51_01",
+    "group_id": 511,
+    "group_name": "righteous, good, just, sound",
+    "level": "TEM-8",
+    "target_word": "righteous",
+    "question": "Propelled by an unyielding surge of ___ indignation, the human rights delegates walked out of the summit, refusing to negotiate with representatives whose hands were stained by documented atrocities.",
+    "options": [
+      "righteous",
+      "good",
+      "just",
+      "sound"
+    ],
+    "answer": "righteous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The noun phrase 'surge of ___ indignation' requires the established socio-moral collocation 'righteous indignation' (义愤), denoting an impassioned, morally elevated outrage provoked by egregious ethical transgressions (documented atrocities), which cannot be replaced by the procedural/legal 'just', the generic 'good', or the rational/empirical 'sound'.",
+    "distractor_analysis": {
+      "righteous": "正确。righteous与indignation构成英语中极高频且不可替代的固定修辞搭配（righteous indignation，义愤），专指因目睹违背公序良俗或人道底线的恶行（atrocities）而激起的、自居道德正当立场的强烈愤慨。句中'unyielding surge'与'refusing to negotiate'的高度道德谴责语境与righteous的情感色彩严密契合。",
+      "good": "错误。good语义过于宽泛、通俗且侧重功利或良善性质，既不能与indignation构成符合高阶学术与新闻政论规范的惯用搭配（*good indignation不合习惯），也无法体现面对严重暴行时那种崇高严正的道德审判力度。",
+      "just": "错误。just侧重于司法程序、制度理据或权益分配上的“公正、合法、应得”（如just desert, just trial）；尽管在逻辑上这种愤怒是“有正当理由的”（justified），但名词indignation的核心习语修饰词是righteous而非just，且just倾向于冷峻理性的法理衡平，与句中激越的情感爆发存在语意间隙。",
+      "sound": "错误。sound侧重于理智上的“稳健的、合乎逻辑的”或生理/财务上的“健全的”（如sound reasoning, sound policy），修饰带有非理性与道德激情的indignation属于严重的范畴错配（category mistake）。"
+    },
+    "translation": "在遏制不住的义愤驱使下，人权代表们愤然退出了峰会，坚决拒绝与那些双手沾满确凿暴行罪证的代表进行谈判。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_02",
+    "group_id": 511,
+    "group_name": "righteous, good, just, sound",
+    "level": "TEM-8",
+    "target_word": "righteous",
+    "question": "Swept up in a wave of ___ zeal, the revolutionary tribunal disregarded the defendant's procedural rights, convinced that their sacred mandate to purge corruption transcended the mundane constraints of statutory law.",
+    "options": [
+      "righteous",
+      "good",
+      "just",
+      "sound"
+    ],
+    "answer": "righteous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The context describes an ideological fanatical fervor driven by a perceived 'sacred mandate' that overrides 'procedural rights' and 'statutory law'. 'Righteous zeal' specifically captures this connotation of moral absolutism and self-congratulatory rectitude, whereas 'just' directly contradicts the violation of procedural equity.",
+    "distractor_analysis": {
+      "righteous": "正确。righteous在此处体现其在学术批评中常带有的“自命不凡的道德崇高感/道德自负”（self-righteous / moralistic absolutism）内涵，与zeal构成固定表达（righteous zeal，道德狂热）。句中'sacred mandate'（神圣使命）与凌驾于'statutory law'（成文法）之上的叙述，精准呼应了righteous植根于超验道德律令、自命正义而践踏程序的政治哲学色彩。",
+      "good": "错误。good表意扁平温和，侧重良性或正面品质，与充满排他性与狂热攻击性的zeal搭配失当（*good zeal不合惯用法），无法体现革命法庭那种极端意识形态化的道德傲慢。",
+      "just": "错误。just在法学与政治思想中核心指代“程序正义、合法合规、平等待遇”；句中特别强调法庭“disregarded the defendant's procedural rights”（践踏被告的诉讼程序权利），在严密的法理逻辑上与just形成直接的语义反义冲突（semantic contradiction），法官绝不可能在践踏正当程序的同时保有just zeal。",
+      "sound": "错误。sound强调“合乎理性的、审慎稳妥的、经过严格论证的”（如sound judgment），与具有非理性、冲动和盲信特质的zeal（狂热）在语义属性上水火不容，构成语义互斥搭配。"
+    },
+    "translation": "革命法庭被一股自命正义的道德狂热所席卷，完全无视被告的正当程序权利，深信他们肃清腐败的神圣使命早已超越了成文世俗法律的平庸约束。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_03",
+    "group_id": 512,
+    "group_name": "ruddy, red, ruby, cherry",
+    "level": "TEM-8",
+    "target_word": "ruddy",
+    "question": "Medical ethnographers observed that, unlike the sedentary urban clerks who suffered from chronic pallor, the Highland pastoralists retained a remarkably ___ complexion, indicative of vigorous cardiovascular health and daily exposure to mountain winds.",
+    "options": [
+      "ruddy",
+      "red",
+      "ruby",
+      "cherry"
+    ],
+    "answer": "ruddy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates uniquely with 'complexion' in high-register English to denote a healthy, outdoor-weathered reddish skin tone, contrasting with 'chronic pallor' and signifying 'vigorous cardiovascular health'.",
+    "distractor_analysis": {
+      "ruddy": "正确。ruddy 与 complexion 构成英语中高度固定的经典搭配（ruddy complexion），专指因户外活动、充足日晒或气血充盈而呈现的“红润、健康红晕”，完美契合后文“vigorous cardiovascular health and daily exposure to mountain winds”所建立的生理与认知语境。",
+      "red": "错误。red 虽是基础色彩词，但 red complexion 在正式书面语及医学人类学语境中通常带有负面或病理色彩，多指因红斑（erythema）、酒渣鼻、晒伤、嗜酒或尴尬发怒引起的充血发红，无法承载后文所强调的“健康强健、饱经风霜的健康气色”。",
+      "ruby": "错误。ruby 指如红宝石般深邃晶莹的深红色，常修饰 lips（红唇）、wine（红葡萄酒）或 gems（宝石），与 complexion 存在严重的搭配冲突，英语中不存在 *ruby complexion 这一表达。",
+      "cherry": "错误。cherry 指如同成熟樱桃般的鲜红色或粉红色，常用于形容特定细小部位（如 cherry lips/cheeks）或木材（cherry wood），修饰指代整体面色的 complexion 属于典型搭配不当。"
+    },
+    "translation": "医学人类学者观察到，与那些面色长期苍白的久坐城市文员不同，高地牧民保持着格外红润健康的气色，这表明他们拥有强健的心血管功能并常年经受高山风霜的洗礼。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_04",
+    "group_id": 512,
+    "group_name": "ruddy, red, ruby, cherry",
+    "level": "TEM-8",
+    "target_word": "ruddy",
+    "question": "After weeks of recuperating in the crisp alpine sanatorium, the convalescent youth gradually regained the ___ glow of health, effectively dispelling the pallid, waxen appearance that had so deeply alarmed his attending physicians.",
+    "options": [
+      "ruddy",
+      "red",
+      "ruby",
+      "cherry"
+    ],
+    "answer": "ruddy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Forms the canonical idiomatic collocation 'the ruddy glow of health', denoting the vibrant, revitalized flush of restored vitality and directly dispelling a 'pallid, waxen appearance'.",
+    "distractor_analysis": {
+      "ruddy": "正确。the ruddy glow of health 是英语典雅书面语与文学语料中的固定名言搭配（成语性搭配），表示病愈或体健时脸上重新焕发出的“红润光泽”，与后文“dispelling the pallid, waxen appearance”（驱散苍白蜡黄的面容）形成严丝合缝的认知语义对仗。",
+      "red": "错误。虽然 a red glow 可描述发热金属、余烬或晚霞的红光，但在修饰人体的生命体征时，*the red glow of health 并非地道搭配；在临床康复语境中，red 极易让人联想到局部炎症或发烧引起的异常潮红，缺乏 ruddy 所内蕴的生命复苏与朝气。",
+      "ruby": "错误。ruby 强调宝石般的华贵、深红质感，与抽象的生理生机搭配（*the ruby glow of health）属于完全非法的词汇创构，不符合英语母语认知习惯。",
+      "cherry": "错误。cherry 侧重亮丽鲜艳的粉红果实色，常修饰娇嫩的容颜特征，与宏观的康复活力搭配（*the cherry glow of health）造成文体风格割裂与搭配断裂。"
+    },
+    "translation": "在空气清冽的高山疗养院休养数周后，那位康复中的青年渐渐恢复了象征健康的红润光泽，彻底驱散了此前令其主治医生深感担忧的蜡白病容。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_05",
+    "group_id": 513,
+    "group_name": "rum, odd, funny, queer",
+    "level": "TEM-8",
+    "target_word": "rum",
+    "question": "In his historical treatise on rogue cant, the lexicographer observed that the adjective ___ underwent a striking semantic pejoration, transitioning from an early modern epithet denoting excellence to one signifying eccentric oddity or disrepute.",
+    "options": [
+      "rum",
+      "odd",
+      "funny",
+      "queer"
+    ],
+    "answer": "rum",
+    "primary_mechanism": "MECH_SEMANTIC_SPECIFICATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "Decisive historical lexicology anchor: In the lexicon of early modern rogue cant (thieves' cant), 'rum' uniquely signified 'fine, excellent, noble, or valuable' (e.g., rum cove, rum mort, rum booze) before undergoing semantic pejoration in the late 18th century to mean 'odd, eccentric, strange, or dubious'. By contrast, 'odd' derives from Old Norse and never meant excellence; 'funny' evolved from 'fun' (trick/hoax); and 'queer' was the direct polar antonym of 'rum' in cant, historically denoting that which was base, worthless, or counterfeit.",
+    "distractor_analysis": {
+      "rum": "正确。在英语词汇史与历史词典学中，\"rum\" 是一桩著名的词义降水（semantic pejoration）典型例证。在16至17世纪的早期英国盗贼暗语（rogue cant）中，\"rum\" 本为纯粹的褒义形容词，意为“极好的、上等的、体面的”（如 rum cove 指绅士或阔佬，rum mort 指美貌女子）；直至18世纪下半叶，通过反讽与泛化，该词才彻底贬化为表示“古怪的、蹊跷的、不正派的”（odd, eccentric, or dubious）。句中的演变轨迹（transitioning from an early modern epithet denoting excellence to one signifying eccentric oddity）构成了对 rum 词义演化史的绝对排他性锚定。",
+      "odd": "错误。odd 源自古诺斯语 oddi（意为尖角、三角形或奇数），进入中古英语后最初表示“单数的、成单无配偶的”，后自然引申为“特殊的、古怪的”；它并非盗贼暗语系统词汇，在其历史演变中从未具备过“卓越、优秀或高贵”（excellence）的涵义，置入句中在词汇史事实上完全不成立。",
+      "funny": "错误。funny 源于名词 fun（18世纪初俚语，原意为骗局、恶作剧，后转为嬉戏、趣味）；其词义路径是从“玩笑戏谑”演变为“滑稽好笑的”，再引申为口语中的“古怪反常的”（funny peculiar）。funny 在历史上从未有过表示“高贵或卓越”的词源阶段，无法契合句中的语义演化论述。",
+      "queer": "错误。虽然 queer 在早期近代暗语中确有使用，但在当时的盗贼行话体系中，它恰恰是 rum 的对立反义词，专门用来指称“低劣的、伪造的、患病的或糟糕的”（如 queer ken 指监狱，queer cuffin 指恶毒严苛的执法官）。queer 自进入英语暗语起即带有强烈的负面贬损色彩，绝无表示“卓越或高贵”（excellence）的历史记录，代入句中会导致严重的史实颠倒与逻辑矛盾。"
+    },
+    "translation": "在其关于早期盗贼黑话的历史专著中，这位词典编纂家指出，形容词 rum 经历了一次显著的词义贬化，从一个表示卓越或高贵的早期近代暗语词转变为一个表示离奇古怪或声名狼藉的词汇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_06",
+    "group_id": 513,
+    "group_name": "rum, odd, funny, queer",
+    "level": "TEM-8",
+    "target_word": "rum",
+    "question": "Critiquing the administration’s contradictory fiscal policy, the veteran Westminster columnist dryly observed that slashing municipal transit subsidies while quietly underwriting private jet manufacturing was, by any reasonable standard, a(n) ___ do.",
+    "options": [
+      "rum",
+      "odd",
+      "funny",
+      "queer"
+    ],
+    "answer": "rum",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE_POLITICS",
+    "anchor_clue": "Fixed lexicalized British idiom 'a rum do', explicitly recorded in Merriam-Webster ('odd, strange <a rum do>') and major British dictionaries (Oxford, Cambridge, Collins) to denote a strange, dubious, or baffling turn of events, completely excluding 'odd', 'funny', and 'queer'.",
+    "distractor_analysis": {
+      "rum": "正确。\"a rum do\" 是英式英语中高度凝固且极具特色的话语习语（lexicalized idiom），《韦氏大学词典》在 rum 作为形容词（意为 odd, strange）的词条下唯一给出的权威例证即为 \"<a rum do>\"；牛津、剑桥与柯林斯词典亦均将其作为固定短语单独收录，专指“离奇古怪、耐人寻味或令人困惑的事件/局面”（a strange or puzzling event or state of affairs）。句中英国政经专栏作家（Westminster columnist）以英式冷幽默（dryly observed）讽刺政府一边削减公交补贴一边资助私人飞机的矛盾政策，置于 \"a(n) ___ do\" 结构中，只有 rum 能严丝合缝地构成该习语。",
+      "odd": "错误。尽管 odd 含有“古怪、反常”的字面含义，但英语中根本不存在 \"an odd do\" 这一习语搭配。名词 do 在表示“事件、局面”时，只能专属性地融入特定成语（如 a rum do），普通修饰语 odd 无法与其搭配产生此义，强行组合属于严重的搭配断裂（collocational rupture）。",
+      "funny": "错误。funny 虽然可表示“古怪的、可疑的”，且有名词搭配 \"funny business\"（意为欺诈、不法勾当），但在英语辞书中从未存在 \"a funny do\" 这一成文习语表达，无法与抽象表事件的名词 do 搭配。",
+      "queer": "错误。queer 历史虽有“古怪”之意，但从未构成 \"a queer do\" 这一凝固定型搭配；且在现代英语语用体系中，queer 已全面转向性别与性取向研究领域，在此政治经济评论语境中完全无法成立。"
+    },
+    "translation": "在批评本届政府自相矛盾的财政政策时，这位资深的威斯敏斯特政治专栏作家冷嘲道，一边削减市政公共交通补贴，一边却悄悄资助私人飞机制造业，按任何合情理的标准来看，都是一件荒唐可疑的怪事。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_07",
+    "group_id": 514,
+    "group_name": "salient, striking, prominent, outstanding",
+    "level": "TEM-8",
+    "target_word": "salient",
+    "question": "Before drafting the executive summary, the committee distilled the unwieldy diplomatic memorandum into its most ___ points, deliberately excising peripheral digressions to sharpen the document’s overarching strategic focus.",
+    "options": [
+      "salient",
+      "striking",
+      "prominent",
+      "outstanding"
+    ],
+    "answer": "salient",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动词短语 'distilled ... into its most ___ points' 与后文分词短语 'deliberately excising peripheral digressions to sharpen the document’s overarching strategic focus' 形成决定性语义锚点。在此语境下，修饰 points 且与 peripheral（外围的、次要的）形成正面对立的学术公文固定搭配仅有 'salient points'（核心要点、突显要旨）。干扰项 outstanding points 在公文及外交领域专指'悬而未决的争端/未解决的问题'，产生严重语义反转；prominent 多指物理凸起或社会显赫；striking 强调感官上的惊奇或戏剧性震撼，均不合题意。",
+    "distractor_analysis": {
+      "salient": "正确。Merriam-Webster 定义其核心为 'having a quality that thrusts itself into attention'。在政论与学术公文语境中，'salient points' 属高度凝练的经典固定搭配，意为'最突出、最核心的要点'，与后文剔除 'peripheral digressions'（外围冗余枝节）以聚焦战略重心的语篇逻辑高度吻合。",
+      "striking": "错误。striking 侧重于感官或心灵上所受到的强烈震撼、引人注目的惊异或戏剧性（如 a striking contrast, a striking resemblance）。此处是对冗长公文进行理性归纳和纲领性提炼，而非描述令人惊奇或具有视觉冲击力的事物，修饰 points 属搭配不当。",
+      "prominent": "错误。prominent 的核心义为空间上的物理突起（如 a prominent rock）或社会、行业地位的显赫（如 a prominent diplomat）。修饰抽象概念时仅表示醒目或主要，不能与 points 构成指代论据核心骨架的标准学术表达。",
+      "outstanding": "错误。在外交、公文及商务谈判语境中，'outstanding points' 为固定法律/谈判术语，专门表示'悬而未决的议题、尚未达成共识的残留争议'（相当于 unresolved points）。若填入本句，将与提炼精要、聚焦战略重心的语境产生灾难性的逻辑倒错；且其'杰出、优异'之义亦无法修饰文本要点。"
+    },
+    "translation": "在起草执行摘要之前，委员会将冗长的外交备忘录提炼为其最核心的要点，特意剔除外围枝节，以凸显该文件首要的战略重心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_08",
+    "group_id": 514,
+    "group_name": "salient, striking, prominent, outstanding",
+    "level": "TEM-8",
+    "target_word": "salient",
+    "question": "In cognitive neuroscience, sensory overload is mitigated by selective attention mechanisms that filter peripheral data, dynamically elevating the most ___ stimuli so that they command cognitive awareness over competing, low-intensity background signals.",
+    "options": [
+      "salient",
+      "striking",
+      "prominent",
+      "outstanding"
+    ],
+    "answer": "salient",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境限定于认知神经科学与选择性注意机制（selective attention mechanisms）。句末的补语从句 'so that they command cognitive awareness over competing, low-intensity background signals' 直接对应 Merriam-Webster 对 salient 的本质界定——'having a quality that thrusts itself into attention'（具有主动凸显并捕获注意力的品质）。在认知科学与神经生物学中，'salient stimuli'（突显刺激）是不可替代的专业术语，专指凭借物理或生物对比度脱颖而出、自下而上捕获大脑注意资源的输入信号。其他三项均非该学术领域的科学术语。",
+    "distractor_analysis": {
+      "salient": "正确。salient 完美对应 MW 中 'thrusts itself into attention' 的定义。在认知心理学与神经计算模型中，'salient stimuli'（突显刺激）为该领域固定不可替代的核心专业术语（对应 perceptual salience 机制），精准描述在背景噪音中凭借对比特征动态捕获意识资源的刺激信号。",
+      "striking": "错误。striking 带有强烈的感性或主观色彩，指事物因非同寻常或极其生动而给观察者带来突兀、深刻的心理震撼（如 a striking feature of the artwork），不能作为认知神经机制中描述底层感官信号特征突显度的客观科学术语。",
+      "prominent": "错误。prominent 强调空间几何位置的前凸、直观可见性（如 a prominent forehead）或主导地位。在感知与注意过滤研究中，科学家不使用 prominent stimuli 来表征刺激在自下而上注意网络中的突显强度。",
+      "outstanding": "错误。outstanding 属于强价值判断词，通常表示品质、成绩等'出类拔萃的、极佳的'（superior in quality or achievement），或用于事务'未结清的、未处理的'（unpaid/unsettled）。将其用于修饰神经感觉刺激（stimuli）属于典型的范畴错配（category mistake）。"
+    },
+    "translation": "在认知神经科学中，感官超载由选择性注意机制予以缓解；该机制通过过滤外围数据，动态提升最突显刺激的优先级，使其在与低强度背景信号的竞争中主导认知意识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_09",
+    "group_id": 515,
+    "group_name": "stark, blunt, crude, unconditional",
+    "level": "TEM-8",
+    "target_word": "stark",
+    "question": "The empirical findings presented in the comprehensive environmental audit stand in ___ contrast to the municipal administration’s complacent assertions, exposing severe groundwater contamination across several urban districts.",
+    "options": [
+      "stark",
+      "blunt",
+      "crude",
+      "unconditional"
+    ],
+    "answer": "stark",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed idiomatic collocation 'stand in stark contrast to', meaning to be exceedingly and unmistakably different; the other candidates cannot form this standard academic collocation with 'contrast'.",
+    "distractor_analysis": {
+      "stark": "正确。此处考查固定学术强搭配“stand in stark contrast to”（与……形成鲜明截然的对比）。stark 在此意为“极其鲜明的、赤裸不加掩饰的”，准确刻画了客观审计数据与官方自满言论之间的尖锐对立。",
+      "blunt": "错误。blunt 意为“直率的、直截了当的”（如 blunt assessment）或“钝的”（如 blunt instrument），通常修饰言语表述、态度或物理器械，无法与 contrast 搭配，*in blunt contrast to* 属于词汇搭配断裂。",
+      "crude": "错误。crude 侧重指“天然未加工的、粗糙简陋的”（如 crude estimate, crude methodology），强调缺乏精细度或修养，不能修饰 contrast 来表示事物性质上的鲜明对立。",
+      "unconditional": "错误。unconditional 意为“无条件的、绝对的”（如 unconditional surrender, unconditional support），修饰承诺、协议或服从，与表认知对比关系的 contrast 存在逻辑与语义范畴不匹配。"
+    },
+    "translation": "全面环境审计中呈现的实证调查结果与市政当局自满的断言形成了鲜明对比，揭露了数个城区严重的地下水污染问题。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_10",
+    "group_id": 515,
+    "group_name": "stark, blunt, crude, unconditional",
+    "level": "TEM-8",
+    "target_word": "stark",
+    "question": "The protracted energy crisis has thrown into ___ relief the structural vulnerabilities of the continental supply chain, compelling policymakers to reassess their overreliance on single-source fossil imports.",
+    "options": [
+      "stark",
+      "blunt",
+      "crude",
+      "unconditional"
+    ],
+    "answer": "stark",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Set academic phrase 'thrown/brought into stark relief', which means to cause something to become distinctly apparent or emphasized; none of the other adjectives collocate with 'relief' in this cognitive-visual sense.",
+    "distractor_analysis": {
+      "stark": "正确。成语搭配“throw/bring sth into stark relief”是高级政经与学术英语中的核心固定搭配，意为“使……极其清晰醒目地显现出来/将……衬托得一览无遗”。stark 体现事物轮廓鲜明、冷峻严酷且毫无修饰遮掩的特征，完全契合语境。",
+      "blunt": "错误。blunt 强调言语的不加掩饰或物体的迟钝不锐利，不能与 relief 构成表“凸显轮廓/凸显问题”的固定构式，*into blunt relief* 属于搭配严重错误。",
+      "crude": "错误。crude 强调原始、粗制滥造或未经加工，在修饰具有浮雕隐喻意象的抽象名词 relief 时毫无语用依据，无法表达“清晰凸显”之意。",
+      "unconditional": "错误。unconditional 意为“无限制的、不附带条件的”，属于权利、法律或义务范畴的定语，不能用于修饰认知层面的凸显结构。"
+    },
+    "translation": "长期的能源危机使整个大陆供应链的结构性脆弱性暴露无遗，迫使决策者重新审视其对单一来源化石燃料进口的过度依赖。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_11",
+    "group_id": 516,
+    "group_name": "stately, noble, imposing, impressive",
+    "level": "TEM-8",
+    "target_word": "stately",
+    "question": "Accompanied by the deep resonance of muffled drums, the state funeral cortege moved forward at a ___ pace, its deliberate, unhurried gravity impressing upon the assembled multitude the solemn, enduring majesty of the realm.",
+    "options": [
+      "stately",
+      "noble",
+      "imposing",
+      "impressive"
+    ],
+    "answer": "stately",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'pace' and aligns with 'deliberate, unhurried gravity' and 'majesty of the realm'; while 'impressive pace' denotes rapid speed, 'stately pace' specifically denotes an unhurried, dignified, and ceremonial tempo.",
+    "distractor_analysis": {
+      "stately": "正确。Merriam-Webster将stately定义为“slow, deliberate, and dignified”（从容不迫且威严庄重的），在搭配上与pace构成典范的高阶英语习语（at a stately pace），完美呼应后文的“deliberate, unhurried gravity”（从容不迫的肃穆庄严）与“enduring majesty”（经久不衰的王室威仪）。",
+      "noble": "错误。noble的核心内涵在于道德层面的崇高、品格的卓绝或血统门第的高贵（elevation of mind, character, or rank），属于伦理与阶层范畴词，无法用来界定行进节奏或物理步伐（pace），属于语义范畴误配。",
+      "imposing": "错误。imposing侧重指因体积庞大、气势威严或力量逼人而使人敬畏甚至生畏（striking with awe or apprehension），多修饰建筑体量或压倒性的人体外形（如an imposing figure/edifice），无法与表速度和节奏的pace形成有效搭配。",
+      "impressive": "错误。当修饰pace时，搭配“at an impressive pace”在现代英语中具有决定性反向内涵，专指“惊人的飞快速度或显著跃进”（如advancing at an impressive pace），这与句中后置定语明示的“deliberate, unhurried”（审慎从容、绝无仓促）产生直接的逻辑语义冲突；且该词语域过于宽泛，缺乏国仪大典所需的庄严威仪感。"
+    },
+    "translation": "伴随着低沉压抑的阵阵鼓点，国葬仪仗队以一种从容庄重的步伐缓缓前行，其不疾不徐的沉稳肃穆向在场聚集的民众彰显出国度永恒而威严的尊严。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_12",
+    "group_id": 516,
+    "group_name": "stately, noble, imposing, impressive",
+    "level": "TEM-8",
+    "target_word": "stately",
+    "question": "Proceeding down the cathedral nave at a remarkably ___ pace, the ceremonial cortege adhered to a deliberate, solemn rhythm that projected enduring institutional gravity rather than modern haste or dynamic urgency.",
+    "options": [
+      "stately",
+      "noble",
+      "imposing",
+      "impressive"
+    ],
+    "answer": "stately",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "The noun 'pace' modified by the subsequent clause 'adhered to a deliberate, solemn rhythm that projected enduring institutional gravity rather than modern haste or dynamic urgency' functions as the decisive anchor. In English lexicography (e.g., Oxford Collocations Dictionary, Merriam-Webster), 'stately pace' is the canonical collocation defining an unhurried, dignified movement. Conversely, 'noble pace' and 'imposing pace' are non-existent collocational ruptures, while 'at an impressive pace' idiomatically signifies remarkable rapidity/speed, logically contradicting the explicit rejection of 'haste' and 'urgency'.",
+    "distractor_analysis": {
+      "stately": "正确。Merriam-Webster将stately专门定义为“having an elegant or dignified demeanor... slow, deliberate, and dignified: walked at a stately pace”。在《牛津搭配词典》（Oxford Collocations Dictionary）中，stately是形容词中修饰“pace”（特指慢速、庄严行进）的核心典型搭配（归入slow/measured pace类别）。句中的“deliberate, solemn rhythm”及对“modern haste or dynamic urgency”的排除，完美契合stately兼具“仪态庄严”与“缓步徐行”的双重核心语义特征。",
+      "noble": "错误。词义搭配断裂。noble核心义为“道德高尚的、贵族的、宏伟壮丽的”，常用于修饰思想、品德、出身或具有威仪的生物与建筑（如noble sentiments, noble steed），但在英语习惯搭配中不能修饰表示行进速度或节奏的pace（*noble pace不存在），属于严重的搭配不当。",
+      "imposing": "错误。范畴错配。imposing强调“因体量庞大、外表雄伟或气势逼人而令人敬畏”（commanding attention often through sheer size or powerful appearance），修饰对象多为建筑、山峰或身材仪表（an imposing facade/presence），无法修饰抽象的速度或节奏概念pace（*imposing pace非自然英语）。",
+      "impressive": "错误。语意逻辑反向冲突。在当代英语语料中，“at an impressive pace”是一个极为稳固的高频习语搭配，但在搭配词典与语料库中它被严格归类为“fast pace”，专指“以令人惊叹的速度/飞快地”（例如经济增长或工作进展迅猛）。若代入本句，与后文的“deliberate, solemn rhythm”（从容审慎的节奏）以及“rather than modern haste or dynamic urgency”（而非现代的匆忙或雷厉风行）产生直接的语意逻辑矛盾。"
+    },
+    "translation": "在以极其沉稳庄重的步伐穿过大教堂中殿时，仪仗队伍始终恪守着一种从容而肃穆的节奏，旨在彰显历久弥新的体制威严，而非现代式的仓促焦躁或雷厉风行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_13",
+    "group_id": 517,
+    "group_name": "uncouth, coarse, common, vulgar",
+    "level": "TEM-8",
+    "target_word": "uncouth",
+    "question": "Far from exhibiting deliberate malice or crude disrespect, the newly appointed envoy was simply hampered by his ___ manners, an uncultivated rustic awkwardness that ill suited the ceremonial nuances of the royal court.",
+    "options": [
+      "uncouth",
+      "coarse",
+      "common",
+      "vulgar"
+    ],
+    "answer": "uncouth",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步状语“Far from exhibiting deliberate malice or crude disrespect”（绝非有意展现恶意或粗鲁不敬）明确排除了 deliberate / crude 属性，而后文同位语“an uncultivated rustic awkwardness”（缺乏修养的乡野笨拙）直接锁定 uncouth 的词典核心释义（awkward, rustic, and uncultivated），排除了其他三项。",
+    "distractor_analysis": {
+      "uncouth": "正确。uncouth 准确指因缺乏文化修养或社交训练而表现出的“粗野笨拙、举止失仪”（awkward and uncultivated in manner or behavior），尤指带有乡野土气且不合礼仪的笨拙感。句中的同位语“an uncultivated rustic awkwardness”是其词典级释义镜像，与 manners 构成权威固定搭配。",
+      "coarse": "排除。coarse 侧重于质地粗糙或言行粗鄙无礼、下流低俗（crude, rough, or ribald），带有直接的冒犯性。句首已由“Far from exhibiting... crude disrespect”明确否定了粗暴冒犯（crude），填入 coarse 会造成前后逻辑矛盾。",
+      "common": "排除。common 意为“普通的、平民的、大众的”（ordinary or plebeian），common manners 指普通大众的习俗或平民化举止，并不蕴含后文所强调的“因缺乏教养而显得举止失措、笨拙荒唐”（rustic awkwardness）的特定贬义色彩。",
+      "vulgar": "排除。vulgar 强调趣味低俗、缺乏审美鉴赏力或带有招摇显摆、道德下流的粗鄙感（cheap ostentation or offensive boorishness），暗含主观上的低劣品位，无法对应本句中不谙宫廷礼仪的“天真乡野笨拙”。"
+    },
+    "translation": "新任命的特使绝非有意表现出恶意或粗鲁不敬，他仅仅是受困于自己粗野笨拙的举止——这种未经雕琢的乡土拘谨与王室宫廷微妙繁复的礼节格格不入。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_14",
+    "group_id": 517,
+    "group_name": "uncouth, coarse, common, vulgar",
+    "level": "TEM-8",
+    "target_word": "uncouth",
+    "question": "The cognitive psychologist argued that social ostracism often stems not from deliberate malice, but from a visceral aversion to ___ habits, as observers reflexively equate clumsy, unrefined bodily mannerisms with intellectual deficit.",
+    "options": [
+      "uncouth",
+      "coarse",
+      "common",
+      "vulgar"
+    ],
+    "answer": "uncouth",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后半句原因状语从句“as observers reflexively equate clumsy, unrefined bodily mannerisms with intellectual deficit”提供了决断性语义锚点，明确修饰对象为“笨拙且未经雕琢的肢体举止”，仅 uncouth 专指缺乏调教的笨拙不雅，严密契合“uncouth habits”。",
+    "distractor_analysis": {
+      "uncouth": "正确。uncouth habits 为学术与高级政论中的经典搭配，专指缺乏社交教养所展现出的“粗俗不雅、举止笨拙的习惯”。后文“clumsy, unrefined bodily mannerisms”（笨拙而未经修饰的肢体举止）直接对应 uncouth 在韦氏词典中的核心特征（marked by clumsy, uncultivated awkwardness）。",
+      "coarse": "排除。coarse habits 侧重指放荡、下流或沉溺于感官粗鄙的恶习（如粗口、酗酒、猥亵言行等），其核心为“粗暴刺耳或缺乏羞耻感”，而非肢体动作上的“笨拙生疏（clumsy）”。",
+      "common": "排除。common habits 仅表示“司空见惯的习惯”或“常人的生活惯例”（ordinary, widespread routines），属于中性表述，无法构成前文引发“强烈反感（visceral aversion）”乃至“社交孤立（social ostracism）”的语义前提。",
+      "vulgar": "排除。vulgar habits 侧重于炫耀显摆、品位恶俗或下流下作（tasteless, ostentatious, or indecent），属于审美或道德格调层面的庸俗，与纯粹由神经动作协调不良或仪态失修导致的“clumsy bodily mannerisms”语义不合。"
+    },
+    "translation": "这位认知心理学家认为，社交排斥往往并非源于蓄意敌意，而是源于对粗野笨拙习惯的本能反感，因为观察者会下意识地将笨拙、未受调教的肢体举止等同于智力低下。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_15",
+    "group_id": 518,
+    "group_name": "unequivocal, absolute, unquestionable, straightforward",
+    "level": "TEM-8",
+    "target_word": "unequivocal",
+    "question": "The international tribunal expressed ___ condemnation of the cross-border aggression, employing rigorous statutory definitions to ensure that no member state could misinterpret the ruling's legal ramifications.",
+    "options": [
+      "unequivocal",
+      "absolute",
+      "unquestionable",
+      "straightforward"
+    ],
+    "answer": "unequivocal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun 'condemnation' paired with the purpose clause 'to ensure that no member state could misinterpret the ruling's legal ramifications' decisively locks the institutional collocation 'unequivocal condemnation' (denoting a denunciation formulated with singular, unambiguous clarity).",
+    "distractor_analysis": {
+      "unequivocal": "正确。unequivocal 表示“明确的、毫不含糊的、只容许单一解释的”（admitting of no doubt or misunderstanding; having only one meaning）。在国际法与外交公文语境中，unequivocal condemnation（明确严正谴责）为高度固化的权威搭配，后文“employing rigorous statutory definitions to ensure that no member state could misinterpret...”明确呼应了其“杜绝歧义、指向唯一结论”的认知语义内核。",
+      "absolute": "错误。absolute 侧重于“无条件的、完全不受限制的”（unconditional, unlimited, 如 absolute power, absolute majority）。英语中通常不使用 absolute condemnation；表达不加保留的谴责惯用 unreserved 或 categorical。在此处该词既不符合国际法公文的固定搭配习惯，也无法呼应后文关于消除法律解释歧义的语境。",
+      "unquestionable": "错误。unquestionable 强调“确凿无疑的、无可争议的”（not capable of being disputed; indubitable），多用于修饰客观事实、人格品质或合法地位（如 unquestionable integrity, unquestionable authenticity）。若修饰 condemnation，会产生逻辑修饰层面的范畴错位（category mistake），意为“谴责这一行为的存在性无可置疑”，而非谴责本身“措辞明确无歧义”。",
+      "straightforward": "错误。straightforward 意为“简单直白的、坦率不复杂的”（uncomplicated, candid），通常用于描述日常流程、说明或人际交谈（如 straightforward procedure）。将其置于庄严的国际司法裁决语境中存在严重的语体降格（register clash），且该词侧重“易于理解”而非“具有排他性法律效力的明确无误”。"
+    },
+    "translation": "国际法庭对这起跨境侵略行径予以明确谴责，并采用严谨的法定条文定义，以确保任何成员国都无法曲解该裁决的法律后果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_16",
+    "group_id": 518,
+    "group_name": "unequivocal, absolute, unquestionable, straightforward",
+    "level": "TEM-8",
+    "target_word": "unequivocal",
+    "question": "Addressing the executive committee's persistent evasion of fiduciary duties, the independent auditor stated in ___ terms that any further concealment of offshore liabilities would trigger immediate judicial prosecution.",
+    "options": [
+      "unequivocal",
+      "absolute",
+      "unquestionable",
+      "straightforward"
+    ],
+    "answer": "unequivocal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame 'stated in ___ terms that...' introducing a non-negotiable legal ultimatum against 'evasion' and 'concealment' demands the established formal idiom 'in unequivocal terms' (in language admitting of no misunderstanding or evasive interpretation).",
+    "distractor_analysis": {
+      "unequivocal": "正确。in unequivocal terms 为英语经典固定习语，意为“毫不含糊地、以明确无疑的措辞”（speaking very clearly and directly, leaving no doubt or ambiguity）。句中独立审计员针对董事会“逃避信托责任”和“隐瞒离岸债务”发出严厉的司法诉讼警告，要求陈述措辞必须杜绝任何解释漏洞与推诿空间，in unequivocal terms 无论在搭配、语义还是法律公文语体上均严丝合缝。",
+      "absolute": "错误。in absolute terms 虽为固定短语，但其专业语义严格指向“从绝对值上而言、非相对地”（measured on its own rather than relatively，常与 in relative terms 相对，如 growth in absolute terms）。它绝不能用作修饰陈述或警告方式的副词性短语，在逻辑认知层面与后文的法务警示从句毫无关联，属于典型的形近伪搭配。",
+      "unquestionable": "错误。英语中根本不存在 *in unquestionable terms 这一习语搭配，属于严重的词汇搭配断裂（collocational rupture）。unquestionable 仅用于修饰不可动摇的证据、真理或品质，不能修饰 terms 来表达“语言风格的明确清晰”。",
+      "straightforward": "错误。in straightforward terms 意为“用简单平实的语言、通俗易懂地”（用于化繁为简、向外行解释复杂概念，如 explain the concept in straightforward terms）。此处审计员并非在进行财务知识科普，而是在做出具有法律约束力的严肃警告，使用 straightforward 会导致语义重心偏离（误入“通俗通晓”而非“严正明确”）并造成语体风格的严重失谐。"
+    },
+    "translation": "针对执行委员会长期逃避信托责任的行为，独立审计员毫不含糊地指出，若再隐瞒离岸债务，将立即引发司法诉讼。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_17",
+    "group_id": 519,
+    "group_name": "unparalleled, alone, unique, incomparable",
+    "level": "TEM-8",
+    "target_word": "unparalleled",
+    "question": "Synthesizing longitudinal neuroimaging data with rigorous computational modeling, the research team achieved an ___ degree of diagnostic precision, outstripping all existing clinical benchmarks in the early detection of cognitive decline.",
+    "options": [
+      "unparalleled",
+      "alone",
+      "unique",
+      "incomparable"
+    ],
+    "answer": "unparalleled",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "不定冠词'an'与标量名词'degree'的搭配，后接比较从句'outstripping all existing clinical benchmarks'，要求填入表示在同一评价体系内无可比拟、无出其右的形容词。",
+    "distractor_analysis": {
+      "unparalleled": "正确。unparalleled意为'无与伦比的、绝无仅有的'，在学术与实证语域中常与degree, precision, scope等标量名词构成高度固定的搭配（an unparalleled degree of...），且能与后文'超越所有现存临床基准'的比较维度完美契合。",
+      "alone": "错误。alone为典型的表语形容词（predicative adjective），在现代标准英语中严禁作前置定语修饰名词（不存在*an alone degree的句法结构）。",
+      "unique": "错误。首先存在明确的语音/句法冲突：unique以辅音半元音/j/开头，其前必须接不定冠词'a'而非'an'；其次，unique强调种类的独一无二（categorical singularity），与表示连续量度区间的'degree'搭配极不自然。",
+      "incomparable": "错误。在认知科学与实证统计语境中，incomparable的核心义项常指'不可比的、缺乏共同衡量标准的（incommensurable）'，若填入此处会导致严重语义矛盾，与后文明确指出的跨基准量化对比（'outstripping all existing clinical benchmarks'）产生逻辑断裂。"
+    },
+    "translation": "将长时程神经影像数据与严密的计算建模相结合，该研究团队在认知功能衰退的早期检测中达到了无与伦比的诊断精度，超越了所有现存的临床基准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_18",
+    "group_id": 519,
+    "group_name": "unparalleled, alone, unique, incomparable",
+    "level": "TEM-8",
+    "target_word": "unparalleled",
+    "question": "The cognitive architecture of the human neocortex exhibits a plasticity ___ across the animal kingdom, serving as the evolutionary benchmark against which all primate intelligence is measured.",
+    "options": [
+      "unparalleled",
+      "alone",
+      "unique",
+      "incomparable"
+    ],
+    "answer": "unparalleled",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后置修饰抽象名词'plasticity'并支配介词短语'across the animal kingdom'，后接'serving as the evolutionary benchmark'确立了比较基准语境，排他性锁定unparalleled。",
+    "distractor_analysis": {
+      "unparalleled": "正确。unparalleled在此作后置定语，与介词across引导的范围搭配（unparalleled across...），表示'在某一领域或界别内绝无匹敌、无同等参照物'，与后半句充当进化衡量基准（evolutionary benchmark）的论述在逻辑与语义上严丝合缝。",
+      "alone": "错误。alone作后置形容词时通常指人处于孤立或独处状态，修饰无生命抽象概念'plasticity'时既违背搭配习惯，又产生'可塑性感到孤独'的语义偏差，语法与逻辑均不成立。",
+      "unique": "错误。介词搭配严重冲突：表示某属性为某群体所独有时，unique必须与介词to搭配（unique to...），而不能与across连用；且人类大脑属于动物界内部，若使用across the animal kingdom会导致范畴逻辑混乱。",
+      "incomparable": "错误。介词搭配不合规范（incomparable通常接to或with表示'无法与……相比'，无incomparable across的用法）。更重要的是，后文明确说明该特征被用作'衡量所有灵长类智力的基准'，若先宣称其'不可比较（incomparable）'，则直接否定了比较操作的可行性，造成论述上的自相矛盾。"
+    },
+    "translation": "人类大脑新皮层的认知架构展现出一种在整个动物界中无可匹敌的可塑性，成为衡量所有灵长类动物智力水平的进化基准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_19",
+    "group_id": 520,
+    "group_name": "vernal, young, youthful, immature",
+    "level": "TEM-8",
+    "target_word": "vernal",
+    "question": "Juxtaposing life’s cognitive cycles, the essayist contrasted the ___ bloom of early imaginative curiosity with the autumnal rigidity of dogmatic complacency, illustrating how mental vigor mirrors the seasons.",
+    "options": [
+      "vernal",
+      "young",
+      "youthful",
+      "immature"
+    ],
+    "answer": "vernal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中存在明确的季节意象对仗锚点：“contrasted the ___ bloom... with the autumnal rigidity... mirrors the seasons”。与典雅的拉丁源书面语“autumnal”（秋季的、晚秋衰颓的）构成严格修辞对仗与词义对称的，只能是同源且表示“春季的、青春蓬勃的”形容词“vernal”；其余选项均破坏该季节平行结构。",
+    "distractor_analysis": {
+      "vernal": "正确。该词源自拉丁语，意为“春季的”或“青春如春水般蓬勃生机盎然的”（MW: suggestive of youth; vigorous and fresh）。在此处与“bloom”搭配，且与后文的“autumnal rigidity”形成极严整的拉丁源季节修辞对仗（vernal vs. autumnal），完美呼应文末“mirrors the seasons”的宏观隐喻。",
+      "young": "错误。该词是基础通俗的年龄客观描述词（年轻的），语体色彩平淡中性，不仅无法修饰抽象的心智比喻“bloom of early imaginative curiosity”，且与后半句高度学术典雅的“autumnal”并置时会造成明显的语体风格断裂（register clash）。",
+      "youthful": "错误。该词意为“有青年特征的、朝气蓬勃的”，多用于形容人的体貌特征或心理状态（如 youthful appearance, youthful zeal），其本身不包含“春季萌发”的自然时序内涵，无法与“autumnal”形成严谨对称的季节性修辞对仗。",
+      "immature": "错误。该词意为“不成熟的、发育不完全的”，在智力与心理语境中通常带有明显的负面贬义色彩。而句中“early imaginative curiosity”是作者推崇的心智活力，若填入“immature”会导致语义褒贬倒错、逻辑破裂。"
+    },
+    "translation": "在对比生命的认知周期时，这位随笔作家将早期富于想象力的好奇心所绽放的青春光彩，与教条式自满所带来的秋暮僵化进行了对照，阐明了心智活力如何与自然四季交相呼应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b51_20",
+    "group_id": 520,
+    "group_name": "vernal, young, youthful, immature",
+    "level": "TEM-8",
+    "target_word": "vernal",
+    "question": "In his treatise on cognitive development, the psychologist conceptualized adolescence as the mind’s ___ equinox, a transitional state where the fertile imagination of childhood and the disciplined reason of maturity attain harmonious equilibrium.",
+    "options": [
+      "vernal",
+      "young",
+      "youthful",
+      "immature"
+    ],
+    "answer": "vernal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心搭配锚点为天文及认知隐喻名词“equinox”（分点、昼夜平分点）。在学术英语与高级隐喻中，唯有“vernal”（春分的；春季的、富有青春活力的）能与“equinox”构成固定搭配（vernal equinox，春分点），以此隐喻青春期作为从童年向成年过渡的心智平衡期；其余三项均无法与“equinox”搭配。",
+    "distractor_analysis": {
+      "vernal": "正确。在字面意义上，“vernal equinox”指天文上的“春分点”；在认知隐喻中，该词准确契合MW释义“suggestive of youth; vigorous and fresh”（象征青春的、生机勃勃的），借指青春期（adolescence）这一生命与智力由童年萌发迈向成熟的关键平衡过渡期，搭配无懈可击。",
+      "young": "错误。该词为表示客观生理年龄的基础形容词，在英语中绝对不存在“young equinox”这一说法，构成严重的搭配违背（collocational rupture）。",
+      "youthful": "错误。该词仅修饰具有年轻外貌、朝气或行为的人或事物（如 youthful vigor），同样无法用于修饰分点名词，“youthful equinox”为生造错误搭配。",
+      "immature": "错误。该词意为“未成熟的、粗浅的”，不仅无法与“equinox”搭配，而且其带有缺陷暗示的负面语意与后文“harmonious equilibrium”（和谐的平衡）在认知哲学逻辑上产生矛盾。"
+    },
+    "translation": "在这篇关于认知发展的专题论文中，这位心理学家将青春期构想为心智的“春分点”——一个童年期丰富的想象力与成年期严谨的理性达成和谐平衡的过渡状态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

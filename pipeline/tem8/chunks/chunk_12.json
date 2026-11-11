@@ -96,19 +96,19 @@
     },
     {
       "group_id": 126,
-      "group_name": "piss, ooze, crap, exude",
-      "target_word": "piss",
+      "group_name": "exude, ooze, seep, purge",
+      "target_word": "exude",
       "words": [
-        "piss",
+        "exude",
         "ooze",
-        "crap",
-        "exude"
+        "seep",
+        "purge"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_COLLOCATION",
-      "theme_label": "piss 与近义词辨析",
-      "synset_definition": "eliminate urine",
+      "theme_label": "exude 与近义词辨析",
+      "synset_definition": "release or discharge slowly",
       "t8_count": 4,
       "cas_score": 100
     },

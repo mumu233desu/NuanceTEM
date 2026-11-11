@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b31_01",
+    "group_id": 311,
+    "group_name": "conflate, flux, fuse, mix",
+    "level": "TEM-8",
+    "target_word": "conflate",
+    "question": "In his critique of neoliberal jurisprudence, the legal scholar cautions theorists not to ___ fundamental constitutional liberties with temporary statutory entitlements, as doing so obfuscates the distinct normative origins of citizen rights.",
+    "options": [
+      "conflate",
+      "flux",
+      "fuse",
+      "mix"
+    ],
+    "answer": "conflate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配框架 'cautions theorists not to ___ A with B' 以及后文结果从句 'as doing so obfuscates the distinct normative origins'（混淆/模糊了不同的规范来源），在认知哲学语境中唯有 conflate 精准表示因认知偏差而将两个本不相同的概念或范畴‘错误地混为一谈’。",
+    "distractor_analysis": {
+      "conflate": "正确。conflate 专指在概念、文本或认知逻辑层面‘将截然不同的事物/范畴混同或等同视之’，常与介词 with 连用（conflate A with B），带有因分类不严密而产生逻辑谬误的贬义色彩，与句中的警示语气（cautions not to）及‘obfuscates the distinct normative origins’构成无可辩驳的认知语境契合。",
+      "flux": "错误。flux 在现代英语中主要作为名词使用（意为‘不断的变化、流动’，如 in a state of flux）；即便用作及物动词，也严格局限于冶金学（给金属加助熔剂熔解）或物理流体语境，根本不能在抽象认知批判语境中支配抽象概念宾语并与 with 搭配。",
+      "fuse": "错误。fuse 指将不同的实体或概念熔接、化合成一个紧密有机的良性整体（如 fuse A and B into a synthesis），强调建设性、一体化的融合过程；而本文语境明确是在警示一种应当避免的理论概念混淆（cautions not to...），用 fuse 既违反了句子的否定警示极性，也无法表达‘混同’这一谬误内涵。",
+      "mix": "错误。mix 为普通基础词汇，语义极泛，通常指物理或机械层面的简单调和、掺杂（如 mix ingredients together）；在法理学及高级学术认知批判中，表达‘将宪法权利与法定赋权混同’这一严谨的逻辑范畴谬误时，使用 mix 显得语体极其浅白且无法传达‘混同概念以致产生认知模糊’的深层学术语义。"
+    },
+    "translation": "在对新自由主义法理学的批判中，这位法学家告诫理论家们不要将基本的宪法自由与暂时的法定赋权混为一谈，因为这样做会模糊公民权利各自不同的规范性起源。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_02",
+    "group_id": 311,
+    "group_name": "conflate, flux, fuse, mix",
+    "level": "TEM-8",
+    "target_word": "fuse",
+    "question": "By drawing upon both empirical sociological data and continental philosophy, the monograph manages to ___ disparate methodological paradigms into a remarkably coherent analytical framework for examining modern institutional decay.",
+    "options": [
+      "conflate",
+      "flux",
+      "fuse",
+      "mix"
+    ],
+    "answer": "fuse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式搭配 'manages to ___ disparate ... paradigms into a remarkably coherent analytical framework' 构成了决定性锚点，强调将异质的研究范式深层融铸、合为一体，唯有 fuse 能与 into 形成表示‘有机熔铸为一体’的高阶学术认知搭配。",
+    "distractor_analysis": {
+      "conflate": "错误。conflate 在现代学术英语中通常指消极的、不当的概念混淆，侧重抹杀差异所造成的逻辑混乱；而本句中的‘manages to’以及后文的‘remarkably coherent analytical framework’（极其连贯的分析框架）属于高度积极的学术赞誉，两者在语篇褒贬色彩（semantic prosody）上发生严重冲突。",
+      "flux": "错误。flux 作动词时为专门的物理冶金术语（熔化）或指流体运动，绝不能充当表示跨学科研究方法‘熔炼、有机整合’的及物动词，出现于此属句法与语义双重不通。",
+      "fuse": "正确。fuse 本义为‘熔合’，在认知与学术话语中常用于隐喻跨学科理论的创造性综合，表示将看似互不相容的异质成分深层冶炼并铸造成不可分割的有机整体（fuse A and B into a coherent whole），与句中的褒义评价及学术合成语境完美契合。",
+      "mix": "错误。mix 表示机械式的混合或拼凑，所得结果往往是彼此各自分立的杂糅体（mixture），无法体现将实证社会学与欧陆哲学进行高维度理论提炼并形成高度融贯系统（coherent analytical framework）的‘化合’质变过程，语体过于平庸且内涵不符。"
+    },
+    "translation": "通过借鉴实证社会学数据与欧陆哲学，该专著成功将截然不同的方法论范式融铸为一个极其连贯的分析框架，用以审视现代制度的衰变。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_03",
+    "group_id": 312,
+    "group_name": "conjure, evoke, invoke, stir",
+    "level": "TEM-8",
+    "target_word": "conjure",
+    "question": "Although speculative geoengineering models attempt to ___ up reassuring visions of atmospheric restoration, empirical ecologists warn that deploying untested aerosols could trigger catastrophic disruptions in global rainfall patterns.",
+    "options": [
+      "conjure",
+      "evoke",
+      "invoke",
+      "stir"
+    ],
+    "answer": "conjure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中的副词小品词 'up' 以及直接宾语 'reassuring visions' 构成了决定性的排他锚点。固定搭配 'conjure up visions' 意为‘在脑海中勾勒出/虚构出……景象’。evoke 与 invoke 均为及物动词，在现代标准英语中绝对不与副词 up 连用（*evoke up / *invoke up 为严重语法错误）；stir 虽可构成动词短语 stir up，但其宾语通常为动荡、冲突、负面情绪或物理沉积物（如 stir up trouble/strife/sediment），与带有安抚性、构想性质的 'reassuring visions' 产生强烈的语义与搭配冲突。",
+    "distractor_analysis": {
+      "conjure": "正确。conjure 与 up 连用（conjure up）是高级英语中极具辨识度的固定搭配，意为‘凭空想象出、在脑海中勾勒出（尤指如变戏法般虚构出的景象或假象）’，与宾语 'reassuring visions of atmospheric restoration'（大气恢复的宽慰景象）形成精确的学术修辞搭配。",
+      "evoke": "错误。语法结构严重不兼容。evoke（唤起、引起）是纯及物动词，必须直接后接宾语（如 evoke memories/sympathy），绝对不能与副词小品词 up 连用，*evoke up 属于中低级语病。",
+      "invoke": "错误。语法与语义均不成立。一方面，invoke（援引、祈求、行使）亦为纯及物动词，不与 up 搭配（*invoke up 为语法错误）；另一方面，invoke 强调诉诸法律权威、原则、先例或神明护佑，无法表示‘凭空构想或勾勒景象’。",
+      "stir": "错误。虽然 stir 可与 up 构成短语 stir up，但 stir up 的核心语义为‘激起纷争、煽动动乱、搅起沉渣’（如 stir up resentment/controversy/dust）。用于本句修饰 'reassuring visions'（抚慰人心的愿景）会产生严重的语义对立与修辞矛盾。"
+    },
+    "translation": "尽管推测性的地球工程模型试图勾勒出大气恢复的宽慰景象，但经验生态学家警告称，部署未经检验的气溶胶可能会对全球降雨模式造成灾难性破坏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_04",
+    "group_id": 312,
+    "group_name": "conjure, evoke, invoke, stir",
+    "level": "TEM-8",
+    "target_word": "evoke",
+    "question": "Biologists observed that the acoustic distress calls of juvenile marine mammals invariably ___ a swift protective response from maternal adults, thereby enhancing offspring survival rates in turbulent oceanic environments.",
+    "options": [
+      "conjure",
+      "evoke",
+      "invoke",
+      "stir"
+    ],
+    "answer": "evoke",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中由刺激源发出的动作作用于客体并引出 'a swift protective response from...'（诱发来自……的迅速保护性反应）。在行为生物学与学术英语中，外部刺激‘激起、诱发生物学或行为反应’的标准学术搭配是 'evoke a response'。invoke 专指援引法规、求助权威或召唤神明，用于刺激-反应语境属典型词汇误用（malapropism）；conjure 强调如变魔术般凭空捏造，与客观发生的真实母本保护反应逻辑相悖；stir 与抽象动作反应名词 response 存在搭配断裂（stir 只搭配情绪、心灵或流体，不作 *stir a response）。",
+    "distractor_analysis": {
+      "evoke": "正确。evoke 意为‘引起、诱发（某种反应、情感或记忆）’。在自然科学与生态学语境中，'evoke a response from...' 为极其地道严谨的固定学术搭配，准确表达幼崽求救声作为听觉刺激‘诱发’了母体的防御性行为反应。",
+      "invoke": "错误。形近义异的典型混淆项。invoke 意为‘援引（法律、条款）、求助（权威、神力）、实施（法术）’，其动作主体通常具有法律或契约意识，客体为法条、原则或权威，绝不能替代 evoke 来表达客观刺激对生理或行为反应的‘诱发’。",
+      "conjure": "错误。语义范畴冲突。conjure 意为‘如变戏法般变出、虚构出’，通常伴有魔术、幻觉或无中生有的虚假色彩，无法与严谨的动物行为学客观规律 'a swift protective response' 搭配。",
+      "stir": "错误。搭配失范。stir 虽可表示‘激发、唤醒’，但其宾语通常为情绪本身（如 stir passion/anger/curiosity）或被触动的心灵/灵魂（stir one's soul），英语中不存在 *stir a response 这一搭配。"
+    },
+    "translation": "生物学家观察到，幼年海洋哺乳动物发出的声学求救信号总是能在成年母体中激起迅速的保护性反应，从而提高了后代在汹涌动荡的海洋环境中的存活率。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_05",
+    "group_id": 313,
+    "group_name": "conspire, conjure, intrigue, scheme",
+    "level": "TEM-8",
+    "target_word": "conspire",
+    "question": "Empirical observations indicate that institutional groupthink and severe cognitive fatigue frequently ___ to undermine analytical rigor, subtly predisposing senior intelligence analysts to catastrophic strategic misjudgments.",
+    "options": [
+      "conspire",
+      "conjure",
+      "intrigue",
+      "scheme"
+    ],
+    "answer": "conspire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The subject consists of inanimate, abstract psychological factors ('groupthink' and 'fatigue') followed by the infinitive 'to undermine' expressing an adverse joint outcome. Only 'conspire' possesses the established figurative collocation 'factors conspire to do sth' (to act together toward a harmful result).",
+    "distractor_analysis": {
+      "conspire": "正确。conspire 在高阶学术与政论英语中具有特殊的隐喻性搭配用法，常以无生命、抽象概念（如环境、心理偏差、客观条件）作主语，构成“factors/circumstances conspire to do sth.”结构，意为“（多种不良因素）共同起作用；巧合地合力导致（消极后果）”，完全契合句中 groupthink 与 fatigue 共同破坏分析严谨性的语境。",
+      "conjure": "错误。conjure 意为“变魔术般变出；在脑海中唤起”，通常作及物动词（常与 up 连用），无法与无生命主语构成“conjure to do sth.”以表示“合力造成某种负面后果”的句式。",
+      "intrigue": "错误。intrigue 作不及物动词表示“密谋、搞阴谋”时，施事主语必须是具有主观恶意的“人”，不能由无生命抽象名词充当；作及物动词时意为“激发……的兴趣”，宾语必须为人，无法后接不定式表示结果。",
+      "scheme": "错误。scheme 作动词表示“策划、密谋”时，严格要求具有主观意识的理性行为者（human agents）作为施事主语，绝不能用于抽象心理机制或客观因素合力产生某种不良效应的修辞表达中，搭配严重失范。"
+    },
+    "translation": "经验观察表明，机构内部的群体思维与严重的认知疲劳往往共同起作用，从而削弱了分析的严谨性，并在潜移默化中使资深情报分析师极易出现灾难性的战略误判。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_06",
+    "group_id": 313,
+    "group_name": "conspire, conjure, intrigue, scheme",
+    "level": "TEM-8",
+    "target_word": "conjure",
+    "question": "By skillfully weaving evocative metaphors into her narrative, the essayist managed to ___ vivid mental images of historical trauma, compelling readers to confront uncomfortable truths.",
+    "options": [
+      "conspire",
+      "conjure",
+      "intrigue",
+      "scheme"
+    ],
+    "answer": "conjure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The blank requires a transitive verb governing the direct cognitive object 'vivid mental images'. Only 'conjure' can function transitively in the cognitive/literary sense of 'summoning or evoking images/memories in the mind'.",
+    "distractor_analysis": {
+      "conspire": "错误。conspire 为不及物动词（常接 with/against 或接 to-infinitive），根本无法支配名词短语“vivid mental images”作直接宾语，存在绝对的句法配价冲突。",
+      "conjure": "正确。conjure 作及物动词时意为“在脑海中唤起、展现（意象、记忆等）”（to bring to mind; call forth），与宾语 vivid mental images 构成文学与认知领域极为地道的固定搭配（conjure images of...），完美符合语境。",
+      "intrigue": "错误。intrigue 作及物动词时意为“激起……的好奇心或兴趣”，其宾语必须是能产生心理反应的人（如 intrigue the reader），绝不能支配“mental images”等认知产物名词作宾语，违反选择限制（selectional restrictions）。",
+      "scheme": "错误。scheme 绝大多数情况下为不及物动词（意为“谋划、图谋”，与 for/against 连用或接不定式）；极少数及物用法也仅限于接 scheme a plan/plot 等阴谋计划类宾语，绝不能用于“在脑海中唤起意象”，语义与句法均不匹配。"
+    },
+    "translation": "通过巧妙地将唤起感官共鸣的隐喻融入叙事之中，这位随笔作家成功唤起了关于历史创伤的生动意象，迫使读者直面令人不安的真相。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_07",
+    "group_id": 314,
+    "group_name": "contemplate, muse, meditate, ponder",
+    "level": "TEM-8",
+    "target_word": "contemplate",
+    "question": "Confronted with imminent fiscal collapse, the finance ministry refused to even ___ restructuring the sovereign debt, fearing that such a concession would irreversibly compromise the nation's credit rating in international capital markets.",
+    "options": [
+      "contemplate",
+      "muse",
+      "meditate",
+      "ponder"
+    ],
+    "answer": "contemplate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The blank governs a direct gerund phrase ('restructuring the sovereign debt') within a negative polarity decision-making frame ('refused to even ___'). Syntactically, only 'contemplate' directly licenses a bare gerund complement (contemplate doing sth) to denote considering a prospective policy or intentional future course of action.",
+    "distractor_analysis": {
+      "contemplate": "正确。contemplate 在高级正式英语中可直接接动名词作宾语（contemplate doing sth），意为“考虑/预想采取某种行动或可能性”（to view as likely, probable, or as an objective/intention）。在否定或限制语境“refused to even contemplate...”中，它是高阶政经与学术文本中表示“拒绝考虑采取某项方案”的标准搭配。",
+      "muse": "错误。muse 为不及物动词（常与 on/upon/over 连用）或引语动词，意为“沉思、冥想、若有所思地漫想”，既不可直接跟动名词作宾语（*muse restructuring 属严重语法错误），也无法在语义上用于国家宏观决策中表示“打算或考虑推行某项举措”。",
+      "meditate": "错误。meditate 现代用法中主要为不及物动词（接 on/upon 表示深思或冥想），极少数及物用法仅限于接抽象名词表示“图谋、策划”（如 meditate revenge），不能接动名词作直接宾语（*meditate restructuring 违反现代句法规则），且其“宗教或心灵冥想”的核心义项与宏观财政政策语境格格不入。",
+      "ponder": "错误。在现代标准学术与正式英语规范中，ponder 不支配动名词直接宾语（*ponder doing sth 为非标准句法；规范用法需后接 whether to do、名词短语 ponder the restructuring 或介词短语 ponder on/over）。此外，ponder 强调对复杂难题或哲学疑问的反复权衡与琢磨，而非表示“在政策层面上将某动作纳为备选方案”。"
+    },
+    "translation": "面对迫在眉睫的财政崩溃，财政部甚至拒绝考虑重组主权债务，担心这种妥协将在国际资本市场上不可逆转地损害该国的信用评级。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_08",
+    "group_id": 314,
+    "group_name": "contemplate, muse, meditate, ponder",
+    "level": "TEM-8",
+    "target_word": "muse",
+    "question": "Inspecting the crumbling ruins of the ancient forum, the classicist paused to ___ aloud that architectural monuments, far from defying human mortality, merely preserve the poignant vanity of forgotten empires.",
+    "options": [
+      "contemplate",
+      "muse",
+      "meditate",
+      "ponder"
+    ],
+    "answer": "muse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and collocational frame is '___ aloud that [clause]'. In standard lexicography, only 'muse' combines cognitive reflection with the communicative valency of verbal utterance ('to say or think thoughtfully or wonderingly'), perfectly licensing both 'aloud' and a declarative 'that'-clause to express a reflective remark.",
+    "distractor_analysis": {
+      "contemplate": "错误。contemplate 是纯粹的内心认知与专注思考动词，绝不具备言语表达或发声的功能，不能与副词 aloud（出声地）搭配使用；且 contemplate that 仅用于表示“预想某种未来事件发生的可能性”，无法用于对此处既成历史哲理的抒怀感叹。",
+      "muse": "正确。根据《韦氏词典》与各大高阶词典释义，muse 不仅表示沉思漫想，还具有独特的及物言语动词属性，意为“若有所思地说出/感叹道”（to say or think thoughtfully or wonderingly），常后接 that 从句，并与副词 aloud 构成经典学术散文搭配（muse aloud that...），完美契合学者面对历史废墟有感而发的语境。",
+      "meditate": "错误。meditate 指内心深沉专注的冥想或精神沉思，具有严格的无声性与内向性，“meditate aloud”（出声冥想）在语义和搭配上自相矛盾；此外，meditate 无法直接后接 that 从句（*meditate that 属语法硬伤）。",
+      "ponder": "错误。ponder 侧重于在内心严肃、沉重地权衡难题，属于纯粹的心理加工动词，不能充当引述言语发声的动词，与 aloud 连用极为生硬；且权威语法与学习词典（如 Longman/Oxford）明确标示 ponder 不后接 that 从句（只能接 wh- 从句或名词短语），句法上直接被排除。"
+    },
+    "translation": "视察着古罗马广场的残垣断壁，这位古典学学者不禁出声感叹道：建筑遗迹远非是对人类速朽命运的抗争，而仅仅留存了被遗忘帝国令人唏嘘的虚荣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_09",
+    "group_id": 315,
+    "group_name": "contrive, forge, formulate, invent",
+    "level": "TEM-8",
+    "target_word": "contrive",
+    "question": "Despite confronting acute supply chain disruptions and escalating trade tariffs, resilient tech firms somehow ___ to maintain uninterrupted production schedules, confounding the dire prognostications of prominent industry analysts.",
+    "options": [
+      "contrive",
+      "forge",
+      "formulate",
+      "invent"
+    ],
+    "answer": "contrive",
+    "primary_mechanism": "MECH_SYNTACTIC_SELECTION",
+    "field": "FIELD_BUSINESS_ECONOMICS",
+    "anchor_clue": "句法补足语支配锚点（Syntactic Complementation / Colligation）：空格前主语为复数名词短语'resilient tech firms'，空格后直接跟有不定式补足语'to maintain...'。在四个选项中，仅有contrive具备链锁动词（catenative verb）用法，能够接不定式构成'contrive to do sth'（设法做到、排除万难达成），在语义上精准呼应让步从句中的严峻困境（acute disruptions and escalating tariffs）。其余三个动词（forge, formulate, invent）均为严格的纯及物动词，其后必须接名词性直接宾语，绝不可接不定式补足语（*forge to do, *formulate to do, *invent to do均为严重语法违例）。",
+    "distractor_analysis": {
+      "contrive": "正确。contrive可作连系/链锁动词后接不定式（contrive to do sth），意为“设法做到、排除万难达成（尤指通过巧妙谋划或艰难努力达成某事）”，既与前文让步状语中的外部阻力形成完美逻辑呼应，又在句法结构上无缝支配后面的不定式短语'to maintain...'，且与复数主语在主谓一致上完全契合。",
+      "forge": "错误。forge为纯及物动词，意为“锤炼、通过艰苦努力缔造（关系、联盟）”（如forge an alliance, forge a consensus）或“伪造（文件、签名）”；其不及物用法仅见于固定短语'forge ahead'。在标准英语中，forge绝对不可接'to do'不定式结构（*forge to maintain属于不可接受的句法错误）。",
+      "formulate": "错误。formulate为纯及物动词，意为“系统地阐述、制定（规划、政策或理论）”，后面必须紧跟名词性直接宾语（如formulate a policy, formulate a strategy），无法后接不定式作为动词补足语（*formulate to maintain在句法上完全不成立）。",
+      "invent": "错误。invent同样为纯及物动词，表示“发明（新设备、新方法）”或“捏造（借口、谎言）”，其句式支配仅限于名词性宾语（如invent a device, invent an excuse），根本不具备接不定式的句法语义潜能（*invent to maintain违反英语动词补足语规则）。"
+    },
+    "translation": "尽管面临严峻的供应链中断和不断升级的贸易关税，具有韧性的科技企业仍设法维持了不间断的生产进度，令知名行业分析师的悲观预测彻底落空。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_10",
+    "group_id": 315,
+    "group_name": "contrive, forge, formulate, invent",
+    "level": "TEM-8",
+    "target_word": "forge",
+    "question": "Confronted by escalating regional volatility, the special envoy worked painstakingly across factional lines to ___ an enduring alliance between erstwhile adversaries, ensuring collective defense along the contested corridor.",
+    "options": [
+      "contrive",
+      "forge",
+      "formulate",
+      "invent"
+    ],
+    "answer": "forge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "核心词汇搭配与外交语域锚点：空后宾语为'an enduring alliance'（持久同盟）。在国际政治与高阶学术英语中，'forge an alliance'（缔结同盟/锤炼出盟约）属于极高频、不可替代的固定搭配，隐喻像锻造金属般历经艰辛打磨（'worked painstakingly across factional lines'）方能成型。其余三项与alliance搭配均存在严重搭配断裂或语体语义冲突。",
+    "distractor_analysis": {
+      "forge": "正确。forge在此引申为“经艰苦努力缔造/促成（稳固的关系、协议或同盟）”，'forge an alliance'是政论和外交史语料库中的经典黄金搭配，极好地呼应了句中'worked painstakingly'所表达的艰辛斡旋过程。",
+      "contrive": "错误。contrive接宾语时多指“通过不正当手段、阴谋或勉强的构想谋划出某事”（如contrive a pretext, contrive a plot），带有强烈的“矫揉造作、不自然、耍手腕”的负面贬义色彩，与句中特使促成庄严稳固的'enduring alliance'（持久同盟）的宏大庄重语体产生严重冲突。",
+      "formulate": "错误。formulate的核心语义是“系统阐述、规划构想抽象方案或条文”（如formulate a policy, formulate a strategy, formulate a hypothesis），其宾语必须是策略、原则、学说或规划体系，不能与具有实体组织和政治契约性质的'alliance'搭配（*formulate an alliance属于搭配不当）。",
+      "invent": "错误。invent指通过想象力无中生有地创造新装置、新技术或编造虚假借口（如invent a machine, invent a story），政治盟约是多方协议协商的产物，绝不可用invent搭配（*invent an alliance严重违背语义逻辑）。"
+    },
+    "translation": "面对日益加剧的地区动荡，特使跨越派系界限煞费苦心地促成昔日宿敌结成持久同盟，从而确保了争议走廊沿线的集体防御。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_11",
+    "group_id": 316,
+    "group_name": "counteract, antagonize, reciprocate, deal",
+    "level": "TEM-8",
+    "target_word": "counteract",
+    "question": "To ___ the persistent deflationary pressures destabilizing the domestic economy, the central bank implemented a series of aggressive monetary stimulus packages alongside strategic fiscal interventions.",
+    "options": [
+      "counteract",
+      "antagonize",
+      "reciprocate",
+      "deal"
+    ],
+    "answer": "counteract",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Direct object 'persistent deflationary pressures destabilizing the domestic economy' strictly dictates a transitive verb meaning to neutralize, offset, or check an adverse mechanical or economic force.",
+    "distractor_analysis": {
+      "counteract": "正确。counteract 为及物动词，核心义为“抵消、对抗、减弱（不良影响或力量）”，其宾语常为 pressures、effects、forces、tendencies 等表示不良或阻碍性力量的抽象名词，与句中的“persistent deflationary pressures”构成经典学术搭配。",
+      "antagonize": "错误。antagonize 表示“使……对抗、激怒、引起……反感”，其宾语通常为具有主观意识的个体、群体或组织（如 voters、allies），用于经济学语境中指向无生命、客观存在的“通缩压力（deflationary pressures）”属于范畴错配（category mistake）。",
+      "reciprocate": "错误。reciprocate 表示“回报、对等回应（某种情感、恩惠或敌意举措）”，宾语通常为 gesture、favor、sentiment 或 hostility 等互动性行为，无法与客观存在的经济逆境或压力搭配。",
+      "deal": "错误。deal 作及物动词时仅限于表示“分发（牌）”或“给予（打击，如 deal a blow）”；若表达“处理、应对”，必须与介词 with 搭配（deal with the pressures），在此直接带名词短语作宾语存在严重句法错误。"
+    },
+    "translation": "为了抵消动摇国内经济的持续通缩压力，央行推行了一系列激进的货币刺激方案，并辅之以战略性财政干预。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_12",
+    "group_id": 316,
+    "group_name": "counteract, antagonize, reciprocate, deal",
+    "level": "TEM-8",
+    "target_word": "antagonize",
+    "question": "The prime minister hesitated to introduce the contentious agricultural reform bill, fearing that it would unnecessarily ___ key rural constituencies and imperil the fragile coalition before the upcoming general election.",
+    "options": [
+      "counteract",
+      "antagonize",
+      "reciprocate",
+      "deal"
+    ],
+    "answer": "antagonize",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The animate political object 'key rural constituencies' paired with the parallel coordination 'and imperil the fragile coalition' necessitates a transitive verb denoting provoking hostility or estrangement in a political group.",
+    "distractor_analysis": {
+      "counteract": "错误。counteract 的宾语一般为非人称的负面效应、力量或倾向（如 effects, trends, poison），不能直接接选民群体或利益集团（constituencies）作为宾语，违背其语义搭配限制。",
+      "antagonize": "正确。antagonize 表示“使……成为对手、激怒、使……疏远（促成敌对情绪）”，是政治哲学与高阶社论中常见的行为动词，与“key rural constituencies（关键乡村选民群体）”搭配精准，与下文“imperil the fragile coalition（危及脆弱的执政联盟）”在政治逻辑上形成严密因果呼应。",
+      "reciprocate": "错误。reciprocate 强调对等回报某种动作或态度（如 reciprocate kindness/hostility），而本句中选民尚未采取先发行动，法案的作用是单向挑起选民的不满，逻辑不成立且宾语不能直接指代人身群体本身。",
+      "deal": "错误。deal 作及物动词不能接“constituencies”作为直接宾语（若作“应付、打交道”解须加 with），且即便加上 with 亦无法体现“引起敌对、触怒”这一导致联盟瓦解的负面政治语义强度。"
+    },
+    "translation": "首相在推出这项极具争议的农业改革法案时犹豫不决，唯恐这会徒然激怒关键的乡村选民群体，并在即将到来的大选前危及本就脆弱的执政联盟。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_13",
+    "group_id": 317,
+    "group_name": "cudgel, thump, swipe, bat",
+    "level": "TEM-8",
+    "target_word": "cudgel",
+    "question": "Faced with an unprecedented fiscal deficit and dwindling public reserves, the treasury's chief economic advisers had to ___ their brains for weeks to devise a legally viable restructuring plan.",
+    "options": [
+      "cudgel",
+      "thump",
+      "swipe",
+      "bat"
+    ],
+    "answer": "cudgel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed cognitive idiom 'cudgel one's brains' (meaning to think intensely and exhaustively to resolve an intractable dilemma); distractors thump, swipe, and bat do not enter into this established mental collocation.",
+    "distractor_analysis": {
+      "cudgel": "正确。动词 cudgel 源自名词“粗短木棒”，其核心转喻及固定认知搭配为 'cudgel one's brains'（绞尽脑汁、苦思冥想），在权威辞书及高阶学术语料库中专指“竭尽心智以解决复杂棘手的困境”。句中经济顾问面对财政赤字与储备缩减，为制定重组方案而搜肠刮肚，与宾语 'their brains' 构成无可替代的定式搭配。",
+      "thump": "错误。thump 意为“重击；发出沉闷响声地捶打”，其宾语通常为坚硬物体（如 thump the table）或作不及物动词指心脏剧烈跳动（hearts thump），但在英语中绝不能与 brains 连用，不存在 *thump one's brains 这一表达。",
+      "swipe": "错误。swipe 作动词主要表示“挥拳猛击；挥动扫击；偷窃；刷（磁卡）”，常与介词 at 连用表示侧向扫击（swipe at sth.）。swipe their brains 属于严重的搭配断裂，在语义上毫无认知指向。",
+      "bat": "错误。bat 作动词意为“用球棒击打；眨动（眼皮）”，常见习语包括 not bat an eye/eyelid（连眼都不眨一下）或短语动词 bat around/about（探讨想法）。bat their brains 同样毫无认知语用与搭配理据。"
+    },
+    "translation": "面对空前的财政赤字与日益缩水的人民公共储备，财政部的首席经济顾问们不得不绞尽脑汁数周，以制定出一项在法律上切实可行的重组方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_14",
+    "group_id": 317,
+    "group_name": "cudgel, thump, swipe, bat",
+    "level": "TEM-8",
+    "target_word": "thump",
+    "question": "Throughout the contentious epistemological debate, the philosopher refused to ___ the lectern or rely on rhetorical bluster, choosing instead to dismantle his opponent's claims through rigorous, syllogistic deduction.",
+    "options": [
+      "cudgel",
+      "thump",
+      "swipe",
+      "bat"
+    ],
+    "answer": "thump",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Rhetorical/oratorical collocation 'thump the lectern' (pounding a podium/table with fists to enforce an argument through acoustic intimidation rather than logic), perfectly contrasted with 'rigorous, syllogistic deduction'.",
+    "distractor_analysis": {
+      "thump": "正确。thump the lectern/table/podium 是英语学术辩论与政治演讲语境中的经典修辞搭配（与名词 table-thumping / tub-thumping 同源），意指“（演说辩论时）敲打讲台/桌子以强化声势或进行情绪宣泄”，与句中后文的 'rely on rhetorical bluster'（依靠虚张声势的修辞）构成语义互文，并与 'rigorous, syllogistic deduction'（严密的逻辑演绎）形成强烈对照。",
+      "cudgel": "错误。cudgel 作为及物动词专指用短棍痛击某人（strike with a cudgel）或用于比喻性认知习语 cudgel one's brains。在学术研讨会语境中，学者不可能手持木棒敲打讲台，cudgel the lectern 在语义和语域上均极度荒谬。",
+      "swipe": "错误。swipe 意为“侧向横扫；刷卡；偷窃”。swipe the lectern 只能理解为“挥臂横扫讲台”或口语中的“顺手牵羊偷走讲台”，完全脱离了学术论辩中通过敲打发声来虚张声势的语境。",
+      "bat": "错误。bat 指用球棒击打（如棒球、板球运动）或眨眼（bat eyelashes），用于 bat the lectern 既缺乏打击发出沉闷巨响的声学特征，也不符合正式哲学辩论的语体风格，属于语法与语用层面的双重误用。"
+    },
+    "translation": "在那场激烈的认识论辩论中，这位哲学家拒绝通过敲打讲台或依赖虚张声势的修辞来压制对方，而是选择通过严密的三段论演绎来瓦解对手的主张。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_15",
+    "group_id": 318,
+    "group_name": "culminate, abort, adjudicate, stop",
+    "level": "TEM-8",
+    "target_word": "culminate",
+    "question": "Decades of empirical investigation into cognitive neuroplasticity and synaptic transmission are poised to ___ in a unified paradigm of memory consolidation, fundamentally overturning several long-held neurological dogmas.",
+    "options": [
+      "culminate",
+      "abort",
+      "adjudicate",
+      "stop"
+    ],
+    "answer": "culminate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "poised to ___ in a unified paradigm... fundamentally overturning",
+    "distractor_analysis": {
+      "culminate": "正确。culminate 为不及物动词，核心意为“达到顶点或最终结果”，其标准学术搭配为 culminate in sth（以……告终/在……中达到顶峰）。句中“数十年的实证研究最终汇聚成一个颠覆旧说的新理论范式”，在句法介词搭配（in）与学术话语褒义发展语境上均完全契合。",
+      "abort": "错误。abort 意为“中途夭折、提前终止”，通常作及物动词（如 abort a mission），作不及物动词时也不与介词 in 搭配表示“产生某种辉煌成果”。此外，该词表达行动失败或流产，与句后“颠覆长期定论的统一理论范式”这一开创性学术成果存在严重的逻辑褒贬反转（logical connotation inversion）。",
+      "adjudicate": "错误。adjudicate 属于法律与仲裁专门用语，意为“裁决、判决”（如 adjudicate a dispute 或 adjudicate upon a claim）。学术实证研究不能“裁决进一个范式”，既存在范畴错配（category error），又无法与介词 in 形成合理解释。",
+      "stop": "错误。stop in 为非正式口语短语动词，意为“顺道走访、顺便探望”（如 stop in for a chat），在高级学术英语中造成严重的语域冲突（register clash）；若表示“停止”，stop 无法后接介词 in 来引出某项长期探索所达到的巅峰成果（不能表达“以……告终”之意）。"
+    },
+    "translation": "数十年来对认知神经可塑性与突触传递的实证研究，即将汇聚并升华成一个统一的记忆巩固理论范式，从而从根本上颠覆多项长期存在的神经科学定论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_16",
+    "group_id": 318,
+    "group_name": "culminate, abort, adjudicate, stop",
+    "level": "TEM-8",
+    "target_word": "abort",
+    "question": "Confronted with acute sensory disorientation and severe telemetry anomalies, the experimental test pilot exercised rapid cognitive control to ___ the supersonic test flight before catastrophic loss of control occurred.",
+    "options": [
+      "culminate",
+      "abort",
+      "adjudicate",
+      "stop"
+    ],
+    "answer": "abort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "to ___ the supersonic test flight before catastrophic loss of control occurred",
+    "distractor_analysis": {
+      "abort": "正确。abort 在航空航天与高危操作认知领域是法定标准动宾搭配（collocation of art），意为“因危险、故障等在未完成预定程序前紧急中止/放弃（任务或飞行）”。句中试飞员在感官失调和数据异常时启动应急认知控制，在空中果断“中止试飞任务”，搭配严密精准。",
+      "culminate": "错误。culminate 主要为不及物动词（通常接 in），在此处直接带宾语 the supersonic test flight 构成及物动词用法极为罕见且生硬；更关键的是，culminate 意为“达到顶点或完满结局”，与试飞员为避免灾难性坠机而在中途“紧急叫停任务”的语意完全相反（逻辑反转）。",
+      "adjudicate": "错误。adjudicate 专指司法官或仲裁者“审判、判决”（如 adjudicate a legal claim），在语义场上完全属于法律范畴，不能以航空飞行或作战任务为其直接宾语，属于严重词义错配。",
+      "stop": "错误。stop 是日常通用词，在航空航天及军事工程的高级书面语中存在严重的语域失配；更重要的是，飞机在空中处于超音速飞行状态时，物理上绝不可能“停住（stop the flight）”。在专业飞行术语中，提前终止预定飞行计划并返航或弹射的唯一规范表达为 abort the flight/mission，选用 stop 会造成严重的搭配断裂（collocational rupture）与物理逻辑不通。"
+    },
+    "translation": "面对突发的严重感官定向障碍和遥测数据异常，这名试飞员迅速施加认知控制，在发生灾难性的失控之前果断中止了此次超音速试飞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_17",
+    "group_id": 319,
+    "group_name": "dab, jab, hew, pat",
+    "level": "TEM-8",
+    "target_word": "dab",
+    "question": "In examining the cognitive mechanisms of tactile perception, researchers instructed participants to lightly ___ micro-droplets of viscous gel onto their fingertips, measuring the sensory thresholds across various cutaneous mechanoreceptors.",
+    "options": [
+      "dab",
+      "jab",
+      "hew",
+      "pat"
+    ],
+    "answer": "dab",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "lightly ___ micro-droplets of viscous gel onto their fingertips: 'dab' 具有将微量液体或膏状物轻触、轻敷于表面（dab sth onto/on）的唯一定义与搭配。",
+    "distractor_analysis": {
+      "dab": "【正确】dab 此处用作及物动词，核心义项为“轻敷、轻涂、点抹”（to apply with light, gentle strokes），与句中的直接宾语“micro-droplets of viscous gel”（黏性凝胶微滴）以及介词短语“onto their fingertips”构成绝佳且无可替代的专业实验搭配，精准契合“lightly”所描绘的轻柔触感与精细动作控制。",
+      "jab": "【排除】jab 意为“戳、刺、猛击”（to poke quickly or abruptly with something sharp or blunt），动作特征为带有穿透性或冲击力的猛击，既无法支配“微小液滴（micro-droplets）”作为被涂抹对象，也与“lightly onto their fingertips”的轻缓实验规程发生严重逻辑与语义冲突。",
+      "hew": "【排除】hew 意为“劈、砍”（to cut or chop with an axe）或引申为“坚持、遵循（hew to）”，属于重型体力切割或抽象准则遵从，在触觉认知实验的语境中出现属于严重的词义与语体误用。",
+      "pat": "【排除】pat 指用平整表面（如手掌）“轻拍、轻打”（to strike lightly with a flat surface），通常用于拍抚身体某部位（如 pat one's back）或拍干水分（pat dry），但不可用于支配“液滴/药膏（micro-droplets）”并表达将其“轻涂、点滴于某处（onto）”的操作，缺乏 dab 所独有的微量流体点涂语义。"
+    },
+    "translation": "在考察触觉感知的认知机制时，研究人员指导受试者将数滴黏性凝胶微滴轻抹至指尖，以此测定不同皮肤机械感受器的感知阈值。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_18",
+    "group_id": 319,
+    "group_name": "dab, jab, hew, pat",
+    "level": "TEM-8",
+    "target_word": "jab",
+    "question": "During the contentious symposium on cognitive architecture, the visiting philosopher chose to aggressively ___ an accusing finger at the computational model, dismissing its explanatory adequacy as mere reductionist rhetoric.",
+    "options": [
+      "dab",
+      "jab",
+      "hew",
+      "pat"
+    ],
+    "answer": "jab",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "aggressively ___ an accusing finger at: 'jab a finger at' 为固定强搭配，表示以手指猛戳、指向以示指责或抗议，副词 'aggressively' 构成了决定性的动向排他锚点。",
+    "distractor_analysis": {
+      "jab": "【正确】jab 意为“猛刺、猛戳”（to poke quickly or abruptly），在肢体语言与论辩修辞中，“jab a finger at sb/sth”为高度固定的习惯搭配，意指“用手指直戳/猛指某人或某物”，生动传达出学术争论中充满敌意与侵略性的批判姿态，与修饰语“aggressively”及宾语“an accusing finger at”严丝合缝。",
+      "dab": "【排除】dab 意为“轻拍、轻触、点擦”，动作质态极度轻柔微弱（如擦拭泪水或涂药），根本无法与带有强烈攻击性的手势“an accusing finger at”及副词“aggressively”相兼容，搭配完全断裂。",
+      "hew": "【排除】hew 意为“砍伐”或“遵循（hew to）”，在语法上不可与“a finger at”连用，属于语法结构与词汇语义的双重错误。",
+      "pat": "【排除】pat 指用手掌“轻拍、抚拍”，通常带有安抚、赞许或安详的感情色彩（如 pat sb on the head/back），不仅无法支配介词短语“a finger at”（手指并非平面），且与语境中激烈的批判态度（aggressively, accusing, dismissing）存在不可调和的情态反差。"
+    },
+    "translation": "在那场关于认知架构的激烈研讨会上，那位客座哲学家咄咄逼人地用一根充满指责意味的手指直戳那套计算模型，斥责其解释力度不过是彻头彻尾的还原论说辞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_19",
+    "group_id": 320,
+    "group_name": "deaden, slit, girdle, worry",
+    "level": "TEM-8",
+    "target_word": "deaden",
+    "question": "Sociologists observe that exposure to relentless digital outrage can gradually ___ emotional sensibilities, conditioning citizens to consume catastrophe with clinical detachment rather than genuine moral responsiveness.",
+    "options": [
+      "deaden",
+      "slit",
+      "girdle",
+      "worry"
+    ],
+    "answer": "deaden",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'emotional sensibilities' and aligns with the consequence 'conditioning citizens to consume catastrophe with clinical detachment'.",
+    "distractor_analysis": {
+      "deaden": "正确。deaden意为“使麻木、使迟钝、削弱（知觉/情感）”。在认知与心理学语境中，“deaden sensibilities”（使情感/敏锐度迟钝、麻木）是高度规范且典型的固定学术搭配，与后文的“clinical detachment”（冷漠抽离）及“moral responsiveness”（道德响应）形成精确的因果照应。",
+      "slit": "错误。slit意为“切开、撕开”，只能接具象的物理缝隙、眼部或扁平薄物（如slit an envelope），与抽象认知层面的“sensibilities”（情感感知力）存在严重的范畴错配（category mistake）。",
+      "girdle": "错误。girdle意为“环绕、束缚”或林学上的“环剥（树皮）”。既无法支配“sensibilities”，亦不具备“削弱、钝化感知”的语义特征。",
+      "worry": "错误。worry用作及物动词时意为“使担忧、折磨”或“反复撕咬/反复推敲”。与“sensibilities”搭配无法表达“使感知迟钝麻木”之后果，语义逻辑断裂且不合惯用法。"
+    },
+    "translation": "社会学家指出，持续暴露于无休止的网络愤怒之中会逐渐钝化人们的情感感知，促使公民以一种冷眼旁观的抽离姿态去审视灾难，而非产生真正的道德共情。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b31_20",
+    "group_id": 320,
+    "group_name": "deaden, slit, girdle, worry",
+    "level": "TEM-8",
+    "target_word": "slit",
+    "question": "Confronted with the disputed manuscript, the paleographer had to ___ his eyes in intense scrutiny, methodically inspecting the microscopic ink degradation to discern whether the medieval script was authentic.",
+    "options": [
+      "deaden",
+      "slit",
+      "girdle",
+      "worry"
+    ],
+    "answer": "slit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Governs the direct object 'his eyes' in the purposeful cognitive context of 'in intense scrutiny, methodically inspecting ... to discern'.",
+    "distractor_analysis": {
+      "slit": "正确。slit用作及物动词时有专门的身体部位搭配“slit one's eyes”（把眼睛眯成一条缝以仔细端详或抵御强光）。此处与“his eyes”构成严密的动宾搭配，生动表现古文字学者为了细致审验（in intense scrutiny）而“眯起双眼”进行微观辨析的视觉认知动作。",
+      "deaden": "错误。deaden his eyes意为“使眼神变得呆滞无神或失去知觉”，这与后文“in intense scrutiny”（极力审视）和“to discern whether... was authentic”（辨别真伪）在认知逻辑上完全背道而驰。",
+      "girdle": "错误。girdle意为“环绕、围住”，在解剖生理与动宾搭配上均无法及物支配“eyes”。",
+      "worry": "错误。worry接“eyes”为严重搭配不当；英语中不存在“worry one's eyes”表示眯眼聚焦或观察的用法。"
+    },
+    "translation": "面对这份真伪存疑的手稿，古文字学家不得不眯起双眼仔细审视，有条不紊地检验微观墨迹的老化程度，以辨别这部中世纪手抄本是否确属真迹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

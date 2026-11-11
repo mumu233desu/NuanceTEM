@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b48_01",
+    "group_id": 481,
+    "group_name": "dandy, keen, neat, good",
+    "level": "TEM-8",
+    "target_word": "dandy",
+    "question": "While neoclassical market equilibrium appears fine and ___ in abstract economic textbooks, empirical econometric studies demonstrate that real-world frictions, asymmetrical information, and behavioral biases inevitably disrupt such frictionless paradigms.",
+    "options": [
+      "dandy",
+      "keen",
+      "neat",
+      "good"
+    ],
+    "answer": "dandy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中存在不可逆固定并列双项词（irreversible binomial pair）结构'fine and ___'。在英语学术与政经报刊的认知评价语体中，'fine and dandy'为固定成语搭配（意为'表面上令人满意、看似无懈可击'，常用于让步转折前项）；而good的对应固定搭配为'well and good'（绝无*fine and good之说）；keen与neat均无法与fine构成此类固定并列习语，代入均造成严重的搭配断裂。",
+    "distractor_analysis": {
+      "dandy": "正确。dandy在此处构成英语高度固化的不可逆双项搭配（binomial pair）'fine and dandy'，意为'尚可、表面上看似不错'。该习语在学术评论与高端政经报刊（如《经济学人》）中常用于让步从句（concessive clause），承认某种理论框架或模型在纸面上具有合理性，为后文转折引出实证层面的缺陷做铺垫，完全契合语境认知评价场与修辞功能。",
+      "keen": "错误。keen作形容词主要表示'敏锐的'（keen intellect/perception）或'热衷的、渴望的'（be keen on/to do）。它在句法上既无法与fine形成并列双项成语（*fine and keen不存在），在语义上也无法充当抽象理论范式（market equilibrium）的评价性表语，属于语义搭配双重断裂。",
+      "neat": "错误。neat虽可引申表示理论或方案'精巧简洁的'（a neat solution），但英语中不存在*fine and neat这一固定双项词搭配（neat的常规习语搭配为'neat and tidy'）；将其置于此处破坏了既定习语的结构完整性。",
+      "good": "强干扰项/错误。考生极易受汉语'又好又...'的思维影响误选*fine and good。在标准英语同义双项词（hendiadys）体系中，good的固定搭配是'well and good'（或'all well and good'），而*fine and good属于典型的非习语杂糅（unidiomatic hybrid error），在正式学术与考纲规范中均属搭配错误。"
+    },
+    "translation": "尽管新古典市场均衡在抽象的经济学教科书中看似完美无缺，但实证计量经济学研究表明，现实世界的摩擦、信息不对称以及行为偏差必然会打破这种无摩擦的范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_02",
+    "group_id": 481,
+    "group_name": "dandy, keen, neat, good",
+    "level": "TEM-8",
+    "target_word": "dandy",
+    "question": "The central bank governor maintained that monetary tightening was proceeding as planned and that domestic liquidity was just ___, blithely dismissing warnings from commercial lenders regarding an imminent contraction in interbank lending.",
+    "options": [
+      "dandy",
+      "keen",
+      "neat",
+      "good"
+    ],
+    "answer": "dandy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中'domestic liquidity was just ___'构成特定的情态评价表语结构。'just dandy'是英语中表示'极好、毫无问题'的固定习语搭配，在高端政经新闻语境中常带有反讽或揭示当权者盲目乐观（blithely dismissing）的修辞色彩。若换用good，'just good'中的just会退化为限度副词（downtoner，意为'仅勉强尚可'），造成话语逻辑与语用反讽的反转；而keen与neat则与抽象金融概念'liquidity'存在严重的选择限制（selectional restriction）冲突。",
+    "distractor_analysis": {
+      "dandy": "正确。'just dandy'为权威辞书所收录的固定习语（意为'极好的、完全正常的'，通常带有轻微调侃或讽刺性盲目乐观色彩）。本句描绘央行行长在流动性即将收缩的严峻警报面前盲目自信，'just dandy'精准契合行长粉饰太平的认知断言（maintained that... liquidity was just dandy），与后文'blithely dismissing'形成严密的语用反讽闭环。",
+      "keen": "错误。keen意为'敏锐的、强烈的、热切的'，其选择限制要求主语通常为具备感知能力的生命体或认知器官（如mind, eye）。将其用于修饰抽象金融指标'domestic liquidity'（国内流动性），属于典型的范畴选择限制违背（selectional restriction violation）。",
+      "neat": "错误。neat主要用于描述事物'整洁的、工整的'或方案'精妙利落的'。它绝不能用于描述宏观流动性或金融资金状态（*liquidity was neat在金融学术与政经语体中完全不成立），语义严重脱节。",
+      "good": "强干扰项/错误。在'was just + 形容词'结构中，若填入标量形容词good，副词just的作用并非强化'极佳'，而是充当弱化限度修饰语（downtoner），意为'仅仅过得去/尚可而已（not great, just good）'。这与央行行长坚称紧缩按计划推进、断然驳斥警报的自负立场产生直接逻辑矛盾；且在表示'安然无恙/极好'的习语表达中，英语固定使用'just fine'或'just dandy'，而非*just good。"
+    },
+    "translation": "这位央行行长坚称货币紧缩正按计划推进且国内流动性极为充裕，对商业银行关于银行间拆借即将面临收缩的严厉警告全然不屑一顾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_03",
+    "group_id": 482,
+    "group_name": "dapper, spruce, stylish, fashionable",
+    "level": "TEM-8",
+    "target_word": "dapper",
+    "question": "Always ___ and debonair, the veteran envoy was renowned for his bespoke three-piece suits and pocket squares, cultivating an anachronistic, crisp elegance that deliberately shunned the transient fads of contemporary fashion.",
+    "options": [
+      "dapper",
+      "spruce",
+      "stylish",
+      "fashionable"
+    ],
+    "answer": "dapper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "Decisive anchor clue: The explicit syntactic and idiomatic pairing '___ and debonair' represents a well-established, irreversible alliterative binomial in the English lexicon ('dapper and debonair') specifically designating an impeccably turned-out, suave gentleman. Furthermore, the envoy's 'bespoke three-piece suits' and 'anachronistic, crisp elegance' that 'deliberately shunned the transient fads of contemporary fashion' creates an insurmountable logical contradiction with 'fashionable', while ruling out 'spruce' (which denotes freshly scrubbed or newly refurbished neatness rather than ingrained aristocratic refinement) and 'stylish' (which emphasizes chic modern aesthetic design and disrupts the fixed binomial).",
+    "distractor_analysis": {
+      "dapper": "正确。dapper与debonair（温文尔雅的、风度翩翩的）构成英语中极具代表性的固定头韵双音节习语搭配（canonical alliterative binomial: 'dapper and debonair'），专用于形容衣着考究整饬、仪态优雅且神采奕奕的男士。同时，句中的'bespoke three-piece suits'（定制三件套西装）与'crisp elegance'（利落风雅）精确激活了dapper的核心语义特征——专指传统绅士在服饰剪裁与个人仪态上的一丝不苟。",
+      "spruce": "错误。spruce侧重于指人或物‘经整理打扮后呈现出的刚洗净、刷亮、刚整理妥当的清新整洁感’（a fresh, newly neat or refurbished quality），常用于制服或新修饰面貌（如look spruce in a fresh uniform）；它在语用上无法与debonair形成固定头韵搭配（英语中无'spruce and debonair'用法），且缺乏资深外交官长期秉持的定制西服所蕴含的风度与雅致底蕴。",
+      "stylish": "错误。stylish意为‘有格调的、具有高审美水准的’（conforming to high style or chic design），重点强调外在服装、发型或物品在设计上的现代审美与时髦度，无法与debonair构成固定双联习语；此外，后文明确指出其优雅具有‘anachronistic’（老派的、超越时代的）特质，与偏向现代时尚与流行审美趣味的stylish在语义倾向上产生脱节。",
+      "fashionable": "错误。fashionable指‘顺应当前流行风尚的’（conforming to the current fashion or vogue）。句尾明确指出该特使‘deliberately shunned the transient fads of contemporary fashion’（刻意规避当代时尚的短暂狂潮），若填入fashionable会直接导致前后语义冲突与逻辑悖论。"
+    },
+    "translation": "这位资深特使素来衣着利落考究且举止风度翩翩，以其定制的三件套西装和口袋巾闻名；他刻意避开当代时尚的短暂狂潮，保持着一种古典而利落的风雅。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_04",
+    "group_id": 482,
+    "group_name": "dapper, spruce, stylish, fashionable",
+    "level": "TEM-8",
+    "target_word": "dapper",
+    "question": "Eschewing the transient eccentricities of contemporary runway trends, the veteran diplomat appeared unfailingly ___ and debonair at every bilateral summit, his impeccably tailored three-piece suit projecting a timeless, disciplined sartorial elegance.",
+    "options": [
+      "dapper",
+      "spruce",
+      "stylish",
+      "fashionable"
+    ],
+    "answer": "dapper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "Decisive anchor clue: The irreversible alliterative binomial '___ and debonair' is a codified idiomatic collocation in advanced English lexicography (specifically documented in Cambridge and Oxford dictionaries) denoting an impeccably groomed, charming gentleman. Furthermore, the antithetical discourse frame ('Eschewing the transient eccentricities of contemporary runway trends' versus 'timeless, disciplined sartorial elegance') explicitly invalidates words denoting conformity to current fashion.",
+    "distractor_analysis": {
+      "dapper": "正确。此处精准激活了英语权威辞书（如《剑桥高级英语词典》《牛津英语大词典》）收录的经典头韵固化二项式搭配（irreversible alliterative binomial）“dapper and debonair”，专指男性衣冠楚楚、风度翩翩。此外，句首让步状语“Eschewing the transient eccentricities...”与句尾“timeless, disciplined sartorial elegance”设立了反对流行噱头的语义场，与dapper强调男性严整挺括、不随时俗流转的精致着装风格高度契合。",
+      "spruce": "错误。spruce的核心义为“收拾得干净整洁的”（neat and trim as a result of grooming），既可修饰人亦可修饰物（如a spruce cottage, spruce lawns），其语义重心仅在于“收拾打扮利落”，完全不具备dapper所承载的成熟绅士与外交贵气；更具决定性的是，英语中绝无“*spruce and debonair”的搭配格式（在COCA与BNC权威语料库中出现频次均为0），强行替换会导致致命的习语搭配断裂（collocational rupture）。",
+      "stylish": "错误。各大权威词典（Merriam-Webster, OED, Collins）对stylish的第一核心定义均为“conforming to current fashion or style; chic”（符合当下时尚潮流的）。句首已明确指出该资深外交官“Eschewing the transient eccentricities of contemporary runway trends”（摒弃当代秀场短暂怪诞的风潮），若填入stylish将与上下文的明示逻辑产生直接的语义冲突；同时，“*stylish and debonair”亦非固定词块搭配。",
+      "fashionable": "错误。fashionable的核心语义维度在于“符合社会主流风尚或流行款式的”（conforming to the prevailing fashion/vogue）。句中外交官着装的本质在于超越流俗（timeless）且抵制现代时装浮夸，填入fashionable会在语义逻辑上构成不可调和的同向矛盾（logical contradiction），且该词在句法上同样无法进入“___ and debonair”这一严谨的头韵习语结构。"
+    },
+    "translation": "这位资深外交官摒弃了当代秀场风尚中那些短暂易逝的怪诞元素，在每场双边峰会上都显得无比儒雅齐楚、风度翩翩；他那剪裁精湛的三件套西装，投射出一种超越潮流、法度严谨的着装典雅。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_05",
+    "group_id": 483,
+    "group_name": "demented, mad, sick, crazy",
+    "level": "TEM-8",
+    "target_word": "demented",
+    "question": "Post-mortem histological evaluations demonstrated extensive neurofibrillary tangles and catastrophic synaptic loss throughout the hippocampus of ___ subjects, whereas age-matched, cognitively intact controls exhibited negligible degenerative alterations.",
+    "options": [
+      "demented",
+      "mad",
+      "sick",
+      "crazy"
+    ],
+    "answer": "demented",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的语义核心对立项“cognitively intact controls”（认知完好的对照组）与病理标志物“neurofibrillary tangles throughout the hippocampus”（海马体内广泛的神经原纤维缠结）构成了决定性排他锚点。在临床神经病理学中，唯有专业规范术语 demented（失智的、患认知障碍症的）能与“cognitively intact”形成精准严密的二元对照，且完全契合阿尔茨海默病等器质性认知功能退化的学术语域。",
+    "distractor_analysis": {
+      "demented": "正确。demented 在临床神经病学和病理学中是标准学术术语，指“罹患失智症的、患认知障碍症的”。句中海马体神经原纤维缠结与突触丢失属于典型的痴呆病理特征，与后文的“cognitively intact controls”（认知完好的对照组）形成严密对称的医学分类对照，语域与语义均完全吻合。",
+      "mad": "错误。mad 带有浓厚的文学、古旧或非正式色彩，意为“精神失常的、发疯的”或口语中的“生气的”，在现代医学中偶见于狂犬病（如 mad dog）或非特异性精神错乱（psychosis），缺乏对海马体病变引起的渐进性认知衰退的专指性，与后文严谨的学术对照项“cognitively intact”发生分类学错配。",
+      "sick": "错误。sick 语义极其宽泛，泛指身体“生病的、患病的”，缺乏神经病理学与认知机能障碍层面的专业特异性。一般身体患病（sick）的人完全可以保持认知完好（cognitively intact），因此无法与后文形成具有逻辑排他性的临床对照，且用于神经解剖学术研究中显得极不专业。",
+      "crazy": "错误。crazy 属于典型口语及俚语范畴（informal/slang），带有主观戏谑或情绪化色彩。在讨论尸检组织学评估（post-mortem histological evaluations）等高级神经医学论文语境中，存在严重的语域冲突（register clash），绝对不可用于正式学术报告。"
+    },
+    "translation": "尸检组织学评估显示，失智受试者整个海马体中存在广泛的神经原纤维缠结和严重的突触丢失，而年龄匹配且认知完好的对照组则仅表现出微不足道的退行性改变。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_06",
+    "group_id": 483,
+    "group_name": "demented, mad, sick, crazy",
+    "level": "TEM-8",
+    "target_word": "demented",
+    "question": "In biomedical ethics, surrogate decision-makers face profound moral dilemmas when honoring advance directives for formerly autonomous individuals who have become severely ___, lacking the cognitive coherence required to validate their former testamentary wishes.",
+    "options": [
+      "demented",
+      "mad",
+      "sick",
+      "crazy"
+    ],
+    "answer": "demented",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词搭配“severely ___”与后文“lacking the cognitive coherence required to validate their former testamentary wishes”（缺乏证实其先生前遗嘱意愿所需的认知连贯性）构成决定性语义与搭配锚点；severely demented 是生命伦理学探讨“先期指示”与“认知丧失”时的固定术语搭配，而 mad 与 crazy 无法与 severely 搭配，sick 则缺乏认知崩解的内涵。",
+    "distractor_analysis": {
+      "demented": "正确。在生命伦理学与法哲学探讨“先前自主权”（precedent autonomy）与预先医疗指示的经典语境中，severely demented（重度失智的）为高度规范的学术术语搭配，准确指代认知功能严重丧失、无法行使知情同意能力的心理与精神状态。",
+      "mad": "错误。副词 severely 与 mad 存在强烈的搭配断裂（通常搭配 stark mad, driven mad 等，绝无 severely mad 之用法）；且 mad 语意偏向戏剧化狂乱，与严肃的生命伦理学学术语域严重脱节。",
+      "sick": "错误。虽然存在 severely sick（病重）的用法，但 sick 仅指广泛的躯体疾患，患有严重躯体疾病的个体完全可能保持清醒的认知连贯性，无法在逻辑上解释后半句“lacking the cognitive coherence...”（缺乏认知连贯性）的精神病理因果关系。",
+      "crazy": "错误。crazy 为典型的非正式口语词汇，不仅与副词 severely 构成严重的搭配冲突（口语中多用 totally crazy / completely crazy），且严重违背伦理哲学学术论文庄重严密的语体要求。"
+    },
+    "translation": "在生物医学伦理学中，当为曾经拥有自主行为能力、如今已罹患重度失智且缺乏证实其先生前意愿所需认知连贯性的个体履行预先医疗指示时，代理决策者面临着深沉的道德困境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_07",
+    "group_id": 484,
+    "group_name": "dumpy, squat, short, little",
+    "level": "TEM-8",
+    "target_word": "dumpy",
+    "question": "The costume historian observed that Victorian corsetry was strategically designed to disguise a ___ figure, compressing plump, ill-proportioned torsos to emulate the slender, hourglass ideals celebrated across nineteenth-century society.",
+    "options": [
+      "dumpy",
+      "squat",
+      "short",
+      "little"
+    ],
+    "answer": "dumpy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational pairing with 'figure' ('a dumpy figure') combined with the contrastive clause 'compressing plump, ill-proportioned torsos to emulate the slender, hourglass ideals', which uniquely requires an adjective denoting an unattractive, short, and stout bodily contour.",
+    "distractor_analysis": {
+      "dumpy": "正确。dumpy 指人矮胖、笨拙且缺乏优美曲线的体态，常带有不修边幅或美学缺陷的贬义色彩。“a dumpy figure”（矮胖臃肿的身材）为经典固定搭配，完美契合后文紧身胸衣压缩丰满躯干、塑造沙漏型身材的历史服饰语境。",
+      "squat": "错误。squat 侧重于事物“低矮粗壮、矮墩墩的”物理几何外形，常用于修饰建筑物（如 squat tower）、器具或重心极低、肌肉粗短结实的蹲伏式体格（如举重运动员），不用于形容女性时尚史中因脂肪堆积而需衣物修饰的“矮胖臃肿”体态，存在语域与搭配脱节。",
+      "short": "错误。short 为中性客观度量词，仅指纵向高度不足（个子矮），不包含横向臃肿粗厚（plump/ill-proportioned）及体态不雅的内涵。紧身胸衣无法改变垂直身高，因此修饰 figure 无法与后文 compressing plump torsos 形成有效逻辑呼应。",
+      "little": "错误。little 强调尺寸微小、身材娇小纤细（petite），常带有亲昵或怜爱意味，与后文需要强力勒紧压缩的“丰满且比例欠佳的躯干”（plump, ill-proportioned torsos）产生直接的语义矛盾。"
+    },
+    "translation": "服装史学家指出，维多利亚时代的紧身胸衣经过精心设计，旨在掩饰矮胖臃肿的身材，通过压缩丰满且比例欠佳的躯干，以效仿当时社会所推崇的纤细沙漏型理想体态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_08",
+    "group_id": 484,
+    "group_name": "dumpy, squat, short, little",
+    "level": "TEM-8",
+    "target_word": "dumpy",
+    "question": "Sociological studies on female body dissatisfaction reveal that participants frequently reported feeling dowdy and ___, attributing their profound distress to a persistent cultural stigmatization of stocky, heavy-set physiques that fail to meet prevailing fashion standards.",
+    "options": [
+      "dumpy",
+      "squat",
+      "short",
+      "little"
+    ],
+    "answer": "dumpy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic predicative coordination 'feeling dowdy and ___' functioning alongside 'cultural stigmatization of stocky, heavy-set physiques', uniquely selecting the established psychological descriptor for feeling stout, shapeless, and unappealing.",
+    "distractor_analysis": {
+      "dumpy": "正确。dumpy 不仅表外形矮胖，在心理认知语境中常作表语与 dowdy（邋遢的、土气的）构成固定双联搭配（dowdy and dumpy），且“feel dumpy”是体象心理学中形容个体主观感到“自己矮胖笨拙、缺乏吸引力”的地道习惯用语，与后文的 stocky, heavy-set physiques 完美呼应。",
+      "squat": "错误。squat 是纯客观的形态描写词（低矮粗壮的、蹲伏的），英语中不存在以主观心理感受为语义焦点的“*feel squat”用法，用于形容人感到自身邋遢臃肿属于严重的语用搭配违和。",
+      "short": "错误。short 仅表个头矮小，属于客观维度属性，不能与表示体态臃肿土气的 dowdy 形成语义平行共振，且无法准确承载后文针对“粗壮厚实体型”（stocky, heavy-set physiques）的负面审美投射。",
+      "little": "错误。little 作形容词常表“渺小的”或“娇小的”，在体型描述上与“粗壮厚实”（stocky, heavy-set）构成相反语义，且无法与 dowdy 连用以表达体格笨重带来的审美焦虑。"
+    },
+    "translation": "关于女性身体不满感的社会学研究显示，受访者频繁表示自己感到邋遢臃肿，并将其深层痛苦归因于文化层面对不符合主流时尚标准的粗壮厚实体型的持续污名化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_09",
+    "group_id": 485,
+    "group_name": "elusive, hard, tough, difficult",
+    "level": "TEM-8",
+    "target_word": "elusive",
+    "question": "Despite extensive archival investigations across multiple European repositories, the underlying motives behind the chancellor’s sudden resignation remain profoundly ___, since neither personal diaries nor declassified memoranda offer definitive corroboration.",
+    "options": [
+      "elusive",
+      "hard",
+      "tough",
+      "difficult"
+    ],
+    "answer": "elusive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为抽象认知客体 'the underlying motives'，且谓语系表结构后未接任何不定式补语。在生成语法与词汇语义学中，hard、tough 与 difficult 均属于典型的非人称易位形容词（Tough-predicates），若无后置不定式（如 to ascertain/uncover），不可直接以 'motives' 为主语作独立表语；唯独 elusive 具备完备的独立认知表语功能，专指目标或真相'难以捉摸、避开认知捕捉'。",
+    "distractor_analysis": {
+      "elusive": "正确。elusive 在此作系动词 remain 的表语，修饰认知对象 'motives'（动机），意为“难以捉摸的、难以确定的”。它精准地表达出历史动机躲避研究者追踪与探明的状态，与后文“缺乏日记与备忘录以供证实”构成无懈可击的因果闭环，且无需不定式补足语支持。",
+      "hard": "错误。hard 作“困难”解时属于易位形容词（Tough-adjective）。当主语为 motives 这类抽象认知名词时，若无后置不定式（如 hard to uncover），hard 独立作表语只能被解读为“坚硬的”或“冷酷严厉的”，导致严重句法与语义异化。",
+      "tough": "错误。tough 作表语修饰事物时多指“棘手的、难以对付的”，修饰人或材料时指“强悍的、坚韧的”。motives 不能与 tough 产生独立表语搭配（*motives remain tough 属搭配断裂），且该词语域偏口语化，与严肃的史学论述不合。",
+      "difficult": "错误。difficult 的独立表语主语通常是具体任务、过程（a difficult task/process）或性情孤僻难处的人（a difficult person）。若以 motives 为主语表达“动机难以查明”，必须借由形式主语或补出不定式（difficult to determine）；单独作表语修饰 motives 在现代学术英语中不合语法与语义规范。"
+    },
+    "translation": "尽管研究人员对多个欧洲档案馆进行了广泛调查，那位大法官突然辞职的深层动机依然极难捉摸，因为无论是私人日记还是解密备忘录都无法提供确凿的佐证。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_10",
+    "group_id": 485,
+    "group_name": "elusive, hard, tough, difficult",
+    "level": "TEM-8",
+    "target_word": "elusive",
+    "question": "In cognitive retrieval experiments, researchers observed that participants experiencing the tip-of-the-tongue state were pursuing ___ memories that hovered tantalizingly near awareness, yet consistently resisted conscious verbal articulation.",
+    "options": [
+      "elusive",
+      "hard",
+      "tough",
+      "difficult"
+    ],
+    "answer": "elusive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境为认知心理学中的“话到嘴边”（tip-of-the-tongue）现象，后接定语从句明确限定其特征为“徘徊在意识边缘却抗拒言语表达”。修饰 memories 时，difficult、hard 与 tough 均存在语义固化现象，专门指代情感上“痛苦的、创伤性的、难受的”回忆（affective distress）；唯有 elusive 能准确表达认知层面上“难以捕捉的、不易检索的”（cognitive evasiveness），且与动词 pursuing 形成严谨的概念隐喻搭配。",
+    "distractor_analysis": {
+      "elusive": "正确。elusive 在此作定语修饰 memories，意为“难以捕捉的、转瞬即逝的”。其词源来自 elude（逃避、躲闪），在认知心理学语境中与动词 pursue（追逐、检索）及后文“hovered tantalizingly near awareness”（在意识边缘若隐若现）构成极为地道的高阶学术搭配，专指未能被成功提取的记忆痕迹。",
+      "hard": "错误。hard 修饰 memories 时，固定表示“严酷痛苦的回忆”（如 hard memories of hardship），强调经历本身的艰辛或记忆带来的心理创伤，与认知信息检索过程中的“捕捉困难”完全不是同一语义范畴。",
+      "tough": "错误。tough memories 同样指向令人情感痛苦或艰难熬过的过往经历，在语域上带有口语和非正式色彩，绝不能在严谨的实验心理学论文中用来指代“难以被言语唤出的记忆”。",
+      "difficult": "错误。在心理学与通用英语中，difficult memories 是一个固化短语，专门指代“带有心理创伤的、令人不适或痛苦的回忆”（traumatic and painful recollections）。在 tip-of-the-tongue 这一纯粹的认知检索障碍语境下，将其误用为“难以记起的”，会彻底歪曲句意，混淆认知提取失败与情感创伤体验。"
+    },
+    "translation": "在认知检索实验中，研究人员观察到，处于“话到嘴边”状态的受试者所极力追索的，正是那些在意识边缘若隐若现、却始终无法被清晰言语表达所捕捉的游离记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_11",
+    "group_id": 486,
+    "group_name": "equitable, just, fair, honest",
+    "level": "TEM-8",
+    "target_word": "equitable",
+    "question": "Operating within the historical traditions of chancery jurisprudence, the appellate court exercised its ___ jurisdiction to issue an injunction, intervening only when conventional common-law remedies proved fundamentally inadequate.",
+    "options": [
+      "equitable",
+      "just",
+      "fair",
+      "honest"
+    ],
+    "answer": "equitable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中“chancery jurisprudence”（衡平法院法理学）、“issue an injunction”（签发禁令）与后文“conventional common-law remedies proved fundamentally inadequate”（传统普通法救济被证明根本无法充分救济）构成了决定性的法理与制度锚点。在英美法双轨传统中，法院依照大法官衡平法原则签发禁令所行使的专有司法权力被称为“衡平管辖权”（equitable jurisdiction）。《韦氏词典》（Merriam-Webster）在equitable的专有法学义项2b中直接将“an equitable jurisdiction”列为核心用例。其余三项均不能与jurisdiction构成法律专门术语，存在不可调和的搭配断裂。",
+    "distractor_analysis": {
+      "equitable": "正确。equitable在此处作为英美法系高度专业的核心术语（term of art），意为“衡平法的、衡平法体系下的”，指属于或源于大法官法院（Court of Chancery）的法理制度。《韦氏词典》专门释义2b为“pertaining to or having the nature of equity”，并直接以“an equitable jurisdiction”（衡平管辖权）作为权威范例。句中“chancery jurisprudence”、“injunction”（禁令）与“common-law remedies”（普通法救济）形成了严密的英美法二元救济语境，唯有equitable能够精准锁定该法定管辖权术语。",
+      "just": "错误。just侧重于符合事实、道德公义或既定的法律标准（conforming to a standard of correctness, law, or moral right）。尽管just可用于修饰just cause（正当理由）或just compensation（公正补偿），但英美司法管辖权分类中绝对不存在“just jurisdiction”这一术语；在此处代入会导致严重的术语生造与搭配破裂。",
+      "fair": "错误。fair属于通用描述性词汇，主要指公平无私、不偏不倚（marked by impartiality or justice; free from bias）。该词不具备指代特定司法流派或管辖权分类的制度性功能，司法英语中绝无“fair jurisdiction”的术语表达，且无法与后半句的“common-law remedies”形成法系机制上的对应。",
+      "honest": "错误。honest核心语义为“诚实的、坦白的、无欺诈的”（free from fraud, deceit, or pretense），其语义范畴严格限定于个人的道德品格、陈述的真实性或商业行为的童叟无欺。用其修饰法院的法定管辖权（jurisdiction）属于典型的语义范畴错配（category error）。"
+    },
+    "translation": "在衡平法院法理学的历史传统框架下，上诉法院行使其衡平管辖权签发了一项禁令，唯有在传统的普通法救济被证明根本无法提供充分弥补时方予介入。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_12",
+    "group_id": 486,
+    "group_name": "equitable, just, fair, honest",
+    "level": "TEM-8",
+    "target_word": "equitable",
+    "question": "Holding that monetary damages were fundamentally inadequate to rectify the ongoing misappropriation of trade secrets, the appellate court granted ___ relief, issuing a permanent injunction that barred the competitor from commercializing the software.",
+    "options": [
+      "equitable",
+      "just",
+      "fair",
+      "honest"
+    ],
+    "answer": "equitable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "前置条件分句'Holding that monetary damages were fundamentally inadequate...'（认定金钱损害赔偿从根本上不足以弥补……）与后置分词短语'issuing a permanent injunction...'（下达永久禁令……）构成了英美法系衡平管辖权（equity jurisdiction）的绝对触发要件。在补救法（Law of Remedies）与法学体系中，'equitable relief'（衡平法救济）为不可替代的制度性专门术语（term of art），专指当普通法金钱赔偿不足时由法院裁决的禁令（injunction）或强制履行等非金钱性救济措施。",
+    "distractor_analysis": {
+      "equitable": "正确。'equitable relief'（衡平救济/衡平法救济）是普通法系中高度固定的制度性专门法律术语（term of art）。当法定金钱损害赔偿（monetary damages）被认定为不足以救济受害方时，法院依据衡平法原则裁量裁决非金钱性强制补救（如句中颁布的 permanent injunction 永久禁令）。该法定门槛与后文的禁令措施构成排他性的术语锚定。",
+      "just": "错误。just侧重伦理或道德哲学层面的公理与应得（moral desert）。虽然诉状末尾偶见概括性祈求套语（如'such relief as the court deems just and proper'），但'just relief'绝非普通法系中与'monetary damages'形成管辖权对立分类的实体法学专门术语，无法指代以禁令为核心的衡平救济制度。",
+      "fair": "错误。fair在司法语境中多修饰诉讼程序或法定权利保障（如 fair trial 公正审判、fair hearing 公正听证、fair use 合理使用），在民事补救法中不存在'fair relief'这一制度性法律分类，填入此处属于非地道搭配破裂。",
+      "honest": "错误。honest指代人的品性诚实、无欺骗（如 honest testimony 诚实的证言），不能用于修饰司法救济手段（relief），填入此处产生严重的语义范畴冲突（category mistake）。"
+    },
+    "translation": "上诉法院认定金钱损害赔偿从根本上不足以弥补商业秘密持续遭受侵占所造成的损失，遂给予衡平法救济，下达了一项禁止该竞争对手将该软件商业化的永久禁令。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_13",
+    "group_id": 487,
+    "group_name": "exotic, alien, foreign, strange",
+    "level": "TEM-8",
+    "target_word": "exotic",
+    "question": "Driven by ostentatious consumer behavior, the illicit trade in ___ pets has introduced highly aggressive non-native species into fragile ecosystems, overwhelming local conservation infrastructures and decimating indigenous biodiversity.",
+    "options": [
+      "exotic",
+      "alien",
+      "foreign",
+      "strange"
+    ],
+    "answer": "exotic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The institutionalized nominal collocation 'exotic pets' designates wild, non-domesticated, or tropical companion animals in legal regulatory frameworks (e.g., CITES) and consumer behavior studies.",
+    "distractor_analysis": {
+      "exotic": "正确。在野生动物保护、消费社会学与国际贸易规制中，“exotic pets”（异宠/外来非传统宠物）是高度固定的专业术语，特指非本土原产、未被完全驯化的野生动物（如热带爬行类、两栖类及珍禽）。该词完美衔接“illicit trade in ___ pets”，并与后文“introduced non-native species into fragile ecosystems”形成严密的生态与行为逻辑闭环。",
+      "alien": "错误。在入侵生物学中，“alien”常用于修饰宏观物种或种群（如 alien species 外来物种），但在法律规制、伴侣动物交易及消费行为学中，绝不与“pets”结合构成“alien pets”，属于严重的学术搭配破裂。",
+      "foreign": "错误。“foreign”仅指涉地缘政治或行政国界意义上的“外国的”（如 foreign nationals, foreign policy）。若用“foreign pets”，其字面意义仅为来自国外的普通伴侣动物（如跨国携带的家养犬猫），无法传达出“未驯化的珍稀/热带野生动物”这一特定范畴，不契合野生动物走私的论述语境。",
+      "strange": "错误。“strange”意为“奇怪的、奇异的、反常的”，若修饰 pets 仅表示宠物种类的怪异或饲主行为的标新立异（如饲养昆虫或无生命物），属于日常口语化泛称，缺乏环境法学与物种保护的专业定义，无法体现其生态来源属性。"
+    },
+    "translation": "在炫耀性消费行为的驱使下，非法的异宠交易已将极具攻击性的非本土物种引入脆弱的生态系统中，这不仅让当地的动物保护基础设施不堪重负，也严重破坏了本土生物的多样性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_14",
+    "group_id": 487,
+    "group_name": "exotic, alien, foreign, strange",
+    "level": "TEM-8",
+    "target_word": "exotic",
+    "question": "To satisfy the Victorian elite's appetite for lavish interior ornamentation, cabinetmakers routinely bypassed domestic oak and beech in favor of ___ hardwoods, prized for their deep pigmentation, rare figure, and distant, tropical provenance.",
+    "options": [
+      "exotic",
+      "alien",
+      "foreign",
+      "strange"
+    ],
+    "answer": "exotic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HISTORY",
+    "anchor_clue": "The binary contrast with 'domestic oak and beech' combined with 'prized for their deep pigmentation, rare figure, and distant, tropical provenance' demands 'exotic'. In material culture, design history, and the timber trade, 'exotic hardwoods' is the established technical collocation denoting highly decorative tropical timbers (e.g., mahogany, rosewood, ebony), precisely aligning with Merriam-Webster's definition of 'exotic' as suggesting striking colorfulness, luxury, or decorative quality characteristic of distant, tropical lands.",
+    "distractor_analysis": {
+      "exotic": "正确。根据《韦氏词典》，exotic 指“源自异国（尤指遥远热带地区）的，兼具奇异、艳丽色彩或引人入胜的装饰美感的”（strikingly, excitingly, or mysteriously unusual; characteristic of distant, especially tropical, lands）。在物质文化史与家具工艺中，“exotic hardwoods”（珍贵热带硬木）是与“domestic hardwoods”（本土硬木，如橡木、山毛榉）相对立的经典学术与行业术语，完美呼应句中“distant, tropical provenance”（遥远的热带原产地）与“deep pigmentation, rare figure”（浓郁色泽与罕见花纹）的双重锚点。",
+      "alien": "错误。alien 在生物学与生态学语境中通常指外来引入且可能危及本土生态平衡的入侵物种（如 alien invasive species），带有破坏性与侵入性色彩；在通用语境中多强调格格不入、不可调和的异质性或排斥感（incompatible, repugnant）。林业与高级细木工艺界从不使用“alien hardwoods”指称受人追捧的优质装饰用材，语域完全不匹配。",
+      "foreign": "错误。foreign 侧重地缘政治、国界与司法行政管辖范围（如 foreign trade, foreign policy, foreign nationals）。只要产自国境之外即可称为 foreign（例如从温带邻国进口的橡木属于 foreign timber），但该词缺乏“来自热带遥远异域”以及“色彩瑰丽、纹理奇特、具奢华装饰价值”的核心美学语义，无法作为与 domestic hardwoods 相对称的专有名词搭配。",
+      "strange": "错误。strange 强调反常、陌生、令人困惑或怪异（odd, peculiar, unnatural），往往激发怀疑或困惑。用于修饰木材时，“strange hardwoods”会暗示木材出现病态变异、质地畸形或身份可疑，与后文明确表达的高度赞赏与推崇（“prized for...”）构成严重的语意冲突，且该词全无“遥远热带原产”的地理指涉。"
+    },
+    "translation": "为了迎合维多利亚时代精英阶层对奢华室内装饰的狂热追求，细木工匠们经常弃用本土的橡木与山毛榉，转而选用那些因色泽浓郁、花纹罕见且原产于遥远热带而备受推崇的珍贵热带硬木。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_15",
+    "group_id": 488,
+    "group_name": "expansive, grand, heroic, impressive",
+    "level": "TEM-8",
+    "target_word": "expansive",
+    "question": "Relaxing after the symposium, the keynote theorist was in an unusually ___ mood, elaborating unreservedly on his previously guarded ontological hypotheses to the gathered doctoral students.",
+    "options": [
+      "expansive",
+      "grand",
+      "heroic",
+      "impressive"
+    ],
+    "answer": "expansive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定习惯搭配 'in an expansive mood'，后文 'elaborating unreservedly on his previously guarded... hypotheses' 进一步提供了语义闭环，指思维高度活跃、健谈且毫无保留的心境。",
+    "distractor_analysis": {
+      "expansive": "正确。此处考查固定习语搭配及认知心理表达 'in an expansive mood'（心境开朗的、健谈畅怀的）。后文的分词短语 'elaborating unreservedly'（毫无保留地阐述）直接呼应了 expansive 在描述人的言语与神态时特指的“开诚布公、健谈且愿意深入分享观点”的认知语用含义，语义与搭配均严丝合缝。",
+      "grand": "错误。grand 常用于修饰规模宏大、建筑物壮丽或抽象的宏伟构想（如 grand theory, grand scale），但英语中不存在 *in a grand mood 这一固定搭配；若强行修饰心境，会产生“自负狂妄”的贬义偏差，与语境不符。",
+      "heroic": "错误。heroic 意为“英勇的、史诗般的、付出超常努力的”（如 heroic resistance, heroic effort），描述在艰难逆境下的英雄主义行为，完全不能与表示情绪状态的 mood 搭配构成“畅所欲言”的含义。",
+      "impressive": "错误。impressive 属于外部评价性形容词，意为“令人赞叹的、令人肃然起敬的”，通常作客观结果修饰语（如 an impressive achievement）；不能用来描述主观心态或构成心境搭配 *in an impressive mood。"
+    },
+    "translation": "研讨会结束后，这位主旨理论家放松下来，心情格外舒朗健谈，向围聚在一起的博士生们毫无保留地阐述起自己此前秘不示人的本体论假说。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_16",
+    "group_id": 488,
+    "group_name": "expansive, grand, heroic, impressive",
+    "level": "TEM-8",
+    "target_word": "expansive",
+    "question": "Rejecting the tribunal's previously restrictive jurisprudence, the appellate court adopted increasingly ___ interpretations of the statute, intentionally broadening environmental oversight to encompass diffuse agricultural runoff.",
+    "options": [
+      "expansive",
+      "grand",
+      "heroic",
+      "impressive"
+    ],
+    "answer": "expansive",
+    "primary_mechanism": "MECH_ANTONYMIC_CONTRAST",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "与句首的 'restrictive jurisprudence'（限制性法理）形成决定性反义对立，且与后文 'broadening environmental oversight to encompass...'（扩大监管范围以涵盖……）构成精确语义呼应；'expansive interpretation' 为法学及释义学领域的权威固定学术搭配（扩大解释/宽泛解释）。",
+    "distractor_analysis": {
+      "expansive": "正确。expansive 意为“涵盖面广的、扩展性的、宽泛的”。在法理学与法律释义学（FIELD_COGNITION）语境中，“expansive interpretation”（扩大解释/宽泛解释）与前文的“restrictive jurisprudence”（限制性法理）形成标准的专业学术反义对立，且与后文“broadening ... to encompass diffuse agricultural runoff”构成无可替代的因果与语义呼应。",
+      "grand": "错误。grand 侧重指“宏伟的、宏大的、堂皇的”，常用于修饰气魄、规模或宏观叙事（如 grand narrative 宏大叙事、grand strategy 大战略），不可用于指代法理释义学上与 restrictive 相对立的“扩大适用范围的文本解释”，*grand interpretations 属于搭配不当。",
+      "heroic": "错误。heroic 意为“英勇的、豪壮的、带有史诗色彩的”，侧重勇毅或超凡壮举，用于修饰成文法解释（interpretations of the statute）属于严重的范畴错配（category mistake），无法承载法律管辖外延拓展的专业语意。",
+      "impressive": "错误。impressive 意为“令人印象深刻的、卓越的”，纯属主观赞赏性评价，不能作为法学技术术语表示法律解释层面的“宽泛与延展”，既无法与 restrictive 构成反义锚定，亦无法在逻辑上支撑后文的 broadening 与 encompass。"
+    },
+    "translation": "上诉法院摒弃了该法庭先前限制性的法理传统，对该法规采取了日益宽泛的扩大解释，有意扩大环境监管范围以涵盖分散的农业面源污染。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_17",
+    "group_id": 489,
+    "group_name": "expectant, big, great, large",
+    "level": "TEM-8",
+    "target_word": "expectant",
+    "question": "Although the diplomatic delegation remained ___ of a swift resolution to the border dispute, protracted skirmishes and entrenched nationalist rhetoric ultimately undermined any prospect of an enduring bilateral treaty.",
+    "options": [
+      "expectant",
+      "big",
+      "great",
+      "large"
+    ],
+    "answer": "expectant",
+    "primary_mechanism": "MECH_SYNTACTIC_SELECTION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "The predicative complementation frame 'remained ___ of [noun]' requiring an adjective that licenses an 'of'-phrase to denote prospective psychological anticipation ('expectant of a swift resolution'), a syntactic-semantic property completely absent in the magnitude adjectives 'big', 'great', and 'large'.",
+    "distractor_analysis": {
+      "expectant": "正确。expectant 在此作系动词 remained 的表语形容词，意为“充满期盼的、期待的”（looking forward; characterized by expectation）。根据《韦氏词典》（Merriam-Webster）收录的标准范例（expectant of praise），expectant 具备及物性补足语次范畴化框架，后接介词 of 引出所期盼的对象（expectant of a swift resolution），完美契合让步分句中代表团对迅速达成协议“翘首以盼”的心理态度，且与主句中旷日持久的冲突最终撕碎协议前景形成严密的对立逻辑。",
+      "big": "错误。big 主要用于修饰物理尺寸、规模或事态严重性（如 big challenge, big economy）。在句法层面，big 绝对无法接支配预期事件的 of 介词短语补足语（*remained big of... 属严重句法违规；口语习语 'that's big of you' 意为宽宏大量，与此处语境毫无瓜葛）；在语域风格上，big 偏于非正式口头叙述，置于高阶外交政治学文本中构成显著的文体降格。",
+      "great": "错误。great 侧重表示宏大、卓越、非凡或程度上的剧烈（如 great importance, great power）。在句法上，great 根本无法后接介词 of 构成表示心理认知期待的形容词补足语结构（*remained great of... 纯属臆造的搭配语法错误）；在语义上，great 属于纯粹的程度与价值度量词，缺乏表示“前瞻性心理预期”的核心义素。",
+      "large": "错误。large 严格限定于空间体积、统计数量、地理范围或规模等客观度量范畴（如 large proportion, large territory）。一方面，large 属于物理与统计维度形容词，不能用来描述主体对未来政治结果的主观期待；另一方面，large 在句法上绝对不具备选择 of 引出预期事件的次范畴化特征（*remained large of... 构成范畴与句法双重错误）。"
+    },
+    "translation": "尽管外交代表团对迅速解决边界争端仍抱有期盼，但旷日持久的交火冲突和根深蒂固的民族主义言论，最终彻底瓦解了达成持久双边条约的任何希望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_18",
+    "group_id": 489,
+    "group_name": "expectant, big, great, large",
+    "level": "TEM-8",
+    "target_word": "expectant",
+    "question": "Recent clinical trials demonstrate that cognitive mindfulness interventions administered to ___ mothers significantly attenuate maternal distress, thereby establishing a neurological environment conducive to optimal fetal and neonatal brain development.",
+    "options": [
+      "expectant",
+      "big",
+      "great",
+      "large"
+    ],
+    "answer": "expectant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Medical and cognitive-developmental collocation with 'mothers' modifying pregnant women awaiting childbirth, reinforced by 'maternal distress' and 'fetal and neonatal brain development'.",
+    "distractor_analysis": {
+      "expectant": "正确。expectant 此处取韦氏词典核心释义“in an advanced stage of pregnancy; anticipating the birth of one's child”，expectant mothers（准妈妈、孕妇）是医学、认知心理学与流行病学中标准的正式前置定语搭配，与后文的“fetal and neonatal brain development”（胎儿及新生儿脑发育）精准呼应。",
+      "big": "错误。big 虽在古旧或极非正式口语短语 big with child 中指怀孕，但作为前置定语构成 big mothers 时，词义仅为“体型庞大的母亲”或“身材魁梧的母亲”，与产前胎儿发育的医学认知语境毫无关联且语义粗俗失当。",
+      "great": "错误。great 在古英语或历史文献中曾有 great with child 之说，但前置修饰 great mothers 时，其唯一语义为“伟大的母亲”或“祖母/远祖”，侧重道德伦理与代际血缘评价，完全无法表达“处于妊娠期”的专业生理与医学内涵。",
+      "large": "错误。large 纯粹用于描述母亲的体重、骨架或身材尺寸（如 high BMI），不能表达“怀有身孕、即将为人母”的语义，在此医学科研语境下导致严重的逻辑偏离。"
+    },
+    "translation": "近期的临床试验表明，对准妈妈实施的认知正念干预能够显著缓解孕期焦虑与心理压力，从而营造出有利于胎儿及新生儿大脑发育的最佳神经生物学环境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_19",
+    "group_id": 490,
+    "group_name": "fallible, weak, frail, human",
+    "level": "TEM-8",
+    "target_word": "fallible",
+    "question": "Contrasting scientific skepticism with dogmatic theology, the philosopher insisted that while divine revelation claims infallibility, all mortal reasoning is inescapably ___, prone to perceptual illusion and logical error.",
+    "options": [
+      "fallible",
+      "weak",
+      "frail",
+      "human"
+    ],
+    "answer": "fallible",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中构建了明确的认识论对立锚点：“while divine revelation claims infallibility”（尽管神圣启示自诩绝对无谬），从逻辑与哲学语义上强制要求后半句主语“all mortal reasoning”（凡人的一切理性推理）填入其严格反义词；结合后文并列修饰语“prone to perceptual illusion and logical error”（极易产生知觉错觉与逻辑错误），唯一精准对应“在认知或判断上易犯错误、非绝对可靠”的词汇为 fallible。",
+    "distractor_analysis": {
+      "fallible": "正确。意为“易犯错的、不可靠的”，是认识论（epistemology）中与“infallible/infallibility”（绝对无谬的）直接对应的专有反义词，精准契合主语“mortal reasoning”在面对感知错觉和逻辑偏差时的认知局限。",
+      "weak": "错误。主要指物理力量不足、权力微弱或论证效力不足（如 weak argument）。此处作表语修饰主语“mortal reasoning”，语境指向人类理性“易犯错（error-prone）”的性质，而非“缺乏力量”，无法与前半句的 infallibility 构成正规对立。",
+      "frail": "错误。主要指身体脆弱、体质虚弱，或道德意志容易受诱惑动摇（如 frail health, frail flesh），属于生理或伦理维度的脆弱性，完全无法用于形容认知推理的失误属性。",
+      "human": "错误。为属性归类形容词（属于人类的）。虽然日常俗语有“to err is human”，但在严密的学术与哲学论述中，“reasoning is human”仅陈述其主体属性，无法与 infallibility 构成直接的认识论反义范畴，语体与语义均不匹配。"
+    },
+    "translation": "该哲学家在将科学怀疑论与教条神学进行对比时坚称，尽管神圣启示自诩绝对无谬，但凡人的一切理性推理都不可避免地存在易错性，极易产生知觉错觉和逻辑谬误。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b48_20",
+    "group_id": 490,
+    "group_name": "fallible, weak, frail, human",
+    "level": "TEM-8",
+    "target_word": "fallible",
+    "question": "Appellate jurists caution that convictions should rarely hinge solely on eyewitness testimony, emphasizing that even the most vivid and confident recall is notoriously ___, prone to retroactive distortion and fictitious recollection.",
+    "options": [
+      "fallible",
+      "weak",
+      "frail",
+      "human"
+    ],
+    "answer": "fallible",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中让步状语“even the most vivid and confident recall”（即便最清晰、自信的回忆）与后文“prone to retroactive distortion and fictitious recollection”（极易受到事后扭曲与虚构干扰）构成核心语义锚点。这一搭配直接排除了表示记忆力减退、模糊的 weak（因为 vivid and confident 明确排除了 weak memory 的特征），锁定专门描述“即使主观极其确信，客观上依然极易产生错误与失真”的专业法律心理学术语 fallible。",
+    "distractor_analysis": {
+      "fallible": "正确。常用于认知心理学与法学证据学领域（如 fallible memory / fallible recall），“notoriously fallible”为经典学术搭配，专门描述记忆与判断“极易出错、可能完全不准确”，精准契合后文的记忆扭曲与虚假回忆。",
+      "weak": "错误。用于修饰记忆（weak memory）时特指“记性不好、遗忘、信息留存能力差”，与前半句限定的“vivid and confident recall”（生动且笃定的回忆）构成严重的语义逻辑冲突。",
+      "frail": "错误。多用于修饰物理结构的脆弱、器物的易碎性或高龄者的体弱多病，不可用于描述司法证据中回忆的准确度与认知可靠性。",
+      "human": "错误。在此处作表语形容 recall（记忆回溯），“recall is notoriously human”在学术英语中构成严重的搭配断裂（collocational rupture），既不合学术习惯，也无法准确传达“易出现事实性差错”的法学语义。"
+    },
+    "translation": "上诉法院法官警告称，刑事定罪绝不应完全依赖目击证人的证词，并强调指出，即便最清晰、最笃定的回忆也极其容易出错，极易受到事后信息干扰而产生失真和虚假重构。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

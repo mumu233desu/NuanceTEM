@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b59_01",
+    "group_id": 591,
+    "group_name": "censor, ranger, mandarin, incumbent",
+    "level": "TEM-8",
+    "target_word": "censor",
+    "question": "Acting not merely as a passive bureaucrat but as an unsparing ___ of public discourse, the official meticulously excised every subversive nuance from the dissident manuscript before granting publication clearance.",
+    "options": [
+      "censor",
+      "ranger",
+      "mandarin",
+      "incumbent"
+    ],
+    "answer": "censor",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后半部分的从句谓语动词短语及宾语搭配“meticulously excised every subversive nuance from the dissident manuscript before granting publication clearance”（在批准出版许可之前，极其细致地从异见手稿中剔除所有颠覆性细节）构成了决定性的排他语义锚点，直接指向 MW 权威词典对 censor 的核心释义（审查出版物并删除被视为政治上不可接受内容的人员）。",
+    "distractor_analysis": {
+      "censor": "正确项。名词，指“（出版物、电影、书信等的）审查员，审查官”。在本句中修饰语“of public discourse”与其构成固定职能搭配，且与后文“excised every subversive nuance from the dissident manuscript”（删除手稿中的颠覆性细节）形成严密互锁，完全符合语域与句意要求。",
+      "ranger": "干扰项。名词，指“护林员、国家公园巡护员”或“特种突击队员”。其语义场局限于生态地理保护或野外作战，与意识形态管控、文本删节以及出版审查的语境毫无交集。",
+      "mandarin": "干扰项。名词，本义为“（中国明清时期的）官吏”，引申指“高级官僚，政界要人”或“学术/文化界泰斗”。句首已有“not merely as a passive bureaucrat”（不仅仅作为一个消极的官僚），若填入 mandarin 则造成同义语义冗余，且 mandarin 侧重于官僚权柄或作风，不能作为具体执行手稿审查删节的职能主体搭配。",
+      "incumbent": "干扰项。名词，指“在任者，现职官员”（常用于政治选举中与挑战者 challenger 对比）。该词不具备“言论审定者”的语义功能，亦无法与“of public discourse”形成合乎逻辑的定语搭配。"
+    },
+    "translation": "该官员并非仅仅扮演消极官僚的角色，而是作为公众舆论严苛的审查员，在批准出版许可之前，极其细致地从这份异见手稿中剔除了所有被认为具有颠覆性的言论细节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_02",
+    "group_id": 591,
+    "group_name": "censor, ranger, mandarin, incumbent",
+    "level": "TEM-8",
+    "target_word": "ranger",
+    "question": "Equipped with advanced satellite tracking telemetry, the veteran ___ patrolled the rugged boundaries of the sanctuary, diligently monitoring illicit encroachment and neutralizing armed poaching syndicates before endangered fauna were harmed.",
+    "options": [
+      "censor",
+      "ranger",
+      "mandarin",
+      "incumbent"
+    ],
+    "answer": "ranger",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的谓语与宾语强搭配“patrolled the rugged boundaries of the sanctuary”（巡逻保护区险峻的边界）以及目的状语“neutralizing armed poaching syndicates before endangered fauna were harmed”（在濒危动物受害前制服武装偷猎团伙）构成了决定性排他线索，专属性地锁定了负责野外生态安保与野生动物巡护的 ranger（巡警、护林员）。",
+    "distractor_analysis": {
+      "ranger": "正确项。名词，特指“（自然保护区或国家公园的）护林员、巡警”（park/forest ranger）。句中“patrolled... sanctuary”（巡查保护区）、“neutralizing armed poaching syndicates”（打击武装偷猎团伙）及保护“endangered fauna”（濒危动物）与 ranger 的法定职责及职业行动场域高度契合。",
+      "censor": "干扰项。名词，意为“审查员，审检官”。其认知场与职能范围为思想文化、新闻出版与信息流动监管，不可能手持卫星遥测设备在荒野自然保护区巡逻并与偷猎者搏斗。",
+      "mandarin": "干扰项。名词，指“高级公务员、官僚要员”。该词指代身居高位、从事案头管理或政策制定的文官，置于野外全副武装巡逻、一线打击偷猎的语境中存在严重的语域错配与角色冲突。",
+      "incumbent": "干扰项。名词，指“现任官员，公职在任者”。该词核心语义聚焦于职务身份的保有与选举轮替（如 the incumbent defeated the challenger），无法与荒野巡护、生态防偷猎行动产生任何合理的搭配关联。"
+    },
+    "translation": "配备了先进的卫星跟踪遥测设备，这位经验丰富的护林员在保护区险峻的边界地带巡逻，严密监控非法入侵行为，并在濒危动物受到伤害之前制服了武装偷猎团伙。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_03",
+    "group_id": 592,
+    "group_name": "connotation, nuance, purport, subtlety",
+    "level": "TEM-8",
+    "target_word": "connotation",
+    "question": "Although the political scientist employed the term 'populism' in its strictly descriptive sense, the word inevitably carried a negative ___ that prejudiced the committee against the proposed reforms.",
+    "options": [
+      "connotation",
+      "nuance",
+      "purport",
+      "subtlety"
+    ],
+    "answer": "connotation",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“in its strictly descriptive sense（严格的描述性意义，即字面外延）”与空格处形成经典语义学对照，且动词短语“carried a negative ___”构成了无可替代的强搭配，专门指词汇所附带的贬义或消极内涵。",
+    "distractor_analysis": {
+      "connotation": "正确。connotation 指词汇在字面客观意义（denotation）之外所诱发的情感、文化或价值评价联想（内涵、隐含意义）。在语言学与学术语篇中，“carry a negative/pejorative connotation”是极高频的经典固定搭配，完美契合句中“描述性外延”与“负面感彩内涵”的二元对立。",
+      "nuance": "错误。nuance 指意义、声音、色彩或情感上的“细微差别、细微语气”，强调的是程度或色调上的渐进差异（gradation），通常以复数形式或与 of 搭配使用，不能用于表示单词本身所承载的带有价值取向的“负面评价内涵”（不可说 carry a negative nuance 来表示贬义色彩）。",
+      "purport": "错误。purport 作名词时指整篇讲话、文件或行动的“大意、主旨、意图”（the general purport of a statement），属于宏观层面的主旨要义，不能用来指代单个词汇附带的情感内涵，更无法与“carry a negative ___”搭配。",
+      "subtlety": "错误。subtlety 意为“微妙、精妙、深奥”或“微妙的细节”，侧重于事物或论证的精巧与不易察觉，无法与 negative 搭配来表示词语附带的“贬义色彩/负面内涵”，语义完全不通。"
+    },
+    "translation": "尽管这位政治学家是在严格的描述性意义上使用“民粹主义”一词，但该词不可避免地带有一种负面内涵，致使委员会对拟议的改革产生了偏见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_04",
+    "group_id": 592,
+    "group_name": "connotation, nuance, purport, subtlety",
+    "level": "TEM-8",
+    "target_word": "nuance",
+    "question": "The cognitive linguist argued that advanced fluency requires mastering the delicate ___ between two ostensibly interchangeable synonyms, recognizing how minute contextual shifts can entirely transform an author’s intended stance.",
+    "options": [
+      "connotation",
+      "nuance",
+      "purport",
+      "subtlety"
+    ],
+    "answer": "nuance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "由“delicate”修饰且后接介词短语“between two ostensibly interchangeable synonyms”，精准锁定表示两个近义词之间“细微差别、细微语义分寸”的专门名词。",
+    "distractor_analysis": {
+      "nuance": "正确。nuance 源自法语，特指在意义、语调、色彩或概念之间极为微小、微妙的“细微差别、微殊”（a subtle distinction or variation）。“the delicate nuance between two synonyms”是学术英语和词汇学中判定近义词辨析的标准搭配，精准契合句中“表象相同但微小语境变化即改变立场”的语境。",
+      "connotation": "错误。connotation 是词汇本身具有的“隐含意义/内涵”，属于词汇的静态语义属性，句法上只能说 the connotation of a word，不能接介词短语 between two synonyms（词语本身有内涵，但不能说“两个词之间的内涵”），存在致命的句法与语义范畴错误。",
+      "purport": "错误。purport 指文本、演讲或法律文件的“主旨、大意、要旨”，既不能被 delicate 修饰来表示细微差异，也不能接 between two synonyms（两个单词之间不存在所谓的主旨大意）。",
+      "subtlety": "错误。subtlety 主要作不可数名词表示“精妙性、微妙性”，或作可数名词表示“精妙深奥的论点/细节”（subtleties of the law）。英语中表示两者之间的细微差异时，习惯搭配是 nuance between 或 distinction between，不使用 subtlety between 来指代词义的细微差殊。"
+    },
+    "translation": "认知语言学家认为，高级语言流利度需要掌握两个表面上可互换的近义词之间的微妙差异，从而认识到微小的语境转换如何能够彻底改变作者的预期立场。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_05",
+    "group_id": 593,
+    "group_name": "constraint, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "constraint",
+    "question": "The researchers noted that entrenched dogmatism acts as a debilitating ___ on critical inquiry, severely circumscribing the scholars' capacity to synthesize contradictory empirical evidence during complex problem-solving.",
+    "options": [
+      "constraint",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "constraint",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'debilitating ___ on' paired with the participial clause 'severely circumscribing the scholars' capacity' syntactically and semantically demands a noun denoting a strict impediment or restrictive boundary.",
+    "distractor_analysis": {
+      "constraint": "正确选项。作为名词，意为“束缚、限制”，常与介词 on 搭配（constraint on sth.）。在此语境中，与形容词 debilitating（削弱性的）以及后文的非谓语分词短语 severely circumscribing（严重限制/束缚）在语义场与认知论元上高度吻合，准确表达教条思维对批判性探究的禁锢作用。",
+      "prod": "错误选项。prod 意为“鞭策、刺痛、刺激物”，常用于催促行动或唤醒惰性（通常接介词 to），不仅与 debilitating 存在强烈的修饰语语义冲突，而且与后文“限制学者综合证据能力”的负向抑制逻辑截然对立。",
+      "foil": "错误选项。foil 作名词通常指“陪衬物、衬托者”（习惯搭配为 serve as a foil to sb./sth.），用于通过鲜明对照来凸显另一实体的特征；既不与介词 on 搭配，也完全脱离了后文表达“能力受限（circumscribing capacity）”的语境。",
+      "buffer": "错误选项。buffer 意为“缓冲物、减震屏障”，核心语义是减轻外部冲击或提供保护，通常搭配 against 或 between（如 buffer against volatility），在此处填入接 on 属于明显的介词搭配错误，且无法支撑句意中对思维过程的阻碍与束缚。"
+    },
+    "translation": "研究人员指出，根深蒂固的教条主义对批判性探究构成了阻碍性的束缚，在复杂的问题解决过程中极大地限制了学者们综合矛盾经验证据的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_06",
+    "group_id": 593,
+    "group_name": "constraint, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The damning audit findings served as a timely ___ to the lethargic supervisory commission, finally compelling senior regulators to overhaul lax enforcement protocols and dismantle entrenched corporate malpractices.",
+    "options": [
+      "constraint",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The construction 'served as a timely ___ to [an institutional agent]', coupled with 'compelling senior regulators to overhaul... and dismantle...', strictly demands a noun signifying a stimulus, goad, or incitement to action.",
+    "distractor_analysis": {
+      "prod": "正确选项。prod 作名词表示“（敦促某人行动的）刺激物、鞭策、催化剂”（a goad, stimulus, or incitement）。在句法与选择限制上，'a prod to + 行为主体' 表示对该主体的督促与驱使，精准契合前置修饰语 timely（及时的）以及后文分词短语 'compelling senior regulators to overhaul...'（迫使监管官员进行整顿）所表达的激活与催化逻辑。",
+      "constraint": "错误选项。constraint 意为“限制、约束”，通常与介词 on/upon 搭配（如 a constraint on the commission），极少接 to；语义上其核心为压制与收缩，若用于修饰本就怠惰（lethargic）的委员会，只会加剧其不作为，与后文迫使其大刀阔斧改革的驱动力发生直接的语义极性冲突。",
+      "foil": "错误选项。foil 意为“（通过对比以凸显另一方特质的）陪衬物、衬托者”（搭配 a foil to）。审计发现与监管机构之间不存在属性层面的静态美学映衬关系，且 foil 不具备引发后续连环改革行动的因果动能，属于严重的搭配与语域错位。",
+      "buffer": "错误选项。buffer 意为“缓冲物、减震垫”，核心功能在于吸收外部冲击以提供保护，常见介词搭配为 against 或 between。若填入 buffer，则意味该审计报告为怠惰的监管机构提供了避风港，这与下文强力促动其整改行动的语境彻底背道而驰。"
+    },
+    "translation": "这份令人震惊的审计调查结果对怠惰的监管委员会犹如一记及时的鞭策，最终迫使高级监管人员彻底整顿松懈的执法规程，并破除根深蒂固的企业违规弊端。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_07",
+    "group_id": 594,
+    "group_name": "convertible, sedan, hardtop, hatchback",
+    "level": "TEM-8",
+    "target_word": "convertible",
+    "question": "In consumer sensory cognition studies, the automotive design of the ___ stimulates heightened emotional arousal precisely because its retractable roof mechanism eliminates the physical barrier separating the driver from the external environment.",
+    "options": [
+      "convertible",
+      "sedan",
+      "hardtop",
+      "hatchback"
+    ],
+    "answer": "convertible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'retractable roof mechanism' combined with the clause 'eliminates the physical barrier separating the driver from the external environment' decisively points to an open-top, roof-folding vehicle.",
+    "distractor_analysis": {
+      "convertible": "正确。convertible 指“敞篷轿车”，其核心特征即为拥有可折叠或收放式车顶（retractable/folding top）。句中后半句的核心线索“retractable roof mechanism”（可收放车顶机械装置）与“eliminates the physical barrier separating the driver from the external environment”（消除阻隔驾驶者与外界环境的物理屏障）在认知语义上形成严密闭环，为唯一正确答案。",
+      "sedan": "错误。sedan 指传统的“三厢封闭式轿车”，具备永久固定的刚性车顶结构，完全不具备“retractable roof mechanism”，无法消除阻隔驾驶员的物理车顶屏障，逻辑完全相悖。",
+      "hardtop": "错误。hardtop 指“硬顶汽车”（通常指早期无B柱的固定硬顶车或配有可拆卸硬壳顶篷的车辆），其车顶本身为坚固刚性材料，并不通过内置动力机构进行“retractable”（可伸缩折叠收纳）运作，不能与此类敞篷机械及开篷感知体验搭配。",
+      "hatchback": "错误。hatchback 指“掀背式轿车”，其结构特点是车尾部设有可向上掀起的整合式尾门，车顶为固定封闭式，与可收放车顶机构毫无关联。"
+    },
+    "translation": "在消费者感官认知研究中，敞篷轿车的汽车设计之所以能激发更强烈的情感唤起，正是因为其可收放的车顶装置消除了隔绝驾驶员与外部环境的物理屏障。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_08",
+    "group_id": 594,
+    "group_name": "convertible, sedan, hardtop, hatchback",
+    "level": "TEM-8",
+    "target_word": "sedan",
+    "question": "Sociological studies on vehicular iconography reveal that the conventional four-door ___, defined by its rigid three-box silhouette separating engine, cabin, and trunk, remains the cognitive benchmark for formal corporate status and executive propriety.",
+    "options": [
+      "convertible",
+      "sedan",
+      "hardtop",
+      "hatchback"
+    ],
+    "answer": "sedan",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The diagnostic collocations 'four-door', 'rigid three-box silhouette separating engine, cabin, and trunk', and 'corporate status and executive propriety' exclusively define the classic three-compartment passenger car.",
+    "distractor_analysis": {
+      "sedan": "正确。sedan 指“三厢四门轿车”，其行业核心定义即为“three-box silhouette”（将发动机舱、乘员舱与后备箱物理隔开的三厢造型）；在汽车术语中，后备箱盖不计为车门，因而经典行政级轿车固定搭配为“four-door sedan”，在社会符号学中长期被视为企业高管商务出行的标准典范（benchmark for formal corporate status）。",
+      "convertible": "错误。convertible（敞篷车）侧重休闲与运动，通常为双门设计，且其无固定顶棚的特征无法被称为“rigid three-box silhouette”，更非严肃商务行政（executive propriety）的代表车型。",
+      "hardtop": "错误。hardtop（硬顶车）属于小众的造型细分概念（通常为无中柱轿跑或运动硬顶），并非汽车工业与社会认知中确立企业商务地位的“conventional four-door”常规代表车型范式。",
+      "hatchback": "错误。hatchback（掀背车）在结构上属于“two-box architecture”（发动机舱与乘员行李一体舱的两厢结构），与句中的“three-box silhouette”直接冲突；同时，掀背车因尾门算作独立车门，分类上被称为三门或五门车（three-door/five-door），绝不称“four-door”，且其认知基调偏向经济与实用，而非行政商务身份象征。"
+    },
+    "translation": "针对车辆图像学的社会学研究表明，以发动机舱、乘员舱和后备箱相互独立的刚性三厢轮廓为特征的传统四门轿车，依然是象征正式企业地位和高管体面的认知基准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_09",
+    "group_id": 595,
+    "group_name": "convoy, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "convoy",
+    "question": "To safeguard critical humanitarian relief across the contested maritime corridor, the international coalition organized an armed ___ of merchant vessels and naval escorts operating under stringent electronic surveillance protocols.",
+    "options": [
+      "convoy",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "convoy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and syntactic anchor 'armed ___ of merchant vessels and naval escorts' combined with 'contested maritime corridor', requiring a collective noun for ships travelling under protection.",
+    "distractor_analysis": {
+      "convoy": "正确。MW定义为“a collection of merchant ships with an escort of warships”（受战舰护航的商船队；护卫车队/船队）。在军事与海事后勤语境中，与“armed ... of merchant vessels and naval escorts”构成不可替代的严密专业搭配。",
+      "mound": "错误。意为“土堆；堆积”，指静态的物质堆积或小丘（如burial mound），无法修饰移动的护航编队或商船群体，语义范畴完全脱节。",
+      "fauna": "错误。生物学术语，指“特定区域或时期的动物区系”，不可用于修饰船只、武器等无生命的军事与运输编队，属于范畴错误。",
+      "corpus": "错误。文献学或语言学术语，指“语料库；文集；专集”，或解剖学中的“机体/躯干”，与战备护航、商船过境的海洋战略语境毫无关联。"
+    },
+    "translation": "为确保重要人道主义救援物资安全穿过局势动荡的海上走廊，国际联军组织了一支由商船和海军护卫舰组成的武装护送船队，并在严格的电子监控协议下航行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_10",
+    "group_id": 595,
+    "group_name": "convoy, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "mound",
+    "question": "During their systematic excavation of the Neolithic necropolis, archaeologists meticulously documented an earthen burial ___ containing ceramic shards and calcified skeletal remains that provided vital insights into prehistoric mortuary rituals.",
+    "options": [
+      "convoy",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "mound",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Established archaeological technical collocation 'burial mound' (tumulus/barrow) premodified by 'earthen' and postmodified by 'containing ceramic shards and calcified skeletal remains'.",
+    "distractor_analysis": {
+      "convoy": "错误。指动态行驶的“护卫车队或护航船队”，无法被“earthen burial”（土制丧葬的）修饰，更不可能存在于新石器时代墓葬考古挖掘出的静态实体中。",
+      "mound": "正确。名词，指“土丘、土墩、坟冢”。“burial mound”（土冢、古坟）为考古人类学专业术语，与前文的“earthen”（泥土筑成的）及后文的“ceramic shards and calcified skeletal remains”（陶瓷碎片与钙化骨骼）形成严丝合缝的语意与句法搭配。",
+      "fauna": "错误。指特定区域的“动物群”，虽考古学有“faunal remains”（动物遗存）的用法，但名词fauna自身不可与定冠词外的“an ... burial”搭配指代单个墓丘遗址结构。",
+      "corpus": "错误。专指“语料库、文献集”或“实体”，无法指代由泥土堆成并埋葬古代文物的物理古冢（earthen burial structure）。"
+    },
+    "translation": "在对该新石器时代大型墓地进行系统性发掘期间，考古学家严密记录了一座泥土堆砌的丧葬古冢，其中包含的陶瓷碎片与钙化骨骸遗存为研究史前丧葬仪式提供了关键线索。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_11",
+    "group_id": 596,
+    "group_name": "counterbalance, redress, indemnity, reparation",
+    "level": "TEM-8",
+    "target_word": "counterbalance",
+    "question": "Epistemologists maintain that rigorous empirical falsification must serve as an indispensable ___ to speculative metaphysics, preventing untested theoretical paradigms from dominating academic inquiry without adequate evidentiary support.",
+    "options": [
+      "counterbalance",
+      "redress",
+      "indemnity",
+      "reparation"
+    ],
+    "answer": "counterbalance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心动宾介词搭配 'serve as an indispensable ___ to [noun]' 指充当某种相抗衡、起平衡或制约作用的对等力量。'counterbalance to' 为标准学术认知搭配；而 redress、indemnity、reparation 在语义和介词模式（通常接 of/for 或 against）上均发生严重破裂。",
+    "distractor_analysis": {
+      "counterbalance": "正确。counterbalance 作名词时意为“抗衡力；平衡物；起补偿作用的对等物”（a compensating equivalent / an opposing force），常与介词 to 构成高频搭配（a counterbalance to...），用于表示防止某一倾向或力量走入极端而存在的制衡机制，完美契合题干中经验证伪制衡思辨形而上学的认知哲学语境。",
+      "redress": "错误。redress 意为“矫正；赔偿；（对冤情、不公的）纠正”（relief from distress / remedy for a wrong），其典型搭配为 'redress of grievances/injustice' 或与 for 连用，指向对已有过错或损害的纠正救济，无法与介词 to 搭配表示思想体系内部的方法论“平衡/制约力量”。",
+      "indemnity": "错误。indemnity 属于法律与经济范畴，意为“（免于受罚的）保障；赔偿金；免责协议”（security against hurt or loss / exemption from incurred penalties），常搭配介词 against 或 for，用于契约和财产损失语境，与认知哲学中的理论抗衡风马牛不相及。",
+      "reparation": "错误。reparation 指对过去造成的严重道德过失、侵略或伤害所作的“补偿；赔罪；战争赔款”（the act of making amends / usually plural 'reparations'），通常搭配 make reparation for，不能用作抽象学术维度的“制衡因素”，与 to speculative metaphysics 产生严重搭配与语义脱节。"
+    },
+    "translation": "认识论学者坚称，严谨的经验证伪必须作为思辨形而上学不可或缺的抗衡力量，以防止未经检验的理论范式在缺乏充分证据支撑的情况下主导学术探索。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_12",
+    "group_id": 596,
+    "group_name": "counterbalance, redress, indemnity, reparation",
+    "level": "TEM-8",
+    "target_word": "redress",
+    "question": "Although the regulatory framework identified several implicit cognitive biases in algorithmic sentencing, it established no institutional avenue of ___ for defendants whose liberties were compromised by faulty automated risk assessments.",
+    "options": [
+      "counterbalance",
+      "redress",
+      "indemnity",
+      "reparation"
+    ],
+    "answer": "redress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心制度与法律哲学固定搭配 'avenue of redress for [victims/defendants]'（为受害者/被告提供寻求权利救济与平反纠错的正式渠道）。其余选项与 'avenue of...' 搭配均属严重语料库错配，且无法表达程序性救济机制。",
+    "distractor_analysis": {
+      "redress": "正确。redress 作名词时意为“补偿；矫正；救济途径”（means or possibility of seeking a remedy / relief from distress），固定搭配 'avenue/channel of redress for sb.' 表示为受侵害方提供伸冤、纠错或救济的合法途径，完全符合司法量刑算法歧视受害者寻求救济的语境。",
+      "counterbalance": "错误。counterbalance 强调动态力量或倾向之间的“对冲物、平衡物”，不存在 *avenue of counterbalance for defendants 的用法，受害者需要的不是物理或概念上的力量制衡器，而是权利遭受损害后的程序性司法救济。",
+      "indemnity": "错误。indemnity 指法定或契约性的“免责保障”或“损失补偿金”（security against liability or loss），*avenue of indemnity 不合司法成语习惯；且 indemnity 偏向免责与经济防损协议，不能表达人身自由遭不当侵犯后的维权与纠偏救济。",
+      "reparation": "错误。reparation 指直接的经济赔偿或道歉补偿行为（多用复数 reparations），侧重赔偿物本身或国家间的赔款行为，与抽象的权利救济程序搭配不当（英语中一般使用 avenue of redress，而无 *avenue of reparation 这一制度性渠道表达）。"
+    },
+    "translation": "尽管该监管框架指出了算法量刑中存在的若干隐性认知偏差，但它并未为那些人身自由因存在缺陷的自动化风险评估而受损的被告建立任何制度性的维权救济渠道。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_13",
+    "group_id": 597,
+    "group_name": "damper, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "damper",
+    "question": "The unexpected resurgence of inflationary pressures threatens to put an undeniable ___ on consumer spending, undermining the tentative economic recovery that central bankers had painstakingly engineered over recent quarters.",
+    "options": [
+      "damper",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "damper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Fixed idiomatic and collocational frame 'put a(n) ... damper on [noun phrase]', meaning to dull, depress, or restrain activity or enthusiasm.",
+    "distractor_analysis": {
+      "damper": "正确。damper本义为阻尼器、消音器或气阀，在抽象语境中引申为‘抑制因素’‘令人扫兴之物’。此处精准契合英语固定习语搭配‘put a damper on sth’（抑制/挫伤某事物的活力或发展），完美呼应后文通胀压力压制消费支出、破坏经济复苏的语境。",
+      "prod": "错误。prod指‘刺棒；促使行动的刺激物或催促’，其典型搭配为‘act as a prod to/for’或‘give sb/sth a prod’，不可与动词短语‘put a ... on’搭配；且其语义指向激励行动，与语境中通胀‘抑制’消费支出的消极语义方向相反。",
+      "foil": "错误。foil用作名词时多指‘衬托物；陪衬者’（通常构成‘a foil to/for sb/sth’）或‘箔纸’，不存在‘put a foil on’的习惯搭配，在语义逻辑上亦无法表示对支出活动的抑制。",
+      "buffer": "错误。buffer指‘缓冲物；起缓冲作用的人或制度’，常与介词‘against’或‘between’连用（如‘a buffer against inflation’），表示减小外部冲击或起到防护隔离作用，与动词搭配‘put a buffer on’不相符，且无法表达挫伤消费支出的语境。"
+    },
+    "translation": "意外复苏的通胀压力可能会给消费者支出带来明显的抑制作用，从而破坏各国央行在最近几个季度费尽心机促成的微弱经济复苏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_14",
+    "group_id": 597,
+    "group_name": "damper, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The abrupt termination of state subsidies served as a salutary ___ to the lethargic automotive sector, compelling domestic manufacturers to overhaul obsolete production lines and accelerate electrification.",
+    "options": [
+      "damper",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Collocational pattern 'served as a salutary ___ to [lethargic agent]', coupled with the resultative participle 'compelling domestic manufacturers to overhaul... and accelerate...', which requires a noun denoting an impetus, stimulus, or incitement to overcome stagnation.",
+    "distractor_analysis": {
+      "prod": "正确。prod在此引申为‘推动力、刺激、鞭策’，专门用于指敦促迟缓、懒散者行动起来的外力。句中‘salutary prod’（有益的鞭策/警示）是学术及高级报刊高频搭配，与后文的‘lethargic’（死气沉沉的）形成精准对应，驱动其‘overhaul’（彻底改造）与‘accelerate’（加速）。",
+      "damper": "错误。damper指‘抑制因素、减震器’。句意明确表达取消补贴迫使车企加速转型，是一种促动和逼迫机制，若填入damper（抑制物）将与后文‘compelling... to accelerate’产生直接的逻辑反向冲突。",
+      "foil": "错误。foil指‘（通过鲜明对比突显另一事物品质的）陪衬、衬托物’（如a foil to sb），不具备催促行动或打破惰性的施力动因功能，无法与句中驱动行业改革的逻辑衔接。",
+      "buffer": "错误。buffer指‘减震缓冲物、抵御侵害的屏障’（通常后接against）。若补贴终止是‘buffer’，则意味着它在保护该行业免受冲击，这与句中行业被逼入绝境不得不‘加速转型’的因果逻辑截然相反。"
+    },
+    "translation": "国家补贴的骤然终止对死气沉沉的汽车行业起到了有益的鞭策作用，迫使国内制造商彻底改造过时的生产线并加速电气化转型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_15",
+    "group_id": 598,
+    "group_name": "deviant, pervert, deviate, degenerate",
+    "level": "TEM-8",
+    "target_word": "deviant",
+    "question": "Labeling theorists emphasize that whether an action is classified as ___ depends entirely on the reactions of social audiences, rather than on any inherent quality of moral decadence or physical deterioration within the actor.",
+    "options": [
+      "deviant",
+      "pervert",
+      "deviate",
+      "degenerate"
+    ],
+    "answer": "deviant",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_SOCIOLOGY",
+    "anchor_clue": "Dual syntactic and discourse-logic anchor: The slot requires an adjective to complement the subject 'an action' ('classified as ___'). Modern academic English requires an adjective rather than a personal noun, and the contrastive clause ('rather than on any inherent quality of moral decadence or physical deterioration') logically excludes words whose core definition denotes biological or moral degeneration, perfectly matching Howard Becker's sociological definition of 'deviant'.",
+    "distractor_analysis": {
+      "deviant": "正确。在社会学标签理论（Howard Becker's Labeling Theory）中，deviant 作形容词修饰 action（越轨的、背离常模的），指涉一种由社会群体反应所建构的规范偏离状态，而非主体内在的病理属性；后半句的“rather than on any inherent quality...”直接对应现代社会学将“越轨行为（deviant action）”去病理化、去道德败坏化的核心定义，语法与语篇逻辑完全吻合。",
+      "pervert": "错误。语法与语义范畴双重不符。pervert 在现代标准英语中仅作名词（性变态者、道德堕落者）或及物动词（败坏、歪曲），不可作形容词修饰无生命主语“an action”（对应的形容词形式为 perverted）；且其指代人时带有强烈的性病理与道德斥责色彩，与学术语域严重脱节。",
+      "deviate": "错误。语法与词性不符。deviate 在现代规范学术英语中主要作不及物动词（背离、偏离），作名词时指代“偏离常人者（a deviate）”或统计学变量；现代英语中 deviate 不具备形容词词性（不可表达“越轨的动作/行为”，必须使用 deviant 或 deviating），因此置于“classified as ___”后作 action 的补足成分构成严重句法错误。",
+      "degenerate": "错误。语篇逻辑产生致命矛盾。degenerate 虽可作形容词（退化的、堕落的），但其核心词义恰恰指“在身体、心智或道德层面发生本质性退化或恶化”（declined to an inferior state characterized by physical deterioration or moral decadence）；题干后半句以“rather than on any inherent quality of moral decadence or physical deterioration”明确排除了行为的内在道德堕落或生理退化属性，若填入 degenerate 将导致前后语义截然对立、逻辑自相矛盾。"
+    },
+    "translation": "标签理论家强调，一种行为是否被归类为越轨行为，完全取决于社会受众的反应，而非取决于行为主体自身具有任何固有的道德堕落或生理退化特质。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_16",
+    "group_id": 598,
+    "group_name": "deviant, pervert, deviate, degenerate",
+    "level": "TEM-8",
+    "target_word": "pervert",
+    "question": "In classical psychoanalytic theory, whereas the neurotic represses illicit instinctual drives, the confirmed ___ openly enacts them, channeling distorted libidinal energy into forbidden sexual practices rather than sublimating it into culturally productive endeavors.",
+    "options": [
+      "deviant",
+      "pervert",
+      "deviate",
+      "degenerate"
+    ],
+    "answer": "pervert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive psychoanalytic antithesis between 'the neurotic' and 'the pervert' (who enacts perversion rather than repressing/sublimating libidinal drives), reinforced by explicit references to 'distorted libidinal energy' and 'forbidden sexual practices'.",
+    "distractor_analysis": {
+      "deviant": "错误。deviant 是20世纪中叶兴起的社会学范畴术语，泛指偏离社会规则的越轨者，并非经典精神分析学派剖析力比多驱力转化、压抑与性倒错（perversion）的核心临床对映术语，无法与 the neurotic 形成严密的理论二元对立。",
+      "pervert": "正确。在弗洛伊德经典精神分析与认知病理学框架中，“the pervert”（性倒错者/变态者）与“the neurotic”（神经症患者）构成著名的理论互补假说（即“神经症是倒错的底片/反面”）。题干中“libidinal energy”（力比多能量）、“forbidden sexual practices”（禁忌的性实践）以及“sublimating”（升华）等专业认知表述，决定性地锁定了指代践行性倒错个体的专业名词 pervert。",
+      "deviate": "错误。deviate 在现代英语中主要作为动词；虽在早期某些性学分类中偶作名词表“性偏离者”，但在正统精神分析文本中，对应“倒错机制（perversion）”的特指施动者名词固定为 pervert，选用 deviate 违背了专业文献的词汇惯例。",
+      "degenerate": "错误。degenerate（退化者/堕落者）源于莫雷尔（Morel）等人的“遗传退化论”，该假说在弗洛伊德《性学三论》中被明确批判与摒弃；精神分析将性本能扭曲视为心理发育固着与驱力分配问题，而非器质性退化，在此使用 degenerate 属于学科概念上的严重历史错误。"
+    },
+    "translation": "在经典精神分析理论中，神经症患者往往会压抑违禁的本能冲动，而确诊的“性倒错者”则会公开将其付诸行动，将扭曲的力比多能量导入禁忌的性实践之中，而非将其升华至具有文化效益的创造性活动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_17",
+    "group_id": 599,
+    "group_name": "diagonal, slash, brace, colon",
+    "level": "TEM-8",
+    "target_word": "diagonal",
+    "question": "When cognitive scientists map semantic associations onto symmetric feature matrices, identical self-referential concepts necessarily align along the principal ___, whereas divergent conceptual pairings occupy the off-axis positions.",
+    "options": [
+      "diagonal",
+      "slash",
+      "brace",
+      "colon"
+    ],
+    "answer": "diagonal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“symmetric feature matrices”（对称特征矩阵）、“off-axis positions”（离轴位置）以及前置限定词“principal”构成了强有力的决定性排他锚点。“principal diagonal”（主对角线）是线性代数、计算机认知建模及语义关联分析中不可分割的专有学术搭配，用于指代自反性同一关系所在的位置。",
+    "distractor_analysis": {
+      "diagonal": "正确。作名词时指“对角线”。在认知语义模型与矩阵代数中，“principal diagonal”（主对角线）是高度固定的学术搭配，专指方阵中从左上角至右下角延伸的元素集合，在此精确对应自指概念（self-referential concepts）的坐标轴线，与后半句的“off-axis positions”（离轴位置）形成完美的几何拓扑对照。",
+      "slash": "错误。作名词指标点符号“斜杠(/)”或“切口、削减”。在矩阵分析和空间认知科学中，根本不存在“principal slash”这一术语，代入后造成严重的学术搭配破裂与语义荒谬。",
+      "brace": "错误。作名词指印刷标点“大括号({})”或结构“支撑物”。虽然其具有形式特征，但无法与“principal”搭配构成表示矩阵对角轴的数学或认知术语。",
+      "colon": "错误。作名词指标点符号“冒号(:)”或解剖学中的“结肠”。其既无矩阵几何含义，亦无法与“principal”和“off-axis”产生任何语义或句法联动，直接排除。"
+    },
+    "translation": "当认知科学家将语义关联映射到对称特征矩阵上时，相同的自指概念必然沿主对角线排列，而存在差异的概念配对则占据轴外位置。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_18",
+    "group_id": 599,
+    "group_name": "diagonal, slash, brace, colon",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "In critical discourse analysis, theorists frequently deconstruct the orthographic ___ between binary concepts—such as 'mind/body'—arguing that this punctuation mark imposes an artificial divide upon an interconnected cognitive reality.",
+    "options": [
+      "diagonal",
+      "slash",
+      "brace",
+      "colon"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于具体的正字法实例“'mind/body'”、搭配修饰“orthographic ___ between”以及后文的同位解释“this punctuation mark imposes an artificial divide”。在当代批评话语分析与正字法中，专用于置于对立/关联词之间表示二元并置或选择分隔的标点符号严格称为“slash”。",
+    "distractor_analysis": {
+      "slash": "正确。作名词指标点符号“斜杠(/)”，按词典权威定义专用于“在文本中分隔相关信息或对立概念”。在话语分析与认知语言学中，“the orthographic slash between...”是标准学术表达，精准指称例词“mind/body”中用以构建二元割裂的斜杠符号，与后文的“this punctuation mark”完全嵌合。",
+      "diagonal": "错误。虽然在部分早期字典中有作为virgule/slash的罕见次要释义，但在现代正字法规范、标点系统分类及批评话语分析中，“diagonal”纯粹用作几何与空间层面的“对角线”，学术界从不将单词间作为标点出现的“/”称为“orthographic diagonal”，代入会导致严重的术语误用和文体失调。",
+      "brace": "错误。作名词指“大括号({})”，其正字法功能在于成对包围（enclose）或汇总多个平行的语言元素/集合，绝不能作为单一标点横插于如“mind/body”这样的两个单词之间制造二元界线。",
+      "colon": "错误。作名词指“冒号(:)”，其核心正字法功能是引出解释、列举、引用或补充说明，既无法对应“mind/body”这一具体的视觉书写实例，也不能体现将连续概念强行对半割裂的斜杠标点特征。"
+    },
+    "translation": "在批评话语分析中，理论家们常常解构二元概念（例如“身/心”）之间的书写斜杠，指出这一标点符号给相互交织的认知现实强加了人为的割裂。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_19",
+    "group_id": 600,
+    "group_name": "disrespect, stance, reverence, orientation",
+    "level": "TEM-8",
+    "target_word": "disrespect",
+    "question": "The witness's insolent smirk and dismissive demeanor revealed a flagrant ___ for the inquiry's authority, which ultimately led the parliamentary committee to initiate formal contempt proceedings.",
+    "options": [
+      "disrespect",
+      "stance",
+      "reverence",
+      "orientation"
+    ],
+    "answer": "disrespect",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational framework 'flagrant disrespect for...' supported by negative semantic context ('insolent smirk', 'contempt proceedings').",
+    "distractor_analysis": {
+      "disrespect": "正确。disrespect（蔑视、不敬）与形容词 flagrant（公然的）及介词 for 构成法律与正式学术语境中的高频固定搭配（a flagrant disrespect for...，对……的公然蔑视），且与前文的“insolent smirk”（傲慢冷笑）及后文引发的“contempt proceedings”（藐视指控程序）在情感色彩与因果逻辑上严丝合缝。",
+      "stance": "错误。stance 意为“立场、姿态”，通常与 take/adopt 搭配，支配介词 on 或 towards，极少与 flagrant 连用（无“flagrant stance”这一搭配），且该词属中性表达，无法与招致法律惩戒的语境构成直接语义联系。",
+      "reverence": "错误。reverence 意为“崇敬、敬畏”，虽能与介词 for 搭配，但其褒义语义与句中“insolent”（无礼的）以及启动藐视程序构成了不可调和的逻辑反向冲突。",
+      "orientation": "错误。orientation 意为“方向、取向”，介词通常接 towards 或 to，无法与 for 搭配构成此类表意；且“flagrant orientation”在语义上无法解释，属于严重搭配不当。"
+    },
+    "translation": "证人傲慢的冷笑与轻蔑的神态暴露出其对调查机构权威的公然蔑视，最终促使该议会委员会启动了正式的藐视指控程序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b59_20",
+    "group_id": 600,
+    "group_name": "disrespect, stance, reverence, orientation",
+    "level": "TEM-8",
+    "target_word": "stance",
+    "question": "Despite intense lobbying from foreign diplomats, the prime minister maintained an uncompromising ___ on national sovereignty, refusing to dilute the proposed maritime border enforcement measures.",
+    "options": [
+      "disrespect",
+      "stance",
+      "reverence",
+      "orientation"
+    ],
+    "answer": "stance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and collocational frame: 'maintain an uncompromising stance on [issue]'; distractors cannot govern the preposition 'on'.",
+    "distractor_analysis": {
+      "stance": "正确。stance 指在公共事务或争议议题中公开持有的“立场、姿态”，与动词 maintain（保持）及修饰语 uncompromising（不妥协的）高度共现，且严格支配介词 on（maintain a stance on sth.），完美契合外交政治语境。",
+      "disrespect": "错误。disrespect（蔑视、不敬）常接介词 for 或 to，绝不能接介词 on；且“uncompromising disrespect on”在句法与语意上均不成立。",
+      "reverence": "错误。reverence（崇敬、敬畏）必须与介词 for 搭配，不能接 on（不存在“reverence on”的用法）；且其语义与政治决断及边境执法语境完全不搭。",
+      "orientation": "错误。orientation（取向、倾向）在句法上常支配 to 或 towards，不能与介词 on 连用（无“orientation on sovereignty”之说）；此外，orientation 侧重长期的认知或价值导向，无法用来修饰就特定政策所采取的坚决立场。"
+    },
+    "translation": "尽管面临来自外国外交官的密集游说，首相仍在国家主权问题上保持了毫不妥协的立场，拒绝弱化拟议中的海上边境执法措施。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

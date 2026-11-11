@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b39_01",
+    "group_id": 391,
+    "group_name": "ghastly, grisly, gruesome, grim",
+    "level": "TEM-8",
+    "target_word": "ghastly",
+    "question": "Noting the defendant’s sudden, ___ pallor upon cross-examination, the cognitive psychologist testified that such an abrupt, corpse-like blanching demonstrated an involuntary visceral reaction to the irrefutable exposure of his perjury.",
+    "options": [
+      "ghastly",
+      "grisly",
+      "gruesome",
+      "grim"
+    ],
+    "answer": "ghastly",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定修饰名词'pallor'（苍白）并由后文同位语'such an abrupt, corpse-like blanching'（如此突如其来的死尸般惨白）决定性锚定；在四词中，仅'ghastly'具备韦氏词典所定义的'of a deathlike pallor: cadaverous'（死人般苍白的、死尸似的）这一专属核心义项。",
+    "distractor_analysis": {
+      "ghastly": "正确。ghastly源自ghost（鬼魂），其核心词义之一正是形容面容或脸色呈现出如鬼魂、死尸般恐怖的惨白（of a deathlike pallor: cadaverous，如ghastly pallor/visage）。句中'pallor'与'corpse-like blanching'构成了决定性的语义复现与语境锚点，完美契合认知心理学语境下的生理应激反应描写。",
+      "grisly": "错误。grisly侧重指因血腥、屠杀、残肢断臂等血腥暴力场景所引起的令人毛骨悚然、战栗反胃的恐怖（stresses a shuddering, sickening horror involving slaughter or carnage）。pallor意为面色失血发白，与grisly所强调的鲜血淋漓或残忍肢解毫无搭配理据，构成严重的语义冲突与搭配断裂。",
+      "gruesome": "错误。gruesome强调由于病态、畸形、令人作呕的怪诞细节而引发的视觉排斥与反胃（inspiring horror through repellent, morbid, or grotesque deformity）。它常修饰犯罪现场、残骸细节（如gruesome details），不能用来形容人体脸色死人般的惨白。",
+      "grim": "错误。grim侧重严酷的、令人沮丧的、冷酷无情或不屈不挠的（severe, stern, unflinching, gloomy，如grim reality, grim determination）。它描绘的是神情严肃坚毅或现实严峻，完全不具备形容皮肤'死尸般苍白（corpse-like blanching）'的语义特征。"
+    },
+    "translation": "注意到被告在接受交叉盘问时骤然变得死人般惨白，认知心理学家出庭作证称，这种突如其来的尸样苍白表明其在伪证罪行被无可辩驳地揭穿时，产生了不由自主的本能应激反应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_02",
+    "group_id": 391,
+    "group_name": "ghastly, grisly, gruesome, grim",
+    "level": "TEM-8",
+    "target_word": "grisly",
+    "question": "In aesthetic theory, while spectral apparitions elicit a bloodless, shadowy dread and decaying matter induces sickening revulsion, the carnage of the abattoir generates a distinctly ___ horror rooted entirely in physical butchery.",
+    "options": [
+      "ghastly",
+      "grisly",
+      "gruesome",
+      "grim"
+    ],
+    "answer": "grisly",
+    "primary_mechanism": "MECH_SEMANTIC_FEATURE",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "本题通过文学与美学批评（Aesthetic Theory）关于“恐怖体验”（Aesthetics of Horror）的三重平行语义结构，构建了绝对排他的词义判定框架：\n1. 语义排他前置判定（Semantic Partitioning）：前半句的让步状语从句严格切分出前两种恐怖范式——“spectral apparitions ... bloodless, shadowy dread”（幽灵显现所带来的失血、幽暗之恐）精准占据并耗尽了 ghastly 的核心义场；“decaying matter induces sickening revulsion”（腐烂腐败物质所激发的生理性作呕与厌恶）精准占据并耗尽了 gruesome 的核心义场。\n2. 决定性专属锚点（Exclusive Semantic Anchor）：主句主语“the carnage of the abattoir”（屠宰场的血腥杀戮）与后置补足语“rooted entirely in physical butchery”（完全植根于肉体屠戮与残害）构成了对空缺处的严密限定。根据《韦氏同义词词典》（Merriam-Webster's Dictionary of Synonyms），grisly 的规范界定正是“applies to what is slaughterous or suggests physical butchery or death”（专指由血腥屠杀、肉体残害与尸体屠戮所引发的毛骨悚然之战栗）。将 ghastly 或 gruesome 填入不仅造成严重的语内语义冗余，更彻底破坏了全句的对仗三分逻辑；而 grim（冷酷严峻的）缺乏血肉屠戮的感官特质，属于范畴错配。因此，grisly 为唯一正解。",
+    "distractor_analysis": {
+      "ghastly": "错误。ghastly 在词源上与 ghost（鬼魂）同源，在辞书与文学批评中专指“幽灵般的惊骇、死者般的惨白或缺乏血色的极度惊恐”（suggests the terrifying aspects of death or someone who has seen a ghost; accompanied by loss of color）。题干让步从句第一分句“spectral apparitions elicit a bloodless, shadowy dread”已完整且排他性地表达了这一语义；若将其填入主句修饰屠场屠戮（butchery/carnage），将导致全句对比逻辑崩溃，且无法承载“鲜血淋漓、肢体屠戮”的具象感官语义。",
+      "grisly": "正确。grisly 完美契合主句的决定性语义锚点。《韦氏同义词词典》明确指出：“GRISLY applies to what is slaughterous or suggests physical butchery or death”，专指因目睹暴力屠杀、鲜血飞溅与骨肉残害（carnage, slaughter, physical butchery）而激发的心悸与战栗恐怖。它与主语“carnage of the abattoir”及后置定语“rooted entirely in physical butchery”形成严丝合缝的语义互锁与同构闭环。",
+      "gruesome": "错误。gruesome 源自中古英语及苏格兰语 grue（因反感厌恶而战栗），各大权威辞书（Merriam-Webster, Fowler's Modern English Usage）将其核心义严格限定为“因死亡腐烂、病态畸形、恶疾或极端污秽等细节所引发的恶心反胃与生理厌恶”（induces sickening repugnance or disgust, as by reminding one of death, decay, squalor, or deformity）。让步从句第二分句“decaying matter induces sickening revulsion”已显性占位了该义场；若选 gruesome，将破坏句子清晰的三元美学分类对比体系，属于严重误用。",
+      "grim": "错误。grim 的核心词义为“冷酷严峻的、神色严肃的、坚决不屈的”（harsh, stern, or forbidding in aspect; unyielding），主要修饰神情、态度或客观严酷形势（如 grim resolve, grim determination, grim reality），属于心理态度或沉重氛围的抽象范畴，完全不具备感官层面肉体屠戮、骨肉残害的血腥恐怖属性，填入此处属于严重的范畴错配（category mistake）。"
+    },
+    "translation": "在美学理论中，幽灵显现唤起的是一种毫无血色的幽暗恐惧，腐烂物质引发的是令人作呕的生理厌恶，而屠宰场的血腥杀戮所产生的，则是一种完全植根于肉体屠戮的、鲜明独特的惨烈恐怖。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_03",
+    "group_id": 392,
+    "group_name": "inexplicable, cryptic, paradoxical, deep",
+    "level": "TEM-8",
+    "target_word": "inexplicable",
+    "question": "Despite rigorous calibration of the particle detector, the persistent energy anomaly remained utterly ___, defying every known thermodynamic principle and baffling the astrophysicists who sought a causal framework.",
+    "options": [
+      "inexplicable",
+      "cryptic",
+      "paradoxical",
+      "deep"
+    ],
+    "answer": "inexplicable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词短语 'defying every known thermodynamic principle'（违背所有已知热力学定律）与 'sought a causal framework'（寻求因果框架）明确将该物理异常（energy anomaly）定性为'完全无法用已知规律或因果逻辑进行合理解释'，与 inexplicable（无法解释的、难以说明的）形成绝对语义锁定。",
+    "distractor_analysis": {
+      "inexplicable": "正确。意为'无法解释的、无法说明的'（incapable of being explained or accounted for）。句中科学家试图为其寻找因果框架（causal framework），但该异常违背了所有已知物理定律，精准契合 inexplicable 所指的'缺乏合理因果解释'的核心认知特征。",
+      "cryptic": "错误。意为'含义隐晦的、加密的'，侧重于信息、言论或文本带有故意的隐秘色彩或暗号性质（如 a cryptic message/remark）。此处主语是客观物理现象（energy anomaly），并非人为编造或意图传达隐藏信息的媒介，搭配范畴不当。",
+      "paradoxical": "错误。意为'自相矛盾的、似非而是的'，侧重于两个命题或现象在逻辑上相互冲突却同时存在（paradox）。题干仅表明该异常超出现有物理法则的解释范围，未呈现任何正反命题并立的矛盾张力结构。",
+      "deep": "错误。意为'深奥的、深刻的'，多用于形容思想的博大、情感的深沉或知识的渊博。deep 无法与副词 utterly 形成严谨的学术书面语搭配，且不能表达'完全无法解释、违背因果法则'的否定性认知阻滞。"
+    },
+    "translation": "尽管对粒子探测器进行了极其严密的校准，但这一持续存在的能量异常仍然完全无法解释，它违背了所有已知的热力学定律，令试图构建因果解释框架的天体物理学家们大为困惑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_04",
+    "group_id": 392,
+    "group_name": "inexplicable, cryptic, paradoxical, deep",
+    "level": "TEM-8",
+    "target_word": "cryptic",
+    "question": "Fearing state surveillance, the dissident deliberately encoded his warnings into a ___ missive, leaving intelligence analysts scrambling to decipher the hidden political allegories embedded within the text.",
+    "options": [
+      "inexplicable",
+      "cryptic",
+      "paradoxical",
+      "deep"
+    ],
+    "answer": "cryptic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的 'deliberately encoded'（蓄意编码）、'missive'（书信、公文）以及 'scrambling to decipher the hidden... allegories'（争相破译隐藏的寓意）构成了决定性互文线索，强力排他地指向专门修饰文本语言且带有'隐藏/密码编码含义'的 cryptic。",
+    "distractor_analysis": {
+      "cryptic": "正确。意为'神秘隐晦的、带有隐义或代码的'（having a hidden or ambiguous meaning; enigmatic or coded）。修饰文本（missive）时，与句中'encoded'（编码）、'decipher'（破译）及'hidden political allegories'（隐藏的政治寓意）构成严密的同义共现网络。",
+      "inexplicable": "错误。意为'无法解释的、难以说明的'，表示因果关系的彻底断裂。此处信件是写作者为了躲避监控而'蓄意编码'（deliberately encoded）的信息载体，存在既定密码，只要破译即可理解，并非本体论上'不可解释'的现象。",
+      "paradoxical": "错误。意为'自相矛盾的'。句子表达的是文本经过暗号加密以防监控，需要情报专家去解读隐蔽的寓意，并不强调信件内容本身在逻辑上互相反常或自相倾轧。",
+      "deep": "错误。意为'深刻的、深远的'，指思想或寓意深刻（如 deep thoughts）。虽然信件可以含有深意，但 deep 缺乏'故意采用暗号/晦涩措辞以隐藏真相以便待人破译'的特异认知义项，与 'encoded' 和 'decipher' 无法构成精准的词汇搭配闭环。"
+    },
+    "translation": "出于对国家监控的担忧，该异见人士特意将自己的警告编码成一封晦涩隐秘的信函，致使情报分析人员不得不绞尽脑汁去破译文本中深嵌的政治暗喻。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_05",
+    "group_id": 393,
+    "group_name": "lavish, lush, plush, rich",
+    "level": "TEM-8",
+    "target_word": "lavish",
+    "question": "Although the monograph suffered from substantial empirical inconsistencies, the senior reviewer was remarkably ___ with his praise, extolling the author's archival diligence while deliberately glossing over the book's methodological shortcomings.",
+    "options": [
+      "lavish",
+      "lush",
+      "plush",
+      "rich"
+    ],
+    "answer": "lavish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中关键句式结构为“be remarkably ___ with his praise”，且后文语境构成强烈转折（专著存在实证缺陷却仍极力赞赏）。根据韦氏词典，lavish 具有独特的行为语义“expending or bestowing profusely; prodigal”，专用于形容在给予赞美、金钱或款待上毫不吝啬、甚至过度慷慨，固定搭配为“be lavish with/in sth”。其余三项均无法与人作主语及“with one's praise”搭配：rich 表示丰富时介词必须接 in（rich in），且不可形容人施予赞美时的挥霍态度；plush 专指家具、织物或环境的豪华舒适；lush 侧重植物或感官艺术的繁茂浓密，均存在严重的句法与搭配断裂。",
+    "distractor_analysis": {
+      "lavish": "正确。lavish 在此作谓语形容词，意为“过分慷慨的、毫不吝啬的”，与介词 with 构成固定搭配“be lavish with one's praise/money”，精准体现了评审员面对一部存在严重实证缺陷的专著时，依然“大肆赞扬、滥施溢美”的学术行为特征与语篇转折逻辑。",
+      "lush": "错误。lush 核心语义为“草木茂盛多汁的”或“感官/声音极其丰满奢华的”（如 lush orchestration）。它不能以人为主语去描述某种“毫不吝啬赞誉”的施予行为，更不可与介词短语“with his praise”连用，属于词义与句法语义场错配。",
+      "plush": "错误。plush 主要描述物理环境、织物或装潢的“豪华、舒适、长毛绒的”（如 a plush hotel, plush carpets），其语义侧重于物质层面的高档与舒适感，完全无法形容人类行为、言辞或赞美态度的挥霍。",
+      "rich": "错误。rich 虽有“丰富的”之意，但当表示“富含/富于”时必须接介词 in（如 rich in natural resources/detail），不能构成“be rich with one's praise”来表达“滥施赞赏”；此外，rich 缺乏 lavish 所独有的“挥霍性施予、毫无节制地给予”的动态行为色彩。"
+    },
+    "translation": "尽管这部专著存在严重的实证缺陷，但那位资深评审员却对其赞誉有加（毫不吝啬溢美之词），在极力推崇作者扎实档案考证功夫的同时，蓄意掩盖了该书在方法论层面的不足。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_06",
+    "group_id": 393,
+    "group_name": "lavish, lush, plush, rich",
+    "level": "TEM-8",
+    "target_word": "lush",
+    "question": "Sustained by automated misting systems and high ambient humidity, the conservatory's simulated biome features ___ ferns and climbing epiphytes that replicate the dense, moisture-laden understory characteristic of undisturbed equatorial rainforests.",
+    "options": [
+      "lavish",
+      "lush",
+      "plush",
+      "rich"
+    ],
+    "answer": "lush",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "空后修饰核心名词短语“ferns and climbing epiphytes that replicate the dense, moisture-laden understory”（再现湿润林下植被的蕨类与附生植物）。lush 是英语中专门描述植物因充沛水分与适宜气候而“茂密多汁、生机盎然”（growing vigorously with succulent green foliage）的权威典范用词。lavish 仅能修饰人为开销、赠予或铺张的生活方式，不能修饰野生植物实体；plush 严格限定于室内陈设的奢华与长绒软垫感，修饰活体生物属于范畴谬误；rich 虽可形容土壤（rich soil）或生物多样性（rich in species），但在英语本族语规范中，绝不可直接充当单个植物种类的修饰语来表示生长繁茂（*rich ferns 属严重搭配破裂）。",
+    "distractor_analysis": {
+      "lavish": "错误。lavish 核心指人为主观行为或物质投入上的“铺张、浪费、毫无节制”（如 lavish expenditure, lavish lifestyle）。植物在生态环境中的天然生长不是经济开销或慷慨馈赠，不能与 ferns 搭配（不存在 lavish ferns 这种用法）。",
+      "lush": "正确。lush 完美契合前文“自动喷雾系统与高湿度”以及后文“密布且水分充盈的林下灌木层”的生态语境，精准传达出雨林蕨类植物特有的“郁郁葱葱、多汁繁茂（succulent and verdant）”的外观特质，是描述植物繁盛的无可替代的权威搭配。",
+      "plush": "错误。plush 指天鹅绒般柔软舒适的质感或昂贵豪华的室内设施（如 plush executive suites, plush seats）。将其用来修饰自然界活生生的蕨类植物属于严重的语义范畴混淆（category error）。",
+      "rich": "错误。rich 可修饰土壤肥沃（rich soil）、膳食油腻（rich food）或色彩浓郁（rich colors），亦可作表语表示“富含……”（rich in minerals），但英语中不能用 rich 作为前置定语修饰具体植物物种来表达“植株茂盛”（说 rich ferns 是不符合英语习惯的严重生造搭配）。"
+    },
+    "translation": "在自动喷雾系统与高环境湿度的维持下，该温室的模拟生物群落展现出茂盛多汁的蕨类植物与攀缘附生植物，完美重现了原始赤道雨林中密集而湿润的林下植被特征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_07",
+    "group_id": 394,
+    "group_name": "robust, husky, stalwart, iron",
+    "level": "TEM-8",
+    "target_word": "robust",
+    "question": "To withstand rigorous epistemological scrutiny, the cognitive scientist insisted that any theoretical model claiming universal validity must demonstrate a ___ methodology capable of yielding consistent empirical findings across divergent experimental conditions.",
+    "options": [
+      "robust",
+      "husky",
+      "stalwart",
+      "iron"
+    ],
+    "answer": "robust",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "methodology capable of yielding consistent empirical findings across divergent experimental conditions（能够跨越不同实验条件产出一致经验发现的方法论）构成了对方法“稳健性、抗干扰性与严密性”的决定性排他锚点，学术语域中唯一精确搭配该语境的词汇是 robust。",
+    "distractor_analysis": {
+      "robust": "正确。robust 在高阶学术与认知科学语境中，特指系统、理论或方法论“经得起多重检验的、稳健可靠的、健全强大的”（capable of performing without failure under a wide range of conditions）。在此处与 methodology 搭配，精确表达了在变量扰动下仍具高度稳健性的科学研究方法。",
+      "husky": "错误。husky 的核心义项局限于指人身体“粗壮魁梧的”（burly）或声音“沙哑低沉的”（throaty and hoarse）。该词不能用于修饰抽象的认知系统、学术模型或研究方法，属于严重的语域与搭配范畴错误（category mistake）。",
+      "stalwart": "错误。stalwart 侧重于政治、组织或道德层面的“坚定忠诚的、可靠拥护的”（marked by outstanding strength and vigor of mind, body, or spirit; loyal and resolute），典型搭配为 human agent（如 stalwart supporters, stalwart allies）。将其用于修饰 methodology 会产生不当的拟人化修辞，背离严谨学术语体。",
+      "iron": "错误。iron 作形容词时强调“刚硬冷酷的、不容更改的、铁腕式的”（unyielding, inflexible, or harsh），如 iron discipline, iron will。科学方法论追求的是抵御随机误差与异质干扰的“稳健性”（robustness），而非教条式不可变通的“僵硬死板”（iron），语义褒贬色彩和内涵发生错位。"
+    },
+    "translation": "为了经受住严密的认识论审视，这位认知科学家坚称，任何声称具有普适有效性的理论模型都必须展示出一种稳健的研究方法，能够在不同的实验条件下始终产出一致的经验研究发现。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_08",
+    "group_id": 394,
+    "group_name": "robust, husky, stalwart, iron",
+    "level": "TEM-8",
+    "target_word": "husky",
+    "question": "Overwhelmed by acute emotional distress during the cognitive assessment, the patient could only articulate her fragmented recollections in a ___ whisper, her voice cracking beneath the strain of suppressed trauma.",
+    "options": [
+      "robust",
+      "husky",
+      "stalwart",
+      "iron"
+    ],
+    "answer": "husky",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "whisper, her voice cracking beneath the strain of suppressed trauma（在压抑的创伤重压下声音嘶哑破裂的低语）提供了明确的声学质感与情感张力锚点，只有 husky 能专指由于情绪激动、哭泣或咽喉疲劳而造成的“沙哑低沉的”嗓音特质。",
+    "distractor_analysis": {
+      "husky": "正确。husky 用于声音或言语时，指“低沉沙哑的、略带粗糙刺耳的”（hoarse with a deep, dry, or gravelly tone），极常用于描写人在极度悲伤、创伤应激或情绪剧烈压抑时发出的微弱低语（a husky whisper），与后文 voice cracking beneath the strain 形成天衣无缝的语义照应。",
+      "robust": "错误。robust 指声音时意为“洪亮的、中气十足的、充满生机的”（loud, vigorous, and resonant）。这与句中描绘的“情绪崩溃、低语啜泣、嗓音破裂”（overwhelmed by emotional distress, cracking beneath the strain）构成不可调和的逻辑反差与反向语义冲突。",
+      "stalwart": "错误。stalwart 只能修饰忠贞坚定的拥护者或健壮魁梧的卫士，无法修饰物理声学特征（acoustic quality）或“whisper（低语）”这一名词，在句法与语义选择限制（selectional restriction）上均不成立。",
+      "iron": "错误。iron 修饰意志或纪律时表示“刚强坚定的”，修饰声响时通常指“金铁撞击般冰冷刺耳的”（cold and harsh），无法指代因喉部受创或情绪压抑而显露出的“干瘪沙哑的（whisper）”，且英语中不存在 iron whisper 的常规表达。"
+    },
+    "translation": "在认知评估过程中，由于承受着极度剧烈的情绪痛苦，这位患者只能以一种沙哑低沉的耳语艰难吐露其支离破碎的回忆，她的声音在被压抑的创伤重压之下几近嘶哑破碎。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_09",
+    "group_id": 395,
+    "group_name": "slick, wily, artful, sly",
+    "level": "TEM-8",
+    "target_word": "slick",
+    "question": "Despite the tech venture's ___ presentation, complete with dazzling visuals and fluent rhetoric, skeptical venture capitalists swiftly dismissed the business model as an insubstantial edifice built on hype.",
+    "options": [
+      "slick",
+      "wily",
+      "artful",
+      "sly"
+    ],
+    "answer": "slick",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'presentation' alongside 'dazzling visuals and fluent rhetoric' in stark contrast to 'insubstantial edifice built on hype', exclusively evoking surface polish, glibness, and superficial plausibility masking a lack of substance.",
+    "distractor_analysis": {
+      "slick": "正确。slick 在此取“表面光鲜圆滑但缺乏实质、浮华且具有欺骗性”（superficially attractive, polished, and glib, but lacking depth or substance）之义，常与 presentation, marketing, sales pitch 等搭配。句中“dazzling visuals and fluent rhetoric”（耀眼的视觉效果与流利的修辞）与后文“insubstantial edifice built on hype”（建立在炒作之上的空洞产物）构成了完美的“表面光鲜对立实质空虚”语义轴，仅 slick 能精准拟合该语境。",
+      "wily": "错误。wily 侧重“老谋深算的、老奸巨猾的”（crafty, cunning in pursuit of a goal），通常修饰经历丰富、善于玩弄策略权谋的个体（如 wily politician, wily veteran），无法修饰由现代视听与营销包装构成的“presentation”，且无“表面光鲜而实质空洞”的语义。",
+      "artful": "错误。artful 强调“手艺巧妙的、富有匠心的或机敏狡黠的”（dexterous, clever in an ingenious way），多用于修饰精巧的构思、规避手段或艺术技艺（如 artful compromise, artful design），并不包含 slick 所特有的现代公关中“表面光洁浮夸、内里空洞”的贬义色彩。",
+      "sly": "错误。sly 强调“偷偷摸摸的、鬼鬼祟祟的、心照不宣的暗中行事”（furtive, secretive, surreptitious），多带有隐蔽窥伺或小聪明意味（如 a sly wink, sly trickery）。句中指在风投面前公开举行的高规格声光展示，与 sly 的“隐蔽、鬼祟”特质完全相悖。"
+    },
+    "translation": "尽管这家科技初创企业的陈述汇报表面光鲜亮丽，配以耀眼的视觉效果和流利的修辞，但持怀疑态度的风险投资家迅速看穿了真相，将其商业模式斥为建立在过度炒作之上的空洞花架子。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_10",
+    "group_id": 395,
+    "group_name": "slick, wily, artful, sly",
+    "level": "TEM-8",
+    "target_word": "wily",
+    "question": "Relying on rugged, predatory cunning rather than refined ingenuity or superficial polish, the ___ guerrilla commander devised deceptive stratagems that repeatedly lured pursuing battalions into catastrophic mountain ambushes.",
+    "options": [
+      "slick",
+      "wily",
+      "artful",
+      "sly"
+    ],
+    "answer": "wily",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The discursive contrast 'rather than refined ingenuity or superficial polish' explicitly eliminates 'artful' (refined ingenuity) and 'slick' (superficial polish). Furthermore, modifying an elusive leader of 'rugged, predatory cunning' who devises 'deceptive stratagems' to defeat pursuers decisively selects 'wily' (defined by Merriam-Webster as using stratagems to win an advantage or evade capture/defeat), while ruling out 'sly' (which denotes petty, furtive sneakiness rather than large-scale tactical mastery).",
+    "distractor_analysis": {
+      "wily": "正确。wily 意为“狡黠深沉的、善用谋略的”（full of wiles; crafty, cunning, shrewdly deceptive in pursuit of an advantage or in evading defeat）。根据《韦氏词典》，wily 的核心语义特征为“the using of tricks or stratagems to win an advantage or to avoid capture or defeat”（运用计策或谋略以赢取优势、规避被俘或击溃对手）。句中“rugged, predatory cunning”（粗粝敏锐的捕猎式机变）与“devised deceptive stratagems that repeatedly lured pursuing battalions into catastrophic mountain ambushes”（设计诱敌计谋，屡次将追击部队诱入毁灭性山地伏击圈）构成了决定性语义锚点，与 wily 的本质特征完全吻合；在高级英语与战史语料中，“wily guerrilla commander”亦属极具辨识度的经典搭配。",
+      "slick": "错误。slick 意为“油滑圆润的、表面光鲜的”（glib, superficial, suave），强调表面的流利光鲜与缺乏实质深度。句中前置对比分句明确限定“rather than ... superficial polish”（而非依靠浮华光鲜的外表），在语意逻辑上直接否定了 slick 的核心义项；同时将其用于修饰在严酷山地战中指挥伏击战的游击指挥官，会产生严重的风格与语体冲突（stylistic clash）。",
+      "artful": "错误。artful 意为“精巧的、构思巧妙的、工于心计的”（dexterous, clever, exhibiting art or skill）。《韦氏词典》同义辨析指出，artful 侧重“indirectness and ingenuity in gaining an end without overt deceit”（以巧妙的心智与间接手段达成目的，通常不带有露骨的欺诈或粗暴的战术欺弄），多用于修饰精巧的艺术设计、修辞策略或外交斡旋（如 an artful compromise）。句首“rather than refined ingenuity”（而非依靠精巧考究的心思）在逻辑上直接排除了 artful；且 artful 的文雅精巧感与句中“rugged, predatory cunning”（粗粝凶悍的捕猎式机谋）存在根本性的语义冲突。",
+      "sly": "错误。sly 意为“偷偷摸摸的、鬼祟的、隐秘弄鬼的”（furtive, stealthy, secretly mischievous），侧重低维度的掩人耳目、暗中窥探或琐碎的不诚实（如 a sly wink, a sly grin），多含琐碎、猥琐或恶作剧意味。用来形容在正面冲突中运筹帷幄、通过大型战术欺骗诱敌歼敌的游击指挥官，在语义层级（register）与战备格局上存在明显的低质化破裂，无法匹配句中的宏观军事博弈语境。"
+    },
+    "translation": "这位狡黠多谋的游击队指挥官凭借粗粝敏锐的捕猎式机变，而非精巧的心计或浮华的做派，巧妙设计欺敌计谋，屡次将追赶而来的敌军营团诱入毁灭性的山地伏击圈。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_11",
+    "group_id": 396,
+    "group_name": "unwieldy, ungainly, cumbersome, clumsy",
+    "level": "TEM-8",
+    "target_word": "unwieldy",
+    "question": "Fitted with an experimental steam turret and an undersized rudder, the prototype ironclad proved dangerously ___ to steer in open waters, wallowing helplessly whenever Atlantic swells struck its unbalanced hull.",
+    "options": [
+      "unwieldy",
+      "ungainly",
+      "cumbersome",
+      "clumsy"
+    ],
+    "answer": "unwieldy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_ENGINEERING",
+    "anchor_clue": "句中主语为带有工程缺陷的军舰（the prototype ironclad），其核心矛盾在于“过小的舵”（undersized rudder）与“失衡的船体”（unbalanced hull），后接决定性操纵补足语 'to steer in open waters'（在开阔海域操舵/转向）以及失控晃荡状态 'wallowing helplessly'。《牛津英语词典》（OED）对 unwieldy 设有专门义项（Sense 4: 'Of a ship, aircraft, etc.: Difficult to steer or navigate'），《韦氏词典》同义词辨析亦将 'an unwieldy ship' 列为典型范例，指交通工具或器具因比例失衡、尺度不当或控制面缺陷而‘难以操舵控制、不易驾驭转向’。其余选项在航海动力与操舵控制搭配上均存在不可调和的语义断裂或范畴错配。",
+    "distractor_analysis": {
+      "unwieldy": "正确。unwieldy 源于 un- + wieldy（易于挥动、掌控的），专门用于形容船只、飞行器、大型机械或工具因自重分布不均、外形失衡或控制机构不足而‘难以操纵、难以转向把控’（not easily managed, handled, or directed; specifically of a ship: difficult to steer or navigate）。句中的 undersized rudder、to steer 以及 wallowing helplessly 构成绝对锁定的航海与工程技术语境，语义与搭配完美契合。",
+      "ungainly": "错误。ungainly 核心词义为‘（动作、步态、外表）笨拙不雅的、缺乏优美感的’（lacking grace or ease of movement or posture），侧重生物在视觉审美上的不协调或体态难看（如 an ungainly gait, an ungainly bird）。虽然舰船外形在视觉上可能显得奇特，但 ungainly 严禁后接指向机械动态操纵的动词不定式补足语（*ungainly to steer 构成语法与搭配范畴错配）。",
+      "cumbersome": "错误。cumbersome 源于 cumber（阻碍、拖累），核心词义为‘累赘的、造成负担的’（burdensome and causing hindrance），强调某物作为外部负荷让人行动迟缓（如 cumbersome gear/luggage 笨重累赘的装备/行李），或形容体系与流程臃肿繁琐（如 cumbersome bureaucracy/procedure 繁琐的官僚机构/程序）。在航海动力学与船舶工程中，船只对舵机的迟钝与失控属于操纵性能问题（maneuverability），英语规范表达绝不使用 cumbersome to steer 来指代水动力学上的‘舵效丧失/难以转向’。",
+      "clumsy": "错误。clumsy 指人缺乏动作敏捷度、身体协调性或社交手腕（如 a clumsy surgeon, a clumsy apology），或指器物做工粗糙拙劣（如 a clumsy wooden toy）。水面舰艇受洋流与舵机控制遵循严谨的物理力学法则，不能用指代‘人手脚笨拙’的 clumsy 来修饰舰船的操舵稳定性（clumsy to steer 属于非地道搭配）。"
+    },
+    "translation": "由于装配了试验性的蒸汽炮塔和尺寸过小的舵，这艘铁甲舰原型在开阔水域操舵时表现出极度危险的难以驾驭性，每当大西洋涌浪冲击其失衡的船体时，它便陷入无助的剧烈晃荡之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_12",
+    "group_id": 396,
+    "group_name": "unwieldy, ungainly, cumbersome, clumsy",
+    "level": "TEM-8",
+    "target_word": "ungainly",
+    "question": "Visual cognitive experiments demonstrate that observers instinctively judge human silhouettes with disproportionately elongated limbs as aesthetically ___, detecting an apparent lack of grace even when the subject exhibits flawless motor coordination.",
+    "options": [
+      "unwieldy",
+      "ungainly",
+      "cumbersome",
+      "clumsy"
+    ],
+    "answer": "ungainly",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键认知锚点为 'disproportionately elongated limbs'（肢体不成比例地过长）、副词 'aesthetically'（美学视觉上地）以及让步转折 'detecting an apparent lack of grace even when the subject exhibits flawless motor coordination'（即使动作协调无误，仍察觉出缺乏优雅感）。ungainly 专指因身体比例失调、外形失衡而在姿态或运动形态上‘显得笨拙、缺乏风度与优雅感’；而 'flawless motor coordination' 在逻辑语义上直接绝对排除了强调动作协调性失调或拙劣的 clumsy。",
+    "distractor_analysis": {
+      "ungainly": "正确。ungainly 源自 gainly（优美的、合度的），《韦氏词典》辨析其专指 'marked lack of grace in movement or posture, or an awkwardness arising from disproportionate physical size or shape; it suggests an appearance that offends the sense of symmetry, grace, or proportion'。与句中的 'disproportionately elongated limbs'、'aesthetically' 及 'lack of grace' 构成严丝合缝的多重语义互锁。",
+      "clumsy": "错误。clumsy 的核心内涵是‘缺乏技巧、动作协调性差、笨手笨脚’（lacking dexterity or physical coordination, resulting in blunders）。后文已明确指出实验对象具有 'flawless motor coordination'（完美无瑕的运动协调能力），该让步从语义逻辑上直接绝对排斥了 clumsy，否则前后构成语义自我矛盾。",
+      "unwieldy": "错误。unwieldy 意为‘庞大笨重、难以操控使用的’，主要修饰庞大工具、武器、行装或臃肿机构（hard to handle or steer due to bulk/complexity），绝不能作为人体形态美学上‘缺乏体态优雅’的形容词（不可用于判定人体剪影 aesthetically unwieldy）。",
+      "cumbersome": "错误。cumbersome 强调‘负重的、拖累行动的、繁复沉重的’（ponderous, burdensome），通常用于阻碍行动的装备、衣物或行政流程，无法用来描述由于肢体长相比例失调而在视觉美感上呈现的‘体态不雅、举止难看’。"
+    },
+    "translation": "视觉认知实验表明，观察者在直觉上会将四肢比例过长的人体剪影判定为美学形态上的笨拙不雅，哪怕受试者展现出无可挑剔的运动协调能力，观察者仍能察觉出其外观上明显的优雅缺失。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_13",
+    "group_id": 397,
+    "group_name": "abominable, atrocious, awful, painful",
+    "level": "TEM-8",
+    "target_word": "abominable",
+    "question": "Orthodox inquisitors deemed the mystic's esoteric doctrines not merely erroneous, but fundamentally ___, seeing in their theological syncretism a spiritually repulsive contamination that warranted complete institutional extirpation.",
+    "options": [
+      "abominable",
+      "atrocious",
+      "awful",
+      "painful"
+    ],
+    "answer": "abominable",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词短语 'seeing in their theological syncretism a spiritually repulsive contamination'（视其神学融合为一种精神上令人作呕的污秽）构成决定性语义锚点。abominable 词源含宗教厌弃与道德亵渎之意，专指引起极度道德与精神厌恶、可憎不洁的事物，与修饰教义（doctrines）及异端污秽完全契合。",
+    "distractor_analysis": {
+      "abominable": "正确。abominable 源自拉丁语 abominari（视为不祥而厌弃），指引起极度宗教或道德反感、令人憎恶唾弃的（worthy of causing disgust or hatred : detestable）。句中宗教裁判所针对神秘主义教义的定性，以及后文明确指出的“精神污秽（spiritually repulsive contamination）”，在内涵层面唯有 abominable 能够精准对接这种源于宗教洁净观与正统信仰的排他性憎恶。",
+      "atrocious": "错误。atrocious 词源侧重于凶暴、残虐（barbarous, savage, cruel），核心语境为野蛮血腥的人身侵害、暴行或恶劣至极的品味/做工。用来修饰抽象的神学教义（doctrines）不合常规搭配与语义逻辑。",
+      "awful": "错误。awful 在现代英语中词义磨损严重，多用于泛化的口语抱怨（极坏的、糟糕的）；而在古英语神学语境中又表“令人心生敬畏的（awe-inspiring）”。在此高级学术书面语境中，填入既破坏严肃语体，又无法承载“神学污秽与必欲除之而后快”的极度道德憎恶内涵。",
+      "painful": "错误。painful 意为“令人痛苦的、令人难堪的”，指代身体或情绪上的痛感或尴尬不适。用来形容受到宗教裁判所严惩并被视为精神污染的异端教说，在语义强度和感情色彩上均极度欠缺，形成严重的语义降格。"
+    },
+    "translation": "正统宗教裁判所的审判官们不仅认为这位神秘主义者的秘传教义是错误的，而且认为它们从根本上是可憎逆伦的，并在其神学融合主义中看到了一种精神上令人作呕的污秽，理应在体制上予以彻底根除。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_14",
+    "group_id": 397,
+    "group_name": "abominable, atrocious, awful, painful",
+    "level": "TEM-8",
+    "target_word": "atrocious",
+    "question": "The appellate court ruled that the defendant's conduct, while morally repellent, did not exhibit the ___ violence required to satisfy the statutory threshold for capital murder, which explicitly demands proof of savage physical butchery.",
+    "options": [
+      "abominable",
+      "atrocious",
+      "awful",
+      "painful"
+    ],
+    "answer": "atrocious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_LAW_JUSTICE",
+    "anchor_clue": "句中让步状语从句“while morally repellent”（尽管在道德层面令人憎恶）与定语从句“which explicitly demands proof of savage physical butchery”（明确要求提供野蛮肉体屠杀的证据）构成了严密的双向排他锚点。前半句已先行让步了“道德层面的反感与厌恶”，后半句则转而界定法定死刑门槛所要求的“野蛮肉体暴虐”。这使得侧重精神与道德憎恶的 abominable 产生严重的语意逻辑抵触；同时排除了语体过弱的 awful 与侧重受害感知体验的 painful，唯有词源为 atrox（凶残、暴虐）、在刑法量刑指引中专指野蛮肉体残害的 atrocious 能够精确吻合上下文的法理逻辑与语意对比。",
+    "distractor_analysis": {
+      "atrocious": "正确。atrocious 专指极度残暴凶恶、野蛮暴虐的（extremely wicked, brutal, or cruel; barbarous），在刑法与死刑司法裁决（如尤其残暴恶劣的谋杀加重情节）中专指伴随极度凶残、酷刑或血腥屠杀的暴行。句子通过 while 从句将道德上的可恶先行让步，主句修饰法定暴力标准，完美契合后文“savage physical butchery”所界定的暴虐维度。",
+      "abominable": "错误。abominable 核心指道德、宗教或品格层面令人作呕、憎恶反感的（arousing extreme disgust, loathing, or moral revulsion）。前文让步从句“while morally repellent”已明确承认了道德层面的嫌恶，若在主句中继续填入 abominable violence，将导致主从句逻辑产生严重的语意反复与同义抵触（“虽然在道德上令人憎恶，却未表现出令人憎恶的暴力”），且该词无法承载后文所要求的“野蛮肉体屠戮”之凶残物理属性。",
+      "awful": "错误。awful 在现代英语中多为日常口语中的泛化贬义词（极坏的、糟糕的），或在传统庄重文体中表“令人敬畏的（inspiring awe）”；无论何种词义均完全无法满足死刑量刑裁定（capital murder）这一严谨司法文本的专业语体要求，亦无法表达“野蛮物理屠杀”的暴虐内涵，存在显著的语体破裂（stylistic clash）。",
+      "painful": "错误。painful 意为“令人疼痛的、令人痛苦的”，语义核心在于受害者的主观感官承受或痛苦体验（experiential / recipient-oriented），不能作为主动态定语修饰施害者针对法定死刑门槛所实施的凶残屠戮行为（agentive brutality）。"
+    },
+    "translation": "上诉法院裁定，被告的行为尽管在道德上令人憎恶，但并未表现出满足死刑法定门槛所必需的残暴暴力——该门槛明确要求提供野蛮肉体屠戮的证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_15",
+    "group_id": 398,
+    "group_name": "articulate, facile, fluent, silver",
+    "level": "TEM-8",
+    "target_word": "articulate",
+    "question": "Among the most ___ critics of the proposed fiscal reforms, Professor Vance dismantled the ministry's assumptions with devastating clarity and philosophical rigor, exposing several unexamined institutional fallacies.",
+    "options": [
+      "articulate",
+      "facile",
+      "fluent",
+      "silver"
+    ],
+    "answer": "articulate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The noun phrase 'critics' followed by 'dismantled the ministry's assumptions with devastating clarity and philosophical rigor' demands an adjective denoting the intellectual capacity to formulate and convey complex arguments with exceptional lucidity and force. Merriam-Webster explicitly records 'articulate critics' as a definitive collocation, perfectly matching the intellectual praise in the discourse.",
+    "distractor_analysis": {
+      "articulate": "正确。Merriam-Webster将articulate定义为“expressing oneself readily, clearly, and effectively”，指“能清晰、有力且条理分明地表达深刻思想的”，与critics构成高度专业而权威的学术固定搭配（如MW例句：'Among the most articulate critics of the tests...'）。后文的“devastating clarity and philosophical rigor”（极具威力的明晰性与哲学思辨严密性）构成了决定性的语义和逻辑锚点。",
+      "facile": "错误。facile带有强烈的贬义色彩，指“轻率的、肤浅的、缺乏深思熟虑的”（shallow, simplistic），若修饰critics，则与后文展现出的“philosophical rigor”（哲学严密性）产生根本性的语义极性倒错与逻辑矛盾。",
+      "fluent": "错误。fluent侧重指言语表达的“流利顺畅、口齿无碍”（effortless and smooth flow of words），多用于语言使用能力或发音语流，不能用来指在理论深度上条分缕析、具有强大论辩逻辑与思想表达力的批评家，修饰critics在此语境下属于典型的语义偏离与搭配脱节。",
+      "silver": "错误。silver作为形容词描述言语时，标准用法通常仅见于复合词“silver-tongued”（雄辩的，常带有凭巧舌如簧进行劝说的暗示）或修饰音色（如silver voice/chimes，清脆悦耳的）；单独使用“silver critics”在标准学术英语中不合语法习惯与词汇搭配规范。"
+    },
+    "translation": "作为拟议财政改革最善于清晰有力阐述观点的批评者之一，万斯教授以极具威力的透彻论述和严密的哲学逻辑，瓦解了该部委的前提假设，揭露了数个未被审视的制度性谬误。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_16",
+    "group_id": 398,
+    "group_name": "articulate, facile, fluent, silver",
+    "level": "TEM-8",
+    "target_word": "facile",
+    "question": "Dismissed by economists as an alarmingly ___ solution to hyperinflation, the emergency price-control decree ignored structural fiscal deficits and merely deferred the inevitable currency collapse.",
+    "options": [
+      "articulate",
+      "facile",
+      "fluent",
+      "silver"
+    ],
+    "answer": "facile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The phrase modifies 'solution to hyperinflation' in a context where the measure 'ignored structural fiscal deficits and merely deferred the inevitable currency collapse.' This establishes an unequivocal pejorative discourse requirement for a word meaning 'simplistic, superficial, and ignoring true complexities.' MW confirms 'facile solution' as a classic pejorative collocation.",
+    "distractor_analysis": {
+      "facile": "正确。Merriam-Webster将facile定义为“readily manifested, together with an aura of insincerity and lack of depth: SHALLOW, SIMPLISTIC”，专用于修饰看似轻松可行实则脱离实际、过于简化的应对方案（a facile solution/remedy）。后文明确指出该法令无视结构性赤字、仅能推迟货币崩盘，与“alarmingly facile”（惊人肤浅/草率的）形成完美的语义呼应与高频搭配。",
+      "articulate": "错误。articulate主要用于指代人“表达清晰的”或指观点、论述“条理分明、清晰详尽的”，不可用来修饰具体的政策措施或治理方案（solution）；且其积极的知性色彩与句中的批判性语境完全冲突。",
+      "fluent": "错误。fluent仅指言语流利或动作行云流水（smooth and effortless flow），与政策手段“solution”搭配属于严重的范畴错配（category mistake）与搭配断裂。",
+      "silver": "错误。虽然英语中有“silver bullet”（灵丹妙药/终极解决方案）这一习语，但其中的silver作名词定语修饰bullet；若直接与solution组合成“silver solution”，在英文中只能理解为化学上的“银溶液”，在此宏观经济语境中构成极其荒谬的语义破裂。"
+    },
+    "translation": "紧急价格管制法令因无视结构性财政赤字且仅仅延缓了不可避免的货币崩盘，被经济学家们斥为应对恶性通货膨胀的一个极其肤浅轻率的方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_17",
+    "group_id": 399,
+    "group_name": "assertive, cocky, emphatic, forceful",
+    "level": "TEM-8",
+    "target_word": "assertive",
+    "question": "Psychologists emphasize that developing a(n) ___ communication style allows professionals to articulate their boundaries and negotiate concessions firmly without veering into destructive hostility or passive acquiescence.",
+    "options": [
+      "assertive",
+      "cocky",
+      "emphatic",
+      "forceful"
+    ],
+    "answer": "assertive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "articulate their boundaries and negotiate concessions firmly without veering into destructive hostility or passive acquiescence",
+    "distractor_analysis": {
+      "assertive": "正确。在认知与行为心理学及人际沟通学中，assertive communication（断言式/坚定自信的沟通方式）是极高频的经典学术搭配，专门指代在不退让（避免 passive acquiescence）同时又不具有攻击侵略性（避免 destructive hostility）的前提下，清晰、自信且坚定地维护自身界限和权益的健康心理行为模式，与后文的语义平衡点完全契合。",
+      "cocky": "错误。cocky 含有强烈的贬义色彩，指“狂妄自大的、目中无人的、轻浮张扬的”，其展现的傲慢态度极易激化矛盾，与语境中倡导的平衡、建设性职业沟通准则完全相悖。",
+      "emphatic": "错误。emphatic 着重指言辞、手势或结果的“坚决有力的、明确无误的、强调的”（如 an emphatic denial/victory），通常用于修饰具体的言语行为或明确结果，不能用于修饰长期、系统性的人际沟通风格（communication style）。",
+      "forceful": "错误。forceful 意为“有说服力的、强有力的、甚至带有强制性的”，强调凭借强大力量或意志压服对方，往往带有进攻性或压迫感，无法体现题干中既不被动屈从又严格避免“destructive hostility（破坏性敌意）”的中正与自制。"
+    },
+    "translation": "心理学家强调，培养一种坚定自信的沟通方式，能让职场人士在清晰表达个人界限并坚决协商让步的同时，不至于滑向破坏性的敌意或消极的妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_18",
+    "group_id": 399,
+    "group_name": "assertive, cocky, emphatic, forceful",
+    "level": "TEM-8",
+    "target_word": "cocky",
+    "question": "Blinded by early market triumphs, the fund manager adopted a(n) ___ attitude toward regulatory scrutiny, dismissing legitimate compliance warnings with a swagger that ultimately precipitated his firm's collapse.",
+    "options": [
+      "assertive",
+      "cocky",
+      "emphatic",
+      "forceful"
+    ],
+    "answer": "cocky",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "dismissing legitimate compliance warnings with a swagger that ultimately precipitated his firm's collapse",
+    "distractor_analysis": {
+      "cocky": "正确。cocky 指“狂妄自大的、自命不凡的、趾高气扬的”，通常带有因盲目自信而轻视客观风险的贬义色彩。题干中的“with a swagger（神气活现、大摇大摆地）”以及“precipitated his firm's collapse（导致公司崩盘）”构成了强有力的语境锚点，精准呼应 cocky 所特有的盲目自负与招致祸端的心态特征。",
+      "assertive": "错误。assertive 属于中性偏褒义词，指“坚定自信的、敢于坚持主张的”，体现理性而正当的自我主张，无法与后文轻佻自大的“swagger”以及轻视法规导致破产的负面语境相容。",
+      "emphatic": "错误。emphatic 指“加重的、断然的、明确的”，通常用来修饰言辞、声明或拒绝等表态（如 an emphatic refusal），无法修饰形容一个人傲慢自满的心理态度（attitude），属于搭配不当。",
+      "forceful": "错误。forceful 指“强有力的、有说服力的、坚决的”，侧重于力量的强度或论点的说服力，缺乏 cocky 所独具的因狂妄而藐视规则、得意忘形的自负贬义内涵。"
+    },
+    "translation": "这位基金经理被早期的市场胜利冲昏了头脑，对监管审查采取了一种狂妄自大的态度，大摇大摆地无视合规警告，最终导致了他的公司走向崩溃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_19",
+    "group_id": 400,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "atrocious",
+    "question": "In his scathing critique of the monograph, the historian deplored the author's ___ scholarship, demonstrating that such appallingly slipshod archival research and distorted citations rendered the entire thesis intellectually untenable.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "atrocious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "deplored the author's ___ scholarship, demonstrating that such appallingly slipshod archival research and distorted citations...",
+    "distractor_analysis": {
+      "atrocious": "【正确】atrocious 源自拉丁语 atrox（凶残的、可怕的），在现代学术与高阶英语中发生内涵延展（MECH_CONNOTATION），常用于认知评价领域（FIELD_COGNITION），专门形容事物在质量、技术或学术水准上“极其拙劣的、令人震惊的差劲、糟糕透顶的”（MW: APPALLING, HORRIFYING; utterly revolting: ABOMINABLE）。此处与 scholarship 构成学术书评中的经典搭配，精准呼应后文的 appallingly slipshod（骇人听闻般草率的）和 distorted citations，完美符合语境褒贬色彩与学术谴责语气。",
+      "grievous": "【排除】grievous 核心语义源自 grief，专指“导致严重痛苦、悲伤、创伤或灾难性后果的”（causing or characterized by severe pain, suffering, or sorrow），常见搭配为 grievous bodily harm、grievous error、grievous loss。用来修饰 scholarship（学术研究/造诣）属于严重的语用搭配断裂（collocational rupture），学术水准低劣并不会直接产生 grief 式的肉体或精神哀痛。",
+      "evil": "【排除】evil 属于纯粹的伦理道德与神学范畴词，强调“邪恶的、不道德的、恶毒的”（morally reprehensible; malevolent）。学术研究的不严谨、史料处理的粗糙属于方法论与智识能力缺陷（epistemological/methodological failure），而非出于蓄意害人的道德败坏，用 evil 修饰 scholarship 犯了范畴归类错误（category mistake）。",
+      "monstrous": "【排除】monstrous 强调“反常的、骇人听闻的、畸形巨大的”（deviating unnaturally from normal character; shockingly unjust or absurd），常修饰 lie、injustice 或实体畸形物。修饰学术研究质量时缺乏“水准极其拙劣、低劣粗糙”的特定学术批评内涵，会产生文体风格脱节。"
+    },
+    "translation": "在对这部专著的严厉批评中，这位历史学家痛斥了该作者糟糕透顶的学术造诣，指出其档案研究如此粗制滥造、引证如此歪曲失真，已使整个论点在学术上根本立不住脚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b39_20",
+    "group_id": 400,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "grievous",
+    "question": "The diplomatic dispatch concluded that the ambassador's failure to anticipate the coup constituted a ___ miscalculation, whose disastrous aftermath inflicted immense sorrow and lasting geopolitical instability across the entire region.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "grievous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "constituted a ___ miscalculation, whose disastrous aftermath inflicted immense sorrow and lasting geopolitical instability...",
+    "distractor_analysis": {
+      "grievous": "【正确】grievous 核心语义与 grief（悲痛、苦难）同源，专指后果“极其严重的、令人痛心的、招致重大创伤与苦难的”（causing or characterized by severe pain, suffering, or sorrow）。在认知与战略研判语境中（FIELD_COGNITION），grievous 与 miscalculation/error 形成国际关系与历史学中的权威固定搭配（grievous miscalculation），后文的 inflicted immense sorrow and lasting instability 构成排他性语义锚点，直接呼应 grievous 蕴含的“招致极度哀伤与惨痛后果”的特定情感与结果内涵。",
+      "atrocious": "【排除】atrocious 主要指行为本身的残暴野蛮或质量极其糟糕可憎（barbaric; appallingly bad），它关注的是性质的恶劣或品质的低下，不能像 grievous 那样直接承载并传导“造成沉痛灾难、使人陷入无尽悲痛与哀伤（sorrow）”的结果性内涵，与后文的 inflicted immense sorrow 无法紧密契合。",
+      "evil": "【排除】evil 意为“邪恶的、恶毒的”，强调行为人主观上蓄意的恶意或道德腐化。miscalculation（误判）属于认知判断层面的智识与分析失误（cognitive/epistemological flaw），其本身不具备道德恶意，逻辑上不能称为“evil miscalculation”，属于逻辑内涵倒错。",
+      "monstrous": "【排除】monstrous 偏重于“荒诞怪异的、骇人听闻的、规模畸形庞大的”（grotesque; shockingly outrageous），如 a monstrous lie 或 a monstrous absurdity。尽管误判后果严重，但在描述带来沉重哀伤与破坏的战略灾难时，monstrous 缺乏“致人悲恸（causing grief）”的因果语义特征，搭配显得浮夸而不准确。"
+    },
+    "translation": "这份外交电报总结道，大使未能预见这场政变构成了令人痛心的重大误判，其灾难性的后果给整个地区带来了巨大的悲痛和持久的地缘政治动荡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

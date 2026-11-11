@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b33_01",
+    "group_id": 331,
+    "group_name": "detract, slash, deflate, thin",
+    "level": "TEM-8",
+    "target_word": "detract",
+    "question": "Although the monograph contains minor typographical errors and occasional pedantic tangents, these trivial flaws do not appreciably ___ from the profound scholarly significance of its theoretical framework.",
+    "options": [
+      "detract",
+      "slash",
+      "deflate",
+      "thin"
+    ],
+    "answer": "detract",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Followed by the preposition 'from' and governing the abstract evaluative noun phrase 'the profound scholarly significance', forming the canonical fixed collocation 'detract from' (to diminish the worth, value, or quality of something).",
+    "distractor_analysis": {
+      "detract": "【正确】detract 与介词 from 构成经典固定搭配（detract from sth.），意为“减损、贬低（价值、声誉、重要性等）”。句中修饰语 appreciably 与从句让步逻辑（虽然有细微瑕疵，但并未减损其学术重要性）高度契合，符合学术书评的高阶语体要求。",
+      "slash": "【错误】slash 为及物动词，主要用于猛烈削减（slash budgets/prices/workforce）或物理上的砍击，其后直接接被削减的宾语，不能与介词 from 连用表示“减损抽象学术价值”，存在严重的句法搭配与语义错配。",
+      "deflate": "【错误】deflate 意为“使放气；使收缩；挫（某人的锐气/自尊）”，通常作及物动词（如 deflate one's ego/prices），不与介词 from 搭配指对客观学术价值的贬抑，在此处语法与语意均不成立。",
+      "thin": "【错误】thin 作动词多指“（使）变薄、稀释”或与 out 连用（thin out the crowd/ranks），不能与 from 搭配构成表示“减损价值”的抽象语义场，违背词汇搭配惯例。"
+    },
+    "translation": "尽管该专著存在微小的排印错误和偶尔迂腐的题外话，但这些细枝末节的瑕疵并未明显减损其理论框架深刻的学术价值。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_02",
+    "group_id": 331,
+    "group_name": "detract, slash, deflate, thin",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "Confronted with an unprecedented fiscal deficit, the municipal council was forced to ___ capital expenditures across non-essential infrastructure projects, drawing fierce condemnation from regional development advocates.",
+    "options": [
+      "detract",
+      "slash",
+      "deflate",
+      "thin"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Governs the direct object 'capital expenditures' within an institutional crisis context ('unprecedented fiscal deficit'), requiring a verb that collocated strictly with the drastic administrative reduction of funding or spending.",
+    "distractor_analysis": {
+      "slash": "【正确】slash 在公共行政与经济语境中与 budgets, expenditures, spending, workforce 等词构成强搭配，意为“大幅削减、骤降（经费、开支等）”，精准传达出面对财政赤字被迫大幅压缩资本支出的紧迫举措与高阶政经报道语体。",
+      "detract": "【错误】detract 在现代标准英语中主要为不及物用法，常与 from 搭配表示“贬损、减损（价值等）”，不能直接作为及物动词接“capital expenditures”充当宾语，造成句法失准。",
+      "deflate": "【错误】deflate 在经济学上通常搭配 the economy, currency 或 prices（意为通货紧缩或压低物价），亦可表示打破泡沫（deflate the speculative bubble），但不能用于行政决策中对“资本性支出（expenditures）”的直接大幅削减。",
+      "thin": "【错误】thin 强调物理密度或数量的稀释、减少，如 thin the ranks（精简人员编制），不能用于修饰抽象的财政拨款或资本支出（expenditures），属于搭配不当。"
+    },
+    "translation": "面对空前的财政赤字，市议会不得不大幅削减非必要基础设施项目的资本支出，这招致了区域发展倡导者的强烈谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_03",
+    "group_id": 332,
+    "group_name": "deviate, flip, avert, roll",
+    "level": "TEM-8",
+    "target_word": "deviate",
+    "question": "In qualitative cognitive research, scholars are explicitly warned never to ___ from standardized interpretive frameworks, lest personal biases distort empirical observations and invalidate the theoretical consistency of their findings.",
+    "options": [
+      "deviate",
+      "flip",
+      "avert",
+      "roll"
+    ],
+    "answer": "deviate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'from' 及其后接的规范性准则宾语 'standardized interpretive frameworks'，构成表示“偏离、背离准则”的排他性学术搭配",
+    "distractor_analysis": {
+      "deviate": "正确。不及物动词，常与介词 'from' 构成固定搭配 'deviate from'，意为“偏离、背离（既定规则、准则或理论框架）”。在认知科学与学术研究语境中，'deviate from standardized frameworks' 属于标准的高阶学术搭配，完全契合题意。",
+      "flip": "错误。虽然 flip 可用作不及物动词表示“急转、倒转”，但在学术规范语境中不与介词 'from' 搭配表示“背离规范或标准”；且其语体色彩偏非正式，多用于口语或特定短语（如 flip from A to B），与学术研究的严谨语域不符。",
+      "avert": "错误。及物动词，意为“防止、避免（灾祸等）”或“移开（目光、视线）”。其后必须直接接名词宾语（如 avert a crisis, avert one's eyes），不能直接跟介词短语 'from standardized...' 作不及物动词使用，存在句法充填错误。",
+      "roll": "错误。不及物动词，虽可与 'from' 搭配（如 roll from the hill），但其语义为物理意义上的“翻滚、滚动”或时间/状态的推移，无法与抽象的认知分析框架搭配，无法表达“违背或偏离标准”的语义。"
+    },
+    "translation": "在定性认知研究中，学者们受到明确告诫绝不可偏离标准化的解释框架，以免个人偏见扭曲实证观察，并破坏其研究结论的理论一致性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_04",
+    "group_id": 332,
+    "group_name": "deviate, flip, avert, roll",
+    "level": "TEM-8",
+    "target_word": "flip",
+    "question": "When confronted with contradictory empirical evidence, dogmatic ideologues rarely ___ their stance; instead, they often entrench themselves further by rationalizing discrepancies within their preexisting cognitive paradigms.",
+    "options": [
+      "deviate",
+      "flip",
+      "avert",
+      "roll"
+    ],
+    "answer": "flip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "及物动词带宾语 'their stance'，并与分号后从句中 'entrench themselves further' 形成鲜明的反义语义锚定（改变/颠覆立场 vs. 固守立场）",
+    "distractor_analysis": {
+      "flip": "正确。及物动词，在当代政治认知与思想分析中常与 stance, position, vote 连用（韦氏词典：to reverse or exchange positions <flipped their positions on the issue>），意为“彻底翻转、彻底改变（立场、观点）”。此用法与后文 'entrench themselves further'（进一步固步自封/坚守立场）构成完美的修辞对比与语义反差。",
+      "deviate": "错误。语法句法受限。deviate 通常为不及物动词，必须接介词短语（如 deviate from their stance），无法直接跟宾语 'their stance'，代入句中导致句法破裂。",
+      "avert": "错误。及物动词，语义限制（selectional restriction）通常为负面消极事件（如 avert a disaster/catastrophe）或感官行为（如 avert one's gaze）。不能以中性的认知立场 'stance' 作为直接宾语，存在语义搭配不当。",
+      "roll": "错误。roll 作及物动词时意为“使滚动、卷起”或特定习语（如 roll one's eyes），绝不能支配抽象的认知观点宾语 'their stance'，“roll their stance”在英语中不成立。"
+    },
+    "translation": "面对相互矛盾的实证证据，教条主义的意识形态追随者很少会彻底转变自己的立场；相反，他们往往通过在预存的认知范式内强行合理化这些差异，从而进一步固步自封。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_05",
+    "group_id": 333,
+    "group_name": "devolve, demote, mandate, cast",
+    "level": "TEM-8",
+    "target_word": "devolve",
+    "question": "Following the sudden incapacitation of the chief negotiator, the arduous task of drafting the multilateral treaty did ___ upon an obscure diplomat, whose strategic acumen proved surprisingly formidable.",
+    "options": [
+      "devolve",
+      "demote",
+      "mandate",
+      "cast"
+    ],
+    "answer": "devolve",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and collocational anchor is the intransitive construction 'did ___ upon an obscure diplomat' preceded by the duty/task subject 'the arduous task...'. Only 'devolve' functions intransitively with 'upon/on' to denote the transfer or falling of a duty/responsibility onto a successor.",
+    "distractor_analysis": {
+      "devolve": "正确。devolve 在此作不及物动词，与介词 upon 构成高级公文与学术政制中的固定搭配（devolve upon sb），专指“（职责、权力、任务等）移交或自然落到（某人身上）”。句中以 the arduous task 作为主语，接 upon an obscure diplomat，在句法与语境上均无懈可击。",
+      "demote": "错误。demote 为及物动词，意为“使降级、使降职”，必须接人或职务作为直接宾语（如 demote sb to...），绝不能作不及物动词与 upon 搭配，放入句中产生严重的句法结构缺失。",
+      "mandate": "错误。mandate 作动词时为纯及物动词，意为“授权、强制命令或立法要求”，其宾语通常为法规、行动或政策（如 mandate reforms），无不及物接 upon 表“职责下落”的用法。",
+      "cast": "错误。cast 在主动语态中表示投射或抛出（如 cast doubt upon...），不能由表示抽象任务的主语 the arduous task 在无直接宾语的情况下不及物地接 upon sb，语义和语法逻辑彻底断裂。"
+    },
+    "translation": "在首席谈判代表突发伤病丧失履职能力后，起草多边条约的艰巨任务便落到了一位名不见经传的外交官身上，而其展现出的战略洞察力令人惊叹地强大。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_06",
+    "group_id": 333,
+    "group_name": "devolve, demote, mandate, cast",
+    "level": "TEM-8",
+    "target_word": "demote",
+    "question": "When an independent replication study revealed that the senior neuroscientist had deliberately manipulated statistical thresholds, the academic senate voted to ___ him to a subordinate laboratory role, revoking his professorship.",
+    "options": [
+      "devolve",
+      "demote",
+      "mandate",
+      "cast"
+    ],
+    "answer": "demote",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the transitive pattern '___ him to a subordinate laboratory role', which requires a verb denoting the lowering of a person's organizational rank or professional status. Only 'demote' accepts a human object followed by 'to a [lower] role'.",
+    "distractor_analysis": {
+      "devolve": "错误。devolve 作及物动词时，其选择限制（selectional restrictions）严格限定其直接宾语必须为权力、职责或功能（如 devolve power upon regional bodies），绝不能以具体的人（him）作宾语去表达“降职”，存在致命的语义范畴违背。",
+      "demote": "正确。demote 意为“使降职；降级”，其标准及物动词搭配即为 demote sb to a subordinate/lower role or rank（将某人降至下级职位/角色）。该词精准匹配因学术不端而遭受降职处分的语境。",
+      "mandate": "错误。mandate 意为“命令、强制要求或授权”，后接人时结构通常为 mandate sb to do sth（要求某人做某事），无法构成 mandate sb to a subordinate role 来表示惩罚性降职。",
+      "cast": "错误。cast 用于选派角色时通常接 as 或 in（如 cast him as the protagonist），或者用于抽象投掷（cast him into despair），不能搭配 to a subordinate laboratory role 表达体制或机构内的“行政降级”。"
+    },
+    "translation": "当一项独立的复现实验揭露这名资深神经科学家曾蓄意篡改统计阈值后，学术委员会投票决定将其降职为从属实验室辅助人员，并立即撤销其教授头衔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_07",
+    "group_id": 334,
+    "group_name": "digress, impart, harbinger, air",
+    "level": "TEM-8",
+    "target_word": "digress",
+    "question": "During the epistemological debate, the keynote speaker was careful not to ___ from the primary ontological question, resisting the temptation to engage with contentious political analogies.",
+    "options": [
+      "digress",
+      "impart",
+      "harbinger",
+      "air"
+    ],
+    "answer": "digress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法与语义决定性锚点在于介词短语“from the primary ontological question”（偏离主要本体论问题）以及伴随状语“resisting the temptation to engage with contentious political analogies”（克制陷入政治类比的诱惑）。在所给选项中，仅有不及物动词 digress 能与介词 from 形成固定学术搭配（digress from a topic/question），表示“偏离主旨、离题”。其余三项皆为及物动词，接 from 均构成致命句法违抗。",
+    "distractor_analysis": {
+      "digress": "正确。不及物动词，意为“（在讲话或写作中）离题、偏离正题”，与介词 from 构成标准惯用搭配（digress from），精确契合发言者保持学术专注、不偏离主线论题的语境。",
+      "impart": "错误。及物动词，意为“传授、赋予”，必须直接接宾语且常与 to 搭配（impart sth to sb），不能作不及物动词直接接介词 from，存在严重句法断裂。",
+      "harbinger": "错误。作动词时为及物动词，意为“预示、预告”，通常直接带宾语（如 harbinger profound change），不可用作不及物动词并与 from 搭配。",
+      "air": "错误。及物动词，意为“公开发表（见解、怨气等）”，须后接观点或情绪名词（如 air one's views/grievances），无法作不及物动词与 from 连用。"
+    },
+    "translation": "在这场认识论辩论中，主旨发言人十分克制，注意不偏离核心的本体论问题，避免陷入充满争议的政治类比之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_08",
+    "group_id": 334,
+    "group_name": "digress, impart, harbinger, air",
+    "level": "TEM-8",
+    "target_word": "impart",
+    "question": "By synthesizing empirical evidence with rigorous theoretical frameworks, the monograph seeks to ___ intellectual coherence to disparate historical accounts that previously lacked an overarching explanatory paradigm.",
+    "options": [
+      "digress",
+      "impart",
+      "harbinger",
+      "air"
+    ],
+    "answer": "impart",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性句法与搭配锚点为“___ [intellectual coherence] to [disparate historical accounts]”。语境表达“将理论连贯性赋予零散的历史叙述”。四个选项中，仅及物动词 impart 具有“impart [an abstract quality] to [an entity]”（赋予/注入某种特质）的双宾类介词搭配体系。digress 为不及物动词无法带宾语；harbinger 与 air 既无法与“抽象品质 + to”搭配，在语义上也完全不合逻辑。",
+    "distractor_analysis": {
+      "impart": "正确。及物动词，意为“赋予、给予、传授（某种特质或知识）”，典型学术搭配为 impart sth (such as coherence, dignity, flavor) to sth，完美契合专著通过理论整合赋予历史记录连贯性的学术语境。",
+      "digress": "错误。不及物动词，意为“离题、走题”，无法后接直接宾语 intellectual coherence，存在绝对的及物性句法冲突。",
+      "harbinger": "错误。及物动词，意为“预告、充当……的前兆”，其宾语只能是即将发生的事件或时代趋势，不存在“harbinger A to B”的搭配形式，语义亦不通。",
+      "air": "错误。及物动词，意为“公开发表、表达（意见、怨气）”，宾语通常为 views, opinions 或 grievances，与抽象品质“连贯性（coherence）”不形成搭配，更不能用于“air sth to sth”表示赋予特质。"
+    },
+    "translation": "该学术专著通过将实证证据与严密的理论框架相结合，力求为那些此前缺乏统摄性解释范式的零散历史叙述赋予学术连贯性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_09",
+    "group_id": 335,
+    "group_name": "dimple, flag, asterisk, tip",
+    "level": "TEM-8",
+    "target_word": "dimple",
+    "question": "High-resolution interferometry demonstrated that repetitive ultrasonic vibrations had begun to ___ the pristine beryllium mirror with microscopic depressions, severely impairing the space telescope's optical precision.",
+    "options": [
+      "dimple",
+      "flag",
+      "asterisk",
+      "tip"
+    ],
+    "answer": "dimple",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中宾语为物理反射镜面（the pristine beryllium mirror），伴随介词短语‘with microscopic depressions’（留下微观凹陷）。在四个选项中，仅有 dimple 具备‘使表面产生微小凹坑/压痕’（mark with, or as if with, dimples）的精确及物动词义与搭配模式。",
+    "distractor_analysis": {
+      "dimple": "正确。dimple 作及物动词时意为‘使起微凹；在……上形成凹痕’（to mark with dimples or slight depressions），常用于描述物体表面因物理冲击、震动或自然力产生细小凹陷，与句中的‘mirror with microscopic depressions’构成无可替代的语义与句法契合。",
+      "flag": "错误。flag 作及物动词主要意为‘标出……以便注意’（to mark or signal for attention）或‘标记异常’，属于认知/警示域动词，无法与实体物理镜面搭配表示‘使其产生物理凹陷’。",
+      "asterisk": "错误。asterisk 指‘给……加星号标记’（to mark with an asterisk），用于文本中提供注释、保留条件或说明例外，不可用于物理镜面的微观凹陷受损语境。",
+      "tip": "错误。tip 作及物动词表示‘装顶端；使倾斜；给……小费’（furnish with a tip; tilt），与‘with microscopic depressions’（微小凹坑）在物理几何语义上完全背离（凹陷而非顶端覆盖）。"
+    },
+    "translation": "高分辨率干涉测量表明，重复的超声波震动已开始使原本完好的铍制反射镜表面产生微小的凹痕，严重削弱了该空间望远镜的光学精度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_10",
+    "group_id": 335,
+    "group_name": "dimple, flag, asterisk, tip",
+    "level": "TEM-8",
+    "target_word": "flag",
+    "question": "During the rigorous peer-review evaluation, senior epidemiologists were prompt to ___ the study's unadjusted confounding variables as a fatal methodological flaw, urging the authors to revise their analytical models.",
+    "options": [
+      "dimple",
+      "flag",
+      "asterisk",
+      "tip"
+    ],
+    "answer": "flag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式结构‘___ [NP: the study's unadjusted confounding variables] as [NP: a fatal methodological flaw]’构成了决定性句法语义锚点。在学术评审与认知诊断语境中，仅 flag 能与 abstract issue + as + flaw/concern 搭配，意为‘将……标明/警示为……’。",
+    "distractor_analysis": {
+      "flag": "正确。flag 在学术与认知诊断语境中意为‘标记，指出（问题、风险或缺陷）以引起重视’（to signal or mark for attention/scrutiny），常用结构为 flag sth. as sth.（将某事标明为……），与句中‘flag the variables as a fatal methodological flaw’形成天衣无缝的学术搭配。",
+      "dimple": "错误。dimple 仅表示在物理表面造成凹痕或酒窝，与抽象的学术概念（未校正的混杂变量）发生严重的范畴错配（category mistake）。",
+      "asterisk": "错误。asterisk 虽可指在文本中标记星号以示保留或附加说明，但其句法上不接‘as a fatal methodological flaw’作为补足语，无法表达主动的批判性‘标明警告’之意。",
+      "tip": "错误。tip 作‘警告/提醒’解时通常为非正式用语且要求人作宾语并常与 off 连用（tip sb. off），或指‘倾斜、预测’（tip sb. to win），不能用于学术评估中指认并标记抽象的方法学缺陷。"
+    },
+    "translation": "在严苛的同行评审过程中，资深流行病学家迅速将该研究中未予校正的混杂变量标明为致命的方法学缺陷，并敦促作者修正其分析模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_11",
+    "group_id": 336,
+    "group_name": "demonic, satanic, fiendish, infernal",
+    "level": "TEM-8",
+    "target_word": "demonic",
+    "question": "Biographers attributed the composer’s unprecedented prolificacy not to methodical planning, but to a ___ intensity that consumed his waking hours, driving him through manic, sleepless bouts of creative frenzy.",
+    "options": [
+      "demonic",
+      "satanic",
+      "fiendish",
+      "infernal"
+    ],
+    "answer": "demonic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "manic, sleepless bouts of creative frenzy ... intensity（修饰如狂魔附体、不可遏止的创作狂热与超常精气神）",
+    "distractor_analysis": {
+      "demonic": "【正确】demonic 除字面“恶魔的”外，在高级心理与传记学术语境中具有独特的转义认知内涵，常特指“如被恶魔附体般的、发狂的、精力绝伦的”（frenzied, impassioned, or possessed），与后文的 manic（狂躁的）、sleepless bouts 以及 creative frenzy（创作狂热）形成天衣无缝的语义与修辞呼应，精准描摹出艺术家超乎常人的狂热投入。",
+      "satanic": "【排除】satanic 强调神学或道德层面的“撒旦式的、极度邪恶的、存心不良的”（characterized by conscious malice or moral defiance），带有鲜明的道德谴责色彩，完全不适用于描述虽然癫狂但极具创造力的天才心智状态。",
+      "fiendish": "【排除】fiendish 侧重于行为手段的“凶残、狠毒”（fiendish cruelty）或认知层面的“极其复杂棘手的”（fiendishly difficult），与形容“精神狂热、创作力喷涌”的 intensity 存在搭配与概念维度的错位。",
+      "infernal": "【排除】infernal 主要指“阴间地狱的”（relating to the nether world）或在修辞中用作表达愤怒厌恶的强烈贬义修饰（意为“可憎的、讨厌透顶的”，如 infernal racket），无法表达主体内部自觉迸发的“着魔般的创作冲动”。"
+    },
+    "translation": "传记作家们将这位作曲家空前绝后的多产并非归因于有条不紊的规划，而是归结于一种吞噬其醒着时光的如痴如魔般的狂热劲头——正是这种狂热驱动他经历了一场场狂躁而无眠的创作风暴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_12",
+    "group_id": 336,
+    "group_name": "demonic, satanic, fiendish, infernal",
+    "level": "TEM-8",
+    "target_word": "satanic",
+    "question": "The essayist condemned the demagogue's rhetoric for its ___ cynicism, a cold, mocking contempt that not only derided basic democratic norms but took malicious delight in the systematic subversion of truth.",
+    "options": [
+      "demonic",
+      "satanic",
+      "fiendish",
+      "infernal"
+    ],
+    "answer": "satanic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_POLITICAL_CRITIQUE",
+    "anchor_clue": "cynicism, a cold, mocking contempt that not only derided... but took malicious delight in the systematic subversion of truth（以冷酷嘲弄的轻蔑态度蔑视规范，并蓄意颠覆真理的恶意犬儒倾向）",
+    "distractor_analysis": {
+      "satanic": "【正确】satanic 在《韦氏同义词词典》（Webster's New Dictionary of Synonyms）与《韦氏大学词典》中享有特定的词义分支，专指“表现出恶毒、讽刺或冷嘲热讽的轻蔑态度”（characterized by malice or cynical or mocking contempt），词典明确保留专用搭配“a satanic cynicism”及“a satanic sneer/laugh”，并强调其具有“蓄意倾覆道德美德与真理（a persistent will to work the overthrow of virtue and good）”的哲学恶意。句中同位语从句“a cold, mocking contempt... took malicious delight in the systematic subversion of truth”正是该词义的精准复现，无论在语义内涵还是搭配习惯上均为唯一正选。",
+      "demonic": "【排除】demonic 侧重于源于超自然魔鬼或内在狂热驱使的“狂暴力量、冲动执念或超常创造/破坏能量”（driven by an uncontrollable force or frenzy; e.g., demonic energy, demonic intensity）。它无法与冷酷审慎、以智力嘲弄为核心的“犬儒主义（cynicism）”相容（冷眼嘲弄与狂热附魔在心理状态上截然相反），亦不存在“demonic cynicism”这一搭配范式。",
+      "fiendish": "【排除】fiendish 侧重于行为、手段或计谋上的“极度残忍、恶毒阴险”或事物的“极端复杂棘手”（diabolically cruel or exceedingly complicated; e.g., fiendish cruelty, a fiendish plot, a fiendish puzzle），通常修饰具体的伤害行径、阴谋或刑具，不能修饰抽象的政论或哲学态度“cynicism”。",
+      "infernal": "【排除】infernal 本义为“地狱的、冥界的”（of or relating to the nether world），引申为引发极大痛苦或恼怒的“令人憎恶的、可恨的”（hellish, damnable; e.g., infernal noise, infernal heat），属于空间归属类或口语强调性形容词，无法用来定性冷嘲热讽式的意识形态犬儒态度。"
+    },
+    "translation": "这位散文家谴责了那位煽动家言论中撒旦式的犬儒主义——那是一种冰冷而嘲弄的蔑视，它不仅嘲弄基本的民主准则，更对真理遭到系统性颠覆而深感快意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_13",
+    "group_id": 337,
+    "group_name": "fastidious, dainty, finicky, squeamish",
+    "level": "TEM-8",
+    "target_word": "fastidious",
+    "question": "Distinguished by his ___ attention to methodological rigor, the senior peer reviewer systematically rejected empirical papers that overlooked minor sampling biases or exhibited the slightest statistical ambiguity.",
+    "options": [
+      "fastidious",
+      "dainty",
+      "finicky",
+      "squeamish"
+    ],
+    "answer": "fastidious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Forms the canonical high-register academic collocation 'fastidious attention to (methodological rigor/detail)', uniquely matching the context of demanding intellectual precision.",
+    "distractor_analysis": {
+      "fastidious": "正确。fastidious 意为“一丝不苟的、严谨挑剔的”，在学术文献与严谨论述中与“attention to...”构成高度固定的高阶搭配（fastidious attention to methodological rigor/detail），精确呼应后文审稿人对抽样偏差和统计歧义零容忍的学术行为与严苛标准。",
+      "dainty": "错误。dainty 侧重于外形或动作“轻盈娇小的、纤巧优美的”或在饮食举止上的过分文雅，与抽象的学术严谨性“methodological rigor”及修饰语“attention”完全不发生语义搭配，语域严重错位。",
+      "finicky": "错误。finicky 虽亦含“过分挑剔、琐碎讲究”之意，但属于非正式口语色彩明显的贬义词，多形容对食物、衣饰等鸡毛蒜皮之事的吹毛求疵（如 a finicky eater），与严肃的学术评审语境存在剧烈的文体风格冲突（register clash）。",
+      "squeamish": "错误。squeamish 核心语义为“易呕吐的、晕血的”或在伦理暴力面前“过于胆怯反感的”（如 squeamish about violence），表述的是生理或道德层面的脆弱反感，与治学方法上的精密审慎毫无语义交集。"
+    },
+    "translation": "这位资深同行评审专家以对方法论严密性的一丝不苟而著称，凡是忽视微小抽样偏差或显露丝毫统计歧义的实证论文，皆被他系统性地予以退稿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_14",
+    "group_id": 337,
+    "group_name": "fastidious, dainty, finicky, squeamish",
+    "level": "TEM-8",
+    "target_word": "dainty",
+    "question": "Trained in classical ballet and courtly etiquette, the young soloist traversed the stage with such ___ steps that her satin slippers seemed scarcely to touch the polished floorboards.",
+    "options": [
+      "fastidious",
+      "dainty",
+      "finicky",
+      "squeamish"
+    ],
+    "answer": "dainty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Forms the classic literary collocation 'dainty steps', intrinsically denoting physical grace and diminutive lightness, corroborated by 'scarcely to touch the polished floorboards'.",
+    "distractor_analysis": {
+      "dainty": "正确。dainty 意为“轻巧优美的、纤细小巧的”（marked by delicate or diminutive grace, form, or character），在文学与高阶英语中修饰步态时构成典型固定搭配“dainty steps”（轻盈小巧的步伐），与后文中“缎面芭蕾鞋几乎未触及抛光地板”所勾勒的凌空轻盈感达成无可替代的语境契合。",
+      "fastidious": "错误。fastidious 侧重于心理态度和行为标准上的“挑剔苛求、注重洁癖或细节”，属于描述认知与评判态度的形容词，绝不能修饰物理层面的“步伐”（steps）来表达轻柔优雅的动态特征。",
+      "finicky": "错误。finicky 属非正式口语用词，指人“难以讨好的、古怪挑剔的”或物件“难摆弄的”（如 a finicky mechanism），与古典芭蕾中流露出的优雅肢体语言背道而驰，词义与格调均不相容。",
+      "squeamish": "错误。squeamish 指在感官上“易恶心反胃的”或在心理上“神经脆弱、见不得血腥残酷的”，根本无法与表示物理步态的 steps 搭配使用，属于明显的语义范畴错误。"
+    },
+    "translation": "受过古典芭蕾与宫廷礼仪的严格训练，这位年轻的独舞演员以如此轻巧优雅的步态穿过舞台，其缎面舞鞋仿佛几乎未曾触及那光洁的地板。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_15",
+    "group_id": 338,
+    "group_name": "flamboyant, showy, pretentious, ostentatious",
+    "level": "TEM-8",
+    "target_word": "flamboyant",
+    "question": "Rejecting accusations of intellectual fraudulence or vulgar affluence, the biographer portrayed the philosopher as an inherently ___ figure, distinguished by his dashing rhetorical wit, vivid eccentricities, and unrestrained theatrical animation.",
+    "options": [
+      "flamboyant",
+      "showy",
+      "pretentious",
+      "ostentatious"
+    ],
+    "answer": "flamboyant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchors are 'dashing rhetorical wit, vivid eccentricities, and unrestrained theatrical animation' (which matches the exact lexicographical definition of flamboyant) paired with the explicit rejection of 'intellectual fraudulence' (ruling out pretentious) and 'vulgar affluence' (ruling out ostentatious).",
+    "distractor_analysis": {
+      "flamboyant": "正确。Merriam-Webster将flamboyant定义为'suggests an exuberance marked by dashing style, striking color, or unrestrained, theatrical animation'（指以潇洒风格、鲜艳色彩或不受拘束的戏剧化活力为特征的繁复华丽）。句中的'dashing rhetorical wit'（潇洒机智的修辞）与'theatrical animation'（戏剧化活力）构成绝对的语义与搭配锚点，perfect match该词的核心义项。",
+      "showy": "错误。showy侧重指外表引人注目但往往俗气、廉价或缺乏内在实质（often suggests cheapness or poor taste），通常用于修饰服饰、花卉或肤浅的外在招摇，与句中高度赞誉的哲学家智识活力、潇洒修辞及高雅的学术传记语体产生严重的语域与语义冲突。",
+      "pretentious": "错误。pretentious意为'自命不凡的、矫揉造作的'，核心语义是虚夸并不具备的智识、文化价值或重要性（claiming unwarranted importance or stature）。句首'Rejecting accusations of intellectual fraudulence'（驳斥了智识欺诈的指责）已在逻辑上明确否定了这一特征，填入会导致前后语义自相矛盾。",
+      "ostentatious": "错误。ostentatious强调为了引起他人羡慕而刻意炫耀财富、奢侈地位或学识（stresses an unwarranted display often of wealth or luxury to impress others）。句首已明确否定了'vulgar affluence'（粗俗炫富），且本句重在描摹人物的戏剧化生命活力而非炫耀性消费，故在语义逻辑上被严格排除。"
+    },
+    "translation": "传记作者驳斥了关于其智识欺诈与粗俗炫富的指责，将这位哲学家描绘成一个本质上神采飞扬、个性张扬的人物，其特质在于潇洒机智的修辞、鲜明生动的古怪习性以及毫无拘束的戏剧化活力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_16",
+    "group_id": 338,
+    "group_name": "flamboyant, showy, pretentious, ostentatious",
+    "level": "TEM-8",
+    "target_word": "showy",
+    "question": "In studies of pollinator cognition, evolutionary ecologists demonstrated that bumblebees navigate toward ___ floral displays, prioritizing conspicuous visual beacons and oversized petals over subtle olfactory cues, regardless of actual nectar rewards.",
+    "options": [
+      "flamboyant",
+      "showy",
+      "pretentious",
+      "ostentatious"
+    ],
+    "answer": "showy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "In sensory ecology and botany, 'showy floral displays' (or 'showy flowers') is the uniquely established scientific collocation for conspicuous floral organs evolved to visually attract pollinators; pretentious and ostentatious represent severe category errors as plants lack social vanity.",
+    "distractor_analysis": {
+      "showy": "正确。在进化生物学与传粉昆虫认知研究中，'showy floral displays'（显花展示）或'showy flowers/blossoms'是学术界高度固化的专门术语（term of art），专指植物为了吸引视觉传粉者而演化出的花大色艳、醒目引人但未必提供相应报酬的外观特征（imposing or striking appearance lacking proportional substantive rewards），与后文'conspicuous visual beacons and oversized petals... regardless of actual nectar rewards'形成完美的语境同构。",
+      "flamboyant": "错误。flamboyant主要用于人类行为风格的张扬潇洒、华丽奔放（如flamboyant personality）或建筑学上的火焰哥特式（Flamboyant architecture）。在严肃的植物认知生态学语境中修饰'floral displays'缺乏科学搭配依据，构成严重的搭配断裂（collocational rupture）。",
+      "pretentious": "错误。pretentious特指人或文化产物在智识、艺术或地位上'虚假自大、附庸风雅'。植物作为自然生物缺乏主观社会意图与智识伪装，用于修饰自然花卉属于典型的范畴谬误（category error）。",
+      "ostentatious": "错误。ostentatious严格要求具备向社会同侪夸耀财富、地位或技能以博取瞩目的主观虚荣动机（vain display to impress others）。将其用于植物的视觉信号演化，属于严重拟人化失当与文体格调破裂。"
+    },
+    "translation": "在传粉昆虫认知研究中，进化生态学家证实熊蜂会本能地飞向显花展示，优先选择醒目的视觉信标和过大花瓣而非微妙的气味线索，全然不顾花朵是否真正含有花蜜回报。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_17",
+    "group_id": 339,
+    "group_name": "heterogeneous, motley, sundry, assorted",
+    "level": "TEM-8",
+    "target_word": "heterogeneous",
+    "question": "Ecological researchers emphasized that preserving a ___ mosaic of microclimates and vegetation types is critical for enhancing habitat resilience against rapid climate change across fragmented alpine ecosystems.",
+    "options": [
+      "heterogeneous",
+      "motley",
+      "sundry",
+      "assorted"
+    ],
+    "answer": "heterogeneous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Ecological collocation with 'mosaic of microclimates' denoting structural non-uniformity and scientific diversity, which strictly requires 'heterogeneous' and excludes colloquial, commercial, or informal descriptors.",
+    "distractor_analysis": {
+      "heterogeneous": "正确。heterogeneous在自然科学与生态学语境中属于核心术语，常与landscape、habitat、mosaic等搭配（如heterogeneous mosaic/habitat），表示由性质不同、成分各异的要素构成的“异质的、非均质的”，完美契合学术语域。",
+      "motley": "错误。motley带有“杂乱无章、斑驳古怪、滑稽混杂”的修辞色彩与轻微贬义（如a motley collection/crew），用于严谨的高原微气候与植被结构科学描述属于严重的语体与语域错配（register clash）。",
+      "sundry": "错误。sundry多作限定词或形容词修饰复数名词，意为“形形色色的、若干的”（如sundry items/reasons），不能用于修饰单数集合名词短语构成具有内在非均质空间结构的“mosaic”。",
+      "assorted": "错误。assorted主要指人为归类、搭配或商业包装而成的“什锦的、各式各样的”（如assorted chocolates），强调不同品种或样式的混杂，无法表达生态系统中自然形成的非均质性（heterogeneity）。"
+    },
+    "translation": "生态研究人员强调，保留由微气候和植被类型构成的异质镶嵌景观，对于在破碎化的高山生态系统中增强生境应对快速气候变化的韧性至关重要。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_18",
+    "group_id": 339,
+    "group_name": "heterogeneous, motley, sundry, assorted",
+    "level": "TEM-8",
+    "target_word": "motley",
+    "question": "Tasked with monitoring poaching activities across the expansive nature reserve, the underfunded outpost relied on a ___ crew of seasonal volunteers, local trackers, and retired forestry officers.",
+    "options": [
+      "heterogeneous",
+      "motley",
+      "sundry",
+      "assorted"
+    ],
+    "answer": "motley",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Fixed English idiomatic collocation 'a motley crew', describing an incongruous, ragtag assembly of disparate individuals banding together.",
+    "distractor_analysis": {
+      "motley": "正确。固定习语搭配“a motley crew”专指由形形色色、甚至互不协调的人员临时拼凑而成的“杂牌军”或“混编队伍”。句中季节性志愿者、当地追踪者与退休林业官员组成的小组正是典型的motley crew，语义与搭配无可挑剔。",
+      "heterogeneous": "错误。heterogeneous是严肃的学术与科学术语，指成分、性质或结构上的“非均质的、异类的”，不能与单数名词crew搭配来形容世俗语境下临时拼凑的杂牌人群队伍，缺乏该语境所需的生动修辞色彩。",
+      "sundry": "错误。sundry通常作为不定限定词修饰复数名词，表示“各种各样的”（如sundry details），在现代英语中不能与单数不定冠词加单数可数名词连用（*a sundry crew属于语法错误）。",
+      "assorted": "错误。assorted通常指同类物品中挑选汇总的“各种各样、混杂的”（多用于物品或商品，如assorted biscuits），既不与crew构成习惯搭配，也无法表达临时拼凑、良莠不齐的生动人群特征。"
+    },
+    "translation": "受命在广袤的自然保护区内监测盗猎活动，这个经费匮乏的哨所只能依赖一支由季节性志愿者、当地追踪者和退休林业官员拼凑而成的杂牌队伍。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_19",
+    "group_id": 340,
+    "group_name": "implacable, inexorable, relentless, unrelenting",
+    "level": "TEM-8",
+    "target_word": "implacable",
+    "question": "Despite sustained mediation efforts and generous territorial concessions, the separatist leadership maintained such ___ enmity toward the state that any diplomatic overture intended to mollify their grievances was summarily rejected.",
+    "options": [
+      "implacable",
+      "inexorable",
+      "relentless",
+      "unrelenting"
+    ],
+    "answer": "implacable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键线索为 'generous territorial concessions'（慷慨的领土妥协）与 'intended to mollify their grievances'（旨在抚慰其不满）。implacable 的核心词源义即为 'incapable of being placated/mollified'（无法平息、无法抚慰的和解不可能状态），与 enmity 构成政治与历史学术语境中经典的固定搭配 implacable enmity，精准指向拒绝接受妥协抚慰的刻骨敌意。",
+    "distractor_analysis": {
+      "implacable": "正确。源自拉丁语 in-（不）+ placare（抚慰、平息），韦氏词典释义为 'incapable of being placated'。该词专用于表征无法通过妥协、抚慰或求和而平息的敌意、仇恨或人（如 implacable enemy/hostility/enmity）。句中明确提到调解方提供 'concessions' 试图 'mollify'（抚慰、缓和）其诉求却遭断然拒绝，完美契合 implacable 的特异性语义与搭配要求。",
+      "inexorable": "错误。源自 in- + exorabilis（能被说情/恳求打动的），现代核心义为不可阻挡的、必然发生的，主要修饰无情推进的客观规律、历史进程或逻辑演变（如 inexorable march/decline/logic）。此处修饰的是派系领导层的主观心理态度与敌意（enmity），且强调无法被安抚（placate），用 inexorable 造成范畴与语义侧重的错位。",
+      "relentless": "错误。核心义为持续严酷的、不依不饶的，侧重于行为、压力或攻势在时间与强度上毫不减弱或无休止推进（如 relentless pressure/attacks）。虽然常表严苛，但其语义聚焦于行动的'不停歇性'，未能精准体现句中因拒绝接受妥协而'无法被抚慰平息（unplacatable）'的本质。",
+      "unrelenting": "错误。侧重于意志、强度或外在力量'不松懈、不衰退、不妥协'（如 unrelenting effort/strife），通常描述某种保持高强度的动态过程。置于此句中，不仅破坏了与 mollify 构成呼应的内在词汇语义链，且在与抽象敌意名词 enmity 的搭配共现频率和学科精准度上远逊于 implacable。"
+    },
+    "translation": "尽管调解方作出了持续不断的努力并提出了慷慨的领土让步，分离主义领导层对国家依然抱有不可化解的深仇大恨，以至于任何旨在平息其不满的明智外交接触均遭到了断然拒绝。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b33_20",
+    "group_id": 340,
+    "group_name": "implacable, inexorable, relentless, unrelenting",
+    "level": "TEM-8",
+    "target_word": "inexorable",
+    "question": "The economic historian argued that systemic currency depreciation was not an unforeseen anomaly, but the ___ consequence of protracted fiscal deficits that monetary authorities could no longer conceal or forestall.",
+    "options": [
+      "implacable",
+      "inexorable",
+      "relentless",
+      "unrelenting"
+    ],
+    "answer": "inexorable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "中心词为抽象因果产物 'consequence'（结果/后果），后接定语从句 'that monetary authorities could no longer conceal or forestall'（货币当局已再也无法隐瞒或预先阻止）。动词 forestall（预先防范/阻止）直接锁定了 inexorable 的核心词源与义项特征——'不可被干预、祈求或手段所阻挡/逆转的必然性'。同时，学术英语中 'inexorable consequence'（不可避免的必然结果）是高度固化的权威搭配；其他三项均无法修饰非动态、无情感的静态因果终局名词 consequence。",
+    "distractor_analysis": {
+      "inexorable": "正确。源自拉丁语 in-（不）+ exorabilis（可通过恳求而动摇的），在学术与哲学语域中专指某种规律、因果演进或最终结局'不可阻挡、不可抗拒、注定发生'。搭配 'inexorable consequence'（必然结果/不可避免的后果）是权威学术政论与经济史写作中的经典程式，与定语从句中的 'could no longer forestall'（再也无法阻止/防患）构成严密的语义互锁与逻辑闭合。",
+      "implacable": "错误。源自 placare（平息、安抚），核心义为'无法被平抚的、不可和解的'，在语义选择限制（selectional restrictions）上严格要求修饰具有意志、敌意或仇恨倾向的主体或情绪（如 implacable enemy, implacable hatred）。用于修饰经济因果结果 consequence 属于严重的范畴错配（category mistake）。",
+      "relentless": "错误。relentless 强调持续处于无休止的施压、追踪、攻击或快节奏运动中而'不松懈、不缓和'（如 relentless pressure, relentless pursuit, relentless pace），其被修饰词必须具备动态过程性或攻击性力量。consequence 是因果推导的静态终局产物，自身不具备持续施力或动作节奏的特征，英语中不存在 *relentless consequence 的搭配，强行替换会导致严重的语意与搭配断裂。",
+      "unrelenting": "错误。unrelenting 侧重指恶劣自然条件、斗争状态或个人毅力在强度上'未见衰减、毫不手软'（如 unrelenting gale, unrelenting effort），描述的是某种处于进行中的高强度持续状态，完全无法用来界定因果关系中的终极必然性产物 consequence。"
+    },
+    "translation": "这位经济史学家主张，系统性的货币贬值并非不可预见的偶然异常，而是长期财政赤字不可避免的必然结果——货币当局已再也无法对此进行隐瞒或防范。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

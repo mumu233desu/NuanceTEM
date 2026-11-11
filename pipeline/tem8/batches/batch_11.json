@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b11_01",
+    "group_id": 111,
+    "group_name": "jolt, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "jolt",
+    "question": "The sudden collapse of the sovereign debt market served to ___ technocrats out of their dogmatic complacency, compelling them to re-evaluate monetary orthodoxies that had long gone unquestioned.",
+    "options": [
+      "jolt",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "jolt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后接宾语“technocrats”及介词短语“out of their dogmatic complacency”。在四个选项中，仅有及物动词 jolt 能构成固定认知引申搭配“jolt sb out of (complacency/torpor)”，意为“使某人震惊并从自满/迟钝中清醒过来”。其余三词均为不及物动词，存在根本性的句法与搭配排他性。",
+    "distractor_analysis": {
+      "jolt": "正确。jolt 作及物动词时，常引申用于认知与心理语域，意为“使震惊；使猛醒”，其后常接宾语并与介词 out of 搭配（“jolt sb out of complacency/lethargy”），完全契合句意和句法结构。",
+      "waver": "错误。waver 为不及物动词（表示“动摇、犹豫、犹豫不决”），无法直接接宾语 technocrats，更不能与“out of complacency”构成使动意义的认知搭配，语法直接报错。",
+      "quiver": "错误。quiver 意为“微颤、颤抖”，为纯不及物动词，通常用于描写身体、声音或物体的细微物理震颤，无法支配宾语，句法语义皆不成立。",
+      "writhe": "错误。writhe 意为“翻滚、（因痛苦等）扭动”，为不及物动词，常与介词 in（如 writhe in agony）搭配，既不能接宾语，也完全不具备“促使清醒”的使动认知语意。"
+    },
+    "translation": "主权债务市场的突然崩盘如当头棒喝，使技术官僚们从教条主义式的盲目自满中猛醒过来，迫使他们重新审视那些长期未受质疑的货币正统观念。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_02",
+    "group_id": 111,
+    "group_name": "jolt, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with contradictory intelligence reports, the prime minister began to ___ between launching an immediate pre-emptive strike and pursuing protracted diplomatic sanctions through the United Nations Security Council.",
+    "options": [
+      "jolt",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟介词短语“between launching an immediate pre-emptive strike and pursuing protracted diplomatic sanctions”，指在两种重大战略抉择之间权衡不定、摇摆犹豫。在选项中，唯有 waver 具有表认知/决策层面摇摆的专属固定搭配“waver between A and B”。",
+    "distractor_analysis": {
+      "waver": "正确。waver 为不及物动词，意为“（意见、立场、抉择上）犹豫不决、动摇”，与“between A and B”构成经典学术与政论高频搭配，精准表达在两项决策之间举棋不定的认知心理。",
+      "jolt": "错误。jolt 意为“震动、颠簸；使震惊”，无论作及物还是不及物动词，均表示突然受外力冲击或剧烈震荡，无法与“between A and B”搭配表达认知上的犹豫取舍。",
+      "quiver": "错误。quiver 意为“发抖、轻微震颤”，主要描述物理形态或情绪激动时的生理颤动（如声音颤抖、树叶颤动），不可与介词 between 搭配表示政策选择层面的动摇。",
+      "writhe": "错误。writhe 意为“（因剧痛、困窘等）翻滚扭动”，侧重躯体的扭曲与极度痛苦，无法与介词 between 搭配表达政治或理性思维上的举棋不定。"
+    },
+    "translation": "面对相互矛盾的情报报告，首相开始在立即发动先发制人的打击与通过联合国安理会寻求旷日持久的外交制裁之间举棋不定。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_03",
+    "group_id": 112,
+    "group_name": "juggle, chuck, hurtle, bombard",
+    "level": "TEM-8",
+    "target_word": "juggle",
+    "question": "As central bankers attempt to ___ competing policy imperatives—curbing persistent core inflation while averting a broader sovereign debt crisis—any slight miscalculation could trigger severe structural stagnation across regional markets.",
+    "options": [
+      "juggle",
+      "chuck",
+      "hurtle",
+      "bombard"
+    ],
+    "answer": "juggle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb governs the direct object 'competing policy imperatives', which is subsequently elaborated by the coordinated dash-clause ('curbing persistent core inflation while averting a broader sovereign debt crisis'), demanding a verb meaning to simultaneously balance and manage precarious, conflicting commitments.",
+    "distractor_analysis": {
+      "juggle": "正确。juggle 意为“尽力同时兼顾、应对（多项任务、相互冲突的诉求等）”，在宏观认知与决策语境中常与 competing imperatives / demands / priorities 构成经典动宾搭配。破折号后列举的“遏制通胀”与“防范债务危机”正是央行必须同时维系的平衡两翼，与 juggle 构成精确匹配。",
+      "chuck": "错误。chuck 意为“轻率抛弃、扔掉”（带有明显的口语与随意色彩）。央行官员在此面对极其棘手的双重使命，并对潜在的停滞风险保持高度戒备，绝非“弃置”政策目标，在语体色彩与语义逻辑上均不成立。",
+      "hurtle": "错误。hurtle 主要用作不及物动词，意为“（猛烈且快速地）冲、飞驰”（通常后接 towards / into 等介词短语），无法直接接抽象名词短语 competing policy imperatives 作及物动词宾语，存在根本句法阻碍。",
+      "bombard": "错误。bombard 意为“轰击、连珠炮似地质问或向……大量倾倒”，及物动词句型通常为 bombard sb with sth，其宾语须为承受冲击的对象（如人或实体），不可直接接 policy imperatives 表示执行或权衡政策，违背选择限制。"
+    },
+    "translation": "随着央行官员试图同时兼顾相互冲突的政策目标——在遏制顽固的核心通胀的同时避免更广泛的主权债务危机——任何轻微的误判都可能在区域市场引发严重的结构性停滞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_04",
+    "group_id": 112,
+    "group_name": "juggle, chuck, hurtle, bombard",
+    "level": "TEM-8",
+    "target_word": "chuck",
+    "question": "Weary of administrative burdens and bureaucratic inertia, the distinguished scholar resolved to ___ his lucrative tenure at the institute, shocking colleagues who considered the abrupt abandonment of his post sheer folly.",
+    "options": [
+      "juggle",
+      "chuck",
+      "hurtle",
+      "bombard"
+    ],
+    "answer": "chuck",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The dependent relative clause explicitly designates the action as 'the abrupt abandonment of his post', which uniquely matches the transitive lexicalized use of 'chuck' meaning to abandon or discard a career, job, or post.",
+    "distractor_analysis": {
+      "chuck": "正确。chuck 此处考查高级熟词僻义，意为“放弃、抛弃、辞去（职位或事业）”（MW: to discard or reject: abandon; e.g., chuck one's career/job）。后文定语从句中的“abrupt abandonment of his post”（断然弃职离去）是无可辩驳的语义锚点，与 chuck his lucrative tenure 形成精准呼应。",
+      "juggle": "错误。juggle 意为“尽力兼顾、勉力应付（工作或生活职责）”。若填入 juggle，意指学者试图兼顾该职位与其它事务，与后文明确指出的“abrupt abandonment”（决然放弃、辞职）形成不可调和的逻辑冲突。",
+      "hurtle": "错误。hurtle 意为“飞驰、疾冲”，为不及物动词，无法直接带宾语 his lucrative tenure，句法结构不成立。",
+      "bombard": "错误。bombard 意为“轰炸、大量施加”，动作对象通常为人或受击靶标，不可与 tenure（终身教职）搭配，动宾语义严重断裂。"
+    },
+    "translation": "由于厌倦了行政负担和官僚体制的惰性，这位杰出的学者毅然决然辞去了他在研究所收入丰厚的终身教职，这令其同僚大为震惊，他们认为这种突然弃职的举动纯属愚蠢之举。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_05",
+    "group_id": 113,
+    "group_name": "juxtapose, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "juxtapose",
+    "question": "In her comparative cultural critique, the scholar sought to ___ seventeenth-century aristocratic portraits with contemporaneous woodcuts of peasant revolts to expose deep ideological contradictions.",
+    "options": [
+      "juxtapose",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "juxtapose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive construction followed by contrasting visual corpora linked by the prepositional frame '___ [Entity A] with [Entity B]' to expose ideological contradictions exclusively selects 'juxtapose'.",
+    "distractor_analysis": {
+      "juxtapose": "正确。意为“把……并置/并列（以形成对比或对照）”，在学术与文化批评语境中构成固定搭配 'juxtapose X with Y'，表示将两个意象或文本并列以揭示深层矛盾，句法与语义完全契合。",
+      "ladle": "错误。意为“用勺舀取”或引申为“大量给予（赞美、款项等）”，常与介词 out 或 onto/upon 搭配，无法接两个并列的具象历史文本，与介词 with 连用在语法和语义上均不成立。",
+      "siphon": "错误。意为“用虹吸管输送”或隐喻为“抽取、暗中转移（资金或资源）”，典型搭配为 'siphon X from Y into Z'，与本句文本并置分析的语境及介词 with 存在严重句法断裂。",
+      "stratify": "错误。意为“使……分层，使形成阶层”，通常接单一集合名词作宾语（如 stratify a population/society），无法用于 'stratify A with B' 来表示两者对照，语意不通。"
+    },
+    "translation": "在其比较文化批判中，这位学者试图将17世纪的贵族肖像画与同期的农民起义木刻版画并置，以揭示其中深刻的意识形态矛盾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_06",
+    "group_id": 113,
+    "group_name": "juxtapose, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Eager to curry favor with the incoming administration, sycophantic commentators continued to ___ uncritical adulation upon the newly appointed minister, deliberately overlooking her blatant administrative incompetence.",
+    "options": [
+      "juxtapose",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic rhetorical collocation '___ [profuse praise/adulation] upon [someone]' within an evaluative political critique uniquely selects the metaphorical verb 'ladle'.",
+    "distractor_analysis": {
+      "ladle": "正确。在此取其高级比喻义，意为“大量、不加节制地施予（赞赏、奉承等）”，常与介词 upon 或 on 连用（即 'ladle adulation/praise upon sb.'）。其贬义色彩与前文的 'sycophantic'（阿谀奉承的）及后文的失职语境高度呼应，修辞极为地道。",
+      "juxtapose": "错误。意为“并置对比”，要求宾语体现双重对比实体，且通常搭配介词 with 或 against，绝不能与单数抽象情感名词 'adulation' 及介词 'upon' 搭配，句法结构完全破裂。",
+      "siphon": "错误。意为“抽调、挪用（款项或物资）”，搭配介词为 from 或 into，语义指向资源的非法剥离而非赋予赞赏，与 'adulation upon' 产生严重的配伍与方向冲突。",
+      "stratify": "错误。意为“使分层、使形成等级”，属于社会学或地质学专用动词，宾语多为社会、岩层或样本群体，无法支配抽象感情名词 'adulation'，亦无接 'upon' 的用法。"
+    },
+    "translation": "为了讨好新一届政府，阿谀奉承的评论家们不断向新任命的部长倾倒盲目的赞辞，刻意对其显而易见的行政无能视而不见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_07",
+    "group_id": 114,
+    "group_name": "knead, wield, ruffle, tamper",
+    "level": "TEM-8",
+    "target_word": "knead",
+    "question": "To alleviate somatic distress and facilitate cognitive recovery in post-concussion patients, clinicians often ___ the hypertonic cervical musculature to improve regional blood circulation and decrease sympathetic nervous arousal.",
+    "options": [
+      "knead",
+      "wield",
+      "ruffle",
+      "tamper"
+    ],
+    "answer": "knead",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点在于动词宾语‘the hypertonic cervical musculature’（高张力的颈部肌群）与治疗目的‘to improve regional blood circulation...’。在所有选项中，仅有 knead 具备‘为医疗或舒缓目的用手法推拿、揉捏人体组织’（manually manipulate someone's body for medicinal purposes）的专有释义；tamper 为不及物动词（后须接 with），句法直接不符；wield（行使权力/挥舞工具）与 ruffle（弄皱/扰乱）在动宾搭配和生理康复语境上均产生严重语义断裂。",
+    "distractor_analysis": {
+      "knead": "正确。Merriam-Webster 将其精准定义为‘manually manipulate (someone's body), usually for medicinal or relaxation purposes’（出于医疗或放松目的推拿、揉捏某人的肌体）。本句涉及临床神经与躯体康复，宾语是痉挛僵硬的颈部肌肉群（hypertonic cervical musculature），与 knead 形成最为严谨地道的医学搭配。",
+      "wield": "错误。意为‘操纵、挥舞（武器或工具）’或引申为‘行使、运用（权力、权威或影响力）’（如 wield authority/influence），无法以解剖学上的‘肌群’作为施动对象，语义搭配严重不当。",
+      "ruffle": "错误。本义指‘弄乱、弄皱（头发、羽毛或水面）’，引申为‘使心烦意乱、打破（宁静/镇定）’（如 ruffle feathers / ruffle one's composure），既无深层肌肉推拿的物理含义，更无缓解张力的医学治疗内涵。",
+      "tamper": "错误。表示‘篡改、胡乱摆弄、非法干预’，在现代英语中属于严格的不及物动词，后接客体时必须搭配介词 with（如 tamper with the evidence）；此处空格后直接接名词短语作宾语，存在直接的及物性句法冲突，且其贬义消极色彩与医疗救治语义完全相悖。"
+    },
+    "translation": "为了缓解脑震荡后患者的躯体痛苦并促进其认知恢复，临床医生通常会揉捏推拿患者高张力的颈部肌群，以改善局部血液循环并降低交感神经的兴奋状态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_08",
+    "group_id": 114,
+    "group_name": "knead, wield, ruffle, tamper",
+    "level": "TEM-8",
+    "target_word": "wield",
+    "question": "Because algorithmic architectures quietly govern information dissemination, digital monopolies can now ___ unprecedented cognitive influence over electoral perceptions without triggering the regulatory scrutiny historically applied to conventional broadcast media.",
+    "options": [
+      "knead",
+      "wield",
+      "ruffle",
+      "tamper"
+    ],
+    "answer": "wield",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点在于及物动宾结构‘___ unprecedented cognitive influence over...’。在政治哲学与认知传播学的高阶学术语境中，表示‘行使、施加（影响力、权力）’的标准动宾搭配是 wield influence over；tamper 是不及物动词（必须接介词 with），句法结构直接不成立；knead（揉捏物体/肌肉）与 ruffle（弄乱表面/使烦乱）在认知权力的行使语境中均产生严重的语义割裂。",
+    "distractor_analysis": {
+      "wield": "正确。该词在高阶学术与政经话语中专指‘行使、施加（巨大的影响力、控制力或权力）’，与‘unprecedented cognitive influence over electoral perceptions’（对选民认知产生前所未有的影响力）构成严密契合的固定搭配（wield influence over）。",
+      "knead": "错误。本义为‘揉捏（面团、泥土）’或‘推拿按摩（肌肉）’，引申义通常为通过反复揉合把分散要素整合成一体（常接 into，如 knead disparate materials into a whole），绝不能直接支配抽象的‘influence over’表达施加影响力。",
+      "ruffle": "错误。意为‘使起皱、扰乱’，其典型搭配对象为 feathers（羽毛）、hair（头发）或 composure（镇定心态），无法充当支配‘influence’以表示行使或施加力量的谓语动词。",
+      "tamper": "错误。当表达‘干预、篡改、不当干涉’时为不及物动词，必须与介词 with 连用（tamper with）；在本句中若无 with 则产生严重的及物语法错误，无法直接带宾语短语。"
+    },
+    "translation": "由于算法架构悄然主导着信息的传播，数字垄断巨头如今能够对选民的认知施加前所未有的影响力，却不会引发历史上针对传统广播媒体所实施的监管审查。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_09",
+    "group_id": 115,
+    "group_name": "manicure, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "manicure",
+    "question": "To preserve the estate’s eighteenth-century grandeur, conservationists painstakingly ___ the sprawling parterres and topiary corridors each dawn, ensuring that not a single erratic sprig compromises their immaculate, geometrically precise contours.",
+    "options": [
+      "manicure",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "manicure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocates with 'sprawling parterres and topiary corridors', reinforced by 'painstakingly' and 'immaculate, geometrically precise contours', denoting meticulous trimming to maintain neatness.",
+    "distractor_analysis": {
+      "manicure": "正确。Merriam-Webster将该动词定义为“to trim closely and neatly”（仔细且匀称整齐地修剪）。在高级书面语中，manicure专用于对草坪、花坛（parterres）或灌木绿雕（topiary corridors）进行极为精细、一丝不苟的园艺塑形修剪。句中“painstakingly”（煞费苦心地）与“immaculate, geometrically precise contours”（完美无瑕、几何级精确的轮廓）构成强有力的语境搭配锚点，完美契合主句描述的精细化管护动作。",
+      "lop": "错误。lop通常指用重工具砍掉树木的粗大枝条或切除肢体（常搭配off/away），强调粗重、剧烈的大幅度劈砍截断，与句中追求对称、微观细致的几何园艺修剪语境严重冲突。",
+      "pare": "错误。pare意为削去果皮、外壳或逐渐缩减费用预算（如pare down expenses），既不与植物景观空间（parterres and topiary）搭配，也无法表达园艺造型上的精心修葺。",
+      "indent": "错误。indent主要指使边缘呈锯齿状凹入、留下压痕或段落首行缩进，完全不具备修剪、平整植物的含义，属于词义错置。"
+    },
+    "translation": "为了维系庄园十八世纪的庄严气派，文物保护人员每逢拂晓便悉心修剪修整那些连绵的花坛与树雕长廊，确保没有一根杂乱的小枝破坏其完美对称、几何般精准的轮廓。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_10",
+    "group_id": 115,
+    "group_name": "manicure, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "Tasked with clearing the overgrown mountain pass, forestry workers used heavy axes to ___ off the thick, decaying boughs of ancient conifers before winter storms could bring them down upon the roadway.",
+    "options": [
+      "manicure",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Forms the fixed phrasal collocation 'lop off' with direct object 'thick, decaying boughs', reinforced by the instrument 'heavy axes'.",
+    "distractor_analysis": {
+      "lop": "正确。Merriam-Webster定义为'to cut off branches or twigs from; to cut off (something, such as a branch) from a plant — often used with off'。常指用刀斧等有力砍除粗重的大枝条。句中'used heavy axes'（使用重斧）与介词'off'及宾语'thick, decaying boughs'（粗大朽烂的树枝）构成了绝对排他的固定搭配与动作强度锚点。",
+      "manicure": "错误。manicure表示精心、细致地修剪（通常修剪指甲、草坪等表面整齐度），既无法与介词'off'构成砍伐短语，也与'heavy axes'这一重型粗暴作业工具产生严重的语域与语义冲突。",
+      "pare": "错误。pare虽可与off连用（pare off），但其核心义项为'削去薄皮、切除薄层'（如削去表皮、脂肪），动作轻柔表浅，绝不可能用于斧劈砍断粗壮沉重的树干大枝（thick, decaying boughs）。",
+      "indent": "错误。indent作动词表示'使成锯齿状、凹入、缩进'，既不存在*indent off*的动词短语用法，也与砍伐清障的行为动作完全无关。"
+    },
+    "translation": "负责清理杂草丛生的山口的林业工人们用重斧砍断了古老针叶树上粗大朽烂的枝干，以防冬日风暴将其吹倒砸向行车道。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_11",
+    "group_id": 116,
+    "group_name": "mire, muck, foul, slime",
+    "level": "TEM-8",
+    "target_word": "mire",
+    "question": "Protracted ideological disputes over epistemological foundations threatened to ___ the interdisciplinary research initiative in endless procedural wrangling, severely undermining its capacity to deliver actionable policy recommendations.",
+    "options": [
+      "mire",
+      "muck",
+      "foul",
+      "slime"
+    ],
+    "answer": "mire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is the transitive causative construction 'threatened to ___ [direct object] in [abstract state of stagnation]', uniquely selecting 'mire ... in' (to entangle someone or something in intractable difficulties or disputes).",
+    "distractor_analysis": {
+      "mire": "正确。mire 作及物动词引申用于抽象认知与组织语境，核心搭配为“mire sb./sth. in sth.”，意为“使某人/某事物深陷（纷争、僵局或繁冗程序等泥潭）”。句中“threatened to mire the ... initiative in endless procedural wrangling”（威胁要使该跨学科研究项目深陷无休止的程序纷争）在句法支配与学术思辨语域上均完全匹配。",
+      "muck": "错误。muck 作动词时，若后接介词 in 仅构成不及物习语“muck in”（主要见于英式英语，意为“搭伙苦干、齐心协力”），不存在“muck + 宾语 + in + 抽象名词”表示“使陷入泥潭”的及物句法结构；其表示搞砸时通常与 up 连用（muck up），在此处产生句法结构与语义的双重破裂。",
+      "foul": "错误。foul 作及物动词意为“弄脏、污染”或“缠住、挂住（机械/缆绳）”，引申为违规，其宾语通常为具体的物理实体、环境或竞赛规则，无法与抽象研究项目及介词短语“in endless procedural wrangling”搭配构成“陷入僵局”之意。",
+      "slime": "错误。slime 作动词主要意为“涂以黏液”或在新闻政治修辞中引申为“恶意抹黑、人格诋毁”，其支配结构为直接及物宾语（slime sb.），根本无法与介词短语“in ... wrangling”搭配，语义与语境完全脱节。"
+    },
+    "translation": "关于认识论基础的旷日持久的意识形态纷争，极有可能使这一跨学科研究项目深陷无休止的程序纠缠之中，从而严重削弱其提供切实可行政策建议的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_12",
+    "group_id": 116,
+    "group_name": "mire, muck, foul, slime",
+    "level": "TEM-8",
+    "target_word": "muck",
+    "question": "The senior econometrician warned that inexperienced policy analysts must not ___ about with the finely calibrated behavioral variables, cautioning that ill-informed meddling would introduce severe empirical distortions into the forecasting model.",
+    "options": [
+      "mire",
+      "muck",
+      "foul",
+      "slime"
+    ],
+    "answer": "muck",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is the idiomatic phrasal collocation '___ about with' (to tamper, meddle, or fool around recklessly with something delicate), reinforced directly by the parallel discursive clue 'ill-informed meddling'.",
+    "distractor_analysis": {
+      "mire": "错误。mire 无法与介词短语“about with”构成动词短语（英语中不存在“mire about with”的表达）。mire 属于及物动词或用于被动语态（mire ... in / be mired in），在此处造成严重的句法破裂。",
+      "muck": "正确。muck about with 为英语政经学术评论中高频使用的高阶短语动词，意为“胡乱摆弄、盲目干预、瞎折腾（尤指对复杂精密的系统或变量进行不当篡改）”。后文的“ill-informed meddling”（毫无根据的盲目干预）构成了完美的语意锚定。",
+      "foul": "错误。foul 虽可表示“搞砸、弄乱”（如与 up 构成 foul up），但英语中绝对不存在“foul about with”的动词短语搭配，直接填入在语法与词法上均不成立。",
+      "slime": "错误。slime 作为动词仅能作及物动词使用（意为“以黏液涂抹”或“诽谤、抹黑”），无法与介词组合“about with”连用，存在绝对的句法搭配违抗。"
+    },
+    "translation": "这位资深计量经济学家警告称，缺乏经验的政策分析师绝不可胡乱篡改那些经过精密校准的行为变量，并告诫说这种不明就里的瞎折腾会给预测模型带来严重的实证失真。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_13",
+    "group_id": 117,
+    "group_name": "misappropriate, loot, pinch, swipe",
+    "level": "TEM-8",
+    "target_word": "misappropriate",
+    "question": "A forensic audit revealed that senior municipal administrators systematically colluded with private developers to ___ millions of euros in public subsidies intended for the revitalization of impoverished urban districts.",
+    "options": [
+      "misappropriate",
+      "loot",
+      "pinch",
+      "swipe"
+    ],
+    "answer": "misappropriate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中“forensic audit”（法务审计）、“senior municipal administrators colluded”（市政高管合谋）以及宾语“public subsidies intended for...”（专用于……的公共补贴）构成决定性锚点，明确指向利用职务之便非法侵吞或挪用受托公款的行为。",
+    "distractor_analysis": {
+      "misappropriate": "正确。该词为正式法律及财经语体词汇，意为“侵吞、挪用（受托保管的资金或公款）”，与“public subsidies”（公共补贴）及法务审计披露的行政职务犯罪语境构成严密搭配。",
+      "loot": "排除。该词侧重在战争、骚乱或灾难等混乱动荡中进行物理上的“洗劫、抢夺”，不适用于描述官员通过官商勾结在制度内部伪造或非法转移专款的白领侵吞犯罪。",
+      "pinch": "排除。属非正式口语词汇（informal），常指顺手牵羊偷窃不值钱的小物件（petty theft），与严肃的市政公款审计和数百万欧元的大规模金融腐败语体产生严重冲突。",
+      "swipe": "排除。属于日常口语表达，指趁人不备顺手偷走某物，语体色彩极不正式，无法用于描述有组织、制度性的财政资金侵占行为。"
+    },
+    "translation": "一项法务审计显示，数名市政高级管理人员系统性地与私营开发商相勾结，侵吞了数百万欧元原本专门用于贫困城区改造的公共财政补贴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_14",
+    "group_id": 117,
+    "group_name": "misappropriate, loot, pinch, swipe",
+    "level": "TEM-8",
+    "target_word": "loot",
+    "question": "Taking advantage of the institutional vacuum following the civil conflict, armed militia groups stormed the regional repositories to ___ priceless historical artifacts before smuggling them into illicit overseas art markets.",
+    "options": [
+      "misappropriate",
+      "loot",
+      "pinch",
+      "swipe"
+    ],
+    "answer": "loot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中“civil conflict”（内战冲突）、“armed militia groups stormed...”（武装民兵组织强行冲击……）以及宾语“priceless historical artifacts”（无价历史文物）构成了排他性情境锚点，明确要求填入指代在武装战乱中大肆洗劫文物的专有动词。",
+    "distractor_analysis": {
+      "misappropriate": "排除。该词核心义在于背弃信托责任或滥用职务特权“挪用/侵吞受托财产”，行为主体必须对该财产具有法定监管或管理身份；武装民兵属于外部暴力侵入者，不存在“挪用受托资金/资产”的前提。",
+      "loot": "正确。该词特指在战争、武装冲突或暴乱时期公开闯入建筑内进行大规模“洗劫、掠夺”，与武装民兵洗劫博物馆/仓库文物的动宾搭配（loot artifacts）及宏大历史叙事语境完美吻合。",
+      "pinch": "排除。该词具有强烈的英式非正式口语色彩，指偷拿价值微小的琐碎物品，置于民兵武装冲突及国际文物走私的庄重学术语境中存在严重的语体破裂（register clash）。",
+      "swipe": "排除。为非正式口语词汇，意为顺手牵羊偷走随身小物件，语义轻微且语体随便，完全无法承载暴力冲入库房抢劫国宝级文物的严重罪行语义。"
+    },
+    "translation": "武装民兵组织趁内战后权力出现真空之机，强行闯入地方库房洗劫无价历史文物，随后将其走私至海外非法艺术品市场。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_15",
+    "group_id": 118,
+    "group_name": "misplace, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "misplace",
+    "question": "Entranced by ephemeral algorithmic yields, novice technocrats tend to ___ their uncritical trust in autonomous financial architectures, failing to anticipate structural vulnerabilities that could destabilize global markets.",
+    "options": [
+      "misplace",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "misplace",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The cognitive direct-object collocation 'uncritical trust in [something]' decisively requires 'misplace' (to misplace one's trust), indicating an unwise bestowal of confidence.",
+    "distractor_analysis": {
+      "misplace": "正确。misplace 在认知与心理评价语义场中具有典型的抽象引申搭配（misplace one's trust / confidence / faith in sth.），意为“错误地寄托（信任、信心等）”。本句表达技术专家盲目将信任错付于自动化金融系统，在搭配习惯与批判性语境上均无可挑剔。",
+      "ladle": "错误。ladle 作动词引申意为“大量倾注、不加节制地给予（赞美、忠告等）”，通常搭配介词 out 或 on/upon（如 ladle praise upon sb.），无法与介词 in 连用构成“寄托信任”的句法结构，语义与语用搭配均不成立。",
+      "siphon": "错误。siphon 意为“用虹吸管抽吸”或比喻意“暗中抽调、挪用（资金、资源）”，后接 funds, resources 等实体或金融资产，并常伴随介词 off/from... into...，根本无法支配抽象认知概念 trust。",
+      "stratify": "错误。stratify 意为“使分层、使形成阶层”，其宾语必须为可划分等级或层级的集合名词（如 society, population, sample, rock），与 trust 无法形成动宾搭配，属于严重的语义范畴错误。"
+    },
+    "translation": "被短暂的算法收益所迷惑，初出茅庐的技术官僚往往将他们毫无保留的信任错付于自主金融架构，未能预见到可能动摇全球市场的结构性漏洞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_16",
+    "group_id": 118,
+    "group_name": "misplace, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Desperate to curry favor with the authoritarian premier, obsequious state commentators routinely ___ lavish praise upon policy initiatives that have visibly exacerbated systemic economic decline.",
+    "options": [
+      "misplace",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic phrase pattern '___ lavish praise upon [something]' acts as the decisive anchor, which uniquely selects the verb 'ladle' (meaning to dispense or bestow unstintingly/profusely).",
+    "distractor_analysis": {
+      "ladle": "正确。ladle 原义为“用长柄勺舀取”，在政论与学术高阶英语中常作隐喻动词，意为“大肆给予、过量倾泻（赞扬、奉承、建议）”，标准搭配即为 ladle (lavish) praise/flattery upon/on someone or something。句中形容阿谀奉承的评论员对失败政策大肆吹捧，在句法结构与修辞色彩上完全契合。",
+      "misplace": "错误。misplace 意为“放错位置”或“错付（信任、关切等）”，核心动宾对象通常为 trust, confidence, loyalty 等，不能与介词 upon 连用表示“大肆给予赞美”；且其语义表达的是“放错”，无法体现主语急于献媚（curry favor）的主动吹捧行径。",
+      "siphon": "错误。siphon 指“通过虹吸管输送”或“抽走、转移（资产、资金）”，典型介词搭配为 from 或 off，表示“提取/转出”，与“向……倾泻赞美（praise upon...）”的施加方向与语义内涵完全背道而驰。",
+      "stratify": "错误。stratify 意为“使分层、分阶级化”，是社会学或地质学术语，宾语必须是可多层分化的系统或群体，绝不能与抽象的情感评价词 praise 构成及物动宾关系，亦无法连接介词 upon。"
+    },
+    "translation": "为了极力讨好那位专制首脑，阿谀奉承的官方评论员惯常对那些明显加剧了系统性经济衰退的政策举措大肆倾泻溢美之词。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_17",
+    "group_id": 119,
+    "group_name": "mutilate, mar, impair, blemish",
+    "level": "TEM-8",
+    "target_word": "mutilate",
+    "question": "Aggressive ideological censors sought to ___ the philosopher's posthumous treatise by excising vital dialectical passages, reducing a once coherent epistemology to a fragmented collection of disjointed aphorisms.",
+    "options": [
+      "mutilate",
+      "mar",
+      "impair",
+      "blemish"
+    ],
+    "answer": "mutilate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The instrumental clause 'by excising vital dialectical passages' combined with 'reducing... to a fragmented collection' strictly requires a verb denoting the violent truncation, dismemberment, or radical expurgation of an intellectual text/work.",
+    "distractor_analysis": {
+      "mutilate": "正确。本题考查文本与理论建构语境下的高阶搭配与引申义项。mutilate 原指“残割、肢解肢体”，在思想与文本（FIELD_COGNITION）语境中特指“通过删减、切除核心部分使原著残缺不全”（MW: to alter radically so as to make imperfect; to cut off or destroy an essential part of）。后文的由“by excising vital dialectical passages”（通过删节核心辩证段落）和“reducing... to a fragmented collection”（使之沦为支离破碎的汇编）构成了排他性语义锚点，精准契合 mutilate a text/treatise 的固定学术搭配。",
+      "mar": "干扰项。mar 意为“损毁、破坏（完美、外观或完整性）”（MW: to ruin or diminish the perfection or wholeness of），侧重于使原本完好的事物产生瑕疵或美感丧失，但无法指代通过暴力截除、实质性切除核心组成部分的“肢解式篡改”，语义力度明显不足且机制不符。",
+      "impair": "干扰项。impair 指“削弱、损害（功能、效能、认知能力或健康）”（MW: to diminish in function, ability, or strength），其核心支配对象是机能、知觉或能力（如 impair judgment/faculty），不能直接以具体著作 treatise 作宾语来表示文本上的物理/结构删割。",
+      "blemish": "干扰项。blemish 意为“玷污、给……留下污点”，多用于道德名誉（如 blemish one's reputation）或物体表面瑕疵，无法与学术著作（treatise）搭配以表达暴力删节核心章节的语境。"
+    },
+    "translation": "激进的意识形态审查官试图通过删节核心的辩证章节来残割这位哲学家遗著的完整性，将原本浑然一体的认识论体系沦为一堆支离破碎的警句汇编。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_18",
+    "group_id": 119,
+    "group_name": "mutilate, mar, impair, blemish",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "While the architect of the cognitive model was celebrated for conceptual elegance, persistent ambiguities in the taxonomy threatened to ___ the aesthetic symmetry of an otherwise pristine theoretical system.",
+    "options": [
+      "mutilate",
+      "mar",
+      "impair",
+      "blemish"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'aesthetic symmetry' co-occurring with the contrastive phrase 'an otherwise pristine theoretical system' decisively dictates 'mar', which lexicographically specifically applies to injury that spoils perfection, beauty, or form.",
+    "distractor_analysis": {
+      "mar": "正确。本题考查理论美学与认知结构语境下的绝对排他性搭配。在韦氏词典（Merriam-Webster）的权威辨析中明确强调：“MAR applies to injury that spoils perfection, as in beauty, form, or comfort”（mar 专门指破坏美感、形式或完整性等整体上的完美）。句中的宾语 'the aesthetic symmetry'（美学对称性）与后置修饰语 'an otherwise pristine theoretical system'（原本无瑕的理论系统）构成强逻辑锚点，mar the symmetry / mar the perfection 是高级学术英语中的典范级搭配。",
+      "mutilate": "干扰项。mutilate 强调物理性的“残割、肢解”或对重要部分的野蛮破坏，语义过于剧烈血腥，用来描述理论分类中轻微的“含混不清（ambiguities）”对“美学对称性”的破坏，属于严重的语域不当（register clash）与语义过载。",
+      "impair": "干扰项。impair 的核心语义在于使系统、器官或能力等在“功能与效能上劣化”（MW: suggests a making less complete or efficient by deterioration），典型搭配为功能、视力、记忆力或效率（如 impair function/efficiency），不可与静态形式、美学概念（aesthetic symmetry）搭配。",
+      "blemish": "干扰项。blemish 作及物动词时，其传统支配对象为名誉、品格（如 blemish one's unblemished record）或有形物体的表面，通常不与高度抽象的理论结构或形式特征（aesthetic symmetry）直接连用。"
+    },
+    "translation": "尽管该认知模型的构建者因概念的优雅性而备受赞誉，但其分类法中持续存在的含混不清之处，却有可能破坏这一原本无瑕的理论体系所具有的美学对称性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_19",
+    "group_id": 120,
+    "group_name": "nag, carp, lament, bemoan",
+    "level": "TEM-8",
+    "target_word": "nag",
+    "question": "Although the peer review panel endorsed the theoretical framework, a lingering discrepancy in the control data continued to ___ at the cognitive psychologist, preventing him from wholly embracing the findings.",
+    "options": [
+      "nag",
+      "carp",
+      "lament",
+      "bemoan"
+    ],
+    "answer": "nag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Prepositional frame '___ at + [human experiencer]' governed by an inanimate, abstract subject ('a lingering discrepancy'), which exclusively licenses 'nag' in the psychological sense of an unresolved doubt persistently unsettling one's mind.",
+    "distractor_analysis": {
+      "nag": "正确。此处考查认知心理语境下的固定搭配与隐喻用法：'nag at somebody' 表示‘（疑虑、异样、未决问题等）在某人心中挥之不去、持续困扰某人’。主语为无生命抽象名词'discrepancy'，与介词'at'及心理感受者'the cognitive psychologist'构成严密且唯一的认知动词搭配。",
+      "carp": "错误。carp 意为‘吹毛求疵、挑剔’，虽常与介词 at 搭配（carp at sth），但其选择限制（selectional restriction）严格要求主语必须是具有主观意识的人类行为主体，无生命概念 discrepancy 无法发出抱怨或挑剔行为，存在严重语义范畴冲突。",
+      "lament": "错误。lament 意为‘哀悼、对……深表悲痛’，在现代标准英语中多为及物动词（直接接宾语，如 lament the loss）或后接介词 for/over，不能与 at 连用；且其逻辑主语同样必须为能够体验悲伤的人类，而非抽象的数据差异。",
+      "bemoan": "错误。bemoan 为纯及物动词（monotransitive），其后必须直接加宾语（如 bemoan the discrepancy），绝不可接介词短语'at someone'，在句法结构上造成严重语法破损。"
+    },
+    "translation": "尽管同行评审专家组认可了该理论框架，但对照数据中一处挥之不去的分歧仍持续困扰着这位认知心理学家，使他无法完全信服并接纳该研究结论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b11_20",
+    "group_id": 120,
+    "group_name": "nag, carp, lament, bemoan",
+    "level": "TEM-8",
+    "target_word": "carp",
+    "question": "While mainstream economists welcomed the comprehensive fiscal reforms, dogmatic commentators continued to ___ at trivial procedural irregularities, willfully ignoring the policy's demonstrable macroeconomic benefits.",
+    "options": [
+      "nag",
+      "carp",
+      "lament",
+      "bemoan"
+    ],
+    "answer": "carp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic frame '___ at + [trivial faults/irregularities]' paired with an agentive subject ('commentators') expressing peevish, hypercritical fault-finding, which is the unique lexicographical domain of 'carp'.",
+    "distractor_analysis": {
+      "carp": "正确。此处考查动词短语搭配与态度评价色彩：'carp at sth' 意为‘对……吹毛求疵、无理挑剔’。句中主语为批判者'dogmatic commentators'，介词宾语为'trivial procedural irregularities'（琐碎的程序瑕疵），且与后文宏观收益形成鲜明反差，完美契合 carp 专指对微不足道之事的刁难与挑剔这一核心语义与句法配价。",
+      "nag": "错误。nag 作不及物动词后接 at 时（nag at sb），其介词宾语只能是‘被反复唠叨、催逼的人’，而不能是客观存在的缺陷或瑕疵（不可说 *nag at irregularities）；因此在搭配指向上存在严重语义断裂。",
+      "lament": "错误。lament 意为‘哀叹、痛惜’，在现代政论及学术语域中为及物动词，后接介词 at 属于句法违规（*lament at）；此外，lament 所表达的是对重大不幸或不可挽回之事的沉痛哀悼，与句中‘trivial’（琐碎的）所蕴含的苛刻挑剔语境极不契合。",
+      "bemoan": "错误。bemoan 是严格的纯及物动词，其后必须直接紧跟宾语（如 bemoan the irregularities），绝对禁止插入介词 at，代入题干会导致句法直接崩溃。"
+    },
+    "translation": "尽管主流经济学家对这项全面的财政改革表示欢迎，但教条主义的评论员们仍抓住琐碎的程序瑕疵不依不饶、吹毛求疵，刻意忽视了该政策所带来的显著宏观经济效益。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

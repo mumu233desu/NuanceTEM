@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b67_01",
+    "group_id": 671,
+    "group_name": "trauma, hypnosis, vexation, agitation",
+    "level": "TEM-8",
+    "target_word": "trauma",
+    "question": "Cognitive neuroscientists discovered that children subjected to early neglect often internalize profound emotional ___, which disrupts neural development and manifests as severe affective and behavioral disorders throughout adulthood.",
+    "options": [
+      "trauma",
+      "hypnosis",
+      "vexation",
+      "agitation"
+    ],
+    "answer": "trauma",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates directly with 'profound emotional ___' and serves as the causal agent of lasting neurological disruption and chronic psychiatric disorders resulting from early severe adversity.",
+    "distractor_analysis": {
+      "trauma": "正确。根据韦氏词典，trauma 指造成持久负面影响的严重心理创伤（an emotional wound or shock often having long-lasting effects）。在认知心理学与精神病学中，'emotional/psychological trauma' 是指代早期虐待或忽视所遗留深层心理损伤的固定学术搭配，与句中'internalize'（内化）、'disrupts neural development'（破坏神经发育）及成年期情感障碍形成严密的因果逻辑链条。",
+      "hypnosis": "错误。hypnosis 指催眠或催眠状态（an artificially induced trance state）。催眠是一种人为诱导的心理技术或专注状态，绝不可能由'早期忽视'内化产生，亦不能作导致终生神经发育紊乱的病因，语义完全不通。",
+      "vexation": "错误。vexation 指轻微的烦恼、恼火或困扰（the state of being annoyed or frustrated）。其语义层级极浅，与童年严重忽视、神经发育受阻及重度情感障碍这一严肃的临床病理语境存在严重的语域及语义严重失配（register clash and semantic trivialization）。",
+      "agitation": "错误。agitation 指身体或情绪上的躁动、不安（a state of nervous excitement or motor restlessness）。它属于一种即时发作的外显症状或生理状态，而非深埋体内并造成几十年神经发育损伤的潜在心理创伤；'internalize profound emotional agitation' 既不合搭配习惯，也混淆了'创伤本身'与'急性症状'。"
+    },
+    "translation": "认知神经科学家发现，遭受早期忽视的儿童往往会内化深重的情感创伤，这会破坏神经系统的正常发育，并在成年期演变为严重的情感与行为障碍。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_02",
+    "group_id": 671,
+    "group_name": "trauma, hypnosis, vexation, agitation",
+    "level": "TEM-8",
+    "target_word": "hypnosis",
+    "question": "Experimental psychologists demonstrated that subjects placed under deep ___ exhibited heightened suggestibility and altered perceptual processing, allowing clinicians to temporarily modulate their subjective perception of chronic physical pain.",
+    "options": [
+      "trauma",
+      "hypnosis",
+      "vexation",
+      "agitation"
+    ],
+    "answer": "hypnosis",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-collocational frame 'placed under deep ___' combined with the definitive psychological correlates 'heightened suggestibility' and clinical pain modulation.",
+    "distractor_analysis": {
+      "hypnosis": "正确。根据韦氏词典，hypnosis 指被诱导的催眠状态，其核心临床特征即为极高暗示性（heightened suggestibility）。'under deep hypnosis'（处于深度催眠中）是实验心理学与临床催眠镇痛（hypnoanalgesia）的绝对核心搭配，与后文通过高度受暗示性来调节主观疼痛知觉的语境无缝契合。",
+      "trauma": "错误。trauma 表示严重心理创伤或生理创伤。在句法搭配上，英语中不能说'placed under deep trauma'（通常用 sustain/suffer trauma）；在语义逻辑上，创伤并非临床医生用来提高暗示性以缓解患者疼痛的受控心理状态。",
+      "vexation": "错误。vexation 表示烦恼、懊恼。介词搭配严重不成立（英语无'placed under deep vexation'之说，仅作 in/with vexation）；且轻微恼火不可能带来'高度的受暗示性'，更不能用于临床镇痛。",
+      "agitation": "错误。agitation 表示躁动、激动。介词与句式搭配错误（表达处于躁动状态应用'in a state of agitation'，而非'under deep agitation'）；此外，躁动表现为焦虑或运动性不安，与催眠所要求的专注、顺从及高度受暗示状态在认知机制上截然对立。"
+    },
+    "translation": "实验心理学家证实，处于深度催眠状态下的受试者会表现出极高的受暗示性以及知觉处理机制的改变，这使得临床医生能够暂时调控他们对慢性躯体疼痛的主观感知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_03",
+    "group_id": 672,
+    "group_name": "vanguard, corps, infantry, battalion",
+    "level": "TEM-8",
+    "target_word": "vanguard",
+    "question": "By synthesizing phenomenological inquiry with empirical neurobiology, the Frankfurt laboratory positioned itself firmly in the ___ of contemporary cognitive philosophy, fundamentally altering how intentionality and subjective experience are conceptualized.",
+    "options": [
+      "vanguard",
+      "corps",
+      "infantry",
+      "battalion"
+    ],
+    "answer": "vanguard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Idiomatic collocation 'in the vanguard of [a field/discipline]', denoting the foremost pioneer or leading edge of an intellectual movement.",
+    "distractor_analysis": {
+      "vanguard": "正确。vanguard 原指军队前卫，在学术与思想语境中常构成固定搭配 'in/at the vanguard of sth'，意为‘处于……的前沿/先锋地位’，完美契合实验室引领当代认知哲学前沿的学术语境与介词搭配。",
+      "corps": "错误。corps 指从事特定职业或受命共同行动的‘团体/兵团’（如 press corps 记者团），不能与抽象学术领域构成 'in the corps of...' 的前沿引申义；考生常因读音而与同音词 core（核心，如 at the core of）发生混淆，属于典型的形音干扰项。",
+      "infantry": "错误。infantry 为不可数集合名词，意为‘步兵部队’，仅用于实指军事人力或极少数与步兵相关的具象比喻，既不能进入 'in the ___ of cognitive philosophy' 这一结构，更无法表达学术理论的‘前沿引领’之意。",
+      "battalion": "错误。battalion 意为‘营/大军’，引申指‘成群结队的大批人马’（通常强调规模庞大或呈压迫之势），无法与后接的学科领域构成领路先锋的抽象隐喻搭配。"
+    },
+    "translation": "通过将现象学探究与实证神经生物学相结合，法兰克福实验室将自身牢牢确立在当代认知哲学的先锋前沿，从根本上改变了意向性与主观体验的理论建构方式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_04",
+    "group_id": 672,
+    "group_name": "vanguard, corps, infantry, battalion",
+    "level": "TEM-8",
+    "target_word": "corps",
+    "question": "Rather than relying on disjointed research initiatives, the academy established an elite ___ of cognitive philosophers, whose unified epistemological framework provided the conceptual foundation for future artificial intelligence ethics.",
+    "options": [
+      "vanguard",
+      "corps",
+      "infantry",
+      "battalion"
+    ],
+    "answer": "corps",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Strong collocation 'an elite corps of [scholars/professionals]' functioning as an institutional, collaborative body of trained specialists.",
+    "distractor_analysis": {
+      "corps": "正确。corps 在此引申为‘具有共同专业使命或特殊训练的专门队伍/专门人才团体’，与 elite 构成经典高频学术搭配 'an elite corps of scholars/theorists'（一支精英学者团队），且与主干动词 established 以及后续的 unified framework 逻辑严密吻合。",
+      "vanguard": "错误。vanguard 侧重于所处的前导位置或时代潮流的先行者，语序与搭配通常为定冠词结构 'the vanguard of a movement'，而不会由学术机构作为行政编制单位来建立 'establish an elite vanguard of individuals'，存在明显的搭配与语义范畴偏离。",
+      "infantry": "错误。infantry 为不可数集合名词（步兵），在句法上受不定冠词 'an' 修饰属于语法错误；在语意上指底层步兵，与高端学术建构及 'elite ... of cognitive philosophers' 产生严重的语体与概念冲突。",
+      "battalion": "错误。battalion（营/大股人马）在修辞上强调人数庞大、蜂拥而至或带有战术防御性质（如 a battalion of lawyers/inspectors），与研究院为开展基础认识论建构所组建的精干、高度统一的专门研究团队（elite corps）语域不符。"
+    },
+    "translation": "该研究院没有依赖零散脱节的研究项目，而是组建了一支由认知哲学家构成的精锐学术团队，其高度统一的认识论框架为未来的工智能伦理奠定了概念基石。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_05",
+    "group_id": 673,
+    "group_name": "vulture, rowdy, ruffian, hooligan",
+    "level": "TEM-8",
+    "target_word": "vulture",
+    "question": "Dismissed by ethical critics as an unprincipled corporate ___, the distressed-debt investor systematically acquired the bankrupted retail giant’s devalued bonds solely to dismantle its remaining operational assets for exorbitant profit.",
+    "options": [
+      "vulture",
+      "rowdy",
+      "ruffian",
+      "hooligan"
+    ],
+    "answer": "vulture",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The decisive anchors are 'corporate ___', 'distressed-debt investor', 'bankrupted retail giant's devalued bonds', and 'dismantle its remaining operational assets for exorbitant profit'. In financial discourse, 'corporate vulture' (analogous to 'vulture fund/capitalist') is an established metaphorical collocation for an opportunistic predator feeding on insolvent firms.",
+    "distractor_analysis": {
+      "vulture": "正确。vulture（秃鹰）在此取其在政治与商业语境中的核心比喻义，指“趁人之危牟取暴利者、残酷掠夺濒死实体者”，与 corporate 构成金融新闻与学术评论中的经典修辞搭配（corporate vulture，企业掠夺者/破产秃鹰），与句中购买破产企业折价债券、拆解重组清算牟利的语境严丝合缝。",
+      "rowdy": "错误。rowdy 作名词指“吵闹粗暴之人、聚众闹事者”（a rough, loud, and disorderly person），侧重于公共场合的醉酒吵闹或喧嚣滋事，与公司金融重组及高阶商业资本运作完全不兼容，亦无 corporate rowdy 的搭配。",
+      "ruffian": "错误。ruffian 指“残暴恶棍、打手”（a cruel, violent, or brutal person），强调肉体暴力的使用或凶狠的犯罪行径，既不符合金融掠夺的理性算计与制度化运作语境，也不能与 corporate 组合指代破产掠食者。",
+      "hooligan": "错误。hooligan 指“街头流氓、破坏公物者”（a violent young troublemaker or vandal），多用于指称青年帮派街头斗殴或足球流氓破坏公共设施（vandalism），与企业破产重整中的资产剥离与债务套利语义严重脱节。"
+    },
+    "translation": "这位不良债务投资者被恪守商业道德的批评人士斥为毫无底线的“企业秃鹰”；他系统性地收购了这家破产零售巨头的贬值债券，其唯一目的就是拆解其剩余的运营资产以攫取巨额暴利。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_06",
+    "group_id": 673,
+    "group_name": "vulture, rowdy, ruffian, hooligan",
+    "level": "TEM-8",
+    "target_word": "rowdy",
+    "question": "Refusing to sentence the defendant as a dangerous felon or malicious vandal, the judge treated him merely as an intoxicated ___, citing his loud-mouthed, boisterous tavern antics as an irritating public nuisance rather than premeditated violence.",
+    "options": [
+      "vulture",
+      "rowdy",
+      "ruffian",
+      "hooligan"
+    ],
+    "answer": "rowdy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The decisive anchors are 'intoxicated ___', 'loud-mouthed, boisterous tavern antics', and the judicial contrast: 'an irritating public nuisance rather than premeditated violence'. This explicitly excludes dangerous criminal brutality ('ruffian') and malicious property vandalism ('hooligan'), fitting the exact lexicographical profile of 'rowdy' as a loud, disorderly brawler.",
+    "distractor_analysis": {
+      "rowdy": "正确。rowdy 作名词专指“吵闹粗暴之人、醉酒闹事者”（a rough, loud, and disorderly person），其核心特征在于高声喧嚣（loud-mouthed）、肆意喧闹（boisterous）及引发治安层面的轻微扰民（public nuisance），与酒馆闹剧（tavern antics）及醉酒状态（intoxicated）完美契合。",
+      "vulture": "错误。vulture 比喻“乘人之危劫掠弱者的贪婪掠夺者”，属于经济或道义层面的隐喻性掠食行为，置于酒馆醉酒喧哗、寻衅扰民的轻罪司法裁判语境中属于严重的语义范畴错位。",
+      "ruffian": "错误。ruffian 专指“残暴恶棍、强盗凶徒”，侧重肉体残酷性与恶性刑事犯罪（brutal, felonious violence）；而本句法官明确反向界定“Refusing to sentence... as a dangerous felon”并指明非预谋暴力（rather than premeditated violence），在罪行严重程度上直接排除了 ruffian。",
+      "hooligan": "错误。hooligan 强调具有集体破坏公物癖好、街头寻衅滋事的“流氓破坏分子”（vandal）；句中法官已明确排除“malicious vandal”，并指出其行径仅为酒馆喧哗扰民而非实质性毁坏，故 hooligan 因破坏性（vandalism）冲突而被排除。"
+    },
+    "translation": "法官拒绝将该被告定罪为危险的重罪犯或恶意的破坏分子，仅将其视为一名醉酒闹事者，并指出其在酒馆里高声喧哗、粗鲁放肆的闹剧只属于令人厌烦的扰民行为，而非蓄意暴力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_07",
+    "group_id": 674,
+    "group_name": "waddle, strut, lurch, stalk",
+    "level": "TEM-8",
+    "target_word": "waddle",
+    "question": "Observing the subject's clumsy locomotion, the cognitive kinesiologist noted that his ungainly ___—marked by lateral, side-to-side oscillations of the pelvis—significantly impaired his biomechanical efficiency during rapid walking trials.",
+    "options": [
+      "waddle",
+      "strut",
+      "lurch",
+      "stalk"
+    ],
+    "answer": "waddle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit modifier 'ungainly' coupled with the biomechanical definition 'marked by lateral, side-to-side oscillations of the pelvis' uniquely pinpoints the side-to-side tilting gait of a waddle, ruling out upright, sudden, or predatory strides.",
+    "distractor_analysis": {
+      "waddle": "正确。waddle作名词指‘摇摆步态，蹒跚步态’，其核心特征为步幅短小且身体或骨盆向两侧节律性倾斜摇晃（tilting/swaying from side to side）。句中的修饰语‘ungainly’（笨拙难看的）与破折号内的运动机制解释‘lateral, side-to-side oscillations of the pelvis’（骨盆左右横向摆动）构成了对waddle本质属性的严密闭环界定。",
+      "strut": "错误。strut指‘趾高气扬的大摇大摆，傲慢自满的步态’（a proud, stiff, or pompous walk），强调挺胸昂首、夸示优越感的仪态，不仅在生物力学上无左右摇晃（lateral oscillation）的特征，更与‘ungainly’（不雅的、笨拙的）在语义色彩上完全相悖。",
+      "lurch": "错误。lurch指‘突如其来的倾斜、踉跄或颠簸’（a sudden and unsteady movement or roll），侧重于单次突发、意外失衡的动态事件，而非一种具有持续横向规律摇晃的稳定步态模式（walking gait）。",
+      "stalk": "错误。stalk指‘高傲、僵硬或阴沉的大步前行’或‘隐蔽跟踪的步伐’（a stiff, haughty, or stealthy stride），侧重步幅开阔、带有压迫感或狩猎隐蔽性，与‘lateral, side-to-side oscillations’（左右摇摆晃动）的运动轨迹完全无关。"
+    },
+    "translation": "在观察受试者笨拙的走姿时，认知运动学专家指出，他那种以骨盆左右横向摆动为特征的难看摇摆步态，显著降低了其在快速步行测试中的生物力学效率。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_08",
+    "group_id": 674,
+    "group_name": "waddle, strut, lurch, stalk",
+    "level": "TEM-8",
+    "target_word": "strut",
+    "question": "In her behavioral analysis of status displays, the cognitive psychologist observed that the executive’s pompous ___ conveyed an exaggerated sense of self-importance, projecting hubristic dominance rather than genuine professional competence.",
+    "options": [
+      "waddle",
+      "strut",
+      "lurch",
+      "stalk"
+    ],
+    "answer": "strut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The premodifying adjective 'pompous' along with the semantic cues 'conveyed an exaggerated sense of self-importance' and 'hubristic dominance' decisively selects the arrogant swagger of a strut.",
+    "distractor_analysis": {
+      "strut": "正确。strut作为名词指‘昂首阔步、傲慢自大的大摇大摆’（a proud, pompous, or arrogant gait），常用于非语言交流和地位展示语境中，与前置定语‘pompous’（装腔作势的、爱摆架子的）构成经典搭配，且与后文‘exaggerated sense of self-importance’（过度膨胀的自大感）和‘hubristic dominance’（傲慢的支配欲）形成高度精确的语境契合。",
+      "waddle": "错误。waddle指‘摇摇摆摆的蹒跚步伐’，通常带有笨拙、滑稽或肥胖行动困难的形象特征，无法传达旨在展示权力、傲慢与支配欲的社会地位信号。",
+      "lurch": "错误。lurch指‘突然失控的踉跄、摇晃倾跌’，反映身体失衡或行动狼狈，与语境中高管蓄意表现出的装腔作势（pompous）及自我膨胀（self-importance）产生严重逻辑脱节。",
+      "stalk": "错误。stalk指‘悄悄跟踪’或‘冷酷、愤慨、僵直的大步迈行’（a stiff, grim, or stealthy walk），常带有险恶追猎或愤怒对峙的心理色彩，无法体现‘pompous’所包含的虚荣浮夸、大摇大摆的自得其乐。"
+    },
+    "translation": "在其关于地位展示的行为分析中，认知心理学家观察到，那位高管傲慢浮夸的阔步大摇大摆传递出一种夸大的自命不凡感，投射出的是傲慢的支配欲，而非真正的专业胜任力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_09",
+    "group_id": 675,
+    "group_name": "whack, rap, patter, quaver",
+    "level": "TEM-8",
+    "target_word": "whack",
+    "question": "Prolonged supply-chain disruptions and speculative hoarding threw the delicate pricing mechanisms of bulk commodities entirely out of ___, frustrating central bankers’ attempts to curb runaway headline inflation through aggressive monetary tightening.",
+    "options": [
+      "whack",
+      "rap",
+      "patter",
+      "quaver"
+    ],
+    "answer": "whack",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "The fixed idiomatic and prepositional frame 'threw ... entirely out of ___' functioning in high-end macroeconomic journalism to denote functional breakdown or severe disequilibrium. Only 'whack' forms the deeply entrenched idiom 'out of whack' (not working properly or in normal condition; out of alignment); none of the distractors ('rap', 'patter', 'quaver') syntactically or idiomatically combines with 'out of'.",
+    "distractor_analysis": {
+      "whack": "正确。whack 与介词短语结合构成经典习语“out of whack”，意为“出毛病，运转异常，失去平衡/协调”（not operating properly or in normal condition; out of alignment）。在《经济学人》（The Economist）及《金融时报》（Financial Times）等高端政经评论中，“throw/knock ... out of whack”是描述市场机制失衡、供需结构错配的高频地道表达。代入句中（“threw the delicate pricing mechanisms... entirely out of whack”，使脆弱的定价机制完全陷入失衡/紊乱），与后文通胀失控、紧缩受挫的逻辑高度契合。",
+      "rap": "错误。rap 作名词指“轻快的敲击（声）”、“严厉斥责”或“刑责”（如 take the rap 顶罪，bum rap 冤假错案），英语中根本不存在“out of rap”这一介词搭配，代入句中会导致严重的句法破损与习语搭配断裂（collocational rupture）。",
+      "patter": "错误。patter 作名词指雨点或脚步发出的“轻拍声、嗒嗒声”，或特指推销员、江湖术士连珠炮式的“行话、滑头套话”（sales patter），无法与“out of”构成任何表示“紊乱、失灵”的习语搭配，“out of patter”在英语中不存在。",
+      "quaver": "错误。quaver 作名词指由于紧张、恐惧等情绪引起的“声音颤抖、颤音”，或在乐理中指“八分音符”。该词无论在物理语境还是转义语境中均不能与“out of”搭配，“out of quaver”在句法上不成立。"
+    },
+    "translation": "旷日持久的供应链中断与投机性囤积使大宗商品脆弱的定价机制完全陷入紊乱与失衡，令各国央行试图通过激进货币紧缩来遏制失控的总体通胀的努力屡屡受挫。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_10",
+    "group_id": 675,
+    "group_name": "whack, rap, patter, quaver",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "During the courtroom simulation, the judge punctuated his ruling with a sharp ___ of the wooden gavel, instantly arresting the spectators' wandering attention and compelling their cognitive focus back to the proceedings.",
+    "options": [
+      "whack",
+      "rap",
+      "patter",
+      "quaver"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Strict institutional collocation 'a sharp ___ of the wooden gavel'. In formal English, the authoritative, crisp percussive strike of a judicial gavel is canonically expressed by 'rap'; 'whack' is an informal/violent heavy blow, 'patter' requires repetitive light tapping, and 'quaver' refers exclusively to vocal trembling.",
+    "distractor_analysis": {
+      "rap": "正确。rap 作名词指“（硬物撞击产生的）急促而清脆的敲击声”，与法槌（gavel）构成法律及正式会议场景中极其经典的固定搭配“a sharp rap of the gavel”（法槌清脆的一击）。该词精确传达了法官在司法语境中以短促有力的物理打击声唤回受众注意力与认知聚焦的权威性动作。",
+      "whack": "错误。whack 指粗重、笨拙或暴力的猛击及巨响（如球棒、木板打砸），若用于法官击槌则造成严重的语域错配（register clash）和动作失范，破坏了法庭程序庄重严谨的语用色彩。",
+      "patter": "错误。patter 指细碎连续的轻柔拍打声（如 patter of rain），语义上包含复数次、连续性轻音，既无法修饰单次动作“a sharp ___”，也不能形容坚硬木质法槌的清脆声响。",
+      "quaver": "错误。quaver 指声音或音调的颤抖、哆嗦，特指人声颤音（quaver in one's voice），不可用于指代木质器具敲打台面所发出的实体撞击声。"
+    },
+    "translation": "在法庭模拟过程中，法官以木槌清脆的一击强调其裁决，瞬间吸引了旁听者涣散的注意力，迫使他们的认知焦点重新回到审理程序上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_11",
+    "group_id": 676,
+    "group_name": "arcade, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "arcade",
+    "question": "Strolling through the nineteenth-century iron-and-glass ___, Walter Benjamin identified this arched promenade of boutique shopfronts as the quintessential architectural emblem of emerging commodity capitalism and Parisian modernism.",
+    "options": [
+      "arcade",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "arcade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Co-occurrence with 'iron-and-glass', 'arched promenade of boutique shopfronts', and Walter Benjamin's cultural critique of 19th-century Paris uniquely points to an architectural arcade (拱廊/拱顶商业街).",
+    "distractor_analysis": {
+      "arcade": "正确。arcade指由一系列拱门支撑的拱廊、连拱建筑或带玻璃拱顶的商店街。本句中“iron-and-glass”（铁与玻璃结构）、“arched promenade of boutique shopfronts”（精品店铺林立的拱形散步街）以及瓦尔特·本雅明（Walter Benjamin）对巴黎拱廊街的研究（《拱廊街计划》）构成了决定性的词汇和文化语境锚点。",
+      "hull": "错误。hull主要指船体、气囊外壳或剥离后的建筑空壳，无法与“iron-and-glass”及“arched promenade of boutique shopfronts”等指代拱门商廊的描述匹配。",
+      "mound": "错误。mound指土堆、石堆或隆起的小丘，属于自然地形或粗糙堆积物，与19世纪工业文明背景下的铁构玻璃都市建筑完全无关。",
+      "hangar": "错误。hangar指用于停放和维修飞机的机库或棚厂，不仅在时间线和功能上与本雅明笔下的19世纪巴黎商业漫步街完全脱节，也无法表示店铺连缀的拱廊通道。"
+    },
+    "translation": "漫步于19世纪钢铁与玻璃构筑的拱廊街中，瓦尔特·本雅明将这种精品店铺林立的拱顶长廊视作新兴商品资本主义与巴黎现代主义最典型的建筑象征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_12",
+    "group_id": 676,
+    "group_name": "arcade, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "hull",
+    "question": "Naval investigators determined that corrosive seawater had catastrophically compromised the outer ___ of the merchant vessel, rupturing its pressurized ballast compartments before emergency salvage tugs could intervene.",
+    "options": [
+      "arcade",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "hull",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The nautical architectural frame 'outer ___ of the merchant vessel' directly enclosing 'pressurized ballast compartments' decisively requires 'hull' (船体/外壳).",
+    "distractor_analysis": {
+      "hull": "正确。hull在此指船舶的主体结构、外板或船体（outer hull即“外层船体”）。句中的“merchant vessel”（商船）、“corrosive seawater”（具腐蚀性的海水）以及“pressurized ballast compartments”（承压压载水舱）构成了不可替代的船舶工程学锚点。",
+      "arcade": "错误。arcade为建筑学专有名词，指连拱廊或拱顶街，完全无法充当商船装载压载水舱的外层结构体。",
+      "mound": "错误。mound指土石堆、堆丘，属于地貌概念，不能与商船的外部刚性船体结构产生搭配。",
+      "hangar": "错误。hangar指飞机库；商船并非航空母舰，不存在容纳压载水舱的“outer hangar”，在航海与船舶结构语境下存在致命的术语与逻辑错位。"
+    },
+    "translation": "海事调查人员认定，腐蚀性海水对这艘商船的外层船体造成了灾难性损坏，并在应急打捞拖船赶到介入之前破裂了其承压压载水舱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_13",
+    "group_id": 677,
+    "group_name": "baritone, tuba, trump, cornet",
+    "level": "TEM-8",
+    "target_word": "baritone",
+    "question": "Cognitive musicologists observe that listeners instinctively recognize the mellow resonance of the ___, classified taxonomically as the second lowest brass wind instrument, for its singular capacity to bridge tenor clarity and bass depth.",
+    "options": [
+      "baritone",
+      "tuba",
+      "trump",
+      "cornet"
+    ],
+    "answer": "baritone",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The definitive phrase 'classified taxonomically as the second lowest brass wind instrument' aligns verbatim with the official Merriam-Webster lexicographical definition of baritone, while 'bridge tenor clarity and bass depth' confirms its intermediate acoustic position.",
+    "distractor_analysis": {
+      "baritone": "正确。Merriam-Webster 将其精确定义为“the second lowest brass wind instrument”（第二低音铜管乐器/上低音号），其声学音域恰好处于次中音（tenor）与低音（bass）之间。题干中的分类学定义“second lowest brass wind instrument”以及连接高低声部的功能“bridge tenor clarity and bass depth”构成了无可辩驳的决定性排他锚点。",
+      "tuba": "错误。tuba（大号/低音号）在声学分类上是铜管乐器中音域最低（the lowest-pitched）的乐器，而非“第二低音”（second lowest），与题干中的分类学事实直接冲突。",
+      "trump": "错误。trump 作名词时多用于纸牌游戏中表示“王牌”，其乐器义项属于古英语或诗意用法，等同于高音的小号（trumpet/horn），绝非中低音区的第二低音铜管乐器。",
+      "cornet": "错误。cornet（短号）属于高音铜管乐器（soprano brass instrument），构造与音高与小号相近，承担高音区旋律，在音域层级上与中低音铜管乐器完全不符。"
+    },
+    "translation": "认知音乐学家指出，听众能够本能地辨别出上低音号那圆润的共鸣——它在分类学上被定义为第二低音铜管乐器——因其具备衔接次中音之明澈与低音之沉厚之独特能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_14",
+    "group_id": 677,
+    "group_name": "baritone, tuba, trump, cornet",
+    "level": "TEM-8",
+    "target_word": "tuba",
+    "question": "In psychoacoustic experiments, subjects demonstrated that cognitive comprehension of orchestral harmony is anchored by the ___, whose massive bore and lowest-pitched brass register establish the indispensable foundation of the ensemble.",
+    "options": [
+      "baritone",
+      "tuba",
+      "trump",
+      "cornet"
+    ],
+    "answer": "tuba",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The physical and acoustic descriptors 'massive bore' and 'lowest-pitched brass register' unequivocally delineate the tuba, which alone among the options occupies the absolute lowest fundamental register and serves as the bass foundation of the ensemble.",
+    "distractor_analysis": {
+      "tuba": "正确。tuba（大号）是铜管乐器家族中体积最大、管径最粗（massive bore）且音调绝对最低（lowest-pitched）的乐器，心理声学中交响乐和声的基础感知正是由其超低频声学基底（indispensable foundation）所奠定，完美契合题干的物理与声学锚点。",
+      "baritone": "错误。baritone（上低音号）音域高于大号，是“第二低音”（second lowest），主要负责中低音频段的过渡与和声填充，不具备管弦乐队中“最低铜管音区”（lowest-pitched brass register）及“和声基石”的物理定位。",
+      "trump": "错误。trump 作乐器解时指代高音铜管（小号/号角），或指纸牌中的“王牌”，无法与“massive bore”及“lowest-pitched”等低频物理声学特征兼容。",
+      "cornet": "错误。cornet（短号）为高音（soprano）铜管乐器，音域高亢嘹亮，管径小，属于旋律声部，绝不可能提供管弦乐队的“lowest-pitched brass register”或低音根基。"
+    },
+    "translation": "在心理声学实验中，受试者表明，对管弦乐和声的认知理解是以大号为依托的；大号巨大的管径与最低沉的铜管音区构成了乐团不可或缺的声学基石。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_15",
+    "group_id": 678,
+    "group_name": "blackout, trance, stupor, stupefaction",
+    "level": "TEM-8",
+    "target_word": "blackout",
+    "question": "During the high-G centrifuge trials, the aviator suffered an abrupt ___ induced by extreme gravitational acceleration, temporarily losing consciousness for several seconds before hemodynamic regulation normalized and full sensory awareness returned.",
+    "options": [
+      "blackout",
+      "trance",
+      "stupor",
+      "stupefaction"
+    ],
+    "answer": "blackout",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点在于航空航天生理学语境中的“induced by extreme gravitational acceleration”（由极度重力加速度诱发）以及随后的症状界定“temporarily losing consciousness for several seconds”（暂时性丧失意识数秒）。这完全吻合韦氏词典对 blackout 的核心释义（a momentary loss of consciousness，即因脑血流骤降导致的短暂昏厥/黑视），彻底排除了其余表示长期木僵或催眠恍惚的词汇。",
+    "distractor_analysis": {
+      "blackout": "正确。指因供血不足、脑缺氧或外力突发引起的“短暂意识丧失”（a momentary loss of consciousness）或“暂时性黑视晕厥”。与句中“abrupt”（突发性的）、“gravitational acceleration”（高G值离心力）以及“for several seconds”（持续数秒即自愈）形成严密的语义与医学语境闭环。",
+      "trance": "错误。主要指催眠、入定或通灵等精神出神、恍惚状态（an altered, hypnotic state of detachment），在此状态下肌体依然维持生命姿势且具有潜意识反应，绝非由极端重力加速度引起的机械性、突发性脑缺血昏厥。",
+      "stupor": "错误。指由于酒精、中枢抑制性药物中毒或严重病理创伤引起的“木僵、昏睡、重度迟钝状态”（a state of dullness, torpor, or reduced sensibility），通常表现为持续数小时的意识模糊与极度嗜睡迟钝，不能用于形容数秒内突发且伴随血流复原即刻消退的急性意识丧失。",
+      "stupefaction": "错误。多用于认知与情绪层面，指因极度惊愕、震惊或茫然而导致的“目瞪口呆、发懵”（overwhelming astonishment or daze），亦可指被药物麻痹后的迟钝状态，不能作生理性急性重力晕厥的特指表述。"
+    },
+    "translation": "在超重力离心机测试中，飞行员因极度的重力加速度而突发短暂意识丧失（黑视昏厥），昏迷了数秒钟，随后血液动力学调节恢复正常，其全部感官意识才得以恢复。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_16",
+    "group_id": 678,
+    "group_name": "blackout, trance, stupor, stupefaction",
+    "level": "TEM-8",
+    "target_word": "trance",
+    "question": "During the clinical demonstration of hypnotherapy, the patient lapsed into a profound ___ in which she remained remarkably responsive to verbal suggestions while exhibiting complete detachment from her immediate physical surroundings.",
+    "options": [
+      "blackout",
+      "trance",
+      "stupor",
+      "stupefaction"
+    ],
+    "answer": "trance",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点是“clinical demonstration of hypnotherapy”（催眠疗法的临床演示）与补语从句中的核心行为特征“remained remarkably responsive to verbal suggestions while exhibiting complete detachment from her immediate physical surroundings”（对言语暗示保持极高反应能力，同时对周遭物理环境完全解离）。这直接锁定了心理学上“催眠/出神状态”（trance）的唯一本质。",
+    "distractor_analysis": {
+      "trance": "正确。指催眠或神游状态（a somnambulistic or hypnotic condition），其本质特征是意识解离、对外界现实刺激不敏感，但对施术者的言语暗示（verbal suggestions）保持高度专注与受暗示性，与催眠疗法语境完全吻合。",
+      "blackout": "错误。指意识或记忆的完全空白与丧失（a temporary loss of consciousness or amnesia）。处于 blackout 状态下的个体认知通路完全中断，根本不可能表现出“remained remarkably responsive to verbal suggestions”（对言语暗示保持敏锐反应）。",
+      "stupor": "错误。指麻木、昏沉或反应迟钝（a state of extreme lethargy and unresponsiveness），处于木僵昏睡中的患者机体功能衰退、感知力低下，与句中高度选择性、敏锐的受暗示反应能力产生严重的逻辑反差。",
+      "stupefaction": "错误。指被强烈震惊或麻痹后的“目瞪口呆、茫然无措”（utter bewilderment or daze），是一种由于外部意外震慑导致的短时心理瘫痪，不具备催眠疗法中受控的深度解离与指令顺应性。"
+    },
+    "translation": "在催眠疗法的临床演示中，患者陷入了一种深度的催眠出神状态；在此状态下，她对言语暗示保持着极为敏锐的反应，同时却对身处的即时物理环境表现出完全的心理疏离。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_17",
+    "group_id": 679,
+    "group_name": "clutter, jumble, muddle, fuddle",
+    "level": "TEM-8",
+    "target_word": "clutter",
+    "question": "To prevent cognitive overload in safety-critical control rooms, systems engineers must systematically minimize interface ___, ensuring that superfluous visual indicators and redundant telemetry do not compromise the operator's situational awareness.",
+    "options": [
+      "clutter",
+      "jumble",
+      "muddle",
+      "fuddle"
+    ],
+    "answer": "clutter",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'interface' to form the established cognitive ergonomics term 'interface clutter', reinforced by 'superfluous visual indicators and redundant telemetry' which precisely invokes clutter's defining trait of extraneous, crowding elements impeding function.",
+    "distractor_analysis": {
+      "clutter": "正确。clutter 指因堆砌过多无用或多余物品而造成的“杂乱、拥塞”（a crowded or confused collection of superfluous things）。在认知心理学与人机工效学中，“interface clutter”（界面杂乱/冗余杂乱）是固定学术搭配；后文的“superfluous visual indicators and redundant telemetry”（多余的视觉指示与冗余遥测数据）直接对应其“因过量多余元素侵占有限空间而阻碍认知处理”的特质。",
+      "jumble": "错误。jumble 核心语义为不同类别事物的“杂乱混合体、无序混杂”（a confused mixture or hodgepodge of disparate items），侧重异质元素未按逻辑分类混在一起，而非界面上冗余多余元素造成的视觉拥塞与认知超载。",
+      "muddle": "错误。muddle 强调由于条理不清、计划不周或处理失当而产生的“混乱局面、糊涂状态或困境”（a state of bewildered confusion or bungled affairs），通常形容局势或抽象思维（如 an administrative muddle），不可作名词修饰界面上的多余视觉杂乱要素。",
+      "fuddle": "错误。fuddle 语义极其狭窄，专指因饮酒、药物或极度疲劳引起的“昏醉、迷糊状态”（a state of dazed confusion or intoxication），属于生理/心理昏沉，既无法与 interface 构成复合搭配，也脱离句子探讨的界面设计语义场。"
+    },
+    "translation": "为了防止安全攸关的控制室中出现认知超负荷，系统工程师必须系统性地减少界面杂乱，确保多余的视觉指示器和冗余的遥测数据不至于损害操作员的态势感知能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_18",
+    "group_id": 679,
+    "group_name": "clutter, jumble, muddle, fuddle",
+    "level": "TEM-8",
+    "target_word": "jumble",
+    "question": "Overlooking the historic harbor, the medieval quarter had evolved without municipal planning into a sprawling ___ of cantilevered timber houses, narrow cobblestone alleys, and precarious stone archways.",
+    "options": [
+      "clutter",
+      "jumble",
+      "muddle",
+      "fuddle"
+    ],
+    "answer": "jumble",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ARCHITECTURE",
+    "anchor_clue": "The spatial modifier 'sprawling' combined with the complement 'of cantilevered timber houses, narrow cobblestone alleys, and precarious stone archways' demands a noun denoting a physically disordered mass or chaotic aggregation of built structures in space. Lexicographically, only 'jumble' prototypically collocates with macroscopic architectural elements ('a jumble of houses/alleys/rooftops').",
+    "distractor_analysis": {
+      "jumble": "正确。jumble 作名词时指各类事物混乱混杂、杂乱簇拥的“无序聚合体、杂乱的一堆”（a confused or disordered mass or collection; a disordered heap or pile），在英语文学与建筑历史学语料中是描述未规划聚落中房屋与街巷无序交错的经典固定搭配（如 a jumble of houses/streets/rooftops）。句中前置修饰语 sprawling（在空间上杂乱蔓延的）与后接补足语 of cantilevered timber houses...（悬挑木屋、鹅卵石街巷与石拱门构成的建筑实体）构成了绝对排他的空间与物理锚点，唯有 jumble 完美契合。",
+      "clutter": "错误。clutter 指凌乱占据空间的“琐碎杂物、零星乱物”（an untidy collection of small, superfluous objects），主要用于描述房间、桌面或抽屉等微观空间内的杂乱堆积（如 desk clutter, a clutter of papers），无法用于指代由宏观建筑群和城市街巷构成的地理聚落；且 clutter 主要为不可数名词，通常不与描述大范围空间蔓延的 sprawling 搭配。",
+      "muddle": "错误。muddle 核心语义为组织不善或认知失调导致的“混乱局面、糊涂局势”（a state of mental confusion or a bungled situation），其后接介词 of 时主要搭配抽象认知或制度名词（如 a muddle of conflicting regulations/intentions）。muddle 在英语中从不用于指代客观存在的大型建筑物或街巷空间的杂乱物理堆叠（语料库中不存在 *a muddle of houses/alleys），与空间形容词 sprawling 搭配亦产生严重语义破裂。",
+      "fuddle": "错误。fuddle 仅指醉酒或极度疲惫所致的“神志昏迷、酩酊糊涂”（a state of daze or confusion, especially from intoxication），纯属心理与生理层面的意识状态，语法与语义范畴均与客观存在的建筑地形完全排斥。"
+    },
+    "translation": "俯瞰着历史悠久的港口，这座未经理性市政规划的中世纪街区，已经自发生长为一处由悬挑木屋、狭窄鹅卵石巷道以及险峻石拱门杂乱交织而成的庞大聚落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_19",
+    "group_id": 680,
+    "group_name": "contraceptive, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "contraceptive",
+    "question": "Behavioral economists observed that introducing a reliable, long-acting ___ reshaped adolescent risk cognition and educational aspirations, drastically curbing unintended pregnancies by removing the continuous cognitive burden of daily compliance.",
+    "options": [
+      "contraceptive",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "contraceptive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The medical modifier 'long-acting' combined with the functional consequences 'curbing unintended pregnancies' and eliminating 'daily compliance' forms an unbreakable semantic lock for contraceptive (specifically referencing long-acting reversible contraception).",
+    "distractor_analysis": {
+      "contraceptive": "正确。作名词指“避孕药具，避孕剂”。在行为经济学与生育认知语境中，“long-acting contraceptive”（长效避孕药具）为固定学术概念，精准呼应后文的“curbing unintended pregnancies”（遏制意外怀孕）以及解除“daily compliance”（每日遵医嘱服药）的心智负担，语域与句意高度吻合。",
+      "prod": "错误。作名词指“刺棒；促使行动的刺激或催促”。既无法与“long-acting”形成公共卫生/行为决策层面的合理搭配，也完全不具备“消除意外妊娠”的生理与行为学功能，填入导致语义断裂。",
+      "foil": "错误。作名词指“（形成鲜明对比的）陪衬物，衬托者”或“金属箔”。其核心内涵为借差异凸显他者特性，根本无法充当避免受孕的手段，语境严重错位。",
+      "buffer": "错误。作名词指“缓冲物，起缓冲作用的人或物”。尽管 buffer 可用于抽象层面的减压或缓冲，但在涉及具体生殖健康与消除怀孕风险的语境中，不能指代具体的避孕实体，亦无法与“daily compliance”形成合理的医学逻辑对应。"
+    },
+    "translation": "行为经济学家观察到，引入一种可靠的长效避孕药具重塑了青少年的风险认知与受教育志向，并通过免除每日服药依从性所带来的持续认知负担，大幅降低了意外怀孕的发生率。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b67_20",
+    "group_id": 680,
+    "group_name": "contraceptive, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The philosopher argued that cognitive dissonance, rather than an impediment to rationality, acts as an indispensable ___ to intellectual inquiry, rousing dormant faculties and forcing thinkers to revise unexamined orthodoxies.",
+    "options": [
+      "contraceptive",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame 'acts as an indispensable ___ to intellectual inquiry' together with the active participle phrase 'rousing dormant faculties and forcing thinkers to revise' definitively requires a noun meaning an inciting stimulus or spur.",
+    "distractor_analysis": {
+      "prod": "正确。作名词本义为“刺棒”，在认知与哲学语境中引申为“强烈的刺激，推动力，催化动因”，常与介词 to 搭配（a prod to sth.）。句中后置分词短语“rousing dormant faculties and forcing thinkers to revise unexamined orthodoxies”（唤醒沉睡的思维机能并迫使思想家修正未经审视的正统观念）明确锁定其作为外在刺激促发探究的语义功能。",
+      "contraceptive": "错误。作名词指“避孕药具”，即使强行作隐喻理解也意为“阻碍概念生成或萌发之物”，与后文激发心智活力、推动反思的能动语境发生绝对的逻辑方向逆转。",
+      "foil": "错误。作名词指“陪衬物，衬托者”，后接 to 时常指通过鲜明对比以衬托另一方的特质（如 a foil to the hero）。认知失调在此并非作为理性探究的对比参照物，更无法承担主动“唤醒机能并迫使修正”的能动刺激职能。",
+      "buffer": "错误。作名词指“缓冲物，减震器”，意图在隔绝冲击、缓和矛盾（常与 against/between 搭配）。该词在认知哲学中强调保护和屏蔽，与句中“rousing”（唤醒）与“forcing”（迫使）所体现的打破舒适区、施加认知冲击力的动态功能产生语义对立与搭配冲突。"
+    },
+    "translation": "这位哲学家认为，认知失调非但不是理性的障碍，反而是推动学术探究不可或缺的催化剂，它能唤醒沉睡的思维机能，并迫使思想家修正那些未经审视的正统观念。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

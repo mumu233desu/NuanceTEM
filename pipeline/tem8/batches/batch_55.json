@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b55_01",
+    "group_id": 551,
+    "group_name": "ludicrous, absurd, foolish, ridiculous",
+    "level": "TEM-8",
+    "target_word": "ludicrous",
+    "question": "Although rationally coherent and tactically sound, the envoy’s elaborate diplomatic ceremonial seemed undeniably ___, provoking harmless amusement rather than derisive scorn through the startling incongruity between his grandiosity and his diminutive entourage.",
+    "options": [
+      "ludicrous",
+      "absurd",
+      "foolish",
+      "ridiculous"
+    ],
+    "answer": "ludicrous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "句首让步从句以“rationally coherent”（逻辑自洽）排除了指责逻辑悖谬的 absurd，以“tactically sound”（策略稳健）排除了指责智谋或判断力缺陷的 foolish；句尾分词短语中，“rather than derisive scorn”（而非带有嘲弄意味的蔑视）断然否定了 ridiculous 所必需的轻蔑讥嘲（ridicule）色彩，而“provoking harmless amusement... through the startling incongruity”（通过惊人的不协调激起无伤大雅的逗趣）则构成了对 ludicrous（因形式与比例的不协调而引人发笑，且不含强烈恶意）的决定性排他锚点。",
+    "distractor_analysis": {
+      "ludicrous": "正确。根据权威词典辨析，ludicrous 核心语义专指因事物自身在形式上的过火夸张、比例失调或荒唐不协调（incongruity）而激起客观上的可笑或滑稽（amusing or laughable），且其情感色彩通常偏于客观展现，极少带有强烈的蔑视或主观恶意（rarely carries a strong implication of contempt）。句中特使宏大的排场与微小的随行队伍形成剧烈的反差失称（startling incongruity），并激起了善意的逗笑（harmless amusement）而非冷嘲蔑视（rather than derisive scorn），与 ludicrous 的词义内核及语体色彩完美契合。",
+      "absurd": "错误。absurd 侧重于对理性、逻辑、常识或事实真理的根本背离（marked by an extreme departure from reason or common sense），指事物在逻辑上自相矛盾、不可理喻或荒谬绝伦。然而，句首让步从句已明确界定该外交仪节是“rationally coherent”（在理性逻辑上高度自洽），这一正面断言在句法逻辑上直接否定了违背理性的 absurd；若强行填入，会导致句内出现严重的逻辑矛盾。",
+      "foolish": "错误。foolish 强调主体在智识、审慎心或实践判断力上的匮乏（showing a lack of judgment, discretion, or practical sense），多用于评判决策失算或行事愚昧。然而，句中明确指出该仪节在策略上是“tactically sound”（策略上稳健可行），说明使节并未出现判断力缺失或战术错误；此外，foolish 评价的是行为主体的智谋缺失，无法与句中由纯粹外在形式不称（incongruity）所引发的滑稽审美反应形成呼应。",
+      "ridiculous": "错误。ridiculous 的词源与核心语义紧密绑定于 ridicule（讥笑、嘲弄），专指事物极端荒唐可鄙，因而招致或配得上带有主观敌意、冷嘲热讽或轻蔑鄙夷的笑声（exciting contemptuous or mocking laughter）。本句后文特意使用“rather than derisive scorn”（而非蔑视性嘲弄）明确排除了此类带有攻击性与恶意的负面情绪，并用“harmless amusement”（无恶意的逗趣）限定了反应性质。因此，填入 ridiculous 与句中明确的排除性修饰语产生严重的情感极性冲突。"
+    },
+    "translation": "尽管这位特使精心编排的外交仪节在理性逻辑上完全自洽且在策略上十分稳健，但其场面却显得无可否认地荒诞滑稽——由于其虚张声势的大排场与他那少得可怜的随行队伍之间形成了惊人的不协调，它所引发的仅仅是无伤大雅的逗趣，而非带有嘲弄意味的蔑视。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_02",
+    "group_id": 551,
+    "group_name": "ludicrous, absurd, foolish, ridiculous",
+    "level": "TEM-8",
+    "target_word": "ludicrous",
+    "question": "Caught between enforcing an unenforceable curfew and preserving its democratic legitimacy, the municipal administration found itself in a thoroughly ___ predicament, whose comical incongruity invited playful satire rather than vitriolic censure.",
+    "options": [
+      "ludicrous",
+      "absurd",
+      "foolish",
+      "ridiculous"
+    ],
+    "answer": "ludicrous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "题干中“predicament”（窘境）与“comical incongruity”（滑稽的不协调）直接契合《韦氏词典》同义辨析中的核心例证（a pompous man in a ludicrous predicament）；且末尾“invited playful satire rather than vitriolic censure”锁定了源自 ludus（游戏、玩笑）的戏谑色彩，排除了招致严厉蔑视的 ridiculous、归咎于个人愚拙的 foolish 以及指涉存在主义逻辑虚无的 absurd。",
+    "distractor_analysis": {
+      "ludicrous": "正确。此处完美激活了《韦氏词典》的经典范式搭配“in a ludicrous predicament（处于滑稽可笑的窘境之中）”。语境中市政当局一方面颁布根本无法执行的法令，另一方面又要维持民主威信，这种形式与现实的脱节构成了一种带有闹剧色彩的制度性尴尬；“comical incongruity”及“playful satire”精准契合 ludicrous 特有的“因失衡不称而诱发滑稽讽刺”的语义特征。",
+      "absurd": "错误。absurd 侧重于脱离理性法则、荒诞无稽甚至带有超现实或悲剧色彩的荒谬（contrary to reason or truth），常用于指称毫无意义的荒谬存在，无法贴合后文“playful satire”（诙谐调侃、幽默讽刺）这种将之视为滑稽闹剧的社会反应。",
+      "foolish": "错误。foolish 强调缺乏明智判断或头脑简单（lacking good sense），用于形容主观层面的愚蠢做法。本句描述的是处于两难制度夹缝中的客观结构性困境，用 foolish 修饰 predicament 搭配极不自然，且无法表达出事态本身的喜剧性反差。",
+      "ridiculous": "错误。ridiculous 含有强烈的贬损与鄙视意味，指荒唐可鄙到招致众人蔑视性讥笑（deserving contempt or scorn）。句尾明示其引发的是“playful satire rather than vitriolic censure”（善意的戏谑讽刺而非刻毒的谴责），在情感态度和语用烈度上排除了带有鄙夷侮辱色彩的 ridiculous。"
+    },
+    "translation": "陷入既要推行无法执行的宵禁、又要维系自身民主合法性的两难境地，市政当局发现自己陷入了一个彻底滑稽荒唐的窘境，其闹剧般的不协调引来的是善意的戏谑讽刺，而非刻毒的口诛笔伐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_03",
+    "group_id": 552,
+    "group_name": "mammoth, big, large, gigantic",
+    "level": "TEM-8",
+    "target_word": "mammoth",
+    "question": "Following a ___ thirty-six-hour negotiating session, exhausted multilateral delegates finally forged a landmark compromise on sovereign debt restructuring, narrowly averting the catastrophic default of several vulnerable emerging economies.",
+    "options": [
+      "mammoth",
+      "big",
+      "large",
+      "gigantic"
+    ],
+    "answer": "mammoth",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "Collocational restriction with an exceptionally prolonged proceeding/event ('thirty-six-hour negotiating session') in the specific lexicographical sense of 'exceptionally long and grueling (esp. of a meeting, session, or broadcast)'",
+    "distractor_analysis": {
+      "mammoth": "正确。根据《牛津英语词典》（OED）与权威语料库，mammoth 作形容词时拥有一个高度专长化的义项：“(esp. of a meeting, broadcast, session, etc.) exceptionally long; protracted and grueling”（尤指会议、广播、议事等历时极长、耗尽精力的），如 a mammoth session / debate。句中修饰“长达36小时的谈判会议（thirty-six-hour negotiating session）”，在语义与高阶时政语域上均严丝合缝。",
+      "big": "错误。big 属于基础口语及非正式语体，在探讨主权债务重组与多边外交谈判的严肃学术与政论语境中出现会造成严重的语体风格断裂（stylistic clash）；此外，big 在正式英语中不能用来表达会议或议程“旷日持久、耗时极长”的时间跨度特征。",
+      "large": "错误。large 属于中性空间/数量标度形容词，主要指物理体积（spatial size）或参与人数规模（如 a large delegation / gathering 指参会人数多）。它在语义选择限制（selectional restriction）上无法修饰带有具体时间长度的复合定语名词词组（thirty-six-hour negotiating session）来表示“耗时极长”，构成语义范畴错配。",
+      "gigantic": "错误。gigantic 在词义上严格侧重于如巨人般的“外在物理体量极其庞大（huge physical size/stature）”或抽象维度的“剧烈程度、空前幅度”（如 a gigantic mistake / increase / undertaking）。英语中没有任何词典或语料库支持将 gigantic 用于修饰会议、会谈或辩论等时间过程来表示“耗时极长的马拉松式议事”；*a gigantic session 属于严重的搭配断裂（collocational rupture）。"
+    },
+    "translation": "在经历了一场长达三十六小时的马拉松式艰难谈判后，疲惫不堪的多边代表终于就主权债务重组达成了具有里程碑意义的妥协，从而险险避免了几个脆弱新兴经济体陷入灾难性债务违约。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_04",
+    "group_id": 552,
+    "group_name": "mammoth, big, large, gigantic",
+    "level": "TEM-8",
+    "target_word": "mammoth",
+    "question": "Prosecuting the transnational cartel required a ___ trial spanning four years and thousands of exhibits, whose procedural complexity severely tested the institutional capacities of the federal judiciary.",
+    "options": [
+      "mammoth",
+      "big",
+      "large",
+      "gigantic"
+    ],
+    "answer": "mammoth",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "Collocational restriction with judicial 'trial' (modified by 'spanning four years and thousands of exhibits' and 'federal judiciary'), where 'mammoth trial' is the established high-register legal/journalistic collocation, while 'large trial' is strictly confined to clinical/scientific experiments, 'gigantic trial' is an unidiomatic collocational rupture (zero attestation in BNC/COCA), and 'big' violates the formal register.",
+    "distractor_analysis": {
+      "mammoth": "正确。在正式法律、政经评论及学术语篇中，mammoth trial 是高度成熟且地道的固定表达，特指涉案人员众多、证据浩繁、耗时数年且程序极度繁复的“超大型/马拉松式司法审判”，完美契合后文“spanning four years and thousands of exhibits”及“federal judiciary”所构设的宏大诉讼语境。",
+      "big": "错误。文体语域冲突（register clash）。big 属于日常口语或小报标题用词（如 the big trial），置于包含 prosecuting、transnational cartel、procedural complexity 以及 federal judiciary 等高度严肃法学用语的学术语篇中，显得过于浅俗，破坏了整体语域的严谨性。",
+      "large": "错误。搭配断裂与语义偏离（collocational rupture）。在标准正式英语中，large trial 几乎专用于医学、药理学及统计学领域的“大规模临床/对照试验”（如 a large clinical trial），绝不用于指代法院的刑事或民事诉讼审判；用在此处属于典型的搭配误用。",
+      "gigantic": "错误。语义特征与搭配不谐（semantic incongruity）。gigantic 源自希腊神话巨人（Gigantes），核心语义指代具有视觉震撼力或反常耸立的物理高度与体量（如 gigantic statue, gigantic wave），或用于修饰夸张性行为与灾难性错误（如 gigantic blunder, gigantic fraud）。英语中从不使用 gigantic trial 来描述漫长繁复的司法审理（在权威语料库 BNC 及 COCA 中均为 0 频次），无法形成合法搭配。"
+    },
+    "translation": "起诉该跨国贩毒集团需要进行一场历时四年、涉及数千件证物的旷日持久的庞大审判，其程序的复杂性极大考验了联邦司法机构的体制承载力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_05",
+    "group_id": 553,
+    "group_name": "mediocre, fair, average, ordinary",
+    "level": "TEM-8",
+    "target_word": "mediocre",
+    "question": "Despite boasting an internationally acclaimed director and a lavish production budget, the philosophical drama proved dispiritingly ___, falling embarrassingly short of critical expectations with its stilted dialogue and derivative thematic resolution.",
+    "options": [
+      "mediocre",
+      "fair",
+      "average",
+      "ordinary"
+    ],
+    "answer": "mediocre",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The adverbial modifier 'dispiritingly' and the participial clause 'falling embarrassingly short of critical expectations' decisively point to a substandard, disappointing performance despite high expectations. Merriam-Webster explicitly distinguishes 'mediocre' as implying that 'a thing falls disappointingly short of a reasonable expectation or of a standard of value.' In contrast, 'fair' denotes acceptable adequacy (making 'dispiritingly fair' an oxymoron), 'average' is a neutral statistical norm, and 'ordinary' stresses commonness rather than deficient artistic quality.",
+    "distractor_analysis": {
+      "mediocre": "正确。Merriam-Webster特别指出mediocre的核心语义特征为'implies that a thing falls disappointingly short of a reasonable expectation or of a standard of value'（令人失望地未能达到合理期望或价值标准）。句中让步状语'Despite boasting an internationally acclaimed director...'设定了极高的期待，而'dispiritingly ___'与后文'falling embarrassingly short of critical expectations'构成了无可置疑的排他性语义闭环，唯有mediocre能够传达出因品质低劣、未能达标而带来的沮丧与批评色彩。",
+      "fair": "错误。根据词典辨析，fair表示'a degree of merit sufficient to satisfy ordinary demands or requirements'，即达到最低及格线、尚属令人满意或差强人意的表现。若填入fair，不仅与后文明确指出的生硬台词、陈腐立意以及'未达期望'的严重艺术缺陷相矛盾，而且副词搭配'dispiritingly fair'（令人沮丧地尚可）在语义上构成自相矛盾的逻辑破裂。",
+      "average": "错误。average强调统计学上的中间状态或正常标准（conformity with normal or usual qualities），常用于客观中性的数据、水平或常态描述。在文学艺术批评中，若无明确的参照群体基线，用average评价单部戏剧的审美质地极为生硬，且它缺乏mediocre所蕴含的'远逊于预期标准、低劣劣质'的强烈贬义批判色彩。",
+      "ordinary": "错误。ordinary侧重于事物符合日常规律、司空见惯、普通平常（of a kind to be expected in the normal order of events），其反义词为extraordinary（非凡的）或unusual（异常的）。本句评价的是一部名导执导、斥巨资制作的戏剧在专业水准上的粗劣倒退，属于价值评判（quality），而非其属于'日常、常规事物'（commonplace），故在此处搭配不当。"
+    },
+    "translation": "尽管拥有国际知名导演和奢华的制作预算，这部哲学戏剧却令人沮丧地表现平庸，其生硬的台词和陈腐的主题收尾使其极为尴尬地未能达到评论界的期望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_06",
+    "group_id": 553,
+    "group_name": "mediocre, fair, average, ordinary",
+    "level": "TEM-8",
+    "target_word": "mediocre",
+    "question": "In his scathing assessment of modern academia, the essayist condemned the widespread institutional coddling of ___ minds, arguing that lionizing such second-rate thinkers over authentic visionaries would inevitably impoverish philosophical inquiry.",
+    "options": [
+      "mediocre",
+      "fair",
+      "average",
+      "ordinary"
+    ],
+    "answer": "mediocre",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The anaphoric demonstrative phrase 'such second-rate thinkers' serves as the decisive anchor, explicitly defining the preceding '[___] minds'. Merriam-Webster defines 'mediocre' as 'lacking exceptional quality or ability : second-rate', and 'mediocre minds' is an established philosophical collocation (contrasted with true luminaries/visionaries). 'Fair minds' denotes impartial/equitable minds; 'average minds' is a neutral psychometric/statistical term; 'ordinary minds' denotes common people rather than deficient intellectual caliber.",
+    "distractor_analysis": {
+      "mediocre": "正确。Merriam-Webster将mediocre直接释义为'lacking exceptional quality or ability'（即second-rate，二流/拙劣的）。句中后半部分的指代短语'such second-rate thinkers'（此类二流思想家）与前半句被谴责的'___ minds'构成直接的前后呼应与语义对应。此外，'mediocre minds'（平庸之辈/平庸心智）是思想史与学术批判中的经典固定搭配（如爱因斯坦名言中对mediocre minds的针砭），完美契合scathing assessment（严厉批判）的高端学术语域。",
+      "fair": "错误。fair修饰minds时，惯常表示'公正的、不偏不倚的、开明的心智'（fair-minded / fair minds），属于强褒义词；即便作'中等/尚可'解，也绝不能与后文具有强烈谴责色彩的'second-rate thinkers'同义，代入后会导致严重的情感极性倒错与逻辑断裂。",
+      "average": "错误。average minds是指智力分布处于常态中位数的群体（即智力处于平均水平的人），属于认知心理学或社会统计学中的客观中性描述，不带有对学者学术造诣平庸无能、缺乏独创性的贬斥色彩，无法与scathing condemnation以及'second-rate'的批判语境形成同义复指。",
+      "ordinary": "错误。ordinary minds通常指相对于天才、精英或哲学家的'平民心智/普通大众的心智'，强调的是阶层、经验或常规性（contrasting with exceptional or specialized intellects），而非指学术研究上的'二流劣质（second-rate）'。本句批评的是学界内部对低水平研究者的纵容与抬高，而非针对普通大众。"
+    },
+    "translation": "在那篇对现代学界的严厉批判中，这位随笔作家谴责了体制对平庸之辈的普遍纵容，指出将此类二流思想家捧为大师而忽视真正的远见卓识者，势必会导致哲学探索的贫乏与衰落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_07",
+    "group_id": 554,
+    "group_name": "meek, mild, modest, humble",
+    "level": "TEM-8",
+    "target_word": "meek",
+    "question": "Confronted by the autocratic director's unreasonable decrees, the junior researchers adopted a ___ stance, passively enduring unwarranted reprimands and relinquishing their intellectual autonomy without voicing the slightest token of dissent.",
+    "options": [
+      "meek",
+      "mild",
+      "modest",
+      "humble"
+    ],
+    "answer": "meek",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "passively enduring unwarranted reprimands and relinquishing their intellectual autonomy without voicing the slightest token of dissent（逆来顺受地承受无端训斥并放弃学术自主，未表达丝毫异议；排他性锁定含有‘软弱顺从、逆来顺受’意味的词）",
+    "distractor_analysis": {
+      "meek": "正确。meek 强调在强势或不公的压力下表现出的顺从、温顺乃至懦弱退缩（cowed submissiveness, enduring injury without resentment or spirit），与句中面对专制主管时‘隐忍无端训斥、放弃自主权且不敢异议’的语境严密吻合。",
+      "mild": "错误。mild 侧重性格温和、性情平缓或程度较轻（not harsh, severe, or violent），缺乏被动屈从或怯懦隐忍的情感色彩，无法准确体现面对专制威权时的懦弱顺从状态。",
+      "modest": "错误。modest 强调谦虚稳重、不张扬或数量/规模适中（unpretentious, moderate），描述的是品格上的不自负，而句中描述的是受到欺压时的懦弱隐忍，语义逻辑完全错位。",
+      "humble": "错误。humble 强调自谦、对自身局限性的清醒认知或身份卑微（reflecting low self-importance or station），属于中性或褒义的道德与处世品格，并不特指受到无理指责时‘放弃自主、噤若寒蝉’的屈从软弱状态。"
+    },
+    "translation": "面对专制主管的无理指令，初级研究员们采取了一种逆来顺受的姿态，被动承受着莫须有的训斥，并放弃了自身的学术自主权，未曾表现出丝毫的异议。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_08",
+    "group_id": 554,
+    "group_name": "meek, mild, modest, humble",
+    "level": "TEM-8",
+    "target_word": "meek",
+    "question": "Critics argued that the negotiator's ___ capitulation to the rival faction's exorbitant demands reflected not diplomatic wisdom or moral restraint, but a spineless inability to assert national sovereignty under geopolitical pressure.",
+    "options": [
+      "meek",
+      "mild",
+      "modest",
+      "humble"
+    ],
+    "answer": "meek",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "capitulation to... demands reflected not diplomatic wisdom... but a spineless inability to assert national sovereignty（对严苛要求的屈从投降并非外交智慧，而是毫无骨气、无力维护主权的表现；语义锚定‘毫无骨气的、唯唯诺诺的屈从’）",
+    "distractor_analysis": {
+      "meek": "正确。meek 在修饰 capitulation（投降、妥协）时构成经典学术政论搭配（meek capitulation），专指毫无骨气、软弱顺从的退让屈服（deficient in spirit and courage, easily imposed upon），与后文'spineless inability'形成不可分割的语义镜像。",
+      "mild": "错误。mild 意为'温和的、轻微的'，用以修饰'向严苛要求彻底屈服'（capitulation to exorbitant demands）在搭配与语义强度上均严重不当，无法表达'丧失骨气'的贬义语力。",
+      "modest": "错误。modest 意为'谦逊的、适度的'。修饰投降或让步既无此习惯搭配，也无法与后文'缺乏骨气、丧失主权'形成批判性因果衔接。",
+      "humble": "错误。humble 侧重'卑微的、谦逊的'。虽然 humble 偶尔有顺服色彩，但其核心义项在于不骄傲或地位低下；在此处与 capitulation 连用无法准确传达在强权下唯唯诺诺、缺乏抗争勇气的怯懦（spinelessness）。"
+    },
+    "translation": "批评人士指出，谈判代表对敌对派系苛刻要求的唯诺屈服，所反映的绝非外交智慧或道德克制，而是在地缘政治压力下毫无骨气、无力维护国家主权的软弱体现。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_09",
+    "group_id": 555,
+    "group_name": "midget, tiny, small, little",
+    "level": "TEM-8",
+    "target_word": "midget",
+    "question": "Despite achieving status as a global financial powerhouse, the confederation remained a diplomatic ___, utterly incapable of projecting hard power or resolving regional security crises without direct military intervention from foreign allies.",
+    "options": [
+      "midget",
+      "tiny",
+      "small",
+      "little"
+    ],
+    "answer": "midget",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "The structural frame 'a diplomatic ___' requires a singular countable noun functioning as a metaphorical antithesis to 'financial powerhouse'. Among the options, only 'midget' functions as a countable noun denoting an entity of negligible stature or influence (as in the classic geopolitical trope 'an economic giant, but a diplomatic midget'); 'tiny', 'small', and 'little' are adjectives that create fatal syntactic violations when placed in this nominal position.",
+    "distractor_analysis": {
+      "midget": "正确。在高级地缘政治与国际关系学术话语中（如《经济学人》《外交事务》），“midget”可作可数名词，指代在规模、实力或影响力上微不足道的人或实体，常与“giant/colossus/powerhouse”构成经典的修辞反差（如“economic giant, but political/diplomatic midget”）。此处“a diplomatic midget”在句法上充当表语名词短语，在修辞与语义上与前半句的“financial powerhouse”形成高度工整的对仗，完美契合语境与学术语域。",
+      "tiny": "错误。“tiny”为纯粹的性质形容词，意为“极小的、微小的”。在此处句式中，不定冠词“a”与修饰语“diplomatic”后必须接可数名词中心语，若填入“tiny”（*a diplomatic tiny）将导致严重的句法残缺与词性破裂。",
+      "small": "错误。“small”主要用作形容词表示尺寸或规模中性偏小。虽然在国际关系中可说“small state”（小国），但“small”自身无法作为单数可数名词充当名词短语中心词（*a diplomatic small 不合语法），在句法层面上必然被排除。",
+      "little": "错误。“little”主要用作形容词、限定词或不可数代词，通常带有主观感情色彩（如怜悯、琐碎）。它无法作为单数可数名词来指代政治实体（*a diplomatic little 属严重语法错误），且其非正式的感情色彩与严谨客观的国际政治评论语域存在明显冲突。"
+    },
+    "translation": "尽管该邦联已确立全球金融强国的地位，但在外交上仍是一个微不足道的侏儒，若没有外部盟友的直接军事干涉，它完全无力投射硬实力或化解地区安全危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_10",
+    "group_id": 555,
+    "group_name": "midget, tiny, small, little",
+    "level": "TEM-8",
+    "target_word": "midget",
+    "question": "To evaluate cognitive resilience under conditions of acute sensory deprivation, researchers monitored naval crews operating inside a ___ submarine, where extreme spatial confinement and environmental monotony triggered profound perceptual distortions.",
+    "options": [
+      "midget",
+      "tiny",
+      "small",
+      "little"
+    ],
+    "answer": "midget",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Merriam-Webster explicitly defines the adjective 'midget' as 'very small; specifically : being a miniature version of something'. In maritime ergonomics and cognitive confinement studies, an operable miniature submersible engineered to replicate full-scale naval functions is exclusively termed a 'midget submarine'. The distractors 'tiny', 'small', and 'little' cannot designate this specific functional miniature vessel.",
+    "distractor_analysis": {
+      "midget": "正确。根据韦氏词典，“midget”作形容词的核心细微语义为“specifically : being a miniature version of something”（特指原本庞大事物的全功能微型/袖珍版本）。在军事心理学与认知工效学（cognitive ergonomics）语境中，“midget submarine”（袖珍潜艇）是规范的固定专门称谓，指可搭载操纵员执行任务的微型潜艇，本句以此极限受限空间作为研究感官剥夺与知觉扭曲的实验载体，语义契合完美。",
+      "tiny": "错误。“tiny”仅单纯强调绝对尺寸的微不足道或微小，无法表达“庞大系统之全功能袖珍缩微复本”这一专门技术意涵，学术及工程文献中不存在“tiny submarine”这一专门舰种搭配。",
+      "small": "错误。“small”仅为日常相对尺寸修饰词，语义模糊而宽泛；“small submarine”仅能模糊描述潜艇不大，无法准确指代军事工程与人机工程学中经过专门微缩设计的“袖珍潜艇”这一独立装备类型。",
+      "little": "错误。“little”在修饰实体物体时多带有情感倾向（亲切或轻视）或口语色彩，在正式的认知实验报告与军事心理学研究语境中显得极不专业且轻浮。"
+    },
+    "translation": "为了评估在急性感官剥夺条件下的认知韧性，研究人员监测了在袖珍潜艇内作业的海军人员，该处极度的空间限制和环境单调引发了深刻的知觉扭曲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_11",
+    "group_id": 556,
+    "group_name": "monumental, big, large, massive",
+    "level": "TEM-8",
+    "target_word": "monumental",
+    "question": "In art historical analysis, a sculpture is deemed ___ not by virtue of sheer physical bulk or dimensional vastness, but through its capacity to embody collective memory and project enduring civic gravitas.",
+    "options": [
+      "monumental",
+      "big",
+      "large",
+      "massive"
+    ],
+    "answer": "monumental",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "句中的转折对比框架“not by virtue of sheer physical bulk or dimensional vastness, but through its capacity to embody collective memory and project enduring civic gravitas”（并非凭借纯粹的物理体量或尺度庞大，而是通过其凝聚集体记忆并彰显历久弥新的公民庄严感的能力）构成决定性排他锚点。该语境明确要求填入一个在美学与艺术史语境中指代“超越物理尺寸、具备丰碑般的纪念性与崇高历史庄严感”的词，同时彻底排除了单纯以“物理体量/尺寸庞大”为核心语义的干扰项。",
+    "distractor_analysis": {
+      "monumental": "正确。在艺术史与美学批评（art historical analysis）中，monumental 具有专门的理论涵义（即“纪念碑性”monumentality）：它并非单纯描述物理尺寸的巨大，而是特指作品“具有丰碑般的崇高庄重感、象征意义及流芳百世的历史纪念价值”（having imposing dignity, solemnity, or enduring historic significance）。句中后半句正是该词学术内涵的精准界定，与前述“非因体量庞大”构成严密的逻辑呼应。",
+      "massive": "错误。语义直接自相矛盾。根据韦氏词典，massive 的核心定义为“suggests great bulk and heavy solidity”（指具有极大的物理体量与沉重密实的实体感）。若代入句中，则形成“雕塑被认定为 massive 并非因其物理体量（physical bulk）”的逻辑悖论（oxymoron），且 massive 纯指物质层面的厚重体量，完全不具备“凝聚集体记忆与崇高历史庄严感”的人文精神维度。",
+      "large": "错误。语义逻辑矛盾且语体错配。large 是描述客观空间、几何尺寸或数量规模超过平均值的通用度量词（exceeding average magnitude or spatial extent）。句中明确以“not by virtue of dimensional vastness”（并非因其空间尺度之大）作为否定限定，直接推翻了 large 的成立依据；同时 large 属于中性描述词，缺乏艺术批评专著所要求的庄重感。",
+      "big": "错误。逻辑矛盾且语体严重断层。big 侧重日常口语中的大小、体积与程度，句中既有否定物理尺度的逻辑排他，big 本身亦属于基础口语词汇（CEFR A1/A2），用于修饰承载“collective memory”与“civic gravitas”的公共雕塑艺术，会产生严重的学术语体破裂（register clash）。"
+    },
+    "translation": "在艺术史分析中，一件雕塑之所以被视为具有丰碑性（里程碑意义），并非由于其纯粹的物理体量或庞大的空间尺度，而是取决于它凝聚集体记忆并彰显历久弥新的公民庄严感的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_12",
+    "group_id": 556,
+    "group_name": "monumental, big, large, massive",
+    "level": "TEM-8",
+    "target_word": "monumental",
+    "question": "Unlike portable easel paintings produced for private collectors, the Mexican muralists treated public frescoes as a mode of ___ art, deliberately designed to commemorate revolutionary struggles and inspire collective civic consciousness.",
+    "options": [
+      "monumental",
+      "big",
+      "large",
+      "massive"
+    ],
+    "answer": "monumental",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_AESTHETICS",
+    "anchor_clue": "句首短语“portable easel paintings”（便携式架上绘画）确立了艺术史批评中的经典二元分类，后文“commemorate revolutionary struggles”（铭记革命斗争）和“inspire collective civic consciousness”（激发集体公民意识）在词源学（monument，纪念物）与语用功能上双重锁定了艺术体裁。在美学与艺术史专业语域中，唯有“monumental art”（纪念性艺术 / 公共宏伟艺术）是约定俗成的学术分类术语（terminus technicus）。",
+    "distractor_analysis": {
+      "monumental": "正确。在艺术批评与美学理论中，monumental art（纪念性艺术 / 宏伟公共艺术）是不可替代的专门术语，特指具有宏大公共尺度、与建筑相融合、承载崇高历史记忆并具公民教化功能的艺术形式，与句首的“portable easel paintings”构成典范的学术概念对立。此外，后文的“commemorate”（纪念）呼应了 monumental 源于拉丁语 monumentum（纪念物）的词源本义，完全契合高级学术文本的严谨性。",
+      "big": "错误。语域与搭配双重违规。big 为基础日常口语词汇，其语域等级远低于 TEM-8 级学术批评语体；且英语学术语境中绝无“big art”这一分类用法，属于低阶生硬的非母语用词。",
+      "large": "错误。句法搭配不成立。large 属于客观空间或统计度量形容词，若用于修饰艺术规模，通常须以复合词 large-scale（如 large-scale art）形式出现；在直接修饰抽象艺术统称名词 art 时，英语中不存在“large art”这一分类概念，搭配发生断裂。",
+      "massive": "错误。语义场错位与搭配不成立。massive 核心语义严格指向具体物理实体的“笨重、厚实、体积极大”（如 massive stone blocks）或宏观力量的“规模与冲击烈度”（如 massive expansion, massive destruction）。在艺术理论分类中，绝无“massive art”这一体裁表达；massive 仅能描述物体本身的物理质感或抽象事物的冲击力，无法承载“公共纪念性（commemorative）”与“公民崇高性（civic permanence）”的学术内涵。"
+    },
+    "translation": "与面向私人藏家创作的便携式架上绘画不同，墨西哥壁画派画家将公共壁画视作一种纪念性艺术形式，旨在铭记革命斗争并激发集体公民意识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_13",
+    "group_id": 557,
+    "group_name": "myriad, infinite, countless, innumerable",
+    "level": "TEM-8",
+    "target_word": "myriad",
+    "question": "Navigating the bewildering ___ of statutory compliance mandates across various sovereign jurisdictions requires multinational enterprises to retain specialized legal counsel, thereby harmonizing conflicting operational protocols and averting punitive regulatory enforcement.",
+    "options": [
+      "myriad",
+      "infinite",
+      "countless",
+      "innumerable"
+    ],
+    "answer": "myriad",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_LAW_GOVERNANCE",
+    "anchor_clue": "句法核心锚点在于短语结构 'the bewildering ___ of [plural noun]'。空格处于定冠词与形容词之后，且直接统领介词短语 'of statutory compliance mandates'，句法上必须要求填入一个能够充当名词短语核心词（nominal head）并接 of 介词补足语的名词。在题给四个近义词中，只有 myriad 具备兼作名词的词性功能（Merriam-Webster: noun - 'a great number', e.g., 'a myriad of ideas'），能构成 'the/a myriad of...' 结构；而 countless 与 innumerable 均为纯粹的形容词，绝无名词用法；infinite 虽可在哲学语境中作抽象单数名词（如 the infinite，指无限时空或神），但无法作为量化量词进入 'a/the ___ of + 复数名词' 构式（该义项的名词形态应为 infinity）。因此 myriad 在句法与词性搭配上具有唯一排他性。",
+    "distractor_analysis": {
+      "myriad": "正确。myriad 在英语词汇学体系中具有独特的形式灵活性，既可用作形容词，亦是公认的标准量化名词（Merriam-Webster 明确收录其名词义：'a great number'）。在此处构式 'the bewildering myriad of statutory compliance mandates' 中，myriad 充当名词短语的核心词，完美符合句法格位要求，并在语篇中精准传达出各管辖区法规要求'数量庞大且千头万绪、繁复多样'的语境特征。",
+      "infinite": "错误。infinite 是形容词，其名物化形式（the infinite）仅用作不可数的哲学抽象专名（指无限性、无垠时空或造物主），绝不能充当可数量化名词来支配介词 of 及其复数从属名词（英语中不存在 *the infinite of mandates 结构；若表达该构式，名词形态必须是 infinity）。代入句中造成词性与句法搭配断裂。",
+      "countless": "错误。countless 是纯粹的定语/表语形容词（pure adjective），只能直接修饰可数名词复数（如 countless mandates）或充当句子的表语成分，在现代英语规范中完全不具备名词功能，绝不能置于定冠词后充当介词 of 短语的被修饰核心词（*the countless of... 为严重语法病句）。",
+      "innumerable": "错误。innumerable 同样为严格限定的纯形容词（其对应的派生名词形式为 innumerability），意为'不可胜数的'，语法上只能充当前置修饰语（如 innumerable mandates）。它无法作为具有数量涵义的名词统辖 of 引导的宾语结构，代入该句位属于典型的词性误用与句法违范。"
+    },
+    "translation": "应对分布于不同主权管辖区内那繁复庞杂的法定合规指令，跨国企业必须聘请专业法律顾问，以此协调彼此冲突的运营规程，并规避惩罚性的监管执法。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_14",
+    "group_id": 557,
+    "group_name": "myriad, infinite, countless, innumerable",
+    "level": "TEM-8",
+    "target_word": "myriad",
+    "question": "Faced with the ___ of conflicting jurisdictional mandates governing global carbon markets, policy analysts warn that without harmonized verification standards, international emissions trading will remain vulnerable to widespread corporate greenwashing.",
+    "options": [
+      "myriad",
+      "infinite",
+      "countless",
+      "innumerable"
+    ],
+    "answer": "myriad",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_POLITICAL_ECONOMY",
+    "anchor_clue": "空缺处所处的句法结构 'the ___ of conflicting jurisdictional mandates' 构成了决定性的词性与次范畴化排他锚点。在该同义词群（myriad, infinite, countless, innumerable）中，仅有 myriad 具备标准名词用法（substantive count/partitive noun），可直接进入 'the/a myriad of + 复数可数名词' 构型，表示'大量且纷繁多样的复合体'。其余三个词在此句法槽位中均会导致绝对的句法破裂（syntactic violation）。",
+    "distractor_analysis": {
+      "myriad": "正确。在 Merriam-Webster 与 OED 等权威辞书中，myriad 明确记录有名词属性（a great number; an immense multitude），其与 'of' 连用构成量化短语（the myriad of...）已有数百年纯正规范用法，既在句法上充当介词 with 的宾语，又在语义上极其贴切地表达了跨辖区监管指令庞大、多元且相互交织的复杂特征。",
+      "infinite": "错误。infinite 为形容词，其用于表达大量或无限多数的名词形式必须使用 infinity（即 an infinity of...）；当 infinite 自身作名词使用时，仅能加定冠词表示哲学、数学或神学层面的抽象概念（'无限'或'造物主'），在现代标准英语中绝不能接 'of + 复数可数名词'。代入 *the infinite of mandates* 构成严重的词法与句法错误。",
+      "countless": "错误。countless 属于纯形容词（pure adjective），在英语中没有任何名词功能，只能作为前置定语直接修饰名词（如 countless mandates）。填入定冠词与 of 之间构成 *the countless of mandates*，属于基础句法失误。",
+      "innumerable": "错误。innumerable 同样是纯形容词，其对应的名词派生形式为 innumerability。它不能充当名词中心语后接 of 介词短语，*the innumerable of mandates* 在语法上完全不成立。"
+    },
+    "translation": "面对全球碳市场中相互冲突的繁杂管辖权指令，政策分析师警告称，若缺乏统一的核查标准，国际碳排放交易将极易沦为普遍存在的企业“洗绿”行径。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_15",
+    "group_id": 558,
+    "group_name": "nigh, hot, near, warm",
+    "level": "TEM-8",
+    "target_word": "nigh",
+    "question": "Given the catastrophic erosion of foundational topsoil across the arid basin, agronomists warned that rehabilitating the endemic grassland ecosystem had become well ___ impossible without sustained governmental subsidies.",
+    "options": [
+      "nigh",
+      "hot",
+      "near",
+      "warm"
+    ],
+    "answer": "nigh",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The preceding adverb 'well' and following adjective 'impossible' form the decisive anchor; standard formal English exclusively admits the fixed academic collocation 'well nigh' (meaning virtually/almost), whereas *well near, *well hot, and *well warm are syntactically and collocationally invalid.",
+    "distractor_analysis": {
+      "nigh": "正确。在此处与副词 well 紧密结合，构成高阶学术英语中的固定搭配 well nigh（亦作 well-nigh），意为“几乎、几近于”（almost, virtually）。该短语在正式文体中常用于修饰 impossible, insurmountable 等具有极限意义的形容词，精准表述“生态系统修复工作几乎不可能完成”。",
+      "hot": "错误。hot 主要表示物理温度高或追踪时线索紧密（如 hot pursuit），无法与 well 组合修饰形容词 impossible，在句中存在严重的句法畸变与语义不通。",
+      "near": "错误。near 虽有“接近”之意，但在现代标准英语中绝不能与 well 搭配构成 *well near 来充当程度副词修饰语（若要表达接近不可能，需用 nearly impossible 或 well-nigh impossible）。*well near 属于典型的中介语搭配混淆与搭配断裂。",
+      "warm": "错误。warm 意为“温暖的”或在搜寻游戏中引申为“接近目标”，但根本不具备在 well 与 impossible 之间充当修饰语的词汇语法功能，属于毫无逻辑的干扰项。"
+    },
+    "translation": "鉴于干旱盆地内基础表土遭遇了灾难性侵蚀，农学家警告称，若无持续的政府财政补贴，恢复当地特有的草原生态系统将几近于不可能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_16",
+    "group_id": 558,
+    "group_name": "nigh, hot, near, warm",
+    "level": "TEM-8",
+    "target_word": "nigh",
+    "question": "Reconciling the splintered factions' divergent territorial claims within a unified constitutional framework proved well ___ insurmountable, as decades of entrenched sectarian hostility had eroded all viable foundations for reciprocal compromise.",
+    "options": [
+      "nigh",
+      "hot",
+      "near",
+      "warm"
+    ],
+    "answer": "nigh",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "The adverb 'well' preceding the blank, directly followed by the predicate adjective 'insurmountable', serves as the decisive anchor. In formal academic and literary English, 'well nigh' (also spelled 'well-nigh') is an established, high-register adverbial locution meaning 'almost' or 'nearly'. The distractor 'near' cannot combine with 'well' (*'well near' is non-existent in English), while 'hot' and 'warm' result in severe syntactic and collocational rupture.",
+    "distractor_analysis": {
+      "nigh": "正确。此处考查高阶书面语固定副词搭配 well nigh（亦作 well-nigh）。well nigh 意为“几乎、简直”（almost, nearly），是源自中古英语并在现代学术、政论及典雅文学中高度固化的成语化表达（如 well nigh impossible / insurmountable / unthinkable）。在本句中，well nigh 作状语修饰形容词 insurmountable（难以克服的），精准表达领土诉求调和之艰难，完全契合政治外交深度评述的正式语体要求。",
+      "hot": "错误。hot 无法与副词 well 组合构成修饰形容词的副词性短语（英语中不存在 *well hot insurmountable）。hot 虽可在非正式语境或成语中表示追踪紧迫（如 hot on the trail）或游戏中的“接近”，但在本句的学术政论语境中存在严重的搭配断裂与语体违和。",
+      "near": "错误。near 虽然语义上与 nigh 极为相近且在现代英语中已全面取代 nigh 作为常规空间与时间副词，但在成语演变过程中，只有 nigh 保留了与 well 结合的固定搭配（well-nigh / well nigh）。标准英语中不存在 *well near 这一短语，副词 well 虽可修饰表示显著差距的介词或副词（如 well beyond, well above），但绝无法修饰 near 表“几乎”（*well near insurmountable 属于句法与搭配严重破裂）。",
+      "warm": "错误。warm 既无法与 well 构成修饰形容词的复合结构，其本义（温暖的、热情的）亦与表语形容词 insurmountable（不可逾越的）在概念范畴上完全不兼容，无法生成合理语义。"
+    },
+    "translation": "将各分裂派别存在分歧的领土诉求调和于统一的宪法框架之内，事实证明几乎是不可能的，因为数十年的根深蒂固的教派敌对早已彻底侵蚀了达成对等妥协的一切可行根基。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_17",
+    "group_id": 559,
+    "group_name": "overt, raw, open, bald",
+    "level": "TEM-8",
+    "target_word": "overt",
+    "question": "Cognitive psychologists distinguish between internalized mental representations and ___ behaviors, arguing that latent emotional turmoil only becomes empirically measurable once manifested through observable motor and physiological reactions.",
+    "options": [
+      "overt",
+      "raw",
+      "open",
+      "bald"
+    ],
+    "answer": "overt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“internalized mental representations”（内化的心理表征）与后半句“observable motor and physiological reactions”（可观察到的运动与生理反应）形成严格的学术对立，锁定认知与行为心理学中特指“外显行为”的固定对立术语“overt behaviors”（对应covert behaviors）。",
+    "distractor_analysis": {
+      "overt": "正确。overt意为“公开的、外显的、可观察到的”（not secret or hidden）。在心理学与认知科学中，overt behavior（外显行为）与covert behavior/internal representations（内隐行为/心理表征）构成标准的二元对立范畴，完美呼应后文的“observable”（可观察的）。",
+      "raw": "错误。raw通常指“未经加工的”（raw data）、“原始纯粹的”（raw emotion）或“粗糙刺痛的”，不能用于描述与“内隐心理”相对立的“外显、可观测”的行为形态。",
+      "open": "错误。open虽可泛指“公开的、开放的”，但属于通用常用意念词，缺乏专业学术体系中的精确技术定义；在认知行为科学中，学术界严谨规定表示“外显客观可见”的对偶概念必须使用overt，而非通俗的open。",
+      "bald": "错误。bald引申义指“赤裸裸的、无修饰的、直截了当的”（如bald assertion/statement），侧重缺乏修饰或证据，与“内隐 vs 外显”的认知机制毫无关联。"
+    },
+    "translation": "认知心理学家将内化的心理表征与外显行为区分开来，认为潜在的情感波动只有在通过可观察到的运动与生理反应表现出来时，才能在实证层面上进行衡量。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_18",
+    "group_id": 559,
+    "group_name": "overt, raw, open, bald",
+    "level": "TEM-8",
+    "target_word": "overt",
+    "question": "Neurocognitive experiments on spatial attention demonstrate that covert mental shifts can occur independently of ___ orienting, allowing subjects to monitor peripheral threats without visibly shifting their gaze toward the stimulus.",
+    "options": [
+      "overt",
+      "raw",
+      "open",
+      "bald"
+    ],
+    "answer": "overt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "前文的学术术语“covert mental shifts”（内隐心理转移）与后文“without visibly shifting their gaze”（没有可见的目光转移）形成强烈的语篇对立锚点，精准限定了认知神经科学中“covert orienting”与“overt orienting”（外显定向）的经典概念区分。",
+    "distractor_analysis": {
+      "overt": "正确。在空间注意力（spatial attention）与眼动研究的经典认知范式中，overt orienting（外显定向）专指伴随眼球或头部物理移动的可观察定向动作，与covert orienting/attention（无需转动视线的内隐注意）构成严格学术对偶。",
+      "raw": "错误。raw表示“未经处理的、粗暴的”，无法修饰认知定向机制（orienting），在此处造成严重的语义不通与学术语域破裂。",
+      "open": "错误。open在形容行为时多指“坦率的”或“未受阻碍的”，但认知科学并不承认“open orienting”这一术语组合，属于典型的汉英直译伪搭配。",
+      "bald": "错误。bald主要形容言论直白、缺乏证据（如bald claims）或表面光秃，在神经心理学和注意力机制领域完全无此用法。"
+    },
+    "translation": "关于空间注意力的神经认知实验表明，内隐的心智转移可以独立于外显的注视定向而发生，从而使被试能够在不明显将目光转向刺激物的情况下监控外围威胁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_19",
+    "group_id": 560,
+    "group_name": "pivotal, polar, crucial, important",
+    "level": "TEM-8",
+    "target_word": "pivotal",
+    "question": "Developmental psychologists maintain that the emergence of metacognition is not merely vital for academic performance, but uniquely ___, representing the cognitive hinge on which a child's independent problem-solving capacity swings.",
+    "options": [
+      "pivotal",
+      "polar",
+      "crucial",
+      "important"
+    ],
+    "answer": "pivotal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心锚点为后置伴随短语“representing the cognitive hinge on which a child's independent problem-solving capacity swings”（代表着儿童独立问题解决能力赖以转动的认知枢纽）。'hinge'（铰链/枢纽）与'swings'（转动/摆动）直接激活了'pivot'（转轴/支点）的核心物理与认知隐喻。同时，前半句'not merely vital... but uniquely ___'构成了从'维持生存/结果之必需（vital）'到'决定发展方向的转折枢纽（pivotal）'的递进逻辑，从而严格排除了语义重合的 crucial 以及语力过弱的 important。",
+    "distractor_analysis": {
+      "pivotal": "正确。根据《韦氏词典》，pivotal 意为“being of crucial importance; especially: marked by a turning point”（具有关键重要性；尤指标志着转折点）以及“constituting a pivot”（构成枢轴/支点）。句中'hinge'与'swings'构成典型的力学与空间隐喻，生动刻画出儿童认知能力赖以转向的枢纽机制，与 pivotal 产生无可替代的精妙共振。",
+      "polar": "错误。polar 意为“极地的；截然对立的，两极分化的”（diametrically opposite），通常用于修饰两极分化的观点、性格或完全对立的概念。在此修饰元认知的单项认知特质完全属于范畴错配，语义不通。",
+      "crucial": "错误。crucial 源自拉丁语 crux（十字架/关键考验），《韦氏词典》定义为“decisive or determining; marked by or representing a crisis”（决定性的；代表危机的），侧重于对危机化解或成败走向具有决定意义。句中让步短语已使用'not merely vital'（不仅至关重要），vital 与 crucial 在语义指向上高度重叠；若选 crucial，将构成严重的同义反复和伪递进，且无法承接后文 hinge 和 swings 所包含的转向枢轴隐喻。",
+      "important": "错误。important 意为“重要的”，属于泛化基础词汇，语义强度显著弱于从句中的'vital'。在'not merely vital... but uniquely ___'的强递进结构中，填入 important 会造成严重的逻辑倒错与修辞反高潮（anticlimax）。"
+    },
+    "translation": "发展心理学家认为，元认知的出现不仅对学业表现至关重要，而且具有独特的枢纽作用，它代表着儿童独立解决问题能力赖以运转的认知支点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b55_20",
+    "group_id": 560,
+    "group_name": "pivotal, polar, crucial, important",
+    "level": "TEM-8",
+    "target_word": "pivotal",
+    "question": "Although the peer reviewers acknowledged the experimental controls as undeniably decisive for empirical validity, they celebrated the author's theoretical framework as truly ___, serving as the conceptual axis that redirected investigative attention toward neurocomputational dynamics.",
+    "options": [
+      "pivotal",
+      "polar",
+      "crucial",
+      "important"
+    ],
+    "answer": "pivotal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于后置分词短语“serving as the conceptual axis that redirected investigative attention...”（充当重新将研究注意力引向神经计算动力学的概念轴心）。'axis'（轴心）与'redirected'（使改道/重定向）在词汇语义学上直接呼应'pivot'（轴心转动）的核心意象。此外，让步从句中已出现'undeniably decisive'（无可否认具有决定性），而 decisive 正是 crucial 的核心释义，若在转折主句中选用 crucial 会导致'Although... decisive, they celebrated... truly crucial'的同义反复与逻辑断裂。",
+    "distractor_analysis": {
+      "pivotal": "正确。根据《韦氏词典》，pivotal 强调事物扮演“pivot”（枢轴）的角色，尤指引发方向性转变的关键节点（marked by a turning point）。句中理论框架被视作引导整个学科转向的'conceptual axis'（概念轴心），并促成了学科重心的'redirected'（重新定向），完美契合 pivotal 独有的‘枢轴重塑轨迹’之内涵。",
+      "polar": "错误。polar 意为“两极分化的；截然相反的”（diametrically opposite），通常描述两种处于极端对立状态的范式或力量。在此用来修饰一个起统领和重定向作用的理论框架，产生语义冲突与语境矛盾。",
+      "crucial": "错误。crucial 意为“极其重要的，决定性的”（decisive or determining），核心侧重于成败得失的决定性。句首从句中'decisive'已然穷尽了 crucial 的本义；若主句再次选用 crucial，不仅无法形成有效的层递对比，还会使'Although'引导的对照逻辑沦为空洞的循环论证。",
+      "important": "错误。important 词义宽泛平淡，缺乏精准的学术质感。在面对'undeniably decisive'的实验设计时，若用 important 评价理论框架，不仅在修辞强度上产生严重滑坡，也完全无法表达'改变学科研究方向之枢纽'的高阶哲理意蕴。"
+    },
+    "translation": "尽管同行评议专家承认其实验控制对于实证有效性具有无可否认的决定性作用，但他们盛赞作者的理论框架具有真正的关键转折意义，正是它充当了将研究重心引向神经计算动力学的概念轴心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

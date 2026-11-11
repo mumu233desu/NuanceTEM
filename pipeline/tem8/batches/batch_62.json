@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b62_01",
+    "group_id": 621,
+    "group_name": "hamper, skid, tether, muzzle",
+    "level": "TEM-8",
+    "target_word": "hamper",
+    "question": "Protracted territorial disputes and severed transit arteries continue to ___ multinational humanitarian missions, severely impeding the distribution of vital medicine while leaving high-level diplomatic channels open.",
+    "options": [
+      "hamper",
+      "skid",
+      "tether",
+      "muzzle"
+    ],
+    "answer": "hamper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "Transitive verb taking 'multinational humanitarian missions' as its direct object, directly glossed and reinforced by the participial clause 'severely impeding the distribution...', while contrasted with 'leaving high-level diplomatic channels open' (decisively ruling out speech-censorship verbs).",
+    "distractor_analysis": {
+      "hamper": "正确项。及物动词，意为“妨碍，阻碍，牵制（进程、活动或效率）”。在国际治理与学术英语中，“hamper humanitarian missions/operations”（妨碍人道主义行动）为权威规范搭配；且与后文“severely impeding the distribution of vital medicine”（严重阻碍关键药品的调配）构成完美的释义性同义复现与因果逻辑衔接。",
+      "skid": "干扰项。在此语境中存在严重的句法与及物性冲突。skid作动词时主要为不及物动词（vi.），意为“（车辆等）侧滑、打滑”或引申为“（价格、经济等）失控下滑、骤降”；它不能作为及物动词后接“humanitarian missions”等抽象行动作为宾语，句法不成立。",
+      "tether": "干扰项。及物动词，原义为“拴系”，引申为“限制（活动范围）、使依附于/锚定于”，其标准句法结构必须带介词补足语（通常为 tether sth to sth，如将汇率锚定于外币）。此处句子缺乏表示“系牢于某基准物”的介词短语 to，且 tether 核心强调空间或制度上的锚定束缚，无法与后文表示物流滞缓的“severely impeding the distribution”形成语义契合。",
+      "muzzle": "干扰项。及物动词，比喻义专指“钳制言论、封口、剥夺公开发言权”（to prevent from expressing opinions freely，常接 press, critics, dissenters）。句中受阻的对象是人道主义实地救援与药品运输（operations/distribution），属于纯粹的物流与行动受阻；且句末“while leaving high-level diplomatic channels open”（同时保持高层外交渠道通畅）明确指出言论与沟通渠道并未被阻断，因此专指言论封锁的 muzzle 在语义与语境逻辑上均被绝对排除。"
+    },
+    "translation": "旷日持久的领土争端与被切断的交通要道持续阻碍着多国人道主义任务的开展，在严重延误关键药品调配的同时，高层外交沟通渠道仍得以保持畅通。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_02",
+    "group_id": 621,
+    "group_name": "hamper, skid, tether, muzzle",
+    "level": "TEM-8",
+    "target_word": "skid",
+    "question": "Neurological assessments revealed that the experimental compound failed to arrest the patient’s precipitous ___ into vascular dementia, disappointing researchers who had anticipated a significant stabilization of cerebral function.",
+    "options": [
+      "hamper",
+      "skid",
+      "tether",
+      "muzzle"
+    ],
+    "answer": "skid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Quadruple interlocking anchor: the transitive verb 'arrest' combines with 'precipitous [skid]' (arrest the skid), followed by the prepositional direction 'into vascular dementia', which directly contrasts with 'stabilization of cerebral function'.",
+    "distractor_analysis": {
+      "skid": "正确项。在此用作抽象名词，表示“急剧下滑；不可遏制的恶化/滑坡”（a downward slide, steep decline, or sudden lapse into a worse condition）。句中“arrest the patient's precipitous skid into...”体现了多重严密搭配：动词 arrest（遏制）与 skid 构成经典高阶搭配（arrest the skid）；形容词 precipitous（断崖式的）精准修饰失控下滑；介词 into 引出滑向的病理深渊；句末 stabilization（稳定）在语义上与失控滑坡（skid）构成严整的反义轴线。",
+      "hamper": "干扰项。作名词意为“障碍物、阻碍”，其标准介词搭配为 on / upon 或 to，绝不能后接动态介词 into 表向某一恶劣状态的坠落；此外，“precipitous hamper”在修饰语搭配上存在矛盾（precipitous 强调急速纵向跌落，与 hamper 所表征的水平迟滞/负重拖累无法兼容）。",
+      "tether": "干扰项。作名词意为“系绳；界限”，通常与介词 to 连用（拴系于某处）或用于固定习语（at the end of one's tether）。它无法与介词 into 连用，更无法与 precipitous 搭配来表示向认知退行性疾病深渊的“急剧滑坡”。",
+      "muzzle": "干扰项。指“口套；缄口令/言论钳制”。该词语义严格受限于言论及发声的抑制，在神经认知病理学（vascular dementia）与脑功能衰退语境中不仅句法上不存在“muzzle into”结构，概念隐喻层面也完全荒谬断裂。"
+    },
+    "translation": "神经学评估显示，该实验性化合物未能遏制患者急剧滑向血管性痴呆的势头，这让原本预期脑功能将显著趋于稳定的研究人员大失所望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_03",
+    "group_id": 622,
+    "group_name": "hangar, hull, mound, equilibrium",
+    "level": "TEM-8",
+    "target_word": "hangar",
+    "question": "Before deploying the experimental autonomous surveillance aircraft, aerospace engineers returned the prototype to the climate-controlled ___ for exhaustive structural inspections and avionics recalibration.",
+    "options": [
+      "hangar",
+      "hull",
+      "mound",
+      "equilibrium"
+    ],
+    "answer": "hangar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中提及航空工业核心动宾与修饰搭配：将实验性原型机（autonomous surveillance aircraft / prototype）送回控温建筑中（climate-controlled ___），以进行机体检修与航电设备校准（avionics recalibration），决定了空格必须指代停放与维护飞机的物理建筑。",
+    "distractor_analysis": {
+      "hangar": "正确。hangar 专指停放和检修飞行器的“机库”。本句处于航空航天工程语境，修饰语“climate-controlled”（恒温恒湿的）与后续的“structural inspections and avionics recalibration”（机体结构检查与航电校准）均构成了对机库维护场景的强力行业搭配。",
+      "hull": "排除。hull 指“船体”或飞行器、潜水器的“外壳/主壳体”。句中主语工程师是将整个无人原型机作为整体“送入”（returned the prototype to...）某处，hull 是飞行器本身的部件或外壳，不能作为容纳整机进行维护的外部停放设施，逻辑层次发生错位。",
+      "mound": "排除。mound 指“土堆、小丘、土墩”，为地质或堆积物名词，与航空工程中高精尖的控温停机维护环境毫无语义交集。",
+      "equilibrium": "排除。equilibrium 意为“平衡、均势”，属于抽象物理或认知状态名词。虽然“restore to equilibrium”为常见搭配，但此处前有“climate-controlled”（控温的）定语修饰，且是作为容纳整机进行检修作业的物理空间场所，抽象名词在此产生严重的语义与句法范畴冲突。"
+    },
+    "translation": "在部署这架实验性自主侦察机之前，航空航天工程师将原型机送回受控温湿的机库，以进行详尽的结构检查和航电系统校准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_04",
+    "group_id": 622,
+    "group_name": "hangar, hull, mound, equilibrium",
+    "level": "TEM-8",
+    "target_word": "hull",
+    "question": "Marine forensic investigators concluded that the submersible suffered catastrophic implosion because the titanium ___ had developed microscopic stress fractures under unprecedented abyssal hydrostatic pressure.",
+    "options": [
+      "hangar",
+      "hull",
+      "mound",
+      "equilibrium"
+    ],
+    "answer": "hull",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "深潜器（submersible）、灾难性内爆（catastrophic implosion）以及深渊静水压力（abyssal hydrostatic pressure）构成了绝对的深海工程排他锚点，受压产生微应力断裂（developed microscopic stress fractures）的钛合金承压结构只能是“耐压壳体/船体”（titanium hull）。",
+    "distractor_analysis": {
+      "hull": "正确。hull 在船舶与海洋工程中指船身、耐压艇体或潜水器壳体。“titanium hull”（钛合金耐压外壳）是深海潜航器承受深渊巨大水压（hydrostatic pressure）的核心结构，与后续“developed microscopic stress fractures”（产生微观应力裂纹）及“catastrophic implosion”（灾难性内爆）形成严密的专业术语链环。",
+      "hangar": "排除。hangar 专指飞机库，既非潜水器的构造组件，也绝不可能由钛合金制造并深潜入水以至于在深海压力下内爆，语义和常识完全悖反。",
+      "mound": "排除。mound 指堆、土丘或深海海底的隆起物，不能与材质形容词“titanium”构成潜水器的受力结构部件，亦无法成为深潜器内部部件承受断裂内爆的主体。",
+      "equilibrium": "排除。equilibrium 意为“平衡”，为抽象概念，既不能用金属材料“titanium”直接作定语修饰，更不可能产生物理实体层面的“microscopic stress fractures”（微观应力断裂），存在严重的语义类型误用（category mistake）。"
+    },
+    "translation": "海洋法医调查人员断定，该深潜器之所以遭遇灾难性内爆，是因为其钛合金耐压壳体在空前的深渊静水压力下产生了微观应力裂纹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_05",
+    "group_id": 623,
+    "group_name": "hanger, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "hanger",
+    "question": "When modeling spatial intuition in structural engineering, cognitive researchers observed that students frequently confused a compressive column with a tensile ___, which suspends the bridge deck directly from overhead catenary cables.",
+    "options": [
+      "hanger",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "hanger",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocations with 'tensile' and the defining relative clause 'which suspends the bridge deck directly from overhead catenary cables' require an element that works in tension from above, uniquely defining a 'hanger' (suspension hanger).",
+    "distractor_analysis": {
+      "hanger": "正确。hanger在此处指悬索桥中连接主缆与桥面、承受拉力并将桥面悬吊于空中的“吊杆/吊索”（suspension hanger），完美契合tensile（受拉的）与suspends... from overhead catenary cables的句法与力学搭配。",
+      "pier": "错误。pier指桥墩或柱墩，属于承受向下重力载荷的底层受压构件（compressive support），绝不能由上方缆索悬挂，与tensile及suspends from overhead逻辑完全相悖。",
+      "brace": "错误。brace主要指斜撑、撑条等用于防止侧向变形或屈曲的加固构件，并非垂直悬挂桥面结构的悬索构件。",
+      "foothold": "错误。foothold指立足点或稳固的基础，多用于攀登或抽象的比喻语境，与工程悬吊结构的物理术语完全无关。"
+    },
+    "translation": "在构建结构工程中的空间直觉模型时，认知研究人员观察到，学生经常将受压立柱与受拉吊杆混淆，而后者正是直接从上方悬索悬吊桥面结构的构件。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_06",
+    "group_id": 623,
+    "group_name": "hanger, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pier",
+    "question": "In investigating how visual perception parses monumental architecture, the cognitive study demonstrated that observers intuitively identify the central masonry ___ as the primary compressive support absorbing the downward thrust of both adjoining arches.",
+    "options": [
+      "hanger",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pier",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed architectural collocation 'masonry ___' combined with 'primary compressive support absorbing the downward thrust of both adjoining arches' definitively points to 'pier' (an upright support for the adjacent ends of two bridge spans or arches).",
+    "distractor_analysis": {
+      "pier": "正确。pier的词典核心释义为“支持拱或相邻跨的墩/柱”，与masonry（石砌）以及absorbing the downward thrust of both adjoining arches（吸收相邻两拱下推力）构成严密且唯一的专业搭配。",
+      "hanger": "错误。hanger为从上方悬吊的受拉部件，不可能作为石砌的、承受相邻拱圈下推力的底部“承压支承”（compressive support）。",
+      "brace": "错误。brace为斜向支撑构件或拉杆，通常用于框架抗风或防晃，不用于指代两拱之间承接下推力的实体砌体桥墩/柱墩。",
+      "foothold": "错误。foothold意为立足点或根据地，属于范畴错配，无法与masonry连用充当结构承重构件。"
+    },
+    "translation": "在探究视觉感知如何剖析宏伟建筑时，该认知研究表明，观察者能直觉性地将中央石砌桥墩识别为吸收两侧相邻拱圈下推力的主要受压支承。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_07",
+    "group_id": 624,
+    "group_name": "hedonist, pagan, erotic, wanton",
+    "level": "TEM-8",
+    "target_word": "hedonist",
+    "question": "Dismissing the austere tenets of Stoic virtue, the decadent aristocrat lived as an unapologetic ___, dedicating his immense fortune entirely to the unbridled gratification of the senses and ephemeral delight.",
+    "options": [
+      "hedonist",
+      "pagan",
+      "erotic",
+      "wanton"
+    ],
+    "answer": "hedonist",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The philosophical dichotomy against 'austere tenets of Stoic virtue' coupled directly with 'unbridled gratification of the senses and ephemeral delight' strictly dictates 'hedonist', forming the high-register collocation 'unapologetic hedonist'.",
+    "distractor_analysis": {
+      "hedonist": "正确。作名词，意为“享乐主义者；纵乐者”。句子前端以“Dismissing the austere tenets of Stoic virtue”（摒弃斯多葛学派崇尚克制的美德教条）作为哲学认知背景，后文以“gratification of the senses and ephemeral delight”（感官放纵与瞬时享乐）作补足说明，逻辑上直接呼应“享乐主义”的本质内涵。此外，“unapologetic hedonist”为学术与高阶英语中极为地道的惯用搭配，完全契合语境。",
+      "pagan": "错误。作名词指“异教徒；多神教信徒”。其语义核心局限于宗教信仰维度（通常指非亚伯拉罕一神教传统），而本句核心冲突在于伦理哲学与人生追求（斯多葛禁欲主义 vs 感官享乐主义），而非正统宗教与异教信仰的对立，属于认知领域范畴错位。",
+      "erotic": "错误。词性与句法不符。erotic 为形容词，意为“色情的；引起性欲的”，在此处无法充当“an unapologetic ___”后的单数可数名词中心词；且句中探讨的是宽泛维度的感官享乐（sensual pleasures），并非狭隘的性欲诱发。",
+      "wanton": "错误。主要用作形容词（肆无忌惮的；放荡的），极罕见作名词时指“放荡不羁的人或淫妇”，带有强烈的道德谴责、恶意破坏或轻浮色彩，无法承载本句中与斯多葛哲学体系相对立的“追求感官快感作为生活最高目标”的理论化伦理立场，搭配亦不合学术规范。"
+    },
+    "translation": "这位颓废的贵族摒弃了斯多葛学派崇尚克制的美德信条，做一个公然的享乐主义者，将其庞大的财富完全用于肆意满足感官享受和追求转瞬即逝的欢愉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_08",
+    "group_id": 624,
+    "group_name": "hedonist, pagan, erotic, wanton",
+    "level": "TEM-8",
+    "target_word": "pagan",
+    "question": "Rejecting both monotheistic orthodoxy and modern secularism, the romantic poet styled himself a devout ___, celebrating the natural world through poetic invocations and ceremonial libations to ancient Hellenic deities.",
+    "options": [
+      "hedonist",
+      "pagan",
+      "erotic",
+      "wanton"
+    ],
+    "answer": "pagan",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "The theological tension contrasted with 'monotheistic orthodoxy' and 'modern secularism', coupled with 'ceremonial libations to ancient Hellenic deities', unequivocally demands 'pagan' (an adherent of pre-Christian polytheism/nature worship).",
+    "distractor_analysis": {
+      "pagan": "正确。作名词指“多神教徒；（尤指古希腊、古罗马时期的）异教徒、自然崇拜者”。句首的“monotheistic orthodoxy”（一神教正统）与“modern secularism”（现代世俗主义）构建起明确的神学思想分类坐标，而定语“devout”（虔诚的）以及后文的“ceremonial libations to ancient Hellenic deities”（对古希腊诸神的仪式性祭酒）构成无可替代的宗教语境锚点，精确对应文学与思想史上信奉古典多神论的“pagan”形象（如华兹华斯与济慈等浪漫主义诗人的新泛神崇拜）。",
+      "hedonist": "错误。作名词指“享乐主义者”，其核心概念场围绕感官愉悦、肉体享受的最大化展开，而非宗教维度的敬畏与神明崇拜。句中的“devout”（虔敬的）与“libations to deities”（向诸神奠酒祭祀）属于严肃的神圣信仰实践，与享乐主义追求私欲快感的核心语义完全相悖。",
+      "erotic": "错误。词性语法冲突。erotic 仅作形容词使用（意为“色情的；性爱的”），无法单独在不定冠词与形容词短语“a devout ___”后作单数可数名词中心语；且全句探讨的是浪漫主义自然神论与古典多神信仰，与性心理或情色意涵毫无关联。",
+      "wanton": "错误。作名词指“放荡不羁之人；浪子”，作形容词指“肆意妄为的；轻浮放荡的”。修饰词“devout”（虔敬的、笃信的）与“wanton”所内含的“缺乏约束、放浪无度”存在不可调和的逻辑语义冲突，且 wanton 完全不具备指涉多神教宗教实践的神学范畴意义。"
+    },
+    "translation": "这位浪漫主义诗人既摒弃一神教正统教条，又排斥现代世俗主义，将自己标榜为一名虔诚的异教徒，通过诗意的祈请以及对古希腊诸神的仪式性奠酒来颂扬自然世界。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_09",
+    "group_id": 625,
+    "group_name": "hubbub, din, pant, rumble",
+    "level": "TEM-8",
+    "target_word": "hubbub",
+    "question": "Amid the sensationalist media ___ over the leaked diplomatic cables, senior envoys remained remarkably composed, confident that the transient public outrage would not derail the delicate multilateral peace negotiations.",
+    "options": [
+      "hubbub",
+      "din",
+      "pant",
+      "rumble"
+    ],
+    "answer": "hubbub",
+    "primary_mechanism": "MECH_SYNTACTIC_SELECTION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句法介词锚点与语义搭配锚点：空格后接介词短语 'over the leaked diplomatic cables'（关于被泄露的外交电报），且前受 'sensationalist media'（耸人听闻的媒体）修饰。在四个选项中，仅有 hubbub 具备‘（因某事在公众或舆论中引发的）骚动、轩然大波、沸沸扬扬的议论’（a state of noisy excitement, controversy, or fuss）之义，并能与介词 over 形成固有语法搭配（如 Merriam-Webster 明确收录的例证 'hubbub over the new rules'）。din 专指物理声学层面的持续刺耳巨响，绝不与 over 搭配指代舆论风波；pant（喘息）与 rumble（单数隆隆声/斗殴）在句法和语意上均完全不成立。",
+    "distractor_analysis": {
+      "hubbub": "正确。hubbub 除表示嘈杂人声外，权威词典（MW, Collins, Oxford）均明确收录其重要义项：“因某事引起的混乱骚动、沸沸扬扬的纷扰或舆论风波”（a noisy commotion, stir, or fuss），可与介词 over 搭配（a hubbub over sth）。此处与 'sensationalist media' 以及后文的 'public outrage'（公众愤慨）形成无缝契合，准确表达媒体掀起的轩然大波。",
+      "din": "错误。din 严格指物理听觉层面上持续、刺耳且震耳欲聋的嘈杂噪声（a loud, continuous, unpleasant noise），其典型搭配为 'the din of traffic/machinery'。din 既无法由体现话语特性的 'sensationalist' 修饰，更不能与介词 'over' 连用引出争议话题，填入会导致严重的句法搭配破裂与范畴谬误。",
+      "pant": "错误。pant 作为名词指急促粗重的喘息声（a short, quick, labored breath），为局部的生理呼吸反应，与宏观的媒体舆论和公共事件语境风马牛不相及。",
+      "rumble": "错误。rumble 作单数名词指低沉沉闷的隆隆声（如雷声、马达声）或非正式的群体斗殴。尽管其复数形式 rumblings 可隐喻‘早期的不满传言’（rumblings of discontent），但单数形式 rumble 绝不能搭配 over 表示媒体舆论的喧扰风波，产生严重的词义错配。"
+    },
+    "translation": "面对耸人听闻的媒体对泄露外交电报所掀起的轩然大波，资深使节们保持着非同寻常的沉着，确信这场短暂的公众愤怒绝不会使微妙的多边和平谈判脱轨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_10",
+    "group_id": 625,
+    "group_name": "hubbub, din, pant, rumble",
+    "level": "TEM-8",
+    "target_word": "din",
+    "question": "Subjected to the deafening, unremitting ___ of the assembly plant's stamping presses, the quality inspector suffered sensory fatigue, which significantly impaired his cognitive capacity to detect subtle acoustic defects.",
+    "options": [
+      "hubbub",
+      "din",
+      "pant",
+      "rumble"
+    ],
+    "answer": "din",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "前置形容词 'deafening, unremitting'（震耳欲聋的、无休止的）与后置来源 'of the assembly plant's stamping presses'（总装厂冲压机的）。'deafening din' 是极高频的经典固定搭配，专门用于形容工业机械造成的持续性刺耳噪音。",
+    "distractor_analysis": {
+      "din": "正确。din 核心义为‘震耳欲聋且持续不断的嘈杂声、喧嚣声’（a loud, continued, jarring noise），极常与 'deafening'（震耳欲聋的）、'incessant/unremitting'（连续不断的）连用，且典型搭配工业、机械的轰鸣刺耳声。句中机器的撞击噪声导致质检员认知疲劳，din 完全符合句法搭配与认知语境。",
+      "hubbub": "错误。hubbub 严格指多重来源的人声喧哗、混乱哄闹或群体骚乱（noise from a crowd of people），不能用于形容工厂冲压机发出的纯机械刺耳金属巨响。",
+      "pant": "错误。pant 意为‘喘息、气喘’（a short, quick, laboured breath），既非刺耳巨响，也无法与重型冲压机的机械噪音相匹配，搭配不成立。",
+      "rumble": "错误。rumble 专指低沉隐约的隆隆声（a low, deep, resonant sound），其低频隐约的声学特征与 'deafening'（震耳欲聋、刺耳的）产生语义冲突，且冲压机运作通常伴随尖锐强烈的金属撞击与冲压轰响，并非 rumble 所特指的低沉声响。"
+    },
+    "translation": "身处总装车间冲压机震耳欲聋、无休无止的机械巨响之中，质检员产生了感官疲劳，这显著削弱了他辨别细微声学缺陷的认知能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_11",
+    "group_id": 626,
+    "group_name": "hurdle, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "hurdle",
+    "question": "Before the novel gene-editing therapy could gain clinical approval, researchers faced a formidable ___ in demonstrating that off-target mutations remained consistently below the stringent safety threshold mandated by international bioethics boards.",
+    "options": [
+      "hurdle",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "hurdle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocational frame 'faced a formidable ___ in demonstrating' within a high-stakes scientific and regulatory approval context decisively selects 'hurdle' in its standard figurative sense of an obstacle or impediment to progress.",
+    "distractor_analysis": {
+      "hurdle": "正确。hurdle 本义为赛跑中的“跳栏”，在学术、政经及科研语境中高度固化为比喻义“难关、阻碍”，常与 face/overcome/surmount 以及形容词 formidable/major 等构成经典搭配（face a formidable hurdle in doing sth）。此处指在证明脱靶突变达标方面面临的重大难关，语境和语义严丝合缝。",
+      "jetty": "错误。jetty 专指延伸入水体中的“突堤、防波堤、码头”，为纯物理水工基础设施名词，完全不能用于比喻科研评估中的抽象阻碍或困难。",
+      "fence": "错误。fence 指陆地上的“栅栏、篱笆”，用于围界防卫；虽有比喻用法（如 sit on the fence 意为脚踩两只船、持观望态度），但不存在 *face a formidable fence in doing sth 这一表示“克服审批/认知难关”的搭配模式。",
+      "grate": "错误。grate 作为名词指排水沟或壁炉的“格栅、铁栅栏；炉箅”，无论在物理空间还是抽象认知语境下，均无法与“面临严峻阻碍”这一语义与句法结构相容。"
+    },
+    "translation": "在这种新型基因编辑疗法获得临床批准之前，研究人员面临着一道严峻的难关：他们必须证明脱靶突变发生率始终低于国际生物伦理委员会所规定的严苛安全阈值。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_12",
+    "group_id": 626,
+    "group_name": "hurdle, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "jetty",
+    "question": "To mitigate catastrophic sediment deposition within the navigational channel, coastal engineers constructed a stone ___ extending perpendicular to the shoreline, thereby deflecting littoral drift and shielding incoming vessels from turbulent swells.",
+    "options": [
+      "hurdle",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "jetty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The technical descriptors 'extending perpendicular to the shoreline', 'deflecting littoral drift', and 'shielding incoming vessels' unequivocally demand a coastal engineering marine structure, matching the exact lexical definition of 'jetty'.",
+    "distractor_analysis": {
+      "jetty": "正确。jetty 属于海洋与海岸工程领域的专门词汇，指从陆地垂直或倾斜向海面延伸的“突堤、防波堤或导流堤”，其核心功能正是通过改变沿岸泥沙输移（littoral drift）防止航道淤塞，并为过往船舶遮蔽风浪。",
+      "hurdle": "错误。hurdle 意为“跨栏；阻碍、难关”，无法作具体名词指代延伸至海中以拦截泥沙和阻浪的石质工程建筑。",
+      "fence": "错误。fence 指陆地上的“篱笆、栅栏”，无法用于描述建于开阔水域中用以阻隔洋流和抵御涌浪的水利海洋构造物（海洋工程中通常使用 jetty, groin 或 breakwater）。",
+      "grate": "错误。grate 指“格栅、炉箅”，指带有平行或交叉铁条的网格盖板（如排水口格栅），在功能、尺度和工程形态上均与垂直伸入海中遮蔽船舶的堤坝截然不同。"
+    },
+    "translation": "为了缓解航道内灾难性的泥沙淤积，海岸工程师修建了一座垂直延伸于海岸线的石质突堤，从而使沿岸泥沙流发生偏转，并保护进港船只免受汹涌波涛的冲击。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_13",
+    "group_id": 627,
+    "group_name": "impediment, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "impediment",
+    "question": "Epistemologists argue that dogmatic adherence to inherited paradigms acts as an intractable ___ to intellectual inquiry, insidiously constraining the conceptual boundaries within which new empirical hypotheses can be formulated.",
+    "options": [
+      "impediment",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "impediment",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and prepositional anchor: 'acts as an intractable ___ to intellectual inquiry'. In academic epistemological discourse, 'impediment' strictly selects the preposition 'to' to express an obstacle or hindrance to cognitive progress.",
+    "distractor_analysis": {
+      "impediment": "正确。impediment 意为“阻碍，妨碍，障碍物”，在认知哲学与学术语境中高度契合，且与介词 to 构成固定搭配（an impediment to intellectual inquiry，求知探索的阻碍），语义和句法均完全吻合。",
+      "hull": "错误。hull 意为“船体；（果实或种子的）外壳”，为具体物理实体名词，既无法与介词 to 构成表“阻碍”的抽象搭配，也无法在认识论语境中修饰“求知探索”。",
+      "mound": "错误。mound 意为“土堆，土丘；堆”，指物理堆积物，既不具备抽象认知语义，亦不能与介词 to 搭配表示认知进展上的壁垒。",
+      "hangar": "错误。hangar 意为“飞机库”，为专业航空建筑名词，置于此处语义荒谬，存在严重的范畴谬误。"
+    },
+    "translation": "认识论学者认为，对固有范式的教条式信奉是求知探索中难以逾越的阻碍，它在不知不觉中限制了构建新经验假说的概念边界。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_14",
+    "group_id": 627,
+    "group_name": "impediment, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "hull",
+    "question": "Naval architects conducting the forensic analysis deduced that structural fatigue along the vessel's welded steel ___ had compromised its hydrodynamic stability, directly precipitating the catastrophic capsize.",
+    "options": [
+      "impediment",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "hull",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive structural and nautical engineering anchor: 'the vessel's welded steel ___', followed by 'hydrodynamic stability' and 'capsize'. Only 'hull' (the watertight structural body of a ship) collocate with marine engineering terms and explains hydrodynamic failure.",
+    "distractor_analysis": {
+      "hull": "正确。hull 意为“船体，船壳”，为船舶工程核心术语。与“vessel's welded steel”（船只的焊接钢制…）形成不可分割的专业搭配，且其结构受损直接关联后文的“水动力稳定性”（hydrodynamic stability）及“倾覆”（capsize）。",
+      "impediment": "错误。impediment 意为“妨碍，阻碍”，为抽象概念名词，不能被描述为“welded steel”（焊接钢制的），置于此处产生明显的语义与逻辑断裂。",
+      "mound": "错误。mound 意为“土堆，堆”，指天然或人工堆砌的土石堆，不能指代船舶的主体结构部分，无法与 vessel 构成合理的结构所属关系。",
+      "hangar": "错误。hangar 意为“飞机库”，通常为陆地或航母甲板上的独立大型设施，并非决定普通船舶水动力稳定性与倾覆行为的“welded steel”主体结构身躯。"
+    },
+    "translation": "进行事故鉴定的造船工程师推断，船只焊接钢制船体上的结构疲劳破坏了其水动力稳定性，直接导致了灾难性的倾覆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_15",
+    "group_id": 628,
+    "group_name": "indemnity, redress, reparation, restitution",
+    "level": "TEM-8",
+    "target_word": "indemnity",
+    "question": "Recognizing the volatile regulatory landscape, the ethics board determined that the lead investigator required an institutional ___ against potential litigation before disclosing findings that challenged entrenched pharmaceutical orthodoxy.",
+    "options": [
+      "indemnity",
+      "redress",
+      "reparation",
+      "restitution"
+    ],
+    "answer": "indemnity",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'against' 与前置限定词 'an institutional ___' 构成了决定性的法律与制度性搭配（indemnity against litigation/liability，意为‘免受诉讼追责的保障/赔偿豁免’）；其余三项在介词搭配与前瞻性防御语义上均无法成立。",
+    "distractor_analysis": {
+      "indemnity": "正确。indemnity 在此作可数名词，意为“（免受损害、伤害或法律责任的）保障、免责保护或赔偿保证”。在法律与学术合规语境中，固定搭配“indemnity against + 潜在风险/诉讼/责任”（an indemnity against potential litigation）高度地道，完美契合伦理委员会为首席研究员提供事前免责与法律保护的认知决策语境。",
+      "redress": "错误。redress 意为“矫正、补偿、民事救济”，其核心语义是对“已遭受的冤屈或损害（grievances/wrongs）”进行事后矫正或补救，通常作不可数名词，且后接介词 for（redress for a wrong），不能与 against 搭配，更无法表示事前防范未来诉讼的免责保障。",
+      "reparation": "错误。reparation 意为“赔偿、补救、赔罪”，主要指加害者对受害者作出的物质或道义补偿，常用于国家间战争赔款（常作复数 reparations）或固定搭配 make reparation for。它不与 against 搭配，语义上也非机构为研究员设立的“法律豁免/免责盾牌”。",
+      "restitution": "错误。restitution 意为“归还、恢复原状、赔偿”，法律上特指将非法剥夺的财产、权益物归原主，或追缴不当得利（disgorgement），标准搭配为 restitution of property。它无法与 against 搭配，也不可能指涉免于诉讼的法律保护。"
+    },
+    "translation": "鉴于动荡的监管环境，伦理委员会判定，首席研究员在公布挑战既得医药界主流观点的调查结果之前，需要获得一份免受潜在诉讼追责的机构免责保障。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_16",
+    "group_id": 628,
+    "group_name": "indemnity, redress, reparation, restitution",
+    "level": "TEM-8",
+    "target_word": "redress",
+    "question": "Faced with entrenched bureaucratic inertia, the research fellow petitioned the academic senate, insisting that institutional bylaws must guarantee an accessible avenue of ___ for scholars subjected to ideological censure and administrative retaliation.",
+    "options": [
+      "indemnity",
+      "redress",
+      "reparation",
+      "restitution"
+    ],
+    "answer": "redress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定制度性搭配 'avenue of redress'（申诉途径、救济渠道）与后文针对不公正遭遇（'for scholars subjected to... retaliation'）形成强搭配；其余选项均不能与 'avenue of' 构成合法 collocation，亦不符合处理非财产性权益侵害的语境。",
+    "distractor_analysis": {
+      "redress": "正确。redress 指“对不公待遇、侵害或冤屈的正当矫正、补偿或申诉救济”。在高等教育治理与行政法文本中，“avenue of redress”（申诉途径、救济渠道）属于极具代表性的高阶固定搭配，专指遭遇行政报复与思想谴责的学者寻求正义与纠偏的制度通道。",
+      "indemnity": "错误。indemnity 指“赔偿金、免责保证或商业/法律责任的免除”，不能与 avenue of 搭配；且面对思想谴责（ideological censure）和行政报复（administrative retaliation）等非金钱性精神/学术迫害，学者寻求的是权利纠偏与公正救济，而非商业性质的 indemnity。",
+      "reparation": "错误。reparation 多指因重大历史过错、战争破坏或严重侵害而由加害方支付的赔偿或补救（国家赔款常作 reparations；个体用作 make reparation to sb for sth），不存在“avenue of reparation”这一搭配，用于学术机构内部的申诉条例属于语域严重错配。",
+      "restitution": "错误。restitution 严格局限于“返还原物、恢复原状（如被盗艺术品物归原主）或剥夺非法所得”，搭配多为 restitution of assets。针对思想审查与行政排挤，不存在可退还的有形财物，“avenue of restitution”在英语学术与行政文本中不成立。"
+    },
+    "translation": "面对根深蒂固的官僚惰性，这位副研究员向学术评议会请愿，坚决主张机构章程必须为遭受意识形态谴责和行政报复的学者保障一条畅通的申诉与救济途径。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_17",
+    "group_id": 629,
+    "group_name": "interlock, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "interlock",
+    "question": "In designing critical human-machine interfaces, cognitive ergonomics dictates the installation of a fail-safe ___ to ensure that hazardous equipment cannot be energized until all protective enclosures are fully secured.",
+    "options": [
+      "interlock",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "interlock",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定工程与认知工效学搭配'fail-safe ___'，且后接限制性条件从句'to ensure that hazardous equipment cannot be energized until... fully secured'，精确指称韦氏词典所定义的'互锁安全装置/联锁装置'（一种使某项操作必须在满足特定先决条件后方可进行的联动阻断机构）。",
+    "distractor_analysis": {
+      "interlock": "正确。interlock 作名词时专指“（安全）联锁装置；互锁机构”（an arrangement or device for interlocking, preventing an operation until specific conditions are met）。在认知工效学与人机界面设计语境中，'fail-safe interlock'（故障弱化联锁/安全互锁装置）为权威专业固定搭配，完美契合句中“设备在防护罩闭合前无法通电”的条件联控机制。",
+      "prod": "错误。prod 作名词意为“刺棒；刺激，促使”，无法与'fail-safe'构成表控电或阻断机械操作的专业装置搭配，语意风马牛不相及。",
+      "foil": "错误。foil 作名词意为“陪衬物，衬托者；箔纸；钝头花剑”，既不能修饰为'fail-safe'的物理控制模块，也无法产生“阻断机器误操作”的逻辑功能。",
+      "buffer": "错误。buffer 虽可作技术名词表示“缓冲器；缓冲区”，但其功能是减缓冲击、吸收波动或提供容错余量，无法承担句中“必须满足特定条件才能通电启动”的二元条件联锁与强制阻断（forcing function）作用。"
+    },
+    "translation": "在设计关键的人机交互界面时，认知工效学要求安装故障弱化联锁安全装置，以确保危险设备在所有防护罩完全锁闭之前无法通电。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_18",
+    "group_id": 629,
+    "group_name": "interlock, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The sudden disclosure of algorithmic bias served as a sharp ___ to jolt the ethics board out of its cognitive inertia, compelling immediate structural reforms across all research divisions.",
+    "options": [
+      "interlock",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配修饰语'sharp'与后续目的动词短语'to jolt ... out of cognitive inertia'（促使/惊醒某人摆脱认知惰性），构成极具比喻色彩的认知动因搭配，精准锁定表示'促使、敦促、当头棒喝'含义的名词。",
+    "distractor_analysis": {
+      "prod": "正确。prod 源于“用尖物刺戳”之意，引申为“强烈的刺激、敦促、警醒”（a stimulus, reminder, or incitement）。短语'a sharp prod to jolt sb out of inertia'在高级政经及认知社论中为经典隐喻搭配，生动表现出外部事件对停滞思维的强烈催化作用。",
+      "interlock": "错误。interlock 意为“联锁装置；联结体系”，无法与形容词'sharp'搭配作比喻义，更无法支配后接的不定式短语'to jolt... out of inertia'。",
+      "foil": "错误。foil 意为“陪衬、衬托物”，通常搭配'act as a foil to/for sb/sth'以彰显对比反差，无“促使人打破惯性、采取行动”的推动力语义，且在击剑术语中 foil 专指钝头花剑，'sharp foil'语义自相矛盾。",
+      "buffer": "错误。buffer 意为“缓冲物，减震屏障”，其核心认知语义是“消除震荡、维持现状以防冲击”，这与后文的'sharp'（尖锐的）以及'jolt ... out of inertia'（打破惯性造成震动）构成语义反向冲突与严重逻辑悖谬。"
+    },
+    "translation": "算法偏见的突然曝光如同一记警钟，猛烈震醒了伦理委员会脱离其认知惰性，迫使所有研发部门立即推行结构性改革。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_19",
+    "group_id": 630,
+    "group_name": "keel, hump, bulge, salient",
+    "level": "TEM-8",
+    "target_word": "keel",
+    "question": "Psychological resilience interventions train clinicians to maintain cognitive equilibrium under acute trauma, ensuring that their decision-making processes remain on an even ___ despite compounding emotional distress.",
+    "options": [
+      "keel",
+      "hump",
+      "bulge",
+      "salient"
+    ],
+    "answer": "keel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed idiomatic prepositional phrase 'on an even ___' strictly selects 'keel' to signify an emotionally steady, calm, and well-balanced cognitive state.",
+    "distractor_analysis": {
+      "keel": "正确。keel 原义为船的‘龙骨’，在固定习语‘on an even keel’中表示‘处于平稳状态、镇定自若’，在认知与心理学语境中专门比喻情绪或认知机制保持平稳、不失衡，与句中‘cognitive equilibrium’形成严密的语义与搭配呼应。",
+      "hump": "错误。hump 指‘驼峰、隆起’或难关，常见搭配为‘over the hump’（越过难关），不能与‘on an even’构成搭配，在句法和习语层面均不成立。",
+      "bulge": "错误。bulge 指‘膨胀、凸出’或‘骤增’（如 population bulge），既无‘on an even bulge’的习语表达，也无法描述认知过程的平稳与均衡。",
+      "salient": "错误。salient 作名词时多用于军事或地质领域，指‘突出部、突出角’；作形容词指‘显著的’。它无法与‘on an even’搭配构成任何表示平稳状态的固定短语。"
+    },
+    "translation": "心理韧性干预训练临床医生在急性创伤情境下保持认知平衡，确保他们的决策过程在不断积压的情感压力之下仍能保持平稳有序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b62_20",
+    "group_id": 630,
+    "group_name": "keel, hump, bulge, salient",
+    "level": "TEM-8",
+    "target_word": "hump",
+    "question": "After weeks of grueling conceptual impasse, the cognitive modeling team finally got over the ___, allowing their autonomous simulation to achieve stable convergence without further manual intervention.",
+    "options": [
+      "keel",
+      "hump",
+      "bulge",
+      "salient"
+    ],
+    "answer": "hump",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic verbal collocation 'got over the ___' specifically requires 'hump' (MW: 'over the hump: past the critical point or the most difficult part') to denote surmounting the most arduous developmental obstacle.",
+    "distractor_analysis": {
+      "hump": "正确。hump 在韦氏词典中明确收录其比喻义及固定习语‘over the hump’（即‘度过最艰难的阶段、越过难关’）。句中‘got over the hump’精准表述了认知建模团队克服概念僵局、越过关键临界点的语境。",
+      "keel": "错误。keel 相关的固定搭配主要为‘on an even keel’（平稳）或动词短语‘keel over’（倾覆、昏厥），根本不存在‘get over the keel’这一搭配，在此处语义不通。",
+      "bulge": "错误。bulge 指物理上的‘隆起、突起’或统计学上的暂时性‘激增’，不与‘get over the ...’构成表达克服困难或越过瓶颈期的固定习语搭配。",
+      "salient": "错误。salient 作名词指阵地或战线上的‘突出部’，在抽象的认知科学与算法研究语境中与‘get over the ...’无搭配可能，且无法指代‘攻克难关’。"
+    },
+    "translation": "经历数周极度煎熬的概念僵局后，认知建模团队终于度过了最艰难的关口，使其自主模拟系统能够在无需进一步人工干预的情况下实现稳定收敛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

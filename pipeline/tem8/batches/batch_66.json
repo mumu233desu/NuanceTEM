@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b66_01",
+    "group_id": 661,
+    "group_name": "sanctuary, loft, hovel, hutch",
+    "level": "TEM-8",
+    "target_word": "sanctuary",
+    "question": "Beset by virulent academic rivalries and cognitive exhaustion, the eminent historian sought an inviolable ___ in archival research, shielding his mind from the corrosive hostilities of public intellectual life.",
+    "options": [
+      "sanctuary",
+      "loft",
+      "hovel",
+      "hutch"
+    ],
+    "answer": "sanctuary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定动宾介词搭配 'seek an inviolable sanctuary in sth' 与后文表保护机制的 'shielding his mind from... hostilities' 形成决定性语义闭环，其余选项皆无法作抽象心理庇护解。",
+    "distractor_analysis": {
+      "sanctuary": "正确。sanctuary 指“庇护；避难所，精神安宁之所”。此处构成高级学术英语中固定的抽象搭配“seek an inviolable sanctuary in...”（在……中寻求神圣不可侵犯的庇护），与后文分词短语“shielding his mind from the corrosive hostilities”（保护其心灵免受侵蚀性敌意伤害）在认知隐喻与功能上完美嵌合。",
+      "loft": "错误。loft 词义为“阁楼；（厂房改造成的）宽敞画室；教堂楼厢”，属于具体的建筑物理空间名词，不可与抽象的学术活动搭配构成“seek a loft in archival research”，亦不具备提供防御与安全保护的核心义项。",
+      "hovel": "错误。hovel 意为“简陋肮脏的小屋、茅舍”，带有极强的物质贫乏与破败污秽的负面色彩，既无法与形容词“inviolable”（不可侵犯的、神圣崇高的）兼容，更违背了作为防御性精神庇护的逻辑语境。",
+      "hutch": "错误。hutch 意为“（养兔等小动物的）笼舍”或“带架餐柜”，指狭小闭塞的囚闭空间，不能引申为知识分子逃避纷争的心智避难所。"
+    },
+    "translation": "面对恶毒的学术纷争与心智上的极度耗竭，这位杰出的历史学家在档案研究中寻得了一处不可侵犯的精神庇护所，使其心灵免受公众知识分子生活中侵蚀性敌意的伤害。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_02",
+    "group_id": 661,
+    "group_name": "sanctuary, loft, hovel, hutch",
+    "level": "TEM-8",
+    "target_word": "loft",
+    "question": "During the psychoacoustic experiment, the researcher climbed to the cathedral's choir ___, measuring how this elevated gallery influenced the auditory cognition and perceptual clarity of sacred polyphony.",
+    "options": [
+      "sanctuary",
+      "loft",
+      "hovel",
+      "hutch"
+    ],
+    "answer": "loft",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "建筑学与音乐学术语 'choir loft'（教堂唱诗席/合唱楼厢）构成绝对固定搭配，且后文同位语 'this elevated gallery' 直接对应 loft 的词典权威释义。",
+    "distractor_analysis": {
+      "loft": "正确。loft 具有专属的宗教建筑义项，指“（教堂或大厅中的）唱诗席、楼厢、风琴台”（MW: a gallery in a church or hall as for a choir or organ）。“choir loft”是表达“教堂唱诗台楼厢”的专有固定搭配，且与后文的解释性同位语“this elevated gallery”（这一抬高的楼厢看台）形成严格的语义互证。",
+      "sanctuary": "错误。sanctuary 虽常见于宗教语境，但在教堂建筑中特指“圣所、祭坛区”（即地面层设立主祭坛的神圣区域），绝非需要“climbed to”（攀登而上）的上方看台（elevated gallery）；且英语中无“choir sanctuary”之说，属于利用宗教联想设下的高迷惑度干扰项。",
+      "hovel": "错误。hovel 指“破烂不堪的小屋”，与庄严宏伟的大教堂（cathedral）建筑环境发生严重的语域冲突，且不能与 choir 搭配指代楼厢设施。",
+      "hutch": "错误。hutch 指“小动物木笼”或“置物柜”，无论从建筑空间体量还是结构功能上均与教堂唱诗席毫无关联。"
+    },
+    "translation": "在心理声学实验期间，研究人员登上了大教堂的唱诗席楼厢，测定这一高悬的楼台看台如何影响对圣乐复调的听觉认知与知觉清晰度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_03",
+    "group_id": 662,
+    "group_name": "sap, dope, booby, scatterbrain",
+    "level": "TEM-8",
+    "target_word": "sap",
+    "question": "The veteran union negotiator refused to play the ___ for corporate executives, summarily rejecting a concessionary labor contract that would shift the financial burden of pension deficits entirely onto vulnerable retirees.",
+    "options": [
+      "sap",
+      "dope",
+      "booby",
+      "scatterbrain"
+    ],
+    "answer": "sap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor clue is the fixed English idiom 'play the sap (for someone)', which specifically signifies allowing oneself to be turned into a gullible dupe, scapegoat, or exploited victim.",
+    "distractor_analysis": {
+      "sap": "正确项。sap在此构成固定动宾短语及习语搭配“play the sap (for sb)”，意为“充当某人的冤大头/受气包；甘受他人欺瞒盘剥”。在劳资谈判的高级政经语境中，“refused to play the sap for corporate executives”（拒绝充当资方高管的冤大头）在语体、句法搭配以及“因天真或妥协而遭受剥削”的认知语义上皆完全吻合。",
+      "dope": "搭配断裂与语义偏离。dope侧重指“智识迟钝、理解力低下或发懵发呆的人”（a dull-witted or clueless person）。英语中不存在“*play the dope for sb”这一固定搭配（英语固定表达为play the fool或play the sap）；且本句语境着眼于利益抗衡与拒绝任人宰割，而非智力缺陷，故排除。",
+      "booby": "语体脱节与搭配不当。booby指“笨拙无能的傻子”，属于已高度边缘化的古旧或童稚语汇，现仅固化于复合名词如booby prize（安慰奖/倒数第一奖）或booby trap（陷阱）中；现代高级政经文本中绝无“*play the booby for”的及物动词搭配。",
+      "scatterbrain": "认知特征与句法搭配严重冲突。scatterbrain指“注意力涣散、丢三落四、心智跳跃轻浮之人”（a flighty, disorganized person），其语义特征是缺乏专注度与条理性，与严谨的劳资博弈及法律契约语境格格不入，在句法上也绝不能与“play the... for”搭配。"
+    },
+    "translation": "这位资深工会谈判代表拒绝充当企业高管的冤大头，断然否决了一项将养老金亏空负担全盘转嫁给弱势退休人员的妥协性劳工合同。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_04",
+    "group_id": 662,
+    "group_name": "sap, dope, booby, scatterbrain",
+    "level": "TEM-8",
+    "target_word": "dope",
+    "question": "Relying on well-placed sources within the regulatory commission, the investigative journalist managed to obtain the inside ___, exposing how corporate lobbyists had covertly gutted environmental protections prior to the public hearings.",
+    "options": [
+      "sap",
+      "dope",
+      "booby",
+      "scatterbrain"
+    ],
+    "answer": "dope",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_MEDIA",
+    "anchor_clue": "The decisive anchor clue is the established journalistic collocation and idiom 'the inside dope' (authoritatively codified in Merriam-Webster: dope n. 'information from an expert or inside source — often used with the or inside'), signifying confidential, privileged intelligence obtained from internal sources.",
+    "distractor_analysis": {
+      "dope": "正确项。此处考查dope在权威词典（如《韦氏词典》）及高级新闻特写语体中的专门衍生义项与固定搭配。Merriam-Webster明确将其定义为“information from an expert or inside source — often used with the or inside”（绝密内幕、一手内情）。在“obtain the inside dope”结构中，dope与修饰语inside构成不可分割且具高度辨识度的经典短语，完全契合调查记者从监管机构内部线人处获取核心机密材料的语境。",
+      "sap": "词义焦点与语义范畴不符。sap作名词时核心义为“植物汁液/元气”或引申指“天真软弱、易受摆布的糊涂虫”（gullible person），作动词表示“削弱”。英语中不存在“*inside sap”这一搭配，其词义无法表征“情报”或“信息实体”，置于obtain宾语位置会产生严重的语义与搭配断裂。",
+      "booby": "词义偏离与搭配断裂。booby作名词指“呆子、蠢人”（dunce）或生物学中的“鲣鸟”，除构成booby trap（诡雷/陷阱）或booby prize（安慰奖）等复合表达外，既不能与inside连用，亦无“机密材料”之义，代入句中导致逻辑不通。",
+      "scatterbrain": "范畴冲突与逻辑生造。scatterbrain指“心智浮躁、丢三落四、无法集中注意力的人”（flighty and chronically inattentive person）。该词是且仅是指代人类个体的具象名词，不可作为能够被获取、披露的抽象信息实体（*obtain the inside scatterbrain），在句法逻辑和语义搭配上均属严重错误。"
+    },
+    "translation": "凭借监管委员会内部可靠消息人士的协助，这位调查记者成功获取了核心内幕消息，揭露了企业说客在公开听证会前是如何秘密架空环境规章制度的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_05",
+    "group_id": 663,
+    "group_name": "sensor, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "sensor",
+    "question": "Recent neuroimaging studies suggest that the anterior insular cortex functions as a sensitive interoceptive ___, continuously detecting subtle visceral fluctuations and translating autonomic signals into conscious emotional awareness.",
+    "options": [
+      "sensor",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "sensor",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun is defined by the attendant participial clause 'continuously detecting subtle visceral fluctuations and translating autonomic signals', which precisely matches the biological and technical definition of a 'sensor' (a mechanism that detects a stimulus and transmits/translates a signal), while forming the standard cognitive neuroscience collocation 'interoceptive sensor'.",
+    "distractor_analysis": {
+      "sensor": "正确。在此指神经认知中的“感应器；感知中枢”，与“interoceptive（内感受的）”构成专业学术搭配，且后文分词短语“continuously detecting subtle... fluctuations and translating... signals”精准重现了 sensor（接收刺激并转化传导信号）的核心词义功能。",
+      "prod": "错误。指“促使行动的刺激物；刺棒”，通常用于督促行动或打破惯性，既无法与 interoceptive 搭配，也不能在神经生理层面上行使“监测生理波动并转化神经信号”的感应功能。",
+      "foil": "错误。指“陪衬物；衬托者”，语义核心是通过反差彰显另一事物的特性（常与 to/for 连用），置于此处与大脑皮层的感知监测机制毫无语义关联，属于范畴错误。",
+      "buffer": "错误。指“缓冲物；减震保护层”，其核心功能是减轻冲击、吸收震荡或防止直接接触，而句中皮层的作用是主动且敏锐地“捕捉检测（detecting）”微弱信号并转化为意识知觉， buffer 与此语境的能动监测特征在语义方向上背道而驰。"
+    },
+    "translation": "近期的神经成像研究表明，前脑岛皮层充当着敏锐的内感受感应中枢，持续监测内脏的微弱波动，并将自主神经信号转化为显式的显意识情绪感知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_06",
+    "group_id": 663,
+    "group_name": "sensor, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The peer review's scathing critique served as a much-needed intellectual ___, jolting the research team out of their cognitive complacency and compelling them to re-examine their deeply flawed empirical methodologies.",
+    "options": [
+      "sensor",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in 'intellectual ___' followed by 'jolting the research team out of their cognitive complacency and compelling them to re-examine...', which requires a noun denoting an incisive stimulus, goad, or prompt to action ('prod').",
+    "distractor_analysis": {
+      "prod": "正确。名词意为“推动力；刺激物；督促”（something that goads or spurs into action），搭配“intellectual prod”意为“智识上的警醒与鞭策”，完美契合后文“jolting ... out of cognitive complacency and compelling them to re-examine（将团队从认知自满中震醒并迫使其反思）”的动作动因。",
+      "sensor": "错误。名词指“传感器；感应器”，专指侦测与接收物理或生理信号的受体或装置，不能用来比喻打破思维惰性、督促科研人员行动的精神警策物。",
+      "foil": "错误。名词指“（通过对比烘托主体的）陪衬物”，句法上通常后接介词 to 或 for，用于强调两者的鲜明对照，无法表达“震醒自满、促发反思”的能动催化含义。",
+      "buffer": "错误。名词指“缓冲物；保护层”，其功能是化解冲击、提供隔离或保护，若在此填入 buffer，则与后文严厉批评所带来的“剧烈震动（jolting）与逼迫效应”构成直接的逻辑反差与反向语义矛盾。"
+    },
+    "translation": "同行评审的严厉批评如同一剂急需的智识鞭策，将整个研究团队从认知自满中彻底震醒，并迫使他们重新审视其存在严重缺陷的实证研究方法。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_07",
+    "group_id": 664,
+    "group_name": "shimmer, decease, transmutation, scintillation",
+    "level": "TEM-8",
+    "target_word": "shimmer",
+    "question": "Observed through the thermal turbulence of the desert basin, the distant mountain range dissolved into a faint, tremulous ___, confounding optical measurements with its softly undulating and indistinct luminescence.",
+    "options": [
+      "shimmer",
+      "decease",
+      "transmutation",
+      "scintillation"
+    ],
+    "answer": "shimmer",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰语'faint, tremulous'（微弱且颤动的）及后文表征'softly undulating and indistinct luminescence'（柔和波动且模糊的微光）构成了针对光感特性的决定性排他锚点，与Merriam-Webster核心释义'a weak and tremulous light'构成词汇层面的完美镜像复刻。",
+    "distractor_analysis": {
+      "shimmer": "【正确】名词，意为“微弱晃动的光；微光”。Merriam-Webster权威释义为'a weak and tremulous light'。句中修饰语'tremulous'（颤抖的、晃动的）与其形成词源级语义共振，且后文的'softly undulating and indistinct luminescence'（柔和起伏、边界模糊的漫射微光）精准描摹了沙漠热气扭曲所引发的视觉微光特征，搭配无懈可击。",
+      "scintillation": "【排除】名词，指“（光芒等的）火花、急剧闪烁”或“（天文学中恒星因大气扰动产生的）闪烁”，亦可引申为“才华横溢”。该词强调的是“急促、明亮、点状的锐利跃动（rapid, sharp, sparkling flashes）”，与句中明确界定的'faint'（微弱的）、'softly undulating'（柔和起伏的）及'indistinct'（朦胧模糊的）微光质感产生鲜明语意反差与认知冲突。",
+      "transmutation": "【排除】名词，意为“转变、变形、变质；（炼金术或原子物理中的）元素嬗变”。尽管沙漠海市蜃楼使山体形态看似转化，但其无法与限定词'faint, tremulous'搭配用作发光体名词，亦无法承接后文的'indistinct luminescence'，存在范畴错配。",
+      "decease": "【排除】名词，意为“死亡、逝世”。属于法律与正式公文层面的专有名词，与自然光学观测及视觉感官认知的语境毫无逻辑关联。"
+    },
+    "translation": "透过沙漠盆地的热湍流望去，远处的山脉化为一抹微弱颤动的幽光，其柔和浮动而又朦胧的微茫完全干扰了光学测量的准确性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_08",
+    "group_id": 664,
+    "group_name": "shimmer, decease, transmutation, scintillation",
+    "level": "TEM-8",
+    "target_word": "decease",
+    "question": "According to the rigorous testamentary contract, the executors acknowledged that upon the benefactor’s unexpected ___, full fiduciary responsibility and ownership of the archives would instantly transfer to the university.",
+    "options": [
+      "shimmer",
+      "decease",
+      "transmutation",
+      "scintillation"
+    ],
+    "answer": "decease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "由'testamentary contract'（遗嘱合同）、'executors'（遗嘱执行人）及'fiduciary responsibility'（信托信托责任）构成的司法文书与遗产信托语境，决定了介词短语'upon the benefactor's unexpected ___'中只能填入表示自然人法律意义上死亡的正式术语。",
+    "distractor_analysis": {
+      "decease": "【正确】名词，意为“死亡、逝世”。专用于高阶正式语体、遗产法与法律文书中（相当于legal death），常见固定句式为'upon one's decease'（在某人亡故后）。句中的'testamentary contract'（遗嘱合同）、'executors'（遗嘱执行人）和'fiduciary responsibility'（受托人责任）提供了无可辩驳的法理语境，唯一契合财产转移的法定触发事件。",
+      "shimmer": "【排除】名词，意为“闪烁的微光”，与自然人所有格'benefactor's'（捐赠人的）搭配在语义层面上完全不通，无法作为法律程序触发的前提事件。",
+      "transmutation": "【排除】名词，意为“（状态、物质形态的）转化、蜕变”。在世俗法律继承体系中，自然人并不存在所谓的物理或魔法式'嬗变'，遗嘱执行机制的法律触发点恒定且必须为生命主体的终止，该词在法律文本中会引发严重的语义失真与荒谬性。",
+      "scintillation": "【排除】名词，指“闪烁、才智焕发”，与遗嘱执行人转移资产档案所有权的严肃法学逻辑完全脱节，属于无关干扰项。"
+    },
+    "translation": "依据该份严谨的遗嘱合同，遗嘱执行人确认：一旦捐赠人意外离世，所有档案的全部受托责任与所有权应立即移交给该大学。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_09",
+    "group_id": 665,
+    "group_name": "spate, gush, flux, upsurge",
+    "level": "TEM-8",
+    "target_word": "spate",
+    "question": "Prompted by a sudden ___ of fraudulent empirical papers and methodological retractions, the journal's editorial board initiated a comprehensive overhaul of its peer-review protocols to restore scientific credibility.",
+    "options": [
+      "spate",
+      "gush",
+      "flux",
+      "upsurge"
+    ],
+    "answer": "spate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "a sudden ___ of + 复数可数名词（fraudulent empirical papers and methodological retractions），且带有负面消极色彩（消极语用偏向）",
+    "distractor_analysis": {
+      "spate": "正确。spate 常构成固定量词搭配“a spate of + 复数名词”，专指在短时间内接二连三爆发的一连串不愉快、棘手或负面的离散事件（如 a spate of scandals/thefts/retractions）。句中修饰“造假论文与方法学撤稿”，搭配严丝合缝，学术语体色彩纯正。",
+      "gush": "错误。gush 意为“喷涌、迸发”，多用于液体喷射或引申为情感、言辞的滔滔不绝（如 a gush of praise/tears），不能作为量词搭配离散的复数论文或撤稿事件（*a gush of empirical papers 不合语用习惯）。",
+      "flux": "错误。flux 意为“持续的流动、变动不居”，通常以不可数名词形式出现在固定介词短语中（如 in a state of flux / in continuous flux），不能用于“a flux of + 复数名词”来指代一连串发生的离散事件。",
+      "upsurge": "错误。upsurge 强调数量、比率或情绪向上的“急剧上升、剧增”（常接介词 in 或 of 并跟不可数名词/总体概念，如 an upsurge in crime / an upsurge of violence），不与离散的复数可数事件名词搭配构成“接踵而来的一连串”之意。"
+    },
+    "translation": "鉴于近期突然接连爆出一系列伪造实验数据的论文和方法学撤稿事件，该期刊编委会启动了对同行评审流程的全面改革，以重塑其科学公信力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_10",
+    "group_id": 665,
+    "group_name": "spate, gush, flux, upsurge",
+    "level": "TEM-8",
+    "target_word": "gush",
+    "question": "Rather than offering a rigorous epistemological critique, the essayist succumbed to an effusive ___ of sentimental adulation that obscured the philosophical treatise's profound structural and methodological inconsistencies.",
+    "options": [
+      "spate",
+      "gush",
+      "flux",
+      "upsurge"
+    ],
+    "answer": "gush",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "an effusive ___ of sentimental adulation（过分热情的溢美之词/感情爆发）",
+    "distractor_analysis": {
+      "gush": "正确。gush 具有比喻义，指言语、赞美或情感“不可遏制、过分热情或虚饰的滔滔迸发”（an unrestrained or excessive outpouring），与形容词 effusive（感情过分流露的）构成高度典型、地道的词汇共现（collocation），精准契合后文的不可数抽象名词短语 sentimental adulation（感伤的吹捧）。",
+      "spate": "错误。spate 意为“接连发生的一连串”，通常用于指代接踵而至的离散负面事件，语法上必须接复数可数名词（a spate of...），与 effusive 和单数抽象名词 adulation 搭配形成句法与语义冲突。",
+      "flux": "错误。flux 意为“不断的变化或不稳定状态”，多用于描述形势（如 economic flux），无法与 effusive 连用表达语言或情感的溢出与喷涌，语义逻辑断裂。",
+      "upsurge": "错误。upsurge 指宏观趋势的“急剧上升、暴涨”，强调垂直增长趋势（如 an upsurge in demand），既不接受形容词 effusive（过分流露的、奔涌的）的修饰，也无法表达言论批评中那种戏剧化、情绪泛滥的“情感倾泻”。"
+    },
+    "translation": "这位评论家并未提出严谨的认识论批判，反而陷入了一番过分溢美的感伤吹捧之中，从而掩盖了该哲学专著在结构与方法论上的深刻矛盾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_11",
+    "group_id": 666,
+    "group_name": "stirrup, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "stirrup",
+    "question": "Historians of technology assert that the development of the rigid ___ provided horsemen with the crucial lateral stability needed to absorb lance impacts without being instantly unseated from their mounts.",
+    "options": [
+      "stirrup",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "stirrup",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive equestrian and technological collocation: 'rigid stirrup' is the established historiographical term for the horse saddle attachment, locked strictly by 'horsemen', 'lateral stability', and 'unseated from their mounts'.",
+    "distractor_analysis": {
+      "stirrup": "正确项。名词，意为“马镫”。在技术史与军事史的经典学术语境中，“the rigid stirrup”（刚性马镫）是中世纪骑兵技术革命的核心专有名词。句中的“horsemen”（骑兵）、“lateral stability”（横向稳定性）、“absorb lance impacts”（承受长矛冲击）以及“unseated from their mounts”（从坐骑上被击落坠马）构成了严丝合缝的语义网络，排他性地锁定骑具专有词 stirrup。",
+      "pier": "干扰项。名词，意为“桥墩；码头；立柱”。属于土木工程与港口建筑词汇，与骑术、马具系统以及避免从坐骑坠落（mounts）毫无语意关联，置于此处产生极严重的范畴错配。",
+      "brace": "干扰项。名词，意为“支架；托架；支撑物；大胡子夹”。虽然 brace 含有广义的“支撑/加固”概念，但在骑兵马具装备中，脚踏受力构件具有不可替代的专有术语 stirrup；且“rigid brace”通常用于建筑受力构件或骨科固定支具，不与骑兵冲锋与坐骑搭配。",
+      "foothold": "干扰项。名词，意为“立足点，踩脚处；（进入某领域的）稳固据点”。它侧重指攀岩时脚踩的天然借力点或抽象的战略据点，并非一种被发明、发展出来的可安装人工骑乘装备（the development of the rigid...），词义与句式完全不符。"
+    },
+    "translation": "技术史学家断言，刚性马镫的发展为骑兵提供了至关重要的横向稳定性，使他们能够承受长矛冲击力，而不至于立即从坐骑上被击落坠马。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_12",
+    "group_id": 666,
+    "group_name": "stirrup, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pier",
+    "question": "Structural engineers warned that severe hydrodynamic scour around the bridge’s massive masonry ___ had compromised its load-bearing capacity, necessitating immediate underwater remediation to prevent structural failure.",
+    "options": [
+      "stirrup",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pier",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive structural and hydraulic engineering collocation: 'bridge’s massive masonry pier' together with 'hydrodynamic scour' and 'underwater remediation' refers exclusively to the vertical bridge substructure embedded in water.",
+    "distractor_analysis": {
+      "pier": "正确项。名词，在此指桥梁的“桥墩”。在土木与水利工程学术语境中，“bridge pier scouring”（桥墩水流冲刷）与“massive masonry pier”（巨大的砖石桥墩）均为高度固定的专业术语。桥墩作为桥梁承受集中荷载的水下立柱构件，与句中的“bridge's... load-bearing capacity”以及“underwater remediation”（水下修复）形成唯一匹配。",
+      "stirrup": "干扰项。名词，指“马镫”，在钢筋混凝土工程中亦可引申指抗剪的“箍筋”。然而此处定语为“massive masonry...”（巨大的砖石结构），砌体结构中绝不存在“masonry stirrup”这种构件，更不可能作为桥梁承载的核心下部支柱。",
+      "brace": "干扰项。名词，指“斜撑；系杆；加固构件”。虽然桥梁中存在横撑或抗风撑，但通常为钢结构或木结构构件，无法与“massive masonry”（沉重巨大的砖石构筑物）搭配，且水动力冲刷（hydrodynamic scour）针对的是河床基底上的桥墩（pier），而非上部连接支撑件。",
+      "foothold": "干扰项。名词，意为“立足点；稳固据点”。通常用于登山攀爬抓地或隐喻地缘政治与市场准入，不可指代桥梁工程中浸没于水下的实体承重砖石构件，出现严重语域破裂。"
+    },
+    "translation": "结构工程师警告称，桥梁巨大的砖石桥墩周围遭受了严重的水动力冲刷，削弱了其承载能力，亟需立即开展水下修复以防止结构性破坏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_13",
+    "group_id": 667,
+    "group_name": "stub, forte, turnout, pressing",
+    "level": "TEM-8",
+    "target_word": "stub",
+    "question": "While attempting to reconstruct the logician's sudden cognitive breakthrough, archival researchers discovered that his revolutionary formula had been hastily recorded on scrap cardboard with the worn ___ of a graphite pencil.",
+    "options": [
+      "stub",
+      "forte",
+      "turnout",
+      "pressing"
+    ],
+    "answer": "stub",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational frame 'the worn ___ of a graphite pencil'. In standard English, 'stub' denotes the short, blunted remainder of an object (such as a pencil, candle, or cigarette) that is left after extensive use. None of the other three distractors can collocate with 'worn' and 'of a graphite pencil'.",
+    "distractor_analysis": {
+      "stub": "正确。stub在此处作名词，表示“（铅笔、香烟、蜡烛等用剩的）残段、短头”。“the worn stub of a graphite pencil”（石墨铅笔磨损后剩下的一小截短头）属于极其典型且地道的固定搭配，完美契合学者在档案中复原逻辑学家原始手稿的语境。",
+      "forte": "错误。forte为抽象名词，意为“特长、强项”，指人在某领域所擅长的技能，与具象的书写工具“graphite pencil”完全无法搭配，语意不通。",
+      "turnout": "错误。turnout常指“到场人数、投票率”或“产出量”，属于群体事件或宏观产出概念，无法用于指代文具残件，存在范畴错误。",
+      "pressing": "错误。pressing作名词时通常指“唱片压制（品）”或“压榨的过程”，作形容词时意为“紧迫的”；无论取何种词性，均无法与“worn”及“of a graphite pencil”构成有意义的搭配。"
+    },
+    "translation": "在试图复原这位逻辑学家突如其来的认知突破时，档案研究人员发现，他的革命性公式是用一截磨钝的石墨铅笔头匆匆记录在废旧硬纸板上的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_14",
+    "group_id": 667,
+    "group_name": "stub, forte, turnout, pressing",
+    "level": "TEM-8",
+    "target_word": "forte",
+    "question": "Although the cognitive psychologist demonstrated extraordinary diagnostic acumen in clinical practice, statistical meta-analysis was decidedly not his ___, as evidenced by several methodological vulnerabilities in his published critique.",
+    "options": [
+      "stub",
+      "forte",
+      "turnout",
+      "pressing"
+    ],
+    "answer": "forte",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The definitive anchor is the idiomatic academic collocation 'not one's forte', signifying that a particular discipline or skill is not someone's strong suit. Preceded by 'was decidedly not his' and contrasted with 'diagnostic acumen', only 'forte' semantically and syntactically fulfills the slot.",
+    "distractor_analysis": {
+      "forte": "正确。forte为名词，意为“专长、特长”。习语搭配“not one's forte”（非某人所长）在学术评述中极为常用，与前半句所展现的“diagnostic acumen”（诊断敏锐度）形成认知能力上的鲜明对比，逻辑与语法均高度吻合。",
+      "stub": "错误。stub主要指票根、存根或残余短头（如铅笔头、烟蒂），为具象物体名词，无法接在物主代词后表示个人的智识能力或学术强项。",
+      "turnout": "错误。turnout指“出席人数、集会规模”或“产量”，不能用于指代个人在特定研究方法上的造诣或专业技能短板，置于句中会导致语义断裂。",
+      "pressing": "错误。pressing作名词指唱片压制品或冲压行为，作形容词表示“迫切的”；此处空缺需填入表示“技能/专长”的名词，pressing在词义与句法功能上均不符合要求。"
+    },
+    "translation": "尽管这位认知心理学家在临床实践中展现出了非凡的诊断敏锐度，但统计元分析显然并非他的专长，这从他已发表的评论文章中暴露出的若干方法论缺陷便可见一斑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_15",
+    "group_id": 668,
+    "group_name": "substantive, hybrid, catchword, quantifier",
+    "level": "TEM-8",
+    "target_word": "substantive",
+    "question": "In cognitive grammar, when an adjectival predicate undergoes radical nominalization, it ceases to function as a dependent modifier and instead acts as a fully articulated ___, governing verbal agreement and hosting premodifying determiners.",
+    "options": [
+      "substantive",
+      "hybrid",
+      "catchword",
+      "quantifier"
+    ],
+    "answer": "substantive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'ceases to function as a dependent modifier and instead acts as a fully articulated ___' establishes a direct structural contrast between a modifier and a noun equivalent, reinforced by 'governing verbal agreement and hosting premodifying determiners', which grammatically specifies a 'substantive' (noun/nominal).",
+    "distractor_analysis": {
+      "substantive": "正确。substantive 作为名词在句法学和语言学中特指“体词、名词或起名词作用的词组”（a noun or noun equivalent）。句中描述形容词谓词经由名词化过程后，不再充当从属修饰成分（dependent modifier），而是成为一个能够支配动词一致性并接受限定词修饰的“名词性实体/体词”，术语搭配与句法功能完全契合。",
+      "hybrid": "错误。hybrid 意为“混合物、杂交体”。尽管形容词名词化可能兼具某些多重特征，但 hybrid 并非能够“支配动词协议并接纳前置限定词”的标准句法语义实体术语，无法与 modifier 构成精准对立。",
+      "catchword": "错误。catchword 意为“流行语、口号、标语”，属于社会语用或通俗传播层面的词汇，与句中探讨的形式语法转换、限定词搭配及句法主谓一致等认知句法学语境完全脱节。",
+      "quantifier": "错误。quantifier 意为“量词、数量词”（或逻辑学中的量词算子）。数量词本身属于限定词（determiner）系统的一部分，是用来修饰名词的，它本身不能被描述为“接纳前置限定词修饰（hosting premodifying determiners）”的主干体词，逻辑关系发生倒错。"
+    },
+    "translation": "在认知语法中，当形容词性谓词经历根本性的名词化转变时，它便不再充当从属性修饰语，而是转而作为一个结构完整的体词（名词性成分）发挥作用，支配动词的一致关系并接纳前置限定词的修饰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_16",
+    "group_id": 668,
+    "group_name": "substantive, hybrid, catchword, quantifier",
+    "level": "TEM-8",
+    "target_word": "hybrid",
+    "question": "Contemporary cognitive modeling increasingly rejects rigid computational dogmas, proposing instead a theoretical ___ that fuses symbolic logic with connectionist neural networks to capture the multifaceted nuances of human semantic processing.",
+    "options": [
+      "substantive",
+      "hybrid",
+      "catchword",
+      "quantifier"
+    ],
+    "answer": "hybrid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the relative clause 'that fuses symbolic logic with connectionist neural networks', which syntactically and semantically demands a noun denoting a composite blend of two distinct theoretical paradigms—specifically, a 'hybrid'.",
+    "distractor_analysis": {
+      "hybrid": "正确。hybrid 作名词指“混合体、复合产物”。在认知科学与人工智能领域，它常用来指代将两种不同计算架构相结合的模型。下文的“fuses symbolic logic with connectionist neural networks”（将符号逻辑与联结主义神经网络相融合）构成了强烈的排他性语义搭配，唯有 hybrid 能准确表达双元融合之意。",
+      "substantive": "错误。substantive 作为名词主要指语言学中的“名词/体词”或罕指哲学上的“实体”，不具备“由两种异质系统或思想学派融合而成的产物”这一核心语义，与“fuses A with B”无法搭配。",
+      "catchword": "错误。catchword 指“标语、口号、时髦词”，通常指浅层、迎合大众的标签化词汇，而句中修饰的是能够“融合两大范式以捕捉语义加工多维细微特征”的深层理论模型，二者语域与语义内涵严重冲突。",
+      "quantifier": "错误。quantifier 为逻辑学或语言学中的“量词算子”，属于具体的演算符号或限定词范畴，绝不可能指代一个融合了符号逻辑与神经网络的宏观理论架构。"
+    },
+    "translation": "当代认知建模日益摒弃僵化的计算教条，转而提出一种将符号逻辑与联结主义神经网络相融合的理论混合架构，以捕捉人类语义处理的多维细微特征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_17",
+    "group_id": 669,
+    "group_name": "tongs, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "tongs",
+    "question": "During the acrimonious parliamentary debates over constitutional reform, the coalition partners abandoned all diplomatic decorum, fighting hammer and ___ over fiscal devolution until an eleventh-hour compromise averted a government collapse.",
+    "options": [
+      "tongs",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "tongs",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "固定习语搭配 hammer and tongs（全力以赴地、激烈地搏斗/争吵），用作状语修饰动词 fighting，且与前文'abandoned all diplomatic decorum'及'acrimonious debates'构成语义闭环。",
+    "distractor_analysis": {
+      "tongs": "正确。tongs 与 hammer 构成英语权威经典习语 hammer and tongs（源自铁匠铺中锤击与钳夹铁器的激烈作业场景），在句中作状语修饰动词 fighting，意为“激烈地、寸步不让地、全力以赴地争吵或打斗”（with great vigor, force, or violence）。该成语完美契合执政联盟各方抛弃外交礼节、就财政分权问题针锋相对展开高烈度政治博弈的语境；在句法上，并列成语构式自然脱落冠词，消除了原题的单复数语法暗示。",
+      "prod": "错误。prod 作名词意为刺棒、尖棒或引申指促动/激励。在英语中不存在 *hammer and prod 这一成语或习语结构；且在政治博弈与激烈争论语境中，该词无法与 hammer 组合表达“激烈争斗”的状语功能。",
+      "foil": "错误。foil 作名词可指陪衬物、花剑或金属薄箔。尽管 foil 在击剑运动中为兵刃，但在英语中绝无 *hammer and foil 这一并列习语，无法构成副词性短语修饰 fighting，搭配严重断裂。",
+      "buffer": "错误。buffer 指缓冲物、减震器或中间调解人。在语义极性上，buffer 强调“缓冲对抗、消解冲突”，这与前文描述抛弃礼节、针锋相对（fighting）的高烈度交锋语境截然相反；且英语中亦无 *hammer and buffer 这一搭配。"
+    },
+    "translation": "在关于宪法改革的激烈议会辩论中，执政联盟的各合作方抛弃了一切外交礼节，就财政分权问题争得不可开交、全力相搏，直到最后一刻达成的妥协才避免了政府倒台。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_18",
+    "group_id": 669,
+    "group_name": "tongs, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The unexpected publication of the empirical anomalies served as a sharp intellectual ___ to jar the committee out of their dogmatic inertia and stimulate rigorous reappraisal of the foundational model.",
+    "options": [
+      "tongs",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "不定冠词 a 与修饰语 sharp intellectual，以及后置不定式结构 to jar ... out of their dogmatic inertia and stimulate（打破教条惯性并激发起重新评估）。",
+    "distractor_analysis": {
+      "prod": "正确。prod 物理意义为尖锐的刺棒，在抽象认知语境中引申为“促使行动的强烈刺激或鞭策”（an incitement to action: spur）。a sharp intellectual prod 构成极具表现力的认知修辞搭配，与后置动词短语 jar out of dogmatic inertia（震碎教条惰性）及 stimulate（激发）在逻辑动力机制上完全一致，且符合单数可数名词的句法要求。",
+      "tongs": "错误。tongs（钳子）属于固有复数名词（pluralia tantum），前面绝不可与单数不定冠词 a 直接连用（*a sharp intellectual tongs 属于典型语法错误），且其物理夹持义无法抽象出驱使他人采取行动的激发动力。",
+      "foil": "错误。foil 引申为“陪衬者、衬托物”，侧重指通过鲜明对比以衬托另一方特质的事物（如 a foil to/for sb）。foil 是一种被动对照载体，无法充当具备冲击力、主动将人“震出惰性（jar out of inertia）”的外在鞭策物。",
+      "buffer": "错误。buffer 指“缓冲器、缓冲减震物”，其核心语义特征是吸收震荡、消减外部冲击以维持内部平衡。若填入 buffer，则意味着该现象起到了“维稳、隔绝冲击”的作用，这将直接加剧或巩固惰性，与后文 jar out of inertia and stimulate 构成严重的语意逻辑反转冲突。"
+    },
+    "translation": "这些经验异常现象的意外公布，如同一记尖锐的智识鞭策，打破了委员会教条主义的僵化惯性，并促使他们对基础模型展开了严格的重新评估。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_19",
+    "group_id": 670,
+    "group_name": "trance, hypnosis, vexation, agitation",
+    "level": "TEM-8",
+    "target_word": "trance",
+    "question": "While investigating altered states of consciousness, the cognitive neuroscientists observed that subjects suspended in a hypnotic ___ exhibited pronounced theta oscillations alongside marked disengagement from external sensory stimuli.",
+    "options": [
+      "trance",
+      "hypnosis",
+      "vexation",
+      "agitation"
+    ],
+    "answer": "trance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Preceding adjective modifier 'hypnotic' combined with the prepositional structure 'suspended in a...'",
+    "distractor_analysis": {
+      "trance": "正确。在认知神经科学与心理学语篇中，'hypnotic trance'（催眠性出神/恍惚状态）属于高度固定的学术搭配，指一种意识改变、注意力高度集中且对外界感官刺激发生解离（disengagement）的特殊状态，与句中 'suspended in a...' 以及后文的神经生物学特征（theta oscillations）完全吻合。",
+      "hypnosis": "错误。搭配重叠与同义修辞赘述（tautology）。形容词 'hypnotic'（催眠的）本身派生自 'hypnosis'，学术英语中绝无 '*hypnotic hypnosis' 的畸形组合；此外，'hypnosis' 作为表状态或技术的名词，常作不可数用或置于 'under' 之后，不与 'a hypnotic...' 搭配。",
+      "vexation": "错误。词义冲突与搭配破裂。'vexation' 意为“恼怒、烦乱、焦虑的苦恼”，既无法与 'hypnotic' 构成规范的学术表征搭配，也与后文受试者处于沉静出神、脱离外界干扰（disengagement from external stimuli）的认知表现发生明显逻辑矛盾。",
+      "agitation": "错误。语义极性对立。'agitation' 指“极度焦虑、生理性烦躁不安与动作躁动”，其神经特征表现为高度觉醒与交感神经兴奋，而本句中的 'suspended in'（沉浸/静止于）以及脑电图慢波（theta oscillations）表征的是副交感主导的深度放松态，二者在语义与神经生理学上截然相反。"
+    },
+    "translation": "在探索意识改变状态时，认知神经科学家观察到，处于催眠性恍惚状态的受试者表现出显著的θ波振荡，同时明显脱离了对外界感官刺激的感知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b66_20",
+    "group_id": 670,
+    "group_name": "trance, hypnosis, vexation, agitation",
+    "level": "TEM-8",
+    "target_word": "hypnosis",
+    "question": "During the forensic inquiry, the key witness recounted long-suppressed memories while under ___, yet the appellate judges deemed such evidence inadmissible due to established risks of confabulation and hyper-suggestibility.",
+    "options": [
+      "trance",
+      "hypnosis",
+      "vexation",
+      "agitation"
+    ],
+    "answer": "hypnosis",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed prepositional framework 'while under ___' without an article, coupled with forensic cognition terms 'confabulation and hyper-suggestibility'",
+    "distractor_analysis": {
+      "hypnosis": "正确。句法上，'under hypnosis'（处于催眠状态下）是不可分割且无需加冠词的权威固定搭配；语域上，后文提及的“压抑记忆的恢复（recounted long-suppressed memories）”以及法庭因“虚构症（confabulation）”和“高度受暗示性（hyper-suggestibility）”排斥该证据，属于司法心理学中针对催眠恢复证词（hypnotically refreshed testimony）的经典判例准则。",
+      "trance": "错误。介词搭配语法冲突。表示处于出神或恍惚状态时，标准介词为 'in' 且常带不定冠词（即 'in a trance'），现代英语中不存在 '*under trance' 这一介词短语，置于此处会造成严重的句法破裂。",
+      "vexation": "错误。介词搭配与司法认知逻辑均不成立。'vexation'（恼怒、烦躁）的常见介词搭配为 'in vexation' 或 'out of vexation'，不可与 'under' 连用搭配成 '*under vexation'；同时，普通情绪上的恼怒无法诱发具有高度受暗示性及虚构症特征的记忆提取过程。",
+      "agitation": "错误。介词搭配与心理机制失配。'agitation'（躁动、焦虑不安）在表达处于该状态时通常搭配 'in'（如 'in agitation' 或 'in a state of agitation'），不存在 '*under agitation' 的表达；且精神躁动并非法庭心理学中引发记忆重构或过度暗示的特定程序因由。"
+    },
+    "translation": "在司法调查期间，关键证人在催眠状态下回忆了压抑已久的记忆，然而上诉法院法官认为鉴于虚构症和高度受暗示性的确凿风险，该证据不具可采纳性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

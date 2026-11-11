@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.11.preview",
-  "updated_at": 1791706927576,
+  "version": "2026.11.01",
+  "updated_at": 1793503519071,
   "packages": {
     "tem4": {
       "collocation": {
@@ -28,25 +28,25 @@
     "tem8": {
       "collocation": {
         "path": "tem8/collocation.json",
-        "count": 43,
+        "count": 915,
         "label": "介词与句式搭配"
       },
       "connotation": {
         "path": "tem8/connotation.json",
-        "count": 6,
+        "count": 64,
         "label": "感情色彩与褒贬"
       },
       "register": {
         "path": "tem8/register.json",
-        "count": 2,
+        "count": 23,
         "label": "语境庄谐与文体"
       },
       "nuance": {
         "path": "tem8/nuance.json",
-        "count": 9,
+        "count": 498,
         "label": "词义侧重与深浅"
       },
-      "total_count": 60
+      "total_count": 1500
     }
   }
 }

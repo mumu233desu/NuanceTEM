@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b05_01",
+    "group_id": 51,
+    "group_name": "disentangle, mousse, cleanse, manicure",
+    "level": "TEM-8",
+    "target_word": "disentangle",
+    "question": "Before econometricians can establish causality, they must carefully ___ the confounding socio-economic variables from the immediate impacts of the fiscal stimulus, lest their policy recommendations yield catastrophic consequences.",
+    "options": [
+      "disentangle",
+      "mousse",
+      "cleanse",
+      "manicure"
+    ],
+    "answer": "disentangle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "本题核心锚点为固定认知与分析搭配'disentangle A from B'（理清/剥离缠绕的复杂因素）以及宾语'confounding socio-economic variables'（混淆的社会经济变量）。在计量经济学与因果推断语境中，必须将相互交织的混杂变量从政策冲击中'解开/剥离'。其他三项均无法与'from'搭配构成'厘清混淆变量'之意。",
+    "distractor_analysis": {
+      "disentangle": "正确。作及物动词时意为'理清、分清、使解脱'，常与介词'from'连用（disentangle... from...），表示将错综复杂、相互交织的要素剥离、厘清。句中宾语为'confounding socio-economic variables'，与因果分析的学术语境严丝合缝。",
+      "mousse": "错误。作动词时专指'用摩丝（定型泡沫）做发型'（to apply mousse to hair），在此学术语境中出现属于语义范畴完全脱节的严重错误。",
+      "cleanse": "错误。cleanse常接介词of或from（如cleanse sb of sin / cleanse a wound from dirt），其核心语义是'清洗、洗涤、净化'，宾语应为被净化的主体，而非需要分离、辨析的抽象统计学变量；且变量本身不能被'净化'，语义逻辑不通。",
+      "manicure": "错误。manicure主要指'修剪（指甲）'，引申指'精细修剪、修饰（草坪、文字等）'，无'将A从B中分离辨析'的搭配用法，与介词from及抽象经济变量产生严重的搭配破裂。"
+    },
+    "translation": "在计量经济学家确立因果关系之前，他们必须仔细理清混杂的社会经济变量与财政刺激措施的直接影响，以免其政策建议造成灾难性后果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_02",
+    "group_id": 51,
+    "group_name": "disentangle, mousse, cleanse, manicure",
+    "level": "TEM-8",
+    "target_word": "mousse",
+    "question": "Before the historical production commenced, theatrical stylists were instructed to generously ___ the performers' damp hair to create the stiff, exaggerated volume characteristic of late-twentieth-century aesthetic conventions.",
+    "options": [
+      "disentangle",
+      "mousse",
+      "cleanse",
+      "manicure"
+    ],
+    "answer": "mousse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "本题的决定性语义锚点为宾语'performers' damp hair'（演员微湿的头发）以及目的状语'to create the stiff, exaggerated volume'（以打造出僵直且夸张的蓬松发量）。四个选项中，仅有动词'mousse'（涂抹摩丝定型）能够直接支配头发并实现产生定型与蓬松度（stiff, exaggerated volume）的功能效果。",
+    "distractor_analysis": {
+      "mousse": "正确。mousse作及物动词时，意为'给（头发）抹摩丝定型'。语境为舞台造型师处理演员的湿发以塑造出20世纪后期的定型夸张发量，其动作对象（hair）与造型效果（stiff, exaggerated volume）完全契合词义。",
+      "disentangle": "错误。disentangle指'理顺、解开（缠结的头发或绳结）'。梳顺理清头发的直接结果是使其服帖顺滑，与后文追求'stiff, exaggerated volume'（僵硬、夸张的蓬松体积）的定型目的在因果逻辑上发生直接冲突。",
+      "cleanse": "错误。cleanse意为'清洗、清洁'。洗发通常是清洁护理步骤，主要去除污垢油脂，本身无法直接'产生僵挺夸张的体积发量'；且若在演出前为了定型而使用，cleanse与后文的造型目的存在严重逻辑断层。",
+      "manicure": "错误。manicure作为动词专指'修剪指甲'或引申为'修剪（草坪、园艺等）'，其受词绝不可用于头发（hair），构成严重的词汇搭配冲突（collocational violation）。"
+    },
+    "translation": "在这部历史剧演出开始前，舞台造型师接到指示，要往演员微湿的头发上大量涂抹摩丝，以营造出20世纪后期美学惯例所特有的僵挺而夸张的发量造型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_03",
+    "group_id": 52,
+    "group_name": "down, lurch, trounce, vanquish",
+    "level": "TEM-8",
+    "target_word": "down",
+    "question": "Although electronic jamming temporarily blinded regional radar installations, coastal air-defense batteries responded swiftly to ___ the intruding reconnaissance drone before it could transmit tactical imagery of the fortified naval base.",
+    "options": [
+      "down",
+      "lurch",
+      "trounce",
+      "vanquish"
+    ],
+    "answer": "down",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_MILITARY",
+    "anchor_clue": "本题的核心排他锚点在于主语与受事宾语的物理动作机制及语义选择限制（Selectional Restrictions）。主语 coastal air-defense batteries（海岸防空炮兵/导弹部队）与直接宾语 the intruding reconnaissance drone（入侵侦察无人机）之间，要求动词表达防空武器实施火力拦截并使其坠落的物理动作。Merriam-Webster 与 Oxford 明确收录 down 作为及物动词的标准书面释义：“to cause to go or come down; cause to fall by shooting (e.g., down an enemy aircraft)”，构成规范权威的军事地道搭配。其余选项中：lurch 为不及物动词，造成致命句法结构破裂；trounce 语义严格限定于比分差距悬殊的竞技比赛大胜；vanquish 的受事宾语在语义特征上强制要求具备生命性、人格政体性或心理属性（如军队、宿敌、心魔），绝不可用于物理机械硬件，因而被决定性排除。",
+    "distractor_analysis": {
+      "down": "正确。down 在此处用作及物动词，表示“击落（敌机、飞行器等）”（Merriam-Webster 权威释义：to cause to go or come down: such as to cause to fall by or as if by shooting; Oxford: bring down an aircraft）。句中主语为防空火器（air-defense batteries），宾语为入侵侦察无人机（the intruding reconnaissance drone），down 与防空火力击坠敌方航空器构成极其严密纯正的国际军事与战略防务搭配（FIELD_MILITARY），完全契合高水准学术与外媒时政刊物的语体要求。",
+      "lurch": "错误。lurch 在现代英语中为典型的不及物动词（intransitive verb），意为“突然颠簸、倾斜或踉跄行进”（to roll, pitch, or move with a sudden, unsteady jerk），其后不可直接接宾语 the intruding reconnaissance drone，直接填入将导致句法及物性严重破裂（syntactic transitivity violation）。",
+      "trounce": "错误。trounce 专指在竞赛、选举或争端中“以压倒性优势彻底击败、痛击对手”（to defeat heavily or decisively in a contest; clobber），其支配的宾语必须是参与比拼的选手、球队或政治阵营（古义中亦指对人施以肉体体罚）。无人机为非生命无人硬件设备，不存在参与赛事竞争的语义特征，将其与 trounce 搭配属于严重的范畴错配（category error）与语义冲突。",
+      "vanquish": "错误。vanquish 属于高度典雅的书面语词汇，核心语义为在战场上“彻底征服、消灭（有生命的敌军、敌国或反抗势力）”（to defeat in battle or contest; subjugate）或在精神上“克制、克服（恐惧、诱惑等内心情感）”。其受事宾语在语义选择限制（selectional restrictions）上必须具备生命性（animate）、政治实体性（如 army, foe, tyrant）或抽象心智属性（如 fear, pride），绝不能用于表述物理击落单台无生命的机械装备（an unmanned reconnaissance drone），填入此处属于明显的搭配断裂与语意违规。"
+    },
+    "translation": "尽管电子干扰暂时使该区域的雷达设施失效，但海岸防空部队迅速做出反应，在入侵的侦察无人机将筑垒海军基地的战术图像传输回去之前将其击落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_04",
+    "group_id": 52,
+    "group_name": "down, lurch, trounce, vanquish",
+    "level": "TEM-8",
+    "target_word": "lurch",
+    "question": "Deprived of a coherent methodological paradigm, the research committee began to ___ erratically from speculative metaphysical postulations to rigid hyper-empiricism, alienating both theorists and applied scientists across the faculty.",
+    "options": [
+      "down",
+      "lurch",
+      "trounce",
+      "vanquish"
+    ],
+    "answer": "lurch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic frame requires an intransitive verb of unstable or erratic directional movement followed by the prepositional construction 'from [X] to [Y]'. The cluster's other three verbs ('down', 'trounce', 'vanquish') are strictly transitive verbs requiring a direct object and cannot grammatically govern a 'from... to...' trajectory.",
+    "distractor_analysis": {
+      "lurch": "正确。lurch 用作不及物动词，意为“突然倾斜，蹒跚，不可控地摇摆”。“lurch erratically from... to...”是高级学术政论与认识论哲学中的经典强搭配（MECH_COLLOCATION），极为传神地刻画了学术委员会在缺乏科学范式时，在“思辨玄想”与“极端经验主义”两极之间跌跌撞撞、无所适从的失衡状态，完全符合认知思维领域（FIELD_COGNITION）的逻辑语境。",
+      "down": "错误。down 用作动词时是纯及物动词（意为击败对手、击落飞行器或咽下饮料），根本无法作为不及物动词与介词短语 from... to... 搭配，造成句法失范。",
+      "trounce": "错误。trounce 是纯及物动词，必须支配表示被击败实体的名词作直接宾语（如 trounce the rival school），完全不具备表示“摇摆、在两极之间晃动”的不及物语法功能。",
+      "vanquish": "错误。vanquish 同样是纯及物动词（transitive verb only），要求接被征服或压制的具体对象（如 vanquish an adversary / vanquish fear），无法置于“___ from... to...”这一空间/思想摆动的句型框架之中。"
+    },
+    "translation": "由于丧失了连贯的方法论范式，该研究委员会开始在充满臆测的形而上学假说与僵化的极端经验主义之间剧烈摇摆，令全院的理论学者与应用科学家皆深感疏离。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_05",
+    "group_id": 53,
+    "group_name": "drench, nurture, procure, gratify",
+    "level": "TEM-8",
+    "target_word": "drench",
+    "question": "The playwright opted to ___ the final act in unrelenting pathos, compelling the audience to confront the tragic consequences of societal neglect rather than offering an easy, sentimentally convenient catharsis.",
+    "options": [
+      "drench",
+      "nurture",
+      "procure",
+      "gratify"
+    ],
+    "answer": "drench",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive construction 'to ___ sth in [unrelenting pathos]' strictly demands a verb expressing total figurative immersion or saturation; 'drench' uniquely licenses this rhetorical frame.",
+    "distractor_analysis": {
+      "drench": "正确。drench 原指“使湿透、浸湿”，在文学与艺术批评语境中常用于高阶引申义，表示“使……完全浸润于（某种情绪、光线或氛围）”，构成经典动介搭配“drench sth in/with sth”。在此句中与“the final act in unrelenting pathos”（使剧作最终幕沉浸在无休止的哀婉悲悯之中）完美契合，体现了高级文学质感。",
+      "nurture": "错误。nurture 意为“培育、滋养”，是纯及物动词，宾语通常为具有成长潜质的实体、品质或关系（如 nurture talent, nurture a belief），无法与介词短语“in unrelenting pathos”连用充当状态补足成分，句法搭配破裂。",
+      "procure": "错误。procure 意为“设法获取、采购”，后接具体客观物资、服务或合法凭证（如 procure resources, procure evidence），既不能用于文学创作的情感渲染，也根本无法接“in + 抽象情感”这一结构。",
+      "gratify": "错误。gratify 意为“使满足、取悦”，其宾语仅能是人、欲望、虚荣心或感官需求（如 gratify one's senses/curiosity），无法以剧本的幕次（the final act）作宾语，亦无“gratify sth in sth”之用法。"
+    },
+    "translation": "剧作家选择让终幕完全浸润在无休止的悲怆氛围之中，迫使观众直面社会漠视所带来的悲剧性后果，而非提供廉价且迎合感官的情感宣泄。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_06",
+    "group_id": 53,
+    "group_name": "drench, nurture, procure, gratify",
+    "level": "TEM-8",
+    "target_word": "nurture",
+    "question": "The newly instituted doctoral seminar was specifically designed to ___ critical inquiry and methodological rigor, transforming tentative graduate researchers into autonomous scholars capable of challenging entrenched theoretical orthodoxies.",
+    "options": [
+      "drench",
+      "nurture",
+      "procure",
+      "gratify"
+    ],
+    "answer": "nurture",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'critical inquiry and methodological rigor' denotes internal cognitive faculties cultivated over time, establishing an exclusive collocation with 'nurture'.",
+    "distractor_analysis": {
+      "nurture": "正确。nurture 在学术与认知领域（FIELD_COGNITION）常表示“培育、涵养（思维、学术素养、求知欲）”，与宾语“critical inquiry and methodological rigor”（批判性探究与方法论严谨性）构成极其地道的学术搭配，后文“transforming... into autonomous scholars”进一步确证了这种长效培育的动态逻辑。",
+      "drench": "错误。drench 意为“使浸透”，即使在引申用法中也必须体现弥漫性或浸润性（且常接介词 in/with），无法及物性地直接作用于抽象的智识素养（*drench critical inquiry），语义完全不通。",
+      "procure": "错误。procure 侧重通过手段从外部“取得、采购”（如 procure funding, procure supplies），而批判性探究与学术严谨性属于内在心智习得过程，不能作为外部客观商品或资源被“采购”，犯了严重的范畴错误（category mistake）。",
+      "gratify": "错误。gratify 意为“满足、迎合（欲望、虚荣、好奇心）”，常带有一过性放任或消极纵容意味。严谨的方法论素养（methodological rigor）是一种自律性的学术规范，绝非等待被“迎合”的本能冲动，用在此处语域与内涵严重冲突。"
+    },
+    "translation": "新设立的博士研讨课旨在专门培养批判性探究精神与严谨的方法论素养，将犹豫不决的初级研究生转变为有能力挑战根深蒂固学术正统的独立学者。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_07",
+    "group_id": 54,
+    "group_name": "ejaculate, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "ejaculate",
+    "question": "Analyzing the rhetorical conventions of nineteenth-century stage melodrama, the monograph observes that imperiled heroines invariably ___ fervent prayers toward heaven, utilizing sudden affective supplication to demonstrate spiritual purity rather than articulate rational resistance.",
+    "options": [
+      "ejaculate",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "ejaculate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "Definite transitive verb collocation with 'fervent prayers toward heaven' in the context of nineteenth-century rhetorical and devotional conventions, directly matching the lexicographical archetype for sudden pious utterance (cf. Merriam-Webster: 'ejaculated a fervent prayer') and categorically precluding indiscreet disclosure ('blurt') or intransitive whining ('snivel').",
+    "distractor_analysis": {
+      "ejaculate": "【正确】作为及物动词时属于典雅书面语与19世纪文学修辞语体，意为“（在危急、惊恐或虔敬时刻）突发性地喊出、脱口吐露（短促热切的祷告、呼喊或感叹）”。《韦氏大词典》（Merriam-Webster）将其定义为“to utter suddenly and briefly: exclaim”，并明确将“ejaculated a fervent prayer”列为经典范例。在分析通俗剧女主角面临险境时向苍天倾吐祈求的学术语境中，与宾语“fervent prayers toward heaven”构成无懈可击的典范搭配，语域庄重且合乎修辞学规范。",
+      "blurt": "【排除】意为“冒失脱口说出、泄露”，核心语义特征带有“轻率、未加思索、泄露机密或尴尬实情”（usually used with out, 如 blurt a secret, blurt the truth）。该词指向揭露不合时宜的信息或过失，与庄重向神明倾诉的“热切祈祷”（fervent prayers）存在根本性的语义互斥与语域断裂，无法用于表述虔诚祈愿。",
+      "whiff": "【排除】主要用作及物或不及物动词表示“轻吹、轻喷、吸入”或体育俚语中的“击空”，句法上绝不能支配抽象的言语祈求（fervent prayers），语义亦与发声祈祷毫无关联。",
+      "snivel": "【排除】在现代标准英语中为不及物动词，意为“抽噎、流着鼻涕哭泣、卑怯地抱怨”，句法上无法直接接名词宾语“fervent prayers”；且其带有自怜、猥琐或懦弱的强烈贬义色彩，与通俗剧中以热切祈愿彰显“精神纯洁”（spiritual purity）的高尚修辞完全相悖。"
+    },
+    "translation": "在分析十九世纪舞台通俗剧的修辞惯例时，该专著指出，身陷险境的女主人公总是向苍天脱口发出热切的祈祷，借助突发的情感性哀告来彰显精神的纯洁，而非组织起理性的抵抗。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_08",
+    "group_id": 54,
+    "group_name": "ejaculate, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Under the relentless scrutiny of the parliamentary committee, the panicked undersecretary seemed liable to ___ out classified details regarding the illicit surveillance program, thereby compromising ongoing diplomatic negotiations.",
+    "options": [
+      "ejaculate",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Phrasal verb collocation with the particle 'out' governing propositional secrets or sensitive information ('___ out classified details').",
+    "distractor_analysis": {
+      "blurt": "【正确】构成固定动词短语 blurt out，专门表示“（在压力、惊慌或冲动下）不假思索地脱口说出、泄露（机密信息、隐私、尴尬事实）”，在此处与 'out classified details' 形成极具决定性的惯用搭配，完美契合听证会盘问下的认知失控语境。",
+      "ejaculate": "【排除】表示“突然脱口说出”时为正式语体，后接单音节感叹或情感呼喊，其本身即为完整动词，绝不与小品词 out 构成连用短语，亦不用于描述泄露具体机密条款或技术性情报。",
+      "whiff": "【排除】短语 whiff out 在美式棒球俚语中表示“三振出局”，为不及物用法，无法充当及物短语支配宾语 'classified details'，在政治与外交语境中属于严重语义断裂。",
+      "snivel": "【排除】为不及物动词，表示“抽泣、哀鸣、抱怨”，不存在 *snivel out 这一支配机密情报名词的及物动词短语结构，用法完全不符合语法规范。"
+    },
+    "translation": "在议会委员会毫不留情的严密质询下，陷入恐慌的副部长似乎极有可能脱口泄露有关该非法监控项目的机密细节，从而危及正在进行的外交谈判。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_09",
+    "group_id": 55,
+    "group_name": "electrify, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "electrify",
+    "question": "The charismatic reformer managed to ___ the party congress with an impassioned keynote address, transforming an otherwise routine administrative gathering into an arena of fervent ideological resurgence.",
+    "options": [
+      "electrify",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "electrify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocation with 'the party congress' and 'with an impassioned keynote address', leading to 'fervent ideological resurgence' (thrilling an audience into intense excitement).",
+    "distractor_analysis": {
+      "electrify": "正确。electrify 在此取其经典引申义，表示“使极其兴奋、使震撼、使群情激昂”（to shock, thrill, or excite intensely）。在政治与学术高阶语体中，electrify 常与 audience, crowd, convention, congress 等聚集性名词搭配，句中其与“impassioned keynote address”（激昂的主旨演讲）及结果从句“arena of fervent ideological resurgence”（热烈意识形态复兴的舞台）形成完美的语义与逻辑协同。",
+      "clog": "错误。clog 意为“堵塞、阻碍（流动或进程）”（to impede or block），带有强烈的负面阻滞色彩，与后文点燃全场热情、引发意识形态复兴的积极激励语境完全相悖。",
+      "deluge": "错误。deluge 作及物动词意为“淹没；使应接不暇”，常用于被动语态或搭配复数名词/大量信息（如 deluge somebody with complaints/letters）。此处宾语为单数集会（the party congress），手段为主旨演讲，在语义上无法表示“使大会振奋激昂”，搭配不当且感情色彩不符。",
+      "clutter": "错误。clutter 指“使杂乱、塞满零乱之物”（to fill or cover with scattered things in disorder），主要用于物理空间（如 clutter a desk）或心理概念（clutter the mind），无法用于形容用演讲震撼整场代表大会。"
+    },
+    "translation": "这位充满魅力的改革者凭借一场慷慨激昂的主旨演讲震撼了整个党代表大会，将原本例行公事的行政集会转变为迸发狂热意识形态复兴的舞台。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_10",
+    "group_id": 55,
+    "group_name": "electrify, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "By repeatedly introducing procedural motions and frivolous interlocutory appeals, the defense counsel sought to ___ the administrative machinery of the tribunal, effectively delaying the proceedings until the statutory deadline expired.",
+    "options": [
+      "electrify",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Idiomatic collocation 'clog the administrative machinery' paired with the deliberate outcome 'effectively delaying the proceedings'.",
+    "distractor_analysis": {
+      "clog": "正确。clog 意为“阻碍、妨碍……的正常运转/流动”（to hinder or impede the operation of）。在正式司法与政经文本中，clog 常与 machinery（机制、机构）、wheels of justice（司法轮运转）、dockets（诉讼日程）等搭配，表示“使机制陷入停顿或瘫痪”。本句中辩方律师通过恶意动议阻碍仲裁庭运作以拖延程序，完全契合 clog the administrative machinery 的固定修辞搭配。",
+      "electrify": "错误。electrify 意为“使振奋、使通电”，与后文律师恶意阻挠机制运转、拖延诉讼进程的负面语境产生严重的逻辑与褒贬矛盾。",
+      "deluge": "错误。deluge 强调“如洪水般淹没、压垮”（overwhelm），通常以人或受体场所为宾语并后接大量事物（deluge sb/sth with sth）；英语中不存在 *deluge the machinery 来表达使机制卡顿或运转受阻的用法，属于搭配割裂。",
+      "clutter": "错误。clutter 意为“使凌乱、堆满杂物”，其典型受词为具体空间（rooms, shelves）或思维层面，不能用来表示使制度性、程序性的“行政运转机制”（machinery）陷入停滞。"
+    },
+    "translation": "辩护律师通过反复提出程序性动议和无理的中期上诉，企图阻碍仲裁庭行政机制的运转，从而有效地拖延了诉讼程序，直至法定截止期限届满。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_11",
+    "group_id": 56,
+    "group_name": "electrocute, fry, lynch, liquidate",
+    "level": "TEM-8",
+    "target_word": "electrocute",
+    "question": "Ethicists and cognitive researchers examining execution protocols revealed that flawed electrical delivery could agonizingly ___ the condemned prisoner without inducing immediate unconsciousness, thereby inflicting prolonged and unconstitutional cerebral trauma.",
+    "options": [
+      "electrocute",
+      "fry",
+      "lynch",
+      "liquidate"
+    ],
+    "answer": "electrocute",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“flawed electrical delivery”（有缺陷的电流传输）与宾语“the condemned prisoner”（死刑犯）构成明确的司法与物理致死机制，且全句属于正式学术/司法伦理语域，唯有具有正式语体色彩且特指以电刑处死生物的 electrocute 成立。",
+    "distractor_analysis": {
+      "electrocute": "正确。动词，意为“（以电刑）处死；使触电身亡”（由 electro- 与 execute 构成）。在严肃的司法死刑执行与神经认知伦理语境中，修饰有缺陷的电流导致受刑者在极度痛苦中触电致死，electrocute 是唯一符合正式语体（formal register）及法定致死机制的学术用词。",
+      "fry": "排除。fry 虽在美式俗语/俚语中可表示“将……处以电刑”（如 fry in the electric chair），但其具有强烈的口语及粗俗贬抑色彩，在探讨生命伦理与宪法创伤的高规格学术研究语域中属于严重的文体断层（stylistic clash），无法与正式的学术主干及副词 agonizingly 搭配。",
+      "lynch": "排除。动词，特指“（暴民）施以私刑处死”（尤指未经合法审判而实施的非法私刑绞杀）。题干明确指出是制度内的“execution protocols”（法定执行规程），施事机制亦为电流，与暴民私刑在法律性质与手段上均相悖。",
+      "liquidate": "排除。动词，意为“清算（公司债务、资产）”或政治/情报术语中的“肃清、消灭（政敌）”。该词强调有组织、隐秘的肉体消灭或经济清算，与电流输入引发的生理死亡无搭配关系。"
+    },
+    "translation": "审查死刑执行规程的伦理学家与认知研究人员指出，有缺陷的电流输送可能会令死刑犯在遭受极度痛苦的电刑时无法立即丧失知觉，从而造成长期且违宪的大脑创伤。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_12",
+    "group_id": 56,
+    "group_name": "electrocute, fry, lynch, liquidate",
+    "level": "TEM-8",
+    "target_word": "fry",
+    "question": "Cognitive neuroscientists modeling artificial perception warned that a sudden power surge through the unshielded laboratory apparatus would instantly ___ the delicate neuromorphic microchips, destroying weeks of intricate neural network data.",
+    "options": [
+      "electrocute",
+      "fry",
+      "lynch",
+      "liquidate"
+    ],
+    "answer": "fry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "宾语为无生命电气元件“the delicate neuromorphic microchips”（脆弱的神经形态微芯片），主语诱因为“power surge”（电涌）。在现代科技及学术英语中，专用于表示过大电流或过热“烧毁/击穿”电路及芯片的及物动词仅有 fry；electrocute 受到生物生命特征（animacy）的选择限制，严禁用于无生命硬件。",
+    "distractor_analysis": {
+      "fry": "正确。及物动词，在现代电子工程、计算认知科学及科技英语中，fry 是被权威词典（如 Merriam-Webster、OED）收录的标准技术/新闻及物搭配，意为“（因过热或过大电流）烧毁、击穿（电子元件、芯片、主板）”。与前文“power surge”和后文“microchips”形成严丝合缝的专业搭配。",
+      "electrocute": "排除。动词。electrocute 的语义选择限制（selectional restriction）严格限定其直接宾语必须为**活体生物**（人类或动物），意为“使触电身亡/致残”（词源为 electro- + execute）。将其用于无生命的微芯片或集成电路，属于严重的语义范畴谬误（category error）。",
+      "lynch": "排除。动词，仅用于指涉人类遭受暴民私刑处决，绝对不能以电子硬件或物理元件作为受事客体。",
+      "liquidate": "排除。动词，意为“清算（资产、库存）”或“清洗（人员）”。虽然可接物宾（如 liquidate assets 变现资产），但绝无物理上“因电涌而过热烧毁电路芯片”的物理致毁语义。"
+    },
+    "translation": "模拟人工感知的认知神经科学家警告称，穿透未屏蔽实验室仪器的突发性电涌会瞬间烧毁脆弱的神经形态微芯片，摧毁数周以来训练所得的复杂神经网络数据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_13",
+    "group_id": 57,
+    "group_name": "embezzle, loot, pinch, swipe",
+    "level": "TEM-8",
+    "target_word": "embezzle",
+    "question": "A forensic audit revealed that the chief financial officer had exploited internal accounting loopholes over several years to systematically ___ corporate endowments and client deposits entrusted to his fiduciary oversight.",
+    "options": [
+      "embezzle",
+      "loot",
+      "pinch",
+      "swipe"
+    ],
+    "answer": "embezzle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "搭配与语义锚点为“corporate endowments and client deposits entrusted to his fiduciary oversight”（受托进行信托监管的公司捐赠基金与客户存款）以及“exploited internal accounting loopholes”（利用内部财务漏洞）。在英语中，特指“利用职务之便侵吞、挪用受托保管的资金或公款”的唯一专有法律与金融动词是 embezzle。",
+    "distractor_analysis": {
+      "embezzle": "正确。指受托照管他人或机构财产的人利用职务之便进行非法侵占或挪用（fraudulently appropriate funds entrusted to one's care）。与句中“entrusted to his fiduciary oversight”（受托进行信托监管）及“corporate endowments/client deposits”（基金与存款）构成严密的专业搭配，语体庄重，完全符合司法与金融审计语境。",
+      "loot": "错误。主要指在战争、暴乱、自然灾害等混乱状态下对某一地点（如商店、遗址、城市）进行公开的洗劫、劫掠或大肆抢掠（plunder/ransack）。句中描述的是高管利用做账漏洞隐蔽侵吞受托资产的白领犯罪，而非暴力洗劫，语境及搭配均不成立。",
+      "pinch": "错误。属于英式非正式/口语用词（informal），常指小偷小摸、顺手牵羊顺走价值不菲或微不足道的小物件（pilfer/steal petty items）。在严肃的司法审计与高层金融犯罪报告中出现会导致严重的语体破格（stylistic clash）。",
+      "swipe": "错误。主要为非正式口语（informal/slang），指快速、隐秘地顺走小物件（to steal something quickly and quietly）。置于以“forensic audit”、“fiduciary oversight”为标志的高度正式学术/法律语体中，存在不可接受的语域冲突。"
+    },
+    "translation": "一项法务审计表明，该首席财务官在数年间利用内部做账漏洞，系统性地侵吞了受托归其信托监管的公司捐赠基金及客户存款。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_14",
+    "group_id": 57,
+    "group_name": "embezzle, loot, pinch, swipe",
+    "level": "TEM-8",
+    "target_word": "loot",
+    "question": "Taking advantage of the total breakdown of civic authority during the civil conflict, organized syndicates operated illicit excavations to systematically ___ ancient burial complexes and transport irreplaceable artifacts across porous national borders.",
+    "options": [
+      "embezzle",
+      "loot",
+      "pinch",
+      "swipe"
+    ],
+    "answer": "loot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "及物动词的宾语为“ancient burial complexes”（古墓葬群，即处所/遗址），前置语境为“breakdown of civic authority during the civil conflict”（内战期间公权力彻底瘫痪）与“illicit excavations”（非法盗掘）。在此类涉及战乱与文化遗产抢劫的语境中，唯一能够直接以遗址为宾语并表示“洗劫、洗劫性盗掘”的正式动词是 loot。",
+    "distractor_analysis": {
+      "embezzle": "错误。其核心语义特征是“背信侵占受托保管的资金（misappropriate entrusted property）”，其宾语必须是行为人本就合法经管的资金、财产或公款，不能搭配未受托的物理处所（如 burial complexes），更无法用来形容战乱中的盗掘与劫掠行为。",
+      "loot": "正确。既可接被劫掠的物品，也可直接接被洗劫的地点、遗址或机构（如 loot stores, loot ancient tombs/cultural sites），特指在战乱、社会崩溃或无政府状态下的大肆洗劫与盗挖，完美契合“ancient burial complexes”和跨国文物走私语境。",
+      "pinch": "错误。属于日常非正式俚语，意为“顺走、掐走”小物件，语法上不能搭配宏大的古代墓葬遗址建筑群（ancient burial complexes），在国际法与文化遗产犯罪报告中存在极严重的语体降格问题。",
+      "swipe": "错误。系高度口语化的非正式词汇，指顺手牵羊偷窃个别便携物品，不仅无法支配“burial complexes”这类大型遗址处所作宾语，且无法承载国际犯罪辛迪加跨国洗劫文化遗产的沉重语义。"
+    },
+    "translation": "趁着内战期间公共秩序彻底瘫痪，有组织犯罪集团展开非法盗掘，系统性地洗劫古代墓葬群，并将不可替代的珍贵文物运过防守松懈的国境线。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_15",
+    "group_id": 58,
+    "group_name": "embody, retard, incarnate, substantiate",
+    "level": "TEM-8",
+    "target_word": "embody",
+    "question": "Rather than serving merely as a procedural manual, the newly ratified constitutional framework seeks to ___ the fundamental democratic ethos and collective aspirations that sustained the nation throughout its protracted struggle.",
+    "options": [
+      "embody",
+      "retard",
+      "incarnate",
+      "substantiate"
+    ],
+    "answer": "embody",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational pairing with 'constitutional framework' as subject and 'democratic ethos and collective aspirations' as object, denoting giving concrete legal and conceptual form to abstract ideals.",
+    "distractor_analysis": {
+      "embody": "正确。embody 指“使（抽象原则、思想、精神）具体化、体现并纳入（法典、体制或作品等结构）中”，在学术与政治哲学语境中，“constitutional framework seeks to embody the democratic ethos and aspirations”是极具代表性的权威学术搭配，精准对应前文“超越单纯程序手册”的意涵。",
+      "retard": "错误。retard 意为“延缓、妨碍、阻滞（进程或发展）”，在感情色彩上呈消极倾向，与主句“seeks to...”所表达的积极立宪意图及前文“Rather than serving merely as a procedural manual”的递进逻辑产生严重语义冲突。",
+      "incarnate": "错误。incarnate 作及物动词时特指“赋……以肉身/人形”（invest with human/bodily flesh），其语域通常受限于神学、神话或具有强烈拟人色彩的文学语境（例如神明或恶魔的人形化），不能用抽象的成文制度框架（constitutional framework）作主语来搭配政治伦理概念。",
+      "substantiate": "错误。substantiate 意为“用事实证据证实、证明……属实”，其支配的典型宾语是 claims, allegations, hypotheses 等需要客观证据支持的陈述，而不能与“ethos and collective aspirations”（精神风貌与集体愿景）构成搭配。"
+    },
+    "translation": "新批准的宪法框架不仅是一部程序性手册，更旨在体现并确立在漫长斗争中支撑整个国家的根本民主精神与集体愿景。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_16",
+    "group_id": 58,
+    "group_name": "embody, retard, incarnate, substantiate",
+    "level": "TEM-8",
+    "target_word": "retard",
+    "question": "Longitudinal neurodevelopmental research indicates that severe nutritional deprivation during early childhood can substantially ___ cognitive maturation, precipitating persistent deficits in executive function and linguistic reasoning.",
+    "options": [
+      "embody",
+      "retard",
+      "incarnate",
+      "substantiate"
+    ],
+    "answer": "retard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "High-register clinical/academic collocation 'retard cognitive maturation' combined with the causative clause 'precipitating persistent deficits', requiring a transitive verb meaning to hinder or slow down development.",
+    "distractor_analysis": {
+      "retard": "正确。retard 作及物动词表示“阻碍、延缓（生长、发育、生理或心理进程）”，在认知科学与神经发育学术语境中，“retard cognitive maturation / development”为标准权威搭配，且与后文伴随状语“precipitating persistent deficits...”（引发持续的认知功能缺陷）形成严密完整的因果逻辑链条。",
+      "embody": "错误。embody 意为“体现、包含、使具体化”，主语“severe nutritional deprivation”（严重营养匮乏）作为物理性病理诱因，无法去“具象化”认知成熟过程，与宾语形成语义逻辑错乱，且无法解释后文所引发的发育障碍。",
+      "incarnate": "错误。incarnate 意为“赋予肉身、人格化”，主要用于实体化身或宗教神话语境，完全脱离了神经科学实证论文的学术语域，无法充当描述生理匮乏阻碍心理发育的谓语动词。",
+      "substantiate": "错误。substantiate 意为“证实、确证（理论、指控或论断）”，营养匮乏无法去“证明”认知成熟，语义不通且与后文“导致执行功能损伤”的结果性结论在事实逻辑上产生直接矛盾。"
+    },
+    "translation": "追踪性神经发育研究表明，幼儿时期的严重营养匮乏会显著阻滞认知成熟进程，进而导致执行功能与语言推理能力的持续性缺陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_17",
+    "group_id": 59,
+    "group_name": "enliven, liven, animate, invigorate",
+    "level": "TEM-8",
+    "target_word": "enliven",
+    "question": "Seeking to ___ the somber, monochromatic palette of his northern landscape, the painter introduced delicate flecks of vermilion and Naples yellow, subtly capturing the fleeting luminescence of the encroaching dusk.",
+    "options": [
+      "enliven",
+      "liven",
+      "animate",
+      "invigorate"
+    ],
+    "answer": "enliven",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ART_AESTHETICS",
+    "anchor_clue": "语义与搭配锚点：宾语为静态色彩构成“the somber, monochromatic palette”（阴郁单调的色调/调色板），手段状语为“introduced delicate flecks of vermilion and Naples yellow”（引入朱砂红与那不勒斯黄的精妙色斑）。在艺术评论与美学语域中，表示“通过点缀鲜明色彩或光影，使阴沉、单一的静态画面或色系变得明快生动、富于生气”的标准及物动词唯有 enliven（如 enliven a dull/somber palette）；animate 侧重赋予呼吸生命或动态机能，无法修饰静态色彩谱系；invigorate 侧重体能或系统活力的注入；liven 缺失小品词 up 且语体过俚，均属严重误用。",
+    "distractor_analysis": {
+      "enliven": "正确。作及物动词，核心义为“使（色彩、外观、气氛等）变得明朗、活跃、富有生气”（to make sprightly, cheerful, or visually bright/pleasing）。在艺术批评与视觉美学文献中，'enliven a somber/muted palette with [vibrant hues]' 属高度固化的经典搭配，完美契合画家通过暖色斑块点亮阴沉色调的语境。",
+      "liven": "错误。在现代标准书面语中，liven 极少作为及物动词单独直接接宾语（*liven the palette 属于不合规范用法），必须依托副词小品词构成动词短语 liven up；此外，liven up 语义色彩偏向日常非正式口语，与本题典雅严谨的艺术史学术语域（monochromatic palette, vermilion, luminescence）存在明显的语体风格断裂。",
+      "animate": "错误。源自拉丁语 animare（赋予灵魂、生命与呼吸），其核心语义是使客体获得生命、灵性或运动机能（如赋予木偶生命，或指理念作为灵魂驱动制度），引申至文本或讨论时表示“因论辩或机智而充满活力（an animated debate）”。但色彩调色板（palette）属于纯粹的静态视觉物理属性，既无内在心智灵魂，也无运动潜能，英语中不能用 animate 修饰静态色系来表达“提亮色彩/打破单调”。",
+      "invigorate": "错误。源自名词 vigor（体力、精力、元气），语义范畴严格限定于“使人身体强健、精力充沛”或“使宏观经济/机制恢复生机”（如 invigorate tired limbs / the stagnant economy）。将其直接作用于绘画中的“色彩方案（palette）”属于明显的范畴谬误（category error），色彩不存在体魄或代谢机能，不能被 invigorate。"
+    },
+    "translation": "为了使这幅北方风景画阴郁单调的色调生动起来，画家点缀了数笔精妙的朱砂红与那不勒斯黄，精微地捕捉到了暮色渐浓时那转瞬即逝的微光。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_18",
+    "group_id": 59,
+    "group_name": "enliven, liven, animate, invigorate",
+    "level": "TEM-8",
+    "target_word": "liven",
+    "question": "During the marathon symposium on moral psychology, the moderator introduced provocative thought experiments to ___ up what had threatened to become an excessively pedantic and sleep-inducing conceptual debate.",
+    "options": [
+      "enliven",
+      "liven",
+      "animate",
+      "invigorate"
+    ],
+    "answer": "liven",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法与固定小品词搭配锚点：空格后紧跟副词小品词 'up'（构成 '___ up what had threatened to become...'）。在四个选项中，仅 liven 能与 up 构成合法的短语动词 liven up（使……活跃起来）；enliven 自身已含使役前缀 en-，与 up 连用属于严重语病重叠（*enliven up 不存在）；animate 与 invigorate 均为纯及物动词，在英语句法中严禁后接小品词 up（*animate up, *invigorate up 均为严重语法错误）。",
+    "distractor_analysis": {
+      "liven": "正确。liven 与副词小品词 up 构成经典固定短语动词 liven up，意为“使（气氛、讨论、聚会等）活跃起来”。句中的小品词 'up' 提供了排他性的句法与搭配锚点，完美衔接使沉闷冗长的学术辩论重新活跃的语境。",
+      "enliven": "错误。enliven 本身已带有表使役强化的前缀 en-，其词义已完全自足，现代标准英语中绝不与副词小品词 up 搭配连用。*enliven up 构成词义冗余及句法违规。",
+      "animate": "错误。animate 为典型的拉丁语源及物动词，其后直接跟宾语（如 animate the debate），在句法构造上完全不接受副词小品词 up 的修饰，*animate up 属于错误的生造搭配。",
+      "invigorate": "错误。invigorate 同样为及物动词，直接接宾语表示“给予活力或提神”（如 invigorate the participants），绝对不能与副词小品词 up 组合，*invigorate up 属于严重的句法搭配错误。"
+    },
+    "translation": "在关于道德心理学的马拉松式研讨会期间，主持人引入了极具启发性的思维实验，以活跃这场眼看就要沦为极度学究化且令人昏昏欲睡的概念辩论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_19",
+    "group_id": 60,
+    "group_name": "enrage, irk, madden, incense",
+    "level": "TEM-8",
+    "target_word": "enrage",
+    "question": "In classic neurophysiological studies of affective behavior, focal stimulation of the perifornical hypothalamus did not merely startle the subject, but served to ___ the animal, eliciting an explosive, coordinated display of hissing, clawing, and ferocious aggression.",
+    "options": [
+      "enrage",
+      "irk",
+      "madden",
+      "incense"
+    ],
+    "answer": "enrage",
+    "primary_mechanism": "MECH_SELECTIONAL_RESTRICTION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'the animal' combined with the neurobiological trigger ('focal stimulation of the perifornical hypothalamus') and subsequent violent motor output ('explosive, coordinated display of hissing, clawing, and ferocious aggression') decisively anchors 'enrage'. In lexical semantics, 'incense' carries an obligatory [+human, +moral appraisal] selectional restriction (animals cannot experience moral indignation), 'irk' denotes petty, wearisome annoyance, and 'madden' denotes inducing cognitive derangement/insanity rather than activating primary affective rage circuits.",
+    "distractor_analysis": {
+      "enrage": "正确。Merriam-Webster 明确指出 enrage 意为“使极其愤怒，激怒”，且“stresses a violent and often explosive response”（强调引发剧烈且极具爆发性的愤怒反弹）。在神经生理学与情感神经科学经典实验（如 Walter Cannon 与 Philip Bard 的下丘脑刺激实验）中，刺激下丘脑穹窿周围区所诱发的是典型的“假怒”（sham rage）或定向攻击防御行为。enrage 完美符合及物动词带动物宾语（the animal）的选择限制，并与后文“explosive, coordinated display of hissing, clawing, and ferocious aggression”（爆发性、协调一致的哈气、伸爪与凶猛攻击表现）形成严密的神经生物学因果闭环。",
+      "irk": "错误。irk 意为“使烦恼，使厌倦”，Merriam-Webster 强调其“stresses a wearisome, petty, or nagging annoyance”，专指琐碎、微不足道且令人厌烦的情绪困扰。句中明确用递进对比“did not merely startle the subject, but...”（不仅使实验对象受惊，而且……）推向高度致命的暴力攻击反应，irk 在语义烈度上严重不足，造成逻辑与语境断裂。",
+      "madden": "错误。madden 侧重于“使发狂，使丧失理智”（suggests a violent excitement of mind that borders on or causes mental distraction or insanity），强调心智错乱、精神失常或因持续困扰陷入狂躁谵妄（如 maddened by sensory deprivation）。在严谨的神经生物学学术语境中，电刺激下丘脑激发的是高度组织化、针对特定目标的战斗/防御愤怒反射回路（rage circuitry），而非病理性的精神发疯（madness）；此外，madden 带有文学化和口语化色彩，与本句高阶学术语域严重不兼容。",
+      "incense": "错误。incense 存在绝对的“选择限制违例”（selectional restriction violation）。Merriam-Webster 与牛津词典明确界定 incense 意为“使极其愤怒，激起义愤”（to arouse the extreme anger or indignation of），其词源来自拉丁语“点燃”，专指因遭受不公、道德背叛或尊严受辱而引发的“道德义愤”（moral indignation）。在词汇语义学中，incense 的逻辑宾语必须具备高级认知与伦理判断能力（[+human, +moral consciousness]），动物绝不可能因电刺激电极而产生“道德义愤”。将 incense 用于非人实验动物属于严重的范畴谬误。"
+    },
+    "translation": "在关于情感行为的经典神经生理学研究中，对下丘脑穹窿周围区的局灶性电刺激不仅使实验对象受惊，更彻底激怒了该动物，诱发了由哈气、伸爪和凶猛攻击构成的爆发性协调反应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b05_20",
+    "group_id": 60,
+    "group_name": "enrage, irk, madden, incense",
+    "level": "TEM-8",
+    "target_word": "irk",
+    "question": "While the minor discrepancies in the fiscal ledger were not severe enough to warrant moral outrage, their chronic recurrence continued to ___ the chief auditor, who detested such petty procedural carelessness.",
+    "options": [
+      "enrage",
+      "irk",
+      "madden",
+      "incense"
+    ],
+    "answer": "irk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The anchor 'not severe enough to warrant moral outrage' structurally excludes incense and enrage, while 'minor discrepancies', 'chronic recurrence', and 'petty procedural carelessness' strictly match Merriam-Webster's definition of irk ('stresses a wearisome, petty, or nagging annoyance').",
+    "distractor_analysis": {
+      "irk": "正确。Merriam-Webster 明确界定 irk 为 'to make weary, irritated, or bored; stresses a wearisome, petty, or nagging annoyance'（强调因琐碎、反复出现的问题而产生厌烦、困扰或倦怠）。句中的 'minor discrepancies'（微小出入）、'chronic recurrence'（反复发生）以及从句中的 'petty procedural carelessness'（琐碎的程序性疏忽）构成了决定性的语境锚点，搭配 'continued to irk' 完美契合学术与高级新闻英语中对专业人员受到持续性琐事困扰的描写。",
+      "enrage": "错误。enrage 意为“使暴怒”，强调引发破坏性极强、濒临失控的狂暴情绪（violent and explosive rage）。句首让步状语已明确限定账目问题为微小出入（minor discrepancies），且不足以激起愤怒（not severe enough），填入 enrage 属于极端的语义程度夸大，造成逻辑悖谬。",
+      "madden": "错误。madden 强调使人精神狂乱、濒临抓狂或发疯（borders on mental distraction or insanity）。严谨的首席审计员面对慢性程序性疏忽所产生的是职业倦怠与微恼（annoyance），并未达到失去心智控制或发狂的程度，语意过重且语境不适。",
+      "incense": "错误。incense 强调因原则性背叛、严重不公或道德败坏而激发的强烈义愤（burning anger at an injustice）。句中已有明确否定锚点 'not severe enough to warrant moral outrage'（不足以激起道德义愤），在句法逻辑上直接且绝对地排除了表义愤的 incense。"
+    },
+    "translation": "尽管财务总账中的微小出入尚不足以引发道德层面的公愤，但其长期反复的出现却令首席审计员不胜其烦，他对此类琐碎的程序性疏忽深恶痛绝。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

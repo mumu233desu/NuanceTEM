@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b03_01",
+    "group_id": 31,
+    "group_name": "clog, deluge, clutter, inundate",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "Cognitive psychologists caution that extraneous sensory inputs can insidiously ___ the neural conduits of working memory, thereby choking off the deliberate analytical processing required for complex strategic deduction.",
+    "options": [
+      "clog",
+      "deluge",
+      "clutter",
+      "inundate"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The direct object 'the neural conduits' combined with the consequential clause 'thereby choking off the deliberate analytical processing'. In lexical semantics and Merriam-Webster lexicography, 'clog' specifically means 'to fill to excess so that function is impaired' and is the precise collocate for physical or figurative conduits, passages, and channels whose throughput is occluded or jammed. In contrast, 'deluge' and 'inundate' govern recipients/territories rather than conduits, while 'clutter' refers to messy spatial disarray and lacks the dynamic concept of mechanical/hydraulic stoppage ('choking off').",
+    "distractor_analysis": {
+      "clog": "【正确】clog 意为“（使通道、管道等因充塞而）堵塞，阻碍”，MW 定义为“fill to excess so that function is impaired”。在认知科学语境中，clog 专门与 conduits（管道）、channels（通道）、pathways（通路）形成经典固定搭配，指信息流堵塞导致机能瘫痪，完美契合后文的“thereby choking off...”（从而扼杀/阻断……）这一物理与功能受阻结果。",
+      "deluge": "【错误】deluge 意为“使泛滥，以暴雨/洪水般涌向某人”，其支配的及物宾语必须是承受洪流冲击的受体（如 deluge the user/recipients with data），而不能支配负责输送信号的“conduits（管道）”。管道是承载洪流的介质而非被冲刷淹没的目标，deluge 与 conduits 搭配属于严重的语义配价与搭配断裂。",
+      "clutter": "【错误】clutter 意为“使凌乱，在某处堆满杂物”，强调空间或平面上的无序、凌乱（如 clutter the desk/screen/mind with trivia），通常与介词 up 连用或支配物理空间。它无法与专门指代通道机制的 conduits 构成有效动宾搭配，更不能表达由于物理完全填塞而导致流通中断（choking off）的严重机能受阻含义。",
+      "inundate": "【错误】inundate 意为“淹没，使不胜负荷”，其及物动词语义指向被洪水完全覆盖浸泡的主体（如 inundate the brain/analysts with signals）。与 deluge 类似，inundate 无法以 conduits（通道、管道）作为宾语来表示“堵塞流动、妨碍通过”，在此处造成严重的搭配破裂。"
+    },
+    "translation": "认知心理学家警告称，无关的感官输入会不知不觉地阻塞工作记忆的神经管道，从而阻断复杂策略推导所必需的深思熟虑型分析处理过程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_02",
+    "group_id": 31,
+    "group_name": "clog, deluge, clutter, inundate",
+    "level": "TEM-8",
+    "target_word": "deluge",
+    "question": "Following the unexpected announcement of the austerity measures, the ombudsman's office struggled to manage an overwhelming ___ of citizen complaints, which swiftly paralyzed internal operations and delayed statutory investigations.",
+    "options": [
+      "clog",
+      "deluge",
+      "clutter",
+      "inundate"
+    ],
+    "answer": "deluge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS_LAW",
+    "anchor_clue": "Decisive anchor clue: The syntactic frame 'an overwhelming ___ of citizen complaints' requires a noun that denotes an immense, surging influx or torrent of incoming communications. Syntactically, 'inundate' is strictly a transitive verb (the noun is 'inundation'), making it an immediate word-class violation. Semantically and collocationally, 'clog' functions as an obstruction within a conduit and never licenses the partitive quantifier construction '*a clog of [abstract plural nouns]'; 'clutter' denotes static spatial disorder or a jumble of physical items and cannot collocate with communicative speech acts (*a clutter of complaints). Thus, only 'deluge' satisfies both the nominal grammatical requirement and the established collocation 'a deluge of complaints' (Merriam-Webster: 'an overwhelming amount or number <a deluge of mail>').",
+    "distractor_analysis": {
+      "clog": "【错误】词义认知与搭配结构违背。clog 作名词时意为“障碍物、阻塞物”（如 a clog in the drain），指管道或系统内部阻碍流通的堵塞实体。它在英语中绝不用于构成“*a clog of [复数名词]”这一量词化涌入结构，更无法修饰外来涌入的公众投诉（complaints）。此外，clog 强调“造成停滞的堵塞点”，而非“排山倒海般涌入的洪流”，与语境完全脱节。",
+      "deluge": "【正确】名副其实的高阶名量搭配与语义契合。deluge 作名词时表示“如洪水般倾泻而来的大量事物、暴涨的洪流”（Merriam-Webster: an overwhelming amount or number <a deluge of mail>）。句中“an overwhelming deluge of citizen complaints”（如潮水般涌来的公众投诉）是英美政法公文与权威媒体（如 The Economist）中的经典固定搭配，完美契合后文“瘫痪内部运营、延误法定调查”的压倒性冲击意境。",
+      "clutter": "【错误】语义特征与选择限制冲突。clutter 作名词时核心语义为“凌乱、杂乱的一堆物品”（a crowded or confused mass or collection : DISORDER），通常指空间内无序堆放的静态杂物（如 a clutter of papers on the desk）或屏幕视觉干扰（visual clutter）。complaints（投诉/申诉）属于动态生成的言语行为与法定诉求，绝不能与强调物理空间杂乱的 clutter 搭配（*a clutter of complaints 属于严重语义搭配畸变）。",
+      "inundate": "【错误】绝对词性与句法范畴违背。inundate 在现代英语中是严格的及物动词（transitive verb），其对应的名词形式为 inundation。在不定冠词“an”与前置定语形容词“overwhelming”之后，该句法槽位必须由名词充当中心词；填入动词 inundate 会导致致命的词性语法错误（*an overwhelming inundate of... 无法成立）。"
+    },
+    "translation": "在紧缩政策意外宣布之后，申诉专员公署难以应对如潮水般涌来的公众投诉，这迅速瘫痪了其内部运作，并延误了法定调查的开展。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_03",
+    "group_id": 32,
+    "group_name": "clump, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "clump",
+    "question": "Biochemical analyses revealed that when subjected to severe oxidative stress, destabilized prion proteins tend to ___ together into insoluble amyloid aggregates, fatally impairing synaptic transmission and triggering widespread neurodegeneration.",
+    "options": [
+      "clump",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "clump",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_MEDICINE",
+    "anchor_clue": "The biochemical subject ('destabilized prion proteins') combined with the resultative directional frame 'together into insoluble amyloid aggregates' decisively selects the specialized agglomeration sense of 'clump' ('to gather or form into a cluster or mass'), completely excluding acoustic and mechanical impact predicates.",
+    "distractor_analysis": {
+      "clump": "正确。作不及物动词时意为“聚集成群（堆、团）”（to form or gather into clumps/masses），标准学术搭配为“clump together (into sth)”。在分子生物学与病理学语境中，该词专指变性蛋白质、血小板或细胞“凝集/聚集成块”，与句中主语“destabilized prion proteins”（去稳定化的朊病毒蛋白）及后接的“together into insoluble amyloid aggregates”（聚集成不溶性淀粉样聚集体）构成严密的专业学术搭配。",
+      "rap": "错误。主要用作击打动词（短促清脆地敲击）或言语动词（严厉指责、脱口而出），既无“凝集、团聚”的语义，也无法与“together into aggregates”搭配构建分子相变及聚集逻辑。",
+      "thud": "错误。核心义为重物坠落碰撞表面时“发出沉闷钝响”或“沉重移动”（to strike or move with a dull, heavy sound）。在物理碰撞中“thud into”仅表示钝性冲击某障碍物（如车辆撞上护栏），完全不具备描述生物分子“自主聚集凝结（agglomerate）”的生化语义，填入会导致严重的逻辑与语境破裂。",
+      "drone": "错误。主要表示持续发出低沉单调的嗡鸣声（to make a continuous low humming sound）或以单调语气絮叨（to speak monotonously），属于声学动词，与微观生化分子的物理聚结毫无关联，语法与语义均不成立。"
+    },
+    "translation": "生化分析显示，当承受严重的氧化应激时，去稳定化的朊病毒蛋白往往会聚集成不溶性的淀粉样聚集体，从而致命地损害突触传递，并引发大范围的神经退行性病变。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_04",
+    "group_id": 32,
+    "group_name": "clump, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "During the perceptual vigilance trials, the proctor would occasionally ___ sharply on the oak lectern with a wooden ruler to test whether ambient distraction could abruptly recalibrate the subjects' focused cognitive attention.",
+    "options": [
+      "clump",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The combination of the acoustic adverb 'sharply', the target surface preposition 'on the oak lectern', and the percussive instrument 'with a wooden ruler' exclusively selects 'rap', which denotes delivering a quick, crisp, percussive strike.",
+    "distractor_analysis": {
+      "rap": "正确。意为“短促清脆地敲击”，在句中与副词“sharply”（尖锐、敏捷地）、敲击介词“on the oak lectern”（在橡木讲台上）以及施力工具“with a wooden ruler”（用木尺）构成极其精准的物理声学与句法搭配，用以测试突发声响对受试者注意力的重置效果。",
+      "clump": "错误。意为以沉重笨拙的脚步声行走或聚结成块，无法表达手持工具敲击坚硬平面的动作，放入“___ sharply on the oak lectern with a wooden ruler”中会导致语法功能与语义意象的双重断裂。",
+      "thud": "错误。特指发出沉闷重浊的声音（dull, hollow sound），这在声学特征上与修饰副词“sharply”（清脆、尖锐地）形成强烈的逻辑与语义互斥；木尺击打硬木讲台产生的是高频清脆声而非低频闷响，因此无法成立。",
+      "drone": "错误。指持续发出低沉的嗡嗡声或单调拖沓地讲演，表示持续性、平稳的状态而非瞬间离散的机械敲击，无法与瞬间动作副词“sharply”及敲击工具短语搭配。"
+    },
+    "translation": "在知觉警觉性测试期间，监考员偶尔会用木尺在橡木讲台上清脆地敲击，以测试环境干扰是否会突然重置受试者高度集中的认知注意力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_05",
+    "group_id": 33,
+    "group_name": "connote, exude, formulate, articulate",
+    "level": "TEM-8",
+    "target_word": "connote",
+    "question": "Although the statutory definition did not explicitly mention social class, the deliberate inclusion of anachronistic phrasing served to ___ hereditary privilege, subtly preconditioning judicial interpretation toward conservative precedent.",
+    "options": [
+      "connote",
+      "exude",
+      "formulate",
+      "articulate"
+    ],
+    "answer": "connote",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步从句明确指出'did not explicitly mention'（未明文提及），后文以'subtly preconditioning'（潜移默化地预设）相呼应；主语为语言学层面的文本特征'anachronistic phrasing'，要求填入一个表示'（词语或符号）暗示、暗含次要或联想意义'的核心动词，与'hereditary privilege'构成精准语义搭配。",
+    "distractor_analysis": {
+      "connote": "正确。connote 指语言符号、术语或概念“暗含、间接意味着、包含次层联想”（与 denote‘明示’相对）。句中陈旧措辞（anachronistic phrasing）在并未明文规定阶级的情况下，暗含（connote）了世袭特权，完美契合句中‘非明确阐述（not explicitly mention）’与‘微妙暗示（subtly preconditioning）’的双重语境针脚。",
+      "exude": "错误。exude 意为“散发、显露（气质、情感）”或“渗出、流出”，通常以“人”、“举止（demeanor）”或具体物理源泉为施事主体，宾语多为 confidence, charm, hostility 等情态特征，不能由语言措辞作主语去 exude 制度性概念 privilege。",
+      "formulate": "错误。formulate 强调“系统地构想、制定、规划（政策、学说、方案）”，施事通常为具备理性思维的主体或立法机关，宾语为结构化方案（如 formulate a policy/theory），不能与修辞手法暗示潜台词的认知语境兼容。",
+      "articulate": "错误。articulate 意为“清晰明确、有条理地表述（观点、思想、诉求）”。本句前文明确指明“did not explicitly mention”，若选用 articulate 则在语义逻辑上产生前后直接矛盾，违背了潜移默化暗示的篇章连贯性。"
+    },
+    "translation": "尽管该法定定义并未明确提及社会阶级，但其中刻意加入的陈旧措辞却暗含了世袭特权，潜移默化地诱导司法解释倒向保守判例。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_06",
+    "group_id": 33,
+    "group_name": "connote, exude, formulate, articulate",
+    "level": "TEM-8",
+    "target_word": "exude",
+    "question": "Despite facing relentless cross-examination from hostile prosecutors, the seasoned diplomat managed to ___ an unflappable calmness that reassured the tribunal and discredited allegations of covert misconduct.",
+    "options": [
+      "connote",
+      "exude",
+      "formulate",
+      "articulate"
+    ],
+    "answer": "exude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "施事主语为自然人（the seasoned diplomat），宾语为表示内在风度与情绪气质的抽象名词短语（an unflappable calmness），语境指向在高压质询下由内而外自然流露、辐射出镇定气场，属于'exude + 情绪/气度名词'的不可替代性高阶搭配。",
+    "distractor_analysis": {
+      "exude": "正确。exude 引申指主体“充溢并散发出、充分流露（某种强烈的情感、气场或特质）”，常与 calmness, confidence, authority, charisma 等词构成固定搭配。句中资深外交官在严苛质询下外化展现出泰然自若的镇定神态，完全符合其论元结构与修辞色彩。",
+      "connote": "错误。connote 专用于符号学与语言学领域，主语多为词语、征象、手势或概念，指其承载的“隐含意义”。人作为行为施事，不能“connote”自身当下的镇定心态，属于严重的范畴错配（category mistake）。",
+      "formulate": "错误。formulate 意为“系统地拟定、构思、阐述”，其宾语必须是认知成果或文本方案（如 formulate an argument/strategy），不能与心理生理状态及气度指标 calmness 搭配。",
+      "articulate": "错误。articulate 强调“用清晰发音或言语条理分明地陈述（观点、冤屈、设想）”。Calmness 是一种非言语的体态神情和心理风范，无法被当作论点用语言来逐一“明晰说出（articulate）”，存在动宾搭配破裂。"
+    },
+    "translation": "尽管面临敌对检察官毫不留情的反复质询，这位经验丰富的外交官仍表现出泰然自若的从容气度，这令法庭倍感信服，并使关于其隐秘不端行为的指控不攻自破。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_07",
+    "group_id": 34,
+    "group_name": "consecrate, attest, profess, sanctify",
+    "level": "TEM-8",
+    "target_word": "consecrate",
+    "question": "Before his sudden retirement, the eminent jurist decided to ___ his remaining intellectual energies to dismantling institutional bias, viewing the pursuit of judicial equity as an irrevocable moral imperative.",
+    "options": [
+      "consecrate",
+      "attest",
+      "profess",
+      "sanctify"
+    ],
+    "answer": "consecrate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive dedicatee frame '___ his remaining intellectual energies to dismantling...', which strictly requires the high-register verb 'consecrate' (consecrate sth to sth/doing sth).",
+    "distractor_analysis": {
+      "consecrate": "正确。consecrate 在高级学术与庄重语域中常用于比喻义，构成固定搭配 consecrate sth (life/energies/talents) to (doing) sth，表示“将（生命、精力、才华等）庄严地奉献于/致力于某项崇高目标”，完全契合句中“将剩余心力倾注于破除体制偏见”的庄重语境与句法框架。",
+      "attest": "错误。句法与搭配完全不兼容。attest 意为“证实、证明”，作及物动词时接从句或名词表示确证某事，作不及物动词时与介词 to 搭配（attest to sth），不能构成“attest + 精力/资源 + to doing sth”的致使性奉献结构。",
+      "profess": "错误。搭配与词义冲突。profess 意为“声称、公开表明（信仰或情感）”或“自称（profess to be）”，其宾语通常为信念、无知、忠诚等（如 profess ignorance/loyalty），无法接“intellectual energies”并与“to doing”连用表达“奉献、倾注”。",
+      "sanctify": "错误。词义与用法不符。sanctify 意为“使神圣化、使成圣”或“使（习俗、权力等）具有道义或合法性认可”（如 sanctified by tradition），并不具备“把有限的时间、心力奉献给某一事业”的引申用法，不能与“energies to dismantling”搭配。"
+    },
+    "translation": "在突然退休之前，这位著名的法学家决定将他余下的心力完全奉献于破除体制性偏见，将追求司法公正视作一项不容推卸的道德使命。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_08",
+    "group_id": 34,
+    "group_name": "consecrate, attest, profess, sanctify",
+    "level": "TEM-8",
+    "target_word": "attest",
+    "question": "Numerous longitudinal studies on neuroplasticity unequivocally ___ to the cognitive benefits of bilingualism, demonstrating that continuous linguistic switching reinforces executive functioning well into late adulthood.",
+    "options": [
+      "consecrate",
+      "attest",
+      "profess",
+      "sanctify"
+    ],
+    "answer": "attest",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Inanimate subject ('longitudinal studies') + intransitive prepositional collocation '___ to the cognitive benefits', uniquely selecting 'attest' in the sense of providing empirical testimony/proof.",
+    "distractor_analysis": {
+      "attest": "正确。attest to 是学术认知语篇中极具区分度的高频搭配，意为“证实、证明、作为……的明确证据”。主语为无生命的实证研究（longitudinal studies），后接介词 to 引出所证实的认知益处，句法与逻辑语义无懈可击。",
+      "consecrate": "错误。句法与施事双重不符。consecrate 是典型的及物动词（需接直接宾语后方可接介词 to），且主语须具备神圣意志或主观能动性，纵向学术研究无法作为施事直接接“consecrate to”。",
+      "profess": "错误。施事与语义不合。profess 强调主体主观上的“宣称、声称”，其主语必须为有意识的人或机构实体，实证研究不能作为施事去“声称”；且 profess 不与“to + 抽象益处名词”构成表“证实”的搭配。",
+      "sanctify": "错误。句法与语义错误。sanctify 为及物动词，意为“使圣化、使合法化”，不可作不及物动词与介词 to 搭配，无法在实证科学语境中表达“证明/确证”之意。"
+    },
+    "translation": "大量关于神经可塑性的纵向研究明确证实了双语能力的认知益处，表明持续的语言切换能显著强化个体的执行功能，并一直持续至迟暮之年。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_09",
+    "group_id": 35,
+    "group_name": "contend, profess, purport, postulate",
+    "level": "TEM-8",
+    "target_word": "contend",
+    "question": "Rebutting the prevailing monetary consensus, several heterodox economists strenuously ___ that chronic inflation stemmed from systemic supply disruptions and corporate markups rather than excessive consumer demand.",
+    "options": [
+      "contend",
+      "profess",
+      "purport",
+      "postulate"
+    ],
+    "answer": "contend",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词 strenuously 与后文 that 引导的学术因果论辩从句构成的强学术搭配（strenuously contend that...），明确表现在争议中坚决“主张/抗辩”某一论点，且带有鲜明的对抗反驳语境（Rebutting... rather than...）。",
+    "distractor_analysis": {
+      "contend": "正确。contend 在学术辩论中作及物动词，后接 that 引导的名词性从句，表示在争辩中“力主、坚称、主张（某一论点）”，常与 strenuously, vigorously, cogently 等副词搭配。句首 Rebutting 与句末 rather than 确立了针锋相对的学术反驳语境，与 contend 的语义和语用色彩完美契合。",
+      "profess": "错误。profess 多表示“公开表明、自称（某种情感、信仰或个人认知状态）”，通常后接名词（如 profess ignorance/loyalty）或不定式（profess to be），罕用于引导论证客观经济实证因果关系的 that 从句，无法与学术抗辩语境兼容。",
+      "purport": "错误。purport 存在句法与语义双重阻碍。在现代规范英语中，purport 作动词表示“声称/意图证明（真实性存疑）”时，句法上主要后接不定式（purport to do/be），极少直接后接 that 从句；且其主语多为文件、文本或学说，而非主动进行学术反驳的学者群体。",
+      "postulate": "错误。postulate 意为“（为理论推演而）假设、假定……为公理或基本前提”（posit as an axiom），属于提出未经证明的理论假说，不能用于在针对既有共识的实证论辩中“极力抗辩/主张既定成因”（strenuously contend）。通胀归因属于争鸣结论而非推理公理。"
+    },
+    "translation": "为反驳盛行的货币主义共识，数位异端经济学家极力主张，长期通胀源于系统性的供给中断和企业加价，而非过度膨胀的消费需求。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_10",
+    "group_id": 35,
+    "group_name": "contend, profess, purport, postulate",
+    "level": "TEM-8",
+    "target_word": "profess",
+    "question": "Although the disgraced cabinet minister continued to ___ complete ignorance of the illicit transactions, newly leaked diplomatic cables unequivocally proved that he had authorized the covert payments himself.",
+    "options": [
+      "contend",
+      "profess",
+      "purport",
+      "postulate"
+    ],
+    "answer": "profess",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "横线后紧跟的宾语名词短语“complete ignorance of...”（对……全不知情），决定了此处必须选用能直接与表示个人心理/认知状态的名词构成经典动宾搭配的及物动词（profess ignorance of）。",
+    "distractor_analysis": {
+      "profess": "正确。profess 意为“公开声称、自称（某种情感、态度或状态）”，在高级英语中常用于表示（往往是言不由衷或作为自辩的）公开声明，与抽象名词构成高度固定的及物搭配，如 profess ignorance of...（声称对……一无所知）、profess innocence（声称无罪），完全契合政治丑闻自辩的语境与句法约束。",
+      "contend": "错误。contend 表示“坚称、主张”时必须后接 that 从句（如 contend that he was completely ignorant），在现代英语中不能直接带表示自身认知状态的名词短语作宾语（*contend complete ignorance 为严重句法与搭配错误）。",
+      "purport": "错误。purport 表“声称/自称”时，句法上严格要求后接动词不定式（purport to have no knowledge），不能接名词短语作为直接宾语（*purport complete ignorance 属于不合语法的用法错误）。",
+      "postulate": "错误。postulate 意为“假定、假想（某种客观公理、存在或理论模型）”，其宾语必须为理论实体或先决条件（如 postulate the existence of...），无法以个人的认知缺失（complete ignorance）为宾语，产生严重的范畴谬误（category mistake）。"
+    },
+    "translation": "尽管这位名誉扫地的内阁大臣坚决声称对那些非法交易毫不知情，但最新泄露的外交电报无可辩驳地证实，正是他本人亲自批准了这些秘密款项。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_11",
+    "group_id": 36,
+    "group_name": "converge, hive, clump, convene",
+    "level": "TEM-8",
+    "target_word": "converge",
+    "question": "Although empirical methodologies in cognitive neuroscience originally differed widely across laboratories, international research teams now increasingly ___ on the predictive processing framework as a unifying paradigm.",
+    "options": [
+      "converge",
+      "hive",
+      "clump",
+      "convene"
+    ],
+    "answer": "converge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The preposition 'on' followed by an abstract consensus/paradigm ('on the predictive processing framework as a unifying paradigm') decisively selects 'converge' (to converge on/upon an agreement or theoretical model). The other three verbs fail syntactically with 'on' or semantically in an epistemic consensus context.",
+    "distractor_analysis": {
+      "converge": "正确。作为不及物动词，与介词 on（或 upon）构成认知学术英语中的高度固化搭配（converge on sth.），意为“（从不同流派、观点或路径）逐渐汇聚于同一焦点、达成学术共识”。此处精准契合“原本方法各异的实验室最终汇聚于预测加工这一统摄性范式”的语境。",
+      "hive": "错误。hive 作动词主要表示“（如蜂群般）群居、聚居”（多接 together 或 in）或用于商业/组织剥离（hive off），在句法上不能与介词 on 搭配，亦无法表述对抽象学术理论形成共识。",
+      "clump": "错误。clump 属于物理或生物学聚合范畴，常指“凝集、成块、聚成不规则团簇”（如血小板凝聚或土壤结块），常接 together 或 around，无法与介词 on 搭配指代认知范式，且带有无序、笨拙的物理色彩，违背学术语境。",
+      "convene": "错误。convene 专指官方机构、法庭、委员会或代表举行正式会议（call or come together for a formal meeting），属于组织行为范畴；其不及物用法后接介词时通常引入时间或物理地点（如 convene at noon / in the hall），绝不能与抽象理论假说或认知模型搭配（不存在 convene on a framework 之说）。"
+    },
+    "translation": "尽管认知神经科学的实证方法最初在各实验室之间大相径庭，但如今国际研究团队正日益汇聚于预测加工框架，并将其作为统摄性的研究范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_12",
+    "group_id": 36,
+    "group_name": "converge, hive, clump, convene",
+    "level": "TEM-8",
+    "target_word": "hive",
+    "question": "Under sustained pressure from antitrust regulators, the technology conglomerate was forced to ___ off its cloud infrastructure division, thereby separating commercial applications from core network services to ensure market equity.",
+    "options": [
+      "converge",
+      "hive",
+      "clump",
+      "convene"
+    ],
+    "answer": "hive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BUSINESS_ECONOMICS",
+    "anchor_clue": "The post-blank particle 'off' followed by the direct object 'its cloud infrastructure division', together with the explanatory participial clause 'thereby separating commercial applications from core network services', serves as an absolute syntactic and semantic anchor. Only 'hive off' functions as a recognized, high-register economic and institutional idiom meaning to spin off or divest a subsidiary from a parent company.",
+    "distractor_analysis": {
+      "hive": "正确。在公司治理、反垄断及产业经济学的高级正式文体中，动词 hive 与副词 off 构成高度专业化的固定短语 hive off（意为“将……剥离/分拆为独立实体”，to separate or spin off a subsidiary or business division from a parent organization）。该短语完美契合句中“___ off its cloud infrastructure division”的及物动词短语框架，并与后文伴随状语“thereby separating commercial applications from core network services”（从而将应用与核心服务分离）形成严丝合缝的语义互锁与逻辑呼应。",
+      "converge": "错误。句法规则与语义逻辑双重冲突。其一，converge 为不及物动词，后接介词通常为 on、at 或 toward（表示向某处汇合），在英语中根本不存在 *converge off 的介词搭配，更无法直接带宾语，代入导致严重句法破裂；其二，converge 的核心义为“向单一点汇合或聚拢”，与句中语境锚点“separating... from...”（分拆、隔离）呈现不可调和的反向逻辑冲突。",
+      "clump": "错误。句法受阻且语域严重断裂。clump 作及物动词时意为“使成块、使堆叠”（通常搭配 together），不存在及物动词短语 *clump off a division；虽然口语中存在不及物短语 clump off，但其词义仅指“踏着笨重沉闷的脚步走开”，带有通俗口语中物理步态描摹的色彩，在企业结构拆解与反垄断规制的严谨学术与财经语境中属于极其荒谬的语域破裂。",
+      "convene": "错误。句法无效且语义范畴错配。convene 严格限定于“召集或召开正式会议/代表大会”（如 convene a summit/tribunal），属于无法与副词 off 搭配的动词（不存在 *convene off 用法）；再者，“召集会议”的动作范畴与对大型跨国集团业务部门的拆分、剥离与独立重组毫无语义交集。"
+    },
+    "translation": "在反垄断监管机构的持续施压下，这家科技巨头被迫剥离其云基础设施部门，从而将商业应用与核心网络服务分离开来，以确保市场的公平竞争。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_13",
+    "group_id": 37,
+    "group_name": "convulse, slash, rattle, tremor",
+    "level": "TEM-8",
+    "target_word": "convulse",
+    "question": "The ferocious wave of ideological factionalism threatened to ___ the newly unified confederation, inducing severe institutional spasms that completely undermined the administration's long-term geopolitical and economic strategy.",
+    "options": [
+      "convulse",
+      "slash",
+      "rattle",
+      "tremor"
+    ],
+    "answer": "convulse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The transitive verb takes a geopolitical entity ('the newly unified confederation') as its direct object, and is semantically and metaphorically echoed by 'inducing severe institutional spasms'. 'Convulse' specifically denotes throwing an entire polity or society into violent, convulsive agitation.",
+    "distractor_analysis": {
+      "convulse": "正确。及物动词，意为“使剧烈动荡、使陷入混乱与痉挛”。在学术政经语境中，常用于比喻政治体系、国家或社会实体遭受剧烈动荡（violent social or political agitation），后半句的“severe institutional spasms（严重的体制性痉挛）”构成了决定性的语义和隐喻同源呼应。",
+      "slash": "错误。及物动词，意为“挥砍”或“大幅度削减（预算、人员、税收等）”，不能以宏观政治实体“the newly unified confederation”作为动宾搭配对象，语义严重断裂。",
+      "rattle": "错误。及物动词，意为“使发出咔嗒声”或在引申义中指“使慌乱、扰乱某人（的信心/神经）”，其语域偏向非正式，且通常以具体人或人的心智为宾语（如 rattle the investors），无法表达使整个政治邦联产生系统性痉挛动荡的高端学术语域。",
+      "tremor": "错误。动词用法中几乎仅作不及物动词（vi. 发抖、颤抖），不能直接接宾语（*tremor the confederation 存在不可调和的及物性句法错误）。"
+    },
+    "translation": "凶猛的意识形态派系纷争浪潮威胁着要使这个新近统一的邦联陷入剧烈动荡，由此引发严重的体制性痉挛，彻底瓦解了该政权的长期地缘政治与经济战略。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_14",
+    "group_id": 37,
+    "group_name": "convulse, slash, rattle, tremor",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "Faced with mounting fiscal strain, the executive board resolved to ___ long-term funding for fundamental epistemological research, a draconian measure that deeply alienated the institution's most distinguished scholars.",
+    "options": [
+      "convulse",
+      "slash",
+      "rattle",
+      "tremor"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The direct object is 'long-term funding', and the action is described as 'a draconian measure' responding to 'mounting fiscal strain'. In fiscal and policy discourse, only 'slash' collocates with funds/budgets to signify drastic, severe reduction.",
+    "distractor_analysis": {
+      "slash": "正确。及物动词，意为“大幅削减、严厉压缩（经费、开支、预算）”。与“long-term funding（长期经费）”形成高度典型的经济学术语搭配，后文同位语“a draconian measure（严酷举措）”完美呼应了 slash 所蕴含的剧烈、断然削减之意。",
+      "convulse": "错误。及物动词，意为“使剧烈动乱、使痉挛”，其支配对象多为国家、社会、躯体或机构整体，无法与抽象资产或财政拨款（funding）构成合理的及物动宾关系。",
+      "rattle": "错误。及物动词，意为“使不安、使紧张”，其认知或心理对象通常为主体人、投资者或市场神经，绝不能与“funding（经费）”搭配以表达缩减或削减。",
+      "tremor": "错误。在现代标准英语中，tremor 作为动词通常为不及物动词（vi. 颤抖），不能直接带宾语“funding”；且其语义（微颤）也与后文“draconian measure（严酷举措）”在逻辑色彩上截然相悖。"
+    },
+    "translation": "面对日益加剧的财政压力，执行委员会决议大幅削减基础认识论研究的长期科研经费，这一严酷举措深深疏远了该机构最杰出的学者们。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_15",
+    "group_id": 38,
+    "group_name": "corrode, mar, impair, afflict",
+    "level": "TEM-8",
+    "target_word": "corrode",
+    "question": "Persistent ethical lapses and toxic partisanship do not merely disrupt legislative routine; they insidiously ___ the bedrock of civic trust, eating away at democratic norms from within.",
+    "options": [
+      "corrode",
+      "mar",
+      "impair",
+      "afflict"
+    ],
+    "answer": "corrode",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中副词 'insidiously'（暗中隐蔽地）与后置分词短语 'eating away at democratic norms from within'（从内部侵蚀蚕食民主规范）形成了闭环语境锚点，语义上精准呼应化学或物理上由内而外逐步侵蚀溶解的具象隐喻，在此处与抽象宾语 'the bedrock of civic trust' 构成典型隐喻搭配（corrode trust/bedrock）。",
+    "distractor_analysis": {
+      "corrode": "正确。corrode 本义为化学腐蚀、锈蚀，在社科与政论语体中极高频地用于隐喻义，表示通过长期的潜伏性负面力量从内部“蚕食、逐步瓦解”（trust, confidence, bedrock of democracy）。与句中的 'insidiously' 及 'eating away ... from within' 呈现出高度一致的构词图景与搭配关系，是唯一正选。",
+      "mar": "错误。mar 强调破坏事物表面的完美、完整性或良好氛围（即留下瑕疵、煞风景，如 mar an unblemished record），不体现“由内而外缓慢潜伏蚕食（eating away from within）”的破坏方式，与后文的侵蚀性隐喻脱节。",
+      "impair": "错误。impair 侧重于生理功能、认知机能、行动能力或运转效率的“削弱、减损”（如 impair cognitive function, impair mobility, impair judgment）。它不能呼应由内向外的“蚕食（eating away）”动态，与 'bedrock' 搭配也极不自然。",
+      "afflict": "错误。afflict 意为“折磨、使……遭受痛苦或苦难”，在及物用法中其宾语必须为承受痛苦的生命体、群体或社会组织（如 afflict humanity, afflict developing countries），严禁接 'the bedrock of civic trust' 这种无感知能力的抽象制度基石作直接宾语，存在句法配价与选择限制（selectional restriction）冲突。"
+    },
+    "translation": "长期的道德失范与恶性党派纷争不仅扰乱了立法的正常运转，更在暗中侵蚀着公民信任的基石，从内部蚕食着民主规范。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_16",
+    "group_id": 38,
+    "group_name": "corrode, mar, impair, afflict",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "Although the diplomatic summit achieved unprecedented breakthroughs on bilateral trade, lingering border skirmishes threaten to ___ what would otherwise have been an unblemished triumph for the administration.",
+    "options": [
+      "corrode",
+      "mar",
+      "impair",
+      "afflict"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的从句状语 'what would otherwise have been an unblemished triumph'（原本毫无瑕疵的胜利）构成了绝对决定性的语义对照锚点。形容词 'unblemished'（完美无瑕的）与及物动词 'mar'（玷污、使出现瑕疵、破坏完整完美）构成高级英语考试中最为经典的二元对立搭配（mar an unblemished triumph/record）。",
+    "distractor_analysis": {
+      "mar": "正确。mar 指破坏某事物原本的完美、无瑕状态，使其美中不足或蒙上阴影。句中用 lingering border skirmishes（未平息的边境冲突）充当破坏因素，与宾语中原本应是 'an unblemished triumph'（无瑕的胜利）形成典雅而鲜明的语义对照，完全符合语境与搭配习惯。",
+      "corrode": "错误。corrode 强调缓慢的、内部化学式的腐蚀或瓦解（常接 trust, values, foundations），边境冲突等偶发事件破坏整体外交成果的无瑕性，无法用 corrode 所传达的隐性内部侵蚀机制来表达。",
+      "impair": "错误。impair 指官能、能力或效能的损伤削弱（如 impair one's ability, impair functioning）。'triumph'（重大胜利/成就）是一项评价性历史结果，并非运转中的器官系统或功能性机制，无法与 impair 搭配。",
+      "afflict": "错误。afflict 意为使受折磨、遭罹灾祸，宾语要求具有感受能力的主体（如 a nation afflicted with war）。抽象的成功事件 'an unblemished triumph' 不能作为被折磨的主体，动宾逻辑断裂。"
+    },
+    "translation": "尽管此次外交峰会在双边贸易上取得了前所未有的突破，但持续未息的边境小规模冲突却有可能给本届政府这场原本堪称完美的重大胜利蒙上阴影。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_17",
+    "group_id": 39,
+    "group_name": "cram, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "cram",
+    "question": "Fearing impending blizzards, the industrious pikas tirelessly ___ dried alpine herbs and graminoids into the narrow fissures of the talus, filling every subterranean pocket to secure their winter food supply.",
+    "options": [
+      "cram",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "cram",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中的搭配动词必须与固态植物材料（dried alpine herbs and graminoids）及受限空间（narrow fissures of the talus）相容，并由伴随状语“filling every subterranean pocket”决定性呼应其“塞满、紧紧挤入狭小空间”的核心义项与“cram sth into sth”的惯用搭配。",
+    "distractor_analysis": {
+      "cram": "正确。cram 表示“把……塞进/挤入狭窄空间并填满”（to force, press, or pack tightly into a confined space）。此处与宾语“dried alpine herbs and graminoids”以及介词短语“into the narrow fissures”完美契合，后文“filling every subterranean pocket”直接对应其“挤塞至满”的词汇核心定义，符合高阶生态学语篇中动物贮食行为的精确描绘。",
+      "ladle": "错误。ladle 作为动词指“用勺舀取”或“大量分发”，其语义选择限制通常要求宾语为液体、半流体或比喻意义上的馈赠（如 ladle out soup / ladle out funds），无法用于将干燥坚硬的固态植物（herbs and graminoids）塞进石缝。",
+      "siphon": "错误。siphon 指“用虹吸管吸出/输送（液体）”或引申为“抽调、转移（资金/资源）”，只能作用于流体或可流动性资产，违背了实体干燥植物材料与石缝塞填的物理语义选择限制。",
+      "stratify": "错误。stratify 意为“使分层、使形成阶层或层理”（to arrange or form in layers/strata），常用于地质沉积层理、水温分层或社会分层语境；不能接“植物材料 into the narrow fissures”来表达物理上的挤压填塞动作。"
+    },
+    "translation": "因担忧即将来临的暴风雪，勤劳的鼠兔不知疲倦地将干燥的高山草药与禾草塞入倒石堆的狭窄裂隙中，填满每一个地下孔隙，以保障其越冬的食物储备。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_18",
+    "group_id": 39,
+    "group_name": "cram, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Using an extendable ceramic scoop, the field volcanologists carefully ___ incandescent molten lava from the active fissure into steel containers, rapidly quenching the viscous rock to analyze its volatile gases.",
+    "options": [
+      "cram",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "工具状语“Using an extendable ceramic scoop”（使用可伸缩陶瓷勺）与宾语“incandescent molten lava”（炽热的熔岩流体）构成双重决定性锚点，唯有表示“以勺或类似容器舀取/盛取流体或黏稠熔融物”的 ladle 在句法与工具语义搭配上完全成立。",
+    "distractor_analysis": {
+      "cram": "错误。cram 强调将物体强行“塞满、硬塞进”有限空间，而句中科研人员是使用开口陶瓷勺（scoop）从裂隙中“舀取”炽热黏稠的熔岩流，无法产生“cram molten lava with a scoop into containers”的物理操作语义。",
+      "ladle": "正确。ladle 作动词表示“（用勺或舀具）舀取、盛出（液体或高温熔融物）”（to dip out and transfer with or as if with a ladle）。在火山学实地考察的专业语境中，“ladle molten lava into containers/water”是标准的地质采样动作表述，与“ceramic scoop”及熔融岩浆（molten lava）构成天衣无缝的搭配。",
+      "siphon": "错误。siphon 严格指利用虹吸原理通过管道或导管利用压差抽取液体，句中明确指定工具为手持的“ceramic scoop”（舀勺），在操作机制上与虹吸管（siphon）完全排斥，且高达上千度的熔岩无法使用常规虹吸操作。",
+      "stratify": "错误。stratify 意为“使成层、分层”，是表示状态变化或结构分类的动词，不能用于通过工具将某种物质从源头转移到另一容器内的动态取样过程（*stratify molten lava from... into... 存在严重句法语义阻抗）。"
+    },
+    "translation": "野外火山学家使用带有加长柄的陶瓷勺，小心翼翼地从活跃的裂隙中舀出炽热的熔岩并注入钢制容器中，随后迅速对黏稠的岩石进行淬火，以分析其中蕴含的挥发性气体。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_19",
+    "group_id": 40,
+    "group_name": "cramp, brace, energize, intoxicate",
+    "level": "TEM-8",
+    "target_word": "cramp",
+    "question": "Rigid institutional surveillance and overly specialized disciplinary boundaries inevitably ___ the intellectual development of young scholars, severely curtailing autonomous inquiry and discouraging unorthodox theoretical experimentation.",
+    "options": [
+      "cramp",
+      "brace",
+      "energize",
+      "intoxicate"
+    ],
+    "answer": "cramp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'the intellectual development' and aligns semantically with the restrictive participial clause 'severely curtailing autonomous inquiry and discouraging unorthodox theoretical experimentation'.",
+    "distractor_analysis": {
+      "cramp": "正确。cramp作及物动词时，其核心引申义为'束缚、阻碍……的发展或自由伸展'（to confine, restrain, or hold back from free action or development），与宾语'intellectual development'（智力/学术发展）构成极具学术质感的经典搭配，与后文分词短语'curtailing autonomous inquiry'（削减自主探究）在语义色彩和逻辑链条上完全吻合。",
+      "brace": "排除。brace作及物动词主要表示'加固、支撑'或通过反身代词搭配'brace oneself for/against'表示'为应对困难/冲击做好准备'，既不能与'intellectual development'构成表示'阻碍发展'的动宾搭配，亦无法与后文表达压制、削弱的语境形成呼应。",
+      "energize": "排除。energize意为'给……注入活力、激励'（to impart energy or vitality to），在语义极性上属于完全正面的积极动词，若代入句中与后文分词从句'severely curtailing... and discouraging...'（严重削减……并打击……）构成根本性的逻辑语义矛盾。",
+      "intoxicate": "排除。intoxicate本义为'使喝醉、使中毒'，比喻义为'使狂喜、使陶醉或丧失理智'，其宾语通常为有生命的人或认知主体（如intoxicate someone with power），无法与抽象的名词性短语'the intellectual development'形成有效动宾搭配，语域与语境严重脱节。"
+    },
+    "translation": "刻板的学术机构监管与过度专业化的学科界限，必然会束缚青年学者的学术智力发展，严重削减其自主探究空间，并扼杀非正统的理论实验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b03_20",
+    "group_id": 40,
+    "group_name": "cramp, brace, energize, intoxicate",
+    "level": "TEM-8",
+    "target_word": "brace",
+    "question": "Foreseeing a catastrophic reduction in state endowments, the university's governing council took urgent measures to ___ itself for protracted labor strikes and unprecedented institutional austerity.",
+    "options": [
+      "cramp",
+      "brace",
+      "energize",
+      "intoxicate"
+    ],
+    "answer": "brace",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic-semantic frame '___ itself for [an impending ordeal/crisis]', which exclusively admits the verb 'brace'.",
+    "distractor_analysis": {
+      "brace": "正确。brace在认知与心理准备语境中，核心句型为'brace oneself/itself for sth.'（使自己做好心理或策略准备以抵御逆境或打击；to prepare oneself for something difficult or unpleasant），句中的'protracted labor strikes'（旷日持久的罢工）和'institutional austerity'（严苛的机构财政紧缩）构成典型的严峻危机，完全符合该短语的句法与语义选择限制。",
+      "cramp": "排除。cramp作为及物动词表示'束缚、阻碍'，既不接'itself for'这一句式结构，在语义上也无法表达'使机构自身对即将到来的危机做好准备'之意，存在句法搭配不兼容。",
+      "energize": "排除。energize意为'激励、赋予能量'，不能用于'energize oneself for a crisis'来表示针对危机的防范性严阵以待；且面对罢工与财政紧缩的负面危机，energize在情感色彩与语用习惯上均严重失配。",
+      "intoxicate": "排除。intoxicate意为'使陶醉、使狂喜'，常见搭配为'intoxicate oneself with sth.'，绝无'intoxicate itself for [ordeal]'的句法用法；且使自身因即将发生的危机而'陶醉'完全背离基本逻辑常识。"
+    },
+    "translation": "预见到国家财政拨款将出现灾难性削减，大学理事会迅速采取紧急措施，使自身做好准备以承受旷日持久的罢工与前所未有的全校性财政紧缩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

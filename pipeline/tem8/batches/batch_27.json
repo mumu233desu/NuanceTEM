@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b27_01",
+    "group_id": 271,
+    "group_name": "slur, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "slur",
+    "question": "Exhausted by seventy-two hours of sustained negotiations, the sleep-deprived diplomat began to ___ his syllables, rendering his final concessions almost unintelligible to the stenographers.",
+    "options": [
+      "slur",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "slur",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "his syllables, rendering his final concessions almost unintelligible",
+    "distractor_analysis": {
+      "slur": "正确。Merriam-Webster将其权威定义为“utter indistinctly（含糊不清地发音、吐字黏连）”。句中“his syllables”（他的音节）与后置结果状语“rendering his final concessions almost unintelligible”（使他最后的让步几乎无法被速记员听清）构成铁证锚点。“slur syllables/words”是标准的高级英语搭配，精确描绘因极度疲劳而引发的发音器官肌肉失调、吐字含混的生理言语现象。",
+      "blurt": "错误。其核心语义为“utter abruptly and impulsively（脱口而出、不假思索地说出）”，通常搭配被泄露的秘密或从句，侧重言语在认知冲动下的“走漏”而非语音学上的“发音含糊不清”，与“syllables”及“unintelligible”存在明显的语义冲突。",
+      "whiff": "错误。词义为“微嗅、喷气”或比喻中的“隐约察觉”，在北美口语中亦可指“挥棒落空”，但完全不具备“含混发音”的话语产出含义，与宾语“syllables”无法形成有效搭配。",
+      "snivel": "错误。主要指“抽泣哭诉、带着鼻涕抽搭哀怨”（to speak or cry in a whining manner），通常为不及物动词（或引申为自怨自艾），既不支配“syllables”，也不符合外交谈判庄重语境中的生理疲惫描绘。"
+    },
+    "translation": "在经历了长达七十二小时不间断的艰难谈判后，这位极度缺眠的外交官吐字开始含混不清，以至于速记员几乎无法辨识出他最后所作出的妥协细节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_02",
+    "group_id": 271,
+    "group_name": "slur, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Under relentless cross-examination by the prosecuting attorney, the agitated witness lost his composure and threatened to ___ incriminating details that his defense counsel had strictly cautioned him to suppress.",
+    "options": [
+      "slur",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "incriminating details that his defense counsel had strictly cautioned him to suppress",
+    "distractor_analysis": {
+      "blurt": "正确。Merriam-Webster定义为“utter abruptly and impulsively（冲动、唐突地脱口说出）”。语境中证人“lost his composure（情绪失控）”，面临的是律师告诫其“strictly cautioned him to suppress（严加隐瞒）”的“incriminating details（罪证细节）”，blurt在此作及物动词，精确刻画因心理压力失控而冲动泄密的言语动作。",
+      "slur": "错误。其义为“含糊不清地吐字”或“诋毁、诽谤”。在此处若与“incriminating details”搭配，无法表达违背理性控制将隐秘信息脱口而出的语用含义，与后文“cautioned him to suppress”的保密逻辑相背离。",
+      "whiff": "错误。指“嗅出气味”或“略微察觉”，无法及物支配“incriminating details”来表示言语吐露行为，语法与语义均不成立。",
+      "snivel": "错误。指“抽咽抱怨、哭泣着说”，多为不及物用法，且无法承载及物动词接客观罪证细节以实现“失口泄露秘密”的话语功能，风格与法庭抗辩语境严重脱节。"
+    },
+    "translation": "在公诉律师毫不留情的盘问下，情绪焦躁的证人乱了方寸，眼看就要将辩护律师此前严正告诫他予以隐瞒的罪证细节脱口而出。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_03",
+    "group_id": 272,
+    "group_name": "spew, honk, purge, chuck",
+    "level": "TEM-8",
+    "target_word": "spew",
+    "question": "Algorithmic echo chambers across modern social platforms increasingly incentivize political extremists to ___ toxic disinformation and incendiary rhetoric, thereby manipulating cognitive biases and eroding public trust in democratic institutions.",
+    "options": [
+      "spew",
+      "honk",
+      "purge",
+      "chuck"
+    ],
+    "answer": "spew",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates transitively with 'toxic disinformation and incendiary rhetoric' to denote violent, copious outpouring of malicious speech, directly reinforcing 'manipulating cognitive biases'.",
+    "distractor_analysis": {
+      "spew": "正确。spew 本义为‘喷出、呕吐’，在政治传播与认知话语分析中引申为‘肆意喷吐、大量散布（恶毒言论、虚假信息）’，常与 vitriol、disinformation、venom、rhetoric 等连用。此处作及物动词，与 toxic disinformation and incendiary rhetoric 形成地道的高级学术与政论搭配。",
+      "honk": "错误。honk 为拟声/动作动词，主要表示鹅鸣或按汽车喇叭，在口语俚语中偶指呕吐，但绝不能及物带抽象名词（如 disinformation），在句法选择限制和语义搭配上均完全不成立。",
+      "purge": "错误。purge 意为‘清洗、涤除（杂质、罪过或异见分子）’（如 purge the system of errors），在此语境下若填入 purge，句意将彻底反转为极端分子在‘清除’假信息，与后半句‘thereby manipulating cognitive biases and eroding public trust’（从而操纵认知偏见并侵蚀信任）构成无法调和的逻辑矛盾。",
+      "chuck": "错误。chuck 属于非正式非学术性口语词汇（informal），本义为‘随手抛掷、丢弃’（如 chuck a stone），在严肃的学术政论语体中存在严重的语域冲突（stylistic clash），且不能搭配抽象话语名词来表达‘散布言论’。"
+    },
+    "translation": "现代社交平台上的算法回音室日益诱使政治极端分子大肆喷发有毒的虚假信息与煽动性言辞，从而操纵公众的认知偏差，并侵蚀人们对民主制度的信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_04",
+    "group_id": 272,
+    "group_name": "spew, honk, purge, chuck",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Bioacoustic telemetry demonstrates that migratory geese ___ continuously through turbulent nocturnal cloud layers, using their resonant low-frequency vocalizations to calibrate aerodynamic spacing and synchronize wingbeat frequencies in the absence of visual landmarks.",
+    "options": [
+      "spew",
+      "honk",
+      "purge",
+      "chuck"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIORAL_ECOLOGY",
+    "anchor_clue": "Governed by the subject 'migratory geese' and reinforced by 'using their resonant low-frequency vocalizations to calibrate aerodynamic spacing', designating the species-specific, far-carrying flight call of wildfowl.",
+    "distractor_analysis": {
+      "honk": "正确。honk 在动物行为学与生物声学（bioacoustics）中是描述雁形目鸟类（尤其是雁类 geese 与天鹅 swans）在飞行编队中发出洪亮、具穿透力的远距离联络叫声（contact call）的标准学术用词。句中主语 'migratory geese' 与伴随状语 'using their resonant low-frequency vocalizations' 构成了决定性的语义与生态学术锚点，完全吻合。",
+      "chuck": "错误。chuck 虽具有鸟类学发声含义，但专指鸡形目鸟类（如母鸡唤雏）或某些雀形目鸣禽发出的低沉、短促、局部的“咔咔/咯咯”声（a low clucking or clicking sound），主要用于近距离警示或护雏，在声学物理机制上根本无法穿透高空湍流夜云，亦绝非雁类在迁徙中协调气动间距的鸣叫，属于物种声学特征的严重混淆。",
+      "spew": "错误。spew 意为“喷出、剧烈涌出”，在生物学语境中特指猛烈喷吐胃容物或防御性液体（如管鼻鹱喷射胃油防御），且多接物质宾语；在此处作不及物动词用于表达群体间有序的声学协调，既存在严重的语义范畴冲突（category error），也违背学术语体逻辑。",
+      "purge": "错误。purge 意为“清除、净化、排空（机体废弃物）”，在鸟类生理学中常指排空消化道残渣（如吐出食丸），在生物学行为层面上属及物动词（transitive verb）。此处横线后直接跟副词及介词短语，缺乏宾语造成句法残缺（syntactic violation）；且机体排泄机制与后文利用声学信号校准翼拍频率毫无逻辑关联。"
+    },
+    "translation": "生物声学遥测表明，迁徙中的雁群在穿过湍流夜间云层时会持续发出高亢的鸣叫（honk），利用这些具共鸣特性的低频叫声来校准气动间距并同步翼拍频率，以应对缺乏视觉地标的飞行环境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_05",
+    "group_id": 273,
+    "group_name": "squeal, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "squeal",
+    "question": "Whenever fiscal authorities move to curtail lucrative agricultural subsidies, entrenched farming conglomerates predictably ___ in protest, inundating regulatory agencies with apocalyptic warnings of impending food shortages and rural bankruptcy.",
+    "options": [
+      "squeal",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "squeal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "短语搭配 '___ in protest' 与后文 'inundating regulatory agencies with apocalyptic warnings'（向监管部门大肆发出末日预警）形成语义互锁，特指利益集团在遭受财政紧缩或特权剥夺时发出的尖锐抗议与抱怨。",
+    "distractor_analysis": {
+      "squeal": "正确。squeal 原义为猪受惊或受压迫时发出的高音尖叫，在英美高端政经报刊（如《经济学人》）中极具表现力，常引申指既得利益群体在补贴削减、税负增加或监管收紧时“发出尖锐抗议、激烈抱怨”（to protest or complain shrilly or emphatically），与介词短语 'in protest' 构成严密惯用搭配，完美契合农业财团政治施压的语境。",
+      "hoot": "错误。hoot 主要指猫头鹰叫，或指发出轻蔑的嘲弄、喝倒彩（通常与 with laughter/derision 连用，或构成 hoot down）。农业巨头在自身巨额经济补贴被剥夺时，表达的是切肤之痛式的抗议，而非嘲弄嬉笑；且英语中不存在 'hoot in protest' 的固定用法。",
+      "squall": "错误。squall 作动词指婴儿因痛苦或饥饿发出的持续号啕大哭（to bawl as an infant does），或指风暴狂吹，其主语通常为幼儿或自然天气，绝不能用于形容成熟商业财团向政府部门发表策略性政治抗议。",
+      "gobble": "错误。gobble 意为“贪婪吞食、狼吞虎咽”或指火鸡啼叫，与后文的介词短语 'in protest' 以及发布经济预测的政治游说行为毫无语义与语用关联。"
+    },
+    "translation": "每当财政当局着手削减利润丰厚的农业补贴时，根深蒂固的农业大企业往往会发出尖锐的抗议，向监管机构大量递交充斥着粮食短缺和农村破产等末日预测的申诉材料。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_06",
+    "group_id": 273,
+    "group_name": "squeal, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "When the reformist candidate took the podium to denounce systemic corruption, conservative delegates aggressively sought to ___ down the speaker, drowning out his address with deafening catcalls and orchestrated jeers.",
+    "options": [
+      "squeal",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "动词与副词 'down' 的及物搭配，且后文伴随分词状语 'drowning out his address with deafening catcalls and orchestrated jeers'（用震耳欲聋的喝倒彩和精心策划的嘲弄淹没其演讲），锁定 'hoot down'（以嘘声喝退/喝倒发言者）这一排他性动词短语。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 与 down 构成固定及物动词短语 'hoot down'（to silence or drive away a speaker by derisive shouting），意为“用嘘声、嘲弄声把（演讲者）喝倒、迫使其停止发言”。后文的 'deafening catcalls and orchestrated jeers' 直接呼应了 hoot 所具有的“集体轻蔑叫嚣、喝倒彩”的核心语义特征。",
+      "squeal": "错误。squeal 表发出尖锐叫声或抗议，英语中不存在 '*squeal down' 这一动词短语，属于严重的句法搭配错误；且 squeal 多指受到伤害或压迫时的凄厉尖叫，无法表达主动以群体嘘声压制他人的攻击性场面。",
+      "squall": "错误。squall（号啕啼哭、狂风呼啸）为不及物动词，在现代英语中同样不存在 '*squall down' 的短语组合，无论在句法搭配还是语意色彩上均不成立。",
+      "gobble": "错误。'gobble down' 虽为标准英语动词短语，但其宾语严格限定于食物（意为“狼吞虎咽地吃下”，如 gobble down breakfast），绝不可接 'the speaker'（演讲者）作宾语，且与喝倒彩（catcalls and jeers）的语境彻底冲突。"
+    },
+    "translation": "当这位改革派候选人走上讲台谴责系统性腐败时，保守派代表极力企图通过嘘声将其喝倒，用震耳欲聋的喝倒彩声和精心策划的嘲弄淹没他的演讲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_07",
+    "group_id": 274,
+    "group_name": "stalk, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "stalk",
+    "question": "When his controversial thesis was derided during peer review, the senior theoretician chose to ___ haughtily from the lecture hall, displaying the stiff, indignant gait characteristic of wounded academic pride.",
+    "options": [
+      "stalk",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "stalk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit modifiers 'haughtily' and 'stiff, indignant gait' pinpoint the exact lexicographical definition of 'stalk' (to walk with stiff, haughty, or menacing strides expressing anger or disdain). In contrast, 'slink' denotes creeping furtively from shame, 'slouch' denotes an indolent, stooped posture, and 'wade' requires a resistant medium.",
+    "distractor_analysis": {
+      "stalk": "正确。stalk 作不及物动词时，其权威辞书核心释义之一即为“大步神气（或僵硬、愤怒）地走”（to walk stiffly, haughtily, or grimly）。句中的 'haughtily'（傲慢地）以及 'stiff, indignant gait'（僵硬而愤慨的步态）构成了绝对互锁的语意锚点，精准刻画出学者因学术尊严受挫而高傲愤然离席的神态。",
+      "wade": "错误。wade 意为“蹚水、费力地走”，通常接介词 through 或 into，表示在液体、泥泞或阻力极大的物理/抽象介质中艰难前行；在此处不能搭配 'haughtily from the lecture hall'，既缺乏介质阻碍的语义，也不具备僵硬高傲步态的色彩。",
+      "slink": "错误。slink 强调“潜行、溜走”（尤其因羞愧、内疚或恐惧而畏畏缩缩地逃避目光，to move stealthily or furtively as if ashamed），与句中展现傲骨与不忿的 'haughtily' 及 'stiff, indignant gait' 存在根本性的情感色彩与动作姿态冲突。",
+      "slouch": "错误。slouch 指“没精打采、松散邋遢地走或坐”（to move or walk in a loose, drooping, lazy manner），其身体形态特征为松弛、驼背、懒散，与本题核心锚点 'stiff'（僵硬挺直、傲然）在姿态构型上形成直接矛盾。"
+    },
+    "translation": "当其颇具争议的论文在同行评审中遭到讥讽时，这位资深理论家选择傲慢地大步走出报告厅，展现出受挫的学术自尊心所特有的僵硬而愤慨的步态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_08",
+    "group_id": 274,
+    "group_name": "stalk, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating their macroeconomic model, the econometricians had to ___ through an overwhelming morass of contradictory archival data, painstakingly filtering out anomalies that threatened empirical validity.",
+    "options": [
+      "stalk",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The metaphorical cognitive object 'through an overwhelming morass of contradictory archival data' combined with the arduous processing denoted by 'painstakingly filtering out' strictly activates the academic figurative idiom 'wade through' (to move laboriously through dense or difficult material).",
+    "distractor_analysis": {
+      "wade": "正确。wade 派生出的认知隐喻搭配 'wade through' 专门用于指“费力阅读/吃力地处理大量繁复、沉闷或令人困扰的文献、数据或复杂材料”（to spend a lot of time and effort reading or dealing with something complicated/voluminous）。与句中的 'morass of contradictory archival data'（矛盾档案数据的泥潭）与 'painstakingly'（煞费苦心地）构成完美的语体与认知搭配。",
+      "stalk": "错误。stalk through 通常指肉食动物或人为了捕猎、搜寻而“潜伏跟踪/大跨步巡行穿过某物理空间”，或比喻灾难、恐惧在某地区肆虐蔓延（如 famine stalks the land），不能用于表达耗时费力地研读或处理海量抽象数据材料。",
+      "slink": "错误。slink 侧重因心虚、羞愧或怯懦而“蹑手蹑脚地潜行”，不仅不能与处理枯燥学术数据的认知语境兼容，且其语义中毫无“耗费精力克服阻力前行”的含义。",
+      "slouch": "错误。slouch 指“没精打采地垂头走动或瘫坐”，其搭配 'slouch through' 多仅限于身体松散无力地移动，且带有消极怠工的感情色彩，与后文计量经济学家 'painstakingly filtering out anomalies' 所表现出的严谨、艰辛之学术努力背道而驰。"
+    },
+    "translation": "在构建其宏观经济模型之前，计量经济学家们不得不费力地梳理海量自相矛盾的档案数据泥潭，煞费苦心地剔除威胁实证有效性的异常值。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_09",
+    "group_id": 275,
+    "group_name": "surcharge, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "surcharge",
+    "question": "To prevent widespread grid failures during recurrent heatwaves, municipal regulatory authorities permitted utility providers to ___ peak-hour electricity consumption, enforcing a substantial secondary tariff on corporate consumers exceeding baseline allotments.",
+    "options": [
+      "surcharge",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "surcharge",
+    "primary_mechanism": "MECH_SYNTACTIC_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "句中关键语法与语义锚点为动宾搭配对象“peak-hour electricity consumption”（用电高峰期的电力消耗量）以及后置说明具体措施的分词短语“enforcing a substantial secondary tariff on corporate consumers exceeding baseline allotments”（对超出基准配额的企业用户加征大额二次从量费）。在现代公共事业监管与财经语域中，及物动词 surcharge 的权威释义为“to levy an extra charge, tax, or tariff on”（对……额外征费/加收附加费），与峰值消费及后续的加收附加关税（tariff）形成严丝合缝的排他性搭配。",
+    "distractor_analysis": {
+      "surcharge": "正确。surcharge（vt.）在现代标准英语中特指“对（特定商品、服务、高峰消费或交易活动）加收额外费用、额外征税”（to levy an extra charge or additional tariff on）。在此句中，“surcharge peak-hour electricity consumption”精准指称公用事业单位对高峰用电量征收附加费的经济杠杆手段，与句末分词短语“enforcing a substantial secondary tariff”（加征二次关税/附加费）构成语义闭环和逻辑呼应，完全契合现代规制经济学的高级学术语域。",
+      "clog": "错误。clog（vt.）意为“阻塞、堵塞（管道、通道、流通系统等）”，其典型的动宾搭配对象为物理管道（pipes, drains）、流动网络（roads, arteries）或抽象运转系统（clog the grid/courts）。“consumption”（消耗量、消费行为）属于抽象度量指标，并非可被实物阻滞的通道或机制，不能作 clog 的及物宾语；且其物理淤塞含义与“加征经济附加费（tariff）”的政策语境发生逻辑脱节。",
+      "deluge": "错误。deluge（vt.）依托洪泛意象，指“淹没、使大量涌入”，在引申用法中通常以“受冲击的人、机构或空间”作受事（如 deluge the hotline with complaints）。它既无法与抽象的消耗量指标“electricity consumption”搭配，也与通过价格手段抑制需求的监管调控机制南辕北辙，存在严重的语义搭配错误（category mistake）。",
+      "clutter": "错误。clutter（vt.）意为“乱堆满、使杂乱散落”，其及物搭配通常针对具体的物理空间（clutter a room/desk with junk）或认知思绪（clutter one's mind with trivia），指用无用乱物塞满空间。将其置于严肃的宏观电力调度与财税惩罚语境中修饰“consumption”，产生严重的语域冲突（register clash）和搭配破裂。"
+    },
+    "translation": "为防止反复出现的强烈热浪期间发生大范围电网崩溃，市政监管机构允许公用事业服务商对用电高峰期的电量加收附加费，对超出基准配额的企业用户加征大额二次从量费。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_10",
+    "group_id": 275,
+    "group_name": "surcharge, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "When cognitive load becomes unmanageable, persistent anxieties begin to ___ the delicate conduits of working memory, constricting the fluid transmission of information necessary for complex problem-solving.",
+    "options": [
+      "surcharge",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点由“the delicate conduits of working memory”（工作记忆的精细管道）与结果分词短语“constricting the fluid transmission of information”（收缩阻碍信息的顺畅传递）共同构成。这一认知科学模型明确构建了“管道/通路流转”的物理隐喻，唯一能够与“conduits”搭配并直接引致“constricting fluid transmission（阻遏顺畅流通）”的动词是表示物理性或功能性堵塞的 clog。",
+    "distractor_analysis": {
+      "clog": "正确。clog（vt.）的核心义项为“to impede the passage through; to choke or block up with an accumulation of matter（因堆积而堵塞通道、阻碍通行）”。在认知心理学话语中，研究者常将工作记忆建模为信息流通的“管道（conduits/channels）”，焦虑信息堆积造成管道堵塞、阻断顺畅传递（fluid transmission），clog 无论是动宾搭配还是后续结果逻辑均绝对吻合。",
+      "surcharge": "错误。surcharge 的词义侧重于“在容量或负荷上过度充盈、超载加载”，其作用对象是容器、系统或承受体，而非线性的“通道/管道（conduits）”；过量充填（surcharge）并不包含“堵死通道以致阻断水流（constricting fluid transmission）”的机械阻滞含义，破坏了管道隐喻的内在逻辑一致性。",
+      "deluge": "错误。deluge 意为“如洪水般倾泻、淹没”。在流体动力学隐喻中，洪水（deluge）表现为液体瞬时暴增甚至冲溃通路，其效果是“泛滥”，与后文明确表达的“收缩并阻断信息流通（constricting the fluid transmission）”构成直接的语义反义冲突，逻辑完全断裂。",
+      "clutter": "错误。clutter 指在平铺空间或表面上“杂乱堆放碎物”，其受事通常为平面、开阔空间或容器（如 desk, room, screen, mind），不能与具有单一流动维度的狭窄通道或管路（conduits）搭配；且 clutter 仅表达视觉或空间上的无序杂乱，不具备“致使流体输送完全停滞或受限（choke off/constrict passage）”的阻截动力学特征。"
+    },
+    "translation": "当认知负荷变得难以承受时，持续的焦虑便会开始堵塞工作记忆的精细通道，从而阻碍复杂问题解决所必需的信息顺畅传递。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_11",
+    "group_id": 276,
+    "group_name": "thud, rap, thump, drone",
+    "level": "TEM-8",
+    "target_word": "thud",
+    "question": "Initially heralded as a transformative policy blueprint, the administration’s fiscal reform package fell with a dull ___ among skeptical lawmakers, failing to generate either legislative momentum or substantive public enthusiasm.",
+    "options": [
+      "thud",
+      "rap",
+      "thump",
+      "drone"
+    ],
+    "answer": "thud",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLICY",
+    "anchor_clue": "Initially heralded as a transformative policy blueprint ... fell with a dull ___ ... failing to generate either legislative momentum or substantive public enthusiasm (定型习语'fall with a (dull) thud'表政策/提议彻底落空、惨淡收场，MW与OED权威收录)",
+    "distractor_analysis": {
+      "thud": "正确。thud 在此用作名词，构成权威英语词典（如 OED、Merriam-Webster、Oxford Collocations）明确收录的固定习语“fall with a (dull) thud”，专门用于比喻方案、政策、演讲或笑话“彻底落空、惨淡收场、完全未引起共鸣”（MW: to fail completely : to be unsuccessful; a dull or flat performance or outcome : FLOP）。句中前半句的宏大预期（transformative policy blueprint）与后半句的冷遇结果（failing to generate momentum or enthusiasm）构成强烈的对比反差，完美锚定该比喻习语。",
+      "rap": "错误。rap 作名词指清脆短促的叩击声（a sharp blow or knock）或指责、判罚（如 take the rap、a rap on the knuckles），其声学特征偏高频清脆，与前置修饰语 dull（钝沉）直接矛盾，且英语中根本不存在 *fall with a rap 这一表示彻底失败的习语搭配。",
+      "thump": "错误。thump 侧重指厚重物体撞击、拳击或心脏剧烈跳动发出的重击声（a heavy blow or its sound）。与 thud 不同，thump 在权威辞书中完全局限于具体物理层面的撞击，概无引申为“彻底失败、冷场落空（flop）”的喻义，亦不能构成 *fall with a dull thump 这类比喻习语，在此产生严重的搭配与语用断裂。",
+      "drone": "错误。drone 指持续单调低沉的嗡嗡声或冗长乏味的讲话（a continuous low dull humming sound），指代的是持续性的声学过程，在句法上无法与表示瞬态结果的 fell with a... 相搭配，语义上更完全缺乏“政策遇冷挫败”的喻义。"
+    },
+    "translation": "最初被誉为变革性政策蓝图的政府财政改革方案，在持怀疑态度的议员中彻底遭遇冷落、惨淡收场，既未能在立法层面形成推进势头，也未能激发公众的实质热情。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_12",
+    "group_id": 276,
+    "group_name": "thud, rap, thump, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "To disrupt the panel's meandering digressions, the chair would frequently ___ her ivory stylus against the walnut lectern, producing an incisive, staccato click that instantly recalled the delegates to the intellectual agenda.",
+    "options": [
+      "thud",
+      "rap",
+      "thump",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "her ivory stylus against the walnut lectern, producing an incisive, staccato click (以纤细硬质指示笔叩击硬木讲台产生尖锐断音式咔嗒声，动作及声学特征决定唯有及物动作rap契合)",
+    "distractor_analysis": {
+      "rap": "正确。rap 意为以硬物轻捷而尖锐地敲击、叩击（MW: to strike with a quick, sharp, light blow），可直接接宾语构成“rap sth against sth”。语境中用象牙指示笔（ivory stylus）叩击坚硬的胡桃木讲台（walnut lectern）以打断冗赘离题，产生“incisive, staccato click”（尖锐、断音式的清脆咔嗒声），无论在及物句法搭配还是声学特质上均完全吻合。",
+      "thud": "错误。thud 强调沉重受阻的钝响，极少作为及物动词支配轻巧细长的硬物（stylus），且其发出的低沉沉闷声响与后文断音式脆响（incisive, staccato click）在声学特征上根本对立。",
+      "thump": "错误。thump 意为以沉重蛮力猛击或擂击并产生沉闷巨响（to strike heavily so as to produce a dull or hollow sound），通常用于拳头、重物或钝器的砸击，无法搭配小巧轻巧的象牙指示笔，亦无法发出轻脆的 click 声。",
+      "drone": "错误。drone 表示发出低沉单调的嗡鸣声或单调说话，是不及物动词，既不能带宾语“her ivory stylus against...”，在词义上也与间歇性敲击发声风马牛不相及。"
+    },
+    "translation": "为了打断专家组冗长漫散的偏题讨论，会议主席频频用象牙指示笔叩击胡桃木讲台，发出清脆刺耳的断奏咔嗒声，令与会代表立时重新专注于当前的学术议程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_13",
+    "group_id": 277,
+    "group_name": "thump, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "thump",
+    "question": "Upon realizing the systemic flaw in his cryptographic model, the mathematician felt his heart ___ in heavy, rhythmic surges against his ribs, momentarily paralyzing his capacity for reasoned deduction.",
+    "options": [
+      "thump",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "thump",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键锚点为“in heavy, rhythmic surges against his ribs”，明确限定了该动词必须指代心脏“沉重、有节奏地剧烈跳动/搏动”。韦氏词典中 thump 的核心释义为“to pound, throb; move rhythmically”，与 heavy 和 rhythmic surges 构成唯一精准搭配；其余选项在运动幅度、频率或机制上均无法契合这一生理—认知冲击语境。",
+    "distractor_analysis": {
+      "thump": "正确。thump 作不及物动词时特指（心脏、脉搏等）沉重且伴有明显节奏感地剧烈怦怦狂跳（to pound or throb heavily and rhythmically）。此处与后置状语“in heavy, rhythmic surges against his ribs”形成严密的语意与体感呼应，准确刻画出科学家突遭认知颠覆时强烈的躯体化应激反应。",
+      "waver": "错误。waver 意为“动摇、踌躇、摇摆不定”，主要用于描述抽象信念、意志的摇摆或物理层面的摇曳晃动，绝不可用于描述器官在胸腔内“沉重且具节奏感地狂跳（heavy, rhythmic surges）”，产生严重的搭配断裂。",
+      "quiver": "错误。quiver 意为“轻微发抖、细颤”（to shake or tremble with a slight rapid motion），强调微弱、快速的高频震颤（如嘴唇发颤或心室纤颤），与句中明确界定的“heavy（沉重的）”以及“surges（剧烈起伏的冲撞）”所体现的低频、重度机械冲击力构成不可调和的语义反差。",
+      "writhe": "错误。writhe 意为“（因剧痛、苦恼而）身体扭曲、翻滚挣扎”（to twist or contort the body in pain or struggle），指向整体身体形态的扭转蜷曲，不可用于修饰单一内脏器官在胸壁内以“rhythmic surges”进行节律性搏动。"
+    },
+    "translation": "意识到自己密码学模型中的系统性缺陷后，数学家感到心脏在胸腔肋骨间沉重而有节奏地剧烈狂跳，一时令他失去了严谨推理的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_14",
+    "group_id": 277,
+    "group_name": "thump, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted by persistent stagflationary pressures, the monetary policy committee began to ___ between tightening credit conditions and preserving fragile industrial growth, failing to forge a decisive consensus.",
+    "options": [
+      "thump",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "决定性语法与语义锚点为固定句式“waver between doing A and doing B”。在宏观政策与群体决策语境中，表征在两种互斥的行动方案或立场之间“摇摆不定、举棋不定”的标准搭配为 waver between，其余三项均无此句法支配能力与抽象思辨语义。",
+    "distractor_analysis": {
+      "waver": "正确。waver 的核心认知义为“在两种选择、意见或行动路径之间动摇犹豫”（to vacillate irresolutely between choices or courses of action）。“waver between A and B”是严谨的宏观治理与政策分析语境中的典型搭配，完美契合委员会在收紧信贷与维持增长两难困境中的博弈态势。",
+      "thump": "错误。thump 意为“砰砰重击、猛烈搏动”（to strike heavily; to beat with dull, heavy blows），纯属物理撞击或心脏生理跳动词汇，既无“thump between A and B”的句法配价，更无法引申出抽象决策层面的审慎犹豫。",
+      "quiver": "错误。quiver 指因寒冷、恐惧或强烈情绪而引起的“轻微颤抖、微颤”（to shake or tremble with a slight rapid motion）。该词属于物理微幅震动范畴，后接“between A and B”在语法与语义逻辑上均不成立，不可用于描述政策立场的摇摆。",
+      "writhe": "错误。writhe 意为“（因极度痛苦而）身体扭曲、翻滚”（to twist the body about, or squirm, as in pain or violent effort），常接介词短语（如 writhe in pain/agony），指肉体或剧烈情绪折磨下的扭动反应，不能支配 between 结构，更不符合央行委员会理性研判的庄重语域。"
+    },
+    "translation": "面对持续存在的滞胀压力，货币政策委员会开始在收紧信贷条件与保护脆弱的工业增长之间摇摆不定，未能达成决定性的共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_15",
+    "group_id": 278,
+    "group_name": "tilt, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "tilt",
+    "question": "Prompted by persuasive neuroimaging evidence, prominent developmental theorists have begun to ___ decisively toward an innate cognitive architecture, effectively abandoning the radical empiricist assumptions that formerly guided their research.",
+    "options": [
+      "tilt",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "tilt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键结构为 '___ decisively toward [an innate cognitive architecture]'。tilt 原指物理上的倾斜、侧倾（heel over），在认知与学术语域中常引申为‘（思想、立场、学术倾向）偏向、倾斜于某一方’（MW: to favor one side or opinion: INCLINE），且与 'toward' 形成严密的介词搭配；副词 'decisively'（断然地、明确地）强化了这种单向倾斜的定论。相比之下：waver 表示‘犹豫不决、反复摇摆’，与 'decisively' 构成直接的语义逻辑矛盾（oxymoron），且其习惯搭配为 between 或 in，而非 toward；quiver（轻微颤抖）与 writhe（痛苦翻滚扭曲）均为躯体性物理动作动词，置入理论立场转移的认知语境会造成严重的语域与搭配断裂。",
+    "distractor_analysis": {
+      "tilt": "正确。tilt 由物理上的‘侧倾、倾斜’引申至认知与学术立场，'tilt toward...' 为固定高频学术搭配，意为‘立场倒向/倾向于’；配合状语 'decisively'，精准表达出学者从经验主义转向先天天赋论的明确倾向。",
+      "waver": "错误。waver 意为‘动摇、犹豫、摇摆不定’（MW: to vacillate between choices），其核心义是无法抉择的反复摇摆，与后文的 'decisively'（果断地、决然地）产生不可调和的逻辑自相矛盾（semantic oxymoron）；且 waver 极少与 toward 连用表示接纳某一立场。",
+      "quiver": "错误。quiver 专指因寒冷、恐惧或激动引起的细微快速颤抖（如声音、嘴唇或肢体抖动），完全脱离认知理论范式的转移语境，属于严重的词义范畴错配（category mistake）。",
+      "writhe": "错误。writhe 指因极端肉体剧痛或精神羞耻而剧烈扭动身体挣扎（to twist the body in pain），在探讨认知架构模式的严谨学术语境中存在严重的语域冲突与概念荒谬。"
+    },
+    "translation": "在令人信服的神经影像学证据的推动下，杰出的发展理论家们已开始果断地倒向先天认知架构理论，切实摒弃了此前一直指导其研究的激进经验主义假说。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_16",
+    "group_id": 278,
+    "group_name": "tilt, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Caught between irreconcilable methodological traditions, the qualitative researcher continued to ___ between phenomenological immersion and detached structural analysis, unable to formulate a coherent epistemological justification for her thesis.",
+    "options": [
+      "tilt",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性句法与语义双重锚点为 '___ between [A] and [B], unable to formulate a coherent... justification'。waver between 是表示在两种对立的学术观点、路径或理论之间‘犹疑不决、摇摆不定’（MW: to vacillate between choices: fluctuate in opinion）的标准认知搭配，与后文‘无法构建连贯的认识论辩护’形成严密因果逻辑闭环。相比之下：tilt 表示单向的倾斜或倾向（通常搭配 toward），无法与 'between A and B' 搭配来指代悬而未决的反复摇摆；quiver（颤抖）与 writhe（痛苦扭动）皆为纯粹的生理/物理运动动词，不可用于方法论范式之间的认知抉择。",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为‘（在信念、选择或意见上）动摇、犹豫不决’，'waver between A and B' 为经典学术搭配，完美契合研究者在现象学沉浸与结构分析两大学术范式间举棋不定的认知困境。",
+      "tilt": "错误。tilt 强调单侧倾斜或明确倾向某一方（collocates with toward），无法接 'between A and B' 来表达悬而未决的双向徘徊，在句法搭配与表意逻辑上均不成立。",
+      "quiver": "错误。quiver 意为轻微抖动、发抖，为具象的物理或生理颤搐，无法表达认知层面上对不同方法论传统的犹豫与摇摆，造成搭配断裂。",
+      "writhe": "错误。writhe 强调因剧痛难忍而肢体扭曲翻滚（如 writhe in agony），不能用于介词 between 引出的理论抽象抉择，语义完全不契合。"
+    },
+    "translation": "夹在不可调和的方法论传统之间，这位定性研究者仍在现象学沉浸与超然的结构分析之间摇摆不定，始终无法为其论文构建出连贯的认识论辩护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_17",
+    "group_id": 279,
+    "group_name": "transpose, flip, revert, regress",
+    "level": "TEM-8",
+    "target_word": "transpose",
+    "question": "Sociologists caution that attempting to ___ Western institutional paradigms directly into post-colonial administrative systems, without accommodating local customary conventions, inevitably induces structural friction and institutional failure.",
+    "options": [
+      "transpose",
+      "flip",
+      "revert",
+      "regress"
+    ],
+    "answer": "transpose",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中由及物动词短语“___ Western institutional paradigms directly into...”构成核心锚点。transpose 是唯一能够表达将抽象理论、制度或范式“移植/套用（至另一语境）”并接介词 into 的及物动词；revert 与 regress 均为不及物动词，存在根本性的及物性语法违规；flip 语义偏向物理翻转或立场颠倒，无法与制度范式（paradigms into systems）形成合规搭配。",
+    "distractor_analysis": {
+      "transpose": "正确。及物动词，指将（制度、概念、音乐等）从一种语境、位置或系统转移并适应到另一种之中（常与 into/to 搭配），与 Western institutional paradigms（西方制度范式）及 post-colonial administrative systems（后殖民行政体系）构成高度地道严谨的学术搭配。",
+      "flip": "错误。及物动词，主要指“轻弹、快速翻转、倒置”或“逆转（选举席位/立场）”，无法用于抽象制度范式的语境跨越与移植（paradigms into systems），语域和语义均不合拍。",
+      "revert": "错误。不及物动词（常与 to 搭配，表示“回复、恢复到原状”），不能直接带名词宾语 paradigms，产生严重及物性语法冲突。",
+      "regress": "错误。不及物动词，指“倒退、退化、退步”，句法上不可直接跟宾语，语法功能不符。"
+    },
+    "translation": "社会学家提醒道，如果不顾及当地习惯法则，企图将西方制度范式直接照搬移植到后殖民时期的行政体系中，必然会导致结构性冲突与制度失效。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_18",
+    "group_id": 279,
+    "group_name": "transpose, flip, revert, regress",
+    "level": "TEM-8",
+    "target_word": "flip",
+    "question": "By mobilizing unprecedented turnout among disaffected suburban voters, the opposition managed to ___ several crucial legislative seats, thereby fracturing the ruling coalition's long-standing parliamentary dominance.",
+    "options": [
+      "transpose",
+      "flip",
+      "revert",
+      "regress"
+    ],
+    "answer": "flip",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "政治选举与高级时事新闻语境中的及物搭配“___ several crucial legislative seats”以及结果状语“thereby fracturing the ruling coalition's long-standing parliamentary dominance”。在现代英语中，flip a seat 是专有固定搭配，特指“逆转夺取（对手政党的）议席”；transpose 意为调换顺序或移植，不能表示夺取席位；revert 和 regress 均为不及物动词，无法后接直接宾语。",
+    "distractor_analysis": {
+      "flip": "正确。及物动词，在高级时事政论语域（如《经济学人》《外交事务》）中，flip 常用于选举政治，特指“使（议席/选区）政治归属反转、逆转获胜”，与 legislative seats 构成绝对排他的专属专业搭配。",
+      "transpose": "错误。及物动词，意为“调换……的位置/顺序”或“将……移植至新领域”，无法表达选举中“夺取、翻转席位”的政治动态，语义明显断裂。",
+      "revert": "错误。不及物动词，表示“恢复到原状”，无法直接跟宾语 several crucial legislative seats，造成句法失配。",
+      "regress": "错误。不及物动词，表示“退化、倒退”，在句法上无法充当及物谓语带宾语。"
+    },
+    "translation": "通过在心怀不满的郊区选民中动员起空前的投票率，反对党成功翻转并夺取了数个关键立法议席，从而打破了执政联盟长期以来的议会主导地位。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_19",
+    "group_id": 280,
+    "group_name": "treble, chant, trill, chirp",
+    "level": "TEM-8",
+    "target_word": "treble",
+    "question": "During the rigorous neurological examination, the elderly scholar's faltering voice began to ___, its thin, piping timbre starkly revealing how severely the cognitive demands were overwhelming his faculties.",
+    "options": [
+      "treble",
+      "chant",
+      "trill",
+      "chirp"
+    ],
+    "answer": "treble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "faltering voice began to ___ ... its thin, piping timbre (决定性排他锚点：后文'thin, piping timbre'精准呼应韦氏词典对 treble 作动词时'to speak in a high-pitched piping voice'之核心释义，专指受挫、衰弱或认知负荷过大时嗓音退化为尖细颤弱的音调)",
+    "distractor_analysis": {
+      "treble": "正确。根据韦氏词典，treble 作不及物动词可表“（嗓音）变为尖细、以尖细孱弱的声调说话”（to speak in a high-pitched piping voice），常用于描写年迈、体弱或受到极端认知与神经压力下声音的病理退化。句中主语为'faltering voice'，且紧承'thin, piping timbre'，在语义和语体上构成无可替代的严密互锁。",
+      "chant": "错误。chant 意为“反复吟诵、有节奏地单调唱诵”，强调有规律的节奏感、仪式感或机械复诵，与老人认知超载时发音机能失控、声音变细发尖（faltering / thin, piping timbre）的生理与认知反应完全不符。",
+      "trill": "错误。trill 意为“发出颤音、欢快啼啭”（多指鸟鸣或声乐技巧），侧重音高的快速交替震动（vibration/vibrato），无法体现衰老与神经衰竭导致的声线变细变尖（piping voice）的音域特质。",
+      "chirp": "错误。chirp 意为“唧唧叫、轻快活泼地说”（to utter in a lively, cheerful manner），具有强烈的欢愉、轻松的情感极性，与面临严酷神经学检查、认知机能崩溃的沉重语境发生严重感情色彩冲突。"
+    },
+    "translation": "在严苛的神经学检查中，这位年迈学者颤抖的声音开始变得尖细单薄，那又细又尖的音色清楚地显露出沉重的认知负荷正严重压垮他的心智机能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b27_20",
+    "group_id": 280,
+    "group_name": "treble, chant, trill, chirp",
+    "level": "TEM-8",
+    "target_word": "chant",
+    "question": "Rather than subjecting dogmatic premises to rigorous cognitive scrutiny, ideologues often prefer to ___ orthodox slogans in unison, substituting rhythmic unreflective repetition for the nuanced deliberation demanded by genuine intellectual inquiry.",
+    "options": [
+      "treble",
+      "chant",
+      "trill",
+      "chirp"
+    ],
+    "answer": "chant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "___ orthodox slogans in unison, substituting rhythmic unreflective repetition (决定性排他锚点：'slogans in unison' 与 'rhythmic unreflective repetition' 构成了对 chant 作为'机械反复齐呼口号、念咒般背诵教条'的绝对语义锁定)",
+    "distractor_analysis": {
+      "chant": "正确。chant 意为“齐声高呼（口号）、念咒般反复吟诵”（to utter repeatedly or rhythmically），在认知批判与政治话语中常特指“不加批判性思考而机械复述某种教条或口号”。句中的宾语'orthodox slogans in unison'以及同位解构'rhythmic unreflective repetition'均与 chant 的核心搭配和微观语义完美吻合。",
+      "treble": "错误。treble 作及物动词意为“使……增加至三倍”（triple），作不及物动词表“发出尖细声音说话”，无法与'slogans in unison'形成合乎逻辑的动宾搭配，语义完全不通。",
+      "trill": "错误。trill 意为“发颤音、转音歌唱”，属于声乐发声或鸟类鸣啭特有名词，不能接抽象的政治口号作宾语，用于群体思想僵化的认知语境中属于严重的搭配断裂。",
+      "chirp": "错误。chirp 意为“轻快叽喳地说”，侧重个体言语的轻快短促与俏皮感，既无法支配'orthodox slogans in unison'这一群体齐声表态的形式，也与严肃学术批判语域中的'rhythmic unreflective repetition'背道而驰。"
+    },
+    "translation": "意识形态教条主义者往往不愿对僵化的前提进行严谨的认知审视，而是更倾向于齐声反复高呼正统口号，以富有节奏却缺乏思考的机械重复，取代了真正智识探究所必需的缜密审议。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

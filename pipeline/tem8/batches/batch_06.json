@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b06_01",
+    "group_id": 61,
+    "group_name": "ensconce, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ensconce",
+    "question": "Recognizing the ephemeral nature of public acclaim, the veteran civil servant sought to ___ himself firmly in a senior regulatory post before the impending administrative reshuffle took effect.",
+    "options": [
+      "ensconce",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ensconce",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The reflexive construction '___ himself firmly in a senior regulatory post' strictly requires a verb denoting settling comfortably or securely into a position, uniquely licensing 'ensconce oneself in'.",
+    "distractor_analysis": {
+      "ensconce": "正确。ensconce 意为“使安顿、使稳妥安置于”，极常用于反身结构 ensconce oneself in/at...，表示使自己稳固占据或退隐于某个舒适、受保护的职位或环境中，与后文的“himself firmly in a senior regulatory post”构成完美句法及语义搭配。",
+      "ladle": "错误。ladle 意为“用长柄勺盛”或比喻意“大量分发（通常后接 out）”，其后不可接反身代词并与介词 in 搭配表示“使自己就职或安坐”（无 ladle oneself in 之用法），句法搭配完全不合。",
+      "siphon": "错误。siphon 意为“用虹吸管吸出”或引申为“暗中抽调、抽走（资金、物资）”，常见固定搭配为 siphon off/away sth. from...，宾语多为资金或资源，不可用于将自身稳固安置于某一官职，语义与动宾搭配均不成立。",
+      "stratify": "错误。stratify 意为“使分层、使形成阶级”，其支配的宾语通常为社会、人群或样本群体（如 stratify a society/sample），无法与反身代词及介词短语结合表示个体在某个职位上稳固立足。"
+    },
+    "translation": "深知公众赞誉的短暂易逝，这位资深公务员试图在即将来临的行政人事改组生效之前，让自己稳稳坐上一处高级监管部门的要职。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_02",
+    "group_id": 61,
+    "group_name": "ensconce, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Rather than offering rigorous intellectual critique, the obsequious biographer chose to ___ out hyperbolic praise across successive chapters, alienating discerning readers who sought an objective historical assessment.",
+    "options": [
+      "ensconce",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrasal collocation '___ out hyperbolic praise' requires a verb that idiomatically combines with the particle 'out' to denote dispensing or bestowing something lavishly or indiscriminately.",
+    "distractor_analysis": {
+      "ensconce": "错误。ensconce 意为“安顿、安置”，为及物动词，其后常接反身代词与介词 in/behind，绝不能与副词小品词 out 连用，亦不可接抽象的“言辞/赞美”作为动作受体。",
+      "ladle": "正确。ladle out 为高级英语及专八阅读常见隐喻搭配，意为“大肆给予、不加节制地分发（赞扬、奉承、津贴等）”（to distribute or bestow in large quantities），与后文的“hyperbolic praise”（夸张溢美之词）形成精准地道的修辞搭配。",
+      "siphon": "错误。siphon 意为“抽调、抽取、侵吞”，常与 off 搭配（siphon off funds），动作方向是隐秘抽走或挪用资源，与向读者或对象“大肆奉上赞美”的语义语境背道而驰，且不存在 siphon out praise 的搭配。",
+      "stratify": "错误。stratify 意为“使分层、使阶层化”，属于学术性分类动词，无法与小品词 out 连用，更不能支配 praise（赞誉）作为宾语，句法与逻辑语义完全破裂。"
+    },
+    "translation": "这位谄媚的传记作者并未提出严谨的学术批判，而是在连续数章中大肆滥施夸张的赞美之词，令那些寻求客观历史评价的敏锐读者大失所望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_03",
+    "group_id": 62,
+    "group_name": "entice, jog, lure, incite",
+    "level": "TEM-8",
+    "target_word": "entice",
+    "question": "In avant-garde culinary theory, chefs orchestrate complex textural contrasts and aromatic vapors to ___ the diner's palate, transforming basic physiological nourishment into an elevated aesthetic experience.",
+    "options": [
+      "entice",
+      "jog",
+      "lure",
+      "incite"
+    ],
+    "answer": "entice",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_AESTHETICS",
+    "anchor_clue": "The transitive verb governs the sensory noun phrase 'the diner's palate'; lexicographically (Merriam-Webster), 'entice' specifically denotes drawing by seductive appeal to 'tastes, desires, or appetites' ('entice the palate'), whereas 'lure' violates selectional restrictions by requiring an animate agent as its patient and cannot govern an abstract organ of taste.",
+    "distractor_analysis": {
+      "entice": "正确。句法与搭配完美契合。根据《韦氏词典》（Merriam-Webster），entice 的核心语义为“drawing by artful or seductive appeal to desires, tastes, or appetites”（通过对品味、欲望或食欲的巧妙诱引而吸引），与宾语 the diner's palate（食客的味蕾/品味）构成高频、规范的美学批评与美食学搭配（entice the palate），精确呼应后文将基础生理需求升华为崇高审美体验的语篇逻辑。",
+      "jog": "错误。句法语义双重不符。jog 作为及物动词意为“轻推、轻摇”，其引申用法几乎严格受限于认知心理学中的固化搭配 jog sb.'s memory（唤起某人记忆），绝无法与 the palate 搭配使用。",
+      "lure": "错误。选择限制（selectional restriction）与语义色彩严重违背。lure 源于鹰猎诱饵，其及物动词的语义选择限制强制要求具有移动和空间位移能力的有生实体（animate entity，如人或动物，如 lure shoppers / lure prey into a trap）；英语中无法将抽象的内在感知器官“palate（味蕾/鉴赏力）”作为诱捕对象（*lure the palate 属于严重搭配不当）。此外，lure 隐含险境、陷阱或欺骗性手段，与纯粹的感官美学享受语境相悖。",
+      "incite": "错误。语义预设与语域严重冲突。incite 意为“煽动、激起”，其语义预设通常是指挑起暴力、叛乱、动乱、仇恨或非法破坏行为（如 incite a riot, incite violence），不能用于指代对味觉与审美感知器官的正向激发。"
+    },
+    "translation": "在前卫烹饪理论中，主厨们通过巧妙编排复杂的质感对比与诱人香气来诱发食客的味蕾，从而将基础的生理滋养升华为一种崇高的审美体验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_04",
+    "group_id": 62,
+    "group_name": "entice, jog, lure, incite",
+    "level": "TEM-8",
+    "target_word": "jog",
+    "question": "In forensic cognitive psychology, specialized retrieval mnemonics are frequently utilized during investigative interviews to ___ the witness's dormant memory without inadvertently introducing misleading post-event misinformation.",
+    "options": [
+      "entice",
+      "jog",
+      "lure",
+      "incite"
+    ],
+    "answer": "jog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct nominal object is 'the witness's dormant memory', forming the classic cognitive idiom 'jog one's memory' (to stimulate or revive recall), which definitively excludes verbs requiring sentient agents or emotional provocation.",
+    "distractor_analysis": {
+      "jog": "正确。collocation 锚点决定性匹配。在认知心理学及现代英语习惯中，“jog sb.'s memory”（唤起/勾起某人的记忆）是高度固定的成语化搭配。此处与“dormant memory”（休眠的记忆）组合，精准表达通过专业助记技术“唤醒潜在记忆”的专业学术概念。",
+      "entice": "错误。搭配断裂。entice（引诱、吸引）的核心语义在于通过利益或诱惑去驱使具有意志的主体，其宾语必须为具体的人或动物实体，绝不能与抽象认知名词 memory 构成动宾搭配（不存在 *entice one's memory）。",
+      "lure": "错误。搭配断裂。lure 意为“诱惑、诱捕”，核心隐喻为利用诱饵（bait）将对象引向陷阱或险境，其动词支配对象必须是能被捕获或诱拐的有生实体，无法以“记忆”作为直接宾语。",
+      "incite": "错误。搭配断裂且语义场不合。incite 意为“煽动、策动”，所支配的宾语一般为反叛、暴乱、仇恨或极端情绪（如 incite unrest / hatred），在英语词汇库中完全不能修饰或作用于 memory。"
+    },
+    "translation": "在法庭认知心理学中，调查问话时常会运用专门的提取助记法来唤醒证人沉睡的记忆，同时避免在不经意间引入误导性的事后虚假信息。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_05",
+    "group_id": 63,
+    "group_name": "eschew, shun, shirk, fudge",
+    "level": "TEM-8",
+    "target_word": "eschew",
+    "question": "Confronted with an impending recession, the central bank governor chose to ___ relying on unconventional quantitative easing, arguing that excessive liquidity would distort asset valuations and fuel long-term inflation.",
+    "options": [
+      "eschew",
+      "shun",
+      "shirk",
+      "fudge"
+    ],
+    "answer": "eschew",
+    "primary_mechanism": "MECH_SYNTACTIC_FRAME",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "...relying on unconventional quantitative easing, arguing that excessive liquidity would distort asset valuations and fuel long-term inflation",
+    "distractor_analysis": {
+      "eschew": "正确。eschew 意为“（出于审慎实用考量或长远原则而刻意）戒绝、放弃使用、避免（某种做法或诱惑）”（Merriam-Webster: to avoid habitually especially on moral or practical grounds; to abstain from: FORGO）。在句法层面上，各大权威规范词典（OALD, LDOCE, Collins Cobuild）与《剑桥英语语法》（CGEL）明确指出 eschew 具备后接动名词复合短语的补足语框架（eschew doing sth）。句中行长出于避免资产泡沫与通胀的审慎理性，主动选择“放弃依赖”量化宽松这一政策权宜手段，语法结构与论证逻辑均完美契合。",
+      "shun": "错误。shun 核心语义侧重于“（出于厌恶、畏惧、道德谴责或社会性排斥而）躲避、回避（某人、群体、社交场合、视线）”（Merriam-Webster: to avoid deliberately often with an implication of abhorrence or fear）。在句法受限性上，权威学习词典（OALD, LDOCE, Collins）明确标注 shun 仅支配体态名词短语（shun sb/sth），在现代标准英语中不具备支配带介词宾语的动名词复合短语框架（*shun relying on sth）；在语域色彩上，量化宽松为正规宏观政策工具，绝非引起情感反感或需要道德隔离的污秽对象，无法与理性经济论证（arguing that...）相协调。",
+      "shirk": "错误。shirk 专指“（出于懒惰、怯懦或不负责任而）逃避、推卸（法定义务、责任、艰巨任务）”，常见搭配如 shirk duty / responsibility，接动名词时亦仅限于规避本应履行的负重性事务（如 shirk paying taxes）。句中“依赖量化宽松”是一项极具短期吸引力但蕴含长期风险的政策干预手段，绝非央行行长必须恪守的法定义务；使用 shirk 会造成严重的逻辑反转（将行长的审慎克制扭曲为怠忽职守），语意不通。",
+      "fudge": "错误。fudge 作及物动词时意为“含糊应付、敷衍搪塞、篡改伪造（问题、事实、边界、数据）”（如 fudge the issue / figures）。它在句法上不能后接动名词子句结构（*fudge relying on），在语意上亦无法传达决策者“审慎放弃使用某项工具”的理性决断，语法与语义均不成立。"
+    },
+    "translation": "面对即将来临的经济衰退，中央银行行长选择放弃依赖非常规量化宽松政策，认为流动性过剩只会扭曲资产估值并加剧长期通胀。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_06",
+    "group_id": 63,
+    "group_name": "eschew, shun, shirk, fudge",
+    "level": "TEM-8",
+    "target_word": "shun",
+    "question": "In his anthropological study of insular sectarian movements, the author observed that orthodox elders invariably compelled adherents to ___ unrepentant apostates, severing all familial, commercial, and social ties to maintain communal purity.",
+    "options": [
+      "eschew",
+      "shun",
+      "shirk",
+      "fudge"
+    ],
+    "answer": "shun",
+    "primary_mechanism": "MECH_SELECTIONAL_RESTRICTION",
+    "field": "FIELD_SOCIOLOGY",
+    "anchor_clue": "compelled adherents to ___ unrepentant apostates, severing all familial, commercial, and social ties",
+    "distractor_analysis": {
+      "shun": "正确。shun 意为“（出于厌恶、警惕、道德谴责或社群戒律而刻意且习惯性地）避开、孤立、排斥（某人或某群体）”。在社会学与宗教学语境中，shun 是指对“变节者/背教者（apostates）”实施宗教绝罚、社会性放逐与断绝往来（即社会学专有名词 shunning）的核心规范用词，与句中“切断所有家庭、商业及社交纽带”形成绝对锁定的语义与动宾搭配。",
+      "eschew": "错误。eschew 意为“（出于道义、哲学、审慎等考量而刻意）戒绝、回避（某种行为、习惯、生活方式或抽象事物）”，如 eschew violence（戒绝暴力）、eschew luxury（摒弃奢华）。根据权威英语用法词典（如 Garner's Modern English Usage），eschew 的支配对象严格受限于抽象行为、状态或风气，绝对不能接指代“人”的名词作直接宾语（*eschew people/apostates），此处存在严重的语义选择限制（selectional restriction）违背。",
+      "shirk": "错误。shirk 意为“逃避、推卸（应当承担的职责、义务或繁重工作）”，如 shirk one's responsibilities / duty。句中宾语为 unrepentant apostates（不悔改的背教者，属具体的人），而非责任或任务，无法构成合法的语义支配关系。",
+      "fudge": "错误。fudge 意为“含糊其辞、搪塞（问题）；篡改、捏造（数据）”，通常支配 an issue, the facts, figures 等抽象名词，根本无法以具体的人作为宾语表示“社会排斥或孤立”，语意完全不通。"
+    },
+    "translation": "在其关于封闭宗派运动的人类学研究中，作者观察到正统长老总是强迫信徒彻底孤立不肯悔改的背教者，切断一切家庭、商业与社交纽带以维持社群的纯洁性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_07",
+    "group_id": 64,
+    "group_name": "evacuate, void, ooze, purge",
+    "level": "TEM-8",
+    "target_word": "evacuate",
+    "question": "In emergency neurosurgery, clinicians must urgently ___ the subdural hematoma to halt soaring intracranial pressure, which would otherwise compress the cerebral cortex and precipitate irreversible cognitive decline.",
+    "options": [
+      "evacuate",
+      "void",
+      "ooze",
+      "purge"
+    ],
+    "answer": "evacuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object 'the subdural hematoma' in the context of surgical decompression ('to halt soaring intracranial pressure'). In clinical neurosurgery, 'evacuate' is the standard, authoritative technical term for surgically draining or aspirating localized fluid or blood accumulations.",
+    "distractor_analysis": {
+      "evacuate": "正确。evacuate 在医学与外科学专业语域中具有高度特异的搭配功能，表示“清除、排空、抽吸（体内病理性积血、脓液或异物）”，evacuate a hematoma（血肿清除术）属于不可替代的标准临床固定搭配，完美契合句中解除颅内压以保护认知功能的语境。",
+      "void": "错误。void 作为排出或排泄动词时，主要指通过机体天然生理反射“排泄（尿液、粪便）”或“排空（膀胱）”（如 void urine/the bladder），绝不能用于外科手术中对深部病理性积血的主动抽吸或切开引流。",
+      "ooze": "错误。ooze 绝大多数情况下为不及物动词，表示液体“渗出、渗漏、缓流”（如 blood oozed from the incision）；即便偶作及物动词，也仅用于文学隐喻修辞（如 ooze charm），无法作为外科干预动词支配 hematoma，且其“缓流”的被动语义与急救减压背道而驰。",
+      "purge": "错误。purge 意为通过药物“导泻、通便”（如 purge the bowels），或在意识形态/精神层面“净化、肃清”。神经外科中清除局部血肿绝不使用 purge，属于严重的专业语域错用与搭配断裂。"
+    },
+    "translation": "在急诊神经外科手术中，临床医生必须紧急清除硬膜下血肿以遏制急剧上升的颅内压，否则高压将压迫大脑皮层并引发不可逆的认知功能衰退。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_08",
+    "group_id": 64,
+    "group_name": "evacuate, void, ooze, purge",
+    "level": "TEM-8",
+    "target_word": "void",
+    "question": "The institutional review board cautioned that unauthorized protocol modifications would immediately ___ the collaborative grant agreement, thereby disqualifying the principal investigators from federal funding and precipitating formal disciplinary proceedings.",
+    "options": [
+      "evacuate",
+      "void",
+      "ooze",
+      "purge"
+    ],
+    "answer": "void",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'the collaborative grant agreement' coupled with the subsequent consequence 'thereby disqualifying the principal investigators... and precipitating formal disciplinary proceedings'. In legal and institutional governance, 'void' is the definitive transitive verb meaning to render a contract or agreement null, inoperative, and devoid of binding legal force.",
+    "distractor_analysis": {
+      "void": "正确。void 在科研合规、行政监管与法律契约语境中是标准及物动词，意为“使……无效、宣告……作废”（to render legally null and void; invalidate）。它与宾语 the collaborative grant agreement 形成严密的地道法律搭配，精准契合后文取消资助资格并引发纪律调查的制度性后果。",
+      "evacuate": "错误。evacuate 的核心义项是“疏散（人员）”、“撤空（物理空间、建筑物）”或医学上的“排空（器官、排泄物）”，其受词必须是具象的物理空间、生理腔体或群体，绝对不能支配 agreement 等抽象法律契约名词。",
+      "ooze": "错误。ooze 意为“（液体）渗出、流出”或比喻义“洋溢（品质、魅力）”，无法与 grant agreement 构成合乎语法与逻辑的动宾搭配，属于根本性语义错配。",
+      "purge": "错误。purge 表示“清除、肃清（不良分子、杂质）”或在信息管理中表示“彻底销毁/删除（档案、系统记录）”。违背科研伦理与实验规范不会导致协议在物理或数据层面被“清洗/清除”，而是使其法律效力“被废止/作废”（void），故 purge 在契约效力语境中不成立。"
+    },
+    "translation": "机构审查委员会警告称，未经授权擅自修改研究方案将立即使该合作资助协议作废，从而取消项目主要负责人的联邦资助资格，并引发正式的纪律处分程序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_09",
+    "group_id": 65,
+    "group_name": "evoke, exude, connote, formulate",
+    "level": "TEM-8",
+    "target_word": "evoke",
+    "question": "Through sparse yet haunting prose, the monograph relies on poignant historical vignettes to ___ visceral memories of displacement that dry demographic statistics and archival ledgers could never adequately resurrect.",
+    "options": [
+      "evoke",
+      "exude",
+      "connote",
+      "formulate"
+    ],
+    "answer": "evoke",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "搭配宾语 'visceral memories of displacement'（关于流离失所的切肤记忆）及后文表意呼应的 'resurrect'（重新唤起/再现），在语义场与动宾搭配上具有排他性指向。",
+    "distractor_analysis": {
+      "evoke": "正确。evoke 源自拉丁语 evocare（唤出、召来），在认知与文学修辞领域专指“（通过艺术、文字、气味等外界刺激）唤起、勾起（记忆、情感或具象画面）”，与 direct object 'visceral memories' 构成学术英语与文学批评中的绝对黄金搭配，且与后文定语从句中的 'resurrect' 形成完美的语篇认知呼应。",
+      "exude": "错误。exude 核心义为“（机体或物体）缓慢渗出、流出”或比喻为“（人或举止）散发出、洋溢着（某种特质、神态或氛围）”，主语通常为散发源，宾语多为 confidence, charm, warmth, authority 等内在品质，不可用于使动意义上去“唤醒”或“向外散发出”他人历史性的情景记忆（memories）。",
+      "connote": "错误。connote 为符号学与语言学专用词，指“（词语、符号）隐含、内涵有（字面意义之外的次生意义或文化意蕴）”，例如 'the word fireplace connotes warmth'。它表示静态的附带含义，无法替代 evoke 所承载的“动态激发/唤起心理认知经验（memories）”的行为。",
+      "formulate": "错误。formulate 强调“系统地构想、规划、阐明或拟定（理论、政策、假说、方案）”，强调严密逻辑建构与概念化产出，绝不能用于表示对既往情感或记忆的“唤起”。"
+    },
+    "translation": "这部专著凭借简练而动人心魄的文笔，依托凄切的历史剪影唤起了人们关于流离失所的切肤记忆，而这些记忆是枯燥的人口统计数据与档案馆账册永远无法真正再现的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_10",
+    "group_id": 65,
+    "group_name": "evoke, exude, connote, formulate",
+    "level": "TEM-8",
+    "target_word": "exude",
+    "question": "Despite enduring hours of relentless scrutiny during the antitrust hearing, the chief executive continued to ___ an unshakeable poise, projecting an aura of effortless command that dispelled speculation about impending corporate restructuring.",
+    "options": [
+      "evoke",
+      "exude",
+      "connote",
+      "formulate"
+    ],
+    "answer": "exude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为人（the chief executive），直接宾语为个人内在风度与气质 'an unshakeable poise'，且后置分词短语 'projecting an aura of effortless command'（向外辐射出从容掌控的气场）明确限定了该动词必须表达由内向外散发特质的动态辐射义。",
+    "distractor_analysis": {
+      "exude": "正确。exude 引申用于高级外貌与行为描写时，专指“（某人）由内而外地自然流露、散发、洋溢出（自信、从容、沉着等特质或气场）”，与 'an unshakeable poise' 构成经典高阶搭配，完美契合后文 'projecting an aura' 的语义同构拓展。",
+      "evoke": "错误。evoke 强调“（事物）引起、唤起（外在客体/观察者的某种反应或记忆）”。若填入 evoke，句意则变成首席执行官在自己身上“召唤出”或“使人联想到”镇定，但句中主干语义并非探讨诱发外界反应，而是描述该个体自身神态的“散发与外显”，与主谓动作属性及分词修饰语冲突。",
+      "connote": "错误。connote 专用于词义学、符号学或抽象行为的暗示（例如 'silence may connote consent'），主语绝不能是一个有意识的人向外散发个人仪态（poise）。",
+      "formulate": "错误。formulate 指“系统地制定、构想（规则、战略、方程式）”，宾语必须是可被理性构筑的方案或言辞体系，与抽象的身体/心理风度状态（poise）产生范畴错配。"
+    },
+    "translation": "尽管在反垄断听证会上经受了数小时毫不留情的盘问，该首席执行官依然展现出无比的沉着自若，向外散发出一种从容掌控全局的气场，从而驱散了有关公司即将重组的种种揣测。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_11",
+    "group_id": 66,
+    "group_name": "exacerbate, clot, reinstate, exasperate",
+    "level": "TEM-8",
+    "target_word": "exacerbate",
+    "question": "The abrupt imposition of punitive trade barriers served only to ___ preexisting structural imbalances in the domestic market, severely undermining foreign direct investment and delaying overall economic recovery.",
+    "options": [
+      "exacerbate",
+      "clot",
+      "reinstate",
+      "exasperate"
+    ],
+    "answer": "exacerbate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in the direct object 'preexisting structural imbalances' coupled with the causal context of worsening macroeconomic conditions. 'Exacerbate' strictly collocates with abstract negative conditions, crises, or flaws (meaning 'to make worse or more severe'). In contrast, 'exasperate' selects human/animate objects (meaning to irritate someone), 'reinstate' requires an object denoting a prior status or rule, and 'clot' cannot govern systemic economic disparities.",
+    "distractor_analysis": {
+      "exacerbate": "正确。及物动词，意为“加剧、使恶化”，为TEM-8核心高频考点词，后接表示问题、危机、矛盾或负面状态的抽象名词（如 imbalance, crisis, tension, plight）。在本句中与“preexisting structural imbalances”（原已存在的结构性失衡）构成无可挑剔的学术搭配。",
+      "clot": "错误。主要用作生理学或物理层面的“凝结、凝固成块”或比喻性的“阻塞”，无法与抽象的宏观经济概念“structural imbalances”（结构性失衡）搭配，语义完全脱节。",
+      "reinstate": "错误。意为“使恢复原状、使复职、恢复（法令或制度）”，其支配对象通常是官员、制度、秩序或权利（如 reinstate a policy/status）。句中失衡状态是“原本就存在的”（preexisting），且加征惩罚性关税并非为了“恢复”失衡，逻辑荒谬。",
+      "exasperate": "错误。意为“激怒、使恼怒”，是历年专八考试中与 exacerbate 极易混淆的典型形近/意近干扰项。但 exasperate 的及物宾语受选择限制约束，必须为“具有情感感知的个体或群体”（如 exasperate voters/citizens），绝对不能以无生命的抽象问题或经济失衡作宾语。"
+    },
+    "translation": "突然加征惩罚性贸易壁垒只会进一步加剧国内市场原已存在的结构性失衡，严重削弱外商直接投资，并拖延整体经济复苏进程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_12",
+    "group_id": 66,
+    "group_name": "exacerbate, clot, reinstate, exasperate",
+    "level": "TEM-8",
+    "target_word": "clot",
+    "question": "Patients administered the novel oral anticoagulant demonstrated an impaired physiological capacity to ___ normally during minor invasive procedures, thereby substantially elevating their susceptibility to prolonged perioperative bleeding.",
+    "options": [
+      "exacerbate",
+      "clot",
+      "reinstate",
+      "exasperate"
+    ],
+    "answer": "clot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the intransitive syntactic frame 'physiological capacity to ___ normally' embedded within the specialized medical context of 'anticoagulant' (抗凝剂) and 'perioperative bleeding' (围手术期出血). 'Clot' is the only verb in the cluster that can function intransitively to signify blood coagulation. The remaining three verbs—'exacerbate', 'exasperate', and 'reinstate'—are strictly transitive and semantically alien to hematological processes.",
+    "distractor_analysis": {
+      "clot": "正确。作不及物动词时意为“（血液）凝结、凝固”。本题置于严谨的生物医学话语体系中，主语为接受口服抗凝剂（anticoagulant）的患者，其生理机制受到抑制导致术中出血增加，“capacity to clot normally”（正常凝血的能力）为标准的生理学固定表达，且完全契合不及物动词加副词修饰的句法结构。",
+      "exacerbate": "错误。为严格的及物动词，必须接表示恶性事态或病情的宾语（如 exacerbate symptoms/bleeding）。在此处作不定式后直接跟副词 normally，缺少必需的及物宾语，构成严重的句法缺失违背；且生理机能不可能表述为“正常恶化”。",
+      "reinstate": "错误。为严格的及物动词，必须接宾语（如 reinstate a privilege/rule），不能作不及物动词使用，且“恢复”与抗凝药物导致的凝血功能减退和术中出血语义无关。",
+      "exasperate": "错误。为及物动词，意为“激怒”，其宾语必须为有感知能力的人，绝不可能在病理生理学语境中作不及物动词修饰患者的生理反应，语法与语义均发生严重断裂。"
+    },
+    "translation": "接受这种新型口服抗凝剂治疗的患者，在轻微微创手术中表现出正常凝血的生理能力受损，从而显著增加了发生长时间围手术期出血的风险。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_13",
+    "group_id": 67,
+    "group_name": "exasperate, irk, madden, enrage",
+    "level": "TEM-8",
+    "target_word": "exasperate",
+    "question": "The protracted bureaucratic deadlock and circular diplomatic exchanges were enough to ___ even the most patient envoys, whose relentless efforts to broker a durable ceasefire had spanned more than two decades.",
+    "options": [
+      "exasperate",
+      "irk",
+      "madden",
+      "enrage"
+    ],
+    "answer": "exasperate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定搭配与语义强锚点：'were enough to ___ even the most patient [noun]'（足以让最具耐心的人也忍无可忍/彻底失去耐心），搭配'protracted bureaucratic deadlock'（旷日持久的官僚僵局）与'circular diplomatic exchanges'（循环往复的无休止外交交涉），精准契合 Webster 对 exasperate 的核心释义——因反复受挫或无休止的拖延而使人的忍耐力耗尽、产生极度挫败与恼怒；其他三词在搭配惯用度或情绪极性上均出现断裂。",
+    "distractor_analysis": {
+      "exasperate": "正确。exasperate 源自拉丁语 exasperare（使粗糙、使恶化），在认知与情绪语域中专指因持续的阻碍、拖延或顽固对抗而使人'耐心耗尽、产生极度烦躁与挫败感'。短语'enough to exasperate even the most patient...'为英语高级政论中的经典高频搭配，与句中'旷日持久的僵局'及'跨越二十余年的停火斡旋'所造成的深层心理耗竭完美契合。",
+      "irk": "错误。irk 侧重指琐碎、繁冗或令人厌倦的小事带来的'轻微烦扰、生厌'（petty annoyance）。面对耗时二十余年、攸关生死的重大会战与外交僵局，使用语义层级极低的 irk 会造成严重的语体与语势失衡；且 irk 无法与'even the most patient...'构成考验耐心极限的惯用搭配。",
+      "madden": "错误。madden 含有使人发狂、发疯或丧失理智（drive to frenzy or delirium）的强烈夸张色彩，多见于文学描写或非正式的狂躁宣泄，用于描述职业外交官面对复杂谈判时的挫败情绪显得语体风格失当、语义过激。",
+      "enrage": "错误。enrage 意为激怒、使暴怒（fill with rage），通常由恶性挑衅、背叛或不公等突发性道德/道义刺激引发，表现为外向宣泄的狂怒，而非长期僵局所致的耐力消磨与无力挫败（loss of patience）。"
+    },
+    "translation": "旷日持久的官僚僵局和循环往复的外交交涉，足以让最具耐心的特使也深感忍无可忍，而他们为促成持久停火所付出的不懈努力已跨越了二十余年。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_14",
+    "group_id": 67,
+    "group_name": "exasperate, irk, madden, enrage",
+    "level": "TEM-8",
+    "target_word": "irk",
+    "question": "Although the minor scheduling conflict was far from a catastrophic disruption, the persistent bureaucratic pettiness behind it served merely to ___ the senior fellow, causing mild distaste rather than profound indignation.",
+    "options": [
+      "exasperate",
+      "irk",
+      "madden",
+      "enrage"
+    ],
+    "answer": "irk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语意强度与下文互文锚点：前置副词'merely'（仅仅、只不过）将动词强度严格限定在低烈度区间，后置分词从句'causing mild distaste rather than profound indignation'（引发轻微反感而非深切愤慨）直接锁定了 Webster 对 irk 的本质界定——'stresses a causing of weariness and distaste through petty annoyances'（因琐碎麻烦而引起厌倦与生厌），彻底排除了三个高烈度情绪动词。",
+    "distractor_analysis": {
+      "irk": "正确。irk 指因琐碎小事、官僚习气或持续的不快所引起的'轻度烦躁、生厌或倦怠'。句中'minor scheduling conflict'（微小的日程冲突）、'bureaucratic pettiness'（官僚琐事）、限定副词'merely'以及明确的语意解构'mild distaste rather than profound indignation'，均严丝合缝地吻合 irk 的低烈度认知情绪特征。",
+      "exasperate": "错误。exasperate 指激起极度烦躁、使人的忍耐力濒临崩溃（extreme irritation），其情绪烈度极高，与句首的'merely'（仅仅）以及句尾强调的'mild distaste'（轻度反感）存在直接的语义强度冲突。",
+      "madden": "错误。madden 意为使发狂、使狂乱，属于情绪失控层级的超高烈度动词，与句中'微不足道的日程冲突'以及'仅仅引起轻微反感'的克制语境严重背道而驰。",
+      "enrage": "错误。enrage 意为使狂怒、极度激怒，其对应的情感正是句尾被明确排斥的'profound indignation'（深切愤慨）；选用 enrage 会导致逻辑自相矛盾（'merely to enrage ... rather than profound indignation' 在逻辑上不通）。"
+    },
+    "translation": "尽管这次微小的日程冲突远算不上灾难性的混乱，但其背后顽固的官僚式琐屑作风仅仅令这位资深研究员略感生厌，引发的也只是轻微的厌烦而非深切的愤慨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_15",
+    "group_id": 68,
+    "group_name": "extort, loot, despoil, recapture",
+    "level": "TEM-8",
+    "target_word": "extort",
+    "question": "Relying on prolonged incommunicado detention and psychological coercion, the state interrogators attempted to ___ sweeping confessions from the political dissident, hoping to legitimize their otherwise groundless judicial proceedings.",
+    "options": [
+      "extort",
+      "loot",
+      "despoil",
+      "recapture"
+    ],
+    "answer": "extort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中受事为抽象法律认罪要素“sweeping confessions”，来源介词为“from the political dissident”，且手段为“psychological coercion”（心理威逼）。动词必须满足“通过暴力、胁迫手段强行索取/榨取（无形事物如供词、妥协）”的配价及语义约束。",
+    "distractor_analysis": {
+      "extort": "正确。extort 在正式及司法语域中专门用于表示“通过恐吓、暴力或滥用权力强行勒索、榨取（钱财、让步、口供等）”，其典型固定搭配为 extort confessions/concessions from sb.，完全契合题干中 interrogators（审讯者）、psychological coercion（心理强迫）与 sweeping confessions（全面供词）构成的完整语义网与句法框架。",
+      "loot": "错误。loot 专指在战争、骚乱或灾难中“洗劫、抢夺（有形财物、文物或商铺、城镇）”，其宾语必须为实体资产或地理场所，无法与抽象维度的供词（confessions）搭配，产生严重的语义范畴越界。",
+      "despoil": "错误。despoil 指掠夺、剥夺或破坏（常伴随财物的洗劫），但其论元结构及搭配框架为 despoil sb./sth. of sth.（如 despoil the country of its resources），不可接“despoil + 供词 + from 某人”，在句法配价与抽象语义层面上均无法成立。",
+      "recapture": "错误。recapture 指“重夺、重新捕获”失去的控制权/领土，或“重现、唤起”过往的情感或氛围（如 recapture the past/glory）。审讯人员初次强索口供绝非“重新夺回”，逻辑逻辑不符且脱离上下文语境。"
+    },
+    "translation": "依靠长期的隔绝审查和心理胁迫，国家审讯人员企图从该政治异见人士口中强行榨取全面的认罪供词，以期让他们本毫无依据的司法程序合法化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_16",
+    "group_id": 68,
+    "group_name": "extort, loot, despoil, recapture",
+    "level": "TEM-8",
+    "target_word": "loot",
+    "question": "Taking advantage of the institutional collapse following the armed uprising, organized syndicates collaborated with rogue militias to ___ priceless Hellenistic artifacts from unguarded subterranean vaults across the war-torn province.",
+    "options": [
+      "extort",
+      "loot",
+      "despoil",
+      "recapture"
+    ],
+    "answer": "loot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中直接宾语为实体走私物“priceless Hellenistic artifacts”（无价的希腊化时期文物），来源状语为“from unguarded subterranean vaults”（无防守的地下库房），动作背景为“institutional collapse following the armed uprising”（武装起义后的体制崩溃）。动词必须具备及物性直接接被劫掠的实物资产，且语义指向战乱动荡中的掠夺与盗掘。",
+    "distractor_analysis": {
+      "loot": "正确。loot 作及物动词时，既可接被洗劫的地点，亦可直接以被劫掠运走的实体财物、文物为宾语（如 loot artifacts/treasures from...），专用于战争、内乱、政权真空等混乱动荡语境下的非法劫掠与走私，严密吻合题干的所有要素。",
+      "extort": "错误。extort 的施动核心在于利用勒索手段迫使“有认知能力的人或实体”交出财物或做出让步（extort sth. from a person），地下库房（vaults）和无守卫的物质遗存无法受到敲诈勒索，违反了动词的施事-受事选择限制（selectional restrictions）。",
+      "despoil": "错误。despoil 强调洗劫使之空无一物或剥夺，其句法支配模式是及物接“被洗劫的地方或被掠夺的人”（如 despoil the vaults of their treasures），不能直接以被盗运的具体文物（artifacts）作为及物动词的直接宾语，存在明显的句法论元倒置错误。",
+      "recapture": "错误。recapture 意为“收复、重新夺回”，预设了主语此前曾合法或实际占有该客体。犯罪辛迪加（organized syndicates）趁乱盗抢古代文物是首次非法侵占，而非从敌方手中“收复失地或重新夺回失物”，违背语义逻辑预设。"
+    },
+    "translation": "利用武装起义后出现的机制瘫痪，有组织的犯罪集团与叛乱民兵勾结，从战乱省份无人看守的地下库房中大肆劫掠无价的希腊化时期文物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_17",
+    "group_id": 69,
+    "group_name": "falcon, snipe, forage, scrounge",
+    "level": "TEM-8",
+    "target_word": "falcon",
+    "question": "In medieval Europe, aristocrats did not merely ___ across the tidal marshes to harvest game birds, but regarded this avian sport as an exacting demonstration of perceptual acuity and cognitive control.",
+    "options": [
+      "falcon",
+      "snipe",
+      "forage",
+      "scrounge"
+    ],
+    "answer": "falcon",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的后指照应短语 'this avian sport'（这项以猛禽狩猎的运动）及 'harvest game birds' 与主语 'aristocrats' 构成排他性语义闭环；在四个选项中，仅有动词 falcon 准确指代'放鹰狩猎'这一特定的贵族体育与认知协同行为。",
+    "distractor_analysis": {
+      "falcon": "正确。falcon 作不及物动词时专指“放鹰狩猎”（hunt with falcons）。后文的“regarded this avian sport as an exacting demonstration of perceptual acuity and cognitive control”（将这项猛禽运动视为对感知敏锐度与认知控制力的严苛展示）直接回指该动作。中世纪贵族训育猛禽捕猎（hawking/falconry）高度依赖人鸟之间的认知沟通与视觉感知，与本题的语域和语法搭配（falcon across...）完全契合。",
+      "snipe": "排除。snipe 作动词表示“伏击狙击”或引申为“放冷箭、恶意抨击”（通常搭配介词 at）。虽然其名词词源与鸟类（沙锥鸟）相关，但动词自身并不指代驱使鸟类捕猎的传统体育活动，绝不能作为“avian sport”（猛禽运动）的先行动作，语义断裂。",
+      "forage": "排除。forage 意为“搜寻粮草、觅食”，主语通常是野兽或生计艰难的底层民众与搜集给养的军队。欧洲贵族阶层（aristocrats）为了消遣与彰显技巧而进行的捕禽活动绝非生计性的“觅食”，且 forage 无法被回指为一项“avian sport”，语域与概念严重错位。",
+      "scrounge": "排除。scrounge 是带有明显非正式及贬义色彩的词汇，意为“四处搜寻、乞讨、揩油以获取零碎物资”。将其用于描述欧洲贵族典雅复杂的训鹰文化产生了极为严重的语域冲突（stylistic clash），且与猛禽狩猎毫无语义关联。"
+    },
+    "translation": "在欧洲中世纪，贵族们在潮汐沼泽间放鹰捕猎以获取飞禽，并不仅仅是为了捕获猎物，而是将这项驱鹰狩猎的运动视为对感知敏锐度与认知控制力的一项严苛展示。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_18",
+    "group_id": 69,
+    "group_name": "falcon, snipe, forage, scrounge",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Instead of engaging in substantive epistemological debate, recalcitrant faculty members chose to ___ at their dean's innovative curricular reforms through anonymous memoranda and petty, dismissive critiques.",
+    "options": [
+      "falcon",
+      "snipe",
+      "forage",
+      "scrounge"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心介词搭配 '___ at' 与后文的补语成分 'through anonymous memoranda and petty, dismissive critiques'（通过匿名备忘录和琐碎刻薄的批评）构成决定性锚点；选项中仅有 snipe 能与 at 构成固定习语 snipe at，表示进行隐蔽放冷箭式的暗中攻击与挑剔批评。",
+    "distractor_analysis": {
+      "snipe": "正确。snipe at 为高阶学术与政论英语中极为经典的隐喻性固定搭配，意为“对……放冷箭、进行暗中刁难或琐屑挑剔的批评”（to aim a carping or malicious attack at）。句首“Instead of engaging in substantive epistemological debate”（不参与实质性的认识论辩论）与后文“petty, dismissive critiques”在修辞色彩上构成了强烈的对立，snipe 在句法模式与负面认知评价语境中完全成立。",
+      "falcon": "排除。falcon 作动词仅有“放鹰狩猎”的具体物理含义，既不接介词 at，也完全不具备任何“发表批评、攻击他人观点”的抽象认知或学术修辞引申义，句法与语义均不成立。",
+      "forage": "排除。forage 意为“搜寻、觅食”，通常接介词 for（如 forage for evidence）或作及物动词（forage the archives）。forage at 属于严重的形式语法错误，且其词义属于中性或探索性的搜寻，与“匿名攻击与琐屑批评”的反动立场毫不相干。",
+      "scrounge": "排除。scrounge 意为“搜罗、讨要、乞求”（如 scrounge funds/supplies），后接直接宾语或介词 for/from，不能与 at 搭配构成“scrounge at”。此外其涉及的是物资层面的乞讨与揩油，完全无法融入高等院校学术争端（epistemological debate）的正式语境。"
+    },
+    "translation": "那些固步自封的教职员工并没有参与实质性的认识论辩论，而是选择通过匿名备忘录和琐碎苛刻的批评，对其院长具有创新意义的课程改革放冷箭、百般挑剔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_19",
+    "group_id": 70,
+    "group_name": "falsify, warp, sham, feign",
+    "level": "TEM-8",
+    "target_word": "falsify",
+    "question": "Independent investigators revealed that the senior biochemist had systematically attempted to ___ the trial records and experimental results, compromising the drug's safety profile before its submission to the federal regulatory agency.",
+    "options": [
+      "falsify",
+      "warp",
+      "sham",
+      "feign"
+    ],
+    "answer": "falsify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct collocation with documentary and empirical entities 'the trial records and experimental results' in a regulatory fraud context.",
+    "distractor_analysis": {
+      "falsify": "正确。falsify在此表示“篡改，伪造（数据、文件、记录）”，与句中的直接宾语“the trial records and experimental results”（试验记录与实验结果）构成专业语域下的标准学术与法律搭配，准确传达了学术造假与欺瞒监管机构的语境。",
+      "warp": "错误。warp作引申义时表示“扭曲，使偏离正常（思维、判断、事实）”，其支配对象多为抽象的认知或观念类名词（如 perception, judgment, mind），不能与具体的实验数据或文件记录搭配（不可说 warp trial records）。",
+      "sham": "错误。sham作动词时主要用作不及物动词表示“装模作样”，偶作及物动词时意为“假装（某种病症或死状）”，完全无法及物支配“实验记录与结果”，且语体偏非正式，与学术调查语境严重不符。",
+      "feign": "错误。feign意为“假装，佯装”，其后接的宾语通常是主观情感、态度、状态或意图（如 feign ignorance, feign illness, feign surprise），不能表示对客观物理文件或科学数据的“篡改”。"
+    },
+    "translation": "独立调查人员披露，这位资深生物化学家曾蓄意系统性地篡改临床试验记录与实验结果，在向联邦监管机构提交申报前便已严重危及该药物的安全评估。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b06_20",
+    "group_id": 70,
+    "group_name": "falsify, warp, sham, feign",
+    "level": "TEM-8",
+    "target_word": "warp",
+    "question": "Algorithmic curation on social media tends to ___ users' perception of socio-political reality, subtly bending cognitive frameworks and fostering deep ideological polarization across increasingly fragmented democratic societies.",
+    "options": [
+      "falsify",
+      "warp",
+      "sham",
+      "feign"
+    ],
+    "answer": "warp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Metaphorical cognitive distortion collocating with 'users' perception of... reality', reinforced by the parallel participle clause 'subtly bending cognitive frameworks'.",
+    "distractor_analysis": {
+      "warp": "正确。warp在此用于认知隐喻层面，意为“扭曲，使变质，使产生偏差”，与宾语“users' perception of socio-political reality”（用户对社会政治现实的认知）高度契合，并与后文伴随状语中“bending cognitive frameworks”（使认知架构弯曲/变形）形成严密的语义呼应与修辞延展。",
+      "falsify": "错误。falsify意为“篡改，伪造（数据、账目）”或“证明……为伪（哲学/科学实证意义）”，宾语必须是可验证真伪的陈述、命题、记录或假设，不可支配主观的心理认知机能（不能说 falsify one's perception）。",
+      "sham": "错误。sham表示虚构或假装，作动词时无法支配“人的感知”，且主语是抽象技术机制“Algorithmic curation”，逻辑主谓与动宾搭配均不成立。",
+      "feign": "错误。feign意为“佯装，假托”，要求主语具有主观意图且宾语通常为某种被假装出的情绪或状态（如 feign interest），既不能以算法策展为主语，也不能将“认知”作为被假装的对象。"
+    },
+    "translation": "社交媒体上的算法推荐往往会扭曲用户对社会政治现实的认知，在潜移默化中使认知架构发生偏离，并在日益分化的民主社会中加剧深层的意识形态对立。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

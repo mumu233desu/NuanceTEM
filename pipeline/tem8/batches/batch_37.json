@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b37_01",
+    "group_id": 371,
+    "group_name": "heady, prudent, judicious, wise",
+    "level": "TEM-8",
+    "target_word": "heady",
+    "question": "During the ___ days of early financial deregulation, speculative traders aggressively pursued double-digit yields, willfully disregarding the structural vulnerabilities that would ultimately trigger a catastrophic market contraction.",
+    "options": [
+      "heady",
+      "prudent",
+      "judicious",
+      "wise"
+    ],
+    "answer": "heady",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "“the ___ days of...”是英语中极为经典的高频固定搭配（the heady days of...），意为“狂热兴奋、令人陶醉的岁月”，专指伴随某种繁荣或变革而产生盲目亢奋、利令智昏的特定时期；后文“speculative traders aggressively pursued... willfully disregarding...”明确描绘了非理性冒进的狂热行为，与其余三项所代表的“谨慎/审慎/明智”构成断裂与逻辑冲突。",
+    "distractor_analysis": {
+      "heady": "正确。heady在此处取“令人兴奋陶醉但易致人轻率狂热的（exhilarating/intoxicating）”之义，与days构成强搭配“the heady days of...”（充满狂热激情的全盛时期），完美契合后文交易员利令智昏、忽视潜在风险的行为特征。",
+      "prudent": "错误。prudent强调“谨慎小心的、未雨绸缪的”，主要修饰人、具体决策或风险控制行为；修饰“days”构成生造的严重搭配断裂（*prudent days），且与句中无视结构性风险的狂热投机行径形成根本性的逻辑反向冲突。",
+      "judicious": "错误。judicious强调“明智审慎的、有良好鉴别判断力的”，侧重于权衡利弊后的精准决策。它无法与表示时间维度的“days”形成常规修辞搭配（*judicious days），亦与后文缺乏理智判断的冒险举动背道而驰。",
+      "wise": "错误。wise指拥有深厚见识、洞察力或人生经验的“聪慧、博智”，主要修饰主体（人）或其思想与建言，不能用来修饰历史时期（*wise days属范畴错配），其理性的褒义色彩也与句中狂热盲动的负面语境格格不入。"
+    },
+    "translation": "在金融放松管制的狂热初期，投机交易员们激进地追逐两位数的收益率，肆意忽视最终将引发灾难性市场萎缩的结构性脆弱点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_02",
+    "group_id": 371,
+    "group_name": "heady, prudent, judicious, wise",
+    "level": "TEM-8",
+    "target_word": "prudent",
+    "question": "Under the fiduciary constraints of the ___ investor rule, fund trustees were legally obliged to avoid speculative high-yield ventures, prioritizing portfolio diversification and the long-term preservation of capital for their beneficiaries.",
+    "options": [
+      "heady",
+      "prudent",
+      "judicious",
+      "wise"
+    ],
+    "answer": "prudent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "“the ___ investor rule”属于信托法、金融监管和公司治理中不可替代的法定专用术语（The Prudent Investor Rule，即“谨慎投资人规则”），强制要求受托人恪守审慎避险原则。该术语具有绝对的排他性，替换为其他任何近义词均会导致严重的制度性搭配断裂（collocational rupture）。",
+    "distractor_analysis": {
+      "prudent": "正确。“prudent investor rule”（谨慎投资人规则）是英美信托法与现代资产管理中的核心法定专业术语（term of art），专指受托人在管理资产时必须以谨慎、分散风险、保全本金为底线的法定义务，与句中“fiduciary constraints”及“preservation of capital”形成严丝合缝的语境互锁。",
+      "heady": "错误。heady意为“令人陶醉的；轻率急躁的”，其语义与受托人恪守谨慎、稳健避险的法定职责完全相悖，且“*heady investor rule”在法律金融文献中纯属荒谬搭配。",
+      "judicious": "错误。尽管judicious同样含有“明智审慎”的含义，但它是普通认知评价词汇，并未进入法定术语体系；替换后构成的“*judicious investor rule”属于严重的术语性搭配破裂。",
+      "wise": "错误。wise多指向哲学层次的智慧或长者经验，不具备正式制度规范和法律信托中的技术性、制度化内涵，“*wise investor rule”在规范学术与法律语料中完全不存在。"
+    },
+    "translation": "在“谨慎投资人规则”的信托约束下，基金受托人依法必须规避高风险的投机性业务，优先为受益人进行投资组合分散并实现资本的长期保全。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_03",
+    "group_id": 372,
+    "group_name": "heretical, heterodox, unorthodox, dissident",
+    "level": "TEM-8",
+    "target_word": "heretical",
+    "question": "Because his controversial treatise openly repudiated the foundational dogma of the Trinity, the theologian was convicted of promoting ___ doctrines, an ecclesiastical offense that incurred immediate anathema and perpetual excommunication.",
+    "options": [
+      "heretical",
+      "heterodox",
+      "unorthodox",
+      "dissident"
+    ],
+    "answer": "heretical",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive syntactic and semantic anchor lies in 'foundational dogma', 'ecclesiastical offense', and the severe canonical penalties 'anathema and perpetual excommunication'. Under church jurisprudence, an offense incurring anathema and excommunication specifically constitutes heresy, making 'heretical doctrines' the only authentic and legally precise collocation.",
+    "distractor_analysis": {
+      "heretical": "正确。heretical源于宗教神学概念，指公然背离正统信仰或基本信条、招致教会严厉谴责与绝罚的“异端的，大逆不道的”。句中与dogma（教条）、ecclesiastical offense（教会罪行）、anathema（逐出教会令）及excommunication（绝罚/开除教籍）构成不可分割的神学与法权搭配，“heretical doctrines”（异端教义）在此语境下具有决定性的排他性。",
+      "heterodox": "错误。heterodox意为“非正统的、异端的”，但在学术和思想史语境中多指与主流观点相左的学说或思潮，词义偏向描述性与客观性，缺乏heretical所蕴含的宗教法庭定罪、犯下大罪并招致“绝罚（excommunication）”的强烈宗教惩戒色彩与法定罪名内涵。",
+      "unorthodox": "错误。unorthodox侧重指“非传统的、不合常规的”，多用于形容世俗行为、常规方法或工作手段（如unorthodox approach），语域偏向日常与通用文体，语意极轻，根本无法用于招致宗教绝罚的严重神学罪行语境。",
+      "dissident": "错误。dissident主要作为政治术语，指对政权、执政体制持公开反对意见的“持不同政见者”或“异议的”，修饰对象多为人、派系或政治行动（如dissident factions），与doctrines搭配修饰神学教理属于明显的范畴错配与搭配断裂。"
+    },
+    "translation": "由于其饱受争议的专题论著公然否定了三位一体的核心教义，这位神学家被判定犯有宣扬异端教义的教会罪行，招致了即刻被逐出教会并处以永久绝罚的严惩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_04",
+    "group_id": 372,
+    "group_name": "heretical, heterodox, unorthodox, dissident",
+    "level": "TEM-8",
+    "target_word": "heterodox",
+    "question": "While the central bank remained firmly anchored in orthodox monetary theory, several academic researchers explored ___ economic frameworks to better capture the persistent stagnation and systemic volatility wrought by unfettered capital markets.",
+    "options": [
+      "heretical",
+      "heterodox",
+      "unorthodox",
+      "dissident"
+    ],
+    "answer": "heterodox",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue is the explicit theoretical binary set up by the concessive clause: 'orthodox monetary theory' directly demands its recognized scholarly counterpart 'heterodox economic frameworks'. In academic taxonomy, 'heterodox economics' is the standardized term of art designating schools of thought outside the neoclassical mainstream.",
+    "distractor_analysis": {
+      "heterodox": "正确。heterodox意为“非正统的、非主流学说的”。在经济学及社会科学学术体系中，“heterodox economics / economic frameworks”（非正统/非主流经济学框架，如后凯恩斯主义、制度主义等）是专门的学术分类术语，与句首从句中的“orthodox monetary theory”（正统货币理论）形成词源学及学术学科分类上的严格对称互补。",
+      "heretical": "错误。heretical带有强烈的宗教神学定罪与大逆不道意味。若用于修饰学术界探索的不同流派的经济学分析框架，属于感彩极度过激、语体风格与学术客观论述格格不入的误用。",
+      "unorthodox": "错误。unorthodox虽可表示“非常规的”，但它属于普通描述性词汇，常指某个具体的非典型策略或特立独行的方法（如unorthodox methods），不能作为与orthodox economics相对立的成熟、成体系的学术流派专有名词。",
+      "dissident": "错误。dissident专指政治对抗、反抗威权政权的“异见”属性（如dissident movements），用来修饰宏观经济分析框架（economic frameworks）属于严重的范畴谬误与搭配不当。"
+    },
+    "translation": "尽管中央银行仍然坚定立足于正统货币理论，但数位学术研究人员探索了非正统经济学分析框架，以更好地把握无约束资本市场所带来的长期停滞与系统性波动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_05",
+    "group_id": 373,
+    "group_name": "horrid, horrific, offensive, hideous",
+    "level": "TEM-8",
+    "target_word": "horrid",
+    "question": "In his authoritative study of Miltonic verse, the literary scholar demonstrated that the depiction of a ___ precipice was designed to revive the Latinate sense of bristling roughness, rather than merely evoke conventional psychological abhorrence.",
+    "options": [
+      "horrid",
+      "horrific",
+      "offensive",
+      "hideous"
+    ],
+    "answer": "horrid",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "句中关键排他锚点为“designed to revive the Latinate sense of bristling roughness, rather than merely evoke conventional psychological abhorrence”（旨在复活其源自拉丁语‘粗糙竖立、嶙峋’之本义，而非仅仅唤起常规的心理厌恶）。根据《韦氏词典》（Merriam-Webster），horrid 的首要词义即为“archaic: BRISTLING, ROUGH, RUGGED”，直接承袭自拉丁语 horridus（源自 horrēre，意为毛发竖立、战栗、粗糙）。在十七至十八世纪文学经典及批评史中，弥尔顿等人常借 horrid 形容多刺树丛或险峻岩壁。其余三个选项均无指称“粗糙竖立”的拉丁词源及本义，代入后均产生严重的语义与词源学冲突。",
+    "distractor_analysis": {
+      "horrid": "正确。此处表示“嶙峋粗糙的、毛糙耸立的”。horrid 在古典学术与文学批评语境中保存了其直接源自拉丁语 horridus（词根 horrēre，指毛发直立、粗糙嶙峋）的高雅本义（Merriam-Webster: archaic: bristling, rough, rugged）。弥尔顿在《失乐园》等作品中频繁利用这一拉丁词源描绘险峰与地狱地貌，与句中“revive the Latinate sense of bristling roughness”构成无可替代的绝对语义锚定。",
+      "horrific": "错误。horrific 指“引起剧烈恐怖或惨烈震撼的”（causing horror or shock），源自拉丁语 horrificus（horror + facere，即造成恐慌）。该词在现代与历史用法中均聚焦于重大创伤、伤亡惨剧或毁灭性后果（如 horrific injuries, horrific tragedy），词义核心在于惨烈破坏引发的心理震骇，从未具备“bristling roughness”（粗糙嶙峋）的物态质感释义。",
+      "offensive": "错误。offensive 源自拉丁语 offendere（击打、冒犯），指言行令人不快、产生冒犯或具有攻击性（giving displeasure, insulting, or aggressive）。该词属于人际交往、社会伦理或军事攻防范畴，与描述自然地貌物理特征的“粗糙嶙峋”毫无关联，代入语境导致语义严重脱节。",
+      "hideous": "错误。hideous 意为“极其丑陋的、骇人听闻的或道德上令人作呕的”（offensive to the senses, morally shocking）。该词在词源上派生自古法语 hideus（可怕的），在英语中主要指感官外貌上的狰狞丑恶或伦理层面的极恶（如 hideous monster, hideous crime），既非源于表意“粗糙直立”的拉丁词根，亦无“bristling roughness”这一物性义项，与后文的词源定语相抵触。"
+    },
+    "translation": "在对弥尔顿诗歌风格的权威研究中，这位文学学者论证道，将险峻的悬崖描绘为“horrid（嶙峋粗糙的）”，旨在复活其源自拉丁语的“粗糙竖立”之本义，而非仅仅唤起常规的心理厌恶。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_06",
+    "group_id": 373,
+    "group_name": "horrid, horrific, offensive, hideous",
+    "level": "TEM-8",
+    "target_word": "horrific",
+    "question": "Cognitive neuroscientists demonstrated that exposing subjects to ___ narratives of catastrophic trauma triggered acute amygdala hyperactivation, whereas merely unpleasant or repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste.",
+    "options": [
+      "horrid",
+      "horrific",
+      "offensive",
+      "hideous"
+    ],
+    "answer": "horrific",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点由‘神经认知机能对应’与‘转折从句的语义排他’双重构成：1）机能对应：‘acute amygdala hyperactivation’（杏仁核急性过度激活）在认知神经学中是处理极端恐惧、惊骇与创伤性震慑（horror/terror）的特异性生理表征，严格锁定 horrific（引起极大惊恐与创伤的）；2）转折逻辑排他：后半句‘whereas merely unpleasant or repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste’（而单纯令人不悦或令人反感的刺激则激活调控审美厌恶的前额叶网络）在逻辑上将‘不悦感’（unpleasant）与‘反感/审美厌恶’（repulsive/distaste）划归为对照范畴。horrid（极度不悦的）、offensive（令人不快的）与 hideous（丑陋反感的）在语义上均被该对照组正面封死，填入会导致前后逻辑悖论；唯有 horrific 能在惊骇创伤（horror）维度上与审美反感形成严密的机制对比。",
+    "distractor_analysis": {
+      "horrid": "错误。根据韦氏词典，horrid 在现代英语中主要指‘offensively or disgustingly unpleasant; disagreeable’（令人极度不快的、讨厌的），其内涵完全落入后半句转折对照组‘merely unpleasant’中；若填入会导致分句间的转折对照逻辑断裂。同时，horrid 常见于日常主观抱怨，在严肃的认知神经科学语境中存在严重的语体冲突（register clash）。",
+      "horrific": "正确。horrific 意为‘having the power or tendency to cause horror; terrifying’（引发极端惊骇的、产生巨大创伤性震慑的）。在此句中，它一方面精确对应杏仁核过度激活（amygdala hyperactivation）这一处理创伤惊恐的神经回路，另一方面与后文前额叶处理的单纯感官反感（aesthetic distaste）形成严密的认知机制对立。",
+      "offensive": "错误。offensive 侧重于‘giving displeasure or causing resentment’（造成冒犯的、令人不愉快的），同样属于后文‘merely unpleasant’所排除的范畴。冒犯性或社交抵触诱发的是社会道德层面的反感，不能作为创伤叙事中激发杏仁核强烈应激反应的生理诱因，语意不合。",
+      "hideous": "错误。hideous 的核心词义严格聚焦于‘repulsive, ugly, or distressing quality that deeply offends the senses or aesthetic sensibilities’（感官上丑陋扭曲的、在审美上令人反感的）。后半句‘whereas... repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste’已明确将‘repulsive’与‘aesthetic distaste’作为对照组，若在前半句填入 hideous，前后两分句将出现直接的语义重叠与逻辑自相矛盾。"
+    },
+    "translation": "认知神经科学家指出，让受试者接触引发极端惊骇的灾难性创伤叙事会触发杏仁核的急性过度激活，而单纯令人不悦或感官反感的刺激则会激活调控审美厌恶的前额叶脑区网络。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_07",
+    "group_id": 374,
+    "group_name": "incoherent, fuzzy, disjointed, illogical",
+    "level": "TEM-8",
+    "target_word": "incoherent",
+    "question": "Rendered profoundly ___ by the sudden psychological trauma, the patient could produce only disconnected mutterings and scrambled phonemes, utterly failing to establish syntactic order or convey any intelligible meaning.",
+    "options": [
+      "incoherent",
+      "fuzzy",
+      "disjointed",
+      "illogical"
+    ],
+    "answer": "incoherent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation 'rendered profoundly incoherent by...' alongside the subsequent descriptor 'produce only disconnected mutterings and scrambled phonemes, utterly failing to establish syntactic order or convey any intelligible meaning', which specifically defines human speech/cognitive breakdown into an unintelligible state.",
+    "distractor_analysis": {
+      "incoherent": "正确。incoherent在此处作表语形容词，意为“（因情绪激动、神志不清等）语无伦次的，口齿不清且无法理解的”，与副词profoundly以及后文因创伤导致语音破碎（disconnected mutterings and scrambled phonemes）、完全丧失句法秩序和可理解意义的语境构成无可挑剔的学术与临床搭配。",
+      "fuzzy": "错误。fuzzy主要指轮廓模糊、记忆或概念界限不分明（如fuzzy boundaries/logic），不能用于修饰人在心理创伤后语无伦次、无法清晰发音发声的状态，存在严重的语义场与搭配错位。",
+      "disjointed": "错误。disjointed意为“支离破碎的、脱节的”，通常用于修饰文本、叙事或论述的结构（如a disjointed narrative/account），表明各部分之间缺乏顺畅的衔接；它极少直接用来形容人本身被创伤击垮而陷入语无伦次的状态（不可说the patient was rendered disjointed）。",
+      "illogical": "错误。illogical指“不合逻辑的、推理荒谬的”，强调命题推导违背逻辑规则；而后文描述的是语音断裂、无法组织成基本句法结构的生理/认知失语状态，并非推理过程存在逻辑谬误，属于范畴错误（category mistake）。"
+    },
+    "translation": "由于遭受突如其来的心理创伤，该患者变得极度语无伦次，只能发出断断续续的喃喃自语和混乱的音素，完全无法构建句法秩序或传达任何可被理解的意义。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_08",
+    "group_id": 374,
+    "group_name": "incoherent, fuzzy, disjointed, illogical",
+    "level": "TEM-8",
+    "target_word": "fuzzy",
+    "question": "Cognitive psychologists have long observed that human conceptual categories possess inherently ___ boundaries, meaning that everyday phenomena blend continuously into neighboring domains rather than adhering to rigid, binary classifications.",
+    "options": [
+      "incoherent",
+      "fuzzy",
+      "disjointed",
+      "illogical"
+    ],
+    "answer": "fuzzy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed academic collocation 'fuzzy boundaries' contrasted with 'rigid, binary classifications', explicitly explained by 'blend continuously into neighboring domains'.",
+    "distractor_analysis": {
+      "fuzzy": "正确。fuzzy与boundaries是认知心理学、语言学与模糊集合理论（Fuzzy Set Theory）中的经典专有学术搭配，指事物概念范畴之间“模糊的、非离散的、呈渐变过渡的”界限，完美对应后文“blend continuously... rather than adhering to rigid, binary classifications”。",
+      "incoherent": "错误。incoherent指“毫无内在凝聚力的、混乱无序的、语无伦次的”，不能用来修饰界限（boundaries）的渐变性与非二元对立特征，搭配不当且语意不通。",
+      "disjointed": "错误。disjointed表示“脱节的、断开的、不连贯的”，若修饰边界则暗示边界被截断成离散的碎片，这与句中明确指出的范畴在连续体中“平滑渐变、相互融合”（blend continuously）的语义完全相反。",
+      "illogical": "错误。illogical强调“违背严密逻辑推理的”。概念边界的渐变性是一种客观的认知分类机制，属于经验现象而非逻辑演绎错误，不可用“不合逻辑的”来形容范畴边界。"
+    },
+    "translation": "认知心理学家早就注意到，人类的概念范畴本质上具有模糊的界限，这意味着日常现象是连续不断地融入邻近领域的，而非遵循僵化非黑即白的二元分类。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_09",
+    "group_id": 375,
+    "group_name": "mundane, temporal, terrestrial, secular",
+    "level": "TEM-8",
+    "target_word": "mundane",
+    "question": "Cognitive psychologists observe that while human consciousness is capable of sublime artistic and mathematical abstraction, daily mental bandwidth is predominantly consumed by the ___ concerns of domestic scheduling and meal preparation.",
+    "options": [
+      "mundane",
+      "temporal",
+      "terrestrial",
+      "secular"
+    ],
+    "answer": "mundane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中通过 'sublime artistic and mathematical abstraction'（崇高的艺术与数学抽象）与后半句的 'domestic scheduling and meal preparation'（家务日程与备餐）构成鲜明对照。在认知心理与学术英语搭配中，'mundane concerns' 为极高频的经典固定搭配，专指日常琐碎、平淡乏味、事务性的世俗关注点，完美契合语境。",
+    "distractor_analysis": {
+      "mundane": "正确。mundane 着重指现实生活中的“平凡的、琐碎的、日常繁杂的”（practical, routine, or banal），常与 concerns, chores, tasks 搭配，与前半句的抽象高远思维形成精准对立。",
+      "temporal": "错误。temporal 强调“时间维度的、现世易逝的”，主要在神学或哲学中与“永恒的（eternal）”或“精神领域的（spiritual）”相对立，无法修饰家常备餐与日程安排这类琐细家务（不与 domestic concerns 搭配表示琐碎日常）。",
+      "terrestrial": "错误。terrestrial 意为“地球的、陆栖的”，在天文学或生物学中与 celestial（天体的）或 extraterrestrial（外星的）相对，用于指代家务琐事属于严重的语域错配与语义荒谬。",
+      "secular": "错误。secular 意为“世俗的、非宗教的”，专门与宗教神职（religious / clerical / ecclesiastical）相对（如 secular education, secular state），家务琐事并非宗教的反义范畴，在此搭配失当。"
+    },
+    "translation": "认知心理学家指出，尽管人类意识能够进行高超的艺术与数学抽象，但日常的心智带宽在很大程度上都被日程安排与备餐等琐碎日常事务所占据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_10",
+    "group_id": 375,
+    "group_name": "mundane, temporal, terrestrial, secular",
+    "level": "TEM-8",
+    "target_word": "temporal",
+    "question": "In phenomenological philosophy, the author asserts that human consciousness remains inexorably bound to the ___ realm, where lived experience is governed by transience and succession rather than timeless, immutable permanence.",
+    "options": [
+      "mundane",
+      "temporal",
+      "terrestrial",
+      "secular"
+    ],
+    "answer": "temporal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于定语从句中的核心语义限定：'governed by transience and succession rather than timeless, immutable permanence'（由短暂易逝与时间相继所决定，而非永恒不变的持存）。在同组近义词中，只有 temporal 兼具“尘世现世的”与“受时间流逝所约束的”核心语义特征，且 'temporal realm'（时间界/现世领域）是现象学与形而上学中指代受时间支配之有限存在的专业术语。",
+    "distractor_analysis": {
+      "temporal": "正确。temporal 源于拉丁语 tempus（时间），指“时间的、现世的”，在哲学与认知领域中专门与“永恒（timeless/eternal）”相对，精确呼应后文的 transience（短暂）与 succession（时间相继性）。",
+      "mundane": "错误。mundane 侧重于强调“平淡无奇的、日常繁琐的”，侧重点在于琐碎与非崇高，不具备“时间维度”或“易逝相继”这一形而上学内涵，不能与 timelessness 构成哲学上的本体论对立。",
+      "terrestrial": "错误。terrestrial 侧重于物理空间上的“地球的、大地上的”，与 celestial（天国的、天体的）相对，无法承载意识体验中“时间相继与流逝”的核心属性。",
+      "secular": "错误。secular 侧重于制度与观念上的“非宗教性、政教分离的”（worldly as opposed to sacred），不包含“受时间约束、暂存易逝”的语义，与后文的 transience 及 succession 产生逻辑断裂。"
+    },
+    "translation": "在现象学哲学中，作者断言人类意识无可避免地受限于时间界（现世领域），在这里，个体的切身体验是由短暂易逝与时间相继所决定的，而非由永恒不变的持存所界定。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_11",
+    "group_id": 376,
+    "group_name": "vagabond, vagrant, unsettled, aimless",
+    "level": "TEM-8",
+    "target_word": "vagabond",
+    "question": "Long before securing royal patronage at Versailles, Molière spent over a decade guiding his ___ troupe across provincial France, embracing both the precarious liberties and the professional hardships of a nomadic theatrical career.",
+    "options": [
+      "vagabond",
+      "vagrant",
+      "unsettled",
+      "aimless"
+    ],
+    "answer": "vagabond",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "句中“guiding his ___ troupe across provincial France... nomadic theatrical career”构成了决定性的语域与历史文化搭配锚点。空格前为物主代词“his”，彻底消除了原题中不定冠词 a/an 对元音开头选项（unsettled, aimless）的形态句法排他漏洞。在英语文学与戏剧史中，“vagabond troupe / vagabond players”（源自法语 troupe vagabonde）是用于指代巡回各地、无固定剧场之“流浪剧团/巡回艺人”的经典固着搭配（牛津词典与韦氏词典均收录此专指义）。相比之下，vagrant 专指缺乏生计来源的流民乞丐或漂移无常的事物，与具有明确职业演出目标的戏剧组织存在严重搭配断裂与逻辑冲突。",
+    "distractor_analysis": {
+      "vagabond": "正确。vagabond 作形容词时核心义为“四处漫游的、流浪的、无固定住所的”（moving from place to place without a fixed home: wandering, nomadic），且尤指艺术家、演员或波西米亚式浪游者的生活形态（如牛津词典收录的 a vagabond troop of players）。在此处修饰 troupe，构成戏剧史上指代莫里哀早期巡演团体的专有修辞与固定搭配 vagabond troupe（流浪剧团），与后文“穿梭于法国外省、游牧式戏剧生涯的艰辛与自由”完美契合。",
+      "vagrant": "错误。vagrant 主要用于法律与社会学语境，强调“无合法生计、无依无靠、流离失所甚至违法的流民状态”（without visible means of support），或在修辞上形容偶发、游离、不规则漂移的事物（如 vagrant thoughts, a vagrant breeze）。莫里哀的剧团是一个靠售票和演出来维持生计的成熟职业演艺集体，绝非由无业游民构成的流民群体；用 vagrant troupe 修饰巡回职业剧团属于严重的搭配不当与语义失范。",
+      "unsettled": "错误。unsettled 意为“心绪不宁的、动荡不安的”（not calm: agitated）或“悬而未决的”（not resolved）。若置于此处修饰 troupe，只能表达剧团内部处于动荡、人心惶惶或人员编制尚未确定的状态，完全丧失了“四处巡回、流浪演出”的漫游性空间意象，与 nomadic theatrical career 的上下文逻辑完全脱节。",
+      "aimless": "错误。aimless 意为“漫无目的的、缺乏方向的”（lacking purpose or direction）。文中的剧团具有高度组织性、明确的巡演路线、商业演出目的与艺术追求，绝非无头苍蝇般的“盲目乱逛”；选用 aimless 会直接同后文“职业演出生涯”（professional hardships of a... theatrical career）构成语义上的自我矛盾。"
+    },
+    "translation": "早在凡尔赛宫获得王室赞助之前，莫里哀曾花了十多年时间带领他那支流浪剧团穿梭于法国外省，既拥抱游牧式戏剧生涯那朝不保夕的自由，也承受其职业上的艰辛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_12",
+    "group_id": 376,
+    "group_name": "vagabond, vagrant, unsettled, aimless",
+    "level": "TEM-8",
+    "target_word": "vagrant",
+    "question": "In avian biogeography, researchers strictly distinguish between resident species and ___ birds that, having been carried thousands of kilometers off course by severe cyclonic storms, appear anomalously outside their established geographical ranges.",
+    "options": [
+      "vagabond",
+      "vagrant",
+      "unsettled",
+      "aimless"
+    ],
+    "answer": "vagrant",
+    "primary_mechanism": "MECH_TECHNICAL_COLLOCATION",
+    "field": "FIELD_NATURAL_SCIENCE",
+    "anchor_clue": "句首的学科语域“In avian biogeography”（在鸟类生物地理学中）与对比基准“resident species”（留居物种），以及从句中“carried thousands of kilometers off course by severe cyclonic storms, appear anomalously outside their established geographical ranges”（因强气旋风暴偏离路线数千公里，反常地出现在既定地理分布范围之外），构成了不可替代的专业学术锚点。在生态学与鸟类学中，专指因极端气候偏离其已知栖息地与迁徙通道而偶然出现的“迷鸟”，有且仅有“vagrant bird”这一权威术语（韦氏词典专门义项：of an animal or plant: wandering or occurring far outside the normal geographic range or habitat <a vagrant bird recorded in Alaska>）。",
+    "distractor_analysis": {
+      "vagrant": "正确。在生物地理学与鸟类学的学术语域中，vagrant 具有不可替代的专门科学定义，专指偏离正常栖息地或迁徙路线而在远方异常出现的动植物个体（即“迷鸟/迷走个体”；MW: wandering or occurring far outside the normal geographic range or habitat <a vagrant bird>）。句中与“resident species”（留居物种）的学术对立以及后文对风暴造成地理位移的精确阐述，构成了排他性的严密论证闭环。",
+      "vagabond": "错误。vagabond 侧重指居无定所、游手好闲的生活方式（leading an unsettled or irresponsible life），在修辞上仅用于文学化地描绘人的流浪行踪或波希米亚式的游历作风，在自然科学分类体系与生物地理学中根本不具备指代“迷鸟”的术语功能，置于严谨的科研语境中存在严重的语域错配（register clash）。",
+      "unsettled": "错误。unsettled 意为“未定局的、动荡不宁的”或“未定居的”；在动物行为学中即便用于修饰鸟类，也仅描述个体“未筑巢定居或处于躁动状态”的生活习性，无法表达因外力吹袭而出现在分布区外的“迷鸟”这一生物地理学分类概念，与 resident species 无法形成合乎科学规范的二元分类对立。",
+      "aimless": "错误。aimless 意为“漫无目的的、无目标的”（without a goal or purpose），通常用于修饰具有主观意志或行为意图的人类活动（如 aimless wanderer）。风暴造成的被动超远距离地理位移属于外在物理强加，生物学分类学绝不会以此评判鸟类是否“失去目的”；aimless birds 完全不属于生态学学术语汇，属于严重的语义与语域错位。"
+    },
+    "translation": "在鸟类生物地理学中，研究人员严格区分留居物种与迷鸟——后者因遭遇强烈的气旋风暴而被带离正常路线数千公里，反常地出现在其既定地理分布范围之外。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_13",
+    "group_id": 377,
+    "group_name": "affable, genial, amiable, cordial",
+    "level": "TEM-8",
+    "target_word": "affable",
+    "question": "Though notoriously devoid of personal warmth and fundamentally unconcerned with being liked, the chancellor remained impeccably ___ during public audiences, always accessible and readily disposed to hear individual petitions.",
+    "options": [
+      "affable",
+      "genial",
+      "amiable",
+      "cordial"
+    ],
+    "answer": "affable",
+    "primary_mechanism": "MECH_SEMANTIC_FEATURE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "句中设立了严密的‘语义排除锚点’与‘正向定义锚点’：前半句‘devoid of personal warmth’（缺乏个人温情）直接否定了 genial 与 cordial 所必需的核心语义特征（warmth and cheer / warmth and heartiness）；‘fundamentally unconcerned with being liked’（根本不在意是否讨人喜欢）直接排除了以‘性情讨喜、随和顺从’为核心的 amiable。后半句‘during public audiences, always accessible and readily disposed to hear individual petitions’（在公开接见中始终易于接近，随时准备倾听个别请愿）则精确激活了 affable 源自拉丁语 affari（与之交谈）的核心词义——专指上位者在政务或正式场合‘易于攀谈、平易近人、乐于接纳并回应下属或请愿者’，形成逻辑上的唯一解。",
+    "distractor_analysis": {
+      "affable": "正确。在高级英语与词汇学辨析中，affable 特指身处高位或权威之人‘易于接近、乐于倾听并回应下属交流或请愿’的姿态（easy approachability and readiness to respond pleasantly to the conversation or requests of others, especially of a superior）。尽管该大臣内心冷酷（devoid of warmth）且不在意人缘（unconcerned with being liked），但他在公务接见中展现出的‘可接近性与接见倾听意愿’正是 affable 的教科书式应用。",
+      "genial": "错误。Merriam-Webster 与各大权威词典明确指出 genial 强调‘散发欢快、温暖与亲切感’（stresses warmth and cheer, often as manifested in hospitality or companionship）。题干前置条件明确限定该大臣‘devoid of personal warmth’（缺乏温情），在逻辑语义上与 genial 构成不可调和的矛盾冲突，故排除。",
+      "amiable": "错误。amiable 源自拉丁语 amabilis（可爱、令人喜爱），强调‘性情温厚随和、讨人喜欢、顺从无争’（implies having qualities that make one liked and easy to get along with; docile disposition）。题干明确指出其‘fundamentally unconcerned with being liked’（根本不在乎是否被喜欢），在语义特征上形成直接否定，故排除。",
+      "cordial": "错误。cordial 源自拉丁语 cor（心），核心语义特征是‘由衷的、发自肺腑的热忱与温暖’（stresses warmth and heartiness, often in a formal or restrained degree）。这与题干‘devoid of personal warmth’直接相悖；且 cordial 多用于修饰抽象交际（如 a cordial greeting / reception / welcome），用于修饰身处公堂听取请愿的大臣亦不合高阶语域搭配。"
+    },
+    "translation": "尽管这位大臣出了名地缺乏温情，且根本不在意自己是否讨人喜欢，但他在公开接见中却始终展现出无可挑剔的平易近人，随时恭候并乐于倾听民众的个别请愿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_14",
+    "group_id": 377,
+    "group_name": "affable, genial, amiable, cordial",
+    "level": "TEM-8",
+    "target_word": "genial",
+    "question": "Far from displaying mere conversational accessibility or passive agreeableness, the committee chairman exhibited a genuinely ___ temperament, whose exuberant joviality and cheering warmth swiftly defused acrimonious factional disputes and restored departmental solidarity.",
+    "options": [
+      "affable",
+      "genial",
+      "amiable",
+      "cordial"
+    ],
+    "answer": "genial",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步对比“Far from displaying mere conversational accessibility or passive agreeableness”（绝非仅仅表现出容易攀谈的亲和力或被动顺从的和气）在逻辑上决定性地排除了 affable（易于攀谈）与 amiable（顺从被动的和气）；后置关系分句“exuberant joviality and cheering warmth swiftly defused acrimonious factional disputes”精准对应 Merriam-Webster 对 genial 的核心定义（stresses cheerfulness and even joviality accompanying an operative desire to cheer or please），排他性极强。",
+    "distractor_analysis": {
+      "genial": "正确。Merriam-Webster 明确指出，genial 的核心语义在于“伴随着鼓舞他人之积极意愿的高昂兴致、欢快与温厚”（marked by high spirits, good-humored warmth, and cheering influence; stresses cheerfulness and even joviality accompanying an operative desire to cheer or please）。句中的“exuberant joviality”（勃发的快活幽默）与“cheering warmth”（振奋人心的温厚）是 genial 词义特质的完美映射，且与成功“化解纷争（defused disputes）”的主动感染力严丝合缝。",
+      "affable": "错误。词源与拉丁语 fari（说话）相关，核心语义严格指“易于交谈、平易近人”（characterized by ease and friendliness in manner or conversation; easy approachability）。题干前置对比项“conversational accessibility”（交谈上的易接近性）已直接将其作为次级特征加以排除，代入会导致逻辑自相矛盾；此外 affable 亦不含充满活力的欢快幽默感（joviality）。",
+      "amiable": "错误。侧重于指“好脾气、讨人喜欢、被动顺从的和气”（having qualities that make one liked and easy to get along with, especially good temper and agreeable nature）。题干开篇的“passive agreeableness”（被动顺从的和气）已将其明确排斥在外；amiable 属于防御性、顺应性的温和，完全缺乏能够主动打破沉闷、振奋人心（cheering）的能量场。",
+      "cordial": "错误。源于拉丁语 cor（心），主要指“发自内心但常带有礼节节制或公事客套的诚挚与热情”（stresses warmth and heartiness, often combined with polite restraint or formality），常见于正式礼遇或外交辞令（如 a cordial greeting / cordial relations）。它不具备 genial 所独具的“exuberant joviality”（勃发欢快）与如春风化雨般的感染力。"
+    },
+    "translation": "委员会主席绝非仅仅表现出容易攀谈的亲和力或被动顺从的和气，而是展现出一种真正温厚欢快的和煦性情；其勃发的快活幽默与如春风般的温厚迅速化解了尖锐的派系纷争，恢复了部门的团结。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_15",
+    "group_id": 378,
+    "group_name": "agile, quick, nimble, active",
+    "level": "TEM-8",
+    "target_word": "agile",
+    "question": "To overcome the protracted delays inherent in sequential waterfall development, major technology firms are embracing the ___ methodology, partitioning software projects into iterative development cycles that foster continuous integration and rapid stakeholder feedback.",
+    "options": [
+      "agile",
+      "quick",
+      "nimble",
+      "active"
+    ],
+    "answer": "agile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ACADEMIC",
+    "anchor_clue": "句中设置了双重决定性排他锚点：一是前半句的“sequential waterfall development”（线性瀑布式开发），在现代工程与项目管理体系中与其构成唯一标准对立范式的是“agile methodology”（敏捷开发方法体系）；二是后文分词状语“partitioning software projects into iterative development cycles that foster continuous integration...”严格复现了《韦氏词典》（Merriam-Webster）对 agile 确立的独立专业义项（sense 3: relating to or being a methodology characterized by the division of tasks into short phases of work and frequent reassessment and adaptation of plans）。在该法定专业框架下，nimble、quick、active 均不具备此特定方法论的术语地位。",
+    "distractor_analysis": {
+      "agile": "正确。Merriam-Webster 与 Oxford 词典均明确将 agile 收录为项目管理与计算领域的专有形容词，专门指代“将项目划分为短周期（sprint）迭代、持续评估与自适应调整的敏捷方法体系”（agile development / agile methodology）。句中与 sequential waterfall development（瀑布式开发）形成鲜明范式对照，并与后文的 iterative development cycles 完全契合。",
+      "quick": "错误。quick 核心语义为速度快、耗时短或反应无延迟（speedy, prompt），属于日常基础词汇，无法用于修饰具有严格规范、分阶段迭代的工程管理范式，“the quick methodology”在学术与技术语域中完全不成立。",
+      "nimble": "错误。nimble 在当代商业与管理语境中确实常用于修饰企业组织或供应链的整体反应灵敏度（如 a nimble organization, a nimble supply chain），但权威词典与行业标准从未赋予其指代“以迭代周期和持续集成为特征的特定开发方法体系”的术语资格。“the nimble methodology”并非既定搭配，与前半句的 waterfall development 亦无法形成规范的范式对举，在此处构成搭配与术语层面的严重破损。",
+      "active": "错误。active 强调处于行动、运转或起效状态（反义词为 passive 或 dormant）。在“___ methodology”结构中，active methodology 通常仅在教育学语境下指代促进学生参与的“主动教学法”（active learning methodology），置于软件工程与项目交付的语境中存在严重的领域与语义错位。"
+    },
+    "translation": "为了克服线性瀑布式开发固有的漫长延迟，各大科技公司正积极采用敏捷方法体系，将软件项目拆分为迭代式开发周期，以促进持续集成与迅速的利益相关者反馈。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_16",
+    "group_id": 378,
+    "group_name": "agile, quick, nimble, active",
+    "level": "TEM-8",
+    "target_word": "quick",
+    "question": "Although theoretical physicists were ___ to identify anomalies in the particle collision data, they remained remarkably hesitant to proclaim the discovery of a new fundamental force without extensive empirical replication.",
+    "options": [
+      "agile",
+      "quick",
+      "nimble",
+      "active"
+    ],
+    "answer": "quick",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句型框架为 be ___ to do sth.，且与主句中的 remained remarkably hesitant to proclaim 形成修辞性对照（antithesis）。只有 quick 可以构成固定搭配“be quick to do sth.”（敏于/迅速做某事），表征即时反应或倾向性，其他三项均无法支配该不定式句式并形成该逻辑对立。",
+    "distractor_analysis": {
+      "quick": "正确。Merriam-Webster 将其引申义明确界定为“fast in understanding, thinking, or learning; reacting with speed”。固定搭配“be quick to do sth.”意为“迅速/敏于做某事”，在本句中与转折主句的“remained remarkably hesitant to proclaim”（对宣布……显得格外迟疑谨慎）形成严丝合缝的逻辑对仗（quick vs. hesitant）。",
+      "agile": "错误。agile 侧重身手矫健或系统适应性，在句法上不能直接接动词不定式来表示行为反应的时效性或心理倾向（英语中无 *be agile to do sth. 结构），存在严重的句法支配错误。",
+      "nimble": "错误。nimble 指动作轻快敏捷或思维敏锐，同样不具备支配 predicative to-infinitive 来表达“敏于/急于行动”的句法槽位（不存在 *be nimble to do sth. 搭配），语法上无法成立。",
+      "active": "错误。active 意为“活跃的、积极参与的”，在接续具体行为时通常接介词短语（如 be active in doing sth.），不能直接支配动词不定式（*be active to identify 属语法不通）；且其词义强调“投身活动”而非“动作敏捷迅速”，无法与下文的 hesitant 构成反义对照。"
+    },
+    "translation": "尽管理论物理学家迅速发现了粒子碰撞数据中的异常现象，但在缺乏广泛经验性复现实验的情况下，他们对宣布发现一种新的基本相互作用力依然表现得极为审慎。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_17",
+    "group_id": 379,
+    "group_name": "arduous, laborious, backbreaking, hard",
+    "level": "TEM-8",
+    "target_word": "arduous",
+    "question": "Sudden blizzards and crumbling shale made the high-altitude ascent far more ___, demanding extraordinary stamina and unwavering grit to surmount formidable environmental resistance rather than mere protracted physical toil.",
+    "options": [
+      "arduous",
+      "laborious",
+      "backbreaking",
+      "hard"
+    ],
+    "answer": "arduous",
+    "primary_mechanism": "MECH_SYNTAX_COLLOCATION",
+    "field": "FIELD_NARRATIVE_LITERATURE",
+    "anchor_clue": "句首的“far more ___”构成了不可逾越的形态句法排他锚点（单音节词 hard 的比较级只能是 harder，使用 more hard 属于严重语法错误）；而后文的“high-altitude ascent”（高海拔攀登）及“surmount formidable environmental resistance rather than mere protracted physical toil”（克服险恶的环境阻力，而非仅仅是耗时的体力劳作），直接呼应了《韦氏词典》对 arduous 的核心定义（stresses the need of great exertion for surmounting obstacles or defeating resistance），排除了侧重机械琐碎耗时的 laborious 与侧重摧残脊椎的重体力农牧劳作 backbreaking。",
+    "distractor_analysis": {
+      "arduous": "正确。词源上源自拉丁语 arduus（陡峭、高耸），《韦氏词典》明确指出 arduous 强调“stresses the need of great exertion for surmounting obstacles or defeating resistance”（强调需要付出极大体力与毅力以克服险阻或战胜阻力，常搭配 an arduous climb/ascent）。句中面对暴风雪与碎石陡坡的高海拔攀登、克服恶劣自然阻力，在句法（多音节词接 more）、搭配（ascent）与语意上均完全契合。",
+      "laborious": "错误。laborious 侧重指过程缓慢、耗时、枯燥且令人厌倦的案头工作或琐碎机械劳作（plodding, tedious work），句末“rather than mere protracted physical toil”（而非仅仅是耗时的体力劳作）在语义逻辑上已明确否定了此种劳作特质，且该词不能用来形容搏击暴风雪、攀登险峰的壮举。",
+      "backbreaking": "错误。backbreaking 专指摧残身体、严重拉伤背部与脊椎的“弯腰重体力劳动”（如 backbreaking labor in the fields/mines，田间劳作或矿山搬运），修饰高海拔极限登山攀爬（high-altitude ascent）属于严重的范畴错配（category mistake）与搭配破裂。",
+      "hard": "错误。存在绝对的形态句法违误（morphosyntactic violation）。作为单音节基础形容词，hard 表示“困难的”时其比较级形态必须使用综合式比较级 harder（即 far harder）；在正统规范英语中，严禁在 hard 前加 more 构成分析式比较级（far more hard 属于严重低级语法错误），因而被句法结构彻底排斥。"
+    },
+    "translation": "突如其来的暴风雪和松散碎裂的页岩使这次高海拔攀登变得更加艰险，它需要非凡的耐力和坚定的毅力来克服险恶的自然环境阻力，而绝非仅仅是耗费漫长体力的繁琐劳作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_18",
+    "group_id": 379,
+    "group_name": "arduous, laborious, backbreaking, hard",
+    "level": "TEM-8",
+    "target_word": "laborious",
+    "question": "Literary critics dismissed the novelist's late work for its remarkably ___ prose, arguing that convoluted syntactic structures and heavy-handed pedantry had extinguished the spontaneous grace and vitality of her earlier fiction.",
+    "options": [
+      "arduous",
+      "laborious",
+      "backbreaking",
+      "hard"
+    ],
+    "answer": "laborious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "句中的“convoluted syntactic structures”（错综复杂的句法结构）与“extinguished the spontaneous grace and vitality”（扼杀了天然的优雅与生机）构成了决定性的排他锚点。这要求所填形容词必须精确指代文学风格“因雕琢过甚而生硬滞重、缺乏自然流畅神韵（lacking spontaneous ease or natural grace）”。在所给选项中，仅有 laborious 在英语词典学中专门确立了修饰文体风格（style/prose）“生硬做作、滞重费解（labored）”的特有义项。",
+    "distractor_analysis": {
+      "laborious": "正确。根据《韦氏词典》（Merriam-Webster）与《牛津英语词典》（OED），laborious 在修饰文学或语言风格时具有专门义项：“produced with labor; not easy or natural; lacking spontaneous ease or grace : LABORED”（费力拼凑的、生硬滞重的、毫无自如神韵的，如 a laborious style / laborious prose）。句中错综复杂的句法与失去自然优雅（spontaneous grace）的语境，构成了与 laborious 该特有义项的严密咬合。",
+      "arduous": "错误。《韦氏词典》将 arduous 释为“marked by great labor or effort; strenuous”，专用于修饰需要克服重重困难、消耗大量心力或体力的“任务、历程、工作或跋涉”（如 an arduous task / journey）。尽管 arduous 可以指智力或案头任务之艰巨，但它绝不能用来修饰文风或散文（prose/style）本身以表达“雕琢生硬、笨拙呆板（labored/stiff）”。将 arduous 与 prose 搭配犯了修辞与语义范畴错误。",
+      "backbreaking": "错误。backbreaking 专指造成脊椎酸痛或极度肉体损耗的“沉重体力劳役”（如 backbreaking manual labor in the fields）。用其修饰文学散文（prose）在语义搭配上完全无法成立，属于极其严重的范畴错配。",
+      "hard": "错误。在文学批评语境中，hard prose 通常指“冷峻、干脆、不加修饰的硬派文风”（如以海明威为代表的 hard-boiled 风格）或通俗指“难懂的内容”；它并不具备“因过度雕琢而显得滞重生硬、缺乏天然神韵”的核心内涵。此外，hard 语体过于宽泛日常，无法匹配本题高级文学批评所需的学术语域精确度。"
+    },
+    "translation": "文学评论家对这位小说家晚期的作品不屑一顾，指责其散文极其生硬滞重，认为其错综复杂的句法结构和笨拙卖弄的学究气已经扼杀了她早期小说中那种天然的优雅与生机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_19",
+    "group_id": 380,
+    "group_name": "bum, tinny, sleazy, cheap",
+    "level": "TEM-8",
+    "target_word": "bum",
+    "question": "Relying on what intelligence analysts retrospectively conceded was a ___ steer from regional informants, the cabinet miscalculated the insurgent faction's operational capabilities, committing vanguard troops to an untenable and catastrophic tactical encirclement.",
+    "options": [
+      "bum",
+      "tinny",
+      "sleazy",
+      "cheap"
+    ],
+    "answer": "bum",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键认知锚点为固定名义搭配“a ___ steer from...”以及后文的因果从属分句“miscalculated the insurgent faction's operational capabilities”（对叛乱阵营的作战能力产生了严重误判）。在英语高阶政经与情报语境中，“bum steer”是一项高度专有的特异性词汇搭配，韦氏词典将其专门界定为“false or misleading information, advice, or direction”（虚假或具有误导性的信息、建议或方向指引）。其余三个选项均无法与名词 steer 搭配构成表达“错误、误导性决策信息”的合法短语。",
+    "distractor_analysis": {
+      "bum": "正确。作形容词时构成极其地道的固定搭配“a bum steer”（虚假指引、错误线索），精准切合由于采信了错误情报而导致决策层在认知上产生重大误判（miscalculated）的严密语境。",
+      "tinny": "错误。tinny 意为“薄脆如锡的、空洞乏味的”，专门用于形容声音尖细单薄或言论修辞缺乏实质思想深度（如 tinny rhetoric），无法用于修饰 steer，存在语义范畴破裂。",
+      "sleazy": "错误。sleazy 意为“低俗龌龊的、不道德的、质地低劣的”（如 sleazy dealings），侧重指责道德层面的败坏与操守的沦丧，不能用来修饰 steer 表示情报或决策指引的“虚假误导”。",
+      "cheap": "错误。cheap 意为“廉价的、低劣的、缺乏体面的”（如 cheap shot），虽然具备广义的“劣质”含义，但在英语中完全不与 steer 搭配，强行代入属于严重的词汇搭配不当。"
+    },
+    "translation": "由于听信了情报分析人员事后承认由地方线人提供的误导性指引，内阁对叛乱派系的作战能力产生了误判，从而将先锋部队派往一个难以坚守且极具灾难性的战术包围圈之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b37_20",
+    "group_id": 380,
+    "group_name": "bum, tinny, sleazy, cheap",
+    "level": "TEM-8",
+    "target_word": "tinny",
+    "question": "Stripped of its oratorical flourishes, the chancellor’s budget defense sounded remarkably ___, lacking the conceptual depth, empirical substance, and authoritative resonance required to reassure increasingly skeptical financial markets.",
+    "options": [
+      "bum",
+      "tinny",
+      "sleazy",
+      "cheap"
+    ],
+    "answer": "tinny",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中感官系动词“sounded remarkably ___”与后置伴随分词状语“lacking the conceptual depth, empirical substance, and authoritative resonance”（缺乏概念深度、实证内涵与权威共鸣）构成了决定性的通感排他锚点。tinny 依其韦氏词典词源与核心义项，特指“lacking in substance, quality, or depth”（薄脆无力的、缺乏实质内涵的），尤指言辞或辩护听起来空洞尖薄、毫无回响与深度，与“sounded”及“resonance”构成完美的声学隐喻闭环。",
+    "distractor_analysis": {
+      "tinny": "正确。tinny 借助声音轻薄无共鸣的物理隐喻，极其精准地形容论辩与说理“单薄虚浮、缺乏深度与感染力”（tinny defense/rhetoric），与句中的系动词 sounded 及后续修饰成分 authoritative resonance 产生天衣无缝的语义照应。",
+      "bum": "错误。bum 作形容词时在当代标准英语中主要充当名词前置定语（如 bum advice, bum steer），不能在感官系动词 sounded 后作表语（*sounded bum 在句法上极不规范）；且其含义为“有缺陷的、错误的”，无法表达言论缺乏厚度与共鸣。",
+      "sleazy": "错误。sleazy 侧重指“道德败坏的、肮脏卑劣的”（如 sleazy politics），用于指责财政大臣的预算方案缺乏理论深度和实证支持，存在严重的语义域错位与道德色彩误置。",
+      "cheap": "错误。cheap 意为“便宜的、拙劣可鄙的”，虽可作表语，但其语义重心在于经济成本低廉或行为手段低级轻浮（如 a cheap trick），无法与句中“sounded”所引导的、关于“缺乏思想厚度与权威共鸣”（resonance）的高级通感修辞相匹配，语体显得平庸粗糙。"
+    },
+    "translation": "褪去了华丽的修辞辞藻后，财政大臣的预算辩护显得格外单薄空洞，全然缺乏安抚日益疑虑重重的金融市场所必需的概念深度、实证内涵与权威共鸣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b40_01",
+    "group_id": 401,
+    "group_name": "audacious, dauntless, bold, brave",
+    "level": "TEM-8",
+    "target_word": "audacious",
+    "question": "Transcending mere boldness, the philosopher's ___ treatise flouted orthodox epistemology, offering a shockingly irreverent reinterpretation of moral autonomy that stunned the academy with its sheer conceptual insolence.",
+    "options": [
+      "audacious",
+      "dauntless",
+      "bold",
+      "brave"
+    ],
+    "answer": "audacious",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "句首让步/跃迁结构'Transcending mere boldness'（超越单纯的果敢/大胆）在逻辑上明确要求填入一个在'敢为人先、挑战常规'维度上程度显著高于bold的高阶词汇，从而绝对排除了bold的同义反复；后文的'flouted orthodox epistemology'（公然藐视正统认识论）、'shockingly irreverent'（惊人地离经叛道）与'conceptual insolence'（概念上的傲慢妄为）构成了决定性语义锚点，直接锁定韦氏词典对audacious的核心定义：'contemptuous of law, religion, or decorum : INSOLENT' 以及 'marked by originality and verve'。",
+    "distractor_analysis": {
+      "audacious": "正确。audacious在学术思想与批评语域中专指那种打破传统规约、带有惊世骇俗的独创性甚至近乎狂妄蔑视常规（insolently daring, contemptuous of decorum）的理论创举。前置的'Transcending mere boldness'构成了修辞上的级差跃迁，后文的'flouted orthodox epistemology'与'conceptual insolence'对其核心词义（原意包含'recklessly bold'与'insolent'）构成了无懈可击的双重呼应。",
+      "dauntless": "错误。dauntless的核心语义为'incapable of being intimidated or subdued'（在外部强权、威胁或艰险面前不屈不挠、无所畏惧），其典型修饰对象为面临危险或压迫的个体、意志或勇气（如dauntless warrior, dauntless resolve）。将其用于修饰一部哲学著作对学术正统的主动离经叛道与傲慢挑衅，在搭配对象与语义场上均产生范畴错配（category mistake）。",
+      "bold": "错误。句首已使用现在分词短语'Transcending mere boldness'（超越单纯的果敢/大胆），若在空格处复用bold，不仅造成低级恶劣的同义累赘（tautology），更导致'超越果敢的果敢著作'这一自相矛盾的逻辑断裂，因而在篇章修辞与话语逻辑上被绝对排除。",
+      "brave": "错误。brave主要表征面对肉体痛苦、危险或道德重压时展现出的坚毅勇气（fortitude in facing danger or difficulty）。首先，在语义梯次上，brave侧重防守性的坚忍，根本无法作为超越boldness（进取性冒险）的更高层级；其次，brave蕴含明确的道德褒义，与句中'shockingly irreverent'（公然大不敬的）和'insolence'（傲慢无礼）存在严重的评价极性冲突（evaluative clash）。"
+    },
+    "translation": "这位哲学家的著作超越了单纯的果敢，以惊世骇俗的无畏姿态公然藐视正统认识论，对道德自主性提出了极具颠覆性的离经叛道式重释，其纯粹的概念傲慢令整个学界为之震惊。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_02",
+    "group_id": 401,
+    "group_name": "audacious, dauntless, bold, brave",
+    "level": "TEM-8",
+    "target_word": "dauntless",
+    "question": "During the protracted winter siege, the garrison maintained such ___ courage that relentless artillery bombardment and severe starvation failed to subdue their spirits or compel an unconditional surrender.",
+    "options": [
+      "audacious",
+      "dauntless",
+      "bold",
+      "brave"
+    ],
+    "answer": "dauntless",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HISTORICAL_MILITARY",
+    "anchor_clue": "本题设立了双重决定性排他锚点：1. 句法与修辞排他（Pleonasm / 同义赘述）：空后中心词为抽象名词'courage'。在规范高级英语中，'brave'（意为 having or showing courage）作定语修饰'courage'构成典型的同义叠床架屋（tautological pleonasm，即'勇敢的勇气'），在学术与正式文体中属明显语病；而'dauntless courage'（不可征服之勇）则是英语史学与经典散文中的定型名伙搭配。2. 词源与词典释义闭环：后文结果状语从句'failed to subdue their spirits'（未能压制/屈服其斗志）直接呼应了'daunt'（MW: to lessen the courage of : SUBDUE）及'dauntless'的韦氏同义词辨析专释（'stresses courage that cannot be subdued or frightened away'）。'audacious'（鲁莽放肆的）与'bold'（主动前倾、敢于冒险的）均强调主动进攻与突破，与守军在炮击与饥馑中展现的纯防御性、隐忍坚守特质发生方向性冲突。",
+    "distractor_analysis": {
+      "dauntless": "正确。dauntless 由 daunt（压服、使气馁）与否定后辍 -less 构成，核心义为'不可屈服的、不可压倒的'（incapable of being intimidated or subdued）。'dauntless courage'是高级历史叙事中的典雅固定搭配，其不仅赋予courage以'坚不可摧、百折不挠'的限定属性（避免了同义反复），更与后文'failed to subdue their spirits'（未能压倒其斗志）形成天衣无缝的词汇语义闭环。",
+      "audacious": "错误。audacious 强调'鲁莽大胆、放肆无礼、敢于公然蔑视规矩秩序或危险'（insolently daring or recklessly bold），带有显著的主动冒犯与挑衅意味（如 an audacious raid）。本句描述的是守军在围城极端困境中的防御性隐忍与坚守，与 audacious 的施动向量完全背离。",
+      "bold": "错误。bold 强调主动进取、向前突破的冒险特质与魄力（forward-leaning, venturesome, assertive），通常修饰开拓性举措或主动进攻行为（如 a bold maneuver）。在遭受持续轰炸与饥荒折磨的被动承受语境中，bold 无法传达抵御摧折的坚韧；且 bold 亦无法与后文'failed to subdue'建立词源学语义对应。",
+      "brave": "错误。从词汇语义学与修辞学规则来看，brave 的本义即'having or showing courage'，将其置于'courage'前作定语修饰，构成了语言学上典型的同义反复语病（pleonasm / semantic redundancy，如同'audible sound'或'untrue lie'），在严谨的高阶英语写作与标准化测试中绝对不被接受。"
+    },
+    "translation": "在漫长的冬季围城战中，守军展现出了不可征服的无畏勇气，以至于无休止的炮火轰炸与极度饥荒都未能压垮他们的斗志，亦未能迫使他们无条件投降。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_03",
+    "group_id": 402,
+    "group_name": "capricious, whimsical, impulsive, arbitrary",
+    "level": "TEM-8",
+    "target_word": "capricious",
+    "question": "Economists caution that relying solely on short-term indicators overlooks the inherently ___ nature of consumer confidence, which tends to fluctuate erratically in response to unsubstantiated geopolitical rumors and fleeting market panics.",
+    "options": [
+      "capricious",
+      "whimsical",
+      "impulsive",
+      "arbitrary"
+    ],
+    "answer": "capricious",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“tends to fluctuate erratically in response to unsubstantiated geopolitical rumors and fleeting market panics”与“the inherently ___ nature of...”构成不可替代的搭配锚点，精准限定为描述不可预测、如天平失衡般剧烈多变的系统性认知与心理状态。",
+    "distractor_analysis": {
+      "capricious": "正确。capricious意为“反复无常的、捉摸不定的、难以预料的”，在宏观心理学与经济学术语中，“capricious nature of...”为极高频的经典学术搭配，完美契合后文指出的“fluctuate erratically”（无规则剧烈波动）这一语义特征。",
+      "whimsical": "错误。whimsical意为“古怪有趣的、异想天开的”，通常带有轻快、诙谐或文学艺术层面的审美色彩（如 whimsical charm）。用于严肃的宏观经济学分析及描述引发恐慌的消费者信心，属于严重的文体风格冲突（stylistic clash）与感情色彩错配。",
+      "impulsive": "错误。impulsive意为“冲动的、由一时冲动驱使的”，核心语义指向具体行为主体在缺乏深思熟虑时的行动倾向（如 an impulsive shopper/decision）。宏观心理指标（consumer confidence）并不具备个体行为学意义上的“impulsive nature”，存在明显的认知主客体搭配断裂。",
+      "arbitrary": "错误。arbitrary意为“专断的、任意武断的、缺乏客观依据的”（如 an arbitrary rule/threshold）。arbitrary强调主观裁定或缺乏理性标准，但并不具备随着外部扰动而频繁“动态摇摆、反复无常波动”（erratic oscillation）的语义内涵。"
+    },
+    "translation": "经济学家告诫称，仅仅依赖短期指标会忽视消费者信心生来反复无常的本质，而这种信心往往会因捕风捉影的地缘政治谣言和转瞬即逝的市场恐慌而发生不规则的剧烈波动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_04",
+    "group_id": 402,
+    "group_name": "capricious, whimsical, impulsive, arbitrary",
+    "level": "TEM-8",
+    "target_word": "whimsical",
+    "question": "The novelist’s latest collection departs from grim social realism, enchanting critics with its ___ humor and eccentric characters who resolve existential crises through delightfully absurd, playful philosophical thought experiments.",
+    "options": [
+      "capricious",
+      "whimsical",
+      "impulsive",
+      "arbitrary"
+    ],
+    "answer": "whimsical",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“enchanting critics”（迷倒评论家）、“eccentric characters”（古怪性格的人物）以及“delightfully absurd, playful”（令人愉悦的荒诞与诙谐好玩）构成强效正向美学锚点，唯有“whimsical humor”（诙谐古怪、异想天开的幽默感）能达成严格的搭配与语域契合。",
+    "distractor_analysis": {
+      "whimsical": "正确。whimsical意为“古怪而迷人的、异想天开的、诙谐幽默的”。“whimsical humor”是文学批评与叙事学中的经典名家搭配，能够完美对应后文“enchanting”以及“delightfully absurd, playful”所营造的正面审美愉悦感。",
+      "capricious": "错误。capricious意为“反复无常的、任性善变的”，侧重于不可预测的脾气变化或动荡不安的状态（如 capricious tyrant, capricious climate），缺乏艺术层面上“富有趣味与想象力”的正面语义，与后文表达的愉悦（delightfully）形成语义冲突。",
+      "impulsive": "错误。impulsive强调“冲动的、不假思索的、鲁莽的”，用来修饰人的瞬时动作或盲目反应，无法与“humor”构成文学批评范畴的风格修饰搭配，属于典型的搭配不当（collocational rupture）。",
+      "arbitrary": "错误。arbitrary意为“专横的、肆意妄为的、毫无依据的”，强调缺乏逻辑与理据的武断性，在美学与文学语境中无法表达“诙谐幽默”或“童话般的异想天开”，置入此处导致文意荒谬。"
+    },
+    "translation": "这位小说家的最新作品集摆脱了沉重的社会写实主义，以其异想天开的幽默感以及通过令人捧腹且趣味盎然的哲学思想实验化解存在主义危机的古怪角色，深深吸引了评论界。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_05",
+    "group_id": 403,
+    "group_name": "chaste, virtuous, pure, virgin",
+    "level": "TEM-8",
+    "target_word": "chaste",
+    "question": "Rejecting the ornate excesses of Baroque rhetoric, the Enlightenment essayist cultivated a remarkably ___ prose style, arguing that rigorous intellectual inquiry demanded language stripped of all superfluous emotional and decorative indulgence.",
+    "options": [
+      "chaste",
+      "virtuous",
+      "pure",
+      "virgin"
+    ],
+    "answer": "chaste",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中语境为修辞与文体批评（'prose style'），前后存在明确的语义对立与修饰锚点：'Rejecting the ornate excesses of Baroque rhetoric' 与后文的 'stripped of all superfluous emotional and decorative indulgence'。在高级词汇与修辞学谱系中，唯有 chaste 具有从'道德与肉体克制'引申出的'（文风、艺术设计）朴素雅致的、毫无多余繁复修饰的、洗练沉静的'（severely simple or austere in style）这一决定性内涵。",
+    "distractor_analysis": {
+      "chaste": "正确。chaste 除表示'贞洁的、恪守性道德的'之外，在 TEM-8 核心学术与文学批评语境中常考其引申义，专指文学风格、语言或艺术设计'朴实无华的、洗练严谨的、摒除多余浮华修饰的'（MW: severely simple in style or execution : austere）。此处修饰 'prose style'，与后文 'stripped of all superfluous emotional and decorative indulgence' 形成严密的同义复指与修辞呼应。",
+      "virtuous": "错误。virtuous 侧重指道德主体品质高尚、为人正直或行为符合伦理标准（having or showing high moral standards），亦可用于良性机制（如 a virtuous cycle）。它无法修饰散文文体或修辞风格，'a virtuous prose style' 属于严重的语义范畴错配（category mistake）与搭配断裂。",
+      "pure": "错误。pure 强调'纯净的、无杂质的、不掺杂异质元素的'（free from extraneous elements）。在文体学中，'pure style' 通常指语言纯正、未受外来语或方言杂质污染（如 pure vernacular），而不能表达'刻意压制多余装饰、追求简约克制'的文风特征，无法与 'stripped of all superfluous decorative indulgence' 形成精确契合。",
+      "virgin": "错误。virgin 强调'未经触碰的、处于原初未开垦状态的'（untouched, pristine）。用来修饰经过深思熟虑打磨的散文风格（prose style）完全不符合英语搭配规范与文体习惯，造成语用断裂。"
+    },
+    "translation": "这位启蒙时期的随笔作家摒弃了巴洛克修辞的繁冗浮华，转而推崇一种极其洗练朴素的散文风格，认为严谨的哲学思辨需要剥除一切多余的情感煽动与装饰性浮夸。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_06",
+    "group_id": 403,
+    "group_name": "chaste, virtuous, pure, virgin",
+    "level": "TEM-8",
+    "target_word": "virtuous",
+    "question": "Aristotle maintained that an individual becomes genuinely ___ not through innate innocence or passive abstention from vice, but through the deliberate, habitual practice of moral actions guided by practical wisdom.",
+    "options": [
+      "chaste",
+      "virtuous",
+      "pure",
+      "virgin"
+    ],
+    "answer": "virtuous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中通过严密的转折对比构建了排他逻辑：'not through innate innocence [直接排除 pure] or passive abstention from vice [直接排除 chaste 与 virgin]，but through the deliberate, habitual practice of moral actions guided by practical wisdom'。该结构准确复述了亚里士多德伦理学中关于德性获得的核心命题——真正的德性必须是在实践智慧指导下通过后天刻意、习惯性的道德践行而形成的全方位卓越品格，从而排他性地锁定了 virtuous。",
+    "distractor_analysis": {
+      "virtuous": "正确。virtuous 在道德哲学与认知伦理学中指'有德性的、品格卓越的'，特指道德主体通过实践智慧（phronesis）和长期的道德实践所养成的全面伦理卓越（MW: having or showing moral excellence）。句中 'deliberate, habitual practice of moral actions'（对道德行为自觉且习惯性的践行）正是亚里士多德哲学中对养成'virtuous'状态的经典定义。",
+      "chaste": "错误。chaste 的核心内涵局限于'贞洁的、节制感官欲念的'（morally pure, especially refraining from sexual desires），侧重消极的自律与防守。句中 'passive abstention from vice'（对恶行的消极戒绝）作为被明确否定的前项，直接排除了仅具备消极节制内涵的 chaste。",
+      "pure": "错误。pure 强调'天真无邪的、未受污染的、原本纯洁的'（innocent, uncontaminated），侧重一种原初未遭沾染的静态特质。句中的首要否定项 'not through innate innocence'（并非通过与生俱来的天真）从语义上直接将 pure 予以排除。",
+      "virgin": "错误。virgin 强调'处于初始未经历状态的、未被触碰过的'（untouched, inexperience）。它描述一种尚未发生经验接触的事实状态，与句中通过后天反复实践、经受世事磨炼而达成的卓越品德（habitual practice）在哲学和语义逻辑上完全对立。"
+    },
+    "translation": "亚里士多德主张，一个人之所以能成为真正具有完满德性的人，并非凭借与生俱来的天真纯洁或对恶行的消极戒绝，而是依托于在实践智慧指引下对道德行为的自觉且习惯性的践行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_07",
+    "group_id": 404,
+    "group_name": "colossal, stupendous, big, large",
+    "level": "TEM-8",
+    "target_word": "colossal",
+    "question": "The investigative report characterized the intelligence community's failure to anticipate the systemic crisis as a ___ blunder of strategic foresight, rather than a mere tactical oversight.",
+    "options": [
+      "colossal",
+      "stupendous",
+      "big",
+      "large"
+    ],
+    "answer": "colossal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocation anchor: 'a ___ blunder of strategic foresight'. In advanced analytical and political discourse, 'blunder' strongly and idiomatic pairs with 'colossal' to denote an astonishing, catastrophic error of judgment, while other options cause severe register clash or semantic incongruence.",
+    "distractor_analysis": {
+      "colossal": "正确。colossal（源自古希腊巨像 colossus）在高级学术与严肃政论语境中具有高度固化的搭配机制，常用于修饰具有灾难性、令人瞠目结舌的认知过失或巨大失败（如 colossal blunder, colossal failure of imagination, colossal ignorance）。句中与 'blunder of strategic foresight'（战略预见上的弥天大错）构成严密经典的同现搭配，精准契合对重大认知判断失误的严厉定性。",
+      "stupendous": "排除。stupendous 语义重心在于“令人叹为观止的、惊人的”，源于拉丁语 stupere（发呆、震惊），在现代正统学术英文中几乎专用于积极褒义的非凡成就、壮举或体量（如 stupendous achievement, stupendous triumph），与表贬义认知过失的 'blunder' 搭配存在明显的感情色彩排斥与语意冲突。",
+      "big": "排除。big 属于通用基础级口语词汇，用于严肃调查报告（investigative report）与抽象认知概念（blunder of strategic foresight）时会造成严重的语体降格（register clash），不符合 TEM-8 的高阶文体规范。",
+      "large": "排除。large 属于客观中性的计量或空间形容词，用于修饰物理尺寸、统计样本或数量幅度（如 large sample, large scale），不能修饰具有离散质性评价特征的抽象过失名词 'blunder'（无 *large blunder 搭配）。"
+    },
+    "translation": "调查报告指出，情报部门未能预见这场系统性危机，属于战略远见上的弥天大错，而非仅仅是战术层面的疏忽。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_08",
+    "group_id": 404,
+    "group_name": "colossal, stupendous, big, large",
+    "level": "TEM-8",
+    "target_word": "stupendous",
+    "question": "Driven by recursive algorithmic optimization and massive capital infusions, the platform expanded with ___ rapidity, achieving in mere months what legacy competitors required decades to accomplish and thoroughly confounding industry analysts.",
+    "options": [
+      "colossal",
+      "stupendous",
+      "big",
+      "large"
+    ],
+    "answer": "stupendous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_TECHNOLOGY_SCIENCE",
+    "anchor_clue": "Decisive anchor clue: The head noun 'rapidity' (a dynamic rate/tempo nominalization) coupled with the temporal contrast 'achieving in mere months what legacy competitors required decades to accomplish'. In English lexical semantics, rate nouns like 'rapidity' categorically select scalar intensity/wonder adjectives ('stupendous rapidity' = with astounding, breathtaking speed) and strictly reject adjectives of static physical bulk/monumentality ('colossal'), dimensional area ('large'), or informal physical magnitude ('big').",
+    "distractor_analysis": {
+      "stupendous": "正确。stupendous 指“惊人的、令人叹为观止的、超乎寻常的”（Merriam-Webster: causing astonishment or wonder; of astounding force, volume, degree, or excellence）。在正式学术与科技政经语体中，'with stupendous rapidity'（以惊人之速）是高度典雅且地道的高阶搭配，修饰抽象速率名词 rapidity，精准契合后文“仅用数月便达成传统竞争对手耗费数十年方能实现的成果并令分析师大为震惊”的语境语义。",
+      "colossal": "排除。colossal 来源于古代世界奇迹罗得岛巨像（Colossus），核心语义严格局限于宏大的物理实体尺寸、空间几何体积，或引申指体量/规模上的庞大与灾难性结果（如 colossal statue, colossal blunder, colossal debt）。该词承载着沉重、静态、庞然大物的空间实体隐喻，在语义特征上与表示动态时间速度与节奏的抽象名词互斥（英语中绝无 *colossal rapidity，存在严重的语义范畴错配）。",
+      "big": "排除。big 属于通用基础词汇，语体色彩通俗，通常修饰具象物体尺寸或非正式语境中的抽象名词（如 big house, big mistake）。在严谨的科技学术语境中，big 无法前置修饰具有拉丁词源的高阶抽象速率名词（*big rapidity 违反英语词汇搭配选择限制，且产生严重的文体破格）。",
+      "large": "排除。large 严格用于界定空间范围、几何面积、容积或可衡量的统计数值（如 large area, large quantity, large scale）。在英语修辞与搭配体系中，表示速度与速率的名词（如 rapidity, velocity）必须使用表示强度或惊异程度的标度形容词（如 great, stupendous），不可使用空间/体量形容词 large（*large rapidity 属于语块层面的非法搭配）。"
+    },
+    "translation": "在递归算法优化与巨额资本注入的双重驱动下，该平台以惊人的速度迅猛扩张，在短短数月内便达成了传统竞争对手耗时数十年才得以实现的成就，令业界分析师深感震惊。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_09",
+    "group_id": 405,
+    "group_name": "cryptic, inexplicable, deep, mysterious",
+    "level": "TEM-8",
+    "target_word": "cryptic",
+    "question": "Employing ___ coloration to elude apex predators, the nocturnal gecko remains virtually indistinguishable from the lichen-encrusted bark, rendering standard visual censuses across the tropical forest canopy strikingly ineffective.",
+    "options": [
+      "cryptic",
+      "inexplicable",
+      "deep",
+      "mysterious"
+    ],
+    "answer": "cryptic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Technical ecological collocation with 'coloration' denoting adaptive camouflage to elude predators ('cryptic coloration'), reinforced by 'virtually indistinguishable from the lichen-encrusted bark'.",
+    "distractor_analysis": {
+      "cryptic": "正确。在进化生物学与生态学中，'cryptic coloration'（保护色/隐蔽色）是极其规范的专业固定术语（源自 Merriam-Webster 第3义：serving to conceal），特指动物通过伪装与周围环境融为一体以逃避敌害的生物学适应机制。句中的 'indistinguishable from the bark' 精准呼应了该搭配。",
+      "inexplicable": "错误。“无法解释的/令人费解的”。句子后文明确阐释了其颜色与行为的适应性进化动因（'to elude apex predators'），逻辑因果清晰，若填入 inexplicable 会造成明显的论述逻辑矛盾。",
+      "deep": "错误。“深色的/浓重的”。虽然 deep coloration 可用于描述高饱和度或深沉的色泽，但其仅指颜色的物理深浅，无法传达与地衣树皮环境拟态以实现伪装的生物学功能。",
+      "mysterious": "错误。“神秘的”。属于带有主观文学情感或不可知论色彩的词汇，缺乏学术严谨性；在描述严谨的捕食与伪装机制时，生物学界一律使用规范科技术语 cryptic，而非带有神秘浪漫色彩的 mysterious。"
+    },
+    "translation": "这种夜行壁虎利用保护色来躲避顶级捕食者，使其与附满地衣的树皮几乎难辨彼此，从而使热带雨林冠层的常规目视普查收效甚微。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_10",
+    "group_id": 405,
+    "group_name": "cryptic, inexplicable, deep, mysterious",
+    "level": "TEM-8",
+    "target_word": "inexplicable",
+    "question": "The sudden, catastrophic collapse of the alpine glacier was virtually ___ by known thermodynamic principles, compelling geophysicists to investigate undetected subglacial geothermal vents beneath the granite bedrock.",
+    "options": [
+      "cryptic",
+      "inexplicable",
+      "deep",
+      "mysterious"
+    ],
+    "answer": "inexplicable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Strict academic syntactic-collocational structure 'virtually ___ by [scientific principles]', which unequivocally selects 'inexplicable' (incapable of being accounted for by a theoretical framework).",
+    "distractor_analysis": {
+      "inexplicable": "正确。“无法由……解释的/不能说明的”。在学术论述中，'inexplicable by [laws/principles/mechanisms]' 属于极其严密的学术句法搭配，表示某一自然异象在现行理论或物理定律框架下无法获得因果解释，完全契合后文地质学家探寻未发现地热源的因果逻辑。",
+      "cryptic": "错误。“隐蔽的/使用密码的”。在句法上无法与 'by known thermodynamic principles' 构成介词搭配，在语意上用于形容自然物理坍塌过程亦属严重搭配不当。",
+      "deep": "错误。“深沉的/深度的”。无法与介词短语 'by known thermodynamic principles' 构成表'被原理所阐明'的受动语义关系，代入句中完全无法成理。",
+      "mysterious": "错误。“神秘的”。虽然可形容未解自然现象，但属于主观描摹词，在句法上不可接 'by known thermodynamic principles'（英语中不存在 'mysterious by principles' 这一介词搭配结构），且不具备学术语体所需的‘无法通过物理机制推导验证’的排他性学理内涵。"
+    },
+    "translation": "这座高山冰川突然发生的灾难性坍塌几乎无法用已知的热力学原理解释，这迫使地球物理学家去探查花岗岩基岩下方未被发现的冰下地热喷孔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_11",
+    "group_id": 406,
+    "group_name": "cursory, perfunctory, casual, careless",
+    "level": "TEM-8",
+    "target_word": "cursory",
+    "question": "Given the vast breadth of the archival material and the stringent space limitations of this monograph, the introductory chapter provides a necessarily ___ survey of the treaty negotiations rather than an exhaustive analysis.",
+    "options": [
+      "cursory",
+      "perfunctory",
+      "casual",
+      "careless"
+    ],
+    "answer": "cursory",
+    "primary_mechanism": "MECH_DISCOURSE_CONTRAST",
+    "field": "FIELD_ACADEMIC_RESEARCH",
+    "anchor_clue": "句尾 'rather than an exhaustive analysis'（而非详尽透彻的剖析）形成了决定性的反义对仗锚点，在语义层级上要求填入表示'简要掠过、走马观花'的词汇（exhaustive 为各大权威词典中 cursory 的首要反义词）；同时，前文 'necessarily ___ survey' 构成学术元话语中承认篇幅受限时的经典固定搭配。",
+    "distractor_analysis": {
+      "cursory": "正确。cursory 源自拉丁语 currere（奔跑），核心语义为 'rapidly and superficially performed, hasty'（仓促快速的、略看表面的）。在学术专著与高阶文献中，'a necessarily cursory survey / overview' 是极高频且规范的学术元话语搭配，用于客观交代受篇幅或主旨所限而作的'简要概括'；与后文的 'exhaustive'（详尽的、彻底的）构成严谨精确的语义反义对仗，完美符合句意逻辑与学术语体。",
+      "perfunctory": "错误。perfunctory 侧重于 'done merely as a routine duty, lacking interest or enthusiasm'（例行公事的、敷衍机械的），描述的是态度上的冷漠怠惰与应付差事（其反义词为 diligent 或 enthusiastic）。学术专著作者绝不会在导论中声称自己的学术综述是'出于敷衍应付而做'（necessarily perfunctory），这在学术伦理、作者意图与语体逻辑上均严重不通。",
+      "casual": "错误。casual 意为 'showing little concern, nonchalant, informal'（随意的、漫不经心的、非正式的）。用于修饰严肃的历史档案学术综述会造成严重的语体破裂（register clash）；此外，'necessarily casual' 在逻辑上属于语义矛盾，因为 casual 强调无拘无束、主观松弛的状态，无法被客观的'空间限制（space limitations）'必然迫使产生。",
+      "careless": "错误。careless 意为 'not taking proper care; negligent'（粗心的、疏忽大意的），其核心特征在于犯错与疏漏（反义词为 careful 或 meticulous）。严谨的学者因专著篇幅受限而择要叙述（cursory），绝非疏忽犯错或不负责任（careless），选用 careless 会造成荒谬的逻辑语义偏差。"
+    },
+    "translation": "鉴于档案文献卷帙浩繁且本专著的篇幅限制严格，导论章节对条约谈判仅作了必然较为简略的综述，而非详尽透彻的剖析。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_12",
+    "group_id": 406,
+    "group_name": "cursory, perfunctory, casual, careless",
+    "level": "TEM-8",
+    "target_word": "perfunctory",
+    "question": "The envoy delivered only a ___ apology on behalf of the administration, but the complete absence of restitution revealed that his statement was merely an empty diplomatic formality.",
+    "options": [
+      "cursory",
+      "perfunctory",
+      "casual",
+      "careless"
+    ],
+    "answer": "perfunctory",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "修饰言语行为名词 'apology'，且后文具有决定性同位解释锚点 'merely an empty diplomatic formality'（仅仅是一种空洞的外交形式）与 'complete absence of restitution'（毫无实际赔偿）。",
+    "distractor_analysis": {
+      "perfunctory": "正确。perfunctory 源自晚期拉丁语 perfunctorius，指某事仅仅作为例行程序、义务或差事来敷衍了事，缺乏真情实感与实质投入。在此处修饰 'apology'（道歉），精准指向后文所定性的 'empty diplomatic formality'（徒有其表的外交虚饰）与敷衍塞责，属权威英语典范搭配。",
+      "cursory": "错误。cursory 仅用于指代目光、审阅、检验在时间上的短促与草率（如 cursory glance/review），不能用来修饰'道歉（apology）'、'哀悼（condolence）'等社会礼仪或道德言语行为，存在严重的搭配断裂（collocational rupture）。",
+      "casual": "错误。casual 意为'随便的、非正式的'，虽然可以修饰语气或态度，但在特指政府特使（envoy）代表官方管理层进行的正式交涉中，外交行为本身是高度严肃的程序，选用 casual 会导致语体失衡，且无法准确表达'履行既定职责却毫无诚意'这一核心制度性批判。",
+      "careless": "错误。careless 指'不小心的、疏忽过失的'，强调主观失误或缺乏谨慎（如 careless mistake）。官方特使在外交场合的致歉是经过深思熟虑、精巧控制的虚与委蛇，绝非无心之失的'粗心'，与上下文语境及政治逻辑彻底背离。"
+    },
+    "translation": "特使代表当局仅仅作出了一番敷衍了事的道歉，但实质性赔偿的完全缺位表明，他的声明不过是一种空洞的外交走过场。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_13",
+    "group_id": 407,
+    "group_name": "doomed, fated, sure, certain",
+    "level": "TEM-8",
+    "target_word": "doomed",
+    "question": "Bereft of grassroots legitimacy and crippled by insurmountable sovereign debt, the transitional government was ___ to ignominious collapse, unable to withstand the relentless onslaught of populist insurgencies.",
+    "options": [
+      "doomed",
+      "fated",
+      "sure",
+      "certain"
+    ],
+    "answer": "doomed",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配与悲剧性语义色彩（to ignominious collapse）：sure 与 certain 接名词短语时必须用介词 of，接 to 时只能跟动词不定式（*sure/certain to collapse 为动词，但此处有形容词 ignominious 修饰，to 必为介词）；fated 倾向于中性或宏大宿命，而 doomed 与表示毁灭、破产、灭亡的名词（如 collapse, failure, extinction）构成固定悲剧性沉沦搭配。",
+    "distractor_analysis": {
+      "doomed": "正确。doomed 意为“注定灭亡的；劫数难逃的”（determined by tragic fate / condemned to ruin or destruction）。语法上，doomed to 属于极其经典的固定搭配，其中 to 为介词，后接表示灾难、毁灭或不可挽回结局的名词短语（如 ignominious collapse, failure, oblivion）；语义上，它与前文的“缺乏合法性”及“深陷主权债务”等走向毁灭的消极语境严丝合缝。",
+      "fated": "排除。fated 指“命中注定的”，侧重命运（fate/destiny）的先验预定，但其本身为中性词，多用于重大历史角色、浪漫际遇或天意（如 fated to be a leader），且现代英语中通常接动词不定式（fated to do）；在修饰政治体制因内在结构性缺陷而走向“可耻崩溃（ignominious collapse）”这一纯粹负面且具惩罚性结局时，doomed to 是绝对优势且合乎惯用法语义的搭配，fated 无法表达注定遭殃受劫的强烈贬义色彩。",
+      "sure": "排除。句法直接违规。sure 表示“必然发生的；确信的”，若用于 predicative 结构且后接名词短语，必须使用介词 of（如 sure of collapse）；若接 to，则 to 必须为不定式符号后接动词原形（如 sure to fail）。本句空格后为“to + 形容词 (ignominious) + 名词 (collapse)”，此处 to 为介词，故 sure to ignominious collapse 构成严重句法错误。",
+      "certain": "排除。句法直接违规。certain 与 sure 一致，表示认识论上的确定性（epistemic certainty）。当它后接名词短语时，介词必须用 of 或 about（certain of victory/failure）；当接 to 时只能构成动词不定式（certain to collapse）。将 certain 置于介词短语 to ignominious collapse 之前属于典型的介词误用与句法破裂。"
+    },
+    "translation": "过渡政府既缺乏基层民众的合法性认可，又受到难以逾越的主权债务的沉重打击，注定要遭遇可耻的崩溃，根本无力抵御民粹主义反叛势力的无情冲击。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_14",
+    "group_id": 407,
+    "group_name": "doomed, fated, sure, certain",
+    "level": "TEM-8",
+    "target_word": "fated",
+    "question": "Convinced by astrological portents and ancestral lore that his lineage was ___ to restore the dynasty’s celestial mandate, the emperor embarked on a sweeping campaign of territorial reclamation.",
+    "options": [
+      "doomed",
+      "fated",
+      "sure",
+      "certain"
+    ],
+    "answer": "fated",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境决定性语义场（astrological portents and ancestral lore）与积极宿命目标（to restore the dynasty’s celestial mandate）：doomed 具有绝对的悲剧/毁灭极性，无法用于光复天命这一积极愿景；sure 与 certain 仅指经验或认知层面的概率性确定，与超自然/占星预兆所昭示的“上天宿命（predestined by fate）”产生风格与语义割裂。",
+    "distractor_analysis": {
+      "fated": "正确。fated 意为“命中注定的；受命运支配的”（predetermined by fate or destiny）。一方面，前文的“占星预兆与祖传秘术（astrological portents and ancestral lore）”明确锚定了具有超自然、先验天命性质的认知语境；另一方面，后文接动词不定式“restore the dynasty’s celestial mandate（光复王朝天命）”为庄严、积极的使命，与 fated to 的崇高宿命用法完全匹配。",
+      "doomed": "排除。感情色彩与逻辑方向发生严重冲突。doomed 词义严格限定于“注定失败、灭亡或遭殃”（determined by tragic fate），带有不可逆转的消极灾难色彩。皇帝绝不可能根据吉兆认定自己的血脉“注定遭受灭亡”去恢复天命，语义完全背道而驰。",
+      "sure": "排除。语义范畴与语体风格不匹配。sure 侧重主观上的有把握或客观事件的必然趋势（epistemic certainty），属于世俗或经验常理范畴的推断，缺乏“宿命、神谕天定”的超越性维度；用在“占星预兆”与“天命”这种浓厚宿命论的历史叙事语境中，sure to restore 显得口语化且在哲学语义上严重降格。",
+      "certain": "排除。certain 指基于证据、逻辑或必然规律的“必然”，属于客观确凿性范畴，无法体现命运（Fate/Providence）对血统先验设定的神秘感；且在与 ancestral lore 和 astrological portents 呼应时，英语学术文本中唯有 fated 能精准对应“受命运定数所驱使”的核心内涵。"
+    },
+    "translation": "受占星预兆与先祖秘传的启发，皇帝深信自己的家族血脉命中注定要光复王朝的天命，遂发起了一场大规模的领土收复战役。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_15",
+    "group_id": 408,
+    "group_name": "elated, jubilant, joyful, joyous",
+    "level": "TEM-8",
+    "target_word": "elated",
+    "question": "Although the lead geneticist maintained an air of professional detachment, she was quietly ___ by the replication data, which finally dispelled all skepticism regarding her laboratory's revolutionary gene-editing protocol.",
+    "options": [
+      "elated",
+      "jubilant",
+      "joyful",
+      "joyous"
+    ],
+    "answer": "elated",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame '___ by the replication data' coupled with the preceding modifier 'quietly' provides a dual syntactic and semantic anchor. Only 'elated' (originating as a deverbal participial adjective from 'elate') governs the causative preposition 'by' to denote being filled with soaring spirits or pride by an achievement. Furthermore, 'quietly elated' precisely captures an internal, restrained cognitive state, whereas 'quietly jubilant' is an oxymoronic contradiction with jubilant's demonstrative, vocal nature.",
+    "distractor_analysis": {
+      "elated": "正确。作表语形容词时，elated 源自及物动词 elate 的过去分词，能够自然接介词 by 引出激发强烈欣喜与振奋情绪的诱因（elated by the data）；在语义语境上，elated 聚焦于个体因研究成果获证实而产生的内心自豪与极度振奋，与副词 quietly 及句首让步分句 an air of professional detachment（专业上的超然克制）形成完美的语境呼应（表面克制而内心振奋）。",
+      "jubilant": "错误。语法搭配上，jubilant 源自拉丁语不及物动词 iūbilāre（欢呼、呼喊），通常接介词 at、over 或 about，不与引导施事/诱因的介词 by 搭配（无 *jubilant by 结构）；语意修辞上，jubilant 强调喧闹、外显的欢腾与庆祝，与修饰语 quietly（暗自、静静地）存在严重的修辞冲突（oxymoron）。",
+      "joyful": "错误。语法上，joyful 表达对某事感到高兴时常搭配 at、in 或 over，不可后接 by 引导原因（*joyful by 属于严重搭配错误）；语义上，joyful 偏向于普遍、温和的喜悦与满足感，缺乏在科学实证与学术质疑消散后所特有的“如释重负、心智受振奋”（intellectual/cognitive elevation）的特定内涵。",
+      "joyous": "错误。joyous 属于强定语倾向形容词（attributive-dominant），多用于修饰喜庆的场合、盛事或节日气氛（如 joyous occasion），极少用作人称表语；且在现代英语中完全不能与介词 by 搭配（无 *joyous by 用法），语体与认知语境严重脱节。"
+    },
+    "translation": "尽管这位首席遗传学家始终保持着专业上的从容自持，但可重复的实验数据终于彻底驱散了对其团队开创性基因编辑方案的一切质疑，这让她内心暗自感到由衷的振奋与欣慰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_16",
+    "group_id": 408,
+    "group_name": "elated, jubilant, joyful, joyous",
+    "level": "TEM-8",
+    "target_word": "jubilant",
+    "question": "Following the unexpected collapse of the autocratic regime, ___ scenes erupted across the capital as thousands poured into the central square, their clamorous chants and celebratory car horns reverberating through the night.",
+    "options": [
+      "elated",
+      "jubilant",
+      "joyful",
+      "joyous"
+    ],
+    "answer": "jubilant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The institutional noun collocation '___ scenes' in dynamic combination with the burst verb 'erupted' and the subsequent auditory evidence of political victory ('clamorous chants and celebratory car horns reverberating') uniquely demands 'jubilant'. 'Elated' is an experiencer-state participial adjective restricted to animate beings (*elated scenes is syntactically invalid), while 'joyful' and 'joyous' evoke harmonious, serene, or festive gladness and clash with the explosive, triumphal eruption over a vanquished regime.",
+    "distractor_analysis": {
+      "jubilant": "正确。jubilant scenes 为高阶国际政治新闻（如 The Economist, BBC, The Guardian）中报道政权垮台、重大历史胜利时的标志性固定搭配；词源上源自拉丁语 iūbilāre（高声欢呼、凯旋呐喊），完美契合后文动词 erupted（爆发）所体现的突发性与爆发力，以及 clamorous chants（喧闹的口号）与 car horns reverberating（汽车鸣笛回荡）所描摹的凯旋欢腾氛围。",
+      "elated": "错误。语法与选择限制（selectional restriction）不符。elated 本质上是由动词 elate 派生而来的心理状态体验者分词形容词（experiencer adjective），主语或修饰对象必须是具备感知能力的生命体（如 elated citizens, elated crowds）或其内在精神（如 elated mood），绝对不能修饰无生命的外在事件或场面名词（*elated scenes 属于严重的范畴错配与搭配断裂）。",
+      "joyful": "错误。语用与搭配失配。joyful 侧重指纯粹的、祥和的心中喜悦或令人愉快的消息（feeling or causing gladness/happiness，如 joyful heart, joyful news），缺乏战胜政治对手、推翻敌对阵营时的“凯旋与征服”（triumph over an adversary）语义要素；在语料库中，joyful 几乎不与表示群体性情绪剧烈迸发的动词 erupted 连用，与嘈杂喧闹的政治胜利庆祝语境格格不入。",
+      "joyous": "错误。语体与语义断裂。joyous 在当代英语中多作定语修饰带来欢乐的节日、庆典、婚礼或宗教盛事（如 joyous occasion, joyous Christmas），传达出和睦、神圣或温馨的喜庆氛围；用其修饰带有强烈政治博弈对抗色彩、伴随狂乱鸣笛与抗议式呼喊的暴发性场面（erupted scenes），存在明显的语域与感情色彩冲突。"
+    },
+    "translation": "随着独裁政权的意外倒台，欢腾雀跃的庆祝场面在首都各地爆发；成千上万的人涌入中心广场，喧天的口号声与欢庆的汽车鸣笛声在夜空中久久回荡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_17",
+    "group_id": 409,
+    "group_name": "exalted, sublime, grand, lofty",
+    "level": "TEM-8",
+    "target_word": "exalted",
+    "question": "Included in an anthology alongside seminal essays by Virginia Woolf and Walter Benjamin, the novice critic found herself in such ___ company that reviewers questioned whether her interpretive rigor justified the inclusion.",
+    "options": [
+      "exalted",
+      "sublime",
+      "grand",
+      "lofty"
+    ],
+    "answer": "exalted",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "Forms the established academic and literary idiom 'in (such) exalted company' (lexicalized in Longman, Collins, and Cambridge), specifically denoting placement alongside eminent, canonical masters; 'sublime', 'grand', and 'lofty' are collocationally invalid and carry incompatible aesthetic, physical, or pejoratively haughty connotations.",
+    "distractor_analysis": {
+      "exalted": "【正确】“in (such) exalted company”为英语学术批评与高等文雅语域中高度定型的习语（《朗文当代高级英语辞典》《柯林斯高级英汉双解词典》等均专门立项收录），专指“置身于极负盛名、地位崇高的大家/名流之列”。句中修饰伍尔夫与本雅明等经典学者构成的至高学术群体，与后文的“interpretive rigor”（阐释严谨性）形成严密的逻辑呼应，完全契合题意。",
+      "sublime": "【错误】美学范畴错配。“sublime”（崇高的）源于哲学与美学概念（如朗吉努斯、伯克与康德的“崇高论”），主要形容引起崇高敬畏感、精神震撼的自然力量、艺术杰作或道德壮举（如 sublime landscape, sublime sacrifice），绝不与“company”搭配来指代同行名流群体，属于典型的语义范畴错配。",
+      "grand": "【错误】语义与语体偏差。“grand”侧重于物理空间的宽广宏大、建筑外观的堂皇或计划抱负的宏伟（如 grand scale, grand scheme），修饰“company”时仅能指规模庞大的商业特许公司，或带有古旧的社交排场意味，无法传达学术或文学史上享有崇高威望的大师阶位。",
+      "lofty": "【错误】搭配断裂与内涵冲突。“lofty”常修饰物理高度（lofty spires）、高远抱负（lofty ideals）或傲慢神态（lofty disdain）。英语中不存在“in such lofty company”这一表示跻身名宿之列的规范习语；更关键的是，当“lofty”直接形容人或人群态度时，常带有居高临下、傲慢冷漠（haughty and aloof）的负面评价色彩，若代入此处将把伍尔夫与本雅明误读为“自视甚高、傲慢自大之人”，严重背离语境所预设的敬畏基调。"
+    },
+    "translation": "由于被收录在一本与弗吉尼亚·伍尔夫和瓦尔特·本雅明的开创性论文并列的文集之中，这位初出茅庐的批评家发现自己置身于如此显赫的名家之列，以至于评论家们不禁质疑她的阐释严谨度是否真正配得上这种待遇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_18",
+    "group_id": 409,
+    "group_name": "exalted, sublime, grand, lofty",
+    "level": "TEM-8",
+    "target_word": "sublime",
+    "question": "Rather than finding tranquil beauty in the alpine tempest, the early naturalists were seized by a ___ terror, an awe-inspiring yet perilous state of consciousness wherein nature's boundless power overwhelmed finite human reason.",
+    "options": [
+      "exalted",
+      "sublime",
+      "grand",
+      "lofty"
+    ],
+    "answer": "sublime",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Anchored in the 18th-century aesthetic dichotomy contrasting 'tranquil beauty' with 'sublime terror'—a Burkean/Kantian term denoting awe mixed with dread before nature's overwhelming, boundless power.",
+    "distractor_analysis": {
+      "sublime": "【正确】在自然美学与哲学传统（特别是博克与康德的美学体系）中，“sublime terror”是经典核心术语，专指面对狂暴、无限的自然伟力时所产生的那种集震颤、惊恐与精神崇高感于一体的审美体验，与前文的“tranquil beauty”（静谧之美）构成严格的美学二元对立。",
+      "exalted": "【错误】带有强烈的积极赞美色彩，指道德纯洁、地位崇高或宗教式的狂喜亢奋（如 exalted joy），无法修饰带有毁灭性威胁与惊惧感的“terror”，二者在情感极性上严重冲突。",
+      "grand": "【错误】指宏大、气派或大规模；当“grand”修饰“terror”时，在英语中通常指政治历史语境下的“大规模恐怖统治”（如 Grand Terror），与荒野自然激发的个体审美心理体验完全无关。",
+      "lofty": "【错误】强调物理高度的高耸（如 lofty crags）或态度的居高临下，在语义上无法与表征深层心理震撼与敬畏之悚然的“terror”形成有效搭配，搭配破裂。"
+    },
+    "translation": "早期的博物学家并未在高山风暴中觅得静谧之美，反而被一种崇高的恐惧所攫住——那是一种令人心生敬畏却又深感危殆的意识状态，自然那无边无际的力量在其中彻底压倒了有限的人类理性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_19",
+    "group_id": 410,
+    "group_name": "gallant, majestic, lofty, proud",
+    "level": "TEM-8",
+    "target_word": "gallant",
+    "question": "In her monograph on constitutional law, the scholar mounted a ___ defense of civil liberties against encroaching state surveillance, earning praise for her courage under intense political intimidation.",
+    "options": [
+      "gallant",
+      "majestic",
+      "lofty",
+      "proud"
+    ],
+    "answer": "gallant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配 'mounted a ___ defense of...'（进行英勇顽强的捍卫）以及后文语义锚点 'courage under intense political intimidation'（在政治恐吓下展现的勇气），决定了此处必须选用表征'面对强权或危难时不屈不挠、英勇果敢'的形容词。",
+    "distractor_analysis": {
+      "gallant": "正确。gallant 意为'英勇的、顽强的、大义凛然的'，在政治与学术争辩语境中，'mount a gallant defense' 为极具辨识度的固定搭配，专门用于形容面对压迫或逆境时所作出的勇敢捍卫，与后文 'courage under intense political intimidation' 形成严密的逻辑与语义呼应。",
+      "majestic": "错误。majestic 强调'威严庄重的、雄伟宏大的、带有皇室般气派的'，用于描绘外在景观、宏大气势或庄严举止（如 majestic mountains, majestic prose），不可用于形容人在面对政治恐吓时的勇敢防御行为。",
+      "lofty": "错误。lofty 强调思想、抱负的'崇高的、高尚的'，或指物理高度'巍峨的'以及态度上的'傲慢冷漠'（如 lofty ideals, lofty disdain）。虽然学者可持有 lofty ideals，但不能修饰 'defense against intimidation' 来表示英勇反抗，搭配不当。",
+      "proud": "错误。proud 意为'自豪的、得意的'或'傲慢的'（如 proud record, proud heritage），多作表语或修饰具有显赫历史的成就，无法与 'defense of civil liberties under intimidation' 形成表征'英勇抗击'的学术修辞搭配。"
+    },
+    "translation": "在关于宪法学的专著中，这位学者面对日益侵蚀权利的国家监控，为公民自由进行了英勇顽强的捍卫，因其在严峻政治恐吓下展现的勇气而备受赞誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b40_20",
+    "group_id": 410,
+    "group_name": "gallant, majestic, lofty, proud",
+    "level": "TEM-8",
+    "target_word": "majestic",
+    "question": "Scholars have long celebrated the ___ sweep of Edward Gibbon’s monumental prose, whose stately phrasing and panoramic breadth capture the inexorable decline of the Roman Empire with sovereign dignity.",
+    "options": [
+      "gallant",
+      "majestic",
+      "lofty",
+      "proud"
+    ],
+    "answer": "majestic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心搭配 'the ___ sweep of... prose'（气势磅礴的散文格局）与后文语义锚点 'stately phrasing'（庄重典雅的措辞）及 'sovereign dignity'（如君王般庄严的尊严）形成了严格的词义锁定，唯有具备'至高尊严与庄严宏阔'语义的形容词方能契合。",
+    "distractor_analysis": {
+      "majestic": "正确。majestic 意为'雄伟壮丽的、气势磅礴的、庄严高贵的'，文学批评中 'majestic sweep' 是高度地道且固定的学术搭配，用于形容宏大叙事或经典文体气势恢宏的开阔纵深；且本词源自 majesty，与后文 'stately'（庄重的）和 'sovereign dignity'（君王般的尊严）具有同源的语义呼应。",
+      "gallant": "错误。gallant 核心语素聚焦于'英勇、侠义、不畏艰险'（如 gallant effort/soldier），无法修饰史学巨著的叙事气魄或文字意境（sweep），属于范畴搭配错误。",
+      "lofty": "错误。lofty 虽可形容理想高远或文风高雅（如 lofty style），但通常不与 'sweep' 搭配使用（没有 'lofty sweep' 的习惯用法）；且 lofty 侧重垂直高度或道德升华，无法契合句中由 'sovereign dignity' 所明确限定的王权般威严与宏大壮丽感。",
+      "proud": "错误。proud 侧重主观上的自尊、自满或傲气（如 proud glance），无法用于形容散文风格中庄严肃穆、规模浩瀚的美学境界，'proud sweep' 属于典型的搭配断裂。"
+    },
+    "translation": "学者们长期以来一直赞颂爱德华·吉本那部不朽史著所展现的磅礴气象，其庄重沉稳的文辞与宏阔全景式的视野，以君王般的从容尊严再现了罗马帝国的必然衰亡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

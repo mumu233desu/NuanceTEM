@@ -143,6 +143,66 @@ Output a JSON array containing the 2 question objects with exact fields:
 ]"""
     return prompt
 
+def build_single_generator_user_prompt(
+    cluster: Dict[str, Any],
+    q_id: str,
+    target_word: str,
+    mw_examples: List[str],
+    mw_defs: Optional[List[str]] = None,
+    primary_mechanism: Optional[str] = None
+) -> str:
+    words_str = ", ".join(cluster["words"])
+    mech = primary_mechanism or cluster.get("primary_mechanism", "MECH_COLLOCATION")
+    mw_ex_text = "\n".join([f"- {ex}" for ex in mw_examples[:5]]) if mw_examples else "None available (rely on standard dictionary definitions)."
+    mw_def_text = "\n".join([f"- {d}" for d in (mw_defs or [])[:3]]) if mw_defs else cluster.get('synset_definition', '')
+
+    prompt = f"""Please generate exactly 1 TEM-8 examination question for the following synonym cluster:
+
+[CLUSTER METADATA]
+- Cluster Words: {words_str} (All 4 must appear as options)
+- Target Word: {target_word} (100% TEM-8 starred, MUST be the correct answer)
+- Part of Speech: {cluster['pos']}
+- Functional Discourse Field: {cluster.get('field', 'FIELD_COGNITION')}
+- Primary Mechanism: {mech}
+- Theme: {cluster.get('theme_label', '')}
+
+[AUTHENTIC MERRIAM-WEBSTER DEFINITIONS & EXAMPLES]
+Official MW Definitions:
+{mw_def_text}
+
+Full Authentic Examples & Publications (Uncut):
+{mw_ex_text}
+
+[REQUIREMENTS FOR THE QUESTION]
+- Question ID: "{q_id}"
+- Target answer: "{target_word}".
+- All 4 options MUST strictly be [{words_str}].
+- Focus primarily on {mech}.
+- Decisive anchor clue and rigorous distractor analysis for all 4 options.
+
+Output a single valid JSON question object with exact fields:
+{{
+  "id": "{q_id}",
+  "group_id": {cluster['group_id']},
+  "group_name": "{words_str}",
+  "level": "TEM-8",
+  "target_word": "{target_word}",
+  "question": "The sentence with exactly one '___' placeholder and 20~38 words...",
+  "options": ["{cluster['words'][0]}", "{cluster['words'][1]}", "{cluster['words'][2]}", "{cluster['words'][3]}"],
+  "answer": "{target_word}",
+  "primary_mechanism": "{mech}",
+  "field": "{cluster.get('field', 'FIELD_COGNITION')}",
+  "anchor_clue": "Decisive anchor clue explaining why other 3 options are strictly excluded...",
+  "distractor_analysis": {{
+    "{cluster['words'][0]}": "Detailed explanation...",
+    "{cluster['words'][1]}": "Detailed explanation...",
+    "{cluster['words'][2]}": "Detailed explanation...",
+    "{cluster['words'][3]}": "Detailed explanation..."
+  }},
+  "translation": "Accurate and elegant Chinese translation of the sentence."
+}}"""
+    return prompt
+
 # 3. 审校专家 System Prompt (Layer 2 LLM Reviewer)
 SYSTEM_PROMPT_REVIEWER = """You are a Rigorous Academic Peer Reviewer and Senior Psychometrician for the TEM-8 national test committee.
 

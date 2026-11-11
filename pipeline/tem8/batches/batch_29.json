@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b29_01",
+    "group_id": 291,
+    "group_name": "arbitrate, broker, mediate, bargain",
+    "level": "TEM-8",
+    "target_word": "arbitrate",
+    "question": "Under the revised bilateral investment treaty, an independent tribunal was established with full adjudicative power to ___ complex jurisdictional disputes and render awards that are legally binding on both sovereign states.",
+    "options": [
+      "arbitrate",
+      "broker",
+      "mediate",
+      "bargain"
+    ],
+    "answer": "arbitrate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中关键限定短语为“with full adjudicative power to ___ complex jurisdictional disputes and render awards that are legally binding”。根据韦氏词典，arbitrate 意为“to act as arbiter upon; settle after hearing arguments; DECIDE”，专指仲裁机构依据司法裁决权解决争议并作出有约束力的裁决；而 mediate 专指无裁决权的非约束性调解，broker 宾语只能是达成的协定而非争议本身，bargain 无法及物支配 disputes。",
+    "distractor_analysis": {
+      "arbitrate": "【正确】作及物动词时意为“仲裁，公断（争端等）”。句中明确指出该独立仲裁庭被赋予“完全的裁决权”（full adjudicative power），以审理并解决主权国家间的“管辖权争议”（jurisdictional disputes），且后续可发出具法律约束力的“裁决书”（render awards）。语域、语法及法律专业搭配完全吻合。",
+      "broker": "【排除】作及物动词时意为“安排，促成，斡旋（协议、停火、交易等）”，其支配的典型宾语是所达成的协定或积极结果（如 broker an agreement / truce），不能以“disputes（争议、矛盾）”直接作为宾语（不可说 broker a dispute），搭配严重破裂。",
+      "mediate": "【排除】意为“调解，调停”。在法律与国际关系中，调解（mediation）是一种促使当事方自行协商妥协的非强制性辅助手段；调解人没有“裁决权”（adjudicative power），也绝不可能作出具法律约束力的“裁决”（render legally binding awards）。填入此处会导致句意逻辑发生根本冲突。",
+      "bargain": "【排除】主要用作不及物动词（如 bargain with sb. for/over sth.，意为讨价还价、协商）；极少用作及物动词，即使及物也表示“商定出售”或见于固定短语“bargain away（牺牲、放弃）”，在语法上无法直接跟 disputes 作宾语，且中立仲裁庭绝不能用 bargain 表示审理裁决。"
+    },
+    "translation": "根据修订后的双边投资协定，成立了一个拥有完全裁决权的独立仲裁庭，用以仲裁复杂的管辖权争端，并作出对两个主权国家均具有法律约束力的裁决。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_02",
+    "group_id": 291,
+    "group_name": "arbitrate, broker, mediate, bargain",
+    "level": "TEM-8",
+    "target_word": "broker",
+    "question": "After months of inconclusive national elections, seasoned political envoys intervened to ___ a fragile governing coalition among disparate parliamentary factions, thereby averting an imminent constitutional breakdown.",
+    "options": [
+      "arbitrate",
+      "broker",
+      "mediate",
+      "bargain"
+    ],
+    "answer": "broker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中动词的直接宾语为“a fragile governing coalition”（脆弱的执政联盟）。broker 专指作为中介人“促成、策划、安排（协议、妥协、联盟等）”（MW: to arrange or plan an agreement or compromise often by negotiating），在政治和外交语域中“broker a coalition / alliance”属于权威固定搭配。arbitrate 的宾语必须是冲突或争议；mediate 不能及物支配具体建构的政治联盟；bargain 无法接该宾语。",
+    "distractor_analysis": {
+      "broker": "【正确】作及物动词意为“促成，斡旋，安排（协议、联盟、妥协等）”。在政治与外交英语中，“broker a coalition / agreement / pact”是极具代表性的地道搭配，完美契合特使在互不相让的派系间奔走斡旋、促成脆弱执政联盟的行为语境。",
+      "arbitrate": "【排除】意为“仲裁，裁决”，其支配宾语必须是存在对抗与分歧的“争议、索赔、劳资纠纷”（如 arbitrate a dispute / claim），不可接具有合作共识性质的政治实体“governing coalition”，语义和搭配均不成立。",
+      "mediate": "【排除】意为“居中调解”。mediate 的宾语通常是冲突事件本身（如 mediate a dispute / crisis）或通过介词指示对象（mediate between factions）；英语中不能直接说 mediate a coalition，因为“调解”旨在化解对立，无法及物支配建构起来的政治联盟体系。",
+      "bargain": "【排除】主要用作不及物动词（常与 with/over 连用）；在当代标准学术英语中，bargain 不能作为及物动词直接接 coalition 作宾语（不存在 bargain a coalition 这种用法），存在不可接受的句法断裂。"
+    },
+    "translation": "在数月未决的全国大选之后，经验丰富的政治特使介入其中，在各不同议会派系之间斡旋促成了一个脆弱的执政联盟，从而避免了一场迫在眉睫的宪政危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_03",
+    "group_id": 292,
+    "group_name": "assimilate, clot, reinstate, end",
+    "level": "TEM-8",
+    "target_word": "assimilate",
+    "question": "Cognitive neuroscientists observed that novice researchers struggle to ___ complex theoretical frameworks into their preexisting epistemological schemas without extensive scaffolding from experienced senior mentors.",
+    "options": [
+      "assimilate",
+      "clot",
+      "reinstate",
+      "end"
+    ],
+    "answer": "assimilate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive transitive cognitive collocation 'assimilate [abstract concepts/frameworks] into [schemas]', echoing Piagetian cognitive schema theory, which semantically and syntactically excludes all physiological, restorative, or terminative verbs.",
+    "distractor_analysis": {
+      "assimilate": "正确。assimilate在此处作及物动词，意为“吸收、消化并纳入（知识或概念体系）”，常与介词 into 搭配（assimilate sth into sth）。在认知心理学与认识论语境中，“assimilate complex theoretical frameworks into their preexisting epistemological schemas”（将复杂的理论框架融入既有的认知图式）属于经典认知同化机制，介词搭配与学术语域完全吻合。",
+      "clot": "错误。clot 主要用作不及物动词或血液学及物动词，表示“（液体、血液）凝结成块”或比喻“阻塞”，既无法带“theoretical frameworks”作宾语，也无法与“into schemas”构成合理语义，出现严重的语义场与搭配割裂。",
+      "reinstate": "错误。reinstate 为及物动词，意为“使复职；恢复（职位、制度、有效性）”，常见搭配为 reinstate a policy/order/official，通常接介词 to、as 或 in，无法与“into schemas”搭配，在认识论习得语境中语义不通。",
+      "end": "错误。end 用作及物动词意为“终止、终结”（如 end a war/dispute），既无法与抽象概念吸收的语境相匹配，也无法与表示融入的介词短语“into preexisting schemas”形成规范的动词补足结构。"
+    },
+    "translation": "认知神经科学家观察到，若缺乏资深导师的广泛支架式引导，初级研究人员很难将复杂的理论框架融入其原有的认识论认知图式之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_04",
+    "group_id": 292,
+    "group_name": "assimilate, clot, reinstate, end",
+    "level": "TEM-8",
+    "target_word": "clot",
+    "question": "In patients predisposed to deep vein thrombosis, prolonged vascular stasis causes pooled venous blood to ___, thereby precipitating fatal thromboembolic complications unless therapeutic anticoagulants are promptly and aggressively administered.",
+    "options": [
+      "assimilate",
+      "clot",
+      "reinstate",
+      "end"
+    ],
+    "answer": "clot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_PHYSIOLOGY",
+    "anchor_clue": "Precise pathophysiological collocation 'causes pooled venous blood to clot' leading directly to 'fatal thromboembolic complications', satisfying the intransitive biological requirement of blood coagulation.",
+    "distractor_analysis": {
+      "clot": "正确。clot 作不及物动词时意为“（血液）凝结、形成血栓”，与主语“pooled venous blood”（淤积的静脉血）形成高度严谨的病理生理学核心搭配（blood clots），准确表述了魏尔啸三联征（Virchow's triad）中血流淤滞诱发血液凝聚并导致致命血栓栓塞并发症的过程。",
+      "assimilate": "错误。assimilate 意为“吸收、同化”，作不及物动词时通常需搭配介词 into（如融入群体或机体同化），无法由“淤积的血液”充当主语，在生理病理学语境中既无搭配依据，也不符合语义逻辑。",
+      "reinstate": "错误。reinstate 为及物动词，意为“恢复、使复职”，后面必须接宾语（如 reinstate blood flow）。空后直接为副词连接词“thereby”，句法上严重缺失宾语，构成不可调和的及物性句法冲突。",
+      "end": "错误。end 作不及物动词时意为“终止、结束”，其主语通常为时间、事件、过程或抽象状态（如 the crisis / meeting ended），不能用于描述物理流体（血液）凝结固化的生物物理过程，搭配极不自然。"
+    },
+    "translation": "在有深静脉血栓形成倾向的患者中，长期的血管淤滞会导致淤积的静脉血凝固，从而诱发致命的血栓栓塞并发症，除非及时且强力地使用治疗性抗凝药物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_05",
+    "group_id": 293,
+    "group_name": "asterisk, flag, delineate, tip",
+    "level": "TEM-8",
+    "target_word": "asterisk",
+    "question": "Although the incumbent celebrated an unprecedented electoral landslide, pervasive irregularities across key voting precincts threaten to ___ the victory, effectively reducing a historic milestone to a fundamentally disputed triumph.",
+    "options": [
+      "asterisk",
+      "flag",
+      "delineate",
+      "tip"
+    ],
+    "answer": "asterisk",
+    "primary_mechanism": "MECH_FIGURATIVE_EXT",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句法上，threaten to 严格要求填入及物动词原形，后接宾语 the victory。语义逻辑上，句中呈现鲜明的正负对比：尽管当权者大肆庆祝‘前所未有的压倒性胜利’（unprecedented electoral landslide），但关键选区的严重舞弊违规（pervasive irregularities）却使该成果沦为‘存在根本争议的胜利’（fundamentally disputed triumph）。此处考查 asterisk 的高阶引申比喻义（韦氏词典专门收录）：to qualify or reduce the value or credibility of (an achievement, record, etc.) by or as if by attaching an asterisk（给……加星号标记以示保留、使某项成就或胜利大打折扣/蒙上污点）。其余三个动词原形在搭配该宾语及此语境逻辑下均形成严重语义断裂。",
+    "distractor_analysis": {
+      "asterisk": "正确。asterisk 作为及物动词时，除本义‘加星号标记’外，在英美政经与体育评论语境中具有极具辨识度的高阶比喻义，指‘（因违规、瑕疵或争议而在记录或胜利旁打上象征性的星号）使……的成就或胜利大打折扣、附带保留条件’。置于此处与 direct object（the victory）及后文‘reducing a historic milestone to a fundamentally disputed triumph’严丝合缝，无可替代。",
+      "flag": "错误。flag 作及物动词时意为‘标出、提醒注意（问题、嫌疑或风险）’（to mark for attention），其宾语通常为消极异常项（如 flag an error, flag suspicious transactions），人或机构不能‘flag a victory’来表示质疑其合法性；而当 flag 意为‘衰退、减弱’（to become unsteady, feeble, or spiritless）时，在现代英语中为严格的不及物动词（如 enthusiasm flagged），无法后接 direct object（the victory）。",
+      "delineate": "错误。delineate 意为‘精确地描绘、勾勒……的轮廓或边界’（to describe, portray, or set forth with accuracy or in detail），属于纯客观、条理化的说明性动词，既无贬抑或附加保留条件的含义，也无法同违规行为（irregularities）构成使胜利贬值的因果逻辑。",
+      "tip": "错误。tip 作及物动词常见含义为‘使倾斜、倾覆’（tip the scales/balance）、‘给小费’，或在英式英语中表示‘预测/看好某人获胜’（tip someone to win）。将其置于此处作谓语搭配 the victory 表达‘使胜利蒙上阴影’纯属生造与搭配错误。"
+    },
+    "translation": "尽管现任者庆祝了一场前所未有的压倒性选举胜利，但关键选区普遍存在的违规行为极有可能使这一胜利大打折扣（附上保留污点），从而实际上将一座历史性的里程碑降格为一场存在根本争议的胜利。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_06",
+    "group_id": 293,
+    "group_name": "asterisk, flag, delineate, tip",
+    "level": "TEM-8",
+    "target_word": "flag",
+    "question": "During the meta-analysis, independent researchers were quick to ___ the clinical trial's anomalous survival rates as statistically improbable, citing pervasive sampling biases and unaccounted-for patient attrition that fundamentally compromised the findings.",
+    "options": [
+      "asterisk",
+      "flag",
+      "delineate",
+      "tip"
+    ],
+    "answer": "flag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句子核心句法构型为动词及物搭配：'___ the clinical trial's anomalous survival rates as statistically improbable'（将临床试验的异常存活率标示为统计学上不可能）。'flag + 异常事物/风险 + as + 评价性形容词/名词'（标示……为……/对……亮起红灯）是学术评议及认知侦测领域的经典排他性搭配。其余三个选项均无法接带 as 引导的形容词宾语补足语来表达‘对异常数据进行预警标示’。",
+    "distractor_analysis": {
+      "asterisk": "错误。asterisk 虽可表示给某项记录或文字加星号或附加限制，但其句法框架为及物动词直接带宾语（如 asterisk the milestone/excess supply），不接 'as + 形容词' 充当宾语补足语（即不存在 *asterisk data as improbable 的用法），在句法层面上不成立。",
+      "flag": "正确。flag 意为‘标出……以引起注意、标记为（可疑或违规）’（to mark or draw attention to something for special consideration, warning, or scrutiny），常与 as 搭配构成 'flag [NP] as [Adj/NP]'（如 flag the data as anomalous/suspicious）。句中科研人员将异常存活率标示为‘统计学上不可能’，认知侦测语境与句法搭配天衣无缝。",
+      "delineate": "错误。delineate 意为‘勾勒、详尽阐述’（to describe or outline in detail），其宾语通常为边界、轮廓、步骤或理论体系（如 delineate the boundaries/responsibilities），属于客观中性陈述动词，无法接 'as statistically improbable' 充当评价性补足语，亦不能表达预警式标示。",
+      "tip": "错误。tip 作及物动词与 as 连用时，主要用于英式新闻英语中的预测语境（如 be tipped as the next director‘被预测/看好为下一任主管’），无法用于学术语境中对客观异常数据进行质疑或警示标记。"
+    },
+    "translation": "在荟萃分析过程中，独立研究人员迅速将该临床试验异常的存活率标示为在统计学上是不可能的，并指出普遍存在的抽样偏差和未予说明的患者流失从根本上动摇了其结论的可靠性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_07",
+    "group_id": 294,
+    "group_name": "auctioneer, undercut, undersell, dump",
+    "level": "TEM-8",
+    "target_word": "auctioneer",
+    "question": "Presiding over the high-profile liquidation from the rostrum, the veteran ___ recognized each escalating telephone bid before lowering the gavel, thereby securing record proceeds for the university’s depleted endowment fund.",
+    "options": [
+      "auctioneer",
+      "undercut",
+      "undersell",
+      "dump"
+    ],
+    "answer": "auctioneer",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COMMERCE_FINANCE",
+    "anchor_clue": "The decisive syntactic and institutional anchors are 'from the rostrum', 'recognized each escalating telephone bid', and 'lowering the gavel', which strictly require a human agent noun denoting the professional presiding over an auction and conducting the bidding process.",
+    "distractor_analysis": {
+      "auctioneer": "正确。auctioneer 为专职施事名词（agent noun），意为“拍卖商，拍卖师（a person who conducts auctions by accepting bids and declaring goods sold）”。句中的“from the rostrum”（在拍卖台/主持席上）、“recognized each escalating telephone bid”（确认逐次攀升的电话竞价）以及“lowering the gavel”（落槌确认成交）构成了拍卖实务中高度封闭的标志性搭配网络，充当主语中心词（the veteran auctioneer）在句法、语义角色及职业语域上均完全契合。",
+      "undercut": "错误。undercut 主要用作动词（意为“以低于……的价格出售”或“削弱、破坏”）；其名词词义仅限于拳击、发型或采矿切口等专业语境，无法作为指代拍卖主持专员的施事名词，既无法被“veteran”修饰作为句中人称主语，更不能发出“落槌”等一系列动作。",
+      "undersell": "错误。undersell 为纯及物动词（意为“廉价出售”或“低调陈述、低估”），在英语中不存在指代从业人员的名词用法。置于冠词与定语“the veteran”之后充当主语，会直接引发词性语法错误（syntactic part-of-speech violation）。",
+      "dump": "错误。dump 用作动词指“倾销、倾倒”，用作名词指“垃圾场、军火转储处”或“倾倒行为”。dump 既非指代专业人员的施事名词，也无法与“recognized bids”及“lowering the gavel”构成合理的施事主谓搭配，在句法与语境逻辑上均无法成立。"
+    },
+    "translation": "在拍卖台上主持这场备受瞩目的资产清算时，这位资深拍卖师在落槌之前逐一确认不断攀升的电话竞价，从而为该大学日渐枯竭的捐赠基金争取到了创纪录的收益。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_08",
+    "group_id": 294,
+    "group_name": "auctioneer, undercut, undersell, dump",
+    "level": "TEM-8",
+    "target_word": "undercut",
+    "question": "The emerging empirical findings systematically ___ the conceptual foundations of the orthodox deterrence theory, revealing that retaliatory threats paradoxically embolden rather than restrain rogue state actors.",
+    "options": [
+      "auctioneer",
+      "undercut",
+      "undersell",
+      "dump"
+    ],
+    "answer": "undercut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the abstract epistemic object 'the conceptual foundations of the orthodox deterrence theory' paired with the adverb 'systematically' and the subsequent clause showing that a core theoretical premise has been disproved.",
+    "distractor_analysis": {
+      "undercut": "正确。在学术论辩与认知分析语域（FIELD_COGNITION）中，undercut 极为高频且精准地表示“从根基上削弱、动摇、推翻（论点、理论或权威的有效性）”（Merriam-Webster: to undermine or destroy the force, value, or effectiveness of）。与“conceptual foundations of... theory”（理论的概念基石）构成经典学术搭配，完美呼应后文实证证据证伪旧有威慑逻辑的论证脉络。",
+      "auctioneer": "错误。auctioneer 意为“通过竞价拍卖（商品/财产）”，其宾语必须是具象的实物资产或法定产权，绝不能接“conceptual foundations”（概念基石）这类抽象认知概念，存在严重的范畴错配（category error）。",
+      "undersell": "错误。undersell 指“以更低价格出售”或“低调陈述、未能充分展现……的价值（to understate or minimize the worth of）”。实证研究发现不可能去“低调宣传”或“谦逊表述”威慑理论的基石，而是旨在从根本上“动摇/削弱”该理论，故语义与学术论述逻辑不符。",
+      "dump": "错误。dump 指“倾倒垃圾”、“抛售存货”或非正式语境中的“丢弃”。用于严肃学术政论中修饰“理论的概念基石”属于严重的语体冲突（stylistic clash），且缺乏“推翻、瓦解理论有效性”的深层认知语义。"
+    },
+    "translation": "最新涌现的实证研究成果系统性地动摇了传统威慑理论的概念基石，揭示出报复性威胁反常地助长而非遏制了流氓国家行为体的挑衅行径。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_09",
+    "group_id": 295,
+    "group_name": "augment, boost, escalate, up",
+    "level": "TEM-8",
+    "target_word": "augment",
+    "question": "Confronted by persistent shortfalls in public funding, the municipal archives sought to ___ its rare manuscript collection through strategic private donations, thereby securing valuable historical assets for future scholars.",
+    "options": [
+      "augment",
+      "boost",
+      "escalate",
+      "up"
+    ],
+    "answer": "augment",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Collocates with 'collection' to express the gradual supplementation and expansion of an existing body of tangible items through external additions ('through strategic private donations').",
+    "distractor_analysis": {
+      "augment": "正确。根据韦氏词典，augment 强调在原有成熟或既定基础（what is already developed or normal）上通过补充、添置来扩大规模或增添数量（如 the inheritance augmented his fortune）。在学术与文献编纂语域中，augment a collection（扩充藏品/数据库/文献库）属于高度固定的权威搭配，与后文通过‘私人捐赠’实现实物藏品增补的语境完全吻合。",
+      "boost": "错误。boost 的核心义为‘从下方推举、激励或提振’，通常搭配心理情绪、经济景气度或生产绩效指标（如 boost morale, boost confidence, boost output），不能与作为静态累积实物的‘manuscript collection’搭配，此处存在范畴搭配不当。",
+      "escalate": "错误。escalate 多指冲突、危机、紧张局势或不可控成本在程度与严重性上的‘升级、激化’（如 escalate tensions/costs），带有强烈的负面或对抗性色彩，在语法上也不能与手稿藏品搭配。",
+      "up": "错误。up 用作及物动词表示‘提高、增加’（如 up the price/ante）属于极度非正式的口语及俚俗商业用法，在庄重严谨的历史档案馆学术语境中存在严重的文体风格冲突（register clash）。"
+    },
+    "translation": "面对公共财政拨款的持续短缺，该市立档案馆试图通过有针对性的私人捐赠来扩充其珍稀手稿藏品，从而为未来的学者留存宝贵的情报与历史资产。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_10",
+    "group_id": 295,
+    "group_name": "augment, boost, escalate, up",
+    "level": "TEM-8",
+    "target_word": "boost",
+    "question": "In a bid to restore market stability and ___ investor confidence following months of fiscal volatility, the central bank unexpectedly lowered benchmark lending rates, sparking an immediate rally across European equities.",
+    "options": [
+      "augment",
+      "boost",
+      "escalate",
+      "up"
+    ],
+    "answer": "boost",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Forms the standard macroeconomic collocation with 'investor confidence', denoting an external stimulus that lifts or revitalizes sentiment from below.",
+    "distractor_analysis": {
+      "boost": "正确。boost 表示‘推动、提振、促进’，特指通过外部手段使低迷的情绪、状态或经济指标重新高涨，boost investor/consumer confidence（提振投资者/消费者信心）是国际金融新闻与高阶经济学语篇中极具排他性的核心固定搭配。",
+      "augment": "错误。augment 侧重于通过‘量上的叠加与补充’（supplementation）来使原有的财富、储备、人员或规模变大，无法与‘信心（confidence）’这种抽象的心理感知状态形成搭配（不存在 augment confidence 的用法）。",
+      "escalate": "错误。escalate 强调危机、矛盾或暴力的‘加剧、恶化’，带有负向或不可控的隐喻；即便用于价格或成本，也指‘螺旋式暴涨’，绝不能用于描述央行旨在稳定市场的‘恢复并提振信心’。",
+      "up": "错误。up 作为动词在口语中虽可表‘抬高’，但属于非正式口语表达，且英语中根本不存在‘up confidence’这一搭配，出现在严谨的央行货币政策宏观叙事中构成严重的语域破损。"
+    },
+    "translation": "为了在数月财政动荡之后恢复市场稳定并提振投资者信心，该央行出人意料地下调了基准贷款利率，随即引发了欧洲股市的全面反弹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_11",
+    "group_id": 296,
+    "group_name": "badger, seduce, brainwash, make",
+    "level": "TEM-8",
+    "target_word": "badger",
+    "question": "Determined lobbyists continued to ___ the exhausted regulatory officials with incessant petitions and aggressive public interrogations, hoping to wear down their resistance through relentless attrition.",
+    "options": [
+      "badger",
+      "seduce",
+      "brainwash",
+      "make"
+    ],
+    "answer": "badger",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Co-occurrence with 'with incessant petitions and aggressive public interrogations' and 'wear down their resistance through relentless attrition', demanding a verb denoting persistent, nagging harassment or pestering rather than ideological indoctrination or enticement.",
+    "distractor_analysis": {
+      "badger": "正确。badger 指通过持续不断地纠缠、烦扰、质问或提要求来迫使他人屈服（to harass or pester persistently）。句中'with incessant petitions'（没完没了的请愿）、'aggressive public interrogations'（咄咄逼人的质询）以及'wear down their resistance'（消磨抵抗力）构成了决定性的语境锚点，与其核心语义完全吻合。",
+      "seduce": "错误。seduce 强调以利益、诱惑或奉承等手段诱使他人偏离正道或做出不明智举动，带有强烈的诱惑性和迎合性内涵，与句中依靠公开质询、消磨阻力的侵扰性施压语境产生严重的语义逻辑断裂。",
+      "brainwash": "错误。brainwash 指通过系统性精神控制或强制灌输手段摧毁并重塑他人的思想与信仰（洗脑），词义程度过重，不适用于游说集团向监管官员递交请愿书与提出质询等常规性纠缠和施压行为。",
+      "make": "错误。make 作为使役动词通常后接不带 to 的不定式作宾补（make sb do sth），无法与句中的介词结构'the officials with incessant petitions'形成合理的及物动词配价与语义逻辑。"
+    },
+    "translation": "抱定决心的游说者不断以没完没了的请愿和咄咄逼人的公开质询纠缠已筋疲力尽的监管官员，企图通过无休止的消耗战消磨他们的抵抗意志。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_12",
+    "group_id": 296,
+    "group_name": "badger, seduce, brainwash, make",
+    "level": "TEM-8",
+    "target_word": "seduce",
+    "question": "The lavish corporate package was carefully engineered to ___ the young researcher away from independent academic inquiry with promises of exorbitant stock options and unrestricted laboratory funding.",
+    "options": [
+      "badger",
+      "seduce",
+      "brainwash",
+      "make"
+    ],
+    "answer": "seduce",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The directional phrase 'away from independent academic inquiry' combined with enticing inducements ('promises of exorbitant stock options and unrestricted laboratory funding') uniquely requires a verb signifying alluring enticement away from duty or principle.",
+    "distractor_analysis": {
+      "seduce": "正确。seduce 在高级书面语中常指用巨大的物质利益、虚名或前景引诱某人放弃原本坚守的原则、责任或正道（to entice or allure away from duty or principle）。句中搭配'away from independent academic inquiry'以及充满吸引力的条件'promises of exorbitant stock options'完全契合其语义色彩与句法搭配。",
+      "badger": "错误。badger 意为反复纠缠、骚扰，施动手段是负面的打扰与施压，主语通常为人，无法由提供优厚待遇的'corporate package'发起，更无法与以优厚利益为诱饵的语境共存。",
+      "brainwash": "错误。brainwash 强调通过强制宣传或心理操控实施的洗脑和思想改造，不能与介词短语'away from sth'搭配表达'利诱离开'的意象，在搭配和语域上均不适用。",
+      "make": "错误。make 无法与介词短语'away from'搭配构成及物使役结构（*make sb away from sth 属于严重句法错误），代入后导致句子语法结构崩溃。"
+    },
+    "translation": "那份丰厚的企业待遇方案经过精心设计，旨在以巨额股票期权和无限制的实验室资助为诱饵，诱使这位年轻的研究人员脱离独立的学术探究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_13",
+    "group_id": 297,
+    "group_name": "bash, thump, swipe, bat",
+    "level": "TEM-8",
+    "target_word": "bash",
+    "question": "Rather than engaging in substantive policy deliberation, the populist candidate seized every televised opportunity to ___ multilateral trade agreements, branding them as unpatriotic capitulations to foreign technocrats.",
+    "options": [
+      "bash",
+      "thump",
+      "swipe",
+      "bat"
+    ],
+    "answer": "bash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: The direct transitive verbal government of abstract policy institutions ('multilateral trade agreements') in the context of fierce political denunciation ('branding them as unpatriotic capitulations').",
+    "distractor_analysis": {
+      "bash": "正确。在当代政治评论与高级新闻政论（如《经济学人》、MW权威例句）中，bash作为及物动词广泛用于FIELD_COGNITION范畴，意为“严厉抨击、猛烈抨击（政策、制度或群体）”，直接跟宾语（如bash multilateral trade agreements / bash the practice of...），与语境中民粹政客对多边协定的攻击完美契合。",
+      "thump": "错误。thump作为及物动词主要指“重击（物理表面）”或“彻底击败（对手）”，不可直接接抽象的法案或多边协定表示“抨击、口诛笔伐”，语义与搭配均不成立。",
+      "swipe": "错误。swipe用于表示“言语抨击、批评”时，必须与介词at连用（swipe at...）或构成名词短语take a swipe at；直接接宾语swipe trade agreements在句法上不表示批评，属于句法搭配不兼容。",
+      "bat": "错误。bat表示“击打（用球棒等）”或“眨眼（bat an eyelid）”；虽然bat around有“随性讨论、探讨”之意，但bat本身不能作为及物动词用于猛烈批判政策的政论语境中。"
+    },
+    "translation": "那位民粹主义候选人并未开展实质性的政策审议，而是利用每一次电视转播的机会猛烈抨击多边贸易协定，将其斥为向外国技术官僚做出的不爱国妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_14",
+    "group_id": 297,
+    "group_name": "bash, thump, swipe, bat",
+    "level": "TEM-8",
+    "target_word": "thump",
+    "question": "Frustrated by the committee’s skeptical reception of his theoretical framework, the senior economist began to ___ the polished lectern with his fist, mistaking theatrical vehemence for intellectual rigor.",
+    "options": [
+      "bash",
+      "thump",
+      "swipe",
+      "bat"
+    ],
+    "answer": "thump",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: Collocational pairing with 'the polished lectern with his fist' expressing rhetorical emphasis ('theatrical vehemence') rather than physical demolition.",
+    "distractor_analysis": {
+      "thump": "正确。thump the lectern/table with one's fist是英语中极具辨识度的修辞动作搭配，专指在演讲或辩论中“用拳头重重捶击讲台/桌子”以示强调或发泄情绪（发出沉闷钝响，而非破坏家具），精准契合句中“将戏剧化的激昂姿态误当作学术严谨”的学术认知语境。",
+      "bash": "错误。bash侧重带有破坏性、砸毁性的重击（如bash in a door, bash one's head），若用于讲台（bash the lectern）则带有暴力毁坏公共财物的语义色彩，与学术会议答辩中学者用拳头捶讲台表达情绪的语域和常理不符；此外bash的引申义为口头抨击，不可与with his fist搭配。",
+      "swipe": "错误。swipe意为“挥击、侧击”，接打击对象时通常需加介词at（swipe at...），直接接物作及物动词时常表“刷卡”或“偷窃”；无法表达用拳头正面垂直捶击讲台以加强语势之意。",
+      "bat": "错误。bat指用球板、球棒打击或轻微扑打（如bat away），与“用紧握的拳头猛捶讲台（with his fist）”在动作特征、力度及搭配习惯上完全脱节。"
+    },
+    "translation": "因评审委员会对其理论框架持怀疑态度而颇感挫败，这位资深经济学家开始用拳头重重捶击光滑的讲台，误将戏剧化的激烈姿态当成了学术上的严谨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_15",
+    "group_id": 298,
+    "group_name": "binge, gorge, satiate, stuff",
+    "level": "TEM-8",
+    "target_word": "binge",
+    "question": "Contemporary cognitive scientists observe that individuals with impaired executive functioning frequently ___ serialized media late into the night, sacrificing essential sleep to sustain brief, algorithmic dopamine surges.",
+    "options": [
+      "binge",
+      "gorge",
+      "satiate",
+      "stuff"
+    ],
+    "answer": "binge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct transitive construction governing an episodic media product ('___ serialized media') without a preposition, functioning in cognitive psychology to denote compulsive sequential consumption.",
+    "distractor_analysis": {
+      "binge": "正确。Merriam-Webster 权威收录其及物动词词条，专指在极短时间内过度、连续消费（尤指流媒体剧集或文化消费品，如 binge a series）。在认知科学与媒体心理学中，'binge serialized media' 是指涉在多巴胺奖赏回路驱动下不可遏制地连续刷剧的标准学术搭配，与句法结构完全契合。",
+      "gorge": "错误。句法与搭配严重破裂。gorge 作及物动词时，其宾语仅能是生理器官（如 gorge the throat/belly）或反身代词（gorge oneself），若引申表示过度消费则必须接介词 on（gorge on sth.），绝不能直接及物支配抽象媒介客体（不存在 *gorge serialized media 的用法）。",
+      "satiate": "错误。范畴谬误与极性倒错。satiate（使饱足、使厌腻）虽为及物动词，但其选择限制（selectional restriction）严格要求宾语为体验欲望的主体或内在欲望本身（如 satiate one's appetite/curiosity），绝不可支配被消费的客体媒介；此外，satiate 意指欲望彻底满足而止息，与后文维系短暂多巴胺冲动的成瘾性渴求逻辑相反。",
+      "stuff": "错误。句法与语义崩溃。stuff 作及物动词意为将具体物品塞入容器（stuff A into B）或使充塞，宾语必须为物理受事或反身代词（stuff oneself），绝不能直接带流媒体或叙事产品作为宾语（*stuff serialized media 完全不通）。"
+    },
+    "translation": "当代认知科学家观察到，执行功能受损的个体往往会在深夜连续狂看剧集，以牺牲至关重要的睡眠为代价来维持短暂的、由算法驱动的多巴胺激增。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_16",
+    "group_id": 298,
+    "group_name": "binge, gorge, satiate, stuff",
+    "level": "TEM-8",
+    "target_word": "gorge",
+    "question": "In digital attention economies, recommendation algorithms exploit human evolutionary vulnerabilities, enticing users to ___ themselves on sensationalist spectacles while starving their capacities for deep, contemplative thought.",
+    "options": [
+      "binge",
+      "gorge",
+      "satiate",
+      "stuff"
+    ],
+    "answer": "gorge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The rigid reflexive frame '___ themselves on' paired antithetically with 'while starving their capacities...', which strictly selects 'gorge'.",
+    "distractor_analysis": {
+      "binge": "错误。句法禁忌。binge 在现代英语中无论是作不及物动词（直接加介词 on，如 binge on food）还是及物动词（直接接流媒体宾语），均绝不具备反身代词用法（*binge themselves on 属严重的语法规则违背）。",
+      "gorge": "正确。'gorge oneself on sth.'（狼吞虎咽、贪得无厌地摄取某物）是极其严密的惯用搭配。此处在认知哲学与注意力经济语境中引申为贪婪吞噬感官刺激，且与从句中的 'while starving...' 构成了英语经典修辞中高度对仗的 'gorge... starve...'（暴食与饥馑）反差映衬，精准契合学术语域。",
+      "satiate": "错误。介词搭配错误与逻辑冲突。satiate 构成反身结构时，其后固定支配介词 with（satiate oneself with），不可与 on 搭配；而且 satiate 强调达到充分满足的状态，而推荐算法的核心诱导机制是制造永不知足的匮乏感与感官贪婪，与 satiate 的核心义项背道而驰。",
+      "stuff": "错误。介词搭配不符且语体违和。stuff oneself 后续的标准介词搭配为 with（stuff oneself with sth.），不能接 on；同时，stuff 带强烈的日常口语及粗俗物理色彩，与本句严谨宏大的认知批判文体产生显著的语体冲突。"
+    },
+    "translation": "在数字注意力经济中，推荐算法利用了人类进化上的脆弱性，诱使网络用户贪婪无度地吞食煽情猎奇的感官盛宴，同时却让他们深度沉思的能力陷于饥渴衰竭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_17",
+    "group_id": 299,
+    "group_name": "blitz, bombard, circumvent, gas",
+    "level": "TEM-8",
+    "target_word": "blitz",
+    "question": "Determined to establish uncontested market supremacy, the tech conglomerate sought to ___ its regional rivals through aggressive predatory pricing and relentless expansion, systematically forcing less capitalized firms into liquidation.",
+    "options": [
+      "blitz",
+      "bombard",
+      "circumvent",
+      "gas"
+    ],
+    "answer": "blitz",
+    "primary_mechanism": "MECH_DISCOURSE_SEMANTICS",
+    "field": "FIELD_BUSINESS",
+    "anchor_clue": "The combination of the aggressive frontal mechanism ('through aggressive predatory pricing and relentless expansion') with the telic outcome of decisive destruction ('systematically forcing less capitalized firms into liquidation') uniquely satisfies the Merriam-Webster definition of blitz ('to attack, overwhelm, or defeat decisively'), ruling out iterative bombardment or evasive circumvention.",
+    "distractor_analysis": {
+      "blitz": "正确。此处考查 blitz 在现代商业与经济学术报道（如《经济学人》《金融时报》）中的核心及物动词义：“通过突击式、集中而猛烈的攻势彻底击溃或压倒（对手/竞争者）”（to attack, overwhelm, or defeat decisively as if by a blitz; to blitz rivals/competitors）。句中状语“through aggressive predatory pricing and relentless expansion”（通过激进的掠夺性定价与不间断的扩张）明确了进攻的猛烈与正面性，后置分词短语“systematically forcing less capitalized firms into liquidation”（系统性地迫使资本实力较弱的企业破产清算）构成决定性的语义结果锚点，完美契合 blitz 摧枯拉朽般击溃并消灭对手的词义与语体要求。",
+      "bombard": "错误。动词 bombard（轰炸；连珠炮似地质问/灌输）在此语境中存在严重的句法与语义排他：① 句法配置限制：bombard 的标准句法构式为“bombard sb/sth with sth”，所接工具为连续投掷的弹药或离散信息实体（如 questions, emails, advertisements），不与“through predatory pricing”这类宏观经济手段相搭配；② 词汇体貌与结果义缺失：bombard 是持续性、迭代性的活动动词（iterative activity verb），仅表示持续冲击的动作本身，在词义上绝无“彻底击溃、战胜或迫使对手破产”（defeat decisively into liquidation）的终结性结果义（telic sense），不能接 rivals 作为被击溃的受事目标。",
+      "circumvent": "错误。动词 circumvent 意为“规避、绕过（法规、障碍或直接交锋）”（to manage to get around, bypass, or avoid）。句中所述的“掠夺性定价与扩张以逼死对手”属于正面硬碰硬的市场歼灭战（head-to-head frontal confrontation），与 circumvent 所指的“避开锋芒、迂回规避直接冲突”在逻辑与语用反差上构成根本性的语义极性倒错（connotation inversion）。",
+      "gas": "错误。gas 用作动词时本义指“用毒气毒杀”，口语中可指“吹牛、空谈”。无论从词义本身、字面范畴还是正式严肃的商业竞争语体（formal business register）来看，填入此处均属于严重的范畴谬误。"
+    },
+    "translation": "为了确立无可争议的市场霸权，这家科技巨头企图通过激进的掠夺性定价和不间断的扩张彻底击垮地区竞争对手，系统性地将资本实力较弱的企业逼至破产清算境地。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_18",
+    "group_id": 299,
+    "group_name": "blitz, bombard, circumvent, gas",
+    "level": "TEM-8",
+    "target_word": "bombard",
+    "question": "Determined to break the corporate stalemate, dissenting shareholders chose to ___ the board of directors with daily petitions and formal grievances, maintaining relentless administrative pressure until significant governance reforms were finally conceded.",
+    "options": [
+      "blitz",
+      "bombard",
+      "circumvent",
+      "gas"
+    ],
+    "answer": "bombard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The decisive syntactic and aspectual frame '___ [target entity] with [continuous queries/petitions]' paired with 'daily petitions' and 'maintaining relentless administrative pressure' requires an iterative, protracted onslaught, uniquely satisfied by 'bombard'.",
+    "distractor_analysis": {
+      "bombard": "正确。此处考查机构博弈语境下的高频经典搭配“bombard sb. with sth.”（以密集的事物向某人连续进攻/施压）。句中的“daily petitions”（每日请愿）和“maintaining relentless administrative pressure”（维持不间断的行政压力）构成决定性语义锚点，精准对应 bombard 指向“连续、持久、高频度施加压力或质问”（subject to a continuous flow of questions or demands）的核心定义。",
+      "blitz": "错误。blitz 严格强调“突然发起、短期高密度的闪击突袭”（attack suddenly and without warning），与句中“daily”（每日递交）、“maintaining relentless... pressure until... conceded”（持久保持压力直至妥协）所表征的漫长、持续性拉锯战在体貌语义（aspectual semantics）上存在冲突；且在正统学术与政经英语中，“blitz the board with petitions”不属于规范的书面搭配。",
+      "circumvent": "错误。circumvent 意为“绕过、规避（阻碍或管理层）”。句中股东直接向董事会递交诉状施压，属于正面直交交锋，与 circumvent（暗中绕开、不经由）在逻辑指向上完全对立，且 circumvent 无法在此句中与介词短语 with daily petitions 构成合乎逻辑的论元结构。",
+      "gas": "错误。gas 既无法与人称宾语及 with 结构形成有效语义关联，也彻底违背了高阶商业管理与公司治理文本的学术语域标准。"
+    },
+    "translation": "为打破公司僵局，持异议的股东们选择用每日请愿书和正式控诉对董事会发起轮番攻势，持续施加高强度的行政压力，直至实质性的治理改革最终得以落实。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_19",
+    "group_id": 300,
+    "group_name": "bombard, chuck, hurtle, shy",
+    "level": "TEM-8",
+    "target_word": "bombard",
+    "question": "Contemporary neurocognitive experiments demonstrate that digital interfaces relentlessly ___ human working memory with competing sensory inputs, thereby destabilizing focused attention and accelerating subjective mental exhaustion among young learners.",
+    "options": [
+      "bombard",
+      "chuck",
+      "hurtle",
+      "shy"
+    ],
+    "answer": "bombard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive valency frame 'relentlessly ___ [human working memory] with [competing sensory inputs]' demands a verb signifying the continuous assailing or pelting of a cognitive receptor with stimuli. 'Bombard... with...' is the only attested collocation matching this syntax and abstract cognitive register.",
+    "distractor_analysis": {
+      "bombard": "正确。bombard用于隐喻或认知语境时，专指以密集的刺激、信息或问题进行持续袭扰与‘轰炸’，其固定及物句式为'bombard sb/sth with sth'，与句中的'human working memory with competing sensory inputs'在句法搭配与语域色彩上完全契合。",
+      "chuck": "错误。chuck指随手、轻率或漫不经心地‘抛、扔’，其及物受词必须是被抛出的具体实体（如'chuck a stone at'），不可后接承受对象再加with介词短语（不存在'*chuck the memory with inputs'结构）。",
+      "hurtle": "错误。hurtle在现代英语中主要用作不及物动词，指‘猛冲、疾飞’（如'hurtle down the slope'），不具备及物双宾补或接with短语的句法配价，填入此处会导致严重的句法截断。",
+      "shy": "错误。shy作动词时主要作不及物动词，表‘惊退、畏缩’（常与away from搭配）；偶尔用作及物动词时意为侧向猛掷弹丸（'shy a stone at'），无法用于'shy sth with sth'认知结构。"
+    },
+    "translation": "当代神经认知实验表明，数字交互界面正以相互竞争的感官输入持续轰炸人类的工作记忆，从而破坏专注力并加剧年轻学习者的主观心理耗竭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b29_20",
+    "group_id": 300,
+    "group_name": "bombard, chuck, hurtle, shy",
+    "level": "TEM-8",
+    "target_word": "chuck",
+    "question": "Before cognitive theorists prematurely ___ out decades of empirical research on language acquisition, they must evaluate whether generative neural models genuinely replicate human conceptual understanding or merely simulate syntactic fluency.",
+    "options": [
+      "bombard",
+      "chuck",
+      "hurtle",
+      "shy"
+    ],
+    "answer": "chuck",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive phrasal verb construction '___ out [decades of empirical research]' requires a verb denoting the hasty, uncritical discarding or abandonment of established theories. 'Chuck out' is an established intellectual/journalistic idiom for discarding hypotheses or frameworks, whereas the other three verbs cannot govern this transitive phrasal structure.",
+    "distractor_analysis": {
+      "chuck": "正确。'chuck out'是高阶社论及学术辩论中常用的动词短语，意为‘轻率抛弃、草率废除’（常接doctrine, theory, empirical research等抽象范式）。此处'prematurely chuck out decades of empirical research'生动精准地表达了学者过早抛弃既往研究的学术态度。",
+      "bombard": "错误。bombard仅能搭配with表示‘密集袭击/提问’；'bombard out'仅见于军事语境且宾语为人（如'bombard soldiers out of a bunker'，炮轰迫使撤离），绝不可用于抛弃理论或研究的认知语境。",
+      "hurtle": "错误。hurtle为典型不及物动词，表物体急速猛冲；'hurtle out'只能表示某物从某处飞出（如'hurtle out of the tunnel'），不能带及物宾语'decades of empirical research'，存在致命句法错误。",
+      "shy": "错误。shy表示畏缩或避开（不及物，接away from），无法与副词out构成及物短语支配宾语（不存在'*shy out empirical research'的用法）。"
+    },
+    "translation": "在认知理论家过早抛弃数十年来关于语言习得的实证研究之前，他们必须审慎评估生成式神经模型究竟是真正复现了人类的概念理解，还是仅仅模拟了句法流畅度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

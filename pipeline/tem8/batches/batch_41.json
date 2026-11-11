@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b41_01",
+    "group_id": 411,
+    "group_name": "grievous, weighty, grave, heavy",
+    "level": "TEM-8",
+    "target_word": "grievous",
+    "question": "In overturning the felony conviction, the appellate judges ruled that the defendant's reckless scuffle had failed to meet the statutory threshold of ___ bodily harm mandated for an aggravated assault indictment.",
+    "options": [
+      "grievous",
+      "weighty",
+      "grave",
+      "heavy"
+    ],
+    "answer": "grievous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中的“statutory threshold”（法定门槛）与“bodily harm mandated for an aggravated assault indictment”（加重侵犯人身罪起诉所要求的身体伤害）构成了不可动摇的法定术语锚点。在英美刑法体系中，“grievous bodily harm”（重伤/严重人身伤害，简称GBH）属于排他性的法律专门术语（term of art），其余三个选项均无法与“bodily harm”组合成法定罪名修饰语。",
+    "distractor_analysis": {
+      "grievous": "正确。grievous意为‘极严重的、造成剧烈痛苦的’。在英美法系（如英国《侵害人身法令》及普通法刑法传统）中，“grievous bodily harm”（严重人身伤害/重伤罪）是法定专有名词（term of art），专门用于指称导致严重器质性损伤、机能丧失或剧烈痛楚的伤害，完全契合句中“statutory threshold”（法定门槛）与“aggravated assault indictment”（加重侵犯人身罪公诉）的高阶法律语境。",
+      "weighty": "错误。weighty意为‘沉重的、有分量的、重大的’，通常修饰抽象的议题、思想、论据或职责（如weighty arguments, weighty responsibilities），无法用于修饰生理层面的创伤（*weighty bodily harm），存在严重的语义范畴越界（category mistake）。",
+      "grave": "错误。grave多指事态或潜在危险的严峻性与严重后果（如grave danger, grave consequences, grave concern），强调局势危急或庄严沉重。尽管grave具有‘严重’之义，但英美刑法典中从不采纳*grave bodily harm作为加重人身侵犯罪的法定构成要件，在此属于生硬的同义词误用。",
+      "heavy": "错误。heavy侧重物理重量或数量/程度上的沉重与巨大（如heavy traffic, heavy casualties, heavy losses），但绝不能与bodily harm形成固定刑法搭配（*heavy bodily harm在法律英语及现代标准英语中均属搭配错误）。"
+    },
+    "translation": "在推翻该项重罪判决时，上诉法院法官裁定，被告鲁莽的肢体冲突并未达到加重侵犯人身罪公诉所必需的严重身体伤害（GBH）法定门槛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_02",
+    "group_id": 411,
+    "group_name": "grievous, weighty, grave, heavy",
+    "level": "TEM-8",
+    "target_word": "weighty",
+    "question": "Although the dissenting jurist articulated several intriguing philosophical objections, the majority opinion rested upon far more ___ arguments regarding statutory precedent, ultimately convincing the bench to uphold the regulatory framework.",
+    "options": [
+      "grievous",
+      "weighty",
+      "grave",
+      "heavy"
+    ],
+    "answer": "weighty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中修饰名词 arguments，且语境为司法论证中具有决定性说服力与思想分量的论据（ultimately convincing the bench），韦氏词典专属核心释义为 'possessing weight or influence: persuasive <weighty arguments>'。",
+    "distractor_analysis": {
+      "weighty": "正确。weighty在此处取韦氏核心释义‘具有强大分量、影响力和说服力的’（possessing weight or influence : persuasive），weighty arguments是学术争鸣与司法判决中的经典高阶搭配，与句中convincing the bench（说服审判席）形成严密的逻辑因果照应。",
+      "grievous": "错误。grievous意为‘令人痛苦的、令人悲伤的、令人发指的’（如grievous loss, grievous error）。用于形容论据（arguments）完全违背逻辑认知，学术或法律论点不会是‘带来剧痛或罪大恶极的’。",
+      "grave": "错误。grave意为‘重大的、沉重的、严肃的’，通常修饰危机、神态、疑虑或后果（如grave implications, grave expression），形容论据时不能表达‘论证充分、极具说服力’之意，在认知修辞上与arguments搭配极不自然且无法对应convincing的语境。",
+      "heavy": "错误。heavy用于修饰抽象认知、写作或言论时，往往带有贬义色彩，指‘冗长乏味的、笨重沉闷的’（如heavy prose, heavy style），绝不能表达‘逻辑严密、有分量、具说服力’的论据；heavy arguments属于严重的搭配破裂。"
+    },
+    "translation": "尽管持异议的法官提出了若干耐人寻味的哲学质疑，但多数派法官的意见则立足于有关法定判例的更具分量与说服力的论据，最终促使法庭维持了该监管框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_03",
+    "group_id": 412,
+    "group_name": "hardheaded, pragmatic, practical, realistic",
+    "level": "TEM-8",
+    "target_word": "hardheaded",
+    "question": "Dismissing the delegates' impassioned moral appeals as naive sentimentality, the chief mediator governed the peace talks with a ___ pragmatism that demanded verifiable security guarantees over lofty promises.",
+    "options": [
+      "hardheaded",
+      "pragmatic",
+      "practical",
+      "realistic"
+    ],
+    "answer": "hardheaded",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The head noun 'pragmatism' creates an immediate tautological block against 'pragmatic' and an etymological pleonasm against 'practical'. Meanwhile, 'Dismissing the delegates' impassioned moral appeals as naive sentimentality' perfectly matches the Merriam-Webster defining essence of 'hardheaded' (shrewd, cold, unsentimental judgment skeptical of emotional/moral appeals), forming the established political collocation 'hardheaded pragmatism'.",
+    "distractor_analysis": {
+      "hardheaded": "正确。Merriam-Webster 明确指出 hardheaded 强调“精明、冷酷且不带感情色彩的判断，尤指对道德或情感呼吁持怀疑态度（a shrewd, cold, unsentimental judgment, often skeptical of moralistic or emotional appeals）”。句首分词短语“Dismissing ... impassioned moral appeals as naive sentimentality”（将激情的道德呼吁视作幼稚的感情用事）构成了决定性的排他语义锚点；同时，hardheaded pragmatism（不讲情面的强硬务实主义）是《经济学人》及国际关系文献中极高频的经典固定搭配，完美契合语境。",
+      "pragmatic": "错误。与空格后所修饰的中心名词 pragmatism 产生同根词重叠，形成荒谬的同义反复（pragmatic pragmatism），在英语修辞与句法上属于严重瑕疵，绝不可选。",
+      "practical": "错误。首先，practical 与 pragmatism 源自同一语义内核（均指向实际效用与实践），构成 practical pragmatism 存在明显的语义赘述；其次，practical 侧重于日常事物的可操作性、动手能力或客观实用功能（如 practical experience/skills），无法传达面对道德诉求时那种冷峻、寸步不让的强硬与精明。",
+      "realistic": "错误。realistic 侧重于“立足客观现实、不抱不切实际的幻想”（常修饰 expectations, appraisal, assessment），搭配 realistic pragmatism 极为生硬非地道；更重要的是，它缺乏 hardheaded 所独有的“冷酷无情、对感伤主义与道德说教抱以怀疑”的特异性行为色彩。"
+    },
+    "translation": "首席调解人将代表们充满激情的道德呼吁斥为幼稚的感情用事而不予理会，以一种精明冷峻的务实态度主导了和平谈判，要求获得可核实的实质安全保障而非崇高的空头承诺。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_04",
+    "group_id": 412,
+    "group_name": "hardheaded, pragmatic, practical, realistic",
+    "level": "TEM-8",
+    "target_word": "pragmatic",
+    "question": "Confronted with an intractable parliamentary impasse, the prime minister demonstrated remarkable ___ flexibility, shelving contentious doctrinal pledges to forge a workable cross-party consensus on fiscal reform.",
+    "options": [
+      "hardheaded",
+      "pragmatic",
+      "practical",
+      "realistic"
+    ],
+    "answer": "pragmatic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The context of 'shelving contentious doctrinal pledges to forge a workable cross-party consensus' establishes the classic Merriam-Webster binary contrast between dogma and pragmatism (preference for practical results over theoretical/dogmatic considerations). Furthermore, 'pragmatic flexibility' is the canonical political collocation; substituting 'hardheaded' produces an oxymoron with 'flexibility' (stubborn vs. flexible).",
+    "distractor_analysis": {
+      "pragmatic": "正确。Merriam-Webster 将 pragmatic 的核心特征定义为“偏好实际结果而非理论或教条考量（preference for practical results over theoretical or dogmatic considerations）”。后文的“shelving contentious doctrinal pledges to forge a workable cross-party consensus”（搁置争议性教条承诺以达成可行的跨党派共识）提供了铁证般的对立语义锚点。此外，pragmatic flexibility（务实的灵活性/务实变通）是政治学与高阶学术政论中形容领导人跳出意识形态藩篱、促成合作的规范核心搭配。",
+      "hardheaded": "错误。存在致命的语义逻辑冲突。hardheaded 的首要核心定义是“stubborn, willful（顽固的、刚愎的、强硬不屈的）”；将其与 flexibility（灵活性、退让变通）连用会构成直接的语义矛盾（oxymoron），断无用“顽固强硬”来修饰“主动搁置教条、寻求跨党派妥协”之理。",
+      "practical": "错误。语域与概念层级错位。practical 侧重于具体方法的操作可行性或物质属性的实用性（如 practical advice/tools）。在涉及政治纲领、意识形态教条（doctrinal pledges）与施政方针的哲学层面对比时，表达“重实效而轻教条”必须使用政治哲学维度的专用词 pragmatic。",
+      "realistic": "错误。搭配失范且未能切中对比要点。realistic 意为“清醒认清现实的、非乌托邦的”，通常搭配 expectations, goals, evaluation 等名词；“realistic flexibility”并非标准地道搭配，且 realistic 无法精准呼应句中“摒弃教条（doctrinal）以求实效”的哲学反差。"
+    },
+    "translation": "面对棘手的议会僵局，首相展现出显著的务实灵活性，搁置了引发争议的教条主义承诺，以便在财政改革问题上达成切实可行的跨党派共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_05",
+    "group_id": 413,
+    "group_name": "implicit, tacit, silent, inherent",
+    "level": "TEM-8",
+    "target_word": "implicit",
+    "question": "Early oceanographers placed ___ trust in the sea's infinite assimilative capacity, an unquestioning conviction that ultimately blinded regulatory agencies to the insidious, cumulative perils of industrial runoff.",
+    "options": [
+      "implicit",
+      "tacit",
+      "silent",
+      "inherent"
+    ],
+    "answer": "implicit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "搭配 'place ___ trust in' 以及后文同位语 'an unquestioning conviction'（不容置疑的信念）构成了强语义锚点，直接对应 implicit 专有的'绝对的、无保留的（unquestioning）'义项与核心搭配。",
+    "distractor_analysis": {
+      "implicit": "正确。此处考查 implicit 的高级固定搭配 implicit trust（绝对的信任、毫不怀疑的托付）。在该义项下，implicit 等同于 unquestioning / complete without reservation，后文同位语 an unquestioning conviction 提供了决定性的语义线索，完美符合语境与语域要求。",
+      "tacit": "错误。tacit 侧重于“心照不宣的、默许的”（expressed or carried on without words or speech），常用于修饰 approval, consent, agreement 等涉及双边互动或认可的抽象名词，不可修饰 trust 来表达“坚信不疑/绝对信任”，构成搭配与语义双重冲突。",
+      "silent": "错误。silent 主要指物理层面的“无声的、安静的”或“未发声的”，修饰 trust 既非地道搭配（无 silent trust 这一惯用法），亦无法表达“盲目、绝对”之意。",
+      "inherent": "错误。inherent 意为“固有的、本质上存在的”，通常与介词 in 连用作后置修饰（如 problems inherent in...）。动词短语为 place trust in（托付信任），若填入 inherent 则出现语义逻辑畸变，不可说“放置固有的信任于某物”。"
+    },
+    "translation": "早期的海洋学家对海洋无限的环境消纳能力寄予了绝对的信任，这种坚信不疑的信念最终使监管部门对工业径流潜移默化且与日俱增的危害视而不见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_06",
+    "group_id": 413,
+    "group_name": "implicit, tacit, silent, inherent",
+    "level": "TEM-8",
+    "target_word": "tacit",
+    "question": "For decades, the nomadic pastoralists and state wildlife rangers maintained a ___ truce, an unspoken mutual understanding that regulated grazing near the sanctuary's borders without formal legal documentation.",
+    "options": [
+      "implicit",
+      "tacit",
+      "silent",
+      "inherent"
+    ],
+    "answer": "tacit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "核心搭配 'a ___ truce' 以及后置同位语解释 'an unspoken mutual understanding ... without formal legal documentation'（一种无言的相互默契且缺乏正式法律文书），精准锚定 tacit（未言明但由行动或沉默达成的默许）。",
+    "distractor_analysis": {
+      "tacit": "正确。tacit truce（默契休战/不成文的和解协议）属于国际法、政治生态学和地缘治理领域的经典高频学术搭配。tacit 源自拉丁语 tacere（保持沉默），指双方通过行动而非言语、文本达成的默契，与后文 an unspoken mutual understanding 完全吻合。",
+      "implicit": "错误。implicit 侧重于“潜在包含的、含蓄暗示的”（implied through something else），强调逻辑推导或内含性，通常不用于修饰双方博弈所达成的停火或共识（无 implicit truce 之用法），搭配不当。",
+      "silent": "错误。silent 侧重于声学意义上的“没有发出声响的”或状态上的“静止沉寂的”。truce 本身指代一种契约关系，不能使用描述声音状态的 silent 来修饰协议关系，silent truce 不符合规范书面语搭配。",
+      "inherent": "错误。inherent 意为“内生的、固有的”。牧民与巡护员之间的妥协是一种后天多方博弈形成的临时性人际/社会状态，绝非“与生俱来、不可分割的属性”，在本体逻辑上完全不成立。"
+    },
+    "translation": "数十年来，游牧牧民与国家野生动物巡护员之间始终保持着一种默契的休战状态；这是一种无需言明且缺乏正式法律文本的共同默契，用以规范保护区边界附近的放牧活动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_07",
+    "group_id": 414,
+    "group_name": "inarticulate, incoherent, dumb, mute",
+    "level": "TEM-8",
+    "target_word": "inarticulate",
+    "question": "Paralyzed by the unexpected catastrophe, the village elder was rendered utterly ___, producing only muffled groans and guttural sounds that lacked any discernible phonetic structure or syntactic formulation.",
+    "options": [
+      "inarticulate",
+      "incoherent",
+      "dumb",
+      "mute"
+    ],
+    "answer": "inarticulate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in 'producing only muffled groans and guttural sounds that lacked any discernible phonetic structure or syntactic formulation.' This excludes 'mute' and 'dumb' (which require complete silence/soundlessness) and excludes 'incoherent' (which requires words/propositions that fail to connect logically), leaving 'inarticulate' as the only word defining human vocal sounds not formed into distinct words or intelligible speech.",
+    "distractor_analysis": {
+      "inarticulate": "正确。Merriam-Webster 将其核心义界定为“not formed into distinct syllables or words”（未形成清晰音节或词语的）以及“incapable of giving clear expression to one's ideas or feelings”（无法清晰言说的）。句中决定性锚点是“producing only muffled groans and guttural sounds that lacked any discernible phonetic structure”（仅能发出缺乏语音结构与句法构词的喉音低吟），这精准激活了 inarticulate 的词源与专业语义——指声音未能分化、组织成离散的人类语言词汇。同时，“rendered utterly inarticulate”也是高级学术政论与文学语篇中的经典搭配。",
+      "incoherent": "错误。该词的核心语义是“语无伦次、前后脱节的”（lacking orderly continuity or logical relevance）。其语义先决条件是发音者已经说出了连贯的词汇或句子，但因思维混乱导致句际关系和逻辑链条断裂；而本句明确说明老人“缺乏可辨别的语音结构或句法构词”，根本未达到生成离散词汇的阶段，故不符合语境。",
+      "dumb": "错误。该词在正式书面语境中指生理性的“哑”或因极度震惊而导致的“完全说不出话、哑口无言”（temporarily speechless）。句中已明确指出老人发出了声音（muffled groans and guttural sounds），并非全然无声；且 dumb 用于指人时在现代学术语境中存在文体偏低或涉贬义的缺陷，无法与此处的严谨文体契合。",
+      "mute": "错误。该词严格表示“沉默的、无声的”（refraining from speech; silent），强调声音输出为零或拒绝发声。句中伴随有明确且持续的发声行为（producing groans and sounds），在语义上与 mute 构成直接冲突。"
+    },
+    "translation": "因这场突如其来的灾难而陷入惊厥，那位村中长者彻底变得无法言语，仅能发出几声低沉的呻吟与喉音，毫无任何可辨识的语音结构或句法构词。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_08",
+    "group_id": 414,
+    "group_name": "inarticulate, incoherent, dumb, mute",
+    "level": "TEM-8",
+    "target_word": "incoherent",
+    "question": "Despite the minister's two-hour defense of the legislative reforms, analysts dismissed the framework as fundamentally ___, citing its irreconcilable internal contradictions and total lack of logical progression between key policy objectives.",
+    "options": [
+      "inarticulate",
+      "incoherent",
+      "dumb",
+      "mute"
+    ],
+    "answer": "incoherent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The modifier applies to an abstract policy 'framework' that exhibits 'irreconcilable internal contradictions and total lack of logical progression.' In cognitive linguistics, selectional restrictions dictate that an abstract discursive structure can be 'incoherent' (failing to hold together logically), whereas 'inarticulate', 'dumb', and 'mute' select animate beings or physical vocalizations, making them semantic category violations.",
+    "distractor_analysis": {
+      "incoherent": "正确。Merriam-Webster 将其界定为“lacking orderly continuity, arrangement, or relevance; lacking internal consistency”（缺乏条理性、内部不一致、前后矛盾的）。句中后置分词从句“citing its irreconcilable internal contradictions and total lack of logical progression between key policy objectives”（指出其不可调和的内部矛盾以及关键政策目标之间全然缺乏逻辑递进）构成了对 incoherent 的排他性语义闭环，且 an incoherent framework / policy 属于高频社科经典搭配。",
+      "inarticulate": "错误。存在严重的选择限制（selectional restriction）违背。inarticulate 属于言语产出类形容词，主要修饰人（口齿不清的、不善言辞的）或未言语化的情感/声音（如 inarticulate longing/cry）。抽象的立法政策“框架”（framework）本身不具备发音器官，不能因其内容逻辑混乱而被称作 inarticulate。",
+      "dumb": "错误。语义与搭配范畴谬误。dumb 指缺乏说话能力或口语中的“愚蠢”，不能修饰制度或政策框架以表达“逻辑上支离破碎、缺乏连贯性”。",
+      "mute": "错误。mute 表示“无声的、缄默的”。该框架已被部长进行了长达两小时的公开辩护与阐述（two-hour defense），属于被充分文字化和言语化的政策文件，将其定性为“缄默无声”在语境逻辑上自相矛盾。"
+    },
+    "translation": "尽管该部长就立法改革进行了长达两小时的辩护，分析人士仍斥责该框架根本语无伦次、支离破碎，指责其存在不可调和的内在矛盾，且在各项核心政策目标之间完全缺乏逻辑递进。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_09",
+    "group_id": 415,
+    "group_name": "incisive, perceptive, keen, acute",
+    "level": "TEM-8",
+    "target_word": "incisive",
+    "question": "Faced with compounding financial instability, the central bank governor recognized that only prompt, ___ action could restore market confidence, especially after weeks of bureaucratic hesitation and timid half-measures had exacerbated the liquidity crisis.",
+    "options": [
+      "incisive",
+      "perceptive",
+      "keen",
+      "acute"
+    ],
+    "answer": "incisive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The head noun 'action' coordinated with 'prompt' ('prompt, ___ action') and placed in direct discursive contrast with 'bureaucratic hesitation and timid half-measures' exclusively selects 'incisive'. In lexicographical taxonomy (Cambridge, Oxford, Collins), 'incisive' uniquely extends to executive deeds and policy interventions to denote taking forceful, clear-cut, and decisive measures ('incisive action/leadership'). Distractors ('perceptive', 'keen', 'acute') are strictly restricted to sensory perception, mental faculties, emotional eagerness, or intensity of crises/pain, and cannot modify executive actions without severe category or collocational violation.",
+    "distractor_analysis": {
+      "incisive": "正确。incisive源自拉丁语incidere（切入、切开）。除了修饰论点或见解“一针见血的”（如incisive critique）之外，在权威学术与高级英语词典（如《剑桥高阶词典》、《牛津高阶词典》）中均设有专门的核心义项，用以修饰行动、措施或领导风格，表示“果决有力的、雷厉风行的、直截了当的”（an incisive action is one that is taken quickly and has a strong and clear effect; e.g., 'prompt, incisive action'）。句中与prompt并列修饰action，且与后文“bureaucratic hesitation and timid half-measures”（官僚主义的优柔寡断与微弱折中手段）构成严密的语义反衬，是唯一符合搭配与语境的选项。",
+      "perceptive": "错误。perceptive意为“有洞察力的、观察敏锐的”（having or showing sensitive insight or understanding），其修饰域严格限定于具有感知能力的生命主体（如perceptive scholar）、生理/心理感知机能或反映敏锐观察的智力表达（如perceptive observation/insight）。行政与政策行动（action）本身不具备感知功能，英语中不存在*perceptive action这一表述，属于典型的范畴错配（category mismatch）。",
+      "keen": "错误。keen意为“热切的、敏锐的、锋利的”，核心用法包括表达浓厚兴趣（keen interest）、感官或智力机能的敏锐（keen eyesight, keen intellect）以及刀刃的锐利（keen edge）。在现代标准英语中，keen绝不与action搭配来表达“果断有力的行政行动”（语料库中*keen action搭配频次为零），置入会导致严重的搭配断裂。",
+      "acute": "错误。acute用于修饰疾病的急性发作、危机或匮乏的剧烈程度（acute crisis, acute shortage）、生理感官的敏锐度（acute hearing）或几何锐角（acute angle）。它完全不具备“果断执行的”语义维度，根本无法充当action的定语修饰语（不存在*acute action表示坚决行动），置入会导致逻辑语义与语体严重失序。"
+    },
+    "translation": "面对日益加剧的金融动荡，央行行长意识到，唯有迅速而果决有力的行动才能恢复市场信心，尤其是在数周的官僚式犹豫不决和软弱折中手段已经加剧了流动性危机之后。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_10",
+    "group_id": 415,
+    "group_name": "incisive, perceptive, keen, acute",
+    "level": "TEM-8",
+    "target_word": "perceptive",
+    "question": "Although the chief negotiator was exceptionally ___ about the subtle shifts in the adversary's diplomatic posture, his tactical inflexibility ultimately prevented the delegation from capitalizing on those latent vulnerabilities.",
+    "options": [
+      "incisive",
+      "perceptive",
+      "keen",
+      "acute"
+    ],
+    "answer": "perceptive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is the prepositional frame 'was exceptionally ___ about the subtle shifts...'. In standard English lexicography, only 'perceptive' correctly governs the preposition 'about' to signify sensitive cognitive discernment of nuances. 'Incisive about' and 'acute about' represent ungrammatical prepositional mismatches; 'keen about' undergoes a semantic rupture, meaning 'enthusiastic about' rather than 'discerning'.",
+    "distractor_analysis": {
+      "perceptive": "正确。perceptive意为“具有敏锐洞察力的、体察细致的”。在句法上，perceptive可直接与介词about连用（如perceptive about people's moods / subtle changes），表示对微妙变化具有高度敏感的观察力；在语义上，它与宾语“subtle shifts in the adversary's diplomatic posture”（对手外交姿态的微妙转变）完全吻合。",
+      "incisive": "错误。incisive表示“锐利的、切中要害的”，通常作定语修饰analysis、critique、commentary等名词，或在句中描述论述风格，但其语法功能上绝不支配介词about（英语中不存在be incisive about sth的句法模式），此搭配属于语法硬伤。",
+      "keen": "错误。keen与介词about连用时（be keen about sth），其词义发生强制性极性偏移，专门表示“对……热衷、渴望、极感兴趣”（等同于enthusiastic about，例如keen about sports）。置入本句将产生荒谬的逻辑断裂（谈判代表不可能“热衷于对手姿态的转变”，此处语境强调的是对潜在弱点的认知洞察）。",
+      "acute": "错误。acute意为“灵敏的、严重的”，常见结构为名词性短语（an acute awareness of sth）或直接修饰名词，但其形容词作表语时从不接介词about（不存在be acute about的结构），属于典型的介词误选搭配（prepositional clash）。"
+    },
+    "translation": "尽管这位首席谈判代表对对手外交姿态中的微妙转变具有非同寻常的敏锐洞察力，但他的战术僵化最终导致代表团未能利用这些潜在弱点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_11",
+    "group_id": 416,
+    "group_name": "intrinsic, inbuilt, inner, internal",
+    "level": "TEM-8",
+    "target_word": "intrinsic",
+    "question": "Environmental ethicists contend that wilderness areas possess an ___ value that remains entirely independent of human utilitarian appraisal, directly challenging the anthropocentric premise that natural ecosystems derive significance solely from exploitation.",
+    "options": [
+      "intrinsic",
+      "inbuilt",
+      "inner",
+      "internal"
+    ],
+    "answer": "intrinsic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文的“remains entirely independent of human utilitarian appraisal”（完全独立于人类功利性评价）与“anthropocentric premise”（人类中心主义前提）构成鲜明对照，锁定生态哲学中表示“事物自身固有的、非工具性价值”的权威固定术语“intrinsic value”（内在价值）。",
+    "distractor_analysis": {
+      "intrinsic": "正确。intrinsic 意为“固有的、本质的、内在的”（belonging to a thing by its very nature）。在环境伦理学与生态学话语中，“intrinsic value”（内在价值）为经典专有名词，专门指自然生态系统不受人类利益或利用价值支配、本身客观具备的伦理地位。",
+      "inbuilt": "错误。inbuilt 意为“内置的、内设的”，强调经由人工工程设计或系统演化预先“嵌装”在特定物理架构内的组件或功能（如 inbuilt safeguards）。自然界客观固有的本体论价值不能被视作预先“装配”的构件，且学术界不存在 *inbuilt value* 的哲学表述。",
+      "inner": "错误。inner 意为“内部的、内心的”，主要指物理空间靠内（如 inner core）或主观精神世界（如 inner peace, inner turmoil）。修饰 value 时通常仅在通俗语境指人的“内在品格”（inner worth），在生态哲学术语中属于搭配断裂。",
+      "internal": "错误。internal 意为“内部的、体内的、国内的”，与 external（外部的）相对，侧重空间实体界限或组织管理系统之内（如 internal organs, internal affairs）。在价值理论中，internal value 仅见于财务会计或企业运营中的“内部价值/账面价值”，无法表达与功利工具性相对立的“客观固有价值”。"
+    },
+    "translation": "环境伦理学家主张，荒野地区拥有完全独立于人类功利性评价的内在价值，这直接挑战了认为自然生态系统的意义仅仅源于被开发利用的人类中心主义前提。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_12",
+    "group_id": 416,
+    "group_name": "intrinsic, inbuilt, inner, internal",
+    "level": "TEM-8",
+    "target_word": "inbuilt",
+    "question": "Ecological economists contend that the environmental crisis is exacerbated by manufactured goods featuring ___ obsolescence, a deliberate design strategy that accelerates resource depletion by ensuring hardware degrades within predetermined operational limits.",
+    "options": [
+      "intrinsic",
+      "inbuilt",
+      "inner",
+      "internal"
+    ],
+    "answer": "inbuilt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文同位语“a deliberate design strategy that accelerates resource depletion by ensuring hardware degrades within predetermined operational limits”（通过确保硬件在预设操作限度内老化来加速资源耗竭的刻意设计策略）明确锁定了工业制造与生态经济学中的权威固定搭配“inbuilt obsolescence”（计划性/预设报废）。",
+    "distractor_analysis": {
+      "inbuilt": "正确。inbuilt 意为“内建的、预设的、生来就有的”（built-in; formed as an essential part of something from the beginning）。“inbuilt obsolescence”（预设报废机制，即英式英语中 planned obsolescence 的同义权威术语）是经济学和生态设计中的固定搭配，精准契合后文“人为刻意设计（deliberate design strategy）”的语义要求。",
+      "intrinsic": "错误。intrinsic 意为“内在固有的、本质特有的”（belonging by nature）。句中明确指出该报废机制是制造商施加的“deliberate design strategy”（人为蓄意策略），这与事物本性自带、不可剥离的“intrinsic”在逻辑语义上直接冲突（人为策略并非产品的自然本质）。",
+      "inner": "错误。inner 侧重于物理位置的深层内部或精神心理层面，与工业制造、生命周期术语 obsolescence 搭配属于严重语用偏离，学术英语中无 *inner obsolescence* 一说。",
+      "internal": "错误。internal 强调在组织或物理界线内部（与 external 对应）。在工业工程与产品生命周期管理中，不存在 *internal obsolescence* 用于描述人为预设报废（在不动产估价中 internal obsolescence 指建筑物内部布局缺陷，与题干硬件老化淘汰策略毫无关联）。"
+    },
+    "translation": "生态经济学家认为，具有预设报废特性的工业制成品加剧了环境危机；这是一种蓄意的设计策略，通过确保硬件在预设的使用周期内老化失效，从而加速了自然资源的耗竭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_13",
+    "group_id": 417,
+    "group_name": "majestic, regal, royal, noble",
+    "level": "TEM-8",
+    "target_word": "majestic",
+    "question": "Tracing the immutable laws of orbital mechanics, the astronomer described the ___ motion of the celestial spheres, emphasizing an imposing cosmic grandeur that entirely transcended the ephemeral reign of terrestrial monarchs.",
+    "options": [
+      "majestic",
+      "regal",
+      "royal",
+      "noble"
+    ],
+    "answer": "majestic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "The head noun 'motion of the celestial spheres' coupled with 'imposing cosmic grandeur' requires an adjective denoting solemn dignity associated with vast scale and stately dynamic movement, a semantic domain lexicographically unique to 'majestic' (cf. Merriam-Webster: 'as of great size or stately motion <the majestic motion of the planets>'). Concurrently, 'transcended the ephemeral reign of terrestrial monarchs' logically disqualifies monarchical terms ('regal', 'royal'), while 'noble' cannot collocate with dynamic astronomical mechanics.",
+    "distractor_analysis": {
+      "majestic": "正确。Merriam-Webster 明确指出：“MAJESTIC combines the ideas of solemn dignity and imposing grandeur (as of great size or stately motion) <the majestic motion of the planets>”。在同义词辨析中，majestic 是唯一专门用于表述天体或自然伟力所呈现出的“庄严宏伟、迟缓而庄重的动态运动”（stately motion）的形容词。句中“motion of the celestial spheres”与“imposing cosmic grandeur”构成了字典级典范契合。",
+      "regal": "错误。regal 源自拉丁语 regalis，核心语义指向君王个人的外在仪表、神态、风度或宫廷仪仗（suggests the outward appearance, stature, or bearing of a monarch）。将其用于修饰冷峻客观的天体运行轨迹属于范畴错配（category mistake）；此外，后半句“transcended the ephemeral reign of terrestrial monarchs”明确将天体气象置于人间王权之上，在语义逻辑上排斥具有君主仪表意味的 regal。",
+      "royal": "错误。royal 为事实属性形容词，严格指“属于君王、王室或经王室法定特许的”（pertaining to, or derived from an actual king or queen）。天球与行星的公转属于宇宙物理现象，与任何世俗王权无涉，修饰“motion”不合逻辑。",
+      "noble": "错误。noble 用于物象时，主要修饰静态建筑、容貌或植物中表现出的“尊严庄重、规模宏阔”（grand or impressive especially in appearance: stately, 如 a noble facade, noble pines），或指道德境界的高尚。noble 在现代英语中不具备表示宏大天体“庄严迟缓之动态运动”（stately motion）的语义潜能，与 motion of the celestial spheres 构成搭配脱节。"
+    },
+    "translation": "追溯天体运行机制的恒常法则，这位天文学家描摹了天球那种庄严宏伟的运动，并着重强调了一种完全超越尘世君主短暂统治的壮阔宇宙气象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_14",
+    "group_id": 417,
+    "group_name": "majestic, regal, royal, noble",
+    "level": "TEM-8",
+    "target_word": "regal",
+    "question": "Throughout the cabinet crisis, the prime minister treated the parliamentary committee with such ___ disdain, summarily dismissing their statutory inquiries, that backbenchers accused him of governing like an absolute monarch.",
+    "options": [
+      "majestic",
+      "regal",
+      "royal",
+      "noble"
+    ],
+    "answer": "regal",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "The syntactic co-text 'such ___ disdain, summarily dismissing their statutory inquiries, that backbenchers accused him of governing like an absolute monarch' specifically selects for an autocratic, monarch-like haughtiness (Merriam-Webster's explicit illustrative paradigm: 'a regal disdain for the opinions of others'). This sharply eliminates 'royal' (strictly factual/institutional kingship), 'majestic' (awe-inspiring sublimity that clashes with contemptuous disdain), and 'noble' (moral excellence or sub-monarchical peerage).",
+    "distractor_analysis": {
+      "regal": "正确。Merriam-Webster 在 royal 词条下的同义辨析中明确指出：“REGAL stresses the outward pomp, grandeur, or autocratic manner of a monarch: a regal disdain for the opinions of others（regal 强调君王般的外在排场、壮丽或专断独裁的举止姿态，如‘对他人意见表现出如帝王般的傲慢轻视’）”。Fowler's Modern English Usage 与 Garner's Modern English Usage 亦强调：royal 表示客观属于君主或王室的法定身份，而 regal 则专用于形容非君主个体展现出的宛如君王的威仪、排场或专制傲慢神态（regal disdain 属经典权威搭配）。句中首相作为民选官员，专横拒绝议会的法定质询，被指责执政犹如专制君主（absolute monarch），精准契合 regal 专指“专制、独断、宛如帝王般傲慢”的语义与搭配特质。",
+      "majestic": "错误。majestic（源自 majesty）的核心内涵在于“宏伟庄严的、令人肃然起敬的”（suggests an awe-inspiring quality of greatness; stately, dignified），多用于修饰壮丽的大自然景观、恢弘建筑、崇高艺术或肃穆高贵的气象。其词义极性为高度正面赞赏的美学与尊严特征，而 disdain（蔑视、轻慢）属于负面的排他性专横态度，二者在语义逻辑上产生严重冲突，英语中不存在 *majestic disdain 的搭配。",
+      "royal": "错误。royal 是客观事实与制度宪政层面的词汇，严格指代属于实际在位君主、王室血统或王权官方机构的事物（如 the royal family, royal assent, royal prerogative）。权威用法词典（Garner）强调：royal 表示客观存在的王室关联（actual connection with a monarch），不能用于形容非王室成员的个人傲慢神情或专断作风；且英语中无 *royal disdain 这一搭配，用于指代民选首相的行为亦造成制度语义上的范畴错乱。",
+      "noble": "错误。noble 的首要含义为“道德高尚的、品质卓越的”（moral superiority, magnanimous），用于形容首相无视民主质询、专权跋扈的行为会产生严重的逻辑自相矛盾；其次，当 noble 表示“贵族阶层的”社会阶级时，其指代的是封建体系中位于君主统治之下的臣属阶层（公、侯、伯、子、男等爵位），而句末锚点明确为“如专制君主（absolute monarch）般执政”，在政治权力等级与语义专属性上均与语境不符。"
+    },
+    "translation": "在整个内阁危机期间，首相以一种宛如专制君王般的傲慢轻蔑对待议会委员会，断然拒绝后者的法定质询，以至于后座议员指责他的执政风格犹如一位专制君主。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_15",
+    "group_id": 418,
+    "group_name": "operative, operational, good, effective",
+    "level": "TEM-8",
+    "target_word": "operative",
+    "question": "In evaluating the ambiguous diplomatic communique, several seasoned sinologists observed that 'reciprocity' remained the ___ word, fundamentally governing every bilateral negotiation and strategic compromise between the two powers.",
+    "options": [
+      "operative",
+      "operational",
+      "good",
+      "effective"
+    ],
+    "answer": "operative",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'the ___ word' functioning in metalinguistic discourse analysis to denote the single most significant and decisive keyword in a statement, reinforced by 'fundamentally governing every bilateral negotiation'.",
+    "distractor_analysis": {
+      "operative": "【正确】在此处构成固定搭配“the operative word”（起决定作用的关键语、核心字眼）。在认知语用与话语分析中，“operative word”专指文本或论述中具有实质支配力、决定整体基调的关键核心词。后文的“fundamentally governing every bilateral negotiation”（从根本上主导每一次双边谈判）为其提供了决定性的语义锚点。",
+      "operational": "【排除】意为“操作上的、运行的、业务层面的”（relating to the functioning of an organization or system），常用于 operational costs（运营成本）或 operational readiness（战备就绪）。英语中不存在 *operational word 这一固定搭配，属形近词干扰。",
+      "good": "【排除】在此结构中，“the good word”在习惯用语中通常指“好消息、佳音”（如 spread the good word 或 What's the good word?），用于严肃的国际外交文本认知分析中不仅语域失配，更造成语义荒谬。",
+      "effective": "【排除】意为“产生预期效果的、起作用的”（producing a decided effect）。虽然单个词语在修辞层面可被描述为 effective（如 an effective metaphor），但“the effective word”并非英语中表示“具有决定性统摄地位之关键词”的固定短语，搭配不当。"
+    },
+    "translation": "在解读这份含糊其辞的外交公报时，数位资深中国问题专家指出，“对等”依然是那个起决定性作用的关键词，从根本上主导着两国间的一切双边谈判与战略妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_16",
+    "group_id": 418,
+    "group_name": "operative, operational, good, effective",
+    "level": "TEM-8",
+    "target_word": "operational",
+    "question": "Before cognitive psychologists can empirically evaluate subjective phenomena such as creative intuition, they must establish rigorous ___ definitions that translate nebulous mental constructs into quantifiable behavioral metrics.",
+    "options": [
+      "operative",
+      "operational",
+      "good",
+      "effective"
+    ],
+    "answer": "operational",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun collocation '___ definitions' paired with the explanatory clause 'that translate nebulous mental constructs into quantifiable behavioral metrics', which is the precise textbook definition of operationalization in empirical cognitive science.",
+    "distractor_analysis": {
+      "operational": "【正确】与 definitions 构成实证科学与认知心理学中的经典专业术语搭配“operational definitions”（操作性定义）。定语从句“that translate nebulous mental constructs into quantifiable behavioral metrics”（将模糊的心理构念转化为可量化的行为指标）准确界定了“操作性定义”的方法论实质，具有排他性契合度。",
+      "operative": "【排除】强调“现行有效的、起支配作用的”（having force or effect），常用于法律或政策语境中的 operative clauses（有效条款）或 operative factors（主导因素）。“operative definitions”仅表示“现行生效的定义”，不具备实证科学中“将概念转化为可观测操作指标”的特定方法论内涵。",
+      "effective": "【排除】意为“行之有效的、产生良好效果的”。“effective definitions”仅是一般性描述（有效的定义），无法对应认知实验方法学中将心理构念具体指标化的“操作化”（operationalization）专业概念体系。",
+      "good": "【排除】词义过于泛化且语体口语化，既不符合认知心理学实证研究的高阶学术语域，也无法表达“操作性定义”这一核心科学概念。"
+    },
+    "translation": "在认知心理学家对创造性直觉等主观现象进行实证评估之前，他们必须确立严格的操作性定义，将模糊的心理构念转化为可量化的行为指标。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_17",
+    "group_id": 419,
+    "group_name": "painstaking, scrupulous, careful, conscientious",
+    "level": "TEM-8",
+    "target_word": "painstaking",
+    "question": "Extracting intact prehistoric DNA from heavily degraded Neanderthal fossils is as ___ as it is technologically formidable, often requiring months of micro-drilling and chemical purification under rigorous cleanroom conditions.",
+    "options": [
+      "painstaking",
+      "scrupulous",
+      "careful",
+      "conscientious"
+    ],
+    "answer": "painstaking",
+    "primary_mechanism": "MECH_SEMANTIC_CONSTRAINT",
+    "field": "FIELD_ACADEMIC_RESEARCH",
+    "anchor_clue": "句子的语法主语为动名词短语 'Extracting intact prehistoric DNA from heavily degraded Neanderthal fossils'（一项非人称的物理/生物化学提取任务），系表结构为 'is as ___ as it is technologically formidable'，后接分词从句 'often requiring months of micro-drilling and chemical purification'。在四个选项中，仅有 painstaking 具备客观任务导向的被动/属性义素，即韦氏词典所释 'requiring diligent care and effort; arduous'（需要付出巨大心血与辛劳的，用于修饰任务或过程本身）。其余三个选项（careful、scrupulous、conscientious）皆为主体导向词（agent-oriented），必须修饰具有意志、谨慎心、道德良知或学术准则的行为主体（人）或其主观态度，若作表语直接修饰物理提取过程（*Extracting DNA is careful / scrupulous / conscientious），在语义和句法选择限制上均构成严重的范畴谬误（category mistake）。",
+    "distractor_analysis": {
+      "painstaking": "正确。根据《韦氏词典》，painstaking 的核心定义为 'taking pains : expending, marked by, or requiring diligent care and effort'。与其他近义词不同，painstaking 不仅能修饰人的态度，还专具客观任务属性，可直接作表语修饰一项非人称的艰巨任务、工序或动名词行为（如 'The extraction is painstaking'），意为该过程本身极其繁重艰巨、需要耗费旷日持久的微观心力与繁琐劳作。句中提取古代DNA的流程与 'technologically formidable'（技术难度极大）并列，并由后文 'requiring months of micro-drilling...' 明确锚定，语法与语义完全契合。",
+      "scrupulous": "错误。根据《韦氏词典》，scrupulous 意为 'having moral integrity : principled; punctiliously exact'，其语义核心在于行为主体对道德准则、事实真伪、法律法规或操作规程的恪守与一丝不苟（如 scrupulous compliance, scrupulous honesty, scrupulous adherence）。它修饰的是有道德或学术规范约束的人或态度，不能作表语修饰一项纯粹的生物化学微孔钻取与提纯物理过程（*Extracting DNA is scrupulous 属于严重的范畴错配），更无法承载后文强调的耗时漫长、劳作艰辛（arduous labor）的核心特征。",
+      "careful": "错误。careful 侧重于行为主体的主观审慎、防范危险或差错（exercising caution, watchfulness, or vigilance against harm or error），属于典型的主体行为动因词（如 a careful driver, careful consideration）。在高级学术英语中，careful 无法作表语修饰一项耗费数月心血的微观提取工程来表示该工程 '需要繁难的辛劳投入'（英语中绝无 *Extracting DNA is careful 这种将过程拟人化为具备谨慎特质的用法），在语义深度和语域层级（register）上均产生严重断裂。",
+      "conscientious": "错误。conscientious 的根本义素在于 'governed by conscience : principled'（受良知驱使、负责尽责），用来表征有道德自觉的人（如 conscientious researcher）或出于尽责态度的努力（conscientious effort）。提取化石DNA是一项客观的技术操作与实验流程，不具备道德、良知或职责自觉性，用于作表语修饰动名词短语 Extracting DNA 属于绝对的语义属性错配（category error）。"
+    },
+    "translation": "从严重降解的尼安德特人化石中提取完整的史前DNA，既需要耗费极其艰苦细致的心血，在技术层面又极具挑战性，往往需要在严格的无菌实验室条件下进行长达数月的微钻取样与化学提纯。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_18",
+    "group_id": 419,
+    "group_name": "painstaking, scrupulous, careful, conscientious",
+    "level": "TEM-8",
+    "target_word": "scrupulous",
+    "question": "Throughout the contentious maritime arbitration, the tribunal maintained a ___ neutrality, refusing all ex parte communications to prevent even the slightest suspicion of judicial bias or ethical impropriety.",
+    "options": [
+      "painstaking",
+      "scrupulous",
+      "careful",
+      "conscientious"
+    ],
+    "answer": "scrupulous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中被修饰词为抽象立场名词 'neutrality'（中立立场），修饰语境为国际法律仲裁，且后置理由明确指向 'ethical impropriety'（道德/职业操守失当）与 'judicial bias'（司法偏见）。'scrupulous neutrality' 是国际法与高阶外交中严整固定的专业搭配，表示在道德与程序上恪守至善、不偏不倚的绝对中立。",
+    "distractor_analysis": {
+      "scrupulous": "正确。根据韦氏词典，scrupulous 意为 'acting in strict regard for what is considered right or proper'（严格恪守正当与道义标准）及 'punctiliously exact'（极度严谨的）。'scrupulous neutrality'（严格公正的中立/恪守职业伦理的中立）是政治学、法学与外交领域的固定权威搭配，与后文拒绝单方接触以规避 'ethical impropriety' 构成完美的逻辑互证。",
+      "painstaking": "错误。painstaking 专指具体劳作过程中付出极大心力的 '艰苦细致'（如 painstaking research/investigation），其语义受限于 '付出辛劳/细致入微'，不能用于修饰抽象的态度立场或法权地位（不能说 'painstaking neutrality'），存在严重的范畴搭配错误（category mismatch）。",
+      "careful": "错误。careful 词义浅显平淡，意为普通的 '小心翼翼的'。在庄重的高级法律仲裁语境中，'careful neutrality' 显得极为口语化且语力过弱，无法表达出司法主体为了杜绝职业道德瑕疵而表现出的那种 '严守准则、秋毫无犯'（scrupulous）的敬畏与严谨。",
+      "conscientious": "错误。conscientious 意为 '本着良心行事的、尽职尽责的'。虽然其涉及道德良知，但其搭配对象通常是主体的职务态度或义务履行（如 conscientious objection, conscientious performance），不能与代表客观超然立场的 'neutrality' 形成常规学术搭配。"
+    },
+    "translation": "在整场极具争议的海事仲裁过程中，仲裁庭恪守极度严格的中立立场，拒绝任何单方接触，以杜绝哪怕是一丁点关于司法偏见或违背职业操守的嫌疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_19",
+    "group_id": 420,
+    "group_name": "precipitous, precipitate, hasty, hurried",
+    "level": "TEM-8",
+    "target_word": "precipitous",
+    "question": "Geomorphological surveys reveal that the endemic alpine flora survives exclusively along the canyon’s ___ escarpments, clinging tenaciously to sheer vertical rock faces where grazing herbivores cannot tread.",
+    "options": [
+      "precipitous",
+      "precipitate",
+      "hasty",
+      "hurried"
+    ],
+    "answer": "precipitous",
+    "primary_mechanism": "MECH_SEMANTIC_SUBTLETY",
+    "field": "FIELD_GEOLOGY",
+    "anchor_clue": "clinging tenaciously to sheer vertical rock faces where grazing herbivores cannot tread: The blank directly modifies 'escarpments' (steep cliffs/slopes) and is explicitly anchored by the participial descriptor 'sheer vertical rock faces', unequivocally demanding an adjective denoting literal physical steepness, sheer drop, and vertical relief.",
+    "distractor_analysis": {
+      "precipitous": "正确。precipitous 本义为“陡峭的、险峻的、如悬崖般的”（very steep, perpendicular, sheer），源于拉丁语 praecipitium（悬崖）。句中修饰地貌学核心词汇 escarpments（断崖、绝壁），与后文伴随状语中“clinging tenaciously to sheer vertical rock faces”（紧紧附着在陡峭垂直的岩面上）形成严密的语义呼应与同义闭环，完全符合地质学与高山生态学学术语域。",
+      "precipitate": "错误。precipitate 作形容词时（读音为 /prɪˈsɪpɪtət/），在现代标准英语中严格用于形容人为决策、举措或抽象事件的“轻率仓促的、突如其来的”（done with great haste and without deliberation, or happening abruptly），如 precipitate action、precipitate withdrawal。其历史上表示物理地形“陡峭”的义项在现代英语中已被《牛津英语词典》（OED）明确标为“废弃”（Obsolete）。用其修饰客观静态的地形名词 escarpments 存在严重的语义范畴与语用时代性错误。",
+      "hasty": "错误。hasty 意为“仓促的、草率的”，其语义核心必定附带主观能动主体的意识活动，修饰因匆忙或缺乏审慎而采取的动作、决策（如 a hasty retreat, hasty conclusions）。将其置于修饰客观静态自然构造（escarpments）的语境下，属于典型的语义范畴错配（category mistake）。",
+      "hurried": "错误。hurried 为分词形容词，侧重“在时间压迫下急忙完成的”（done in a rush or under pressure of time），如 a hurried glance, a hurried consultation。地质断崖为亿万年自然演化的静态物理实体，不可能承载“时间紧迫下的仓促感”，逻辑与搭配均彻底断裂。"
+    },
+    "translation": "地貌调查显示，该特有的高山植物群落仅存活于峡谷险峻的断崖之上，它们顽强地附着在陡峭垂直的岩壁表面，使食草动物无法践踏涉足。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b41_20",
+    "group_id": 420,
+    "group_name": "precipitous, precipitate, hasty, hurried",
+    "level": "TEM-8",
+    "target_word": "precipitate",
+    "question": "In their ___ haste to pass the sweeping constitutional amendments before the legislative recess, the coalition overlooked glaring statutory contradictions, thereby instigating protracted legal challenges that severely undermined subsequent judicial enforcement.",
+    "options": [
+      "precipitous",
+      "precipitate",
+      "hasty",
+      "hurried"
+    ],
+    "answer": "precipitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_GOVERNANCE",
+    "anchor_clue": "___ haste to pass ... overlooked glaring statutory contradictions: 'precipitate haste' is an established formal collocation (explicitly recorded in Merriam-Webster: 'exhibiting violent or unwise speed: headlong, rash <precipitate haste>'). Distractors 'hasty' and 'hurried' are definitively blocked by tautological pleonasm (*hasty haste*, *hurried haste*), while 'precipitous' is prescriptively restricted to topographical steepness or steep statistical decline.",
+    "distractor_analysis": {
+      "precipitate": "正确。precipitate 作形容词时意为‘仓促轻率的、鲁莽盲目的’（acting with or marked by headlong, rash speed and lack of due deliberation）。在正式学术与政法公文语域中，precipitate haste（轻率的急躁/盲目的仓促）是《韦氏词典》明确收录的经典权威搭配（sense 2 核心例证即为 precipitate haste），精准修饰因缺乏深思熟虑而造成灾难性后果的立法急躁。",
+      "precipitous": "错误。precipitous 的核心规范语义为‘险峻陡峭的’（steep, sheer）或修饰曲线数值‘断崖式暴跌的’（a precipitous drop）。规范用法词典（如 Garner's Modern English Usage 与 Fowler's）明确指出，将 precipitous 用于修饰人的行动速度或急躁情绪（haste）属于将 precipitous 与 precipitate 混为一谈的典型别字/用词不当错误（malapropism/catachresis）。",
+      "hasty": "错误。hasty 与中心词 haste 共享完全相同的词根（源自古法语及日耳曼语 haste）。修饰 haste 会构成极其荒谬的同义词根同义反复（tautological reduplication），即 *hasty haste*，在正规英语句法和语体中属于绝对不可接受的赘述硬伤。",
+      "hurried": "错误。hurried 修饰 haste 同样构成无意义的语义重叠与拙劣赘述（*hurried haste* 为严重的 pleonasm）。此外，hurried 侧重‘由于受物理时间紧迫催促而匆忙’（under time pressure），缺乏 precipitate 所蕴含的‘因鲁莽轻率而招致严重体制/法律危机’的规诫性学术内涵。"
+    },
+    "translation": "为了赶在议会休会前通过影响深远的宪法修正案，该执政联盟表现出仓促鲁莽的急躁，忽视了明显的法定条文冲突，从而引发了持久的法律诉讼，严重损害了后续的司法执行力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

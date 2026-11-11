@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b36_01",
+    "group_id": 361,
+    "group_name": "clandestine, covert, surreptitious, secret",
+    "level": "TEM-8",
+    "target_word": "clandestine",
+    "question": "In strategic studies, while a covert operation seeks primarily to conceal the sponsor’s identity to maintain plausible deniability, a strictly ___ operation is designed to hide the very existence of the activity from international scrutiny.",
+    "options": [
+      "clandestine",
+      "covert",
+      "surreptitious",
+      "secret"
+    ],
+    "answer": "clandestine",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_POLITICAL_SCIENCE",
+    "anchor_clue": "The contrastive discourse marker 'while a covert operation seeks primarily to conceal the sponsor’s identity... a strictly ___ operation is designed to hide the very existence of the activity' relies on the foundational taxonomy of strategic intelligence studies: 'covert' conceals the sponsor, whereas 'clandestine' specifically conceals the existence of the operation itself.",
+    "distractor_analysis": {
+      "clandestine": "正确。在战略学、国际安全与情报理论（如美国国防部 DoD JP 3-05 标准及北约军语词典）中，clandestine 与 covert 构成了高度严密的学科对仗分类。covert operation（隐蔽行动）的核心特征是掩盖资助者/国家身份以获取“合理推诿”（plausible deniability）；而 clandestine operation（秘密行动）的核心定义则是“隐藏行动本身的发生与存在”（concealment of the operation itself）。主句的定义精准契合 clandestine 的排他性学科内涵。",
+      "covert": "排除。句首从句已明确出现“while a covert operation seeks primarily to conceal the sponsor’s identity...”，连词 while 在此确立了明确的相反对照关系。若主句空格再填入 covert，将造成明显的逻辑自相矛盾与语义同义反复（tautological contradiction）。",
+      "surreptitious": "排除。surreptitious 属于微观行为描写词，核心语义强调个体出于害怕被当场发现而采取的偷偷摸摸、暗中鬼祟的动作（如 a surreptitious glance 偷瞄，surreptitious entry 潜入）。它既不具备宏观战略条令的分类属性，也无法修饰制度化、组织化的国家安全行动（operation），属于典型的语义范畴错配（category mistake）。",
+      "secret": "排除。secret 是未经分化的日常通用词（umbrella term），涵盖一切未公开的事物。在战略学话语体系中，covert 与 clandestine 皆属于泛称的 secret operations；但面对本句极度严密的“隐藏发起主体 vs. 隐藏行动存在”的学术定义对比，secret 语意过于宽泛模糊，缺乏术语专属性，无法与前半句的 covert 形成合乎学科规范的对仗。"
+    },
+    "translation": "在战略学研究中，隐蔽行动主要旨在隐匿发起者的身份以维持合理推诿，而严格意义上的秘密行动则旨在向国际监督彻底隐瞒该活动本身的客观存在。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_02",
+    "group_id": 361,
+    "group_name": "clandestine, covert, surreptitious, secret",
+    "level": "TEM-8",
+    "target_word": "covert",
+    "question": "While the administration maintained an overtly diplomatic posture toward the disputed region, its intelligence directorate authorized ___ operations to arm insurgent factions, relying on plausible deniability to avoid international condemnation.",
+    "options": [
+      "clandestine",
+      "covert",
+      "surreptitious",
+      "secret"
+    ],
+    "answer": "covert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The explicit antithetical pivot against 'overtly diplomatic posture' combined with the statutory national-security term of art 'plausible deniability' creates an irrefutable anchor for 'covert operations' (the official geopolitical term for operations whose sponsor's identity is concealed).",
+    "distractor_analysis": {
+      "covert": "正确。covert 意为“隐蔽的、不公开声明的”，在国际关系和国家安全话语中与 overt（公开的）构成最为经典的二元修辞反义对立。句首的“overtly diplomatic posture”与句末情报学专门术语“plausible deniability”（合理推诿/无法证实性）形成决定性排他锚点，唯一锁定国家战略层面的术语搭配“covert operations”（隐蔽行动）。",
+      "clandestine": "排除。在军事与情报学严格定义中，clandestine operations 核心在于“行动本身完全不被察觉”（concealment of the operation），而 covert operations 的核心教条在于行动可被察觉但赞助者身份被隐蔽以实现“合理推诿”（plausible deniability）；且 clandestine 无法与副词“overtly”形成严格的修辞对仗。",
+      "surreptitious": "排除。surreptitious 意为“鬼祟的、鬼鬼祟祟的”，通常用来描摹个人暗中进行的小动作（如偷看、偷拿），置于宏观国家地缘战略与武装派系的情报语境中，会产生严重的语域不合与风格滑稽感（stylistic mismatch）。",
+      "secret": "排除。secret 词义泛化、通俗，属于非术语化的日常表达，既无法与前文的“overtly”形成固定的学术反义配对，也无法承载与“plausible deniability”这一法定情报概念相匹配的专业政治学语域重量。"
+    },
+    "translation": "尽管该政府在争议地区问题上保持着公开发表的外交姿态，但其情报局却同时授权了旨在武装叛乱派系的隐蔽行动，并依靠合理推诿来逃避国际社会的谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_03",
+    "group_id": 362,
+    "group_name": "corpulent, obese, weighty, fat",
+    "level": "TEM-8",
+    "target_word": "corpulent",
+    "question": "The portraitist deliberately emphasized the magistrate’s imposing yet ___ frame, using his expansive girth and layered velvet attire to project an image of venerable, patrician prosperity rather than vulgar excess.",
+    "options": [
+      "corpulent",
+      "obese",
+      "weighty",
+      "fat"
+    ],
+    "answer": "corpulent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“imposing yet ___ frame”（威严却健硕圆润的身躯）与后文“expansive girth”（宽阔的腰围）及“patrician prosperity”（贵族式的富贵体面）构成了高度典雅的历史肖像描写语域。在此语境中，修饰人体“躯干骨架（frame）”并传达出具有社会威望的“发福、肥胖”概念，在词法搭配与语域上唯有高阶书面语 corpulent 符合要求。",
+    "distractor_analysis": {
+      "corpulent": "正确。属于高阶文雅书面语，专指人体骨架粗大、体态丰腴发福、大腹便便（portly, stout），常与 frame、figure、physique 等搭配，且常带有社会地位带来的富态与威仪感，完美契合题干中艺术肖像与贵族富贵的语境。",
+      "obese": "错误。属于现代医学与流行病学维度的病理学术语，强调体脂超标导致的病态肥胖，与题干所描绘的古典艺术肖像中展现“庄严、贵族富态”的审美及历史语域发生严重冲突，且极少修饰 frame。",
+      "weighty": "错误。主要用于修饰抽象事物表示“重大的、严肃的”（如 a weighty matter / weighty decision），或修饰无生命物体表示“沉重的”，不能用作形容人体肉体发福丰腴的定语。",
+      "fat": "错误。属于最基础、通俗乃至口语化的直白词汇，感情色彩常偏贬义或粗俗，与全句典雅考究的学术级艺术批评语域（patrician prosperity, expansive girth, magistrate）产生严重的语体断层（stylistic clash）。"
+    },
+    "translation": "这位肖像画家特意突出了地方行政长官那威严而又发福肥硕的身躯，借由其宽阔的腰围和层层叠叠的天鹅绒服饰，展现出一种令人肃然起敬的贵族式富贵体面，而非庸俗的放纵挥霍。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_04",
+    "group_id": 362,
+    "group_name": "corpulent, obese, weighty, fat",
+    "level": "TEM-8",
+    "target_word": "obese",
+    "question": "Epidemiological studies indicate that adolescents classified as clinically ___ face an elevated risk of cognitive impairment, primarily mediated by chronic neuroinflammation and microvascular alterations in early adulthood.",
+    "options": [
+      "corpulent",
+      "obese",
+      "weighty",
+      "fat"
+    ],
+    "answer": "obese",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首的“Epidemiological studies”（流行病学研究）以及诊断性限定结构“classified as clinically ___”（在临床上被归类为……）构成了不可动摇的医学诊断锚点。“clinically obese”（临床肥胖）是全球公共卫生与医学领域的固定专有名词搭配，其他三项均不可进入该临床诊断框架。",
+    "distractor_analysis": {
+      "obese": "正确。医学与公共卫生学科的法定诊断专有词，严格由体质指数（BMI）等病理指标界定，“clinically obese”为国际公认的规范学术固定搭配，与认知损伤、神经炎症等语境严丝合缝。",
+      "corpulent": "错误。为文学及描写性用词，强调肉眼可见的体态丰硕、富态肥胖，完全不具备临床流行病学分类的标准定义，不能构成“clinically corpulent”。",
+      "weighty": "错误。语义为“沉重的”或“重大的”，无法用于人体病理性体重的分类，逻辑与搭配均不成立。",
+      "fat": "错误。属于日常通俗非正式用语，在严谨的循证医学与流行病学报告中，分类诊断从不使用“clinically fat”，存在严重的学术规范性缺失。"
+    },
+    "translation": "流行病学研究表明，被归类为临床肥胖的青少年面临更高的认知功能损伤风险，这主要是由成年早期的慢性神经炎症和微血管病变所介导的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_05",
+    "group_id": 363,
+    "group_name": "degenerate, dissolute, dissipated, fast",
+    "level": "TEM-8",
+    "target_word": "degenerate",
+    "question": "Once revered as a profound epistemological framework, the philosophy gradually succumbed to dogmatic orthodoxy, leaving contemporary scholars to dismiss its corrupted iterations as ___ parodies of authentic dialectical inquiry.",
+    "options": [
+      "degenerate",
+      "dissolute",
+      "dissipated",
+      "fast"
+    ],
+    "answer": "degenerate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrast between the framework's pristine origin ('Once revered as a profound epistemological framework') and its subsequent deterioration ('corrupted iterations... of authentic dialectical inquiry') demands a word denoting decline from an original standard of excellence.",
+    "distractor_analysis": {
+      "degenerate": "正确。句中明确呈现了该哲学框架从最初公认的崇高与严谨（'Once revered as a profound epistemological framework'）逐步退化并遭到扭曲的历程。Merriam-Webster 将 degenerate 界定为 'having declined or deteriorated to a lower condition from an original or ancestral state of excellence'（从原有优良状态退化、堕落）。在此修饰 'parodies of authentic dialectical inquiry'，精准体现出其从真正的辩证探索沦为‘退化变质的劣质仿制品’的内涵。",
+      "dissolute": "错误。dissolute 侧重于个人缺乏道德自律、放纵肉欲与感官享乐（'lacking moral restraint; profligate, debauched'），多用于修饰人的私生活或放荡行径（如 dissolute life/habits），无法修饰抽象的哲学迭代或辩证探索产物。",
+      "dissipated": "错误。dissipated 强调因沉溺享乐而导致精力、健康或财富的‘虚耗、挥霍与消沉’（often specifically implies a physical or mental deterioration resulting from indulgence，如 dissipated look/energies），修饰认识论产物属于语义范畴严重错配。",
+      "fast": "错误。fast 指放荡、寻欢作乐时语体色彩偏非正式（如 a fast crowd），且侧重节奏超前、肆意挥霍的现代享乐方式，与高级学术期刊探讨认识论（epistemological framework）的庄重语域严重冲突。"
+    },
+    "translation": "该哲学曾被尊奉为深奥的认识论框架，后来却逐渐沦为教条主义的正统观念，致使当代学者将其腐化的变体斥为对纯正辩证探究的退化性拙劣模仿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_06",
+    "group_id": 363,
+    "group_name": "degenerate, dissolute, dissipated, fast",
+    "level": "TEM-8",
+    "target_word": "dissolute",
+    "question": "In his philosophical inquiry into civic virtue, the ethicist argued that a magistrate guilty of ___ conduct, marked by unabashed licentiousness and flagrant contempt for moral boundaries, inevitably erodes the public trust essential to governance.",
+    "options": [
+      "degenerate",
+      "dissolute",
+      "dissipated",
+      "fast"
+    ],
+    "answer": "dissolute",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The defining non-restrictive modifier 'marked by unabashed licentiousness and flagrant contempt for moral boundaries' strictly replicates the MW definition of dissolute ('unrestrained by convention or morality; debauched'), forming the classic academic-legal collocation 'dissolute conduct'.",
+    "distractor_analysis": {
+      "dissolute": "正确。句中的同位语解释 'marked by unabashed licentiousness and flagrant contempt for moral boundaries'（以毫不掩饰的放荡和对道德界限的公然藐视为主旨）构成了决定性锚点，完全对应 Merriam-Webster 对 dissolute 的核心释义 'unrestrained by convention or morality; profligate, debauched'。且 'dissolute conduct'（放荡行径、道德败坏行为）是伦理学与法学传统中固定的正式搭配。",
+      "degenerate": "错误。degenerate 的核心语义在于相对于原始祖先或物种类型的整体退化与生物/结构性劣变（deterioration from an original type），而非主动追求感官放纵、道德沦丧的放荡行为（licentiousness），在语义侧重点上存在偏差。",
+      "dissipated": "错误。dissipated 着眼于放纵所带来的后果——体质衰败、容颜憔悴或资财散尽（squandered, physically wasted），并不在学术英语中与 'conduct' 构成表征道德放纵的固定行为修饰（dissipated conduct 属于搭配断裂）。",
+      "fast": "错误。fast 表‘放荡、轻佻’时属于口语或通俗语域（如 living in the fast lane, a fast crowd），在探讨公民德性与政府公信力（civic virtue, governance）的哲学论文中属于严重的语域破裂（stylistic clash），且不能修饰 conduct。"
+    },
+    "translation": "在对公民德性的哲学探究中，这位伦理学家指出，若一名行政长官犯下以毫无掩饰的放荡和对道德界限的公然藐视为特征的放荡行径，必然会侵蚀对善治至关重要的公众信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_07",
+    "group_id": 364,
+    "group_name": "despicable, vile, slimy, ugly",
+    "level": "TEM-8",
+    "target_word": "despicable",
+    "question": "Distinguishing visceral revulsion from moral scorn, the philosopher argued that while monstrous atrocities provoke sickening horror, conduct that is truly ___ elicits not physical revulsion, but a cold, disdainful contempt for the perpetrator's abject cowardice.",
+    "options": [
+      "despicable",
+      "vile",
+      "slimy",
+      "ugly"
+    ],
+    "answer": "despicable",
+    "primary_mechanism": "MECH_LOGICAL_CONNOTATION_INVERSION",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "句首分词短语“Distinguishing visceral revulsion from moral scorn”（区分本能的生理厌恶与道德鄙视）确立了全文严密的二元对立框架：前半句以“monstrous atrocities provoke sickening horror”对应“visceral revulsion”（生理性反胃/恐怖）；后半句则以“elicits not physical revulsion, but a cold, disdainful contempt for the perpetrator's abject cowardice”（引发的不是身体厌恶，而是对行为人卑劣懦弱的冰冷轻蔑）对应“moral scorn”。target word despicable 源自拉丁语 despicari（de- 向下 + specere 看，即俯视、鄙视），韦氏词典精准释义为“deserving to be despised : so worthless or obnoxious as to stir up contempt”，与后半句的“disdainful contempt”构成语源与词义的绝对闭环。反观 vile，其现代核心词义正是“引起生理作呕、发臭或极端堕落”（stresses disgusting depravity, foulness, or physical revulsion），若填入明确限定为“elicits not physical revulsion”的后半句中，将导致直接的【逻辑语义逆反】；同时，本题空格前使用副词“truly”，从构词与句法上彻底消除了原题中利用“a/an”冠词排除 ugly 的应试设计缺陷。",
+    "distractor_analysis": {
+      "despicable": "正确。despicable 源于拉丁语 despicari（俯视、轻视），在道德哲学与情感心理学语境中特指“因渺小卑下、缺乏道德价值或行径懦弱而理应招致道德轻蔑与鄙薄的”（deserving to be despised; arousing cold contempt and disdain）。句中明确将其界定为“不引起身体反胃（elicits not physical revulsion），而是引发针对懦弱行径的冷酷轻蔑（a cold, disdainful contempt）”，与“moral scorn”形成严丝合缝的范畴呼应。",
+      "vile": "错误（逻辑语义逆反）。vile 在现代规范英语中的核心语义高度集中于“极其恶毒的、令人作呕的堕落或身体感官上的发臭污秽”（stresses disgusting depravity, physical foulness, or abhorrent wickedness that causes visceral nausea and horror，如 vile smell, vile atrocities）。题干主句已明确设定限定条件——该行为“elicits not physical revulsion”（引发的并非生理厌恶），若将 vile 填入，断言“真正的 vile 行为不会引起身体反胃”，直接与其词典核心释义构成逻辑矛盾与语义颠倒。",
+      "slimy": "错误（语体色彩冲突与概念错配）。slimy 本义为“黏滑的、分泌黏液的”（属于典型的触觉感官厌恶，直接违背“not physical revulsion”）；其引申义多指“虚伪油滑的、逢迎谄媚的”（unpleasantly and deceitfully flattering/unctuous），语体色彩属于非正式口语化隐喻（如 a slimy politician），与道德哲学严肃规范的学术论辩语体严重脱节；且“卑劣的懦弱”（abject cowardice）无法与 slimy 形成合理的逻辑搭配。",
+      "ugly": "错误（学术评述失位与语义泛化）。ugly 虽然在搭配“truly ugly”时不存在语音冠词阻断，但其词义主要停留在外在感官的“难看的、丑陋的”，或形容事态局势“令人不快、剑拔弩张的”（如 an ugly mood, an ugly confrontation）。ugly 完全不具备 despicable 所独有的“因卑贱无耻而理应遭受居高临下的社会性鄙弃与道德轻蔑”（contempt and scorn）的高阶伦理评判内涵，用于此处学术精度严重不足。"
+    },
+    "translation": "在区分本能的生理厌恶与道德层面的鄙视时，这位哲学家指出，尽管灭绝人性的暴行会引发令人作呕的惊骇，但真正可鄙的行径所招致的却绝非肉体上的反胃，而是针对行为人卑劣懦弱所生发的一种冰冷而轻蔑的鄙弃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_08",
+    "group_id": 364,
+    "group_name": "despicable, vile, slimy, ugly",
+    "level": "TEM-8",
+    "target_word": "vile",
+    "question": "Historical records of London's Great Stink reveal that parliamentary sittings were abruptly adjourned when the ___ stench rising from the polluted Thames permeated the legislative chambers, inducing acute respiratory distress and uncontrollable nausea.",
+    "options": [
+      "despicable",
+      "vile",
+      "slimy",
+      "ugly"
+    ],
+    "answer": "vile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ENVIRONMENT",
+    "anchor_clue": "中心名词“stench”（恶臭）及其生理后果修饰语“inducing acute respiratory distress and uncontrollable nausea”（引发急性呼吸窘迫与无法抑制的恶心呕吐）。在英语词汇学与权威词典界定中，vile 是该组词中唯一具备强生理/感官恶臭义（MW: physically repulsive: foul, a vile odor; OED: disgusting to the senses, offensive, foul, revolting, now chiefly of smells）的核心词，“vile stench”为历史与学术语料中的经典排他性强搭配。",
+    "distractor_analysis": {
+      "vile": "正确。vile 源自拉丁语 vilis，除道德层面的可鄙外，现代英语中极核心且高频的用法是表示感官上的“极度恶臭、令人作呕的”（韦氏词典：physically repulsive: foul; a vile odor；牛津词典特别标注其现今主要用于气味、味道或天气：now chiefly of smells, tastes, or weather）。句中与“stench”（恶臭）及后文“uncontrollable nausea”（无法遏制的恶心）形成精准的感官与生理语义闭环，“vile stench”亦是描写1858年伦敦大恶臭等历史卫生事件的权威学术搭配。",
+      "despicable": "错误。despicable 是严格的“道德-行为”评价词（韦氏词典：arousing vehement disgust or indignation; deserving of contempt or disdain），核心强调主体的人格卑鄙、行为可耻应受鄙视（如 despicable conduct/betrayal）。它严格要求受修饰对象具备道德属性或人类行为动机，直接修饰无道德意识的物理气味（*despicable stench）属于严重的范畴错配（category error）。",
+      "slimy": "错误。slimy 意为“黏糊糊的、覆有黏液的”，属于触觉与物质状态形容词（如 slimy mud/substance），其引申义指“油滑谄媚的、虚伪讨好的”（如 a slimy politician）。气体与气味无法在物理上呈现黏稠触感，修饰“stench”构成通感冲突与搭配断裂。",
+      "ugly": "错误。ugly 主要用于视觉领域（丑陋难看的）或抽象的危险、敌对局势与气氛（如 an ugly scene, an ugly mood）。在正式学术及高阶英语语体中，ugly 绝不用于修饰嗅觉恶臭（*ugly stench 为不合习惯的错误搭配），无法表达生理层面上令人作呕的恶臭烈度。"
+    },
+    "translation": "关于伦敦“大恶臭”的历史记录显示，当泰晤士河污染产生的刺鼻恶臭弥漫进立法大厅、导致议员们出现急性呼吸窘迫和难以抑制的恶心反胃时，议会会议被迫突然休会。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_09",
+    "group_id": 365,
+    "group_name": "dispirited, down, downhearted, low",
+    "level": "TEM-8",
+    "target_word": "dispirited",
+    "question": "Hobbled by persistent funding shortages and ideological fractures, the increasingly ___ opposition failed to mount any coherent legislative resistance against the chancellor's contentious macroeconomic reforms.",
+    "options": [
+      "dispirited",
+      "down",
+      "downhearted",
+      "low"
+    ],
+    "answer": "dispirited",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Pre-nominal attributive position modifying the collective political entity 'opposition', collocated with 'increasingly' to denote a loss of collective morale and resolve after repeated setbacks.",
+    "distractor_analysis": {
+      "dispirited": "正确。dispirited 作前置定语修饰表示集体、党派或军队的名词（如 opposition, workforce, troops），意为“士气消沉的、斗志瓦解的”，准确体现出反对派因长期资源匮乏和内部分裂而丧失抗争热忱与信心的状态，完全符合高阶政论与学术期刊的用词规范。",
+      "down": "错误。句法分布受限。down 表示“沮丧的、情绪低落的”时属于纯粹的表语形容词（如 feel down, look down），不能置于名词前作前置定语（不存在 *the down opposition 结构），属于明确的句法违规。",
+      "downhearted": "错误。文体与搭配不符。downhearted 多用于表语，强调个体遭遇一时受挫后主观心境的低落与沮丧（a sinking of personal spirits），极少用于修饰议会政党等宏观政治实体；将其作为前置定语修饰 opposition 既缺乏权威语料佐证，亦造成严重的语体色彩冲突（register clash）。",
+      "low": "错误。语义产生严重偏离。low 作前置定语直接修饰人或群体时，其语义为“地位低下的、卑劣的、粗俗的”（如 of low birth, a low fellow），绝不能表示“士气消沉的”；表达情绪低落须借助抽象名词构成短语（如 low morale, in low spirits），\"the low opposition\" 会被误解为“卑鄙的反对党”，造成严重歧义。"
+    },
+    "translation": "受制于持续的资金短缺与意识形态分歧，愈发士气消沉的反对派未能对财政大臣极具争议的宏观经济改革发起任何有力的立法抵制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_10",
+    "group_id": 365,
+    "group_name": "dispirited, down, downhearted, low",
+    "level": "TEM-8",
+    "target_word": "down",
+    "question": "Although the chief envoy appeared visibly ___ in the mouth following the abrupt suspension of the treaty talks, subsequent diplomatic dispatches confirmed that the impasse was an orchestrated maneuver.",
+    "options": [
+      "dispirited",
+      "down",
+      "downhearted",
+      "low"
+    ],
+    "answer": "down",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The set idiomatic collocation 'down in the mouth' functioning as a predicative adjective phrase after 'appeared visibly', denoting dejection or discouragement.",
+    "distractor_analysis": {
+      "down": "正确。此处考查固定习语搭配 \"down in the mouth\"（作连系动词 appeared 的表语形容词短语），意为“垂头丧气的、郁郁寡欢的”（filled with melancholy and despondency）。语境描述特使在和约谈判破裂后表面上流露出沮丧神态，实为掩盖蓄意拖延谈判的外交策略，语义与结构严丝合缝。",
+      "dispirited": "错误。搭配断裂。dispirited 通常直接作表语或后接介词 by/at 引出诱因（如 appeared dispirited by the outcome），无法与介词短语 \"in the mouth\" 搭配使用（英语中无 *dispirited in the mouth 结构）。",
+      "downhearted": "错误。搭配断裂。downhearted 虽与 down 语义相近，但作为不可拆分的派生词，无法进入该固定成语的固定槽位，*downhearted in the mouth 属于生造的严重搭配错误。",
+      "low": "错误。搭配断裂。low 表示情绪低落时通常构成短语 \"in low spirits\" 或 \"at a low ebb\"，不可置入该习语中；*low in the mouth 违背英语成语的固定性原则。"
+    },
+    "translation": "尽管在条约谈判戛然而止后，首席特使表面上显得垂头丧气，但随后披露的外交电报证实，这场僵局其实是一场精心策划的策略运用。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_11",
+    "group_id": 366,
+    "group_name": "domineering, autocratic, authoritarian, bossy",
+    "level": "TEM-8",
+    "target_word": "domineering",
+    "question": "In peer group dynamics, an individual's ___ behavior reflects neither institutional authority nor unilateral decision-making prerogatives, but an overbearing psychological compulsion to intimidate status equals and subordinate their autonomy through relentless interpersonal coercion.",
+    "options": [
+      "domineering",
+      "autocratic",
+      "authoritarian",
+      "bossy"
+    ],
+    "answer": "domineering",
+    "primary_mechanism": "MECH_LOGICAL_EXCLUSIVITY",
+    "field": "FIELD_PSYCHOLOGY",
+    "anchor_clue": "The correlative contrast 'reflects neither institutional authority [ruling out authoritarian] nor unilateral decision-making prerogatives [ruling out autocratic], but an overbearing psychological compulsion to intimidate status equals' decisively singles out 'domineering', while the high academic register excludes the colloquial 'bossy'.",
+    "distractor_analysis": {
+      "domineering": "正确。domineering 意为“专横跋扈的、盛气凌人的”，侧重指个体凭借个人意志、傲慢或恐吓手段强行压制他人的一种人际心理与行为倾向（韦氏词典释义：'suggests an overbearing or tyrannical manner and an insolent disregard of any consideration for others'）。句中“neither institutional authority nor unilateral decision-making prerogatives, but an overbearing psychological compulsion to intimidate status equals”构成了决定性排他锚点，精准指涉在非制度化、同侪平等的微观人际交往中施加的专断压制，与 domineering behavior 构成完美的学术搭配与语意对应。",
+      "autocratic": "错误。autocratic 源于希腊语 autokrates（独揽大权的），核心语义特指“独断专行的、专制独裁的”，强调个体在组织架构或管理体系中拥有并实施“不与他人协商的单方面决策特权”（unilateral decision-making prerogatives），如 autocratic leadership, autocratic management。题干前文已明确使用“reflects neither ... nor unilateral decision-making prerogatives”予以否定排斥，若填入 autocratic 会导致严密的句意产生直接逻辑自相矛盾。",
+      "authoritarian": "错误。authoritarian 意为“威权主义的、专制集权的”，核心特征在于强调对既定体制、法纪或统治权力（authority）的盲目服从与强制推行，剥夺下属或民众的个人自由（如 authoritarian regime, authoritarian institution）。题干明确声明该行为“reflects neither institutional authority...”（不依托任何制度性权威），因此在语义与逻辑上断然排除了 authoritarian。",
+      "bossy": "错误。bossy 虽可表示“好发号施令的”，但其在各权威词典（OED、Merriam-Webster）中均被明确标注为 informal/colloquial（口语化、非正式用语），多用于儿童语境或日常口头抱怨。题干属于高度严肃规范的学术心理学语体（如 status equals, unilateral decision-making prerogatives, interpersonal coercion），bossy 填入会引发严重的语体风格断裂（stylistic clash）。"
+    },
+    "translation": "在同侪群体动态中，个体的专横跋扈行为既不反映制度性权威，也不体现单方面决策特权，而是反映出一种通过冷酷人际胁迫来恐吓同等地位者并削弱其自主性的过度控制心理冲动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_12",
+    "group_id": 366,
+    "group_name": "domineering, autocratic, authoritarian, bossy",
+    "level": "TEM-8",
+    "target_word": "autocratic",
+    "question": "Although the state had long endured collective authoritarian governance, the general’s purge of the ruling junta inaugurated an unmistakably ___ regime, vesting absolute, indivisible state sovereignty entirely within the whims of a single ruler.",
+    "options": [
+      "domineering",
+      "autocratic",
+      "authoritarian",
+      "bossy"
+    ],
+    "answer": "autocratic",
+    "primary_mechanism": "MECH_LOGICAL_CONTRAST",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "The concessive contrast with 'collective authoritarian governance' paired with the definitive defining clause 'vesting absolute, indivisible state sovereignty entirely within the whims of a single ruler' (auto- + -kratia).",
+    "distractor_analysis": {
+      "autocratic": "正确。autocratic源自希腊语词根auto-（自我、独身）与kratos（权力/统治），在政治学与宪政理论中特指权力完全集于单一统治者（autocrat/独裁君主）一身、不受任何法律或集体机构制衡的“独裁专制”政体。题干前文让步从句明确指出该国此前经历的是“集体威权统治”（collective authoritarian governance），后文伴随状语以“vesting absolute, indivisible state sovereignty entirely within the whims of a single ruler”（将绝对且不可分割的国家主权完全归于单一统治者一人之意愿）形成精准语义锚定，唯有autocratic能与前文的“集体威权”形成由寡头集体向独夫专制过渡的逻辑对照，完全契合题意。",
+      "authoritarian": "错误。authoritarian（威权主义的/集权主义的）属于政治学范畴中的上位概念（genus），既可包含独裁个人统治，亦广泛涵盖军政府委员会（junta）、寡头集团或一党制等集体统治形式。题干前文已在让步状语中明确使用了“collective authoritarian governance”（集体威权统治），若主句再次选用authoritarian，不仅在修辞上造成毫无学术辨析度的同义反复，更彻底破坏了从句“Although”所建立的“从寡头集体统治向单一独裁专政转变”的核心逻辑反差。",
+      "domineering": "错误。domineering意为“盛气凌人的、跋扈专横的”，通常用于描述个体在微观人际交往或家庭职场互动中傲慢压制他人的心理特质与行为风格（如domineering parent/personality），不能用于政治学学术语体中修饰宏观国家制度（regime），属于严重的搭配不当与语义层级错配。",
+      "bossy": "错误。bossy意为“爱指手画脚的、好指挥人的”，为非正式的口语日常词汇，通常用于儿童嬉闹或日常同侪交往等非正式语境中指责他人爱发号施令，绝不能用于分析国家政权更迭与主权归属的高阶学术政治文献中，存在严重的语体风格冲突。"
+    },
+    "translation": "尽管该国长期承受着集体威权统治，但该将军对执政军政府的清洗开启了一个不容置疑的独裁政体，将绝对且不可分割的国家主权完全置于单一统治者的个人意志之下。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_13",
+    "group_id": 367,
+    "group_name": "emaciated, gaunt, haggard, bony",
+    "level": "TEM-8",
+    "target_word": "emaciated",
+    "question": "Wildlife biologists surveying the drought-stricken reserve documented dozens of ___ ungulates whose severe muscular wasting and depleted marrow fat confirmed an advanced, fatal phase of starvation.",
+    "options": [
+      "emaciated",
+      "gaunt",
+      "haggard",
+      "bony"
+    ],
+    "answer": "emaciated",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中后置定语从句明确指出'severe muscular wasting and depleted marrow fat confirmed an advanced, fatal phase of starvation'（严重的肌肉萎缩和骨髓脂肪耗竭证实了处于致命的晚期饥饿阶段）。在动物生理学和生态学调查中，描述机体因严重饥荒或消耗性疾病而导致的极度消瘦、皮包骨状态，只有 emaciated 具有此项精确的病理诊断与学术搭配资质。",
+    "distractor_analysis": {
+      "emaciated": "正确。Merriam-Webster 明确定义为'very thin especially from disease or hunger or cold'，专指因饥饿、营养匮乏或病理衰竭导致的机体极度消瘦。此处与有蹄类动物（ungulates）及后文的肌肉萎缩（muscular wasting）、饥饿致死（starvation）形成完美的生态与病理学专业搭配。",
+      "gaunt": "排除。gaunt 侧重指人因劳累、憔悴而呈现出的骨骼突出或文学语境中萧瑟冷峻的外貌轮廓（angular and lean），亦可形容地形荒凉，但缺乏指称动物因急性营养耗竭导致组织严重萎缩的临床与病理精确性。",
+      "haggard": "排除。haggard 严格指人因长期的精神折磨、极度焦虑或失眠而呈现出憔悴、萎靡、眼眶深陷的面部神态（haggard look/countenance），不能用于指代野生动物因饥荒造成的肌肉与脂肪衰竭。",
+      "bony": "排除。bony 仅客观表示'多骨的'、'骨质的'或天生骨架粗大突出（如 bony fish 或 bony fingers），属于中性描述词，完全缺乏因致命饥饿导致的病理性消瘦衰竭的语义内涵。"
+    },
+    "translation": "调查遭受旱灾蹂躏的保护区的野生生物学家记录了数十头极度消瘦的有蹄类动物，其严重的肌肉萎缩和骨髓脂肪耗竭证实它们已处于致命的晚期饥饿阶段。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_14",
+    "group_id": 367,
+    "group_name": "emaciated, gaunt, haggard, bony",
+    "level": "TEM-8",
+    "target_word": "gaunt",
+    "question": "Rising abruptly above the windswept moorland, the ___ limestone ridges presented a bleak and desolate facade, their stark silhouettes offering neither warmth nor shelter to migratory fauna.",
+    "options": [
+      "emaciated",
+      "gaunt",
+      "haggard",
+      "bony"
+    ],
+    "answer": "gaunt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "空格修饰的名词为无生命的地质地貌'limestone ridges'（石灰岩山脊），且上下文由'bleak and desolate facade'（阴郁荒凉的外观）与'stark silhouettes'（严酷突兀的轮廓）烘托。在 Merriam-Webster 权威义项中，gaunt 具有专属性的自然地貌引申义'barren, desolate (gaunt hills)'，是四词中唯一可用于描摹荒凉、萧瑟、陡峭地貌的形容词。",
+    "distractor_analysis": {
+      "gaunt": "正确。Merriam-Webster 明确收录其第二核心义项为'barren, desolate (gaunt hills)'。在高级学术英语与经典自然文学语域中，gaunt 常与山脊（ridges）、峭壁（crags）、秃峰（peaks）搭配，指地貌严酷突兀、寸草不生的荒凉景象，与句中的'bleak and desolate'及'stark silhouettes'形成强力呼应。",
+      "emaciated": "排除。emaciated 专指生物有机体（人或动物）因饥饿或疾病造成的肉体消瘦萎缩。山脊作为无生命的地貌构造，绝不可能发生生理组织萎缩，用于修饰岩石地貌属于严重的范畴谬误（category mistake）。",
+      "haggard": "排除。haggard 严格局限于人类面部由于心理创伤、焦虑或极度疲劳所表现出的憔悴与困顿，无法用于描绘山脉地貌的自然形态。",
+      "bony": "排除。bony 指骨骼构成的或多刺多骨的，虽偶见喻指人骨瘦嶙峋，但在正式书面语境中绝不与自然界的地貌山脊搭配表达'荒凉肃杀'之意，缺乏语境所需的审美与修辞厚度。"
+    },
+    "translation": "陡然耸立在狂风肆虐的荒原之上，那些荒凉肃杀的石灰岩山脊呈现出一派凄清冷峻的景象，其突兀嶙峋的剪影无法为迁徙的动物提供丝毫温暖或庇护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_15",
+    "group_id": 368,
+    "group_name": "evocative, redolent, reminiscent, aware",
+    "level": "TEM-8",
+    "target_word": "evocative",
+    "question": "The novelist’s debut was praised by critics for its richly ___ prose, which managed to capture the ephemeral beauty and desolate isolation of the Arctic tundra without relying on sentimental tropes.",
+    "options": [
+      "evocative",
+      "redolent",
+      "reminiscent",
+      "aware"
+    ],
+    "answer": "evocative",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prenominal position in 'richly ___ prose' demands an attributive adjective characterizing artistic and literary expression that stirs vivid emotion or imagination; only 'evocative' naturally forms this canonical critical collocation, whereas 'redolent' and 'reminiscent' require relational prepositional complements, and 'aware' can only modify sentient entities.",
+    "distractor_analysis": {
+      "evocative": "正确。evocative 常作定语修饰 prose、imagery、description 等文艺载体，构成 'richly/powerfully evocative prose'（意蕴丰厚/极具感染力的散文文笔）这一地道文学批评高频搭配，意指作品能够强有力地唤起读者的感官再现与情感共鸣。",
+      "redolent": "错误。redolent 主要作表语或后置修饰语，且须接介词 of 或 with（如 redolent of/with nostalgia），用作前置定语修饰 prose 既非惯用搭配，也脱离了其核心的'散发气味'或'充斥某种氛围'的语义结构。",
+      "reminiscent": "错误。reminiscent 表达'让人联想到……'时属于关系形容词，在句法上必须后接介词 of 及其比较对象（reminiscent of sth.）；若无介词宾语，仅能修饰人或人的神态（如 a reminiscent smile，意为怀旧沉思的），不可单独前置修饰 prose 表示文笔具有感染力。",
+      "aware": "错误。aware 表示'意识到的、知觉的'，语义特征限定于有认知能力的生命体（sentient beings），不能作定语修饰 prose 等无生命的概念实体，存在严重的语义范畴错配。"
+    },
+    "translation": "这位小说家的处女作因其意蕴丰厚的优美文笔而受到评论界的赞誉，该文笔在不依赖感伤套路的情况下，精准捕捉到了北极冻原转瞬即逝之美与荒芜孤寂感。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_16",
+    "group_id": 368,
+    "group_name": "evocative, redolent, reminiscent, aware",
+    "level": "TEM-8",
+    "target_word": "redolent",
+    "question": "The cathedral’s subterranean crypt was intensely ___ with the scents of beeswax and frankincense, fostering a contemplative stillness that deepened the scholars' historical inquiry into medieval monastic life.",
+    "options": [
+      "evocative",
+      "redolent",
+      "reminiscent",
+      "aware"
+    ],
+    "answer": "redolent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame '[be] intensely ___ with the scents of...' establishes an insurmountable syntactic barrier: among the four cluster words, only 'redolent' licenses complementation with 'with' to denote being permeated with a fragrance or atmosphere, whereas 'evocative', 'reminiscent', and 'aware' strictly govern 'of'.",
+    "distractor_analysis": {
+      "redolent": "正确。redolent 兼具感官（嗅觉）与认知层面的意象，其标准句法搭配为 'redolent of' 或 'redolent with'（韦氏词典明确定标：usually + of or with <a room redolent with the smell of...>），在此处与 with the scents of... 构成严密的句法和语义契合。",
+      "evocative": "错误。evocative 表'唤起……'时仅能支配介词 of（evocative of），英语中不存在 *evocative with 的搭配用法，填入会导致严重的介词搭配违例。",
+      "reminiscent": "错误。reminiscent 表'使人回忆起、类似于'时，句法构型完全固化为 'reminiscent of'，绝不可与介词 with 搭配使用（*reminiscent with 为严重句法错误）。",
+      "aware": "错误。aware 在介词支配上严格要求 of（aware of），不能接 with；且主语 'subterranean crypt'（地下墓室）为无生命场所，无法具备 aware 所指涉的认知知觉能力。"
+    },
+    "translation": "大教堂的地下墓室弥漫着浓郁的蜂蜡与乳香气息，营造出一种沉思冥想的静谧氛围，进一步深化了学者们对中世纪修道院历史生活的探究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_17",
+    "group_id": 369,
+    "group_name": "florid, ruddy, sanguine, healthy",
+    "level": "TEM-8",
+    "target_word": "florid",
+    "question": "Suffering from severe heatstroke and hypertensive distress during the desert expedition, the geologist exhibited an alarmingly ___ complexion, whose congested, purplish discoloration signaled dangerous vascular dilation rather than simple sunburn.",
+    "options": [
+      "florid",
+      "ruddy",
+      "sanguine",
+      "healthy"
+    ],
+    "answer": "florid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor clue: The modifying adverb 'alarmingly' and the subsequent clause 'whose congested, purplish discoloration signaled dangerous vascular dilation rather than simple sunburn' unequivocally require 'florid', which Merriam-Webster defines as suggesting an intense or purplish redness often denoting an unhealthy or feverish state, while directly rejecting the wholesome outdoor redness of 'ruddy' and the positive state of 'healthy'.",
+    "distractor_analysis": {
+      "florid": "正确。Merriam-Webster 明确指出 florid 专指由于血管充血、高热、高血压或病理性兴奋所引发的“过分红润、充血发红甚至发紫”（intense or purplish redness, often implying an unhealthy condition）。句中“alarmingly... complexion”与定语从句中的“congested, purplish discoloration”（充血发紫的变色）构成决定性的搭配与病理语义锚点。",
+      "ruddy": "错误。ruddy 指户外活动、风吹日晒或体力劳动带来的“健康的红润”（a healthy reddish color associated with outdoor life/exercise）。句末明确指出该症状是危险的血管扩张，“rather than simple sunburn”（而非单纯的晒伤），与 ruddy 的良性、健康色彩特征直接冲突。",
+      "sanguine": "错误。sanguine 在现代学术及正统英语中主要表示“乐观的、满怀希望的”（cheerfully optimistic）；即使在其罕见的体液学源流用法中，亦指健康红润之气色，绝不可与伴有病态充血发紫（congested, purplish）及危险高血压危象的面色搭配。",
+      "healthy": "错误。前置分词短语已交代地质学家正遭受“severe heatstroke and hypertensive distress”（严重中暑与高血压危象），并伴随“alarmingly”（令人担忧地）与“dangerous vascular dilation”，若选 healthy 则会产生严重的语义逻辑与事实矛盾。"
+    },
+    "translation": "在沙漠考察期间遭受严重中暑和高血压危象的折磨，这位地质学家呈现出一种令人警惕的充血性潮红面色，其充血发紫的异常色泽预示着危险的血管扩张，而非单纯的日晒所致。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_18",
+    "group_id": 369,
+    "group_name": "florid, ruddy, sanguine, healthy",
+    "level": "TEM-8",
+    "target_word": "ruddy",
+    "question": "Benefiting from a vigorous outdoor lifestyle that kept him physically healthy, the mountain guide displayed a famously ___ countenance, whose wind-bitten, reddish hue reflected decades of braving severe alpine gales.",
+    "options": [
+      "florid",
+      "ruddy",
+      "sanguine",
+      "healthy"
+    ],
+    "answer": "ruddy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor clue: The collocation with 'countenance' and the modifying context 'wind-bitten, reddish hue reflected decades of braving severe alpine gales' directly embodies Merriam-Webster's definition of ruddy ('inclined to a healthy reddish color often associated with outdoor life'). Furthermore, 'healthy' is already utilized in the introductory participial clause, rendering its repetition a stylistic pleonasm that lacks the required chromatic meaning.",
+    "distractor_analysis": {
+      "ruddy": "正确。Merriam-Webster 将 ruddy 精确界定为“inclined to a healthy reddish color often associated with outdoor life”（倾向于伴随户外生活的健康红润面色）。句中“wind-bitten, reddish hue reflected decades of braving severe alpine gales”（经受高山烈风吹拂的饱经风霜的红润色泽）与 ruddy 的核心搭配及风霜外貌特征完全吻合。",
+      "florid": "错误。florid 具有明显的贬义或病理色调，多指因疾病、充血、过量饮酒或高热引起的过分发红乃至发紫的面色（often implies an unhealthy condition or purplish redness），与句中向导因健康的高山户外生活铸就的强健风霜红润格格不入。",
+      "sanguine": "错误。sanguine 在现代英语中主要用于心理状态，意为“充满信心的、乐观的”；用于指面容时多属过时用法，且无法承载由“wind-bitten”和“alpine gales”所特指的高山风霜红润意蕴。",
+      "healthy": "错误。一方面，句首主从结构中已明文出现形容词 healthy（“kept him physically healthy”），在此处再次修饰 countenance 会造成修辞上的同词重复与赘述（pleonasm）；另一方面，healthy 仅泛指生理机能健康，完全缺失定语从句“wind-bitten, reddish hue”所必需的“红润色彩”核心义素。"
+    },
+    "translation": "得益于使他保持体魄健壮的充满活力的户外生活方式，这位高山向导展现出一张闻名遐迩的红润脸庞，其饱经风霜的红润色泽映射出数十年来对抗严酷高山烈风的历练。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_19",
+    "group_id": 370,
+    "group_name": "frivolous, flighty, flippant, light",
+    "level": "TEM-8",
+    "target_word": "frivolous",
+    "question": "The appellate court summarily dismissed the corporate plaintiff's damages suit as entirely ___, rebuking the attorneys for wasting judicial resources on an unsubstantiated grievance devoid of legal merit.",
+    "options": [
+      "frivolous",
+      "flighty",
+      "flippant",
+      "light"
+    ],
+    "answer": "frivolous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键司法线索 'damages suit'（损害赔偿诉讼）以及补足说明语 'devoid of legal merit'（毫无事实与法律依据）和 'wasting judicial resources'（浪费司法资源），严格限定了空格必须填入英美法系及高级学术英语中定性虚假无理诉讼的法定专业搭配词（frivolous lawsuit/suit/claim）。",
+    "distractor_analysis": {
+      "frivolous": "正确。frivolous 在司法认知与高级社科语境中为极高频的专业搭配词，常用于 'frivolous action/suit/claim'，专指诉讼或主张“无聊可笑的、轻率无理的、毫无事实或法律依据的”。句中的 'summarily dismissed'（裁定驳回）与 'devoid of legal merit' 构成无可辩驳的语义与搭配闭环。",
+      "flighty": "错误。flighty 的核心语义为“反复无常的、易变的、轻浮浮躁的”（capriciously erratic），主要修饰人的性格特质（temperament）、行事作风或流动的短期投机资本（flighty capital），无法与诉讼案件（damages suit）搭配。",
+      "flippant": "错误。flippant 专指言语、举止或态度“轻率无礼的、嬉皮笑脸的、不严肃的”（showing inappropriate levity or lack of respect），其典型搭配对象为 remark, tone, attitude 或 response，不能用来定性一项缺乏法律支持的司法诉讼。",
+      "light": "错误。light 虽然可表示“不严肃的、轻微的”，且在法律语境中可修饰刑罚（如 a light sentence），但绝不能作表语修饰诉讼案缺乏法律价值（无 *suit is light 之用法），在句法逻辑和语域规范上均不成立。"
+    },
+    "translation": "上诉法院即决驳回了原告企业提起的损害赔偿诉讼，判定其完全是无理滥诉，并训诫律师不应将司法资源浪费在毫无法律事实依据的申诉上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b36_20",
+    "group_id": 370,
+    "group_name": "frivolous, flighty, flippant, light",
+    "level": "TEM-8",
+    "target_word": "flighty",
+    "question": "Distrusting the young envoy's notoriously ___ temperament, senior diplomats hesitated to involve him in delicate multilateral negotiations, fearing his erratic behavioral swings and sudden reversals would compromise the mission.",
+    "options": [
+      "frivolous",
+      "flighty",
+      "flippant",
+      "light"
+    ],
+    "answer": "flighty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的伴随状语从句 'fearing his erratic behavioral swings and sudden reversals'（担心其难以捉摸的行为摆动与突如其来的立场反转）对修饰性情的形容词做出了严密的语义锚定，唯有表“反复无常、善变不稳”的 flighty 能与 temperament 形成精确共指。",
+    "distractor_analysis": {
+      "flighty": "正确。flighty 专指人或心智“反复无常的、轻浮善变的、难以捉摸的”（capriciously erratic, fickle），常与 temperament 或 personality 连用。后文的 'erratic behavioral swings and sudden reversals' 精确阐释了其性格上的多变与不可靠，语义与句法高度契合。",
+      "frivolous": "错误。frivolous 意为“愚蠢轻浮的、不严肃的、沉湎于琐事的”（lacking serious purpose），强调缺乏深度或将严肃问题视同儿戏，但不含后文所强调的“行为剧烈摆动、立场骤然反转”（erratic swings, sudden reversals）的不可预测性与善变特征。",
+      "flippant": "错误。flippant 强调“轻率无礼的、油腔滑调的”（glib and disrespectful），主要指在庄重场合下说话漫不经心、带挑衅或调侃色彩的言语风格，不能用来指代造成立场摇摆不定的脾气秉性。",
+      "light": "错误。light 修饰人的心境或性情时多表示“轻松愉悦的、无忧无虑的”（如 light heart / light mood），带有积极或中性色彩，与后文中导致谈判破裂的“erratic behavioral swings”在语义色彩和逻辑因果上截然相反。"
+    },
+    "translation": "由于深知这位年轻特使出了名的反复无常性格，资深外交官们犹豫是否让他参与微妙的多边谈判，唯恐他难以捉摸的言行多变与骤然立场的反转会破坏整个使命。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

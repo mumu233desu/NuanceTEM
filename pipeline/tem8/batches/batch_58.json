@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b58_01",
+    "group_id": 581,
+    "group_name": "ballad, ditty, lament, requiem",
+    "level": "TEM-8",
+    "target_word": "ballad",
+    "question": "Scholars of oral folklore argue that the medieval ___ functioned less as mere entertainment than as a structured narrative verse, transmitting communal history through episodic stanzas and the mnemonic repetition of a recurrent refrain.",
+    "options": [
+      "ballad",
+      "ditty",
+      "lament",
+      "requiem"
+    ],
+    "answer": "ballad",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and definitional anchors 'structured narrative verse', 'episodic stanzas', and 'recurrent refrain' strictly denote a ballad (narrative folk song with a refrain), excluding non-narrative songs or dirges.",
+    "distractor_analysis": {
+      "ballad": "正确。ballad（民间叙事歌谣、叙事抒情诗）在韦氏词典及文学批评中严格定义为“带有反复叠句的叙事性诗歌/歌曲（a narrative song with a recurrent refrain）”。句中的“structured narrative verse（结构化叙事诗）”、“episodic stanzas（分节叙事诗节）”以及“recurrent refrain（反复叠句）”构成了无可辩驳的决定性搭配与概念锚点。",
+      "ditty": "错误。ditty 通常指简短、简单、轻快或无深意的小曲、小调（a short, simple, often lighthearted song），不具备长篇叙事功能，亦无法承载传述族群历史（transmitting communal history）的结构化多节叙事深度。",
+      "lament": "错误。lament 指哀歌、挽诗或悲叹（an expression of deep sorrow or mourning），侧重于悲伤情感的宣泄，而非由事件驱动、配以分节与叠句的“叙事诗（narrative verse）”。",
+      "requiem": "错误。requiem 指安魂曲、追思弥撒或为逝者祈福的悼亡音乐，带有强烈的基督教礼仪与肃穆悼亡色彩，与中世纪民间口头传唱历史的世俗叙事歌谣语域不合。"
+    },
+    "translation": "研究口头民俗的学者认为，中世纪的叙事歌谣不仅是一种单纯的娱乐形式，更是一种结构化的叙事诗，它通过情节性的诗节和循环叠句的助记重复来传承群体历史。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_02",
+    "group_id": 581,
+    "group_name": "ballad, ditty, lament, requiem",
+    "level": "TEM-8",
+    "target_word": "ditty",
+    "question": "Dismissed by classical music purists as a trite and ephemeral ___, the commercial jingle nevertheless captivated consumer memory through its deceptively buoyant melody and relentlessly infectious, four-line rhyming cadence.",
+    "options": [
+      "ballad",
+      "ditty",
+      "lament",
+      "requiem"
+    ],
+    "answer": "ditty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocations 'trite and ephemeral ___', 'commercial jingle', and 'buoyant melody' decisively dictate 'ditty' (a light, simple, trifling tune), ruling out narrative ballads, mournful laments, and solemn requiems.",
+    "distractor_analysis": {
+      "ditty": "正确。ditty 指“轻巧简单的小调；微不足道或通俗的小曲”，常带有轻快、简单甚至略显琐碎的色彩。句中同位互释的“commercial jingle（商业广告短曲）”以及前置修饰“trite and ephemeral（平庸而短暂的）”、后文“buoyant melody（轻快活泼的旋律）”完美契合 ditty 的核心语域。",
+      "ballad": "错误。ballad 指具有完整故事线或较严肃主题的抒情叙事歌谣，具有相对严密的篇章结构，与轻浮、短暂、仅有四句押韵韵律的商业短小广告曲（jingle）性质不符。",
+      "lament": "错误。lament 指悲歌、哀悼，其情感基调沉痛哀伤，与句中“buoyant melody（轻快明朗的旋律）”存在绝对的情感极性（emotional polarity）冲突。",
+      "requiem": "错误。requiem 指安魂弥撒或悼亡曲，属于高度庄严、沉重且神圣的语境，绝不可能被用于指代欢快、洗脑且琐碎的商业广告短调。"
+    },
+    "translation": "尽管被古典音乐正统派贬为一段平庸而转瞬即逝的小调，这首商业广告插曲却凭借其看似欢快的旋律以及极具感染力的四行押韵节奏，牢牢俘获了消费者的记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_03",
+    "group_id": 582,
+    "group_name": "ballast, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "ballast",
+    "question": "During periods of epistemological crisis, rigorous empirical methodology serves as an indispensable ___ against volatile speculation, steadying academic discourse when theoretical fashions threaten to dismantle established scientific consensus.",
+    "options": [
+      "ballast",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "ballast",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'against volatile speculation' 与伴随状语 'steadying academic discourse' 构成决定性语义锚点，指向提供重心与稳定作用的‘压舱石/稳定物’。",
+    "distractor_analysis": {
+      "ballast": "正确。ballast原指船只或飞行器保持平衡所用的重物（压舱石/镇流物），在认知与思想语境（FIELD_COGNITION）中常引申为‘使人/思想/局势保持清醒、坚定与平衡的稳定因素’。此处与动词 steady（使稳固）和介词短语 against volatile speculation（抵御反复无常的投机推演）形成精准的语义与隐喻搭配。",
+      "abrasive": "错误。abrasive作名词意为‘研磨料、琢磨剂’，比喻磨砺或引起摩擦、冲突的人或事物。其核心义素为‘磨损、冲刷、摩擦’，与下文‘steadying academic discourse’（稳定学术话语）的稳定、镇静意图产生直接逻辑冲突。",
+      "undercut": "错误。undercut主要作动词（意为削弱、削减价格或从底部切开）；即便作为罕见名词使用，亦指‘下切口’或‘廉价竞争’，既不与‘indispensable ... against’构成规范学术搭配，其‘削弱根基’的词义也与后文维持秩序和稳定的句意背道而驰。",
+      "aggregate": "错误。aggregate作名词表示‘聚集体、总数、骨料’，通常接介词 of（如 an aggregate of individual beliefs），表达多要素的机械相加，不具备‘抵御动荡、维持平衡与稳定’（steadying）的功能性语义。"
+    },
+    "translation": "在认识论出现危机的时期，严谨的经验主义方法论扮演着抵御多变投机推演的不可或缺的‘压舱石’，在理论风潮威胁到既定科学共识之际，稳固了学术话语体系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_04",
+    "group_id": 582,
+    "group_name": "ballast, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "abrasive",
+    "question": "In dialectical philosophy, persistent skepticism is often treated not as destructive cynicism, but as a conceptual ___, relentlessly grinding away dogmatic assumptions to expose the durable core of rational truth.",
+    "options": [
+      "ballast",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "abrasive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "分词短语 'relentlessly grinding away dogmatic assumptions to expose...'（不断磨蚀掉教条假设以裸露出真理核心）直接激活了物质磨削与抛光的物象投影，锁定具有研磨、磨蚀功能的物理及隐喻名词。",
+    "distractor_analysis": {
+      "abrasive": "正确。abrasive作名词指‘研磨剂、磨料’（如金刚砂、浮石）。在认知与哲学语境中，'conceptual abrasive' 作为生动隐喻，精准呼应后文的 'grinding away'（磨削去毛糙或附着物）与 'expose the durable core'（呈现坚硬坚实的核心），完美匹配辨证怀疑作为‘思想研磨剂’的认识论功能。",
+      "ballast": "错误。ballast意为‘压舱石、稳定物’，其隐喻功能在于提供重量、抗击颠簸与维持系统稳定性，不具备‘grinding away’（磨除、研磨）的摩擦剥离功能，与句中动力学机制严重不符。",
+      "undercut": "错误。undercut作名词通常指‘暗中破坏、底部切口’，其行动方式是自下而上的瓦解或破坏，而非表面摩擦磨损的 'grinding away'；且在此处形成冠词和搭配上的生硬表达，不符合学术英语修辞惯例。",
+      "aggregate": "错误。aggregate指‘集合体、骨料、总和’，强调要素的聚集与整合，属于静态集合概念，无法执行‘relentlessly grinding away’这一动态研磨与剥蚀动作。"
+    },
+    "translation": "在辩证哲学中，持久的怀疑论往往不被视作破坏性的愤世嫉俗，而是一种概念上的‘研磨剂’，它不断磨去教条主义的盲目假设，从而剥离并展现出理性真理那坚不可摧的核心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_05",
+    "group_id": 583,
+    "group_name": "balm, lotion, panacea, ointment",
+    "level": "TEM-8",
+    "target_word": "balm",
+    "question": "Although the embattled chancellor suffered a humiliating parliamentary defeat, the lavish praise from his staunchest allies served as a soothing ___ to his wounded pride and restored his resolve.",
+    "options": [
+      "balm",
+      "lotion",
+      "panacea",
+      "ointment"
+    ],
+    "answer": "balm",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定比喻搭配 'a soothing balm to one's wounded pride'（抚慰受伤自尊的镇痛良药/慰藉）。其他外用制剂均无此认知心理层面的固定转义搭配，且 panacea 搭配介词 for 而非 to。",
+    "distractor_analysis": {
+      "balm": "正确。balm 原指具芳香气味的镇痛药膏，但在心理认知与文学修辞中，极常转义为‘慰藉，抚慰物’，固定搭配为 'a balm to/for one's wounded pride / soul / conscience'，完美契合语境中抚平政治挫败感、重振信心的心理认知语境。",
+      "lotion": "错误。lotion 仅指液态的外用洗剂、润肤水，词义完全停留在物理实体层面，在英语中不存在修辞转义用法，无法与 'wounded pride' 形成隐喻搭配（*a lotion to his wounded pride 属于严重搭配不当）。",
+      "panacea": "错误。panacea 指‘万灵药，治百病的万全之策’，语义侧重于解决复杂系统性难题的手段，而非心理层面的情感抚慰；且其语法习惯要求与介词 for 搭配（a panacea for all ills），与句中介词 to 产生句法冲突；同时 'soothing panacea' 存在语义杂糅冲突。",
+      "ointment": "错误。ointment 专指高黏度、油性的半固态医用软膏，在英语中无抚慰心灵的隐喻用法；其唯一的固定修辞搭配为习语 'a fly in the ointment'（美中不足之处），置于此处导致严重的修辞与语境破裂。"
+    },
+    "translation": "尽管这位四面楚歌的总理遭遇了屈辱的议会挫败，但来自其最坚定盟友的极力赞誉宛如一剂抚慰其受损自尊的良药，让他重拾坚定决心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_06",
+    "group_id": 583,
+    "group_name": "balm, lotion, panacea, ointment",
+    "level": "TEM-8",
+    "target_word": "lotion",
+    "question": "In cognitive psychology experiments assessing sensory relief, subjects suffering from dermatitis reported that applying a soothing, liquid calamine ___ significantly alleviated phantom itching, unlike heavy petroleum ointments or inert placebos.",
+    "options": [
+      "balm",
+      "lotion",
+      "panacea",
+      "ointment"
+    ],
+    "answer": "lotion",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "医学与日常英语中的严密固定专有名词搭配 'calamine lotion'（炉甘石洗剂），同时受前置物理特征修饰语 'liquid' 约束，且后文 'unlike heavy petroleum ointments' 在句法对比中直接排除了 ointment。",
+    "distractor_analysis": {
+      "lotion": "正确。lotion 指流动性较强的水剂或乳液（liquid preparation）。此处构成临床医学与感官认知实验中不可分割的专有名词固定搭配 'calamine lotion'（炉甘石洗剂），与 'liquid' 的物理性状完美吻合，且与后文对照组形成严密逻辑。",
+      "balm": "错误。balm 作为制剂通常指黏稠、含蜡或芳香树脂的膏剂（如 lip balm），与修饰语 'liquid'（液态的）在物理属性上发生冲突；此外，英语中不存在 *calamine balm 的固定搭配。",
+      "panacea": "错误。panacea 是表示抽象概念的词汇（万应灵丹、万全之策），根本无法与前置定语 'liquid calamine'（液态炉甘石）构成物理施用剂型，语义彻底荒谬。",
+      "ointment": "错误。后文的对比结构明确指出 'unlike heavy petroleum ointments'（不同于厚重的凡士林软膏），已将 ointment 作为对照排除项，填入此处将引发逻辑上的自我矛盾与语意重复；且软膏为半固态油膏，与 'liquid' 存在性状冲突。"
+    },
+    "translation": "在评估感官舒缓效果的认知心理学实验中，患有皮炎的受试者报告称，涂抹清凉舒缓的液态炉甘石洗剂能显著减轻幻肢样瘙痒感，这与厚重的凡士林软膏或无活性安慰剂的效果截然不同。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_07",
+    "group_id": 584,
+    "group_name": "balustrade, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "balustrade",
+    "question": "Surveying the palatial atrium, the architectural historian noted how the ornate marble ___ flanked the sweeping staircase, both serving a protective function and guiding the observer’s perceptual ascension through the grand interior.",
+    "options": [
+      "balustrade",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "balustrade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "flanked the sweeping staircase 结合 ornate marble 及 guiding the observer's perceptual ascension，限定了此处必须是沿室内宏伟楼梯两侧延伸、起防护与装饰美学引导作用的“栏杆/扶栏”，唯有 balustrade 符合该建筑学术语搭配。",
+    "distractor_analysis": {
+      "balustrade": "正确。指由栏杆柱（balusters）和扶手组成的整排栏杆或石制矮墙，常用于阶梯、阳台或露台边缘。此处与“ornate marble”（华丽大理石）及“flanked the sweeping staircase”（位于宏伟楼梯两侧）构成严密且地道的建筑与认知空间描写搭配。",
+      "jetty": "错误。主要指从陆地伸入水域的“突堤、码头、防波堤”，属于海洋工程或水运设施词汇，置于室内楼梯场景存在绝对的语义域断层。",
+      "fence": "错误。泛指室外用于圈占土地、围隔牲畜或界定产权的“篱笆、栅栏”，通常由木桩、金属网或铁丝构成，无法与中庭宫殿式大理石楼梯侧边的精美扶手（balustrade）相匹配，语域严重失谐。",
+      "grate": "错误。指壁炉中的“铁栅、炉篦”或地面排水口上的“金属格栅”，其构型与功能完全无法充当宏伟楼梯两侧的防护栏杆。"
+    },
+    "translation": "在审视这座宫殿般宏伟的中庭时，建筑史学家注意到，华美的大理石栏杆是如何沿着那座蜿蜒宏阔的楼梯延伸的；它既起到了防护作用，又引导着观者在宏大室内空间中产生步步升高的认知感知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_08",
+    "group_id": 584,
+    "group_name": "balustrade, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "jetty",
+    "question": "Coastal geomorphologists observed that the newly extended stone ___ effectively interrupted littoral drift, mitigating shoreline erosion while simultaneously altering local navigation patterns across the windward harbor.",
+    "options": [
+      "balustrade",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "jetty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "interrupted littoral drift（阻断沿岸漂沙）、mitigating shoreline erosion（缓解海岸侵蚀）及 windward harbor（迎风港湾），决定了该词必须是伸入水体、用以调控水流及防沙护岸的海洋工程构造物，唯有 jetty 具备此专业语义。",
+    "distractor_analysis": {
+      "jetty": "正确。指突向海洋或湖泊以阻挡波浪、减缓水流泥沙淤积或供船舶靠泊的“突堤、防波堤或导流堤”。与“interrupted littoral drift”（阻断沿岸泥沙漂移）和“navigation patterns across the... harbor”（港口通航格局）构成精准的专业搭配。",
+      "balustrade": "错误。指楼梯、阳台或露台的“栏杆、扶栏”，纯属陆上建筑装饰构件，完全脱离海洋地质与港口水运的语境。",
+      "fence": "错误。指陆地上的“栅栏、围栏”，不用于海洋深水区阻断洋流泥沙，更不可能作为影响海港通航的工程实体。",
+      "grate": "错误。指壁炉格架或排水排气孔的“格栅”，在尺度与功能上均不可能用于防范海岸侵蚀与调整港口航道。"
+    },
+    "translation": "海岸地貌学家观察到，新建延伸的石砌突堤有效地阻断了沿岸泥沙漂移，在缓解海岸侵蚀的同时，也改变了迎风港区域的局部通航格局。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_09",
+    "group_id": 585,
+    "group_name": "barricade, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "barricade",
+    "question": "Dogmatic scholars often retreat behind an intellectual ___, deliberately thrown up to forestall cognitive dissonance and repel any disruptive empirical evidence that threatens to overturn their long-held epistemological assumptions.",
+    "options": [
+      "barricade",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "barricade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动词短语“retreat behind”（退守于……之后）与后置非谓语结构“deliberately thrown up... to repel any disruptive empirical evidence”（蓄意构筑以击退任何破坏性的经验证据）构成决定性排他锚点。Merriam-Webster对barricade的核心释义为“an obstruction or rampart thrown up across a way or passage to check the advance of the enemy”。在所给选项中，唯有barricade兼具“为阻挡敌对力量冲击而构筑（thrown up）以击退（repel）侵犯”的防御性对抗隐喻。",
+    "distractor_analysis": {
+      "barricade": "正确。barricade在此处用作抽象认知防御隐喻，意为“思想壁垒、防御屏障”。它与动词短语“retreat behind”及“thrown up to repel...”（仓促构筑以阻击……）形成高度严密的学术论辩搭配，准确传达出教条学者面对颠覆性证据时所采取的坚固抵抗姿态。",
+      "jetty": "错误。jetty指“突堤、防波堤、码头”，专指由海岸向水域延伸以防浪潮或供停泊的工程建筑，无法在认知和论辩语境中引申为抵御学术批评或观念冲击的防守壁垒，语义严重错配。",
+      "fence": "错误。fence指“栅栏、篱笆”，主要功能在于划定产权疆界或防止走失，引申义多见于中立骑墙（fence-sitting）或弥合关系（mend fences）。它不具备barricade所特有的“对抗外部强力冲击、仓促构筑以御敌（thrown up to repel an assault）”的军事与对抗色彩。",
+      "grate": "错误。grate指“壁炉格栅、排水铁箅子”，功能为透水、透气或阻隔杂物，既不能用于人所退守的掩体（retreat behind），也无法与击退（repel）颠覆性学术观点的论辩语境相兼容。"
+    },
+    "translation": "教条主义学者常常退缩于思想壁垒之后，蓄意构筑这一屏障以遏制认知失调，并击退任何可能颠覆其长期持有的认识论假设的破坏性经验证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_10",
+    "group_id": 585,
+    "group_name": "barricade, jetty, fence, grate",
+    "level": "TEM-8",
+    "target_word": "jetty",
+    "question": "To mitigate chronic coastal erosion and prevent littoral drift from silting the harbor entrance, oceanographers recommended extending a stone ___, which projected perpendicularly into the sea to stabilize tidal currents.",
+    "options": [
+      "barricade",
+      "jetty",
+      "fence",
+      "grate"
+    ],
+    "answer": "jetty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的专业水文学语境“prevent littoral drift from silting the harbor entrance”（防止沿岸漂移物淤塞港口入口）与定语从句“projected perpendicularly into the sea to stabilize tidal currents”（垂直延伸入海以稳定潮汐水流）构成了决定性排他锚点。Merriam-Webster将jetty严格界定为“a structure extended into a sea, lake, or river to influence the current or tide or to protect a harbor”。选项中唯有jetty具备延伸入海以调控流向、保护港湾的水工属性。",
+    "distractor_analysis": {
+      "jetty": "正确。jetty指“突堤、防波堤”，在海洋与海岸工程学中专指从陆地垂直或倾斜伸入海中以阻挡沿岸泥沙漂移（littoral drift）、削减波浪冲击并保护航道的石质或混凝土构造物，与文中的所有修饰语及水文功能严密吻合。",
+      "barricade": "错误。barricade指设在陆上道路或通道上的“路障、街垒”，用于阻止陆上行人和车辆通行或防御武装人员推进，绝不能用来指称伸入外海调控洋流的海洋水工建筑物。",
+      "fence": "错误。fence指陆地上的“栅栏、围栏”，通常由木质或金属网制成，用于划分土地界线，不可能采用重型石材（stone）构筑并延伸入海（projected into the sea）以抵御海潮。",
+      "grate": "错误。grate指“格栅、铁条网”，主要用于过滤液体杂质或覆盖排水口，其扁平框架结构绝不可能作为延伸至海中以引导潮汐水流的大型防浪结构体。"
+    },
+    "translation": "为了缓解长期的海岸侵蚀并防止沿岸泥沙漂移淤塞港口入口，海洋学家建议修建一道石质突堤，使其垂直伸入海中以稳定潮汐水流。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_11",
+    "group_id": 586,
+    "group_name": "bearing, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "bearing",
+    "question": "The appellate tribunal concluded that the defendant’s previous financial irregularities had no direct ___ on the constitutional validity of the regulatory statute, thereby dismissing the appeal on purely procedural grounds.",
+    "options": [
+      "bearing",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "bearing",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "固定搭配“have a/no direct bearing on”（对……有/无直接影响或关联）是学术与司法论述中极具确定性的搭配，此处充当不可替代的句法锚点。",
+    "distractor_analysis": {
+      "bearing": "正确。构成高级学术及司法英语中的经典固定搭配“have no direct bearing on”（与……毫无关联/对……不产生直接影响），准确传达被告过往的财务瑕疵与法规的合宪性审查无关的逻辑。",
+      "pier": "错误。本义为“桥墩、码头、柱墩”，属于实物建筑构件，无法与动词短语“have ... on”搭配表达抽象的关系或影响，代入句中造成严重的语义与搭配断裂。",
+      "brace": "错误。指“支架、加固拉杆、托架”，用于物理结构的支撑稳固，不能与“have ... on”搭配表示抽象层面的关联性，在司法语境中属于范畴谬误。",
+      "foothold": "错误。意为“立足点、据点”，通常与动词“gain / establish / secure”连用（如“gain a foothold in”），表示在某领域或市场上占据初步阵地，不能在“had no direct ___ on”中表示关联度或影响力。"
+    },
+    "translation": "上诉法庭认定，被告先前的财务违规行为对该监管法规的宪法有效性并无直接关联，因此纯粹基于程序性理由驳回了上诉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_12",
+    "group_id": 586,
+    "group_name": "bearing, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pier",
+    "question": "Civil engineers warned that persistent hydrodynamic turbulence had severely undermined the bridge’s central masonry ___, threatening the equilibrium of the two adjoining arches and necessitating immediate underwater reinforcement.",
+    "options": [
+      "bearing",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pier",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "锚点词“central masonry ___”（中央石砌……）与后文“two adjoining arches”（两座相邻拱门）及“underwater reinforcement”（水下加固）构成了明确的工程建筑学限定，专指支撑相邻桥跨的“桥墩”。",
+    "distractor_analysis": {
+      "pier": "正确。在此指“桥墩”，即桥梁中承载上部相邻拱跨或跨径荷载的重型垂直砌体支柱。“central masonry pier”精准契合水下湍流冲刷以及承托两座相邻拱门的工程语境。",
+      "bearing": "错误。在桥梁与机械工程中，“bearing”指“支座”（如橡胶支座、盆式支座）或“轴承”，用于调节梁体位移，其材质为金属或合成橡胶而非石料（masonry），且位于桥墩顶部而非处于水下遭受冲刷。",
+      "brace": "错误。指加固结构、防止横向形变的“斜撑、拉条或支架”，通常为钢材或木构件，不能指代承载两座大型拱门的实体石砌承重基柱。",
+      "foothold": "错误。指攀爬或站立时的“踏足处”或抽象的“立足据点”，完全不具备桥梁工程中承托连续拱圈重力荷载的物理结构涵义。"
+    },
+    "translation": "土木工程师警告称，持续的水动力湍流已严重侵蚀了该桥的中央石砌桥墩，危及相邻两座拱门的受力平衡，亟需立即开展水下加固作业。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_13",
+    "group_id": 587,
+    "group_name": "beating, fray, ruffle, rumble",
+    "level": "TEM-8",
+    "target_word": "beating",
+    "question": "Following the unexpected tariff hike, the nation's export-reliant manufacturing sector took a severe ___ on the stock exchange, eroding investor confidence and precipitating a broader economic deceleration.",
+    "options": [
+      "beating",
+      "fray",
+      "ruffle",
+      "rumble"
+    ],
+    "answer": "beating",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The verb-noun construction 'took a severe ___' demands a noun that forms a certified financial idiom signifying suffering massive losses or defeat. Only 'beating' forms the standard idiom 'take a beating' (遭受重创/惨败); the other three options yield severe collocational ruptures.",
+    "distractor_analysis": {
+      "beating": "正确。beating 在经济金融与时事政论中常与动词 take 搭配，构成高度固定的熟语“take a beating”，意为“遭受重大损失、受挫、蒙受重创”。此处用于表达依赖出口的制造业在股市上遭遇沉重打击，搭配严谨，语体完全相符。",
+      "fray": "错误。fray 作名词指“激烈的纷争、争斗”，典型搭配为“enter / plunge into the fray”（投身争斗），英语中绝无“take a severe fray”的用法，在此造成严重的搭配断裂。",
+      "ruffle": "错误。ruffle 作名词意为“（服装上的）褶边、花边”或喻指“微小的扰乱、涟漪”，其语义层级极轻，既无法形容宏观产业所受的重大冲击，亦不存在“take a ruffle”这一动宾搭配。",
+      "rumble": "错误。rumble 作名词指“隆隆低沉声”或俚语中的“街头斗殴”，无法与“take a severe ___”连用指代金融或经济市场中的惨重损失与挫败。"
+    },
+    "translation": "在意外提高关税之后，该国依赖出口的制造业在证券交易所遭受了严重打击，削弱了投资者信心，并引发了更广泛的经济减速。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_14",
+    "group_id": 587,
+    "group_name": "beating, fray, ruffle, rumble",
+    "level": "TEM-8",
+    "target_word": "fray",
+    "question": "Reluctant to compromise his reputation for judicial impartiality, the veteran jurist steadfastly refused to plunge into the political ___, despite vociferous demands from partisan commentators to denounce the controversial legislative reform.",
+    "options": [
+      "beating",
+      "fray",
+      "ruffle",
+      "rumble"
+    ],
+    "answer": "fray",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The syntactic frame 'plunge into the political ___' necessitates a noun denoting an intense public contest, struggle, or arena of dispute. The established high-register idiom 'plunge / enter into the fray' uniquely fits this judicial-political discourse.",
+    "distractor_analysis": {
+      "fray": "正确。fray 作名词指“激烈的争斗、纷争或论战”，在严肃政论与学术文体中具有极高的惯用度，常构成固定典雅短语“enter / plunge into the (political) fray”（卷入政治纷争）。此处准确体现了法官恪守司法中立、拒绝被拖入政治论战的语境。",
+      "beating": "错误。beating 作名词指“殴打”或“惨败、亏损”，主要用于“take a beating”等语境中，不能与“plunge into the political ___”搭配，语义完全不通。",
+      "ruffle": "错误。ruffle 作名词指“微波、轻微扰动”，语义程度过弱，且英语中并无“plunge into the political ruffle”的搭配习惯。",
+      "rumble": "错误。rumble 虽在非正式口语或俚语中可指“街头群殴”，但其语体等级极为低下粗俗，与本句高阶严谨的司法政治语体（judicial impartiality, vociferous demands）发生严重的语体冲突（stylistic clash），且不用于“plunge into the political ___”这一结构。"
+    },
+    "translation": "这位资深法官不愿损害自己在司法公正方面的声誉，坚决拒绝卷入这场政治纷争，尽管党派评论员强烈要求他谴责这项备受争议的立法改革。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_15",
+    "group_id": 588,
+    "group_name": "boo, hoot, hiss, snort",
+    "level": "TEM-8",
+    "target_word": "boo",
+    "question": "Rather than dissolving into derisive laughter or sibilant murmurs, the disillusioned delegation greeted the chairman's compromised resolution with a single, full-throated ___ of unified political condemnation.",
+    "options": [
+      "boo",
+      "hoot",
+      "hiss",
+      "snort"
+    ],
+    "answer": "boo",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步对比“Rather than dissolving into derisive laughter or sibilant murmurs”（而非演变为嘲弄的笑声或嘶嘶的低语）构成了决定性的排他锚点：它在语义上显式排除了表嘲弄讥笑的 hoot，在发音物理特征上排除了表齿音摩擦的 hiss；同时空后修饰语“full-throated ... of unified political condemnation”（放声高呼的/开喉而出的统一政治谴责）直接锁定了经由口腔喉部发出的公众谴责呼喊，彻底排除了鼻腔喷气的个体动作 snort。唯有 boo（喝倒彩/发出嘘声）在声学生成机制与集体政治谴责的内涵上完全吻合。",
+    "distractor_analysis": {
+      "boo": "正确。boo 作为名词，特指公众或集会人群发出的低沉、饱满的人声呼喊，用以表达直截了当的强烈不满或谴责（Merriam-Webster: a cry or noise made to express displeasure or contempt）。句中“full-throated”（发自喉咙深处的、放声的）与“unified political condemnation”（统一的政治谴责）精准契合了 boo 独具的群体性、声学开音节的人声谴责内涵。",
+      "hoot": "错误。hoot 作表示反对的声音时，核心内涵为“尖叫或嘲弄的笑声”（Merriam-Webster: a shout or laugh usually expressing scorn or disapproval）。句首的“Rather than dissolving into derisive laughter”已在语义逻辑上明确排除了带有嘲笑、戏谑成分的声音，选入会导致前后语意冲突。",
+      "hiss": "错误。hiss 严格指气流通过齿缝摩擦发出的锐利嘶嘶声（Merriam-Webster: a sharp sibilant sound made especially in expressing disapproval or contempt），带有恶毒、险恶的色彩。句中已明确指出“Rather than ... sibilant murmurs”，在语音属性上直接排除了属于 sibilant（齿音/摩擦音）的 hiss。",
+      "snort": "错误。snort 指强行由鼻孔喷出气流所形成的哼鼻息声（Merriam-Webster: an explosive sound made by forcing air through the nostrils），本质上是个体表达鄙夷、怀疑或傲慢的鼻腔动作，既无法与“full-throated”（饱满开喉的）搭配，也不能用以表达代表团整体发出的“unified political condemnation”。"
+    },
+    "translation": "面对主席妥协性的决议，幻灭的代表团并未演变为嘲弄的笑声或嘶嘶的窃语，而是齐声爆发出一声响亮而放肆的倒彩，表达了统一的政治谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_16",
+    "group_id": 588,
+    "group_name": "boo, hoot, hiss, snort",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Preoccupied with securing immediate geopolitical dominance, the autocratic regime did not care a ___ about multilateral environmental treaties, dismissing binding emissions targets as trivial impediments to industrial growth.",
+    "options": [
+      "boo",
+      "hoot",
+      "hiss",
+      "snort"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的否定评价结构“did not care a ___ about ...”（对……毫不在乎/丝毫不放在心上）构成了不可替代的句法与固定习语排他锚点。在该近义词群中，仅 hoot 具有次要衍生语境（secondary context），用作量名表示“微不足道的事物、一星半点（the smallest amount : DAMN）”，并特用于否定句习语“not care a hoot about / not give a hoot about”。其余三词（boo, hiss, snort）完全不具备该认知层面的引申义，代入后均构成严重的句法和搭配断裂（collocational rupture）。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 在次要衍生语境与认知评价场中表示极微小的数量或价值（Merriam-Webster: the smallest amount : DAMN — usually used in negative statements），固定习语为“not care a hoot about”，意为“对……丝毫不放在心上、彻底蔑视”。本句准确传达了专制政权对多边环保条约完全不屑一顾的认知态度。",
+      "boo": "错误。boo 仅表示喝倒彩或发出嘘声（或用于个别习语如 say boo to a goose），英语中根本不存在“not care a boo about”的句法搭配，代入后属于严重的搭配错误。",
+      "hiss": "错误。hiss 仅表示嘶嘶声，无法在否定结构中转义为“微量物”或“一星半点”，不能与“care a ... about”连用。",
+      "snort": "错误。snort 仅表示鼻息声或轻蔑的哼声，虽然同样包含轻蔑态度，但在句法层面上无法进入“care a ... about”的否定量度习语结构中，属于非法的搭配组合。"
+    },
+    "translation": "这家专制政权一心只图谋眼前的地缘政治霸权，对多边环境条约根本不在乎，将具有约束力的碳减排目标斥为阻碍工业增长的微末羁绊。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_17",
+    "group_id": 589,
+    "group_name": "buffer, prod, foil, fender",
+    "level": "TEM-8",
+    "target_word": "buffer",
+    "question": "To insulate the vulnerable emerging market against global monetary tightening, the central bank accumulated substantial foreign exchange reserves to serve as an indispensable ___ against sudden capital outflows.",
+    "options": [
+      "buffer",
+      "prod",
+      "foil",
+      "fender"
+    ],
+    "answer": "buffer",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Collocation with 'serve as an indispensable... against sudden capital outflows' and semantic alignment with 'insulate... against'.",
+    "distractor_analysis": {
+      "buffer": "正确。buffer作名词时意为“缓冲物，起缓冲作用的人/物”，在宏观经济与政策语境中常与介词against搭配构成固定表达“a buffer against (shocks/volatility/outflows)”，精准呼应前文“insulate... against”（使免受……影响）的避险减震逻辑。",
+      "prod": "错误。prod作名词时指“刺棒；刺激，促使行动的推动力”，通常后接介词to/for或动词不定式（如a prod to reform），表促进变革的主动外力，与句中抵御资本外流的“防护性/减震性”逻辑背道而驰，且与介词against不构成语义搭配。",
+      "foil": "错误。foil用作抽象名词时指“（形成鲜明对比以衬托另一事物特质的）陪衬物，衬托者”，固定搭配多为“a foil to/for sb/sth”，无法与against连用，更无法表达抵消外部金融冲击的物理或经济防线。",
+      "fender": "错误。fender多指汽车保险杠、轮拱挡泥板或壁炉前的金属护栏，属于具象实体机械/部件名称，在现代高级英语语料库中几乎不用于宏观经济中指代抵御资本外逃或市场波动的抽象“缓冲储备”。"
+    },
+    "translation": "为使脆弱的新兴市场免受全球货币紧缩政策的冲击，该国央行积累了可观的外汇储备，作为防范资本骤然外流不可或缺的缓冲屏障。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_18",
+    "group_id": 589,
+    "group_name": "buffer, prod, foil, fender",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The impending deadline imposed by international creditors acted as a decisive ___ to jolt complacent policymakers out of bureaucratic inertia and accelerate long-delayed institutional reforms.",
+    "options": [
+      "buffer",
+      "prod",
+      "foil",
+      "fender"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Syntactic function and rhetorical purpose governing 'to jolt complacent policymakers out of bureaucratic inertia', requiring a word denoting an inciting stimulus rather than a shock-absorber.",
+    "distractor_analysis": {
+      "prod": "正确。prod本义为“戳刺”，引申为“催促，激励，推动行动的警策/刺激”，常与动词不定式连用（act as a prod to do sth.），完美契合后文“jolt complacent policymakers out of bureaucratic inertia”（使自满的决策者摆脱官僚惰性）的施压促变语义。",
+      "buffer": "错误。buffer强调“缓冲、减震、减轻冲击”，其功能是缓和与吸收外部压力；若在此处填入buffer，则意味着该最后期限在“软化冲击”，与后文带有剧烈警策含义的“jolt”（震慑唤醒、促发行动）构成严重的逻辑与语意冲突。",
+      "foil": "错误。foil指通过特质反差以凸显主体的“陪衬者”（a foil to sb/sth），既不具备“催促行动、施加外力刺激”的动力学语义，也不能引出动词不定式短语表示行动目的。",
+      "fender": "错误。fender仅限于物理防护装置（如挡泥板、炉台护栏），无法引申为促使官僚机构改革或警策沉睡者的抽象制度外力。"
+    },
+    "translation": "国际债权人设定的紧迫最后期限宛如一记有力的警策催化剂，促使自满的决策者摆脱官僚惰性，并加速推进延宕已久的体制改革。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_19",
+    "group_id": 590,
+    "group_name": "catchword, quip, maxim, epigram",
+    "level": "TEM-8",
+    "target_word": "catchword",
+    "question": "During the protracted election campaign, 'national renewal' degenerated from a coherent policy vision into a mere partisan ___, chanted fervently at rallies yet completely devoid of concrete legislative substance.",
+    "options": [
+      "catchword",
+      "quip",
+      "maxim",
+      "epigram"
+    ],
+    "answer": "catchword",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'partisan' and is defined by 'chanted fervently at rallies yet completely devoid of concrete legislative substance', perfectly fitting the Merriam-Webster definition of catchword ('a favorite saying of a sect or political group; slogan').",
+    "distractor_analysis": {
+      "catchword": "正确。catchword 指“（党派、派系为拉拢人心而反复使用的）口号、标语、政治口头禅”，常带有流于形式、缺乏实质内涵的贬义色彩。句中定语“partisan”（党派的）、被指代短语“'national renewal'”以及后置定语“chanted fervently at rallies yet completely devoid of concrete legislative substance”（在集会上被狂热呼喊却毫无实际立法实质）构成了无懈可击的决定性语境锚点。",
+      "quip": "错误。quip 指“俏皮话、机智幽默或带有挖苦意味的即兴答话”，侧重对话或论辩中的敏捷机智与调侃，不能用于指代政治集会上群体反复狂热呼喊的党派宣传口号。",
+      "maxim": "错误。maxim 指“格言、座右铭、为人处世的行为准则”，属于普遍公认的真理或道德劝诫，与具有党派煽动性、在集会上呼号的空洞政治口号在语域和语义上均严重不符。",
+      "epigram": "错误。epigram 指“警句、讽刺短诗、精辟而常具悖论色彩的警策之语”，属于高度精雕细琢的书面修辞或文学构思，无法与大众集会中高呼的政治套话相契合。"
+    },
+    "translation": "在漫长的竞选活动中，“国家复兴”从一项连贯的政策构想退化为一句纯粹的党派口号，虽然在集会上被狂热呼喊，却完全缺乏切实的立法实质。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b58_20",
+    "group_id": 590,
+    "group_name": "catchword, quip, maxim, epigram",
+    "level": "TEM-8",
+    "target_word": "quip",
+    "question": "When pressed by aggressive reporters regarding the sudden budget shortfall, the chancellor attempted to deflect the scrutiny with a caustic ___, but his improvised humor failed to appease the committee.",
+    "options": [
+      "catchword",
+      "quip",
+      "maxim",
+      "epigram"
+    ],
+    "answer": "quip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Anchored by 'deflect the scrutiny with a caustic ___' and the subsequent reference to 'his improvised humor', which directly corresponds to quip ('a witty or funny observation or response made on the spur of the moment; a clever usually taunting remark').",
+    "distractor_analysis": {
+      "quip": "正确。quip 指“即兴俏皮话、尖刻的妙语或嘲弄的应答”，尤其指在对话、答辩或受审问时随口做出的风趣或带刺的反驳。句中“deflect the scrutiny”（以此搪塞/转移质询焦点）、修饰词“caustic”（尖刻的）以及后半句的“improvised humor”（即兴的幽默）构成了排他性锚点，完全符合 quip 的词义与语域特征。",
+      "catchword": "错误。catchword 指“标语、流行语、党派口号”，大臣不可能在面对记者尖锐逼问时借助“一句尖刻的流行口号”来进行即兴的幽默搪塞，语义与语境彻底脱节。",
+      "maxim": "错误。maxim 指“格言、道德诫条”，属于严肃庄重的行为准则，既不具备“caustic”（辛辣讽刺）的情感色彩，也不可能充当现场应对追问时的“improvised humor”（即兴幽默反驳）。",
+      "epigram": "错误。epigram 指“精心构思的警句、讽刺诗或哲理反论”，强调文字形式的工整精巧与思想深度，通常见于书面文学作品或演说辞中，不可用于指代在新闻发布会上被记者当场逼问时仓促作出的即兴幽默回应。"
+    },
+    "translation": "当面对咄咄逼人的记者就预算突然短缺发起的连番逼问时，财政大臣试图用一句尖刻的俏皮话来化解审视，但他这番即兴的幽默并没能平息委员会的质疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

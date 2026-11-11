@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b70_01",
+    "group_id": 701,
+    "group_name": "adjoin, edge, butt, march",
+    "level": "TEM-8",
+    "target_word": "adjoin",
+    "question": "Contemporary neuroimaging reveals that the cortical regions dedicated to abstract reasoning directly ___ the primary sensory areas, an anatomical layout fostering efficient signal integration across contiguous neural substrates.",
+    "options": [
+      "adjoin",
+      "edge",
+      "butt",
+      "march"
+    ],
+    "answer": "adjoin",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句尾同位语中的“contiguous neural substrates”（接触的/相邻的神经基质）提供了同义语义锚点，且空格后直接接宾语“the primary sensory areas”，要求填入一个能够表达“在空间或结构上直接相连/毗邻”的纯及物动词；butt与march表毗连时皆为不及物动词（须分别接against和with），而edge作及物动词侧重于线状修饰或给边缘镶边，无法表达解剖结构上的直接紧邻。",
+    "distractor_analysis": {
+      "adjoin": "正确。adjoin为标准及物动词，意为“紧挨；与……毗连/相接”（to lie next to or in contact with），直接后接宾语，完美契合神经解剖学中两处皮层区域物理紧邻并实现信号传递的语境，且与后文“contiguous”形成严密的语义呼应。",
+      "edge": "错误。edge作及物动词时，通常表示“给……镶边；沿……的边缘形成带状环绕”（如edge a path with stones）或“使……徐徐移动”，不能指两个独立结构在解剖学层面上的平直紧贴或毗邻（contiguity）。",
+      "butt": "错误。butt在表示“紧靠、毗连”时是不及物动词，必须与介词against或on搭配（如butt against the building）；若直接用作及物动词，其义为“用头或角顶撞”，在此会造成严重的范畴错位与荒谬语意。",
+      "march": "错误。march表示领土或土地“与……接壤”时属于高度正式或古体法律用语，且语法上必须与介词with连用（march with sth.）；作为及物动词时仅表示“迫使……行军”，在此导致句法断裂与语义不通。"
+    },
+    "translation": "当代神经成像技术显示，负责抽象推理的皮层区域与初级感觉区域直接毗连，这种解剖结构促进了相邻神经基质之间高效的信号整合。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_02",
+    "group_id": 701,
+    "group_name": "adjoin, edge, butt, march",
+    "level": "TEM-8",
+    "target_word": "adjoin",
+    "question": "When subjects construct mental representations of urban topography, areas that ___ prominent municipal landmarks are recalled with significantly greater configurational accuracy than those situated beyond immediate spatial contact.",
+    "options": [
+      "adjoin",
+      "edge",
+      "butt",
+      "march"
+    ],
+    "answer": "adjoin",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句末的对比基准“beyond immediate spatial contact”（超出直接空间接触范围之外）精准锁定了该词词典释义（to lie next to or in contact with）；定语从句中空格必须充当及物动词并支配宾语“prominent municipal landmarks”。只有adjoin符合该句法结构与“物理接触毗连”的认知制图语义。",
+    "distractor_analysis": {
+      "adjoin": "正确。adjoin在此意为“与……紧邻、相接”，直接带宾语“prominent municipal landmarks”，与句末“immediate spatial contact（直接空间接触）”构成反义对比与严密逻辑闭环，准确描述了认知心理学中空间表征的邻接效应。",
+      "edge": "错误。edge作及物动词意为“镶边于；沿……边缘排布”，着重于外围的界线或装饰性饰边（如trees edge the lawn），无法用来描述整个城市地块/区域（areas）与标志性建筑之间的实体相接与毗连状态。",
+      "butt": "错误。butt表示界址“相邻、相接”时是不及物动词，必须接介词against或up against（如the property butts against the street）；用作及物动词时语义变异为“顶撞”，破坏句法搭配与句意。",
+      "march": "错误。march表“与……毗连/接壤”时同样是不及物动词，必须搭配介词with（如the estate marches with the park），用作及物动词仅表强迫行进，无法直接跟地标名词作宾语。"
+    },
+    "translation": "当受试者构建城市地形的心理表征时，与著名市政地标紧密毗连的区域在构型准确度上的回忆表现，显著高于那些未曾与其直接空间接触的区域。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_03",
+    "group_id": 702,
+    "group_name": "adjourn, lapse, culminate, go",
+    "level": "TEM-8",
+    "target_word": "adjourn",
+    "question": "Confronted with contradictory empirical submissions, the appellate tribunal resolved to ___ the evidentiary hearing until subsequent forensic documentation could definitively corroborate the whistleblower's controversial allegations.",
+    "options": [
+      "adjourn",
+      "lapse",
+      "culminate",
+      "go"
+    ],
+    "answer": "adjourn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中及物动词搭配的宾语为官方审理程序 'the evidentiary hearing'，后接表示延期至某一时间或条件的状语从句 'until subsequent forensic documentation could definitively corroborate...'，在句法上绝对要求一个表示'使休会、延期审理'的及物动词；其他三项均为不及物动词或缺乏该法律与认知审议层面的及物搭配。",
+    "distractor_analysis": {
+      "adjourn": "正确。根据韦氏词典（Merriam-Webster），adjourn 可作及物动词，释义为 'to suspend indefinitely or until a later stated time' 以及 'to suspend a session'。在此处与 'the evidentiary hearing'（证据听证会）形成极为严密的司法审议搭配，且与后文的 'until subsequent forensic documentation...'（直到后续法医鉴定文件得以证实……）完美照应，体现上诉法庭在认知审理中的正式程序延期。",
+      "lapse": "错误。lapse 在表示'终止、失效'或'陷入'时为典型的不及物动词（如 a contract lapses 或 lapse into silence），不可后接直接宾语 'the evidentiary hearing'（*lapse the hearing 属严重句法错误）；在语义上它指权利、契约或注意力的自然失效或丧失，而非权威机构主动做出的休会决定。",
+      "culminate": "错误。culminate 为不及物动词，必须接介词 in（极少用 with），释义为 'to reach the highest point or decisive point'（以……告终/到达顶峰），无法直接跟宾语 'the evidentiary hearing'，句法上存在致命不兼容。",
+      "go": "错误。go 作及物动词仅见于极少数特定俗语搭配，在此处无法及物支配 'the evidentiary hearing'（*go the evidentiary hearing 语法不通），且在文体层面上过于口语化、粗浅，与上诉仲裁庭的严肃学术司法语域形成尖锐冲突。"
+    },
+    "translation": "面对相互矛盾的实证材料，上诉法庭决定暂停证据听证会，待后续法医物证能明确证实告密者所提出的争议性指控后再行审理。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_04",
+    "group_id": 702,
+    "group_name": "adjourn, lapse, culminate, go",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "Subjected to relentless ideological pressure, several prominent academics began to ___ from empirical neutrality into dogmatic speculation, compromising the methodological integrity of their published research.",
+    "options": [
+      "adjourn",
+      "lapse",
+      "culminate",
+      "go"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心句法与语义锚点为介词框架 '___ from [A] into [B]'，其中 [A] 为学术操守高标准（'empirical neutrality' 实证中立），[B] 为认知堕落状态（'dogmatic speculation' 教条臆测）。韦氏词典将 lapse 核心义明确定义为 'to fall or slip from a higher to a lower state or from a recognized standard: lapsed from orthodoxy into skepticism'，此构式具有绝对排他性。",
+    "distractor_analysis": {
+      "adjourn": "错误。adjourn 指会议、法庭等机构性程序的'休会、延期'，或在人际语境下表示'移步至另一物理场所'（搭配 to，如 adjourn to the library），绝不能与 'from ... into ...' 搭配表示认知品质、学术标准或道德操守的退化。",
+      "lapse": "正确。根据韦氏词典，lapse 作不及物动词时专门表示 'to fall or slip from a higher to a lower state or from a recognized standard'（从较高状态或公认标准滑落/堕落），典型例证即为 'lapsed from orthodoxy into skepticism'。句中学者从'实证中立'退化堕落至'教条臆测'，完全契合其认知场（FIELD_COGNITION）中的词汇搭配与文体风格要求。",
+      "culminate": "错误。culminate 严格接介词 in（表示'最终达到顶点或最终产生某种结果'，如 culminate in success/failure），不接 'from ... into ...' 结构；且其表示事物发展达到顶峰或终点，无法表达从高标准向低水平的退化或背离。",
+      "go": "错误。go 虽可接介词短语（如 go from A to B），但 'go from ... into ...' 主要描述物理位移或通俗变化（如 go from the room into the garden），在高级学术和思想认知语境中无法表达'从客观学术准则滑向主观教条'的精神堕落语义，严重背离专业学术英语的搭配规范与典雅度。"
+    },
+    "translation": "在持续不断的意识形态压力下，数位知名学者开始从实证中立立场滑向教条主义臆测，从而损害了其已发表研究的方法论严谨性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_05",
+    "group_id": 703,
+    "group_name": "adjudicate, try, take, rule",
+    "level": "TEM-8",
+    "target_word": "adjudicate",
+    "question": "When bilateral trade negotiations reached an impasse, the member states established an independent tribunal to ___ cross-border tariff disputes, thereby ensuring that legal precedent, rather than economic coercion, dictated commercial relations.",
+    "options": [
+      "adjudicate",
+      "try",
+      "take",
+      "rule"
+    ],
+    "answer": "adjudicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Direct object 'cross-border tariff disputes' governed by the purpose clause of 'an independent tribunal'. 'Adjudicate' is the only transitive verb here that directly collocates with 'disputes' to mean settling a conflict judicially.",
+    "distractor_analysis": {
+      "adjudicate": "正确。adjudicate 作为及物动词，核心义为“（通过司法或仲裁程序）裁决、判定（争端、索赔等）”（Merriam-Webster: to make an official decision about who is right in a dispute : to settle judicially）。在高级学术与法律政经语境中，adjudicate disputes（裁决争端）为经典且权威的动宾搭配，完全契合独立仲裁庭依据法律先例定分止争的句意逻辑。",
+      "try": "错误。try 在司法审判层面上通常表示“审理（某案）”或“审判（某人）”（例如 try a case, try a defendant for treason），其后宾语必须为受审人、刑事指控或法律诉讼，不能与 disputes（争端）构成动宾搭配来表达“化解或裁决争端”。",
+      "take": "错误。take 词义过于泛化且非正式，缺乏权威的司法仲裁语义色彩；在正式的高级国际关系与法律英语中，不能用于 take disputes 表达司法裁决，存在严重的语域断裂（stylistic clash）。",
+      "rule": "错误。rule 表示“裁定”并涉及具体裁决事项时，属于不及物动词，必须接介词 on/upon（如 rule on a dispute），或后接 that 从句及复合宾语（如 rule the tariff illegal）；直接跟名词短语 disputes 作及物宾语属于严重的句法搭配错误（syntactic violation）。"
+    },
+    "translation": "当双边贸易谈判陷入僵局时，各成员国设立了一个独立的仲裁庭来裁决跨境关税争端，从而确保由法律先例而非经济胁迫来主导商业关系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_06",
+    "group_id": 703,
+    "group_name": "adjudicate, try, take, rule",
+    "level": "TEM-8",
+    "target_word": "adjudicate",
+    "question": "Appointed as a neutral ombudsman, the former judge was authorized to ___ between university administrators and faculty representatives, resolving bitter governance deadlocks without subjecting the institution to damaging public litigation.",
+    "options": [
+      "adjudicate",
+      "try",
+      "take",
+      "rule"
+    ],
+    "answer": "adjudicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive syntactic frame '___ between [Party A] and [Party B]' combined with the subject 'neutral ombudsman'. Only 'adjudicate' functions intransitively to mean 'to act as judge/arbiter between contending parties'.",
+    "distractor_analysis": {
+      "adjudicate": "正确。adjudicate 亦可作为不及物动词使用，专门表示“充当裁判员、作为法官进行公断”（Merriam-Webster: to act as judge）。adjudicate between A and B 是正式英语中极其严谨的固定构式，意为“在相互对立的两造之间主持公断/进行仲裁”，与句中“中立调查专员（neutral ombudsman）”的职权及化解僵局的语境完全吻合。",
+      "try": "错误。try 在司法裁判语境中为及物动词（后接案件或被告），英语中根本不存在 try between A and B 这一介词搭配用法，代入后产生致命句法断裂。",
+      "take": "错误。take 与介词 between 连用无法表达“在两方之间进行中立调解或仲裁”的含义，语义完全不通。",
+      "rule": "错误。rule 表示司法裁决时，涉及双方当事人必须使用 rule in favor of 或 rule against（裁定支持/反对某一方），或接 rule on 针对具体争议议题；英语句法中不存在 rule between A and B 这种表述，存在严格的介词选择排他性错误。"
+    },
+    "translation": "作为被任命的中立调查专员，这位前法官获权在大学管理层与教师代表之间进行裁决调解，在避免该机构卷入损害声誉的公开诉讼的前提下化解了激烈的治理僵局。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_07",
+    "group_id": 704,
+    "group_name": "adulterate, debase, load, dilute",
+    "level": "TEM-8",
+    "target_word": "adulterate",
+    "question": "Rigorous chromatographic analysis revealed that the supplier had attempted to ___ the premium organic lavender extract with synthetic linalyl acetate, thereby subverting purity standards to inflate commercial profit margins.",
+    "options": [
+      "adulterate",
+      "debase",
+      "load",
+      "dilute"
+    ],
+    "answer": "adulterate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Collocation with a tangible botanical extract object and the prepositional phrase 'with synthetic linalyl acetate' denoting the illicit introduction of an inferior or counterfeit chemical constituent to defraud regulatory screening.",
+    "distractor_analysis": {
+      "adulterate": "【正确】Merriam-Webster将其权威界定为“to corrupt, debase, or make impure by the addition of a foreign or inferior substance or element... especially to prepare for sale by replacing valuable with less valuable ingredients”。本句宾语为纯天然植物原料（premium organic lavender extract），后接介词短语“with synthetic linalyl acetate”（以合成乙酸芳樟酯掺假以冒充天然活性成分），目的在于“inflate commercial profit margins”（谋取非法暴利），属于植物药化检验与商品法规中典型的“经济利益驱动型掺假（Economically Motivated Adulteration）”，搭配与语义完全契合。",
+      "debase": "【排除】debase侧重指降低事物（如货币、威信、人格、艺术品格或生态标准）的内在价值、尊严或地位（如 debase the currency）。在现代生物学与药物分析规范中，不能用于表示“在植物提取液中加入化学伪造物以进行物理掺杂”这一具体行为。",
+      "load": "【排除】load在工业工艺（如纺织、造纸或印染）中特指“向纸张、棉织物中添加高岭土、硫酸钡等重质无机填充物以增加克重或手感”（load paper/silk），或用于“在骰子中灌铅（load dice）”，不能用于描述精油中添加合成化学物。",
+      "dilute": "【排除】dilute指通过添加中性溶剂（如水、基础油）来降低溶液的浓度、黏度或强度（thin out）。句中的乙酸芳樟酯系薰衣草精油的核心呈香活性分子，造假者添加合成物是为了伪造色谱图谱指纹以通过纯度检测，属于典型的化学“掺假（adulteration）”而非单纯降低浓度的“稀释（dilution）”。"
+    },
+    "translation": "严谨的色谱分析显示，该供应商企图在特级有机薰衣草提取物中掺入人工合成的乙酸芳樟酯，从而颠覆纯度标准以牟取商业暴利。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_08",
+    "group_id": 704,
+    "group_name": "adulterate, debase, load, dilute",
+    "level": "TEM-8",
+    "target_word": "debase",
+    "question": "Environmental philosophers argue that commodifying endangered apex predators as lucrative safari attractions will inevitably ___ the intrinsic worth of wild nature, reducing majestic organisms to mere commercial spectacles.",
+    "options": [
+      "adulterate",
+      "debase",
+      "load",
+      "dilute"
+    ],
+    "answer": "debase",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Direct collocation with 'the intrinsic worth' and semantic coordination with 'reducing majestic organisms to mere commercial spectacles', signifying a degradation in ontological status, dignity, or moral standing.",
+    "distractor_analysis": {
+      "debase": "【正确】Merriam-Webster官方定义指明：“to lower in status, esteem, or character; to reduce the intrinsic value of...”。在环境伦理与生态哲学语境中，“debase the intrinsic worth of nature”（贬低荒野自然的内在价值）是经典的学术搭配；后文分词结果状语“reducing majestic organisms to mere commercial spectacles”（将雄伟的生灵沦为纯粹的商业噱头）构成了决定性的语境锚点，精准表达了将崇高、原生态的事物降格为低俗产物的过程。",
+      "adulterate": "【排除】adulterate的受词必须是具体的物理实体、消费品或原料（如食品、药品、精油、牛乳），表示通过混入外来低质杂质而使其不纯，绝对无法与“intrinsic worth”（内在价值）这类抽象哲学概念搭配。",
+      "load": "【排除】load主要表示物理上的“装载”、“使负重担”，或在特定制造领域表示“加填料增重”，与“内在价值”搭配在语义学上完全不通。",
+      "dilute": "【排除】dilute本义为冲淡溶液，引申为削弱、分散某种力量、权威、所有权或感情（如 dilute shareholder value / dilute the impact）。但“intrinsic worth”（内在价值）作为物种或生态系统本体层面的尊严与崇高性，不能被“稀释”，只能被“贬低/降格（debase）”。"
+    },
+    "translation": "环境哲学家认为，将濒危的顶级捕食者商品化为牟利的观光项目，必然会贬低荒野自然的内在价值，将雄伟的生命沦为纯粹的商业噱头。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_09",
+    "group_id": 705,
+    "group_name": "affront, abase, sting, insult",
+    "level": "TEM-8",
+    "target_word": "affront",
+    "question": "The regime's unilateral decision to violate bilateral peace accords threatened to openly ___ the sovereignty and collective moral sensibilities of the regional alliance, prompting urgent deliberations among multilateral diplomats.",
+    "options": [
+      "affront",
+      "abase",
+      "sting",
+      "insult"
+    ],
+    "answer": "affront",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的副词修饰语 'openly' 与宾语短语 'the sovereignty and collective moral sensibilities' 构成了决定性的强搭配锚点。根据韦氏词典（Merriam-Webster），affront 的核心释义为 'implies open defiance and insolence'，专用于对主权（sovereignty）、道德认知（moral sensibilities）或公众尊严的公然挑衅与蔑视（如韦氏例句：sovereignty had been so blatantly affronted）。其他选项均受制于严苛的句法或语义选择限制，无法与此类抽象政治/伦理客体搭配。",
+    "distractor_analysis": {
+      "affront": "正确项。affront 作及物动词，指“公开冒犯、公然蔑视、践踏（原则、主权、尊严等）”，与副词 openly 以及宾语 the sovereignty and collective moral sensibilities 构成高度契合的高级学术与外交语域固定搭配，精准契合句意中对公理与国家主权的公然挑衅。",
+      "abase": "错误项（搭配与语义断裂）。abase 意为“降低（地位、身份）；使谦卑；降低威望”，句法上通常为反身动词（如 abase oneself）或以处于具体等级秩序中的人作为宾语（如 abase a proud ruler），侧重社会层级或姿态上的贬低，绝不能接 sovereignty 或 sensibilities 这类抽象法理与道德认知名词。",
+      "sting": "错误项（论元语义角色不符）。sting 作及物动词引申指“激怒；深深刺伤（某人的自尊心）”或通过尖锐刺激使人采取行动（sting someone into action），其及物客体必须为具有神经知觉的人或个体的局部情绪（如 pride），不可支配主权与国际政治同盟的集体感知。",
+      "insult": "错误项（语域失谐与搭配排他）。insult 侧重通过言语或行为直接对具体的人进行羞辱，伤害其个人自尊（direct offense to a person or their pride），或局限于 insult one's intelligence 等极少数个人属性搭配。在严肃国际公法与高阶学术语篇中，面对国家主权（sovereignty）与集体道德情感，绝不能用口语化色彩浓厚且以人际辱骂为核心的 insult，必须使用具有公然违抗、蔑视权威意味的正式词 affront。"
+    },
+    "translation": "该政权单方面撕毁双边和平协议的决定，公然践踏并冒犯了地区联盟的主权与集体道德认知，从而引发了多边外交官之间的紧急磋商。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_10",
+    "group_id": 705,
+    "group_name": "affront, abase, sting, insult",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Confronted by the autocratic regime's demands for total capitulation, the dissident philosopher steadfastly refused to ___ himself before the military tribunal to secure a pardon.",
+    "options": [
+      "affront",
+      "abase",
+      "sting",
+      "insult"
+    ],
+    "answer": "abase",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The reflexive complementation structure '___ himself before [an authority]' coupled with the purpose clause 'to secure a pardon'. 'Abase oneself before sb.' is an irreplaceable literary and formal collocation specifically denoting humiliating or lowering oneself in a groveling, submissive posture before a superior power.",
+    "distractor_analysis": {
+      "abase": "【正选】及物动词，意为“自贬、卑躬屈膝、屈抑”，其最具辨识度的句法形态为支配反身代词并后接介词 before（即 abase oneself before an authority），专指在权威、君主或法庭面前舍弃尊严、低首下心以祈求赦免或宽恕，与句中的政治审判语境及从属从句逻辑天衣无缝。",
+      "affront": "【排除】及物动词，意为“公然冒犯、挑衅”，其动作指向必须是外部的他者或公认法则（即向外攻击/触犯），英语中根本不存在“affront oneself before sb.”这一表达自谦求饶的反身句型与语义框架。",
+      "insult": "【排除】及物动词，意为“侮辱、辱骂”。虽然在纯句法上能接反身代词（insult oneself 表示自侮/自骂），但在本句“面向军事法庭以换取特赦”的语境下，逻辑要求的是“低头伏罪、自贬以求饶”，而非“在法庭面前羞辱辱骂自己”，语义逻辑产生荒谬断裂。",
+      "sting": "【排除】及物动词，意为“刺痛、刺伤”，无法与反身代词及介词 before 连用表达降服屈辱之意，词义与句法模式均严重错位。"
+    },
+    "translation": "面对专制政权要求其彻底屈服的通牒，这位持不同政见的哲学家坚决拒绝在军事法庭面前卑躬屈膝以换取特赦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_11",
+    "group_id": 706,
+    "group_name": "aggregate, intermingle, blend, combine",
+    "level": "TEM-8",
+    "target_word": "aggregate",
+    "question": "In behavioral economics, unconscious cognitive biases that seem inconsequential in isolated choices can systematically ___ to an astronomical societal cost, fundamentally undermining rational choice theory across financial markets.",
+    "options": [
+      "aggregate",
+      "intermingle",
+      "blend",
+      "combine"
+    ],
+    "answer": "aggregate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后接的介词短语“to an astronomical societal cost”（总计达到天文数字般的社会成本）是决定性的句法与搭配锚点。在四个选项中，仅有 aggregate 具备不及物动词用法且专门与介词 to 搭配，表示“总计达到、累计为某一数额或整体规模”（to amount to a whole sum or total），其他三个动词在此句法结构中均构成严重语法或搭配错误。",
+    "distractor_analysis": {
+      "aggregate": "正确。aggregate 作不及物动词时，核心义项即为“总计、累计达到”（常与 to 搭配，如 Merriam-Webster 权威例证：losses that aggregate to several million dollars）。在此处与“to an astronomical societal cost”完美契合，准确表达微观层面的认知偏差在宏观上累积聚合成巨额总和的过程，高度契合行为经济学语域。",
+      "intermingle": "错误。intermingle 意为“使混合、相互混杂”，是不及物或及物动词，通常与介词 with 搭配表示两事物交错掺杂（如 intermingle with the crowd），根本无法与介词 to 连用表示数量或程度的“累积达到”，在句法上不成立。",
+      "blend": "错误。blend 意为“融合、调和”，强调成分相互渗透并失去各自独立边界，通常与 with 或 into 连用（如 blend into the background）。blend 不具备“累加至某一总数”的词义，不能与“to + 数量/成本名词”搭配。",
+      "combine": "错误。combine 虽然含有“结合”之意，但当它与 to 连用时，只能接动词不定式（combine to do sth.，表示“共同导致/联合做某事”），绝对不能直接接介词 to 加数量或代价名词来表示“总计达到（amount to）”；若表达合成某一结果，须用 combine into。故此处存在严苛的句法搭配排他。"
+    },
+    "translation": "在行为经济学中，孤立决策中看似微不足道的无意识认知偏差，可能会系统性地累加为极其高昂的社会代价，从根本上动摇金融市场中的理性选择理论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_12",
+    "group_id": 706,
+    "group_name": "aggregate, intermingle, blend, combine",
+    "level": "TEM-8",
+    "target_word": "intermingle",
+    "question": "In phenomenological accounts of memory, recollected past events and immediate sensory impressions constantly ___, circulating through consciousness in subtle interplay without ever coalescing into an indivisible, uniform mental state.",
+    "options": [
+      "aggregate",
+      "intermingle",
+      "blend",
+      "combine"
+    ],
+    "answer": "intermingle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的表意锚点“circulating through consciousness in subtle interplay without ever coalescing into an indivisible, uniform mental state”（在意识中微妙交错流转，却从未聚结为不可分割的均一心理状态）构成了绝对语义排他。intermingle 强调不同要素在互相渗透交织的同时，依然保持各自独立的特质与边界，与后文的否定让步条件形成逻辑闭环。",
+    "distractor_analysis": {
+      "intermingle": "正确。intermingle 侧重于不同事物“相互穿插、交织混合”，但在混合过程中各组分依然维持自身独立性与辨识度（Merriam-Webster 辨析指出其特征为 elements remain distinguishable while being mixed together）。这与后文分词短语所描述的“彼此微妙互动，却未彻底融为一体”的认知现象学特征完美呼应。",
+      "aggregate": "错误。aggregate 指零散、微观个体的“机械聚集、统计汇总成总量”，属于宏观数据或物理团块的加总概念，既无法用于描述意识流中过去记忆与即时感官印象之间的动态交织流动，也不符合认知现象学的哲学语域。",
+      "blend": "错误。blend 意为“融为一体”，其核心语义特征恰恰是“混合物各组分原有的边界与特质消失，化为均匀无差别的整体”（Merriam-Webster 明确定义：implies that the elements as such disappear in being mixed into each other）。这与后文的明确限定“without ever coalescing into an indivisible, uniform mental state”（从未融为均一状态）发生直接的逻辑语义冲突。",
+      "combine": "错误。combine 强调通过结合、联合而形成一个统一的有机实体或功能联盟（a resulting unit or union），在此处作不及物动词时无法传达记忆与感官表象在意识中“若即若离、交互穿行”的动态质感，且与句末“从未融合成单一整体”的语境相悖。"
+    },
+    "translation": "在关于记忆的现象学阐释中，回忆中的往事与当下的感官印象不断交错穿插，在意识中微妙互动流转，却从未真正聚结为一个不可分割的均一心理状态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_13",
+    "group_id": 707,
+    "group_name": "alight, port, light, perch",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "During the chaotic collapse of the authoritarian regime, retreating security forces deliberately set the central intelligence archives ___, incinerating irreplaceable surveillance dossiers and clandestine registries to preclude future legal accountability.",
+    "options": [
+      "alight",
+      "port",
+      "light",
+      "perch"
+    ],
+    "answer": "alight",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The syntactic frame 'set the central intelligence archives ___' requires a predicative adjective complement meaning 'on fire' to logically license the subsequent participial clause 'incinerating irreplaceable surveillance dossiers...'; 'set alight' is the only grammatically and idiomatically valid construction, whereas 'light' requires 'set light to NP', and 'port'/'perch' are syntactically and semantically invalid.",
+    "distractor_analysis": {
+      "alight": "正确。alight 可作表语形容词（predicative adjective），意为‘着火的、燃烧的’（aflame, on fire），常与动词 set 搭配构成固定使役结构 'set something alight'（使某物着火、点燃某物）。句中 'set the central intelligence archives alight' 句法结构严谨，在语义上与后置分词状语 'incinerating irreplaceable surveillance dossiers...'（将无可替代的监控档案化为灰烬）形成严密的因果照应，完全契合高级学术与历史政治叙事语体。",
+      "port": "错误。port 可作名词（港口、左舷）、形容词（左舷的）或动词（转舵向左、移植），完全不具备‘着火、燃烧’之义，亦不能作为宾语补足语与 set 构成该类复合宾语结构，存在严重的词性与语义范畴错误。",
+      "light": "错误。考生极易因混淆词形而误选。light 作名词表示引发火灾时，其固定短语严格要求介词引导宾语，即 'set light to something'，英语中绝不存在 '*set something light' 的使役句法结构；若将 light 视作形容词，其核心义项为‘轻的’或‘浅色的、明亮的’，绝不能表示‘处于燃烧状态’（aflame）。因此 light 在句法结构和词汇语义上均无法成立。",
+      "perch": "错误。perch 为动词（栖息、位于高处）或名词（栖木、高位），不能充当表示燃烧状态的形容词性宾语补足语，代入句中导致严重的句法破裂和语义荒谬。"
+    },
+    "translation": "在该专制政权混乱瓦解之际，败退的安全部队故意纵火焚毁了中央情报档案馆，将无可替代的监控档案与秘密名册化为灰烬，以逃避未来的法律问责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_14",
+    "group_id": 707,
+    "group_name": "alight, port, light, perch",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "When the long-suppressed archival records were declassified, the lead historian's countenance was visibly ___ with intellectual fervor as she detailed how the covert bilateral treaty had secretly restructured postwar European alliances.",
+    "options": [
+      "alight",
+      "port",
+      "light",
+      "perch"
+    ],
+    "answer": "alight",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "The syntactic frame 'countenance was visibly ___ with intellectual fervor' strictly requires a predicative adjective denoting radiant emotional animation; 'alight with' is the canonical, lexicographically attested idiom, whereas 'light' cannot serve as an emotion-radiating adjective with 'with' (nor as a past participle in base form), and 'port' and 'perch' cause immediate syntactic crashes.",
+    "distractor_analysis": {
+      "alight": "正确。alight 在此处作表语形容词（predicative adjective），专指人的神态、面容或眼神“因兴奋、热忱等强烈情感而容光焕发、熠熠生辉”（Merriam-Webster: animated with or as if with inner warmth or light: glowing; Oxford: of faces or eyes, showing excitement, passion, or other strong feelings）。其高度固化的学术与文学搭配即为 be alight with (enthusiasm/fervor/excitement)，与句中主语 countenance（面容神色）及介词短语 with intellectual fervor 构成严丝合缝的修辞与句法闭环。",
+      "port": "错误。port 作动词表示“左转舵”、“持枪/搬运”或软件“移植”，作名词表示“港口”或“舱口”。置于系动词 was 及副词 visibly 之后充当表语，既无法与介词短语 with intellectual fervor 产生任何合法语义关联，又出现严重的词性破裂。",
+      "light": "错误。在句法层面，系表结构 was visibly ___ 要求填入形容词或分词；若将其视为动词的分词形式，light 的过去分词必须为 lit 或 lighted，原形 light 绝无可能作被动或状态表语。在语义与搭配层面，light 作形容词仅表“重量轻的”、“明亮的（光线充足）”或“浅色的”，英语中完全不存在 countenance was light with fervor 的用法，属于明显的搭配生造。",
+      "perch": "错误。perch 为动词（栖息、置于高处）或名词（栖木、高位）。在 was visibly 之后直接出现动词原形 perch 违背基础英语语法（若表状态需用过去分词 perched）；且 perch 词义严格限定于物理空间的栖居与俯瞰，绝不能隐喻面容因抽象情绪而焕发光彩。"
+    },
+    "translation": "当长期封存的档案记录解密时，这位首席历史学家在详细阐述该秘密双边条约如何暗中重塑战后欧洲盟友关系之际，面庞上显露出难以抑制的学术热忱神采。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_15",
+    "group_id": 708,
+    "group_name": "allude, insinuate, touch, intimate",
+    "level": "TEM-8",
+    "target_word": "allude",
+    "question": "In his farewell address, the outgoing chancellor seemed content merely to ___ to simmering geopolitical rivalries, avoiding any explicit critique that might jeopardize delicate bilateral trade negotiations.",
+    "options": [
+      "allude",
+      "insinuate",
+      "touch",
+      "intimate"
+    ],
+    "answer": "allude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'to' 与后文语义补足语 'avoiding any explicit critique' 构成双重锚点；全组中仅 allude 可不及物并接介词 to 表示“间接提及”。",
+    "distractor_analysis": {
+      "allude": "正确。不及物动词，固定搭配介词 to（allude to sth），意为“间接提及、暗指”。句中 chancellor 为免破坏经贸谈判而避免直接批评，仅“间接提及”地缘竞争，后文“avoiding any explicit critique”与 allude to 形成绝佳的语篇对仗与逻辑呼应。",
+      "insinuate": "错误。句法搭配受限。insinuate 为及物动词，后接 that 从句或直接宾语（如 insinuate doubts），意为“含沙射影、影射”，不可与介词 to 连用构成 *insinuate to sth*，在此产生不可接受的句法断裂。",
+      "touch": "错误。介词搭配错误。touch 表示“涉及、触及（某一议题）”时，必须与介词 on 或 upon 连用（touch on/upon sth），不存在 *touch to sth* 的搭配形式。",
+      "intimate": "错误。句法不匹配。intimate 用作动词时为及物动词，后接名词宾语或 that 从句（如 intimate one's intentions / intimate that...），意为“透露、委婉宣布”，不能直接接介词短语 to sth 表示提及某事。"
+    },
+    "translation": "在告别演说中，这位即将离任的总理似乎仅仅满足于含蓄提及暗流涌动的地缘政治竞争，刻意回避了任何可能危及脆弱的双边贸易谈判的正面批评。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_16",
+    "group_id": 708,
+    "group_name": "allude, insinuate, touch, intimate",
+    "level": "TEM-8",
+    "target_word": "insinuate",
+    "question": "Rather than risking a defamation suit through open accusations, the opposition spokesperson relied on insidious innuendo to ___ that senior regulatory officials were complicit in the corporate embezzlement scheme.",
+    "options": [
+      "allude",
+      "insinuate",
+      "touch",
+      "intimate"
+    ],
+    "answer": "insinuate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法上后接 'that' 引导的名词性从句，语篇上受 'defamation suit' 与 'insidious innuendo'（阴险影射）强力修饰，排他性锁定具有恶意暗示色彩的及物动词 insinuate。",
+    "distractor_analysis": {
+      "insinuate": "正确。及物动词，直接接 that 引导的宾语从句；在语义语域上，insinuate 专指“以阴险、狡黠、含沙射影的方式暗示不利或有损名誉之事”（impart or suggest something derogatory in an indirect, artful way）。句中“insidious innuendo”（阴险的影射）与官员涉嫌贪腐的语境构成了决定性的语义与色彩锚点。",
+      "allude": "错误。句法受限。allude 为不及物动词，必须接介词 to（allude to sth/the fact that...），在现代标准学术英语中绝不能直接接 that 从句（*allude that...* 为严重语法错误）。",
+      "touch": "错误。句法受限。touch 表示“触及、探讨”某一事实时为不及物用法，必须接介词 on/upon（touch on the fact that...），不能直接支配 that 从句作宾语。",
+      "intimate": "错误。语域与评价极性严重冲突。虽然 intimate 语法上可接 that 从句，但其核心语义为“委婉、含蓄、得体或正式地告知/提示”（communicate delicately or discreetly），多用于中性或外交客套语境，缺乏恶意中伤的负面内涵，与句中“insidious innuendo”及规避“defamation suit”的险恶语篇风格形成剧烈冲突。"
+    },
+    "translation": "该反对派发言人唯恐直接指控招致诽谤诉讼，转而借助阴险的影射手段，暗指高级监管官员参与了这起企业侵吞公款的勾当。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_17",
+    "group_id": 709,
+    "group_name": "amalgamate, mix, unify, mingle",
+    "level": "TEM-8",
+    "target_word": "amalgamate",
+    "question": "Faced with stringent capital adequacy mandates and mounting operational deficits, the regional commercial bank resolved to ___ with its longtime domestic rival, creating a consolidated financial institution with nationwide market share.",
+    "options": [
+      "amalgamate",
+      "mix",
+      "unify",
+      "mingle"
+    ],
+    "answer": "amalgamate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BUSINESS_FINANCE",
+    "anchor_clue": "句中关键句法框架为 'resolved to ___ with its longtime domestic rival, creating a consolidated financial institution'。在高级财经与公司治理语域中，指代两个独立的商业法人或金融机构依法合并、重构成一个新实体时，唯一的法定与习惯搭配是不及物动词 'amalgamate with'。其余三词在此句法与语域下均产生严重的搭配断裂或语意荒谬。",
+    "distractor_analysis": {
+      "amalgamate": "正确。amalgamate 在商业、金融与组织机构语境中是表示“（公司、机构、社团）合并、联合”的标准权威法律/财经术语（Merriam-Webster 明确指出其特指 combining of businesses, societies, or institutions into a single body or whole）。此处作不及物动词，与 with 构成固定搭配（amalgamate with a rival/firm），与后文结果状语 'creating a consolidated financial institution' 形成严密准确的逻辑与语体契合。",
+      "mix": "错误。mix 为通用基础词，核心指不同物质的物理混合或搅拌（如 mix chemicals），亦可用于非正式的社交接触，在现代高阶财经语境中无法表达法人实体的资产合并与建制重组，使用在此处会导致断崖式的语域降格（register clash）。",
+      "unify": "错误。unify 的核心概念是将分散或不一致的思想、法律、标准或分裂的领土归于“统一、和谐或单一权威之下”（如 unify conflicting standards, unify a nation），着眼于一致性而非法人地位的合并；且 unify 绝大多数情况下为及物动词，在商业英语中从不用于 'unify with a competitor' 来表示两家公司合并，代入句中属于生造搭配和语法错用。",
+      "mingle": "错误。mingle 指不同成分混合且仍保留各自独立特性，或特指在社交场合中与他人走动交际（mingle with guests），亦可表抽象情绪的交织（sorrow mingled with relief）。商业银行断不可能与竞争对手“社交寒暄（mingle）”以建立联合金融机构，语意荒谬且与正式财经语域完全脱节。"
+    },
+    "translation": "面对严苛的资本充足率监管要求和与日俱增的运营赤字，该区域性商业银行决定与其长期的本土竞争对手正式合并，从而缔造一家拥有全国性市场份额的联合金融机构。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_18",
+    "group_id": 709,
+    "group_name": "amalgamate, mix, unify, mingle",
+    "level": "TEM-8",
+    "target_word": "amalgamate",
+    "question": "Pursuant to the new commercial code, the governing board resolved to ___ the two regional subsidiaries into a single corporate entity, thereby legally dissolving their separate legal personalities to eliminate administrative redundancies.",
+    "options": [
+      "amalgamate",
+      "mix",
+      "unify",
+      "mingle"
+    ],
+    "answer": "amalgamate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_BUSINESS",
+    "anchor_clue": "决定性排他锚点为 'the two regional subsidiaries into a single corporate entity, thereby legally dissolving their separate legal personalities'。句意明确指向公司法体系下的法定企业合并（statutory amalgamation），即两家独立法人实体通过法定重组融合为单一法人，其原有的独立法人资格（legal personalities）随之注销。在法商专业语域中，仅有 amalgamate 能精准表达这一法定实体合并与法人格消亡过程。",
+    "distractor_analysis": {
+      "amalgamate": "正确。amalgamate 是英美法系及商法领域中具有严格法定定义的专有名词（term of art），专指两个或多个企业法人通过法定程序合并为一个统一的法人实体（amalgamate ... into a single corporate entity），且原实体的独立法律人格随之消亡，完美契合后文的 'dissolving their separate legal personalities'。",
+      "mix": "错误。mix 为日常通俗词汇，仅指物理意义上的“混合、搅拌”，在高度正式的公司法与企业重组语境中存在严重的语域崩塌（register clash），且完全不具备表述法人地位融合与法权变更的法律语义。",
+      "unify": "错误。unify 的核心义为“使一致、使协调或统一化”（如统一标准、统一部署、统一国家），侧重于使不同主体在战略、政策或管理机制上达成协同与统一（harmonization / unified control），但在这一过程中各组成主体通常仍保留其原本独立的组织或法人资格；它并非公司法中用于指涉企业法人合并并导致旧法人资格注销的法定动词，与后文的法律效果严重脱节。",
+      "mingle": "错误。mingle 指原本独立的个体或要素在空间、社交或情感上交织混杂，但各要素仍保持其个体可辨识度；在法商语境中，该词仅以 commingle 的形式用于描述资金或财产的“混同”（多指违规挪用或财务混同），绝不能用于支配公司实体层面的法定合并重组。"
+    },
+    "translation": "根据新商法的规定，董事会决定将两家区域子公司合并为一个单一法人实体，从而在法律上注销其各自独立的法人资格，以消除行政冗余。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_19",
+    "group_id": 710,
+    "group_name": "amass, accrue, wax, add",
+    "level": "TEM-8",
+    "target_word": "amass",
+    "question": "Through decades of meticulous archival fieldwork, the cognitive anthropologist managed to ___ an exhaustive body of dialectical evidence, thereby conclusively resolving the protracted academic dispute.",
+    "options": [
+      "amass",
+      "accrue",
+      "wax",
+      "add"
+    ],
+    "answer": "amass",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb governing 'an exhaustive body of dialectical evidence', designating the deliberate, voluminous collection of empirical research materials over extended time.",
+    "distractor_analysis": {
+      "amass": "正确。amass为及物动词，核心义为“（经过长期努力或搜集而）大量积聚、汇集”，在学术语境中与body of evidence、corpus of data、wealth等名词构成高度地道的固定搭配。句中与“decades of meticulous archival fieldwork”（数十年严谨的档案田野调查）形成严密的逻辑因果闭环。",
+      "accrue": "错误。accrue在学术英语中主要作不及物动词（常与to连用，表示“利益、好处等自然累积归于某人”）；即使用作及物动词，其宾语也严格局限于法律或金融语境中的定期孳息、利息或休假权益（如accrue interest/leave），绝对不能与学术实证资料搭配（不存在*accrue a body of evidence），属于典型的搭配断裂。",
+      "wax": "错误。wax属于不及物动词或系动词，常指月相“渐盈”、力量“渐强”或后接形容词构成系表结构（如wax lyrical/eloquent，意为“变得滔滔不绝”），在句法上绝对无法支配及物动词宾语短语“an exhaustive body...”，存在致命的语法功能错误。",
+      "add": "错误。add语义过于单薄且缺乏“通过搜集而大量积聚”的内涵；在句法上，add作为及物动词通常要求add A to B结构，若仅单独使用“add an exhaustive body of evidence”，在书面语体中不仅语意残缺，更无法体现数十载学术研究所蕴含的“倾力聚拢浩瀚材料”的语体厚度。"
+    },
+    "translation": "历经数十年严谨的档案田野调查，这位认知人类学家得以汇集起极为详尽的方言证据库，从而彻底化解了这场旷日持久的学术争端。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b70_20",
+    "group_id": 710,
+    "group_name": "amass, accrue, wax, add",
+    "level": "TEM-8",
+    "target_word": "accrue",
+    "question": "Cognitive psychologists increasingly emphasize that substantial intellectual dividends will naturally ___ to elderly individuals who actively engage in bilingual communication and complex musical training.",
+    "options": [
+      "amass",
+      "accrue",
+      "wax",
+      "add"
+    ],
+    "answer": "accrue",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Intransitive frame '[dividends/benefits] ___ to [individuals]', signaling the periodic or natural falling of intangible gains to a beneficiary.",
+    "distractor_analysis": {
+      "accrue": "正确。accrue在此处精准激活了其最核心的不及物动词句式“benefits/dividends accrue to sb.”（收益/益处自然产生并归属于某人）。主语“intellectual dividends”（智力红利）与介词短语“to elderly individuals”（归于老年群体）构成了不可替代的权威学术动宾介词框架。",
+      "amass": "错误。amass为纯及物动词，必须直接后接聚集的对象（如amass wealth/knowledge）；它既不能作不及物动词表示红利自行流转，也无法与介词to搭配指代利益的归属，在此结构中出现严重的句法配价违背。",
+      "wax": "错误。wax为不及物动词（表示渐盈、增长）或系动词（后接形容词表“变得”），其语义场为事物自身维度的膨胀或状态变化，完全不具备“使权益或红利自然附带归于某主体”的语义特征，无法与介词to接引的接受者形成合理逻辑。",
+      "add": "错误。add虽然可以与to构成短语add to，但add to意为“增加、增添（某种既有的情感、负担或属性）”，其主语通常是导致增幅的因素，宾语为被扩大的事物（例如The noise added to his anxiety）；若置入本句，句意将畸变为“红利自然被添加给老年人自身”，出现严重的论元逻辑混乱与搭配扭曲。"
+    },
+    "translation": "认知心理学家愈发强调，若老年人能积极投身于双语交流与复杂的音乐训练，可观的智力红利自然会逐渐惠及自身。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

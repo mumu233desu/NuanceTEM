@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b54_01",
+    "group_id": 541,
+    "group_name": "harebrained, mad, insane, foolish",
+    "level": "TEM-8",
+    "target_word": "harebrained",
+    "question": "Historians emphasize that the expedition was neither a pathologically deranged gamble nor an intellectually deficient blunder, but a quintessentially ___ scheme, marked by the flighty, scatterbrained optimism of its aristocratic backers.",
+    "options": [
+      "harebrained",
+      "mad",
+      "insane",
+      "foolish"
+    ],
+    "answer": "harebrained",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_HISTORY",
+    "anchor_clue": "The correlative negative constraints 'neither a pathologically deranged gamble' (disqualifying 'mad' and 'insane') and 'nor an intellectually deficient blunder' (disqualifying 'foolish') create an exclusive semantic niche for 'harebrained', which is positively reinforced by the phraseme 'scheme' and the defining coordinates 'flighty, scatterbrained optimism'.",
+    "distractor_analysis": {
+      "harebrained": "正确。harebrained 意为“轻率浮躁的、异想天开且极不切实际的”（Merriam-Webster: foolish, flighty; OED: flighty, scatterbrained）。与单纯的智力缺陷不同，harebrained 核心指思维如野兔般轻浮跳跃、缺乏专注力与稳重深思的“散漫盲动”（giddiness/flightiness）。句中“flighty, scatterbrained optimism”（轻浮散漫、脱离实际的乐观）与其经典固定搭配“scheme”构成了决定性的排他锚点，完美契合高阶历史学术语境中对贵族冒险计划的严谨评述。",
+      "mad": "错误。mad 侧重于狂乱、暴怒、狂躁失控或癫狂状态（如 a mad gamble 或 mad with rage）。一方面，前文“neither a pathologically deranged gamble”（并非病态癫狂的赌博）通过否定对立构成了明确的排他性语义限制；另一方面，mad 蕴含狂暴剧烈的情感失控，与后文后置定语所界定的“flighty, scatterbrained”（轻率浮躁、散漫无章）的轻佻与不切实际存在明显的语义错位。",
+      "insane": "错误。insane 严格属于精神病理学范畴（精神失常的、精神病的），转义用于抽象事物时指极度危险、荒谬绝伦且脱离现实的疯狂。前文明确指出该计划“neither a pathologically deranged gamble”（并非病态精神错乱的赌局），在语义上已明确排除了带有严重病理或认知解体色彩的 insane；同时，insane 亦无法体现贵族阶层特有的轻率散漫（scatterbrained）特质。",
+      "foolish": "错误。foolish 为上位概括词，核心语义为“缺乏常识、判断力或智力低下的”（lacking good sense, judgment, or intellect）。句中前置排他结构“nor an intellectually deficient blunder”（亦非智力欠缺导致的愚蠢疏失）已在逻辑上明确排除了因“智力或判断力不足”所致的常识性愚蠢；此外，foolish 语义宽泛平淡，缺乏 harebrained 所特有的“思维轻浮散漫、异想天开”（flighty, scatterbrained）的特异性语义内涵，代入会导致前后句意产生逻辑断裂。"
+    },
+    "translation": "历史学家强调，这次远征既不是一次病态癫狂的孤注一掷，也不是一场智力低下导致的愚蠢疏失，而是一个典型的异想天开的轻率计划，带有其贵族支持者轻浮散漫、脱离实际的乐观主义特征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_02",
+    "group_id": 541,
+    "group_name": "harebrained, mad, insane, foolish",
+    "level": "TEM-8",
+    "target_word": "harebrained",
+    "question": "The regulatory report concluded that the executive's proposal was born neither of clinical madness nor of ordinary foolishness, but was rather a characteristically ___ scheme, inherently flighty, scatterbrained, and devoid of pragmatic grounding.",
+    "options": [
+      "harebrained",
+      "mad",
+      "insane",
+      "foolish"
+    ],
+    "answer": "harebrained",
+    "primary_mechanism": "MECH_DISCURSIVE_POLARITY",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive discursive operator 'born neither of clinical madness nor of ordinary foolishness, but was rather...' algebraically eliminates 'mad', 'insane', and 'foolish' via explicit antithetical exclusion and root-clash, leaving 'harebrained' as the only word matching the post-modifying triad 'inherently flighty, scatterbrained, and devoid of pragmatic grounding'.",
+    "distractor_analysis": {
+      "harebrained": "正确。harebrained 专指“轻浮狂妄的、异想天开而鲁莽不切实际的”（尤指计划、主意），其词源来自发情期野兔的狂跳与轻浮，核心义项即为 flighty and scatterbrained。句中通过双重否定句式（neither... nor...）明确排除了病理性癫狂（madness）与普通愚钝（foolishness），精准锁定 harebrained 所独有的“轻浮跳脱、浮躁散漫（flighty, scatterbrained）”特质，完美呼应后置同位修饰语。",
+      "mad": "错误。句前已出现明确的反向排他锚点“neither of clinical madness”（既非源自临床意义上的癫狂），若在转折后的 but 结构中选用同根形容词 mad 修饰 scheme，将直接构成不可调和的逻辑与同根修辞自相矛盾（'neither of madness... but a mad scheme'）。",
+      "insane": "错误。insane 与前文的 clinical madness 在语义和病理学层面上完全重合（insane 即 mentally disordered / mad）。在论证逻辑上，既然报告已明确排除“并非源自临床癫狂”，便绝不能反身将其界定为 insane scheme，否则直接违背“neither A nor B, but C”的反驳-递进命题结构。",
+      "foolish": "错误。句中另一排他锚点为“nor of ordinary foolishness”（亦非寻常的愚蠢胡涂），若选用 foolish 会产生直接的词族语义抵触（'not of foolishness... but a foolish scheme'）。作者在此特意将该提案与普通的缺乏明智（ordinary foolishness）区分开来，强调其轻佻浮躁、异想天开的特殊性质，故排除 foolish。"
+    },
+    "translation": "监管报告得出结论称，该高管的提案既非源于临床意义上的精神失常，亦非出于寻常的愚钝糊涂，而是一个典型的轻浮妄动方案——本质上浮躁散漫、异想天开，且毫无务实基础。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_03",
+    "group_id": 542,
+    "group_name": "hoary, old, grey, gray",
+    "level": "TEM-8",
+    "target_word": "hoary",
+    "question": "While constitutional traditionalists long maintained that the coronation liturgy was of ___ antiquity, archival scholarship conclusively revealed that its most solemn rituals were deliberate theatrical inventions concocted during the late nineteenth century.",
+    "options": [
+      "hoary",
+      "old",
+      "grey",
+      "gray"
+    ],
+    "answer": "hoary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HISTORY",
+    "anchor_clue": "本题的核心排他锚点为历史学与高阶学术文体中的典雅固化搭配“of ___ antiquity”（源自极为久远古老的渊源）。在权威辞书与历史学学术语料中，《韦氏词典》（Merriam-Webster）明确以“hoary antiquity”作为 hoary 的核心代表性例证（释义：extremely old : ANCIENT），《牛津英语词典》（OED）亦确凿标注其“freq. in hoary antiquity”。该固定语块专指“年代极其久远而带有一种苍茫肃穆感的历史纵深”，精准呼应后半句档案文献研究对“十九世纪晚期戏剧化人为虚构传统（deliberate theatrical inventions）”的史学解构。其余选项均存在无法调和的语言学缺陷：old 修饰自身已内嵌“古老”语义特征的名词 antiquity 构成严重的同义赘尤（semantic pleonasm/tautology）；grey（英式拼写）与 gray（美式拼写）实为同一无彩色形容词的正字法地域变体，其语义范畴局限于物理色相、生理毛发变白或隐喻认知模糊态，无法跨范畴修饰抽象时间本体，构成概念范畴错配（category mistake）。因此，仅 hoary 为唯一合规选项。",
+    "distractor_analysis": {
+      "hoary": "正确。hoary 在高级书面英语与学术语境中表示“古老沧桑且令人肃然起敬的”（ancient and venerable from age），与抽象时间名词 antiquity 构成英美经典学术文献中高度凝练的固定搭配（《韦氏词典》明确收录“hoary antiquity”）。在句中，“of hoary antiquity”生动展现了传统主义者长期赋予该加冕仪式的古老神圣外衣，与后文揭示的维多利亚晚期“人为编造（concocted）”形成高度对称的史学反讽与逻辑对立。",
+      "old": "错误。名词 antiquity 自身在词汇语义学上已完备包含 [+ancient past] 与 [+great age] 的核心义素。使用基础通用形容词 old 修饰 antiquity 会产生修辞学上恶性的同义反复与语义冗余（semantic pleonasm/tautology，性质等同于“wet water”），被规范学术文体视为明显语病。此外，old 在文体风格（register）上过于口语化和平庸，无法匹配句中 liturgy, archival scholarship 等拉丁源学术词汇构建的严肃学术语境。",
+      "grey": "错误。grey 为英式英语（UK）的正字法拼写形态。在概念语义场中，其本义专指物理光学层面的无彩色（黑白之间）或生理衰老引起的毛发泛白，引申义则涵盖制度与认知层面的模糊状态（如 grey area）。抽象的历史时间本体（antiquity）不具备物理光感色彩，亦非中介状态，强行组合在词汇选择限制规则（selectional restrictions）上属于典型的范畴错配（category mistake），在历史学权威语料中毫无共现许可。",
+      "gray": "错误。gray 为美式英语（US）的正字法拼写形态，与选项 C（grey）属于同源、同义的跨地域拼写变体（orthographic doublet）。二者共享完全一致的语义特征与搭配受限性。美式变体 gray 在非物理色彩语境下同样仅限于神经解剖（gray matter）、人口老龄化（graying population）或道德中间地带，完全不具备向宏观历史与时间维度投射“久远沧桑”的语义潜能，在英语学术规范中与 grey 同属不成立的臆造搭配。"
+    },
+    "translation": "尽管宪政传统主义者长期坚称该加冕礼仪源自极其久远的古老渊源，但档案文献研究却确凿地揭示，其最为庄严肃穆的仪轨实则是十九世纪晚期为了政治目的而蓄意捏造的戏剧化产物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_04",
+    "group_id": 542,
+    "group_name": "hoary, old, grey, gray",
+    "level": "TEM-8",
+    "target_word": "hoary",
+    "question": "Although the ecclesiastical institution was ___ with age and fortified by centuries of royal patronage, the revolutionary assembly dismantled its fiscal privileges, asserting that hereditary immunities had no place in an egalitarian republic.",
+    "options": [
+      "hoary",
+      "old",
+      "grey",
+      "gray"
+    ],
+    "answer": "hoary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS_AND_HISTORY",
+    "anchor_clue": "固定搭配与句法语义排他锚点：本题的决定性排他线索为后置修饰短语“___ with age”与其修饰的抽象制度名词“ecclesiastical institution”。在英语权威辞书编纂中，“hoary with age”是描述制度、传统或教条历经漫长岁月沉淀而确立威权的经典学术搭配，《韦氏词典》（Merriam-Webster）在“hoary”词条下直接收录例证“<institutions hoary with age>”，《牛津英语大辞典》（OED）亦视其为极古且尊严（ancient and venerable）的典范固定表达。相比之下：1) old 与介词短语 with age 组合会构成严重的同义反复赘述（pleonastic tautology，*old with age 在句法与语义逻辑上均不成立，因 old 本身已标示具备漫长年龄）；2) grey 与 gray 为英美拼写异体，且“grey/gray with age”在语义选择限制（selectional restrictions）上严格受限于具象生物体毛发褪色（如 temples/hair grey with age）或物理表面风化，绝不可用于修饰“ecclesiastical institution”（宗教制度）这一抽象社会实体，否则构成严重的范畴错配（category mistake）与搭配断裂（collocational rupture）。因此 hoary 为唯一合规表达。",
+    "distractor_analysis": {
+      "hoary": "正确。hoary 在此表示“古老深邃的、因极度久远而具有崇高威严的”（ancient and venerable）。“institutions hoary with age”是《韦氏词典》收录的原生标准搭配，与从句后半段“fortified by centuries of royal patronage”（经数百年王权庇护而巩固）形成严密的逻辑呼应，完全契合政治历史学术语域。",
+      "old": "错误。old 为基础标度形容词，不能后接表示原因或伴随的介词短语“with age”来修饰抽象实体。*old with age 属于语义重叠与句法赘述（pleonastic tautology），在严谨的学术书面语中属于明确的语病。",
+      "grey": "错误。grey 为英国英语拼写，其搭配短语“grey with age”在语义范畴上仅用于具象生理老化（如毛发、胡须变灰白）或特定物理材质风化，将其用于修饰抽象制度名词“ecclesiastical institution”属于典型的范畴错配（category mistake）；此外，作为与 gray 语义同一的拼写变体，在此搭配下两者均不能成立。",
+      "gray": "错误。gray 为美国英语拼写，与 grey 属同词异形，同样受制于生物具象属性的语义限制，无法与抽象名词 institution 搭配“gray with age”，故排除。"
+    },
+    "translation": "尽管该宗教机构历史悠久且历经数百年王权庇护而根基深固，革命议会仍旧废除了其财政特权，坚称世袭豁免权在平等主义共和国中毫无立足之地。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_05",
+    "group_id": 543,
+    "group_name": "illicit, outlaw, illegal, unlawful",
+    "level": "TEM-8",
+    "target_word": "illicit",
+    "question": "Although international conventions did not formally criminalize such backchannel diplomacy, the envoy’s ___ association with rebel commanders was swiftly repudiated by the foreign ministry for breaching fundamental ethical protocols.",
+    "options": [
+      "illicit",
+      "outlaw",
+      "illegal",
+      "unlawful"
+    ],
+    "answer": "illicit",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句首让步从句“Although international conventions did not formally criminalize such backchannel diplomacy”（尽管国际公约并未将此类秘密外交正式定罪）从法律实定法层面排除了成文法犯罪，直接排除了严格以“违反成文法”为核心语义的 illegal 与 unlawful；而修饰外交/人际关联（association）时，outlaw 存在严重语域冲突，唯有 illicit 专指违反道德准则、外交规约且具隐秘性质的“不正当关系/不正当交往”。",
+    "distractor_analysis": {
+      "illicit": "正确。illicit 在高级学术及外交语域中不仅表示违法，更特指“违背社会道德、行业规约或行为准则的，不正当的，隐秘的”（not permitted by custom or ethical codes; clandestine）。句中已明确指出该交往并未被成文国际法正式定为犯罪（not formally criminalize），但违背了伦理规约（ethical protocols），与 illicit association（不正当交往/私下勾连）完美契合。",
+      "outlaw": "错误。outlaw 作形容词通常修饰不受法律保护或公然反抗法律的主体（如 outlaw biker, outlaw state 亡命之徒、流氓国家），带有通俗演义或边缘暴力的色彩，与 association（人际关联、组织交往）搭配极不地道，置于严谨的外交国际关系语境中产生严重的语域冲突（register clash）。",
+      "illegal": "错误。illegal 严格指“违反制定法或刑事法律的”（forbidden by statutory law）。句首从句已明示国际法并未将其“criminalize”（未定为刑事违法），若填入 illegal association 会与前文的逻辑前提直接产生语义悖论（semantic contradiction）。",
+      "unlawful": "错误。unlawful 属于高度技术性的法学用语，指“未获法律授权的、非法的”（contrary to or unauthorized by positive law），常用于法定罪名（如 unlawful entry, unlawful detention）。后文既然说明该行为仅是违反了道德与外交内部规约而非实体法，使用 unlawful 属于法律界定过度，且破坏了句子的逻辑融通性。"
+    },
+    "translation": "尽管国际公约并未将此类秘密外交正式定为犯罪，但该特使与叛军指挥官的不正当交往因严重违反基本职业伦理准则，迅速遭到了外交部的公开谴责与断然否认。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_06",
+    "group_id": 543,
+    "group_name": "illicit, outlaw, illegal, unlawful",
+    "level": "TEM-8",
+    "target_word": "illicit",
+    "question": "Nineteenth-century moralists harshly condemned the young heiress's ___ liaison with an impoverished tutor, regarding their clandestine relationship not as a statutory infraction, but as an intolerable breach of social decorum.",
+    "options": [
+      "illicit",
+      "outlaw",
+      "illegal",
+      "unlawful"
+    ],
+    "answer": "illicit",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "决定性排他锚点在于后半句的强烈对比：“not as a statutory infraction, but as an intolerable breach of social decorum”（并非法律层面的成文违法行为，而是对社会礼法与道德体统的不可容忍的逾越）。同时，与 liaison（私情、不正当男女关系）构成典型学术与文学固定搭配的必须是 illicit；illegal 和 unlawful 均指法定违法，造成语义自相矛盾，outlaw 则完全无法修饰感情或人际私通。",
+    "distractor_analysis": {
+      "illicit": "正确。韦氏词典将 illicit 核心义项明确定为“contrary to or forbidden by law, especially: not permitted by custom or society: clandestine (an illicit love affair)”，专指不受社会礼俗接纳、违背公序良俗的隐秘关系。句中明确将该行为定性为“非成文法犯罪（not a statutory infraction），而是礼俗败坏（breach of social decorum）”，与 illicit liaison（不正当私情/违背礼教的恋情）构成绝对排他的标准搭配。",
+      "outlaw": "错误。outlaw 作为形容词指“逃亡的、被剥夺法律保护的、反叛的”，用于修饰具体的人或武装团伙，无法与 liaison（私情、风流韵事）搭配使用，属于严重的搭配断裂与语意脱节。",
+      "illegal": "错误。illegal 的语义核心为“违反国家制定的法律”（contrary to enacted laws）。句子明确强调该私情“not as a statutory infraction”，填入 illegal liaison 必然导致前后文自相矛盾。",
+      "unlawful": "错误。unlawful 是成文法与普通法体系中的法律术语，侧重“未经法律许可的，不合法的”，如 unlawful act 或 unlawful assembly。在涉及私人情感、阶级禁忌与社会道德体统的文学/文化研究语域中，用 unlawful 修饰男女私情不仅极其生硬怪异，更与后半句非法律犯罪的描述产生语义逻辑破裂。"
+    },
+    "translation": "十九世纪的卫道士严厉谴责了那位年轻女继承人与一名穷家教的不正当私情，他们并不认为两人的秘密私通构成了法律意义上的犯罪，而是将其视为对社会礼教体统不可容忍的公然践踏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_07",
+    "group_id": 544,
+    "group_name": "illustrious, famed, noted, known",
+    "level": "TEM-8",
+    "target_word": "illustrious",
+    "question": "In her inaugural address, the newly appointed chancellor paid solemn tribute to her ___ predecessors, whose pioneering scholarship, profound civic virtue, and unwavering ethical leadership had established an enduring benchmark of academic excellence.",
+    "options": [
+      "illustrious",
+      "famed",
+      "noted",
+      "known"
+    ],
+    "answer": "illustrious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“paid solemn tribute to”（致以庄严敬意）以及后续修饰语“profound civic virtue”（深沉的公民德性）与“unwavering ethical leadership”（坚定不移的道德领导力）构成了极具崇高感与历史厚重感的语境锚点。MW对illustrious的核心释义为“notably or brilliantly outstanding because of dignity or achievements or actions : noble”（因崇高尊严、卓越功绩或崇高品德而享有盛誉）。在修饰前辈学者时，“illustrious predecessors”为学术与政坛演说中的经典崇高搭配，独具光辉灿烂、受人景仰的尊荣感。其余三项均无法契合此种庄严崇高的语义与文体规格。",
+    "distractor_analysis": {
+      "illustrious": "正确。指因卓越成就、崇高品格或显赫功勋而享有盛誉的，带有极强的尊荣、庄严和景仰色彩。与“predecessors”构成高度地道且契合庄严学术就职演说语境的固定搭配，完美呼应后文的“civic virtue”与“solemn tribute”。",
+      "famed": "错误。主要强调广为人知、被普遍谈论或具有大众知名度（多见于新闻媒体，常后接for），偏向世俗的大众声望或名气（如famed chef, famed landmark），缺乏illustrious所内涵的道德庄严感与崇高尊荣感，置于庄重的学术致敬语境中存在明显的文体色彩失谐。",
+      "noted": "错误。意为“著名的、显要的”，通常仅客观表示在某一具体专业领域或因某种特定特征而受人知晓（如a noted botanist），语气平实、分量较轻，无法承载“pioneering scholarship”与“profound civic virtue”所要求的恢弘历史崇高感。",
+      "known": "错误。纯粹表示“已知的、被认出的”（与unknown相对）。“known predecessors”在语义上仅指“已查明身份的前辈”（而非佚名者），完全丧失了褒义与赞颂色彩，造成严重的逻辑认知范畴错误。"
+    },
+    "translation": "在就职演说中，新任大学校长向她那些声名显赫的前辈们致以庄严敬意；正是他们开创性的学术造诣、深沉的公民德性以及坚定不移的道德领导力，树立了历久弥新的学术卓越标杆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_08",
+    "group_id": 544,
+    "group_name": "illustrious, famed, noted, known",
+    "level": "TEM-8",
+    "target_word": "illustrious",
+    "question": "While populist contemporaries chased transient public notoriety, the chief justice concluded his ___ career with monumental constitutional rulings, earning enduring veneration for his unwavering commitment to judicial independence and moral rectitude.",
+    "options": [
+      "illustrious",
+      "famed",
+      "noted",
+      "known"
+    ],
+    "answer": "illustrious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句子前段“chased transient public notoriety”（追逐短暂的公众声名/恶名）构成了强烈的对照锚点，明确排斥了浮躁、世俗的大众知名度；后文的“monumental constitutional rulings”（里程碑式的宪法裁决）、“enduring veneration”（历久弥新的崇敬）与“moral rectitude”（道德正直）要求所填形容词必须表示兼具显赫功业、崇高威望与历史性尊荣的职业生涯。“illustrious career”是形容杰出司法或学术生涯的高频黄金搭配；famed无法与career自然搭配且暗含世俗知名度，noted语义过于平淡，known则会引发句意扭曲。",
+    "distractor_analysis": {
+      "illustrious": "正确。精准体现因无懈可击的品格（moral rectitude）与不朽功勋（monumental rulings）而赢得的崇高声誉。“illustrious career”（辉煌/显赫的职业生涯）在此处形成了与前半句“transient public notoriety”的完美对仗，彰显历史层面的崇高赞誉。",
+      "famed": "错误。在正式学术/政经语体中，“famed career”属于严重的搭配断裂（famed极少前置修饰career）；更重要的是，famed在语义场上侧重于大众层面的广泛知晓度（fame），与前半句所批判的浮躁公众声名（public notoriety）存在语义交叉，无法形成鲜明的主旨对比。",
+      "noted": "错误。仅表示“受人注意的、微有声誉的”，用于修饰漫长而伟大的大法官生涯显得极其苍白无力，缺乏承载“enduring veneration”所必需的盛大光辉与威严尺度。",
+      "known": "错误。在此处作前置修饰语时，“his known career”会产生严重的语义偏移，意为“他已知/被公开知晓的职业生涯”（暗示其还存在隐秘、未公开的经历），与全句赞颂大法官毕生光明磊落与司法独立的语境完全相悖。"
+    },
+    "translation": "当同时代的民粹主义者竞相追逐短暂的世俗虚名时，这位首席大法官却以数项具有里程碑意义的宪法裁决为其辉煌显赫的职业生涯画上句号，并因其对司法独立与道德操守的坚定坚守而赢得了世人永恒的景仰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_09",
+    "group_id": 545,
+    "group_name": "immobile, fast, firm, fixed",
+    "level": "TEM-8",
+    "target_word": "immobile",
+    "question": "Paralyzed by the unexpected cognitive shock of the verdict, the defendant sat rigidly ___, his complete lack of somatic movement betraying an utter inability to process the catastrophic revelation.",
+    "options": [
+      "immobile",
+      "fast",
+      "firm",
+      "fixed"
+    ],
+    "answer": "immobile",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'rigidly' to describe total cessation of bodily motion ('complete lack of somatic movement'), whereas other options require spatial complements or denote firmness/steadfastness rather than physical motionless petrification.",
+    "distractor_analysis": {
+      "immobile": "正确。意为“无法移动的；一动不动的”。在认知心理与神经生理学语境下，常与副词 rigidly 构成经典搭配（rigidly immobile），后文的“complete lack of somatic movement”（完全丧失躯体动作）构成了决定性语义锚点，精准对应因极度震惊而陷入僵直、全无动作的生理与认知状态。",
+      "fast": "错误。作形容词表示静止或固定时，通常局限于固定搭配或短语（如 stand fast 表示坚守阵地，stuck fast 表示卡紧/动弹不得，fast colors 表示不褪色），不可直接作主语补足语描述人因惊骇而“身体僵死不动”。",
+      "firm": "错误。意为“坚定的；稳固的”，侧重指立场意志的不妥协（firm resolve）或物体受压时不形变（firm ground）。句中刻画的是神经认知冲击造成的身体僵直停滞，而非意志坚定或姿态稳固，语义侧重严重偏离。",
+      "fixed": "错误。意为“固定的；不变的”，常修饰眼神（fixed gaze）、观念（fixed idea）或附着物。当用来形容人动弹不得时，必须依赖介词短语补足（如 fixed to the spot/chair），在此处缺少方向/附着介词而直接修饰“sat rigidly ___”，在句法与语感上均不成立。"
+    },
+    "translation": "被判决所带来的突如其来的认知震惊击垮，被告僵直地呆坐在那里一动不动，其身体动作的彻底停滞暴露出他完全无法消化这一灾难性的变故。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_10",
+    "group_id": 545,
+    "group_name": "immobile, fast, firm, fixed",
+    "level": "TEM-8",
+    "target_word": "immobile",
+    "question": "Confronted with the sudden auditory cue, the laboratory primates remained completely ___, exhibiting a pronounced freezing reflex that suppressed all spontaneous locomotion while cognitive attention heightened.",
+    "options": [
+      "immobile",
+      "fast",
+      "firm",
+      "fixed"
+    ],
+    "answer": "immobile",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Directly links to the biological 'freezing reflex that suppressed all spontaneous locomotion', where only 'immobile' denotes absolute cessation of physical movement/locomotion.",
+    "distractor_analysis": {
+      "immobile": "正确。意为“静止的；不动弹的”。在比较认知学与行为科学中，“freezing reflex/behavior”（冻结反射）是受惊时的典型本能，其定义性特征即为躯体静止（tonic immobility），与后文“suppressed all spontaneous locomotion”（抑制了所有自主位移）完美呼应。",
+      "fast": "错误。作为形容词表示“牢固的”时通常需有特定语法环境（如 hold fast, bound fast）。在此处若填入 fast，不仅结构断裂，还会因其核心义项“快速的”而引发严重的逻辑语义矛盾。",
+      "firm": "错误。意为“坚固的；结实的”，侧重于承受外力时表现出的刚度或心理信念的不动摇，完全无法用来描述灵长类动物在神经反射作用下“停止所有位移”的身体僵直状态。",
+      "fixed": "错误。意为“被固定的；预设的”，强调位置被外部机械性固定或属性不可改变（如 fixed coordinates, fixed traits）。若指生物被惊吓吓住，通常需要固定短语 fixed to the ground/spot，无法单独充当表语指代自主肌肉运动的停止。"
+    },
+    "translation": "面对突如其来的听觉线索，实验室的灵长类动物完全保持一动不动，表现出一种显著的冻结反射，在认知注意力高度集中的同时抑制了所有的自主运动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_11",
+    "group_id": 546,
+    "group_name": "infernal, execrable, abominable, heinous",
+    "level": "TEM-8",
+    "target_word": "infernal",
+    "question": "Investigating the volcanic island’s smoldering caldera, the nineteenth-century naturalist attributed its violent tremors to ___ fires trapped in subterranean caverns, drawing explicit parallels to classical descriptions of the netherworld.",
+    "options": [
+      "infernal",
+      "execrable",
+      "abominable",
+      "heinous"
+    ],
+    "answer": "infernal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "The direct juxtaposition of 'trapped in subterranean caverns' with 'classical descriptions of the netherworld' establishes an incontrovertible thematic anchor. In Merriam-Webster, 'infernal' is specifically defined as 'of or relating to a lower world of the dead' and explicitly cites the canonical collocation 'infernal fires'.",
+    "distractor_analysis": {
+      "infernal": "正确。源自拉丁语 infernus（下界的、阴间的），《韦氏词典》（Merriam-Webster）将其核心义项界定为“of or relating to a lower world of the dead; of or relating to hell: nether”（下界死者之地的；地狱的、阴曹的），并直接收录了核心搭配范例“infernal fires”（冥火、地狱之火）。句中的“subterranean caverns”（地下洞穴）与“classical descriptions of the netherworld”（古典文献中对冥界的描绘）构成了严丝合缝的语义网络，修饰 fires 完美契合十九世纪地质与神话交互的高阶学术语境。",
+      "execrable": "错误。《韦氏词典》指出该词意为“deserving to be execrated; wretched, deplorable, very bad in quality or craftsmanship”（拙劣的、极坏的、恶劣的），主要用于批评艺术作品、学术技艺或个人品味的极度低下（如 execrable taste, execrable prose）。修饰大自然中的地下烈火属于荒谬的范畴错配（category mistake）。",
+      "abominable": "错误。《韦氏词典》同义词辨析明确强调，abominable 核心在于“arousing an intense disgust and usually also moral revulsion”（引起强烈反感及道德厌恶），通常用于受到道德谴责的行为或令人作呕的事物（如 abominable cruelty）。它完全缺乏 infernal 所独有的“冥界、阴曹及地下炼狱烈焰”这一神话地理维度。",
+      "heinous": "错误。词义为“hatefully or shockingly evil; grossly wicked”（极其恶毒的、滔天的、令人发指的），在学术和高级英语中严格限定于骇人听闻的道德犯罪或暴行（如 heinous crime, heinous atrocity），前提是主体具备道德过错与主观恶意。修饰无意识的地下自然力量或地质火焰，在语义逻辑上完全不通。"
+    },
+    "translation": "在考察这座火山岛阴燃的破火山口时，这位十九世纪的博物学家将其剧烈震颤归因于受困于地下洞穴中的地狱之火，并明确将其与古典神话中对阴曹冥界的描绘作了对比。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_12",
+    "group_id": 546,
+    "group_name": "infernal, execrable, abominable, heinous",
+    "level": "TEM-8",
+    "target_word": "execrable",
+    "question": "While exonerating the controversial poet of blasphemy and seditious intent, the academy's judges nonetheless censured his ___ versification, citing its discordant rhymes and erratic meter as proof of profound technical incompetence.",
+    "options": [
+      "infernal",
+      "execrable",
+      "abominable",
+      "heinous"
+    ],
+    "answer": "execrable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "The explicit exoneration from 'blasphemy and seditious intent' removes all moral or criminal culpability, while the technical indictment—'discordant rhymes and erratic meter as proof of profound technical incompetence'—strictly targets a term denoting wretched aesthetic/formal quality rather than moral revulsion. In formal literary and prosodic criticism, 'execrable versification' is the canonical collocation.",
+    "distractor_analysis": {
+      "execrable": "正确。《韦氏词典》同义词专论指出，execrable“suggests an extreme of wretchedness or badness so as to evoke contempt or disgust”（指极度的低劣或拙劣，以致招致轻蔑与讥讽），在文艺批评与美学分析中是专用于批驳艺术做工低劣、技巧极其糟糕的标准高阶术语（如 execrable taste, execrable versification）。题干前置让步分句明确免除了诗人的宗教与政治罪名（exonerating... of blasphemy and seditious intent），后文直接以“discordant rhymes and erratic meter”（不和谐的韵律与混乱的音步）定性为“technical incompetence”（技艺拙劣），execrable 是唯一完美契合此种纯粹技术性劣质批评的词汇。",
+      "infernal": "错误。该词本义为“地狱的、阴间的”（resembling the underworld or being worthy of hell），在口语修辞中多用作表示恼怒厌烦的强调词（如 an infernal nuisance）。在学术机构严肃评定诗学形式技巧（prosody）的高端学术语域中，修饰 versification 会产生严重的文体风格冲突（stylistic clash），既违背客观评价的技术语调，又荒谬地赋予形式缺陷以“地狱魔鬼”的宗教色彩。",
+      "abominable": "错误。《韦氏词典》强调 abominable“suggests arousing an intense disgust and usually also moral revulsion”（暗示引起强烈反感，且通常伴有道德层面的憎恶与公愤，如 abominable cruelty）。尽管在普通日常口语中常被泛化借用为极坏（如 abominable weather），但在高阶诗学与文学批评语域中，abominable 绝不与 versification 这种纯形式格律术语搭配（不存在 *abominable versification 的批评用法）。加之题干已明确排除道德与法律恶性，选用该词会导致语义重心与后文的技术性瑕疵产生逻辑撕裂。",
+      "heinous": "错误。该词专指道德上极度凶残、令人发指的罪行或暴行（suggests a crime or sin so monstrous as to violate every human instinct，如 heinous crimes / heinous atrocities）。诗歌音步不齐与押韵不谐仅属于形式美学缺陷，与 heinous 所要求的“伤天害理之滔天罪行”存在根本性的范畴错配（category error）。同时，本句在空格前采用代词 his，彻底消除了原题因不定冠词 an 产生的语音排他漏洞。"
+    },
+    "translation": "尽管学术评审委员会洗清了这位争议诗人所涉的亵渎神明与煽动意图之嫌，却依然严厉痛斥其诗作格律拙劣不堪，直指其中不和谐的韵脚与混乱的音步正是其诗学技艺极其匮乏的明证。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_13",
+    "group_id": 547,
+    "group_name": "irksome, dull, slow, boring",
+    "level": "TEM-8",
+    "target_word": "irksome",
+    "question": "Senior researchers found the university's new administrative compliance protocols peculiarly ___, not merely because they were time-consuming, but because their petty, repetitive micro-demands constantly provoked exasperation and disrupted substantive scholarly inquiry.",
+    "options": [
+      "irksome",
+      "dull",
+      "slow",
+      "boring"
+    ],
+    "answer": "irksome",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文语境核心线索为“petty, repetitive micro-demands constantly provoked exasperation”（琐碎重复的微观要求不断激起恼怒与烦躁）。在四个近义词中，只有 irksome 兼具 tedious（繁冗乏味）与 annoying/vexing（令人恼火受挫）的双重语义特征，与 exasperation 形成唯一的内在逻辑呼应。",
+    "distractor_analysis": {
+      "irksome": "正确。irksome 指因冗长琐碎、受人辖制或强制性繁文缛节而“令人极度厌烦且恼火的（tedious and annoying; wearisome to the point of irritation）”，其核心义素中包含引发反感与躁郁（provoke exasperation），完美嵌合高校学者对繁冗微观行政管控的心理认知反应。",
+      "dull": "错误。dull 侧重“单调平淡、死气沉沉、缺乏智力刺激”，描述的是一种被动无趣的钝化状态，无法有效承接后文因琐碎苛求而激发的“exasperation”（强烈恼怒与挫败感）。",
+      "slow": "错误。slow 意为速度慢或迟缓，前文已有“not merely because they were time-consuming”（不仅因其耗时），若在此选填 slow 会造成近义冗余，且 protocols（规程）本身无法直接用 slow 来体现令人抓狂的情绪折磨。",
+      "boring": "错误。boring 是通俗基础词汇，语义泛指“缺乏趣味引起的无聊”，语域（register）明显偏口语化，缺乏学术政论文的凝练感，且缺少 irksome 所独有的“烦扰、苛责、磨人耐心（irk）”的负面情感烈度。"
+    },
+    "translation": "资深研究人员发现，该大学新出台的行政合规流程格外令人烦扰；这不仅是因为其费时费力，更在于那些琐碎、重复的微观要求不断激起人们的烦躁情绪，干扰了实质性的学术探究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_14",
+    "group_id": 547,
+    "group_name": "irksome, dull, slow, boring",
+    "level": "TEM-8",
+    "target_word": "irksome",
+    "question": "Although international observers considered the treaty provisions legally necessary, local merchants chafed under the ___ reporting requirements, decrying the relentless oversight as a vexatious impediment to cross-border commerce.",
+    "options": [
+      "irksome",
+      "dull",
+      "slow",
+      "boring"
+    ],
+    "answer": "irksome",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中谓语动词短语“chafed under”（因……感到烦躁不适/对……怨怼抵触）与后文并列定性“vexatious impediment”（令人苦恼烦乱的障碍）构成了决定性排他锚点。四个选项中，唯有 irksome 专指带来心理摩擦、束缚与烦扰（wearisome and vexatious constraint）的重负或规制，与 chafe under 形成严谨的高级语体搭配。",
+    "distractor_analysis": {
+      "irksome": "正确。irksome 常见于高阶政经语境中形容带有束缚性质、让人心烦意乱的职责、条规或监管（irksome restrictions/requirements），精准对接主语面对监管时的“chafed under”（烦躁抵触）以及后文的“vexatious”（令人烦扰的）。",
+      "dull": "错误。dull 侧重指事物不鲜活、暗淡无光或头脑迟钝，多形容天气、演讲或钝痛，无法用来修饰让商人群体感到如坐针毡、心生怨怼的制度性申报要求。",
+      "slow": "错误。slow 表示速率低或迟缓。要求（requirements）本身不能被描述为“slow”来表达烦人；虽然审批流程可能是 slow 的，但形容词修饰 requirements 会造成语义逻辑错位，无法解释“chafed under”背后的烦扰心态。",
+      "boring": "错误。boring 语义仅停留在“单调无聊、引不起兴趣”，感情色彩过于扁平温和且语体偏非正式，无法匹配具有压迫性、让商界痛斥为“vexatious impediment”（烦扰羁绊）的高规格涉外经贸语境。"
+    },
+    "translation": "尽管国际观察家认为该条约的条款在法律上是必要的，但当地商人却对那些令人烦扰的申报要求深感焦躁不耐，痛斥这种持续不断的监管是跨境贸易中令人厌烦的绊脚石。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_15",
+    "group_id": 548,
+    "group_name": "legible, fair, clean, clear",
+    "level": "TEM-8",
+    "target_word": "legible",
+    "question": "Although the carbon ink had faded to a faint sepia smudge, the medieval charter's marginal annotations remained remarkably ___, enabling palaeographers to decipher the disputed boundaries of the feudal estate.",
+    "options": [
+      "legible",
+      "fair",
+      "clean",
+      "clear"
+    ],
+    "answer": "legible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The concession 'faded to a faint sepia smudge' combined with the cognitive outcome 'enabling palaeographers to decipher' uniquely selects a term denoting orthographic decipherability despite physical degradation.",
+    "distractor_analysis": {
+      "legible": "正确。Merriam-Webster将其定义为“(指笔迹、印刷品等)清晰可辨的，易被认出或破译的(capable of being read or deciphered)”。句中让步状语指出碳墨已经严重褪色为浅褐色的污痕(faint sepia smudge)，但古文字学家(palaeographers)仍能依稀识别笔画并破译出(decipher)封地边界，完美契合legible强调“文字符号虽遭物理磨损但字形仍可被识读”的核心语义特征。",
+      "fair": "错误。fair作表语形容文字或品质时，意为“尚可的、中等过得去的(moderately good, passable)”。虽然文学中有古旧短语“a fair hand”(端正的书法)，但当用于经过“remarkably”修饰的表语且处于破译磨损文本的语境中时，fair表示“极其平庸”，既无法与“remarkably”形成合理语义搭配，也无法为“古文字学家成功破译”提供足够的语义动因。",
+      "clean": "错误。clean指“干净的、未受污染的、无污痕瑕疵的”。前半句已明确指出墨水褪化成了“smudge”(污斑、污渍)，在物理性状上与clean发生直接语义冲突，且笔迹能否被破译与纸面是否“干净”无必然逻辑关联。",
+      "clear": "错误。clear强调视觉上的“清晰明朗、无混浊、轮廓分明”或思维上的“透彻明白”。句中的前置条件是“faint sepia smudge”(微弱模糊的墨迹)，“faint”(微弱纤细)是clear在感官视觉层面的直接反义词；褪色模糊的墨迹在视觉上绝不可能“clear”，但在文字学意义上依然“legible”(可拼读认出)，二者存在严格的层级与机制分野。"
+    },
+    "translation": "尽管碳墨已褪色为一抹微弱的深褐色污痕，但这份中世纪特许状的边注依然清晰可辨，使古文字学家得以破译该封建领地存在争议的边界。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_16",
+    "group_id": 548,
+    "group_name": "legible, fair, clean, clear",
+    "level": "TEM-8",
+    "target_word": "legible",
+    "question": "Although the philosopher’s metaphysical prose was rarely clear even to devoted disciples, his compact cursive handwriting was remarkably ___, permitting his editorial team to transcribe the dense manuscripts without error.",
+    "options": [
+      "legible",
+      "fair",
+      "clean",
+      "clear"
+    ],
+    "answer": "legible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The deliberate rhetorical antithesis between the cognitive obscurity of prose ('rarely clear') and the mechanical readability of script ('handwriting was remarkably ___') strictly requires the orthographic descriptor.",
+    "distractor_analysis": {
+      "legible": "正确。句中构成了认知与物理符号层面的精妙对照：前半句指出其形而上学散文在概念上晦涩难懂（rarely clear），后半句转折强调其紧凑的草书字迹在字形视觉上“清晰可辨、易于认读（legible）”，从而使编辑人员能够无误地转录手稿。legible为专用于描述笔迹、印刷品“可辨读性”的精准学术词汇。",
+      "fair": "错误。fair作表语形容词修饰品质或水平时，现代标准英语核心义为“一般的、中等的（mediocre; moderately good）”。若填入fair，意为字迹“一般”，与后文“毫无差错地完成转录（without error）”构成因果逻辑冲突；其表示“字迹端正”的古雅用法严格局限于定语搭配“a fair hand”，不能作表语修饰handwriting。",
+      "clean": "错误。clean在文献版本学中主要指文本“未被涂改的、无批注痕迹的（free from alterations or corrections）”，如“a clean copy/manuscript”；它不能作表语用来指称连笔草书字迹本身的“易辨认度/可读性”。",
+      "clear": "错误。前半句让步状语从句中已出现“rarely clear”，明确指代思想内容的“澄明、易懂（intelligible）”；若在后半句修饰具体字迹时再次选用clear，不仅构成拙劣的用词重复，更彻底抹杀了英语学术语篇中思想的“明晰（intellectual clarity）”与符号的“易辨（orthographic legibility）”之间的严格范畴区分。"
+    },
+    "translation": "尽管这位哲学家的形而上学散文即便对其忠实门徒而言也鲜有明晰易懂之时，但他紧凑的草书手迹却极为清晰易辨，使得他的编辑团队得以毫无差错地转录那些晦涩密集的手稿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_17",
+    "group_id": 549,
+    "group_name": "literal, real, true, actual",
+    "level": "TEM-8",
+    "target_word": "literal",
+    "question": "Distinguished by an inability to parse irony, the censor applied a strictly ___ interpretation to the avant-garde play, erroneously prosecuting figurative idioms as seditious admissions of guilt.",
+    "options": [
+      "literal",
+      "real",
+      "true",
+      "actual"
+    ],
+    "answer": "literal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The phrases 'inability to parse irony' and 'figurative idioms' strictly demand a word denoting word-for-word, non-metaphorical construal ('literal interpretation').",
+    "distractor_analysis": {
+      "literal": "正确。literal interpretation 为语言学、诠释学与法学标准学术搭配，特指“字面解读”，即依循词语表面常规涵义、排斥象征或隐喻的阐释方式。句中的“inability to parse irony”（无法领略反讽）与后文“figurative idioms”（比喻性修辞）构成绝对语义锚点，唯有 literal 能与之形成严密的修辞对立。",
+      "real": "错误。real 强调本体论上的“真实存在”，与 imaginary（虚构的）或 artificial（人造的）相对，既非诠释学中指代“非隐喻的”专门术语，亦不能与 figurative 形成对立搭配。",
+      "true": "错误。true interpretation 意为“正确的/忠实原意的阐释”。然而后文明确指出该审查官是“erroneously prosecuting”（错误地指控），其理解存在严重偏差，选用 true 会导致句内逻辑出现毁灭性自相矛盾。",
+      "actual": "错误。actual 意为“现行的、实际存在的”，主要与 theoretical（理论上的）或 potential（潜在的）相对立，用于表明事实发生状态，无法用以界定“拘泥于字面意义的”解读行为。"
+    },
+    "translation": "由于缺乏领会反讽的能力，审查官对这部先锋派戏剧进行了完全拘泥于字面的解读，错误地将剧中的隐喻修辞当作煽动叛乱的认罪供词提起公诉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_18",
+    "group_id": 549,
+    "group_name": "literal, real, true, actual",
+    "level": "TEM-8",
+    "target_word": "literal",
+    "question": "Incapable of appreciating diplomatic nuance or symbolic ceremony, the chief negotiator proved to be a doggedly ___ man, reducing complex ideological disputes to sterile, ledger-book tallies of tangible assets.",
+    "options": [
+      "literal",
+      "real",
+      "true",
+      "actual"
+    ],
+    "answer": "literal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The characterization of being unable to appreciate 'diplomatic nuance or symbolic ceremony' and reducing matters to 'sterile, ledger-book tallies' directly activates the specific behavioral meaning of 'literal' (matter-of-fact, unimaginative).",
+    "distractor_analysis": {
+      "literal": "正确。《韦氏词典》收录 literal 指代人或其心智时的核心学术义项为：“characterized by a concern mainly with facts: matter-of-fact, unimaginative”（刻板严谨的、拘泥事实的、毫无想象力与情调的；如切斯特顿笔下的 a very literal man）。句中“incapable of appreciating diplomatic nuance or symbolic ceremony”与“sterile, ledger-book tallies”精准勾勒出这种只认客观死数据、缺乏符号感知力的僵化性格，与 literal 形成排他性契合。",
+      "real": "错误。a real man 在英语中多属于非正式口语表达，意为“真正的男子汉”，或在哲学/法律语境下指“实际存在的人（非虚拟人物）”，根本无法表达行为与性格上的“刻板死板、缺乏艺术与外交想象力”。",
+      "true": "错误。a true man 意为“忠贞、真诚或符合理想典范的人”，属于典型的褒义道德评价，与句中带有贬抑色彩的“doggedly”（死板地、顽固地）及“sterile”（枯燥刻板的）在语用色彩上严重冲突。",
+      "actual": "错误。actual 属于事实判定形容词，意为“真实的、客观存在的”，用于区分假设、潜在或名义上的人（如 actual possessor），绝不可用于描摹人的思维方式或行事作风（无 actual man 表示人性格刻板之用法）。"
+    },
+    "translation": "由于无法体会外交上的微妙意图与象征性礼仪，这位首席谈判代表被证明是一个极其刻板乏味、毫无想象力的人，竟将复杂的意识形态争端简化为枯燥死板的有形资产账目核算。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_19",
+    "group_id": 550,
+    "group_name": "lousy, dirty, nasty, awful",
+    "level": "TEM-8",
+    "target_word": "lousy",
+    "question": "Although the cognitive psychologist's preliminary paper claimed to isolate the neural correlates of moral reasoning, peer reviewers quickly discovered that the underlying experimental design was ___ with confounding variables and uncalibrated sensory inputs.",
+    "options": [
+      "lousy",
+      "dirty",
+      "nasty",
+      "awful"
+    ],
+    "answer": "lousy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The predicate structure followed by 'with confounding variables' demands an adjective meaning 'teeming or infested with' objectionable flaws. Only 'lousy' possesses this established subcategorization frame ('lousy with').",
+    "distractor_analysis": {
+      "lousy": "正确。在此处考查 lousy 源自其“生虱、长寄生虫”本义的引申搭配“lousy with...”，韦氏词典及柯林斯词典均将其定义为“amply supplied: FULL; teeming or infested with”，意为“充斥着……的、泛滥成灾的”。在学术批评语境中，常用于生动抨击某一实验设计或理论模型“漏洞百出、充斥着干扰因素”，与介词 with 构成决定性语法及语义契合。",
+      "dirty": "错误。dirty 虽然可与介词 with 连用（如 dirty with soot/oil），但仅能表达物理意义上的“被……弄脏、沾染尘垢”或道德层面的污秽，绝不能用于抽象学术语境表示某方案“充斥着/被大量缺陷所困扰”。",
+      "nasty": "错误。nasty 意为“令人厌恶的、恶意的、脾气暴躁的”。当其与 with 连用时（如 get nasty with someone），通常表示“对某人态度恶劣或敌对”，既不能以物作主语表示“充斥”，也无法与科研缺陷搭配，构成严重的句法与语义范畴失配。",
+      "awful": "错误。awful 意为“极糟的、糟糕透顶的”，当其与介词 with 连用时（如 awful with names/numbers），句法含义为“不善于处理……、对……感到笨拙”，主语须为具有认知能力的施事者（人）。若将其用于修饰 experimental design，会导致严重的范畴拟人化谬误，且毫无“充斥大量缺陷”之意。"
+    },
+    "translation": "尽管这位认知心理学家的初步论文声称分离出了道德推理的神经相关物，但同行评审专家很快发现，其底层实验设计充斥着干扰变量与未经校准的感官输入。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b54_20",
+    "group_id": 550,
+    "group_name": "lousy, dirty, nasty, awful",
+    "level": "TEM-8",
+    "target_word": "lousy",
+    "question": "The university senate faced fierce condemnation after refusing to allocate even a(n) ___ two percent of its cognitive neuroscience endowment to fund independent replications of controversial behavioral findings.",
+    "options": [
+      "lousy",
+      "dirty",
+      "nasty",
+      "awful"
+    ],
+    "answer": "lousy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Placed directly before a specific numerical fraction ('even a(n) ___ two percent'), only 'lousy' functions as an idiomatic scalar minimizer meaning 'paltry, contemptibly small, or measly'.",
+    "distractor_analysis": {
+      "lousy": "正确。此处考查 lousy 作为前置限定修饰语的特殊贬义极小化标量用法（scalar minimizer），专用于数词、度量衡或数额之前（如 a lousy two percent / a lousy ten dollars / a lousy few minutes），表示“微不足道的、少得可怜的、令人鄙夷的少量”（Merriam-Webster: contemptibly small; Collins: insultingly small）。句中指评议会甚至不愿拨出“区区 2%”的微薄款项，精准传达了学术机构政治中抨击其吝啬冷漠的批判性语用色彩。",
+      "dirty": "错误。dirty 核心语义为“肮脏的、卑鄙的、欺诈的”（如 dirty money, dirty trick）。在英语语法与搭配规范中，dirty 绝不能修饰具体数词或百分比来表示数量上的“微不足道、少得可怜”。",
+      "nasty": "错误。nasty 强调“恶毒的、令人作呕的、严重有害的”（如 a nasty surprise, a nasty infection），缺乏数量层面的标量降级功能，不能前置修饰数词来表达“少许、区区”的含义。",
+      "awful": "错误。awful 意为“可怕的、极度的”；当其与数量概念关联时，语法上只作为放大级强化的程度限定词（scalar maximizer），通常构成 an awful lot of / an awful deal 表示“极其庞大的数量”，在语义量级上与本句“少得可怜（区区 2%）”形成逻辑反转，且在句法上不存在 an awful two percent 表“微薄”的用法。"
+    },
+    "translation": "大学评议会遭到了严厉谴责，因为他们甚至拒绝从其认知神经科学捐赠基金中拨出区区百分之二的资金，用于资助对具有争议的行为学发现进行独立复现实验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

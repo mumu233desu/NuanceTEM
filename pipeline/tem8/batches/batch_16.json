@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b16_01",
+    "group_id": 161,
+    "group_name": "strut, wade, slink, ruffle",
+    "level": "TEM-8",
+    "target_word": "strut",
+    "question": "Rather than confronting their evident policy failures, the delegates continued to ___ across the international stage, proclaiming diplomatic breakthroughs with an unwarranted bravado that fooled very few observers.",
+    "options": [
+      "strut",
+      "wade",
+      "slink",
+      "ruffle"
+    ],
+    "answer": "strut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic rhetorical collocation 'across the international stage' paired with 'proclaiming diplomatic breakthroughs with an unwarranted bravado' demands a verb denoting pompous, ostentatious, and self-aggrandizing public display.",
+    "distractor_analysis": {
+      "strut": "正确。strut 意为“趾高气扬地走、傲慢炫耀地卖弄”。在政论与学术高级语体中，“strut across the ... stage”（在……舞台上趾高气扬地大肆作秀/招摇过市）属于经典且高度固定的修辞搭配。后文的“proclaiming diplomatic breakthroughs with an unwarranted bravado”（以毫无根据的虚张声势宣称取得外交突破）构成了极强的语义共振，精准契合 strut 所传达的虚妄傲慢与作秀卖弄特征。",
+      "wade": "排除。wade 意为“蹚水、跋涉”，引申为“艰难地处理”（wade through）或“主动介入纷争”（wade into）。此处后接介词短语“across the international stage”，既在字面动作上不合常理，又在修辞上完全缺乏搭配理据，属于严重的搭配断裂。",
+      "slink": "排除。slink 意为“潜行、溜走”，通常指因心虚、内疚、羞耻或恐惧而灰溜溜地潜行。句中语境强调代表们“以虚张声势宣称突破”，展示的是高调、跋扈的自我炫耀姿态，这与 slink 所蕴含的低调、避人耳目、萎靡退缩的情感色彩存在本质的逻辑冲突。",
+      "ruffle": "排除。ruffle 主要作为及物动词，意为“弄皱、使起波纹”或“激怒、扰乱心神”，在此无法与介词短语“across the international stage”构成合乎语法的不及物移动动词用法，存在根本的句法功能与语义搭配错误。"
+    },
+    "translation": "代表们非但没有正视自身显而易见的政策失误，反而在国际舞台上继续招摇过市，以一种未能蒙蔽几位观察家的虚妄蛮勇大肆宣称外交突破。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_02",
+    "group_id": 161,
+    "group_name": "strut, wade, slink, ruffle",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating a coherent theoretical framework, the cognitive scientists had to ___ through voluminous empirical datasets, laboriously separating statistically meaningful patterns from mere experimental noise.",
+    "options": [
+      "strut",
+      "wade",
+      "slink",
+      "ruffle"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional object 'through voluminous empirical datasets' combined with 'laboriously separating statistically meaningful patterns' forms the decisive collocation 'wade through', denoting the arduous task of working through vast amounts of complex material.",
+    "distractor_analysis": {
+      "wade": "正确。wade 在此运用其高频且极为纯正的比喻义固定搭配“wade through...”，专指“费时费力地研读或处理繁冗、庞杂的文献、材料或数据”。句中的“through voluminous empirical datasets”（海量经验数据集）以及分词状语“laboriously separating statistically meaningful patterns”（费力甄别具有统计学意义的模式）构成了无可辩驳的决定性搭配锚点，完美贴合认知科学研究中艰难淘洗数据的学术语境。",
+      "strut": "排除。strut 意为“趾高气扬地大步走”，强调身体姿态的骄纵与炫耀，其空间位移概念无法与“through voluminous empirical datasets”搭配去表示“埋头研读分析数据”，在抽象认知域中完全违背搭配规范。",
+      "slink": "排除。slink 意为“潜行、溜走”，表示因内疚或恐惧而鬼鬼祟祟地在物理空间中移动，其语义特征完全无法迁移至对海量学术数据集的研判分析之中，在语境中荒谬不通。",
+      "ruffle": "排除。ruffle 意为“扰乱、弄皱”，并非表示分析或翻阅。考生极易将其与同音形近词 riffle（意为“快速翻阅、草草翻看”，如 riffle through papers）产生混淆；即便在此改用 riffle，其“走马观花”之义也与后文“laboriously separating...”（费力甄别）所体现的严谨深入的认知研究相矛盾。"
+    },
+    "translation": "在构建出条理分明的理论框架之前，认知科学家们不得不艰难地梳理浩如烟海的实证数据集，费尽心力地从单纯的实验噪点中甄别出具有统计学意义的模式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_03",
+    "group_id": 162,
+    "group_name": "superimpose, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "superimpose",
+    "question": "Epistemologists caution that researchers who inadvertently ___ contemporary socio-political frameworks onto pre-modern literary sources risk distorting historical reality by anachronistically imputing modern democratic values to an archaic feudal hegemony.",
+    "options": [
+      "superimpose",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "superimpose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and syntactic frame '___ contemporary socio-political frameworks onto pre-modern literary sources' combined with 'anachronistically imputing', which decisively requires a verb denoting the conceptual overlay of one cognitive model upon another.",
+    "distractor_analysis": {
+      "superimpose": "正确。superimpose 指“将（概念、模式、特征等）强加于……之上；叠加”（to place or lay one thing over another, often so that both are evident; to impose a concept on something else），常与介词 on 或 onto 搭配，构成 superimpose A onto B。句中指将当代的社会政治框架生硬地“套用/叠加”在古代文学史料上，产生时代错位（anachronism），完全契合学术认识论语境。",
+      "ladle": "错误。ladle 作动词意为“用勺舀；大量随意地分发或给予（赞誉、批评、金钱等）”（to serve or dispense lavishly, usually followed by out, on, or upon）。其宾语通常为有形物资或情感性、言辞性的态度（如 praise, flattery），无法与抽象的认知分析框架（conceptual frameworks）构成支配关系。",
+      "siphon": "错误。siphon 作动词意为“用虹吸管吸出；抽走，挪用（资金、资源）”，其固定搭配通常为 siphon A off/from B into C，强调非法或秘密转移资源，与句中的理论框架 overlay 逻辑完全不符。",
+      "stratify": "错误。stratify 意为“使分层；形成阶层”（to divide or arrange into classes, castes, or strata），属于及物动词（如 stratify a population / society），不能用于 stratify A onto B 的句法结构，语义上亦无法表示“将框架套用于史料”。"
+    },
+    "translation": "认识论学者警告称，那些无意中将当代社会政治框架生硬套用在现代早期文学史料之上的研究者，有可能因时代错位地将现代民主价值附会于古代封建霸权而扭曲历史真相。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_04",
+    "group_id": 162,
+    "group_name": "superimpose, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Rather than subjecting the administration's controversial fiscal manifesto to rigorous empirical scrutiny, partisan commentators chose to ___ uncritical praise upon the policy, thereby obscuring its glaring methodological fallacies from public view.",
+    "options": [
+      "superimpose",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocational nexus '___ uncritical praise upon the policy', functioning in contrast to 'rigorous empirical scrutiny', uniquely matches the figurative idiom of lavishly or excessively dispensing compliments.",
+    "distractor_analysis": {
+      "ladle": "正确。ladle 作动词本义为“用长柄勺舀取”，在政经与社论等高级英语语域中常用于生动引申，意为“大肆倾注、滥施（赞美、奉承、指责等）”，其典型搭配为 ladle (out) praise/flattery upon/on sb/sth。在此处与 uncritical praise upon the policy 完美契合，生动揭示了党派评论员不加审视、过量倾倒赞赏的盲目迎合之态。",
+      "superimpose": "错误。superimpose 意为“将……叠加于；把（概念、图像）套在……之上”，接框架、图像、规则等，不能与 praise（赞美）搭配，更无法表达“滥加吹捧”的话语意图。",
+      "siphon": "错误。siphon 指“抽走，私挪（资源、资金）”，常与介词 off 或 from 连用。其语义核心是抽取、转移，不能支配 praise，亦无法与 upon 形成合法搭配。",
+      "stratify": "错误。stratify 指“使分层；将……划分为不同阶级或层级”，其宾语通常为社会、岩层或样本群体，绝不能与 uncritical praise 产生动宾语义关联。"
+    },
+    "translation": "党派评论员并未对政府颇具争议的财政宣言进行严谨的实证审视，而是选择对该政策滥施盲目吹捧，从而在公众视野中掩盖了其明显的方​​法论谬误。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_05",
+    "group_id": 163,
+    "group_name": "swoop, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "swoop",
+    "question": "The moment the peer-reviewed paper revealed minor statistical discrepancies, rival academics prepared to ___ down upon the methodology and discredit the author's theoretical conclusions.",
+    "options": [
+      "swoop",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "swoop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The directional phrasal frame '___ down upon [target]' requires a verb denoting a swift, predatory descent or opportunistic attack. Only 'swoop' forms the established phrasal verb 'swoop down upon' (metaphorically meaning to pounce aggressively on a perceived vulnerability or target). The other three verbs—'waver' (to vacillate), 'quiver' (to tremble slightly), and 'writhe' (to squirm in physical agony)—are syntactically and semantically incompatible with the directional particle 'down upon' expressing an aggressive intellectual assault.",
+    "distractor_analysis": {
+      "swoop": "正确。swoop 与 down upon 构成固定搭配 swoop down upon（亦可作 swoop down on），原义为猛禽“俯冲扑击”，在学术论辩语境中引申为“抓住破绽大肆攻击、乘机扑向”，精准契合后文抓住论文方法漏洞（the methodology）并予以驳斥（discredit）的语境与学术语体风格。",
+      "waver": "错误。waver 意为“动摇、犹豫不决”，通常搭配介词 in（如 waver in one's resolve）或 between... and...，不存在“waver down upon”的句法组合，且动摇犹豫之意与句中主动发起学术抨击的掠夺性攻击逻辑相悖。",
+      "quiver": "错误。quiver 意为“轻微颤抖、发抖”，多表生理或情绪反应（常搭配 with/in，如 quiver with fear），属于不及物动词，无法与方向短语 down upon 构成具有攻击指向的动词短语。",
+      "writhe": "错误。writhe 意为“（因剧痛或折磨而）翻滚、扭动”，常与介词 in/under 连用（如 writhe in pain），语义场完全限定于肉体或精神极度痛苦时的蜷曲反应，绝无法接 down upon 表述学术上的主动反驳或攻讦。"
+    },
+    "translation": "当这篇同行评审论文暴露出些许统计漏洞时，竞争对手学者便准备对其研究方法进行猛烈抨击，并借此推翻作者的理论结论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_06",
+    "group_id": 163,
+    "group_name": "swoop, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with contradictory empirical data, the cognitive psychologist began to ___ between endorsing the modular theory of mind and embracing a more integrated, connectionist paradigm.",
+    "options": [
+      "swoop",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic structure '___ between [Gerund Phrase A] and [Gerund Phrase B]' demands a verb of cognitive vacillation or irresolute hesitation between two competing theoretical choices. 'Waver' specifically collocates with 'between' to express fluctuating allegiance or indecision. 'Swoop' (swift predatory motion), 'quiver' (slight rapid vibration), and 'writhe' (bodily contortion in pain) are incapable of governing this cognitive dual-alternative frame.",
+    "distractor_analysis": {
+      "waver": "正确。waver 在认知与理论决策语境中意为“（在两难选择间）犹豫不决、举棋不定”，其经典句法框架为 waver between A and B（在两种观点、范式或行动间摇摆不定）。句中学者面对矛盾数据，在“模块理论”与“联结主义范式”之间难以取舍，语义与搭配完全吻合。",
+      "swoop": "错误。swoop 意为“俯冲、猛扑”，属于动作与速度范畴的物理/掠夺性动词，根本不具备表达认知摇摆或两难犹豫的语义特征，无法融入“___ between doing A and doing B”的抽象理论抉择句式。",
+      "quiver": "错误。quiver 意为“轻微颤动、战栗”，描述物体或身体器官高频微小的物理震颤，不能用于修饰思维或理论立场在两种学术模型之间的犹豫徘徊，与 between 引导的双重动名词短语毫无搭配理据。",
+      "writhe": "错误。writhe 意为“翻滚、挣扎”，强调因极端生理痛苦或窘迫而剧烈扭动身体，无法充当描述学术思辨、认知权衡中“在两个模型之间取舍不定”的动词。"
+    },
+    "translation": "面对相互矛盾的经验数据，这位认知心理学家开始在支持心智模块理论与拥抱更为整合的联结主义范式之间犹豫不决。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_07",
+    "group_id": 164,
+    "group_name": "syndicate, undercut, undersell, auctioneer",
+    "level": "TEM-8",
+    "target_word": "syndicate",
+    "question": "Seeking broader cognitive reach for its investigative series, the non-profit consortium decided to ___ the analytical reports across twenty regional newsrooms rather than granting exclusive distribution to a single metropolitan daily.",
+    "options": [
+      "syndicate",
+      "undercut",
+      "undersell",
+      "auctioneer"
+    ],
+    "answer": "syndicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: The syntactic and semantic contrast with 'rather than granting exclusive distribution to a single metropolitan daily' combined with the object-preposition collocation '___ the analytical reports across twenty regional newsrooms'. In media and journalism publishing, to distribute features or articles simultaneously to multiple independent publications or broadcasting outlets is strictly termed 'syndicate'.",
+    "distractor_analysis": {
+      "syndicate": "正确。指‘（向多家报社、电台或网络媒体）联合同时辛迪加式分发、出售（稿件、专栏、节目）’。句中与‘analytical reports across twenty regional newsrooms’（向二十家地区新闻采编室分发深度分析报道）以及后半句‘rather than granting exclusive distribution to a single... daily’（而非独家授权给单一报社）形成精准的语义对照和专业行业搭配。",
+      "undercut": "错误。意为‘削弱’、‘破坏’或‘以更低价格竞争’。与‘the analytical reports across twenty regional newsrooms’搭配在语义上完全无法衔接，无法表达‘多渠道联合分发文章内容’的含义。",
+      "undersell": "错误。意为‘以低于…的价格出售’或‘轻描淡写、低估…的价值’（undersell oneself/the importance of）。既不能与‘across newsrooms’构成多方联合分发稿件的行业搭配，也与后文‘exclusive distribution’的版权发行语境无关。",
+      "auctioneer": "错误。用作动词时专指‘主持拍卖’或‘通过拍卖方式将某物竞价售予单一最高出价者’。这与后文向20家媒体机构同时联合分发（non-exclusive simultaneous distribution）的逻辑直接冲突，且不符合新闻稿件联合播发的行业惯例搭配。"
+    },
+    "translation": "为了让其调查系列报道获得更广泛的认知影响力，该非营利联合机构决定将深度分析报告联合分发给二十家地区新闻采编室，而非将其独家发行权授予某家单一的大都市日报。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_08",
+    "group_id": 164,
+    "group_name": "syndicate, undercut, undersell, auctioneer",
+    "level": "TEM-8",
+    "target_word": "undercut",
+    "question": "Recent methodological revelations regarding data fabrication significantly ___ the epistemic authority of the landmark psychological study, thereby precipitating widespread retraction demands across the academic community.",
+    "options": [
+      "syndicate",
+      "undercut",
+      "undersell",
+      "auctioneer"
+    ],
+    "answer": "undercut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: The abstract noun phrase 'the epistemic authority' acted upon by 'methodological revelations regarding data fabrication', resulting in 'precipitating widespread retraction demands'. In academic critique and epistemology, to subvert, weaken, or compromise the foundation, credibility, or authority of a claim or study is uniquely expressed by the high-register collocation 'undercut (the authority/validity)'.",
+    "distractor_analysis": {
+      "undercut": "正确。作引申义动词时表示‘削弱、暗中破坏、削减（某理论、权威、可信度的基石）’，在学术认知与认知哲学中常构成固定强搭配‘undercut the epistemic authority/validity’（削弱认识论权威/有效性），且与主语‘方法学造假揭露’及结果‘引发撤稿要求’构成严密的因果论证链条。",
+      "syndicate": "错误。意为‘（通过辛迪加组织）联合出售/分发（稿件或节目）’。其宾语必须是出版物、专栏、广播版权等具体媒体资产，绝对不可支配抽象的‘epistemic authority’（认知/学术权威）。",
+      "undersell": "错误。虽然 undersell 可引申为‘低估、轻视、未能充分表现（某事物的价值）’，但其动作主体通常具有人类意向性（如学者轻估了自己的发现）。客观存在的方法学造假丑闻（methodological revelations）不可能去‘低估’研究权威，而是直接破坏、摧毁其权威（undercut），搭配与逻辑皆不成立。",
+      "auctioneer": "错误。动词意为‘拍卖、当拍卖人’，语域极为具体且局限于商业/竞价买卖，完全不能与抽象认知领域的‘epistemic authority’搭配，属于严重的语义与语域错位。"
+    },
+    "translation": "最近关于数据造假的方法学内幕披露，极大地削弱了这项里程碑式心理学研究的认知学术权威，从而在整个学界引发了广泛的撤稿呼声。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_09",
+    "group_id": 165,
+    "group_name": "taper, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "taper",
+    "question": "During prolonged psychometric evaluations, the candidate's problem-solving speed did not plummet precipitously; instead, cognitive performance tended to ___ off gradually as mental fatigue accumulated toward the end of the testing session.",
+    "options": [
+      "taper",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "taper",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词小品词 'off' 与副词 'gradually' 构成的典型短语动词搭配（taper off 意为“逐渐减退、逐渐放缓”）。其余三个动词均不能与 off 构成表示“减退”的及物或不及物短语。",
+    "distractor_analysis": {
+      "taper": "正确。taper 常与小品词 off 构成固定动词短语 taper off，意为“（数量、程度、速率等）逐渐减少、递减”。句中描述受试者的认知表现在长时间测评中“逐渐减退”（tended to taper off gradually），与副词 gradually 以及后文疲劳累积的过程形成严密的句法搭配与语义契合。",
+      "wane": "错误。wane 为不及物动词，指“（月相）亏缺”或“（权力、影响、热情等）衰退”，其后绝不接小品词 off，英语中不存在 *wane off 这一搭配，填入此处会导致严重的句法与搭配错误（syntactic rupture）。",
+      "flag": "错误。flag 作不及物动词可表“（精力、注意力等）衰退、变弱”，但不能与 off 连用表达衰减；动词短语 flag off 仅存在于竞赛或交通情境中，意为“挥旗示意……出发”或“示意车辆停靠”，在此处造成语义断裂与语境不符。",
+      "deflate": "错误。deflate 意为“放气；紧缩；使挫伤/缩小”，既不与 off 构成搭配（无 *deflate off），也无法在不及物语境下指代认知表现的渐进平缓下降，语体与搭配完全不合。"
+    },
+    "translation": "在漫长的心理测评过程中，应试者的解题速度并未急剧骤降；相反，随着测试临近尾声时心理疲劳的累积，其认知表现往往会逐步减退。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_10",
+    "group_id": 165,
+    "group_name": "taper, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "Historically, public fascination with artificial neural networks was observed to wax and ___, experiencing dramatic surges of speculative enthusiasm followed by protracted periods of disillusionment and skepticism.",
+    "options": [
+      "taper",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "与动词 wax 形成的凝固反义成对搭配（binomial pair）'wax and wane'（盛衰更迭、起伏消长），后文伴随分词短语 'experiencing dramatic surges... followed by protracted periods...' 进一步形成了严密的语义呼应。",
+    "distractor_analysis": {
+      "wane": "正确。动词 wane 最具代表性的经典凝固构式为与 wax 连用的固定成对搭配（irreversible binomial pair）“wax and wane”，源自月相的“盈亏消长”，引申为“盛衰起伏、周而复始的兴替”。后文伴随分词短语“experiencing dramatic surges... followed by protracted periods...”精准阐释了公众对人工神经网络这一认知科学产物有涨有落的周期性态度，因此 wane 为唯一严丝合缝的答案。",
+      "taper": "错误。taper 强调由粗到细的几何形态渐缩或在数量、规模上的渐近放缓，绝不能与 wax 连用构成固定成对习语（无 *wax and taper），违反了高级英语凝固表达的排他性规则。",
+      "flag": "错误。flag 侧重力量、精力、热情因消耗而“萎靡、下垂、变弱”，不包含“循环往复、盈亏消长”的语义特征，且无法与 wax 构成任何既定的修辞对仗搭配（无 *wax and flag）。",
+      "deflate": "错误。deflate 强调外力戳破导致的快速“泄气、扁塌、缩瘪”或经济层面的物价通缩，其词义机制与表示周期性自然衰减的 wane 完全相悖，更不能与 wax 形成并列反义搭配（无 *wax and deflate）。"
+    },
+    "translation": "从历史上看，公众对人工神经网络的着迷呈现出周期性的起伏消长，在经历过投机性狂热的急剧高涨之后，往往紧跟着长时期的幻灭与审慎怀疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_11",
+    "group_id": 166,
+    "group_name": "teeter, waver, totter, quiver",
+    "level": "TEM-8",
+    "target_word": "teeter",
+    "question": "Confronted by irreconcilable empirical contradictions, the lead theorist seemed to ___ on the precipice of abandoning the paradigm altogether, yet he stubbornly resisted any definitive retraction.",
+    "options": [
+      "teeter",
+      "waver",
+      "totter",
+      "quiver"
+    ],
+    "answer": "teeter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词短语与固定搭配“on the precipice of abandoning...”。teeter on the precipice/brink/edge of 为极其地道的高级英语固定隐喻搭配，指处于危险或剧烈转变的边缘；而 waver、totter、quiver 均不能与 on the precipice of 形成合乎语法的认知认知决策搭配。",
+    "distractor_analysis": {
+      "teeter": "【正确】teeter 本义为摇摇欲坠，常用于比喻义，且拥有极高频且固定的典雅搭配“teeter on the brink/edge/precipice of (doing) sth.”，意为“濒临……的边缘、在……悬崖边缘摇摆”。本句描述理论家在认知危机中面临放弃原有范式的悬崖边缘，无论从句法语义还是修辞搭配上均严丝合缝。",
+      "waver": "【排除】waver 侧重于心理上的“犹豫不决、动摇”，常见搭配为 waver in one's resolve/belief（在信念上动摇）或 waver between A and B（在两者间摇摆），不与“on the precipice of”搭配，代入会破坏固定构式及意象的连贯性。",
+      "totter": "【排除】totter 强调踉跄蹒跚或政权、制度、经济在重负下“摇摇欲坠”（如 tottering under debt / tottering toward collapse），主要用于物理步伐或宏观体制结构，极少用于微观认知决策中与 on the precipice of 搭配形容个人的学术思考状态。",
+      "quiver": "【排除】quiver 意为“微颤、发抖”，通常源于强烈情绪（恐惧、愤怒、激动），后接介词 with（如 quivered with rage），既不具备“认知抉择摇摆”的语义，也无法与 on the precipice of 产生搭配关系。"
+    },
+    "translation": "面对不可调和的经验性矛盾，这位首席理论家似乎已在彻底放弃该范式的悬崖边缘摇摆不定，然而他依然顽固地拒绝作出任何实质性的撤回。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_12",
+    "group_id": 166,
+    "group_name": "teeter, waver, totter, quiver",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Throughout the protracted academic controversy, the senior epistemologist steadfastly refused to ___ in her conviction that empirical verifiability remains the sole criterion for genuine scientific inquiry.",
+    "options": [
+      "teeter",
+      "waver",
+      "totter",
+      "quiver"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "认知心理搭配“refused to ___ in her conviction”。waver in one's conviction/resolve/faith 为专属性动介固定搭配，表示“（信念、决心）发生动摇”，其余三项均不能与“in one's conviction”构成合法学术语境搭配。",
+    "distractor_analysis": {
+      "waver": "【正确】waver 在 FIELD_COGNITION（认知领域）中极其核心，特指信念、决心或立场的“动摇、迟疑”。其最高频的固定句法模式即为“waver in one's conviction / faith / resolve”，完美匹配句中的认知坚定性语境与“in her conviction”介词框架。",
+      "teeter": "【排除】teeter 侧重于外在摇晃或处于临界点，其支配的介词为 on（如 teeter on the edge of...）或 between（在两者间权衡），从不与“in one's conviction”搭配，填入此处会导致严重的句法搭配断裂。",
+      "totter": "【排除】totter 描述步态不稳或机构濒临崩溃（如 a regime totters），没有表示“个人的信念、决心动摇”这一认知隐喻语义，更不能接 in one's conviction。",
+      "quiver": "【排除】quiver 指物理或生理上的快速轻颤（tremble rapidly），通常配接介词 with（如 quiver with indignation），完全不具备认知信念层面的“动摇”涵义，属于概念域与句法双重误用。"
+    },
+    "translation": "在整场旷日持久的学术论争中，这位资深认识论学者始终拒绝动摇其坚定信念，即经验可验证性依然是真正科学探究的唯一标准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_13",
+    "group_id": 167,
+    "group_name": "trample, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "trample",
+    "question": "Fearing that unchecked executive decrees would ___ the delicate institutional safeguards established by the constitution, the constitutional tribunal intervened to reaffirm the inviolable separation of powers.",
+    "options": [
+      "trample",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "trample",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive construction with direct object 'the delicate institutional safeguards' combined with political/legal discourse requires a verb meaning to violate ruthlessly or treat with disregard. Only 'trample' possesses this figurative transitive sense; 'wade', 'slink', and 'slouch' are strictly intransitive locomotion/posture verbs that cannot govern an abstract institutional object.",
+    "distractor_analysis": {
+      "trample": "正确。trample在此用作及物动词，引申为“践踏、肆意破坏、蔑视（制度保障、法律、人权）”，与宾语“the delicate institutional safeguards”（脆弱的制度保障）构成权威的政法与学术搭配，完美契合后文宪法法院重申权力分立的语境。",
+      "wade": "错误。wade基本意为“蹚水、跋涉”，用于比喻时为不及物动词，必须后接介词短语（如wade into介入纷争，wade through费力处理文献），不能直接带名词宾语“institutional safeguards”，存在句法与搭配上的双重错误。",
+      "slink": "错误。slink为不及物动词，意为“（因恐惧、羞愧或鬼祟而）潜逃、溜走”，常与away、off、out等连用，不具备及物动词属性，无法支配宾语，在语义和句法上均不成立。",
+      "slouch": "错误。slouch是不及物动词，意为“耷拉着肩膀坐立、懒散颓丧地走”，描述人身体姿态的萎靡，不仅无法充当及物动词接抽象名词，更与严肃的宪政司法公文语域格格不入。"
+    },
+    "translation": "因担心不受制约的行政法令会践踏宪法所确立的脆弱制度保障，宪法法院果断介入，以重申不可侵犯的权力分立原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_14",
+    "group_id": 167,
+    "group_name": "trample, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating a coherent theoretical framework, the research team had to ___ through voluminous archival dossiers, meticulously cross-referencing conflicting historical testimonies to reconstruct the diplomatic crisis.",
+    "options": [
+      "trample",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed academic-cognitive collocation 'wade through' governs dense, labor-intensive cognitive materials ('voluminous archival dossiers'). It aligns impeccably with the purposeful intellectual diligence in 'meticulously cross-referencing conflicting historical testimonies'. The other verbs clash violently in collocation and semantic polarity.",
+    "distractor_analysis": {
+      "wade": "正确。wade through是高级学术英语中的高频认知习语，意为“费力而耗时地查阅、爬梳（卷帙浩繁的文件、档案或枯燥文本）”，与宾语“voluminous archival dossiers”及后文分词短语“meticulously cross-referencing”（严谨交叉核对）构成天衣无缝的逻辑与语义呼应。",
+      "trample": "错误。trample through字面意为“踩踏穿过”，核心语义是带有暴力毁灭性质的“践踏蹂躏”。若置于此处，将表示物理上踩碎摧毁档案卷宗，这与后文科研团队“严谨交叉核对史料以重构危机”的严密学术考证行为产生彻底的逻辑对立。",
+      "slink": "错误。slink意为“（出于内疚或胆怯）溜走、潜行”，slink through仅能指偷偷穿过某个物理通道，完全无法与“archival dossiers”形成认知查阅层面的搭配，语境逻辑不通。",
+      "slouch": "错误。slouch意为“没精打采地坐或走”，slouch through强调肢体语言的疲沓懒散，既不具备“耗费大量精力钻研文本”的认知转义，也与深化学术探究的严谨语域严重冲突。"
+    },
+    "translation": "在构建起一套连贯的理论框架之前，研究团队不得不费力爬梳卷帙浩繁的档案卷宗，严密交叉核对相互冲突的历史证词，以重构那场外交危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_15",
+    "group_id": 168,
+    "group_name": "transfigure, flip, revert, regress",
+    "level": "TEM-8",
+    "target_word": "transfigure",
+    "question": "Through an exquisite interplay of chiaroscuro and atmospheric perspective, the master painter sought to ___ the squalor of urban industrialism into an enduring vision of transcendent spiritual grace.",
+    "options": [
+      "transfigure",
+      "flip",
+      "revert",
+      "regress"
+    ],
+    "answer": "transfigure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中关键构式为及物动词搭配介词短语 '___ the squalor... into an enduring vision of transcendent spiritual grace'。在美学与艺术批评语域中，仅有及物动词 transfigure 具备'使彻底改观、在精神或美学层面上神圣化/升华'（change completely into something elevated or beautiful）的决定性语义与及物句法特征；其余选项中 revert 和 regress 均为严格的不及物动词，而 flip 则存在严重的文体破裂与语义失配。",
+    "distractor_analysis": {
+      "transfigure": "正确。及物动词，意为“使……彻底改观，尤指使之更为崇高、美化或神圣”（change completely the nature or appearance of, especially into something more beautiful or elevated）。句中描绘古典画家借助明暗对照法将工业文明的“粗鄙污浊”（squalor）蜕变升华为“超凡的精神优雅境界”（transcendent spiritual grace），其及物动词句式（transfigure A into B）与美学升华语域完全契合。",
+      "flip": "错误。虽可作及物动词，但其核心义项为“迅速翻转、轻抛”或用于商业领域的“倒手转卖”及政治上的“翻盘”，属于中低语体或高度机械化/交易性的具体动作，在此处艺术批评语境中与崇高的精神美化语义产生强烈的文体破裂（stylistic clash）。",
+      "revert": "错误。句法上属于严格的不及物动词（intransitive verb），必须与介词 to 搭配构成 revert to（恢复至原先状态），根本无法直接支配宾语 the squalor 构成及物结构；且其词义强调“复原、回到过去”，与句中转化为全新的精神视象逻辑相悖。",
+      "regress": "错误。句法上同样为不及物动词，通常搭配 to 或 toward（退化、倒退），不能直接带宾语；且其语义特指事物朝向更低级、更糟糕的状态退化（degeneration），与句中所表达的升华至崇高境界彻底背道而驰。"
+    },
+    "translation": "凭借明暗对照法与空气透视法的精妙交融，这位绘画大师力图将城市工业主义的粗鄙污浊，彻底蜕变升华为一种永恒而超凡的精神优雅图景。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_16",
+    "group_id": 168,
+    "group_name": "transfigure, flip, revert, regress",
+    "level": "TEM-8",
+    "target_word": "flip",
+    "question": "Despite relentless grassroots canvassing and unprecedented campaign expenditures, the opposition party ultimately failed to ___ several crucial battleground districts that were indispensable for securing a governing parliamentary majority.",
+    "options": [
+      "transfigure",
+      "flip",
+      "revert",
+      "regress"
+    ],
+    "answer": "flip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "宾语核心词为 'several crucial battleground districts'（数个关键摇摆选区），后置定语从句指向 'securing a governing parliamentary majority'（获取议会执政多数）。在高级政治新闻与选举政治学术语境（如《经济学人》）中，'flip a district / seat' 是严格的固定专业搭配，专指在选举中翻盘、从对手党派手中夺取原本处于对方控制下的关键选区。同时，revert 与 regress 因不及物性在句法上被绝对排除，transfigure 在语义上与选举竞争完全脱节。",
+    "distractor_analysis": {
+      "flip": "正确。及物动词，在政治科学与严肃选举报道中为核心专门搭配，意为“（在选举中反转胜负局面）从竞争对手手中夺取关键议席或摇摆选区”（to overturn an opponent's control of an electoral district/seat）。句中 battleground districts 与 parliamentary majority 构成了决定性的政治语境锚点。",
+      "transfigure": "错误。及物动词，意为“使改观、使升华神化”，专用于外貌、艺术或精神境界的崇高蜕变，无法用于政治选举中夺取或改变选区政治版图的客观博弈，搭配极度荒谬。",
+      "revert": "错误。句法受阻。revert 表达“归还、恢复原状”时是不及物动词，必须接介词 to（例如 revert to the former party），不能直接作为及物动词后接宾语 several crucial battleground districts。",
+      "regress": "错误。句法受阻。regress 意为“倒退、退步”，为不及物动词，通常与 to / towards 连用，无法直接接宾语；且语义与政党夺取选区完全不符。"
+    },
+    "translation": "尽管开展了坚持不懈的基层拉票活动并投入了空前的竞选开支，反对党最终仍未能翻盘夺下数个对确保议会执政多数席位不可或缺的关键摇摆选区。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_17",
+    "group_id": 169,
+    "group_name": "tremor, slash, rattle, wiggle",
+    "level": "TEM-8",
+    "target_word": "tremor",
+    "question": "Advanced geotechnical sensors revealed that long before catastrophic rupture occurred on the surface, the surrounding bedrock would perceptibly ___, releasing low-frequency acoustic waves that predictive monitoring algorithms could systematically detect.",
+    "options": [
+      "tremor",
+      "slash",
+      "rattle",
+      "wiggle"
+    ],
+    "answer": "tremor",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive Anchor Clue: The subject is 'the surrounding bedrock' followed by the adverb 'perceptibly' and the consequence 'releasing low-frequency acoustic waves' in an earthquake precursor scenario. Merriam-Webster explicitly defines the intransitive verb 'tremor' as 'to shake with seismic vibrations'. In contrast, 'rattle' denotes high-frequency clattering of loose objects, 'wiggle' is an informal movement of squirming organisms, and 'slash' cannot describe seismic vibration.",
+    "distractor_analysis": {
+      "tremor": "正确。Merriam-Webster 词典将动词 tremor 严格定义为“shake with seismic vibrations”（因地震或地质应力而震颤）。在句中充当不及物动词，与主语 bedrock（基础岩层）及副词 perceptibly 构成无可挑剔的地球物理学与地震监测学术搭配，准确表述岩层在断裂前释放微震与低频声波的动态过程。",
+      "slash": "错误。slash 作及物动词意为“猛砍；大幅削减”，作不及物动词意为“挥砍”或“（风雨）猛烈抽打”。其主语无法与地质深层致密岩体（bedrock）构成合理的主谓逻辑搭配。",
+      "rattle": "错误。rattle 作不及物动词意为“碰撞作响，发出咯咯声”，通常指松散离散的硬质物体（如窗户、骨骼、金属部件）相互碰撞发出短促清脆的声响；深部地层岩体在巨大构造应力下的弹性震动绝非松散物体的物理碰撞杂音，存在严重的语义和物理机制脱节。",
+      "wiggle": "错误。wiggle 意为“扭动，摆动”，侧重生命体（如蠕虫、脚趾）短促、不规则的轻微蠕动，且语体色彩偏向非正式口语（informal），与严谨的岩土工程及地震前兆监测学术语境严重冲突。"
+    },
+    "translation": "先进的岩土工程传感器显示，早在地表发生灾难性破裂之前，周围的基础岩层便会发生明显的震颤，释放出预测性监测算法能够系统探测到的低频声波。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_18",
+    "group_id": 169,
+    "group_name": "tremor, slash, rattle, wiggle",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "Confronted with an imminent economic recession and plummeting consumer demand, central bank governors voted to aggressively ___ benchmark interest rates, hoping to stimulate private investment and revive industrial growth.",
+    "options": [
+      "tremor",
+      "slash",
+      "rattle",
+      "wiggle"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive Anchor Clue: The sentence requires a transitive verb governing the direct object 'benchmark interest rates' modified by 'aggressively'. In macroeconomic and financial register, 'slash interest rates' is a fixed, quintessential collocation meaning to reduce drastically. 'Tremor' is intransitive, 'rattle' cannot take interest rates as an object (only sentient entities or markets), and 'wiggle' is syntactically and stylistically impossible.",
+    "distractor_analysis": {
+      "slash": "正确。slash 在高级财经学术与宏观政策语境中是极为经典的高频搭配词，意为“drastically reduce or curtail”（大幅削减，腰斩）。与“benchmark interest rates”（基准利率）构成权威有力的动宾搭配（slash interest rates / borrowing costs），准确传达了货币当局为遏制衰退而实施的激进降息举措。",
+      "tremor": "错误。句法及物性阻断。tremor 作为动词为严格的不及物动词（intransitive verb），意为“震颤”，无法直接接宾语“benchmark interest rates”，在句法结构上完全不成立。",
+      "rattle": "错误。搭配与语义破裂。rattle 作及物动词时意为“使慌乱，使紧张不安”（如 rattle investors / rattle the markets），其支配对象必须是具备认知心理反应的主体（人或具有拟人化心理预期的市场情绪），绝对不可用于修饰抽象的金融数值指标 *rattle interest rates。",
+      "wiggle": "错误。wiggle 作及物动词时支配对象仅限于身体部位（如 wiggle one's toes），作不及物动词时常与 out of 连用（wiggle out of a commitment）。该词属于非正式日常用语，既无法支配利率，也完全背离了中央银行货币政策决议的庄重语体。"
+    },
+    "translation": "面对迫在眉睫的经济衰退与骤降的消费需求，央行理事们投票决定大幅下调基准利率，以期刺激民间投资并重振工业增长。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_19",
+    "group_id": 170,
+    "group_name": "trump, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "trump",
+    "question": "In evaluating public health interventions, bioethicists consistently argue that the principle of bodily autonomy must ___ purely utilitarian calculations of collective welfare, establishing strict limits on state-mandated medical procedures.",
+    "options": [
+      "trump",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "trump",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为抽象伦理原则 'the principle of bodily autonomy'，空后直接跟宾语 'purely utilitarian calculations'。在认知伦理与价值权衡语境中，表示某一根本原则在层级与效力上‘凌驾于、压倒、胜过’另一考量，唯一适用的及物动词搭配是 trump（override）；其余三词中 thud 和 drone 均为不及物动词，无法接宾语，rap 则表示严厉斥责，与主宾逻辑完全脱节。",
+    "distractor_analysis": {
+      "trump": "正确。动词 trump 在政治哲学、法学及高阶学术政经报刊（如 Foreign Affairs, The Economist）中常用于认知层级评判，表示“压倒、胜过、凌驾于……之上”（MW: to get the better of: override），直接后接宾语 calculations，构成“某一价值考量压倒功利计算”的标准学术搭配。",
+      "rap": "错误。rap 作及物动词时意为“严厉斥责、痛斥”（to criticize sharply: rebuke），其主语通常是批评主体（如调查委员会、媒体），宾语须为受责备的人或机构，且常与介词 for 连用，不能用于表示“原则压倒考量”的逻辑层级关系。",
+      "thud": "错误。thud 意为“重重地落下并发出沉闷声响”，属不及物动词（vi.），语法上根本无法直接带宾语 purely utilitarian calculations，存在严重的句法功能断裂。",
+      "drone": "错误。drone 意为“嗡嗡作响”或“单调低沉地唠叨（drone on）”，属于不及物动词（vi.），无法支配直接宾语，且词义完全脱离价值权衡语境。"
+    },
+    "translation": "在评估公共卫生干预措施时，生命伦理学家一贯主张，身体自主权原则必须凌驾于对集体福祉的纯功利主义计算之上，从而对国家强制性医疗程序设定严格限制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b16_20",
+    "group_id": 170,
+    "group_name": "trump, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "Following an exhaustive parliamentary inquiry, the cross-party committee released a scathing report to ___ the financial regulator for its systemic oversight failures and sluggish response to escalating market fraud.",
+    "options": [
+      "trump",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'released a scathing report to ___ [the financial regulator] for [its systemic oversight failures]' 构成了极为鲜明的评判与谴责语境。动词必须满足 '及物动词 + 监管机构 + for + 过失/渎职行为' 的固定句法语义框架，意为'因……而痛斥/严厉申斥'。四个选项中仅 rap 具备此用法；trump（压倒）无法与 for 搭配表示问责，thud 与 drone 为不及物动词，在句法上直接被排除。",
+    "distractor_analysis": {
+      "trump": "错误。trump 作及物动词意为“胜过、压倒”（override），后接被超越的对象，不可接被问责的机构并与介词 for 搭配表示因过失而进行的公开谴责，语义与句法框架均不匹配。",
+      "rap": "正确。rap 在政经报刊与正式学术评价语境中，是高度地道的及物动词，意为“严厉批评、斥责”（MW: to criticize sharply: rebuke），其典型搭配为 'rap somebody/something for (doing) something'，与句中的 scathing report（严厉的报告）及监管失职上下文形成完美的语义共振与搭配闭环。",
+      "thud": "错误。thud 意为“沉闷地撞击/砰然落下”，是不及物动词（vi.），不能接宾语 the financial regulator，在句法上不成立。",
+      "drone": "错误。drone 意为“单调乏味地长篇大论（drone on about）”或“低沉嗡鸣”，是不及物动词，既不能带人/机构作直接宾语，其轻描淡写的消极说话方式也与 scathing report（措辞严厉的报告）所表达的高强度问责语义产生严重冲突。"
+    },
+    "translation": "在进行了一次彻底的议会调查之后，跨党派委员会发布了一份措辞严厉的报告，痛斥金融监管机构在系统性监管上的失职及其对不断升级的市场欺诈行为的迟缓应对。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

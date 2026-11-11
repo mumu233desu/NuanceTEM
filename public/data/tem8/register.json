@@ -1,6 +1,6 @@
 [
   {
-    "id": "tem8_b00_03",
+    "id": "tem8_reg_001",
     "group_id": 2,
     "group_name": "rectify, amend, remedy, redress",
     "level": "TEM-8",
@@ -24,10 +24,11 @@
     },
     "translation": "在一项独立合规审计的敦促下，监事会责令基金经理在提交最终招股说明书之前，立即纠正其季度风险模型中发现的计算偏差。",
     "mechanism": "MECH_REGISTER",
-    "taxonomy_notes": "Direct object 'computational discrepancies' in an audit/financial modeling context strictly requires a technical, procedural verb denoting the correction of numerical errors or standard deviations."
+    "taxonomy_notes": "Direct object 'computational discrepancies' in an audit/financial modeling context strictly requires a technical, procedural verb denoting the correction of numerical errors or standard deviations.",
+    "legacy_id": "tem8_b00_03"
   },
   {
-    "id": "tem8_b00_06",
+    "id": "tem8_reg_002",
     "group_id": 3,
     "group_name": "decry, denounce, condemn, censure",
     "level": "TEM-8",
@@ -51,6 +52,595 @@
     },
     "translation": "在经历了长达六个月详尽的道德调查后，大学纪律仲裁庭一致投票决定，对公然将科研基金挪作个人商业投资的系主任予以正式行政申诫。",
     "mechanism": "MECH_REGISTER",
-    "taxonomy_notes": "句中主语为具备法定监管权的纪律仲裁机构 'the university's disciplinary tribunal'，动作通过正式程序表决 'voted unanimously to ___'，针对对象为具体的涉事官员及违规行为 'the department chair for flagrantly misallocating research endowments'。在法律与高校行政规章体系中，具有纪律管辖权的仲裁机构对违纪人员做出的正式行政申诫与官方谴责，法定术语严格限定为 censure（censure sb for sth）。"
+    "taxonomy_notes": "句中主语为具备法定监管权的纪律仲裁机构 'the university's disciplinary tribunal'，动作通过正式程序表决 'voted unanimously to ___'，针对对象为具体的涉事官员及违规行为 'the department chair for flagrantly misallocating research endowments'。在法律与高校行政规章体系中，具有纪律管辖权的仲裁机构对违纪人员做出的正式行政申诫与官方谴责，法定术语严格限定为 censure（censure sb for sth）。",
+    "legacy_id": "tem8_b00_06"
+  },
+  {
+    "id": "tem8_reg_003",
+    "group_id": 204,
+    "group_name": "censure, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "censure",
+    "question": "Following an exhaustive inquiry into undisclosed corporate gifts, the parliamentary committee convened a special plenary session and voted overwhelmingly to ___ the former minister for serious ethical breaches.",
+    "options": [
+      "censure",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "censure",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为官方权力机构（the parliamentary committee），动作形态为经由正式投票表决的程序性制裁（voted overwhelmingly to...），且搭配及物动词句型与介词短语（___ the former minister for serious ethical breaches）。在所给选项中，唯有 censure 具备“官方/机构正式问责与公开谴责”的法定语域含义与句法搭配。",
+    "distractor_analysis": {
+      "censure": "正确。censure 作及物动词，严格用于正式、官方或制度化语境（如议会、纪律委员会等法纪权威），指通过官方决议对某人进行“正式谴责、严厉申诫”，常用于 censure sb for sth 结构，与句中的 parliamentary committee、voted 及 for serious ethical breaches 形成严密的语域与句法契合。",
+      "snipe": "错误。snipe 表示“放暗枪；进行隐蔽、琐屑的冷嘲热讽”，在表达言语攻击时属于非及物动词，必须接介词 at（如 snipe at sb），在此处直接接宾语 the former minister 构成句法结构断裂；且其非正式、暗中使绊的语义色彩与议会公开决议的严肃法定语域严重冲突。",
+      "assail": "错误。assail 意为“猛烈攻击、痛击、肆意指责”，强调言语或物理层面猛烈直白的攻击与冲击（如 assail a policy / assailant），通常由政治对手、舆论或敌对群体发起，不具备议会或纪律委员会通过表决施行“制度性纪律处分/正式谴责”的法律与政治程序含义。",
+      "deplore": "错误。deplore 意为“对……深感遗憾、痛惜、强烈反对”，其语义核心在于表达主观上的痛惜与悲叹，且在现代英语中其典型宾语多为行为、局势或灾祸（如 deplore the violence / deplore the breach），极少直接以具体人员作为道德惩戒对象（即不构成 vote to deplore a minister for... 的处分动词搭配）。"
+    },
+    "translation": "在对未公开的企业礼品展开全面调查后，议会委员会召开了特别全体会议，并以压倒性多数投票决定对该前部长的严重违纪行为予以正式谴责。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中主语为官方权力机构（the parliamentary committee），动作形态为经由正式投票表决的程序性制裁（voted overwhelmingly to...），且搭配及物动词句型与介词短语（___ the former minister for serious ethical breaches）。在所给选项中，唯有 censure 具备“官方/机构正式问责与公开谴责”的法定语域含义与句法搭配。",
+    "legacy_id": "tem8_b20_07"
+  },
+  {
+    "id": "tem8_reg_004",
+    "group_id": 204,
+    "group_name": "censure, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than offering constructive policy alternatives during the televised budget debate, disgruntled opposition deputies chose merely to ___ at the chancellor’s monetary proposals from the backbenches.",
+    "options": [
+      "censure",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配与行为语态：空格后紧跟介词 'at'（___ at the chancellor’s monetary proposals），且句中 'from the backbenches'（从后座席位）与 'rather than offering constructive policy alternatives'（而非提出建设性方案）明确勾勒出“偏安一隅进行琐碎非难、放冷箭”的语用情境。四个选项中仅 snipe 属于典型的不及物动词并与 at 形成固定搭配。",
+    "distractor_analysis": {
+      "snipe": "正确。snipe 在转义用于批判语境时为不及物动词，固定与介词 at 连用（snipe at sb/sth），意为“暗中放箭、在暗处或侧翼进行吹毛求疵的抨击”；与句中 from the backbenches（后座议员席）以及缺乏建设性方案的琐碎攻讦语境具有排他性的精准吻合。",
+      "censure": "错误。censure 是纯及物动词（transitive verb），其后必须直接加受谴责的对象（censure sth/sb），不能与介词 at 连用（不存在 *censure at 的句法结构），在此产生严重的及物性语法违背。",
+      "assail": "错误。assail 同样为纯及物动词，意为“猛烈抨击，攻击”，后须直接跟宾语（如 assail the proposals），后接介词短语 *assail at 属于严重句法错误；且 assail 强调正面、猛烈的压倒性攻势，与后半句偏安后座进行琐碎骚扰的语境不符。",
+      "deplore": "错误。deplore 为及物动词，意为“谴责、痛惜某事”（如 deplore the proposals），后绝不可跟介词 at（不存在 *deplore at 的用法），在句法上直接被排除。"
+    },
+    "translation": "在电视转播的预算辩论中，心怀不满的反对党议员并没有提出建设性的替代政策，而是仅仅选择坐在后座对财政大臣的货币政策提案冷嘲热讽。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "决定性锚点在于介词搭配与行为语态：空格后紧跟介词 'at'（___ at the chancellor’s monetary proposals），且句中 'from the backbenches'（从后座席位）与 'rather than offering constructive policy alternatives'（而非提出建设性方案）明确勾勒出“偏安一隅进行琐碎非难、放冷箭”的语用情境。四个选项中仅 snipe 属于典型的不及物动词并与 at 形成固定搭配。",
+    "legacy_id": "tem8_b20_08"
+  },
+  {
+    "id": "tem8_reg_005",
+    "group_id": 208,
+    "group_name": "collude, conspire, affiliate, condescend",
+    "level": "TEM-8",
+    "target_word": "conspire",
+    "question": "Unprecedented seasonal droughts, severe labor deficits, and escalating freight rates have all seemed to ___ against the government's ambitious infrastructural initiative, stalling vital regional development projects.",
+    "options": [
+      "collude",
+      "conspire",
+      "affiliate",
+      "condescend"
+    ],
+    "answer": "conspire",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句子的主语是由 'droughts'（干旱）、'labor deficits'（劳动力短缺）和 'freight rates'（运费上涨）组成的非人格化、客观抽象的不利条件与自然/经济因素。在英语高级书面语体中，唯有 conspire 拥有独特的拟人化比喻义：“（诸种客观不利因素、事件等）协同起作用，共同促成（坏的结果）”（to act in harmony toward a common deleterious end），且其后紧跟介词短语 'against sth'（conspire against...，合力阻碍/破坏……）。其余三项均严格受限于具有意志的生物或组织主体，语法与语义上均不可用于非人称客观事物。",
+    "distractor_analysis": {
+      "conspire": "正确。conspire 在高级学术和政经评论语体中具备一种特有的隐喻性及物/不及物用法，主语常为 circumstances、events 或不利客观因素，固定搭配 'conspire against sb/sth'（诸事不顺，各种不利因素合力挫败某事），与本句的抽象并列主语和介词 against 完美契合。",
+      "collude": "错误。collude（串通，合谋）严格限定于具有主观故意和欺骗动机的理性行为体（如个人、企业集团或官员），无法与无生命的自然灾害和经济指标（droughts, freight rates）构成主谓搭配，且英语中无 'collude against' 这一搭配模式。",
+      "affiliate": "错误。affiliate 意为“使并入；发生联系”，主语必须为机构、组织或其成员，不能用于客观灾害与经济困难，且其搭配介词通常为 with，接 against 属于严重句法违规。",
+      "condescend": "错误。condescend 意为“屈尊，放下架子”（常见搭配为 condescend to do sth 或 condescend to sb），仅能用于描写具有社会地位差距的人类心理态度，绝不能以无生命的抽象概念作主语，且无法与 against 搭配。"
+    },
+    "translation": "空前的季节性干旱、严重的劳动力短缺以及不断攀升的货运费率，似乎都在共同作祟阻碍政府雄心勃勃的基础设施建设计划，致使关键的区域开发项目陷入停滞。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句子的主语是由 'droughts'（干旱）、'labor deficits'（劳动力短缺）和 'freight rates'（运费上涨）组成的非人格化、客观抽象的不利条件与自然/经济因素。在英语高级书面语体中，唯有 conspire 拥有独特的拟人化比喻义：“（诸种客观不利因素、事件等）协同起作用，共同促成（坏的结果）”（to act in harmony toward a common deleterious end），且其后紧跟介词短语 'against sth'（conspire against...，合力阻碍/破坏……）。其余三项均严格受限于具有意志的生物或组织主体，语法与语义上均不可用于非人称客观事物。",
+    "legacy_id": "tem8_b20_16"
+  },
+  {
+    "id": "tem8_reg_006",
+    "group_id": 240,
+    "group_name": "invalidate, void, clot, reinstate",
+    "level": "TEM-8",
+    "target_word": "invalidate",
+    "question": "Rigorous replication studies revealed that pervasive methodological flaws and selective sampling would inevitably ___ the researcher's theoretical deductions, rendering what had seemed a groundbreaking cognitive model thoroughly unsound.",
+    "options": [
+      "invalidate",
+      "void",
+      "clot",
+      "reinstate"
+    ],
+    "answer": "invalidate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The object 'theoretical deductions' combined with the resultant participle clause 'rendering what had seemed a groundbreaking cognitive model thoroughly unsound' establishes an epistemological evaluation context; in academic cognitive science, flaws 'invalidate' (prove false or unsound) intellectual findings or theories.",
+    "distractor_analysis": {
+      "invalidate": "正确。在学术与认知科学（FIELD_COGNITION）语域中，invalidate 指通过揭示逻辑缺陷或方法论漏洞证明假说、推理或理论模型‘不能成立’或‘使之无效’，与 theoretical deductions 及 unsound 构成无可挑剔的语域与语义搭配。",
+      "void": "错误。void 作为动词主要用于法律、行政或商业程序语域，表示通过行使职权或触发违约条款‘废止、使合同/票据/凭据无效’（如 void a contract/warranty），不能与 theoretical deductions、hypotheses 等抽象认知推理概念搭配，存在严重的语域错配与搭配不当。",
+      "clot": "错误。clot 本义为‘凝结成块’或‘使（液体/交通等）堵塞’，属于生理学或物理机械范畴，在此处修饰学术推论属于范畴谬误（category mistake）。",
+      "reinstate": "错误。reinstate 意为‘恢复（原职、原状、效力）’，与后半句‘rendering... thoroughly unsound’（使之彻底站不住脚）构成直接的语义反向冲突。"
+    },
+    "translation": "严格的重复性研究表明，普遍存在的方法论缺陷和选择性抽样必然会使该研究人员的理论推导归于无效，从而使那个曾看似具有开创性的认知模型彻底站不住脚。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The object 'theoretical deductions' combined with the resultant participle clause 'rendering what had seemed a groundbreaking cognitive model thoroughly unsound' establishes an epistemological evaluation context; in academic cognitive science, flaws 'invalidate' (prove false or unsound) intellectual findings or theories.",
+    "legacy_id": "tem8_b23_19"
+  },
+  {
+    "id": "tem8_reg_007",
+    "group_id": 243,
+    "group_name": "loot, pinch, swipe, rustle",
+    "level": "TEM-8",
+    "target_word": "loot",
+    "question": "In the chaotic wake of the institute's dissolution, predatory corporate entities moved swiftly to ___ its vast archival holdings, systematically stripping the impoverished university of decades of patentable scientific research and proprietary data.",
+    "options": [
+      "loot",
+      "pinch",
+      "swipe",
+      "rustle"
+    ],
+    "answer": "loot",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于宾语“vast archival holdings”（庞大的档案馆藏）与后置分词从句“systematically stripping the impoverished university of decades of patentable scientific research”（系统性剥夺该大学数十年的专利科研成果）。句式所描述的是机构层面的、毁灭性且大规模的系统性洗劫与掠夺，在语体上属于极其严肃的高阶学术/政经话语。四个选项中，仅有loot具备指称大规模、掠夺性洗劫机构资源与文化/知识宝库（depository/holdings）的正式语体色彩与语义体量；pinch（指琐碎偷窃）与swipe（美式口语顺手牵羊）在语体和体量上严重失配，rustle则严格限定于盗窃牲畜，语义直接断裂。",
+    "distractor_analysis": {
+      "loot": "正确。意为“洗劫、大规模掠夺”。既可及物支配被洗劫的地点/馆藏机构，也可指掠夺重大财产与知识资源。句中的“vast archival holdings”与“systematically stripping... of decades of patentable scientific research”构成严密的大规模掠夺语境，其庄重严肃的政经语体与宏大语义完全切合。",
+      "pinch": "错误。主要用于英式非正式或文学语境中指“偷拿、顺手牵羊、微小剽窃”，对象通常是微小物品或具体个案，完全无法支配“vast archival holdings”（庞大档案馆藏），且用于此处会产生极其严重的语体降格与体量不符。",
+      "swipe": "错误。属于美式非正式口语词，本义指带有挥动动作的抓取，引申为“随手偷走、顺走”（如顺走小物件）。在论述跨国企业掠夺大学科研专利档案的严谨学术语境中存在严重的语域冲突（register clash），且无法搭配宏观馆藏。",
+      "rustle": "错误。属于专门词汇，在及物动词表示非法占有时严格指“偷盗牛马等牲畜（尤指从畜群中盗窃）”。将其用于知识产权或文献馆藏属于严重的语义范畴错误（category error）。"
+    },
+    "translation": "在该研究所解体的混乱余波中，掠夺性的企业实体迅速采取行动洗劫了其庞大的档案馆藏，系统性地剥夺了这所陷入困境的大学数十年积累的可专利化科学研究与专有数据。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "决定性锚点在于宾语“vast archival holdings”（庞大的档案馆藏）与后置分词从句“systematically stripping the impoverished university of decades of patentable scientific research”（系统性剥夺该大学数十年的专利科研成果）。句式所描述的是机构层面的、毁灭性且大规模的系统性洗劫与掠夺，在语体上属于极其严肃的高阶学术/政经话语。四个选项中，仅有loot具备指称大规模、掠夺性洗劫机构资源与文化/知识宝库（depository/holdings）的正式语体色彩与语义体量；pinch（指琐碎偷窃）与swipe（美式口语顺手牵羊）在语体和体量上严重失配，rustle则严格限定于盗窃牲畜，语义直接断裂。",
+    "legacy_id": "tem8_b24_05"
+  },
+  {
+    "id": "tem8_reg_008",
+    "group_id": 252,
+    "group_name": "poach, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "poach",
+    "question": "Determined to dominate quantum computing research, the venture-backed institute launched an aggressive campaign to ___ preeminent theoretical physicists from rival state-funded universities by offering unprecedented discretionary grants.",
+    "options": [
+      "poach",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "poach",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb requirement governing human intellectual assets ('___ preeminent theoretical physicists from rival state-funded universities') within a competitive institutional raiding register.",
+    "distractor_analysis": {
+      "poach": "正确。此处取其在高端学术与商业竞争语域中的引申义，表示“（违规或通过不正当诱饵）挖走竞争对手的骨干人才/掠夺智力资源”。该词为及物动词，直接接宾语'preeminent theoretical physicists'，并与来源介词短语'from rival state-funded universities'高度契合，精准传达出风投研究机构以重金'挖墙脚'的博弈色彩。",
+      "snipe": "错误。snipe表示“打冷枪”或引申为“暗中抨击、恶言中伤”，在此引申义下为不及物动词，通常与介词'at'搭配（如snipe at a rival），既不能直接带人才类名词作宾语，语义亦完全偏离'掠夺性招揽人才'的语境。",
+      "forage": "错误。forage本义为“觅食”，引申为“搜寻（信息、物资等）”，是不及物动词，常与介词'for'或'in/through'连用（如forage for data），不能作为及物动词直接支配'physicists'，亦缺乏'主动挖角对手人才'的制度竞争意味。",
+      "falcon": "错误。falcon作为动词意为“用猎鹰捕猎”，属于极罕见且专一的古风或专业狩猎不及物动词，无法接宾语，更彻底脱离现代前沿学术竞争的高级语域。"
+    },
+    "translation": "为主导量子计算研究，这家由风投资助的科研机构发起了一场激进的抢人大战，通过提供前所未有的自由支配经费，公然从竞争对手所在的国立大学挖走顶尖理论物理学家。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The transitive verb requirement governing human intellectual assets ('___ preeminent theoretical physicists from rival state-funded universities') within a competitive institutional raiding register.",
+    "legacy_id": "tem8_b25_03"
+  },
+  {
+    "id": "tem8_reg_009",
+    "group_id": 252,
+    "group_name": "poach, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than offering constructive amendments to the multilateral treaty, disgruntled opposition delegates chose instead to ___ at the administration’s environmental concessions during unrecorded press briefings.",
+    "options": [
+      "poach",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrastive discourse context ('Rather than offering constructive amendments...') paired strictly with the prepositional government pattern ('___ at the administration’s environmental concessions').",
+    "distractor_analysis": {
+      "snipe": "正确。snipe在此处取其在政治与公共话语语域中的核心引申义，意为“从隐蔽处进行冷嘲热讽、肆意抨击或放冷箭”，其决定性的句法语义特征是作为不及物动词与介词'at'严格搭配（snipe at sth）。前半句的'Rather than offering constructive amendments'（非但没有提出建设性修正）与后半句的'unrecorded press briefings'（未被公开录音的新闻简报会）构成了坚不可摧的语境闭环，完美表现出政客暗中攻讦的非建设性姿态。",
+      "poach": "错误。poach引申为“挖墙脚、剽窃、非法侵占”，属于及物动词，不与介词'at'搭配；且在政治辞令中无法表达“口头抨击或放冷箭”的言语行为。",
+      "forage": "错误。forage作不及物动词时表示“觅食、四处翻寻”，通常搭配介词'for'（如forage for food/clues）或'in/through'，无法与介词'at'搭配产生“抨击政策”的语义逻辑。",
+      "falcon": "错误。falcon作为动词意为“放鹰捕猎”，为不可带介词'at'用于抨击议题的不及物动词，无论在句法搭配还是政治外交语域上均属严重误用。"
+    },
+    "translation": "不满的反对派代表非但没有对多边条约提出建设性修正案，反而在未录音的新闻吹风会上借机对政府在环境政策上的妥协大放冷箭、肆意攻讦。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The contrastive discourse context ('Rather than offering constructive amendments...') paired strictly with the prepositional government pattern ('___ at the administration’s environmental concessions').",
+    "legacy_id": "tem8_b25_04"
+  },
+  {
+    "id": "tem8_reg_010",
+    "group_id": 258,
+    "group_name": "reprimand, snipe, assail, censure",
+    "level": "TEM-8",
+    "target_word": "reprimand",
+    "question": "Alarmed by unauthorized disclosures to the press, the permanent undersecretary summoned the diplomatic attaché to his private office, choosing to sternly ___ him for breach of protocol rather than initiate public disciplinary proceedings.",
+    "options": [
+      "reprimand",
+      "snipe",
+      "assail",
+      "censure"
+    ],
+    "answer": "reprimand",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“permanent undersecretary summoned the diplomatic attaché to his private office”（常务次长将外交随员召至私密办公室）建立了明确的“上级对下级”的层级行政管辖关系，后接“sternly ___ him for breach of protocol rather than initiate public disciplinary proceedings”（严厉训诫其违反规程的行为，而非启动公开纪律程序）。在正式行政与纪律语域中，reprimand专指掌权者或上级机构对下级违纪行为进行的直接、权威且严肃的“训诫、申斥”，可采取私下或内部行政处理形式；而censure多指立法或管理机构集体表决作出的公开谴责，不能由个别长官私下实施；snipe在此有句法（不及物且须接at）和语意违和；assail则缺乏层级纪律惩戒的法定色彩。",
+    "distractor_analysis": {
+      "reprimand": "正确。意为“（以权威身份）正式训诫、申斥”。常指体制内上级、法官或长官因下属渎职违纪而予以当面严肃告诫，完美契合长官私下惩戒随员的语境与“reprimand sb for sth”的支配结构。",
+      "censure": "错误。意为“（通过决议等形式公开）谴责”。在政治与行政语境中，censure通常指议会、行业公会或委员会等集体机构经表决通过的公开道德或纪律谴责决议，无法与长官在私密办公室中“私下行使以规避公开纪律程序（rather than initiate public disciplinary proceedings）”的操作逻辑相匹配。",
+      "snipe": "错误。意为“暗中放冷箭、微词讥讽”。snipe在表示言语攻击时为不及物动词，必须接介词at（snipe at sb），在此处直接加宾语him构成严重句法错误；且其指代隐藏身份的冷嘲热讽，与上级长官公开、正面的权威训诫截然对立。",
+      "assail": "错误。意为“猛烈抨击、痛击”。assail常用于论战、媒体围攻或突发性暴力批评（如assail a policy/regime），缺乏体制内上级依据章程对下级实施规范性行政惩戒的语域色彩（institutional/disciplinary register）。"
+    },
+    "translation": "鉴于媒体接连出现未经授权的泄密事件，常务次长将该外交随员召至其私人办公室，选择就其违反外交规程的行为予以严厉训诫，而非直接启动公开纪律调查程序。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中“permanent undersecretary summoned the diplomatic attaché to his private office”（常务次长将外交随员召至私密办公室）建立了明确的“上级对下级”的层级行政管辖关系，后接“sternly ___ him for breach of protocol rather than initiate public disciplinary proceedings”（严厉训诫其违反规程的行为，而非启动公开纪律程序）。在正式行政与纪律语域中，reprimand专指掌权者或上级机构对下级违纪行为进行的直接、权威且严肃的“训诫、申斥”，可采取私下或内部行政处理形式；而censure多指立法或管理机构集体表决作出的公开谴责，不能由个别长官私下实施；snipe在此有句法（不及物且须接at）和语意违和；assail则缺乏层级纪律惩戒的法定色彩。",
+    "legacy_id": "tem8_b25_15"
+  },
+  {
+    "id": "tem8_reg_011",
+    "group_id": 258,
+    "group_name": "reprimand, snipe, assail, censure",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than engaging in constructive policy debate, disgruntled backbenchers chose to ___ at the party leadership through anonymous leaks, undermining the coalition's legislative agenda with relentless petty grievances.",
+    "options": [
+      "reprimand",
+      "snipe",
+      "assail",
+      "censure"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点包含句法支配与修辞语境双重锁定：其一，空格后紧跟介词短语“at the party leadership”，四个选项中仅snipe属于可与介词at搭配表示言语攻讦的不及物动词（snipe at sb/sth）；其二，“through anonymous leaks”（通过匿名泄密）与“petty grievances”（琐碎怨言）构成了典型的“放冷箭、暗中中伤”语义场，与snipe所特有的“隐蔽暗处、缺乏建设性、零星骚扰攻击”的修辞色彩完美契合，其余三词均为纯及物动词且语义偏向正式或正面冲突。",
+    "distractor_analysis": {
+      "reprimand": "错误。reprimand为严格的及物动词，直接接宾语（reprimand sb for sth），不可与介词at连用（*reprimand at 属严重句法破裂）；此外后座议员（backbenchers）对党派领导层并无管辖权，不符合其自上而下的权威训诫色彩。",
+      "snipe": "正确。snipe作不及物动词时常与at连用（snipe at），意为“在暗处放冷箭、不断进行冷嘲热讽或微词挑剔”，极为契合通过“匿名泄密（anonymous leaks）”发泄“琐碎怨言（petty grievances）”的卑劣政治伎俩。",
+      "assail": "错误。assail为严格及物动词，直接接宾语（assail the leadership），无法接介词at；且assail指正面、猛烈、排山倒海般的系统性猛攻，与句中“anonymous leaks”和“petty grievances”所体现的隐蔽、琐碎攻击特征不符。",
+      "censure": "错误。censure亦为纯及物动词（censure the leadership），不能后接介词短语“at...”；同时，censure指正式机构公开宣读或表决的谴责案，断不可能通过“匿名泄密”的形式进行。"
+    },
+    "translation": "那些心怀不满的后座议员并未参与建设性的政策辩论，反而选择通过匿名泄密的方式对党派领导层冷嘲热讽、暗放冷箭，以无休止的琐碎怨言破坏执政联盟的立法议程。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "决定性排他锚点包含句法支配与修辞语境双重锁定：其一，空格后紧跟介词短语“at the party leadership”，四个选项中仅snipe属于可与介词at搭配表示言语攻讦的不及物动词（snipe at sb/sth）；其二，“through anonymous leaks”（通过匿名泄密）与“petty grievances”（琐碎怨言）构成了典型的“放冷箭、暗中中伤”语义场，与snipe所特有的“隐蔽暗处、缺乏建设性、零星骚扰攻击”的修辞色彩完美契合，其余三词均为纯及物动词且语义偏向正式或正面冲突。",
+    "legacy_id": "tem8_b25_16"
+  },
+  {
+    "id": "tem8_reg_012",
+    "group_id": 346,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "balmy",
+    "question": "Environmental psychologists observed that prolonged exposure to the island's ___ maritime air and moderate temperatures significantly reduced sensory overload, thereby fostering cognitive restoration among patients recovering from chronic nervous exhaustion.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "balmy",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The adjective coordinates with 'moderate temperatures' to describe 'maritime air' that alleviates 'sensory overload' and enables 'cognitive restoration'. In formal scientific and literary registers, 'balmy' uniquely denotes soothing, mild, and restorative atmospheric qualities (from 'balm'). In contrast, 'daft', 'buggy', and 'haywire' are restricted to informal/slang domains of derangement, glitches, or mechanical breakdown, creating severe register clashes and semantic absurdities.",
+    "distractor_analysis": {
+      "balmy": "正确项。在正式学术与高级书面语境中，balmy 的标准本义为“（气候、空气等）温和宜人的，如香膏般令人舒适放松的”（Merriam-Webster: having the qualities of balm : SOOTHING; MILD, TEMPERATE）。在此处修饰 maritime air，与 moderate temperatures（适度气温）构成严谨的语义并列，并同后文“减轻感官过载、促进认知康复（fostering cognitive restoration）”形成因果呼应，完全契合认知环境心理学实证研究的庄重语域。",
+      "daft": "干扰项。主要为英式口语/非正式用语，意为“愚蠢的，荒谬的”（foolish, silly），属于对人类行为或智力认知的口语化负面评价，既无法修饰自然界的“空气（maritime air）”，更严重违背严肃学术报告的文体语域。",
+      "buggy": "干扰项。属于计算机领域的非正式技术行话（指软件多漏洞、故障频出的）或字面义“多虫的”。置于此处修饰具有疗愈效果的海洋空气，会产生荒诞的语意断裂（“多故障的/多虫的空气”），不符合学术语境。",
+      "haywire": "干扰项。属于非正式表语形容词，通常只能与 go/run 搭配（go haywire 意为“失灵，陷入混乱”）。语法上不能直接作定语修饰 air（*haywire maritime air 为严重搭配不当），且语义上表示“失控、紊乱”，与句中抚慰神经、促进心理康复的正向语境完全相悖。"
+    },
+    "translation": "环境心理学家观察到，长期置身于该岛温和宜人的海洋空气与适度气温之中，显著减轻了感官过载，从而促进了正在从慢性神经衰弱中恢复的患者的认知功能康复。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The adjective coordinates with 'moderate temperatures' to describe 'maritime air' that alleviates 'sensory overload' and enables 'cognitive restoration'. In formal scientific and literary registers, 'balmy' uniquely denotes soothing, mild, and restorative atmospheric qualities (from 'balm'). In contrast, 'daft', 'buggy', and 'haywire' are restricted to informal/slang domains of derangement, glitches, or mechanical breakdown, creating severe register clashes and semantic absurdities.",
+    "legacy_id": "tem8_b34_11"
+  },
+  {
+    "id": "tem8_reg_013",
+    "group_id": 346,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "daft",
+    "question": "Although proponents championed the deregulatory bill as an economic catalyst, prominent fiscal commentators argued that it was fundamentally ___ to assume market self-correction could prevent systemic banking collapses without robust oversight.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "daft",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic anchor is the extraposed epistemic evaluation frame 'it was fundamentally ___ to assume [that]...'. In British intellectual journalism (e.g. The Economist, Financial Times), 'daft' is the established term to brand an uncritical policy assumption as utterly foolish and lacking common sense. 'Haywire' is syntactically barred from taking an extraposed to-infinitive complement (*it was haywire to assume*); 'buggy' is semantically confined to software glitches; and 'balmy' means mild/soothing, rendering the policy critique nonsensical.",
+    "distractor_analysis": {
+      "daft": "正确项。在《经济学人》（The Economist）等高级政经期刊的经典英式高阶文体中，daft 常用作极具表现力的批判性形容词，指某项公共政策假设“极不明智的，缺乏常识的，荒谬愚蠢的”（lacking common sense, preposterously foolish）。在句法上，daft 完美切入“it was fundamentally daft to assume that...”的形式主语追加不定式认知评价结构。",
+      "balmy": "干扰项。在标准书面语中，balmy 核心词义为“（气候）温和的，令人惬意的”（mild, temperate），用于形容经济假设会导致严重的语义逻辑错乱。即便在其口语引申义（作为 barmy 的变体，意为“发疯的，古怪的”）中，也带有陈旧俚语色彩，无法嵌入严肃宏观经济评论的理性批判句式中。",
+      "buggy": "干扰项。词义局限于软件程序“存在代码漏洞的”（glitchy, defect-ridden）或环境“充满昆虫的”，属于技术或俚语语域，根本无法用作评价宏观经济假设或人类理性推断的认知形容词（cannot predicate an epistemic assumption）。",
+      "haywire": "干扰项。存在致命的句法违例。haywire 是典型的非动态表语形容词（predicative adjective），几乎只能与 go, run, turn 等动态连系动词连用表示系统或机械“失控、发生故障”（如 systems went haywire），在英语句法中绝对不能支配不定式形式主语从句（*it is haywire to do sth. 为严重语法错误）。"
+    },
+    "translation": "尽管支持者将该放松管制的法案奉为经济催化剂，但知名财政评论员指出，若无强有力的监管，就妄断市场自我纠偏机制能够防范系统性银行崩溃，从根本上讲是极其荒谬愚蠢的。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The decisive syntactic anchor is the extraposed epistemic evaluation frame 'it was fundamentally ___ to assume [that]...'. In British intellectual journalism (e.g. The Economist, Financial Times), 'daft' is the established term to brand an uncritical policy assumption as utterly foolish and lacking common sense. 'Haywire' is syntactically barred from taking an extraposed to-infinitive complement (*it was haywire to assume*); 'buggy' is semantically confined to software glitches; and 'balmy' means mild/soothing, rendering the policy critique nonsensical.",
+    "legacy_id": "tem8_b34_12"
+  },
+  {
+    "id": "tem8_reg_014",
+    "group_id": 433,
+    "group_name": "consummate, stark, pure, gross",
+    "level": "TEM-8",
+    "target_word": "consummate",
+    "question": "In her seminal treatise on developmental cognition, the theorist synthesized decades of contradictory neuroimaging data with ___ mastery, establishing a coherent conceptual framework that revolutionized the study of neural plasticity.",
+    "options": [
+      "consummate",
+      "stark",
+      "pure",
+      "gross"
+    ],
+    "answer": "consummate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The academic register evaluating supreme intellectual command uniquely selects the collocation 'with consummate mastery'. Distractors are strictly excluded: 'stark' (bleak/bare) contradicts positive mastery; 'gross' (flagrant/coarse) introduces a pejorative clash; 'pure' (unmixed/sheer) does not denote cultivated, apex virtuosity.",
+    "distractor_analysis": {
+      "consummate": "正确。作形容词，意为“炉火纯青的、造诣精深的、完美的”（complete in every detail; of the highest degree of skill or perfection）。在学术书评与理论评述语域中，“with consummate mastery”（以极其纯熟精湛的造诣/掌控力）是高度经典的修辞搭配，完美契合后文理论家化解矛盾数据、创立里程碑框架的语境。",
+      "stark": "错误。含义为“严酷的、荒凉的、赤裸的”（harsh, grim, bare），多用于修饰 reality、contrast 或 terror 等词，与表示卓越智力技巧与造诣的褒义名词 mastery 在语义与逻辑上发生严重冲突。",
+      "pure": "错误。主要表示“纯净的、纯粹的”或“不掺杂质的”（free from mixture; sheer），常修饰 reason、speculation、chance 等词；用来修饰 mastery 既不符合高级学术英语的惯用搭配，也无法表达“技巧达到登峰造极、完全成熟”的最高境界语义。",
+      "gross": "错误。多用于贬义语境，意为“粗俗的、极其严重的、昭彰的”（flagrant, glaring, coarse），如 gross negligence（严重疏忽）或 gross misconduct（严重不端）；若修饰代表崇高学术成就的 mastery，会产生荒谬的语义倒错与逻辑断裂。"
+    },
+    "translation": "在其关于发展认知学的开创性专著中，该理论家以炉火纯青的精湛造诣综合了数十年互相矛盾的神经影像数据，建立起一个彻底变革神经可塑性研究的连贯概念框架。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The academic register evaluating supreme intellectual command uniquely selects the collocation 'with consummate mastery'. Distractors are strictly excluded: 'stark' (bleak/bare) contradicts positive mastery; 'gross' (flagrant/coarse) introduces a pejorative clash; 'pure' (unmixed/sheer) does not denote cultivated, apex virtuosity.",
+    "legacy_id": "tem8_b43_05"
+  },
+  {
+    "id": "tem8_reg_015",
+    "group_id": 433,
+    "group_name": "consummate, stark, pure, gross",
+    "level": "TEM-8",
+    "target_word": "stark",
+    "question": "The experimental findings brought into ___ relief the fundamental flaws of the classical computational model, demonstrating that human perceptual categorization depends far more on embodied sensorimotor feedback than previously assumed.",
+    "options": [
+      "consummate",
+      "stark",
+      "pure",
+      "gross"
+    ],
+    "answer": "stark",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic academic construction 'brought into stark relief' (sharply outlined or dramatically highlighted) is an immutable lexical chunk. 'Consummate', 'pure', and 'gross' cannot syntactically or collocationally enter the 'into ... relief' idiom.",
+    "distractor_analysis": {
+      "stark": "正确。作形容词，本义为“光秃秃的、鲜明的、严峻的”，在此构成学术论著中极为经典的固定习语搭配“bring / throw into stark relief”（使……极其鲜明地凸显出来、使之形成鲜明轮廓）。根据权威词典定义，stark 可表“sharply delineated; distinct”，与 relief（轮廓、浮雕效果）形成固定搭配，精准传达出实证结果将经典模型的内在缺陷“尖锐而清晰地暴露出来”的认知语境。",
+      "consummate": "错误。含义为“完美的、至高造诣的”，修饰主体通常为具备高超技能的人或艺术、专业素养（如 consummate diplomat, consummate skill），完全无法进入“into ... relief”的空间浮雕隐喻搭配中，造成搭配断裂。",
+      "pure": "错误。虽然 pure 可用作程度加强词（如 pure folly, pure coincidence），但英语中不存在“*bring into pure relief”的表达，违背了母语固定搭配习惯。",
+      "gross": "错误。主要用于表示“严重的、显而易见的（尤指过失）”或“总共的”（flagrant, glaring, overall），如 gross error，与短语“into ... relief”毫无搭配可能，属于严重的语体与搭配误用。"
+    },
+    "translation": "这些实验结果极其鲜明地凸显出经典计算模型的根本缺陷，证明人类的知觉归类过程远比先前所认为的更依赖于具身的感觉运动反馈。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The idiomatic academic construction 'brought into stark relief' (sharply outlined or dramatically highlighted) is an immutable lexical chunk. 'Consummate', 'pure', and 'gross' cannot syntactically or collocationally enter the 'into ... relief' idiom.",
+    "legacy_id": "tem8_b43_06"
+  },
+  {
+    "id": "tem8_reg_016",
+    "group_id": 501,
+    "group_name": "interminable, long, endless, eternal",
+    "level": "TEM-8",
+    "target_word": "interminable",
+    "question": "Although the mining consortium claimed the concession agreement was ___ and thus immune to revocation, the supreme court ruled that it was implicitly terminable upon reasonable notice by the sovereign state.",
+    "options": [
+      "interminable",
+      "long",
+      "endless",
+      "eternal"
+    ],
+    "answer": "interminable",
+    "primary_mechanism": "MECH_REGISTER_DISCOURSE",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中后半部分的“implicitly terminable upon reasonable notice”（在合理通知期后可默示终止）构成了决定性的法理与词汇形态学锚点（terminable vs. interminable）。《韦氏第三版新国际英语词典》（Webster's Third New International Dictionary）对 interminable 专门收录了法律释义：“not terminable : continuing indefinitely without being terminated”，典型权威配例即为“an interminable agreement / lease”（不可终止的协议/租赁）。在合同法与特许权管辖语境中，唯一能与“terminable”构成严格对立并合理推导出“immune to revocation”（不可废止）的术语唯有 interminable。",
+    "distractor_analysis": {
+      "interminable": "正确。符合《韦氏第三版新国际英语词典》法律释义“not terminable : continuing indefinitely without being terminated”（不可终止的，未设终止期限的）以及英美合同法经典判例（如 Chitty on Contracts 所探讨的 terminable 与 interminable 契约）。其在句中精准表述该特许权协议属于“不可由通知而单方终止”的合同，从而严密支撑“immune to revocation”，并与主句的“implicitly terminable”构成无可替代的反义闭环。",
+      "long": "错误。语义逻辑断裂。“long”仅中性地指示时间跨度之久（例如长达数十年），但合同期限无论多长（long），都绝不意味着其在法理上“immune to revocation”（不可废止）；此外，“long”无法与法律术语“terminable”构成形态与逻辑上的反义对立。",
+      "endless": "错误。语域与搭配严重失范。“endless”侧重于物理空间的无边无际、机械循环（如 endless chain）或日常修辞中的“无休止”（如 endless complaints）。在严肃的司法与国家特许权公文语域中，合同从不被称为“endless agreement”，该词无法表达“不可依约终止”的法理效力，属于严重的语域错配。",
+      "eternal": "错误。范畴错配（category mistake）与风格冲突。“eternal”属于神学、形而上学或宇宙论词汇，强调超脱时间维度的“永恒不灭”（如 eternal salvation, eternal truth）。商业采矿特许权属于世俗法律契约，使用“eternal”修饰合同属于荒谬的修辞夸张，严重违背学术与法律文本的严谨性。"
+    },
+    "translation": "尽管该采矿财团声称特许权协议属于不可终止的合同，因而不可被废止，但最高法院最终裁定，主权国家在给予合理通知后有权默示终止该协议。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中后半部分的“implicitly terminable upon reasonable notice”（在合理通知期后可默示终止）构成了决定性的法理与词汇形态学锚点（terminable vs. interminable）。《韦氏第三版新国际英语词典》（Webster's Third New International Dictionary）对 interminable 专门收录了法律释义：“not terminable : continuing indefinitely without being terminated”，典型权威配例即为“an interminable agreement / lease”（不可终止的协议/租赁）。在合同法与特许权管辖语境中，唯一能与“terminable”构成严格对立并合理推导出“immune to revocation”（不可废止）的术语唯有 interminable。",
+    "legacy_id": "tem8_b50_01"
+  },
+  {
+    "id": "tem8_reg_017",
+    "group_id": 537,
+    "group_name": "fiddling, petty, little, trivial",
+    "level": "TEM-8",
+    "target_word": "fiddling",
+    "question": "Restoring the centuries-old illuminated manuscript proved to be exceptionally ___ work, requiring the conservator to execute micrometric alignments of torn vellum fibers under a high-powered stereomicroscope.",
+    "options": [
+      "fiddling",
+      "petty",
+      "little",
+      "trivial"
+    ],
+    "answer": "fiddling",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The context specifies an intricate manual and perceptual task ('micrometric alignments of torn vellum fibers under a high-powered stereomicroscope'), strictly demanding the specialized sense of the adjective meaning 'needing a lot of small, difficult movements' or 'awkwardly intricate and finicky'.",
+    "distractor_analysis": {
+      "fiddling": "正确。此处考查 fiddling 的核心次要义项。据剑桥词典（Cambridge Dictionary）及柯林斯词典（Collins），fiddling 在描述工序或劳动时，专指‘needing a lot of small, difficult movements; requiring awkward or delicate manipulation; finicky’（需要极细小微调、费手费眼的繁琐精细活计，如 Repairing watches is very fiddling work）。后文‘requiring the conservator to execute micrometric alignments of torn vellum fibers’（在显微镜下对羊皮纸纤维进行微米级对齐）属于典型的超微细手工与视觉操作，与 fiddling 的这一专门释义形成严丝合缝的排他性对应。",
+      "petty": "错误。petty 修饰工作（petty work）时意为‘卑微的、微不足道的、下等的差事’，带有社会地位或价值层面的轻蔑，根本不具备‘动作精密复杂、需要极细微手部操作’的语义特征。",
+      "little": "错误。‘exceptionally little work’在英语中意为‘工作量极少、几乎不需要干活’，这与后文描述的在高倍显微镜下进行繁难的纤维对接构成无法调和的逻辑与语意矛盾。",
+      "trivial": "错误。trivial 表示‘无关紧要的、轻而易举的’。将一项需要高度专业水准和极限微操作的高难度古籍修复工作定性为‘exceptionally trivial work’（极其轻浮微不足道的工作），不仅背离专业常识，更与句意中凸显的严苛工艺要求完全相悖。"
+    },
+    "translation": "修复这本拥有数百年历史的泥金装饰手抄本被证实是一项极其繁琐费神的工作，需要修复师在高倍体视显微镜下对撕裂的羊皮纸纤维进行微米级的精细对齐。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "The context specifies an intricate manual and perceptual task ('micrometric alignments of torn vellum fibers under a high-powered stereomicroscope'), strictly demanding the specialized sense of the adjective meaning 'needing a lot of small, difficult movements' or 'awkwardly intricate and finicky'.",
+    "legacy_id": "tem8_b53_14"
+  },
+  {
+    "id": "tem8_reg_018",
+    "group_id": 543,
+    "group_name": "illicit, outlaw, illegal, unlawful",
+    "level": "TEM-8",
+    "target_word": "illicit",
+    "question": "Although international conventions did not formally criminalize such backchannel diplomacy, the envoy’s ___ association with rebel commanders was swiftly repudiated by the foreign ministry for breaching fundamental ethical protocols.",
+    "options": [
+      "illicit",
+      "outlaw",
+      "illegal",
+      "unlawful"
+    ],
+    "answer": "illicit",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句首让步从句“Although international conventions did not formally criminalize such backchannel diplomacy”（尽管国际公约并未将此类秘密外交正式定罪）从法律实定法层面排除了成文法犯罪，直接排除了严格以“违反成文法”为核心语义的 illegal 与 unlawful；而修饰外交/人际关联（association）时，outlaw 存在严重语域冲突，唯有 illicit 专指违反道德准则、外交规约且具隐秘性质的“不正当关系/不正当交往”。",
+    "distractor_analysis": {
+      "illicit": "正确。illicit 在高级学术及外交语域中不仅表示违法，更特指“违背社会道德、行业规约或行为准则的，不正当的，隐秘的”（not permitted by custom or ethical codes; clandestine）。句中已明确指出该交往并未被成文国际法正式定为犯罪（not formally criminalize），但违背了伦理规约（ethical protocols），与 illicit association（不正当交往/私下勾连）完美契合。",
+      "outlaw": "错误。outlaw 作形容词通常修饰不受法律保护或公然反抗法律的主体（如 outlaw biker, outlaw state 亡命之徒、流氓国家），带有通俗演义或边缘暴力的色彩，与 association（人际关联、组织交往）搭配极不地道，置于严谨的外交国际关系语境中产生严重的语域冲突（register clash）。",
+      "illegal": "错误。illegal 严格指“违反制定法或刑事法律的”（forbidden by statutory law）。句首从句已明示国际法并未将其“criminalize”（未定为刑事违法），若填入 illegal association 会与前文的逻辑前提直接产生语义悖论（semantic contradiction）。",
+      "unlawful": "错误。unlawful 属于高度技术性的法学用语，指“未获法律授权的、非法的”（contrary to or unauthorized by positive law），常用于法定罪名（如 unlawful entry, unlawful detention）。后文既然说明该行为仅是违反了道德与外交内部规约而非实体法，使用 unlawful 属于法律界定过度，且破坏了句子的逻辑融通性。"
+    },
+    "translation": "尽管国际公约并未将此类秘密外交正式定为犯罪，但该特使与叛军指挥官的不正当交往因严重违反基本职业伦理准则，迅速遭到了外交部的公开谴责与断然否认。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句首让步从句“Although international conventions did not formally criminalize such backchannel diplomacy”（尽管国际公约并未将此类秘密外交正式定罪）从法律实定法层面排除了成文法犯罪，直接排除了严格以“违反成文法”为核心语义的 illegal 与 unlawful；而修饰外交/人际关联（association）时，outlaw 存在严重语域冲突，唯有 illicit 专指违反道德准则、外交规约且具隐秘性质的“不正当关系/不正当交往”。",
+    "legacy_id": "tem8_b54_05"
+  },
+  {
+    "id": "tem8_reg_019",
+    "group_id": 543,
+    "group_name": "illicit, outlaw, illegal, unlawful",
+    "level": "TEM-8",
+    "target_word": "illicit",
+    "question": "Nineteenth-century moralists harshly condemned the young heiress's ___ liaison with an impoverished tutor, regarding their clandestine relationship not as a statutory infraction, but as an intolerable breach of social decorum.",
+    "options": [
+      "illicit",
+      "outlaw",
+      "illegal",
+      "unlawful"
+    ],
+    "answer": "illicit",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "决定性排他锚点在于后半句的强烈对比：“not as a statutory infraction, but as an intolerable breach of social decorum”（并非法律层面的成文违法行为，而是对社会礼法与道德体统的不可容忍的逾越）。同时，与 liaison（私情、不正当男女关系）构成典型学术与文学固定搭配的必须是 illicit；illegal 和 unlawful 均指法定违法，造成语义自相矛盾，outlaw 则完全无法修饰感情或人际私通。",
+    "distractor_analysis": {
+      "illicit": "正确。韦氏词典将 illicit 核心义项明确定为“contrary to or forbidden by law, especially: not permitted by custom or society: clandestine (an illicit love affair)”，专指不受社会礼俗接纳、违背公序良俗的隐秘关系。句中明确将该行为定性为“非成文法犯罪（not a statutory infraction），而是礼俗败坏（breach of social decorum）”，与 illicit liaison（不正当私情/违背礼教的恋情）构成绝对排他的标准搭配。",
+      "outlaw": "错误。outlaw 作为形容词指“逃亡的、被剥夺法律保护的、反叛的”，用于修饰具体的人或武装团伙，无法与 liaison（私情、风流韵事）搭配使用，属于严重的搭配断裂与语意脱节。",
+      "illegal": "错误。illegal 的语义核心为“违反国家制定的法律”（contrary to enacted laws）。句子明确强调该私情“not as a statutory infraction”，填入 illegal liaison 必然导致前后文自相矛盾。",
+      "unlawful": "错误。unlawful 是成文法与普通法体系中的法律术语，侧重“未经法律许可的，不合法的”，如 unlawful act 或 unlawful assembly。在涉及私人情感、阶级禁忌与社会道德体统的文学/文化研究语域中，用 unlawful 修饰男女私情不仅极其生硬怪异，更与后半句非法律犯罪的描述产生语义逻辑破裂。"
+    },
+    "translation": "十九世纪的卫道士严厉谴责了那位年轻女继承人与一名穷家教的不正当私情，他们并不认为两人的秘密私通构成了法律意义上的犯罪，而是将其视为对社会礼教体统不可容忍的公然践踏。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "决定性排他锚点在于后半句的强烈对比：“not as a statutory infraction, but as an intolerable breach of social decorum”（并非法律层面的成文违法行为，而是对社会礼法与道德体统的不可容忍的逾越）。同时，与 liaison（私情、不正当男女关系）构成典型学术与文学固定搭配的必须是 illicit；illegal 和 unlawful 均指法定违法，造成语义自相矛盾，outlaw 则完全无法修饰感情或人际私通。",
+    "legacy_id": "tem8_b54_06"
+  },
+  {
+    "id": "tem8_reg_020",
+    "group_id": 569,
+    "group_name": "vernacular, common, vulgar, informal",
+    "level": "TEM-8",
+    "target_word": "vernacular",
+    "question": "During the Renaissance, humanist scholars who championed translation into the ___ idiom sought not to degrade sacred doctrine, but rather to liberate civic engagement from the rigid monopoly of ecclesiastical Latin.",
+    "options": [
+      "vernacular",
+      "common",
+      "vulgar",
+      "informal"
+    ],
+    "answer": "vernacular",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Ecclesiastical Latin",
+    "distractor_analysis": {
+      "vernacular": "正确。vernacular 在社会语言学与历史学术语境中指“本国语的、地方方言的”，专门用以指代相对于拉丁语、希腊语等古典/教会特权语言的本地母语。“vernacular idiom”是标准学术搭配，与句末“the rigid monopoly of ecclesiastical Latin”（教会拉丁语的僵化垄断）构成完美的语体与历史二元对立。",
+      "common": "错误。common 强调“普通的、大众共有的、常见的”，侧重普遍性与无特权性，无法精确表达历史语言学中特指相对于经典书面语的“本地民族母语”这一专业内涵。",
+      "vulgar": "错误。vulgar 在现代英语规范中主要带有负面评价，意为“粗俗的、庸俗的、下流的”。虽然历史上曾有名词搭配“vulgar tongue”（通俗语），但在现代学术严谨表述中，“vulgar idiom”会产生严重的贬义色彩，与句中人文主义学者所秉持的正向学术追求冲突。",
+      "informal": "错误。informal 侧重文体或行为维度的“非正式的、不拘礼节的”，用于指称用语风格而非一门独立的地域/本土母语系统，置于此处语义狭隘且语体失配。"
+    },
+    "translation": "文艺复兴时期，提倡将文本译为本土母语的人文学者并非试图贬损神圣教义，而是旨在打破教会拉丁语的僵化垄断，从而解放公民参与。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "Ecclesiastical Latin",
+    "legacy_id": "tem8_b56_17"
+  },
+  {
+    "id": "tem8_reg_021",
+    "group_id": 569,
+    "group_name": "vernacular, common, vulgar, informal",
+    "level": "TEM-8",
+    "target_word": "vernacular",
+    "question": "By utilizing unhewn stone and timber sourced from surrounding valleys, the regional architects revitalized ___ building techniques, rejecting sterile modernist glass in favor of indigenous craftsmanship suited to local climates.",
+    "options": [
+      "vernacular",
+      "common",
+      "vulgar",
+      "informal"
+    ],
+    "answer": "vernacular",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Indigenous craftsmanship suited to local climates",
+    "distractor_analysis": {
+      "vernacular": "正确。vernacular 在建筑学、文化地理学及设计领域为专业核心术语，专指就地取材、因地制宜且基于民间本土传统的“乡土的、民间的”。与后文“indigenous craftsmanship suited to local climates”（适应当地气候的本土工艺）以及就地采石取材的语境达成严密呼应，“vernacular building techniques”即“乡土建筑技艺”。",
+      "common": "错误。common 意为“普通的、常见的”，仅陈述普遍发生或寻常之物，缺乏“扎根于特定地域传统与本土生态”的专门文化内涵，不能体现与现代主义建筑相对的传统文化复兴。",
+      "vulgar": "错误。vulgar 意为“粗俗的、低劣的、缺乏品味的”，带有强烈的审美贬义，放在建筑师积极复兴本土精湛工艺的学术语境中产生荒谬的逻辑断裂。",
+      "informal": "错误。informal 在建筑与规划语境中通常指“非正式的、自建的、违章搭建的（如贫民窟式的非正规建筑）”，这与句中所推崇的经过深思熟虑的地域专业建筑技艺与工匠精神完全相反。"
+    },
+    "translation": "通过利用来自周边山谷的未经琢磨的原石与木材，这些地域建筑师复兴了乡土建造技艺，摒弃了刻板冷漠的现代主义玻璃结构，转而采用契合当地气候的本土传统工艺。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "Indigenous craftsmanship suited to local climates",
+    "legacy_id": "tem8_b56_18"
+  },
+  {
+    "id": "tem8_reg_022",
+    "group_id": 727,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "barrage",
+    "question": "Rather than allowing the beleaguered spokesperson to deliver the prepared statement, aggressive parliamentary backbenchers continued to ___ him with hostile jeers and procedural points of order, drowning out the official briefing.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "barrage",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句中关键结果分句'drowning out the official briefing'（淹没/封锁官方简报通报）提供了决定性排他锚点。barrage动词词源自法语barrer（设立障碍/拦截筑坝），原指炮火弹幕屏障，引申为以极其密集连续的声音、质问、嘲笑像水坝或弹幕屏障一样将对方发声彻底封锁淹没（WordNet: address continuously as if with a barrage, Oxford: subject to an overwhelming barrier of sound/questions）；相比之下，bombard侧重以重炮穿透轰击摧毁（bombard a target with shells/questions），不包含筑起弹幕帷幕将声音淹没拦截（drowning out）的隐喻重心；rip与claw均为口语或躯体动物性动作，且及物语法搭配在此不合。",
+    "distractor_analysis": {
+      "barrage": "【正确】及物动词，源自军事弹幕（barrage fire）屏障概念，在议会与政治语域中专指以密集连续的口号、嘘声或程序抗议筑起'声浪弹幕'，彻底压制并淹没对方发言（drowning out the speech）。结构'barrage someone with hostile jeers'高度地道，与句意浑然一体。",
+      "bombard": "【错误】及物动词，侧重对目标展开具有杀伤力、穿透性的持续轰击（to attack persistently with heavy artillery or missiles），多强调瓦解防线或击垮受试者，无法精准契合以密集声浪筑起屏障以淹没声音（drowning out）的隐喻指向。",
+      "rip": "【错误】动词，及物用法指撕裂、剥离，若表示口头抨击必须加介词成短语动词'rip into someone'；直接作及物动词且带'with hostile jeers'在语法与现代高雅语域中均属错误搭配。",
+      "claw": "【错误】动词，本义为用爪抓挠，比喻义表示艰难攀爬或争取（claw one's way back），无法用于及物结构表示以言语嘲笑密集围攻发言人。"
+    },
+    "translation": "那些咄咄逼人的议会后座议员不仅不给这位处境窘迫的发言人宣读既定声明的机会，反而不断以敌意的嘘声和程序性议事规则抗议对他发起密集的声浪围攻，彻底淹没了官方简报的发声。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中关键结果分句'drowning out the official briefing'（淹没/封锁官方简报通报）提供了决定性排他锚点。barrage动词词源自法语barrer（设立障碍/拦截筑坝），原指炮火弹幕屏障，引申为以极其密集连续的声音、质问、嘲笑像水坝或弹幕屏障一样将对方发声彻底封锁淹没（WordNet: address continuously as if with a barrage, Oxford: subject to an overwhelming barrier of sound/questions）；相比之下，bombard侧重以重炮穿透轰击摧毁（bombard a target with shells/questions），不包含筑起弹幕帷幕将声音淹没拦截（drowning out）的隐喻重心；rip与claw均为口语或躯体动物性动作，且及物语法搭配在此不合。",
+    "legacy_id": "tem8_b72_13"
+  },
+  {
+    "id": "tem8_reg_023",
+    "group_id": 727,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "bombard",
+    "question": "In their quest to synthesize superheavy elements, nuclear physicists utilized a specialized particle accelerator to ___ a microscopic target foil of actinide isotopes with intense, continuous streams of high-energy calcium ions.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "bombard",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_SCIENCE",
+    "anchor_clue": "句中主语为'nuclear physicists'（核物理学家），工具为'particle accelerator'（粒子加速器），直接宾语为'a microscopic target foil of actinide isotopes'（锕系同位素微观靶箔），介词短语为'with intense, continuous streams of high-energy calcium ions'（用高能钙离子束）。在国际核物理学、核化学及高能粒子实验规范语料（Nature, Science, IUPAC）中，以高能粒子束射击轰击原子靶核的专属科学学术动词100%唯一确立为'bombard'（to bombard a target with ions/neutrons）；其余选项barrage、rip、claw在核物理粒子轰击领域均为彻底的范畴错误（category mistake）。",
+    "distractor_analysis": {
+      "bombard": "【正确】及物动词，在现代高能物理与放射化学领域为官方唯一专属术语（technical term），韦氏词典核心科学义项为'to direct high-energy particles or rays against (an atomic nucleus or substance)'（以高能粒子或射线轰击原子核或靶材）。与句中粒子加速器、同位素靶箔及离子束完美无瑕契合。",
+      "barrage": "【错误】及物动词，虽然源于炮兵弹幕，但在现代实验物理学中绝不用于粒子束轰击靶材的学术表述，'barrage an isotope target with ions'在英语学术语料库中频次为零，属于典型的非专业搭配错误。",
+      "rip": "【错误】动词，撕裂、撕碎，与高能粒子轰击合成超重元素的受控微观核反应语境严重违背，属于词义层面的范畴谬误。",
+      "claw": "【错误】动词，抓挠、抓扯，属于躯体机械动作，完全无法用于微观物理实验的粒子对撞表述。"
+    },
+    "translation": "在合成超重元素的探索中，核物理学家利用一台专用的粒子加速器，以高能钙离子的密集连续束流去轰击一层微观的锕系同位素靶箔。",
+    "mechanism": "MECH_REGISTER",
+    "taxonomy_notes": "句中主语为'nuclear physicists'（核物理学家），工具为'particle accelerator'（粒子加速器），直接宾语为'a microscopic target foil of actinide isotopes'（锕系同位素微观靶箔），介词短语为'with intense, continuous streams of high-energy calcium ions'（用高能钙离子束）。在国际核物理学、核化学及高能粒子实验规范语料（Nature, Science, IUPAC）中，以高能粒子束射击轰击原子靶核的专属科学学术动词100%唯一确立为'bombard'（to bombard a target with ions/neutrons）；其余选项barrage、rip、claw在核物理粒子轰击领域均为彻底的范畴错误（category mistake）。",
+    "legacy_id": "tem8_b72_14"
   }
 ]

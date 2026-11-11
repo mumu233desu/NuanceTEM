@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b26_01",
+    "group_id": 261,
+    "group_name": "rumble, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rumble",
+    "question": "Long before the ideological schism became public, profound undercurrents of dissent began to ___ ominously beneath the institutional facade, vibrating with a low, seismic resonance that perceptive observers struggled to decipher.",
+    "options": [
+      "rumble",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rumble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的'undercurrents of dissent'（异见潜流）、'beneath the institutional facade'（在体制外表之下）以及'vibrating with a low, seismic resonance'（伴随着低沉而如地震般的共鸣震颤）是决定性排他锚点。在声学与认知隐喻中，唯有 rumble 专指深沉、持续、具有震颤感的低频滚动声，并常引申指地下异见或动荡暗潮涌动；drone 缺乏地震般的爆发性震颤，rap 为短促清脆的敲击，thud 为沉闷单次的撞击，均无法匹配该语境。",
+    "distractor_analysis": {
+      "rumble": "正确。rumble 指发出沉闷、连续、有震感的隆隆声（如雷声或地壳震动），在认知与政治话语中常隐喻不满、骚动或危机在暗中“隆隆作响、潜伏涌动”。句中的 'beneath'、'ominously' 以及 'low, seismic resonance' 完美吻合其低沉、持续且极具威慑力的声学与语义特征。",
+      "rap": "错误。rap 意为“急促锐利地敲击”，特指短促、清脆、高频的打击声（如敲门或指节叩击桌面）。本句描述的是在体制表层之下深层潜伏的连续性声响，与 rap 所代表的表层、清脆、离散的敲击特质完全相悖。",
+      "thud": "错误。thud 指沉重、钝浊且无回音的单次撞击声（如重物坠地或钝器击打）。句中的 'undercurrents'（潜流）与 'vibrating with... resonance' 强调的是持续传播的低频回响与震颤，thud 的离散性、无共鸣性使其无法融入该句的动态演进过程。",
+      "drone": "错误。drone 虽可指低沉持续的声音，但其语义核心是“单调平淡的嗡嗡声或机械轰鸣”（如蜜蜂飞舞、引擎运转或枯燥单调的说教），缺乏 rumble 所独有的 'seismic'（地震般的、深沉威慑的）震动感，且 drone 常带有致人倦怠的消极色彩，无法承载即将破土而出的异见危机的张力。"
+    },
+    "translation": "远在意识形态的分裂公开化之前，异见的潜流便已在体制的外表之下隐隐作响，伴随着一种敏锐的观察家们难以参透的低沉而如地震般的共鸣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_02",
+    "group_id": 261,
+    "group_name": "rumble, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "To arrest the audience's wandering thoughts and pierce their cognitive fatigue, the symposium moderator chose to ___ the wooden gavel sharply against the sound block, delivering a crisp, staccato summons to order.",
+    "options": [
+      "rumble",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的及物动词句型 '___ the wooden gavel sharply against...' 以及声学修饰语 'crisp, staccato summons'（清脆、短促断续的维持秩序呼吁）是核心语法与语义锚点。rap 是唯一既能作及物动词表示“使……猛烈叩击/敲击”，又在声学上严格对应 'sharply'（利落地）与 'crisp'（清脆的）的词汇；rumble 和 drone 均为不及物动词且声学属性相反，thud 则专指沉闷无清脆感的闷响，在句法与语义上双重排除。",
+    "distractor_analysis": {
+      "rap": "正确。rap 作及物动词时意为“以短促急厉之力叩击（某物于某处）”（to strike with a quick, sharp blow），在此处与 'the wooden gavel' 构成标准搭配（敲击法槌/木槌），且其清脆、短促的声学特征与句后的 'sharply'、'crisp, staccato' 形成严密的语义呼应，符合主持会议时用声响强行唤回认知专注的场景。",
+      "rumble": "错误。rumble 在表达物理声响时为不及物动词，不能直接接宾语 'the wooden gavel'（*rumble the gavel 属于句法违拗）；此外，rumble 表达的是低沉浑厚的滚动声，与本句强调的 'crisp'（清脆）和 'staccato'（短促断续）存在不可调和的声学语义冲突。",
+      "thud": "错误。thud 强调沉重、沉闷而缺乏高频共鸣的撞击（如重物砸在泥土或厚地毯上的钝响），与修饰语 'sharply'（尖锐敏捷地）构成语义修辞矛盾（oxymoron），且 thud 极少作及物动词支配轻巧硬质工具，无法表现会议木槌敲击音木时所特有的清脆警醒感。",
+      "drone": "错误。drone 意为“发出单调低沉的嗡嗡声”或“唠唠叨叨”，不仅在句法上无法作为及物动词支配 'the wooden gavel'，在声学上也属于持续性、催眠性的背景音，根本无法实现破除“认知疲劳”（pierce cognitive fatigue）并“发出短促敲击警示”（crisp, staccato summons）的功能。"
+    },
+    "translation": "为了打破听众游离的思绪并驱散他们的认知疲劳，研讨会主持人选择将木质会议槌向敲音板利落一叩，发出一声清脆而短促的维持秩序信号。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_03",
+    "group_id": 262,
+    "group_name": "rustle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rustle",
+    "question": "Examining the unrecorded codex under focused raking light, the paleographer listened intently as the desiccated folios began to ___ against one another, their dry, whispering friction signaling extreme physical fragility.",
+    "options": [
+      "rustle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rustle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语及物理材质为 'desiccated folios'（干枯脱水的古籍书页），后文伴随核心声学与物理特征修饰 'dry, whispering friction'（干燥、如耳语般的摩擦）。在此四对声学动词中，唯有 rustle 专指干枯纸张、树叶或丝织品相互摩擦时发出的清脆沙沙声/窸窣声。",
+    "distractor_analysis": {
+      "rustle": "正确。rustle 意为“发出轻微而干燥的沙沙声/窸窣声”（to make a rapid succession of light, crisp, dry sounds），专用于纸张、干叶或织物间的轻微摩擦运动。句中的 'desiccated folios'（脱水书页）与 'dry, whispering friction'（干燥细微的摩擦）构成不可替代的物理与声学锚点。",
+      "rap": "错误。rap 强调以硬物施加短促、清脆而有力的叩击或敲打（to strike with a quick, sharp blow），通常伴有坚硬表面的接触，与轻薄脆弱的书页在微弱气流或翻动下发出的轻柔沙沙声完全违背。",
+      "thud": "错误。thud 指沉重、沉闷且无回响的撞击声（a dull, heavy sound），多由重物或软质躯体落地引起，其低频、沉闷的声学特征与句中细微轻柔的 'whispering friction' 产生严重的语义冲突。",
+      "drone": "错误。drone 指发出持续低沉的嗡嗡声或单调轰鸣（a low continuous humming or buzzing sound），多源于昆虫振翅、机器运转或单调讲话，不能用于描述干燥纸叶摩擦时断续且轻细的物理声音。"
+    },
+    "translation": "在侧光聚焦下查验这本未经记载的古抄本时，古文书学家凝神倾听，只见那些干枯脆弱的书页彼此摩擦并发出沙沙的窸窣声，其干燥细微的摩擦响动昭示出极度的物理脆弱性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_04",
+    "group_id": 262,
+    "group_name": "rustle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "Seeking to redirect the delegates' fractured attention toward the procedural breach, the magistrate lifted his wooden gavel to ___ sharply upon the bench, producing a crisp, percussive arrest of the surrounding courtroom chatter.",
+    "options": [
+      "rustle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "施力工具为 'wooden gavel'（木槌），施力动作与介词搭配为 '___ sharply upon the bench'（在审判席上急促用力敲击），其声学结果为 'crisp, percussive arrest'（清脆的打击声骤止喧哗）。在四个选项中，只有 rap 符合硬物快速短促敲打硬表面的动作和声学定义。",
+    "distractor_analysis": {
+      "rustle": "错误。rustle 指纸张、干叶或衣物相互摩擦发出的微弱沙沙声，无法与木槌敲击硬木法台（wooden gavel upon the bench）的敲击动作搭配，更无法产生 'crisp, percussive'（清脆叩击）的权威压制效果。",
+      "rap": "正确。rap 意为“急促有力地敲击，叩击”（to strike with a quick, sharp, or light blow），常与 gavel（木槌）、knuckles（指关节）及介词 on/upon 连用以吸引注意或维持秩序；与句中 'sharply upon the bench' 和 'crisp, percussive arrest' 达成绝对严密的语义与句法契合。",
+      "thud": "错误。thud 强调沉闷、低频的沉重撞击声（如重物坠地或软物撞击硬面），与句中副词 'sharply'（利落地）以及名词性短语 'crisp, percussive'（清脆的敲击）在声学属性（高频清脆 vs 低频沉闷）上存在截然相反的语义冲突。",
+      "drone": "错误。drone 意为“持续发出低沉单调的嗡鸣”或“单调低沉地唠叨”，既无法与瞬时性、冲击性的敲击动作搭配，也无法与介词搭配 'sharply upon the bench' 形成合理的逻辑关联。"
+    },
+    "translation": "为了将代表们涣散的注意力重新引向程序违规问题，法官举起木槌在法台上重重地猛叩一下，发出清脆利落的敲击声，瞬间制止了法庭内四起的喧哗。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_05",
+    "group_id": 263,
+    "group_name": "screech, honk, creak, squeak",
+    "level": "TEM-8",
+    "target_word": "screech",
+    "question": "Neurocognitive assessments revealed that human auditory processing reacts with instantaneous defensive arousal when worn mechanical brakes ___ violently during emergency deceleration, generating an ear-splitting, high-frequency dissonance that overloads sensory channels.",
+    "options": [
+      "screech",
+      "honk",
+      "creak",
+      "squeak"
+    ],
+    "answer": "screech",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "worn mechanical brakes ... violently during emergency deceleration, generating an ear-splitting, high-frequency dissonance",
+    "distractor_analysis": {
+      "screech": "正确。指发出尖锐、刺耳、高频的刺耳摩擦声或呼啸声，尤指车辆剧烈刹车（brakes screeching）或金属摩擦发出的极具侵略性的巨响，与句中'emergency deceleration'（紧急减速）及'ear-splitting, high-frequency dissonance'（震耳欲聋的高频不和谐音）构成严密的语义与搭配闭环。",
+      "honk": "错误。主要指汽车喇叭的鸣响声或水禽（如鹅）低沉响亮的叫声，属于管乐般的、低沉浑厚的鸣笛声，无法描述刹车摩擦产生的刺耳高频尖啸。",
+      "creak": "错误。指由于重压、生锈或缺乏润滑而在移动时发出的缓慢、沉闷的嘎吱、摩擦呻吟声（如陈旧的地板、门铰链或木结构承重），既不能搭配猛烈急刹的动态语境，也不具备'ear-splitting, high-frequency'（尖锐刺耳、高频）的声学特征。",
+      "squeak": "错误。指微弱、短促、纤细的吱吱声（如老鼠叫、皮鞋擦地声），缺乏句中'violently'（剧烈地）与'overloads sensory channels'（使感官通道超载）所要求的声能烈度与破坏性摩擦特征。"
+    },
+    "translation": "神经认知评估显示，当磨损的机械刹车在紧急减速过程中发出刺耳的尖啸时，人类的听觉处理机制会瞬间产生防御性警觉，由此产生的震耳欲聋的高频不和谐音会使感官通道不堪重负。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_06",
+    "group_id": 263,
+    "group_name": "screech, honk, creak, squeak",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Recent investigations in avian cognitive ecology indicate that migratory geese deliberately ___ to communicate spatial orientation, utilizing resonant, low-pitched vocalizations to reinforce flock cohesion and regulate aerodynamic pacing during arduous long-distance flights.",
+    "options": [
+      "screech",
+      "honk",
+      "creak",
+      "squeak"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "migratory geese ... utilizing resonant, low-pitched vocalizations to reinforce flock cohesion",
+    "distractor_analysis": {
+      "honk": "正确。该词为生物声学与认知生态学中指代大雁或天鹅等大型水禽鸣叫的标准词汇（the cry of a wild goose），精准对应后文'resonant, low-pitched vocalizations'（共鸣丰沛、低沉的鸣声）及机群通信语境。",
+      "screech": "错误。通常指猫头鹰、鹦鹉或猛禽发出的尖锐凄厉的嘶鸣，或因极度惊恐发出的尖叫，与大雁迁徙编队中保持稳态与空间定向的'resonant, low-pitched'（低沉共鸣）叫声形成声学与语境冲突。",
+      "creak": "错误。指物体受重压或机械构件老化时发出的嘎吱摩擦声，不可用作飞禽或迁徙鸟类的主动通信发声动词，存在范畴错配。",
+      "squeak": "错误。指啮齿类动物（如老鼠）或幼鸟发出的短促、微弱、尖细的吱吱声，与长途迁徙中大雁那穿透力极强、雄浑低沉的共鸣声学信号（resonant signals）完全背离。"
+    },
+    "translation": "鸟类认知生态学的最新调查表明，迁徙中的大雁会通过主动鸣叫来传达空间方位信息，利用这种低沉而富有共鸣的鸣声来增强雁阵的凝聚力，并在艰辛的长途飞行中调节空气动力学飞行节奏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_07",
+    "group_id": 264,
+    "group_name": "scuffle, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "scuffle",
+    "question": "As the unsanctioned demonstration swelled outside the ministry, several radicalized factions breached the security perimeter and began to ___ with riot police dispatched to maintain municipal order.",
+    "options": [
+      "scuffle",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "scuffle",
+    "primary_mechanism": "MECH_SYNTAX_PREP",
+    "field": "FIELD_SOCIO_POLITICAL",
+    "anchor_clue": "breached the security perimeter ... with riot police dispatched to maintain municipal order（突破安保警戒线……与奉命维持市政秩序的防暴警察），要求填入表示在混乱中发生短兵相接或肢体冲突、且后接介词 with 的不及物动词。",
+    "distractor_analysis": {
+      "scuffle": "正确。根据《韦氏词典》，scuffle 作不及物动词的核心义项为“to struggle at close quarters with disorder and confusion”（在混乱中短兵相接、扭打、混战），常接介词 with（如 scuffle with police）。句中“breached the security perimeter”（突破安保警戒线）与“with riot police dispatched to maintain municipal order”（与奉命维持市政秩序的防暴警察）构成决定性的句法与语义双重锚点，精准表达示威者与执法人员在近距离发生无序肢体冲突的语境。",
+      "wade": "错误。wade 作不及物动词表示“介入冲突、着手攻击”时，必须接介词 into 构成固定搭配 wade into（意为“大打出手、猛扑过去介入”），而在现代英语中根本不存在“wade with + 对抗人员”的句法构式，此处产生严重的介词搭配破裂。",
+      "slink": "错误。slink 意为“潜行、溜走、鬼鬼祟祟地移动”（to move stealthily or furtively, as in fear or shame），通常与 away, off, into 等表示方向的副词或介词连用，表因羞耻或畏惧而退避潜逃；本句为激进示威者正面冲撞安保防线的强对抗语境，且 slink 无法与“with + 对手”搭配，在语义极性与句法结构上均不成立。",
+      "slouch": "错误。slouch 意为“没精打采地坐/立/走、耷拉着肩膀行动”（to walk, stand, or sit in a lazy, drooping way），侧重身体姿态的松弛或怠惰，既与激烈的群体抗议对抗语境格格不入，又无法在句法上接“with + 互动对象”表示对抗性动作，属于明显的语义风格与句法双重冲突。"
+    },
+    "translation": "随着未经批准的示威游行在部委大楼外愈演愈烈，几个激进派系突破了安保警戒线，开始与奉命维持市政秩序的防暴警察发生扭打冲突。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_08",
+    "group_id": 264,
+    "group_name": "scuffle, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before drawing definitive conclusions regarding the defendant’s cognitive state, the forensic panel had to ___ through hundreds of dense, conflicting neuropsychological evaluations and bureaucratic medical records compiled over two decades.",
+    "options": [
+      "scuffle",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定隐喻搭配 wade through 后接数量庞大且晦涩繁琐的文献或材料（hundreds of dense, conflicting neuropsychological evaluations and bureaucratic medical records），表示艰难费力地阅读和梳理海量复杂数据。",
+    "distractor_analysis": {
+      "wade": "正确。wade 的核心引申意为“to proceed with difficulty, labor, or sluggishness”（艰难费力地前行或处理繁重事务），在学术与专业英语中，wade through 是固定且高度地道的隐喻搭配，专指吃力地查阅、梳理海量晦涩的文件、数据或档案（wade through dense documents/data），与句中司法专家组必须费力审阅两十年积累的繁杂神经心理评估及医疗记录的认知活动（FIELD_COGNITION）严密契合。",
+      "scuffle": "错误。scuffle 意为“混战、扭打”或“拖步走”。当其后接介词 through 时，仅能表示物理空间中的拖曳穿行（如 scuffle through dry leaves 拖着脚穿过落叶堆），完全不具备比喻审阅、梳理抽象繁复文献或档案材料的认知引申义，属于严重的搭配与语用错位。",
+      "slink": "错误。slink 意为“潜行、偷偷摸摸地溜走”，通常搭配 into, away 或 out of，表示为了规避关注而进行的人体物理潜行，无法与抽象的文本卷宗（evaluations and records）搭配构成认知梳理语义。",
+      "slouch": "错误。slouch 意为“没精打采地走动或坐立”，侧重身体姿态的懒散萎靡；英语中不存在 *slouch through documents/records 这一搭配，用于正式的司法精神医学评估报告中会导致严重的语体与搭配破裂。"
+    },
+    "translation": "在对被告的认知状态得出最终结论之前，司法鉴定专家组不得不费力地梳理长达二十年间汇编而成的数百份晦涩矛盾的神经心理学评估报告以及繁冗的医疗记录。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_09",
+    "group_id": 265,
+    "group_name": "shamble, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "shamble",
+    "question": "During longitudinal assessments of advanced neurodegenerative disorders, clinicians observed that afflicted subjects would progressively ___ across the testing chamber, dragging their uncoordinated feet in a characteristically halting, shuffling manner.",
+    "options": [
+      "shamble",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "shamble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit syntactic elaboration 'dragging their uncoordinated feet in a characteristically halting, shuffling manner' strictly isolates the lexical core of 'shamble' (MW: 'walk awkwardly with dragging feet; shuffle').",
+    "distractor_analysis": {
+      "shamble": "正确。Merriam-Webster将其定义为“to walk awkwardly with dragging feet : shuffle”（拖着脚步笨拙蹒跚地走）。后文“dragging their uncoordinated feet in a characteristically halting, shuffling manner”（以特有的停顿、拖步方式拖着不协调的双脚）构成了不可替代的定义级语义对应，完美契合神经认知障碍引起的步态失调语境。",
+      "wade": "错误。其核心释义为“to step through a medium offering resistance”（蹚水，费力跋涉），常与介词through或into连用以表示穿过水体、泥淖或隐喻性的密集障碍，不能用来修饰在室内平地因神经运动障碍而双脚拖地拖沓行走的步态。",
+      "slink": "错误。其本义为“to move furtively, stealthily, or abjectly (as through shame or fear)”（潜行，因羞愧或恐惧而溜走），强调鬼祟、退缩或心虚的心理动机，与临床认知衰退导致的病理性身体运动失常毫无逻辑与语境关联。",
+      "slouch": "错误。其含义为“to walk, stand, or sit with a lazy, drooping posture”（没精打采地下垂着走/坐/站，无精打采地驼背），侧重于躯干和肩膀等整体姿态的松散、颓唐，并不指代下肢拖曳擦地（foot-dragging）的具体步态动作。"
+    },
+    "translation": "在对晚期神经退行性疾病的纵向评估中，临床医生观察到患病受试者在穿过测试室时会逐渐呈现出蹒跚拖步的状态，以一种特有的停滞、拖曳方式拖着其不协调的双脚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_10",
+    "group_id": 265,
+    "group_name": "shamble, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating their revolutionary epistemological framework, the cognitive theorists had to ___ through voluminous reams of contradictory empirical findings, painstakingly distinguishing verifiable neural patterns from mere experimental artifacts.",
+    "options": [
+      "shamble",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The combination of the preposition 'through' and the cognitive target 'voluminous reams of contradictory empirical findings' paired with arduous effort ('painstakingly distinguishing') decisively demands the figurative collocation 'wade through' (MW: 'to proceed laboriously as through dense matter or tedious documents').",
+    "distractor_analysis": {
+      "wade": "正确。Merriam-Webster定义其隐喻义为“to proceed laboriously (as through a dense substance or tedious matter)”（艰难吃力地处理、长篇累牍地阅读）。在此认知科学研究语境中，“wade through voluminous reams of contradictory empirical findings”是极其地道且严谨的学术认知隐喻，生动传达了学者艰难穿行于浩繁复杂数据中的智力跋涉过程。",
+      "shamble": "错误。其词义局限于具体的物理步态（拖着脚步笨拙蹒跚），无法与介词through引出的抽象认知材料（大量实证研究成果）构成具有“费力梳理/研读”含义的隐喻搭配。",
+      "slink": "错误。其意为“to move or go in a furtive or stealthy manner”（偷偷摸摸地溜走，潜行），既不能与“through voluminous reams”形成合理抽象语义搭配，其蕴含的怯懦鬼祟情绪亦与客观、严肃的认知科学理论构建相悖。",
+      "slouch": "错误。其侧重于身体“懒散、耷拉”的姿态或松懈怠惰的状态，即便在个别俚语表达中指松散地混过，也与后文分词短语“painstakingly distinguishing...”（极其缜密地辨别）所表达的高度智力专注与严谨劳作形成严重的逻辑语义矛盾。"
+    },
+    "translation": "在构建出其具有革命性的认识论框架之前，认知理论家们必须艰难地研读并梳理海量自相矛盾的实证研究成果，极其严谨地将可验证的神经模式与单纯的实验伪差区分开来。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_11",
+    "group_id": 266,
+    "group_name": "shuffle, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "shuffle",
+    "question": "During clinical evaluations of advanced cognitive decline, geriatricians noted that disoriented patients would characteristically ___ across the ward, scraping their soles along the polished floor without ever lifting their feet into a confident stride.",
+    "options": [
+      "shuffle",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "shuffle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: 'scraping their soles along the polished floor without ever lifting their feet' is the exact lexicographical definition of 'shuffle' (to walk by dragging one's feet). Distractors are excluded because 'slouch' denotes upper-body posture, 'slink' denotes stealth/furtiveness, and 'wade' requires a liquid or impeding fluid medium.",
+    "distractor_analysis": {
+      "shuffle": "正确。MW核心释义为“walk by dragging one's feet”（拖着脚步慢行、曳足而行）。句中伴随状语“scraping their soles along the polished floor without ever lifting their feet”（鞋底沿光洁地面摩擦而未真正抬起双脚）精确界定了“拖足而行”的步态特征，与阿尔茨海默病等认知衰退所致的病理性行走机制高度吻合。",
+      "wade": "错误。本义指在水、泥浆或深雪等具有实际物理阻力的介质中涉水跋涉；比喻义用于指费力处理堆积如山的信息或任务。此处描述患者在病房平整地面上的具体下肢运动方式，无阻力介质或海量材料，语义不匹配。",
+      "slink": "错误。指由于内疚、恐惧或鬼祟心理而“潜行、溜走”（to move stealthily or furtively, as if from fear or shame），属于意图掩人耳目的心理动机驱动行为，与临床观察认知障碍患者的神经病理步态无关。",
+      "slouch": "错误。侧重于身体躯干的松垮、萎靡与不良姿态，指“无精打采地垂头坐立或耷拉着身子行走”（to sit, stand, or walk with an awkward, drooping, or sluggish posture），并不涉及双脚摩擦地面、未抬离地表的足部运动细节。"
+    },
+    "translation": "在针对晚期认知功能衰退的临床评估中，老年病学家注意到，神志不清的患者往往会以特有的曳足步态穿过病房，鞋底紧贴光洁的地面摩擦，双脚从未真正抬起以迈出坚定的步伐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_12",
+    "group_id": 266,
+    "group_name": "shuffle, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating a conclusive paradigm of human cognitive architecture, the epistemologists had to ___ through an overwhelming morass of contradictory empirical studies, laboriously resolving theoretical anomalies across decades of research.",
+    "options": [
+      "shuffle",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The syntactic frame '___ through an overwhelming morass of contradictory empirical studies' combined with 'laboriously resolving theoretical anomalies'. The noun 'morass' (swamp/quagmire) activates the etymological root of 'wade' while 'wade through' is the standard cognitive metaphor meaning to laboriously process dense, obstructive material.",
+    "distractor_analysis": {
+      "wade": "正确。wade 与介词 through 构成固定比喻搭配，MW 释义为“to read or deal with something with difficulty or sustained effort”（艰难地处理/深涉繁冗棘手之物）。句中既有具有物理隐喻色彩的“an overwhelming morass”（压倒性的沼泽/困局），又有“laboriously resolving theoretical anomalies”（费力化解理论矛盾）的认知加工表述，唯有 wade through 能完美统合这一隐喻与学术语域。",
+      "shuffle": "错误。shuffle through 通常仅指漫不经心地随手翻检、洗牌或草率翻阅纸质文件（如 shuffle through papers），强调动作的散漫或轻浅，完全无法传达攻克学术泥潭时的深层脑力跋涉与艰难（laboriously resolving）。",
+      "slink": "错误。slink through 仅用于物理空间中由于羞耻、卑怯或鬼祟而“蹑手蹑脚地穿过”（如 slink through an alley），在认知与学术语境下指代文献研读属于严重语义范畴错配。",
+      "slouch": "错误。slouch 为姿态动词，指萎靡懒散地坐卧或走动，不与抽象的困难介质（morass of empirical studies）搭配构成具有攻坚含义的认知加工短语。"
+    },
+    "translation": "在构建关于人类认知架构的确凿范式之前，认识论学者们不得不艰难地深涉由大量相互矛盾的实证研究所构成的泥沼，耗费心力地化解跨越数十载研究所遗留的理论异常。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_13",
+    "group_id": 267,
+    "group_name": "sidestep, fudge, evade, parry",
+    "level": "TEM-8",
+    "target_word": "sidestep",
+    "question": "By structuring the multilateral climate accord around voluntary emissions pledges, international negotiators managed to ___ the legal dilemma of binding reparations without derailing the fragile consensus among developing nations.",
+    "options": [
+      "sidestep",
+      "fudge",
+      "evade",
+      "parry"
+    ],
+    "answer": "sidestep",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and conceptual anchor: '___ the legal dilemma'. Merriam-Webster explicitly records 'sidestep a dilemma' as the canonical usage for strategically bypassing or routing around an intractable obstacle or awkward choice without confronting it directly.",
+    "distractor_analysis": {
+      "sidestep": "正确。sidestep 意为“回避、绕开（棘手的问题、两难困境或障碍）”。在韦氏词典中，其核心释义“bypass, avoid”直接以“sidestep a dilemma”作为权威例证。句中谈判代表并未正面硬碰硬解决具有约束力的法律困境，而是采取自愿承诺的机制巧妙绕道前行，完全符合其语域与语义搭配。",
+      "fudge": "错误。fudge 指“含糊其辞、搪塞、篡改（事实或数据）”以敷衍过去，常搭配 issue、figures 或 distinction。dilemma（两难选择）本身是一种客观存在的抉择困局，不能与 fudge 构成及物动词搭配（不能说 fudge a dilemma）。",
+      "evade": "错误。evade 强调以狡黠、逃避甚至非法手段躲避追捕、审判或应尽的道德/法律责任（如 evade taxes, evade military service），用于此处不仅搭配 dilemma 极其生硬，且带有明显的逃避责任与不合法的贬义色彩，与句中外交谈判上的战略性变通语境不符。",
+      "parry": "错误。parry 源自击剑术语，指敏捷地“挡开、避开”迎面而来的武器攻击，引申为挡回、化解尖锐的问题、指责或质问（如 parry a hostile question/thrust）。dilemma 是一种两难的抽象局面而非来自对手的直接言语发难，无法与 parry 形成合规律的动宾搭配。"
+    },
+    "translation": "通过围绕自愿减排承诺来构建多边气候协定，国际谈判代表成功绕开了具有约束力的赔偿责任这一法律困境，同时未破坏发展中国家之间脆弱的共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_14",
+    "group_id": 267,
+    "group_name": "sidestep, fudge, evade, parry",
+    "level": "TEM-8",
+    "target_word": "fudge",
+    "question": "In their latest policy white paper, government advisers attempted to ___ the fundamental distinction between capital investments and routine operating expenses, thereby masking systemic budget deficits under the guise of future growth.",
+    "options": [
+      "sidestep",
+      "fudge",
+      "evade",
+      "parry"
+    ],
+    "answer": "fudge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and collocational anchor: '___ the fundamental distinction between A and B... masking systemic budget deficits'. Merriam-Webster specifically defines fudge as 'to obscure or minimize (a difference, problem, etc.) especially by compromise or equivocation: fudge the distinction between...'.",
+    "distractor_analysis": {
+      "fudge": "正确。fudge 表示“掩盖、模糊（界限或区别）、含糊其辞地处理”，韦氏词典明确收录其经典学术/政经搭配“fudge the distinction between...”。句中后半句“masking systemic budget deficits”（掩盖体制性预算赤字）精准锁定了通过人为混淆会计概念、模糊界限以粉饰太平的语义机制。",
+      "sidestep": "错误。sidestep 意为“绕过、避开（困境、障碍或直接交锋）”。人们可以“绕开问题（sidestep an issue）”，但绝对不能“绕开两者之间的概念区别（sidestep a distinction）”，与 distinction 搭配在语义逻辑上不通。",
+      "evade": "错误。evade 指逃避追查、义务或审查（如 evade scrutiny, evade capture），在认知和语义层面上不能支配抽象的概念划分（distinction），属于严重的搭配不当。",
+      "parry": "错误。parry 指“招架、挡开（攻击或质难）”，其宾语必须是具有进攻性或挑战性的言辞/行为（如 blow, accusation, query），与概念范畴的“distinction”完全不兼容。"
+    },
+    "translation": "在最新的政策白皮书中，政府顾问试图模糊资本投资与日常运营支出之间的本质区别，从而在未来增长的幌子下掩盖体制性的预算赤字。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_15",
+    "group_id": 268,
+    "group_name": "sidle, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "sidle",
+    "question": "During the tense recess, the envoy sought to ___ up to the unaligned delegate, hoping to subtly convey an unratified compromise before the multilateral negotiations officially resumed.",
+    "options": [
+      "sidle",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "sidle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定介词搭配与微观行为语义锚点：句中介词短语 'up to the unaligned delegate' 与目的状语 'hoping to subtly convey...' 明确要求表示“悄悄靠近、潜行移向”的肢体位移动词。只有 sidle 能与 up to 构成标准动介搭配（sidle up to sb.），且完全契合隐秘行事的语义特征。",
+    "distractor_analysis": {
+      "sidle": "正确。意为“（悄悄地、侧着身子）潜行、不引人注意地走动”，常与介词 up to 连用（sidle up to sb.，意为“悄悄凑近某人”），在此处精准传达出特使在休会期间为了不引起注意而暗中接近中立代表的微妙肢体动作与认知企图。",
+      "waver": "错误。意为“摇摆、动摇、犹豫不决”，为认知与心态层面的摇摆动词，无法与 'up to sb.' 连用表达空间位移与靠近动作，句法与逻辑均不成立。",
+      "quiver": "错误。意为“（因恐惧、激动或寒冷而）微颤、抖动”，强调高频轻微的物理震颤，既不能与 'up to sb.' 搭配表示物理位移，也无法表达主动的隐秘接近意图。",
+      "writhe": "错误。意为“（因极度痛苦或不适而）翻滚、扭动”，常与介词 in 搭配（如 writhe in agony），用于形容痛苦挣扎的身躯扭曲，与语境中低调、谨慎的外交斡旋行为严重背离。"
+    },
+    "translation": "在紧张的休会期间，该特使试图悄悄凑近那位中立代表，希望在多边谈判正式恢复之前，微妙地传达一份尚未批准的妥协方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_16",
+    "group_id": 268,
+    "group_name": "sidle, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Faced with intense partisan pressure and public outcry, the chief economist refused to ___ in her commitment to quantitative tightening, maintaining that price stability outweighed short-term electoral convenience.",
+    "options": [
+      "sidle",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "认知心理搭配锚点：句中宾语为 'in her commitment to...'（在她的承诺/坚定信念中），搭配 'refused to ___' 明确限定该空为表示信念动摇、犹豫或动摇立场的心理认知动词。只有 waver 构成权威搭配 'waver in one's commitment/resolve'。",
+    "distractor_analysis": {
+      "sidle": "错误。意为“悄悄移动、侧身而行”，是纯粹的物理位移动词，不可用于抽象的认知与政策决心领域，与 'in her commitment' 搭配构成严重的语域及逻辑割裂。",
+      "waver": "正确。意为“动摇、犹豫、摇摆”，专用于指在信念、决心、立场或政策承诺上的动摇与减弱；'waver in one's commitment' 是高阶学术英语与政经评论中极高频的地道搭配，完全符合首席经济学家坚持紧缩政策、不为外界施压所动摇的语境。",
+      "quiver": "错误。意为“颤抖、发抖”，主要指身体器官（如声音、嘴唇）或物体因情感波动而产生的细微颤动，不用于修饰对宏观政策、原则立场的坚持与动摇。",
+      "writhe": "错误。意为“翻滚、痛苦扭动”，常用于生理或极度精神折磨（如 writhe in pain/shame），不能与抽象信念 commitment 连用表示立场的松动或变化。"
+    },
+    "translation": "面对巨大的党派压力和公众的强烈抗议，这位首席经济学家拒绝在她对量化紧缩政策的坚定承诺上发生动摇，坚称物价稳定重于短期的选举利益。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_17",
+    "group_id": 269,
+    "group_name": "slit, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "slit",
+    "question": "To map cognitive responses in the visual cortex, the neurophysiologist used an ultrafine micro-scalpel to ___ the protective dura mater, making a precise, narrow incision that left adjacent neural circuitry intact.",
+    "options": [
+      "slit",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "slit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中 'ultrafine micro-scalpel'（超微型手术刀）、'protective dura mater'（保护性硬脑膜）以及伴随状语 'making a precise, narrow incision'（造成一条精准而狭窄的切口）构成了决定性排他锚点。slit 的核心义项即为 'to make a long narrow cut or opening in'（在薄质物上切开狭长整齐的口子），与微创膜切口的语境严丝合缝。",
+    "distractor_analysis": {
+      "slit": "【正确】slit 指用锋利刀刃在薄膜、布帛、纸张或皮肉上切出一条‘狭长而规整的裂口或开口’（make a clean, narrow cut or opening）。句中用于描述神经生理学家以显微刀具在硬脑膜上切开微小缝隙，与下文 'making a precise, narrow incision' 构成完美的语义与构词照应。",
+      "lop": "【错误】lop 核心义为‘大力砍断、斩除（枝叶、肢体或突出部分）’（to cut off a branch or limb from something），带有明显的断截性与粗重动作感，绝不能用于在精密平整的生物膜上‘切开细口’。",
+      "pare": "【错误】pare 指‘削去外皮、修剪外沿’（to trim off an excess outer layer, as in paring fruit）或‘逐步压缩削减’。本句动作是切透薄膜以进入内部组织，而非层层刮削或剥皮，与受词 'dura mater' 及 incision 不搭配。",
+      "indent": "【错误】indent 意为‘在表面压出凹痕’、‘在边缘刻出锯齿状切口’或‘（段落）缩进’，其本身不包含‘切透以形成通路/开口’（cut through to make an aperture）的含义，违背句意逻辑。"
+    },
+    "translation": "为了绘制视觉皮层的认知反应图谱，神经生理学家使用了一把超微型手术刀切开保护性的硬脑膜，划出了一条精准而狭窄的切口，同时确保相邻的神经回路完好无损。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_18",
+    "group_id": 269,
+    "group_name": "slit, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "In modeling heuristic judgment, cognitive psychologists argue that the mind must decisively ___ peripheral computational branches from its decision tree, rather than gradually trimming them, to avert cognitive overload.",
+    "options": [
+      "slit",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的动宾介词搭配 '___ peripheral computational branches from its decision tree' 以及强对比短语 'rather than gradually trimming them' 构成绝对锚点。lop 与 branches 构成植物修剪及隐喻延展的经典搭配，专指‘果断砍掉、斩断枝干’；其瞬间斩断的语义特征与后半句的渐进修剪（gradually trimming）形成鲜明修辞对仗。",
+    "distractor_analysis": {
+      "lop": "【正确】lop 源于树木修剪术语，指‘（用力或利落地）砍掉、截去枝条或分支’（to cut off branches or limbs from a main body），常引申为断然剔除体系中多余的分支与冗余构件。句中 'lop ... branches from its decision tree' 极为地道，且与 'decisively' 及对比项 'rather than gradually trimming' 构成严谨的逻辑呼应。",
+      "slit": "【错误】slit 专指‘在表面纵向划开狭缝’，动作对象须为具延展性的薄质表面（如膜、喉部、口袋等），无法与 'branches from a tree' 搭配，语义逻辑完全断裂。",
+      "pare": "【错误】pare 意为‘逐步削减、层层剥除’（如 pare down costs）。句中后半句已明确使用 'rather than gradually trimming them'（而不是逐步修剪它们），从反向逻辑上直接排除了同样表示渐进修削、微调削减的 pare。",
+      "indent": "【错误】indent 意为‘使凹陷’或‘文字缩进’，既无法与介词短语 'from its decision tree' 构成及物截除搭配，也无法表达‘切断、移除分支’的含义。"
+    },
+    "translation": "在构建启发式判断模型时，认知心理学家认为，大脑必须果断地从其决策树上斩断边缘的计算分支，而不是对其进行逐步修剪，以避免认知过载。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_19",
+    "group_id": 270,
+    "group_name": "slump, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "slump",
+    "question": "Once the speculative bubble burst, prime commercial property values began to ___ sharply, unsettling institutional lenders who had previously dismissed the possibility of such an abrupt macroeconomic contraction.",
+    "options": [
+      "slump",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "slump",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive subject-verb-modifier collocation: 'property values began to ___ sharply' paired with 'abrupt macroeconomic contraction'. According to Merriam-Webster, slump uniquely denotes 'to go down in value' or decline precipitously in economic context.",
+    "distractor_analysis": {
+      "slump": "正确。MW核心释义为“go down in value”（价值下跌、暴跌）。句中主语为“prime commercial property values”（优质商业地产价值），修饰副词为“sharply”，后文辅以“abrupt macroeconomic contraction”（突发性宏观经济紧缩）。slump 完美契合经济资产价值“骤跌、大幅下挫”的专业学术语境。",
+      "alight": "错误。alight 指“飞落、落下”或“下车”，引申为目光偶然停驻（接 on/upon），完全无法与资产“values”（价值）及副词“sharply”构成表示“价格剧烈下跌”的搭配。",
+      "subside": "错误。subside 意为“（情绪、风暴、疼痛等）平息、减退”或“（地面、水位）下沉”，强调由剧烈趋向缓和或平稳的状态回归，不能用来形容资产价值的“暴跌”，且与“sharply”（急剧地）及“abrupt”（突发骤然的）在语义走向上相互矛盾。",
+      "cascade": "错误。cascade 指“如瀑布般倾泻”或“连锁传递”（如 failure cascades through systems），强调多层级、梯次蔓延的动态流动，不能直接充当单独计量指标“property values”的谓语来表示单一维度的数值下跌，属于严重的搭配不当。"
+    },
+    "translation": "投机泡沫一旦破裂，优质商业地产的估值便开始大幅暴跌，令那些此前对这种突发性宏观经济紧缩的可能性嗤之以鼻的机构放贷方惶恐不安。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b26_20",
+    "group_id": 270,
+    "group_name": "slump, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "After weeks of fruitlessly cross-referencing conflicting archival manuscripts, the paleographer's roving attention happened to ___ upon an obscure marginal gloss that definitively resolved the provenance of the codex.",
+    "options": [
+      "slump",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "alight",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and semantic anchor: 'roving attention happened to ___ upon an obscure marginal gloss'. MW explicitly defines alight (with on/upon) as 'to come by chance : CHANCE, settle' in relation to gaze or intellectual focus.",
+    "distractor_analysis": {
+      "alight": "正确。alight upon 是极为地道的高级学术英语搭配，意为“（目光、思绪或注意力）偶然落于、停驻在……之上”。句中主语为“roving attention”（游移搜寻的注意力），后接介词短语“upon an obscure marginal gloss”，精确传达出研究者在浩繁文献中目光偶然定格于关键线索的认知顿悟过程。",
+      "slump": "错误。slump 作动词表示“急剧下跌”或“沉重塌陷”，后接 upon 仅能表示具象的人体颓然倒在某物上（如 slump upon the table），绝不能与抽象认知主语“attention”（注意力）搭配构成有意义的学术语篇。",
+      "subside": "错误。subside 意为“平息、减退或地层下陷”，属于不及物动词，其后不能通过 upon 引入认知关注的目标对象，无法表达注意力“落于某物”之意。",
+      "cascade": "错误。cascade 意为“倾泻、连锁传导”，虽然有时可与 upon/down 连用，但其主语通常是瀑布、发丝或连续触发的事件/数据流，与“attention happened to ___ upon”的认知探究语境完全相悖。"
+    },
+    "translation": "在徒劳地交叉比对数周充满矛盾的档案手稿之后，古文书学家的游移视线偶然落在一处晦涩的页边批注上，从而最终确定了这部古抄本的渊源。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

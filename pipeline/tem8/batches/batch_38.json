@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b38_01",
+    "group_id": 381,
+    "group_name": "crooked, lopsided, voluminous, tortuous",
+    "level": "TEM-8",
+    "target_word": "crooked",
+    "question": "In optical experiments examining spatial cognition, observers perceive the grid's perfectly upright vertical columns as curiously ___, mistaking subtle tilt cues for an irregular, bent deviation from true verticality.",
+    "options": [
+      "crooked",
+      "lopsided",
+      "voluminous",
+      "tortuous"
+    ],
+    "answer": "crooked",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的语义排他锚点为 'perfectly upright vertical columns'（原本完全垂直的立柱）与 'an irregular, bent deviation from true verticality'（偏离真正垂直状态的不规则弯曲偏差）。韦氏词典对 crooked 的核心定义即为 'having or marked by bends or angles; not straight or aligned'（有弯折或角度的；不直的或未对准的），在此处与直线垂直状态形成精准对应。",
+    "distractor_analysis": {
+      "crooked": "正确。crooked 的核心几何与物理知觉含义为“弯曲的、歪斜的、不正的（not straight or aligned）”。句中语境探讨空间知觉错觉，原本完全垂直笔直的柱体因倾斜线索被误感知为“歪斜/弯曲的”，与 'bent deviation from true verticality' 构成完美语义互释与认知语境搭配。",
+      "lopsided": "错误。lopsided 强调“两边不平衡的、偏向一边的、半边大半边小的”（heavier, larger, or more developed on one side），侧重整体结构在重量、尺寸或力量对比上的不对称与失衡（如 lopsided balance / lopsided contest），不能用以描述单一线条或立柱呈现弯折或偏离垂直线形态的几何歪斜。",
+      "voluminous": "错误。voluminous 意为“体积极大的、卷帙浩繁的、宽大的”（of great volume, bulky, copious），专指容积、物质量或文献篇幅的庞大，与线条或立柱的几何形态、直立状态毫无语义关联。",
+      "tortuous": "错误。tortuous 意为“蜿蜒曲折的、迂回复杂的”（marked by repeated twists, bends, or turns; circuitous），强调路线如蛇行般漫长曲折或论证繁复盘旋（如 a tortuous mountain trail / tortuous reasoning），而不会用来指代原本应是笔直垂直的几何立柱产生轻微倾斜或角度偏转的“歪斜”视觉错觉。"
+    },
+    "translation": "在检验空间认知的视错觉实验中，观察者将网格中完全笔直竖立的立柱怪异地感知为歪斜的，将微妙的倾斜线索误当成了偏离真实垂直基准的不规则弯曲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_02",
+    "group_id": 381,
+    "group_name": "crooked, lopsided, voluminous, tortuous",
+    "level": "TEM-8",
+    "target_word": "lopsided",
+    "question": "The cognitive psychologist argued that confirmation bias fosters an inherently ___ appraisal of evidence, wherein individuals allocate disproportionate weight to favorable data while systematically discounting equally valid opposing arguments.",
+    "options": [
+      "crooked",
+      "lopsided",
+      "voluminous",
+      "tortuous"
+    ],
+    "answer": "lopsided",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于后文释义性定语从句：'wherein individuals allocate disproportionate weight to favorable data while systematically discounting equally valid opposing arguments'（个体对有利数据赋予不成比例的巨大权重，同时系统性忽视同等有效的反对证据）。这种“严重偏向一方、权重分布极端不对称”的特征精确锁定了 lopsided（倾斜的、失衡的、片面的）。",
+    "distractor_analysis": {
+      "lopsided": "正确。lopsided 的核心引申义为“不平衡的、向一侧倾斜的、不成比例的（disproportionately weighted, unevenly balanced）”。在认知科学与决策理论语境中，用于形容证据权衡或思维倾向严重失衡、偏向一方的“片面/失衡的评估”，与上下文语境形成严密的逻辑闭环。",
+      "crooked": "错误。crooked 用于抽象或人际语境时多表示“欺诈的、不诚实的、不正直的”（dishonest, corrupt）。句中探讨的是认知心理学中无意识产生的确认偏误（confirmation bias），并非蓄意造假或道德败坏的欺诈行为，形容评估偏颇失衡属于概念错位。",
+      "voluminous": "错误。voluminous 意为“大量的、篇幅宏大的”（copious, massive in volume），修饰文件、报告或数据量的庞大，无法用于刻画证据评估在倾向性上的失衡与单侧倾斜特性。",
+      "tortuous": "错误。tortuous 意为“迂回繁琐的、盘根错节的”（convoluted, excessively complex），常修饰复杂的推演过程或行政流程。确认偏误通常带来的是直接而粗暴的单向筛选，而非繁复迂回的推理过程，且该词无法表达“证据天平向一方严重失衡”的语义。"
+    },
+    "translation": "认知心理学家认为，确认偏误会催生一种本质上严重失衡的证据评估方式，个体往往会对有利于自己的数据赋予不成比例的权重，同时系统性地忽视同等有效的反对论据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_03",
+    "group_id": 382,
+    "group_name": "dainty, squeamish, fastidious, nice",
+    "level": "TEM-8",
+    "target_word": "dainty",
+    "question": "Contrasting sharply with the monumental bronzes commissioned for civic display, the court's private quarters featured ___ porcelain figurines, whose diminutive scale and exquisite fragility epitomized the aristocracy’s retreat into private, decorative indulgence.",
+    "options": [
+      "dainty",
+      "squeamish",
+      "fastidious",
+      "nice"
+    ],
+    "answer": "dainty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ART_AESTHETICS",
+    "anchor_clue": "句中的决定性排他锚点为“diminutive scale and exquisite fragility”（小巧的体量与极致的脆弱美感）以及前文与“monumental bronzes”（巨型青铜雕像）的鲜明对照。《韦氏词典》将 dainty 的核心义界定为“marked by delicate or diminutive beauty, form, or grace”（以娇小、精巧、脆弱秀美为特征），在艺术品鉴与物质文化语境中，与 porcelain figurines / teacups 构成经典搭配。其余选项在修饰物理艺术品（figurines）时均产生严重的范畴错配（category mistake）或语域冲突。",
+    "distractor_analysis": {
+      "dainty": "正确。dainty 指（物品或身形）娇小精致的、优美玲珑的（delicately small and pretty），完美呼应定语从句中的“diminutive scale”（小巧体量）和“exquisite fragility”（脆弱优雅），且与前半句体量庞大的“monumental bronzes”形成典雅严密的对比，完全契合艺术史学术论述的语域。",
+      "squeamish": "错误。squeamish 意为“神经脆弱易受惊的、容易恶心反胃的、过分拘谨的”，主语/修饰对象严格限定为具有感知能力的人（或转义指胃、良心），绝不能修饰无生命实体，在此产生荒谬的拟人化范畴谬误。",
+      "fastidious": "错误。fastidious 侧重“严苛讲究的、吹毛求疵的”，作形容词时只用于修饰人（如 fastidious collector）或人的注意力、做工与学术严谨性（如 fastidious craftsmanship / attention to detail）。艺术品实体本身绝不能被冠以 fastidious（英语中不存在 *fastidious figurines 这种主客观错配用法），属于典型的移就/修饰受词混淆错误。",
+      "nice": "错误。nice 在当代口语中泛指“令人愉快的、好看的”，属于低阶日常词汇，断然不可用于 TEM-8 级别的高阶学术语境；若取其高级学术词义，nice 专指“精微的、需要细致分辨的”（如 a nice distinction, a nice balance），根本不具备“小巧玲珑、精致脆弱”的物理外观修饰功能。"
+    },
+    "translation": "与为公共展示而订制的巨型青铜雕塑形成鲜明对比的是，宫廷私密居所陈设着小巧精致的瓷质小雕像，其玲珑的体量与极致的脆弱感，生动体现了贵族阶层向私密、装饰性享乐的退隐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_04",
+    "group_id": 382,
+    "group_name": "dainty, squeamish, fastidious, nice",
+    "level": "TEM-8",
+    "target_word": "squeamish",
+    "question": "In his classic treatise on statecraft, Machiavelli argued that sovereign rulers could never afford to be ___ about violent measures, since an instinctive revulsion toward shedding blood would fatally paralyze executive authority during existential crises.",
+    "options": [
+      "dainty",
+      "squeamish",
+      "fastidious",
+      "nice"
+    ],
+    "answer": "squeamish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配“be ___ about violent measures”以及后续的语义阐释“instinctive revulsion toward shedding blood”（对流血冲突本能的生理/心理反胃与反感）。《韦氏词典》指出 squeamish 专指“a tendency to be easily disgusted, nauseated, or offended <squeamish about the sight of blood>”，在政治哲学语境中特指无法承受血腥暴力的“脆弱/过分拘谨”心态。",
+    "distractor_analysis": {
+      "dainty": "错误。dainty 仅用于形容外形小巧精致，或指饮食、感官品味上的娇气挑剔，将其置于“暴力手段（violent measures）”与“流血（shedding blood）”的现实政治语境中，属于严重的范畴错配（category mistake）。",
+      "squeamish": "正确。squeamish 指在面对血腥、暴力、恶心或道德阴暗面时容易神经脆弱、作呕反胃或心慈手软（easily nauseated or offended at violence/cruelty），与句中“violent measures”及“revulsion toward shedding blood”构成绝对的语境呼应与概念投射。",
+      "fastidious": "错误。fastidious 强调一丝不苟的整洁、一丝不漏的细节追求或高傲的审美品位，并不指面对流血惨剧时生理性或道德上的“反胃、心软与怯懦”。",
+      "nice": "错误。nice 在正式语境下表示细微严谨的（meticulous, precise）或拘泥礼节的，不能用于表达对铁血暴力与杀戮的恶心与畏缩。"
+    },
+    "translation": "马基雅维利在其关于治国之术的经典专著中主张，君主绝不能对暴力手段心慈手软、闻血色变，因为面对流血冲突所产生的本能反感与退缩，在生死存亡的危机时刻将致命地瘫痪国家行政权力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_05",
+    "group_id": 383,
+    "group_name": "dire, horrific, horrendous, awful",
+    "level": "TEM-8",
+    "target_word": "dire",
+    "question": "Crippled by years of institutional negligence and chronic underfunding, the regional public health apparatus remains in ___ need of structural reform, lacking even fundamental diagnostic equipment to handle surging seasonal epidemics.",
+    "options": [
+      "dire",
+      "horrific",
+      "horrendous",
+      "awful"
+    ],
+    "answer": "dire",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的固定句式 'in ___ need of' 以及后文 'lacking even fundamental diagnostic equipment' 要求填入一个具备 '+URGENT'（极度紧迫、亟待救援）核心语义特征的形容词。在四个选项中，仅有 dire 具备该语义并能构成高度规范的学术/书面搭配 'in dire need of'（急需、处于极度匮乏之中）；其余三项均无法与 'in...need of' 搭配或语义严重脱节。",
+    "distractor_analysis": {
+      "dire": "正确。dire 表示“危急的、极度迫切的、灾难性的”，在英语高级学术及政经语体中常用于修饰危机、恶果或极度迫切的需求，其最具代表性的固定搭配为 'in dire need of'（极度需要……）。题干描述公共卫生机构因长期缺乏资金和设备而处于濒临崩溃的紧急危机中，完全符合其语义与句法搭配。",
+      "horrific": "错误。horrific 侧重于“令人恐怖的、令人毛骨悚然的”，通常用于描绘引发感官极度恶心、恐惧或肉体创伤的情境（如 horrific injuries, horrific violence），不能修饰抽象名词 need，更不存在 *in horrific need of 这一表达。",
+      "horrendous": "错误。horrendous 强调某事物的规模、程度、代价或恶劣品质达到“令人骇人听闻的、极其糟糕的”程度（如 horrendous costs, horrendous conditions），侧重于规模之巨或体验之恶劣，但缺乏 dire 所特有的“迫切需要立即干预救助”的紧迫性语义素，且与 'in...need of' 搭配属于语病。",
+      "awful": "错误。awful 在现代英语中多用于非正式或口语语体，意为“糟糕的、极差的”，其严肃性与语义饱和度严重不足；在庄重的新闻与学术语体中用于修饰制度性危机存在明显的语体降格（register clash），且 *in awful need of 亦不符合标准搭配规范。"
+    },
+    "translation": "受多年体制性忽视与长期资金短缺的拖累，该地区公共卫生体系急需进行结构性改革，目前甚至缺乏应对激增的季节性流行病的基本诊断设备。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_06",
+    "group_id": 383,
+    "group_name": "dire, horrific, horrendous, awful",
+    "level": "TEM-8",
+    "target_word": "horrific",
+    "question": "Distinguishing Ann Radcliffe's psychological suspense from Matthew Lewis's visceral aesthetic, Gothic scholars contrast the transcendent terror of the sublime with the overtly ___ mode that confronts readers with graphic decay and physical abjection.",
+    "options": [
+      "dire",
+      "horrific",
+      "horrendous",
+      "awful"
+    ],
+    "answer": "horrific",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "句中构建了哥特文学批评（Gothic scholarship）中经典的理论二元对立：安·拉德克利夫代表的“崇高之超越性惊恐”（transcendent terror of the sublime）与马修·路易斯代表的、以“生动的肉体腐朽与卑污”（graphic decay and physical abjection）直接冲击读者的创作范式。在文学理论与美学体系中，与 terror（惊恐/心理悬疑）相并立的专门术语正是 horrific mode（恐怖范式/令人作呕之物象范式）；其余三项均无法作为美学与文论范畴中的专门范式定语。",
+    "distractor_analysis": {
+      "horrific": "正确。在哥特文论与美学理论中，学者严格区分安·拉德克利夫式的 terror（激发敬畏与心理扩张的惊恐）与马修·路易斯式的 horror（直面血肉腐朽、令感官闭塞作呕的恐怖）。在此学术语境下，horrific mode 是指称“以展现血腥、腐败与肉体创伤为特征的恐怖范式”的标准学术专名，与后文的 'graphic decay and physical abjection' 形成完美的理论内涵映射。",
+      "dire": "错误。dire 意为“极其严重的、危急的、预示灾难的”，语义焦点在于形势的紧迫性或后果的灾难性（如 dire consequences, dire straits, dire warnings），属于描述现实危机或预警的词汇，绝对不能用于修饰文学批评中的创作模式或风格形态（*dire mode 无此搭配与含义）。",
+      "horrendous": "错误。horrendous 虽表示“可怕的、骇人听闻的、极度令人反感的”，并可广泛用于一般语境中修饰罪行或状况（如 horrendous crimes, horrendous conditions），但它纯属感叹或道德评价性形容词，在美学与文学批评中从未形成指代特定体裁或美学风格的术语地位（文论中不存在 *horrendous mode 这一范式概念），代入后破坏了学术文献的形式严谨度与术语精确性。",
+      "awful": "错误。awful 在现代英语中高度口语化、词义泛化（常弱化为泛指“极坏的、糟糕的”）；即便按其古典/文雅意义“充满敬畏的、令人肃然起敬的”（inspiring awe），在逻辑上也恰恰等同于以崇高（sublime）为内核的 terror，这与后文定语从句明确界定的“直面肉体腐朽与卑污（decay and abjection）”构成直接的逻辑反向冲突。"
+    },
+    "translation": "哥特文学学者将安·拉德克利夫的心理悬疑与马修·路易斯的感官本能美学区分开来，把崇高体验中超越性的‘惊恐’（terror）与直接向读者呈现肉体腐朽与卑污的‘恐怖范式’（horrific mode）形成了鲜明对照。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_07",
+    "group_id": 384,
+    "group_name": "docile, meek, sheepish, tame",
+    "level": "TEM-8",
+    "target_word": "docile",
+    "question": "Far from fostering intellectual inquiry, the archaic academy reduced its apprentices to ___ pupils, conditioned merely to assimilate canonized doctrines and submit without interrogation to institutional governance.",
+    "options": [
+      "docile",
+      "meek",
+      "sheepish",
+      "tame"
+    ],
+    "answer": "docile",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive semantic anchor resides in 'assimilate canonized doctrines' and 'submit... to institutional governance', which strictly mirrors the etymological definition of 'docile' (Latin docere: willing to be taught, led, or supervised; tractable).",
+    "distractor_analysis": {
+      "docile": "正确。源自拉丁语 docere（传授），MW核心定义为“willing to be taught or led or supervised; tractable”（易教导的、驯服的、服从监管的）。句中的“assimilate canonized doctrines”（吸收既定教条）和“submit... to institutional governance”（顺从体制管理）从认知灌输与行政受辖两个层面精准呼应其词源内涵。",
+      "meek": "错误。侧重指性格懦弱温顺、缺乏血气与勇气（deficient in spirit and courage），多用于遭受欺凌时隐忍不发的状态，无法体现“易于接受知识教导与规训（teachable/tractable）”的认知语义。",
+      "sheepish": "错误。指因做错事、受窘而流露出的“局促不安的、窘迫羞怯的”（awkwardly bashful or embarrassed），与学院体制对学生的认知异化及学术控制毫无语境关联。",
+      "tame": "错误。原指野兽被驯化、缺乏野性，引申指事物平淡无奇或个人锋芒尽失；它强调野性与活力的丧失，不能与“pupils”构成体现“顺应教育督导与学术指令”的高阶学术搭配。"
+    },
+    "translation": "那座因循守旧的学院远未培养出求索性的学术精神，反而将门下弟子退化为驯服顺从的门生，使他们仅仅习惯于汲取既定教条，毫无异议地服从体制管辖。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_08",
+    "group_id": 384,
+    "group_name": "docile, meek, sheepish, tame",
+    "level": "TEM-8",
+    "target_word": "meek",
+    "question": "Despite his reputation as a ferocious polemicist in print, the philosopher proved astonishingly ___ in person, recoiling from the slightest interpersonal friction and enduring the mockery of his rivals with gentle, self-effacing forbearance.",
+    "options": [
+      "docile",
+      "meek",
+      "sheepish",
+      "tame"
+    ],
+    "answer": "meek",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The decisive anchor lies in the sharp contrast between 'a ferocious polemicist in print' and someone 'recoiling from the slightest interpersonal friction and enduring the mockery of his rivals with gentle, self-effacing forbearance'. This specifically delineates an unassertive, timid, and non-retaliatory personal demeanor that bears provocation without striking back, which is the exact lexicographical definition of 'meek'.",
+    "distractor_analysis": {
+      "meek": "正确。主要指人性格“温顺谦卑的、逆来顺受的、缺乏抗争勇气的”（mild, self-effacing, deficient in spirit or courage），尤指在遭受挑衅、摩擦或伤害时温和忍让而不予反击。句中以文字上的“ferocious polemicist”（凶悍的论战家）与生活中的“recoiling from... friction”（畏缩回避摩擦）及“enduring the mockery... with gentle, self-effacing forbearance”（以温和退让的克制承受对手嘲弄）形成鲜明对照，语义契合严丝合缝。",
+      "docile": "错误。主要指“容易管教引导的、易被领导训练的（tractable, easily managed or trained）”，核心语义预设了外部的权威管束、规训或主从层级关系（如docile pupils, docile workforce）。本句描述的是平等学者同行间的论辩与私人交往，面对对手的嘲弄与人际摩擦而选择温忍退让，属于个性上的胆怯温顺（meekness），而非接受管训意义上的“驯服听话”（docility）。",
+      "sheepish": "错误。主要指因自身犯错、出丑或笨拙而表现出的“局促窘迫的、羞怯难堪的”（embarrassed, chagrined by a fault），通常用于瞬时性神情（如sheepish grin）。句中哲学家面对同行的嘲讽并未犯下值得羞愧的蠢事，此处描绘的是其一贯退缩忍让的处世性格，与sheepish所强调的尴尬羞愧无关。",
+      "tame": "错误。常用于动物（被驯化的、不凶残的）或事物/场面（平淡乏味的、缺乏刺激与活力的，如a tame debate）。修饰人时通常指被磨平棱角或缺乏狂野野性（not wild），无法与后文“recoiling from... friction and enduring mockery with gentle, self-effacing forbearance”（温和自抑地承受人际嘲讽）所构成的深层道德与性格维度的隐忍退缩相呼应。"
+    },
+    "translation": "尽管这位哲学家在著述中以辞锋犀利、咄咄逼人的论辩家著称，然而在现实交往中却显得惊人地温顺懦弱，他总是极力回避哪怕最微小的人际摩擦，并以温和退让的克制隐忍着对手的冷嘲热讽。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_09",
+    "group_id": 385,
+    "group_name": "ephemeral, transient, transitory, temporary",
+    "level": "TEM-8",
+    "target_word": "ephemeral",
+    "question": "Adapted to hyper-arid conditions, the desert basin’s ___ flora rapidly germinates, flowers, and sets seed within mere weeks of rare flash floods, completing its biological lifecycle before the parched soil completely desiccates.",
+    "options": [
+      "ephemeral",
+      "transient",
+      "transitory",
+      "temporary"
+    ],
+    "answer": "ephemeral",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor clue: The botanical context 'completing its biological lifecycle before the parched soil completely desiccates' combined with 'flora' exclusively selects 'ephemeral'. In botany and ecological sciences, 'ephemeral flora' (or 'desert ephemerals') is the precise technical designation for plants possessing an intrinsically brief life cycle that rapidly bloom and seed during fleeting moisture events.",
+    "distractor_analysis": {
+      "ephemeral": "正确。ephemeral（源自希腊语 ephēmeros，意为‘仅能维持一日的’）在植物学与生态学中是专门术语（如 desert ephemerals / ephemeral flora 短命植物群），指因适应极端干旱环境而演化出生命周期极短、在极短雨后窗口期内迅速完成发芽、开花、结籽并死亡的植物，与句意及学科搭配完美契合。",
+      "transient": "错误。transient 侧重于‘在空间上迁徙路过、短暂逗留或物理波动迅速消散’（如 transient species 候鸟等过境物种、transient signals），不能用来描述固着生长的植物自身极其短暂的‘生命周期’，属于生态学术语层面的语义错配。",
+      "transitory": "错误。transitory 侧重于哲学或抽象概念上的‘转瞬即逝、非恒久’，多用于修饰状态、情绪、荣辱或人生阶段（如 transitory feelings, transitory phase），几乎从不用于具体的自然生物实体分类修饰，无法与 flora 构成有效搭配。",
+      "temporary": "错误。temporary 强调‘暂时的、临时的、权宜之计’，通常隐含人为安排或未来会被永久性事物替代之意（如 temporary shelter, temporary measure），完全无法传达自然物种由基因决定的短暂生命演化特征。"
+    },
+    "translation": "为了适应极度干旱的环境，该荒漠盆地的短命植物群在罕见的暴洪发生后短短数周内便迅速发芽、开花并结籽，在干涸的土壤彻底脱水前便完成了其全部生物生命周期。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_10",
+    "group_id": 385,
+    "group_name": "ephemeral, transient, transitory, temporary",
+    "level": "TEM-8",
+    "target_word": "transient",
+    "question": "Because the secluded wetland serves primarily as a migratory stopover rather than a permanent breeding sanctuary, it accommodates a largely ___ avian population that feeds voraciously for several days before resuming northward flight.",
+    "options": [
+      "ephemeral",
+      "transient",
+      "transitory",
+      "temporary"
+    ],
+    "answer": "transient",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive anchor clue: The contrast between 'permanent breeding sanctuary' and 'migratory stopover', followed by 'feeds... before resuming northward flight', exclusively anchors the meaning of organisms 'passing through a place without settling'. In ecology and ornithology, non-resident organisms that visit an ecosystem temporarily during migration are specifically designated as 'transient'.",
+    "distractor_analysis": {
+      "transient": "正确。transient（源自拉丁语 transire，意为‘穿过、路过’）在生态学与生物地理学中是标准术语（transient population/species 过境种群/过客物种），与 resident（留居的）相对，精准表达鸟类仅在迁徙中途停留数日补给、并不定居筑巢而‘路过穿行’的生态学属性。",
+      "ephemeral": "错误。ephemeral 意为‘生命短暂的、朝生暮死的’。句中候鸟的自然寿命可达数年甚至数十年，它们只是在湿地逗留时间短，而非其个体生命短暂。若使用 ephemeral avian population，会荒谬地表达成该鸟类种群寿命只有几天即死亡消失。",
+      "transitory": "错误。transitory 为抽象哲学层面形容‘无常、易逝’的形容词（如 transitory nature of life），用来修饰具象的生物群体（avian population）属于范畴错配（category mistake），严重违反学术英语的搭配习惯。",
+      "temporary": "错误。temporary 虽然含有‘暂时的’含义，但在人口学或社会学中多指人为主观安排的流动（如 temporary workers），在专业动物生态学与鸟类迁徙语境中，描述过境动物种群的标准规范学术用词必然是 transient 而非 temporary。"
+    },
+    "translation": "由于这片隐秘的湿地主要作为迁徙中途停歇地而非永久性繁殖栖息地，它所接纳的大多是过境鸟类种群，它们在此狼吞虎咽地进食数天以补充能量，随后便重新启程向北飞翔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_11",
+    "group_id": 386,
+    "group_name": "esoteric, mystic, cryptic, deep",
+    "level": "TEM-8",
+    "target_word": "esoteric",
+    "question": "Preoccupied with ___ scholastic debates that resonated only within a narrow circle of doctrinal theorists, the academy's research agenda gradually detached itself from the pressing socio-economic concerns of contemporary society.",
+    "options": [
+      "esoteric",
+      "mystic",
+      "cryptic",
+      "deep"
+    ],
+    "answer": "esoteric",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“resonated only within a narrow circle of doctrinal theorists”（仅在狭隘的教条理论家圈子内引起共鸣）构成决定性语义锚点，直接呼应韦氏词典对 esoteric 的核心定义：“designed for or understood by the specially initiated alone; restricted to a small group”（仅被特定入门者理解的、圈内独享的）。其余选项均无法体现“圈子内部专门化、外界难以问津”的认知壁垒特征。",
+    "distractor_analysis": {
+      "esoteric": "正确。指“深奥难懂的、仅限圈内少数内行理解的”（requiring knowledge restricted to an initiated group）。在此处与“resonated only within a narrow circle”（仅在狭窄圈子内共鸣）以及脱离现实关怀的学术孤芳自赏（detached from socio-economic concerns）构成严丝合缝的修辞对应，准确刻画出学术辩论脱离大众、仅限专门学者理解的封闭性。",
+      "mystic": "错误。指“神秘主义的、通灵的、神圣超验的”（relating to religious mysteries or communion with the divine）。句中讨论的是经院学者的理论与学术议题（scholastic debates），属于世俗认知与理性理论范畴，并非涉及通神、灵修或宗教神秘体验，语域严重错配。",
+      "cryptic": "错误。指“隐秘的、使用密码的、故意令人费解的”（having a hidden or ambiguous meaning; coded or enigmatic）。学术争论之难懂在于其术语体系专业、门槛极高（esoteric），而非学者刻意使用暗号、谜语或加密手段（cryptic）来隐藏信息。",
+      "deep": "错误。常指“深刻的、渊博的、复杂的”。一方面，“deep debates”在此处缺乏对“圈内少数人专有”这一核心限制语境的精确匹配；另一方面，deep 往往带有正向褒义色彩，若填入 deep 则与后文批评该学术议程“脱离现实社会经济关切”的消极批判语调产生逻辑矛盾。"
+    },
+    "translation": "由于沉迷于仅在少数教条理论家圈子内引发共鸣的深奥学术争论，该研究院的研究议程逐渐脱离了当代社会紧迫的社会经济现实关切。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_12",
+    "group_id": 386,
+    "group_name": "esoteric, mystic, cryptic, deep",
+    "level": "TEM-8",
+    "target_word": "mystic",
+    "question": "Rejecting empirical observation and discursive logic, the medieval philosopher privileged ___ contemplation as the sole means of apprehending ultimate truth, asserting that the soul must transcend rational thought to experience the divine.",
+    "options": [
+      "esoteric",
+      "mystic",
+      "cryptic",
+      "deep"
+    ],
+    "answer": "mystic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中双重锚点“transcend rational thought to experience the divine”（超越理性思维以体验神性）与“Rejecting empirical observation and discursive logic”（摒弃经验观察与推演逻辑）严格限定了认知的“超验通神”性质。在哲学与神学语境中，“mystic contemplation”（神秘主义沉思/契合沉思）是固定学术表达，特指绕过感官与理性、寻求灵魂与神圣终极实体直接交融的状态。",
+    "distractor_analysis": {
+      "mystic": "正确。指“神秘主义的、超验通神的”（relating to mysticism or transcendent direct apprehension of the divine）。与句中的“contemplation”构成固定哲学搭配（mystic contemplation），且完美契合“超越理性思考以体验神圣终极真理”（transcend rational thought to experience the divine）的认知语境。",
+      "esoteric": "错误。核心义为“秘传的、深奥专门的、仅少数圈内人通晓的”（intellectually obscure, confined to initiates）。它侧重知识传播的社会圈层封闭性，而非通过精神体验超越理性以融于神性的宗教/超验认知模式。",
+      "cryptic": "错误。指“隐晦成谜的、带有密码色彩的”（perplexing, enigmatic, cipher-like），通常修饰言语、信息、表情或符号（如 cryptic message, cryptic smile），不能修饰以直接通神为目的的超验精神实践（contemplation）。",
+      "deep": "错误。虽有“深度的、深沉的”之意，且“deep contemplation”常用于表示“沉思、深思”，但在哲学与神学语境中，deep contemplation 指的是高度集中注意力的理性或心理深思，与本句明确强调的“排斥推演逻辑（discursive logic）、超越理性思维（transcend rational thought）”形成直接语义冲突。"
+    },
+    "translation": "这位中世纪哲学家摒弃经验观察与推演逻辑，将神秘沉思奉为领悟终极真理的唯一途径，坚称灵魂唯有超越理性思维方能切身体验神圣存在。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_13",
+    "group_id": 387,
+    "group_name": "exuberant, lush, luxuriant, abundant",
+    "level": "TEM-8",
+    "target_word": "exuberant",
+    "question": "Once the crippling sanctions were lifted, the border metropolis underwent a dramatic social thaw, culminating in ___ celebrations of civic liberation that filled the boulevards with music, dance, and uninhibited revelry.",
+    "options": [
+      "exuberant",
+      "lush",
+      "luxuriant",
+      "abundant"
+    ],
+    "answer": "exuberant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "culminating in ___ celebrations of civic liberation that filled the boulevards with music, dance, and uninhibited revelry",
+    "distractor_analysis": {
+      "exuberant": "正确。exuberant在韦氏词典中的核心释义之一为“joyously unrestrained and enthusiastic”（充满生机活力、兴高采烈且不受约束的）。句中修饰重获自由后的市民狂欢集会（celebrations），与定语从句中的“uninhibited revelry”（无拘无束的狂欢）形成决定性的语意同构与修辞呼应。",
+      "lush": "错误。lush侧重于植物的“多汁繁茂”（succulent growth）或感官体验的奢华丰润（如lush harmonies, lush meadows）。用于修饰社会性政治庆典属于语义场错配；若修饰人或活动，甚至可能引发关于酗酒（slang: a heavy drinker）的不当歧义，格调不符。",
+      "luxuriant": "错误。luxuriant强调物理层面的极其茂密繁盛（常指毛发、植被生机旺盛，如luxuriant foliage/hair）或装饰、文风上的极其繁复华美（ornate）。它无法用来刻画人群狂欢中喷薄而出的精神活力或情感释放状态。",
+      "abundant": "错误。abundant为纯粹描述客观数量或供应充裕的中性词（如abundant evidence, abundant natural resources）。英语中不能使用abundant来形容庆祝活动的狂放欢腾气质；即便意指数量多，也须用numerous或frequent，故此处造成严重的搭配断裂。"
+    },
+    "translation": "沉重的制裁一旦解除，这座边境大都会便迎来了剧烈的社会回暖，并最终在庆祝公民解放的狂欢庆典中达到高潮——林荫大道上回荡着音乐，激荡着舞蹈与无拘无束的欢腾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_14",
+    "group_id": 387,
+    "group_name": "exuberant, lush, luxuriant, abundant",
+    "level": "TEM-8",
+    "target_word": "lush",
+    "question": "Reflecting the director's evolving aesthetic, the soundtrack transitioned from the sparse dissonance of his debut to a ___ orchestration, characterized by sweeping strings and velvet harmonies that indulged the audience's senses.",
+    "options": [
+      "exuberant",
+      "lush",
+      "luxuriant",
+      "abundant"
+    ],
+    "answer": "lush",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "transitioned from the sparse dissonance ... to a ___ orchestration, characterized by sweeping strings and velvet harmonies that indulged the audience's senses",
+    "distractor_analysis": {
+      "lush": "正确。根据韦氏词典辨析，lush核心语义在于“having a rich, pleasurable quality appealing to the senses”（具有取悦感官的浓郁、天鹅绒般丰满品质），其权威用例即为“lush orchestrations”（管弦乐编曲极其丰满华美）。句中“sparse dissonance”（稀疏不和谐音）与“velvet harmonies that indulged the audience's senses”（沉醉感官的丝绒和声）构成了美学范式转变的决定性排他锚点。",
+      "exuberant": "错误。exuberant侧重于情绪的高涨、欢闹与生命力的外溢迸发（ebullient, high-spirited），描述的是心理或情绪状态，无法准确传达“velvet harmonies”（丝绒般柔润和声）所带来的感官沉醉与丰润听觉质感。",
+      "luxuriant": "错误。luxuriant多用于指代植物疯长、发丝浓密或洛可可式的繁复花哨装饰（elaborate ornamentation）。在音乐学与声音美学批评中，指代饱满多汁、温润华丽的配器质感时，“lush orchestration”具有不可替代的专业固定搭配地位，luxuriant属生硬误用。",
+      "abundant": "错误。abundant意为“充沛的、大量的”，仅用于指代物质或抽象要素在数量层面的富足，修饰管弦乐法（orchestration）在句法和语义上均属范畴错误（category mistake）。"
+    },
+    "translation": "随着导演美学观念的演变，电影原声配乐摒弃了其处女作中稀疏刺耳的不和谐音，转而采用一种华美丰润的管弦乐编曲，以磅礴的弦乐和天鹅绒般细腻的和声，极力取悦观众的听觉感官。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_15",
+    "group_id": 388,
+    "group_name": "fetid, foul, funky, smelly",
+    "level": "TEM-8",
+    "target_word": "fetid",
+    "question": "Victorian sanitarians distinguished between generally foul urban effluvia and genuinely ___ miasmas, reserving the latter designation for the heavy, suffocating stenches of stagnant cesspools and putrefying burial grounds that were believed to transmit epidemic disease.",
+    "options": [
+      "fetid",
+      "foul",
+      "funky",
+      "smelly"
+    ],
+    "answer": "fetid",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_PUBLIC_HEALTH",
+    "anchor_clue": "句首核心对比架构“distinguished between generally foul urban effluvia and genuinely ___ miasmas”（区分了普遍污浊的城市废气与真正……的瘴气）及分词定语从句“reserving the latter designation for the heavy, suffocating stenches of stagnant cesspools and putrefying burial grounds”（将后一称谓专门赋予停滞污水坑与腐败墓地的沉重窒息性恶臭）构成了双重决定性排他锚点：一方面，前文已使用 foul，若在对比项空格中再选 foul，将导致“区分 generally foul 与 genuinely foul，并把 foul 这一称谓专属指派给后者”的致命逻辑矛盾与修辞反复；另一方面，从句中“stagnant”（停滞的）与“putrefying”（腐烂发臭的）直接对应 Merriam-Webster 对 fetid 的核心界定（“suggests the heavy offensive smell of decay or of things that are stagnant”），在维多利亚公共卫生学语域中具有排他唯一性。",
+    "distractor_analysis": {
+      "fetid": "【正确】作形容词，意为“恶臭的、腐烂发臭的”，专指有机物腐烂分解、坏死组织或死水停滞所产生的沉重浓烈恶臭（MW: suggests the heavy offensive smell of decay or of things that are stagnant）。句中它与前项的 foul 形成精妙的层递界定对比，并与后文“heavy, suffocating stenches of stagnant cesspools and putrefying burial grounds”形成词典级的语义互文，完全契合19世纪公共卫生史与瘴气理论的高端学术语域。",
+      "foul": "【排除】作形容词意为“污秽的、难闻的、邪恶的”。尽管在日常表达中 foul 可用来形容腐烂恶臭，但本句前半部分已明确将其作为宽泛对比基准（“distinguished between generally foul urban effluvia...”）；若在后项空格中再次填入 foul，将造成“区分普遍 foul 与真正 foul，且将 foul 专属指派给后者”的荒谬语篇同义反复与逻辑崩溃，在修辞与语义连贯性上被绝对排除。",
+      "funky": "【排除】属于20世纪非正式口语及俚语（informal/slang），常指带有浓烈体味、霉味的，或用于音乐与时尚中表示“放克风的、时髦古怪的”。将其置于讨论维多利亚时代卫生改革与流行病成因的严肃历史学术文本中，会产生严重的时代倒错（anachronism）与剧烈的语体风格冲突（register clash）。",
+      "smelly": "【排除】为初级日常基础词汇（elementary/colloquial），语义泛化且常带有儿童口语色彩，在探讨流行病学病因、恶臭瘴气分类的高阶学术文本中显得极其幼稚，完全无法满足英语专业八级学术散文的文体庄重度要求。"
+    },
+    "translation": "维多利亚时代的公共卫生学家将普遍污浊的城市废气与真正恶臭的瘴气区分开来，并将后一种称谓专门赋予停滞的污水坑和腐烂的墓地所散发出的沉重窒息性恶臭——人们当时认为正是这些恶臭传播了流行性疾病。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_16",
+    "group_id": 388,
+    "group_name": "fetid, foul, funky, smelly",
+    "level": "TEM-8",
+    "target_word": "foul",
+    "question": "Sociolinguistic analyses revealed that courtroom juries routinely penalize litigants who resort to ___ language, interpreting such vulgar invective not as righteous indignation, but as compelling evidence of an uncooperative and hostile character.",
+    "options": [
+      "fetid",
+      "foul",
+      "funky",
+      "smelly"
+    ],
+    "answer": "foul",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟的核心搭配词“language”以及同位语解释“interpreting such vulgar invective”（将此类粗俗辱骂解读为……）构成了决定性排他锚点。“foul language”（污言秽语、粗鄙之语）是社会语言学、法庭心理学及法律英语中高度固定的专门搭配；同义词群中其余三词均被严格限定在物理嗅觉领域，绝不可引申用于修饰语言言语。",
+    "distractor_analysis": {
+      "foul": "【正确】作形容词时具有丰富的多义性与抽象引申义，除感官上的污浊外，可引申指“粗鄙下流的、令人作呕的、违背公序良俗的”，在此处与 language 构成法庭语境下的成熟标准搭配“foul language”（粗话、污言秽语），与下文的“vulgar invective”形成精确呼应。",
+      "fetid": "【排除】语义范畴极为单一狭窄，严格限定于形容“腐烂、停滞恶臭的物理气味”（如 fetid breath、fetid marsh），不存在任何引申修饰言辞表达或行为态度的用法，“fetid language”属于严重的搭配断裂（collocational rupture）。",
+      "funky": "【排除】为口语及俚语词汇，用于音乐时指“具有节奏感的”，口语中指“古怪奇特的”或“体味难闻的”，绝无法与 language 搭配表达“辱骂性粗话”，在语义和学术语域上均不成立。",
+      "smelly": "【排除】为基础日常口语词，仅表示物理层面的“发臭的”，修饰抽象概念 language 既不存在此类英语习惯用法，也造成了荒诞的语义与文体错误。"
+    },
+    "translation": "社会语言学分析显示，法庭陪审团通常会严厉惩戒使用污言秽语的诉讼当事人，因为陪审员不会将这种粗俗辱骂视为义愤填膺，而是将其解读为当事人不合作且具有敌对性格的有力证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_17",
+    "group_id": 389,
+    "group_name": "fictitious, sham, counterfeit, false",
+    "level": "TEM-8",
+    "target_word": "fictitious",
+    "question": "The forensic audit revealed that the reported balance sheet had been artificially inflated through billions of dollars in ___ assets, which existed solely as arbitrary bookkeeping inventions devoid of tangible economic reality.",
+    "options": [
+      "fictitious",
+      "sham",
+      "counterfeit",
+      "false"
+    ],
+    "answer": "fictitious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中非限制性定语从句 'which existed solely as arbitrary bookkeeping inventions devoid of tangible economic reality' 明确指出该资产纯属无中生有、凭空捏造的账面产物。在法务审计与会计学中，表示‘无实体且在客观世界中根本不存在的纯虚构资产’具有唯一专属性术语 'fictitious assets'。",
+    "distractor_analysis": {
+      "fictitious": "正确。Merriam-Webster将其核心义界定为 'formed or created by the imagination' 以及 'adopted in order to deceive; having no basis in fact or reality'。在财务审计与商业法专业语境中，'fictitious assets'（虚构资产）是固定专业术语，指完全不存在于现实世界、仅在账面上凭空捏造出来的资产，与后文的 'arbitrary bookkeeping inventions'（随意的簿记捏造物）形成严丝合缝的语义互锁。",
+      "sham": "错误。sham强调事物具有某种外在伪装或模拟形式（pretense/simulation），但缺乏实际效力或内在真实性，多修饰程序、行为、机制或人际安排（如 sham transaction 虚假交易、sham trial 虚假审判、sham marriage 假结婚）。账面上根本不存在的资产属于‘凭空造无’的产物，不能与 assets 构成表示造假资产的规范学术搭配。",
+      "counterfeit": "错误。counterfeit严格指涉对真实的法定货币、证件、商品或原件进行物理上的仿造或伪造（如 counterfeit banknotes, counterfeit passports），强调具有旨在以假乱真的‘物理仿制品’。账面捏造的资产并非对某种真实物品的物理复制仿造，词义范畴严重不匹配。",
+      "false": "错误。false是日常通识词汇，语义泛化，通常指陈述不符合事实、前提有误或客观上的不真实（如 false premise, false statement）。在高度正式的会计学与反欺诈审计语境中，描述凭空捏造的虚假资产必须使用具有特定学术界定的术语 fictitious assets，使用 false assets 既不符合专业搭配惯例，亦无法精确传达‘毫无事实根据的纯概念捏造’之意。"
+    },
+    "translation": "司法审计显示，该公司的资产负债表因数十亿美元的虚构资产而被蓄意虚增，而这些资产纯属毫无实体经济基础可言的账面伪造物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_18",
+    "group_id": 389,
+    "group_name": "fictitious, sham, counterfeit, false",
+    "level": "TEM-8",
+    "target_word": "sham",
+    "question": "International observers unequivocally denounced the parliamentary vote as a ___ election, arguing that the prearranged outcome, systemic suppression of dissent, and state-controlled media rendered the entire democratic exercise an elaborate pretense.",
+    "options": [
+      "fictitious",
+      "sham",
+      "counterfeit",
+      "false"
+    ],
+    "answer": "sham",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的核心定性短语 'rendered the entire democratic exercise an elaborate pretense'（使整场民主活动沦为一场精心策划的伪装），直接对应 Merriam-Webster 对 sham 的核心语义辨析：'SHAM implies an obvious and deceitful pretense or fraudulent simulation'。该选举确实举行了投票，具备外在仪式，但实质上是一场欺骗性的走过场演出。",
+    "distractor_analysis": {
+      "sham": "正确。Merriam-Webster明确指出 'SHAM implies an obvious and deceitful pretense or fraudulent simulation'。在政治学与国际公法话语中，'sham election'（虚假选举、走过场的伪选举）是绝对高频的标准搭配，专指具备投票与计票的表面制度形式，但因结果被内定、异见遭压制而沦为纯粹伪装欺人（elaborate pretense）的政治操弄，与句意和语域完全契合。",
+      "fictitious": "错误。fictitious的核心含义是‘虚构的、想象出来的、在现实中从未实际发生或不存在的’。题干中的议会选举在物理现实中切实举行过，伴随着选民受控、媒体干预等真实行为，并非一段杜撰出来的寓言或子虚乌有的事件；若填入 fictitious election，语义将荒谬地扭曲为‘在现实中从未举行过的凭空捏造出来的选举’，造成逻辑断裂。",
+      "counterfeit": "错误。counterfeit仅用于修饰对具体物品、货币、艺术品或公文的伪造以假充真，属于有形实物的仿制概念，绝不能修饰 election 等宏观政治、法律或社会程序性活动，属于严重的搭配范畴错误。",
+      "false": "错误。false语义宽泛，侧重于与事实相反或不真实。在英语政论与学术语体中，并不存在 '*a false election' 这种搭配表达；描绘具有欺骗性外壳但缺乏内在合法性的制度化闹剧时，必须使用表‘欺骗性伪装’的专属形容词 sham。"
+    },
+    "translation": "国际观察员一致谴责此次议会投票为一场虚假选举，认为内定的结果、对异见的系统性压制以及国家控制的媒体，使整场民主活动沦为一场精心策划的政治伪装。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_19",
+    "group_id": 390,
+    "group_name": "fleeting, fugitive, momentary, short",
+    "level": "TEM-8",
+    "target_word": "fleeting",
+    "question": "Although the ratification of the armistice sparked boundless relief across the capital, the diplomatic euphoria proved ___, collapsing within months under the weight of irreconcilable territorial disputes.",
+    "options": [
+      "fleeting",
+      "fugitive",
+      "momentary",
+      "short"
+    ],
+    "answer": "fleeting",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "Temporal-scale and collocational anchor: 'diplomatic euphoria proved ___' contrasted with 'collapsing within months'. An abstract socio-political condition that dissipates over several months collocate uniquely with 'fleeting' (stressing rapid passage/evaporation), while definitively excluding 'momentary' (which strictly denotes of a moment's duration, i.e., seconds), 'fugitive' (restricted to elusive impressions, volatile scents, or fading pigments), and 'short' (which cannot predicatively describe 'euphoria', grammatically requiring the compound 'short-lived').",
+    "distractor_analysis": {
+      "fleeting": "正确。fleeting 源自动词 fleet（飞逝、掠过），在韦氏词典中明确强调事物消逝极其迅速、难以持久留存（stresses the rapidity of passage or disappearance）。在政治学、外交史及高阶报刊学术文本中，'euphoria proved fleeting'（狂热/乐观情绪被证明转瞬即逝）是高度地道的经典搭配。句中以 'collapsing within months'（在数月内瓦解）作为宏观时间锚点，完美体现了原本高涨的政治情绪在历史现实中迅速幻灭的动态过程。",
+      "fugitive": "错误。fugitive 作形容词时，核心义项指“逃亡的、难以捉摸的、易挥发/易褪色的”（having an elusive, baffling, or evanescent quality）。它在学术与文学语境中多修饰稍纵即逝的感官印象、难以定形的思绪、易褪色的染料或易消散的气味（如 fugitive impressions, fugitive colors/dyes, fugitive odors），不可用于修饰宏观政治狂热或公共情绪（不存在 fugitive euphoria 的用法），属于语义范畴与修饰对象的错配。",
+      "momentary": "错误。momentary 在韦氏词典中严格界定为“仅持续片刻的、瞬间发生的”（lasting for a moment : of a moment's duration），如 a momentary pause, a momentary lapse。句中明确指出该外交狂热状态持续并最终在“数月之内”（within months）瓦解；一个以月为跨度的历史阶段绝不能使用以“秒/瞬间”为尺度单位的 momentary 来修饰，在时间语义尺度上构成不可调和的逻辑矛盾。",
+      "short": "错误。short 作为基础物理/时间度量词，在描述抽象的心理状态、政治氛围或社会情绪的短暂存续时，英语在句法与搭配上必须使用复合形容词 short-lived（如 the diplomatic euphoria proved short-lived），而不能直接使用单纯形容词 short 作表语修饰 euphoria（*euphoria proved short 在现代标准英语中属于严重的搭配不当与语病）；此外，short 也完全无法体现高级政论语境所需的典雅书面质感。"
+    },
+    "translation": "尽管停战协定的批准在首都引发了无尽的宽慰，但这场外交层面的狂热乐观最终被证明转瞬即逝，在短短数月之内便在不可调和的领土争端重压下瓦解冰消。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b38_20",
+    "group_id": 390,
+    "group_name": "fleeting, fugitive, momentary, short",
+    "level": "TEM-8",
+    "target_word": "fugitive",
+    "question": "Botanists observed that the alpine lichen synthesizes remarkably ___ pigments, which fade rapidly when exposed to ultraviolet radiation, unlike the stable melanin compounds found in adjacent flora.",
+    "options": [
+      "fleeting",
+      "fugitive",
+      "momentary",
+      "short"
+    ],
+    "answer": "fugitive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Technical and semantic opposition between '___ pigments, which fade rapidly' and 'stable melanin compounds', uniquely selecting the chemical/botanical term for light-sensitive impermanence.",
+    "distractor_analysis": {
+      "fugitive": "正确。fugitive 在自然科学、植物学与色彩化学中具有不可替代的专门语义，韦氏词典释义为 'likely to evaporate, deteriorate, or change: evanescent (fugitive aromas; fugitive colors)'。'fugitive pigments/dyes' 是专有名词化的标准搭配，特指‘不耐光的、易褪色的色素’，与后文的 'stable'（稳定的、耐光的）构成严密的学术逻辑对义。",
+      "fleeting": "错误。fleeting 侧重时间或动态动作的‘飞逝’（如 a fleeting smile, fleeting time），用于修饰具体化学物质或色素（*fleeting pigments）属于严重的语义范畴越界与搭配不当。",
+      "momentary": "错误。momentary 意为‘仅持续片刻的’，色素本身是客观存在的有机化合物，其光解褪色是一个理化过程，绝不能用形容瞬时状态的 momentary 来修饰。",
+      "short": "错误。short 表示时间跨度或物理尺寸短小，不能用来形容化学物质的光稳定性或抗褪色能力（*short pigments 属词汇误用）。"
+    },
+    "translation": "植物学家观察到，这种高山地衣合成的是极易褪色的不稳定色素，与相邻植物区系中发现的稳定黑色素化合物截然不同，在暴露于紫外线辐射时会迅速分解褪色。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

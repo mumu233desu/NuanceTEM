@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b42_01",
+    "group_id": 421,
+    "group_name": "reputable, estimable, good, respectable",
+    "level": "TEM-8",
+    "target_word": "reputable",
+    "question": "To shield corporate networks from interception, the revised cybersecurity framework dictates that system administrators obtain digital credentials exclusively through a ___ certificate authority accredited under international public-key infrastructure standards.",
+    "options": [
+      "reputable",
+      "estimable",
+      "good",
+      "respectable"
+    ],
+    "answer": "reputable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_TECHNOLOGY",
+    "anchor_clue": "In network security and cryptography, 'a reputable certificate authority' is the standard institutional term of art for a digitally audited, trusted root issuer; inanimate cryptographic infrastructure cannot possess human social propriety ('respectable') or moral virtue ('estimable').",
+    "distractor_analysis": {
+      "reputable": "【正确】意为“信誉良好的、享有声誉的”。在公钥基础设施（PKI）及网络治理规程中，“reputable certificate authority”（信誉良好的证书颁发机构）是国际公认的技术规范术语与经典固定搭配，指经严格第三方审计认证、根证书预埋于主流操作系统与浏览器受信列表中的权威签发机构，完美契合后文“accredited under international public-key infrastructure standards”。",
+      "estimable": "【错误】意为“令人钦佩的、值得崇敬的”，在语义范畴上专门修饰具有高尚道德情操、卓越品行或杰出学术/社会贡献的个体及其品质（如 an estimable scholar, estimable deeds），无法修饰属于密码学信任锚点与技术系统的“certificate authority”，存在明显的本体范畴错配（category mistake）。",
+      "good": "【错误】词义宽泛泛化，语体风格极其通俗口语化，无法满足企业级网络安全合规框架及国际标准化规范所要求的专业术语精度与制度公信力属性。",
+      "respectable": "【错误】核心语义为“（在举止、衣着、社会地位上）体面的、符合社会习俗与规范的”（conforming to socially acceptable decorum），或引申为“差强人意的、尚可的（passable/fair）”。其一，数字证书颁发机构是冷硬的算法与数字基建设施，不具备人类社会的阶层体面或社会礼节，修饰该词产生严重的拟人化语义冲突与搭配断裂；其二，若理解为其弱化义“尚可的/中规中矩的”，则与后文严苛的国际PKI审计认证标准形成明显的语义极性冲突。"
+    },
+    "translation": "为保护企业网络免受数据拦截，修订后的网络安全框架明确规定，系统管理员必须且仅能通过符合国际公钥基础设施标准认证的信誉优良的证书颁发机构获取数字凭证。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_02",
+    "group_id": 421,
+    "group_name": "reputable, estimable, good, respectable",
+    "level": "TEM-8",
+    "target_word": "estimable",
+    "question": "While the candidate lacked charismatic eloquence, her cabinet colleagues prized her unyielding probity and intellectual humility as truly ___ qualities essential for navigating the turbulent constitutional crisis.",
+    "options": [
+      "reputable",
+      "estimable",
+      "good",
+      "respectable"
+    ],
+    "answer": "estimable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'qualities' (specifically referring to inner moral virtues: 'unyielding probity and intellectual humility') forms the classic, high-register collocation 'estimable qualities' (令人敬佩的品质), denoting intrinsic moral/intellectual worth rather than commercial reputation or social conformity.",
+    "distractor_analysis": {
+      "estimable": "【正确】意为“令人敬佩的、可钦佩的”，源自对内在品质、德行或学识的高度尊崇，与“qualities”构成高阶典雅文体中的经典固有搭配（estimable qualities），精准呼应前文列举的内在道德品质“unyielding probity and intellectual humility”（刚正不阿与知识谦逊）。",
+      "reputable": "【错误】意为“声誉卓著的、信誉良好的”，侧重指依靠公众舆论或商业/社会评价建立的外部良好名誉，通常修饰机构、公司、出版平台或执业人员（如 reputable firm, reputable doctor），不能用于修饰抽象的人格道德品质（*reputable qualities 属严重搭配不当）。",
+      "good": "【错误】含义单薄浅显，属于基础词汇，置于“unyielding probity”和“intellectual humility”等庄重哲学/政治语汇构成的语境中，会产生严重的文体语域断层（stylistic clash）。",
+      "respectable": "【错误】常指“体面的、合乎社会规范的”或“过得去的（passable/mediocre）”，强调行为符合资产阶级世俗规范或达到及格线，用于修饰应对宪政危机所必需的崇高道德典范时，在语意高度上显得过于庸俗和平庸。"
+    },
+    "translation": "尽管该候选人缺乏极具感染力的雄辩口才，但其内阁同僚却将其刚正不阿的操守与思想上的谦逊视为真正令人敬佩的品质，而这些品质在应对动荡的宪政危机时至关重要。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_03",
+    "group_id": 422,
+    "group_name": "rigorous, stringent, tight, demanding",
+    "level": "TEM-8",
+    "target_word": "rigorous",
+    "question": "Although the manuscript was praised for its stylistic elegance, the peer reviewers concluded that the author's archival research was not methodologically ___ enough to substantiate such sweeping revisionist claims.",
+    "options": [
+      "rigorous",
+      "stringent",
+      "tight",
+      "demanding"
+    ],
+    "answer": "rigorous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中核心搭配为修饰学术研究质地（archival research）及与方法论副词（methodologically）连用，且语境明确指向论据能否“证实重大推翻性学术主张（substantiate sweeping revisionist claims）”，唯有强调学术方法与论证过程严密精确的 rigorous 能够成立。",
+    "distractor_analysis": {
+      "rigorous": "正确。根据《韦氏词典》（Merriam-Webster），rigorous 特指“strict adherence to rules, standards, or tenets, especially in discipline, scientific method, or logic”（尤指在学术规范、科学方法或逻辑体系中严格遵循标准、缜密求精）。在学术出版与同行评议语境中，“methodologically rigorous research”是极为经典的核心搭配，完全契合题干中以严密考据支撑学术论断的逻辑要求。",
+      "stringent": "错误。《韦氏词典》指出 stringent 侧重于“severe, tight restrictions or requirements”（严厉的规章制度、强制性法规或财政束缚），其典型搭配为 stringent regulations, stringent laws, stringent budget 或 stringent criteria 等外部施加的限制与规约。它无法用于修饰学术探究过程本身，在学术英语中不存在“methodologically stringent research”的用法，属于语义范畴错配。",
+      "tight": "错误。tight 强调物理空间紧凑、时间紧迫或资源拮抗（如 tight schedule, tight budget, tight control）。在正式学术语域中，tight 不能与副词 methodologically 搭配修饰 archival research，用在此处既破坏学术语体严肃性，亦属搭配不当。",
+      "demanding": "错误。《韦氏词典》指出 demanding 意为“requiring much in the way of effort, endurance, or skill”（需要付出大量精力、耐力或技能的），用于形容任务、职业或受众令人感到繁重吃力（如 demanding task, demanding career）。学术结论能否成立取决于研究本身的“严谨性与可靠性”（rigor），而非研究过程对学者而言多么“费力繁重”（demandingness），存在逻辑指向与修饰层面的双重错位。"
+    },
+    "translation": "尽管该书稿因其优美的文笔而受到赞誉，但同行评审专家一致认为，作者的档案文献研究在方法论上不够严谨，不足以支撑如此重大的颠覆性学术论断。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_04",
+    "group_id": 422,
+    "group_name": "rigorous, stringent, tight, demanding",
+    "level": "TEM-8",
+    "target_word": "stringent",
+    "question": "To avert ecological collapse in delicate river basins, the ministry enacted remarkably ___ statutory limits on industrial effluent, compelling chemical conglomerates to overhaul their discharge systems.",
+    "options": [
+      "rigorous",
+      "stringent",
+      "tight",
+      "demanding"
+    ],
+    "answer": "stringent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "由谓语动词“enacted”（颁布）与宾语“statutory limits on industrial effluent”（工业废水法定限额）构成的法规行政语境，要求选用专指法令、规章与标准之“严厉、严苛、具有强制惩戒力”的限定词。",
+    "distractor_analysis": {
+      "stringent": "正确。stringent 专指法律条文、行政禁令、安全指标或准则的“严厉、苛刻、强制性紧缩”（marked by rigor, strictness, or severity with respect to rule or standard），与 enacted statutory limits 构成法政公文语域下的完美搭配。",
+      "rigorous": "错误。rigorous 偏重于逻辑上的严密、学术思维的审慎或训练的严酷（thorough and meticulous），不适用于形容具有强制法律约束力、旨在设立限制门槛的法定排污指标（statutory limits）。",
+      "tight": "错误。tight 虽然有“严密、紧缩”之意（如 tight limits），但在面对高级法律及政经文本动词“enacted”与正式概念“statutory limits”时，文体色彩过于口语和松散，存在明显的文体层级冲突（stylistic clash）。",
+      "demanding": "错误。demanding 侧重“需要付出艰苦努力的、耗费精力的”（taxing, requiring much effort），主语或修饰对象多为作业或行为过程，无法修饰国家机关颁布的“法定限制”（无法成立“enact demanding limits”）。"
+    },
+    "translation": "为了防止脆弱河流流域出现生态崩溃，该部委针对工业废水颁布了极为严苛的法定排放限值，迫使化工巨头全面改造其排污系统。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_05",
+    "group_id": 423,
+    "group_name": "stalwart, robust, hardy, stout",
+    "level": "TEM-8",
+    "target_word": "stalwart",
+    "question": "Recognized for decades as a dependable ___ of the parliamentary faction, the veteran diplomat firmly resisted partisan entreaties to alter the treaty, thereby preserving the delicate geopolitical equilibrium established under international law.",
+    "options": [
+      "stalwart",
+      "robust",
+      "hardy",
+      "stout"
+    ],
+    "answer": "stalwart",
+    "primary_mechanism": "MECH_SYNTACTIC_SELECTION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句中空格受不定冠词 'a' 与形容词 'dependable' 修饰，后接介词短语 'of the parliamentary faction'，并在逻辑上作为同位伴随语指代后文的核心人物 'the veteran diplomat'。该句法结构强制要求空格处必须为单数可数名词，且语义专指组织或派系中'忠实可靠的骨干成员/中坚力量'。根据《韦氏词典》与《牛津英语大词典》，本组词中仅有 stalwart 具备该核心名词义项（an unwavering, dependable, and staunch participant, supporter, or member as of a political party or movement），构成政治学与国际关系文献中的经典搭配（如 a stalwart of the party/faction）。其余三项皆因词性缺失或名词语义范畴严重冲突而在句法上无法成立。",
+    "distractor_analysis": {
+      "stalwart": "正确。stalwart 用作名词时意为“（政党、团体或阵营的）中坚分子、骨干成员、坚定拥护者”，在句法上完美符合“a dependable [noun] of the parliamentary faction”的名词中心语要求；在文体与语境上，它是国际政治与外交公文（如 Foreign Affairs、The Economist）指代立场坚定、捍卫组织原则的资深要员的标准用词，与后文抵制党派游说、维护条约平衡的行为高度契合。",
+      "robust": "错误。robust 在现代英语中是纯形容词（意为“强健的、稳健的、强有力的”，如 robust debate, robust economy），完全不具备名词用法。置入“a dependable ___ of...”句型中会导致严重的句法违例（syntactic violation），无法充当可数名词指代外交官。",
+      "hardy": "错误。hardy 作为名词使用时属于专门的植物学词汇，指“耐寒植物（尤指多年生宿根植物）”，或指铁匠所用的“方头砧凿”。它完全无法作为指人名词用来指代政治派系的成员或忠诚支持者，在语义范畴和句法选择限制上均产生严重错误（category violation）。",
+      "stout": "错误。stout 用作名词时主要指“烈性黑啤酒”（如司陶特黑啤）或特大号服装，在现代标准高阶英语中绝无指代“派系骨干或忠贞成员”的名词词义。填入此处不仅破坏句法结构，更会造成荒诞的语意断裂。"
+    },
+    "translation": "数十年来，这位资深外交官一直被公认为该议会派系的可靠中坚力量；他坚决抵制了要求修改该条约的党派游说，从而维护了国际法框架下建立的微妙地缘政治平衡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_06",
+    "group_id": 423,
+    "group_name": "stalwart, robust, hardy, stout",
+    "level": "TEM-8",
+    "target_word": "robust",
+    "question": "To withstand rigorous epistemological skepticism, the research team formulated a ___ theoretical framework that consistently accounted for empirical anomalies and resisted confounding variables across diverse experimental conditions.",
+    "options": [
+      "stalwart",
+      "robust",
+      "hardy",
+      "stout"
+    ],
+    "answer": "robust",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空缺处所修饰的核心名词为抽象认知构型 'theoretical framework'（理论框架），后续限制性定语从句明确其功能特征为 'consistently accounted for empirical anomalies and resisted confounding variables'（能合理解释经验反常并抵御混淆变量的干扰）。在认知科学与学术科研语境中，robust 是描述模型、框架、方法论具有'稳健性、抗扰性与解释力'的唯一专门术语（robust framework / robust methodology）。其余三项皆不能修饰抽象理论架构。",
+    "distractor_analysis": {
+      "robust": "正确。robust 在现代学术与科学哲学语境中为核心术语，专指系统、模型、证据或理论框架在面对变量扰动、反例挑战时表现出的'稳健的、经得起检验的、健全有力的'品质，与后文抵御混杂变量并解释经验反常形成严密的逻辑共振。",
+      "stalwart": "错误。stalwart 的语义基石是人的人格品质、身体强健或政治/思想忠诚（loyal and resolute），只能修饰人、人的忠诚或具有拟人化人格特征的盟友与防守行动，绝对不能修饰 'theoretical framework' 这一抽象分析工具，属于本体范畴违背。",
+      "hardy": "错误。hardy 专指动植物耐寒、耐旱或人耐受严酷生存环境的生理耐受力（如 hardy plants, hardy constitution），不可迁移用于指代抽象学术模型或分析框架的稳健性，搭配断裂。",
+      "stout": "错误。stout 主要指具体物理实体的坚固厚实（如 a stout stick, stout walls）或人的体态粗短、精神上的顽强不屈（stout defense），在现代学术英语中不能修饰 theoretical framework，无法表达方法论意义上的'稳健性'。"
+    },
+    "translation": "为了经受住严苛的认识论怀疑，该研究团队构建了一个稳健的理论框架，该框架不仅能始终如一地解释经验反常，还能在各种不同的实验条件下抵御混杂变量的干扰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_07",
+    "group_id": 424,
+    "group_name": "steep, precipitous, bold, sharp",
+    "level": "TEM-8",
+    "target_word": "steep",
+    "question": "Although the sovereign wealth fund successfully acquired minority equity in the rare-earth developer, it paid a ___ premium over prevailing market valuations, underscoring escalating state competition for critical minerals.",
+    "options": [
+      "steep",
+      "precipitous",
+      "bold",
+      "sharp"
+    ],
+    "answer": "steep",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "The verb-noun frame 'paid a ___ premium over prevailing market valuations' demands an adjective modifying a quantitative financial markup to denote 'exorbitant or exceptionally high'. In corporate finance, 'steep premium' is the definitive academic collocation.",
+    "distractor_analysis": {
+      "steep": "正确。steep 在高阶财经与学术英语中常引申指价格、成本、罚金或溢价‘过高的、极其昂贵的、令人难以承受的’（exorbitant, excessively high）。'pay a steep premium (over...)' 是公司金融、战略并购与地缘经济学文献中的核心学术搭配（MECH_COLLOCATION），精准描述因激烈战略竞争而支付的畸高溢价。",
+      "precipitous": "错误。precipitous 专指物理上的‘垂直悬崖般的’，或比喻义中的‘断崖式暴跌的’（如 precipitous decline/fall）以及‘轻率鲁莽的’（precipitous action）。premium 本质为基准价值之上的‘正向溢价’，与表示‘灾难性坠落’的 precipitous 产生不可调和的语义逻辑与极性冲突。",
+      "bold": "错误。bold 侧重于‘果敢的、大胆的、醒目的’，其选择限制（selectional restriction）通常作用于施事主体的行为、决策或假说（如 bold bid, bold maneuver, bold hypothesis），不能直接修饰作为静态金融溢价值的 premium，属于搭配范畴错配。",
+      "sharp": "错误。sharp 用于经济与计量语境时，修饰的是动态变化的‘剧烈、急骤’（如 a sharp increase/fluctuation）或分类边界的‘清晰鲜明’（a sharp distinction）。在描述偏离公允价值的固定溢价幅度时，标准学术英语使用 steep 或 hefty，'sharp premium' 属于非典型语用畸变。"
+    },
+    "translation": "尽管该主权财富基金成功收购了这家稀土开发公司的少数股权，但其支付的价格较现行市场估值存在极高溢价，这凸显了各国围绕关键矿产日益升级的国家竞争。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_08",
+    "group_id": 424,
+    "group_name": "steep, precipitous, bold, sharp",
+    "level": "TEM-8",
+    "target_word": "precipitous",
+    "question": "The defense committee advocated a phased, conditions-based drawdown of deployed troops, warning that a ___ withdrawal would compromise operational readiness and leave allied regional governments vulnerable to insurgent attacks.",
+    "options": [
+      "steep",
+      "precipitous",
+      "bold",
+      "sharp"
+    ],
+    "answer": "precipitous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS_MILITARY",
+    "anchor_clue": "The discursive contrast with 'a phased, conditions-based drawdown' alongside the established strategic defense collocation with 'withdrawal' definitively mandates 'precipitous' (in its specific sense of rash, headlong, and ill-considered haste).",
+    "distractor_analysis": {
+      "precipitous": "正确。precipitous 在此取其高级核心义项“草率仓促的、急躁冒进的”（Merriam-Webster: exhibiting violent or unwise speed: headlong, rash）。在防务战略与国际关系话语体系中，“precipitous withdrawal”（仓促撤军/盲目撤退）是极其固定且高频的专业搭配。句中前半部分的“phased, conditions-based drawdown”（循序渐进且视条件而定的分阶段削减）与后半句的“___ withdrawal”构成了决定性的对立反衬锚点，精准对应因缺乏深思熟虑而造成的草率撤离。",
+      "steep": "错误。steep 侧重指斜坡倾斜度极大（陡峭），或数据、指标在图表上的“剧烈起伏”（如 steep decline/rise）。steep 只能修饰几何坡度或标量走势，不可修饰军事行动或行政决策（如撤军），“steep withdrawal”在英语中属于严重的搭配失范（collocational rupture）。",
+      "bold": "错误。bold 意为“大胆的、勇敢的、果断的”（courageous, daring），通常带有正面评价或彰显果敢魄力的语义色彩。而句中语境是防务委员会提出严正警告（warning that...），强调仓促行动将损害战备并置盟友于危险境地；填入 bold 既无法与“phased, conditions-based”形成关于“节奏与周密性”的逻辑反差，也彻底违背了全句的警戒性负面语调。",
+      "sharp": "错误。sharp 侧重指“锋利的、敏锐的、清晰的”或几何角度、走势上的“急剧突变”（如 sharp turn, sharp drop）。sharp 无法修饰撤军行动名词 withdrawal，“sharp withdrawal”在国际政治与防务语体中不合习惯用法，且完全缺失“缺乏审慎铺垫、鲁莽草率”的内在语义特征。"
+    },
+    "translation": "防务委员会主张对驻外驻军实行视局势条件而定、分阶段进行的渐进式削减，并警告称，仓促草率的全面撤离将破坏战备状态，并使盟国地方政府极易遭受叛乱分子的袭击。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_09",
+    "group_id": 425,
+    "group_name": "turbid, opaque, muddy, cloudy",
+    "level": "TEM-8",
+    "target_word": "turbid",
+    "question": "Unlike the limpid and precise formulations of her earlier monographs, the theorist’s late work descends into a ___ stream of convoluted rhetoric, roiled by personal resentments and intellectual insecurity.",
+    "options": [
+      "turbid",
+      "opaque",
+      "muddy",
+      "cloudy"
+    ],
+    "answer": "turbid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首由“Unlike”引出的文体学反义词“limpid（明澈干练的）”与后文修饰“stream（河流/思潮）”的分词短语“roiled by（因……而被搅浑/翻腾）”构成了决定性互锁锚点。“turbid”的核心语义即指液体或文风被翻搅（roil）而显得“浑浊杂乱”，是英语文学与学术批评中对应“limpid”的标准典雅反义词。",
+    "distractor_analysis": {
+      "turbid": "正确。turbid 在认知与文艺批评（FIELD_COGNITION）语境中，指思绪或文风“混乱晦涩的、泥沙俱下的”，尤指受激烈情绪搅扰而失去纯净清晰的状态。此处与前半句的“limpid（清澈澄明的）”形成文学批评中最经典的对仗反义关系，且与后文“stream ... roiled by”（被搅动的浊流）形成直接的词源与隐喻呼应（roil 正是 turbid 的词典定义性动词），严密贴合高阶学术评论质感。",
+      "opaque": "错误。opaque 强调“不透光的、无法穿透理解的”（如 opaque jargon），表达的是一种静态的阻隔或不可知性，不能与动态的“stream ... roiled by”（被情感翻搅的奔流）实现隐喻兼容；此外，opaque 的标准修辞对立词是 transparent，而非文体学上的 limpid。",
+      "muddy": "错误。muddy 作形容词时属于日常低阶词汇（如 muddy shoes），在认知与文风领域多作使役动词（如 muddy the waters）；用作定语修饰“stream of convoluted rhetoric”在学术书评语境中会产生严重的语体断层（stylistic clash），亦不能与高阶文人文体词 limpid 构成规范对仗。",
+      "cloudy": "错误。cloudy 主要指天空多云、液体微浑（如 cloudy liquid）或记忆/前景“朦胧模糊”（如 cloudy memory），缺乏因剧烈心理或情感冲突所导致的“混浊翻滚”之意，无法承接由“roiled by”所激发的动态水力学隐喻。"
+    },
+    "translation": "与其早期学术专著中澄澈干练且精准严密的表述截然不同，这位理论家晚期的著作沦为一股被个人怨恨与学术焦虑所搅浑的冗杂修辞浊流。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_10",
+    "group_id": 425,
+    "group_name": "turbid, opaque, muddy, cloudy",
+    "level": "TEM-8",
+    "target_word": "opaque",
+    "question": "Although the regulatory agency promised complete institutional transparency, its internal decision-making algorithms remained stubbornly ___ to external auditors, effectively shielding key financial metrics from public accountability.",
+    "options": [
+      "turbid",
+      "opaque",
+      "muddy",
+      "cloudy"
+    ],
+    "answer": "opaque",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "前半句让步状语中的“transparency（透明度）”奠定了认知与制度治理层面的绝对反义基调（transparent 与 opaque 是现代学术与政策语料中的标准对立对），同时后接介词“to”构成的固定句式结构“opaque to someone（对某人而言是不透明的/难以看透的）”构成了排他的句法锚点，其余三词均无此介词配价与制度语体用法。",
+    "distractor_analysis": {
+      "opaque": "正确。opaque 在认知系统、行政制度及算法治理语境中，表示“不透明的、晦涩不可理解的”，不仅与前半句的“transparency”形成现代公共政策话语中最为核心的二元对立（transparency vs. opacity），而且在句法上严格要求支配介词短语“to external auditors”（对外部审计人员不透明），完全符合学术语篇的精确搭配。",
+      "turbid": "错误。turbid 侧重于内部翻搅混乱、泥沙俱下（如 turbid emotions），不能用来修饰黑箱算法或制度流程的技术性封闭，且在句法上绝不可后接介词“to”引出认知主体（英语中不存在 turbid to sb. 的用法）。",
+      "muddy": "错误。muddy 无法构成“muddy to sb.”的后置介词补足语结构，在语法上直接违规；同时其语体层级偏低，不能用于形容高度严密的现代金融与监管算法体系。",
+      "cloudy": "错误。cloudy 虽可表示判断或认知模糊，但同样缺乏“cloudy to auditors”这一以受众为补足语的句法配价；此外，cloudy 侧重于感官或主观认知上的不明确，无法传达算法在机制设计上有意构筑的“不可穿透性”。"
+    },
+    "translation": "尽管该监管机构承诺实现完全的制度透明度，但其内部决策算法对外部审计人员而言依然顽固地晦暗不透明，从而有效地规避了公众对其关键财务指标的问责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_11",
+    "group_id": 426,
+    "group_name": "unbecoming, unseemly, indecent, improper",
+    "level": "TEM-8",
+    "target_word": "unbecoming",
+    "question": "The university's judicial board determined that the philosopher's surreptitious alteration of peer-review reports constituted conduct ___ a scholar, thereby breaching the institution's core epistemological ethics and professional standards.",
+    "options": [
+      "unbecoming",
+      "unseemly",
+      "indecent",
+      "improper"
+    ],
+    "answer": "unbecoming",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The post-nominal position between the abstract noun 'conduct' and the bare noun phrase 'a scholar' requires an adjective with the unique syntactic property of governing a bare nominal complement (derived from the archaic transitive use of the verb 'become', meaning 'to suit'). Only 'unbecoming' functions in this quasi-legal postpositive collocation ('conduct unbecoming a/an [status/role]'). Distractors 'unseemly', 'indecent', and 'improper' strictly require a preposition (e.g., 'for' or 'in') to link to a human noun, rendering them grammatically invalid.",
+    "distractor_analysis": {
+      "unbecoming": "正确。unbecoming 继承了古英语及物动词 become（配得上、与……相称）的用法特征，在正式学术规约和司法伦理语境中保留了“conduct unbecoming a/an [noun]”（有失……身份的行为）这一高度凝固的后置定语搭配，能够直接支配不带介词的裸名词短语（a scholar）。此处“conduct unbecoming a scholar”精准指称其行为与学者身份严重不符。",
+      "unseemly": "错误。unseemly 意为“不得体的、不体面的”，侧重违反社会礼仪或显现吵闹失态。在句法上，unseemly 不能直接接裸名词短语充当宾语补足结构；若表示对某人而言不体面，必须借助介词短语（如 unseemly in/for a scholar）。填入此处会导致严重的句法割裂（conduct unseemly a scholar 属病句）。",
+      "indecent": "错误。indecent 核心语义指向道德上的猥亵、下流或有伤风化（如 indecent exposure），在句法上同样不能直接支配裸名词（必须用 indecent for...）。将其置于学术审查语境，不仅句法不成立，语义亦过度偏向性道德层面的丑闻，偏离学术造假与认识论伦理的语境。",
+      "improper": "错误。improper 属于广义的“不符合既定规章、程序或事实标准的”（如 improper procedure），通常前置修饰名词。若用于名词后置修饰且指涉特定人员身份时，必须加介词 for（如 conduct improper for a scholar），直接后接“a scholar”在现代英语中属于语法错误。"
+    },
+    "translation": "大学司法审查委员会认定，该哲学家暗中篡改同行评审报告的行径构成了有失学者身份的行为，从而违反了该机构核心的认识论伦理与职业准则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_12",
+    "group_id": 426,
+    "group_name": "unbecoming, unseemly, indecent, improper",
+    "level": "TEM-8",
+    "target_word": "unseemly",
+    "question": "Following the retraction of the landmark paper, the laboratory's co-authors engaged in an ___ scramble to disclaim responsibility, an undignified display of panic that violated academic decorum and compromised peer trust.",
+    "options": [
+      "unbecoming",
+      "unseemly",
+      "indecent",
+      "improper"
+    ],
+    "answer": "unseemly",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The head noun 'scramble' combined with the appositive clause 'an undignified display of panic that violated academic decorum' provides the definitive anchor. In lexicographical taxonomy (Merriam-Webster), 'unseemly' specifically adds to the idea of impropriety 'a suggestion of whatever is offensive to good taste or decorum, often implying a noisy, undignified, or public display of bad manners' and forms the fixed journalistic/academic collocation 'an unseemly scramble'. 'Indecent' primarily denotes sexual/moral grossness, 'improper' applies to formal regulatory violations, and 'unbecoming' modifies behavior relative to personal rank, none of which idiomatically collocate with 'scramble'.",
+    "distractor_analysis": {
+      "unseemly": "正确。unseemly 意为“不得体的、有失体面的”，权威词典明确标注其专指“有违良好风尚或体统，尤指带有吵闹、失态、有失尊严的公开展现”（a noisy, undignified, or public display），与 dynamic noun（动态争抢）构成公认的政论与学术固定搭配“an unseemly scramble (to do sth / for sth)”（有失体面的争夺/推脱）。后文的“undignified display of panic that violated academic decorum”构成了教科书式的同义呼应与排他锚点。",
+      "unbecoming": "错误。unbecoming 强调的是某种静态行为或服饰与特定社会地位、职业或身份不协调（not suited to person or status），常用于“conduct unbecoming...”或修饰 deportment，不用于修饰 scramble 这种混乱、狼狈的动态群体争夺行为，“an unbecoming scramble”在英语语料中极度生硬且缺乏该词的核心搭配义。",
+      "indecent": "错误。indecent 强烈的核心语义指向道德败坏、猥亵或严重冒犯社会公德（offensive to modesty/delicacy）。除固定习语“indecent haste”（过急的草率）外，indecent 不能与 scramble 搭配（无 indecent scramble 搭配），在此处会造成语意异化，产生不恰当的道德猥亵联想。",
+      "improper": "错误。improper 侧重指违反既定程序、法规或客观规范（not conforming to established rules or standards，如 improper accounting, improper methods）。混乱失态的推诿场面（scramble）属于缺乏体面与修养的行为，而非规章制度分类中的“违规操作”，且“improper scramble”完全不符合英语习惯搭配。"
+    },
+    "translation": "在标志性论文遭到撤稿后，该实验室的共同作者们陷入了有失体面的推卸责任的混乱推诿之中；这种破坏学术礼仪、有失尊严的恐慌表现严重损害了同行间的信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_13",
+    "group_id": 427,
+    "group_name": "airy, ethereal, aerial, unreal",
+    "level": "TEM-8",
+    "target_word": "airy",
+    "question": "Confronted with forensic audits detailing systemic insolvency, the chief executive offered merely an ___ dismissal of the findings, treating multi-million-dollar discrepancies as trivial bookkeeping eccentricities rather than criminal liabilities.",
+    "options": [
+      "airy",
+      "ethereal",
+      "aerial",
+      "unreal"
+    ],
+    "answer": "airy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The dependent participle clause 'treating multi-million-dollar discrepancies as trivial bookkeeping eccentricities' explicitly anchors the required adjective to the behavioral nuance of treating grave issues with lighthearted, flippant nonchalance—a specific semantic sense of 'airy' ('an airy dismissal').",
+    "distractor_analysis": {
+      "airy": "正确。airy 在行为举止与态度语境（FIELD_BEHAVIOR）中特指“漫不经心的、轻浮不屑的、轻描淡写的”（having a flippant, nonchalant, or unconcerned manner）。句中“treating multi-million-dollar discrepancies as trivial...”（把严重亏空当作琐碎小节）是决定性语境锚点，‘an airy dismissal’是高级政经与评论语体中形容‘轻慢驳斥、一笑置之’的经典地道搭配。",
+      "ethereal": "错误。ethereal 意为“超凡脱俗的、空灵幽美的、飘渺神圣的”（celestial, spiritual, delicate），多用于修饰艺术美感、声音或超现实意境，修饰对法务审计的轻佻反驳属于严重的语用与语义错配。",
+      "aerial": "错误。aerial 意为“空中的、航空的、空气中的”，属于纯粹的物理空间及航空功能维度形容词（如 aerial photography 航拍），修饰态度名词 dismissal 构成范畴错配（category mistake）。",
+      "unreal": "错误。unreal 意为“不真实的、虚假的、幻觉般的”，强调事物不具备客观实在性或带有异样梦幻感，无法传达高管行为举止上‘轻慢放任、不以为意’（flippant）的特定态度色彩。"
+    },
+    "translation": "面对详述公司存在系统性资不抵债的法务审计报告，这位首席执行官仅仅做出了一副漫不经心的轻慢驳斥，将数百万美元的账目亏空视作微不足道的记账小节，而非需承担刑事责任的违法行为。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_14",
+    "group_id": 427,
+    "group_name": "airy, ethereal, aerial, unreal",
+    "level": "TEM-8",
+    "target_word": "ethereal",
+    "question": "Contrasting the coarse, mutable elements of the sublunary world with the incorruptible heavens, the medieval philosopher posited an ___ realm of transcendent light, wholly divorced from the gross physical properties of terrestrial matter.",
+    "options": [
+      "airy",
+      "ethereal",
+      "aerial",
+      "unreal"
+    ],
+    "answer": "ethereal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "The philosophical contrast between 'the coarse, mutable elements of the sublunary world' and 'the incorruptible heavens' demands an adjective signifying the celestial, heavenly quintessence (aether) beyond terrestrial physical matter, for which 'ethereal realm' is the unique established term.",
+    "distractor_analysis": {
+      "ethereal": "正确。ethereal 意为“天国的、超凡脱俗的、以太构成的”（celestial, heavenly, unworldly）。句中构建了西方古典宇宙论的核心对立：将“sublunary world”（月下界，由水、火、土、气四种易变且粗粝的元素构成）与“incorruptible heavens”（不朽天界）相对照，后接“transcendent light”（超越之光）以及“wholly divorced from the gross physical properties of terrestrial matter”（完全脱离尘世物质的粗糙物理属性）。在思想史中，唯有 ethereal（源自第五元素 aether / 以太）精准指涉超越月下凡俗物质、纯净不朽的天界空间，“an ethereal realm”在此具有不可替代的哲理与搭配排他性。",
+      "airy": "错误。airy 在此语境下存在根本性的逻辑与哲学矛盾。在古典自然哲学体系中，“air”（空气）本身即属于句首明确排斥的“月下界粗粝、易变之物”（mutable sublunary elements）；若使用 airy realm（充满空气的领域），将直接与后文“wholly divorced from... terrestrial matter”产生本体论层面的自相矛盾。此外，airy 现代语义多指通风透气的、轻浮漫不经心的或欢快跳跃的，无法表征天界神圣超验的形而上学属性。",
+      "aerial": "错误。aerial 属于地理学与物理学范畴的实证术语，意为“大气层的、高空的、航空的”（inhabiting, operating, or occurring in the atmosphere），例如 aerial photography（航拍）或 aerial roots（气生根）。它指代的是地球大气圈内的物理空间，属于“月下界”的物理范畴，与本句强调超越物质世界的不朽天界（incorruptible heavens / transcendent light）发生严重的语域割裂与概念混淆。",
+      "unreal": "错误。unreal 意为“不真实的、虚假的、虚构的”（illusory, non-existent）。在中世纪哲学与神学本体论中，天界与超验神圣之光被确立为最高形式的绝对永恒与“至实”（ultimate reality, ens realissimum），绝非虚幻造作之物。代入 unreal 会将哲学家所论证的崇高实在贬低为虚妄幻象，彻底颠倒句子的义理逻辑与语意极性。"
+    },
+    "translation": "通过将月下世界粗粝且易变的物质元素与不朽的天界进行对比，这位中世纪哲学家假设存在一个由超验之光构成的空灵天界，完全脱离了尘世物质的粗糙物理属性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_15",
+    "group_id": 428,
+    "group_name": "austere, stark, stern, plain",
+    "level": "TEM-8",
+    "target_word": "austere",
+    "question": "Rejecting the rhetorical flourishes of his contemporaries, the philosopher advanced a strikingly ___ intellectual framework that privileged uncompromising logical parsimony and functional elegance over metaphysical embellishment.",
+    "options": [
+      "austere",
+      "stark",
+      "stern",
+      "plain"
+    ],
+    "answer": "austere",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心对比锚点为“rejecting rhetorical flourishes（拒绝浮华修辞）”与“privileged uncompromising logical parsimony and functional elegance over metaphysical embellishment（崇尚极致的逻辑简约与功能雅致，弃绝形而上学虚饰）”。此语境严格要求所选形容词兼具“严谨纯粹、极度简朴克制（severely simple / unadorned）”与“崇高审美品格（functional elegance）”的认知哲学术语内涵。",
+    "distractor_analysis": {
+      "austere": "正确。Merriam-Webster 核心释义为“severely simple; markedly simple or unadorned”。在思想史与理论建构语境中，austere 专指通过高度理性克制、剔除一切繁冗修饰而达到的“严简、纯粹”的学术或审美风格（如 austere style/framework），能与后文的“logical parsimony（逻辑简约）”和“functional elegance（功能性雅致）”构成严丝合缝的语意呼应。",
+      "stark": "错误。stark 虽然含有“赤裸、无装饰”之意，但其核心色彩偏向“荒凉冷酷的、刺眼的、贫瘠的”（bleak, desolate, or jarringly harsh），多用于描述残酷对比（stark contrast）或荒芜景象（stark landscape），无法体现哲学架构中自觉自律、具备美学雅致的“简约严整”。",
+      "stern": "错误。stern 意为“严厉的、苛责的、不苟言笑的”（severe in manner or discipline），专门用于描绘人的性格、威严神态、纪律或惩戒手段（如 stern discipline, stern reprimand），用来修饰概念性的理论体系（intellectual framework）属于明显的范畴错配（category mistake）。",
+      "plain": "错误。plain 指“平平无奇的、素朴寻常的”（ordinary or unelaborated），词义偏中低阶，侧重于缺乏技巧和不复杂，无法承载语境中“uncompromising logical parsimony”所蕴含的高阶学术自觉与理论厚度，且与“elegance”在文体修辞风格上存在明显冲突。"
+    },
+    "translation": "这位哲学家摒弃了同代人浮华的修辞，提出了一种极其严谨简素的学术框架，将毫不妥协的逻辑简约与功能性雅致置于形而上学的繁复修饰之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_16",
+    "group_id": 428,
+    "group_name": "austere, stark, stern, plain",
+    "level": "TEM-8",
+    "target_word": "stark",
+    "question": "The neuroimaging study confronted cognitive scientists with the ___ reality that intuitive moral judgments are largely post-hoc rationalizations, decisively dismantling the Cartesian model of autonomous deliberation.",
+    "options": [
+      "austere",
+      "stark",
+      "stern",
+      "plain"
+    ],
+    "answer": "stark",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境中的决定性动宾搭配为“confronted cognitive scientists with the ___ reality that... dismantling the Cartesian model”。该空必须修饰一种令人震惊、残酷不加掩饰、彻底粉碎传统理论幻觉的客观真相。Merriam-Webster 对 stark 的经典释义与例证正是“harsh, blunt, grim <the stark reality of the situation>”，其与“confronted（迫使直面）”和“dismantling（瓦解）”构成排他性的严酷认知语境。",
+    "distractor_analysis": {
+      "stark": "正确。Merriam-Webster 明确将 stark 定义为“harsh, blunt, grim”，典型搭配即为“the stark reality of the situation”。此处用于表达前沿脑成像研究展现出的“残酷、赤裸且令人不适的客观真相”，完美契合后文颠覆笛卡尔自主理性模型的严峻学术语境。",
+      "austere": "错误。austere 强调“极度朴素的、苦行的、节制无奢华修饰的”（severely simple / ascetic），多指主动选择的生活方式、理论风格或建筑艺术，不能用来形容被动揭示的、具有颠覆冲击力的“严酷现实（reality）”。",
+      "stern": "错误。stern 意为“严厉的、威严的”，主要描述具有意志的主体其态度、神色、训诫或法规（如 a stern judge, stern warning），不能修饰非人称的、客观存在的研究事实或科学现实（reality）。",
+      "plain": "错误。plain 虽有“清晰显而易见、未加修饰”之意（如 plain truth），但其语气平实中和，侧重于“直白易懂、寻常无奇”，完全缺乏语境中“confronted（逼视）”及瓦解重大理论范式所必需的冰冷严酷感与压迫性张力（harsh severity）。"
+    },
+    "translation": "这项神经影像学研究迫使认知科学家直面一个残酷现实：直觉性的道德判断在很大程度上只是事后合理化，从而果断瓦解了自主理性审思的笛卡尔模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_17",
+    "group_id": 429,
+    "group_name": "beastly, brutish, brute, brutal",
+    "level": "TEM-8",
+    "target_word": "beastly",
+    "question": "In her study of Victorian temperance discourse, the historian argued that chronic drunkenness was condemned not as violent malice, nor as mere intellectual insensibility, but as an essentially ___ vice that reduced humans to swinish degradation.",
+    "options": [
+      "beastly",
+      "brutish",
+      "brute",
+      "brutal"
+    ],
+    "answer": "beastly",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CULTURAL_STUDIES",
+    "anchor_clue": "句中设置了严密对称的三重否定-肯定排他锚点：1. 排除 brutal：否定分句“not as violent malice”（并非暴力恶意）在语义上直接封锁了 brutal，因为 brutal 的核心义正是对外部施加的主动残酷、施暴侵害与冷酷恶意（MW: implies the cruelty or lack of feeling or consideration of a brute）。2. 排除 brutish：否定分句“nor as mere intellectual insensibility”（亦非单纯的心智迟钝/领悟力匮乏）直接排除了 brutish，因为 brutish 的辨析核心恰恰是“像牲畜一样缺乏智力、领悟力与感知力”（MW: stresses likeness to an animal in coarseness, physical strength, or lack of intelligence or sensibilities）。3. 排除 brute：brute 专指“纯粹物质的、非理性的客观力量或事实”（如 brute force, brute facts），属于非道德层面的物理范畴，修饰道德恶习（*brute vice）构成致命的搭配断裂与范畴谬误。4. 确立 beastly：beastly 在严肃思想史与文学语域中专门表述“由于放纵低级欲望而导致的丧失文明体面的、卑污沉沦的、如牲畜般肮脏的状态或行为”（MW: suggests an uncivilized, degraded, or filthy state or conduct），且韦氏词典所给出的同义辨析典范例证正是“<drunkards wallowing in beastly degradation>”（酒鬼在如兽般的沉沦中打滚）。本句的“chronic drunkenness”（慢性酗酒）与后文“reduced humans to swinish degradation”（将人类贬低至猪猡般的污秽沉沦）与 beastly 形成唯一的权威学术互锁。",
+    "distractor_analysis": {
+      "beastly": "正确。beastly 在正规文化史与思想史语域中具有严谨的学术释义，指因放弃人类自律与文明体面而陷入的“如兽般卑污堕落的、肮脏下流的”（Merriam-Webster: suggests an uncivilized, degraded, or filthy state or conduct）。韦氏词典在 brutal 词条下的同义词辨析专节中，将 beastly 的本质特征界定为“uncivilized, degraded, or filthy”，并给出了与本题语境完全同源的权威范例：“drunkards wallowing in beastly degradation”。在维多利亚时代的禁酒话语中，酗酒正是最为典型的 beastly vice（如兽般沉沦卑劣的恶习），与句末的“swinish degradation”（猪猡般的污秽沉沦）实现完美的语域与语义呼应。",
+      "brutish": "错误（语义维度直接冲突）。brutish 侧重于动物在智力与敏锐度上的低下与笨拙，意为“心智迟钝的、愚笨粗拙的、缺乏理性领悟力的”（MW: stresses likeness to an animal in coarseness, physical strength, or lack of intelligence or sensibilities; stupid, unreasoning）。题干前面已由“nor as mere intellectual insensibility”（亦非单纯的心智迟钝/感知缺失）明文排除了这一特质，填入 brutish 会造成直接的逻辑自相矛盾。",
+      "brute": "错误（搭配断裂与范畴谬误）。brute 在现代标准英语中主要充当纯定语形容词，专指“纯粹物理层面的、无意识的、未经加工的”（如 brute force 蛮力、brute matter 纯粹的物质、brute facts 不容辩驳的冰冷事实），其修饰对象为非伦理性质的物理实体或客观条件。将其置于道德与行为评判语境中修饰罪衍恶习（*brute vice），属于严重的词汇搭配断裂。",
+      "brutal": "错误（语义极性直接冲突）。brutal 的核心语义为“残暴凶狠的、残酷无情的、施加严重暴力创伤的”（MW: implies the cruelty or lack of feeling or consideration of a brute），其关键特征在于侵略性的暴力侵害。题干已用否定锚点“not as violent malice”（并非暴力恶意）明确否定了此类残暴伤害特征，因此 brutal 在逻辑与语义上均被绝对排除。"
+    },
+    "translation": "在关于维多利亚时代禁酒戒酒话语的研究中，这位历史学家指出，长期酗酒并非因其暴力恶意，亦非因其单纯的心智迟钝而遭谴责，而是被视为一种从本质上如野兽般卑污沉沦的恶习，它将人类贬低至猪猡般堕落的境地。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_18",
+    "group_id": 429,
+    "group_name": "beastly, brutish, brute, brutal",
+    "level": "TEM-8",
+    "target_word": "brutish",
+    "question": "The paleoanthropologist argued that the Neanderthals’ deliberate burial rituals and cave art refuted the archaic prejudice that their species possessed a merely ___ intellect, entirely incapable of abstract reasoning and symbolic thought.",
+    "options": [
+      "beastly",
+      "brutish",
+      "brute",
+      "brutal"
+    ],
+    "answer": "brutish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后置同位修饰语 'entirely incapable of abstract reasoning and symbolic thought'（完全缺乏抽象推理与符号思维能力）构成了 FIELD_COGNITION（认知领域）的决定性排他锚点。brutish 在认识论和古人类学语境中专门指代“动物般未开化的、缺乏理性思维与智力发展的”（MW: resembling or befitting a brute: unreasoning; lacking intelligence or mental cultivation），与 intellect 构成精准的学术哲学搭配；brute 修饰力量或物质，与 intellect 搭配属于范畴错配（category mistake）；brutal 修饰 intellect 时反指“极其敏锐冷酷、具强大摧毁力的智力”，产生反向极性颠倒；beastly 仅表令人厌恶或举止粗俗，无法指代认知层面的无理性状态。",
+    "distractor_analysis": {
+      "brutish": "正确。brutish 的核心认识论特征是“缺乏人类理性与高级思维能力的、仅具野兽般低级感官的”（Merriam-Webster: unreasoning; lacking intelligence or mental cultivation）。在认知科学、哲学及人类学话语中，brutish intellect（蒙昧迟钝的心智）是经典的学术概念，后文的 'incapable of abstract reasoning and symbolic thought' 正是 brutish 词义的教科书级释义。",
+      "beastly": "错误（语义侧重脱节）。beastly 偏向于道德感官层面的“可憎的、恶劣的、极度讨厌的”或生理本能层面的下流，不能用来指称认知演化水平低下、无法进行抽象概念推理的心智状态（intellect）。",
+      "brute": "错误（范畴错配与搭配断裂）。brute 作形容词时强调“纯粹物理的、非心智的、无理智根据的”，专用于修饰完全不具备意识维度的实体（如 brute force 蛮力、brute matter 纯粹物质、brute facts 粗糙既定事实）。将 brute 用来修饰智力本身（*brute intellect）在认识论概念上自相矛盾，因 brute 的本质特征正是“毫无知性与灵性”（devoid of intellect）。",
+      "brutal": "错误（逻辑反向倒错）。brutal 意为残暴的、冷酷严苛的。当 brutal 偶用于修饰心智或思维品质（如 a brutal intellect / brutal logic）时，指的是一种“极其冷酷无情、摧枯拉朽、分析力极强的锐利心智”，这与后文所表述的“甚至无法进行抽象思维的原始蒙昧心智”恰恰构成了完全相反的逻辑极性颠倒。"
+    },
+    "translation": "古人类学家指出，尼安德特人深思熟虑的墓葬仪式与洞穴艺术，有力地驳斥了那种认为该物种仅拥有野兽般蒙昧迟钝的心智、完全不具备抽象推理与符号思维能力的陈腐偏见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_19",
+    "group_id": 430,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "level": "TEM-8",
+    "target_word": "bemused",
+    "question": "Watching the eccentric billionaire unveil his implausibly utopian architectural models, the assembled urban planners exchanged ___ glances, simultaneously entertained by the sheer audacity and perplexed by its glaring logistical impossibilities.",
+    "options": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "answer": "bemused",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "simultaneously entertained by the sheer audacity and perplexed by its glaring logistical impossibilities（既感到滑稽有趣又深感困惑不解），精准对应 bemused 所独具的“困惑中兼带苦笑/微讽（wry amusement mixed with perplexity）”的双重认知情感特异性。",
+    "distractor_analysis": {
+      "bemused": "正确。Webster 将 bemused 明确界定为“having or showing feelings of wry amusement especially from something that is surprising or perplexing”（因荒谬或令人费解之事而产生的啼笑皆非、略带讽刺趣味的困惑感）。句中后半句分词短语“entertained... and perplexed...”构成无可辩驳的直击定义级语义锚点，搭配“exchanged bemused glances”（交换啼笑皆非的眼神）极其纯正地道。",
+      "preoccupied": "错误。preoccupied 意为“心事重重的；全神贯注于内部杂念的”，侧重注意力被其他心事占据而对眼前情境表现出心不在焉（inattentive）。而句中规划师们注意力高度聚焦于富豪展示的狂想模型，绝非心不在焉，在语义指向上与后文直接反应相悖。",
+      "lost": "错误。lost 修饰眼神或神态时，多指“茫然若失的、不知所措的、迷失方向的”（如 a lost look of bewilderment or helplessness），缺乏社交互动中对荒诞事物产生的微讽与幽默感；此外，现代高阶英语中极少使用“exchanged lost glances”来描绘这种兼具娱乐性审视的专业互动语境。",
+      "thoughtful": "错误。thoughtful 侧重指理性、严肃的“深思的、若有所思的”或“体贴周到的”，表意客观中正，完全丧失了句中“entertained by the audacity”（被狂妄举动所逗乐）所呈现的荒谬感与戏谑色彩，语域情感色彩严重失配。"
+    },
+    "translation": "看着这位古怪的亿万富翁展示其近乎天方夜谭的乌托邦式建筑模型，聚集在一起的城市规划师们面面相觑，露出了啼笑皆非的眼神——他们既为其肆无忌惮的狂想感到好笑，又为其显而易见的后勤不可行性感到困惑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b42_20",
+    "group_id": 430,
+    "group_name": "bemused, preoccupied, lost, thoughtful",
+    "level": "TEM-8",
+    "target_word": "preoccupied",
+    "question": "So intensely ___ with managing the escalating domestic coalition crisis was the foreign secretary that she virtually disregarded the urgent diplomatic cables warning of border mobilizations.",
+    "options": [
+      "bemused",
+      "preoccupied",
+      "lost",
+      "thoughtful"
+    ],
+    "answer": "preoccupied",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法介词搭配“___ with managing...”以及句式“So intensely ___ with... that she virtually disregarded...”形成双重决定性锚点，唯有 preoccupied 能支配介词 with 表达“因全神贯注于某项事务/危机而忽视外界重大信息”。",
+    "distractor_analysis": {
+      "preoccupied": "正确。preoccupied 意为“全神贯注的，专心致志的”，指全副心思被某事完全占据以致无暇顾及其他。语法上，preoccupied 严格支配介词 with（preoccupied with sth/doing sth）；语篇逻辑上，“So intensely preoccupied with... that she disregarded...”天衣无缝地解释了外相为何会“彻底忽略紧急外交电报”，句法与逻辑双重契合。",
+      "bemused": "错误。介词搭配与语境逻辑均不成立。bemused（啼笑皆非的，困惑的）其后习惯接介词 by 或 at（如 bemused by events），不可接 with；且在政治高压语境中，外相“困惑/苦笑”绝非导致其无视边境军情电报的认知动因。",
+      "lost": "错误。句法出现严重破裂。lost 表示“陷入某种思维或沉浸状态”时，严格与介词 in 连用（如 lost in thought, lost in grief），绝对无法与 with 连用构成 *lost with managing...",
+      "thoughtful": "错误。搭配与语意皆不通。thoughtful 表示沉思或体贴时通常搭配 of 或 about（如 thoughtful about the problem），不能与 with 连用接动名词短语；且 thoughtful 强调的是深谋远虑的理性思考，与后文“完全忽视紧急警告”的失职与疏漏逻辑相互矛盾。"
+    },
+    "translation": "这位外交大臣全神贯注于平息日益升级的国内执政联盟危机，以至于她几乎彻底忽略了警告边境军队集结的紧急外交电报。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

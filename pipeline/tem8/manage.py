@@ -89,13 +89,22 @@ def cmd_run(args):
     generator = BatchGenerator(concurrency=args.concurrency)
 
     async def _runner():
-        for b in batches:
-            await generator.run_batch(b, enable_l2_review=not args.no_l2)
+        try:
+            for b in batches:
+                await generator.run_batch(b, enable_l2_review=not args.no_l2)
+        except (KeyboardInterrupt, asyncio.CancelledError):
+            print("\n[Runner] Interrupted by user. Closing active sessions...", flush=True)
+        finally:
+            await generator.client.close()
 
-    asyncio.run(_runner())
+    try:
+        asyncio.run(_runner())
+    except KeyboardInterrupt:
+        print("\n[CLI] Exited on user interrupt (Ctrl+C). Any verified progress was saved.")
+        sys.exit(0)
 
 def cmd_run_all(args):
-    """自动断点连续运行所有未完成批次"""
+    """自动断点连续运行所有未完成批次 (支持多批次并发调度与 HTTP 信号量管控)"""
     state_file = CONFIG.batches_state_file
     with open(state_file, "r", encoding="utf-8") as f:
         states = json.load(f)
@@ -104,14 +113,41 @@ def cmd_run_all(args):
         s["batch_id"] for s in states.values()
         if s.get("status") != "VERIFIED"
     ]
+    batch_workers = getattr(args, "batch_concurrency", CONFIG.default_batch_concurrency)
     print(f"[CLI] Found {len(pending_ids)} unverified batches to run: {pending_ids}")
+    print(f"[CLI] HTTP concurrency={args.concurrency}, Batch worker pool={batch_workers}")
     generator = BatchGenerator(concurrency=args.concurrency)
 
-    async def _runner():
-        for b in pending_ids:
-            await generator.run_batch(b, enable_l2_review=not args.no_l2)
+    queue = asyncio.Queue()
+    for b in pending_ids:
+        queue.put_nowait(b)
 
-    asyncio.run(_runner())
+    async def _batch_worker():
+        while not queue.empty():
+            try:
+                b = queue.get_nowait()
+            except asyncio.QueueEmpty:
+                break
+            try:
+                await generator.run_batch(b, enable_l2_review=not args.no_l2)
+            finally:
+                queue.task_done()
+
+    async def _runner():
+        try:
+            worker_count = min(batch_workers, len(pending_ids)) if pending_ids else 1
+            workers = [asyncio.create_task(_batch_worker()) for _ in range(worker_count)]
+            await asyncio.gather(*workers)
+        except (KeyboardInterrupt, asyncio.CancelledError):
+            print("\n[Runner] Interrupted by user. Closing active sessions...", flush=True)
+        finally:
+            await generator.client.close()
+
+    try:
+        asyncio.run(_runner())
+    except KeyboardInterrupt:
+        print("\n[CLI] Exited on user interrupt (Ctrl+C). Any verified progress was saved.")
+        sys.exit(0)
 
 def cmd_review(args):
     """重新执行本地规则与审查 (支持 --l2 参数开启 Layer 2 审校)"""
@@ -163,7 +199,16 @@ def cmd_review(args):
             print(f"  ✓ [{q['id']}] {q['target_word']} -> PASS (L1 + {'L2' if reviewer else 'Rules'})")
 
     if run_l2:
-        asyncio.run(_async_review())
+        try:
+            asyncio.run(_async_review())
+        except KeyboardInterrupt:
+            print("\n[CLI] Review interrupted by user (Ctrl+C).")
+        finally:
+            if reviewer:
+                try:
+                    asyncio.run(reviewer.client.close())
+                except Exception:
+                    pass
     else:
         for q in questions:
             cl = cluster_map.get(q.get("group_id"))
@@ -352,7 +397,8 @@ def main():
 
     # run-all
     p_run_all = subparsers.add_parser("run-all", help="Run all unverified batches continuously")
-    p_run_all.add_argument("--concurrency", type=int, default=CONFIG.default_concurrency, help="Concurrency limit")
+    p_run_all.add_argument("--concurrency", type=int, default=CONFIG.default_concurrency, help="HTTP concurrency limit")
+    p_run_all.add_argument("--batch-concurrency", type=int, default=CONFIG.default_batch_concurrency, help="Batch worker pool size (default: 4)")
     p_run_all.add_argument("--no-l2", action="store_true", help="Disable Layer 2 LLM review (rule-only)")
     p_run_all.set_defaults(func=cmd_run_all)
 
@@ -373,4 +419,11 @@ def main():
         parser.print_help()
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n[CLI] Process terminated gracefully on user interrupt (Ctrl+C).")
+        try:
+            sys.exit(0)
+        except SystemExit:
+            os._exit(0)

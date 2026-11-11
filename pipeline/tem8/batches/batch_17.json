@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b17_01",
+    "group_id": 171,
+    "group_name": "twitch, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "twitch",
+    "question": "During the grueling cognitive interrogation, the suspect attempted to project composure, yet an involuntary tic caused his left eyelid to ___ spasmodically whenever the forensic evidence was introduced.",
+    "options": [
+      "twitch",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "twitch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and physiological nexus with 'involuntary tic', 'eyelid', and 'spasmodically' demands an abrupt, jerky muscular contraction.",
+    "distractor_analysis": {
+      "twitch": "【正确】意为“（身体部位）阵挛、抽动、抽搐”，特指肌肉因不自主神经冲动或神经抽动症（tic）引起的突发、短暂、痉挛性跳动。与主语“left eyelid”及状语“spasmodically”（痉挛地）构成医学与心理学语境下的精准高频搭配。",
+      "waver": "【排除】意为“动摇、踌躇、摇摆”，侧重指信念、意志、决心产生犹豫不决，或指光线摇曳、声音颤抖，无法与眼睑因肌肉抽搐（tic）产生的局部机械性抽动搭配。",
+      "quiver": "【排除】意为“微颤、发抖”，侧重指因强烈恐惧、悲伤、寒冷或极度亢奋等全身或局部情绪引起的连续、细微、振动性震颤（如 lips quiver, voice quivers），与突发间歇性的“tic”和“spasmodically”在病理运动模式上不符。",
+      "writhe": "【排除】意为“（因剧痛或苦楚而）翻滚、扭动、挣扎”，通常指躯体或四肢的大幅度痛苦扭曲（如 writhe in agony），用于微观局部的眼睑肌肉跳动属于严重的语义过度与搭配破裂。"
+    },
+    "translation": "在严酷的心理审讯过程中，嫌疑人竭力表现出沉着自若，然而每当法医证据被呈示出来时，一种不自主的抽搐便使他的左眼睑阵阵痉挛抽动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_02",
+    "group_id": 171,
+    "group_name": "twitch, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite mounting ideological pressure and volatile polling metrics, the chief appellate judge did not ___ in her doctrinal convictions, remaining steadfastly anchored to statutory precedent throughout the crisis.",
+    "options": [
+      "twitch",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic collocation 'waver in [one's convictions]' perfectly contrasts with 'remaining steadfastly anchored'.",
+    "distractor_analysis": {
+      "waver": "【正确】意为“（信念、决心、立场等）动摇、迟疑、动摇不定”。动词短语“waver in one's convictions/resolve”是学术与严肃政法语境中的标准搭配，与后半句的“remaining steadfastly anchored”（坚定恪守）形成严谨的对立转折逻辑。",
+      "twitch": "【排除】意为“抽搐、痉挛”，属于纯生理层面的突发性肌肉跳动，无法延伸用于认知立场（doctrinal convictions）以表示思想层面的摇摆或迟疑。",
+      "quiver": "【排除】意为“颤动、战栗”，仅用于描述物理实体或受情绪驱动的微小震颤，不能支配介词短语“in her doctrinal convictions”来表达抽象法理立场的动摇。",
+      "writhe": "【排除】意为“在苦痛中翻滚扭动”，虽可与介词 in 搭配（如 writhe in pain/agony/torment），但其宾语必须是强烈的痛苦、羞耻等负面感受，不能接“doctrinal convictions”，否则逻辑与语义彻底断裂。"
+    },
+    "translation": "尽管面临日益增长的意识形态压力和剧烈波动的民调数据，这位首席上诉法官在法理原则上却未曾动摇分毫，在整场危机中始终坚定恪守成文法判例。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_03",
+    "group_id": 172,
+    "group_name": "undercut, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "undercut",
+    "question": "Recent empirical findings regarding neural plasticity threaten to ___ the foundational premise of cognitive modularity, demonstrating that functional localization across the cerebral cortex is far more dynamic than classical models presuppose.",
+    "options": [
+      "undercut",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "undercut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Directly governs the abstract epistemological object 'the foundational premise', requiring a verb that denotes weakening or subverting theoretical validity from the bottom up.",
+    "distractor_analysis": {
+      "undercut": "正确。undercut 源自“从树木根底斜向切入以使其倾倒”的物理伐木动作，在学术与高级政经语域中高度词汇化为“从底层削弱、动摇（理论根基、假说效力、权威或信誉）”，与 foundational premise（基础前提）、hypothesis、rationale 等认知名词构成经典学术搭配，语义与语域高度吻合。",
+      "lop": "错误。lop 侧重“斩断、截除（枝桠、肢体）”或大幅砍掉量化数值，常需搭配副词或介词 off（如 lop off a branch），无法与 foundational premise 这类抽象的理论命题形成及物支配搭配，存在严重的语域及搭配断裂。",
+      "pare": "错误。pare 原义为“剥皮、削边”，引申为“渐进式削减、精简（多余开支、规模等）”，常与 down 或 back 连用（如 pare down the budget）。其语义核心在于“去冗留精”，而非从根本上在逻辑或实证上“动摇/颠覆”一个理论前提。",
+      "indent": "错误。indent 主要用于排版领域表示“首行缩进”，或在地理/几何形态上表示“使边缘呈凹痕或锯齿状”，与本题中挑战理论模型基础的学术批判语境毫无关联。"
+    },
+    "translation": "有关神经可塑性的最新实证发现恐将动摇认知模块论的基础前提，这表明大脑皮层的功能定位远比经典模型所预设的更为动态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_04",
+    "group_id": 172,
+    "group_name": "undercut, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "By streamlining administrative oversight and deploying adaptive trial protocols, the pharmaceutical task force managed to ___ nearly eighteen months off the projected timeline for bringing the antiviral therapy to market.",
+    "options": [
+      "undercut",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HEALTH_LIFE_SCIENCES",
+    "anchor_clue": "Decisively anchored by the idiomatic trans-prepositional frame '___ [duration] off [a projected timeline]', which exclusively selects 'lop' to denote cutting or truncating a substantial, contiguous block of operational time.",
+    "distractor_analysis": {
+      "lop": "正确。lop 在现代高级英文（如生命科学产业政策及商业管理文献）中具有高度特化的习用句法构式“lop [a period of time / an amount] off [a timeline / schedule / budget]”，专指“一口气砍掉或缩减（一大笔时间跨度或资金）”。本句中“lop nearly eighteen months off the projected timeline”描述通过改革方案大幅压缩药物研发上市周期，句法与搭配完全吻合。",
+      "undercut": "错误。undercut 为及物动词，意为“削弱、动摇（权威、根基）”或“降价以竞争”，其后直接跟被削弱的受体（如 undercut the regulatory standard / undercut competitors），无法与“时间段 + off + 参照对象”这一结构搭配使用（语法上不存在 *undercut eighteen months off the timeline*）。",
+      "pare": "错误。pare 表示“缩减、削减”时，标准习惯用法是直接及物（pare costs）或与副词小品词连用（pare down the schedule / pare back expenditures），侧重于“像削皮一样逐层修剪、微量精简”；而与介词 off 搭配时（pare off），仅限于物理层面的“削去果皮、表层”（如 pare off the zest），不能与抽象的时间跨度构成大刀阔斧削减周期的表达。",
+      "indent": "错误。indent 主要用于印刷排版（使缩排、缩进）或契约订购业务（如 indent for equipment），无论在词义上还是在句法上都完全无法表示缩短开发周期或削减时间跨度。"
+    },
+    "translation": "通过精简行政监管流程并采用适应性试验方案，该医药专班成功将抗病毒疗法上市的预期周期缩短了近十八个月。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_05",
+    "group_id": 173,
+    "group_name": "underlie, flank, nestle, mediate",
+    "level": "TEM-8",
+    "target_word": "underlie",
+    "question": "Empirical researchers increasingly question whether the implicit ontological presuppositions that ___ neoclassical behavioral theories can sufficiently account for the erratic heuristics observed in extreme market fluctuations.",
+    "options": [
+      "underlie",
+      "flank",
+      "nestle",
+      "mediate"
+    ],
+    "answer": "underlie",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为抽象概念'implicit ontological presuppositions'（隐性本体论假定），宾语为'neoclassical behavioral theories'（新古典行为理论）。在认知与经济学学术语篇中，'presuppositions/assumptions ___ theories'构成了表示'作为……的基础/构成……的底色'的经典强搭配，语法上要求接及物动词直接引导理论客体。",
+    "distractor_analysis": {
+      "underlie": "正确。及物动词，意为“构成……的基础、作为……的底色”。与主语“ontological presuppositions”（本体论前设）和宾语“behavioral theories”（行为理论）形成典型的学术概念搭配（即“假定是理论的根基”）。",
+      "flank": "错误。及物动词，意为“位于……的两侧、护卫在侧”，侧重具体的物理空间排布或两翼策应，不能用于描述抽象的哲学假定与理论架构之间的基石关系。",
+      "nestle": "错误。作“依偎、坐落于隐蔽处”解时通常为不及物动词（后须加介词 in, among, against 等）；作及物动词时意为“使舒适安顿、抚抱”，无论句法还是语义均无法与“theories”产生合乎学术逻辑的支配关系。",
+      "mediate": "错误。及物动词，在认知与统计学中意为“调解、介导、充当中介”，通常宾语为两者的因果关系、生理过程或传导效应（如 mediate the relationship / response），假定不能直接“mediate”一套理论本身。"
+    },
+    "translation": "实证研究人员日益质疑，那些作为新古典行为理论基石的隐性本体论假定，是否足以合理解释在极端市场波动中观察到的反常启发式认知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_06",
+    "group_id": 173,
+    "group_name": "underlie, flank, nestle, mediate",
+    "level": "TEM-8",
+    "target_word": "flank",
+    "question": "High-resolution fMRI scans revealed that the twin sensory lobes that ___ the posterior thalamic nucleus engage in immediate associative processing long before deliberate cognitive recognition occurs.",
+    "options": [
+      "underlie",
+      "flank",
+      "nestle",
+      "mediate"
+    ],
+    "answer": "flank",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "定语从句的主语为成对构造'the twin sensory lobes'（双侧成对感觉叶），先行词为解剖中心结构'the posterior thalamic nucleus'（后丘脑核）。'双侧对称结构 ___ 单一中心结构'构成了及物动词 flank（位于……两侧）独一无二的几何与解剖空间排他性搭配。",
+    "distractor_analysis": {
+      "flank": "正确。及物动词，意为“位于……两侧、置于……两侧”。主语“twin sensory lobes”表现为左右成对的解剖实体，宾语为单一的“posterior thalamic nucleus”，完美吻合“A flanks B”的双侧包抄/排列空间构型。",
+      "underlie": "错误。意为“位于……下方”或“构成……的基础”。此处主语明确使用了“twin”（成对的），强调左右双侧对立排布，而非在上下垂直空间上“位于下方”，用 underlie 破坏了解剖空间的几何对应逻辑。",
+      "nestle": "错误。表“隐匿坐落、依偎”时为不及物动词，后接空间位置必须搭配介词（如 nestle against/within the nucleus）；用作及物动词时意为“使……舒适抱卧”，不能用于描述客观神经解剖部位的空间相对位置。",
+      "mediate": "错误。意为“介导、调控”，宾语通常为神经信号、信息流、因果联系或认知反应（如 mediate neural transmission / behavioral reactions），无法将解剖组织实体（thalamic nucleus）本身作为客体直接介导。"
+    },
+    "translation": "高分辨率功能核磁共振成像显示，位于后丘脑核两侧的孪生感觉叶早在深思熟虑的认知识别发生之前，便已参与了即时联想加工。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_07",
+    "group_id": 174,
+    "group_name": "uplift, exalt, animate, enliven",
+    "level": "TEM-8",
+    "target_word": "uplift",
+    "question": "During periods of acute national trauma, the poet laureate believed his civic calling was not to politicize grief, but to comfort and ___ a demoralized public with enduring narratives of hope.",
+    "options": [
+      "uplift",
+      "exalt",
+      "animate",
+      "enliven"
+    ],
+    "answer": "uplift",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中并列结构“comfort and ___”与宾语“a demoralized public”及介词短语“with enduring narratives of hope”构成决定性搭配锚点。韦氏词典将 uplift 精确定义为“fill with high spirits; fill with optimism（使情绪高昂；使充满乐观希望）”及“elevate morally or spiritually”。在抚慰国家创伤的语境下，唯有 uplift 能与 comfort 形成自然的情感双重修辞搭配，表示从沮丧绝望中提振公众精神；其余三词在情感安抚与精神复苏的搭配上均存在语法或语义排他。",
+    "distractor_analysis": {
+      "uplift": "正确。uplift 指在道德、精神或情感上给予提振，使人摆脱消沉并重获希望（fill with high spirits/optimism）。此处与 comfort 并列，修饰承受创伤的公众（demoralized public），语体高度契合且搭配无懈可击。",
+      "exalt": "错误。exalt 核心含义为“赞扬、推崇、高度颂扬”或“提升（地位、权力、等级）”（to raise in rank or power; to glorify）。本句旨在抚慰并振奋公众精神，而非对公众进行“神圣化颂扬”或“擢升官阶”，语义严重偏离语境。",
+      "animate": "错误。animate 侧重于“赋予生命、促使行动或使活跃”（to give life or vigor to; motivate into action），强调机械或动力学上的激活与驱使，与 comfort 所传递的温和抚慰、精神托举的心理认知色彩不符。",
+      "enliven": "错误。enliven 指“使气氛活跃、使增添趣味”（to make lively, cheerful, or brisk），常用于调节沉闷无聊的聚会、对话或文本（如 enliven a party/speech）。用于面对“急性国家创伤（acute national trauma）”与“士气低落的公众”时，显得过于轻浮浅薄，产生严重的语域与语体色彩冲突。"
+    },
+    "translation": "在国家遭受剧烈创伤的时期，这位桂冠诗人坚信自己的公民使命并非将悲痛政治化，而是以充满持久希望的叙事来抚慰并振奋士气低落的公众。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_08",
+    "group_id": 174,
+    "group_name": "uplift, exalt, animate, enliven",
+    "level": "TEM-8",
+    "target_word": "exalt",
+    "question": "In his scathing critique of contemporary governance, the political theorist warned against factional movements that ___ partisan loyalty above constitutional norms, thereby systematically dismantling the institutional guardrails of democracy.",
+    "options": [
+      "uplift",
+      "exalt",
+      "animate",
+      "enliven"
+    ],
+    "answer": "exalt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性句法与搭配锚点为“___ [Direct Object] above [Noun Phrase]”（将某物凌驾于某物之上/推崇某物超过另一物）。在四个选项中，仅有 exalt 具有“exalt A above B”的高级学术句法构式，表示“在地位、价值或尊崇度上将A置于B之上”（to elevate by praise or in estimation; place in higher standing）。其余三个动词均无法与介词 above 构成此类比较性推崇搭配。",
+    "distractor_analysis": {
+      "exalt": "正确。exalt 意为“高度推崇；将……置于崇高地位”（to elevate in status or estimation），其后常接介词 above，构成“exalt X above Y”，精准表达派系运动将“党派忠诚”置于“宪政规范”之上的危险偏执，完全契合政治学学术语境。",
+      "uplift": "错误。uplift 为纯粹的及物动词，指在精神、道德或社会经济条件上的改善与提升（elevate spiritually or socio-economically），不存在“uplift A above B”的比较级介词搭配，句法不成立。",
+      "animate": "错误。animate 意为“赋予活力、激发、促动”（to impart vitality to），其逻辑宾语通常为受激发的行动者或思想原则，无法与介词 above 搭配表示“把某价值置于另一价值之上”。",
+      "enliven": "错误。enliven 意为“使更有生气、使生动”（to add zest or interest to），不具备任何抽象价值序列提升或推崇的含义，与介词 above 在句法上无法兼容。"
+    },
+    "translation": "在其对当代国家治理的尖锐批判中，这位政治理论家警示人们警惕那些将党派忠诚凌驾于宪政规范之上的派系运动，因为这种行径正在系统性地拆解民主的制度护栏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_09",
+    "group_id": 175,
+    "group_name": "urinate, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "urinate",
+    "question": "In combat aviation psychology, researchers noted that catastrophic panic can trigger an uncontrollable micturition reflex, compelling trapped aviators to involuntarily ___ despite extensive tactical conditioning designed to maintain somatic composure under fire.",
+    "options": [
+      "urinate",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "urinate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键专业术语“micturition reflex”（排尿反射）构成排他性认知与生理学锚点。在医学与神经生物学中，micturition 即为 urination 的严谨学名，因此该反射直接且唯一引发的动作是“urinate”；其余选项均发生生理机制错配或句法语义断裂。",
+    "distractor_analysis": {
+      "urinate": "正确。句中核心锚点“micturition reflex”为严谨的神经生理学术语，意为“排尿反射”（micturition 与 urination 同义）。在飞行心理学极端应激场景下，致命恐慌使皮层抑制失效并诱发排尿反射，迫使飞行员“involuntarily urinate”（不由自主地排尿）。动词与其生理神经诱因构成绝对精准的学理与语义搭配。",
+      "ooze": "错误。ooze 作不及物动词时主语通常为黏稠液体、病灶或伤口（表示“渗出、流出”），作及物动词时表示“洋溢、散发（魅力、信心等）”。人作为整全的生物主体，绝不能在恐慌下执行“ooze”动作，且该词与排尿反射（micturition reflex）毫无语义关联。",
+      "seep": "错误。seep 为不及物动词，指液体通过多孔介质或裂隙“渗透、渗漏”，或引申指情绪观念潜移默化地渗透。以 aviators（飞行员）为人称主语充当 seep 的动作发出者，属于严重的语义范畴与主谓搭配错误。",
+      "purge": "错误。purge 作及物动词意为“清除、肃清”或“导泻”；在心理学与临床语境中作不及物动词时特指进食障碍患者的“催吐/导泻”代偿行为（purging），通常为个体主动行为，绝非由“micturition reflex”（排尿反射）触发的非自主生理失禁反应。"
+    },
+    "translation": "在作战航空心理学研究中，研究人员注意到，毁灭性的恐慌会触发无法控制的排尿反射，迫使受困飞行员不由自主地小便，尽管他们曾接受过旨在炮火下保持躯体镇定的严苛战术训练。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_10",
+    "group_id": 175,
+    "group_name": "urinate, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "ooze",
+    "question": "In social cognition research, charismatic executives often instinctively ___ unshakeable confidence during crisis negotiations, projecting subtle nonverbal cues that systematically disarm skepticism and foster immediate stakeholder trust.",
+    "options": [
+      "urinate",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "ooze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后直接接名词短语宾语“unshakeable confidence”（坚定的自信），要求谓语动词必须是能接抽象特质名词、表示“自然散发、流露”的及物动词；全组中仅 ooze 具有“ooze confidence”这一经典的及物动词搭配，且与后文“projecting subtle nonverbal cues”形成完备的非语言认知投射呼应。",
+    "distractor_analysis": {
+      "ooze": "正确。在社会认知与领导力心理学语境中，“ooze confidence/charm”（洋溢着/散发出自信或魅力）是极具文学色彩且地道的高端及物搭配。ooze 在此引申为“（从言行举止中）充沛地流露、散发”，与后文“projecting subtle nonverbal cues”（投射微妙的非语言线索）构成紧密的逻辑互文。",
+      "urinate": "错误。urinate 为纯粹的生理学不及物动词（指“排尿”），既不能接“confidence”作宾语，亦在此语境中构成荒诞的范畴错误与语体冲突。",
+      "seep": "错误。seep 在现代英语中属于不及物动词，表示液体渗透或抽象事物渗入（常接介词 through 或 into，如 doubt seeped into his mind），无法直接跟名词宾语（不存在 *seep confidence 句法形式），存在直接的及物性句法违歧。",
+      "purge": "错误。purge 虽可作及物动词，但其词义为“清除、涤除（不良、有害或异己之物）”。若填入 purge，句子含义将变为“高管在谈判中本能地清除/消灭坚定自信”，不仅与语境逻辑严重背道而驰，更与后文“消除怀疑并建立利益相关者信任”产生致命的语义反转。"
+    },
+    "translation": "在社会认知研究中，富有魅力的高管在危机谈判中往往会本能地散发出无比坚定的自信，投射出微妙的非语言线索，从而系统性地消除疑虑并迅速建立利益相关者的信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_11",
+    "group_id": 176,
+    "group_name": "usurp, extort, despoil, recapture",
+    "level": "TEM-8",
+    "target_word": "usurp",
+    "question": "Legal scholars cautioned that granting the newly formed regulatory tribunal unchecked discretion to interpret statutory mandates would inevitably ___ the traditional prerogatives reserved exclusively for the constitutional judiciary.",
+    "options": [
+      "usurp",
+      "extort",
+      "despoil",
+      "recapture"
+    ],
+    "answer": "usurp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct collocation with 'the traditional prerogatives reserved exclusively for...', denoting the unlawful encroachment or seizure of legitimate institutional authority without right.",
+    "distractor_analysis": {
+      "usurp": "正确。意为“非法篡夺、侵犯（权力、职权、特权）”，与 prerogatives, authority, powers 构成经典固定搭配。句子指赋予行政监管裁判所过大自由裁量权将非法侵占宪制司法的固有特权，语义与学术语域完全契合。",
+      "extort": "错误。意为“勒索、强行索取（钱财、让步）”，典型句式为“extort sth from sb”，无法与“prerogatives（特权）”直接构成及物搭配，且本句无强制敲诈之意，属于语义与搭配不当。",
+      "despoil": "错误。意为“掠夺、洗劫（物理资产或领地）”，及物动词用法常为“despoil sb/sth of sth”（剥夺某人/某处的财物），无法直接接抽象制度特权“prerogatives”作为直接宾语，属于范畴错配（category error）。",
+      "recapture": "错误。意为“重获、收复”，带有前缀 re-，特指重新夺回先前曾拥有的阵地、市场份额或记忆。新建的监管裁判所此前从未拥有过司法机构的传统特权，使用 recapture 在逻辑和时序上自相矛盾。"
+    },
+    "translation": "法学学者警告称，若赋予新设立的监管裁判所解释法定指令的无限制裁量权，势必会侵夺专属宪制司法机构的传统特权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_12",
+    "group_id": 176,
+    "group_name": "usurp, extort, despoil, recapture",
+    "level": "TEM-8",
+    "target_word": "extort",
+    "question": "By leveraging their control over crucial maritime chokepoints, the insurgent coalition attempted to ___ significant political concessions from the embattled central government during the fragile peace negotiations.",
+    "options": [
+      "usurp",
+      "extort",
+      "despoil",
+      "recapture"
+    ],
+    "answer": "extort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and collocational frame '___ significant political concessions from [someone]', signifying the coercive extraction of compromises through illicit pressure or leverage.",
+    "distractor_analysis": {
+      "extort": "正确。意为“（以威胁、施压手段）强行榨取、索取”，其核心搭配即为“extort concessions/money from sb”。句中叛乱武装利用地缘咽喉要道施加杠杆，从四面楚歌的中央政府处强行索取政治妥协，句法与语义高度契合。",
+      "usurp": "错误。意为“篡夺、侵占（职权、地位）”，通常及物接 office, throne, power 等名词，不能与“concessions（让步）”搭配，亦不能与介词“from”连用表达索取妥协。",
+      "despoil": "错误。意为“洗劫、抢掠”，常规句法结构为“despoil sb/sth of sth”，既不能以“concessions”作受词，也不能搭配介词“from”，存在严重的句法与搭配冲突。",
+      "recapture": "错误。意为“重新夺回、收复（失去之物）”。让步（concessions）是谈判中由对方做出的退让与妥协，并非叛乱组织原本拥有后又丧失的既有事物，因此无法构成“recapture concessions from”的逻辑搭配。"
+    },
+    "translation": "通过利用对关键海上咽喉要道的控制，叛军联盟企图在脆弱的和谈期间，从四面楚歌的中央政府手中强行勒索重大的政治让步。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_13",
+    "group_id": 177,
+    "group_name": "void, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "void",
+    "question": "Cognitive neuropsychologists observed that severe damage to the prefrontal cortex severely impaired the patient's executive inhibition, depriving him of the conscious capacity to voluntarily ___ his bladder during critical diagnostic trials.",
+    "options": [
+      "void",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "void",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "conscious capacity to voluntarily ___ his bladder（在神经认知医学中，与“排空膀胱/自主排尿”形成权威学术搭配的动词唯有 void）",
+    "distractor_analysis": {
+      "void": "正确。void 作及物动词时，具有高度正式的生理医学专有义项，指“排泄、排空（排泄物或膀胱）”（to excrete or discharge from the body）。在认知神经学与医学英语中，void one's bladder（排空膀胱）属于极为固定且严谨的标准学术搭配，与句中“executive inhibition”（执行抑制）及“conscious capacity to voluntarily...”（自主控制能力）完美契合。",
+      "ooze": "错误。ooze 作动词通常意为“渗出、流出”或比喻义“洋溢”，在描述生理器官时不可带组织器官作为直接宾语（不可说 ooze one's bladder），存在严重的句法与语义搭配断裂。",
+      "seep": "错误。seep 为不及物动词（vi.），意为“渗透、微流”，后接介词短语（如 seep through/into），绝对不能直接接宾语 his bladder，在句法结构上直接违规。",
+      "purge": "错误。purge 意为“清洗、使净化、泻下”，主要用于肠胃催泻（purge the bowels）或清除毒素杂质（purge toxins），从未用于指代受大脑前额叶皮层自主调控的排尿与排空膀胱过程；在此处替换会造成严重的医学语域及习惯搭配破裂。"
+    },
+    "translation": "认知神经心理学家观察到，前额叶皮层的严重损伤严重削弱了该患者的执行抑制功能，使他在关键诊断测试中丧失了自主排空膀胱的意识控制能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_14",
+    "group_id": 177,
+    "group_name": "void, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "ooze",
+    "question": "Despite enduring relentless cross-examination during the public inquiry, the cognitive scientist managed to ___ quiet confidence and composure, systematically dismantling every skeptical objection with consummate intellectual precision.",
+    "options": [
+      "void",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "ooze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "managed to ___ quiet confidence and composure（与“自信、镇定”等心理/认知品质搭配，表达“由内而外自然流露、洋溢出”的及物动词唯有 ooze）",
+    "distractor_analysis": {
+      "ooze": "正确。ooze 在高级英语及韦氏词典中具备专门的比喻性及物动词义项，意为“充分显露、流露出（某种品质或神态）”（to exude or display abundantly）。“ooze confidence/composure”（洋溢着自信/从容不迫）属于高阶英语中的固定修辞搭配，极佳地呼应了后文“systematically dismantling every skeptical objection”（系统性瓦解一切质疑）的沉着心理认知状态。",
+      "void": "错误。void 作及物动词指“使无效、取消（法令/合同）”或“排空（排泄物）”，无法与抽象心理品质（confidence and composure）形成及物搭配，在语义逻辑上完全不通。",
+      "seep": "错误。seep 描述思想或情绪渗透时几乎严格用作不及物动词（如 fear seeped into his mind），无法直接接宾语 quiet confidence and composure，造成句法结构失误。",
+      "purge": "错误。purge 意为“清除、净化、消除（不良情绪或异见）”。若在此处使用 purge confidence and composure，其语义将变成“清除掉自信与镇定”，与后文展现出的从容专业度产生致命的情感极性倒错与逻辑矛盾。"
+    },
+    "translation": "尽管在听证会上承受着严苛无情的盘问，这位认知科学家仍旧从容流露出沉着与自信，以极其精湛的学识逻辑系统性地瓦解了每一个质疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_15",
+    "group_id": 178,
+    "group_name": "whiff, blurt, snivel, blunder",
+    "level": "TEM-8",
+    "target_word": "whiff",
+    "question": "Drawing methodically on his briar pipe, the veteran envoy did not raise his voice; instead, he would nonchalantly ___ his assent through a ring of smoke, allowing the whispered syllables to fade into the quiet chamber.",
+    "options": [
+      "whiff",
+      "blurt",
+      "snivel",
+      "blunder"
+    ],
+    "answer": "whiff",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Merriam-Webster's explicit definition 'to utter with a puff of air' and its classic literary usage pattern ('whiffed his assent through the smoke'), anchored by 'Drawing methodically on his briar pipe', 'through a ring of smoke', and 'whispered syllables'.",
+    "distractor_analysis": {
+      "whiff": "正确。Merriam-Webster将及物动词whiff专门定义为'to utter with a puff of air'（伴随一口气/烟雾吐出言语；轻声吐出），其权威语料例证即为'whiffed his assent through the smoke'。句中的'Drawing methodically on his briar pipe'（吸着烟斗）、'through a ring of smoke'（透过烟圈）及'whispered syllables'构成了不可替代的物理与语义搭配锚点，完美契合平静从容地随烟雾吐出赞同言辞的语境。",
+      "blurt": "错误。blurt表示'脱口而出，不假思索地脱口说出'（to utter abruptly and impulsively），通常伴随情绪冲动或慌乱失控，与句中'methodically'（有条不紊地）、'nonchalantly'（漫不经心地）以及'did not raise his voice'所体现的冷静优雅姿态形成尖锐的逻辑与语域冲突。",
+      "snivel": "错误。snivel主要指抽泣、吸鼻涕或带哭腔委屈抱怨（to whine or whimper tearfully），感情色彩极度低劣猥琐，既无法支配'his assent'表达从容的赞同，也完全破坏了老练外交官沉着吸烟的高级语体氛围。",
+      "blunder": "错误。blunder用作言语动作时多与out连用（blunder out），指笨拙、结结巴巴或极其失策地吐露言词；作为普通及物动词时意为'搞砸、瞎搞'（如blunder a task）。它表示因愚蠢笨拙而犯错，与本句平静自若、控制感极强的言语动作完全不符。"
+    },
+    "translation": "老外交官有条不紊地抽着石楠根烟斗，并未提高声调；相反，他只是隔着一缕烟圈漫不经心地呼气吐出赞同之语，任由轻声吐出的音节消散在静谧的房间里。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_16",
+    "group_id": 178,
+    "group_name": "whiff, blurt, snivel, blunder",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Caught completely off guard by the committee's hostile questioning, the rattled spokesperson lost his composure and proceeded to ___ an indiscreet admission, instantly regretting that his uncalculated impulse had compromised the administration.",
+    "options": [
+      "whiff",
+      "blurt",
+      "snivel",
+      "blunder"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The cognitive impulse-control failure indicated by 'Caught completely off guard', 'lost his composure', and 'uncalculated impulse' strictly selects 'blurt' (to utter abruptly and impulsively) in direct collocation with 'an indiscreet admission'.",
+    "distractor_analysis": {
+      "blurt": "正确。Merriam-Webster定义blurt为'to utter abruptly and impulsively'（突然冲动地脱口说出），可直接支配表示不慎吐露事实的名词（如blurt an admission / confession / apology）。句中'Caught completely off guard'（措手不及）、'lost his composure'（失去镇定）与'uncalculated impulse'（未经深思的冲动）提供了决定性的认知失控排他锚点，精准吻合blurt的核心语义与搭配。",
+      "whiff": "错误。whiff作及物动词意为'闻到、吸入'、'伴随烟气轻声吐出'或'使（击球手）三振出局'，根本无法与激烈质询下因冲动脱口说出'an indiscreet admission'（轻率招认）产生认知语义搭配。",
+      "snivel": "错误。snivel主要是不及物动词，指抽抽搭搭地哭诉、抱怨，不能直接接'an indiscreet admission'作宾语来表示冲动言语爆发，句法与语意均不成立。",
+      "blunder": "错误。blunder若不带小品词out，作为及物动词时意为'把……搞砸'（bungle/botch），如blunder an assignment；'blunder an admission'在英语中极度违和且不符合'冲动脱口招认'的语义。即使表达失言，也必须使用phrasal verb 'blunder out'，在此处出现严重句法和搭配断裂。"
+    },
+    "translation": "面对委员会充满敌意的质询，这位惊慌失措的发言人完全猝不及防，方寸大乱，竟脱口说出了一番轻率的招认，随即为自己一时冲动使政府陷入被动而懊悔不已。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_17",
+    "group_id": 179,
+    "group_name": "whoop, wail, squawk, screech",
+    "level": "TEM-8",
+    "target_word": "whoop",
+    "question": "When the international arbitration tribunal conclusively validated the maritime boundary, the nation’s legal delegation broke formal decorum to ___ in triumphant vindication, having endured decades of diplomatic marginalization.",
+    "options": [
+      "whoop",
+      "wail",
+      "squawk",
+      "screech"
+    ],
+    "answer": "whoop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配与情感极性锚点 'in triumphant vindication' 明确要求表示由于胜诉雪耻而由衷爆发出的欢呼呐喊；四个选项中仅 whoop 具备'因胜利或狂喜而高呼'的核心词义并构成标准搭配。",
+    "distractor_analysis": {
+      "whoop": "正确。whoop 意为“（因狂喜、胜利或极度兴奋而）高呼、欢呼”（shout with joy or enthusiasm），在学术外事报道中常与表示凯旋、狂喜的介词短语连用（如 whoop in triumph / vindication）。此处与后文的 in triumphant vindication（在沉冤昭雪的胜利中）完美呼应，准确生动地描绘出代表团打破外交礼仪欢呼雀跃的场景。",
+      "wail": "错误。wail 指“（因剧痛、悲痛或哀伤而）恸哭、哀嚎”，感情色彩为极度的消极悲恸（如 wail with grief / in anguish），与句中胜利雪耻的正向情感极性（triumphant vindication）构成直接的语义反义冲突。",
+      "squawk": "错误。squawk 原指禽类发出短促刺耳的啼叫，引申为“大声抱怨、尖叫抗议”（常接 about），带有琐碎、恼怒或滑稽的语体色彩，无法与崇高庄严的法庭胜诉语境兼容，且不能与 in triumphant vindication 搭配。",
+      "screech": "错误。screech 指发出尖锐刺耳、令人极其不适的高声尖叫（多因极度惊恐、剧痛、慌乱或机械摩擦引起，如 screech in terror），具有强烈的负面听觉与惊恐意味，与庄重语境下的胜利欢庆存在严重的风格与感情色彩断裂。"
+    },
+    "translation": "当国际仲裁法庭最终确立了该海洋边界时，历经数十年外交边缘化的该国法律代表团打破了正式礼节，在沉冤昭雪的胜利中欢呼雀跃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_18",
+    "group_id": 179,
+    "group_name": "whoop, wail, squawk, screech",
+    "level": "TEM-8",
+    "target_word": "wail",
+    "question": "Rather than merely ___ over the inexorable erosion of indigenous linguistic heritage, cultural preservationists must construct digitized archival repositories that facilitate active, intergenerational pedagogical revival.",
+    "options": [
+      "whoop",
+      "wail",
+      "squawk",
+      "screech"
+    ],
+    "answer": "wail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式与介词搭配锚点 'merely ___ over the inexorable erosion...' 明确要求一个能与 over 搭配且表示对文化衰败'徒劳悲叹、痛惜'的高阶书面动词，与后半句的积极建构行动形成对比；唯有 wail over 构成此固定学术表达。",
+    "distractor_analysis": {
+      "wail": "正确。wail 在本题中取其高阶书面引申义，意为“（对不幸、损失等）悲叹、痛惜、徒劳哀怨”（lament or mourn），常与介词 over 搭配构成 wail over something（如 wail over the loss / decline of...）。与前文的 merely 以及后半句“构建数字化档案以促进教学复兴”形成严密的认知与修辞对照，语体风格高度契合。",
+      "whoop": "错误。whoop 专指因胜利或极度兴奋而欢呼（shout with joy），具有绝对正向的欢庆色彩；若置于句中表示对“本土语言遗产不可逆转的消逝”欢呼（whoop over），在逻辑认知与文意语境上产生荒谬的悖反。",
+      "squawk": "错误。squawk 意为“大声抱怨、呱呱乱叫”，多用于非正式语境且常接 about 表示对微不足道之事的琐碎抗议；既不能与 over 搭配表达深沉的历史文化悲悼，在学术论文的严肃语域中也构成严重的文体冲突。",
+      "screech": "错误。screech 专指因惊骇、剧痛或刹车摩擦而发出的物理性尖叫（如 screech in pain），属于纯粹的声音描写动词，不与介词 over 连用表达对抽象损失的“认知哀叹”或“理性悲吟”，存在明显的句法搭配与语义范畴断裂。"
+    },
+    "translation": "文化保护主义者不应仅仅对本土语言遗产不可逆转的流逝徒劳悲叹，而必须构建数字化档案库，以促进积极的代际教学复兴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_19",
+    "group_id": 180,
+    "group_name": "admonish, snipe, assail, reprove",
+    "level": "TEM-8",
+    "target_word": "admonish",
+    "question": "Recognizing the speculative mania distorting sovereign bond yields, the central bank governor intervened to ___ institutional investors to curb their excessive leverage before systemic vulnerabilities became irreversible.",
+    "options": [
+      "admonish",
+      "snipe",
+      "assail",
+      "reprove"
+    ],
+    "answer": "admonish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Followed by the syntactic structure '[verb] + direct object + to-infinitive' denoting solemn, forward-looking warning and institutional exhortation regarding financial duty, which exclusively matches 'admonish'.",
+    "distractor_analysis": {
+      "admonish": "【正确】admonish 意为“温和而严肃地告诫、劝诫”，侧重于指出责任、义务，并伴随严肃的预先警告与敦促，常接“admonish somebody to do something”句型。此处央行行长严肃告诫机构投资者抑制杠杆以防范系统性风险，无论在句法搭配还是权威规诫的语域色彩上均完全契合。",
+      "snipe": "【排除】snipe 作动词多为不及物用法，常与介词 at 连用（snipe at sb/sth），意为“放冷枪、进行暗中或琐屑的抨击”，不可接“sb to do sth”的双宾补句型，且词义带有隐蔽、恶意中伤的色彩，与央行行长的官方正式规劝逻辑彻底背离。",
+      "assail": "【排除】assail 意为“猛烈抨击、痛击”，为纯及物动词，通常直接接宾语（assail sb/sth）或接介词 with/by（assail sb with questions），现代英语中不能接“sb to do sth”结构，且语义仅强调攻击的剧烈程度，缺乏“告诫、劝止”的引导性内涵。",
+      "reprove": "【排除】reprove 意为“责备、非难”，侧重于对已经发生的过失或不良行为表达温和的批评，其标准句法搭配为“reprove somebody for (doing) something”，不能支配不定式补足语“to curb...”，因句法搭配不合而排除。"
+    },
+    "translation": "鉴于扭曲国债收益率的投机狂潮，央行行长出面严肃告诫机构投资者抑制过度杠杆，以免系统性脆弱演变为不可逆的危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b17_20",
+    "group_id": 180,
+    "group_name": "admonish, snipe, assail, reprove",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than presenting a substantive alternative to the proposed fiscal reforms, disgruntled backbenchers chose to ___ at the chancellor’s personal credibility from the safe anonymity of confidential press briefings.",
+    "options": [
+      "admonish",
+      "snipe",
+      "assail",
+      "reprove"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Governs the preposition 'at' and collocates decisively with covert, petty verbal potshots launched 'from the safe anonymity of confidential press briefings', uniquely matching the metaphorical sense of 'snipe'.",
+    "distractor_analysis": {
+      "snipe": "【正确】snipe 本义为“伏击、打冷枪”，引申指“（从隐蔽或安全处）进行冷嘲热讽、放暗箭或零星挑衅”，是不及物动词，严格与介词 at 搭配（snipe at）。句中的“from the safe anonymity of confidential press briefings”（在保密的媒体通气会中借由安全的匿名身份）生动构成了隐蔽伏击的语境锚点，语义和语法均极度契合。",
+      "admonish": "【排除】admonish 为及物动词，意为“告诫、劝勉”，后接人或事作直接宾语（admonish sb），不可与介词 at 连用（*admonish at），语法结构断裂。",
+      "assail": "【排除】assail 意为“猛烈抨击、痛打”，为典型及物动词，直接支配受体名词（如 assail his credibility），不能跟介词短语“at the chancellor's...”，出现严苛的介词搭配错误。",
+      "reprove": "【排除】reprove 为及物动词，指正式或温和地“申斥、责怪”，其句式为“reprove sb (for sth)”，绝不能与介词 at 组合（*reprove at），句法不成立。"
+    },
+    "translation": "心怀不满的后座议员们非但没有就拟议的财政改革提出实质性替代方案，反而选择在保密的新闻通气会上借着安全的匿名身份，对财政大臣的个人公信力放冷箭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

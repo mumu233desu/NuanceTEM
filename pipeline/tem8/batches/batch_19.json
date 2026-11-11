@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b19_01",
+    "group_id": 191,
+    "group_name": "bicker, spar, quibble, squabble",
+    "level": "TEM-8",
+    "target_word": "bicker",
+    "question": "Confined to grueling late-night negotiations, the exhausted envoys began to ___ in hushed, weary exasperation, trading petty personal grievances rather than addressing the substantive draft treaty.",
+    "options": [
+      "bicker",
+      "spar",
+      "quibble",
+      "squabble"
+    ],
+    "answer": "bicker",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "句中的情境限制状语 'in hushed, weary exasperation'（在压抑低沉、疲惫不堪的恼怒中）与伴随分词 'trading petty personal grievances'（互诉/互揭琐碎的个人私怨）构成了决定性排他锚点。各大权威词典（MW, OED, Collins）对 squabble 的核心定义均严格包含 'noisy/loud altercation'（大声喧闹的争吵），与 'hushed'（压低声音、静寂的）存在不可调和的语义逻辑冲突；spar 强调机敏、有战术性的言语交锋，与疲倦厌烦的情绪背道而驰；quibble 专指就字句条款细节吹毛求疵，无法接个人私怨。唯有 bicker 既能完美容纳压抑低语（hushed）的状态，又精准指代在疲惫封闭环境中持续发生的烦人、任性的人际反目与斗嘴。",
+    "distractor_analysis": {
+      "bicker": "正确。bicker 强调在长久或疲惫的人际相处中，因琐碎事务进行的任性、恼人、耗费精力的反目与口角（tiresome or bad-tempered exchange over petty matters）。它既常与 'in hushed tones/voices' 构成地道搭配（描摹压抑声调下的相互攻讦），又与后文 'trading petty personal grievances'（互揭个人恩怨）所体现的情绪内耗完全契合。",
+      "squabble": "错误。各大权威英语词典（如 Merriam-Webster: 'stresses a noisy, undignified... altercation'；OED: 'dispute or argue noisily'）均将“嘈杂、喧闹”（noisy/loud）作为 squabble 的必要核心语义要素。在此语境下，将其与 'in hushed... exasperation'（压低声音、低沉压抑的恼怒）连用构成了直接的语义矛盾与逻辑相悖（oxymoron），且 squabble 多指为争夺具体利益、地盘或物品的哄闹争执。",
+      "spar": "错误。spar 源自拳击训练，引申指机智、敏捷或试探性的言语交锋（a spirited or tactical contest of wits），多用于辩论或公关对抗中测试对方虚实，完全无法契合句中特使们在深夜谈判中表现出的 'exhausted'（筋疲力竭）与 'weary exasperation'（疲倦恼怒）的负面心力衰竭状态。",
+      "quibble": "错误。quibble 专指在微不足道的技术细节、文本定义、字眼或论据上吹毛求疵（evade the main point by raising trivial objections/cavil）。本句后半段明确指出特使们是在 'trading petty personal grievances'（发泄琐碎私怨），属于人际间的情绪摩擦而非针对条约文本字句的挑剔争辩。"
+    },
+    "translation": "困于艰苦的深夜谈判，精疲力竭的特使们开始在压抑而疲惫的恼怒中反目斗嘴，互相宣泄琐碎的个人私怨，而未能着手解决实质性的条约草案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_02",
+    "group_id": 191,
+    "group_name": "bicker, spar, quibble, squabble",
+    "level": "TEM-8",
+    "target_word": "spar",
+    "question": "During the preliminary debate, the two seasoned diplomats continued to ___ deftly across the negotiation table, trading sharp rhetorical jabs to test each other's endurance without derailing the fragile peace framework.",
+    "options": [
+      "bicker",
+      "spar",
+      "quibble",
+      "squabble"
+    ],
+    "answer": "spar",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中紧随其后的副词 'deftly'（熟练地、敏捷地）与分词短语 'trading sharp rhetorical jabs to test each other's endurance'（互施犀利的言辞交锋以测试彼此的耐力）直接借用了拳击对练的隐喻，精准对应 spar 源自拳击试探性过招（trade blows as in a practice boxing match）的深层语义，排除了其他纯属琐碎争吵的词汇。",
+    "distractor_analysis": {
+      "spar": "正确。spar 源自拳击训练，比喻双方在争论中如同拳手过招般有来有回、试探交锋（trade sharp blows or words to test an opponent's defense）。句中 'deftly' 与 'rhetorical jabs'（修辞性刺拳）构成决定性的隐喻搭配锁扣。",
+      "bicker": "错误。bicker 强调充满脾气与怨气的无休止口角（bad-tempered, peevish argument），带有明显的非理性和不成熟感，绝不能由修饰高超技艺的 'deftly' 修饰，也无法与测试战略耐力的外交博弈搭配。",
+      "quibble": "错误。quibble 指就微不足道的字句细节挑刺、狡辩或吹毛求疵，其动作特征是琐碎挑衅，而非像拳击般互掷言辞刺拳（rhetorical jabs）进行宏观立场的试探性对抗。",
+      "squabble": "错误。squabble 描述的是喧闹、失态、滑稽且有失体统的琐事纠纷（noisy and undignified squabble），极度违背严肃高级外交辩论的语域风格（diplomats across the negotiation table），语体冲突严重。"
+    },
+    "translation": "在初轮辩论中，两位经验丰富的外交官在谈判桌前机敏地言辞交锋，相互施以犀利的语言试探以检验对方的耐力，同时又避免破坏脆弱的和平框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_03",
+    "group_id": 192,
+    "group_name": "bisect, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "bisect",
+    "question": "The proposed transcontinental pipeline is engineered to ___ the fragile wetland sanctuary along its median axis, a trajectory that environmental litigators argue will permanently fragment the contiguous breeding grounds.",
+    "options": [
+      "bisect",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "bisect",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_ENVIRONMENTAL_SCIENCE",
+    "anchor_clue": "The prepositional phrase 'along its median axis' combined with the resultant effect 'fragment the contiguous breeding grounds' decisively requires a verb denoting axial division through the center into two parts.",
+    "distractor_analysis": {
+      "bisect": "正确。源自拉丁语前缀 bi-（二）与 secare（切割），核心含义为“二等分、从中间穿过/横断”。句中空间几何锚点“along its median axis”（沿其中轴线）与结果“fragment the contiguous breeding grounds”（使连贯的繁殖地碎片化）严密呼应，精准传达出管线沿中央轴线将保护区纵向一分为二的工程轨迹。",
+      "lop": "错误。意为“砍去、剪掉（树枝、肢体等附生或冗余部分）”，通常与 off 或 from 连用，作用对象是从主体上砍除的外围枝节，无法与“沿中轴线穿透并平分整体地理空间”的语义和句法结构相容。",
+      "pare": "错误。意为“削去外皮、修剪边缘”或引申为“逐步削减（成本、规模）”（常与 down 搭配）。该词施动于外缘表层或总量压缩，不能用来描述管线从中轴贯穿并将地理保护区割裂为两半的物理过程。",
+      "indent": "错误。主要指“使边缘呈锯齿状”或“使海岸线凹进形成海湾”，其动作空间严格局限于外周轮廓或边界（margin/perimeter），与穿透腹地内部中轴线（along its median axis）的线性横断动作存在根本性的空间语义冲突。"
+    },
+    "translation": "拟建的跨大陆管线计划沿中轴线横切这片脆弱的湿地保护区，环境诉讼律师坚称，这一路线走向将使原本连成一体的繁殖地彻底碎片化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_04",
+    "group_id": 192,
+    "group_name": "bisect, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "In a desperate bid to curtail mounting deficits, the restructuring committee voted to ___ three non-core subsidiaries from the corporate conglomerate, opting for an immediate, radical amputation rather than a gradual reduction.",
+    "options": [
+      "bisect",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The verb governs the removal of discrete units ('three non-core subsidiaries from...') and is explicitly glossed by 'immediate, radical amputation rather than a gradual reduction'.",
+    "distractor_analysis": {
+      "lop": "正确。lop 的核心意象为‘利落砍下、猛力截断（枝桠或附属肢体）’，在管理与财经语境中常借喻为‘断然砍掉、强行剥离（亏损部门、业务枝节）’，其经典句型为 lop sth from/off sth。后文的‘immediate, radical amputation’（立即且彻底的切除截肢）为该词提供了不可替代的决定性同义锚点。",
+      "bisect": "错误。指将一个单一实体横断切分成相等的两半，无法用于‘从母体集团中砍掉三个非核心子公司（___ three subsidiaries from...）’的剥离与截除逻辑。",
+      "pare": "错误。语义为‘修剪、逐步削减’（强调 gradual reduction，如 pare down costs）。后文的转折语境明确排斥了‘gradual reduction’（rather than a gradual reduction），语义与语境形成直接正负对立，逻辑完全不能自洽。",
+      "indent": "错误。意为‘形成凹痕’或‘（从边缘）缩进’，完全不具备从某一母体组织中切除、剥离独立实体的及物动词语义。"
+    },
+    "translation": "为了遏制日益扩大的财政赤字，重组委员会投票决定从企业集团中果断砍掉三家非核心子公司，选择了立即、彻底的‘截肢手术’，而非循序渐进的缓慢缩减。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_05",
+    "group_id": 193,
+    "group_name": "blanch, fry, poach, coddle",
+    "level": "TEM-8",
+    "target_word": "blanch",
+    "question": "Before subjecting the harvested legumes to cryogenic freezing, technicians must briefly ___ the pods in pressurized steam to denature endogenous peroxidase enzymes without degrading cellular turgor or leaching water-soluble nutrients.",
+    "options": [
+      "blanch",
+      "fry",
+      "poach",
+      "coddle"
+    ],
+    "answer": "blanch",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心限定搭配“briefly ... in pressurized steam”（在加压蒸汽中短暂处理）与“denature endogenous peroxidase enzymes without degrading cellular turgor”（使内源性过氧化物酶变性而不破坏细胞膨压），直接锁定了食品加工中特指将蔬菜置于沸水或蒸汽中“烫漂/杀青”的专属工艺动词 blanch。",
+    "distractor_analysis": {
+      "blanch": "正确。blanch 在专业烹饪与食品加工学中特指将果蔬短暂置于沸水或蒸汽中烫漂（parboil/scald briefly），其核心功能在于通过瞬间高温灭活多酚氧化酶或过氧化物酶，同时固定色泽并保留组织脆度（cellular turgor），与句中冷冻前工序完全吻合。",
+      "fry": "错误。fry 指“油炸、油煎”，以油脂为传热介质并在高温下促成脱水与美拉德反应。句中明确指明热媒为“pressurized steam”（加压蒸汽），且冷冻蔬菜预处理绝非使用油脂炸制，语境与介质均不兼容。",
+      "poach": "错误。poach 指“水煨、微沸慢煮”，通常是将鱼、蛋或水果浸没在略低于沸点（约70–80°C）的液体中长时间温和浸熟。这与工业灭酶所需的“短暂蒸汽瞬间热激（flash heating）”在作用时间尺度、加热介质与工艺目的上截然相悖。",
+      "coddle": "错误。coddle 指“（在低于沸点的温水中）徐徐慢煮（如煮嫩蛋）”，亦可引申为“娇宠、溺爱”。该词完全不用于食品工程中果蔬冷冻前的工业杀青与酶钝化处理。"
+    },
+    "translation": "在将采收的豆类进行深冷冷冻之前，技术人员必须先将豆荚置于加压蒸汽中短暂烫漂，以使内源性过氧化物酶变性，同时避免破坏细胞膨压或滤失水溶性营养素。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_06",
+    "group_id": 193,
+    "group_name": "blanch, fry, poach, coddle",
+    "level": "TEM-8",
+    "target_word": "fry",
+    "question": "Rather than relying on sub-boiling aqueous immersion to preserve delicate protein structures, modern industrial dehydration protocols ___ the restructured matrices at temperatures exceeding 175°C, driving rapid internal moisture vaporization and cellular consolidation.",
+    "options": [
+      "blanch",
+      "fry",
+      "poach",
+      "coddle"
+    ],
+    "answer": "fry",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_SCIENCE_TECHNOLOGY",
+    "anchor_clue": "句首分词短语“Rather than relying on sub-boiling aqueous immersion to preserve delicate protein structures”（而不是依赖低于沸点的水相浸润来保护娇嫩的蛋白质结构）明确否定并排除了低温水相烹煮方式；而后半句的温度参数与传热脱水机制“at temperatures exceeding 175°C, driving rapid internal moisture vaporization”（在超过175°C的高温下，驱动内部水分快速汽化）构成了决定性排他锚点：blanch（汆烫/杀青）基于常压水或蒸汽（上限约100°C）且主要用于短时间钝化酶活，而 poach 和 coddle 均为80°C以下的低温水煮；在给定的四个加工动词中，唯有以油脂为导热介质的 fry 能够工作在175°C以上的超沸点温区，并实现剧烈的水分相变汽化与基质固化。",
+    "distractor_analysis": {
+      "blanch": "错误。blanch 指用沸水（约100°C）或蒸汽对食材进行短时间预热处理，其工业与烹饪核心功能在于钝化多酚氧化酶或软化外皮，操作介质严格为水相，温度不可能达到“exceeding 175°C”，亦无法实现深度脱水汽化（moisture vaporization）。",
+      "fry": "正确。fry 在食品加工工程中指以疏水性脂质为传热介质的高温加工过程，工业作业温区通常为160°C–190°C（契合句中“temperatures exceeding 175°C”），其基本热力学特征在于通过剧烈传热驱使物料内部自由水瞬时汽化逸散（“internal moisture vaporization”），并使淀粉及蛋白质外壳迅速定型固化（“cellular consolidation”），完全契合学术语境与物理指标。",
+      "poach": "错误。poach 指在微沸或低于沸点（通常在71°C–82°C）的水相液体中轻柔浸煮，正是句首“sub-boiling aqueous immersion to preserve delicate protein structures”所界定并被“Rather than”明确排除的操作机制，与后半句175°C的高温工况存在不可调和的逻辑与物理冲突。",
+      "coddle": "错误。coddle 指在低于沸点的极温和水浴（通常60°C–80°C）中缓和慢煨（如制作水波蛋或慢煮嫩蛋），旨在防止蛋白质受热过度变性硬化，同样属于句首被排除的低温保护性加工，与175°C以上的高温剧烈脱水过程直接对立。"
+    },
+    "translation": "现代工业脱水规程并未依赖低于沸点的水相浸润来保护娇嫩的蛋白质结构，而是将重构基质置于超过175°C的高温下进行油炸处理，从而促使内部水分迅速汽化并实现细胞结构的固化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_07",
+    "group_id": 194,
+    "group_name": "bleep, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "bleep",
+    "question": "Whenever the telemetry receiver registered an anomalous synaptic surge, the diagnostic module would intermittently ___ with high-pitched urgency, demanding the cognitive researchers' immediate intervention before data corruption occurred.",
+    "options": [
+      "bleep",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "bleep",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The electronic subject 'diagnostic module' paired with the co-occurring modifiers 'intermittently' (discrete acoustic signals) and 'with high-pitched urgency' exclusively selects 'bleep' (to emit a short, high-pitched electronic signal).",
+    "distractor_analysis": {
+      "bleep": "正确。bleep 指电子仪器发出断续、高亢的哔哔声或无线电寻呼信号（emit a short, high-pitched electronic sound）。句中主语为电子监测设备（diagnostic module），修饰状语为 intermittently（断续地）和 with high-pitched urgency（以高调急促的声音），语义与声学特征均完美契合。",
+      "rap": "排除。rap 指用手指或坚硬物体进行短促有力的物理敲击（strike with a quick, sharp blow），属于机械外力碰撞声，不能用于形容电子模块发出高音调的警报声波。",
+      "thud": "排除。thud 指沉重钝物掉落或碰撞时产生的沉闷声响（a dull, heavy, low-pitched sound）。其核心声学特征是低沉、钝重，与句中的 high-pitched（尖锐、高音调的）存在直接的语义对立，且不符合电子发声设备的运作方式。",
+      "drone": "排除。drone 表示持续发出低沉单调的嗡嗡声（make a continuous low humming sound）。其语义特征为‘连续不断’且‘低频沉闷’，而文中的 intermittently（间歇、断续）与 high-pitched（高亢高音）在频次与音高两个维度上彻底排除了 drone。"
+    },
+    "translation": "每当遥测接收器记录到异常的突触电涌时，诊断模块便会急促地发出断续的高频警报声，要求认知研究人员在数据损毁之前立即介入处理。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_08",
+    "group_id": 194,
+    "group_name": "bleep, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "To re-engage the distracted participants during the cognitive vigilance task, the proctor had to sharply ___ the hardwood table with a stylus, jolting their wandering attention back to the visual stimuli.",
+    "options": [
+      "bleep",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive syntactic frame 'sharply ___ the hardwood table with a stylus' requires a verb denoting a deliberate, sharp physical impact with a small instrument, which only 'rap' can satisfy.",
+    "distractor_analysis": {
+      "rap": "正确。rap 可作及物动词，表示用硬物短促而有力地敲击目标表面（to strike with a quick, sharp blow），常用于引起注意（如 rap the table/desk）。句中与 sharp、stylus（触针/铁笔）及 hardwood table 构成极为自然的及物施动与声学物理搭配。",
+      "bleep": "排除。bleep 表示发出电子蜂鸣声，为不及物动词（或在广播中表示‘哔声屏蔽脏话’），绝不能带物理台面（the hardwood table）作宾语，亦不能与用工具打击（with a stylus）搭配，句法与语义均不成立。",
+      "thud": "排除。thud 主要是指重物撞击或下坠产生的‘沉闷钝响’，句法上通常为不及物动词（如 something thudded against the floor），极罕用作及物动词去‘敲打某物’；此外，用纤细坚硬的 stylus 敲击硬木桌面发出的是脆响，而 thud 专指低钝沉闷的重击，声学特征完全冲突。",
+      "drone": "排除。drone 作动词时意为‘发出低沉嗡嗡声’或‘单调乏味地说话’，是不及物动词，根本无法进入‘drone the hardwood table with a stylus’这一表示物理敲击的及物结构中。"
+    },
+    "translation": "为了在认知警觉性测试期间重新调动注意力分散的受试者，主考官不得不利落地用触针敲击硬木桌面，将他们游离的注意力震回至视觉刺激上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_09",
+    "group_id": 195,
+    "group_name": "blemish, sully, taint, deface",
+    "level": "TEM-8",
+    "target_word": "blemish",
+    "question": "Although the novelist’s expansive historical saga was celebrated for its visionary scope, clumsy pacing and jarring tonal inconsistencies threatened to ___ what critics otherwise praised as a structurally flawless masterpiece.",
+    "options": [
+      "blemish",
+      "sully",
+      "taint",
+      "deface"
+    ],
+    "answer": "blemish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LITERATURE",
+    "anchor_clue": "主语为文学创作内部的工艺与风格瑕疵（'clumsy pacing and jarring tonal inconsistencies'），宾语为艺术结构的完美杰作（'what critics otherwise praised as a structurally flawless masterpiece'）。该语义对立构成排他性锚点：blemish 专指因内在局部微瑕而损害整体的完美性（MW 权威释义与例证：to spoil by a flaw : mar; 'The book's poor organization blemishes what could have been a masterpiece'）。",
+    "distractor_analysis": {
+      "blemish": "正确。blemish 作为及物动词，核心义为“（因内部缺陷、斑点或疏漏）损伤、破坏（完好之物）的品质、美感或完美性”（MW: to spoil by a flaw : mar）。韦氏词典针对该词条给出的经典范例正是 'The book's poor organization blemishes what could have been a masterpiece'。句中小说内部的形式瑕疵（节奏笨拙与基调不调和）破坏了宏大杰作的结构完美性，在语义、语域与搭配上完全契合。",
+      "sully": "错误。sully 意为“玷污、使蒙羞”（MW: to make soiled or tarnished : defile），其语义核心必须带有道德败坏（moral baseness）、卑劣丑闻、背信弃义或实质性肮脏污秽（如 sully one's honor / reputation with corruption）。本句探讨的是文学艺术层面的技法缺陷，并不涉及任何道德瑕疵或人格丑闻，填入 sully 会造成严重的语域与语义冲突。",
+      "taint": "错误。taint 强调由外界不良成分、毒素、腐化势力或违规手段引起的弥漫性侵蚀与变质污染（MW: to touch or affect with decay, infection, or moral poison），常见于 tainted by bias / scandal 或 tainted evidence。作品内部的叙事节奏与调性失衡属于内在的形式工艺缺陷，而非外来异质毒素的渗透污染，故语义不符。",
+      "deface": "错误。deface 严格局限于物理实体层面的“损毁外观、刻画涂污”（MW: to mar the appearance of by or as if by gouging, scratching, or writing on），宾语必须为建筑表面、纪念碑、货币、书页等具象实体，且通常伴随故意破坏（vandalism）的动作特征。用于抽象的文学结构杰作属于范畴错配（category mistake）。"
+    },
+    "translation": "尽管这位小说家卷帙浩繁的历史史诗因其宏大的构想格局而备受赞誉，但笨拙的节奏推进与刺耳的基调脱节却极有可能破坏评论界此前盛赞为结构上无可挑剔的杰作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_10",
+    "group_id": 195,
+    "group_name": "blemish, sully, taint, deface",
+    "level": "TEM-8",
+    "target_word": "sully",
+    "question": "Firmly committed to institutional neutrality, the ombudsman refused to ___ his hands with the sordid machinations of the ruling party, insisting that constitutional integrity required absolute detachment from political venality.",
+    "options": [
+      "blemish",
+      "sully",
+      "taint",
+      "deface"
+    ],
+    "answer": "sully",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "高阶典雅习语 '___ his hands with the sordid machinations' 与后文 'political venality'（政治腐败）构成决定性排他锚点。英语中表达“因参与卑劣勾当而玷污双手/品格”的专有搭配是 sully one's hands with...（MW: sullied his hands with petty thefts），其余选项在此句法与隐喻结构中均构成严重搭配破裂。",
+    "distractor_analysis": {
+      "sully": "正确。sully 在字面和隐喻上均指以污秽之物弄脏洁白之物，引申为使崇高声誉或道德操守蒙受耻辱。sully one's hands with sth. 是高阶英语公认的典雅习语，精准描绘了“因涉足卑劣勾当（sordid machinations）而自甘堕落、弄脏双手”的道德情境，完全契合整句的高端政法学术语域。",
+      "blemish": "错误。blemish 指在完好表面留下瑕斑，其主语通常是缺陷本身（如 a scandal blemished his career），且宾语通常为 reputation, record 等整体概念，在英语中不存在 '*blemish one's hands with...' 的动词习语，构成严重的搭配破裂（collocational rupture）。",
+      "taint": "错误。taint 表达污染或毒化，常见句法为 taint sth. with sth.（如 taint an investigation）或作被动分词（hands tainted with blood），在主动语态中并不存在 '*refuse to taint one's hands with...' 这一表达参与卑劣行径的固定习语，语感极其生硬。",
+      "deface": "错误。deface 专指物理破坏或涂损建筑物、雕塑、字画等外表。若与 'one's hands' 连用，其字面义将变为残害或毁损肉体双手，与后文抽象的政治道德语境产生荒谬的隐喻冲突与语义畸变。"
+    },
+    "translation": "鉴于坚定致力于机构的中立性，这位民意调查官拒绝因卷入执政党的卑劣阴谋而玷污双手，坚称宪政廉洁要求彻底脱离政治腐败。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_11",
+    "group_id": 196,
+    "group_name": "blunder, fumble, traverse, trespass",
+    "level": "TEM-8",
+    "target_word": "blunder",
+    "question": "Bereft of institutional memory and coherent intelligence, the inexperienced delegation seemed poised to ___ into an intractable diplomatic quagmire, mistaking ideological posturing for calculated, evidence-based statecraft.",
+    "options": [
+      "blunder",
+      "fumble",
+      "traverse",
+      "trespass"
+    ],
+    "answer": "blunder",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点为介词搭配与认知隐喻“盲目而笨拙地失足陷入困境”（blunder into a quagmire）。全句探讨因缺乏战略认知而误入外交泥潭，仅 blunder 具备“因盲目愚昧而跌跌撞撞陷入（危机/泥潭）”的核心语义与句法配价。",
+    "distractor_analysis": {
+      "blunder": "正确。blunder 作不及物动词时，核心义为“盲目、笨拙地前行或行动”，在政治与认知语境中常与介词 into 连用（blunder into a quagmire/war/crisis），精准描摹由于缺乏历史经验和情报误判而“盲目跌入”外交泥潭的动态过程。",
+      "fumble": "错误。fumble 强调“笨拙摸索”或“手忙脚乱地处理”，通常接介词 for（如 fumble for words/keys）或直接作及物动词（如 fumble an opportunity/crisis），不能与 into 连用表示盲目陷入灾难性局面。",
+      "traverse": "错误。traverse 是及物动词，意为“横越、穿过（领域或空间）”，直接接宾语，绝不与介词 into 搭配，且不含由于判断失误而陷入困境的贬义色彩。",
+      "trespass": "错误。trespass 意为“非法侵入；侵犯（权利）”，作为不及物动词时习惯搭配介词 on 或 upon（如 trespass on sovereign territory/private rights），不能与 into a quagmire 搭配表达隐喻性的深陷危机。"
+    },
+    "translation": "由于缺乏体制记忆和连贯的情报支撑，这支缺乏经验的代表团似乎正盲目跌入难以收拾的外交泥潭，将意识形态层面的虚张声势误当作深思熟虑且有据可依的经国权谋。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_12",
+    "group_id": 196,
+    "group_name": "blunder, fumble, traverse, trespass",
+    "level": "TEM-8",
+    "target_word": "fumble",
+    "question": "Caught off guard by the committee's relentless cross-examination, the embattled minister began to visibly ___ for a plausible defense, his halting responses belying weeks of rehearsed confidence.",
+    "options": [
+      "blunder",
+      "fumble",
+      "traverse",
+      "trespass"
+    ],
+    "answer": "fumble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点为句法构型与认知语义搭配“___ for a plausible defense”以及后文的“halting responses”（吞吞吐吐的回答）。fumble for 是指在慌乱中“笨拙搜寻（措辞、解释、借口）”的标准搭配，其他选项均无法与 for 搭配构成该语义。",
+    "distractor_analysis": {
+      "fumble": "正确。fumble 引申至认知与言语表达领域时，常与介词 for 构成固定搭配（fumble for an answer/defense/words），表示在压力下心慌意乱、“笨拙慌乱地搜寻言辞或辩解”，与句中委员会的严厉盘问及官员结结巴巴的表现形成严密呼应。",
+      "blunder": "错误。blunder 意为“犯大错”或“盲目笨拙地乱闯”，不可与介词 for 搭配表示“搜肠刮肚地寻找辩解”。",
+      "traverse": "错误。traverse 为纯及物动词，表示“横穿、走过”或在论辩中“详细审视”，不可接介词 for，与本句语法及语境完全不合。",
+      "trespass": "错误。trespass 意为“擅自进入、侵犯”，通常搭配 on/upon 或 against，不存在 trespass for 这一用法，语义风马牛不相及。"
+    },
+    "translation": "面对委员会毫不留情的反复盘问，那位四面楚歌的部长措手不及，明显开始手忙脚乱地搜肠刮肚以求合理解释，他吞吞吐吐的回答彻底戳穿了数周以来排练出的自信假象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_13",
+    "group_id": 197,
+    "group_name": "blur, gauge, scrub, scour",
+    "level": "TEM-8",
+    "target_word": "blur",
+    "question": "Rapid advances in generative artificial intelligence threaten to ___ the long-established boundaries between authentic human creativity and algorithmic replication, confounding traditional frameworks of intellectual property and cognitive originality.",
+    "options": [
+      "blur",
+      "gauge",
+      "scrub",
+      "scour"
+    ],
+    "answer": "blur",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates directly with 'the long-established boundaries between... and...', where the semantic logic requires a verb meaning 'to make indistinct or fuzzy' (obscuring conceptual demarcations), leading to the confounding of traditional frameworks.",
+    "distractor_analysis": {
+      "blur": "正确。在认知与抽象语义场中，blur 表示“使（界限、区别等）变得模糊不清”，与“the boundaries between A and B”构成学术英语中高度固化的经典搭配，且完全契合后文“confounding traditional frameworks”（使传统框架陷入混乱）的消极认知逻辑后果。",
+      "gauge": "错误。gauge 意为“测定、评估、判定”（如 gauge public reaction / intention），通常接单项度量指标或心理态度作宾语，不可与“the boundaries between A and B”搭配表示破坏界限，且无法承接使传统框架陷入混乱的语境因果逻辑。",
+      "scrub": "错误。scrub 主要意为“用力擦洗”或引申为“彻底取消（计划）、净化（数据）”。它不与抽象的“界限（boundaries）”搭配来表达使其模糊，在认知哲学或学术讨论分类范畴的语境中属于严重的搭配不当与文体脱节。",
+      "scour": "错误。scour 意为“急擦、刷洗”或“四处彻底搜寻”（如 scour the archives for records）。若作“搜索”解，其后需接地点或搜查空间；若作“擦洗”解，不接抽象的边界概念，与本句语法逻辑及语义完全不符。"
+    },
+    "translation": "生成式人工智能的飞速发展正在打破并模糊真正的人类创造力与算法复制之间长期确立的界限，从而使知识产权和认知原创性的传统分析框架陷入混乱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_14",
+    "group_id": 197,
+    "group_name": "blur, gauge, scrub, scour",
+    "level": "TEM-8",
+    "target_word": "gauge",
+    "question": "Without access to transparent empirical data, central bank economists found it increasingly difficult to ___ investor sentiment and inflationary expectations, forcing policymakers to rely on volatile and speculative market indicators.",
+    "options": [
+      "blur",
+      "gauge",
+      "scrub",
+      "scour"
+    ],
+    "answer": "gauge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Takes abstract, unobservable socio-economic psychological states ('investor sentiment and inflationary expectations') as objects in a context of measurement and empirical evaluation.",
+    "distractor_analysis": {
+      "gauge": "正确。gauge 在认知与宏观经济语境中意为“判定、评估、度量（抽象态度、预期或不可直接度量的趋势）”，与“sentiment and expectations”（情绪与预期）构成极高频的专业搭配，且与前文“empirical data”（实证数据）的认知评估功能形成严格的语义呼应。",
+      "blur": "错误。blur 意为“使模糊”，若填入句中（“难以使投资者情绪和通胀预期变得模糊”）在逻辑上存在荒谬的因果倒错——经济学家的职责是分析与量化市场情绪而非蓄意去混淆或模糊市场情绪。",
+      "scrub": "错误。scrub 意为“擦洗、彻底清除”或“取消”，不能用于描述对无形心理与认知状态（sentiment/expectations）进行分析、测算的专业经济行为，属于语义场范畴错配。",
+      "scour": "错误。scour 作及物动词表示“搜寻”时，其宾语必须是搜寻的“场所/空间”（例如 scour the financial markets for signs...），而不能直接以所寻找或测度的认知指标（sentiment/expectations）作为直接宾语，存在明显的句法语义选择限制冲突。"
+    },
+    "translation": "由于缺乏透明的实证数据，央行经济学家发现越来越难以准确评估投资者情绪和通胀预期，这迫使决策者不得不依赖波动剧烈且具有投机性的市场指标。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_15",
+    "group_id": 198,
+    "group_name": "bootleg, undercut, undersell, auctioneer",
+    "level": "TEM-8",
+    "target_word": "bootleg",
+    "question": "Seeking to circumvent institutional firewalls and export embargos, radical researchers conspired to ___ proprietary neuro-computational models across encrypted peer-to-peer networks, directly infringing international intellectual property protocols and ethical mandates.",
+    "options": [
+      "bootleg",
+      "undercut",
+      "undersell",
+      "auctioneer"
+    ],
+    "answer": "bootleg",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'circumvent institutional firewalls and export embargos', 'across encrypted peer-to-peer networks', and 'infringing international intellectual property protocols' exclusively point to the unauthorized, illicit reproduction and clandestine trafficking of proprietary intellectual assets, which defines 'bootleg'.",
+    "distractor_analysis": {
+      "bootleg": "正确。作动词时意指“非法走私、未经授权擅自复制或隐秘贩运（禁制品、数字资产或受专利保护的学术模型）”。句中用于描述绕过学术防火墙与出口禁令，通过加密P2P网络非法流转专有神经计算模型并侵犯知识产权的行为，语境与语域契合度完全一致。",
+      "undercut": "错误。主要意为“削弱、从底层破坏（论点、权威）”或“以低于竞争者的价格出售”。它无法与空间介词短语“across encrypted peer-to-peer networks”搭配构成数字资产跨网络非法转移的动作语义。",
+      "undersell": "错误。指“低价抛售以击败竞争对手”或“低估、低调陈述（某事物的重要性）”。本句关注的是违规突破禁令的地下盗版扩散，而非商业竞价策略或价值低估，逻辑严重脱节。",
+      "auctioneer": "错误。指“主持拍卖、公开竞价出售”。句中的“encrypted peer-to-peer networks（加密对等网络）”与“circumvent... embargos（规避禁令）”强调地下隐秘行为，与拍卖的公开竞价性质根本冲突。"
+    },
+    "translation": "为了绕开机构防火墙与出口禁运，激进的研究人员密谋通过加密对等网络非法贩运专有的神经计算模型，公然违反了国际知识产权协议与伦理规范。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_16",
+    "group_id": 198,
+    "group_name": "bootleg, undercut, undersell, auctioneer",
+    "level": "TEM-8",
+    "target_word": "undercut",
+    "question": "The emergent empirical anomalies uncovered by the neuroimaging study decisively ___ the prevailing cognitive paradigm, forcing theorists to abandon their long-cherished epistemological assumptions regarding modular brain organization.",
+    "options": [
+      "bootleg",
+      "undercut",
+      "undersell",
+      "auctioneer"
+    ],
+    "answer": "undercut",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'the prevailing cognitive paradigm' paired with the consequential result 'forcing theorists to abandon their long-cherished epistemological assumptions' deterministically requires a verb meaning to weaken, subvert, or erode the foundational validity of a theoretical framework.",
+    "distractor_analysis": {
+      "undercut": "正确。在认知科学与高级学术论述中，undercut 意为“削弱、颠覆、暗中动摇（假说、理论范式或论点的有效性基础）”。它与宾语“prevailing cognitive paradigm（主流认知范式）”构成高度精准的学术搭配，严密照应后文迫使理论家放弃假设的结果。",
+      "bootleg": "错误。核心含义是“非法走私、盗版制作/贩卖”。抽象的认知理论范式（paradigm）无法成为非法走私或走私倒卖的实体客体，存在范畴错配。",
+      "undersell": "错误。意为“以低于他人的价格出售”或“少报、看轻（某事物的优点或价值）”。实证反常现象（empirical anomalies）不可能在商业上“低价抛售”或“低估”一种范式，搭配不成立。",
+      "auctioneer": "错误。意为“主持拍卖、拍卖出售”。用在此处导致极为荒谬的语义错乱，与颠覆学术理论范式的认识论语境毫无关联。"
+    },
+    "translation": "神经成像研究揭示的新出现的实证反常现象，决定性地动摇了主流认知范式的基础，迫使理论家们不得不放弃长期以来关于模块化大脑组织的认识论假设。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_17",
+    "group_id": 199,
+    "group_name": "buff, slick, sleek, gloss",
+    "level": "TEM-8",
+    "target_word": "buff",
+    "question": "Refusing to rely on superficial rhetorical embellishments, the epistemologist labored for months to ___ his dense treatise to an immaculate analytical luster, ensuring that every conceptual nuance withstood critical scrutiny.",
+    "options": [
+      "buff",
+      "slick",
+      "sleek",
+      "gloss"
+    ],
+    "answer": "buff",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中结果补语结构 'to an immaculate analytical luster' 与前置让步状语 'Refusing to rely on superficial rhetorical embellishments' 以及后文 'labored for months' 构成核心排他锚点。buff 意为通过反复摩擦、精细打磨以去除粗糙与瑕疵，引申指对学术论著或观点的深度锤炼以达臻境；而 slick 与 gloss 均带有流于表面或粉饰之义，sleek 则局限于毛发梳理或物理外形修饰，且三者均无法与 'to a luster' 构成合语法的动结搭配。",
+    "distractor_analysis": {
+      "buff": "正确。buff 作动词的基本义为“用软布或轮盘擦亮、打磨”，在认知与学术语域中常用于隐喻义，表示通过艰苦卓绝的推敲、修改来“润色、精炼”文本或论证（polish and refine），与后文结果补语 'to an immaculate analytical luster'（达到无瑕的分析性光泽）构成严密的习语搭配，完美契合前文 'labored for months'（耗费数月苦思推敲）与严谨治学的语境逻辑。",
+      "slick": "错误。slick 作动词表示“使平滑、使光鲜”，在修辞认知领域多指“使呈现表面化、油滑的虚假吸引力”（make superficially plausible or glib），与本句中认识论学者“拒绝浮泛修辞粉饰”（Refusing to rely on superficial rhetorical embellishments）并追求经受住批判审视的学术严谨性存在语义矛盾，且 slick 不能与 'to a luster' 搭配。",
+      "sleek": "错误。sleek 作动词的主导语义为“使（毛发、羽毛、身体线条）顺滑光洁”（groom or make sleek），其选择限制（selectional restrictions）严格绑定物理性实体（如毛发、动物皮毛或流线型外壳），不能用于抽象的认知论著（treatise），属于典型的范畴错配（category mistake）。",
+      "gloss": "错误。gloss 作及物动词若后直接加文本宾语，其正规学术释义为“为……作注释/加旁注”（annotate）；若表示掩盖缺陷、虚饰外表，则必须与介词 over 连用构成固定短语 'gloss over'。此处后接及物宾语且带有结果补语 'to ... luster'，在句法与语意上均不成立（且 gloss 与 luster 语义重叠，造成辞格冗赘）。"
+    },
+    "translation": "这位认识论学者拒绝依赖浮泛的修辞粉饰，而是耗费数月心血反复锤炼其艰深的学术论著，使其闪耀出无瑕的思辨光彩，确保每一个概念细节都能经受住严苛的批判审视。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_18",
+    "group_id": 199,
+    "group_name": "buff, slick, sleek, gloss",
+    "level": "TEM-8",
+    "target_word": "slick",
+    "question": "Dismissed by the tribunal as a ___ exercise in political deflection, the minister’s testimony offered polished, glib rationalizations rather than the verifiable evidentiary disclosures demanded by the statutory oversight committee.",
+    "options": [
+      "buff",
+      "slick",
+      "sleek",
+      "gloss"
+    ],
+    "answer": "slick",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "后文的同位修饰与语义照应成分 'polished, glib rationalizations rather than... verifiable evidentiary disclosures'（光鲜浮滑的托词而非可验证的证据披露）以及中心词 'exercise in political deflection'（政治脱责操弄）构成决定性排他锚点。韦氏大词典明确指出，slick 作形容词的核心义项为 'characterized by smooth facility or superficial plausibility; glib, deceptively well-done'（以圆滑流利或表面合情合理为特征；浮滑的、华而不实的），与后文'glib'形成严密互训。sleek 仅修饰物理形体的流线型或毛发光润，无法修饰抽象话语操弄；buff 仅指体格健硕或浅黄色；gloss 为名词或动词，在此作定语存在致命词性违规。",
+    "distractor_analysis": {
+      "slick": "正确。slick 作形容词在高级政论与法庭修辞语境中，专指“（言辞、表现、包装等）看似圆滑光鲜、实则虚浮敷衍且具欺骗性的”（superficially plausible, glib, or smooth but lacking substance/integrity），常与 'sales pitch', 'exercise', 'packaging', 'presentation' 构成经典搭配，完美契合部长以光鲜托词规避法定监督调查的行径。",
+      "buff": "错误。buff 作形容词在正统英语中仅表示“米黄色的”或非正式语体中的“（身体）健美有肌肉的”（muscular and toned），无法修饰政治脱责行为（exercise in political deflection），语义完全不通，属于范畴错误。",
+      "sleek": "错误。sleek 虽然同样包含“光滑”之意，但其语义严格受限于物理外观与外形轮廓，指“（动物皮毛或头发）梳理整齐光亮的”或“（车辆、船只等）线条流畅优美的、流线型的”（streamlined, glossy in contour），亦可指人因生活富足而显得神气油润，绝对不能转移修饰言语辩解、公关操弄或策略手段，属于严重的搭配断裂（collocational rupture）。",
+      "gloss": "错误。gloss 在现代英语标准规范中是名词（光泽、虚假外表、旁注）或动词（加注释；粉饰 gloss over）。将其直接置于单数可数名词短语前充当形容词定语（'a gloss exercise'）在句法形态上直接违规（其形容词派生形式应为 glossy）；即便使用 glossy，该词也仅局限于视觉表面反光或印刷品纸质光鲜，无法传递 glib 所指涉的认知浮华与言语欺诈色彩。"
+    },
+    "translation": "该部长的证词被法庭斥为一次掩盖政治推脱的浮华操弄，因为他通篇充斥着光鲜而浮滑的托词，根本未能提供法定监督委员会所要求的可验证证据披露。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_19",
+    "group_id": 200,
+    "group_name": "bunk, juggle, beguile, hoodwink",
+    "level": "TEM-8",
+    "target_word": "bunk",
+    "question": "To optimize laboratory capacity aboard the polar research vessel, maritime architects were compelled to ___ junior scientists in modular, tiered berths, an austere arrangement that severely curtailed personal privacy during extended voyages.",
+    "options": [
+      "bunk",
+      "juggle",
+      "beguile",
+      "hoodwink"
+    ],
+    "answer": "bunk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_SOCIETY",
+    "anchor_clue": "The prepositional complement 'in modular, tiered berths' specifies sleeping accommodations, uniquely selecting the transitive verb 'bunk' (to provide with sleeping quarters or berths); the other three verbs cannot govern human objects into berths in this spatial and logistical sense.",
+    "distractor_analysis": {
+      "bunk": "正确。根据《韦氏词典》（Merriam-Webster）与《牛津英语词典》（OED），bunk 用作及物动词时表示“为……提供铺位；安排……住宿”（to provide with a bunk or place to sleep），标准用法如“bunked the guests in the den”。句中由介词短语“in modular, tiered berths”（在模块化分层铺位中）构成不可替代的排他性语义锚点，与及物动词 bunk 形成严密、自然的动宾与处所搭配，精准契合极地科考船上优化空间布局的学术与技术语境。",
+      "juggle": "错误。juggle 作及物动词主要表示“兼顾、协调（多重职责或活动）”（如 juggle work and family）或“篡改、歪曲（数据、账目）”。它无法表示“安置人员住宿”，填入句中会导致动词与后置介词短语“in modular, tiered berths”产生严重的语义与搭配断裂（collocational rupture）。",
+      "beguile": "错误。beguile 意为“哄骗、诱骗”或“使陶醉、消磨（时光）”（如 beguile the hours）。造船工程师为青年科学家安排紧凑铺位属于客观的空间工程规划，与“诱骗”或“使入迷”毫无逻辑关联，导致语篇逻辑与语域产生断层。",
+      "hoodwink": "错误。hoodwink 意为“蒙蔽、欺诈”（如 hoodwink the authorities）。船舶建筑师在设计舱室时不存在故意“欺瞒”科考人员的理性动机，用于此处属于语义范畴错配（category error）。"
+    },
+    "translation": "为了最大化极地科考船上的实验室空间，造船工程师不得不将青年科学家安排在模块化的分层铺位中就寝；这种简朴的布局在漫长航程中严重剥夺了个人的私密空间。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b19_20",
+    "group_id": 200,
+    "group_name": "bunk, juggle, beguile, hoodwink",
+    "level": "TEM-8",
+    "target_word": "juggle",
+    "question": "Faced with stringent regulatory scrutiny, the corrupt treasury officials conspired to ___ the municipal ledgers, subtly altering deficit figures and reclassifying expenditures to project an illusory semblance of fiscal solvency.",
+    "options": [
+      "bunk",
+      "juggle",
+      "beguile",
+      "hoodwink"
+    ],
+    "answer": "juggle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'the municipal ledgers' together with the subsequent participial clause 'subtly altering deficit figures' establishes the decisive collocation 'juggle the ledgers/books' (to fraudulently manipulate or alter accounts); none of the other three verbs can govern accounting books in the sense of fraudulent tampering.",
+    "distractor_analysis": {
+      "juggle": "正确。根据《韦氏词典》，juggle 拥有“to manipulate or rearrange so as to achieve a desired end and especially a dishonest one”（为达到目的、尤指不诚实的目的而操纵、篡改）的特定认知与财务操控义项，与 books, accounts, ledgers, figures 构成权威固定搭配（juggle the books/ledgers 意为“做假账、粉饰篡改账册”），后文的 altering deficit figures 提供了决定性的语义支撑。",
+      "bunk": "错误。bunk 作动词仅指“逃付（票费）”（avoid paying）或“逃跑、溜走”（decamp/flee），完全不具备欺诈性“篡改、操纵账目”的词义，无法与 municipal ledgers 形成合理搭配。",
+      "beguile": "错误。beguile 侧重以魅力、奇巧手段“哄骗、诱惑某人”，其及物动词宾语通常为人类主体（如 beguile the regulators），无法与非人称的财务账册（ledgers）形成动宾组合。",
+      "hoodwink": "错误。hoodwink 强调“蒙蔽双眼以使人受骗”，其受事成分必须是具备认知理性的个人或监管机构（如 hoodwink the auditors），绝对不能将 ledgers（账簿）作为受欺骗对象，搭配破裂。"
+    },
+    "translation": "面对严苛的监管审查，腐败的财政官员密谋篡改市政账目，巧妙更改赤字数据并重新划分支出类别，以营造出财政状况良好的虚假表象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

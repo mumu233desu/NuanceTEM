@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b74_01",
+    "group_id": 741,
+    "group_name": "budge, agitate, stir, shift",
+    "level": "TEM-8",
+    "target_word": "budge",
+    "question": "Despite protracted multilateral negotiations and escalating economic sanctions, the authoritarian leadership refused to ___ an inch from its entrenched territorial claims, precluding any immediate diplomatic breakthrough.",
+    "options": [
+      "budge",
+      "agitate",
+      "stir",
+      "shift"
+    ],
+    "answer": "budge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The negative-polarity idiom 'refused to ___ an inch from...', which uniquely demands 'budge' to express an unyielding refusal to make even the slightest cognitive or diplomatic concession.",
+    "distractor_analysis": {
+      "budge": "正确。在外交与认知博弈语境中，budge 具备典型的负极性特征（Negative Polarity Item），与具有否定语义的谓语动词（如 refused to）及度量短语 an inch 构成经典高级惯用搭配“refuse to budge an inch (from...)”，精确表达“寸步不让、拒绝做出丝毫妥协或立场松动”，完全契合句意及语体风格。",
+      "agitate": "错误。agitate 意为“公开鼓动、煽动”或“使焦虑不安”，常用作及物动词（如 agitate the public）或搭配介词 for/against（如 agitate for reform），不能与度量短语 an inch 以及介词 from 连用以表达立场退让，属于句法与语义双重错配。",
+      "stir": "错误。stir 作不及物动词表示轻微移动或开始行动，但在英语认知与政论语体中，并不存在“stir an inch from one's claims”来表示拒绝妥协的用法；其类似固定搭配多限于动作或生理层面（如 not stir a finger / not stir an eyelid），置于本句造成严重搭配断裂。",
+      "shift": "错误。shift 虽然含有“转变、迁移”之意，但表示立场改变时通常作为及物动词接宾语（如 shift one's stance）或与介词 away from/towards 连用。英语中并不存在“refuse to shift an inch”这一成语化搭配，代入后违背了高阶英语的地道修辞规范。"
+    },
+    "translation": "尽管经历了漫长的多边谈判且面临不断升级的经济制裁，该威权领导层仍拒绝在其根深蒂固的领土主张上做出丝毫让步，从而阻断了任何取得即刻外交突破的可能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_02",
+    "group_id": 741,
+    "group_name": "budge, agitate, stir, shift",
+    "level": "TEM-8",
+    "target_word": "agitate",
+    "question": "Frustrated by pervasive regulatory inertia, progressive economists and labor advocates began to ___ vigorously for comprehensive statutory reforms, framing excessive corporate consolidation as an existential threat to fair competition.",
+    "options": [
+      "budge",
+      "agitate",
+      "stir",
+      "shift"
+    ],
+    "answer": "agitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The intransitive syntactic frame '___ vigorously for [statutory reforms]', which exclusively selects 'agitate' in the sense of conducting a sustained public campaign or political advocacy for systemic change.",
+    "distractor_analysis": {
+      "agitate": "正确。agitate 在政治经济学与公共政策话语中具有专属性的不及物动词搭配“agitate for sth”，意为“公开呼吁、大力鼓动以争取……”，与副词 vigorously 及介词短语 for comprehensive statutory reforms 形成严密的向心搭配，准确体现为推动立法改革而发起舆论与社会倡导的语境。",
+      "budge": "错误。budge 意为“妥协、改变看法”，本质为不及物动词且高度依赖否定语境，后接介词通常为 on（就某事妥协）或 from（自某立场退让），绝对无法与介词 for 搭配表示“为争取某事物而奔走呼吁”，存在致命的介词语法冲突。",
+      "stir": "错误。stir 意为“激起、唤起”时属于及物动词（如 stir public debate / stir resentment），或与副词 up 构成动短 stir up；作不及物动词时意为“苏醒、微动”，无法与介词 for 搭配接改革议题来表示政治倡导。",
+      "shift": "错误。shift 意为“转变、转移”，作不及物动词时其介词搭配为 to, toward 或 away from，用于表征方向或倾向的位移（如 shift toward deregulation）；若与 for 搭配仅存在非正式习语 shift for oneself（自谋生路），无法接任何抽象法规改革名词，语义彻底不通。"
+    },
+    "translation": "面对普遍存在的监管惰性，激进派经济学家与劳工倡导者深感挫败，开始大力疾呼推动全面的法定改革，将过度集中的企业并购定性为对公平竞争的生存性威胁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_03",
+    "group_id": 742,
+    "group_name": "bulge, bag, spear, thrust",
+    "level": "TEM-8",
+    "target_word": "bulge",
+    "question": "Although contemporary archives of cognitive ethnography now ___ with unclassified perceptual anomalies, orthodox theorists routinely dismiss these empirical irregularities until cumulative contradictions force a radical restructuring of core paradigms.",
+    "options": [
+      "bulge",
+      "bag",
+      "spear",
+      "thrust"
+    ],
+    "answer": "bulge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is the verb phrase '___ with unclassified perceptual anomalies' denoting a repository being distended or filled to overflowing, which matches the intransitive construction 'bulge with' (MW: 'be so full as to appear to bulge'). The other three verbs cannot govern 'with' in this container-overflow sense.",
+    "distractor_analysis": {
+      "bulge": "正确。bulge 在此处取韦氏词典核心义项“be so full as to appear to bulge”（装得极满以致鼓胀膨出），且形成经典的高级学术搭配“archives/dossiers bulge with sth.”（文献档案充塞/爆满着某物），语法结构与认知学术语境高度贴合。",
+      "bag": "错误。bag 作不及物动词时意为“（衣物等）松弛下垂、形成松垮兜状”，既不与介词 with 搭配表示“装满充塞”，其所指的“松弛干瘪”特征亦与语境中海量数据撑满档案库的饱满之意相悖。",
+      "spear": "错误。spear 作动词主要表示“用尖锐武器刺穿/穿刺”或“植物抽苔发芽”，属于及物动作动词或特殊植物学生长动词，无法以 archives 为主语并后接 with anomalies 构成“充溢”义。",
+      "thrust": "错误。thrust 侧重有力、突然的定向推进或刺入；thrust with 仅用于引介施力工具（如 thrust with a weapon），用于修饰档案库与数据之间不仅语法搭配破裂，逻辑语义亦完全不通。"
+    },
+    "translation": "尽管当代的认知民族志档案中充斥着大量未分类的感知异常现象，正统理论家们却往往对这些经验层面的反常视而不见，直至累积的矛盾迫使核心范式发生根本性重构。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_04",
+    "group_id": 742,
+    "group_name": "bulge, bag, spear, thrust",
+    "level": "TEM-8",
+    "target_word": "bulge",
+    "question": "In psychophysical experiments on visual volume, observers infer internal pressure only when a surface appears to ___ outward in a smooth, rounded swell, readily distinguishing this distension from flaccid sagging or sharp, directional protrusion.",
+    "options": [
+      "bulge",
+      "bag",
+      "spear",
+      "thrust"
+    ],
+    "answer": "bulge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The anchor lies in 'infer internal pressure' combined with 'outward in a smooth, rounded swell' (MW: 'to swell out; form a bulge outward'), explicitly contrasted with 'flaccid sagging' (which excludes 'bag') and 'sharp, directional protrusion' (which excludes 'spear' and 'thrust').",
+    "distractor_analysis": {
+      "bulge": "正确。bulge 的精确物理几何语义指因内部充盈或受压而形成的“平滑、圆弧状向外膨胀凸起”（MW: form a bulge outward; swell out），与句中“infer internal pressure”（推断内部压力）及“smooth, rounded swell”（平滑圆润的隆起）构成无可替代的完美契合。",
+      "bag": "错误。bag 指由于重力或材质松弛而形成的“松垂、耷拉形成垂褶”（sag flaccidly），与内部受压导致的饱满张力完全相反，且在句末已被作为反向对立特征“flaccid sagging”明确排除。",
+      "spear": "错误。spear 强调形成尖刺状、锐利的锥形突刺（pointed projection），与句中严格限定的“smooth, rounded”（平滑圆润）几何形态产生无法调和的语义冲突，被句末“sharp... protrusion”直接排除。",
+      "thrust": "错误。thrust 侧重带有强烈冲击力、具有特定矢量方向的动态猛刺或冲出（forceful directional motion），不能用来描述静态视觉心理感知中由内压维持的平缓均匀的曲面膨胀，且被后文“directional protrusion”明文排斥。"
+    },
+    "translation": "在关于视觉体积感知的心理物理学实验中，观察者唯有在某个表面呈现出平滑圆润的向外鼓胀时才会推断其存在内部压力，并能轻易将这种隆起与松弛下垂或尖锐的定向突起区分开来。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_05",
+    "group_id": 743,
+    "group_name": "burrow, rut, furrow, root",
+    "level": "TEM-8",
+    "target_word": "burrow",
+    "question": "To dismantle the persistent historical myth, the archival researcher chose to ___ into centuries of neglected parish registers, meticulously reconstructing the socioeconomic realities that standard textbooks had long oversimplified.",
+    "options": [
+      "burrow",
+      "rut",
+      "furrow",
+      "root"
+    ],
+    "answer": "burrow",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Prepositional and cognitive collocation '___ into centuries of neglected parish registers' requiring a verb that denotes painstaking, deep, subterranean delving into archives, directly mirroring Merriam-Webster's sense 'delve <burrow into the library's archives>'.",
+    "distractor_analysis": {
+      "burrow": "正确。burrow 原义为“打洞、掘穴”，引申至学术认知领域（FIELD_COGNITION）专指“潜心钻研、深入翻查（delve）”，韦氏词典明确收录其与介词 into 连用的学术引申例证（delve <burrow into the library's archives>）。本句中“burrow into centuries of neglected parish registers”生动表现了学者如深掘地穴般扎入繁杂尘封档案的潜心钻研姿态，语体高度贴合。",
+      "rut": "错误。rut 作及物动词指“在……上碾出车辙”，作不及物动词仅指动物处于发情期，均不能与介词 into 连用表示“深入钻研档案”，语法搭配与语义双重不符。",
+      "furrow": "错误。furrow 作动词意为“在……上耕出垄沟”或引申指“皱起（眉头）以表困惑或专注”（如 furrow one's brow），属于及物动词或特定生理表情搭配，无法与 into 搭配用于文献考证挖掘的语境。",
+      "root": "错误。root 在表示翻寻、搜寻时，必须与副词或特定介词搭配（如 root about/around in 或 root through 表示翻箱倒柜式翻找，或 root out 表示根除、追查出）；root into 仅能用于植物“在土壤中生根深入”，无法用于学者在档案中严谨钻研，在此构成严重的介词搭配与语域失误。"
+    },
+    "translation": "为打破这一根深蒂固的历史神话，这位档案研究学者选择潜心钻研数百年间被忽视的教区名册，严谨细致地重构了被常规教科书长期过分简化的社会经济真实图景。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_06",
+    "group_id": 743,
+    "group_name": "burrow, rut, furrow, root",
+    "level": "TEM-8",
+    "target_word": "rut",
+    "question": "Fearing that the editorial board might lapse into a dogmatic ___, the editor-in-chief solicited external peer commentaries to disrupt entrenched analytical orthodoxies and reinvigorate critical debate across the humanities.",
+    "options": [
+      "burrow",
+      "rut",
+      "furrow",
+      "root"
+    ],
+    "answer": "rut",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The governing verb phrase 'lapse into a...' selects a noun denoting an undesirable, stagnant, or habitual condition; paired with 'dogmatic' and the consecutive purposive clause 'to disrupt entrenched analytical orthodoxies and reinvigorate critical debate', it decisively requires 'rut' in its established sense of a sterile, unvarying routine.",
+    "distractor_analysis": {
+      "rut": "正确。rut 在此作名词，本义为“车辙”，引申指“刻板乏味、墨守成规的固定惯性/定势模式”（a fixed, monotonous, or sluggish routine）。动词短语“lapse into a rut”（滑入墨守成规的僵局）是地道的学术与书面语搭配，其中 lapse into 专指“不知不觉陷入某种退化、消极或迟滞的状态”。前置修饰语“dogmatic”（教条的）与后文目的状语“disrupt entrenched analytical orthodoxies and reinvigorate critical debate”（打破根深蒂固的分析教条，重振批判性论争）构成闭环语义镜像，极为自然地契合学术认知与机构思想惯性的语境。",
+      "burrow": "错误。burrow 作名词指“（兔、獾等动物挖掘的）地洞、穴巢”（a hole or excavation in the ground made by an animal for shelter）。在句法与语义上，lapse into 只能接表示状态或恶习的抽象名词，不可与表示物理洞穴的 burrow 搭配；且 burrow 绝无“思维僵化、陈陈相因之定式”的引申义，“dogmatic burrow”属于严重的生造搭配与范畴错配。",
+      "furrow": "错误。furrow 作名词指犁地翻出的“垄沟、犁沟”或脸上的“深皱纹”。在抽象引申义中，furrow 仅见于习语“plow a lonely furrow”（孤军奋战、特立独行），无法与 lapse into 构成表示“滑入消极僵局”的搭配，亦不存在“dogmatic furrow”的用法。此外，犁沟往往承载翻土播种的建设性意象，无法传达思想陷入停滞死板的负面评价色彩。",
+      "root": "错误。root 作名词指“根源、根基”（basis, source, origin）。当表达某种思想体系的教条根源时，通常使用复数形式并带介词 of（如 the dogmatic roots of the doctrine）；动词短语 lapse into 无法与单数形式 a dogmatic root 连用（“滑入教条根源”在语义上不合逻辑），且与后文“打破僵局定势、激发争鸣”的话语逻辑彻底脱节。"
+    },
+    "translation": "因担心编辑部可能陷入某种教条主义的僵化惯性，主编特意征集了外部同行的评议意见，以打破根深蒂固的分析定式，并重振整个人文学科领域的批判性争鸣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_07",
+    "group_id": 744,
+    "group_name": "bustle, waver, lunge, quiver",
+    "level": "TEM-8",
+    "target_word": "bustle",
+    "question": "While senior ministers debated overarching treaty terms behind closed doors, subordinate attachés had to ___ incessantly between the conference chambers, urgently synchronizing textual revisions before the plenary session.",
+    "options": [
+      "bustle",
+      "waver",
+      "lunge",
+      "quiver"
+    ],
+    "answer": "bustle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心动词需配合介词短语 'between the conference chambers' 与状语从句 'urgently synchronizing textual revisions'，描绘外交随员在多个实体办公空间之间为了公务而高频、忙碌穿梭奔走的动态景象。bustle 专指充满活力、忙乱而目的明确的连续穿梭（bustle between/about）；waver 虽常接 between，但仅用于抽象认知层面的'在两项选择/观点间犹豫摇摆'，不能用于物理空间的往返穿梭；lunge（突然猛扑刺击）与 quiver（原地轻微颤抖）在动作方式与句意逻辑上均产生严重破裂。",
+    "distractor_analysis": {
+      "bustle": "【正确】动词，意为“（奔忙、忙碌地）穿梭/奔走”。在此句中与介词 between 连用，精准传达出下属随员在两间会议室之间为紧急校对文本而持续奔忙（move energetically and busily）的行政状态，在语义、语域与句法搭配上均高度契合。",
+      "waver": "【排除】动词，意为“动摇、犹豫不决”。虽然 waver 常与 between 连用（如 waver between two choices），但其宾语必须是相互对立的抽象选择、方案或观点，断不可接具体的物理场馆（conference chambers）来表示身体位移，属于典型的搭配范畴错配。",
+      "lunge": "【排除】动词，意为“（突然向前）猛冲、猛扑、刺向”。该词描绘的是短促突发、带有侵略性或失控感的单一物理动作，与副词 incessantly（持续不断地）和文书协调工作（synchronizing textual revisions）所要求的持续性、事务性动态语境直接冲突。",
+      "quiver": "【排除】动词，意为“（轻微迅速地）颤抖、发抖”。通常表示因寒冷、恐惧或强烈情绪引发的近乎原地的细微物理振动，不具备宏观位移特征，无法与表示空间跨越的 between the conference chambers 搭配。"
+    },
+    "translation": "正当资深部长们在闭门会议中商榷条约的大纲条款时，下属随员们不得不在各会议室之间马不停蹄地穿梭奔忙，以便在全体大会召开前紧急同步文本修订。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_08",
+    "group_id": 744,
+    "group_name": "bustle, waver, lunge, quiver",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with irreconcilable empirical anomalies during the peer-review process, the epistemologist began to ___ in his long-held theoretical allegiance, reluctantly acknowledging the explanatory supremacy of the rival paradigm.",
+    "options": [
+      "bustle",
+      "waver",
+      "lunge",
+      "quiver"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中语境为认识论学者（epistemologist）面对反常经验证据时，对自己长期坚守的理论效忠/立场（theoretical allegiance）产生了动摇与迟疑。waver 与介词 in 构成专有认知搭配 waver in one's allegiance/resolve/belief，意为“在立场/信念上动摇”，与后文“勉强承认竞争范式的解释优势”形成无可替代的逻辑因果闭环；quiver 虽然能接 in，但补足语只能是恐惧、愤怒等情绪生理反应（如 quiver in fear/rage），不可用于理性立场；bustle 与 lunge 纯属物理动作，无法进入此抽象认知构式。",
+    "distractor_analysis": {
+      "bustle": "【排除】动词，表示身体精力充沛地忙碌奔走（move busily），属于纯粹的外在物理动作，无法与抽象的 theoretical allegiance（理论立场/效忠）发生语义投射，且不存在 bustle in one's allegiance 这一语法搭配。",
+      "waver": "【正确】动词，意为“（信念、决心、忠诚）动摇、犹豫不决”。此处 waver in his long-held theoretical allegiance 为极为地道的高级学术英语搭配，精准展现了学者面对压倒性反面证据时理论信念产生动摇的心智认知状态。",
+      "lunge": "【排除】动词，意为“扑向、突进”，表示击剑、搏斗或抓取时的向前猛冲动作，具有瞬间物理爆发力，无法修饰认知信念的变化，置于句中导致严重的语义荒谬。",
+      "quiver": "【排除】动词，意为“发抖、战栗”。虽然 quiver in ... 极为常见，但其搭配受词严格局限于表示极端情绪或生理状态的名词（例如 quiver in terror / anger / agitation），绝不能用于修饰理性的哲学效忠或学术立场（allegiance），存在明显的语域与搭配断裂。"
+    },
+    "translation": "在同行评审过程中面对无法调和的经验反常时，这位认识论学者对自己长期坚持的理论立场开始产生动摇，不得不勉强承认对立范式所具备的解释优势。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_09",
+    "group_id": 745,
+    "group_name": "camouflage, masquerade, mask, cloak",
+    "level": "TEM-8",
+    "target_word": "camouflage",
+    "question": "In evolutionary psychology, deceptive organisms do not merely conceal their presence; rather, they deliberately ___ morphological anomalies against ambient ecological textures, confounding the perceptual heuristics of vigilant predators.",
+    "options": [
+      "camouflage",
+      "masquerade",
+      "mask",
+      "cloak"
+    ],
+    "answer": "camouflage",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的介词搭配 'against ambient ecological textures'（融于周围生态纹理之中）以及前文 'do not merely conceal... rather...' 的语意对比，构成了决定性排他锚点。'camouflage sth against sth' 为固定搭配，意为通过融于背景或环境来实现伪装；而 mask、cloak 无法与 against 搭配表示背景融合，masquerade 为不及物动词无法直接带宾语。",
+    "distractor_analysis": {
+      "camouflage": "正确。及物动词，意为“通过融于周围环境来伪装/掩饰”。句中 'camouflage ... against ambient ecological textures' 为典型的高级搭配，精准契合演化生物学与认知心理学中利用背景纹理干扰捕食者感知启发式（perceptual heuristics）的科学语境。",
+      "masquerade": "错误。masquerade 在表示伪装或假扮时为严格的不及物动词（通常与 as 连用，即 masquerade as...），后不能直接接宾语 'morphological anomalies'，存在严重的次范畴化（subcategorization）句法错误。",
+      "mask": "错误。mask 意为“掩盖、遮蔽”，通常指用外物覆盖或阻挡使某物不被发觉（如 mask symptoms, mask one's scent），其常规搭配为 mask sth with/behind sth，无法与介词 against 连用表达“融于背景环境”之意，且前文 'not merely conceal' 已将其所代表的单纯遮蔽排除。",
+      "cloak": "错误。cloak 强调如斗篷般笼罩或包裹（如 cloak a scheme in secrecy），固定介词搭配为 cloak sth in sth，无法与 against 搭配表示与环境纹理的融为一体，句法与语义色彩均不契合。"
+    },
+    "translation": "在演化心理学中，善于伪装的生物并不仅仅是隐藏自身的存在；相反，它们有意将形态上的异常融于周围的生态纹理中进行伪装，从而干扰警惕的捕食者的感知启发式判断。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_10",
+    "group_id": 745,
+    "group_name": "camouflage, masquerade, mask, cloak",
+    "level": "TEM-8",
+    "target_word": "masquerade",
+    "question": "Epistemologists observe that fringe theorists frequently exploit specialized technical jargon to ___ as legitimate researchers, manipulating the public's cognitive heuristics to secure unearned credibility within peer-reviewed discourse.",
+    "options": [
+      "camouflage",
+      "masquerade",
+      "mask",
+      "cloak"
+    ],
+    "answer": "masquerade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空格后紧跟介词短语 'as legitimate researchers'（伪装成正规研究人员），这是决定性的句法与搭配锚点。在这组近义词中，只有不及物动词 masquerade 能够与介词 as 构成固定搭配 'masquerade as'（冒充……的身份）；其余三词均为及物动词，不能直接接 'as + 名词' 作谓语。",
+    "distractor_analysis": {
+      "masquerade": "正确。不及物动词，意为“伪装，冒充”，常与介词 as 构成固定搭配 'masquerade as sb/sth'，指为了欺骗而假扮成某种不具备的身份，完美符合边缘学者通过专业术语假冒合法学者身份的认知认识论语境。",
+      "camouflage": "错误。camouflage 为及物动词（transitive），表示将某物伪装或伪装自身（camouflage sth / camouflage oneself），不可直接作为不及物动词后接介词短语 'as legitimate researchers'，出现句法配置断裂。",
+      "mask": "错误。mask 用作动词表示掩饰身份时同样为及物动词（如 mask one's identity），在标准正式英语中不存在不及物动词用法 'mask as sb'，在此处构成严重句法错误。",
+      "cloak": "错误。cloak 表达遮掩时为及物动词，且其标志性介词搭配为 in（如 cloak oneself in legitimacy），绝不可直接用作不及物动词接 'as + 名词'，句法不成立。"
+    },
+    "translation": "认识论学者指出，边缘理论家经常利用专门的技术术语来冒充正规研究人员，操纵公众的认知启发式，从而在同行评审语境中骗取未获实证的信誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_11",
+    "group_id": 746,
+    "group_name": "canoe, row, sail, yacht",
+    "level": "TEM-8",
+    "target_word": "canoe",
+    "question": "To document how indigenous communities perceived river topography, field researchers had to ___ down shallow, boulder-strewn headwaters, where overhanging foliage precluded wind propulsion and constricted ravines prevented the lateral sweep of oars.",
+    "options": [
+      "canoe",
+      "row",
+      "sail",
+      "yacht"
+    ],
+    "answer": "canoe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'shallow, boulder-strewn headwaters', 'overhanging foliage precluded wind propulsion', and 'constricted ravines prevented the lateral sweep of oars' definitively select 'canoe' over craft relying on wind (sail), oar sweeps (row), or deep drafts (yacht).",
+    "distractor_analysis": {
+      "canoe": "正确。canoe 作动词表示“乘独木舟/划皮艇前行”。独木舟吃水极浅，使用贴近舷侧、无需外伸桨架的手持桨推进，能够完美适应“布满乱石的浅滩源流”（shallow, boulder-strewn headwaters），并穿行于无法展开船桨侧向挥动（lateral sweep of oars）的狭窄峡谷中。",
+      "row": "错误。row 指用安装在船舷桨架（oarlocks）上的长桨划船，推进时必须向艇身两侧大幅度横向划动长桨（the lateral sweep of oars）。题干中明确说明峡谷过于狭窄，使得长桨的横向展开完全受阻，因此在物理动作与机械结构上排除了该词。",
+      "sail": "错误。sail 指“扬帆航行”，其动力依赖风力，且需要高耸的桅杆与开阔水域。题干指出“overhanging foliage precluded wind propulsion”（低垂树冠遮蔽了风力且易挂碰桅杆），加之水流为布满礁石的浅滩急流，根本不具备帆船航行的物理条件。",
+      "yacht": "错误。yacht 作动词指“乘游艇航行/竞渡”，通常指在开阔海洋或深水港湾进行的大吨位、深吃水休闲或竞技航行。将其用于内陆荒野狭窄、险峻的乱石浅溪中，存在严重的语体色彩错位与地理常识违和。"
+    },
+    "translation": "为记录原住民社区如何认知河流地貌，实地研究人员不得不乘独木舟顺着布满巨石的浅水源头河段而下，因为那里低垂的枝叶无法借助风力推进，而逼仄的峡谷也阻碍了船桨的横向挥动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_12",
+    "group_id": 746,
+    "group_name": "canoe, row, sail, yacht",
+    "level": "TEM-8",
+    "target_word": "canoe",
+    "question": "Cognitive psychologists examining spatial orientation during wilderness navigation observed subjects who had to ___ through intricate, reed-choked shallows, where forward-facing paddling was vital to spot submerged hazards that rear-facing oar propulsion would miss.",
+    "options": [
+      "canoe",
+      "row",
+      "sail",
+      "yacht"
+    ],
+    "answer": "canoe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrast between 'forward-facing paddling' and 'rear-facing oar propulsion' in 'reed-choked shallows' specifically mandates 'canoe', as canoeing requires facing forward with paddles, whereas rowing operates with backwards-facing oars.",
+    "distractor_analysis": {
+      "canoe": "正确。canoe 作动词表示“划独木舟穿行”。独木舟的标准运桨方式是划手面朝行进方向（forward-facing paddling），使用单叶或双叶手桨，便于在水草茂密、障碍潜伏的复杂浅水区（reed-choked shallows）即时观察并规避水下暗桩，完全吻合认知实验与操纵细节。",
+      "row": "错误。row 指“划（小艇）”，其经典操作姿态是背向行进方向（rear-facing）、借助固定在两舷的船桨（oars）拉动船只前进。题干后半句已将“rear-facing oar propulsion”（背向运桨推进）列为会错失水下盲区隐患的反面操作，直接在动作逻辑上否定了 row。",
+      "sail": "错误。sail 意为“张帆航行”，其航行机制依赖风帆而非徒手运桨（paddling）；且帆船具有龙骨或舵板，在杂草丛生的浅滩极易缠草搁浅，与句中的浅滩环境和运桨方式完全脱节。",
+      "yacht": "错误。yacht 指“驾乘游艇巡游”，属于深水域大型奢华或赛事船只的运动，既不可能靠“面朝前方的徒手划桨”推进，也无法在杂草密布的内陆浅水沼泽中运行，语义和语境皆不成立。"
+    },
+    "translation": "在考察荒野导航过程中的空间定向能力时，认知心理学家观察了不得不乘独木舟穿行于水草丛生的复杂浅滩的受试者；在那里，面朝前方的划桨方式对于察觉暗藏的险阻至关重要，而背向的划桨推进则会错失这些盲区。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_13",
+    "group_id": 747,
+    "group_name": "canopy, enfold, oil, bind",
+    "level": "TEM-8",
+    "target_word": "canopy",
+    "question": "Rising high above the botanical sanctuary, ancient cedar boughs intertwine overhead to ___ the central promenade, providing welcome shade from the midday glare while leaving the lateral walkways open to the valley breeze.",
+    "options": [
+      "canopy",
+      "enfold",
+      "oil",
+      "bind"
+    ],
+    "answer": "canopy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键方位短语 'intertwine overhead'（在头顶上方交错）与伴随状语 'leaving the lateral walkways open'（使两侧步道保持敞开）构成了决定性排他锚点。这表明该动作仅指自上方形成穹顶式遮蔽，而非四面包裹，语义上严格锁定 canopy。",
+    "distractor_analysis": {
+      "canopy": "正确。作及物动词时意为“在……上方形成华盖或天篷般覆盖”（to cover with or as if with a canopy）。此处与“overhead”和“central promenade”完美契合，准确描绘出古雪松树冠在头顶交织、如穹顶般荫蔽林荫道的空间形态。",
+      "enfold": "错误。enfold 强调从四面八方“包围、包裹或怀抱”（to wrap up, surround completely）。句中明确强调“leaving the lateral walkways open”（侧翼完全敞开），与 enfold 必须具备的“全包围/全裹式”空间认知语义产生直接逻辑矛盾。",
+      "oil": "错误。oil 意为“涂油、润滑”或引申为“使畅通、讨好”，属于物理机械或机制运作语域，用于树木枝条对道路的遮蔽语境完全脱离语境且荒谬。",
+      "bind": "错误。bind 强调“捆绑、约束、使结合”（to tie together, constrain），树枝在空中相接遮阴并非将道路紧紧“绑缚”或“拘束”，动宾搭配与句意逻辑断裂。"
+    },
+    "translation": "古老的雪松枝桠高耸于植物保护区之上，在头顶上方交错成荫，宛如穹顶般笼罩着中央林荫道，为游人遮挡正午的烈日，同时又让两侧的步道敞开，迎接着山谷的微风。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_14",
+    "group_id": 747,
+    "group_name": "canopy, enfold, oil, bind",
+    "level": "TEM-8",
+    "target_word": "enfold",
+    "question": "During deep introspective analysis, a sudden sensation of serene detachment seemed to ___ his restless mind in absolute stillness, shielding his cognitive faculties from external distractions without restricting intellectual inquiry.",
+    "options": [
+      "canopy",
+      "enfold",
+      "oil",
+      "bind"
+    ],
+    "answer": "enfold",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 '___ his restless mind in absolute stillness' 以及后文的逻辑反衬 'without restricting intellectual inquiry' 是核心锚点。enfold in 是固定搭配，意为“笼罩在……之中/使沉浸在……中”；而 without restricting 直接排除了具有“束缚、限制”核心义项的 bind。",
+    "distractor_analysis": {
+      "enfold": "正确。enfold 常与介词 in 搭配（enfold sb/sth in sth），意为“（如拥抱般）笼罩、包裹在某种氛围或状态中”。此处生动传达出宁静祥和的超然感对心智的轻柔包裹与庇护，句法与修辞高度契合。",
+      "canopy": "错误。canopy 必须基于具象或类比的“自上而下的物理穹顶覆盖”空间图式，不能用于心理认知领域去搭配“in absolute stillness”表达无形精神氛围的心灵包裹。",
+      "oil": "错误。oil 作为及物动词表示“润滑、使顺畅”，无法与“mind in absolute stillness”形成合理的认知哲学搭配，句法结构完全失范。",
+      "bind": "错误。bind 的核心语义是“捆绑、束缚、限制”，若填入此处将与句末分词短语“without restricting intellectual inquiry”（丝毫未限制其知性探索）产生不可调和的逻辑冲突。"
+    },
+    "translation": "在深度的内省剖析中，一种突如其来的静谧超然之感仿佛将他浮躁的心智笼罩在绝对的宁静之中，既庇护了他的认知机能免受外界干扰，又丝毫不曾束缚其知性探索。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_15",
+    "group_id": 748,
+    "group_name": "canter, post, trot, gallop",
+    "level": "TEM-8",
+    "target_word": "canter",
+    "question": "With the opposition coalition hopelessly fractured by bitter ideological recriminations, the incumbent prime minister was widely projected to win the snap election in a ___, effortlessly consolidating executive power without facing any formidable challenge.",
+    "options": [
+      "canter",
+      "post",
+      "trot",
+      "gallop"
+    ],
+    "answer": "canter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句法与习语框架 'win ... in a ___' 结合句意逻辑 'effortlessly consolidating executive power without facing any formidable challenge' 构成唯一排他锚点。'in a canter' 是英语中源自赛马的制度化固定习语（各大权威词典如 Merriam-Webster 专设词条收录，典型例句即为 'won the election in a canter'），专指“轻而易举、毫不费力地（获胜）”。其余三项均无法与 'in a' 搭配构成表轻松取胜的合法习语：'trot' 表连胜时介词为 'on' 且无冠词（on the trot）；'gallop' 表疾驰时固定搭配介词 'at'（at a gallop）；'post' 在赛马胜负语境下仅有 'past the post' 或 'at the post'，'in a post' 属于严重搭配破裂。",
+    "distractor_analysis": {
+      "canter": "正确。canter 本指马匹平稳从容的三拍步态，引申出的固定习语 'in a canter'（或 'at a canter'）被《韦氏词典》《牛津词典》《柯林斯词典》等严格收录，专门释义为 'with ease; easily'，在英美政治与体育新闻中极为高频（例如 Merriam-Webster 权威例证即为 'won the election in a canter'）。句中与动词 'win' 严丝合缝，且完美呼应后置伴随状语 'effortlessly consolidating executive power without facing any formidable challenge'（毫不费力地巩固行政权力）。",
+      "post": "错误。post 作为赛马标杆引申用于竞技胜负时，仅见于固定短语 'first past the post'（在单选区简单多数制中得票最多者胜出）或 'beaten at the post'（在终点前功亏一篑），英语中根本不存在 *in a post* 这一表达；若作“职位”或“柱子”理解，放入句中产生严重语法与语用断裂。",
+      "trot": "错误。trot 涉及获胜语境时，仅存在固定习语 'on the trot'（意为“连续地、接连不断地”，例如 'won three elections on the trot'），其介词为 on 且必须零冠词；若描述步态，搭配也是介词 at（'at a trot'）。英语中完全没有 *in a trot* 这一介词搭配，在此完全不成立。",
+      "gallop": "错误。gallop 表示全速飞奔或极快节奏时，固定搭配介词 at（'at a gallop'，如 'proceeding at a gallop'），且语义特征偏向仓促、慌乱或飞速；英语词典中根本未收录 *in a gallop* 的用法，更无法传达句意所要求的“举重若轻、从容折桂（effortlessly）”之意。"
+    },
+    "translation": "由于反对党联盟因激烈的意识形态相互指责而陷入彻底分裂，外界普遍预测现任首相将在这次提前大选中从容轻取对手，从而在未遭遇任何强劲挑战的情况下毫无悬念地巩固行政权力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_16",
+    "group_id": 748,
+    "group_name": "canter, post, trot, gallop",
+    "level": "TEM-8",
+    "target_word": "canter",
+    "question": "Benefiting from a fractured opposition and an unexpected economic surge, the incumbent administration seemed poised to ___ to an effortless victory, defying the warnings of seasoned political analysts.",
+    "options": [
+      "canter",
+      "post",
+      "trot",
+      "gallop"
+    ],
+    "answer": "canter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'to an effortless victory' 是决定性的语义与搭配锚点。'canter to (victory)' 源自赛马界的经典隐喻（源于 win in a canter），在权威政论与学术评述中固定表示“不费吹灰之力轻松获胜”；反观 'gallop'，其指马匹竭尽全力的四拍狂奔，本质特征是极致的紧绷与耗力（maximum exertion），与形容词 'effortless（毫不费力的）' 存在内在逻辑抵触；'trot' 与 'post' 均无指代轻松夺冠的此类习语结构。",
+    "distractor_analysis": {
+      "canter": "正确。canter 在政治评论和学术分析中高度凝固为动词习语 canter to (victory/triumph)，源自赛马骑手无需鞭策即可轻松越过终点线的典故，专指“毫不费力、笃定平稳地赢得选战或竞争”，与“effortless victory”形成严丝合缝的语义互锁。",
+      "post": "错误。post 在移动和竞逐语境中均无接续 'to victory' 的用法，既不符合句法搭配，亦脱离了语境语义。",
+      "trot": "错误。trot 指小跑，虽然速度慢于 gallop，但英语中并没有 *trot to victory* 这种表达轻松获胜的成语性隐喻用法，替换后造成严重的搭配破裂。",
+      "gallop": "错误。gallop 强调的是全速冲刺、剧烈喘息、耗尽体能的飞奔，其内在蕴含着高度紧张与极度用力（strenuous exertion），这与后文核心定语“effortless（不费力的、轻而易举的）”在语义逻辑上产生尖锐对立，因而不符合表达意图。"
+    },
+    "translation": "得益于反对派的阵营分化与出人意料的经济提振，现任政府似乎注定将毫不费力地轻松斩获胜局，击碎了资深政治分析人士此前的一切预警。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_17",
+    "group_id": 749,
+    "group_name": "canvass, lobby, quest, canvas",
+    "level": "TEM-8",
+    "target_word": "canvass",
+    "question": "In the weeks leading up to the general election, party volunteers were deployed systematically to ___ the suburban constituency, engaging directly with undecided voters on their doorstep thresholds to gauge public sentiment.",
+    "options": [
+      "canvass",
+      "lobby",
+      "quest",
+      "canvas"
+    ],
+    "answer": "canvass",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and syntactic anchor: the transitive verb takes 'the suburban constituency' as its direct object, with the contextual purpose of 'engaging directly with undecided voters on their doorstep thresholds to gauge public sentiment' (走访选区/拉票调查民意).",
+    "distractor_analysis": {
+      "canvass": "正确。canvass 作及物动词时，专指在竞选活动中“走访（选区）、向（选民）拉票或调查民意”（solicit votes or opinions from potential voters in an electoral campaign），与宾语 the suburban constituency 以及后文'doorstep thresholds'（挨家挨户走访）形成严丝合缝的政治竞选搭配。",
+      "lobby": "错误。lobby 通常表示利益集团“向（议员、立法者或政府官员）游说”以促使政策偏向自身，其宾语多为决策者（如 lobby MPs/senators），不能以选区“the suburban constituency”作为游说对象来展开挨家挨户的基层民调或拉票。",
+      "quest": "错误。quest 在现代英语中主要为不及物动词，需与介词 for 或 after 连用（如 quest for truth），不能直接接宾语 the suburban constituency，且其语义侧重哲学或精神层面的“探寻、追求”，与基层竞选走访完全不符。",
+      "canvas": "错误。形近混淆词。canvas 主要是名词，指“帆布”或“油画布”；作动词时意为“用帆布遮盖”，与政治选举和选区民调无任何语义联系。"
+    },
+    "translation": "在大选临近的几周里，政党志愿者被成体系地派往郊区选区走访拉票，在门槛边直接接触摇摆选民以探寻民意向背。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_18",
+    "group_id": 749,
+    "group_name": "canvass, lobby, quest, canvas",
+    "level": "TEM-8",
+    "target_word": "canvass",
+    "question": "Before finalizing the contentious governance reform, the university senate commissioned an independent panel to ___ the faculty members, systematically collecting dissenting viewpoints and constructive recommendations across all departments.",
+    "options": [
+      "canvass",
+      "lobby",
+      "quest",
+      "canvas"
+    ],
+    "answer": "canvass",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive semantic and syntactic anchor: takes a group of people ('the faculty members') as the direct object, followed by the parallel participial clause 'systematically collecting dissenting viewpoints and constructive recommendations' (系统征询/调查各方意见).",
+    "distractor_analysis": {
+      "canvass": "正确。canvass 在认知与机构决策语境中意为“全面征求、征询（群体意见）或调查（某群体的立场）”（to ascertain or solicit the opinions of a specified group of people），此处由独立委员会对全体教职工（the faculty members）进行系统性意见摸底，与后文 collecting dissenting viewpoints 完美契合。",
+      "lobby": "错误。lobby 意为“游说；施加压力以促成某项决定”，带有明确的施压和立场导向性，而句中“independent panel”（独立调查小组）的核心职责是中立、客观地收集反馈（collecting dissenting viewpoints），与 lobby 所蕴含的单向施压/游说语义产生逻辑冲突。",
+      "quest": "错误。quest 在现代标准书面语中为不及物动词，后接名词时必须搭配介词（如 quest after / quest for），在此处充当及物动词后接 faculty members 属于句法错误。",
+      "canvas": "错误。形近词干扰。canvas 为双写 s 的拼写变体错误或指帆布，不能表达“调查、征集民意”的含义。"
+    },
+    "translation": "在最终敲定这项备受争议的治理改革方案之前，大学评议会委托了一个独立调查小组向全体教职人员征询意见，在所有院系中系统收集不同观点与建设性建议。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_19",
+    "group_id": 750,
+    "group_name": "caress, fondle, lap, lick",
+    "level": "TEM-8",
+    "target_word": "caress",
+    "question": "Sitting beside the hospital bed, the devoted husband reached out to gently ___ his comatose wife's forehead with his trembling fingertips, praying silently for any flicker of neurological recovery.",
+    "options": [
+      "caress",
+      "fondle",
+      "lap",
+      "lick"
+    ],
+    "answer": "caress",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The instrumental modifier 'with his trembling fingertips' combined with the adverb 'gently' and the direct object 'forehead' denotes an exceptionally tender, light, and soothing human stroke, perfectly fulfilling the lexicographical definition of caress while ruling out physical manipulation or tongue action.",
+    "distractor_analysis": {
+      "caress": "正确。Merriam-Webster将其定义为“touch or stroke lightly in a loving or endearing manner”（以充满爱意或抚慰的方式轻柔抚摩）。语境中副词“gently”（轻柔地）与介词短语“with his trembling fingertips”（用颤抖的指尖）精准锁定了动作的轻柔与深情特征；受词为昏迷妻子的“额头”（forehead），体现了病榻前庄重而温存的情感慰藉，完全契合caress的语义内核与语体要求。",
+      "fondle": "错误。Merriam-Webster辨析指出fondle多指“more sustained and energetic petting or stroking or handling”（更持久、用力或抓握式的抚弄），且在现代英语中用于人体部位时常伴有不当的肉欲、性抚摸暗示；与“额头（forehead）”以及由“颤抖的指尖（trembling fingertips）”所传递的纯粹悲悯抚慰格格不入，构成严重的语体和语义冲突。",
+      "lap": "错误。lap作动词时主要指波浪“轻拍、冲刷”（如水拍岸）或动物“舔饮”（用舌头卷水喝），无法由人类通过手指执行，存在根本性的语法与动作主体范畴违背。",
+      "lick": "错误。lick特指用舌头舔舐（pass the tongue over），这与句中明确标示的工具状语“with his trembling fingertips”（用他颤抖的指尖）产生无可调和的物理与逻辑矛盾，且在肃穆沉重的医疗陪护情境中极为荒谬。"
+    },
+    "translation": "守候在病床边，这位深情的丈夫伸出手，用颤抖的指尖轻抚着昏迷中妻子的额头，默默祈求她能出现哪怕一丝神经机能复苏的迹象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b74_20",
+    "group_id": 750,
+    "group_name": "caress, fondle, lap, lick",
+    "level": "TEM-8",
+    "target_word": "fondle",
+    "question": "Following an exhaustive independent inquiry, the university board formally sanctioned the department chair for professional misconduct, concluding that he had persistently abused his administrative authority to inappropriately ___ subordinate staff members during mandatory private evaluations.",
+    "options": [
+      "caress",
+      "fondle",
+      "lap",
+      "lick"
+    ],
+    "answer": "fondle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_JUSTICE",
+    "anchor_clue": "The institutional context of 'sanctioned... for professional misconduct' combined with the adverbial phrase 'abused his administrative authority to inappropriately ___ subordinate staff members' decisively triggers the primary modern legal and institutional sense of fondle ('to touch or handle someone inappropriately or sexually without consent; to grope').",
+    "distractor_analysis": {
+      "caress": "错误。caress 的核心语义特征为带有温存、挚爱或轻柔抚慰的轻抚（gentle and loving touch）。在高校纪律审查与行政处分（disciplinary sanctions for professional misconduct）这一严肃公文语境中，若用 caress 来指代滥用职权实施的不当肢体越界行为，会造成严重的“感情色彩倒错”（logical connotation inversion）和“文体语体断裂”（stylistic clash），官方调查报告绝不可能使用带有浪漫或温情色彩的词汇来定性职场违规侵犯行为。",
+      "fondle": "正确。fondle 在当代标准英语、严肃新闻报道及机构调查通报（institutional and legal registers）中，最活跃的用法即特指带有非分意图、违背他人意愿的不当抚弄、动手动脚或猥亵行为（to touch or handle someone inappropriately or illicitly）。“inappropriately fondle subordinate staff members”完全契合现代行政伦理与法务公文中的严谨定性与固定搭配。",
+      "lap": "错误。lap 作及物动词时意指动物“舔饮（液体）”或“包覆、折叠（如 lapped in luxury）”；作不及物动词时常与 at/against 连用（表示微波拍打）。lap 根本不能接“subordinate staff members”作及物动宾搭配，存在严重的句法脱节与语义荒谬。",
+      "lick": "错误。lick 严格指字面意义上的“用舌头舔舐”（pass the tongue over）。在涉及学术权力寻租与职场肢体越界的正式调查公文语境中，使用 lick 极其荒谬且严重脱离正式公文的用词规范（grossly unidiomatic），无法表达机构调查中所认定的手动抚弄与不当肢体接触行为。"
+    },
+    "translation": "在一项详尽的独立调查之后，大学董事会正式对该系主任的违规行为做出了纪律处分，认定他在强制性的私下考评期间，屡次滥用行政职权对下属员工动手动脚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

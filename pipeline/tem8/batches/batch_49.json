@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b49_01",
+    "group_id": 491,
+    "group_name": "fateful, black, fatal, disastrous",
+    "level": "TEM-8",
+    "target_word": "fateful",
+    "question": "At this ___ juncture in the empire's intellectual history, scholars tragically misjudged the encroaching technological revolution, embracing a rigid traditionalism that irrevocably precipitated their society's economic obsolescence.",
+    "options": [
+      "fateful",
+      "black",
+      "fatal",
+      "disastrous"
+    ],
+    "answer": "fateful",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Strong collocational binding with 'juncture' (fateful juncture) combined with the semantic requirement of a momentous historical turning point that predetermines long-term destiny.",
+    "distractor_analysis": {
+      "fateful": "正确。fateful源于fate，核心语义为‘决定命运的、关系重大的，常指带来毁灭性后效的转折点’。在学术英语与高阶史学论述中，'fateful juncture'（决定命运的关键时刻/关口）是高度固化的经典搭配，与后文的'irrevocably precipitated'（不可逆转地加速了……）形成完美的因果与语域呼应。",
+      "black": "错误。black用于引申义时多指‘凄惨的、毫无希望的、令人沮丧的’（如a black day for democracy），或用于固定商业/历史事件标签（如Black Monday）。它属于描摹情感色彩或特定悲惨日子的形容词，绝不能与表示历史转折节点的抽象名词juncture搭配，在学术语域中构成严重搭配失误。",
+      "fatal": "错误。fatal的核心义素为‘致命的、导致肉体死亡或彻底终结的’（如fatal accident, fatal dose, fatal flaw）。它侧重于‘带来直接死亡或即时瓦解’的性质，通常不用于修饰juncture这种表示时间与历史交汇点的抽象情境名词；在学术英语中不存在'fatal juncture'的惯用搭配。",
+      "disastrous": "错误。disastrous侧重于指事件本身‘造成灾难性的破坏或惨重损失’（如disastrous flood, disastrous defeat, disastrous consequences），侧重结果已然发生的灾难烈度与毁灭性。juncture本身是一个‘关头/节点’而非‘灾害/事件本身’，因此'disastrous juncture'在语义和搭配习惯上均极为生硬扭曲。"
+    },
+    "translation": "在该帝国思想史的这一决定命运的关键关口，学者们悲剧性地误判了步步逼近的技术革命，转而恪守僵化的传统主义，这不可逆转地加速了其社会在经济层面的彻底落伍。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_02",
+    "group_id": 491,
+    "group_name": "fateful, black, fatal, disastrous",
+    "level": "TEM-8",
+    "target_word": "fateful",
+    "question": "Although contemporary delegates regarded their initial deliberations as an unqualified success, that ___ meeting in Vienna set in motion an irreversible sequence of diplomatic rivalries that ultimately dismantled the century-old balance of power.",
+    "options": [
+      "fateful",
+      "black",
+      "fatal",
+      "disastrous"
+    ],
+    "answer": "fateful",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The concession clause 'regarded their initial deliberations as an unqualified success' explicitly rejects words denoting immediate overt catastrophe or death, leaving 'fateful' as the only word that describes an outwardly successful or neutral event that retrospectively seals a disastrous destiny.",
+    "distractor_analysis": {
+      "fateful": "正确。fateful特指‘对未来具有决定性重大影响的’，尤其指看似平凡或当时被视为成功的事件，在事后看来却‘注定酿成悲剧命运’（having dire consequences determining future history）。句首让步状语指明当时的参会代表认为谈判取得了‘完全的成功’，唯有fateful能精准传递出‘表面圆满却在暗中注定了日后不可逆转的瓦解命运’的宿命性与深远历史后果，与'meeting'构成经典史学搭配（fateful meeting）。",
+      "black": "错误。black作形容词时表示‘暗淡的、阴郁绝望的’。用于形容会议等事件时，不仅缺乏'black meeting'这种合乎语法的惯用搭配，而且其直接的消极阴暗色彩与让步状语中的'unqualified success'在修辞逻辑上无法自洽。",
+      "fatal": "错误。fatal表示‘致命的、致死的’。在修饰具体的人际交互或会议时，'fatal meeting'有强烈的字面含义约束，即指‘有人在此次会面中直接丧生、暴毙或遭遇谋杀’（如发生决斗或刺杀的会面）。维也纳会议并无人员死亡，此处用于修饰外交会谈属于词义的严重越界与逻辑破裂。",
+      "disastrous": "错误。disastrous意为‘灾难性的、彻底失败的’，侧重于事件本身在执行或即时结果上是一场灾难（如谈判破裂、大打出手）。本句前半句明确强调当时与会代表视其为‘完全的成功’（unqualified success），若主句断言该会议是一场'disastrous meeting'，将造成句内语义的前后矛盾与逻辑断裂。"
+    },
+    "translation": "尽管当代的参会代表们将他们最初的磋商视为一次完全的成功，但维也纳那场决定命运的会晤却引发了一系列不可逆转的外交争端，并最终彻底瓦解了维系百年的权力平衡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_03",
+    "group_id": 492,
+    "group_name": "flagrant, rank, gross, glaring",
+    "level": "TEM-8",
+    "target_word": "flagrant",
+    "question": "The Security Council denounced the unprovoked military offensive as a ___ breach of the non-aggression pact, emphasizing that such brazen defiance of sovereign borders provoked justifiable international outrage.",
+    "options": [
+      "flagrant",
+      "rank",
+      "gross",
+      "glaring"
+    ],
+    "answer": "flagrant",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_GOVERNANCE_LAW",
+    "anchor_clue": "句中的 'brazen defiance'（明目张胆的蔑视/公然对抗）与 'provoked justifiable international outrage'（激起合乎情理的国际义愤）构成了决定性的语境锚点。根据韦氏词典辨析，flagrant 专指因行为极度厚颜无耻、公然违抗规约而激起公众强烈愤慨（conspicuously or offensively bad; so brazen or insolent that it excites public outrage），且 flagrant breach 为国际法与外交公文评述撕毁条约时的经典专属搭配。",
+    "distractor_analysis": {
+      "flagrant": "正确。flagrant 强调恶行或违规行为具有“明目张胆、毫不掩饰、悍然挑衅且令人义愤填膺”的性质。与 breach of the non-aggression pact（撕毁互不侵犯条约）搭配，严丝合缝地呼应后文的 brazen defiance（悍然蔑视）与 provoked justifiable international outrage（激起公愤）。",
+      "rank": "排除。rank 用作形容词时表示“十足的、彻底的、极端的”，通常作为强调词修饰具有负面属性的抽象名词或身份（如 rank hypocrisy 虚伪透顶、rank amateur 纯粹的外行、rank incompetence 极度无能），或指恶臭与杂草丛生，不能与 breach 搭配来指涉对国际公约的公然践踏。",
+      "gross": "排除。gross 侧重程度上的“严重的、极端的、过度的”或“粗暴的”，常见搭配如 gross negligence（重大过失）、gross misconduct（严重不端）或 gross human rights violations（严重侵犯人权，侧重规模与体量），但 gross 聚焦于缺乏审慎或后果的严重性，无法体现 flagrant 所独有的“brazen（公然挑衅、不知羞耻）”这一主观恶意与激起道义公愤的情感色彩；且国际法中描述践踏互不侵犯条约的公然行为通常固定使用 flagrant breach 或 material breach，不使用 gross breach。",
+      "glaring": "排除。glaring 核心含义为“刺眼的、极其显而易见的”，主要用于修饰在客观对比中一眼即可被察觉的明显纰漏、错误或悬殊（如 glaring error 明显错误、glaring discrepancy 刺眼的差距、glaring omission 显眼的疏漏），不能用于修饰蓄意、恶性的地缘政治条约违背行为。"
+    },
+    "translation": "联合国安理会谴责这起无端军事进攻是对《互不侵犯条约》的公然破坏，并强调这种对主权边界明目张胆的蔑视理所当然地激起了国际社会的强烈义愤。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_04",
+    "group_id": 492,
+    "group_name": "flagrant, rank, gross, glaring",
+    "level": "TEM-8",
+    "target_word": "flagrant",
+    "question": "By deploying heavily armed battalions along the demilitarized border in ___ defiance of the bilateral armistice, the belligerent general sabotaged peace negotiations and precipitated an emergency session of the Security Council.",
+    "options": [
+      "flagrant",
+      "rank",
+      "gross",
+      "glaring"
+    ],
+    "answer": "flagrant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "句中介词短语框架 'in ___ defiance of the bilateral armistice'（悍然违抗双边停火协议）构成了强有力的同现锚点。在政法与外交学术语料中，'in flagrant defiance of...' 为各大权威词典收录的固定高阶典范搭配，专指对条约、禁令或国际法的公然挑衅与肆意践踏。",
+    "distractor_analysis": {
+      "flagrant": "正确。flagrant 源于拉丁语“燃烧、明亮”，核心语义强调行为违背法则与伦理时的“明目张胆、毫不掩饰、骇人听闻”。固定搭配 'in flagrant defiance of' 完美契合在停火线上部署重兵、公然挑衅和平协议的语境。",
+      "rank": "排除。rank 作形容词表示“极端的、十足的”，多修饰揭示本质腐败、偏私或不称职的抽象名词（如 rank hypocrisy, rank opportunism, rank amateurism）；在军事语境下虽有 rank insubordination（严重违抗军令）的术语搭配，但 rank 从不与 defiance 连用，不存在 *in rank defiance of 这一结构。",
+      "gross": "排除。gross 侧重数量规模之巨或主观过失之重，标准搭配限于 gross negligence（严重疏忽）、gross misconduct（严重不端）、gross disparity（显著差距）或 gross violation（严重侵犯）。defiance 表示主动采取的抗拒与挑衅姿态，在英语中不能与 gross 搭配（*gross defiance 不成立）。",
+      "glaring": "排除。glaring 核心含义为“显眼的、刺目的”，修饰对象必须是客观暴露在外、一眼即可识别的缺陷、遗漏或矛盾（如 glaring error, glaring omission, glaring contradiction）。defiance 是一种带有对抗意志的主观行为，而非客观存在的瑕疵或疏失，填入此处属于语义范畴错配。"
+    },
+    "translation": "该好战将领在非军事化边界沿线部署重装部队，悍然违抗双边停火协议，不仅破坏了和平谈判，还引发了联合国安理会紧急会议的召开。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_05",
+    "group_id": 493,
+    "group_name": "genteel, polite, refined, cultivated",
+    "level": "TEM-8",
+    "target_word": "genteel",
+    "question": "Compelled to preserve an appearance of social prominence despite a depleted inheritance, the dowager spent decades enduring ___ poverty, masking her private destitution behind rigid protocol and meticulously preserved family silver.",
+    "options": [
+      "genteel",
+      "polite",
+      "refined",
+      "cultivated"
+    ],
+    "answer": "genteel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed socio-literary collocation 'genteel poverty' paired with the semantic contrast between 'depleted inheritance/destitution' and 'appearance of social prominence/rigid protocol'.",
+    "distractor_analysis": {
+      "genteel": "正确。此处构成英语文学与社会历史中标志性的固定短语 genteel poverty（特指没落贵族或士绅阶层虽已沦为赤贫，但仍顽强坚守上流社会繁文缛节与排场的“体面贫穷”或“穷体面”）。句中“depleted inheritance”（耗尽的遗产）、“destitution”（赤贫）与“rigid protocol”（死板的礼法）、“family silver”（传家银器）构成的阶级做派反差，构成了选择该词的决定性语境锚点。",
+      "polite": "错误。polite 侧重指人际举止符合常规的礼貌与客套（如 polite conversation, polite society, polite fiction），主要修饰人或具体的言行举止，绝不可用于修饰经济匮乏或社会阶层困境，英语中无 polite poverty 这一搭配。",
+      "refined": "错误。refined 意为“精炼的、高雅纯正的”，强调去除了粗俗或杂质（如 refined taste, refined language），多用于正面评价审美素养或物质纯度，与客观表示窘迫凄苦的 poverty 在语义逻辑上发生根本冲突，无法形成搭配。",
+      "cultivated": "错误。cultivated 侧重指“受过良好教育的、有文化教养的”（如 cultivated mind, cultivated accent），系后天文化熏陶与学习所得，通常修饰人的精神面貌、谈吐或艺术趣味，不能与 poverty 连用。"
+    },
+    "translation": "尽管家族遗产耗尽，这位贵族遗孀为了维持昔日的显赫声望，在数十年里强撑着“体面的贫困”，用严苛的繁文缛节与精心擦拭的传家银器，掩盖自己私下的赤贫境地。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_06",
+    "group_id": 493,
+    "group_name": "genteel, polite, refined, cultivated",
+    "level": "TEM-8",
+    "target_word": "genteel",
+    "question": "In his seminal cultural critique, Santayana assaulted the calcified ___ tradition of New England, arguing that this prudish, morally stagnant establishment had stifled genuine intellectual vitality and estranged literature from practical American life.",
+    "options": [
+      "genteel",
+      "polite",
+      "refined",
+      "cultivated"
+    ],
+    "answer": "genteel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The canonical intellectual-history term 'the genteel tradition' originated by George Santayana, corroborated by semantic markers 'prudish, morally stagnant' and 'calcified'.",
+    "distractor_analysis": {
+      "genteel": "正确。此处考查美国思想史与文学批评史上的经典专有名词 the genteel tradition（由哲学家桑塔亚纳于1911年提出的“体面传统/绅士传统”，专指新英格兰地区那种僵化保守、脱离现实、故作高贵且带有伪善倾向的精英文化）。此外，genteel 本身具有“过分拘泥虚饰礼节、假正经（prudish）、缺乏血气生机”的特殊贬义色彩，与句中“calcified”（僵化的）及“prudish, morally stagnant”（假正经且道德停滞的）在语义场上完全吻合。",
+      "polite": "错误。polite 仅强调遵守外在社交规矩（如 polite applause, polite letters），在文学思想史中并无 the polite tradition 这一专有术语，且 polite 为中性或轻度褒义词，不具备该语境中强烈的“假正经、缺乏活力”的讽刺批判色彩。",
+      "refined": "错误。refined 强调“优雅精妙、纯正高洁”，系纯褒义的审美与修养范畴词汇（如 refined sensibilities）；填入此处无法与 calcified 及 prudish 形成批判性的连贯语流，更非该历史流派的公认学术定称。",
+      "cultivated": "错误。cultivated 意为“有教养的、精心培育的”（如 cultivated intellect），强调知识与文化的浸润，既不能构成 Santayana 文学批评的固定术语，亦无法表达对道德虚伪和窒息思想生机的深刻贬抑。"
+    },
+    "translation": "桑塔亚纳在其开创性的文化批评中，猛烈抨击了新英格兰地区僵化的“体面传统”，指出这种假正经且道德停滞的体制扼杀了真正的思想活力，并使文学与真实的美国现实生活脱节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_07",
+    "group_id": 494,
+    "group_name": "hapless, poor, pathetic, wretched",
+    "level": "TEM-8",
+    "target_word": "hapless",
+    "question": "When the speculative bubble engineered by shadow banking abruptly collapsed, thousands of ___ retail investors saw their life savings eradicated, having fallen victim to market forces far beyond their control.",
+    "options": [
+      "hapless",
+      "poor",
+      "pathetic",
+      "wretched"
+    ],
+    "answer": "hapless",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文伴随状语“having fallen victim to market forces far beyond their control（沦为不受自身控制的市场力量的受害者）”清晰锁定了因不可抗外力与厄运而受害的认知图景。在财经与严肃政经期刊中，“hapless retail investors”为高度固定的学术与行业搭配，既表达客观遭遇厄运，又排除了贫困义或主观贬抑色彩。",
+    "distractor_analysis": {
+      "hapless": "正确。hapless 意为“不幸的、倒霉的”（having no luck; unfortunate），特指因身处超出自身掌控的外在变故或系统性危机中而遭殃的人。在财经与国际主流大报（如《金融时报》《经济学人》）中，“hapless retail investors / consumers”是极其高频的固定搭配，精准呼应后文“沦为不可控市场力量的受害者”这一语境。",
+      "poor": "错误。poor 虽可表示“可怜的、不幸的”，但置于 investors 之前极易激活其本义“贫穷的”，与后文这些散户拥有可用于投机的“life savings（毕生积蓄）”产生逻辑冲突；此外，以 poor 表示同情在严肃的宏观经济论述中显得过于口语化与感伤，不符合高阶政经期刊的学术语域。",
+      "pathetic": "错误。pathetic 带有鲜明的“可悲的、可怜而卑微的、差劲荒谬的”贬损色彩（如 pathetic performance/attempt），常暗示当事人因自身软弱或无能而令人鄙弃，这与句中将散户客观中立地描述为系统性危机受害者的论述基调截然对立。",
+      "wretched": "错误。wretched 意为“极为痛苦的、凄惨的、可恶堕落的”，强调深重的生理折磨、极端贫困恶劣的生活境况（physical squalor or misery）或道德上的卑劣，将其用于修饰受金融波动影响的现代证券投资者属于严重的语义与语域错配。"
+    },
+    "translation": "当影子银行所炮制的投机泡沫轰然破灭时，成千上万倒霉的散户投资者眼睁睁看着毕生积蓄化为乌有，沦为了自身根本无法掌控的市场力量的牺牲品。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_08",
+    "group_id": 494,
+    "group_name": "hapless, poor, pathetic, wretched",
+    "level": "TEM-8",
+    "target_word": "hapless",
+    "question": "Reduced to a ___ pawn in the high-stakes geopolitical standoff, the ambassador realized that his diplomatic credibility had been cynically exploited by senior officials pursuing concealed unilateral agendas.",
+    "options": [
+      "hapless",
+      "poor",
+      "pathetic",
+      "wretched"
+    ],
+    "answer": "hapless",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首分词短语“Reduced to a ___ pawn in the high-stakes geopolitical standoff”构成地缘政治分析中的高频惯用搭配。“hapless pawn”专指在不可抗的高层强权博弈中身不由己、沦为牺牲工具的“倒霉走卒”，在认知层面上完全排除带有无能贬损的 pathetic、强调凄苦卑劣的 wretched 以及语体非正式的 poor。",
+    "distractor_analysis": {
+      "hapless": "正确。hapless 意为“运蹇时乖的、倒霉的”。在国际关系与外交政论语境中，“hapless pawn”（身不由己的倒霉棋子）是高度固定的修辞搭配，特指本身具备专业尊严与信誉的个体（如句中的 ambassador），因受制于残酷的地缘博弈而沦为被动牺牲品，极契合后文“diplomatic credibility had been cynically exploited”所传达的宿命式无奈。",
+      "poor": "错误。poor pawn 并非正式国际关系评论中的规范习语；poor 表示“可怜”时带有过多的私人情感色彩与口语感触，无法支撑高阶外交政策分析（high-stakes geopolitical standoff）所要求的典雅、冷峻文风。",
+      "pathetic": "错误。pathetic 侧重“引人轻蔑的可怜、窝囊废式的、荒唐无力的”（arousing contemptuous pity），若修饰 pawn 则暗含该大使自身无能透顶、表现拙劣可笑，但后文明确强调他拥有货真价实的“diplomatic credibility”（外交声望），冲突明显。",
+      "wretched": "错误。wretched 着重指极端悲惨凄苦的生存状态（abject misery）或道德上的卑鄙可耻（despicable），用于描述参与高层外交谈判的特使角色属于语义超载与语用失焦。"
+    },
+    "translation": "在这场高风险的地缘政治对峙中沦为一颗倒霉的棋子后，这位大使意识到，自己的外交信誉已被那些奉行隐秘单边议程的高级官员冷酷地利用了。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_09",
+    "group_id": 495,
+    "group_name": "homogeneous, solid, uniform, consistent",
+    "level": "TEM-8",
+    "target_word": "homogeneous",
+    "question": "Unlike the heterogeneous fossil beds nearby, this sedimentary stratum yielded a strikingly ___ assemblage of marine organisms, in which every fossilized specimen belonged to the exact same genus of brachiopod.",
+    "options": [
+      "homogeneous",
+      "solid",
+      "uniform",
+      "consistent"
+    ],
+    "answer": "homogeneous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句首以“heterogeneous fossil beds”（成分多样的异质化化石层）确立了严密的相反对照关系，后文定语从句“in which every fossilized specimen belonged to the exact same genus of brachiopod”提供了决定性的排他定义——即该生物组合内的全部标本属于完全相同的分类学属（all of the same kind or nature）。在古生物学与地层生态学中，指称物种或标本组成单一、无分化的专有搭配为“homogeneous assemblage”。",
+    "distractor_analysis": {
+      "homogeneous": "正确项。形容词，意为“同性质的，由同类部分构成的”（all of the same or similar kind or nature）。在古生物学与古生态学语境中，“homogeneous assemblage”是描述成员属种单一、未出现分化的化石组合的标准学术搭配，且与前半句的“heterogeneous”（异质的、成分多样的）形成严格反义对称，完美呼应从句中的“belonged to the exact same genus”。",
+      "solid": "错误项。形容词，本义为“固态的，坚硬致密的，无空隙的”，引申为“可靠的，连续结实的”。此处修饰的是由个体化石构成的群落组合（faunal/fossil assemblage），而非地质实体的物理聚集状态或力学硬度，使用“solid assemblage”属于严重的范畴错配（category error）。",
+      "uniform": "干扰项。形容词，意为“形态、规格、速率或度量一致的”（having always the same form, manner, or degree）。该词在古生物学与沉积学中常用于描述化石颗粒的物理尺寸分布（uniform grain size）或水流造成的规则定向排列（uniform orientation），指代外在形态或度量上的均一，而无法表达生物分类阶元（taxonomic kind/genus）上的纯粹同一性，造成语义重心偏离。",
+      "consistent": "干扰项。形容词，意为“前后一致的，连贯的，与……吻合的”（marked by steady continuity or agreement），强调跨时间或跨样本维度的规律性与不矛盾性，常与介词 with 搭配（consistent with）。它无法用于修饰静态组合内部各成员属于同一种属这一内在构成特征。"
+    },
+    "translation": "与附近成分多样的异质化化石层不同，这一沉积层出土了极为单一均质的海洋生物组合，其中每一具化石标本均属于完全相同的腕足动物属。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_10",
+    "group_id": 495,
+    "group_name": "homogeneous, solid, uniform, consistent",
+    "level": "TEM-8",
+    "target_word": "homogeneous",
+    "question": "Owing to an extreme demographic bottleneck followed by decades of inbreeding, the isolated cheetah population exhibits an extraordinarily ___ gene pool, lacking the allelic diversity necessary to withstand novel infectious diseases.",
+    "options": [
+      "homogeneous",
+      "solid",
+      "uniform",
+      "consistent"
+    ],
+    "answer": "homogeneous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句首前置从句“demographic bottleneck”（种群瓶颈）与“decades of inbreeding”（数十年近亲繁殖）揭示了遗传多样性丧失的演化背景，句末分词短语“lacking the allelic diversity necessary to withstand novel infectious diseases”（缺乏抵御新型传染病所必需的等位基因多样性）构成了绝对排他锚点。在群体遗传学与保护生物学中，修饰缺乏多态性、等位基因高度趋同的基因库时，唯一规范的学术术语是“homogeneous gene pool”。",
+    "distractor_analysis": {
+      "homogeneous": "正确项。形容词，指“同性质的，由相同或相似种类构成的”（all of the same or similar kind or nature）。在演化生物学与遗传学领域，“homogeneous gene pool”（同质化基因库/高度均一基因库）是专门术语，精准契合句中近亲繁殖导致等位基因种类单一、缺乏遗传多态性的生物学机制，与后文的“lacking the allelic diversity”形成严密的逻辑呼应。",
+      "solid": "错误项。形容词，意为“固体的，坚固的，充实的”。“gene pool”（基因库）是生物学抽象概念，用“solid”修饰“gene pool”在语义学上属于范畴错配（category error），既不符合科学语域，也无法表达遗传学上的同质性。",
+      "uniform": "干扰项。形容词，意为“一律的，制式的，无差别的”（having always the same form, manner, or degree），侧重宏观外在形态、速度、规格或几何分布的恒定无差（如 uniform velocity, uniform coating）。等位基因作为微观生化遗传单位，其组成的趋同和多态性丧失在学术上被严格表述为“homogeneity”，生物学文献中不存在“uniform gene pool”这一搭配。",
+      "consistent": "干扰项。形容词，意为“持续的，始终如一的，符合的”，强调随时间推移未发生剧烈波动，或与外部既定标准相符（如 consistent performance, consistent data）。它无法描述种群基因库内部遗传位点上等位基因匮乏、同质化严重的内在构成属性。"
+    },
+    "translation": "由于经历了极端的种群瓶颈以及随后数十年的近亲繁殖，这个孤立的猎豹种群展现出极度同质化的基因库，缺乏抵御新型传染病所必需的等位基因多样性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_11",
+    "group_id": 496,
+    "group_name": "impenetrable, dense, heavy, thick",
+    "level": "TEM-8",
+    "target_word": "impenetrable",
+    "question": "Cloaked in proprietary algorithms and deliberate corporate obfuscation, the firm’s automated credit system remained fundamentally ___ to external regulatory scrutiny, rendering independent algorithmic audits virtually impossible.",
+    "options": [
+      "impenetrable",
+      "dense",
+      "heavy",
+      "thick"
+    ],
+    "answer": "impenetrable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic complementation and collocational exclusivity of 'impenetrable to [scrutiny/inquiry]'; neither 'dense', 'heavy', nor 'thick' can govern 'to + scrutiny' to indicate resistance to cognitive penetration or examination.",
+    "distractor_analysis": {
+      "impenetrable": "正确。此处表示“不可探究的、无法洞悉的”，其后接介词 to 构成固定搭配“impenetrable to external scrutiny”（无法被外部审查所透视），精准体现了算法黑箱与蓄意掩盖带来的认知壁垒。",
+      "dense": "错误。dense 虽可引申指“晦涩难懂的”（如 dense prose），但其句法上无法与介词短语“to external regulatory scrutiny”形成依存搭配（不存在 dense to scrutiny 表达），在此存在严重句法断裂。",
+      "heavy": "错误。heavy 主要表示物理重量、沉重负担或严肃沉闷，既无法接介词 to 表明“抗拒审查”，也无法用于形容算法系统阻绝窥探的抽象认知特征。",
+      "thick": "错误。thick 主要用于描述物理厚度或浓稠度，口语中虽可形容人迟钝，但在高级学术/政论语域中不能与 to scrutiny 搭配，语义及语体均不吻合。"
+    },
+    "translation": "在专有算法和企业蓄意掩盖的遮蔽下，该公司的自动化信贷系统在根本上让外部监管审查无法透视，使得独立的算法审计几乎化为泡影。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_12",
+    "group_id": 496,
+    "group_name": "impenetrable, dense, heavy, thick",
+    "level": "TEM-8",
+    "target_word": "impenetrable",
+    "question": "Entrenched in dogmatic orthodoxy, the committee members proved utterly ___ to reason, summarily dismissing rigorous empirical counterarguments as mere ideological subversion engineered by their institutional rivals.",
+    "options": [
+      "impenetrable",
+      "dense",
+      "heavy",
+      "thick"
+    ],
+    "answer": "impenetrable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Idiomatic collocation 'impenetrable to reason' (meaning impervious to argument or rational persuasion); 'dense', 'heavy', and 'thick' are syntactically and idiomatically barred from taking 'to reason' in this cognitive sense.",
+    "distractor_analysis": {
+      "impenetrable": "正确。impenetrable 在认知与态度领域可引申为“不受理智影响的、难以理喻的、油盐不进的”（impervious to reason or influence），与 to reason 构成高级学术与政论经典搭配，生动表现出委员们顽固闭锁的心智状态。",
+      "dense": "错误。dense 在非正式语境下可形容人“愚钝的”，但句法上绝对不能作表语接介词短语 to reason（无 dense to reason 的搭配形式），代入后产生严重的语病。",
+      "heavy": "错误。heavy 强调“沉重的、繁重的、剧烈的”，与介词 to reason 毫无句法和语义关联，逻辑不能自洽。",
+      "thick": "错误。thick 在英式口语中偶可作“愚笨的”（如 a bit thick），但一方面属于非正式口头色彩、严重违背 TEM-8 正式书面语体要求，另一方面在句法上同样不能支配 to reason。"
+    },
+    "translation": "委员会成员们因固守教条主义的正统观念而变得顽固不化、不可理喻，他们粗暴地将严谨的实证反驳一概斥为机构竞争对手策划的意识形态颠覆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_13",
+    "group_id": 497,
+    "group_name": "incarnate, corporal, material, corporate",
+    "level": "TEM-8",
+    "target_word": "incarnate",
+    "question": "To early naturalists exploring the untamed taiga, the Siberian tiger was not merely an apex predator, but primeval wildness ___, embodying a ferocious evolutionary sovereignty that utterly resisted anthropocentric subjugation.",
+    "options": [
+      "incarnate",
+      "corporal",
+      "material",
+      "corporate"
+    ],
+    "answer": "incarnate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中空缺紧随抽象名词短语 'primeval wildness' 之后，构成专属于形容词 incarnate 的后置修饰固定构式（[Abstract Noun] + incarnate，意为‘……的活生生化身/典型体现’），并与后文的 'embodying'（具象化、体现）形成严密的语义呼应。其余三项均无法在句法上后置修饰该抽象名词表达‘化身’之意。",
+    "distractor_analysis": {
+      "incarnate": "正确。incarnate 源自拉丁语过去分词，常作为后置形容词置于抽象名词（如 wildness, evil, fury）之后，表示‘某特质的化身’或‘具有肉身形态的典型体现’。在此处构成 'primeval wildness incarnate'（原始荒野的化身），与后文分词短语 'embodying a ferocious evolutionary sovereignty' 在句法与词义上高度契合。",
+      "corporal": "错误。corporal 意为‘身体的、肉体的’，现代英语中多为前置定语，且搭配极其受限（如 corporal punishment‘体罚’），既不能后置修饰抽象名词 'wildness'，也无法表达‘化身’或‘拟人化体现’的语义。",
+      "material": "错误。material 意为‘物质的、有形的’。虽然它涉及物理实在，但作为形容词时通常前置修饰名词（如 material world）；后置用法仅偶见于固定法律程式语（如 matters material‘实质性事项’），置于 'wildness' 之后在句法上不成立，亦无法传达精神概念化为生命肉身的精妙语意。",
+      "corporate": "错误。corporate 意为‘公司的、法人的’或‘全体的、共同的’（如 corporate responsibility）。其语域偏向商业、法律与社会组织，置于野生自然与掠食动物的语境中造成严重的语域错位与语义荒谬。"
+    },
+    "translation": "对于探索未驯服泰加林带的早期博物学家而言，西伯利亚虎不仅是一种顶级掠食者，更是原始荒野的化身，体现了一种彻底抗拒人类中心主义征服的狂暴演化威严。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_14",
+    "group_id": 497,
+    "group_name": "incarnate, corporal, material, corporate",
+    "level": "TEM-8",
+    "target_word": "incarnate",
+    "question": "Rather than treating ecological degradation as an abstract statistical metric, the documentary depicted the starving polar bear as climate catastrophe ___, giving a poignant physical face to an otherwise imperceptible global crisis.",
+    "options": [
+      "incarnate",
+      "corporal",
+      "material",
+      "corporate"
+    ],
+    "answer": "incarnate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "空缺位于抽象名词短语 'climate catastrophe' 之后作后置定语，与后文的语义线索 'giving a poignant physical face to...'（赋予其具象而令人心碎的肉身/面孔）形成词源与认知隐喻上的严丝合缝；incarnate（词源为 in- + caro/carnis，化为血肉之躯）是英语中唯一能后置表示‘抽象概念的有形活体化身’的词项。",
+    "distractor_analysis": {
+      "incarnate": "正确。作形容词时，incarnate 最具辨识度的学术与文学用法正是后置于灾难、罪恶或自然伟力等抽象名词之后（如 catastrophe incarnate, doom incarnate），意为‘具有肉身/具体形态的活化身’。这与前文的 'abstract statistical metric'（抽象统计指标）形成鲜明反差，并与后文 'giving a poignant physical face'（赋予其具体可感的形态）构成完美对称。",
+      "corporal": "错误。corporal 仅指与人身、肉体相关的生理层面（如 corporal suffering），不仅在句法上不能充当此类抽象名词的后置表语性修饰语，在语义上也无法表达将抽象气候危机‘人格化/实体化’的含义。",
+      "material": "错误。material 表示‘物质构成的’或‘实质性的’。若将其置于 'catastrophe' 之后，在英语句法中属于严重搭配断裂；即使按复合名词误解为 'catastrophe material'，也仅能解作‘用于制造灾难的材料’，与全句关于气候危机具象化表达的逻辑完全相悖。",
+      "corporate": "错误。corporate 意为‘法人的、社团的、共同的’。置于此处既存在前置/后置的句法失配，更在自然生态与物种生存的语境中引入了风马牛不相及的商业与机构含义。"
+    },
+    "translation": "该纪录片并未将生态退化视作抽象的统计指标，而是将骨瘦如柴的北极熊描绘成气候灾难的化身，从而为一场原本难以察觉的全球危机赋予了令人心碎的具体形象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_15",
+    "group_id": 498,
+    "group_name": "inglorious, black, shameful, disgraceful",
+    "level": "TEM-8",
+    "target_word": "inglorious",
+    "question": "Having led a blameless life devoted to provincial scholarship, the philosopher passed his final years in ___ obscurity, neither tainted by ethical controversy nor elevated to the renown enjoyed by his celebrated contemporaries.",
+    "options": [
+      "inglorious",
+      "black",
+      "shameful",
+      "disgraceful"
+    ],
+    "answer": "inglorious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中设置了双向严密的语义约束支架：前半句的'blameless life'（无可指摘的一生）与后半句的'neither tainted by ethical controversy'（未受任何道德争议沾染）确立了绝对的道德清白，在逻辑上直接否定并彻底排除了具有道德谴责、丑闻及恶劣定性的选项（shameful、disgraceful、black）；而后半句的'nor elevated to the renown enjoyed by his celebrated contemporaries'（亦未获得其著名同侪所享有的声望）则精准锁定了否定前缀in-加glorious构成的本义——即专指'缺乏名望与光彩的、默默无闻的、平凡的'（lacking fame or honor; humble, obscure，如Thomas Gray名句'mute inglorious Milton'），并与obscurity构成经典文学与学术固定搭配（inglorious obscurity）。",
+    "distractor_analysis": {
+      "inglorious": "正确。inglorious在《韦氏词典》与《牛津英语词典》中的第一核心义项即为'not glorious; lacking fame or honor; humble, obscure'（不出名的，缺乏显赫声望的，平凡的）。句中明确交代哲学家一生清白（blameless），既无道德污点（neither tainted by ethical controversy），又未享有同侪那般显赫的名望（nor elevated to the renown...），因此与obscurity搭配时，inglorious完美契合这种'毫无光彩与名望、平淡湮没于世'的中性偏书卷气语境，为唯一合乎严密逻辑的选项。",
+      "black": "错误。black用于比喻义时表示'险恶的、极其邪恶的、罪大恶极的'（wicked, evil, sinister，如black deeds），或者指物理上的'漆黑一片'。句中已明确指出学者一生清白无瑕（blameless life），填入black无论在道德修辞还是修饰人生晚景的语境中均造成严重的语义冲突与语用不当。",
+      "shameful": "错误。shameful强调'带来羞耻的、可耻的、应受道德谴责的'（bringing or deserving shame, morally culpable）。然而句首与句尾分别以'blameless life'与'neither tainted by ethical controversy'明确排除了任何道德过错或令人羞耻的败德行为，若形容其默默无闻的晚年为shameful，属于前后自相矛盾的逻辑语病。",
+      "disgraceful": "错误。disgraceful指'极其恶劣且遭致公众唾弃谴责的、丢脸的、可耻的'（shockingly unacceptable, causing public opprobrium）。句中的学者只是安于地方学术、未得显赫世名，并未做出任何践踏规范或招致身败名裂的恶行；将这种清白而未得盛名的人生状态斥为disgraceful，严重背离了该词的词汇语义底线。"
+    },
+    "translation": "这位哲学家度过了专注于地方学术且无可指摘的一生，晚年在默默无闻中度过；他既未沾染任何道德争议，也未获得其著名同侪所享有的显赫声望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_16",
+    "group_id": 498,
+    "group_name": "inglorious, black, shameful, disgraceful",
+    "level": "TEM-8",
+    "target_word": "inglorious",
+    "question": "Rather than bowing out amidst the historical renown anticipated by his biographers, the philosopher executed a remarkably ___ retreat from public life, his stature undone by trivial squabbles that compromised dignity without involving moral turpitude.",
+    "options": [
+      "inglorious",
+      "black",
+      "shameful",
+      "disgraceful"
+    ],
+    "answer": "inglorious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首以'Rather than bowing out amidst... historical renown'（未能如传记作者所预期的那样伴随着崇高的历史声望谢幕）确立了'荣誉/声望缺失'的核心反衬轴，配合固定搭配'an inglorious retreat'（不光彩的退隐/退却）；句末'without involving moral turpitude'（未涉及道德沦丧/道德罪过）是关键排除锚点，彻底排除了蕴含严重道德谴责与丑闻意味的black、shameful和disgraceful。",
+    "distractor_analysis": {
+      "inglorious": "正确。inglorious retreat是高级英语和史学论著中的高度典雅搭配，其核心语意在于指涉某种结局未能达到应有的光荣或崇高境界，反倒以丧失尊严、狼狈难堪（ignominious）的方式退场。该词精准呼应了'historical renown'的落空与'compromised dignity'（尊严受损），且完全符合'未触及道德败坏'的语义限定。",
+      "black": "错误。black常用于形容灾难性的、恶毒阴暗或极度绝望的事物，在此不仅无法与学者的退出（retreat）构成自然搭配，而且与句中'trivial squabbles'（琐碎争执）这种轻微程度的行为描写严重冲突，存在语域与语义强度的严重割裂。",
+      "shameful": "错误。shameful指因违反道德准则、失德败行而应受羞辱或感到愧疚的行为（bringing moral shame）；而句尾已明确阐明争执'without involving moral turpitude'（不涉及道德败坏），填入shameful会与其形成直接语义对抗。",
+      "disgraceful": "错误。disgraceful主要指令人愤慨、声名扫地的恶劣丑行，常招致强烈的外部制裁与公愤；本句定性为学者之间有损体面（compromised dignity）的琐屑纠纷，未涉及突破底线的公德失范，使用disgraceful会导致语意过载与语境失真。"
+    },
+    "translation": "这位哲学家未能如传记作者所预期的那样伴随着崇高的历史声望体面谢幕，反倒在公众视野中上演了一场极为不光彩的退隐；他的学术声望毁于琐碎的争端，这些争吵损害了他的尊严，尽管它们并未涉及任何道德败坏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_17",
+    "group_id": 499,
+    "group_name": "innate, born, natural, intelligent",
+    "level": "TEM-8",
+    "target_word": "innate",
+    "question": "Unlike behaviors acquired through environmental conditioning, infant reflexes such as rooting and grasping represent ___ responses, namely genetically hardwired sensorimotor patterns that trigger automatically without any prior experiential learning.",
+    "options": [
+      "innate",
+      "born",
+      "natural",
+      "intelligent"
+    ],
+    "answer": "innate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Contrasted with 'behaviors acquired through environmental conditioning' and explicitly glossed by 'genetically hardwired sensorimotor patterns that trigger automatically without any prior experiential learning', the context strictly demands the biological/cognitive term 'innate responses'. Distractor 'born' is collocationally restricted to modifying persons; 'natural responses' refers to understandable or normal reactions rather than genetic hardwiring; and 'intelligent responses' contradicts the automatic, non-cognitive nature of primitive reflexes.",
+    "distractor_analysis": {
+      "innate": "正确。innate 表示“先天的、固有的、与生俱来的”。在发展心理学、行为神经科学与认知生物学中，“innate responses”（先天反应）是固定学术术语，专指由遗传基因直接硬编码、无需后天经验学习（without prior experiential learning）即可自动触发的反射机制，与句首通过环境调控习得的行为（behaviors acquired through environmental conditioning）构成严格的学术二元对立。",
+      "born": "错误。born 作定语形容词表示“天生的”时，在搭配语域上几乎严格局限于修饰指代“人”的名词，表示某人生来具备特定天赋或身份（如 a born leader, a born musician），绝不可修饰 responses、reflexes 等表示生理反应、动作模式或抽象神经机制的名词（不存在 *born responses 这一搭配）。",
+      "natural": "错误。natural 搭配 responses 时（natural responses），在语篇中通常作评价性或情态性修饰，意为“合情合理的反应、正常的反应”（如 Grief is a natural response to loss），强调符合常理常情或未受人工干预，而非生物学意义上“严格由基因编码、免除经验学习”的反射机制。后天习得的行为同样属于“自然（natural）”现象，故 natural 无法与 conditioning 形成排他性学术对立。",
+      "intelligent": "错误。intelligent 强调“有智力的、体现理解力或审慎推理的”。婴儿的寻乳与抓握反射属于低级中枢控制的非自主性原始反射，并未经历大脑皮层的高级认知推理，将其定性为“具智慧的反应（intelligent responses）”与句中“无需学习、自动触发（trigger automatically without learning）”产生严重的认知神经学逻辑冲突。"
+    },
+    "translation": "与通过环境调控习得的行为不同，婴儿的寻乳和抓握等反射代表了先天性反应，即无需任何先验经验学习即可自动触发的、由基因硬编码的感觉运动模式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_18",
+    "group_id": 499,
+    "group_name": "innate, born, natural, intelligent",
+    "level": "TEM-8",
+    "target_word": "innate",
+    "question": "Rejecting the empiricist doctrine of the mind as an uninscribed blank slate, Cartesian rationalists postulated that humans possess ___ ideas, whose validity and existence precede any sensory encounter with the physical world.",
+    "options": [
+      "innate",
+      "born",
+      "natural",
+      "intelligent"
+    ],
+    "answer": "innate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Anchored in Cartesian epistemology opposing the empiricist 'uninscribed blank slate' (tabula rasa), where the concept of pre-experiential knowledge is uniquely designated by the canonical philosophical collocation 'innate ideas'.",
+    "distractor_analysis": {
+      "innate": "正确。innate ideas（天赋观念）是认识论与认知哲学中的经典核心术语，指笛卡尔等唯理主义者主张的人类心智中先于一切感官经验（precede any sensory encounter）而存在的先天概念与范畴，与洛克经验主义的“白板说”（blank slate / tabula rasa）形成严格学术对立。",
+      "born": "错误。born 作为形容词表示“天生的”，其语法搭配对象为人或具体生命体（如 born musician），不能修饰抽象思想、观念或命题，*born ideas 属于严重的搭配语法破裂。",
+      "natural": "错误。natural ideas 仅指“自然的念头、顺理成章的想法”，属于普通日常英语表达，缺乏唯理主义认识论中“先验存在、不依赖感官输入”的技术性定义，无法构成与经验主义对立的专业哲学术语。",
+      "intelligent": "错误。intelligent ideas 意为“聪明的主意、明智的见解”，修饰的是想法的高明或理性程度，而句中争论的是观念的起源来源（究竟是先验固有的还是后天经验印刻的），使用 intelligent 属于范畴谬误（category mistake），彻底偏离了认识论论题。"
+    },
+    "translation": "笛卡尔学派唯理主义者否定了将心灵视为未着笔墨的白板的经验主义学说，假定人类拥有天赋观念，其有效性与存在先于对物理世界的任何感官接触。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_19",
+    "group_id": 500,
+    "group_name": "inordinate, undue, excessive, unreasonable",
+    "level": "TEM-8",
+    "target_word": "inordinate",
+    "question": "The appellate tribunal affirmed the dismissal of the antitrust suit for want of prosecution, holding that the regulator's seven-year hiatus constituted an ___ and inexcusable delay that severely prejudiced the defense.",
+    "options": [
+      "inordinate",
+      "undue",
+      "excessive",
+      "unreasonable"
+    ],
+    "answer": "inordinate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "The decisive anchor is the consecrated legal binomial term of art 'inordinate and inexcusable delay', which is the definitive common-law doctrine governing dismissal for want of prosecution (originating from the landmark House of Lords precedent Birkett v James [1978] and explicitly codified in both the Oxford Dictionary of Law and major lexicographical authorities like Collins COBUILD: 'The case was dismissed because of inordinate and inexcusable delay'). Substituting any of the other three distractors violates this codified legal collocation and ruptures the judicial standard of review.",
+    "distractor_analysis": {
+      "inordinate": "正确。inordinate（过度的、不成比例的）在此与 and inexcusable delay 构成普通法系及高级司法判例语域中极具标志性的固定法律双音术语（consecrated legal binomial term of art）——inordinate and inexcusable delay（详见《牛津法律词典》want of prosecution词条及《柯林斯高阶英汉双解词典》inordinate词条专选核心例句：“The case was dismissed because of inordinate and inexcusable delay”）。该表达源自英国上议院在 Birkett v James 确立的“因怠于起诉而驳回诉讼”（dismissal for want of prosecution）法定核心要件，专门用于界定监管方无正当理由且造成实质抗辩损害的严重程序延误，语体语域与法理搭配高度契合且具有唯一性。",
+      "undue": "错误。undue（不当的、过分的）在法律英语中具有特定的教义化管辖范围，常用于构成 undue influence（不当影响）、undue hardship（过重负担）或国际人权公约中的 without undue delay（无正当理由不得拖延），但普通法中绝不存在 *undue and inexcusable delay 这一法定双联表述。将其代入属于严重的法律术语混淆与搭配破裂。",
+      "excessive": "错误。excessive（过量的、过度的）主要侧重于客观物理量、使用强度或数额层面的超标（如 excessive force 过度武力、excessive bail 过巨保释金）。在程序法“因怠于起诉而驳回诉讼”的专门司法审查框架内，法律界严格限定使用法定术语 inordinate and inexcusable，替换为 excessive 会造成公认的搭配断裂（collocational rupture），破坏判例法严格的术语严谨性。",
+      "unreasonable": "错误。unreasonable（不合理的、非理性的）在公法与诉讼法中通常指向行政或理性人判断标准的缺失（如经典的 Wednesbury unreasonableness 韦恩斯伯里不合理性原则，或刑事宪法中的 unreasonable search and seizure）。司法裁判中明确将普通层面的“不合理拖延”（unreasonable delay）与足以导致诉讼直接被撤销的最高严重级别“不可原谅且异乎寻常的过度延误”（inordinate and inexcusable delay）区隔开来，在此代入既破坏术语定型，又混淆了法律审查标准的层级。"
+    },
+    "translation": "上诉法庭维持了因原告怠于起诉而驳回该反垄断诉讼的裁定，认定监管机构长达七年的停滞构成了不可原谅的严重延误，已对被告方的抗辩造成了实质损害。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b49_20",
+    "group_id": 500,
+    "group_name": "inordinate, undue, excessive, unreasonable",
+    "level": "TEM-8",
+    "target_word": "inordinate",
+    "question": "Under established common-law principles governing dismissal for want of prosecution, the appellate court affirmed the strike-out, ruling that the plaintiff’s prolonged dormancy constituted an ___ and inexcusable delay that severely prejudiced the defense.",
+    "options": [
+      "inordinate",
+      "undue",
+      "excessive",
+      "unreasonable"
+    ],
+    "answer": "inordinate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "The institutional legal anchor 'dismissal for want of prosecution' paired with '___ and inexcusable delay' strictly demands 'inordinate', forming the canonical, judicially established two-pronged legal standard of review ('inordinate and inexcusable delay' formulated in Birkett v James); substituting excessive, undue, or unreasonable results in a severe terminological and collocational rupture in formal jurisprudence.",
+    "distractor_analysis": {
+      "inordinate": "正确。inordinate 意为“极度的、毫无节制的、不成比例的”。在普通法诉讼程序（civil procedure）中，当法院审查是否“因疏于起诉而驳回案件”（dismissal for want of prosecution）时，所适用的经典司法准则（源自英国上诉法院 Allen v McAlpine 及上议院 Birkett v James 等里程碑判例）具有完全固化的法定两阶段审查表述（consecrated legal term of art / binomial doublet），即原告必须存在“inordinate and inexcusable delay”（漫长且不可原谅的拖延）。本句从司法管辖权前置定语到谓语结构，均精准锚定这一严密的普通法术语，唯有 inordinate 能够严丝合缝地嵌入该法理语境。",
+      "undue": "错误。undue 意为“不当的、过分的、未到期的”。在法学学术与实务语域中，undue 拥有自身独特的专有管辖领域，最典型的固定搭配为“undue influence”（合同法与继承法中的不当影响）以及在人权法与宪政条款中表达权利保障的否定结构“without undue delay”（无正当理由不得拖延）。然而，在因原告长期怠惰诉讼（dormancy）而剥夺其诉权的消极审查测试中，普通法判例从未将其表述为“undue and inexcusable delay”，代入此处会造成法学概念的混淆与搭配破裂。",
+      "excessive": "错误。excessive 意为“过度的、过分的”，侧重于数量、程度或尺度超出必要界限。虽然在日常非专门语境中可作泛化修饰，且在公法与刑法中修饰特定法定对象（如 excessive force 过度武力、excessive bail 过重保释金、excessive damages 畸高赔偿金），但在民商事程序法驳回诉讼的标准法理审查测试中，司法界严格将原告旷日持久的违规拖延界定为“inordinate and inexcusable delay”。若在此处选用 excessive，在英美法权威学术与裁判语域中属于破坏既定判例法术语的严重搭配断裂（severe collocational rupture）。",
+      "unreasonable": "错误。unreasonable 意为“不合理的、违背理性的”。在公法与行政法（administrative law）中，司法审查行政机关履职拖延时常使用“unreasonable delay”（如美国《联邦行政程序法》第706条）；但在程序法传统中针对原告滥用诉讼程序、怠于推进案情的“want of prosecution”法理测试中，具有特定法律效力的法定并列偶合词（hendiadys/binomial）是且仅是“inordinate and inexcusable delay”，代入 unreasonable 破坏了既定法学表述的专业性与准确性。"
+    },
+    "translation": "根据因疏于起诉而驳回诉讼的既定普通法原则，上诉法院维持了驳回起诉的裁定，认定原告长期的诉讼怠惰构成了漫长且不可抗辩的拖延，严重损害了被告的合法抗辩利益。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

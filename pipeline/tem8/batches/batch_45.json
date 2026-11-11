@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b45_01",
+    "group_id": 451,
+    "group_name": "impressionable, susceptible, easy, plastic",
+    "level": "TEM-8",
+    "target_word": "impressionable",
+    "question": "Because adolescence represents a uniquely ___ age, media literacy programs are vital to prevent commercial algorithms from indelibly imprinting consumerist dogma upon minds that have not yet developed critical skepticism.",
+    "options": [
+      "impressionable",
+      "susceptible",
+      "easy",
+      "plastic"
+    ],
+    "answer": "impressionable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心锚点在于高度专化的固定名形搭配“an ___ age”（极易受外界影响的年龄段/心智塑形期），以及后文“imprinting ... upon minds”所构成的词源与语义隐喻呼应（imprint 与 impressionable 均源自拉丁语 premere，指外界刺激在未成形心智上留下印记）。",
+    "distractor_analysis": {
+      "impressionable": "【正确】意为“易受影响的、缺乏主见且极具可塑性的”，韦氏词典明确界定其专指青少年或发育阶段容易吸收所见所闻（“often characteristic of the young: the impressionable years of childhood”）。在学术语体中，“an impressionable age”为高度凝固的搭配，完美呼应后文未成熟心智易被算法教条印刻（imprinting）的语境。",
+      "susceptible": "【排除】意为“易受感染的、易受伤害的、易动感情的”，侧重指生理、病理或心理对某种特定负面力量的脆弱性，句法上极度依赖后置介词短语（如 susceptible to...）；若直接前置修饰 age（a susceptible age），属于非地道搭配，无法准确传递“价值观与道德观极易受外界环境模塑”的发育认知学意涵。",
+      "easy": "【排除】用于修饰 age 时意为“安逸的、无忧无虑的岁月”（an easy age），属于通俗日常语体，不仅在学术语域上产生断层，更与全句批判商业算法操纵未成年人心智的严肃语境产生严重的语义逻辑冲突。",
+      "plastic": "【排除】在神经生物学或认知科学中，plastic 专指物质结构或神经生理机能的物理/适应性“可塑性”（如 plastic brain, neural plasticity），不能直接修饰人生阶段 age 来表示个体思想道德层面的容易盲从或易受诱导。"
+    },
+    "translation": "因为青春期是一个极易受外界影响的年龄段，所以媒介素养课程至关重要，以防止商业算法在批判性怀疑精神尚未成熟的心灵中不可磨灭地烙下消费主义教条。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_02",
+    "group_id": 451,
+    "group_name": "impressionable, susceptible, easy, plastic",
+    "level": "TEM-8",
+    "target_word": "susceptible",
+    "question": "Recent neurocognitive experiments demonstrate that human episodic memory is remarkably ___ to retrospective distortion, as subjective recollections are unconsciously revised whenever post-event misinformation is introduced.",
+    "options": [
+      "impressionable",
+      "susceptible",
+      "easy",
+      "plastic"
+    ],
+    "answer": "susceptible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心锚点为句法构式“be remarkably ___ to retrospective distortion”（极易遭受追溯性失真）。主语为抽象认知机能“episodic memory”（情景记忆），后接介词短语“to + 抽象名词”，在语义上要求表示系统对外界干扰、病理或偏误具有“易受影响性/易损性”。",
+    "distractor_analysis": {
+      "susceptible": "【正确】意为“易受……影响的、易遭受……损害或歪曲的”，标准搭配为“be susceptible to + n.”。韦氏词典强调其用于表明极度敏感脆弱、易受外力破坏或诱惑的状态，完美契合认知心理学中记忆系统面对后续误导信息时的易损性（vulnerability）。",
+      "impressionable": "【排除】通常指整个人或青少年心智整体在成长中容易被环境教化或观念塑造，其主语必须为有感知力的主体（如 impressionable children），不可用于“episodic memory”等细分的认知机能模块，且不能接“to retrospective distortion”这类抽象偏误名词。",
+      "easy": "【排除】存在致命的句法冲突。easy 若要表达“容易受到……”，其后必须接不定式结构（如 easy to distort），绝不能接“to + 抽象名词”（*easy to retrospective distortion 属于严重句法错误）。",
+      "plastic": "【排除】虽然脑科学强调记忆具备可塑性（neuroplasticity），但形容词 plastic 侧重结构根据经验重组的主动适应能力，而非对有害干扰或扭曲的消极易损性；同时 plastic 无法与“to retrospective distortion”形成表示“容易遭受……失真”的合逻辑搭配。"
+    },
+    "translation": "近年来的神经认知实验表明，人类的情景记忆极易受到追溯性失真的影响，因为一旦引入事后误导信息，主观回忆便会在不知不觉中被篡改。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_03",
+    "group_id": 452,
+    "group_name": "inbuilt, intrinsic, inherent, integral",
+    "level": "TEM-8",
+    "target_word": "inbuilt",
+    "question": "Rather than acquiring orientation techniques through social learning, monarch butterflies rely on an ___ biological compass, an evolutionary mechanism hardwired into their neural circuitry that guides them thousands of miles south.",
+    "options": [
+      "inbuilt",
+      "intrinsic",
+      "inherent",
+      "integral"
+    ],
+    "answer": "inbuilt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "后文的同位语解释 'an evolutionary mechanism hardwired into their neural circuitry'（硬编码于其神经回路中的演化机制）构成了决定性锚点。inbuilt 专指物理、解剖或系统架构中‘出厂自带、内嵌固定、预设硬编码的’结构或功能机制（如 inbuilt compass/safeguard）；而 intrinsic、inherent 均侧重抽象本质或内在属性，无法修饰具体的具象功能装置（compass）；integral 则强调作为整体不可分割的组成部分，语法通常需借助 integral part of 呈现，置于此处语义断裂。",
+    "distractor_analysis": {
+      "inbuilt": "【正确】意为‘嵌入的、内置的、天生硬编码的’（built-in, forming a permanent structural or functional feature）。句中与 compass 搭配构成生物学与自然科普文献中的经典固定概念 'inbuilt biological compass'（体内内置的生物罗盘），精准呼应后文的 'hardwired into their neural circuitry'，完美符合语境。",
+      "intrinsic": "【错误】意为‘固有的、本质的、内在的’（belonging naturally; essential），常用于修饰抽象性质、内在属性或价值（如 intrinsic value, intrinsic property），强调不受外在因素影响的本质特征，不能用来修饰像 compass（罗盘/导航系统）这类具有功能装置喻义的结构。",
+      "inherent": "【错误】意为‘内在于……的、固有的’（existing in something as a permanent, essential attribute），语域上多修饰潜在倾向、抽象缺陷、风险或不可剥夺的品质（如 inherent flaw, inherent danger, inherent limitation），修饰生物机能或导航器具属于范畴错配（category mistake）。",
+      "integral": "【错误】意为‘构成整体所必需的、不可或缺的’（necessary to make a whole complete），在高级英语中多以 'an integral part/component of' 或作表语跟介词 'integral to' 的结构出现；直接修饰 biological compass 时，会产生‘完整的罗盘’或‘积分的罗盘’之歧义，完全脱离‘先天演化赋予的硬编码机制’这一核心语境。"
+    },
+    "translation": "黑脉金斑蝶并非通过社会学习获得定向技巧，而是依赖于一种内置的生物罗盘——这是一种硬编码在其神经回路中的演化机制，指引着它们向南飞行数千英里。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_04",
+    "group_id": 452,
+    "group_name": "inbuilt, intrinsic, inherent, integral",
+    "level": "TEM-8",
+    "target_word": "intrinsic",
+    "question": "In population ecology, a species' ___ rate of natural increase reflects its maximum biotic potential under optimal conditions, entirely unconstrained by extrinsic environmental pressures such as food limitation, predation, or contagious disease.",
+    "options": [
+      "inbuilt",
+      "intrinsic",
+      "inherent",
+      "integral"
+    ],
+    "answer": "intrinsic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中后半部分的 'entirely unconstrained by extrinsic environmental pressures' 提供了无可辩驳的反义对仗锚点。在学术英语及种群生态学中，与 'extrinsic'（外在的、非本质的）形成严格对立二元关系的唯有 'intrinsic'（内在的、内禀的）；同时，'intrinsic rate of natural increase'（内禀自然增长率，即 r 参量）是生态学不可替换的专有名词，其他三项均无法与 extrinsic 形成语源学与概念上的直接对称，且存在严重术语搭配破裂。",
+    "distractor_analysis": {
+      "intrinsic": "【正确】意为‘内禀的、内在的’（originating and included wholly within an organ or organism; essential）。在种群生态学与自然科学中，'intrinsic rate of natural increase' 是公认的专业定名，且与后文的 'extrinsic environmental pressures' 构成精准的 intrinsic/extrinsic（内在/外在）对仗，语法与学术风格完全契合。",
+      "inbuilt": "【错误】意为‘内置的、硬编码的’，侧重于系统或组织实体的构造机制（structural/mechanical design），不能与表示数学统计或种群动态的抽象比率（rate）搭配，更无法与 extrinsic 形成反义词对。",
+      "inherent": "【错误】意为‘固有的、生来具有的’，虽然具有‘内在’的笼统含义，但它既非生态学该术语的规范用词（生态学中无 inherent rate of increase 的规范概念），也缺乏与 extrinsic 构成哲学与科学严格对称的词汇学属性（inherent 的反义词一般为 non-inherent 或 accidental）。",
+      "integral": "【错误】意为‘完整的、构成整体所必需的’或‘整数的’。置于此处修饰 rate，若理解为数学含义则为‘整数增长率’（严重扭曲原意），若理解为一般含义则语义不通（‘构成整体所必需的增长率’属于逻辑断裂）。"
+    },
+    "translation": "在种群生态学中，一个物种的内禀自然增长率反映了其在最适条件下的最大生物潜能，完全不受食物匮乏、捕食或传染病等外在环境压力的约束。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_05",
+    "group_id": 453,
+    "group_name": "incessant, unremitting, constant, perpetual",
+    "level": "TEM-8",
+    "target_word": "incessant",
+    "question": "Although the acoustic pulses fluctuated irregularly in frequency and occasionally slackened in intensity, their ___ emission—persisting throughout the five-hour experiment without a single pause—severely depleted the participants' attentional capacity.",
+    "options": [
+      "incessant",
+      "unremitting",
+      "constant",
+      "perpetual"
+    ],
+    "answer": "incessant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_PSYCHOLOGY",
+    "anchor_clue": "persisting throughout the five-hour experiment without a single pause（贯穿五小时实验且未曾出现一次停顿）+ 前置让步从句对频率波动与强度减弱的双重界定：incessant词源为in-（否定）+ cessare（停止），专指过程或动作在时间维度上“无休无止、毫无间断”（continuing without interruption/pause），常伴随致人疲惫厌烦的负面效应；让步从句中“fluctuated irregularly”直接排除了要求均一恒定的constant，“slackened in intensity”排除了要求强度绝不衰减的unremitting，而“five-hour experiment”则在时间跨度上排除了表示永恒或无限期延续的perpetual。",
+    "distractor_analysis": {
+      "incessant": "正确。incessant在学术与心理物理学语境中准确描述刺激或事件“持续发生、未曾间断”（continuing or following without interruption or pause），即便其具体频率或强度有起伏，只要未曾休止即可成立；插入语“without a single pause”形成绝对的语义锚定，且后文“severely depleted the participants' attentional capacity”高度契合该词常含的侵扰性与致倦性特征。",
+      "unremitting": "错误。unremitting派生自remit（减弱、松解），核心义为“强度、严酷度或力量从未减退或缓和”（never slackening, abating, or yielding in intensity）。让步从句已明确指出脉冲“occasionally slackened in intensity”（在强度上偶有减弱），与unremitting产生无法调和的语义逻辑矛盾。",
+      "constant": "错误。在实验科学与学术英语中，constant侧重于“状态、数值或速率恒定不变、均一无波动”（uniform, invariable, not changing in degree or state）。句中已明确指出脉冲在频率上“fluctuated irregularly”（不规则波动），直接颠覆了constant所必需的恒定性与均一性特征。",
+      "perpetual": "错误。perpetual强调在宏观时间维度上的“永久存在、永恒或无限期持续”（continuing forever, everlasting, or indefinitely prolonged）。将其用于修饰仅持续五小时的封闭实验室测试（“throughout the five-hour experiment”），属于严重的范畴错配（category error）与非学术性夸张修辞。"
+    },
+    "translation": "尽管这些声音脉冲在频率上呈现不规则波动且在强度上偶有减弱，但其无休止的持续发射——在长达五小时的实验中未曾出现一次停顿——严重损耗了受试者的注意容量。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_06",
+    "group_id": 453,
+    "group_name": "incessant, unremitting, constant, perpetual",
+    "level": "TEM-8",
+    "target_word": "unremitting",
+    "question": "Despite immense lobbying from defense contractors, the chief inspector remained ___ in her scrutiny of the procurement records, refusing to overlook even minor accounting irregularities throughout the protracted investigation.",
+    "options": [
+      "incessant",
+      "unremitting",
+      "constant",
+      "perpetual"
+    ],
+    "answer": "unremitting",
+    "primary_mechanism": "MECH_COLLIGATION",
+    "field": "FIELD_LAW_AND_GOVERNANCE",
+    "anchor_clue": "remained ___ in her scrutiny + refusing to overlook even minor accounting irregularities：句法上，《牛津英语词典》（OED）明确标明unremitting以人为主语表示‘毫不松懈、不折不挠’时强搭配介词in（const. in），而incessant和perpetual绝不能接人作主语并搭配‘in + 努力/审查’；语义上，《韦氏词典》将unremitting精准定义为‘characterized by a failure to slacken in severity, rigor, or intensity’，与后文拒绝妥协放过的严苛态度形成独占性闭环。",
+    "distractor_analysis": {
+      "unremitting": "正确。unremitting源自remit（松懈、减退），韦氏权威释义为‘characterized by a failure to slacken in severity, rigor, or intensity’（在严厉度、严谨度或强度上绝不减退或松懈）。在句法层面上，OED明确指出该词修饰人或机构的行动时具备‘const. in’的固定介词补足语特征（如unremitting in one's efforts/scrutiny）。在此处完美契合调查官面对游说压力‘在严查中绝不松懈’的语境。",
+      "incessant": "错误。句法与语义双重不符。incessant侧重于‘高频率、机械性且常令人厌烦的反复出现’（如incessant noise/demands），主要作定语修饰具象的声音、天气或动作，或作表语修饰事件本身；它在现代英语中不可接人为主语构成‘be/remain incessant in doing/noun’这一句式结构，属于严重的句法配置违规。",
+      "constant": "错误。语义重心偏离。constant与介词in连用（如constant in loyalty/affection）主要表示品质或情感上的‘坚贞不渝、忠实恒定’；而题干明确要求表达一种‘不妥协、不松懈的严苛执行力与审查烈度’（refusing to overlook irregularities），选用侧重于‘不变、稳定’的constant无法承载对抗外部阻力所需的进攻性严厉意涵。",
+      "perpetual": "错误。句法违规且时间逻辑矛盾。perpetual意为‘永恒的、终身的、永久持续的’（如perpetual motion/debt），不仅不能用于‘remain perpetual in’来形容人在特定职责中的严谨作风，而且其‘无限期/永世’的时间跨度与从句明确限定的时空范围（throughout the protracted investigation，在这一旷日持久的调查期间）直接相抵触。"
+    },
+    "translation": "尽管面临来自国防承包商的巨大游说压力，首席审计官对采购记录的审查依然毫不松懈，在整个旷日持久的调查过程中拒绝放过哪怕是微小的财务违规行为。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_07",
+    "group_id": 454,
+    "group_name": "infirm, rickety, weak, frail",
+    "level": "TEM-8",
+    "target_word": "infirm",
+    "question": "Confronted by intense institutional pushback, the dean proved disastrously ___ of purpose, vacillating between contradictory cognitive methodologies and ultimately compromising the integrity of the university's curriculum reform.",
+    "options": [
+      "infirm",
+      "rickety",
+      "weak",
+      "frail"
+    ],
+    "answer": "infirm",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The postpositive predicative structure 'proved disastrously ___ of purpose' directly coordinates with the participial clause 'vacillating between contradictory cognitive methodologies'. The lexicalized syntagm 'infirm of purpose' is an established formal idiom designating an irresolute will or vacillating mental state. Distractors 'weak', 'frail', and 'rickety' do not license this adjectival complementation (*weak of purpose is unidiomatic; *frail of purpose and *rickety of purpose are severe syntactical violations).",
+    "distractor_analysis": {
+      "infirm": "正确。infirm of purpose 为正式高阶英语中的经典固定搭配，专指“意志动摇、优柔寡断、缺乏决断力”。句中“proved disastrously ___ of purpose”与后文“vacillating between contradictory cognitive methodologies”（在相互矛盾的认知方法论之间摇摆不定）形成严密的句法呼应与认知语义闭环。",
+      "rickety": "错误。rickety 专指物理机械结构松散、接榫不稳、摇摇晃晃或濒临坍塌（如 rickety chair, rickety framework），无法用于修饰人的心智决断或内在意志，更不能与“of purpose”搭配（*rickety of purpose 属严重语义语法错误）。",
+      "weak": "错误。weak 虽可泛指能力或意志薄弱（如 weak-willed），但在正式学术和文学语体中不与“of purpose”构成后置固定搭配（*weak of purpose 不符合惯用法），无法替代具备特定修辞与语体地位的成语性搭配 infirm of purpose。",
+      "frail": "错误。frail 侧重指体质虚弱、生理机能衰退或事物脆弱易碎（如 frail health, frail human nature），同样无法后接介词短语“of purpose”表示意志上的动摇与犹豫不决（*frail of purpose 属严重搭配不当）。"
+    },
+    "translation": "面对来自机构内部的强烈阻力，院长暴露出灾难性的优柔寡断，在相互矛盾的认知方法论之间摇摆不定，最终损害了大学课程改革的完整性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_08",
+    "group_id": 454,
+    "group_name": "infirm, rickety, weak, frail",
+    "level": "TEM-8",
+    "target_word": "rickety",
+    "question": "Rather than offering a robust cognitive model, the theorist constructed a ___ edifice of speculative hypotheses, which wobbled precariously and threatened imminent collapse whenever subjected to rigorous empirical verification.",
+    "options": [
+      "infirm",
+      "rickety",
+      "weak",
+      "frail"
+    ],
+    "answer": "rickety",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the kinetic and architectural contrast between 'a robust cognitive model' and 'a ___ edifice of speculative hypotheses, which wobbled precariously and threatened imminent collapse'. 'Rickety' precisely denotes a complex structure that is shaky, poorly jointed, and tottering under stress. Distractors fail completely: 'infirm' cannot modify inanimate structural edifices (category violation); 'frail' denotes delicate, easily shattered substance rather than wobbly jointed construction; 'weak' lacks the dynamic physical sememe of mechanical unsteadiness demanded by 'wobbled' and 'collapse'.",
+    "distractor_analysis": {
+      "rickety": "正确。rickety 专指结构、体系接合不牢、摇晃不稳、濒临坍塌的（shaky, tottering, poorly jointed）。此处修饰“edifice of speculative hypotheses”（由推测性假设构建的大厦），与前文“robust”（坚固强韧的）构成鲜明反义对比，且与后文“wobbled precariously and threatened imminent collapse”（危险地晃荡摇晃并面临即刻坍塌）在力学隐喻上完美契合。",
+      "infirm": "错误。infirm 专用于人因老病导致的身体机能衰退，或形容心智意志动摇（如 infirm of purpose），用来修饰抽象的建筑隐喻或理论建构（*infirm edifice）属于范畴错配（category error）与搭配破裂。",
+      "weak": "错误。weak 虽可泛指观点或理论弱小、缺乏说服力，但在本句由“robust edifice”、“wobbled”（晃荡摇晃）和“imminent collapse”（即刻崩塌）所构成的严密机械力学隐喻网络中，weak 属于语义泛化词，无法承载“接榫不牢、晃荡欲坠”的特定动态义位，造成文体降格与隐喻撕裂。",
+      "frail": "错误。frail 强调质地薄脆、娇嫩、易被外力打碎（fragile, delicate，如 frail porcelain），而“edifice”指庞大复杂的宏伟建构，用 frail 修饰大厦不仅违背固定搭配，且无法合理解释后文“wobbled”（整体晃荡摇晃）的机械结构特征。"
+    },
+    "translation": "该理论家并未提供一个坚实稳固的认知模型，而是构筑了一个由推测性假设搭建的摇摇欲坠的庞大体系，一旦经受严格的实证检验，便剧烈晃荡并面临即刻崩塌的危险。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_09",
+    "group_id": 455,
+    "group_name": "lax, floppy, limp, loose",
+    "level": "TEM-8",
+    "target_word": "lax",
+    "question": "Because the peer review panel had grown remarkably ___ in enforcing methodological rigor, flawed psychometric models proliferated across the cognitive science department, ultimately compromising the empirical validity of several high-profile behavioral studies.",
+    "options": [
+      "lax",
+      "floppy",
+      "limp",
+      "loose"
+    ],
+    "answer": "lax",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic frame 'grown remarkably ___ in enforcing methodological rigor' demands an evaluative adjective denoting institutional/disciplinary negligence, selecting the specific complementation pattern 'lax in doing sth'.",
+    "distractor_analysis": {
+      "lax": "正确。表“疏忽的、不严格的、纪律废弛的”（deficient in firmness, care, or control），精准契合学术科研把关中疏于履职、放任违规的语义，且完美符合其固定句法搭配 'lax in (doing) something'。",
+      "floppy": "错误。表“松软的、下垂的、易晃荡的”，纯属物理柔韧形态描述（如 floppy hat），既不能指代审查人员的履职态度，更无法接接 'in enforcing' 结构，产生严重的语义与语法冲突。",
+      "limp": "错误。主要表物理形态上的“无力的、疲塌的、枯萎的”（如 limp handshake, limp leaves）或转义指文字风格“毫无生气的”，不具备制度或程序把关层面的过失含义，且完全不存在 '*limp in enforcing' 这一搭配用法。",
+      "loose": "错误。虽可用于抽象认知范畴表示“不精确的、宽松的”（如 loose reasoning），但属于单纯的状态或界定描述，缺乏 lax 包含的“失职与过失松懈”之贬义色彩；且 loose 在句法上不能与 'in + V-ing' 连用构成表失职的谓语补足语（'*loose in enforcing' 为严重搭配语病）。"
+    },
+    "translation": "由于同行评审专家组在把关方法论严谨性方面变得异常松懈，有缺陷的心理测量模型在认知科学系迅速滋生，最终损害了数项备受瞩目的行为研究的经验有效性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_10",
+    "group_id": 455,
+    "group_name": "lax, floppy, limp, loose",
+    "level": "TEM-8",
+    "target_word": "floppy",
+    "question": "In Belyaev’s landmark silver fox experiments on the evolution of social cognition, selective breeding for tameness unexpectedly generated juvenile morphological traits, including spotted coats and characteristically ___ ears that failed to stand erect.",
+    "options": [
+      "lax",
+      "floppy",
+      "limp",
+      "loose"
+    ],
+    "answer": "floppy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'characteristically ___ ears that failed to stand erect' in evolutionary biology/cognition context specifies the anatomical trait of hanging/folding down flexibly, matching Merriam-Webster's primary collocation 'floppy ears'.",
+    "distractor_analysis": {
+      "floppy": "正确。意为“耷拉下垂的、松软柔韧的、易摆动的”（tending to flop; soft and flexible），《韦氏词典》的核心例证即为 'floppy ears'。在演化认知与动物驯化经典研究（别利亚耶夫银狐实验）中，'floppy ears'（耷拉的软耳）是驯化综合征特有的幼态外貌特征，与后文 'failed to stand erect'（无法直立）形成绝对应照。",
+      "lax": "错误。侧重指抽象的“松弛、涣散”或生理机制上的平滑肌/韧带松弛（如 lax muscles），不能用来描摹耳朵这一动物器官具有弹性的外在下垂形态，'*lax ears' 属严重生造搭配。",
+      "limp": "错误。强调因缺乏生机、水分、充盈度或能量而导致的“虚弱、枯萎、软瘫”（如 a limp body, limp lettuce），带有病态或衰竭意味，不能用于指代驯化犬科动物天然健康、富有弹性的外翻下垂软耳。",
+      "loose": "错误。主要表“未固定的、松动的、未绑紧的”，若置于此处修饰 ears，会荒谬地表达为“狐狸的耳朵脱落松动、未在头骨上长牢”，彻底违背解剖学常识与语境。"
+    },
+    "translation": "在别利亚耶夫关于社会认知演化的里程碑式银狐实验中，针对温顺行为的选择性繁育意外催生了幼态形态特征，包括花斑皮毛和无法竖立的标志性下垂软耳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_11",
+    "group_id": 456,
+    "group_name": "luscious, yummy, tasty, delicious",
+    "level": "TEM-8",
+    "target_word": "luscious",
+    "question": "The monograph praises the novelist’s ___ prose, arguing that its rich sensory cadences and luxuriant descriptions of Mediterranean landscapes deliberately subvert the ascetic austerity of modernist fiction.",
+    "options": [
+      "luscious",
+      "yummy",
+      "tasty",
+      "delicious"
+    ],
+    "answer": "luscious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The head noun 'prose' combined with 'rich sensory cadences', 'luxuriant descriptions', and the explicit semantic antonymy with 'ascetic austerity' demands an aesthetic descriptor denoting opulent, voluptuous, and sensory richness. In Merriam-Webster and academic literary criticism, 'luscious prose' is an established, prestigious collocation.",
+    "distractor_analysis": {
+      "luscious": "正确。Merriam-Webster将luscious定义为“richly luxurious or appealing”，明确收录“luscious prose”作为标准权威范式。句中“rich sensory cadences”（浓郁的感官节奏）、“luxuriant descriptions”（繁茂奢华的描写）以及与“ascetic austerity”（禁欲式的冷峻质朴）形成的鲜明对照，决定性地锁定了luscious在高级文学审美语域中表“词藻丰美、感官意象浓郁”的专有引申义。",
+      "yummy": "错误。yummy属于高度口语化乃至儿童化语域（informal/childish register），用于学术专著中修饰文学文风（prose）会产生灾难性的语体冲突（stylistic clash），完全不符合TEM-8学术论述规范。",
+      "tasty": "错误。tasty严格局限于味觉维度，强调食物可口或具有开胃风味（savory/appetizing），若用来修饰抽象的文字风格（prose）构成严重的语义范畴错配与搭配断裂（collocational rupture）。",
+      "delicious": "错误。delicious修饰非食物时通常指“带来强烈愉悦或微妙趣味的”（如delicious irony, delicious wit），侧重机智、反讽或恶作剧式的快感，无法表达文字在感官质感上的“奢华浓厚、繁缛优美”，无法与后文的luxuriant形成语意协同，亦无法与ascetic构成严密的审美对立。"
+    },
+    "translation": "该专著盛赞了这位小说家华美浓郁的散文文风，认为其丰富的感官节奏以及对地中海风光的繁复绚烂描摹，刻意颠覆了现代主义小说那种苦行式的冷峻质朴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_12",
+    "group_id": 456,
+    "group_name": "luscious, yummy, tasty, delicious",
+    "level": "TEM-8",
+    "target_word": "yummy",
+    "question": "Analyzing how neoliberal consumerism redefines motherhood, sociologists observe that the ubiquitous media trope of the '___ mummy' commodifies maternal identity, transforming it into an aesthetic of effortless glamour, youthful allure, and conspicuous leisure.",
+    "options": [
+      "luscious",
+      "yummy",
+      "tasty",
+      "delicious"
+    ],
+    "answer": "yummy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The sociological noun phrase '___ mummy' is a certified, lexicalized cultural archetype (defined in Merriam-Webster and the OED as an attractive, stylish young mother). The other three sensory adjectives cannot form this established sociocultural term.",
+    "distractor_analysis": {
+      "yummy": "正确。yummy本义为感官上的美味诱人，但在当代社会学与文化批评研究中，已词汇化为专有文化原型“yummy mummy”（辣妈/光鲜富态的年轻母亲，指代大众媒体塑造出的兼具时尚容貌、产后身材管理与中产消费特权的母亲刻板印象）。在此学术认知语境中构成唯一合法的习用搭配。",
+      "luscious": "错误。luscious虽可形容女性身体“丰满性感、风情万种”（voluptuous），但在当代社会学与大众媒体中并不存在“luscious mummy”这一专有学术概念或文化原型，属于臆造搭配。",
+      "tasty": "错误。tasty在英式俚语中虽偶可戏谑指人“有性吸引力的”，但绝对不能与mummy组合；若置于该语境中极易产生怪诞、粗俗甚至食人主义式的荒谬歧义。",
+      "delicious": "错误。delicious表示味觉绝佳或极其宜人，英语中完全没有“delicious mummy”的表述，在文化社会学语境下属于不可接受的严重搭配错误。"
+    },
+    "translation": "社会学家在剖析新自由主义消费主义如何重塑母职时指出，媒体中无处不在的“辣妈”（yummy mummy）文化原型将母亲身份商品化，使其沦为一种对毫不费力的光鲜、年轻魅力与显性闲暇的审美追求。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_13",
+    "group_id": 457,
+    "group_name": "manful, virile, male, masculine",
+    "level": "TEM-8",
+    "target_word": "manful",
+    "question": "Despite confronting insurmountable systemic deficits, the negotiator made a ___ effort to reconcile the fractured coalition, facing hostile criticism with stoic resolve before the summit finally collapsed.",
+    "options": [
+      "manful",
+      "virile",
+      "male",
+      "masculine"
+    ],
+    "answer": "manful",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocation with 'effort' and semantic framing of facing inevitable adversity with stoic resolve ('insurmountable systemic deficits... stoic resolve before the summit finally collapsed'). 'Manful effort' is a well-established idiom denoting courageous, determined, and resolute striving against formidable odds.",
+    "distractor_analysis": {
+      "manful": "正确。manful强调在重压、逆境或注定失败的局面下所展现出的‘坚毅果敢、顽强不屈’的气魄，常与effort, struggle, resistance等词构成固定搭配。句中面对‘无法克服的系统性赤字’和‘最终破裂的峰会’，‘manful effort’精确契合不屈不挠的悲壮与坚守。",
+      "virile": "错误。virile侧重强健的体魄、生殖机能的旺盛或蓬勃充沛的活力（如virile leadership, virile prose），而非指在逆境中抵抗压力的道德勇气与坚毅奋斗，修饰effort不符合语境语义。",
+      "male": "错误。male属于严格的生物学性别分类词（如male specimen, male patient），纯属客观分类范畴，无法用于修饰抽象行为或带有道德赞赏色彩的努力，属于严重的范畴错配（category mistake）。",
+      "masculine": "错误。masculine侧重于文化与社会性别层面传统上赋予男性的特征、外表或气质（常与feminine相对，如masculine traits, masculine voice），并无在困境中顽强奋战的内在精神含义，与effort搭配极度生硬且脱离语境。"
+    },
+    "translation": "尽管面临着无法克服的系统性赤字，谈判代表仍作出了顽强坚毅的努力以弥合分裂的联盟，在峰会最终破裂前以沉着坚忍的态度直面敌对批评。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_14",
+    "group_id": 457,
+    "group_name": "manful, virile, male, masculine",
+    "level": "TEM-8",
+    "target_word": "virile",
+    "question": "Desperate to secure dynastic succession and dispel courtiers' whispered allegations of royal senescence, the aging monarch insisted that he remained physically ___ enough to sire a legitimate heir and stabilize the realm.",
+    "options": [
+      "manful",
+      "virile",
+      "male",
+      "masculine"
+    ],
+    "answer": "virile",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_POLITICS_GOVERNANCE",
+    "anchor_clue": "Direct semantic and collocational requirement of procreative potency ('enough to sire a legitimate heir') contrasted with physical and reproductive decline ('royal senescence'). 'Virile' uniquely carries the distinct lexicographical meaning of possessing procreative capacity and generative vigor, which decisively excludes the other three options.",
+    "distractor_analysis": {
+      "virile": "正确。virile在此处取其在词源与《韦氏词典》中的核心专属义项：“具备繁育后代的能力与生理机能”（having the capacity to beget offspring; procreative potency），并引申为成年男性的充沛体魄与生殖活力。句中“sire a legitimate heir”（诞育合法继承人）与前文的“senescence”（衰老退化）构成决定性排他锚点，唯有virile能够严丝合缝地表达“生理上具备繁育子嗣的机能”。",
+      "manful": "错误。manful专指面对险阻、苦难或重压时展现出的“英勇坚毅、果敢担当”（resolute, brave in the face of adversity，如a manful effort），侧重道德意志与精神品格，完全不具备生物学生殖机能或生育活力的含义，与“sire an heir”搭配属于严重的语义范畴错配。",
+      "male": "错误。male是纯粹的生物学性别二元分类词（biological sex），属于非等级形容词（ungradable）。在句法上，不能与程度副词“physically ___ enough”连用（不存在“足够雄性/足够男性化到能繁衍”的等级逻辑）；在语义上，它只区分雌雄，不能表示生殖机能的强弱或有效性。",
+      "masculine": "错误。masculine属于社会性别与文化特征范畴（gender presentation），侧重外貌、举止、音容笑貌符合男性的典型特质（与feminine相对）。具备外在的“男子气概”（masculine）绝不等同于生理上拥有繁衍能力（一个人外表再阳刚亦可能患有不育症），因此无法与后文“sire an heir”构成逻辑必然的生殖机能闭环。"
+    },
+    "translation": "为了确保王朝世系的延续并破除朝臣关于君主衰老退化的私下议论，这位年迈的君主坚称自己在生理上依然具有繁衍后代的能力，足以诞下一位合法的继承人并稳定国家局势。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_15",
+    "group_id": 458,
+    "group_name": "mystic, esoteric, secret, mysterious",
+    "level": "TEM-8",
+    "target_word": "mystic",
+    "question": "Medieval apologists argued that supreme metaphysical truths resisted rational discourse, asserting that divine illumination was attainable only via ___ communion, which entirely bypasses sensory perception and analytical cognition.",
+    "options": [
+      "mystic",
+      "esoteric",
+      "secret",
+      "mysterious"
+    ],
+    "answer": "mystic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“divine illumination”（神圣启迪）与“entirely bypasses sensory perception and analytical cognition”（完全超越感官知觉与分析性认知）直接对应韦氏词典中 mystic 的核心定义（having an import not apparent to the senses nor obvious to the intelligence；beyond ordinary understanding），且与“communion”（冥合/交流）构成宗教哲学领域的经典固定学术搭配。",
+    "distractor_analysis": {
+      "mystic": "正确。mystic 指“超越感官经验与理性智识、直接与超验本体或神圣力量相契合的（神秘的、神圣冥合的）”，在此与 communion 构成哲学神学固定搭配（mystic communion，即神秘冥合），完美切合超越感官与分析思维的认知语境。",
+      "esoteric": "错误。esoteric 强调“深奥晦涩、仅限于极少数受过专门训练的圈内人理解的”（intended for an initiated few），着眼于学术或教义的专门性与排他性门槛，而非超越一切感官与理性认知维度的神圣超验体验。",
+      "secret": "错误。secret 意为“刻意隐蔽隐匿的、保密的”（clandestine/concealed），若置于此处修饰 communion 则会歪曲为“地下秘密串通”或“秘密幽会”，严重违背神学认识论与超验冥想的严肃学术语境。",
+      "mysterious": "错误。mysterious 侧重于“令人困惑不解的、难以索解的”（puzzling, enigmatic），表达外界观察者因信息缺失或难以解释而产生的疑虑困惑，无法承载“通过冥思与神圣本体实现超验合一”的认识论内涵。"
+    },
+    "translation": "中世纪护教学家认为，至高无上的形而上学真理抵制理性推演，并坚称唯有通过完全超越感官知觉与分析性认知的神秘冥合，方能获得神圣的智慧启迪。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_16",
+    "group_id": 458,
+    "group_name": "mystic, esoteric, secret, mysterious",
+    "level": "TEM-8",
+    "target_word": "esoteric",
+    "question": "The dissertation's analysis of fourteenth-century canon law proved far too ___ for general historians, requiring an intimate grasp of obsolete Latin idioms that only a handful of specialists could fathom.",
+    "options": [
+      "mystic",
+      "esoteric",
+      "secret",
+      "mysterious"
+    ],
+    "answer": "esoteric",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为学术专著（dissertation's analysis），且后文通过“far too ___ for general historians”（对通史学者而言过于……）与“only a handful of specialists could fathom”（仅少数专才方能领悟）构成了鲜明的“大众/圈外人 vs. 少数行内专家”的知识壁垒对照，唯有专指“深奥专深、仅少数圈内人可懂”的 esoteric 成立。",
+    "distractor_analysis": {
+      "esoteric": "正确。esoteric 精准指代“深奥专深的、仅极少数圈内人或专门学者方能领会的”（designed for or understood by an initiated few），与后文强调的拉丁语专业壁垒及“少数专才”形成严密逻辑对应。",
+      "mystic": "错误。mystic 专指“超验神灵的、神秘冥契的”，用于形容十四世纪教会法规的学术分析属于范畴谬误（category mistake）。",
+      "secret": "错误。secret 指“刻意向外界隐瞒的、秘密的”（kept hidden or confidential）。该博士论文属于公开发表的学术研究成果，并非保密文件，在此语义完全不通。",
+      "mysterious": "错误。mysterious 侧重指事物“神秘莫测、离奇难解”（enigmatic, baffling），通常形容不可思议的自然现象或悬案，无法准确表达因学术门槛极高而导致普通受众难以涉足的“专业专深性”。"
+    },
+    "translation": "该博士论文对十四世纪教会法的剖析对通史学者而言显得过于深奥晦涩，它要求研究者熟练掌握只有极少数专业学者才能参透的废弃拉丁语成语。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_17",
+    "group_id": 459,
+    "group_name": "negligent, lax, slack, derelict",
+    "level": "TEM-8",
+    "target_word": "negligent",
+    "question": "Although the managing director professed an unyielding dedication to corporate integrity, the regulatory investigation found him grossly ___ of his fiduciary duties, having concealed catastrophic liabilities from prospective shareholders.",
+    "options": [
+      "negligent",
+      "lax",
+      "slack",
+      "derelict"
+    ],
+    "answer": "negligent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句法介词搭配'___ of his fiduciary duties'与高阶法律表述'grossly ___'是决定性排他锚点。在表示失职、疏忽时，negligent of 为正统规范搭配；而 derelict 必须接 in（derelict in duty，接 of 属于混淆名词 dereliction of 的典型语病），lax 与 slack 同样仅接 in/about，绝不接 of。",
+    "distractor_analysis": {
+      "negligent": "正确。negligent 意为“疏忽的、过失的、未尽合理注意义务的”，专用于法律、商业伦理及职业责任语境。短语“grossly negligent”（严重失职/重大过失）是英美公司法中的经典术语；且 negligent 可直接支配介词 of（negligent of one's duties，对职责疏忽怠慢），完美契合后文因隐瞒巨额债务（concealed catastrophic liabilities）而构成的失职定性。",
+      "lax": "错误。lax 侧重于规章、纪律、监管或标准“松懈的、不严格的、姑息宽容的”（not strict or severe），通常用于修饰制度环境或监管行为（如 lax standards）。在句法上，lax 只能搭配介词 in 或 about（如 lax in discipline），出现 *lax of his duties 属于严重的介词搭配错误。",
+      "slack": "错误。slack 核心本义为“松弛的、迟缓的、萧条的”，形容人或行为时指动作怠惰、效率低下或缺乏活力（sluggish or inactive）。其句法同样不支配介词 of（多接 in，如 slack in performance），且该词偏向口语与日常描述，无法承载法律与受托责任（fiduciary duties）层面的严重失职定性，语体风格不符。",
+      "derelict": "错误。derelict 作形容词指人时意为“玩忽职守的”，但其介词搭配极其严苛，固定为“derelict in one's duty/obligations”（在履行职责上失职）。考生常因名词短语“dereliction of duty”（玩忽职守罪/过失）而产生负迁移，误以为形容词亦可接 of；*derelict of his duties 在英语中属于明显的句法错误。"
+    },
+    "translation": "尽管这位常务董事声称自己对企业诚信抱有坚定不移的承诺，但监管部门的调查却认定他严重疏忽了自己的受托义务，因为他向潜在股东隐瞒了灾难性的财务负债。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_18",
+    "group_id": 459,
+    "group_name": "negligent, lax, slack, derelict",
+    "level": "TEM-8",
+    "target_word": "lax",
+    "question": "Rather than maintaining the stringent compliance standards demanded by international maritime law, the port authority was censured for its persistently ___ oversight, whose institutional leniency enabled illicit vessels to bypass safety inspections.",
+    "options": [
+      "negligent",
+      "lax",
+      "slack",
+      "derelict"
+    ],
+    "answer": "lax",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "双重语义排他锚点：一是前半句与'stringent compliance standards'（严格的合规标准）构成的严密反义对照（stringent 的精准反义词即为 lax）；二是定语从句中的'institutional leniency'（体制性宽容/姑息）在词义上同义呼应并精确锁定 lax（意为 not strict, loose, lenient）。",
+    "distractor_analysis": {
+      "lax": "正确。lax 意为“松懈的、不严格的、放任的”，专指纪律、规章执行或监督缺乏应有的严格性与力度（deficient in firmness, not strict）。句中与前面的“stringent standards”构成经典的语义两极对立，同时与后文“institutional leniency”（体制性姑息宽大）形成精确的词义共振，搭配“lax oversight”（松懈的监管）完全符合高级政经学术语境。",
+      "negligent": "错误。negligent 意为“疏忽大意的、因过失而未尽注意义务的”（careless, inattentive），强调的是非故意的疏漏或不当心，而非管理或执行上“不严格、放任姑息”（lenient）。句中后半部分明确揭示该监管具有“institutional leniency”（制度性宽大），属于一种宽松、不严厉的管理姿态，与强调过失注意缺失的 negligent 存在语义冲突，且 negligent 并非 stringent 的对义词。",
+      "slack": "错误。slack 侧重于“迟缓的、松弛无力的、萧条懈怠的”（sluggish, lacking tension or energy），常用于形容经济萧条（slack demand）、绳索松弛或步调怠惰，无法体现后文所特指的规则制度层面的“宽松宽容”（leniency），修饰正式的机构监管（oversight）属于非规范搭配。",
+      "derelict": "错误。derelict 用作形容词时，形容物指“被废弃的、破败荒芜的”；形容人指“弃职守于不顾的、极度玩忽职守的”（如 derelict in duty）。它不能直接修饰抽象的行政监督机制（英语中不存在 *derelict oversight 这一搭配），存在严重的范畴搭配壁垒。"
+    },
+    "translation": "港务局未能维持国际海事法所要求的严格合规标准，反而因其长期松懈的监管而遭到谴责，这种体制性的姑息宽大使得非法船只得以绕过安全检查。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_19",
+    "group_id": 460,
+    "group_name": "opaque, turbid, solid, muddy",
+    "level": "TEM-8",
+    "target_word": "opaque",
+    "question": "Reviewing the controversial monograph, the scholar argued that the author's prose was not merely dense but deliberately ___, functioning as an impenetrable barrier that resisted any rigorous hermeneutic analysis.",
+    "options": [
+      "opaque",
+      "turbid",
+      "solid",
+      "muddy"
+    ],
+    "answer": "opaque",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'deliberately ___' combined with 'functioning as an impenetrable barrier that resisted any rigorous hermeneutic analysis' decisively demands 'opaque', which figuratively denotes impenetrable to understanding or scrutiny, unlike 'turbid' or 'muddy' which imply internal disorder or clumsy confusion.",
+    "distractor_analysis": {
+      "opaque": "正确。opaque 在认知与文论语境中表示“晦涩难懂的、不可透析的”。句中“deliberately opaque”（刻意晦涩）为高阶学术批评中的经典搭配，决定性锚点“functioning as an impenetrable barrier that resisted any rigorous hermeneutic analysis”（充当了一道阻绝任何严密诠释学分析的不可穿透之屏障）精准对应了 opaque 的核心隐喻特质——如同无法透光的实体屏障一般彻底阻绝理解。",
+      "turbid": "错误。turbid 侧重于“浑浊的、紊乱激荡的”，多形容因情感冲突或杂念翻滚而导致的心智混沌（如 turbid emotions），描述的是思维系统内部泥沙俱下的混乱状态，而非蓄意构建的、抗拒理性穿透的封闭屏障（impenetrable barrier）。",
+      "solid": "错误。solid 用于认知或学术评价时表示“扎实的、可靠的、论据充分的”，带有明显的褒义色彩，与后文“resisted any rigorous hermeneutic analysis”所构成的批判语境在逻辑语义上严重冲突。",
+      "muddy": "错误。muddy 虽可指“含混不清的”，但通常指因缺乏逻辑能力或条理不清造成的无心混乱（如 muddy thinking），语体较为平实口语化，与本句高度严谨的文论语域（monograph, hermeneutic analysis）发生风格冲突（register clash），且无法传达出“坚不可摧之屏障”的阻绝感。"
+    },
+    "translation": "在评述这本备受争议的专著时，该学者指出作者的文风不仅厚重，更是刻意晦涩，犹如一道不可逾越的屏障，拒斥任何严密的诠释学分析。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b45_20",
+    "group_id": 460,
+    "group_name": "opaque, turbid, solid, muddy",
+    "level": "TEM-8",
+    "target_word": "turbid",
+    "question": "The biographer noted that the philosopher's later essays betrayed an increasingly ___ intellect, roiled by emotional turmoil and fractured reasoning rather than characterized by deliberate conceptual obscurity.",
+    "options": [
+      "opaque",
+      "turbid",
+      "solid",
+      "muddy"
+    ],
+    "answer": "turbid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The participle phrase 'roiled by emotional turmoil and fractured reasoning' directly mirrors the etymological root of 'turbid' (Latin turbare, to disturb/agitate), while 'rather than characterized by deliberate conceptual obscurity' explicitly excludes 'opaque'.",
+    "distractor_analysis": {
+      "turbid": "正确。turbid 在认知心理（FIELD_COGNITION）语境中表示“（心智、思绪）昏乱的、迷惘而受骚动的”。其词源与 trouble、turmoil 同源，专门形容因激情、病态或心理扰动而处于翻腾混浊状态的心智。句中核心锚点“roiled by emotional turmoil and fractured reasoning”（被情感波澜与支离破碎的推理所搅扰）与 turbid 的内在激荡混沌特质构成严密的对应。",
+      "opaque": "错误。opaque 意为“晦涩封闭的、难以理解的”，句末让步对比从句“rather than characterized by deliberate conceptual obscurity”（而非表现为刻意的概念晦涩）构成了不可逆转的排他性锚点，明确剔除了 opaque 所专指的深奥晦涩语义；且 opaque 是静态的屏蔽，无法被 roiled 所修饰。",
+      "solid": "错误。solid 修饰 intellect 时表示“健全稳固的智力”，语义与后文被情感狂澜与逻辑崩解所侵扰的语境形成直接反向对立。",
+      "muddy": "错误。muddy 在认知语境中多作口语或普通词汇修饰 thinking（如 muddy thinking），搭配 intellect 属于严重的语域失配（register clash）；此外，muddy 偏向静态的污浊与不清，缺少 turbid 所特有的被内在狂澜与折磨所“翻卷搅动”（roiled）的动态骚乱感。"
+    },
+    "translation": "传记作者指出，这位哲学家晚期的散文暴露出其日益昏乱的心智；这种状态是被内心情感的惊涛骇浪与支离破碎的理性所搅扰，而非表现为刻意的概念晦涩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

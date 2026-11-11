@@ -1,0 +1,543 @@
+[
+  {
+    "id": "tem8_b72_01",
+    "group_id": 721,
+    "group_name": "audition, rap, interlude, act",
+    "level": "TEM-8",
+    "target_word": "audition",
+    "question": "Before the state conservatory board granted the coveted fellowship, they required each finalist to ___ before an anonymous panel, demonstrating technical mastery and interpretative range behind an opaque acoustic screen.",
+    "options": [
+      "audition",
+      "rap",
+      "interlude",
+      "act"
+    ],
+    "answer": "audition",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The phrase 'behind an opaque acoustic screen' specifically evokes the standard classical music practice of a blind trial performance, making 'audition' (to perform in order to demonstrate suitability for an artistic role/fellowship) the sole semantically and contextually coherent verb.",
+    "distractor_analysis": {
+      "audition": "正确。audition用作不及物动词时，意为“（试音、试镜、试奏）参加选拔”，与语境中音乐学院（conservatory）、匿名评审团（anonymous panel）以及声学屏风后的盲选试奏（blind audition）完美呼应，精准传达出通过专业表演展示技巧与诠释力的测试行为。",
+      "rap": "错误。rap作动词时意为“敲击”、“严厉批评”或“说唱”，与在匿名委员会面前隔着屏风进行高阶专业演奏试选的语境完全不符，语义荒谬。",
+      "interlude": "错误。interlude在现代英语中绝大多数情况下作名词（意为“幕间休息”、“插曲”或“过渡时期”），在此处充当动词不定式（to ___）属于词性搭配严重受限且无法在句中充当不及物动词表意，句法与语义双重不合。",
+      "act": "错误。act表示“扮演、演戏”或“采取行动”。在不透明的隔音幕布（acoustic screen）背后，视觉上的“戏剧表演（act）”完全失去意义，只有纯声音的试奏（audition）符合逻辑；此外，act before a panel无法体现乐手争取奖学金时的针对性试听考核。",
+      "interlude_grammar_check": "interlude在词典中几乎仅存名词词性，置于to后作动词属于典型词性干扰项。"
+    },
+    "translation": "在国家音乐学院委员会授予这一令人垂涎的奖学金之前，他们要求每位决赛入围者在一面不透明的隔音屏风后、在匿名评审团面前进行试奏，以展示其精湛的演奏技巧与诠释功底。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_02",
+    "group_id": 721,
+    "group_name": "audition, rap, interlude, act",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "In its blistering inquiry into financial malfeasance, the parliamentary committee did not hesitate to ___ the central bank for failing to monitor shadow-banking liabilities and systemic liquidity risks adequately.",
+    "options": [
+      "audition",
+      "rap",
+      "interlude",
+      "act"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The transitive syntactic pattern 'to ___ [an institution] for [a failure/offence]' in high-register political and economic journalism strictly matches the specialized usage of 'rap' (meaning to censure, rebuke, or criticize sharply).",
+    "distractor_analysis": {
+      "rap": "正确。rap在英美高级政治经济新闻（如《经济学人》《路透社》）中是极其地道的高级及物动词，意为“严厉指责、斥责”（to severely criticize or reprimand someone/an institution for a fault），句中与“the central bank for failing to...”构成极为经典的“rap sb/sth for sth”搭配。",
+      "audition": "错误。audition作及物动词时意为“对（某人）进行面试、试音测试”（to test a performer），议会调查委员会绝不可能对中央银行进行所谓的“试音或选拔”，语义发生严重错位。",
+      "interlude": "错误。interlude本质上为名词，指插入的事物或中场休息，无法充当及物动词接宾语“the central bank”，句法完全不成立。",
+      "act": "错误。act表示采取行动时为不及物动词（通常接介词on或against），作及物动词时仅限于“扮演（角色）”（如act a role），不能直接跟“the central bank for failing...”构成斥责或追责的及物动宾结构。"
+    },
+    "translation": "在对金融违法行为进行的严厉调查中，议会委员会毫不犹豫地严厉斥责了中央银行，指责其未能对影子银行负债及系统性流动性风险实施充分监管。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_03",
+    "group_id": 722,
+    "group_name": "autograph, endorse, ink, execute",
+    "level": "TEM-8",
+    "target_word": "autograph",
+    "question": "Following his keynote lecture on biodiversity loss, the veteran naturalist remained in the auditorium to ___ first-edition copies of his seminal botanical treatise for queues of eager environmental students and conservationists.",
+    "options": [
+      "autograph",
+      "endorse",
+      "ink",
+      "execute"
+    ],
+    "answer": "autograph",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The definitive anchor is the direct object 'first-edition copies of his seminal botanical treatise' paired with the beneficiary phrase 'for queues of eager environmental students and conservationists', which exclusively selects 'autograph' (to inscribe one's own signature on an authorial work as a memento).",
+    "distractor_analysis": {
+      "autograph": "正确。autograph作及物动词时，专指作者、学者或名人在自己的作品、书籍、照片或纪念品上“亲笔签名（题名留念）”。本句中资深博物学家在讲座后为排队的生态学专业学生在“初版植物学专著”（first-edition copies of his seminal botanical treatise）上签名，搭配与语境完全契合。",
+      "endorse": "错误。endorse意为“公开赞同、认可（理念、学说、政策）”或“在（支票等背面）背书”，无法与实体出版物复本（copies of his treatise）构成“为仰慕者签名留念”的合理语义搭配。",
+      "ink": "错误。ink作动词表示“签署”时属于非正式的新闻报刊语体（informal/journalistic），通常指商定协议或签约（如 ink a pact/deal），既不能用于在著作上为读者亲笔签名，亦不符合此处高阶学术交流的严肃语体风格。",
+      "execute": "错误。execute在文书语境中属于高度严谨的法律术语，指“依法签署并促成（合同、契约、遗嘱等法律文件）正式生效”。学者在自己的植物学专著上为学生签名绝非使法律文书生效的法律行为，属于严重的范畴错配。"
+    },
+    "translation": "在关于生物多样性丧失的主旨演讲结束后，这位资深博物学家留在礼堂内，为排起长队的热切环境学专业学生和自然保护工作者在其开创性植物学专著的初版典籍上亲笔签名。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_04",
+    "group_id": 722,
+    "group_name": "autograph, endorse, ink, execute",
+    "level": "TEM-8",
+    "target_word": "endorse",
+    "question": "Rather than drafting an independent charter, the intergovernmental panel convened to formally ___ the ambitious conservation blueprint, thereby granting global scientific legitimacy to its proposed habitat restoration benchmarks.",
+    "options": [
+      "autograph",
+      "endorse",
+      "ink",
+      "execute"
+    ],
+    "answer": "endorse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The decisive anchor lies in the collocation with 'the ambitious conservation blueprint' alongside the purposive result 'thereby granting global scientific legitimacy', which strictly selects 'endorse' (to officially declare approval or public support for a policy, plan, or framework).",
+    "distractor_analysis": {
+      "endorse": "正确。endorse表示“（权威机构公开、正式地）认可、支持、背书（政策、蓝图、方案）”。句中政府间专家小组对雄心勃勃的保护蓝图进行正式背书，从而赋予其栖息地恢复基准以全球科学正当性，语义与语域高度贴合。",
+      "autograph": "错误。autograph专指名人或作者在纪念品、书刊、照片上亲笔签名留念，宾语必须为具体的实物纪念品或手稿，不可接“conservation blueprint”这类宏观政策框架或方案。",
+      "ink": "错误。ink作为动词表示“签署”，属于新闻传媒或商业语境中的非正式行话（如 ink a deal/contract），在此严肃的政府间学术治理语境下产生明显的语域破裂（stylistic clash）。",
+      "execute": "错误。execute用于行政或法律语境时，意为“执行实施”或“依法使合同生效”。该委员会作为科学评审组织，其职能是赋予蓝图“科学合法性”（scientific legitimacy）而非行政执行落实，且与“blueprint”搭配表示认可背书时语义不通。"
+    },
+    "translation": "政府间专家小组并未起草一份独立的章程，而是召集会议正式对这项雄心勃勃的保护蓝图予以权威背书，从而为其拟定的栖息地恢复基准赋予了全球科学正当性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_05",
+    "group_id": 723,
+    "group_name": "autopsy, rake, scan, skim",
+    "level": "TEM-8",
+    "target_word": "autopsy",
+    "question": "Following the sudden insolvency of the sovereign wealth fund, independent investigators were commissioned to ___ the collapsed institution, meticulously dissecting its internal governance to identify the fatal regulatory oversights that precipitated its catastrophic demise.",
+    "options": [
+      "autopsy",
+      "rake",
+      "scan",
+      "skim"
+    ],
+    "answer": "autopsy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中及物动词的宾语为已彻底破产的实体（the collapsed institution），后接分词从句'meticulously dissecting... to identify the fatal regulatory oversights that precipitated its catastrophic demise'，明确要求填入具有'对彻底死亡/崩溃的对象进行事后剖析以查明致命病因'这一高度专门化隐喻意义的动词，仅有autopsy具备该认知语义。",
+    "distractor_analysis": {
+      "autopsy": "正确。autopsy本义为'尸检、验尸'，在高级学术与政经话语（FIELD_COGNITION）中常转义为及物动词，指在某一机构、政权或项目彻底倒闭、瓦解后，对其进行深度的'事后解剖与死因诊断分析'。本句中'the collapsed institution'与后文的'fatal... demise'构成了极其严密的语境照应，选autopsy最为精准贴切。",
+      "rake": "错误。rake作及物动词时意为'耙平、搜罗、以视线或火力扫射'；用于搜寻证据时通常为不及物动词并与through搭配（rake through the records）。rake既不能直接接一个已经倒闭的机构实体作宾语来表示对其败因的诊断剖析，也不具备'事后病理剖析'（post-mortem failure analysis）的语义特征。",
+      "scan": "错误。scan指'审视、粗略浏览'或利用仪器进行'扫描、扫视'。其认知框架侧重于对表面、文本、视野或数据模式的连续排查，完全缺乏对倒闭实体进行'事后病因解剖（post-mortem dissection）'的深层语义，与后文'meticulously dissecting... to identify fatal oversights'的语境强度严重脱节。",
+      "skim": "错误。skim意为'撇去表层'或'走马观花地粗略掠读'，强调浮于表面、缺乏深度，在认知层面与句中的状语'meticulously'（极其细致地）及'dissecting'（深入剖析）构成直接的语义反义冲突，且无法与collapsed institution构成合乎逻辑的动宾搭配。"
+    },
+    "translation": "在该主权财富基金突遭破产清算后，独立调查人员受命对这家倒闭的机构进行全面事后剖析，极其细致地解剖其内部治理结构，以查明酿成其灾难性覆灭的致命监管疏漏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_06",
+    "group_id": 723,
+    "group_name": "autopsy, rake, scan, skim",
+    "level": "TEM-8",
+    "target_word": "rake",
+    "question": "Rather than advancing toward genuine diplomatic reconciliation, radical politicians continued to ___ over the bitter grievances of the civil war, reopening painful historical wounds and rekindling sectarian enmities that crippled the peace negotiations.",
+    "options": [
+      "autopsy",
+      "rake",
+      "scan",
+      "skim"
+    ],
+    "answer": "rake",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定动词短语搭配与语篇逻辑锚点：空格后紧跟介词'over'与宾语'the bitter grievances of the civil war'，后文伴随分词短语'reopening painful historical wounds and rekindling sectarian enmities'。在认知心理与历史审视语境中，仅有'rake over'构成固定短语，表示'不断翻旧账、反复重提并深挖痛苦的陈年旧怨'。",
+    "distractor_analysis": {
+      "rake": "正确。rake over为固定习语/动词短语，意为're-examine or talk repeatedly about unpleasant past events'（翻旧账、重提令人痛苦的往事）。本句中后文的'reopening painful historical wounds'（揭开历史伤疤）与'rekindling sectarian enmities'（重燃派系仇恨）精准呼应了rake over所特有的'深挖翻扯陈旧疮疤以致制造痛苦'的认知意象与贬义色彩。",
+      "autopsy": "错误。autopsy作为动词在现代英语中为纯粹的及物动词（transitive verb），只能直接跟宾语（如autopsy the body/failure），在语法上绝不与介词over搭配，'autopsy over'属于严重的句法结构错误。",
+      "scan": "错误。scan over主要用于物理动作，指视线或仪器在文本或平面上迅速'浏览、扫掠'（如scan over a document）。它在语义上无法作用于抽象的心理/历史伤痛'bitter grievances'，更不具备'翻旧账、重揭历史伤疤'的隐喻义。",
+      "skim": "错误。skim over虽为合法搭配，但其含义为'略过、一带而过、对…避而不谈'（to deal with or mention something only briefly without giving it serious attention）。若激进政客选择'skim over'（回避/轻描淡写）内战积怨，则逻辑上绝不可能导致'reopening painful historical wounds'（重新揭开痛苦历史伤口）的结果；skim与后文的因果逻辑存在根本性的语意反转矛盾。"
+    },
+    "translation": "激进政客们非但没有推动真正的外交和解，反而继续大翻内战时期的痛苦积怨，重新揭开历史创伤并重燃派系仇恨，彻底破坏了和平谈判。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_07",
+    "group_id": 724,
+    "group_name": "avail, recur, put, play",
+    "level": "TEM-8",
+    "target_word": "avail",
+    "question": "When confronting deep-seated cognitive biases, mere intellectual awareness will ___ the researcher nothing unless systematic methodological safeguards are rigorously applied to eliminate subjective distortion.",
+    "options": [
+      "avail",
+      "recur",
+      "put",
+      "play"
+    ],
+    "answer": "avail",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格后紧跟间接宾语及否定量词宾语/状语“the researcher nothing”，构成了极具辨识度的正式书面语双宾式及物搭配“avail sb. nothing”（对某人毫无用处/起不到任何作用）。其余三个选项均受限于动词配价规则或语义搭配，无法嵌入该句法结构。",
+    "distractor_analysis": {
+      "avail": "正确。avail作及物动词时，可用于极具学术与文雅色彩的句式“avail sb. little/nothing/much”（意为“对某人毫无裨益/起不到作用”，源自韦氏词典释义“to produce or result in as a benefit or advantage : GAIN / SERVE”）。本句探讨认知偏差防范，语境与语体高度契合。",
+      "recur": "错误。recur为不及物动词（意为“重现、反复发生”），后面无法直接接宾语，绝不可能后接“the researcher nothing”，存在严重的及物性语法违歧。",
+      "put": "错误。put虽为及物动词，但其基本配价要求支配单个宾语外加处所或介词补足语（如“put sb. in a dilemma”），英语中不存在“put sb. nothing”这种双宾语结构。",
+      "play": "错误。play作及物动词时后接双宾语仅限于“play sb. a trick”等极少数非正式口语熟语；在学术认知语境下与“the researcher nothing”完全不相容，句意与句法均断裂。"
+    },
+    "translation": "在应对根深蒂固的认知偏差时，单纯的理智觉察对研究人员毫无助益，除非严格采取系统性的方法论防范措施以消除主观扭曲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_08",
+    "group_id": 724,
+    "group_name": "avail, recur, put, play",
+    "level": "TEM-8",
+    "target_word": "recur",
+    "question": "Whenever the cognitive scientist scrutinized the neural correlates of subjective experience, the same intractable explanatory dilemmas would inevitably ___ to his mind, resisting all purely physicalist reduction.",
+    "options": [
+      "avail",
+      "recur",
+      "put",
+      "play"
+    ],
+    "answer": "recur",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格后紧接介词短语“to his mind”，且主语为抽象认知概念“dilemmas”（困境）。在正式认知与哲学语境中，“recur to one's mind”（重新浮现在脑海中/重上心头）是韦氏词典收录的经典固定用法（“come back to mind <the memory of that night recurred to him>”）。",
+    "distractor_analysis": {
+      "avail": "错误。avail作动词表示“有益、奏效”，作及物动词需接反身代词（avail oneself of）或宾语加否定词，作不及物动词时语义为“有效验”，无法与“to his mind”连用表示“浮现在心头”。",
+      "recur": "正确。recur在此用作不及物动词，与“to his mind”紧密搭配，精准传达认知心理学与心灵哲学中理论困境或观念“反复重回脑际、重上心头”的精细语义，完全符合学术语域要求。",
+      "put": "错误。put属于核心及物动词，若后接介词短语“to his mind”，主语与介词之间必须存在明确的直接宾语（如“put a proposition to his mind”）；此处缺失宾语，构成不可接受的句法缺失。",
+      "play": "错误。play与介词to搭配时通常表示“play to sb./sth.”（意为“迎合讨好观众/利用某物”，如play to the gallery）；认知困境（dilemmas）绝不能“play to one's mind”，在语义和搭配上均属严重误用。"
+    },
+    "translation": "每当这位认知科学家仔细审视主观体验的神经相关物时，那些棘手的解释性困境总会不可避免地重新浮现在他脑海中，抗拒着任何纯粹的物理主义还原论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_09",
+    "group_id": 725,
+    "group_name": "avert, stop, halt, save",
+    "level": "TEM-8",
+    "target_word": "avert",
+    "question": "Multilateral lenders intervened with an emergency liquidity injection, hoping the eleventh-hour debt restructuring would ___ a catastrophic sovereign default that threatened to destabilize emerging financial markets across the hemisphere.",
+    "options": [
+      "avert",
+      "stop",
+      "halt",
+      "save"
+    ],
+    "answer": "avert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive collocation with the impending negative event 'a catastrophic sovereign default'. In formal macroeconomic and diplomatic discourse, only 'avert' specifically denotes warding off or preempting an impending crisis or disaster before it occurs.",
+    "distractor_analysis": {
+      "avert": "正确。avert意为'防止，避免（灾难、危机等不幸事件）发生'（to see coming and ward off），在高级政经语域中与crisis, disaster, default（主权违约）构成高度固化的动宾搭配，完美契合题干中预防尚未发生的主权违约危机的语义。",
+      "stop": "错误。stop语义过于泛化且语体色彩偏口语化（register clash），在正式的高级财经/外交学术语篇中极少直接与抽象的宏观经济危机名词搭配（通常需搭配stop sb from doing sth）；且stop强调中途叫停已在进行的活动，无法精准体现'预先防范、化解未发之危机'的精妙语义。",
+      "halt": "错误。halt强调使正在行进、扩展或发展中的事物'中途停顿、骤然中止'（to bring an ongoing motion or process to an abrupt standstill），常搭配halt inflation / halt the decline等表示持续过程的名词；而sovereign default属于尚未爆发的离散性灾难事件（event），不可使用halt来表示'防患于未然'。",
+      "save": "错误。save在表示救援时，宾语必须是'受难的主体/受害者'（如save the economy / save the debtor from default），而绝不能以灾难本身作为直接宾语（*save a default语法及逻辑均错误，意为挽救违约，逻辑完全颠倒）。"
+    },
+    "translation": "多边借贷机构紧急注资进行干预，期望这一最后关头的债务重组能够避免一场可能导致整个半球新兴金融市场陷入动荡的灾难性主权违约。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_10",
+    "group_id": 725,
+    "group_name": "avert, stop, halt, save",
+    "level": "TEM-8",
+    "target_word": "avert",
+    "question": "Confronted with the graphic photographic evidence of wartime atrocities, several delegates felt compelled to ___ their gaze, unable to reconcile the harrowing imagery with the sterile diplomatic rhetoric.",
+    "options": [
+      "avert",
+      "stop",
+      "halt",
+      "save"
+    ],
+    "answer": "avert",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive idiomatic collocation with 'their gaze'. In standard literary and academic English, 'avert one's gaze/eyes' is an immutable collocation signifying deliberately turning one's eyes away in distress, shame, or horror.",
+    "distractor_analysis": {
+      "avert": "正确。avert的核心本义为'移开，转开（目光、视线等以避开不愿看之物）'（to turn away or aside one's eyes or gaze in avoidance）。'avert one's gaze/eyes'是英语文学与高级社科文本中极其经典的固定搭配，精准传达出代表们目睹惨状时不忍直视、移开目光的心理反应。",
+      "stop": "错误。英语中不存在*stop one's gaze搭配；stop表示物理性停止，不能指'因不忍直视而将视线移开转开'这一特异性动作，存在严重的搭配断裂（collocational rupture）。",
+      "halt": "错误。halt意为'使运动骤停'，若说*halt one's gaze在语义上更倾向于'定睛凝视/止住视线移动'，与语境中因面对战争残暴画面而'移开视线、回避直视'的逻辑完全相悖，且在英语惯用法中并无此种搭配表达。",
+      "save": "错误。save意为'挽救、节省'，完全无法与gaze构成及物动宾搭配，代入句中造成语法与语义的双重破损。"
+    },
+    "translation": "面对战争暴行触目惊心的照片证据，几位代表不得不移开目光，他们实在无法将这些惨不忍睹的画面与苍白乏味的外交辞令联系在一起。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_11",
+    "group_id": 726,
+    "group_name": "backhand, foul, racket, undercut",
+    "level": "TEM-8",
+    "target_word": "backhand",
+    "question": "In competitive racquet sports, elite athletes rely on predictive motor cognition rather than conscious visual processing to ___ incoming volleys, instinctively orienting the dorsal aspect of the striking hand toward the ball's anticipated flight path.",
+    "options": [
+      "backhand",
+      "foul",
+      "racket",
+      "undercut"
+    ],
+    "answer": "backhand",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anatomical and mechanical clue 'orienting the dorsal aspect of the striking hand toward the ball's anticipated flight path' precisely mirrors the lexicographical definition of backhand ('a stroke made with the back of the hand turned in the direction of movement'). This decisively excludes undercut (which denotes slicing underneath to create backspin regardless of hand orientation), foul (rule infraction), and racket (intransitive verb meaning to make noise).",
+    "distractor_analysis": {
+      "backhand": "正确。及物动词，意为“（用反手拍）击打；以手背朝前的动作击球”。句中的“orienting the dorsal aspect of the striking hand toward the ball's anticipated flight path”（本能地将击球手的手背朝向球的预判飞行轨迹）直接构成了韦氏词典对该词的核心解剖学定义锚点（stroke made with the back of the hand turned in the direction of movement），与宾语 incoming volleys 构成极具专业质感的运动认知学与击球动力学搭配。",
+      "foul": "错误。及物动词，意为“对……犯规；弄脏；缠绕”。在球类运动中，其作为及物动词接宾语时通常指侵犯对手（foul an opponent），不能与 incoming volleys 搭配表达合法的击球动作；且手背朝前的技术动作属于规则内的击球方式，与“犯规”毫无逻辑关联。",
+      "racket": "错误。动词，在现代英语中绝大多数情况下用作不及物动词，意为“喧闹；过放荡喧嚣的生活”。在此处首先存在严重的句法障碍（无法直接及物接 incoming volleys 作宾语），其次其词义与击球的肢体动作完全无关。",
+      "undercut": "错误。及物动词，在球拍运动中专指“削球；由上向下切击球的下部以产生下旋（backspin）”。undercut 强调的是球拍接触球体底部的切削轨迹，既可以正手完成亦可以反手完成，与句中唯一限定的“手背朝前（dorsal aspect of the striking hand）”这一击球朝向特征存在明显的解剖学与技术概念错位。"
+    },
+    "translation": "在竞技拍类运动中，精英运动员依赖预测性运动认知而非意识层面的视觉处理来反手击打迎面而来的截击球，本能地将击球手的手背朝向球的预判飞行轨迹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_12",
+    "group_id": 726,
+    "group_name": "backhand, foul, racket, undercut",
+    "level": "TEM-8",
+    "target_word": "foul",
+    "question": "The epistemologist warned that unexamined ideological dogmas invariably ___ the pristine wellspring of empirical inquiry, contaminating scientific discourse with subjective prepossessions that resist even the most rigorous methodological filtration.",
+    "options": [
+      "backhand",
+      "foul",
+      "racket",
+      "undercut"
+    ],
+    "answer": "foul",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The conceptual hydraulic metaphor formed by 'the pristine wellspring', 'contaminating', and 'filtration' demands a transitive verb signifying pollution or defilement. Only foul (transitive verb: to make filthy, pollute, defile) fits the idiomatic collocation 'foul the wellspring/waters', whereas undercut causes a severe metaphorical rupture (one does not undercut a liquid wellspring to contaminate it), racket is grammatically intransitive, and backhand is semantically incongruous.",
+    "distractor_analysis": {
+      "backhand": "错误。及物动词，意为“用反手击打；反手抽击”。其字面与引申义均局限于肢体打击或言语上的反手回击，完全无法同抽象的认识论水力意象（pristine wellspring）及后文的“污染/过滤”语境产生任何语义衔接。",
+      "foul": "正确。及物动词，意为“污染；玷污；弄脏”（to make filthy: pollute, defile）。句中构建了由 pristine wellspring（纯净源泉）、contaminating（污染）与 filtration（过滤）构成的完整“水源污染与净化”的认知隐喻链，foul 与 pristine wellspring 构成英语中极为经典的意象搭配（foul the wellspring of... 即污染……的源头），语义与语体完全吻合。",
+      "racket": "错误。动词，常作不及物动词表示“大声喧闹；寻欢作乐”。该选项在此处既构成直接接宾语 the pristine wellspring 的句法违抗，在语义上也与思想认识层面的“污染”毫无交集。",
+      "undercut": "错误。及物动词，意为“削弱；暗中破坏（基础、权威、有效性等）”。虽然 undercut 在认知与学术语境中常用于搭配 premise（前提）或 theory（理论），但它不能与物理水源隐喻 pristine wellspring 形成同质搭配，更无法统摄后文伴随状语中的 contaminating（污染）和 filtration（过滤）意象，代入会导致严重的隐喻断裂（metaphorical rupture）。"
+    },
+    "translation": "认识论学家警告称，未经审视的意识形态教条总是会污染经验探究的纯净源泉，使科学话语沾染上主观偏见，而这些偏见甚至连最严密的科学方法论过滤也难以消除。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_13",
+    "group_id": 727,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "barrage",
+    "question": "Rather than allowing the beleaguered spokesperson to deliver the prepared statement, aggressive parliamentary backbenchers continued to ___ him with hostile jeers and procedural points of order, drowning out the official briefing.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "barrage",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句中关键结果分句'drowning out the official briefing'（淹没/封锁官方简报通报）提供了决定性排他锚点。barrage动词词源自法语barrer（设立障碍/拦截筑坝），原指炮火弹幕屏障，引申为以极其密集连续的声音、质问、嘲笑像水坝或弹幕屏障一样将对方发声彻底封锁淹没（WordNet: address continuously as if with a barrage, Oxford: subject to an overwhelming barrier of sound/questions）；相比之下，bombard侧重以重炮穿透轰击摧毁（bombard a target with shells/questions），不包含筑起弹幕帷幕将声音淹没拦截（drowning out）的隐喻重心；rip与claw均为口语或躯体动物性动作，且及物语法搭配在此不合。",
+    "distractor_analysis": {
+      "barrage": "【正确】及物动词，源自军事弹幕（barrage fire）屏障概念，在议会与政治语域中专指以密集连续的口号、嘘声或程序抗议筑起'声浪弹幕'，彻底压制并淹没对方发言（drowning out the speech）。结构'barrage someone with hostile jeers'高度地道，与句意浑然一体。",
+      "bombard": "【错误】及物动词，侧重对目标展开具有杀伤力、穿透性的持续轰击（to attack persistently with heavy artillery or missiles），多强调瓦解防线或击垮受试者，无法精准契合以密集声浪筑起屏障以淹没声音（drowning out）的隐喻指向。",
+      "rip": "【错误】动词，及物用法指撕裂、剥离，若表示口头抨击必须加介词成短语动词'rip into someone'；直接作及物动词且带'with hostile jeers'在语法与现代高雅语域中均属错误搭配。",
+      "claw": "【错误】动词，本义为用爪抓挠，比喻义表示艰难攀爬或争取（claw one's way back），无法用于及物结构表示以言语嘲笑密集围攻发言人。"
+    },
+    "translation": "那些咄咄逼人的议会后座议员不仅不给这位处境窘迫的发言人宣读既定声明的机会，反而不断以敌意的嘘声和程序性议事规则抗议对他发起密集的声浪围攻，彻底淹没了官方简报的发声。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_14",
+    "group_id": 727,
+    "group_name": "barrage, bombard, rip, claw",
+    "level": "TEM-8",
+    "target_word": "bombard",
+    "question": "In their quest to synthesize superheavy elements, nuclear physicists utilized a specialized particle accelerator to ___ a microscopic target foil of actinide isotopes with intense, continuous streams of high-energy calcium ions.",
+    "options": [
+      "barrage",
+      "bombard",
+      "rip",
+      "claw"
+    ],
+    "answer": "bombard",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_SCIENCE",
+    "anchor_clue": "句中主语为'nuclear physicists'（核物理学家），工具为'particle accelerator'（粒子加速器），直接宾语为'a microscopic target foil of actinide isotopes'（锕系同位素微观靶箔），介词短语为'with intense, continuous streams of high-energy calcium ions'（用高能钙离子束）。在国际核物理学、核化学及高能粒子实验规范语料（Nature, Science, IUPAC）中，以高能粒子束射击轰击原子靶核的专属科学学术动词100%唯一确立为'bombard'（to bombard a target with ions/neutrons）；其余选项barrage、rip、claw在核物理粒子轰击领域均为彻底的范畴错误（category mistake）。",
+    "distractor_analysis": {
+      "bombard": "【正确】及物动词，在现代高能物理与放射化学领域为官方唯一专属术语（technical term），韦氏词典核心科学义项为'to direct high-energy particles or rays against (an atomic nucleus or substance)'（以高能粒子或射线轰击原子核或靶材）。与句中粒子加速器、同位素靶箔及离子束完美无瑕契合。",
+      "barrage": "【错误】及物动词，虽然源于炮兵弹幕，但在现代实验物理学中绝不用于粒子束轰击靶材的学术表述，'barrage an isotope target with ions'在英语学术语料库中频次为零，属于典型的非专业搭配错误。",
+      "rip": "【错误】动词，撕裂、撕碎，与高能粒子轰击合成超重元素的受控微观核反应语境严重违背，属于词义层面的范畴谬误。",
+      "claw": "【错误】动词，抓挠、抓扯，属于躯体机械动作，完全无法用于微观物理实验的粒子对撞表述。"
+    },
+    "translation": "在合成超重元素的探索中，核物理学家利用一台专用的粒子加速器，以高能钙离子的密集连续束流去轰击一层微观的锕系同位素靶箔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_15",
+    "group_id": 728,
+    "group_name": "barter, swap, cash, sell",
+    "level": "TEM-8",
+    "target_word": "barter",
+    "question": "Fearing economic insolvency, the transitional government was vehemently criticized for attempting to ___ away national sovereignty and strategic ports in exchange for short-term fiscal relief.",
+    "options": [
+      "barter",
+      "swap",
+      "cash",
+      "sell"
+    ],
+    "answer": "barter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "决定性排他锚点为小品词搭配“___ away + 核心主权/抽象权益（national sovereignty）”。英语中，“barter away”是极为固定的书面语习语搭配，专指“以不体面或轻率的方式牺牲/出让（主权、权利、原则等）以换取微小利益”。其他三个动词均无法与“away”构成该语境下的合法搭配。",
+    "distractor_analysis": {
+      "barter": "正确。动词短语“barter away”为英语高级政经与学术语域中的经典固定搭配，意为“（为换取眼前暂时的利益而）轻率出卖或牺牲（主权、权利、尊严等）”，与后文的“away national sovereignty... in exchange for short-term fiscal relief”形成严密的句法和语义契合。",
+      "swap": "错误。“swap”主要指平等对调具体的物品、角色或信息，在正式学术语域中不能与“away”结合构成表达“牺牲、出卖国家主权”的动词短语；“swap away”既不合学术语体，亦无此隐喻义用法。",
+      "cash": "错误。“cash”作为动词意为“兑现（支票等）”，其常见短语为“cash in”（兑现）或“cash in on”（利用……牟利），在英语中不存在“*cash away”这一动词短语搭配，代入会导致严重句法破裂。",
+      "sell": "错误。英语中若表达“出卖原则或国家利益”，惯用短语为“sell out”（背叛/出卖），若指“变卖资产”则用“sell off”；“sell away”在现代标准英语中并非用于出卖国家主权的合法搭配，强行代入不符合规范用法。"
+    },
+    "translation": "因担忧陷入经济破产的困境，该过渡政府因企图以国家主权和战略港口为代价换取短期的财政救济，而遭到了外界的严厉谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_16",
+    "group_id": 728,
+    "group_name": "barter, swap, cash, sell",
+    "level": "TEM-8",
+    "target_word": "swap",
+    "question": "During the bilateral crisis simulation, the senior negotiators were instructed to ___ roles with their foreign counterparts to better comprehend the domestic pressures and strategic imperatives guiding each delegation.",
+    "options": [
+      "barter",
+      "swap",
+      "cash",
+      "sell"
+    ],
+    "answer": "swap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "决定性排他锚点为动宾介词搭配“___ roles with sb”（与某人互换角色/职责）。在外交模拟演练与组织行为学语域中，表示双方对称性地转换功能或视角时，只有“swap”能与“roles with”构成高度固定的自然搭配，其余选项均构成严重的语义冲突或搭配错误。",
+    "distractor_analysis": {
+      "swap": "正确。“swap roles with sb”为英语中高度固定的动词短语搭配，意为“与某人互换角色/职责”，广泛应用于外交模拟、博弈谈判及心理学实训语境，与后文“roles with their foreign counterparts”达成严格的句法搭配与精准的语义逻辑。",
+      "barter": "错误。“barter”专指“以物易物（不用货币交换商品或服务）”或作贬义交易（如“barter away”），其宾语必须为具备经济价值的有形商品或可交易的资产，不可接抽象职责或功能身份构成“*barter roles with”，存在严重的搭配冲突。",
+      "cash": "错误。“cash”为金融货币类及物动词（兑现支票、提取现金），完全无法与“roles with sb”搭配，语法与语义均不通。",
+      "sell": "错误。“sell”意为“出售、出卖”，表单向的货币买卖或背叛行为，无法与“roles with sb”形成表示双向视角对称互换的句法构型。"
+    },
+    "translation": "在双边危机模拟演练中，高级谈判代表被要求与外国同行互换角色，以便更深刻地理解驱动各代表团行动的国内压力与战略考量。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_17",
+    "group_id": 729,
+    "group_name": "bask, sprawl, recline, sun",
+    "level": "TEM-8",
+    "target_word": "bask",
+    "question": "Rather than address systemic fiscal deficits, the administration chose to ___ in the fleeting adulation of international investors, ignoring structural fragilities until market confidence abruptly disintegrated.",
+    "options": [
+      "bask",
+      "sprawl",
+      "recline",
+      "sun"
+    ],
+    "answer": "bask",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'in' 以及抽象宾语 'the fleeting adulation of international investors'（国际投资者短暂的吹捧与奉承）。四词中仅 bask 具备认知与心理层面的隐喻引申义，即固定构式 'bask in' 表示“沉浸于/沉溺于（赞誉、荣光、热度）”；其余三词均局限于纯物理层面的身体姿势或日光暴露，无法与抽象评价性名词搭配。",
+    "distractor_analysis": {
+      "bask": "正确。bask 原义指在温暖的阳光或炉火下取暖，在高级学术及政经政论语境中，常用于 FIELD_COGNITION 领域的隐喻表达，构成固定习语 bask in something（如 adulation, glory, praise, approval），表示“沉湎于、沉醉于（令人愉悦的赞誉、掌声或成就感）”。该词精准呼应执政当局对短期市场赞誉的心智沉迷与盲目乐观。",
+      "sprawl": "错误。sprawl 意为“伸开四肢躺卧”或“（城市、文本等）杂乱无章地蔓延扩展”，通常与 across, over 等介词搭配，在语义和句法上均无法与 in the adulation 搭配表示“沉浸于赞扬”。",
+      "recline": "错误。recline 意为“斜倚、靠坐、斜躺”，强调身体依靠在椅背或卧具上的物理动作（如 recline on a chaise longue），属于正式的体态动词，不能接抽象社交评价名词（adulation）来表达心理上的享受或陶醉。",
+      "sun": "错误。sun 用作动词时意为“晒太阳、晒日光浴”，通常为不及物动词或接反身代词（sun oneself），仅用于物理上的阳光照射，不能引申为“沉浸于吹捧之中”，存在严重的语义断裂。"
+    },
+    "translation": "本届政府并未着力解决系统性财政赤字，反而选择沉湎于国际投资者短暂的阿谀奉承之中，对结构性脆弱视而不见，直至市场信心骤然瓦解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_18",
+    "group_id": 729,
+    "group_name": "bask, sprawl, recline, sun",
+    "level": "TEM-8",
+    "target_word": "sprawl",
+    "question": "Overcome by profound mental exhaustion after hours of contentious theoretical debate, the delegates began to ___ across the lounge furniture, their ungainly postures reflecting an absolute surrender of decorum.",
+    "options": [
+      "bask",
+      "sprawl",
+      "recline",
+      "sun"
+    ],
+    "answer": "sprawl",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'across the lounge furniture' 以及后文的关键表意锚点 'their ungainly postures reflecting an absolute surrender of decorum'（他们笨拙散乱的体态，反映出礼仪的彻底荡然无存）。在表示躺卧姿态的近义词中，仅 sprawl 专指“四肢摊开、散漫失态地瘫坐或横躺”；recline 强调优雅、端庄、舒适的斜倚，与 ungainly 发生不可调和的语义冲突；bask 与 sun 缺乏肢体散乱的语义特征且不能接 across。",
+    "distractor_analysis": {
+      "sprawl": "正确。sprawl 意为“伸开四肢散乱躺卧、手脚摊开瘫坐”，其核心语义特征包含姿态的漫无节制、笨拙失范（ungainly, awkward, or careless posture），且常与 across 连用表示身体跨越摊开在多件家具或大面积表面上。这与句中因高度脑力枯竭而导致的不雅体态（ungainly postures）及礼节丧失（surrender of decorum）严密契合。",
+      "bask": "错误。bask 意为“舒适地取暖”或“沉浸于温暖、光彩中”，句法上通常要求介词 in（如 bask in the sun），不能接 across the lounge furniture 来描述横七竖八的瘫躺姿势，且缺乏“肢体散乱失态”的体态义素。",
+      "recline": "错误。recline 意为“优雅地斜倚、倚靠”，带有庄重、从容、舒适的语义色彩（如古典画作中贵族的横卧），通常搭配介词 on 或 upon。它与句中明确强调的 ungainly（笨拙难看的、不雅的）及对礼节的丧失（surrender of decorum）在文体风格和语用色彩上完全相反。",
+      "sun": "错误。sun 意为“晒太阳”，必须以存在直射日光为语义前提，无法在室内休息室家具（lounge furniture）的语境下成立，更不能接 across 来表示肢体随意瘫开的姿势。"
+    },
+    "translation": "经过数小时激烈的理论辩论，代表们陷入了极度的脑力耗竭，纷纷四肢大张地瘫躺在休息室的家具上，其散漫不雅的体态表明正式礼节已荡然无存。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_19",
+    "group_id": 730,
+    "group_name": "bawl, roar, yell, bellow",
+    "level": "TEM-8",
+    "target_word": "bawl",
+    "question": "During the internal audit debriefing, the senior inspector did not merely record procedural violations; he proceeded to vehemently ___ the regional managers out for their fraudulent reporting, leaving the entire compliance team shaken.",
+    "options": [
+      "bawl",
+      "roar",
+      "yell",
+      "bellow"
+    ],
+    "answer": "bawl",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置的及物动词短语结构“___ [人称宾语] out for [过失原因]”（vehemently ___ the regional managers out for their fraudulent reporting）构成决定性语法与搭配锚点。在英语中，仅有短语动词“bawl sb out (for sth)”表示“因……严厉斥责/痛骂某人”，其余三词均无此及物动词短语搭配。",
+    "distractor_analysis": {
+      "bawl": "正确。bawl 与副词 out 构成固定及物短语动词“bawl somebody out (for something)”，意为“严厉斥责、痛斥某人”。本句语境为审计主管因虚假汇报而对大区经理进行极其严厉的当面训斥，句法结构与语义语域均完全吻合。",
+      "roar": "错误。roar 虽可表示大声吼叫，但在作短语动词时，“roar out”仅能接言语或声音作宾语（如 roar out an oath 吼出誓言），绝不能接人称代词/名词宾语构成“*roar sb out*”来表示“训斥/斥责”，产生严重的句法与搭配割裂。",
+      "yell": "错误。yell 表示大声叫嚷，表达训斥或愤怒时必须接介词 at（即 yell at somebody for something）；英语中根本不存在“*yell somebody out*”的及物动词短语搭配，属于语法错误。",
+      "bellow": "错误。bellow 指发出低沉如公牛般的怒吼，其表达斥责或吼叫时同样接介词 at（bellow at someone），短语“bellow out”仅能接具体的口令、歌曲或声音（如 bellow out orders），绝无法带人称宾语表达训诫，属于搭配不成立。"
+    },
+    "translation": "在内部审计汇报会上，资深检查员不仅记录了违规程序，还因虚假汇报将各大区经理痛斥了一顿，令整个合规团队惊骇不已。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b72_20",
+    "group_id": 730,
+    "group_name": "bawl, roar, yell, bellow",
+    "level": "TEM-8",
+    "target_word": "bawl",
+    "question": "In her poignant ethnographic study of displacement, the anthropologist observed that traumatized refugees would frequently retreat to isolated ruins to ___ their eyes out, releasing suppressed agony away from the community's stoic gaze.",
+    "options": [
+      "bawl",
+      "roar",
+      "yell",
+      "bellow"
+    ],
+    "answer": "bawl",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“___ their eyes out”（哭得双眼红肿/痛哭流涕）构成了极其严格且排他的英语躯体习语搭配（somatic idiom）。在四个选项中，仅有 bawl 兼具“嚎啕大哭（weep/wail noisily）”的核心义项并能进入“bawl one's eyes out”这一不可替换的固定习语中。",
+    "distractor_analysis": {
+      "bawl": "正确。bawl 是该组词中唯一兼具“大声叫喊”与“号啕大哭、痛哭流涕”双重语义特征的词，其构成的固定习语“bawl one's eyes out”（把眼睛哭肿、痛哭不已）与文中的“releasing suppressed agony”（释放压抑的痛苦）在语义色彩与句法搭配上均高度契合。",
+      "roar": "错误。roar 强调如狮吼或波涛般洪亮、低沉且持续的咆哮或哄笑，侧重声学共鸣，不含“流泪痛哭”的语义，英语中绝对不存在“*roar one's eyes out*”的习语搭配。",
+      "yell": "错误。yell 指因恐惧、愤怒或兴奋发出的尖锐、刺耳的叫声（shriek/scream），缺乏伴随泪水的悲恸哭泣之义，亦不能与“one's eyes out”发生搭配，属于搭配与语义双重不符。",
+      "bellow": "错误。bellow 指发出深沉、中空的怒吼或因极度痛苦发出的号叫，本义源自公牛吼叫，侧重愤怒或狂暴的嗓音，完全不具备“伤心落泪、痛哭”的认知概念，习语“*bellow one's eyes out*”在英语中不存在。"
+    },
+    "translation": "在她关于流离失所现象的深刻民族志研究中，人类学家观察到，饱受创伤的难民常常退到僻静的废墟中痛哭流涕，避开同胞坚忍克制的目光，尽情宣泄被压抑的剧痛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

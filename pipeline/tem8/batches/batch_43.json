@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b43_01",
+    "group_id": 431,
+    "group_name": "bogus, counterfeit, fake, bastard",
+    "level": "TEM-8",
+    "target_word": "bogus",
+    "question": "Investigating exploitative labor practices within the gig economy, the regulatory commission penalized the delivery conglomerate for institutionalizing ___ self-employment, whereby subordinate couriers were fraudulently classified as independent contractors to circumvent statutory benefits and payroll taxes.",
+    "options": [
+      "bogus",
+      "counterfeit",
+      "fake",
+      "bastard"
+    ],
+    "answer": "bogus",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中“institutionalizing ___ self-employment, whereby subordinate couriers were fraudulently classified as independent contractors to circumvent statutory benefits and payroll taxes”构成了严格的制度与法律定义锚点。在国际劳工法、产业关系学与监管政策（如欧盟委员会指令、国际劳工组织 ILO 及英国劳务仲裁裁决）中，“bogus self-employment”（虚假自雇）是具有唯一法定排他性的制度性专有名词（Term of Art）；counterfeit 仅用于物理实物或法定货币的仿造，fake 属于非术语性的日常泛指词，在法定规制语境中存在严重的制度性术语断裂，bastard 则表示私生或杂交异化，均无法在此成立。",
+    "distractor_analysis": {
+      "bogus": "正确。bogus 意为“虚假的；伪造的；非法捏造的”。在现代劳动法学、规制经济学及国际劳工组织（ILO）与欧盟等官方规制文本中，“bogus self-employment”（虚假自雇/假自雇）是被严格法典化、制度化的专业术语（Institutional Term of Art），特指平台企业为规避雇主社保缴费、法定休假及最低工资保障等法定义务，蓄意将实质处于从属依附地位的受雇劳动者伪装分类为“独立承包商”的违法行为。后置关系副词从句“whereby subordinate couriers were fraudulently classified as independent contractors...”对其法律内涵进行了严密、精准的语境闭环界定，bogus 为唯一契合该法定术语及学术语域的选择。",
+      "counterfeit": "错误。counterfeit 严格强调“伪造的、假冒的”，核心语义指向对具备法定形态或物理实体的真实物品（如法定货币、护照公文、专利商品或名牌消费品）进行外观与质地上的精确高仿复制（如 counterfeit banknotes, counterfeit drugs）。self-employment 属于抽象的契约身份与劳动力市场法律关系，不存在可供物理复制的原型实物，修饰 self-employment 属于严重的语义范畴越界与搭配断裂。",
+      "fake": "错误。fake 是宽泛的日常通用描述词，常指外表仿真、人造仿制或表面虚饰（如 fake leather, fake smile, fake ID）。在“regulatory commission”、“institutionalizing”、“statutory benefits”等高度严肃的劳动法制审查与法理定性语境中，fake 缺乏法律术语地位。在规制法学中，“bogus self-employment”是法定固有搭配，而“fake self-employment”属于不规范的非正式生造表达，会造成致命的制度性术语断裂（terminological rupture）。",
+      "bastard": "错误。bastard 作形容词时，本义为“私生的、非婚生的”，在社会科学与历史学学术语境中引申为“畸形异化的、杂交不纯的、偏离正统规范演变而来的”（如英国史学名著中的 bastard feudalism“私家封建制/杂种封建制”）。该词侧重于源流杂糅与血统或形态的非正统性，与蓄意规避法定劳动保障的合同欺诈行为毫无语义交集。"
+    },
+    "translation": "在对零工经济中的盘剥性用工行为展开调查后，监管委员会对该外卖物流巨头进行了重罚，因其将“虚假自雇”制度化——即蓄意将处于从属地位的配送员虚构分类为独立承包商，以此规避法定的社保福利与工资税。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_02",
+    "group_id": 431,
+    "group_name": "bogus, counterfeit, fake, bastard",
+    "level": "TEM-8",
+    "target_word": "counterfeit",
+    "question": "Cognitive neuroscience experiments reveal that even experienced bank tellers struggle to differentiate authentic banknotes from sophisticated ___ bills, as sensory expectations often override anomalous tactile cues during high-speed cash handling.",
+    "options": [
+      "bogus",
+      "counterfeit",
+      "fake",
+      "bastard"
+    ],
+    "answer": "counterfeit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“differentiate authentic banknotes from sophisticated ___ bills”构建了极强的前后对照结构。修饰法定流通纸币（bills/banknotes）并与 authentic（真品的、真实的）形成严格法定与司法技术对立的术语只有 counterfeit（伪造的、假冒的）。bogus 无法用于描述高精度的物理仿造货币，fake 属于非正式通用语，bastard 语义完全无关。",
+    "distractor_analysis": {
+      "counterfeit": "正确。counterfeit 专指“以欺诈为目的对有价值的正品或官方票证进行违法仿造的（forged）”。在认知神经科学研究感知辨别（perceptual discrimination）的实验语境中，与前文的“authentic banknotes”（真实钞票）构成专业且不可替代的平行反义对照，“counterfeit bills/banknotes”是金融法学与物证感知测试中的唯一规范技术术语。",
+      "bogus": "错误。bogus 强调“名不副实的、毫无实质合法依据的骗局”（如 bogus university, bogus claims），侧重于抽象层面的虚妄和无凭无据，不能用于指代物理上高度精确仿造的假钞（forged currency）。在专业货币鉴伪语境中，“bogus bills”不符合地道法理与金融学术表达习惯。",
+      "fake": "错误。fake 虽然在口语中可表达假钞（fake money），但在包含“cognitive neuroscience experiments”、“anomalous tactile cues”等高级学术词汇的正式科学语篇中，fake 会造成明显的语体崩塌（stylistic register clash），缺乏专业词汇的精确度与技术分量。",
+      "bastard": "错误。bastard 作形容词意为“私生的、畸变杂合的、非正统的”，在语义上与货币真伪辨识毫不相干，放入句中会造成严重的逻辑与语义荒谬。"
+    },
+    "translation": "认知神经科学实验表明，即使是经验丰富的银行出纳员也很难区分真钞与高精度的假钞，因为在高速处理现金的过程中，感知预期往往会压制异常的触觉线索。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_03",
+    "group_id": 432,
+    "group_name": "carnal, sensual, animal, physical",
+    "level": "TEM-8",
+    "target_word": "carnal",
+    "question": "In early modern jurisprudence, statutes governing sexual offenses avoided anatomical explicitness by framing the felony as unlawful ___ knowledge, an archaic legal terminus technicus that treated women primarily as patriarchal property rather than autonomous agents.",
+    "options": [
+      "carnal",
+      "sensual",
+      "animal",
+      "physical"
+    ],
+    "answer": "carnal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW",
+    "anchor_clue": "Decisively anchored by the legal-historical register ('jurisprudence', 'statutes governing sexual offenses', 'felony') and the appositive 'an archaic legal terminus technicus', which uniquely mandates the codified common-law term of art 'unlawful carnal knowledge' (signifying sexual intercourse), whereas the other options produce epistemological category errors ('sensual/animal knowledge') or severe legal collocational ruptures ('physical knowledge').",
+    "distractor_analysis": {
+      "carnal": "正确。carnal 在普通法及法学史中具有高度专有且固定的法律专门术语（terminus technicus）用法。“carnal knowledge”（在成文法中常作“unlawful carnal knowledge”，源自拉丁法学概念 carnalis cognitio）是早期现代刑法典与判例法中指代“性交/强奸行为”的标准法定措辞。句中“jurisprudence”（法学）、“statutes governing sexual offenses”（规制性犯罪的成文法）、“felony”（重罪）以及同位语“archaic legal terminus technicus”（古老的法律专门术语）构成了无可辩驳的绝对语域与搭配锚点，唯有 carnal 能够成立。",
+      "sensual": "错误。sensual 意为“感官的，肉体享乐的”，侧重于五官（视觉、听觉、味觉等）所获得的审美或生理愉悦。在认识论与哲学中，“sensual knowledge”特指通过感官知觉获取的“感性认知/经验知识”（sensory perception），在刑法与法学语境中完全不存在“sensual knowledge”这一法定概念，代入句中会导致法理逻辑断裂与荒谬语义（误作“非法的感官认知”）。",
+      "animal": "错误。animal 强调生物性、兽性或动物本能。在认识论和认知科学中，“animal knowledge”指非人类动物的认知能力或本能认知（与人类的反思性认知相对），在刑法语境中毫无立足之地，与后文界定性犯罪重罪的专门法学术语完全脱节。",
+      "physical": "错误。physical 为客观描述词，指解剖学、生理学层面的“身体的”或物质世界的“物理的”。“physical knowledge”在学术英语中通常指对物理学规律的理解或本体感觉（somatic awareness），从未被任何英美法系成文法用作指代性侵重罪的专门术语，无法形成合法的法学固定搭配。"
+    },
+    "translation": "在早期现代法学中，规制性犯罪的成文法为了避免解剖学层面的露骨描述，将该重罪界定为‘非法肉体接触/性交（carnal knowledge）’；这一古老的专门法律术语实质上是将女性主要视为父权制财产，而非具有自主权的独立主体。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_04",
+    "group_id": 432,
+    "group_name": "carnal, sensual, animal, physical",
+    "level": "TEM-8",
+    "target_word": "sensual",
+    "question": "In his critique of aestheticism, the essayist observed that the protagonist’s pursuit of ___ gratification—manifested through exotic perfumes, vintage wines, and tactile luxuries—focused on the voluptuous pleasure of the senses rather than base, fleshly lust.",
+    "options": [
+      "carnal",
+      "sensual",
+      "animal",
+      "physical"
+    ],
+    "answer": "sensual",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The exemplification 'exotic perfumes, vintage wines, and tactile luxuries' alongside 'voluptuous pleasure of the senses rather than base, fleshly lust' demands a word denoting hedonic, sensory gratification while decisively excluding carnal lust.",
+    "distractor_analysis": {
+      "sensual": "正确。韦氏词典指出，sensual 强调“感官的满足与享乐（gratification of the senses for the sake of the pleasure itself），常带有丰腴、奢靡或沉溺于感官愉悦（voluptuousness）的意味”。句中具体列举的“exotic perfumes, vintage wines, and tactile luxuries”（异域香水、陈年佳酿、触觉奢华）精确对应眼、耳、鼻、舌、身等感官层面的享受，与后半句“voluptuous pleasure of the senses rather than base, fleshly lust”形成无缝衔接。",
+      "carnal": "错误。carnal 特指粗鄙的肉体情欲与性冲动（marked by appetites of the body, suggesting lust or baseness）。后文明确设置了排他锚点“rather than base, fleshly lust”（而非粗鄙的肉体情欲），若选 carnal 将导致句子产生直接的逻辑矛盾与语义颠倒，且 carnal 无法用于修饰品酒、闻香等精致的五感审美体验。",
+      "animal": "错误。animal 强调粗暴野蛮的动物本能或茹毛饮血的原始驱力（如 animal aggression），与唯美主义（aestheticism）中高度文明化、精细化的五感奢华体验存在极大的语域与内涵冲突。",
+      "physical": "错误。physical 属于中性的科学/生理描述词，仅指肉身、生理机制或物质实在（如 physical exertion），缺乏“沉醉于感官美感与丰腴愉悦”的享乐主义内涵，无法准确表达“sensual gratification”所承载的唯美主义感官沉溺。"
+    },
+    "translation": "在对唯美主义的批判中，该散文家指出，主人公对感官享受的追求——体现于异域香水、陈年佳酿与触觉奢华——聚焦于感官的丰盈愉悦，而非粗鄙的肉体情欲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_05",
+    "group_id": 433,
+    "group_name": "consummate, stark, pure, gross",
+    "level": "TEM-8",
+    "target_word": "consummate",
+    "question": "In her seminal treatise on developmental cognition, the theorist synthesized decades of contradictory neuroimaging data with ___ mastery, establishing a coherent conceptual framework that revolutionized the study of neural plasticity.",
+    "options": [
+      "consummate",
+      "stark",
+      "pure",
+      "gross"
+    ],
+    "answer": "consummate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The academic register evaluating supreme intellectual command uniquely selects the collocation 'with consummate mastery'. Distractors are strictly excluded: 'stark' (bleak/bare) contradicts positive mastery; 'gross' (flagrant/coarse) introduces a pejorative clash; 'pure' (unmixed/sheer) does not denote cultivated, apex virtuosity.",
+    "distractor_analysis": {
+      "consummate": "正确。作形容词，意为“炉火纯青的、造诣精深的、完美的”（complete in every detail; of the highest degree of skill or perfection）。在学术书评与理论评述语域中，“with consummate mastery”（以极其纯熟精湛的造诣/掌控力）是高度经典的修辞搭配，完美契合后文理论家化解矛盾数据、创立里程碑框架的语境。",
+      "stark": "错误。含义为“严酷的、荒凉的、赤裸的”（harsh, grim, bare），多用于修饰 reality、contrast 或 terror 等词，与表示卓越智力技巧与造诣的褒义名词 mastery 在语义与逻辑上发生严重冲突。",
+      "pure": "错误。主要表示“纯净的、纯粹的”或“不掺杂质的”（free from mixture; sheer），常修饰 reason、speculation、chance 等词；用来修饰 mastery 既不符合高级学术英语的惯用搭配，也无法表达“技巧达到登峰造极、完全成熟”的最高境界语义。",
+      "gross": "错误。多用于贬义语境，意为“粗俗的、极其严重的、昭彰的”（flagrant, glaring, coarse），如 gross negligence（严重疏忽）或 gross misconduct（严重不端）；若修饰代表崇高学术成就的 mastery，会产生荒谬的语义倒错与逻辑断裂。"
+    },
+    "translation": "在其关于发展认知学的开创性专著中，该理论家以炉火纯青的精湛造诣综合了数十年互相矛盾的神经影像数据，建立起一个彻底变革神经可塑性研究的连贯概念框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_06",
+    "group_id": 433,
+    "group_name": "consummate, stark, pure, gross",
+    "level": "TEM-8",
+    "target_word": "stark",
+    "question": "The experimental findings brought into ___ relief the fundamental flaws of the classical computational model, demonstrating that human perceptual categorization depends far more on embodied sensorimotor feedback than previously assumed.",
+    "options": [
+      "consummate",
+      "stark",
+      "pure",
+      "gross"
+    ],
+    "answer": "stark",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The idiomatic academic construction 'brought into stark relief' (sharply outlined or dramatically highlighted) is an immutable lexical chunk. 'Consummate', 'pure', and 'gross' cannot syntactically or collocationally enter the 'into ... relief' idiom.",
+    "distractor_analysis": {
+      "stark": "正确。作形容词，本义为“光秃秃的、鲜明的、严峻的”，在此构成学术论著中极为经典的固定习语搭配“bring / throw into stark relief”（使……极其鲜明地凸显出来、使之形成鲜明轮廓）。根据权威词典定义，stark 可表“sharply delineated; distinct”，与 relief（轮廓、浮雕效果）形成固定搭配，精准传达出实证结果将经典模型的内在缺陷“尖锐而清晰地暴露出来”的认知语境。",
+      "consummate": "错误。含义为“完美的、至高造诣的”，修饰主体通常为具备高超技能的人或艺术、专业素养（如 consummate diplomat, consummate skill），完全无法进入“into ... relief”的空间浮雕隐喻搭配中，造成搭配断裂。",
+      "pure": "错误。虽然 pure 可用作程度加强词（如 pure folly, pure coincidence），但英语中不存在“*bring into pure relief”的表达，违背了母语固定搭配习惯。",
+      "gross": "错误。主要用于表示“严重的、显而易见的（尤指过失）”或“总共的”（flagrant, glaring, overall），如 gross error，与短语“into ... relief”毫无搭配可能，属于严重的语体与搭配误用。"
+    },
+    "translation": "这些实验结果极其鲜明地凸显出经典计算模型的根本缺陷，证明人类的知觉归类过程远比先前所认为的更依赖于具身的感觉运动反馈。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_07",
+    "group_id": 434,
+    "group_name": "cumbersome, inept, clumsy, awkward",
+    "level": "TEM-8",
+    "target_word": "cumbersome",
+    "question": "Although the committee's diagnostic framework boasted comprehensive theoretical coverage, its exceedingly ___ classification system rendered data processing so sluggish and labored that clinicians abandoned it for pragmatic heuristics.",
+    "options": [
+      "cumbersome",
+      "inept",
+      "clumsy",
+      "awkward"
+    ],
+    "answer": "cumbersome",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "rendered data processing so sluggish and labored: Merriam-Webster defines cumbersome as applying specifically to what is physically or mentally so huge or complicated that movement or action is sluggish or labored.",
+    "distractor_analysis": {
+      "cumbersome": "正确。句中‘rendered data processing so sluggish and labored’（使数据处理变得迟缓而费力）是核心语义锚点。Merriam-Webster 明确辨析指出，cumbersome 专用于指代某物在物理或心智/认知建构上因体量过于庞大、结构过于复杂而使运作‘sluggish or labored’（迟缓且费劲）。修饰过于繁冗复杂的分类体系（classification system），语义与语域最为契合。",
+      "inept": "错误。inept 侧重指人或执行行为缺乏技能、笨拙无能（lacking skill or competence; incapable），属于施动者能力的缺陷，无法修饰表客观认知架构与流程机制的‘classification system’，存在范畴错配（category mistake）。",
+      "clumsy": "错误。clumsy 侧重动作僵硬不协调、手法粗糙或造物形式简陋（crude nonfunctional form）。前文已指出该框架具备‘comprehensive theoretical coverage’（完备的理论覆盖），说明体系构建精密繁复而非粗制滥造，用 clumsy 会造成语境逻辑抵牾。",
+      "awkward": "错误。awkward 强调社交尴尬、难堪或因姿态不当引起的不适与不便（ungainly, ill-at-ease），缺乏 cumbersome 所特有的因‘结构冗余沉重导致运转缓慢低效’的系统性学术语境色彩。"
+    },
+    "translation": "尽管该委员会的诊断框架拥有完备的理论覆盖面，但其极其繁琐笨重的分类体系使得数据处理变得异常迟缓费力，以致临床医生最终放弃它而采用务实的启发式评估法。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_08",
+    "group_id": 434,
+    "group_name": "cumbersome, inept, clumsy, awkward",
+    "level": "TEM-8",
+    "target_word": "inept",
+    "question": "Hamstrung by an obstinate attachment to obsolete doctrine, the directorate’s ___ stewardship failed entirely to adapt regulatory mechanisms to the volatile demands of algorithmic high-frequency trading.",
+    "options": [
+      "cumbersome",
+      "inept",
+      "clumsy",
+      "awkward"
+    ],
+    "answer": "inept",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "failed entirely to adapt regulatory mechanisms to the volatile demands: Merriam-Webster specifies that inept often implies complete failure or incapacity to adapt oneself or a thing to the end in view.",
+    "distractor_analysis": {
+      "inept": "正确。句中‘failed entirely to adapt regulatory mechanisms to the volatile demands’为决定性语义锚点。Merriam-Webster 辨析明确指出，inept 核心内涵在于‘implies complete failure or incapacity to adapt oneself or a thing to the end in view’（暗示完全无力或未能使其适应既定目标），用于指代监管层因认知僵化、能力缺失导致的‘无能管理/治理’（inept stewardship），在政经及认知学术语域中最为贴切精准。",
+      "cumbersome": "错误。cumbersome 强调实体或系统庞大、沉重、运转费力，用于修饰‘stewardship’（管理职责、管理才能）属于搭配不当，无法表达管理者的能力欠缺与失职。",
+      "clumsy": "错误。clumsy 侧重身体行动笨拙、举止欠缺圆滑或手段粗疏（tactless, heavy-handed），用于描述高层金融监管体系在战略认知上的根本性无能与不称职显得语义过浅且语域不符。",
+      "awkward": "错误。awkward 侧重造成局促不安、窘迫或处境棘手尴尬（causing embarrassment or inconvenience），无法体现句子所要求的‘缺乏专业治理资质与适应能力的彻底失职’。"
+    },
+    "translation": "受制于对过时信条的固执坚守，该董事会无能的管理完全未能使监管机制适应算法高频交易的瞬息万变的需求。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_09",
+    "group_id": 435,
+    "group_name": "curt, terse, crisp, concise",
+    "level": "TEM-8",
+    "target_word": "curt",
+    "question": "Exasperated by the committee’s relentless scrutiny of his financial records, the director issued a ___ refusal to cooperate, an ill-tempered rebuff that lawmakers immediately censured as a flagrant breach of parliamentary decorum.",
+    "options": [
+      "curt",
+      "terse",
+      "crisp",
+      "concise"
+    ],
+    "answer": "curt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后置同位语短语'an ill-tempered rebuff that lawmakers immediately censured as a flagrant breach of parliamentary decorum'（一种被议员们谴责为公然违背议会礼仪的恶劣回绝）提供了决定性语义锚点，明确要求填入具有‘因不耐烦或粗鲁无礼而极其简短生硬’（rude, discourteous, or ill-tempered brevity）负面评价色彩的词，唯有curt符合。",
+    "distractor_analysis": {
+      "curt": "正确。Merriam-Webster明确定论：curt强调'implies such brevity as to give the impression of rudeness, insolence, or ill temper'（短促得令人感到粗鲁、傲慢或脾气暴躁）。句中'ill-tempered rebuff'与'breach of decorum'在语义场上与curt的粗鲁冒犯性形成完美照应。",
+      "terse": "错误。terse主要指语言文风精炼紧凑、毫无冗余（compact, clear, and devoid of superfluity），虽在特定语境下可引申指态度紧绷少言（tight-lipped），但其核心语义并不必然包含'违反社交礼节的粗鲁、恶劣态度'（ill-tempered or insolent rudeness），无法精准对应后文的严肃谴责语境。",
+      "crisp": "错误。crisp作形容词修饰言语或文风时，常指干脆利落、清晰明快、充满活力（brisk, clear-cut, and decisive），带有鲜明的正面积极色彩，与句中'ill-tempered'和'breach of decorum'等负面批判语境产生强烈的语用冲突。",
+      "concise": "错误。concise指用极少的文字清晰全面地表达丰富内容（expressing much in few words），是学术与正式交际中所推崇的严谨、精炼美德，绝不能用于形容一种带有敌意与失礼色彩的抵触性回绝。"
+    },
+    "translation": "因对委员会对其财务记录的无休止盘查感到恼怒，该主管给出了生硬无礼的拒绝配合答复，这一脾气恶劣的回绝随即被议员们谴责为对议会礼仪的公然践踏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_10",
+    "group_id": 435,
+    "group_name": "curt, terse, crisp, concise",
+    "level": "TEM-8",
+    "target_word": "terse",
+    "question": "Maintaining his diplomatic composure despite the hostile interrogation, the envoy issued a ___ statement of just seven words, a measured yet tight-lipped reply that strictly observed protocol while refusing to disclose any operational details.",
+    "options": [
+      "curt",
+      "terse",
+      "crisp",
+      "concise"
+    ],
+    "answer": "terse",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境锚点由两部分构成：前文的'Maintaining his diplomatic composure'与'strictly observed protocol'（保持外交克制、严格遵守礼仪）排除了带有粗鲁冒犯意味的词；而后文的'of just seven words'与'refusing to disclose any operational details'（仅七个词、拒绝透露任何细节）排除了强调'信息密度大、言简意赅'的词，精准锁定了表示'言语极度精省、紧绷克制且惜字如金'（taut, tight-lipped, and sparing of words without being overtly rude）的terse。",
+    "distractor_analysis": {
+      "curt": "错误。curt的核心义素包含粗鲁无礼（ill-mannered brevity），而句中明确强调该特使'maintaining diplomatic composure'（保持外交克制）并'strictly observed protocol'（严格遵循礼宾规范），二者在语用礼貌层面上直接矛盾。",
+      "terse": "正确。terse在此处准确传达出外交场合中那种在压力下极度克制、字斟句酌、紧绷且惜字如金的简短特质（taut, economical, and devoid of superfluity），既体现了篇幅的极其精简，又吻合'tight-lipped'的保守秘密状态。",
+      "crisp": "错误。crisp侧重指说话或行文清脆果断、爽朗利落（brisk, sharp, and lively），通常带有开朗从容或干练高效的积极感性色彩，与本句中在敌意审问下高度紧绷、守口如瓶（tight-lipped）的外交博弈氛围不符。",
+      "concise": "错误。根据词源及词典定义，concise的核心是'expressing much in few words'（言简意赅、信息高度概括浓缩）。而句中的声明仅有七个词且'refusing to disclose any operational details'，并不传递实质性信息，故属于惜字如金的terse，而非高度浓缩信息的concise。"
+    },
+    "translation": "尽管面临带有敌意的质询，该特使仍保持着外交克制，仅发表了一份只有七个单词的紧绷简短声明；这番措辞审慎却守口如瓶的回应严格遵守了礼宾规程，同时拒绝透露任何行动细节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_11",
+    "group_id": 436,
+    "group_name": "delirious, frantic, mad, wild",
+    "level": "TEM-8",
+    "target_word": "delirious",
+    "question": "The unexpected announcement of the hostages' unconditional release left their families virtually ___ with relief, a state of ecstatic disorientation that swiftly dissolved weeks of agonizing suspense into tearful celebration.",
+    "options": [
+      "delirious",
+      "frantic",
+      "mad",
+      "wild"
+    ],
+    "answer": "delirious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'with relief' 与同位语 'a state of ecstatic disorientation'（极度狂喜而神志恍惚的状态）构成了决定性排他锚点。根据韦氏词典，delirious 专指因强烈情绪（尤指极度欣喜、宽慰）而陷入失控狂喜、近乎语无伦次的认知状态（marked by uncontrolled excitement or emotion / ecstatic）；而 frantic 与 mad 在语义搭配上均排斥正面消解焦虑的 relief，wild 亦无法表达此种狂喜失常的内在认知状态。",
+    "distractor_analysis": {
+      "delirious": "正确。delirious 意为“极度兴奋的，狂喜失常的”，韦氏词典释义为 'marked by uncontrolled excitement or emotion : ecstatic'。在句中与 'with relief' 构成经典高阶搭配，完美契合后文 'a state of ecstatic disorientation'（狂喜而神智眩晕的状态）的语境与认知域色彩。",
+      "frantic": "错误。frantic 强调由于极度焦虑、恐惧或紧迫而导致的“惊慌失措的、手忙脚乱的”（emotionally out of control through worry or fear）。在搭配上它常接消极或高压情绪（如 frantic with worry/fear），与后文如释重负、欣喜若狂的正面解脱（relief / tearful celebration）在情感极性上发生严重冲突。",
+      "mad": "错误。mad 在正式书面语中表示“精神失常的”或“狂怒的”，其搭配 'mad with' 通常接破坏性或负面激情（如 mad with rage/jealousy/pain），绝不能与 relief 搭配表示如释重负的欢喜，语体与语义均不契合。",
+      "wild": "错误。wild 强调行为举止的“狂野、不受约束或野蛮无序”（unrestrained, unruly），多描述外部行为表象，无法精确传达由巨大解脱感引发的内在“神志恍惚的极度狂喜（ecstatic disorientation）”，且 'wild with relief' 不符合英语本土高阶搭配惯例。"
+    },
+    "translation": "人质获无条件释放的突发消息让家属们欣喜若狂、如释重负；这种狂喜眩晕的状态迅速驱散了数周以来撕心裂肺的悬念，化作泪流满面的相拥庆贺。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_12",
+    "group_id": 436,
+    "group_name": "delirious, frantic, mad, wild",
+    "level": "TEM-8",
+    "target_word": "frantic",
+    "question": "Following the unexpected breakdown of the ceasefire, diplomats engaged in ___ negotiations throughout the night, their hurried, anxiety-driven deliberations reflecting a desperate struggle to prevent the localized skirmishes from escalating into full-scale war.",
+    "options": [
+      "delirious",
+      "frantic",
+      "mad",
+      "wild"
+    ],
+    "answer": "frantic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "名词搭配 '___ negotiations' 以及后文分词短语中 'hurried, anxiety-driven deliberations'（匆忙且充满焦虑的审议）构成了绝对排他锚点。frantic 专指因危机逼近、焦虑或绝望而引起的“匆忙混乱的、紧张狂乱的行动”（marked by fast and nervous, disordered, or anxiety-driven activity）；delirious、mad 和 wild 均无法与 negotiations 形成这种表示高压紧急斡旋的专业政治外交搭配。",
+    "distractor_analysis": {
+      "frantic": "正确。frantic 指“紧张忙乱的，手忙脚乱的”，韦氏词典明确定为其指代 'marked by fast and nervous, disordered, or anxiety-driven activity'。'frantic negotiations' 是国际关系与严肃新闻报道中的高度固定搭配，与后文的 'hurried, anxiety-driven deliberations' 形成无可挑剔的同义互证。",
+      "delirious": "错误。delirious 意为“精神错乱的、发谵妄的”或“欣喜若狂的”，多用来描绘认知失常或亢奋情绪状态，绝不能用于修饰外交谈判等高度务实、旨在化解危机的紧急行动，搭配严重断裂。",
+      "mad": "错误。mad 意为“疯癫的、极度愚蠢的”或“狂怒的”。虽然口语中偶有 'a mad rush' 等俗语，但在正式政治外交语境中修饰 negotiations 属于用词粗俗或语义不通，无法表达外交官在时间压力下的焦灼与匆忙应对。",
+      "wild": "错误。wild 意为“狂暴的、野生的、胡乱的”，用于行动时通常指漫无目的、缺乏自律或鲁莽放肆（如 wild guesses / wild parties），而句中指的是外交官在巨大焦虑与紧迫危机驱动下的“分秒必争、焦头烂额的谈判”，使用 wild 会造成语义逻辑扭曲。"
+    },
+    "translation": "在停火协议意外破裂后，外交官们整夜展开了分秒必争的紧急谈判，他们仓促而充满焦虑的审议，凸显出竭力遏制局部冲突升级为全面战争的绝望抗争。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_13",
+    "group_id": 437,
+    "group_name": "desirous, avid, greedy, hungry",
+    "level": "TEM-8",
+    "target_word": "desirous",
+    "question": "Although profoundly ___ of forging an enduring geopolitical reconciliation, the conservative envoys remained acutely aware that premature concessions might irreversibly compromise the sovereign autonomy of their fragile coalition.",
+    "options": [
+      "desirous",
+      "avid",
+      "greedy",
+      "hungry"
+    ],
+    "answer": "desirous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后接介词短语“of forging an enduring geopolitical reconciliation”，要求填入能与 of 构成固定介词搭配、且语义契合庄重外交与政治决策意愿的形容词；avid、greedy 与 hungry 在现代英语中均习惯接介词 for，且在语域和语义色彩上存在明显冲突。",
+    "distractor_analysis": {
+      "desirous": "正确。desirous 为正式文雅词汇，通常作表语，核心搭配为“be desirous of doing/something”（渴望/意欲达成某事），常用于外交、政论等庄重语境，准确表达代表们在政治理性层面“渴望实现和解”的庄严意图，句法搭配与语体风格完全吻合。",
+      "avid": "错误。avid 强调狂热的、极其热切的投入或贪得无厌的追求，现代英语中作表语时通常接介词 for（如 avid for acclaim），avid of 接动名词已属罕见废用搭配；且其狂热、激进的语义色彩与保守派外交官（conservative envoys）审慎克制的理性态度相悖。",
+      "greedy": "错误。greedy 含有强烈的贬义，指“贪婪的、自私多占的”，搭配介词通常为 for（如 greedy for power），既不能接 of forging，又破坏了外交和解这一崇高目标的严肃语境与褒义色彩。",
+      "hungry": "错误。hungry 表示对某种抽象事物的渴求时，必须搭配介词 for（如 hungry for success/change），构成“hungry of forging”在现代英语中属于严重句法错误；同时其隐喻色彩偏向本能或迫切饥渴，不符合本句严密理性的学术政论语体。"
+    },
+    "translation": "尽管保守派使节极度渴望达成持久的地缘政治和解，但他们依然清醒地认识到，过早做出妥协可能会不可逆转地损害其脆弱联盟的主权独立。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_14",
+    "group_id": 437,
+    "group_name": "desirous, avid, greedy, hungry",
+    "level": "TEM-8",
+    "target_word": "avid",
+    "question": "As an exceptionally ___ reader of Enlightenment treatises, Professor Harrington meticulously scrutinized the clandestine marginalia, demonstrating how radical subversive notions permeated seemingly conventional theological discourses.",
+    "options": [
+      "desirous",
+      "avid",
+      "greedy",
+      "hungry"
+    ],
+    "answer": "avid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空缺处直接作定语修饰表人名词 reader（“___ reader of Enlightenment treatises”），要求填入表示“极其热衷的、酷爱的”学术探索型修饰语；avid reader 为英语中描述狂热且执着阅读者的经典排他性搭配。",
+    "distractor_analysis": {
+      "avid": "正确。avid 常作定语，表示“极其热心的、酷爱的、孜孜不倦的”，与 reader 构成学术与文学领域极高频的经典搭配（avid reader），精准传达哈灵顿教授对启蒙文献狂热且专注的钻研状态。",
+      "desirous": "错误。desirous 在现代英语中属于典型的表语形容词（predicative adjective），几乎绝不作前置定语修饰名词（不存在 a desirous reader 的用法），此处造成严重的句法与搭配断裂。",
+      "greedy": "错误。greedy 带有明显的道德贬义色彩，指“贪婪的、不知餍足的”，修饰 reader 时会产生“自私暴食式掠夺”的荒谬涵义，与学术界严谨细致（meticulously scrutinized）的正面研读语境严重冲突。",
+      "hungry": "错误。hungry 作前置定语时主要表示生理上的“饥饿的”或指代资源匮乏的；虽然 hungry for knowledge 是合法谓语表达，但在前置修饰 reader 时，“hungry reader”偏向指代缺乏书籍阅读资源的读者，无法传达出学者对文献长期怀有狂热志趣的“酷爱”之意。"
+    },
+    "translation": "作为启蒙时期论著的热切研读者，哈灵顿教授细致审视了那些隐秘的批注，揭示了激进的颠覆性思想是如何渗透进表面上看似守旧的神学论述之中的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_15",
+    "group_id": 438,
+    "group_name": "destitute, devoid, free, barren",
+    "level": "TEM-8",
+    "target_word": "destitute",
+    "question": "Following the catastrophic collapse of the regional credit union, hundreds of self-employed artisans were rendered utterly ___, lacking the basic liquidity to maintain their workshops or procure daily subsistence for their families.",
+    "options": [
+      "destitute",
+      "devoid",
+      "free",
+      "barren"
+    ],
+    "answer": "destitute",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "句中关键句法语境为由致使系动词引导的表语结构 'were rendered utterly ___'，其后并列悬垂分词短语 'lacking the basic liquidity... or procure daily subsistence'。根据《韦氏词典》（Merriam-Webster），destitute 可直接作绝对表语，专指‘完全丧失财产与资源、陷入极度贫困者’（suffering extreme poverty; lacking possessions and resources），与副词 utterly 构成高度地道的经济学及社会政策学经典搭配；devoid 属于强制要求后接介词 of 的限制性形容词（strictly subcategorizes for a PP complement headed by 'of'），在此处不可孤立作表语，属于严重句法残缺；free 带有摆脱负累的释然褒义，与生计绝境构成荒谬的逻辑倒置；barren 修饰人时仅指生理不育（sterile），无法形容经济层面的赤贫破产。",
+    "distractor_analysis": {
+      "destitute": "正确。destitute 作表语形容词，权威词典释义为“极其穷困的、丧失基本生存资源的”（lacking possessions and resources; especially: suffering extreme poverty）。'rendered utterly destitute' 为经典学术英语搭配，与后文分词短语‘缺乏流动资金以维持工坊运转，亦无法筹措家人日常温饱’所构成的生计破产与绝境语境严丝合缝。",
+      "devoid": "错误。句法补足语缺失（syntactic subcategorization failure）。devoid 是一个纯粹的后接介词短语补足语的表语形容词，在句法规则上必须强制搭配介词 of（devoid of sth.，意为‘毫无……的’），现代英语中绝对不允许脱离 of 而独立孤立作表语（不存在 *rendered utterly devoid 这种合格构式），置入本句属于致命的句法结构残缺（ungrammatical）。",
+      "free": "错误。评价极性倒置与语篇逻辑矛盾。free 作表语时表示‘自由的、免受……负担或束缚的’，带有强烈的积极正面评价色彩（positive/liberating polarity）。若填入 free，则将信用社倒闭后工匠们连基本生计都无法维持的严重人道与财务灾难荒唐地定性为‘获得了彻底的自由’，与后半句的绝望生存困境构成严重的逻辑悖反。",
+      "barren": "错误。语义范畴错配（category mistake）。barren 在指代人时，其语义严格局限于生理层面的‘不育的、无法生育后代的’（incapable of producing offspring; sterile）；用于土地时指‘贫瘠不毛的’；用于智力活动时指‘枯燥无结果的’。它绝对不能用来指代从业人员在经济上的‘破产、贫困或丧失生存物资’，修饰面临严重财务危机的工匠属于严重的语义越界与搭配破裂。"
+    },
+    "translation": "在地区信用社遭遇灾难性倒闭后，数百名自雇手工业者陷入了一贫如洗的绝境，既缺乏维持工坊运转的基本流动资金，也无法为家人筹措日常温饱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_16",
+    "group_id": 438,
+    "group_name": "destitute, devoid, free, barren",
+    "level": "TEM-8",
+    "target_word": "devoid",
+    "question": "Cognitive psychologists observed that the patient's narrative, while grammatically flawless and syntactically intricate, was unnervingly ___ of emotional affect, delivered in a monotonic cadence that suggested profound psychological dissociation.",
+    "options": [
+      "destitute",
+      "devoid",
+      "free",
+      "barren"
+    ],
+    "answer": "devoid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于认知神经与精神病学固定搭配 'devoid of [emotional] affect'（完全缺失情感反应/情感色彩）。韦氏词典明确指出，devoid 强调某物全然不存在某种应有的属性、情感或表现（being without a usual, typical, or expected attribute; stresses the total absence of a thing）。destitute 仅用于必需物质、资源或生计的剥夺，不能搭配心理学情感状态（affect）；free 带有摆脱负面负担的褒义，与 'unnervingly' 及解离症病理语境冲突；barren 专指繁衍或产出层面的贫瘠，与 affect 搭配不当。",
+    "distractor_analysis": {
+      "devoid": "正确。devoid of 是认知科学与临床心理学中描述情感反应完全缺席、空洞无物的权威搭配（devoid of affect / devoid of emotion），精准呼应后文的 'monotonic cadence'（单调平缓的语调）与 'psychological dissociation'（心理分离/解离），符合韦氏词典对其‘全然缺乏应有特质’的定义。",
+      "destitute": "错误。destitute of 专指缺乏维持生存、运转所需的外部资源、资金、救济或基本手段（impoverished, lacking vital resources/means），强调‘贫困/匮乏’而非‘情感状态或心理特质的全然空无’。在英语中不能说 'destitute of affect'，属于词义内涵偏差与范畴错配（category error）。",
+      "free": "错误。free of/from 含有‘摆脱不良事物、免除有害成分’的积极语义倾向（如 free of symptoms, free of toxins）。句中的副词 'unnervingly'（令人不安地）与病理诊断 'psychological dissociation' 表明，情感反应的缺失是一种严重的异常病态；若填入 free of，则将情感反应曲解为某种‘被成功摆脱的毒素或负担’，严重违背临床语篇的情感基调与行文逻辑。",
+      "barren": "错误。barren of 侧重于缺乏生殖能力、土壤贫瘠或未能孕育出成果/思想（unproductive, sterile），多用于 barren of ideas, barren of results，无法用以修饰话语叙述中所表现出的心理情感特质（emotional affect），构成明显的语域与搭配冲突。"
+    },
+    "translation": "认知心理学家观察到，尽管该患者的叙述在语法上无可挑剔、句法结构也极为复杂，但却令人不安地全然缺失情感色彩，其以单调平缓的语调道出，暗示着存在严重的心理分离。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_17",
+    "group_id": 439,
+    "group_name": "dingy, drab, blue, dark",
+    "level": "TEM-8",
+    "target_word": "dingy",
+    "question": "Relegated to a ___ tenement room where peeling, smoke-discolored wallpaper and accumulated street grime bred an inescapable squalor, the novelist found his cognitive stamina eroded by the pervasive cheerlessness.",
+    "options": [
+      "dingy",
+      "drab",
+      "blue",
+      "dark"
+    ],
+    "answer": "dingy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "peeling, smoke-discolored wallpaper and accumulated street grime bred an inescapable squalor (锚定'不仅阴暗而且污秽、烟熏发黑、年久失修'的特异性语义)",
+    "distractor_analysis": {
+      "dingy": "正确。该词专指“阴暗而肮脏的、褪色变黑的、因年久失修或烟熏油污而显得破败昏暗的”（dark, dull, and dirty; shabby and discolored），在此处与后文的“smoke-discolored wallpaper”（烟熏褪色的壁纸）以及“accumulated street grime bred an inescapable squalor”（积聚的街垢滋生出的污秽）形成绝对呼应，精准传达出破败脏乱环境对人心理状态的消磨。",
+      "drab": "错误。主要强调“单调乏味的、缺乏色彩或生气的”（dull, lacking brightness or interest），通常形容色彩灰暗单一或生活沉闷，但并不包含“脏污、油烟熏黑、污垢积聚（dirty or grimy）”的核心义项，用于形容充斥着“street grime”和“squalor”的房间属于语义不充分。",
+      "blue": "错误。作形容词修饰空间时只能表示物理颜色“蓝色的”，若取其比喻义“忧郁的、沮丧的”（melancholic）通常作表语修饰人的心境（如 feel blue），不能作前置定语修饰 tenement room 来表达“破败脏乱且令人压抑”的处所。",
+      "dark": "错误。仅客观表示“缺少光线的、黑暗的”（lacking light）或“深色的”，属于通用物理属性词，完全缺乏 dingy 所特有的“因污垢、烟熏、破烂而显得污浊灰暗（shabby and soiled）”的限定性内涵，无法与下文的“grime”形成精准的语义共振。"
+    },
+    "translation": "被贬居于一间昏暗肮脏的出租屋里，剥落且被烟熏变色的壁纸与积聚的街头污垢滋生出无可逃避的污秽，这位小说家发现自己的精神耐力已被这无处不在的沉闷阴郁消磨殆尽。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_18",
+    "group_id": 439,
+    "group_name": "dingy, drab, blue, dark",
+    "level": "TEM-8",
+    "target_word": "drab",
+    "question": "Disillusioned by the ___ uniformity of the corporate campus, where identical concrete facades and muted gray cubicles stifled personal expression, the architect lamented the total absence of aesthetic vitality.",
+    "options": [
+      "dingy",
+      "drab",
+      "blue",
+      "dark"
+    ],
+    "answer": "drab",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "identical concrete facades and muted gray cubicles stifled personal expression... absence of aesthetic vitality (锚定'缺乏色彩生机、枯燥单调、千篇一律'而非'脏乱污秽')",
+    "distractor_analysis": {
+      "drab": "正确。该词核心义为“单调乏味的、灰暗无光的、缺乏色彩与活力的”（cheerless, dull, and monotonous），且与“uniformity”（千篇一律）构成高级学术英语与建筑批评中的经典固定搭配“drab uniformity”，完美契合后文“muted gray cubicles”（死气沉沉的灰色隔间）及“absence of aesthetic vitality”（审美活力的缺失）。",
+      "dingy": "错误。必须包含“dirty, grimy, soiled”（肮脏、污浊、破旧）的物理属性。句中描述的是整洁但呆板的现代企业园区（由混凝土与现代办公隔间构成），强调的是审美上的枯燥与无生机（sterility and monotony），而非年久失修、油污斑斑的脏乱，存在语境语义错配。",
+      "blue": "错误。在修饰抽象名词“uniformity”时无法表达“单调乏味”，且与后文“muted gray”（灰暗暗淡的）在视觉色彩认知上直接冲突，搭配不通。",
+      "dark": "错误。指“黑暗的、无光的”或引申为“阴暗邪恶的”（sinister）。现代企业办公空间采光充分，其问题在于缺乏个性与色彩的枯燥乏味，而非光照不足，“dark uniformity”无法准确传达“缺乏审美活力与色彩生机（colorless monotony）”的批评内涵。"
+    },
+    "translation": "面对企业园区那毫无生气的千篇一律——雷同的混凝土外立面与沉闷的灰色隔间压抑了所有个性表达，这位建筑师深感幻灭，并为这种审美活力的彻底丧失而扼腕叹息。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_19",
+    "group_id": 440,
+    "group_name": "drab, sombre, sober, colourless",
+    "level": "TEM-8",
+    "target_word": "drab",
+    "question": "Far from inspiring intellectual innovation, the laboratory’s ___ environment—dominated by muddy olive walls and uniform grey cubicles—imposed a dreary, spiritless monotony that researchers blamed for widespread cognitive stagnation.",
+    "options": [
+      "drab",
+      "sombre",
+      "sober",
+      "colourless"
+    ],
+    "answer": "drab",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "破折号内的具体视觉描写 'dominated by muddy olive walls and uniform grey cubicles'（充斥着浑浊的橄榄绿墙面与千篇一律的灰色隔间）及结果短语 'dreary, spiritless monotony'（沉闷乏味、了无生气的单调）构成了决定性排他锚点。drab 的核心义正是指因缺乏光泽活力或带有泥褐、灰绿等暗沉浊色而显得‘暗淡乏味、毫无生气且单调沉闷的’（dull, cheerless, and monotonous）；colourless 意为‘无色的’，与句中明确呈现的浑浊橄榄绿（muddy olive）直接冲突；sober 强调整洁稳重或克制得体，带有理性褒义；sombre 则带有悲剧沉痛或阴森晦暗色彩，无法准确形容制度化办公环境的寻常平庸沉闷。",
+    "distractor_analysis": {
+      "drab": "正确。drab 精确描述事物或环境‘暗淡单调、沉闷无趣、缺乏鲜亮光彩’（lacking brightness; cheerless and dull），在词源上便与灰褐、土黄及橄榄泥色等单调灰暗色调紧密绑定，在此与破折号内的环境细节（muddy olive, uniform grey）以及 'spiritless monotony'（了无生气的单调）形成严丝合缝的语境共振，精准传达出环境乏味对认知活力造成的消极压抑。",
+      "sombre": "错误。sombre 侧重指‘阴暗沉重、阴森忧郁、庄严悲凉’（dark, gloomy, grave），多用于描述葬礼、悲剧、恶劣天色或沉痛哀悼的幽暗压抑氛围。本句中实验室体现的是官僚科研机构陈旧平庸、毫无审美意趣的单调枯燥，远未达到 sombre 所具有的肃穆悲沉与幽暗深邃的悲剧色调。",
+      "sober": "错误。sober 在修饰色彩或风格时意为‘朴素淡雅的、沉着稳重的’（plain, subdued, not showy），带有严谨克制或专业端庄的褒义倾向。而本句明确指出该环境导致了‘认知停滞’（cognitive stagnation），具有强烈的消极贬义色彩，选用强调理性自持的 sober 会造成明显的褒贬极性冲突与修辞断层。",
+      "colourless": "错误。colourless 本义为‘无色的、苍白的’，引申指‘缺乏个性与趣味的’。一方面，句中已明确指出实验室充斥着 'muddy olive'（浑浊的橄榄绿色），从色彩物理属性上使用 colourless 存在事实与语意矛盾；另一方面，colourless 仅强调平淡乏味（bland），无法传递出 drab 所特有的‘污浊暗沉且令人生厌的沉闷感’（dingy cheerlessness）。"
+    },
+    "translation": "该实验室的环境远未能激发科研创新，其被浑浊的橄榄绿墙面和千篇一律的灰色隔间所笼罩的暗淡沉闷，带来了一种了无生气的乏味单调，研究人员将其归咎为导致普遍认知停滞的根源。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b43_20",
+    "group_id": 440,
+    "group_name": "drab, sombre, sober, colourless",
+    "level": "TEM-8",
+    "target_word": "sombre",
+    "question": "Confronted with harrowing archival footage of the famine, the ethics committee fell into a ___ silence, gripped by a mournful gloom that eclipsed any capacity for detached, dispassionate deliberation.",
+    "options": [
+      "drab",
+      "sombre",
+      "sober",
+      "colourless"
+    ],
+    "answer": "sombre",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首的因果诱因 'Confronted with harrowing archival footage of the famine'（面对记录饥荒惨状的档案胶片）与伴随分词状语 'gripped by a mournful gloom that eclipsed any capacity for detached, dispassionate deliberation'（被一种彻底压倒了任何客观冷静审议能力的悲痛阴郁所笼罩）构成绝对排他锚点。sombre silence 是经典的高级英语书面搭配，特指因重大悲剧、苦难或死亡而引发的‘沉痛肃穆、阴郁沉重的静默’。sober 恰恰指代被该阴郁情绪所压倒的‘冷静、理性、克制’（detached, dispassionate），填入会造成逻辑反噬；drab 与 colourless 无法与承载深沉道德哀痛的 silence 形成语义配价，属于严重范畴与搭配错误。",
+    "distractor_analysis": {
+      "sombre": "正确。sombre 指‘沉痛肃穆的、阴郁哀伤的、幽暗凝重的’（grave, melancholy, mournful），完美契合直面灾难惨剧后全场被悲郁笼罩的精神认知状态；'a sombre silence'（沉痛肃穆的沉默）是极具文学质感与学术权威度的固定高阶搭配。",
+      "sober": "错误。sober 意为‘冷静清醒的、客观理性的、持重的’。后文分句明确指出这种沉痛阴郁‘压倒了任何客观冷静的审议能力’（eclipsed any capacity for detached, dispassionate deliberation），而 detached 与 dispassionate 恰恰是 sober 的核心定义特质；若填入 sober silence，会导致其与后文的解说语产生直接的逻辑自相矛盾。",
+      "drab": "错误。drab 核心在于‘单调乏味、缺乏亮色、陈旧灰暗’（cheerless and dull），常修饰外貌、生活、服饰或庸常环境。用其修饰代表深刻群体心理状态的 silence 属于严重的语义范畴错配（category mistake）与搭配破裂，完全无法传递面对历史浩劫时的沉痛与悲怆。",
+      "colourless": "错误。colourless 表示‘平淡无奇的、毫无个性的、苍白的’，用来形容沉默缺乏语义抓手，无法承载惨烈灾难所带来的巨大情感冲击与道德重负，在描摹深沉哀思与沉郁氛围时语义极度乏力且严重脱离语境。"
+    },
+    "translation": "面对记录那场大饥荒惨状的档案胶片，伦理委员会陷入了一片沉痛肃穆的沉默之中，被一种彻底压倒了任何客观冷静审议能力的悲郁情绪所紧紧笼罩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b22_01",
+    "group_id": 221,
+    "group_name": "diverge, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "diverge",
+    "question": "Although rooted in the same classical liberal traditions, contemporary theories of distributive justice ___ profoundly regarding the legitimate scope of state intervention, yielding mutually exclusive policy prescriptions for economic inequality.",
+    "options": [
+      "diverge",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "diverge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步状语指出理论源于同一传统（rooted in the same classical liberal traditions），后半句以 yielding mutually exclusive policy prescriptions（得出互斥的政策主张）为结果，要求谓语动词表达“从同一源头向不同方向分化、产生根本分歧（move or draw apart）”。四个选项中仅 diverge 具备此抽象认知与学术理论分化的语义特征；其他词均无法用于形容理论体系的路径分歧。",
+    "distractor_analysis": {
+      "diverge": "正确。意为“分歧、偏离、分道扬镳（move or draw apart）”。主语为 contemporary theories（当代理论），与副词 profoundly 及介词短语 regarding... 搭配，精准表达不同学派从共同思想基准走向异化与对立的认知轨迹，完全契合学术思辨语境。",
+      "waver": "错误。意为“动摇、犹豫、摇摆不定”，核心语义指人在信念、忠诚或决策上的举棋不定（to vacillate irresolutely）。作为抽象学说体系的 theories 属于既定理论模型，不会自身产生心理上的“动摇”；且后文政策主张互斥表明结论已然分化确立，而非处于摇摆状态。",
+      "quiver": "错误。意为“微颤、颤抖”，特指因激动、恐惧、寒冷或微风造成的轻微物理或生理性震颤（to shake with a slight rapid motion）。用于修饰理论体系存在严重的范畴错配（category mistake）。",
+      "writhe": "错误。意为“（因剧痛或苦难而）扭动、翻滚、挣扎”，通常描述肉体极度痛苦中的肢体扭曲。用于讨论政治哲学理论的不合与发展，存在极度荒谬的语体冲突（stylistic clash）。"
+    },
+    "translation": "尽管当代分配正义理论植根于相同的古典自由主义传统，但在国家干预的合法范围上却分歧极大，从而就经济不平等问题得出了相互排斥的政策主张。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_02",
+    "group_id": 221,
+    "group_name": "diverge, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Throughout the protracted deliberations over structural fiscal reforms, the committee began to ___ between imposing austerity measures and expanding public credit, reflecting severe ideological ambivalence among senior economic advisors.",
+    "options": [
+      "diverge",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法上存在决定性的“___ between doing A and doing B”固定搭配，且后文的伴随状语 reflecting severe ideological ambivalence（反映出严重的思想摇摆/矛盾心理）为认知层面的犹豫不决提供了决定性语义支撑。waver between A and B 为表达“在两种选择之间举棋不定”的固定用法；diverge 无法接 between 进行二者之间的意图摇摆，quiver 与 writhe 属于物理动作，均告失效。",
+    "distractor_analysis": {
+      "waver": "正确。意为“犹豫不决、举棋不定、摇摆”，其典型句法结构为 waver between X and Y，专指在两种对立的方案、信念或决策之间摇摆（to vacillate irresolutely between choices），与后文 ideological ambivalence（意识形态上的摇摆不定）形成完美互注。",
+      "diverge": "错误。意为“分道扬镳、分歧（move or draw apart）”。主语为单数机构 the committee，英语中不可使用“somebody diverges between A and B”来表示个体或机构在两个方案之间犹豫不决；diverge 表达分歧时需以复数观点/实体作主语，或与 from 连用，在此处造成句法断裂（collocational rupture）。",
+      "quiver": "错误。意为“颤抖、发抖”，纯指物理层面的细碎震动，无法支配 between 引导的二元决策对象，不能用于表达思想决策上的犹豫。",
+      "writhe": "错误。意为“扭动、翻滚、受折磨”，指肉体或精神受到极大痛苦时的挣扎动作，常接 in agony 等介词短语，绝不可能用于“在紧缩政策与信贷扩张之间举棋不定”的宏观经济决策语境。"
+    },
+    "translation": "在针对结构性财政改革展开的旷日持久的审议中，委员会开始在推行紧缩措施与扩大公共信贷之间举棋不定，这反映了资深经济顾问之间严重的思想摇摆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_03",
+    "group_id": 222,
+    "group_name": "drone, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "drone",
+    "question": "As the fatigued delegates struggled to maintain composure, the rapporteur continued to ___ on about arcane procedural minutiae, his uninflected monotone steadily reducing the cavernous auditorium to a state of near-hypnotic torpor.",
+    "options": [
+      "drone",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "drone",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "continued to ___ on about arcane procedural minutiae, his uninflected monotone steadily reducing the cavernous auditorium to a state of near-hypnotic torpor",
+    "distractor_analysis": {
+      "drone": "正确。drone on about 为固定搭配，意为“以单调乏味的语调喋喋不休地长谈”，与后文明确指出的 uninflected monotone（毫无抑扬顿挫的单调声音）以及导致的 near-hypnotic torpor（近乎催眠的麻木昏睡状态）构成严密的语义与句法呼应，完美体现长篇低沉催眠式言语的语域特征。",
+      "blurt": "错误。blurt 意为“脱口而出，冲口说出”，侧重于冲动、未经深思熟虑的瞬间言语爆发，通常后接 out 或直接接宾语，绝不与表示漫长持续性动作的 on about 连用，且其突发性特征与导致听众昏昏欲睡的单调语境彻底背道而驰。",
+      "whiff": "错误。whiff 作为动词多指“轻吹、轻吸、察觉一点气味”或在体育运动中指“挥棒落空”，在句法上无法接 on about，在认知言语表达的语义场域中更毫无依据。",
+      "snivel": "错误。snivel 意为“抽噎、抽泣、带哭腔地诉苦抱怨”，强调自怜且带有鼻音的哭诉，不能用来描述官方报告人以缺乏起伏的语调宣读程序性繁复细节的行为，且无法与 on about 形成表示“乏味长谈”的惯用搭配。"
+    },
+    "translation": "正当疲惫不堪的代表们勉力保持专注时，报告人却继续用那毫无抑扬顿挫的单调声音，絮絮叨叨地大谈晦涩的程序性琐事，使偌大的会议厅逐渐陷入一种近乎被催眠的昏沉状态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_04",
+    "group_id": 222,
+    "group_name": "drone, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Caught off guard by the committee's unrelenting interrogation, the unseasoned diplomat lost his nerve and proceeded to ___ out an astonishingly indiscreet confession, utterly sabotaging his delegation's secretive negotiating strategy.",
+    "options": [
+      "drone",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "lost his nerve and proceeded to ___ out an astonishingly indiscreet confession",
+    "distractor_analysis": {
+      "blurt": "正确。blurt out 为高度固定的动词短语，意为“脱口而出、不假思索地泄露”，专指在心理防线失守、惊慌失措（lost his nerve）时猝然吐露不当内容（indiscreet confession），完全符合该句关于心理溃败导致突发泄密的高阶认知语境。",
+      "drone": "错误。drone 意为“用单调嗡嗡声说话”，不与副词 out 搭配构成引出机密坦白的短语；其表示的延宕、单调的语音特征，与在严词质询下仓促失言的突发性动态完全相悖。",
+      "whiff": "错误。whiff 无论作不及物动词（轻闻、吹拂）还是及物动词均无 whiff out 的言语产出搭配，既不符合句法搭配，亦脱离言语交际场域。",
+      "snivel": "错误。snivel 意为“抽抽搭搭地哭诉、哭丧着脸抱怨”，主要作不及物动词，不与 out 搭配以引出具体坦白内容（confession）；且语境描述的是年轻外交官慌乱失言泄密，而非带着哭腔委屈自怜。"
+    },
+    "translation": "面对委员会毫不留情的严厉质询，那位缺乏经验的外交官措手不及、方寸大乱，竟脱口招出一连串极不明智的供词，彻底破坏了其代表团绝密的谈判策略。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_05",
+    "group_id": 223,
+    "group_name": "eddy, seep, ooze, swirl",
+    "level": "TEM-8",
+    "target_word": "eddy",
+    "question": "While the main tide of Enlightenment philosophy surged boldly toward secular rationalism, counter-revolutionary thought began to ___ sluggishly in the provinces, lingering in circular, retrograde patterns that resisted the prevailing progressive momentum.",
+    "options": [
+      "eddy",
+      "seep",
+      "ooze",
+      "swirl"
+    ],
+    "answer": "eddy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "句中构建了宏观水文学隐喻的严密对立：前半句的主干潮流（'main tide ... surged boldly'）与后半句的反向回流（'circular, retrograde patterns that resisted the prevailing progressive momentum'）构成排他性语义支点。依据《韦氏词典》，'eddy' 作不及物动词的核心释义即为'to move contrary to the main current'（专指逆主水流方向回转盘旋），完美契合带有词源本义（古英语 ed-，表示反向、回退）的 'retrograde'。同时，修饰空格的副词 'sluggishly'（迟缓沉滞地）构成了对强干扰项 'swirl' 的决定性排他——权威词典中 'swirl' 必然包含 [+rapid / +turbulent]（疾速、湍急旋动）的核心义素，与 'sluggishly' 构成严峻的语义反差与搭配冲突，唯有常用于描述边隅死水缓流回旋的 'eddy' 能在此成立。",
+    "distractor_analysis": {
+      "eddy": "正确选项。eddy 作不及物动词源于古英语 ed-（反向、退回），《韦氏词典》权威释义为 'to move contrary to the main current'（逆着主潮流回流盘旋），且在社会思潮与认知隐喻中专门指涉思维或观念脱离进步主潮而陷入局部的反向回环（MW: 'a contrary or circular current as of thought or policy'）。句中反革命思潮抵制前进大潮、陷入倒退循环（'retrograde patterns that resisted the prevailing progressive momentum'），且在滞塞状态下与副词 'sluggishly' 浑然一体，是唯一在方向性（逆流）与速度感（迟滞缓转）上均完全吻合的选项。",
+      "seep": "错误干扰项。seep 意为‘渗漏、渗入’，核心语义为液体穿透微孔介质或裂隙极其缓慢地渗透（percolate through small pores or openings），句法上高度依赖 into, through 或 out of 等表空间穿透的方向介词。句中缺乏孔隙过滤介质，且后文语境明确为流体的宏观回旋运动（'circular, retrograde patterns'），seep 缺乏任何回转、逆旋的运动特征，代入会导致严重的语义断裂。",
+      "ooze": "错误干扰项。ooze 指粘稠流体因重力或低压从细小缝隙中‘缓慢渗出、溢出’，或比喻某种情绪与特质由内而外的显露（如 ooze confidence）。其物理机制为单向溢流，完全不具备反向回旋流（reflux）的动态结构，无法修饰思潮在空间与逻辑上的回环停滞。",
+      "swirl": "强干扰项。swirl 虽亦表示‘打转、旋转’，但各大权威词典（OED, Merriam-Webster, Cambridge）均严格将其定义为‘快速、剧烈、激荡地旋动’（to move quickly with a spinning or twisting movement），携带极其鲜明的 [+rapid, +turbulent] 义素。因此，swirl 与空格后的限定副词 'sluggishly'（迟钝地、缓慢地）构成不可调和的语义冲突（即无法‘迟缓地急速旋打’）；此外，swirl 仅描摹纯粹的旋转姿态，缺乏 eddy 所专属的‘背离前进主水流而反向回旋’（contrary to the main current）这一决定性逻辑方向特征。"
+    },
+    "translation": "尽管启蒙哲学的核心大潮坚定地向世俗理性主义奔涌推进，但反革命思潮却开始在各省份迟缓地逆流盘旋，滞留在抵制主流前进势头的循环倒退模式之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_06",
+    "group_id": 223,
+    "group_name": "eddy, seep, ooze, swirl",
+    "level": "TEM-8",
+    "target_word": "seep",
+    "question": "Subtle algorithmic biases do not announce their ideological premises explicitly; instead, they ___ through porous cognitive filters over extended exposure, gradually conditioning the unsuspecting user's political perceptions without triggering conscious skepticism.",
+    "options": [
+      "eddy",
+      "seep",
+      "ooze",
+      "swirl"
+    ],
+    "answer": "seep",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配“through porous cognitive filters”（穿过多孔的认知过滤层）与后续结果状语“gradually conditioning... without triggering conscious skepticism”（悄无声息地逐步塑造……而不引发显性怀疑）。这要求动词必须具备“如液体穿过微孔隐秘浸润”的渗透语义。",
+    "distractor_analysis": {
+      "seep": "正确。seep 指流体借助微孔、裂隙缓慢渗透或漏入（pass gradually through small openings），引申至社会与认知语境中，指观点、偏见或意识形态悄无声息地穿透防线、潜移默化地渗透进心智体系。“seep through porous filters”符合标准学术英语中关于认知渗透（cognitive penetration）的高阶隐喻搭配。",
+      "eddy": "错误。eddy 意为形成涡流、打转回旋，描述的是流体在空间内的循环反向运动，无法与介词短语“through porous filters”构成表示穿透孔隙、悄然渗透的合理句法与语义搭配。",
+      "ooze": "错误。ooze 侧重指粘稠液体自孔隙中“缓缓渗出、分泌”（exude viscous fluid from an interior source），强调由内向外的溢出感与粘滞质感，而不能表达外在信息与偏见穿过多孔屏障“向内渗透、潜入”的浸润过程。",
+      "swirl": "错误。swirl 指疾速旋动、打旋卷起，侧重于视觉上动态的翻腾或环形扰动，既无法与多孔介质的微观物理渗透机制（through porous filters）相匹配，也违背了后文“gradually conditioning... without triggering skepticism”所强调的隐蔽渗透性。"
+    },
+    "translation": "微妙的算法偏见从不显露其意识形态预设；相反，它们在长期的接触中悄然穿透多孔的认知防线，在不引发自觉怀疑的情况下潜移默化地塑造毫无防备之用户的政治认知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_07",
+    "group_id": 224,
+    "group_name": "elicit, evoke, extract, misapprehend",
+    "level": "TEM-8",
+    "target_word": "elicit",
+    "question": "By designing adaptive prompts that minimized psychological fatigue, the qualitative researchers sought to ___ spontaneous, unfiltered responses from the reticent participants during the extended ethnographic interviews.",
+    "options": [
+      "elicit",
+      "evoke",
+      "extract",
+      "misapprehend"
+    ],
+    "answer": "elicit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中关键宾语为'spontaneous, unfiltered responses'（自发且未经筛选的回答），发出动作为研究人员通过'adaptive prompts'（自适应提示）向被访者（participants）获取信息。在词义辨析中，表示通过提问、引导或刺激手段从他人处'诱导、套出、探得（信息、反应、回答）'，唯有 elicit 与 'responses from somebody' 构成最严谨的学术与行为语境搭配；同时前文的'minimized psychological fatigue'（最大程度减少心理疲劳）排除了具有强制、强迫色彩的词汇。",
+    "distractor_analysis": {
+      "elicit": "正确。elicit 指通过技巧、提问、启发或外部刺激，从受访者或客观对象中'引出、探出（信息、回答、事实、反应）'。本句中研究人员设计灵活的提示语以期从寡言的参与者口中探寻真实反馈，符合 'elicit responses from sb.' 的典型学术调查搭配。",
+      "evoke": "错误。evoke 侧重于在人的内心'唤起、唤醒（回忆、情感、意象、共鸣或某种神态）'（如 evoke memories/sympathy），其作用对象是无形的心智状态或审美感知，不能用于通过访谈提问从被调查者处'探引出具体的言语回答或数据事实'（即不说 evoke responses from respondents）。",
+      "extract": "错误。extract 虽可表示获取信息，但其词义核心在于'强力拔出、费力提取'，在社会行为或人际语境中带有明显的施压、胁迫或克服极大阻力而'榨取、逼供、勒索'的色彩（如 extract a confession under torture / extract concessions）。这与句中'minimized psychological fatigue'（减少心理负担、温和引导）的定调和质性研究伦理产生严重语体与语义冲突。",
+      "misapprehend": "错误。misapprehend 系正式文体动词，意为'误解、误会（意义、意图）'（to fail to understand correctly），无论在句法（不能与 from sb. 搭配构成探询动作）还是在逻辑语义上（质性学者不可能主动'旨在误解参与者的回答'）均完全违背语境。"
+    },
+    "translation": "通过设计旨在最大程度减少心理疲劳的自适应提示语，质性研究人员试图在漫长的民族志访谈中，从沉默寡言的参与者那里引出自然流露且未经掩饰的回答。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_08",
+    "group_id": 224,
+    "group_name": "elicit, evoke, extract, misapprehend",
+    "level": "TEM-8",
+    "target_word": "evoke",
+    "question": "Through its sparse prose and austere descriptions of windswept moors, the novel effortlessly managed to ___ a palpable atmosphere of isolation, immersing readers in the protagonist's profound existential solitude.",
+    "options": [
+      "elicit",
+      "evoke",
+      "extract",
+      "misapprehend"
+    ],
+    "answer": "evoke",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点在于宾语短语'a palpable atmosphere of isolation'（一种清晰可感的孤寂氛围）以及主语'the novel'及其文学表现手法（'sparse prose and austere descriptions'）。在英语词汇学中，文学艺术作品在读者脑海中'唤起、勾起（某种意境、氛围、情感或记忆）'的标准动词是 evoke；而其他选项均无法支配'atmosphere'作为其直接生成的审美意境。",
+    "distractor_analysis": {
+      "evoke": "正确。evoke 指文学、艺术、气味或音乐在人心中'唤起、唤醒、再现（某种氛围、意象、情感或记忆）'（to call forth an emotion, feeling, or atmosphere to the mind），与宾语 'atmosphere of isolation' 构成天衣无缝的文学批评级经典搭配。",
+      "elicit": "错误。elicit 的核心语义是从外部'引出、探出（客观反应、回答、事实、动作）'（to call forth an active response or reaction from an agent，如 elicit protests/smiles），绝不能用于支配无形的审美环境或整体文学情调（不存在 elicit an atmosphere 的搭配），属于典型的机制与范畴错配。",
+      "extract": "错误。extract 指借助物理手段、外力或严密逻辑'拔出、提取、摘录'（如 extract plant oils, extract a passage from a text），无法用于形容小说文学手法在读者心中自然'营构或唤起'某种无形的精神氛围。",
+      "misapprehend": "错误。misapprehend 意为'误解、曲解'。此处若填入该词，语义变为'小说毫不费力地误解了孤寂的氛围'，主谓搭配荒谬，且与后半句'immersing readers in the protagonist's profound existential solitude'（使读者完全沉浸其中）的成功艺术感染力产生致命的逻辑矛盾。"
+    },
+    "translation": "凭借洗练凝练的散文字句以及对狂风掠过的荒原的冷峻描摹，这部小说毫不费力地营造出一种清晰可感的孤寂氛围，使读者深深沉浸在主人公深刻的存在主义孤独之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_09",
+    "group_id": 225,
+    "group_name": "elude, fudge, evade, parry",
+    "level": "TEM-8",
+    "target_word": "elude",
+    "question": "Although advanced neuroimaging has mapped intricate neural correlates, an integrative theory explaining how subjective consciousness emerges from physical matter continues to ___ the conceptual grasp of cognitive scientists.",
+    "options": [
+      "elude",
+      "fudge",
+      "evade",
+      "parry"
+    ],
+    "answer": "elude",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为抽象的认知理论（an integrative theory），宾语为认知主体的理解力与把握（the conceptual grasp of cognitive scientists）。在认知语义场中，表示某一抽象真理、本质或理论‘逃脱……的理解/超出……的认知把握’时，唯一符合主谓-动宾深层语义搭配的是 elude（常构成 elude one's grasp/comprehension/understanding）。其余选项均要求施事者具备主观故意或指涉具体的动作防卫。",
+    "distractor_analysis": {
+      "elude": "正确。elude 在认知语义层面上专指‘（概念、理论、答案或记忆等）避开……的理解、让人抓不住或想不起’（to escape the perception, comprehension, or grasp of），在此与主语‘integrative theory’和宾语‘conceptual grasp’形成极度严密的学术搭配。",
+      "fudge": "错误。fudge 作及物动词时意为‘含糊其辞地应付、篡改、刻意模糊（界限或事实）’（to obscure or diminish the clarity of; hedge），其主语必须是具有主观意图的人或机构，无法由无生命的抽象理论（an integrative theory）作主语去‘模糊’人类的理解力。",
+      "evade": "错误。evade 强调采取欺骗、狡猾手段或策略性行动以‘逃避、回避’明确的法定义务、惩罚、追踪或具体问题（如 evade taxes, evade responsibility, evade capture）。它不用于表述抽象科学真理超脱于人类认知能力之外的哲学/认知语境（不能用于 *theory evades one's grasp）。",
+      "parry": "错误。parry 属于格斗与辩论防御隐喻，意为‘挡开（武器）、巧妙避开（严厉提问或攻击）’（to ward off a weapon or blow; deflect a question）。它要求施事者面临外部直接攻击并予以回击防御，与抽象理论和人类认知把握的语义框架完全脱节。"
+    },
+    "translation": "尽管先进的神经影像技术已绘制出复杂的神经相关图谱，但一套能够解释主观意识如何从物理物质中涌现的综合理论，仍旧超出了认知科学家们的理性把握范围。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_10",
+    "group_id": 225,
+    "group_name": "elude, fudge, evade, parry",
+    "level": "TEM-8",
+    "target_word": "fudge",
+    "question": "Rather than resolving the paradox, the philosopher attempted to ___ the fundamental distinction between sensory perception and conceptual judgment, producing an intentionally nebulous formulation that ultimately satisfied neither epistemological camp.",
+    "options": [
+      "elude",
+      "fudge",
+      "evade",
+      "parry"
+    ],
+    "answer": "fudge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配为动词后接宾语‘the fundamental distinction between... and...’（两者之间的根本界限），且伴随状语‘producing an intentionally nebulous formulation’（产出刻意模棱两可的表述）揭示了其行为本质是‘蓄意模糊、混淆两者的界限以求蒙混过关’。在四个选项中，只有 fudge 具有‘fudge the distinction / boundary between’这一专业学术与批评搭配，指故意模糊理论分界以掩盖逻辑缺陷。",
+    "distractor_analysis": {
+      "fudge": "正确。fudge 表示‘敷衍了事、含糊其辞地处理、故意模糊（界线/区别）’（to obscure or diminish the clarity or distinctness of; blur or hedge），常见搭配为 fudge the distinction / line between A and B，与后文‘producing an intentionally nebulous formulation’构成无可替代的因果与同义复指关系。",
+      "elude": "错误。elude 意为‘使……困惑、逃避……的理解或抓捕’。学者作为有意识的主体（the philosopher），不能以主动及物的方式去‘elude a distinction’（界限本身不是追捕者或认知主体，不能被学者所 elude）。",
+      "evade": "错误。evade 强调‘躲避、规避’（to avoid dealing with），若使用 evade the distinction，含义为‘对该分界避而不谈’，这与后文哲学家‘提出了刻意模棱两可的表述’（即实质上对两者的界限进行了混淆处理以捏造综合方案）直接矛盾；evade 不能表达‘人为模糊或混淆两方差异’的核心语义。",
+      "parry": "错误。parry 意为‘机智地挡开、避开（反驳、诘问或批评）’（to deflect or ward off skillfully），其直接宾语通常是具有攻击性的问题或言论（如 parry a hostile question, parry an accusation），不能与表示概念范畴的‘the fundamental distinction’形成及物搭配。"
+    },
+    "translation": "那位哲学家非但未能化解该悖论，反而企图刻意模糊感官知觉与概念判断之间的根本界限，炮制出一种蓄意含糊的理论表述，最终未能让任何一个认识论学派感到信服。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_11",
+    "group_id": 226,
+    "group_name": "encroach, lapse, forge, impinge",
+    "level": "TEM-8",
+    "target_word": "encroach",
+    "question": "As predictive algorithmic tools progressively ___ into the autonomous domain of human cognition, philosophers warn that such systems are advancing far beyond their legitimate limits to usurp moral deliberation.",
+    "options": [
+      "encroach",
+      "lapse",
+      "forge",
+      "impinge"
+    ],
+    "answer": "encroach",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrasal collocation '___ into the autonomous domain' coupled with the explicit definitional paraphrase 'advancing far beyond their legitimate limits to usurp' uniquely selects 'encroach', while 'impinge' cannot govern 'into', 'lapse' cannot describe predatory boundary expansion, and 'forge' cannot denote stealthy conceptual trespassing.",
+    "distractor_analysis": {
+      "encroach": "正确。Merriam-Webster 将其核心义界定为“advance beyond the usual or proper limits”（逾越常规或正当限度）以及“enter by gradual steps or by stealth into the possessions or rights of another”（逐步或暗中侵入他人领地或权利）。句中“progressively”（渐进地）、介词搭配“into the autonomous domain”（侵入自主领域）以及后文的“advancing far beyond their legitimate limits to usurp moral deliberation”（远超正当界限以篡夺道德审思）构成了排他性语义闭环，与 'encroach into' 严丝合缝。",
+      "lapse": "错误。'lapse into' 虽为合法短语，但其介词宾语必须表示某种消极、停滞或退化的心理/生理“状态”（如 lapse into silence 陷入沉默，lapse into solipsism 陷入唯我论），而不能接外部的客体领域或管辖范畴（the autonomous domain）。算法工具作为主语，绝不可能“陷入”人类认知的领域，逻辑与范畴发生严重错配。",
+      "forge": "错误。'forge' 作及物动词时意为“锻造、缔造”（forge a consensus）；作不及物动词时通常与 ahead/on 连用表示“奋力推进”。即便与 into 连用，也仅用于物理空间的挺进（forge into the wilderness）或表示形态转化（forge A into B），完全无法传达“隐蔽、渐进地逾越合法界限以蚕食权力”的贬义色彩，语域与语义皆不兼容。",
+      "impinge": "错误。在标准学术英语中，'impinge' 严格要求与介词 on 或 upon 搭配（源自拉丁语 impingere，意为“冲击、撞击”），在现代标准规范中不能接 into（*impinge into 属于明显的介词搭配错误）。此外，impinge on 侧重于外部力量带来的撞击、影响或制约，而非主体逐步越界并蚕食相邻领地的渐进性扩张。"
+    },
+    "translation": "随着预测性算法工具逐渐侵入人类认知的自主领域，哲学家们警告称，此类系统正远超其正当界限，企图篡夺道德审思的主导权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_12",
+    "group_id": 226,
+    "group_name": "encroach, lapse, forge, impinge",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "Without rigorous peer review and continuous empirical scrutiny, even the most groundbreaking epistemological paradigms risk losing their critical vitality and may subtly ___ into dogmatic orthodoxy.",
+    "options": [
+      "encroach",
+      "lapse",
+      "forge",
+      "impinge"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contextual nexus of losing vitality ('losing their critical vitality'), imperceptible transition ('subtly'), and descending into an inferior/rigidified state ('into dogmatic orthodoxy') strictly mandates 'lapse', as none of the other verbs denote passive degeneration into a cognitive state.",
+    "distractor_analysis": {
+      "lapse": "正确。Merriam-Webster 将其界定为“to pass by degrees or unnoticed into some specified state or condition”（不知不觉地逐渐陷入某种状态）及“to fall or slip from a higher to a lower state”（退化、堕落）。句中“losing their critical vitality”（丧失批判活力）与副词“subtly”（隐蔽地、不知不觉地）精准锚定了认识论范式由敏锐走向僵化堕落的过程，'lapse into dogmatic orthodoxy'（沦为教条主义正统）是极具学术质感的经典搭配。",
+      "encroach": "错误。'encroach' 强调的是主体主动、逐步侵犯并吞并属于他者的外部领地、权利或空间（advance beyond proper limits into another's territory），其宾语必须为被侵占的客体界域。而 'dogmatic orthodoxy'（教条主义正统）是一种思想退化后的状态，而非被侵夺的外在领域。范式本身失去活力后，不可能“侵占”教条主义，语义逻辑完全断裂。",
+      "impinge": "错误。'impinge' 必须与 on/upon 连用表示“撞击”或“对……产生负面效应”，不能与 into 搭配（*impinge into 存在不可调和的句法违规）。此外，impinge 表达的是外力施加的作用，无法体现认知范式内部逐渐衰变并滑向不良状态的演变过程。",
+      "forge": "错误。'forge' 带有积极、主动、奋力进取或创造成果的语义色彩（如 forge ahead 锐意进取，forge a new path 开辟新路径）。此处上下文明确指向范式“丧失批判活力”后的衰颓过程，若选用 'forge into dogmatic orthodoxy' 则会荒谬地表达成“奋力挺进/打造教条主义正统”，与语境的贬义消极退化逻辑彻底相悖。"
+    },
+    "translation": "若缺乏严格的同行评审与持续的经验实证检验，即便是最具颠覆性的认识论范式也有丧失其批判活力的风险，并可能在不知不觉中沦为教条主义的正统观念。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_13",
+    "group_id": 227,
+    "group_name": "encumber, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "encumber",
+    "question": "The committee warned that attempting to resolve epistemic ambiguities by imposing overly pedantic taxonomies would merely ___ the researcher's critical inquiry with superfluous conceptual baggage rather than sharpen its focus.",
+    "options": [
+      "encumber",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "encumber",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法与语义双重决定性锚点：句中核心结构为“___ + critical inquiry + with superfluous conceptual baggage”。encumber 与 with 构成固定搭配（encumber something with something），核心语义为“以过量的负担、累赘拖累阻碍……的运作或发展”，完美契合用“多余概念包袱”拖累学术探究的语境。其他三词均无法在该句法与意象结构中成立。",
+    "distractor_analysis": {
+      "encumber": "正确。encumber 意为“拖累、妨碍；给……增加负担”，在此与介词 with 构成典型搭配（encumber ... with baggage），精准表达了繁复死板的分类法像包袱一样加重并减缓批判性探究的负面效果。",
+      "rein": "错误。rein 意为“控制、收束、勒马”，其后常接处于奔逸或过热状态的势力（如 rein spending, rein impulses），不能与“with superfluous conceptual baggage”搭配，语义逻辑完全断裂。",
+      "baffle": "错误。baffle 意为“使困惑、难倒”，通常以具体的人或研究人员为直接宾语（如 baffle the experts），不能与 inquiry 以及表示负载的介词短语 with baggage 搭配。",
+      "inhibit": "错误。inhibit 意为“抑制、阻碍（反应或冲动的发展）”，属于直接及物动词（inhibit the inquiry）或与介词 from 搭配（inhibit someone from doing something），无法与 with baggage 搭配构成“以多余包袱负重拖累”的语义机制。"
+    },
+    "translation": "委员会警告称，试图通过强加过度迂腐的分类体系来消除认识论上的模糊性，只会用多余的概念包袱拖累研究人员的批判性探究，而无法使其聚焦点更加敏锐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_14",
+    "group_id": 227,
+    "group_name": "encumber, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "rein",
+    "question": "Although intuitive heuristics expedite decision-making under intense pressure, cognitive psychologists emphasize that strategic leaders must ___ in these reflexive impulses when navigating volatile, high-stakes geopolitical crises.",
+    "options": [
+      "encumber",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "rein",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法虚词与认知控制隐喻锚点：空格后紧随副词小品词“in”，构成固定成语化动词短语“rein in”，借用勒紧缰绳制伏奔马的意象，专指“严格控制、抑制、遏制（冲动、开支或情绪）”。选项中 encumber、baffle、inhibit 均绝无与 in 搭配构成该语义的用法，填入会造成不可容忍的句法破裂。",
+    "distractor_analysis": {
+      "encumber": "错误。encumber 为及物动词，意为“使负担沉重、拖累”，无 encumber in 这一短语形式，在此出现严重介词错配与句法破裂。",
+      "rein": "正确。rein in 为高频学术及政经政论固定搭配，意为“严格控制、勒住、约束”，在此准确传达出战略领导者必须“收束/压制下意识冲动”的认知自我调控语境。",
+      "baffle": "错误。baffle 意为“使困惑、难住”，为直接及物动词，不与 in 连用构成短语动词，且语义上无法表示对自身冲动的“调控或遏制”。",
+      "inhibit": "错误。inhibit 虽然含有“抑制”之义，但其语法模式为直接跟宾语（如 inhibit these reflexive impulses）或接 from（inhibit sb from doing），绝不能与 in 搭配；*inhibit in 为绝对语法错误。"
+    },
+    "translation": "尽管直觉启发式策略能在巨大压力下加快决策进程，但认知心理学家强调，战略领导者在应对动荡且风险极高的地缘政治危机时，必须抑制并收束这些本能冲动。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_15",
+    "group_id": 228,
+    "group_name": "entwine, wring, deform, wrench",
+    "level": "TEM-8",
+    "target_word": "entwine",
+    "question": "Neurocognitive models propose that recollective experiences constantly ___ episodic details with broader semantic schemata, weaving disparate sensory fragments into a coherent tapestry of autobiographical consciousness.",
+    "options": [
+      "entwine",
+      "wring",
+      "deform",
+      "wrench"
+    ],
+    "answer": "entwine",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的介词搭配 '___ episodic details with broader semantic schemata' 以及随后的分词短语 'weaving disparate sensory fragments into a coherent tapestry' 构成了决定性的句法与意象锚点，明确要求一个能与 with 搭配、表达‘将不同元素交织互构为一个有机整体’的动词。",
+    "distractor_analysis": {
+      "entwine": "正确。entwine 意为“使紧密结合、使交织”（spin, wind, or twist together），在认知与心理学高阶语境中常指记忆、概念或思维线索的有机融合；其标准构式为 entwine A with B，与后文的“weaving... into a coherent tapestry”（编织为连贯织锦）形成完美的语义同构与风格契合。",
+      "wring": "错误。wring 原义为“拧、绞、扭”，在抽象语境下常表示以极大力量或痛苦“榨取、强行获取”，典型搭配为 wring... from/out of，无法与 with 搭配表示平滑交织；且其蕴含的受压与创伤意味与后文构建“连贯织锦”的良性认知合成机制截然不合。",
+      "deform": "错误。deform 意为“使变形、使畸变、损坏结构”，属于具有破坏性倾向的及物动词，既不能与 with 构成表示两者交相辉映的及物短语，其“致畸/毁损”的消极内涵也与后文“coherent tapestry”所展现的有序建构在逻辑上直接对立。",
+      "wrench": "错误。wrench 意为“猛扭、猛拉、扭伤”，强调剧烈的物理性外力破坏或突然的位移，通常搭配 away/from，无法接 with 表示协作交缠；在认知语境下使用 wrench 会指思维或事实被暴力撕裂，彻底颠覆了主句关于认知图式平滑整合的论述。"
+    },
+    "translation": "神经认知模型提出，回忆体验不断将情景细节与更宏阔的语义图式交织在一起，将零散的感官碎片编织成自传体意识的连贯织锦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_16",
+    "group_id": 228,
+    "group_name": "entwine, wring, deform, wrench",
+    "level": "TEM-8",
+    "target_word": "wring",
+    "question": "Through exhaustive archival triangulation, the epistemologist sought to ___ profound interpretive clarity from these fragmented testimonies, refusing to allow historical indeterminacy to obscure the underlying socio-political reality.",
+    "options": [
+      "entwine",
+      "wring",
+      "deform",
+      "wrench"
+    ],
+    "answer": "wring",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句型框架为 'sought to ___ [profound interpretive clarity] from [these fragmented testimonies]'，结合前文的 'exhaustive archival triangulation'（穷尽式档案印证），要求填入一个能与介词 from 搭配、精确描绘‘从极其匮乏或顽固的原材料中费尽心力萃取/榨取真知’的隐喻性动词。",
+    "distractor_analysis": {
+      "wring": "正确。wring 本义为拧干水分，引申为“费尽周折地榨取、艰辛地提炼”（to extract or obtain by or as if by compression or effort），经典学术搭配即为 wring meaning/truth/clarity from...，精准传达了学者面对支离破碎的证词时，通过极其艰苦的考据劳作提炼出确定性洞见的过程。",
+      "entwine": "错误。entwine 意为“缠绕、交织”，后接单数抽象产物与介词 from 构成了绝对的句法断裂（英语中不存在 entwine A from B 表示抽取的用法），语义逻辑完全无法成立。",
+      "deform": "错误。deform 意为“使畸变、使变形”，在句法上为单宾语及物动词（deform something），无法带介词短语 from... 表示来源或提取，且学者旨在追求“clarity”（明晰度），“使明晰度畸变”在语义认知上产生逻辑荒谬。",
+      "wrench": "错误。wrench 虽可接介词 from，但在文本阐释与认识论语境中，wrenching a meaning/text from... 专指“断章取义、强行歪曲或篡改原意”（to distort the meaning of something to serve a purpose），带有强烈的学术失范与暴力扭曲的负面评价色彩；而句中学者是以严谨求实的态度进行“exhaustive triangulation”（穷尽式交叉验证）以还原真相，选用 wrench 会导致语篇褒贬色彩产生严重倒错。"
+    },
+    "translation": "通过详尽的档案比对印证，这位认识论学者试图从这些支离破碎的证词中艰难榨取深刻的阐释性明晰度，坚决不让历史的不确定性遮蔽底层的社会政治现实。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_17",
+    "group_id": 229,
+    "group_name": "extradite, shun, eject, banish",
+    "level": "TEM-8",
+    "target_word": "extradite",
+    "question": "Despite intense diplomatic friction, the federal appellate court ruled that the government was legally obligated to ___ the indicted financier to his homeland to face trial under the bilateral treaty.",
+    "options": [
+      "extradite",
+      "shun",
+      "eject",
+      "banish"
+    ],
+    "answer": "extradite",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中包含决定性的司法与国际法锚点：宾语为被指控的嫌疑人（the indicted financier），目的状语为接受司法审判（to face trial），法律依据为双边条约（under the bilateral treaty），且搭配介词短语指向目的地国家（to his homeland）。四个选项中仅 extradite 专指依据法律条约将罪犯或嫌犯“引渡”移交给另一国司法管辖区。",
+    "distractor_analysis": {
+      "extradite": "正确。指“（依据双边条约或司法互助协议向外国司法机关）引渡”。其核心句式为 'extradite somebody to a country to face trial'，与文中的 'indicted financier'、'under the bilateral treaty' 以及接受审判的法律语境构成严谨且唯一的语义与语用吻合。",
+      "shun": "错误。意为“刻意回避、避开（社交、争议或人）”，强调主观疏远或孤立，属于行为态度动词。其既无法与介词短语 'to his homeland to face trial' 产生句法搭配，在逻辑上政府也不可能对一名刑事被告人实施“回避”。",
+      "eject": "错误。指“（物理上或粗暴地）驱逐、逐出、喷射”，常与介词 from 连用（如 eject somebody from a premises/meeting），强调驱离某一具体空间或职位，完全不具备基于国际引渡条约移交嫌犯以接受审讯的专有法律含义。",
+      "banish": "错误。指“流放、放逐”，通常指将某人驱逐出其本国或原本身处的领域（常见搭配为 'banish somebody from a country'）。文句表达的是将滞留境外的嫌犯移送回其祖国接受审判，语义与“流放（驱逐出国门）”不仅格格不入，且方向完全相反。"
+    },
+    "translation": "尽管外交摩擦剧烈，联邦上诉法院最终裁定，政府在法律上有义务根据双边条约将这名被起诉的金融家引渡回其祖国受审。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_18",
+    "group_id": 229,
+    "group_name": "extradite, shun, eject, banish",
+    "level": "TEM-8",
+    "target_word": "shun",
+    "question": "Dedicated to preserving absolute intellectual independence, the reclusive theorist consistently chose to ___ public adulation and lucrative corporate sponsorships, conducting fundamental research in rigorous and uninterrupted obscurity.",
+    "options": [
+      "extradite",
+      "shun",
+      "eject",
+      "banish"
+    ],
+    "answer": "shun",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的语义支点为学者的人生态度与行为抉择：主语是深居简出的理论家（reclusive theorist），目的是保持学术独立（preserving absolute intellectual independence）并在隐逸中专注基础研究（conducting research in... obscurity）。搭配的宾语是公众追捧与商业赞助（public adulation and lucrative corporate sponsorships）。在四个选项中，只有 shun 准确表达出于原则或生活方式而“刻意规避、避开”声名与诱惑。",
+    "distractor_analysis": {
+      "shun": "正确。意为“（出于谨慎、戒心或特定原则而）有意避开、躲避、回避”。常与 publicity（名气）、adulation（奉承）、limelight（公众关注）等抽象名词搭配，完美契合学者拒绝外部浮华以坚守学术独立的语境与文体风格。",
+      "extradite": "错误。为法律专有动词，指“引渡（逃犯或嫌疑人）”，其宾语必须是涉及司法管辖权移交的自然人，不能以 'public adulation' 等抽象概念作宾语，存在严重的语义范畴冲突。",
+      "eject": "错误。指“将……驱逐、逐出；使喷出”，施动对象通常为物理空间内的具体人或物体（如将观众驱逐出场馆），无法与抽象的名声或赞助商合约形成合理搭配。",
+      "banish": "错误。意为“放逐、驱逐出境”或“打消、彻底消除（心中的念头/恐惧，如 banish fears from one's mind）”。主语无法对外界自发给予的“公众赞赏（public adulation）”或商业赞助进行单方面的“流放/驱除”，搭配在此极不自然且偏离核心义项。"
+    },
+    "translation": "为了恪守绝对的学术独立，这位隐世的理论家始终选择避开公众的吹捧与丰厚的商业赞助，在严谨且不受打扰的沉潜默守中专注于基础科学研究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_19",
+    "group_id": 230,
+    "group_name": "fidget, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "fidget",
+    "question": "During the grueling cognitive assessment, the neuropsychologist observed that the subject began to ___ compulsively with his pen, betraying an underlying attentional deficit that contradicted his ostensibly composed demeanor.",
+    "options": [
+      "fidget",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "fidget",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'with his pen' 与副词 'compulsively' 以及后文的 'attentional deficit' 构成决定性锚点。fidget with sth. 为固定搭配，专指因紧张、烦躁或注意力涣散而下意识地摆弄/捣鼓小物件；其余选项均无法接具体物理工具作为支配对象。",
+    "distractor_analysis": {
+      "fidget": "正确。动词，意为“坐立不安；（因紧张、焦虑或无聊而）烦躁地摆弄”。在神经心理学及行为观察语境中，fidget 常用作不及物动词并与介词 with 搭配（fidget with something），指在心理压力或认知负荷下肢体末端反复摆弄小物件的神经质微动作，与句中的“with his pen”和“attentional deficit”构成严密的句法与语义契合。",
+      "waver": "错误。动词，意为“动摇；犹豫不决；摇曳”。侧重意志、信念或选择上的摇摆不定，不能与具体物理工具构成“waver with an object”的手部操纵性动作搭配，在此产生句法与语义双重割裂。",
+      "quiver": "错误。动词，意为“（因恐惧、激动或寒冷而）颤抖；发抖”。quiver with 虽然常见，但其介词后必须接抽象的生理或情绪状态名词（如 quiver with rage/fear/excitement），绝不能接可操作的具象物品（*quiver with his pen），属于范畴错配。",
+      "writhe": "错误。动词，意为“（因剧痛、苦恼等）扭动；翻滚挣扎”。常搭配介词 in 或 with，但其受限支配的语义成分只能是极度的肉体痛苦或精神煎熬（如 writhe with/in agony），无法指代摆弄文具的微幅动作，语义过重且语境违和。"
+    },
+    "translation": "在这场严苛的认知评估过程中，神经心理学家注意到受试者开始不由自主地摆弄手中的笔，暴露出一种与其表面镇定神态相矛盾的潜在注意力缺陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b22_20",
+    "group_id": 230,
+    "group_name": "fidget, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with contradictory empirical indicators, the research committee began to ___ between two competing neurobiological hypotheses, unable to determine which cognitive framework offered a more robust explanatory paradigm.",
+    "options": [
+      "fidget",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法框架 'between two competing neurobiological hypotheses' 构成决定性认知语义锚点。waver between sth. 是表达在两种对立观点、假设或决策之间摇摆不定、犹豫不决的专属学术与认知搭配；其余三词均为纯粹躯体物理动作动词，无法用于抽象理论取舍。",
+    "distractor_analysis": {
+      "waver": "正确。动词，意为“（在两者之间）摇摆不定；犹豫不决；动摇”。官方核心释义为“to vacillate irresolutely between choices”。在学术与认知决策语境中，“waver between two hypotheses”精准表达因实证证据矛盾而在两个对立科学假说间难以决断的认知徘徊状态，句法与语域契合度完美。",
+      "fidget": "错误。动词，意为“烦躁不安；坐立不宁”。属于描述肢体微动作的具象动词，无法引申至抽象的智识决断与认知理论取舍领域，不能构成“*fidget between hypotheses”的语义结构。",
+      "quiver": "错误。动词，意为“震颤；轻微颤抖”。主要描绘物理振动或躯体在受刺激时的发抖，不具备表达智识或逻辑犹豫的隐喻功能，与学术假说之间的权衡语境完全无关。",
+      "writhe": "错误。动词，意为“（身体因剧痛等）扭动；蠕动”。专指承受剧烈物理或情感折磨时的躯体翻滚，完全无法移用至学术委员会对科学范式的理性审视与认知摇摆，语域和概念产生严重冲突。"
+    },
+    "translation": "面对相互矛盾的实证指标，研究委员会开始在两个相互竞争的神经生物学假说之间摇摆不定，无法判定哪一个认知框架能够提供更为稳健的解释范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

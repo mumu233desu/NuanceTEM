@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b68_01",
+    "group_id": 681,
+    "group_name": "countenance, mar, visage, blemish",
+    "level": "TEM-8",
+    "target_word": "countenance",
+    "question": "Throughout the grueling interrogation regarding theoretical inconsistencies in his cognitive model, the philosopher struggled to keep his ___, refusing to let an involuntary smirk reveal his disdain for the committee’s superficial objections.",
+    "options": [
+      "countenance",
+      "mar",
+      "visage",
+      "blemish"
+    ],
+    "answer": "countenance",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定搭配与语义微差“keep one's countenance”（保持沉着镇定/克制面部表情而不失态），后文“refusing to let an involuntary smirk reveal his disdain”直接锚定了对“控制面部表情与情绪流露”的诉求；visage 仅指物理面貌而非情绪承载，且不存在 *keep one's visage 的用法。",
+    "distractor_analysis": {
+      "countenance": "正确。在 Merriam-Webster 中其核心义项为“the appearance conveyed by a person's face”及“mental composure: calm expression”，并收录了经典搭配“keep one's countenance”（克制表情、不动声色、保持镇定）。句中哲学家在严苛质询下克制冷笑以维持镇定，语境与搭配完全契合。",
+      "mar": "错误。mar 在现代英语中主要用作及物动词（意为“毁损、损坏”），在此处置于形容词性物主代词 his 之后充当宾语，属于严重词性及句法功能错误；即便在极罕见的古旧用法中作名词（瑕疵），亦与“保持镇静”的语境毫无关联。",
+      "visage": "错误。visage 侧重指人的“面容、容貌的外形结构或整体外观”（如 a stern visage），不具备 countenance 所特有的“心境表露、情感镇定度”的抽象认知语义，且英语中绝对不存在 *keep one's visage 这一搭配，替换后造成严重的搭配断裂。",
+      "blemish": "错误。blemish 作名词时指“物理表面的瑕疵、斑点”或“道德与名誉上的污点”，无法与 keep one's 构成表示“情绪自控”的逻辑语义，填入后语义荒谬。"
+    },
+    "translation": "在针对其认知模型理论缺陷的严苛质询中，这位哲学家竭力克制住面部表情（保持镇定），不让一丝不经意的冷笑暴露他对委员会肤浅质疑的轻蔑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_02",
+    "group_id": 681,
+    "group_name": "countenance, mar, visage, blemish",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "Although the computational paradigm offered profound insights into perceptual binding, subtle confounding variables within the sensory integration tasks threatened to ___ the theoretical coherence of the entire cognitive architecture.",
+    "options": [
+      "countenance",
+      "mar",
+      "visage",
+      "blemish"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in the direct object 'the theoretical coherence of the entire cognitive architecture' preceded by the infinitive 'threatened to ___'. In formal academic discourse, abstract structural wholeness, symmetry, and conceptual coherence are canonically paired with 'mar' (denoting the impairment or disruption of completeness and harmony). 'Blemish' strictly selects pristine surfaces or moral/professional reputations (e.g., 'blemish a spotless reputation'), resulting in a semantic collocational rupture; 'countenance' requires an intentional agent and denotes approval/toleration, inverting the sentence's concessive logic; and 'visage' is strictly a noun, resulting in an ungrammatical syntactic failure.",
+    "distractor_analysis": {
+      "countenance": "错误。countenance 作动词时意为“赞同、容忍、支持”（to extend approval or toleration to），通常要求具备主观意图的人类或权威机构作为施事主语。句中主语为非意识性的方法学缺陷（'confounding variables'），无法发出“容忍/赞同”这一施事动作；此外，前半句由 Although 引导让步，主句表达负面威胁，填入 countenance 将造成语篇逻辑连贯性的严重断裂。",
+      "mar": "正确。mar 作及物动词，指“破坏、损及……的完美、完整性或和谐”（to ruin or diminish the perfection or wholeness of : SPOIL）。在认知科学与认识论语境中，理论模型所具备的整体完备性与逻辑自洽性常与 mar 构成高度地道的学术搭配（如 'mar the theoretical coherence / structural unity'），精准体现实验混淆变量对整套认知架构连贯性的破坏效应。",
+      "visage": "错误。visage 在现代英语中仅作名词使用，指“面容、容貌、外表”（the face, countenance, or appearance of a person or thing）。空缺处位于不定式符号 'to' 之后且后接宾语 'the theoretical coherence'，必须由及物动词原形充当谓语核心，放入名词 visage 会造成灾难性的词性句法违误（syntactic category violation）。",
+      "blemish": "错误。blemish 作及物动词时意为“玷污、留下瑕疵”（to spoil by a blemish; tarnish），其核心语义特征牢固锚定在“使原本无瑕的物理表面出现斑点”或“使崇高的名誉、品格或清白记录受玷污”（如 'blemish one's reputation / pristine record'）。它不能与'理论连贯性'（theoretical coherence）或'认知架构'等抽象系统结构搭配，在此处使用属于语义搭配泛化与语域错位。"
+    },
+    "translation": "尽管这一计算范式为知觉捆绑提供了深刻见解，但感觉整合任务中潜藏的混淆变量却有可能破坏整个认知架构的理论自洽性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_03",
+    "group_id": 682,
+    "group_name": "divine, parson, rector, chaplain",
+    "level": "TEM-8",
+    "target_word": "divine",
+    "question": "Celebrated less for mundane parochial administration than for his speculative treatises on patristic hermeneutics, the seventeenth-century ___ engaged in rigorous epistemological disputes that fundamentally reshaped Anglican theological orthodoxy.",
+    "options": [
+      "divine",
+      "parson",
+      "rector",
+      "chaplain"
+    ],
+    "answer": "divine",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit contrast 'Celebrated less for mundane parochial administration than for his speculative treatises on patristic hermeneutics' paired with 'epistemological disputes that fundamentally reshaped Anglican theological orthodoxy' and 'seventeenth-century ___' strictly requires a noun denoting an erudite theologian or religious scholar rather than a pastoral or administrative cleric.",
+    "distractor_analysis": {
+      "divine": "正确。divine 作名词时专指“神学家；神学学者；高阶教士”（a theologian or scholar in religion）。句中明确强调该人物并非以教区日常行政见长，而是以其关于教父诠释学的学术专著与重塑圣公会神学正统的理论论辩著称。“seventeenth-century divine”在学术史与思想史中为固定经典搭配（特指以多恩、泰勒、安德鲁斯为代表的 Caroline Divines 等神学学者），完全契合 FIELD_COGNITION 语境。",
+      "parson": "错误。parson 指教区牧师或乡村教士，其核心词义与职责正是具体的教区事务与平民牧养。题干句首状语“Celebrated less for mundane parochial administration”（并非以日常教区管理见长）在逻辑上形成了语义排他，直接否定了以教区世俗管理为主要职能的 parson。",
+      "rector": "错误。rector 指教区长（拥有全额什一税收益权的教区主持教士）或学院/机构院长，强调的是法定的教职地位与行政辖权，而非从事高阶教义推演、形而上诠释学研究的神学学者，与后文的理论思辨语境不符。",
+      "chaplain": "错误。chaplain 指（军队、医院、监狱、大学礼拜堂或私人家庭等的）随军牧师、特派专职牧师，其职能局限于特定非教区机构内部的宗教仪轨，绝不指代重塑宗派神学正统的高深神学著述家。"
+    },
+    "translation": "这位十七世纪的神学家因其关于教父诠释学的思辨性专著而闻名，而非因世俗的教区管理见长；他所投身的严谨知识论论辩，从根本上重塑了圣公会的神学正统。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_04",
+    "group_id": 682,
+    "group_name": "divine, parson, rector, chaplain",
+    "level": "TEM-8",
+    "target_word": "parson",
+    "question": "Echoing Chaucer’s celebrated portrait of rural piety, British literary tradition consistently venerated the country ___ as an unpretentious moral anchor, whose humble pastoral visits and instinctive benevolence preserved communal solidarity amid agrarian upheaval.",
+    "options": [
+      "divine",
+      "parson",
+      "rector",
+      "chaplain"
+    ],
+    "answer": "parson",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The literary reference 'Chaucer’s celebrated portrait of rural piety' (specifically alluding to 'The Parson' in The Canterbury Tales) combined with 'the country ___' and 'unpretentious moral anchor, whose humble pastoral visits... preserved communal solidarity' uniquely selects the traditional Protestant village pastor.",
+    "distractor_analysis": {
+      "parson": "正确。parson 指乡村教区牧师，在英国文学与社会文化史中具有极高的象征辨识度（如乔叟《坎特伯雷故事集》中唯一种德行完美的教士形象 The Parson，以及赫伯特的《乡村牧师》The Country Parson）。句中“乔叟对乡村虔诚的描摹”、“谦逊的探访牧养（humble pastoral visits）”与“维系村社凝聚力”等线索，精准锁定扎根乡野基层、以道德指引和仁善闻名的 country parson。",
+      "divine": "错误。divine 侧重指深谙神学理论的学者或宗教教义研究者（theologian），强调深奥学术与教义著述，与句中所刻画的不事雕琢、深入田间乡民日常生活的质朴牧者形象严重不符。",
+      "rector": "错误。rector 是具有明确法定什一税收取权或行政治理权的高位教区长或学院院长，其语体侧重行政与法定特权，缺乏“country parson”所特有的、经由英国文学传统沉淀下来的质朴乡土温情与平民道德守望者内涵；乔叟笔下的经典原型亦非 rector。",
+      "chaplain": "错误。chaplain 指依附于特殊机构（如军营、医院、监狱）或贵族私邸的牧师，没有独立的地域性乡村教区，其职责范围不涉及管理乡村信众或维系农业社区的凝聚力，与题干语境完全脱节。"
+    },
+    "translation": "呼应乔叟对乡村虔诚的著名描摹，英国文学传统一贯将乡村牧师尊奉为质朴的道德支柱；在农业社会的巨变中，他那谦逊的探访牧养与天然的仁慈善意维系了村社的凝聚力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_05",
+    "group_id": 683,
+    "group_name": "drool, humbug, gibber, gibberish",
+    "level": "TEM-8",
+    "target_word": "drool",
+    "question": "While speculative investors continue to ___ over the tech firm's lucrative revenue projections, forensic accountants warn that such exponential growth forecasts obscure severe structural deficits and questionable auditing practices.",
+    "options": [
+      "drool",
+      "humbug",
+      "gibber",
+      "gibberish"
+    ],
+    "answer": "drool",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法介词搭配 'to ___ over' 以及后文的宾语 'lucrative revenue projections'（丰厚的收益预期）。在高级政经期刊语域（如《经济学人》《金融时报》）中，动词短语 'drool over' 是高度地道生动的固定习语，意为‘垂涎三尺、痴迷倾倒、表现出过分而盲目的狂热与渴望’（to make an extravagant or slavish display of enthusiasm or desire），与后半句法务会计师指出的隐秘财务风险形成鲜明的理性与狂热对比。",
+    "distractor_analysis": {
+      "drool": "正确。drool 作动词时，韦氏词典定义为 'to make an extravagant or slavish display of enthusiasm or admiration : WATER'。短语 'drool over sth' 形象地表示因极度贪婪或艳羡而垂涎、盲目狂热追捧。句中投机者对科技公司暴利预期的盲目热捧（continue to drool over...）与法务会计师揭露的结构性赤字形成了完美的逻辑张力与修辞闭环。",
+      "humbug": "错误。humbug 作动词时为及物动词（transitive），意为‘欺骗、诈骗、糊弄’（to deceive, trick, or impose upon someone），其后必须直接接被欺骗的对象（如 humbug the public），不能与介词 over 搭配（*humbug over projections 属严重句法错误）；且投机者面对盈利数据是‘被诱惑/贪婪渴望’而非在主动‘行骗’，语义方向彻底颠倒。",
+      "gibber": "错误。gibber 为不及物动词，特指因极端恐惧、歇斯底里或谵妄而‘急促、含混不清且语无伦次地胡言乱语’（to speak rapidly and inarticulately, typically through terror or shock）。它既不与介词 over 形成指向诱人目标的搭配（*gibber over projections 不合习语），其恐慌语意也与投机资本贪婪追逐利益的语境氛围完全相悖。",
+      "gibberish": "错误。gibberish 在词性上严格属于不可数名词（uncountable noun），指‘晦涩难懂或毫无意义的胡话、乱码’。句中置于不定式标记 'continue to ___' 之后，必须填入动词原形，代入 gibberish 会造成直接的词性与形态句法违背（morphosyntactic violation）。"
+    },
+    "translation": "尽管投机投资者仍在对这家科技公司丰厚的营收预期垂涎不已、趋之若鹜，但法务会计师警告称，这种指数级增长预测掩盖了严重的结构性赤字和可疑的审计操作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_06",
+    "group_id": 683,
+    "group_name": "drool, humbug, gibber, gibberish",
+    "level": "TEM-8",
+    "target_word": "humbug",
+    "question": "The investigative report unmasked the pharmaceutical executive's pious claims of philanthropic motivation as sheer ___, revealing that the enterprise had artificially inflated vaccine prices to exploit vulnerable nations.",
+    "options": [
+      "drool",
+      "humbug",
+      "gibber",
+      "gibberish"
+    ],
+    "answer": "humbug",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心动宾及主补结构 'unmasked the ... pious claims ... as sheer ___'，以及后文揭露企业人为抬高疫苗价格以牟取暴利。语义焦点在于‘道貌岸然的伪善、蓄意欺骗的谎言’。humbug 专指道貌岸然的虚伪言辞、欺骗性托辞或伪善把戏（sanctimonious cant, pretense, hypocrisy），形成严格的排他性契合。",
+    "distractor_analysis": {
+      "humbug": "正确。humbug 意为欺骗、伪善的言行或招摇撞骗的话语（something designed to deceive and mislead; hypocritical nonsense）。句中修饰语 'pious claims'（道貌岸然的说辞）与后文揭露暴利的行径形成了鲜明的讽刺反差，'unmask as sheer humbug' 属于典型的高级政经与社论搭配，精准击中‘伪善欺骗’的认知语义。",
+      "drool": "错误。drool 指幼稚愚蠢的废话、滥情多愁的文字（silly/sentimental drivel），不具备‘蓄意欺瞒、道德伪善、欺世盗名’的欺诈性语义特质。",
+      "gibber": "错误。gibber 侧重发音上的含混急促与语无伦次，既不符合抽象社论政经语域的搭配习惯，也无法承载揭露欺骗行为的语义要求。",
+      "gibberish": "错误。gibberish 指毫无逻辑结构或令人无法索解的乱码语言（unintelligible jargon or incoherent babble）。药企高管宣称的慈善动机在逻辑上完全清晰通顺，其性质属于欺骗与虚伪（humbug），而非在语言学意义上听不懂的胡言乱语。"
+    },
+    "translation": "该调查报告揭露了这位制药公司高管关于慈善动机的虔诚说辞纯属虚伪骗局，证实该企业人为抬高疫苗价格，以榨取弱势国家的利益。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_07",
+    "group_id": 684,
+    "group_name": "duet, duo, quartet, quintet",
+    "level": "TEM-8",
+    "target_word": "duet",
+    "question": "Developmental psycholinguists argue that early language acquisition operates as an intricate cognitive ___, characterized by synchronized turn-taking and reciprocal vocal gestures between caregiver and infant, rather than mere unilateral mimicry.",
+    "options": [
+      "duet",
+      "duo",
+      "quartet",
+      "quintet"
+    ],
+    "answer": "duet",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“operates as an intricate cognitive ___”由后文同位语“characterized by synchronized turn-taking and reciprocal vocal gestures between caregiver and infant”修饰，语境指涉双方动态交替、高度协调的互动过程与表现（an interactive reciprocal performance）。duet 在认知心理语言学中常比喻双向互惠的言语交互行为；而 duo 专指“二人组/搭档个体”，无法指代交替互动的行为过程；quartet 与 quintet 则在数量上直接与二元互动（caregiver and infant）相悖。",
+    "distractor_analysis": {
+      "duet": "正确。duet 本义为“二重奏/二重唱”，在认知科学与心理语言学语境中常用作引喻，特指两个参与者之间如同合奏般高度同步、交替呼应的动态互动过程（communicative/cognitive duet）。句中与“synchronized turn-taking and reciprocal vocal gestures”严密吻合。",
+      "duo": "错误。duo 专指“一对表演者、二人搭档或二人组合（a pair of persons associated together）”，核心语义指代参与合作的“人/实体本身”，而非两个主体间展开的“交互行为或互动机制本身”。若用于此处修饰语言习得的运作机制（operates as...），会导致概念范畴错配（category mistake）。",
+      "quartet": "错误。quartet 指“四重奏”或“四人组/四件套”，严格限定数量为四个主体或部分。句中已明确限定互动发生在两人之间（between caregiver and infant），数量上产生严重冲突。",
+      "quintet": "错误。quintet 指“五重奏”或“五人组”，严格指代由五个个体或乐器组成的组合，与句中明确指出的双边关系（caregiver and infant）在数量语义上完全矛盾。"
+    },
+    "translation": "发展心理语言学家认为，早期语言习得的运作机制犹如一场精妙的认知“二重奏”，其特征是照料者与婴儿之间同步的轮流发声与互惠性声音姿态，而非单纯的单向模仿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_08",
+    "group_id": 684,
+    "group_name": "duet, duo, quartet, quintet",
+    "level": "TEM-8",
+    "target_word": "duo",
+    "question": "Pioneering behavioral economists Daniel Kahneman and Amos Tversky formed an extraordinary intellectual ___, whose collaborative exploration of cognitive heuristics systematically dismantled traditional assumptions regarding human rationality in decision-making.",
+    "options": [
+      "duet",
+      "duo",
+      "quartet",
+      "quintet"
+    ],
+    "answer": "duo",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为明确提及的两位知名学者“Daniel Kahneman and Amos Tversky”，谓语动词为“formed an extraordinary intellectual ___”，后接指代人的定语从句引导词“whose collaborative exploration...”。语境要求填入表示“由两人组成的科研搭档/合作小组（a pair of individuals acting as a collaborative unit）”的名词。duo 专指两人搭档；duet 专指二重奏乐曲或演奏活动，不能用来称呼科研人员构成的团队；quartet（四人组）与 quintet（五人组）在数量上与两名学者完全不符。",
+    "distractor_analysis": {
+      "duo": "正确。duo 意为“二人组、搭档、一对合作者”，特指共同开展某项事业或活动的两个人。句中主语为卡尼曼与特沃斯基两位学者，谓语为 formed（结成/组成），且被关系代词 whose 修饰，完美体现“两人结成学术搭档”的用法。",
+      "duet": "错误。duet 专指音乐作品中的“二重奏/二重唱”或引申的“双人交互演奏行为”，其词义指向作品或表演事件（a musical piece or performance），绝不能指代由两个人构成的伙伴关系、研究团队或学术组合主体（学者不能组成一个 duet）。",
+      "quartet": "错误。quartet 意为“四人组合、四重奏”，要求数量必须为四。句中明确点名两位学者（Daniel Kahneman and Amos Tversky），与四人组在数量逻辑上不可调和。",
+      "quintet": "错误。quintet 意为“五人组合、五重奏”，其数量特征严格为五，与句中两名学者的事实基础与数量指称存在根本性语义矛盾。"
+    },
+    "translation": "行为经济学的开创者丹尼尔·卡尼曼与阿莫斯·特沃斯基组成了一对非凡的学术搭档，他们对认知启发式的协同探索，系统性地瓦解了有关决策中人类理性的传统假设。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_09",
+    "group_id": 685,
+    "group_name": "ensemble, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "ensemble",
+    "question": "During high-stakes diplomatic summits, negotiators view delegation conduct not as isolated tactical maneuvers, but as a tightly coordinated ___ of subtle behavioral cues and strategic concessions designed to project unwavering institutional resolve.",
+    "options": [
+      "ensemble",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "ensemble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The contrastive structure 'not as isolated tactical maneuvers, but as a tightly coordinated ___' requires a noun designating an integrated, harmoniously functioning collective whole, directly fulfilled by 'ensemble'.",
+    "distractor_analysis": {
+      "ensemble": "正确。作名词时意指“协同的整体、有机结合的总体”（an assemblage of parts considered as forming a whole）。句中“not as isolated tactical maneuvers, but as a tightly coordinated ___”（并非孤立的战术动作，而是高度协同的……）构建了“散兵游勇式的个体 vs. 紧密协同的整体”之对比，与后面的“behavioral cues and strategic concessions”（行为举止与策略让步）完美呼应，精准传达出外交博弈中各行为要素高度协调、浑然一体的态势。",
+      "mound": "错误。主要指“土堆、石堆”或杂乱堆积的大量物品（如 a mound of paperwork）。其核心语义特征为“堆聚、凸起、杂乱”，既无法受“tightly coordinated”（紧密协同的）修饰，也无法用于形容有组织的外交行为与策略组合。",
+      "fauna": "错误。属于生物学专门术语，专指某特定区域或时期的“动物群”（与 flora 相对）。本句探讨外交谈判中的行为模式与策略互动，出现生物学动物类群属于彻底的语义范畴错位。",
+      "corpus": "错误。指“文集、汇编”或语言学中的“语料库”，指代被动汇聚的文献或语言数据实体。它不具备“动态组织、主动协同”的内涵，无法作“tightly coordinated”的受体来修饰外交行为策略。"
+    },
+    "translation": "在高规格的外交峰会期间，谈判代表并不将代表团的行为举止视作孤立的战术动作，而是看作由细微行为暗示与战略让步构成的、高度协同的有机整体，旨在展现坚定不移的机构决意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_10",
+    "group_id": 685,
+    "group_name": "ensemble, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "mound",
+    "question": "Anthropological surveys of prehistoric mortuary behavior indicate that communal mourners laboriously raised an imposing ___ of earth and rubble over burial sites, transforming collaborative physical exertion into a lasting monument of ancestral continuity.",
+    "options": [
+      "ensemble",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "mound",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The governing collocation 'raised an imposing ___ of earth and rubble over burial sites' unambiguously dictates a physical earthwork or tumulus, which is the exact definition of 'mound'.",
+    "distractor_analysis": {
+      "mound": "正确。指“土石堆、冢、堆筑物”（a heap or bank of earth, sand, or other material），在人类学与考古学人类行为研究中专指人工筑造的墓冢（burial mound）。动词“raised”（堆筑）、材质搭配“of earth and rubble”（由泥土与碎石）以及方位状语“over burial sites”（在墓址之上）构成了无可置辩的决定性排他锚点。",
+      "ensemble": "错误。指由各要素构成的“和谐整体、艺术组合或成套装备”。泥土与碎石构筑的物理墓冢不具备审美或功能协同性，不能与“earth and rubble”搭配充当被堆筑的土石实体。",
+      "fauna": "错误。指某一区域的“动物区系、动物总称”。泥土和碎石属于非生物无机质，与表示动物生命的 fauna 毫无关联，属于本体范畴混淆。",
+      "corpus": "错误。指文献汇编或语言学“语料库”，属于抽象的文本或数据聚合体，不可能通过体力劳动被“筑起”（raised），亦不能由“泥土与碎石”（earth and rubble）构成并覆于墓穴之上。"
+    },
+    "translation": "对史前丧葬行为的人类学调查表明，共同体哀悼者费力地在墓址上筑起由泥土和碎石构成的巍峨冢堆，将集体的体力协作转化为象征先祖血脉永续的持久纪念物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_11",
+    "group_id": 686,
+    "group_name": "figurehead, sham, pseudo, impostor",
+    "level": "TEM-8",
+    "target_word": "figurehead",
+    "question": "Although the executive possessed no actual administrative authority, investigators discovered that he had been retained as a convenient ___, whose respected public profile effectively shielded the conglomerate’s illicit operations from regulatory scrutiny.",
+    "options": [
+      "figurehead",
+      "sham",
+      "pseudo",
+      "impostor"
+    ],
+    "answer": "figurehead",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的'possessed no actual administrative authority'与'whose respected public profile effectively shielded the conglomerate's illicit operations'构成了绝对的语意锚点，精准对应Merriam-Webster中对figurehead的专有释义：'a head or chief in name only'（名义首脑）以及'a person used as a cover for some questionable activity'（用作为可疑勾当打掩护的人）。",
+    "distractor_analysis": {
+      "figurehead": "正确。figurehead在韦氏词典中专指“只有名义而无实权的首脑”或“被用来为非法/可疑行径提供掩护的挂名人”。句中该高管“不掌握实际行政权力”（no actual administrative authority），但凭借“受尊重的社会形象”（respected public profile）被用来规避监管审查，完美契合figurehead在正式政治与商业语境中的特定角色功能。",
+      "sham": "错误。sham作名词主要表示“假象、骗局、冒牌货”（something that is not what it is purported to be），指代事物或事态的虚假性。虽然sham偶尔可指“伪君子、骗子”，但不可与“retained as a convenient ___”（被保留用作……的职务身份）搭配表示组织架构中充当幌子的名义高管。",
+      "pseudo": "错误。pseudo在现代学术英语中绝大多数情况作前缀或形容词；若作为独立名词使用，多见于非正式语体，特指“附庸风雅的人、装腔作势之徒”（poseur），既不符合本句严谨的高级财经/政法文体风格，也不能指代被机构利用来作掩护的名义领袖。",
+      "impostor": "错误。impostor严格指“冒名顶替者、招摇撞骗者”（a person who deceives others by pretending to be someone else），其核心特征在于冒充或伪造他人身份。句中该高管使用的是其自身真实的声誉（his respected public profile），并未盗用或假冒他人身份，逻辑完全不符。"
+    },
+    "translation": "尽管该高管并未掌握实际的行政实权，但调查人员发现，他一直被用作一个便利的傀儡与幌子，其受人尊敬的公众形象切实掩护了该企业集团的非法操作免受监管审查。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_12",
+    "group_id": 686,
+    "group_name": "figurehead, sham, pseudo, impostor",
+    "level": "TEM-8",
+    "target_word": "sham",
+    "question": "The regime’s much-heralded anticorruption campaign was dismissed by international monitors as a transparent ___, orchestrated not to punish graft, but to eliminate political rivals ahead of the impending general election.",
+    "options": [
+      "figurehead",
+      "sham",
+      "pseudo",
+      "impostor"
+    ],
+    "answer": "sham",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中主语为抽象政治行动'anticorruption campaign'，且后置分词短语'orchestrated not to punish graft, but to eliminate political rivals'揭露其虚伪的欺骗本质。'a transparent sham'是国际政治与严肃政论中的经典排他性搭配，其余三词均存在施事/人称名词与事件名词的范畴冲突。",
+    "distractor_analysis": {
+      "sham": "正确。sham作名词指“虚伪的表象、有名无实的骗局、虚假的把戏”（an imitation or counterfeit purporting to be genuine; an empty pretense）。'a transparent sham'（不折不扣的幌子/显而易见的骗局）与后文揭示的该运动并非惩治贪腐而是排除异己的虚伪行径构成严密的因果与语义闭环。",
+      "figurehead": "错误。figurehead是典型的具有人称专属性的施事名词，严格指代“傀儡首脑、挂名领袖”，无法修饰或指代抽象的政治反腐运动（anticorruption campaign），违背了词汇的选择限制规则（selectional restrictions）。",
+      "pseudo": "错误。pseudo主要作前缀或形容词。若偶用作名词，特指“装模作样者、虚伪的人”，不仅语域非正式，而且绝对不能用来充当描述“政治运动”为假把戏的表语中心词。",
+      "impostor": "错误。impostor指“冒名顶替他人者”，同样具有严格的[+人类]（[+human]）语义特征，根本不能用于指代无生命的制度举措、政治事件或运动。"
+    },
+    "translation": "该政权大肆宣扬的反腐运动被国际监督机构斥为一场不折不扣的虚伪骗局，其被策划出来的真正目的并非惩治贪腐，而是在大选临近前借机清除政治对手。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_13",
+    "group_id": 687,
+    "group_name": "fissure, sag, furrow, crease",
+    "level": "TEM-8",
+    "target_word": "fissure",
+    "question": "The epistemological dispute over post-structuralist methodology exposed a widening ___ within the department, ultimately fracturing the scholarly consensus that had historically sustained their collective research agenda.",
+    "options": [
+      "fissure",
+      "sag",
+      "furrow",
+      "crease"
+    ],
+    "answer": "fissure",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocations 'widening ___ within' and 'ultimately fracturing the scholarly consensus' demand a noun signifying a profound breach, ideological schism, or structural cleavage in intellectual cohesion.",
+    "distractor_analysis": {
+      "fissure": "正确。fissure 本义为狭长的裂缝或地堑，在认知与学术思想语境（FIELD_COGNITION）中常引申指共识、组织或学派内部不可弥合的‘深刻分歧、意识形态裂痕或派系分裂’（schism/breach）。与动词短语 exposed a widening... 及后文 fracturing the scholarly consensus（撕裂学术共识）构成绝佳的语义照应与隐喻闭环。",
+      "sag": "错误。sag 指受重力或压力导致的‘中部下垂、凹陷’，引申指精力、士气、价格或活力的‘暂时性下跌、松弛或滑坡’（slump/decline）。它描述的是强度的下陷而非结构性破裂，不能与 widening... fracturing 搭配来表示造成团体或共识断裂的学派鸿沟。",
+      "furrow": "错误。furrow 指犁沟或因忧虑、思考在面部（尤其前额）形成的‘深皱纹’，属于线状凹槽，无法引申指代组织内部导致共识破裂的学术派系裂痕，与 department 和 fracturing consensus 发生严重语境不兼容。",
+      "crease": "错误。crease 指折痕、压痕或细小衣褶，强调折叠或挤压造成的表浅线条，缺乏‘破裂、断离、产生敌对两极’的语义潜能，完全无法承担‘撕裂学术共识’的重度认知隐喻。"
+    },
+    "translation": "关于后结构主义方法论的认识论之争暴露了该系内部日益扩大的理念裂痕，最终打破了历史上维系他们共同研究议程的学术共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_14",
+    "group_id": 687,
+    "group_name": "fissure, sag, furrow, crease",
+    "level": "TEM-8",
+    "target_word": "sag",
+    "question": "During prolonged vigilance tasks, neuroscientists observed a pronounced ___ in cognitive alertness around mid-afternoon, attributed to circadian fluctuations rather than any lasting neurological impairment.",
+    "options": [
+      "fissure",
+      "sag",
+      "furrow",
+      "crease"
+    ],
+    "answer": "sag",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'in cognitive alertness around mid-afternoon, attributed to circadian fluctuations' denotes a temporary downward dip, slump, or decline in mental intensity, which exclusively selects 'sag'.",
+    "distractor_analysis": {
+      "sag": "正确。sag 在认知科学与心理学语境中引申为注意力、思维活力或认知警觉性的‘暂时下沉、低谷、萎靡滑坡’（a temporary decline or droop in level/vigor）。与介词 in 及短语 cognitive alertness、circadian fluctuations（昼夜节律波动）构成典型搭配，精确表现出午后注意力的周期性下沉。",
+      "fissure": "错误。fissure 强调‘分裂、破裂、断层’，警觉性（alertness）作为一种连续性的心理注意状态，可能会衰减或下沉，但不能发生物理或结构意义上的‘裂缝/断裂’（fissure in alertness 属搭配不当）。",
+      "furrow": "错误。furrow 意为沟槽或愁纹，常用于 a furrow in one's brow（紧锁的眉头），无法搭配 in cognitive alertness 表达精神警觉度的低谷或下降趋势。",
+      "crease": "错误。crease 意为折痕、褶皱，只能表达物体表面的物理痕迹，既不具备‘数量/强度下降’的语义维度，也无法与抽象的认知能力（cognitive alertness）形成合乎逻辑的修饰关系。"
+    },
+    "translation": "在持续的警觉性测试中，神经科学家观察到午后时分认知警觉度出现了明显的暂时滑坡，这被归因于昼夜节律的波动，而非任何持久的神经功能损伤。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_15",
+    "group_id": 688,
+    "group_name": "fitting, drape, mantle, drapery",
+    "level": "TEM-8",
+    "target_word": "fitting",
+    "question": "In fashion theory, the couture ___ is framed not merely as technical tailoring, but as a reciprocal diagnostic event where the artisan assesses tactile comfort and adjusts pinned seams against dynamic anatomy.",
+    "options": [
+      "fitting",
+      "drape",
+      "mantle",
+      "drapery"
+    ],
+    "answer": "fitting",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive semantic anchor lies in 'a reciprocal diagnostic event where the artisan assesses tactile comfort and adjusts pinned seams against dynamic anatomy'. Only 'fitting' denotes the interactive trial session where clothing is adjusted on the body.",
+    "distractor_analysis": {
+      "fitting": "正确项。fitting 在高级定制（haute couture）与剪裁术语中指“试衣（会）”，即工匠让客户试穿半成品衣物并对照人体动态轮廓调整缝线（pinned seams）的专业诊断环节，与后文的 diagnostic event 形成无可替代的语义呼应。",
+      "drape": "干扰项。drape 指织物自身的“悬垂感、垂坠样态或衣褶悬垂风格”，是面料的物理属性或形态表现，而非由工匠动手调整大头针与缝线的“交互诊断性事件（diagnostic event）”。",
+      "mantle": "干扰项。mantle 指“斗篷、披风”或比喻层面的“覆盖层、领导重任”（如 assume the mantle of），既无法指代裁缝制作中的工序或试衣会，也无法与调节缝线的动作形成语境配合。",
+      "drapery": "干扰项。drapery 意为“悬挂的褶幔、窗帘”或美术作品中对“褶裥的艺术表现手法”，为静态的织物集合名词或视觉表现对象，绝不能充当服装量体定制中的试衣程序。"
+    },
+    "translation": "在具身设计理论中，高级定制的试衣过程不仅被阐释为纯粹的剪裁技术，更被视作一个双向的诊断性环节——在此过程中，工匠评估穿着者的触觉舒适度，并对照动态的人体结构调整别针固定的接缝。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_16",
+    "group_id": 688,
+    "group_name": "fitting, drape, mantle, drapery",
+    "level": "TEM-8",
+    "target_word": "drape",
+    "question": "Evaluating the fabric's perceptual appeal, researchers observed that its supple ___, characterized by the way it folded and hung under its own weight, directly influenced observers' cognitive judgments of luxury.",
+    "options": [
+      "fitting",
+      "drape",
+      "mantle",
+      "drapery"
+    ],
+    "answer": "drape",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The restrictive post-modifier 'characterized by the way it folded and hung under its own weight' provides the lexicographical definition of textile 'drape' (the dynamic hang and gravitational fall of fabric).",
+    "distractor_analysis": {
+      "drape": "正确项。drape 在纺织物物理学与审美认知中专指面料的“垂感、悬垂性”，即布料在自身重力作用下自然下垂、产生流动褶皱的固有力学与美学属性（the hang or fall of a fabric）。后文同位结构对其给出了教科书级的精确释义。",
+      "drapery": "干扰项。drapery 主要指作为实体物品的“褶幔、厚窗帘”，或指古典雕塑及绘画中描绘的“衣褶造型”。它强调织物实体或装饰物本身，不能用来描述单一实验面料在重力下自然折叠与垂落的动态物理性能（manner of hanging）。",
+      "fitting": "干扰项。fitting 作名词指“试衣（过程）”或“配件、装置”，与布料在自身重力下自然弯曲折叠的物理悬垂特征毫无语义关联。",
+      "mantle": "干扰项。mantle 意为“披风、斗篷”或“地幔、覆盖层”，指具体的服饰类别或覆盖物，无法充当描述布料自重形变与垂坠流动感的专有名词。"
+    },
+    "translation": "在评估该面料的知觉吸引力时，研究人员注意到，其以自身重量下自然折叠与垂挂为特征的柔软悬垂感，直接影响了观察者对奢华感的认知判断。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_17",
+    "group_id": 689,
+    "group_name": "flicker, flit, waver, wiggle",
+    "level": "TEM-8",
+    "target_word": "flicker",
+    "question": "Throughout the tense bilateral summit, the veteran diplomat maintained an impenetrable composure, betrayed only by a fleeting ___ of skepticism across his impassive features that eluded all but the most astute observers.",
+    "options": [
+      "flicker",
+      "flit",
+      "waver",
+      "wiggle"
+    ],
+    "answer": "flicker",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational and conceptual anchor 'fleeting ___ of skepticism across his impassive features' exclusively selects 'flicker', which denotes an ephemeral micro-expression or momentary trace of emotion flitting across the face.",
+    "distractor_analysis": {
+      "flicker": "正确。名词 flicker 在高级政论与学术心理学语境中常引申为“（感觉、情绪、微表情的）短暂流露，闪现”，与介词 of 连用构成固定认知搭配（a flicker of doubt/skepticism/interest）。句中的 fleeting（转瞬即逝的）与 across his impassive features（掠过其冷峻的面容）构成了强有力的同现语境，准确描摹出难以捉摸的微妙神态。",
+      "flit": "错误。名词 flit 专指轻巧生物或物体的“疾掠、轻快飞跃”（a quick, darting movement or flight），通常用于具体物理空间中的位移，不能与表示情绪状态的抽象名词（如 skepticism）构成“微表情闪烁”的固定修辞搭配。",
+      "waver": "错误。名词 waver 意为“动摇、迟疑、颤抖”，多指决心、立场的摇摆或声音音调的颤抖（如 a waver in his voice），其后通常接介词 in 而非 of，语义侧重于稳定性的丧失而非“情绪与神情的刹那闪现”。",
+      "wiggle": "错误。名词 wiggle 指“扭动、摆动”（如扭动身体、脚趾等小幅度动作），属于高度口语化的具象肢体动作描述，在严肃外交峰会语境中存在严重的文体风格冲突（stylistic clash），且在语义上无法修饰怀疑等内心活动。"
+    },
+    "translation": "在整场高度紧张的双边峰会期间，这位资深外交官始终保持着令人难以捉摸的镇定，唯有冷峻的面庞上一闪而过的怀疑神色泄露了心迹，而这一瞬间除了最敏锐的观察家外无人察觉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_18",
+    "group_id": 689,
+    "group_name": "flicker, flit, waver, wiggle",
+    "level": "TEM-8",
+    "target_word": "flit",
+    "question": "During the twilight census, ornithologists recorded the erratic ___ of the warbler among the canopy branches, a characteristic darting behavior that distinguishes the species from its more sedentary woodland counterparts.",
+    "options": [
+      "flicker",
+      "flit",
+      "waver",
+      "wiggle"
+    ],
+    "answer": "flit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The appositive phrase 'a characteristic darting behavior that distinguishes the species from its more sedentary woodland counterparts' directly defines the missing noun as a rapid, darting flight from perch to perch, matching 'flit'.",
+    "distractor_analysis": {
+      "flit": "正确。名词 flit 的核心释义为“短促敏捷的飞掠，穿梭”（a quick, darting movement or flight），尤其专用于描述小型鸟类、蝙蝠或昆虫在枝桠花叶间轻快多变的飞动行为。后文同位语 a characteristic darting behavior（典型的疾掠行为）及空间方位 among the canopy branches（在林冠枝桠间）提供了绝对排他的释义级语义锚点。",
+      "flicker": "错误。flicker 作名词指光线的闪烁或微弱感觉的隐现，无法指代禽鸟个体的空间疾掠与飞行轨迹，用于描述林莺在林间的运动属于概念错配与搭配不当。",
+      "waver": "错误。waver 指摇晃、蹒跚或行进轨迹的犹豫不决，强调“摆动不定、缺乏定力”，完全缺失了 flit 所蕴含的“轻快敏捷、疾掠移动（darting）”这一动物行为学核心动力特征。",
+      "wiggle": "错误。wiggle 专指蠕虫类软体生物的蠕动或身体局部的左右扭动（如摆动手指、臀部），既不符合鸟类在林冠起落的运动机理，又在学术严谨的生态观测报告中显得极不规范。"
+    },
+    "translation": "在暮色时分的种群普查中，鸟类学家记录了林莺在林冠枝桠间飘忽不定的掠飞，这是一种标志性的敏捷疾掠行为，使其有别于那些习性更为安居定居的林地同类。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_19",
+    "group_id": 690,
+    "group_name": "flit, wiggle, squirm, wriggle",
+    "level": "TEM-8",
+    "target_word": "flit",
+    "question": "In visual psychophysics, an involuntary ___ of ocular focus toward sudden peripheral flashes often derails sustained attention, executing a swift, darting shift across the visual field before higher-order cognitive filtering can intervene.",
+    "options": [
+      "flit",
+      "wiggle",
+      "squirm",
+      "wriggle"
+    ],
+    "answer": "flit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的“executing a swift, darting shift across the visual field”（在视野中完成一次迅速而轻快的跃迁转移）与“ocular focus”（视线焦点）构成了决定性排他锚点，严格限定了名词 flit 所特有的“轻捷、突然的疾速移动或跃迁（a sudden quick movement / darting transition）”义项，从而排除了强调往复摆动或身体扭动的其他选项。",
+    "distractor_analysis": {
+      "flit": "正确。flit 作名词时意为“突然而轻捷的移动、飞掠（a sudden quick movement）”。在本句中与“ocular focus”（视线焦点）搭配，且后文由伴随分词短语“executing a swift, darting shift across the visual field”进行同义补足，精准表达认知心理学中视线从注视点向外周刺激发生的轻快、突发性跳跃转移（saccadic shift）。",
+      "wiggle": "错误。wiggle 作名词时意为“小幅度的轻微往复摇动或摆动（a slight movement back and forth or up and down）”。其核心义项在于同一局部的微小周期性晃动，而本句语境明确强调视线焦点向外周靶标单向发生的“轻快飞跃与转移（darting shift across the visual field）”，而非微小的往复摆晃，概念内涵不符。",
+      "squirm": "错误。squirm 作名词时指“因局促、痛苦、尴尬或极度不适而产生的蠕动或扭动身体（a squirming movement）”。句中动作主体为无形的视线焦点（ocular focus），完全不具备 squirm 所必需的“因窘迫或身体受苦引发的肉体扭转”语义特征。",
+      "wriggle": "错误。wriggle 作名词时指“如虫蛇般蜿蜒扭动、扭曲前行”，或引申指通过耍花招、蜿蜒盘曲以脱离困境。该词强调柔韧躯体的扭曲形变或挣脱动作，无法用于描述视线焦点在视野中瞬时完成的轻快直线式跃迁（darting shift）。"
+    },
+    "translation": "在视觉心理物理学中，视线焦点对外周突发闪光产生的不自主飞掠往往会打断持续注意力，在高级认知过滤机制介入之前，即在视野中完成一次迅速而轻快的跳跃转移。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b68_20",
+    "group_id": 690,
+    "group_name": "flit, wiggle, squirm, wriggle",
+    "level": "TEM-8",
+    "target_word": "wiggle",
+    "question": "In sensorimotor psychophysics, a minute ___ of the subject's stylus along the horizontal axis, characterized by a rapid back-and-forth oscillation, demonstrates how continuous cognitive deliberation dynamically perturbs fine motor execution.",
+    "options": [
+      "flit",
+      "wiggle",
+      "squirm",
+      "wriggle"
+    ],
+    "answer": "wiggle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“along the horizontal axis, characterized by a rapid back-and-forth oscillation”（沿水平轴线、以快速的前后/左右往复振荡为特征）以及作用对象“stylus”（刚性手写笔）构成了决定性排他锚点，直接对应 wiggle 核心词典释义“a slight movement back and forth or up and down”，决定性排除了强调蛇状弯曲扭动的 wriggle、表达痛苦窘迫的 squirm 以及强调轻快瞬时飞跃的 flit。",
+    "distractor_analysis": {
+      "wiggle": "正确。wiggle 作名词时严格定义为“轻微的微小往复摆动或摇动（a slight movement back and forth or up and down）”。句中修饰刚性仪器“stylus”（手写笔），并被后置定语“characterized by a rapid back-and-forth oscillation”（以快速往复振荡为特征）直接界定，完美契合感知运动认知测试中微小机械摆动反映认知权衡的语境。",
+      "wriggle": "错误。wriggle 作名词时指“蜿蜒蠕动、屈伸扭动”，特指像蚯蚓、蛇一样依靠躯体的柔韧弯曲推进，或引申为脱困挣扎。手写笔（stylus）是不可弯折的刚性笔杆，无法产生蛇状的柔韧形变；同时 wriggle 不用于描述沿固定几何轴线的机械式往复微小振荡（oscillation）。",
+      "squirm": "错误。squirm 作名词时专指因疼痛、焦虑、难堪或极度不适而出现的“辗转扭动、局促翻动”。无生命的机械手写笔不可能产生生物情绪化的痛苦扭曲，其词义在认知运动测试的严谨语域中存在严重的语义冲突。",
+      "flit": "错误。flit 作名词时意为“突然而迅速的飞掠、轻快位移（a sudden quick movement）”，强调从一个空间位置向另一个空间位置轻捷飞移或跃迁，并不包含后文所明确限定的“back-and-forth oscillation”（在固定轴线两点之间的往复振荡/摆动）机制。"
+    },
+    "translation": "在感知运动心理物理学中，被试的手写笔沿水平轴产生的微小往复摆动（表现为快速的前后振荡），表明持续的认知权衡是如何动态干扰精细运动执行的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

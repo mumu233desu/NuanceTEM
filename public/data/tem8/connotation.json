@@ -1,6 +1,6 @@
 [
   {
-    "id": "tem8_b00_11",
+    "id": "tem8_pro_001",
     "group_id": 6,
     "group_name": "ingenuous, credulous, gullible, naive",
     "level": "TEM-8",
@@ -24,10 +24,11 @@
     },
     "translation": "这位理论家绝未提供任何虚伪矫饰的辩解，而是对其模型的经验局限性展现出坦率真诚的态度，体现出一种因其学术操守与卓越智识造诣而广受批评家赞誉的严谨透明度。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "The prepositional clause 'Far from offering disingenuous rationalizations' establishes a direct morphological and semantic antonymic demand for 'ingenuous' (candid, artless, and completely free from deceitful calculation). The target position modifies the uncountable noun 'candor' without an indefinite article, removing the phonological cueing flaw. Grammatically and conceptually, 'credulous' and 'gullible' are restricted to epistemic recipients susceptible to deception and cannot modify an expressive communicative virtue like 'candor'. Furthermore, the concluding participial clause explicitly praises the act for its 'intellectual sophistication', creating an insurmountable logical contradiction with 'naive' (which connotes analytical shallowness, childish simplicity, or deficient worldly wisdom)."
+    "taxonomy_notes": "The prepositional clause 'Far from offering disingenuous rationalizations' establishes a direct morphological and semantic antonymic demand for 'ingenuous' (candid, artless, and completely free from deceitful calculation). The target position modifies the uncountable noun 'candor' without an indefinite article, removing the phonological cueing flaw. Grammatically and conceptually, 'credulous' and 'gullible' are restricted to epistemic recipients susceptible to deception and cannot modify an expressive communicative virtue like 'candor'. Furthermore, the concluding participial clause explicitly praises the act for its 'intellectual sophistication', creating an insurmountable logical contradiction with 'naive' (which connotes analytical shallowness, childish simplicity, or deficient worldly wisdom).",
+    "legacy_id": "tem8_b00_11"
   },
   {
-    "id": "tem8_b00_12",
+    "id": "tem8_pro_002",
     "group_id": 6,
     "group_name": "ingenuous, credulous, gullible, naive",
     "level": "TEM-8",
@@ -51,10 +52,11 @@
     },
     "translation": "这位法学家虽以敏锐的思辨能力及对欺骗的天然免疫力著称，却就公民自由提出了一项极为真率质朴的辩护，其特点在于那种拒绝一切体制性伪饰的真诚与直率。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "The qualifying clause 'celebrated for her shrewd analytical mind and immunity to deception' strictly precludes cognitive vulnerability or foolishness ('credulous', 'gullible', 'naive'), while 'unfeigned, artless frankness that refused all institutional dissimulation' exclusively selects 'ingenuous' (candid, artless, free from pretense)."
+    "taxonomy_notes": "The qualifying clause 'celebrated for her shrewd analytical mind and immunity to deception' strictly precludes cognitive vulnerability or foolishness ('credulous', 'gullible', 'naive'), while 'unfeigned, artless frankness that refused all institutional dissimulation' exclusively selects 'ingenuous' (candid, artless, free from pretense).",
+    "legacy_id": "tem8_b00_12"
   },
   {
-    "id": "tem8_b01_03",
+    "id": "tem8_pro_003",
     "group_id": 12,
     "group_name": "insidious, treacherous, stealthy, surreptitious",
     "level": "TEM-8",
@@ -78,10 +80,11 @@
     },
     "translation": "海洋生物学家警告称，与突发性的原油泄漏相比，微塑料污染构成了一种隐蔽得多的生态威胁，因为其对底栖生物食物网渐进、难以察觉的侵蚀破坏往往能躲过监测，直至造成不可逆的灾难。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "句中通过与突发性、高可见度的原油泄漏（acute oil spills）形成鲜明反差，并以“cumulative, imperceptible degradation... eludes detection until irreversible damage occurs”（渐进累积、难以察觉的破坏……潜伏滋生直至造成不可逆损伤才被发现）作为决定性排他锚点。这完全契合韦氏词典对 insidious 的核心释义：指某种有害事物以极其缓慢且不易察觉的方式发展，直至完全确立并造成深远破坏。"
+    "taxonomy_notes": "句中通过与突发性、高可见度的原油泄漏（acute oil spills）形成鲜明反差，并以“cumulative, imperceptible degradation... eludes detection until irreversible damage occurs”（渐进累积、难以察觉的破坏……潜伏滋生直至造成不可逆损伤才被发现）作为决定性排他锚点。这完全契合韦氏词典对 insidious 的核心释义：指某种有害事物以极其缓慢且不易察觉的方式发展，直至完全确立并造成深远破坏。",
+    "legacy_id": "tem8_b01_03"
   },
   {
-    "id": "tem8_b01_04",
+    "id": "tem8_pro_004",
     "group_id": 12,
     "group_name": "insidious, treacherous, stealthy, surreptitious",
     "level": "TEM-8",
@@ -105,10 +108,11 @@
     },
     "translation": "自然保护区管理部门发现了在保护区内进行秘密生物勘探的证据；数月以来，未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下，一直在暗中采集珍稀兰花物种。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "后文由 where 引导的定语从句明确指出“unauthorized commercial researchers had spent months collecting rare orchid species without governmental oversight or ethical permits”（未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下长达数月私自采集珍稀兰花）。“unauthorized”（未经授权的）与“without governmental oversight or permits”（绕过官方监管机制）构成了决定性排他锚点，精准锁定 surreptitious 专有的“暗中进行的、未获准许的、规避官方监视的（done by stealth or without authority）”内涵。"
+    "taxonomy_notes": "后文由 where 引导的定语从句明确指出“unauthorized commercial researchers had spent months collecting rare orchid species without governmental oversight or ethical permits”（未经授权的商业研究人员在缺乏政府监管和伦理许可的情况下长达数月私自采集珍稀兰花）。“unauthorized”（未经授权的）与“without governmental oversight or permits”（绕过官方监管机制）构成了决定性排他锚点，精准锁定 surreptitious 专有的“暗中进行的、未获准许的、规避官方监视的（done by stealth or without authority）”内涵。",
+    "legacy_id": "tem8_b01_04"
   },
   {
-    "id": "tem8_b02_11",
+    "id": "tem8_pro_005",
     "group_id": 26,
     "group_name": "cajole, coax, badger, seduce",
     "level": "TEM-8",
@@ -132,10 +136,11 @@
     },
     "translation": "敏锐地察觉到那位自负外交官极强的虚荣心后，特使试图通过精心设计的极尽奉承——而非实质性的政策妥协——哄劝他签署这份脆弱的协议。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "句中的核心线索'immense vanity'（极大的虚荣心）与'through lavish, calculated flattery'（通过精心设计的极尽奉承）明确锁定了手段为'甜言蜜语阿谀奉承'。根据Merriam-Webster定义，cajole的核心义素正是'to influence or urge by gentle urging, caressing, or flattering; wheedle'，唯有该词精准呼应利用虚荣心谄媚诱劝的语义内涵。"
+    "taxonomy_notes": "句中的核心线索'immense vanity'（极大的虚荣心）与'through lavish, calculated flattery'（通过精心设计的极尽奉承）明确锁定了手段为'甜言蜜语阿谀奉承'。根据Merriam-Webster定义，cajole的核心义素正是'to influence or urge by gentle urging, caressing, or flattering; wheedle'，唯有该词精准呼应利用虚荣心谄媚诱劝的语义内涵。",
+    "legacy_id": "tem8_b02_11"
   },
   {
-    "id": "tem8_b02_12",
+    "id": "tem8_pro_006",
     "group_id": 26,
     "group_name": "cajole, coax, badger, seduce",
     "level": "TEM-8",
@@ -159,6 +164,1631 @@
     },
     "translation": "凭借精湛的运弓控制以及对指压的微妙调整，这位大提琴大师成功从这件脾性难辨的十八世纪古老乐器中引出了令人惊叹的澄澈共鸣。",
     "mechanism": "MECH_CONNOTATION",
-    "taxonomy_notes": "句中的宾语及介词搭配'___ an astonishingly luminous resonance from the... instrument'（从乐器中诱发共鸣）构成了绝对的排他性锚点。依据Merriam-Webster的高阶释义，coax拥有独特的引申义'to draw, gain, or bring to a desired state by gentle persistent effort'（如coax a tone from a flute），专指以极大的耐心与技巧从精细或难驾驭的客体中调谐出最佳状态；其余三项仅能支配具有主观意识的人类受体，代入本句均构成严重的范畴错误与搭配断裂。"
+    "taxonomy_notes": "句中的宾语及介词搭配'___ an astonishingly luminous resonance from the... instrument'（从乐器中诱发共鸣）构成了绝对的排他性锚点。依据Merriam-Webster的高阶释义，coax拥有独特的引申义'to draw, gain, or bring to a desired state by gentle persistent effort'（如coax a tone from a flute），专指以极大的耐心与技巧从精细或难驾驭的客体中调谐出最佳状态；其余三项仅能支配具有主观意识的人类受体，代入本句均构成严重的范畴错误与搭配断裂。",
+    "legacy_id": "tem8_b02_12"
+  },
+  {
+    "id": "tem8_pro_007",
+    "group_id": 48,
+    "group_name": "deplore, snipe, assail, admonish",
+    "level": "TEM-8",
+    "target_word": "deplore",
+    "question": "While human rights jurists deeply ___ the tragic erosion of constitutional protections, treating this regression as a moral calamity, they lack the punitive authority to compel compliance from rogue state actors.",
+    "options": [
+      "deplore",
+      "snipe",
+      "assail",
+      "admonish"
+    ],
+    "answer": "deplore",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'the tragic erosion of constitutional protections' and logically aligns with 'treating this regression as a moral calamity', demanding a transitive verb that conveys grave moral sorrow combined with solemn condemnation.",
+    "distractor_analysis": {
+      "deplore": "正确。及物动词，意为“对……深表痛惜、强烈谴责”（to express strong disapproval of / regret strongly）。句中宾语为“the tragic erosion of constitutional protections”（宪法保障的悲剧性侵蚀），后文“treating this regression as a moral calamity”（视此倒退为道德灾难）进一步强化了其悲痛与谴责兼具的道德色彩。“deeply deplore”属于高端学术与外交公文语域中的极高频经典搭配。",
+      "snipe": "错误。句法与语域双重不符。一方面，snipe 作“抨击、讽刺”解时为不及物动词，必须接介词 at（即 snipe at），不能直接带宾语“the tragic erosion”；另一方面，其内涵为躲在暗处进行琐屑非难或放冷箭，与本句人权法学家严肃、庄重的法理与道德哀谴语域格格不入。",
+      "assail": "错误。搭配与内涵冲突。assail 为及物动词，意为“猛烈攻击、质问”，其选择限制通常要求宾语为具体的对手、政权或论点（如 assail the regime / critics），侧重主动发起侵略性、正面猛烈的进攻；而本句宾语是“the tragic erosion”（悲剧性侵蚀）这一客观恶化过程，且上下文强调的是“deeply ... as a moral calamity”（深感痛心疾首的道德悲叹），assail 缺乏 deplore 所特有的“深切悲痛、痛惜”（grief and deep regret）核心内涵。",
+      "admonish": "错误。选择限制（selectional restriction）违背。admonish 意为“训诫、告诫、劝告”，其及物动词的受事对象通常必须是具有意志的行为主体（即人，如 admonish the authorities / someone），不能以“the tragic erosion”这种抽象的退化现象作为直接宾语。"
+    },
+    "translation": "尽管人权法学家对宪法保障遭遇的悲剧性侵蚀深表痛惜与谴责，并将其视作一场道德灾难，但他们缺乏强制不轨国家行为体遵守法纪的惩罚性权力。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Collocates with 'the tragic erosion of constitutional protections' and logically aligns with 'treating this regression as a moral calamity', demanding a transitive verb that conveys grave moral sorrow combined with solemn condemnation.",
+    "legacy_id": "tem8_b04_15"
+  },
+  {
+    "id": "tem8_pro_008",
+    "group_id": 48,
+    "group_name": "deplore, snipe, assail, admonish",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than engaging in constructive policy debates, disaffected backbenchers chose to ___ at the Prime Minister from the safe anonymity of social media, undermining party unity with petty grievances.",
+    "options": [
+      "deplore",
+      "snipe",
+      "assail",
+      "admonish"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The preposition 'at' followed by 'the Prime Minister', paired with 'from the safe anonymity of social media' and 'petty grievances', exclusively demands the intransitive, covert-harping verb 'snipe'.",
+    "distractor_analysis": {
+      "snipe": "正确。不及物动词，常与介词 at 连用（snipe at sb.），军事本义为“狙击、隐蔽射击”，在政治与评论语域中引申为“放冷枪、暗中放冷箭、在安全或隐蔽处进行琐屑刻薄的非难”。句中“at the Prime Minister”、“from the safe anonymity of social media”（借助社交媒体的安全匿名性）及“petty grievances”（琐碎怨愤）提供了决定性的句法与语义线索，完美契合其隐蔽、狭隘、放冷箭的贬义内涵。",
+      "deplore": "错误。句法严重受阻。deplore 是纯及物动词（transitive verb），其后必须直接跟名词性宾语（如 deplore the government's policy），在英语中不存在 *deplore at 的介词搭配；且其语义为庄重的谴责与痛惜，无法与“petty grievances”的琐屑语境相容。",
+      "assail": "错误。句法受阻。assail 意为“猛烈抨击、痛打”，为及物动词，必须直接支配受事客体（如 assail the Prime Minister），后接介词 at（*assail at）属于严重句法错误；此外，assail 强调整体正面、势头凶猛的攻击，与句中“safe anonymity”（安全匿名性）所体现的暗度陈仓式冷嘲截然对立。",
+      "admonish": "错误。句法受阻。admonish 意为“告诫、劝诫”，系及物动词，其基本句式为 admonish sb. (for/against sth.)，不能接介词 at（*admonish at 为错误搭配）；且后座议员因琐怨在网络上匿名攻讦党首的行为，完全不具备长辈或权威者“告诫、训诫”的语义场特征。"
+    },
+    "translation": "心怀不满的后座议员们并没有参与建设性的政策辩论，而是选择躲在社交媒体的安全匿名屏障后对首相放冷箭、冷嘲热讽，以琐碎的怨言破坏党内团结。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The preposition 'at' followed by 'the Prime Minister', paired with 'from the safe anonymity of social media' and 'petty grievances', exclusively demands the intransitive, covert-harping verb 'snipe'.",
+    "legacy_id": "tem8_b04_16"
+  },
+  {
+    "id": "tem8_pro_009",
+    "group_id": 76,
+    "group_name": "flout, jeer, scoff, banter",
+    "level": "TEM-8",
+    "target_word": "flout",
+    "question": "Emboldened by lax regulatory oversight, several offshore financial intermediaries continued to ___ statutory anti-money-laundering directives, actively facilitating illicit capital flight despite repeated warnings from international compliance bodies.",
+    "options": [
+      "flout",
+      "jeer",
+      "scoff",
+      "banter"
+    ],
+    "answer": "flout",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接支配及物动词宾语 'statutory anti-money-laundering directives'（法定的反洗钱指令），后文伴随 'actively facilitating illicit capital flight'（积极协助非法资本外逃）。在四个选项中，仅有 flout 是完全及物的法律/规则违抗动词，专指‘公然蔑视并违抗法令或规章’；其余三项均为不及物动词或语义完全不兼容。",
+    "distractor_analysis": {
+      "flout": "正确。flout 为及物动词，核心义项为‘公然藐视、公然违抗（法律、规定、习俗或权威）’（to treat with contemptuous disregard; openly violate），在句法上直接搭配 statutory directives，在语义与语域上完美契合金融机构公然无视合规监管的语境。",
+      "jeer": "错误。jeer 意为‘嘲笑、起哄’，在现代英语中多为不及物动词（常与介词 at 连用表示嘲弄某人或某事），即使作及物动词其宾语也必须是承受嘲弄的人，绝不能支配‘法规指令’（directives）来表示‘违抗、无视’。",
+      "scoff": "错误。scoff 意为‘嘲笑、轻蔑地嗤之以鼻’，在现代标准英语中表此义时是严格的不及物动词，必须接介词 at（如 scoff at an idea/warning），无法直接接名词短语作及物动词宾语；且其核心侧重主观上的嘲弄态度，而非行动上的公然违法。",
+      "banter": "错误。banter 意为‘（善意、幽默地）打趣、开玩笑’，感情色彩为轻松愉快（playful/good-humored），不仅在语用色彩上与严肃的金融违法犯罪语境产生严重断裂，且不能带法规指令作宾语。"
+    },
+    "translation": "在宽松的监管环境下，数家离岸金融中介机构肆无忌惮地继续公然蔑视法定的反洗钱指令，尽管国际合规机构屡次发出警告，它们仍积极为非法资本外逃提供便利。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中空格直接支配及物动词宾语 'statutory anti-money-laundering directives'（法定的反洗钱指令），后文伴随 'actively facilitating illicit capital flight'（积极协助非法资本外逃）。在四个选项中，仅有 flout 是完全及物的法律/规则违抗动词，专指‘公然蔑视并违抗法令或规章’；其余三项均为不及物动词或语义完全不兼容。",
+    "legacy_id": "tem8_b07_11"
+  },
+  {
+    "id": "tem8_pro_010",
+    "group_id": 76,
+    "group_name": "flout, jeer, scoff, banter",
+    "level": "TEM-8",
+    "target_word": "jeer",
+    "question": "When the beleaguered envoy stepped forward to defend the controversial treaty, hostile delegates across the assembly hall began to ___ him with derisive catcalls, ultimately compelling the presiding officer to suspend the debate.",
+    "options": [
+      "flout",
+      "jeer",
+      "scoff",
+      "banter"
+    ],
+    "answer": "jeer",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心线索为宾语代词 'him' 以及伴随状语 'with derisive catcalls'（伴随着嘲弄的嘘声/喝倒彩），后文接 'compelling the presiding officer to suspend the debate'（迫使议事主席中止辩论）。这要求谓语动词具备‘通过发出喧嚣、尖叫或嘘声进行现场声学嘲弄与起哄攻击’的具体内涵，且能及物支配人体宾语。",
+    "distractor_analysis": {
+      "flout": "错误。flout 的宾语通常是‘规则、法律、惯例、权威或禁令’，表示公然违抗或置若罔闻，不能接具体的人作为宾语来表示‘用嘘声嘲弄某人’（*flout him with catcalls 属于严重搭配破裂）。",
+      "jeer": "正确。jeer 可作及物动词，专指‘以嘲弄的喊叫声、嘘声或讥讽言语攻击/起哄某人’（to shout derisive remarks at or mock someone loudly），句中的 derisive catcalls 与 suspend the debate 构成强烈的声学与情境锚点，完全契合 jeer 的核心语义。",
+      "scoff": "错误。scoff 表嘲讽时在现代英语中是不及物动词，必须接介词 at（即 scoff at him），不能直接跟及物宾语 him；此外，scoff 侧重轻蔑的态度与讥笑的神情，缺乏 catcalls 所体现的高分贝、群体性现场起哄喧嚣特征。",
+      "banter": "错误。banter 指友好、善意的逗乐与打趣（playful and teasing remarks），与主语 'hostile delegates'（敌对代表）、'derisive catcalls'（嘲弄的嘘声）以及导致会议被迫中止的严峻冲突语境在情感极性（polarity）和语体上严重抵触。"
+    },
+    "translation": "当那位陷入困境的外交特使走上前为备受争议的条约辩护时，整个大会堂内的敌对代表开始以嘲弄的嘘声向他起哄喝倒彩，最终迫使会议主持官员宣布暂停辩论。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的核心线索为宾语代词 'him' 以及伴随状语 'with derisive catcalls'（伴随着嘲弄的嘘声/喝倒彩），后文接 'compelling the presiding officer to suspend the debate'（迫使议事主席中止辩论）。这要求谓语动词具备‘通过发出喧嚣、尖叫或嘘声进行现场声学嘲弄与起哄攻击’的具体内涵，且能及物支配人体宾语。",
+    "legacy_id": "tem8_b07_12"
+  },
+  {
+    "id": "tem8_pro_011",
+    "group_id": 91,
+    "group_name": "hamstring, madden, badger, pester",
+    "level": "TEM-8",
+    "target_word": "hamstring",
+    "question": "Severe cognitive biases and institutional groupthink threaten to ___ the strategic task force's analytical capabilities, ultimately rendering the entire policy framework powerless against unforeseen geopolitical crises.",
+    "options": [
+      "hamstring",
+      "madden",
+      "badger",
+      "pester"
+    ],
+    "answer": "hamstring",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object is the inanimate functional capacity 'the strategic task force's analytical capabilities', followed by the decisive resultative clause 'rendering the entire policy framework powerless'. This directly echoes Merriam-Webster's definition of hamstring ('make ineffective or powerless'), while the other three verbs strictly require sentient human objects or involve emotional/nagging harassment incompatible with systemic capability.",
+    "distractor_analysis": {
+      "hamstring": "正确。意为“使残废；使失去效能，使束手无策”（Merriam-Webster: make ineffective or powerless）。句中主语为认知层面的“Severe cognitive biases and institutional groupthink”，宾语为机构功能层面的“analytical capabilities”，后文结果分词短语“rendering the entire policy framework powerless”形成了精准的语义同义复指，完美契合学术政经语域。",
+      "madden": "错误。意为“使发狂，激怒”（to make mad, enrage）。其及物动词用法要求支配具有主观情绪感知能力的生命体，无法支配无生命的抽象功能名词“analytical capabilities”（analytical capabilities 不可能被“激怒”或“逼疯”），存在范畴搭配谬误。",
+      "badger": "错误。意为“反复纠缠，纠缠不休地质问或要求”（to harass or urge persistently with requests or demands）。其语义重心在于通过连续不断的言语或要求施压，受事通常为具体的人，在此语境下无法作用于分析能力，句意不通。",
+      "pester": "错误。意为“使烦恼，不断打扰”（to harass with petty irritations or requests）。多指在日常人际互动中以琐碎之事造成烦扰，语域明显偏于微观琐屑，既不能与宏观分析能力搭配，亦无法表达“致使系统机能彻底瘫痪”的深层语义。"
+    },
+    "translation": "严重的认知偏差和体制内的群体思维势必会削弱该战略专班的分析能力，最终导致整个政策框架在不可预见的突发地缘政治危机面前形同虚设。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The direct object is the inanimate functional capacity 'the strategic task force's analytical capabilities', followed by the decisive resultative clause 'rendering the entire policy framework powerless'. This directly echoes Merriam-Webster's definition of hamstring ('make ineffective or powerless'), while the other three verbs strictly require sentient human objects or involve emotional/nagging harassment incompatible with systemic capability.",
+    "legacy_id": "tem8_b09_01"
+  },
+  {
+    "id": "tem8_pro_012",
+    "group_id": 91,
+    "group_name": "hamstring, madden, badger, pester",
+    "level": "TEM-8",
+    "target_word": "madden",
+    "question": "Far from placating the crowd, the mayor’s patronizing dismissal served only to ___ the gathered residents, provoking an incandescent fury that quickly overwhelmed the municipal security forces.",
+    "options": [
+      "hamstring",
+      "madden",
+      "badger",
+      "pester"
+    ],
+    "answer": "madden",
+    "primary_mechanism": "MECH_DISCOURSE_POLARITY",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The discourse marker 'Far from placating...' establishes a strict antonymous polarity requiring a verb meaning to enrage or infuriate (the direct opposite of mollifying/appeasing). Coupled with the explicit semantic unpacker 'provoking an incandescent fury', madden (MW: 'to enrage; to make mad') is the only option that satisfies both the affective polarity and the extreme intensity of the reaction.",
+    "distractor_analysis": {
+      "madden": "正确。意为“激怒，使狂怒”（Merriam-Webster: to enrage; to make mad: drive insane）。句首由“Far from placating the crowd”（远未能抚慰民众）确立了反向对立的语篇逻辑，要求空格填入表示“平息/安抚（placate）”之绝对反义词（即“激怒、使发狂”）；后文伴随状语“provoking an incandescent fury”（激起白炽般的狂怒）构成决定性语义锚点，与 madden 形成精准的同义复现与语域共振。",
+      "hamstring": "错误。意为“使无能为力，削弱……的效能”（to make ineffective or powerless: cripple）。首先，hamstring 侧重于机能瘫痪或行动受制，并非情感维度上“安抚（placate）”的反义词；其次，后文明确指出民众爆发狂怒并“迅速压制了市政安保力量”（quickly overwhelmed the municipal security forces），展现出极其强大的破坏性行动力，若填入表示“丧失行动力/陷入瘫痪”的 hamstring，将产生严重的语义逻辑断裂与自相矛盾。",
+      "badger": "错误。意为“纠缠不休，反复盘问/骚扰”（to harass or annoy persistently; nag）。badger 必须基于施动者发出的持续性、高频次言语纠缠或索求（如反复质问、强行游说），而本句主语为单次发出的轻蔑驳斥（the mayor's patronizing dismissal），动相（aktionsart）上无法发出 badger 所要求的反复纠缠动作；且该词语义仅停留在令人厌烦的骚扰层面，无法与引发暴动级“白炽狂怒（incandescent fury）”的情感烈度相匹配。",
+      "pester": "错误。意为“以琐碎小事烦扰”（to harass with petty irritations: annoy）。pester 属于低烈度动词，专指琐碎日常事务带来的轻微烦扰；用于形容重大的政民对抗危机及引发“狂怒（incandescent fury）”的高危语境，存在严重的语义强度不足（intensity mismatch）与文体语域断层。"
+    },
+    "translation": "市长居高临下的轻蔑驳斥远未能安抚民众，反而只是激怒了聚集的居民，引发了一场白炽般的狂怒，迅速压制了市政安保力量。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The discourse marker 'Far from placating...' establishes a strict antonymous polarity requiring a verb meaning to enrage or infuriate (the direct opposite of mollifying/appeasing). Coupled with the explicit semantic unpacker 'provoking an incandescent fury', madden (MW: 'to enrage; to make mad') is the only option that satisfies both the affective polarity and the extreme intensity of the reaction.",
+    "legacy_id": "tem8_b09_02"
+  },
+  {
+    "id": "tem8_pro_013",
+    "group_id": 93,
+    "group_name": "hiss, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hiss",
+    "question": "When the controversial envoy rose to defend the unilateral treaty, several cynical delegates in the gallery did not merely scoff; they began to ___ their venomous disapproval in a chilling, sibilant chorus of collective contempt.",
+    "options": [
+      "hiss",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hiss",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'venomous disapproval' directly collocates transitively with 'hiss' (MW: 'to utter or express with a hiss: hissed his disapproval'), while 'in a chilling, sibilant chorus' uniquely anchors the phonological /s/ sibilance inherent exclusively to 'hiss'.",
+    "distractor_analysis": {
+      "hiss": "正确。MW释义为“to utter or express with a hiss（以咝咝声发出，嘘声表达）”，及物动词常与disapproval搭配。句中“sibilant chorus（齿擦音/咝咝声的合唱）”与“venomous disapproval（恶毒的反对）”构成语音学与语义色彩的双重决定性锚点，精准契合hiss所特有的阴冷、恶毒敌意与声音特征。",
+      "hoot": "错误。hoot指猫头鹰啼叫或发出喧闹的叫嚣、哄笑以示嘲弄（to shout or laugh derisively），声音宏大而开阔，带有嘈杂、戏谑的语体色彩，与句中“sibilant（齿擦音的、咝咝作响的）”的声音特质产生不可调和的语音学冲突，亦无法体现“chilling（令人不寒而栗的）”阴冷敌意。",
+      "squall": "错误。squall原指突发狂风，引申为（尤指婴儿）尖叫号哭或刺耳地嚎叫（to cry out or scream violently and discordantly），通常表达痛苦、惊恐或失控的号泣，无法与抽象名词disapproval构成及物动宾搭配（*squall disapproval不合英语用法），与语境严重断裂。",
+      "gobble": "错误。gobble指贪婪吞食（狼吞虎咽）或火鸡发出咕哝声、含混急促地说话，既不能支配disapproval表达“发出反对之声”，其吞咽与咯咯叫的意象也与政治集会中冷酷恶毒的嘘声语境毫不相容。"
+    },
+    "translation": "当那位备受争议的特使站起身为单边条约辩护时，旁听席上的几位愤世嫉俗的代表并不仅是嗤之以鼻；他们开始在令人胆寒的、咝咝作响的集体鄙夷声中，发出饱含恶意的反对。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The noun phrase 'venomous disapproval' directly collocates transitively with 'hiss' (MW: 'to utter or express with a hiss: hissed his disapproval'), while 'in a chilling, sibilant chorus' uniquely anchors the phonological /s/ sibilance inherent exclusively to 'hiss'.",
+    "legacy_id": "tem8_b09_05"
+  },
+  {
+    "id": "tem8_pro_014",
+    "group_id": 93,
+    "group_name": "hiss, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Confronted with the theorist's preposterous assertion that empirical data were entirely redundant, the assembled epistemologists did not engage in civil discourse, but proceeded to ___ with derisive laughter at such intellectual insolvency.",
+    "options": [
+      "hiss",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The established idiomatic collocation 'hoot with laughter' (signifying loud, derisive amusement at absurdity) is decisively activated by 'with derisive laughter at such intellectual insolvency', precluding the sibilant, weeping, or guttural connotations of the other three options.",
+    "distractor_analysis": {
+      "hoot": "正确。MW释义为“to shout or laugh usually derisively（嘲弄性地大声喊叫或哄笑）”，在英语中拥有高度固化的典雅习语搭配“hoot with laughter（发出嘲弄的哄笑/大笑）”。句中“with derisive laughter at such intellectual insolvency”为决定性搭配锚点，完美体现学者们对极度荒谬论断的喧闹讥嘲与不屑。",
+      "hiss": "错误。hiss表示发咝咝声表达愤怒、反感或恶意（如hiss with rage/pain），语体风格阴郁压抑，英语中不存在*hiss with laughter的搭配，在语义逻辑与搭配习惯上均属严重断裂。",
+      "squall": "错误。squall表示刺耳尖叫、嚎啕大哭，专用于表述受惊、极度痛苦或婴儿哭闹的情状，与表达批判性嘲弄与讥笑的“derisive laughter”在情感极性（polarity）和语境上完全排斥。",
+      "gobble": "错误。gobble作不及物动词时特指雄火鸡发出的咯咯喉音，或及物动词表示贪婪吞咽，无法与介词短语“with derisive laughter”形成合法搭配，语义荒谬。"
+    },
+    "translation": "面对那位理论家关于经验数据完全多余的荒谬论断，在座的认识论学者们并未展开理性的探讨，反而在这种学术破产面前爆发出一阵嘲弄的哄笑。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The established idiomatic collocation 'hoot with laughter' (signifying loud, derisive amusement at absurdity) is decisively activated by 'with derisive laughter at such intellectual insolvency', precluding the sibilant, weeping, or guttural connotations of the other three options.",
+    "legacy_id": "tem8_b09_06"
+  },
+  {
+    "id": "tem8_pro_015",
+    "group_id": 156,
+    "group_name": "snort, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "snort",
+    "question": "Confronted with the minister's disingenuous explanation, the lead investigator could only ___ in derisive disbelief, refusing to dignify such an obvious fabrication with a formal refutation.",
+    "options": [
+      "snort",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "snort",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配与认知评价语义锚点 'in derisive disbelief'（带着嘲弄与怀疑）。在英语本族语权威语料库中，表示以轻蔑、不以为然的短促鼻息声表达认知层面的断然否定与怀疑时，'snort in disbelief/derision' 为唯一地道搭配；其余选项中，hoot 表达喧闹的高声嘲弄且惯用介词 with（如 hoot with laughter），与内化认知状态的 'in disbelief' 存在语义及搭配断裂；squall 意为婴儿啼哭或风暴狂啸；gobble 则指狼吞虎咽或火鸡叫，均无法在句法与语境上成立。",
+    "distractor_analysis": {
+      "snort": "正确。snort 原指人或动物用力自鼻孔喷气，引申指因轻蔑、愤慨或难以置信而发出嗤之以鼻的喷气声或冷笑（indicate contempt by breathing noisily and forcefully through the nose）。此处与 'in derisive disbelief'（带着嘲弄与难以置信）构成极高频的认知反应搭配，精准契合资深调查员面对荒谬解释时，通过不屑的轻蔑冷笑断然否定虚伪说辞的高级学术与政经语境。",
+      "hoot": "错误。hoot 主要指猫头鹰鸣叫或人因起哄、喝彩、哄堂大笑而发出的喧闹叫喊声（a loud shout or outcry），多用于群体性起哄嘲弄或哄笑，惯用搭配为 'hoot with laughter/derision' 或及物动词短语 'hoot sb down'；它体现的是外显的喧哗呼喊，与修饰个体认知心理状态的介词短语 'in derisive disbelief' 存在语义冲突与搭配失配。",
+      "squall": "错误。squall 作动词指婴儿大声啼哭、失声痛哭或发出刺耳尖叫（to cry out loudly and harshly），亦可指暴风呼啸，语域属于本能的情感失控宣泄或自然现象，完全脱离了学术/调查语境中成熟个体表达智性怀疑与轻蔑的认知语域（FIELD_COGNITION）。",
+      "gobble": "错误。gobble 作动词主要表示贪婪急促地吞食（狼吞虎咽）或雄火鸡发出喉音啼叫，与句中表示审慎评判、轻蔑怀疑的认知语境毫无逻辑关联，填入句中会导致荒谬的语义断裂。"
+    },
+    "translation": "面对部长虚伪狡黠的辩解，首席调查员只能报以嗤之以鼻的怀疑，拒绝以正式的反驳来抬高这一显而易见的捏造之词。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "介词搭配与认知评价语义锚点 'in derisive disbelief'（带着嘲弄与怀疑）。在英语本族语权威语料库中，表示以轻蔑、不以为然的短促鼻息声表达认知层面的断然否定与怀疑时，'snort in disbelief/derision' 为唯一地道搭配；其余选项中，hoot 表达喧闹的高声嘲弄且惯用介词 with（如 hoot with laughter），与内化认知状态的 'in disbelief' 存在语义及搭配断裂；squall 意为婴儿啼哭或风暴狂啸；gobble 则指狼吞虎咽或火鸡叫，均无法在句法与语境上成立。",
+    "legacy_id": "tem8_b15_11"
+  },
+  {
+    "id": "tem8_pro_016",
+    "group_id": 156,
+    "group_name": "snort, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Refusing to engage with the heterodox economic hypothesis on its theoretical merits, the dogmatic conference attendees sought simply to ___ down the keynote speaker, treating his rigorous statistical critique as ideological heresy.",
+    "options": [
+      "snort",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动词短语搭配与语用语境锚点 '___ down the keynote speaker'。在学术思想交锋语境中，表示群体听众通过大声起哄、喝倒彩或发出嘘声来压制并驱赶演讲者、使其无法发声的地道动词短语为 'hoot down'（以嘘声压制）；其余选项中，'snort down' 与 'squall down' 在现代英语中均不存在该动词短语搭配；'gobble down' 仅能用于吞食食物（狼吞虎咽），施用于学术会议的主旨演讲者将产生严重的范畴错误与荒谬语意。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 与副词 down 构成固定及物动词短语 'hoot sb down'，意为 '以喧闹的嘘声、叫喊或倒彩声压制/驱逐演讲者，使其无法发言'（to silence or drive away a speaker by derisive shouting）。句中学者们拒绝在学理层面探讨异端假说，转而企图以嘘声起哄压制主旨演讲者，完全契合学术界内部排斥异见时的认知与行为场域（FIELD_COGNITION）以及严谨的短语搭配要求。",
+      "snort": "错误。snort（喷鼻息、嗤之以鼻）常作不及物动词或接直接引语/介词短语（如 snort at/in），现代英语词典中根本不存在 'snort sb down' 这一动词短语搭配，填入此处会造成严重的句法破裂。",
+      "squall": "错误。squall（嚎叫、大哭）在标准英语中亦不存在 'squall sb down' 的及物动词短语用法，无法表达通过群体起哄或嘘声喝退演讲者的语义。",
+      "gobble": "错误。虽然 gobble down 确实构成合法动词短语，但其语义严格限定于 '狼吞虎咽地吞咽食物'（to swallow food greedily and hurriedly），施用于人类演讲者（the keynote speaker）会造成严重的语义破裂与范畴错误（category error）。"
+    },
+    "translation": "由于拒绝从理论价值层面去探讨这一非正统的经济学假说，教条的参会人员企图单纯用嘘声将主旨演讲者喝退，将其严密的统计批判视为意识形态上的离经叛道。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "动词短语搭配与语用语境锚点 '___ down the keynote speaker'。在学术思想交锋语境中，表示群体听众通过大声起哄、喝倒彩或发出嘘声来压制并驱赶演讲者、使其无法发声的地道动词短语为 'hoot down'（以嘘声压制）；其余选项中，'snort down' 与 'squall down' 在现代英语中均不存在该动词短语搭配；'gobble down' 仅能用于吞食食物（狼吞虎咽），施用于学术会议的主旨演讲者将产生严重的范畴错误与荒谬语意。",
+    "legacy_id": "tem8_b15_12"
+  },
+  {
+    "id": "tem8_pro_017",
+    "group_id": 296,
+    "group_name": "badger, seduce, brainwash, make",
+    "level": "TEM-8",
+    "target_word": "badger",
+    "question": "Determined lobbyists continued to ___ the exhausted regulatory officials with incessant petitions and aggressive public interrogations, hoping to wear down their resistance through relentless attrition.",
+    "options": [
+      "badger",
+      "seduce",
+      "brainwash",
+      "make"
+    ],
+    "answer": "badger",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Co-occurrence with 'with incessant petitions and aggressive public interrogations' and 'wear down their resistance through relentless attrition', demanding a verb denoting persistent, nagging harassment or pestering rather than ideological indoctrination or enticement.",
+    "distractor_analysis": {
+      "badger": "正确。badger 指通过持续不断地纠缠、烦扰、质问或提要求来迫使他人屈服（to harass or pester persistently）。句中'with incessant petitions'（没完没了的请愿）、'aggressive public interrogations'（咄咄逼人的质询）以及'wear down their resistance'（消磨抵抗力）构成了决定性的语境锚点，与其核心语义完全吻合。",
+      "seduce": "错误。seduce 强调以利益、诱惑或奉承等手段诱使他人偏离正道或做出不明智举动，带有强烈的诱惑性和迎合性内涵，与句中依靠公开质询、消磨阻力的侵扰性施压语境产生严重的语义逻辑断裂。",
+      "brainwash": "错误。brainwash 指通过系统性精神控制或强制灌输手段摧毁并重塑他人的思想与信仰（洗脑），词义程度过重，不适用于游说集团向监管官员递交请愿书与提出质询等常规性纠缠和施压行为。",
+      "make": "错误。make 作为使役动词通常后接不带 to 的不定式作宾补（make sb do sth），无法与句中的介词结构'the officials with incessant petitions'形成合理的及物动词配价与语义逻辑。"
+    },
+    "translation": "抱定决心的游说者不断以没完没了的请愿和咄咄逼人的公开质询纠缠已筋疲力尽的监管官员，企图通过无休止的消耗战消磨他们的抵抗意志。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Co-occurrence with 'with incessant petitions and aggressive public interrogations' and 'wear down their resistance through relentless attrition', demanding a verb denoting persistent, nagging harassment or pestering rather than ideological indoctrination or enticement.",
+    "legacy_id": "tem8_b29_11"
+  },
+  {
+    "id": "tem8_pro_018",
+    "group_id": 296,
+    "group_name": "badger, seduce, brainwash, make",
+    "level": "TEM-8",
+    "target_word": "seduce",
+    "question": "The lavish corporate package was carefully engineered to ___ the young researcher away from independent academic inquiry with promises of exorbitant stock options and unrestricted laboratory funding.",
+    "options": [
+      "badger",
+      "seduce",
+      "brainwash",
+      "make"
+    ],
+    "answer": "seduce",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The directional phrase 'away from independent academic inquiry' combined with enticing inducements ('promises of exorbitant stock options and unrestricted laboratory funding') uniquely requires a verb signifying alluring enticement away from duty or principle.",
+    "distractor_analysis": {
+      "seduce": "正确。seduce 在高级书面语中常指用巨大的物质利益、虚名或前景引诱某人放弃原本坚守的原则、责任或正道（to entice or allure away from duty or principle）。句中搭配'away from independent academic inquiry'以及充满吸引力的条件'promises of exorbitant stock options'完全契合其语义色彩与句法搭配。",
+      "badger": "错误。badger 意为反复纠缠、骚扰，施动手段是负面的打扰与施压，主语通常为人，无法由提供优厚待遇的'corporate package'发起，更无法与以优厚利益为诱饵的语境共存。",
+      "brainwash": "错误。brainwash 强调通过强制宣传或心理操控实施的洗脑和思想改造，不能与介词短语'away from sth'搭配表达'利诱离开'的意象，在搭配和语域上均不适用。",
+      "make": "错误。make 无法与介词短语'away from'搭配构成及物使役结构（*make sb away from sth 属于严重句法错误），代入后导致句子语法结构崩溃。"
+    },
+    "translation": "那份丰厚的企业待遇方案经过精心设计，旨在以巨额股票期权和无限制的实验室资助为诱饵，诱使这位年轻的研究人员脱离独立的学术探究。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The directional phrase 'away from independent academic inquiry' combined with enticing inducements ('promises of exorbitant stock options and unrestricted laboratory funding') uniquely requires a verb signifying alluring enticement away from duty or principle.",
+    "legacy_id": "tem8_b29_12"
+  },
+  {
+    "id": "tem8_pro_019",
+    "group_id": 321,
+    "group_name": "debase, pervert, subvert, corrupt",
+    "level": "TEM-8",
+    "target_word": "debase",
+    "question": "By substituting sensationalist polemics for evidence-based analysis, the tabloid threatened to ___ the intellectual currency of public debate, cheapening nuanced civic deliberations into vulgar partisan spectacles.",
+    "options": [
+      "debase",
+      "pervert",
+      "subvert",
+      "corrupt"
+    ],
+    "answer": "debase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'the intellectual currency' combined with the subsequent participial clause 'cheapening ... into vulgar partisan spectacles' provides an unequivocal anchor. 'Debase' specifically denotes lowering the intrinsic quality, grade, or value of something (originally currency by mixing base metals; figuratively language, discourse, or standards) into something cheap or degraded.",
+    "distractor_analysis": {
+      "debase": "正确。debase 的核心语义为“降低……的品质、价值、格调或纯度（使之贬值、粗俗化）”，其本义即为“在货币中掺杂贱金属使其贬值（debase currency）”。本句中与宾语“intellectual currency（思想/理性交锋的价值流通）”构成完美且不可替代的隐喻搭配，且后文的“cheapening ... into vulgar partisan spectacles（将精微的公民审议贬低为粗俗的党派闹剧）”明确锁定了“使其贬值、粗鄙化”的语义方向，故为唯一正选。",
+      "pervert": "错误。pervert 的核心义项是“曲解、滥用、使偏离正轨或正当目的”（常与 justice, the course of law, truth 搭配），强调将原本合法的机制或真理扭曲用于邪恶企图，而非“降低内在品质、使其粗俗贬值”，与“intellectual currency”及“cheapening”的语境语义断裂。",
+      "subvert": "错误。subvert 强调“颠覆、暗中破坏（政权、既定体制、社会秩序或合法权威）”，意在从根基上摧毁既有体系，不能与抽象价值载体“the intellectual currency of public debate”搭配，亦不含“cheapening into vulgarity（向低俗品质降格）”的贬值隐喻。",
+      "corrupt": "错误。corrupt 偏重于道德上的“腐化、堕落”、官僚体制中的“贿赂贪腐”或数据实体的“损坏污染”。虽然其引申义有“使变质”，但在此处与“currency”搭配属于搭配泛化与脱靶，无法契合本句“货币贬值—思想交锋贬质为粗鄙读物”的核心比喻与语义链条。"
+    },
+    "translation": "该小报以耸人听闻的论战取代基于证据的分析，势必会贬低公共辩论的思想价值，将精微的公民审议沦为粗俗的党派闹剧。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The noun phrase 'the intellectual currency' combined with the subsequent participial clause 'cheapening ... into vulgar partisan spectacles' provides an unequivocal anchor. 'Debase' specifically denotes lowering the intrinsic quality, grade, or value of something (originally currency by mixing base metals; figuratively language, discourse, or standards) into something cheap or degraded.",
+    "legacy_id": "tem8_b32_01"
+  },
+  {
+    "id": "tem8_pro_020",
+    "group_id": 321,
+    "group_name": "debase, pervert, subvert, corrupt",
+    "level": "TEM-8",
+    "target_word": "pervert",
+    "question": "In his polemical treatise, the revisionist historian sought to ___ the historical truth, willfully twisting archival testimonies and suppressing inconvenient evidence to construct an entirely fabricated national myth.",
+    "options": [
+      "debase",
+      "pervert",
+      "subvert",
+      "corrupt"
+    ],
+    "answer": "pervert",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the formal collocation with 'the historical truth' together with the explicit semantic gloss 'willfully twisting archival testimonies ... to construct an entirely fabricated national myth'. 'Pervert' precisely signifies twisting, misrepresenting, or diverting the truth or a rightful principle away from reality to serve an illegitimate end.",
+    "distractor_analysis": {
+      "pervert": "正确。pervert 源自拉丁语 pervertere（彻底扭转、颠倒），在认知与法理语域中最核心的高级搭配即为 pervert the truth（歪曲事实/真相）与 pervert the course of justice（妨碍司法公正）。后句的分词短语“willfully twisting archival testimonies（蓄意歪曲档案证言）”精准复刻了 pervert 的词源释义与扭曲语义，因而严丝合缝。",
+      "debase": "错误。debase 指“贬低品质、降低格调、使贬值”，一般用于品位、标准、货币或语言（如 debase the standards/currency），不能用于“truth”；说“debase the historical truth”在语义逻辑和学术英语搭配上均不成立。",
+      "subvert": "错误。subvert 意为“颠覆、推翻（政权、传统规范、权威结论）”。虽然史学界可说“subvert an orthodox narrative（颠覆正统叙事）”，但“subvert the truth”在英语中属于严重搭配不当（你无法“颠覆”客观事实本身，只能歪曲或掩盖它）。",
+      "corrupt": "错误。corrupt 在文献学中可指抄写过程中“窜改、损坏文本（corrupt a text）”，或指道德品行的败坏。但指代“蓄意歪曲、颠倒客观历史真相以服务虚假叙事”时，学术界与正规书面英语严格限定使用 pervert（或 distort），corrupt the truth 缺乏“蓄意扭曲（twisting）”的特异性语义。"
+    },
+    "translation": "在其论战性专著中，这位修正主义历史学家企图歪曲历史真相，蓄意篡改档案证言并隐瞒不利证据，以此构建完全虚构的民族神话。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The decisive anchor is the formal collocation with 'the historical truth' together with the explicit semantic gloss 'willfully twisting archival testimonies ... to construct an entirely fabricated national myth'. 'Pervert' precisely signifies twisting, misrepresenting, or diverting the truth or a rightful principle away from reality to serve an illegitimate end.",
+    "legacy_id": "tem8_b32_02"
+  },
+  {
+    "id": "tem8_pro_021",
+    "group_id": 336,
+    "group_name": "demonic, satanic, fiendish, infernal",
+    "level": "TEM-8",
+    "target_word": "demonic",
+    "question": "Biographers attributed the composer’s unprecedented prolificacy not to methodical planning, but to a ___ intensity that consumed his waking hours, driving him through manic, sleepless bouts of creative frenzy.",
+    "options": [
+      "demonic",
+      "satanic",
+      "fiendish",
+      "infernal"
+    ],
+    "answer": "demonic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "manic, sleepless bouts of creative frenzy ... intensity（修饰如狂魔附体、不可遏止的创作狂热与超常精气神）",
+    "distractor_analysis": {
+      "demonic": "【正确】demonic 除字面“恶魔的”外，在高级心理与传记学术语境中具有独特的转义认知内涵，常特指“如被恶魔附体般的、发狂的、精力绝伦的”（frenzied, impassioned, or possessed），与后文的 manic（狂躁的）、sleepless bouts 以及 creative frenzy（创作狂热）形成天衣无缝的语义与修辞呼应，精准描摹出艺术家超乎常人的狂热投入。",
+      "satanic": "【排除】satanic 强调神学或道德层面的“撒旦式的、极度邪恶的、存心不良的”（characterized by conscious malice or moral defiance），带有鲜明的道德谴责色彩，完全不适用于描述虽然癫狂但极具创造力的天才心智状态。",
+      "fiendish": "【排除】fiendish 侧重于行为手段的“凶残、狠毒”（fiendish cruelty）或认知层面的“极其复杂棘手的”（fiendishly difficult），与形容“精神狂热、创作力喷涌”的 intensity 存在搭配与概念维度的错位。",
+      "infernal": "【排除】infernal 主要指“阴间地狱的”（relating to the nether world）或在修辞中用作表达愤怒厌恶的强烈贬义修饰（意为“可憎的、讨厌透顶的”，如 infernal racket），无法表达主体内部自觉迸发的“着魔般的创作冲动”。"
+    },
+    "translation": "传记作家们将这位作曲家空前绝后的多产并非归因于有条不紊的规划，而是归结于一种吞噬其醒着时光的如痴如魔般的狂热劲头——正是这种狂热驱动他经历了一场场狂躁而无眠的创作风暴。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "manic, sleepless bouts of creative frenzy ... intensity（修饰如狂魔附体、不可遏止的创作狂热与超常精气神）",
+    "legacy_id": "tem8_b33_11"
+  },
+  {
+    "id": "tem8_pro_022",
+    "group_id": 336,
+    "group_name": "demonic, satanic, fiendish, infernal",
+    "level": "TEM-8",
+    "target_word": "satanic",
+    "question": "The essayist condemned the demagogue's rhetoric for its ___ cynicism, a cold, mocking contempt that not only derided basic democratic norms but took malicious delight in the systematic subversion of truth.",
+    "options": [
+      "demonic",
+      "satanic",
+      "fiendish",
+      "infernal"
+    ],
+    "answer": "satanic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_POLITICAL_CRITIQUE",
+    "anchor_clue": "cynicism, a cold, mocking contempt that not only derided... but took malicious delight in the systematic subversion of truth（以冷酷嘲弄的轻蔑态度蔑视规范，并蓄意颠覆真理的恶意犬儒倾向）",
+    "distractor_analysis": {
+      "satanic": "【正确】satanic 在《韦氏同义词词典》（Webster's New Dictionary of Synonyms）与《韦氏大学词典》中享有特定的词义分支，专指“表现出恶毒、讽刺或冷嘲热讽的轻蔑态度”（characterized by malice or cynical or mocking contempt），词典明确保留专用搭配“a satanic cynicism”及“a satanic sneer/laugh”，并强调其具有“蓄意倾覆道德美德与真理（a persistent will to work the overthrow of virtue and good）”的哲学恶意。句中同位语从句“a cold, mocking contempt... took malicious delight in the systematic subversion of truth”正是该词义的精准复现，无论在语义内涵还是搭配习惯上均为唯一正选。",
+      "demonic": "【排除】demonic 侧重于源于超自然魔鬼或内在狂热驱使的“狂暴力量、冲动执念或超常创造/破坏能量”（driven by an uncontrollable force or frenzy; e.g., demonic energy, demonic intensity）。它无法与冷酷审慎、以智力嘲弄为核心的“犬儒主义（cynicism）”相容（冷眼嘲弄与狂热附魔在心理状态上截然相反），亦不存在“demonic cynicism”这一搭配范式。",
+      "fiendish": "【排除】fiendish 侧重于行为、手段或计谋上的“极度残忍、恶毒阴险”或事物的“极端复杂棘手”（diabolically cruel or exceedingly complicated; e.g., fiendish cruelty, a fiendish plot, a fiendish puzzle），通常修饰具体的伤害行径、阴谋或刑具，不能修饰抽象的政论或哲学态度“cynicism”。",
+      "infernal": "【排除】infernal 本义为“地狱的、冥界的”（of or relating to the nether world），引申为引发极大痛苦或恼怒的“令人憎恶的、可恨的”（hellish, damnable; e.g., infernal noise, infernal heat），属于空间归属类或口语强调性形容词，无法用来定性冷嘲热讽式的意识形态犬儒态度。"
+    },
+    "translation": "这位散文家谴责了那位煽动家言论中撒旦式的犬儒主义——那是一种冰冷而嘲弄的蔑视，它不仅嘲弄基本的民主准则，更对真理遭到系统性颠覆而深感快意。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "cynicism, a cold, mocking contempt that not only derided... but took malicious delight in the systematic subversion of truth（以冷酷嘲弄的轻蔑态度蔑视规范，并蓄意颠覆真理的恶意犬儒倾向）",
+    "legacy_id": "tem8_b33_12"
+  },
+  {
+    "id": "tem8_pro_023",
+    "group_id": 341,
+    "group_name": "seedy, sleazy, sordid, squalid",
+    "level": "TEM-8",
+    "target_word": "seedy",
+    "question": "Urban theorists noted that the district’s ___ allure stemmed not from sheer destitution, but from a peculiar confluence of faded grandeur, threadbare music halls, and the illicit transactions of a nocturnal underworld.",
+    "options": [
+      "seedy",
+      "sleazy",
+      "sordid",
+      "squalid"
+    ],
+    "answer": "seedy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'faded grandeur, threadbare music halls' directly evokes the etymological and semantic core of 'seedy' (run to seed; shabby, worn-out dilapidation combined with petty vice), forming the recognized literary collocation 'seedy allure'.",
+    "distractor_analysis": {
+      "seedy": "正确。seedy 源自植物“结籽后凋落衰败（run to seed）”，核心语义指因年久失修、昔日风光不再而呈现出的“破败、褴褛且带有低俗或不良活动的气息”（shabby and disreputable）。语境中的 'faded grandeur'（褪色的繁华）、'threadbare music halls'（破旧陈腐的音乐厅）与地下非法交易构成了典型的 seedy 意象，且 'seedy allure'（颓废堕落的吸引力）属于英语文学与文化地理学中高度固化的经典搭配。",
+      "sleazy": "错误。sleazy 强调低级庸俗、道德败坏、狡诈或卑鄙无耻（corrupt, dishonest, vulgar），多形容商业黑幕、小报丑闻或政客勾当（如 sleazy tabloid, sleazy deal），不具备 seedy 所专指的“物品/场所陈旧破烂、褪色磨损的实体破败感”（threadbare, faded grandeur）。",
+      "sordid": "错误。sordid 侧重于行径、动机或细节上的“极度卑鄙、下作、令人作呕”（ignoble, base, morally vile），带有强烈的道德谴责意味（如 sordid motives, sordid affair），与句中带有审美化与怀旧色彩的 'allure'（魅力/诱惑力）及 'faded grandeur' 存在明显的语意与情感冲突。",
+      "squalid": "错误。squalid 的核心在于因极端贫穷、缺乏清理而造成的“污秽不堪、恶劣肮脏”（foul, unhygienic through neglect and poverty，如 squalid slums）。句中已用 'not from sheer destitution'（并非源于纯粹的赤贫）形成排他限制，且令人反胃的赤贫肮脏无法与 'allure' 产生合理共鸣。"
+    },
+    "translation": "城市理论学者指出，该街区颓废破败的独特吸引力并非源自纯粹的赤贫，而是源自一种奇特的交织——褪色的往昔繁华、陈旧破损的音乐厅，以及夜间地下世界的非法交易。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The noun phrase 'faded grandeur, threadbare music halls' directly evokes the etymological and semantic core of 'seedy' (run to seed; shabby, worn-out dilapidation combined with petty vice), forming the recognized literary collocation 'seedy allure'.",
+    "legacy_id": "tem8_b34_01"
+  },
+  {
+    "id": "tem8_pro_024",
+    "group_id": 341,
+    "group_name": "seedy, sleazy, sordid, squalid",
+    "level": "TEM-8",
+    "target_word": "sleazy",
+    "question": "Scrutinizing how the ___ political operative traded fabricated dossiers for lucrative defense contracts, the ethics committee concluded that such corrupt, influence-peddling maneuvers severely undermined the integrity of the administration.",
+    "options": [
+      "seedy",
+      "sleazy",
+      "sordid",
+      "squalid"
+    ],
+    "answer": "sleazy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The agentive noun phrase 'political operative' engaged in 'influence-peddling maneuvers' and 'corrupt, underhanded' contract trading exclusively selects 'sleazy' as the institutional and political descriptor for unprincipled, corrupt fixers.",
+    "distractor_analysis": {
+      "seedy": "错误。seedy 侧重于物理外貌上的衣衫褴褛、场所的凋敝衰颓（如 seedy hotel）或身体虚弱欠佳（feeling seedy），不可用于修饰在权力核心层倒卖虚假档案、操盘巨额国防合同的政治掮客。",
+      "sleazy": "正确。sleazy 在现代政治报道与严肃政论中是形容“缺乏职业操守、行事下流卑劣、唯利是图的政客、掮客或机构”的核心定语（如 sleazy political operative/lobbyist/dealings），完美契合后文 'fabricated dossiers'（伪造档案）、'lucrative defense contracts'（暴利国防合同）以及 'influence-peddling'（权力寻租）所揭示的政治黑幕语境。",
+      "sordid": "错误。sordid 意为“卑劣的、丑恶的”，但在语料库搭配中，它绝大多数作定语修饰抽象事件、动机或细节（如 sordid motives, sordid details, sordid business），极少直接修饰指代专业职务或政治施事者的个体名词（*sordid operative 是非典型且违背母语搭配直觉的表达）。",
+      "squalid": "错误。squalid 主要指环境极端脏乱恶臭或境遇悲惨污秽（squalid living conditions），即便引申至道德层面也多指因悲惨退化而导致的下流肮脏，无法用于修饰出入高层政界的高端利益游说操盘手。"
+    },
+    "translation": "在彻查了这名卑劣下作的政治操盘手如何利用伪造档案换取利润丰厚的国防合同后，道德委员会认定，此类腐败的权力寻租伎俩严重破坏了政府的廉洁公信力。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The agentive noun phrase 'political operative' engaged in 'influence-peddling maneuvers' and 'corrupt, underhanded' contract trading exclusively selects 'sleazy' as the institutional and political descriptor for unprincipled, corrupt fixers.",
+    "legacy_id": "tem8_b34_02"
+  },
+  {
+    "id": "tem8_pro_025",
+    "group_id": 342,
+    "group_name": "wicked, heinous, ungodly, villainous",
+    "level": "TEM-8",
+    "target_word": "wicked",
+    "question": "Distinguishing between human frailty and genuine malevolence, the ethicist argued that while weakness prompts occasional moral failure, a thoroughly ___ disposition actively adopts the subversion of virtue as its guiding principle of conduct.",
+    "options": [
+      "wicked",
+      "heinous",
+      "ungodly",
+      "villainous"
+    ],
+    "answer": "wicked",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The academic philosophical context distinguishes structural moral corruption from mere weakness, modifying 'disposition' with an explicit orientation toward 'guiding principle of conduct'—aligning precisely with Merriam-Webster's definition of 'wicked' as 'morally bad in principle or practice'.",
+    "distractor_analysis": {
+      "wicked": "正确。wicked 精确呼应韦氏词典的核心释义：“在原则或实践中道德败坏”（morally bad in principle or practice），强调意志或品质根基上的系统性堕落。在德性伦理学语境中，'wicked disposition' 是规范学术搭配，特指将作恶与践踏美德上升为指导原则的内在品性。",
+      "heinous": "排除。heinous 侧重指行为或罪行极其凶残、令人发指（extraordinarily wicked or atrocious），只能用于修饰外部可见的具体暴行（如 heinous crime, heinous atrocity），不能与内在心智倾向或性格（disposition）搭配，在此产生范畴错配（category error）。",
+      "ungodly": "排除。ungodly 严格属于宗教神学语域，指“不敬神的、亵渎神明的”（impious, irreligious）或口语中表示“极端的、难以理喻的”（如 ungodly hour）。在纯粹讨论人类自主道德选择与德行原则的世俗哲学语境中，会产生明显的语体和语用割裂。",
+      "villainous": "排除。villainous 强调恶棍或反派角色的“卑劣、下作、背信弃义”（characteristic of a villain; base, treacherous），多用于文学叙事中修饰外貌、卑鄙计谋或低劣行径（如 villainous scheme），缺乏伦理哲学用于界定“根本原则上的道德恶”所需的严肃学术分量。"
+    },
+    "translation": "伦理学家在区分人类的性格弱点与纯粹的恶意时指出，软弱或许会引发偶尔的道德过失，但一种彻底邪恶的性情则会主动将颠覆美德奉为其行为的指导原则。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The academic philosophical context distinguishes structural moral corruption from mere weakness, modifying 'disposition' with an explicit orientation toward 'guiding principle of conduct'—aligning precisely with Merriam-Webster's definition of 'wicked' as 'morally bad in principle or practice'.",
+    "legacy_id": "tem8_b34_03"
+  },
+  {
+    "id": "tem8_pro_026",
+    "group_id": 342,
+    "group_name": "wicked, heinous, ungodly, villainous",
+    "level": "TEM-8",
+    "target_word": "heinous",
+    "question": "In its final ruling, the international criminal tribunal determined that the coordinated extermination of displaced civilians constituted a ___ crime so exceptionally atrocious that it permanently affronted the collective conscience of mankind.",
+    "options": [
+      "wicked",
+      "heinous",
+      "ungodly",
+      "villainous"
+    ],
+    "answer": "heinous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The juristic context of an 'international criminal tribunal' combined with 'so exceptionally atrocious that it permanently affronted the collective conscience' serves as the decisive anchor for 'heinous', which uniquely designates crimes of shocking and abhorrent cruelty in international law.",
+    "distractor_analysis": {
+      "heinous": "正确。heinous 指“极度凶残、耸人听闻、激起公众极大愤慨的”（hatefully or shockingly evil, grossly atrocious）。在国际刑法和人权司法文书中，'heinous crime' 是指代种族灭绝、屠杀等反人类暴行的法定高频专有搭配，与后文的 'exceptionally atrocious' 和 'affronted the collective conscience' 形成绝对互锁。",
+      "wicked": "排除。wicked 侧重内在道德评价或哲学探讨，用于指称国际法庭裁决下的反人类种族屠杀罪行时，缺乏刑法术语所要求的极端严酷感与震撼性（atrociousness），在正式司法判决语体中显得语义过轻且过于泛化。",
+      "ungodly": "排除。ungodly 指违背神圣教义或不信上帝的（impious, unholy），属于宗教裁判所用语。现代世俗国际司法机构（international criminal tribunal）绝不会以宗教违诫为由定罪，代入该词会造成严重的司法与语义逻辑冲突。",
+      "villainous": "排除。villainous 带有戏剧化反派的“卑鄙无耻、阴险奸诈”（base, scurrilous）色彩，通常描写个人品行恶劣或卑劣背叛，将其用于指控有组织屠杀平民的国家级战犯暴行，会产生轻浮的戏剧戏谑感，严重破坏法律文本的庄严语体。"
+    },
+    "translation": "国际刑事法庭在终审判决中裁定，针对流离失所平民的有组织灭绝行为构成了一项极其残暴的罪行，其凶残程度永远亵渎了全人类的集体良知。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The juristic context of an 'international criminal tribunal' combined with 'so exceptionally atrocious that it permanently affronted the collective conscience' serves as the decisive anchor for 'heinous', which uniquely designates crimes of shocking and abhorrent cruelty in international law.",
+    "legacy_id": "tem8_b34_04"
+  },
+  {
+    "id": "tem8_pro_027",
+    "group_id": 358,
+    "group_name": "baleful, ominous, forbidding, sinister",
+    "level": "TEM-8",
+    "target_word": "baleful",
+    "question": "Economists warn that unchecked fiscal austerity exerts a relentlessly ___ influence on public infrastructure, not merely signaling future stagnation, but actively accelerating physical decay and the collapse of vital municipal services.",
+    "options": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "sinister"
+    ],
+    "answer": "baleful",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动宾搭配 'exerts a relentlessly ___ influence on' 与后文转折 'not merely signaling future stagnation, but actively accelerating physical decay and the collapse' 构成决定性语义锚点。Merriam-Webster 对 baleful 的核心释义为 'deadly or pernicious in influence'，强调对客体施加直接、主动且毁灭性的破坏力；而后文明确否决了单纯的征兆功能（not merely signaling），严格排除了侧重预兆的 ominous，同时淘汰了表外貌险恶的 forbidding 以及暗含主观恶意阴谋的 sinister。",
+    "distractor_analysis": {
+      "baleful": "正确。Merriam-Webster 明确将其界定为 'deadly or pernicious in influence'（具有毁灭性或恶劣影响的），学术英语中常见 'exert a baleful influence on...' 这一经典搭配。句中不仅包含该核心搭配，后文更以 'actively accelerating physical decay and the collapse'（主动加速实体损毁与崩溃）作为注脚，完全契合 baleful 直接施加有害、破坏性影响的内涵。",
+      "ominous": "错误。ominous 派生自 omen，意为 'foreboding or foreshadowing evil'（不祥的、预兆凶祸的），专指作为预警或前兆昭示不良后果，而本身并不充当造成破坏的能动力量。题干中 'not merely signaling future stagnation'（不仅预示未来的停滞）从逻辑上明确否定了纯粹的预警/征兆功能，故予以排除。",
+      "forbidding": "错误。forbidding 意为 'unfriendly or threatening in appearance; discouraging approach'（外观冷峻可怖的、令人生畏的），多修饰具体外貌、地貌或严苛氛围（如 forbidding terrain, a forbidding countenance），无法与抽象的体制性政策影响（influence on public infrastructure）形成恰当搭配。",
+      "sinister": "错误。sinister 侧重强调具有暗中为恶、居心险恶或包藏祸心的主观恶意（suggesting evil intent, treacherous or corrupt purpose），常修饰人、阴谋或隐秘企图（如 a sinister plot）。财政紧缩属于客观宏观经济政策，不存在道德层面的主观恶意或诡诈动机，语义范畴不当。"
+    },
+    "translation": "经济学家警告称，未受制约的财政紧缩政策对公共基础设施产生了极其恶劣的破坏性影响，它不仅预示着未来的停滞，更在实质上加速了市政核心服务的硬件损毁与系统崩溃。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中动宾搭配 'exerts a relentlessly ___ influence on' 与后文转折 'not merely signaling future stagnation, but actively accelerating physical decay and the collapse' 构成决定性语义锚点。Merriam-Webster 对 baleful 的核心释义为 'deadly or pernicious in influence'，强调对客体施加直接、主动且毁灭性的破坏力；而后文明确否决了单纯的征兆功能（not merely signaling），严格排除了侧重预兆的 ominous，同时淘汰了表外貌险恶的 forbidding 以及暗含主观恶意阴谋的 sinister。",
+    "legacy_id": "tem8_b35_15"
+  },
+  {
+    "id": "tem8_pro_028",
+    "group_id": 363,
+    "group_name": "degenerate, dissolute, dissipated, fast",
+    "level": "TEM-8",
+    "target_word": "degenerate",
+    "question": "Once revered as a profound epistemological framework, the philosophy gradually succumbed to dogmatic orthodoxy, leaving contemporary scholars to dismiss its corrupted iterations as ___ parodies of authentic dialectical inquiry.",
+    "options": [
+      "degenerate",
+      "dissolute",
+      "dissipated",
+      "fast"
+    ],
+    "answer": "degenerate",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrast between the framework's pristine origin ('Once revered as a profound epistemological framework') and its subsequent deterioration ('corrupted iterations... of authentic dialectical inquiry') demands a word denoting decline from an original standard of excellence.",
+    "distractor_analysis": {
+      "degenerate": "正确。句中明确呈现了该哲学框架从最初公认的崇高与严谨（'Once revered as a profound epistemological framework'）逐步退化并遭到扭曲的历程。Merriam-Webster 将 degenerate 界定为 'having declined or deteriorated to a lower condition from an original or ancestral state of excellence'（从原有优良状态退化、堕落）。在此修饰 'parodies of authentic dialectical inquiry'，精准体现出其从真正的辩证探索沦为‘退化变质的劣质仿制品’的内涵。",
+      "dissolute": "错误。dissolute 侧重于个人缺乏道德自律、放纵肉欲与感官享乐（'lacking moral restraint; profligate, debauched'），多用于修饰人的私生活或放荡行径（如 dissolute life/habits），无法修饰抽象的哲学迭代或辩证探索产物。",
+      "dissipated": "错误。dissipated 强调因沉溺享乐而导致精力、健康或财富的‘虚耗、挥霍与消沉’（often specifically implies a physical or mental deterioration resulting from indulgence，如 dissipated look/energies），修饰认识论产物属于语义范畴严重错配。",
+      "fast": "错误。fast 指放荡、寻欢作乐时语体色彩偏非正式（如 a fast crowd），且侧重节奏超前、肆意挥霍的现代享乐方式，与高级学术期刊探讨认识论（epistemological framework）的庄重语域严重冲突。"
+    },
+    "translation": "该哲学曾被尊奉为深奥的认识论框架，后来却逐渐沦为教条主义的正统观念，致使当代学者将其腐化的变体斥为对纯正辩证探究的退化性拙劣模仿。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The contrast between the framework's pristine origin ('Once revered as a profound epistemological framework') and its subsequent deterioration ('corrupted iterations... of authentic dialectical inquiry') demands a word denoting decline from an original standard of excellence.",
+    "legacy_id": "tem8_b36_05"
+  },
+  {
+    "id": "tem8_pro_029",
+    "group_id": 363,
+    "group_name": "degenerate, dissolute, dissipated, fast",
+    "level": "TEM-8",
+    "target_word": "dissolute",
+    "question": "In his philosophical inquiry into civic virtue, the ethicist argued that a magistrate guilty of ___ conduct, marked by unabashed licentiousness and flagrant contempt for moral boundaries, inevitably erodes the public trust essential to governance.",
+    "options": [
+      "degenerate",
+      "dissolute",
+      "dissipated",
+      "fast"
+    ],
+    "answer": "dissolute",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The defining non-restrictive modifier 'marked by unabashed licentiousness and flagrant contempt for moral boundaries' strictly replicates the MW definition of dissolute ('unrestrained by convention or morality; debauched'), forming the classic academic-legal collocation 'dissolute conduct'.",
+    "distractor_analysis": {
+      "dissolute": "正确。句中的同位语解释 'marked by unabashed licentiousness and flagrant contempt for moral boundaries'（以毫不掩饰的放荡和对道德界限的公然藐视为主旨）构成了决定性锚点，完全对应 Merriam-Webster 对 dissolute 的核心释义 'unrestrained by convention or morality; profligate, debauched'。且 'dissolute conduct'（放荡行径、道德败坏行为）是伦理学与法学传统中固定的正式搭配。",
+      "degenerate": "错误。degenerate 的核心语义在于相对于原始祖先或物种类型的整体退化与生物/结构性劣变（deterioration from an original type），而非主动追求感官放纵、道德沦丧的放荡行为（licentiousness），在语义侧重点上存在偏差。",
+      "dissipated": "错误。dissipated 着眼于放纵所带来的后果——体质衰败、容颜憔悴或资财散尽（squandered, physically wasted），并不在学术英语中与 'conduct' 构成表征道德放纵的固定行为修饰（dissipated conduct 属于搭配断裂）。",
+      "fast": "错误。fast 表‘放荡、轻佻’时属于口语或通俗语域（如 living in the fast lane, a fast crowd），在探讨公民德性与政府公信力（civic virtue, governance）的哲学论文中属于严重的语域破裂（stylistic clash），且不能修饰 conduct。"
+    },
+    "translation": "在对公民德性的哲学探究中，这位伦理学家指出，若一名行政长官犯下以毫无掩饰的放荡和对道德界限的公然藐视为特征的放荡行径，必然会侵蚀对善治至关重要的公众信任。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The defining non-restrictive modifier 'marked by unabashed licentiousness and flagrant contempt for moral boundaries' strictly replicates the MW definition of dissolute ('unrestrained by convention or morality; debauched'), forming the classic academic-legal collocation 'dissolute conduct'.",
+    "legacy_id": "tem8_b36_06"
+  },
+  {
+    "id": "tem8_pro_030",
+    "group_id": 364,
+    "group_name": "despicable, vile, slimy, ugly",
+    "level": "TEM-8",
+    "target_word": "despicable",
+    "question": "Distinguishing visceral revulsion from moral scorn, the philosopher argued that while monstrous atrocities provoke sickening horror, conduct that is truly ___ elicits not physical revulsion, but a cold, disdainful contempt for the perpetrator's abject cowardice.",
+    "options": [
+      "despicable",
+      "vile",
+      "slimy",
+      "ugly"
+    ],
+    "answer": "despicable",
+    "primary_mechanism": "MECH_LOGICAL_CONNOTATION_INVERSION",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "句首分词短语“Distinguishing visceral revulsion from moral scorn”（区分本能的生理厌恶与道德鄙视）确立了全文严密的二元对立框架：前半句以“monstrous atrocities provoke sickening horror”对应“visceral revulsion”（生理性反胃/恐怖）；后半句则以“elicits not physical revulsion, but a cold, disdainful contempt for the perpetrator's abject cowardice”（引发的不是身体厌恶，而是对行为人卑劣懦弱的冰冷轻蔑）对应“moral scorn”。target word despicable 源自拉丁语 despicari（de- 向下 + specere 看，即俯视、鄙视），韦氏词典精准释义为“deserving to be despised : so worthless or obnoxious as to stir up contempt”，与后半句的“disdainful contempt”构成语源与词义的绝对闭环。反观 vile，其现代核心词义正是“引起生理作呕、发臭或极端堕落”（stresses disgusting depravity, foulness, or physical revulsion），若填入明确限定为“elicits not physical revulsion”的后半句中，将导致直接的【逻辑语义逆反】；同时，本题空格前使用副词“truly”，从构词与句法上彻底消除了原题中利用“a/an”冠词排除 ugly 的应试设计缺陷。",
+    "distractor_analysis": {
+      "despicable": "正确。despicable 源于拉丁语 despicari（俯视、轻视），在道德哲学与情感心理学语境中特指“因渺小卑下、缺乏道德价值或行径懦弱而理应招致道德轻蔑与鄙薄的”（deserving to be despised; arousing cold contempt and disdain）。句中明确将其界定为“不引起身体反胃（elicits not physical revulsion），而是引发针对懦弱行径的冷酷轻蔑（a cold, disdainful contempt）”，与“moral scorn”形成严丝合缝的范畴呼应。",
+      "vile": "错误（逻辑语义逆反）。vile 在现代规范英语中的核心语义高度集中于“极其恶毒的、令人作呕的堕落或身体感官上的发臭污秽”（stresses disgusting depravity, physical foulness, or abhorrent wickedness that causes visceral nausea and horror，如 vile smell, vile atrocities）。题干主句已明确设定限定条件——该行为“elicits not physical revulsion”（引发的并非生理厌恶），若将 vile 填入，断言“真正的 vile 行为不会引起身体反胃”，直接与其词典核心释义构成逻辑矛盾与语义颠倒。",
+      "slimy": "错误（语体色彩冲突与概念错配）。slimy 本义为“黏滑的、分泌黏液的”（属于典型的触觉感官厌恶，直接违背“not physical revulsion”）；其引申义多指“虚伪油滑的、逢迎谄媚的”（unpleasantly and deceitfully flattering/unctuous），语体色彩属于非正式口语化隐喻（如 a slimy politician），与道德哲学严肃规范的学术论辩语体严重脱节；且“卑劣的懦弱”（abject cowardice）无法与 slimy 形成合理的逻辑搭配。",
+      "ugly": "错误（学术评述失位与语义泛化）。ugly 虽然在搭配“truly ugly”时不存在语音冠词阻断，但其词义主要停留在外在感官的“难看的、丑陋的”，或形容事态局势“令人不快、剑拔弩张的”（如 an ugly mood, an ugly confrontation）。ugly 完全不具备 despicable 所独有的“因卑贱无耻而理应遭受居高临下的社会性鄙弃与道德轻蔑”（contempt and scorn）的高阶伦理评判内涵，用于此处学术精度严重不足。"
+    },
+    "translation": "在区分本能的生理厌恶与道德层面的鄙视时，这位哲学家指出，尽管灭绝人性的暴行会引发令人作呕的惊骇，但真正可鄙的行径所招致的却绝非肉体上的反胃，而是针对行为人卑劣懦弱所生发的一种冰冷而轻蔑的鄙弃。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句首分词短语“Distinguishing visceral revulsion from moral scorn”（区分本能的生理厌恶与道德鄙视）确立了全文严密的二元对立框架：前半句以“monstrous atrocities provoke sickening horror”对应“visceral revulsion”（生理性反胃/恐怖）；后半句则以“elicits not physical revulsion, but a cold, disdainful contempt for the perpetrator's abject cowardice”（引发的不是身体厌恶，而是对行为人卑劣懦弱的冰冷轻蔑）对应“moral scorn”。target word despicable 源自拉丁语 despicari（de- 向下 + specere 看，即俯视、鄙视），韦氏词典精准释义为“deserving to be despised : so worthless or obnoxious as to stir up contempt”，与后半句的“disdainful contempt”构成语源与词义的绝对闭环。反观 vile，其现代核心词义正是“引起生理作呕、发臭或极端堕落”（stresses disgusting depravity, foulness, or physical revulsion），若填入明确限定为“elicits not physical revulsion”的后半句中，将导致直接的【逻辑语义逆反】；同时，本题空格前使用副词“truly”，从构词与句法上彻底消除了原题中利用“a/an”冠词排除 ugly 的应试设计缺陷。",
+    "legacy_id": "tem8_b36_07"
+  },
+  {
+    "id": "tem8_pro_031",
+    "group_id": 373,
+    "group_name": "horrid, horrific, offensive, hideous",
+    "level": "TEM-8",
+    "target_word": "horrid",
+    "question": "In his authoritative study of Miltonic verse, the literary scholar demonstrated that the depiction of a ___ precipice was designed to revive the Latinate sense of bristling roughness, rather than merely evoke conventional psychological abhorrence.",
+    "options": [
+      "horrid",
+      "horrific",
+      "offensive",
+      "hideous"
+    ],
+    "answer": "horrid",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "句中关键排他锚点为“designed to revive the Latinate sense of bristling roughness, rather than merely evoke conventional psychological abhorrence”（旨在复活其源自拉丁语‘粗糙竖立、嶙峋’之本义，而非仅仅唤起常规的心理厌恶）。根据《韦氏词典》（Merriam-Webster），horrid 的首要词义即为“archaic: BRISTLING, ROUGH, RUGGED”，直接承袭自拉丁语 horridus（源自 horrēre，意为毛发竖立、战栗、粗糙）。在十七至十八世纪文学经典及批评史中，弥尔顿等人常借 horrid 形容多刺树丛或险峻岩壁。其余三个选项均无指称“粗糙竖立”的拉丁词源及本义，代入后均产生严重的语义与词源学冲突。",
+    "distractor_analysis": {
+      "horrid": "正确。此处表示“嶙峋粗糙的、毛糙耸立的”。horrid 在古典学术与文学批评语境中保存了其直接源自拉丁语 horridus（词根 horrēre，指毛发直立、粗糙嶙峋）的高雅本义（Merriam-Webster: archaic: bristling, rough, rugged）。弥尔顿在《失乐园》等作品中频繁利用这一拉丁词源描绘险峰与地狱地貌，与句中“revive the Latinate sense of bristling roughness”构成无可替代的绝对语义锚定。",
+      "horrific": "错误。horrific 指“引起剧烈恐怖或惨烈震撼的”（causing horror or shock），源自拉丁语 horrificus（horror + facere，即造成恐慌）。该词在现代与历史用法中均聚焦于重大创伤、伤亡惨剧或毁灭性后果（如 horrific injuries, horrific tragedy），词义核心在于惨烈破坏引发的心理震骇，从未具备“bristling roughness”（粗糙嶙峋）的物态质感释义。",
+      "offensive": "错误。offensive 源自拉丁语 offendere（击打、冒犯），指言行令人不快、产生冒犯或具有攻击性（giving displeasure, insulting, or aggressive）。该词属于人际交往、社会伦理或军事攻防范畴，与描述自然地貌物理特征的“粗糙嶙峋”毫无关联，代入语境导致语义严重脱节。",
+      "hideous": "错误。hideous 意为“极其丑陋的、骇人听闻的或道德上令人作呕的”（offensive to the senses, morally shocking）。该词在词源上派生自古法语 hideus（可怕的），在英语中主要指感官外貌上的狰狞丑恶或伦理层面的极恶（如 hideous monster, hideous crime），既非源于表意“粗糙直立”的拉丁词根，亦无“bristling roughness”这一物性义项，与后文的词源定语相抵触。"
+    },
+    "translation": "在对弥尔顿诗歌风格的权威研究中，这位文学学者论证道，将险峻的悬崖描绘为“horrid（嶙峋粗糙的）”，旨在复活其源自拉丁语的“粗糙竖立”之本义，而非仅仅唤起常规的心理厌恶。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中关键排他锚点为“designed to revive the Latinate sense of bristling roughness, rather than merely evoke conventional psychological abhorrence”（旨在复活其源自拉丁语‘粗糙竖立、嶙峋’之本义，而非仅仅唤起常规的心理厌恶）。根据《韦氏词典》（Merriam-Webster），horrid 的首要词义即为“archaic: BRISTLING, ROUGH, RUGGED”，直接承袭自拉丁语 horridus（源自 horrēre，意为毛发竖立、战栗、粗糙）。在十七至十八世纪文学经典及批评史中，弥尔顿等人常借 horrid 形容多刺树丛或险峻岩壁。其余三个选项均无指称“粗糙竖立”的拉丁词源及本义，代入后均产生严重的语义与词源学冲突。",
+    "legacy_id": "tem8_b37_05"
+  },
+  {
+    "id": "tem8_pro_032",
+    "group_id": 373,
+    "group_name": "horrid, horrific, offensive, hideous",
+    "level": "TEM-8",
+    "target_word": "horrific",
+    "question": "Cognitive neuroscientists demonstrated that exposing subjects to ___ narratives of catastrophic trauma triggered acute amygdala hyperactivation, whereas merely unpleasant or repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste.",
+    "options": [
+      "horrid",
+      "horrific",
+      "offensive",
+      "hideous"
+    ],
+    "answer": "horrific",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点由‘神经认知机能对应’与‘转折从句的语义排他’双重构成：1）机能对应：‘acute amygdala hyperactivation’（杏仁核急性过度激活）在认知神经学中是处理极端恐惧、惊骇与创伤性震慑（horror/terror）的特异性生理表征，严格锁定 horrific（引起极大惊恐与创伤的）；2）转折逻辑排他：后半句‘whereas merely unpleasant or repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste’（而单纯令人不悦或令人反感的刺激则激活调控审美厌恶的前额叶网络）在逻辑上将‘不悦感’（unpleasant）与‘反感/审美厌恶’（repulsive/distaste）划归为对照范畴。horrid（极度不悦的）、offensive（令人不快的）与 hideous（丑陋反感的）在语义上均被该对照组正面封死，填入会导致前后逻辑悖论；唯有 horrific 能在惊骇创伤（horror）维度上与审美反感形成严密的机制对比。",
+    "distractor_analysis": {
+      "horrid": "错误。根据韦氏词典，horrid 在现代英语中主要指‘offensively or disgustingly unpleasant; disagreeable’（令人极度不快的、讨厌的），其内涵完全落入后半句转折对照组‘merely unpleasant’中；若填入会导致分句间的转折对照逻辑断裂。同时，horrid 常见于日常主观抱怨，在严肃的认知神经科学语境中存在严重的语体冲突（register clash）。",
+      "horrific": "正确。horrific 意为‘having the power or tendency to cause horror; terrifying’（引发极端惊骇的、产生巨大创伤性震慑的）。在此句中，它一方面精确对应杏仁核过度激活（amygdala hyperactivation）这一处理创伤惊恐的神经回路，另一方面与后文前额叶处理的单纯感官反感（aesthetic distaste）形成严密的认知机制对立。",
+      "offensive": "错误。offensive 侧重于‘giving displeasure or causing resentment’（造成冒犯的、令人不愉快的），同样属于后文‘merely unpleasant’所排除的范畴。冒犯性或社交抵触诱发的是社会道德层面的反感，不能作为创伤叙事中激发杏仁核强烈应激反应的生理诱因，语意不合。",
+      "hideous": "错误。hideous 的核心词义严格聚焦于‘repulsive, ugly, or distressing quality that deeply offends the senses or aesthetic sensibilities’（感官上丑陋扭曲的、在审美上令人反感的）。后半句‘whereas... repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste’已明确将‘repulsive’与‘aesthetic distaste’作为对照组，若在前半句填入 hideous，前后两分句将出现直接的语义重叠与逻辑自相矛盾。"
+    },
+    "translation": "认知神经科学家指出，让受试者接触引发极端惊骇的灾难性创伤叙事会触发杏仁核的急性过度激活，而单纯令人不悦或感官反感的刺激则会激活调控审美厌恶的前额叶脑区网络。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "决定性排他锚点由‘神经认知机能对应’与‘转折从句的语义排他’双重构成：1）机能对应：‘acute amygdala hyperactivation’（杏仁核急性过度激活）在认知神经学中是处理极端恐惧、惊骇与创伤性震慑（horror/terror）的特异性生理表征，严格锁定 horrific（引起极大惊恐与创伤的）；2）转折逻辑排他：后半句‘whereas merely unpleasant or repulsive stimuli engaged distinct prefrontal networks regulating aesthetic distaste’（而单纯令人不悦或令人反感的刺激则激活调控审美厌恶的前额叶网络）在逻辑上将‘不悦感’（unpleasant）与‘反感/审美厌恶’（repulsive/distaste）划归为对照范畴。horrid（极度不悦的）、offensive（令人不快的）与 hideous（丑陋反感的）在语义上均被该对照组正面封死，填入会导致前后逻辑悖论；唯有 horrific 能在惊骇创伤（horror）维度上与审美反感形成严密的机制对比。",
+    "legacy_id": "tem8_b37_06"
+  },
+  {
+    "id": "tem8_pro_033",
+    "group_id": 397,
+    "group_name": "abominable, atrocious, awful, painful",
+    "level": "TEM-8",
+    "target_word": "abominable",
+    "question": "Orthodox inquisitors deemed the mystic's esoteric doctrines not merely erroneous, but fundamentally ___, seeing in their theological syncretism a spiritually repulsive contamination that warranted complete institutional extirpation.",
+    "options": [
+      "abominable",
+      "atrocious",
+      "awful",
+      "painful"
+    ],
+    "answer": "abominable",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词短语 'seeing in their theological syncretism a spiritually repulsive contamination'（视其神学融合为一种精神上令人作呕的污秽）构成决定性语义锚点。abominable 词源含宗教厌弃与道德亵渎之意，专指引起极度道德与精神厌恶、可憎不洁的事物，与修饰教义（doctrines）及异端污秽完全契合。",
+    "distractor_analysis": {
+      "abominable": "正确。abominable 源自拉丁语 abominari（视为不祥而厌弃），指引起极度宗教或道德反感、令人憎恶唾弃的（worthy of causing disgust or hatred : detestable）。句中宗教裁判所针对神秘主义教义的定性，以及后文明确指出的“精神污秽（spiritually repulsive contamination）”，在内涵层面唯有 abominable 能够精准对接这种源于宗教洁净观与正统信仰的排他性憎恶。",
+      "atrocious": "错误。atrocious 词源侧重于凶暴、残虐（barbarous, savage, cruel），核心语境为野蛮血腥的人身侵害、暴行或恶劣至极的品味/做工。用来修饰抽象的神学教义（doctrines）不合常规搭配与语义逻辑。",
+      "awful": "错误。awful 在现代英语中词义磨损严重，多用于泛化的口语抱怨（极坏的、糟糕的）；而在古英语神学语境中又表“令人心生敬畏的（awe-inspiring）”。在此高级学术书面语境中，填入既破坏严肃语体，又无法承载“神学污秽与必欲除之而后快”的极度道德憎恶内涵。",
+      "painful": "错误。painful 意为“令人痛苦的、令人难堪的”，指代身体或情绪上的痛感或尴尬不适。用来形容受到宗教裁判所严惩并被视为精神污染的异端教说，在语义强度和感情色彩上均极度欠缺，形成严重的语义降格。"
+    },
+    "translation": "正统宗教裁判所的审判官们不仅认为这位神秘主义者的秘传教义是错误的，而且认为它们从根本上是可憎逆伦的，并在其神学融合主义中看到了一种精神上令人作呕的污秽，理应在体制上予以彻底根除。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中后置分词短语 'seeing in their theological syncretism a spiritually repulsive contamination'（视其神学融合为一种精神上令人作呕的污秽）构成决定性语义锚点。abominable 词源含宗教厌弃与道德亵渎之意，专指引起极度道德与精神厌恶、可憎不洁的事物，与修饰教义（doctrines）及异端污秽完全契合。",
+    "legacy_id": "tem8_b39_13"
+  },
+  {
+    "id": "tem8_pro_034",
+    "group_id": 397,
+    "group_name": "abominable, atrocious, awful, painful",
+    "level": "TEM-8",
+    "target_word": "atrocious",
+    "question": "The appellate court ruled that the defendant's conduct, while morally repellent, did not exhibit the ___ violence required to satisfy the statutory threshold for capital murder, which explicitly demands proof of savage physical butchery.",
+    "options": [
+      "abominable",
+      "atrocious",
+      "awful",
+      "painful"
+    ],
+    "answer": "atrocious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_LAW_JUSTICE",
+    "anchor_clue": "句中让步状语从句“while morally repellent”（尽管在道德层面令人憎恶）与定语从句“which explicitly demands proof of savage physical butchery”（明确要求提供野蛮肉体屠杀的证据）构成了严密的双向排他锚点。前半句已先行让步了“道德层面的反感与厌恶”，后半句则转而界定法定死刑门槛所要求的“野蛮肉体暴虐”。这使得侧重精神与道德憎恶的 abominable 产生严重的语意逻辑抵触；同时排除了语体过弱的 awful 与侧重受害感知体验的 painful，唯有词源为 atrox（凶残、暴虐）、在刑法量刑指引中专指野蛮肉体残害的 atrocious 能够精确吻合上下文的法理逻辑与语意对比。",
+    "distractor_analysis": {
+      "atrocious": "正确。atrocious 专指极度残暴凶恶、野蛮暴虐的（extremely wicked, brutal, or cruel; barbarous），在刑法与死刑司法裁决（如尤其残暴恶劣的谋杀加重情节）中专指伴随极度凶残、酷刑或血腥屠杀的暴行。句子通过 while 从句将道德上的可恶先行让步，主句修饰法定暴力标准，完美契合后文“savage physical butchery”所界定的暴虐维度。",
+      "abominable": "错误。abominable 核心指道德、宗教或品格层面令人作呕、憎恶反感的（arousing extreme disgust, loathing, or moral revulsion）。前文让步从句“while morally repellent”已明确承认了道德层面的嫌恶，若在主句中继续填入 abominable violence，将导致主从句逻辑产生严重的语意反复与同义抵触（“虽然在道德上令人憎恶，却未表现出令人憎恶的暴力”），且该词无法承载后文所要求的“野蛮肉体屠戮”之凶残物理属性。",
+      "awful": "错误。awful 在现代英语中多为日常口语中的泛化贬义词（极坏的、糟糕的），或在传统庄重文体中表“令人敬畏的（inspiring awe）”；无论何种词义均完全无法满足死刑量刑裁定（capital murder）这一严谨司法文本的专业语体要求，亦无法表达“野蛮物理屠杀”的暴虐内涵，存在显著的语体破裂（stylistic clash）。",
+      "painful": "错误。painful 意为“令人疼痛的、令人痛苦的”，语义核心在于受害者的主观感官承受或痛苦体验（experiential / recipient-oriented），不能作为主动态定语修饰施害者针对法定死刑门槛所实施的凶残屠戮行为（agentive brutality）。"
+    },
+    "translation": "上诉法院裁定，被告的行为尽管在道德上令人憎恶，但并未表现出满足死刑法定门槛所必需的残暴暴力——该门槛明确要求提供野蛮肉体屠戮的证据。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中让步状语从句“while morally repellent”（尽管在道德层面令人憎恶）与定语从句“which explicitly demands proof of savage physical butchery”（明确要求提供野蛮肉体屠杀的证据）构成了严密的双向排他锚点。前半句已先行让步了“道德层面的反感与厌恶”，后半句则转而界定法定死刑门槛所要求的“野蛮肉体暴虐”。这使得侧重精神与道德憎恶的 abominable 产生严重的语意逻辑抵触；同时排除了语体过弱的 awful 与侧重受害感知体验的 painful，唯有词源为 atrox（凶残、暴虐）、在刑法量刑指引中专指野蛮肉体残害的 atrocious 能够精确吻合上下文的法理逻辑与语意对比。",
+    "legacy_id": "tem8_b39_14"
+  },
+  {
+    "id": "tem8_pro_035",
+    "group_id": 400,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "atrocious",
+    "question": "In his scathing critique of the monograph, the historian deplored the author's ___ scholarship, demonstrating that such appallingly slipshod archival research and distorted citations rendered the entire thesis intellectually untenable.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "atrocious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "deplored the author's ___ scholarship, demonstrating that such appallingly slipshod archival research and distorted citations...",
+    "distractor_analysis": {
+      "atrocious": "【正确】atrocious 源自拉丁语 atrox（凶残的、可怕的），在现代学术与高阶英语中发生内涵延展（MECH_CONNOTATION），常用于认知评价领域（FIELD_COGNITION），专门形容事物在质量、技术或学术水准上“极其拙劣的、令人震惊的差劲、糟糕透顶的”（MW: APPALLING, HORRIFYING; utterly revolting: ABOMINABLE）。此处与 scholarship 构成学术书评中的经典搭配，精准呼应后文的 appallingly slipshod（骇人听闻般草率的）和 distorted citations，完美符合语境褒贬色彩与学术谴责语气。",
+      "grievous": "【排除】grievous 核心语义源自 grief，专指“导致严重痛苦、悲伤、创伤或灾难性后果的”（causing or characterized by severe pain, suffering, or sorrow），常见搭配为 grievous bodily harm、grievous error、grievous loss。用来修饰 scholarship（学术研究/造诣）属于严重的语用搭配断裂（collocational rupture），学术水准低劣并不会直接产生 grief 式的肉体或精神哀痛。",
+      "evil": "【排除】evil 属于纯粹的伦理道德与神学范畴词，强调“邪恶的、不道德的、恶毒的”（morally reprehensible; malevolent）。学术研究的不严谨、史料处理的粗糙属于方法论与智识能力缺陷（epistemological/methodological failure），而非出于蓄意害人的道德败坏，用 evil 修饰 scholarship 犯了范畴归类错误（category mistake）。",
+      "monstrous": "【排除】monstrous 强调“反常的、骇人听闻的、畸形巨大的”（deviating unnaturally from normal character; shockingly unjust or absurd），常修饰 lie、injustice 或实体畸形物。修饰学术研究质量时缺乏“水准极其拙劣、低劣粗糙”的特定学术批评内涵，会产生文体风格脱节。"
+    },
+    "translation": "在对这部专著的严厉批评中，这位历史学家痛斥了该作者糟糕透顶的学术造诣，指出其档案研究如此粗制滥造、引证如此歪曲失真，已使整个论点在学术上根本立不住脚。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "deplored the author's ___ scholarship, demonstrating that such appallingly slipshod archival research and distorted citations...",
+    "legacy_id": "tem8_b39_19"
+  },
+  {
+    "id": "tem8_pro_036",
+    "group_id": 400,
+    "group_name": "atrocious, grievous, evil, monstrous",
+    "level": "TEM-8",
+    "target_word": "grievous",
+    "question": "The diplomatic dispatch concluded that the ambassador's failure to anticipate the coup constituted a ___ miscalculation, whose disastrous aftermath inflicted immense sorrow and lasting geopolitical instability across the entire region.",
+    "options": [
+      "atrocious",
+      "grievous",
+      "evil",
+      "monstrous"
+    ],
+    "answer": "grievous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "constituted a ___ miscalculation, whose disastrous aftermath inflicted immense sorrow and lasting geopolitical instability...",
+    "distractor_analysis": {
+      "grievous": "【正确】grievous 核心语义与 grief（悲痛、苦难）同源，专指后果“极其严重的、令人痛心的、招致重大创伤与苦难的”（causing or characterized by severe pain, suffering, or sorrow）。在认知与战略研判语境中（FIELD_COGNITION），grievous 与 miscalculation/error 形成国际关系与历史学中的权威固定搭配（grievous miscalculation），后文的 inflicted immense sorrow and lasting instability 构成排他性语义锚点，直接呼应 grievous 蕴含的“招致极度哀伤与惨痛后果”的特定情感与结果内涵。",
+      "atrocious": "【排除】atrocious 主要指行为本身的残暴野蛮或质量极其糟糕可憎（barbaric; appallingly bad），它关注的是性质的恶劣或品质的低下，不能像 grievous 那样直接承载并传导“造成沉痛灾难、使人陷入无尽悲痛与哀伤（sorrow）”的结果性内涵，与后文的 inflicted immense sorrow 无法紧密契合。",
+      "evil": "【排除】evil 意为“邪恶的、恶毒的”，强调行为人主观上蓄意的恶意或道德腐化。miscalculation（误判）属于认知判断层面的智识与分析失误（cognitive/epistemological flaw），其本身不具备道德恶意，逻辑上不能称为“evil miscalculation”，属于逻辑内涵倒错。",
+      "monstrous": "【排除】monstrous 偏重于“荒诞怪异的、骇人听闻的、规模畸形庞大的”（grotesque; shockingly outrageous），如 a monstrous lie 或 a monstrous absurdity。尽管误判后果严重，但在描述带来沉重哀伤与破坏的战略灾难时，monstrous 缺乏“致人悲恸（causing grief）”的因果语义特征，搭配显得浮夸而不准确。"
+    },
+    "translation": "这份外交电报总结道，大使未能预见这场政变构成了令人痛心的重大误判，其灾难性的后果给整个地区带来了巨大的悲痛和持久的地缘政治动荡。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "constituted a ___ miscalculation, whose disastrous aftermath inflicted immense sorrow and lasting geopolitical instability...",
+    "legacy_id": "tem8_b39_20"
+  },
+  {
+    "id": "tem8_pro_037",
+    "group_id": 403,
+    "group_name": "chaste, virtuous, pure, virgin",
+    "level": "TEM-8",
+    "target_word": "chaste",
+    "question": "Rejecting the ornate excesses of Baroque rhetoric, the Enlightenment essayist cultivated a remarkably ___ prose style, arguing that rigorous intellectual inquiry demanded language stripped of all superfluous emotional and decorative indulgence.",
+    "options": [
+      "chaste",
+      "virtuous",
+      "pure",
+      "virgin"
+    ],
+    "answer": "chaste",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中语境为修辞与文体批评（'prose style'），前后存在明确的语义对立与修饰锚点：'Rejecting the ornate excesses of Baroque rhetoric' 与后文的 'stripped of all superfluous emotional and decorative indulgence'。在高级词汇与修辞学谱系中，唯有 chaste 具有从'道德与肉体克制'引申出的'（文风、艺术设计）朴素雅致的、毫无多余繁复修饰的、洗练沉静的'（severely simple or austere in style）这一决定性内涵。",
+    "distractor_analysis": {
+      "chaste": "正确。chaste 除表示'贞洁的、恪守性道德的'之外，在 TEM-8 核心学术与文学批评语境中常考其引申义，专指文学风格、语言或艺术设计'朴实无华的、洗练严谨的、摒除多余浮华修饰的'（MW: severely simple in style or execution : austere）。此处修饰 'prose style'，与后文 'stripped of all superfluous emotional and decorative indulgence' 形成严密的同义复指与修辞呼应。",
+      "virtuous": "错误。virtuous 侧重指道德主体品质高尚、为人正直或行为符合伦理标准（having or showing high moral standards），亦可用于良性机制（如 a virtuous cycle）。它无法修饰散文文体或修辞风格，'a virtuous prose style' 属于严重的语义范畴错配（category mistake）与搭配断裂。",
+      "pure": "错误。pure 强调'纯净的、无杂质的、不掺杂异质元素的'（free from extraneous elements）。在文体学中，'pure style' 通常指语言纯正、未受外来语或方言杂质污染（如 pure vernacular），而不能表达'刻意压制多余装饰、追求简约克制'的文风特征，无法与 'stripped of all superfluous decorative indulgence' 形成精确契合。",
+      "virgin": "错误。virgin 强调'未经触碰的、处于原初未开垦状态的'（untouched, pristine）。用来修饰经过深思熟虑打磨的散文风格（prose style）完全不符合英语搭配规范与文体习惯，造成语用断裂。"
+    },
+    "translation": "这位启蒙时期的随笔作家摒弃了巴洛克修辞的繁冗浮华，转而推崇一种极其洗练朴素的散文风格，认为严谨的哲学思辨需要剥除一切多余的情感煽动与装饰性浮夸。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中语境为修辞与文体批评（'prose style'），前后存在明确的语义对立与修饰锚点：'Rejecting the ornate excesses of Baroque rhetoric' 与后文的 'stripped of all superfluous emotional and decorative indulgence'。在高级词汇与修辞学谱系中，唯有 chaste 具有从'道德与肉体克制'引申出的'（文风、艺术设计）朴素雅致的、毫无多余繁复修饰的、洗练沉静的'（severely simple or austere in style）这一决定性内涵。",
+    "legacy_id": "tem8_b40_05"
+  },
+  {
+    "id": "tem8_pro_038",
+    "group_id": 403,
+    "group_name": "chaste, virtuous, pure, virgin",
+    "level": "TEM-8",
+    "target_word": "virtuous",
+    "question": "Aristotle maintained that an individual becomes genuinely ___ not through innate innocence or passive abstention from vice, but through the deliberate, habitual practice of moral actions guided by practical wisdom.",
+    "options": [
+      "chaste",
+      "virtuous",
+      "pure",
+      "virgin"
+    ],
+    "answer": "virtuous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中通过严密的转折对比构建了排他逻辑：'not through innate innocence [直接排除 pure] or passive abstention from vice [直接排除 chaste 与 virgin]，but through the deliberate, habitual practice of moral actions guided by practical wisdom'。该结构准确复述了亚里士多德伦理学中关于德性获得的核心命题——真正的德性必须是在实践智慧指导下通过后天刻意、习惯性的道德践行而形成的全方位卓越品格，从而排他性地锁定了 virtuous。",
+    "distractor_analysis": {
+      "virtuous": "正确。virtuous 在道德哲学与认知伦理学中指'有德性的、品格卓越的'，特指道德主体通过实践智慧（phronesis）和长期的道德实践所养成的全面伦理卓越（MW: having or showing moral excellence）。句中 'deliberate, habitual practice of moral actions'（对道德行为自觉且习惯性的践行）正是亚里士多德哲学中对养成'virtuous'状态的经典定义。",
+      "chaste": "错误。chaste 的核心内涵局限于'贞洁的、节制感官欲念的'（morally pure, especially refraining from sexual desires），侧重消极的自律与防守。句中 'passive abstention from vice'（对恶行的消极戒绝）作为被明确否定的前项，直接排除了仅具备消极节制内涵的 chaste。",
+      "pure": "错误。pure 强调'天真无邪的、未受污染的、原本纯洁的'（innocent, uncontaminated），侧重一种原初未遭沾染的静态特质。句中的首要否定项 'not through innate innocence'（并非通过与生俱来的天真）从语义上直接将 pure 予以排除。",
+      "virgin": "错误。virgin 强调'处于初始未经历状态的、未被触碰过的'（untouched, inexperience）。它描述一种尚未发生经验接触的事实状态，与句中通过后天反复实践、经受世事磨炼而达成的卓越品德（habitual practice）在哲学和语义逻辑上完全对立。"
+    },
+    "translation": "亚里士多德主张，一个人之所以能成为真正具有完满德性的人，并非凭借与生俱来的天真纯洁或对恶行的消极戒绝，而是依托于在实践智慧指引下对道德行为的自觉且习惯性的践行。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中通过严密的转折对比构建了排他逻辑：'not through innate innocence [直接排除 pure] or passive abstention from vice [直接排除 chaste 与 virgin]，but through the deliberate, habitual practice of moral actions guided by practical wisdom'。该结构准确复述了亚里士多德伦理学中关于德性获得的核心命题——真正的德性必须是在实践智慧指导下通过后天刻意、习惯性的道德践行而形成的全方位卓越品格，从而排他性地锁定了 virtuous。",
+    "legacy_id": "tem8_b40_06"
+  },
+  {
+    "id": "tem8_pro_039",
+    "group_id": 409,
+    "group_name": "exalted, sublime, grand, lofty",
+    "level": "TEM-8",
+    "target_word": "sublime",
+    "question": "Rather than finding tranquil beauty in the alpine tempest, the early naturalists were seized by a ___ terror, an awe-inspiring yet perilous state of consciousness wherein nature's boundless power overwhelmed finite human reason.",
+    "options": [
+      "exalted",
+      "sublime",
+      "grand",
+      "lofty"
+    ],
+    "answer": "sublime",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Anchored in the 18th-century aesthetic dichotomy contrasting 'tranquil beauty' with 'sublime terror'—a Burkean/Kantian term denoting awe mixed with dread before nature's overwhelming, boundless power.",
+    "distractor_analysis": {
+      "sublime": "【正确】在自然美学与哲学传统（特别是博克与康德的美学体系）中，“sublime terror”是经典核心术语，专指面对狂暴、无限的自然伟力时所产生的那种集震颤、惊恐与精神崇高感于一体的审美体验，与前文的“tranquil beauty”（静谧之美）构成严格的美学二元对立。",
+      "exalted": "【错误】带有强烈的积极赞美色彩，指道德纯洁、地位崇高或宗教式的狂喜亢奋（如 exalted joy），无法修饰带有毁灭性威胁与惊惧感的“terror”，二者在情感极性上严重冲突。",
+      "grand": "【错误】指宏大、气派或大规模；当“grand”修饰“terror”时，在英语中通常指政治历史语境下的“大规模恐怖统治”（如 Grand Terror），与荒野自然激发的个体审美心理体验完全无关。",
+      "lofty": "【错误】强调物理高度的高耸（如 lofty crags）或态度的居高临下，在语义上无法与表征深层心理震撼与敬畏之悚然的“terror”形成有效搭配，搭配破裂。"
+    },
+    "translation": "早期的博物学家并未在高山风暴中觅得静谧之美，反而被一种崇高的恐惧所攫住——那是一种令人心生敬畏却又深感危殆的意识状态，自然那无边无际的力量在其中彻底压倒了有限的人类理性。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Anchored in the 18th-century aesthetic dichotomy contrasting 'tranquil beauty' with 'sublime terror'—a Burkean/Kantian term denoting awe mixed with dread before nature's overwhelming, boundless power.",
+    "legacy_id": "tem8_b40_18"
+  },
+  {
+    "id": "tem8_pro_040",
+    "group_id": 417,
+    "group_name": "majestic, regal, royal, noble",
+    "level": "TEM-8",
+    "target_word": "majestic",
+    "question": "Tracing the immutable laws of orbital mechanics, the astronomer described the ___ motion of the celestial spheres, emphasizing an imposing cosmic grandeur that entirely transcended the ephemeral reign of terrestrial monarchs.",
+    "options": [
+      "majestic",
+      "regal",
+      "royal",
+      "noble"
+    ],
+    "answer": "majestic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "The head noun 'motion of the celestial spheres' coupled with 'imposing cosmic grandeur' requires an adjective denoting solemn dignity associated with vast scale and stately dynamic movement, a semantic domain lexicographically unique to 'majestic' (cf. Merriam-Webster: 'as of great size or stately motion <the majestic motion of the planets>'). Concurrently, 'transcended the ephemeral reign of terrestrial monarchs' logically disqualifies monarchical terms ('regal', 'royal'), while 'noble' cannot collocate with dynamic astronomical mechanics.",
+    "distractor_analysis": {
+      "majestic": "正确。Merriam-Webster 明确指出：“MAJESTIC combines the ideas of solemn dignity and imposing grandeur (as of great size or stately motion) <the majestic motion of the planets>”。在同义词辨析中，majestic 是唯一专门用于表述天体或自然伟力所呈现出的“庄严宏伟、迟缓而庄重的动态运动”（stately motion）的形容词。句中“motion of the celestial spheres”与“imposing cosmic grandeur”构成了字典级典范契合。",
+      "regal": "错误。regal 源自拉丁语 regalis，核心语义指向君王个人的外在仪表、神态、风度或宫廷仪仗（suggests the outward appearance, stature, or bearing of a monarch）。将其用于修饰冷峻客观的天体运行轨迹属于范畴错配（category mistake）；此外，后半句“transcended the ephemeral reign of terrestrial monarchs”明确将天体气象置于人间王权之上，在语义逻辑上排斥具有君主仪表意味的 regal。",
+      "royal": "错误。royal 为事实属性形容词，严格指“属于君王、王室或经王室法定特许的”（pertaining to, or derived from an actual king or queen）。天球与行星的公转属于宇宙物理现象，与任何世俗王权无涉，修饰“motion”不合逻辑。",
+      "noble": "错误。noble 用于物象时，主要修饰静态建筑、容貌或植物中表现出的“尊严庄重、规模宏阔”（grand or impressive especially in appearance: stately, 如 a noble facade, noble pines），或指道德境界的高尚。noble 在现代英语中不具备表示宏大天体“庄严迟缓之动态运动”（stately motion）的语义潜能，与 motion of the celestial spheres 构成搭配脱节。"
+    },
+    "translation": "追溯天体运行机制的恒常法则，这位天文学家描摹了天球那种庄严宏伟的运动，并着重强调了一种完全超越尘世君主短暂统治的壮阔宇宙气象。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The head noun 'motion of the celestial spheres' coupled with 'imposing cosmic grandeur' requires an adjective denoting solemn dignity associated with vast scale and stately dynamic movement, a semantic domain lexicographically unique to 'majestic' (cf. Merriam-Webster: 'as of great size or stately motion <the majestic motion of the planets>'). Concurrently, 'transcended the ephemeral reign of terrestrial monarchs' logically disqualifies monarchical terms ('regal', 'royal'), while 'noble' cannot collocate with dynamic astronomical mechanics.",
+    "legacy_id": "tem8_b41_13"
+  },
+  {
+    "id": "tem8_pro_041",
+    "group_id": 417,
+    "group_name": "majestic, regal, royal, noble",
+    "level": "TEM-8",
+    "target_word": "regal",
+    "question": "Throughout the cabinet crisis, the prime minister treated the parliamentary committee with such ___ disdain, summarily dismissing their statutory inquiries, that backbenchers accused him of governing like an absolute monarch.",
+    "options": [
+      "majestic",
+      "regal",
+      "royal",
+      "noble"
+    ],
+    "answer": "regal",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "The syntactic co-text 'such ___ disdain, summarily dismissing their statutory inquiries, that backbenchers accused him of governing like an absolute monarch' specifically selects for an autocratic, monarch-like haughtiness (Merriam-Webster's explicit illustrative paradigm: 'a regal disdain for the opinions of others'). This sharply eliminates 'royal' (strictly factual/institutional kingship), 'majestic' (awe-inspiring sublimity that clashes with contemptuous disdain), and 'noble' (moral excellence or sub-monarchical peerage).",
+    "distractor_analysis": {
+      "regal": "正确。Merriam-Webster 在 royal 词条下的同义辨析中明确指出：“REGAL stresses the outward pomp, grandeur, or autocratic manner of a monarch: a regal disdain for the opinions of others（regal 强调君王般的外在排场、壮丽或专断独裁的举止姿态，如‘对他人意见表现出如帝王般的傲慢轻视’）”。Fowler's Modern English Usage 与 Garner's Modern English Usage 亦强调：royal 表示客观属于君主或王室的法定身份，而 regal 则专用于形容非君主个体展现出的宛如君王的威仪、排场或专制傲慢神态（regal disdain 属经典权威搭配）。句中首相作为民选官员，专横拒绝议会的法定质询，被指责执政犹如专制君主（absolute monarch），精准契合 regal 专指“专制、独断、宛如帝王般傲慢”的语义与搭配特质。",
+      "majestic": "错误。majestic（源自 majesty）的核心内涵在于“宏伟庄严的、令人肃然起敬的”（suggests an awe-inspiring quality of greatness; stately, dignified），多用于修饰壮丽的大自然景观、恢弘建筑、崇高艺术或肃穆高贵的气象。其词义极性为高度正面赞赏的美学与尊严特征，而 disdain（蔑视、轻慢）属于负面的排他性专横态度，二者在语义逻辑上产生严重冲突，英语中不存在 *majestic disdain 的搭配。",
+      "royal": "错误。royal 是客观事实与制度宪政层面的词汇，严格指代属于实际在位君主、王室血统或王权官方机构的事物（如 the royal family, royal assent, royal prerogative）。权威用法词典（Garner）强调：royal 表示客观存在的王室关联（actual connection with a monarch），不能用于形容非王室成员的个人傲慢神情或专断作风；且英语中无 *royal disdain 这一搭配，用于指代民选首相的行为亦造成制度语义上的范畴错乱。",
+      "noble": "错误。noble 的首要含义为“道德高尚的、品质卓越的”（moral superiority, magnanimous），用于形容首相无视民主质询、专权跋扈的行为会产生严重的逻辑自相矛盾；其次，当 noble 表示“贵族阶层的”社会阶级时，其指代的是封建体系中位于君主统治之下的臣属阶层（公、侯、伯、子、男等爵位），而句末锚点明确为“如专制君主（absolute monarch）般执政”，在政治权力等级与语义专属性上均与语境不符。"
+    },
+    "translation": "在整个内阁危机期间，首相以一种宛如专制君王般的傲慢轻蔑对待议会委员会，断然拒绝后者的法定质询，以至于后座议员指责他的执政风格犹如一位专制君主。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The syntactic co-text 'such ___ disdain, summarily dismissing their statutory inquiries, that backbenchers accused him of governing like an absolute monarch' specifically selects for an autocratic, monarch-like haughtiness (Merriam-Webster's explicit illustrative paradigm: 'a regal disdain for the opinions of others'). This sharply eliminates 'royal' (strictly factual/institutional kingship), 'majestic' (awe-inspiring sublimity that clashes with contemptuous disdain), and 'noble' (moral excellence or sub-monarchical peerage).",
+    "legacy_id": "tem8_b41_14"
+  },
+  {
+    "id": "tem8_pro_042",
+    "group_id": 490,
+    "group_name": "fallible, weak, frail, human",
+    "level": "TEM-8",
+    "target_word": "fallible",
+    "question": "Contrasting scientific skepticism with dogmatic theology, the philosopher insisted that while divine revelation claims infallibility, all mortal reasoning is inescapably ___, prone to perceptual illusion and logical error.",
+    "options": [
+      "fallible",
+      "weak",
+      "frail",
+      "human"
+    ],
+    "answer": "fallible",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中构建了明确的认识论对立锚点：“while divine revelation claims infallibility”（尽管神圣启示自诩绝对无谬），从逻辑与哲学语义上强制要求后半句主语“all mortal reasoning”（凡人的一切理性推理）填入其严格反义词；结合后文并列修饰语“prone to perceptual illusion and logical error”（极易产生知觉错觉与逻辑错误），唯一精准对应“在认知或判断上易犯错误、非绝对可靠”的词汇为 fallible。",
+    "distractor_analysis": {
+      "fallible": "正确。意为“易犯错的、不可靠的”，是认识论（epistemology）中与“infallible/infallibility”（绝对无谬的）直接对应的专有反义词，精准契合主语“mortal reasoning”在面对感知错觉和逻辑偏差时的认知局限。",
+      "weak": "错误。主要指物理力量不足、权力微弱或论证效力不足（如 weak argument）。此处作表语修饰主语“mortal reasoning”，语境指向人类理性“易犯错（error-prone）”的性质，而非“缺乏力量”，无法与前半句的 infallibility 构成正规对立。",
+      "frail": "错误。主要指身体脆弱、体质虚弱，或道德意志容易受诱惑动摇（如 frail health, frail flesh），属于生理或伦理维度的脆弱性，完全无法用于形容认知推理的失误属性。",
+      "human": "错误。为属性归类形容词（属于人类的）。虽然日常俗语有“to err is human”，但在严密的学术与哲学论述中，“reasoning is human”仅陈述其主体属性，无法与 infallibility 构成直接的认识论反义范畴，语体与语义均不匹配。"
+    },
+    "translation": "该哲学家在将科学怀疑论与教条神学进行对比时坚称，尽管神圣启示自诩绝对无谬，但凡人的一切理性推理都不可避免地存在易错性，极易产生知觉错觉和逻辑谬误。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中构建了明确的认识论对立锚点：“while divine revelation claims infallibility”（尽管神圣启示自诩绝对无谬），从逻辑与哲学语义上强制要求后半句主语“all mortal reasoning”（凡人的一切理性推理）填入其严格反义词；结合后文并列修饰语“prone to perceptual illusion and logical error”（极易产生知觉错觉与逻辑错误），唯一精准对应“在认知或判断上易犯错误、非绝对可靠”的词汇为 fallible。",
+    "legacy_id": "tem8_b48_19"
+  },
+  {
+    "id": "tem8_pro_043",
+    "group_id": 490,
+    "group_name": "fallible, weak, frail, human",
+    "level": "TEM-8",
+    "target_word": "fallible",
+    "question": "Appellate jurists caution that convictions should rarely hinge solely on eyewitness testimony, emphasizing that even the most vivid and confident recall is notoriously ___, prone to retroactive distortion and fictitious recollection.",
+    "options": [
+      "fallible",
+      "weak",
+      "frail",
+      "human"
+    ],
+    "answer": "fallible",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中让步状语“even the most vivid and confident recall”（即便最清晰、自信的回忆）与后文“prone to retroactive distortion and fictitious recollection”（极易受到事后扭曲与虚构干扰）构成核心语义锚点。这一搭配直接排除了表示记忆力减退、模糊的 weak（因为 vivid and confident 明确排除了 weak memory 的特征），锁定专门描述“即使主观极其确信，客观上依然极易产生错误与失真”的专业法律心理学术语 fallible。",
+    "distractor_analysis": {
+      "fallible": "正确。常用于认知心理学与法学证据学领域（如 fallible memory / fallible recall），“notoriously fallible”为经典学术搭配，专门描述记忆与判断“极易出错、可能完全不准确”，精准契合后文的记忆扭曲与虚假回忆。",
+      "weak": "错误。用于修饰记忆（weak memory）时特指“记性不好、遗忘、信息留存能力差”，与前半句限定的“vivid and confident recall”（生动且笃定的回忆）构成严重的语义逻辑冲突。",
+      "frail": "错误。多用于修饰物理结构的脆弱、器物的易碎性或高龄者的体弱多病，不可用于描述司法证据中回忆的准确度与认知可靠性。",
+      "human": "错误。在此处作表语形容 recall（记忆回溯），“recall is notoriously human”在学术英语中构成严重的搭配断裂（collocational rupture），既不合学术习惯，也无法准确传达“易出现事实性差错”的法学语义。"
+    },
+    "translation": "上诉法院法官警告称，刑事定罪绝不应完全依赖目击证人的证词，并强调指出，即便最清晰、最笃定的回忆也极其容易出错，极易受到事后信息干扰而产生失真和虚假重构。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中让步状语“even the most vivid and confident recall”（即便最清晰、自信的回忆）与后文“prone to retroactive distortion and fictitious recollection”（极易受到事后扭曲与虚构干扰）构成核心语义锚点。这一搭配直接排除了表示记忆力减退、模糊的 weak（因为 vivid and confident 明确排除了 weak memory 的特征），锁定专门描述“即使主观极其确信，客观上依然极易产生错误与失真”的专业法律心理学术语 fallible。",
+    "legacy_id": "tem8_b48_20"
+  },
+  {
+    "id": "tem8_pro_044",
+    "group_id": 492,
+    "group_name": "flagrant, rank, gross, glaring",
+    "level": "TEM-8",
+    "target_word": "flagrant",
+    "question": "The Security Council denounced the unprovoked military offensive as a ___ breach of the non-aggression pact, emphasizing that such brazen defiance of sovereign borders provoked justifiable international outrage.",
+    "options": [
+      "flagrant",
+      "rank",
+      "gross",
+      "glaring"
+    ],
+    "answer": "flagrant",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_GOVERNANCE_LAW",
+    "anchor_clue": "句中的 'brazen defiance'（明目张胆的蔑视/公然对抗）与 'provoked justifiable international outrage'（激起合乎情理的国际义愤）构成了决定性的语境锚点。根据韦氏词典辨析，flagrant 专指因行为极度厚颜无耻、公然违抗规约而激起公众强烈愤慨（conspicuously or offensively bad; so brazen or insolent that it excites public outrage），且 flagrant breach 为国际法与外交公文评述撕毁条约时的经典专属搭配。",
+    "distractor_analysis": {
+      "flagrant": "正确。flagrant 强调恶行或违规行为具有“明目张胆、毫不掩饰、悍然挑衅且令人义愤填膺”的性质。与 breach of the non-aggression pact（撕毁互不侵犯条约）搭配，严丝合缝地呼应后文的 brazen defiance（悍然蔑视）与 provoked justifiable international outrage（激起公愤）。",
+      "rank": "排除。rank 用作形容词时表示“十足的、彻底的、极端的”，通常作为强调词修饰具有负面属性的抽象名词或身份（如 rank hypocrisy 虚伪透顶、rank amateur 纯粹的外行、rank incompetence 极度无能），或指恶臭与杂草丛生，不能与 breach 搭配来指涉对国际公约的公然践踏。",
+      "gross": "排除。gross 侧重程度上的“严重的、极端的、过度的”或“粗暴的”，常见搭配如 gross negligence（重大过失）、gross misconduct（严重不端）或 gross human rights violations（严重侵犯人权，侧重规模与体量），但 gross 聚焦于缺乏审慎或后果的严重性，无法体现 flagrant 所独有的“brazen（公然挑衅、不知羞耻）”这一主观恶意与激起道义公愤的情感色彩；且国际法中描述践踏互不侵犯条约的公然行为通常固定使用 flagrant breach 或 material breach，不使用 gross breach。",
+      "glaring": "排除。glaring 核心含义为“刺眼的、极其显而易见的”，主要用于修饰在客观对比中一眼即可被察觉的明显纰漏、错误或悬殊（如 glaring error 明显错误、glaring discrepancy 刺眼的差距、glaring omission 显眼的疏漏），不能用于修饰蓄意、恶性的地缘政治条约违背行为。"
+    },
+    "translation": "联合国安理会谴责这起无端军事进攻是对《互不侵犯条约》的公然破坏，并强调这种对主权边界明目张胆的蔑视理所当然地激起了国际社会的强烈义愤。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的 'brazen defiance'（明目张胆的蔑视/公然对抗）与 'provoked justifiable international outrage'（激起合乎情理的国际义愤）构成了决定性的语境锚点。根据韦氏词典辨析，flagrant 专指因行为极度厚颜无耻、公然违抗规约而激起公众强烈愤慨（conspicuously or offensively bad; so brazen or insolent that it excites public outrage），且 flagrant breach 为国际法与外交公文评述撕毁条约时的经典专属搭配。",
+    "legacy_id": "tem8_b49_03"
+  },
+  {
+    "id": "tem8_pro_045",
+    "group_id": 498,
+    "group_name": "inglorious, black, shameful, disgraceful",
+    "level": "TEM-8",
+    "target_word": "inglorious",
+    "question": "Having led a blameless life devoted to provincial scholarship, the philosopher passed his final years in ___ obscurity, neither tainted by ethical controversy nor elevated to the renown enjoyed by his celebrated contemporaries.",
+    "options": [
+      "inglorious",
+      "black",
+      "shameful",
+      "disgraceful"
+    ],
+    "answer": "inglorious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中设置了双向严密的语义约束支架：前半句的'blameless life'（无可指摘的一生）与后半句的'neither tainted by ethical controversy'（未受任何道德争议沾染）确立了绝对的道德清白，在逻辑上直接否定并彻底排除了具有道德谴责、丑闻及恶劣定性的选项（shameful、disgraceful、black）；而后半句的'nor elevated to the renown enjoyed by his celebrated contemporaries'（亦未获得其著名同侪所享有的声望）则精准锁定了否定前缀in-加glorious构成的本义——即专指'缺乏名望与光彩的、默默无闻的、平凡的'（lacking fame or honor; humble, obscure，如Thomas Gray名句'mute inglorious Milton'），并与obscurity构成经典文学与学术固定搭配（inglorious obscurity）。",
+    "distractor_analysis": {
+      "inglorious": "正确。inglorious在《韦氏词典》与《牛津英语词典》中的第一核心义项即为'not glorious; lacking fame or honor; humble, obscure'（不出名的，缺乏显赫声望的，平凡的）。句中明确交代哲学家一生清白（blameless），既无道德污点（neither tainted by ethical controversy），又未享有同侪那般显赫的名望（nor elevated to the renown...），因此与obscurity搭配时，inglorious完美契合这种'毫无光彩与名望、平淡湮没于世'的中性偏书卷气语境，为唯一合乎严密逻辑的选项。",
+      "black": "错误。black用于比喻义时表示'险恶的、极其邪恶的、罪大恶极的'（wicked, evil, sinister，如black deeds），或者指物理上的'漆黑一片'。句中已明确指出学者一生清白无瑕（blameless life），填入black无论在道德修辞还是修饰人生晚景的语境中均造成严重的语义冲突与语用不当。",
+      "shameful": "错误。shameful强调'带来羞耻的、可耻的、应受道德谴责的'（bringing or deserving shame, morally culpable）。然而句首与句尾分别以'blameless life'与'neither tainted by ethical controversy'明确排除了任何道德过错或令人羞耻的败德行为，若形容其默默无闻的晚年为shameful，属于前后自相矛盾的逻辑语病。",
+      "disgraceful": "错误。disgraceful指'极其恶劣且遭致公众唾弃谴责的、丢脸的、可耻的'（shockingly unacceptable, causing public opprobrium）。句中的学者只是安于地方学术、未得显赫世名，并未做出任何践踏规范或招致身败名裂的恶行；将这种清白而未得盛名的人生状态斥为disgraceful，严重背离了该词的词汇语义底线。"
+    },
+    "translation": "这位哲学家度过了专注于地方学术且无可指摘的一生，晚年在默默无闻中度过；他既未沾染任何道德争议，也未获得其著名同侪所享有的显赫声望。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中设置了双向严密的语义约束支架：前半句的'blameless life'（无可指摘的一生）与后半句的'neither tainted by ethical controversy'（未受任何道德争议沾染）确立了绝对的道德清白，在逻辑上直接否定并彻底排除了具有道德谴责、丑闻及恶劣定性的选项（shameful、disgraceful、black）；而后半句的'nor elevated to the renown enjoyed by his celebrated contemporaries'（亦未获得其著名同侪所享有的声望）则精准锁定了否定前缀in-加glorious构成的本义——即专指'缺乏名望与光彩的、默默无闻的、平凡的'（lacking fame or honor; humble, obscure，如Thomas Gray名句'mute inglorious Milton'），并与obscurity构成经典文学与学术固定搭配（inglorious obscurity）。",
+    "legacy_id": "tem8_b49_15"
+  },
+  {
+    "id": "tem8_pro_046",
+    "group_id": 498,
+    "group_name": "inglorious, black, shameful, disgraceful",
+    "level": "TEM-8",
+    "target_word": "inglorious",
+    "question": "Rather than bowing out amidst the historical renown anticipated by his biographers, the philosopher executed a remarkably ___ retreat from public life, his stature undone by trivial squabbles that compromised dignity without involving moral turpitude.",
+    "options": [
+      "inglorious",
+      "black",
+      "shameful",
+      "disgraceful"
+    ],
+    "answer": "inglorious",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首以'Rather than bowing out amidst... historical renown'（未能如传记作者所预期的那样伴随着崇高的历史声望谢幕）确立了'荣誉/声望缺失'的核心反衬轴，配合固定搭配'an inglorious retreat'（不光彩的退隐/退却）；句末'without involving moral turpitude'（未涉及道德沦丧/道德罪过）是关键排除锚点，彻底排除了蕴含严重道德谴责与丑闻意味的black、shameful和disgraceful。",
+    "distractor_analysis": {
+      "inglorious": "正确。inglorious retreat是高级英语和史学论著中的高度典雅搭配，其核心语意在于指涉某种结局未能达到应有的光荣或崇高境界，反倒以丧失尊严、狼狈难堪（ignominious）的方式退场。该词精准呼应了'historical renown'的落空与'compromised dignity'（尊严受损），且完全符合'未触及道德败坏'的语义限定。",
+      "black": "错误。black常用于形容灾难性的、恶毒阴暗或极度绝望的事物，在此不仅无法与学者的退出（retreat）构成自然搭配，而且与句中'trivial squabbles'（琐碎争执）这种轻微程度的行为描写严重冲突，存在语域与语义强度的严重割裂。",
+      "shameful": "错误。shameful指因违反道德准则、失德败行而应受羞辱或感到愧疚的行为（bringing moral shame）；而句尾已明确阐明争执'without involving moral turpitude'（不涉及道德败坏），填入shameful会与其形成直接语义对抗。",
+      "disgraceful": "错误。disgraceful主要指令人愤慨、声名扫地的恶劣丑行，常招致强烈的外部制裁与公愤；本句定性为学者之间有损体面（compromised dignity）的琐屑纠纷，未涉及突破底线的公德失范，使用disgraceful会导致语意过载与语境失真。"
+    },
+    "translation": "这位哲学家未能如传记作者所预期的那样伴随着崇高的历史声望体面谢幕，反倒在公众视野中上演了一场极为不光彩的退隐；他的学术声望毁于琐碎的争端，这些争吵损害了他的尊严，尽管它们并未涉及任何道德败坏。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句首以'Rather than bowing out amidst... historical renown'（未能如传记作者所预期的那样伴随着崇高的历史声望谢幕）确立了'荣誉/声望缺失'的核心反衬轴，配合固定搭配'an inglorious retreat'（不光彩的退隐/退却）；句末'without involving moral turpitude'（未涉及道德沦丧/道德罪过）是关键排除锚点，彻底排除了蕴含严重道德谴责与丑闻意味的black、shameful和disgraceful。",
+    "legacy_id": "tem8_b49_16"
+  },
+  {
+    "id": "tem8_pro_047",
+    "group_id": 511,
+    "group_name": "righteous, good, just, sound",
+    "level": "TEM-8",
+    "target_word": "righteous",
+    "question": "Propelled by an unyielding surge of ___ indignation, the human rights delegates walked out of the summit, refusing to negotiate with representatives whose hands were stained by documented atrocities.",
+    "options": [
+      "righteous",
+      "good",
+      "just",
+      "sound"
+    ],
+    "answer": "righteous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The noun phrase 'surge of ___ indignation' requires the established socio-moral collocation 'righteous indignation' (义愤), denoting an impassioned, morally elevated outrage provoked by egregious ethical transgressions (documented atrocities), which cannot be replaced by the procedural/legal 'just', the generic 'good', or the rational/empirical 'sound'.",
+    "distractor_analysis": {
+      "righteous": "正确。righteous与indignation构成英语中极高频且不可替代的固定修辞搭配（righteous indignation，义愤），专指因目睹违背公序良俗或人道底线的恶行（atrocities）而激起的、自居道德正当立场的强烈愤慨。句中'unyielding surge'与'refusing to negotiate'的高度道德谴责语境与righteous的情感色彩严密契合。",
+      "good": "错误。good语义过于宽泛、通俗且侧重功利或良善性质，既不能与indignation构成符合高阶学术与新闻政论规范的惯用搭配（*good indignation不合习惯），也无法体现面对严重暴行时那种崇高严正的道德审判力度。",
+      "just": "错误。just侧重于司法程序、制度理据或权益分配上的“公正、合法、应得”（如just desert, just trial）；尽管在逻辑上这种愤怒是“有正当理由的”（justified），但名词indignation的核心习语修饰词是righteous而非just，且just倾向于冷峻理性的法理衡平，与句中激越的情感爆发存在语意间隙。",
+      "sound": "错误。sound侧重于理智上的“稳健的、合乎逻辑的”或生理/财务上的“健全的”（如sound reasoning, sound policy），修饰带有非理性与道德激情的indignation属于严重的范畴错配（category mistake）。"
+    },
+    "translation": "在遏制不住的义愤驱使下，人权代表们愤然退出了峰会，坚决拒绝与那些双手沾满确凿暴行罪证的代表进行谈判。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Decisive anchor clue: The noun phrase 'surge of ___ indignation' requires the established socio-moral collocation 'righteous indignation' (义愤), denoting an impassioned, morally elevated outrage provoked by egregious ethical transgressions (documented atrocities), which cannot be replaced by the procedural/legal 'just', the generic 'good', or the rational/empirical 'sound'.",
+    "legacy_id": "tem8_b51_01"
+  },
+  {
+    "id": "tem8_pro_048",
+    "group_id": 511,
+    "group_name": "righteous, good, just, sound",
+    "level": "TEM-8",
+    "target_word": "righteous",
+    "question": "Swept up in a wave of ___ zeal, the revolutionary tribunal disregarded the defendant's procedural rights, convinced that their sacred mandate to purge corruption transcended the mundane constraints of statutory law.",
+    "options": [
+      "righteous",
+      "good",
+      "just",
+      "sound"
+    ],
+    "answer": "righteous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The context describes an ideological fanatical fervor driven by a perceived 'sacred mandate' that overrides 'procedural rights' and 'statutory law'. 'Righteous zeal' specifically captures this connotation of moral absolutism and self-congratulatory rectitude, whereas 'just' directly contradicts the violation of procedural equity.",
+    "distractor_analysis": {
+      "righteous": "正确。righteous在此处体现其在学术批评中常带有的“自命不凡的道德崇高感/道德自负”（self-righteous / moralistic absolutism）内涵，与zeal构成固定表达（righteous zeal，道德狂热）。句中'sacred mandate'（神圣使命）与凌驾于'statutory law'（成文法）之上的叙述，精准呼应了righteous植根于超验道德律令、自命正义而践踏程序的政治哲学色彩。",
+      "good": "错误。good表意扁平温和，侧重良性或正面品质，与充满排他性与狂热攻击性的zeal搭配失当（*good zeal不合惯用法），无法体现革命法庭那种极端意识形态化的道德傲慢。",
+      "just": "错误。just在法学与政治思想中核心指代“程序正义、合法合规、平等待遇”；句中特别强调法庭“disregarded the defendant's procedural rights”（践踏被告的诉讼程序权利），在严密的法理逻辑上与just形成直接的语义反义冲突（semantic contradiction），法官绝不可能在践踏正当程序的同时保有just zeal。",
+      "sound": "错误。sound强调“合乎理性的、审慎稳妥的、经过严格论证的”（如sound judgment），与具有非理性、冲动和盲信特质的zeal（狂热）在语义属性上水火不容，构成语义互斥搭配。"
+    },
+    "translation": "革命法庭被一股自命正义的道德狂热所席卷，完全无视被告的正当程序权利，深信他们肃清腐败的神圣使命早已超越了成文世俗法律的平庸约束。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Decisive anchor clue: The context describes an ideological fanatical fervor driven by a perceived 'sacred mandate' that overrides 'procedural rights' and 'statutory law'. 'Righteous zeal' specifically captures this connotation of moral absolutism and self-congratulatory rectitude, whereas 'just' directly contradicts the violation of procedural equity.",
+    "legacy_id": "tem8_b51_02"
+  },
+  {
+    "id": "tem8_pro_049",
+    "group_id": 516,
+    "group_name": "stately, noble, imposing, impressive",
+    "level": "TEM-8",
+    "target_word": "stately",
+    "question": "Accompanied by the deep resonance of muffled drums, the state funeral cortege moved forward at a ___ pace, its deliberate, unhurried gravity impressing upon the assembled multitude the solemn, enduring majesty of the realm.",
+    "options": [
+      "stately",
+      "noble",
+      "imposing",
+      "impressive"
+    ],
+    "answer": "stately",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'pace' and aligns with 'deliberate, unhurried gravity' and 'majesty of the realm'; while 'impressive pace' denotes rapid speed, 'stately pace' specifically denotes an unhurried, dignified, and ceremonial tempo.",
+    "distractor_analysis": {
+      "stately": "正确。Merriam-Webster将stately定义为“slow, deliberate, and dignified”（从容不迫且威严庄重的），在搭配上与pace构成典范的高阶英语习语（at a stately pace），完美呼应后文的“deliberate, unhurried gravity”（从容不迫的肃穆庄严）与“enduring majesty”（经久不衰的王室威仪）。",
+      "noble": "错误。noble的核心内涵在于道德层面的崇高、品格的卓绝或血统门第的高贵（elevation of mind, character, or rank），属于伦理与阶层范畴词，无法用来界定行进节奏或物理步伐（pace），属于语义范畴误配。",
+      "imposing": "错误。imposing侧重指因体积庞大、气势威严或力量逼人而使人敬畏甚至生畏（striking with awe or apprehension），多修饰建筑体量或压倒性的人体外形（如an imposing figure/edifice），无法与表速度和节奏的pace形成有效搭配。",
+      "impressive": "错误。当修饰pace时，搭配“at an impressive pace”在现代英语中具有决定性反向内涵，专指“惊人的飞快速度或显著跃进”（如advancing at an impressive pace），这与句中后置定语明示的“deliberate, unhurried”（审慎从容、绝无仓促）产生直接的逻辑语义冲突；且该词语域过于宽泛，缺乏国仪大典所需的庄严威仪感。"
+    },
+    "translation": "伴随着低沉压抑的阵阵鼓点，国葬仪仗队以一种从容庄重的步伐缓缓前行，其不疾不徐的沉稳肃穆向在场聚集的民众彰显出国度永恒而威严的尊严。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "Collocates with 'pace' and aligns with 'deliberate, unhurried gravity' and 'majesty of the realm'; while 'impressive pace' denotes rapid speed, 'stately pace' specifically denotes an unhurried, dignified, and ceremonial tempo.",
+    "legacy_id": "tem8_b51_11"
+  },
+  {
+    "id": "tem8_pro_050",
+    "group_id": 541,
+    "group_name": "harebrained, mad, insane, foolish",
+    "level": "TEM-8",
+    "target_word": "harebrained",
+    "question": "The regulatory report concluded that the executive's proposal was born neither of clinical madness nor of ordinary foolishness, but was rather a characteristically ___ scheme, inherently flighty, scatterbrained, and devoid of pragmatic grounding.",
+    "options": [
+      "harebrained",
+      "mad",
+      "insane",
+      "foolish"
+    ],
+    "answer": "harebrained",
+    "primary_mechanism": "MECH_DISCURSIVE_POLARITY",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive discursive operator 'born neither of clinical madness nor of ordinary foolishness, but was rather...' algebraically eliminates 'mad', 'insane', and 'foolish' via explicit antithetical exclusion and root-clash, leaving 'harebrained' as the only word matching the post-modifying triad 'inherently flighty, scatterbrained, and devoid of pragmatic grounding'.",
+    "distractor_analysis": {
+      "harebrained": "正确。harebrained 专指“轻浮狂妄的、异想天开而鲁莽不切实际的”（尤指计划、主意），其词源来自发情期野兔的狂跳与轻浮，核心义项即为 flighty and scatterbrained。句中通过双重否定句式（neither... nor...）明确排除了病理性癫狂（madness）与普通愚钝（foolishness），精准锁定 harebrained 所独有的“轻浮跳脱、浮躁散漫（flighty, scatterbrained）”特质，完美呼应后置同位修饰语。",
+      "mad": "错误。句前已出现明确的反向排他锚点“neither of clinical madness”（既非源自临床意义上的癫狂），若在转折后的 but 结构中选用同根形容词 mad 修饰 scheme，将直接构成不可调和的逻辑与同根修辞自相矛盾（'neither of madness... but a mad scheme'）。",
+      "insane": "错误。insane 与前文的 clinical madness 在语义和病理学层面上完全重合（insane 即 mentally disordered / mad）。在论证逻辑上，既然报告已明确排除“并非源自临床癫狂”，便绝不能反身将其界定为 insane scheme，否则直接违背“neither A nor B, but C”的反驳-递进命题结构。",
+      "foolish": "错误。句中另一排他锚点为“nor of ordinary foolishness”（亦非寻常的愚蠢胡涂），若选用 foolish 会产生直接的词族语义抵触（'not of foolishness... but a foolish scheme'）。作者在此特意将该提案与普通的缺乏明智（ordinary foolishness）区分开来，强调其轻佻浮躁、异想天开的特殊性质，故排除 foolish。"
+    },
+    "translation": "监管报告得出结论称，该高管的提案既非源于临床意义上的精神失常，亦非出于寻常的愚钝糊涂，而是一个典型的轻浮妄动方案——本质上浮躁散漫、异想天开，且毫无务实基础。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The decisive discursive operator 'born neither of clinical madness nor of ordinary foolishness, but was rather...' algebraically eliminates 'mad', 'insane', and 'foolish' via explicit antithetical exclusion and root-clash, leaving 'harebrained' as the only word matching the post-modifying triad 'inherently flighty, scatterbrained, and devoid of pragmatic grounding'.",
+    "legacy_id": "tem8_b54_02"
+  },
+  {
+    "id": "tem8_pro_051",
+    "group_id": 588,
+    "group_name": "boo, hoot, hiss, snort",
+    "level": "TEM-8",
+    "target_word": "boo",
+    "question": "Rather than dissolving into derisive laughter or sibilant murmurs, the disillusioned delegation greeted the chairman's compromised resolution with a single, full-throated ___ of unified political condemnation.",
+    "options": [
+      "boo",
+      "hoot",
+      "hiss",
+      "snort"
+    ],
+    "answer": "boo",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步对比“Rather than dissolving into derisive laughter or sibilant murmurs”（而非演变为嘲弄的笑声或嘶嘶的低语）构成了决定性的排他锚点：它在语义上显式排除了表嘲弄讥笑的 hoot，在发音物理特征上排除了表齿音摩擦的 hiss；同时空后修饰语“full-throated ... of unified political condemnation”（放声高呼的/开喉而出的统一政治谴责）直接锁定了经由口腔喉部发出的公众谴责呼喊，彻底排除了鼻腔喷气的个体动作 snort。唯有 boo（喝倒彩/发出嘘声）在声学生成机制与集体政治谴责的内涵上完全吻合。",
+    "distractor_analysis": {
+      "boo": "正确。boo 作为名词，特指公众或集会人群发出的低沉、饱满的人声呼喊，用以表达直截了当的强烈不满或谴责（Merriam-Webster: a cry or noise made to express displeasure or contempt）。句中“full-throated”（发自喉咙深处的、放声的）与“unified political condemnation”（统一的政治谴责）精准契合了 boo 独具的群体性、声学开音节的人声谴责内涵。",
+      "hoot": "错误。hoot 作表示反对的声音时，核心内涵为“尖叫或嘲弄的笑声”（Merriam-Webster: a shout or laugh usually expressing scorn or disapproval）。句首的“Rather than dissolving into derisive laughter”已在语义逻辑上明确排除了带有嘲笑、戏谑成分的声音，选入会导致前后语意冲突。",
+      "hiss": "错误。hiss 严格指气流通过齿缝摩擦发出的锐利嘶嘶声（Merriam-Webster: a sharp sibilant sound made especially in expressing disapproval or contempt），带有恶毒、险恶的色彩。句中已明确指出“Rather than ... sibilant murmurs”，在语音属性上直接排除了属于 sibilant（齿音/摩擦音）的 hiss。",
+      "snort": "错误。snort 指强行由鼻孔喷出气流所形成的哼鼻息声（Merriam-Webster: an explosive sound made by forcing air through the nostrils），本质上是个体表达鄙夷、怀疑或傲慢的鼻腔动作，既无法与“full-throated”（饱满开喉的）搭配，也不能用以表达代表团整体发出的“unified political condemnation”。"
+    },
+    "translation": "面对主席妥协性的决议，幻灭的代表团并未演变为嘲弄的笑声或嘶嘶的窃语，而是齐声爆发出一声响亮而放肆的倒彩，表达了统一的政治谴责。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句首让步对比“Rather than dissolving into derisive laughter or sibilant murmurs”（而非演变为嘲弄的笑声或嘶嘶的低语）构成了决定性的排他锚点：它在语义上显式排除了表嘲弄讥笑的 hoot，在发音物理特征上排除了表齿音摩擦的 hiss；同时空后修饰语“full-throated ... of unified political condemnation”（放声高呼的/开喉而出的统一政治谴责）直接锁定了经由口腔喉部发出的公众谴责呼喊，彻底排除了鼻腔喷气的个体动作 snort。唯有 boo（喝倒彩/发出嘘声）在声学生成机制与集体政治谴责的内涵上完全吻合。",
+    "legacy_id": "tem8_b58_15"
+  },
+  {
+    "id": "tem8_pro_052",
+    "group_id": 588,
+    "group_name": "boo, hoot, hiss, snort",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Preoccupied with securing immediate geopolitical dominance, the autocratic regime did not care a ___ about multilateral environmental treaties, dismissing binding emissions targets as trivial impediments to industrial growth.",
+    "options": [
+      "boo",
+      "hoot",
+      "hiss",
+      "snort"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的否定评价结构“did not care a ___ about ...”（对……毫不在乎/丝毫不放在心上）构成了不可替代的句法与固定习语排他锚点。在该近义词群中，仅 hoot 具有次要衍生语境（secondary context），用作量名表示“微不足道的事物、一星半点（the smallest amount : DAMN）”，并特用于否定句习语“not care a hoot about / not give a hoot about”。其余三词（boo, hiss, snort）完全不具备该认知层面的引申义，代入后均构成严重的句法和搭配断裂（collocational rupture）。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 在次要衍生语境与认知评价场中表示极微小的数量或价值（Merriam-Webster: the smallest amount : DAMN — usually used in negative statements），固定习语为“not care a hoot about”，意为“对……丝毫不放在心上、彻底蔑视”。本句准确传达了专制政权对多边环保条约完全不屑一顾的认知态度。",
+      "boo": "错误。boo 仅表示喝倒彩或发出嘘声（或用于个别习语如 say boo to a goose），英语中根本不存在“not care a boo about”的句法搭配，代入后属于严重的搭配错误。",
+      "hiss": "错误。hiss 仅表示嘶嘶声，无法在否定结构中转义为“微量物”或“一星半点”，不能与“care a ... about”连用。",
+      "snort": "错误。snort 仅表示鼻息声或轻蔑的哼声，虽然同样包含轻蔑态度，但在句法层面上无法进入“care a ... about”的否定量度习语结构中，属于非法的搭配组合。"
+    },
+    "translation": "这家专制政权一心只图谋眼前的地缘政治霸权，对多边环境条约根本不在乎，将具有约束力的碳减排目标斥为阻碍工业增长的微末羁绊。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的否定评价结构“did not care a ___ about ...”（对……毫不在乎/丝毫不放在心上）构成了不可替代的句法与固定习语排他锚点。在该近义词群中，仅 hoot 具有次要衍生语境（secondary context），用作量名表示“微不足道的事物、一星半点（the smallest amount : DAMN）”，并特用于否定句习语“not care a hoot about / not give a hoot about”。其余三词（boo, hiss, snort）完全不具备该认知层面的引申义，代入后均构成严重的句法和搭配断裂（collocational rupture）。",
+    "legacy_id": "tem8_b58_16"
+  },
+  {
+    "id": "tem8_pro_053",
+    "group_id": 618,
+    "group_name": "gentility, chic, flair, grandeur",
+    "level": "TEM-8",
+    "target_word": "gentility",
+    "question": "Concealing their declining fortunes behind inherited silver and rigid etiquette, the impoverished patrician family maintained a veneer of refined ___, desperately clinging to the decorum of a bygone aristocratic era.",
+    "options": [
+      "gentility",
+      "chic",
+      "flair",
+      "grandeur"
+    ],
+    "answer": "gentility",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The definitive anchors 'patrician family' (贵族家庭), 'inherited silver and rigid etiquette' (祖传银器与严苛礼节), and 'decorum of a bygone aristocratic era' (逝去贵族时代的礼度) demand a noun denoting upper-class breeding, social decorum, and polite manners, especially when affected or decayed.",
+    "distractor_analysis": {
+      "gentility": "正确。该词核心内涵为“文雅举止、名门教养、贵族身份”（elegance by virtue of fineness of manner and expression; high social status）。在此句中，与“patrician family”（贵族世家）、“rigid etiquette”（严苛礼节）以及“decorum of a bygone aristocratic era”（逝去贵族时期的体统礼法）形成严密的语义呼应；“a veneer of refined gentility”（精雅门第体面的虚饰）生动刻画了破落贵族竭力维持门面修养的心理状态。",
+      "chic": "错误。指“时髦、别致优雅的穿着或现代潮流风格”（smart elegance and sophistication in dress or manner），属于现当代时尚语境，与句中由“inherited silver”与“obsolete decorum”所支撑的旧式封建门第修养在语域和内涵上严重脱节。",
+      "flair": "错误。侧重指“天赋、直觉才能”（a natural aptitude or discernment）或“独特的行事风采”，常与介词 for 搭配（如 a flair for rhetoric）；它无法指代依靠传统礼数所支撑的阶层“温文尔雅与门第体统”。",
+      "grandeur": "错误。意为“壮丽、宏伟、尊贵气魄”（magnificence; stateliness of scale），侧重指规模宏大或气象万千（多修饰皇室宫殿、山川胜景或历史伟业）。本句聚焦于家族的人际礼仪与教养仪态（decorum/etiquette），选用强调恢宏体量的 grandeur 会造成语义错位与搭配不当。"
+    },
+    "translation": "这个日渐落魄的贵族家庭以祖传银器与刻板礼数掩盖其衰败的家境，维持着一层温文优雅的体面表象，绝望地固守着已逝贵族时代的礼法规矩。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The definitive anchors 'patrician family' (贵族家庭), 'inherited silver and rigid etiquette' (祖传银器与严苛礼节), and 'decorum of a bygone aristocratic era' (逝去贵族时代的礼度) demand a noun denoting upper-class breeding, social decorum, and polite manners, especially when affected or decayed.",
+    "legacy_id": "tem8_b61_15"
+  },
+  {
+    "id": "tem8_pro_054",
+    "group_id": 618,
+    "group_name": "gentility, chic, flair, grandeur",
+    "level": "TEM-8",
+    "target_word": "chic",
+    "question": "Critiquing the superficiality of elite activism, the essayist condemned the trend of radical ___, wherein affluent socialites adopted the rhetoric of revolutionary struggle merely as a fashionable accessory to their privileged lifestyles.",
+    "options": [
+      "gentility",
+      "chic",
+      "flair",
+      "grandeur"
+    ],
+    "answer": "chic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'trend of radical ___' paired with the explanatory clause 'wherein affluent socialites adopted the rhetoric of revolutionary struggle merely as a fashionable accessory' provides an unequivocal definition of the established socio-cultural term 'radical chic'.",
+    "distractor_analysis": {
+      "chic": "正确。作不可数名词时表示“时髦、别致的风尚”（smart elegance and sophistication）。此处构成的“radical chic”（激进时髦/激进时尚）是英语思想文化与社会学评论中的著名专有名词（由作家汤姆·沃尔夫提出，各大主流词典均有收录），特指富裕上流阶层将左翼激进观点或底层革命修辞当作追求时髦、标榜前卫的身份附庸。后文“merely as a fashionable accessory”与“chic”的核心词义形成完美互文。",
+      "gentility": "错误。意为“贵族门第、上流阶层教养、虚饰的体面”。一方面，“gentility”强调传统阶级的礼数、教养与循规蹈矩，与“radical”（激进的）在语意逻辑上构成直接矛盾，不存在“radical gentility”这种搭配；另一方面，它无法表达“将革命言辞作为时髦配饰”的做派。",
+      "flair": "错误。意为“天资、敏锐的洞察力”或“独特的风度与活力”（panache, verve）。“flair”侧重个体的才华或行事风格，既不能与“radical”构成社会文化批判中的固定术语，也无法用于指代把政治抗争当作外在时髦潮流的虚浮做派。",
+      "grandeur": "错误。意为“宏伟、壮丽、显赫”，侧重规模的庞大或气势的庄严崇高。用于此处既在语意搭配上生硬荒谬（无“radical grandeur”之说），也完全偏离了句中揭露精英阶层将政治立场演变为“时髦配饰”（fashionable accessory）的批判语境。"
+    },
+    "translation": "在批判精英阶层政治行动主义的虚伪性时，这位随笔作家痛斥了‘激进时髦’的流行趋势——富裕的名流贵俗仅仅将革命斗争的修辞作为点缀其特权生活的时尚配饰。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The phrase 'trend of radical ___' paired with the explanatory clause 'wherein affluent socialites adopted the rhetoric of revolutionary struggle merely as a fashionable accessory' provides an unequivocal definition of the established socio-cultural term 'radical chic'.",
+    "legacy_id": "tem8_b61_16"
+  },
+  {
+    "id": "tem8_pro_055",
+    "group_id": 634,
+    "group_name": "mink, ferret, badger, glutton",
+    "level": "TEM-8",
+    "target_word": "mink",
+    "question": "Escaped from commercial pelt farms, the American ___ has established pervasive riparian populations across European waterways, where its agile, semi-aquatic predatory habits exert catastrophic pressure on vulnerable water vole colonies.",
+    "options": [
+      "mink",
+      "ferret",
+      "badger",
+      "glutton"
+    ],
+    "answer": "mink",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中的'commercial pelt farms'（商业毛皮养殖场）、'riparian populations across European waterways'（欧洲水系的滨水种群）以及'semi-aquatic predatory habits'（半水栖捕食习性）构成了决定性排他锚点。在所有选项中，唯有'mink'（美洲水貂，American mink）符合因皮毛养殖逃逸、具有半水生习性并在欧洲滨水生态中重创水䶄（water vole）的特定历史与生态学内涵。",
+    "distractor_analysis": {
+      "mink": "正确。美洲水貂（American mink）原产于北美，20世纪因毛皮业（pelt farms）引入欧洲并大量逃逸野化。句中的'semi-aquatic'（半水栖）、'riparian'（滨水环境）以及捕食'water vole'（水䶄）的生态特征与mink的物种专属性完全吻合。",
+      "ferret": "错误。雪貂（ferret）为完全陆生或洞穴猎捕哺乳动物，不具备'semi-aquatic'（半水栖）的解剖与行为特征，更未因毛皮养殖场逃逸而在欧洲水系建立大规模半水生入侵种群。",
+      "badger": "错误。獾（badger）为典型的地下挖掘与陆栖穴居动物（fossorial），其居所为地下獾棚（sett），与句中滨水环境（riparian）及半水栖捕食行为（semi-aquatic predatory habits）存在根本性的生态位冲突。",
+      "glutton": "错误。貂熊/狼獾（glutton，即wolverine）主要栖息于北方针叶林及高寒苔原地带，为体型壮硕的陆生食腐与捕食动物，非毛皮养殖逃逸造成欧洲水系生态灾难的小型半水生鼬科动物。"
+    },
+    "translation": "从商业毛皮养殖场逃逸的美洲水貂已在欧洲水系建立了广泛的滨水种群，其敏捷的半水栖捕食习性对脆弱的水䶄种群造成了灾难性的生存压力。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中的'commercial pelt farms'（商业毛皮养殖场）、'riparian populations across European waterways'（欧洲水系的滨水种群）以及'semi-aquatic predatory habits'（半水栖捕食习性）构成了决定性排他锚点。在所有选项中，唯有'mink'（美洲水貂，American mink）符合因皮毛养殖逃逸、具有半水生习性并在欧洲滨水生态中重创水䶄（water vole）的特定历史与生态学内涵。",
+    "legacy_id": "tem8_b63_07"
+  },
+  {
+    "id": "tem8_pro_056",
+    "group_id": 634,
+    "group_name": "mink, ferret, badger, glutton",
+    "level": "TEM-8",
+    "target_word": "ferret",
+    "question": "Critically dependent on subterranean rodent colonies for sustenance and shelter, the endangered black-footed ___ suffered catastrophic population collapses across the Great Plains following widespread agricultural eradication of native prairie dog ecosystems.",
+    "options": [
+      "mink",
+      "ferret",
+      "badger",
+      "glutton"
+    ],
+    "answer": "ferret",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "专有名词前缀'black-footed'与栖息地背景'Great Plains'（大平原）、生态依赖'prairie dog ecosystems'（草原犬鼠/土拨鼠生态系统）构成绝对封闭的专有搭配。北美著名的极度濒危物种即为'black-footed ferret'（黑足雪貂），其余三个选项在生物分类学和生态历史上均无此固定称谓与依存关系。",
+    "distractor_analysis": {
+      "ferret": "正确。黑足雪貂（black-footed ferret，学名 Mustela nigripes）是北美大平原特有的极度濒危物种，其食性与栖居极度依赖草原犬鼠（prairie dog）群落，'black-footed ferret'为此专有物种的法定唯一名称。",
+      "mink": "错误。水貂（mink）为半水栖动物，主要活动于河流、沼泽湿地，分类学上不存在所谓的'black-footed mink'，且不可能高度依附于大平原干旱草原的土拨鼠洞穴体系。",
+      "badger": "错误。美洲獾（American badger）虽然栖息于大平原并捕食土拨鼠，但它拥有极强的自主挖掘能力，不依赖其提供庇护所；更重要的是，生物学界并无'black-footed badger'这一物种称谓。",
+      "glutton": "错误。貂熊（glutton）主要分布于极北针叶林与冻原荒野，分类学上既无'black-footed glutton'这一物种，其生存史也与北美大平原的农业开发及草原犬鼠生态系统毫无交集。"
+    },
+    "translation": "极度依赖地下啮齿动物群落提供食物与庇护所的濒危物种黑足雪貂，在北美大平原原生草原犬鼠生态系统遭遇广泛的农业灭杀后，经历了灾难性的种群崩溃。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "专有名词前缀'black-footed'与栖息地背景'Great Plains'（大平原）、生态依赖'prairie dog ecosystems'（草原犬鼠/土拨鼠生态系统）构成绝对封闭的专有搭配。北美著名的极度濒危物种即为'black-footed ferret'（黑足雪貂），其余三个选项在生物分类学和生态历史上均无此固定称谓与依存关系。",
+    "legacy_id": "tem8_b63_08"
+  },
+  {
+    "id": "tem8_pro_057",
+    "group_id": 659,
+    "group_name": "rosette, frill, ruffle, frontal",
+    "level": "TEM-8",
+    "target_word": "rosette",
+    "question": "Rather than viewing the commendation as ceremonial vanity, the chancellor accepted the silk ___ pinned to his lapel as an official badge of distinction, conferred for groundbreaking institutional research.",
+    "options": [
+      "rosette",
+      "frill",
+      "ruffle",
+      "frontal"
+    ],
+    "answer": "rosette",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "pinned to his lapel as an official badge of distinction, conferred for groundbreaking institutional research (决定性排他锚点：与作为佩戴在翻领上、代表官方嘉奖与荣誉的玫瑰结勋饰/徽章严格吻合，排他性极强)",
+    "distractor_analysis": {
+      "rosette": "正确。根据韦氏词典（Merriam-Webster），rosette 指 'an ornament or pattern resembling a rose that is worn as a badge of office or as recognition of having won an honor'（作为官职徽章或所获荣誉标志的玫瑰形丝带结/徽章）。句中由 'silk' 修饰，并有后置定语 'pinned to his lapel as an official badge of distinction'（佩戴在其翻领上作为官方卓越荣誉徽章），在构词内涵、实体语境与学术嘉奖语域中完全契合。",
+      "frill": "错误。frill 主要指衣物边缘褶皱花边，引申为‘不必要的修饰、奢华装饰物’（多用复数或与 no-frills 搭配）。它无法作为具象化、佩戴在翻领上代表特定荣誉称号的徽章（badge of distinction），语义与搭配严重断裂。",
+      "ruffle": "错误。ruffle 指（衣服袖口或领口的）连续褶皱花边，或引申为微波、轻微烦扰以及军鼓的隆隆声。它是一整条褶边饰物，无法独立作为一枚别在西装翻领上以示学术表彰的纪念徽章。",
+      "frontal": "错误。frontal 作名词时指祭坛前帘（an ornamental hanging for the front of an altar）或解剖学上的额骨。无论在词义、尺寸还是功能上，都根本无法用于‘别在翻领上作为荣誉徽章’的语境。"
+    },
+    "translation": "校长并未将这番嘉奖视作纯粹的仪式性虚荣，而是接受了别在其翻领上的丝质玫瑰结徽章；这是因开展开创性学术研究而授予他的官方杰出荣誉。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "pinned to his lapel as an official badge of distinction, conferred for groundbreaking institutional research (决定性排他锚点：与作为佩戴在翻领上、代表官方嘉奖与荣誉的玫瑰结勋饰/徽章严格吻合，排他性极强)",
+    "legacy_id": "tem8_b65_17"
+  },
+  {
+    "id": "tem8_pro_058",
+    "group_id": 659,
+    "group_name": "rosette, frill, ruffle, frontal",
+    "level": "TEM-8",
+    "target_word": "frill",
+    "question": "The budget director insisted that subsidized campus childcare was not an extravagant ___, but an essential service required to ensure equitable retention rates among junior research fellows.",
+    "options": [
+      "rosette",
+      "frill",
+      "ruffle",
+      "frontal"
+    ],
+    "answer": "frill",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "not an extravagant ___, but an essential service (决定性排他锚点：通过 not... but... 结构与 essential service 形成绝对语义对立，特指‘可有可无的奢侈品/非必需附加项’)",
+    "distractor_analysis": {
+      "rosette": "错误。rosette 指玫瑰形花饰或荣誉勋章，无‘非必要之奢侈项目’这一抽象比喻义，不能与 'essential service'（刚需基本服务）构成认知逻辑上的对比对立。",
+      "frill": "正确。根据韦氏词典，frill 的核心引申内涵为 'something that is desirable but not a necessity : LUXURY'（非必需的昂贵修饰、多余的享受或附加品）。句中 'not an extravagant frill, but an essential service' 构成高度纯正的高级英语对比逻辑链，精准表达校内托育补贴并非‘铺张浪费的可有可无之物’，而是不可或缺的基本保障。",
+      "ruffle": "错误。ruffle 在服装语境中指褶裥，在心理/认知语境中指‘心神不宁、涟漪’，没有任何词义引申可以表示‘不必要的附加奢侈品’，在此处逻辑上无法立足。",
+      "frontal": "错误。frontal 作名词指祭坛前帷缦或额骨，不能引申为‘奢侈额外之物’，代入句中造成语法与语义的双重荒谬。"
+    },
+    "translation": "预算主管坚称，校内托育补贴绝非铺张浪费的多余点缀，而是一项旨在保障青年研究人员公平留任率所不可或缺的基本服务。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "not an extravagant ___, but an essential service (决定性排他锚点：通过 not... but... 结构与 essential service 形成绝对语义对立，特指‘可有可无的奢侈品/非必需附加项’)",
+    "legacy_id": "tem8_b65_18"
+  },
+  {
+    "id": "tem8_pro_059",
+    "group_id": 691,
+    "group_name": "abase, affront, sting, humble",
+    "level": "TEM-8",
+    "target_word": "abase",
+    "question": "Far from displaying genuine penitence or modest contrition, the disgraced oligarch chose to ___ himself through groveling sycophancy, trading away his remaining dignity solely to placate the authoritarian regime.",
+    "options": [
+      "abase",
+      "affront",
+      "sting",
+      "humble"
+    ],
+    "answer": "abase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句首转折对比状语'Far from displaying genuine penitence or modest contrition'与后文'through groveling sycophancy, trading away his remaining dignity'形成决定性语义锚点。反身结构搭配下，虽然humble亦可接oneself，但humble侧重于抑制骄傲、出于谦逊或道德自省而放低姿态（与前句contrition同向，故被Far from否定）；唯有abase精准表达为了迎合强权而进行奴颜婢膝的自我贬损与体统丧失（suggests a loss of dignity, prestige, or self-respect by groveling）。affront与sting在及物反身句法及语境语义上均彻底不适配。",
+    "distractor_analysis": {
+      "abase": "正确。Merriam-Webster明确指出，abase特指因卑屈迎合或奴才举动而使自身地位、名誉或尊严扫地（suggests a loss of dignity, prestige, or self-respect, often by groveling or submissive behavior）。本题中'abase himself'与后文的'groveling sycophancy'（卑躬屈膝的逢迎）以及'trading away his remaining dignity'（彻底出卖最后的尊严）形成严密的语义呼应，语体色彩高度吻合。",
+      "affront": "错误。affront意为'当面侮辱、公开冒犯'（to insult to one's face; cause offense to），为及物动词，通常接他人或尊严为宾语（如affront sb. / affront one's dignity），在英语中极少作反身动词（affront oneself）；且其'冒犯/冒渎'之意与句中'屈膝讨好以求自保'的逻辑方向南辕北辙。",
+      "sting": "错误。sting本义为'刺伤、叮蜇'，引申为'使感到刺痛、激怒或激起痛苦反应'，既不存在'sting oneself'表示自我贬低的惯用法，在语义逻辑上也完全无法与'through groveling sycophancy'相衔接。",
+      "humble": "错误。humble虽常用于反身结构（humble oneself），但Merriam-Webster同义辨析着重指出，humble侧重于抑制傲慢、展现谦逊，通常作为一种道德美德或得体认错的表现（suggests a lowering in pride or arrogance, often as an act of modesty or virtue）。句首已用'Far from displaying genuine penitence or modest contrition'明确否定了正向的'悔过与克制傲气'，若填入humble将导致句子前后逻辑矛盾；只有代表无底线自贬自践的abase符合语境贬义内涵。"
+    },
+    "translation": "这位失势的寡头绝非在展现真诚的忏悔或适度的悔悟，而是选择通过卑躬屈膝的谄媚来极力自我贬损，纯粹为了安抚威权政权而将自己仅存的尊严彻底弃置不顾。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句首转折对比状语'Far from displaying genuine penitence or modest contrition'与后文'through groveling sycophancy, trading away his remaining dignity'形成决定性语义锚点。反身结构搭配下，虽然humble亦可接oneself，但humble侧重于抑制骄傲、出于谦逊或道德自省而放低姿态（与前句contrition同向，故被Far from否定）；唯有abase精准表达为了迎合强权而进行奴颜婢膝的自我贬损与体统丧失（suggests a loss of dignity, prestige, or self-respect by groveling）。affront与sting在及物反身句法及语境语义上均彻底不适配。",
+    "legacy_id": "tem8_b69_01"
+  },
+  {
+    "id": "tem8_pro_060",
+    "group_id": 691,
+    "group_name": "abase, affront, sting, humble",
+    "level": "TEM-8",
+    "target_word": "affront",
+    "question": "The visiting delegate's brazenly condescending remarks threatened to ___ the delicate sensibilities of the host government, nearly derailing the bilateral summit before formal negotiations had even commenced.",
+    "options": [
+      "abase",
+      "affront",
+      "sting",
+      "humble"
+    ],
+    "answer": "affront",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "宾语 the delicate sensibilities 构成了严格的词汇搭配与语义选择限制；MW 词典权威释义明确标注 affront 意为 'to offend the modesty or values of'，并直接给出典范搭配 <affronted their sensibilities>（冒犯敏感神经/价值观）。",
+    "distractor_analysis": {
+      "abase": "错误。abase 的支配对象必须是“具有社会地位、尊严或声望的个体或团体自身”（如 abase oneself / abase a proud prince），意在降低身份地位，在动宾搭配上绝不能接抽象的情感反应或价值尺度名词 *abase the sensibilities。",
+      "affront": "正确。affront 表示“公然侮辱，公然冒犯”，韦氏词典核心义项为“to offend the modesty or values of”，其最经典的高阶学术与政论搭配即为 affront one's sensibilities（冒犯某人的情感/敏感神经），与句中 brazenly condescending remarks（傲慢居高临下的言论）形成的冒犯性语境完全吻合。",
+      "sting": "错误。sting 表示“刺伤，激怒”，通常以具体的被伤害者为直接宾语（如 sting the minister with criticism），或搭配 pride/conscience（刺痛良心/傲气），但与 the delicate sensibilities 搭配极不地道，且 sting 侧重于瞬时的刺痛感，无法体现外交语境中那种公然、蓄意挑战对方尊严与禁忌的冒犯性（deliberate, insolent offense）。",
+      "humble": "错误。humble 作为及物动词意为“击溃……的傲气，使……俯首称臣”，宾语通常是强大的对手、狂妄的帝国或某人的 pride，不能与 the sensibilities 搭配（*humble the sensibilities 属于语用搭配断裂）。"
+    },
+    "translation": "这位来访代表公然居高临下的傲慢言论极有可能冒犯东道国政府敏感的神经，在正式谈判尚未开启之际就险些使这场双边峰会彻底脱轨。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "宾语 the delicate sensibilities 构成了严格的词汇搭配与语义选择限制；MW 词典权威释义明确标注 affront 意为 'to offend the modesty or values of'，并直接给出典范搭配 <affronted their sensibilities>（冒犯敏感神经/价值观）。",
+    "legacy_id": "tem8_b69_02"
+  },
+  {
+    "id": "tem8_pro_061",
+    "group_id": 715,
+    "group_name": "appraise, value, assess, measure",
+    "level": "TEM-8",
+    "target_word": "appraise",
+    "question": "While fiscal authorities sought to assess statutory taxes on the estate, an independent connoisseur was summoned to ___ the rare illuminated manuscripts, evaluating their provenance and preservation to determine an auction reserve.",
+    "options": [
+      "appraise",
+      "value",
+      "assess",
+      "measure"
+    ],
+    "answer": "appraise",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CULTURE",
+    "anchor_clue": "句中前半句让步从句已明确使用了动词'assess'（'sought to assess statutory taxes'），修辞与平行结构直接排除了后半句再用assess的拙劣冗余；同时后半句由'independent connoisseur'（独立鉴赏家/行家）担任施动主语，宾语为'rare illuminated manuscripts'（珍稀泥金手抄本），后接'evaluating their provenance and preservation to determine an auction reserve'。appraise在此具有无可争议的行业专属性：指由行家对艺术品/文物的真伪、品相及市场估值进行权威鉴识与评定（MW: to give an expert judgment of the value or merit of）；而value无法体现行家对文物真伪品相的专业鉴识过程；measure仅指用尺子测量物理尺寸，荒谬不通。",
+    "distractor_analysis": {
+      "appraise": "【正确】及物动词，韦氏词典核心释义为'to give an expert judgment of the value or merit of'（尤指由专业行家或评估师对艺术品、藏品的价值与优劣进行权威评估与鉴识）。句中行家（connoisseur）对珍稀手抄本的鉴赏评估与拍卖底价确定，完美契合appraise的典雅文体与专业内涵。",
+      "value": "【错误】及物动词，侧重单纯从金钱数值上标定身价或珍惜崇尚（to prize or estimate the monetary worth of），缺乏appraise所独具的专业行家对艺术品历史渊源（provenance）、品相（preservation）及文献价值进行全面审鉴的鉴赏性内涵。",
+      "assess": "【错误】及物动词，句首让步状语中税务机关依法征税已使用了'assess statutory taxes'，若在此处再次使用assess，既违背了英语句式多样性，且assess主要针对税费、风险、损失或抽象资质，对艺术古籍由鉴定家所作的市场定损估价并不采用assess。",
+      "measure": "【错误】及物动词，指物理尺寸、长度或数量的度量（to ascertain the dimensions, quantity, or capacity of），若用于古籍手抄本仅表示拿尺子量尺寸，与后文考评历史源流和拍卖估值毫无逻辑关联。"
+    },
+    "translation": "在税务机关试图对该庄园依法核定征收法定税款之际，一位独立鉴赏行家被特聘前来对那些珍稀的泥金手抄本进行专业评估与鉴识，全面审评其历史渊源与保存状态，以确定合理的拍卖保底价。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "句中前半句让步从句已明确使用了动词'assess'（'sought to assess statutory taxes'），修辞与平行结构直接排除了后半句再用assess的拙劣冗余；同时后半句由'independent connoisseur'（独立鉴赏家/行家）担任施动主语，宾语为'rare illuminated manuscripts'（珍稀泥金手抄本），后接'evaluating their provenance and preservation to determine an auction reserve'。appraise在此具有无可争议的行业专属性：指由行家对艺术品/文物的真伪、品相及市场估值进行权威鉴识与评定（MW: to give an expert judgment of the value or merit of）；而value无法体现行家对文物真伪品相的专业鉴识过程；measure仅指用尺子测量物理尺寸，荒谬不通。",
+    "legacy_id": "tem8_b71_09"
+  },
+  {
+    "id": "tem8_pro_062",
+    "group_id": 715,
+    "group_name": "appraise, value, assess, measure",
+    "level": "TEM-8",
+    "target_word": "appraise",
+    "question": "Before opening formal diplomatic negotiations, the seasoned ambassador paused to ___ his counterpart with a detached, practiced eye, scrutinizing subtle shifts in posture and demeanor rather than relying on biographical dossiers.",
+    "options": [
+      "appraise",
+      "value",
+      "assess",
+      "measure"
+    ],
+    "answer": "appraise",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "本题的核心排他锚点为“接人物宾语 + 视觉审视介词短语及伴随分词状语”（___ his counterpart with a detached, practiced eye, scrutinizing subtle shifts in posture and demeanor）。根据《韦氏词典》(Merriam-Webster) 与《牛津英语词典》(OED)，appraise 在以人物作为直接及物宾语时具有高度特异的专门义项：“to judge tentatively or critically: appraising his opponent”；“to form an opinion of, size up (a person); to look critically at”。该义项专指以专业、审视的目光打量对手的外貌、气场与体态举止，与“with a detached, practiced eye”构成严密的搭配与语义闭环，同时完全规避了在资产估值语境下英美用法中 appraise 与 value 的地域性同义混淆。",
+    "distractor_analysis": {
+      "appraise": "【正确】及物动词。在此处特指“（以审视、批判或专业的目光）打量、端详、估量（某人）”。《韦氏词典》收录其经典义项即为：to judge tentatively or critically: *appraising his opponent*；《牛津英语词典》亦列有“look critically at a person with a detached/experienced eye”的典型用法。句中大使以老练冷静的目光打量对手的体态举止，无论在句法搭配还是语义色彩上均完全吻合。",
+      "value": "【错误】及物动词。当 value 直接接单个人作为及物宾语（value someone）时，其语义严格限定为“珍视、重视、看重”（to prize or esteem highly），如 *value a trusted colleague*。在严肃外交博弈的对抗性语境中，大使绝非“珍爱、重视”对手；且 value 在英语中属于态度/情感评价动词，不能与表示视觉审视方式的介词短语（with a practiced eye）连用，存在明显的逻辑与搭配冲突。",
+      "assess": "【错误】及物动词。根据《牛津高级英汉双解词典》与《加纳现代美语用法》，assess 的核心语义范畴为行政、税收或学术层面的“评定、核算、评估”（如 assess risks, damage, competence, taxes），其评价对象为抽象的性质、损失、能力或宏观局势。assess 不能以具体的人为直接宾语来表示用目光“当面端详、打量某人的仪态举止”（即不能表示 visual sizing-up），与“with a detached, practiced eye”产生语义范畴错配。",
+      "measure": "【错误】及物动词。measure 直接及物接人时，字面含义仅为通过尺码测量身体物理尺寸（如裁缝量体 measure a client）。英语中若要隐喻性地表示“掂量、打量某人的底细与气量”，必须借助固定习语 *take the measure of someone* 或复合动词短语 *measure someone up*；单个动词 measure 无法独立承载该隐喻义，填入句中会导致荒谬的“测量对方身体几何尺寸”的歧义，因而不成立。"
+    },
+    "translation": "在正式开启外交谈判之前，这位经验丰富的大使停顿片刻，以冷静而老练的目光审视着他的谈判对手，仔细揣摩其肢体姿态与神情的微妙变化，而非仅仅依赖生平卷宗上的资料。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "本题的核心排他锚点为“接人物宾语 + 视觉审视介词短语及伴随分词状语”（___ his counterpart with a detached, practiced eye, scrutinizing subtle shifts in posture and demeanor）。根据《韦氏词典》(Merriam-Webster) 与《牛津英语词典》(OED)，appraise 在以人物作为直接及物宾语时具有高度特异的专门义项：“to judge tentatively or critically: appraising his opponent”；“to form an opinion of, size up (a person); to look critically at”。该义项专指以专业、审视的目光打量对手的外貌、气场与体态举止，与“with a detached, practiced eye”构成严密的搭配与语义闭环，同时完全规避了在资产估值语境下英美用法中 appraise 与 value 的地域性同义混淆。",
+    "legacy_id": "tem8_b71_10"
+  },
+  {
+    "id": "tem8_pro_063",
+    "group_id": 739,
+    "group_name": "brainwash, badger, seduce, cajole",
+    "level": "TEM-8",
+    "target_word": "brainwash",
+    "question": "Through pervasive state surveillance, systematic censorship, and relentless ideological conditioning, the totalitarian regime sought to ___ the populace into unquestioning submission, effectively eradicating any capacity for dissent.",
+    "options": [
+      "brainwash",
+      "badger",
+      "seduce",
+      "cajole"
+    ],
+    "answer": "brainwash",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchors are 'relentless ideological conditioning' and 'eradicating any capacity for dissent', which describe a systematic, coercive overhaul of human cognition and beliefs rather than interpersonal nagging or sweet-talking.",
+    "distractor_analysis": {
+      "brainwash": "正确。指通过高压手段、心理操纵或系统性意识形态灌输彻底改变他人的思想与信仰（persuade completely, often through coercion）。句中‘systematic censorship’（系统性审查）、‘relentless ideological conditioning’（持续的意识形态灌输）与‘eradicating any capacity for dissent’（根除异见能力）提供了决定性的认知重构与高压政治语境，与 brainwash 的核心语义和褒贬内涵完全契合。",
+      "badger": "错误。指‘纠缠、烦扰、反复骚扰’（to harass or pester persistently），侧重人际交往或具体事务中反复施加微观骚扰以达成具体要求，无法用于形容极权政权通过意识形态机制对公众进行彻底的思想改造与认知重塑。",
+      "seduce": "错误。指‘诱惑、引诱’（to entice or attract by temptation/pleasure），强调以利益、愉悦或虚妄的前景进行利诱与心智迷惑，与本句强调的国家机器强制性高压审查与思想清洗（coercion/conditioning）形成语义逻辑背离。",
+      "cajole": "错误。指‘（用甜言蜜语、奉承哄骗等方式）劝诱’（to persuade by flattery or gentle pleading），其语用色彩为温和的哄劝与讨好，与极权体制自上而下摧毁独立思考能力的系统性压迫语境完全不符。"
+    },
+    "translation": "通过无处不在的国家监控、系统性审查以及持续不断的意识形态灌输，该极权政权企图对民众进行彻底的思想洗脑以使其顺从，从而彻底扼杀任何产生异见的能力。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The decisive anchors are 'relentless ideological conditioning' and 'eradicating any capacity for dissent', which describe a systematic, coercive overhaul of human cognition and beliefs rather than interpersonal nagging or sweet-talking.",
+    "legacy_id": "tem8_b73_17"
+  },
+  {
+    "id": "tem8_pro_064",
+    "group_id": 739,
+    "group_name": "brainwash, badger, seduce, cajole",
+    "level": "TEM-8",
+    "target_word": "badger",
+    "question": "During the grueling parliamentary inquiry, investigative journalists continued to ___ the reluctant spokesperson with intrusive queries until she finally disclosed the classified communications regarding the procurement scandal.",
+    "options": [
+      "brainwash",
+      "badger",
+      "seduce",
+      "cajole"
+    ],
+    "answer": "badger",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the syntactic and semantic collocation '___ the reluctant spokesperson with intrusive queries', which denotes persistent, abrasive harassment and pressing for information, uniquely satisfied by 'badger'.",
+    "distractor_analysis": {
+      "badger": "正确。指‘反复纠缠、纠缠不休地质问或骚扰’（to pester or harass persistently with questions/demands）。‘badger somebody with questions/queries’是典型高频搭配，精准对应语境中调查记者在议会质询期间对发言人步步紧逼、不断盘问直至其被迫披露机密信息的逼仄情境。",
+      "brainwash": "错误。指‘洗脑、强制灌输思想’，其核心目的是从根本上重置受众的价值观和认知框架，而不是通过咄咄逼人的连续盘问迫使对方即刻吐露事实或机密文件。",
+      "seduce": "错误。指‘诱导、诱惑’，侧重利用魅力或诱饵使人落入陷阱，其情感色彩为迎合与吸引，与句中带有攻击性、令人烦躁的‘intrusive queries’（侵入性质问）在语义色彩上直接冲突。",
+      "cajole": "错误。指‘用好话哄骗、曲意劝诱’（to wheedle or persuade through flattery），通常伴随虚假承诺或讨好态度，若接介词短语常与 with flattery/sweet words 连用，与充满敌意和施压意味的‘with intrusive queries’构成修辞与语义上的矛盾。"
+    },
+    "translation": "在艰难的议会质询期间，调查记者们不断用侵入性的提问反复盘问那位不情愿的发言人，直到她最终披露了有关采购丑闻的机密通讯。",
+    "mechanism": "MECH_CONNOTATION",
+    "taxonomy_notes": "The decisive anchor is the syntactic and semantic collocation '___ the reluctant spokesperson with intrusive queries', which denotes persistent, abrasive harassment and pressing for information, uniquely satisfied by 'badger'.",
+    "legacy_id": "tem8_b73_18"
   }
 ]

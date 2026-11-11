@@ -14,6 +14,9 @@ class ExclusivityReviewer:
         self.client = client
 
     async def review_question(self, q: Dict[str, Any]) -> Tuple[bool, List[str]]:
+        qid = q.get("id", "unknown")
+        target = q.get("target_word", "")
+        print(f"      [L2 Review] Starting review for {qid} ('{target}')...", flush=True)
         messages = [
             {"role": "system", "content": SYSTEM_PROMPT_REVIEWER},
             {"role": "user", "content": build_reviewer_user_prompt(q)}
@@ -34,13 +37,15 @@ class ExclusivityReviewer:
 
             # 严格门槛：通过且得分 >= 8 分
             if passed and score >= 8:
+                print(f"      [L2 Review] {qid} -> PASSED (score={score}/10)", flush=True)
                 return True, []
             else:
+                print(f"      [L2 Review] {qid} -> REJECTED (score={score}/10, issues={issues[:1]})", flush=True)
                 if not issues:
                     issues = [f"Reviewer gave low score ({score}/10) without specific issues."]
                 return False, issues
 
         except Exception as e:
             # 审校 API 异常时严格 Fail-Closed，拒绝放行未审校题目
-            print(f"[Reviewer Error] Failed to complete review for {q.get('id')}: {e}")
+            print(f"      [L2 Review Error] Failed to complete review for {qid}: {e}", flush=True)
             return False, [f"Reviewer execution exception: {str(e)}"]

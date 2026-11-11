@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b57_01",
+    "group_id": 571,
+    "group_name": "accession, assent, concord, collusion",
+    "level": "TEM-8",
+    "target_word": "accession",
+    "question": "Although the candidate country had substantially aligned its legal code with continental standards, its formal ___ to the European Union was delayed by persistent maritime disputes with neighboring states.",
+    "options": [
+      "accession",
+      "assent",
+      "concord",
+      "collusion"
+    ],
+    "answer": "accession",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "固定制度性搭配与介词支配：表示主权国家正式加入国际组织、公约或条约（如 European Union）的标准国际法与外交用语唯有 'accession to'；其他选项均无法与国际组织构成“正式加入/加盟”的搭配语义。",
+    "distractor_analysis": {
+      "accession": "正确。指“（国家或组织正式）加入、加盟（国际条约或多边组织）”或“即位、登基”，在外交与国际法语境中与介词 'to' 及国际实体构成固定搭配（如 accession to the European Union/WTO），天衣无缝地契合句中候选国加入欧盟的政治程序。",
+      "assent": "错误。意为“同意、赞成”，通常指对某项法案、建议或提议表达赞同（如 give assent to a bill/proposal），不可用于主权实体“加入某一国际联盟或组织”的制度性法律行为（不存在 formal assent to the European Union 这一表述）。",
+      "concord": "错误。意为“和睦、公约、协调”，为不可数抽象名词或指双边和平协议，其介词通常搭配 with 或 between，无法与介词 to 以及国际组织构成表示“入盟/加入”的动态名词短语。",
+      "collusion": "错误。意为“共谋、勾结、串通”，属于明显的贬义词，常用搭配为 collusion with / in，不仅介词不符，而且与句子描述的阳光化、正规化国家外交入盟程序形成严重的逻辑色彩冲突。"
+    },
+    "translation": "尽管该候选国已基本使其法律法规与欧洲大陆标准接轨，但由于与邻国存在悬而未决的海洋划界争议，其正式加入欧盟的进程依然受阻。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_02",
+    "group_id": 571,
+    "group_name": "accession, assent, concord, collusion",
+    "level": "TEM-8",
+    "target_word": "assent",
+    "question": "Although the opposition party voiced intense skepticism regarding the economic bailout, it ultimately gave its tacit ___ to the emergency legislation to avert a catastrophic collapse of the national currency.",
+    "options": [
+      "accession",
+      "assent",
+      "concord",
+      "collusion"
+    ],
+    "answer": "assent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "典型动宾介搭配与修饰语锚点：'give one's tacit ___ to the legislation'（对立法予以默许/赞同）。在政法与议会语境中，表达对法案、决议给予“默许或批准”的唯有 assent（常见搭配有 tacit/formal/royal assent to sth.）。",
+    "distractor_analysis": {
+      "assent": "正确。意为“同意、赞成、默许”，与形容词 tacit（默许的）以及动词短语 give ... to the legislation 构成极为严密的议会政治与立法文本经典搭配（give tacit assent to 意为“对……予以默许”）。",
+      "accession": "错误。指“加入组织、即位就职”，通常说 accession to the throne 或 accession to an organization，不存在由反对党向紧急法案提供“默许加入（tacit accession to legislation）”的语义逻辑与搭配用法。",
+      "concord": "错误。指“和谐、协调、一致状态”，是描摹人际或国际关系的静态名词，不可与动词 give 及物性地组合为 *give one's concord to 这一结构，搭配完全破裂。",
+      "collusion": "错误。指“暗中勾结、密谋欺诈”，多用于非法或不正当联合（collusion with competitors / between officials），不能与向立法案“给予正式/公开赞同”的句意相融，且不与介词 to 搭配表示对法案的认可。"
+    },
+    "translation": "尽管反对党对经济纾困方案提出了强烈质疑，但为避免本国货币发生灾难性崩盘，它最终对该紧急立法予以了默许。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_03",
+    "group_id": 572,
+    "group_name": "adhesive, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "adhesive",
+    "question": "Sociolinguists contend that shared mythologies operate as a potent cognitive ___ seamlessly bonding disparate tribal factions whose collective identity would otherwise dissolve under the centrifugal pressures of modernization.",
+    "options": [
+      "adhesive",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "adhesive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in the participial modifier 'seamlessly bonding disparate tribal factions' contrasted with 'would otherwise dissolve', which strictly demands a noun signifying a binding agent or medium of cohesion.",
+    "distractor_analysis": {
+      "adhesive": "正确。adhesive 作名词表示“黏合剂、胶粘物”，在社会学与认知科学语境中常隐喻为“起凝聚作用的纽带或精神黏合剂”（cognitive/social adhesive）。后置修饰语“seamlessly bonding disparate tribal factions”（无缝黏合各异部落）与后文防止“dissolve”（解体、离散）构成了严密的功能对应，完美契合语义。",
+      "abrasive": "错误。abrasive 作名词表示“研磨剂、磨料”，隐喻引起摩擦、冲突或磨损之物，其“磨蚀、剥离”的语义特征与句中“bonding disparate... factions”（结合、黏合派系）形成根本的逻辑对抗。",
+      "undercut": "错误。undercut 作名词通常指“底切、凹口”或特定肉类部位（里脊肉），作动词才表示“削弱、暗中破坏”。此处需要名词，且填入后无论在语义（破坏而非黏合）还是搭配上均完全不通。",
+      "aggregate": "错误。aggregate 作名词意为“总计、集合体、骨料”，强调各要素汇总而成的“静态最终产物”（the whole produced by gathering parts），而非主动施加黏结作用的“介质/助剂”（bonding agent），无法与现在分词短语“bonding disparate factions”建立合乎逻辑的施动机制。"
+    },
+    "translation": "社会语言学家认为，共享的神话发挥着强大的认知黏合剂的作用，将各异的部落派系天衣无缝地联结在一起，否则在现代化的离心力冲击下，他们的集体认同将会瓦解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_04",
+    "group_id": 572,
+    "group_name": "adhesive, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "abrasive",
+    "question": "The philosopher treated rigorous Socratic questioning not as an instrument of destruction, but as an intellectual ___ steadily wearing away dogmatic orthodoxies to reveal the underlying core of genuine understanding.",
+    "options": [
+      "adhesive",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "abrasive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The subsequent participial clause 'steadily wearing away dogmatic orthodoxies to reveal the underlying core' provides the irrefutable anchor, describing the mechanical process of friction/grinding to expose a core surface, which uniquely defines the noun 'abrasive'.",
+    "distractor_analysis": {
+      "abrasive": "正确。abrasive 作名词指“研磨剂、磨料”（如砂纸、金刚砂等用于打磨光滑的物质），在此处用于哲学认识论的隐喻，指用于“磨砺思想、磨除偏见”的工具。后文分词短语“steadily wearing away dogmatic orthodoxies to reveal the underlying core”（持续磨去教条陈规以显露本质）生动还原了磨料研磨抛光表层、露出核心质地的物理过程，搭配极为精准地道。",
+      "adhesive": "错误。adhesive 作名词意为“黏合剂”，其核心功能是促成附着与黏连（adhering/binding），而句中表述的是“wearing away”（磨损、去除、剥蚀），两者语义极性完全相反。",
+      "undercut": "错误。undercut 作名词指“切口、底切”，无法充当实施“steadily wearing away ... to reveal”（持续研磨去除表层杂质）的工具喻体，在学术英语修辞中亦无此用法。",
+      "aggregate": "错误。aggregate 作名词表示“聚集体、集料”，属于表集合概念的静态实体名词，既无磨损侵蚀的动态动作蕴含，也无法在逻辑上发出“wearing away dogmatic orthodoxies”的动作。"
+    },
+    "translation": "这位哲学家并未将严苛的苏格拉底式诘问视为毁灭的工具，而是视其为一种智识上的研磨剂，不断磨去教条主义的陈见，从而显露出真正理解的内在核心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_05",
+    "group_id": 573,
+    "group_name": "agitation, flit, wiggle, squirm",
+    "level": "TEM-8",
+    "target_word": "agitation",
+    "question": "During clinical assessments of severe manic episodes, psychiatrists frequently observe marked psychomotor ___, characterized by uncontrollable pacing, purposeless hand-wringing, and an inability to remain seated during structured interviews.",
+    "options": [
+      "agitation",
+      "flit",
+      "wiggle",
+      "squirm"
+    ],
+    "answer": "agitation",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational anchor 'psychomotor ___' alongside symptomatic behavioral indicators 'uncontrollable pacing, purposeless hand-wringing, and an inability to remain seated'.",
+    "distractor_analysis": {
+      "agitation": "正确项。agitation在此处构成精神医学与行为科学领域的严格固定术语“psychomotor agitation”（精神运动性激越/烦躁），精准指代由内在病理压力引起的、伴随不可控踱步与搓手等无目的活动的极度躁动状态。",
+      "flit": "错误。flit作名词通常指轻快、短暂的掠过或飞跃，语义侧重轻盈与迅疾，完全不能与“psychomotor”搭配构成临床病理学术语，亦无法表达躯体性的焦虑亢奋行为。",
+      "wiggle": "错误。wiggle作名词指局部的轻微摆动或扭动，属于日常口语化词汇，既不符合高阶学术与精神病学诊断的语域要求，也不能与“psychomotor”搭配。",
+      "squirm": "错误。squirm作名词意为因难堪、局促或躯体不适而产生的辗转局促扭动（如在椅子上扭动），不能与“psychomotor”构成术语搭配，更无法统领后文所述的“来回踱步”等全身体位异常兴奋状态。"
+    },
+    "translation": "在对重度躁狂发作的临床评估中，精神科医生经常观察到显著的精神运动性激越，其特征为难以自抑的来回踱步、无目的的搓手以及在结构化访谈中无法静坐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_06",
+    "group_id": 573,
+    "group_name": "agitation, flit, wiggle, squirm",
+    "level": "TEM-8",
+    "target_word": "flit",
+    "question": "During behavioral trials in the dense aviary, the researcher recorded every sudden, darting ___ of the hummingbird between nectar stations, observing that these brief aerial transitions minimized the bird's caloric expenditure.",
+    "options": [
+      "agitation",
+      "flit",
+      "wiggle",
+      "squirm"
+    ],
+    "answer": "flit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Modified by 'sudden, darting' and coreferenced by the anaphoric noun phrase 'these brief aerial transitions between nectar stations'.",
+    "distractor_analysis": {
+      "agitation": "错误。agitation指情绪焦虑状态或液体的剧烈搅拌、社会的动荡，既不能由形容迅疾移动的“darting”修饰，也无法表示两点之间具有空间位移特征的“空中过渡（aerial transitions）”。",
+      "flit": "正确项。flit作名词表示“轻捷的飞掠、短暂迅疾的空中穿梭”，与前置修饰语“darting”（疾驰飞掠的）以及后文复指的“brief aerial transitions”（短暂的空中位移）在语义和搭配上完全契合。",
+      "wiggle": "错误。wiggle指物体或身体部位的摆动、扭动（如蠕虫爬行或摇尾巴），不具备“空中展翅穿梭”的飞行行为特征，无法与后文的“aerial transitions”形成逻辑对应。",
+      "squirm": "错误。squirm指因疼痛、受限或难堪而产生的肢体局促扭动、挣扎蠕动，多发生在受限平面或拘禁状态下，与鸟类轻灵迅捷的空中飞行行为完全背道而驰。"
+    },
+    "translation": "在茂密鸟舍开展的行为实验中，研究人员记录了蜂鸟在不同花蜜取食站之间每一次突发的敏捷飞掠，并观察到这些短暂的空中位移最大程度地降低了鸟类的热量消耗。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_07",
+    "group_id": 574,
+    "group_name": "anagram, hybrid, catchword, quantifier",
+    "level": "TEM-8",
+    "target_word": "anagram",
+    "question": "Scholars long puzzled over the author's cryptic nom de plume until linguistic analysis revealed it to be a cunningly crafted ___ formed entirely by transposing the letters of his patron's name.",
+    "options": [
+      "anagram",
+      "hybrid",
+      "catchword",
+      "quantifier"
+    ],
+    "answer": "anagram",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "transposing the letters of his patron's name",
+    "distractor_analysis": {
+      "anagram": "正确。anagram 专指通过颠倒/重排既有单词或词组中的字母而构成的新词（变位词）。题干后半句“formed entirely by transposing the letters of...”提供了无可争辩的词汇学定义级线索，与 anagram 形成严格的语义与搭配对齐。",
+      "hybrid": "错误。hybrid 指“混合物、杂交体”，强调不同物种、体系或技术范式的杂糅融合，无法用于描述通过置换字母构成的文字谜题或假名。",
+      "catchword": "错误。catchword 指“标语、口号、流行语”或印刷术语中的“页末引词”，与后文明确提及的“重排字母形成的假名”毫无逻辑关联。",
+      "quantifier": "错误。quantifier 为逻辑学与语法学术语，指“量词、数量修饰成分”（如 all, some），完全脱离文学史与密码变位词的研究语境。"
+    },
+    "translation": "学者们长期对该作家神秘的笔名百思不得其解，直到语言学分析揭示出它其实是一个精妙的变位词——完全是通过调换其赞助人名字中的字母顺序构成的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_08",
+    "group_id": 574,
+    "group_name": "anagram, hybrid, catchword, quantifier",
+    "level": "TEM-8",
+    "target_word": "hybrid",
+    "question": "Rather than adhering strictly to generative grammar or behaviorist models, the cognitive scientist proposed a theoretical ___ that seamlessly synthesizes rule-based computation with connectionist neural networks.",
+    "options": [
+      "anagram",
+      "hybrid",
+      "catchword",
+      "quantifier"
+    ],
+    "answer": "hybrid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "seamlessly synthesizes rule-based computation with connectionist neural networks",
+    "distractor_analysis": {
+      "hybrid": "正确。hybrid 指两种不同来源、范式或技术杂交融合而成的“混合体、复合模型”。句中的“theoretical hybrid”是认知科学与理论语言学的高频学术搭配，与定语从句中“synthesizes A with B”（将基于规则的计算与联结主义神经网络相融合）形成精准闭环。",
+      "anagram": "错误。anagram 指“变位词”，属于字谜或字符排列范畴，根本无法充当表征理论范式综合的学术概念。",
+      "catchword": "错误。catchword 指“流行口号、时髦词”，通常指浅层的标语修辞，与句中高度形式化、严密的理论计算模型综合（synthesizes... computation with... networks）严重冲突。",
+      "quantifier": "错误。quantifier 指“数量词/量词”，是具体的词汇范畴或逻辑算子，不能用来概括一个跨范式的理论架构系统。"
+    },
+    "translation": "这位认知科学家并未恪守生成语法或行为主义模型，而是提出了一种理论混合模型，将基于规则的符号计算与联结主义神经网络天衣无缝地融合在了一起。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_09",
+    "group_id": 575,
+    "group_name": "antidote, balm, lotion, panacea",
+    "level": "TEM-8",
+    "target_word": "antidote",
+    "question": "Scholars argue that rigorous historical literacy serves as an indispensable ___ to the pervasive cynicism and epistemic distortion engineered by state-sponsored propaganda campaigns in totalitarian regimes.",
+    "options": [
+      "antidote",
+      "balm",
+      "lotion",
+      "panacea"
+    ],
+    "answer": "antidote",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational pattern 'an indispensable ___ to [destructive/toxic cognitive influence]' requiring a counter-agent against ideological toxicity rather than a palliative or universal cure.",
+    "distractor_analysis": {
+      "antidote": "正确。antidote 本义为“解毒剂”，在认知与社会学语境中高度引申为“抵消不良影响、消除精神毒害的矫正手段”，并与介词 to 构成固定搭配（an antidote to...）。句中针对极权宣传制造的犬儒主义与认知扭曲（带有强烈的毒害属性），历史素养正起到了中和毒素的良方作用，语义与搭配均极度贴合。",
+      "balm": "错误。balm 意为“抚慰物、镇痛物”，侧重于安抚创伤、悲痛或受挫的心灵（如 a balm to wounded pride），用于减轻痛苦而非中和、击碎具有破坏性的精神毒害与虚假扭曲，与题干中理性对抗宣传扭曲的语境不合。",
+      "lotion": "错误。lotion 仅指皮肤外用的洗剂、乳液，为纯实体器物名词，不可用于抽象的认知或政治哲学隐喻，属于严重的范畴错置。",
+      "panacea": "错误。panacea 指“万应灵药、包治百病的灵丹妙药”，在介词选择上习惯与 for 搭配（a panacea for all ills），且在学术语境中几乎均以否定形式出现（如 no panacea）以示批判；同时 panacea 强调全能型解决方案，与破除特定“思想毒素”的精准解毒隐喻不符。"
+    },
+    "translation": "学者们认为，严谨的历史素养是一种不可或缺的矫正良药，能够抵御极权政权国家宣传运动所蓄意制造的普遍犬儒主义和认知扭曲。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_10",
+    "group_id": 575,
+    "group_name": "antidote, balm, lotion, panacea",
+    "level": "TEM-8",
+    "target_word": "balm",
+    "question": "In times of existential uncertainty, the philosophical contemplation of Stoic virtues offers a soothing ___ to troubled minds, mitigating the acute distress caused by volatile socioeconomic disruptions.",
+    "options": [
+      "antidote",
+      "balm",
+      "lotion",
+      "panacea"
+    ],
+    "answer": "balm",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The strong adjectival collocation 'soothing ___' combined with the recipient 'to troubled minds' and the semantic purpose 'mitigating acute distress'.",
+    "distractor_analysis": {
+      "balm": "正确。balm 指“镇痛香膏”或引申为“带来精神慰藉与缓和创伤之物”，在修辞上常与 soothing 形成典雅的固定搭配（a soothing balm），并与介词 to/for 连用（a balm to troubled minds），专门用于表达平复焦虑、抚慰受创与忧虑心灵，与句中的 mitigating acute distress 形成严密互锁。",
+      "antidote": "错误。antidote 侧重于对抗、中和外在毒性与恶性倾向，语义偏向刚性的抵消与消除，通常被 potent 或 effective 修饰，与带有温和抚慰属性的 soothing 产生语义冲突，不符合形容词修饰搭配惯例。",
+      "lotion": "错误。lotion 属物理层面的护肤乳液，无法与 troubled minds 产生合乎高级文体的抽象比喻联系，造成语义滑稽与搭配破裂。",
+      "panacea": "错误。panacea 指“解决所有难题的万能良方”，语法上常搭配介词 for，且语义重在彻底解决所有难题而非提供缓和性的抚慰（soothing），无法与 a soothing ___ to 构成合格的学术修辞搭配。"
+    },
+    "translation": "在充满存在主义不确定性的时代，对斯多葛美德的哲学沉思为焦虑的心灵提供了一剂抚慰人心的良药，缓解了因剧烈社会经济动荡所引发的剧烈痛苦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_11",
+    "group_id": 576,
+    "group_name": "antipathy, hobgoblin, infatuation, hallucination",
+    "level": "TEM-8",
+    "target_word": "antipathy",
+    "question": "Despite decades of diplomatic engagement, the conservative factions continued to harbor a deep-seated ___ toward multilateral treaties, viewing them as insidious intrusions upon national sovereignty.",
+    "options": [
+      "antipathy",
+      "hobgoblin",
+      "infatuation",
+      "hallucination"
+    ],
+    "answer": "antipathy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed collocational frame 'harbor a deep-seated ___ toward' combined with the negative evaluation 'viewing them as insidious intrusions upon national sovereignty' unequivocally demands a noun denoting profound aversion or hostility.",
+    "distractor_analysis": {
+      "antipathy": "正确。意为“强烈反感、深恶痛绝”。与句中谓语动词及介词构成典型学术搭配“harbor a deep-seated antipathy toward...”（对……怀有根深蒂固的反感），且与后文分词短语“viewing them as insidious intrusions upon national sovereignty”（视其为对国家主权阴险的侵犯）在消极语义极性与认知态度上严丝合缝。",
+      "hobgoblin": "错误。意为“令人恐惧的事物；假想敌；妖魔（bugbear）”，指代引起恐惧的外部客体或象征，不能与动词搭配构成“harbor a hobgoblin toward”（人无法对某事物“心怀妖魔”），介词 toward 亦无法与其衔接，造成严重的句法破裂。",
+      "infatuation": "错误。意为“热恋、盲目迷恋”，通常与介词 with 搭配（infatuation with）。在语篇语义上，后文明确指出将多边条约视为“阴险的侵犯”，与 infatuation 所表达的热烈赞赏与盲目爱慕存在不可调和的褒贬极性冲突。",
+      "hallucination": "错误。意为“幻觉、幻听/幻视”，属于病理学或感知觉障碍术语。既不能与介词 toward 搭配（不存在 hallucination toward treaties），也无法作为 harbor 的宾语来表述对国际政治条约的敌对意识形态立场。"
+    },
+    "translation": "尽管经历了数十年的外交接触，保守派系仍然对多边条约怀有根深蒂固的反感，将其视为对国家主权的阴险侵犯。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_12",
+    "group_id": 576,
+    "group_name": "antipathy, hobgoblin, infatuation, hallucination",
+    "level": "TEM-8",
+    "target_word": "hobgoblin",
+    "question": "Critics argued that the administration was merely conjuring an imaginary ___, an ideological bugbear deliberately invoked to intimidate the electorate and silence dissenting voices on national security policy.",
+    "options": [
+      "antipathy",
+      "hobgoblin",
+      "infatuation",
+      "hallucination"
+    ],
+    "answer": "hobgoblin",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The appositive noun phrase 'an ideological bugbear deliberately invoked to intimidate the electorate' directly mirrors the exact lexicographical definition of 'hobgoblin' (a source of fear/dread: BUGBEAR), perfectly complementing the verb 'conjure'.",
+    "distractor_analysis": {
+      "hobgoblin": "正确。本义为“淘气的小妖精”，在高级政论与学术修辞中引申为“令人恐惧的事物；假想敌；用来恐吓人的妖怪（bugbear）”。句中同位语“an ideological bugbear”（意识形态上的恐吓假想物）正是该词最权威的词典释义投射，与动词“conjuring”（凭空捏造、召唤）形成绝佳的修辞共现。",
+      "antipathy": "错误。意为“反感、厌恶”，指代主体内心的负面心理情感，不能用作“an ideological bugbear”（恐吓性假想物）的同位语；政客也不会为了恐吓选民而凭空召唤（conjure）一个“imaginary antipathy”。",
+      "infatuation": "错误。意为“痴迷、狂热迷恋”，感情色彩为非理性的喜爱，与后文的“bugbear”（恐惧来源）及“intimidate the electorate”（威吓选民）在情感指向与语境逻辑上直接相悖。",
+      "hallucination": "错误。意为“幻觉”，强调个体神经系统无外在刺激而产生的虚幻感知。虽然含有虚假属性，但它属于病理知觉，不能充当被政治手段蓄意唤起以恐吓公众的“ideological bugbear”（意识形态恐吓稻草人），且“conjure an imaginary hallucination”在语意上存在生硬重叠与语域脱节。"
+    },
+    "translation": "批评人士指出，政府不过是在凭空捏造一个虚构的恐吓假想敌——一个蓄意用来威吓选民、压制国家安全政策异见的意识形态稻草人。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_13",
+    "group_id": 577,
+    "group_name": "apex, node, zenith, equinox",
+    "level": "TEM-8",
+    "target_word": "apex",
+    "question": "Within Bloom's revised taxonomy of educational objectives, metacognitive evaluation sits at the very ___ of the cognitive hierarchy, subsuming foundational abilities such as recall and comprehension into higher-order epistemic synthesis.",
+    "options": [
+      "apex",
+      "node",
+      "zenith",
+      "equinox"
+    ],
+    "answer": "apex",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and structural anchor: 'sits at the very ___ of the cognitive hierarchy'. In cognitive psychology and educational taxonomy, vertically stratified pyramid models strictly collocate with 'apex' to denote the supreme tip of a hierarchy, distinct from temporal peaks or network points.",
+    "distractor_analysis": {
+      "apex": "正确。apex 原指几何锥体或金字塔的顶点，在认知科学与教育分类学（如布鲁姆认知层级金字塔）中，常与 hierarchy 构成经典学术搭配 'at the apex of the hierarchy'，精准指代层级递进结构的最顶端。",
+      "node": "错误。node 指网状拓扑系统中的“节点”或分支交叉点（nexus/junction），强调网络连通性，与具有单一垂直顶峰的层级结构（hierarchy）及其极值修饰语 'at the very...' 发生语义冲突。",
+      "zenith": "错误。zenith 属于天文与时间隐喻范畴，指天顶或声望、权力、历史阶段的“极盛时期”（与 nadir 相对），用于描述发展曲线或生命周期的巅峰，不能指代分级分类架构（hierarchy/taxonomy）的顶端。",
+      "equinox": "错误。equinox 专指天文学中的“昼夜平分点”（春分或秋分），表示日夜等长的时点，置于认知能力层级语境中毫无逻辑与语义关联。"
+    },
+    "translation": "在布鲁姆修订版教育目标分类法中，元认知评价位于认知层级结构的最顶端，它将诸如回忆和理解等基础能力升华并包容于高阶认识论综合之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_14",
+    "group_id": 577,
+    "group_name": "apex, node, zenith, equinox",
+    "level": "TEM-8",
+    "target_word": "node",
+    "question": "In cognitive models of associative memory, the prefrontal cortex functions as a pivotal ___ where disparate sensory representations converge, facilitating rapid semantic cross-referencing and contextual decision-making.",
+    "options": [
+      "apex",
+      "node",
+      "zenith",
+      "equinox"
+    ],
+    "answer": "node",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Relational and syntactico-semantic anchor: 'a pivotal ___ where disparate sensory representations converge, facilitating rapid semantic cross-referencing'. The concept of disparate lines converging and cross-referencing strictly necessitates a topological intersection or junction in a cognitive network, for which 'node' is the sole correct term.",
+    "distractor_analysis": {
+      "node": "正确。node 在认知心理学与神经网络理论中专指信息图谱或联想网络中的“节点”。后文从句中的 'converge'（汇聚、交汇）与 'cross-referencing'（交叉检索）明确要求填入具有枢纽与交汇点特性的词，node 与之构成无可替代的专业术语搭配。",
+      "apex": "错误。apex 表示垂直结构或锥体顶端的单一顶点，强调等级优越性，无法充当多元感官表征相互汇聚、互联并进行双向交叉检索（cross-referencing）的网络中继枢纽。",
+      "zenith": "错误。zenith 仅表示时间进程或历史轨迹中的“鼎盛状态”，为抽象的时间/天球概念，不能作为具象空间或认知网络中供多重表征物理或功能性汇聚的“节点”。",
+      "equinox": "错误。equinox 仅指天文学上的二分点（昼夜平分时），属于天体运行时间节点，与认知联想记忆模型的网络拓扑结构完全无关。"
+    },
+    "translation": "在联想记忆的认知模型中，前额叶皮层扮演着关键节点的角色；在此处，各异的感官表征相互汇聚，从而促进了快速的语义交叉检索与情境决策。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_15",
+    "group_id": 578,
+    "group_name": "apprehension, misgiving, foretaste, expectancy",
+    "level": "TEM-8",
+    "target_word": "apprehension",
+    "question": "As the fragile ceasefire neared expiration, humanitarian observers monitored the sudden redeployment of mechanized brigades with acute ___, fearful that the renewed hostilities would utterly derail ongoing civilian evacuations.",
+    "options": [
+      "apprehension",
+      "misgiving",
+      "foretaste",
+      "expectancy"
+    ],
+    "answer": "apprehension",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "with acute ___ ... fearful that the renewed hostilities would utterly derail",
+    "distractor_analysis": {
+      "apprehension": "正确。Merriam-Webster将apprehension定义为“painful expectation”（忧虑、恐惧、大难临头之感）。在句法上，apprehension作为不可数名词可直接置于“with acute ___”介词短语中作状语，表征面对迫近危险时的恐慌与忧虑心理；在逻辑上，与后文分词短语“fearful that the renewed hostilities would utterly derail...”构成精准的语义呼应与情感共鸣。",
+      "misgiving": "错误。句法数格与语义重心均不匹配。misgiving意为“疑虑、顾虑、隐忧”（a feeling of doubt or suspicion），在表示此种态度时通常作可数名词且极高频使用复数形式（即“with acute misgivings”或“without a misgiving”），单数裸词紧跟在“with acute”后严重违背习惯用法。此外，misgiving侧重对某项决策之正确性或道德性的怀疑，而非对战争爆发的纯粹恐惧（dread）。",
+      "foretaste": "错误。句法结构与词义完全脱节。foretaste意为“预尝、先兆、提前体验”（a preview or preliminary experience），为可数名词且固定与介词of搭配（a foretaste of sth.），置于“with acute ___”后既无冠词支持，亦无法表达主体内心的情绪态度。",
+      "expectancy": "错误。语义情感色彩冲突。expectancy指“期盼、期待”，通常用于中性或带有积极专注色彩的等待氛围（如an air of expectancy），与后文明确表达的灾难性恐惧（fearful that... catastrophe）产生强烈的语境反差与语义割裂。"
+    },
+    "translation": "随着脆弱的停火协议临近失效，人道主义观察员带着极度忧虑密切注视着机械化步兵旅的突然重新部署，唯恐战火重燃会彻底破坏正在进行的平民疏散工作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_16",
+    "group_id": 578,
+    "group_name": "apprehension, misgiving, foretaste, expectancy",
+    "level": "TEM-8",
+    "target_word": "misgiving",
+    "question": "Although the cabinet voted to ratify the treaty, the seasoned diplomat harbored a profound ___ about the wisdom of committing sovereign troops to an intractable and poorly defined overseas conflict.",
+    "options": [
+      "apprehension",
+      "misgiving",
+      "foretaste",
+      "expectancy"
+    ],
+    "answer": "misgiving",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "harbored a profound ___ about the wisdom of committing sovereign troops",
+    "distractor_analysis": {
+      "misgiving": "正确。Merriam-Webster释义为“a feeling of doubt or suspicion”（怀疑、顾虑）。misgiving常指对某项行动、决策是否明智或合乎道德所产生的理性疑虑，“a profound misgiving about the wisdom of doing sth.”（对做某事是否明智怀有深切疑虑）是高级政论英语中的经典固定搭配，单数形式与不定冠词“a”完全契合。",
+      "apprehension": "错误。搭配断裂且语义指向错位。apprehension指对未来险境或祸患的情绪性恐惧（painful expectation/dread），其后置介词通常引出所恐惧的具体对象或消极后果（如apprehension about/over the risks/future）；人们不会对某一策略的“wisdom（明智性）”产生apprehension（恐惧），而只会产生misgiving（怀疑/顾虑），在此处搭配“about the wisdom of”属于严重的语义错配。",
+      "foretaste": "错误。介词搭配与基本词义均不兼容。foretaste指对某种体验的“先尝、先兆”，支配介词为of（a foretaste of hardship），绝对不能与“about the wisdom of”连用，放入句中导致语意混乱。",
+      "expectancy": "错误。语境逻辑冲突。expectancy指对未来事件的“期待、预期”，无法表达针对内阁决策审慎性与明智性的批判性怀疑或顾虑，与前文表让步转折的语境完全相悖。"
+    },
+    "translation": "尽管内阁投票批准了该条约，但这位经验丰富的外交官对于将本国军队派往一场棘手且目标模糊的海外冲突是否明智，内心深存疑虑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_17",
+    "group_id": 579,
+    "group_name": "archetype, epitome, paradigm, prototype",
+    "level": "TEM-8",
+    "target_word": "archetype",
+    "question": "In analytical psychology, the maternal figure is conceptualized not merely as a biological parent, but as a primordial ___ residing within the collective unconscious, perpetually informing human mythological narratives across cultures.",
+    "options": [
+      "archetype",
+      "epitome",
+      "paradigm",
+      "prototype"
+    ],
+    "answer": "archetype",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The theoretical framework 'analytical psychology', the fixed modifier 'primordial', and the cognitive locus 'collective unconscious' decisively mandate 'archetype'.",
+    "distractor_analysis": {
+      "archetype": "正确。在分析心理学（analytical psychology）和文学批评语境中，'primordial archetype'（原始原型）是标志性固定学术搭配，专指存在于人类'集体潜意识'（collective unconscious）中、在各文明神话叙事中普遍存在的原始意象与认知母题。",
+      "epitome": "排除。'epitome'意为'典型、缩影、集大成者'，其核心用法为体现某种抽象品质的化身（常与 of 连用），既不与'primordial'构成认知心理学学术搭配，也无法作为深植于潜意识中的原始意象主体。",
+      "paradigm": "排除。'paradigm'指认识论层面的'学术范式、思维框架或范例'（如 scientific paradigm），侧重于方法论模型或理论范式，不可用于表述神话与心理意象层面的'原始原型'。",
+      "prototype": "排除。'prototype'主要用于工业、工程制造或系统开发中的'最初雏形、样机、试验模型'，属于具象实体或技术初型，与心理学及神话象征领域的潜意识意象语域格格不入。"
+    },
+    "translation": "在分析心理学中，母亲这一形象不仅被视为生物学意义上的双亲，更被构想为一种深植于集体潜意识之中的原始原型，持续启示着跨文化的人类神话叙事。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_18",
+    "group_id": 579,
+    "group_name": "archetype, epitome, paradigm, prototype",
+    "level": "TEM-8",
+    "target_word": "epitome",
+    "question": "Renowned for his unyielding methodological precision and ethical consistency, the veteran jurist was universally regarded by legal historians as the very ___ of judicial integrity throughout the turbulent constitutional crisis.",
+    "options": [
+      "archetype",
+      "epitome",
+      "paradigm",
+      "prototype"
+    ],
+    "answer": "epitome",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The intensifier and prepositional frame 'the very ___ of judicial integrity' demands a noun signifying the quintessential embodiment of an abstract virtue.",
+    "distractor_analysis": {
+      "epitome": "正确。'the (very) epitome of [abstract virtue]'是高度固化的经典名篇搭配，意为'……的绝佳化身、典型代表'。在此处精准赞誉该资深法官是将'司法公正与操守'（judicial integrity）体现到极致的人格化身。",
+      "archetype": "排除。'archetype'侧重指代某类角色或人物模式的原始典型（如 the archetype of the tragic hero），一般不与抽象道德品质（如 integrity）构成'the very archetype of [virtue]'搭配来表示'某种品质的化身'。",
+      "paradigm": "排除。'paradigm'表示科学或哲学理论体系的'规范、范式'，常与 of 连用表达理论模式或例证，但不能用于修饰具体个体作为某项抽象道德品质的人格化身（不能说某人是 the epitome of integrity 以外的 paradigm of integrity）。",
+      "prototype": "排除。'prototype'意为技术开发或产品演进中的'样机、试验雏形'，用于人时多指某类后来者的早期先行版本，不可用于指代某人是某种抽象美德的极致体现与化身。"
+    },
+    "translation": "这位资深法学家以其坚定不移的方法论严谨性与伦理一贯性而闻名，在动荡的宪政危机期间，被法律史学家普遍视为司法正直操守的绝佳化身。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_19",
+    "group_id": 580,
+    "group_name": "asylum, loft, hovel, hutch",
+    "level": "TEM-8",
+    "target_word": "asylum",
+    "question": "Following the violent suppression of academic freedom, the dissident epistemologist was formally granted political ___ by the embassy, shielding his unorthodox cognitive treatises from state censorship.",
+    "options": [
+      "asylum",
+      "loft",
+      "hovel",
+      "hutch"
+    ],
+    "answer": "asylum",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed institutional collocation 'granted political ___ by the embassy', which strictly demands a noun denoting legal sanctuary or diplomatic protection from persecution.",
+    "distractor_analysis": {
+      "asylum": "正确。此处构成英语高阶权威固定搭配“political asylum”（政治庇护），指主权实体或驻外使馆依照国际法向逃避思想或政治迫害的人士提供的法律保护与庇护所，完美契合句中学术迫害与使馆保护的宏大语境。",
+      "loft": "错误。loft 指紧邻屋顶下方的阁楼，或由废弃厂房、仓库顶层改装而成的高顶开敞式居所或画室。它属于具体建筑空间范畴，绝不可与“political”搭配，亦不能充当动词“grant”在使馆外交语境下的受词（无 grant political loft 的用法）。",
+      "hovel": "错误。hovel 指简陋、肮脏、逼仄的破旧棚屋或陋室，具有强烈的贬义物理色彩。它既不具备抽象的法律/政治保护内涵，也无法与“political”及“grant”形成搭配，语意与语体风格严重脱节。",
+      "hutch": "错误。hutch 原指关养兔类等小动物的木笼或有架餐具橱柜。将其填入“political ___”不仅违背语法搭配规律，且在逻辑认知层面上产生荒谬的范畴错配。"
+    },
+    "translation": "在学术自由遭到暴力压制之后，这位持不同政见的认识论学者正式获得了大使馆的政治庇护，从而使其非正统的认知理论著作免受国家审查。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b57_20",
+    "group_id": 580,
+    "group_name": "asylum, loft, hovel, hutch",
+    "level": "TEM-8",
+    "target_word": "loft",
+    "question": "To foster unfettered conceptual exploration, the theorist retreated to an airy, converted ___ above the printing house, where soaring rafters and natural illumination encouraged sustained philosophical synthesis.",
+    "options": [
+      "asylum",
+      "loft",
+      "hovel",
+      "hutch"
+    ],
+    "answer": "loft",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The architectural collocational cluster 'airy, converted ___ above the printing house' combined with the internal structural feature 'soaring rafters' (高耸的椽木/屋梁).",
+    "distractor_analysis": {
+      "loft": "正确。loft 专指建筑物顶层的阁楼或由工业用房顶层改建而成的宽敞居室/工作室（converted loft）。句中“above the printing house”（位于印刷厂上方）指明了空间方位，而“airy”（通风开朗的）与“soaring rafters”（高耸的椽架）则是 loft 的典型物理特征，精准符合学者进行抽象认知探索的空间描摹。",
+      "asylum": "错误。asylum 侧重指政治庇护或精神病院，属于抽象权利或封闭性收容医疗设施，既不可能位于印刷厂上方充当具有高耸屋梁的开敞改建居所（converted asylum 在此建筑语境下完全失真），也无法对应个人冥想工作室的功能。",
+      "hovel": "错误。hovel 意为破烂狭窄、肮脏局促的陋居，其核心语义特征包含压抑与破败，这与句中“airy”（宽敞明亮的）以及“soaring rafters”（高阔大气的屋梁）在语义极性上发生直接冲突与逻辑矛盾。",
+      "hutch": "错误。hutch 指兔笼或放置餐具的小橱柜，指代微小封闭容器或动物巢穴，断然无法指代可容纳人类思想家居住、并带有高耸屋梁与采光窗的大型顶层工作室空间。"
+    },
+    "translation": "为促进不受拘束的观念探索，这位理论家退居到印刷厂上方一处由阁楼改建而成的开阔居所中；那里高耸的椽木与充足的自然采光为持续的哲学综合思考提供了理想的环境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

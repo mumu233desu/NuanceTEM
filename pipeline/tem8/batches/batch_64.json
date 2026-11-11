@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b64_01",
+    "group_id": 641,
+    "group_name": "pedestal, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pedestal",
+    "question": "In reassessing the Enlightenment philosophers, contemporary historians warn against placing rationality on an untouchable ___, arguing that such idealization inadvertently blinds scholarship to the era's inherent systemic prejudices.",
+    "options": [
+      "pedestal",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pedestal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The decisive rhetorical collocation 'placing [concept] on an untouchable ___' directly aligns with 'such idealization', referring to the established idiom 'put/place someone or something on a pedestal' (to revere uncritically).",
+    "distractor_analysis": {
+      "pedestal": "正确。构成固定文化隐喻搭配“place/put sth. on a pedestal”（将某事/某人捧上神坛、盲目崇拜），与后文的“idealization”（盲目理想化/神化）在语义与语体上严丝合缝。",
+      "pier": "错误。主要指工程结构中的“桥墩”或向水中延伸的“凸堤码头”，在英语中不存在“place ... on a pier”表示崇拜或神化的修辞惯用法。",
+      "brace": "错误。指加固框架的“支撑物、托架、夹子”，侧重物理结构上的稳固受力，无法与抽象概念“rationality”搭配构成崇拜或神圣化的话语隐喻。",
+      "foothold": "错误。常指攀爬时的“落脚点”或比喻意义上的“立足点、据点”，其典型动词搭配为“gain/establish/secure a foothold”，置于“place ... on an untouchable foothold”在句法搭配与语境逻辑上均不成立。"
+    },
+    "translation": "在重新审视启蒙运动哲学家时，当代历史学家警告不要将理性奉上不可动摇的神坛，指出这种盲目崇拜会无意中使学术界忽视该时代固有的系统性偏见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_02",
+    "group_id": 641,
+    "group_name": "pedestal, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pier",
+    "question": "The commission's infrastructural assessment warned that the viaduct's masonry ___, engineered to withstand hydrodynamic drag between the river's twin spans, had suffered severe scouring at its submerged foundation base.",
+    "options": [
+      "pedestal",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pier",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The definitive technical context of 'viaduct's masonry ___', 'hydrodynamic drag between the river's twin spans', and 'scouring at its submerged foundation base' unequivocally designates an intermediate vertical bridge support (pier).",
+    "distractor_analysis": {
+      "pier": "正确。在土木与水工建筑中，“pier”特指多跨桥梁之间的“桥墩”或伸入水体的支承立柱。句中“viaduct”（高架桥）、“twin spans”（双跨）、“hydrodynamic drag”（水动力阻力）与“scouring”（水流冲刷）构成了排他性的工程专业搭配链。",
+      "pedestal": "错误。指雕像、纪念碑或柱式构件的“基座、底座”，通常为上方独立立件的底衬，不可用于承担两跨桥梁间整体荷载并承受水流冲击的“桥墩”。",
+      "brace": "错误。指起辅助加固作用的“斜撑、拉杆或支架”，通常为线性或框架性辅助构件，不指代石砌（masonry）实心重力式桥墩主体，更无法与桥梁跨度及水下掏刷基座直接对应。",
+      "foothold": "错误。指攀援时的“立足点”或军事/商业的“据点”，在桥梁工程结构评估语境中属于范畴谬误。"
+    },
+    "translation": "委员会的基础设施评估报告警告称，该高架桥位于河流两跨之间、旨在抵御水流动力阻力的石砌桥墩，其水下基座已遭遇严重的掏刷侵蚀。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_03",
+    "group_id": 642,
+    "group_name": "platoon, corps, infantry, battalion",
+    "level": "TEM-8",
+    "target_word": "platoon",
+    "question": "Military psychologists observed that a lieutenant's cognitive capacity is severely tested when directing three distinct rifle squads, establishing that a single ___ represents the structural limit for direct, face-to-face tactical command.",
+    "options": [
+      "platoon",
+      "corps",
+      "infantry",
+      "battalion"
+    ],
+    "answer": "platoon",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive operational anchors 'lieutenant' (commander) and 'three distinct rifle squads' (subunits) syntactically and doctrinally restrict the missing tactical unit to 'platoon'.",
+    "distractor_analysis": {
+      "platoon": "正确。platoon 指“排”，由中尉（lieutenant）担任指挥官，通常下辖两至四个班（squads），是连（company）之下的基础战术单位。题干中的指挥官军衔“lieutenant”以及下辖编制“three distinct rifle squads”构成了严格的编制搭配锚点，唯有 platoon 完全契合。",
+      "corps": "错误。corps 指“军”或“兵团”，通常由中将（lieutenant general）指挥，下辖数个师（divisions），总兵力常达数万人，绝不可能由中尉指挥三个步枪班，编制尺度与语义严重脱节。",
+      "infantry": "错误。infantry 是集合/不可数名词，指“步兵”兵种或部队整体，不能与不定冠词及数量修饰语“a single”连用表示具体单个基层编制（不能说 a single infantry），在语法与语义搭配上均不成立。",
+      "battalion": "错误。battalion 指“营”，通常由中校（lieutenant colonel）指挥，下辖数个连（companies），规模通常在数百人以上。与题干中由中尉直接指挥三个班的基层情境存在明显的层级冲突。"
+    },
+    "translation": "军事心理学家观察到，中尉在指挥三个不同的步枪班时其认知负荷会受到严峻考验，这证实了单个排构成了直接进行面对面战术指挥的编制极限。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_04",
+    "group_id": 642,
+    "group_name": "platoon, corps, infantry, battalion",
+    "level": "TEM-8",
+    "target_word": "corps",
+    "question": "In high-reliability organizations, cultivating a resilient esprit de ___ among cross-functional teams enhances collective cognitive flexibility, enabling specialists to maintain intuitive communication and emotional cohesion during acute institutional crises.",
+    "options": [
+      "platoon",
+      "corps",
+      "infantry",
+      "battalion"
+    ],
+    "answer": "corps",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The immovable loan-phrase collocation 'esprit de ___' universally selects 'corps' to denote collective camaraderie and shared institutional morale.",
+    "distractor_analysis": {
+      "corps": "正确。此处考查高阶学术与组织心理学语境中的经典固定搭配“esprit de corps”（团队精神、集体荣誉感、凝聚力）。该短语源自法语借词，在高级英语中作为固定习语使用，后文的“collective cognitive flexibility”与“emotional cohesion”皆呼应了这种群体认知与情感状态。",
+      "platoon": "错误。英语中不存在“esprit de platoon”这一表达，与“esprit de”共现会导致严重的词汇搭配断裂（collocational rupture）。",
+      "infantry": "错误。infantry 仅指步兵兵种，不能嵌入法源固定习语“esprit de ...”中，属于搭配错误。",
+      "battalion": "错误。英语中绝无“esprit de battalion”之说，任何替换该习语核心成分的做法均违反标准学术搭配范式。"
+    },
+    "translation": "在高度可靠的组织中，在跨职能团队内部培养坚韧的团队精神能增强集体认知灵活性，使专业人员在面对突发制度危机时能够保持直觉式沟通与情感凝聚力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_05",
+    "group_id": 643,
+    "group_name": "plight, mire, pinch, impasse",
+    "level": "TEM-8",
+    "target_word": "plight",
+    "question": "Although the committee’s comprehensive report aimed to illuminate the harrowing ___ of displaced subsistence farmers, municipal authorities remained remarkably indifferent to their deteriorating living conditions.",
+    "options": [
+      "plight",
+      "mire",
+      "pinch",
+      "impasse"
+    ],
+    "answer": "plight",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'illuminate the harrowing ___ of [vulnerable demographic]', denoting an unfortunate, precarious situation or suffering of people eliciting humanitarian concern.",
+    "distractor_analysis": {
+      "plight": "正确。plight多指特定群体所面临的‘苦境、困境或不幸处境’，尤其指引起同情与关注的艰难境遇，与动词 illuminate 以及定语 harrowing、逻辑主语 displaced subsistence farmers 构成极为经典紧密的社科人文语料搭配。",
+      "mire": "错误。mire字面义为‘泥潭、沼泽’，比喻义指令人深陷其中、难以自拔的复杂困境或腐败泥淖（常与介词 in/into 或 of 连用，后接导致深陷的事物如 mire of bureaucracy），不能用以指代弱势群体的‘不幸生计遭遇’，不可搭配 the harrowing mire of displaced farmers。",
+      "pinch": "错误。pinch作名词常指‘拮据、紧缩、匮乏’（如经济或资源方面的压力），最经典的固定搭配为 feel the pinch，在此处无法与 harrowing 以及‘流离失所的自给农户’形成描述生存苦难的合规搭配。",
+      "impasse": "错误。impasse特指双方对峙、博弈或进程中出现的‘僵局、绝境’（如 reach an impasse），核心语义特征是推进受阻而非人道主义苦难，无法用于指代弱势群体的悲惨境遇。"
+    },
+    "translation": "尽管委员会的详尽报告旨在揭示流离失所的自耕农所陷入的凄惨困境，市政当局对他们每况愈下的生活状况却依然显得极为漠不关心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_06",
+    "group_id": 643,
+    "group_name": "plight, mire, pinch, impasse",
+    "level": "TEM-8",
+    "target_word": "mire",
+    "question": "Ensnared for months, the reformist administration struggled to extricate its economic agenda from the murky ___ of institutional corruption and entrenched bureaucratic lethargy.",
+    "options": [
+      "plight",
+      "mire",
+      "pinch",
+      "impasse"
+    ],
+    "answer": "mire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Governed by the spatial-entanglement metaphor 'ensnared... extricate... from the murky ___ of [systemic entanglements]', where only 'mire' functions as the figurative morass/bog trapping progress.",
+    "distractor_analysis": {
+      "plight": "错误。plight表示‘艰难困境’，侧重于承受主体的悲惨受害状态，后接承受者（如 plight of the poor），既不能受具象沼泽隐喻修饰词 murky（浑浊的、阴暗的）修饰，也不能与 of institutional corruption（腐败是陷阱介质而非受害主体）搭配构成被困介质。",
+      "mire": "正确。mire字面为沼泽污泥，比喻义为‘泥潭、深陷的困境’。句中 Ensnared（被诱捕/陷入）、extricate... from（从中抽身/解脱）与 murky（浑浊阴暗的）共同激活了物理空间‘泥沼困局’的隐喻网络，the murky mire of... 为高度纯正的政经与学术英语搭配。",
+      "pinch": "错误。pinch指短期的经济压力或资金拮据（如 financial pinch），与句中具有粘滞性、吞噬性的空间隐喻（ensnared, extricate from, murky）在语义场与语域搭配上完全冲突。",
+      "impasse": "错误。impasse表示谈判或博弈中‘不可逾越的死胡同、僵局’（如 break the impasse），是点状或阻断性的停滞，不能与具象黏着隐喻 murky 以及 extricate from... 搭配，亦不能说 an impasse of corruption and lethargy。"
+    },
+    "translation": "深陷其中数月之久，改革派政府竭尽全力试图使其经济议程摆脱体制性腐败与根深蒂固的官僚惰性所构成的浑浊泥潭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_07",
+    "group_id": 644,
+    "group_name": "portfolio, nucleus, quartet, quadruple",
+    "level": "TEM-8",
+    "target_word": "portfolio",
+    "question": "Before the academic evaluation board, candidates for the master of architecture fellowship were required to submit a curated ___ of experimental designs showcasing sustainable urban infrastructure and structural ingenuity.",
+    "options": [
+      "portfolio",
+      "nucleus",
+      "quartet",
+      "quadruple"
+    ],
+    "answer": "portfolio",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational and functional frame 'submit a curated ___ of experimental designs showcasing...': professional evaluation specifically demands a 'portfolio' (an assembled showcase of creative works/projects).",
+    "distractor_analysis": {
+      "portfolio": "正确。portfolio 在此指“（求职或参评时递交的）作品集；代表作选辑”（MW: a set of pieces of creative work collected to be shown to potential customers or employers）。与“curated”（精心策展的/遴选的）和“experimental designs”（实验性设计）构成专业学术评定中极具辨识度的标准搭配。",
+      "nucleus": "错误。nucleus 意为“（事物发展或群体的）核心、核心组织”，常用于表示组织或活动集聚生长的原点，无法用以指代装订或呈递供专家委员会审查的成套设计作品档案（curated body of creative works）。",
+      "quartet": "错误。quartet 严格指“四重奏；四人组；四件套”，人为施加了“数量恰好为四”的语义约束，与学术奖学金评定中要求提交系统性、代表性专业成果档案的语域与惯例严重相悖。",
+      "quadruple": "错误。quadruple 作为名词仅指“四倍的数或量”，属于基数量词范畴，与本句所需表达的“创意作品汇总集合”毫无语义交集。"
+    },
+    "translation": "在学术评审委员会面前，申请建筑硕士研究员职位的候选人被要求提交一份精心挑选的实验性设计作品集，以展现其在可持续城市基础设施与结构独创性方面的造诣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_08",
+    "group_id": 644,
+    "group_name": "portfolio, nucleus, quartet, quadruple",
+    "level": "TEM-8",
+    "target_word": "nucleus",
+    "question": "A disciplined cadre of senior field researchers formed the strategic ___ around which the global public health initiative gradually organized its remote interventions and coordinated emergency responses.",
+    "options": [
+      "portfolio",
+      "nucleus",
+      "quartet",
+      "quadruple"
+    ],
+    "answer": "nucleus",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The decisive syntactico-semantic frame 'formed the strategic ___ around which the... initiative gradually organized': only 'nucleus' denotes the central core group acting as the focal point of activity and subsequent organizational growth.",
+    "distractor_analysis": {
+      "portfolio": "错误。portfolio 指“投资组合；作品集；部长职务”，既无法作为人类行为主体（资深研究人员队伍）所充当的角色，也无法与“around which ... organized”（整个项目围绕其展开运作）形成语义连贯。",
+      "nucleus": "正确。nucleus 意为“（运动、群体或组织的）核心，骨干中心”（MW: the central and most important part of an object, movement, or group, forming the basis for its activity and growth）。“form the nucleus around which...”是高级学术英语中极其地道的固定比喻搭配，精准体现该骨干群体在行动拓展中的基石与轴心作用。",
+      "quartet": "错误。quartet 仅指“四人组；四重奏”，将主语“a disciplined cadre”（编制不明的骨干群体）突兀地局限为四人，缺乏学术语篇中表述“组织生长与协调核心”的抽象职能意义。",
+      "quadruple": "错误。quadruple 意为“四倍之量”，为度量与数量词，在此处出现会导致严重的语法与逻辑破裂。"
+    },
+    "translation": "一支由资深实地研究人员组成的纪律严明的骨干队伍构成了战略核心，全球公共卫生倡议正是围绕该核心逐步组织起偏远地区的干预行动并统筹应急响应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_09",
+    "group_id": 645,
+    "group_name": "posture, stance, reverence, disrespect",
+    "level": "TEM-8",
+    "target_word": "posture",
+    "question": "Faced with escalating maritime tensions, the coalition revised its conventional deterrent ___, reallocating naval assets along the contested strait to signal an uncompromising readiness to retaliate against unprovoked territorial incursions.",
+    "options": [
+      "posture",
+      "stance",
+      "reverence",
+      "disrespect"
+    ],
+    "answer": "posture",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed military and geopolitical collocation 'deterrent posture' (威慑态势/战备姿态), reinforced by the physical redeployment of military capabilities in 'reallocating naval assets'.",
+    "distractor_analysis": {
+      "posture": "正确项。在国际战略与安全防务语境中，'deterrent posture'（威慑态势/威慑姿态）是极其固定的专业学术搭配（如防务审查中的 Deterrence and Defense Posture），特指军队力量的战备部署、兵力配置及由此展现出的战略威慑外貌；句中伴随状语'reallocating naval assets'（重新调配海军资源）直接印证了针对实际力量部署（posture）的调整。",
+      "stance": "干扰项。stance 侧重于针对某一具体争议或政治议题所公开宣示的主观'立场、态度'（常与 on 搭配）。在防务战略分析中，力量实际调配与战备部署专属术语是 posture（如 force posture），'deterrent stance' 既非规范的防务术语范式，也无法准确对应调遣海军资产的具象军事配置内涵。",
+      "reverence": "干扰项。reverence 意为'崇敬、敬畏'，通常用于宗教、道德或对权威的高度尊重情境，接介词 for；置于军事战略威慑与舰队部署的语境下，语义彻底脱节且逻辑荒谬。",
+      "disrespect": "干扰项。disrespect 意为'无礼、轻蔑'，指行为上的失礼或对权威的不敬，完全无法与 'conventional deterrent' 形成合乎逻辑的修饰关系，属于语义范畴错误。"
+    },
+    "translation": "面对日益升级的海上紧张局势，该联盟调整了其常规威慑态势，在争议海峡沿线重新部署海军力量，以此表明对任何无端领土侵犯予以坚决反击的战备决心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_10",
+    "group_id": 645,
+    "group_name": "posture, stance, reverence, disrespect",
+    "level": "TEM-8",
+    "target_word": "stance",
+    "question": "In rehabilitation biomechanics, stroke patients struggling with equilibrium are systematically trained to widen their ___, strategically repositioning their feet to expand the base of support and prevent destabilizing lateral falls during ambulation.",
+    "options": [
+      "posture",
+      "stance",
+      "reverence",
+      "disrespect"
+    ],
+    "answer": "stance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_PHYSIOLOGY",
+    "anchor_clue": "The decisive transitive verb 'widen' strictly selects an entity with lateral physical width (i.e., 'widen one's stance' = increase the distance between feet to enlarge the base of support). This is definitively reinforced by the subsequent explanatory participial clause 'strategically repositioning their feet to expand the base of support'. In contrast, 'posture' describes overall spinal/body carriage and cannot be 'widened' (*widen one's posture is a severe collocational rupture).",
+    "distractor_analysis": {
+      "stance": "正确项。在生物力学、康复医学与人体运动学语境中，stance 严格指代“双脚着地时的站姿、站立基底与两脚间距”（the position and placement of the feet to provide a base of support）。动词 widen（拓宽、拉大）与 stance 构成绝对应试搭配（widen one's stance 意为拉大站距/增宽站姿），直接受后文分词短语“strategically repositioning their feet to expand the base of support”（策略性重置双脚以扩大支撑基底）的强语义锚定，完全契合学术语域与句法要求。",
+      "posture": "干扰项。posture 侧重指人体各部分（尤其是脊柱与躯干）的“整体体态、身姿对齐”（the general carriage and alignment of the entire body/spine），典型修饰语为 erect, upright, slouched, good/poor posture，动词常搭配 correct, improve 或 assume。在英语中，posture 描述垂直轴向的身姿体态，不具备横向物理开合间距的语义特征，绝不能与及物动词 widen 搭配使用（*widen one's posture 属于严重的搭配断裂）；且后文“repositioning their feet”明确指向脚部基底调控，而非躯干身姿纠偏。",
+      "reverence": "干扰项。reverence 意为“敬畏、崇敬”（profound respect or veneration），属于抽象情感态度名词。既无法与表示空间物理拉宽的动词 widen 搭配（*widen reverence 荒谬），更与脑卒中患者的平衡力学与双脚步态控制毫无逻辑联系，属于彻底的语义错配。",
+      "disrespect": "干扰项。disrespect 意为“不敬、无礼、冒犯”（lack of respect or courtesy），属于消极人际道德评价词。在句法上无法作为 widen 的宾语，置于生物力学康复情境中语义荒谬。"
+    },
+    "translation": "在康复生物力学中，平衡受损的脑卒中患者会接受系统化训练以拉大站距，通过策略性地重新调整双脚位置来扩大支撑基底，从而预防步行过程中因失稳导致的侧向跌倒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_11",
+    "group_id": 646,
+    "group_name": "predicament, mire, pinch, impasse",
+    "level": "TEM-8",
+    "target_word": "predicament",
+    "question": "Faced with the unenviable ___ of either liquidating essential assets or defaulting on sovereign debt, the finance minister struggled to devise an alternative strategy that would satisfy international creditors.",
+    "options": [
+      "predicament",
+      "mire",
+      "pinch",
+      "impasse"
+    ],
+    "answer": "predicament",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and structural anchor: 'the unenviable ___ of either [doing A] or [doing B]'. 'Predicament' uniquely denotes an embarrassing, trying, or perplexing plight involving mutually undesirable choices, forming the idiomatic academic pairing 'unenviable predicament'.",
+    "distractor_analysis": {
+      "predicament": "正确项。predicament指“困境、左右为难的处境”，尤指难以摆脱、令人极度不快的两难局面。其在高级学术与政经报刊中常与unenviable构成高度固定的修饰搭配（unenviable predicament），且后接“of either... or...”同位语结构，完美吻合面临变卖资产或债务违约两种严峻抉择的决策困局。",
+      "mire": "干扰项。mire本义为“泥沼、深泥”，比喻令人难以自拔的复杂缠绕局面或道德/行政泥潭，通常构成“in the mire of...”结构，强调被动深陷混沌或停滞，不可用于接“of either... or...”引申出的个体两难抉择。",
+      "pinch": "干扰项。pinch用于抽象义时主要指“（财政、资源等方面的）紧缩或匮乏”，最典型的固定搭配为动词短语“feel the pinch”（感到手头拮据）或状语“at/in a pinch”（在紧要关头）。它既不与unenviable搭配，也无法表达逻辑上的双重选择困境。",
+      "impasse": "干扰项。impasse指双方谈判、争议或进程陷入“僵局、死锁”，常与reach、break连用或与介词at搭配（reach an impasse / at an impasse）。本句主体是单一决策者（the finance minister）而非对立双方，且后文给出的是具体的二选一行动路径，并非进程停止的死胡同。"
+    },
+    "translation": "面对要么变卖核心资产、要么发生主权债务违约的进退维谷的窘境，财政部长绞尽脑汁试图制定出一套能让国际债权人满意的替代策略。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_12",
+    "group_id": 646,
+    "group_name": "predicament, mire, pinch, impasse",
+    "level": "TEM-8",
+    "target_word": "mire",
+    "question": "Sunk deep in a ___ of bureaucratic inertia and protracted litigation, the municipal infrastructure initiative has remained virtually paralyzed for over a decade, squandering millions in allocated public subsidies.",
+    "options": [
+      "predicament",
+      "mire",
+      "pinch",
+      "impasse"
+    ],
+    "answer": "mire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic and metaphorical anchor: 'Sunk deep in a ___ of [bureaucratic inertia...]'. 'Mire' denotes a marshy swamp or morass into which an entity sinks, uniquely licensing the physical-to-figurative sinking metaphor followed by an abstract source of entrapment.",
+    "distractor_analysis": {
+      "predicament": "干扰项。predicament强调主观认知上的“两难困局”或主体的“尴尬境遇”，其句法语义网不支持与表具象物理下沉意象的“sunk deep in”发生隐喻搭配，亦不能后接“of bureaucratic inertia”来充当困顿介质。",
+      "mire": "正确项。mire兼具物理“泥潭、烂泥地”与比喻“令人泥足深陷的混乱/拖沓状态”双重语义。句中“Sunk deep in a mire of...”构成了极具辨识度的隐喻投射，后接官僚惰性与诉讼纠纷等使事务停滞缠滞的抽象名词，语法搭配与文体色彩浑然天成。",
+      "pinch": "干扰项。pinch在搭配“a pinch of”时表微量（如一撮盐），在表示困顿时仅用于“feel the pinch”等特定成语中，绝无“sunk deep in a pinch of...”的用法，搭配严重断裂。",
+      "impasse": "干扰项。impasse是表示“死胡同、绝境”的点状概念，通常与介词at连用（如at an impasse）或作动词宾语（reach an impasse），在空间意象上属于“阻隔的道路”，而非可以使事物“沉陷其中（sunk deep in）”的流体泥沼介质。"
+    },
+    "translation": "深陷官僚主义拖沓与旷日持久诉讼的泥潭，该市政基础设施建设项目已近乎瘫痪了十余年，白白浪费了数以百万计的专项财政补贴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_13",
+    "group_id": 647,
+    "group_name": "pressing, forte, turnout, wreckage",
+    "level": "TEM-8",
+    "target_word": "pressing",
+    "question": "Textual scholars and archivists discovered that a rare vinyl ___ of the philosopher's 1948 lecture preserved subtle intonations and semantic nuances that were completely obscured in subsequent transcribed anthologies.",
+    "options": [
+      "pressing",
+      "forte",
+      "turnout",
+      "wreckage"
+    ],
+    "answer": "pressing",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocational anchor 'vinyl ___ of the ... lecture' paired with the academic context of audio/archival preservation.",
+    "distractor_analysis": {
+      "pressing": "正确。pressing 作名词时特指通过模具冲压制成的塑料或金属制品，尤指唱片的一次‘压制版本’或‘唱片冲压物’（a metal or plastic part made by a mechanical press, especially a phonograph record）。与修饰语 rare vinyl 构成高度专业化的固定文献/音响学搭配（vinyl pressing），在此语境中准确指代哲学家讲座的珍贵黑胶压制唱片。",
+      "forte": "错误。forte 指个人的特长或强项（one's strong suit / specialty），属于抽象能力名词，无法与物质材料修饰语 vinyl（黑胶材质）搭配，与讲座媒介语境严重脱节。",
+      "turnout": "错误。turnout 多指集会出席人数、投票率（attendance / voter turnout）或机械产出量，无法用于指代具体的物理录音唱片制品，造成范畴错位（category mistake）。",
+      "wreckage": "错误。wreckage 指失事残骸、毁灭后的残余物（debris of a wreck）。虽然在物理上有可能存在残骸，但句中定语从句明确提到该物体‘完好保留了细微语调与语义层次’（preserved subtle intonations...），残骸断简不可能具备高保真原音回溯功能，形成逻辑矛盾与语义断裂。"
+    },
+    "translation": "文献学者与档案研究人员发现，这位哲学家1948年讲座的一张罕见黑胶压制唱片保留了微妙的语调与语义层次，而这些细节在随后的文字转录选集中被完全掩盖了。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_14",
+    "group_id": 647,
+    "group_name": "pressing, forte, turnout, wreckage",
+    "level": "TEM-8",
+    "target_word": "forte",
+    "question": "Although rigorous econometric modeling was never the historian's true ___, his nuanced conceptual frameworks and archival erudition profoundly transformed contemporary understanding of early modern institutional governance.",
+    "options": [
+      "pressing",
+      "forte",
+      "turnout",
+      "wreckage"
+    ],
+    "answer": "forte",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and idiomatic anchor 'was never the historian's true ___', predicated of a scholarly methodology ('rigorous econometric modeling') contrasted with intellectual talents.",
+    "distractor_analysis": {
+      "forte": "正确。forte 指某人在某领域所擅长的特长、专长（something in which one excels; a strong point）。句式 '(not) one's true forte'（绝非某人的真正专长）是学术评论与思想史批评中的高频经典搭配，完美呼应前半句让步状语中对计量经济建模技能的评价，并与后半句展现的‘概念框架与文献博学’构成鲜明的学术素养对比。",
+      "pressing": "错误。pressing 作为名词指冲压成型件或唱片压制，不能用于比喻个人的学术专长或智识能力；若误视作形容词，其在句中充当表语且由所有格定语 the historian's true 修饰，产生严重句法破损与词义不通。",
+      "turnout": "错误。turnout 指群体出席人数或产出率，与表示学者个人学术强项的语境全无关联，'the historian's true turnout' 属于无意义搭配。",
+      "wreckage": "错误。wreckage 指残骸、毁灭性破坏后的遗迹，置于此处既无法与 'intellectual skill' 对应，亦违背学术传记写作的褒义与严谨风格，导致语义荒谬。"
+    },
+    "translation": "尽管严密的计量经济学建模绝非这位历史学家的真正专长，但他那细致入微的概念框架与深厚的文献学识，却深刻地改变了当代学界对早期现代制度治理的理解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_15",
+    "group_id": 648,
+    "group_name": "projection, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "projection",
+    "question": "The defense ministry's strategic review concluded that developing aircraft carriers was primarily aimed at forward power ___, enabling rapid diplomatic coercion across maritime periphery zones rather than permanent territorial occupation.",
+    "options": [
+      "projection",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "projection",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive collocation 'forward power ___' coupled with 'enabling rapid diplomatic coercion across maritime periphery zones', which designates the standard geopolitical term 'power projection' (军事力量投射).",
+    "distractor_analysis": {
+      "projection": "正确。'power projection'（力量投射/武力投射）是地缘政治、国际关系及战略防务领域的经典专业搭配，特指国家将其军事力量延伸部署到本土之外以施加政治威慑或外交强制的能力，与后文的'forward'、'diplomatic coercion'和'maritime periphery zones'高度契合。",
+      "hull": "错误。'hull'指船体或舰体外壳，'power hull'为生造搭配，语义不通，无法充当实现外交威慑的抽象战略手段。",
+      "mound": "错误。'mound'指土丘、土堆或堆积物，与'power'无法搭配，置于国防战略语境中存在严重的语义断裂。",
+      "hangar": "错误。'hangar'指飞机库，属于停放舰载机或飞行器的具体实体设施，'power hangar'不存在此搭配，无法表达地缘威慑与投送力量的抽象战略内涵。"
+    },
+    "translation": "国防部的战略评估报告总结道，发展航空母舰的主要目的在于实施前沿力量投射，从而在周边海洋区域快速开展外交威慑，而非进行长期的领土占领。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_16",
+    "group_id": 648,
+    "group_name": "projection, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "hull",
+    "question": "Under revised maritime safety conventions, international regulators mandated a double ___ for crude carriers, ensuring that outer punctures during low-velocity groundings would not breach the inner cargo tanks.",
+    "options": [
+      "projection",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "hull",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The nautical regulatory compound 'double ___ for crude carriers' combined with 'outer punctures during low-velocity groundings' and 'inner cargo tanks', strictly demanding the maritime engineering term 'double hull' (双层船体).",
+    "distractor_analysis": {
+      "hull": "正确。'double hull'（双层船体/双壳体）是国际海事公约（如MARPOL）中针对大型油轮（crude carriers）的法定强制标准，特指具有内外两层壳体的船体构造，旨在防止船舶搁浅（groundings）或碰撞时发生货油舱破裂泄漏。",
+      "projection": "错误。'projection'作名词指凸出物、预测或投射，'double projection'在船舶工程与海事安全规范中无此类固定术语，无法包覆'cargo tanks'以防穿孔泄漏。",
+      "mound": "错误。'mound'指土墩、土垄，属地形或考古范畴词汇，与船舶结构完全脱节。",
+      "hangar": "错误。'hangar'专指飞机库；句中的'crude carriers'是指原油运输船（油轮）而非航空母舰（aircraft carriers），油轮不存在飞机库，'double hangar'在此语境下纯属事实与搭配谬误。"
+    },
+    "translation": "根据修订后的国际海上安全公约，国际监管机构要求所有原油运输船必须配备双层船体，以确保在发生低速搁浅而造成外壳破损时，不至于破坏内部货油舱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_17",
+    "group_id": 649,
+    "group_name": "quicksand, impasse, deadlock, stalemate",
+    "level": "TEM-8",
+    "target_word": "quicksand",
+    "question": "Lured by specious dogmas, the philosophers found themselves sinking inexorably into a cognitive ___, where every desperate attempt to rationalize their contradictions only accelerated their intellectual entrapment.",
+    "options": [
+      "quicksand",
+      "impasse",
+      "deadlock",
+      "stalemate"
+    ],
+    "answer": "quicksand",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation with the directional verbal construction 'sinking inexorably into a...' and the subsequent clause 'where every desperate attempt to rationalize... only accelerated their intellectual entrapment', which explicitly captures the distinctive physical-metaphorical dynamic of quicksand (where struggling causes the victim to sink faster and deeper).",
+    "distractor_analysis": {
+      "quicksand": "正确。quicksand 本义为“流沙”，引申为“使人越陷越深且极难自拔的危险陷阱/吞噬性困境”（MW: a treacherous situation that tends to entrap and destroy）。句中的动词搭配“sinking inexorably into a cognitive ___”（不可遏制地下沉陷入某种认知陷阱）以及后文“every desperate attempt to rationalize... only accelerated their intellectual entrapment”（每一次拼命合理化的企图都只会加速其在思想上的泥足深陷）构成了无可争议的排他性锚点。流沙特有的物理隐喻正是“越挣扎沉沦得越快”，与语境完美贴合。",
+      "impasse": "错误。impasse 意为“僵局、绝境”，其本义为死胡同（cul-de-sac），强调前进道路受阻而陷入停滞，常与动词 reach, break, resolve 等搭配，不能与强调垂直下陷、吞噬动态的动词短语“sink into”连用；且 impasse 不具备“越挣扎陷得越深”的物理陷阱特征。",
+      "deadlock": "错误。deadlock 指“相持不下的僵局”，特指势均力敌的双方或多方互不相让导致的运动停止。此处主语为面对理论矛盾的哲学家群体自身，不存在对立双方的拉锯对抗；且 deadlock 无法与“sink inexorably into”搭配，缺乏流沙般的吞噬隐喻。",
+      "stalemate": "错误。stalemate 源自国际象棋术语“逼和”，指竞争双方任何一方均无法做出有效行动的僵局状态。它必须存在对抗性的博弈主体，不能与“sinking into”连用，更无法与句中“越试图辩解就越加速陷落”的动态语义相容。"
+    },
+    "translation": "哲学家们受到似是而非的教条诱惑，发现自己不可逆转地深陷认知的流沙之中；他们试图自圆其说的每一次拼命挣扎，都只会加速自己在思想上的泥足深陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_18",
+    "group_id": 649,
+    "group_name": "quicksand, impasse, deadlock, stalemate",
+    "level": "TEM-8",
+    "target_word": "impasse",
+    "question": "When formal logic proved incapable of resolving the liar paradox from within its own axioms, the inquiry reached an epistemological ___, an insurmountable dead end that necessitated an entirely new metamathematical language.",
+    "options": [
+      "quicksand",
+      "impasse",
+      "deadlock",
+      "stalemate"
+    ],
+    "answer": "impasse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation with 'reached an epistemological ___' combined with the appositive gloss 'an insurmountable dead end', which directly mirrors the etymological and lexicographical definition of impasse (French for cul-de-sac / blind alley). Unlike deadlock or stalemate, impasse specifically applies to intellectual, analytical, or theoretical inquiries blocked by inherent paradoxes rather than by competing adversarial factions.",
+    "distractor_analysis": {
+      "impasse": "正确。impasse 意为“僵局、死胡同”，源自法语 cul-de-sac（盲端、死胡同）。在《韦氏同义词词典》与高阶学术英语中，impasse 的一个典型专业用法即指单方学术探究、哲学思考或理论学科因内在悖论或方法论穷尽而走入死胡同（如 an intellectual/epistemological impasse）。句中同位语“an insurmountable dead end”（无法逾越的死胡同）对空格进行了精确的释义限定，与 reached an epistemological impasse 构成严密的学术逻辑搭配。",
+      "quicksand": "错误。quicksand 意指具有诱骗性、让人越陷越深的流沙泥潭，侧重自毁与深陷的动态吞噬过程，而非道路被阻断的静态“死胡同（dead end）”。用来修饰学术探究的逻辑阻滞属于隐喻错配。",
+      "deadlock": "错误。deadlock（僵局、相持）严格要求存在“势均力敌、毫不妥协的对立双方或派系”（MW: the opposition of equally powerful uncompromising persons or factions），如议会拉锯或劳资谈判。句中主语为抽象单一的学术探究（the inquiry），并无对立阵营互相钳制，且 deadlock 并非空间路径上的“死胡同（dead end）”，属于概念混淆。",
+      "stalemate": "错误。stalemate 源自棋类博弈，必然涉及对立的双边或多边竞争者（competing parties）。纯粹的形式逻辑研究与数学公理思辨不具备交战博弈性质，无法构成 stalemate；同时该词亦不呼应 appositive 中 dead end 的道路端点隐喻。"
+    },
+    "translation": "当形式逻辑被证明无法从其自身公理内部解决说谎者悖论时，这项探究便陷入了认识论上的死胡同，这一无法逾越的绝境迫使其必须创立一种全新的元数学语言。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_19",
+    "group_id": 650,
+    "group_name": "racer, sedan, hardtop, hatchback",
+    "level": "TEM-8",
+    "target_word": "racer",
+    "question": "Automotive theorists argue that stripping the prototype of passenger amenities transformed the vehicle from a conventional family conveyance into a purpose-built ___, engineered exclusively to master aerodynamic drag on competitive circuits.",
+    "options": [
+      "racer",
+      "sedan",
+      "hardtop",
+      "hatchback"
+    ],
+    "answer": "racer",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The modifier 'purpose-built' combined with the terminal clause 'engineered exclusively to master aerodynamic drag on competitive circuits' and the deprivation of 'passenger amenities' forms a decisive collocational and semantic anchor that strictly requires a competition vehicle.",
+    "distractor_analysis": {
+      "racer": "正确。racer在此处指专门为速度竞赛设计的高性能赛车。句中'purpose-built racer'（特制专用赛车）为汽车工程与体育运动领域的经典固定搭配，且后文'stripping ... of passenger amenities'（剥离乘员便利配置）与'engineered exclusively ... on competitive circuits'（专为竞速赛道设计）在语义和语域上均形成了绝对吻合的闭环。",
+      "sedan": "错误。sedan指传统的四门三厢'轿车'，以舒适的载客空间和日常家用/商务通勤为核心功能，与句中'剥除乘客便利设施'并'专为赛道竞速设计'的极端改装性质产生根本性的语义冲突。",
+      "hardtop": "错误。hardtop指'硬顶车'（尤指无B柱或车窗无框的硬顶轿跑造型），属于乘用车车身顶棚的设计风格范畴，既不指代竞速赛车实体，也无法与'purpose-built ... on competitive circuits'形成专指搭配。",
+      "hatchback": "错误。hatchback指'掀背式紧凑型两厢车'，强调后排空间与行李厢一体化联通的实用多功能性（utilitarian versatility），与追求极限下压力和速度的专用赛道赛车语义完全相反。"
+    },
+    "translation": "汽车理论学者指出，剥离原型车的所有乘员便利配置，使该车从一款常规的家庭代步工具蜕变为一辆专用赛车，专为征服竞速赛道上的空气阻力而设计。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b64_20",
+    "group_id": 650,
+    "group_name": "racer, sedan, hardtop, hatchback",
+    "level": "TEM-8",
+    "target_word": "sedan",
+    "question": "Sociological surveys reveal that corporate executives perceive the conventional three-box ___ as an enduring symbol of professional decorum, prioritizing its compartmentalized trunk and formal silhouette over sportier or utilitarian alternatives.",
+    "options": [
+      "racer",
+      "sedan",
+      "hardtop",
+      "hatchback"
+    ],
+    "answer": "sedan",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The technical collocator 'three-box' along with 'compartmentalized trunk' and 'formal silhouette' serves as a definitive design classification anchor, uniquely denoting a traditional notchback sedan.",
+    "distractor_analysis": {
+      "sedan": "正确。sedan（标准轿车）在工业设计与汽车认知分类中以'three-box configuration'（三厢结构：发动机舱、乘员舱、行李舱完全隔离）为本质属性。'three-box sedan'为行业与学术界权威搭配，完美契合后文'compartmentalized trunk'（完全独立的行李舱）与商务行政所注重的'formal silhouette'（沉稳庄重的车身轮廓）。",
+      "racer": "错误。racer意为'赛车'，属于运动竞速载具，本身与'corporate executives'（企业高管）、'professional decorum'（职场礼仪与端庄感）无涉，更与句末'over sportier ... alternatives'（优先于更具运动感的替代车型）形成直接的自相矛盾。",
+      "hardtop": "错误。hardtop指'硬顶乘用车'，其概念焦点在于车顶构造与侧窗柱设计（无中柱固定顶），并非三厢轿车这一基础车身几何形态的规范代名词，亦不能构成汽车分类学中专指商务稳重风格的'conventional three-box'固定称谓。",
+      "hatchback": "错误。hatchback指'掀背车'，在技术架构上属于典型的'two-box'（两厢结构），其后备箱与后排乘员舱完全贯通，与题干中具有决定性排他作用的'three-box'（三厢式）及'compartmentalized trunk'（物理隔离的独立行李舱）存在不可调和的技术定义冲突。"
+    },
+    "translation": "社会学调查表明，企业高管将传统的三厢轿车视为职业稳重形象的持久象征，相较于更具运动感或实用性的替代车型，他们更看重其独立的行李舱设计与庄重的车身轮廓。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

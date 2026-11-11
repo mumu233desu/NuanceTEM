@@ -6,12 +6,12 @@
   "clusters": [
     {
       "group_id": 731,
-      "group_name": "bemoan, nag, bitch, croak",
+      "group_name": "bemoan, nag, carp, croak",
       "target_word": "bemoan",
       "words": [
         "bemoan",
         "nag",
-        "bitch",
+        "carp",
         "croak"
       ],
       "pos": "v",
@@ -42,19 +42,19 @@
     },
     {
       "group_id": 733,
-      "group_name": "bitch, gripe, squawk, crab",
-      "target_word": "bitch",
+      "group_name": "gripe, carp, squawk, crab",
+      "target_word": "gripe",
       "words": [
-        "bitch",
         "gripe",
+        "carp",
         "squawk",
         "crab"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
       "primary_mechanism": "MECH_NUANCE",
-      "theme_label": "bitch 与近义词辨析",
-      "synset_definition": "complain",
+      "theme_label": "gripe 与近义词辨析",
+      "synset_definition": "complain persistently or petulantly",
       "t8_count": 3,
       "cas_score": 88
     },

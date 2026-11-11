@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b71_01",
+    "group_id": 711,
+    "group_name": "anguish, lose, grieve, sorrow",
+    "level": "TEM-8",
+    "target_word": "anguish",
+    "question": "Confronted with an acute shortage of intensive care beds during the outbreak, the triage committee continued to ___ over whether to prioritize younger patients or those with higher baseline survival probabilities.",
+    "options": [
+      "anguish",
+      "lose",
+      "grieve",
+      "sorrow"
+    ],
+    "answer": "anguish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法框架 '___ over whether to prioritize...' 明确要求谓语动词既能与介词 over 搭配，又能支配表示前瞻性两难权衡的疑问不定式从句。四个选项中，grieve 与 sorrow 仅用于对已发生的死难或既成事实的悲悼，不能接 whether to 引导的前瞻决策从句；lose 句法不通；唯有 anguish 构成认知决策语域中的核心搭配 'anguish over whether to...'，表示在伦理困境中备受煎熬地权衡抉择。",
+    "distractor_analysis": {
+      "anguish": "正确。不及物动词，指在面临残酷伦理困局或重大决定时“极度苦恼、备受煎熬、焦虑权衡”，与介词短语 'over whether to...' 构成权威学术政论与医学伦理语域中的经典认知搭配。",
+      "lose": "错误。及物/不及物动词，意为“丢失、失去”，后接 'over whether to...' 属于严重句法破裂，无法表达心智层面的权衡或痛苦。",
+      "grieve": "错误。动词，意为“（因死亡、伤痛或不幸事故而）哀痛、悲伤”，其语义指向已成事实的丧失（如 grieve over a loss/death），不能接表示未知、前瞻性伦理抉择的 'whether to' 从句，逻辑与搭配均不成立。",
+      "sorrow": "错误。动词（多为文学或旧式用法），意为“感到悲痛、惋惜”，属于对不幸境遇的被动情感反应，不可支配表示主动两难权衡的间接疑问从句 'over whether to...'。"
+    },
+    "translation": "面对疫情期间重症监护床位的严重短缺，检伤分类委员会始终在痛苦煎熬中艰难权衡，究竟是应当优先考虑较年轻的患者，还是救治基础存活概率更高的患者。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_02",
+    "group_id": 711,
+    "group_name": "anguish, lose, grieve, sorrow",
+    "level": "TEM-8",
+    "target_word": "anguish",
+    "question": "A notoriously meticulous translator of modernist verse, he would ___ over every elusive nuance, adamantly refusing to sacrifice conceptual precision for the sake of mere metrical convenience.",
+    "options": [
+      "anguish",
+      "lose",
+      "grieve",
+      "sorrow"
+    ],
+    "answer": "anguish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于认知搭配 '___ over every elusive nuance' 以及后文的逻辑照应 'refusing to sacrifice conceptual precision'。该语境描绘学者/译者在艺术创作与语言转换中心智高度紧绷的“反复推敲、煞费苦心”。grieve 和 sorrow 仅用于对丧亡或灾难的哀悼，不能搭配文本中的微观语义细节（nuance）；lose 语义与语法皆不通；仅 anguish over 可以引申指在智力与审美创作中备受折磨地反复字斟句酌。",
+    "distractor_analysis": {
+      "anguish": "正确。此处取其引申认知义，指在创作或翻译中“苦思冥想、煞费苦心地反复推敲”，'anguish over every nuance/detail' 是文学批评与学术写作中表现极度严谨与心力煎熬的标准搭配。",
+      "lose": "错误。动词，意为“丢失、失败”，与 'over every elusive nuance' 无法产生合乎逻辑的认知关联，语法搭配完全失序。",
+      "grieve": "错误。动词，核心义范畴为丧亲之痛或悲剧悼念，语义指向不幸与丧失，绝不能以无生命的抽象词汇 'nuance'（细微差别）作为反思与情感对象，存在严重的语义选择限制冲突。",
+      "sorrow": "错误。动词，通常表示因遭遇不幸而悲伤，属于古雅或被动的悲悼词汇，无法传达译者主动推敲文字时字斟句酌的智力专注与焦虑折磨。"
+    },
+    "translation": "作为一位对现代主义诗歌出了名一丝不苟的翻译家，他对每一个难以捉摸的细微语意都会反复推敲、煞费苦心，坚决拒绝为了迁就纯粹的韵律便利而牺牲概念的精确性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_03",
+    "group_id": 712,
+    "group_name": "annihilate, decimate, eliminate, eradicate",
+    "level": "TEM-8",
+    "target_word": "annihilate",
+    "question": "Quantum electrodynamics establishes that whenever an electron collides with its corresponding antiparticle, the two entities will instantaneously ___ each other, converting their combined rest mass entirely into high-energy gamma-ray photons.",
+    "options": [
+      "annihilate",
+      "decimate",
+      "eliminate",
+      "eradicate"
+    ],
+    "answer": "annihilate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_PHYSICAL_SCIENCE",
+    "anchor_clue": "句中的主语环境“an electron collides with its corresponding antiparticle（正负电子碰撞）”、相互代词“each other”以及伴随结果状语“converting their combined rest mass entirely into high-energy gamma-ray photons（将其全部静止质量完全转化为高能伽马射线光子）”构成了不可动摇的专业学术锚点。在量子电动力学与高能物理学中，正反物质粒子碰撞并完全转化为辐射能量的物理过程具有排他性的固定科学术语——“pair annihilation（电子对湮灭）”或“particles annihilate each other（粒子相互湮灭）”。",
+    "distractor_analysis": {
+      "annihilate": "正确。annihilate 在理论物理与粒子物理学中为专有核心术语（technical term），严格定义为“（物质与反物质粒子碰撞时）完全转化/湮灭为辐射能量（to convert particle and antiparticle mass completely into radiant energy）”。后文的“converting combined rest mass into photons”是对该物理过程的精确表述，词汇、语体与科学语境完全契合。",
+      "decimate": "错误。decimate 核心语义为“成批杀死、大比例损毁（摧毁其中很大一部分，历史上指什一杀）”，要求其受词必须是包含大量个体的群体、种群或集合名词（如 decimate a population / an army）。本句宾语为仅代表两个单体粒子的“each other”，且反应结果是质量100%完全转化为能量，在数量逻辑和科学事实上均与 decimate 产生严重冲突。",
+      "eliminate": "错误。eliminate 意为“剔除、淘汰、在选拔或运算中消除”，在互惠结构“eliminate each other”中通常局限于淘汰制体育比赛（如选手相互淘汰出局）或代数方程（消元）。在现代高能物理语境中，粒子转变为场量辐射绝非行政或操作层面的“剔除/消灭”，使用 eliminate 属于严重的学术搭配与术语破格（terminological violation）。",
+      "eradicate": "错误。eradicate 源自拉丁语 radix（根），本义为“连根拔起”，在学术英文中具有强烈的负面语义韵（negative semantic prosody），专门用于消除疾病、社会顽疾、贫困或害虫（如 eradicate smallpox / malaria / illiteracy）。它完全无法用于微观物理粒子的相互作用或相互湮灭。"
+    },
+    "translation": "量子电动力学表明，每当一个电子与其对应的反粒子发生碰撞时，这两个实体都会瞬间相互湮灭，并将其全部结合静止质量完全转化为高能伽马射线光子。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_04",
+    "group_id": 712,
+    "group_name": "annihilate, decimate, eliminate, eradicate",
+    "level": "TEM-8",
+    "target_word": "decimate",
+    "question": "The neurodegenerative pathogen did not entirely extinguish cortical function, but it did ___ the brain's population of cholinergic neurons, sparing only a resilient fraction to sustain basic autonomic processes.",
+    "options": [
+      "annihilate",
+      "decimate",
+      "eliminate",
+      "eradicate"
+    ],
+    "answer": "decimate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首转折结构“did not entirely extinguish（未完全熄灭）”与句末分词短语“sparing only a resilient fraction to sustain basic autonomic processes（仅留下一小部分具有韧性的神经元以维持基本自主功能）”构成核心排他逻辑。decimate 核心义为“大面积摧残、毁灭……的大部分”，强调严重受损但仍有部分残存；其与生物学中的细胞/神经元种群（population of neurons）搭配最为地道严谨。",
+    "distractor_analysis": {
+      "decimate": "正确。decimate 源自古罗马军纪“什一抽杀”，现代学术用法专指生物种群、系统或机构“遭到大批杀戮、大面积严重损毁（to destroy a considerable part of）”，其核心特征是“破坏极大但未归零”。本句中“未完全熄灭”和“仅保留极少一部分幸存者”的语境，唯一契合 decimate 的语义与搭配特征。",
+      "annihilate": "错误。annihilate 强调“全歼、彻底毁灭至荡然无存（reduce to nothing）”，属于绝对意义上的彻底终结。若将其代入，与前半句“did not entirely extinguish”及后半句“sparing only a resilient fraction”构成不可调和的逻辑矛盾。",
+      "eliminate": "错误。eliminate 表示“彻底除去、淘汰”，若宾语为“种群（population）”，则意味着该种群被整体清空，无法自然容纳“sparing only a fraction（仅留下少数）”的存续语境；同时，eliminate 侧重程序性排除，无法描绘神经病原体对脑细胞实施灾难性破坏的病理学生态学质感。",
+      "eradicate": "错误。eradicate 专指“根除、铲除（有害事物）”，其典型宾语多为病原体本身（如 eradicate the pathogen）或社会弊端，而非宿主体内维系生理运转的正常组织与细胞群（cholinergic neurons）；将其施加于健康神经元，会引发语用色彩逆转的严重失误。"
+    },
+    "translation": "这种神经退行性病原体并未完全熄灭大脑皮层的功能，但它确实严重摧残了大批胆碱能神经元，仅留下具有韧性的一小部分以维持基本的自主神经功能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_05",
+    "group_id": 713,
+    "group_name": "apparel, unwind, burn, thin",
+    "level": "TEM-8",
+    "target_word": "apparel",
+    "question": "In his seminal treatise on philosophical aesthetics, the author endeavors to ___ abstract metaphysical concepts in luminous allegorical prose, thereby making arcane epistemological debates accessible to a broader audience.",
+    "options": [
+      "apparel",
+      "unwind",
+      "burn",
+      "thin"
+    ],
+    "answer": "apparel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and stylistic frame is 'endeavors to ___ abstract metaphysical concepts in luminous allegorical prose', requiring a transitive verb meaning to figuratively clothe or invest an intellectual construct in rhetorical guise (apparel... in...).",
+    "distractor_analysis": {
+      "apparel": "正确。apparel 在此用作高级文体及修辞语境中的及物动词，意为“给……穿上衣服；以……修饰、装点、赋予外在形式”（Merriam-Webster: to adorn, embellish; clothe）。在哲学与认知修辞中，“apparel abstract concepts in luminous allegorical prose”（用明晰透彻的寓言式散文包被/修饰抽象概念）为极其地道典雅的搭配，完美呼应后文使其通俗化的逻辑。",
+      "unwind": "错误。unwind 作及物动词时意为“解开、拆解（复杂机制/金融头寸）”，作不及物动词时意为“放松”，无法与介词短语“in luminous allegorical prose”搭配来表示用文字表达或披覆思想，语义与句法均不成立。",
+      "burn": "错误。burn 意为“燃烧、销毁”，置于此句表示在散文中烧掉形而上学概念，不仅造成荒谬的语义破裂，更与后半句“making arcane epistemological debates accessible”（使晦涩争鸣易于理解）的目的完全对立。",
+      "thin": "错误。thin 作动词表示“使稀薄、稀释”，无法与“in luminous allegorical prose”构成表示“以某种修辞外衣表现概念”的搭配；学术写作中阐发抽象理论不是将其“稀释在散文中”。"
+    },
+    "translation": "在其关于哲学美学的开创性论著中，作者试图用明晰生动的寓言式散文来包装抽象的形而上学概念，从而使深奥的认识论争辩为更广泛的受众所理解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_06",
+    "group_id": 713,
+    "group_name": "apparel, unwind, burn, thin",
+    "level": "TEM-8",
+    "target_word": "unwind",
+    "question": "Researchers in cognitive ergonomics maintain that prolonged analytical tasks require mandatory intervals of mental rest, enabling overstimulated neural faculties to gradually ___ and restore optimal executive functioning.",
+    "options": [
+      "apparel",
+      "unwind",
+      "burn",
+      "thin"
+    ],
+    "answer": "unwind",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The blank requires an intransitive verb denoting mental/neural relief from tension ('enabling overstimulated neural faculties to gradually ___ and restore optimal executive functioning'), where unwind specifically means to become free from cognitive or nervous strain.",
+    "distractor_analysis": {
+      "apparel": "错误。apparel 是纯及物动词（意为“给……穿衣；装饰”），在此处缺少直接宾语，直接导致句法结构断裂（syntactic violation）。",
+      "unwind": "正确。unwind 在此用作不及物动词，表示“（过度紧张的神经或机能）放松、缓解紧绷状态、恢复松弛”（Merriam-Webster: to become free from tension : relax）。与前文“mental rest”及后文“restore optimal executive functioning”构成天衣无缝的认知恢复机制链条。",
+      "burn": "错误。burn 作不及物动词表示“燃烧、发热”，在认知与心理学中与过度疲劳（burnout）相关，若指机能“燃烧”，与通过休息“恢复执行功能”的语境语义完全相悖（反向干扰）。",
+      "thin": "错误。thin 作不及物动词表示“变稀少、衰退”，若过度兴奋的神经机能“变稀薄/减弱”，并不等于放松和恢复平衡，反而暗示认知功能退化，逻辑失衡。"
+    },
+    "translation": "认知人类工效学研究人员认为，长时间的分析任务需要强制性的心理休息间隔，以便让过度兴奋的神经机能逐渐放松下来，从而恢复最佳的执行功能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_07",
+    "group_id": 714,
+    "group_name": "append, tether, tag, nail",
+    "level": "TEM-8",
+    "target_word": "append",
+    "question": "Before submitting the exhaustive monograph to the university press, the lead historian felt compelled to ___ a brief methodological addendum to the final chapter to address newly declassified archival evidence.",
+    "options": [
+      "append",
+      "tether",
+      "tag",
+      "nail"
+    ],
+    "answer": "append",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中直接宾语为“a brief methodological addendum”（简短的方法论附录），且后接介词短语“to the final chapter”。在正式的学术出版与文献编纂语域中，专门表示“在正文或书卷末尾增补、附加（附录、批注、补遗）”的动词唯有“append ... to ...”。其余选项均存在严重的搭配断裂或语域失范。",
+    "distractor_analysis": {
+      "append": "正确。Merriam-Webster定义为“to add as a supplement or appendix; to add as something extra”。在学术著述与认知文献语境中，与“addendum/appendix/supplement to a document”构成高度固化的专业搭配，准确传达在全书终章追加方法论补充说明的动作。",
+      "tether": "错误。本义指“用绳拴住”，在认知与经济学隐喻中表示“将……紧密约束或锚定于某一基准”（如 tether policy to an anchor）。无法接“addendum”作宾语，不能用于文本附录的增补动作。",
+      "tag": "错误。作动词多指“贴标签、加注元数据标记”或口语化的“跟随”。其语域偏向日常分类或数字数据标记，置于严谨的大学出版社学术专著语境中显属语体错配，且无法表达“撰写增补附录”的实质行为。",
+      "nail": "错误。本义为“用钉子钉牢”，引申为“抓住、证实”或构成固定搭配“nail down”（敲定、查明）。用于增补学术文本完全不通，且语域粗俗口语化，存在严重语义与文体排斥。"
+    },
+    "translation": "在将这部详尽的学术专著提交给大学出版社之前，首席历史学家深感有必要在最后一章后增补一份简短的方法论附录，以回应最新解密的档案证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_08",
+    "group_id": 714,
+    "group_name": "append, tether, tag, nail",
+    "level": "TEM-8",
+    "target_word": "tether",
+    "question": "Epistemologists argue that even the most abstract philosophical theories must ultimately ___ their speculative claims to observable empirical phenomena, lest they collapse into ungrounded metaphysics and solipsistic conjecture.",
+    "options": [
+      "append",
+      "tether",
+      "tag",
+      "nail"
+    ],
+    "answer": "tether",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中宾语为“their speculative claims”（推测性主张），后接介词短语“to observable empirical phenomena”（可观察的经验现象），后文的“lest they collapse into ungrounded metaphysics”（以免沦为无根基的形而上学）提供了决定性的认知逻辑锁扣。此处需要一个表达“将抽象理论像系绳一样紧紧绑定、锚定于经验现实以防脱轨漂移”的比喻义动词，唯有“tether ... to ...”契合该哲学认知隐喻。",
+    "distractor_analysis": {
+      "append": "错误。核心义为“在文档或物体末尾添加附件/附录”。哲学论点与经验现象之间是依赖、约束与验证的本体论关系，绝非文书末尾“附加/增补”的线性从属关系，语义严重逻辑不通。",
+      "tether": "正确。本义为“拴系、系缚”，在哲学认识论与高阶认知学术语境中广泛用作隐喻，表示“使（抽象思想、概念、理论模型）受制于并紧密锚定在（经验事实、现实基准）之上”，与后文“防止脱离根基（ungrounded）”形成极其严密的修辞与因果闭环。",
+      "tag": "错误。指“给……打标签、标识分类”。给抽象主张贴上经验标签无法建立深层的验证与约束逻辑，不能防止理论滑向“无根基的形而上学”。",
+      "nail": "错误。物理意为“钉牢”，口语隐喻多为“nail down”（敲定论点）。“nail X to Y”在此处会产生生硬的物理钉刺错觉，缺乏“系留、约束以防漂移”的哲学意象，在认识论语域中不符合惯用法。"
+    },
+    "translation": "认识论学者认为，即便最抽象的哲学理论最终也必须将其思辨性主张锚定在可观察的经验现象之上，以免其沦为无根的形而上学与唯我论式的臆测。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_09",
+    "group_id": 715,
+    "group_name": "appraise, value, assess, measure",
+    "level": "TEM-8",
+    "target_word": "appraise",
+    "question": "While fiscal authorities sought to assess statutory taxes on the estate, an independent connoisseur was summoned to ___ the rare illuminated manuscripts, evaluating their provenance and preservation to determine an auction reserve.",
+    "options": [
+      "appraise",
+      "value",
+      "assess",
+      "measure"
+    ],
+    "answer": "appraise",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_CULTURE",
+    "anchor_clue": "句中前半句让步从句已明确使用了动词'assess'（'sought to assess statutory taxes'），修辞与平行结构直接排除了后半句再用assess的拙劣冗余；同时后半句由'independent connoisseur'（独立鉴赏家/行家）担任施动主语，宾语为'rare illuminated manuscripts'（珍稀泥金手抄本），后接'evaluating their provenance and preservation to determine an auction reserve'。appraise在此具有无可争议的行业专属性：指由行家对艺术品/文物的真伪、品相及市场估值进行权威鉴识与评定（MW: to give an expert judgment of the value or merit of）；而value无法体现行家对文物真伪品相的专业鉴识过程；measure仅指用尺子测量物理尺寸，荒谬不通。",
+    "distractor_analysis": {
+      "appraise": "【正确】及物动词，韦氏词典核心释义为'to give an expert judgment of the value or merit of'（尤指由专业行家或评估师对艺术品、藏品的价值与优劣进行权威评估与鉴识）。句中行家（connoisseur）对珍稀手抄本的鉴赏评估与拍卖底价确定，完美契合appraise的典雅文体与专业内涵。",
+      "value": "【错误】及物动词，侧重单纯从金钱数值上标定身价或珍惜崇尚（to prize or estimate the monetary worth of），缺乏appraise所独具的专业行家对艺术品历史渊源（provenance）、品相（preservation）及文献价值进行全面审鉴的鉴赏性内涵。",
+      "assess": "【错误】及物动词，句首让步状语中税务机关依法征税已使用了'assess statutory taxes'，若在此处再次使用assess，既违背了英语句式多样性，且assess主要针对税费、风险、损失或抽象资质，对艺术古籍由鉴定家所作的市场定损估价并不采用assess。",
+      "measure": "【错误】及物动词，指物理尺寸、长度或数量的度量（to ascertain the dimensions, quantity, or capacity of），若用于古籍手抄本仅表示拿尺子量尺寸，与后文考评历史源流和拍卖估值毫无逻辑关联。"
+    },
+    "translation": "在税务机关试图对该庄园依法核定征收法定税款之际，一位独立鉴赏行家被特聘前来对那些珍稀的泥金手抄本进行专业评估与鉴识，全面审评其历史渊源与保存状态，以确定合理的拍卖保底价。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_10",
+    "group_id": 715,
+    "group_name": "appraise, value, assess, measure",
+    "level": "TEM-8",
+    "target_word": "appraise",
+    "question": "Before opening formal diplomatic negotiations, the seasoned ambassador paused to ___ his counterpart with a detached, practiced eye, scrutinizing subtle shifts in posture and demeanor rather than relying on biographical dossiers.",
+    "options": [
+      "appraise",
+      "value",
+      "assess",
+      "measure"
+    ],
+    "answer": "appraise",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "本题的核心排他锚点为“接人物宾语 + 视觉审视介词短语及伴随分词状语”（___ his counterpart with a detached, practiced eye, scrutinizing subtle shifts in posture and demeanor）。根据《韦氏词典》(Merriam-Webster) 与《牛津英语词典》(OED)，appraise 在以人物作为直接及物宾语时具有高度特异的专门义项：“to judge tentatively or critically: appraising his opponent”；“to form an opinion of, size up (a person); to look critically at”。该义项专指以专业、审视的目光打量对手的外貌、气场与体态举止，与“with a detached, practiced eye”构成严密的搭配与语义闭环，同时完全规避了在资产估值语境下英美用法中 appraise 与 value 的地域性同义混淆。",
+    "distractor_analysis": {
+      "appraise": "【正确】及物动词。在此处特指“（以审视、批判或专业的目光）打量、端详、估量（某人）”。《韦氏词典》收录其经典义项即为：to judge tentatively or critically: *appraising his opponent*；《牛津英语词典》亦列有“look critically at a person with a detached/experienced eye”的典型用法。句中大使以老练冷静的目光打量对手的体态举止，无论在句法搭配还是语义色彩上均完全吻合。",
+      "value": "【错误】及物动词。当 value 直接接单个人作为及物宾语（value someone）时，其语义严格限定为“珍视、重视、看重”（to prize or esteem highly），如 *value a trusted colleague*。在严肃外交博弈的对抗性语境中，大使绝非“珍爱、重视”对手；且 value 在英语中属于态度/情感评价动词，不能与表示视觉审视方式的介词短语（with a practiced eye）连用，存在明显的逻辑与搭配冲突。",
+      "assess": "【错误】及物动词。根据《牛津高级英汉双解词典》与《加纳现代美语用法》，assess 的核心语义范畴为行政、税收或学术层面的“评定、核算、评估”（如 assess risks, damage, competence, taxes），其评价对象为抽象的性质、损失、能力或宏观局势。assess 不能以具体的人为直接宾语来表示用目光“当面端详、打量某人的仪态举止”（即不能表示 visual sizing-up），与“with a detached, practiced eye”产生语义范畴错配。",
+      "measure": "【错误】及物动词。measure 直接及物接人时，字面含义仅为通过尺码测量身体物理尺寸（如裁缝量体 measure a client）。英语中若要隐喻性地表示“掂量、打量某人的底细与气量”，必须借助固定习语 *take the measure of someone* 或复合动词短语 *measure someone up*；单个动词 measure 无法独立承载该隐喻义，填入句中会导致荒谬的“测量对方身体几何尺寸”的歧义，因而不成立。"
+    },
+    "translation": "在正式开启外交谈判之前，这位经验丰富的大使停顿片刻，以冷静而老练的目光审视着他的谈判对手，仔细揣摩其肢体姿态与神情的微妙变化，而非仅仅依赖生平卷宗上的资料。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_11",
+    "group_id": 716,
+    "group_name": "apprehend, dig, grasp, compass",
+    "level": "TEM-8",
+    "target_word": "apprehend",
+    "question": "Observing the precipitous drop in interbank liquidity, monetary authorities did not merely analyze statistical fluctuations but began gravely to ___ a systemic credit contagion, hastily drafting emergency capital facilities to avert widespread institutional collapse.",
+    "options": [
+      "apprehend",
+      "dig",
+      "grasp",
+      "compass"
+    ],
+    "answer": "apprehend",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词'gravely'（忧心忡忡地）、宾语'a systemic credit contagion'（系统性信贷传染危机）以及目的状语'to avert widespread institutional collapse'（以避免倒闭），决定性地要求谓语动词具备'怀着忧惧/焦虑预见或担忧（未来祸事）'的特定前瞻性认知语义（anticipate especially with anxiety or dread）。",
+    "distractor_analysis": {
+      "apprehend": "正确。Merriam-Webster核心认知释义为'to anticipate especially with anxiety, dread, or fear'（怀着忧惧、焦虑预见或担心）。句中副词'gravely'与宾语'a systemic credit contagion'构成典型的忧惧预见语境，后文'hastily drafting... to avert...'进一步印证了对即将到来的系统性风险的警惕与防范，完全契合宏观金融监管的庄重语体与句意逻辑。",
+      "dig": "错误。属于非正式口语与俚语，表示'欣赏、理解'（如'I dig your idea'），与中央银行宏观金融危机调控的高阶学术与公文语域产生严重冲突（register clash）。",
+      "grasp": "错误。主要指物理上的'抓紧'或智力上的'彻底领会、理解既成事实或抽象原理'（intellectual comprehension）。grasp表达中立的智力掌握，完全缺失'前瞻性忧惧/预见灾祸'（anticipatory fear/dread）的语义成分，无法与'gravely'及有待防范（avert）的未来危机搭配。",
+      "compass": "错误。书面/古义动词，表示'包围、环绕'、'达成（谋略）'或'在智力上理解/容纳…的完整范围'（comprehend the full scope）。它无法表达对潜在危机的前瞻性恐惧或担忧，语义完全不契合。"
+    },
+    "translation": "观察到银行间流动性的急剧下降，货币当局不仅分析了统计波动，而且开始忧心忡忡地预感到系统性信贷危机的蔓延，随即紧急起草应急注资方案以防范大范围的机构倒闭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_12",
+    "group_id": 716,
+    "group_name": "apprehend, dig, grasp, compass",
+    "level": "TEM-8",
+    "target_word": "apprehend",
+    "question": "Cognitive neuroscientists have demonstrated that while peripheral auditory receptors register ultrasonic frequencies, the human perceptual apparatus cannot consciously ___ acoustic stimuli that fall outside the narrow physiological thresholds of sensory awareness.",
+    "options": [
+      "apprehend",
+      "dig",
+      "grasp",
+      "compass"
+    ],
+    "answer": "apprehend",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语'the human perceptual apparatus'（人类知觉器官）与宾语'acoustic stimuli'（声学物理刺激）构成直接知觉关系，严格限定所填动词必须指感官层面的'意识到、察觉、感知'（become aware of : perceive），而非理性思维层面的'逻辑领会或彻底理解'。",
+    "distractor_analysis": {
+      "apprehend": "正确。Merriam-Webster定义为'to become aware of : PERCEIVE'（察觉、感知）。在认知神经科学与知觉心理学中，apprehend是描述知觉系统或意识主体直接察觉、接收外部物理感官刺激（sensory/acoustic stimuli）的标准学术用语，精确契合'consciously apprehend acoustic stimuli'的认知搭配。",
+      "dig": "错误。属20世纪反叛文化俚语，意为'领会、喜欢'，在认知神经科学的严谨学术实证研究论文中属于极其严重的语体破格。",
+      "grasp": "错误。该词在认知领域特指高级思维活动对抽象概念、意义、原理或复杂论点的'理性理解与掌握'（to comprehend intellectually）。知觉系统（perceptual apparatus）只能'感知/察觉'物理刺激，而无法在理性层面'领会（grasp）'声波刺激，使用grasp会造成感官知觉与理性认知之间的范畴错配（category mistake）。",
+      "compass": "错误。作及物动词指'包围'、'实现'或'在思维中囊括…的广度与全貌'。它不能指知觉器官对单一具象感官物理刺激的意识察觉，搭配完全断裂。"
+    },
+    "translation": "认知神经科学家已经证明，尽管外周听觉感受器能够探测到超声波频率，但人类的知觉系统却无法有意识地察觉超出狭窄感官生理阈值的声刺激。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_13",
+    "group_id": 717,
+    "group_name": "ascertain, see, check, insure",
+    "level": "TEM-8",
+    "target_word": "ascertain",
+    "question": "Before introducing regulatory remediation protocols, environmental toxicologists conducted comprehensive longitudinal analyses to ___ the exact chemical origin of the persistent neurotoxins contaminating the municipal aquifer.",
+    "options": [
+      "ascertain",
+      "see",
+      "check",
+      "insure"
+    ],
+    "answer": "ascertain",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中“conducted comprehensive longitudinal analyses”（进行全面的纵向分析）与宾语“the exact chemical origin”（确切的化学源头）构成了决定性的语义锚点。语境明确指向通过严谨、系统的科学实证调查以“查明、探究未知事实”，唯有高阶学术动词 ascertain 符合该认知与科研行为的高规格语域要求。",
+    "distractor_analysis": {
+      "ascertain": "正确。意为“通过调查、分析或计算查明、探求（事实或真相）”，侧重于克服认知不确定性以得出精准定论。在此处与“longitudinal analyses”（纵向分析）的科研行为以及“exact chemical origin”（确切源头）高度契合，语域典雅纯正。",
+      "see": "错误。主要指“看见”或通俗口语中的“明白、看看”，侧重感官知觉或随意性的了解。与“comprehensive longitudinal analyses”这一严肃严谨的科学探索语境存在严重的语域断层（register clash），无法表达通过系统调查确定客观事实的学术内涵。",
+      "check": "错误。主要指对照已知标准进行核对、抽查或检验（如 check the gauge），或指“抑制、遏止”，并不表达通过纵向深层科研攻关来“探明未知源头”；且 check 偏向日常操作语体，置于此学术文本中显得语体粗糙、语义不符。",
+      "insure": "错误。词义为“给……投保”或（在某些语境下通 ensure）“保证、确保”。在语义上，“化学源头”是已然存在的客观隐患，无法被“投保”或“确保”，与宾语发生不可调和的逻辑冲突与语法搭配破裂。"
+    },
+    "translation": "在出台监管治理方案之前，环境毒理学家进行了全面的纵向分析，以查明污染市政地下含水层的持久性神经毒素的确切化学源头。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_14",
+    "group_id": 717,
+    "group_name": "ascertain, see, check, insure",
+    "level": "TEM-8",
+    "target_word": "ascertain",
+    "question": "Despite extensive archival inquiries, independent historians were initially unable to ___ the true extent of wartime censorship, as primary administrative dossiers had been systematically expunged.",
+    "options": [
+      "ascertain",
+      "see",
+      "check",
+      "insure"
+    ],
+    "answer": "ascertain",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "由前置状语“Despite extensive archival inquiries”（尽管进行了大量的档案调查）与直接宾语“the true extent”（真实程度/范围）构筑排他锚点。语境表明由于材料被销毁，学者难以“弄清、确定”客观存在的未知历史全貌，必须使用表“经严谨考证探明事实”的动词 ascertain。",
+    "distractor_analysis": {
+      "ascertain": "正确。意为“通过考证或研究查明、弄清（未知的信息、程度或范围）”，Merriam-Webster 明确释义为“to find out or learn with certainty”。完美接应“archival inquiries”（档案调查）与“the true extent”（真实程度），体现高阶学术英语的精确性。",
+      "see": "错误。主要表达视觉感知或表层的认知领悟，搭配“the true extent”时语义模糊轻率，缺乏“经过严苛学术考证与推演而获知”的核心义素，破坏了历史学学术论述的庄重性。",
+      "check": "错误。通常表示“核对现存账目或数据”或“阻碍、制止”。后文明确说明“dossiers had been systematically expunged”（卷宗已被系统性销毁），在缺乏参照物的前提下，无法执行“核对（check）”动作；且 check 属于日常事务性词汇，无法承载历史考证的深层语用功能。",
+      "insure": "错误。属于范畴谬误。insure 意为“提供经济保险”或“保证某事发生”，无法与抽象的历史度量名词短语“the true extent of wartime censorship”构成合乎逻辑的动宾搭配。"
+    },
+    "translation": "尽管进行了大量的档案调查，独立历史学家最初仍无法查明战时审查制度的真实程度，因为关键的行政档案已被系统性销毁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_15",
+    "group_id": 718,
+    "group_name": "ascribe, attribute, rate, rank",
+    "level": "TEM-8",
+    "target_word": "ascribe",
+    "question": "In structural-functionalist sociology, whereas modern meritocracies allocate prestige through individual achievement, traditional caste-based systems rigidly ___ social status to individuals at birth, determining their lifelong opportunities solely by hereditary lineage.",
+    "options": [
+      "ascribe",
+      "attribute",
+      "rate",
+      "rank"
+    ],
+    "answer": "ascribe",
+    "primary_mechanism": "MECH_THEORETICAL_FRAMEWORK",
+    "field": "FIELD_SOCIOLOGY",
+    "anchor_clue": "The overt structural contrast with 'individual achievement' within 'structural-functionalist sociology' activates the foundational sociological paradigm of 'Ascription versus Achievement' (Linton & Parsons), where the institutional conferring of unearned social standing at birth is designated exclusively by the verb 'ascribe' (the root of 'ascribed status'), definitively disqualifying 'attribute' (cognitive/causal inference), as well as 'rate' and 'rank' (syntactic mismatch with '... to individuals').",
+    "distractor_analysis": {
+      "ascribe": "正确。ascribe ... to ... 在社会分层与结构功能主义社会学（structural-functionalist sociology）中为经典专业搭配，源于拉尔夫·林顿（Ralph Linton）与塔尔科特·帕森斯（Talcott Parsons）确立的“先赋与自致”（Ascription vs. Achievement）模式变项。在该理论框架中，社会学严格使用动词 ascribe 指代传统社会依据出身、血统等不可逆特征向个体“制度性赋予/预先指派”某种社会地位（即先赋地位 ascribed status），句中与“individual achievement（个人自致成就）”形成严密的学术对仗，语域与学术概念完全吻合。",
+      "attribute": "错误。范畴与概念错位（Category Mistake）。attribute ... to ... 虽然具有及物句法框架，但其在学术话语中严格限定于“认知因果归因”（causal attribution，如将现象归因于某种原因）或“认知属性判定”（将某种既有品质归于某人，如 attribute intelligence to him）。在社会分层理论中，新生儿的社会地位不是观察者推断的因果结论或内在特质，而是制度强制赋予的社会分类；社会学界公认且仅使用 ascribed status，从未有 *attributed status 的表述。选用 attribute 会产生混淆“制度性赋予（ascription）”与“认知推断（attribution）”的概念性语病。",
+      "rate": "错误。句法搭配断裂。rate 意为“评估、评级”，通常接宾语后跟补足语（如 rate sth as high）或介词 on/by（如 rate individuals on a scale）。英语中不存在 *rate sth to sb 这一表达“将某物赋予某人”的双宾/介词框架，产生直接句法违偏。",
+      "rank": "错误。句法与语义搭配断裂。rank 意为“排列等级、将……分级”，后接介词短语时通常搭配 among, with, above 或 below（如 rank individuals by lineage / rank sb among the elite），无法接介词 to 构成 *rank status to individuals 的授受或赋予结构。"
+    },
+    "translation": "在结构功能主义社会学中，现代精英功绩制通过个人自致成就来分配声望，而传统的种姓制度则在个体出生时僵化地将社会地位予以先赋分配，纯粹依据世袭血统决定其一生的机遇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_16",
+    "group_id": 718,
+    "group_name": "ascribe, attribute, rate, rank",
+    "level": "TEM-8",
+    "target_word": "attribute",
+    "question": "Epistemologists argue that self-correction is the defining ___ of scientific inquiry, allowing empirical paradigms to evolve progressively rather than degenerating into rigid dogmatism when confronted with anomalous experimental observations.",
+    "options": [
+      "ascribe",
+      "attribute",
+      "rate",
+      "rank"
+    ],
+    "answer": "attribute",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "Syntactically governs the singular noun position in the academic collocation 'the defining ___ of scientific inquiry', which requires an inherent property and unequivocally selects 'attribute' while disqualifying the verb 'ascribe' and the semantically mismatched 'rate' and 'rank'.",
+    "distractor_analysis": {
+      "attribute": "正确。attribute 在此作名词（读音为 /ˈætrɪbjuːt/），意为“固有特征、本质属性、特质”（an inherent characteristic or quality）。“the defining attribute of...”是高阶学术英语与科学哲学文献中的经典学术搭配，精准概括“自我纠错”（self-correction）是“科学探究”（scientific inquiry）不可或缺的本质特质，其在句法结构（定冠词 + 分词定语 the defining + 单数名词 + of）与学术语域上皆完全契合。",
+      "ascribe": "错误。词性与句法严重违例。ascribe 在现代英语中是纯粹的及物动词（transitive verb only），常用于 ascribe sth to sth 结构，不存在名词词性（其派生名词形式为 ascription）。本句空格位于定冠词 the 与分词定语 defining 之后、介词 of 之前，语法上必须填入单数名词。将动词原形 ascribe 置于此构成严重的句法违例（syntactic violation）。",
+      "rate": "错误。语义与本体范畴错配（category error）。rate 作名词时表示“比率、速率、等级或价格”（a measure, quantity, or frequency measured against some other quantity），指代可量化的速度或比例（如 error rate, rate of progress）。“自我纠错”是一种认识论机制与本质特质，绝非用于衡量科学探究快慢或比例的数值或速率，“defining rate of scientific inquiry”在概念语义和学术搭配上均无法成立。",
+      "rank": "错误。语义范畴冲突。rank 作名词时指“军衔、社会阶层、组织中的等级或队列”（a position in a hierarchy or ordered series）。科学探究作为一个抽象的认识论领域，并不具备社会或军事序列上的“等级”，作为定性特征的 self-correction 亦无法归入 rank 的概念范畴，代入会导致严重的语义逻辑断裂。"
+    },
+    "translation": "认识论学者认为，自我纠错是科学探究的本质特征，它使实证范式在遭遇反常实验观察时能够渐进演变，而非退化为僵化的教条主义。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_17",
+    "group_id": 719,
+    "group_name": "assail, fence, war, tug",
+    "level": "TEM-8",
+    "target_word": "assail",
+    "question": "Determined to undermine the proposed treaty, hardline lawmakers did not hesitate to ___ the chief negotiator’s credibility with vitriolic accusations of systemic corruption and diplomatic incompetence.",
+    "options": [
+      "assail",
+      "fence",
+      "war",
+      "tug"
+    ],
+    "answer": "assail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Transitive verb requirement directly governing 'the chief negotiator’s credibility' alongside the instrumental modifier 'with vitriolic accusations', forming the classic discursive collocation 'assail someone's credibility with accusations'.",
+    "distractor_analysis": {
+      "assail": "正确。assail 为标准及物动词，意为“（用言论、批评等）猛烈抨击、质询”。在政治与学术政论语域中，与宾语“credibility”（可信度）及状语“with vitriolic accusations”（以恶毒指控）构成高度固化的动宾与方式搭配，准确传达强硬派议员主动发起进攻性舆论批判的语境。",
+      "fence": "错误。fence 在转义用于言论交锋时主要用作不及物动词（常与 with 搭配，意为“迂回搪塞、唇枪舌剑”），无法直接支配“the chief negotiator's credibility”；若作及物动词使用，其义为“用栅栏围住”或“保护/防卫”，与破除条约、贬损他人信誉的句意完全相悖。",
+      "war": "错误。war 在现代标准英语中通常为不及物动词，表示“斗争、交战”，必须与介词 against 或 with 连用（如 war against an enemy），绝对不能直接接及物宾语“credibility”，存在明显的句法语法错误。",
+      "tug": "错误。tug 作及物动词时意为“用力拉拽、牵引”，与抽象名词“credibility”无法形成合理搭配（collocational rupture），且无法与后文“with vitriolic accusations”所表述的言辞抨击逻辑相容。"
+    },
+    "translation": "抱定破坏拟议条约的决心，强硬派议员们毫不犹豫地以系统性腐败和外交无能的尖刻指控，猛烈抨击首席谈判代表的信誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_18",
+    "group_id": 719,
+    "group_name": "assail, fence, war, tug",
+    "level": "TEM-8",
+    "target_word": "fence",
+    "question": "Rather than offering substantive disclosures during the hostile hearing, the beleaguered executive preferred to ___ with lawmakers, parrying sharp cross-examinations through practiced equivocations and artful evasions.",
+    "options": [
+      "assail",
+      "fence",
+      "war",
+      "tug"
+    ],
+    "answer": "fence",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The prepositional frame '___ with lawmakers' coupled with the continuous participial clause 'parrying sharp cross-examinations', which activates the coherent swordplay/fencing metaphor of verbal sparring and evasion.",
+    "distractor_analysis": {
+      "assail": "错误。assail 是及物动词，不能构成“assail with sb.”表示“与某人巧妙周旋”；句中后半句的核心是防守反击与推诿（parrying, equivocations, evasions），而非主动暴力攻击，在句法与语境两方面均不成立。",
+      "fence": "正确。fence 与 with 连用是高阶英语中的固定修辞搭配（源于击剑运动），引申指在质询中“巧妙推诿、言语闪烁、唇枪舌剑地周旋”。后文分词短语中的“parrying”（格挡化解）直接呼应击剑意象，与“equivocations and artful evasions”（含糊其辞与狡黠回避）形成严丝合缝的修辞同构。",
+      "war": "错误。虽然 war 可与 with 搭配（war with sb.），但其意为“展开殊死搏斗或旷日持久的敌对战争”，语域偏向不可调和的实质性冲突，与后半句中体现的技巧性言辞回避（artful evasions）、格挡盘问（parrying cross-examinations）的微妙语境严重脱节。",
+      "tug": "错误。tug 与 with 搭配并不构成正规书面语中关于听证质询的表达（tug-of-war 虽为名词，但动词 tug with 绝无“巧妙言语周旋”之意），属于搭配错误。"
+    },
+    "translation": "在充满敌意的听证会上，这位焦头烂额的高管并未提供实质性的信息披露，而是选择与议员们巧妙周旋，凭借娴熟的含糊其辞与狡黠的推脱应对尖锐的交叉盘问。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_19",
+    "group_id": 720,
+    "group_name": "attest, certify, manifest, evidence",
+    "level": "TEM-8",
+    "target_word": "attest",
+    "question": "Extensive archival records and contemporaneous diplomatic correspondence unequivocally ___ to the ambassador’s clandestine role in negotiating the armistice, dispelling decades of speculative historical revisionism regarding the treaty’s provenance.",
+    "options": [
+      "attest",
+      "certify",
+      "manifest",
+      "evidence"
+    ],
+    "answer": "attest",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟介词短语 'to the ambassador’s clandestine role'。在四个选项中，仅 'attest' 能够作为不及物动词与介词 'to' 构成固定搭配（attest to sth.，意为‘证实/证明……属实’）；其余三项均为及物动词或无此介词搭配要求，产生绝对语法排他。",
+    "distractor_analysis": {
+      "attest": "正确。attest 用作不及物动词时，核心固定搭配为 'attest to sth.'（证明、证实某事属实或存在），完美契合题干中档案与信件充当客观证据、‘证实大使在停战谈判中秘密斡旋’的语境与句法结构。",
+      "certify": "错误。certify 意为‘（官方或权威机构）正式证明、核发证书’，在现代学术及正式英语中主要作及物动词（接 that 从句或直接宾语，如 certify the validity of...），无法与介词 'to' 搭配表示‘无生命证据证实某事’，且主语多为具备法定资质的机构或人员，置于此处存在句法与语用双重冲突。",
+      "manifest": "错误。manifest 意为‘明显表露、显现’，通常作为及物动词直接接宾语（如 manifest symptoms/discontent），或用作反身代词搭配（manifest itself in...），绝不与介词 'to' 连用构成表‘证实’之意的不及物短语，语法完全不通。",
+      "evidence": "错误。evidence 作为动词时是纯粹的及物动词（transitive verb），意为‘证明、显示……的迹象’，必须直接带宾语（如 'the data evidenced a marked improvement'），后接介词 'to' 属于严重句法错误。"
+    },
+    "translation": "详尽的档案记录和同时代的外交信函明确证实了这位大使在停战谈判中所扮演的秘密角色，从而消除了数十年来关于该条约起源的投机性历史修正主义观点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b71_20",
+    "group_id": 720,
+    "group_name": "attest, certify, manifest, evidence",
+    "level": "TEM-8",
+    "target_word": "certify",
+    "question": "Following exhaustive algorithmic audits, the independent oversight committee refused to ___ the automated diagnostic software as clinically dependable, citing persistent biases in its underlying neural training data.",
+    "options": [
+      "attest",
+      "certify",
+      "manifest",
+      "evidence"
+    ],
+    "answer": "certify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键句法语义框架为 'refused to ___ [Object: the software] as [Complement: clinically dependable]'，且施事主语为具备法定核准职能的 'the independent oversight committee'。四个选项中仅 'certify' 具备官方认证资质语义并支配复合宾语结构 'certify sb./sth. as...'。",
+    "distractor_analysis": {
+      "certify": "正确。certify 意为‘（官方机构）审核并出具证明/认证’，其典型专业句法构式为 'certify sth. as + adj./n.'（官方认证某事物具备某种合格资质或特性），与句中独立监管委员会（oversight committee）基于算法审计所履行的法定核准职责完全吻合。",
+      "attest": "错误。attest 表示‘证实、证明’时，常规结构为不及物搭配 'attest to sth.' 或及物带 that 从句/单一事实宾语（如 attest a signature），在现代标准英语中不存在 'attest sth. as clinically dependable' 这种复合宾语接补足语的用法，产生句法格式排斥。",
+      "manifest": "错误。manifest 强调‘表明、外化显示出（感情、态度、迹象）’，宾语通常为某种特征或状态（如 manifest signs of distress），既不能用于官方委员会授予认证的语境，也无法与 'as clinically dependable' 搭配构成客体认定语义。",
+      "evidence": "错误。evidence 作为及物动词时仅表示‘为……提供客观佐证’，后接简单宾语（如 'the study evidenced high efficacy'），不具备施事主体依规认证的语用色彩，更不能进入 'evidence + 宾语 + as + 形容词' 的复合宾语结构。"
+    },
+    "translation": "在进行了详尽的算法审计之后，独立监管委员会以其底层神经训练数据存在持续偏差为由，拒绝认证该自动化诊断软件符合临床可靠标准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

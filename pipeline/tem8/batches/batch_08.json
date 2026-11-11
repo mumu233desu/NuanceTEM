@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b08_01",
+    "group_id": 81,
+    "group_name": "freelance, fag, scab, tinker",
+    "level": "TEM-8",
+    "target_word": "freelance",
+    "question": "Rather than accepting a permanent editorial chair, the investigative journalist opted to ___ for several prominent European dailies, retaining editorial autonomy while reporting from conflict zones.",
+    "options": [
+      "freelance",
+      "fag",
+      "scab",
+      "tinker"
+    ],
+    "answer": "freelance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句首由 'Rather than accepting a permanent editorial chair'（而非接受固定的终身主编职位）构成明确的职场身份反差，后接介词短语 'for several prominent European dailies'（为数家知名欧洲日报撰稿）并强调 'retaining editorial autonomy'（保留采编自主权），锁定'作为自由职业者按约供稿'的专用动词搭配 freelance for。",
+    "distractor_analysis": {
+      "freelance": "正确。作不及物动词时，指不固定受雇于单一雇主，以自由职业身份按件承接项目或撰稿，常与介词 for 连用（freelance for a newspaper/firm）。本句中与放弃固定职位（permanent chair）、保持自主权（editorial autonomy）形成完美逻辑照应与学术级搭配。",
+      "fag": "错误。主要为英式用法，作不及物动词时意为“苦工劳作、做苦差事”（常接 away at），或指英国公学中低年级生为高年级生服杂役，完全不具备自由撰稿或与新闻出版机构签订临时合同的现代职业语义。",
+      "scab": "错误。专指在工会罢工期间充当工贼、拒绝罢工或替代罢工工人上岗（to act as a strikebreaker），常与介词 on 连用。本句并未涉及任何劳资纠纷、罢工抗议或纠察线，语义完全不合。",
+      "tinker": "错误。作不及物动词意为“拙劣地修补、笨拙地摆弄、粗修”，后必须接介词 with（如 tinker with a machine/policy），既无法与介词 for 搭配，也完全脱离新闻采编与职业合同的语境。"
+    },
+    "translation": "这位调查记者没有接受固定的编辑职位，而是选择为数家知名欧洲日报做自由撰稿人，以便在冲突前线进行报道时仍能保有采编自主权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_02",
+    "group_id": 81,
+    "group_name": "freelance, fag, scab, tinker",
+    "level": "TEM-8",
+    "target_word": "fag",
+    "question": "Under the archaic disciplinary traditions of nineteenth-century British boarding schools, younger pupils were regularly compelled to ___ for senior monitors, performing menial domestic chores without compensation.",
+    "options": [
+      "freelance",
+      "fag",
+      "scab",
+      "tinker"
+    ],
+    "answer": "fag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "语境锚定于英国传统公学背景（'nineteenth-century British boarding schools'），主体是低年级生受迫为级长服务（'compelled to ___ for senior monitors'），后置分词明确为服侍杂务（'performing menial domestic chores without compensation'），精准指向英国公学特有的苦役仆役制度专有动词 fag for。",
+    "distractor_analysis": {
+      "fag": "正确。在英式英语及英国社会历史文化语境中，fag 作不及物动词特指英国公学体制下“（低年级学生）为高年级学生当杂役、服苦差”（to act as a fag for a senior boy），与句中的 British boarding schools、senior monitors 及 menial domestic chores 构成无可替代的制度性专有搭配。",
+      "freelance": "错误。意为“做自由职业者、自由受聘”，强调自主性、专业性与契约自由，与学校体制内部的被动强迫劳动（compelled to... without compensation）存在根本性的语义与逻辑矛盾。",
+      "scab": "错误。意为“当工贼、破坏罢工”，属于现代劳工运动与工会斗争领域的专业政治经济术语，与十九世纪寄宿学校内部的低年级伺候高年级杂役制度毫无关联。",
+      "tinker": "错误。意为“胡乱修补、瞎摆弄”，通常接介词 with（如 tinker with a clock），不能与 for sb. 连用表示“伺候某人、当仆役”，在句法和词义上均不成立。"
+    },
+    "translation": "在19世纪英国寄宿学校陈腐的纪律传统下，低年级学生常常被迫为高年级级长服杂役，无偿从事各种卑微琐碎的日常劳作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_03",
+    "group_id": 82,
+    "group_name": "fret, grate, beset, harass",
+    "level": "TEM-8",
+    "target_word": "fret",
+    "question": "Although institutional investors continue to ___ over transitory inflationary spikes, central bankers insist that long-term structural realignments and productivity enhancements will ultimately stabilize sovereign bond yields.",
+    "options": [
+      "fret",
+      "grate",
+      "beset",
+      "harass"
+    ],
+    "answer": "fret",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The verb is followed by the prepositional phrase 'over transitory inflationary spikes', demanding an intransitive verb expressing subjective anxiety or cognitive concern that strictly collocates with 'over'.",
+    "distractor_analysis": {
+      "fret": "正确。fret 在此作不及物动词，与介词 over 构成核心认知搭配（fret over sth.），意为“为……发愁、对……焦虑不安”，极为精准地传达了机构投资者面对通胀波动时的忧虑心理，句法语义完全契合。",
+      "grate": "错误。grate 表“使人烦躁、刺激”时为不及物动词，但其固定介词搭配为 on 或 upon（如 grate on sb.'s nerves），不能与 over 搭配，句法结构不成立。",
+      "beset": "错误。beset 为及物动词（通常用于主动语态接直接宾语，如 difficulties beset the project，或用于被动语态 be beset with/by），无法直接后接介词 over 构成不及物用法，存在明显句法阻碍。",
+      "harass": "错误。harass 属于及物动词，意为“骚扰、不断打扰”，必须直接接宾语（harass sb.），不能接 over 构成“对某事焦虑”的语义，在此语境中搭配与语义均不成立。"
+    },
+    "translation": "尽管机构投资者仍在为暂时的通胀飙升而忧心忡忡，但央行官员坚称，长期的结构性调整和生产率提升最终将使国债收益率趋于平稳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_04",
+    "group_id": 82,
+    "group_name": "fret, grate, beset, harass",
+    "level": "TEM-8",
+    "target_word": "grate",
+    "question": "The envoy’s abrasive rhetoric began to ___ upon the delicate sensibilities of the multilateral delegation, jeopardizing months of discreet diplomatic negotiations aimed at averting regional escalation.",
+    "options": [
+      "fret",
+      "grate",
+      "beset",
+      "harass"
+    ],
+    "answer": "grate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic context '___ upon the delicate sensibilities' requires an intransitive verb denoting an irritating, jarring, or discordant impact that selects the preposition 'upon' (or 'on').",
+    "distractor_analysis": {
+      "grate": "正确。grate 与介词 on/upon 构成经典书面搭配（grate upon sb.'s nerves/sensibilities），意为“使人烦躁、触怒、令人难以忍受”，生动刻画出特使生硬措辞对代表团敏感神经的冒犯与刺激作用。",
+      "fret": "错误。fret 作不及物动词时意为主观的“焦虑、烦恼”，其介词搭配通常为 over 或 about，不能与 upon 搭配，且无法表达主语（言辞）对外在主体产生“刺激/冒犯”的及物性因果效应。",
+      "beset": "错误。beset 是纯粹的及物动词，意为“困扰、围攻”，必须直接带宾语（如 beset the delegation），不可与介词 upon 连用，存在严重句法语法冲突。",
+      "harass": "错误。harass 为及物动词，意为“侵扰、骚扰”，后面需直接跟宾语，不可接介词短语 upon...，因而在句法形式上不成立。"
+    },
+    "translation": "该特使生硬生刺的言辞开始触怒多边代表团敏感的神经，使旨在避免地区局势升级的数月审慎外交谈判面临毁于一旦的危险。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_05",
+    "group_id": 83,
+    "group_name": "furl, flex, bulge, pouch",
+    "level": "TEM-8",
+    "target_word": "furl",
+    "question": "Confronted with mounting regulatory hostility and declining institutional patronage, the reformist academics were discreetly advised to ___ their ideological banners and reframe their radical epistemological critique within conventional paradigms.",
+    "options": [
+      "furl",
+      "flex",
+      "bulge",
+      "pouch"
+    ],
+    "answer": "furl",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'their ideological banners' paired with the subsequent pragmatic concession ('reframe their radical epistemological critique within conventional paradigms') demands a verb meaning to roll up or retract a displayed standard.",
+    "distractor_analysis": {
+      "furl": "正确。本题考查动宾搭配与隐喻修辞。furl原指“卷起、收拢（帆、旗、伞等）”，在此句中与“their ideological banners”构成极具思想史与政论质感的隐喻搭配（furl one's banners 意为“收起旗帜、偃旗息鼓”），契合后文“reframe... within conventional paradigms”（在传统范式内重新表述）所体现的妥协与收敛语境。",
+      "flex": "排除。flex意为“活动、弯曲；展示（力量、权威）”，固定搭配通常为flex one's muscles/power/authority，不能与banners搭配；且flex表达主动施展或炫耀力量，与句中面临监管敌意而被迫退让的语义逻辑完全相悖。",
+      "bulge": "排除。bulge主要用作不及物动词，意为“膨胀、凸出”（如 eyes bulged with fear），无法接宾语“their ideological banners”构成及物动宾结构，产生严重的句法错误。",
+      "pouch": "排除。pouch用作动词时意为“将……装入袋中”或“使呈袋状垂下”，既无“pouch banners”的搭配习惯，在学术语境中也缺乏表意合理性。"
+    },
+    "translation": "面对日益严峻的监管敌意与机构资助的减少，这些改革派学者被审慎地建议收起他们的意识形态旗帜，将其激进的认识论批判重新置于传统范式之内来表述。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_06",
+    "group_id": 83,
+    "group_name": "furl, flex, bulge, pouch",
+    "level": "TEM-8",
+    "target_word": "flex",
+    "question": "Eager to assert their disciplinary autonomy, the newly established consortium of behavioral scientists sought to ___ their analytical muscles by publishing a seminal critique that challenged long-standing orthodoxies in developmental psychology.",
+    "options": [
+      "furl",
+      "flex",
+      "bulge",
+      "pouch"
+    ],
+    "answer": "flex",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'their analytical muscles' combined with the assertive discourse purpose ('assert their disciplinary autonomy... by publishing a seminal critique') demands the established idiom meaning to demonstrate or exercise power and capability.",
+    "distractor_analysis": {
+      "flex": "正确。本题考查认知隐喻与固定动宾搭配。flex one's muscles（字面为“收缩肌肉”，引申为“展现实力、大显身手”）为英语中的高度固化搭配。在此句中，flex their analytical muscles形象地表达“展示/施展分析实力”，完美契合主语“assert their disciplinary autonomy”（确立学科自主权）与挑战正统学说的进取性学术姿态。",
+      "furl": "排除。furl仅用于“卷起、收拢（帆、旗、伞、翅膀等）”，无法与muscles构成合乎英语习惯的搭配；且furl带有收敛、休止的语意色彩，与句中积极确立权威的语篇逻辑截然对立。",
+      "bulge": "排除。bulge多用作不及物动词表示物体自身鼓起或膨胀（如 muscles bulged with tension），在表示“展示实力”时不能作为及物动词带宾语muscles，属于句法与语用层面的双重误用。",
+      "pouch": "排除。pouch用作动词意为“将……装入口袋”或“使成袋状悬垂”，与“analytical muscles”毫无搭配理据，语义荒诞。"
+    },
+    "translation": "为了急切确立其学科自主权，这一新成立的行为科学家联盟试图通过发表一篇挑战发展心理学长期正统观点的开创性批判文章，来展现他们的分析实力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_07",
+    "group_id": 84,
+    "group_name": "furrow, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "furrow",
+    "question": "Confronted with irreconcilable discrepancies in the empirical dataset, the senior epistemologists could not help but ___ their brows in collective skepticism, struggling to reconcile the observations with established paradigms.",
+    "options": [
+      "furrow",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "furrow",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational object 'their brows in collective skepticism' denoting cognitive perplexity and critical contemplation.",
+    "distractor_analysis": {
+      "furrow": "正确。furrow 与 brows（或 brow/forehead）构成英语中高度固定的认知与神态搭配（furrow one's brow/brows），意为“皱起眉头”，精准传达学者在面对认知冲突和经验数据矛盾时困惑、深思与质疑的心理状态。",
+      "lop": "错误。lop 意为“砍掉、剪去（肢体、枝条等）”，与 brows 搭配在语义上属于严重的逻辑错配（意为切除眉毛），荒诞且违背语境逻辑。",
+      "pare": "错误。pare 意为“削去外皮、逐步削减”，常与 down 搭配（如 pare down the budget），不能与 brows 构成表示“皱眉沉思”的认知动宾搭配。",
+      "indent": "错误。indent 意为“使成锯齿状、缩进排版、使留下凹痕”，无法与 brows 连用表达困惑或沉思的心理表情。"
+    },
+    "translation": "面对经验数据集中不可调和的分歧，资深认识论学者们不禁集体眉头深锁，流露出怀疑的神色，极力试图将这些观测结果与既定理论范式调和起来。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_08",
+    "group_id": 84,
+    "group_name": "furrow, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "Applying a ruthless version of Occam's razor, the cognitive scientists decided to ___ off the entire peripheral branch of speculative hypotheses, thereby restoring mathematical parsimony to their model.",
+    "options": [
+      "furrow",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic particle 'off' combined with the arboreal metaphor 'the entire peripheral branch of speculative hypotheses'.",
+    "distractor_analysis": {
+      "lop": "正确。lop off 是固定动词短语，本义为砍除、修剪（树枝等），在此处借用于认知科学与奥卡姆剃刀语境，构成精准的隐喻搭配，意为“果断剔除/斩断整个外围假设分支”。",
+      "furrow": "错误。furrow 意为“犁田、使起犁沟/皱起”，为及物或不及物动词，不能与副词 off 构成表示“剔除分支”的短语动词，语法与语义皆不成立。",
+      "pare": "错误。pare 虽有削减之意，但在认知或经济语境中习惯与 down 搭配（pare down 意为逐步精简），且 pare 指层层剥离或细微削减，与断然斩除“整个分支（the entire peripheral branch）”的树状隐喻及小品词 off 不符。",
+      "indent": "错误。indent 意为“缩进、凹陷”，无法与 off 搭配，更不能用于表达裁撤理论假说的语境。"
+    },
+    "translation": "秉持着对奥卡姆剃刀原则的彻底践行，认知科学家们决定果断剔除推测性假设的整个外围分支，从而使他们的模型重新恢复数学上的简约性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_09",
+    "group_id": 85,
+    "group_name": "gabble, blurt, whiff, gibber",
+    "level": "TEM-8",
+    "target_word": "gabble",
+    "question": "Overwhelmed by cognitive fatigue and acute anxiety, the junior diplomat tended to ___ incessantly about procedural trivia whenever senior negotiators demanded decisive commitments during bilateral security talks.",
+    "options": [
+      "gabble",
+      "blurt",
+      "whiff",
+      "gibber"
+    ],
+    "answer": "gabble",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the continuous discursive frame '___ incessantly about procedural trivia'. According to Merriam-Webster, 'gabble' specifically denotes speaking rapidly and incessantly about unimportant matters. It contrasts fundamentally with the punctual aspect of 'blurt' and the inarticulate terror implied by 'gibber'.",
+    "distractor_analysis": {
+      "gabble": "正确。gabble 的核心释义为‘快速且喋喋不休地谈论琐事’（to speak rapidly and incessantly about unimportant matters），在句法上常接介词 about，语义上与持续性副词 incessantly 及无实质意义的程序性细节（procedural trivia）构成严密的同现搭配，完美契合外交官因紧张而语无伦次、大谈细枝末节的语境。",
+      "blurt": "错误。blurt 意为‘脱口而出’（to utter suddenly and impulsively），在体貌（aspect）上属于瞬间动作动词（punctual），常与副词 out 连用以引出机密或敏感信息；它与表示持续性、连续不断的修饰语 incessantly 存在严重的语义体貌冲突，且不与 about trivia 搭配。",
+      "whiff": "错误。whiff 主要表示‘轻吹、微吸’或‘感知到微弱气息’，在俚语/体育语境中指‘击空、未击中’；该词完全不具备‘说话、表达’的言语行为动词义项，在此处造成词性与语义的双重逻辑断裂。",
+      "gibber": "错误。gibber 意为‘（因恐惧、狂乱或精神失常而）胡乱发音、语无伦次地瞎说’（to speak rapidly and unintelligibly through fear or shock），其发出的声音往往缺乏可辨识的句法结构与命题内容；句中外交官讨论的是可理解的具体事务（procedural trivia），不能使用指代神志不清、嚎叫乱语的 gibber。"
+    },
+    "translation": "在认知疲劳与极度焦虑的双重重压下，每当资深谈判代表在双边安全会谈中要求作出实质性承诺时，这位初级外交官往往会就程序性细枝末节喋喋不休。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_10",
+    "group_id": 85,
+    "group_name": "gabble, blurt, whiff, gibber",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Caught off guard by the relentless cross-examination, the rattled executive inadvertently started to ___ out sensitive algorithmic secrets, undermining months of strategic concealment in a single impulsive utterance.",
+    "options": [
+      "gabble",
+      "blurt",
+      "whiff",
+      "gibber"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the phrasal verb construction '___ out [sensitive secrets]' reinforced by 'in a single impulsive utterance'. 'Blurt out' is the canonical collocation for uttering or revealing privileged/damaging information impulsively and inadvertently.",
+    "distractor_analysis": {
+      "blurt": "正确。blurt 的核心释义为‘脱口而出、不假思索地泄露’（to utter abruptly and impulsively），其最经典的及物动词短语搭配为 blurt out something。句中‘inadvertently’（不经意间）、‘sensitive algorithmic secrets’（机密信息）以及‘in a single impulsive utterance’（单次冲动的言语）构成了无可置疑的闭环锚点，唯有 blurt 能够精准闭合。",
+      "gabble": "错误。gabble 表示‘快速喋喋不休地讲废话’，其语义核心在于‘语速快且内容琐碎无价值’（unimportant matters），并不表示‘意外泄密’，在标准英语中亦不构成 *gabble out 表示泄露机密的固定搭配；后文的‘single impulsive utterance’与 gabble 的持续性喋喋不休特征相违背。",
+      "whiff": "错误。whiff 作动词主要表示微风吹过、嗅出气味或挥棒落空（whiff out 在棒球俚语中偶尔指被三振出局），完全脱离言语交际场域，无法与‘out sensitive secrets’搭配表示披露言语信息。",
+      "gibber": "错误。gibber 属于不及物动词，指‘因极度惊恐而发出无意义的咕哝或胡话’，既不能带介副词 out 构成及物动词短语（*gibber out 不存在），也不能支配具体而具有严密逻辑的宾语（sensitive algorithmic secrets）。"
+    },
+    "translation": "面对严苛无情的交叉质询，那位心慌意乱的高管在猝不及防之下不慎脱口说出了敏感的算法机密，仅凭一句冲动之言便彻底瓦解了数月以来的战略隐瞒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_11",
+    "group_id": 86,
+    "group_name": "gauge, scrub, scour, grate",
+    "level": "TEM-8",
+    "target_word": "gauge",
+    "question": "Amidst contradictory macroeconomic indicators and volatile currency fluctuations, the central bank's monetary policy committee struggled to ___ the true extent of domestic economic resilience before adjusting benchmark rates.",
+    "options": [
+      "gauge",
+      "scrub",
+      "scour",
+      "grate"
+    ],
+    "answer": "gauge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object noun phrase 'the true extent of [abstract phenomenon]' decisively selects a cognitive verb denoting measurement, quantitative assessment, or qualitative appraisal.",
+    "distractor_analysis": {
+      "gauge": "正确。动词，意为“评估、估量、测度（程度、数量、意图等）”。在高级学术英语与宏观经济文献中，“gauge the extent / depth / degree of...”为经典固定搭配，与后文“the true extent of domestic economic resilience”构成严丝合缝的认知测度表达。",
+      "scrub": "错误。动词，本义为“用力擦洗”，引申为“取消（任务、计划）”或“清洗/净化（数据、杂质）”。与抽象名词短语“the true extent”搭配在语义上完全不通，无法表达“衡量、评估”的认知判断过程。",
+      "scour": "错误。动词，及物用法主要表示“彻底搜查、遍访（某地以寻找某物）”（如 scour the archives for evidence）或“擦刷表面”。其宾语必须为空间、文献载体或被擦拭表面，绝不可接“the extent”（程度/范围）作为直接宾语，构成严重的搭配破裂。",
+      "grate": "错误。动词，意为“磨碎（食物）”；引申为“发出刺耳磨擦声”或作不及物动词与 on 连用表示“使人烦躁、激怒”（如 grate on one's nerves）。在此处与“the true extent”在语义和句法上均发生冲突。"
+    },
+    "translation": "在自相矛盾的宏观经济指标与剧烈波动的汇率面前，央行货币政策委员会在调整基准利率之前，难以准确评估国内经济韧性的真实程度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_12",
+    "group_id": 86,
+    "group_name": "gauge, scrub, scour, grate",
+    "level": "TEM-8",
+    "target_word": "scrub",
+    "question": "Confronted with critical telemetry malfunctions and deteriorating meteorological conditions, the mission control directors concluded they had no viable alternative but to ___ the scheduled satellite launch.",
+    "options": [
+      "gauge",
+      "scrub",
+      "scour",
+      "grate"
+    ],
+    "answer": "scrub",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'the scheduled satellite launch' preceded by 'had no viable alternative but to' demands a high-register operational verb meaning to cancel or abort a formal mission.",
+    "distractor_analysis": {
+      "scrub": "正确。动词，在此处考查其在航天、工程及官方项目决策中权威地道的引申义，意为“中止、取消（预定的任务、发射或计划）”（to cancel or abandon a scheduled mission/launch）。“scrub the launch / mission”是国际科技及新闻英语中的标志性固定搭配，契合句中被迫终止危机的语境。",
+      "gauge": "错误。动词，意为“测度、评估”。虽然具有认知评估含义，但置于“had no viable alternative but to...”（别无选择只能……）这一因危机而强制终止的处置结果语境中，无法与“the scheduled satellite launch”搭配表达“取消发射”的决策动作。",
+      "scour": "错误。动词，意为“四处搜寻”或“用力擦洗”。“scour the launch”在语义上荒谬，无法与发射事件构成任何合法的动宾搭配关系。",
+      "grate": "错误。动词，意为“磨碎”或“令人烦躁、激怒”。既无法与“launch”搭配，也不符合科技决策语境的逻辑与文体要求。"
+    },
+    "translation": "面对严重的遥测硬件故障与持续恶化的气象条件，任务控制中心主管们断定，除了取消原定的卫星发射之外，他们已别无可行选择。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_13",
+    "group_id": 87,
+    "group_name": "gibber, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "gibber",
+    "question": "Traumatized by relentless interrogation and acute cognitive disorientation, the witness began to ___ in sheer panic, producing rapid, disjointed syllables that completely frustrated the stenographer's attempts at transcription.",
+    "options": [
+      "gibber",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "gibber",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The syntactic combination of 'in sheer panic' with 'producing rapid, disjointed syllables that completely frustrated the stenographer's attempts at transcription' exclusively selects 'gibber' (which specifically denotes uttering rapid, inarticulate sounds under extreme terror or cognitive breakdown). The other three options fail to denote fragmented, rapid verbal speech production.",
+    "distractor_analysis": {
+      "gibber": "正确。根据《韦氏词典》，gibber意为'to speak rapidly, inarticulately, and often foolishly'（急促、语无伦次地胡言乱语），常用于因极度恐惧（panic/terror）、精神错乱或认知崩溃而无法清晰表达的语境。句中'producing rapid, disjointed syllables'（发出急促零碎的音节）与'stenographer's attempts at transcription'（速记员记录的尝试）构成决定性语义闭环。",
+      "hoot": "错误。hoot意为'大声叫嚣、发出猫头鹰叫声或因嘲笑/愤怒而高呼'，其核心语义是表达嘲弄（derision）或喧哗，而非在惊恐审讯中语无伦次地吐出破碎音节，与上下文的认知瓦解语境完全不符。",
+      "squall": "错误。squall多指婴儿或痛极者'嚎啕大哭、发出尖声尖叫'（cry out or scream violently and loudly），侧重持续刺耳的啼哭与尖叫，并不具备'急促吐出破碎音节、使速记员无法记录'这一语言系统瓦解的特异性语义特征。",
+      "gobble": "错误。gobble主要指'狼吞虎咽地吞食'或雄火鸡发出'咯咯声'。用于人类言语时极其罕见且带有滑稽模仿火鸡叫声的色彩，绝不可能出现在高压审讯引发的严重心理创伤与病理语言崩溃场景中。"
+    },
+    "translation": "由于遭受了残酷无休的审讯以及剧烈的认知障碍，该证人在极度恐慌中开始语无伦次地乱说，吐出急促而支离破碎的音节，使速记员记录其口供的努力彻底落空。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_14",
+    "group_id": 87,
+    "group_name": "gibber, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Whenever the dogmatic theorist attempted to dismiss empirical counterevidence as trivial anomalies, the seminar participants would openly ___ with derision, unconvinced by his increasingly convoluted dialectical maneuvers.",
+    "options": [
+      "gibber",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The fixed prepositional collocation '___ with derision' (发出嘲笑声/嗤之以鼻) coupled with the academic discourse context of audience contempt for absurd dialectical maneuvers decisively requires 'hoot'. The distractors produce severe collocational ruptures and semantic contradictions.",
+    "distractor_analysis": {
+      "hoot": "正确。根据《韦氏词典》，hoot作不及物动词时常与with derision / with laughter连用（意为'发出尖叫以表示蔑视或嘲讽'，to express scorn or disapproval by shouting or laughing）。句中研讨会成员对教条理论家诡辩策略的集体嘲弄，与'hoot with derision'这一学术评判语境下的经典搭配高度契合。",
+      "gibber": "错误。gibber指因惊恐、痴狂而'胡言乱语、急促而语无伦次地嘟囔'，完全无法与表达群体性理智嘲讽的介词短语'with derision'相搭配，属于语义与语用色彩的严重错置。",
+      "squall": "错误。squall意为'尖叫、号哭'，通常描摹婴儿吵闹或恶劣天气的狂风呼啸，在学术争辩场景下既不与'with derision'形成稳定搭配，也不符合成熟学者表达嘲弄的修辞规范。",
+      "gobble": "错误。gobble意为'贪婪吞咽'或'火鸡咯咯叫'，将其置于'___ with derision'中属于荒谬的搭配断裂与词义错乱。"
+    },
+    "translation": "每当那位教条主义理论家试图将经验性反面证据贬低为微不足道的反常现象时，研讨会的参与者们都会公然发出嘲弄的嗤弄，对其愈发晦涩纠缠的辩证花招毫不买账。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_15",
+    "group_id": 88,
+    "group_name": "gravitate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "gravitate",
+    "question": "Disillusioned by traditional neoclassical economic models, contemporary social theorists increasingly ___ toward interdisciplinary behavioral frameworks that account for cognitive biases and structural inequality.",
+    "options": [
+      "gravitate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "gravitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'toward' 及学术认知取向的转移（'toward interdisciplinary behavioral frameworks'）。在此语义场中，仅有 gravitate 能与介词 to/toward 构成固定搭配，表达受吸引而自发趋向某种观点或范式。",
+    "distractor_analysis": {
+      "gravitate": "正确。gravitate toward/to 是英语学术与政经评论中的高频固定搭配，本义为“因重力吸引而移动”，引申为“自然被吸引并趋向（某种理论、思潮或群体）”，完美吻合句中社会理论家转向行为经济学框架的语境。",
+      "waver": "错误。waver 意为“摇摆、动摇、犹豫不决”，在句法上通常与 between... and... 连用表示二选一的犹豫，或与 in（如 waver in one's faith）搭配，不能与 toward 搭配表达“思想趋向于某流派”，逻辑与搭配均不成立。",
+      "quiver": "错误。quiver 意为“轻微颤动、发抖”，主要指物理振动或因情绪（如恐惧、激动）引起的身体战栗，常与 with 搭配（如 quiver with excitement），不可用于抽象认知范式的趋向且无法与 toward 搭配。",
+      "writhe": "错误。writhe 意为“（因剧痛、苦恼而）翻滚、扭动、痛苦挣扎”，通常与 in（如 writhe in agony）或 under 连用，语意侧重于肉体或极端精神受难，与学术思想转向的语境严重脱节。"
+    },
+    "translation": "因对传统新古典经济学模型感到失望，当代社会理论家日益自发转向跨学科的行为分析框架，以解释认知偏差与结构性不平等。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_16",
+    "group_id": 88,
+    "group_name": "gravitate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with irreconcilable empirical anomalies, the research committee began to ___ between endorsing the radical paradigm shift and defending the orthodoxy they had spent decades validating.",
+    "options": [
+      "gravitate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性句法锚点为 'between endorsing... and defending...'。在提供的四个动词中，仅有 waver 可后接 between... and...，用于指在两种对立观点、抉择或学术立场之间摇摆不定。",
+    "distractor_analysis": {
+      "waver": "正确。waver between A and B 为核心辨析搭配，专指认知上的“在二者之间犹疑动摇、举棋不定”，精准传达出评审委员会在面对难以调和的反常证据时，在“接纳颠覆性范式”与“捍卫固有正统”之间的两难摇摆。",
+      "gravitate": "错误。gravitate 表单一方向的吸引与趋近，要求搭配介词 to 或 toward，无法与 between... and... 连用构成“在两者间摇摆”之意，存在严重句法配置冲突。",
+      "quiver": "错误。quiver 专指机械性或生理性的细微震颤，无法支配 between... and... 来表达抽象的认知冲突或决断犹豫。",
+      "writhe": "错误。writhe 描述因剧烈痛苦或难堪而产生的躯体扭曲与挣扎，不能与 between... and... 构成认知心理学层面的立场抉择搭配。"
+    },
+    "translation": "面对难以调和的经验反常现象，研究委员会开始在支持激进的范式转变与捍卫他们花费数十年验证的正统学说之间摇摆不定。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_17",
+    "group_id": 89,
+    "group_name": "gurgle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "gurgle",
+    "question": "Cognitive developmental linguists observed that preverbal infants, when responding to positive maternal feedback, invariably begin to ___ with guttural delight, exhibiting a liquid acoustic profile distinct from the mechanical clicks of later phonemic experimentation.",
+    "options": [
+      "gurgle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "gurgle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心搭配与语义锚点为“with guttural delight”（发出欢快的喉音）和“liquid acoustic profile”（水流般的清脆声学特征）。在英语词汇学中，gurgle专指“发出如水流般咕嘟咕嘟的声音”或婴儿“发出愉悦的咯咯发泡声”，与“liquid”和“guttural delight”构成决定性共现搭配。",
+    "distractor_analysis": {
+      "gurgle": "正确。gurgle 指水流涌动翻滚的声响，或特指婴儿在高兴时喉咙发出流动的、清脆的“咯咯”声（to make a low, liquid, bubbling sound expressive of contentment）。句中与“guttural delight”及后续的“liquid acoustic profile”形成精确的音义呼应与固定搭配，完全切合认知语言学中婴儿前语言期发音特征的描述。",
+      "rap": "错误。rap 意为“急促地敲击、叩击”，作及物动词或与介词 on/at 连用（如 rap the desk / rap on the door），属于打击类硬质发声动词，既无法形容婴儿的愉悦发声，也与“liquid acoustic profile”（流动的声学轮廓）在声学特征上根本对立。",
+      "thud": "错误。thud 指沉重、沉闷的撞击声或重物落地的闷响（to make a dull, heavy sound），属于低频浑浊的物理碰撞音，既不能用于表示人类婴儿发出高兴的声响，也与上下文强调的喉部“咯咯”流质声相悖。",
+      "drone": "错误。drone 指持续单调的低嗡声（to make a continuous low humming sound）或以枯燥乏味的语调喋喋不休，带有消极的单调、迟滞色彩，与句子所表述的婴儿积极情绪反应（guttural delight）以及灵动的水流感（liquid profile）在语义色彩和语境逻辑上均严重冲突。"
+    },
+    "translation": "认知发育语言学家观察到，前语言期的婴儿在回应母亲的积极反馈时，总会欢快地发出咯咯的喉音，展现出一种如流水般流动的声学特征，这与后来语音实验中机械的咔哒声截然不同。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_18",
+    "group_id": 89,
+    "group_name": "gurgle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "During the cognitive vigilance experiment, whenever participants drifted into micro-sleep, the proctor was instructed to ___ sharply on the wooden partition, utilizing the abrupt percussive stimulus to reset their sensory awareness.",
+    "options": [
+      "gurgle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性语法与语义双重锚点为“___ sharply on the wooden partition”（在木质隔板上清脆锐利地敲击）与“abrupt percussive stimulus”（突发性敲击刺激）。rap 严格搭配介词 on，且核心语义特征为“用快速、短促、锐利的动作敲击”（strike with a quick, sharp blow），与修饰语 sharply 及打击乐特征 percussive 完美契合；而 thud 本义为钝重、沉闷的撞击，与 sharply 构成语义自相矛盾。",
+    "distractor_analysis": {
+      "gurgle": "错误。gurgle 为流体发声动词（发出咕嘟声、汩汩流淌声），其动作主体通常为液体或咽喉气流，完全无法与施事者（the proctor）、介词搭配“on the wooden partition”以及“abrupt percussive stimulus”（突发敲击刺激）形成合乎逻辑的句法与语义关联。",
+      "rap": "正确。rap 意为“急促锐利地敲击/叩打”，常与介词 on/at 连用（rap sharply on...），用于发出清脆声响以唤起注意。此处 proctor（监考人员/主试）用叩击隔板的清脆锐响作为听觉刺激重置受试者的警觉状态，与“sharply”及“percussive stimulus”构成严丝合缝的搭配。",
+      "thud": "错误。thud 指沉重、沉闷的撞击声（a dull, heavy sound），其声学特征是低频、沉闷、非清脆的；而句中副词为“sharply”（锐利地、清脆地），二者在声学属性上构成不可调和的矛盾（oxymoron），故排除。",
+      "drone": "错误。drone 指发出连续不断的低沉嗡嗡声（continuous low hum），属于持续性长音，与下文强调的“abrupt”（突发的）与“percussive”（打击乐般的/敲击的）瞬态声学特征截然相反，且 drone 无法与“sharply on the partition”形成正确的搭配。"
+    },
+    "translation": "在认知警觉性实验中，每当受试者陷入微睡眠状态时，监考人员便接到指令在木质隔板上猛烈清脆地叩击，利用这种突发性的敲击刺激来重置其感官警觉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_19",
+    "group_id": 90,
+    "group_name": "hack, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "hack",
+    "question": "To synthesize the disparate theoretical frameworks, the cognitive scientist had to ___ his way through an exceptionally dense thicket of contradictory terminologies and obscure nineteenth-century monographs.",
+    "options": [
+      "hack",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "hack",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the idiomatic Way-Construction ('___ one's way through a thicket of...'), which exclusively licenses 'hack' to denote forcing a cognitive path through dense, tangled obstacles.",
+    "distractor_analysis": {
+      "hack": "正确。hack 与 'one's way through a thicket of...' 构成极具辨识度的动词路径构式（Way-construction），字面意为‘用利器劈出通道’，在学术认知语境中高度固定地隐喻‘在庞杂、晦涩的文献或术语迷障中艰难理清头绪/披荆斩棘开辟路径’。",
+      "lop": "错误。lop 的本义是斩落枝桠或切除赘余部分（severance/removal），侧重局部的截除，其语义特征无法投射为‘线性开辟道路’的动态过程，在英语构式语法中不能进入 'lop one's way through' 表达。",
+      "pare": "错误。pare 意为‘削去外皮、微量修减’，表示渐进、细微的逐层削减，缺乏开辟路径所蕴含的阻力克服与穿透力，无法构成 'pare one's way through'。",
+      "indent": "错误。indent 意为‘缩进、使成锯齿状’，属于排版或形态印记动词，与路径位移动词构式完全不兼容，语义荒谬。"
+    },
+    "translation": "为了整合这些截然不同的理论框架，这位认知科学家不得不披荆斩棘，艰难地穿过由矛盾术语和晦涩的19世纪专著构成的层层迷障。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b08_20",
+    "group_id": 90,
+    "group_name": "hack, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "To satisfy the journal's rigorous space constraints without sacrificing conceptual depth, the theorist had to ___ off two superfluous sections of his manuscript, preserving only the essential proofs.",
+    "options": [
+      "hack",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The anchor is the established editorial collocation '___ off [superfluous sections / paragraphs]', documented by Merriam-Webster as 'eliminate as unnecessary or undesirable —often used with off'.",
+    "distractor_analysis": {
+      "lop": "正确。lop 与副词 off 构成高度地道的学术与编辑搭配 'lop off'，专指‘果断切除、删去赘余的大块部分（如章节、段落、分支）’。韦氏词典明确保留其核心例证：'eliminate as unnecessary or undesirable —often used with off <lopped off entire paragraphs>'，与删去手稿中两个多余章节的语境完美契合。",
+      "hack": "错误。hack 强调乱砍滥劈（cut with rough or heavy blows），搭配 off 用在学术文稿修润语境中会产生严重的语域冲突（stylistic clash），带有粗暴残损文本的不当隐喻；且 hack off 在英式英语中极易产生‘使厌烦、使愤怒’的俚语歧义。",
+      "pare": "错误。pare 强调逐层微削或渐进缩减，用于压缩篇幅或精简论述时必须搭配副词 down（如 'pare down the manuscript'）或 away，不存在删去整块独立章节的 '*pare off two sections' 搭配；此外 sections 属于宏观结构单位，与 pare 的微观渐削特征相悖。",
+      "indent": "错误。indent 意为‘排版缩进’或‘刻出缺口’，无法与 off 搭配构成表示‘删削、去除’的及物动词短语，句法与语义均不成立。"
+    },
+    "translation": "为了在不牺牲概念深度的前提下满足期刊严苛的篇幅限制，这位理论家不得不删掉了手稿中两个多余的章节，仅保留最核心的证明过程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b60_01",
+    "group_id": 601,
+    "group_name": "dribble, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "dribble",
+    "question": "Despite scholars’ urgent appeals for empirical transparency, the state repository released only a sluggish ___ of declassified data, far too meager and sporadic to substantiate any definitive theoretical model.",
+    "options": [
+      "dribble",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "dribble",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Premodified by 'sluggish' and explicitly characterized as 'far too meager and sporadic', the noun must denote a very small, slow, intermittent trickle rather than an abundant or rapid surge.",
+    "distractor_analysis": {
+      "dribble": "正确。dribble在认知与信息语域中常引申指信息、数据或资源“断断续续、极其微量的涓滴”（a small, slow, or intermittent flow）。句中的限定词与修饰成分“only a sluggish...”（仅仅是迟滞缓慢的……）以及后文的“far too meager and sporadic”（过于匮乏且零星散碎）提供了无可辩驳的语义锚点，与dribble形成极度契合的学术搭配。",
+      "gush": "错误。gush指“涌出、喷发”，强调液体或信息的丰沛奔涌（a sudden copious outpouring），与句中强调数量稀少、释出缓慢的“only a sluggish... far too meager and sporadic”存在语义极性上的根本反冲。",
+      "flux": "错误。flux指“持续的变动、流动与不稳定性”（如in a state of flux）或物理学中的“通量”，既无法与修饰词“sluggish”搭配表达断续零散的数据流，也不能表达“微小零星的流出量”。",
+      "spate": "错误。spate指突发的大量发生、浪潮或洪流（a sudden flood or succession of events），通常后接复数可数名词（如a spate of studies/attacks），在量级与语意上与“sluggish”及“meager”（匮乏微小）截然对立。"
+    },
+    "translation": "尽管学者们强烈呼吁实证层面的信息透明，国家档案库却仅释出迟缓点滴的解密数据，其体量过于匮乏零碎，根本无法支撑任何具有确定性的理论模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_02",
+    "group_id": 601,
+    "group_name": "dribble, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "gush",
+    "question": "Instead of offering rigorous cognitive analysis, the reviewer's essay devolved into an effusive ___ of sentimental rhetoric, thereby completely obscuring the novel’s subtle philosophical tensions beneath uncritical adulation.",
+    "options": [
+      "dribble",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "gush",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactically governed by the modifier 'effusive' and complement 'of sentimental rhetoric', the noun requires an uninhibited, lavish outpouring of emotional praise, ruling out words for trickles, successions of events, or fluctuating transitions.",
+    "distractor_analysis": {
+      "gush": "正确。gush在文论与修辞语境中特指情感或溢美之词“过分热烈、毫无节制的倾泻或喷薄”（an effusive display; an uncritical, enthusiastic outpouring）。它与前置修饰语“effusive”（溢于言表的、奔放充沛的）以及后置的“sentimental rhetoric”（伤感说辞）和“uncritical adulation”（毫无批判性的谄媚）构成英语高级书面语中的经典同向修辞搭配。",
+      "dribble": "错误。dribble表示微弱迟缓的涓滴（a meager trickle），其表示的极小量与迟滞性与“effusive”（倾泻的、肆意的）在语义体量上产生不可调和的反向冲突。",
+      "flux": "错误。flux核心语义为“动荡不定的变迁或流动状态”，不能用于指代修辞言论或感情的“大肆迸发”，与“an effusive ... of sentimental rhetoric”产生句法语义脱节。",
+      "spate": "错误。spate侧重于在短时间内密集爆发的一连串离散事件（a rapid succession of distinct items/events），无法与形容抒情姿态的“effusive”搭配修饰不可数的抽象言辞“sentimental rhetoric”。"
+    },
+    "translation": "这篇书评并未提供严谨的认知分析，反而沦为一通滥情说辞的泛滥宣泄，从而在缺乏批判性的阿谀奉承之下，彻底掩盖了小说中微妙的哲学张力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_03",
+    "group_id": 602,
+    "group_name": "dripping, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "dripping",
+    "question": "During the sensory deprivation experiment, the rhythmic, monotonous ___ of condensation from the ceiling disrupted the subject's baseline concentration, demonstrating how subtle acoustic intrusions can severely impair deep analytical reasoning.",
+    "options": [
+      "dripping",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "dripping",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰语“rhythmic, monotonous”（有节奏的、单调的）与后文“subtle acoustic intrusions”（微弱的声音干扰）构成决定性语义锁扣，严格限定该词必须表示“水滴间歇、持续下滴的动作或滴答声”，排除表示剧烈喷涌、抽象变动或复数密集爆发的其他选项。",
+    "distractor_analysis": {
+      "dripping": "正确。dripping 作为名词表示“（水等液体从屋檐、天花板等处）滴下、滴沥”或“滴答滴答的声响”。句中“rhythmic, monotonous dripping of condensation”（凝结水有节奏且单调的滴答声）属于地道认知心理学与声学感知搭配，与后文“subtle acoustic intrusions”（微弱的声音侵扰）在语义强度与声学特征上完美呼应。",
+      "gush": "错误。gush 作名词指“（液体、气体等）突然大量涌出、喷出”，具有突发性和巨大冲击力。这与修饰语“rhythmic, monotonous”（有节奏且单调的）以及“subtle acoustic intrusions”（微弱轻细的声音干扰）发生严重的语义与烈度冲突。",
+      "flux": "错误。flux 意为“持续的流动”或抽象层面的“不断变动、不稳定状态”（如 in a state of flux），或在物理学中指“通量”。它不可用于形容冷凝水滴落的具体声响，且不能与“rhythmic, monotonous”形成描述声音干扰的固定搭配。",
+      "spate": "错误。spate 主要指“（通常为令人不快的事物的）接二连三爆发、密集发生”（常接复数名词，如 a spate of attacks），或指“（河水）暴涨、泛滥”。该词既不能接单数不可数名词 condensation 来表示物理水滴，也无法表示具有节奏规律的物理声音。"
+    },
+    "translation": "在感觉剥夺实验中，天花板上冷凝水单调而有节奏的滴答声打破了受试者的基线注意力，这表明微弱的声音干扰亦能严重削弱深层分析推理能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_04",
+    "group_id": 602,
+    "group_name": "dripping, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "gush",
+    "question": "Rather than offering an objective appraisal of the philosophical monograph, the reviewer succumbed to an uncritical ___ of sentimental praise, thereby compromising the intellectual rigor demanded by the journal.",
+    "options": [
+      "dripping",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "gush",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定修辞搭配“an uncritical ___ of sentimental praise”（毫无批判性的溢美之词/感情迸发）以及前文“objective appraisal”（客观评价）的鲜明反差，排他性地锁定了表示“狂热、过度的感情或赞美流露”的名词 gush。",
+    "distractor_analysis": {
+      "gush": "正确。gush 在引申认知与评论语域中表示“（感情、热情、赞辞等的）过分流露、滔滔不绝的狂热倾泻”（an effusive or exaggerated display of affection or enthusiasm）。“an uncritical gush of praise”是经典学术与文艺批评搭配，精准契合句中评述者失去客观性、陷入感性溢美的语境。",
+      "dripping": "错误。dripping 作为名词仅表示物理液体的滴落或烤肉滴下的油脂；虽然分词短语“dripping with praise”可作形容词性修饰，但名词形式绝无“a dripping of praise”这种搭配，属于严重的词性衍生与句法误用。",
+      "flux": "错误。flux 意为“变迁、涨落、流动”，指事物处于动态未定的变化过程（如 intellectual flux）。它无法与“sentimental praise”搭配表示主观情感或赞辞的迸发倾泻。",
+      "spate": "错误。spate 侧重指一连串事件在时间上的密集发生（多用于负面且通常后接可数复数名词，如 a spate of burglaries/criticisms）。它不可用于修饰不可数抽象情感名词 praise，且不能与 uncritical 构成修饰情感外溢的动宾短语（succumb to a spate 搭配不当）。"
+    },
+    "translation": "该审稿人未能对这部哲学专著进行客观审慎的评价，而是陷入了毫无批判性的感性溢美之词中，从而损害了该学术期刊所要求的严密理性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_05",
+    "group_id": 603,
+    "group_name": "edifice, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "edifice",
+    "question": "The epistemologist argued that the elaborate conceptual ___ of logical positivism collapses once its core verificationist premise is demonstrated to be self-defeating and methodologically untenable.",
+    "options": [
+      "edifice",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "edifice",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“elaborate conceptual ___ of logical positivism”与谓语“collapses”构成决定性锚点。在认识论与哲学语域中，edifice 常用于比喻宏伟繁复的“思想/理论/学术体系”，与 conceptual/intellectual 构成强搭配，且能与 collapses 形成系统坍塌的隐喻呼应；其余三项均为纯具象物理实体，无法用于抽象理论构架。",
+    "distractor_analysis": {
+      "edifice": "正确。edifice 本义指宏伟的建筑物，在高级学术与哲学语境（FIELD_COGNITION）中特指“（宏大的）理论、信仰或知识体系”（an elaborate system of beliefs or theories）。此处与“conceptual”（概念的）和“collapses”（崩塌）搭配，精准表达逻辑实证主义“概念大厦”的瓦解。",
+      "hull": "错误。hull 指船舶、潜艇的主体或飞机、种子的外壳，属于具象物理构件，在现代英语中不能与 conceptual 搭配用来指称抽象的哲学或学术体系，语义场严重错位。",
+      "mound": "错误。mound 意为“土堆、石堆、小丘”，指无规则或天然堆积的物理凸起，既缺乏内部复杂的理性构架（与 elaborate 矛盾），也无法指涉抽象认识论体系。",
+      "hangar": "错误。hangar 指停放、检修飞机的“机库”，为特定的航空地面设施，无任何哲学或学术层面的抽象隐喻用法，填入句中造成语法与逻辑荒谬。"
+    },
+    "translation": "这位认识论学者指出，一旦逻辑实证主义的核心证实主义前提被证明存在自相矛盾且在方法论上站不住脚，其精巧复杂的整个概念大厦便会轰然坍塌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_06",
+    "group_id": 603,
+    "group_name": "edifice, hull, mound, hangar",
+    "level": "TEM-8",
+    "target_word": "hull",
+    "question": "Naval engineers determined that microscopic fractures across the deep-sea submersible's titanium ___ had severely compromised its structural integrity, leaving the vessel acutely vulnerable to catastrophic implosion at extreme depths.",
+    "options": [
+      "edifice",
+      "hull",
+      "mound",
+      "hangar"
+    ],
+    "answer": "hull",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中定语“deep-sea submersible's titanium ___”（深海潜水器的钛合金……）与后文“compromised its structural integrity”（损害其结构完整性）及“catastrophic implosion at extreme depths”（在极端水深下的灾难性内爆）形成绝对物理与工程学锚点。潜水器承受流体静压的密封外壳在专业语境中必须用 hull（pressure hull / titanium hull）；其余选项均不符合航海工程本体构件定义。",
+    "distractor_analysis": {
+      "hull": "正确。hull 指船体、潜艇或深海潜水器的“外壳/主壳体”（the main body or frame of a ship or submersible），“titanium hull”（钛合金耐压外壳）是海洋工程中的核心术语，能严丝合缝地承受与解释 extreme depths 和 implosion（内爆）等上下文物理环境。",
+      "edifice": "错误。edifice 指大型陆地建筑或抽象理论大厦，绝不可能成为移动航海器或深海潜水器的一部分，产生概念范畴错误。",
+      "mound": "错误。mound 指土石堆或隆起土丘，是松散堆积物，既不能由“titanium”（钛金属）制造，也与深海潜水器的机械构件无任何关联。",
+      "hangar": "错误。hangar 是用于停放飞机的大型机库，潜水器本身属于小型深潜器，绝不可能内置或拥有承受深海水压的“钛合金机库”，在机械结构与逻辑上完全不通。"
+    },
+    "translation": "海军工程师测定，深海潜水器钛合金耐压外壳上的微观裂纹已严重破坏了其结构完整性，致使该潜水器在极端深度下极易发生灾难性的内爆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_07",
+    "group_id": 604,
+    "group_name": "euphemism, quip, maxim, epigram",
+    "level": "TEM-8",
+    "target_word": "euphemism",
+    "question": "In corporate communications, the phrase 'operational restructuring' has long functioned as an evasive ___ for widespread layoffs, deliberately masking the devastating economic impact on vulnerable lower-tier employees.",
+    "options": [
+      "euphemism",
+      "quip",
+      "maxim",
+      "epigram"
+    ],
+    "answer": "euphemism",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配“an evasive ___ for [harsh phenomenon]”与后文“deliberately masking the devastating economic impact”构成决定性排他锚点，精准指向“用温和间接的说法替代刺耳残酷事实”的概念。",
+    "distractor_analysis": {
+      "euphemism": "正确。意为“委婉语，婉辞”。该词与前置形容词“evasive”（闪烁其词的）及后置介词短语“for widespread layoffs”形成严丝合缝的搭配，完美契合后文“掩饰对基层员工的毁灭性经济冲击”的语境语义。",
+      "quip": "错误。意为“机智幽默的话、讽刺俏皮话”。“operational restructuring”是企业公文中的行政术语，而非现场插科打诨的幽默话语，且quip无法接“for widespread layoffs”表示“……的替代说辞”。",
+      "maxim": "错误。意为“格言、座右铭、行为准则”（如表达普遍人生真理的命题）。此处“业务重组”是一个名词性短语，并非指导行动或蕴含哲理的格言准则。",
+      "epigram": "错误。意为“警句、隽语”，特指构思精巧、常含悖论与机智的简短文学性言论（如王尔德式的精警名言）。它不具备公关话语中作为负面事物“掩饰性代称”的功能。"
+    },
+    "translation": "在企业公关宣传中，“业务重组”这一说辞长期以来充当着掩饰大规模裁员的委婉借口，刻意淡化了其对弱势基层员工造成的毁灭性经济冲击。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_08",
+    "group_id": 604,
+    "group_name": "euphemism, quip, maxim, epigram",
+    "level": "TEM-8",
+    "target_word": "quip",
+    "question": "When pressed on his campaign's dwindling finances, the candidate deflected the hostile interrogation with an offhand ___ about his modest wardrobe, momentarily eliciting laughter and defusing tension.",
+    "options": [
+      "euphemism",
+      "quip",
+      "maxim",
+      "epigram"
+    ],
+    "answer": "quip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心搭配“an offhand ___ about...”结合其功能“deflected the hostile interrogation”以及伴随结果“eliciting laughter and defusing tension”，唯一锁定了非正式、即兴而具有幽默化解作用的妙语。",
+    "distractor_analysis": {
+      "quip": "正确。意为“俏皮话、妙语”，尤指在对话或新闻发布会中即兴、随口说出用以反唇相讥或缓和气氛的幽默言论。“offhand quip”（随口讲的俏皮话）属于高频强搭配，且完全符合“引人发笑并化解紧张局面”的情境。",
+      "euphemism": "错误。意为“委婉语”。候选人拿自己的朴素衣橱自嘲并非用温和词汇替代禁忌刺耳之词，与形容词“offhand”及“化解现场交锋紧张”的功能不符。",
+      "maxim": "错误。意为“格言、行为准则”。格言具有普遍性与严肃性，既无法与“offhand”（随口的、漫不经心的）搭配，也不可能针对个人的私服衣橱展开。",
+      "epigram": "错误。意为“警句、警策之语”，特指高度凝练、经过精雕细琢并往往包含哲学悖论的书面或文学修辞；它与强调口头即兴、随口应答的修饰语“offhand”存在文体与修辞逻辑上的内在冲突。"
+    },
+    "translation": "当被追问其竞选资金告罄一事时，该候选人随口拿自己朴素的衣橱开了句俏皮玩笑以回避刁钻质问，瞬间引来笑声并化解了紧张局势。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_09",
+    "group_id": 605,
+    "group_name": "evangelist, rabbi, reverend, patriarch",
+    "level": "TEM-8",
+    "target_word": "evangelist",
+    "question": "As an ardent ___ for open-access publishing, Professor Thorne tirelessly proselytized the paradigm across research institutions, arguing that proprietary academic paywalls systematically throttled the democratic dissemination of scientific inquiry.",
+    "options": [
+      "evangelist",
+      "rabbi",
+      "reverend",
+      "patriarch"
+    ],
+    "answer": "evangelist",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定搭配 'an ardent evangelist for...'（某种理念/事业的热切倡导者）与后文谓语 'tirelessly proselytized the paradigm'（不知疲倦地宣传普及该范式）形成修辞与语用上的决定性互锁。",
+    "distractor_analysis": {
+      "evangelist": "正确。evangelist 除宗教意义上的“福音传道者”外，在现代学术及思想认知语境中常引申指“（某种运动、理念、技术的）狂热倡导者、鼓吹者”，高度固定搭配为 'an evangelist for/of sth'。句中 'ardent evangelist for open-access publishing' 与后文的 'proselytized'（积极宣传、劝导接受）在修辞和语意上构成完美的语义呼应。",
+      "rabbi": "错误。rabbi 专指犹太教的拉比、经师或精神导师，在英语认知语境中不能与介词 'for' 搭配充当某种世俗学术理念或体制改革的“倡导者/鼓吹者”，产生语义与惯用搭配的严重失配。",
+      "reverend": "错误。reverend 语法与用法均不符。该词主要作为基督教神职人员的尊称（如 The Reverend Mr. Davis），作普通名词时指牧师或教士，不具备表示“某理念倡导者”的引申义，亦不存在 'a reverend for [a cause]' 的句法搭配。",
+      "patriarch": "错误。patriarch 指“族长、家长”或“（教会的）大主教”，引申指某领域的“元老、宗师”（通常接介词 of，如 'patriarch of linguistics'）。其核心词义强调父权地位与德高望重的资历，而非主动游说、狂热推广某项举措的倡导者（advocate），与句中介词 'for' 及动词 'proselytized' 冲突。"
+    },
+    "translation": "作为开放获取出版模式的热切倡导者，索恩教授不知疲倦地在各研究机构间大力推广这一范式，坚称专有学术付费壁垒系统性地扼杀了科学探索成果的民主化传播。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_10",
+    "group_id": 605,
+    "group_name": "evangelist, rabbi, reverend, patriarch",
+    "level": "TEM-8",
+    "target_word": "rabbi",
+    "question": "Consulted on intricate questions of Talmudic jurisprudence, the revered ___ offered an exacting interpretation of biblical ethics, demonstrating an encyclopedic mastery of canonical commentaries and centuries of Halakhic precedent.",
+    "options": [
+      "evangelist",
+      "rabbi",
+      "reverend",
+      "patriarch"
+    ],
+    "answer": "rabbi",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性学科领域锚点：'Talmudic jurisprudence'（塔木德法理学）与 'Halakhic precedent'（哈拉卡/犹太教律法判例）属于犹太法学与经学专有范畴，其法定且权威的解释者只能是 rabbi。",
+    "distractor_analysis": {
+      "rabbi": "正确。rabbi 指犹太教拉比、经师及宗教法官，是犹太法律与传统中专职解释《塔木德》（Talmud）及判决“哈拉卡”（Halakha，犹太律法）的法定学者，与题干中的 'Talmudic jurisprudence' 及 'Halakhic precedent' 构成认知与词汇层面的唯一严密匹配。",
+      "evangelist": "错误。evangelist 专指基督教福音传道者或新约四福音书作者，属于基督教信仰传播体系，与犹太教律法体系（Talmudic/Halakhic）存在不可调和的宗教传统界限。",
+      "reverend": "错误。reverend 是对基督教牧师或神职人员的尊称或称呼，不具备犹太法学体系中的律法解释职能与经学权威。",
+      "patriarch": "错误。patriarch 指圣经旧约时期的族长/先祖（如亚伯拉罕），或指东正教等古老基督教教会的宗主教、大主教，并非负责裁定日常塔木德法理与哈拉卡律例的专门经师。"
+    },
+    "translation": "在被问及塔木德法理学的复杂问题时，这位德高望重的拉比对圣经伦理作出了精严的阐释，展现出对正典注疏以及数百年哈拉卡律法判例百科全书式的精通掌握。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_11",
+    "group_id": 606,
+    "group_name": "exaltation, apex, node, zenith",
+    "level": "TEM-8",
+    "target_word": "exaltation",
+    "question": "During profound meditative absorption, the contemplative practitioner frequently enters a distinct state of cognitive and emotional ___, in which ordinary mental chatter gives way to acute lucidity and serene joy.",
+    "options": [
+      "exaltation",
+      "apex",
+      "node",
+      "zenith"
+    ],
+    "answer": "exaltation",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中介词短语“a distinct state of cognitive and emotional ___”构成了核心搭配锚点，后文“acute lucidity and serene joy”明确指明此空是一种高度升华、充满狂喜与澄明的心智/情绪状态。四选项中仅exaltation可表示内在精神体验的欣快与升华状态，其余三词均为空间、几何或时间意义上的顶点/节点，语法与语义上均不可与“state of”形成此类搭配。",
+    "distractor_analysis": {
+      "exaltation": "正确。exaltation在此处指“（心智、情感上的）高度欣快、精神升华与极度喜悦”（an intensely heightened state of mental or emotional well-being and rapture）。在认知科学与意识心理学中，“a state of emotional/spiritual exaltation”是地道、经典的学术搭配，与句末“lucidity and serene joy”形成完美的语义共振。",
+      "apex": "错误。apex指物理或等级金字塔的“尖端、顶点”，属于几何或结构空间概念（常搭配at the apex of），不能用于“a state of ...”来修饰内心的认知与情感状态，在此造成搭配与语义范畴错位。",
+      "node": "错误。node指网络、系统或神经回路中的“节点、交汇点”，用于描述联结单元，完全无法指涉主观沉浸时的心智升华或情感狂喜状态。",
+      "zenith": "错误。zenith指天文天顶或隐喻权力、繁荣、历史时期的“全盛期、极盛点”（如the zenith of one's career），侧重时间维度的巅峰，不能用来充当主观情绪或心理体验的“状态”（英语中不存在a state of zenith的表达）。"
+    },
+    "translation": "在深度的冥想沉浸中，禅修者往往会进入一种认知与情感高度升华的独特状态；在此状态下，日常杂乱的思绪全然消退，取而代之的是极致的澄明与宁静的喜悦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_12",
+    "group_id": 606,
+    "group_name": "exaltation, apex, node, zenith",
+    "level": "TEM-8",
+    "target_word": "apex",
+    "question": "Positioned at the structural ___ of the cognitive hierarchy, executive control regulates subordinate information streams, whereas primary sensory modalities occupy the broader, foundational tiers of neural architecture.",
+    "options": [
+      "exaltation",
+      "apex",
+      "node",
+      "zenith"
+    ],
+    "answer": "apex",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首定语从句结构“at the structural ___ of the cognitive hierarchy”与下半句的“broader, foundational tiers”（更宽阔的基础层级）构成了严格的金字塔层级几何结构对仗（apex vs. base/foundational tiers）。在神经认知架构中，专指阶梯层级顶端的学术搭配唯有apex。",
+    "distractor_analysis": {
+      "apex": "正确。apex专指锥体或金字塔结构的“顶点、顶峰”，引申为层级组织结构的最高层。在认知神经科学（如预测编码模型、执行控制网络）中，“at the apex of the hierarchy”是标准固定学术术语，与后文的“subordinate information streams”及“foundational tiers”形成了严谨的“顶端—基底”层级对比。",
+      "exaltation": "错误。exaltation表示情感上的“欣喜狂热”或地位上的“提拔、擢升”，属于主观状态或社会行为名词，不具备立体结构中的几何顶点含义，无法与“structural ... of the hierarchy”搭配。",
+      "node": "错误。node指网络系统中的“节点”，一个层级系统中包含诸多处于不同层次的node，它不能特指凌驾于基层之上的“最高顶点”，无法与“foundational tiers”构成极顶对基底的结构呼应。",
+      "zenith": "错误。zenith是天文或历时性概念，指天顶或文明、事业、发展阶段的“鼎盛期、全盛巅峰”（属于时间或盛衰兴替轴线），不能指代金字塔型空间层级结构的几何顶点，不可与“structural ... of the hierarchy”搭配。"
+    },
+    "translation": "位于认知层级结构的最高顶点，执行控制功能调控着从属的信息流，而初级感觉通道则构成了神经架构中更为宽阔的基础层级。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_13",
+    "group_id": 607,
+    "group_name": "feint, gambit, gimmick, artifice",
+    "level": "TEM-8",
+    "target_word": "feint",
+    "question": "Anticipating the coalition's southern push, the general staged an elaborate diversionary ___ along the northern ridge, successfully drawing elite enemy battalions away from the actual corridor of advance.",
+    "options": [
+      "feint",
+      "gambit",
+      "gimmick",
+      "artifice"
+    ],
+    "answer": "feint",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Collocational phrase 'diversionary feint' paired with military context of drawing forces away from 'the actual corridor of advance' decisively selects a mock attack/deceptive movement.",
+    "distractor_analysis": {
+      "feint": "正确。feint 在军事与战略语境中专指“佯攻、假动作”，即为引开对手注意力而在另一方向发起的虚假进攻。句中固定搭配“diversionary feint”（牵制性佯攻）与后半句“drawing elite enemy battalions away from the actual corridor of advance”（将敌军精锐引离真正推进通道）严密契合。",
+      "gambit": "错误。gambit 源自国际象棋术语，指为了在后续谋取主动地位而先行做出牺牲或让步的“开局策略、冒险招数”。句中强调的是纯粹用于转移注意力的“假动作/佯攻”，并未涉及以牺牲局部资源换取长远定位优势的机制。",
+      "gimmick": "错误。gimmick 指为了吸引公众注意或促销而采用的“噱头、花招”，带有强烈的商业营销与大众传播色彩，置于严谨的高层军事战役叙事中属于严重的语体风格冲突（register clash）。",
+      "artifice": "错误。artifice 指抽象意义上的“狡黠、诡计、人工技巧”，侧重于巧妙的欺骗手段或做作虚饰，无法与具体作战层面上“在北侧山脊组织一场牵制性行动”的战术动作形成直接的实体搭配。"
+    },
+    "translation": "预料到联军会向南推进，将军在北部山脊组织了一场精密的牵制性佯攻，成功地将敌军精锐营引离了真正的推进通道。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_14",
+    "group_id": 607,
+    "group_name": "feint, gambit, gimmick, artifice",
+    "level": "TEM-8",
+    "target_word": "gambit",
+    "question": "In what analysts described as a high-stakes diplomatic ___, the envoy offered immediate tariff concessions during the opening round, sacrificing short-term revenue to secure binding commitments on maritime security.",
+    "options": [
+      "feint",
+      "gambit",
+      "gimmick",
+      "artifice"
+    ],
+    "answer": "gambit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The semantic configuration of 'opening round' combined with 'sacrificing short-term revenue to secure binding commitments' strictly defines an opening maneuver involving calculated sacrifice for positional gain (gambit).",
+    "distractor_analysis": {
+      "gambit": "正确。gambit 原指国际象棋中牺牲兵卒以换取先手优势的“弃兵开局”，在政治与外交语境中引申为“旨在换取全局或长远利益的开局谋略/策略性让步”。句中“high-stakes diplomatic gambit”是高频政经搭配，且与“opening round”（首轮）以及“sacrificing short-term revenue to secure binding commitments”（牺牲短期收入以确保约束性承诺）的逻辑完美锁定。",
+      "feint": "错误。feint 意为“虚晃一枪、佯攻”，其动作是虚假的、意在转移视线的幌子；而句中特使在首轮提出的关税让步是实质性的利益割舍（sacrificing short-term revenue），这恰恰构成了真实让步以谋取回报的 gambit，而非虚招 feint。",
+      "gimmick": "错误。gimmick 多指低劣浅薄的“噱头、把戏”，贬义明显且多见于公关广告领域，断然无法承载涉及国家重大利益的“高风险外交博弈”（high-stakes diplomatic）及海事安全条约的严肃语境。",
+      "artifice": "错误。artifice 强调“机巧、诡计”或“虚假表象”，缺乏特指在谈判或博弈初期“以局部代价换取长远战略优势的操作招法”这一核心语义特征，搭配在此处会导致句意空泛且偏离原意。"
+    },
+    "translation": "在分析人士所称的高风险外交策略博弈中，特使在首轮谈判中直接做出了关税让步，以牺牲短期财政收入为代价，换取了对方在海上安全问题上具有约束力的承诺。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_15",
+    "group_id": 608,
+    "group_name": "felicity, ecstasy, rapture, exaltation",
+    "level": "TEM-8",
+    "target_word": "felicity",
+    "question": "Despite the outward appearance of domestic ___, the novelist's private diaries reveal a protracted struggle with depressive isolation, belying the tranquil contentment that his biographers had long taken for granted.",
+    "options": [
+      "felicity",
+      "ecstasy",
+      "rapture",
+      "exaltation"
+    ],
+    "answer": "felicity",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The fixed attributive collocation 'domestic ___' combined with the contextual semantic parallel 'tranquil contentment' uniquely selects 'felicity' (denoting quiet, enduring, well-grounded happiness/bliss) and strictly excludes terms of frantic or elevated transport.",
+    "distractor_analysis": {
+      "felicity": "正确项。与“domestic”构成英美文学与学术传记中极其稳固的经典搭配（domestic felicity，意为“家庭幸福/和睦”）；同时，句末的“tranquil contentment”（宁静自足）构成了显性同义复指。felicity的核心义项即指平稳、持久的幸福感，完全契合语境。",
+      "ecstasy": "错误项。ecstasy指由于强烈刺激或宗教出神导致的狂喜、癫狂或脱离理智的状态（[+frenetic, +extreme]），既不能与“domestic”搭配（无“domestic ecstasy”这一说法），亦与后文“tranquil contentment”所体现的静谧安详极度矛盾。",
+      "rapture": "错误项。rapture多指因审美、狂爱或崇拜而产生的心醉神迷、被强烈愉悦感“掳掠”（carried away）的瞬间体验，习惯上常用于复数或审美语境（in raptures）；“domestic rapture”不符合固定搭配习惯，且无法体现日常长期的家庭安宁。",
+      "exaltation": "错误项。exaltation侧重于地位的拔高、精神的升华或精神病理学中的情绪高涨/夸大（elevation/sublimity/hypomania），带有明显的庄严、宏大或亢奋色彩，无法与描写日常私生活和睦安稳的“domestic”及“tranquil contentment”相融合。"
+    },
+    "translation": "尽管表面上呈现出家庭和睦幸福的景象，但这位小说家的私人日记却暴露出他与抑郁孤立状态的长期抗争，揭穿了传记作家们长期以来想当然认定的那种宁静自足。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_16",
+    "group_id": 608,
+    "group_name": "felicity, ecstasy, rapture, exaltation",
+    "level": "TEM-8",
+    "target_word": "ecstasy",
+    "question": "During the climactic phase of the Dionysian festival, participants were swept into a frenzied ___, abandoning all rational self-possession as rhythmic percussion drove them into convulsive dancing and delirious shouting.",
+    "options": [
+      "felicity",
+      "ecstasy",
+      "rapture",
+      "exaltation"
+    ],
+    "answer": "ecstasy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The modifier 'frenzied', combined with 'abandoning all rational self-possession' and physical symptoms of 'convulsive dancing and delirious shouting', aligns exclusively with the core lexicographical definition of 'ecstasy' (from Greek ekstasis: a trance-like state beyond reason and self-control).",
+    "distractor_analysis": {
+      "ecstasy": "正确项。ecstasy源自希腊语ekstasis（出神、脱离自身），权威词典核心义为“超脱理性与自我控制的状态（a state beyond reason and self-control）”，并常伴有强烈的身体症状与意识丧失。句中“frenzied ecstasy”（狂乱的出神/狂乱狂喜）为经典学术搭配，与“abandoning all rational self-possession”及抽搐、谵妄等病理狂热特征完美呼应。",
+      "felicity": "错误项。felicity表示安宁得体的幸福（well-being / contentment）或语言风格的贴切精妙，属于温和、稳态的情感范畴，与本句狂暴失控的酒神狂欢情境（frenzied, convulsive, delirious）存在根本性的语义极性冲突。",
+      "rapture": "错误项。rapture侧重被纯粹的愉悦、美感或崇敬所深深吸引和陶醉（absorbed delight），呈现出欣快或静观神往的精神特征，绝不含有“丧失理智自制力（loss of self-possession）”或伴随狂乱身体抽搐（convulsive / delirious）的暴力特征。",
+      "exaltation": "错误项。exaltation指尊贵身份、道德升华或高贵胜利带来的精神振奋（dignified elevation / triumph），带有尊严感与神圣提升感，无法用来修饰失控、疯狂且伴随谵妄呼喊的原始肉体狂欢状态。"
+    },
+    "translation": "在酒神节的高潮阶段，参与者们陷入了一种狂乱的出神状态，在节奏强烈的打击乐驱使他们陷入抽搐般的狂舞与谵妄的呐喊中时，彻底放弃了所有理性的自我控制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_17",
+    "group_id": 609,
+    "group_name": "fence, jetty, grate, fender",
+    "level": "TEM-8",
+    "target_word": "fence",
+    "question": "Rather than continue to sit on the ___ regarding monetary tightening, the central bank governor articulated a resolute policy framework designed to curtail mounting inflationary expectations.",
+    "options": [
+      "fence",
+      "jetty",
+      "grate",
+      "fender"
+    ],
+    "answer": "fence",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed cognitive idiom 'sit on the fence' denoting indecision or refusal to adopt a clear stance, contrasted here with 'articulated a resolute policy framework'.",
+    "distractor_analysis": {
+      "fence": "正确。此处考查固定认知习语'sit on the fence'（保持中立、观望、摇摆不定），精准契合语境中政策制定者在面对货币紧缩决策时的踌躇态度，与后半句'articulated a resolute policy framework'（阐明坚决的政策框架）形成鲜明逻辑对立。",
+      "jetty": "错误。jetty指突堤、防波堤或码头，属于海洋工程实体名词，无法与'sit on the...'构成表示认知犹豫或政策观望的抽象习语，置于此处产生严重语义断裂。",
+      "grate": "错误。grate指格栅、壁炉炉箅或发出刺耳磨损声，不能与'sit on the...'搭配表达抽象立场，代入句中在语义上完全不通。",
+      "fender": "错误。fender指汽车翼子板/保险杠、壁炉护栏或船体防碰垫，无任何与政策抉择相关的引申或固定搭配，无法成立。"
+    },
+    "translation": "央行行长并未在货币紧缩问题上继续摇摆不定，而是阐明了一套坚决的政策框架，旨在遏制日益攀升的通胀预期。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_18",
+    "group_id": 609,
+    "group_name": "fence, jetty, grate, fender",
+    "level": "TEM-8",
+    "target_word": "jetty",
+    "question": "Analyzing coastal erosion patterns, geomorphologists observed that the stone ___, designed to shelter the harbor mouth from littoral drift, had inadvertently caused severe downdrift beach starvation.",
+    "options": [
+      "fence",
+      "jetty",
+      "grate",
+      "fender"
+    ],
+    "answer": "jetty",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive marine engineering collocation and functional anchor: 'stone ___' paired with 'shelter the harbor mouth from littoral drift'.",
+    "distractor_analysis": {
+      "jetty": "正确。jetty专指延伸入水体中以影响水流、潮汐或保护港口的'突堤、防波堤'。'stone jetty'（石质突堤）与后文'shelter the harbor mouth from littoral drift'（保护港口入口免受沿岸泥沙漂移侵蚀）构成不可替代的专业搭配与功能呼应。",
+      "fence": "错误。fence指陆地上用于圈定范围的'栅栏、围栏'，无法延伸至海水中承担阻挡波浪、导流泥沙及保护港湾入口的水工职能。",
+      "grate": "错误。grate指由平行或交错金属条构成的'格栅、漏斗网'（如排水井盖或壁炉护栅），既非石质巨型构筑物，亦无法用于庇护港口海域。",
+      "fender": "错误。fender作为航海词汇时指悬挂于船舷以防碰撞的'防碰垫/护舷'，亦可指壁炉护栏，并非延伸入海阻隔水流的石质固定工事。"
+    },
+    "translation": "地貌学家在分析海岸侵蚀模式时观察到，那座旨在保护港口免受沿岸泥沙漂流影响的石质突堤，却无意中导致了下游海滩严重的泥沙匮乏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_19",
+    "group_id": 610,
+    "group_name": "finery, rig, outfit, turnout",
+    "level": "TEM-8",
+    "target_word": "finery",
+    "question": "During the monarch's official reception, the visiting dignitaries arrived arrayed in their ceremonial ___, their hand-embroidered velvet robes and diamond-encrusted insignia dazzling the assembled courtiers.",
+    "options": [
+      "finery",
+      "rig",
+      "outfit",
+      "turnout"
+    ],
+    "answer": "finery",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中复数主语'visiting dignitaries'与介词短语'arrayed in their ceremonial ___'搭配，且后文独立主格详述了'hand-embroidered velvet robes'与'diamond-encrusted insignia'等极尽奢华的礼服与饰品。从语法数的一致性看，outfit 与 rig 均为可数名词单数，不能被复数主语'dignitaries'直接以单数形式共同领属；从语义与搭配看，finery 为不可数名词，专指华丽服饰与耀眼首饰（elaborate or showy attire and accessories），与 ceremonial 构成极为经典的学术文学搭配 ceremonial finery。",
+    "distractor_analysis": {
+      "finery": "正确。finery 为不可数名词，指“华丽的服饰、盛装及其配饰”，专用于描述庆典、典礼上极尽奢华的服章首饰（ceremonial finery）。其语法属性为不可数，与复数主语 visiting dignitaries 的领属关系及后文长袍、珠宝饰物的语境完美匹配。",
+      "rig": "错误。rig 在指代衣物时多表示“特种工作装备”或略带诙谐色彩的“古怪装束”，且为可数名词。此处既与王室招待会奢华庄重的语域冲突，又与复数主语在语法数上不符（复数使节不能合穿一套单数 rig）。",
+      "outfit": "错误。outfit 为普通可数名词，指为了特定场合准备的“成套服装”。指代复数显贵各自的服装时必须用复数形式 outfits，单数 outfit 产生语法数的不一致；且该词语域较为平实日常，无法承载后文刺绣丝绒与钻石徽章所展现的高层级华丽感。",
+      "turnout": "错误。turnout 核心词义为“到场人数/出席率”或“马车与马匹的装备”，极少情况下指“外表仪容的整洁（如 a neat turnout）”，绝不能指代具体的豪华礼服或珠宝配饰，填入此处会造成严重的语义破裂。"
+    },
+    "translation": "在君主的官方招待会上，来访的显贵们身着典雅庄重的礼服盛装出席，其手工刺绣的天鹅绒长袍与镶满钻石的徽章令在场的一众廷臣目眩神迷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b60_20",
+    "group_id": 610,
+    "group_name": "finery, rig, outfit, turnout",
+    "level": "TEM-8",
+    "target_word": "rig",
+    "question": "To optimize aerodynamic performance while navigating narrow coastal channels, the naval architect modified the vessel’s traditional fore-and-aft ___, replacing the cumbersome gaff mainsail with an efficient, high-aspect-ratio Bermuda sail plan.",
+    "options": [
+      "finery",
+      "rig",
+      "outfit",
+      "turnout"
+    ],
+    "answer": "rig",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_SCIENCE",
+    "anchor_clue": "句中的决定性排他锚点为复合修饰语“fore-and-aft”（纵帆式的）以及上下文中的“naval architect”（造船工程师）、“gaff mainsail”（斜桁主帆）与“Bermuda sail plan”（百慕大帆装方案）。《韦氏词典》（Merriam-Webster）在 rig 词条首个义项（Sense 1a）下明确定义并给出权威示例：“the distinctive shape, number, and arrangement of the sails and masts of a ship <a ship with a fore-and-aft rig>”。在造船工程与航海学中，船舶桅杆与风帆的特定配置方案严格固定称为 rig（如 fore-and-aft rig 纵帆帆装、square rig 横帆帆装）。其余三个选项均无此专业术语含义，代入均会导致绝对的搭配与语义破裂。",
+    "distractor_analysis": {
+      "rig": "正确。rig 在《韦氏词典》中的第一义项即为“（船只的）帆装、索具配置”（the distinctive shape, number, and arrangement of the sails and masts of a ship），其官方例证正是 a ship with a fore-and-aft rig。句中指造船工程师对船只传统的“纵帆帆装”（fore-and-aft rig）进行气动改良，以高展弦比的百慕大帆替代笨重的斜桁帆，术语搭配与语域高度精确严谨。",
+      "finery": "错误。finery 专指喜庆或社交场合中用于炫耀排场的“华丽服饰、艳丽装束”（showy or gaudy dress or decoration），属于服饰装潢范畴，与船舶工程、空气动力学及风帆索具系统毫无语义交集，代入语境极其荒谬。",
+      "outfit": "错误。outfit 用作名词时指为特定目的穿着的“成套服装”或“成套工具装备”，亦可指“机构、团队”。虽然动词 outfit 可表示为船舶装配给养，但名词 outfit 绝不能表示帆船桅杆与风帆的配置形式或帆装方案；英语中完全不存在 *fore-and-aft outfit* 这一表达，代入产生严重的术语搭配破裂。",
+      "turnout": "错误。turnout 的主要义项包括“出席人数、到场率”、带马匹与随从的“全套马车装置”，或指个人的“整套穿着仪表”（getup）。它完全不具备船舶工程中风帆与桅杆系统的技术含义，无法与 fore-and-aft 形成有效搭配。"
+    },
+    "translation": "为了在狭窄的沿海航道中航行时优化空气动力学性能，这位造船工程师改良了该船传统的纵帆帆装，将笨重的斜桁主帆更换为高效的大展弦比百慕大帆装方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

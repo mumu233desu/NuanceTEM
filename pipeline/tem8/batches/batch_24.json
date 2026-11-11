@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b24_01",
+    "group_id": 241,
+    "group_name": "itch, lust, crave, hanker",
+    "level": "TEM-8",
+    "target_word": "itch",
+    "question": "Relegated to the political periphery for over a decade, the party’s radical ideologues now ___ to dismantle the constitutional settlement, driven by a restless, prickling impatience that alarms moderate legislators.",
+    "options": [
+      "itch",
+      "lust",
+      "crave",
+      "hanker"
+    ],
+    "answer": "itch",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Followed by the infinitive 'to dismantle' and qualified by 'restless, prickling impatience', which strictly selects the physiological and psychological metaphor of 'itch' (a fidgety, prickling urge to act) while syntactically and semantically excluding 'lust' (requires 'after/for'), 'crave' (strictly transitive), and 'hanker' (connotes wistful, nostalgic yearning rather than urgent, prickling action).",
+    "distractor_analysis": {
+      "itch": "正确。itch 作动词时常与不定式连用（itch to do sth），源自其身体发痒、坐立难安的生理本义，引申为‘急欲、按捺不住渴望做某事’，专指一种伴随着焦躁不安、跃跃欲试的冲动（restless, impatient urge to act）。句中修饰语 'driven by a restless, prickling impatience'（被一种焦躁、刺痛般的急迫感驱使）与 itch 的生理触觉隐喻（prickling sensation）形成严丝合缝的同构映射与语义呼应。",
+      "lust": "错误。句法与语义均不符。在现代标准学术英语中，动词 lust 为不及物动词，通常后接介词短语（lust after/for sth，如 lust after power/wealth），极不合规范地接动词不定式（*lust to dismantle）。此外，lust 核心侧重于贪婪掠夺性的占有欲或肉欲，无法体现本句语境中急躁跳脚、跃跃欲试的行动紧迫感。",
+      "crave": "错误。句法受限且语义不符。crave 在现代标准英语中为典型及物动词，后接名词性短语（如 crave stability, crave power），接动词不定式（*crave to dismantle）属于罕见或非规范用法。其语义核心在于深层心理或生理上的‘渴望得到/依赖性需求’（to want intensely as a need），而非急不可耐地采取破坏性行动。",
+      "hanker": "错误。语体色彩与搭配冲突。hanker 通常与介词连用（hanker after/for sth），即使偶尔后接不定式（hanker to do），其核心语义是‘（因失落、怀旧或脱离现实而产生的）留恋、向往、憧憬’（a persistent, wistful or nostalgic longing），多指向过去或不可得之物，与句中激进空想家‘摧毁宪制安排’的即时攻击性及 'restless, prickling impatience'（躁动、如芒在背的急性子）存在严重的语义与语域冲突。"
+    },
+    "translation": "在沦落至政治边缘十余年后，该党的激进空想家们如今按捺不住要瓦解既有宪法体制，他们那种焦躁不安、刺痛般的急切冲动令温和派立法者深感忧虑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_02",
+    "group_id": 241,
+    "group_name": "itch, lust, crave, hanker",
+    "level": "TEM-8",
+    "target_word": "lust",
+    "question": "Rather than passively yearning for bygone privileges, these predatory despots openly ___ after absolute dominion, deploying paramilitary violence and state terror to subjugate their neighbors and amass illicit fortunes.",
+    "options": [
+      "itch",
+      "lust",
+      "crave",
+      "hanker"
+    ],
+    "answer": "lust",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The preposition 'after' combined with the predatory context ('predatory despots', 'absolute dominion', 'paramilitary violence') and the explicit repudiation of passive nostalgia ('Rather than passively yearning...') decisively selects 'lust after', while ruling out 'itch' (*itch after), 'crave' (*crave after), and 'hanker' (which denotes wistful/nostalgic longing and causes logical contradiction).",
+    "distractor_analysis": {
+      "itch": "错误。句法搭配完全不成立。itch 作不及物动词表示渴望时，其标准句法要求接不定式（itch to do）或介词 for（itch for sth，如 itch for a fight），在现代英语中绝对不可与介词 after 连用（*itch after 为严重搭配错误）。",
+      "lust": "正确。句法与语境严丝合缝。动词短语 lust after（或 lust for）指‘极度贪求、垂涎、贪图（权力、财富或领地）’（to have an intense, rapacious desire for），完美契合主语复数 predatory despots 的谓语形式，且与后文‘绝对统治权’（absolute dominion）、‘准军事暴力’（paramilitary violence）及‘掠夺不义之财’（amass illicit fortunes）的侵略性负面语义场（predatory semantic prosody）达成百分之百的契合。",
+      "crave": "错误。句法搭配不符。在现代标准学术英语中，crave 绝大多数情况下作为单及物动词直接接宾语（如 crave power / crave recognition），偶尔在文学或古英语中接介词 for（crave for sth），但绝不与 after 连用（*crave after 属于非规范搭配）。",
+      "hanker": "错误。语意色彩与篇章逻辑双重排斥。虽然 hanker after 属于地道搭配，但其核心词义是‘怀旧、怅惘或微弱持续的渴望’（a restless or wistful longing, often nostalgic），常用于怀念过去的宁静或旧日时光（如 hanker after a quiet life / the good old days）。前置从句‘Rather than passively yearning for bygone privileges’（绝非仅仅消极怀恋过往特权）已经在逻辑上明确排除了消极怀旧的心理，若在主句再选入表示怅惘怀旧的 hanker after，会导致严重的语义同义反复与篇章逻辑逆转；同时它也完全无法承载掠夺性独裁者施展暴力、争夺霸权的凶残与贪婪。"
+    },
+    "translation": "这些掠夺成性的独裁者绝非仅仅消极怀恋过往特权，而是公然觊觎绝对统治权，通过实施准军事暴力和国家恐怖手段来征服邻国并敛聚不义之财。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_03",
+    "group_id": 242,
+    "group_name": "jingle, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "jingle",
+    "question": "During sensory perception trials, subjects were conditioned to detect subtle acoustic cues, observing that small brass tags would ___ faintly at the slightest tremor, triggering instantaneous cognitive recall.",
+    "options": [
+      "jingle",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "jingle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "锚点在于受轻微震动刺激的主体“small brass tags”（小型黄铜标牌）与副词“faintly”（微弱地）。在此物理声学场景下，仅有表示金属小物件碰撞发出清脆叮当声的“jingle”符合题意。",
+    "distractor_analysis": {
+      "jingle": "正确。特指金属小物件（如铃铛、钥匙、黄铜片等）因晃动或接触而发出轻微清脆的叮当碰撞声（to make a light clinking or tinkling metallic sound），与句中的“small brass tags”、“faintly”以及轻微震动（tremor）形成精准的语义与声学搭配。",
+      "honk": "错误。本义指汽车喇叭的嘟嘟声或雁类的粗粝啼鸣（a loud, harsh sound），音量大且音质粗重，与微小铜片受轻微震动发出的“faintly”轻细声响在声学特征上完全背离。",
+      "creak": "错误。指木材、铰链、老旧受力结构等在重压或摩擦下发出的嘎吱、吱呀声（a harsh squeaking or scraping sound caused by friction or strain），不适用于悬挂或晃动的小型金属硬物碰撞发声。",
+      "racket": "错误。用作不及物动词时表示喧闹、作嘈杂大噪（to make a loud, confusing noise or din）或过喧嚣生活，侧重混乱宏大的喧闹噪音，与句中“subtle acoustic cues”（微妙的声学线索）及“faintly”构成明显的语意极性冲突。"
+    },
+    "translation": "在感官知觉实验中，受试者经过训练去察觉微妙的声学线索，他们注意到小黄铜标牌在最轻微的震颤下便会发出微弱的叮当声，从而瞬间触发认知回忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_04",
+    "group_id": 242,
+    "group_name": "jingle, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Cognitive ethologists observed that migratory geese deliberately ___ in rhythmic intervals during nocturnal flight, utilizing these resonant, harsh vocalizations to maintain flock cohesion and spatial orientation across vast distances.",
+    "options": [
+      "jingle",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心决定性锚点在于主语“migratory geese”（迁徙的雁群）以及后文对其声音的同位界定“resonant, harsh vocalizations”（洪亮而粗粝的发声鸣叫）。生物声学中特指大雁鸣叫的动词唯有“honk”。",
+    "distractor_analysis": {
+      "honk": "正确。在动物认知与生物声学中，“honk”为特指雁类等水禽发出粗粝高亢叫声的标准词汇（to make the characteristic harsh loud cry of a goose），与主语“migratory geese”及后文“harsh vocalizations”形成严丝合缝的专业物种与发声搭配。",
+      "jingle": "错误。专指金属碰撞产生的细碎清脆叮当声，不可用于描述大型鸟类的生理喉部发声，存在严重的语义范畴与实体搭配错误。",
+      "creak": "错误。特指物理摩擦挤压产生的吱呀声，无法指代禽鸟有意识发出的共振啼鸣（vocalizations）。",
+      "racket": "错误。作为动词时意为“喧嚷、吵闹”，属于非特异性的混乱噪音描述，缺乏特定物种鸣叫的生物学指代功能，无法衔接后文精确的科学解释“utilizing these... vocalizations”。"
+    },
+    "translation": "认知动物行为学家观察到，迁徙的雁群在夜间飞行时会特意有节奏地引吭高鸣，利用这种洪亮粗粝的叫声在远距离飞行中维持雁阵的凝聚力与空间定位。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_05",
+    "group_id": 243,
+    "group_name": "loot, pinch, swipe, rustle",
+    "level": "TEM-8",
+    "target_word": "loot",
+    "question": "In the chaotic wake of the institute's dissolution, predatory corporate entities moved swiftly to ___ its vast archival holdings, systematically stripping the impoverished university of decades of patentable scientific research and proprietary data.",
+    "options": [
+      "loot",
+      "pinch",
+      "swipe",
+      "rustle"
+    ],
+    "answer": "loot",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于宾语“vast archival holdings”（庞大的档案馆藏）与后置分词从句“systematically stripping the impoverished university of decades of patentable scientific research”（系统性剥夺该大学数十年的专利科研成果）。句式所描述的是机构层面的、毁灭性且大规模的系统性洗劫与掠夺，在语体上属于极其严肃的高阶学术/政经话语。四个选项中，仅有loot具备指称大规模、掠夺性洗劫机构资源与文化/知识宝库（depository/holdings）的正式语体色彩与语义体量；pinch（指琐碎偷窃）与swipe（美式口语顺手牵羊）在语体和体量上严重失配，rustle则严格限定于盗窃牲畜，语义直接断裂。",
+    "distractor_analysis": {
+      "loot": "正确。意为“洗劫、大规模掠夺”。既可及物支配被洗劫的地点/馆藏机构，也可指掠夺重大财产与知识资源。句中的“vast archival holdings”与“systematically stripping... of decades of patentable scientific research”构成严密的大规模掠夺语境，其庄重严肃的政经语体与宏大语义完全切合。",
+      "pinch": "错误。主要用于英式非正式或文学语境中指“偷拿、顺手牵羊、微小剽窃”，对象通常是微小物品或具体个案，完全无法支配“vast archival holdings”（庞大档案馆藏），且用于此处会产生极其严重的语体降格与体量不符。",
+      "swipe": "错误。属于美式非正式口语词，本义指带有挥动动作的抓取，引申为“随手偷走、顺走”（如顺走小物件）。在论述跨国企业掠夺大学科研专利档案的严谨学术语境中存在严重的语域冲突（register clash），且无法搭配宏观馆藏。",
+      "rustle": "错误。属于专门词汇，在及物动词表示非法占有时严格指“偷盗牛马等牲畜（尤指从畜群中盗窃）”。将其用于知识产权或文献馆藏属于严重的语义范畴错误（category error）。"
+    },
+    "translation": "在该研究所解体的混乱余波中，掠夺性的企业实体迅速采取行动洗劫了其庞大的档案馆藏，系统性地剥夺了这所陷入困境的大学数十年积累的可专利化科学研究与专有数据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_06",
+    "group_id": 243,
+    "group_name": "loot, pinch, swipe, rustle",
+    "level": "TEM-8",
+    "target_word": "pinch",
+    "question": "As persistent inflationary pressures and surging debt-servicing costs continue to ___ municipal budgets across the region, local administrators face mounting pressure to scale back non-essential public infrastructure projects.",
+    "options": [
+      "loot",
+      "pinch",
+      "swipe",
+      "rustle"
+    ],
+    "answer": "pinch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "决定性锚点在于主语抽象宏观经济动因“persistent inflationary pressures and surging debt-servicing costs”（持续通胀压力与激增的偿债成本）与及物动词宾语“municipal budgets”（市政预算）的搭配。在宏观经济与公共财政语篇中，pinch 是极为地道、权威的书面语及物动词，专指“压缩、紧缩（预算/开支）；使（财政状况）陷入拮据与困窘”（Merriam-Webster 明确收录：budgets pinched by inflation；Collins: to be pinched by rising costs）。相比之下，loot（洗劫/抢掠）、swipe（挥击/刷卡/口语顺走物品）与 rustle（偷盗牲口/发沙沙声）在语义上均无法与“budgets”形成合逻辑的动宾支配，唯有 pinch 在句法、语义和学术语体上无可替代。",
+    "distractor_analysis": {
+      "pinch": "正确。在此处取其书面语中表示“使（预算、资金）紧缩、挤压、使受经济困窘”的权威及物动词义项（Merriam-Webster：budgets pinched by inflation）。句中主语为通胀与偿债成本压力，宾语为“municipal budgets”（市政预算），pinch 准确传达出客观经济力量对公共预算的挤压和制约，完美符合《经济学人》等主流财经与公共政策语篇的高端搭配要求。",
+      "loot": "错误。主要指在战乱、暴乱中“洗劫、抢掠”（如 loot a city/store）或通过非法腐败手段大肆侵吞（如 loot the national treasury）。一方面，通胀与偿债成本等客观经济规律无法充当具有恶意犯罪意图的主体去“洗劫”预算；另一方面，loot 支配的对象通常是具体存放财物的实体场所或库藏资金，不能支配抽象的收支额度“budgets”，属于明显的搭配与逻辑范畴错误。",
+      "swipe": "错误。基本义为“挥拳猛击、猛挥”或“刷（磁卡）”，在非正式口语中可指偷窃具体物品。该词在任何语义下都绝无“在财政上压缩、使预算拮据”之义；宏观经济动因不可能“swipe”市政预算，“swipe municipal budgets”在语法与语义上皆发生严重破裂。",
+      "rustle": "错误。该词作及物动词时专门指在牧区“偷盗（牛、马等牲畜）”（如 rustle cattle）；不及物动词时指“发出沙沙声”。该词无论字面义还是任何隐喻延伸，都绝对无法与抽象的财政预算“municipal budgets”相搭配，属于荒谬的范畴谬误（category error）。"
+    },
+    "translation": "随着持续的通胀压力和激增的偿债成本不断紧缩该地区的市政预算，地方管理者面临着越来越大的压力，不得不缩减非必需的公共基础设施项目。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_07",
+    "group_id": 244,
+    "group_name": "lull, pacify, appease, mollify",
+    "level": "TEM-8",
+    "target_word": "lull",
+    "question": "Prolonged macroeconomic stability and artificially suppressed interest rates served only to ___ complacent institutional investors into underestimating structural credit risks, thereby precipitating an unforeseen liquidity crunch across emerging markets.",
+    "options": [
+      "lull",
+      "pacify",
+      "appease",
+      "mollify"
+    ],
+    "answer": "lull",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配为“___ sb into underestimating...”（致使某人放松警惕而低估……），且语境核心为“表面平稳诱使投资者盲目乐观自满”。《韦氏词典》将 lull 明确定义为“calm by deception”或“to cause to relax vigilance”，在所给选项中，唯有 lull 具备表达“以虚假表象麻痹某人以致丧失警惕”的认知语义，且在句法上唯一能严密支配“into + V-ing”的致使结果结构。",
+    "distractor_analysis": {
+      "lull": "正确。lull 强调以虚假的安宁或表面现象麻痹他人、使其放松警觉（calm by deception / relax vigilance），其经典惯用句式为“lull sb into (doing) sth”，与句中的 complacent（盲目自满的）及 into underestimating（误入低估风险的境地）在句法和语义上实现双重锁定。",
+      "pacify": "错误。pacify 意为平息狂暴、恐慌或暴力动荡以恢复秩序（counteracting agitation or tumult），既无“欺骗性麻痹”的含义，也完全不具备“pacify sb into doing sth”的句法支配能力，代入后造成句法断裂。",
+      "appease": "错误。appease 核心语义为“通过单方面妥协或满足索求以平息冲突”（buying off or satisfying demands），常带有牺牲原则以求苟安的贬义色彩；它既不能接“into doing sth”，也与句中资本市场因长期稳定而产生的主观麻痹心理不符。",
+      "mollify": "错误。mollify 侧重于抚平受伤害的自尊、情感，或软化个人的愤怒与愠色（soothing hurt feelings or temper），其宾语通常为感到受屈或被激怒的人，不接“into + V-ing”结构，无法表达对系统性风险的认知钝化。"
+    },
+    "translation": "长期宏观经济的平稳以及人为压低的利率，仅仅起到了麻痹自满的机构投资者、使其低估结构性信用风险的作用，从而在各新兴市场引发了一场始料未及的流动性危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_08",
+    "group_id": 244,
+    "group_name": "lull, pacify, appease, mollify",
+    "level": "TEM-8",
+    "target_word": "pacify",
+    "question": "Through transparent emergency briefings and substantiated epidemiological data, the public health authority managed to ___ the panicked populace, successfully counteracting the widespread hysteria that had threatened to paralyze the metropolis.",
+    "options": [
+      "lull",
+      "pacify",
+      "appease",
+      "mollify"
+    ],
+    "answer": "pacify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中行动对象为“panicked populace”（惊恐的民众），宾语补足与结果指向“counteracting the widespread hysteria”（抵消、消除蔓延的歇斯底里恐慌）。《韦氏词典》对 pacify 的权威辨析即为“soothing or calming by counteracting the agitation, tumult, or excitement”。句首的“transparent... and substantiated”（透明且经过证实的真实数据）在语义逻辑上直接排除了依靠欺骗麻痹的 lull；语境不含任何单方面退让或满足勒索要求，排除了 appease；针对群体极度恐慌与歇斯底里（panic/hysteria）而非个人受挫的自尊或愤懑，排除了 mollify。",
+    "distractor_analysis": {
+      "pacify": "正确。pacify 准确表达通过强有力的手段抵消、平息群体的极度骚动、骚乱或恐慌情绪（counteracting agitation, tumult, or excitement），完美契合用客观证据化解民众恐慌歇斯底里（hysteria）并恢复理智秩序的认知语境。",
+      "lull": "错误。lull 强调“calm by deception”（通过欺骗使人盲目平静或放松戒备），而句中官方采取的是透明（transparent）且经证实的（substantiated）科学事实，逻辑与伦理色彩与 lull 彻底相悖。",
+      "appease": "错误。appease 专指“以让步、妥协手段满足侵略者或索求者的胃口”（pacify by making concessions），句中面对的是公共卫生突发事件中的恐慌公众，不存在任何向无理要求屈服或牺牲原则的语义场景。",
+      "mollify": "错误。mollify 严格指安抚受伤害的情感、顾及受损的面子，或平息被激怒者的怨气（soothing hurt feelings or softened temper），其语义特征无法用于化解面临灾难威胁时的群体性惊恐（panicked populace / hysteria）。"
+    },
+    "translation": "通过透明的应急通报与确凿的流行病学数据，公共卫生部门成功安抚了惊恐万状的民众，有效平息了险些使整座大都市陷入瘫痪的群体性恐慌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_09",
+    "group_id": 245,
+    "group_name": "lurch, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "lurch",
+    "question": "Confronted with contradictory empirical findings, the research committee did not calmly reassess its paradigm, but instead began to ___ precipitously into speculative dogmatism, abandoning rigorous analytical standards.",
+    "options": [
+      "lurch",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "lurch",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the directional collocation '___ precipitously into speculative dogmatism', which denotes a sudden, uncontrolled, and jarring shift or plunge into an extreme state of thought. Only 'lurch' (MW: 'move abruptly') licenses the dynamic directional preposition 'into' in this cognitive and ideological context, whereas 'waver' cannot take 'into' to indicate falling into a state, and 'quiver' and 'writhe' are restricted to physical/somatic tremors and contortions.",
+    "distractor_analysis": {
+      "lurch": "正确。Merriam-Webster 核心释义为“move abruptly”（突变、猛然倾斜或晃动）。在认知与思想动态语境中，'lurch (precipitously) into...' 是高级英语中极其地道的隐喻表达，指思想或决策‘仓促、失控地骤然倒向或陷入某种极端状态’，与句中摒弃理性分析、突然倒向教条主义的语义完美契合。",
+      "waver": "错误。主要意为‘犹豫、动摇、摇摆不定’（vacillate, falter）。语法上通常与 in（如 waver in one's commitment）或 between（在两者之间游移）连用，表示迟疑不决，绝不能接介词 into 表达‘骤然陷入/转变至某种理论范式’。",
+      "quiver": "错误。指极其微弱而快速的颤抖（如因兴奋、恐惧或物理微振），用于生理或物理震颤，无法与副词 precipitously 及介词 into 连用修饰理论立场的突变。",
+      "writhe": "错误。指因剧烈肉体痛苦、极度羞耻或窘迫而在肢体上‘翻滚、扭曲’（如 writhe in pain/shame），语义核心为痛苦挣扎，与学术思维转向‘speculative dogmatism’毫无关联且搭配破裂。"
+    },
+    "translation": "面对相互矛盾的实证结果，研究委员会并未冷静地重新审视其理论范式，反而骤然倒向思辨性的教条主义，彻底摒弃了严谨的分析标准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_10",
+    "group_id": 245,
+    "group_name": "lurch, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite encountering fierce methodological skepticism from orthodox peers, the cognitive scientist did not ___ in her conviction that subconscious semantic priming profoundly influences conscious rational deliberation.",
+    "options": [
+      "lurch",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'did not ___ in her conviction that...' provides an unequivocal collocational anchor. In academic cognitive discourse, 'waver in (one's) conviction/faith/resolve' is the standard, canonical idiom for faltering or showing hesitation in judgment or belief. None of the other three verbs can syntactically or semantically govern 'in (one's) conviction' to denote intellectual steadfastness.",
+    "distractor_analysis": {
+      "waver": "正确。Merriam-Webster 释义为‘to vacillate; falter in opinion or allegiance’（在信念、立场上动摇、迟疑）。在学术与认知语境中，'waver in one's conviction' 是极为典型的固定搭配，意为‘信念发生动摇’，在否定结构 'did not waver' 中精准表达面对同行质疑时对科学假说的坚定不移。",
+      "lurch": "错误。意为‘突然倾斜、踉跄行进’（move abruptly），侧重空间或状态上的骤发失控性位移，常搭配 into/toward，不能与 'in one's conviction' 搭配来表达认知层面的‘迟疑或动摇’。",
+      "quiver": "错误。指微弱颤动（如声音发颤 voice quivered，或身体因情绪颤抖），不能用于抽象认知名词 conviction（信念），属于层级语义错配。",
+      "writhe": "错误。核心义为‘扭动、翻滚、受折磨’（如 writhe in agony），主要描述躯体在极端痛苦下的剧烈扭动，完全无法与理性认知信念搭配。"
+    },
+    "translation": "尽管遭遇了来自正统同行对其方法论的激烈质疑，这位认知科学家对其信念——即潜意识语义启动深刻影响着清醒理性的深思熟虑——未曾产生一丝动摇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_11",
+    "group_id": 246,
+    "group_name": "mince, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "mince",
+    "question": "In her semiotic analysis of baroque theatricality, the cultural historian observed how courtiers were conditioned to ___ across the polished ballroom, their affected, diminutive steps signaling an aristocratic disdain for vulgar athleticism.",
+    "options": [
+      "mince",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "mince",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in 'affected, diminutive steps' combined with 'polished ballroom' and 'disdain for vulgar athleticism', strictly matching the lexicographical definition of mince ('to walk daintily or with short, affected steps').",
+    "distractor_analysis": {
+      "mince": "正确。mince作不及物动词时意为“以娇柔、拘谨或装腔作势的小碎步走”（walk daintily or with short, affected steps）。句中“affected, diminutive steps”（做作而狭小的步伐）与“aristocratic disdain for vulgar athleticism”（对粗俗体魄的贵族式轻视）构成严丝合缝的语义共振与释义锚定。",
+      "wade": "错误。wade原义指在水、泥或具有物理阻力的黏性介质中艰难跋涉，引申为费力处理繁琐任务。在此处平整光洁的舞池（polished ballroom）与矫饰纤巧的宫廷步态语境下，语义发生根本冲突，且完全无法体现小碎步的矫饰之感。",
+      "slink": "错误。slink指因恐惧、愧疚、羞耻或图谋不轨而“潜行、溜走”（move stealthily or furtively through fear or shame），强调隐蔽与见不得光的逃匿性，与句中贵族在舞池中公开彰显身份的高调表演性（theatricality）相悖。",
+      "slouch": "错误。slouch指无精打采、松弛耷拉地站立、行走或坐着（walk, sit, or stand with a lazy, drooping posture），强调粗鄙与缺乏纪律感的仪态，与巴洛克宫廷所讲求的极度自持、做作（affected）的高贵规训截然相反。"
+    },
+    "translation": "在其关于巴洛克戏剧风格的符号学分析中，这位文化历史学家观察到，宫廷侍臣们是如何习得在光洁的舞厅地面上迈着做作的碎步穿行的，他们那矫饰而狭小的步伐正彰显出贵族阶层对粗俗体魄运动的轻蔑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_12",
+    "group_id": 246,
+    "group_name": "mince, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before rendering a conclusive verdict, the appellate judges were compelled to ___ through reams of contradictory forensic affidavits, a tedious epistemic endeavor that tested both their intellectual stamina and institutional patience.",
+    "options": [
+      "mince",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The cognitive phrasal collocation '___ through reams of contradictory forensic affidavits' coupled with 'tedious epistemic endeavor that tested... stamina' decisively demands wade (in the established sense 'wade through': to read or laboriously work through voluminous, cumbersome material).",
+    "distractor_analysis": {
+      "wade": "正确。wade through为高级认知与阅读语境中的经典习语搭配，意为“艰难费力地读完/核查（大量繁琐、枯燥的卷宗、文献或数据）”。句中“reams of contradictory forensic affidavits”（大量相互矛盾的法医书面证词）与“tedious epistemic endeavor”（枯燥耗时的认知尝试）形成了决定性的语义与搭配闭环。",
+      "mince": "错误。mince用于言语认知时常构成否定习语“not mince words”（直言不讳），但绝无“mince through reams of documents”的搭配用法；若作空间移动解，其强调小步娇俏，无法支配厚重材料的认知检索过程。",
+      "slink": "错误。slink常与away, off, into连用，表示鬼祟潜行或抱愧溜走，在句法上既不与through抽象文献搭配，在语义上也无法表达司法审判人员对证据卷宗的严谨排查与智力跋涉。",
+      "slouch": "错误。slouch表示颓废松弛的动作姿态，其后接through时仅能表示拖沓无精打采地走过物理空间或敷衍行事，完全不具备“在浩瀚繁复的证据堆中进行高强度认知研读”的专业学术与司法语体涵义。"
+    },
+    "translation": "在作出终审判决之前，上诉法院的法官们不得不费力研读堆积如山且相互矛盾的法医书面证词，这一繁重的认知考验极大地磨砺了他们的智力耐力与司法耐心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_13",
+    "group_id": 247,
+    "group_name": "mope, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "mope",
+    "question": "Following the humiliating collapse of his administration, the disgraced minister chose not to mount a coherent defense, but rather to ___ in self-pitying seclusion, hopelessly paralyzed by resentment and melancholic inertia.",
+    "options": [
+      "mope",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "mope",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'in self-pitying seclusion' and 'paralyzed by resentment and melancholic inertia' decisively denote a state of apathetic, sullen brooding and listless despondency, which uniquely defines 'mope'.",
+    "distractor_analysis": {
+      "mope": "正确。mope 指因遭受挫折或失意而陷入消沉、抑郁寡欢、无所事事地沉溺于自怜中（to be listless, dejected, or brood sullenly）。句中 'in self-pitying seclusion'（在自怜的幽居中）与 'melancholic inertia'（忧郁的惰性与停滞）提供了无可置疑的语义与情态锚点，唯有 mope 能准确传达出这种消极退隐、郁郁寡欢的心境与行为模式。",
+      "waver": "错误。waver 意为“动摇、迟疑不决”（to vacillate or hesitate in purpose or opinion），其认知核心在于在不同观点或抉择之间摇摆不定。本句描绘的是大臣在垮台后彻底放弃辩护、陷入消极自怨自艾的静态瘫痪过程，而非在行动抉择中的摇摆动摇，且无法与 'in self-pitying seclusion' 形成合理搭配。",
+      "quiver": "错误。quiver 意为“微颤、发抖”（to shake with a slight, rapid, tremulous movement），主要用于描述因恐惧、极度激动或物理振动引起的快速微小颤动，属于纯粹的生理或物理运动，无法用于描述精神上的消沉退隐与长期抑郁状态。",
+      "writhe": "错误。writhe 意为“（因剧痛、苦恼或难堪而）翻滚、扭曲挣扎”（to twist or squirm in acute pain or distress）。虽然 writhe 也可用于心理痛苦，但它强调的是极度剧烈的心灵煎熬与痉挛式挣扎（如 writhe in agony），这与句中明确限定的 'paralyzed by ... inertia'（被惰性麻痹、呆滞不前）所体现的迟滞、被动消沉状态直接产生语义冲突。"
+    },
+    "translation": "在其政府屈辱倒台后，这位名誉扫地的大臣选择放弃组织有力的辩护，而是在自怨自艾的幽居生活中消沉度日，彻底被怨恨与忧郁的惰性所麻痹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_14",
+    "group_id": 247,
+    "group_name": "mope, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite mounting diplomatic estrangement and intense domestic criticism, the prime minister refused to ___ in her commitment to the treaty, steadfastly repelling any political compromise that would dilute its environmental stipulations.",
+    "options": [
+      "mope",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame '___ in her commitment' combined with the antithetical clause 'steadfastly repelling any political compromise' strictly requires a verb denoting cognitive vacillation or faltering of resolve, which uniquely points to 'waver'.",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为“动摇、动摇不定、踌躇”（to vacillate, falter, or become unsteady in purpose or belief）。搭配 'waver in one's commitment/resolve' 是高级学术与政论英语中的经典用法，与后文的 'steadfastly repelling any political compromise'（坚定回绝任何妥协）在逻辑上构成严谨的语义反义对仗，完美契合政策坚定性的语境。",
+      "mope": "错误。mope 指消沉颓废、郁郁寡欢地闲荡或闷闷不乐（to brood or sulk），语法上不能与 'in her commitment' 搭配，且在逻辑上无法表达“对条约的坚守毫不动摇”这一认知决断意图。",
+      "quiver": "错误。quiver 意为“颤抖、悸动”（to shake or tremble lightly），专指物理性或情绪引起的轻微颤动（如声音颤抖、枝叶摇曳），无法用于指代抽象认知层面的政治意图或政策决心的动摇。",
+      "writhe": "错误。writhe 强调身体因剧烈疼痛而“扭曲翻滚”或精神上的“极度痛苦折磨”（to squirm violently in agony），常与介词 in 连用构成 'writhe in agony/embarrassment'，但不能与 'one's commitment' 连用，存在严重的搭配破裂与语义失范。"
+    },
+    "translation": "尽管面临日益加剧的外交疏离和国内激烈的批评，首相在履行该条约的承诺上仍拒绝出现丝毫动摇，坚定地回绝了任何会削弱其环保条款的政治妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_15",
+    "group_id": 248,
+    "group_name": "mumble, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "mumble",
+    "question": "Visibly discomfited under intense cross-examination, the disgraced diplomat could only ___ an incoherent apology into his collar, his lowered gaze and muffled cadences betraying acute embarrassment before the investigative committee.",
+    "options": [
+      "mumble",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "mumble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的介词短语 'into his collar'（对着衣领/低头对着领口自言自语）以及伴随状语中的 'muffled cadences'（沉闷模糊的语调）和 'incoherent apology'（语无伦次的道歉），构成了指向‘低声、含糊不清地说话’的绝对排他性语境锚点，仅 mumble 在语义与句法语义搭配上完全契合。",
+    "distractor_analysis": {
+      "mumble": "正确。指因窘迫、迟疑或畏缩而含糊不清、压低声音嘟囔（talk indistinctly in a low voice），与句中 'into his collar' 及 'muffled cadences'（含混低沉的声调）构成极为地道且严丝合缝的文体与语义搭配。",
+      "blurt": "错误。blurt 通常指脱口而出、毫无防备且突兀地大声说出（utter abruptly and impulsively），与低头向衣领内含糊嘟囔（into his collar）以及低沉压抑的声调（muffled cadences）在发音方式与副语言特征上直接冲突。",
+      "whiff": "错误。whiff 作为动词多表示轻微地吸气、嗅闻或轻吹，在现代英语或体育习语中可引申为挥棒落空或错失，不能支配 'an incoherent apology' 这一言语行为宾语，存在严重的词义与搭配割裂。",
+      "snivel": "错误。snivel 侧重指抽抽搭搭地啜泣、流涕哭诉或带着自怜伪善口吻抱怨，语法上多用作不及物动词（vi.），极少直接及物支配言语名物化宾语，且无法体现含糊嘟哝（mumble into collar）的物理发音特征。"
+    },
+    "translation": "在激烈的交叉盘问下，那位名誉扫地的外交官显然局促不安，只能对着衣领含糊不清地嘟囔着语无伦次的道歉，他低垂的目光与沉闷微弱的语调向调查委员会暴露了他极度的窘迫。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_16",
+    "group_id": 248,
+    "group_name": "mumble, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Overwhelmed by the prosecutor's aggressive confrontation, the rattled witness lost his composure and proceeded to ___ out the incriminating details, heedlessly destroying his own defense in an impulsive, panic-stricken outburst.",
+    "options": [
+      "mumble",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的固定动介搭配 '___ out' 与后文的 'impulsive, panic-stricken outburst'（冲动且惊慌失措的情绪爆发）及 'heedlessly destroying his own defense'（不计后果地招认细节）构成了不可逆的语义锚点，唯一能表达‘冲动脱口说出秘密’的动词是 blurt。",
+    "distractor_analysis": {
+      "blurt": "正确。blurt 与副词 out 构成高频短语 blurt out，专门指在紧张、恐慌或冲动之下不假思索、脱口说出本应保密的内容（utter abruptly and impulsively），与句中 'impulsive, panic-stricken outburst' 形成绝对精确的语义同构。",
+      "mumble": "错误。mumble 指低声含糊自语，虽偶尔可见于 mumble out，但其核心义素为声音微弱、不清晰（low and indistinct），这与句中明确界定的 'outburst'（突发、强烈的情感与言语爆发）存在逻辑与副语言情态上的正面矛盾。",
+      "whiff": "错误。whiff out 属于棒球俚语（意为三振出局）或指气味散发，绝无‘脱口泄密’之意，带入句中会导致句意荒谬且破坏学术法律语域的标准性。",
+      "snivel": "错误。snivel 主要意为抽噎、哭诉或怨诉，不及物动词属性极强，不存在 *snivel out the details 这一固定搭配，且无法呼应‘冲动爆发下泄露关键罪证’的语用情境。"
+    },
+    "translation": "在检察官咄咄逼人的对质压迫下，那位慌了神态的证人彻底乱了方寸，竟在惊慌失措的冲动爆发中脱口说出了罪证细节，不计后果地瓦解了他自身的辩护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_17",
+    "group_id": 249,
+    "group_name": "nip, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "nip",
+    "question": "Fearing that unfounded epistemological skepticism would erode public trust in peer review, the editorial board moved swiftly to ___ such speculative heresies in the bud through stringent empirical verification.",
+    "options": [
+      "nip",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "nip",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the fixed idiomatic collocation '___ ... in the bud' (meaning to suppress or destroy an emerging problem before it can develop, extended from pinching off plant shoots). Only 'nip' forms this idiom.",
+    "distractor_analysis": {
+      "nip": "正确项。动词 nip 本义为“掐断、捏摘”，在认知与学术思想语境（FIELD_COGNITION）中构成固定习语“nip sth. in the bud”（消灭在萌芽状态、防微杜渐），专门用于描述在错误理论或偏见初生之时予以果断扼制，完全契合题干的结构锚点与语义流向。",
+      "lop": "强干扰项。lop 意为“砍断、斩去（树枝、大块部分）”，强调自母体上大幅度砍截，通常与 off 或 from 连用（如 lop branches off a tree），无法与 'in the bud' 搭配，句法结构直接冲突。",
+      "pare": "干扰项。pare 意为“削皮、逐步微量削减”，侧重于循序渐进的修剪（常接 down/away，如 pare down expenses），既不具备在萌芽初期瞬间阻断的语义，也无法与介词短语 'in the bud' 构成固定搭配。",
+      "indent": "干扰项。indent 意为“使缩进、压出凹痕”，属于排版印刷或几何形状物理特征术语，与清除萌芽阶段的思想异端毫无语义逻辑交集。"
+    },
+    "translation": "因担心毫无根据的认识论怀疑主义会侵蚀公众对同行评审的信任，编辑委员会迅速采取行动，通过严格的实证检验将这些投机性的异端邪说扼杀在萌芽状态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_18",
+    "group_id": 249,
+    "group_name": "nip, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "To streamline governance during fiscal retrenchment, the chancellor resolved to ___ redundant administrative tiers from the university hierarchy, severing entire operational divisions rather than merely shaving overhead.",
+    "options": [
+      "nip",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase '___ [structural tiers] from [a hierarchy]' coupled with the contrast clause 'severing entire operational divisions rather than merely shaving overhead' decisively requires a verb signifying the radical, heavy removal of large structural branches. This precisely fits 'lop' while explicitly excluding the gradual trimming conveyed by 'pare'.",
+    "distractor_analysis": {
+      "lop": "正确项。lop 本义为大刀阔斧地“砍去、截断（大枝桠）”，引申至机构认知与管理语境中指“果断切除、大幅削减（组织层级或臃肿部门）”，常用结构为 lop sth. from sth.；且后文的分词短语“severing entire operational divisions rather than merely shaving overhead”（切断整个职能部门而非仅仅微削间接开支）为其提供了排他性的语义对照。",
+      "pare": "强干扰项。pare 意为“微量削减、逐步精简”（如 pare down costs），其核心词义恰恰对应后文明确否定的“merely shaving overhead”（微量刮除削减），填入此处与后半句的对比逻辑形成严重的反向语义冲突，且一般不与 from 搭配表示连根砍去整个层级。",
+      "nip": "干扰项。nip 侧重于轻微“掐断”或“在萌芽期扼杀”（如 nip in the bud），无法支配宏观且已成体系的“administrative tiers（行政层级）”，且不能与介词 from 搭配表示自组织架构中大规模切除。",
+      "indent": "干扰项。indent 意为“使缩排、使边缘呈锯齿状凹陷”，与宏观行政架构中砍除冗余部门的动作毫无关联，语域和搭配均不成立。"
+    },
+    "translation": "为了在财政紧缩时期精简管理体系，大学校长决定从学校层级架构中大刀阔斧地砍掉冗余的行政层级，直接切除整个职能部门，而绝非仅仅微调削减日常开销。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_19",
+    "group_id": 250,
+    "group_name": "nudge, prod, shove, jostle",
+    "level": "TEM-8",
+    "target_word": "nudge",
+    "question": "Instead of imposing coercive mandates, the administration introduced subtle behavioral prompts to ___ taxpayers toward digital compliance, carefully preserving their sense of voluntary agency.",
+    "options": [
+      "nudge",
+      "prod",
+      "shove",
+      "jostle"
+    ],
+    "answer": "nudge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“subtle behavioral prompts”（微妙的行为提示）与“preserving their sense of voluntary agency”（审慎维护其自主意志）明确指示一种温和、无强制力、潜移默化的引导方式，精准锁定行为经济学意义上的“助推”（nudge toward），排除了具有催促刺痛感的 prod、粗暴用力的 shove 以及推挤竞争的 jostle。",
+    "distractor_analysis": {
+      "nudge": "正确。意为“轻推；轻柔劝诱或温和引导（某人做出某种决策或行为）”。句中强调通过微小的机制引导纳税人（subtle behavioral prompts），同时避免强制（Instead of imposing coercive mandates）并维护个人自主性，完全吻合 nudge 的核心语义特征与“nudge sb toward sth”的搭配习惯。",
+      "prod": "错误。原指“用尖物戳刺”，引申为“激起、催促（行动缓慢或不情愿的人）”，通常带有施压、刺激或克服懒散的严厉意味（常搭配 prod sb into doing sth），与本句强调的轻微引导（subtle）及尊重自主性（preserving voluntary agency）在语意色彩上不符。",
+      "shove": "错误。意为“猛推、推搡”，指用力突兀且粗暴的推击动作，含有强迫或鲁莽色彩，与句中“subtle”及“voluntary agency”构成根本性的语义对立和语域冲突。",
+      "jostle": "错误。意为“在拥挤中推撞、挤搡”，或引申为“争夺、争相抢占”（常与 for 连用，如 jostle for position），既无法表达对决策主体的定向引导，也无法与 taxpayers toward compliance 形成合乎逻辑的认知语境搭配。"
+    },
+    "translation": "政府并未推行强制性指令，而是引入了微妙的行为提示机制，以温和引导纳税人完成数字化申报合规，同时审慎地维护了他们的自主意愿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b24_20",
+    "group_id": 250,
+    "group_name": "nudge, prod, shove, jostle",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "Deeply concerned by chronic bureaucratic inertia, parliamentary overseers released a scathing inquiry calculated to ___ the sluggish regulatory commission into revamping its obsolete safety protocols before another crisis erupted.",
+    "options": [
+      "nudge",
+      "prod",
+      "shove",
+      "jostle"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "句首分词短语的主语已确立为具感知与行动能力的人“parliamentary overseers”（议会监督官员），其发布的“scathing inquiry”（措辞严厉的调查报告）与宾语“the sluggish regulatory commission”（怠惰迟缓的监管委员会）构成鲜明对照，后接“into revamping”，排他性地指向以强烈外部刺激打破沉滞惰性的动词 prod（督促、刺激……行动）。",
+    "distractor_analysis": {
+      "prod": "正确。意为“刺痛、督促、驱使（迟缓或迟疑不决者行动）”，其核心语义源自以尖头物刺戳以驱赶牲畜，引申为通过尖锐有力的外部压力（如句中的 scathing inquiry）迫使麻木怠惰的机构（sluggish commission）摆脱惯性，完美契合“prod sb into doing sth”的搭配与严谨的书面语境。",
+      "nudge": "错误。意为“轻推、温和劝诱”，侧重非强制性、轻微微妙的提示与劝导（如行为经济学中的“助推”），与句中“措辞严厉的调查报告”（scathing inquiry）所展现的尖锐施压和严厉鞭笞力度产生语义冲突。",
+      "shove": "错误。意为“猛推、粗暴推挤”，多指物理动作上的蛮力推搡，属于偏口语和具体动作描写的词汇，在抽象的机构问责与政策推进语境中存在严重的语体色彩冲突（stylistic clash），且不合督促改革的引申义。",
+      "jostle": "错误。主要意为“在拥挤中挤碰”或不及物引申为“竞争、角逐”（常接 for，如 jostle for power），在现代标准英语中不具备“jostle sb into doing sth”以表示督促某人采取行动的及物使役句法功能。"
+    },
+    "translation": "鉴于对体制内长期存在的官僚惰性深感忧虑，议会监督官员发布了一份措辞严厉的调查报告，旨在督促迟缓怠惰的监管委员会立即修订其陈旧的安全规程，以免再次爆发危机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

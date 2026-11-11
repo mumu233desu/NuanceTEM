@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b10_01",
+    "group_id": 101,
+    "group_name": "incriminate, sully, defame, indict",
+    "level": "TEM-8",
+    "target_word": "incriminate",
+    "question": "Fearing that the forensic audit would unearth encrypted ledgers liable to ___ senior cabinet officials in the illicit arms transactions, the ministry ordered an immediate shredding of all classified correspondence.",
+    "options": [
+      "incriminate",
+      "sully",
+      "defame",
+      "indict"
+    ],
+    "answer": "incriminate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "受动宾与介词双重搭配驱动：句中宾语为表示涉事主体的具体人员（senior cabinet officials），后接由介词 in 引导的不法行为补足语（in the illicit arms transactions），构成经典法务认知搭配 'incriminate sb. in sth.'（证明某人卷入/有罪于某事）。其余三项在此句式结构下均产生搭配断裂或介词选择冲突。",
+    "distractor_analysis": {
+      "incriminate": "正确。指“提供证据显示某人有罪或涉案”，与句中的物主语（encrypted ledgers，物证）及句式结构 'incriminate sb. in sth.' 严丝合缝，准确传达出账册记录足以证实内阁要员参与非法军火交易所引发的罪责定性。",
+      "sully": "错误。主要意为“玷污、损坏（名誉、纯洁性、清白等抽象概念）”，其典型宾语多为 reputation, honor, record 等抽象名词；极罕见接人身作宾语时，意为道德上的蒙羞，不可与表示具体犯罪罪名的介词短语 'in the illicit arms transactions' 连用。",
+      "defame": "错误。指“诽谤、中伤”，特指通过虚假捏造之辞毁坏他人名誉（libel/slander）。审计查出的客观账册（encrypted ledgers）揭露的是事实真相而非恶意虚构；且 defame 为单宾动词，不与介词结构 'in + 违法犯罪行为' 形成搭配。",
+      "indict": "错误。强干扰项。indict 意为“正式起诉、控告”，但其受法律主体限制，必须由大陪审团（grand jury）或检察机关作为施动者，物证本身不能作为 indict 的施动主体；更关键的是其介词搭配为 'indict sb. for (doing) sth.'，绝对不与 in 搭配。"
+    },
+    "translation": "因担心司法法务审计会发掘出可能证实多名内阁高官卷入非法军火交易的加密账册，该部下令立即销毁所有机密通信文件。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_02",
+    "group_id": 101,
+    "group_name": "incriminate, sully, defame, indict",
+    "level": "TEM-8",
+    "target_word": "sully",
+    "question": "Desperate to avoid any ethical controversy that might ___ the prestigious laboratory's unblemished scientific legacy, the senior researchers voluntarily retracted the contested findings prior to publication.",
+    "options": [
+      "incriminate",
+      "sully",
+      "defame",
+      "indict"
+    ],
+    "answer": "sully",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心宾语为带有高度纯洁性隐喻的抽象成就资产 'the prestigious laboratory's unblemished scientific legacy'（声名显赫的实验室无可挑剔的科研学术遗产）。在英语高阶学术语义网络中，修饰 unblemished 的抽象声誉、遗产或名节遭受玷污或损害，只与 sully 构成绝对排他的隐喻性修辞搭配。",
+    "distractor_analysis": {
+      "sully": "正确。意为“玷污、败坏（名誉、纯洁性、清白等）”，常带有破坏纯洁、光泽或完美的比喻色彩，与 unblemished legacy, impeccable reputation, pristine honor 构成强搭配，在此完美契合学者唯恐学术丑闻抹黑实验室崇高声誉的语境。",
+      "incriminate": "错误。语义选择限制冲突。incriminate 意为“归罪、使负罪”，其宾语必须是能够承担刑事或道义责任的实体（如自然人、涉事机构法人），绝不能接 'scientific legacy' 这类抽象的历史遗产或成就作为宾语。",
+      "defame": "错误。意为“诽谤”，属于言语行为导致的侵权范畴，要求施动者发布虚假的负面陈述，且其宾语通常为人（defame sb.）或个人品格（defame someone's character）；客观发生的学术伦理争议（ethical controversy）本身不能“诽谤”一项学术遗产。",
+      "indict": "错误。语法与语义双重受限。indict 属于刑事诉讼专用术语，指对犯罪实体提起公诉，无法支配抽象的褒义名词 'scientific legacy'；学术伦理问题亦不属于司法起诉的对象。"
+    },
+    "translation": "为了极力避免任何可能玷污该知名实验室无可挑剔之科学遗产的伦理争议，资深研究人员在成果付印前主动撤回了有争议的发现。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_03",
+    "group_id": 102,
+    "group_name": "infiltrate, fumble, blunder, traverse",
+    "level": "TEM-8",
+    "target_word": "infiltrate",
+    "question": "Intelligence analysts warned that foreign adversaries were orchestrating sophisticated cyber and covert influence campaigns designed to ___ elite academic institutions and alter the trajectory of sensitive technological research from within.",
+    "options": [
+      "infiltrate",
+      "fumble",
+      "blunder",
+      "traverse"
+    ],
+    "answer": "infiltrate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "covert influence campaigns ... from within",
+    "distractor_analysis": {
+      "infiltrate": "正确。infiltrate 作及物动词时意为“（尤指为刺探情报或进行破坏）秘密潜入、渗透进入（组织、机构或网络）”。本句中“covert influence campaigns（隐蔽影响力行动）”与“from within（从内部）”构成了排他性语义闭环，与 infiltrate an institution/network（渗透机构/网络）构成典型高级政经与国家安全语域搭配。",
+      "fumble": "错误。fumble 作为及物动词意为“笨手笨脚地摸索；笨拙地处理/失手漏掉（机会、职责等）”，与句中精心策划的恶意敌对行动（orchestrating sophisticated campaigns）在语意逻辑与施事意图上完全相悖，无法与“渗透机构”搭配。",
+      "blunder": "错误。blunder 多作不及物动词，意为“跌跌撞撞地走”或“犯下愚蠢的大错”（常接介词 into 或 through），在此处无法直接支配宾语 elite academic institutions；且其表示“盲目无知地犯错”，与句中“sophisticated（精密复杂的）”行动性质直接冲突。",
+      "traverse": "错误。traverse 意为“横越、穿过（空间、领域、地形）”，侧重于空间上的跨越或法理层面的审视，完全缺乏隐秘渗透（stealthy penetration）和内部颠覆（from within）的核心语义特征，修饰 academic institutions 属于范畴搭配不当。"
+    },
+    "translation": "情报分析人员警告称，外国敌对势力正在策划精密的网络与隐蔽影响力行动，旨在渗透精英学术机构，并从内部改变敏感技术研究的发展轨迹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_04",
+    "group_id": 102,
+    "group_name": "infiltrate, fumble, blunder, traverse",
+    "level": "TEM-8",
+    "target_word": "fumble",
+    "question": "Despite weeks of strategic preparation, the envoy seemed to ___ the delicate diplomatic initiative, struggling to articulate core concessions and ultimately undermining his government's credibility on the global stage.",
+    "options": [
+      "infiltrate",
+      "fumble",
+      "blunder",
+      "traverse"
+    ],
+    "answer": "fumble",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "struggling to articulate core concessions and ultimately undermining his government's credibility",
+    "distractor_analysis": {
+      "fumble": "正确。fumble 引申作及物动词，常用于认知与政治交际语域，意为“笨拙地处理、把……搞砸（fumble an opportunity/initiative/response）”。后文的“struggling to articulate（难以清晰表达）”与“undermining credibility（损害信誉）”明确锁定了“处理不当、言辞支吾失策”的认知执行缺陷，fumble the initiative 是地道权威的高级搭配。",
+      "infiltrate": "错误。infiltrate 意为“渗透、潜入”，特指敌对人员隐秘打入外部组织。本句主语是代表己方立场的正式特使（envoy），不可能去“潜入”自己所主导的外交倡议（diplomatic initiative），存在严重的施事逻辑与语境错位。",
+      "blunder": "错误。blunder 虽含有“犯大错”的语意，但在现代规范英语中几乎专作不及物动词（如 blunder into disaster 或 blunder through the speech），不能直接后接名词短语 the delicate diplomatic initiative 作为及物动词的宾语，存在决定性的句法配置错误。",
+      "traverse": "错误。traverse 意为“横跨、穿越（地形或路径）”或在法律上指“驳回、否认”，既不能与抽象的 diplomatic initiative 形成表“执行/交涉”层面的语义搭配，也无法表达因表达拙劣而导致失败的认知语用色彩。"
+    },
+    "translation": "尽管进行了数周的战略准备，这位特使似乎还是搞砸了这一微妙的外交倡议；他难以清晰阐释核心让步条款，最终在国际舞台上损害了其政府的公信力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_05",
+    "group_id": 103,
+    "group_name": "inflame, regress, devolve, degenerate",
+    "level": "TEM-8",
+    "target_word": "inflame",
+    "question": "The populist leader’s rhetoric served not merely to distort empirical facts, but deliberately to ___ latent tribal anxieties, thereby impairing the electorate's cognitive capacity for critical appraisal and nuanced political deliberation.",
+    "options": [
+      "inflame",
+      "regress",
+      "devolve",
+      "degenerate"
+    ],
+    "answer": "inflame",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The blank requires a transitive verb governing the abstract emotional/cognitive direct object 'latent tribal anxieties'. Only 'inflame' functions transitively to denote inciting or exacerbating passions and fears.",
+    "distractor_analysis": {
+      "inflame": "正确。作及物动词，意为“激化、煽动、加剧（情绪、焦虑、矛盾）”，与宾语“latent tribal anxieties（潜在的部落主义焦虑）”形成高度精准且地道的动宾学术搭配，完全符合政治认知与大众心理学语域。",
+      "regress": "错误。为不及物动词（vi.），意为“倒退、退化、退行”，后通常接介词短语（如 regress to/into），无法直接接名词短语“latent tribal anxieties”作及物宾语，存在绝对的句法及物性冲突。",
+      "devolve": "错误。虽可作及物动词，但其及物用法语义极其严格，专指“将（权力、职责、财产）下放或移交给下级机构”（如 devolve power to local councils）；既不具备“煽动、加剧”的情感认知强化含义，亦无法与“anxieties”形成语义搭配。",
+      "degenerate": "错误。为不及物动词（vi.），意为“恶化、堕落、衰退”，通常与介词 into 连用（如 degenerate into chaos），不能直接支配宾语“latent tribal anxieties”，在句法上无法成立。"
+    },
+    "translation": "这位民粹主义领导人的言论不仅扭曲了客观事实，还蓄意煽动了民众潜在的部落主义焦虑，从而削弱了选民进行批判性评估和细致政治思辨的认知能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_06",
+    "group_id": 103,
+    "group_name": "inflame, regress, devolve, degenerate",
+    "level": "TEM-8",
+    "target_word": "regress",
+    "question": "When subjected to severe sensory overload, traumatized patients often ___ to earlier developmental stages of cognitive processing, demonstrating an acute inability to synthesize complex environmental stimuli.",
+    "options": [
+      "inflame",
+      "regress",
+      "devolve",
+      "degenerate"
+    ],
+    "answer": "regress",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional complement 'to earlier developmental stages' specifically mandates 'regress', which is the established psychological term for reverting to an antecedent developmental stage.",
+    "distractor_analysis": {
+      "regress": "正确。不及物动词，在发展心理学与认知精神病理学中为核心术语，专指“（心理或认知）退行、倒退”，固定搭配为 regress to，后接早期发展阶段或原初行为模式（to earlier developmental stages），精准吻合语境。",
+      "inflame": "错误。语义为“煽动、激化、使发炎”，在此认知心理语境中语义不通；且作不及物动词时仅指身体发炎肿痛，无法与介词短语“to earlier developmental stages”构成合乎逻辑的句法语义链。",
+      "devolve": "错误。虽可与 to 连用，但其法律与政治专有搭配 devolve to 意为“（权力、责任）下放给某人/机构”；当 devolve 表示“恶化、退化”时，其标准介词搭配为 into（如 devolve into disorder），不能接表示历史或生命发展阶段的 to earlier stages。",
+      "degenerate": "错误。意为“堕落、衰亡、蜕化”，其典型介词强搭配为 into（如 degenerate into anarchy/violence），侧重于结构、品质或道德上的败坏衰退，无法用来表达心理认知系统在时间坐标上“退行回到早前发展阶段”的专门概念。"
+    },
+    "translation": "当遭受严重的感官过载时，受到心理创伤的患者往往会退行至认知处理的早期发展阶段，表现出极度缺乏综合复杂环境刺激的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_07",
+    "group_id": 104,
+    "group_name": "infuriate, irk, madden, enrage",
+    "level": "TEM-8",
+    "target_word": "infuriate",
+    "question": "Although the tribunal's procedural stonewalling lacked the moral villainy that would incite retaliatory wrath, its protracted evasion went far beyond petty annoyance, serving to ___ the sober magistrates through sheer, unendurable exasperation.",
+    "options": [
+      "infuriate",
+      "irk",
+      "madden",
+      "enrage"
+    ],
+    "answer": "infuriate",
+    "primary_mechanism": "MECH_SEMANTIC_FEATURE",
+    "field": "FIELD_LAW_GOVERNANCE",
+    "anchor_clue": "本题的决定性排他锚点建立在句法让步与语义梯级排除结构上：① 让步分句明确指出该行为“lacked the moral villainy that would incite retaliatory wrath”（缺乏会激起报复性狂怒的道德罪恶），从语义根源上直接排除了需要恶劣挑衅或侵犯才会引发外向攻击性暴怒的 enrage；② 主句前置限定“went far beyond petty annoyance”（远超琐屑烦恼）从强度梯度上彻底排除了仅表微弱、琐碎困扰的 irk；③ 宾语“sober magistrates”（克制审慎的法官）要求情感反应兼具高度理性与制度性语域，而介词短语“through sheer, unendurable exasperation”（因纯粹且难以忍受的极度挫败）与 infuriate 的核心词义“因耐性耗尽、无力摆脱的阻碍或延误而产生的狂怒/极度愤慨”构成语义与搭配的精准闭环；同时，madden 的核心义项与语域偏向使人失去理智的狂乱（frenzy），与维持理智沉着的 sober 产生直接语义悖反与语域失谐。",
+    "distractor_analysis": {
+      "infuriate": "正确项。动词，意为“使大怒，使极其愤慨/抓狂”。《韦氏同义词词典》（Merriam-Webster's Dictionary of Synonyms）明确界定：infuriate 专指“因挫折延误、无法逃避的阻挠或难以忍受的极度挫败（unendurable exasperation）而被逼至超出一切耐性极限（driven beyond all bounds of patience or endurance）”。本句中程序性拖延（procedural stonewalling）所引发的“sheer, unendurable exasperation”正是 infuriate 的核心语义激发条件；且在司法政治正式语域中，infuriate 能够精准形容即使保持理智清醒（sober）的官员也会产生的极致愤慨。",
+      "irk": "错误项。动词，指“使烦恼，使厌倦，因琐屑或冗长之事引发轻度不悦”（to make weary, irritated, or bored）。句中“went far beyond petty annoyance”（远非轻度烦恼）与“unendurable exasperation”（难以忍受的极度挫败）在语义强度标尺上明确属于高阶情感冲击，若填入仅表低烈度、琐屑心烦的 irk，将与上下文语篇强度形成不可调和的逻辑矛盾（反高潮与逻辑降格）。",
+      "madden": "错误项。动词，虽然在一般词典中亦有“激怒、使恼火”的引申义，但其词汇本核与主导语体色彩始终带有“使陷入狂乱、使丧失理智与自制力”（to drive frantic or to the loss of self-possession）的戏剧化和感性特征，常与肉体剧痛、感官轰炸或非理性悲痛搭配。在司法严肃语境下，修饰语“sober magistrates”（克制、清醒的法官）明确排除了理性沦丧或歇斯底里狂躁的状态；换用 madden 既破坏了 formal judicial register（正式司法语域），又与 sober 在理性自持层面构成了语义冲突。",
+      "enrage": "错误项。动词（源自 en- + rage），强调“激起暴怒、狂怒乃至攻击性、报复性的敌意”（to incite violent, aggressive wrath）。《韦氏同义词词典》指出 enrage 通常是由公然侮辱（insult）、暴行（outrage）或严重的道德侵犯所激发的具有攻击指向性的怒火。句首让步从句已做出决定性排他限定：“lacked the moral villainy that would incite retaliatory wrath”（缺乏激起报复性暴怒的道德罪恶），直接在语义前置条件上否决了 enrage 所必需的情感诱因与指向特征。"
+    },
+    "translation": "尽管特别法庭在程序上的故意拖延并未达到足以激起报复性暴怒的道德罪恶程度，但其旷日持久的推诿已远非琐屑的心烦，最终以纯粹且令人无法容忍的极度挫败感，令那些审慎沉着的法官们大为光火。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_08",
+    "group_id": 104,
+    "group_name": "infuriate, irk, madden, enrage",
+    "level": "TEM-8",
+    "target_word": "irk",
+    "question": "While the veteran diplomat remained unflappable throughout the intense multilateral negotiations, it continued to ___ him that junior delegates habitually ignored subtle protocol niceties, a petty negligence that simply frayed his patience.",
+    "options": [
+      "infuriate",
+      "irk",
+      "madden",
+      "enrage"
+    ],
+    "answer": "irk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic extraposition 'it continued to ___ him that...' coupled with the low-intensity appraisal 'a petty negligence that simply frayed his patience'.",
+    "distractor_analysis": {
+      "irk": "正确。irk在句法上极典型地用于'it irks/irked sb that...'（某事令某人厌烦/不快）的形式主语外置结构中；在语义上，Merriam-Webster明确指出其表征'ongoing irritation or weary vexation rather than violent anger'。本句中'subtle protocol niceties'（微妙的礼节细节）与同位语'a petty negligence that simply frayed his patience'（仅仅消磨其耐心的微小疏忽）精准锚定了低强度、持久而疲惫的烦躁感，仅irk在语域和情态上完全契合。",
+      "infuriate": "错误。infuriate表示使人暴怒到丧失理智和自控力（puts a person beyond all self-control），而前文已明确界定外交官'remained unflappable'（始终处变不惊），且后文将该行为定性为'petty negligence'与'simply frayed his patience'，使用infuriate会造成严重的逻辑语义自相矛盾和过度夸张。",
+      "madden": "错误。madden意为使人陷入疯狂或极度精神错乱，用于描述职业外交官面对下属略过繁文缛节时的轻微不悦属于严重的用词不当（malapropism），完全背离高阶学术与政论散文的情态刻画。",
+      "enrage": "错误。enrage指诱发破坏性、爆发性的猛烈狂怒，与外交礼仪语境中的克制修养及'petty'（微不足道）的限定词发生直接冲突，导致逻辑张力彻底断裂。"
+    },
+    "translation": "尽管这位资深外交官在紧张的多边谈判中始终处变不惊，但初级代表们屡屡忽视微妙的外交礼仪细节这一微小疏忽，仅仅消磨着他的耐心，却仍不断令他感到烦心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_09",
+    "group_id": 105,
+    "group_name": "infuse, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "infuse",
+    "question": "Determined to challenge dogmatic complacency, the visiting philosopher sought to ___ a rigorous sense of epistemological skepticism into the department’s otherwise conventional discourse on ethical realism.",
+    "options": [
+      "infuse",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "infuse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键句型为“___ + [抽象学术品质: a rigorous sense of epistemological skepticism] + into + [学术话语客体: the department's... discourse]”。四个选项中，仅 infuse 能够与介词 into 构成极高阶学术搭配“infuse A into B”（将某种思想、特质或活力注入/灌输到某事物中）；其余三项（clog, deluge, clutter）均无法与“抽象名词 + into”构成合法的句法结构。",
+    "distractor_analysis": {
+      "infuse": "正确。infuse 意为“注入，灌输（思想、特质或精神）”，是典型的 TEM-8 核心学术动词。其最经典的句法搭配为 infuse A into B（将 A 注入 B 中）或 infuse B with A。本句表达将“认识论怀疑精神”注入到“传统伦理实在论话语”之中，语法介词搭配与认知哲学学术语境完全吻合。",
+      "clog": "错误。clog 意为“阻塞，阻碍”，属及物或不及物动词，常见句型为 clog something（阻塞某管道或机制）或 be clogged with something（因……而堵塞），英语中不存在“clog A into B”的句法构式；且其消极阻碍的含义与“灌输批判精神”的学术认知逻辑背道而驰。",
+      "deluge": "错误。deluge 意为“使充斥，使泛滥；压倒”，用于比喻义时其标准句法搭配是 deluge somebody/something with something（用铺天盖地的事物淹没某人/某系统），无法与介词 into 搭配（不存在 deluge A into B），句法严重破裂。",
+      "clutter": "错误。clutter 意为“乱堆，使凌乱”，通常指杂乱的实体或琐碎念头塞满物理或心理空间，其句型为 clutter (up) something with something，不可接“抽象学术理念 + into”结构，且语域偏于具象空间杂乱，与高级哲学认知语境格格不入。"
+    },
+    "translation": "为了挑战教条主义带来的自满，这位客座哲学家试图将一种严谨的认识论怀疑精神，注入该系原本关于伦理实在论的传统话语之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_10",
+    "group_id": 105,
+    "group_name": "infuse, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "Sensationalized headlines and partisan rhetoric threaten to ___ the discursive channels of public deliberation, thereby impeding the objective cognitive processing required for prudent democratic governance.",
+    "options": [
+      "infuse",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动词的宾语为“the discursive channels of public deliberation（公共审议的论辩渠道）”，后紧承伴随结果“thereby impeding the objective cognitive processing（从而阻碍客观认知处理）”。这确立了“阻塞渠道以致流通受阻”的比喻性强搭配。在思想论辩与认知机制语境中，clog the channels of...（阻塞……的渠道/通路）是固定的书面语隐喻搭配，与后文 impeding 形成排他性逻辑呼应。",
+    "distractor_analysis": {
+      "clog": "正确。clog 意为“阻塞，阻碍（流动或正常运作）”，在政治认知与思想史文献中常比喻性地与 channels（沟通渠道、认知回路）搭配，构成“clog the channels of communication/deliberation”（阻塞交流/审议渠道）。句中指煽动性标题和党派言论堵塞了公共审议的通路，导致客观认知受阻，动宾搭配与结果分词呼应极其严密。",
+      "infuse": "错误。infuse 意为“注入，灌输”，通常用于带来新的生机、特质或影响，后文伴随状语“thereby impeding...（从而阻碍客观认知）”表明动作产生了严重的堵塞与负面阻碍，infuse 无法解释造成通道梗阻的因果链条，且语义极性与语境不符。",
+      "deluge": "错误。deluge 意为“使泛滥，使应接不暇”，若作及物动词，其直接宾语应为接受大量信息的客体或人群（如 deluge the public），而“channels（通道，渠道）”本身是信息流通的路径，通道可以被“堵塞（clog）”，却不能作为被泛滥淹没的主体，搭配失准。",
+      "clutter": "错误。clutter 强调在平铺空间或表面上杂乱无章地堆放杂物（如 clutter a desk/room），引申为心智堆满碎片杂念（clutter one's mind），但它不用于形容流通通道（channels）或传输机制的“梗阻/中断”，无法与“channels ... impeding the cognitive processing”构成严谨的系统流通阻塞隐喻。"
+    },
+    "translation": "煽情夸张的头条新闻和带有党派偏见的辞令，正威胁着要堵塞公众审议的论辩渠道，进而阻碍审慎的民主治理所必需的客观认知处理。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_11",
+    "group_id": 106,
+    "group_name": "inset, foist, inoculate, intersperse",
+    "level": "TEM-8",
+    "target_word": "inset",
+    "question": "To clarify the dense epistemological argument, the editors chose to ___ a comparative diagram directly into the primary textual narrative, thereby visually anchoring the abstract claims.",
+    "options": [
+      "inset",
+      "foist",
+      "inoculate",
+      "intersperse"
+    ],
+    "answer": "inset",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配为动词后接单数离散图表对象（a comparative diagram）以及空间/版面方向介词短语（directly into the primary textual narrative），在学术出版与认知表征中严格选择表示“嵌入、插入”的 inset。",
+    "distractor_analysis": {
+      "inset": "正确。inset 作及物动词时意为“嵌入、置入（版面、文本或构架中）”，与介词 into 构成极高频的标准搭配（inset sth into sth），在此处指将对比图表直接插入正文叙述中以具象化抽象论点，句法语义完全契合。",
+      "foist": "错误。foist 意为“强加、硬塞（伪劣或不受欢迎之物）”，通常与介词 on 或 upon 搭配（foist sth on/upon sb），具有强烈的贬义色彩，与本句中理性的版面编排及介词 into 产生严重视角与语法冲突。",
+      "inoculate": "错误。inoculate 意为“灌输（思想）、使免疫/接种”，常用于 inoculate sb against sth（使预防某种影响）或 inoculate sb with sth（注入某种思想），无法与文本中的图表及介词 into 搭配。",
+      "intersperse": "错误。intersperse 意为“散布、点缀”，典型句型要求以复数/分散物为宾语并接 among/throughout，或者使用“intersperse A with B”结构（以某物点缀某物）；本句宾语为单数独立图表且后接 into，构成搭配断裂。"
+    },
+    "translation": "为了阐明晦涩密集的认识论论证，编辑们决定将一幅对比图表直接嵌入正文叙述之中，从而在视觉上为那些抽象的主张提供了坚实的依托。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_12",
+    "group_id": 106,
+    "group_name": "inset, foist, inoculate, intersperse",
+    "level": "TEM-8",
+    "target_word": "foist",
+    "question": "Determined to preserve their institutional monopoly, the senior regulators sought to ___ an obsolete methodological standard upon emerging research laboratories, effectively stifling independent technological innovation.",
+    "options": [
+      "inset",
+      "foist",
+      "inoculate",
+      "intersperse"
+    ],
+    "answer": "foist",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句型框架为“___ an obsolete methodological standard upon...”，核心介词 upon 及其所体现的强行施加过时标准并“扼杀创新（stifling innovation）”的负面评价语义，排他性地锁定了表示“将（劣质/不合理之物）强加于”的动词 foist。",
+    "distractor_analysis": {
+      "foist": "正确。foist 意为“把……强加于；硬塞给”，核心搭配为 foist sth on/upon sb，语意专指以不合理或欺骗性手段强制推行不合时宜、低劣或多余之物，与后文 upon 以及扼杀科研创新的负面语义环境完全吻合。",
+      "inset": "错误。inset 意为“嵌入、插入”，只能接介词 in 或 into，既无法与介词 upon 产生句法协同，也缺乏强权施压、强制推行的主观意图色彩。",
+      "inoculate": "错误。inoculate 意为“使免疫；给……灌输”，搭配通常为 inoculate sb against sth 或 inoculate sb with sth，在英语中不能与介词 upon 搭配，语义亦无法表达“强推过时标准”。",
+      "intersperse": "错误。intersperse 意为“散布、穿插”，其标准构型为 intersperse sth with sth 或 intersperse sth among/throughout sth，不接 upon，无法表述制度性强加行为。"
+    },
+    "translation": "为了维护其机构垄断地位，资深监管人员企图将一项过时的方法论标准强加给新兴的研究实验室，从而有效地扼杀了独立的科技创新。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_13",
+    "group_id": 107,
+    "group_name": "instigate, jog, lure, incite",
+    "level": "TEM-8",
+    "target_word": "instigate",
+    "question": "Confronted with persistent allegations of regulatory oversight failures, the parliamentary committee resolved to ___ a comprehensive independent inquiry into the systemic vulnerabilities that had compromised national fiscal governance.",
+    "options": [
+      "instigate",
+      "jog",
+      "lure",
+      "incite"
+    ],
+    "answer": "instigate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object collocation 'a comprehensive independent inquiry' combined with formal institutional agency ('the parliamentary committee resolved to...')",
+    "distractor_analysis": {
+      "instigate": "正确。instigate 在正式公文和学术英语中常表示“发起、发起调查/诉讼、促成（正式程序）”，与 inquiry, investigation, proceedings, reforms 构成极为地道的高阶固定搭配（如 instigate an inquiry），准确契合议会委员会启动独立调查的语境。",
+      "incite": "错误。incite 侧重于“煽动、策动”，宾语通常为暴力行为、动乱、非法行为或强烈情绪（如 incite violence, riots, rebellion, hatred），或用于 incite sb to do sth 句式，不能与体制内严肃、合法的行政/司法调查（inquiry）相搭配，属于语义色彩和搭配对象的严重错配。",
+      "jog": "错误。jog 在认知与心理场中主要用于固定搭配 jog sb's memory（唤醒记忆、提醒），无法与抽象的制度性调查（inquiry）搭配作及物动词使用。",
+      "lure": "错误。lure 意为“诱惑、引诱”，其语义核心在于利用诱饵或虚假希望吸引客体（通常接 animate object，如 lure sb into a trap），在句法和语义上均无法支配并启动一项程序性调查（inquiry）。"
+    },
+    "translation": "面对有关监管失职的持续指控，议会委员会决定发起一项全面的独立调查，以查明危及国家财政治理的系统性漏洞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_14",
+    "group_id": 107,
+    "group_name": "instigate, jog, lure, incite",
+    "level": "TEM-8",
+    "target_word": "jog",
+    "question": "The forensic psychologist presented a series of archival photographs during the deposition, hoping the visual stimuli would ___ the traumatized witness's memory regarding the precise chronology of the incident.",
+    "options": [
+      "instigate",
+      "jog",
+      "lure",
+      "incite"
+    ],
+    "answer": "jog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The cognitive direct object collocation 'the traumatized witness's memory'",
+    "distractor_analysis": {
+      "jog": "正确。jog 在认知心理语境中与 memory/recollection 构成绝对排他性的高阶习语搭配 jog one's memory，意为“通过外界线索或提示唤起/激发某人的记忆”，与前文“forensic psychologist（法医心理学家）”展示“visual stimuli（视觉刺激物）”以帮助证人回忆案发经过的语境严丝合缝。",
+      "instigate": "错误。instigate 意为“发起、挑起”，其宾语多为行动、争端、调查或变革（如 instigate an inquiry/reforms），无法作用于人脑的记忆机能，不能搭配 memory。",
+      "incite": "错误。incite 意为“煽动、激起（负面情绪或暴乱）”，支配对象为人的行动倾向或特定攻击性行为（如 incite violence），绝不能与静态/认知范畴的“memory”搭配使用。",
+      "lure": "错误。lure 指“以利益诱骗或引诱”，通常搭配有感知能力的生命体（如 lure customers/investors），无法与抽象的心理认知产物 memory 形成合法动宾搭配。"
+    },
+    "translation": "法医心理学家在作证取证过程中出示了一系列档案照片，希望这些视觉刺激能够唤起受到创伤的证人对事件准确时间顺序的记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_15",
+    "group_id": 108,
+    "group_name": "intersperse, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "intersperse",
+    "question": "To mitigate cognitive fatigue among students, the professor chose to ___ the dense epistemological treatise with illuminating historical vignettes, thereby revitalizing an otherwise dry conceptual narrative.",
+    "options": [
+      "intersperse",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "intersperse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the construction '___ [NP: the treatise] with [NP: vignettes]', indicating the act of placing elements at intervals across an intellectual narrative.",
+    "distractor_analysis": {
+      "intersperse": "正确。intersperse 严格遵循 'intersperse A with B'（在A中穿插/点缀B）的及物-介词搭配框架，常用于学术写作或言语交际中，表示在枯燥、密集的论述中点缀插入生动案例或插图以调节节奏。句中将认识论论著（epistemological treatise）与历史小故事（historical vignettes）交织，语境与语法完全契合。",
+      "ladle": "错误。ladle 作动词表比喻义时意为“大量给予、滥施（赞誉/建议）”，多接副词 out（如 ladle out praise）或介词 on/upon，无法与介词 with 构成 'ladle A with B' 的搭配来表达“穿插、点缀”。",
+      "siphon": "错误。siphon 意为“抽吸；暗中抽调、转移（资金或资源）”，通常与 off, away, from, into 等表示源头或流向的介词搭配，在语义上表示流失或转移，既不符合句子关于论述节奏的语境，也无法与 with 搭配表点缀。",
+      "stratify": "错误。stratify 意为“使分层、使阶层化”，其后常接 into（如 stratify into layers）或被用于被动语态表示按某种标准分类（stratified by），无法接 with 引出插入物来表示文本结构的穿插调节。"
+    },
+    "translation": "为了缓解学生们的认知疲劳，教授选择在这部晦涩的认识论论著中穿插一些具有启发性的历史轶事，从而为原本枯燥的概念叙述注入了新的活力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_16",
+    "group_id": 108,
+    "group_name": "intersperse, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Rather than engaging in rigorous intellectual critique, the department chair chose to ___ out effusive praise to the visiting lecturer, obscuring the conceptual deficits in his theoretical framework.",
+    "options": [
+      "intersperse",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed idiomatic particle 'out' immediately following the blank, combined with the abstract mass noun 'effusive praise', unequivocally triggers the figurative phrasal collocation 'ladle out'.",
+    "distractor_analysis": {
+      "ladle": "正确。ladle 本义为“用勺舀”，其比喻搭配 ladle out 为高级英语常见固定习语，意为“大量且不加节制地分发、慷慨（或滥施）给予（赞誉、奉承或建议等）”。此处 ladle out effusive praise to... 精准刻画出系主任对来访讲师大肆滥施溢美之词、规避严肃学术批评的虚浮场景。",
+      "intersperse": "错误。intersperse 强调“在某物中散置/穿插”，其句法搭配为 intersperse A with B 或 intersperse A among/in B，绝不与小品词 out 连用（不存在 *intersperse out 结构），语法严重断裂。",
+      "siphon": "错误。siphon 虽然可以与 out/off 连用（如 siphon off/out funds），但其核心语义指向“暗中抽取、挪用或转移”，是向内或私下的损耗性剥夺；而向讲师提供赞誉属于向外分发与给予，与 siphon 的流向语义截然相反。",
+      "stratify": "错误。stratify 是纯粹的单及物动词，表示“使形成阶层、使分层化”，不属于短语动词，完全不能与副词小品词 out 搭配使用（*stratify out 语法不成立）。"
+    },
+    "translation": "系主任没有开展严谨的学术批判，反而选择对那位来访讲师大肆倾倒溢美之词，从而掩盖了其理论框架中存在的概念缺陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_17",
+    "group_id": 109,
+    "group_name": "intoxicate, exalt, uplift, animate",
+    "level": "TEM-8",
+    "target_word": "intoxicate",
+    "question": "Early triumphs in geopolitical diplomacy can easily ___ an inexperienced statesman with delusions of invulnerability, blinding him to the subtle perils of protracted asymmetrical warfare.",
+    "options": [
+      "intoxicate",
+      "exalt",
+      "uplift",
+      "animate"
+    ],
+    "answer": "intoxicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame '___ [someone] with delusions of invulnerability' paired with the subsequent consequence 'blinding him to the subtle perils' decisively requires a verb signifying elation that clouds rational judgment.",
+    "distractor_analysis": {
+      "intoxicate": "正确。intoxicate 在认知与隐喻语境中意为“使陶醉；使欣喜若狂以致失去理智/盲目乐观”（to elate or excite to the point of impairment of judgment）。此处与介词短语 'with delusions of invulnerability' 以及后文分词短语 'blinding him to...' 形成严密的语义因果与惯用搭配，精确刻画了早期胜利诱发的虚妄狂腹与认知盲点。",
+      "exalt": "错误。exalt 意为“提高……的地位；赞扬，歌颂”，其常用结构为 exalt somebody to a post/status 或 exalt A above B。它既不能与 'with delusions' 构成“使产生妄想错觉”的因果搭配，也不含有“使丧失判断力、盲目自大”的消极认知语义。",
+      "uplift": "错误。uplift 意为“在精神、道德或智力上提升；振奋人心”，带有稳定且恒常的正面褒义色彩（moral or spiritual elevation）。本句上下文明确指向“虚妄自大”（delusions of invulnerability）与“蒙蔽心智”（blinding him），填入 uplift 会引发严重的语义情感色彩颠倒与逻辑冲突。",
+      "animate": "错误。animate 意为“赋予生命；鼓舞，使有生气”，通常搭配积极的动力或活力源泉（如 animate someone with hope/vitality），不能用来表达使人产生病态狂妄幻觉而丧失清醒判断的负面认知心理。"
+    },
+    "translation": "地缘外交中的早期胜利极易让缺乏经验的政治家沉醉于自身无懈可击的幻觉之中，从而对其陷入旷日持久的非对称战争所潜藏的隐患视而不见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_18",
+    "group_id": 109,
+    "group_name": "intoxicate, exalt, uplift, animate",
+    "level": "TEM-8",
+    "target_word": "exalt",
+    "question": "Rather than treating sensory experience with skepticism, the empiricist treatise sought to ___ perceptual observation above abstract metaphysical speculation, establishing observable evidence as the cornerstone of valid inquiry.",
+    "options": [
+      "intoxicate",
+      "exalt",
+      "uplift",
+      "animate"
+    ],
+    "answer": "exalt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and comparative frame '___ [A] above [B]' in an epistemological discourse strictly requires a transitive verb denoting elevation in esteem or cognitive primacy.",
+    "distractor_analysis": {
+      "exalt": "正确。exalt 意为“提升……的地位；在心智或认知层面上尊崇、高度推崇”（to elevate in esteem, status, or dignity）。在哲学与学术学术语境中，'exalt A above B' 为极具辨识度的高阶学术搭配，意为“将A置于B之上予以推崇”，与句中将“感官知觉观察”置于“抽象形而上学思辨”之上的认知评判完全吻合。",
+      "intoxicate": "错误。intoxicate 意为“使陶醉，使陶醉以致失去自制力”，其宾语必须为具备感知与情感能力的生命体或个体意识（animate entity），绝不能以抽象的认识论方法 'perceptual observation' 作宾语，更无 'intoxicate A above B' 这一比较句式。",
+      "uplift": "错误。uplift 意为“提升（道德修养、精神风貌或社会阶层）”，其宾语通常为人类的心灵、弱势群体或精神世界，不能用于抽象认识论范畴的层级排位，且英语中不存在 '*uplift A above B' 这种表达等级尊崇的搭配。",
+      "animate": "错误。animate 意为“使活跃；成为……的灵魂/动力”（如 an ideal animates the movement）。它属于动能或生命力赋予动词，无法接入以介词 'above' 引出的层级优选与尊崇对比结构（*animate A above B 为句法搭配断裂）。"
+    },
+    "translation": "这篇经验主义论著并没有对感官经验抱以怀疑，而是试图将感官知觉观察置于抽象的形而上学思辨之上，从而将可观察的证据确立为严谨探究的基石。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_19",
+    "group_id": 110,
+    "group_name": "jog, scurry, sprint, scuttle",
+    "level": "TEM-8",
+    "target_word": "jog",
+    "question": "During the retrospective psychological evaluation, the investigator presented archival footage in a calculated attempt to ___ the traumatized victim's repressed memory regarding the precise timeline of the catastrophe.",
+    "options": [
+      "jog",
+      "scurry",
+      "sprint",
+      "scuttle"
+    ],
+    "answer": "jog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive idiomatic and syntactic anchor: 'jog someone's memory' is a fixed cognitive collocation requiring a transitive verb to denote stimulating or refreshing recollection; scurry and sprint are intransitive, while scuttle cannot collocate with memory.",
+    "distractor_analysis": {
+      "jog": "正确。在此构成认知心理学及高级英语中的经典固定搭配“jog one's memory”（唤起/提示某人的记忆），句法上作为及物动词接宾语“the victim's repressed memory”，语意完全契合通过展示历史影像以激活创伤记忆的严密语境。",
+      "scurry": "错误。句法受限。该词为严格的不及物动词，意为“小步疾跑、仓促奔走”，无法后接直接宾语，出现严重的句法配价违规。",
+      "sprint": "错误。句法与搭配断裂。该词主要用作不及物动词，指体育运动中的短距离全速冲刺，既无法接抽象名词宾语“memory”，亦无唤醒或激发记忆的隐喻认知义项。",
+      "scuttle": "错误。语义逻辑矛盾与搭配不当。作为及物动词，其核心义项为“凿沉（船只）”或引申为“彻底破坏、阻挠（计划、协议）”；在认知语境中既无“破坏记忆”的常规搭配，更与调查员试图厘清灾难时间线的建构性目的产生严重逻辑对立。"
+    },
+    "translation": "在追溯性心理评估过程中，调查人员展示了档案影像资料，蓄意试图唤起受害者关于灾难确切时间线的压抑记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b10_20",
+    "group_id": 110,
+    "group_name": "jog, scurry, sprint, scuttle",
+    "level": "TEM-8",
+    "target_word": "scurry",
+    "question": "Whenever unanticipated empirical anomalies undermine established macroeconomic doctrine, orthodox analysts typically ___ to recalibrate their econometric models in an anxious bid to preserve theoretical credibility.",
+    "options": [
+      "jog",
+      "scurry",
+      "sprint",
+      "scuttle"
+    ],
+    "answer": "scurry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive structural and stylistic anchor: 'scurry to [do sth]' is a recognized journalistic and academic catenative collocation portraying flustered, undignified haste to repair a damaged situation; scuttle does not license a purposive to-infinitive complement (*scuttle to recalibrate), sprint lacks this figurative catenative sense, and jog clashes in both velocity and pragmatic urgency.",
+    "distractor_analysis": {
+      "jog": "错误。语体色彩与语义极性冲突。其基本义为慢节奏、有规律的跑步，既缺乏应对突发危机时的紧迫感与慌乱感，与后文的“anxious bid”（焦虑的努力）形成语义冲突，也不具备“jog to do sth.”这一表示慌忙采取对策的搭配用法。",
+      "scurry": "正确。在高级社论（如《经济学人》）与学术话语中，“scurry to do sth.”是极为地道的引申隐喻搭配，形象描绘行动主体在遭遇认知冲击或权威受挫时“手忙脚乱、仓皇应对”的窘态，与本句分析师急于修补模型的慌乱情态严丝合缝。",
+      "sprint": "错误。语义域局限。该词严格指物理速度上的极限冲刺，不具备后接不定式（sprint to recalibrate）以表达慌乱补救、维护信誉的语法化抽象隐喻功能。",
+      "scuttle": "错误。句法受限。作为不及物动词表疾走时，该词仅与方位介词/副词连用（如 scuttle away/across），在标准现代英语中不接目的不定式（*scuttle to do）；及物动词时则意为破坏或凿沉，无法与后文的“to recalibrate”形成合法的句法结构。"
+    },
+    "translation": "每当意料之外的经验反常现象动摇既定的宏观经济学说时，正统分析师往往会手忙脚乱地重新校准其计量模型，以期挽回其理论声誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

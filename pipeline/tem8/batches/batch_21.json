@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b21_01",
+    "group_id": 211,
+    "group_name": "constrain, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "constrain",
+    "question": "Although speculative metaphysicians enjoy considerable imaginative latitude, rigorous philosophers of mind insist that empirical findings from neurobiology must strictly ___ the theoretical models proposed to explain human consciousness.",
+    "options": [
+      "constrain",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "constrain",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键论述在于经验性科学证据（empirical findings）对抽象假说体系（theoretical models）所施加的形式边界与参数限制。在认知科学与科学哲学语境中，'constrain theoretical models/hypotheses'（对理论模型施加客观规约与边界约束）是高度专门化的标准学术搭配。其余选项在受事搭配上均不成立：inhibit 的受事只能是生理/生化活动、行为进程或生长冲动；rein 侧重勒止狂乱失控的人或物；baffle 的受事必须是认知主体。",
+    "distractor_analysis": {
+      "constrain": "正确。constrain 意为“限制、约束、规约（范围、自由度或参数）”。在哲学与认知科学认识论语境中，指客观事实、物质结构或经验证据为假说模型（theoretical models）限定有效边界，确立其解释框架的合法性，语域与学术搭配完全契合。",
+      "rein": "错误。rein 意为“勒马、遏制（失控或过度的力量）”，通常带狂乱、野蛮生长的动态隐喻，常与 in 连用，其宾语多为野心、通胀、冲动或支出（如 rein in speculative zeal/spending）。此处宾语为抽象静态的概念模型（theoretical models），与 rein 发生严重的语义配价断裂。",
+      "baffle": "错误。baffle 意为“使困惑、难倒”，其施事通常是扑朔迷离的谜团或反常现象，而受事必须是具有认知与理解能力的人或智力主体（如 the paradox baffled researchers）。经验发现不可能“难倒理论模型”，属于范畴错误（category mistake）。",
+      "inhibit": "错误。inhibit 意为“抑制、阻碍（生化反应、神经冲动、生理生长或自发行为）”，其作用对象必须是一个动态展开的机制、反应或过程（如 inhibit enzyme activity / inhibit neural firing）。理论模型属于抽象认知架构而非进行中的反应进程，不可被 inhibit。"
+    },
+    "translation": "尽管思辨形而上学家享有相当大的想象自由，但严谨的心灵哲学家坚持认为，来自神经生物学的经验发现必须严格规约那些旨在解释人类意识的理论模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_02",
+    "group_id": 211,
+    "group_name": "constrain, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "rein",
+    "question": "To prevent confirmation bias from compromising the peer-review process, the editorial board urged reviewers to ___ in their subjective predilections and evaluate the novel cognitive models purely on empirical merit.",
+    "options": [
+      "constrain",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "rein",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空格后紧跟副词/小品词 'in'，构成 '___ in their subjective predilections' 结构。在所给四个动词中，仅有 rein 能够与 in 结合构成固定动词短语 'rein in'，意为“约束、勒住、抑制（冲动、偏好或脱缰的情绪）”。constrain、inhibit 与 baffle 均为纯及物动词，在现代英语中均不存在 '*constrain in'、'*inhibit in' 或 '*baffle in' 的短语结构，代入后均构成致命的句法违误。",
+    "distractor_analysis": {
+      "rein": "正确。rein 原义为“用缰绳勒住马匹”，引申构成的固定短语 rein in 广泛用于学术与政经严肃语域，意为“克制、勒住（主观偏好、野心、开支或偏见）”。此处 'rein in their subjective predilections'（克制其主观偏好）在句法和语意上均无懈可击。",
+      "constrain": "错误。constrain 为及物动词，其典型构型为 constrain sb/sth (from doing sth) 或 be constrained by sth。英语中根本不存在动介组合 '*constrain in sth' 来表示克制主观偏好，代入即发生句法搭配断裂。",
+      "baffle": "错误。baffle 意为“使困惑、难住”，只能作为直接及物动词接人或智力主体为宾语，既无法与 in 搭配使用，且在逻辑上审稿人也不可能去“难倒”自己的主观偏好。",
+      "inhibit": "错误。inhibit 意为“抑制、阻碍”，属于直接及物动词（如 inhibit impulses / inhibit growth）或用于 inhibit sb from doing sth 句式。英语中不存在 '*inhibit in' 的动词短语形式，存在不可调和的句法冲突。"
+    },
+    "translation": "为防止确认偏误损害同行评审流程，编辑委员会敦促评审人员克制其主观偏好，纯粹根据经验价值来评估这些新颖的认知模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_03",
+    "group_id": 212,
+    "group_name": "crackle, honk, creak, crunch",
+    "level": "TEM-8",
+    "target_word": "crackle",
+    "question": "During the plenary debate on artificial consciousness, the auditorium seemed to ___ with intellectual electricity, as cognitive theorists challenged deterministic paradigms with unprecedented rhetorical vitality.",
+    "options": [
+      "crackle",
+      "honk",
+      "creak",
+      "crunch"
+    ],
+    "answer": "crackle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation with 'with intellectual electricity' to denote an atmosphere sparkling with vibrant energy and thought",
+    "distractor_analysis": {
+      "crackle": "正确。crackle本义为“发噼啪声”，其经典且极具修辞表现力的引申比喻义为“充满、洋溢着（活力、才思、张力或闪电般的敏锐激荡）”，常见固定搭配为crackle with (energy / tension / wit / electricity)。句中与'with intellectual electricity'（智力交锋的电光石火）紧密契合，完美传达出研讨现场思想激烈碰撞的学术氛围。",
+      "honk": "错误。honk指鸣汽车喇叭或野雁引吭长鸣，语义粗粝，既无“思想激荡迸发”的比喻义，也无法与介词短语'with intellectual electricity'形成合理搭配。",
+      "creak": "错误。creak指陈旧木料、铰链因受压而发出的吱呀呻吟声，比喻义多指体制、机构在重压下勉强运转甚至濒临瓦解（如creak under strain），带有衰颓、停滞的消极色彩，与句中'rhetorical vitality'所表现出的旺盛活力完全相悖。",
+      "crunch": "错误。crunch指坚硬物体受压碎裂的声音，引申为“大量处理数据（crunch numbers）”或“紧缩与危机（credit crunch）”，在句法和语义上均无法与抽象情绪及思想电石火花搭配。"
+    },
+    "translation": "在关于人工意识的大会辩论中，整个礼堂似乎都迸发着思想碰撞的火花，认知理论家们以空前雄辩的活力向决定论范式发起了挑战。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_04",
+    "group_id": 212,
+    "group_name": "crackle, honk, creak, crunch",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Investigating how auditory pollution impairs attention, cognitive psychologists observed that impatient drivers who abruptly ___ during urban gridlock induce micro-startle responses that disrupt the spatial working memory of commuters.",
+    "options": [
+      "crackle",
+      "honk",
+      "creak",
+      "crunch"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Agent 'impatient drivers' in 'urban gridlock' producing a sudden, jarring acoustic distraction",
+    "distractor_analysis": {
+      "honk": "正确。honk用作不及物动词时，专指驾驶员按响汽车喇叭发出尖锐鸣笛声（to sound a car horn），在此作为定语从句的谓语动词，与施事主语'impatient drivers'及后文'urban gridlock'（城市拥堵）构成严丝合缝的语境与语义搭配。",
+      "crackle": "错误。crackle通常以火、干柴、无线电杂音或静电等作为主语，指发出连续噼啪碎响，人作为驾驶员无法发出该动作，与施事主语'drivers'严重搭配不当。",
+      "creak": "错误。creak主语通常是门轴、旧木板、地板或沉重机器骨架等物理构件，用来指代驾驶员在堵车中的行为纯属语义断裂。",
+      "crunch": "错误。crunch表示咬碎硬物或车辆碾过碎石的声音，若用作驾驶行为动词，往往指物理撞击或碾压（如crunch gears换挡打齿），无法表达堵车时按喇叭制造噪音这一使路人产生惊愕反应的心理学诱因。"
+    },
+    "translation": "在研究听觉污染如何损害注意力时，认知心理学家观察到，在城市交通瘫痪时焦躁地猛按喇叭的司机会引发微惊恐反应，从而扰乱通勤者的空间工作记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_05",
+    "group_id": 213,
+    "group_name": "creak, honk, squeak, racket",
+    "level": "TEM-8",
+    "target_word": "creak",
+    "question": "Cognitive historians observe that when venerable legal institutions begin to ___ under the sheer weight of unprecedented digital disruption, public trust erodes far more rapidly than empirical metrics would suggest.",
+    "options": [
+      "creak",
+      "honk",
+      "squeak",
+      "racket"
+    ],
+    "answer": "creak",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定比喻搭配及介词短语锚点：'begin to creak under the sheer weight of...'。在权威政经与学术英语（如《经济学人》）中，creak 专用于隐喻机制、系统或体制在重压之下不堪重负、运转困难、出现动摇与裂痕（creak under the weight/strain/pressure of）。其余选项均无此种抽象制度承压隐喻及搭配力。",
+    "distractor_analysis": {
+      "creak": "正确。creak 本义指物体因受力、摩擦或老化而发出沉闷刺耳的'嘎吱'声；在社科认知与宏观论述中，形成极其高度固化的隐喻用法，专指系统、组织或制度在巨大负担或外部压力下'难以承受、吃力运转、危机初显'（常与 under the weight/strain of 连用）。此处与 'venerable legal institutions' 及 'under the sheer weight of...' 构成无可替代的完美契合。",
+      "honk": "错误。honk 指野雁的鸣叫或汽车喇叭刺耳的嘟嘟声，属于具象的爆破性喧闹声，既不能与 'under the weight of' 搭配，也完全脱离了制度体制承压运转的语义场，语域严重错位。",
+      "squeak": "错误。squeak 指发出短促、尖锐微弱的吱吱声（如鼠叫、未上油的铰链声），引申义多为 squeak through / squeak by（侥幸勉强通过/过关）。它无法表征宏观体制在沉重压力下'负重受损、摇摇欲坠'的状态，与 'under the sheer weight of' 发生语义冲突与搭配脱节。",
+      "racket": "错误。racket 作不及物动词时意为'喧闹吵闹、过着花天酒地的放荡生活'（常与 around/about 连用，如 racket around the town），完全不具备体制承受负荷的隐喻含义，且与后接介词短语 under the sheer weight of 语法及语义均不相容。"
+    },
+    "translation": "认知史学家观察到，当古老的法律制度在空前数字化冲击的重压之下开始吃力动摇、显露颓势时，公众信任的侵蚀速度要远快于实证量化指标所能揭示的程度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_06",
+    "group_id": 213,
+    "group_name": "creak, honk, squeak, racket",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "In experiments evaluating acoustic aggression, cognitive psychologists found that frustrated drivers routinely ___ at delayed vehicles, triggering instantaneous sympathetic nervous system arousal and acute attentional narrowing in surrounding commuters.",
+    "options": [
+      "creak",
+      "honk",
+      "squeak",
+      "racket"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法与语义双重决定性锚点：主语为 'frustrated drivers'，宾语补足介词短语为 'at delayed vehicles'，情境涉及 'acoustic aggression'（声音攻击）。在英语中，针对前车鸣笛施加听觉攻击的唯一合法律动词是 'honk at'；其余动词均无法与 'at [target vehicle]' 搭配表示鸣笛示警或听觉施压。",
+    "distractor_analysis": {
+      "honk": "正确。honk 作及物/不及物动词，专指按汽车喇叭发出刺耳鸣响（to sound a car horn）或大雁鸣叫。在此处，'honk at delayed vehicles'（朝延误受阻的车辆按喇叭）是高度凝练的地道句法与认知心理学实验场景，精准表征了驾驶者的听觉侵略行为。",
+      "creak": "错误。creak 指摩擦发出的嘎吱沉闷声（如地板、老门、骨骼），主语通常为承受重力的物理部件或隐喻下的机构，动作发出者绝不可能是情绪焦躁的驾驶员（drivers cannot 'creak'），更无法接介词短语 'at delayed vehicles'，句法语义完全不成立。",
+      "squeak": "错误。squeak 指尖细微弱的短促叫声，无法充当机动车驾驶员在道路愤怒情境下发泄攻击性（acoustic aggression）的发声载体；且 drivers squeak at vehicles 在搭配上极度违和，不符合驾驶行为学常理。",
+      "racket": "错误。racket 作动词意为'大声喧闹、寻欢作乐'，是不及物动词，通常后接副词或介词 around/about/along（如 trains racketing along the tracks），绝对无法带定向介词宾语 'at delayed vehicles' 来指代按喇叭这一瞬态攻击动作。"
+    },
+    "translation": "在评估声音攻击性的实验中，认知心理学家发现，受挫的驾驶员通常会频繁朝延误行进的车辆鸣笛施压，从而引发周围通勤人员瞬间的交感神经系统兴奋及急剧的注意力狭窄。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_07",
+    "group_id": 214,
+    "group_name": "croak, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "croak",
+    "question": "Afflicted by acute dehydration and severe laryngeal inflammation, the stranded surveyor could scarcely ___ a desperate plea into the transmitter before his failing voice succumbed to absolute silence.",
+    "options": [
+      "croak",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "croak",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“acute dehydration and severe laryngeal inflammation”（严重脱水与喉头炎）以及“failing voice succumbed to absolute silence”（微弱衰竭的声音陷入死寂）构成决定性语义锚点，限定动词必须表示因喉咙干渴、发炎或极度虚弱而发出“低哑、沙哑微弱的声音”，四个选项中仅 croak 具备此义。",
+    "distractor_analysis": {
+      "croak": "正确。croak 本义为渡鸦或蛙类发出低沉沙哑的叫声，引申指人因极度虚弱、喉部受损或干渴而“以嘶哑微弱的声音说话/勉强挤出声音”（to utter in a low, hoarse, or rasping voice），与句中喉部发炎、严重脱水及声音即将断绝的语境形成无可替代的精准契合。",
+      "hoot": "错误。hoot 指猫头鹰鸣叫或人发出响亮、高亢且具共鸣的叫喊、嘲弄声（utter a loud, resonant sound），其发声特征为高音量、中气充足，与喉部严重水肿发炎、气息奄奄以致发不出声音的生理状态直接冲突。",
+      "squall": "错误。squall 指（尤其是婴儿或幼童）因疼痛、受惊或愤怒而发出刺耳、尖锐且嚎啕大哭的高声尖叫（cry or scream loudly and harshly），强调高分贝的尖厉号叫，与“scarcely... before his failing voice succumbed to absolute silence”所呈现的微弱低哑完全不符。",
+      "gobble": "错误。gobble 作发声动词时特指雄火鸡发出的咕噜声或人快速含混吞吐的发声，作及物动词时意为“贪婪吞食”（常与 down/up 连用），既不包含因喉部衰竭而声音嘶哑微弱的语义，亦不能与“a desperate plea”搭配表达微弱呼救。"
+    },
+    "translation": "受严重脱水和急性喉头炎的折磨，这名受困的勘测员在微弱的嗓音彻底陷入死寂之前，几乎无法对着发射机沙哑地挤出一句绝望的求救呼号。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_08",
+    "group_id": 214,
+    "group_name": "croak, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "When the embattled envoy offered a transparently fraudulent justification for the aggressive annexation, the assembled diplomats broke formal decorum and began to ___ in open derision.",
+    "options": [
+      "croak",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中介词短语“in open derision”（公开嘲笑/轻蔑地）与“broke formal decorum”（打破正式礼仪）构成决定性搭配锚点。hoot 拥有极为固定的比喻用法及习语搭配“hoot in/with derision”，特指“发出嘘声或哄笑以示轻蔑嘲弄”，其余三词均无此搭配与语义特征。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 除本义指猫头鹰叫声外，在高级英语政治与社交语域中特指“高声叫嚣以示嘲弄、不屑或嘘声”（to utter loud shouts of scorn, contempt, or amusement），“hoot in/with derision”为地道英语固定搭配，完美契合外交官因愤怒而打破礼节、公开发出嘲弄嘘声的语境。",
+      "croak": "错误。croak 指低哑嘶鸣、沙哑说话或悲观抱怨，表达的是低沉、压抑、嘶哑的情态，既不能用于形容多人在集会场合高声哄笑、喝倒彩的社交行为，也与“in open derision”缺乏语义与搭配相容性。",
+      "squall": "错误。squall 专指因惊恐、剧痛或任性哭闹而发出的尖声号叫（典型主语为婴儿、争吵的泼妇或受惊动物），表达受害或歇斯底里的负面情绪，而非表达优越感式的政治轻蔑与公开嘲笑（derision）。",
+      "gobble": "错误。gobble 指狼吞虎咽或火鸡咕噜鸣叫，无法与“in open derision”构成修饰关系，用于社交批判语境属于严重的词义与风格割裂。"
+    },
+    "translation": "当那位四面楚歌的特使为侵略性吞并行径提出漏洞百出的虚伪辩解时，在场的外交官们打破了正式的外交礼节，开始公开报以轻蔑的哄笑与嘘声。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_09",
+    "group_id": 215,
+    "group_name": "crook, fawn, cringe, grovel",
+    "level": "TEM-8",
+    "target_word": "crook",
+    "question": "Observing the subtle discrepancies in the archival manuscript, the paleographer did not dismiss the scribe's work, but paused to ___ a contemplative finger, beckoning his assistant to inspect the marginalia.",
+    "options": [
+      "crook",
+      "fawn",
+      "cringe",
+      "grovel"
+    ],
+    "answer": "crook",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格后紧接及物宾语 'a contemplative finger' 以及后置分词从句 'beckoning his assistant'（招手示意助手）。在此语境下，必须填入能够作及物动词且表示‘弯曲（手指/手臂）以示意或沉思’的词汇。",
+    "distractor_analysis": {
+      "crook": "正确。crook 作及物动词意为‘使弯曲’，常与 finger, neck, arm 等身体部位搭配，'crook a finger' 为固定典雅表达，表示‘弯曲手指（尤指招手示意或传达沉思神态）’，完全契合学术考证与凝神动作的语境。",
+      "fawn": "错误。fawn 为不及物动词，通常搭配介词 on 或 over，表示‘奉承、讨好、谄媚’，既无法接宾语 'a contemplative finger'，在语义上也与学者的手势动作完全无关。",
+      "cringe": "错误。cringe 为不及物动词，常搭配介词 at/before，表示因恐惧、卑怯或尴尬而‘畏缩、退缩’，语法上无法直接接宾语，语义上亦不符学者专注探究的从容语境。",
+      "grovel": "错误。grovel 亦为严格的不及物动词，常与 before/to 搭配，表示‘摇尾乞怜、匍匐卑微’，语法上无法及物支配名词短语，逻辑上与语篇语义彻底脱节。"
+    },
+    "translation": "注意到古文献手稿中的细微差异后，古文字学家并没有否定抄写员的劳动，而是停下来弯起一根沉思的手指，招手示意助手前来检视页边批注。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_10",
+    "group_id": 215,
+    "group_name": "crook, fawn, cringe, grovel",
+    "level": "TEM-8",
+    "target_word": "fawn",
+    "question": "Rather than offer a rigorous methodological critique, the aspiring fellows chose to shamelessly ___ over the visiting laureate, lavishing uncritical praise on his outdated theories merely to curry professional favor.",
+    "options": [
+      "crook",
+      "fawn",
+      "cringe",
+      "grovel"
+    ],
+    "answer": "fawn",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配 '___ over the visiting laureate' 以及后文的逻辑伴随状语 'lavishing uncritical praise on his outdated theories merely to curry professional favor'（肆意逢迎并大加赞美以求谋取私利），精确锁定表达‘逢迎讨好、阿谀奉承’的不及物搭配。",
+    "distractor_analysis": {
+      "crook": "错误。crook 在此句法环境中无法与介词 over 形成表达社会交往或评价态度的有效搭配，其核心含义为‘弯曲’，与追求学术关照的谄媚语境毫无交集。",
+      "fawn": "正确。fawn over 为英语固定搭配，指‘对……阿谀奉承、百般讨好’，完美对应后文‘lavishing uncritical praise’（毫不批判地滥加赞誉）这一追求功利的学术阿谀行为。",
+      "cringe": "错误。cringe 常与 at/from 连用表示‘因尴尬或厌恶而感到无地自容/畏缩’，或与 before 连用表示屈服退缩，不与 over 搭配，且其内涵是恐惧或尴尬下的退缩，而非主动倾泻虚伪赞美的巴结逢迎。",
+      "grovel": "错误。grovel 虽含卑微讨好之意，但典型搭配为 grovel before/to sb.，侧重于‘摇尾乞怜、屈膝求饶、自贬自贱’（匍匐受辱），而不能与 over 搭配来表达以虚浮赞美来‘曲意逢迎’的特定语体色彩。"
+    },
+    "translation": "那些胸怀野心的初级研究员不仅没有提出严谨的方法论批评，反而选择对来访的学术泰斗无耻逢迎，对其过时理论大加吹捧，仅仅是为了谋求学术上的关照。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_11",
+    "group_id": 216,
+    "group_name": "crucify, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "crucify",
+    "question": "Determined to shield his deputy from disproportionate media vengeance, the director refused to let sensationalist tabloids ___ the young researcher as a convenient scapegoat for what was fundamentally an institutional oversight.",
+    "options": [
+      "crucify",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "crucify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中关键锚点为'disproportionate media vengeance'（不成比例的媒体报复）与'___ the young researcher as a convenient scapegoat'（将年轻研究员当作替罪羊施以毁灭性公开惩罚）。在英语政治与新闻语体中，crucify用于比喻义时专指对某人进行极其严厉、毫不留情且具有摧毁性的公开声讨或惩罚（criticize harshly or violently），其本义的受难/献祭色彩与'scapegoat'（替罪羊）构成唯一契合的高阶修辞搭配；其余选项或因句法搭配不合，或因语义侧重截然不同而被严格排除。",
+    "distractor_analysis": {
+      "crucify": "正确项。动词，及物，韦氏词典释义为'to criticize harshly or violently'（严厉或残暴地批评/公开摧毁）。句中'media vengeance'与'as a convenient scapegoat'明确指向媒体对个人实施毁灭性声讨、将其作为替罪羊残酷惩处的语境，crucify完美符合这一严厉程度极高、带有人格/声誉毁灭性质的比喻义搭配。",
+      "snipe": "干扰项。用于指责批评时多为不及物动词，必须接介词at构成'snipe at sb'，表示暗中放冷箭、微词讥讽，在此处直接带宾语'the young researcher'造成句法错误；且snipe侧重暗中、零星的冷嘲热讽，与小报发动的铺天盖地式毁灭性公开惩处（media vengeance）语义反差极大。",
+      "assail": "干扰项。及物动词，意为猛烈攻击或严厉质问（to attack violently with blows or words）。虽然及物且含攻击义，但assail侧重于正面抨击或围攻的过程（如'assail sb with questions'），不能与'as a convenient scapegoat'构成表示将其置于死地、残酷惩处并彻底毁掉其声誉的比喻性处决框架。",
+      "deplore": "干扰项。及物动词，意为对某事表示强烈谴责、遗憾或悲痛（to feel or express strong disapproval of）。其语义宾语通常为行为、状况、悲剧或政策（如deplore the violence/oversight），不能以具体的人作为遭受惩戒毁灭的直接宾语（不能说'deplore sb as a scapegoat'），存在明显的论元选择限制错误。"
+    },
+    "translation": "为了保护自己的副手免遭媒体不成比例的恶意报复，署长坚决不许耸人听闻的小报将这名年轻研究员当作替罪羊残酷示众惩处，因为这从根本上说是一起机构层面的工作疏忽。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_12",
+    "group_id": 216,
+    "group_name": "crucify, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than engaging in constructive policy debate, disgruntled backbenchers chose to covertly ___ at the cabinet's economic strategy through anonymous leaks, undermining party unity without offering any viable legislative alternatives.",
+    "options": [
+      "crucify",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "核心句法与语义双重锚点：一是空格后紧接的介词'at'（___ at the cabinet's economic strategy）；二是'covertly'（隐蔽地）与'through anonymous leaks'（通过匿名泄密），明确指示一种躲在暗处、从旁发难的放冷箭式非正面批评。四个选项中，仅snipe是不及物动词且能与介词at搭配（snipe at），其比喻义恰恰表示'从隐蔽或边缘位置进行暗中放冷箭、吹毛求疵式的攻击'，其余三词均为纯及物动词，接介词at均构成严重句法违例。",
+    "distractor_analysis": {
+      "snipe": "正确项。动词，常作不及物动词与介词at连用（snipe at sb/sth），韦氏词典引申义为'to aim petty, malicious, or furtive criticisms'（从暗处放冷箭、进行恶意的隐蔽抨击）。语境中的'covertly'、'anonymous leaks'（匿名泄密）与介词'at'均锁定了其暗中射击、从侧翼微词攻讦的核心义项。",
+      "crucify": "干扰项。及物动词，其后直接跟宾语，不可与介词at连用（*crucify at 为严重句法错误）；且其侧重公开、残暴的毁弃性声讨，与'covertly'和'anonymous leaks'构成的隐秘背刺语境逻辑冲突。",
+      "assail": "干扰项。及物动词，意为猛攻、痛斥，后直接接宾语（如assail the strategy），接介词at构成严重语法错误（*assail at）；且assail侧重正面、猛烈的大规模交锋，与'covertly'（暗中）的行径相互矛盾。",
+      "deplore": "干扰项。纯及物动词，意为对某事深表遗憾或道德谴责，必须直接接宾语（如deplore the economic strategy），不能接介词at（*deplore at 为语法错误）；且deplore表达的是庄重悲叹与正式反对，与暗中搞政治动作泄密的行径语体不合。"
+    },
+    "translation": "心怀不满的后座议员们没有开展建设性的政策辩论，反而选择通过匿名泄密对内阁的经济战略暗放冷箭，这既破坏了党内团结，又未能提出任何可行的替代立法方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_13",
+    "group_id": 217,
+    "group_name": "dawdle, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "dawdle",
+    "question": "Unusually mild autumn conditions frequently entice migratory caribou herds to ___ on subarctic feeding grounds, needlessly postponing their southward trek until early blizzards suddenly obstruct the frozen mountain passes.",
+    "options": [
+      "dawdle",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "dawdle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The phrase 'needlessly postponing their southward trek' directly provides the decisive temporal anchor, demanding a verb that specifically denotes wasting time, lingering, or proceeding with undue slowness (dawdle).",
+    "distractor_analysis": {
+      "dawdle": "正确。MW定义为“take one's time; proceed slowly; linger idly”。语境中温和的气候诱使驯鹿在摄食场“流连磨蹭、延宕行程”，后文“needlessly postponing their southward trek”（不必要地推迟南迁）提供了绝对排他的语义闭环。",
+      "waver": "错误。waver 意为“动摇、犹豫、摇摆不定”（vacillate, fluctuate）。驯鹿因水草丰美或气温适宜而在某地停留，属于行为上的“磨蹭拖延”（dawdle），而非对迁徙路线或行动方案产生意志上的“犹豫不决”，且无法与后文由耽搁导致的“延误南迁”形成直接因果逻辑。",
+      "quiver": "错误。quiver 意为“轻微颤抖、抖动”（to shake or move with a slight trembling motion），通常描述肌肉、树叶或光影的物理微颤，置于句中会导致荒谬的语义畸变。",
+      "writhe": "错误。writhe 意为“（因痛苦、挣扎等）翻滚、扭曲身体”（to twist the body about, or squirm, as in pain），属于强负面感情色彩的剧烈病理性或痛苦动作，与前半句“mild autumn conditions entice”（适宜的气候所诱使）的叙述逻辑严重冲突断裂。"
+    },
+    "translation": "异常温和的秋季气候常常诱使迁徙的驯鹿群在亚北极的摄食场上磨蹭逗留，不必要地推迟了它们的南迁之旅，直至早来的暴风雪突然封锁冰冻的山口。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_14",
+    "group_id": 217,
+    "group_name": "dawdle, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "When encountering the torrential glacial river, the lead elk began to ___ between plunging into the lethal currents and retreating toward barren scree slopes, an indecision that imperiled the entire herd.",
+    "options": [
+      "dawdle",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The syntactic construction '___ between [Option A] and [Option B]' paired with the appositive noun phrase 'an indecision' exclusively selects 'waver' in its core sense of vacillating or hesitating between alternatives.",
+    "distractor_analysis": {
+      "waver": "正确。MW定义为“to vacillate irresolutely between choices”（在选项之间举棋不定、摇摆）。句中的句法标记“between plunging into... and retreating toward...”以及同位语“an indecision”（犹豫不决）构成了双重不可撼动的排他性锚点。",
+      "dawdle": "错误。dawdle 意为“磨蹭、闲荡、拖延时间”，不能与“between A and B”搭配来表示在两种危险抉择之间“举棋不定”，且与后文抽象的“indecision”（决断犹豫）无法形成同义呼应。",
+      "quiver": "错误。quiver 强调身体或物体发生高频细微的“战栗、抖动”，无法接介词短语“between doing A and doing B”表达意向抉择，语用与句法均不成立。",
+      "writhe": "错误。writhe 意为“痛苦地翻滚、扭动肢体”，是具体的躯体剧烈扭曲动作，既不具备“between A and B”的二选一语法搭配功能，也不能表达认知与判断层面的“indecision”。"
+    },
+    "translation": "面对汹涌的冰川河流，领头马鹿开始在跳入致命的急流与退回贫瘠的碎石坡之间犹豫摇摆，这种举棋不定让整个鹿群陷入了险境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_15",
+    "group_id": 218,
+    "group_name": "deface, sully, taint, defile",
+    "level": "TEM-8",
+    "target_word": "deface",
+    "question": "During the civil unrest, masked rioters stormed the municipal archives and attempted to ___ the historic limestone facade, chiseling off the carved heraldic emblems and spray-painting revolutionary slogans across the masonry.",
+    "options": [
+      "deface",
+      "sully",
+      "taint",
+      "defile"
+    ],
+    "answer": "deface",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'limestone facade' together with 'chiseling off the carved heraldic emblems' and 'spray-painting revolutionary slogans across the masonry' explicitly demands a verb denoting the physical marring, vandalism, or disfiguring of an external architectural surface.",
+    "distractor_analysis": {
+      "deface": "正确。deface严格特指对建筑物、纪念碑、外墙、画像或文书等物理表面的“损毁外观、乱涂涂损”（mar or spoil the appearance or surface of, especially by writing or carving）。题干中的“historic limestone facade”（石灰石外立面）、“chiseling off... emblems”（凿除纹章）和“spray-painting slogans across the masonry”（在砖石上喷涂标语）是典型的物理毁损与涂鸦行为，构成无可辩驳的排他性线索。",
+      "sully": "错误。sully侧重于使原本纯洁、光亮或完美的事物受到污染，主要用于抽象隐喻层面的“玷污（名誉、清白、威信）”，不可用于指代用工具刻凿破坏建筑砖石外立面的物理损毁行为。",
+      "taint": "错误。taint的核心语义特征是引入腐败、有毒或不良成分造成的“微量感染、污染或腐化”（如食品变质、水源受污染、证据失效），无法与修饰石质建筑表面的物理凿削和涂鸦动作兼容，搭配严重受限。",
+      "defile": "错误。defile带有强烈的宗教神圣性与仪式性色彩，强调对圣地、祭坛、纯洁性或信仰的“亵渎、玷污”（desecrate, violate the sanctity of）。本句为世俗市政档案大楼遭受的刑事蓄意破坏（vandalism），使用defile在语域风格与词义范畴上均不匹配。"
+    },
+    "translation": "在内乱期间，蒙面暴徒冲击了市政档案馆，并企图损毁这座历史悠久的石灰石外立面，他们凿掉了雕刻的纹章图案，并在砖石墙体上喷涂了革命标语。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_16",
+    "group_id": 218,
+    "group_name": "deface, sully, taint, defile",
+    "level": "TEM-8",
+    "target_word": "sully",
+    "question": "The subsequent revelations of financial misconduct did not wholly invalidate the minister's legislative achievements, yet they undeniably served to ___ the luster of an otherwise exemplary political legacy.",
+    "options": [
+      "deface",
+      "sully",
+      "taint",
+      "defile"
+    ],
+    "answer": "sully",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun 'luster' (radiance, sheen, spotless brilliance) forms a classic, unassailable metaphorical collocation with 'sully', which lexicographically signifies the tarnishing, soiling, or dulling of something that was previously immaculate or bright.",
+    "distractor_analysis": {
+      "sully": "正确。sully源于使清洁或发光表面失去光泽（to tarnish or dull something that was pristine or spotless），在学术与高级政论中与“luster”（光泽、光芒、荣誉）构成极高频且地道的抽象隐喻搭配（sully the luster of... 即“使……的光彩蒙尘/黯然失色”），完美契合题干中针对部长政治功绩“瑕不掩瑜但光彩受损”的逻辑让步语境。",
+      "deface": "错误。deface受制于物理表层选择限制（selectional restrictions），宾语必须是具体的外在实体表面（如雕像、墙面、硬币、书籍），不能与抽象的“luster”（光彩、辉煌）相搭配，属于语义范畴错误。",
+      "taint": "错误。taint强调有毒、腐败或败坏成分的渗入和实质性侵蚀（如taint the evidence, taint the reputation with scandal），其隐喻映射机制为“病态腐败”，无法在修辞上作用于表征视觉光辉的“luster”（英语中不存在“taint the luster”这一搭配，构成修辞混杂与搭配断裂）。",
+      "defile": "错误。defile特指对圣物、神殿或贞洁道德的“亵渎”或“极大侮辱”，语义烈度过高，且带有庄严的宗教与道德禁忌色彩，用于描述财务丑闻使政治遗产“光彩受损”属于严重的文体过度（stylistic clash）。"
+    },
+    "translation": "随后曝光的财务违规行为虽未完全否定这位部长的立法成就，但无可否认，它们确实让其原本堪称典范的政治遗产蒙上了一层阴影。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_17",
+    "group_id": 219,
+    "group_name": "deform, furl, flex, bulge",
+    "level": "TEM-8",
+    "target_word": "deform",
+    "question": "Epistemologists observe that deeply entrenched ideological prejudices do not merely color perception; they systematically ___ cognitive models of reality, turning balanced empirical observations into grotesquely distorted caricatures.",
+    "options": [
+      "deform",
+      "furl",
+      "flex",
+      "bulge"
+    ],
+    "answer": "deform",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor lies in 'turning balanced empirical observations into grotesquely distorted caricatures', which semantically demands a transitive verb denoting the qualitative disfigurement, warping, and structural corruption of cognitive frameworks ('deform').",
+    "distractor_analysis": {
+      "deform": "正确。deform 作及物动词意为“使变形、使扭曲、毁坏……的正常形态”。句中“turning balanced empirical observations into grotesquely distorted caricatures（将平衡客观的经验观察转变为怪诞失真的拙劣讽刺）”构成决定性的结果状语锚点，精准要求一个表示“使认知模型发生病态畸变与结构扭曲”的及物动词。",
+      "furl": "错误。该词本义为“卷起、叠拢（帆、旗、伞等）”，引申为“收缩、收敛”。它侧重将原本伸展的物体整齐收紧，既不能与 cognitive models 搭配表示扭曲，也无法承接后文演变成“怪诞畸形（grotesquely distorted）”的语义语境。",
+      "flex": "错误。该词表示“弯曲、屈伸（肌肉/关节）”或引申为“展现（力量/弹性）”，在认知语境中常指思维的适应性灵活性（cognitive flexibility）。代入此处与后文描述的破坏性扭曲和永久性失真完全相悖，造成逻辑色彩的正面反转。",
+      "bulge": "错误。该词主要为不及物动词，意为“凸出、膨胀、鼓起”（如 eyes bulge, wall bulges）；作及物动词时仅极罕见地接物理容器（如 bulge one's pockets）。此处直接带抽象认知模型作宾语属于严重的句法与搭配割裂，且不具备“畸变扭曲”的语义特征。"
+    },
+    "translation": "认识论学者指出，根深蒂固的意识形态偏见不仅会给感知蒙上主观色彩，还会系统性地扭曲人们对现实的认知模型，将原本平衡客观的经验观察演变成怪诞失真的拙劣讽刺。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_18",
+    "group_id": 219,
+    "group_name": "deform, furl, flex, bulge",
+    "level": "TEM-8",
+    "target_word": "furl",
+    "question": "Confronted by relentless ideological censorship, the once-daring novelist was forced to ___ the wings of his creative imagination, circumscribing his published work to innocuous allegories and conventional homilies.",
+    "options": [
+      "deform",
+      "furl",
+      "flex",
+      "bulge"
+    ],
+    "answer": "furl",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The subsequent participle clause 'circumscribing his published work to innocuous allegories' decisively dictates an act of retreat and curtailment, perfectly completed by the metaphorical idiom 'furl the wings of (one's imagination)'.",
+    "distractor_analysis": {
+      "furl": "正确。furl 本义为“收拢、卷起（帆或旗帜）”，在此处用于经典隐喻搭配“furl the wings of...（收拢翅膀）”，比喻“收敛锋芒、停止飞翔、退缩自保”。后半句“circumscribing his published work to innocuous allegories（将出版作品严格限制于人畜无害的寓言）”提供了决定性的收束与限制语境，与 furl 的内敛收拢语义天衣无缝。",
+      "flex": "错误。强干扰项但逻辑反向。“flex one's wings/muscles”是英语固定习语，意为“舒展翅膀以试飞、展示才能、跃跃欲试”，表达主动进取或蓄势待发。代入面临政治高压被迫自我阉割的语境中，会产生严重的逻辑悖反与语义对立。",
+      "deform": "错误。deform 强调外力导致的物理残缺、畸变或损毁。小说家在高压下是主动或被迫采取策略性退避与收敛，而非使自己的“想象力之翼”发生病态畸变（deform the wings of imagination 搭配极不自然且偏离文意）。",
+      "bulge": "错误。bulge 绝大多数情况下为不及物动词，意为“膨胀、凸出”；在此处既无法直接接 the wings 作及物宾语（句法不通），也与语境要求的退避、收敛方向（contracting/folding）截然相反。"
+    },
+    "translation": "面对无休止的意识形态审查，这位曾经敢作敢为的小说家被迫收敛起其创造性想象力的翅膀，将出版作品严格局限于人畜无害的寓言和陈词滥调的说教之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_19",
+    "group_id": 220,
+    "group_name": "din, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "din",
+    "question": "Although ideological commissars attempted to ___ orthodox economic dogmas into the impressionable minds of university undergraduates, dissenting macroeconomic theories continued to gain traction within clandestine seminars.",
+    "options": [
+      "din",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "din",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive cognitive construction 'to ___ [orthodox dogmas] into [the minds of...]', where only 'din' lexicographically and idiomatically denotes instilling or hammering ideas into someone through wearying, clamorous repetition.",
+    "distractor_analysis": {
+      "din": "正确。din作为及物动词时，其核心认知引申义为“通过反复喧嚷、喋喋不休地向某人灌输/强行灌输（思想、观念等）”，在句法上严格且经典地搭配介词into（即din something into someone's head/mind），完全符合语境中政治指导员向大学生强行灌输正统教条的语义与句法语义场。",
+      "rap": "错误。rap作动词时意为“敲击”、“严厉斥责（rap somebody for something）”或“厉声说出（rap out）”，无法与抽象宾语（dogmas）及介词短语into the minds搭配构成“灌输”之意，产生搭配断裂。",
+      "thud": "错误。thud为不及物动词，主要指“砰的一声落下或击中”，侧重沉闷低缓的撞击声，无及物使役用法，更不能带抽象意识概念进入人脑，语法与语义均不成立。",
+      "drone": "错误。drone通常作不及物动词，表示“嗡嗡作响”或“单调低沉地唠叨（drone on about）”；即便偶作及物动词指以单调的声音唱出/说出，亦无“drone something into one's mind”以表达强行灌输思想的认知引申搭配。"
+    },
+    "translation": "尽管意识形态指导员企图将正统的经济学教条强行灌输进这群易受影响的大学生的头脑中，但持异见的宏观经济理论仍在地下研讨会中持续获得支持。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b21_20",
+    "group_id": 220,
+    "group_name": "din, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "In its scathing annual audit, the parliamentary committee chose to ___ the telecommunications regulator for displaying regulatory inertia and failing to curtail monopolistic pricing strategies across regional markets.",
+    "options": [
+      "din",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "High-register journalistic/evaluative transitive frame 'to ___ [an official/body] for [negligence/failure]', uniquely satisfied by 'rap' (meaning to sharply rebuke or criticize).",
+    "distractor_analysis": {
+      "rap": "正确。rap在严肃政经新闻（如《经济学人》、路透社及学术评论）中常作为及物动词使用，意为“严厉斥责、严加申斥”（to rebuke or criticize sharply），其标准认知评价结构为rap someone/an organization for (doing) something，精准对应议会委员会对监管机构不作为的严厉问责。",
+      "din": "错误。din作及物动词时主要表示“充斥嘈杂声”或“反复灌输（din into）”，不能后接“被斥责的对象 + for + 原因”，句法结构严重不匹配。",
+      "thud": "错误。thud为纯物理声响动词（砰然击打/跌落），且基本为不及物动词，完全不具备“公开斥责或问责”的话语评价功能。",
+      "drone": "错误。drone表示“发出单调低鸣”或“单调唠叨”，通常不及物（drone on about），无“因某事申斥某人（drone sb. for sth.）”的及物句法与词义。"
+    },
+    "translation": "在一份措辞严厉的年度审计报告中，议会委员会对电信监管机构提出了严厉斥责，痛批其监管不力且未能在各区域市场遏制垄断性定价策略。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

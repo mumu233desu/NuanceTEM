@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b09_01",
+    "group_id": 91,
+    "group_name": "hamstring, madden, badger, pester",
+    "level": "TEM-8",
+    "target_word": "hamstring",
+    "question": "Severe cognitive biases and institutional groupthink threaten to ___ the strategic task force's analytical capabilities, ultimately rendering the entire policy framework powerless against unforeseen geopolitical crises.",
+    "options": [
+      "hamstring",
+      "madden",
+      "badger",
+      "pester"
+    ],
+    "answer": "hamstring",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object is the inanimate functional capacity 'the strategic task force's analytical capabilities', followed by the decisive resultative clause 'rendering the entire policy framework powerless'. This directly echoes Merriam-Webster's definition of hamstring ('make ineffective or powerless'), while the other three verbs strictly require sentient human objects or involve emotional/nagging harassment incompatible with systemic capability.",
+    "distractor_analysis": {
+      "hamstring": "正确。意为“使残废；使失去效能，使束手无策”（Merriam-Webster: make ineffective or powerless）。句中主语为认知层面的“Severe cognitive biases and institutional groupthink”，宾语为机构功能层面的“analytical capabilities”，后文结果分词短语“rendering the entire policy framework powerless”形成了精准的语义同义复指，完美契合学术政经语域。",
+      "madden": "错误。意为“使发狂，激怒”（to make mad, enrage）。其及物动词用法要求支配具有主观情绪感知能力的生命体，无法支配无生命的抽象功能名词“analytical capabilities”（analytical capabilities 不可能被“激怒”或“逼疯”），存在范畴搭配谬误。",
+      "badger": "错误。意为“反复纠缠，纠缠不休地质问或要求”（to harass or urge persistently with requests or demands）。其语义重心在于通过连续不断的言语或要求施压，受事通常为具体的人，在此语境下无法作用于分析能力，句意不通。",
+      "pester": "错误。意为“使烦恼，不断打扰”（to harass with petty irritations or requests）。多指在日常人际互动中以琐碎之事造成烦扰，语域明显偏于微观琐屑，既不能与宏观分析能力搭配，亦无法表达“致使系统机能彻底瘫痪”的深层语义。"
+    },
+    "translation": "严重的认知偏差和体制内的群体思维势必会削弱该战略专班的分析能力，最终导致整个政策框架在不可预见的突发地缘政治危机面前形同虚设。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_02",
+    "group_id": 91,
+    "group_name": "hamstring, madden, badger, pester",
+    "level": "TEM-8",
+    "target_word": "madden",
+    "question": "Far from placating the crowd, the mayor’s patronizing dismissal served only to ___ the gathered residents, provoking an incandescent fury that quickly overwhelmed the municipal security forces.",
+    "options": [
+      "hamstring",
+      "madden",
+      "badger",
+      "pester"
+    ],
+    "answer": "madden",
+    "primary_mechanism": "MECH_DISCOURSE_POLARITY",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The discourse marker 'Far from placating...' establishes a strict antonymous polarity requiring a verb meaning to enrage or infuriate (the direct opposite of mollifying/appeasing). Coupled with the explicit semantic unpacker 'provoking an incandescent fury', madden (MW: 'to enrage; to make mad') is the only option that satisfies both the affective polarity and the extreme intensity of the reaction.",
+    "distractor_analysis": {
+      "madden": "正确。意为“激怒，使狂怒”（Merriam-Webster: to enrage; to make mad: drive insane）。句首由“Far from placating the crowd”（远未能抚慰民众）确立了反向对立的语篇逻辑，要求空格填入表示“平息/安抚（placate）”之绝对反义词（即“激怒、使发狂”）；后文伴随状语“provoking an incandescent fury”（激起白炽般的狂怒）构成决定性语义锚点，与 madden 形成精准的同义复现与语域共振。",
+      "hamstring": "错误。意为“使无能为力，削弱……的效能”（to make ineffective or powerless: cripple）。首先，hamstring 侧重于机能瘫痪或行动受制，并非情感维度上“安抚（placate）”的反义词；其次，后文明确指出民众爆发狂怒并“迅速压制了市政安保力量”（quickly overwhelmed the municipal security forces），展现出极其强大的破坏性行动力，若填入表示“丧失行动力/陷入瘫痪”的 hamstring，将产生严重的语义逻辑断裂与自相矛盾。",
+      "badger": "错误。意为“纠缠不休，反复盘问/骚扰”（to harass or annoy persistently; nag）。badger 必须基于施动者发出的持续性、高频次言语纠缠或索求（如反复质问、强行游说），而本句主语为单次发出的轻蔑驳斥（the mayor's patronizing dismissal），动相（aktionsart）上无法发出 badger 所要求的反复纠缠动作；且该词语义仅停留在令人厌烦的骚扰层面，无法与引发暴动级“白炽狂怒（incandescent fury）”的情感烈度相匹配。",
+      "pester": "错误。意为“以琐碎小事烦扰”（to harass with petty irritations: annoy）。pester 属于低烈度动词，专指琐碎日常事务带来的轻微烦扰；用于形容重大的政民对抗危机及引发“狂怒（incandescent fury）”的高危语境，存在严重的语义强度不足（intensity mismatch）与文体语域断层。"
+    },
+    "translation": "市长居高临下的轻蔑驳斥远未能安抚民众，反而只是激怒了聚集的居民，引发了一场白炽般的狂怒，迅速压制了市政安保力量。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_03",
+    "group_id": 92,
+    "group_name": "hemorrhage, spew, abort, fester",
+    "level": "TEM-8",
+    "target_word": "hemorrhage",
+    "question": "Following the abrupt withdrawal of state subsidies, the heavily indebted logistics conglomerate continued to ___ liquid capital and top-tier engineering talent, severely undermining its long-term viability.",
+    "options": [
+      "hemorrhage",
+      "spew",
+      "abort",
+      "fester"
+    ],
+    "answer": "hemorrhage",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后接双重直接宾语'liquid capital and top-tier engineering talent'，要求动词具备及物性并形成表述'大量、不可控且持续流失（宝贵资产/核心人力）'的转喻搭配；此语境强力排他，直接否定不及物动词fester，以及语义方向相悖的spew和abort。",
+    "distractor_analysis": {
+      "hemorrhage": "正确。原指大出血，在学术政经及高阶报刊语境中极常转义用作及物动词，指机构或系统“急剧且不可挽回地流失（巨额资金、技术人才、关键资源）”，与句中'liquid capital and top-tier engineering talent'构成严密的经济学隐喻搭配。",
+      "spew": "错误。及物动词，常指“喷涌、喷射出大量烟尘、恶毒言语或呕吐物”，其动作方向为向外强烈喷发负面物质，无法与流失并损耗'流动资金与工程人才'形成合理搭配。",
+      "abort": "错误。及物动词，指“使（任务、计划、项目）中途夭折、被迫终止”，后置宾语一般为进程性事件（如abort a mission/project/launch），无法支配资源实体名词capital与talent。",
+      "fester": "错误。主要用作不及物动词（如a wound festers或resentment festers），意为“溃烂、恶化、怨恨郁积”，在此处缺乏直接带及物宾语的句法赋元能力，且侧重内部缓慢恶化而非外部资产流失。"
+    },
+    "translation": "在政府补贴被突然取消后，这家负债累累的物流企业集团持续大量流失流动资金和顶尖工程人才，严重损害了其长期生存能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_04",
+    "group_id": 92,
+    "group_name": "hemorrhage, spew, abort, fester",
+    "level": "TEM-8",
+    "target_word": "spew",
+    "question": "Exploiting unregulated algorithmic feeds, the radical demagogue utilized daily broadcasts to ___ venomous conspiracies and sectarian vitriol, systematically radicalizing disaffected voters before the contentious election.",
+    "options": [
+      "hemorrhage",
+      "spew",
+      "abort",
+      "fester"
+    ],
+    "answer": "spew",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心搭配宾语为'venomous conspiracies and sectarian vitriol'（恶毒的阴谋论与宗派谩骂），后接结果分词短语'systematically radicalizing...'，要求填入一个能够支配言辞类负面实体且表达'大肆散布、倾泻喷吐'的及物动词，绝对排斥不及物动词fester以及语义相反的abort与hemorrhage。",
+    "distractor_analysis": {
+      "spew": "正确。转义用作及物动词，指大肆、源源不断地“喷涌出、倾泻出（辱骂、谎言、毒汁般的言论）”，与后文'venomous conspiracies and sectarian vitriol'形成政治评论语境中的地道修辞搭配。",
+      "hemorrhage": "错误。引申义指“被动、快速且严重地丧失资源（如金钱、选票、员工）”，不可用于主动对外倾泻或散布言论，语义动作方向与逻辑完全颠倒。",
+      "abort": "错误。意为“终止、打断（行动或计划）”；若填入则表示“叫停阴谋与谩骂”，与后文'systematically radicalizing disaffected voters'（系统性激化选民）所体现的持续煽动逻辑产生严重断裂与矛盾。",
+      "fester": "错误。语法与语义双重不符。该词主要为不及物动词，不能带直接宾语'conspiracies and vitriol'；且其词义为“溃烂、积怨在内悄然滋生”，强调闭合状态下的隐性恶化，无法体现主动向外广播散布的传播属性。"
+    },
+    "translation": "利用缺乏监管的算法推送，这位激进的煽动家通过每日广播大肆喷吐恶毒的阴谋论和宗派谩骂，在充满争议的大选前系统性地激化了心怀不满的选民。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_05",
+    "group_id": 93,
+    "group_name": "hiss, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hiss",
+    "question": "When the controversial envoy rose to defend the unilateral treaty, several cynical delegates in the gallery did not merely scoff; they began to ___ their venomous disapproval in a chilling, sibilant chorus of collective contempt.",
+    "options": [
+      "hiss",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hiss",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'venomous disapproval' directly collocates transitively with 'hiss' (MW: 'to utter or express with a hiss: hissed his disapproval'), while 'in a chilling, sibilant chorus' uniquely anchors the phonological /s/ sibilance inherent exclusively to 'hiss'.",
+    "distractor_analysis": {
+      "hiss": "正确。MW释义为“to utter or express with a hiss（以咝咝声发出，嘘声表达）”，及物动词常与disapproval搭配。句中“sibilant chorus（齿擦音/咝咝声的合唱）”与“venomous disapproval（恶毒的反对）”构成语音学与语义色彩的双重决定性锚点，精准契合hiss所特有的阴冷、恶毒敌意与声音特征。",
+      "hoot": "错误。hoot指猫头鹰啼叫或发出喧闹的叫嚣、哄笑以示嘲弄（to shout or laugh derisively），声音宏大而开阔，带有嘈杂、戏谑的语体色彩，与句中“sibilant（齿擦音的、咝咝作响的）”的声音特质产生不可调和的语音学冲突，亦无法体现“chilling（令人不寒而栗的）”阴冷敌意。",
+      "squall": "错误。squall原指突发狂风，引申为（尤指婴儿）尖叫号哭或刺耳地嚎叫（to cry out or scream violently and discordantly），通常表达痛苦、惊恐或失控的号泣，无法与抽象名词disapproval构成及物动宾搭配（*squall disapproval不合英语用法），与语境严重断裂。",
+      "gobble": "错误。gobble指贪婪吞食（狼吞虎咽）或火鸡发出咕哝声、含混急促地说话，既不能支配disapproval表达“发出反对之声”，其吞咽与咯咯叫的意象也与政治集会中冷酷恶毒的嘘声语境毫不相容。"
+    },
+    "translation": "当那位备受争议的特使站起身为单边条约辩护时，旁听席上的几位愤世嫉俗的代表并不仅是嗤之以鼻；他们开始在令人胆寒的、咝咝作响的集体鄙夷声中，发出饱含恶意的反对。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_06",
+    "group_id": 93,
+    "group_name": "hiss, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Confronted with the theorist's preposterous assertion that empirical data were entirely redundant, the assembled epistemologists did not engage in civil discourse, but proceeded to ___ with derisive laughter at such intellectual insolvency.",
+    "options": [
+      "hiss",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The established idiomatic collocation 'hoot with laughter' (signifying loud, derisive amusement at absurdity) is decisively activated by 'with derisive laughter at such intellectual insolvency', precluding the sibilant, weeping, or guttural connotations of the other three options.",
+    "distractor_analysis": {
+      "hoot": "正确。MW释义为“to shout or laugh usually derisively（嘲弄性地大声喊叫或哄笑）”，在英语中拥有高度固化的典雅习语搭配“hoot with laughter（发出嘲弄的哄笑/大笑）”。句中“with derisive laughter at such intellectual insolvency”为决定性搭配锚点，完美体现学者们对极度荒谬论断的喧闹讥嘲与不屑。",
+      "hiss": "错误。hiss表示发咝咝声表达愤怒、反感或恶意（如hiss with rage/pain），语体风格阴郁压抑，英语中不存在*hiss with laughter的搭配，在语义逻辑与搭配习惯上均属严重断裂。",
+      "squall": "错误。squall表示刺耳尖叫、嚎啕大哭，专用于表述受惊、极度痛苦或婴儿哭闹的情状，与表达批判性嘲弄与讥笑的“derisive laughter”在情感极性（polarity）和语境上完全排斥。",
+      "gobble": "错误。gobble作不及物动词时特指雄火鸡发出的咯咯喉音，或及物动词表示贪婪吞咽，无法与介词短语“with derisive laughter”形成合法搭配，语义荒谬。"
+    },
+    "translation": "面对那位理论家关于经验数据完全多余的荒谬论断，在座的认识论学者们并未展开理性的探讨，反而在这种学术破产面前爆发出一阵嘲弄的哄笑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_07",
+    "group_id": 94,
+    "group_name": "hobble, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "hobble",
+    "question": "The editorial argued that institutional insistence on doctrinal conformity would ultimately ___ intellectual inquiry, depriving young researchers of the cognitive freedom necessary to question prevailing scientific paradigms.",
+    "options": [
+      "hobble",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "hobble",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接支配抽象名词短语宾语“intellectual inquiry”（知识探究/学术探寻），句法上要求填入一个能够表达“束缚、阻碍、妨碍……的发展”的及物动词（transitive verb）。在四个选项中，仅有 hobble 具备及物动词用法且构成高级学术社论中的核心搭配（hobble intellectual inquiry/economic growth，阻碍知识探究/经济增长）；其余三词（wade, slink, slouch）在标准英语中均为不及物动词（intransitive verbs），无法直接加宾语，在句法结构与语义逻辑上均被严格排除。",
+    "distractor_analysis": {
+      "hobble": "正确。作及物动词时意为“妨碍、束缚、阻碍……的行动或发展”（to hamper the action or progress of; impede），与宾语“intellectual inquiry”搭配，精准传达出教条主义对学术探索自由的钳制与伤害，语法形态与学术语域完美契合。",
+      "wade": "错误。作动词时通常为不及物动词，原义为“蹚水”，引申搭配 through 表示“费力通读/处理繁杂材料”，无法直接接抽象宾语“intellectual inquiry”，存在严重的及物性语法缺陷。",
+      "slink": "错误。不及物动词，意为“潜行、溜走、羞怯或恐惧地退却”，侧重鬼祟或退缩的物理空间位移，不具备及物动词用法，无法接宾语。",
+      "slouch": "错误。不及物动词，意为“没精打采地坐或立、耷拉着身子”，侧重懒散或不当的身体姿态，不能作及物动词接抽象认知宾语，语境完全不成立。"
+    },
+    "translation": "社论认为，学术机构若一味坚持教条式的一致性，终将束缚知识探究，剥夺青年学者质疑既有科学范式所必需的认知自由。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_08",
+    "group_id": 94,
+    "group_name": "hobble, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before formulating their comprehensive critique, the historians had to ___ through voluminous archival manuscripts and fragmented records, painstakingly distinguishing authentic primary testimonies from politically motivated revisions.",
+    "options": [
+      "hobble",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "本题的决定性排他锚点为固定学术认知搭配“___ through voluminous archival manuscripts and fragmented records”（费力查阅、艰难通读海量档案手稿与残卷）。短语动词“wade through”为英语专有固定习语，专指耗费大量精力艰难、缓慢地阅读或处理繁冗庞杂的文献、报告或资料。而 hobble through 仅指因肢体伤病蹒跚穿过或勉强度过难关；slink through 强调鬼祟潜行穿过物理空间；slouch through 则指无精打采、懒散敷衍地混过某事，其消极懒散色彩与后文“painstakingly distinguishing...”（煞费苦心地辨别）所体现的高强度严谨治学语境发生严重语义冲突。",
+    "distractor_analysis": {
+      "wade": "正确。“wade through something”为固定高频习语，意为“费力通读、极其艰难地处理（海量繁杂文献、报告等）”（to read or work through with difficulty or labor），与“voluminous archival manuscripts”形成唯一地道的学术认知搭配，完美衔接后文潜心考辨的语境。",
+      "hobble": "错误。不及物用法 hobble through 意为“蹒跚跛行穿过”或“勉强熬过（困境）”，无法用于指代耐心细致地“研读、审阅庞大文献资料”，语义割裂。",
+      "slink": "错误。“slink through”表示“鬼鬼祟祟、心怀畏缩或羞愧地穿过（阴影、巷道等物理空间）”，完全脱离文献检索与认知考辨的学术研究场域。",
+      "slouch": "错误。“slouch through”表示“没精打采地走过”或“懒散敷衍地应付某事”，其懒散怠惰的语义色彩与分词短语“painstakingly distinguishing...”（煞费苦心地辨别）所展现的高度严谨、一丝不苟的学术态度产生直接的逻辑与褒贬色彩对立。"
+    },
+    "translation": "在构建系统性的批判论据之前，历史学家们不得不艰难地查阅海量的档案手稿与零散残卷，煞费苦心地将真实的原始证言与出于政治动机的篡改区分开来。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_09",
+    "group_id": 95,
+    "group_name": "honeycomb, foray, immerse, pervade",
+    "level": "TEM-8",
+    "target_word": "honeycomb",
+    "question": "Rigorous epistemological scrutiny revealed how dogmatic preconceptions would gradually ___ the philosopher's conceptual edifice with hidden fallacies, undermining its internal structural integrity until the entire theoretical model collapsed.",
+    "options": [
+      "honeycomb",
+      "foray",
+      "immerse",
+      "pervade"
+    ],
+    "answer": "honeycomb",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动词后接宾语结构及介词短语 'the philosopher's conceptual edifice with hidden fallacies'，且后文指出 'undermining its internal structural integrity'（削弱其内部结构完整性）。在四个选项中，仅及物动词 honeycomb 具备 'honeycomb sth with sth'（在……中形成蜂窝状孔洞/使千疮百孔、彻底渗透并腐蚀）的及物使役与结构搭配功能。",
+    "distractor_analysis": {
+      "honeycomb": "正确。honeycomb 作及物动词时，韦氏词典定义为 'to cause to resemble a honeycomb : riddle with cavities' 以及 'to penetrate thoroughly and into every part'。常用于比喻义，与 edifice（思想大厦/体系）、organization 等搭配，构成 'honeycomb A with B'（用B使A内部千疮百孔、在内部形成孔穴破坏其稳固性），与后文的 'undermining its internal structural integrity' 形成严密的逻辑呼应。",
+      "foray": "错误。foray 作为动词主要为不及物动词（intransitive verb），通常与介词 into 连用（foray into），表示“涉足新领域”或“突袭”，无法直接接宾语 'the philosopher's conceptual edifice'，更不能与 'with hidden fallacies' 搭配，句法结构完全不符。",
+      "immerse": "错误。immerse 为及物动词，意为“使浸入、使沉浸”，其标准介词搭配为 in（如 immerse oneself in... / immerse sth in sth），无法与 with 搭配构成 *immerse sth with sth；且语意上表示沉浸于某种环境，不能表达用谬误使理论大厦“内部布满孔隙与破绽”的侵蚀隐喻。",
+      "pervade": "错误。pervade 意为“弥漫、遍及、渗透”，是单纯表示状态扩散的非使役性及物动词（如 fallacies pervaded the edifice），其主语通常是弥漫的气味、情绪或观念，其后直接跟受影响的处所或系统作为宾语，绝不能用于 '*subject + pervade + object + with + noun' 的使役工具格句式中，存在严重的句法与搭配破裂。"
+    },
+    "translation": "严谨的认识论审视揭示出，教条主义的偏见是如何暗中逐渐使这位哲学家的概念大厦布满隐秘的谬误漏洞，进而削弱其内部结构的完整性，直至整个理论模型彻底坍塌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_10",
+    "group_id": 95,
+    "group_name": "honeycomb, foray, immerse, pervade",
+    "level": "TEM-8",
+    "target_word": "foray",
+    "question": "Recognizing the epistemic hazards of overspecialization, the analytical philosopher resolved to ___ into empirical neuroscience, hoping that preliminary experimental data would enrich his conceptual taxonomy of human consciousness.",
+    "options": [
+      "honeycomb",
+      "foray",
+      "immerse",
+      "pervade"
+    ],
+    "answer": "foray",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟介词短语 'into empirical neuroscience'，且语境指哲学家意识到过度专业化的危害后，决定跨学科“涉足/初涉”实证神经科学这一全新未知领域。在四个选项中，仅有 foray 是标准不及物动词且固定与介词 into 搭配（foray into），表达跨界尝试或短暂涉足。",
+    "distractor_analysis": {
+      "foray": "正确。foray 作不及物动词时，韦氏词典定义为 'to venture into a new or unfamiliar field or activity'，学术语境中高频固定搭配为 foray into（涉足/跨界进入新学术领域或领域尝试），与句中的 'into empirical neuroscience' 及跨学科探索语境严丝合缝。",
+      "honeycomb": "错误。honeycomb 是及物动词，意为“使布满孔洞、彻底渗透腐蚀”，后须直接跟宾语，不能与介词 into 构成不及物动词搭配（不存在 *honeycomb into... 的用法），句法严重受阻。",
+      "immerse": "错误。immerse 表示“沉浸”，其标准用法为及物动词后接反身代词或直接宾语并搭配介词 in（如 immerse oneself in neuroscience），不能直接作为不及物动词连用 into（*immerse into 在严谨学术英语中属于搭配语病）。",
+      "pervade": "错误。pervade 为纯及物动词，意为“弥漫于、充斥”（如 an influence pervades neuroscience），必须直接接宾语，绝不可后接介词 into（*pervade into 属严重语法错误），且语义逻辑上主体是哲学家，人无法“弥漫渗透进”一个学科。"
+    },
+    "translation": "意识到过度专业化的认识论风险后，这位分析哲学家决意涉足实证神经科学领域，期望初步的实验数据能够丰富他对人类意识的概念分类体系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_11",
+    "group_id": 96,
+    "group_name": "hue, tint, imbue, tinge",
+    "level": "TEM-8",
+    "target_word": "hue",
+    "question": "During the protracted constitutional convention, legal scholars and parliamentarians of every ideological ___ coalesced to draft the emergency charter, warning that unchecked factional polarization would inevitably undermine the nascent republic's institutional stability.",
+    "options": [
+      "hue",
+      "tint",
+      "imbue",
+      "tinge"
+    ],
+    "answer": "hue",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE_LAW",
+    "anchor_clue": "句中“parliamentarians of every ideological ___ coalesced to draft...”构成了决定性的句法与高阶搭配双重锚点：首先，在句法层面，限定词 every 与前置修饰语 ideological 严格要求空格处填入单数可数名词，这在词性上直接排除了纯及物动词 imbue；其次，在修辞与搭配层面，“of every hue”（或“of every political/ideological hue”）是高级政论与学术英语中高度固化的经典习语，韦氏词典特设义项将其定义为“overall character or appearance to the mind : COMPLEXION, ASPECT <opinions of every hue>”，专门指代“具有各种政治面貌、派别或思想倾向的（人群）”；名词 tint（浅色相）与 tinge（少许微量痕迹）在英语中均无此种借代派系阵营的固定搭配用法（*of every ideological tint/tinge 纯属臆造）。因此，只有 hue 能够满足句法与地道学术搭配的双重严格要求。",
+    "distractor_analysis": {
+      "hue": "正确。hue 用作名词时，在正式政论与学术语域中可引申表示“（人或观点的）性质、政治面貌、派别”（complexion, aspect, or political persuasion）。“scholars/parliamentarians of every ideological hue”是各大权威词典（M-W, OED, Collins）共同著录的经典高阶固定搭配，精准传达“各个派别、不同思想立场的议员与学者”，且与后文“factional polarization（派系极化）”形成严密的逻辑呼应。",
+      "tint": "错误。搭配断裂与语义不符。tint 作名词主要指“淡色、浅色相”（尤指在色彩中加入白色），引申义指表面的色彩修饰或微弱的色彩倾向。在现代英语中，不存在“people of every tint”用来指称政治立场或意识形态派别的用法，代入后会导致严重的搭配生硬与语域错位。",
+      "imbue": "错误。词性冲突导致句法瘫痪。imbue 在现代英语中是纯粹的及物动词（vt.，意为“使充满、灌输”，常用于 imbue A with B 结构）。在本句中，空格受限定词 every 及形容词 ideological 的修饰，必须充当介词 of 之后的宾语名词，填入动词 imbue 会直接造成致命的词性语法错误。",
+      "tinge": "错误。搭配违背与概念范畴不适。tinge 作名词时的核心语义为“少许、一丝轻微痕迹”（a slight trace or smack），其典型构型为单数搭配“a tinge of + 抽象名词”（如 a tinge of melancholy）。tinge 既不能被 every 计数修饰以表达离散的思想派别阵营，也根本不存在“of every ideological tinge”这一搭配用法。"
+    },
+    "translation": "在旷日持久的制宪会议期间，各种意识形态派别的法学学者和国会议员团结协作，共同起草了紧急宪章，并警告称，若不遏制派系极化，必将削弱这个初生共和国的制度根基。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_12",
+    "group_id": 96,
+    "group_name": "hue, tint, imbue, tinge",
+    "level": "TEM-8",
+    "target_word": "tint",
+    "question": "Although the ethnographer strived for detachment, subtle ideological preconceptions inevitably began to ___ the analytical lens through which she interpreted the community's complex kinship structures and sacred ceremonies.",
+    "options": [
+      "hue",
+      "tint",
+      "imbue",
+      "tinge"
+    ],
+    "answer": "tint",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后宾语“the analytical lens（分析视角/认知透镜）”是排他性极强的光学-认知隐喻锚点。在认识论与学术批判语域中，“tint the lens / tint the glasses（给透镜着色/蒙上滤镜）”是英语中指代先入之见或偏见扭曲观察视角的经典固定认知隐喻搭配；英语中绝无“hue the lens”、“tinge the lens”或“imbue the lens”的用法，发生严重搭配断裂。",
+    "distractor_analysis": {
+      "tint": "正确。tint 源自光学中通过加色使镜片具有滤光特性的工艺（如 tinted glasses），引申至学术认知领域，与“the analytical lens / interpretive lens”构成经典固化的隐喻搭配，意为“使分析的视角带上主观偏见或特定滤镜色彩”，精准契合主语“subtle ideological preconceptions”的修饰属性与后文的解释机制。",
+      "hue": "错误。搭配断裂。hue 作及物动词指整体性地投射色调或笼罩视野（如 hue the horizon / hue the mind），无法与“lens（光学透镜）”这一具体认知隐喻载体搭配，英语中不存在“hue the lens”的搭配用法。",
+      "imbue": "错误。范畴不契合且句法缺失。imbue（渗透、灌输）的施事通常是崇高品质、道德精神或深层情感，其受事只能是具有承载意识或精神特质的实体（如 soul, mind, masterpiece），且必须搭配介词 with（imbue sth with sth）；物理或隐喻层面的光学工具（lens）不能被“imbue”。",
+      "tinge": "错误。搭配不当。tinge 强调在某种特质中添加“一丝淡微的痕迹/风味”，其宾语通常为抽象的情感、言辞或氛围（如 tinge his remarks with irony），不能与具有滤光透镜隐喻的“the analytical lens”搭配，违背英语习惯搭配法则。"
+    },
+    "translation": "尽管这位民族志学者竭力保持超然客观，但微妙的意识形态先入之见仍不可避免地开始给她的分析视角蒙上一层滤镜，进而影响了她对该群体复杂的亲属结构与神圣仪式的阐释。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_13",
+    "group_id": 97,
+    "group_name": "huff, snort, snuff, snivel",
+    "level": "TEM-8",
+    "target_word": "huff",
+    "question": "Although conservative backbenchers continue to ___ and puff about the perceived erosion of parliamentary sovereignty, entrenched administrative momentum guarantees that the bilateral treaty will be ratified without substantial amendment.",
+    "options": [
+      "huff",
+      "snort",
+      "snuff",
+      "snivel"
+    ],
+    "answer": "huff",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性习语搭配（idiomatic irreversible binomial）'___ and puff about...'。在权威政论语境中，'huff and puff'是极高频且不可分割的双动词固定搭配，意为'大动肝火却无计可施地虚张声势'。其余三个选项均无法与'and puff'形成合规搭配。",
+    "distractor_analysis": {
+      "huff": "正确。huff and puff 是英语中经典的不可逆成对连用动词（binomial pair），在政治与学术评论中专指某方对于既定政策或制度变动表达气势汹汹却徒劳无功的愤怒与抗议，完美契合后文'条约势必顺利获批'的行文逻辑。",
+      "snort": "错误。snort 意为'喷鼻息以示轻蔑/嗤之以鼻'，英语中不存在 *snort and puff* 这一成对习语，填入此处会造成严重的固定搭配断裂。",
+      "snuff": "错误。snuff 主要意为'熄灭（常与out连用）'或'吸闻（鼻烟）'，在词义和句法上均无法与 and puff 构成搭配，语义完全不通。",
+      "snivel": "错误。snivel 意为'抽泣、委屈抽噎、低三下四地抱怨'，侧重软弱求饶与自怜自艾的负面姿态，既不与 and puff 搭配，也完全脱离了议员在议会辩论中据理发难的政治话语场。"
+    },
+    "translation": "尽管保守派后座议员仍在就议会主权受损一事大发雷霆、虚张声势，但根深蒂固的行政惯性确保了该双边条约将在不经重大修改的情况下顺利获批。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_14",
+    "group_id": 97,
+    "group_name": "huff, snort, snuff, snivel",
+    "level": "TEM-8",
+    "target_word": "snort",
+    "question": "When the speculative theorist argued that automated algorithmic systems could entirely displace human judicial discretion, senior appellate judges could only ___ in derision at such an untenable proposition.",
+    "options": [
+      "huff",
+      "snort",
+      "snuff",
+      "snivel"
+    ],
+    "answer": "snort",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "强搭配动介结构'___ in derision at...'。'snort in derision at'为高阶学术文本中表示'因感到荒诞可笑而报以轻蔑嗤笑'的专属搭配。其余选项在介词组搭配或认知情感极性（derision 表达傲慢的鄙视）上均无法成立。",
+    "distractor_analysis": {
+      "snort": "正确。snort in derision at 为高度固化的习惯表达，意为'对……报以嗤之以鼻的冷笑'，生动且准确地刻画了资深法官面对荒谬学术假设时展现出的居高临下的鄙夷与嘲弄姿态。",
+      "huff": "错误。huff 侧重表达因自身受到冒犯或自尊受损而产生的'赌气、发牢骚、傲慢动怒'（如 in a huff 或 huff with indignation），不与 in derision（嘲弄、取笑）搭配，情感指向偏差。",
+      "snuff": "错误。snuff 作动词意为'熄灭、掐灭'或'用鼻吸入'，与抽象态度名词 derision 无法形成任何合理的语义或语法搭配。",
+      "snivel": "错误。snivel 意为'抽抽搭搭地哭、怨天尤人地诉苦'，传达的是懦弱、哀怜的受害者情感（whining weakness），与 derision 所承载的'居高临下的蔑视与嘲讽'存在根本的情感极性（polarity）冲突。"
+    },
+    "translation": "当那位空想理论家声称自动化算法系统可以完全取代人类司法自由裁量权时，资深上诉法官们对这一站不住脚的主张唯有报以嗤之以鼻的冷笑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_15",
+    "group_id": 98,
+    "group_name": "impregnate, clog, infuse, deluge",
+    "level": "TEM-8",
+    "target_word": "impregnate",
+    "question": "In many polygynous primate species, subordinate males deploy stealthy copulatory tactics to ___ receptive females, thereby circumventing the dominant male's monopolization of reproductive opportunities and enhancing their own evolutionary fitness.",
+    "options": [
+      "impregnate",
+      "clog",
+      "infuse",
+      "deluge"
+    ],
+    "answer": "impregnate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_EVOLUTIONARY_BIOLOGY",
+    "anchor_clue": "句中的 'copulatory tactics'（交配策略）、'receptive females'（发情期雌性）、'monopolization of reproductive opportunities'（对繁殖机会的垄断）以及 'evolutionary fitness'（进化适合度）构成了严密客观的进化生物学语境闭环。空白处必须填入能够直接及物支配雌性动物（receptive females）作宾语、且表意为“使受孕、使受精”的学术动词，唯有 impregnate 契合。",
+    "distractor_analysis": {
+      "impregnate": "正确。impregnate 在进化生物学与动物行为学中为核心专业术语，意为“使受孕，使受精”（to make pregnant or fertilize）。句中从属雄性（subordinate males）通过隐秘交配策略使处于受孕期的雌性（receptive females）怀孕，从而打破优势雄性对交配权的垄断，达到提升自身进化适合度（evolutionary fitness）的目的，句法结构与学术语义严丝合缝。",
+      "clog": "错误。clog 意为“堵塞，阻碍”（to block or impede with an accumulation of matter），常用于物理管道、交通或生理通道的机械性阻塞（如 clog arteries）。将其置于修饰雄性与雌性交配行为的语境中，存在严重的语义范畴错误（category mistake）。",
+      "infuse": "错误。infuse 意为“注入、灌输（思想、品质或活力）”（常用于 infuse A with B 或 infuse B into A）或“浸泡提取”（如草药），在医学上亦可表示静脉输液。infuse 既不能直接接雌性生物作宾语，亦无“使受孕/受精”的生物学含义，代入会导致严重的及物搭配断裂与语义不通。",
+      "deluge": "错误。deluge 意为“淹没，涌入”（to flood with water）或引申为“以压倒之势倾泻而至”（常用于 deluge someone with something，如洪水般涌来大量信件或请求）。deluge 无法与 receptive females 构成合理的繁殖行为搭配，完全脱离句意逻辑。"
+    },
+    "translation": "在许多一夫多妻制的灵长类物种中，处于从属地位的雄性会采取隐秘的交配策略来使具备受孕能力的雌性受孕，从而规避优势雄性对繁殖机会的垄断，并提升自身的进化适合度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_16",
+    "group_id": 98,
+    "group_name": "impregnate, clog, infuse, deluge",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "Just as viscous sediment obstructs an aqueduct, an unvetted accumulation of raw sensory data will inevitably ___ the cognitive channels of the mind, thereby arresting the fluid synthesis of higher-order abstractions.",
+    "options": [
+      "impregnate",
+      "clog",
+      "infuse",
+      "deluge"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首的比喻分句 'Just as viscous sediment obstructs an aqueduct'（正如黏稠的沉积物堵塞引水渠）与后文的 'arresting the fluid synthesis'（阻断流畅的综合过程）构建了精确的管道物理淤塞对偶，决定了空格处必须使用表示“（因杂物堆积而）堵塞、淤塞”的 clog。",
+    "distractor_analysis": {
+      "clog": "正确。clog 意为“堵塞、阻塞（管道、通道或系统）”，常与 channels、arteries、mind 等搭配，表示物质或信息过度淤积而妨碍流通与运转。句中与“sediment obstructs an aqueduct”形成完美的意象对应，精准契合认知通道被杂乱数据阻塞的语境。",
+      "impregnate": "错误。impregnate 意为“使充满、渗透、受孕”，属中性或积极意义的渗透与繁衍，与阻断思维流动（arresting fluid synthesis）的负面语境背道而驰，完全脱离了“沉积物堵塞水道”的比喻框架。",
+      "infuse": "错误。infuse 表示“注入、灌输”，通常指向有益品质或活力的赋予，无法表达由于信息堆积而造成认知通道被“卡住、阻断”的机械/水力学物理阻塞机制。",
+      "deluge": "错误。deluge 意为“淹没、泛滥”，强调的是水量或数量过大带来的漫顶与冲击（flood/overwhelm），其宾语通常是遭受水淹的主体，而非充当被堵塞的通道（channels）；同时，沉积物对水渠的作用是“淤堵”（clog）而非“淹没”（deluge），使用 deluge 会破坏全句严密的类比逻辑。"
+    },
+    "translation": "正如黏稠的沉积物会堵塞引水渠一样，未经筛选的原始感官数据的过度堆积，将不可避免地堵塞大脑的认知通道，从而阻断高阶抽象思维的流畅综合。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_17",
+    "group_id": 99,
+    "group_name": "incinerate, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "incinerate",
+    "question": "The newly published empirical trial did not merely dispute the behavioral hypothesis; it threatened to ___ the foundational paradigm entirely, reducing decades of widely accepted cognitive models to intellectual cinders.",
+    "options": [
+      "incinerate",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "incinerate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句末结果状语从句中的“reducing decades of widely accepted cognitive models to intellectual cinders”（将数十年广为接受的认知模型化为智识上的灰烬）构成绝对排他性锚点。“cinders”（余烬、灰渣）属于热力燃烧与毁灭语义场，在修辞与搭配上唯有表示“彻底焚毁、化为灰烬”（Merriam-Webster: cause to undergo combustion; burn to ashes）的 incinerate 能与之形成严密的燃烧隐喻呼应，其余选项均无此类毁灭性燃烧语义。",
+    "distractor_analysis": {
+      "incinerate": "正确。MW定义为“cause to undergo combustion; burn to ashes”。在学术论辩语体中，该词常引申为通过压倒性批判使某种理论或假设“化为灰烬、荡然无存”，与句末“reducing ... to intellectual cinders”（沦为智识余烬）形成无懈可击的隐喻闭环与语义强搭配。",
+      "flux": "错误。flux 作及物动词时意为“使熔化、使流态化”或“给……加助焊剂”，作不及物动词时意为“流动、处于变动中”。它无法与宾语“the foundational paradigm”搭配表示彻底毁灭，更脱离了“cinders”（灰烬）所要求的燃烧毁灭语义场。",
+      "fuse": "错误。fuse 意为“熔合、结合”，指将若干不同要素熔融为一个统一整体（如 fuse distinct theories into a system）。本句表达的是对既有范式的全盘颠覆与焚灭，语义极性为彻底破坏而非建构性整合，与语境截然相反。",
+      "conflate": "错误。conflate 意为“合并、混淆（两件或多件不同的事物）”，句法上通常要求并列宾语或介词 with（如 conflate A with B）。本句宾语为单数抽象概念“the foundational paradigm”，且 conflate 无法表达“彻底化为灰烬”的破坏语义，句法与逻辑均不成立。"
+    },
+    "translation": "这项新发表的实证试验不仅质疑了该行为假说，甚至有可能将整个基础范式彻底焚毁，使数十年广为接受的认知模型沦为智识上的灰烬。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_18",
+    "group_id": 99,
+    "group_name": "incinerate, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "flux",
+    "question": "Because the contemporary multilateral architecture remains in perpetual ___, emerging middle powers are abandoning rigid historical alignments in favor of flexible diplomatic coalitions to mitigate the risks of systemic volatility.",
+    "options": [
+      "incinerate",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "flux",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_INTERNATIONAL_RELATIONS",
+    "anchor_clue": "句法与语义双重锚点：空格处于介词短语“in perpetual ___”（处于持续不断的……之中）的名词中心词位置，后文的“mitigate the risks of systemic volatility”（规避系统性不稳定性风险）与“abandoning rigid historical alignments”（放弃僵化的历史结盟）明确指示该处需要一个表“不断变迁、流动不居、不稳定状态”的名词。在英语学术与国际关系语篇中，“in perpetual flux”（处于永恒流变之中）为高度固定的权威学术搭配；同时从词性与语义上彻底排除了作为纯及物动词的 incinerate 与 conflate，以及作为名词仅指“引信、导火索或保险丝”的 fuse。",
+    "distractor_analysis": {
+      "flux": "正确。Merriam-Webster 明确将 flux 的核心名词释义界定为“a state of continuous change or movement”（持续变动、流转的状态）。“in perpetual flux”是极具学术与政论质感的固定搭配，与后文的“rigid”（僵固的）形成鲜明逻辑对立，并与主句末尾的“systemic volatility”（系统性动荡/波动）形成语义呼应，完美契合多边国际秩序处于持续流变与重塑中的语境。",
+      "incinerate": "错误。incinerate 为及物动词（transitive verb），意为“焚毁、化为灰烬”。此处空格紧随形容词 perpetual 之后，必须填入名词，incinerate 在词性上出现根本性句法冲突，无法在介词短语中作名词宾语。",
+      "fuse": "错误。fuse 虽然可作名词，但其名词语义仅限于指“导火线、引信”或电路中的“保险丝”，短语“in perpetual fuse”完全不合英语习惯搭配且语义荒诞；若将其理解为动词“融合”，则同样产生词性破裂，无法充当介词短语中的名词中心词。",
+      "conflate": "错误。conflate 为纯及物动词（transitive verb），意为“合并、将……混为一谈”，其名词形式应为 conflation。置于“in perpetual ___”结构中直接导致句法破裂，属于基础词性语法错误。"
+    },
+    "translation": "鉴于当代多边体系架构始终处于永恒的流变之中，新兴中等强国正逐步放弃僵化的历史盟友关系，转而寻求灵活的外交联盟，以规避系统性动荡所带来的风险。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_19",
+    "group_id": 100,
+    "group_name": "incise, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "incise",
+    "question": "Epigraphers examining the Neolithic monolith observed that the master craftsman chose to ___ intricate astronomic glyphs into the basalt surface with remarkable geometric precision, permanently enshrining celestial knowledge.",
+    "options": [
+      "incise",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "incise",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动宾搭配及介词补足语结构为“___ intricate astronomic glyphs into the basalt surface”（将精细的天文符纹镂刻入玄武岩表面）。在铭文学与考古认知语境中，仅有 incise 能与抽象符号/纹样及硬质介质（into stone/metal）构成表示“雕刻、镌刻”的精准搭配。",
+    "distractor_analysis": {
+      "incise": "正确。意为“切入；雕刻，镂刻”，尤指在坚硬石质、金属或陶木上雕镂铭文或图案。句式“incise glyphs into the basalt surface”符合高阶学术英语与铭文学中的核心动宾及介词搭配，准确传达以刻刀将天文知识铭刻于石碑的认知行为。",
+      "lop": "错误。主要指“砍掉，修剪（树枝等）”或“斩下，断开”（通常与 off 或 from 连用），语义为劈砍、截断，既不具备“精雕细刻”的语义，也无法与介词 into 搭配。",
+      "pare": "错误。意为“削去……的外皮，修剪边缘”，引申为“逐步压缩、削减”（如 pare down expenditures），无法用于在坚硬玄武岩表面刻入文字或符号，语用情境与动宾搭配均不成立。",
+      "indent": "错误。意为“使形成凹陷；在边缘形成锯齿”或排版中的“首行缩进”，通常指因受压而形成凹痕，无法用于表示使用工具精准“雕刻、镂画出复杂的几何符号”。"
+    },
+    "translation": "研究该新石器时代巨石碑的铭文学家注意到，古代能工巧匠选择以非凡的几何精度将复杂的天文符纹雕刻进玄武岩表面，使这些天体认知知识得以永世留存。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b09_20",
+    "group_id": 100,
+    "group_name": "incise, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "In standardizing the sprawling cognitive taxonomy, the epistemologist chose to ___ several redundant, overgrown branches off the conceptual framework, thereby clarifying the fundamental paradigms of human reasoning.",
+    "options": [
+      "incise",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中存在典型的植物学隐喻映射至认知分类体系的句法构造：“___ several redundant, overgrown branches off the conceptual framework”。动词必须能与“branches off”（砍掉蔓生枝条）形成强力惯用搭配，四个选项中仅 lop 原生具备砍截枝叶（lop branches off/from）的核心词义与句式。",
+    "distractor_analysis": {
+      "incise": "错误。意为“刻入，雕刻”，支配介词 into 或 in，语义方向为“刻入表面”而非“移除、砍去分枝”，与离格副词/介词 off 严重冲突。",
+      "lop": "正确。本义为“修剪、砍断（树枝、肢体）”，常用于短语“lop ... off”。本句借用树状分枝图（tree diagram）的植物学隐喻，形象生动地体现了认识论学者果断砍除庞杂认知分类中多余繁冗分支的学术决策。",
+      "pare": "错误。意为“微薄削去表层，逐步精简”，常与 down 或 away 连用（如 pare down the framework）。面对粗壮且过度蔓生的“overgrown branches”，语义要求具有斩断魄力的 lop，而非微幅刮削的 pare，且 pare 不与 branches off 构成斩除树枝的成熟搭配。",
+      "indent": "错误。主要指“缩进（段落）”或“压制凹印”，语义中毫无“剪除、砍去”的内涵，无法接宾语 branches 并搭配 off 表达切除之意。"
+    },
+    "translation": "在规范这一庞杂的认知分类体系时，该认识论学者决定大刀阔斧地从概念框架中砍除数个多余而蔓生的分支，从而阐明了人类理性推理的根本范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b73_01",
+    "group_id": 731,
+    "group_name": "bemoan, nag, carp, croak",
+    "level": "TEM-8",
+    "target_word": "bemoan",
+    "question": "Although contemporary essayists frequently ___ the demise of long-form literary criticism in an algorithmic age, few have proposed viable economic models to sustain serious intellectual discourse.",
+    "options": [
+      "bemoan",
+      "nag",
+      "carp",
+      "croak"
+    ],
+    "answer": "bemoan",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb must take an abstract deterioration ('the demise of long-form literary criticism') as its direct object, expressing formal lamentation or deep regret rather than petty fault-finding or physical vocalization.",
+    "distractor_analysis": {
+      "bemoan": "正确。bemoan 为及物动词，意为“对……深表悲叹、哀叹、惋惜”（to express deep grief or regret for），常接抽象的名词短语充当直接宾语（如制度衰败、文化消逝等），符合学术批评语域与句法搭配。",
+      "nag": "错误。nag 若作及物动词，通常指“不断唠叨某人”（nag sb. to do sth.）或心理层面的“使人苦恼、困扰”（doubts nag sb.），其宾语必须为人，不能以某种客观事件的消逝（the demise）为直接宾语，语义及句法结构均不匹配。",
+      "carp": "错误。carp 意为“吹毛求疵、挑剔、唠叨抱怨”，是不及物动词（vi.），通常后接介词 at 或 about（如 carp at minor defects），不能直接后接宾语 the demise，存在根本的句法受限。",
+      "croak": "错误。croak 本义为发低沉沙哑的声音（呱呱叫），引申为用沙哑的声音说话或作不祥之兆的低语，在此无法充当带抽象名词为宾语的及物动词来表达“痛惜、哀叹”。"
+    },
+    "translation": "尽管当代的散文家们经常哀叹算法时代长篇文学批评的消亡，但鲜有人提出切实可行的经济模式来维系严肃的知识分子话语体系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_02",
+    "group_id": 731,
+    "group_name": "bemoan, nag, carp, croak",
+    "level": "TEM-8",
+    "target_word": "nag",
+    "question": "Despite the committee's unanimous endorsement of the theoretical framework, subtle methodological anomalies continued to ___ the senior researcher, casting an unshakeable shadow over the empirical validity of their conclusions.",
+    "options": [
+      "bemoan",
+      "nag",
+      "carp",
+      "croak"
+    ],
+    "answer": "nag",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Requires a transitive verb governed by an inanimate cognitive source ('methodological anomalies') acting upon a human experiencer ('the senior researcher'), conveying persistent mental unease.",
+    "distractor_analysis": {
+      "nag": "正确。nag 在认知与心理语域中可作及物动词，表示疑虑、隐患或未解问题“使人持续心神不安、长期困扰、萦绕于心”（to affect with recurrent or persistent distress or anxiety），常以抽象难题作主语、人作宾语，完美契合句中认知焦虑的语境。",
+      "bemoan": "错误。bemoan（哀叹、痛惜）的主语必须是有意识、有情感的人类主体，绝不能由无生命的客观抽象概念（methodological anomalies）充当主语去及物支配受困扰的人，违反了动词的选择限制（selectional restrictions）。",
+      "carp": "错误。carp（吹毛求疵）为主观情感色彩浓厚的人为行为，主语不可为抽象事物，且该词为不及物动词（需搭配 at），不可直接带人称宾语 the senior researcher。",
+      "croak": "错误。croak（发沙哑声、低沉沙哑地说）要求发出声响的生物主体，不能与抽象的方法学反常现象搭配，更无法及物表达“使某人内心不安”的认知层含义。"
+    },
+    "translation": "尽管委员会一致认可该理论框架，但方法论上细微的反常问题依然持续困扰着这位资深研究员，给其结论的经验有效性蒙上了一层难以抹去的阴影。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_03",
+    "group_id": 732,
+    "group_name": "billow, swap, fall, play",
+    "level": "TEM-8",
+    "target_word": "billow",
+    "question": "During the perceptual cognition trials, simulated plumes of vapor were triggered to ___ outward and upward in dense surges, effectively disrupting the subjects' sensory processing and spatial orientation.",
+    "options": [
+      "billow",
+      "swap",
+      "fall",
+      "play"
+    ],
+    "answer": "billow",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为具有流体扩散特性的“plumes of vapor”（蒸气羽流），且后接决定性方向与方式状语“outward and upward in dense surges”（呈密集波浪向外向上涌动）。四个选项中仅 billow 能精准描述烟雾蒸气的汹涌翻卷膨胀；fall 产生方向性自相矛盾（无法 upward）；swap 与 play 出现严重的句法或语义搭配断裂。",
+    "distractor_analysis": {
+      "billow": "正确。作不及物动词，指（烟、云、蒸气等）“如波浪般汹涌翻滚、鼓胀升腾”。句中主语“plumes of vapor”与后接副词及介词短语“outward and upward in dense surges”形成严格的物理动态搭配，完美符合知觉认知实验中视觉干扰物的扩散特征。",
+      "swap": "错误。swap 意为“交换、替换”，通常为及物动词或与介词 with/for 连用，无法作为不及物动词搭配方向副词短语描述蒸气的物理扩散运动，句法与语义皆不成立。",
+      "fall": "错误。fall 意为“降落、跌落”，其内含的向下的重力加速度方向与状语中的“upward”（向上）构成直接的语义与逻辑矛盾（directionally contradictory），故排除。",
+      "play": "错误。play 虽可引申表示光影的“闪烁跳动”或喷泉的“喷涌”（如 fountains play），但绝不可用于描述蒸气、烟云“大规模膨胀翻滚并向外向上涌动”的浓厚动态，在此处产生严重的语义场与搭配排斥。"
+    },
+    "translation": "在知觉认知实验期间，受控触发的模拟水汽柱呈密集波状向外向上翻卷涌动，从而有效地扰乱了受试者的感觉处理与空间定向能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_04",
+    "group_id": 732,
+    "group_name": "billow, swap, fall, play",
+    "level": "TEM-8",
+    "target_word": "swap",
+    "question": "To protect domestic lenders from an imminent credit freeze, the central bank negotiated a reciprocal currency ___, exchanging domestic cash reserves for foreign exchange assets under a legally binding framework with international monetary authorities.",
+    "options": [
+      "billow",
+      "swap",
+      "fall",
+      "play"
+    ],
+    "answer": "swap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "空处由形容词组合“reciprocal currency”（双边对等货币）修饰，并作为动词“negotiated”（谈判达成）的宾语，后接分词从句“exchanging domestic cash reserves for foreign exchange assets...”（以本国现金储备换取外汇资产）对该机制进行精确界定。在宏观金融学与央行流动性管理中，“currency swap”（货币互换）为唯一符合该定义与固定搭配的专业术语。其余三项虽均为名词，但“currency fall”（汇率下跌）为市场现象而非可谈判达成的制度性安排；“currency play”（货币投机/博弈策略）属市场投机术语，与央行间法定互惠框架严重违和；“billow”则存在完全的语义断裂。",
+    "distractor_analysis": {
+      "billow": "错误。billow 作为名词指“巨浪”或烟尘、波涛的“翻卷涌动”，在宏观金融与货币政策语境中毫无搭配可能，语义完全断裂。",
+      "swap": "正确。swap 在高级金融英语中作专业名词，指“互换协议”（即交易双方按约定条件交换现金流或资产的法定合约）。短语“reciprocal currency swap”（双边对等货币互换协议）是国际清算银行（BIS）及各大央行应对流动性紧缩的标准制度工具，完美契合后文“exchanging... for...”的机制阐述与官方契约语域。",
+      "fall": "错误。fall 作名词虽可与 currency 连用构成“currency fall”（货币贬值/汇率下跌），但它指代被动的市场波动或宏观经济后果，绝不能与动词“negotiated a reciprocal... under a legally binding framework”（在法定约束框架下谈判达成对等……）形成合法搭配，逻辑与施动主体严重冲突。",
+      "play": "错误。play 在金融市场黑话中可指“投机策略”或“战术性投资举措”（如 a defensive play 或 a currency play 指押注汇率波动的投机盘），但本句语境为主权中央银行为了防范信贷冻结而同国际货币当局签署的法定双边互惠救助工具，绝非市场投机博弈（play），语域与语体色彩完全不符。"
+    },
+    "translation": "为保护国内贷款机构免遭迫在眉睫的信贷冻结冲击，中央银行与国际货币当局谈判达成了一项双边货币互换协议，在具备法律约束力的框架下以本币现金储备换取外汇资产。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_05",
+    "group_id": 733,
+    "group_name": "gripe, carp, squawk, crab",
+    "level": "TEM-8",
+    "target_word": "gripe",
+    "question": "Although backbench lawmakers routinely ___ that the treasury's spending constraints undermine local infrastructure, party leadership dismisses such muttered discontent as harmless grumbling rather than an impending rebellion.",
+    "options": [
+      "gripe",
+      "carp",
+      "squawk",
+      "crab"
+    ],
+    "answer": "gripe",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The verb governs a finite declarative 'that'-clause, immediately reinforced by the retrospective anchor 'such muttered discontent as harmless grumbling', matching the lexicographical definition of 'gripe' ('to complain with grumbling; stresses habitual complaining about circumstances') while syntactically excluding 'carp' and 'crab' (which do not license 'that'-clauses) and semantically excluding 'squawk' (which denotes noisy, loud, or shrill protest, directly contradicting 'muttered').",
+    "distractor_analysis": {
+      "gripe": "正确。句法与语义双重闭环：① 句法层面，gripe 可支配 that 引导的名词性从句（gripe that...），在英美主流政经报刊（如《经济学人》）中极常见于报道议员或选民对政策环境的日常抱怨；② 语义与语域层面，句中的“muttered discontent as harmless grumbling”（将这种私下喃喃的不满视作无害的咕哝抱怨）精确呼应了《韦氏词典》（Merriam-Webster）对 gripe 的核心定义“to complain with grumbling; stresses habitual complaining, especially about one's circumstances”，与后文“rather than an impending rebellion”（而非迫在眉睫的倒阁/叛乱）构成经典的低烈度常态牢骚对比，语域契合且无任何风格冲突。",
+      "carp": "错误。① 句法致命受限：各大权威词典（OED、Oxford、Cambridge）明确标定 carp 为严格不及物动词，仅能接介词短语（carp at / about / over sth），无法支配 that 引导的宾语从句（*carp that... 在现代标准英语中属于严重句法不合规）；② 语意错位：carp 强调“captious finding of fault with trivial matters”（吹毛求疵、挑刺、小题大做），侧重对他人过失或细枝末节的刁难挑剔，不用于针对宏观财政约束的群体性抱怨。",
+      "squawk": "错误。① 语义反向冲突：根据《韦氏词典》，squawk 核心特征为“stresses a noisy, loud, or vehement protest”（发出刺耳喧闹的抗议或高调叫嚣），带有突发性、高声喧哗感，这与句中限定的“muttered discontent”（喃喃低语的不满）在副词修饰逻辑上构成直接矛盾（属于语义互斥，既不可能“低语地尖叫抗议”）；② squawk that 在高端政经分析语域中多属通俗夸张用法，与文体不符。",
+      "crab": "错误。① 句法不适配：crab 表抱怨时属于严格的不及物介词搭配用法（crab about / at），不存在接 that 从句（*crab that...）的次范畴化句法特征；② 语意特征偏离：crab 侧重于表现个人脾气、性格上的“sour, peevish, or fretful disposition”（乖戾、酸腐、怨怼的心性），侧重人格缺陷而非议员就财政预算向党鞭表达的常规利益诉求牢骚。"
+    },
+    "translation": "虽然下议院后座议员们惯常发牢骚，抱怨财政部的支出紧缩削弱了地方基础设施建设，但党派领导层将这种私下咕哝的不满仅仅视作无害的琐碎牢骚，而非一场迫在眉睫的反叛。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_06",
+    "group_id": 733,
+    "group_name": "gripe, carp, squawk, crab",
+    "level": "TEM-8",
+    "target_word": "carp",
+    "question": "Rather than engaging substantively with the monograph’s ambitious theoretical framework, several pedantic reviewers chose to ___ at negligible chronological inconsistencies and inconsequential citation anomalies.",
+    "options": [
+      "gripe",
+      "carp",
+      "squawk",
+      "crab"
+    ],
+    "answer": "carp",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is the prepositional complementation 'at' governing 'negligible chronological inconsistencies and inconsequential citation anomalies' alongside the agent 'pedantic reviewers'; 'carp at' uniquely signifies captious, petulant fault-finding over petty flaws.",
+    "distractor_analysis": {
+      "carp": "正确。根据《韦氏词典》，carp 特指“对微不足道的小事吹毛求疵、百般挑剔”（captious finding of fault, especially with trivial or petty things），且具有固定的介词搭配 carp at sth.。句中“pedantic reviewers”（迂腐的审稿人）、“negligible chronological inconsistencies”（可忽略的年代前后矛盾）与介词 at 共同构成了决定性排他锚点。",
+      "gripe": "错误。gripe 意为“发牢骚、抱怨”，通常接介词 about 或 over，用于抱怨自身负荷或不满境遇，既不能与介词 at 搭配，亦不表示针对文本细节的学术挑剔（*gripe at 造成严重介词搭配错误）。",
+      "squawk": "错误。squawk 强调高声叫嚷或喧闹抗议，多接 about 或 over，语体带有粗俗或刺耳色彩，不符合学术评阅语域，且无法与介词 at 搭配表示“挑刺”。",
+      "crab": "错误。crab 侧重因心境不佳而酸溜溜地抱怨（crab about），语域偏口语，无法与介词 at 形成表示“吹毛求疵”的学术语用搭配。"
+    },
+    "translation": "几位迂腐的审稿人并未深入探讨该专著宏大的理论架构，反而选择对其微不足道的年代错漏和无关紧要的引证瑕疵吹毛求疵。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_07",
+    "group_id": 734,
+    "group_name": "blackmail, imprint, fix, form",
+    "level": "TEM-8",
+    "target_word": "blackmail",
+    "question": "Determined to overturn the committee's unanimous resolution, the rogue faction leaked fabricated financial records in a brazen attempt to ___ the executive board into endorsing their controversial restructuring plan.",
+    "options": [
+      "blackmail",
+      "imprint",
+      "fix",
+      "form"
+    ],
+    "answer": "blackmail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键句法锚点为及物动词致使构式“___ + sb + into + V-ing”，且前文语境提供决定性诱因“leaked fabricated financial records”（泄露虚假财务记录以施加心理与舆论压力）。四个选项中仅 blackmail 具备“通过要挟/施压迫使某人屈从”的语义，并严格支配“blackmail sb into doing sth”搭配。",
+    "distractor_analysis": {
+      "blackmail": "正确。在政治、心理及组织决策语境中，blackmail 常用作及物动词，指“利用威胁、丑闻或不正当手段施加重压，迫使某人就范”，其核心搭配即为“blackmail sb into doing sth”。句中以泄露财务记录为手段迫使董事会批准方案，与该词的句法构式与情态语义完美契合。",
+      "imprint": "错误。imprint 意为“铭刻；给……留下不可磨灭的印记”，其认知心理学句法通常为“imprint sth on/upon sb's mind”或动物行为学中的“imprint on sb”，在语法上严禁接“sb into doing sth”致使结构，语义亦无法与“施压强迫”相符。",
+      "fix": "错误。fix 虽有“固定；确定；使关注”等义，但不存在“fix sb into doing sth”的句法用法，且无法表达凭借威胁或要挟迫使他人采取行动的认知/心理强制含义。",
+      "form": "错误。form 表示“形成；组建；塑造”，及物用法通常接组织、概念或观念作为直接宾语（如 form a committee / form an opinion），绝对不可支配“宾语 + into doing sth”结构，存在根本的句法违规。"
+    },
+    "translation": "为推翻委员会的一致决议，这个叛离派系泄露了伪造的财务记录，公然企图胁迫执行董事会批准其备受争议的重组方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_08",
+    "group_id": 734,
+    "group_name": "blackmail, imprint, fix, form",
+    "level": "TEM-8",
+    "target_word": "imprint",
+    "question": "Developmental psychologists argue that sustained exposure to acute familial conflict can profoundly ___ dysfunctional emotional patterns upon a child's malleable cognitive architecture, hindering future social adaptation.",
+    "options": [
+      "blackmail",
+      "imprint",
+      "fix",
+      "form"
+    ],
+    "answer": "imprint",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键搭配锚点为“___ + [abstract patterns/schemas] + upon + [cognitive substrate/architecture]”。在认知心理学与神经认知学术语中，唯有 imprint 能与介词 upon 搭配，表达将某种心理痕迹或行为模式“深深烙印/铭刻”于心智架构中。",
+    "distractor_analysis": {
+      "imprint": "正确。imprint 在发展心理学与认知神经科学语境中意为“在心理、意识或神经结构中留下持久且难以磨灭的印记/烙印”，其经典学术搭配为“imprint sth on/upon sth”，与句中的“dysfunctional emotional patterns upon a child's malleable cognitive architecture”达成严密的句法与学术语域契合。",
+      "blackmail": "错误。blackmail 意为“勒索；敲诈；要挟”，仅用于人际或政治间施加心理强制，宾语必须为受胁迫的主体，断不可用于将“情绪模式”印刻在“认知架构”上，主谓宾搭配与概念完全错置。",
+      "fix": "错误。fix 虽有“固定；确立”之意，但在心理认知语境中表示将记忆或观念固定于心中时，标准介词搭配为 in（如 fix sth in one's mind/memory）；当其接 upon 时，通常表示“选定”或“凝视/注视”（如 fix one's eyes/attention upon），不能与 patterns upon an architecture 搭配表示认知烙印。",
+      "form": "错误。form 意为“形成；养成”，作及物动词时直接带宾语（如 form emotional patterns），但英语中不存在“form sth upon sth”这一空间/隐喻投射结构，无法与后文介词 upon 形成有效接应。"
+    },
+    "translation": "发展心理学家指出，长期遭受剧烈的家庭冲突，会在儿童极具可塑性的认知架构上深深烙下不良的情绪模式，从而阻碍其未来的社会适应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_09",
+    "group_id": 735,
+    "group_name": "blob, fleck, spot, blot",
+    "level": "TEM-8",
+    "target_word": "blob",
+    "question": "Before modern staining techniques revealed intricate organelle compartmentalization, nineteenth-century cytologists dismissed the protoplasm as an amorphous, gelatinous ___, wholly devoid of functional sub-architecture or discernible internal boundaries.",
+    "options": [
+      "blob",
+      "fleck",
+      "spot",
+      "blot"
+    ],
+    "answer": "blob",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BIOLOGY",
+    "anchor_clue": "句中关键形容词搭配 'amorphous, gelatinous'（无定形的、凝胶状半流体的）与主语 'protoplasm'（原生质）构成了决定性语义锚点，精确锁定表示“黏稠、半流体、无固定形状的三维团块或不定形物”的专用名词 blob。",
+    "distractor_analysis": {
+      "blob": "正确。blob 作名词指“黏稠、半流体的微小滴状物或团块”（a small drop or lump of something viscid or sluggish），或“缺乏明确轮廓与内部结构的无定形团块”（something ill-defined or amorphous）。在早期细胞学与生物学思想史中，'gelatinous blob of protoplasm'（胶状原生质团）是描述未分化细胞基质的经典学术表达，完美契合句中 'amorphous, gelatinous' 的物质物理属性及 'devoid of functional sub-architecture' 的无定形表征。",
+      "fleck": "错误。fleck 指“微小的颗粒、碎屑、微粒或细小的斑纹”（a small particle or flake; a speck），其核心语义特征在于“微小尺度”（minute scale）与“碎屑状/片状”（flake-like）。用其指代占据细胞主体容量的原生质（protoplasm）存在严重的物理尺度与形态学错配，且 fleck 无法与表示胶状团块的 'gelatinous' 形成合理语义搭配。",
+      "spot": "错误。spot 主要指表面上的“离散圆斑、污渍或局部的二维点位”（a discrete patch, mark, or localized circular area）。它描述的是二维平面上的孤立标记，而非具有三维实体厚度与黏滞流动性的胶体物质（gelatinous substance）；同时 spot 通常具有明确的边界范围，与后文 'wholly devoid of... discernible internal boundaries' 所体现的流动无定形态相抵触。",
+      "blot": "错误。blot 专指液体（尤指墨水等）在吸水性表面扩散渗染形成的“扁平污渍、墨渍”（a stain or smudge of liquid absorbed into a surface），或引申为“道德污点/视线遮蔽”。blot 本质上属于二维表面渗染的印痕，绝不能指代立体的、凝胶状的物理生物基质（gelatinous physical mass）。"
+    },
+    "translation": "在现代染色技术揭示细胞器错综复杂的区室化结构之前，19世纪的细胞学者将原生质贬斥为一种无定形、凝胶状的团块，认为其完全缺乏功能性亚微结构或可分辨的内部边界。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_10",
+    "group_id": 735,
+    "group_name": "blob, fleck, spot, blot",
+    "level": "TEM-8",
+    "target_word": "fleck",
+    "question": "To probe how visual cognition processes fragmented luminance, neuroscientists designed stimuli that ___ the dark field with minute, scattered specks of phosphorescent light, compelling the cortex to synthesize discontinuous sensory inputs into coherent shapes.",
+    "options": [
+      "blob",
+      "fleck",
+      "spot",
+      "blot"
+    ],
+    "answer": "fleck",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中宾语结构 'the dark field with minute, scattered specks of phosphorescent light'（以细微、散落的磷光斑点点缀暗视野）提供了强排他性语义锚点，精准限定了动作必须具有“以细小微粒/碎屑散布点缀”的词汇语义特征（fleck）。",
+    "distractor_analysis": {
+      "blob": "错误。blob 指以黏厚、大块、无定形的团状物弄脏或涂抹（mark with heavy, viscous lumps），其粗糙厚重的语义色彩与语境中极度微小的发光斑点（'minute, scattered specks'）形成强烈尺度反差，破坏认知实验刺激源的精确表述。",
+      "fleck": "正确。fleck 作及物动词意为“用微小的斑点、微粒或细条纹点缀/点染”（to mark or scatter with small spots or specks）。句中刺激物以 'minute, scattered specks of phosphorescent light' 为介词短语，完美契合 fleck 的构词语义（源自表示片状或斑点的词根），准确再现神经科学中离散微光点缀视野的高阶认知语境。",
+      "spot": "错误。spot 作动词虽可表示“留下斑点”，但通常指产生面积较大、轮廓分明的局部斑块或污迹（patches/blemishes），无法精确传达像粉末或微粒般细碎、漫射散布的动态质感（scattered specks）；且 spot 常用于及物感官动词“发现、认出”，在认知科学语境中置于此处会引发严重的句意认知偏离。",
+      "blot": "错误。blot 侧重于液体的渗透玷污、形成平展污斑（stain）或彻底抹除遮盖（obliterate），与在暗视野中创造微小、发光的离散视觉点（luminous, discrete visual points）的实验设计意图完全背道而驰。"
+    },
+    "translation": "为了探究视觉认知如何处理断裂的亮度信息，神经科学家设计了用细微且散落的磷光斑点点缀暗视野的刺激物，迫使大脑皮层将不连续的感官输入综合为连贯的几何形态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_11",
+    "group_id": 736,
+    "group_name": "blurt, whiff, snarl, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Overwhelmed by cognitive fatigue during the unyielding cross-examination, the witness momentarily faltered and appeared ready to ___ the very classified protocols that his superiors had strictly commanded him to withhold.",
+    "options": [
+      "blurt",
+      "whiff",
+      "snarl",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive semantic opposition between the impulse to disclose under cognitive exhaustion ('faltered and appeared ready to') and the explicit duty to conceal ('strictly commanded him to withhold') requires a verb denoting impulsive, unguarded verbal revelation of confidential information.",
+    "distractor_analysis": {
+      "blurt": "正确。Merriam-Webster将其核心义界定为“utter impulsively（脱口而出；不假思索地泄露）”。句中语境为证人在严苛盘问与认知耗竭（cognitive fatigue）下动摇，几乎要将上级命令严加隐瞒（withhold）的机密规程脱口泄露。blurt直接及物，精准契合“在压力下脱口说出秘密”的语义与句法要求。",
+      "whiff": "错误。whiff作为及物动词主要指“轻吹”、“嗅出/闻到”或引申为“感知到细微迹象”；在俚语或体育转喻中指“击空/完全搞砸”。证人作为机密信息的知情者与保管方，其动摇表现在“失口说出”，而非“感知”或“嗅出”已知信息，语义场与语境严重错位。",
+      "snarl": "错误。snarl指“咆哮”、“厉声怒吼”，强调凶狠、敌对的言语态度（如snarl an insult），无法体现因疲惫动摇而“无意识、不慎走漏机密”的认知失控特征；且snarl通常不与classified protocols形成及物搭配，语用色彩不符。",
+      "snivel": "错误。snivel指“抽噎、抽泣”或“流涕抱怨、哭哭啼啼地诉苦”，通常为不及物动词（vi.），既不能直接接“the very classified protocols”作宾语，其哀怨卑微的感情色彩也与泄露机密规程的行为逻辑毫无关联。"
+    },
+    "translation": "在咄咄逼人的严苛盘问中，证人因认知极度疲劳而一时阵脚大乱，似乎随时都会将上级严令其保密的机密规程脱口而出。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_12",
+    "group_id": 736,
+    "group_name": "blurt, whiff, snarl, snivel",
+    "level": "TEM-8",
+    "target_word": "whiff",
+    "question": "Recognizing that public trust in the judiciary would erode at even the faintest ___ of political collusion, the supreme court justice recused herself from the high-profile constitutional dispute.",
+    "options": [
+      "blurt",
+      "whiff",
+      "snarl",
+      "snivel"
+    ],
+    "answer": "whiff",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_JUSTICE",
+    "anchor_clue": "The fixed collocational and semantic frame 'even the faintest ___ of [political collusion / impropriety / scandal]' strictly demands a noun denoting an intangible trace, slight suggestion, or subtle hint of malfeasance.",
+    "distractor_analysis": {
+      "whiff": "正确。Merriam-Webster将名词whiff定义为“a slight trace or indication : HINT (as in a whiff of scandal)”。在高级政经、司法与社论语境中，“the faintest whiff of [collusion / scandal / impropriety]”（哪怕最微弱的一丝/一点……蛛丝马迹）是极其地道且高频的固定引申搭配，精准契合司法体系对“避嫌”与“杜绝哪怕最微小合谋嫌疑”的极高道德要求。",
+      "blurt": "错误。blurt作名词表示“脱口而出的急促话语（a sudden, impulsive utterance）”，属于具体的言语输出行为；在句法与搭配上，英语中不存在“the faintest blurt of collusion”这种用法，既无法接“of political collusion”，也不能用于表示抽象的嫌疑或痕迹，属于严重的词义与搭配断裂。",
+      "snarl": "错误。snarl作名词主要指“龇牙怒吼声（an angry or menacing growl）”或“混乱的缠结、僵局（a tangle or gridlock，如 a snarl of red tape）”。一方面，“咆哮”属于公开发泄的敌意，与前置修饰语“faintest（最微弱隐秘的）”存在语义冲突；另一方面，“缠结”义项多指物理缠绕或行政官僚程序瘫痪，不能用于量度无形的合谋或腐败痕迹。",
+      "snivel": "错误。snivel作名词指“抽噎啜泣、流涕哭诉、怨言（a whining, tearful complaint）”，常带软弱或委琐的情感色彩；用于形容宪法诉讼与司法公信力语境存在极大的语体风格断层（register clash），且在概念上构成明显的范畴错误（category mistake）。"
+    },
+    "translation": "深知公众对司法的信任哪怕在出现最微弱的一丝政治勾结疑云时也会遭受侵蚀，该最高法院大法官主动申请回避了这起备受瞩目的宪政争议案件。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_13",
+    "group_id": 737,
+    "group_name": "bog, fracture, disrupt, interrupt",
+    "level": "TEM-8",
+    "target_word": "bog",
+    "question": "The chief mediator warned that dwelling excessively on procedural technicalities would merely ___ down the peace negotiations in acrimonious debate, squandering a historic opportunity to secure lasting regional stability.",
+    "options": [
+      "bog",
+      "fracture",
+      "disrupt",
+      "interrupt"
+    ],
+    "answer": "bog",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中空格后紧跟副词小品词 'down' 与介词短语 'in acrimonious debate'，构成固定动词短语搭配 'bog down [something] in [something]'（使陷入/停滞于泥潭或琐事中）。选项中仅 bog 能与 down 结合构成及物短语动词；其余三词均无与 down 搭配之用法，造成直接的句法与搭配割裂。",
+    "distractor_analysis": {
+      "bog": "正确。bog 意为“使陷于泥淖、阻碍……的进展”，在学术政经语体中常以短语动词 'bog down (in sth.)' 出现，既可用作不及物表示“陷入停滞”，亦可用作及物动词（bog sth. down in sth.）表示“使某事因纷争或琐事而裹足不前”。此处与后文 'down the peace negotiations in acrimonious debate' 严丝合缝，准确传达谈判因细枝末节而陷入胶着泥潭的语义色彩。",
+      "fracture": "错误。fracture 作动词表示“（使）破裂、分裂”，强调组织或同盟内部凝聚力的解体（如 fracture a coalition），其后不可与小品词 down 连用（英语中无 *fracture down 之搭配），产生严重句法错误。",
+      "disrupt": "错误。disrupt 意为“扰乱、使中断”，为纯及物动词，直接接宾语（如 disrupt the meeting / supply chain），绝对不与副词 down 搭配（*disrupt down 不符合英语句法规则）。",
+      "interrupt": "错误。interrupt 意为“打断、暂时中止”，主要指说话声或行为的暂时中断，后直接接宾语（如 interrupt a speaker / process），不存在 *interrupt down 的搭配结构，语法上完全不成立。"
+    },
+    "translation": "首席调解人警告称，过度纠缠于程序性细节只会让和平谈判陷入激烈争吵的泥潭，从而错失巩固地区持久稳定的历史性契机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_14",
+    "group_id": 737,
+    "group_name": "bog, fracture, disrupt, interrupt",
+    "level": "TEM-8",
+    "target_word": "fracture",
+    "question": "As socioeconomic grievances deepened, political analysts warned that the fragile governing coalition would inevitably ___ into hostile factions, effectively paralyzing the administration's reform agenda during a pivotal electoral year.",
+    "options": [
+      "bog",
+      "fracture",
+      "disrupt",
+      "interrupt"
+    ],
+    "answer": "fracture",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的关键语法与语义锚点为不及物结构搭配结果介词短语 'into hostile factions'（分裂为敌对派系）。主语为政党联盟 'governing coalition'，描述团体或结构的破裂解体，四选一中仅 fracture 具备不及物用法且能与介词 into 连用表示“破裂/分化为若干碎片或派系”；其余选项均存在严重的句法配价缺失或语义搭配冲突。",
+    "distractor_analysis": {
+      "fracture": "正确。fracture 借自医学与地质学“骨折、断裂”之意，在政治学与社会学语体中广泛引申为“（体制、同盟、共识）破裂、分裂为对抗性团体”，可作不及物动词并与介词 into 搭配（fracture into factions/camps），完美契合执政联盟在内部矛盾压力下走向分崩离析的语境。",
+      "bog": "错误。bog 侧重于“陷入泥潭、停滞不前”，必须搭配副词 down（如 bog down in difficulties），无法作不及物动词后接 'into factions'（英语中不存在 *bog into 之用法），语义与搭配双重违背。",
+      "disrupt": "错误。disrupt 为强及物动词，意为“使混乱、破坏正常秩序”（如 disrupt social order），不能作不及物动词，更无法与 'into hostile factions' 搭配（*disrupt into 属于严重语法配价错误）。",
+      "interrupt": "错误。interrupt 意为“打断、插话、使……暂停”，主要描述时间线或连续动作的突然截断，不能用于表达组织或同盟“分裂/分化”为实体派系，且不可不及物搭配 'into factions'。"
+    },
+    "translation": "随着社会经济积怨的加深，政治分析人士警告称，脆弱的执政联盟势必会分裂成敌对派系，进而导致该届政府在关键大选年的改革议程彻底陷入瘫痪。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_15",
+    "group_id": 738,
+    "group_name": "boggle, waver, hover, falter",
+    "level": "TEM-8",
+    "target_word": "boggle",
+    "question": "The staggering dimensionality and non-Euclidean geometry of the theoretical multiverse continue to ___ the human imagination, thoroughly defying intuitive spatial visualization and exposing the conceptual limits of classical physics.",
+    "options": [
+      "boggle",
+      "waver",
+      "hover",
+      "falter"
+    ],
+    "answer": "boggle",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_ACADEMIC_SCIENCE",
+    "anchor_clue": "句法配价（及物性）与权威认知搭配锚点：空格后紧随名词短语直接宾语 'the human imagination'。在韦氏词典（Merriam-Webster）与牛津英语词典（OED）中，boggle 是本组词中唯一具备及物动词（transitive verb）词条且能支配认知机能名词的词，核心义项为 'to cause to be overwhelmed or baffled : confound'，其最具代表性的学术及物构式即为 'boggle the mind / imagination'（使难以想象、使叹为观止）。其余三个选项（waver、hover、falter）在该语境下均为纯粹的不及物动词，根本无法支配直接宾语，存在决定性的句法配价破裂。",
+    "distractor_analysis": {
+      "boggle": "正确。boggle 作及物动词时意为“使困惑、使难以理解、使叹为观止（to overwhelm, baffle, or confound）”，与 the imagination 构成高度典则的及物搭配（boggle the human imagination），完美契合多元宇宙的高维非欧几何彻底超出人类直观具象化想象能力的理论物理语境。",
+      "waver": "错误。waver 在现代英语中是严格的不及物动词（intransitive verb），意为“动摇、犹豫、摇摆”，绝无支配抽象认知名词的及物用法；*waver the human imagination 存在不可逾越的句法配价错误。",
+      "hover": "错误。hover 是严格的不及物动词，意为“盘旋、徘徊、处于临界数值附近”，在句法上无法接名词短语作为直接宾语（*hover the imagination 严重不合语法），且其物理悬停或数值徘徊的语义与认知受挫的语境完全脱节。",
+      "falter": "错误。falter 在现代英语中主要作为不及物动词使用，表示“衰退、踉跄、减弱”；其极其罕见的及物用法严格局限于言语表达动作（如 falter out a reply，结结巴巴地说出），绝对不能支配 the imagination 或 human intellect 作为直接宾语（*falter the imagination 属严重语法搭配违误）。"
+    },
+    "translation": "理论多元宇宙那令人咋舌的高维维度与非欧几里得几何特性，彻底打破了人类直观的空间具象化认知，暴露了经典物理学的概念局限，持续让整个人类的想象力陷入极度震撼与困顿之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_16",
+    "group_id": 738,
+    "group_name": "boggle, waver, hover, falter",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite intense lobbying from senior party stalwarts to enforce immediate sanctions, the foreign secretary continued to ___ on whether to ratify the contentious multilateral treaty before the upcoming summit.",
+    "options": [
+      "boggle",
+      "waver",
+      "hover",
+      "falter"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句法与搭配决定性锚点：句中核心构式为 '___ on whether to [verb]'（在是否采取某项行动上举棋不定/动摇）。四个选项中，仅有 waver 可与介词 on/over 搭配并接 whether 引出的抉择从句（waver on whether to do sth），表达政治决策者在政策抉择上的摇摆与迟疑；其余三项在接续该介词从句结构时均构成严重句法违误或搭配断裂。",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为“犹豫不决、举棋不定、摇摆”，Merriam-Webster 释义为“to vacillate between choices: fluctuate in opinion, allegiance, or direction”，其经典句法搭配即为 waver on/over (whether to do) sth，完美契合外交大臣在是否签署争议条约上摇摆不定的政治语境。",
+      "boggle": "错误。boggle 作不及物动词表“犹豫、退缩”或“畏难不前”时，属于严格的选择限制动词，其固定介词搭配必须接 at（如 boggle at the prospect of...），英语中不存在 *boggle on whether to... 的句法构式，语法上绝对不成立。",
+      "hover": "错误。hover 表“徘徊、悬停”，其介词搭配通常为 hover over/above（悬停于……上方）、hover around/near（数值在……附近浮动）或用于固定短语 hover on the brink/verge of（濒临……）。hover 从不与介词 on 连用接 whether 从句表政策决策上的权衡动摇（不存在 *hover on whether to），产生严重搭配断裂。",
+      "falter": "错误。falter 侧重指“力量衰退、势头减弱、步履蹒跚或行动中发软”，强调执行过程中的衰竭或失控而非决策选项间的摇摆；在句法搭配上多接 in（如 falter in one's resolve）或 under（falter under pressure），无法接 *falter on whether to... 这一表审议决策的介词补足语。"
+    },
+    "translation": "尽管党内资深元老极力游说实施立即制裁，外交大臣在即将召开的峰会前对于是否批准该项具有争议的多边条约依然犹豫不决。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_17",
+    "group_id": 739,
+    "group_name": "brainwash, badger, seduce, cajole",
+    "level": "TEM-8",
+    "target_word": "brainwash",
+    "question": "Through pervasive state surveillance, systematic censorship, and relentless ideological conditioning, the totalitarian regime sought to ___ the populace into unquestioning submission, effectively eradicating any capacity for dissent.",
+    "options": [
+      "brainwash",
+      "badger",
+      "seduce",
+      "cajole"
+    ],
+    "answer": "brainwash",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchors are 'relentless ideological conditioning' and 'eradicating any capacity for dissent', which describe a systematic, coercive overhaul of human cognition and beliefs rather than interpersonal nagging or sweet-talking.",
+    "distractor_analysis": {
+      "brainwash": "正确。指通过高压手段、心理操纵或系统性意识形态灌输彻底改变他人的思想与信仰（persuade completely, often through coercion）。句中‘systematic censorship’（系统性审查）、‘relentless ideological conditioning’（持续的意识形态灌输）与‘eradicating any capacity for dissent’（根除异见能力）提供了决定性的认知重构与高压政治语境，与 brainwash 的核心语义和褒贬内涵完全契合。",
+      "badger": "错误。指‘纠缠、烦扰、反复骚扰’（to harass or pester persistently），侧重人际交往或具体事务中反复施加微观骚扰以达成具体要求，无法用于形容极权政权通过意识形态机制对公众进行彻底的思想改造与认知重塑。",
+      "seduce": "错误。指‘诱惑、引诱’（to entice or attract by temptation/pleasure），强调以利益、愉悦或虚妄的前景进行利诱与心智迷惑，与本句强调的国家机器强制性高压审查与思想清洗（coercion/conditioning）形成语义逻辑背离。",
+      "cajole": "错误。指‘（用甜言蜜语、奉承哄骗等方式）劝诱’（to persuade by flattery or gentle pleading），其语用色彩为温和的哄劝与讨好，与极权体制自上而下摧毁独立思考能力的系统性压迫语境完全不符。"
+    },
+    "translation": "通过无处不在的国家监控、系统性审查以及持续不断的意识形态灌输，该极权政权企图对民众进行彻底的思想洗脑以使其顺从，从而彻底扼杀任何产生异见的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_18",
+    "group_id": 739,
+    "group_name": "brainwash, badger, seduce, cajole",
+    "level": "TEM-8",
+    "target_word": "badger",
+    "question": "During the grueling parliamentary inquiry, investigative journalists continued to ___ the reluctant spokesperson with intrusive queries until she finally disclosed the classified communications regarding the procurement scandal.",
+    "options": [
+      "brainwash",
+      "badger",
+      "seduce",
+      "cajole"
+    ],
+    "answer": "badger",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the syntactic and semantic collocation '___ the reluctant spokesperson with intrusive queries', which denotes persistent, abrasive harassment and pressing for information, uniquely satisfied by 'badger'.",
+    "distractor_analysis": {
+      "badger": "正确。指‘反复纠缠、纠缠不休地质问或骚扰’（to pester or harass persistently with questions/demands）。‘badger somebody with questions/queries’是典型高频搭配，精准对应语境中调查记者在议会质询期间对发言人步步紧逼、不断盘问直至其被迫披露机密信息的逼仄情境。",
+      "brainwash": "错误。指‘洗脑、强制灌输思想’，其核心目的是从根本上重置受众的价值观和认知框架，而不是通过咄咄逼人的连续盘问迫使对方即刻吐露事实或机密文件。",
+      "seduce": "错误。指‘诱导、诱惑’，侧重利用魅力或诱饵使人落入陷阱，其情感色彩为迎合与吸引，与句中带有攻击性、令人烦躁的‘intrusive queries’（侵入性质问）在语义色彩上直接冲突。",
+      "cajole": "错误。指‘用好话哄骗、曲意劝诱’（to wheedle or persuade through flattery），通常伴随虚假承诺或讨好态度，若接介词短语常与 with flattery/sweet words 连用，与充满敌意和施压意味的‘with intrusive queries’构成修辞与语义上的矛盾。"
+    },
+    "translation": "在艰难的议会质询期间，调查记者们不断用侵入性的提问反复盘问那位不情愿的发言人，直到她最终披露了有关采购丑闻的机密通讯。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_19",
+    "group_id": 740,
+    "group_name": "bridle, field, repay, retort",
+    "level": "TEM-8",
+    "target_word": "bridle",
+    "question": "Although the seasoned diplomat maintained outward composure throughout the summit, he could not help but ___ at the envoy’s patronizing suggestion that his nation’s non-aligned stance reflected moral ambivalence rather than strategic prudence.",
+    "options": [
+      "bridle",
+      "field",
+      "repay",
+      "retort"
+    ],
+    "answer": "bridle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Followed by the preposition 'at' and an object denoting an offensive, patronizing slight ('the envoy’s patronizing suggestion'), uniquely satisfying the intransitive construction 'bridle at' (to show indignation or resentment).",
+    "distractor_analysis": {
+      "bridle": "正确。bridle 用作不及物动词时，常与介词 at 连用（bridle at sth.），意为“对……表示轻蔑、恼怒或愤慨”，专指因受到冒犯、挑衅或居高临下的对待而心生不悦并表现出傲慢的反感。句中“the envoy's patronizing suggestion”（特使居高临下的暗示）构成典型的冒犯性刺激源，与介词 at 及 bridle 的核心语义与句法框架完美契合。",
+      "field": "错误。field 作动词时为及物动词，意为“巧妙处理、回答（提问、批评或指责）”（如 field questions/criticisms），必须直接接宾语，无法与介词 at 搭配（*field at 属于严重句法错误），且其语义偏向客观应对与化解，缺乏“因被冒犯而心生愤懑”的情感色彩。",
+      "repay": "错误。repay 为及物动词，意为“偿还、报答、回报”（如 repay a kindness/debt），无法与介词 at 连用构成合规句式（*repay at 句法不通），在句法搭配与语义逻辑上均不成立。",
+      "retort": "错误。retort 主要用作言语交际动词，意为“反驳、回嘴”，其后通常接直接引语、that 从句，或直接及物接论点/指责（如 retort an accusation）。英语中不存在“retort at a suggestion”表示“对某种暗示感到不快或做出回击”的用法（retort at 属于伪搭配），且句意强调的是外交官内心情绪的被触怒与隐忍反感，而非言语上的口头反驳。"
+    },
+    "translation": "尽管这位经验丰富的外交官在整个峰会期间保持着外在的镇定，但他仍不由得对特使居高临下的暗示感到愤慨——该暗示声称其国家的不结盟立场反映的是道德上的摇摆不定，而非战略上的审慎。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b73_20",
+    "group_id": 740,
+    "group_name": "bridle, field, repay, retort",
+    "level": "TEM-8",
+    "target_word": "bridle",
+    "question": "When confronted with scathing methodological critiques at the symposium, the young epistemologist strove to ___ his defensive impulses, recognizing that an intemperate reaction would only reinforce his detractors' doubts regarding his scholarly detachment.",
+    "options": [
+      "bridle",
+      "field",
+      "repay",
+      "retort"
+    ],
+    "answer": "bridle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Directly governs the internal psychological object 'his defensive impulses' in contrast to an 'intemperate reaction', uniquely requiring the transitive sense of 'bridle' (to curb, restrain, or hold in check).",
+    "distractor_analysis": {
+      "bridle": "正确。bridle 作及物动词时，源于“给马套上缰绳”的意象，引申为“抑制、约束、控制”（与 curb, restrain 同义），在学术英语和高阶书面语中常与 temper, passions, impulses 等表示内心冲动、情绪或偏见的词连用。句中“his defensive impulses”（其防御性冲动）与后文“intemperate reaction”（不克制的过激反应）形成严密对照，bridle 完美契合学者在认知层面克制自身主观防御心理、保持学术客观性的语境。",
+      "field": "错误。field 虽可在学术辩论语境下表示“处理、应对（外界的质询、批评）”（如 field criticisms/questions），但其受词必须是来自外部的提问、指责或挑战，绝不能支配主事者自身的内在心理倾向（英语中不存在 *field one's impulses 这一搭配，存在语义范畴与搭配的双重错误）。",
+      "repay": "错误。repay 意为“报答、报复、偿还”，其宾语通常为外部行为、人际恩怨或债务，不能与“defensive impulses（防御冲动）”搭配，逻辑上无法表示“克制或平息自身冲动”。",
+      "retort": "错误。retort 意为“回击、反驳”，属于言语反唇相讥类及物/不及物动词，其宾语必须是言论或指控，不能及物支配“impulses（心理冲动）”（不能说 *retort an impulse），在语义搭配和认知心理表述上均不成立。"
+    },
+    "translation": "在研讨会上遭遇针对其方法论的严厉批驳时，这位年轻的认识论学者竭力克制自己的防御性冲动，因为他意识到，任何不够克制的过激反应都只会加剧批评者对其学术客观性的怀疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

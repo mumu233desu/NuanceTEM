@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b56_01",
+    "group_id": 561,
+    "group_name": "prevalent, dominant, frequent, predominant",
+    "level": "TEM-8",
+    "target_word": "prevalent",
+    "question": "Cognitive anthropologists observe that animistic interpretations of natural phenomena remain unexpectedly ___ among certain subcultures, existing as a pervasive cultural undercurrent rather than an institutionalized dogma with governing authority.",
+    "options": [
+      "prevalent",
+      "dominant",
+      "frequent",
+      "predominant"
+    ],
+    "answer": "prevalent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrastive clause 'rather than an institutionalized dogma with governing authority' directly eliminates 'dominant' and 'predominant' (which denote ruling authority and supremacy over competitors), while 'a pervasive cultural undercurrent' describes widespread diffuse distribution across a demographic, precluding 'frequent' (which requires discrete temporal recurrence).",
+    "distractor_analysis": {
+      "prevalent": "正确。指某种观念、习俗或心理倾向在特定社群或空间内“普遍存在的、广泛流行的”（widespread in a particular area or group）。句中 animistic interpretations 作为一种认知观念，与后文 existing as a pervasive cultural undercurrent（作为弥散的文化暗流）精准契合，表达该认知在亚文化群体中广泛蔓延的分布特征。",
+      "dominant": "错误。强调处于支配地位、占统治优势或拥有至高权力（commanding, controlling, or prevailing over all others）。后文的 rather than an institutionalized dogma with governing authority（而非具有统辖权威的建制化教条）构成了明确的反义排除锚点，在语义上直接排除了带有“统领性、支配性”的 dominant。",
+      "frequent": "错误。属于时间维度的频度形容词，意为“频繁发生的、屡次出现的”（recurring at short intervals），其选择限制要求修饰时间轴上离散、可数、重复发生的事件或行为动作。此处主语为抽象认知观念（interpretations），描述其在社群中的弥漫存在状态，无法使用 frequent 修饰（观念不能被称为“频繁的”）。",
+      "predominant": "错误。核心语义为“占主导地位的、占绝大多数的、最突出的”（having superior power, influence, or prominence over others），强调在数量或影响力上压倒其他竞争对象。句中明确将其界定为 pervasive undercurrent（底层暗流），表明其并未处于主导或首要地位，故与语境逻辑矛盾。"
+    },
+    "translation": "认知人类学家观察到，对自然现象的泛灵论解读在某些亚文化群体中依然出人意料地普遍存在，它们只是一股弥漫的文化暗流，而非具有统辖权威的建制化教条。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_02",
+    "group_id": 561,
+    "group_name": "prevalent, dominant, frequent, predominant",
+    "level": "TEM-8",
+    "target_word": "prevalent",
+    "question": "Although fatalistic defeatism is neither the governing philosophy nor the primary complaint within corporate culture, it remains distressingly ___ across competitive industries, quietly undermining employee morale.",
+    "options": [
+      "prevalent",
+      "dominant",
+      "frequent",
+      "predominant"
+    ],
+    "answer": "prevalent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "'Neither the governing philosophy' categorically excludes 'dominant', while 'nor the primary complaint' strictly excludes 'predominant' (=primary/foremost). Furthermore, the subject 'fatalistic defeatism' is a continuous cognitive orientation rather than an eventive repetition, excluding 'frequent' and necessitating 'prevalent' to denote widespread occurrence across an industry.",
+    "distractor_analysis": {
+      "prevalent": "正确。用于表示某种心态、倾向或现象在特定群体或领域内“普遍存在的、普遍猖獗的”。fatalistic defeatism（宿命论式的消极情绪）属于不可数的持续性认知状态，与介词短语 across competitive industries 形成典型搭配，准确表达不良心态在行业内的弥漫与普遍存在。",
+      "dominant": "错误。侧重于统治性、控制权或支配地位（exercising paramount influence or mastery）。句首让步状语从句 neither the governing philosophy（既非统领全局的哲学）形成了明确的互斥锚点，直接否定了该心态具有“支配地位”，填入 dominant 会产生严重的前后逻辑矛盾。",
+      "frequent": "错误。语义范畴冲突。frequent 严格修饰在时间维度上高频复发的可数事件或行为（如 frequent interruptions, frequent complaints）。此处 defeatism 为抽象心智取向与弥散性状态，非事件化动作，无法接受 frequent 的时序修饰（即不能说某种心理状态本身是“频繁的”），属于典型的选择限制（selectional restriction）违背。",
+      "predominant": "错误。意为“最主要的、占优势地位的、首要的”（having greater importance or being the largest in quantity among others）。从句中的 nor the primary complaint（亦非最主要的抱怨诉求）设立了排他条件，明确排除将其视作“首要的、占绝对主导的”地位，因而与 predominant 发生语义重叠与抵触。"
+    },
+    "translation": "尽管宿命论式的消极心态在企业文化中既非主导哲学，亦非员工最主要的诉求，但这种心态在竞争激烈的各行业中仍令人堪忧地普遍蔓延，悄然侵蚀着员工士气。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_03",
+    "group_id": 562,
+    "group_name": "sizeable, big, ample, large",
+    "level": "TEM-8",
+    "target_word": "sizeable",
+    "question": "Categorized by researchers as neither negligibly minor nor definitively large, the recorded discrepancy in cognitive processing speed represents a ___ developmental shift that warrants rigorous longitudinal scrutiny.",
+    "options": [
+      "sizeable",
+      "big",
+      "ample",
+      "large"
+    ],
+    "answer": "sizeable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首定语短语 'Categorized by researchers as neither negligibly minor nor definitively large'（被研究人员归类为既非微不足道、亦非绝对巨大）构成了决定性的标度排他锚点：它在语义上明确排除了量级极值（negligibly minor 与 definitively large），精准锁定了处于中间梯度的 'fairly large / considerable'（相当大的）。",
+    "distractor_analysis": {
+      "sizeable": "正确。Merriam-Webster将其权威释义为 'fairly large'（相当大的；中偏偏大但未至极端的）。句中前置修饰语明确限定该差异 'neither negligibly minor nor definitively large'，sizeable 完美切合这种介于微小与极端巨大之间的显著量级区间，精确表达出该认知转变虽未达极端但仍相当显著、值得深入追踪的学术内涵。",
+      "big": "错误。big 属于日常口语与初级英语词汇，在认知神经科学与发展心理学的正式学术文本中存在严重的语体风格冲突（register clash）；此外，big 在语义上与 large 同义，同样违背了句首 'neither ... nor definitively large' 的逻辑排除条件。",
+      "ample": "错误。ample 侧重于 'more than adequate; plentiful; generous'（充裕的、足够使用的），通常带有正向色彩，形容满足某种需求所需的物资、时间或证据（如 ample evidence, ample time）。本句修饰的是 developmental shift（发育性转变）及 cognitive discrepancy（认知差异），差异与认知偏差属于客观现象或功能性偏离，不能用表示'充裕/富余供应'的 ample 来修饰，存在严重的语义范畴搭配不当（category error）。",
+      "large": "错误。句首悬垂分词结构已作出明确的限定性陈述——'Categorized ... as neither negligibly minor nor definitively large'，若在空格处重新填入 large，将直接引发前后逻辑自我矛盾（self-contradiction），在语义逻辑上完全不成立。"
+    },
+    "translation": "研究人员认为，所记录的认知加工速度差异既非微不足道，也未达到绝对显著的程度，它代表了一种相当大的发育性转变，值得进行严密的纵向追踪研究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_04",
+    "group_id": 562,
+    "group_name": "sizeable, big, ample, large",
+    "level": "TEM-8",
+    "target_word": "sizeable",
+    "question": "While the experimental task required only moderate visual attention, it demanded a ___ expenditure of executive control, falling just shy of what neuroscientists classify as a truly large cognitive burden.",
+    "options": [
+      "sizeable",
+      "big",
+      "ample",
+      "large"
+    ],
+    "answer": "sizeable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句末伴随状语 'falling just shy of what neuroscientists classify as a truly large cognitive burden'（恰好略低于神经科学家所界定的真正庞大的认知负荷）是核心排他锚点：它以明确的上限边界排除了 large 这一量级，同时要求所填形容词表达出'虽未达最高界限但量级相当可观'（fairly large / considerable）的核心概念，且 expenditure of executive control 属于能量损耗，排斥表富余满足的词汇。",
+    "distractor_analysis": {
+      "sizeable": "正确。符合 Merriam-Webster 定义的 'fairly large'。句中结构先以 moderate（中度的）作低位对照，再以 'falling just shy of ... truly large'（略低于真正庞大的）作高位界定，精准锁定了 sizeable（可观的、相当大的）这一处于中高位进阶区间的词义，恰如其分地体现出执行控制资源消耗之显著。",
+      "big": "错误。首先，big 属于基础通俗词汇，与认知神经科学学术论文的严谨文体（academic register）格格不入；其次，big 在意义标度上与 large 重叠，同样被句末 'falling just shy of ... truly large' 所设立的语义门槛排除。",
+      "ample": "错误。ample 强调满足目的或期望的'充分性与富余量'（more than enough, abundant），常用于积极意义的供给与资源储备。句中的 expenditure（耗费、支出）与 burden（负担）指涉注意资源的消耗与认知心理负荷，是一种损耗性、代价性的概念，绝不能使用暗示'富足充盈'的 ample 修饰（不存在所谓'充裕/丰盛的损耗'），存在严重的语境反转与搭配破裂。",
+      "large": "错误。句末已明确声明该耗费 'falling just shy of what neuroscientists classify as a truly large cognitive burden'（略低于真正的 large 负荷），若在此填入 large，则导致该支出既'是 large'又'未达到 large'，构成无法调和的语意断裂与逻辑硬伤。"
+    },
+    "translation": "尽管这项实验任务仅需要中等程度的视觉注意，但它却需要消耗相当多的执行控制资源，恰好略低于神经科学家所界定的真正庞大的认知负荷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_05",
+    "group_id": 563,
+    "group_name": "standing, erect, upright, vertical",
+    "level": "TEM-8",
+    "target_word": "standing",
+    "question": "Under the revised conservation covenant, regional authorities calculate carbon offsets strictly by the volume of ___ timber preserved across native woodlands, explicitly penalizing commercial operations that fell mature trees.",
+    "options": [
+      "standing",
+      "erect",
+      "upright",
+      "vertical"
+    ],
+    "answer": "standing",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中“preserved across native woodlands”（在原生林地中保留）与后半句“fell mature trees”（砍伐成熟树木）构成明确的林业二元对立；在林业经济学、资源估值与环境法学中，“standing timber”（立木/存活林木）是专门指代活立未砍伐木材的法定排他性术语，与被砍伐的原木（felled/severed timber）形成严密对比。",
+    "distractor_analysis": {
+      "standing": "正确。根据《韦氏词典》辨析，standing 用于自然界实体时，核心意义为“处于挺立生长状态，区别于倒伏、平卧或被砍伐（as opposed to being down, recumbent, or felled）”。在环境法与林业资源核算中，“standing timber”是固定专有名词，特指林地中依然存活生长、未被采伐的活立木，与句末“fell mature trees”构成绝对互斥的法律与逻辑闭环。",
+      "erect": "错误。erect 强调物体或生物体在物理上呈现“笔直挺拔、无弯曲”的垂直刚硬姿态（rigidly upright，如 an erect posture），植物学中多修饰微观的直立茎干或花序（erect stem），不能与作为大宗自然资源资产的名词 timber 连用表达活立未采伐的法律状态。",
+      "upright": "错误。upright 虽表示垂直于水平面，但在建筑结构与木构工程中，“upright timber”专指建筑框架中的“垂直立柱/竖向木构件”（vertical post or stud），而非林野中活立生长的林木资产，代入生态碳汇核算语境中存在概念破裂。",
+      "vertical": "错误。vertical 是纯几何学方位词，指垂直于地平线的方向，在木材加工与建材行业中专指“垂直木纹板材”（vertical-grain timber）或建筑学中的“垂直木护墙板”（vertical timber cladding），完全不具备“扎根存活、未遭砍伐”的法律与资源留存义项。"
+    },
+    "translation": "根据修订后的保护公约，地方管理机构严格根据原生林地中保留的立木蓄积量来核算碳抵消额度，并对砍伐成熟树木的商业经营活动予以明确处罚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_06",
+    "group_id": 563,
+    "group_name": "standing, erect, upright, vertical",
+    "level": "TEM-8",
+    "target_word": "standing",
+    "question": "When municipal transit authorities operate railcars beyond their seated capacity, safety regulations mandate specialized grab rails and non-slip flooring to protect ___ passengers from losing their equilibrium during abrupt deceleration.",
+    "options": [
+      "standing",
+      "erect",
+      "upright",
+      "vertical"
+    ],
+    "answer": "standing",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中“beyond their seated capacity”（超出坐席承载力）与后文“mandate specialized grab rails... to protect ___ passengers from losing their equilibrium”构成了严格的人体功能姿态对立（“坐姿”与“站姿”）；在交通安全工程与法规语域中，用以界定无座乘车状态的规范学术用语唯有“standing passengers”（站立乘客）。",
+    "distractor_analysis": {
+      "standing": "正确。根据《韦氏词典》，standing 用于修饰人时，专门表征“处于站立姿态，以区别于坐着或躺着（in an upright posture as opposed to being seated or recumbent）”。交通运输法规与人机工程学中，与“seated passengers”（坐席乘客）形成标准对应与分类统计的专有术语即为“standing passengers”，与句中的 seated capacity 构成严丝合缝的语意照应。",
+      "erect": "错误。erect 强调躯干如标枪般紧绷、僵硬、笔直挺拔（如军人的立正姿态 an erect posture）；公共交通工具中的站立乘客为在车辆晃动和减速中维持平衡，通常采取双腿微屈、身体倾斜的动态姿势，用 erect 修饰不仅语义不符，且在英语中完全不存在“erect passengers”这一畸形搭配。",
+      "upright": "错误。upright 用于修饰人（upright people/citizens）时，其主要转义为伦理道德维度的“正直、廉洁、品行端正”（honorable and morally respectable）；若置于句中修饰乘客，将产生“保护品行端正的乘客”这一荒谬的语义错位，脱离交通物理防护语境。",
+      "vertical": "错误。vertical 属于空间几何度量术语（垂直于水平基准面），若用于直接修饰人体乘客，属于严重的范畴错配（category mistake），不符合学术英语的人体工程学表达规范。"
+    },
+    "translation": "当市政公交主管当局超坐席承载力运营轨道列车时，安全法规强制要求安装专用扶手与防滑地板，以保护站立乘客在急剧减速过程中不至失去平衡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_07",
+    "group_id": 564,
+    "group_name": "supplementary, auxiliary, secondary, subsidiary",
+    "level": "TEM-8",
+    "target_word": "supplementary",
+    "question": "Because the print journal imposed stringent page limitations, the researchers deposited their extensive raw datasets, extended mathematical proofs, and full methodological protocols as ___ materials in the publisher's online institutional repository.",
+    "options": [
+      "supplementary",
+      "auxiliary",
+      "secondary",
+      "subsidiary"
+    ],
+    "answer": "supplementary",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ACADEMIC_RESEARCH",
+    "anchor_clue": "决定性锚点在于现代学术出版与开放获取规范（imposed stringent page limitations... deposited raw datasets, extended proofs, and methodological protocols... in the publisher's online institutional repository）。在权威学术期刊编撰规范中，随正文附带并在网络端归档的原始数据与补充说明唯一专称为'supplementary materials'（补充材料）；而'secondary materials'在学术分类学中具有严格排他性专指'二手文献/衍生资料'，与句中的一手原始数据产生严重概念倒错；auxiliary与subsidiary则存在显著的语域及搭配断裂。",
+    "distractor_analysis": {
+      "supplementary": "正确。在当代学术期刊出版（如Nature Portfolio、Science/AAAS、OUP等）与科研交流规范中，'supplementary materials'（补充材料，亦作supplementary information/data）是绝对标准化的专有名词，特指因正刊纸质版面限制（page limitations）而单独收录于线上知识库、用以充实论文主体完整性的作者原始数据集、长篇数学证明及详细实验方案。",
+      "auxiliary": "错误。auxiliary核心语义为“备用的、辅助支援的”，多用于修饰机械动力系统、后备设施或辅助人员（如 auxiliary engine, auxiliary power, auxiliary staff），在学术文献学与学术出版语境中不存在以'auxiliary materials'指代论文附录补充材料的规范用法，语域明显不合。",
+      "secondary": "错误。在学术文献学与研究方法论中，'secondary materials'（二手资料/第二手文献）具有严格的学科专有界定，特指评述、归纳或阐释他人原初成果的衍生文本（如文献综述、书评或教材）。句中明确列举的'raw datasets'（原始数据集）与'mathematical proofs'（数学证明）属于典型的一手研究材料（primary sources/data），若填入secondary materials将导致严重的学术概念混淆与逻辑倒错。",
+      "subsidiary": "错误。subsidiary着重指在组织架构、法律实体或科层体系中的“隶属关系、下级地位”（如 subsidiary company 子公司、subsidiary body 附属机构），其修饰重点是等级从属性而非内容的补足与完善，完全不能用于修饰学术论文中的附录补充资料。"
+    },
+    "translation": "由于印刷期刊对版面篇幅有着严苛的限制，研究人员将他们庞大的原始数据集、详细的数学证明以及完整的实验方法方案作为补充材料存放在出版商的在线机构知识库中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_08",
+    "group_id": 564,
+    "group_name": "supplementary, auxiliary, secondary, subsidiary",
+    "level": "TEM-8",
+    "target_word": "supplementary",
+    "question": "Confronted with unforeseen humanitarian expenditures that depleted the annual fiscal allocation, the legislature convened an extraordinary session to ratify a ___ budget designed to sustain emergency relief operations.",
+    "options": [
+      "supplementary",
+      "auxiliary",
+      "secondary",
+      "subsidiary"
+    ],
+    "answer": "supplementary",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "决定性排他锚点在于宏观公共财政与立法拨款语境（the legislature convened an extraordinary session to ratify a ___ budget）与财政缺口动因（depleted the annual fiscal allocation）。在宪政与公共财政学中，立法机关为弥补常规预算不足而追加的预算案，唯一法定且通行的术语是'supplementary budget'（追加预算）；subsidiary budget专指母子公司体系下的'子公司预算'，产生范畴谬误，而auxiliary与secondary在公共财政体系中均无此类搭配。",
+    "distractor_analysis": {
+      "supplementary": "正确。在宏观政策与公共财政法学语境中，supplementary budget（追加预算/补充预算）是官方规范且唯一的法定术语，指立法机关在常规年度预算（annual fiscal allocation）告罄后，为维持突发紧急支出而依法审议通过的追加拨款方案。",
+      "auxiliary": "错误。auxiliary 侧重于功能性的备用支撑（如 auxiliary equipment, auxiliary units），在公共财政与立法治理领域不存在“auxiliary budget”这一术语搭配。",
+      "secondary": "错误。secondary 强调衍生性、间接性或从属性（如 secondary market, secondary infection），公共财政体制中不存在“secondary budget”这一制度性实体概念。",
+      "subsidiary": "错误。subsidiary 在财经与公司治理中具有极高的排他性专有语义，专指“母公司控股下的子公司”（如 subsidiary company, subsidiary budget 指子公司预算）；将其置于主权国家立法机构审批紧急救灾拨款的语境中，属于严重的范畴错位与语域断裂。"
+    },
+    "translation": "面对耗尽年度财政拨款的不可预见之人道主义支出，立法机关召开特别会议，批准了一项旨在维持紧急救援行动的追加预算。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_09",
+    "group_id": 565,
+    "group_name": "tonic, brisk, fresh, refreshing",
+    "level": "TEM-8",
+    "target_word": "tonic",
+    "question": "Far from derailing the faculty's research agenda, the visiting philosopher's rigorous critique exerted a distinctly ___ influence, restoring intellectual vigor to a department long plagued by theoretical complacency and methodological inertia.",
+    "options": [
+      "tonic",
+      "brisk",
+      "fresh",
+      "refreshing"
+    ],
+    "answer": "tonic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "restoring intellectual vigor to a department long plagued by theoretical complacency and methodological inertia",
+    "distractor_analysis": {
+      "tonic": "正确。tonic作为形容词源于医学隐喻，意为“强身健体的、滋补的、激发活力的”（imparting vitality and energy），在高级学术和思想语境中专指对萎靡不振、停滞或自满状态产生“起死回生般振奋、恢复元气”的补益作用。句中“restoring intellectual vigor”（恢复智力活力）与“complacency and inertia”（自满与惰性）构成明确的病理与滋补性对照，与tonic构成了精确的语义共振与搭配。",
+      "brisk": "错误。brisk主要强调节奏的敏捷、动作的轻快利落（如a brisk pace）或空气的凛冽清新，无法表示对某种长期怠惰、衰退系统进行深层“滋养复苏与重振活力”的认知或思想影响。",
+      "fresh": "错误。fresh侧重新鲜、新颖或未被污染（如fresh perspective/ideas），强调“时间上的初生”或“与旧事物不同”，缺乏针对“衰竭、自满状态施以药物般重振恢复”的主动滋补与提振语义。",
+      "refreshing": "错误。refreshing强调令人身心愉悦的清凉、舒缓或因不落俗套而使人感到惬意（pleasantly novel or distinct），语力偏于温和主观，无法匹配后文由“严厉批判”（rigorous critique）所带来、旨在根治惰性的“强力重振与药效性激荡”。"
+    },
+    "translation": "这位客座哲学家的严谨批判非但没有干扰该学系的科研议程，反而发挥了一种显著提振元气的作用，为这个长期饱受理论自满和方法论惰性困扰的学系重新注入了学术活力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_10",
+    "group_id": 565,
+    "group_name": "tonic, brisk, fresh, refreshing",
+    "level": "TEM-8",
+    "target_word": "tonic",
+    "question": "Although the regulatory reforms initially provoked consternation across capital markets, economists argued that such astringent measures provided a ___ shock, reviving competitive discipline within an otherwise stagnant banking sector.",
+    "options": [
+      "tonic",
+      "brisk",
+      "fresh",
+      "refreshing"
+    ],
+    "answer": "tonic",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "astringent measures provided a ___ shock, reviving competitive discipline within an otherwise stagnant banking sector",
+    "distractor_analysis": {
+      "tonic": "正确。此处考查tonic的深度认知隐喻搭配（a tonic shock/effect），意为“起提振、复苏作用的”。句中“astringent measures”（严厉/苦涩紧缩的举措）与后文“reviving... stagnant banking sector”（使停滞的银行业恢复竞争纪律）构成医学式的因果逻辑——犹如一剂苦口良药，带来能“激活生命力与纪律”的提振性震荡，完全符合tonic作为“赋能复苏”的核心义项。",
+      "brisk": "错误。brisk修饰步伐、贸易活跃度或寒意，不能与shock搭配表示“带来系统性复苏与活力的震荡”。",
+      "fresh": "错误。fresh修饰shock时（a fresh shock）构成固定搭配，仅表示“新接踵而至的打击/震惊”（another unpleasant shock），与后半句积极复苏（reviving competitive discipline）的修辞意图产生严重逻辑矛盾与极性颠倒。",
+      "refreshing": "错误。refreshing传达的是令人轻松愉悦的舒畅感，与“astringent measures”（严酷苦涩的举措）及“shock”（震荡）在文体风格和情感色彩上产生严重冲突，缺乏治理危机时所蕴含的严肃性与药效张力。"
+    },
+    "translation": "尽管监管改革最初在资本市场引发了恐慌，但经济学家指出，此类紧缩性举措实则带来了一剂强心震荡，让原本陷入停滞的银行业重新焕发了竞争纪律。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_11",
+    "group_id": 566,
+    "group_name": "unswerving, staunch, constant, steadfast",
+    "level": "TEM-8",
+    "target_word": "unswerving",
+    "question": "Despite methodological upheavals and alluring intellectual detours, the cognitive scientist maintained her ___ trajectory of empirical inquiry, never once veering from the foundational principles articulated in her seminal monograph.",
+    "options": [
+      "unswerving",
+      "staunch",
+      "constant",
+      "steadfast"
+    ],
+    "answer": "unswerving",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键的决定性锚点在于前置的“alluring intellectual detours”（诱人的学术歧路/弯路）以及后置的分词短语“never once veering from...”（绝不偏离……）。动词 veer（偏向、偏离既定方向）与名词 detour（弯路、歧途）共同构建了高度具象的“方向导航与侧向偏转（directional navigation and lateral deflection）”隐喻场。修饰表动态行进路线的核心名词 trajectory（轨迹/历程），唯一能够精准表达“在既定路线上直行前驱、绝不向旁侧偏转（not turning aside or changing direction; steady, unfaltering）”的词汇只有 unswerving（词源直接派生自 swerve，即突然偏离直线或既定路线）。原句中以物主代词 her 替换了原先造成语音线索泄漏的冠词 an，使四个选项在音位与句法形态上均完全平行，纯粹考验深层词义辨析与搭配精确度。",
+    "distractor_analysis": {
+      "unswerving": "正确。根据《韦氏词典》，unswerving 意为“not swerving: not turning aside or changing direction; steady, unfaltering”，强调在追求目标、路线或原则的过程中“绝不向旁侧转弯、决不偏离主线”。它与句中的“detours”（歧路/弯路）、“trajectory”（前进轨迹）以及“veering”（偏斜）形成严密完整的词源与修辞呼应，最地道、最精准地传达了学者在认知探索中抵御诱惑、保持直行不偏的高阶学术品格。",
+      "staunch": "错误。staunch（源自古法语 estanche，意为紧密不漏水的）主要用于形容人、政治阵营或对特定立场/人物的坚定支持，典型搭配为人物角色或防护性立场（如 staunch supporter, staunch ally, staunch advocate, staunch resistance）。staunch 侧重于“立场的忠实稳固与捍卫”，不能用于修饰表动态前进方向或认知路径的抽象名词 trajectory（英语中不存在 *staunch trajectory 的用法），存在不可调和的搭配断裂（collocational rupture）。",
+      "constant": "错误。constant 侧重于时间维度上的“持续不间断（continuing without pause）”或物理/数理意义上的“数值或状态恒定不变（invariable in value or rate）”。在本句中，学术探究面临的核心挑战并非是“在时间上是否发生间断或停滞”，而是在诱惑面前“方向是否发生了侧向偏离（detours / veering）”。若使用 constant trajectory，仅会产生物理学意义上的机械“匀速/恒定轨迹”，完全脱离了句中所构筑的抵制学术偏向的主观意志与道德隐喻。",
+      "steadfast": "错误。steadfast 源自古英语 stedefæst（stede [位置/原地] + fæst [固定/牢靠]），核心语义在于“牢牢扎根于原地不动”，强调在面临外界反对、逆境或风暴时“守住阵地、毫不动摇或屈服”（standing firm in one's place or resolve）。一方面，steadfast 侧重于静态的立定与坚守（如 steadfast faith, steadfast gaze, remain steadfast），与 trajectory 具有的动态向前延伸属性产生语义张力；另一方面，它无法与句中“detours”和“veering”所构成的横向偏转语义轴（swerve vs. veer）形成专属性的词源与反义逻辑扣合。"
+    },
+    "translation": "尽管面临方法论上的剧变与极具诱惑的学术弯路，这位认知科学家依然保持了其直行不偏的经验探究方向，从未偏离其奠基性专著中所阐明的基础原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_12",
+    "group_id": 566,
+    "group_name": "unswerving, staunch, constant, steadfast",
+    "level": "TEM-8",
+    "target_word": "unswerving",
+    "question": "Throughout three decades of systemic reform, the transitional government maintained its ___ trajectory toward constitutional democracy, never veering into autocratic populism despite severe economic volatility and pervasive regional unrest.",
+    "options": [
+      "unswerving",
+      "staunch",
+      "constant",
+      "steadfast"
+    ],
+    "answer": "unswerving",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "句中的核心被修饰名词为 trajectory（政治/历史发展的动态前进轨迹），方向介词短语为 toward constitutional democracy，伴随状语为 never veering into...（绝不偏向/急转至……）。veer（偏航、急转）与 swerve 在词源及语义上为直接同义对映。unswerving 意为“不偏斜、不偏离航向的”，与 trajectory 构成政论英语中的经典固定搭配。其余选项因名词搭配限制、静态/动态语义冲突或时序内涵差异均被绝对排除。",
+    "distractor_analysis": {
+      "unswerving": "正确。unswerving 意为“不偏离方向的、坚定不移的”，其词根 swerve 指“转弯、突然转向”，引申为进程中“不偏离既定轨道与目标”。句中被修饰词为 trajectory（前进轨迹），后接状语 never veering into...（veer 与 swerve 同义）。unswerving trajectory 为高级学术与政论英语中的经典搭配，在词源、几何空间隐喻及上下文逻辑上均形成无可替代的契合。",
+      "staunch": "错误。staunch（坚定的、忠贞的）在语义选择限制（selectional restriction）上具有极强的施事性与情感性，几乎专门修饰人、派系立场或拥护态度（如 a staunch defender 坚定的捍卫者, a staunch ally 坚定的盟友, staunch loyalty 坚定忠诚）。将 staunch 用于修饰描述客观行进路径的抽象名词 trajectory，属于严重的语义范畴错配（category error）与搭配断裂。",
+      "constant": "错误。constant 侧重于时间上的“连绵不断、反复发生”（temporal continuity，如 constant disruptions）或数值/状态上的“恒定不变”（invariability，如 constant velocity）。修饰向特定目标挺进的政治路径 trajectory 时，constant 无法传达“不向两侧偏离”的方向性意志，亦不能与后文的 never veering into 产生词汇呼应。",
+      "steadfast": "错误。steadfast 源自古英语 stede-fæst（stede 即 place 原地，fæst 即 fixed 固定），其核心认知图式为“原地固守、定点屹立、寸步不让”（immobile and fixed in place），主要用于修饰防御性姿态或心智状态（如 steadfast resistance 坚决抵抗, steadfast refusal 坚决拒绝）。而 trajectory（轨迹）本质上是动态的前进运动（dynamic forward movement）。用强调“原地不动”的 steadfast 修饰动态前进的 trajectory 存在根本性的认知语义冲突，英语中不存在 steadfast trajectory 的表达。"
+    },
+    "translation": "在系统性改革的三十年间，过渡政府保持了走向宪政民主的坚定轨迹，尽管遭遇严重的经济动荡和普遍的地区动乱，却从未偏向专制民粹主义。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_13",
+    "group_id": 567,
+    "group_name": "vehement, fierce, violent, intense",
+    "level": "TEM-8",
+    "target_word": "vehement",
+    "question": "Despite the embattled minister's ___ protestations of innocence before the parliamentary inquiry, newly declassified archival records conclusively demonstrated that he had covertly orchestrated the illicit arms transactions.",
+    "options": [
+      "vehement",
+      "fierce",
+      "violent",
+      "intense"
+    ],
+    "answer": "vehement",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "The noun phrase '___ protestations of innocence before the parliamentary inquiry' provides an indisputable lexical and stylistic anchor. Major authoritative lexicons (Oxford Collocations Dictionary, Merriam-Webster) define 'vehement protestations of innocence' as the classic, high-register idiom for impassioned, morally indignant verbal affirmations of purity, uniquely selecting 'vehement' over aggressive, physical, or inward alternatives.",
+    "distractor_analysis": {
+      "vehement": "正确。vehement 源自拉丁语 vehemens（狂热的、猛烈的），Merriam-Webster 释为 'marked by forceful energy; intensely emotional; forcibly expressed'，核心指言辞、主张或抗辩中充满激越的情感与道德义愤。'vehement protestations of innocence'（极力申辩清白/信誓旦旦声称无罪）是英语政论、法庭与高级新闻语篇中极为经典的权威固定搭配（Oxford Collocations Dictionary 专门收录），完美契合部长在听证会上言辞激烈、坚决自白的语境。",
+      "fierce": "错误。fierce 侧重于外向的凶猛、残暴攻击性（savagery）或对抗双方的恶性争夺（如 fierce resistance, fierce debate, fierce loyalty；亦可修饰对外反击的 fierce denial）。但 protestation 本义为对自身清白或立场的“庄严宣示、恳切申明”（an earnest, solemn avowal），并非针对对手的主动攻击性厮杀；修饰 protestations of innocence 时存在严重的语义冲突与搭配失配，在权威语料库（COCA/BNC）中 'fierce protestations of innocence' 检索频次为零。",
+      "violent": "错误。violent 的核心义素为具有破坏性、致伤性的物理暴力或身体强制力（destructive physical force），如 violent crime, violent overthrow。用于正式的议会质询（parliamentary inquiry）语境修饰言语自白 'protestations' 会产生荒谬的语意扭曲，误指部长的抗辩伴随着打砸肢体暴力或病态狂暴，严重破坏学术与政治文体的得体性。",
+      "intense": "错误。intense 侧重于内在程度、浓度或压力达到极点（如 intense scrutiny, intense heat, intense grief），主要描述心理感受或环境条件的持续、内敛或被动承受状态，不具备向外投射、铿锵有力的言语表态特征，无法作施事性修饰语修饰具体的言语反驳与申白行为，'intense protestations' 属于典型的搭配破裂（collocational rupture）。"
+    },
+    "translation": "尽管这位四面楚歌的部长在议会质询中极力申辩自己的清白，但最新解密的档案记录确凿地证明，他曾秘密策划了这些非法军火交易。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_14",
+    "group_id": 567,
+    "group_name": "vehement, fierce, violent, intense",
+    "level": "TEM-8",
+    "target_word": "vehement",
+    "question": "When the autocratic director unilaterally altered the departmental curriculum, the faculty senate issued a ___ remonstrance, asserting that such administrative overreach violated the fundamental tenets of shared academic governance.",
+    "options": [
+      "vehement",
+      "fierce",
+      "violent",
+      "intense"
+    ],
+    "answer": "vehement",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The head noun 'remonstrance' (a formal, principled protest or expostulation presented to an authority) demands a modifier denoting impassioned ethical objection. 'Vehement remonstrance' is the only stylistically and semantically congruent pairing.",
+    "distractor_analysis": {
+      "vehement": "正确。Merriam-Webster 将 vehement 释为 'marked by extreme intensity of emotions or convictions; fervid'。remonstrance 指向管理权威提出的正式、理据充分且饱含原则的规诫与抗议。'vehement remonstrance' 是高阶学术英语与宪政哲学中的典雅搭配，准确描绘出教授评议会面对专权越位时爆发出的强烈原则性愤怒与坚定抗辩立场。",
+      "fierce": "错误。fierce 强调野性、凶猛、残忍或肉搏式的猛烈敌意（如 fierce resistance in battle, fierce predator）。remonstrance 属于大学制度框架内的理性抗议文书或正式建言，与带有野蛮动物性或肉体厮杀意味的 fierce 搭配会产生严重的语域冲突（stylistic clash）。",
+      "violent": "错误。violent 必须具备物理层面的破坏力或致害力（destructive physical force）。评议会 'issued a remonstrance' 是一种通过决议案或公函进行的程序性言论行为，修饰以 violent 会造成严重的范畴谬误（category mistake），字面意思会蜕变为暴力骚乱式的破坏行为，与后文基于原则的理性申辩彻底割裂。",
+      "intense": "错误。intense 侧重于心理状态的高度紧张、能量的高度聚焦或感官刺激的极度剧烈（如 intense concentration, intense devotion），描述的是静态深度或向内的强度，无法用来修饰指向外部权威、表达强烈抗议的施事性言辞行为（remonstrance）。"
+    },
+    "translation": "当独断专行的院长单方面更改院系课程体系时，教授评议会提出了激烈的抗议，坚称此类行政越权行为侵犯了大学共同治理的基本原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_15",
+    "group_id": 568,
+    "group_name": "veritable, genuine, authentic, unquestionable",
+    "level": "TEM-8",
+    "target_word": "veritable",
+    "question": "The cognitive scientist observed that untangling multilingual subtext in diplomatic discourse represents a ___ minefield of latent biases, where minor interpretive missteps regularly ignite severe cross-cultural confrontations.",
+    "options": [
+      "veritable",
+      "genuine",
+      "authentic",
+      "unquestionable"
+    ],
+    "answer": "veritable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Followed by the evocative metaphorical construct 'minefield of latent biases', which demands an intensifier uniquely used to validate and emphasize the aptness of a metaphor rather than asserting physical or factual reality.",
+    "distractor_analysis": {
+      "veritable": "正确。veritable源自拉丁语veritas（真实），在现代高级学术与政论英语中最核心的修辞功能是作为定语修饰隐喻性名词（韦氏词典明确指出：'often used to stress the aptness of a metaphor'，意为'名副其实的、简直是…的'）。本句中'minefield'（地雷区）是比喻跨文化认知与外交潜台词中的危险障碍，veritable完美契合此修辞强化机制，肯定该隐喻的生动与贴切。",
+      "genuine": "错误。genuine强调物质、情感或属性上的'真挚、非伪造、实打实'（如genuine leather, genuine remorse）。若在此处修饰'minefield'，会产生词义字面化（literalization）谬误，误指真正布设了爆炸性地雷的军事实体地雷区，与后文抽象的'latent biases'（潜在偏见）发生严重的范畴语义冲突。",
+      "authentic": "错误。authentic侧重来源、出处、传统或风格的'真实可信、经得起考证'（如authentic manuscript, authentic cuisine）。它绝不能用作比喻性夸张修饰语，无法修饰抽象的认知隐喻'minefield'。",
+      "unquestionable": "错误。unquestionable意为'无可置疑的、确凿无疑的'（如unquestionable loyalty, unquestionable evidence），用于修饰命题的真值或事实的确定性，若与形象隐喻名词'minefield'直接搭配，构成严重的搭配破裂（collocational rupture），语义不通。"
+    },
+    "translation": "这位认知科学家指出，理清外交辞令中多语种的潜在含义宛如踏入一片名副其实的隐性偏见雷区，其中微小的理解偏差便常常诱发严重的跨文化冲突。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_16",
+    "group_id": 568,
+    "group_name": "veritable, genuine, authentic, unquestionable",
+    "level": "TEM-8",
+    "target_word": "veritable",
+    "question": "The institute's newly digitized repository represents a ___ cornucopia of empirical data on human cognitive development, affording developmental psychologists an unprecedented wealth of longitudinal observations spanning three decades.",
+    "options": [
+      "veritable",
+      "genuine",
+      "authentic",
+      "unquestionable"
+    ],
+    "answer": "veritable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Modifies the highly idiomatic figurative trope 'cornucopia of empirical data', requiring the exclusive academic pre-nominal intensifier that ratifies an imaginative abundance metaphor.",
+    "distractor_analysis": {
+      "veritable": "正确。'a veritable cornucopia of...'（名副其实的宝库/丰富源泉）是极具学术质感的高频经典搭配。cornucopia本义为古典神话中象征丰饶的'丰裕之角'，在此作比喻义（表示海量、丰富的资源）。veritable作为专用隐喻加重限定词，恰到好处地确认了'数字化知识库犹如丰饶之角'这一修辞比喻的恰切性。",
+      "genuine": "错误。genuine意为'正宗的、货真价实的'，用于区分赝品与仿真品。若作'a genuine cornucopia'，则语义退化为字面意义上古典雕塑或实物的'真丰裕之角'容器，完全无法在学术认知语境中充当形容海量数据的修辞放大器。",
+      "authentic": "错误。authentic意为'原真的、经鉴定的'，用于描述具有历史考证价值的原件或传统工艺。修饰数字化数据库所构成的'cornucopia'属于语义范畴错配（category mistake）。",
+      "unquestionable": "错误。unquestionable意为'不容置疑的、无可争辩的'，属于认识论范畴的判定词，用于定性结论、事实或品质的确定性（如an unquestionable truth），不能修饰文学化与修辞化的形象比喻词'cornucopia'。"
+    },
+    "translation": "该研究所最新数字化的文献库堪称人类认知发展实证数据的一座名副其实的宝库，为发展心理学家提供了跨越三十年、前所未有的丰富纵向观察资料。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_17",
+    "group_id": 569,
+    "group_name": "vernacular, common, vulgar, informal",
+    "level": "TEM-8",
+    "target_word": "vernacular",
+    "question": "During the Renaissance, humanist scholars who championed translation into the ___ idiom sought not to degrade sacred doctrine, but rather to liberate civic engagement from the rigid monopoly of ecclesiastical Latin.",
+    "options": [
+      "vernacular",
+      "common",
+      "vulgar",
+      "informal"
+    ],
+    "answer": "vernacular",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Ecclesiastical Latin",
+    "distractor_analysis": {
+      "vernacular": "正确。vernacular 在社会语言学与历史学术语境中指“本国语的、地方方言的”，专门用以指代相对于拉丁语、希腊语等古典/教会特权语言的本地母语。“vernacular idiom”是标准学术搭配，与句末“the rigid monopoly of ecclesiastical Latin”（教会拉丁语的僵化垄断）构成完美的语体与历史二元对立。",
+      "common": "错误。common 强调“普通的、大众共有的、常见的”，侧重普遍性与无特权性，无法精确表达历史语言学中特指相对于经典书面语的“本地民族母语”这一专业内涵。",
+      "vulgar": "错误。vulgar 在现代英语规范中主要带有负面评价，意为“粗俗的、庸俗的、下流的”。虽然历史上曾有名词搭配“vulgar tongue”（通俗语），但在现代学术严谨表述中，“vulgar idiom”会产生严重的贬义色彩，与句中人文主义学者所秉持的正向学术追求冲突。",
+      "informal": "错误。informal 侧重文体或行为维度的“非正式的、不拘礼节的”，用于指称用语风格而非一门独立的地域/本土母语系统，置于此处语义狭隘且语体失配。"
+    },
+    "translation": "文艺复兴时期，提倡将文本译为本土母语的人文学者并非试图贬损神圣教义，而是旨在打破教会拉丁语的僵化垄断，从而解放公民参与。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_18",
+    "group_id": 569,
+    "group_name": "vernacular, common, vulgar, informal",
+    "level": "TEM-8",
+    "target_word": "vernacular",
+    "question": "By utilizing unhewn stone and timber sourced from surrounding valleys, the regional architects revitalized ___ building techniques, rejecting sterile modernist glass in favor of indigenous craftsmanship suited to local climates.",
+    "options": [
+      "vernacular",
+      "common",
+      "vulgar",
+      "informal"
+    ],
+    "answer": "vernacular",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Indigenous craftsmanship suited to local climates",
+    "distractor_analysis": {
+      "vernacular": "正确。vernacular 在建筑学、文化地理学及设计领域为专业核心术语，专指就地取材、因地制宜且基于民间本土传统的“乡土的、民间的”。与后文“indigenous craftsmanship suited to local climates”（适应当地气候的本土工艺）以及就地采石取材的语境达成严密呼应，“vernacular building techniques”即“乡土建筑技艺”。",
+      "common": "错误。common 意为“普通的、常见的”，仅陈述普遍发生或寻常之物，缺乏“扎根于特定地域传统与本土生态”的专门文化内涵，不能体现与现代主义建筑相对的传统文化复兴。",
+      "vulgar": "错误。vulgar 意为“粗俗的、低劣的、缺乏品味的”，带有强烈的审美贬义，放在建筑师积极复兴本土精湛工艺的学术语境中产生荒谬的逻辑断裂。",
+      "informal": "错误。informal 在建筑与规划语境中通常指“非正式的、自建的、违章搭建的（如贫民窟式的非正规建筑）”，这与句中所推崇的经过深思熟虑的地域专业建筑技艺与工匠精神完全相反。"
+    },
+    "translation": "通过利用来自周边山谷的未经琢磨的原石与木材，这些地域建筑师复兴了乡土建造技艺，摒弃了刻板冷漠的现代主义玻璃结构，转而采用契合当地气候的本土传统工艺。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_19",
+    "group_id": 570,
+    "group_name": "wanton, easy, light, loose",
+    "level": "TEM-8",
+    "target_word": "wanton",
+    "question": "Far from portraying the empress as a merely compliant consort, the chronicler depicted her as a brazenly ___ sovereign whose unrestrained sexual appetites and provocative hedonism subverted the austere discipline of the imperial court.",
+    "options": [
+      "wanton",
+      "easy",
+      "light",
+      "loose"
+    ],
+    "answer": "wanton",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrastive opening 'Far from portraying the empress as a merely compliant consort' directly excludes 'easy' (which denotes yielding complaisantly), while the intense modifier 'brazenly' and the noun phrase 'unrestrained sexual appetites and provocative hedonism' collocate exclusively with 'wanton' to express shameless, active licentiousness, ruling out 'loose' and 'light'.",
+    "distractor_analysis": {
+      "wanton": "正确。wanton 在此指“放荡的、肆无忌惮沉溺于感官与性享乐的”（casual and unrestrained in sexual behavior; lewd, lustful），强调主动、公然、挑衅性的道德失控。与副词 brazenly（厚颜无耻地、公然地）以及后文 unrestrained sexual appetites and provocative hedonism 形成严密的学术级同向强化与搭配，完美切合语境。",
+      "easy": "错误。easy 在形容人涉及两性道德时指“顺从的、易受诱惑的、轻易屈从他人追求的”（readily yielding to solicitation; complaisant）。句首已用 'Far from portraying the empress as a merely compliant consort'（绝非将女皇刻画为一个仅仅百依百顺的配偶）进行明确排他，若选 easy 则与 compliant 语义重叠并推翻句意转折；此外，brazenly easy sovereign 搭配极不自然。",
+      "light": "错误。light 在古英语及文学语体中虽可修饰女性指“轻浮的、不贞的”（frivolous, fickle, inconstant in behavior），但其核心侧重在于“轻佻、浮躁、缺乏稳重严肃性”（levity），绝不能用来表达具有侵略性、主权颠覆性的“厚颜无耻的纵欲”（brazenly wanton），语力严重匮乏且搭配断裂。",
+      "loose": "错误。loose 指行为或道德“松弛的、放任的、不检点的”（lax in morals, dissolute），偏向于缺乏纪律或道德约束的懒散消极状态（如 loose morals, loose living），而无法体现出主动挑战权威的公然淫逸姿态；且 brazenly loose sovereign 在高级学术史学文体中存在严重的搭配违和（collocational rupture）。"
+    },
+    "translation": "编年史家绝非将这位女皇刻画成一个仅仅百依百顺的后妃，而是将她描绘成一位公然放荡的统治者，其毫无节制的性欲与挑衅性的享乐主义彻底颠覆了宫廷森严的戒律。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b56_20",
+    "group_id": 570,
+    "group_name": "wanton, easy, light, loose",
+    "level": "TEM-8",
+    "target_word": "wanton",
+    "question": "Victorian moralists condemned romantic transgressions not as harmless youthful levity, but as ___ dalliances whose unchecked sensuality threatened to unravel the foundational sanctity of the domestic sphere.",
+    "options": [
+      "wanton",
+      "easy",
+      "light",
+      "loose"
+    ],
+    "answer": "wanton",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The correlative structure 'not as harmless youthful levity, but as...' explicitly rules out 'light' (which is the direct semantic equivalent of levity), while the fixed literary and moral collocation 'wanton dalliance(s)' specifically denotes unrestrained, illicit amorous indulgence, decisively disqualifying 'easy' and 'loose'.",
+    "distractor_analysis": {
+      "wanton": "正确。wanton dalliance(s) 是英国文学与道德哲学批评中的高度凝固搭配（如弥尔顿经典名篇及维多利亚时期伦理学著作），意为“放荡不羁的调情或淫逸行为”（unrestrained, licentious amorous play）。其与后文 unchecked sensuality（毫无遏制的感官肉欲）在认知与语义场上精准吻合。",
+      "easy": "错误。easy 指人性格或态度顺从、易于上手或轻易屈服（yielding readily），通常修饰人（an easy woman/target）或抽象的名声（easy virtue），不能修饰具有主动情感沉溺色彩的行为名词 dalliances，搭配不成立。",
+      "light": "错误。句中明确指明道德家并非将这些越轨行为视为“harmless youthful levity”（无伤大雅的年少轻浮）。levity 词源正是 light（轻佻、轻浮），若后半句填入 light dalliances，将导致“并非轻浮，而是轻浮”的严重语义自相矛盾。",
+      "loose": "错误。loose 虽然常与 morals、conduct 或 habits 搭配表示道德松弛、生活放荡，但在英语文体语料库中几乎不与 dalliance 发生前置修饰搭配；dalliance 强调情欲纠缠与风流调情，只有 wanton 能够精准激活其“淫逸无度”的核心特征。"
+    },
+    "translation": "维多利亚时代的道德家并未将那些情感越轨之举视作无伤大雅的年少轻浮，而是斥之为放荡不羁的纵欲调情，其毫无遏制的感官享乐势必危及家庭神圣性这一社会基石。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

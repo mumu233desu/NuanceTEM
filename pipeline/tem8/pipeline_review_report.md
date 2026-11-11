@@ -272,7 +272,7 @@ However, the implementation contains **critical failure modes, fail-open vulnera
 
 ### BUG-14: Hardcoded Plaintext API Key (`config.py`)
 - **File**: [`pipeline/tem8/llm/config.py`](file:///E:/Coding/NuanceTEM/pipeline/tem8/llm/config.py#L8)
-- `api_key: str = "sk-c1c7dbb68c714d3399a14b05ca9906d6"` is committed in plaintext. Should fallback to `os.getenv("LLM_API_KEY")`.
+- `api_key` was previously hardcoded in plaintext. Resolved by reading from `os.getenv("LLM_API_KEY")` via `.env`.
 
 ### BUG-15: Divergence with `verify_tem8_batch.py`
 - `verify_tem8_batch.py` enforces `len(words) >= 16`, `anchor_clue >= 12`, `primary_mechanism in VALID_MECHS`, and `field in VALID_FIELDS`.

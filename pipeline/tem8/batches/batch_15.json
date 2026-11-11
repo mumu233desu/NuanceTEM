@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b15_01",
+    "group_id": 151,
+    "group_name": "sic, beset, molest, ravish",
+    "level": "TEM-8",
+    "target_word": "sic",
+    "question": "Unnerved by investigative journalism that exposed systemic corruption, the entrenched oligarchy did not hesitate to ___ their aggressive tax inspectors on prominent dissidents to silence all institutional opposition.",
+    "options": [
+      "sic",
+      "beset",
+      "molest",
+      "ravish"
+    ],
+    "answer": "sic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The decisive anchor is the transitive causative valence pattern '___ [subordinate agent/hounds/inspectors] on [target]', which uniquely selects 'sic' in the sense of unleashing or inciting an agent against an adversary. The distractors cannot license this syntactic-semantic construction.",
+    "distractor_analysis": {
+      "sic": "正确。sic作为动词，最核心且独特的句法语义搭配为'sic somebody/something on/upon somebody'，意为“指使/放纵（恶犬、部属、审计员、律师等）攻击或纠缠某人”。本句中“___ their aggressive tax inspectors on prominent dissidents”构成高度地道且极具排他性的隐喻性攻击搭配，完全契合题干语境。",
+      "beset": "错误。beset意为“困扰、围困、使苦恼”，为单宾及物动词（如 difficulties beset the administration）或常见于被动语态（be beset by/with woes），既不具备使役致使义，也绝不能进入'beset + 代理人 + on + 目标'这一句式结构。",
+      "molest": "错误。molest意为“骚扰、干扰、猥亵”，为单宾及物动词，直接接被侵犯的人作为直接宾语（如 molest a passerby），表达直接的主客体侵害行为，无法接宾语后再加介词on构成使动放任的攻击构式。",
+      "ravish": "错误。ravish多指“使陶醉、使狂喜”（如 ravished by the performance），或在古雅/文学语体中指“强暴、强行掳掠”，其语义与句中指使国家税务人员惩戒异见人士的语境完全脱节，且不存在'ravish sb on sb'的句法结构。"
+    },
+    "translation": "因揭露系统性腐败的调查报道而惶恐不安的深层寡头集团，毫不犹豫地指使咄咄逼人的税务稽查人员去整肃知名异见人士，以彻底扑灭体制内的所有反对声音。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_02",
+    "group_id": 151,
+    "group_name": "sic, beset, molest, ravish",
+    "level": "TEM-8",
+    "target_word": "beset",
+    "question": "Unforeseen logistical bottlenecks and simmering factional rivalries threaten to ___ the transitional government, undermining its fragile authority before nationwide democratic elections can be held.",
+    "options": [
+      "sic",
+      "beset",
+      "molest",
+      "ravish"
+    ],
+    "answer": "beset",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "The decisive anchor lies in the transitive construction where abstract institutional adversities ('logistical bottlenecks and simmering factional rivalries') threaten to afflict an organization ('the transitional government'). Only 'beset' canonically selects abstract problems/perils as the subject to mean 'to trouble, harass, or hem in persistently'. 'Sic' is syntactically defective without an agent and prepositional complement ('on/upon'); 'molest' violates selectional restrictions by requiring an animate predatory agent and human victim; 'ravish' is an egregious semantic error (often confused with 'ravage'), denoting enrapturing or physical rape.",
+    "distractor_analysis": {
+      "beset": "正确。beset为标准学术与政经书面语高频动词，意为“使苦恼、四面围困”，其经典搭配正是以客观存在的阻碍、危机或争端为主语（如 difficulties/rivalries beset the administration），表示问题对某一机构或项目持续施加压力。动词原形与'threaten to'构成完美的句法与语义闭环。",
+      "sic": "错误。sic作为及物动词意为“唆使（动物或人）发起攻击”，属于非正式/口语色彩较强的使役性动词，句法上必须要求具有主观意志的使动者并强制搭配介词短语（如 sic a dog on/upon someone）。它既无法以无意识的抽象困境作主语，也无法直接带宾语表示“威胁/困扰”，语法与语域皆不匹配。",
+      "molest": "错误。molest在现代标准英语中受严格的选择限制（selectional restriction）约束，专指“对人进行恶意滋扰、蓄意伤害或人身猥亵”，动作主体必须是怀有恶意的具体人，受事也通常为个体。以“物流瓶颈与派系竞争”等抽象危机作为主语去molest一个政府，在语义范畴和语用层面上均属严重谬误。",
+      "ravish": "错误。考生常将其与形近词ravage（摧毁、肆虐、破坏）混淆。ravish的核心语义为“使狂喜、使陶醉”（enrapture）或文学语体中的“强暴、强行掠夺”，绝无“使陷入多重治理危机”的含义，用在此处会造成语义逻辑的严重畸变。"
+    },
+    "translation": "难以预料的后勤瓶颈与暗流涌动的派系争斗恐将使过渡政府深陷重重困境，在全国民主大选得以举行之前，便已动摇其脆弱的执政权威。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_03",
+    "group_id": 152,
+    "group_name": "sizzle, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "sizzle",
+    "question": "Despite the panel's outwardly composed demeanor, the auditorium seemed to ___ with an undercurrent of latent hostility and intellectual friction, unsettling observers who expected a purely procedural debate.",
+    "options": [
+      "sizzle",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "sizzle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 '___ with an undercurrent of latent hostility' 及心理/氛围张力的认知描写。根据韦氏词典，sizzle 作不及物动词可引申为 'to seethe with or as if with deep anger or excitement'（暗流涌动、怒火中烧、剑拔弩张），与 with 连用构成固定修辞搭配；其余三词在句法或语义上均完全断裂。",
+    "distractor_analysis": {
+      "sizzle": "正确。此处取其高级隐喻与心理认知义，表示因潜在的敌对情绪与思想碰撞而暗流涌动、剑拔弩张（to seethe with deep tension or anger）。与介词短语 'with an undercurrent of latent hostility' 构成极其地道的高级学术级搭配，准确凸显出表面镇定与内里剑拔弩张的剧烈反差。",
+      "honk": "错误。本义指汽车鸣笛或大雁引吭高鸣，无法用于抽象的情绪或气氛描写，亦无 'honk with hostility' 的句法与语义搭配。",
+      "creak": "错误。本义指物体受压发生摩擦发出吱呀声，引申义多指体制或系统在沉重负荷下艰难运转甚至濒临崩溃，其标准搭配为介词 under（如 creak under the strain of debt），与介词 with 搭配描述充满敌意属于严重误用。",
+      "racket": "错误。作动词时意为嘈杂度日或四处吵闹（常作 racket around/about），多具非正式口语色彩，既无法同抽象心理张力构成搭配，语域亦与正式学术观察格格不入。"
+    },
+    "translation": "尽管专家小组成员表面神态自若，但整个报告厅似乎都充斥着一种潜藏的敌意与思想交锋的暗流，令原本期待一场纯粹程序性辩论的观察员们深感不安。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_04",
+    "group_id": 152,
+    "group_name": "sizzle, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Field ethologists investigating avian cognitive mapping observed that migrating geese typically ___ to reaffirm acoustic contact, thereby coordinating aerodynamic formations across vast stretches of visually obscured nocturnal airspace.",
+    "options": [
+      "sizzle",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语 'migrating geese'（迁徙的大雁/野鹅）以及目的状语 'to reaffirm acoustic contact'（重塑声学联系以协调空中飞行编队）。在英语动物学行为与声学认知专有搭配中，大雁的特征性高亢鸣叫唯一确定为不及物动词 'honk'。",
+    "distractor_analysis": {
+      "honk": "正确。韦氏词典明确定义其核心义项为 'to make the characteristic cry of a wild goose'（大雁引吭鸣叫）。在动物认知学与鸟类行为学中，geese honk 是描述雁阵在能见度较低的夜空中通过鸣叫保持队形、协调飞行的专有学术搭配。",
+      "sizzle": "错误。指油脂煎炸的嘶嘶声或情绪沸腾，不可能作为飞禽发声的生物学术语。",
+      "creak": "错误。指木材、骨骼或机械摩擦发出的刺耳嘎吱声，无法指代雁禽的主动生理鸣叫与通信行为。",
+      "racket": "错误。作不及物动词仅表示嘈杂吵闹或过放荡生活，既非鸟类鸣叫的行为学术语，也无法承载具有功能性导航与通信目的的声学表达。"
+    },
+    "translation": "研究鸟类认知地图的野外动物行为学家观察到，迁徙中的大雁通常会通过引吭高鸣来确认彼此间的声学联系，从而在能见度极低的大片夜空飞行中协调空气动力学编队。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_05",
+    "group_id": 153,
+    "group_name": "slash, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "Confronted by acute revenue shortfalls, the university's governing council decided to ___ discretionary research expenditures across humanities faculties, provoking fierce resistance from senior scholars who warned of irreversible academic impoverishment.",
+    "options": [
+      "slash",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接支配无介词的复数宾语短语 'discretionary research expenditures'，且后续结果从句 'provoking fierce resistance... warned of irreversible academic impoverishment' 明确要求该动词具备大幅、断崖式、剧烈缩减的语义特征。在四个选项中，仅有 slash 能直接充当及物动词并与预算/支出名词形成经典强搭配（slash expenditures）；lop 表达削减数额或多余部分时几乎必须借助副词/介词 off（如 lop off expenditures）；pare 强调微调与渐进式的层层削减，多与 down 连用，与句中激烈的学术危机语境冲突；indent 则毫无缩减开支之意。",
+    "distractor_analysis": {
+      "slash": "正确。slash 意为“大幅削减，猛烈裁减”，为 TEM-8 核心词汇。在此语境下直接充当及物动词支配 discretionary research expenditures，构成高频经济与政策搭配；其蕴含的大刀阔斧、大幅削减之义，完美契合后文资深学者所抗议的“不可逆转的学术凋敝”。",
+      "lop": "错误。lop 原义为修剪树枝，引申为砍掉或削减部分开支，但作此义时属于强搭配动副组合，必须后接介词 off（例如 lop off 10% from the budget 或 lop off redundant expenditures），不能直接作单及物动词支配抽象的 research expenditures，存在明显的句法搭配缺陷。",
+      "pare": "错误。pare 原义为削皮或修剪边缘，引申为“慢慢减缩、逐步精简”，常与 down 或 back 连用（pare down costs）。其语义侧重于谨慎、细碎、微幅的层层剔除，与语境中引起轩然大波（fierce resistance）和毁灭性后果的激进紧缩政策在语义力度上严重不符。",
+      "indent": "错误。indent 常用义为“缩进排版”、“使凹陷”或在商业与政府公文中表示“正式订货、申请调拨”，在语义场与认知概念上与削减经费完全脱节。"
+    },
+    "translation": "面对严重的财政收入短缺，大学理事会决定大幅削减人文学科各院系的机动科研经费，此举引发了资深学者的强烈反对，他们警告称这会导致不可逆转的学术凋敝。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_06",
+    "group_id": 153,
+    "group_name": "slash, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "In a decisive effort to streamline institutional bureaucracy, the university senate voted to ___ four redundant consultative committees off the governing board, consolidating decision-making authority within an agile executive team.",
+    "options": [
+      "slash",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键的句法排他锚点为 '___ [direct object] off [source]' 这一动介离析结构（four redundant consultative committees off the governing board），并在认知上将理事会本体比喻为被多余枝杈拖累的主干。根据韦氏词典权威定义，lop 专指 'to eliminate as unnecessary or excessive — usually used with off'，兼具切断多余分支的物理与机构隐喻；相比之下，slash 在现代英语中为单及物动词，不与 off 搭配用于剥离下属机构；pare 表示削减时搭配 down/away 而非 off；indent 与机构精简毫无语法关联。",
+    "distractor_analysis": {
+      "lop": "正确。lop 意为斩除、修剪（枝桠等），在机构管理语境中引申为“果断切除、裁撤（冗余分支）”，韦氏词典特别注明其通常与 off 搭配使用（lop ... off）。此处将四个冗余委员会作为“附生枝杈”从校理事会主干中整块切除，构词逻辑与介词 off 严密吻合。",
+      "slash": "错误。slash 表示大幅缩减时属于纯及物动词，通常直接接被削减的指标（如 slash prices, slash jobs），若表示缩减幅度一般接介词 by。现代学术英语中绝无 *slash something off the board 来指裁撤附属机构的用法，存在致命的介词选择冲突。",
+      "pare": "错误。pare 意为逐步修剪、削皮，若表达裁减含义，其固定搭配为 pare down 或 pare away（如 pare down the administrative staff），不能与介词 off 搭配指代斩断整个分支机构，在句法与隐喻层面均不成立。",
+      "indent": "错误。indent 的核心词义为“缩格排版”、“在边缘形成锯齿状凹痕”或由契约束缚，置于句子中既不符合语法结构，也无法与 off 产生任何关于机构精简的有效搭配。"
+    },
+    "translation": "为了果断精简机构的官僚层级，大学学术委员会投票决定将四个冗余的咨询委员会从理事会中剥离裁撤，从而将决策权集中于一支敏捷的高管团队之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_07",
+    "group_id": 154,
+    "group_name": "snarl, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "snarl",
+    "question": "When confronted by peer reviewers regarding the irreproducibility of his experimental data, the defensive biochemist chose not to offer methodological clarifications, but to ___ venomous retorts at his academic critics.",
+    "options": [
+      "snarl",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "snarl",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心决定性排他锚点为与言语宾语短语及方向介词构成的固定动宾-介词搭配：‘___ venomous retorts at his academic critics’（向学术批评者厉声抛出恶毒反驳）。在此四项动词中，仅 snarl 具备及物言语属性并能够准确传达攻击性、龇牙咧嘴式的‘厉声怒斥’；rap 必须搭配副词 out（如 rap out a command）才能引出短促言语，无法接此类反驳宾语；thud 仅表沉闷物理撞击，为不及物动词；drone 指单调乏味的持续低鸣或絮语，与尖锐对抗性的‘venomous retorts’在语义极性与语态上发生根本冲突。",
+    "distractor_analysis": {
+      "snarl": "正确项。在此处意为“以愤怒、凶狠的态度厉声吐露/怒斥”（to utter or express with a snarl）。在学术论辩遭遇危机的语境中，“snarl venomous retorts at sb”属于严丝合缝的高阶搭配，生动表现出当事人在面对数据不可复现的尖锐质询时，表现出的非理性言语攻击防御姿态。",
+      "rap": "干扰项。rap 若用于言语行为，通常作为及物动词表示“严厉谴责/问责”（句型为 rap sb for sth），或借助短语 rap out 表示“短促有力地发出（口令/指令）”，根本无法与“venomous retorts at sb”形成及物动宾与方向介词搭配。",
+      "thud": "干扰项。thud 意为“重物落地或击打发出的沉闷钝响”或“（心脏）重重跳动”，属于纯粹的物理声学不及物动词，不具备认知反驳或人际言语表达功能，在此出现构成严重的句法语义断裂。",
+      "drone": "干扰项。drone 意为“以单调平缓、低沉乏味的语调嗡嗡作响或喋喋不休”（通常接 drone on about sth），其核心语义特征为[+单调、+乏味、+平静]，与带有强敌意和攻击性的“venomous retorts”在语义特征与交际语态上产生剧烈冲突。"
+    },
+    "translation": "当同行评审就其实验数据的不可复现性提出质疑时，那位戒备心极强的生物化学家并未做出方法论上的澄清，反而向学术批评者们厉声抛出充满恶意的反驳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_08",
+    "group_id": 154,
+    "group_name": "snarl, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "Independent regulatory watchdogs frequently ___ commercial banks for their systemic failure to maintain adequate capital reserves and mitigate cross-border exposure during periods of heightened market volatility.",
+    "options": [
+      "snarl",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心决定性排他锚点在于‘及物动词 + 监管客体 + for + 过失行为’的典型制度批评句型：‘___ commercial banks for their systemic failure...’。在四个选项中，仅有 rap 在高阶政经学术与严肃新闻语境中拥有‘严厉批评、斥责、公开问责’（to criticize or reprimand severely）的及物引申义，其固定搭配即为‘rap sb/sth for (doing) sth’；其余三个动词（snarl, thud, drone）均无接宾语并由 for 引出失职原因的及物支配能力。",
+    "distractor_analysis": {
+      "rap": "正确项。rap 在政经评论及机构监督语域中是经典的及物动词，意为“严厉指责、公开谴责”（to rebuke or criticize sharply），常用于“rap a body/institution for a failure”结构。在此处精准刻画了独立监管机构对商业银行系统性资本违规行为的严厉问责。",
+      "snarl": "干扰项。snarl 作及物动词时仅能引出所说的愤怒言语或指令（如 snarl insults），或用于比喻“使……陷入混乱网结（snarl up traffic）”，不能接被指责的实体作为直接宾语（无 *snarl banks for failure 结构），存在语法构式冲突。",
+      "thud": "干扰项。thud 表达重浊的物理声响（“砰然落下/重击”），是不及物动词，既无法接机构名词作宾语，更无社会评价与制度问责层面的认知批判语义。",
+      "drone": "干扰项。drone 指“单调地嗡鸣”或“单调乏味地长篇大论”（如 drone on for hours），无法支配及物宾语构成谴责动式，代入句中造成明显的句法不可接受。"
+    },
+    "translation": "在市场波动加剧的时期，独立监管机构频繁严厉指责商业银行未能维持充足的资本储备并有效降低跨境风险敞口等系统性失职行为。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_09",
+    "group_id": 155,
+    "group_name": "sniffle, wail, bawl, snivel",
+    "level": "TEM-8",
+    "target_word": "sniffle",
+    "question": "Afflicted by mild seasonal rhinitis and visibly moved by the eulogy, the diplomat could only ___ quietly into his handkerchief, discreetly dabbing his eyes while struggling to maintain his customary composure.",
+    "options": [
+      "sniffle",
+      "wail",
+      "bawl",
+      "snivel"
+    ],
+    "answer": "sniffle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The physiological context of 'mild seasonal rhinitis' (轻度季节性鼻炎) combined with the subdued manner 'quietly into his handkerchief' (轻声对着手帕抽动鼻涕) and 'struggling to maintain his customary composure' (竭力保持一贯的沉着) uniquely requires 'sniffle'. 'Sniffle' denotes breathing noisily through the nose due to a cold or suppressed, quiet crying, whereas 'wail' and 'bawl' signify loud, piercing vocalizations incompatible with quiet decorum, and 'snivel' carries an inappropriate pejorative tone of cowardly whining.",
+    "distractor_analysis": {
+      "sniffle": "正确。该词兼具生理性（因鼻炎或感冒而吸鼻涕）与情绪性（强忍悲痛时的轻声抽泣、耸鼻吸气），与句中‘mild seasonal rhinitis’、‘quietly into his handkerchief’以及‘maintain his customary composure’构成完美搭配与语义契合。",
+      "wail": "错误。该词指发出尖锐、凄厉、高亢且持久的哀号或恸哭（如哀悼死者时的号啕），与副词‘quietly’（轻声地）及‘struggling to maintain composure’（努力保持镇定）在语域和音量特征上构成严重矛盾。",
+      "bawl": "错误。该词指放声大哭、粗声大叫或号啕大哭（常带有吵闹、粗鲁或失控色彩），完全违背了语境中‘quietly’、‘discreetly dabbing his eyes’所体现的克制与低调。",
+      "snivel": "错误。该词虽指抽噎吸鼻，但现代英语中带有强烈的贬义色彩，指猥琐可怜的抱怨、伪善的哭诉或毫无骨气的抽抽搭搭（如‘a sniveling coward’）。用于描写外交官在悼词下庄严克制的悲伤，会产生严重的文体与情感极性冲突。"
+    },
+    "translation": "受轻度季节性鼻炎所困，又显然被悼词所触动，这位外交官只能对着手帕轻声抽噎吸鼻，一边谨慎地擦拭双眼，一边竭力维持他一贯的沉着风度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_10",
+    "group_id": 155,
+    "group_name": "sniffle, wail, bawl, snivel",
+    "level": "TEM-8",
+    "target_word": "wail",
+    "question": "In her cross-cultural analysis of bereavement rituals, the anthropologist observed mourners who would ___ in prolonged, high-pitched anguish, contrasting these desolate lamentations with the restrained weeping common in modern memorial services.",
+    "options": [
+      "sniffle",
+      "wail",
+      "bawl",
+      "snivel"
+    ],
+    "answer": "wail",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit acoustic and semantic modifiers 'in prolonged, high-pitched anguish' (在持久而凄厉的剧痛中) and 'desolate lamentations' (凄凉的哀号/挽歌) point definitively to 'wail'. Merriam-Webster defines 'wail' precisely as uttering a 'prolonged, inarticulate, high-pitched cry of pain, grief, or anger'. In contrast, 'sniffle' is low-volume and nasal, 'snivel' denotes whining complaint, and 'bawl' refers to unrefined, raucous shouting or crying rather than high-pitched lamentation.",
+    "distractor_analysis": {
+      "wail": "正确。该词在词典学上的核心释义正是发出长久、尖锐、凄凉的哀痛呼号（prolonged, high-pitched cry of grief），在此与‘prolonged, high-pitched anguish’及‘desolate lamentations’形成精准无误的语义及文体共振。",
+      "sniffle": "错误。该词指微弱低沉的抽鼻涕声或压抑的小声啜泣，与句中描绘的具有强烈穿透力的‘high-pitched’（尖锐高亢）以及‘desolate lamentations’（凄凉哀号）在声学特征上完全相反。",
+      "bawl": "错误。该词指放开嗓门大哭或大声叫嚷（如婴孩哭闹或军官粗鲁咆哮），侧重声音粗浊、喧闹和无节制，不具备‘wail’特有的高音调（high-pitched）以及仪式化哀歌（lamentation）的文化人类学语域特征。",
+      "snivel": "错误。该词主要指令人厌烦的哭诉、委屈抱怨或摇尾乞怜般的抽泣，缺乏人类学丧葬仪式中集体性创伤所展现的深沉悲恸与崇高悲剧感。"
+    },
+    "translation": "在对丧亲仪式的跨文化分析中，人类学家观察到一些悼念者会发出持久而尖锐凄厉的号恸，并将这种凄凉的哀歌与现代追悼仪式中常见的克制啜泣进行了对比。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_11",
+    "group_id": 156,
+    "group_name": "snort, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "snort",
+    "question": "Confronted with the minister's disingenuous explanation, the lead investigator could only ___ in derisive disbelief, refusing to dignify such an obvious fabrication with a formal refutation.",
+    "options": [
+      "snort",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "snort",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配与认知评价语义锚点 'in derisive disbelief'（带着嘲弄与怀疑）。在英语本族语权威语料库中，表示以轻蔑、不以为然的短促鼻息声表达认知层面的断然否定与怀疑时，'snort in disbelief/derision' 为唯一地道搭配；其余选项中，hoot 表达喧闹的高声嘲弄且惯用介词 with（如 hoot with laughter），与内化认知状态的 'in disbelief' 存在语义及搭配断裂；squall 意为婴儿啼哭或风暴狂啸；gobble 则指狼吞虎咽或火鸡叫，均无法在句法与语境上成立。",
+    "distractor_analysis": {
+      "snort": "正确。snort 原指人或动物用力自鼻孔喷气，引申指因轻蔑、愤慨或难以置信而发出嗤之以鼻的喷气声或冷笑（indicate contempt by breathing noisily and forcefully through the nose）。此处与 'in derisive disbelief'（带着嘲弄与难以置信）构成极高频的认知反应搭配，精准契合资深调查员面对荒谬解释时，通过不屑的轻蔑冷笑断然否定虚伪说辞的高级学术与政经语境。",
+      "hoot": "错误。hoot 主要指猫头鹰鸣叫或人因起哄、喝彩、哄堂大笑而发出的喧闹叫喊声（a loud shout or outcry），多用于群体性起哄嘲弄或哄笑，惯用搭配为 'hoot with laughter/derision' 或及物动词短语 'hoot sb down'；它体现的是外显的喧哗呼喊，与修饰个体认知心理状态的介词短语 'in derisive disbelief' 存在语义冲突与搭配失配。",
+      "squall": "错误。squall 作动词指婴儿大声啼哭、失声痛哭或发出刺耳尖叫（to cry out loudly and harshly），亦可指暴风呼啸，语域属于本能的情感失控宣泄或自然现象，完全脱离了学术/调查语境中成熟个体表达智性怀疑与轻蔑的认知语域（FIELD_COGNITION）。",
+      "gobble": "错误。gobble 作动词主要表示贪婪急促地吞食（狼吞虎咽）或雄火鸡发出喉音啼叫，与句中表示审慎评判、轻蔑怀疑的认知语境毫无逻辑关联，填入句中会导致荒谬的语义断裂。"
+    },
+    "translation": "面对部长虚伪狡黠的辩解，首席调查员只能报以嗤之以鼻的怀疑，拒绝以正式的反驳来抬高这一显而易见的捏造之词。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_12",
+    "group_id": 156,
+    "group_name": "snort, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Refusing to engage with the heterodox economic hypothesis on its theoretical merits, the dogmatic conference attendees sought simply to ___ down the keynote speaker, treating his rigorous statistical critique as ideological heresy.",
+    "options": [
+      "snort",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动词短语搭配与语用语境锚点 '___ down the keynote speaker'。在学术思想交锋语境中，表示群体听众通过大声起哄、喝倒彩或发出嘘声来压制并驱赶演讲者、使其无法发声的地道动词短语为 'hoot down'（以嘘声压制）；其余选项中，'snort down' 与 'squall down' 在现代英语中均不存在该动词短语搭配；'gobble down' 仅能用于吞食食物（狼吞虎咽），施用于学术会议的主旨演讲者将产生严重的范畴错误与荒谬语意。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 与副词 down 构成固定及物动词短语 'hoot sb down'，意为 '以喧闹的嘘声、叫喊或倒彩声压制/驱逐演讲者，使其无法发言'（to silence or drive away a speaker by derisive shouting）。句中学者们拒绝在学理层面探讨异端假说，转而企图以嘘声起哄压制主旨演讲者，完全契合学术界内部排斥异见时的认知与行为场域（FIELD_COGNITION）以及严谨的短语搭配要求。",
+      "snort": "错误。snort（喷鼻息、嗤之以鼻）常作不及物动词或接直接引语/介词短语（如 snort at/in），现代英语词典中根本不存在 'snort sb down' 这一动词短语搭配，填入此处会造成严重的句法破裂。",
+      "squall": "错误。squall（嚎叫、大哭）在标准英语中亦不存在 'squall sb down' 的及物动词短语用法，无法表达通过群体起哄或嘘声喝退演讲者的语义。",
+      "gobble": "错误。虽然 gobble down 确实构成合法动词短语，但其语义严格限定于 '狼吞虎咽地吞咽食物'（to swallow food greedily and hurriedly），施用于人类演讲者（the keynote speaker）会造成严重的语义破裂与范畴错误（category error）。"
+    },
+    "translation": "由于拒绝从理论价值层面去探讨这一非正统的经济学假说，教条的参会人员企图单纯用嘘声将主旨演讲者喝退，将其严密的统计批判视为意识形态上的离经叛道。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_13",
+    "group_id": 157,
+    "group_name": "spatter, sully, defile, speckle",
+    "level": "TEM-8",
+    "target_word": "spatter",
+    "question": "In their cognitive study of visual pattern recognition, researchers examined how simulated explosive forces would ___ viscous pigment across the display, requiring participants to discern underlying geometric contours amid the chaos.",
+    "options": [
+      "spatter",
+      "sully",
+      "defile",
+      "speckle"
+    ],
+    "answer": "spatter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object 'viscous pigment' paired with directional locative 'across the display' requires a verb denoting dynamic liquid scattering; 'speckle' takes only the recipient surface as its direct object, while 'sully' and 'defile' reject physical fluid arguments.",
+    "distractor_analysis": {
+      "spatter": "正确选项。作为及物动词，spatter 意为“使（液体、颜料、泥浆等）飞溅、泼溅”，在论元结构上既可接“被泼溅的表面”（spatter sth. with...），亦可直接以“被泼溅抛洒的流体本身”作宾语（spatter pigment/liquid across a surface）。句中空后接直接宾语“viscous pigment”（黏稠颜料）及方向介词短语“across the display”，完美契合其动宾搭配与流体动态飞溅的实验认知语境。",
+      "speckle": "干扰项，句法配价与论元结构错误。speckle 意为“使布满斑点、点缀”，其及物用法在语义格上只能以“被斑点覆盖的基底表面”充当直接宾语（例如 speckle the canvas with pigment），绝不能以“被抛洒的颜料微粒”本身作直接宾语（不可说 *speckle pigment across...），在此处产生严重的论元角色错位。",
+      "sully": "干扰项，语义场与搭配严重脱节。sully 源自“弄脏、玷污”，多引申用于抽象比喻义，指玷污名誉、清誉或光洁之物（如 sully one's reputation），不可接具体的流体物质（pigment）作及物宾语，且毫无向周围喷溅分散的物理动态含义。",
+      "defile": "干扰项，语体风格与语义极度违和。defile 意为“亵渎、玷污（神圣不可侵犯之物）”，带有强烈的宗教神圣性破坏或道德败坏意味（如 defile a shrine/sanctuary），完全无法与认知实验中用机械力抛洒颜料的客观物理过程相容。"
+    },
+    "translation": "在其关于视觉模式识别的认知研究中，研究人员测试了模拟爆炸力如何将黏稠颜料泼溅在显示屏各处，从而要求受试者在混乱中辨识出潜在的几何轮廓。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_14",
+    "group_id": 157,
+    "group_name": "spatter, sully, defile, speckle",
+    "level": "TEM-8",
+    "target_word": "sully",
+    "question": "Although the independent inquiry ultimately exonerated the vice-chancellor of financial misconduct, the sensationalized media coverage threatened to ___ his otherwise unblemished academic reputation and undermine public trust.",
+    "options": [
+      "spatter",
+      "sully",
+      "defile",
+      "speckle"
+    ],
+    "answer": "sully",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object 'his otherwise unblemished academic reputation' tarnished by media suspicion aligns with the strict lexicographical definition of 'sully' (casting doubt or suspicion that taints a fair name or reputation), whereas 'defile' requires a sacred/holy object and 'spatter'/'speckle' violate collocational grammar.",
+    "distractor_analysis": {
+      "sully": "正确选项。根据《韦氏词典》同义词权威辨析：“sully suggests a casting of doubt or suspicion that taints a fair name, reputation, or character”（sully 专指因指控、丑闻或怀疑而使良好的名声、学术声誉或品格蒙上污点）。句中宾语为“his otherwise unblemished academic reputation”（他原本无可挑剔的学术声誉），与主语“sensationalized media coverage”构成典型的“负面舆论玷污清白声誉”的高阶学术社论标准搭配。",
+      "defile": "干扰项，语义过载与修辞错位。《韦氏词典》明确指出 defile 强调“a severe impious violation or corruption of what is sacred, holy, or inviolable”（对神圣、神圣不可侵犯之物的亵渎、严重践踏或礼仪性玷污，如 defile a temple/sanctuary）。用来指世俗媒体报道对学者声誉的损害属于严重的语义过载和修辞失当（catachresis）。",
+      "spatter": "干扰项，动宾搭配不当。spatter 主要表示物理液体的溅洒；即使偶见比喻义，其固定搭配也是“spatter somebody with abuse/criticism”（以辱骂/批评泼向某人），不能直接以抽象的名誉“reputation”作为直接宾语（即不可说 *spatter one's reputation）。",
+      "speckle": "干扰项，语义与语法功能不符。speckle 意为“使有斑点、点缀”，仅用于描述物理外观的微小斑点分布（如 a face speckled with freckles），完全不具备比喻“抹黑、损害抽象名誉”的语义功能。"
+    },
+    "translation": "尽管独立调查最终洗清了该校副校长的财务不端行为嫌疑，但耸人听闻的媒体报道仍可能玷污他原本无可挑剔的学术声誉，并动摇公众的信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_15",
+    "group_id": 158,
+    "group_name": "splutter, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "splutter",
+    "question": "Confronted with undeniable forensic inconsistencies, the lead investigator could only ___ an incoherent defense, his voice choking with mortified indignation before the international tribunal.",
+    "options": [
+      "splutter",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "splutter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中宾语 'an incoherent defense' 与状语 'his voice choking with mortified indignation' 构成决定性搭配锚点，唯一契合因羞愤、窒息而语无伦次地'喷吐/结结巴巴地说出'这一语义特征。",
+    "distractor_analysis": {
+      "splutter": "正确。splutter 意为'（因愤怒、困窘或激动而）结结巴巴地说出，语无伦次地嘟囔'。此处接宾语 an incoherent defense，并与后文 his voice choking with mortified indignation（声音因羞怒而哽咽）形成严密的语义与句法搭配。",
+      "hoot": "错误。hoot 主要指'大声嘲笑；作猫头鹰叫'，常接 at 或用于 hoot down / hoot off，不能与 an incoherent defense 构成表示'结巴辩解'的及物动词搭配，语意逻辑完全不符。",
+      "squall": "错误。squall 作动词时多为不及物动词，指'（婴儿般）嚎啕大哭，高声啼哭'，或指气象上的'狂风呼啸'，无法后接 an incoherent defense 充当及物动词表达理据陈述。",
+      "gobble": "错误。gobble 核心义为'狼吞虎咽'或'（火鸡等）咯咯叫'；虽偶可引申为含混快速地说话（通常搭配 up/down），但绝不与正式辩护或反驳词汇如 defense 构成搭配，且无法传达羞愤哽咽的语域特征。"
+    },
+    "translation": "面对无可辩驳的法医物证矛盾，首席调查员在国际法庭前因羞愤难当而语带哽咽，只能结结巴巴地抛出一番语无伦次的辩解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_16",
+    "group_id": 158,
+    "group_name": "splutter, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "When the fraudulent academic attempted to defend his fabricated empirical data, the assembly of peer reviewers rose to ___ him off the podium in righteous derision.",
+    "options": [
+      "splutter",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动宾补使动搭配结构 '___ him off the podium' 与介词短语 'in righteous derision'（带着义正严词的嘲弄）构成立体锚点，唯有及物成语动词搭配 hoot sb off 能够成立。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 与 off the podium / stage 构成经典及物使动搭配 hoot sb off（以嘘声、嘲弄声将某人轰下台），且与后文 in righteous derision（在正义的嘲弄声中）在感情色彩与认知语境上高度吻合。",
+      "splutter": "错误。splutter 表示因愤怒或窒息而语无伦次地说话，为不及物动词或接言语内容作宾语，不能带人称代词宾语并构成使动位移短语 *splutter him off the podium。",
+      "squall": "错误。squall 意为嚎啕、高声尖叫，属于不及物动词，不具备带宾语并支配介词 off 的及物使动句法功能（无 *squall sb off 结构）。",
+      "gobble": "错误。gobble 意为贪婪吞食或火鸡叫，与介词 down/up 连用表示狼吞虎咽，完全脱离学术评议语境，更无法与 him off the podium 搭配表达'轰下台'的含义。"
+    },
+    "translation": "当那位造假学者试图为其捏造的实验数据辩护时，在场的同行评审员们纷纷起立，在一片义正言辞的斥责嘲弄声中将他哄下了讲台。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_17",
+    "group_id": 159,
+    "group_name": "spout, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "spout",
+    "question": "Weary of superficial campaign rhetoric, discerning voters expressed deep frustration with the populist candidate, who habitually chose to ___ ideological dogmas rather than propose pragmatic solutions to systemic urban poverty.",
+    "options": [
+      "spout",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "spout",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中及物动词搭配直接宾语“ideological dogmas”（意识形态教条），且受到副词短语“habitually chose to”（习惯性地选择……）修饰，形成“滔滔不绝、不加思考地大肆宣扬空洞信条”的典型语义搭配。",
+    "distractor_analysis": {
+      "spout": "正确。spout 用作及物动词时，韦氏词典释义为“talk in a noisy, excited, or declamatory manner; express in a lengthy, declamatory, and unreflective way”，与 dogmas, platitudes, slogans 等高度惯用搭配，完美契合民粹政客高谈阔论、喋喋不休宣扬空洞教条的政治语境。",
+      "blurt": "错误。blurt 意为“脱口而出，不假思索地说出”，强调在毫无防备或情绪失控时脱口泄露秘密或说出不合时宜的话，与句中代表蓄意、反复行为的“habitually chose to”存在根本逻辑矛盾，且不与系统性意识形态教条搭配。",
+      "whiff": "错误。whiff 主要意为“微风吹过；略微吸入/嗅到；（棒球中）挥棒落空”，在认知与言语场中完全无及物表达“宣扬思想教条”之义，产生严重的语义与句法语义破裂。",
+      "snivel": "错误。snivel 为不及物动词，指“抽泣、抽抽搭搭地哭诉、抱怨”，后无法直接跟名词短语“ideological dogmas”作及物宾语，存在直接的句法范畴违规。"
+    },
+    "translation": "鉴于对肤浅的竞选修辞感到厌倦，富有洞察力的选民对这位民粹主义候选人表达了强烈不满，因为他总是习惯性地大肆兜售意识形态教条，而不是针对结构性城市贫困提出务实的解决方案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_18",
+    "group_id": 159,
+    "group_name": "spout, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Subjected to grueling cross-examination, the visibly shaken witness was terrified that under such relentless cognitive strain she might inadvertently ___ out the confidential terms of the merger.",
+    "options": [
+      "spout",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧接副词小品词“out”，并受到“inadvertently”（不经意地、失控地）与宾语“confidential terms”（机密条款）的双重锚定，构成了“blurt out”（不假思索地脱口泄露机密）的绝对排他性动词短语搭配。",
+    "distractor_analysis": {
+      "blurt": "正确。blurt out 为固定动词短语，韦氏词典定义为“to utter abruptly and impulsively — usually used with out”，专指因紧张、冲动或受压而失口泄露秘密、隐私或实情，与“inadvertently”及“confidential terms”形成无懈可击的搭配闭环。",
+      "spout": "错误。spout 意为“高谈阔论、喷出”。当表示言语行为时，spout 为及物动词（直接跟宾语，如 spout platitudes）或不及物动词（spout about），不构成“spout out 秘密/条款”以表示“失口泄露”的用法；且 spout 强调整篇大论的宣讲，与“inadvertently”的无意识脱口而出相悖。",
+      "whiff": "错误。whiff 作动词常用于感知嗅觉或体育动作（whiff on/strike out），在高级学术和法律语境中根本不存在“whiff out + 机密条款”的及物短语搭配。",
+      "snivel": "错误。snivel 意为“抽噎、抽抽搭搭地诉苦”，属于典型的不及物动词，无法与 out 构成及物动词短语来带宾语“confidential terms”，在句法和词义上均不成立。"
+    },
+    "translation": "面对严酷的反向盘问，这位显露出明显慌乱的证人极为恐惧，担心在如此沉重的心理压力下，自己可能会不慎脱口泄露并购协议的保密条款。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_19",
+    "group_id": 160,
+    "group_name": "sprawl, strew, straggle, propagate",
+    "level": "TEM-8",
+    "target_word": "sprawl",
+    "question": "Benefiting from the humid microclimate, the tangled kudzu vines began to ___ aggressively across the limestone ledges, forming an irregular canopy that smothered the fragile endemic flora.",
+    "options": [
+      "sprawl",
+      "strew",
+      "straggle",
+      "propagate"
+    ],
+    "answer": "sprawl",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive syntactic and semantic anchor: the subject 'tangled kudzu vines' combined with the intransitive directional complement 'aggressively across the limestone ledges' and the expansive result 'forming an irregular canopy that smothered...', which uniquely demands 'sprawl' (to spread out in an irregular, rambling, dense manner).",
+    "distractor_analysis": {
+      "sprawl": "正确。不及物动词，在自然生态语境中专指藤蔓、枝条或植被不规则、漫生性地向四周大面积延展（spread in a rambling, untidy, or irregular way）。与主语 kudzu vines（葛藤）及介词短语 across the limestone ledges 构成地貌植被描写的经典搭配，且与后文形成树冠压制原生植物的扩张气势完全吻合。",
+      "strew": "错误。及物动词，意为“撒播、散落”，其标准用法必须接宾语（strew something across...）或以被动语态呈现（be strewn with...）。本句中空后直接跟随副词 aggressively 与介词短语 across...，缺乏直接宾语，存在不可调和的及物性句法缺失。",
+      "straggle": "错误。不及物动词，核心义为“稀疏落后、断续散布”（grow, spread, or move in an irregular, thin, or sparse line/manner）。句中修饰语 aggressively 以及后文 forming an irregular canopy that smothered... 明确体现出蔓生植被庞大、浓密的侵略性覆盖态势，与 straggle 所强调的“纤弱、稀落、掉队式蔓展”产生强烈的语义冲突。",
+      "propagate": "错误。动词，生物学中指“（通过种子、扦插等方式）繁殖、增殖”，强调物种的世代繁衍或个体倍增过程，无法用于描绘植株物理枝蔓在水平地貌岩壁上的空间蔓展与爬行覆盖（physical rambling across a surface），与句中 across the limestone ledges 发生搭配范畴偏离。"
+    },
+    "translation": "得益于湿润的微气候，错综复杂的葛藤开始在石灰岩岩架上肆意蔓延，形成了一层不规则的树冠层，窒息了下方脆弱的特有植物群落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b15_20",
+    "group_id": 160,
+    "group_name": "sprawl, strew, straggle, propagate",
+    "level": "TEM-8",
+    "target_word": "strew",
+    "question": "Fierce autumn gales frequently ___ coastal detritus, fractured timber, and uprooted marine vegetation across the intertidal mudflats, radically altering the microhabitats of benthic organisms.",
+    "options": [
+      "sprawl",
+      "strew",
+      "straggle",
+      "propagate"
+    ],
+    "answer": "strew",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "Decisive syntactic and collocational anchor: the transitive construction requiring a verb that takes physical scattered debris ('coastal detritus, fractured timber...') as its direct object and pairs with 'across the intertidal mudflats'. Only 'strew' licenses this transitive scattering pattern.",
+    "distractor_analysis": {
+      "strew": "正确。及物动词，指“使散落、散播于表面”（scatter or spread untidily over a surface or area）。本句主语是自然营力（fierce autumn gales），直接宾语是散落的杂物残骸（coastal detritus, fractured timber, and uprooted marine vegetation），后接空间介词短语 across the intertidal mudflats，完全符合 strew A across B 的标准搭配模式。",
+      "sprawl": "错误。不及物动词，意为“蔓生、杂乱延伸”，不能接任何名词作直接宾语（cannot take a direct object）。在句法上若填入 sprawl，后接 coastal detritus... 会造成严重的及物性语法违歧。",
+      "straggle": "错误。不及物动词，意为“散乱移动、稀落散布”，无法直接支配宾语；语义上通常描述有生命个体或小群体的落后散漫，不能用于描述狂风将无生命杂物碎屑吹散抛洒的物理过程。",
+      "propagate": "错误。及物动词时意为“繁育（动植物）”或“传播（观念、声波、电磁波）”。暴风无法“繁育”或“传播”海岸碎屑与断木（fractured timber），在此完全不合语义选择限制，造成语义荒谬。"
+    },
+    "translation": "深秋的狂烈大风频繁将海岸碎屑、断裂的木材以及被连根拔起的海生植物散落抛撒在潮间带泥滩上，从根本上改变了底栖生物的微生境。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

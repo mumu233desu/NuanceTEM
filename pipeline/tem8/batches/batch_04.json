@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b04_01",
+    "group_id": 41,
+    "group_name": "crease, pleat, pinch, furrow",
+    "level": "TEM-8",
+    "target_word": "crease",
+    "question": "As the epistemologist analyzed the paradoxical proof, his austere features gradually began to ___ into a wry grin, acknowledging that the student had inadvertently exposed a fundamental flaw in the prevailing theoretical model.",
+    "options": [
+      "crease",
+      "pleat",
+      "pinch",
+      "furrow"
+    ],
+    "answer": "crease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "began to ___ into a wry grin（脸部因会心微笑而泛起舒展的皱纹；crease into a smile/grin 为唯一契合该语境与句法介词的固定惯用搭配）",
+    "distractor_analysis": {
+      "crease": "正确。crease 作不及物动词时，常与介词 into 连用构成高频搭配（如 his face creased into a smile/grin），意为“（面容因笑意或生动表情）泛起皱纹、绽开笑容”。句中生动刻画了哲学家在洞悉学术漏洞时严峻神情被苦笑所取代的认知反应。",
+      "pleat": "错误。pleat 专指在织物、纸张等材料上“压制或缝制出规整平行的褶裥（百褶）”，纯属工艺与裁剪操作，绝对不能用于描述人类面部肌肉的情感变化，存在严重的范畴搭配错误（category error）。",
+      "pinch": "错误。pinch 意为“捏、掐；使（面容）因严寒、饥荒或痛苦而紧缩苍白”。该词无法与 into a wry grin 搭配，语义逻辑（痛苦逼仄）与语境中的学术幽默/顿悟（grin）完全相悖。",
+      "furrow": "错误。furrow 常见搭配为 furrow one's brow/forehead（深锁眉头），表困惑、焦虑或高度紧张，其产生的深沟在语义情感极性（semantic polarity）上与带有讽刺或领悟意味的 grin（咧嘴笑）针锋相对，且英语中根本不存在 furrow into a grin 的句法搭配。"
+    },
+    "translation": "当那位认识论学者深入分析那个悖论性证明时，他原本严峻的面容逐渐泛起一抹苦笑，坦然承认该学生已无意中揭示了当前主流理论模型中的一个根本缺陷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_02",
+    "group_id": 41,
+    "group_name": "crease, pleat, pinch, furrow",
+    "level": "TEM-8",
+    "target_word": "pleat",
+    "question": "In restoring the nineteenth-century theatrical mantle, the textile conservator had to meticulously ___ the voluminous velvet into the fitted yoke, evenly distributing the heavy fabric to preserve its original draping and structural balance.",
+    "options": [
+      "crease",
+      "pleat",
+      "pinch",
+      "furrow"
+    ],
+    "answer": "pleat",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ART_AESTHETICS",
+    "anchor_clue": "___ the voluminous velvet into the fitted yoke, evenly distributing the heavy fabric（将大量丝绒打褶收拢缝入贴合的过肩；在服装与织物修复中，'pleat [fabric] into [a yoke/waistband]' 是专门用于将富余面料均匀规则收拢入特定构件的技术专属搭配）",
+    "distractor_analysis": {
+      "pleat": "正确。pleat 在服饰与织物制作工艺中意为“将（织物）打褶并缝合固定”，其典型句法搭配为 pleat [fabric] into [a yoke/waistband/cuff]（将面料通过打褶均匀收拢并拼入衣领、过肩或腰头等结构部件中）。句中的 into the fitted yoke（缝入合身的过肩部件）与后文 evenly distributing the heavy fabric（均匀分配厚重面料以保持垂坠感）完美呼应其核心技术语用与句式结构。",
+      "crease": "错误。crease 意为“压出折痕；起皱”。在句法上，crease 无法接表示服装构件的接纳词（into a yoke/waistband），其后接 into 时只能引出折痕的形状（如 crease into sharp ridges）；在服装形制与织物保护领域，在天鹅绒上 crease（压死折痕）会损伤绒毛（pile），与本句“均匀分散面料以保持垂坠感”的目的相悖。",
+      "pinch": "错误。pinch 意为“捏紧、夹住”。尽管 pinch 在窗帘缝制中有 pinch pleat（捏褶）复合名词用法，但作为单一动词，不能构成 pinch [fabric] into the yoke 这一收拢缝合工艺的谓语搭配，无法表达将大面积织物系统性归拢进结构部件的工艺动作。",
+      "furrow": "错误。furrow 意为“犁沟；使起凹槽”，语义场严格局限于农业耕地（furrow the soil）或面部生理表情（furrow the brow/forehead），完全不能用于织物或服装剪裁缝制语境。"
+    },
+    "translation": "在修复这件19世纪戏剧斗篷时，织物保护专家必须精心将大量天鹅绒面料打褶收拢缝入贴合的过肩中，均匀分散厚重织物的重量，以保持其原有的垂坠感与结构平衡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_03",
+    "group_id": 42,
+    "group_name": "cringe, funk, wince, quail",
+    "level": "TEM-8",
+    "target_word": "cringe",
+    "question": "Rather than defending institutional autonomy, the sycophantic courtiers chose to grovel and ___ before the tyrannical monarch, demonstrating an abject subservience that permanently undermined the moral authority of the council.",
+    "options": [
+      "cringe",
+      "funk",
+      "wince",
+      "quail"
+    ],
+    "answer": "cringe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Coordinated with 'grovel and' and syntactically governing 'before', directly echoing 'sycophantic courtiers' and 'abject subservience'. Lexicographically, only 'cringe' denotes servile truckling and fawning self-abasement before a superior.",
+    "distractor_analysis": {
+      "cringe": "正确。Merriam-Webster将cringe专门界定为“to behave in an excessively humble or servile way; truckle/grovel”。此处“grovel and cringe”为英语政论与古典文学中描述奴颜婢膝、卑躬屈膝的经典同义成对连用结构（binomial pair）。全句前有“sycophantic courtiers”（谄媚的廷臣），后有“abject subservience”（卑劣的屈从），构成了明确无误的语义闭环。",
+      "funk": "错误。主要指因胆怯、畏难而回避挑战或职责（尤作及物动词），无“摇尾乞怜、阿谀奉迎”之义，既无法与“grovel and”构成惯用搭配，也完全脱离了后文强调奴颜媚骨的“abject subservience”语境。",
+      "wince": "错误。主要指因突发肉体剧痛或尖锐的情感刺激（如难堪、羞愧）而产生的面部抽搐或本能性身体缩紧（flinch from pain or distress），常与at或with搭配。廷臣面对专制君主表现出的是政治顺从与逢迎，而非生理性痉挛缩退，“grovel and wince before”搭配不通。",
+      "quail": "错误。意为“畏缩、丧胆”（lose heart; cower in fear），侧重在恐吓或强权面前丧失勇气或吓破胆，属于被动的恐慌反应；它完全不具备cringe所独具的“主动奴颜婢膝、低三下四、摇尾讨好”（truckle; fawn）的核心语义特征，与“grovel and”以及“sycophantic”的修辞逻辑严重脱节。"
+    },
+    "translation": "那些阿谀奉承的侍臣非但没有捍卫机构的自主权，反而选择在残暴的君主面前卑躬屈膝、摇尾乞怜，表现出一种彻底破坏了政务会道德威信的奴颜婢膝。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_04",
+    "group_id": 42,
+    "group_name": "cringe, funk, wince, quail",
+    "level": "TEM-8",
+    "target_word": "funk",
+    "question": "Accused of political cowardice, the minority government was widely castigated for attempting to ___ the contentious fiscal reforms, repeatedly postponing the parliamentary vote to appease its most radical coalition partners.",
+    "options": [
+      "cringe",
+      "funk",
+      "wince",
+      "quail"
+    ],
+    "answer": "funk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Governs the direct object noun phrase 'the contentious fiscal reforms'. In this synonym cluster, only 'funk' can function as a transitive verb meaning 'to shrink or turn back from (a duty/challenge) through fear or cowardice'.",
+    "distractor_analysis": {
+      "funk": "正确。Merriam-Webster明确收录funk作为及物动词（transitive verb）的经典政治与高阶社论义项：“to shrink or turn back from (something, such as a duty or undertaking) because of fear; to shrink from: funked the challenge/issue”。句中横线后直接接宾语“the contentious fiscal reforms”，前承“political cowardice”，后接“postponing the parliamentary vote”，在句法和语义上均为唯一正解。",
+      "cringe": "错误。句法排他：cringe为严格的不及物动词（intransitive verb），通常搭配介词at、before或away from，绝对不能直接接名词宾语构成及物结构（*cringe the fiscal reforms在英语语法中是不合格的表达式）。",
+      "wince": "错误。句法排他：wince同样为严格的不及物动词，常后接介词at或under表示对痛苦的抽搐退缩，无法直接支配宾语（不可构成*wince the fiscal reforms）。",
+      "quail": "错误。句法排他：quail亦为严格的不及物动词，表示丧胆畏缩时需搭配before或at，不能作为及物动词接宾语（不可构成*quail the fiscal reforms）。"
+    },
+    "translation": "少数派政府被指责政治怯懦，并因企图逃避具有争议的财政改革而广受谴责，他们反复推迟议会表决以安抚其最激进的执政联盟伙伴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_05",
+    "group_id": 43,
+    "group_name": "crunch, mash, grate, sliver",
+    "level": "TEM-8",
+    "target_word": "crunch",
+    "question": "To evaluate the structural solvency of the national pension system, actuaries deployed sophisticated algorithmic models to ___ the empirical data and identify demographic shifts overlooked by preliminary estimates.",
+    "options": [
+      "crunch",
+      "mash",
+      "grate",
+      "sliver"
+    ],
+    "answer": "crunch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "The direct object 'the empirical data' paired with 'algorithmic models' decisively triggers the institutionalized academic and financial collocation 'crunch data/numbers' (meaning to process large volumes of numerical data systematically and rapidly).",
+    "distractor_analysis": {
+      "crunch": "正确项。考查动宾固定搭配及高阶引申义。在计算科学、计量经济学及高阶学术期刊语境中，crunch 与 data 或 numbers 构成高度专有的典型固定搭配（collocation），意为“（运用计算机或精密算法）快速、大量地处理和分析（数据或数字）”。置入句中完全契合“利用算法模型处理经验数据”的语境与学术语体。",
+      "mash": "错误项。语义与语体搭配不符。mash 的本义为“将（煮软或多汁的物理实体）捣成糊状或泥状”，在酿造业中指“加水糖化麦芽”；尽管在网络非正式俚语中有复合词 mashup 或短语动词 mash up data（混搭数据）的用法，但及物动词 mash 绝不能直接以抽象的 empirical data 作宾语，在正式学术语境中存在严重的搭配断裂。",
+      "grate": "错误项。语义脱节且搭配不成立。grate 的物理本义为“在磨碎器或粗糙表面上磨碎、擦碎（奶酪、坚果等坚硬干性物体）”，抽象引申义为“使人烦躁、发出刺耳摩擦声”（常与 on 连用，如 grate on one's nerves），完全无法与 data 构成及物动宾关系。",
+      "sliver": "错误项。语义范畴冲突。sliver 作及物动词时意为“将……切成/撕成细长条或薄片”（如 sliver almonds），受词严格局限于具有空间物理形态的固态材质，根本无法与抽象的经验数据搭配。"
+    },
+    "translation": "为了评估国家养老金体系的结构性偿付能力，精算师们利用复杂的算法模型来处理和分析这些经验数据，并识别出初步估算中所忽视的人口结构变化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_06",
+    "group_id": 43,
+    "group_name": "crunch, mash, grate, sliver",
+    "level": "TEM-8",
+    "target_word": "mash",
+    "question": "In industrial starch processing, technicians first steam the fibrous root crops and then use hydraulic presses to ___ the softened tubers into a uniform, lump-free pulp for enzymatic digestion.",
+    "options": [
+      "crunch",
+      "mash",
+      "grate",
+      "sliver"
+    ],
+    "answer": "mash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "The structural frame '___ the softened tubers into a uniform, lump-free pulp' strictly dictates 'mash', which specifically denotes reducing yielding, cooked physical substances into a homogeneous, pulpy mass.",
+    "distractor_analysis": {
+      "mash": "正确项。考查动词语义特征与物理形态转化的精确搭配。mash 专指通过重压、捣碎或碾压的方式，将本已煮熟、软化或多汁的物质（如 softened tubers）加工成质地均匀的糊状、泥状或浆状物（a uniform, lump-free pulp），完全契合“蒸软后压成浆料”的工业加工语境与句法结构（mash A into B）。",
+      "crunch": "错误项。选择限制（selectional restriction）冲突。crunch 强调对“硬脆、干燥、易碎的坚硬物体”（如坚果壳、冰块、干树叶）施加压力并伴随清脆的嘎吱断裂声；已经经过高温蒸软的块茎（softened tubers）不具备脆性结构，受压时绝不会发出 crunch 的声响，也无法产生脆性碎屑。",
+      "grate": "错误项。机械加工方式与材质状态冲突。grate 专指借助具有锋利孔洞的擦丝器/磨碎板，通过往复摩擦将“坚实、干燥的硬物”（如生胡萝卜、干酪、肉豆蔻）擦成细屑或碎丝；将蒸得软烂的块茎在磨板上摩擦只会导致糊状物堵塞孔洞，无法实施标准的 grate 操作，语意不合常理。",
+      "sliver": "错误项。几何形态与结果状语冲突。sliver 指用刀刃等利器将物体纵向切成或劈成“细长而尖锐的薄片或长条”（slivers），与句末明确指明的结果状态“均匀无块的糊状浆料”（a uniform, lump-free pulp）在几何与物理形态上产生直接逻辑矛盾。"
+    },
+    "translation": "在工业淀粉加工过程中，技术人员首先将富含纤维的根茎作物蒸熟，然后利用液压机将软化的块茎压成均匀无块的糊状浆料，以便进行酶解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_07",
+    "group_id": 44,
+    "group_name": "dampen, mollify, enfeeble, debilitate",
+    "level": "TEM-8",
+    "target_word": "dampen",
+    "question": "Although the regulatory commission intervened decisively to ___ speculative enthusiasm across emerging financial markets, robust retail inflows and pervasive algorithmic trading continued to propel equity valuations toward unprecedented highs.",
+    "options": [
+      "dampen",
+      "mollify",
+      "enfeeble",
+      "debilitate"
+    ],
+    "answer": "dampen",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Decisive anchor clue: The direct object is 'speculative enthusiasm'. In standard formal and economic English, 'dampen' possesses an exclusive collocational monopoly when curbing, moderating, or pouring cold water on emotional intensity, ardor, spirits, or speculative fervor. The other verbs cannot collocate with 'enthusiasm'.",
+    "distractor_analysis": {
+      "dampen": "正确。dampen 意为“抑制、遏制、使减弱（热情、期望、势头等）”，其引申义源自“浇熄、泼冷水”，与 enthusiasm, ardour, expectations, demand 构成高度地道的经济与学术固定动宾搭配。此处与 speculative enthusiasm 契合无瑕。",
+      "mollify": "错误。mollify 意为“安抚、平息（某人的愤怒、焦虑或抵触情绪）”，其及物动词的受事对象必须是有感知能力的人或群体（如 critics, shareholders, protesters）或其愤怒情绪本身（如 anger, grief），绝不可搭配“投机狂热”（enthusiasm）。",
+      "enfeeble": "错误。enfeeble 意为“使衰弱、使无力”，通常指剥夺人、国家、体制、论点等的生理、政治或结构性力量（如 enfeeble the state, enfeeble one's intellect），侧重元气大伤，而非抑制或调节情绪/心理热度。",
+      "debilitate": "错误。debilitate 意为“使虚弱、使衰竭”，侧重因疾病、破坏或长久损耗使身体、经济系统或机能彻底失去正常运转能力（如 a debilitating illness, debilitate the economy），语义过重且与 enthusiasm 存在不可调和的搭配冲突。"
+    },
+    "translation": "尽管监管委员会果断介入以抑制新兴金融市场的投机狂热，但强劲的散户资金流入和普遍的算法交易仍旧推动股票估值迈向史无前例的高点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_08",
+    "group_id": 44,
+    "group_name": "dampen, mollify, enfeeble, debilitate",
+    "level": "TEM-8",
+    "target_word": "mollify",
+    "question": "Faced with mounting public indignation over executive bonuses, the board offered nominal concessions in a calculated bid to ___ disgruntled shareholders ahead of the contentious annual general meeting.",
+    "options": [
+      "dampen",
+      "mollify",
+      "enfeeble",
+      "debilitate"
+    ],
+    "answer": "mollify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "Decisive anchor clue: The direct object 'disgruntled shareholders' paired with the remedial action 'offered nominal concessions'. 'Mollify' specifically means to appease or placate an angry or aggrieved person or party by making conciliatory gestures.",
+    "distractor_analysis": {
+      "mollify": "正确。mollify 意为“平息、抚慰、使缓和（特定人的怨怼或愤怒）”，其动词选择限制（selectional restriction）要求宾语为处于愤怒、不满状态的人或群体，与句中“disgruntled shareholders”（心怀不满的股东）及前文“offered nominal concessions”（作出象征性让步）构成严密的语境与搭配闭环。",
+      "dampen": "错误。dampen 意为“抑制、挫伤（热情、积极性、需求等抽象概念）”，其及物动词宾语不能是具有意志的人类群体（英语中不可使用 *dampen shareholders*），存在严重的句法与搭配错配。",
+      "enfeeble": "错误。enfeeble 意为“使衰弱、削弱…的力量”，指剥夺身体或组织机构的生命力与权能；董事会作出妥协让步的意图是“抚慰求和”，而非在生理或权力结构上“使股东衰弱无力”，违背基本语境逻辑。",
+      "debilitate": "错误。debilitate 意为“使严重衰竭、使丧失机能”，常用于疾病折磨身体或危机重创经济；用在此处不仅搭配不当，且含义荒诞，让步举措不可能用于“重创/摧垮股东”。"
+    },
+    "translation": "面对公众对高管奖金日益高涨的愤慨，董事会作出了象征性的让步，旨在有争议的年度股东大会召开前平息心怀不满的股东们的怨气。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_09",
+    "group_id": 45,
+    "group_name": "decelerate, wane, flag, retard",
+    "level": "TEM-8",
+    "target_word": "decelerate",
+    "question": "In chronometric cognitive assessments, information processing does not maintain a uniform speed; rather, mental operations typically accelerate during initial sensory encoding and then markedly ___ as multi-attribute evaluation commences.",
+    "options": [
+      "decelerate",
+      "wane",
+      "flag",
+      "retard"
+    ],
+    "answer": "decelerate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the paired antonymic contrast with 'accelerate' ('operations typically accelerate ... and then markedly ___') set within the explicit discourse context of processing 'speed'.",
+    "distractor_analysis": {
+      "decelerate": "【正确】在此句中作为不及物动词，与前分句的'accelerate'构成天衣无缝的反义并列，精准指代认知操作速度在时钟式测定（chronometric assessment）中由快转慢的动态过程，完全符合语域与句法搭配。",
+      "wane": "【排除】指月相由圆到缺，或指势力、影响、声望、狂热等抽象强度的'逐渐衰减、减弱'（常与wax搭配），不用于描述信息加工或心理操作速率（speed/velocity）的物理或机械式减速，且无法与accelerate形成直接的反义对称。",
+      "flag": "【排除】特指人的体能、耐力、注意力或精神因疲劳而'衰退、萎靡、松懈'（如attention flagged, energy flagged）；句中主语为抽象的'mental operations'（心理计算/操作），且所处语境为正常的阶段性加工节奏变化而非疲劳所致的机能衰竭，与accelerate不构成成对词汇反义。",
+      "retard": "【排除】在现代正式英语中，retard主要作及物动词（vt.），意为'阻碍、延缓（……的发展或进程）'，后须接直接宾语（如retard cognitive development）；此处缺少宾语，作不及物动词已属罕见或过时用法，会造成明显的句法破裂。"
+    },
+    "translation": "在计时认知评估中，信息处理并不保持恒定的速度；相反，心理操作通常在初始感觉编码阶段加速，随后在多属性评估展开时显著减速。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_10",
+    "group_id": 45,
+    "group_name": "decelerate, wane, flag, retard",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "Although Cartesian dualism once dominated philosophical inquiries into the mind, its conceptual authority began to ___ as cognitive neuroscience demonstrated that mental processes are inextricably grounded in neurobiological mechanisms.",
+    "options": [
+      "decelerate",
+      "wane",
+      "flag",
+      "retard"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The nominal subject 'its conceptual authority' combined with the historical shift from dominance ('once dominated... began to ___') demands a verb specifically denoting the gradual decline of intellectual influence, prestige, or dominance.",
+    "distractor_analysis": {
+      "wane": "【正确】不及物动词，专指权力、权威、影响力、名望或主导地位的'衰减、式微'（经典搭配如authority/influence wanes），与'once dominated... began to ___'所呈现的理论范式由盛转衰的历史语境契合无间。",
+      "decelerate": "【排除】核心语义为'减速、降低速度'，必须以具备运动轨迹、速率或数量增长（如经济增长、车速、加工速率）的事物为主语；抽象的哲学理论及其'概念权威'（conceptual authority）不存在物理或比喻意义上的速度矢量，语义严重错配。",
+      "flag": "【排除】侧重指生物体或个体意志因劳累、衰弱而'精力减退、意志低落'（如spirits flag, interest flags）；理论学说及其概念权威属于非生命的抽象学术建构，不能与flag搭配。",
+      "retard": "【排除】现代学术英语中为及物动词，表示外力'阻滞、妨碍某事物的发展'；在此句中既缺乏及物动词所需的承受宾语，在语义上也无法表达权威自身的历史性'减弱或消亡'。"
+    },
+    "translation": "尽管笛卡尔身心二元论曾一度主导对心灵的哲学探究，但随着认知神经科学证明心理过程不可分割地植根于神经生物学机制，其理论权威开始逐渐式微。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_11",
+    "group_id": 46,
+    "group_name": "decompose, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "decompose",
+    "question": "To elucidate how the human mind resolves intricate logical dilemmas, cognitive scientists must systematically ___ reasoning algorithms into their elementary computational sub-routines, rather than treating intuition as an indivisible whole.",
+    "options": [
+      "decompose",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "decompose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式结构'___ X into its elementary computational sub-routines'（将X分解为基础计算子程序）与后文'rather than treating intuition as an indivisible whole'（而非将直觉视为不可分割的整体）形成决定性的语篇反义对立锚点，语法上严格要求及物动词且语义必须表示'分解、解析'。",
+    "distractor_analysis": {
+      "decompose": "正确。decompose 在认知科学与计算机科学领域为标准学术搭配，表示'将（复杂系统、算法或认知表征）分解/解析为若干基本构成要素'，其及物用法与介词短语'into their elementary... sub-routines'完美契合，且与后文'indivisible whole'构成无懈可击的反义对立逻辑。",
+      "flux": "错误。flux 在抽象认知语境中主要作不及物动词（表示'流动、变迁'），在冶金或物理学中即便作及物动词亦意为'使熔融、加熔剂'，绝不能支配宾语接'into sub-routines'表达逻辑层面的'剖析、分解'，存在严重的语义场与搭配割裂。",
+      "fuse": "错误。fuse 意为'融合、熔合为一体'，若搭配'into'则表示'将多个分散部分合成为一个整体'（如 fuse A and B into a whole），与本句'分解为子程序'以及后半句'rather than treating... as an indivisible whole'的解构逻辑构成直接的语义反向冲突。",
+      "conflate": "错误。conflate 意为'混淆、将（两件不同事物）合并为一'（常接介词 with 或 and），属于认知上的错误合并或概念混淆，既无法与'into elementary computational sub-routines'搭配表示功能解析，也违背句中崇尚精细还原论分析的科学语境。"
+    },
+    "translation": "为了阐明人类大脑如何化解复杂的逻辑困境，认知科学家必须系统性地将推理算法分解为其基本的计算子程序，而非将直觉视为一个不可分割的整体。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_12",
+    "group_id": 46,
+    "group_name": "decompose, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "fuse",
+    "question": "In her seminal treatise on moral philosophy, the theorist sought to ___ disparate phenomenological traditions into a singular, coherent framework, demonstrating how lived experience informs abstract ethical reasoning.",
+    "options": [
+      "decompose",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "fuse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive construction with destination preposition 'into' ('___ disparate ... traditions into a singular, coherent framework') demands a verb denoting creative, constructive synthesis into a harmonious whole. 'Fuse' uniquely matches this positive cognitive-philosophical collocation.",
+    "distractor_analysis": {
+      "decompose": "【逻辑倒错/搭配不符】decompose 意为“分解、拆解；腐烂”，认知层面上指将整体解构为其微观组成部分（常见搭配为 decompose a complex system into constituent elements），而句意强调的是将分散的传统构建、结合为一个崭新的有机统一体（singular, coherent framework），语义逻辑彻底相反。",
+      "flux": "【词性/句法断裂】flux 作为动词在现代学术英语中主要为物理/冶金技术术语（意为“熔化；用熔剂处理”）或罕见的不及物动词（表“波动、流动”），在认知哲学语域中不能作为及物动词带宾语并接介词 into 来表达“思想理念的综合建构”，存在致命的句法与搭配错误。",
+      "fuse": "【正确】fuse 在认知与哲学思辨语境中指将相异的思想、流派或理论“熔合、有机结合为一体”（blend thoroughly into a harmonious whole），与句中的“disparate traditions into a singular, coherent framework”形成极具学术质感的经典搭配，准确传达出理论建构的严密性与融贯性。",
+      "conflate": "【感情色彩/认知语域冲突】conflate 虽含有“合并”之义，但在哲学与学术批评中几乎固定带有负面认知色彩（pejorative epistemic valence），专指“将两个本应区分的概念错误地混为一谈、混淆”（典型句式为 conflate A with B）。若置于句中表示正向的学术创见与理论体系融合，会导致语篇评价极性严重倒错。"
+    },
+    "translation": "在这部关于道德哲学的开创性论著中，该理论家试图将各不相同的现象学传统熔铸为一个单一而连贯的体系，从而阐明了切身体验是如何启迪抽象伦理推理的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_13",
+    "group_id": 47,
+    "group_name": "deflate, wane, flag, depreciate",
+    "level": "TEM-8",
+    "target_word": "deflate",
+    "question": "The sudden emergence of contradictory archival evidence served decisively to ___ the research team's buoyant optimism, exposing profound methodological oversights in an interpretation previously heralded as definitive.",
+    "options": [
+      "deflate",
+      "wane",
+      "flag",
+      "depreciate"
+    ],
+    "answer": "deflate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格要求填入一个能够与直接宾语 'the research team's buoyant optimism'（研究团队高涨的盲目乐观情绪）搭配的及物动词。在认知心理语境中，'deflate optimism/confidence/ego' 是极其地道且排他的学术动宾搭配，意为像戳破气球般使虚假膨胀的乐观情绪迅速破灭；而 wane 为不及物动词，flag 作不及物动词时表精力衰竭、作及物动词时仅表做标记，depreciate 仅及物搭配资产价值或个人成就，均因句法或搭配断裂而被严格排除。",
+    "distractor_analysis": {
+      "deflate": "正确。作为及物动词，deflate 在认知与心理隐喻中表示“打消、挫败、使（虚浮膨胀的情绪、自信或预期）破灭或回落”。此处与直接宾语 'the research team's buoyant optimism'（高涨盲目的乐观情绪）构成绝佳动宾搭配（deflate optimism），精准贴合由于反面文献发现而致使过度乐观情绪骤然受挫的语境。",
+      "wane": "错误。句法属性不匹配。wane 是严格的不及物动词（vi.），意为“（月相、影响力、力量）衰退、减弱”，无法直接接宾语，不可构成 '*wane somebody's optimism' 这种及物动宾结构。",
+      "flag": "错误。句法与语义双重冲突。flag 作不及物动词时表示“（因疲劳或衰老导致精力、意志）衰退、下垂”（如 interest/energy flagged），不可后接宾语；其作及物动词时意为“标记（错误等）”或“示意停车”（如 flag an error），代入句中完全无法解释后接的乐观情绪。",
+      "depreciate": "错误。语义范畴与搭配限制冲突。depreciate 作及物动词时，主要指在经济上“使……贬值”，或在人际评价中“轻视、贬低（某人的功劳、才华或成就）”（to belittle or disparage merit/achievements）。它不能用于修饰或作用于 optimism（乐观心态）这类心理认知状态，构成严重的语义搭配异常（*depreciate optimism）。"
+    },
+    "translation": "矛盾档案证据的突然出现极大地挫伤了研究团队盲目高涨的乐观情绪，揭示出这一先前被誉为定论的学术阐释中存在重大的方法论疏漏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_14",
+    "group_id": 47,
+    "group_name": "deflate, wane, flag, depreciate",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "Throughout the eighteenth century, academic enthusiasm for speculative metaphysics tended to wax and ___ in direct response to alternating periods of religious revivalism and rigorous empirical skepticism.",
+    "options": [
+      "deflate",
+      "wane",
+      "flag",
+      "depreciate"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点为英语学术界最高频的成对二元习语搭配（binomial pair）'wax and wane'（盈亏消长、起伏盛衰）。空格前紧随 'to wax and'，后文以 'alternating periods of religious revivalism and rigorous empirical skepticism'（交替出现的宗教复兴与经验怀疑主义时期）呼应思想潮流在'高涨（wax）'与'低落（wane）'之间的周期性循环。其余三个选项均无法与 wax 构成合法的成对词汇搭配，产生严重的惯用搭配破裂（severe collocational rupture）。",
+    "distractor_analysis": {
+      "wane": "正确。此处考查高级学术英语中不可分割的动词二元搭配 'wax and wane'（盈亏消长、盛衰交替）。句中后半部分的 'alternating periods...'（交替出现的不同历史时期）从话语认知逻辑上完美印证了学术界对思辨哲学的热情所经历的周期性盛衰波动。",
+      "deflate": "错误。词汇搭配违和。deflate 侧重指受外力刺破而产生的单向干瘪瘪缩（如信心崩溃、物价紧缩），在英语中不存在 '*wax and deflate' 这一成对固定用法，无法表达周期性消长。",
+      "flag": "错误。搭配排他性冲突。flag 虽然在不及物用法下可描述热情或兴趣的衰退（flagging enthusiasm），但在英语既定词汇网络中，它无法与 wax 构成反义并列习语（*wax and flag 纯属错误生造）。",
+      "depreciate": "错误。领域范畴与搭配严重不符。depreciate 意为“货币贬值”或“轻视贬低”，属于经济核算或主观价值评判范畴，既不能与 wax 连用（*wax and depreciate 不存在），也无法描述群体思想热情的自然减退与消逝。"
+    },
+    "translation": "在整个十八世纪，随着宗教复兴与严密经验怀疑主义时期的交替出现，学术界对思辨形而上学的热情往往呈现出此消彼长的周期性起伏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_15",
+    "group_id": 48,
+    "group_name": "deplore, snipe, assail, admonish",
+    "level": "TEM-8",
+    "target_word": "deplore",
+    "question": "While human rights jurists deeply ___ the tragic erosion of constitutional protections, treating this regression as a moral calamity, they lack the punitive authority to compel compliance from rogue state actors.",
+    "options": [
+      "deplore",
+      "snipe",
+      "assail",
+      "admonish"
+    ],
+    "answer": "deplore",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'the tragic erosion of constitutional protections' and logically aligns with 'treating this regression as a moral calamity', demanding a transitive verb that conveys grave moral sorrow combined with solemn condemnation.",
+    "distractor_analysis": {
+      "deplore": "正确。及物动词，意为“对……深表痛惜、强烈谴责”（to express strong disapproval of / regret strongly）。句中宾语为“the tragic erosion of constitutional protections”（宪法保障的悲剧性侵蚀），后文“treating this regression as a moral calamity”（视此倒退为道德灾难）进一步强化了其悲痛与谴责兼具的道德色彩。“deeply deplore”属于高端学术与外交公文语域中的极高频经典搭配。",
+      "snipe": "错误。句法与语域双重不符。一方面，snipe 作“抨击、讽刺”解时为不及物动词，必须接介词 at（即 snipe at），不能直接带宾语“the tragic erosion”；另一方面，其内涵为躲在暗处进行琐屑非难或放冷箭，与本句人权法学家严肃、庄重的法理与道德哀谴语域格格不入。",
+      "assail": "错误。搭配与内涵冲突。assail 为及物动词，意为“猛烈攻击、质问”，其选择限制通常要求宾语为具体的对手、政权或论点（如 assail the regime / critics），侧重主动发起侵略性、正面猛烈的进攻；而本句宾语是“the tragic erosion”（悲剧性侵蚀）这一客观恶化过程，且上下文强调的是“deeply ... as a moral calamity”（深感痛心疾首的道德悲叹），assail 缺乏 deplore 所特有的“深切悲痛、痛惜”（grief and deep regret）核心内涵。",
+      "admonish": "错误。选择限制（selectional restriction）违背。admonish 意为“训诫、告诫、劝告”，其及物动词的受事对象通常必须是具有意志的行为主体（即人，如 admonish the authorities / someone），不能以“the tragic erosion”这种抽象的退化现象作为直接宾语。"
+    },
+    "translation": "尽管人权法学家对宪法保障遭遇的悲剧性侵蚀深表痛惜与谴责，并将其视作一场道德灾难，但他们缺乏强制不轨国家行为体遵守法纪的惩罚性权力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_16",
+    "group_id": 48,
+    "group_name": "deplore, snipe, assail, admonish",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than engaging in constructive policy debates, disaffected backbenchers chose to ___ at the Prime Minister from the safe anonymity of social media, undermining party unity with petty grievances.",
+    "options": [
+      "deplore",
+      "snipe",
+      "assail",
+      "admonish"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The preposition 'at' followed by 'the Prime Minister', paired with 'from the safe anonymity of social media' and 'petty grievances', exclusively demands the intransitive, covert-harping verb 'snipe'.",
+    "distractor_analysis": {
+      "snipe": "正确。不及物动词，常与介词 at 连用（snipe at sb.），军事本义为“狙击、隐蔽射击”，在政治与评论语域中引申为“放冷枪、暗中放冷箭、在安全或隐蔽处进行琐屑刻薄的非难”。句中“at the Prime Minister”、“from the safe anonymity of social media”（借助社交媒体的安全匿名性）及“petty grievances”（琐碎怨愤）提供了决定性的句法与语义线索，完美契合其隐蔽、狭隘、放冷箭的贬义内涵。",
+      "deplore": "错误。句法严重受阻。deplore 是纯及物动词（transitive verb），其后必须直接跟名词性宾语（如 deplore the government's policy），在英语中不存在 *deplore at 的介词搭配；且其语义为庄重的谴责与痛惜，无法与“petty grievances”的琐屑语境相容。",
+      "assail": "错误。句法受阻。assail 意为“猛烈抨击、痛打”，为及物动词，必须直接支配受事客体（如 assail the Prime Minister），后接介词 at（*assail at）属于严重句法错误；此外，assail 强调整体正面、势头凶猛的攻击，与句中“safe anonymity”（安全匿名性）所体现的暗度陈仓式冷嘲截然对立。",
+      "admonish": "错误。句法受阻。admonish 意为“告诫、劝诫”，系及物动词，其基本句式为 admonish sb. (for/against sth.)，不能接介词 at（*admonish at 为错误搭配）；且后座议员因琐怨在网络上匿名攻讦党首的行为，完全不具备长辈或权威者“告诫、训诫”的语义场特征。"
+    },
+    "translation": "心怀不满的后座议员们并没有参与建设性的政策辩论，而是选择躲在社交媒体的安全匿名屏障后对首相放冷箭、冷嘲热讽，以琐碎的怨言破坏党内团结。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_17",
+    "group_id": 49,
+    "group_name": "detonate, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "detonate",
+    "question": "The sudden publication of the unredacted archival evidence was sufficient to ___ a fierce epistemological crisis across the faculty, instantly shattering decades of carefully guarded institutional consensus.",
+    "options": [
+      "detonate",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "detonate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates transitively with 'a fierce epistemological crisis' followed by the violent disruption depicted in 'instantly shattering decades of... consensus'.",
+    "distractor_analysis": {
+      "detonate": "正确。detonate 本义为“使爆炸、引爆”，在社科与认知学术语篇中极常用于比喻义，与 crisis、scandal、controversy 等名词构成高度典型的动宾搭配（如 detonate a crisis），表示“引爆危机/引发轩然大波”。句中修饰语 fierce 与结果状语 instantly shattering decades of consensus 决定性地锁定了该词所承载的“剧烈且突发式破坏”语义色彩。",
+      "flux": "错误。flux 作及物动词时仅限于冶金或物理专业语境，意为“使熔化”或“加助熔剂熔炼”，无法与抽象名词 crisis 搭配，在句法与语义上均无法成立。",
+      "fuse": "错误。fuse 意为“使结合、融合”，其语义逻辑指向将两个或多个分散的实体或理念熔铸为有机整体（如 fuse disparate traditions into a framework）。本句宾语为单数危机事件（a crisis），而非复数成分的整合，在此出现属于严重语义错位。",
+      "conflate": "错误。conflate 意为“将（两种观点、概念、文本）合并或混为一谈”，其论元结构要求存在两个可相互混淆或拼合的对象（conflate X with Y）。此处单一的 crisis 无法作为 conflate 的受事宾语。"
+    },
+    "translation": "未删节档案证据的突然公布，足以在整个学院引爆一场激烈的认识论危机，瞬间击碎了数十年被小心维系的建制性共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_18",
+    "group_id": 49,
+    "group_name": "detonate, flux, fuse, conflate",
+    "level": "TEM-8",
+    "target_word": "flux",
+    "question": "Amid the fragmentation of traditional multilateral treaties, the international security architecture remains in perpetual ___, confounding strategic planners who depend on durable institutional agreements to deter regional military aggression.",
+    "options": [
+      "detonate",
+      "flux",
+      "fuse",
+      "conflate"
+    ],
+    "answer": "flux",
+    "primary_mechanism": "MECH_LOGICAL_DISCOURSE",
+    "field": "FIELD_POLITICS_AND_LAW",
+    "anchor_clue": "Governed by the preposition 'in' and modified by the adjective 'perpetual', the slot requires an abstract uncountable noun denoting ongoing transition and instability ('in perpetual flux'), which forms a direct logical antithesis to 'durable institutional agreements'.",
+    "distractor_analysis": {
+      "flux": "正确。flux 在此用作不可数抽象名词，意为“不断的变迁；流变，不稳定状态”（Merriam-Webster: a continued flow or succession of changes）。短语“in perpetual flux”（处于永恒的流变之中）为权威学术及地缘政治文献中的经典书面搭配。在句法上，它自然承接介词 in 并由形容词 perpetual 修饰；在语篇逻辑上，“流变不定”与后文战略规划者所寻求的“durable institutional agreements”（持久的制度性协定）形成严丝合缝的反衬与对立。",
+      "detonate": "错误。detonate 严格为动词（及物/不及物），意为“（使）爆炸，引爆”。在句法上，动词原形无法填充在“in perpetual ___”结构中作介词宾语，构成不可调和的词性与句法范畴冲突（syntactic category violation）；在语义上，该词指瞬间剧烈的爆炸事件，与修饰语 perpetual（长期的、永恒的）在体貌特征上存在根本冲突。",
+      "fuse": "错误。fuse 作名词时为具体可数名词，指“导火索、引信”或“保险丝”。短语“in perpetual fuse”在英语中不存在，属于严重的搭配断裂（collocational rupture）；即使考生误将其与动词 fuse（融合）或名词 fusion（融合）混淆，该词语义侧重结合与凝聚，既无法表达“变迁动荡”，也无法与后文的“durable institutional agreements”形成合理的对比逻辑。",
+      "conflate": "错误。conflate 严格为及物动词（transitive verb only），意为“将（不同观点、概念、文本等）混为一谈、合并”。将其置于“in perpetual ___”的介词宾语位置直接违背了基础句法规则（word-class mismatch）；其抽象名词形式为 conflation，且核心语义为概念混淆，与国际安全格局的动态变迁毫无逻辑关联。"
+    },
+    "translation": "在传统多边条约日益瓦解的背景下，国际安全架构始终处于永恒的流变之中，这使得那些依赖持久制度协定来遏制地区军事侵略的战略规划者倍感困惑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_19",
+    "group_id": 50,
+    "group_name": "dice, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "dice",
+    "question": "To prepare the hippocampal specimens for ultrastructural cognitive mapping, the neurobiologist was instructed to meticulously ___ the tissue into uniform one-millimeter cubes to ensure rapid and homogeneous fixation.",
+    "options": [
+      "dice",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "dice",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词短语 'into uniform one-millimeter cubes'（切成均一的1毫米立方体）。在四个选项中，仅及物动词 dice 的核心词义为 Merriam-Webster 明确界定的 'to cut into small cubes'（将……切成小立方块），且其标准动宾与补语搭配即为 'dice sth into cubes'。其余选项无论在句法搭配还是语义维度上均无法与 'into ... cubes' 兼容。",
+    "distractor_analysis": {
+      "dice": "【正确】及物动词，意为'将……切成小立方体/丁'（to cut into small cubes）。句中用于神经解剖学标本制备程序，与后文的结果状语短语 'into uniform one-millimeter cubes' 构成精准契合的动补搭配，完全符合严谨的认知神经科学实验语境。",
+      "lop": "【排除】及物动词，通常意为'砍掉、修剪（枝叶）'或'大幅削减（冗余部分/预算）'，常与副词 off 或 away 连用（如 lop off branches）。lop 强调一刀斩除或截断，不能表示'切成立方块'，无法与 'into ... cubes' 连用，语义与句法结构均不成立。",
+      "pare": "【排除】及物动词，指'削去外皮、修剪边缘'（如 pare an apple / pare one's fingernails）或引申为'逐步削减、压缩'（常与 down 搭配，如 pare down costs）。pare 强调表层削除或渐次缩减，不可用于表达将组织块纵横切割成立方块，与 'into ... cubes' 存在严重搭配冲突。",
+      "indent": "【排除】及物/不及物动词，常见含义包括'使凹陷、使成锯齿状'、排版上的'缩进（段落开头）'或商业上的'按合同订购/征调'。该词完全不具备'切块/切丁'的语义特征，置于句中会导致句意荒谬、搭配断裂。"
+    },
+    "translation": "为了制备用于超微结构认知图谱分析的海马体标本，神经生物学家被要求严密细致地将组织切成均一的1毫米立方块，以确保固定液能够迅速且均匀地渗透。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b04_20",
+    "group_id": 50,
+    "group_name": "dice, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "To optimize the heuristic decision model, the cognitive scientists sought to ___ off the tree's redundant peripheral branches, thereby concentrating computational resources exclusively on high-probability outcomes.",
+    "options": [
+      "dice",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词小品词 'off' 结合宾语 'the tree's redundant peripheral branches'（该树状结构冗余的外围分支）。在树状层级结构（包括植物枝干与计算认知科学中的决策树 decision tree）的截除修剪语境中，'lop off branches' 是极具特异性的地道核心搭配（Merriam-Webster 明确收录示例：usually with off or away: lop off branches）。其余选项均存在严重的句法或搭配排他。",
+    "distractor_analysis": {
+      "lop": "【正确】动词，本义为'斩掉、截去（树木的枝干等）'，常与 off 构成固定短语 'lop off'，引申指'砍掉、切除（冗余分支或过剩层级）'。本句用于计算认知科学与启发式搜索决策树语境，'lop off the tree's redundant peripheral branches' 完美融合了决策树剪枝隐喻，既契合小品词 off 的句法要求，又与 branches 形成经典强搭配。",
+      "dice": "【排除】动词，核心词义为'切成小立方体'（cut into cubes）或引申为'掷骰子、冒险'（如 dice with death）。dice 无法与副词 off 构成表示修剪截断的动副搭配（英语中无 *dice off 用法），亦不可用于切割 branches，句法与逻辑均不成立。",
+      "pare": "【排除】动词，意为'削皮、修剪边缘'或'逐步缩减'，其标准惯用搭配为 pare down（如 pare down the budget），若后接 off 时仅指'削去薄薄的果皮或外层'（如 pare off the rind），绝对无法与具有主干分枝特征的 branches 搭配（英语中不存在 *pare off branches 的用法），存在显著的搭配破裂。",
+      "indent": "【排除】动词，指'使呈锯齿状、使凹陷'或段落'缩进'。indent 属于及物动词或不及物动词，完全不能与副词 off 构成切除动作，代入句中造成语法与语义的双重破损。"
+    },
+    "translation": "为了优化这一启发式决策模型，认知科学家试图截除该决策树上冗余的外围分支，从而将计算资源完全聚焦于高概率的结果之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b14_01",
+    "group_id": 141,
+    "group_name": "replenish, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "replenish",
+    "question": "Neurocognitive research demonstrates that slow-wave sleep provides an indispensable restorative window to ___ depleted cognitive reserves, thereby mitigating the severe deficits in executive function caused by sustained mental effort.",
+    "options": [
+      "replenish",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "replenish",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the direct object 'depleted cognitive reserves' operating within the purposive framework of 'an indispensable restorative window' to 'mitigat[e]... deficits'. 'Replenish' specifically and canonically collocates with depleted resources, reserves, or stocks to denote refilling what has been exhausted.",
+    "distractor_analysis": {
+      "replenish": "正确。动词，意为“补充，重新充盈（已被消耗的资源或储备）”。句中宾语为“depleted cognitive reserves”（耗竭的认知储备），且前置语境为积极的修复阶段（an indispensable restorative window），后接缓解认知损害的结果（mitigating... deficits），语义与搭配均完全契合学术规范。",
+      "clog": "错误。动词，意为“阻塞，堵塞”。侧重物质或信息对管道、通道或流速的阻滞，属于强烈的负面消极动词，与具有治疗和恢复性质的“restorative window”及“缓解缺陷”的正向语境产生严重逻辑互斥。",
+      "deluge": "错误。动词，意为“淹没，使泛滥”。通常用于大量事物排山倒海般涌来（如 deluge the senses / deluge someone with data），强调倾泻或压垮，不能与表示“重新填补空虚储备”的“depleted reserves”搭配，且逻辑方向相反。",
+      "clutter": "错误。动词，意为“使杂乱，胡乱堆满”。常接空间、桌面或头脑（如 clutter one's mind with trivialities），侧重杂乱无序而非功能性修复，置于句中会导致严重的语义畸变。"
+    },
+    "translation": "神经认知研究表明，慢波睡眠提供了一个不可或缺的修复窗口以补充耗尽的认知储备，从而缓解因持续脑力消耗所导致的执行功能严重受损。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_02",
+    "group_id": 141,
+    "group_name": "replenish, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "Chronic anxiety and intrusive thoughts can severely ___ the brain's narrow cognitive channels, thereby obstructing the fluid flow of working memory and impairing higher-order executive control.",
+    "options": [
+      "replenish",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor clue is the syntactic collocation with 'narrow cognitive channels' functioning as a conduit metaphor, directly tied to the resulting participial clause 'thereby obstructing the fluid flow'. 'Clog' is the only verb here that precisely denotes impeding or choking the flow through a channel or vessel.",
+    "distractor_analysis": {
+      "clog": "正确。动词，意为“阻塞，堵塞（通道、管道等）”。与宾语“narrow cognitive channels”（狭窄的认知通道）构成管道阻塞隐喻，与后文分词短语“obstructing the fluid flow”（阻碍流畅运转/流动）形成高度严密的因果与语义共振，精准表达负面心理状态对认知通道的物理性/机能性阻滞。",
+      "replenish": "错误。动词，意为“重新加满，补充”。主语为具有破坏性的“Chronic anxiety and intrusive thoughts”，后文明确表达损害控制力（impairing... control），与表意积极、用于恢复资源的 replenish 存在绝对的逻辑褒贬对立。",
+      "deluge": "错误。动词，意为“淹没，倾泻”。常表示大量刺激物使某主体应接不暇（如 deluge the system with signals），其核心语义是“浸润与淹没”，不能与表管道机制阻塞的“obstructing the fluid flow of narrow channels”构成合理搭配。",
+      "clutter": "错误。动词，意为“使凌乱，胡乱塞满”。常指散乱堆放杂物（clutter a room / clutter one's thoughts），关注的是无序与杂乱的形态，而无法与强调通道截面受阻、流体无法通过的“narrow channels... obstructing fluid flow”相适配。"
+    },
+    "translation": "慢性焦虑与侵入性杂念会严重阻塞大脑狭窄的认知通道，从而阻碍工作记忆的顺畅流动，并损害高阶执行控制能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_03",
+    "group_id": 142,
+    "group_name": "replicate, fawn, crook, cringe",
+    "level": "TEM-8",
+    "target_word": "replicate",
+    "question": "Despite adhering rigorously to the original laboratory protocol, independent neuroscientists failed to ___ the seminal findings, prompting widespread skepticism regarding the study's initial empirical validity.",
+    "options": [
+      "replicate",
+      "fawn",
+      "crook",
+      "cringe"
+    ],
+    "answer": "replicate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb governing the direct object 'the seminal findings' within the scientific method context of 'laboratory protocol' and 'empirical validity'.",
+    "distractor_analysis": {
+      "replicate": "正确。作及物动词，意为“（精确地）复制、重现（实验结果或研究发现）”。在科学认知语境（FIELD_COGNITION）中，replicate 与 findings, results, experiments 构成不可替代的学术核心搭配。“replicate the seminal findings”与句中的“laboratory protocol”（实验方案）及“empirical validity”（经验效度）形成严密互锁。",
+      "fawn": "错误。不及物动词，意为“奉承、巴结”，其句型必须通过介词 on 或 upon 引出对象（fawn on/upon sb.），语法上无法直接接宾语 the seminal findings，且语义与科学实验完全脱节。",
+      "crook": "错误。及物动词，意为“使弯曲、使成钩状”（如 crook one's finger 屈指），其及物搭配通常局限于具体的人体肢体部位，绝对不能支配 findings 等抽象学术认知名词。",
+      "cringe": "错误。不及物动词，意为“畏缩、退缩；感到难堪”，通常与介词 at, before 或 from 连用，无法作为及物动词支配 the seminal findings，在语法受事和语域语义上均发生严重断裂。"
+    },
+    "translation": "尽管严格遵循了原始实验方案，独立的神经科学家们仍未能复现这一开创性发现，从而引发了对该研究最初经验效度的广泛质疑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_04",
+    "group_id": 142,
+    "group_name": "replicate, fawn, crook, cringe",
+    "level": "TEM-8",
+    "target_word": "fawn",
+    "question": "Critical observers noted that several junior researchers chose to ___ upon the influential committee chair, offering effusive praise solely to secure lucrative research grants and academic patronage.",
+    "options": [
+      "replicate",
+      "fawn",
+      "crook",
+      "cringe"
+    ],
+    "answer": "fawn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Prepositional subcategorization '___ upon [person]' combined with the semantic rationale 'offering effusive praise solely to secure lucrative research grants'.",
+    "distractor_analysis": {
+      "fawn": "正确。不及物动词，意为“阿谀奉承、讨好”，其核心固定搭配为“fawn upon/on sb.”。句中后置分词短语“offering effusive praise solely to secure lucrative research grants and academic patronage”（极尽溢美之词，仅为争取丰厚的科研资助与学术庇护）提供了决定性的语义锚点，与 fawn upon 构成完美的语意共振。",
+      "replicate": "错误。及物动词，意为“复现、复制”，无法接介词 upon 引出人物受事，在此处造成严重的句法破损，且语义荒谬。",
+      "crook": "错误。动词，意为“使弯曲”，属于及物动词，不能接介词 upon 构成此类介词动词结构，亦不具备任何表达“谄媚讨好”的语用功能。",
+      "cringe": "错误。不及物动词，意为“畏缩、战栗；感到窘迫”，其介词搭配为 cringe before（在……面前畏缩颤抖）或 cringe at（对……感到难堪），不与 upon 搭配；且“畏缩”属于恐惧或羞惭的生理/心理退缩，与句中为获取资助而主动献媚的意图发生逻辑冲突。"
+    },
+    "translation": "批评人士注意到，几位年轻研究员选择对权势显赫的委员会主席阿谀奉承，极尽溢美之词，其唯一目的就是为了获取丰厚的科研经费与学术庇护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_05",
+    "group_id": 143,
+    "group_name": "retard, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "retard",
+    "question": "Recent epidemiological studies warn that chronic exposure to environmental neurotoxins during early childhood can irreversibly ___ cognitive development, impairing working memory and executive functions well into adolescence.",
+    "options": [
+      "retard",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "retard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟宾语'cognitive development'（认知发展），且由副词'irreversibly'修饰，语法上强制要求一个能够接抽象生理/认知成长进程作及物宾语的高阶动词。四选之中，仅及物动词retard构成'retard cognitive development'（阻滞/延缓认知发育）的经典学术搭配；wane与flag均为严格不及物动词，deflate语义搭配不当。",
+    "distractor_analysis": {
+      "retard": "正确选项。及物动词，意为'减缓、阻碍、延迟……的进程或发展'。在发育心理学与神经生物学文献中，'retard development/growth'属于核心高频学术搭配，完美契合此处神经毒素阻碍儿童认知成熟的语境与语法及物性要求。",
+      "wane": "错误。不及物动词，意为'（权力、影响力、光亮或强度）减弱、衰退'，绝对不能后接宾语，无法与'cognitive development'构成及物动词短语（*wane cognitive development为语法严重错误）。",
+      "flag": "错误。在此义项下为不及物动词，意为'（精力、耐力、注意力）衰退、疲惫下垂'，不可接直接宾语（*flag cognitive development不成立）。",
+      "deflate": "错误。及物动词，主要指'使充气物放气瘪掉'或比喻意'打压（通货膨胀、泡沫、某人的自尊或乐观情绪）'。其选择限制（selectional restrictions）不能用于描述有机生长或认知发育进程，与'cognitive development'产生严重语义搭配断裂。"
+    },
+    "translation": "近期的流行病学研究警告称，幼儿期长期接触环境神经毒素可能会不可逆转地阻滞认知发展，进而损害一直持续至青春期的工作记忆与执行功能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_06",
+    "group_id": 143,
+    "group_name": "retard, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "While young brains exhibit remarkable adaptive capacity, neuroscientists observe that synaptic plasticity tends to ___ steadily across adulthood, constraining the ease with which complex conceptual networks are restructured.",
+    "options": [
+      "retard",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为抽象神经认知属性'synaptic plasticity'（突触可塑性），后接副词'steadily across adulthood'（在成年期稳步……）。此处需要一个不及物动词，专指某种能力、强度或机能在生命历程中'逐渐衰退、渐次减弱'。wane与plasticity/capacities天然搭配；flag专指因疲劳而精力/注意力短暂衰竭，不能形容持久的生理机制减退；retard与deflate均为及物动词倾向且语义完全不符。",
+    "distractor_analysis": {
+      "wane": "正确选项。不及物动词，常指某种力量、强度、属性或潜能经过较长时期'逐渐衰退、式微、减弱'。在认知神经科学语境中，'plasticity / capacity wanes across adulthood'是标准的高阶学术表达，精准体现突触可塑性随年龄递增而渐进性减弱的趋势。",
+      "retard": "错误。现代学术英语中通常作为及物动词使用（阻滞某物的发展），在此不及物结构中不能用来表述'可塑性自行衰减'；若作不及物动词，其词义为物理上的'减速/滞后'，与神经机制的渐次式微完全不搭。",
+      "flag": "错误。不及物动词，侧重指由于劳累、疲乏或耗竭而导致的'活力、耐力、注意力或精神萎靡'（如attention/energy flags）。'synaptic plasticity'作为一种宏观神经生理学特征，并非易疲劳的精力实体，与flag构成严重的语域与语义搭配冲突。",
+      "deflate": "错误。主要指放气、压低气焰或紧缩通胀，通常为及物动词；即使作不及物动词，也指物体'漏气瘪掉'，无法用于描述突触可塑性随年龄增长而自然衰减的规律。"
+    },
+    "translation": "尽管幼年大脑展现出卓越的适应能力，但神经科学家观察到，突触可塑性往往会在成年期稳步减弱，从而限制了重组复杂概念网络的难易程度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_07",
+    "group_id": 144,
+    "group_name": "revamp, darn, cobble, tinker",
+    "level": "TEM-8",
+    "target_word": "revamp",
+    "question": "Confronted with widespread cognitive inertia among doctoral researchers, the faculty senate resolved to ___ the university's antiquated pedagogical architecture, transforming disjointed instructional modules into a cohesive, interdisciplinary research paradigm.",
+    "options": [
+      "revamp",
+      "darn",
+      "cobble",
+      "tinker"
+    ],
+    "answer": "revamp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb directly taking 'the university's antiquated pedagogical architecture' as its object, complemented by 'transforming disjointed instructional modules into a cohesive... paradigm' (denoting a thorough structural overhaul).",
+    "distractor_analysis": {
+      "revamp": "正确。revamp 为及物动词，指对系统、机制、课程或外观进行“全面彻底的翻新与重构”。句中直接支配宾语 'the university's antiquated pedagogical architecture'，与后文分词短语中将脱节的教学模块彻底重塑为有机研究范式的逻辑完全契合。",
+      "darn": "错误。darn 词义为“（用交织线）织补衣物破洞”，引申为微观层面缝补微小裂隙，语义范畴局限于纺织品或线状微观缝隙，无法与宏观抽象的教学制度构架（pedagogical architecture）搭配。",
+      "cobble": "错误。cobble 作动词用于抽象语境时几乎必须与 together 连用（cobble together），意为“粗劣拼凑、勉强凑成”；单独作及物动词时仅表示粗糙修鞋，既缺少小品词 together 构成句法缺陷，又在语义格调上与严谨彻底的学术体系革新相悖。",
+      "tinker": "错误。tinker 在现代学术英语中为不及物动词，必须与介词 with 搭配使用（tinker with sth.），直接后接宾语存在严重句法违误；且其含义为“微调、摆弄、浅尝辄止地修补”，与后文全面重塑的宏观结构调整形成逻辑矛盾。"
+    },
+    "translation": "面对博士研究人员中普遍存在的认知惰性，教师学术委员会决定对大学陈旧的教学架构进行彻底翻新与重构，将互不连贯的教学模块转化为一个具有凝聚力的跨学科研究范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_08",
+    "group_id": 144,
+    "group_name": "revamp, darn, cobble, tinker",
+    "level": "TEM-8",
+    "target_word": "darn",
+    "question": "In her ethnographic treatise, the anthropologist sought to ___ the frayed threads of communal memory, meticulously interlacing forgotten oral testimonies to heal the deep cultural ruptures inflicted by totalitarian censorship.",
+    "options": [
+      "revamp",
+      "darn",
+      "cobble",
+      "tinker"
+    ],
+    "answer": "darn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'the frayed threads of communal memory' and harmonizes with the textile metaphor 'meticulously interlacing... to heal the deep cultural ruptures'.",
+    "distractor_analysis": {
+      "darn": "正确。darn 意为“织补、缝缀”，在本句中采用高阶修辞引申，及物搭配“集体记忆的磨损断线”（frayed threads of communal memory），与后文分词短语中的 'meticulously interlacing'（精细交织）形成完美的纺织喻体同构，表意精微典雅。",
+      "revamp": "错误。revamp 意为“全面翻修、彻底改革”，多用于宏观制度、组织、法律或产品架构的大规模革新，不能与微观线头或裂痕类具象喻体（frayed threads）形成及物搭配，且破坏了全句细密编织的纺织意象群。",
+      "cobble": "错误。cobble 意为“粗糙修补（鞋履）”或通过短语 cobble together 表示“匆忙胡乱拼凑”，其强调动作的粗鄙与敷衍，既无法直接支配 'frayed threads'，也与后文 'meticulously interlacing'（细致交织）所体现的精巧与严谨截然对立。",
+      "tinker": "错误。tinker 属于不及物动词，通常后接介词 with 构成 'tinker with'，直接接名词短语充当宾语构成句法错误；此外其“随意摆弄、小修小补”的消极语义完全无法承载治愈历史创伤（heal ruptures）的学术厚重感。"
+    },
+    "translation": "在这部民族志论著中，这位人类学家试图织补集体记忆那已然磨损的断线，通过细密交织被遗忘的口述见证，以愈合极权审查制度所造成的深重文化断裂。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_09",
+    "group_id": 145,
+    "group_name": "ruffle, fret, grate, beset",
+    "level": "TEM-8",
+    "target_word": "ruffle",
+    "question": "Despite the relentless barrage of hostile inquiries from the parliamentary committee, the seasoned diplomat maintained an austere poise, refusing to let their vitriolic accusations ___ his customary equanimity.",
+    "options": [
+      "ruffle",
+      "fret",
+      "grate",
+      "beset"
+    ],
+    "answer": "ruffle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后直接宾语为 'his customary equanimity'（他惯常的沉着镇定），要求填入一个能够与心境、风度形成经典高阶搭配的及物动词（即 ruffle one's equanimity/composure）；其余动词在及物性或语义选择限制上均不匹配。",
+    "distractor_analysis": {
+      "ruffle": "正确。此处作及物动词，意为“使焦虑、打乱……的平静”，在正式文体中与 composure、equanimity、feathers 形成高度固定的认知与心理状态搭配，与句意“未让其尖刻的指控扰乱他一贯的从容沉着”完全契合。",
+      "fret": "错误。fret 在表示“烦躁、焦虑”的认知语义时，通常为不及物动词并需搭配介词 about/over（如 fret over sth），无法直接接“his customary equanimity”作及物宾语；其古英语及物用法多表示“侵蚀、磨损”或用于反身代词（fret oneself），与此处语境语法严重冲突。",
+      "grate": "错误。grate 表“使人恼怒、刺激”时是不及物动词，严格要求介词 on 或 upon（如 grate on sb's nerves），不可直接跟名词短语作及物宾语，此处出现及物句型属于明显语法违误。",
+      "beset": "错误。beset 虽为及物动词，意为“困扰、围攻”，但其宾语通常是遭受困扰的人、国家、体制或实体（如 doubts beset him / the problems beset the government），而非某一具体的心理修养或情绪状态（不搭配 beset one's equanimity），存在严重的语义选择限制错误。"
+    },
+    "translation": "尽管面临议会委员会接二连三的敌意质询，这位经验丰富的外交官依然保持着冷峻的仪态，没有让对方尖刻的指控扰乱自己一贯的从容沉着。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_10",
+    "group_id": 145,
+    "group_name": "ruffle, fret, grate, beset",
+    "level": "TEM-8",
+    "target_word": "fret",
+    "question": "Rather than ___ over transient market volatilities, prudent institutional investors focus their strategic capital on long-term structural resilience, dismissing short-lived speculative panics as negligible noise.",
+    "options": [
+      "ruffle",
+      "fret",
+      "grate",
+      "beset"
+    ],
+    "answer": "fret",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'over transient market volatilities' 是决定性的句法与语义锚点。四个选项中仅 fret 能与介词 over 形成不及物搭配，表示“对……焦虑担忧、苦恼发愁”。",
+    "distractor_analysis": {
+      "fret": "正确。fret over 为固定认知搭配，意为“对……感到发愁、苦恼不安”，在宏观经济与金融评论中常用于指投资者或政策制定者对短期波动的过度焦虑，与后文形成严密的逻辑对比。",
+      "ruffle": "错误。ruffle 表示“扰乱、激怒”时为及物动词，直接接宾语（如 ruffle markets），不存在 *ruffle over 的不及物搭配模式，造成句法结构断裂。",
+      "grate": "错误。grate 表“使人心烦、刺耳”时属于不及物动词，但其介词搭配必须接 on 或 upon（如 grate on the nerves），无法与 over 搭配，句法不兼容。",
+      "beset": "错误。beset 为及物动词（通常用于主动句 beset sb 或被动句 be beset by/with），意为“困扰、使苦恼”，不能作为不及物动词后接介词 over，属于严重语法错误。"
+    },
+    "translation": "审慎的机构投资者并没有为短暂的市场波动而焦虑不安，而是将战略资本集中于长期的结构性韧性，将短暂的投机性恐慌视作微不足道的杂音。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_11",
+    "group_id": 146,
+    "group_name": "salvage, rake, glean, scavenge",
+    "level": "TEM-8",
+    "target_word": "salvage",
+    "question": "Faced with overwhelming empirical counterevidence, the embattled theorist sought to ___ a coherent explanatory model from the ruins of his discredited hypothesis, hoping to preserve his academic reputation.",
+    "options": [
+      "salvage",
+      "rake",
+      "glean",
+      "scavenge"
+    ],
+    "answer": "salvage",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed metaphorical collocation 'salvage [a model/framework] from the ruins of [a hypothesis/failure]' uniquely denotes rescuing a viable theoretical structure from conceptual destruction, which excludes glean, rake, and scavenge.",
+    "distractor_analysis": {
+      "salvage": "正确。salvage 在认知与理论语境中常作比喻义，意为“从毁灭、失败或废墟中抢救/挽回（有价值之物）”，与句中宾语 'a coherent explanatory model' 以及来源状语 'from the ruins of his discredited hypothesis' 构成经典的学术搭配（salvage sth from the ruins of...）。",
+      "rake": "错误。rake 作及物动词时意为“耙梳；搜索”，常接介词 through（如 rake through files 仔细搜寻文件）或副词 up（rake up 翻旧账），无法与 'a coherent explanatory model ... from the ruins' 搭配表示从废墟中抢救出理论模型。",
+      "glean": "错误。glean 意为“费时费力地零星搜集、获取（信息、事实、知识或线索）”，其典型搭配为 glean insights/information/clues from records/surveys，强调从多处分散来源中抽取零星见解，不能用于表示从假说的废墟中“抢救/挽回”一个完整的理论模型。",
+      "scavenge": "错误。scavenge 原指食腐动物“觅食”或人在废品中“翻找弃物、拾荒”。尽管句中有 'from the ruins'，但将其用于学术理论构建（explanatory model）会产生极其严重的语域冲突（register clash）与贬抑色彩，且该词强调搜寻残羹碎屑以供利用，无法表达抢救并保全核心系统的含义。"
+    },
+    "translation": "面对压倒性的经验反证，这位处境艰难的理论家试图从其名誉扫地的假说废墟中抢救出一套自洽的解释模型，以期保住自己的学术声誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_12",
+    "group_id": 146,
+    "group_name": "salvage, rake, glean, scavenge",
+    "level": "TEM-8",
+    "target_word": "rake",
+    "question": "Rather than fostering constructive academic consensus, the revisionist historian chose to ___ up long-buried ideological disputes, deliberately reopening historical wounds that had taken generations to heal.",
+    "options": [
+      "salvage",
+      "rake",
+      "glean",
+      "scavenge"
+    ],
+    "answer": "rake",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrasal verb collocation 'rake up' strictly governs past unpleasant controversies or grievances ('long-buried ideological disputes'), whereas salvage, glean, and scavenge do not form this grammatical or semantic particle combination.",
+    "distractor_analysis": {
+      "rake": "正确。rake up 为权威词典（如 Merriam-Webster）明确收录的固定短语搭配，专指“重提旧事；翻出（早已平息的不快往事、旧怨、丑闻）”（to revive the memory of something unpleasant），与空格后的介词小品词 up、宾语 'long-buried ideological disputes' 以及后文的 'reopening historical wounds' 构成严丝合缝的语意与句法共现。",
+      "salvage": "错误。salvage（挽救、抢救）为纯及物动词，现代标准英语中绝不与小品词 up 连用（无 *salvage up 结构）；且其语义侧重于在危机中保全积极价值，与揭开历史创伤的消极消极语境彻底冲突。",
+      "glean": "错误。glean（收集、汲取信息）是严格的单及物动词，不可与 up 搭配构成短语动词（*glean up 属于严重语法搭配错误）；且其词义仅指逐步搜集知识或事实，不含翻旧账、揭疮疤之意。",
+      "scavenge": "错误。scavenge（觅食；搜寻废弃物）在规范学术语体中不与 up 搭配；即使在非正式口语中偶有 scavenge up 杂凑物品的用法，也仅能接具体物理碎屑或生活物资，绝不能支配 'ideological disputes' 等抽象历史争端，属于明显的搭配断裂与语域不符。"
+    },
+    "translation": "这位修正主义历史学家不仅没有促进建设性的学术共识，反而选择翻出尘封已久的意识形态争端，蓄意揭开历经数代人才得以抚平的历史创伤。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_13",
+    "group_id": 147,
+    "group_name": "shatter, mar, impair, blemish",
+    "level": "TEM-8",
+    "target_word": "shatter",
+    "question": "The sudden collapse of the regional lender served to ___ the enduring illusion of regulatory infallibility, forcing institutional investors to confront the fragile reality beneath modern algorithmic risk management.",
+    "options": [
+      "shatter",
+      "mar",
+      "impair",
+      "blemish"
+    ],
+    "answer": "shatter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心动宾搭配锚点为“___ the enduring illusion of regulatory infallibility”。在认知隐喻与学术语篇中，表示使某种根深蒂固的“幻觉、幻想（illusion）”或“神话（myth）”彻底粉碎破灭，唯一具备极强固化搭配特性的动词是 shatter。",
+    "distractor_analysis": {
+      "shatter": "正确。shatter 在抽象认知领域常与 illusion、myth、complacency 等构成经典动宾搭配（shatter the illusion），意为“彻底粉碎、击碎（虚妄的认知或假象）”，极其精准地传达出外力剧烈冲击导致长久幻觉瞬间破灭的动态过程。",
+      "mar": "错误。mar 意为“损毁、破坏……的完美”，其支配的对象通常是原本完好、美好或令人满意的事物或事件（如 mar the beauty/harmony/proceedings）。“illusion（假象、幻觉）”并非正向价值的完满之物，不能与 mar 搭配（不可说 mar an illusion）。",
+      "impair": "错误。impair 指机能、器官功能或运作能力的“减弱、受损”，宾语通常为生理或心理机能（如 impair cognitive function, impair judgment, impair vision），不能与表认知假象的名词 illusion 搭配，存在语义范畴与搭配不当。",
+      "blemish": "错误。blemish 强调在纯洁无瑕的表面、道德、履历或声誉上“留下污点、玷污”（如 blemish one's reputation / pristine record），无法用于抽象的认知幻影破灭语境。"
+    },
+    "translation": "这家区域性银行的突然倒闭，彻底粉碎了监管万无一失的持久幻象，迫使机构投资者不得不正视现代算法风险管理背后脆弱的现实。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_14",
+    "group_id": 147,
+    "group_name": "shatter, mar, impair, blemish",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "The author's persistent indulgence in arcane jargon served only to ___ what was otherwise an exceptionally lucid exposition, alienating readers who sought an accessible overview of cognitive neuroscience.",
+    "options": [
+      "shatter",
+      "mar",
+      "impair",
+      "blemish"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式与语义排他锚点为“served only to ___ what was otherwise an exceptionally lucid exposition”。mar 与“what was otherwise a/an...”构成高阶英语中表达“个别缺陷损害了整体原本近乎完美之物”的标志性经典搭配，专指损及某篇章或作品的完好品质。",
+    "distractor_analysis": {
+      "mar": "正确。mar 意为“破坏……的完美度、使……美中不足（to ruin or diminish the perfection or wholeness of）”，在学术书评与高阶政论中经常与结构“what was otherwise an exceptionally...”（原本极为……的整体）搭配。句中晦涩的行话破坏了整篇论述原本极具明晰度的优点，搭配与文体色彩完全契合。",
+      "shatter": "错误。shatter 意为“使粉碎、暴力破坏”，语义烈度过强，一般用于破除信念、幻觉（shatter illusions）或打破宁静（shatter the peace），不能用于描述文风瑕疵对一篇论述（exposition）整体品质的贬损。",
+      "impair": "错误。impair 的核心语义是功能、系统或身体/认知能力的弱化受损（如 impair hearing, impair cognitive ability），“exposition（阐释、论述文本）”并非生命体或机能系统，不能作为 impair 的宾语。",
+      "blemish": "错误。blemish 侧重于在光洁的表面或清白的声誉、记录上留下具体的“污点、瑕疵”（如 blemish a spotless reputation），不能支配表达文风与阐释质量的名词性从句“what was otherwise an exceptionally lucid exposition”。"
+    },
+    "translation": "作者一味沉湎于晦涩难懂的行话，仅仅破坏了这篇原本极为清晰流畅的论述，从而疏远了那些原本期望获得认知神经科学通俗概述的读者。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_15",
+    "group_id": 148,
+    "group_name": "shear, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "shear",
+    "question": "By subjecting traditional ontological doctrines to unsparing logical analysis, the revisionist critique sought to ___ the philosophical establishment of its speculative pretensions and dogmatic complacency.",
+    "options": [
+      "shear",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "shear",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive construction '___ [NP] of [NP]' functioning in an epistemic critique to mean 'divest or strip someone/something of an abstract attribute (power, pretension, illusion)'.",
+    "distractor_analysis": {
+      "shear": "正确。shear 除表示物理上的“剪切、剪羊毛”外，在高级学术与认知哲学语境中，常用于比喻义，且拥有高度固定的及物搭配句式“shear somebody/something of something”，意为“剥夺、削减某人/某事物的（权力、名望、虚妄幻想等）”，在此句中与“the philosophical establishment of its speculative pretensions”在句法接格和认知去魅的语境上达成完美契合。",
+      "lop": "错误。lop 意为“剪除、砍去（枝叶或赘物）”，其核心句法配价通常后接副词 off 或介词 from（如 lop off something 或 lop something from...），在现代英语中完全不具备“lop [宾语] + of + [抽象概念]”的句法接格能力，填入此处会导致严重句法断裂。",
+      "pare": "错误。pare 意为“削皮、微幅削减”，通常作为及物动词直接接宾语（如 pare expenses）或与副词 down/back 连用构成短语动词（如 pare down the curriculum），同样无法支配“pare [宾语] + of [名词]”这一双宾式剥夺结构，语义侧重于渐进微调而非彻底剥除伪装。",
+      "indent": "错误。indent 作为动词主要表示“使缩进（排版）”、“在边缘形成锯齿/深凹”或“（凭契约）订购/约束”，完全不符合句子表达的“剥离哲学界的投机妄念”这一认知批判语义，且语法结构完全不匹配。"
+    },
+    "translation": "通过使传统的本体论学说经受毫不留情的逻辑分析，这场修正主义批判旨在剥除哲学界沉溺的思辨虚妄与教条自满。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_16",
+    "group_id": 148,
+    "group_name": "shear, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "By automating preliminary psychometric screening, the restructured diagnostic protocol managed to ___ several weeks off the cognitive assessment process, allowing clinicians to initiate targeted neurorehabilitation much earlier.",
+    "options": [
+      "shear",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The highly specific idiomatic reduction collocation '___ [quantified duration/amount] off [NP]', signifying a substantial and decisive excision of time or costs.",
+    "distractor_analysis": {
+      "lop": "正确。lop 在现代英语（尤其是严谨的高级实证与应用学术文本中）拥有标志性固定搭配“lop [时间/金额/数量] off [某过程/总量]”，意为“大幅削减、砍去（一段时间或开支）”。在此句中与“several weeks off the cognitive assessment process”形成不可替代的习惯搭配，精确生动地传达了优化流程后显著省去数周评估时间的成效。",
+      "shear": "错误。shear 虽然在物理学中可表示“剪切变形”，在比喻中可表示“剥夺（shear of）”，但决不能与表示时间区间的宾语及介词 off 搭配使用（无 *shear several weeks off 之说），属严重的动词搭配错位。",
+      "pare": "错误。pare 虽可表示削减，但通常与 down 搭配（如 pare down the schedule），若接 off 则基本限于物理剥离果皮（如 pare off the rind），在英语母语语感中极少且极其不自然地与具体时间跨度（several weeks）构成“pare [time] off”的句法组合。",
+      "indent": "错误。indent 无任何“削减、扣除（时间/成本）”之意，既不符合“缩短认知评估流程”的行文逻辑，也无法与介词 off 连用构成表示减少的搭配。"
+    },
+    "translation": "通过将前期的心理测评筛查自动化，这一重构后的诊断方案成功将认知评估流程缩短了数周，使临床医生能够更早开展针对性的神经康复治疗。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_17",
+    "group_id": 149,
+    "group_name": "shirk, shun, fudge, evade",
+    "level": "TEM-8",
+    "target_word": "shirk",
+    "question": "In collaborative fieldwork, lead scientists must never ___ the grueling drudgery of sample collection, as offloading such unglamorous manual toil onto junior assistants breeds profound resentment and undermines team cohesion.",
+    "options": [
+      "shirk",
+      "shun",
+      "fudge",
+      "evade"
+    ],
+    "answer": "shirk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational tie with 'the grueling drudgery', reinforced by the explanatory clause 'offloading such unglamorous manual toil onto junior assistants', which uniquely denotes slacking off and avoiding physical labor/effort.",
+    "distractor_analysis": {
+      "shirk": "正确。shirk 专指“（因偷懒、怕苦或图安逸而）逃避、推卸（繁重工作、苦差或体力付出）”，与 drudgery（单调苦工）、toil（繁重劳役）构成权威词典及语料库中公认的高频典范搭配（如 Oxford Collocations Dictionary 明确收录 shirk drudgery / shirk toil）。后文分句中的“offloading such unglamorous manual toil onto junior assistants（将此类乏味繁重的体力活甩给初级助理）”精确锁定了因怕苦偷懒而消极避劳、转嫁负担的行为特征，完全切合题意。",
+      "shun": "错误。shun 指“出于道德信条、审慎考虑或厌恶本能而有意回避、戒绝或远离（某人/某不良事物）”，典型搭配为 shun publicity（避开公众瞩目）、shun worldly pleasures（远离尘世享乐）、shun vice（戒除恶习）。在科研工作流程中，负责人对分配给自己的脏活累活产生畏难逃避情绪，属于劳动态度上的“偷懒避劳”，而非出于原则性禁欲的“远离/戒绝”，语域及语义严重不匹配。",
+      "fudge": "错误。fudge 作及物动词时意为“含糊其辞地搪塞、伪造或篡改（数据、账目、边界、议题）”，常用搭配包括 fudge the data, fudge the issue, fudge the figures。其核心含义是通过弄虚作假或模糊概念蒙混过关，完全无法与表示繁重苦差的 drudgery 构成动宾搭配，属于语义范畴错误。",
+      "evade": "错误。evade 强调“凭借狡黠的手段、策略或智谋逃脱追捕、逃避审查或规避法定强制性义务”（如 evade capture, evade taxes, evade direct questions）。本句宾语是 grueling drudgery（单调繁重的体力苦役），drudgery 属于必须耗费汗水与耐力承担的实际劳作，既非追捕者，亦非可借助法律漏洞或智谋予以巧妙周旋逃脱的规章制度；英语中无法搭配“evade drudgery/toil”，推卸艰苦体力劳动的唯一精准动词是 shirk。"
+    },
+    "translation": "在合作实地调研中，领衔科学家绝不可逃避样本采集这一枯燥繁重的苦差事，因为将此类乏味的体力劳动完全甩给初级助理会引发强烈不满，并破坏团队的凝聚力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_18",
+    "group_id": 149,
+    "group_name": "shirk, shun, fudge, evade",
+    "level": "TEM-8",
+    "target_word": "shun",
+    "question": "Despite his seminal contributions to theoretical physics, the reclusive scholar chose to ___ the academic limelight, consistently refusing prestigious accolades, media interviews, and lucrative commercial endorsements throughout his lifetime.",
+    "options": [
+      "shirk",
+      "shun",
+      "fudge",
+      "evade"
+    ],
+    "answer": "shun",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Idiomatic collocation with 'the academic limelight', corroborated by 'reclusive scholar' and the deliberate rejection of public attention ('refusing prestigious accolades, media interviews').",
+    "distractor_analysis": {
+      "shun": "正确。shun 意为“避开、刻意远离（名利、公众关注、社交）”，与 limelight, publicity, public eye 构成高度固化的经典搭配（shun the limelight 指“远离聚光灯/避开公众关注”）。句中 reclusive（隐居的）与后文拒绝荣誉和采访的行为，构成了对 shun 的决定性语义锚定。",
+      "shirk": "错误。shirk 专指消极逃避“劳动、工作、责任或义务（duties, chores, responsibilities）”。“聚光灯/公众关注（limelight）”并非法定必须履行的劳累义务，无法与 shirk 形成合理搭配。",
+      "fudge": "错误。fudge 指通过模糊策略敷衍问题或篡改事实（如 fudge the details, fudge the truth），不能接 limelight，语义和语法搭配均完全脱节。",
+      "evade": "错误。evade 指以机敏、逃窜或欺骗手段躲避追捕、审讯、税收或危险（如 evade pursuit, evade detection）。limelight 是一种公众瞩目的状态而非实质性威胁或追击者，在表达“隐士淡泊名利、主动远离聚光灯”时，英语中固定使用 shun the limelight 而非 evade。"
+    },
+    "translation": "尽管对理论物理学作出了开创性贡献，这位避世隐居的学者却选择远离学术界的聚光灯，终其一生都一贯拒绝接受声名显赫的奖项、媒体采访以及利润丰厚的商业代言。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_19",
+    "group_id": 150,
+    "group_name": "shrivel, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "shrivel",
+    "question": "Deprived of the invigorating nourishment of empirical debate, the once-vibrant philosophical tradition began to ___ into an insular scholasticism, progressively divorced from the urgent social realities of the era.",
+    "options": [
+      "shrivel",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "shrivel",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首短语“Deprived of the invigorating nourishment”提供了核心生物隐喻锚点（因缺乏养分而枯萎），且后接介词短语“into an insular scholasticism”，在四个选项中仅有 shrivel 具备“shrivel into...”的句法搭配能力与语义兼容性。",
+    "distractor_analysis": {
+      "shrivel": "正确。shrivel 的核心词义为“枯萎、皱缩、萎缩”（Merriam-Webster: wither, as with a loss of moisture），常引申指思想、活力或机构因失去养料而衰萎并蜕化为干瘪僵死的形态。“shrivel into...”为学术英语中的地道搭配，生动表现出原本富有活力的学说萎缩退化为封闭教条的过程，与前文的“nourishment”（滋养）构成严密的隐喻闭环。",
+      "wane": "错误。wane 指权力、影响、光芒或声势的“逐渐衰减、减弱”（如 influence wanes），为纯不及物动词，不能与表示结果形态的介词短语“into + 名词短语”连用（英语中无 *wane into 之搭配），在句法上直接被排除。",
+      "flag": "错误。flag 指体力、精力、热情或注意力因疲惫而“衰退、下垂、变得无精打采”（如 enthusiasm/energy flags），属于不及物动词，既不能接“into”引导的定向结果补足成分，也无法用来修饰客观学术体系的僵化演变。",
+      "deflate": "错误。deflate 意为“放气、漏气”或引申为“打压通胀、挫伤（自尊或虚荣）”，其隐喻模型源自充气物体瘪缩，与文中“nourishment”所代表的有机体生长/枯萎隐喻完全冲突，且不与“into an insular scholasticism”搭配。"
+    },
+    "translation": "由于被剥夺了经验性辩论的生机滋养，这一曾经充满活力的哲学传统开始萎缩蜕变为一种封闭狭隘的经院哲学，逐渐与那个时代紧迫的社会现实相脱节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b14_20",
+    "group_id": 150,
+    "group_name": "shrivel, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "After reaching its intellectual zenith in the mid-twentieth century, the philosopher's theoretical influence began to ___ as younger epistemologists increasingly embraced empirical methodologies and cognitive neuroscience.",
+    "options": [
+      "shrivel",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“zenith”（天顶、巅峰）与“wane”（亏缺、衰微）构成经典的天文对仗隐喻，且“influence begins to wane”（影响力开始衰退）属于韦氏词典明确定下的标准强搭配（to fall gradually from power, prosperity, or influence）。",
+    "distractor_analysis": {
+      "wane": "正确。Merriam-Webster 将 wane 的专门义界定为“specifically : to fall gradually from power, prosperity, or influence”。在认知思想史语境中，“theoretical influence begins to wane”是极为严谨的地道学术搭配；同时，前半句的“intellectual zenith”（学术天顶/鼎盛时期）与 wane（月亏、衰微）形成了精妙的天文意象呼应，为唯一正解。",
+      "shrivel": "错误。shrivel 强调物理或生理意义上的脱水皱缩、干瘪（wither），一般不用于直接搭配抽象的“theoretical influence”作其衰落的不及物谓语，属于严重的搭配不当与语义场错位。",
+      "flag": "错误。flag 专用于指代主观的精力、情绪、士气或关注度的“疲沓、减弱”（例如 one's interest/stamina flags），其语义选择限制严格限定于具有生命体表征的活力，不能修饰思想或理论在学界的影响力。",
+      "deflate": "错误。deflate 侧重指原本虚高、膨胀的物体或傲气“被戳破、瘪下”（如 deflate an ego / deflate asset bubbles），本句并未指称该哲学家的学术威望是虚假浮夸的泡沫，且 deflate 与句首的“zenith”无法形成天文衰变层面的修辞对照。"
+    },
+    "translation": "在二十世纪中叶达到其学术巅峰之后，随着年轻一代认识论学者日益转向经验主义方法论和认知神经科学，这位哲学家的理论影响力开始逐渐衰落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -96,21 +96,21 @@
     },
     {
       "group_id": 546,
-      "group_name": "infernal, damn, blame, damned",
+      "group_name": "infernal, execrable, abominable, heinous",
       "target_word": "infernal",
       "words": [
         "infernal",
-        "damn",
-        "blame",
-        "damned"
+        "execrable",
+        "abominable",
+        "heinous"
       ],
       "pos": "adj",
       "field": "FIELD_STANCE",
       "primary_mechanism": "MECH_REGISTER",
       "theme_label": "infernal 与近义词辨析",
-      "synset_definition": "expletives used informally as intensifiers",
-      "t8_count": 1,
-      "cas_score": 74
+      "synset_definition": "deserving or evoking intense abhorrence, outrage, or condemnation; characteristic of or resembling hell",
+      "t8_count": 4,
+      "cas_score": 100
     },
     {
       "group_id": 547,

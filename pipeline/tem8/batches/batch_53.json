@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b53_01",
+    "group_id": 531,
+    "group_name": "downright, rank, sheer, absolute",
+    "level": "TEM-8",
+    "target_word": "downright",
+    "question": "Although corporate spokespersons framed the unauthorized offshore transfers as routine portfolio adjustments, parliamentary investigators concluded that the maneuvers were not merely evasive, but ___ fraudulent, warranting immediate criminal referral.",
+    "options": [
+      "downright",
+      "rank",
+      "sheer",
+      "absolute"
+    ],
+    "answer": "downright",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_ECON",
+    "anchor_clue": "The predicative position directly preceding the evaluative adjective 'fraudulent' in the correlative escalation 'not merely evasive, but ___ fraudulent' strictly mandates a flat degree adverb conveying blunt, unvarnished censure; 'downright' is the only word in the cluster capable of functioning adverbially to modify an adjective, whereas 'rank', 'sheer', and 'absolute' produce immediate syntactic category violations.",
+    "distractor_analysis": {
+      "downright": "正确。在此处作程度副词（flat adverb），意为“彻底地、完全地；直截了当且毫不掩饰地（bluntly, thoroughly, unmistakably）”，常修饰带有负面或严厉评价色彩的形容词（如 downright fraudulent, downright dangerous, downright hostile）。《韦氏词典》指出，downright 强调所指事物显而易见、生硬粗暴且毫无粉饰（plain, blunt, and unmistakable）。句中空后为形容词 fraudulent，与 evasive 构成递进表语结构；downright 无论在句法修饰功能上，还是在剥除企业公关委婉说辞、直斥其违法本质的语篇逻辑上，均完美契合。",
+      "rank": "错误。在此同义词群中作形容词，意为“恶臭的；（道德、行为或能力上）极度恶劣的、无可救药的（flagrant, gross）”。rank 无法充当程度副词修饰形容词 fraudulent；在现代标准英语中不存在“*rank fraudulent”的句法组合（副词形式需加 -ly 为 rankly，但在本语境中亦不符合搭配习惯）。rank 仅能作定语形容词修饰特定抽象名词（如 rank hypocrisy, rank amateur, rank injustice），代入此处会造成直接的句法破裂（syntactic violation）。",
+      "sheer": "错误。主要作形容词，意为“纯粹的、无杂质的”或强调“数量规模庞大、垂直险峻”（pure, unmixed; steep）。尽管 sheer 可以修饰许多表示极端负面概念的名词（如 sheer folly, sheer hostility, sheer fraud），但它属于纯粹的形容词，在现代标准学术与政论英语中绝对不能充当程度副词修饰形容词（无法说“*sheer fraudulent”）。中国考生常因其汉语释义“全然的、十足的”而误用作副词，代入本句会产生严重的句法范畴错误（syntactic category error）。",
+      "absolute": "错误。作形容词，意为“绝对的、完全的、无条件的”（unconditional, complete）。absolute 属于形容词，无法直接修饰形容词 fraudulent 作状语；若要表达“完全欺诈的”，在严谨的书面语中必须使用其规则派生的副词形式 absolutely（即 absolutely fraudulent）。将形容词 absolute 直接置于形容词前作程度修饰语属于词性与形态错误（morphosyntactic violation），在议会调查与学术政论的高端语体中不能成立。"
+    },
+    "translation": "尽管企业发言人将未经授权的离岸资金转移辩解为常规的投资组合调整，但议会调查人员认定这些运作不仅是规避监管，更是彻头彻尾的欺诈行为，理应立即移送刑事立案。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_02",
+    "group_id": 531,
+    "group_name": "downright, rank, sheer, absolute",
+    "level": "TEM-8",
+    "target_word": "downright",
+    "question": "The appellate court ruled that the state legislature's retroactive taxation scheme was not merely economically disruptive, but ___ unconstitutional, as it systematically dismantled settled property rights without due process.",
+    "options": [
+      "downright",
+      "rank",
+      "sheer",
+      "absolute"
+    ],
+    "answer": "downright",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_LAW",
+    "anchor_clue": "The correlative predicative structure 'not merely economically disruptive, but ___ unconstitutional' establishes an airtight syntactic and collocational anchor requiring an intensifying degree adverb to directly modify the predicate adjective 'unconstitutional'. Among the four cluster words, 'downright' is uniquely licensed in standard English to function as a degree adverb qualifying an adjective (e.g., 'downright unconstitutional'); 'rank', 'sheer', and 'absolute' are strictly adjectives in this intensifying semantic field and generate an immediate, fatal syntactic violation when placed directly before another adjective without adverbial morphology.",
+    "distractor_analysis": {
+      "downright": "正确。作程度副词，意为“彻头彻尾地、完全地、公然地”。《韦氏词典》与《牛津英语词典》明确收录 downright 兼作程度副词，专门用于直接修饰形容词以强调某种极端或令人反感的消极属性（thoroughly, completely, plainly）。句中与前面的副词短语 'economically disruptive' 形成严密的对仗修饰（'not merely economically disruptive, but downright unconstitutional'）；在英美高级司法判例与宪政法学语域中，'downright unconstitutional' 是用以痛斥某项法令或行径公然践踏宪法原则的经典规范表达。",
+      "rank": "错误。作强化修饰词时意为“极端的、十足的”（如 rank amateur, rank hypocrisy, rank cowardice）。但在现代英语中 rank 属于纯粹的前置定语形容词，绝无副词功能，根本无法在句法上修饰表语形容词 unconstitutional（*rank unconstitutional 属于严重句法语病），故直接排除。",
+      "sheer": "错误。作强化形容词时意为“纯粹的、全然的”（如 sheer folly, sheer luck, sheer exhaustion）。sheer 同样仅能充当定语形容词修饰名词，无法充当程度副词直接修饰形容词（*sheer unconstitutional 在句法层面完全不成立），因而无法填入该空。",
+      "absolute": "错误。作形容词表示“绝对的、完全的”（如 absolute certainty, absolute power）。尽管其词义与语境中的完全性呼应，但此处所给选项为形容词原形 absolute，若要修饰形容词 unconstitutional，在句法上必须添加副词后缀变为 absolutely（absolutely unconstitutional）；直接使用形容词 absolute 修饰形容词构成了基础的词性搭配错误。"
+    },
+    "translation": "上诉法院裁定，州立法机构出台的追溯性征税方案不仅在经济上具有破坏性，而且是彻头彻尾的违宪之举，因为它在缺乏正当法律程序的情况下系统性地剥夺了既得财产权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_03",
+    "group_id": 532,
+    "group_name": "earthy, crude, gross, vulgar",
+    "level": "TEM-8",
+    "target_word": "earthy",
+    "question": "Literary scholars commended the novelist for portraying rural society with ___ frankness, arguing that his robust focus on physical appetites conveyed natural, wholesome vitality rather than mere gratuitous indecency.",
+    "options": [
+      "earthy",
+      "crude",
+      "gross",
+      "vulgar"
+    ],
+    "answer": "earthy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "arguing that his robust focus on physical appetites conveyed natural, wholesome vitality rather than mere gratuitous indecency",
+    "distractor_analysis": {
+      "earthy": "正确。earthy 在文学与修辞语境中特指“朴实无华的、不加掩饰的、直面肉体本能却充满健康生命力的”（direct, robust, and uninhibited, especially in dealing with bodily appetites without squeamishness or malice）。句中“natural, wholesome vitality”（天然健康的生命力）与“rather than mere gratuitous indecency”（而非无端的猥亵）构成决定性锚点，精准对应 earthy 所特有的“不避粗俗但健全坦荡”的情感色彩与语义特征。",
+      "crude": "错误。crude 强调“粗糙的、简陋的、未经提炼或缺乏技巧修养的”（lacking refinement, tact, or finish），带有负面贬义色彩，指表达或做工拙劣生硬，无法承接学者所赞许的“natural, wholesome vitality”。",
+      "gross": "错误。gross 强调“极其粗鄙的、令人厌恶的、放肆不堪的”（conspicuously and tastelessly indecent; offensive to sensitivity），语义极具排斥感与谴责性，与后文明确排除的“gratuitous indecency”直接重叠，置入句中会产生强烈的逻辑自相矛盾。",
+      "vulgar": "错误。vulgar 侧重指“庸俗的、下流的、缺乏品位与教养的”（lacking in cultivation, taste, or decency; boorish），通常体现出社会阶层或审美层面的低俗与失礼，与句中“commended”（赞扬）和“wholesome vitality”（健康生命力）的肯定性评价背道而驰。"
+    },
+    "translation": "文学学者赞扬这位小说家以一种质朴坦率的笔触描绘乡村社会，认为他对肉体本能的有力聚焦传达出一种天然健康的生命活力，而非仅仅是无谓的低俗猥亵。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_04",
+    "group_id": 532,
+    "group_name": "earthy, crude, gross, vulgar",
+    "level": "TEM-8",
+    "target_word": "earthy",
+    "question": "Rejecting the bloodless abstractions of metropolitan theorists, the agronomist grounded his policy recommendations in the ___ wisdom of local farmers, whose unpretentious instincts reflected generations of direct contact with the land.",
+    "options": [
+      "earthy",
+      "crude",
+      "gross",
+      "vulgar"
+    ],
+    "answer": "earthy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "unpretentious instincts reflected generations of direct contact with the land",
+    "distractor_analysis": {
+      "earthy": "正确。earthy 兼具字面与比喻义，指“泥土般的、淳朴脚踏实地的、具有乡土智慧的”（down-to-earth, rustic, practical and unpretentious）。句中“direct contact with the land”（与土地的直接联系）以及“unpretentious instincts”（不慕虚饰的直觉）与 earthy 的词源和核心意涵构成严密互文，同时与前半句的“bloodless abstractions”（苍白空洞的抽象概念）形成鲜明的文体对仗。",
+      "crude": "错误。crude 指“原始粗陋的、粗浅低劣的”（rudimentary, ill-formed, or defective）。若形容农民的智慧为 crude wisdom，则意味着其智慧是“粗糙落后、漏洞百出的”，这与农学家将其作为政策制定根基（grounded his policy recommendations in...）的尊崇态度相悖。",
+      "gross": "错误。gross 意为“显而易见的、严重的、极度粗俗的”（flagrant; coarse and offensive）。与 wisdom 搭配在语义认知上存在严重语义失配（collocational rupture），且带有强烈的负面道德或审美贬义。",
+      "vulgar": "错误。vulgar 指“通俗低级的、粗鄙无教养的”（plebeian, coarse, socially offensive）。用以修饰农民的世代经验智慧会贬低其认知价值，完全违背语境所要表达的“质朴天然、扎根大地”的褒义导向。"
+    },
+    "translation": "这位农学家摒弃了大都市理论家空洞苍白的抽象概念，将自己的政策建议建立在当地农民质朴而扎根乡土的智慧之上，这些农民不加修饰的直觉凝结了世代与土地直接打交道的宝贵经验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_05",
+    "group_id": 533,
+    "group_name": "elemental, basic, primary, elementary",
+    "level": "TEM-8",
+    "target_word": "elemental",
+    "question": "In his critique of psychoanalytic theory, the philosopher argued that existential dread is not an acquired cultural neurosis, but a profoundly ___ force of consciousness, possessing a raw, visceral intensity that resists rational moderation.",
+    "options": [
+      "elemental",
+      "basic",
+      "primary",
+      "elementary"
+    ],
+    "answer": "elemental",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The modifier phrase 'possessing a raw, visceral intensity that resists rational moderation' requires a word denoting an untamed, primeval power resembling a force of nature, perfectly activating the distinctive nuance of 'elemental'.",
+    "distractor_analysis": {
+      "elemental": "正确。Merriam-Webster 明确收录其核心语义为“resembling a great force of nature in power or simplicity; primal, visceral”（如自然之力般强大、质朴；原始的，发自本能的）。在认知与心理哲学语境中，“elemental force”指代未经文明理性雕琢的原始心理力量，与后文的“raw, visceral intensity”（粗粝而本能的强度）及“resists rational moderation”（抗拒理性调和）形成严密呼应。",
+      "basic": "错误。“basic”强调“基础的、起码的、作为基底的”（forming an underlying base or minimum standard，如 basic skills, basic needs）。用其修饰“force”仅能表达“最简或基础的力量”，语体寡淡平庸，完全无法体现文中强调的如自然力般狂暴、原始、深层的本能强度。",
+      "primary": "错误。“primary”侧重在时间顺序、重要性层级或因果链条中居于“第一位的、首要的”（first in rank, importance, or sequence，如 primary cause）。该词描述的是序列或重要性等级，而非事物本身的野性、原始与不可驯服的心理特质，且不与副词“profoundly”搭配来修饰此类本能力量。",
+      "elementary": "错误。“elementary”专指“初级的、起步阶段的、浅显易懂的”（introductory, rudimentary, or uncomplicated，如 elementary school, elementary logic），通常与 advanced 相对。用于描述存在主义层面的剧烈心理焦虑会产生荒谬的语域错位，将其严重贬低为“初浅、简陋”的力量。"
+    },
+    "translation": "哲学家在批判精神分析理论时指出，存在主义焦虑并非后天习得的文化神经官能症，而是一种深刻的原始意识力量，蕴含着一种抗拒理性调和的粗粝而本能的强度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_06",
+    "group_id": 533,
+    "group_name": "elemental, basic, primary, elementary",
+    "level": "TEM-8",
+    "target_word": "elemental",
+    "question": "In his philosophical inquiry into the sublime, Edmund Burke argued that human artifice crumbles before the ___ fury of oceanic storms, where nature’s raw, terrifying grandeur evokes a profound consciousness of mortal insignificance.",
+    "options": [
+      "elemental",
+      "basic",
+      "primary",
+      "elementary"
+    ],
+    "answer": "elemental",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "The decisive syntactic and semantic anchor is 'the ___ fury of oceanic storms', reinforced by the relative clause 'where nature’s raw, terrifying grandeur evokes...'. Lexicographically, only 'elemental' specifically denotes the raw, primeval, and wild forces of nature or weather (Merriam-Webster: 'of, relating to, or being the forces or agencies of the physical world (as of the weather) : raw, primeval, wild, fierce <the elemental fury of the storm>').",
+    "distractor_analysis": {
+      "elemental": "正确。在此语境中，'elemental' 具有无可替代的词义与搭配特权。根据《韦氏词典》（Merriam-Webster），'elemental' 的核心义项之一专指 'of, relating to, or being the forces or agencies of the physical world (as of the weather) : raw, primeval, wild, fierce'（源自自然力或恶劣天气的；原始狂暴的、狂野猛烈的），其权威例证即为 'the elemental fury of the storm'。句中 'fury of oceanic storms'（大洋风暴的狂暴肆虐）与后文 'nature’s raw, terrifying grandeur'（大自然原始可怖的崇高伟力）构成严密的语义呼应，'elemental fury' 是描述狂暴自然伟力的经典固定搭配，完美契合伯克美学理论中关于'崇高'（the sublime）由自然原始力量激发的论述。",
+      "basic": "错误。'basic' 的核心语义为 'constituting or serving as a base or foundation'（底层的、基础的，如 basic rights, basic needs）或 'of the most simple kind'（初级的、简陋的）。它侧重于事物在结构、逻辑或功能上的基底与支撑作用，根本不具备 'raw, primeval, wild'（狂暴未驯的、原始自然力的）这一语义特征。在英语中不存在 '*basic fury' 这一搭配，用于修饰风暴狂暴肆虐的破坏力属于严重的语义与搭配断裂。",
+      "primary": "错误。'primary' 源于拉丁语 primus，核心义为 'first in order of time or development'（最初的、原初的，如 primary source）或 'of first rank, importance, or value'（首要的、主要的，如 primary concern, primary objective）。它界定的是在时间序列、组织架构或重要性层级中的领先位置，强调排序与主次，与自然界物理力量的野性与狂暴毫无语义交集；'*primary fury' 无法表达风暴肆虐之狂暴，在语法与修辞上均不成立。",
+      "elementary": "错误。尽管 'elementary' 与 'elemental' 同源于 element，但在现代标准英语中二者语义分工极其严格。'elementary' 的核心义项为：① 'rudimentary, introductory'（基础入门的、初级的，如 elementary education）；② 科学哲学与逻辑分析中的 'of the nature of an ultimate constituent; uncompounded, simple'（不可再分的终极基元，如 elementary particles, elementary constituents）。'elementary' 侧重于'简单不复合'或'入门起步'，完全不具备指涉狂暴天气力量或原始自然伟力的语义潜能；'*elementary fury' 在英语中属于严重的语义错配与修辞失误。"
+    },
+    "translation": "在关于崇高概念的哲学探究中，埃德蒙·伯克论证道，人类的技艺与造物在大洋风暴那原始狂暴的肆虐面前显得不堪一击，大自然那狂野可怖的崇高伟力唤起了人类对自身渺小脆弱的深刻意识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_07",
+    "group_id": 534,
+    "group_name": "eligible, worthy, suitable, desirable",
+    "level": "TEM-8",
+    "target_word": "eligible",
+    "question": "According to the fellowship committee's strict criteria, only post-doctoral researchers who have published extensively in peer-reviewed journals are deemed ___ to apply for the prestigious cognitive neuroscience grant.",
+    "options": [
+      "eligible",
+      "worthy",
+      "suitable",
+      "desirable"
+    ],
+    "answer": "eligible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is 'deemed ___ to apply for'. In institutional regulations, 'eligible to do sth' specifically designates meeting statutory or procedural prerequisites. In contrast, 'worthy' (evaluative/moral desert) cannot logically qualify the procedural act of applying, 'suitable' strictly rejects an active agentive infinitive ('suitable to apply' is ungrammatical), and 'desirable' creates an absurd category error.",
+    "distractor_analysis": {
+      "eligible": "正确。be eligible to do sth. 为学术基金与规章管理语境中的标准搭配，意为“有资格做某事”，特指符合程序性、规章性的准入标准（如句中的 strict criteria 及论文发表要求），准确传达获得申请许可的法定资质。",
+      "worthy": "排除。worthy 意为“值得的、配得上的”，在现代英语中带有强烈的道德评价或实质价值属性，绝大多数情况下接介词 of（如 worthy of the grant）；即使接不定式（worthy to be chosen），也表达最终结果的配享，绝不能修饰“申请（to apply for）”这一程序行为——满足门槛并不能使人在道德上“配得上提交申请”，逻辑与语体均不通。",
+      "suitable": "排除。suitable 侧重于内在属性或特质在功能上的“适合、适宜”，通常后接介词 for（如 suitable for the position）；在现代标准英语中，人作为主语时不能与表示主动发起行为的动词不定式搭配（即不存在 suitable to apply for 的合法句法结构），构成搭配断裂。",
+      "desirable": "排除。desirable 意为“理想的、合意的、令人向往的”，多用于形容客观事物（如 a desirable outcome）或用作虚主语表语（it is desirable to...）。用于修饰研究人员（researchers are desirable to apply for）在语法和语义逻辑上均属严重范畴谬误。"
+    },
+    "translation": "根据该博士后奖学金评审委员会的严格标准，只有在同行评审期刊上发表过大量论文的博士后研究人员，才被视为有资格申请这项久负盛名的认知神经科学资助。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_08",
+    "group_id": 534,
+    "group_name": "eligible, worthy, suitable, desirable",
+    "level": "TEM-8",
+    "target_word": "eligible",
+    "question": "Under the revised mental health legislation, adolescents diagnosed with profound cognitive impairments are legally ___ for specialized state-funded educational accommodations, regardless of their family's socioeconomic background.",
+    "options": [
+      "eligible",
+      "worthy",
+      "suitable",
+      "desirable"
+    ],
+    "answer": "eligible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is 'legally ___ for specialized state-funded educational accommodations'. 'Eligible for' is the established legal-administrative term for entitlement to public benefits. 'Worthy' is decisively excluded because it syntactically requires 'of' rather than 'for' (syntactic rupture); 'suitable' denotes pragmatic fitness rather than statutory entitlement and clashes with 'legally'; 'desirable' is conceptually incompatible with statutory legal rights.",
+    "distractor_analysis": {
+      "eligible": "正确。be eligible for 为法律条文与公共政策中的核心法定搭配，意为“在法律上有资格享有/获得（特定福利、保障、补偿等）”。句中状语“Under the revised mental health legislation”与副词“legally”明确确立了法定赋权与准入资格的语境，完美契合 eligible 的核心法定义项。",
+      "worthy": "排除。句法上，worthy 严格支配介词 of（be worthy of sth.），不能与 for 连用，在此构成严重的介词搭配违例；语义上，worthy 强调品行或价值层面的“配得上”，而法定的公共教育保障属于基本权利，绝非基于道德评判的“值得施予”。",
+      "suitable": "排除。be suitable for 意为“适合于……”，强调功能、性质或便利程度的契合（如 a venue suitable for events），用于此处与副词 legally 形成语域冲突；法律法规赋予受保障群体的是法定申领资质（eligibility），而非功能层面的适应性（suitability）。",
+      "desirable": "排除。desirable 表示“值得向往的、理想的”，与副词 legally 及介词 for 连用修饰弱势保障群体构成逻辑混乱与语用失格；法律政策条文绝不会将患病青少年定性为“在法律上合意享有的”，语义严重偏离。"
+    },
+    "translation": "根据修订后的精神卫生法规，被确诊患有严重认知障碍的青少年，无论其家庭社会经济背景如何，均在法律上享有获得专项财政资助教育便利的资格。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_09",
+    "group_id": 535,
+    "group_name": "fainthearted, faint, timid, fearful",
+    "level": "TEM-8",
+    "target_word": "fainthearted",
+    "question": "Arbitrating hostile cross-border acquisitions amidst aggressive regulatory retaliation is, to borrow the familiar idiom, decidedly not for the ___, demanding relentless psychological stamina and an unshakeable appetite for existential risk.",
+    "options": [
+      "fainthearted",
+      "faint",
+      "timid",
+      "fearful"
+    ],
+    "answer": "fainthearted",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BUSINESS_FINANCE",
+    "anchor_clue": "The meta-discursive parenthetical phrase 'to borrow the familiar idiom' functions as an airtight structural anchor that explicitly demands a codified, institutionalized English idiom. In standard lexicography (OED, Merriam-Webster, Cambridge), '(decidedly/strictly) not for the faint-hearted/fainthearted' is an established, frozen idiom, whereas 'not for the timid/faint/fearful' constitutes a non-idiomatic free combination that directly clashes with the explicit anchor.",
+    "distractor_analysis": {
+      "fainthearted": "正确。fainthearted 意为“缺乏勇气、决断力或坚韧意志的；怯懦退缩的”（lacking courage, resolution, or fortitude）。句中插入语“to borrow the familiar idiom”（借用人们熟知的习语）构成了决定性的元话语排他锚点（metalinguistic anchor）。在现代英语辞书体系（Merriam-Webster, OED, Cambridge, Collins）中，“not for the faint-hearted / fainthearted”（绝非胆怯退缩者所能涉足/胜任的）是高度固化且获权威收录的制度化习语（codified idiom），用于形容高风险、高强度的严酷考验，完美呼应后文“demanding relentless psychological stamina and an unshakeable appetite for existential risk”。",
+      "faint": "错误。faint 作形容词修饰人时意为“头晕的、濒临晕厥的、虚弱的”（dizzy or physically weak）；若转化为名词化结构“the faint”，在标准现代英语中仅指“体质虚弱易晕厥之人”，无法表征意志或道德胆识上的怯懦。该选项属于诱导性干扰项（旨在混淆另一习语变体 faint of heart），但在缺少介词短语 of heart 的情况下，单独使用 the faint 属于严重句法和搭配断裂，“not for the faint”在英语中亦非任何既定习语。",
+      "timid": "错误。timid 在权威辞书（如 OED、Merriam-Webster）中虽确有“缺乏勇气、魄力或决断”（lacking in courage, boldness, or determination）之义，在普通自由表意中可指胆小退缩者，但本题的核心排他机制在于“to borrow the familiar idiom”。在英语成语学与语料库中，“not for the timid”仅为偶然拼合的自由词组（free combination），从未被收录为固定习语。若填入 timid，会使主句的元语言提示（familiar idiom）失去实际所指，造成修辞与逻辑层面的事实性冲突。",
+      "fearful": "错误。fearful 侧重指“感到恐惧的、心怀忧虑的”（experiencing acute anxiety or fright）或“可怕的”，描述的是一种即时性的情绪反应或焦虑状态（affective state of fear），且通常作为补足语需后接介词 of（如 fearful of failure）或 that 从句。它既不能构成表示性格魄力匮乏的固定习语“not for the fearful”，也与语境中强调的长期抗压耐受力（psychological stamina）不相契合。"
+    },
+    "translation": "在监管机构雷霆反击的重压下斡旋敌意跨国收购，借用那句熟知的习语来说，绝非胆怯退缩者所能胜任，它需要百折不挠的心理定力以及承受生死存亡风险的非凡胆魄。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_10",
+    "group_id": 535,
+    "group_name": "fainthearted, faint, timid, fearful",
+    "level": "TEM-8",
+    "target_word": "fainthearted",
+    "question": "Neither temperamentally shy nor gripped by acute terror, the chief delegate was simply ___, lacking the moral conviction and fortitude required to reject the adversary’s punitive armistice terms.",
+    "options": [
+      "fainthearted",
+      "faint",
+      "timid",
+      "fearful"
+    ],
+    "answer": "fainthearted",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The syntactic coordinates 'Neither temperamentally shy' and 'nor gripped by acute terror' explicitly exclude 'timid' (temperamental shyness) and 'fearful' (gripped by terror/dread), leaving 'fainthearted' as the only word that precisely matches the subsequent defining participial clause 'lacking the moral conviction and fortitude'.",
+    "distractor_analysis": {
+      "fainthearted": "正确。fainthearted 意为“缺乏信念、魄力或勇气的”（lacking conviction or boldness or courage）。本句前置让步分句明确排除了“性格内向腼腆”（shy）与“突遭恐慌侵袭”（gripped by terror）两种情形，后文以分词短语“lacking the moral conviction and fortitude...”直接对其作出权威界定，完美契合 fainthearted 的词义内核与语境功能。",
+      "faint": "错误。faint 用作表语修饰人时（was simply faint），现代英语中的唯一标准释义为“头晕眼花的、虚脱欲晕的”（dizzy, lightheaded, or exhausted），属于纯粹的生理病理状态描述，填入句中将导致句子前半部分的性格/心理评价骤变为低血糖式躯体病症，产生荒诞的语意断裂。",
+      "timid": "错误。timid 的核心语义为“缺乏自信的、腼腆害羞的”（shy, hesitant, lacking self-assurance）；句首的让步否定“Neither temperamentally shy...”已经在语义层面上提前将基于性格维度的 diffidence/shyness 完全排除，若在此处填入 timid，将与前文产生不可调和的严重逻辑自相矛盾。",
+      "fearful": "错误。fearful 的核心语义是“充满恐惧的、感到害怕的”（full of fear, apprehensive）；句首“nor gripped by acute terror...”明确排除了被恐惧所攫住的情绪状态，若在此处选用 fearful，将直接与前面的否定前提发生语义冲突，造成逻辑崩塌。"
+    },
+    "translation": "这位首席代表既非生性腼腆，亦未陷入极度恐慌，他纯粹是缺乏魄力与骨气，没有拒绝敌方苛刻停战条款所必需的道德信念与刚毅决心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_11",
+    "group_id": 536,
+    "group_name": "festive, gay, merry, joyous",
+    "level": "TEM-8",
+    "target_word": "festive",
+    "question": "The cognitive psychologist argued that seasonal rituals instill a distinctive ___ mood across the community, one explicitly engendered by decorative paraphernalia and communal banquets rather than spontaneous individual cheer.",
+    "options": [
+      "festive",
+      "gay",
+      "merry",
+      "joyous"
+    ],
+    "answer": "festive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun 'mood' is modified within a context explicitly defined by 'decorative paraphernalia and communal banquets rather than spontaneous individual cheer', pointing directly to the feast- and festival-derived trappings unique to 'festive'.",
+    "distractor_analysis": {
+      "festive": "正确。Merriam-Webster 定义为'offering fun and gaiety / suitable for a feast or festival'。festive 专指由节庆、宴席及特定的外在仪式装饰（decorative paraphernalia 与 communal banquets）所赋予的狂欢与节日特质。'festive mood'（节日氛围/节庆心境）是学术界与标准英语中描述特定节令公共心理状态的权威固定搭配，与后文的节庆外物诱因形成精确呼应。",
+      "gay": "错误。传统义指'轻快的、明艳色彩的'（carefree and bright），在现代学术话语中已极罕用于修饰群体宏观心境，不仅存在歧义风险，而且完全缺乏由宴席与仪式装点所催生的体制化节庆内涵。",
+      "merry": "错误。侧重指个人或小群体的'喧闹欢笑、饮酒作乐'（如 merry laughter, merry company），多描绘人具体的性情、笑声或举止，修饰抽象的宏观心理状态'___ mood'在学术语域中极不地道，且无法体现后文严密的节庆仪式性特质。",
+      "joyous": "错误。侧重于内心深处真挚、纯洁或崇高的'极度喜悦与欢欣'（deeply and intensely happy / expressing rejoicing）。题干后半句以'rather than spontaneous individual cheer'（而非自发性的个体欢愉）明确排除了内在自发的纯粹喜悦，强调该心理完全源自节日宴饮与外在陈设，因而 joyous 在语义焦点上与句意逻辑直接冲突。"
+    },
+    "translation": "认知心理学家认为，节令仪式在整个社群中灌输了一种独特的节日心境，这种心境明确是由装饰性道具和公共宴饮所引发的，而非源于自发的个体欢愉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_12",
+    "group_id": 536,
+    "group_name": "festive, gay, merry, joyous",
+    "level": "TEM-8",
+    "target_word": "festive",
+    "question": "Cultural historians emphasize that premodern carnivals legitimized civic transgressions by cultivating a markedly ___ atmosphere, wherein grotesque pageantry, public revelry, and ritualized feasting temporarily suspended strict ecclesiastical hierarchies.",
+    "options": [
+      "festive",
+      "gay",
+      "merry",
+      "joyous"
+    ],
+    "answer": "festive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The co-occurrence of 'carnivals', 'grotesque pageantry', 'public revelry', and 'ritualized feasting' strictly delineates the carnivalesque/feast-based celebratory realm, exclusively selecting 'festive' to modify 'atmosphere'.",
+    "distractor_analysis": {
+      "festive": "正确。festive 源自拉丁语 festum（宴席、节日），核心语义即为'适合或专属于盛宴与狂欢节的'。'festive atmosphere'是历史文化研究与标准英语中用于概括狂欢节（carnivals）、盛装游行（pageantry）与仪式性宴饮（ritualized feasting）所创造的公共节庆氛围的最地道搭配，完美契合狂欢节暂时颠覆宗教等级的历史语境。",
+      "gay": "错误。在现代严谨的高级学术文本中，gay 已完全不再用于修饰'atmosphere'来表示节庆氛围；其古典义侧重于轻浮放纵或斑斓色彩，无法承载狂欢节所特有的仪式性盛宴与越轨政治学内涵，在语域上极度失当。",
+      "merry": "错误。该词常修饰具体的人（merrymakers）或表层的声色欢闹（merry laughter），多体现个人在微醺或轻松情境下的欢快状态；用以修饰'atmosphere'（merry atmosphere）属于低阶口语表达，严重背离文化历史学学术论文的正式语域要求。",
+      "joyous": "错误。该词表示发自肺腑的、精神性的崇高与欢欣（deep heartfelt gladness），多与神圣恩典、家庭天伦等正向崇高情感相联系。而巴赫金式的狂欢节充满'怪诞游行'（grotesque pageantry）与肉体层面的世俗反叛，与 joyous 所蕴含的崇高纯洁之喜存在严重的色彩与逻辑冲突。"
+    },
+    "translation": "文化历史学家强调，前现代时期的狂欢节通过营造一种鲜明的节庆氛围，使市民的越轨行为合法化；在这一氛围中，怪诞的盛装游行、公共狂欢和仪式性宴饮暂时中止了严密的教会等级制度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_13",
+    "group_id": 537,
+    "group_name": "fiddling, petty, little, trivial",
+    "level": "TEM-8",
+    "target_word": "fiddling",
+    "question": "Although critical to the deep-space probe's navigational array, aligning the microscopic optical sensors proved an exasperatingly ___ task, requiring hours of delicate manual adjustment with specialized tweezers under intense magnification.",
+    "options": [
+      "fiddling",
+      "petty",
+      "little",
+      "trivial"
+    ],
+    "answer": "fiddling",
+    "primary_mechanism": "MECH_SEMANTIC_FEATURE",
+    "field": "FIELD_SCIENCE",
+    "anchor_clue": "The concession 'Although critical to the deep-space probe's navigational array' combined with the physical manipulation cue 'requiring hours of delicate manual adjustment with specialized tweezers under intense magnification' demands an adjective specific to fussy, awkward, and painstakingly intricate manual operations on tiny parts, while ruling out words denoting intrinsic unimportance or small-mindedness.",
+    "distractor_analysis": {
+      "fiddling": "正确。此处作定语修饰 task。根据《韦氏大学词典》（Merriam-Webster）与《柯林斯高阶英汉双解词典》（Collins COBUILD），fiddling 的专门义项为“awkward to do and requiring a lot of patience, usually because you are handling very small objects”（因涉及处理微小物品而棘手、耗费耐心的）以及“requiring annoying manual or mental adjustment or handling; fussy (a fiddling task)”。句中“microscopic optical sensors”、“specialized tweezers”与“delicate manual adjustment”构成绝对明确的物理操作锚点，唯有 fiddling 能够精准契合这种“因部件极微细而格外繁琐磨人的手工微调工作”。",
+      "petty": "错误。petty 核心语义为“次要的、微不足道的”或在伦理/态度上指“心胸狭隘的、琐碎恶意的”（如 petty bureaucracy, petty grievances）。它侧重于价值或等级层面的卑下与微不足道，既不能用于描述需要高端技术的精密光学操作，又与前半句“critical to the deep-space probe's navigational array”（对导航阵列至关重要）构成直接的语义矛盾。",
+      "little": "错误。little 属于基础层级标度形容词，常客观指代物理尺寸微小或时长短暂。在高度正式的科技语篇中，“an exasperatingly little task”搭配极不自然；且该微调耗费数小时（requiring hours of delicate manual adjustment），在语义上绝非一个短小简易的“little task”。",
+      "trivial": "错误。trivial 意为“of little worth or importance; negligible”（琐细的、无实际价值的）。句首让步状语从句明确指出该校准工作对深空探测器具有核心关键意义（critical），若填入 trivial 会破坏句子的让步逻辑；此外，trivial 纯粹指重要性维度的微小，完全不具备 fiddling 所特有的“涉及微小部件因而繁复难弄（finicky/fussy manual handling）”的物理动作语义特征。"
+    },
+    "translation": "尽管对深空探测器的导航阵列至关重要，但对准微型光学传感器却被证明是一项极其磨人繁琐的任务，需要在强倍率放大镜下使用专用镊子进行长达数小时的精细手工微调。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_14",
+    "group_id": 537,
+    "group_name": "fiddling, petty, little, trivial",
+    "level": "TEM-8",
+    "target_word": "fiddling",
+    "question": "Restoring the centuries-old illuminated manuscript proved to be exceptionally ___ work, requiring the conservator to execute micrometric alignments of torn vellum fibers under a high-powered stereomicroscope.",
+    "options": [
+      "fiddling",
+      "petty",
+      "little",
+      "trivial"
+    ],
+    "answer": "fiddling",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The context specifies an intricate manual and perceptual task ('micrometric alignments of torn vellum fibers under a high-powered stereomicroscope'), strictly demanding the specialized sense of the adjective meaning 'needing a lot of small, difficult movements' or 'awkwardly intricate and finicky'.",
+    "distractor_analysis": {
+      "fiddling": "正确。此处考查 fiddling 的核心次要义项。据剑桥词典（Cambridge Dictionary）及柯林斯词典（Collins），fiddling 在描述工序或劳动时，专指‘needing a lot of small, difficult movements; requiring awkward or delicate manipulation; finicky’（需要极细小微调、费手费眼的繁琐精细活计，如 Repairing watches is very fiddling work）。后文‘requiring the conservator to execute micrometric alignments of torn vellum fibers’（在显微镜下对羊皮纸纤维进行微米级对齐）属于典型的超微细手工与视觉操作，与 fiddling 的这一专门释义形成严丝合缝的排他性对应。",
+      "petty": "错误。petty 修饰工作（petty work）时意为‘卑微的、微不足道的、下等的差事’，带有社会地位或价值层面的轻蔑，根本不具备‘动作精密复杂、需要极细微手部操作’的语义特征。",
+      "little": "错误。‘exceptionally little work’在英语中意为‘工作量极少、几乎不需要干活’，这与后文描述的在高倍显微镜下进行繁难的纤维对接构成无法调和的逻辑与语意矛盾。",
+      "trivial": "错误。trivial 表示‘无关紧要的、轻而易举的’。将一项需要高度专业水准和极限微操作的高难度古籍修复工作定性为‘exceptionally trivial work’（极其轻浮微不足道的工作），不仅背离专业常识，更与句意中凸显的严苛工艺要求完全相悖。"
+    },
+    "translation": "修复这本拥有数百年历史的泥金装饰手抄本被证实是一项极其繁琐费神的工作，需要修复师在高倍体视显微镜下对撕裂的羊皮纸纤维进行微米级的精细对齐。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_15",
+    "group_id": 538,
+    "group_name": "flaxen, sandy, blond, blonde",
+    "level": "TEM-8",
+    "target_word": "flaxen",
+    "question": "Conservators restoring the sixteenth-century folio observed that the text block had been bound using durable ___ cords, whose pale straw hue and exceptional tensile strength provided enduring structural support without abrading the fragile rag paper.",
+    "options": [
+      "flaxen",
+      "sandy",
+      "blond",
+      "blonde"
+    ],
+    "answer": "flaxen",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LITERATURE",
+    "anchor_clue": "The textual anchor 'pale straw hue' directly mirrors the lexicographical definition of 'flaxen' (pale soft straw color), while the modified noun 'cords' and the condition 'without abrading the fragile rag paper' decisively rule out 'blond'/'blonde' (collocationally barred from modifying textile cords) and 'sandy' (which denotes yellowish-red hair or gritty, abrasive texture that contradicts 'without abrading').",
+    "distractor_analysis": {
+      "flaxen": "正确。flaxen兼具材料与色彩双重语义：既指“亚麻制的”（made of flax，在版本目录学与古籍保护中'flaxen cords'为装订线绳的标准专业术语），又指“淡麦秆黄色的”（a pale soft straw color）。句中的“pale straw hue”（淡麦秆色泽）与“exceptional tensile strength”（卓越抗拉强度）精准呼应了未漂白亚麻线绳的天然色泽与力学特性。",
+      "sandy": "错误。sandy指“沙质粗粝的”（gritty）或“暗黄微红的”（yellowish-red）。若取“粗粝多沙”之意，则与后文“without abrading the fragile rag paper”（不磨损脆弱的麻浆纸）发生不可调和的逻辑反冲（含沙线绳必会磨损纸张）；若取颜色之意，则指偏红褐的沙色，与句中的“pale straw hue”（淡麦秆黄）不符。",
+      "blond": "错误。blond的选择限制（selectional restriction）极严，在规范英语中专指人类的毛发、肤色、眼睛，或少数极狭窄的约定俗成事物（如blond wood淡色木材、blond beer浅色啤酒），绝不能用于修饰纺织绳索或古籍装订线（'blond cords'属于严重搭配不当）。",
+      "blonde": "错误。blonde源自法语阴性形态，主要用作名词或指代女性特征的金发形容词。在描述16世纪文献装订构件（cords）的严谨学术语境中，使用blonde属于典型的范畴谬误（category mistake）与文体失配。"
+    },
+    "translation": "修复十六世纪对开本古籍的文物保护人员注意到，该书芯是使用坚固的亚麻线绳装订的；其淡麦秆般的色泽与卓越的抗拉强度提供了持久的结构支撑，且不会磨损脆弱的麻浆纸。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_16",
+    "group_id": 538,
+    "group_name": "flaxen, sandy, blond, blonde",
+    "level": "TEM-8",
+    "target_word": "flaxen",
+    "question": "Comparative mythologists observe that northern folklore systematically attributed ___ hair to celestial maidens, utilizing this pale, straw-like hue to evoke combed tow and virginal fragility rather than conventional golden or reddish-tinted radiance.",
+    "options": [
+      "flaxen",
+      "sandy",
+      "blond",
+      "blonde"
+    ],
+    "answer": "flaxen",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'straw-like hue to evoke combed tow' (tow being coarse broken flax fiber) and 'rather than conventional golden or reddish-tinted radiance' constitute a definitive anchor: 'flaxen' uniquely captures the pale straw-like hue of flax/tow, whereas 'golden' eliminates 'blond'/'blonde' and 'reddish-tinted' eliminates 'sandy'.",
+    "distractor_analysis": {
+      "flaxen": "正确。flaxen指“亚麻色的、淡麦秆黄色的”，其词源直接对应“combed tow”（梳理出的亚麻粗纤维），且句意明确强调其色调是淡白草黄（straw-like）而非传统的金黄或泛红光芒，唯有flaxen精准契合该神话象征。",
+      "sandy": "错误。sandy本义为沙色、黄褐色且常带有红色杂色（reddish），已被后文的排除短语“rather than... reddish-tinted radiance”直接否定。",
+      "blond": "错误。blond侧重标准金色或明亮泛金的发色，与句中“rather than conventional golden... radiance”（而非传统的金黄光彩）构成逻辑对立，且缺失与“combed tow”（亚麻纤维）的物象映射。",
+      "blonde": "错误。blonde指常规意义上的金发，不仅受限于句末对“conventional golden”的明确排斥，也无法与亚麻质地的神话隐喻建立语义连接。"
+    },
+    "translation": "比较神话学家指出，北方民间传说习惯将亚麻色头发赋予天宫少女，利用这种如麦秆般苍白的色泽来唤起人们对梳理过的亚麻纤维及纯洁脆弱感的联想，而非展现传统意义上的金黄或微红光芒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_17",
+    "group_id": 539,
+    "group_name": "glum, dark, sour, sullen",
+    "level": "TEM-8",
+    "target_word": "glum",
+    "question": "Following the collapse of the multilateral trade negotiations, the delegates remained seated in ___ contemplation, projecting a dispirited, crestfallen air that conveyed quiet defeat rather than resentful hostility or cynical acrimony.",
+    "options": [
+      "glum",
+      "dark",
+      "sour",
+      "sullen"
+    ],
+    "answer": "glum",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词短语 'projecting a dispirited, crestfallen air that conveyed quiet defeat rather than resentful hostility or cynical acrimony' 构成了决定性的语义排他锚点：语境强调的是因谈判失败而陷入的沉静低落、垂头丧气（dispirited, crestfallen）的哀沮状态，并明确排除了带有抗拒敌意（resentful hostility）与刻薄酸腐（cynical acrimony）的心理倾向。韦氏词典明确指出：glum 侧重于 'a silent, downcast, dispirited, or mournful gloominess'（典型搭配即 sitting in glum contemplation），与此处完全契合。",
+    "distractor_analysis": {
+      "glum": "正确。glum 指（尤因受挫、失败而）闷闷不乐的、沮丧消沉的、垂头丧气的，韦氏词典核心释义为 'showing a brooding ill humor; dejected; dreary'，在同义辨析中特别强调其特指 'silent, downcast, dispirited, or mournful gloominess'。句中的 'dispirited, crestfallen' 以及固定短语 'in glum contemplation'（沉浸在沮丧的沉思中）与其达成微观语用和语义的完美契合。",
+      "dark": "错误。dark 侧重于深沉阴暗、凶险不祥（sinister, ominous）或极度绝望惨淡（tragic, calamitous）。修饰人的思绪或面容时（dark contemplation），通常带有阴森莫测、邪恶或深重灾难性的意味，而本句描绘的是谈判失败后外交代表无精打采、默默认输（quiet defeat）的垂头丧气，语意过重且语境色彩错位。",
+      "sour": "错误。sour 侧重于性情或态度上的乖张、酸腐刻薄、怨怼不顺（peevish, acid, acrimonious），常体现为愤世嫉俗的牢骚与抱怨。本句后文通过 'rather than... cynical acrimony' 明确排除了酸腐愤懑的语义方向，故 sour 在逻辑上被直接排除。",
+      "sullen": "错误。sullen 强调一种因心中怨恨、抵触而表现出的愤愤不平、愠怒孤僻、拒绝言语或合作的执拗态度（brooding ill humor accompanied by resentful obstinacy）。句中明确点明代表们表现出的是静默的认输（quiet defeat），而非带有抵触与敌意的怨恨（rather than resentful hostility），因而断然排除了 sullen。"
+    },
+    "translation": "多边贸易谈判破裂之后，代表们呆坐着陷入了沮丧的沉思，流露出一种垂头丧气、心灰意冷的落寞神态，传递出的是默默接受挫败的心绪，而非愤懑的敌意或刻薄的讥诮。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_18",
+    "group_id": 539,
+    "group_name": "glum, dark, sour, sullen",
+    "level": "TEM-8",
+    "target_word": "glum",
+    "question": "Confronted by persistent stagflation and weakening manufacturing indices, monetary policymakers grew increasingly ___ about near-term recovery, expressing a dispirited, downcast prognosis devoid of petulant rancor or apocalyptic dread.",
+    "options": [
+      "glum",
+      "dark",
+      "sour",
+      "sullen"
+    ],
+    "answer": "glum",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法搭配与语义排他双重锚点：一是形容词与介词短语的习惯搭配 'grew increasingly ___ about near-term recovery'（对近期复苏前景感到低落/悲观）；二是补充说明的同位成分 'expressing a dispirited, downcast prognosis devoid of petulant rancor or apocalyptic dread'（表达了一种毫无任性怨怼与灭顶恐惧的消沉低落的预测）。在英语高级政经与学术语篇中，'be/grow glum about the future/prospects' 是极具特异性的地道搭配，指因形势严峻而前景灰暗、心绪消沉；同时 'devoid of petulant rancor' 排除了 sullen 与 sour，'devoid of apocalyptic dread' 排除了 dark。",
+    "distractor_analysis": {
+      "glum": "正确。glum 可形容人对前景、形势感到前景黯淡、忧郁消沉（feeling downcast and pessimistic about prospects），常与介词 about 连用（如 glum about the economy / recovery）。同时，它精确对应句中对其认知的进一步界定：'dispirited, downcast prognosis'（无精打采、灰暗低落的预后研判），且不带有敌对情绪或末日恐慌，完全符合句法语义要求。",
+      "dark": "错误。dark 表悲观时通常作定语修饰抽象名词（如 dark thoughts, dark future），不能与介词 about 构成 'grow dark about the recovery' 这一表述来表达主观悲观情绪；且 dark 往往蕴含毁灭性、大难临头的不祥之感，与句末 'devoid of apocalyptic dread'（毫无灾难末日般的恐惧）直接发生语意冲突。",
+      "sour": "错误。sour 主要指味道发酸，引申为因幻灭或怨恨而变得酸楚乖戾、心怀愤懑，通常搭配介词 on（如 sour on the market）；其核心语义偏向刻薄怨恨，与后文明确限定的 'devoid of petulant rancor'（毫无任性怨恨）产生逻辑排斥。",
+      "sullen": "错误。sullen 专指因敌意、委屈而引起的愠怒、赌气、阴沉不语（morose, resentfully silent），多用于描写人际冲突中的赌气态度，既极少用 'sullen about economic recovery' 来描述经济学家或决策层的宏观审慎研判，也与 'devoid of petulant rancor'（无任性怨怼）的限定背道而驰。"
+    },
+    "translation": "面对持续的滞胀与疲软的制造业指数，货币政策制定者对近期复苏前景愈发感到消沉悲观，表达出一种灰暗低落的预判，但其中既无任性的怨怼，亦无末日般的恐慌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_19",
+    "group_id": 540,
+    "group_name": "grotesque, antic, strange, unusual",
+    "level": "TEM-8",
+    "target_word": "grotesque",
+    "question": "The tribunal descended into a ___ parody of justice when fabricated testimonies and coerced confessions were admitted as definitive proof, producing an absurdly distorted spectacle that outraged legal scholars worldwide.",
+    "options": [
+      "grotesque",
+      "antic",
+      "strange",
+      "unusual"
+    ],
+    "answer": "grotesque",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "parody of justice ... producing an absurdly distorted spectacle that outraged legal scholars worldwide",
+    "distractor_analysis": {
+      "grotesque": "正确。grotesque 指事物因极度扭曲、反常或不协调而呈现出荒谬绝伦、令人作呕或骇人听闻的特征（ludicrously odd, distorted, or unnatural）。在此处与 parody of justice 构成经典学术搭配（grotesque parody），准确呼应后文中伪造证词导致审判沦为“极度扭曲的荒谬闹剧（absurdly distorted spectacle）”的语义语境。",
+      "antic": "错误。antic 侧重滑稽狂放、动作怪诞或小丑式的跳梁与恶作剧（playfully odd, buffoonish, or clownish），多用于描摹轻浮逗趣的滑稽行为，与法庭审判充斥强迫供述、践踏法治的阴暗严肃语境及法律学者的强烈愤慨产生严重的基调冲突。",
+      "strange": "错误。strange 仅中性地指“陌生的、奇怪的、不熟悉的”（unfamiliar, unusual），语义层级过弱，无法表达这种颠倒黑白、令人惊骇的反常扭曲与道德上的荒诞。",
+      "unusual": "错误。unusual 仅表示“不寻常的、罕见的、不符合常规的”（not ordinary or common），属于客观频次与常态偏离的描述，缺乏感情色彩与否定批判力度，无法与“absurdly distorted”和“outraged”形成语义共振。"
+    },
+    "translation": "当伪造的证词与被迫的口供被采纳为定案铁证时，法庭审判彻底沦为一场对正义的荒诞扭曲与讽刺，制造出令全球法学学者震惊愤慨的荒谬闹剧。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b53_20",
+    "group_id": 540,
+    "group_name": "grotesque, antic, strange, unusual",
+    "level": "TEM-8",
+    "target_word": "grotesque",
+    "question": "The novelist populated his dystopian allegory with ___ figures whose physically distorted limbs and hybridized animal features reflected the moral monstrosity of a society severed from ethical constraints.",
+    "options": [
+      "grotesque",
+      "antic",
+      "strange",
+      "unusual"
+    ],
+    "answer": "grotesque",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "figures whose physically distorted limbs and hybridized animal features reflected the moral monstrosity",
+    "distractor_analysis": {
+      "grotesque": "正确。在文学批评与认知美学中，grotesque 专指结合了畸变、人兽杂糅、极度变形与怪诞恐怖的形象（combining incongruous, distorted, and monstrous elements），完美契合后文“肢体极度变形（physically distorted limbs）”与“动物杂交特征（hybridized animal features）”，精准映射“道德沦丧与畸变（moral monstrosity）”。",
+      "antic": "错误。antic 意为逗弄的、滑稽怪诞的（ludicrously eccentric, clownish），强调如小丑般扮鬼脸、跳跃杂耍的滑稽体态，不能用于指代生理结构的畸变与反乌托邦式的恐怖杂糅怪物。",
+      "strange": "错误。strange 仅表示“奇怪的、异样的”，是一个泛化认知词，缺乏肉体变形、人兽杂糅及令人毛骨悚然的怪诞畸形美学内涵。",
+      "unusual": "错误。unusual 仅表示“不寻常的、少见的”，完全无法体现文学寓言中具有强烈视觉冲击力与象征意义的身体扭曲与怪物特征。"
+    },
+    "translation": "这位小说家在其反乌托邦寓言中塑造了一群怪诞畸形的人物，他们扭曲的肢体与杂糅的动物特征，恰恰映照出一个丧失道德约束的社会的畸变与丑恶。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

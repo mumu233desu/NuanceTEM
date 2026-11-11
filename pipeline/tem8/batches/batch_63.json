@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b63_01",
+    "group_id": 631,
+    "group_name": "lapse, blunder, oversight, incursion",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "The aviation safety board concluded that the runway near-collision was precipitated not by mechanical malfunction, but by an air traffic controller's momentary ___ of concentration during peak arrival hours.",
+    "options": [
+      "lapse",
+      "blunder",
+      "oversight",
+      "incursion"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed cognitive collocation: 'momentary lapse of concentration' (expressing a brief, temporary failure in mental attention), strictly ruled by the pre-modifier 'momentary' and post-modifier 'of concentration'.",
+    "distractor_analysis": {
+      "lapse": "正确。lapse 指由于注意力不集中或疏忽造成的短暂失误、走神，其标准学术/新闻固定搭配为 'a momentary lapse of concentration'（瞬间走神/注意力短暂涣散），在句法结构与认知语境上均完全契合。",
+      "blunder": "错误。blunder 侧重因盲目、愚蠢或粗心而犯下的重大过失、严重错误（如 tactical/diplomatic blunder），强调行动上的大错，与表心理认知瞬间中断的 'momentary ... of concentration' 存在严重搭配冲突。",
+      "oversight": "错误。oversight 强调无意中的疏忽、遗漏或未加察觉（多用于管理、审查或文书细节，如 'due to an administrative oversight'），不能用于修饰心智认知上的短暂走神，不构成 'momentary oversight of concentration' 搭配。",
+      "incursion": "错误。incursion 意为“入侵、侵犯、侵入”，属于物理或地缘政治空间的突入，与认知语境及 'of concentration' 毫无语义关联，属于词义层面的根本性错用。"
+    },
+    "translation": "航空安全委员会得出结论，这起跑道险些相撞事故并非由机械故障引发，而是由于一名空中交通管制员在进港高峰时段瞬间走神所致。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_02",
+    "group_id": 631,
+    "group_name": "lapse, blunder, oversight, incursion",
+    "level": "TEM-8",
+    "target_word": "blunder",
+    "question": "The administration's hasty withdrawal of troops without coordinating with allied intelligence proved to be an unmitigated strategic ___, compromising regional stability and squandering two decades of diplomatic goodwill.",
+    "options": [
+      "lapse",
+      "blunder",
+      "oversight",
+      "incursion"
+    ],
+    "answer": "blunder",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "High-register political collocation: 'unmitigated strategic blunder' denotes a disastrous, gross error in high-level geopolitical judgment and execution, creating an irreconcilable contrast with the active withdrawal context.",
+    "distractor_analysis": {
+      "blunder": "正确。blunder 强调由于判断极其拙劣、考虑欠周而铸成的灾难性大错或昏招，与 'strategic blunder'（战略昏招/大错）以及强修饰语 'unmitigated'（彻头彻尾的）构成高度紧密的经典地缘政治评论搭配。",
+      "lapse": "错误。lapse 主要指道德、行为或判断力上的暂时失检或滑坡（如 lapse of judgment），其语义分量过轻，无法承载造成全盘地缘政治动荡的系统性政策灾难，搭配 'unmitigated strategic lapse' 存在语意轻重失衡。",
+      "oversight": "错误。oversight 意为“疏漏、疏忽”，指因粗心没有注意到某事（消极的不作为或漏看），而匆忙撤军是一项主动制定并实施的重大决策行动，不能称作‘战略疏漏’，与句意逻辑及修饰语严重抵触。",
+      "incursion": "错误。incursion 意为“军事入侵、突袭”，主语是 'withdrawal of troops'（撤军），将‘撤军’定性为‘入侵’在逻辑与语义上构成根本性矛盾。"
+    },
+    "translation": "该政府在未与盟国情报部门协调的情况下草率撤军，事实证明是一场彻头彻尾的战略昏招，不仅危及地区稳定，更葬送了二十年积累的外交善意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_03",
+    "group_id": 632,
+    "group_name": "lookout, sentry, picket, sentinel",
+    "level": "TEM-8",
+    "target_word": "lookout",
+    "question": "To mitigate systemic vulnerabilities across high-frequency trading platforms, financial regulatory bodies require algorithmic surveillance units to keep a vigilant ___ for manipulative practices such as spoofing and quote stuffing.",
+    "options": [
+      "lookout",
+      "sentry",
+      "picket",
+      "sentinel"
+    ],
+    "answer": "lookout",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed cognitive-vigilance construction 'keep a (vigilant) ___ for' strictly selects 'lookout'. The distractors 'sentry', 'picket', and 'sentinel' denote individual physical guards or military units and produce severe syntactic/collocational violations when combined with 'keep a... for'.",
+    "distractor_analysis": {
+      "lookout": "正确。此处考查固定认知监测短语“keep a (vigilant) lookout for...”，表示“对……保持高度警惕或密切监视”，MW将其专门释义为“an attitude of watchful alertness”。在金融监管与算法风控语境中，该短语完美契合对市场操纵异常模式的主动认知搜寻。",
+      "sentry": "错误。sentry 指在关卡驻守的哨兵，主要用于“stand sentry”或“post a sentry”，英语中不存在“*keep a sentry for”的动宾搭配，置入句中产生严重的句法与搭配断裂。",
+      "picket": "错误。picket 指罢工纠察员、先遣警戒哨队或尖桩，常用搭配为“on the picket line”或“post a picket”，无法与“keep a ... for”搭配使用，概念范畴不符。",
+      "sentinel": "错误。sentinel 偏向文学用语，指长期守护某处的崇高卫士（如“stand sentinel over”），亦不能进入“keep a ... for”这一表示动态搜寻预警的固定习语中。"
+    },
+    "translation": "为化解高频交易平台的系统性脆弱性，金融监管机构要求算法监控部门对幌骗交易和报撤单轰炸等操纵行为保持高度警惕。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_04",
+    "group_id": 632,
+    "group_name": "lookout, sentry, picket, sentinel",
+    "level": "TEM-8",
+    "target_word": "sentry",
+    "question": "Human factors research indicates that when a solitary ___ maintains vigilance at an access checkpoint, sustained cognitive fatigue severely degrades the capacity to challenge approaching unidentified personnel and accurately verify operational countersigns.",
+    "options": [
+      "lookout",
+      "sentry",
+      "picket",
+      "sentinel"
+    ],
+    "answer": "sentry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive operational anchor lies in 'at an access checkpoint ... to challenge approaching unidentified personnel and accurately verify operational countersigns'. In military and security lexicography, only a 'sentry' is specifically stationed at a gate or point of passage with the prescribed duty to halt, challenge, and verify credentials/countersigns.",
+    "distractor_analysis": {
+      "lookout": "错误。lookout 指登高望远以提供宏观早期预警的“瞭望员”（通常位于瞭望塔或桅杆），其职能是远距目视发现险情并报警，绝不在出入口关卡执行拦阻盘查（challenge）与口令核验（countersigns）等进出管制任务。",
+      "sentry": "正确。在防务安全与人机工程学语境中，sentry 专指驻守在通道口或检查站（access checkpoint）、负责截停盘查来人（challenge）并核对口令凭证的“岗哨/哨兵”，与句中各项操作性动词及处所状语构成决定性搭配。",
+      "picket": "错误。picket 指营地前沿派出的警戒分队（集体概念）、尖兵线或罢工纠察队员，不能指代在具体通道检查站一对一核验通行口令的单一守卫。",
+      "sentinel": "错误。sentinel 在现代英语中带有浓厚的文学象征或超现实色彩（指静默恒久的守护者，如“stand sentinel over a tomb”），或用于生物医学（如“sentinel cells”），用于实操性检查站口令盘查的人机工程学语境中会产生严重的语域与文体冲突（stylistic clash）。"
+    },
+    "translation": "人机工程学研究表明，当单独一名哨兵在出入口检查站执行警戒时，持续的认知疲劳会严重削弱其盘查接近的未识别人员并准确核验作战口令的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_05",
+    "group_id": 633,
+    "group_name": "lure, prod, foil, decoy",
+    "level": "TEM-8",
+    "target_word": "lure",
+    "question": "Despite repeated regulatory warnings concerning asset volatility, retail investors frequently succumb to the ___ of effortless speculative riches, failing to perceive the predatory mechanics underlying these unregulated algorithmic platforms.",
+    "options": [
+      "lure",
+      "prod",
+      "foil",
+      "decoy"
+    ],
+    "answer": "lure",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational frame 'succumb to the ___ of [speculative riches]' combined with the thematic concept of seductive psychological enticement to a hazardous illusion.",
+    "distractor_analysis": {
+      "lure": "正确。lure 作名词表示“诱惑力；引诱物”（an appeal, attraction, or enticement that tempts someone into danger or an unwise act）。“succumb to the lure of...”属于英语政经及学术期刊高频固定搭配，意为“经受不住……的诱惑”，完美呼应后文令人沉迷却暗藏掠夺性的“effortless speculative riches”。",
+      "prod": "错误。prod 作名词表示“刺棒；刺激，促使行动的推动力”（a stimulus, poke, or urging reminder）。其核心语义在于自外向内的催逼或戒备督促（常用于 a prod to action），与表示“屈服、向诱惑低头”的“succumb to”在搭配习惯与语义倾向上严重不合。",
+      "foil": "错误。foil 作名词表示“陪衬，衬托物”（someone or something that makes another seem more noticeable by contrast），常见搭配为“serve as a foil to/for”。与“succumb to the foil of”在句法搭配上完全不通，语义亦荒谬。",
+      "decoy": "错误。decoy 作名词指“（捕鸟兽用的）假禽兽，诱饵；用于声东击西、分散注意力的假目标”（an entity used to distract or lead into an ambush）。它强调具体的战术假目标或掩护手段，而非抽象的心理引诱力，不能替代抽象认知层面的“the lure of riches”。"
+    },
+    "translation": "尽管监管机构对资产波动性屡次发布警告，散户投资者仍频繁屈服于不劳而获的投机暴利的诱惑，未能看穿这些不受监管的算法平台背后所潜藏的掠夺性机制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_06",
+    "group_id": 633,
+    "group_name": "lure, prod, foil, decoy",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The unexpected downgrading of the sovereign credit rating served as a sharp ___ to lethargic policymakers, jolting them out of inertia and compelling the immediate execution of long-delayed fiscal reforms.",
+    "options": [
+      "lure",
+      "prod",
+      "foil",
+      "decoy"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct metaphorical coordination between 'served as a sharp ___ to [lethargic agents]' and the participating participial clause 'jolting them out of inertia'.",
+    "distractor_analysis": {
+      "prod": "正确。prod 作名词意为“刺戳；督促，针砭，激励”（a jab or poke; an incitement or stimulus prompting action）。短语“served as a sharp prod to...”与后文的“jolting them out of inertia”（使他们从惰性中猛然惊醒）构成浑然一体的物理与认知隐喻协同（刺戳—惊醒—促进行动），精准表达危机带来的强制警醒。",
+      "lure": "错误。lure 意为“诱惑物，诱惑”（an enticing temptation）。主语“主权信用评级下调”属于极其严峻的负面危机事件，绝不可能充当诱使官员前去的“美好诱惑”，在语义色彩与因果逻辑上发生根本性背离。",
+      "foil": "错误。foil 意为“衬托物，对比者”（a contrasting counterpart）。信用评级的下调是一次实际的宏观经济政策冲击，并非修辞或戏剧层面用来反衬政策制定者品格的对照体，“a sharp foil to... jolting them”存在严重范畴错配。",
+      "decoy": "错误。decoy 意为“圈套；诱骗用假目标，诱饵”（a diversionary tactic or entity to divert attention）。评级下调是公开发布的实体经济制约与警告，并非用来转移注意力、声东击西的“伪装幌子”，完全脱离语境意图。"
+    },
+    "translation": "主权信用评级的意外下调对慵懒怠政的决策者而言犹如一记猛烈的当头棒喝，将他们从惰性中震醒，并迫使他们立即推行拖延已久的财政改革。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_07",
+    "group_id": 634,
+    "group_name": "mink, ferret, badger, glutton",
+    "level": "TEM-8",
+    "target_word": "mink",
+    "question": "Escaped from commercial pelt farms, the American ___ has established pervasive riparian populations across European waterways, where its agile, semi-aquatic predatory habits exert catastrophic pressure on vulnerable water vole colonies.",
+    "options": [
+      "mink",
+      "ferret",
+      "badger",
+      "glutton"
+    ],
+    "answer": "mink",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "句中的'commercial pelt farms'（商业毛皮养殖场）、'riparian populations across European waterways'（欧洲水系的滨水种群）以及'semi-aquatic predatory habits'（半水栖捕食习性）构成了决定性排他锚点。在所有选项中，唯有'mink'（美洲水貂，American mink）符合因皮毛养殖逃逸、具有半水生习性并在欧洲滨水生态中重创水䶄（water vole）的特定历史与生态学内涵。",
+    "distractor_analysis": {
+      "mink": "正确。美洲水貂（American mink）原产于北美，20世纪因毛皮业（pelt farms）引入欧洲并大量逃逸野化。句中的'semi-aquatic'（半水栖）、'riparian'（滨水环境）以及捕食'water vole'（水䶄）的生态特征与mink的物种专属性完全吻合。",
+      "ferret": "错误。雪貂（ferret）为完全陆生或洞穴猎捕哺乳动物，不具备'semi-aquatic'（半水栖）的解剖与行为特征，更未因毛皮养殖场逃逸而在欧洲水系建立大规模半水生入侵种群。",
+      "badger": "错误。獾（badger）为典型的地下挖掘与陆栖穴居动物（fossorial），其居所为地下獾棚（sett），与句中滨水环境（riparian）及半水栖捕食行为（semi-aquatic predatory habits）存在根本性的生态位冲突。",
+      "glutton": "错误。貂熊/狼獾（glutton，即wolverine）主要栖息于北方针叶林及高寒苔原地带，为体型壮硕的陆生食腐与捕食动物，非毛皮养殖逃逸造成欧洲水系生态灾难的小型半水生鼬科动物。"
+    },
+    "translation": "从商业毛皮养殖场逃逸的美洲水貂已在欧洲水系建立了广泛的滨水种群，其敏捷的半水栖捕食习性对脆弱的水䶄种群造成了灾难性的生存压力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_08",
+    "group_id": 634,
+    "group_name": "mink, ferret, badger, glutton",
+    "level": "TEM-8",
+    "target_word": "ferret",
+    "question": "Critically dependent on subterranean rodent colonies for sustenance and shelter, the endangered black-footed ___ suffered catastrophic population collapses across the Great Plains following widespread agricultural eradication of native prairie dog ecosystems.",
+    "options": [
+      "mink",
+      "ferret",
+      "badger",
+      "glutton"
+    ],
+    "answer": "ferret",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "专有名词前缀'black-footed'与栖息地背景'Great Plains'（大平原）、生态依赖'prairie dog ecosystems'（草原犬鼠/土拨鼠生态系统）构成绝对封闭的专有搭配。北美著名的极度濒危物种即为'black-footed ferret'（黑足雪貂），其余三个选项在生物分类学和生态历史上均无此固定称谓与依存关系。",
+    "distractor_analysis": {
+      "ferret": "正确。黑足雪貂（black-footed ferret，学名 Mustela nigripes）是北美大平原特有的极度濒危物种，其食性与栖居极度依赖草原犬鼠（prairie dog）群落，'black-footed ferret'为此专有物种的法定唯一名称。",
+      "mink": "错误。水貂（mink）为半水栖动物，主要活动于河流、沼泽湿地，分类学上不存在所谓的'black-footed mink'，且不可能高度依附于大平原干旱草原的土拨鼠洞穴体系。",
+      "badger": "错误。美洲獾（American badger）虽然栖息于大平原并捕食土拨鼠，但它拥有极强的自主挖掘能力，不依赖其提供庇护所；更重要的是，生物学界并无'black-footed badger'这一物种称谓。",
+      "glutton": "错误。貂熊（glutton）主要分布于极北针叶林与冻原荒野，分类学上既无'black-footed glutton'这一物种，其生存史也与北美大平原的农业开发及草原犬鼠生态系统毫无交集。"
+    },
+    "translation": "极度依赖地下啮齿动物群落提供食物与庇护所的濒危物种黑足雪貂，在北美大平原原生草原犬鼠生态系统遭遇广泛的农业灭杀后，经历了灾难性的种群崩溃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_09",
+    "group_id": 635,
+    "group_name": "mythology, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "mythology",
+    "question": "To legitimate its territorial expansion, the nineteenth-century empire constructed an elaborate ___ of racial superiority, disseminating allegorical tales and heroic folklore that systematically erased the brutal realities of subjugation.",
+    "options": [
+      "mythology",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "mythology",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'constructed an elaborate ___ of' and is directly glossed by the subsequent participial clause 'disseminating allegorical tales and heroic folklore', defining the noun as a collective body of fabricated cultural narratives and dogmatic lore.",
+    "distractor_analysis": {
+      "mythology": "正确。mythology 指“神话；（关于某个文化、团体或信念的）虚构叙事体系或整套信条”。在此句中与 elaborate 和 of racial superiority 搭配，并被后文 disseminating allegorical tales and heroic folklore（散布寓言故事与英雄民俗传说）紧密锚定，精准表达帝国为合理化殖民征服而人为建构的整套虚假意识形态神话体系。",
+      "mound": "错误。mound 意为“土丘、土墩、坟冢”，指物理意义上的堆积物或人工土质结构，属于实体物质范畴，完全无法与 abstract ideology（种族优越感）或散布民间故事发生逻辑搭配，存在严重的范畴错配（category error）。",
+      "fauna": "错误。fauna 意为“（某地区或某时期的）动物群”，属于生态学与生物地理学术语，与句中涉及的政治扩张、意识形态建构及民间文化叙事毫无关联，代入导致语义割裂。",
+      "corpus": "错误。corpus 意为“文集、全集；语料库”，指客观汇编的文本或语言事实数据集合。句中强调的是具有欺骗性、虚构性的意识形态“神话体系”（mythology），而非实证汇编的“文献资料库”，且 corpus 无法承担以民间传说系统性抹杀殖民暴行的话语功能。"
+    },
+    "translation": "为了使领土扩张合法化，这个十九世纪的帝国炮制了一套精密的种族优越论神话，大肆散布寓言故事与英雄传说，从而系统性地抹杀了殖民征服的残酷现实。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_10",
+    "group_id": 635,
+    "group_name": "mythology, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "mound",
+    "question": "Excavations of the monumental burial ___ revealed that prehistoric communities possessed an advanced spatial awareness, meticulously engineering the layered earthen structure to withstand millennia of environmental erosion.",
+    "options": [
+      "mythology",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "mound",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Forms the standard archaeological term 'burial mound' (tumulus/barrow), which is unequivocally co-referenced and reinforced by 'excavations' and 'the layered earthen structure'.",
+    "distractor_analysis": {
+      "mythology": "错误。mythology 意为“神话体系”，属于抽象认知与文化叙事范畴。虽然学术上可讨论丧葬神话，但后文中的核心宾语短语 engineering the layered earthen structure（工程建造分层的泥土建筑结构）是实体工程构筑物，抽象的神话绝无法被“挖掘”并“工程化为抗侵蚀的泥土结构”。",
+      "mound": "正确。burial mound 是考古学中极为严谨的固定术语，意为“古墓、坟冢、封土堆”。后文的同位说明与回指语 the layered earthen structure（分层的泥土建筑结构）构成了决定性的物理与工程锚点，与 mound 的词义完美吻合。",
+      "fauna": "错误。fauna 意为“动物群”。burial 与 fauna 搭配不符合学术规范，且动物群既无法被作为土木工程予以“精心营造”（engineering），也绝非能够抵御千百年自然侵蚀的“泥土结构”，语义完全违背常理。",
+      "corpus": "错误。corpus 意为“（书面或口头材料的）全集、语料库”，指语言学或文献学中的资料总汇，既无法与 burial 构成指代实体古迹的有效搭配，也与后续描述的物理夯土工程结构相悖。"
+    },
+    "translation": "对这座宏伟古墓封土堆的考古发掘表明，史前人群具备高超的空间认知意识，他们精心构建了这种分层的夯土结构，以抵御数千年的环境侵蚀。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_11",
+    "group_id": 636,
+    "group_name": "observance, peek, squint, lookout",
+    "level": "TEM-8",
+    "target_word": "observance",
+    "question": "The international tribunal reiterated that rigorous ___ of human rights conventions remains an absolute legal obligation, one that sovereign states cannot circumvent through domestic legislative maneuvers.",
+    "options": [
+      "observance",
+      "peek",
+      "squint",
+      "lookout"
+    ],
+    "answer": "observance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Collocational frame 'rigorous ___ of human rights conventions' requiring a formal noun denoting adherence or compliance governed by 'of'.",
+    "distractor_analysis": {
+      "observance": "正确。observance 作不可数或抽象名词，意为“（对规则、法律、条约、仪式的）严格遵守，奉行”，与介词 of 构成经典搭配 'observance of conventions/treaties'，完全契合国际法庭这一严肃法律语域。",
+      "peek": "错误。peek 指“窥视，偷看，一瞥”，为可数名词且常与介词 at 或 into 连用（如 take a peek at），既无法与介词 of 构成关于条约的搭配，语义也完全荒谬。",
+      "squint": "错误。squint 指“眯着眼睛看，斜视”，属于眼部具体生理动作或非正式口语表达（如 have a squint at），与国际条约这一崇高客体存在严重语域和搭配冲突。",
+      "lookout": "错误。lookout 指“守望，监视”或“监视人员，瞭望台”，固定搭配为 'on/keep a lookout for'，绝无 'lookout of conventions'（遵守公约）的用法。"
+    },
+    "translation": "国际法庭重申，严格遵守人权公约仍然是一项绝对的法律义务，主权国家绝不能通过国内立法手段加以规避。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_12",
+    "group_id": 636,
+    "group_name": "observance, peek, squint, lookout",
+    "level": "TEM-8",
+    "target_word": "peek",
+    "question": "Recently declassified intelligence archives provide diplomatic historians with an unprecedented ___ into the secretive decision-making apparatus that shaped foreign policy during the height of the Cold War.",
+    "options": [
+      "observance",
+      "peek",
+      "squint",
+      "lookout"
+    ],
+    "answer": "peek",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Strong collocational pattern 'provide... an unprecedented ___ into', denoting a revealing or furtive glimpse into a hidden system.",
+    "distractor_analysis": {
+      "peek": "正确。peek 本义为“偷看，一瞥”，在学术及高阶政经文体中常用于引申比喻义，固定搭配 'a peek into sth' 意为“对隐秘事物内部的窥视与探究”，与 'unprecedented' 及介词 'into' 构成严丝合缝的搭配。",
+      "observance": "错误。observance 意为“遵守，奉行；典礼”，支配介词 of，不能与 into 连用，且解密档案无法“提供对决策机构的遵守”。",
+      "squint": "错误。squint 指“斜视，眯眼看”，偶见口语中表示瞥一眼（take a squint at），但从不与 into 搭配表示对系统内部机制的洞察窥探，且属于低语域词汇。",
+      "lookout": "错误。lookout 表示“岗哨，警惕”，固定结构为 'be on the lookout for'，不能与不定冠词 an 连用接 into 来表示“洞察/一窥”。"
+    },
+    "translation": "最近解密的情报档案为外交史学家提供了一个前所未有的窗口，使他们得以窥见在冷战高峰时期塑造外交政策的神秘决策机制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_13",
+    "group_id": 637,
+    "group_name": "ooze, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "ooze",
+    "question": "Critics noted that the essayist depicts not an acute trauma, but the gradual, viscous ___ of cynicism, whose slow percolation into public consciousness corrupts democratic norms without provoking immediate alarm.",
+    "options": [
+      "ooze",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "ooze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰语“gradual, viscous”（渐进的、黏稠的）与从句中对渗透过程的界定“slow percolation into public consciousness”（缓慢渗入公众意识），构成了决定性的语义与搭配锁定。“ooze”作名词本义为“渗流；黏泥；渗出过程”，引申用于认知语境时特指具有黏稠、缓滞、侵蚀特征的渗析；与强调黏滞物理属性的“viscous”构成唯一契合的搭配。",
+    "distractor_analysis": {
+      "ooze": "正确。名词意为“缓慢的渗流；渗出的黏稠物”，在此处与修饰词“viscous”（黏稠的）构成高阶隐喻搭配，精准再现了犬儒主义思维如黏稠液体般缓滞、无声息地侵蚀公众认知（slow percolation）的过程，语域与语义完全一致。",
+      "gush": "错误。名词意为“喷涌，迸发”，强调力量充沛、骤然且大量涌出的动态过程（sudden, copious outpouring），与前置修饰语“gradual, viscous”（渐进的、黏滞的）在物理动态和语感上存在不可调和的逻辑冲突。",
+      "flux": "错误。名词意为“持续的变动，流转”，常用于抽象的变动状态（如 in a state of flux），不具备流体的具体黏度特征，既无法被形容词“viscous”所修饰，也无法与后文的具体渗析意象“slow percolation”形成合理比喻。",
+      "spate": "错误。名词意为“（某类事件的）接二连三发生，突发的一大批”，通常接复数名词表示密集发生的离散事件（如 a spate of scandals），不能被“viscous”修饰，更无法用于接单数不可数名词“of cynicism”表示流体渗透。"
+    },
+    "translation": "评论家指出，该散文家所描绘的并非某种突发的创伤，而是犬儒主义情绪黏稠而渐进的渗流；这种情绪缓慢渗透进公众意识，在未引起即刻警觉的情况下悄然侵蚀了民主规范。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_14",
+    "group_id": 637,
+    "group_name": "ooze, gush, flux, spate",
+    "level": "TEM-8",
+    "target_word": "gush",
+    "question": "Despite the biographer's claim of objective detachment, the monograph frequently descends into an uncritical, sentimental ___ of adulation that obscures the subject's deeply authoritarian impulses.",
+    "options": [
+      "ooze",
+      "gush",
+      "flux",
+      "spate"
+    ],
+    "answer": "gush",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境搭配锚点在于“an uncritical, sentimental ___ of adulation”。在文艺批评与认知态度语域中，“gush”作名词除本义“液体喷发”外，专用于指代“过分热情、多愁善感或夸张无节制的情感/赞美倾泻”（an effusive display of sentiment or enthusiasm），与“sentimental”及“adulation”形成排他性搭配。",
+    "distractor_analysis": {
+      "gush": "正确。名词引申指“（感情或赞辞的）过分流露、滔滔不绝的迸发”，在此与“uncritical, sentimental”（盲目感伤的）和“of adulation”（奉承谄媚的）构成典型文学批评搭配，形象刻画出传记作者毫无节制的溢美之词。",
+      "ooze": "错误。名词指“缓滞的渗流或黏液”，带有阴暗、腐化或病理性的被动渗出意味，不能用来形容狂热、外溢且多愁善感的主动赞美迸发（sentimental ... of adulation）。",
+      "flux": "错误。名词意为“流变，涨落，不稳定状态”，多用于表示局势或认知的波动不定，不具备“过分情感倾泻”的修辞内涵，填入此处会导致搭配与语义完全断裂。",
+      "spate": "错误。名词意为“一连串，大量（突发事件）”，在句法上几乎必然搭配复数可数名词以表示频发事件（如 a spate of attacks），不能与表示抽象情感倾注的不可数名词“adulation”搭配使用。"
+    },
+    "translation": "尽管该传记作者声称保持客观中立，但其专著却频频陷入对传主盲目而感伤的谄媚溢美之中，从而掩盖了其根深蒂固的专制倾向。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_15",
+    "group_id": 638,
+    "group_name": "orientation, stance, posture, reverence",
+    "level": "TEM-8",
+    "target_word": "orientation",
+    "question": "Longitudinal behavioral studies reveal that an adolescent's temporal ___, manifested in an integrated cognitive tendency to value future outcomes over immediate gratification, constitutes a reliable predictor of adult socioeconomic achievement.",
+    "options": [
+      "orientation",
+      "stance",
+      "posture",
+      "reverence"
+    ],
+    "answer": "orientation",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The cognitive psychology collocation 'temporal orientation' (时间取向/时间定向) paired with the subsequent appositive clause defining it as an 'integrated cognitive tendency' (echoing the MW definition 'an integrated set of attitudes and beliefs'). Distractors fail syntactically and conceptually to collocate with 'temporal'.",
+    "distractor_analysis": {
+      "orientation": "【正确】orientation 在认知心理学与行为科学中指“基本取向、认知定向”，韦氏词典释义为“an integrated set of attitudes and beliefs”（整合性的态度与信念体系）。与修饰语 temporal 构成学术界固定搭配“temporal orientation”（时间取向/时间观念），指个体对待过去、现在与未来的认知倾斜与心理整合模式，完美呼应句中“manifested in an integrated cognitive tendency to value future outcomes over immediate gratification”。",
+      "stance": "【错误】stance 指“针对具体争议性议题所公开表明的立场、姿态”（intellectual or emotional attitude toward a specific issue/controversy），常用搭配为“stance on/toward an issue”。它无法与 temporal 搭配形成心理学概念（不存在所谓“temporal stance”），且侧重显性论点而非深层认知心理结构。",
+      "posture": "【错误】posture 侧重“姿态、战略部署”或“故作姿态/装模作样”（an artificial or strategic attitude/carriage），多用于军事、外交或行为举止（如 defense posture, moral posturing），置于“temporal ___”后属于严重的范畴错配与搭配破裂。",
+      "reverence": "【错误】reverence 指“深切的敬畏、崇敬”（profound awe and respect），常与介词 for 连用（如 reverence for life/tradition）。“temporal reverence”（对时间的敬畏）在认知心理学与本句语义中既无学科术语基础，也无法与后文“权衡未来结果与即时满足”的认知倾向形成逻辑呼应。"
+    },
+    "translation": "长期的行为研究表明，青少年的时间取向——体现为重视未来成果甚于眼前满足的整合性认知倾向——是预测其成年后社会经济成就的可靠指标。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_16",
+    "group_id": 638,
+    "group_name": "orientation, stance, posture, reverence",
+    "level": "TEM-8",
+    "target_word": "stance",
+    "question": "Throughout the contentious epistemological debate, the philosopher refused to soften her uncompromising ___ on moral realism, insisting that objective ethical truths exist independently of human convention or subjective appraisal.",
+    "options": [
+      "orientation",
+      "stance",
+      "posture",
+      "reverence"
+    ],
+    "answer": "stance",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The idiomatic collocation 'soften one's [uncompromising] stance on...', where 'stance' is uniquely selected by the preposition 'on' to denote an explicit philosophical/intellectual position on a contentious doctrine. 'Orientation' colligates with 'to/towards', while 'reverence' colligates with 'for'.",
+    "distractor_analysis": {
+      "stance": "【正确】stance 指就某一争鸣学术问题所持有的“明确立场、主张”（an intellectual or emotional position on a matter），常见学术搭配为“adopt/maintain/soften one's stance on something”。句中修饰语“uncompromising”与介词短语“on moral realism”构成无可置疑的排他性语法及语义锚点，准确传达哲学家在认识论论辩中坚定捍卫自身理论立场的语境。",
+      "orientation": "【错误】orientation 指整体性的“价值取向、思想导向”，其习惯介词搭配为 to 或 towards（如 an orientation toward moral realism），绝不与 on 连用（*orientation on 是语法与搭配破裂）；此外，orientation 指向潜移默化的倾斜或格局，学术英语中极少使用“soften one's orientation”。",
+      "posture": "【错误】posture 虽然偶尔与 on 连用表示“对某事的表态”，但它带有强烈的“策略性做作、外在姿态、虚张声势”（an affected or strategic pose）色彩，与本句探讨严肃哲学本体论真理（“insisting that objective ethical truths exist...”）的高阶学术语域严重冲突，且与动词 soften 的搭配自然度远逊于 stance。",
+      "reverence": "【错误】reverence 意为“敬畏、崇敬”，后接介词 for（如 reverence for nature），不能与介词 on 搭配，语法直接出局；且认识论学者对“道德实在论”（moral realism）所持的是学术论辩立场而非宗教式的崇拜。"
+    },
+    "translation": "在整场激烈的认识论论辩中，这位哲学家拒绝软化其在道德实在论上不妥协的坚定立场，坚称客观伦理真理的存在独立于人类习俗或主观评价。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_17",
+    "group_id": 639,
+    "group_name": "override, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "override",
+    "question": "When autonomous diagnostic systems generate aberrant recommendations, the hospital protocol mandates an immediate human ___, empowering clinicians to nullify the algorithmic directive and reassert professional judgment.",
+    "options": [
+      "override",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "override",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'human' to form 'human override' (人工干预/超控机制), and grammatically/semantically aligns with 'nullify the algorithmic directive' (废止自动算法指令).",
+    "distractor_analysis": {
+      "override": "正确。override作名词时指“（对自动装置、程序或既定指令的）越权干预、超控机制或手动置换”。在认知系统与智能决策语境中，“human override”（人工干预/人工超控）为严谨的专业固定搭配，完美契合后文“empowering clinicians to nullify the algorithmic directive”（赋权临床医生废止算法指令）的操作逻辑。",
+      "prod": "错误。prod作名词指“刺针、促动、刺激物”，常用于唤醒行动或打破沉寂，无法与human搭配表达“撤销或推翻自动指令的技术/管理控制机制”。",
+      "foil": "错误。foil作名词常指“陪衬物、衬托者”，用于通过对比凸显另一事物的特质，与系统控制、指令撤销毫无语意关联。",
+      "buffer": "错误。buffer作名词指“缓冲物、减震屏障”，常与against搭配表示减弱外部冲击或隔绝冲突；在此处填入无法实现“主动废除（nullify）算法指令”的主动超控功能。"
+    },
+    "translation": "当自主诊断系统生成异常建议时，医院规程要求立即启动人工干预机制，赋予临床医生否决算法指令并重新行使专业判断的权力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_18",
+    "group_id": 639,
+    "group_name": "override, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The advisory committee's rigorous critique served as a salutary ___ to institutional complacency, galvanizing faculty members to re-examine their pedagogical models rather than dogmatically defending outdated methodologies.",
+    "options": [
+      "override",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'salutary' and takes 'to' to form 'a salutary prod to complacency' (对自满情绪的有益鞭策), directly reinforced by 'galvanizing faculty members to re-examine'.",
+    "distractor_analysis": {
+      "prod": "正确。prod作名词表示“鞭策、激策、促动（以克服迟钝或怠惰）”，常与形容词如salutary或sharp连用（a salutary prod），后接介词to，表示“促使摆脱……的催化剂”。此处与后文分词短语“galvanizing faculty members to re-examine”（激励教员重新审视）形成严密的因果协同。",
+      "override": "错误。override指“越权干预、超控置换”，不可与salutary搭配修饰心理/制度状态（complacency），亦无“激励某人做出认知反思”的动能隐喻。",
+      "foil": "错误。foil指“对比物、陪衬”，通常搭配介词for或to表示“作为……的衬托”，不能产生“激发、鞭策（galvanizing）”以打破自满的逻辑效应。",
+      "buffer": "错误。buffer指“缓冲垫、减震物”，通常与介词against/between搭配；若作“buffer to complacency”在逻辑上反转为“保护/维持自满”，与后文“激励教员反思”产生致命的语意矛盾。"
+    },
+    "translation": "咨询委员会严厉的批评如同一记有益的鞭策，打破了体制内的自满情绪，激励教职人员深入反思其教学模式，而非教条地捍卫过时的方法论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_19",
+    "group_id": 640,
+    "group_name": "pawn, underling, accomplice, confederate",
+    "level": "TEM-8",
+    "target_word": "pawn",
+    "question": "Far from acting as an autonomous policymaker, the newly appointed minister soon realized he had been reduced to a mere ___ in a broader geopolitical game orchestrated by regional hegemons.",
+    "options": [
+      "pawn",
+      "underling",
+      "accomplice",
+      "confederate"
+    ],
+    "answer": "pawn",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“reduced to a mere ___ in a broader geopolitical game orchestrated by...”构成决定性搭配与隐喻锚点。来自国际象棋的固定隐喻“a pawn in a/the game”（博弈中的棋子/傀儡）专指在宏观战略或外部操纵中丧失自主决策权、仅被当作工具摆布的人。",
+    "distractor_analysis": {
+      "pawn": "正确。作名词本义为国际象棋中的“兵、卒”，引申为“被利用的工具，傀儡，棋子”，常与“in a game / struggle”构成经典固定搭配。句中“reduced to a mere pawn in a broader geopolitical game”精准传达出该部长丧失自主权、沦为地缘霸权博弈工具的被动处境，语体与语义完全契合。",
+      "underling": "错误。指行政、官僚或职场组织内部“地位低下的部下、听差”（subordinate），侧重于同一层级组织内的垂直雇佣与隶属关系。此处语境为国际政治层面的宏观地缘博弈（geopolitical game），而非部门内部的上下级依附，无法与“in a ... game”构成合理的隐喻搭配。",
+      "accomplice": "错误。法律与伦理层面的“共犯，帮凶”，特指明知故犯地参与犯罪或非正义行径（crime/wrongdoing）的同伙。句中部长自以为是“autonomous policymaker”（自主决策者），语境不涉及共同违法犯罪，且 accomplice 强调具有主观恶意的协同配合，与被剥夺主体意识的“沦为棋子”语义相反。",
+      "confederate": "错误。指“同盟者，盟友，共谋者”，通常指在政治联盟、秘密阴谋中自愿结盟并保持一定独立性与主动地位的参与方。句式“reduced to a mere...”（沦为区区……）强调行动主体性的剥夺与降格，与保留自主参与意识的 confederate 产生语义逻辑冲突。"
+    },
+    "translation": "这位新任命的部长绝非拥有自主权的决策者，他很快意识到，自己不过是沦为了区域霸权所策划的更大规模地缘政治博弈中的一枚棋子。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b63_20",
+    "group_id": 640,
+    "group_name": "pawn, underling, accomplice, confederate",
+    "level": "TEM-8",
+    "target_word": "underling",
+    "question": "Refusing to waste his own valuable time on mundane clerical disputes, the arrogant department director routinely delegated such trivial matters to an obedient ___, who had no choice but to comply.",
+    "options": [
+      "pawn",
+      "underling",
+      "accomplice",
+      "confederate"
+    ],
+    "answer": "underling",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“department director routinely delegated such trivial matters to an obedient ___”构成决定性语境锚点。科层制组织内部上司将“mundane clerical disputes”（琐碎文书纠纷）等杂务指派给处于从属地位、必须服从的低级雇员，唯有带有贬抑色彩的下属统称 underling 契合该垂直职场权力结构。",
+    "distractor_analysis": {
+      "underling": "正确。指“下属，卑微的部下，马前卒”，带有轻蔑或居高临下的色彩，特指在机构体制中处于底层、专门替上级跑腿或处理日常杂务（menial/clerical work）的人。句中部门主管将琐碎事务委派给低级职员且对方“别无选择只能服从”，与 underling 的阶层从属性与搭配环境完美契合。",
+      "pawn": "错误。指在复杂谋略、政治斗争或阴谋中受幕后黑手操纵的“棋子”（pawn in a power struggle）。行政主管向其管辖下的雇员分派常规日常文书事务属于标准的体制内职务行为，并非暗中操盘的权术陷阱，使用 pawn 会导致严重的语境错配与语义夸大。",
+      "accomplice": "错误。指“从犯，同案犯”，核心特征是协助他人进行违法犯罪（crime）或道德背叛行为。处理日常文书纠纷（mundane clerical disputes）属于正当且合法的常规行政工作，毫无涉罪或违法语境，选入 accomplice 属于严重的语义场断裂。",
+      "confederate": "错误。指在联盟、政治派系或联合行动中相互平等的“同盟者，同伙”，强调具有契约或共同目的的主动结盟关系。本句明确表明该对象必须受主管命令差遣且“别无选择只能照办（had no choice but to comply）”，与具有独立联盟地位的 confederate 存在权力层级与人际关系的直接矛盾。"
+    },
+    "translation": "那位傲慢的部门主管不愿将自己宝贵的时间浪费在琐碎的案牍纠纷上，通常会将此类微不足道的事情交由一名顺从的下属去处理，而这名下属别无选择，只能照办。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

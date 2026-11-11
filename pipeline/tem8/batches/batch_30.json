@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b30_01",
+    "group_id": 301,
+    "group_name": "booze, fuddle, satiate, use",
+    "level": "TEM-8",
+    "target_word": "booze",
+    "question": "Historians of maritime labor observe that nineteenth-century sailors, upon receiving their shore pay, were notorious for their tendency to ___ and brawl across waterfront taverns, defying both naval discipline and temperance societies.",
+    "options": [
+      "booze",
+      "fuddle",
+      "satiate",
+      "use"
+    ],
+    "answer": "booze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_HISTORY",
+    "anchor_clue": "The coordinate verb 'and brawl' situated within the social context of 'waterfront taverns' and opposition to 'temperance societies' uniquely triggers the entrenched historical-journalistic binomial collocation 'booze and brawl'.",
+    "distractor_analysis": {
+      "booze": "正确。booze 作不及物动词，指“狂饮、暴饮、纵酒”。在英国社会史、海事史及高阶报刊（如《经济学人》）论述劳工阶层酒馆文化与狂欢习俗时，“booze and brawl”（酗酒并斗殴）是极其著名且高度固化的头韵连用习语（alliterative binomial pair）；且句中的 waterfront taverns（滨水酒馆）与 temperance societies（禁酒协会）提供了决定性的酒文化历史语境，完全契合题意与文体风格。",
+      "fuddle": "错误。fuddle 在现代标准英语中主要作及物动词，意为“使困惑、使迷糊、使泥醉”（如 wine fuddled his thoughts）。即便追溯其早期罕见的不及物动词用法（tipple/酗酒），其核心语义特征也是指饮酒导致“神志不清、反应迟钝、昏沉瘫软”，与后面表示激烈暴躁身体对抗的“brawl”（斗殴）在语意逻辑和行为状态上产生根本性矛盾，英语中亦绝无 *fuddle and brawl 的搭配。",
+      "satiate": "错误。satiate 为纯及物动词（transitive verb），意为“充分满足、使饱足”，其句法框架必须强制带宾语以承载被满足的欲望或食欲（如 satiate one's appetite/lust）。在此处充当不带宾语的不及物并列谓语（*to satiate and brawl），直接构成致命的及物性句法违规（transitivity violation）。",
+      "use": "错误。use 作不及物动词指代消耗成瘾物质时，属于现代临床成瘾医学或俚语语域，且其语义范围被严格限定为“吸毒、吸食非法麻醉品”（habitually consume illegal drugs）。该词既无法指代19世纪海事酒馆中的饮酒寻欢，更无法与 brawl 连用构成合法的历史话语搭配。"
+    },
+    "translation": "海事劳工史学家观察到，19世纪的水手在领到上岸薪资后，常因在滨水酒馆中酗酒斗殴而臭名昭著，这既公然违抗了海军纪律，也藐视了禁酒协会的规诫。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_02",
+    "group_id": 301,
+    "group_name": "booze, fuddle, satiate, use",
+    "level": "TEM-8",
+    "target_word": "fuddle",
+    "question": "In his critical biography of the Regency poet, the essayist observed that excessive claret served not to invigorate the muse, but merely to ___ his wits, rendering sustained philosophical contemplation impossible.",
+    "options": [
+      "booze",
+      "fuddle",
+      "satiate",
+      "use"
+    ],
+    "answer": "fuddle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "The subject 'excessive claret' coupled with the adversative construction 'served not to invigorate the muse, but merely to ___ his wits' and the debilitating consequence 'rendering sustained philosophical contemplation impossible' definitively requires a transitive verb denoting the muddling or stupefaction of mental faculties by alcohol. In formal literary English, 'fuddle one's wits' is the canonical, established collocation.",
+    "distractor_analysis": {
+      "booze": "错误。booze 主要用作不及物动词，意为“痛饮、酗酒”，无法直接支配名词短语 his wits 作其宾语（*booze his wits 存在致命的及物性句法违规）；此外，booze 属于非正式的口语/俚语色彩词汇，与本句典雅严谨的文学传记语域（critical biography, claret, muse）严重脱节。",
+      "fuddle": "正确。fuddle 为及物动词，专指“使（头脑、心智、神志）发懵或混乱”（尤指饮酒过量所致，to muddle or stupefy one's wits with drink），在文学和学术批评语境中与 wits/brain 构成极具辨识度的经典搭配。句中指出过量的葡萄酒非但未能激发创作灵感，反而使诗人心智混浊迟钝，与后文“致使持续的哲学沉思变得不可能”形成紧密严密的对比因果逻辑。",
+      "satiate": "错误。satiate 意为“使充分满足、使厌腻”，通常支配欲望、胃口或生理需求类名词（如 satiate one's appetite/desires），或以人作宾语，不能与 wits（心智、才智）搭配（*satiate wits 语义严重断裂）；且“满足”的正面或中性语义无法合理解释后文哲学思辨能力彻底受阻的负向破坏结果。",
+      "use": "错误。use his wits 虽为常见习语（意为“运用某人的机智/智谋”），在此处构成表面搭配陷阱，但句法上主语为物质成分 excessive claret（过量红酒），酒不可能作为施事主体去“使用/调动”诗人的心智；在语篇逻辑上，若红酒促使诗人“运用机智”，亦与后文否定性结果“使持续的哲学沉思变得不可能”发生不可调和的逻辑极性反转。"
+    },
+    "translation": "在这部关于这位摄政时代诗人的评传中，散文家指出，过量的红葡萄酒并未能激发灵感，而仅仅是使其心智混浊发懵，致使持续的哲学沉思变得绝无可能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_03",
+    "group_id": 302,
+    "group_name": "brace, vitalize, substantiate, steady",
+    "level": "TEM-8",
+    "target_word": "brace",
+    "question": "Confronted with systemic supply disruptions and escalating geopolitical frictions, multinational manufacturers have begun to ___ themselves for an extended cycle of logistical bottlenecks and sharp tariff increases.",
+    "options": [
+      "brace",
+      "vitalize",
+      "substantiate",
+      "steady"
+    ],
+    "answer": "brace",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive anchor clue: The reflexive object 'themselves' immediately followed by the prepositional phrase 'for an extended cycle of logistical bottlenecks...' requires the fixed idiom 'brace oneself for sth' (to prepare oneself physically or mentally for an impending shock, blow, or adversity). The other three verbs cannot form this specific reflexive preparatory construction.",
+    "distractor_analysis": {
+      "brace": "正确。固定搭配为 'brace oneself for sth'（使某人自己为……做好防范准备以抵御外部冲击/逆境）。句子描述跨国制造商面对供应链断裂与地缘摩擦时采取防备态势，在句法与语境语义场（FIELD_STANCE）上高度契合。",
+      "vitalize": "错误。及物动词，意为“使有活力、赋予生命”，通常支配 stagnant economy 等外部客体作宾语，绝不用于“vitalize oneself for sth”这一反身预备结构，存在严重的搭配断裂（collocational rupture）。",
+      "substantiate": "错误。及物动词，意为“证实、证明……属实”，其宾语必须是 claim, finding, hypothesis 等认识论范畴的命题名词，无法接反身代词后接 for 短语表示为危机做准备，在语法与逻辑上均不能成立。",
+      "steady": "错误。作动词时，'steady oneself' 仅表示身体失衡时“扶住某物以稳住重心”（如 steady oneself against a handrail）或心理上“平复神经与情绪”（steady one's nerves），其后绝不接介词 for 来引出未来的系统性冲击或逆境周期，属于语用层面的强行代入。"
+    },
+    "translation": "面对系统性的供应链中断和不断升级的地缘政治摩擦，跨国制造商已开始做好心理与战略准备，以应对漫长周期的物流瓶颈与关税急剧上涨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_04",
+    "group_id": 302,
+    "group_name": "brace, vitalize, substantiate, steady",
+    "level": "TEM-8",
+    "target_word": "vitalize",
+    "question": "Although emergency liquidity provisions managed to calm turbulent bond markets, policymakers recognized that fiscal stimulus was urgently needed to ___ the stagnant domestic economy and spur long-term industrial productivity.",
+    "options": [
+      "brace",
+      "vitalize",
+      "substantiate",
+      "steady"
+    ],
+    "answer": "vitalize",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Decisive anchor clue: The direct object 'the stagnant domestic economy' coordinated with the consecutive purpose clause 'and spur long-term industrial productivity' demands a verb meaning to impart dynamic energy and vigor to an inert system. Moreover, the concessive clause has already addressed the stabilization of financial turbulence ('calm turbulent bond markets'), ruling out mere stabilization.",
+    "distractor_analysis": {
+      "vitalize": "正确。意为“赋予……生命力/活力，激励”，与宾语 the stagnant domestic economy（停滞的国内经济）以及并列动作 spur long-term industrial productivity（激发长期工业生产力）形成完美的语义协同，精准表达通过财政刺激为停滞不前的实体经济注入生机。",
+      "brace": "错误。意为“加固、支撑、使做好应对冲击的准备”，通常指向防御外来撞击或灾难（如 brace the banking sector against contagion）。语境关注的是如何唤醒已陷入“停滞（stagnant）”的经济实体，而非抵御外部冲击，语境语义不符。",
+      "substantiate": "错误。意为“证实、提供根据证明”，属于认识论维度的实证动词，只能支配 theory, allegation, hypothesis 等抽象论述，不能接 the stagnant domestic economy 这一经济客体，存在范畴错配（category mistake）。",
+      "steady": "错误。意为“使平稳、稳定”，其语义指向抑制波动、平息震荡。前半句 'calm turbulent bond markets' 已经表达了稳定市场的动作；针对已经处于静止沉寂状态的经济（stagnant），若使用 steady 只会使其“维持现存的停滞状态”，直接违背了后文 'spur long-term industrial productivity'（激活生产力）的政策意图，在逻辑上自相矛盾。"
+    },
+    "translation": "尽管紧急流动性支持成功平息了动荡的债券市场，但决策者认识到，迫切需要财政刺激措施来激发停滞不前的国内经济，并提振长期的工业生产力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_05",
+    "group_id": 303,
+    "group_name": "braid, festoon, wreathe, gild",
+    "level": "TEM-8",
+    "target_word": "braid",
+    "question": "Rather than treating memory and perception as isolated faculties, the cognitive theorist sought to ___ these disparate empirical strands into a unified architecture of the human mind.",
+    "options": [
+      "braid",
+      "festoon",
+      "wreathe",
+      "gild"
+    ],
+    "answer": "braid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The verb governs the direct object 'disparate empirical strands' followed by the directional resultative preposition 'into' ('braid ... strands into a unified architecture'). Among all options, only 'braid' metaphorically and syntactically denotes the interlacing of distinct fibers/threads into an integrated composite structure.",
+    "distractor_analysis": {
+      "braid": "正确。braid 的核心语义为“将细股/线缕编结成辫（plait/intertwine）”，在当代认知哲学与高阶学术语篇中，常用于跨域抽象隐喻，其经典搭配即为“braid disparate strands/threads into...”，精准表达将散落多元的经验细分支流交织熔铸为一体。",
+      "festoon": "错误。festoon 意为“以花彩装点、结彩悬缀”，其标准句法搭配要求介词 with（即 festoon A with B），意在“在……表面挂满饰物”，既无法支配“strands”，亦绝不能与“into a unified architecture”搭配以表达熔铸成整体之意。",
+      "wreathe": "错误。wreathe 意为“盘绕、环绕、使成环”，常与 in 或 with 搭配（如 wreathed in mist/smiles）表示环状包围或笼罩，不符合将线形脉络（strands）“编织整合”为心智架构（architecture）的逻辑图式。",
+      "gild": "错误。gild 意为“镀金、粉饰”，强调在实体表面覆盖一层浮华但虚假的光泽（如 gild the lily, gild the truth），系单向的表面修饰，完全无法接“strands ... into”这类表示多要素编织重构的补足语。"
+    },
+    "translation": "认知理论家并未将记忆与感知视作孤立的官能，而是试图将这些互不相同的经验研究分支编织交融，构建起一个关于人类心智的统合架构。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_06",
+    "group_id": 303,
+    "group_name": "braid, festoon, wreathe, gild",
+    "level": "TEM-8",
+    "target_word": "festoon",
+    "question": "The cognitive scientist warned that theorists often ___ their conceptual frameworks with ornate jargon and spurious mathematical symbols, mistaking mere rhetorical embellishment for genuine explanatory depth.",
+    "options": [
+      "braid",
+      "festoon",
+      "wreathe",
+      "gild"
+    ],
+    "answer": "festoon",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic frame '___ their conceptual frameworks with ornate jargon and spurious mathematical symbols' combined with the evaluative phrase 'mere rhetorical embellishment' decisively selects 'festoon', which uniquely carries the figurative meaning of draping or overloading an abstract entity with a distracting, ostentatious array of decorative elements.",
+    "distractor_analysis": {
+      "festoon": "正确。festoon 源于悬垂的花彩装饰，在学术批评与认知理论语境中常作贬义隐喻，专指“用大量炫目、多余且互不相干的外在饰物（如艰涩术语、花哨符号）堆砌装点……”，其严格的句法搭配为“festoon [a framework/text] with [ornate/extraneous items]”，与后文的“rhetorical embellishment（修辞点缀）”完美呼应。",
+      "braid": "错误。braid 强调将不同股线“相互交织（interlace/plait）”，其论元结构要求所编织的是多根 strands/fibers，不可用于“braid a framework with jargon”这种用零散琐碎物在主体表面悬挂堆砌的语义结构。",
+      "wreathe": "错误。wreathe 强调圆环状的“环绕、盘旋或弥漫包裹”（encircle, envelop），例如以桂冠加冕（wreathe a brow with laurel）或笼罩于烟气之中（wreathed in smoke），无法表达将零散的行话与符号作为外挂饰品“挂满/堆满”理论框架的修辞色彩。",
+      "gild": "错误。gild 强调平整地“涂抹金箔、施以诱人但虚伪的表层光泽”，通常为单层覆盖，不与“with [jargon and symbols]”这种由分散、悬挂式修饰元素构成的介词短语连用以表示堆砌饰品。"
+    },
+    "translation": "认知科学家警告称，理论家们往往会用华丽的行话和伪造的数学符号来装点点缀其概念框架，误将纯粹的修辞粉饰当作真正的解释深度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_07",
+    "group_id": 304,
+    "group_name": "caricature, parody, impersonate, ape",
+    "level": "TEM-8",
+    "target_word": "caricature",
+    "question": "Hostile critics often attempt to ___ the philosopher's subtle epistemology as mere solipsism, deliberately exaggerating its subjective tenets while ignoring its rigorous grounding in empirical observation.",
+    "options": [
+      "caricature",
+      "parody",
+      "impersonate",
+      "ape"
+    ],
+    "answer": "caricature",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic frame '___ [an intellectual position] as [a reductive label]' combined with the explanatory participial clause 'deliberately exaggerating its subjective tenets' exclusively admits 'caricature'.",
+    "distractor_analysis": {
+      "caricature": "正确。意为“将……夸张歪曲化；把……描绘成怪诞简化的形象”。在学术与思想论辩语境中，常用于'caricature sth as sth'结构，指对复杂哲学或理论立场进行片面夸大与恶意扭曲，与后文'deliberately exaggerating... while ignoring...'形成严密的同义呼应。",
+      "parody": "错误。意为“（通过文体模仿等手段）戏仿、滑稽模仿”，其典型受词为具体文学体裁、艺术风格、文本或话语形式，不符合'parody sth as sth'这一针对抽象哲学命题进行标签化歪曲的句法模式与论辩语境。",
+      "impersonate": "错误。意为“假冒、扮演（某人）”，受词具有严格的[+人/身份]选择限制特征（如impersonate a police officer），绝不能接'epistemology'（认识论）等非生命的抽象哲学概念。",
+      "ape": "错误。意为“（笨拙、盲目地）模仿、效颦”，侧重不加思考地亦步亦趋或机械照搬，既无法与介词'as'连用构成认知层面的歪曲定性，也无法表达“故意夸大特定要点以进行攻击”的修辞意图。"
+    },
+    "translation": "怀有敌意的批评家往往企图将该哲学家精微的认识论曲解为单纯的唯我论，蓄意夸大其主观主义教条，却全然无视其深植于经验观察的严密根基。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_08",
+    "group_id": 304,
+    "group_name": "caricature, parody, impersonate, ape",
+    "level": "TEM-8",
+    "target_word": "parody",
+    "question": "The satirist's debut novella seeks to ___ the solemn conventions of Victorian detective fiction, meticulously adopting its pedantic cadence and archaic jargon to mock contemporary forensic obsessions.",
+    "options": [
+      "caricature",
+      "parody",
+      "impersonate",
+      "ape"
+    ],
+    "answer": "parody",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The collocation with literary genre tropes ('the solemn conventions of Victorian detective fiction') alongside the method of stylistic simulation ('meticulously adopting its pedantic cadence and archaic jargon to mock...') strictly mandates 'parody'.",
+    "distractor_analysis": {
+      "parody": "正确。意为“（以讽刺或戏谑目的）模仿某作品或流派的风格；戏仿”。在文学批评语境中，parody专门指代通过刻意摹拟特定文体、体裁程式（conventions）或语言节奏来达到嘲弄目的，与句中的'adopting its pedantic cadence and archaic jargon'构成最地道严密的学术搭配。",
+      "caricature": "错误。意为“画漫画讽刺；夸张描绘”，核心语义机制是对具体特征的局部夸张与扭曲变形（distortion/exaggeration），而非在体裁风格层面系统性地“摹拟其抑扬顿挫与行话”，与'conventions'（创作惯例/程式）搭配时不及parody精确恰切。",
+      "impersonate": "错误。意为“扮演、冒充”，属于人际扮演或欺诈范畴，语法受词必须为自然人或拟人化角色，无法支配抽象的文学程式（conventions）。",
+      "ape": "错误。意为“盲目模仿、笨拙照搬”，属于缺乏独创性、受人鄙薄的拙劣效仿（uncritical, clumsy imitation），而句中'meticulously adopting... to mock'展现的是讽刺作家精湛自觉的修辞艺术技巧，两者在语体色彩与语义指向上严重背离。"
+    },
+    "translation": "这位讽刺作家的处女作中篇小说旨在戏仿维多利亚时代侦探小说的严肃程式，精细摹拟其迂腐的韵律与陈旧的行话，以嘲讽当代人对法医勘验的极度痴迷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_09",
+    "group_id": 305,
+    "group_name": "cavern, scallop, excavate, dig",
+    "level": "TEM-8",
+    "target_word": "cavern",
+    "question": "Recent speleological surveys of the karst plateau revealed that carbonic acid dissolution had hollowed the limestone bedrock, producing an immense subterranean ___ capable of accommodating massive groundwater reserves.",
+    "options": [
+      "cavern",
+      "scallop",
+      "excavate",
+      "dig"
+    ],
+    "answer": "cavern",
+    "primary_mechanism": "MECH_SEMANTIC_DISCRIMINATION",
+    "field": "FIELD_GEOSCIENCE",
+    "anchor_clue": "句中关键句法与语义锚点为“an immense subterranean ___ capable of accommodating massive groundwater reserves”（一个能容纳巨量地下水储量的巨大地下……）。在喀斯特地貌与岩溶水文学语境中，cavern 专指石灰岩受溶蚀掏空形成的宏大地下溶洞或天然洞穴大厅；scallop 在洞穴学中仅指微观厘米级的溶蚀波痕或凹痕，空间尺度严重违背；excavate 为动词原形，与冠词修饰结构构成直接的词性语法破裂；dig 专指人类的考古或土石发掘现场且语体偏非正式，无法指代天然地质构造。",
+    "distractor_analysis": {
+      "cavern": "正确。cavern 作名词，在岩溶地貌学（karst geomorphology）与洞穴学中特指由弱酸性地下水化学溶蚀可溶性碳酸盐岩（如石灰岩）形成的宏大地下溶洞或天然洞穴大厅（a vast underground cave or chamber）。本句中与定语“immense subterranean”以及后置说明“capable of accommodating massive groundwater reserves”构成严密的物理尺度与水文地质搭配，完全符合高级学术英语的语域特征。",
+      "scallop": "错误。scallop 作名词在日常英语中指“扇贝”或“扇形波边”；在岩溶地貌学专有名词中，scallop（溶蚀波痕/水蚀凹痕）特指洞壁上湍流溶蚀形成的厘米级匙状凹陷（dissolution ripples/cusps），绝非能够容纳海量地下水的大型地貌腔室，在物理尺度和功能承载上存在不可调和的逻辑冲突。",
+      "excavate": "错误。excavate 严格用作及物动词（意为“挖掘、开凿、发掘”）。在句中不定冠词“an”与并列形容词“immense subterranean”之后，句法位置严格限定为单数可数名词充当宾语中心词。填入动词原形 excavate 会直接导致句法词性错误（syntactic category violation）；即便改为其派生名词 excavation，亦专指人类工程人工开挖，不可用于描述大自然碳酸化学溶蚀形成的天然地质中空。",
+      "dig": "错误。dig 作名词时意为“戳、刺”或专指“（考古学）发掘现场、发掘工地”（an archaeological dig）。其语义核心为“人类有意识的手工或机械土石作业”，语体色彩偏非正式（informal），既无法指代地质化学溶蚀自然形成的宏大洞穴系统，也严重背离地学权威学术文本的崇高严谨语域。"
+    },
+    "translation": "最近对该喀斯特高原的洞穴学调查表明，碳酸的溶蚀作用掏空了石灰岩基岩，形成了一个能够容纳巨量地下水储量的巨大地下溶洞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_10",
+    "group_id": 305,
+    "group_name": "cavern, scallop, excavate, dig",
+    "level": "TEM-8",
+    "target_word": "scallop",
+    "question": "Sophisticated fMRI analyses reveal how localized neural fatigue can ___ the boundary between perceptual categories, indenting the smooth cognitive threshold with rhythmic, crescent-shaped fluctuations that distort auditory recognition.",
+    "options": [
+      "cavern",
+      "scallop",
+      "excavate",
+      "dig"
+    ],
+    "answer": "scallop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句后分词短语“indenting the smooth cognitive threshold with rhythmic, crescent-shaped fluctuations”（以规律的月牙形波动使平滑的认知阈限产生凹口）提供了决定性语义互文。动词 scallop 依韦氏词典专门定义为“hollow out; indent with a series of rounded projections”（在边缘切出扇形弧线或形成月牙状波浪凹口），其支配宾语 the boundary 与后文形成绝对的微观拓扑搭配。",
+    "distractor_analysis": {
+      "scallop": "正确。scallop 作为及物动词，指“使边缘形成一系列波浪形、圆弧形或扇贝状凹边（indent with a series of curved projections）”。在此认知神经科学语境中，宾语为 the boundary，伴随状语明确强调“crescent-shaped fluctuations”（新月形波动），唯有 scallop 能够精准表达使平滑感知边界产生“弧形波褶/扇形微凹”的拓扑畸变特征。",
+      "cavern": "错误。cavern 强调将主体内部掏空形成宏大深邃的洞穴（hollow out deeply），其动作作用于物体内部体积而非边缘边界（boundary），无法与后文“月牙状波动/扇形锯齿边缘”的微观几何特征相容。",
+      "excavate": "错误。excavate 意为“发掘、挖空”，其对象为埋藏物或地下空间（如遗址、基坑），不能与 boundary 搭配表示将边界凹刻出波状弧度，逻辑与概念隐喻均不成立。",
+      "dig": "错误。dig 指基础的用工具或手足掘土，既无法与抽象的认知边界（boundary）产生高阶学术拟合，亦不具备“使边缘呈规则扇形/弧形凹入”的专用几何内涵。"
+    },
+    "translation": "精密的动功能磁共振成像（fMRI）分析揭示了局部神经疲劳是如何使知觉范畴之间的边界呈扇形波状凹陷的，它以规律的新月形波动在平滑的认知阈限上刻出凹痕，从而扭曲了听觉识别。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_11",
+    "group_id": 306,
+    "group_name": "cede, raffle, bequeath, tip",
+    "level": "TEM-8",
+    "target_word": "cede",
+    "question": "Under mounting diplomatic pressure, the transitional regime reluctantly agreed to ___ jurisdictional sovereignty and administrative oversight to an independent international tribunal, severely compromising its domestic political autonomy.",
+    "options": [
+      "cede",
+      "raffle",
+      "bequeath",
+      "tip"
+    ],
+    "answer": "cede",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates strictly with abstract legal/political rights ('jurisdictional sovereignty and administrative oversight') and the directional preposition 'to an independent international tribunal' under diplomatic coercion.",
+    "distractor_analysis": {
+      "cede": "正确。动词，意为“（尤指在政治或外交压力下、依条约）让渡、放弃（主权、权力、管辖权）”。与句中宾语“jurisdictional sovereignty and administrative oversight”及介词短语“to an independent international tribunal”构成无可挑剔的高阶国际法与地缘政治学术搭配。",
+      "raffle": "错误。动词，意为“以抽彩/抽奖方式出售（实物以筹集资金）”，后接具体商品或奖品，与让渡司法主权和行政监督权存在严重的语义范畴冲突。",
+      "bequeath": "错误。动词，本义指“立遗嘱将（财产）遗赠他人”，引申为“将（传统、遗产）传给后代”。句中描述的是现存政权在外部施压下向当代国际法庭让出权力，既非遗嘱继承行为，亦非跨世代的文化/历史传承，语义逻辑不符。",
+      "tip": "错误。动词，意为“给……小费”、“使倾斜”或“预测……获胜”，既无法与抽象政治主权搭配，也无法与“to an independent international tribunal”形成合乎逻辑的句法结构。"
+    },
+    "translation": "在日益沉重的外交压力下，该过渡政权勉强同意将司法主权与行政监督权让渡给一个独立的国际法庭，从而严重削弱了其国内政治自主权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_12",
+    "group_id": 306,
+    "group_name": "cede, raffle, bequeath, tip",
+    "level": "TEM-8",
+    "target_word": "raffle",
+    "question": "To circumvent direct asset liquidation, the historical society issued numbered tickets to ___ a donated seventeenth-century atlas among patrons, thereby generating substantial revenue for preservation efforts.",
+    "options": [
+      "cede",
+      "raffle",
+      "bequeath",
+      "tip"
+    ],
+    "answer": "raffle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive operational anchor 'issued numbered tickets to ... among patrons' exclusively denotes disposing of an item via lottery/raffle to raise funds.",
+    "distractor_analysis": {
+      "raffle": "正确。及物动词，意为“以抽彩方式处置/拍卖（物品以募集资金）”。句中的“issued numbered tickets”（发行有编号的奖券）与“among patrons”（在赞助人中）构成了决定性的语境锚点，精确契合通过抽奖处置捐赠古籍以筹措保护经费的动作机制。",
+      "cede": "错误。动词，意为“割让（土地）、让渡（权力）”，其受体通常是政治对手或法律实体，无法与“issued numbered tickets among patrons”（向赞助人发售奖券）的博彩筹款机制形成合理搭配。",
+      "bequeath": "错误。动词，意为“遗赠（通过遗嘱留给继承人）”，属于立遗嘱人的单向民事法律行为，完全排斥通过发售带有编号的奖券进行有偿抽彩的处置方式。",
+      "tip": "错误。动词，意为“给小费”、“轻触”或“使倾斜”，无法接贵重古籍作为及物宾语来表达募集资金的行为，词义与语境完全脱节。"
+    },
+    "translation": "为避免直接清算资产，该历史学会发行了带有编号的奖券，在赞助人中抽彩处置了一套获捐的十七世纪地图集，从而为古籍保护工作筹集了可观的资金。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_13",
+    "group_id": 307,
+    "group_name": "clinch, rig, wedge, hang",
+    "level": "TEM-8",
+    "target_word": "clinch",
+    "question": "After months of fraught multilateral negotiations, the seasoned diplomat managed to ___ a definitive bilateral pact that resolved tariff disputes and established a precedent for sustainable trade.",
+    "options": [
+      "clinch",
+      "rig",
+      "wedge",
+      "hang"
+    ],
+    "answer": "clinch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational object 'a definitive bilateral pact' coupled with 'managed to' and 'resolved tariff disputes' decisively requires 'clinch' (meaning to settle or conclude an agreement/deal decisively).",
+    "distractor_analysis": {
+      "clinch": "正确项。clinch 词源自“敲弯钉脚使其固定”，在高级政经与外交语境中引申为“彻底解决、最终敲定、达成（协议、交易）”，与 pact, deal, agreement 构成高度凝固的强搭配（clinch a definitive pact）。此处精准契合外交官历经艰苦谈判最终促成具有约束力的双边条约的语义场景。",
+      "rig": "干扰项。语意与褒贬色彩冲突。rig 指“以欺骗、操纵或非法手段暗中篡改（选举、利率、比赛结果等）”，具有强烈的负面欺诈色彩，与外交官通过正当谈判达成合法的国家间条约（bilateral pact）在语境逻辑与语用色彩上完全相悖。",
+      "wedge": "干扰项。搭配不当。wedge 作为动词主要指“将……挤入/塞入狭窄空间（wedge into）”或“在两者之间制造隔阂（wedge between）”，无法及物支配 a pact，在英语中不存在“wedge a pact”的搭配通道。",
+      "hang": "干扰项。句法与语义断裂。hang 及物表示“悬挂、绞决”，不及物搭配可表“取决于（hang on/upon）”或“悬而未决（hang in the balance）”，但绝不可直接及物带宾语 a pact 表示“达成协定”，属于明显的搭配与句法错乱。"
+    },
+    "translation": "经过数月紧张焦灼的多边谈判，这位经验丰富的外交官最终成功敲定了一项具有决定意义的双边协定，妥善化解了关税争端并为可持续贸易树立了先例。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_14",
+    "group_id": 307,
+    "group_name": "clinch, rig, wedge, hang",
+    "level": "TEM-8",
+    "target_word": "rig",
+    "question": "Financial regulators launched an exhaustive investigation into whether senior cartel traders conspired to ___ benchmark interest rates, artificially distorting global borrowing costs to enrich their own proprietary desks.",
+    "options": [
+      "clinch",
+      "rig",
+      "wedge",
+      "hang"
+    ],
+    "answer": "rig",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive collocation 'benchmark interest rates' paired with 'conspired to' and the participial clause 'artificially distorting global borrowing costs' strictly selects 'rig' (meaning to fraudulently manipulate financial metrics or markets).",
+    "distractor_analysis": {
+      "rig": "正确项。rig 意为“以欺诈手段暗中操纵、作弊”，在金融监管与宏观经济报道中构成极高频固定搭配（如 rig benchmark interest rates 操纵基准利率、rig the market 操纵市场）。与句中的“conspired to”（合谋密谋）以及“artificially distorting... to enrich...”（人为扭曲……以自肥）构成天衣无缝的逻辑呼应与语用闭环。",
+      "clinch": "干扰项。语义与搭配破裂。clinch 强调“最终敲定（交易/协定）、锁定（胜局）”，其宾语通常为 deal, pact, treaty 或 victory，无法与“基准利率（benchmark interest rates）”搭配，更无法传达“非法操纵”的违法犯罪内涵。",
+      "wedge": "干扰项。语义与句法不合。wedge 本义为“楔入、挤进”，常需要介词短语（如 wedge into/between）补足方向或位置，不能作为及物动词用来描述对金融指标或利率的操纵篡改行为。",
+      "hang": "干扰项。搭配与语意断裂。hang 及物意为“悬挂、绞死”，不及物可表示“悬置”，均无法及物接续 benchmark interest rates 作为合谋操控的对象，在语法和语义逻辑上均无法成立。"
+    },
+    "translation": "金融监管机构展开了详尽调查，以核实高级卡特尔交易员是否曾合谋操纵基准利率，人为扭曲全球借贷成本以充实其自营交易业务的私囊。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_15",
+    "group_id": 308,
+    "group_name": "coddle, fry, poach, stew",
+    "level": "TEM-8",
+    "target_word": "coddle",
+    "question": "Rather than cultivating critical resilience through intellectual friction, overly paternalistic universities that ___ their students' cognitive sensibilities risk producing graduates wholly unprepared for the ideological discord of public life.",
+    "options": [
+      "coddle",
+      "fry",
+      "poach",
+      "stew"
+    ],
+    "answer": "coddle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首短语“Rather than cultivating critical resilience through intellectual friction”（而非通过思想交锋培养批判性韧性）与主句中“overly paternalistic universities”（过度家长制式的高校）形成强烈反衬，决定了空格处必须填入一个能与“students' cognitive sensibilities”（学生的认知感受/脆弱情感）形成稳定及物搭配，且表示“过分呵护、溺爱、娇惯”的动词。在4个烹饪借词中，仅 coddle 具备此特定转义与搭配能力。",
+    "distractor_analysis": {
+      "coddle": "正确。coddle 本义为用微沸的水慢煮（如煮嫩蛋），在社会心理学与高等教育批评话语中，高度固定地引申为“过分呵护、娇惯、溺爱（某人的脆弱情感或思想）”（例如名作 The Coddling of the American Mind），与宾语 sensibilities 及主语 paternalistic universities 构成精准的学术语域搭配。",
+      "fry": "错误。fry 本义为油炸、油煎，引申义通常指由于超负荷、高压或药物导致神经、大脑或电路“烧损、烧焦、过载衰竭”（如 fry one's brain/circuits），与表示过度庇护情感的语境完全背道而驰。",
+      "poach": "错误。poach 本义为水煮（蛋），引申义多指“非法偷猎”或“违规挖角（竞争对手的员工、生源、创意等）”，无法以抽象的情感敏感度（sensibilities）作为及物动词宾语，存在范畴搭配谬误。",
+      "stew": "错误。stew 虽有水炖之义，但在认知与心理语域中几乎全为不及物用法（如 stew in one's own juice 独自受煎熬，或 stew over a dilemma 为某事忧虑生闷气），语法上无法直接支配“their students' cognitive sensibilities”充当及物动词宾语。"
+    },
+    "translation": "过度奉行家长制的高校若一味娇惯呵护学生的认知感受，而非通过思想交锋来培养批判性韧性，就极有可能培养出完全无法应对公共生活中意识形态交锋的毕业生。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_16",
+    "group_id": 308,
+    "group_name": "coddle, fry, poach, stew",
+    "level": "TEM-8",
+    "target_word": "fry",
+    "question": "Prolonged exposure to chronic stress hormones can effectively ___ the neural circuits of the prefrontal cortex, precipitating severe deficits in working memory and emotional regulation.",
+    "options": [
+      "coddle",
+      "fry",
+      "poach",
+      "stew"
+    ],
+    "answer": "fry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "由“Prolonged exposure to chronic stress hormones”（长期暴露于慢性压力荷尔蒙下）与后文结果“precipitating severe deficits in working memory”（导致工作记忆严重衰退）可知，空格动作必然对“the neural circuits of the prefrontal cortex”（前额叶皮层的神经回路）造成了器质性或功能性的严重“过载烧损/破坏”。在4个选项中，仅 fry 拥有借自电子硬件回路过热损毁、并在神经认知科学与高端科技报道中成熟通用的“烧毁神经回路（fry circuits）”隐喻搭配。",
+    "distractor_analysis": {
+      "fry": "正确。fry 原指油煎、油炸，引申指电子电路因电压过高而过热烧坏；在当代神经生物学及高级科学特写中，该词被广泛借用隐喻神经系统超负荷导致的损害，fry neural circuits（烧损/损坏神经回路）是极具辨识度的修辞搭配，契合后文功能衰竭的病理后果。",
+      "coddle": "错误。coddle 意为“娇惯、呵护”，慢性压力荷尔蒙对大脑皮层神经回路带来的是损伤与病变，语义方向与消极后果完全相反，产生严重的逻辑与语境冲突。",
+      "poach": "错误。poach 在比喻义中意为“侵入窃取”或“挖走（人才/资源）”，无法与无生命的“neural circuits（神经回路）”形成动宾支配关系，语义断裂。",
+      "stew": "错误。stew 虽可指炖煮，在精神状态上指“陷入焦虑、烦躁不安”，但该用法为不及物动词（如 stew over something），在此处无法充当带直接宾语的及物动词来表达物理或生理意义上的“破坏/烧毁回路”。"
+    },
+    "translation": "长期暴露于慢性压力荷尔蒙之下，实际上会烧损前额叶皮层的神经回路，进而导致工作记忆和情绪调节能力的严重衰退。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_17",
+    "group_id": 309,
+    "group_name": "concord, correlate, corroborate, twin",
+    "level": "TEM-8",
+    "target_word": "concord",
+    "question": "Although decades of violent factionalism had severely eroded communal trust, the transitional government prioritized institutional reforms to foster social ___, seeking to replace systemic discord with lasting political cohesion.",
+    "options": [
+      "concord",
+      "correlate",
+      "corroborate",
+      "twin"
+    ],
+    "answer": "concord",
+    "primary_mechanism": "MECH_DISCOURSE_CONTRAST",
+    "field": "FIELD_POLITICS_AND_GOVERNANCE",
+    "anchor_clue": "Requires an uncountable noun denoting harmony or peaceful agreement within a political body ('social concord'), anchored conclusively by the explicit antonymous contrast 'replace systemic discord with lasting political cohesion'. Distractors are strictly barred: 'corroborate' is purely a verb; 'correlate' and 'twin' are singular countable nouns that cannot occupy an uncount-noun slot without an article and create severe category errors.",
+    "distractor_analysis": {
+      "concord": "正确项。concord 在现代标准英语中主要作不可数抽象名词，意为“（人、群体或国家间的）和睦、和谐、协调”（harmony or agreement between people or groups）。在本句中，“social concord”（社会公睦/社会和谐）是政治哲学与学术政论的高阶经典表达；同时，后文分词短语“seeking to replace systemic discord with lasting political cohesion”（旨在以持久的政治凝聚力取代系统性不和）提供了绝对排他的语义对比锚点，concord 与 discord 构成严密的经典正反对应，语域完全契合。",
+      "correlate": "干扰项。correlate 作名词时为可数名词（通常作 a correlate 或复数 correlates），表示“相关联的事物或互为依存的概念”，在本句中以单数无冠词形式出现，直接违反名词可数性句法规则（*foster social correlate）；此外，其语义限定于经验或统计维度的事物关联，无法表示政治社会层面的“团结与和谐”，与 discord 毫无反义对立关系。",
+      "corroborate": "干扰项。corroborate 仅作及物动词，意为“确证；证实（陈述或理论）”。在此处它被置于形容词 social 之后、动词 foster 宾语中心语的位置，构成根本性的词性冲突与句法破损（*foster social corroborate），故在语法层面被绝对排除。",
+      "twin": "干扰项。twin 作名词时意为“孪生之一；极为相似的对应物”，属于个体可数名词，缺少不定冠词 a 无法构成合法的单数名词短语（*foster social twin 构成语法错误）；且在语义上属于明显的概念范畴错配（category mistake），无法指代群体间的和平共处状态。"
+    },
+    "translation": "尽管数十年的暴力派系斗争严重侵蚀了社区间的信任，过渡政府仍将制度改革置于优先地位以促进社会和睦，力求以持久的政治凝聚力取代系统性的分裂与不和。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_18",
+    "group_id": 309,
+    "group_name": "concord, correlate, corroborate, twin",
+    "level": "TEM-8",
+    "target_word": "correlate",
+    "question": "Longitudinal epidemiological studies demonstrate that subjective sleep quality does not systematically ___ with objective polysomnographic measures, suggesting that psychological distress significantly distorts patients' self-reported sleep architecture.",
+    "options": [
+      "concord",
+      "correlate",
+      "corroborate",
+      "twin"
+    ],
+    "answer": "correlate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The scientific co-text establishes a relationship between two quantifiable empirical research variables ('subjective sleep quality' and 'objective polysomnographic measures'), which uniquely demands 'correlate with' (to exhibit systematic co-variation); 'corroborate' is grammatically blocked by the preposition 'with', 'twin' requires a transitive object, and 'concord' is a register clash restricted to human agreement or philosophical harmony.",
+    "distractor_analysis": {
+      "correlate": "正确项。correlate 作不及物动词，与介词 with 构成实证科研高频搭配“correlate with”，意为“（在统计或实证测量中）相互关联；呈相关性”。句中探讨主观感知指标（subjective sleep quality）与客观生理仪器测定指标（objective polysomnographic measures）之间缺乏系统性相关，副词 systematically 与 correlate with 形成极严密的学术搭配。",
+      "concord": "干扰项。concord 作为不及物动词表示“一致；和谐”，多用于人的意志、道德规范、哲学学说或政治协约之间的融洽一致（如 beliefs concord with actions）。将 concord 用于描述临床医学和认知神经科学中客观数据指标之间的统计关系，属于严重的语域冲突与语义误用。",
+      "corroborate": "干扰项。corroborate 属于纯及物动词，意为“证实；支持（某种假说或说法）”。此处空格后有介词 with，而 corroborate 不能与 with 搭配构成不及物短语（*corroborate with），存在致命的句法阻断。",
+      "twin": "干扰项。twin 作动词表示“使偶合；使成双”，在主动语态中须带宾语（如 twin the data with...），不能作为不及物动词后接 with 构成“twin with”结构；且其词义强调人为组合，无法用于表达经验测量数据之间客观的统计共变规律。"
+    },
+    "translation": "纵向流行病学研究表明，主观睡眠质量与多导睡眠图的客观测量指标并无系统的相关性，这表明心理困扰会显著扭曲患者自我报告的睡眠结构。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_19",
+    "group_id": 310,
+    "group_name": "confederate, espouse, federate, wed",
+    "level": "TEM-8",
+    "target_word": "confederate",
+    "question": "Unwilling to cede their jurisdictional autonomy to a centralized administration, the maritime merchant guilds agreed to ___ with foreign trading companies in an informal, mutual-defense league.",
+    "options": [
+      "confederate",
+      "espouse",
+      "federate",
+      "wed"
+    ],
+    "answer": "confederate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首定语从句 'Unwilling to cede their jurisdictional autonomy to a centralized administration'（不愿向中央行政机构让渡管辖自治权）与介词短语 '___ with foreign trading companies in an informal, mutual-defense league' 构成了决定性的排他锚点。政治学与法理学认知逻辑中，confederate 专指保留各自主权的松散同盟，与 federate（让渡主权建立联邦体系）形成严格对立，而 espouse 和 wed 在此语境下存在致命的介词搭配与句法语义破裂。",
+    "distractor_analysis": {
+      "confederate": "【正确】作不及物动词时，典型搭配为 confederate with... in a league，表示“（自治实体、派系、社团）为共同目标缔结联盟”。在政治学与组织理论中，confederate 强调各成员方完全保留各自的独立管辖权与主权，与句意“不愿向中央集权机构让渡自主权”以及后文“informal, mutual-defense league”（非正式防御联盟）在句法和概念层面上完美契合。",
+      "espouse": "【排除】及物动词，核心语义为“拥护、支持、采纳（学说、政策、主义、理想）”，其直接宾语必须为抽象名词（如 espouse a cause/doctrine），既不可作不及物动词与介词 with 连用，也不能用于描述实体组织之间的结盟行为。",
+      "federate": "【排除】动词，意为“使……结成联邦；组织成联邦体系”。在宪政与组织语境中，federate 意味着各成员实体必须向中央权力机构让渡核心管辖权与主权（常搭配 federate into a union），这与句首前置状语“Unwilling to cede their jurisdictional autonomy to a centralized administration”（不愿向中央机构让渡管辖自治权）产生不可调和的逻辑反向冲突。",
+      "wed": "【排除】及物动词，本义为“结婚”，引申比喻义为“将二者紧密结合”（wed A to/with B，需双重宾语），或用于被动语态 be wedded to 表示“死心塌地执着于……”。wed 无法作为不及物动词与介词 with 搭配表示组织之间的缔盟，在此处属于严重的句法破裂与词义误用。"
+    },
+    "translation": "由于不愿向中央行政机构让渡自身的管辖自治权，这些海洋商会商定与外国贸易公司在一个非正式的共同防御同盟中结为同盟。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b30_20",
+    "group_id": 310,
+    "group_name": "confederate, espouse, federate, wed",
+    "level": "TEM-8",
+    "target_word": "espouse",
+    "question": "Although initially recognized as a staunch defender of laissez-faire capitalism, the newly appointed minister began to openly ___ interventionist doctrines, arguing that unregulated markets could no longer safeguard national infrastructure.",
+    "options": [
+      "confederate",
+      "espouse",
+      "federate",
+      "wed"
+    ],
+    "answer": "espouse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点在于动宾搭配 '___ interventionist doctrines'（……干预主义学说）以及前后句转折逻辑（由自由放任主义的“捍卫者”转而公开“信奉/采纳”国家干预学说）。在四个选项中，仅有 espouse 能及物支配抽象意识形态、理论与政策（espouse doctrines/theories），其余选项均存在严重的范畴错配或句法违规。",
+    "distractor_analysis": {
+      "espouse": "【正确】及物动词，意为“信奉、支持、拥护（观点、学说、政策）”，常用于高级学术与政治思想语境（FIELD_COGNITION）。espouse 与 interventionist doctrines 构成高度地道的动宾搭配，且与前半句“staunch defender of laissez-faire capitalism”形成的思辨转折完全契合。",
+      "confederate": "【排除】意为“使联盟；使结盟”，其约束对象必须是具有实体意义的国家、派系、邦联或利益集团，绝对无法及物支配诸如 doctrines（学说）、philosophies（哲学）或 policies（政策）等抽象认知客体，属于认知范畴错配（Category Mistake）。",
+      "federate": "【排除】意为“使……结成联邦”，其宾语仅限于州、省、工会、协会等实体性组织机构（如 federate regional trade unions），完全不能与抽象的学术理念或政治学说 doctrines 搭配。",
+      "wed": "【排除】及物动词，其比喻义表示“将两者紧密结合/兼顾”（如 wed economic growth with ecological preservation），必须同时涉及被联结的两个对等客体；而在主动语态下直接接单一学说名词（*wed doctrines）属于严重搭配残缺与语病，无法表达“拥护/采纳新学说”的语义。"
+    },
+    "translation": "尽管这位新上任的部长起初被公认为自由放任资本主义的坚定捍卫者，但他随后开始公开拥护干预主义学说，辩称不受监管的市场已无法再保障国家基础设施的安全。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,544 @@
+[
+  {
+    "id": "tem8_b44_01",
+    "group_id": 441,
+    "group_name": "execrable, woeful, wretched, inferior",
+    "level": "TEM-8",
+    "target_word": "execrable",
+    "question": "The academic review board excoriated the historian’s ___ scholarship, asserting that such brazenly fabricated citations and counterfeit archival documents warranted not collegial forbearance, but unreserved intellectual denunciation.",
+    "options": [
+      "execrable",
+      "woeful",
+      "wretched",
+      "inferior"
+    ],
+    "answer": "execrable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The verbs and phrases 'excoriated' and 'warranted not collegial forbearance, but unreserved intellectual denunciation' strictly demand 'execrable' (etymologically and semantically: deserving of execration or utter condemnation for shocking, detestable badness), decisively precluding words implying mere shortfall, pitiable misery, or comparative substandardness.",
+    "distractor_analysis": {
+      "execrable": "【正确】源自拉丁语 exsecrari（诅咒、痛斥），Merriam-Webster 释为 'deserving to be execrated; of very poor quality or condition; detestable'（极其恶劣的、理应受谴责唾弃的）。句中核心锚点 'excoriated'（严厉斥责）与 'warranted not collegial forbearance, but unreserved intellectual denunciation'（不配得到同僚宽容，而理应受到毫无保留的学理谴责）构成了对 execrable 核心语义的直白投射，精准评价其造假学术之恶劣与可憎。",
+      "woeful": "【排除】意为 'lamentably bad; deplorably deficient'（令人沮丧的、悲哀的不足），核心语义围绕 'woe'（悲哀、叹息），通常修饰数量或程度上的严重匮乏（如 woeful lack, woeful ignorance）。本句定性的是蓄意捏造档案、伪造引注的主动恶劣行径，而非因能力受限造成的令人遗憾叹惋的缺陷，语域与感情色彩不契合。",
+      "wretched": "【排除】意为 'deeply afflicted, dejected; squalid, pitiable'（悲惨的、可怜痛苦的、卑劣低贱的）。wretched 核心在于唤起人们的怜悯与同情（pity/compassion），而本句明确强调 'warranted not collegial forbearance'（绝不应受到同僚之宽容体谅），直接在逻辑和情感基调上排除了 wretched。",
+      "inferior": "【排除】意为 '次等的、劣质的、低劣的'，属于中性偏弱的关系/比较级形容词（relational/comparative），通常指在既定标准或等级层次中低于平均水平（常搭配 inferior to）。面对捏造史料、伪造引证这种学术伦理层面的严重丑闻，用 inferior 属于极其严重的语气过轻（understatement），且属于学术水准偏低（inferior）的作品完全应得到指导修正而非 'unreserved intellectual denunciation'（严厉学理声讨）。"
+    },
+    "translation": "学术评审委员会严厉痛斥了该历史学家的恶劣学术行径，坚称其公然伪造引注与档案文件的行为绝不值得同僚体谅，而理应受到毫无保留的学理谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_02",
+    "group_id": 441,
+    "group_name": "execrable, woeful, wretched, inferior",
+    "level": "TEM-8",
+    "target_word": "woeful",
+    "question": "The epistemological review highlighted the ___ inadequacy of the proposed conceptual framework, lamenting that the researchers’ narrow empirical scope utterly failed to grasp the multidimensional complexity of human consciousness.",
+    "options": [
+      "execrable",
+      "woeful",
+      "wretched",
+      "inferior"
+    ],
+    "answer": "woeful",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The rigid academic collocation 'woeful inadequacy' combined with the semantic echo in 'lamenting that... utterly failed to grasp' uniquely mandates 'woeful' (lamentably deficient, deplorably inadequate), while all other options produce severe collocational or semantic ruptures with 'inadequacy'.",
+    "distractor_analysis": {
+      "woeful": "【正确】Merriam-Webster 释为 'lamentably bad or deficient; deplorably inadequate'（令人叹惜的、严重匮乏的）。在学术与认识论认知语域中，'woeful inadequacy'（严重匮乏/极其不足）属于权威、凝练的高阶学术固定搭配，专指理论或认知机制在解释力与广度上的令人遗憾的捉襟见肘；同时，后文分词状语 'lamenting that...'（叹惜其……）在词源及语义上与 woeful（源自 woe）构成无可替代的决定性照应。",
+      "execrable": "【排除】意为 'detestable, abominable'（极其恶劣的、遭人痛斥的），专用于修饰工艺、艺术品味、恶劣行径或道德水准（如 execrable taste, execrable prose），不能修饰表示欠缺与不足的抽象程度名词 inadequacy，形成严重的搭配断裂（collocational rupture）。",
+      "wretched": "【排除】侧重指生活境遇的凄惨困顿、身体或心灵的极大痛苦（squalid, miserable），在正式的学术认知与理论批判语域中，学者不会使用 'wretched inadequacy' 来表达概念框架的局限性，存在明显的语域与语义错配。",
+      "inferior": "【排除】意为 '次等的、较低的'，属于层级分类形容词，用于在两种产品或成果之间进行高低优劣的等级对照（如 inferior quality, inferior to）。'inadequacy'（不足、匮乏）本身即是一种缺陷状态，在英语句法中不能再被修饰为 'inferior inadequacy'（次等不足），在逻辑与搭配上均属语病。"
+    },
+    "translation": "这篇认识论评论着重指出了拟议概念框架的严重不足，叹惜研究者狭隘的实证范围完全未能把握人类意识的多维复杂性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_03",
+    "group_id": 442,
+    "group_name": "fallacious, fraudulent, deceitful, dishonest",
+    "level": "TEM-8",
+    "target_word": "fallacious",
+    "question": "Although the theorist's deduction appears methodologically rigorous at first glance, its conclusion rests upon a demonstrably ___ premise that confounds mere correlation with direct causation, rendering the entire hypothesis logically untenable.",
+    "options": [
+      "fallacious",
+      "fraudulent",
+      "deceitful",
+      "dishonest"
+    ],
+    "answer": "fallacious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Anchor clues include 'premise', 'confounds mere correlation with direct causation', and 'logically untenable', which point unequivocally to an epistemic and logical fallacy in theoretical reasoning rather than deliberate moral fraud or criminal intent.",
+    "distractor_analysis": {
+      "fallacious": "正确。指论证、推理或前提‘含有谬误的、逻辑错误的’。句中后文的‘confounds mere correlation with direct causation’（混淆相关性与因果关系）与‘logically untenable’（逻辑上站不住脚）明确指向认识论与逻辑推理层面的谬误，与‘premise’（前提）构成严密的学术搭配。",
+      "fraudulent": "错误。主要指通过伪造、欺诈等违法手段获取不当利益的‘欺诈性、诈骗性的’（如 fraudulent transactions/claims），涉及法律与经济犯罪，无法用来修饰学术推理中因认知偏差导致的逻辑错误前提。",
+      "deceitful": "错误。侧重于人或行为‘蓄意欺骗的、不诚实的’，强调主观欺弄、狡诈的品格或动机。句中讨论的是理论家的逻辑演绎错误，而非主观蓄意行骗。",
+      "dishonest": "错误。属于普遍的道德评价词，指‘不诚实的、违背操守的’。学术假说中混淆相关与因果属于逻辑方法缺陷（epistemic error），而非道德层面的蓄意说谎或操守不端。"
+    },
+    "translation": "尽管该理论家的演绎推导乍看之下在方法论上十分严密，但其结论建立在一个显然存在谬误的前提之上——该前提混淆了单纯的相关性与直接因果关系，从而导致整个假说在逻辑上根本站不住脚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_04",
+    "group_id": 442,
+    "group_name": "fallacious, fraudulent, deceitful, dishonest",
+    "level": "TEM-8",
+    "target_word": "fraudulent",
+    "question": "A rigorous forensic audit revealed that the biomedical startup had submitted ___ reimbursement claims to state insurers, systematically falsifying patient eligibility records to secure millions in illicit subsidies.",
+    "options": [
+      "fallacious",
+      "fraudulent",
+      "deceitful",
+      "dishonest"
+    ],
+    "answer": "fraudulent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Anchor clues include 'forensic audit', 'reimbursement claims', and 'illicit subsidies', which dictate an institutional/legal terminology denoting criminal deception and intentional fabrication for financial gain.",
+    "distractor_analysis": {
+      "fraudulent": "正确。意为‘欺诈性的、诈骗的’，专用于法律、商业与金融语境中指以非法牟利为目的的造假行为。与‘reimbursement claims’（报销申请）形成法定固定搭配（fraudulent claims 欺诈性索赔），完美契合‘法医级审计’与‘非法补贴’的语境。",
+      "fallacious": "错误。指‘逻辑上荒谬的、推理错误的’，用于观点、推论或论据，不能修饰旨在骗取资金的虚假报销单据或违法索赔行为。",
+      "deceitful": "错误。侧重于人际交往中‘奸诈的、虚妄的’人格倾向或欺瞒性质，属于日常品行与心理描述，缺乏司法与财务审计语境所需的严谨法律定性色彩，不能与 reimbursement claims 构成规范法律术语搭配。",
+      "dishonest": "错误。语体色彩过于日常且宽泛，属于道德评价层面的‘不老实、不端正’，在司法审计和非法骗取数百万医保补贴的严重违法犯罪语境中显得过于轻描淡写，不合TEM-8高阶公文/法务语域。"
+    },
+    "translation": "一项严谨的法务审计表明，该生物医药初创公司向国家医保机构提交了欺诈性报销申请，系统性地伪造患者资质记录以骗取数以百万计的非法补贴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_05",
+    "group_id": 443,
+    "group_name": "fecund, prolific, fertile, productive",
+    "level": "TEM-8",
+    "target_word": "fecund",
+    "question": "While his peers possessed fertile minds capable of absorbing and nurturing established ideas, it was Kant’s uniquely ___ intellect that actively generated a luxuriant array of revolutionary paradigms, fundamentally reorienting Western metaphysics.",
+    "options": [
+      "fecund",
+      "prolific",
+      "fertile",
+      "productive"
+    ],
+    "answer": "fecund",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The concessive clause explicitly attributes 'fertile minds' to Kant's peers (identifying 'fertile' as mere receptive/nurturing capacity), which renders 'fertile' logically contradictory in the main clause; moreover, 'luxuriant array of revolutionary paradigms' specifically demands 'fecund' (intellectually productive/inventive to a marked degree with teeming generative vitality), whereas 'prolific' modifies sheer quantitative output of an author and 'productive' is too utilitarian.",
+    "distractor_analysis": {
+      "fecund": "正确。fecund源自拉丁语fecundus，韦氏词典核心释义为“intellectually productive or inventive to a marked degree”，专指思想、智力具有繁茂、充沛、能自我滋生出大量原创概念与学说体系的高阶生命力。句中“luxuriant array of revolutionary paradigms”（繁茂的革命性范式群）构成决定性的语义与语域锚点。",
+      "fertile": "错误。fertile侧重指具备孕育或发展思想的“潜在能力与受体条件”（如fertile soil/mind）。本句让步从句已将“fertile minds”赋予同辈学者（“capable of absorbing and nurturing established ideas”），若在主句断言康德具有“uniquely fertile intellect”，将造成直接的逻辑自相矛盾，破坏整句的修辞对比架构。",
+      "prolific": "错误。prolific的核心词义为“产出数量上的丰沛”（sheer quantitative output），通常修饰创作者本人（如a prolific writer）或具体的实物成果（prolific output），而非修饰“intellect”并用来形容思想内部的范式原创与概念繁衍力。",
+      "productive": "错误。productive侧重于“有成效的、实用效率高的”（yielding tangible results or return on effort），属于效能与产出维度的评价，无法体现高级哲学文本中思想概念“繁衍滋生、生生不息”（luxuriant generative vitality）的深层语义。",
+      "translation": "尽管他的同代人拥有善于吸收和培育既有思想的丰富头脑，但正是康德那独具繁盛滋生力的非凡智识，主动催生了一系列繁茂的革命性范式，从而从根本上重塑了西方形而上学。"
+    },
+    "translation": "尽管他的同代人拥有善于吸收和培育既有思想的丰富头脑，但正是康德那独具繁盛滋生力的非凡智识，主动催生了一系列繁茂的革命性范式，从而从根本上重塑了西方形而上学。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_06",
+    "group_id": 443,
+    "group_name": "fecund, prolific, fertile, productive",
+    "level": "TEM-8",
+    "target_word": "prolific",
+    "question": "Although field surveys documented only modest individual fecundity, the invasive mollusk's continuous, year-round spawning made it an extraordinarily ___ breeder, rapidly overwhelming native benthic communities.",
+    "options": [
+      "fecund",
+      "prolific",
+      "fertile",
+      "productive"
+    ],
+    "answer": "prolific",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_ECOLOGY",
+    "anchor_clue": "The opening concessive clause 'Although field surveys documented only modest individual fecundity' creates a decisive logical contradiction and morphological tautology against 'fecund'. The subject being an destructive 'invasive mollusk' overwhelming ecosystems directly rules out 'productive' (which strictly denotes positive economic utility or beneficial yield). 'Fertile' merely denotes reproductive viability (non-sterile), forming an unidiomatic pleonasm with 'breeder'. Only 'prolific' matches Merriam-Webster's specific definition stressing 'surging or rampant production of young' and completes the established ecological collocate 'prolific breeder'.",
+    "distractor_analysis": {
+      "prolific": "正确。prolific专指大量繁殖后代或产出极丰（marked by abundant productivity / producing young freely），《韦氏词典》在同义词辨析中明确以“a prolific breeder”（多产的繁殖生物）作为核心例证，并强调其语义特征在于“surging, rampant, or overwhelming production”（汹涌、失控或压倒性的产出规模）。句中指出该入侵物种虽单次产卵量（fecundity）中等，但凭借全年无休的产卵特性，在累积总量上展现出惊人的繁衍能力，与“extraordinarily prolific breeder”构成无可替代的经典生态学搭配。",
+      "fecund": "错误。在种群生物学中，fecundity特指单批次产卵量或生理生殖力（physiological clutch size）。前半句让步状语已明确指出“field surveys documented only modest individual fecundity”（实地调查证实其个体生殖力仅属中等），若在主句填入fecund，不仅直接违反逻辑连词although所构建的让步转折关系，导致前后语义矛盾，而且在语流中与fecundity形成劣质的词根同义重复（pleonastic repetition）。",
+      "productive": "错误。productive的核心语用特征在于“产生正面效益、利润或建设性产品”（yielding results, benefits, or profits），在农牧语域中“productive breeder”仅指能创造经济价值的优良种畜。本句主语为“invasive mollusk”（入侵软体动物），其生态效应是“rapidly overwhelming native benthic communities”（迅速压制本土底栖群落），属于有害生物生态入侵灾难，绝不可使用蕴含积极功利属性的productive，存在不可调和的语义极性冲突。",
+      "fertile": "错误。fertile侧重指“具备繁殖生理机能的、未绝育的”（capable of breeding / not sterile），属于定性概念；将其置于breeder之前会构成语义虚耗与赘述（breeder本身即默认具备繁殖能力）。此外，fertile无法体现后文因“全年持续产卵”所带来的暴发性产出总量，难以与让步从句形成有效的语义跨度对比。",
+      "translation": "尽管实地调查证实该入侵软体动物的单批次生殖力仅属中等，但其全年持续不断的产卵特性却使其成为一种繁殖力极强的生物，迅速在数量上压倒了本土底栖群落。"
+    },
+    "translation": "尽管实地调查证实该入侵软体动物的单批次生殖力仅属中等，但其全年持续不断的产卵特性却使其成为一种繁殖力极强的生物，迅速在数量上压倒了本土底栖群落。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_07",
+    "group_id": 444,
+    "group_name": "finicky, fastidious, fussy, particular",
+    "level": "TEM-8",
+    "target_word": "finicky",
+    "question": "The master restorer warned his apprentice that stabilizing the crumbling eleventh-century fresco was an exceptionally ___ undertaking, requiring hours of painstaking physical dexterity and minute adjustments to avoid fracturing the brittle plaster.",
+    "options": [
+      "finicky",
+      "fastidious",
+      "fussy",
+      "particular"
+    ],
+    "answer": "finicky",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The noun 'undertaking' is qualified by 'requiring hours of painstaking physical dexterity and minute adjustments'. Lexicographically, only 'finicky' can describe an impersonal task, job, or mechanical process that is demanding and requires extreme care, precision, and intricate handling (MW: 'requiring much care, precision, or attentive effort: demanding <a finicky task>'). The other three options suffer from fatal categorical or semantic shifts.",
+    "distractor_analysis": {
+      "finicky": "正确。finicky 不仅用于形容人挑剔，在高级英语中常专门修饰精密繁复、要求高度耐心与微调操作的技术性任务或工序（如 a finicky task / undertaking / process），完美契合后文修复壁画时需要极强专注力与精细操作的语境。",
+      "fastidious": "错误（修饰范畴冲突）。fastidious 专用于指代人、人的品味、学术标准或心智态度（如 a fastidious scholar, fastidious attention），体现高度严谨、讲究或洁癖，在标准英语中不可直接用来修饰客观工艺、工序或工程（*a fastidious undertaking 属于范畴错配）。",
+      "fussy": "错误（词义偏向与语域脱节）。fussy 修饰客观事物或作品时，意为“过于繁缛的、花哨杂乱的”（如 a fussy design/dress），或指伴有神经过敏、瞎折腾的状态，无法表达客观上要求高精度物理操作和极度精细耐心的工艺难度。",
+      "particular": "错误（句法语义漂移）。particular 用作前置定语修饰单数可数名词 undertaking 时（a particular undertaking），其语义必然强制转换为特指限定词“特定的、某一个的”（specific），彻底丧失“讲究、苛求”的含义，导致整句因果修饰逻辑断裂。"
+    },
+    "translation": "修复大师告诫他的学徒，加固那幅残破的十一世纪湿壁画是一项极其繁复精细的艰巨任务，需要数小时艰苦的精细手法与微调操作，以防脆弱的石膏发生碎裂。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_08",
+    "group_id": 444,
+    "group_name": "finicky, fastidious, fussy, particular",
+    "level": "TEM-8",
+    "target_word": "fastidious",
+    "question": "Renowned for being impeccably ___ in her archival research, the legal historian refused to publish her monograph until every citation was verified against primary manuscripts, rejecting any expedient shortcuts.",
+    "options": [
+      "finicky",
+      "fastidious",
+      "fussy",
+      "particular"
+    ],
+    "answer": "fastidious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The modifier 'impeccably' establishes an elevated, positive evaluative polarity (scholarly excellence and scrupulous integrity), followed by the syntactic anchor preposition 'in' ('in her archival research'). Only 'fastidious' naturally collocates with 'impeccably', accepts the complementizer 'in' in academic prose, and conveys uncompromising scholarly rigor that shuns shortcuts and inaccuracies.",
+    "distractor_analysis": {
+      "finicky": "错误（感情色彩与搭配冲突）。finicky 属于贬义或轻蔑性用词，常指在无关紧要的琐事或微末细节上吹毛求疵、难以取悦，与褒义副词 impeccably 构成语义矛盾；此外 finicky 惯常搭配介词 about，极少与 in 连用。",
+      "fastidious": "正确。fastidious 准确传达了学术与道德层面的“严谨苛求、一丝不苟、绝不容忍马虎”（scrupulous, meticulous, demanding pristine standards），且与介词 in 构成权威学术搭配（fastidious in one's research/scholarship），配合副词 impeccably 完美表达对学者严谨治学态度的崇高赞誉。",
+      "fussy": "错误（语体色彩与语义冲突）。fussy 带有明显的口语与轻蔑色彩，指为了微不足道的琐事神经过敏、瞎忙或无事生非（fretful or anxious about trifles），无法用于形容庄重严谨的历史文献考据工作，且其固定搭配为 fussy about/over。",
+      "particular": "错误（介词搭配及语义强度不足）。particular 表示“讲究、挑剔”时，标准介词搭配为 about（particular about sth），与 in 搭配不合现代规范；此外，particular 仅表示个人特定的挑剔或偏好，完全无法承载拒绝一切捷径的高标准学术操守与精益求精之感。"
+    },
+    "translation": "这位法律史学家因在档案研究中表现出无可挑剔的严谨求实而闻名，她拒绝在每一个引注都与原始手稿完成核对之前出版自己的专著，绝不采取任何权宜取巧的做法。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_09",
+    "group_id": 445,
+    "group_name": "flimsy, tenuous, thin, slight",
+    "level": "TEM-8",
+    "target_word": "flimsy",
+    "question": "The disciplinary tribunal dismissed the researcher's ___ rationalization for fabricating trial data, concluding that a defense so poorly constructed and transparently contrived collapsed entirely upon the briefest cross-examination.",
+    "options": [
+      "flimsy",
+      "tenuous",
+      "thin",
+      "slight"
+    ],
+    "answer": "flimsy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "rationalization ... defense so poorly constructed and transparently contrived collapsed entirely upon the briefest cross-examination",
+    "distractor_analysis": {
+      "flimsy": "正确。flimsy在认知与论辩语境中专指借口、论点或辩解“站不住脚的、漏洞百出的、不合逻辑的”，源自其物理上“结构脆弱、易坍塌破裂”的核心隐喻，与后文的“poorly constructed（漏洞百出/构建拙劣）”和“collapsed entirely（彻底崩溃）”形成严密的语义呼应与语域契合。",
+      "tenuous": "错误。tenuous核心义为“纤细的、脆弱的”，专门修饰关系、纽带或维系物（如tenuous link/connection/hold/grasp），强调两事物之间关联极其微弱或悬于一线，不可与rationalization搭配来形容一个结构脆弱、一攻即破的狡辩理由。",
+      "thin": "错误。thin用于论证或托词时（如thin disguise），侧重于内容匮乏、透明或单薄，但在正式学术与司法语境中，“thin rationalization”并非固定搭配，且无法传达出像flimsy那样在盘问下轰然倒塌（collapsed）的结构性脆弱感。",
+      "slight": "错误。slight属于量度/程度形容词，意为“微小的、轻微的”（如slight difference/change）。若修饰rationalization，在逻辑上会变为“极少量的合理解释”，与后文明确指出的精心编造却结构拙劣的辩护策略（a defense contrived...）发生语义冲突。"
+    },
+    "translation": "纪律仲裁法庭驳回了该研究人员伪造试验数据的站不住脚的托词，认定这种漏洞百出且明显伪造的辩解在哪怕最简短的盘问下也会彻底不攻自破。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_10",
+    "group_id": 445,
+    "group_name": "flimsy, tenuous, thin, slight",
+    "level": "TEM-8",
+    "target_word": "tenuous",
+    "question": "Isolated from contemporary developments in macroeconomics, the aging theorist maintained only a ___ grasp on empirical realities, producing models whose elegant mathematical abstractions bore little relevance to actual financial crises.",
+    "options": [
+      "flimsy",
+      "tenuous",
+      "thin",
+      "slight"
+    ],
+    "answer": "tenuous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "grasp on empirical realities ... bore little relevance to actual financial crises",
+    "distractor_analysis": {
+      "tenuous": "正确。tenuous在此处构成韦氏词典重点收录的经典学术搭配“a tenuous grasp on reality/realities”，表示对现实的理解、认知或把握极其“微弱、脆弱、若即若离”，完美契合后文理论模型与实际金融危机脱节的认知语境。",
+      "flimsy": "错误。flimsy主要修饰物体的材质脆弱或修饰借口、论据、证据的站不住脚（如flimsy excuse/argument），不能与表示认知把握的抽象名词搭配，英语中不存在*flimsy grasp on reality这一搭配。",
+      "thin": "错误。thin修饰抽象名词时仅限于深度或密度不足（如thin soup, thin crowd），与grasp（理解力/掌控）搭配属于严重的搭配不当（collocational clash）。",
+      "slight": "错误。slight意为“微弱的、少许的”，通常修饰程度、可能性或数量（如slight possibility, slight improvement），不能与介词短语“grasp on...”构成指代认知脱节的高阶学术习语。"
+    },
+    "translation": "由于与当代宏观经济学的发展脱节，这位年迈的理论家对经验现实的把握十分薄弱，其构建的模型充斥着优美的数学抽象，却与切实的金融危机几乎毫无关联。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_11",
+    "group_id": 446,
+    "group_name": "frigid, glacial, icy, cold",
+    "level": "TEM-8",
+    "target_word": "frigid",
+    "question": "Critics condemned the dramatist's latest tragedy for its ___ verse, observing that such stiff, passionless dialogue and pedantic adherence to classical form had rendered the characters entirely devoid of human vitality.",
+    "options": [
+      "frigid",
+      "glacial",
+      "icy",
+      "cold"
+    ],
+    "answer": "frigid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接修饰中心词“verse”（诗作/韵文），后文紧跟决定性语义解注：“stiff, passionless dialogue”（僵硬且毫无激情的对话）与“pedantic adherence to classical form”（对古典形式学究式的死守），并以“entirely devoid of human vitality”（完全剥离了人的生命力）收束。《韦氏词典》（Merriam-Webster）明确收录 frigid 的专门美学/文体批评义项：“lacking imaginative qualities : INSIPID <frigid verse>”以及“characteristically stiff or formal”，精准指涉艺术表现与文风拘泥教条、呆滞死板且毫无诗意热忱。其余三词均不具备此特定文体批评语义。",
+    "distractor_analysis": {
+      "frigid": "【正确】在文学批评与修辞学语境中，frigid 具有高度专业化的引申义，专门表示“（作品风格、诗文等）呆滞刻板的、索然无味的、缺乏想象力与激情的”（lacking warmth or ardor; insipid）。《韦氏词典》明文收录的核心权威范例即为“frigid verse”。句中的“stiff, passionless”与“pedantic adherence”提供了决定性的同义对应，无可替代。",
+      "glacial": "【错误】词义错配。glacial 的主要隐喻义为“极度缓慢的”（如 glacial pace）或“冷若冰霜、令人望而生畏的高傲神态”（如 a glacial stare/demeanor），无法用来修饰文学诗作以表达“刻板死板、缺乏才情生气”，在文体学术搭配上不成立。",
+      "icy": "【错误】感情色彩与侧重点不符。icy 的隐喻义侧重于表达“刺骨冷酷的、尖锐刺人的敌意或轻蔑”（如 an icy silence, icy disdain），强调主动释放的冷冽敌意，而非后文明确界定的“缺乏激情的形式死板与学究气（stiff, passionless, pedantic）”。",
+      "cold": "【错误】语域与色彩过泛。cold 系通俗基础词汇，虽能表示冷淡，但在严肃文学批评与学术阐释中缺乏针对“文风机械死板、缺乏诗性火花”（insipid and pedantic formality）的专指性与辞书规范深度，相较于专有术语 frigid 存在显著的语域降格（register downgrade）。"
+    },
+    "translation": "批评家们谴责这位剧作家的最新悲剧诗作僵滞死板，指出这种呆板且毫无激情的对话以及对古典形式的学究式死守，已使剧中的人物完全丧失了人的生命力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_12",
+    "group_id": 446,
+    "group_name": "frigid, glacial, icy, cold",
+    "level": "TEM-8",
+    "target_word": "glacial",
+    "question": "While contemporary cognitive neuroscience has revolutionized our understanding of decision-making, the ___ pace of institutional reform ensures that outdated penal models continue to dominate criminal jurisprudence.",
+    "options": [
+      "frigid",
+      "glacial",
+      "icy",
+      "cold"
+    ],
+    "answer": "glacial",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接修饰核心名词“pace”（步调/速度），前句以“revolutionized”（颠覆性飞跃）确立极速发展的对比基调，后文则以“ensures that outdated penal models continue to dominate”（导致过时模型依然占据统治地位）反衬体制改革进程之“极其缓慢、如同龟爬”。《韦氏词典》将 glacial 专门定义为：“extremely slow, sluggish <advancing at a glacial pace>”，是同义词群中唯一具备“时间/移动速率极其迟缓”隐喻义的词汇，与 pace 构成英语中不可分割的黄金学术搭配。",
+    "distractor_analysis": {
+      "glacial": "【正确】MW 明确收录 glacial 的核心隐喻义为“extremely slow, sluggish”（极其缓慢、拖沓迟滞的），专属搭配即为“at a glacial pace”。此处精准衬托出司法体制改革的迟缓与神经科学认知理论飞速突破之间的巨大张力，完全契合学术语篇的逻辑与搭配规范。",
+      "frigid": "【错误】语义范畴冲突。frigid 的隐喻义局限于“情感极端冷漠、态度僵硬死板或缺乏热情”，毫无物理速度或时间演进迟缓（slowness）的语义维度，修饰 pace 属于严重的范畴错配（category mistake）。",
+      "icy": "【错误】语义错配。icy 强调温度极低或态度冷酷、充满尖锐敌意，与发展速度、时间节律完全脱节，英语中不存在“icy pace”这一表意搭配。",
+      "cold": "【错误】语义与搭配割裂。cold 属于温度或情感通感词，无法在学术语境中转喻为“发展速率极慢”，搭配“pace”在语义学和语料库上均属严重断裂（rupture）。"
+    },
+    "translation": "尽管当代认知神经科学彻底革新了我们对决策机制的理解，但体制改革极其缓慢的步伐仍导致过时的刑罚模式继续主导着刑事司法学。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_13",
+    "group_id": 447,
+    "group_name": "furtive, surreptitious, sneak, stealthy",
+    "level": "TEM-8",
+    "target_word": "furtive",
+    "question": "During the parliamentary inquiry, the disgraced lobbyist’s increasingly ___ demeanor, betrayed by evasive eye movements and defensive fidgeting, signaled a shifty, guilty awareness of wrongdoing that his polished testimony could no longer conceal.",
+    "options": [
+      "furtive",
+      "surreptitious",
+      "sneak",
+      "stealthy"
+    ],
+    "answer": "furtive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS_GOVERNANCE",
+    "anchor_clue": "Directly modifies 'demeanor' and is characterized by 'evasive eye movements', 'fidgeting', and 'a shifty, guilty awareness of wrongdoing', precisely activating the core lexicographical definition of 'furtive' (shifty/guilty personal bearing) while ruling out distractors that cannot modify outward personal demeanors.",
+    "distractor_analysis": {
+      "furtive": "正确。Merriam-Webster将furtive明确界定为'implies a sly or shifty manner and often suggests a desire to evade observation through fear of detection or from shame'（暗示狡黠或心虚的神态，多指因畏惧败露或羞耻而逃避注视）。在法庭质询与政治报道中，'furtive demeanor'（心虚鬼祟的举止神态）属于权威固着搭配，句中的'evasive eye movements'（闪烁其词的眼神动态）与'shifty, guilty awareness'（做贼心虚的知罪感）构成了无可辩驳的同义语义锚点。",
+      "surreptitious": "错误。surreptitious的核心语义特征为'done, made, or acquired by stealth or without proper authority'，强调通过暗中、欺瞒或未经许可的手段绕过规章（如 surreptitious recording 私自录音、surreptitious transactions 违规交易）。英语中surreptitious只能修饰具体的行为、手段或通过秘密手段取得之物，修饰个人的外在神情举止（demeanor）属于严重的范畴错配（category mistake），在语料库中'surreptitious demeanor'频次为零。",
+      "sneak": "错误。sneak用作定语形容词/名词充当定语时，属于非正式文体，且语法功能极其受限，仅见于少数固定习语（如 sneak attack, sneak preview, sneak peek）。将其置于修饰'demeanor'的位置不仅违反定语修饰习惯，在严肃的高阶政治质询语境中更造成了严重的文体格调断裂（register clash）。",
+      "stealthy": "错误。stealthy侧重于物理运动层面的静音与谨慎（quiet, slow, and cautious movement to avoid auditory or visual detection），典型修饰步态或移动过程（如 stealthy footsteps, stealthy tread, stealthy approach）。神态举止（demeanor）体现的是心理层面的心虚与戒备，而非声学或物理上的轻悄无声，用stealthy修饰demeanor属于语义不当搭配。"
+    },
+    "translation": "在议会质询期间，这位名誉扫地的说客那愈发心虚鬼祟的神态——被闪烁的眼神和戒备的坐立难安所暴露——昭示出他对自身罪责那份闪烁其词的自知，而这已绝非他那滴水不漏的说辞所能掩盖。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_14",
+    "group_id": 447,
+    "group_name": "furtive, surreptitious, sneak, stealthy",
+    "level": "TEM-8",
+    "target_word": "surreptitious",
+    "question": "Regulatory authorities launched a formal investigation into the conglomerate after whistleblowers exposed its ___ dissemination of proprietary clinical trial data, executed deliberately to bypass mandatory institutional oversight.",
+    "options": [
+      "furtive",
+      "surreptitious",
+      "sneak",
+      "stealthy"
+    ],
+    "answer": "surreptitious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Directly modifies 'dissemination of proprietary clinical trial data' and governs 'executed deliberately to bypass mandatory institutional oversight', establishing the essential legal/procedural circumvention characteristic of surreptitious.",
+    "distractor_analysis": {
+      "surreptitious": "正确。Merriam-Webster辨析明确指出，surreptitious指通过欺骗、不正当手段或未经合法授权而暗中进行的行动，其目的通常是避开权威监管与审查（applies to actions done secretly, often by stealth, deceit, or illicit means, without proper authorization）。句中的“dissemination of... data”（数据散播）及“bypass mandatory institutional oversight”（规避法定机构监管）精准构成了这一制度合规语境的唯一正解锚点。",
+      "furtive": "错误。furtive侧重于个体举止或神态上的“畏畏缩缩、贼眉鼠眼、做贼心虚”，着重于个体动作在直接感知层面的被抓包风险，无法用于修饰机构组织层面蓄谋已久、规避监管制度的数据散播行为。",
+      "sneak": "错误。sneak作为前置修饰词属于口语或新闻标题常用词（如 sneak visit），在涉及跨国企业合规审查、法理制裁的高级学术及严肃政经语域中极为不严谨，且与“dissemination”无法构成专业搭配。",
+      "stealthy": "错误。stealthy的核心义在于物理运动的“无声、潜行”（slow and silent movement），在此修饰信息流转与制度违规操作属于范畴谬误，缺乏“缺乏正当授权与合规性欺瞒”的制度法理色彩。"
+    },
+    "translation": "监管机构对该企业集团展开了正式调查，此前举报人揭露了该集团暗中散布专有临床试验数据的行径——其蓄意借此规避法定机构的审查与监管。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_15",
+    "group_id": 448,
+    "group_name": "giddy, frivolous, dizzy, silly",
+    "level": "TEM-8",
+    "target_word": "giddy",
+    "question": "Reeling from the sudden euphoria of their electoral landslide, the newly installed ministers were visibly ___ with triumph, indulging in unvetted policy pronouncements that quickly unsettled international financial markets.",
+    "options": [
+      "giddy",
+      "frivolous",
+      "dizzy",
+      "silly"
+    ],
+    "answer": "giddy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首分词短语“Reeling from the sudden euphoria...”（被突如其来的压倒性选举胜利带来的狂喜冲昏头脑）与后文“___ with triumph”紧密呼应。在四个选项中，仅有 giddy 具备“因极度狂喜或胜利而飘飘然、失去审慎与清醒”（joyfully elated: euphoric; lacking seriousness）的特定认知语义，且能与介词 with 构成固定搭配“giddy with triumph/success”。其余选项在介词搭配、语体风格或认知语义上均存在显著排他性缺陷。",
+    "distractor_analysis": {
+      "giddy": "正确。Merriam-Webster 明确定义其核心义项包含“joyfully elated: euphoric”与“lacking seriousness, given to frivolity”，特指由于狂喜、荣耀或突如其来的巨大成功而感到头晕目眩、得意忘形，进而产生轻率不严谨的行为。“giddy with triumph”是政治与政经评论中形容执政者被胜利冲昏头脑的高阶经典表达，完美切合本句主旨与学术政经语体。",
+      "frivolous": "错误。frivolous 意为“不严肃的、轻佻浅薄的”，强调事物无实质价值或态度缺乏应有的深沉。虽然其含义与缺乏严肃性相关，但在句法搭配上，frivolous 后面接介词 with 时，其宾语必须是“被挥霍或被轻率消耗的有限资源”（如 frivolous with taxpayers' money / frivolous with his time），绝不能与 triumph 这类情绪或状态名词搭配构成“frivolous with triumph”，存在严重的句法与语义冲突。",
+      "dizzy": "错误。dizzy 的本义与核心用法侧重指生理前庭失衡引起的“头晕目眩、眩晕”（vertigo）。尽管其后可接介词 with，但通常支配生理性病因（如 dizzy with hunger/fumes/pain）；用于修饰人的认知心理状态时，dizzy 强调“茫然不知所措或思维混乱”，无法承载句中因“狂喜（euphoria）”而诱发的“自满轻浮、得意忘形”的特定褒因贬果语境。",
+      "silly": "错误。silly 意为“愚蠢的、可笑的”，属于通俗日常口语（colloquial），在探讨内阁部长执政政策与国际金融市场反应的严肃学术期刊/深度政经语体中会造成剧烈的语体破裂（stylistic clash）；此外，“silly with”多用于口语化状态（如 silly with fatigue），缺乏因巨大成功导致情绪狂热飘浮的语义内核。"
+    },
+    "translation": "新上任的部长们沉浸在压倒性选举胜利带来的狂喜之中，显然因胜利而得意忘形，发表了数项未经审查的政策声明，迅速引发了国际金融市场的动荡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_16",
+    "group_id": 448,
+    "group_name": "giddy, frivolous, dizzy, silly",
+    "level": "TEM-8",
+    "target_word": "frivolous",
+    "question": "The appellate court summarily rejected the consortium’s procedural challenge, sanctioning counsel for pursuing a demonstrably ___ appeal that lacked substantive legal merit and served solely to delay arbitration.",
+    "options": [
+      "giddy",
+      "frivolous",
+      "dizzy",
+      "silly"
+    ],
+    "answer": "frivolous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "定语从句“that lacked substantive legal merit and served solely to delay arbitration”（缺乏实质法律依据、纯粹为了拖延仲裁）是决定性的语义锚点。在英美法理学与高级法学学术语境中，“frivolous appeal / frivolous litigation”是高度固化的专门法律术语，特指毫无事实或法律依据、旨在滥用司法程序的“无理上诉/轻率申诉”。其余选项用于修饰法律上诉程序时均属于范畴错误或语体严重失范。",
+    "distractor_analysis": {
+      "frivolous": "正确。Merriam-Webster 明确将其定义为“having no sound basis (as in fact or law); of little weight or importance”。在英美法学及正式学术文献中，“frivolous appeal / frivolous motion”属于严谨的法律术语，精确指称“缺乏正当事实或法律支撑、纯属恶意拖延或毫无价值的诉由”，与后文“lacked substantive legal merit”形成绝对严密的语义呼应，完全契合司法与学术论述的高端语体。",
+      "giddy": "错误。giddy 属于心理或生理感知形容词，用以描述具有自主意识的人处于“头晕、飘飘然或轻浮狂喜”的状态，或者修饰具有动态眩晕感的物理属性（如 giddy heights/speed）。将 giddy 用来修饰 appeal（法律诉求/上诉）犯了本体与修饰语的范畴错误（category mistake），无法形成具有逻辑意义的抽象认知评价。",
+      "dizzy": "错误。dizzy 核心语义指向生理性头晕或使人产生眩晕感的动态过程。修饰抽象的法律上诉程序（appeal）在语义上根本无法成立，英美学术与法庭文书中绝不存在“dizzy appeal”这一概念，属于明显的词汇拼凑与搭配断裂。",
+      "silly": "错误。silly 属于日常口语及非正式语体词，表示“傻气的、无厘头的”。在涉及上诉法院裁决（appellate court）、当庭制裁（sanctioning counsel）等高度庄重的司法与学术论述中，断然不可能出现“silly appeal”这类儿语化表达，构成了不可接受的语体层级冲突（stylistic clash），且无法准确表达法律层面上“缺乏实质法理依据”的专业内涵。"
+    },
+    "translation": "上诉法院当即驳回了该财团的程序性抗辩，并因其律师提起了一场明显缺乏实质法律依据、纯粹为了拖延仲裁的无理上诉而对其予以制裁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_17",
+    "group_id": 449,
+    "group_name": "hefty, sizeable, tidy, healthy",
+    "level": "TEM-8",
+    "target_word": "hefty",
+    "question": "Because the excavated limestone sarcophagus was far too ___ to be safely hoisted with the expedition's portable winches, the archaeological team erected a reinforced timber gantry to prevent catastrophic damage during extraction.",
+    "options": [
+      "hefty",
+      "sizeable",
+      "tidy",
+      "healthy"
+    ],
+    "answer": "hefty",
+    "primary_mechanism": "MECH_SEMANTIC_FEATURE",
+    "field": "FIELD_ARCHAEOLOGY",
+    "anchor_clue": "Physical-mechanical anchor within 'far too ___ to be safely hoisted with the expedition's portable winches', requiring an adjective whose primary semantic core explicitly denotes immense physical weight and ponderous mass.",
+    "distractor_analysis": {
+      "hefty": "正确。hefty源于名词heft（重量、分量），在《韦氏词典》中的核心第一义项即为“沉重的、笨重的”（large and heavy: ponderous，如a hefty stone/volume），强调物体因自身巨大质量而难以搬动或举起。句中机械卷扬机（winches）的安全起吊极限受制于重力负荷（weight load），'far too hefty to be safely hoisted'在物理语义与句法搭配上均极其严密贴合。",
+      "sizeable": "错误。sizeable仅表示空间尺寸、几何体积或抽象数量的“相当大、颇大”（fairly large / of considerable size），其核心语义特征不包含物理重力或沉重感（[–WEIGHT]）。卷扬机吊装受阻的直接物理原因是“超重”而非单纯“占地大”；更重要的是，sizeable作为带有中间标度色彩的形容词（moderate scalar adjective），在英语语法习惯中极少接受'too'或'far too'的过度程度修饰（*far too sizeable在语料库中极不自然），无法替代hefty。",
+      "tidy": "错误。tidy作形容词除表示“整洁的”外，修饰数量时专指“相当可观且令人满意的数额/收益”（如a tidy sum, a tidy profit），带有强烈的正面获利语义韵，完全不能用于描述沉重石棺的物理质量或重量属性，属于严重的词义范畴错配。",
+      "healthy": "错误。healthy引申用于修饰规模或数量时，表示“充裕的、显示出良好生机的”（如a healthy surplus, a healthy appetite），只能用于生物体或具有动态繁荣态势的抽象指标，无法修饰静态、无生命的古遗物石质构件，更无法表达物理重量上的沉重。"
+    },
+    "translation": "由于发掘出土的石灰岩石棺过于沉重，无法用考察队的便携式卷扬机安全起吊，考古队不得不搭建了一座加固的木质龙门起重架，以防在提取过程中造成灾难性损毁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_18",
+    "group_id": 449,
+    "group_name": "hefty, sizeable, tidy, healthy",
+    "level": "TEM-8",
+    "target_word": "sizeable",
+    "question": "Satellite surveillance confirmed that the catastrophic eruption had engulfed a ___ swathe of the agricultural valley, annihilating centuries-old olive groves and fundamentally altering the region’s topography.",
+    "options": [
+      "hefty",
+      "sizeable",
+      "tidy",
+      "healthy"
+    ],
+    "answer": "sizeable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GEOGRAPHY",
+    "anchor_clue": "Fixed high-register collocation with 'swathe of [geographic area]' denoting a broad, considerable spatial expanse, combined with a disaster context that strictly excludes words requiring positive semantic prosody or monetary/physical weight features.",
+    "distractor_analysis": {
+      "sizeable": "正确。sizeable表示‘相当大的、规模可观的’，侧重中立客观的面积、空间或数量规模，与swathe构成经典的高阶学术与新闻搭配（a sizeable swathe of...，意为‘相当大的一片区域/狭长地带’），准确传达灾害覆盖地域之广。",
+      "hefty": "错误。hefty的核心语义特征为[重量/力道/沉重负担]，仅能修饰具有物理重量的实体（如hefty tome）、强力冲击（如hefty blow）或沉重的经济负担与罚金（如hefty fine/cost），在语义选择限制（selectional restrictions）上严禁修饰地表空间跨度或地理范围（不存在hefty swathe的搭配）。",
+      "tidy": "错误。tidy在作非正式量词表示‘可观的、数量大的’时，其搭配域极为狭窄，几乎专指金钱收益与财务资产（如a tidy sum/profit/fortune）；其字面本义为‘整洁的’，修饰被火山爆发吞噬的灾区会产生荒谬的逻辑矛盾。",
+      "healthy": "错误。healthy用于表示数量时，内嵌强烈的‘积极评价语态’（positive semantic prosody），特指显示良好状态、活力或有利优势的充裕规模（如healthy profit/appetite/margin），不仅无法与空间名词swathe搭配，且与后文‘灾难性喷发’、‘毁灭古老橄榄林’的毁灭性语境发生根本性的感情色彩冲突。"
+    },
+    "translation": "卫星监测证实，这场灾难性的火山喷发已经吞噬了农业山谷的大片区域，摧毁了拥有数百年历史的橄榄林，并从根本上改变了该地区的地貌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_19",
+    "group_id": 450,
+    "group_name": "impotent, ineffectual, unable, ineffective",
+    "level": "TEM-8",
+    "target_word": "impotent",
+    "question": "Deprived of enforcement powers by the emergency decree, the constitutional court was rendered entirely ___ before the autocratic executive, lacking any legal mechanism to invalidate the unconstitutional edicts.",
+    "options": [
+      "impotent",
+      "ineffectual",
+      "unable",
+      "ineffective"
+    ],
+    "answer": "impotent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_LAW_POLITICS",
+    "anchor_clue": "The definitive anchor is the formal political-legal construction 'rendered entirely ___ before [an authoritarian entity]', reinforced by 'Deprived of enforcement powers' and 'lacking any legal mechanism'. Syntactically, 'unable' strictly subcategorizes for an infinitive complement and cannot govern the preposition 'before' (*unable before...). Lexically and collocationally, 'ineffective' and 'ineffectual' select 'against' or 'in/at' to evaluate operational efficacy or futile efforts, whereas only 'impotent' (MW: 'utterly lacking in power or the ability to act; helpless') establishes the idiomatic collocation 'impotent before' to denote structural powerlessness and subjugation.",
+    "distractor_analysis": {
+      "impotent": "正确。Merriam-Webster 将其核心义项界定为 'utterly lacking in power or the ability to act : POWERLESS; HELPLESS'，特指因权力、法定管辖权或实体力量被彻底剥夺而陷入任人宰割、完全无法行动的境地。在法政高阶学术语篇中，'rendered impotent before...'（在……面前被剥夺所有权力/变得彻底无能为力）是极具权威质感的固定表达，与前置分词短语 'Deprived of enforcement powers' 以及后置状语 'lacking any legal mechanism...' 形成严密的逻辑与语义闭环。",
+      "ineffectual": "错误。介词搭配不当与语义侧重偏离。'ineffectual' 侧重指行动、努力未能产生预期结果（如 ineffectual efforts），或指个人性格懦弱决断力不足（如 an ineffectual leader）。其标准介词搭配为 in 或 at（如 ineffectual in/at resisting），在现代标准英语中不与表示屈从或受制于压倒性力量的介词 before 连用（*ineffectual before... 违背习惯用法）；此外，句中宪法法院是由于法定权力被剥夺而丧失行动可能，而非主观努力‘成效不足’。",
+      "unable": "错误。句法功能严重违范。在现代标准英语句法中，形容词 unable 具有严格的次范畴化限制（subcategorization），必须强制接带 to 的动词不定式短语作补足语（be unable to do sth.），绝对不能直接接介词短语补足语（*rendered unable before... 为严重句法硬伤）。",
+      "ineffective": "错误。介词搭配不匹配与语义范畴错位。'ineffective' 侧重评估手段、工具、药物或政策在功能上‘未能产生预期成效’（not producing the intended effect），当面对对手、阻碍或威胁时，其标准介词搭配为 against（如 ineffective against the executive）或 in（如 ineffective in practice）。'ineffective before' 在英语中几乎仅用于 before 表示时间先后的特定语境（如 ineffective before July 1 表示‘在7月1日前尚未生效’），绝不能用于表示‘在强权面前软弱无能’；且此处指法定权力的剥夺（powerless），而非工作效能（efficacy）的不足。"
+    },
+    "translation": "由于紧急法令剥夺了执法权，宪法法院在专制行政机构面前完全丧失了权力，缺乏任何法律机制来废止那些违宪法令。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b44_20",
+    "group_id": 450,
+    "group_name": "impotent, ineffectual, unable, ineffective",
+    "level": "TEM-8",
+    "target_word": "ineffectual",
+    "question": "Confronted by the parliamentary inquiry regarding the catastrophic regulatory failure, the chief executive offered merely an ___, evasive shrug, an embarrassingly feeble gesture that underscored his total inability to defend his record.",
+    "options": [
+      "impotent",
+      "ineffectual",
+      "unable",
+      "ineffective"
+    ],
+    "answer": "ineffectual",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "Modifies the involuntary, non-instrumental physical gesture 'shrug' (appositively glossed as 'an embarrassingly feeble gesture'). Merriam-Webster and Fowler explicitly document that 'ineffectual' applies uniquely to faint, pathetic, or futile human movements/expressions (e.g., 'an ineffectual wave of the hand', 'an ineffectual shrug'), whereas 'ineffective' is strictly functional/teleological and cannot modify a bodily gesture, 'impotent' is restricted to violent helpless passions (e.g., 'impotent rage'), and 'unable' is syntactically barred from attributive position.",
+    "distractor_analysis": {
+      "ineffectual": "正确。Merriam-Webster与权威用法指南（Fowler's Modern English Usage）均指出，'ineffectual'拥有独特的语义与搭配功能：当修饰人的神情、肢体动作或非工具性举动时，专指“微弱苍白、软弱徒劳的”（MW: 'an ineffectual wave of the hand', 'an ineffectual smile'；Fowler: 'an ineffectual shrug'）。句中修饰当事人面对质询时做出的'evasive shrug'（回避式耸肩），并由后文同位语'an embarrassingly feeble gesture'直接锚定其苍白软弱之态，是唯一符合该语域与固定搭配的词选。",
+      "ineffective": "错误。范畴错位与搭配违范。'ineffective'核心语义为“未能产生预期功效或未能达到既定目标（failing to achieve a desired effect or objective）”，属于严格的工具性/功能性（teleological）词汇，其修饰对象必须是具备实际效能机制的事物（如 an ineffective law, an ineffective strategy, an ineffective remedy）或依据职能绩效测度的人员。耸肩（shrug）纯属身体神态表露，本身不具备工具性指标或功效机制，在英语中不能与'ineffective'搭配（*an ineffective shrug属于范畴搭配错误）。",
+      "impotent": "错误。语义过重且搭配不当。'impotent'指力量的彻底丧失、绝对瘫痪或处于完全被剥夺的无助状态（utterly powerless）。当用于修饰人类情感或表达时，该词高度固化于表达狂暴却无法宣泄的负面激情（如 impotent rage, impotent fury, impotent despair），绝不用于修饰如耸肩（shrug）、轻叹等微弱轻微的被动肢体举止。",
+      "unable": "错误。句法违范。在现代英语中，'unable'属于纯表语形容词（predicative adjective），通常接不定式（unable to do sth），绝不能置于名词前充当定语（*an unable shrug在句法上绝对不成立）。"
+    },
+    "translation": "面对议会关于灾难性监管失职的严厉质询，这位首席执行官仅仅做出一个徒劳而回避的耸肩；这一令人尴尬的软弱举动，凸显出他完全无力为自己的任内记录进行辩护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

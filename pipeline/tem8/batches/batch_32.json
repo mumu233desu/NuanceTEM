@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b32_01",
+    "group_id": 321,
+    "group_name": "debase, pervert, subvert, corrupt",
+    "level": "TEM-8",
+    "target_word": "debase",
+    "question": "By substituting sensationalist polemics for evidence-based analysis, the tabloid threatened to ___ the intellectual currency of public debate, cheapening nuanced civic deliberations into vulgar partisan spectacles.",
+    "options": [
+      "debase",
+      "pervert",
+      "subvert",
+      "corrupt"
+    ],
+    "answer": "debase",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'the intellectual currency' combined with the subsequent participial clause 'cheapening ... into vulgar partisan spectacles' provides an unequivocal anchor. 'Debase' specifically denotes lowering the intrinsic quality, grade, or value of something (originally currency by mixing base metals; figuratively language, discourse, or standards) into something cheap or degraded.",
+    "distractor_analysis": {
+      "debase": "正确。debase 的核心语义为“降低……的品质、价值、格调或纯度（使之贬值、粗俗化）”，其本义即为“在货币中掺杂贱金属使其贬值（debase currency）”。本句中与宾语“intellectual currency（思想/理性交锋的价值流通）”构成完美且不可替代的隐喻搭配，且后文的“cheapening ... into vulgar partisan spectacles（将精微的公民审议贬低为粗俗的党派闹剧）”明确锁定了“使其贬值、粗鄙化”的语义方向，故为唯一正选。",
+      "pervert": "错误。pervert 的核心义项是“曲解、滥用、使偏离正轨或正当目的”（常与 justice, the course of law, truth 搭配），强调将原本合法的机制或真理扭曲用于邪恶企图，而非“降低内在品质、使其粗俗贬值”，与“intellectual currency”及“cheapening”的语境语义断裂。",
+      "subvert": "错误。subvert 强调“颠覆、暗中破坏（政权、既定体制、社会秩序或合法权威）”，意在从根基上摧毁既有体系，不能与抽象价值载体“the intellectual currency of public debate”搭配，亦不含“cheapening into vulgarity（向低俗品质降格）”的贬值隐喻。",
+      "corrupt": "错误。corrupt 偏重于道德上的“腐化、堕落”、官僚体制中的“贿赂贪腐”或数据实体的“损坏污染”。虽然其引申义有“使变质”，但在此处与“currency”搭配属于搭配泛化与脱靶，无法契合本句“货币贬值—思想交锋贬质为粗鄙读物”的核心比喻与语义链条。"
+    },
+    "translation": "该小报以耸人听闻的论战取代基于证据的分析，势必会贬低公共辩论的思想价值，将精微的公民审议沦为粗俗的党派闹剧。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_02",
+    "group_id": 321,
+    "group_name": "debase, pervert, subvert, corrupt",
+    "level": "TEM-8",
+    "target_word": "pervert",
+    "question": "In his polemical treatise, the revisionist historian sought to ___ the historical truth, willfully twisting archival testimonies and suppressing inconvenient evidence to construct an entirely fabricated national myth.",
+    "options": [
+      "debase",
+      "pervert",
+      "subvert",
+      "corrupt"
+    ],
+    "answer": "pervert",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the formal collocation with 'the historical truth' together with the explicit semantic gloss 'willfully twisting archival testimonies ... to construct an entirely fabricated national myth'. 'Pervert' precisely signifies twisting, misrepresenting, or diverting the truth or a rightful principle away from reality to serve an illegitimate end.",
+    "distractor_analysis": {
+      "pervert": "正确。pervert 源自拉丁语 pervertere（彻底扭转、颠倒），在认知与法理语域中最核心的高级搭配即为 pervert the truth（歪曲事实/真相）与 pervert the course of justice（妨碍司法公正）。后句的分词短语“willfully twisting archival testimonies（蓄意歪曲档案证言）”精准复刻了 pervert 的词源释义与扭曲语义，因而严丝合缝。",
+      "debase": "错误。debase 指“贬低品质、降低格调、使贬值”，一般用于品位、标准、货币或语言（如 debase the standards/currency），不能用于“truth”；说“debase the historical truth”在语义逻辑和学术英语搭配上均不成立。",
+      "subvert": "错误。subvert 意为“颠覆、推翻（政权、传统规范、权威结论）”。虽然史学界可说“subvert an orthodox narrative（颠覆正统叙事）”，但“subvert the truth”在英语中属于严重搭配不当（你无法“颠覆”客观事实本身，只能歪曲或掩盖它）。",
+      "corrupt": "错误。corrupt 在文献学中可指抄写过程中“窜改、损坏文本（corrupt a text）”，或指道德品行的败坏。但指代“蓄意歪曲、颠倒客观历史真相以服务虚假叙事”时，学术界与正规书面英语严格限定使用 pervert（或 distort），corrupt the truth 缺乏“蓄意扭曲（twisting）”的特异性语义。"
+    },
+    "translation": "在其论战性专著中，这位修正主义历史学家企图歪曲历史真相，蓄意篡改档案证言并隐瞒不利证据，以此构建完全虚构的民族神话。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_03",
+    "group_id": 322,
+    "group_name": "decease, croak, perish, go",
+    "level": "TEM-8",
+    "target_word": "decease",
+    "question": "Under the conservation covenant, should the private sanctuary’s sole proprietor ___ without surviving issue, title to the old-growth forest automatically vests in the state forestry commission for perpetual ecological stewardship.",
+    "options": [
+      "decease",
+      "croak",
+      "perish",
+      "go"
+    ],
+    "answer": "decease",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The decisive anchor is the formal testamentary formula '___ without surviving issue' within a binding conservation covenant. In legal property instruments, 'decease without issue' is a codified term of art meaning to die childless. 'Perish' denotes violent, accidental, or catastrophic destruction and cannot collocate with testamentary succession clauses; 'croak' is an informal slang term creating a severe register clash; and 'go' triggers a syntactic collision with 'without' (forming 'go without', meaning to endure deprivation of), destroying the intended sense of death.",
+    "distractor_analysis": {
+      "decease": "正确。decease 在英美财产信托及生态保护协约（conservation covenant）等法律文本中为高度正式的专业用词，固定搭配 'decease without issue / surviving issue' 专指“自然人身故且无直系后嗣”，语法结构与庄重严谨的语域要求完全吻合。",
+      "croak": "错误。croak 作“死亡”解时属于俚语或高度非正式口语（slang/informal），带有戏谑或粗鄙色彩，与涉及森林地役权及法定产权转移的严肃法律文本产生极严重的语域断裂（register clash）。",
+      "perish": "错误。perish 强调惨死、暴毙、因极端灾难（如饥荒、严寒、海难）丧生或物理上的毁灭，侧重非正常、痛苦或毁灭性的消亡过程；在规范的法律继承程式语中，自然人的合法离世绝不可与 'without surviving issue' 连用搭配为 perish without issue。",
+      "go": "错误。go 虽常作委婉语（euphemism）指“离世”，但当其与介词 without 紧邻时，必然激活固有动词短语 'go without'（意为“忍受缺乏……”），使 'go without surviving issue' 被理解为“过着没有后代的生活”，从而彻底瓦解了条件从句所设定的“当事人身故”这一核心法定前提。"
+    },
+    "translation": "根据该项生态保护协约，若该私人保护区的唯一所有权人在身故时无尚存子嗣，这片原始森林的产权将自动归属于州林业委员会，以实施永久性的生态管护。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_04",
+    "group_id": 322,
+    "group_name": "decease, croak, perish, go",
+    "level": "TEM-8",
+    "target_word": "croak",
+    "question": "In her candid field memoir on wildlife conservation, the biologist noted wryly that delicate seahorse fry invariably seem to ___ on well-meaning aquarists, confounding even the most rigorous water-quality protocols.",
+    "options": [
+      "decease",
+      "croak",
+      "perish",
+      "go"
+    ],
+    "answer": "croak",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The decisive anchor is the adverse dative construction '___ on well-meaning aquarists' coupled with the stylistic markers 'candid field memoir' and 'noted wryly'. In idiomatic English, 'croak on [someone]' is an established colloquial/cynical idiom meaning to die unexpectedly to the caregiver's dismay (further reinforced by silent seahorse fry, precluding acoustic meanings). 'Decease' is strictly formal and syntactically cannot take an adverse personal complement with 'on'; 'perish on' is strictly locative (e.g. 'perish on the rocks') and cannot govern affected human beings; and 'go on [someone]' means to attack, scold, or rely upon, completely corrupting the intended meaning.",
+    "distractor_analysis": {
+      "croak": "正确。在非正式叙事与生物学实地随笔中，'croak on [someone]' 是地道的动词习语（采用表示不利体验的不利与格 adverse dative 结构），意指饲养的小生命“在某人悉心照料下却不合时宜地死掉/一命呜呼”，带有黑色幽默。主语为无发声器官的海马幼苗（seahorse fry），彻底排除了发声义，与前文的 'noted wryly'（啼笑皆非地指出）形成绝佳的语域与语义呼应。",
+      "decease": "错误。decease 为极端正式或法律性质的不及物动词，在现代英语中完全不具备 *decease on somebody 的句法用法，代入后不仅造成严重的语法不合，亦破坏了随笔中幽默自嘲的行文质感。",
+      "perish": "错误。perish 意为“丧生、消亡”，当其后接介词 on 时，介词宾语只能是表物理处所或地势的名词（如 perish on the rocks/plains），表示受难地点；perish 无法在语法上接表示受累照料者的人身客体（*perish on well-meaning aquarists 属于严重造词搭配错误）。",
+      "go": "错误。go 虽有委婉表示“死”的义项，但固定短语 'go on someone' 在英语中专指“袭击某人”、“对某人发作抱怨”（如 the dog went on him）或“根据某人所言行事”，绝不可能表示“在饲养员手中脆弱夭亡”，代入后造成致命的语义偏离与逻辑混乱。"
+    },
+    "translation": "在那本关于野生动物保护的坦率田野回忆录中，这位生物学家啼笑皆非地指出，脆弱的海马幼苗似乎总是在好心的水族饲养员手里莫名其妙地夭折，令哪怕是最为严苛的水质管理规程也无济于事。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_05",
+    "group_id": 323,
+    "group_name": "decimate, lynch, liquidate, stone",
+    "level": "TEM-8",
+    "target_word": "decimate",
+    "question": "Military historians observe that while the relentless artillery barrage failed to completely rout the entrenched garrison, it inflicted sufficient damage to ___ their forward ranks before dawn.",
+    "options": [
+      "decimate",
+      "lynch",
+      "liquidate",
+      "stone"
+    ],
+    "answer": "decimate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Strong collocational anchor '___ their forward ranks' paired with destructive cause 'artillery barrage' and contrasted with total annihilation ('failed to completely rout'). 'Decimate the ranks' is an iconic lexical collocation meaning to drastically destroy or kill a large proportion of a military formation.",
+    "distractor_analysis": {
+      "decimate": "正确。意为“大批杀死；严重削弱；使大批毁损”。其词源本义为古罗马军队中“十抽一杀”惩处叛军，现代标准英语中最经典的动宾搭配即为“decimate the ranks / population / workforce”（重创编队/大批消灭生力军）。句中“artillery barrage”（炮火齐射）作为非人称军事力量，与破损前沿部队作战编制（forward ranks）形成无可挑剔的搭配与语域契合。",
+      "lynch": "错误。意为“以私刑处死（尤指暴民私自绞死）”。主语必须是未经法定程序的暴民（mob），对象必须是个体人，不能与无生命自然力或炮火打击（artillery barrage）以及军事建制宾语（forward ranks）搭配。",
+      "liquidate": "错误。意为“清盘、清偿（资产/债务）”或政治层面的“清除、肃清（政治异见人士、叛徒）”。主要用于商业运作或极权政治/间谍组织的秘密清洗，不用于指代常规战术火力对阵地部队编制的重创与消灭。",
+      "stone": "错误。意为“用石头砸死（处以石刑）”。属于具体的古代刑罚或宗教戒律惩罚方式，动作手段为投掷石块，完全不符合现代炮火战役打击的语境。"
+    },
+    "translation": "军事历史学家指出，尽管持续不断的密集炮击未能彻底击溃坚守阵地的驻军，但其造成的破坏足以在黎明前重创守军的前沿部队建制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_06",
+    "group_id": 323,
+    "group_name": "decimate, lynch, liquidate, stone",
+    "level": "TEM-8",
+    "target_word": "lynch",
+    "question": "Sociological analyses of the post-Reconstruction era demonstrate that armed vigilante mobs frequently sought to circumvent constitutional due process and ___ an incarcerated suspect in calculated acts of racial terror.",
+    "options": [
+      "decimate",
+      "lynch",
+      "liquidate",
+      "stone"
+    ],
+    "answer": "lynch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The definitive anchor is the combination of the agent 'armed vigilante mobs', the direct object 'an incarcerated suspect' (a singular human captive), the legal breach 'circumvent constitutional due process', and the context 'acts of racial terror'. 'Lynch' is the precise socio-historical term for mob execution without due legal trial.",
+    "distractor_analysis": {
+      "decimate": "错误。意为“大批毁灭、大幅削减”。其底层语义特征严格限定其承受宾语必须为集合名词或复数群体（如 population, ranks, species），无法以单个嫌疑人（an incarcerated suspect）为宾语，产生严重的动宾语义范畴错误。",
+      "lynch": "正确。意为“以私刑处死（尤指暴民未经审判非法处决）”。句中的“armed vigilante mobs”（武装自卫暴民）、“circumvent constitutional due process”（绕过宪法正当程序）以及单数对象“an incarcerated suspect”完全锁定了该词的核心定义与历史社会学语境。",
+      "liquidate": "错误。意为“清算”或冷战/极权背景下的“清除（间谍、异见者）”。带有官僚化、极权清洗或黑帮有组织灭口的冷峻风格，无法契合美国历史中暴民狂热冲击司法程序的公开种族私刑（racial terror）语境。",
+      "stone": "错误。意为“投石砸死（石刑）”。石刑属于特定的古代部落或宗教律法刑罚，不能概括美国后重建时代暴民私刑处决（多为绞刑、枪决或焚尸）的制度性与法外暴行内涵，在无任何石块线索下纯属语义误判。"
+    },
+    "translation": "对后重建时期的社会学分析表明，武装私刑暴民频繁企图绕过宪法规定的正当法律程序，在精心策划的种族恐怖行径中将一名在押嫌疑人非法处以私刑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_07",
+    "group_id": 324,
+    "group_name": "decoy, snare, seduce, hook",
+    "level": "TEM-8",
+    "target_word": "decoy",
+    "question": "By deliberately feeding algorithmic disinformation into the network, counterintelligence analysts sought to ___ the hostile infiltrators away from classified infrastructure and into a heavily monitored synthetic environment.",
+    "options": [
+      "decoy",
+      "snare",
+      "seduce",
+      "hook"
+    ],
+    "answer": "decoy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中存在决定性的双重方向性介词搭配 'away from [classified infrastructure] and into [a synthetic environment]'，且前置诱导手段为虚假情报（algorithmic disinformation）。动词 decoy 严格表示通过诱饵或声东击西的伪装手段将对手'从原定目标引开并诱入陷阱'（lure/divert away from... into...）；而 snare 表示原位束缚捕捉，不能与 away from 搭配；seduce 强调道德诱惑或魅力吸引，语域严重冲突；hook 为非正式口语表达，缺乏方向性诱离语法结构。",
+    "distractor_analysis": {
+      "decoy": "正确。decoy 作动词时意为“（用诱饵或假象）引诱、诱离”，在认知战、情报分析及军事策略中专指通过伪装信号使敌方偏离真实目标，其经典句式结构为 'decoy sb/sth away from... into...'（将……从……引离并诱入……），与后文的 'away from... and into a heavily monitored synthetic environment' 形成完美严密的句法语义契合。",
+      "snare": "错误。snare 意为“用陷阱捕捉、诱捕”，核心语义侧重于使用罗网、套索对客体进行“束缚、卡紧、使其动弹不得”，通常接介词 'in'（如 snare sb in a trap），绝对无法与带有位移与调虎离山意味的 'away from' 形成方向性搭配，在此处产生严重的句法裂隙。",
+      "seduce": "错误。seduce 意为“勾引、引诱”，其语义内涵深植于利用美色、虚荣、利益或虚假承诺在道德、情感或意志上进行“蛊惑或劝诱”（seduce sb into doing sth），无法用于形容技术性反情报手段将网络渗透者从核心物理设施“引离/调离”的战术动作，属于典型的语义场错配与范畴错误。",
+      "hook": "错误。hook 意为“钓住、钩住、使上瘾”，在表示吸引时多带有强烈的非正式口语或商业营销色彩（如 hook customers / be hooked on），且其物理隐喻为单点钩住，不具备配合 'away from... into...' 表达复杂战略性认知调离的学术与战术语域质感。"
+    },
+    "translation": "通过故意向网络注入算法假情报，反情报分析人员试图将敌方渗透者从涉密基础设施引开，并将其诱入一个受到严密监控的合成虚拟环境中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_08",
+    "group_id": 324,
+    "group_name": "decoy, snare, seduce, hook",
+    "level": "TEM-8",
+    "target_word": "snare",
+    "question": "During the epistemological debate, the philosopher deployed a rigorous series of counter-examples, using the opponent’s own dialectical premises to ___ him in an inescapable web of logical contradictions.",
+    "options": [
+      "decoy",
+      "snare",
+      "seduce",
+      "hook"
+    ],
+    "answer": "snare",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点为高频隐喻搭配 'to ___ someone in an inescapable web of...'（将某人困于无法挣脱的……之网中）。snare 的本义为用罗网/套索捕捉，隐喻义特指“使陷入错综复杂的困境或逻辑泥潭”，与 web（网）形成唯一高度和谐的名名/动名隐喻同构；而 decoy 强调调虎离山（需接 away/into）；seduce 强调魅力吸引；hook 侧重钓钩钩住或上瘾，与 'in an inescapable web' 搭配均属于搭配断裂或隐喻冲突。",
+    "distractor_analysis": {
+      "decoy": "错误。decoy 的核心动作机制是“设置诱饵以转移目标（lure away）”，其行动终点通常是物理空间或战术埋伏圈（ambush/sandbox），无法与处于束缚状态的静态内部介词短语 'in an inescapable web of contradictions'（在无法挣脱的矛盾之网中）相搭配，缺乏内在困陷的语义成分。",
+      "snare": "正确。snare 作及物动词时，指“捕获、诱陷、使落入圈套”，在认知与哲学辩论语域中常用于隐喻义，与网络、陷阱、困境等隐喻高度共线（collocate with 'web', 'net', 'toils'），'snare sb in an inescapable web of...' 极为地道严谨地表达利用对方自身前提将其牢牢套死在逻辑罗网中。",
+      "seduce": "错误。seduce 强调通过吸引力诱导人犯错或堕落（lead astray by pleasure or temptation），在本句严密的认识论反驳与逻辑围剿语境中，对手是被迫因自身漏洞陷入僵局，而非被哲学家的魅力“引诱/诱惑”，在逻辑极性与辩论事实语境上完全颠反。",
+      "hook": "错误。hook 指“用钩子钩住”或引申为“吸引注意、使成瘾”（如 hook readers），一方面该词在正式学术思辨文本中 register（语体）偏低，另一方面与 'in a web' 产生隐喻混杂冲突（既用 hook 钩，又在 web 网中，违反高级学术修辞的隐喻融贯性原则）。"
+    },
+    "translation": "在那场认识论辩论中，这位哲学家展示了一系列严密的的反例，利用对手自己的辩证前提，将其死死困在无法挣脱的逻辑矛盾之网中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_09",
+    "group_id": 325,
+    "group_name": "defile, sully, taint, cloud",
+    "level": "TEM-8",
+    "target_word": "defile",
+    "question": "By deliberately fabricating clinical trial data, the unscrupulous researcher did not merely deceive his peers; he threatened to ___ the sacrosanct domain of empirical inquiry, committing what bioethicists condemned as outright profanation.",
+    "options": [
+      "defile",
+      "sully",
+      "taint",
+      "cloud"
+    ],
+    "answer": "defile",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置语境线索包括'sacrosanct domain'（神圣不可侵犯的领域）与'outright profanation'（赤裸裸的亵渎）。在四个选项中，唯一在词义本体与搭配层面上严格对应'亵渎神圣事物、玷污不可侵犯之领域'（to violate the sanctity of; desecrate）的动词仅有 defile。",
+    "distractor_analysis": {
+      "defile": "正确。defile 的核心释义为“玷污、亵渎神圣事物”（to violate the sanctity of: desecrate）。句中的宾语'sacrosanct domain'（神圣领域）以及后文同位解释的'profanation'（亵渎行径）构成决定性排他锚点，语域与语义完全契合。",
+      "sully": "错误。sully 指弄脏、玷污原本光洁无瑕的名誉、清白或光泽（to soil or tarnish, as a reputation），其侧重点在于表面的'光泽蒙尘'，缺乏 defile 所特有的'亵渎神圣/宗教般不可侵犯性（profanation/sacrilege）'的深层语义，与'sacrosanct... profanation'搭配显得语力不足且语域错位。",
+      "taint": "错误。taint 多指物理或道德层面微量有毒、腐败因子的'感染、污染'（to contaminate or infect morally with a slight degree of decay/rot），常见搭配如 taint the evidence/judicial process，但无法直接承载与'profanation'（亵渎）同构的宗教/神圣维度范畴。",
+      "cloud": "错误。cloud 在认知与评价语境中意为“使模糊、使晦暗、使产生疑虑”（to obscure or cast doubt upon），如 cloud one's judgment 或 cloud the issue，与句中企图'亵渎并破坏神圣领域'的行为逻辑与动宾搭配风马牛不相及。"
+    },
+    "translation": "这位肆无忌惮的研究员通过蓄意伪造临床试验数据，不仅欺骗了同行，更企图亵渎实证研究这一神圣不可侵犯的领域，犯下了被生物伦理学家痛斥为赤裸裸亵渎的恶行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_10",
+    "group_id": 325,
+    "group_name": "defile, sully, taint, cloud",
+    "level": "TEM-8",
+    "target_word": "sully",
+    "question": "Determined to preserve his scholarly integrity, the eminent historian steadfastly refused commercial endorsements, loath to let petty pecuniary interests ___ the unblemished luster of a lifetime spent in rigorous archival research.",
+    "options": [
+      "defile",
+      "sully",
+      "taint",
+      "cloud"
+    ],
+    "answer": "sully",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空格的直接宾语为'the unblemished luster'（无瑕的光泽/荣光）。在高级英语文体与修辞中，与'luster'（光泽、光辉）搭配以表达'使蒙尘、使失去光彩、玷污'的固定动宾搭配是 sully the luster（或 tarnish the luster）；其余三个动词均无法与 luster 形成合乎惯用法的修辞搭配。",
+    "distractor_analysis": {
+      "defile": "错误。defile 带有强烈的宗教性、圣洁性或肉体性亵渎色彩（desecrate/profane），用于指涉神殿、圣所、贞洁等概念；与比喻性光泽'luster'搭配属于严重的范畴错配（category mistake），英语中无'defile the luster'的表达。",
+      "sully": "正确。sully 源自弄脏、玷污光滑纯洁表面的视觉隐喻（to tarnish or mar the luster of），专用于修饰名望、清誉、功绩的'光泽蒙尘'（sully the luster of one's reputation/career），与'unblemished luster'构成精准、地道的高阶英语修辞搭配。",
+      "taint": "错误。taint 强调融入恶性成分或病理因子的浸染、腐化（如 taint a reputation/process），但英语习惯搭配中不说'taint the luster'，其侧重于内部实质的污染变质，而非表层光泽的被遮蔽或玷污。",
+      "cloud": "错误。cloud 意为“使蒙上阴影、使模糊不清”，虽然具有光学联想，但多与 judgment, vision, mind, issue 搭配；在修辞上不能作及物动词与'the unblemished luster'搭配来表达玷污一生的学术声望与光辉。"
+    },
+    "translation": "这位著名历史学家一心捍卫自己的学术操守，坚决拒绝一切商业代言，绝不愿让微不足道的金钱利益玷污自己一生严谨深耕档案研究所铸就的无瑕光彩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_11",
+    "group_id": 326,
+    "group_name": "dehydrate, pickle, desiccate, can",
+    "level": "TEM-8",
+    "target_word": "dehydrate",
+    "question": "To manufacture lightweight emergency rations that swiftly reconstitute upon the addition of water, food scientists carefully ___ perishable vegetables through controlled vacuum evaporation, avoiding irreversible moisture exhaustion as well as acidic or hermetic preservation.",
+    "options": [
+      "dehydrate",
+      "pickle",
+      "desiccate",
+      "can"
+    ],
+    "answer": "dehydrate",
+    "primary_mechanism": "MECH_SEMANTIC_EXCLUSIVITY",
+    "field": "FIELD_FOOD_SCIENCE",
+    "anchor_clue": "句中以“controlled vacuum evaporation”（受控真空蒸发）作为脱水加工手段，以“swiftly reconstitute upon the addition of water”（加水后迅速复原）作为核心品质要求，并以“avoiding irreversible moisture exhaustion as well as acidic or hermetic preservation”（避免不可逆的水分彻底耗竭以及酸性或气密封装保存）设置了三重决定性排他锚点：①“avoiding acidic preservation”直接排除依赖醋酸或盐水浸泡的 pickle；②“avoiding hermetic preservation”直接排除依赖气密容器高压灭菌的 can；③“avoiding irreversible moisture exhaustion”与“reconstitute”直接排除指代水分彻底抽干至细胞崩溃硬化、丧失复水能力的 desiccate。唯有 dehydrate 精准契合“通过受控蒸发降低水分活度、同时保留细胞多孔结构以供复水”的专业食品工程学定义。",
+    "distractor_analysis": {
+      "dehydrate": "【正确】意为“（通过人工受控方式）使……脱水以备保存”。在食品科学与后勤技术中，dehydrate 专指在受控温度与真空/气流条件下抽取水分，既抑制微生物生长，又保护细胞微观结构，确保干燥物在加水后能顺利复水（reconstitute），完美契合全句的技术动作与后置限定。",
+      "pickle": "【错误】意为“腌渍、用酸或盐水浸渍保存”。句中“controlled vacuum evaporation”（受控真空蒸发）属于物理干燥法，且后文明确声明“avoiding acidic preservation”（避免酸性保存），与依赖醋酸浸泡或乳酸发酵的 pickling 工艺直接冲突。",
+      "desiccate": "【错误】词义虽含“使脱水、干燥”，但在食品工程与物料学中专指“使彻底干透、水分耗竭至硬化、焦枯或粉末状”（如干燥椰蓉 desiccated coconut 或干燥器完全吸干）。句中后置分词明确要求“avoiding irreversible moisture exhaustion”（避免不可逆的水分彻底耗竭），且前文强调口粮须“swiftly reconstitute upon the addition of water”（加水迅速吸水复原），而极端的 desiccation 会导致细胞结构完全塌陷、丧失复水能力，因而产生严密的逻辑矛盾。",
+      "can": "【错误】作及物动词意为“将（食品）装罐密封保存”。句中明确提出“avoiding hermetic preservation”（避免气密保存），而 canning 的核心定义正是将物料封入马口铁罐或玻璃罐等气密容器（hermetic containers）并进行热力杀菌；此外装罐食品含水分高、自重大，与句首“lightweight emergency rations”（轻量应急口粮）的减重诉求完全相悖。"
+    },
+    "translation": "为了生产加水后能迅速复原的轻质应急口粮，食品科学家通过受控真空蒸发精心使易腐蔬菜脱水，既避免了水分彻底耗竭带来的结构破坏，也避免了采用酸性浸渍或气密封装保存技术。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_12",
+    "group_id": 326,
+    "group_name": "dehydrate, pickle, desiccate, can",
+    "level": "TEM-8",
+    "target_word": "pickle",
+    "question": "Cognitive archaeologists studying ancient dietary preservation discovered that Mediterranean cultures utilized saline baths and seasoned vinegar to ___ surplus produce, developing sophisticated fermentation practices that markedly reshaped early sensory perception and culinary categorization.",
+    "options": [
+      "dehydrate",
+      "pickle",
+      "desiccate",
+      "can"
+    ],
+    "answer": "pickle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心工具介质锚点“saline baths and seasoned vinegar”（盐水浸泡液与调味醋）限定了加工机制。在四种防腐保存方法中，以盐水（brine）或醋（vinegar）浸泡进行酸性发酵防腐的专用动词唯有 pickle。dehydrate（脱水）与 desiccate（极度干燥）的作用机制均为抽离水分，与液体浸泡物理矛盾；can（装罐密封）则属于近代高温密封灭菌技术，与“古代地中海文化”发生严重时代错置（anachronism）。",
+    "distractor_analysis": {
+      "pickle": "【正确】意为“用盐水或醋腌制、浸渍”。它与句中的介质“saline baths and seasoned vinegar”（盐水浴与调味醋）构成排他性技术搭配，契合古代农产品保存工艺对早期感官认知与分类形成影响的历史学术语境。",
+      "dehydrate": "【错误】指通过蒸发、烘烤或日晒去除食材内部水分进行“风干/脱水”。题干明确指示使用盐水与醋构成的液态环境，这属于湿式酸渍保存，与脱水工艺的物理化学原理直接相悖。",
+      "desiccate": "【错误】指“使彻底干燥、干涸”，同属剥离水分的干燥技术，无法与沉浸在醋液和盐水中的腌制动作相兼容。",
+      "can": "【错误】指“把……装罐密封保存（通常借助现代金属罐或密封玻璃罐进行加热灭菌）”。该技术发明于19世纪初，用于描述“古代地中海文化”（ancient Mediterranean cultures）存在明显的时代谬误，且装罐本身不直接等同于利用盐醋浸泡发酵的化学过程。"
+    },
+    "translation": "研究古代饮食保存的认知考古学家发现，地中海文明利用盐水浸泡与调味醋来腌制过剩农产品，发展出了精细的发酵工艺，从而显著重塑了早期的感官知觉与烹饪分类体系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_13",
+    "group_id": 327,
+    "group_name": "delineate, demo, etch, show",
+    "level": "TEM-8",
+    "target_word": "delineate",
+    "question": "The constitutional drafting committee was convened not to debate abstract political philosophy, but to define, ___, and codify the precise boundaries of executive power, thereby safeguarding the fragile republic against autocratic overreach.",
+    "options": [
+      "delineate",
+      "demo",
+      "etch",
+      "show"
+    ],
+    "answer": "delineate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICAL_PHILOSOPHY",
+    "anchor_clue": "Decisive anchor clue: The triadic legislative parallel construction 'define, ___, and codify' governing 'the precise boundaries of executive power'. In constitutional drafting and political jurisprudence, 'delineate boundaries' (marking jurisdictional contours) is the authoritative, irreplaceable collocate. Distractors are decisively excluded: 'show' denotes passive empirical observation rather than constitutive legal demarcation; 'demo' is an informal commercial truncation; and 'etch' requires physical substrates or figurative imprinting in memory.",
+    "distractor_analysis": {
+      "delineate": "正确。delineate 源自拉丁语 delineare（de- '彻底' + linea '线条'），本义为‘勾画轮廓’，在宪法学与政治哲学语境中为核心学术动词，专指‘以权威条文精确划定、界定（权力、管辖权或法律主体的）边界与范围’。本句中 'define, delineate, and codify the precise boundaries of executive power'（界定概念、划定边界、法典化编纂）构成了高阶立法起草中严密的施为性动作递进链（triadic legislative progression），且 'delineate boundaries of power' 是宪政理论中极其经典的规范搭配。",
+      "demo": "错误。demo 属于商业与软件技术领域的非正式截短词（informal clipping of 'demonstrate'），主要用于指代产品功能演示或音乐样带（如 demo a new software/track）。将其用于修饰宪法起草委员会界定国家最高行政权力的崇高法政语境（constitutional drafting committee, autocratic overreach），存在极其严重的语体降格（severe register clash）与语义荒谬。",
+      "etch": "错误。etch 严格表示通过酸液腐蚀金属/玻璃以制版（‘蚀刻’），或用利器深深刻入硬质材料表面。在比喻用法中，它几乎总是用于被动语态并后接介词短语 in/into（如 etched into one's memory/mind 表示‘铭刻在记忆中’），根本无法作为主动语态的规范法律动词来支配 'the boundaries of executive power' 这种抽象的管辖权限对象，属于严重的范畴错配（category mistake）。",
+      "show": "错误。虽然 show 具有‘展示、表明’之泛称含义，但在本句中存在决定性的语义与语法断裂：第一，施为性言语行为（Performative Act）冲突。宪政起草委员会的职能是建构性（constitutive）与规范性（normative）的，权力的法律边界在起草前并不作为既定客观现实存在，其任务是去‘创制并划定’（delineate）边界，而非去‘展示/显现’（show）既有事实；第二，立法平行序列断裂。'define, [___], and codify' 构成立法三段论动作链（界定本质 -> 划定外延界限 -> 编入法典），show 作为经验性/实证性观察动词，插入其中会导致严重的语义逻辑断层与语体平庸化，完全无法满足 TEM-8 对高阶法律政治学术文本严密性的要求。"
+    },
+    "translation": "宪法起草委员会召开的目的并非争论抽象的政治哲学，而是明确界定、划定并法典化行政权力的确切边界，从而保护脆弱的共和国免受专制越权之害。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_14",
+    "group_id": 327,
+    "group_name": "delineate, demo, etch, show",
+    "level": "TEM-8",
+    "target_word": "demo",
+    "question": "Selected as finalists in the cognitive robotics competition, the research team was scheduled to ___ live before an esteemed panel of adjudicators, validating their adaptive neural interface under rigorous real-time constraints.",
+    "options": [
+      "delineate",
+      "demo",
+      "etch",
+      "show"
+    ],
+    "answer": "demo",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The syntactic slot requires an intransitive verb modified by 'live before an esteemed panel of adjudicators' within the domain of technology/systems evaluation. 'Demo' is formally recognized as an intransitive verb meaning 'to give a live demonstration of a product/system', whereas 'delineate' and 'etch' are strictly transitive, and intransitive 'show' cannot bear this specialized operational meaning.",
+    "distractor_analysis": {
+      "delineate": "错误。句法违背。delineate 在现代英语中为纯及物动词（strictly transitive），后方必须接宾语（如 delineate a model/boundary），不能直接接副词 'live' 并作不及物用法（*delineate live before a panel）。",
+      "demo": "正确。demo 在认知计算与前沿科技工程领域具备规范的双重语法功能，既可及物，亦可作不及物动词（intransitive verb，意为 to give a functional demonstration of a product, prototype, or system）。'demo live before a panel' 为科技成果评测中的标准地道搭配。",
+      "etch": "错误。句法违背。etch 同样为纯及物动词（及物或接固定介词短语 etch into），意为蚀刻或铭记，在此句法结构中构成严重的及物性缺失错误，且语义与神经接口技术实测完全无关。",
+      "show": "错误。句法与语义冲突。show 作不及物动词时，其核心义项仅限于：(1) 显现/露出来（如 your slip is showing）；(2) 露面/出席（口语中作 show up 的简略用法）；(3) 艺术家举办展览（如 the artist is showing in Paris）。在面向评审委员会进行技术系统现场实操运行这一语境下，英语从不使用不及物动词 'show live before a panel'（若用 show 则必须及物接宾语，如 show their system），故在此处产生严重的语义断裂。"
+    },
+    "translation": "入选认知机器人大赛决赛后，该研究团队被安排在由著名专家组成的评审团面前进行现场实机演示，在严苛的实时限制下验证其自适应神经接口的性能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_15",
+    "group_id": 328,
+    "group_name": "deluge, drench, inundate, flow",
+    "level": "TEM-8",
+    "target_word": "deluge",
+    "question": "Submerged beneath an unprecedented ___ of automated public petitions that crippled its electronic filing infrastructure, the regulatory commission was compelled to suspend statutory review periods to avert total operational breakdown.",
+    "options": [
+      "deluge",
+      "drench",
+      "inundate",
+      "flow"
+    ],
+    "answer": "deluge",
+    "primary_mechanism": "MECH_SYNTAX_COLLOCATION",
+    "field": "FIELD_LAW_GOVERNANCE",
+    "anchor_clue": "句法位置与隐喻搭配构成双重决定性排他锚点。在句法层面上，空缺处前有形容词'unprecedented'，后接介词短语'of automated public petitions'，语法上强制要求单数名词充当短语中心语。选项中inundate为纯动词（名词形式须为inundation），在此产生直接句法违例。在语义与修饰关系上，分词短语'Submerged beneath...'（被彻底淹没于……之下）与后文'crippled its electronic filing infrastructure'（瘫痪了其电子申报系统）共同激活了关于毁灭性洪流的延伸隐喻；依据韦氏词典，deluge作名词的核心特征为'implies an inundation that arrives with torrential force or sudden volume'，且'a deluge of petitions/requests'是公共政策与行政法领域表达海量文件冲击导致系统过载的标准搭配。而drench作为名词仅用于农业兽医灌药或方言中的身体湿透，与抽象公文完全断裂；flow表达平稳连贯的常规流动，与'Submerged beneath'及'crippled'所表征的灾难性窒息瘫痪形成鲜明的逻辑反向矛盾。",
+    "distractor_analysis": {
+      "deluge": "正确选项。词性、语义与语域完全吻合。在句法上，deluge兼具名词与动词词性，在此作为名词与'an unprecedented ___ of'完美嵌合；在搭配与语域上，'a deluge of petitions/complaints/filings'是高阶学术与官方报告中表达海量离散请求席卷而来的经典搭配；在隐喻一致性上，句首的分词修饰语'Submerged beneath'（淹没于……之下）与句末的'avert total operational breakdown'精准呼应了deluge所独具的以暴洪之势瞬间淹没、使机构彻底瘫痪的语义特质。",
+      "drench": "错误选项。词义范畴与搭配严重断裂。drench在现代标准英语中主要为动词（使湿透），即便偶作名词使用，其规范词义亦严格限定于兽医给牲畜灌服的药水（a medicinal draught administered to an animal）或口语中浑身湿透的淋雨状态（a soaking wet）。它在高级政经和学术英语中绝对无法接引抽象或制度性客体（*a drench of petitions属于严重语用与搭配错误），无法表达使机构系统瘫痪的过载体量。",
+      "inundate": "错误选项。决定性句法违例（Syntactic Category Violation）。inundate在现代英语词汇系统中为严格的及物动词（transitive verb），其派生名词形式为inundation。在本句中，空缺位置位于不定冠词与形容词'an unprecedented'之后、介词'of'之前，结构上必须填入名词；若填入动词原形inundate，将直接破坏短语结构规则（*Det + Adj + Verb + PP），构成不可接受的句法错误。",
+      "flow": "错误选项。语境隐喻冲突与逻辑反向（Logical Connotation Inversion）。flow作名词时核心语义为平稳、连续、有序的“流动、流量”（a smooth, continuous, and steady progression，如a steady flow of information）。本句的核心情境是系统遭到突发极端冲击而“瘫痪崩溃”（crippled... avert total operational breakdown），常规有序的'flow'在逻辑上根本不可能造成如此严重的系统性功能瓦解；且在修辞搭配上，'submerged beneath a flow'（淹没在平缓流动之下）存在明显的语义形象冲突与语力割裂。"
+    },
+    "translation": "面对海量自动化公众请愿书带来的前所未有的冲击（请愿书的狂潮瘫痪了其电子申报基础设施），该监管委员会被迫暂停法定审查期限，以避免整体运行陷入彻底崩溃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_16",
+    "group_id": 328,
+    "group_name": "deluge, drench, inundate, flow",
+    "level": "TEM-8",
+    "target_word": "drench",
+    "question": "By manipulating atmospheric lighting and ambient soundscapes, the cognitive psychologist sought to ___ the subject's perceptual field in melancholy, thereby examining how sustained affective saturation alters memory recall.",
+    "options": [
+      "deluge",
+      "drench",
+      "inundate",
+      "flow"
+    ],
+    "answer": "drench",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于后置介词短语'in melancholy'以及句末同义语义回响'sustained affective saturation'（持续的情感饱和）。在表示使某种知觉场或意识空间完全沉浸、渗透于某种氛围或情绪状态时，及物动词中唯有drench能够严密接续介词in（drench something in melancholy/dread/light）；而deluge与inundate在接续外加客体时介词搭配均严格受限于with或by（*deluge/inundate... in melancholy属于严重搭配错误）；flow则为不及物动词，无法后接宾语'the subject's perceptual field'。",
+    "distractor_analysis": {
+      "drench": "正确选项。drench作及物动词时意为“使浸透、使彻底湿润”，在认知美学与高级学术语境中高度常规化地引申为将感知、心灵或叙事空间“完全浸润于某种情绪或氛围之中”，其标志性句法语法搭配为“drench somebody/something in something”（如drench the mind in melancholy）。句尾表述“sustained affective saturation”（持续的情绪饱和）与drench（浸透、使饱和）在词汇语义场上构成了精妙的同义映射与学术互证。",
+      "deluge": "错误选项。介词语法搭配破裂。deluge作及物动词表示“蜂拥而至、以巨量压垮”时，其后接工具/内容介词严格限定为with（如deluge the recipient with requests），在标准学术英语中绝不能与介词in搭配表达情绪浸透（*deluge the field in melancholy为严重语病）；且deluge强调外力冲击的体量压迫，无法对应文中的“saturation”（持续浸润饱和）。",
+      "inundate": "错误选项。介词管辖错误与语义错位。inundate作及物动词意为“淹没、使不胜负荷”，其引导伴随内容的介词同样严格固定为with或by（如inundated with complaints），不可接介词in来表示抽象情绪的浸染（*inundate something in melancholy违背现代英语惯用法）；其意象偏向潮水淹没，缺乏drench所蕴含的“浸润、吸收与饱和”之微观机制。",
+      "flow": "错误选项。动词及物性句法严重违例。flow是不及物动词，不能直接带直接宾语“the subject's perceptual field”；若填入flow会直接导致及物性结构缺失，在语法层面上不成立。"
+    },
+    "translation": "通过调控环境光效与氛围声景，认知心理学家试图让受试者的知觉场完全浸润在忧郁之中，从而考察这种持续的情绪饱和状态如何改变记忆提取。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_17",
+    "group_id": 329,
+    "group_name": "depose, attest, profess, swear",
+    "level": "TEM-8",
+    "target_word": "depose",
+    "question": "Subpoenaed by the federal grand jury, the reluctant compliance director was required to ___ as to the clandestine offshore wire transfers, providing sworn testimony that decisively unraveled the cartel's money-laundering network.",
+    "options": [
+      "depose",
+      "attest",
+      "profess",
+      "swear"
+    ],
+    "answer": "depose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置介词短语 'as to' 搭配法定司法语境（'Subpoenaed by the federal grand jury' 与 'sworn testimony'）构成决定性锚点。在正式法律英语中，表示证人宣誓作证唯有 'depose as to' 是规范固化搭配；attest 仅搭配 to 而不可加 as to；profess 为及物动词或接不定式；swear 不与 as to 搭配。",
+    "distractor_analysis": {
+      "depose": "正确。在司法与大陪审团调查语境中，depose 作不及物动词，专指“依法宣誓作证、提供宣誓证词（make a deposition; declare under oath）”，其标准后置搭配为 'depose as to [matter]'（就某事项作证），完美契合传票传唤（Subpoenaed）与宣誓证言（sworn testimony）的高级司法语域。",
+      "attest": "错误。介词搭配与语法规则不符。attest 表示“证实、证明”作不及物动词时严格固化搭配介词 to（即 attest to something），后接 'as to' 属于严重的介词多余与搭配错误（*attest as to）；且 attest 强调以客观凭据进行佐证，而非指代证人在大陪审团法庭程序中进行宣誓作证的行为本身。",
+      "profess": "错误。句法与语义双重不符。profess 属于纯及物动词，通常后接名词宾语（如 profess innocence 声明无罪）或动词不定式（profess to be 自称是），语法上绝不能接介词短语 'as to'；语义上它常指个人主观宣称或甚至带有虚饰成分的表白，与大陪审团法定宣誓作证的客观严肃语境相悖。",
+      "swear": "错误。搭配与语体冲突。swear 表示发誓或宣誓时，可接 that 从句、宾语誓言（swear an oath）或介词 to/by（如 swear to the truth 对真实性起誓；swear by 凭……发誓），在规范书面语中根本不存在 '*swear as to' 的介词搭配；此外，在指代正式作证程序时，swear 的口语化色彩过浓，远不如 depose 准确符合司法术语要求。"
+    },
+    "translation": "在受到联邦大陪审团传唤后，这位心存顾虑的合规总监被要求就秘密离岸电汇交易宣誓作证，其提供的宣誓证词最终决定性地瓦解了该集团的洗钱网络。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_18",
+    "group_id": 329,
+    "group_name": "depose, attest, profess, swear",
+    "level": "TEM-8",
+    "target_word": "attest",
+    "question": "The extensive archaeological excavations and radiocarbon analyses conducted across the plateau unequivocally ___ to the presence of an advanced agrarian civilization centuries before the arrival of colonial settlers.",
+    "options": [
+      "depose",
+      "attest",
+      "profess",
+      "swear"
+    ],
+    "answer": "attest",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为无生命科研证据（'excavations and radiocarbon analyses'），空后紧接介词 'to'。四个选项中，唯有 'attest' 能够以无生命证据为主语构成 'attest to sth.'（证实/有力证明某事），其余三词在主语选择限制（Selectional Restrictions）与句法介词搭配上均被完全排除。",
+    "distractor_analysis": {
+      "attest": "正确。句法搭配与语义选择完全吻合。attest to 为高频学术搭配，意为“证明、证实、充当……的有力证据”。attest 允许抽象实体、科研数据或实物史料作为主语，精准传达出高原考古发掘与放射性碳定年分析对早期农业文明存在性的确凿印证。",
+      "depose": "错误。违反主语选择限制与句法规则。depose 表示“宣誓作证”时，其主语必须是具有法律人格的人或证人（deponent），考古发掘与科学数据等无生命事物无法执行宣誓作证的法律行为；此外，depose to 的古旧用法亦仅限于自然人宣誓，不可用于客观证据的印证。",
+      "profess": "错误。主语选择限制与搭配均不成立。profess 意为“自称、声称”，主体必须是具有认知能力与主观意志的人，不能以科研成果或发掘现场为主语；且 profess 后接直接宾语或不定式（profess to be），无法与名词构成 'profess to + 实体名词' 来表达证明之意。",
+      "swear": "错误。违反主语选择限制。swear 意为“发誓、宣誓”，施事主体必然是人，考古发掘与定年数据不可能“发誓（swear to）”，将其置于此处会导致荒谬的拟人化范畴谬误（category mistake）。"
+    },
+    "translation": "在这座高原上开展的大规模考古发掘与放射性碳定年分析，无可辩驳地证实了早在殖民定居者到来数个世纪之前，这里就曾存在过高度发达的农业文明。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_19",
+    "group_id": 330,
+    "group_name": "deprecate, discredit, depreciate, pan",
+    "level": "TEM-8",
+    "target_word": "deprecate",
+    "question": "Although the senior economists acknowledged the model's theoretical elegance, they were careful to ___ its premature deployment in actual policy design, warning that volatile market variables could produce catastrophic distortions.",
+    "options": [
+      "deprecate",
+      "discredit",
+      "depreciate",
+      "pan"
+    ],
+    "answer": "deprecate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: The object 'premature deployment in actual policy design' represents an operational action/practice, combined with 'careful to... warning that...'. In formal policy/academic discourse, 'deprecate' specifically selects actions, practices, or tendencies to mean 'express formal disapproval of / strongly advise against'.",
+    "distractor_analysis": {
+      "deprecate": "正确。deprecate 在学术政经与高级书面语中意为“对……表示强烈反对；非难；规劝勿行”（to express earnest disapproval of），在搭配习惯上常支配表示“某种举措、行为或偏向”的名词（如 premature deployment, hasty actions, uncritical reliance）。句中经济学家承认模型的理论价值，但对其在实际操作层面的过早应用明确表示反对与警诫，语法、语体及语义逻辑完全契合。",
+      "discredit": "错误。discredit 的核心语义是“破坏……的可信度；使怀疑……的真实性”（to cause disbelief in the veracity/authority of），其论元通常是具有真伪命题属性的概念或主体（如 theory, claim, hypothesis, witness）。而“premature deployment”（过早部署）属于一项政策实施行动，并非涉及真伪验证的认知对象，与 discredit 发生语义选择限制冲突。",
+      "depreciate": "错误。depreciate 的基本义项为“（使）资产贬值、折旧”，或指“贬低……的身价、成就与价值”（同 disparage）。它无法接具体的方案执行行为（deployment）作为直接宾语来表达政策性规劝或反对态度。",
+      "pan": "错误。pan 属于非正式的文艺与传媒口语用词（informal journalistic register），专指专业评论员“严厉批评、痛批（电影、戏剧、小说等文艺作品）”（to criticize severely in a review）。用于严肃的宏观政策部署语境不仅语域严重冲突，且不能搭配未发生的操作流程。"
+    },
+    "translation": "尽管资深经济学家承认该模型在理论上的精妙性，但他们仍十分谨慎地对其在实际政策设计中的过早部署表示反对，并警告称剧烈波动的市场变量可能会引发灾难性的失真。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b32_20",
+    "group_id": 330,
+    "group_name": "deprecate, discredit, depreciate, pan",
+    "level": "TEM-8",
+    "target_word": "discredit",
+    "question": "Subsequent forensic analysis and peer replications failed to corroborate the initial findings, providing conclusive empirical evidence that ultimately served to ___ the controversial hypothesis once championed by the rogue laboratory.",
+    "options": [
+      "deprecate",
+      "discredit",
+      "depreciate",
+      "pan"
+    ],
+    "answer": "discredit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor: The syntactic subject 'conclusive empirical evidence' acting on the object 'the controversial hypothesis'. In advanced scientific/epistemological register, empirical evidence functions to 'discredit' (destroy the epistemic credibility/validity of) a scientific theory, claim, or hypothesis.",
+    "distractor_analysis": {
+      "discredit": "正确。discredit 意为“使失去可信度；证明……不可信；推翻（假说、声誉）”（to cause disbelief in the accuracy, authority, or credibility of）。在实证科研与学术认知语境中，“empirical evidence served to discredit the hypothesis”（实证证据最终使该假说名誉扫地/失去立足根据）是高度地道且规范的典型学术搭配。",
+      "deprecate": "错误。deprecate 强调主体主观上表达“规劝反对、不以为然”（to express disapproval of），其施事主语通常为“人或机构”，而不能由客观科学证据（empirical evidence）充当主语去“deprecate”一个假说。证据可以推翻或证伪假说，但无法对假说表达情感或伦理上的“非难”。",
+      "depreciate": "错误。depreciate 专指降低经济资产的金融估值，或贬低某人的才干品质。实证科学检验针对的是假说的“真伪与效度（veracity/validity）”，而非假说的“市场价值”，填入造成严重的范畴逻辑错位。",
+      "pan": "错误。pan 专用于文化娱乐批评领域（如媒体或影评人痛批新上映的影片），带有强烈的非正式通俗刊物色彩，与“peer replications”（同行复现）、“forensic analysis”（法证分析）及“hypothesis”（假说）构成的硬核科研语体产生不可调和的语格冲突。"
+    },
+    "translation": "随后的法证分析与同行复现均未能证实最初的调查结果，提供了决定性的实证证据，最终使这个曾由该违规实验室极力主张的争议性假说彻底丧失了可信度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

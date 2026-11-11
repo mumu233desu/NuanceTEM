@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b34_01",
+    "group_id": 341,
+    "group_name": "seedy, sleazy, sordid, squalid",
+    "level": "TEM-8",
+    "target_word": "seedy",
+    "question": "Urban theorists noted that the district’s ___ allure stemmed not from sheer destitution, but from a peculiar confluence of faded grandeur, threadbare music halls, and the illicit transactions of a nocturnal underworld.",
+    "options": [
+      "seedy",
+      "sleazy",
+      "sordid",
+      "squalid"
+    ],
+    "answer": "seedy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'faded grandeur, threadbare music halls' directly evokes the etymological and semantic core of 'seedy' (run to seed; shabby, worn-out dilapidation combined with petty vice), forming the recognized literary collocation 'seedy allure'.",
+    "distractor_analysis": {
+      "seedy": "正确。seedy 源自植物“结籽后凋落衰败（run to seed）”，核心语义指因年久失修、昔日风光不再而呈现出的“破败、褴褛且带有低俗或不良活动的气息”（shabby and disreputable）。语境中的 'faded grandeur'（褪色的繁华）、'threadbare music halls'（破旧陈腐的音乐厅）与地下非法交易构成了典型的 seedy 意象，且 'seedy allure'（颓废堕落的吸引力）属于英语文学与文化地理学中高度固化的经典搭配。",
+      "sleazy": "错误。sleazy 强调低级庸俗、道德败坏、狡诈或卑鄙无耻（corrupt, dishonest, vulgar），多形容商业黑幕、小报丑闻或政客勾当（如 sleazy tabloid, sleazy deal），不具备 seedy 所专指的“物品/场所陈旧破烂、褪色磨损的实体破败感”（threadbare, faded grandeur）。",
+      "sordid": "错误。sordid 侧重于行径、动机或细节上的“极度卑鄙、下作、令人作呕”（ignoble, base, morally vile），带有强烈的道德谴责意味（如 sordid motives, sordid affair），与句中带有审美化与怀旧色彩的 'allure'（魅力/诱惑力）及 'faded grandeur' 存在明显的语意与情感冲突。",
+      "squalid": "错误。squalid 的核心在于因极端贫穷、缺乏清理而造成的“污秽不堪、恶劣肮脏”（foul, unhygienic through neglect and poverty，如 squalid slums）。句中已用 'not from sheer destitution'（并非源于纯粹的赤贫）形成排他限制，且令人反胃的赤贫肮脏无法与 'allure' 产生合理共鸣。"
+    },
+    "translation": "城市理论学者指出，该街区颓废破败的独特吸引力并非源自纯粹的赤贫，而是源自一种奇特的交织——褪色的往昔繁华、陈旧破损的音乐厅，以及夜间地下世界的非法交易。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_02",
+    "group_id": 341,
+    "group_name": "seedy, sleazy, sordid, squalid",
+    "level": "TEM-8",
+    "target_word": "sleazy",
+    "question": "Scrutinizing how the ___ political operative traded fabricated dossiers for lucrative defense contracts, the ethics committee concluded that such corrupt, influence-peddling maneuvers severely undermined the integrity of the administration.",
+    "options": [
+      "seedy",
+      "sleazy",
+      "sordid",
+      "squalid"
+    ],
+    "answer": "sleazy",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The agentive noun phrase 'political operative' engaged in 'influence-peddling maneuvers' and 'corrupt, underhanded' contract trading exclusively selects 'sleazy' as the institutional and political descriptor for unprincipled, corrupt fixers.",
+    "distractor_analysis": {
+      "seedy": "错误。seedy 侧重于物理外貌上的衣衫褴褛、场所的凋敝衰颓（如 seedy hotel）或身体虚弱欠佳（feeling seedy），不可用于修饰在权力核心层倒卖虚假档案、操盘巨额国防合同的政治掮客。",
+      "sleazy": "正确。sleazy 在现代政治报道与严肃政论中是形容“缺乏职业操守、行事下流卑劣、唯利是图的政客、掮客或机构”的核心定语（如 sleazy political operative/lobbyist/dealings），完美契合后文 'fabricated dossiers'（伪造档案）、'lucrative defense contracts'（暴利国防合同）以及 'influence-peddling'（权力寻租）所揭示的政治黑幕语境。",
+      "sordid": "错误。sordid 意为“卑劣的、丑恶的”，但在语料库搭配中，它绝大多数作定语修饰抽象事件、动机或细节（如 sordid motives, sordid details, sordid business），极少直接修饰指代专业职务或政治施事者的个体名词（*sordid operative 是非典型且违背母语搭配直觉的表达）。",
+      "squalid": "错误。squalid 主要指环境极端脏乱恶臭或境遇悲惨污秽（squalid living conditions），即便引申至道德层面也多指因悲惨退化而导致的下流肮脏，无法用于修饰出入高层政界的高端利益游说操盘手。"
+    },
+    "translation": "在彻查了这名卑劣下作的政治操盘手如何利用伪造档案换取利润丰厚的国防合同后，道德委员会认定，此类腐败的权力寻租伎俩严重破坏了政府的廉洁公信力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_03",
+    "group_id": 342,
+    "group_name": "wicked, heinous, ungodly, villainous",
+    "level": "TEM-8",
+    "target_word": "wicked",
+    "question": "Distinguishing between human frailty and genuine malevolence, the ethicist argued that while weakness prompts occasional moral failure, a thoroughly ___ disposition actively adopts the subversion of virtue as its guiding principle of conduct.",
+    "options": [
+      "wicked",
+      "heinous",
+      "ungodly",
+      "villainous"
+    ],
+    "answer": "wicked",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The academic philosophical context distinguishes structural moral corruption from mere weakness, modifying 'disposition' with an explicit orientation toward 'guiding principle of conduct'—aligning precisely with Merriam-Webster's definition of 'wicked' as 'morally bad in principle or practice'.",
+    "distractor_analysis": {
+      "wicked": "正确。wicked 精确呼应韦氏词典的核心释义：“在原则或实践中道德败坏”（morally bad in principle or practice），强调意志或品质根基上的系统性堕落。在德性伦理学语境中，'wicked disposition' 是规范学术搭配，特指将作恶与践踏美德上升为指导原则的内在品性。",
+      "heinous": "排除。heinous 侧重指行为或罪行极其凶残、令人发指（extraordinarily wicked or atrocious），只能用于修饰外部可见的具体暴行（如 heinous crime, heinous atrocity），不能与内在心智倾向或性格（disposition）搭配，在此产生范畴错配（category error）。",
+      "ungodly": "排除。ungodly 严格属于宗教神学语域，指“不敬神的、亵渎神明的”（impious, irreligious）或口语中表示“极端的、难以理喻的”（如 ungodly hour）。在纯粹讨论人类自主道德选择与德行原则的世俗哲学语境中，会产生明显的语体和语用割裂。",
+      "villainous": "排除。villainous 强调恶棍或反派角色的“卑劣、下作、背信弃义”（characteristic of a villain; base, treacherous），多用于文学叙事中修饰外貌、卑鄙计谋或低劣行径（如 villainous scheme），缺乏伦理哲学用于界定“根本原则上的道德恶”所需的严肃学术分量。"
+    },
+    "translation": "伦理学家在区分人类的性格弱点与纯粹的恶意时指出，软弱或许会引发偶尔的道德过失，但一种彻底邪恶的性情则会主动将颠覆美德奉为其行为的指导原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_04",
+    "group_id": 342,
+    "group_name": "wicked, heinous, ungodly, villainous",
+    "level": "TEM-8",
+    "target_word": "heinous",
+    "question": "In its final ruling, the international criminal tribunal determined that the coordinated extermination of displaced civilians constituted a ___ crime so exceptionally atrocious that it permanently affronted the collective conscience of mankind.",
+    "options": [
+      "wicked",
+      "heinous",
+      "ungodly",
+      "villainous"
+    ],
+    "answer": "heinous",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The juristic context of an 'international criminal tribunal' combined with 'so exceptionally atrocious that it permanently affronted the collective conscience' serves as the decisive anchor for 'heinous', which uniquely designates crimes of shocking and abhorrent cruelty in international law.",
+    "distractor_analysis": {
+      "heinous": "正确。heinous 指“极度凶残、耸人听闻、激起公众极大愤慨的”（hatefully or shockingly evil, grossly atrocious）。在国际刑法和人权司法文书中，'heinous crime' 是指代种族灭绝、屠杀等反人类暴行的法定高频专有搭配，与后文的 'exceptionally atrocious' 和 'affronted the collective conscience' 形成绝对互锁。",
+      "wicked": "排除。wicked 侧重内在道德评价或哲学探讨，用于指称国际法庭裁决下的反人类种族屠杀罪行时，缺乏刑法术语所要求的极端严酷感与震撼性（atrociousness），在正式司法判决语体中显得语义过轻且过于泛化。",
+      "ungodly": "排除。ungodly 指违背神圣教义或不信上帝的（impious, unholy），属于宗教裁判所用语。现代世俗国际司法机构（international criminal tribunal）绝不会以宗教违诫为由定罪，代入该词会造成严重的司法与语义逻辑冲突。",
+      "villainous": "排除。villainous 带有戏剧化反派的“卑鄙无耻、阴险奸诈”（base, scurrilous）色彩，通常描写个人品行恶劣或卑劣背叛，将其用于指控有组织屠杀平民的国家级战犯暴行，会产生轻浮的戏剧戏谑感，严重破坏法律文本的庄严语体。"
+    },
+    "translation": "国际刑事法庭在终审判决中裁定，针对流离失所平民的有组织灭绝行为构成了一项极其残暴的罪行，其凶残程度永远亵渎了全人类的集体良知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_05",
+    "group_id": 343,
+    "group_name": "adamant, inexorable, inflexible, intransigent",
+    "level": "TEM-8",
+    "target_word": "adamant",
+    "question": "Despite mounting institutional pressure and scathing peer critiques, the cognitive scientist remained ___ that conscious experience cannot be fully reduced to neurochemical impulses, fiercely defending his non-reductive physicalist framework.",
+    "options": [
+      "adamant",
+      "inexorable",
+      "inflexible",
+      "intransigent"
+    ],
+    "answer": "adamant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the declarative complementation pattern 'remained [___] that conscious experience cannot be fully reduced...'. Among the four cluster words, only 'adamant' canonically licenses a finite that-clause complement expressing an unshakable subjective cognitive conviction.",
+    "distractor_analysis": {
+      "adamant": "正确。MW将其定义为'unshakable or insistent especially in maintaining a position or opinion'。在句法层面上，adamant是本组词中唯一可以后接that引导的名词性从句（content clause）作表语的形容词（常用于be/remain adamant that...），表示'坚决主张……、对……深信不疑且绝不动摇'。语境中科学家顶住学术抨击、坚守其认知理论，语义与句法结构均高度契合。",
+      "inexorable": "错误。词源为in-（不）+ exorabilis（可恳求的），核心语义指客观力量、自然法则或历史进程'不可阻挡的、冷酷无情的'（如inexorable advance/decline），主要修饰无生命的事物或趋势，既无法用于描述人类主观坚守的学术信念，在句法上也绝对不接that从句（无*inexorable that用法）。",
+      "inflexible": "错误。意为'不可弯曲的；僵硬不可改变的'，侧重指物理硬度，或规则、制度、安排刻板而缺乏弹性（如inflexible rules/schedule）。其补足语通常为介词短语（如inflexible in/about），不遵循*inflexible that的句法补足模式，且缺乏adamant所特有的'面对质疑时积极发声、坚决主张'的主观辩护色彩。",
+      "intransigent": "错误。源自transigere（达成妥协），专指在政治、谈判或争议中'顽固不化、拒不妥协的'（refusing to compromise），侧重于行为态度上的不让步。在句法上，intransigent不能后接that声明性从句（*intransigent that为严重语病），因而无法与后文的从句形成合法搭配。"
+    },
+    "translation": "尽管面临着日益增大的学术机构压力与同行严厉的批评，这位认知科学家仍然坚信意识体验绝不能被完全简化为神经化学冲动，并竭力捍卫他的非还原物理主义理论框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_06",
+    "group_id": 343,
+    "group_name": "adamant, inexorable, inflexible, intransigent",
+    "level": "TEM-8",
+    "target_word": "inexorable",
+    "question": "Despite rigorous cognitive rehabilitation and aggressive therapeutic interventions, the patient experienced an ___ decline in working memory capacity, underscoring the irreversible neurodegenerative trajectory characteristic of late-stage cerebral amyloid angiopathy.",
+    "options": [
+      "adamant",
+      "inexorable",
+      "inflexible",
+      "intransigent"
+    ],
+    "answer": "inexorable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'an [___] decline' qualified by 'Despite... therapeutic interventions' and echoed by 'irreversible neurodegenerative trajectory'. The context demands an adjective that denotes an unstoppable, relentless downward progression that cannot be averted by any external effort or entreaty.",
+    "distractor_analysis": {
+      "inexorable": "正确。MW定义为'not to be persuaded, moved, or stopped; relentless'。该词常与decline, progress, march, logic等名词构成高频学术搭配（inexorable decline），专门形容某种毁灭性趋势、疾病恶化或历史进程'势不可遏的、不可逆转的、任凭人为干预也无法阻止的'。句中'Despite... interventions'（尽管采取了医疗干预）与'irreversible trajectory'（不可逆轨迹）构成了决定性的排他锚点，精准印证inexorable的核心意涵。",
+      "adamant": "错误。语义选择限制不符。adamant指人'坚定不移的、坚持主张的'或比喻性指矿石'坚不可摧的'（如a heart of adamant），其施用主体必须具备自主意识与主观意志，绝不能修饰像decline（机能衰退）这类无生命的病理学演变过程（*an adamant decline属于范畴错误）。",
+      "inflexible": "错误。意为'刚硬不可折弯的'或'不可变更的'（如inflexible spine, inflexible policy），着眼于静态的刚性与不可调和性。而decline是一种持续向下的动态恶化过程，英语中不可搭配*inflexible decline，此处混淆了'缺乏弹性的刚性'与'不可逆止的动态恶化'。",
+      "intransigent": "错误。语义仅限于描述具有意识的政治党派、协商者或个体在冲突中'拒绝妥协与调和'（uncompromising）。认知机能的退化过程不具有人格与博弈意愿，使用intransigent修饰decline属于严重的拟人化范畴错配（category mistake）。"
+    },
+    "translation": "尽管接受了高强度的认知康复训练和积极的药物治疗干预，该患者的工作记忆能力仍经历了一种不可遏止的衰退，这凸显了晚期脑淀粉样血管病典型的不可逆神经退行性病程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_07",
+    "group_id": 344,
+    "group_name": "ardent, torrid, fervent, impassioned",
+    "level": "TEM-8",
+    "target_word": "ardent",
+    "question": "Regarded by peers as the most ___ bibliophile of his generation, the archivist scoured European sales for Renaissance folios, driven neither by solemn ideological piety nor rhetorical posturing, but by an insatiable aesthetic fascination with typography.",
+    "options": [
+      "ardent",
+      "torrid",
+      "fervent",
+      "impassioned"
+    ],
+    "answer": "ardent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LITERATURE_ARTS",
+    "anchor_clue": "The noun 'bibliophile' forms an established, idiomatic collocation with 'ardent' (denoting eager, warm zest for an intellectual or aesthetic pursuit). Furthermore, the double negative coordinators 'driven neither by solemn ideological piety nor rhetorical posturing' decisively disqualify both 'fervent' (which inherently demands solemn, moral, or devotional depth of feeling) and 'impassioned' (which applies strictly to vehement oratorical delivery or rhetorical expression). 'Torrid' is eliminated by its sensual/scorching denotation, while the closing phrase 'an insatiable aesthetic fascination' positively corroborates the warm, eager dedication distinctive to 'ardent'.",
+    "distractor_analysis": {
+      "ardent": "正确。ardent 源自拉丁语 ardere（燃烧），在修饰人的志趣与志向时，专指对某种世俗审美、学术领域或个人爱好的“热切投入与饱满热情”（characterized by warmth of feeling typically expressed in eager, zealous pursuit or activity）。在学术与文献学语境中，“ardent bibliophile（热忱的古籍爱好者/藏书家）”属于极具辨识度的标准典雅搭配；后文“insatiable aesthetic fascination with typography（对活字印刷工艺无可餍足的审美沉迷）”提供了精准的正面语义呼应。",
+      "torrid": "错误。torrid 本义为“酷热的、晒焦的”（如 torrid heat），在形容人或情感时特指“狂热放荡的、充满性爱肉欲的”（如 a torrid love affair / romance）或体育赛事中“白热化的”（a torrid pace）。用于修饰沉潜古籍研究与版本考证的藏书家（bibliophile），属于荒谬的范畴错配与语域断裂。",
+      "fervent": "错误。fervent 强调情感的“深沉、庄严与真诚”，其核心特征在于带有显著的“宗教虔敬、崇高道德或严肃意识形态信念”（stresses sincerity and depth of feeling, often of a religious, solemn, or moral character，如 fervent prayer, fervent believer, fervent hope）。一方面，对于图书、版画等物质文化遗产的鉴赏与搜集属于世俗智识追求，英语传统中并不使用带有神圣祈祷色彩的 fervent bibliophile；另一方面，句中明确设置了排他锚点“driven neither by solemn ideological piety（既非出于庄严的意识形态虔信）”，在义素上直接与 fervent 的核心特征抵触并将其证伪排除。",
+      "impassioned": "错误。impassioned 严格指代“在言辞、讲演、申辩或瞬间表态中所流露出的激昂、激越情感”（specifically applies to expression, speech, writing, or reaction showing intense feeling，如 an impassioned plea, an impassioned defense）。它不能用作修饰持久学术身份与志趣倾向的定语（不可说 an impassioned bibliophile）；同时，句中第二重负面排他锚点“nor rhetorical posturing（亦非出于修辞造势）”从语篇逻辑上彻底切断了 impassioned 所属的演说修辞维度。"
+    },
+    "translation": "这位档案学者被同侪视作他那一代人中最热忱的古籍爱好者；他寻遍欧洲拍卖会以搜求文艺复兴时期的古籍对开本，其动力既非源于庄严的意识形态虔信，亦非出于修辞造势，而是源于对活字印刷工艺无可餍足的审美沉迷。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_08",
+    "group_id": 344,
+    "group_name": "ardent, torrid, fervent, impassioned",
+    "level": "TEM-8",
+    "target_word": "torrid",
+    "question": "Historians revealed that the chancellor's ___ liaison with a foreign emissary—an entanglement marked by tumultuous erotic obsession and scorching emotional turbulence—severely compromised her government's leverage during the partition treaty.",
+    "options": [
+      "ardent",
+      "torrid",
+      "fervent",
+      "impassioned"
+    ],
+    "answer": "torrid",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The head noun 'liaison' (a clandestine romantic/sexual relationship) qualified by the appositive 'an entanglement marked by tumultuous erotic obsession and scorching emotional turbulence' decisively demands 'torrid', whose defining lexicographical sense encompasses scorching heat and intensely sensual, tumultuous passion (e.g., 'a torrid love affair').",
+    "distractor_analysis": {
+      "ardent": "错误。ardent 强调对理想、追求或支持对象的“热切忠诚与热忱奉献”（warm, eager emotional attachment），修饰人时可作 an ardent lover，但极少修饰 liaison 或 affair 来指代充满丑闻色彩、暴风雨般的肉体情欲关系。",
+      "torrid": "正确。torrid 源自拉丁语 torrere（烘烤、炙晒），在人际行为与情感语义场中特指“极度狂热的、肉欲炽烈的、暴风雨般动荡的情感关系”（ardently passionate; sensual, erotic），常与 affair 或 liaison 构成经典搭配（如 a torrid love affair）。破折号中的“tumultuous erotic obsession and scorching emotional turbulence（动荡的情欲沉迷与灼热的情感风暴）”提供了不可撼动的核心语义与意象锚点。",
+      "fervent": "错误。fervent 指发自内心的“深切、真挚、由衷甚至虔敬的情感”（stresses sincerity and depth of feeling, often solemn），常见于 fervent wishes、fervent prayer。该词带有道德庄重感或纯洁性，与涉及情欲纠葛（erotic obsession）、威胁国家利益的地下私通丑闻存在强烈的语义极性格格不入。",
+      "impassioned": "错误。impassioned 专指演讲、申辩、文字等表达行为中展现的“情绪激昂的”（如 an impassioned address/plea）。用其直接修饰男女之间的私密肉欲纠葛（liaison），在英语搭配规范（collocation）上不成立。"
+    },
+    "translation": "历史学家披露，大法官与一名外国特使之间那段充满肉欲狂热的私通——一段充斥着动荡情欲沉迷与灼热情感风暴的纠葛——严重削弱了她的政府在分治条约谈判中的制衡力量。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_09",
+    "group_id": 345,
+    "group_name": "assorted, motley, sundry, miscellaneous",
+    "level": "TEM-8",
+    "target_word": "assorted",
+    "question": "In their analyses of modern consumer capitalism, cultural historians emphasize that luxury confectioners packaged ___ chocolates in partitioned gift boxes, deliberately curating diverse flavors and textures into a unified aesthetic ensemble to entice bourgeois patrons.",
+    "options": [
+      "assorted",
+      "motley",
+      "sundry",
+      "miscellaneous"
+    ],
+    "answer": "assorted",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_CULTURE",
+    "anchor_clue": "The phrases 'partitioned gift boxes', 'deliberately curating diverse flavors and textures into a unified aesthetic ensemble', and the specific head noun 'chocolates' establish that items of the same general category are purposefully selected and grouped by variety, matching Merriam-Webster's exact defining usage of assorted ('consisting of various kinds of the same general type: a box of assorted chocolates'). All distractors are excluded due to stylistic clash or negative/disorganized connotations.",
+    "distractor_analysis": {
+      "assorted": "正确。Merriam-Webster将assorted精确释义为“consisting of various kinds; especially: consisting of various kinds of the same general type”（由同一大类中不同规格或风味挑选组合而成的，什锦的）。题干中“partitioned gift boxes”（带分隔格的礼盒）与“deliberately curating diverse flavors and textures into a unified aesthetic ensemble”（特意将不同风味与质感精选组合为一个和谐统一的审美整体）构成了决定性排他锚点。assorted chocolates为英语物质与商业文化中极为经典的固定搭配，精准传递出“在同一门类下系统挑选不同款式、成套陈列”的语义特质，契合文化史学术论述的典雅语域。",
+      "motley": "错误。motley 指“混杂不协调的、拼凑杂乱的”（composed of diverse, discordant, or incongruous elements），通常带有强烈的贬义或戏谑色彩，强调成分参差不齐、缺乏统整（如 a motley crew）。这与题干中的“luxury confectioners”（高档糖果商）和“unified aesthetic ensemble”（和谐统一的审美整体）在修辞色彩与逻辑内涵上产生直接冲突。",
+      "sundry": "错误。sundry 属于偏古旧或事务/记账用语的限定词或形容词，意为“若干零星的”（various, several），通常修饰不确定数量的零散琐碎杂物（如 sundry expenses/matters）或用于固定搭配 all and sundry。它不能作为商品包装中表示“什锦精选”的修饰语，与 chocolates 搭配会造成严重的语域错位与搭配断裂。",
+      "miscellaneous": "错误。miscellaneous 指“未经分类的杂乱混合、杂项”（consisting of diverse things; unclassified; odds and ends having no single category），其核心义素在于“缺乏统一分类标准或属于无法归类的零散剩余”。若置于此处，miscellaneous chocolates 会强烈暗示为未按标准归类的残次下脚料或廉价散装混充糖果，与后文“deliberately curating... into a unified aesthetic ensemble”所强调的精致策展感与高端商品属性背道而驰。"
+    },
+    "translation": "文化史学家在分析现代消费资本主义时强调，高档糖果商将各式什锦巧克力装入带有隔层的礼盒中，特意将不同风味与质地精心组合为一个和谐统一的审美整体，以吸引资产阶级主顾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_10",
+    "group_id": 345,
+    "group_name": "assorted, motley, sundry, miscellaneous",
+    "level": "TEM-8",
+    "target_word": "motley",
+    "question": "Critics dismissed the author's epistemological framework as a ___ conglomeration of contradictory dogmas, arguing that such jarringly mismatched philosophical assumptions could never form a unified theory of consciousness.",
+    "options": [
+      "assorted",
+      "motley",
+      "sundry",
+      "miscellaneous"
+    ],
+    "answer": "motley",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'contradictory dogmas' and 'jarringly mismatched philosophical assumptions' decisively demand a descriptor denoting an incongruous, discordant, and ill-assorted mixture. Furthermore, the singular indefinite article 'a' phonotactically rules out 'assorted' and syntactically rejects 'sundry'.",
+    "distractor_analysis": {
+      "motley": "正确。MW释义为“composed of a haphazard and incongruous mixture of diverse elements”（由杂乱且互不协调的成分拼凑而成的）。句中“contradictory dogmas”（自相矛盾的教条）与“jarringly mismatched philosophical assumptions”（刺耳错位的哲学假设）构成了决定性的语义排他锚点，精准对应 motley 所独有的“成分冲突、生拼硬凑、极不协调”的贬义内涵；且 a motley conglomeration/assemblage 为学术批评中的高度地道搭配。",
+      "assorted": "错误。其一，assorted 意指“分类汇集的、成套搭配的”，词义呈中性或褒义，无法体现句中对理论框架“荒谬杂糅、自相矛盾”的严厉批判；其二，assorted 以元音音素 /ə/ 开头，若置于空缺处将与前面的不定冠词“a”产生直接的音位与句法冲突（须用 an assorted）。",
+      "sundry": "错误。sundry 意为“各色各样的、若干的”，多为文雅古风或法律用词，语法上通常直接作限定词修饰复数名词（如 sundry persons/items），极少与不定冠词 a 连用修饰单数集合名词（*a sundry conglomeration 极不合现代英语语法规范）；此外该词纯粹描述多样性，毫无内部冲突或不调和之贬义色彩。",
+      "miscellaneous": "错误。miscellaneous 侧重“未分类的、由各种不同性质事物构成的”（having varied aspects or traits），属于中性的事实描述（如 miscellaneous documents），缺乏 motley 所特有的“要素互不相容、刺耳冲突（jarringly mismatched）”的强烈贬抑特征，无法支撑句中严厉的哲学批判张力。"
+    },
+    "translation": "批评家们将该作者的认识论框架贬斥为由自相矛盾的教条拼凑而成的乌合之物，认为此类极不协调的哲学假设绝不可能构成一个统一的意识理论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_11",
+    "group_id": 346,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "balmy",
+    "question": "Environmental psychologists observed that prolonged exposure to the island's ___ maritime air and moderate temperatures significantly reduced sensory overload, thereby fostering cognitive restoration among patients recovering from chronic nervous exhaustion.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "balmy",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The adjective coordinates with 'moderate temperatures' to describe 'maritime air' that alleviates 'sensory overload' and enables 'cognitive restoration'. In formal scientific and literary registers, 'balmy' uniquely denotes soothing, mild, and restorative atmospheric qualities (from 'balm'). In contrast, 'daft', 'buggy', and 'haywire' are restricted to informal/slang domains of derangement, glitches, or mechanical breakdown, creating severe register clashes and semantic absurdities.",
+    "distractor_analysis": {
+      "balmy": "正确项。在正式学术与高级书面语境中，balmy 的标准本义为“（气候、空气等）温和宜人的，如香膏般令人舒适放松的”（Merriam-Webster: having the qualities of balm : SOOTHING; MILD, TEMPERATE）。在此处修饰 maritime air，与 moderate temperatures（适度气温）构成严谨的语义并列，并同后文“减轻感官过载、促进认知康复（fostering cognitive restoration）”形成因果呼应，完全契合认知环境心理学实证研究的庄重语域。",
+      "daft": "干扰项。主要为英式口语/非正式用语，意为“愚蠢的，荒谬的”（foolish, silly），属于对人类行为或智力认知的口语化负面评价，既无法修饰自然界的“空气（maritime air）”，更严重违背严肃学术报告的文体语域。",
+      "buggy": "干扰项。属于计算机领域的非正式技术行话（指软件多漏洞、故障频出的）或字面义“多虫的”。置于此处修饰具有疗愈效果的海洋空气，会产生荒诞的语意断裂（“多故障的/多虫的空气”），不符合学术语境。",
+      "haywire": "干扰项。属于非正式表语形容词，通常只能与 go/run 搭配（go haywire 意为“失灵，陷入混乱”）。语法上不能直接作定语修饰 air（*haywire maritime air 为严重搭配不当），且语义上表示“失控、紊乱”，与句中抚慰神经、促进心理康复的正向语境完全相悖。"
+    },
+    "translation": "环境心理学家观察到，长期置身于该岛温和宜人的海洋空气与适度气温之中，显著减轻了感官过载，从而促进了正在从慢性神经衰弱中恢复的患者的认知功能康复。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_12",
+    "group_id": 346,
+    "group_name": "balmy, daft, buggy, haywire",
+    "level": "TEM-8",
+    "target_word": "daft",
+    "question": "Although proponents championed the deregulatory bill as an economic catalyst, prominent fiscal commentators argued that it was fundamentally ___ to assume market self-correction could prevent systemic banking collapses without robust oversight.",
+    "options": [
+      "balmy",
+      "daft",
+      "buggy",
+      "haywire"
+    ],
+    "answer": "daft",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic anchor is the extraposed epistemic evaluation frame 'it was fundamentally ___ to assume [that]...'. In British intellectual journalism (e.g. The Economist, Financial Times), 'daft' is the established term to brand an uncritical policy assumption as utterly foolish and lacking common sense. 'Haywire' is syntactically barred from taking an extraposed to-infinitive complement (*it was haywire to assume*); 'buggy' is semantically confined to software glitches; and 'balmy' means mild/soothing, rendering the policy critique nonsensical.",
+    "distractor_analysis": {
+      "daft": "正确项。在《经济学人》（The Economist）等高级政经期刊的经典英式高阶文体中，daft 常用作极具表现力的批判性形容词，指某项公共政策假设“极不明智的，缺乏常识的，荒谬愚蠢的”（lacking common sense, preposterously foolish）。在句法上，daft 完美切入“it was fundamentally daft to assume that...”的形式主语追加不定式认知评价结构。",
+      "balmy": "干扰项。在标准书面语中，balmy 核心词义为“（气候）温和的，令人惬意的”（mild, temperate），用于形容经济假设会导致严重的语义逻辑错乱。即便在其口语引申义（作为 barmy 的变体，意为“发疯的，古怪的”）中，也带有陈旧俚语色彩，无法嵌入严肃宏观经济评论的理性批判句式中。",
+      "buggy": "干扰项。词义局限于软件程序“存在代码漏洞的”（glitchy, defect-ridden）或环境“充满昆虫的”，属于技术或俚语语域，根本无法用作评价宏观经济假设或人类理性推断的认知形容词（cannot predicate an epistemic assumption）。",
+      "haywire": "干扰项。存在致命的句法违例。haywire 是典型的非动态表语形容词（predicative adjective），几乎只能与 go, run, turn 等动态连系动词连用表示系统或机械“失控、发生故障”（如 systems went haywire），在英语句法中绝对不能支配不定式形式主语从句（*it is haywire to do sth. 为严重语法错误）。"
+    },
+    "translation": "尽管支持者将该放松管制的法案奉为经济催化剂，但知名财政评论员指出，若无强有力的监管，就妄断市场自我纠偏机制能够防范系统性银行崩溃，从根本上讲是极其荒谬愚蠢的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_13",
+    "group_id": 347,
+    "group_name": "combustible, flammable, incendiary, inflammable",
+    "level": "TEM-8",
+    "target_word": "combustible",
+    "question": "Cognitive models of industrial risk appraisal categorize heavy timber and compacted coal as strictly ___, since these dense solids require sustained thermal exposure to ignite, unlike volatile solvents that burst into flames spontaneously.",
+    "options": [
+      "combustible",
+      "flammable",
+      "incendiary",
+      "inflammable"
+    ],
+    "answer": "combustible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中通过 'require sustained thermal exposure to ignite'（需要持续受热方能起火）与后文 'unlike volatile solvents that burst into flames spontaneously'（不同于自发迅速爆燃的挥发性溶剂）形成决定性语义对照。在物质燃烧分类与风险认知中，combustible 仅指‘可燃的’（能在高温下燃烧，但不一定易燃），而 flammable 和 inflammable 则特指‘易燃的’（低燃点、极易迅速引燃）。因此仅 combustible 符合此分类特征。",
+    "distractor_analysis": {
+      "combustible": "正确。combustible 指‘可燃的’，即物质能够发生氧化燃烧，但并不强调点火的容易程度。木材与煤炭属于典型的 combustible 材料，必须经受持续高温受热才能点燃，与后文挥发性溶剂形成精确对照。",
+      "flammable": "错误。flammable 强调‘易燃的、低闪点的’，指在常温或轻微火星接触下即能迅速剧烈起火（如汽油、稀释剂）。原句明确指出木材与煤炭需要持续受热（sustained thermal exposure），绝非 flammable 物料。",
+      "incendiary": "错误。incendiary 指‘纵火的、燃烧弹的’或比喻意义上的‘煽动性的’，具有明确的攻击性、人为主观制造火灾或引发冲突的内涵，不可用于客观描述自然固体燃料的物理可燃属性。",
+      "inflammable": "错误。inflammable 与 flammable 同义，均表示‘易燃的、极易着火的’（拉丁前缀 in- 在此为强调而非否定），同样无法用于描述需要持续受热才燃烧的厚重木材与煤炭。"
+    },
+    "translation": "工业风险评估的认知模型将重型木材和压实煤块严格归类为可燃物，因为这些致密固体需要持续受热方能被点燃，不同于那些遇微火即可瞬间起火的挥发性溶剂。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_14",
+    "group_id": 347,
+    "group_name": "combustible, flammable, incendiary, inflammable",
+    "level": "TEM-8",
+    "target_word": "flammable",
+    "question": "Cognitive ergonomics researchers discovered that warehouse handlers perceived low-flashpoint chemical solvents as far more hazardous when labeled ___, because the transparent root word immediately signaled rapid, ambient ignition without linguistic confusion.",
+    "options": [
+      "combustible",
+      "flammable",
+      "incendiary",
+      "inflammable"
+    ],
+    "answer": "flammable",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心线索包含两层：其一是物理属性 'low-flashpoint chemical solvents' 与 'rapid, ambient ignition'（低闪点化学溶剂、常温迅速引燃），锁定‘易燃’而非广义‘可燃’；其二是认知语言学线索 'transparent root word'（词根透明清晰）与 'without linguistic confusion'（无语言歧义），精确指向现代工业界为消除 inflammable 中前缀 in- 被误解为否定前缀（not burning）的认知隐患而统一推行的词汇 flammable。",
+    "distractor_analysis": {
+      "flammable": "正确。flammable 指‘易燃的’（低闪点并在常温下遇火即燃）。在认知人机工程学与安全标示中，flammable 的词根 flame 直观透明，成功消除了工人误将 in- 理解为否定前缀的认知偏差，完全契合题干所有锚点。",
+      "combustible": "错误。combustible 仅指广义上的‘可燃物’，无法体现低闪点溶剂在常温下‘迅速引燃’（rapid, ambient ignition）的高危险性特征，且其词根源于拉丁语 combust-，并非工人们一目了然的‘transparent root word’。",
+      "incendiary": "错误。incendiary 指‘煽动性的’或‘专用于纵火造祸的燃烧装置’，仓储化学品安全警示标签属于民用工业合规体系，绝不会使用具有军事袭击或犯罪意味的 incendiary 标签。",
+      "inflammable": "错误。虽然 inflammable 在物理意义上也是‘易燃的’，但其前缀 in- 极易诱导人们产生反向认知误判（误以为是不燃的），句中 'without linguistic confusion' 与 'transparent root word' 在语意上对其形成了绝对排斥。"
+    },
+    "translation": "认知人机工程学研究人员发现，当低闪点化学溶剂被贴上‘易燃’（flammable）标签时，仓库装卸工会认为其危险性要高得多，因为其直观的词根能够迅速传递常温快速起火的信息，且不会引发语言认知混淆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_15",
+    "group_id": 348,
+    "group_name": "foul, wicked, repellent, offensive",
+    "level": "TEM-8",
+    "target_word": "foul",
+    "question": "In their epistemological critique of modern academia, the authors argue that nonconformist researchers inevitably fall ___ of institutional peer-review cartels, suffering systematic marginalization despite the verifiable empirical validity of their scholarship.",
+    "options": [
+      "foul",
+      "wicked",
+      "repellent",
+      "offensive"
+    ],
+    "answer": "foul",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定动介搭配“fall ___ of”（触犯、与……发生冲突）。四个选项中，仅形容词 foul 能构成具有特定制度冲突语义的固定成语搭配 fall foul of，其余三个词均无法与 fall ... of 连用，存在决定性句法排他性。",
+    "distractor_analysis": {
+      "foul": "正确。foul 在此用于固定学术/正式表达“fall foul of”，源于航海中两船缠绕碰撞，后引申为“触犯规章、与权威或既得利益集团发生冲突”。句子意指特立独行的研究者往往会触犯体制化的同行评审垄断集团，语义与语法均完美吻合。",
+      "wicked": "错误。wicked 核心语义为“邪恶的、道德败坏的”，英语中不存在“*fall wicked of”的句法结构，产生严重的搭配断裂与句法违规。",
+      "repellent": "错误。repellent 意为“令人厌恶的、排斥的”，其后通常接引起反感的事物，无法与动词 fall 及介词 of 构成“*fall repellent of”结构，存在句法排斥。",
+      "offensive": "错误。offensive 意为“冒犯的、令人不快的”，习惯搭配介词 to（如 offensive to reason），英语中绝对没有“*fall offensive of”的用法，语法上不成立。"
+    },
+    "translation": "在对现代学术界的认识论批判中，作者们指出，特立独行的研究者不可避免地会触犯体制化的同行评审垄断集团，尽管其学术成果具有可证实的实证有效性，却依然遭受系统性的边缘化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_16",
+    "group_id": 348,
+    "group_name": "foul, wicked, repellent, offensive",
+    "level": "TEM-8",
+    "target_word": "wicked",
+    "question": "In cognitive systems theory, climate change and wealth disparity are conceptualized as ___ problems, exhibiting boundless complexity, contradictory stakeholder values, and an inherent resistance to definitive, reproducible solutions.",
+    "options": [
+      "foul",
+      "wicked",
+      "repellent",
+      "offensive"
+    ],
+    "answer": "wicked",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "认知系统论与公共政策领域的经典专门术语“___ problems”。后文后置定语“exhibiting boundless complexity, contradictory stakeholder values, and an inherent resistance to definitive, reproducible solutions”正是设计理论家 Horst Rittel 对“wicked problems（棘手问题/恶疾问题）”的经典学术定义，具有唯一术语锁定性。",
+    "distractor_analysis": {
+      "wicked": "正确。在认知科学、系统论与政策设计领域，“wicked problems（棘手问题）”是不可替代的经典术语，特指因信息不完备、利益诉求矛盾且动态变化而无法通过常规线性思维彻底解决的复杂系统难题。句中对其特征的学术界定直接锁定了该词。",
+      "foul": "错误。foul 强调感官恶臭、物理污秽或道德上的卑鄙下流（如 foul play），与系统认知理论中的“复杂性难题”毫无语义重合，搭配“*foul problems”属于严重语域错配与搭配断裂。",
+      "repellent": "错误。repellent 强调因令人作呕或冰冷生硬而使人“退避三舍、产生排斥感”（arousing intense aversion），不能用来指涉需要分析应对的系统性复杂难题，“*repellent problems”在学术语境中毫无理据。",
+      "offensive": "错误。offensive 侧重于主观上“引起冒犯、令人反感或造成不适”（causing resentment or insult），气候变化与贫富分化属于客观的结构性系统难题，而非单纯在人际或感官上“冒犯人的问题”，搭配严重失当。"
+    },
+    "translation": "在认知系统理论中，气候变化与财富差距被界定为“棘手问题”（wicked problems），表现出无限的复杂性、相互冲突的利益相关方价值观，以及对确定性、可复现解决方案的固有抗拒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_17",
+    "group_id": 349,
+    "group_name": "obscene, repugnant, repulsive, offensive",
+    "level": "TEM-8",
+    "target_word": "obscene",
+    "question": "Amid deepening national austerity and soaring household debt, social theorists denounced the ___ profits amassed by private monopolies, explicitly framing such exorbitant financial excess as a direct affront to egalitarian justice.",
+    "options": [
+      "obscene",
+      "repugnant",
+      "repulsive",
+      "offensive"
+    ],
+    "answer": "obscene",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates decisively with 'profits' in economic discourse, reinforced by the subsequent co-referential anchor 'such exorbitant financial excess' (referring to a morally intolerable display of gross, disproportionate excess).",
+    "distractor_analysis": {
+      "obscene": "【正确】在此处取韦氏词典的高级引申义“（数额、财富等）大得令人发指的、过分到道德上不可容忍的（so excessive as to be intolerable）”。在政经评论与学术语域中，“obscene profits”（令人发指的暴利）是高度固化的经典搭配，与后文的“such exorbitant financial excess”形成语义上的无缝照应。",
+      "repugnant": "【错误】意为“令人反感的、令人厌恶的”或“与……相抵触的”，核心强调道德原则或逻辑上的绝不相容，通常作表语接介词 to（如 repugnant to reason），极少用作前置定语直接修饰 financial profits 来表达“数量规模极其过分”。",
+      "repulsive": "【错误】侧重生理感官上的恶心、击退或强烈的排斥感（如 repulsive smell/behavior），修饰抽象的商业利润（profits）属于语义范畴错配，无法表达“因数额极端过度而激起道德公愤”的特定内涵。",
+      "offensive": "【错误】意为“冒犯性的、得罪人的”，其语义焦点在于人际间的礼貌失范或感官不适；在商业经济语境中，“offensive”常作为策略术语（意为“进攻性的”，如 offensive marketing），修饰 profits 既无法表达“暴利”之意，亦无法呼应后文的 exorbitant excess。"
+    },
+    "translation": "在国家紧缩政策不断深化、家庭债务急剧飙升的背景下，社会理论家们公开谴责私人垄断集团所攫取的骇人暴利，明确将这种过度的资本泛滥定性为对平等正义的直接践踏。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_18",
+    "group_id": 349,
+    "group_name": "obscene, repugnant, repulsive, offensive",
+    "level": "TEM-8",
+    "target_word": "repugnant",
+    "question": "The appellate tribunal invalidated the surveillance statute, declaring its sweeping encroachment on private communication to be fundamentally ___ to the constitutional guarantee of individual liberty and inherently irreconcilable with established jurisprudence.",
+    "options": [
+      "obscene",
+      "repugnant",
+      "repulsive",
+      "offensive"
+    ],
+    "answer": "repugnant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The formal jurisprudential frame 'fundamentally ___ to the constitutional guarantee... and inherently irreconcilable with established jurisprudence' demands a term strictly meaning 'incompatible, inconsistent' (MW definition 1a).",
+    "distractor_analysis": {
+      "repugnant": "【正确】具有专门的法学与哲学释义：“与……相矛盾的、互不相容的（incompatible, inconsistent — used with to）”，如经典宪法法理表述“a law repugnant to the constitution”。后文的并列平行成分“and inherently irreconcilable with established jurisprudence”（与既定法理从根本上不可调和）构成了决定性的语义与句法锚点。",
+      "obscene": "【错误】主要指“淫秽的、猥亵的”或“过分到荒谬的”，不能与介词 to 构成表示“与法律或宪法原则相抵触、不相容”的固定法理搭配，语法与词义均不符合语境。",
+      "repulsive": "【错误】指激起生理排斥或感官反感，其搭配“repulsive to”通常指向人的感官或知觉（如 repulsive to the senses/sight），绝不能用于描述法律法规与宪法保障之间的根本法理冲突。",
+      "offensive": "【错误】虽可接介词 to 表示“令人不快的、对……构成冒犯”，但侧重于主观情感或尊严上的冒犯（causing displeasure or resentment），不具备宪法学上因“法律条款根本抵触与不相容（inconsistent/irreconcilable）”而导致法规归于无效（doctrine of repugnancy）的排他性法学专业内涵。"
+    },
+    "translation": "上诉法庭裁定该监控法规无效，宣布其对私人通信的大范围侵犯在根本上与宪法赋予的个人自由相抵触，且与既定法理从根本上不可调和。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_19",
+    "group_id": 350,
+    "group_name": "prudent, heady, discreet, provident",
+    "level": "TEM-8",
+    "target_word": "prudent",
+    "question": "Amid escalating border skirmishes and fiery nationalist rhetoric, the prime minister deemed it ___ to withdraw frontline heavy artillery, calculating that strategic de-escalation was the only reliable means to avert an unintended war.",
+    "options": [
+      "prudent",
+      "heady",
+      "discreet",
+      "provident"
+    ],
+    "answer": "prudent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The decisive syntactic and semantic anchor is 'deemed it ___ to withdraw frontline heavy artillery, calculating that strategic de-escalation was the only reliable means to avert an unintended war'. This requires an adjective denoting practical wisdom, circumspection, and risk avoidance ('prudent'). 'Heady' (rash/intoxicating) is an antonym; 'discreet' (unobtrusive/tactfully secretive) clashes with an overt military withdrawal; and 'provident' (thrifty/saving material resources for future want) is inapplicable to strategic conflict management.",
+    "distractor_analysis": {
+      "prudent": "正确。意为“审慎的、明智的、克制避险的”，强调在面对重大风险与危机时展现出深谋远虑的实际判断力，避免鲁莽行动。句中“calculating that strategic de-escalation was the only reliable means to avert an unintended war”（判定战略降温是避免非意图性战争的唯一可靠途径）构成了绝对语义锚点，与正式政论语篇中经典的“deem it prudent to do sth”（认为做某事是审慎明智之举）高度契合。",
+      "heady": "错误。意为“使人兴奋发昏的、令人陶醉的”或“轻率鲁莽的、暴躁冲动的”。撤回重型火炮以缓和危局属于冷静克制、规避冲突的高级理性行为，与 heady 所代表的狂热冲动或致人眩晕的语义极性恰好相反（句中煽动冲突的‘fiery nationalist rhetoric’才具有 heady 特征）。",
+      "discreet": "错误。意为“言行谨慎的、低调隐秘的、不引人注目的”，核心在于社交或行为中保持克制以避免引起尴尬、非议或过度注意（tactful and unobtrusive）。双边边境大批撤回重型火炮属于具有重大战略与舆论效应的公开军事举动，不属于个人隐私层面的“低调或保密”，语境不符。",
+      "provident": "错误。意为“顾及未来的、有远见的”，但其核心义项严格特化于“在财物、生计或资源上未雨绸缪、节俭积蓄以防未来匮乏”（frugal; saving resources for future needs）。撤走前线火炮以防战争爆发属于地缘政治危机管理，完全不涉及物资储蓄或财政紧缩，脱离了 provident 的专有语义场。"
+    },
+    "translation": "面对不断升级的边境摩擦和激进狂热的民族主义言论，首相认为撤回前线重型火炮是审慎之举，因为他判定战略降温是避免意外爆发战争的唯一可靠途径。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b34_20",
+    "group_id": 350,
+    "group_name": "prudent, heady, discreet, provident",
+    "level": "TEM-8",
+    "target_word": "heady",
+    "question": "Blinded by a ___ mix of ideological zeal and newfound authority, the young director disregarded procedural safeguards, implementing sweeping organizational changes that plunged the agency into administrative chaos.",
+    "options": [
+      "prudent",
+      "heady",
+      "discreet",
+      "provident"
+    ],
+    "answer": "heady",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The construction 'Blinded by a ___ mix of ideological zeal and newfound authority' provides an absolute collocational and semantic anchor. 'Heady mix' is a recognized idiomatic collocation denoting an intoxicating, dizzying combination that impairs clear judgment. 'Prudent' (cautious/judicious) and 'provident' (frugal/farsighted) logically contradict 'blinded' and the ensuing reckless behavior, while 'discreet' (unobtrusive/tactful) clashes directly with 'ideological zeal' and 'sweeping organizational changes'.",
+    "distractor_analysis": {
+      "prudent": "错误。意为“审慎稳妥的、深谋远虑的”。句首“Blinded by”（被……冲昏头脑/蒙蔽）明确指示此处的心理状态具有致盲性与非理性，后文“disregarded procedural safeguards”（无视程序保障）更体现了鲁莽盲动；这与象征高度理性、防范风险的 prudent 发生直接的逻辑断裂与极性冲突。",
+      "heady": "正确。意为“使人头晕目眩的、令人陶醉忘乎所以的；狂热冲动的”。‘a heady mix of...’（令人发昏陶醉的……混合体）是高级英语中极其地道的固定搭配，完美契合主语因沉浸在意识形态狂热与新得权柄中而“丧失清醒理智”（blinded）并引发行政混乱的上下文逻辑。",
+      "discreet": "错误。意为“言行谨慎的、低调隐秘的”。后文的“ideological zeal”（意识形态狂热）与“sweeping organizational changes”（大刀阔斧的激进组织变革）均展现出极端的张扬与激进，这与 discreet 所强调的“低调、克制、不张扬”的语义特征完全对立。",
+      "provident": "错误。意为“深谋远虑的、有节俭远见的”，侧重于物质财富的前瞻性规划与积累。该词既不能与由狂热和权力组成的抽象混合体（mix of zeal and authority）形成正态修饰搭配，也无法在语义上解释为何主管会被蒙蔽并导致系统瘫痪。"
+    },
+    "translation": "由于被意识形态狂热与新得权力的狂热交织冲昏了头脑，这位年轻的主管无视程序保障，推行激进的大规模机构改革，最终使该部门陷入行政瘫痪。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

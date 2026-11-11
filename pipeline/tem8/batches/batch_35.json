@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b35_01",
+    "group_id": 351,
+    "group_name": "scholarly, erudite, pedantic, studious",
+    "level": "TEM-8",
+    "target_word": "scholarly",
+    "question": "The rapid proliferation of predatory open-access platforms has destabilized the ecosystem of ___ publishing, undermining the rigorous peer-review mechanisms that historically guaranteed the credibility of scientific research.",
+    "options": [
+      "scholarly",
+      "erudite",
+      "pedantic",
+      "studious"
+    ],
+    "answer": "scholarly",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的“predatory open-access platforms”（掠夺性开放获取平台）、“the ecosystem of ___ publishing”（……出版生态）以及“rigorous peer-review mechanisms”（严谨的同行评议机制）构成了绝对排他的制度与行业语境。在学术界、图书馆学及高等教育标准中，“scholarly publishing”（学术出版）是不可替代的法定专门术语，特指以同行评议和学术规范为基础的研究成果发布体系。",
+    "distractor_analysis": {
+      "scholarly": "正确。指“学术的、符合学术规范的、学者治学所特有的”。在现代科研与学术交流体制中，“scholarly publishing”（学术出版）为权威固定搭配，指代依托同行评议（peer review）保障科学可信度的学术专著与期刊出版体系，完美吻合句中关于掠夺性期刊冲击学术出版生态的逻辑语境。",
+      "erudite": "错误。erudite（博学的、展现博览群书之学识的）侧重于形容个体知识渊博（如 an erudite scholar）或学术文本充满深奥典故与广博见识（如 an erudite disquisition），其修饰对象只能是人或具体言论/论著本身，绝不能用于修饰出版行业、制度机制或生态体系，“erudite publishing”存在严重的搭配断裂（collocational rupture）。",
+      "pedantic": "错误。pedantic（迂腐的、学究气的、泥古不化的）具有强烈的贬义倾向，指过分卖弄细枝末节的知识或死守琐碎规则。句中后半句明确指出该出版机制“保障了科学研究的可信度”（guaranteed the credibility of scientific research），语境属于完全正面的制度评价，代入 pedantic 会造成严重的语意与情感色彩冲突。",
+      "studious": "错误。studious（好学的、勤奋用功的；刻意的）核心语义指个体学习态度勤勉专注（如 a studious student），或形容某种刻意为之的举动（如 studious avoidance），完全无法修饰出版生态或科研制度，“studious publishing”不符合英语语义逻辑与搭配习惯。"
+    },
+    "translation": "掠夺性开放获取平台的迅猛滋生破坏了学术出版的生态系统，削弱了历史上曾保障科学研究可信度的严格同行评议机制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_02",
+    "group_id": 351,
+    "group_name": "scholarly, erudite, pedantic, studious",
+    "level": "TEM-8",
+    "target_word": "erudite",
+    "question": "Universally acknowledged as a philologist uniquely ___ in recondite Mesopotamian cuneiform, the curator was entrusted with transcribing damaged tablets whose esoteric royal annals had eluded the interpretive faculties of mainstream academic historians.",
+    "options": [
+      "scholarly",
+      "erudite",
+      "pedantic",
+      "studious"
+    ],
+    "answer": "erudite",
+    "primary_mechanism": "MECH_COLLIGATION",
+    "field": "FIELD_ACADEMIA",
+    "anchor_clue": "空后介词短语“in recondite Mesopotamian cuneiform”（在深奥冷僻的美索不达米亚楔形文字方面）构成了决定性的介词依存与搭配锚点（Colligation Anchor）。在英语词典（如 OED、Merriam-Webster）中，只有 erudite 能构成“erudite in + 学问/专门领域”的句法结构，表“深谙/精通某门深奥学问”；而 scholarly 绝不可接学科名词作介词宾语（*scholarly in cuneiform 属严重搭配破裂）。此外，“recondite”（深奥冷僻的）与“esoteric royal annals”（晦涩秘传的皇家编年史）精准呼应 erudite 强调精深博奥之学的核心语义。",
+    "distractor_analysis": {
+      "erudite": "正确。erudite（博学的、深谙…的）在此处完美契合句法与语义双重约束：① 句法上，erudite 具有固着性介词构式“erudite in + 学术/知识领域”（如 OED 收录的 erudite in classical antiquities / history），表示对特定领域有精深渊博的造诣；② 语义上，题干中的“recondite”（深奥冷僻的）与“esoteric royal annals”（秘传晦涩的皇家编年史）精准激活了 erudite 专指掌握罕见、艰深人文典籍与绝学（profound and recondite learning）的核心义素。",
+      "scholarly": "错误。① 句法介词破裂（Colligation Rupture）：scholarly 意为“学者风范的、学术性的”，用作表语接介词 in 时只能接表方式、风格或举止的名词（如 scholarly in tone / approach / demeanor），绝不能接具体学科名词作宾语（不可说 *scholarly in cuneiform）；② 语义上，scholarly 仅强调符合学术规范或学界惯例，而后文出现的“mainstream academic historians”（主流学术界历史学家）表明常规的学术素养根本无法胜任该泥板的释读，语义缺乏对“深奥绝学之通晓”的刻画。",
+      "pedantic": "错误。① 语义极性冲突（Semantic Prosody Clash）：pedantic（迂腐的、学究气的、好卖弄细枝末节的）是贬义词，而句首“Universally acknowledged”（举世公认）与后文“entrusted with transcribing damaged tablets”（被委以转录受损泥板之重任）构成明确的褒义学术推崇语境，填入 pedantic 会造成语篇逻辑的严重断裂；② 句法上 pedantic in 常接 rules/minutiae，不可接高深学科。",
+      "studious": "错误。① 语义层级不符：studious（勤勉的、好学的、刻苦用功的）侧重指学习态度上的勤奋与用功过程（如 a studious student），无法形容一位被学术界寄予厚望、攻克连主流学者都无法破解之难题的权威专家所具备的深厚学术造诣；② 句法受限：studious in 只能表示“刻意/小心做某事”（如 studious in avoiding errors），不能用于“studious in + 学科名词”。"
+    },
+    "translation": "作为举世公认深谙深奥美索不达米亚楔形文字的文献学家，这位策展人被委以转录受损泥板的重任；泥板上那些晦涩神秘的皇家编年史此前一直令主流学术界的历史学家们束手无策。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_03",
+    "group_id": 352,
+    "group_name": "temporal, mundane, mercenary, terrestrial",
+    "level": "TEM-8",
+    "target_word": "temporal",
+    "question": "Although the medieval pontiff claimed supreme ecclesiastical jurisdiction, his actual ability to enforce obedience in ___ affairs remained severely circumscribed by recalcitrant monarchs who fiercely defended their sovereign secular prerogatives.",
+    "options": [
+      "temporal",
+      "mundane",
+      "mercenary",
+      "terrestrial"
+    ],
+    "answer": "temporal",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The explicit conceptual juxtaposition between 'ecclesiastical jurisdiction' and 'sovereign secular prerogatives' strictly demands 'temporal', the canonical term designating civil/worldly authority as opposed to spiritual/sacred power.",
+    "distractor_analysis": {
+      "temporal": "正确。temporal 在政治思想与教会史语境中专门指“世俗的、俗世权力的”（与 spiritual/ecclesiastical 相对），与前文的“ecclesiastical jurisdiction”（教会管辖权）以及后文的“secular prerogatives”（世俗特权）形成严密的学术对仗，完美构成固定史学概念 temporal affairs（世俗政务）。",
+      "mundane": "错误。mundane 侧重于“平淡无奇的、琐碎乏味的”（dull and routine），多指日常世俗生活的琐碎细节（如 mundane chores），缺乏与“ecclesiastical”在法理与统治权能层面的庄重对立，置于宏观政治史语境中显得语域不合。",
+      "mercenary": "错误。mercenary 意为“唯利是图的、金钱至上的”，带有强烈的道德贬义色彩，置于此处会把王权与教权的管辖权争议曲解为“贪图金钱的事务”，严重扭曲原句客观严肃的历史政治学论述。",
+      "terrestrial": "错误。terrestrial 属于自然科学或宇宙学维度的“地球的、陆栖的”（与 celestial/aquatic 相对），无法用于界定世俗政权与宗教体制的权力管辖分野。"
+    },
+    "translation": "尽管中世纪教皇宣称拥有最高教会管辖权，但他把控世俗事务的实际执行力仍旧受到桀骜不驯的君主们的严重钳制，后者极力捍卫自身独立的世俗统治特权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_04",
+    "group_id": 352,
+    "group_name": "temporal, mundane, mercenary, terrestrial",
+    "level": "TEM-8",
+    "target_word": "mundane",
+    "question": "While political theorists often rhapsodize about sweeping constitutional reforms, the sustainability of any nascent democracy ultimately hinges upon the far more ___ task of managing municipal sanitation and civil registries.",
+    "options": [
+      "temporal",
+      "mundane",
+      "mercenary",
+      "terrestrial"
+    ],
+    "answer": "mundane",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The rhetorical contrast between idealized, elevated discourse ('rhapsodize about sweeping constitutional reforms') and routine, unglamorous civic maintenance ('managing municipal sanitation and civil registries') requires 'mundane' to denote ordinary, humdrum reality.",
+    "distractor_analysis": {
+      "mundane": "正确。mundane 意为“平淡平凡的、日常琐碎的”，在学术散文与政治评论中常用于指代枯燥、繁琐却不可或缺的实际日常运作，与前半句中理论家对“宏大宪政改革”（sweeping constitutional reforms）的热切赞叹形成精妙的反差与互补。",
+      "temporal": "错误。temporal 强调“世俗的（非宗教的）”或“时间的”，句中并未设立宗教信仰与世俗权能的二元对比，亦无时间序列特征，用于修饰环卫和户籍管理等微观行政职能属于词义误用。",
+      "mercenary": "错误。mercenary 意为“图利的、唯利是图的”，用于描述个人贪婪动机或雇佣军性质，公共市政管理是基础行政职责，绝非贪图金钱私利的行为，褒贬色彩严重冲突。",
+      "terrestrial": "错误。terrestrial 意为“地球的、陆地上的”（与海洋或天体相对），属于生物学或地理学客观测度词汇，不能用以表征官僚行政琐事的性质。"
+    },
+    "translation": "尽管政治理论家们常常热衷于畅谈大刀阔斧的宪政改革，但任何新兴民主政体的可持续性，最终都取决于管理市政环卫与户籍登记这些平凡琐碎得多的基础工作。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_05",
+    "group_id": 353,
+    "group_name": "unsettled, vagrant, migrant, vagabond",
+    "level": "TEM-8",
+    "target_word": "unsettled",
+    "question": "Although the interdisciplinary symposium reached a tentative procedural consensus, the ontological status of artificial consciousness remains profoundly ___, with prominent neurophilosophers fiercely contesting whether algorithmic complexity can ever engender subjective experience.",
+    "options": [
+      "unsettled",
+      "vagrant",
+      "migrant",
+      "vagabond"
+    ],
+    "answer": "unsettled",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为抽象认知层面的哲学命题状态（the ontological status of artificial consciousness），且后文伴随分词状语“with prominent neurophilosophers fiercely contesting...”（神经哲学家们仍激烈争辩），决定了所填形容词必须表示“悬而未决的、尚未定论的”（not established or decided）。",
+    "distractor_analysis": {
+      "unsettled": "正确。该词在认知与学术语域中常用于修饰学术命题、地位或争议（如 unsettled question/status/issue），意为“未决定的；悬而未决的；尚未确立的”（not settled or established），精准契合后文学者激烈争辩、缺乏定论的语境。",
+      "vagrant": "错误。本义指“流浪的”，引申用于认知领域时表示“（思绪、注意力等）游移不定的、漫无目的的”（roving, wandering），常搭配 thoughts 或 attention，绝对不能作表语修饰学术争端或理论地位（status），存在严重的搭配断裂。",
+      "migrant": "错误。主要指生物或人群“随季节迁徙的”或“移居的”（如 migrant workers, migrant birds），专指物理地理空间的周期性位移，完全无法用于修饰抽象认知问题或理论定性。",
+      "vagabond": "错误。侧重指流浪汉式的、波西米亚式的或无固定居所的生活方式（leading a nomadic or footloose life），具有强烈的生活方式或社会学语境色彩，不能用于形容学术课题或哲学地位的未决状态。"
+    },
+    "translation": "尽管该跨学科专题研讨会达成了一项初步的程序性共识，但人工意识的本体论地位在很大程度上仍悬而未决，知名神经哲学家们仍在就算法的复杂性是否真能催生主观体验展开激烈争辩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_06",
+    "group_id": 353,
+    "group_name": "unsettled, vagrant, migrant, vagabond",
+    "level": "TEM-8",
+    "target_word": "vagrant",
+    "question": "During prolonged sensory deprivation experiments, subjects frequently experience a dissolution of voluntary focus, as ___ thoughts drift aimlessly across the cognitive periphery without any conscious narrative coherence.",
+    "options": [
+      "unsettled",
+      "vagrant",
+      "migrant",
+      "vagabond"
+    ],
+    "answer": "vagrant",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中由“dissolution of voluntary focus”（自主注意力涣散）与谓语搭配“drift aimlessly across the cognitive periphery”（在认知边缘漫无目的地漂移）构成强力语义锚点，特指注意力不受意志控制、“信马由缰、游移漫涣”的心智漫游现象，韦氏词典明确收录“vagrant thoughts”为其核心权威搭配。",
+    "distractor_analysis": {
+      "vagrant": "正确。作形容词用于心智认知领域时，特指“（思绪、意念等）游移漫游的、漫无目的的”（moving about without fixed direction: roving, wandering），韦氏词典专列“vagrant thoughts”为其经典用例，与句中的 drift aimlessly 构成严密的语义与修辞呼应。",
+      "unsettled": "错误。修饰心智或思维时，意为“心神不宁的、动荡不安的、混乱未定的”（troubled, agitated, or undecided），侧重于情绪上的焦虑扰动或决断上的摇摆，无法表达“思绪无拘束地随处飘移、散漫游荡”之意。",
+      "migrant": "错误。专门指人或动物出于生计或季节变化的“迁徙、移居”，属于生态学或社会经济学术语，严禁用于修饰思维或杂念（英语中无 *migrant thoughts 这一搭配）。",
+      "vagabond": "错误。指居无定所的、流浪放荡的生活方式（footloose, bohemian, or nomadic），具有强烈的社会人格色彩（如 a vagabond life），在认知心理学与正式学术语域中不能修饰注意力涣散所产生的游思杂念。"
+    },
+    "translation": "在长时间的感觉剥夺实验中，受试者经常会经历自主注意力的涣散，此时游移涣散的杂念在认知边缘漫无目的地漂移，毫无任何清醒的叙事连贯性可言。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_07",
+    "group_id": 354,
+    "group_name": "aberrant, deviant, deviate, abnormal",
+    "level": "TEM-8",
+    "target_word": "aberrant",
+    "question": "Recent neuroimaging studies lend robust empirical support to the ___ salience hypothesis, which posits that dysregulated dopamine transmission causes patients to misattribute profound significance to otherwise mundane sensory stimuli.",
+    "options": [
+      "aberrant",
+      "deviant",
+      "deviate",
+      "abnormal"
+    ],
+    "answer": "aberrant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Cognitive neuropsychiatry theoretical term of art: 'aberrant salience hypothesis' (异常显著性假说).",
+    "distractor_analysis": {
+      "aberrant": "正确。在认知神经精神病学与精神病理学中，'aberrant salience'（异常显著性）是由Shitij Kapur等学者奠定的固定理论术语，指多巴胺功能亢进导致患者对中性刺激产生不正常的动机显著性与认知归因，进而诱发妄想。'the aberrant salience hypothesis'构成了严格的专有学术命名与搭配，在此语境下具有排他性。",
+      "deviant": "错误。deviant主要用于社会学、犯罪学及道德伦理学语境，强调对社会公序良俗、法律法规或群体行为规范的主动背离与越轨（如deviant behavior 越轨行为），带有明显的价值评判或社会学属性，无法用于修饰神经认知知觉层面的显著性处理机制。",
+      "deviate": "错误。deviate主要作为不及物动词使用（常与from搭配），少数情况下作为名词表示“越轨者/变异体”；此处需要一个定语形容词修饰名词salience，deviate在词性与句法功能上完全不匹配，构成严重句法错误。",
+      "abnormal": "错误。abnormal虽可泛指生理或心理上的“不正常的、反常的”，但属于通用型描述词，缺乏该理论模型所要求的专有名词特异性；现代认知神经精神医学文献已将该理论模型统一定名为“aberrant salience hypothesis”，代入abnormal会破坏学术术语的规范性与准确度。"
+    },
+    "translation": "近期的神经影像学研究为‘异常显著性假说’提供了强有力的实证支持；该假说认为，失调的多巴胺传递会导致患者对原本平凡的感官刺激赋予极其深刻的意义。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_08",
+    "group_id": 354,
+    "group_name": "aberrant, deviant, deviate, abnormal",
+    "level": "TEM-8",
+    "target_word": "deviant",
+    "question": "Criminologists studying adolescent socialization observe that frequent exposure to ___ peer networks reinforces antisocial cognitive biases, compelling vulnerable youths to rationalize transgressions against legal statutes and institutional authorities.",
+    "options": [
+      "aberrant",
+      "deviant",
+      "deviate",
+      "abnormal"
+    ],
+    "answer": "deviant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Criminology and developmental sociology technical collocation: 'deviant peer networks' (越轨同伴网络) combined with 'antisocial cognitive biases' and 'transgressions against legal statutes'.",
+    "distractor_analysis": {
+      "deviant": "正确。在发展社会学与犯罪学理论（如差异交往理论与同伴越轨传染理论）中，'deviant peer networks'（越轨同伴网络）是成熟的经典术语，特指那些背离社会主流规范、法律准则并伴有反社会行为的群体。它与后文的'antisocial cognitive biases'（反社会认知偏差）和'transgressions against legal statutes'（违法违纪行为）形成精确的社会认知逻辑闭环。",
+      "aberrant": "错误。aberrant侧重于描述生理、神经、自然状态或统计数据偏离常规轨迹（如aberrant cells, aberrant chromosomal behavior），主要强调异常与非典型性，缺乏社会规范与法律背离的社会学指涉，不能与'peer networks'形成标准学科搭配。",
+      "deviate": "错误。deviate主要作动词（偏离，脱离），其在现代标准学术英语中极少作形容词使用；即使作形容词，其修饰现代社会学概念'peer networks'在句法和习惯用法上均不成立。",
+      "abnormal": "错误。abnormal侧重于个体的病理学或统计学'不正常'。社会学家和犯罪学家在描述违背社会规范的亚文化与同伴群体时，为避免病理化标签，在学科规范中严格使用'deviant'而非'abnormal'，故'abnormal peer networks'不符合犯罪学与社会认知领域的专业用法。"
+    },
+    "translation": "研究青少年社会化进程的犯罪学家观察到，频繁接触越轨同伴网络会强化其反社会认知偏差，促使脆弱的年轻人将其违犯法律法规和机构权威的行为合理化。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_09",
+    "group_id": 355,
+    "group_name": "additive, cumulative, complementary, extra",
+    "level": "TEM-8",
+    "target_word": "additive",
+    "question": "In behavioral pharmacology, combining the two cognitive enhancers produced a strictly ___ effect, whereby the overall performance improvement exactly equaled the algebraic sum of the benefits induced by each compound administered independently.",
+    "options": [
+      "additive",
+      "cumulative",
+      "complementary",
+      "extra"
+    ],
+    "answer": "additive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中关键解题线索为'whereby the overall performance improvement exactly equaled the algebraic sum of the benefits induced by each compound administered independently'（总体的表现提升完全等于各个化合物独立施用时所产生收益的代数和）。在行为科学与药理学搭配中，表示多种物质或干预结合时的总效能恰好等于各自独立效能之和的专业术语为'additive effect'（相加效应/叠加效应），与协同（synergistic）或拮抗（antagonistic）相对立，形成绝对排他性搭配。",
+    "distractor_analysis": {
+      "additive": "正确。在药理学与心理生物学语境中，'additive effect'（相加效应）是高度严谨的学术术语，特指联合效应严格等于各单项效应之代数和（algebraic sum），与后文解释完全吻合。",
+      "cumulative": "错误。'cumulative effect'（累积效应）侧重指单一或复合因素随时间推移、经由多次连续反复施加（successive additions over time）而渐次积攒出的综合效应，而非两种药物同时混合施用时瞬时总和等于独立部分之和的线性代数叠加。",
+      "complementary": "错误。'complementary'（互补的）强调在性质或功能上相互补足短板、配合协调以形成完整整体（filling deficits），无法用于指称数量和指标上精确等于两项代数之和的定量关系。",
+      "extra": "错误。'extra'（额外的、外加的）属于日常基础口语层级词汇，学术语域严重脱落（register clash），且在统计学与行为药理学中不存在表达代数相加效能的'extra effect'学术搭配。"
+    },
+    "translation": "在行为药理学中，将这两种认知增强剂联合使用产生了严格的相加效应，即总体的认知表现改善幅度完全等于各个化合物独立施用时所产生益处的代数和。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_10",
+    "group_id": 355,
+    "group_name": "additive, cumulative, complementary, extra",
+    "level": "TEM-8",
+    "target_word": "cumulative",
+    "question": "Longitudinal psychiatric research reveals that the ___ toll of minor behavioral stressors, which steadily builds through years of repeated exposure, is far more debilitating than isolated acute trauma.",
+    "options": [
+      "additive",
+      "cumulative",
+      "complementary",
+      "extra"
+    ],
+    "answer": "cumulative",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的关键锚点为名宾搭配'___ toll'以及定语从句'which steadily builds through years of repeated exposure'（经年累月的反复暴露中稳步累积），并与后文的'isolated acute trauma'（孤立的急性创伤）形成历时性对比。在流行病学与纵向行为研究中，'cumulative toll'（累积代价/长期累积损害）为极高频且固定的学术搭配，专指在时间维度上因接连追加而产生的蓄积性负面后果，排他性极强。",
+    "distractor_analysis": {
+      "cumulative": "正确。'cumulative'意为'由逐次增加而累积形成的'（formed by successive additions），完美契合'steadily builds through years of repeated exposure'的长期动态蓄积过程，且'cumulative toll'是学术英语中描述长期慢性压力所致损伤的核心固定搭配。",
+      "additive": "错误。'additive'强调不同要素在静态或并列维度上的线性代数相加（sum of parts），无法传达在漫长岁月和连续暴露中'渐进积聚、雪球式滚大'的历时动态感，且与'toll'搭配极为生硬罕见。",
+      "complementary": "错误。'complementary'表示'互补的、相得益彰的'，含有积极或中性的配合完备之意，与负面损耗词汇'toll'（代价、伤亡、损耗）在感情色彩和语义逻辑上发生严重冲突。",
+      "extra": "错误。'extra'仅表示附加的、额外的，多修饰具体物品或非正式计数，在严谨的纵向精神病学论文中修饰抽象的累积性心理生理损耗属于语体不适（stylistic clash），亦无法对应'经年反复累积'的深层内涵。"
+    },
+    "translation": "纵向精神病学研究表明，微小行为应激源经年累月反复暴露所造成的累积代价，远比单次孤立的急性创伤更具摧毁性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_11",
+    "group_id": 356,
+    "group_name": "ailing, seedy, indisposed, ill",
+    "level": "TEM-8",
+    "target_word": "ailing",
+    "question": "Policy analysts cautioned that injecting unconditional fiscal stimulus would merely offer ephemeral palliative relief to the ___ manufacturing sector without resolving the profound systemic inefficiencies that precipitate persistent stagnation.",
+    "options": [
+      "ailing",
+      "seedy",
+      "indisposed",
+      "ill"
+    ],
+    "answer": "ailing",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates metaphorically with 'manufacturing sector' and coheres with systemic decline ('palliative relief', 'systemic inefficiencies', 'persistent stagnation').",
+    "distractor_analysis": {
+      "ailing": "正确。ailing 拥有极具辨识度的比喻义搭配用法，专用于作前置定语修饰陷入长期财务困难、运转不良或体制性衰退的机构、企业与宏观经济部门（如 an ailing economy / company / sector）。在本句中与“manufacturing sector”（制造业部门）形成标准的高阶政经社论搭配，且与后文的“palliative relief”（权宜性的治标缓解）及“systemic inefficiencies”（系统性低效）构成无懈可击的语义闭环。",
+      "seedy": "错误。seedy 意为“破旧邋遢的；声名狼藉的，下流堕落的”（squalid and disreputable），其语义核心在于物理环境的破败肮脏或道德层面的污秽（如 a seedy bar / motel / underworld），完全不能用于修饰宏观产业部门（*a seedy manufacturing sector 产生严重的语义错配）。",
+      "indisposed": "错误。indisposed 在现代英语句法中受到严格的表语限制（predicative-only），不能充当前置定语（*an indisposed sector 构成了严重的句法违规）；此外，其语义仅指人“微恙的、身体稍有不适的”或“不情愿的”（indisposed to do sth），修饰无生命客体属于逻辑不通。",
+      "ill": "错误。ill 作前置定语时受到严苛的固定搭配限制，仅能表示“坏的、不良的、有害的”（如 ill health, ill will, ill effects, ill omen），标准书面语中绝不存在以 *an ill sector 或 *the ill industry 来指代“陷入衰退困境的部门”的用法。"
+    },
+    "translation": "政策分析师告诫称，注入无附加条件的财政刺激措施仅能为陷入衰退的制造业部门提供短暂的治标缓解，却无法化解导致长期停滞的深刻系统性低效问题。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_12",
+    "group_id": 356,
+    "group_name": "ailing, seedy, indisposed, ill",
+    "level": "TEM-8",
+    "target_word": "seedy",
+    "question": "Literary critics noted that the author deliberately situated the narrative in a ___ waterfront boardinghouse, using its peeling wallpaper and disreputable clientele to evoke an omnipresent sense of urban and moral decay.",
+    "options": [
+      "ailing",
+      "seedy",
+      "indisposed",
+      "ill"
+    ],
+    "answer": "seedy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Attributive modifier for 'waterfront boardinghouse', reinforced by concrete squalor ('peeling wallpaper') and moral disrepute ('disreputable clientele', 'moral decay').",
+    "distractor_analysis": {
+      "seedy": "正确。seedy 在高级文学批评与文化研究语境中特指“破败不堪的；肮脏下流的，声名狼藉的”（shabby, squalid, and morally disreputable），常用于修饰廉价旅店、公寓或酒馆等物理空间（如 a seedy hotel / boardinghouse / district）。句中“peeling wallpaper”（斑驳脱落的墙纸）印证其物理破旧，“disreputable clientele”（鱼龙混杂的不良房客）与“moral decay”（道德沦丧）呼应其声名狼藉，为绝对排他的锚点搭配。",
+      "ailing": "错误。ailing 语义核心为“受疾病折磨的”或“处于衰退危机中的”，专指有生命机体或抽象系统、产业与机构（如 an ailing patient / economy），不能用来形容实体房屋建筑破败或道德下流（*an ailing boardinghouse 违背习惯用法）。",
+      "indisposed": "错误。indisposed 属于表语形容词（predicative adjective），仅修饰有意识的人类主体，意为“身体略有不适”或“不愿作为”，既不可作定语置于名词前，也断然不能修饰无生命的建筑处所（*an indisposed boardinghouse 产生句法与语义双重错误）。",
+      "ill": "错误。ill 表“生病的”时在英式正式英语中通常仅作表语；作定语时仅出现在表达灾厄或恶意的固定词组中（如 ill health, ill fortune）。用来修饰建筑物以表达“破败、肮脏”不仅在语义上完全无法传达该意，在句法搭配上也属不合规范的生搬硬套（*an ill boardinghouse）。"
+    },
+    "translation": "文学评论家指出，作者特意将叙事背景设置在一家破败肮脏的临水寄宿公寓中，借其剥落的墙纸与声名狼藉的房客，烘托出一种无所不在的都市与道德沉沦感。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_13",
+    "group_id": 357,
+    "group_name": "artful, cute, elusive, precious",
+    "level": "TEM-8",
+    "target_word": "artful",
+    "question": "The diplomat’s ___ maneuvering throughout the multilateral negotiations enabled the delegation to deflect international censure while securing strategic concessions, demonstrating a masterly synthesis of subtle tact and calculated dissimulation.",
+    "options": [
+      "artful",
+      "cute",
+      "elusive",
+      "precious"
+    ],
+    "answer": "artful",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase '___ maneuvering' paired with the outcome of deflecting censure while securing concessions, explicitly characterized as a 'synthesis of subtle tact and calculated dissimulation', uniquely requires an adjective denoting dexterous, wily skill in indirect execution without phonetic giveaway.",
+    "distractor_analysis": {
+      "artful": "正确。artful在此处取韦氏词典核心释义'adroit in attaining an end usually by insinuating or indirect means : WILY'（善于通过迂回或巧妙手段达成目的的、机敏老练的）。'artful maneuvering'为高级政治与外交评论中的权威搭配，与后文'deflect international censure while securing strategic concessions'（化解国际谴责并争取战略让步）以及'masterly synthesis of subtle tact and calculated dissimulation'（圆融手腕与精心伪饰的精湛结合）形成高度契合的语义闭环。",
+      "cute": "错误。cute在表示'精明的、狡黠的'（clever or shrewd）时属于非正式口语语体（informal register），通常含有贬义，多指浮于表面的小聪明或自作聪明（如口语表达'don't get cute with me'或'a cute trick'），与本句高阶多边外交博弈的严谨政论文体产生极其严重的语域冲突（stylistic clash），无法体现成熟老练的战略斡旋。",
+      "elusive": "错误。elusive意为'难以捉摸的、易逃避捕获的'（tending to evade grasp or comprehension），其语义焦点在于客体的'不可捉摸'或'难以达成'（如an elusive goal, an elusive consensus）。句中的'maneuvering'是外交代表主动采取的运筹操作与策略行动，属于施动性手段，不能用elusive来修饰，否则会导致动作主体与修饰语之间的施受逻辑错位。",
+      "precious": "错误。precious用于修辞、风格或举止时，表示'过分讲究的、矫揉造作的'（excessively refined, affected），强调形式上的浮夸与做作。句中语境强调的是务实而精巧的政治手腕及其取得的实质性成果，precious不仅无法表达权谋与老练之意，且在语义逻辑上与后文行之有效的高超策略完全相悖。"
+    },
+    "translation": "该外交官在多边谈判中巧妙老练的策略斡旋，使代表团不仅成功化解了国际谴责，还赢得了战略让步，充分展现了他将微妙的交际手腕与深思熟虑的掩饰技巧融为一体的非凡能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_14",
+    "group_id": 357,
+    "group_name": "artful, cute, elusive, precious",
+    "level": "TEM-8",
+    "target_word": "cute",
+    "question": "The administration's regulatory reinterpretation was dismissed by analysts as being too ___ by half, an overly clever bureaucratic stratagem that failed to deceive market watchdogs and ultimately undermined institutional credibility.",
+    "options": [
+      "artful",
+      "cute",
+      "elusive",
+      "precious"
+    ],
+    "answer": "cute",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed idiomatic construction 'too ___ by half', directly defined in the appositive as 'an overly clever bureaucratic stratagem' that backfired, uniquely selects 'cute' in high-end Anglo-American public commentary.",
+    "distractor_analysis": {
+      "artful": "错误。虽然artful含有'狡黠的、机灵的'之意，但在现代英语高级政论语篇中，固定习语仅有'too cute by half'（或英式传统的'too clever by half'），根本不存在*'too artful by half'*的成语性搭配；此外，artful往往蕴含对技巧高超的正面赞赏，无法贴合后文指出的自作聪明反遭识破的贬损评价。",
+      "cute": "正确。此处精准考查TEM-8考纲对看似基础词汇的高难度多义辨析。cute在韦氏词典及英美严肃政经评论中有一核心高阶用法：'clever or shrewd often in an underhanded manner'（自作聪明的、耍花招的）。习语'too cute by half'为权威词典（如Merriam-Webster, Oxford）收录的定型搭配，专指'过度卖弄聪明、机关算尽反而适得其反'，与后文同位语解释'an overly clever bureaucratic stratagem that failed to deceive...'构成严丝合缝的逻辑同义复指。",
+      "elusive": "错误。elusive意为'难以捉摸的、逃避的'，与成语框架'too ... by half'在惯用搭配上完全不共存（不存在*'too elusive by half'*之说）；且后文已明确指出该策略已被市场监管机构当场识破，与'elusive'所表征的令人捉摸不透的语义特征直接矛盾。",
+      "precious": "错误。虽然在英式文学评论中偶见'too precious by half'，但其语义严格受限于'过于矫揉造作的、过度雕琢或感伤的'（affected, overly fastidious in style or manner），绝不能用于形容旨在欺瞒监管者的自作聪明的官僚策略（stratagem），在认知与语篇逻辑上发生概念错位。"
+    },
+    "translation": "分析人士将该届政府对监管条例的重新解释斥为自作聪明、弄巧成拙，这种官僚机构自以为是的机巧策略不仅未能瞒过市场监管机构，反而最终损害了体制自身的公信力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_15",
+    "group_id": 358,
+    "group_name": "baleful, ominous, forbidding, sinister",
+    "level": "TEM-8",
+    "target_word": "baleful",
+    "question": "Economists warn that unchecked fiscal austerity exerts a relentlessly ___ influence on public infrastructure, not merely signaling future stagnation, but actively accelerating physical decay and the collapse of vital municipal services.",
+    "options": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "sinister"
+    ],
+    "answer": "baleful",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动宾搭配 'exerts a relentlessly ___ influence on' 与后文转折 'not merely signaling future stagnation, but actively accelerating physical decay and the collapse' 构成决定性语义锚点。Merriam-Webster 对 baleful 的核心释义为 'deadly or pernicious in influence'，强调对客体施加直接、主动且毁灭性的破坏力；而后文明确否决了单纯的征兆功能（not merely signaling），严格排除了侧重预兆的 ominous，同时淘汰了表外貌险恶的 forbidding 以及暗含主观恶意阴谋的 sinister。",
+    "distractor_analysis": {
+      "baleful": "正确。Merriam-Webster 明确将其界定为 'deadly or pernicious in influence'（具有毁灭性或恶劣影响的），学术英语中常见 'exert a baleful influence on...' 这一经典搭配。句中不仅包含该核心搭配，后文更以 'actively accelerating physical decay and the collapse'（主动加速实体损毁与崩溃）作为注脚，完全契合 baleful 直接施加有害、破坏性影响的内涵。",
+      "ominous": "错误。ominous 派生自 omen，意为 'foreboding or foreshadowing evil'（不祥的、预兆凶祸的），专指作为预警或前兆昭示不良后果，而本身并不充当造成破坏的能动力量。题干中 'not merely signaling future stagnation'（不仅预示未来的停滞）从逻辑上明确否定了纯粹的预警/征兆功能，故予以排除。",
+      "forbidding": "错误。forbidding 意为 'unfriendly or threatening in appearance; discouraging approach'（外观冷峻可怖的、令人生畏的），多修饰具体外貌、地貌或严苛氛围（如 forbidding terrain, a forbidding countenance），无法与抽象的体制性政策影响（influence on public infrastructure）形成恰当搭配。",
+      "sinister": "错误。sinister 侧重强调具有暗中为恶、居心险恶或包藏祸心的主观恶意（suggesting evil intent, treacherous or corrupt purpose），常修饰人、阴谋或隐秘企图（如 a sinister plot）。财政紧缩属于客观宏观经济政策，不存在道德层面的主观恶意或诡诈动机，语义范畴不当。"
+    },
+    "translation": "经济学家警告称，未受制约的财政紧缩政策对公共基础设施产生了极其恶劣的破坏性影响，它不仅预示着未来的停滞，更在实质上加速了市政核心服务的硬件损毁与系统崩溃。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_16",
+    "group_id": 358,
+    "group_name": "baleful, ominous, forbidding, sinister",
+    "level": "TEM-8",
+    "target_word": "ominous",
+    "question": "To seasoned geopolitical analysts, the regime's abrupt suspension of international nuclear inspections was distinctly ___ of an impending military confrontation, despite official assurances that its atomic program remained peaceful.",
+    "options": [
+      "baleful",
+      "ominous",
+      "forbidding",
+      "sinister"
+    ],
+    "answer": "ominous",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_POLITICS",
+    "anchor_clue": "句法补足语介词 'of' 构成了决定性的排他锚点。根据《牛津英语大辞典》(OED) 与《韦氏词典》(Merriam-Webster)，在组内四个近义词中，唯有 ominous 具备后接介词短语 'of sth' 的句法支配模式（subcategorization frame: 'ominous of'），专指“预示着、是不祥之兆”（portending or foreshadowing evil, disaster, or conflict；经典文献如 Gibbon: 'a situation ominous of the fall of the empire'）。其余三词 baleful、forbidding、sinister 均为纯修饰性形容词，在现代英语中均不可接介词 of 表预兆，代入必然引发句法断裂。",
+    "distractor_analysis": {
+      "ominous": "正确。ominous 源自拉丁语 omen（征兆），词典严格定义为 'foreboding or foreshadowing evil'。在学术与政论高级语体中，'be ominous of sth' 是标称性的句法搭配，意为“预兆着某不良事态”。此处核查的中断是冲突即将爆发的明确凶兆，在介词搭配、认知语义及语域质感上完全契合。",
+      "baleful": "错误。baleful 侧重于“产生致命/毁灭性直接影响”（exerting a harmful, deadly influence）或“流露恶毒敌意”（如 baleful glare, baleful influence）。在句法上，baleful 无法后接介词 of 引出预示对象（英语中不存在 *baleful of 结构），代入会导致句法错误。",
+      "forbidding": "错误。forbidding 侧重指事物外表严峻冷酷、险峻森严以致使人望而生畏或难以接近（grim, hostile, or daunting; 如 a forbidding coastline, a forbidding countenance）。在句法上不能与介词 of 搭配表预兆（*forbidding of 为严重病句），且无法用于描述外交举动预兆战事。",
+      "sinister": "错误。sinister 强调潜藏着阴谋、邪恶恶意或诡诈祸患（suggesting lurking evil, corruption, or malevolent intent; 如 a sinister plot, a sinister atmosphere）。该词在英语中同样完全不具备后接介词 of 表预告的句法功能（不存在 *sinister of 搭配），代入句中造成介词错配与句法破裂。"
+    },
+    "translation": "在经验丰富的地缘政治分析人士看来，该政权突然暂停国际核查之举，明显预示着军事对抗迫在眉睫，尽管官方信誓旦旦地保证其原子能项目依然保持和平性质。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_17",
+    "group_id": 359,
+    "group_name": "banal, hackneyed, threadbare, stock",
+    "level": "TEM-8",
+    "target_word": "banal",
+    "question": "While the dramatist professed to plumb existential depths, his dialogue frequently languished in ______ domesticities, reducing what should have been transcendent tragedy to trivial bickering over household expenditures.",
+    "options": [
+      "banal",
+      "hackneyed",
+      "threadbare",
+      "stock"
+    ],
+    "answer": "banal",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with the abstract plural noun 'domesticities' to describe commonplace, pedestrian daily existence, creating a decisive semantic contrast with 'existential depths' and 'transcendent tragedy'.",
+    "distractor_analysis": {
+      "banal": "正确。banal 指“平庸乏味的、陈腐平凡的”，侧重事物缺乏精神高度或独创性，呈现出枯燥琐碎的世俗特质。在此处与 'domesticities'（家庭琐事、庸常家庭生活）构成高级学术批评中的经典搭配（banal domesticities），且在句意逻辑上与前半句的 'existential depths'（存在主义深度）及后半句的 'transcendent tragedy'（超然的悲剧）形成决定性的崇高与凡庸对照。",
+      "hackneyed": "干扰项。hackneyed 源自转喻词 hackney（供出租的马匹），专门用来指涉语言文字、修辞比喻、文艺桥段因“被过多、过滥引用而磨损陈旧”（如 hackneyed phrase, hackneyed plot）。'domesticities' 是指现实中的家庭庸常生活状态，并非因语言过度使用而陈旧的修辞表达，存在严重的词汇搭配冲突。",
+      "threadbare": "干扰项。threadbare 原义为织物磨薄露线，引申义专指论点、借口、辩解等因被反复搬用而显得“站不住脚的、破绽百出的、贫乏无力的”（如 threadbare argument, threadbare excuse）。它不能修饰日常现实生活状态（domesticities）。",
+      "stock": "干扰项。stock 作形容词表示“常备的、脸谱化的、陈规的”，通常用作定语修饰可数名词或具象实体以指示某种标准类型（如 stock character 脸谱化角色，stock response 刻板回应），无法与复数抽象名词 domesticities 搭配来表达日常生活之“庸常与平淡”。"
+    },
+    "translation": "尽管这位剧作家声称要探索存在主义的深度，他的台词却频繁陷入平庸琐碎的家庭日常，将本应充满超然力量的悲剧降格为对日常开销的无谓争吵。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_18",
+    "group_id": 359,
+    "group_name": "banal, hackneyed, threadbare, stock",
+    "level": "TEM-8",
+    "target_word": "hackneyed",
+    "question": "The critic observed that the once-evocative trope, relentlessly ______ by generations of derivative dramatists, had lost its imaginative resonance and degenerated into an empty stage convention.",
+    "options": [
+      "banal",
+      "hackneyed",
+      "threadbare",
+      "stock"
+    ],
+    "answer": "hackneyed",
+    "primary_mechanism": "MECH_SYNTACTIC_COMPLEMENTATION",
+    "field": "FIELD_LITERATURE_CRITICISM",
+    "anchor_clue": "The postpositive participial frame 'relentlessly ______ by generations of derivative dramatists' requires a deverbal participle that licenses an agentive 'by'-phrase. 'Hackneyed' derives from the transitive verb 'hackney' (MW: to make trite, vulgar, or commonplace by frequent use) and possesses full participial valency; 'banal' is a pure descriptive adjective that cannot take an agentive 'by' (*banal by dramatists), 'threadbare' is a non-deverbal compound adjective that requires a causative participle to govern an agent (*threadbare by dramatists; requires 'worn/rendered threadbare by'), and 'stock' is an attributive-only classifying adjective incapable of postpositive participial modification.",
+    "distractor_analysis": {
+      "hackneyed": "正确。hackneyed 既作形容词表示“陈腐老套的”，又源自及物动词 hackney（意为“因频繁使用或过度套用而使之陈腐磨损”；MW: to make trite, vulgar, or commonplace by frequent use），保留了完整的分词句法功能（participial valency），能自然支配表示动作施事者的介词短语。在“relentlessly ______ by generations of derivative dramatists”结构中，hackneyed 与方式副词 relentlessly 以及施事介词短语 by... 构成严密的句法与语义搭配，精准指涉该文学修辞构思（trope）被历代缺乏独创性的剧作家无节制地滥用磨损，进而沦为空洞的陈规套路。",
+      "banal": "错误。存在致命的句法论元结构违规。banal 为纯粹的性质形容词（central descriptive adjective），无动词词源与被动分词功能（英语中不存在动词 *to banal*），不能直接后接表示动作施事者的介词短语“by [agent]”。若要表达被外力致使平庸，必须借助使役动词被动结构（如 rendered banal by...）或派生动词（如 banalized by...）；“trope, relentlessly banal by dramatists”在现代英语语法中属于严重的句法破裂（syntactic violation）。",
+      "threadbare": "错误。句法功能受限且搭配断裂。threadbare 在构词上是由名词 thread 与形容词 bare 构成的复合形容词，并非及物动词的过去分词（英语中无动词 *to threadbare*）。它若要与施事或动因介词短语“by...”相连，必须依赖显性的状态转变或致使分词（如 worn threadbare by... 或 rendered threadbare by...）；单独使用时无法充当带有施事介词短语的后置分词从属结构，填入空缺处会导致语法严重不通。",
+      "stock": "错误。句法分布与词类功能直接违规。stock 用作形容词时为定语专用分类形容词（attributive-only classifying adjective，如 stock character, stock response），专用于名词前作前置修饰语。它既无法置于名词后作后置伴随修饰，也无法接受方式程度副词 relentlessly 的修饰，更绝无可能支配施事短语“by...”，完全无法融入题干的句法结构中。"
+    },
+    "translation": "评论家指出，这一曾经极富感染力的修辞构思在被历代缺乏独创性的剧作家无休止地滥用之后，早已丧失了其原初的想象共鸣，退化成了一种空洞的舞台陈规套路。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_19",
+    "group_id": 360,
+    "group_name": "candid, outspoken, forthright, blunt",
+    "level": "TEM-8",
+    "target_word": "candid",
+    "question": "In a rare ___ moment between closed-door diplomatic sessions, the envoy dropped his habitual guardedness, quietly acknowledging to colleagues that the administration's sanctions regime had proved fundamentally counterproductive.",
+    "options": [
+      "candid",
+      "outspoken",
+      "forthright",
+      "blunt"
+    ],
+    "answer": "candid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The journalistic set phrase 'in a rare candid moment' uniquely collocates to denote a temporary suspension of professional facade, corroborated by 'dropped his habitual guardedness' and the private, subdued disclosure 'quietly acknowledging to colleagues'.",
+    "distractor_analysis": {
+      "candid": "正确。candid 指‘坦诚的、率真的’，核心义在于不加掩饰、卸下防御机制与公关辞令（absence of reserve or deception）。在政治外交报道与传记写作中，'in a rare candid moment'（在罕见的坦诚时刻）是一组高度固定的惯用表达，特指公众人物暂时打破公事公办的戒备，吐露由衷实情。本句中 'dropped his habitual guardedness'（放下惯常的戒备）与 'quietly acknowledging'（悄然承认）为该短语提供了决定性的语境锚点。",
+      "outspoken": "错误。outspoken 指‘直言不讳的、公开敢言的’，通常修饰公开反抗既定权威、公开发表争议性观点的行为（如 an outspoken critic of the regime）。本句明确交代语境为闭门外交磋商隙间的私下悄声交谈（'closed-door diplomatic sessions'、'quietly acknowledging to colleagues'），与 outspoken 必须具备的‘公开发声、高调抗辩’之核心特征存在根本性的语义冲突；此外，英语中亦无 '*an outspoken moment' 的习语搭配。",
+      "forthright": "错误。forthright 强调‘直截了当的、毫不回避的’（going straight to the point without evasion），侧重言行姿态的主动、果断与坚决（如 a forthright answer / stance），常用于正面交锋或强力表态，而非指放平心态、私下卸下心防的真诚自省；且 forthright 无法与 moment 形成固定的习语搭配（*a forthright moment 极不地道）。",
+      "blunt": "错误。blunt 强调‘生硬的、唐突直率的、不留情面的’（abrupt or tactless to the point of being insensitive），带有粗粝、刺耳或欠缺分寸感的负面色彩（如 a blunt refusal）。这与句中外交官私下向同僚推心置腹、平静审慎自省的氛围（'quietly acknowledging'）格格不入；且 'a blunt moment' 并非符合英语语用规范的固定表达。"
+    },
+    "translation": "在闭门外交会议间歇罕见的坦诚时刻，这位特使放下了惯常的戒备，悄然向同僚承认，政府的制裁方案已被证明完全产生了反效果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b35_20",
+    "group_id": 360,
+    "group_name": "candid, outspoken, forthright, blunt",
+    "level": "TEM-8",
+    "target_word": "outspoken",
+    "question": "While senior diplomats urged circumspection, the ambassador remained remarkably ___ in his praise of the dissident's moral courage, openly commending a figure whose defiance had infuriated the host government.",
+    "options": [
+      "candid",
+      "outspoken",
+      "forthright",
+      "blunt"
+    ],
+    "answer": "outspoken",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "The canonical lexicographical collocation 'outspoken in one's praise (of sb)', paired with the explicit discourse contrast between institutional prudence ('urged circumspection') and bold, unreserved public expression ('openly commending').",
+    "distractor_analysis": {
+      "candid": "错误。candid 强调内在的诚实坦白、毫无偏见或对自身不足/尴尬实情的坦率揭示（如 a candid appraisal / admission），其核心语义是‘客观公正、不加粉饰’。而 praise（赞扬）属于全然肯定的褒奖推崇，'candid in one's praise' 存在语义逻辑矛盾与严重搭配断裂，无法用于公开表彰他人的语境。",
+      "outspoken": "正确。outspoken 意为‘直言不讳的、敢于公开发表意见的’，韦氏与牛津词典特别指出其核心特征为‘in defiance of caution, prudence, or decorum’（无视审慎或世俗顾忌而公开发声）。在学术与高阶政论中，'outspoken in one's praise/support of...' 为权威经典搭配（各大英汉词典核心例证），与前文‘urged circumspection’（敦促克制）及后文‘openly commending’形成严密的逻辑对比与语义闭环。",
+      "forthright": "错误。forthright 意为‘直接了当的、不回避欺瞒的’（free from disguise, deceit, or evasion），专指在问询、交代问题或表态时不推诿、不搞欺骗的直接作风（如 a forthright answer / apology / assessment）。赞赏（praise）并非面对质询时的‘不回避’，'forthright in one's praise' 不符合英语既定成语搭配习惯，在此处产生语域与语义错配。",
+      "blunt": "错误。blunt 意为‘生硬直率的、唐突尖锐的’，侧重言语粗疏生硬、缺乏委婉修辞与人情世故（如 a blunt refusal / warning），往往带有令人不适或缺乏礼貌的贬义色彩。用 blunt 来修饰对崇高道德勇气的公开赞颂（praise），在语义色彩上构成自相矛盾的修辞悖谬（oxymoron）。"
+    },
+    "translation": "尽管资深外交官极力主张审慎克制，该大使仍异乎寻常地直言赞赏那位异见人士的道德勇气，公开称赞这位其抗争行径曾激怒东道国政府的人物。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b61_01",
+    "group_id": 611,
+    "group_name": "flare, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "flare",
+    "question": "The unexpected discrepancy in the longitudinal clinical data served as an early warning ___, illuminating a critical methodological blind spot that researchers had previously failed to detect in their cognitive modeling.",
+    "options": [
+      "flare",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "flare",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed metaphorical collocation 'warning flare' combined with the semantic echo in the participial modifier 'illuminating a critical methodological blind spot'.",
+    "distractor_analysis": {
+      "flare": "正确。flare 的核心名词本义为‘信号弹，照明弹’（a device that produces a bright light for warning or illumination），在此构成固定隐喻搭配 warning flare（预警信号弹/警示信标）；同时后置现在分词短语 illuminating（照亮/阐明）在语义场上与 flare 形成精准的呼应与投射，完美契合‘照亮方法论盲区’的认知语境。",
+      "prod": "错误。prod 指‘刺针，促使行动的刺激物/提醒’（stimulus/reminder），常与 sharp 或 gentle 搭配，但英语中不存在 warning prod 这一固定搭配；且 prod 侧重于外力催促或敦促行动，无法与后文表示‘照亮/阐明盲区’的分词 illuminating 构成理据呼应。",
+      "foil": "错误。foil 作名词时意为‘陪衬物，衬托对比者’（one that enhances another by contrast），不存在 early warning foil 的搭配逻辑，且其核心义项在于通过对照凸显特质，与句中发出警示并照亮认知盲点的主干语义完全脱节。",
+      "buffer": "错误。buffer 指‘缓冲物，减震屏障’（safeguard/cushion），语义功能在于吸收冲击或提供隔离保护。若填入 warning buffer，不仅搭配生硬罕见，更在逻辑上形成语义背离——缓冲物的作用是‘钝化/阻隔’，不能充当主动‘照亮（illuminating）’方法论缺陷的预警信标。"
+    },
+    "translation": "纵向临床数据中出现的意外偏差如同一枚初期的预警信号弹，照亮了研究人员此前在认知建模中未能察觉的关键方法论盲区。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_02",
+    "group_id": 611,
+    "group_name": "flare, prod, foil, buffer",
+    "level": "TEM-8",
+    "target_word": "prod",
+    "question": "The professor argued that Socratic irony was never intended to humiliate students, but rather functioned as an intellectual ___, jolting complacent minds out of cognitive lethargy and prompting critical reflection.",
+    "options": [
+      "flare",
+      "prod",
+      "foil",
+      "buffer"
+    ],
+    "answer": "prod",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'intellectual' and dynamically governs the result participle 'jolting complacent minds out of cognitive lethargy' (a poke/stimulus to stir action).",
+    "distractor_analysis": {
+      "prod": "正确。prod 在此用作抽象比喻义，指‘激励物，促使其行动的刺激手段’（a stimulus or reminder to action），intellectual prod（思想上的鞭策/智力刺激）是高阶学术英语中的地道搭配；其原意为赶牲畜用的‘刺棒’，因而与后文的 jolting... out of cognitive lethargy（使自满的心灵从认知倦怠中猛醒）以及 prompting critical reflection 构成严密的因果施事链条。",
+      "flare": "错误。flare 作名词意为‘闪光，突然爆发’或‘信号弹’，intellectual flare 多指偶发的才华闪光或情绪爆发，缺乏‘向前戳刺、促动他人摆脱惰性’的施事动力语义，无法自然引发 jolting out of lethargy 这一物理驱动性极强的动作。",
+      "foil": "错误。foil 意为‘衬托物，陪衬’。虽然常与 intellectual 连用表示智力层面的对照人物（intellectual foil），但其功能仅为静态的对比衬托，完全不具备驱动‘猛然震醒心灵（jolting minds）’并激发批判性反思的推动力，逻辑动力学机制不匹配。",
+      "buffer": "错误。buffer 指‘缓冲器，减震屏障’，其核心功能是减小震荡、维持平衡与提供防护。句中语境强调打破平静、猛烈震醒（jolting），选用 buffer 会造成直接的逻辑反向冲突（减震 vs. 震醒）。"
+    },
+    "translation": "教授辩称，苏格拉底式的反讽绝非为了羞辱学生，而是作为一种智力上的鞭策，旨在使自满的心灵从认知倦怠中猛醒，并促成批判性反思。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_03",
+    "group_id": 612,
+    "group_name": "foible, forte, turnout, pressing",
+    "level": "TEM-8",
+    "target_word": "foible",
+    "question": "Although the biographer treated the statesman’s vanity as an endearing human ___, archival evidence revealed that this seemingly innocuous character flaw frequently compromised his diplomatic impartiality.",
+    "options": [
+      "foible",
+      "forte",
+      "turnout",
+      "pressing"
+    ],
+    "answer": "foible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Preceded by 'endearing human' and coreferenced later in the sentence by 'this seemingly innocuous character flaw', demanding a noun specifically meaning a minor, forgivable personal weakness.",
+    "distractor_analysis": {
+      "foible": "正确。foible源自击剑术语（剑身中段至剑尖最薄弱的部分），在认知与性格描述语域中特指人性格中无伤大雅的“小缺点、小怪癖”。短语“human foible”（人类性格弱点）与“endearing human foible”为高频学术及文学经典搭配，且与后文“seemingly innocuous character flaw”形成严丝合缝的同义照应。",
+      "forte": "错误。forte与foible在词源上互为反义词（特指剑身最坚硬强壮的根部），引申指“长处、特长”。句中修饰对象为“vanity”（虚荣心）与“character flaw”（性格缺陷），填入forte会导致语义严重倒错。",
+      "turnout": "错误。turnout为政治/社会学领域词汇，主要指“出席人数、到场率、（选举中的）投票率”，无法用于修饰个人的性格特质或道德瑕疵，在此完全脱离语境。",
+      "pressing": "错误。pressing作名词时通常指“唱片冲压机件、一次冲压制造的批次”，作形容词时意为“紧迫的”；无论词性与词义均完全无法与“endearing human ___”构成符合认知描写的搭配。"
+    },
+    "translation": "尽管传记作者将这位政治家的虚荣心视为一种讨喜的人性小缺点，但档案证据表明，这种看似无伤大雅的性格瑕疵实际上屡屡损害了他的外交公正性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_04",
+    "group_id": 612,
+    "group_name": "foible, forte, turnout, pressing",
+    "level": "TEM-8",
+    "target_word": "forte",
+    "question": "While theoretical abstraction was undeniably the philosopher’s ___, he struggled visibly whenever required to translate his intricate metaphysics into actionable public policy or administrative reform.",
+    "options": [
+      "foible",
+      "forte",
+      "turnout",
+      "pressing"
+    ],
+    "answer": "forte",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The concessive structure 'While theoretical abstraction was undeniably the philosopher's ___, he struggled visibly...' requires a noun denoting a distinct cognitive strength or intellectual specialty to contrast with his practical incompetence.",
+    "distractor_analysis": {
+      "forte": "正确。forte指“专长、强项”，尤指某人在智力、技艺或认知领域最为擅长的方面。句中“While... was undeniably the philosopher's forte”与主句“he struggled visibly whenever required to...”构成清晰且符合逻辑的让步转折对比，完美符合认知领域对学者学术专长的描述。",
+      "foible": "错误。foible指“性格上的小缺点、怪癖”。若填入foible，从句意为“虽然理论抽象无可否认是他的弱点”，与主句的“他难以将其转化为实践（他在实践层面同样 struggle）”丧失了让步转折关系，逻辑破裂。",
+      "turnout": "错误。turnout表示“出席人数、产出量、集会规模”，无法充当指代某位哲学家心智擅长领域的表语名词，搭配逻辑不通。",
+      "pressing": "错误。pressing作名词指“压制、唱片批次”；作形容词指“紧迫的”。置于此处既破坏句法（所有格后需符合语境的名词），语义上亦毫无指称可能。"
+    },
+    "translation": "尽管理论抽象无可否认是这位哲学家的专长，但每当需要将他复杂的形而上学理论转化为切实可行的公共政策或行政改革时，他便显得捉襟见肘。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_05",
+    "group_id": 613,
+    "group_name": "foil, inset, montage, likeness",
+    "level": "TEM-8",
+    "target_word": "foil",
+    "question": "In comparative political analysis, the authoritarian regime's rigid institutional inertia serves as an instructive ___ to the neighboring federation's agile governance, thereby accentuating the distinct advantages of decentralized decision-making.",
+    "options": [
+      "foil",
+      "inset",
+      "montage",
+      "likeness"
+    ],
+    "answer": "foil",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational frame 'serves as an instructive ___ to ... thereby accentuating the distinct advantages', which strictly demands a noun denoting a contrastive counterpart that highlights qualities by opposition.",
+    "distractor_analysis": {
+      "foil": "正确。foil 在文学批评与学术认知语境中常借指“（起映衬作用的）陪衬物、对照物”，标准搭配为“serve as a foil to/for”，旨在通过鲜明差异反衬出另一主体的特征或优势。句中威权体制的“僵化迟滞”与邻邦的“敏捷治理”构成反差，完美呼应后文 accentuating（凸显）的认知对比逻辑。",
+      "inset": "错误。inset 指“嵌入物；（大地图或出版物版面边角的）插图、小图”，侧重视觉与排版上的局部嵌套，无法与介词 to 构成表达认知反差的抽象搭配（*serve as an inset to），语义与语境不符。",
+      "montage": "错误。montage 指“蒙太奇；剪辑拼集物”，强调将多源破碎镜头或零散元素拼贴成整体复合体，既不具备“一对一鲜明反差”的语义功能，亦不能与“serves as a ... to”形成指代对照物的学术搭配。",
+      "likeness": "错误。likeness 指“相似；相似物；肖像”，核心义在于“一致与相近”（如 bear a likeness to）。若填入此处，则断言僵化体制是敏捷治理的“相似物”，与后文凸显分权决策截然不同优势的对比反差逻辑产生根本性矛盾。"
+    },
+    "translation": "在比较政治学分析中，威权政体僵化的制度惰性恰好成为邻国联邦敏捷治理的鲜明对照，从而更加凸显了分权决策的独特优势。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_06",
+    "group_id": 613,
+    "group_name": "foil, inset, montage, likeness",
+    "level": "TEM-8",
+    "target_word": "inset",
+    "question": "Although the comprehensive macroeconomic report charted nationwide industrial output across three decades, a specialized ___ in the lower margin provided high-resolution regional data on semiconductor manufacturing clusters.",
+    "options": [
+      "foil",
+      "inset",
+      "montage",
+      "likeness"
+    ],
+    "answer": "inset",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The spatial and design delimiter 'in the lower margin' functioning alongside 'high-resolution regional data' inside a nationwide macro-chart unequivocally requires the cartographic/analytical design term for an embedded sub-chart.",
+    "distractor_analysis": {
+      "inset": "正确。inset 作为制图学与文献排版术语，指“（大图、大地图或图表边框内的）插图、嵌入小图”，专用于在大尺度全局展示中提供局部高分辨率的放大或专题细节。句中“宏观报告纵览全国工业产出”与“页边下方专门的嵌入小图提供高分辨率区域数据”形成精准的技术与视觉呼应。",
+      "foil": "错误。foil 意为“陪衬物；箔纸”，属于抽象对比概念或物理金属薄片，无法充当位于图表页边下角（in the lower margin）、专门承载区域数据的分析性插图。",
+      "montage": "错误。montage 指多组视听或艺术画面的异质拼贴（蒙太奇），强调多元重叠构图与艺术联想，而非在学术图表边角呈现严谨高精局部数据的微型附图或嵌入框。",
+      "likeness": "错误。likeness 指“外貌相仿；肖像”，用于描绘人或事物的具象形貌复刻，与宏观经济报告中呈现半导体产业集群数据的图表展示毫无语义交集。"
+    },
+    "translation": "尽管这份宏观经济综合报告绘制了跨越三十年的全国工业产出走势，但其下边缘处附带的一个专业插框图则提供了半导体制造产业集群的高精度区域数据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_07",
+    "group_id": 614,
+    "group_name": "foothill, mound, hillock, hammock",
+    "level": "TEM-8",
+    "target_word": "foothill",
+    "question": "Spatial cognition researchers noted that observers routinely misjudged altitude when viewing the solitary ___ flanking the massif, erroneously conflating its transitional slope with the steep gradient of the adjacent alpine peak.",
+    "options": [
+      "foothill",
+      "mound",
+      "hillock",
+      "hammock"
+    ],
+    "answer": "foothill",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "flanking the massif ... adjacent alpine peak (明确限定该凸起地貌为依附于大型高山山体下坡处的过渡性“山麓小丘”)",
+    "distractor_analysis": {
+      "foothill": "正确。foothill 指依附于大山或山脉边缘基部的低矮山丘（Merriam-Webster: a relatively low hill on the lower slope of a mountain）。句中的“flanking the massif（位于大山体侧翼）”、“adjacent alpine peak（毗邻的高山主峰）”以及“transitional slope（过渡性斜坡）”构成严密的地貌学与空间认知强搭配，唯有 foothill 具备这种大山基部过渡地貌的明确语义。",
+      "mound": "错误。mound 主要指人工堆积或微型的自然土堆、坟冢或土丘，体量极小且缺乏与大型山系（massif / alpine peak）的基底依附关系，在空间宏观地貌认知语境中不合逻辑。",
+      "hillock": "错误。hillock 指天然的孤立小山丘（knoll），强调尺寸小巧，多见于起伏舒缓的原野，与“flanking the massif”这一山岳地质系统的从属结构无法构成精准搭配。",
+      "hammock": "错误。hammock 在自然地理学与生态学中专指沼泽或湿地中地势微隆、覆盖硬木林的小高地（tree island），与高山山体（massif）及阿尔卑斯式陡峭山峰（alpine peak）的高海拔干湿地貌完全脱节。"
+    },
+    "translation": "空间认知研究人员注意到，观察者在注视该山体侧翼那座孤立的山麓丘陵时常会误判高度，将其过渡性斜坡错误地与相邻高山主峰的陡峭坡度混为一谈。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_08",
+    "group_id": 614,
+    "group_name": "foothill, mound, hillock, hammock",
+    "level": "TEM-8",
+    "target_word": "mound",
+    "question": "Cognitive archaeologists deduced that the Neolithic earthen ___ had functioned as a ceremonial tumulus, since its interior stratification revealed deliberate funerary deposits rather than natural sedimentation patterns.",
+    "options": [
+      "foothill",
+      "mound",
+      "hillock",
+      "hammock"
+    ],
+    "answer": "mound",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Neolithic earthen ___ ... ceremonial tumulus ... funerary deposits (与 earthen 构成考古学专有搭配，指代包含墓葬的人工土冢)",
+    "distractor_analysis": {
+      "mound": "正确。mound 意为“土堆，土丘，土冢”，与“earthen”构成考古学及体质人类学中的核心固定搭配“earthen mound（人造土冢/土墩）”；句中“ceremonial tumulus（仪式性冢墓）”与“funerary deposits（随葬沉淀物）”决定了此处必然是具有人工构筑与仪式功能的土冢。",
+      "foothill": "错误。foothill 指依附于山脉的大型天然山麓，绝不可能由新石器时代人类人工堆筑（earthen）并用作内部含有分层埋葬的仪式性冢墓（ceremonial tumulus）。",
+      "hillock": "错误。hillock 强调自然形成的小型丘陵，在考古学与人类认知发掘语境中不与“earthen”搭配来指代具有丧葬功能的人工堆筑物。",
+      "hammock": "错误。hammock 是湿地或沼泽中自然形成的林地微高地，属于生态群落生境概念，无法与“Neolithic earthen”搭配表示人工随葬土冢。"
+    },
+    "translation": "认知考古学家推断，该新石器时代的土冢曾作为仪式性古坟发挥功用，因为其内部地层结构显示出刻意的随葬堆积，而非自然沉积模式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_09",
+    "group_id": 615,
+    "group_name": "forefront, vanguard, paradigm, straddle",
+    "level": "TEM-8",
+    "target_word": "forefront",
+    "question": "Throughout the interdisciplinary symposium, emergentist theories of cognition remained at the very ___ of analytical debate, challenging orthodox functionalist assumptions about the computational nature of intentionality.",
+    "options": [
+      "forefront",
+      "vanguard",
+      "paradigm",
+      "straddle"
+    ],
+    "answer": "forefront",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'at the (very) ___ of' 与中心论题抽象名词 'analytical debate' 构成双重决定性锚点。'forefront' 专指处于聚光灯中心、首要关注或讨论焦点的抽象位置（at the forefront of debate/discussion）；而 'vanguard' 严格要求介词 'in'（in the vanguard of）且宾语须为前沿运动或开拓性变革，不能与 'at' 搭配修饰学术争辩；'paradigm'（范式）与 'straddle'（跨坐/骑墙姿态）在此处均造成句法断裂与语义不通。",
+    "distractor_analysis": {
+      "forefront": "正确。'at the forefront of' 为高度固化的学术英语权威搭配，表示“处于……的最前沿/核心焦点”。句中用来指代突现论认知理论始终处于分析哲学争论的最核心位置，句法及认知语义场契合度达到100%。",
+      "vanguard": "错误。搭配与语义双重不符。首先，在标准学术英语中，表示先锋前沿地位时，'vanguard' 严格搭配介词 'in'（即 'in the vanguard of'），几乎不与 'at the vanguard of' 搭配；其次，'vanguard' 侧重指代引领行动、浪潮或革命的先遣群体或冲锋阵营，无法用来指代某一抽象理论处于争论的“焦点/前沿位置”（analytical debate 不是向前推进的革命运动）。",
+      "paradigm": "错误。语义与概念范畴混淆。'paradigm' 意为“范式、理论模型”（如 paradigm shift），属于认知模型名词，不可置于 'at the very ___ of analytical debate' 这一空间/关注度层级的介词短语中，'at the paradigm of' 属于生硬且不合语法的搭配搭配错误。",
+      "straddle": "错误。词性与语境严重冲突。'straddle' 作名词时表示“跨立、观望/骑墙立场”或金融中的“跨式套利”，既无法与 'at the very... of' 形成符合逻辑的学术搭配，更与后文表达理论占据主导争议地位的语境背道而驰。"
+    },
+    "translation": "在整个跨学科研讨会期间，突现论认知理论始终处于分析性争论的最前沿，对关于意向性计算本质的正统功能主义假设构成了有力挑战。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_10",
+    "group_id": 615,
+    "group_name": "forefront, vanguard, paradigm, straddle",
+    "level": "TEM-8",
+    "target_word": "vanguard",
+    "question": "Far from being mere spectators, these radical developmental psychologists formed the intellectual ___ of an epistemological movement that dismantled behaviorist dogma and revolutionized modern cognitive science.",
+    "options": [
+      "forefront",
+      "vanguard",
+      "paradigm",
+      "straddle"
+    ],
+    "answer": "vanguard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "谓语动词短语 'formed the intellectual ___ of an epistemological movement' 构成了决定性排他锚点。此处要求填入一个具备[+施事性/先锋群体]（agentive/pioneering collective force）语义特征的名词。'vanguard' 源自军事先锋部队，专门指代引领思想革命、运动浪潮的“先锋/主力军”群体（form the vanguard of a movement）；而 'forefront' 纯属抽象方位与关注度名词，人类施事主体不能“构成一个 forefront”；'paradigm' 与 'straddle' 均无法与 'formed the intellectual...' 形成主谓宾语义逻辑相容。",
+    "distractor_analysis": {
+      "vanguard": "正确。'vanguard' 完美契合 'formed the intellectual vanguard of...' 这一权威社科学术搭配，准确表达这群激进的发展心理学家充当了这场认识论变革运动的“思想先锋/主力军”。其核心语义所承载的开创性、行动主体性与前瞻性与整句逻辑严丝合缝。",
+      "forefront": "错误。本体范畴与搭配严重错位。'forefront' 纯粹表示一个抽象的位置、前沿或注意力中心（position of greatest importance），其本身不具备指代人员群体或冲锋团体的集合施事特征。英语中可以说学者们处于前沿（are at the forefront），但绝不能说具体的人“formed the forefront”（构成了前沿），此搭配在英语母语及学术语料库中均属病态表达。",
+      "paradigm": "错误。语义范畴冲突。'paradigm' 指理论范式、认知框架，人（psychologists）可以建立（establish）、提出（propose）或转变（shift）一个范式，但不可自身充当或构成运动的“范式”（formed the intellectual paradigm of a movement 产生本体混淆）。",
+      "straddle": "错误。词义冲突与文体不合。'straddle' 作名词表示“跨坐、折衷或两头兼顾的姿态”，而本句前半句强调“Far from being mere spectators”（绝非旁观者），后半句是“dismantled behaviorist dogma”（摧毁行为主义教条），语境彰显坚决果敢的先锋性，与 'straddle' 的不妥协/骑墙含义直接发生逻辑与语义冲突。"
+    },
+    "translation": "这些激进的发展心理学家绝非冷眼旁观的看客，他们构成了一场认识论运动的思想先锋；正是这场运动彻底瓦解了行为主义教条，并使现代认知科学发生了革命性剧变。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_11",
+    "group_id": 616,
+    "group_name": "fuzz, blur, schema, perception",
+    "level": "TEM-8",
+    "target_word": "fuzz",
+    "question": "In high-performance textile finishing, passing the woven cotton through an automated singeing flame effectively burns off protruding surface ___, yielding a sleek texture that suppresses subsequent pilling and enhances dye uptake.",
+    "options": [
+      "fuzz",
+      "blur",
+      "schema",
+      "perception"
+    ],
+    "answer": "fuzz",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_APPLIED_SCIENCES",
+    "anchor_clue": "Physical and domain collocations: 'automated singeing flame ... burns off' demands a combustible, physical substance, while 'protruding surface ___' paired causally with 'suppresses subsequent pilling' unequivocally specifies 'fuzz' (defined in ISO/ASTM textile standards as untangled fiber ends protruding from fabric that entangle into pills), completely excluding non-material optical or cognitive terms.",
+    "distractor_analysis": {
+      "fuzz": "正确。fuzz在此取《韦氏词典》首要物理释义：“fine light particles or fibers (such as down or hair)”（细微纤毛、短绒毛）。在材料科学与纺织工程标准体系（如ASTM D123与ISO 12945）中，fuzz为规范专业术语，专门指代“从织物或纱线表面突出的游离纤维微毛”（untangled fiber ends protruding from the surface）。句中的“singeing flame”（烧毛火焰）和“burns off”（烧除）锁定具有物理燃烧特性的纤毛客体，且后文“suppresses subsequent pilling”（抑制起球）构成严格的因果链（织物起毛fuzzing是起球pilling的前提），语境契合严密无瑕。",
+      "blur": "错误。blur仅指视觉、听觉上的“模糊不清、朦胧影像”或引申为“抽象界限的模糊”（a blurred effect; lack of sharp definition）。它属于主观感官感知或光学现象，绝非三维物理实体，既不可能“突出于织物表面”（protruding surface），更无法被物理火焰“烧除”（burns off），代入句中造成根本性的本体范畴错误（category mistake）。",
+      "schema": "错误。schema为认知心理学、哲学及信息科学术语，指大脑组织与解释信息的“认知图式、心智架构”或计算机系统的“模式定义”。将高度抽象的认知框架置于纺织面料表面并施以火焰焚烧，语义逻辑荒谬。",
+      "perception": "错误。perception指“知觉、主观感知过程或洞察力”（sensory awareness or comprehension）。该词指代主观意识层面的心理/神经生理活动，完全不能充当纺织品表面被机械热力学去除的物理表层杂质。"
+    },
+    "translation": "在高性能纺织后整理加工中，使棉织物通过自动化烧毛火焰可有效烧除表面突出的微细起毛，从而带来光洁的外观纹理，抑制后续起球并显著提升染料吸收率。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_12",
+    "group_id": 616,
+    "group_name": "fuzz, blur, schema, perception",
+    "level": "TEM-8",
+    "target_word": "blur",
+    "question": "When the tachistoscope presented the visual stimuli at hyper-rapid intervals, the discrete geometric shapes merged into a dizzying ___ of motion, entirely confounding the subject's ability to identify individual patterns.",
+    "options": [
+      "fuzz",
+      "blur",
+      "schema",
+      "perception"
+    ],
+    "answer": "blur",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation anchor: 'a dizzying ___ of motion'. In visual psychophysics, rapid temporal presentation causing discrete shapes to smear together specifically produces 'a blur of motion' (动觉模糊/运动残影)，which uniquely pairs with dynamic velocity.",
+    "distractor_analysis": {
+      "blur": "正确。blur指由于高速运动、视觉暂留或视力失焦而产生的‘模糊不清的动态影像’（a smear or indistinct representation caused by motion）。'a blur of motion'是心理物理学与视觉认知中描述超高速闪现图像融为一体的经典搭配，与'dizzying'及'merged into'完美契合。",
+      "fuzz": "错误。fuzz侧重指表面绒毛、微小纤维，或听觉/信号层面的静电噪音（a fuzz of static）与静态的概念模糊，与高速动态位移（motion）在语义特征上互斥，英语中不存在*a fuzz of motion搭配。",
+      "schema": "错误。schema指抽象的认知图式或先验心理模型。离散的几何图形因呈现速度过快在视网膜上融合，产生的是低阶视觉感知层面的涂抹残影，绝不可能聚合成一个'运动图式'（schema of motion）。",
+      "perception": "错误。搭配与句法受限。discrete shapes（离散几何图形）融合成的必须是一种具象/现象学层面的视觉表象（blur），而perception作为‘感知机制/感知行为’，不能作为'shapes merged into a...'的宾语结果，且'a dizzying perception of motion'逻辑杂糅，无法表达图像重叠模糊的效果。"
+    },
+    "translation": "当速示仪以超高速的时间间隔呈现视觉刺激时，离散的几何形状融合成了一片令人眩晕的动态残影，彻底瓦解了受试者识别单个图案的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_13",
+    "group_id": 617,
+    "group_name": "gag, skid, muzzle, tether",
+    "level": "TEM-8",
+    "target_word": "gag",
+    "question": "In a contentious ruling aimed at preserving witness confidentiality, the presiding magistrate issued a sweeping ___ order, prohibiting attorneys and investigators from disclosing evidentiary findings to investigative journalists.",
+    "options": [
+      "gag",
+      "skid",
+      "muzzle",
+      "tether"
+    ],
+    "answer": "gag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧接名词'order'，且后文由分词短语'prohibiting attorneys and investigators from disclosing evidentiary findings...'明确界定为司法机关禁止案件相关人员向外界透露信息的命令。在英美法学体系与严谨政经文体中，'gag order'（禁言令/限制报道令）是绝对专有的法定复合名词（term of art），其余三词均无此固定搭配。",
+    "distractor_analysis": {
+      "gag": "正确。作名词时除指塞口物外，引申指官方对言论、出版施加的正式禁令；在司法与法理学语境中，'gag order'是专有法律术语，特指法院颁布的禁止当事人、律师或媒体披露涉案信息的禁言令，与后文'prohibiting... from disclosing evidentiary findings'构成严密的语义与搭配闭环。",
+      "skid": "错误。作名词时指制动器、滑动装置，或引申为经济、行情的大幅下滑（如an economic skid），完全脱离司法禁言的语义范畴，且英语中绝无'*skid order'这一搭配。",
+      "muzzle": "错误。作名词指动物口套，比喻义可指压制言论的手段或让人噤声的事物（如put a muzzle on dissent），但属于修辞隐喻，在现代英美法学公文中不存在'*muzzle order'这一法定术语，搭配不成立。",
+      "tether": "错误。作名词指拴系牲畜的绳索，抽象引申为能力、耐力的界限（如at the end of one's tether）或资金/行动约束，完全不具备司法言论限制的含义，亦无法与'order'构成有效搭配。"
+    },
+    "translation": "在旨在保护证人机密的一项争议性裁决中，主审法官发布了一道全面的禁言令，严禁律师和调查人员向调查记者透露任何证据调查结果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_14",
+    "group_id": 617,
+    "group_name": "gag, skid, muzzle, tether",
+    "level": "TEM-8",
+    "target_word": "skid",
+    "question": "Despite aggressive interest rate cuts by the central bank, analysts warned that monetary stimulus alone could not stem the precipitous ___ in consumer confidence, which had plummeted to historic lows.",
+    "options": [
+      "gag",
+      "skid",
+      "muzzle",
+      "tether"
+    ],
+    "answer": "skid",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空格前由形容词'precipitous'（断崖式的、急剧的）修饰，后接介词短语'in consumer confidence'，且定语从句'which had plummeted to historic lows'进一步强化了指标急剧下坠的动态。动词与名词搭配'stem the precipitous skid'（遏制急剧下滑/断崖式暴跌）是宏观经济与权威财经媒体的高阶固定搭配，其余三词均指物理或抽象的束缚控制，无法表示趋势性衰退。",
+    "distractor_analysis": {
+      "skid": "正确。作名词时本义为车辆或重物的打滑侧滑，在经济学与社会认知评估语境中常引申指绩效、指数或大众信心'骤然衰退、失控下滑'（a sudden or rapid decline/downturn），与'precipitous'（急剧的）及'stem'（遏制）构成高度地道的动宾与偏正搭配，且与后文'plummeted'（骤降）呼应严密。",
+      "gag": "错误。本义为塞口物或言论禁令，核心语义特征为切断信息传递或压制发声，不能用于形容宏观心理指标或统计数值的向下暴跌趋势。",
+      "muzzle": "错误。指口套或钳制言论的工具，语义局限于动物防咬或言论封杀，无法与描述下行跌势的'precipitous'连用，更无法修饰'consumer confidence'的衰退。",
+      "tether": "错误。指系绳、系链或忍耐限度（如at the end of one's tether），侧重表达活动范围受限或资源枯竭，不具备表示运动方向向下暴跌的语义特征。"
+    },
+    "translation": "尽管中央银行采取了激进的降息举措，分析人士仍警告称，仅凭货币刺激手段无法遏制消费者信心的断崖式下滑，该指标此前已暴跌至历史低点。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_15",
+    "group_id": 618,
+    "group_name": "gentility, chic, flair, grandeur",
+    "level": "TEM-8",
+    "target_word": "gentility",
+    "question": "Concealing their declining fortunes behind inherited silver and rigid etiquette, the impoverished patrician family maintained a veneer of refined ___, desperately clinging to the decorum of a bygone aristocratic era.",
+    "options": [
+      "gentility",
+      "chic",
+      "flair",
+      "grandeur"
+    ],
+    "answer": "gentility",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The definitive anchors 'patrician family' (贵族家庭), 'inherited silver and rigid etiquette' (祖传银器与严苛礼节), and 'decorum of a bygone aristocratic era' (逝去贵族时代的礼度) demand a noun denoting upper-class breeding, social decorum, and polite manners, especially when affected or decayed.",
+    "distractor_analysis": {
+      "gentility": "正确。该词核心内涵为“文雅举止、名门教养、贵族身份”（elegance by virtue of fineness of manner and expression; high social status）。在此句中，与“patrician family”（贵族世家）、“rigid etiquette”（严苛礼节）以及“decorum of a bygone aristocratic era”（逝去贵族时期的体统礼法）形成严密的语义呼应；“a veneer of refined gentility”（精雅门第体面的虚饰）生动刻画了破落贵族竭力维持门面修养的心理状态。",
+      "chic": "错误。指“时髦、别致优雅的穿着或现代潮流风格”（smart elegance and sophistication in dress or manner），属于现当代时尚语境，与句中由“inherited silver”与“obsolete decorum”所支撑的旧式封建门第修养在语域和内涵上严重脱节。",
+      "flair": "错误。侧重指“天赋、直觉才能”（a natural aptitude or discernment）或“独特的行事风采”，常与介词 for 搭配（如 a flair for rhetoric）；它无法指代依靠传统礼数所支撑的阶层“温文尔雅与门第体统”。",
+      "grandeur": "错误。意为“壮丽、宏伟、尊贵气魄”（magnificence; stateliness of scale），侧重指规模宏大或气象万千（多修饰皇室宫殿、山川胜景或历史伟业）。本句聚焦于家族的人际礼仪与教养仪态（decorum/etiquette），选用强调恢宏体量的 grandeur 会造成语义错位与搭配不当。"
+    },
+    "translation": "这个日渐落魄的贵族家庭以祖传银器与刻板礼数掩盖其衰败的家境，维持着一层温文优雅的体面表象，绝望地固守着已逝贵族时代的礼法规矩。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_16",
+    "group_id": 618,
+    "group_name": "gentility, chic, flair, grandeur",
+    "level": "TEM-8",
+    "target_word": "chic",
+    "question": "Critiquing the superficiality of elite activism, the essayist condemned the trend of radical ___, wherein affluent socialites adopted the rhetoric of revolutionary struggle merely as a fashionable accessory to their privileged lifestyles.",
+    "options": [
+      "gentility",
+      "chic",
+      "flair",
+      "grandeur"
+    ],
+    "answer": "chic",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrase 'trend of radical ___' paired with the explanatory clause 'wherein affluent socialites adopted the rhetoric of revolutionary struggle merely as a fashionable accessory' provides an unequivocal definition of the established socio-cultural term 'radical chic'.",
+    "distractor_analysis": {
+      "chic": "正确。作不可数名词时表示“时髦、别致的风尚”（smart elegance and sophistication）。此处构成的“radical chic”（激进时髦/激进时尚）是英语思想文化与社会学评论中的著名专有名词（由作家汤姆·沃尔夫提出，各大主流词典均有收录），特指富裕上流阶层将左翼激进观点或底层革命修辞当作追求时髦、标榜前卫的身份附庸。后文“merely as a fashionable accessory”与“chic”的核心词义形成完美互文。",
+      "gentility": "错误。意为“贵族门第、上流阶层教养、虚饰的体面”。一方面，“gentility”强调传统阶级的礼数、教养与循规蹈矩，与“radical”（激进的）在语意逻辑上构成直接矛盾，不存在“radical gentility”这种搭配；另一方面，它无法表达“将革命言辞作为时髦配饰”的做派。",
+      "flair": "错误。意为“天资、敏锐的洞察力”或“独特的风度与活力”（panache, verve）。“flair”侧重个体的才华或行事风格，既不能与“radical”构成社会文化批判中的固定术语，也无法用于指代把政治抗争当作外在时髦潮流的虚浮做派。",
+      "grandeur": "错误。意为“宏伟、壮丽、显赫”，侧重规模的庞大或气势的庄严崇高。用于此处既在语意搭配上生硬荒谬（无“radical grandeur”之说），也完全偏离了句中揭露精英阶层将政治立场演变为“时髦配饰”（fashionable accessory）的批判语境。"
+    },
+    "translation": "在批判精英阶层政治行动主义的虚伪性时，这位随笔作家痛斥了‘激进时髦’的流行趋势——富裕的名流贵俗仅仅将革命斗争的修辞作为点缀其特权生活的时尚配饰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_17",
+    "group_id": 619,
+    "group_name": "gloss, mar, blemish, semblance",
+    "level": "TEM-8",
+    "target_word": "gloss",
+    "question": "Determined to salvage the administration's faltering geopolitical narrative, the foreign policy spokesman attempted to put a persuasive ___ on the summit's collapse, recasting the profound diplomatic rift as a constructive divergence of strategic priorities.",
+    "options": [
+      "gloss",
+      "mar",
+      "blemish",
+      "semblance"
+    ],
+    "answer": "gloss",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The formal cognitive and rhetorical idiom 'put a [adjective] gloss on [an unfavorable situation]', meaning to give a specious, cosmetically favorable interpretation to an embarrassing failure.",
+    "distractor_analysis": {
+      "gloss": "正确。此处考查 FIELD_COGNITION（认知范畴）下的经典政论修辞搭配“put a ... gloss on sth”（对某事进行粉饰性解读；为……涂上一层虚饰的外表）。句中发言人试图通过将深层外交裂痕重构（recasting）为建设性分歧来掩盖破裂，与 gloss 所表达的“掩盖缺陷的粉饰性阐释或虚假光彩”完美契合。",
+      "mar": "错误。在现代标准学术与政论英语中，mar 绝大多数情况下作为及物动词（意为“毁坏、破坏”）使用；其名词用法罕见且属于古旧/方言用法，置于不定冠词 a 与形容词 persuasive 之后构成词法和语体断裂，且无法与 put a ... on 搭配使用。",
+      "blemish": "错误。blemish 作名词意为“瑕疵、污点、缺陷”。句中主语发言人的意图是“挽救叙事（salvage narrative）”，逻辑上绝不可能试图在峰会破裂上施加一个“污点”，这与粉饰掩盖的语境逻辑产生语义极性倒错；此外 blemish 也不与 put a ... on 构成“粉饰性阐释”之义。",
+      "semblance": "错误。semblance 虽然可指“表象、假象”，但其固定的句法语义框架严格为“a semblance of + 名词”（例如 a semblance of order / normality，意为“表面的……/少许的……”），绝不参与“put a ... semblance on”这一结构，存在无法调和的搭配框架冲突。"
+    },
+    "translation": "为了挽回政府摇摇欲坠的地缘政治叙事，这位外交政策发言人试图对峰会的破裂做出颇具说服力的粉饰性解读，将深层的外交裂痕重新包装为战略重点上的建设性分歧。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_18",
+    "group_id": 619,
+    "group_name": "gloss, mar, blemish, semblance",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "Although the summit achieved a historic accord on climate mitigation, escalating procedural disputes and bitter ideological recriminations threatened to ___ the celebratory atmosphere of the closing plenary session.",
+    "options": [
+      "gloss",
+      "mar",
+      "blemish",
+      "semblance"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The high-register transitive verb collocation 'threatened to mar the [atmosphere / occasion / festivities]', where an intrusive negative factor impairs the harmony or celebratory nature of an event.",
+    "distractor_analysis": {
+      "mar": "正确。此处考查及物动词 mar 的核心搭配“mar the atmosphere / occasion / festivities”（破坏/煞……的氛围、场合或活动）。句中不断升级的程序性争议与激烈的言语指责作为破坏性因素，严重损害了闭幕全体会议原本应有的“庆祝氛围（celebratory atmosphere）”，动宾搭配与语境完全融洽。",
+      "gloss": "错误。gloss 作动词时若表及物含义，通常意为“加注释；使表面有光泽”，若意为“掩饰、掩盖”则必须与介词 over 搭配构成短语动词（gloss over sth）。此处既缺失介词 over，且语义上“程序争端不可能去粉饰庆祝氛围”，存在明显的句法与逻辑矛盾。",
+      "blemish": "错误。blemish 作及物动词时，其宾语通常严格限定为人格名誉、品行履历（如 blemish one's reputation / record）或物品无瑕的物理表面，意为“玷污、给……留下污点”，不与 atmosphere（氛围）、session（会议）或 occasion（场合）等动态时空场域及体验搭配，存在明确的搭配域限制。",
+      "semblance": "错误。semblance 纯粹是名词，根本无法在不定式符号 to 之后充当谓语动词，直接造成严重的句法词性违规（syntactic category violation）。"
+    },
+    "translation": "尽管峰会在气候减排方面达成了历史性协议，但不断升级的程序性争议和激烈的意识形态指责却险些破坏闭幕全体会议的庆祝氛围。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_19",
+    "group_id": 620,
+    "group_name": "grate, din, pant, rumble",
+    "level": "TEM-8",
+    "target_word": "grate",
+    "question": "During the cognitive perception experiment, subjects exhibited immediate neural distress whenever the abrasive ___ of rusted iron dragging across granite was played, confirming an innate evolutionary aversion to scraping acoustic frequencies.",
+    "options": [
+      "grate",
+      "din",
+      "pant",
+      "rumble"
+    ],
+    "answer": "grate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Co-occurrence with 'abrasive', 'dragging across granite', and 'scraping acoustic frequencies', requiring a noun specifically denoting a harsh, rasping sound caused by friction.",
+    "distractor_analysis": {
+      "grate": "正确。grate用作名词时，指物体摩擦或刮擦所产生的尖锐刺耳声、刮擦声（a harsh rasping sound made by scraping something）。句中‘abrasive’（研磨粗糙的）、‘dragging across granite’（在花岗岩上拖拉）以及‘scraping acoustic frequencies’（刮擦声频）构成严密的声学语境闭环，唯有grate在搭配与语义特征上完全吻合。",
+      "din": "错误。din指多声源交织而成的喧嚣声、嘈杂轰鸣声（a loud, continued noise or welter of discordant sounds），强调杂乱与持续的宏大声量，无法指代单一硬物摩擦石面所发出的尖锐刮擦声。",
+      "pant": "错误。pant指人或动物急促微弱的喘息声（a short, labored breath），或机械微弱规律的喷气声，与坚硬物体剧烈摩擦发出的物理声响毫无语义关联。",
+      "rumble": "错误。rumble指低沉、沉闷的连续轰鸣声（a low, heavy, continuous reverberating sound，如雷声或重车驶过声），属于低频声波，与句中明确限定的‘abrasive’与‘scraping’（高频刺耳刮擦）存在声学性质上的本质冲突。"
+    },
+    "translation": "在认知感知实验中，每当播放生锈铁器在花岗岩上拖曳所产生的刺耳刮擦声时，受试者都会立即表现出神经应激反应，这证实了人类对摩擦刮擦声波频率存在一种先天的演化厌恶。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b61_20",
+    "group_id": 620,
+    "group_name": "grate, din, pant, rumble",
+    "level": "TEM-8",
+    "target_word": "din",
+    "question": "Psycholinguistic experiments demonstrate that listeners experience severe auditory fatigue when attempting to parse spoken discourse amid the deafening ___ of overlapping conversations, traffic, and industrial clatter.",
+    "options": [
+      "grate",
+      "din",
+      "pant",
+      "rumble"
+    ],
+    "answer": "din",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'the deafening ___ of' and encapsulates a heterogeneous, chaotic cacophony of multiple concurrent sound sources ('overlapping conversations, traffic, and industrial clatter').",
+    "distractor_analysis": {
+      "din": "正确。din指震耳欲聋、持续不断的喧嚣声与嘈杂声，尤指多种不和谐声音混杂而成的喧闹（a loud, continuous, discordant noise; a welter of conflicting sounds）。句中‘deafening’为其经典修饰语，且后接交叠的交谈声、交通噪声与工业撞击声等复合声源，完美符合din的语体搭配与语义内涵。",
+      "grate": "错误。grate指单点接触发出的刺耳刮擦声（harsh rasping sound），无法涵盖人声交谈、车流声与器械碰撞声交织构成的宏观环境喧嚣。",
+      "pant": "错误。pant指急促、费力的气喘声或喘气声（a quick, heavy breath），既不可能产生‘deafening’（震耳欲聋的）声学强度，也无法统摄车流与工业环境噪音。",
+      "rumble": "错误。rumble指低沉轰鸣的回响声（a low, continuous reverberating sound）。虽然车辆声（traffic）可伴有低沉轰鸣，但并列的‘overlapping conversations’（人声交谈）与‘industrial clatter’（工业敲击高频杂音）具有显著的非低频特征，不可被概括为rumble。"
+    },
+    "translation": "心理语言学实验表明，当听者试图在交叠的交谈声、交通车流与工业噪杂声构成的震耳喧嚣中解析口头语篇时，会产生严重的听觉疲劳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b25_01",
+    "group_id": 251,
+    "group_name": "pivot, flip, avert, swivel",
+    "level": "TEM-8",
+    "target_word": "pivot",
+    "question": "Faced with mounting empirical anomalies, the research team decided to ___ from rigid computational models toward embodied cognition, seeking a flexible paradigm capable of explaining non-linear neural phenomena.",
+    "options": [
+      "pivot",
+      "flip",
+      "avert",
+      "swivel"
+    ],
+    "answer": "pivot",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame 'from [paradigm] toward [new paradigm]' combined with an adaptive theoretical reorientation in high-register cognitive science uniquely selects 'pivot'.",
+    "distractor_analysis": {
+      "pivot": "正确。Merriam-Webster 将其核心义界定为“turn on a pivot”，引申指在保留核心主旨的同时进行方向性、战略性或理论性的“动态转向”。句中由介词短语构成的框架“___ from rigid computational models toward embodied cognition”是决定性搭配锚点；pivot 完美契合从旧范式向新范式探索性、建构性的战略转型，符合认知科学严谨深邃的学术语体。",
+      "flip": "错误。flip 多指瞬时、轻率或非黑即白的二元彻底翻转（如掷硬币或翻转开关），常接介词 to（表示切换至另一离散状态），无法与表渐进方向与导向性的介词 toward 搭配；用以修饰系统性科学范式的重构存在严重的语体风格冲突（register clash）。",
+      "avert": "错误。avert 属强及物动词，语义为“转移（目光等）”或“规避、防止（灾难、危机）”（to turn away; to prevent or ward off）。在此处空后紧接介词短语（from... toward...），avert 作不及物动词在句法上不成立，且“防止/转移计算模型以朝向具身认知”在逻辑上完全断裂。",
+      "swivel": "错误。swivel 严格指物体绕支点或轴心所作的物理性、机械性水平转动（如转动头部或转椅）。将其移用于抽象理论范式的演化属于范畴谬误（category error），不符合学术英语的惯用搭配。"
+    },
+    "translation": "面对日益增多的经验反常现象，该研究团队决定从僵化的计算模型转向具身认知，以寻求一种能够解释非线性神经现象的弹性范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_02",
+    "group_id": 251,
+    "group_name": "pivot, flip, avert, swivel",
+    "level": "TEM-8",
+    "target_word": "flip",
+    "question": "During the symposium on macroeconomic stability, the two keynote speakers unexpectedly chose to ___ their long-held positions, with the monetary hawk urging aggressive stimulus while the progressive theorist warned against surging sovereign debt.",
+    "options": [
+      "pivot",
+      "flip",
+      "avert",
+      "swivel"
+    ],
+    "answer": "flip",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb taking 'their long-held positions' where the subsequent absolute clause reveals a complete reciprocal inversion (hawk advocating stimulus, progressive warning against debt) strictly requires 'flip' (MW: to reverse or exchange as positions).",
+    "distractor_analysis": {
+      "flip": "正确。Merriam-Webster 及物动词释义 1c 明确指出 flip 可表示“to reverse or exchange (as positions)”（颠倒或对调立场），如“flip positions”。句末的独立主格与对比分句“with the monetary hawk urging aggressive stimulus while the progressive theorist warned against surging sovereign debt”构成了不可撼动的排他性语境锚点，明确指出两位学者戏剧性地“彻底互换/逆转”了彼此长期持有的经济立场，仅 flip 能精准契合该语义。",
+      "pivot": "错误。pivot 表示“转向”时通常为不及物动词（后接 toward 等介词）；即使偶作及物动词（如 pivot a strategy），也是调整自身单一策略的方向，绝不能及物搭配具有双向互换内涵的复数名词宾语（*pivot their positions*）来表示双方“对调/颠倒对立立场”。",
+      "avert": "错误。avert 意为“预防、化解（危险等）”或“避开（视线）”，无法与 abstract cognitive positions（长期持有的学术立场）构成合理的动宾搭配，“避开长期立场”在经济学辩论语境中语义不通。",
+      "swivel": "错误。swivel 局限于空间物理旋转（如绕枢轴转动仪器或肢体），不能作为及物动词接 positions 来表达认知观念或学术立场的互换颠倒，存在严重的语义场错位。"
+    },
+    "translation": "在宏观经济稳定专题研讨会上，两位主旨发言人出人意料地调换了各自长期持有的立场：货币鹰派极力主张大规模刺激，而激进派理论家却对激增的主权债务发出了预警。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_03",
+    "group_id": 252,
+    "group_name": "poach, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "poach",
+    "question": "Determined to dominate quantum computing research, the venture-backed institute launched an aggressive campaign to ___ preeminent theoretical physicists from rival state-funded universities by offering unprecedented discretionary grants.",
+    "options": [
+      "poach",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "poach",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb requirement governing human intellectual assets ('___ preeminent theoretical physicists from rival state-funded universities') within a competitive institutional raiding register.",
+    "distractor_analysis": {
+      "poach": "正确。此处取其在高端学术与商业竞争语域中的引申义，表示“（违规或通过不正当诱饵）挖走竞争对手的骨干人才/掠夺智力资源”。该词为及物动词，直接接宾语'preeminent theoretical physicists'，并与来源介词短语'from rival state-funded universities'高度契合，精准传达出风投研究机构以重金'挖墙脚'的博弈色彩。",
+      "snipe": "错误。snipe表示“打冷枪”或引申为“暗中抨击、恶言中伤”，在此引申义下为不及物动词，通常与介词'at'搭配（如snipe at a rival），既不能直接带人才类名词作宾语，语义亦完全偏离'掠夺性招揽人才'的语境。",
+      "forage": "错误。forage本义为“觅食”，引申为“搜寻（信息、物资等）”，是不及物动词，常与介词'for'或'in/through'连用（如forage for data），不能作为及物动词直接支配'physicists'，亦缺乏'主动挖角对手人才'的制度竞争意味。",
+      "falcon": "错误。falcon作为动词意为“用猎鹰捕猎”，属于极罕见且专一的古风或专业狩猎不及物动词，无法接宾语，更彻底脱离现代前沿学术竞争的高级语域。"
+    },
+    "translation": "为主导量子计算研究，这家由风投资助的科研机构发起了一场激进的抢人大战，通过提供前所未有的自由支配经费，公然从竞争对手所在的国立大学挖走顶尖理论物理学家。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_04",
+    "group_id": 252,
+    "group_name": "poach, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than offering constructive amendments to the multilateral treaty, disgruntled opposition delegates chose instead to ___ at the administration’s environmental concessions during unrecorded press briefings.",
+    "options": [
+      "poach",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrastive discourse context ('Rather than offering constructive amendments...') paired strictly with the prepositional government pattern ('___ at the administration’s environmental concessions').",
+    "distractor_analysis": {
+      "snipe": "正确。snipe在此处取其在政治与公共话语语域中的核心引申义，意为“从隐蔽处进行冷嘲热讽、肆意抨击或放冷箭”，其决定性的句法语义特征是作为不及物动词与介词'at'严格搭配（snipe at sth）。前半句的'Rather than offering constructive amendments'（非但没有提出建设性修正）与后半句的'unrecorded press briefings'（未被公开录音的新闻简报会）构成了坚不可摧的语境闭环，完美表现出政客暗中攻讦的非建设性姿态。",
+      "poach": "错误。poach引申为“挖墙脚、剽窃、非法侵占”，属于及物动词，不与介词'at'搭配；且在政治辞令中无法表达“口头抨击或放冷箭”的言语行为。",
+      "forage": "错误。forage作不及物动词时表示“觅食、四处翻寻”，通常搭配介词'for'（如forage for food/clues）或'in/through'，无法与介词'at'搭配产生“抨击政策”的语义逻辑。",
+      "falcon": "错误。falcon作为动词意为“放鹰捕猎”，为不可带介词'at'用于抨击议题的不及物动词，无论在句法搭配还是政治外交语域上均属严重误用。"
+    },
+    "translation": "不满的反对派代表非但没有对多边条约提出建设性修正案，反而在未录音的新闻吹风会上借机对政府在环境政策上的妥协大放冷箭、肆意攻讦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_05",
+    "group_id": 253,
+    "group_name": "protrude, furl, flex, bulge",
+    "level": "TEM-8",
+    "target_word": "protrude",
+    "question": "In empirical studies of haptic cognition, blindfolded participants consistently identified tactile anomalies whenever microscopic needle-like sensors were configured to ___ several micrometers from an otherwise smooth ceramic surface.",
+    "options": [
+      "protrude",
+      "furl",
+      "flex",
+      "bulge"
+    ],
+    "answer": "protrude",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "主语为微观刚性针状物（microscopic needle-like sensors），后接空间位移与基底介词短语“several micrometers from an otherwise smooth ceramic surface”。在几何形态与空间动态上，细长刚性物体从基底表面向外挺出唯一使用 protrude；bulge 严格指代受内部压力导致的弧形充盈或膨胀鼓起，与针状结构互斥；flex（弯曲/屈肌）与 furl（收卷）在句法与几何语义上均无法成立。",
+    "distractor_analysis": {
+      "protrude": "正确。protrude 意为“伸出、突出、凸出”（to jut out from the surrounding surface or context），专指刚性、尖锐或细长物体超越基准平面向外延展，与本句的主语“microscopic needle-like sensors”及介词短语“from an otherwise smooth ceramic surface”在物理几何形态和空间结构上形成严密的排他性契合。",
+      "bulge": "错误。bulge 强调因内部充盈、容积扩张或压力而形成的弧形“鼓起、膨胀、凸出”（swell out in a rounded curve，如眼球突出、口袋鼓起），其凸起形态呈球冠状或钝性隆起，与针状微结构（needle-like）的刚性直线形态产生严重的几何语义冲突。",
+      "flex": "错误。flex 作及物动词意为“弯曲（肢体、关节）”或“收缩（肌肉）”，作不及物动词表示“弯曲、屈伸”，既无法形容刚性传感器的空间突出状态，也不能与“several micrometers from a surface”构成表示线性伸出距离的空间搭配。",
+      "furl": "错误。furl 意为“卷起、收拢（帆、旗帜、伞、翅膀等柔性片状物）”，词义与向外伸展突出的物理行为截然相反，且完全无法适应基底表面微观突起的实验语境。"
+    },
+    "translation": "在触觉认知实证研究中，每当针状微型传感器被设置为从原本光滑的陶瓷表面突出数微米时，被蒙上双眼的受试者总能准确识别出这些触觉异常。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_06",
+    "group_id": 253,
+    "group_name": "protrude, furl, flex, bulge",
+    "level": "TEM-8",
+    "target_word": "furl",
+    "question": "Unable to withstand rigorous empirical scrutiny, the radical behavioral theorists were forced to ___ their ideological banners, conceding that internal cognitive representations were essential for explaining complex human learning.",
+    "options": [
+      "protrude",
+      "furl",
+      "flex",
+      "bulge"
+    ],
+    "answer": "furl",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中动词后接及物宾语“their ideological banners”（他们的意识形态旗帜），且后续状语从句“conceding that...”明确表达了学术论辩中的退场与妥协。在英语高阶学术修辞中，与旗帜（banner/flag）构成“卷起旗帜、偃旗息鼓（引申为放弃论调、承认失败）”的动词唯一为 furl（与 unfurl 相对）；flex 仅用于“flex one's muscles/power”，不能支配 banner；protrude 与 bulge 在此搭配下出现严重的及物性与语意断裂。",
+    "distractor_analysis": {
+      "furl": "正确。furl 意为“卷起、收拢（帆、旗帜或伞等）”（to wrap or roll close as a sail or flag），在此处构成高阶学术隐喻搭配“furl their ideological banners”（收起意识形态旗帜/偃旗息鼓），精准传达了激进理论家在严苛实证数据前收拢阵营、宣告退让的学术论辩语境。",
+      "protrude": "错误。protrude 虽偶作及物动词表示“使……伸出”（如 protrude one's tongue），但核心语义为空间向外突出，绝不能支配“banners”以表达收缩或撤回之意，语义完全不通。",
+      "bulge": "错误。bulge 极少作及物动词使用（偶指因塞满而使某物膨胀，如 bulge one's pockets），完全不具备收拢或降下旗帜的隐喻动作功能，搭配“banners”属于严重语用失范。",
+      "flex": "错误。flex 用于隐喻修辞时其固定对象是“muscles、influence、authority”（展示力量、彰显权威），英语中不存在“flex banners”的修辞搭配，无法表达后文所要求的“认输妥协（conceding）”的消极语义走向。"
+    },
+    "translation": "在无可辩驳的实证审视面前，激进的行为主义理论家们被迫收起其意识形态的旗帜，不得不承认内部认知表征对于解释复杂的人类学习至关重要。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_07",
+    "group_id": 254,
+    "group_name": "quell, quench, dampen, smother",
+    "level": "TEM-8",
+    "target_word": "quell",
+    "question": "Despite releasing comprehensive audit records, the executive board failed to ___ lingering investor doubts regarding corporate solvency, as contradictory statements from senior accountants only exacerbated market skepticism.",
+    "options": [
+      "quell",
+      "quench",
+      "dampen",
+      "smother"
+    ],
+    "answer": "quell",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'lingering investor doubts' in an authoritative discourse context specifically requires a verb denoting the complete pacification or allaying of cognitive unrest, an exclusive collocational property of 'quell'.",
+    "distractor_analysis": {
+      "quell": "正确。意为“平息、消除（疑虑、恐惧、骚乱）”。quell 与“doubts / fears / suspicions”构成经典高级搭配，指权威方通过提供确凿事实或采取果断行动，从根本上平定、消除公众或市场的认知动荡与不信任感。",
+      "quench": "错误。核心义为“熄灭（火焰）”或“通过提供满足物来解除（口渴、欲望、求知欲）”（如 quench one's thirst），语义指向“需求得到满足”，无法与表示负面认知心理的“doubts”（疑虑）搭配。",
+      "dampen": "错误。意为“挫伤、抑制、减弱（热情、期望、活力）”（如 dampen enthusiasm/hopes）。英语中习惯用 dampen 减弱某种积极向上的情绪或活跃势头，但不存在“dampen doubts”的用法，搭配不合规范。",
+      "smother": "错误。意为“使窒息、闷熄”或“将…强行掩盖、扼杀”（如 smother an impulse, smother dissent）。语境中董事会试图通过公开记录正向“澄清并平息”疑虑，而非通过强权遮蔽“闷死”疑虑，且“smother doubts”在正式语域中极为生硬。"
+    },
+    "translation": "尽管执行董事会公布了详尽的审计记录，但仍未能平息投资者对公司偿债能力挥之不去的疑虑，因为高级会计师自相矛盾的表态反而加剧了市场的不信任。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_08",
+    "group_id": 254,
+    "group_name": "quell, quench, dampen, smother",
+    "level": "TEM-8",
+    "target_word": "quench",
+    "question": "Cursory statistical summaries could not ___ the investigative committee's insatiable thirst for definitive empirical evidence, prompting an extensive forensic audit of the conglomerate's opaque cross-border transactions.",
+    "options": [
+      "quell",
+      "quench",
+      "dampen",
+      "smother"
+    ],
+    "answer": "quench",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The conceptual metaphor and immutable lexical collocation '___ an insatiable thirst for...' determinatively selects 'quench', which uniquely carries the sememe of slaking or satisfying an epistemic appetite.",
+    "distractor_analysis": {
+      "quench": "正确。意为“满足、解（渴）”，在此处用于认知隐喻层面，与“insatiable thirst for empirical evidence”（对经验证据的强烈渴求）构成不可分割的固化搭配，指通过提供实质材料使求知求真欲望得到满足。",
+      "quell": "错误。意为“平息、镇压（骚动、恐惧、叛乱）”，其语义基调是压制某种具破坏性或动荡性的负面状态，不能用于接表示需求或欲望的“thirst”，无法表达“解渴/满足渴求”。",
+      "dampen": "错误。意为“使潮湿”或“挫伤、使沮丧（热情、兴致）”。与“thirst”连用不仅在修辞上造成概念错乱（给口渴浇水反而显得荒谬），而且完全缺乏“满足渴望”这一核心语意。",
+      "smother": "错误。意为“使窒息、压制、捂灭”，强调通过密不透风的厚重覆盖使之消亡，既不能与“thirst”形成合规搭配，也与上下文“材料无法满足求知渴望”的逻辑完全背离。"
+    },
+    "translation": "草率的统计摘要无法满足调查委员会对确定性经验证据的强烈渴求，这促使他们对该企业集团不透明的跨境交易展开了全面的法务审计。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_09",
+    "group_id": 255,
+    "group_name": "racket, honk, creak, crunch",
+    "level": "TEM-8",
+    "target_word": "racket",
+    "question": "Cognitive neuroscientists observed that whenever nocturnal revellers began to ___ outside the residential laboratory, the persistent, disorderly clamor severely disrupted the subjects' slow-wave sleep and memory consolidation.",
+    "options": [
+      "racket",
+      "honk",
+      "creak",
+      "crunch"
+    ],
+    "answer": "racket",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为'nocturnal revellers'（夜间狂欢者），后文对应的声响核心特征是'persistent, disorderly clamor'（持续且无序的喧闹声/嘈杂声）。在四个动词中，仅有racket能作不及物动词表示'聚众喧闹、大声吵闹（make loud and annoying noises; carouse noisily）'，并直接对应杂乱无章的群体性嘈杂喧嚣。",
+    "distractor_analysis": {
+      "racket": "正确。racket用作不及物动词时，语义核心为'大肆喧闹、作乐吵闹（make loud and annoying noises / revel or carouse noisily）'，极契合主语'revellers'（狂欢者）以及后文'persistent, disorderly clamor'（持续而混乱的喧嚣）的认知干扰语境。",
+      "honk": "错误。honk主要指大雁鸣叫或汽车鸣笛（sound a vehicle horn），亦可指发出短促刺耳的单发号角样声响，无法用以形容成群狂欢者自身发出的持续性混乱喧闹（clamor）。",
+      "creak": "错误。creak指物体因摩擦或受力负荷而发出的缓慢、干瘪的'吱吱'或'咯吱'摩擦声（如旧地板、门铰链转动），既不能与人类狂欢者的喧闹行为搭配，其声响特征也绝非'disorderly clamor'。",
+      "crunch": "错误。crunch指压碎、嚼碎的声音或踏在碎石/积雪上的嘎吱声，与人类聚众高声喧哗造闹的语境毫无交集。"
+    },
+    "translation": "认知神经科学家观察到，每当夜间狂欢者开始在住宿实验室外大声喧闹时，那种持续而混乱的嘈杂声便会严重干扰受试者的慢波睡眠与记忆巩固。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_10",
+    "group_id": 255,
+    "group_name": "racket, honk, creak, crunch",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "During simulated urban navigation experiments, cognitive psychologists observed that whenever impatient motorists began to ___ abruptly in heavy congestion, the sudden, brassy acoustic stimulus triggered an immediate spike in pedestrians' stress responses.",
+    "options": [
+      "racket",
+      "honk",
+      "creak",
+      "crunch"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中施动者为'impatient motorists'（急躁的机动车驾驶员），发生场景为'in heavy congestion'（严重拥堵中），而声学刺激被明确限定为'sudden, brassy acoustic stimulus'（突发的、铜管乐般刺耳高亢的声学刺激）。四个选项中，仅有honk专指驾驶员按响汽车喇叭发出刺耳鸣笛声（sound the horn of an automobile）。",
+    "distractor_analysis": {
+      "honk": "正确。honk在此作不及物动词，专指驾驶员在交通拥堵中'按喇叭鸣笛'，其声响特征恰好是后文所描述的'sudden, brassy acoustic stimulus'（突发且高亢刺耳的喇叭声），完美契合认知心理学关于警觉与压力应激的实验语境。",
+      "racket": "错误。racket作动词指持续发出一片混乱嘈杂的声音（make a sustained, confusing din），既不能指机动车喇叭发出的单次突发鸣响，也无法与'abruptly'以及'brassy acoustic stimulus'在声学细分维度上构成合理对应。",
+      "creak": "错误。creak指构件受力时的吱呀摩擦声，并非机动车驾驶员用来发泄不耐烦或警示他人的行为动作，且其音质绝非'brassy'（高亢铜管样/喇叭样）。",
+      "crunch": "错误。crunch表示压碎、金属撞击挤压变形或碾碎硬物的声音，驾驶员在拥堵时不会主动通过'crunch abruptly'来刺激行人，语义逻辑严重失准。"
+    },
+    "translation": "在模拟城市导航实验中，认知心理学家观察到，每当失去耐心的机动车驾驶员在严重拥堵中骤然按响喇叭时，这种突发的刺耳鸣笛刺激便会引发周围行人压力反应的急剧飙升。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_11",
+    "group_id": 256,
+    "group_name": "reassure, lull, pacify, appease",
+    "level": "TEM-8",
+    "target_word": "reassure",
+    "question": "During the emergency press briefing, the central bank governor presented rigorous stress-test metrics to ___ skittish international investors of the banking sector's enduring solvency amid escalating geopolitical volatility.",
+    "options": [
+      "reassure",
+      "lull",
+      "pacify",
+      "appease"
+    ],
+    "answer": "reassure",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Strict prepositional government: only 'reassure' takes the transitive construction 'reassure sb. of sth.' (to restore confidence regarding a doubt/fear), whereas 'pacify' and 'appease' take direct objects without 'of', and 'lull' selects 'into'.",
+    "distractor_analysis": {
+      "reassure": "【正确】意为“使……安心，消除对……的疑虑并重塑信心”，与句中的介词搭配“reassure [skittish investors] of [solvency]”在句法上严密吻合；在认知语境上，央行行长通过发布严谨的压力测试指标来驱散市场恐慌、恢复投资者信心的意图完全契合题意。",
+      "lull": "【排除】意为“使放松警惕，哄骗……以产生虚假安全感”，句法上通常与介词 into 连用（如 lull sb. into a false sense of security），绝不搭配介词 of（无 *lull sb. of sth. 结构），且其贬义的“麻痹欺瞒”色彩与央行官方依靠事实数据重建信心的理性语境相左。",
+      "pacify": "【排除】意为“平息（愤怒、骚乱），安抚（对抗情绪）”，侧重于平息暴怒、敌意或肢体反抗，在句法上仅作直接及物动词（pacify sb.），不存在 *pacify sb. of sth. 的句式，且题干中的投资者是“担忧恐慌”（skittish），而非“愤怒暴动”。",
+      "appease": "【排除】意为“姑息，（通过妥协让步）平息满足要求”，常指对侵略者或强硬批评者做出原则性让步以换取和平，句法上直接接宾语（不与 of 搭配），语义上呈现压力测试数据属于提供客观事实凭据，而非单方面的政治妥协或绥靖退让。"
+    },
+    "translation": "在紧急新闻发布会上，央行行长出示了严格的压力测试指标，旨在让神经高度紧张的国际投资者对银行业在地缘政治动荡加剧背景下的持久偿付能力感到安心。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_12",
+    "group_id": 256,
+    "group_name": "reassure, lull, pacify, appease",
+    "level": "TEM-8",
+    "target_word": "lull",
+    "question": "The protracted period of macroeconomic stability threatened to ___ complacent policymakers into underestimating systemic credit risks, blinding them to the precarious leverage silently accumulating across non-bank financial intermediaries.",
+    "options": [
+      "reassure",
+      "lull",
+      "pacify",
+      "appease"
+    ],
+    "answer": "lull",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Idiomatic causative-prepositional pattern 'lull sb. into doing sth.' (inducing an oblivious or deceptively tranquil state) reinforced by the subsequent semantic consequence 'blinding them to...'.",
+    "distractor_analysis": {
+      "lull": "【正确】意为“使麻痹大意，哄骗使放松警惕”，固定搭配为“lull sb. into (doing) sth.”，与后文的“into underestimating systemic credit risks”及“blinding them to...”形成因果呼应，精准描摹出长期平稳环境诱发监管者丧失警惕、陷入盲目自满的认知陷阱。",
+      "reassure": "【排除】意为“使放心，消除疑虑”，句法上搭配 reassure sb. of sth. 或 reassure sb. that...，不能与“into doing sth.”这一致使性介词短语连用；且 reassurance 蕴含积极正向的消除恐惧，与后文“使其视而不见”（blinding them to）的危险警示语气完全矛盾。",
+      "pacify": "【排除】意为“使平息，抚慰愤怒”，其宾语通常为处于骚动、愤怒或反叛状态的人或局势，句法上不与“into doing sth.”搭配，且句中“自满的决策者”（complacent policymakers）本身就处于安逸状态，无怒气或对抗可平息。",
+      "appease": "【排除】意为“绥靖，对……妥协退让以求息事宁人”，指满足施压方的诉求以换取短暂平静，句法上不与“into doing sth.”连用，语境中宏观经济平稳并非在向政策制定者提出索求，不存在妥协迎合的逻辑关系。"
+    },
+    "translation": "长期的宏观经济平稳期可能会使自满的政策制定者麻痹大意，从而低估系统性信用风险，令其对非银行金融中介机构暗中累积的危险杠杆视而不见。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_13",
+    "group_id": 257,
+    "group_name": "repine, nag, carp, lament",
+    "level": "TEM-8",
+    "target_word": "repine",
+    "question": "Although the exiled statesman endured protracted political disenfranchisement and penury, he refused to ___ at his cruel lot, channeling his latent intellectual energies into writing definitive historical treatises.",
+    "options": [
+      "repine",
+      "nag",
+      "carp",
+      "lament"
+    ],
+    "answer": "repine",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 'at' 与宾语 'his cruel lot'（残酷的命运/遭际），以及全句典雅庄重的史传学术文风，唯一锁定表示对厄运'怨天尤人、消极怨叹'的书面语动词 repine。",
+    "distractor_analysis": {
+      "repine": "【正确】repine 为极具文学色彩的正式典雅动词，常与介词 at 或 against 连用（固定搭配 repine at one's lot/fate），专指对自身不可更改的厄运、贫困或逆境怀有消极幽怨、自怨自艾的心态。句中政治家的宏大逆境与克制沉毅的认知态度与之完全契合。",
+      "nag": "【错误】nag 作不及物动词表抱怨或唠叨时，主体通常施加于人（如 nag at sb. 指反复唠叨、纠缠指责某人），不能以个人的命运或境遇（lot）作为对象；且该词语域偏口语化与家庭日常生活，与本句崇高肃穆的学术史传语域产生剧烈冲突。",
+      "carp": "【错误】carp at 意为对琐碎小事“吹毛求疵、无理挑剔”（to raise captious and petty objections）。其搭配对象必须是微不足道的细枝末节（如 minor flaws），而句子宾语是关乎人生颠沛沉浮的重大境遇（cruel lot），用 carp 属于严重的语义轻重失衡（semantic incongruity）。",
+      "lament": "【错误】lament 侧重公开、深切的哀悼或痛惜（to mourn aloud or regret deeply）。在现代英语中 lament 绝大多数情况下为及物动词，直接接宾语（如 refused to lament his cruel lot），极少数不及物用法后接 over 或 for，不能与介词 at 搭配，此处存在明确的句法介词冲突。"
+    },
+    "translation": "尽管这位流亡政治家遭受了长期的政治权利剥夺与赤贫，但他并未对自己的残酷命运怨天尤人，而是将潜沉的才智倾注于撰写权威的历史专著。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_14",
+    "group_id": 257,
+    "group_name": "repine, nag, carp, lament",
+    "level": "TEM-8",
+    "target_word": "nag",
+    "question": "Even after the peer reviewers accepted the empirical methodology, a persistent suspicion that the baseline data had been subtly manipulated continued to ___ at the senior editor's conscience.",
+    "options": [
+      "repine",
+      "nag",
+      "carp",
+      "lament"
+    ],
+    "answer": "nag",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句子的逻辑主语是抽象心理认知名词 'a persistent suspicion'，与后文介词短语 'at the senior editor's conscience' 构成认知心理场上特有的'某种疑虑/担忧持续萦绕折磨某人心灵'的典型主谓宾语义选择限制。",
+    "distractor_analysis": {
+      "nag": "【正确】nag 在认知与心理场（FIELD_COGNITION）中具有极其核心的引申义：当主语为抽象疑虑、痛苦或担忧（如 a doubt, suspicion, worry）时，nag at 专指某种未解的焦虑或不安“在心头久久盘旋、持续困扰、隐隐作痛地折磨”某人的良知或心智，完美契合主语 suspicion 与宾语 conscience。",
+      "repine": "【错误】repine 具有严格的语义选择限制（selectional restriction），其主语必须是具备主观情感体验的人类主体，表示“对境遇发牢骚、怨叹”。抽象的怀疑（a suspicion）不可能具有情感意图去 repine，主谓搭配在逻辑语义上不成立。",
+      "carp": "【错误】carp 意为吹毛求疵，必须由具有批判意识和挑剔行为的人类个体充当施事者（agent）。无生命且抽象的 suspicion 无法执行挑刺、唠叨的言语动作。",
+      "lament": "【错误】lament（哀悼、痛惜）同样必须以人类主体为主语，表示对某事的悲伤哀悼；抽象的疑虑无法作为发出哀叹行为的主体，且该词在句法上也不能与 at one's conscience 搭配。"
+    },
+    "translation": "即便同行评审专家已经认可了这项实证研究的方法论，但一种认为基线数据曾被微妙篡改的挥之不去的疑虑，仍在不断折磨并拷问着这位资深编辑的良知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_15",
+    "group_id": 258,
+    "group_name": "reprimand, snipe, assail, censure",
+    "level": "TEM-8",
+    "target_word": "reprimand",
+    "question": "Alarmed by unauthorized disclosures to the press, the permanent undersecretary summoned the diplomatic attaché to his private office, choosing to sternly ___ him for breach of protocol rather than initiate public disciplinary proceedings.",
+    "options": [
+      "reprimand",
+      "snipe",
+      "assail",
+      "censure"
+    ],
+    "answer": "reprimand",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“permanent undersecretary summoned the diplomatic attaché to his private office”（常务次长将外交随员召至私密办公室）建立了明确的“上级对下级”的层级行政管辖关系，后接“sternly ___ him for breach of protocol rather than initiate public disciplinary proceedings”（严厉训诫其违反规程的行为，而非启动公开纪律程序）。在正式行政与纪律语域中，reprimand专指掌权者或上级机构对下级违纪行为进行的直接、权威且严肃的“训诫、申斥”，可采取私下或内部行政处理形式；而censure多指立法或管理机构集体表决作出的公开谴责，不能由个别长官私下实施；snipe在此有句法（不及物且须接at）和语意违和；assail则缺乏层级纪律惩戒的法定色彩。",
+    "distractor_analysis": {
+      "reprimand": "正确。意为“（以权威身份）正式训诫、申斥”。常指体制内上级、法官或长官因下属渎职违纪而予以当面严肃告诫，完美契合长官私下惩戒随员的语境与“reprimand sb for sth”的支配结构。",
+      "censure": "错误。意为“（通过决议等形式公开）谴责”。在政治与行政语境中，censure通常指议会、行业公会或委员会等集体机构经表决通过的公开道德或纪律谴责决议，无法与长官在私密办公室中“私下行使以规避公开纪律程序（rather than initiate public disciplinary proceedings）”的操作逻辑相匹配。",
+      "snipe": "错误。意为“暗中放冷箭、微词讥讽”。snipe在表示言语攻击时为不及物动词，必须接介词at（snipe at sb），在此处直接加宾语him构成严重句法错误；且其指代隐藏身份的冷嘲热讽，与上级长官公开、正面的权威训诫截然对立。",
+      "assail": "错误。意为“猛烈抨击、痛击”。assail常用于论战、媒体围攻或突发性暴力批评（如assail a policy/regime），缺乏体制内上级依据章程对下级实施规范性行政惩戒的语域色彩（institutional/disciplinary register）。"
+    },
+    "translation": "鉴于媒体接连出现未经授权的泄密事件，常务次长将该外交随员召至其私人办公室，选择就其违反外交规程的行为予以严厉训诫，而非直接启动公开纪律调查程序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_16",
+    "group_id": 258,
+    "group_name": "reprimand, snipe, assail, censure",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than engaging in constructive policy debate, disgruntled backbenchers chose to ___ at the party leadership through anonymous leaks, undermining the coalition's legislative agenda with relentless petty grievances.",
+    "options": [
+      "reprimand",
+      "snipe",
+      "assail",
+      "censure"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点包含句法支配与修辞语境双重锁定：其一，空格后紧跟介词短语“at the party leadership”，四个选项中仅snipe属于可与介词at搭配表示言语攻讦的不及物动词（snipe at sb/sth）；其二，“through anonymous leaks”（通过匿名泄密）与“petty grievances”（琐碎怨言）构成了典型的“放冷箭、暗中中伤”语义场，与snipe所特有的“隐蔽暗处、缺乏建设性、零星骚扰攻击”的修辞色彩完美契合，其余三词均为纯及物动词且语义偏向正式或正面冲突。",
+    "distractor_analysis": {
+      "reprimand": "错误。reprimand为严格的及物动词，直接接宾语（reprimand sb for sth），不可与介词at连用（*reprimand at 属严重句法破裂）；此外后座议员（backbenchers）对党派领导层并无管辖权，不符合其自上而下的权威训诫色彩。",
+      "snipe": "正确。snipe作不及物动词时常与at连用（snipe at），意为“在暗处放冷箭、不断进行冷嘲热讽或微词挑剔”，极为契合通过“匿名泄密（anonymous leaks）”发泄“琐碎怨言（petty grievances）”的卑劣政治伎俩。",
+      "assail": "错误。assail为严格及物动词，直接接宾语（assail the leadership），无法接介词at；且assail指正面、猛烈、排山倒海般的系统性猛攻，与句中“anonymous leaks”和“petty grievances”所体现的隐蔽、琐碎攻击特征不符。",
+      "censure": "错误。censure亦为纯及物动词（censure the leadership），不能后接介词短语“at...”；同时，censure指正式机构公开宣读或表决的谴责案，断不可能通过“匿名泄密”的形式进行。"
+    },
+    "translation": "那些心怀不满的后座议员并未参与建设性的政策辩论，反而选择通过匿名泄密的方式对党派领导层冷嘲热讽、暗放冷箭，以无休止的琐碎怨言破坏执政联盟的立法议程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_17",
+    "group_id": 259,
+    "group_name": "reprove, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "reprove",
+    "question": "Rather than summarily dismissing the novice researcher for his methodological lapse, the laboratory director chose gently to ___ him for his carelessness, prioritizing constructive mentorship over institutional retribution.",
+    "options": [
+      "reprove",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "reprove",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb taking a personal direct object followed by 'for' ('him for his carelessness'), coordinated with 'gently' and 'constructive mentorship over institutional retribution', which uniquely corresponds to the kindly corrective discipline denoted by 'reprove'.",
+    "distractor_analysis": {
+      "reprove": "正确项。Merriam-Webster 将其核心义界定为“to scold or correct usually gently or with a kindly intent”（出于善意通常温和地责备或纠正；take to task）。其标准构式为“reprove sb. for sth.”，专指师长或上级出于教育、引导目的而进行的温和训诫。句中“gently”（温和地）与“prioritizing constructive mentorship over institutional retribution”（注重建设性指导而非惩罚性处分）构成了不可替代的语境锚点，与 reprove 的语义内涵完全吻合。",
+      "snipe": "干扰项（句法与语义冲突）。snipe 表“抨击、非难”时通常为不及物动词，需与介词 at 连用（snipe at sb.），无法直接后接代词宾语“him”，存在严重及物性语法错误；此外，该词带有暗中冷嘲热讽、琐屑中伤的消极贬义，与句中导师“温和而具建设性”的立场彻底相悖。",
+      "assail": "干扰项（语义程度与语境冲突）。assail 意为“猛烈攻击；痛斥”（to attack violently with blows or words），带有极强的对抗性与摧毁性。题干明确指出实验室主管采取的态度是“gently”和“constructive mentorship”，使用 assail 会造成“温和地痛击/围攻”的严重语义矛盾。",
+      "deplore": "干扰项（搭配与句法错位）。deplore 意为“对……深表遗憾；强烈谴责”，在现代标准学术英语中，其及物宾语几乎必须是某种事态、行为、损失或决策（例如 deplore the methodological lapse / violence），极少以“人”作直接宾语后接 for 构成纠戒模式（即 *deplore him for his carelessness* 不符合规范的学术英语用法）。"
+    },
+    "translation": "实验室主任没有因那位初级研究员的方法论疏漏而将其草率解雇，而是选择就其粗心大意进行温和的训诫，将建设性的悉心指导置于体制性的惩罚之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_18",
+    "group_id": 259,
+    "group_name": "reprove, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Disgruntled backbenchers continued to relentlessly ___ at the prime minister’s leadership from the sidelines, preferring anonymous, petty recriminations in the tabloids to constructive legislative debate.",
+    "options": [
+      "reprove",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic frame '___ at [target]' combined with the ideological and spatial cues 'from the sidelines' and 'anonymous, petty recriminations' strictly demands the intransitive verb 'snipe'.",
+    "distractor_analysis": {
+      "snipe": "正确项。Merriam-Webster 将其引申义明确定义为“to aim a carping or snide attack — often used with at”（挑剔抨击，冷嘲热讽，常与 at 连用）。该词源自“隐蔽狙击”，后延伸至言语交际领域，特指从安全、边缘或匿名的立场向他人发起琐碎、怀有恶意的放冷箭式攻讦。句中介词“at”、边缘立场“from the sidelines”以及“anonymous, petty recriminations”（匿名琐碎的反唇相讥）构成了排他性锚点，唯有 snipe 在句法和语义上完全契合。",
+      "reprove": "干扰项（句法违规与语义不合）。reprove 是纯及物动词（transitive verb），其标准格式为 reprove sb. for sth.，绝不能与介词 at 搭配使用（*reprove at sth. 属句法硬伤）；同时，reprove 蕴含长辈或官方正面的良性规诫，与后座议员在小报上发起的阴暗琐屑攻击大相径庭。",
+      "assail": "干扰项（句法破裂）。assail 同样是纯及物动词，意为“猛烈攻击、严厉责难”，必须直接接宾语（如 assail the prime minister's leadership），与介词 at 连用构成严重的句法错误（*assail at 为病态搭配）；且 assail 侧重于公开正面、铺天盖地的猛攻，与“from the sidelines”所体现的边线放冷箭语义不同。",
+      "deplore": "干扰项（句法破裂与语用偏离）。deplore 亦为纯及物动词，意为“悲叹；对……深感遗憾或痛惜”，其后必须直接加宾语（如 deplore the decline of debate），不可接介词 at（*deplore at 不成立）；且 deplore 多用于正式严肃的道义惋惜，无法表达政治派系间琐碎恶意的流弹攻讦。"
+    },
+    "translation": "心怀不满的后座议员们继续在场外对首相的领导力进行不依不饶的冷嘲暗讽，相较于建设性的立法辩论，他们更偏好在小报上发起匿名而琐碎的反唇相讥。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_19",
+    "group_id": 260,
+    "group_name": "roughen, warp, fold, imprint",
+    "level": "TEM-8",
+    "target_word": "roughen",
+    "question": "By intentionally deploying jagged syntax and archaic diction, the modernist novelist sought to ___ the text's perceptual surface, thereby impeding effortless reading and inducing deeper cognitive engagement with the narrative.",
+    "options": [
+      "roughen",
+      "warp",
+      "fold",
+      "imprint"
+    ],
+    "answer": "roughen",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "jagged syntax paired with 'perceptual surface' and 'impeding effortless reading' (demanding friction and resistance in cognitive processing, echoing the formalist concept of defamiliarization).",
+    "distractor_analysis": {
+      "roughen": "正确。此处借用文学认知与形式主义文论中的核心概念（使形式粗糙化/陌生化），roughen意为‘使表面粗糙化，增加摩擦与阻力’。句中jagged syntax（参差嶙峋的句法）与perceptual surface（感知表面）构成精准的语义对应，旨在打破行云流水的自动化阅读（impeding effortless reading），迫使读者进行深层认知投入，语义与搭配完全契合。",
+      "warp": "错误。warp核心语义为‘使弯曲、使扭曲、使偏离正轨’，多用于指扭曲事实、偏见扭曲理性或物理板材翘曲（warp one's mind/perspective）。句意强调的是通过参差文风增加文本表面的‘糙度’以制造认知阻力，而非将文本表面‘扭曲变形/使其畸态’，语境逻辑不符。",
+      "fold": "错误。fold意为‘折叠、合拢’，隐喻层面可指‘交叠、消亡’，无法与jagged syntax产生‘增加感知粗糙度与认知摩擦力’的隐喻呼应，填入fold the text's perceptual surface语义不明，缺乏动因支持。",
+      "imprint": "错误。imprint意为‘铭刻、打上印记’，通常用于‘在某处铭记思想/印痕’（imprint A on/in B）或直接以印象、记忆为宾语。imprint the text's perceptual surface在句法上既不表达制造阅读阻力，亦破坏了与impeding effortless reading的前后因果逻辑。"
+    },
+    "translation": "这位现代主义小说家通过刻意运用参差错落的句式和晦涩古朴的措辞，试图使文本的感知表面变得粗粝嶙峋，从而阻断顺畅轻省的自动化阅读，诱发读者对叙事进行更深层次的认知投入。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b25_20",
+    "group_id": 260,
+    "group_name": "roughen, warp, fold, imprint",
+    "level": "TEM-8",
+    "target_word": "warp",
+    "question": "Cognitive scientists emphasize that sustained exposure to polarized media can insidiously ___ political judgment, twisting complex empirical evidence into simplistic moral binaries and fostering acute hostility toward dissenting perspectives.",
+    "options": [
+      "roughen",
+      "warp",
+      "fold",
+      "imprint"
+    ],
+    "answer": "warp",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The ensuing participial clause 'twisting complex empirical evidence into simplistic moral binaries' provides an explicit semantic mirror for distorting and perverting normal cognitive faculties.",
+    "distractor_analysis": {
+      "warp": "正确。warp在此处用作认知领域的隐喻动词，意为‘使（心智、判断力、认知）扭曲变形、偏离常轨’。后半句伴随状语‘twisting complex empirical evidence into simplistic moral binaries’（将复杂的经验证据扭曲为简单化的道德二元对立）对warp形成了直接的同义互释和语义锚定，构成极其严密的逻辑闭环。",
+      "roughen": "错误。roughen指‘使粗糙、使增加物理或感知阻力’，无法与political judgment搭配，不能表达‘将判断扭曲、畸变’之意，造成严重搭配断裂。",
+      "fold": "错误。fold表示‘折叠、抱合、倒闭’，在认知心智语境下不能与political judgment直接搭配构成‘使判断发生扭曲’的含义，缺乏语义合法性。",
+      "imprint": "错误。imprint意为‘铭刻、牢记’，常见结构为imprint something on/upon one's mind。若作为及物动词接political judgment，既无‘使其扭曲/偏狭’的负向变形含义，也无法同后文twisting into simplistic moral binaries相衔接，语意断裂。"
+    },
+    "translation": "认知科学家强调，长期暴露在两极分化的媒体环境中会在不知不觉中扭曲人们的政治判断力，将复杂的客观证据畸变为主观极端的道德二元对立，并助长针对异见的剧烈敌意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

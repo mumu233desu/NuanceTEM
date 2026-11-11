@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b46_01",
+    "group_id": 461,
+    "group_name": "opulent, sumptuous, rich, grand",
+    "level": "TEM-8",
+    "target_word": "opulent",
+    "question": "Sociologists analyzing the late Gilded Age observed that the ascendant mercantile oligarchy was not merely prosperous, but aggressively ___, translating its speculative fortunes into theatrical public displays and competitive, ostentatious consumption to signal unassailable supremacy.",
+    "options": [
+      "opulent",
+      "sumptuous",
+      "rich",
+      "grand"
+    ],
+    "answer": "opulent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "the ascendant mercantile oligarchy was not merely prosperous, but aggressively ___, translating its speculative fortunes into theatrical public displays and competitive, ostentatious consumption",
+    "distractor_analysis": {
+      "opulent": "正确。根据《韦氏词典》，opulent 专指“exhibiting lavish display of wealth; amply or plentifully provided often to the point of ostentation”，且可直接修饰人、家族、社会阶层或统治群体（如 an opulent elite/widow）。句中“not merely prosperous, but aggressively ___”（不仅富足，更具有侵略性地挥霍炫耀）构成了从拥有财富到展示财富的语义递进，与后文“translating speculative fortunes into theatrical public displays and competitive, ostentatious consumption”（将投机财富转化为戏剧性的公开排场与竞争性炫耀消费）形成无懈可击的语境契合。",
+      "sumptuous": "错误。sumptuous（源自拉丁语 sumptus，花费）在现代标准英语中存在严格的投射范畴限制（selectional restriction），只修饰耗资巨大以取悦感官的具体物质对象、设施或活动（如 sumptuous banquet, sumptuous fabrics, sumptuous palace），绝不能修饰人、阶级、统治集团或政治实体（现代英语中不存在 sumptuous oligarchy/class 的用法，构成严重的范畴错配/语义破裂）。",
+      "rich": "错误。前文已使用“not merely prosperous”（不仅富足），若填入语义重叠且泛化的 rich，不仅在修辞上构成反高潮与逻辑同义反复（prosperous 与 rich 均指拥有丰厚资产），而且 rich 仅客观表示“资源或财富充裕”，完全缺乏句意核心所要求的“通过铺张排场与炫耀性消费展现财富”（ostentatious display）的动态行为内涵。",
+      "grand": "错误。grand 侧重于宏伟的尺度、庄严的气魄或高贵的社会地位（majestic scale, elevated nobility, dignity），带有崇高或体面的褒义色彩。句中由“theatrical public displays”和“competitive, ostentatious consumption”所界定的是暴发阶层俗丽、刻意的挥霍与排场，与 grand 所要求的“崇高庄严”产生直接的语域风格与评价极性冲突。"
+    },
+    "translation": "分析镀金时代晚期的社会学家指出，新兴的商业寡头不仅生活富足，而且极尽奢靡炫耀之能事，他们将投机得来的巨额财富转化为戏剧化的公开排场与竞争性的炫耀消费，以此宣示其不可动摇的霸权地位。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_02",
+    "group_id": 461,
+    "group_name": "opulent, sumptuous, rich, grand",
+    "level": "TEM-8",
+    "target_word": "sumptuous",
+    "question": "Within an intimate dining room, the chef skillfully avoided both the cloying heaviness of saturated fats and the ostentatious profusion of pecuniary display, crafting a ___ repast of breathtaking sensory magnificence.",
+    "options": [
+      "opulent",
+      "sumptuous",
+      "rich",
+      "grand"
+    ],
+    "answer": "sumptuous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_AESTHETICS",
+    "anchor_clue": "intimate dining room (precludes grand) + avoided the cloying heaviness of saturated fats (precludes rich) + avoided the ostentatious profusion of pecuniary display (precludes opulent) + repast of breathtaking sensory magnificence (mandates sumptuous)",
+    "distractor_analysis": {
+      "sumptuous": "正确。sumptuous（源自拉丁语 sumptus，指花销、开支）在现代英语中特指“投入巨大心力或财力，以精湛考究的造诣带来极致感官愉悦与华美体验”（marked by lavish expenditure and exquisite sensory gratification），尤其高频修饰珍馐盛宴（sumptuous repast / feast）或奢美织物。句中“crafting a sumptuous repast of breathtaking sensory magnificence”（烹制出一席感官华彩令人叹为观止的奢美盛宴）完美契合语境，既肯定了其感官质感之极致，又与前文对纯粹金钱炫耀的摒弃相得益彰。",
+      "opulent": "错误。opulent（源自拉丁语 ops，指财富、资源）的核心语义在于“拥有或炫耀性地展示巨额财富、金钱资产或物质过剩”（characterized by ostentatious wealth, affluence, or lavish profusion）。句中已明确设置决定性排他锚点：“skillfully avoided ... the ostentatious profusion of pecuniary display”（巧妙规避了纯粹金钱财富的炫耀性堆砌）。opulent 的核心词义恰恰由“pecuniary display”（财富炫耀）与“ostentatious profusion”（排场堆砌）所定义，选用 opulent repast 会与句意产生直接的语义矛盾与极性冲突。",
+      "rich": "错误。在美食品鉴语境中，rich 专指食物“富含油脂、奶油、糖分，浓郁而易腻”（containing much fat, cream, or sugar; cloying and heavy）。句中明确交代主厨“skillfully avoided ... the cloying heaviness of saturated fats”（巧妙规避了饱和脂肪的腻滞厚重感），若填入 rich repast，将与后文“轻盈、非高脂”的质感定位构成不可调和的逻辑冲突。",
+      "grand": "错误。grand 侧重指事物具有“宏大规模、庄严雄伟、庞大体量或国家典礼规格”（marked by immense scale, majesty, or formal ceremonial dignity），常用于修饰国宴或大型盛典（如 a grand banquet）。句首已明确将环境限定在“Within an intimate dining room”（在私密雅致的就餐间内），空间格局精巧私密，断然排除了强调庞大空间尺度与典礼仪式感的 grand。"
+    },
+    "translation": "在私密雅致的餐厅内，主厨巧妙规避了饱和脂肪的腻滞厚重，亦摒弃了纯粹金钱财富的炫耀性堆砌，精心烹制出一席展现出令人叹为观止之感官华彩的奢美盛宴。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_03",
+    "group_id": 462,
+    "group_name": "outgoing, effluent, out, past",
+    "level": "TEM-8",
+    "target_word": "outgoing",
+    "question": "During the transitional security briefing, analysts scrutinized the ___ governor's final strategic memorandum, noting that his impending departure had noticeably attenuated his political leverage over long-term institutional reforms.",
+    "options": [
+      "outgoing",
+      "effluent",
+      "out",
+      "past"
+    ],
+    "answer": "outgoing",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“transitional”（过渡时期的）与“impending departure had noticeably attenuated his political leverage”（迫在眉睫的卸任削弱了其政治影响力）构成了决定性时间与语境锚点，明确指示该官员正处于交接权力、即将卸任的状态，唯有专指“即将离任的”形容词 outgoing 契合。",
+    "distractor_analysis": {
+      "outgoing": "正确。outgoing 作形容词时，核心学术与政经释义为“即将离职的、即将卸任的”（leaving a position or office），与句中“transitional security briefing”及后文“impending departure”所设定的权力交接语境形成精准呼应与词汇共现。",
+      "effluent": "错误。effluent 作形容词时专指“（液体、气体等）流出的、排出的”，属于环境科学与水文学范畴，不能修饰政务官员或公职人员，存在范畴搭配错误（selectional restriction violation）。",
+      "out": "错误。out 用作形容词表示“下台的、不再掌权的”时，在现代英语中绝大多数情况下仅作表语（如 The party is now out.），极少作前置定语修饰职务名词（无 *the out governor 结构），违反了句法分布规范。",
+      "past": "错误。past 意为“过去的、往任的、曾经的”，指职务关系或状态已经彻底终结（即已经离职的前任，如 a past president）；而句中“impending departure”（即将卸任）明确证明该官员尚未离开岗位，使用 past 会产生直接的时态与逻辑语义矛盾。"
+    },
+    "translation": "在过渡期的安全简报会上，分析人士仔细审阅了即将离任的州长提交的最后一份战略备忘录，并指出其迫在眉睫的去职已显著削弱了他对长期制度改革的政治影响力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_04",
+    "group_id": 462,
+    "group_name": "outgoing, effluent, out, past",
+    "level": "TEM-8",
+    "target_word": "effluent",
+    "question": "Unlike the upper influent reach where streamflow drained into the unsaturated aquifer, the lower, ___ reach received constant groundwater seepage through its permeable riverbed, sustaining perennial discharge during severe regional droughts.",
+    "options": [
+      "outgoing",
+      "effluent",
+      "out",
+      "past"
+    ],
+    "answer": "effluent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GEOGRAPHY",
+    "anchor_clue": "句首的核心对照锚点“upper influent reach”（上游入渗/亏损河段）与后文“received constant groundwater seepage through its permeable riverbed, sustaining perennial discharge”（通过透水河床持续接收地下水渗漏，从而维持常年流量），严格指向现代水文地质学中与“influent stream/reach”（入渗流/亏损河段）严格配对的专业分类术语“effluent reach/stream”（排泄流/获水河段，即河床低于地下水位、地下水向河道排泄的河段）。",
+    "distractor_analysis": {
+      "effluent": "正确。effluent 在现代水文地质学（hydrogeology）中具有严格的科学定义，特指“获水的、接受地下水补给的”（gaining stream/reach），其河床低于局部潜水面，由地下水持续补给基流；它与句首的“influent reach”（河水向下补给地下水的入渗/亏损河段）构成不可动摇的经典学术对照配对（influent vs. effluent），完全符合学术语域与水动力学事实。",
+      "outgoing": "错误。outgoing 虽然在通用英语中含有“向外的”之意，但在水文地质学分类体系中绝无“outgoing reach/stream”这一术语。此外，该河段本质上是在“接收”地下水补给（gaining water），而非向外排水，若使用 outgoing 会造成严重的术语失配与水文学概念悖谬；该选项专为诱捕依靠“in- 对 out-”进行机械字面反义词联想的考生而设。",
+      "out": "错误。out 在现代标准学术英语中不能直接充当置于单数名词前的前置定语来修饰 reach（*an out reach 在句法上不成立，而复合名词 outreach 则指社区延伸服务）；它既不符合水文分类法，也破坏了句法规范。",
+      "past": "错误。past（过去的、昔日的）若修饰 reach，在地貌学中指代“古河道/已干涸消亡的历史河段”（paleochannel/relict channel），这与后文现在分词短语“sustaining perennial discharge during severe regional droughts”（在严重干旱期间持续维持常年流量）所体现的当前处于活跃运行状态的水动力过程产生不可调和的逻辑冲突。"
+    },
+    "translation": "与河水向下渗入未饱和含水层的上游入渗河段不同，下游的排泄（获水）河段通过其透水河床持续接收地下水渗流补给，从而在区域严重干旱期间依然维持着常年水流。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_05",
+    "group_id": 463,
+    "group_name": "perceptible, discernible, weak, faint",
+    "level": "TEM-8",
+    "target_word": "perceptible",
+    "question": "Although the patient's carotid pulse remained regular throughout the cardiac emergency, it was so attenuated as to be scarcely ___ to the touch, compelling the attending physicians to monitor arterial pressure invasively.",
+    "options": [
+      "perceptible",
+      "discernible",
+      "weak",
+      "faint"
+    ],
+    "answer": "perceptible",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_MEDICINE",
+    "anchor_clue": "介词搭配'scarcely ___ to the touch'与前文'so attenuated'构成的程度否定：perceptible与to the touch构成表达触觉感知的经典权威搭配；discernible在词典释义中严格限定于眼力视觉（the eye）或智力理解（the understanding），不接to the touch；weak与faint不仅无法与to the touch搭配，且置于scarcely之后会造成'几乎不弱/几乎不微弱'的逻辑极性倒错。",
+    "distractor_analysis": {
+      "perceptible": "正确。perceptible意为'可觉察的、可感知的'，Merriam-Webster将其核心定义为'capable of being perceived by the senses'，涵盖听、触、视、嗅等全部感官，且'perceptible to the touch'（触觉上可感知到的）为权威辞书与学术文献中的固定搭配。句中'so attenuated as to be scarcely perceptible to the touch'（脉搏如此微弱，以致通过触诊几乎无法觉察）在语法介词搭配、生理触觉表述以及因果逻辑链条（因触诊困难而转为侵入式监测）上均完全严密吻合。",
+      "discernible": "错误。从词汇语义学与认知范畴来看，discernible被权威辞书严格界定为'capable of being discerned by the eye or the understanding'，其认知依托是视觉轮廓（如discernible to the naked eye）或心智智力辨析（如discernible pattern/difference）。指端感知脉搏物理搏动属于纯粹的触觉感官接收（tactile perception），而非眼力或智力的辨别区分，英语中无*discernible to the touch的用法，存在明显的范畴与搭配错配。",
+      "weak": "错误。存在双重排他缺陷：① 句法与搭配阻断：weak不与介词短语'to the touch'搭配使用以描述触觉感受阈值；② 逻辑极性倒错（logical polarity inversion）：副词scarcely具有半否定语义（almost not），若填入weak，则'scarcely weak'意为'几乎不弱'（即脉搏有力），这与前文'so attenuated'（脉搏如此衰减）直接矛盾，也彻底颠覆了后文'迫使医生不得不采用侵入式血压监测'的临床必要性。",
+      "faint": "错误。同样存在双重排他缺陷：① 范畴错配：faint多用于修饰光线、声响、气味微弱（如faint light/whisper/odor）或意识模糊，不能进入'... to the touch'这一触觉句法结构；② 逻辑语义倒错：'scarcely faint'意为'几乎不微弱'（即搏动明显），与主句'attenuated'（衰弱的）构成无法调和的语义逻辑冲突。"
+    },
+    "translation": "尽管在整个心脏急症发作期间，患者的颈动脉搏动仍保持规律，但因其极其微弱而几乎无法通过触诊感知，这迫使主治医生们采取侵入式手段监测其动脉血压。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_06",
+    "group_id": 463,
+    "group_name": "perceptible, discernible, weak, faint",
+    "level": "TEM-8",
+    "target_word": "discernible",
+    "question": "The archival signatures were scarcely ___ from the masterfully executed forgeries, compelling forensic experts to employ spectroscopic analysis to identify the minute chemical discrepancies in the vintage ink.",
+    "options": [
+      "perceptible",
+      "discernible",
+      "weak",
+      "faint"
+    ],
+    "answer": "discernible",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性介词搭配'___ from'（可与……区分/辨别）。在四个选项中，仅discernible能够与from连用构成'discernible from'（= distinguishable from），表示两物之间的可辨别性。",
+    "distractor_analysis": {
+      "discernible": "正确。discernible意为“可辨别的、可识别的”，其后接介词from构成固定搭配“discernible from”，表示“与……相区别/可从……中辨认出来”，完美契合句中真迹签名与高超仿作难以区分、须借助光谱分析识别微小化学差异的语境。",
+      "perceptible": "错误。perceptible表示“可感知的、觉察得到的”，其介词搭配为to（如perceptible to the naked eye/ear），在现代英语中严禁与from搭配（不存在*perceptible from结构），存在严重的句法违规。",
+      "weak": "错误。weak后接from时表示“因……而虚弱无力”（如weak from exhaustion），属于因果状语搭配，完全脱离句中所要求的“分辨、区别”语义，填入句中造成范畴错乱。",
+      "faint": "错误。faint后接from时表示“因……而头晕/昏厥”（如faint from hunger），无法与from构成表示对象区隔的辨析结构，语义完全不符。"
+    },
+    "translation": "这批档案上的签名与技艺精湛的伪造品几乎难以分辨，迫使法医专家采用光谱分析法来鉴别复古墨水中微小的化学差异。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_07",
+    "group_id": 464,
+    "group_name": "perceptive, discerning, subtle, understanding",
+    "level": "TEM-8",
+    "target_word": "perceptive",
+    "question": "Even as an exceptionally ___ child, the future novelist exhibited an uncanny receptivity to latent domestic tensions, intuitively registering unvoiced anxieties and muted grief that adults assumed she was too young to notice.",
+    "options": [
+      "perceptive",
+      "discerning",
+      "subtle",
+      "understanding"
+    ],
+    "answer": "perceptive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的决定性排他锚点由主语名词“child”以及后文的“intuitive receptivity to latent domestic tensions”（对潜在家庭紧张氛围的直觉性感受力）和“intuitively registering unvoiced anxieties”（直觉性捕捉未言明的焦虑）构成。perceptive 专指感官与心理层面的“观察敏锐、具直觉洞察力的”，与 child 构成经典文学与心理学搭配（a perceptive child），完美契合直觉感知隐蔽情绪与人际动态的语境。discerning 核心指依赖后天经验与阅历形成的“有鉴赏力的、能辨明优劣品质的”，根本无法修饰幼年个体的情感直觉；subtle 修饰人时表“狡黠的、心机深的”；understanding 则表“通情达理的、宽容的”，均产生严重的语义与逻辑断裂。",
+    "distractor_analysis": {
+      "perceptive": "正确。perceptive 侧重于心理与感官上的敏锐反应能力（responsive to subtle sensory or psychological stimuli），强调能迅速察觉他人未明说的心绪、微表情及人际微澜（quick to notice and intuitively grasp subtle feelings），与 a perceptive child（早慧敏锐的儿童）形成严谨地道的英语搭配，完全契合后文的直觉性感知特征。",
+      "discerning": "错误。discerning 强调“有鉴别力的、有眼光的”，核心在于运用理智、批判性标准或审美阅历来判别事物的质量、优劣、真伪或细微品位差异（good judgment in distinguishing quality or merit，如 a discerning critic / palate）。句中既不存在“品鉴优劣、区分真伪”的评估客体，且幼童缺乏后天培养的批判性审美/价值辨别力，用于此处属于严重的词义与范畴误用。",
+      "subtle": "错误。subtle 若直接作定语修饰人（a subtle person/child），在传统及现代英语中均表示“狡黠的、工于心计的、行事隐秘微妙的”（artful, crafty or devious），绝无正面褒奖“洞察敏锐”之意；该词作褒义时通常修饰抽象事物、差异或分析（如 subtle distinctions）。用于修饰幼童的情感直觉不仅语义不通，还会带来贬义色彩。",
+      "understanding": "错误。understanding 作为形容词修饰人时，意为“善解人意的、通情达理的、体谅包容的”（sympathetic, tolerant and compassionate）。句中强调的是对隐蔽心理迹象与压抑情绪的“非凡认知敏锐度与察觉力”（cognitive and observational acuity），而非道德或伦理层面的同情、隐忍或体谅态度。"
+    },
+    "translation": "甚至早在作为一个悟性与感知力非凡的孩子时，这位未来的小说家就对潜在的家庭紧张氛围表现出了不可思议的敏锐感受力，能够直觉性地捕捉到大人们自以为她年幼无知而未能注意到的隐秘焦虑与无声悲伤。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_08",
+    "group_id": 464,
+    "group_name": "perceptive, discerning, subtle, understanding",
+    "level": "TEM-8",
+    "target_word": "discerning",
+    "question": "Renowned for being exceptionally ___ in her selection of rare manuscripts, the chief archivist accepted only those codices whose provenance was immaculate and whose scholarly significance was beyond question.",
+    "options": [
+      "perceptive",
+      "discerning",
+      "subtle",
+      "understanding"
+    ],
+    "answer": "discerning",
+    "primary_mechanism": "MECH_SYNTAX_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点由句法搭配与语义逻辑构成双重锁定：其一，句法结构“in her selection of...”形成固定介词搭配要求，discerning in [one's] selection/choice 专指在抉择与品评中展现出敏锐鉴别力与极高品位；其二，后文“accepted only those codices whose provenance was immaculate and whose scholarly significance was beyond question”（仅入藏出处无可挑剔且学术价值确凿无疑的典籍）明确了基于优劣标准进行严苛品鉴与去粗取精的语境，排他性指向 discerning。",
+    "distractor_analysis": {
+      "perceptive": "错误。perceptive 侧重于感官或心理层面的“敏锐察觉力、直觉洞察力”（responsive to sensory or cognitive stimuli），描述的是对隐含信息或心理情绪的敏锐捕捉（如 perceptive of subtle cues / perceptive about human nature），而非在品质优劣上的挑剔甄选。在句法上，perceptive 常与 of 或 about 搭配，不能接“in one's selection of...”，填入此处造成句法割裂与语义脱节。",
+      "discerning": "正确。discerning 意为“有眼力的、具敏锐鉴别力的、挑剔讲究的”，强调能洞察事物内在品质差异并作出精准评判，与“in her selection of rare manuscripts”形成严谨的地道学术搭配，完美契合后文因严核出处与学术价值而拒绝次品的严谨甄选行为。",
+      "subtle": "错误。subtle 形容人时意为“微妙的、狡黠的、不露声色的”（crafty or understated），用于修饰人的学术选拔标准不仅语义不通，而且“subtle in one's selection”意为挑选手段隐秘巧妙，与后文所体现的秉持公开严苛标准把关馆藏质量相冲突。",
+      "understanding": "错误。understanding 作形容词时意为“体谅的、宽容的”（tolerant and sympathetic），通常搭配 of（如 understanding of human frailty）。在手稿采选中，档案鉴定遵循客观严密的学术与真伪标准，要求严苛排他，与“宽容体谅”产生严重语义冲突，且搭配完全不合学术规范。"
+    },
+    "translation": "这位首席档案研究员在珍稀手稿的甄选中以眼光极度挑剔独到著称，她只接纳那些流传出处无瑕且学术价值无可置疑的古抄本。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_09",
+    "group_id": 465,
+    "group_name": "pernicious, insidious, subtle, harmful",
+    "level": "TEM-8",
+    "target_word": "pernicious",
+    "question": "The constitutional court struck down the decree, condemning the executive's summary dismissal of magistrates not as a mere procedural overstep, but as a flagrant and ___ abuse of power that inflicted irreparable damage upon judicial independence.",
+    "options": [
+      "pernicious",
+      "insidious",
+      "subtle",
+      "harmful"
+    ],
+    "answer": "pernicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_LAW",
+    "anchor_clue": "句中并列修饰语'flagrant'（公然昭彰的、明目张胆的）要求所选形容词必须契合公开、暴烈的性质，从而决定性排除了以'潜伏隐秘、暗中蔓延'为核心的 insidious 以及'隐微难以察觉'的 subtle；同时，后文'inflicted irreparable damage upon judicial independence'（对司法独立造成不可逆转的破坏）以及与'mere procedural overstep'（微小程序失当）的强烈递进对比，决定性排除了语义宽泛温和、文体层级平淡的 harmful，唯有表'具有毁灭性、致命危害'的法学经典搭配词 pernicious 能够达成语义闭环。",
+    "distractor_analysis": {
+      "pernicious": "正确。源自拉丁语 perniciosus（源于 pernicies“灭亡、毁灭”，词根 nex“暴力死亡”），意为“极其有害的、毁灭性的、致命的”（highly injurious or destructive, ruinous）。在宪政与法学语境中，“flagrant and pernicious”是抨击重大侵权与越权的经典并列用语，既呼应了行政命令“即刻强行免职法官”（summary dismissal）的公然与恶劣，又精准契合后文对司法独立造成“不可逆转破坏”（irreparable damage）的毁灭性程度。",
+      "insidious": "错误。其核心语义为“暗中为害的、潜伏蔓延以暗算陷害的”（working or spreading in a hidden, gradual, and treacherous way；源自 insidiae“伏击、埋伏”）。句中已有并列定语 flagrant（公然昭彰的、暴露无遗的），两者在存在形态上属于不可共存的语义矛盾（即一事物不可能既是“明目张胆的”又是“潜伏隐秘的”），修饰公开行政命令造成严重逻辑断裂。",
+      "subtle": "错误。意为“微弱的、微妙隐晦的、难以捉摸的”（elusive, delicate, or barely noticeable）。首先与前置协调形容词 flagrant 形成直接的反义冲突；其次，强行免职法官并重创司法体系属于剧烈而外露的制度侵害，绝非 subtle 所能描述。",
+      "harmful": "错误。属于基础通识词汇，仅客观表示“有害的”，词义程度过弱且文体层级较低（informational register）。置于“not as a mere procedural overstep, but as a flagrant and...”这一高度正式且语力强劲的司法判词结构中，harmful 会造成严重的修辞跌落（bathos），且修饰“abuse of power”（滥用权力本就意味着有害）构成语义低效冗余，无法承接后文“irreparable damage”所体现的制度瓦解与毁灭性意涵。"
+    },
+    "translation": "宪法法院裁定废除该法令，谴责行政当局草率免职法官的行径绝非细枝末节的程序失当，而是一项公然且极具毁灭性的权力滥用，对司法独立造成了不可逆转的重创。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_10",
+    "group_id": 465,
+    "group_name": "pernicious, insidious, subtle, harmful",
+    "level": "TEM-8",
+    "target_word": "insidious",
+    "question": "Owing to its ___ onset, the algal neurotoxin accumulated within the coastal marine population undetected, displaying no outward physiological symptoms until sudden, irreversible organ failure paralyzed the entire pod.",
+    "options": [
+      "pernicious",
+      "insidious",
+      "subtle",
+      "harmful"
+    ],
+    "answer": "insidious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "核心决定性锚点在于名词短语搭配'___ onset'以及后文的同位语境阐释'accumulated... undetected, displaying no outward physiological symptoms'（悄然累积且未被发觉，无任何外在生理病症）。在病理学与生态毒理学中，'insidious onset'是专有名词化的高频固定搭配，特指疾病或毒素'潜伏发病、初期毫无征兆'的渐进过程；而 pernicious、subtle、harmful 均无法与 onset 构成该特定病理机制的专业搭配。",
+    "distractor_analysis": {
+      "insidious": "正确。insidious 的核心意旨为'暗中滋生蔓延、潜伏而不易被察觉的'（developing so gradually as to be well established before becoming apparent）。在生物医学与生态毒理学中，'insidious onset'（隐匿发病/潜隐发作）为经典术语搭配，与后文'accumulated... undetected'和'no outward physiological symptoms'完美呼应。",
+      "pernicious": "错误。pernicious 强调的是损害程度的致命性与毁灭性（highly injurious or destructive），侧重结果与破坏力，而非病症发作时'悄然无息、暗中设伏'的发展模式；在英语中不存在'pernicious onset'这一病理学术语，造成搭配断裂（collocational rupture）。",
+      "subtle": "错误。subtle 意为'微小的、微妙的'，虽有不易察觉之意，但缺乏 insidious 所独具的'潜伏包藏祸心、造成严重病理后果'的隐蔽侵袭色彩；且在科学语境中，形容病理或毒理潜匿发作的严谨搭配并非 subtle onset。",
+      "harmful": "错误。属于普通日常用词，语义笼统，意为'产生伤害的'。它既不能修饰 onset 来表达起病过程的潜匿特性（harmful onset 属于搭配错误），亦无法传达出毒素初期无症状、暗中蓄积的深层学术语义。"
+    },
+    "translation": "由于该藻类神经毒素的发病极为潜隐，在沿海海洋生物种群中悄然蓄积而未被察觉，在突发且不可逆的器官衰竭瘫痪整个鲸群之前，未曾表现出任何外在生理症状。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_11",
+    "group_id": 466,
+    "group_name": "provident, farsighted, long, careful",
+    "level": "TEM-8",
+    "target_word": "provident",
+    "question": "Fearing that commodity volatility would destabilize public finances, the treasury proved remarkably ___ against future revenue contractions, accumulating vast sovereign reserves and enforcing strict expenditure ceilings during the unprecedented oil boom.",
+    "options": [
+      "provident",
+      "farsighted",
+      "long",
+      "careful"
+    ],
+    "answer": "provident",
+    "primary_mechanism": "MECH_SYNTAX_COLLOCATION",
+    "field": "FIELD_ECONOMY_FINANCE",
+    "anchor_clue": "句中的决定性排他锚点在于介词支配框架与专有经济语义的双重锁定：\n1. 句法层面上，空格后紧跟介词短语“against future revenue contractions”。根据《牛津英语词典》（OED）与《韦氏词典》，形容词 provident 承接动词 provide against 的次范畴化特征，确立了“provident against/of/for”（防备未来灾祸、匮乏或变故）的标准句法支配关系；而 farsighted 在现代英语中绝不支配介词 against（*farsighted against... 构成严重句法破裂），careful 仅支配 with/of/about 或后接不定式（*careful against... 属明显介词误用），long 与 against 搭配在此语境下亦毫无语义可能。\n2. 语境语义上，伴随分词短语“accumulating vast sovereign reserves and enforcing strict expenditure ceilings”明确点明在繁荣期通过节制开支与积累储备以应对萧条，完美对应 provident 特有的“兼具远见与节俭储备”（providing for future needs through saving and thrift）的专有内涵。",
+    "distractor_analysis": {
+      "provident": "正确。考查其专有的句法介词搭配与高级政经语体语义。provident 意为“深谋远虑且省俭储备的”，权威词典（OED、Webster）明确记载其可支配介词 against（如 provident against future distress / emergencies），用以表达为未来的危机做资财储备；同时，后文“设立主权储备、压减开支上限”的财政举措精准契合其强调“thrift and husbanding of resources”的核心内涵。",
+      "farsighted": "错误。句法搭配严重违背。farsighted 意为“有远见的”，通常作前置定语修饰 policy, plan 或在表语后接 in doing sth. / to do sth.，现代英语句法中严禁后接介词 against（*farsighted against 属于不合语法的句法断裂）。此外，该词仅侧重抽象视野的宏大，缺乏 provident 所特有的物质储备与节俭节制（saving/frugal）含义。",
+      "careful": "错误。介词搭配不当且语体偏低。careful 意为“小心的、谨慎的”，其常规介词搭配为 careful with/about/of 或后接不定式，绝对不能与 against 连用（防范风险在英语中需使用 guard against 等动词短语，*careful against revenue contractions 属于典型的中介语搭配错误）。再者，careful 属基础日常词汇，难以体现主权财政逆周期宏观审慎调控的高端学术质感。",
+      "long": "错误。句法与词义完全脱节。形容词 long 主要表示时间或空间长度（如 long duration, long term），在经济金融中作形容词或副词虽可用于多头头寸表达（long on/of），但在此处充当表语与 against 连用（*long against...）完全无法成句，属于严重词义与句法语病。"
+    },
+    "translation": "因担忧大宗商品市场的波动会动摇公共财政，财政部在防范未来财政收入紧缩方面表现得极有远虑且省俭节制，在空前的石油繁荣期积累了庞大的主权储备并严格执行支出上限。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_12",
+    "group_id": 466,
+    "group_name": "provident, farsighted, long, careful",
+    "level": "TEM-8",
+    "target_word": "farsighted",
+    "question": "The treaty's architects were praised for their ___ statecraft, having anticipated systemic geopolitical shifts and deliberately embedded adaptable institutional mechanisms capable of surviving regional upheavals over subsequent generations.",
+    "options": [
+      "provident",
+      "farsighted",
+      "long",
+      "careful"
+    ],
+    "answer": "farsighted",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中“statecraft（治国方略/外交手腕）”与后文“anticipated systemic geopolitical shifts... surviving regional upheavals over subsequent generations（预判地缘政治的系统性变迁，跨越数代人抵御动荡）”构成了宏观战略远见的鲜明语境，必须选用侧重于政治洞察力、宏观预判与制度远见的形容词，决定了 farsighted 的不可替代性。",
+    "distractor_analysis": {
+      "farsighted": "正确。该词强调“有远见的、高瞻远瞩的”（showing sagacity in anticipating future developments），常与 diplomacy, statecraft, policy 等宏大治理概念搭配，精准体现缔约者跨越数代预判地缘格局演变并预留制度韧性的智慧。",
+      "provident": "错误。该词侧重于“在物质与经济上未雨绸缪、精打细算以备后患”（frugal, husbanding resources），主要见于个人或财政层面的防匮积蓄行为，用于形容宏观地缘外交与跨代制度建构（statecraft）不仅语域错位，且产生误导性的“节省开支”暗示。",
+      "careful": "错误。careful 仅表示“审慎的、小心的、避免出错的”（cautious, methodical），强调防御性的规避失误，而句意强调的是主动洞察未来宏观变局的开创性远见，语义力度不足且逻辑重点不符。",
+      "long": "错误。long 修饰抽象名词表示空间或时间跨度长，无法充当描述“有远见的领导力/方略”的修饰语（不存在 *long statecraft 这一搭配，若表达长远需用 long-range 或 long-term）。"
+    },
+    "translation": "该条约的起草者因其高瞻远瞩的治国方略而备受赞誉；他们准确预见了系统性的地缘政治变迁，并特意植入了能够经受住后世数代区域动荡的弹性制度机制。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_13",
+    "group_id": 467,
+    "group_name": "redundant, superfluous, extra, spare",
+    "level": "TEM-8",
+    "target_word": "redundant",
+    "question": "Following corporate restructuring and the integration of automated workflows, hundreds of administrative staff were officially declared ___ and offered statutory severance packages under prevailing collective bargaining agreements.",
+    "options": [
+      "redundant",
+      "superfluous",
+      "extra",
+      "spare"
+    ],
+    "answer": "redundant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "句中的“were officially declared ___ and offered statutory severance packages under prevailing collective bargaining agreements”（被正式宣布……并根据现行集体谈判协议获得法定遣散费）构成了绝对排他的制度与语体锚点。在劳动关系学、劳动法及商业语域中，“declare/make somebody redundant”是表达“因机构精简、业务缩减或技术替代而裁撤雇员/岗位”的专有法律与制度搭配（institutional collocation），后文的“statutory severance packages”（法定遣散费）直接锁死这一特定词义，其余选项均无法进入该法律行政框架。",
+    "distractor_analysis": {
+      "redundant": "【正确】在此处作形容词，特指（英美劳资关系法与商业语域中）“因岗位撤销或劳动力过剩而被裁退的”。动词搭配“declare/make personnel redundant”（宣布裁员/解雇）是高度固定的行业与法律表述，与句中“administrative staff”、“statutory severance packages”（法定遣散费）及“collective bargaining agreements”（集体谈判协议）形成完美的语义共现与语域契合。",
+      "superfluous": "【排除】意为“多余的、过剩的”，强调事物在数量、程度或形式上超出了必要限度（exceeding what is necessary or required），通常用于描述抽象概念、冗余论据或多余装饰。该词绝不能充当劳工法中的法定人事术语；“declared superfluous”不仅存在严重的搭配断裂，且若用来形容雇员会被视为极其不当的侮辱性拟物修辞，完全无法与后文的法制化遣散补偿程序衔接。",
+      "extra": "【排除】为基础层级通用词，客观表示“额外增加的、附加的”（additional），通常带有中性或正面评价（如 extra bonus, extra help），不能在“declared ___”结构中表示员工失去岗位或被裁撤的状态，存在明显的文体降格（register clash）与语义不匹配。",
+      "spare": "【排除】侧重指“留作备用的、闲置的”（kept in reserve for future use，如 spare tyre, spare parts）或“空余的”（spare time）。其语义核心在于“以备不时之需的保留物”，与句中彻底终止劳动雇佣合同并支付遣散费的语境产生根本性的逻辑对立，“declared spare”在英语搭配法中亦完全不成立。"
+    },
+    "translation": "随着企业重组以及自动化工作流的整合，数百名行政人员被正式宣布裁撤下岗，并依据现行的集体谈判协议获得了法定遣散费。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_14",
+    "group_id": 467,
+    "group_name": "redundant, superfluous, extra, spare",
+    "level": "TEM-8",
+    "target_word": "superfluous",
+    "question": "Although the archival addenda were neither derivative nor duplicative of existing documentation, the editorial board deemed their publication wholly ___, insisting that such peripheral anecdotes contributed nothing of substance to the statesman's biography.",
+    "options": [
+      "redundant",
+      "superfluous",
+      "extra",
+      "spare"
+    ],
+    "answer": "superfluous",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_HISTORIOGRAPHY",
+    "anchor_clue": "句首让步从句“Although the archival addenda were neither derivative nor duplicative of existing documentation”（尽管档案附录既非衍生抄袭，亦非重复现有文献）与后文“contributed nothing of substance”（对传记核心毫无实质贡献）构成了决定性排他锚点。根据《韦氏词典》辨析，redundant 专指“因重复、叠加或同义反复而多余”（superfluous because it is a repetition, duplication, or tautology）；此处前文明确否定了“重复与衍生”，若填入 redundant 则直接破坏从句让步转折逻辑并构成语义矛盾。唯有 superfluous 精确指称“内容虽具新意、非重复，但因超出实际必要限度、无实质价值而应被剔除的多余累赘”。",
+    "distractor_analysis": {
+      "superfluous": "【正确】superfluous 指“超越了充分、必需或有用限度的、毫无价值而应当省去或剔除的多余之物”（exceeding what is necessary or sufficient; of such little value that it ought to be omitted）。句中让步状语明确澄清该材料并非既有内容的翻版或重叠（neither derivative nor duplicative），但因其琐碎且无实质价值（contributed nothing of substance），在学术出版中被认定为必须删削的附赘。superfluous 完美契合这一严密的批判性编辑语境。",
+      "redundant": "【排除】redundant 在文本校勘与学术出版语境中核心语义严格指向“因重复、再现或同义反复造成的多余”（characterized by similarity, repetition, or duplication）。句首让步分句“neither derivative nor duplicative”已在语义前提上彻底排除了“重复性”与“衍生性”，此时选用 redundant 会与前文让步条件产生直接的语义相悖与逻辑破裂。",
+      "extra": "【排除】extra 是中性客观描述词，意为“额外添加的、附带的”（additional, beyond what is usual），侧重数量上的增加，完全不具备 superfluous 所蕴含的“无实质价值、多余累赘而应予剔除”的学术评判色彩；且在正式学术文体中，“deemed their publication wholly extra”属于严重搭配不当与语体破裂。",
+      "spare": "【排除】spare 用于文本或写作风格时，意为“简练的、洗练朴素的、无多余装饰的”（lean, austere, economical），这与后文被指责的“无实质价值的边缘琐事”（peripheral anecdotes）直接构成语义反义；若作“备用的、空闲的”解，更与专著付印出版的学术逻辑完全脱节。"
+    },
+    "translation": "尽管这些档案附录既非衍生抄袭，亦非对现有文献的重复，但编辑委员会仍认定其出版纯属多余，坚称此类边缘琐事对这位政治家的传记毫无实质价值。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_15",
+    "group_id": 468,
+    "group_name": "relentless, unrelenting, continual, persistent",
+    "level": "TEM-8",
+    "target_word": "relentless",
+    "question": "Faced with the ___ arithmetic of an aging populace and escalating pension obligations, the finance ministry recognized that no degree of political rhetoric could bridge the widening sovereign deficit.",
+    "options": [
+      "relentless",
+      "unrelenting",
+      "continual",
+      "persistent"
+    ],
+    "answer": "relentless",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "搭配线索与语义锚点为修饰不可逆、客观冷酷的数理与财政规律——\"___ arithmetic of an aging populace and escalating pension obligations\"（老龄化人口与不断攀升的养老金负担背后……的算术规律/必然结果）以及后文\"no degree of political rhetoric could bridge the widening sovereign deficit\"（任何政治说辞都无法弥合不断扩大的主权财政赤字）。\"relentless arithmetic\" 为宏观经济学、财税治理与高端财经文献（如 The Economist, Financial Times, Foreign Affairs）中高度固化的经典搭配，专指冷酷严峻、不容任何调和或宽免余地的客观数字规律；其余选项在此搭配中均存在严重的范畴错配或语用破裂。",
+    "distractor_analysis": {
+      "relentless": "正确。relentless 带有否定词缀 -less（无……的），在修饰客观规律、数理法则或宏观趋势（如 arithmetic, calculus, erosion）时，专指“不可遏制、冷酷严峻、绝无妥协或宽免余地的”（allowing no mitigation, reprieve, or pity）。\"relentless arithmetic\"（冷酷无情的算术法则/客观数字必然性）是高端政经文本中的权威固有搭配，精准对应后文任何政治修辞都无法扭转赤字赤裸裸的现实。",
+      "unrelenting": "错误。unrelenting 源自动词 relent 的现在分词形式（un- + relenting），在语义与范畴上要求主体具备内在的“活力、冲劲、意志或施加压力的主动行为”（not letting up in vigor, pace, or determination），通常修饰人、主观敌对行为或持续施压的物理/心理过程（如 unrelenting effort, unrelenting pressure, unrelenting hostility）。而 arithmetic（算术、客观数字法则）属于静态、客观的抽象数理体系，既无“冲劲”也无“意志”去减弱或维持，将其修饰为 unrelenting 属于将动态行为特征强加于静态数理规律的范畴错配（category mistake），在 COCA/BNC 等权威语料库中检索为 0，构成严重搭配破裂。",
+      "continual": "错误。continual 核心语义为“频发的、断断续续的”（recurring at frequent intervals with interruptions），强调在时间维度上反复发生但有间歇。用于修饰静态不变、浑然一体的客观数理逻辑 arithmetic 构成范畴错误与语义冲突；且本句中老龄化与债务扩张是持续积累、不可逆的结构性现实，与 continual 的“间歇断续性”特征产生直接排斥。",
+      "persistent": "错误。persistent 意为“执拗的、在遭受阻力或干预下仍顽固坚持/存留的”（enduring in spite of opposition or treatment），常用于修饰顽固存在的消极现象（如 persistent deficit 顽固赤字、persistent inflation 顽固通胀）或坚持不懈的行为者。在此处，真正 persistent 的是后文的“赤字”（deficit），而非作为客观法则的“算术”（arithmetic）；arithmetic 本身并不参与抗争或抵御外力，搭配 persistent 构成逻辑主次颠倒与搭配不当。"
+    },
+    "translation": "面对人口老龄化与养老金负担节节攀升背后冷酷无情的算术法则，财政部清醒地认识到，任何层面的政治修辞都无法弥合日益扩大的主权财政赤字。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_16",
+    "group_id": 468,
+    "group_name": "relentless, unrelenting, continual, persistent",
+    "level": "TEM-8",
+    "target_word": "unrelenting",
+    "question": "The investigative committee pursued the cross-border corruption syndicate with ___ vigor, refusing to slacken their evidentiary inquiries or grant respite despite protracted bureaucratic obstruction and subtle intimidation.",
+    "options": [
+      "relentless",
+      "unrelenting",
+      "continual",
+      "persistent"
+    ],
+    "answer": "unrelenting",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "核心排他锚点为中心词'vigor'（充沛精力/势头）以及伴随分词'refusing to slacken their inquiries or grant respite'（拒绝放慢调查节奏或给予喘息）。unrelenting词源为un- + relenting（源于动词relent：减缓、松懈、变温和），专指主动执行者的斗志、势头、节奏或严苛追求始终不曾松弛或减退（not slackening or abating in vigor or determination）；相比之下，relentless侧重冷酷无情、缺乏同情心或客观规律的不可抗拒性（如relentless arithmetic/erosion），与主动保持的高昂精力不松懈有别；continual强调时间上有间歇的重复；persistent侧重顽固不化或长期存在，均无法体现不松懈的充沛势头。",
+    "distractor_analysis": {
+      "unrelenting": "【正确】形容词，源于动词relent（减缓、放慢、趋于温和），韦氏与牛津核心定义为'not softening or yielding in determination; not letting up or abating in vigor or pace'（在决心上不退让、在充沛精力或节奏上绝不松懈）。句中'refusing to slacken their inquiries'与'vigor'形成同源语义投射，精准表达调查委员会在精力与追查节奏上绝不放慢的态势。",
+      "relentless": "【错误】形容词，带有否定后缀-less，语义重心在于'pitiless, unyielding, showing no mercy'（冷酷的、不留情面的、无动于衷的），常修饰非人化的客观必然性（如relentless march of time）或残酷迫害，在修饰积极高昂的主动探求精力（vigor）并不减退时，不如unrelenting精准贴切。",
+      "continual": "【错误】形容词，指'频繁发生但期间伴有间断的重复'（recurring at frequent intervals with interruptions），句中委员会保持的是一贯到底、未曾松动的势头（refusing to slacken），continual的时间断续特征与语境完全违背。",
+      "persistent": "【错误】形容词，指'坚持不懈的、顽固的、久未消除的'（enduring in spite of opposition），侧重面对阻碍时不放弃，但缺乏unrelenting所蕴含的在充沛势头和工作节奏上'绝不松懈减慢'（not letting up/slackening in vigor）的动能与强度。"
+    },
+    "translation": "调查委员会以毫不松懈的强劲势头追查这一跨国腐败集团，尽管面临旷日持久的官僚阻挠与隐秘恐吓，仍坚决不放慢取证调查的步伐，亦不给对方任何喘息之机。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_17",
+    "group_id": 469,
+    "group_name": "scrawny, skinny, thin, lean",
+    "level": "TEM-8",
+    "target_word": "scrawny",
+    "question": "Archival photographs from the famine relief expedition revealed laborers whose ___ frames, characterized by stunted growth and jutting, rawboned joints, forced contemporary observers to confront the catastrophic biological toll of the prolonged agrarian blockade.",
+    "options": [
+      "scrawny",
+      "skinny",
+      "thin",
+      "lean"
+    ],
+    "answer": "scrawny",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive anchor clue: The explicit modifiers 'stunted growth and jutting, rawboned joints' align directly with the core Merriam-Webster definition of 'scrawny' ('exceptionally thin and bony; stunted; rawboned'), distinguishing it definitively from words that merely denote lack of fat or flesh.",
+    "distractor_analysis": {
+      "scrawny": "正确。根据《韦氏词典》的同义词专辨，scrawny 在表示瘦弱的基础上，特指因营养不良或恶劣环境而导致的“发育矮小受阻（stunted）”以及“骨骼粗大突兀（rawboned/bony）”。句中'stunted growth and jutting, rawboned joints'构成了不可替代的决定性排他锚点，完美契合赈灾记录与严重消瘦的学术语境。",
+      "skinny": "错误。skinny 强调缺乏皮下脂肪、皮包骨头（mere skin and bone）或身材过于干瘪，侧重外表缺乏丰满感，但不包含 scrawny 所独有的“发育停滞矮小（stunted）”和“骨节粗大嶙峋（rawboned）”的病理发育特征，在此处搭配粗大突出的关节显得语意不符。",
+      "thin": "错误。thin 是该语义场中最宽泛的中性词，仅客观指缺乏肉感或厚度，在描绘因饥荒导致的严重发育障碍与嶙峋骨架时过于笼统平淡，缺乏精准的病理学和具象描述力。",
+      "lean": "错误。lean 强调肌肉紧实、无多余脂肪，通常带有健康的健美感与体能充沛感（physical power and firmness，如用于运动员或精干体魄），与饥荒、发育停滞以及突兀骨节所展现的衰亡病态存在严重的语义极性冲突。"
+    },
+    "translation": "来自赈灾考察队的档案照片展现了劳工们骨瘦如柴的躯体，其矮小停滞的发育与粗大突兀的骨节，迫使当代的观察者直面长期农业封锁所造成的灾难性生理代价。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_18",
+    "group_id": 469,
+    "group_name": "scrawny, skinny, thin, lean",
+    "level": "TEM-8",
+    "target_word": "skinny",
+    "question": "Unable to reconcile deep ideological rifts over comprehensive healthcare reform, congressional leaders introduced a ___ bill, stripping out contentious mandates to preserve only the barest, must-pass funding provisions before the recess.",
+    "options": [
+      "scrawny",
+      "skinny",
+      "thin",
+      "lean"
+    ],
+    "answer": "skinny",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE",
+    "anchor_clue": "Decisive anchor clue: The noun phrase 'a ___ bill' paired with the explanatory participial clause 'stripping out contentious mandates to preserve only the barest, must-pass funding provisions' precisely defines the established political term of art 'skinny bill' (formally recorded in Merriam-Webster: 'of very small size or amount : bare-bones <a skinny bill>' and the Oxford English Dictionary: 'U.S. Politics. Of a bill, package, etc.: pared down, reduced to the bare essentials'). The distractors are decisively excluded: 'scrawny' is restricted to biological entities and constitutes a severe category violation; 'thin' collocates with majorities or margins ('thin majority') but never forms 'thin bill'; 'lean' describes organizational efficiency ('lean management') or tight budgets ('lean budget') but is not used in legislative nomenclature to denote a pared-down statutory measure.",
+    "distractor_analysis": {
+      "skinny": "正确。根据《韦氏词典》（Merriam-Webster），skinny 可引申指“of very small size or amount : BARE-BONES”，并明确收录权威例证“<a skinny bill>”；《牛津英语大词典》（OED）亦将其单列为专门政治术语（“Of a bill, package, etc.: pared down, reduced to the bare essentials; bare-bones”）。句中后半句“stripping out contentious mandates to preserve only the barest, must-pass funding provisions”（剥离争议性条款，仅保留最基本、必须通过的资金条款）构成了决定性的语意与搭配锚点，精准对应政治与立法语境中特指“精简版、骨架式法案”的固定搭配 a skinny bill。",
+      "scrawny": "错误。scrawny（瘦骨嶙峋的、干瘪瘦弱的）在选择限制（selectional restriction）上严格局限于生物体（人、动物或植物），侧重因发育不良（stunted）或营养不良（ill-nourished）而呈现出骨骼畸形凸出的干瘪体态。将其用于修饰抽象的立法法案（bill）属于严重的语义范畴错误（category mistake）与搭配断裂。",
+      "thin": "错误。thin 作为无标记的核心通用词，可用于物理厚度、质地稀薄、身体纤瘦，或引申表示论据薄弱（thin evidence）以及政治中的微弱多数（a thin majority/margin）。但在立法与政治话语中，英语绝无 a thin bill 这一搭配来表示“精简条款的法案”（在动物学中 thin bill 仅指鸟类的细长喙），属于严重搭配不当。",
+      "lean": "错误。lean 在组织管理与公共行政中常用于表达“精益的、去除冗余的”（如 lean manufacturing, lean operations）或紧缩的预算（lean budget），但在现代立法学与政治话语中，特指“为了妥协而剔除争议内容、仅保留最基本核心条款的骨干法案”具有高度唯一的专门术语性，政治英语中并不存在 a lean bill 这一表达，无法与后文特定立法行为构成语义吻合。"
+    },
+    "translation": "由于无法化解就全面医改方案存在的严重意识形态分歧，国会领袖们提出了一项精简版法案（skinny bill），剔除了所有具争议性的强制措施，以便在休会前仅保留最基本、必须通过的拨款条款。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_19",
+    "group_id": 470,
+    "group_name": "sleek, slick, silky, bright",
+    "level": "TEM-8",
+    "target_word": "sleek",
+    "question": "Although the design team praised the vehicle's ___ contour for reducing drag, cognitive ergonomics experts warned that such streamlined austerity severely compromised the driver's haptic perception and spatial awareness.",
+    "options": [
+      "sleek",
+      "slick",
+      "silky",
+      "bright"
+    ],
+    "answer": "sleek",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Phrases 'reducing drag' and the subsequent coreferential noun phrase 'streamlined austerity' strictly demand an adjective denoting aerodynamic smoothness and contour refinement.",
+    "distractor_analysis": {
+      "sleek": "正确。sleek 在物理与设计语境中意为“线条流畅的、流线型的”（streamlined, having smooth lines that offer little resistance to movement）。句中的“reducing drag（减少空气阻力）”与后文承接的“streamlined austerity（流线型的极简风格）”构成直接语义锚点，精准修饰车辆的外形轮廓（contour）。",
+      "slick": "错误。slick 作形容词表示“湿滑的、滑溜的”（slippery/oily）或“精明虚浮的”（glib, superficially attractive），不指代工程或空气动力学意义上的“流线型轮廓”，用于此处会导致语义搭配不当。",
+      "silky": "错误。silky 意为“丝绸般柔软光滑的”，侧重描述纺织材质的细腻触感或嗓音的柔和圆润，无法修饰具有空气动力学减阻功能的外形轮廓（contour）。",
+      "bright": "错误。bright 意为“明亮的、鲜艳的”或“聪颖的”，侧重光线反射强度或智力水平，与“减少阻力”的设计形态特征毫无语义关联。"
+    },
+    "translation": "尽管设计团队称赞该车流畅减阻的外形轮廓，但认知工效学专家警告称，这种流线型的极简设计严重削弱了驾驶员的触觉感知和空间意识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b46_20",
+    "group_id": 470,
+    "group_name": "sleek, slick, silky, bright",
+    "level": "TEM-8",
+    "target_word": "slick",
+    "question": "The committee dismissed the consultant's presentation as a ___ performance, arguing that its dazzling graphics and glib rhetoric merely masked profound methodological deficiencies and unsubstantiated cognitive assumptions.",
+    "options": [
+      "sleek",
+      "slick",
+      "silky",
+      "bright"
+    ],
+    "answer": "slick",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The derogatory frame 'dismissed ... as a ___ performance' coordinated with 'dazzling graphics and glib rhetoric merely masked profound methodological deficiencies' uniquely requires a word meaning superficially polished, persuasive, but deceptive and lacking substance.",
+    "distractor_analysis": {
+      "slick": "正确。slick 在修饰陈述、汇报或行事风格时意为“华而不实的、油滑敷衍的”（superficially attractive, glib, or polished but lacking depth and integrity）。句中“dismissed ... as（将其斥为）”、“glib rhetoric（浮滑的说辞）”以及“masked profound methodological deficiencies（掩盖了严重的方法论缺陷）”构成了排他性的批判语境，与 slick performance 构成经典负面搭配。",
+      "sleek": "错误。sleek 强调外观“时髦亮丽的、光滑流线的”（glossy and streamlined），多用于具象实体（如车辆、毛发、体态）或时尚造型，无法用于修饰学术/咨询报告中“华而不实、掩盖缺陷”的虚浮表现。",
+      "silky": "错误。silky 虽可引申指态度或语气“柔和谄媚的”（suave, smooth-tongued），但通常修饰 voice, tone 或 manner，不能修饰包含图表、数据与演讲的综合演示汇报（performance）。",
+      "bright": "错误。bright 修饰表现时多表示“聪颖的、充满生机或希望的”（promising, clever），属于鲜明的正面褒义词，与句首的否定动词“dismissed”及方法论缺陷形成根本性的逻辑色彩冲突。"
+    },
+    "translation": "委员会将该顾问的汇报斥为一场华而不实的表演，认为其炫目的图表和油滑的辞令不过是掩盖了严重的方法论缺陷和未经证实的认知假设。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

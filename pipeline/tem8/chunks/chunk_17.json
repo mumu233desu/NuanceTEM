@@ -78,13 +78,13 @@
     },
     {
       "group_id": 175,
-      "group_name": "urinate, ooze, crap, piss",
+      "group_name": "urinate, ooze, seep, purge",
       "target_word": "urinate",
       "words": [
         "urinate",
         "ooze",
-        "crap",
-        "piss"
+        "seep",
+        "purge"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",
@@ -114,13 +114,13 @@
     },
     {
       "group_id": 177,
-      "group_name": "void, ooze, crap, piss",
+      "group_name": "void, ooze, seep, purge",
       "target_word": "void",
       "words": [
         "void",
         "ooze",
-        "crap",
-        "piss"
+        "seep",
+        "purge"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",

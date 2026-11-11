@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b07_01",
+    "group_id": 71,
+    "group_name": "farce, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "farce",
+    "question": "By summarily excluding exculpatory evidence and barring international observers, the authoritarian tribunal rendered the purported corruption trial an unmitigated ___, prompting widespread accusations of judicial malpractice.",
+    "options": [
+      "farce",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "farce",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_POLITICS_LAW",
+    "anchor_clue": "句中复合宾语结构为 'rendered the purported corruption trial an unmitigated ___'（使这场所谓的腐败审判变成了彻头彻尾的……）。在此政治法律批判语境下，形容词 'unmitigated'（十足的、不折不扣的）与名词 'farce' 构成经典政治社论高频搭配（an unmitigated farce），精准指代“荒谬透顶的闹剧；名存实亡的虚伪审判（a ridiculous sham or mockery）”，具有无可替代的语义排他性。",
+    "distractor_analysis": {
+      "farce": "正确项。farce 用作名词，除戏剧文体指“滑稽闹剧”外，在当代高级学术政论与法律修辞中核心指代“荒唐可笑的行径、彻头彻尾的伪装或虚假把戏（an empty, ridiculous sham or mockery）”。与前文“排除脱罪证据（excluding exculpatory evidence）”、“所谓的审判（purported trial）”以及定语“unmitigated”严密吻合，完美契合审判沦为司法闹剧的语境。",
+      "clog": "错误项。clog 作名词意为“障碍物、羁绊或阻碍”，常用于指代妨碍流动或发展的瓶颈（如 a clog on economic trade），其核心语义是阻力或物理堵塞，绝不能用作审判或程序的同位语来表征一场“虚伪荒唐的司法程序”，语义范畴严重不当。",
+      "deluge": "错误项。deluge 作名词指“暴雨、大洪水”或比喻为“海量涌入的事物”（如 a deluge of complaints/information）。它强调的是外部事物涌入的体量庞大与难以招架，不能用于定性描述某项程序活动本身的伪善荒诞属性。",
+      "clutter": "错误项。clutter 作名词指“凌乱堆积的杂物、混乱失序的物理/思维状态”，通常为不可数名词（或固定用于 a clutter of... 结构中）。此处前接不定冠词 an 且修饰 trial 的本质属性，clutter 在句法搭配与抽象语义场上均完全不适用。"
+    },
+    "translation": "通过草率排除开脱罪责的证据并禁止国际观察员入场，该独裁特别法庭使这场所谓的腐败审判沦为了一场彻头彻尾的闹剧，引发了外界对司法不端的广泛谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_02",
+    "group_id": 71,
+    "group_name": "farce, clog, deluge, clutter",
+    "level": "TEM-8",
+    "target_word": "clog",
+    "question": "Recent behavioral research indicates that persistent financial anxiety tends to ___ the individual's cognitive bandwidth, significantly diminishing their capacity to process complex information and make prudent long-term decisions.",
+    "options": [
+      "farce",
+      "clog",
+      "deluge",
+      "clutter"
+    ],
+    "answer": "clog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心搭配锚点为宾语 'the individual's cognitive bandwidth'（个体的认知带宽）。在认知心理学与行为经济学经典文献中，'clog cognitive bandwidth'（阻塞认知带宽）属于固定跨学科术语搭配，形象地指焦虑如淤泥堵塞管道般阻碍认知处理流，其他三词均无法与 bandwidth 形成合法搭配。",
+    "distractor_analysis": {
+      "farce": "错误项。farce 意为在烹饪中“填馅”或在文学修辞中“穿插材料”，与信息处理通道、心理学度量概念 bandwidth（带宽）完全不可兼容，语义荒谬。",
+      "clog": "正确项。clog 意为“阻碍、阻塞”，常用于喻指阻碍通道、流水或信息处理容量。在认知科学中，'clog cognitive bandwidth' 是形容沉重心理负荷占满并堵塞大脑信息处理通道的标准权威搭配，完全符合语境逻辑。",
+      "deluge": "错误项。deluge 表示“以压倒性数量淹没”，语法上需以被淹没的人或接受者为宾语（如 deluge the individual with worries），不能直接支配 bandwidth 这一抽象通道容量名词，存在句法范畴失配。",
+      "clutter": "错误项。clutter 意为“堆满杂物使混乱”，通常支配物理空间（room, desk）或意识表层空间（mind），而 bandwidth 作为描述信道传输能力与处理限度的容量概念，只能被占用、限制或“阻塞（clog）”，不能被“杂乱堆放（clutter）”。"
+    },
+    "translation": "近期的行为学研究表明，持续的经济焦虑往往会阻塞个体的认知带宽，从而大幅削弱其处理复杂信息和做出审慎长期决策的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_03",
+    "group_id": 72,
+    "group_name": "ferret, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "ferret",
+    "question": "Despite pervasive bureaucratic obstruction and obfuscated shell corporations, the forensic accountants deployed specialized predictive algorithms to ___ out systemic tax evasion before the international regulatory summit convened.",
+    "options": [
+      "ferret",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "ferret",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Followed directly by the particle 'out' to form the standard cognitive idiomatic phrasal verb meaning to search out and bring concealed illicit activities to light.",
+    "distractor_analysis": {
+      "ferret": "正确。ferret 源自雪貂捕猎习性，隐喻引申为“搜寻出、查获、搜出（隐蔽或遗失之物）”，与小品词 out 构成高频学术固定搭配 ferret out，特指通过缜密追踪揭露深层掩盖的真相或逃税行为，句法与认知语境完全吻合。",
+      "snipe": "错误。snipe 作动词多指“狙击”或引申为“暗中放冷箭抨击”，其固定介词搭配为 at（snipe at），在英语中不存在 *snipe out 的及物动词短语搭配。",
+      "forage": "错误。forage 意为“搜寻（食物、补给）”，通常为不及物动词并与 for 搭配（如 forage for evidence），不存在 *forage out 的惯用搭配，且语义偏向于觅食而非针对性揭秘。",
+      "falcon": "错误。falcon 作动词仅指“用猎鹰狩猎”，属不及物动词且语义狭窄罕见，无法与 out 搭配，更无法用于查获抽象经济犯罪的现代学术语境。"
+    },
+    "translation": "尽管官僚阻挠层出不穷且空壳公司错综复杂，法证会计师们仍在国际监管峰会召开之前，运用专门的预测算法查出了系统性的逃税行为。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_04",
+    "group_id": 72,
+    "group_name": "ferret, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than proposing constructive institutional reforms, dissident delegates chose to ___ at the committee’s consensus from the rhetorical periphery, relying on cynical soundbites instead of empirical scrutiny.",
+    "options": [
+      "ferret",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Governed by the preposition 'at' and contextually qualified by 'from the rhetorical periphery' and 'cynical soundbites', demanding a verb signifying malicious, covert verbal attack.",
+    "distractor_analysis": {
+      "snipe": "正确。snipe 源自鹬鸟捕猎（隐蔽狙击），隐喻引申为“放冷枪、在暗处或边缘进行琐屑而恶毒的抨击”，固定搭配为 snipe at。与句中 from the rhetorical periphery（在修辞的外围）及 cynical soundbites（愤世嫉俗的口号噱头）形成完美的语境与认知共振。",
+      "ferret": "错误。ferret 表“搜出、查清”时必须与 out 搭配（ferret out），或表搜寻时与 about/around for 搭配，不可与 at 连用表示言论抨击，句法与论辩语境均不成立。",
+      "forage": "错误。forage 意为“搜寻、觅食”，介词搭配为 for（forage for），无法与 at 连用表示对委员会共识的恶意抨击，语义逻辑发生严重脱节。",
+      "falcon": "错误。falcon 作为动词仅严格指代古代猎鹰术（hunting with falcons），缺乏论辩攻击的引申义，且在现代英语中不可接 at 构成批评类短语动词。"
+    },
+    "translation": "异见代表们并未提出建设性的体制改革方案，而是选择在修辞的边缘地带对委员会达成的共识放冷箭、暗加抨击，只依赖愤世嫉俗的口号噱头而非实证层面的审视。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_05",
+    "group_id": 73,
+    "group_name": "flinch, funk, wince, quail",
+    "level": "TEM-8",
+    "target_word": "flinch",
+    "question": "Confronted with systemic banking instability, the central bank governor did not ___ from deploying unprecedented regulatory interventions, recognizing that institutional hesitation would trigger widespread market panic.",
+    "options": [
+      "flinch",
+      "funk",
+      "wince",
+      "quail"
+    ],
+    "answer": "flinch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "空后的介词短语 'from deploying...' 是决定性的句法与搭配锚点。'not flinch from doing sth' 是政经社论中表达‘在重大职责或艰难抉择面前绝不退避畏缩’的高频经典搭配。distractors 中，funk 作动词多为及物动词直接接宾语（如 funk the issue）或接 out of；wince 习惯与介词 at 连用表示肉体或心理上的抽搐畏缩；quail 习惯与 before 或 at 连用表示在强权或恐惧前畏缩退避，均无法与 'from deploying' 形成合语法的政策行动语境。",
+    "distractor_analysis": {
+      "flinch": "正确。不及物动词，与介词 from 构成固定搭配（flinch from doing sth），意为‘因艰难、危险或痛苦而退缩或逃避责任’，在否定结构 'did not flinch from...' 中完美契合央行行长面对危机坚决采取行动的庄重语境。",
+      "funk": "错误。funk 作动词表示‘因恐惧而退缩、逃避（挑战或职责）’时，在正式政经文体中通常为及物动词（直接接宾语，如 funk the challenge），或在非正式文体中接 out of，不与介词 from + 动名词搭配，填入此处会导致句法搭配断裂。",
+      "wince": "错误。wince 指因肉体剧痛、尴尬或精神不适而产生不自觉的面部或肢体退缩、抽搐，其标准搭配为介词 at（如 wince at the painful memories），既不能与 from + 动名词连用，也不能表达回避政策责任的语用含义。",
+      "quail": "错误。quail 强调因极度恐惧而丧失勇气、退缩发抖（cower in fear），其典型搭配是介词 before（面对威压）或 at（面对危险景象），不能与 from 构成表达‘不回避采取措施’的动作行为搭配。"
+    },
+    "translation": "面对系统性银行业动荡，央行行长毫不退缩地实施了史无前例的监管干预，因为他深知官方的犹疑不决将引发广泛的市场恐慌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_06",
+    "group_id": 73,
+    "group_name": "flinch, funk, wince, quail",
+    "level": "TEM-8",
+    "target_word": "funk",
+    "question": "Although editorial boards urged immediate fiscal consolidation, the prime minister decided to ___ the challenge, fearing that austerity measures would alienate vulnerable voters before the general election.",
+    "options": [
+      "flinch",
+      "funk",
+      "wince",
+      "quail"
+    ],
+    "answer": "funk",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "空格后直接接有名词短语 'the challenge' 作为动词的直接宾语。在该同义词群中，仅有 funk 在英式高级政论语域（如《经济学人》、《泰晤士报》）中具备标准的及物动词属性，意为‘回避、退缩于（挑战/难题/重大决策）’（funk the challenge / funk the issue）。其余三个动词 flinch、wince、quail 均为不及物动词，后接名词短语必须由介词引导（如 flinch from, wince at, quail before），直接后接宾语在现代标准英语中属于严重句法违误。",
+    "distractor_analysis": {
+      "funk": "正确。funk 在高级书面语境（尤其是英式政治与学术评论）中常作及物动词，意为‘（因胆怯或顾忌政治风险而）逃避、退却’，核心搭配即为 funk the challenge / funk the decision，后接宾语 'the challenge' 在句法和语体上均完全吻合。",
+      "flinch": "错误。flinch 为纯不及物动词（vi.），表示退避或畏缩时必须接介词短语（如 flinch from the challenge），不能直接支配名词宾语，填入此处会导致谓语及物性错误。",
+      "wince": "错误。wince 亦为不及物动词（vi.），指由于痛苦、恶心或窘迫而畏缩、龇牙咧嘴，无法充当及物动词直接接宾语 'the challenge'。",
+      "quail": "错误。quail 为不及物动词（vi.），表示因恐惧而胆怯或气馁，必须后接介词 before 或 at，不能直接加宾语，句法结构完全不成立。"
+    },
+    "translation": "尽管各大报刊社论敦促立即实施财政紧缩整顿，但首相还是决定回避这一挑战，担心紧缩措施会在大选前疏远弱势选民群体。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_07",
+    "group_id": 74,
+    "group_name": "flip, waver, twitch, quiver",
+    "level": "TEM-8",
+    "target_word": "flip",
+    "question": "Seminal experiments in behavioral economics demonstrate that human subjects systematically ___ their risk preferences when logically identical outcomes are reframed from prospective financial windfalls into catastrophic losses.",
+    "options": [
+      "flip",
+      "waver",
+      "twitch",
+      "quiver"
+    ],
+    "answer": "flip",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb-object collocation with 'their risk preferences' combined with the framing transformation ('reframed from... into...'). In cognitive psychology and behavioral decision theory, 'flip one's preferences' is a standard collocation denoting a sudden, total reversal of cognitive stance; structurally, 'flip' is the only verb among the four that can transitively govern an abstract cognitive noun phrase.",
+    "distractor_analysis": {
+      "flip": "正确。flip 在此用作及物动词，与 their risk preferences 构成行为决策领域的经典搭配（flip one's preferences，即“逆转/颠倒认知偏好”），精准对应从“风险规避”到“风险偏好”的彻底反转。",
+      "waver": "错误。waver 在表示认知动摇时为严格的不及物动词，通常后接介词短语（如 waver in / waver between），无法直接支配名词短语 their risk preferences 作宾语，存在直接的句法层面的及物性冲突。",
+      "twitch": "错误。twitch 指躯体局部肌肉发生突发性的抽搐或抽动，即便偶作及物动词，其受词也严格限于解剖学器官（如 twitch an eyelid/nose），绝不能引申支配抽象认知偏好。",
+      "quiver": "错误。quiver 意为“微颤、颤抖”，为严格的不及物动词，且语义场专指物理微振或因剧烈情绪（恐惧、兴奋）引发的躯体颤动，在句法与语义上均无法与抽象宾语搭配。"
+    },
+    "translation": "行为经济学的开创性实验表明，当逻辑上完全相同的决策结果从潜在的财务意外收益被重新框定为灾难性损失时，人类受试者会系统性地彻底逆转其风险偏好。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_08",
+    "group_id": 74,
+    "group_name": "flip, waver, twitch, quiver",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Throughout decades of fierce epistemological debate, the eminent philosopher did not ___ in his commitment to rationalism, resolutely defending objective truth against the encroaching tides of postmodern relativism.",
+    "options": [
+      "flip",
+      "waver",
+      "twitch",
+      "quiver"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame 'in his commitment to rationalism' acts as the decisive anchor. The intransitive verb 'waver' specifically collocates with 'in' plus an abstract noun denoting conviction, resolve, or intellectual adherence (e.g., waver in one's commitment/faith/resolve), signifying cognitive vacillation or faltering.",
+    "distractor_analysis": {
+      "waver": "正确。waver 与介词 in 形成高度固化的学术搭配（waver in one's commitment / resolve / conviction），在认识论思想语境中精准表达“对某种信念或学术立场的坚守产生动摇”。",
+      "flip": "错误。flip 表示“突转、翻转”，通常为及物动词或与 into/to 搭配，英语中不存在 *flip in one's commitment 来表示信念迟疑或动摇的用法，语义与搭配均不成立。",
+      "twitch": "错误。twitch 专指身体局部肌肉的痉挛性抽动，完全属于生理肌肉反应范畴，无法进入哲学与认知信念的抽象语境。",
+      "quiver": "错误。quiver 强调因寒冷、惊骇或情绪激动而引发的身体“颤抖”（常接 with fear/rage），不可与介词 in 搭配用于修饰抽象认知立场或理性信念（*quiver in one's commitment 为严重搭配错误）。"
+    },
+    "translation": "在长达数十年的激烈认识论论战中，这位著名哲学家对其理性主义立场的坚守从未动摇，坚定地捍卫客观真理以抵御后现代相对主义思潮的侵蚀。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_09",
+    "group_id": 75,
+    "group_name": "flounder, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "flounder",
+    "question": "Confronted with contradictory empirical findings during the panel review, the lead researcher began to ___ for a coherent defense, offering disjointed rationalizations that only heightened the committee's pervasive skepticism.",
+    "options": [
+      "flounder",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "flounder",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "began to ___ for a coherent defense, offering disjointed rationalizations (固定认知修辞搭配与介词支配：flounder for 意为“因不知所措而慌乱挣扎着寻找言辞/理由”)",
+    "distractor_analysis": {
+      "flounder": "正确。flounder 在本句中用作隐喻认知义，指“言语或行动失控、混乱挣扎”。flounder for a defense / words / an explanation 为 TEM-8 高频核心短语，指在学术诘问或严苛审视下心慌意乱、结结巴巴地仓促搜寻辩解理由，与后文 'offering disjointed rationalizations'（给出支离破碎的解释）形成完美的语境共振与句法配合。",
+      "wade": "错误。wade 的核心义为“在阻力中艰难前行”，引申指“费力阅读、处理庞杂材料”，常用搭配为 wade through 或 wade into，不能与介词 for 搭配表示“搜寻言辞或抗辩理由”，存在严重介词搭配错误与语意断裂。",
+      "slink": "错误。slink 强调“潜行、畏缩潜逃”（通常表因内疚、恐惧或羞愧而偷偷溜走），常用搭配为 slink away / slink off，无法接介词 for 充当“寻找说辞”的谓语动词，且本句语境为主试者当场辩护而非偷偷溜走，逻辑不符。",
+      "slouch": "错误。slouch 指“没精打采地坐/站/走”或“耷拉着身体”（体态或步态），不及物动词常搭配 in / against，不能与介词 for 构成认知层面的“搜寻辩护”，完全脱离语境。"
+    },
+    "translation": "面对专家评审期间出现的相互矛盾的实证结果，首席研究员开始慌乱地试图寻找合理的辩解，但他给出的支离破碎的解释反而进一步加剧了评审委员会普遍的怀疑态度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_10",
+    "group_id": 75,
+    "group_name": "flounder, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Before finalizing their synthesis, the archival historians had to ___ through thousands of folios of uncatalogued diplomatic correspondence, painstakingly cross-referencing disjointed accounts of early modern maritime treaties.",
+    "options": [
+      "flounder",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "had to ___ through thousands of folios of uncatalogued diplomatic correspondence, painstakingly cross-referencing (学术认知搭配：wade through 表示耐着性子费力处理海量繁琐文献)",
+    "distractor_analysis": {
+      "wade": "正确。wade through 为高级英语核心书面搭配，常用于学术研究、文献综述语境，意为“艰难费力地阅读、处理或审阅大量枯燥复杂的文书材料”（to read through dense, voluminous, or tedious material with sustained effort）。句中的“数千页未编目的外交信函”及后文的“煞费苦心地交叉比对”是该词的决定性排他锚点。",
+      "flounder": "错误。flounder through 虽偶指在泥泞中踉跄挣扎或在困难任务中由于能力不足而手足无措、濒临失败，但它描述的是不可控的被动失措与混乱失败，绝对不能用在以 had to 引导的、具有明确学术目标与严谨方法（painstakingly cross-referencing）的系统性科研阅读任务中，感情色彩与意图性发生冲突。",
+      "slink": "错误。slink through 仅可用于物理移动，意为“鬼鬼祟祟地穿过（阴影、小巷等）”，完全无法以书面文献或档案案卷（folios of correspondence）作为介词 through 的支配宾语，属于严重范畴错误。",
+      "slouch": "错误。slouch 侧重于身体姿态颓唐软塌地前行（如 slouch through the corridor），同样属于具体的物理体态动词，绝不可用于认知文献处理语境。"
+    },
+    "translation": "在最终完成综合论述之前，档案历史学家们不得不耐着性子费力翻阅数千页未编目的外交信函，煞费苦心地对近代早期海洋条约的零散记述进行交叉核对。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_11",
+    "group_id": 76,
+    "group_name": "flout, jeer, scoff, banter",
+    "level": "TEM-8",
+    "target_word": "flout",
+    "question": "Emboldened by lax regulatory oversight, several offshore financial intermediaries continued to ___ statutory anti-money-laundering directives, actively facilitating illicit capital flight despite repeated warnings from international compliance bodies.",
+    "options": [
+      "flout",
+      "jeer",
+      "scoff",
+      "banter"
+    ],
+    "answer": "flout",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格直接支配及物动词宾语 'statutory anti-money-laundering directives'（法定的反洗钱指令），后文伴随 'actively facilitating illicit capital flight'（积极协助非法资本外逃）。在四个选项中，仅有 flout 是完全及物的法律/规则违抗动词，专指‘公然蔑视并违抗法令或规章’；其余三项均为不及物动词或语义完全不兼容。",
+    "distractor_analysis": {
+      "flout": "正确。flout 为及物动词，核心义项为‘公然藐视、公然违抗（法律、规定、习俗或权威）’（to treat with contemptuous disregard; openly violate），在句法上直接搭配 statutory directives，在语义与语域上完美契合金融机构公然无视合规监管的语境。",
+      "jeer": "错误。jeer 意为‘嘲笑、起哄’，在现代英语中多为不及物动词（常与介词 at 连用表示嘲弄某人或某事），即使作及物动词其宾语也必须是承受嘲弄的人，绝不能支配‘法规指令’（directives）来表示‘违抗、无视’。",
+      "scoff": "错误。scoff 意为‘嘲笑、轻蔑地嗤之以鼻’，在现代标准英语中表此义时是严格的不及物动词，必须接介词 at（如 scoff at an idea/warning），无法直接接名词短语作及物动词宾语；且其核心侧重主观上的嘲弄态度，而非行动上的公然违法。",
+      "banter": "错误。banter 意为‘（善意、幽默地）打趣、开玩笑’，感情色彩为轻松愉快（playful/good-humored），不仅在语用色彩上与严肃的金融违法犯罪语境产生严重断裂，且不能带法规指令作宾语。"
+    },
+    "translation": "在宽松的监管环境下，数家离岸金融中介机构肆无忌惮地继续公然蔑视法定的反洗钱指令，尽管国际合规机构屡次发出警告，它们仍积极为非法资本外逃提供便利。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_12",
+    "group_id": 76,
+    "group_name": "flout, jeer, scoff, banter",
+    "level": "TEM-8",
+    "target_word": "jeer",
+    "question": "When the beleaguered envoy stepped forward to defend the controversial treaty, hostile delegates across the assembly hall began to ___ him with derisive catcalls, ultimately compelling the presiding officer to suspend the debate.",
+    "options": [
+      "flout",
+      "jeer",
+      "scoff",
+      "banter"
+    ],
+    "answer": "jeer",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的核心线索为宾语代词 'him' 以及伴随状语 'with derisive catcalls'（伴随着嘲弄的嘘声/喝倒彩），后文接 'compelling the presiding officer to suspend the debate'（迫使议事主席中止辩论）。这要求谓语动词具备‘通过发出喧嚣、尖叫或嘘声进行现场声学嘲弄与起哄攻击’的具体内涵，且能及物支配人体宾语。",
+    "distractor_analysis": {
+      "flout": "错误。flout 的宾语通常是‘规则、法律、惯例、权威或禁令’，表示公然违抗或置若罔闻，不能接具体的人作为宾语来表示‘用嘘声嘲弄某人’（*flout him with catcalls 属于严重搭配破裂）。",
+      "jeer": "正确。jeer 可作及物动词，专指‘以嘲弄的喊叫声、嘘声或讥讽言语攻击/起哄某人’（to shout derisive remarks at or mock someone loudly），句中的 derisive catcalls 与 suspend the debate 构成强烈的声学与情境锚点，完全契合 jeer 的核心语义。",
+      "scoff": "错误。scoff 表嘲讽时在现代英语中是不及物动词，必须接介词 at（即 scoff at him），不能直接跟及物宾语 him；此外，scoff 侧重轻蔑的态度与讥笑的神情，缺乏 catcalls 所体现的高分贝、群体性现场起哄喧嚣特征。",
+      "banter": "错误。banter 指友好、善意的逗乐与打趣（playful and teasing remarks），与主语 'hostile delegates'（敌对代表）、'derisive catcalls'（嘲弄的嘘声）以及导致会议被迫中止的严峻冲突语境在情感极性（polarity）和语体上严重抵触。"
+    },
+    "translation": "当那位陷入困境的外交特使走上前为备受争议的条约辩护时，整个大会堂内的敌对代表开始以嘲弄的嘘声向他起哄喝倒彩，最终迫使会议主持官员宣布暂停辩论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_13",
+    "group_id": 77,
+    "group_name": "flurry, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "flurry",
+    "question": "Although the hostile cross-examination was deliberately orchestrated to ___ the expert witness, she refused to lose her intellectual composure, responding to every provocative inquiry with formidable empirical rigor.",
+    "options": [
+      "flurry",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "flurry",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb requirement with a human cognitive object ('___ the expert witness') meaning to agitate or fluster mentally, contrasted with 'intellectual composure'. The distractors are strictly intransitive verbs in modern standard English.",
+    "distractor_analysis": {
+      "flurry": "正确项。在本题中作及物动词（transitive verb），意为“使慌乱、使心烦意乱、扰乱（某人）”（to agitate and confuse; fluster）。句中 'orchestrated to flurry the expert witness' 构成了典型的“及物动词 + 宾语”结构，与后文的 'intellectual composure'（知性从容）构成鲜明的认知语义反差，在语法及物性与语境语义上完全契合。",
+      "waver": "错误项。现代英语中为不及物动词（intransitive verb），意为“动摇、犹豫、踌躇”，通常后接介词短语（如 waver in / waver between），绝不能直接带宾语 *the expert witness*，产生致命的句法及物性冲突（transitivity violation）。",
+      "quiver": "错误项。为不及物动词，指轻微发抖或物理上的颤动（to shake with a slight rapid motion），多与介词 with 连用（quiver with fear），无法作及物动词接人作宾语，句法不成立。",
+      "writhe": "错误项。为不及物动词，指身体因剧痛等而扭曲、翻滚（to twist or contort the body in pain），常后接 in（如 writhe in agony），不可作及物动词接宾语，在此处句法与语义均无法兼容。"
+    },
+    "translation": "尽管对方律师充满敌意的交叉盘问蓄意旨在扰乱这名专家证人的心神，但她丝毫没有失去理智的从容，以极具威慑力的实证严谨性回应了每一次挑衅性质询。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_14",
+    "group_id": 77,
+    "group_name": "flurry, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with escalating economic turbulence and intense factional opposition, the chancellor did not ___ in his strategic resolve, steadfastly pursuing fiscal consolidation despite widespread calls for immediate populist subsidies.",
+    "options": [
+      "flurry",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocational frame '___ in [one's] strategic resolve' complemented by the cohesive discourse marker 'steadfastly pursuing', strictly requiring a cognitive verb denoting vacillation or weakening determination.",
+    "distractor_analysis": {
+      "waver": "正确项。不及物动词，在认知与政策决策语境中意为“（决心、信念）动摇、犹豫、退缩”（to vacillate, become unsteady in resolve）。固定搭配 'waver in one's resolve'（决心发生动摇）是政经学术文本中的核心搭配，与后半句的 'steadfastly pursuing'（坚定不移地推进）形成高度契合的逻辑互锁。",
+      "flurry": "错误项。作不及物动词时意为“慌张奔走、慌忙动作”，不可与抽象的 'in one's resolve' 构成认知层面的习惯搭配，无法表达决策立场的坚定与动摇。",
+      "quiver": "错误项。指细微快速的物理颤抖（如因愤怒或寒冷发抖），不能与 'in one's resolve' 搭配指代意志或理念上的动摇，导致严重的搭配破裂（collocational rupture）。",
+      "writhe": "错误项。指因生理或精神剧痛而翻滚挣扎（如 writhe in agony），属于躯体受苦类描述，完全不符合高级政策决策中关于“战略意志动摇与否”的理性认知语境。"
+    },
+    "translation": "面对日益加剧的经济动荡与激烈的派系反对，这位财政大臣在战略决心上未曾发生丝毫动摇，尽管外界普遍呼吁采取立竿见影的民粹式补贴，他依然坚定不移地推进财政整顿。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_15",
+    "group_id": 78,
+    "group_name": "foray, immerse, pervade, permeate",
+    "level": "TEM-8",
+    "target_word": "foray",
+    "question": "Although primarily trained in formal linguistics, the cognitive theorist dared to ___ into evolutionary anthropology, navigating uncharted conceptual frameworks despite prevailing skepticism from orthodox colleagues regarding such interdisciplinary excursions.",
+    "options": [
+      "foray",
+      "immerse",
+      "pervade",
+      "permeate"
+    ],
+    "answer": "foray",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic and lexical anchor: The intransitive frame '___ into [field/domain]' co-occurring with 'interdisciplinary excursions'. Among the options, only 'foray' functions intransitively with 'into' to denote venturing into a new intellectual domain.",
+    "distractor_analysis": {
+      "foray": "正确。foray 作不及物动词时，核心固定搭配为 foray into sth.，意为“涉足、初涉（全新学术领域或未知活动）”，强调带有尝试性或冒险性的跨界探索。题干中的“into evolutionary anthropology”与后文呼应的“interdisciplinary excursions”（跨学科尝试）在句法搭配与语义色彩上皆严丝合缝。",
+      "immerse": "错误。immerse 意为“沉浸、使深陷于”，为典型及物动词，在认知语境中必须接反身代词或宾语并与介词 in 搭配（即 immerse oneself/sb. in sth.），不能直接作为不及物动词接介词 into，语法结构不成立。",
+      "pervade": "错误。pervade 意为“弥漫、遍及、充斥”，为纯及物动词，其后直接跟被充斥的处所或载体（如 pervasive influence），不能与介词 into 搭配；且其主语通常是情绪、气息或思想特征，不能由具有自主意志的学者（theorist）充当施事者进行主动“涉足”。",
+      "permeate": "错误。permeate 意为“渗透、扩散”，多作及物动词（直接接宾语）或与 through 连用描述物理流体或抽象观念的自内向外扩散，不能与 into 搭配表示“进入/涉足某一学科领域”，与语境完全脱节。"
+    },
+    "translation": "尽管主要受训于形式语言学，这位认知理论家仍大胆涉足演化人类学，并不顾正统同僚对此类跨学科尝试的普遍怀疑，在未知的概念构架中探索前行。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_16",
+    "group_id": 78,
+    "group_name": "foray, immerse, pervade, permeate",
+    "level": "TEM-8",
+    "target_word": "immerse",
+    "question": "Before advancing novel hypotheses regarding historical linguistics, researchers must thoroughly ___ themselves in archaic dialectal records, internalizing subtle phonological shifts through sustained, unfiltered engagement with original textual corpora.",
+    "options": [
+      "foray",
+      "immerse",
+      "pervade",
+      "permeate"
+    ],
+    "answer": "immerse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic frame: '___ themselves in [textual/archival records]'. Only 'immerse' licenses the reflexive transitive construction 'immerse oneself in sth.' to describe deep, focused cognitive absorption.",
+    "distractor_analysis": {
+      "immerse": "正确。immerse 及物动词，常用于认知与学术领域，固定搭配为 immerse oneself in sth.，意为“使自己沉浸于、潜心钻研于（特定文献或环境）”。句中的反身代词 themselves 以及介词 in 与后文“sustained, unfiltered engagement”（持续且深度的直接接触）构成了完美的句法与语义双重闭环。",
+      "foray": "错误。foray 为不及物动词（通常搭配 into），不可带宾语，根本无法接反身代词构成 *foray themselves in...，在句法层面直接发生违规。",
+      "pervade": "错误。pervade 意为“普遍充斥于”，为纯及物动词，主语多为抽象属性或氛围，其宾语必须是被渗透的客体空间，绝不可带反身代词使用（*pervade oneself in 为严重语病）。",
+      "permeate": "错误。permeate 意为“穿透、弥漫”，不具备反身使役用法，无法与反身代词构成 *permeate themselves in...，在认知逻辑和及物性结构上均不成立。"
+    },
+    "translation": "在提出关于历史语言学的新假说之前，研究人员必须彻底沉浸于古老的方言文献之中，通过持续、直接地接触原始文本语料库，内化那些微妙的音变规律。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_17",
+    "group_id": 79,
+    "group_name": "fortify, fence, encase, enshrine",
+    "level": "TEM-8",
+    "target_word": "fortify",
+    "question": "The cognitive psychologist marshaled extensive neuroimaging evidence to ___ her controversial hypothesis against mounting skepticism, successfully demonstrating that visual perception operates independently of conscious linguistic processing.",
+    "options": [
+      "fortify",
+      "fence",
+      "encase",
+      "enshrine"
+    ],
+    "answer": "fortify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心搭配为及物动词与介词构成的论证防御结构：“___ her controversial hypothesis against mounting skepticism”。在学术认知语域中，fortify 与 hypothesis/argument/claim 等抽象认知概念构成高频学术搭配，表示通过论据（marshaled extensive neuroimaging evidence）“加强、巩固（理论假说）以御质疑”。其余三词在此句法框架下均存在严重的介词失配或语义范畴错位。",
+    "distractor_analysis": {
+      "fortify": "正确。fortify 在学术与认知领域常引申为“增强、巩固（论点、学说、假说）”，典型句式为“fortify + 论点/假说 + with/by 论据 + against 质疑/反驳”。句子前文提及“调集大量神经影像学证据”（marshaled extensive neuroimaging evidence），后接“against mounting skepticism”，完美符合其语义色彩与句法搭配。",
+      "fence": "错误。fence 作及物动词时主要表示“用栅栏围住”或“防护”，但在现代学术英语中，fence 不能与 hypothesis 直接搭配表达“用实证数据巩固学术观点”；若表示防范，通常作不及物动词（fence against）或比喻性的“fence in/off”（限制、约束），无法与及物宾语 hypothesis + against 构成此处的严密实证支撑语境。",
+      "encase": "错误。encase 为纯粹的具体物理空间包围动词，意为“把……装入箱/盒中；包住”，其标准句法搭配为“encase sth in sth”（如 encased in stone/glass）。它无法作用于 hypothesis 这种抽象理论假说，更无法接介词 against，属于句法搭配与语义范畴双重错误。",
+      "enshrine": "错误。enshrine 意为“把……奉为神圣；将（权利、原则等）载入/铭刻”，其固定搭配必须接介词 in（如 enshrine rights in the constitution）。其一，在句法上 enshrine 不能与 against 搭配（*enshrine sth against）；其二，在语义上，处于争议中且亟待实证检验的假说（controversial hypothesis）绝不可能被“奉为神圣原则”。"
+    },
+    "translation": "这位认知心理学家调集了大量神经影像学证据，以强化其备受争议的假说并抵御日益增长的质疑，成功论证了视觉感知独立于意识层面的语言加工过程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_18",
+    "group_id": 79,
+    "group_name": "fortify, fence, encase, enshrine",
+    "level": "TEM-8",
+    "target_word": "fence",
+    "question": "When pressed by peer reviewers to justify his unsubstantiated claims, the theorist chose to ___ with his critics rather than concede methodological errors, relying on circular logic and rhetorical evasion.",
+    "options": [
+      "fortify",
+      "fence",
+      "encase",
+      "enshrine"
+    ],
+    "answer": "fence",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟介词短语“with his critics”，且后文语境明确指出其行为特征是“relying on circular logic and rhetorical evasion”（借助循环论证与修辞托辞）。在选项给定的四个动词中，仅有 fence 具备不及物动词用法并构成经典辩论修辞习语“fence with sb”（意为“与某人巧妙周旋、躲闪闪烁、回避正面交锋”）。其余三词均为及物动词，在此处出现直接导致严重的动词配价（valency）与句法崩溃。",
+    "distractor_analysis": {
+      "fence": "正确。fence 在认知思辨与学术辩论语境中具有极具辨析度的高级不及物引申义，韦氏词典释义为“to strive to avoid giving direct answers: HEDGE”。固定习语“fence with sb”专指在争论或质询中“与某人狡狯周旋、闪烁其词”，与句末的“circular logic and rhetorical evasion”（循环论证与修辞遁词）形成无可挑剔的逻辑互锁。",
+      "fortify": "错误。fortify 在现代英语中为及物动词（transitive verb），必须接直接宾语（如 fortify a claim/city）。在语法上不存在“*fortify with his critics”来表示与人言语周旋的用法；在语意上，fortify 强调正面构筑实质性防御，与后文的“回避遁词”（evasion）产生逻辑反冲。",
+      "encase": "错误。encase 是严格的及物动词（vt.），意为“将……装入容器或包住”，必须后接宾语及介词 in（encase sth in sth）。此处的“___ with his critics”在句法配价上无法成立，语义亦荒谬不通。",
+      "enshrine": "错误。enshrine 是严格的及物动词（vt.），意为“铭记、珍藏、载入（法律或宪章）”，必须接直接宾语（如 enshrine the principle）。它既不能作不及物动词接“with his critics”，更无法表达辩论中的言语周旋与闪躲。"
+    },
+    "translation": "当同行评审专家要求其合理解释其未经证实的论断时，这位理论家非但没有承认方法论层面的错误，反而选择通过循环论证和修辞托辞与批评者巧妙周旋。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_19",
+    "group_id": 80,
+    "group_name": "fracture, maim, trample, incapacitate",
+    "level": "TEM-8",
+    "target_word": "fracture",
+    "question": "The sudden emergence of radical protectionist policies threatens to ___ the fragile transatlantic alliance, splitting member states into rival ideological factions and sabotaging decades of coordinated diplomacy.",
+    "options": [
+      "fracture",
+      "maim",
+      "trample",
+      "incapacitate"
+    ],
+    "answer": "fracture",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The direct object 'the fragile transatlantic alliance' combined with the subsequent participial clause 'splitting member states into rival ideological factions' strictly requires 'fracture' (meaning to break, rupture, or split an organization/relationship into fragments). 'Maim' violates selectional restrictions by requiring animate beings; 'trample' collocates with rights/principles and implies crushing underfoot rather than internal cleavage; 'incapacitate' denotes functional paralysis rather than factional splintering.",
+    "distractor_analysis": {
+      "fracture": "正确。此处取其在国际关系与政治话语中的高频隐喻义，意为“使（同盟、组织、共识）分裂、瓦解”。句中宾语为“the fragile transatlantic alliance”（脆弱的跨大西洋同盟），且紧承结果状语“splitting member states into rival ideological factions”（将各成员国分裂为相互对立的阵营），精准契合 fracture 所蕴含的“破裂并碎化为若干派系”的核心语义构词特征。",
+      "maim": "错误。语义范畴冲突（Category Mistake）。maim 的词义为“致残、使残废”，其语义选择限制严格要求支配具有血肉躯体的生命个体（如人或动物），无法以“alliance”（同盟）这类抽象地缘政治实体作直接宾语。",
+      "trample": "错误。trample 原义为“践踏”，转义为“粗暴践踏、肆意侵犯”，常与 rights（权利）、dignity（尊严）或 the constitution（宪法）搭配（多接介词 on/upon），强调压制与蹂躏，无法表达后文所明确阐述的“使统一实体内部分裂成互相对立的阵营”这一逻辑。",
+      "incapacitate": "错误。incapacitate 意为“使失去能力、使丧失功能”，其支配对象多为行动主体、军队、电力电网或操作管网（使其瘫痪、无法运转），侧重于功能的失效而非结构上的裂解与派系分化（splitting into factions）。"
+    },
+    "translation": "激进保护主义政策的骤然兴起恐将使脆弱的跨大西洋同盟发生分裂，不仅会导致各成员国分化为相互对立的意识形态派系，更会破坏数十年协调一致的外交成果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b07_20",
+    "group_id": 80,
+    "group_name": "fracture, maim, trample, incapacitate",
+    "level": "TEM-8",
+    "target_word": "maim",
+    "question": "Scattered indiscriminately across former conflict zones, unexploded cluster munitions continue to ___ unsuspecting civilians, inflicting irreversible bodily trauma and leaving thousands without limbs long after formal hostilities have ended.",
+    "options": [
+      "fracture",
+      "maim",
+      "trample",
+      "incapacitate"
+    ],
+    "answer": "maim",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive anchor clue: The human direct object 'unsuspecting civilians' followed immediately by 'inflicting irreversible bodily trauma and leaving thousands without limbs' points specifically and exclusively to 'maim' (lexicographically defined as mutilating, disfiguring, or depriving a person of a limb or bodily member). 'Fracture' is syntactically invalid with a human direct object (*fracture civilians); 'trample' requires physical treading underfoot which unexploded munitions cannot do; 'incapacitate' refers to general functional impairment without the specific somatic mutilation or loss of limbs depicted here.",
+    "distractor_analysis": {
+      "maim": "正确。此处取其权威词典核心义“致残、残害（尤指造成肢体缺失或永久性身体损毁）”。句中主语为未爆军火（unexploded cluster munitions），直接宾语为人（unsuspecting civilians），后文更有不可替代的排他锚点“inflicting irreversible bodily trauma and leaving thousands without limbs”（造成不可逆的肉体创伤并导致数千人失去肢体），完全吻合国际人道法及新闻公报中关于战争遗留弹药伤害平民的标准严密表达。",
+      "fracture": "错误。语法支配关系（Selectional Restriction）违背。fracture 作及物动词时意为“使骨折、折断”或“使分裂”，其宾语通常为骨骼部位（如 fracture a bone / skull）或抽象结构，英语中绝不能直接以生命个体（如 *fracture civilians）作及物宾语表示“使人重伤致残”。",
+      "trample": "错误。主谓动作逻辑脱节。trample 强调以脚、蹄等沉重踩踏、蹂躏，句中施动主体为散落的“未爆集束炸弹”（unexploded cluster munitions），无生命且非踩踏主体，无法与 trample 构成动作搭配。",
+      "incapacitate": "错误。incapacitate 意为“使丧失活动能力”（如因中毒、生病、眩晕等导致暂时或永久丧失功能），侧重功能层面的失能，缺少 maim 所独具的“残害肉体、造成严重器官或肢体不可逆损毁（loss of limbs/mutilation）”的特异性语义内涵。"
+    },
+    "translation": "未爆集束炸弹随意散落于昔日的冲突区域，在正规战事结束很久之后，依然持续致残毫无防备的平民，造成不可逆的肉体创伤，并使成千上万的人失去肢体。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

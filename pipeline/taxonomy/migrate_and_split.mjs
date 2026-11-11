@@ -6,15 +6,17 @@ const PREPOSITIONS = new Set(['to', 'with', 'by', 'from', 'for', 'of', 'in', 'on
 
 function detectMechanism(q) {
   if (q.primary_mechanism) {
-    const map = {
-      'MECH_COLLOCATION': { mechCode: 'col', mechanism: 'MECH_COLLOCATION', note: q.anchor_clue || '题干在句法结构、及物性或介词搭配习惯上存在严格限制。' },
-      'MECH_CONNOTATION': { mechCode: 'pro', mechanism: 'MECH_CONNOTATION', note: q.anchor_clue || '词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。' },
-      'MECH_REGISTER': { mechCode: 'reg', mechanism: 'MECH_REGISTER', note: q.anchor_clue || '考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。' },
-      'MECH_NUANCE': { mechCode: 'nua', mechanism: 'MECH_NUANCE', note: q.anchor_clue || '核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。' }
-    };
-    if (map[q.primary_mechanism]) {
-      return map[q.primary_mechanism];
+    const pm = q.primary_mechanism.toUpperCase();
+    if (pm.includes('COLLOC') || pm.includes('SYNTAX') || pm.includes('PREP') || pm.includes('COLLIG') || pm.includes('SELECT') || pm.includes('FRAME')) {
+      return { mechCode: 'col', mechanism: 'MECH_COLLOCATION', note: q.anchor_clue || '题干在句法结构、及物性或介词搭配习惯上存在严格限制。' };
     }
+    if (pm.includes('CONNOT') || pm.includes('POLARITY')) {
+      return { mechCode: 'pro', mechanism: 'MECH_CONNOTATION', note: q.anchor_clue || '词汇带有强烈的语篇情感色彩或语义韵（积极/消极），在语境感情色彩上互斥。' };
+    }
+    if (pm.includes('REGISTER')) {
+      return { mechCode: 'reg', mechanism: 'MECH_REGISTER', note: q.anchor_clue || '考查词汇所属的交际语域与正式度差异（学术公文/法律专有 vs 通用中性表达）。' };
+    }
+    return { mechCode: 'nua', mechanism: 'MECH_NUANCE', note: q.anchor_clue || '核心概念相近，重点考查动作力度深浅、局部调整 vs 全面更替或具体特指范围差异。' };
   }
 
   const text = q.question.toLowerCase();
@@ -179,7 +181,7 @@ function runMigration() {
 
   // 4. 生成统一的 manifest.json
   const manifest = {
-    version: '2026.10.09',
+    version: '2026.11.01',
     updated_at: Date.now(),
     packages: {
       tem4: {

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b18_01",
+    "group_id": 181,
+    "group_name": "ambush, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "ambush",
+    "question": "Anticipating that rival delegates would attempt to ___ the rapporteur with unvetted methodology during the plenary session, the steering committee assembled comprehensive rejoinders to neutralize the sudden dialectical trap.",
+    "options": [
+      "ambush",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "ambush",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive syntax governing a direct human object ('the rapporteur') paired with the instrumental phrase 'with unvetted methodology' and the contextual echo 'sudden dialectical trap'.",
+    "distractor_analysis": {
+      "ambush": "正确。及物动词，引申用于学术或政治辩论语境，意为“（以意想不到的提问、非正规材料等）伏击、突击盘问使陷入窘境”（to confront or trap unexpectedly from a hidden or vantage position）。此处直接接宾语 'the rapporteur'，与后文的 'with unvetted methodology'（用未经核实的方略）以及 'sudden dialectical trap'（突如其来的辩论陷阱）形成完美的语义照应与句法闭环。",
+      "snipe": "错误。在该引申义（放冷枪、放冷箭批评）中为典型的不及物动词，必须接介词 'at'（即 snipe at sb/sth），不能直接跟人作宾语（*snipe the rapporteur* 在标准书面语中句法不成立）。",
+      "forage": "错误。主要用作不及物动词，意为“搜寻、觅食”（通常接介词 for 或 in/through）；即使偶用作及物动词，宾语亦为粮秣物资（forage food）或被搜刮的地区，不可接人（the rapporteur）作为受事对象，语义和搭配完全破裂。",
+      "falcon": "错误。极特化的古老不及物动词，意为“用猎鹰狩猎”（to hunt with falcons），不能带宾语，且与学术辩论和认知博弈的语境毫无关联。"
+    },
+    "translation": "指导委员会预料到竞争代表会在全体会议期间用未经核实的方法突袭质难报告人，因而准备了详尽的反驳材料，以化解这一突如其来的辩证陷阱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_02",
+    "group_id": 181,
+    "group_name": "ambush, snipe, forage, falcon",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than confronting the empirical inconsistencies directly through rigorous peer review, disillusioned factions within the faculty preferred to ___ at the dean’s structural reforms from the anonymity of departmental message boards.",
+    "options": [
+      "ambush",
+      "snipe",
+      "forage",
+      "falcon"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional selection of 'at' ('___ at the dean’s structural reforms') combined with the spatial/figurative stance of safety and concealment ('from the anonymity of departmental message boards').",
+    "distractor_analysis": {
+      "snipe": "正确。不及物动词，固定搭配为 'snipe at'，比喻义为“（自隐匿处或安全位置）暗中攻击、恶意中伤、冷嘲热讽”（to make petty or covert attacks from a concealed position）。句中介词 'at' 与后文 'from the anonymity of...'（躲在匿名背后）构成了排他性的句法与修辞锚点。",
+      "ambush": "错误。为强及物动词（transitive verb），通常直接接宾语（ambush the reforms），不与介词 'at' 搭配（*ambush at sth 存在严重的句法支配错误）。",
+      "forage": "错误。意为“觅食、翻找”，常与介词 'for'（搜寻目标）或 'in/through'（搜寻场所）连用，与介词 'at' 搭配且用来描述针对行政改革的批评属于语意断裂与搭配错误。",
+      "falcon": "错误。不及物动词，专门指“放鹰捕猎”，无法与介词短语 'at the dean's structural reforms' 产生合乎逻辑的认知语境关联，纯属无效干扰项。"
+    },
+    "translation": "教职员工内部心怀不满的派系并未选择通过严谨的同行评议直接指出经验数据中的矛盾，而是更倾向于躲在系内论坛的匿名保护伞后，对院长的结构性改革放冷箭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_03",
+    "group_id": 182,
+    "group_name": "babble, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "babble",
+    "question": "Overcome by high fever and cerebral hypoxia, the patient began to ___ incoherently, uttering disjointed fragments of childhood recollections that bore no semantic relevance to the physician's clinical assessment.",
+    "options": [
+      "babble",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "babble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的修饰语 'incoherently' 以及后续分词短语 'uttering disjointed fragments... that bore no semantic relevance' 构成决定性语境锚点，明确要求填入一个能够表达因病理/生理意识障碍而发出的‘持续、无意义、支离破碎的胡言乱语’的不及物言语动词。只有 babble 具备‘因神志不清或谵妄而胡言乱语、喃喃乱语’的认知言语语义特征。",
+    "distractor_analysis": {
+      "babble": "正确。Merriam-Webster 明确定义为 'to utter meaningless or unintelligible sounds' 以及 'to talk excessively or incoherently'。此处与副词 'incoherently' 构成经典搭配，准确传达患者在高热与脑缺氧状态下神志不清、言语混乱破碎且缺乏逻辑关联的病理体征，完全吻合学术医学观察的语境。",
+      "blurt": "错误。blurt 指在未经深思熟虑的情况下‘突兀、冲动地脱口而出’（to utter abruptly and impulsively），为瞬时性点动词（punctual aspect），通常及物使用或后接 out 指脱口说出某项具体事实或秘密。本句描述的是由于意识障碍导致的持续连绵、语义破碎的言语混乱状态，与 blurt 的‘瞬时冲动吐露’在语义特征和动词体貌上均冲突严重。",
+      "whiff": "错误。whiff 基本义为‘微风轻拂、喷出、嗅闻气味’或在体育语境中指‘挥空、击空’。其词义完全游离于语言认知与言语障碍（FIELD_COGNITION）领域之外，填入此处会导致句意彻底断裂。",
+      "snivel": "错误。snivel 指‘抽鼻涕、抽泣哭诉、流着眼泪抱怨’（to run at the nose; whine or complain in a tearful manner）。该词的核心语义要素是‘带有鼻音的情感性抽噎或自怜式哭诉’，而非认知功能受损所导致的无逻辑胡话（incoherent fragments），在临床神经认知语境下出现语义严重错配。"
+    },
+    "translation": "由于遭受高热与脑缺氧的折磨，该患者开始语无伦次地胡话连篇，喃喃吐出一些支离破碎的童年记忆片段，与医师的临床评估毫无语义关联。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_04",
+    "group_id": 182,
+    "group_name": "babble, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Intimidated by the prosecutorial barrage, the fatigued witness feared that another direct confrontation might cause him to inadvertently ___ out the classified identities in a single, impulsive moment of panic.",
+    "options": [
+      "babble",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后接小品词 'out'，且由 'inadvertently'（不慎地）以及时间状语 'in a single, impulsive moment of panic'（在恐慌冲动的瞬间）形成强力排他锚点。语境明确强调在突发心理压力下‘瞬间、冲动、不加思索地泄露保密信息’，与 blurt out（脱口而出）的瞬时行为体与语用搭配完全咬合。",
+    "distractor_analysis": {
+      "blurt": "正确。Merriam-Webster 明确定义为 'to utter abruptly and impulsively — usually used with out'。句中的 'inadvertently'、小品词 'out' 以及 'in a single, impulsive moment of panic' 为经典锚点，精准刻画出疲惫的证人在严酷盘问下因瞬时冲动而失控脱口泄露机密身份的行为，句法与语义完全吻合。",
+      "babble": "错误。babble 侧重于漫长、絮叨、连绵不断或语义含混的发声（durative / continuous aspect）。后文限定的 'in a single, impulsive moment'（在单一、冲动的瞬间）明确排除了持续喋喋不休或胡言乱语的 babble，语义时间体貌发生冲突。",
+      "whiff": "错误。whiff 主要表示‘轻吹、嗅闻’或引申为‘错失、落空’。whiff out 并非英语中表达‘脱口泄密’的合法动词短语，在句法搭配与言语行为认知逻辑上完全不成立。",
+      "snivel": "错误。snivel 为不及物动词，意为‘吸着鼻涕抽泣、哭哭啼啼地抱怨’。它既不能与 out 构成及物性短语后接宾语 'the classified identities'，也无法传达‘在冲动瞬间失言脱口’的认知失控动作，存在严重的句法与语义双重违规。"
+    },
+    "translation": "在公诉方连珠炮般的逼问威慑下，筋疲力尽的证人唯恐再次遭遇直接对质会使自己在恐慌冲动的瞬间不慎将机密身份脱口而出。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_05",
+    "group_id": 183,
+    "group_name": "backfire, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "backfire",
+    "question": "Behavioral economists warn that punitive disincentives designed to enforce workplace compliance may spectacularly ___, eroding intrinsic motivation and ultimately provoking the very deceitful behaviors regulators had intended to eradicate.",
+    "options": [
+      "backfire",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "backfire",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The purpose clause 'designed to enforce workplace compliance' contrasted decisively with the participial clause 'provoking the very deceitful behaviors regulators had intended to eradicate' establishes an unambiguous reversal of an intended outcome, which is the exact lexicographical definition of 'backfire'.",
+    "distractor_analysis": {
+      "backfire": "正确。Merriam-Webster权威释义为'to have the reverse of the desired or expected effect'（产生与预期完全相反的有害后果）。句中惩罚措施旨在杜绝不合规行为，结果却反而诱发了该行为（provoking the very deceitful behaviors），构成典型的因果逆转逻辑；副词'spectacularly'与'backfire'构成政经学术文献中的经典强搭配。",
+      "honk": "错误。本义指'按汽车喇叭'或'大雁发出鸣叫'，在制度博弈与组织行为学语境中毫无隐喻或字面逻辑立足点，语义彻底脱节。",
+      "creak": "错误。意为'嘎吱作响'，引申为系统或体制在重压下'艰难运转、显露疲态'（如 the administrative apparatus creaked under pressure），但它仅强调承压与运作不良，无法表达'产生完全适得其反的逆向恶果'之意，与后文严重冲突。",
+      "racket": "错误。作动词时意为'过放荡吵闹的生活'或'喧哗吵闹'（通常与about/around连用），属于非正式语域的喧闹描摹，完全无法用于描述政策或干预机制的失败结果。"
+    },
+    "translation": "行为经济学家警告称，旨在强制推行职场合规的惩罚性抑制机制可能会适得其反、产生惨败，侵蚀员工的内在动力，并最终诱发监管者原本打算根除的欺诈行为。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_06",
+    "group_id": 183,
+    "group_name": "backfire, honk, creak, racket",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Ethologists studying avian collective cognition observed that migratory geese ___ incessantly from the rear of the V-formation, utilizing acoustic vocalizations to encourage front-runners and maintain flock coordination over vast distances.",
+    "options": [
+      "backfire",
+      "honk",
+      "creak",
+      "racket"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The subject 'migratory geese' paired with the defining phrase 'utilizing acoustic vocalizations to encourage front-runners' forms an absolute ethological anchor for the species-specific call verb 'honk'.",
+    "distractor_analysis": {
+      "honk": "正确。Merriam-Webster核心释义为'to make the characteristic cry of a wild goose'（发大雁特有的叫声）。句中主语'migratory geese'（候雁）与后文修饰发声机理的'acoustic vocalizations'构成严密的生物学术语锚点，精准指代雁群飞行中用以维系协同的叫声。",
+      "backfire": "错误。指引擎回火爆震或计策适得其反，主语为活体鸟类，既无机械爆鸣义项，亦无政策逆转义项，完全不合逻辑。",
+      "creak": "错误。指干燥无油的铰链、木板或僵硬关节摩擦发出的高音'嘎吱声'，绝非鸟类发声器官发出的主动交流鸣叫（vocalizations），搭配失范。",
+      "racket": "错误。作动词指'喧闹吵嚷'，属无目的之混乱噪音，且侧重指人类的狂欢或机械噪杂声，与后文高度有序、具有明确交流功能的鸟类协同信号（maintain flock coordination）存在严重语域和语义冲突。"
+    },
+    "translation": "研究鸟类群体认知的动物行为学家观察到，候雁在“V”形编队后方不断鸣叫，利用声音信号激励领航前锋，并在跨越遥远距离时维持雁群的整体协调。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_07",
+    "group_id": 184,
+    "group_name": "baffle, inhibit, encumber, constrain",
+    "level": "TEM-8",
+    "target_word": "baffle",
+    "question": "The idiosyncratic pathology of the novel neurodegenerative syndrome continues to ___ seasoned epidemiologists, whose exhaustive histological analyses have failed to identify any detectable pathogen or discernible genetic etiology.",
+    "options": [
+      "baffle",
+      "inhibit",
+      "encumber",
+      "constrain"
+    ],
+    "answer": "baffle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object is sentient researchers ('seasoned epidemiologists') who are intellectually defeated by an inexplicable scientific mystery ('failed to identify any detectable pathogen or discernible genetic etiology'). Only 'baffle' denotes frustrating or defeating the cognitive faculties of observers by being utterly impenetrable.",
+    "distractor_analysis": {
+      "baffle": "正确。意为“使困惑，使难倒”（to defeat or check by confusing or puzzling）。句子主语为机制不明的病变机制（idiosyncratic pathology），及物动词宾语为资深流行病学专家（seasoned epidemiologists），后文明确指出其耗费心力的组织学分析“未能识别出任何可检测的病原体或明显的遗传病因”，表明研究人员在认知与探究层面陷入彻底的困惑与无解，与 baffle 构成无可替代的语义契合。",
+      "inhibit": "错误。意为“抑制，遏制（生理反应、心理冲动或过程）”。其接纳的宾语通常为某种生化反应、神经冲动或行为（如 inhibit viral replication/growth），不能接指代研究者的名词（epidemiologists）来表示在认知上“使某人困惑/难倒”，属范畴与搭配错误。",
+      "encumber": "错误。意为“妨碍，拖累，使背负沉重负担”。多指物理上的沉重负荷、经济上的债务或行政繁文缛节对行动者造成羁绊（如 encumbered by debt/heavy equipment），无法用于描述科学谜题在智识层面使学者困惑不解。",
+      "constrain": "错误。意为“限制，约束，强迫”。核心语义是指受到外部客观规则、物理边界、法律或资源匾乏的束缚（如 constrained by budgetary limits），侧重自由度或行为空间的剥夺，而非智力探索上的迷惑与不可理解。"
+    },
+    "translation": "这种新型神经退行性综合征特异的病理机制仍旧使经验丰富的流行病学家们困惑不解，他们详尽的组织学分析迄今未能识别出任何可检测的病原体或明显的遗传病因。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_08",
+    "group_id": 184,
+    "group_name": "baffle, inhibit, encumber, constrain",
+    "level": "TEM-8",
+    "target_word": "inhibit",
+    "question": "Neurological evidence reveals that targeted transcranial stimulation can temporarily ___ the retrieval of emotionally distressing memories, thereby alleviating acute trauma symptoms without disrupting baseline cognitive functions.",
+    "options": [
+      "baffle",
+      "inhibit",
+      "encumber",
+      "constrain"
+    ],
+    "answer": "inhibit",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The transitive verb governs 'the retrieval of emotionally distressing memories' as its direct object, with the therapeutic goal of suppressing traumatic recall. In cognitive psychology and neurobiology, 'inhibit' is the established technical term for holding in check or suppressing a cognitive process or neural access.",
+    "distractor_analysis": {
+      "inhibit": "正确。在认知神经科学中，inhibit 意为“抑制，遏制（认知过程、神经冲动或生理反应）”（to hold in check, repress, or slow down a cognitive or neural process）。此处接“痛苦记忆的提取”（the retrieval of distressing memories），与后文“缓解急性创伤症状”构成严密的因果逻辑，是神经认知语境下的专属专业表达。",
+      "baffle": "错误。意为“使困惑，使难住”。其宾语必须是具有认知能力的人或心智主体，绝对不能以“记忆的提取”（retrieval）这一神经心理学机制为宾语，产生严重的语义逻辑混乱。",
+      "encumber": "错误。意为“阻碍，拖累（以重物、繁琐负担）”。该词通常搭配实体物理行进或管理事务，不能用于描述对无形、抽象的神经信息检索和记忆提取过程的压制，语域严重破裂。",
+      "constrain": "错误。意为“约束，限制（行为、预算或选择空间）”。主要用于社会制度、物理范围或伦理边界的限制（如 constrain public spending），不表示在神经生物层面上对特定认知提取机制的直接抑制或阻断。"
+    },
+    "translation": "神经学证据表明，靶向经颅刺激能够暂时抑制痛苦情绪记忆的提取，从而在不破坏基线认知功能的前提下缓解急性创伤症状。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_09",
+    "group_id": 185,
+    "group_name": "balk, subvert, sabotage, counteract",
+    "level": "TEM-8",
+    "target_word": "balk",
+    "question": "Although pragmatic legislators often endorse incremental financial reforms, they consistently ___ at underwriting unvetted algorithmic trading schemes, fearing that sudden liquidity shocks might trigger catastrophic market destabilization.",
+    "options": [
+      "balk",
+      "subvert",
+      "sabotage",
+      "counteract"
+    ],
+    "answer": "balk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive syntactic and semantic anchor is the prepositional complementation '___ at [gerund]'. In formal academic English, 'balk' functions intransitively with 'at' to indicate stopping short or refusing abruptly to undertake an action. The other three candidates (subvert, sabotage, counteract) are strictly transitive verbs and cannot govern the preposition 'at'.",
+    "distractor_analysis": {
+      "balk": "正确。balk 在高级英语中常用作不及物动词，后接介词短语“at + 动名词/名词”，表示“（因疑虑、畏惧风险而）踌躇不前、断然拒绝”。句中“balk at underwriting...”在句法构型与语义指向上皆完全契合（立法者拒绝为未经审核的高风险交易方案提供担保）。",
+      "subvert": "错误。subvert 为纯及物动词，意为“暗中颠覆、瓦解（政权、制度、原则）”，必须直接带名词宾语，无法接介词短语“at doing sth”，在句法上直接构成严重语法错误。",
+      "sabotage": "错误。sabotage 为及物动词，意为“蓄意破坏（设备、行动、计划、谈判）”，要求直接支配宾语，不能与介词“at”搭配，存在不可调和的句法冲突。",
+      "counteract": "错误。counteract 为及物动词，意为“抵消、中和、对抗（负面影响、外力或药物作用）”，其后必须直接接宾语，无法与介词“at”连用，在句法与语境上均不成立。"
+    },
+    "translation": "虽然务实的立法者通常支持渐进式的金融改革，但他们始终对为未经审核的算法交易方案提供担保心存顾虑并断然拒绝，因为他们担心突发的流动性冲击可能会引发灾难性的市场动荡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_10",
+    "group_id": 185,
+    "group_name": "balk, subvert, sabotage, counteract",
+    "level": "TEM-8",
+    "target_word": "subvert",
+    "question": "Populist demagogues rarely launch frontal assaults on democratic frameworks; instead, they exploit procedural loopholes to insidious ends, seeking to ___ the foundational principles of constitutional governance from within.",
+    "options": [
+      "balk",
+      "subvert",
+      "sabotage",
+      "counteract"
+    ],
+    "answer": "subvert",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Decisive contextual and collocational anchor is the object 'the foundational principles of constitutional governance' combined with the adverbial 'from within' and 'insidious ends'. 'Subvert' specifically denotes overturning, corrupting, or undermining an institution, authority, or moral/legal foundation covertly from within. 'Sabotage' applies to concrete operations/equipment, 'counteract' means offsetting an opposing force/effect, and 'balk' is an intransitive verb incompatible with a direct object.",
+    "distractor_analysis": {
+      "subvert": "正确。及物动词，指从根基处或内部阴险、潜移默化地“颠覆、瓦解、败坏（宪政体制、基本原则、制度权威）”。句中的“insidious ends（阴险的目的）”以及“from within（从内部）”与 subvert 的词源及核心词义形成完美的学术语义闭环与高阶搭配。",
+      "balk": "错误。现代英语中 balk 主要作不及物动词（常与 at 连用），无法直接接宾语“the foundational principles...”，存在致命的句法缺陷；且其“畏缩、停滞不前”的含义与主语的主动破坏意图背道而驰。",
+      "sabotage": "错误。sabotage 侧重指通过物理手段或恶意阻挠蓄意破坏具体的“设施、谈判、行动或工程设备”，用于抽象的“foundational principles（基本原则）”属于搭配不当，且无法传达出“从体制内部悄然侵蚀瓦解”的政治学深层内涵。",
+      "counteract": "错误。counteract 意为“抵消、对抗（某种现存的外在力量、负面趋势或药物反应）”。宪政基本原则并非某种需要被抵消或中和的动态外力，且“counteract ... from within”在逻辑语义上不通。"
+    },
+    "translation": "民粹煽动家很少对民主架构发起正面攻击；相反，他们利用程序漏洞达到阴险的目的，企图从内部彻底颠覆宪政治理的基本原则。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_11",
+    "group_id": 186,
+    "group_name": "bay, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "bay",
+    "question": "As the financial inquiry exposed systematic malfeasance, populist commentators and radical backbenchers began to ___ for punitive sanctions, orchestrating a relentless campaign that left the beleaguered administration with little room for diplomatic maneuver.",
+    "options": [
+      "bay",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "bay",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is '___ for punitive sanctions' in conjunction with 'orchestrating a relentless campaign'. Only 'bay' idiomatically governs 'for' to mean clamoring loudly, aggressively, and menacingly for retribution or political concessions.",
+    "distractor_analysis": {
+      "bay": "正确。bay 在政治及政经高阶报刊中常引申为不及物动词，构成极为地道的高频搭配“bay for (blood / sanctions / retribution / resignation)”，本义为猎犬狂吠围猎，引申指媒体、政客或公众“厉声要求、声嘶力竭地叫嚣追责”。句中民粹评论员与激进议员针对政府丑闻发起无休止攻势（relentless campaign），与 bay for punitive sanctions 的攻击性话语姿态完全契合。",
+      "blurt": "错误。blurt 为及物动词（常与 out 连用），意为“不假思索地脱口说出（秘密或机密）”，后面必须直接接言语内容或宾语从句，无法与介词 for 搭配表达“强烈要求”，在句法和语义上均无法成立。",
+      "whiff": "错误。whiff 主要表示“吸入或散发微弱气味”或“察觉……的迹象”（亦可在棒球运动中表示挥棒落空），完全不具备政治声讨、群起施压的语义，亦无法与介词 for 搭配构成要求制裁的语义框架。",
+      "snivel": "错误。snivel 意为“抽抽嗒嗒地哭诉、低声下气地抱怨”，侧重于软弱可怜、自怨自艾的负面情感宣泄（通常与 about/over 搭配），这与语境中议员发起进攻性、压迫性公关攻势（orchestrating a relentless campaign that left the administration with little room for maneuver）的强硬姿态产生严重的语用极性冲突。"
+    },
+    "translation": "随着财务调查揭露了系统性的违法失职行为，民粹主义评论员和激进的后座议员开始大声叫嚣要求施加惩罚性制裁，他们发起了一场不依不饶的舆论攻势，令陷入困境的政府几乎毫无外交斡旋的余地。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_12",
+    "group_id": 186,
+    "group_name": "bay, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Under relentless congressional scrutiny, the rattled undersecretary seemed perpetually liable to ___ an indiscreet disclosure, heedlessly undermining the administration's carefully guarded narrative regarding the clandestine surveillance initiative.",
+    "options": [
+      "bay",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the transitive frame governing the direct object 'an indiscreet disclosure' under intense psychological duress ('rattled', 'heedlessly undermining'), uniquely satisfying the definition of 'blurt' (to utter abruptly, impulsively, and indiscreetly).",
+    "distractor_analysis": {
+      "blurt": "正确。blurt 为及物动词，核心义项为“未加思索冲口说出、脱口泄露（秘密、实情）”。本句构建了在国会高压质询（relentless congressional scrutiny）与情绪慌乱（rattled）下失去认知自控的语境，“blurt an indiscreet disclosure”准确体现了“因慌张而脱口泄密”的认知动作，句法上直接支配名词短语作及物宾语，完全契合。",
+      "bay": "错误。bay 作及物动词时仅指以深沉持续的声音狂吠或对某物嚎叫（如 bay the moon），无法支配“an indiscreet disclosure”这类言语内容作为宾语；作不及物动词时通常接介词 for 表示索要惩罚，词义及句法均不符。",
+      "whiff": "错误。whiff 作及物动词时主要表示“闻到微弱气味”或“轻轻喷出微风”，与具有认知内涵的言语产出（an indiscreet disclosure）毫无语义关联，属于严重的名词-动词搭配破裂。",
+      "snivel": "错误。snivel 属于不及物动词，表示“抽噎哭泣”或“哀怨抱怨”，无法直接接宾语名词短语“an indiscreet disclosure”（句法上不成立），且其侧重于懦弱抽泣，缺乏 blurt 所特有的“冲动失言、脱口透露机密”的认知语用特征。"
+    },
+    "translation": "在国会不依不饶的严厉盘问下，那位惊慌失措的副部长似乎随时都会脱口说出轻率走漏风声的言论，从而不计后果地破坏政府就秘密监控计划所精心构建的说辞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_13",
+    "group_id": 187,
+    "group_name": "beautify, emend, enhance, embellish",
+    "level": "TEM-8",
+    "target_word": "beautify",
+    "question": "Urban theorists argue that municipal initiatives designed to ___ blighted communal landscapes not only counteract visual squalor, but also fundamentally transform civic perception by fostering psychological well-being among disenfranchised residents.",
+    "options": [
+      "beautify",
+      "emend",
+      "enhance",
+      "embellish"
+    ],
+    "answer": "beautify",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'blighted communal landscapes' paired with the purpose clause 'counteract visual squalor' explicitly requires a verb denoting the transformation of an unsightly/ugly physical space into an aesthetically pleasing one, perfectly matching the lexicographical core of 'beautify'.",
+    "distractor_analysis": {
+      "beautify": "正确。beautify 在韦氏词典及权威词源辨析中强调通过赋予美感或和谐秩序来消弭、逆转‘丑陋与破败’（counteracting ugliness or bringing about an intrinsic or harmonious attractiveness）。句中‘blighted communal landscapes’（破败凋敝的社区景观）与‘counteract visual squalor’（消除视觉脏乱）构成核心锚点，精准对应美化破损环境以重塑公众心理感知的语境。",
+      "emend": "错误。emend 专用于文献学与法学语境，指‘校勘、订正文本中的错误’（to alter a text to remove errors），支配宾语必须是手稿、文句或法案，用于改造物理空间或城市景观属于严重的范畴选择限制违背（selectional restriction violation）。",
+      "enhance": "错误。enhance 意为‘增强、提高、提升’，语义上预设使某一积极或中性属性的程度、价值或效能进一步增益。直接搭配具有强烈贬义色彩的实体‘blighted landscapes’会导致语义反常（荒谬地变成‘加深破败程度’），无法表达从无到有对抗丑陋的‘美化’动作。",
+      "embellish": "错误。embellish 侧重于‘在已有基础之上添加额外装饰’或‘虚饰、添枝加叶’，往往带有非必要附加（superfluous ornament）甚至浮夸粉饰的消极含义。题干强调的是从根源上整治破败、消除脏乱的根本性美化改造，而非流于表面的零碎缀饰。"
+    },
+    "translation": "城市理论家认为，旨在美化破败社区景观的市政举措不仅能消除视觉上的污秽脏乱，还能通过增强弱势居民的心理福祉，从根本上重塑公众认知。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_14",
+    "group_id": 187,
+    "group_name": "beautify, emend, enhance, embellish",
+    "level": "TEM-8",
+    "target_word": "emend",
+    "question": "Faced with multiple conflicting manuscripts, the philologist sought to ___ the corrupt biblical passage by cross-referencing newly discovered papyri, thereby restoring what he argued was the author’s original semantic intent.",
+    "options": [
+      "beautify",
+      "emend",
+      "enhance",
+      "embellish"
+    ],
+    "answer": "emend",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The textual criticism collocation 'corrupt biblical passage' combined with the philological goal of 'restoring... the author’s original semantic intent' uniquely selects 'emend' (scholarly textual correction).",
+    "distractor_analysis": {
+      "emend": "正确。emend 在韦氏词典中严格定义为‘to correct usually by altering the text of’，专指文献考据学中学者通过校订来剔除古代手稿、典籍中的讹误与残损（emend a corrupt passage/text）。句中‘conflicting manuscripts’、‘corrupt biblical passage’以及‘restoring... original semantic intent’提供了无可替代的学术语境锚点。",
+      "beautify": "错误。beautify 意为‘美化、使美观’。文献考订的宗旨在于求真与恢复历史原貌（philological fidelity），而非对文本文字进行审美加工，置于学术考据语境中产生严重的语域与目标偏差。",
+      "enhance": "错误。enhance 意为‘增强、提高（品质、能力等）’。尽管学术上可表述为 enhance the clarity of the text，但不能直接以‘corrupt passage’作动宾搭配来表示‘校订讹文’，无法体现排除文本谬误的校勘义项。",
+      "embellish": "错误。embellish 在文字修辞中指‘润色、添枝加叶、渲染虚饰’，常常暗含擅加未经证实的修饰性或虚构性细节。这与后文‘restoring the author’s original semantic intent’（还原作者原本意图）构成明显的逻辑与语意冲突（connotation inversion）。"
+    },
+    "translation": "面对多份相互冲突的手抄本，这位语文学家试图通过交叉比对新发现的莎草纸文献来校勘那段发生讹误的圣经文本，从而恢复他所主张的作者原本语意。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_15",
+    "group_id": 188,
+    "group_name": "beckon, trance, beguile, bewitch",
+    "level": "TEM-8",
+    "target_word": "beckon",
+    "question": "Although lucrative private-equity partnerships continue to ___ with the promise of immense personal wealth, several distinguished economists have chosen public service to address escalating structural inequality.",
+    "options": [
+      "beckon",
+      "trance",
+      "beguile",
+      "bewitch"
+    ],
+    "answer": "beckon",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中空格处于不及物动词位置，后紧接介词短语'with the promise of...'，表述美好前景在前方显现诱人光景；MW核心释义明确将beckon定义为'appear inviting; attract'。其余三词（trance, beguile, bewitch）在此类认知评价语境中均为纯及物动词，在此处出现会导致严重句法断裂。",
+    "distractor_analysis": {
+      "beckon": "正确。beckon在此处取其不及物动词用法，意为“（前景、机遇、未来等）展现出诱人吸引力、引人向往”（Merriam-Webster核心释义：appear inviting; attract）。句中以'lucrative private-equity partnerships'为主语，后接介词短语'with the promise of...'，完美契合beckon在高级社论和学术政论中描述机遇召唤与诱惑的典型句法与语体风格。",
+      "trance": "错误。trance作动词时为及物动词（vt.），意为“使昏睡、使入迷、使处于恍惚状态”（to put into a trance），后必须接宾语，无法在此充当不及物动词；且其词义侧重精神麻木与意识催眠，无法与商业机遇的前景诱惑逻辑相融。",
+      "beguile": "错误。beguile为及物动词（vt.），意为“以欺骗手段诱使；使陶醉/迷住”（to lead by deception or charm），其后必须接宾语（如beguile potential applicants with...），在缺少直接受事宾语的情况下构成句法错误；此外，该词带有运用诡计或虚妄手段魅惑的色彩，与语境中实实在在的财富承诺不符。",
+      "bewitch": "错误。bewitch为及物动词（vt.），意为“对……施魔法；使神魂颠倒”（to cast a spell over; fascinate intensely），必须后接人作宾语；从语义色彩上看，bewitch强调不可抗拒的情感沉沦或审美狂热，无法用于描述职业与薪酬前景的不及物诱惑。"
+    },
+    "translation": "尽管高薪的私募股权合伙人职位继续以巨额个人财富的承诺展现出诱人前景，但数位杰出的经济学家依然选择投身公共服务，以致力于解决日益加剧的结构性不平等。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_16",
+    "group_id": 188,
+    "group_name": "beckon, trance, beguile, bewitch",
+    "level": "TEM-8",
+    "target_word": "beguile",
+    "question": "Although the theorist’s lucid prose appeared designed to enlighten, several epistemologists cautioned that its subtle rhetorical sleights functioned primarily to ___ uncritical scholars into endorsing an empirically unfounded doctrine.",
+    "options": [
+      "beckon",
+      "trance",
+      "beguile",
+      "bewitch"
+    ],
+    "answer": "beguile",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“subtle rhetorical sleights”（精巧的修辞花招）与介词短语“into endorsing an empirically unfounded doctrine”（诱使接受无根据的信条）构成了决定性的句法与语义双重锚点。beguile 内含词根 guile（欺诈、诡计），专指“以巧妙花招或魅力诱骗/迷惑某人做某事”（beguile sb into doing sth），在认知与学术论辩语境中完全契合；其余选项在构式句法或辨析细微语义时均被严格排除。",
+    "distractor_analysis": {
+      "beckon": "核心意为“（招手）示意、召唤”或事物“显现吸引力”。句法上，beckon 支配宾语时后接动词不定式（beckon sb to do sth）或空间方位介词短语（beckon sb into a room），不存在“beckon sb into doing sth”这种表示欺诱认知转变的动词构式，语义与句法皆不匹配。",
+      "trance": "现代英语中极罕用作动词（通常使用 entrance），释义为“使发呆、使处于催眠/恍惚状态”。它既缺乏学术修辞中“诱使他人上当”的欺骗性内涵，也不具备接续“sb into doing sth”的论元结构，填入此处会导致严重搭配不当与风格违和。",
+      "beguile": "正确项。意为“以巧妙手法诱骗；使着迷而受蒙蔽”。其词根蕴含“guile”（狡诈、诡计），完美呼应题干中的“rhetorical sleights”（修辞花招），且经典使役构式“beguile someone into doing something”精准承接文末的“into endorsing...”，在句法和高阶学术认知语域上完全贴合。",
+      "bewitch": "侧重于“施魔法于”或“使狂热迷醉、神魂颠倒”（多用于情感、感官或非理性的迷恋与屈服）。一方面，它无法准确体现依靠理性伪装与论辩手腕进行的智识欺骗（subtle rhetorical sleights）；另一方面，bewitch 通常直接接宾语，几乎不搭配“sb into doing sth”来表达逻辑上的诱导与蒙蔽。"
+    },
+    "translation": "尽管这位理论家清晰明了的散文看似旨在启迪思想，但数位认识论学者警告称，其精巧的修辞花招主要旨在诱导缺乏批判思维的学者盲目接受某种缺乏经验依据的信条。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_17",
+    "group_id": 189,
+    "group_name": "begrudge, lust, crave, hanker",
+    "level": "TEM-8",
+    "target_word": "begrudge",
+    "question": "Although conservative commentators fiercely contested his ideological premises, even his harshest critics could scarcely ___ him the hard-won diplomatic breakthrough that averted an imminent regional conflict.",
+    "options": [
+      "begrudge",
+      "lust",
+      "crave",
+      "hanker"
+    ],
+    "answer": "begrudge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic anchor is the ditransitive construction '___ him the hard-won diplomatic breakthrough' (V + Indirect Object + Direct Object). Among all four options, only 'begrudge' can govern a double object ('begrudge sb sth'). Semantically, the conventional political idiom 'could scarcely begrudge somebody something' denotes conceding credit to an adversary despite ideological opposition.",
+    "distractor_analysis": {
+      "begrudge": "正确。句中采用了‘begrudge + 间接宾语（him）+ 直接宾语（the hard-won diplomatic breakthrough）’的双宾语结构，常与 could scarcely/hardly 搭配，表示‘勉强承认某人应得……/无法否认某人取得的成就’。语意与前面的让步状语从句完美呼应，体现出高阶政论的严密逻辑。",
+      "lust": "错误。语法上为不及物动词，通常后接介词 for 或 after（如 lust after power），绝不能带双宾语（*lust him the breakthrough）；语义上表示‘贪图、垂涎’，与向政治对手承认功绩的语境完全背离。",
+      "crave": "错误。在现代规范英语中为单宾语及物动词（crave sth，如 crave attention/stability），不可支配双宾语（*crave him the breakthrough）；语义上强调主观迫切的生理或心理渴求，无法表达‘怨恨他人享有某物’的认知态度。",
+      "hanker": "错误。为不及物动词，必须与介词 after/for 或动词不定式连用（如 hanker after the past），不能接双宾语（*hanker him the breakthrough）；语义侧重于闲适、怀旧或隐秘的向往，句法与语境均不合。"
+    },
+    "translation": "尽管保守派评论员对其意识形态前提提出了激烈质疑，但就连他最严苛的批评者也无法否认，是他赢得了这场避免了迫在眉睫的地区冲突的来之不易的外交突破。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_18",
+    "group_id": 189,
+    "group_name": "begrudge, lust, crave, hanker",
+    "level": "TEM-8",
+    "target_word": "lust",
+    "question": "Driven by a rapacious ambition that alarmed even his closest allies, the deposed dictator continued to ___ after absolute dominion, treating democratic concessions as mere subterfuge.",
+    "options": [
+      "begrudge",
+      "lust",
+      "crave",
+      "hanker"
+    ],
+    "answer": "lust",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional anchor '___ after absolute dominion' combined with the affective modifier 'Driven by a rapacious ambition'. Merriam-Webster specifically records the canonical collocation 'lust after power/dominion', indicating an insatiable, corrupt, and predatory appetite. While 'hanker' can take 'after', its semantic register denotes wistful or nostalgic yearning, creating an intolerable stylistic mismatch with despotic greed.",
+    "distractor_analysis": {
+      "lust": "正确。不及物动词与介词 after 构成固定搭配（lust after），韦氏词典特别收录了其指代狂热追逐权力的核心用法（lust after power）。此处与‘掠夺性野心’（rapacious ambition）以及‘绝对统治权’（absolute dominion）完美呼应，精准刻画出独裁者对权力的病态贪求。",
+      "begrudge": "错误。为及物动词（接单宾语或双宾语），意为‘吝惜、勉强给予’或‘嫉妒他人拥有’，不能与介词 after 搭配（*begrudge after），存在直接的句法破裂。",
+      "crave": "错误。在现代学术政论英语中，crave 几乎一律用作及物动词直接接名词宾语（如 crave dominion），后接 after 属于罕见且已废弃的古旧用法；且 crave 强调自身匮乏带来的心理渴求，缺乏政治侵略与野蛮掠夺的修辞色彩。",
+      "hanker": "错误。虽然 hanker after 在语法上成立，但 hanker 的语义核心为‘怀旧式的渴望’或‘心痒难耐的留恋’（如 hanker after a quiet life / the past），感情色彩温和且多含感伤或琐屑之意，与句中‘被废黜独裁者的掠夺性野心’产生严重的语域与感情色彩冲突。"
+    },
+    "translation": "在令其最亲密的盟友都感到震惊的掠夺性野心驱使下，这位被废黜的独裁者依然极度垂涎绝对的统治权，将所有的民主让步仅仅视作障眼法。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_19",
+    "group_id": 190,
+    "group_name": "beset, harass, hassle, molest",
+    "level": "TEM-8",
+    "target_word": "beset",
+    "question": "Although the new cognitive model offered unprecedented explanatory power, persistent epistemological blind spots and unresolvable empirical paradoxes continued to ___ the theory, preventing its widespread adoption across academic circles.",
+    "options": [
+      "beset",
+      "harass",
+      "hassle",
+      "molest"
+    ],
+    "answer": "beset",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句子的逻辑主语为抽象概念“persistent epistemological blind spots and unresolvable empirical paradoxes”（持续存在的认识论盲点与无法化解的经验悖论），宾语为抽象理论“the theory”。在四个选项中，仅有 beset 具备及物动词用法，用于表达抽象的困扰、危险、难题或矛盾“困扰、缠绕或围困”某一抽象实体、理论体系或研究项目；其余三词均存在严重的语义选择限制冲突或语域不匹配。",
+    "distractor_analysis": {
+      "beset": "正确。beset 意为“使苦恼；困扰；包围”，在学术和政经文本中极为常见，既可用于被动语态（beset by/with），也可作为及物动词，其主语常为 troubles, doubts, paradoxes, anomalies 等抽象问题，宾语可为理论系统（theory）、组织机构或认知框架，完美契合句中“认识论困境困扰理论模型”的宏大语境。",
+      "harass": "错误。harass 的核心义项为“不断骚扰、侵扰、折磨”，其受事（宾语）在现代英语中必须是具备感知力的人（sentient beings）、群体或军队，强调通过言行使人处于焦虑、疲惫或恐慌之中；它不能以抽象的“科学理论/认知假说”（the theory）作为宾语，构成语义选择限制违背（selectional restriction violation）。",
+      "hassle": "错误。hassle 意为“烦扰；找麻烦”，在权威词典（如韦氏、牛津）中被严格标记为 informal/colloquial（口语/非正式语域），与题干中“epistemological blind spots”、“empirical paradoxes”等高规格学术语境发生严重的语域破裂（stylistic clash）；此外它同样只能作用于人，不可修饰理论。",
+      "molest": "错误。molest 在现代英语中高度特化为“猥亵；人身骚扰”或物理意义上的“粗暴干扰、伤害（野生动物等）”，属于严重违法或身体侵害行为，与抽象认知科学领域的理论困境毫无语义重叠，置入句中逻辑荒谬。"
+    },
+    "translation": "尽管这一新认知模型展现出前所未有的解释力，但持续存在的认识论盲点与无法化解的经验悖论依然困扰着该理论，阻碍了其在学术界的广泛采纳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b18_20",
+    "group_id": 190,
+    "group_name": "beset, harass, hassle, molest",
+    "level": "TEM-8",
+    "target_word": "harass",
+    "question": "Convinced that the empirical anomalies threatened the corporate sponsor's reputation, partisan auditors attempted to ___ the lead investigator into retracting her controversial findings through unrelenting administrative intimidation.",
+    "options": [
+      "beset",
+      "harass",
+      "hassle",
+      "molest"
+    ],
+    "answer": "harass",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于后接的固定使役诱导结构“___ + sb. + into doing sth.”（通过持续压力迫使某人做某事），以及句尾的“unrelenting administrative intimidation”（持续不断的行政恐吓）。在四个选项中，仅有 harass 能在正式书面语中完美驾驭“harass sb. into [gerund]”这一句法模式，表达通过系统性的恶意侵扰与心理施压迫使研究人员退缩；beset 和 molest 在句法上严禁接“into doing”，而 hassle 则存在严重的口语语域冲突。",
+    "distractor_analysis": {
+      "beset": "错误。beset 强调被问题或灾祸“困扰、围攻”，其典型搭配为“beset sb./sth.”或“be beset with/by”，在现代句法学中绝对不具备支配结果介词短语“into doing sth.”的使役构式（即不存在 *beset someone into retracting 结构），属于致命的句法违规。",
+      "harass": "正确。harass 意为“反复骚扰、施加心理压力”，不仅完全符合主语施动者（partisan auditors）对个体研究人员（lead investigator）的针对性打压，而且其标准高阶句型即为“harass somebody into (doing) something”（通过持续骚扰迫使某人屈从），契合行政恐吓（administrative intimidation）的语境与学术政治的严肃语域。",
+      "hassle": "错误。虽然 hassle 在极为随意的口语中偶尔可见“hassle sb. into sth.”用法，但该词具有强烈的非正式口语色彩（slang/informal register），用于描述学术不端审查、商业赞助信誉受损和行政恐吓等庄重的专业语境属于严重语体不当，TEM-8 标准考试中对此类口语词汇坚决予以排斥。",
+      "molest": "错误。molest 专指非法的人身侵害、性骚扰或对物理实体的粗暴干扰，在句法上无法跟接“into doing sth.”这一诱导结果补足语，在语意上也无法表达通过行政官僚手段压迫学者撤稿的含义。"
+    },
+    "translation": "出于对经验反常现象会危及商业赞助商声誉的确信，偏颇的审计人员企图通过持续不断的行政恐吓来骚扰首席研究员，迫使其撤回引发争议的研究成果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

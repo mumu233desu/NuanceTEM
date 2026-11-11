@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b47_01",
+    "group_id": 471,
+    "group_name": "sulphurous, virulent, acid, bitter",
+    "level": "TEM-8",
+    "target_word": "sulphurous",
+    "question": "In his memoirs, the war correspondent recalled how the general would punctuate his strategic briefings with a volley of ___ oaths, disconcerting foreign liaisons unaccustomed to such blistering profanity.",
+    "options": [
+      "sulphurous",
+      "virulent",
+      "acid",
+      "bitter"
+    ],
+    "answer": "sulphurous",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句子的核心排他锚点在于后半句的“such blistering profanity”（如此暴烈的粗俗秽语）以及中心搭配“a volley of ___ oaths”。语境中的“oaths”明确指代“咒骂、粗话、亵渎性秽语”（profane expletives/curses）。在权威辞书（如《牛津英语大词典》OED与《韦氏大学词典》Merriam-Webster）中，sulphurous 拥有专门的词汇化引申义：“marked by fiery profanity; now usually of oaths or curses”（充斥暴烈咒骂的，专用于修饰oaths或curses，如 sulfurous oaths）。其他三个选项均无法与表示“秽语粗话”的 oaths 形成合乎语用习惯的固定搭配，亦无法精准匹配“地狱硫磺般暴烈粗俗”的语义特征。",
+    "distractor_analysis": {
+      "sulphurous": "正确。sulphurous 源自硫磺（brimstone），在典雅英语与高级历史纪传中具有高度专化的引申义，即“（言辞等）充斥暴烈咒骂的、带火药味秽语的”（marked by fiery profanity; hellish）。《韦氏词典》明确收录“sulfurous oaths”为权威典范例证，《牛津英语大词典》(OED) 亦明确指出该词修饰言论时“现常专用于 oaths 或 curses”。句末的“blistering profanity”构成决定性锚点，唯有 sulphurous 能在搭配与语义双重维度上实现完美契合。",
+      "virulent": "错误。virulent 源于拉丁语毒素（poisonous），核心语义为“病原体剧毒的、致命传染的”，引申指意识形态、攻击或敌意“恶毒仇恨的、具恶性破坏力的”（如 virulent propaganda, virulent anti-Semitism）。virulent 从不修饰 oaths（粗口、咒骂），它强调的是恶意的毒害与传染性，而非暴烈粗鄙的骂骂咧咧，在此处会造成严重的搭配断裂（collocational rupture）。",
+      "acid": "错误。acid 作修辞形容词时，侧重于“尖酸刻薄的、讽刺辛辣的”（sharp, biting, tartly sarcastic），典型搭配如 acid wit（刻薄机锋）、acid remarks（冷嘲热讽）。它表达的是一种冷峭、含蓄且具讽刺性的言辞锋芒，与句中军官爆发式、粗鄙直白的“blistering profanity”（暴烈咒骂）在语体风格和语义维度上均格格不入，且英语中不存在“acid oaths”这一搭配。",
+      "bitter": "错误。bitter 侧重于因怨恨、挫败或悲痛而滋生的“悲愤的、怨懑的”（marked by rancor or grief），如 bitter dispute, bitter tears。当 bitter 修饰 oath 时，仅能在极罕见的历史语境中表示“在痛苦/仇恨中立下的庄严誓约”（a bitter oath of vengeance），绝不能修饰表示“粗话、咒骂”的 oaths。置于句中既违背词义，又与 blistering profanity 发生逻辑属性冲突。"
+    },
+    "translation": "战地记者在回忆录中写道，那位将军在战略简报会上常常会连珠炮似地爆出一连串暴烈的粗鄙咒骂，令那些不习惯听闻其如此狂暴粗话的外国联络官们惊愕不已。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_02",
+    "group_id": 471,
+    "group_name": "sulphurous, virulent, acid, bitter",
+    "level": "TEM-8",
+    "target_word": "virulent",
+    "question": "Virologists caution that without sustained genomic surveillance, the zoonotic pathogen could evolve into an exceptionally ___ strain capable of overcoming host immune defenses and precipitating severe respiratory failure.",
+    "options": [
+      "sulphurous",
+      "virulent",
+      "acid",
+      "bitter"
+    ],
+    "answer": "virulent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_SCIENCE",
+    "anchor_clue": "句中由主语‘zoonotic pathogen’（人畜共患病原体）、谓语‘evolve into an exceptionally ___ strain’（演化为一种极度……的毒株）以及定语‘capable of overcoming host immune defenses’（能够突破宿主免疫防御系统）构成了严密明确的病毒学与病理学语境。根据《韦氏词典》（Merriam-Webster），virulent 的核心医学释义即为‘able to overcome bodily defensive mechanisms: markedly pathogenic’（能够克服机体防御机制的；高度致病的），与后文‘overcoming host immune defenses’形成严格的定义级互锁。其余三个选项（sulphurous、acid、bitter）均源于地质化学或物理味觉意象，引申后仅能修饰人类的言行、情绪或态度，修饰生物毒株构成严重的范畴谬误（category mistake）。",
+    "distractor_analysis": {
+      "virulent": "正确。virulent 源于拉丁语 virus（毒素、病毒），本义为“剧毒的、高致病性的”（marked by a rapid, severe, and destructive course; markedly pathogenic）。在生物医药与流行病学语境中，virulent 与 strain（毒株/菌株）构成不可替代的学术专有搭配（virulent strain），且完美照应后文“突破宿主免疫防御并诱发严重器官衰竭”的病理特征。",
+      "sulphurous": "错误。sulphurous 专指“含硫的；地狱硫磺之火般的”，引申用于形容脾气极度暴躁或言辞充满咒骂火药味（如 sulphurous temper），属于地质化学或宗教隐喻，根本无法修饰生物病原体的致病力。",
+      "acid": "错误。acid 指“酸性的”或引申为“尖酸刻薄的”（如 acid wit/remarks），用于化学性质或人际交往中的言辞挖苦，无法用来描述病原体克服宿主免疫系统的生物侵袭性与毒力。",
+      "bitter": "错误。bitter 侧重表示“苦味的；痛苦怨恨的；严寒刺骨的”（如 bitter cold, bitter enemy），用于人的情感态度或外界自然严酷度。生物病毒不具备心理情感属性，英语中不存在以“bitter strain”指代“恶性高致病毒株”的科学或语言用法。"
+    },
+    "translation": "病毒学家警告称，如果缺乏持续的基因组监测，该人畜共患病原体可能会演化成一种极具致病性的毒株，能够突破宿主的免疫防御机制并诱发严重的呼吸衰竭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_03",
+    "group_id": 472,
+    "group_name": "tacky, tawdry, loud, cheap",
+    "level": "TEM-8",
+    "target_word": "tacky",
+    "question": "In restorative conservation, technicians must wait until the newly applied synthetic resin becomes slightly ___, providing sufficient surface grip to secure the delicate gilding without dissolving or dislodging the underlying pigments.",
+    "options": [
+      "tacky",
+      "tawdry",
+      "loud",
+      "cheap"
+    ],
+    "answer": "tacky",
+    "primary_mechanism": "MECH_POLYSEMY",
+    "field": "FIELD_CULTURE",
+    "anchor_clue": "wait until the newly applied synthetic resin becomes slightly ___ ... providing sufficient surface grip to secure the delicate gilding",
+    "distractor_analysis": {
+      "tacky": "正确。根据《韦氏词典》（Merriam-Webster）与《牛津英语词典》（OED），tacky 的核心本义与正式学术用法为“sticky to the touch; retaining a slight stickiness; not quite dry”（微黏的、未干透的），专门用于描述油漆、树脂、黏合剂等材料固化过程中的半干黏着状态。句中语境为文物艺术品修复（restorative conservation），“wait until the newly applied synthetic resin becomes slightly ___”与后文“providing sufficient surface grip to secure the delicate gilding”（提供充足的表面抓附力以固定脆弱的金箔）构成强力的物理机制与语义锚点，精准契合 tacky 的专业材料物理属性表征。",
+      "tawdry": "错误。tawdry 的核心词义为“cheap and gaudy in appearance or quality”（外观或质量廉价俗丽的、华而不实的），属于审美评价与道德隐喻范畴（如 tawdry decorations, tawdry jewelry），完全无法修饰或表述合成树脂（synthetic resin）在固化时的物理黏着状态，存在根本性的概念范畴错配与搭配断裂。",
+      "loud": "错误。loud 主要表示声音上的“高声喧闹”，或在视觉上隐喻服饰、图案色彩“过分花哨刺眼、视觉冲突强烈”（如 a loud tie）。该词不能用于描述材料表面的触觉黏性或固化过渡状态，在材料修复与物理化学语境中毫无语义依据。",
+      "cheap": "错误。cheap 意为“廉价的、劣质的”，侧重描述经济成本或材料质量低劣，不能在系表结构中作表语来表达树脂经干燥固化而达到的“微黏”物理状态（become slightly cheap 逻辑荒谬），与后文提供物理抓附力（surface grip）的技术要求彻底割裂。"
+    },
+    "translation": "在文物修复与保护中，技术人员必须等待新涂抹的合成树脂变得微干发黏，以提供足够的表面抓附力来固定脆弱的金箔，同时又不至于溶解或破坏下层的颜料层。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_04",
+    "group_id": 472,
+    "group_name": "tacky, tawdry, loud, cheap",
+    "level": "TEM-8",
+    "target_word": "tawdry",
+    "question": "The investigative report stripped away the festival’s cultivated glamour, exposing a ___ spectacle of predatory casting couches, hush-money settlements, and manufactured scandals designed solely to feed tabloid sensationalism.",
+    "options": [
+      "tacky",
+      "tawdry",
+      "loud",
+      "cheap"
+    ],
+    "answer": "tawdry",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "stripped away the festival’s cultivated glamour, exposing a ___ spectacle of predatory casting couches, hush-money settlements...",
+    "distractor_analysis": {
+      "tawdry": "正确。根据韦氏词典，tawdry 指“cheap and gaudy in appearance or quality”，引申为“ignoble, sordid”（卑劣肮脏的、声名狼藉的、道德败坏的）。句中以“stripped away the cultivated glamour”（剥离精心维系的光鲜表面）与后文的“predatory casting couches（潜规则）、hush-money settlements（封口费）以及 manufactured scandals（炮制的丑闻）”构成对比，精准勾勒出“华丽外表下充斥着肮脏污秽与道德败坏”的语境，“a tawdry spectacle”是严肃政治与文化报道中形容光鲜表象掩盖下的丑恶行径的经典搭配。",
+      "tacky": "错误。tacky 聚焦于美学品味庸俗、举止不上台面或缺乏格调（如粗劣的纪念品、失礼的社交举动），属于非道德层面的品味缺失。若用来形容涉及性侵害、封口费等严重的行业制度性丑闻与道德堕落，会造成极为严重的语意弱化（trivialization）和文体冲突。",
+      "loud": "错误。loud 仅用于形容声音喧哗或视觉色彩图案的刺眼花哨，无法修饰由权色交易与封口费构成的抽象社会丑态与道德败坏场景。",
+      "cheap": "错误。cheap 虽可在非正式语境中表示“下作的”，但在 TEM-8 级别的高级新闻文体中，“cheap spectacle”主要指低成本、简陋粗糙的场面，无法精准传达 tawdry 所特有的“表面光鲜浮华、内里糜烂肮脏（sordid and sleazy behind flashiness）”的深度讽刺与道德谴责色彩。"
+    },
+    "translation": "这份调查报告剥离了该电影节精心营造的光鲜外衣，揭露了一场由‘选角潜规则’、封口费交易以及纯为迎合小报轰动效应而炮制的丑闻所构成的丑恶闹剧。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_05",
+    "group_id": 473,
+    "group_name": "ungainly, unwieldy, clumsy, awkward",
+    "level": "TEM-8",
+    "target_word": "ungainly",
+    "question": "Although remarkably swift across open terrain, the young giraffe appears distinctly ___ of limb, its towering height, rawboned joints, and sprawling strides defying classical canons of mammalian grace.",
+    "options": [
+      "ungainly",
+      "unwieldy",
+      "clumsy",
+      "awkward"
+    ],
+    "answer": "ungainly",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_NATURAL_SCIENCES",
+    "anchor_clue": "空后介词短语“of limb”构成语法与习惯搭配的绝对排他锚点。英语中存在一组表人体或解剖特征的受限关系属格结构（Genitive of Specification: Adj + of + body part，如 fleet of foot, loose of limb, clean of limb），在该封闭性构式中，本组四个同义词仅有 ungainly 能形成经典文学与学术界定搭配“ungainly of limb”（四肢瘦长嶙峋且缺乏匀称优美感；见《大英百科全书》与埃利奥特、司各特等经典文献用例），而 *awkward of limb、*clumsy of limb 与 *unwieldy of limb 均属于严重的句法搭配残缺（Syntactic / Collocational Violation）。此外，句中“towering height, rawboned joints, and sprawling strides”（高耸的身躯、嶙峋突出的关节与张开伸展的步态）精准呼应 ungainly（源于 un- + gainly 匀称优美的）的核心语义范畴——特指因骨架高大修长、关节松散粗大而在体态或步态上缺乏和谐优美感，同时句首“remarkably swift”亦排除了表机能笨拙、易绊倒失控的 clumsy。",
+    "distractor_analysis": {
+      "ungainly": "正确。从句法与构词搭配层面看，“ungainly of limb”为英语经典传统书面语中高度定型的特征属格搭配（Genitive of Specification），专指肢体瘦长嶙峋、体态缺乏优美匀称；从词义内涵看，《韦氏词典》明确指出 ungainly 侧重“applies especially to what is body-length, tall, or loosely knit and therefore lacking in grace of posture, movement, or gait”，句中长颈鹿幼崽的“towering height”（高大身材）、“rawboned joints”（嶙峋关节）与“sprawling strides”（张开大步）完美契合其特指身材高大、关节粗长失调的语义核心，且该词与快速奔跑（remarkably swift）并不矛盾（仅表外形缺乏协调优美，不等于功能丧失）。",
+      "unwieldy": "错误。unwieldy 源自 un- + wield（掌控、挥舞、操作），核心语义指“因体积庞大、沉重或结构繁琐而难以搬运、操控、管理或治理”，典型搭配为笨重工具、巨大包裹或官僚体制（unwieldy weapons, unwieldy bureaucracy）。首先，unwieldy 无法进入“*unwieldy of limb”这一描写生物肢体特征的属格构式；其次，将其用于修饰具有极高奔跑机动性的动物躯体，属于严重的范畴错配（Category Mistake）。",
+      "clumsy": "错误。clumsy 核心侧重“动作笨手笨脚、缺乏灵活性与协调性，导致经常绊倒、摔落物品或出差错（bungling, unhandiness）”。一方面，clumsy 在现代与传统英语中均不能与“of limb”连用（只能说 clumsy in one's movements / clumsy with hands），句法上不成立；另一方面，前半句指出长颈鹿在开阔原野上“remarkably swift”（异常迅捷矫健），表明其神经与运动机能高度有效，与 clumsy 暗示的笨拙失调、跌跌撞撞构成语义逻辑矛盾。",
+      "awkward": "错误。awkward 是一个宽泛的常用词，侧重指“因姿势受限、肌肉僵硬或局促尴尬而显得别扭不适（suggests contortion, cramp, stiffness, or social embarrassment）”。在句法上，awkward 支配的介词为 with, at 或 in（如 awkward in its movements, awkward with tools），绝不能接属格介词构成“*awkward of limb”，在正式文学与学术层面上属于严重的非规范搭配；在文体色彩上，awkward 缺乏 ungainly 针对“身躯高大、四肢嶙峋且结构松散”所特有的精确解剖学与形态学描摹张力。"
+    },
+    "translation": "幼年长颈鹿在开阔的原野上奔跑时虽然异常迅捷，但其四肢看起来却明显缺乏匀称优雅之态；它那高耸的身躯、嶙峋突出的关节以及张开的大步，完全打破了哺乳动物优雅身姿的古典范式。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_06",
+    "group_id": 473,
+    "group_name": "ungainly, unwieldy, clumsy, awkward",
+    "level": "TEM-8",
+    "target_word": "unwieldy",
+    "question": "Scholars of institutional cognition observed that as the agency's bureaucratic apparatus grew increasingly ___, paralyzed by procedural bloat and conflicting mandates, policymakers lost the capacity to process critical intelligence and formulate coherent decisions.",
+    "options": [
+      "ungainly",
+      "unwieldy",
+      "clumsy",
+      "awkward"
+    ],
+    "answer": "unwieldy",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "修饰中心词为抽象的组织机制“bureaucratic apparatus”（官僚机构/体制），语义锚点为“paralyzed by procedural bloat and conflicting mandates”（因程序膨胀与指令冲突而陷于瘫痪）以及“lost the capacity to process... and formulate coherent decisions”（失去运作与驾驭能力）。在英语学术与政经高阶语体中，专指组织机构、系统或工具“因规模过大、结构过于臃肿复杂而难以驾驭和运转”的唯有 unwieldy。",
+    "distractor_analysis": {
+      "unwieldy": "正确。根据韦氏词典，unwieldy 专指“not easily managed, handled, or used (as because of bulk, weight, complexity)”，即因体积、重量或过度复杂膨胀而难以管理、掌控或运作。它与 bureaucratic apparatus、machinery、system 构成学术界最经典的惯用搭配，完美契合后文“procedural bloat”（程序臃肿）与决策瘫痪的语境。",
+      "ungainly": "错误。ungainly 严格局限于描述生物实体的物理外形、体态或步态缺乏优美感（lacking grace in movement or posture），存在本体范畴限制（category violation），不可用于修饰行政体制或官僚机构。",
+      "clumsy": "错误。clumsy 侧重于指个体行为者的动作笨拙、缺乏熟练技巧或处事缺乏手腕（如 a clumsy attempt, a clumsy blunder）。用于机制或系统时，clumsy 仅能引申表示“构造粗糙简陋”，而无法表达本句中机构因“庞大膨胀、层级冗杂而难以运转管理”的核心内涵。",
+      "awkward": "错误。awkward 主要指向社交窘迫、不便处置的情境或令人尴尬的处境（awkward situation, awkward question）。虽然非正式英语中偶见“awkward system”，但在探讨机构认知（institutional cognition）的高阶学术与外刊语体中，形容庞大官僚机构瘫痪失控的标准搭配严密排他地锁定为 unwieldy，使用 awkward 属于严重的语域与搭配破裂。"
+    },
+    "translation": "制度认知学者观察到，随着该机构的官僚体制变得日益臃肿庞大而难以驾驭，深陷于冗杂的程序膨胀与相互冲突的政令之中，决策者们彻底丧失了处理关键情报并作出协调一致决策的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_07",
+    "group_id": 474,
+    "group_name": "venomous, virulent, toxic, deadly",
+    "level": "TEM-8",
+    "target_word": "venomous",
+    "question": "Evolutionary biologists classify the pit viper as an actively ___ predator rather than a passively poisonous creature, emphasizing that its specialized glands and hollow fangs evolved specifically to inject biochemical secretions directly into prey.",
+    "options": [
+      "venomous",
+      "virulent",
+      "toxic",
+      "deadly"
+    ],
+    "answer": "venomous",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "The binary taxonomic contrast with 'passively poisonous creature' paired with the physiological mechanism 'specialized glands and hollow fangs evolved specifically to inject biochemical secretions directly into prey', which precisely matches Merriam-Webster's biological definition of venomous ('producing venom in a specialized gland and capable of inflicting a poisoned wound as by biting or stinging').",
+    "distractor_analysis": {
+      "venomous": "正确。在动物学与进化生物学中，venomous 具有高度严谨的科学定义，特指“体内具有特化毒腺、能通过咬或蜇等主动机制将毒液注入目标体内的（producing venom in a specialized gland and capable of inflicting a poisoned wound as by biting or stinging）”。句中与“passively poisonous”（被动有毒的，如通过表皮分泌或摄入起毒效的生物）构成经典的学术二元对立，且后文的“specialized glands and hollow fangs... to inject”提供了无可辩驳的生理构造锚点。",
+      "virulent": "排除。在生物医学中，virulent 专指病原体（病毒、细菌）的“高致病性的、强毒力的（marked by a rapid, severe, and destructive course; markedly pathogenic）”，用于修饰微生物或菌株（如 a virulent strain of virus）；在修辞语域中可指“充满恶意的”。但无论在生物分类学还是自然描写中，virulent 均不能修饰高等捕食性脊椎动物（不能说 virulent predator），属于范畴错配与搭配严重不当。",
+      "toxic": "排除。toxic 是笼统的物理/化学术语，泛指“有毒的、引起中毒的（containing or being poisonous material）”，主要描述物质本身（如 toxic chemicals, toxic secretions）或一般性的中毒状态。在生物分类法中，学者严谨区分 venomous（主动注射毒液）与 poisonous/toxic（被动含毒），并不存在“actively toxic predator”这一学术表述，无法与后文特化的毒牙注射机制构成精准的术语呼应。",
+      "deadly": "排除。deadly 意为“致命的、致死的（causing or capable of causing death）”，侧重于事件或行为导致的最终致死客观结果，与毒素的传递方式及生物解剖构造无关。诸多肉食动物（如绞杀型蟒蛇或大型猫科动物）同属“deadly predators”，且许多被动有毒生物（如箭毒蛙）同样 deadly，因此 deadly 无法与“passively poisonous”形成生物机制上的对比，完全偏离了特化毒牙注射的生理学语义锚点。"
+    },
+    "translation": "进化生物学家将响尾蛇归类为主动注射毒液的捕食者，而非被动有毒的生物，他们强调响尾蛇特化出的腺体与中空毒牙是专门演化出来用于将生物化学分泌物直接注入猎物体内的。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_08",
+    "group_id": 474,
+    "group_name": "venomous, virulent, toxic, deadly",
+    "level": "TEM-8",
+    "target_word": "virulent",
+    "question": "The sociologist warned that persistent economic marginalization had spawned a ___ strain of nativist hostility, which spread rapidly across digital networks to undermine democratic cohesion and infect mainstream political discourse.",
+    "options": [
+      "venomous",
+      "virulent",
+      "toxic",
+      "deadly"
+    ],
+    "answer": "virulent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "The noun 'strain' together with the sustained epidemiological metaphorical network ('spread rapidly', 'infect mainstream political discourse') strictly requires 'virulent' (denoting extremely rapid, infectious, and severe pathogenicity/ideological hostility), which forms the authoritative sociological collocation 'a virulent strain of...'.",
+    "distractor_analysis": {
+      "virulent": "正确。virulent 在学术语域及高质量政论中常借用流行病学隐喻，形容极端思想或敌意“剧毒的、恶性传染的、极其猖獗的”。句中的核心名词“strain”（变种/毒株）与后文的“spread rapidly”（迅速传播）及“infect”（感染/侵蚀）构建了严谨连贯的病理学修辞网络，使得“a virulent strain of...”成为政治社会学文献中极具排他性的标准学术搭配。",
+      "venomous": "排除。venomous 侧重指由毒蛇、毒虫等器官分泌的毒液，或人际之间“充满仇怨、恶毒刻薄的”（spiteful）。在生物学上毒液（venom）不会形成具有复制传染能力的“毒株（strain）”，在修辞上也无法支撑后文“如病毒般迅速扩散（spread）并感染（infect）话语场域”的病理学隐喻链条。",
+      "toxic": "排除。toxic 属于化学毒性范畴，虽然在泛社会学语境中可形容不良文化（如 toxic culture），但其无法与表生物病原变异的“strain”构成固定的学术级隐喻搭配（英语中无 a toxic strain of ideology 的规范范式），也无法自然承接“infect”（感染）这一特属于病原体的动词意象。",
+      "deadly": "排除。deadly 强调物理意义上的“致命性、致死性”。虽然医学中存在 deadly strain（致命毒株）的说法，但在本句描述社会思潮与敌意情绪的语境中，deadly 仅能粗糙地表示“极具破坏力”，丢失了 virulent 所独有的“高传染性、迅速蔓延且极端恶毒”的社会病理学内涵与学术修辞质感。"
+    },
+    "translation": "社会学家警告称，持续的经济边缘化滋生了一种极具恶性传播力的本土主义敌意，这种敌意在数字网络上迅速扩散，侵蚀着民主凝聚力并污染了主流政治话语。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_09",
+    "group_id": 475,
+    "group_name": "aboveboard, square, straight, straightforward",
+    "level": "TEM-8",
+    "target_word": "aboveboard",
+    "question": "To reassure international auditors and dispel lingering suspicions of clandestine lobbying, the supervisory board mandated that all sovereign wealth allocations remain strictly open and ___, fully documented and accessible.",
+    "options": [
+      "aboveboard",
+      "square",
+      "straight",
+      "straightforward"
+    ],
+    "answer": "aboveboard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定同义双词搭配（binomial collocation）“open and aboveboard”与前文“clandestine lobbying”（暗中游说）构成决定性排他对抗。",
+    "distractor_analysis": {
+      "aboveboard": "正确。aboveboard源自航海及赌牌术语（将双手置于桌面之上以示无弊），在正式政治与财经语境中构成经典固定成语搭配“open and aboveboard”（光明磊落、公开透明、无欺瞒隐匿），精确呼应并反制句首的“clandestine lobbying”，语体风格与严谨的审计语境完美契合。",
+      "square": "错误。square虽可表示“公平的、诚实的”（如 a square deal），但其固有习语搭配为“fair and square”（光明正大、无可争议），英语中不存在“*open and square”此类双词并列修饰财政透明度的固定表达，搭配断裂。",
+      "straight": "错误。straight作形容词指“诚实的、坦率的”时多用于口语或搭配特定的名词（如 a straight answer），常见的成语搭配为“straight and narrow”或“set the record straight”，无法与open并列构成指代财务“公开合规且无幕后交易”的“*open and straight”。",
+      "straightforward": "错误。straightforward侧重于“简单易懂的、直接了当的”（uncomplicated or direct），强调流程不繁复或态度坦率，而非强调“免受欺诈与暗箱操作侵害的合法性与透明性”；“*open and straightforward”并非用于反驳黑箱操作/游说隐患的规范法律/审计术语搭配。"
+    },
+    "translation": "为了消除国际审计员的顾虑并驱散有关暗中游说的挥之不去的疑云，监事会要求所有主权财富基金的分配都必须保持绝对公开透明，且全部记录在案并可供调阅查验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_10",
+    "group_id": 475,
+    "group_name": "aboveboard, square, straight, straightforward",
+    "level": "TEM-8",
+    "target_word": "aboveboard",
+    "question": "Although the consortium’s cross-border restructuring initially operated within an opaque regulatory twilight, rigorous compliance audits eventually brought every financial transaction entirely ___, mollifying skeptical federal investigators.",
+    "options": [
+      "aboveboard",
+      "square",
+      "straight",
+      "straightforward"
+    ],
+    "answer": "aboveboard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "动宾补足语搭配“bring [something] aboveboard”，表示将灰色或地下运作转变为合法公开的合规操作，与前文“opaque regulatory twilight”（不透明的监管灰色地带）形成逻辑翻转。",
+    "distractor_analysis": {
+      "aboveboard": "正确。aboveboard在此用作形容词/副词性补足语，常与动词move/bring等连用（如韦氏词典例句“bring current practices aboveboard”、“hope to see the entire industry move aboveboard”），专指将原先处于隐秘、非法或灰色地带的活动“置于阳光下合法化运营”，与句中的“opaque regulatory twilight”形成完美的语义对立与语法契合。",
+      "square": "错误。square虽有“结算清讫的、正派的”之义，但不能与bring连用表示使业务合法合规化（“*bring transactions square”在现代英语中缺乏合法转正的语义理据，仅在俚语或特定几何语境中有非对应含义）。",
+      "straight": "错误。搭配“bring ... straight”并不存在指代合规合法化的用法。“straight”用于此类结构时多为“get/set something straight”（澄清事实、弄清问题），无法承接“将灰色交易彻底合规合法化”的语境语义。",
+      "straightforward": "错误。straightforward强调操作的“直接、简明、不复杂”。若使用“brought ... entirely straightforward”，不仅语法搭配生硬（通常为make something straightforward），而且在语义上仅指“把交易变得简单明了”，完全无法对应下文“平息联邦调查人员怀疑”所要求的“合法透明、脱离黑箱”的核心语义。"
+    },
+    "translation": "尽管该财团的跨境重组最初处于不透明的监管灰色地带，但严格的合规审计最终使其所有财务交易彻底合法合规化，从而平息了持怀疑态度的联邦调查人员的顾虑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_11",
+    "group_id": 476,
+    "group_name": "adroit, neat, handy, clean",
+    "level": "TEM-8",
+    "target_word": "adroit",
+    "question": "Through ___ parliamentary maneuvering and strategic concessions, the prime minister averted a catastrophic coalition collapse, demonstrating a rare capacity to reconcile ideological schisms among warring factions.",
+    "options": [
+      "adroit",
+      "neat",
+      "handy",
+      "clean"
+    ],
+    "answer": "adroit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "High-register political collocation with 'parliamentary maneuvering' denoting calculated, resourceful tactical skill in complex behavioral negotiations.",
+    "distractor_analysis": {
+      "adroit": "正确。意为“机敏的、干练的、熟练的”，特指在复杂的政治博弈、外交谈判或人际困境中展现出的高超手腕与谋略。“adroit parliamentary maneuvering”（精妙干练的议会斡旋）是高阶政经期刊（如《经济学人》）中的权威惯用搭配，与后文化解执政联盟崩溃的语境完全吻合。",
+      "neat": "错误。主要意为“整齐的、整洁的”或“简捷巧妙的”（多修饰解决方案，如 a neat solution，或文字总结 a neat summary）。它强调形式上的小巧、规整或简单，无法体现高难度政治博弈中老练、机智的策略性谋划，修饰 maneuvering 极不地道。",
+      "handy": "错误。语体色彩偏于口语及非正式日常语境，通常指“便利的、手边的”或在具体手工/机械操作上“手巧的”（如 handy with tools）。将其置于庄重严肃的议会政治博弈语境中，存在严重的语域冲突（register clash）。",
+      "clean": "错误。意为“干净的、公正廉洁的”或“彻底干脆的”（如 a clean break）。与 maneuvering 搭配不能表达“手段圆熟、运筹帷幄”的含义，且政治斡旋中包含策略性妥协（strategic concessions），亦非 clean（非黑即白的清白或利落）所能概括。"
+    },
+    "translation": "通过精妙干练的议会斡旋与策略性妥协，首相避免了执政联盟的灾难性瓦解，展现出调和交战派系间意识形态分歧的罕见能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_12",
+    "group_id": 476,
+    "group_name": "adroit, neat, handy, clean",
+    "level": "TEM-8",
+    "target_word": "adroit",
+    "question": "Facing relentless scrutiny from the hostile inquiry committee, the seasoned diplomat proved remarkably ___ at parrying intrusive questions without divulging classified state secrets.",
+    "options": [
+      "adroit",
+      "neat",
+      "handy",
+      "clean"
+    ],
+    "answer": "adroit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The syntactic pattern 'proved remarkably ___ at parrying...' combined with high-level rhetorical defense in a diplomatic inquiry setting.",
+    "distractor_analysis": {
+      "adroit": "正确。adroit 规范接介词 at / in（即 adroit at/in doing sth.），意为“精于……的，巧妙善于……的”，常用于形容在言语交锋、答辩或危机应变中动作或思维敏捷。句中用于描述外交官“巧妙避开质询”，句法搭配与高阶语体俱佳。",
+      "neat": "错误。语法与语义均不符合。neat 属于描述外表、秩序或方案简洁的形容词，在现代标准英语中不存在 *neat at doing sth. 的形容词补足语搭配模式，不能表示擅长某种智力或言辞应对行为。",
+      "handy": "错误。虽然在低阶日常口语中偶见 handy at doing sth.（如 handy at fixing bikes），但该词词义局限于日常劳作或具体工具使用，与高规格的“外交委员会质询、机密情报”这一正式语域产生严重的语域断裂，属于低级干扰项。",
+      "clean": "错误。语法搭配严重破裂。clean 根本无法与介词 at 连用构成 *clean at doing sth. 来表示擅长某种行为，语义完全不通。"
+    },
+    "translation": "面对充满敌意的调查委员会步步紧逼的审视，这位经验丰富的外交官展现出了极其巧妙的应对能力，在未泄露任何国家机密的情况下巧妙化解了所有刁钻的提问。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_13",
+    "group_id": 477,
+    "group_name": "awesome, awful, amazing, impressive",
+    "level": "TEM-8",
+    "target_word": "awesome",
+    "question": "Confronted with the ___ task of drafting a post-apartheid constitution, the jurists embraced their mandate with profound solemnity, recognizing that forging national reconciliation required transcendent moral vision rather than mere procedural compromise.",
+    "options": [
+      "awesome",
+      "awful",
+      "amazing",
+      "impressive"
+    ],
+    "answer": "awesome",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_GOVERNANCE_LAW",
+    "anchor_clue": "核心搭配'confronted with the awesome task of...'（直面艰巨而崇高的历史重任）是《韦氏词典》（Merriam-Webster）对'awesome'的首要释义例证（'an awesome task'），与后文的'profound solemnity'（深沉的庄严感）、'national reconciliation'（民族和解）以及'transcendent moral vision'（超凡的道德远见）形成决定性的语义和语域闭环。",
+    "distractor_analysis": {
+      "awesome": "正确。在高级学术与法律政论英语中，awesome保留其核心词源意义（causing or inspiring awe），形容规模宏大、责任重大、令人肃然起敬且需要极高道德担当的历史性使命。《韦氏词典》对awesome的第一条核心释义例句即为'an awesome task'。本句中'awesome task'精准契合修宪者面对历史重担时油然而生的敬畏感与庄严使命感（profound solemnity）。",
+      "awful": "错误。在现代标准书面英语中，awful已完全固化为极度负面贬义词，表示'糟糕透顶的、令人极度不快的、恶劣的'（extremely unpleasant or disagreeable）；若与task搭配，'an awful task'专指令人作呕、极其讨厌或痛苦不堪的苦差事（如清理垃圾或辨认尸体）。将其置于制订具有解放与和解意义的民主宪法语境中，会产生极其荒诞且侮辱性的贬义偏误；即便依溯其罕见的古义（敬畏），亦局限于恐怖与战栗（dread/terror），完全违背本句崇高、建设性的政治道德语境。",
+      "amazing": "错误。amazing侧重于因出乎意料、新奇奇异而令人'惊愕、诧异或困惑'（causing astonishment, great wonder, or surprise），常用于评价既成的奇特表现或令人叫绝的事物。一项尚未展开、性质沉重肃穆的立宪重任绝非令人轻巧惊叹的惊奇之物（task本身无法作为引起astonishment的客体），在修饰国家政权奠基的庄严语境中，使用amazing存在严重的语域降格（informal register clash）与语义轻浮化偏误。",
+      "impressive": "错误。impressive侧重于凭借已展现出的卓越品质、精湛技艺、非凡成就或雄伟规模而'给人留下深刻印象、令人赞叹钦佩'（evoking admiration or respect through demonstrated excellence or size）。'Impressive'是对既有表现或客观成就的事后鉴赏与赞誉，不能用来修饰主体即将面对、承受的未决艰难使命——人们面对重负可以说'confronted with an awesome task'，但绝不能说'confronted with an impressive task'，这在句法施受逻辑与语用习惯上均属严重断裂。"
+    },
+    "translation": "面对起草后种族隔离时代宪法这一艰巨而崇高的历史重任，法学家们以深沉的庄严感拥抱其使命，深知铸就民族和解需要超凡的道德远见而非仅仅是程序上的妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_14",
+    "group_id": 477,
+    "group_name": "awesome, awful, amazing, impressive",
+    "level": "TEM-8",
+    "target_word": "awesome",
+    "question": "In Hobbesian political theory, the sovereign must wield an ___ power capable of subduing factional violence, maintaining civil order by inspiring a profound dread and reverent submission among otherwise ungovernable citizens.",
+    "options": [
+      "awesome",
+      "awful",
+      "amazing",
+      "impressive"
+    ],
+    "answer": "awesome",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "后文的'inspiring a profound dread and reverent submission'（激起深刻的惧怕与虔敬的顺从）严格对应awesome的词源与词典核心释义（inspiring awe：敬畏与恐惧交织），呼应霍布斯政治哲学中利维坦使臣民'keep in awe'的核心命题。",
+    "distractor_analysis": {
+      "awesome": "正确。awesome在政治哲学与认知领域指'令人产生敬畏与畏惧之情的'（inspiring awe/fear mingled with reverence），在政治思想史中常与power搭配（awesome power of the sovereign），与下文的'profound dread and reverent submission'构成严密的概念闭环。",
+      "awful": "错误。awful在现代英语中专指'令人极度不快的、可怕恶劣的'（terrible, appalling）。若使用'an awful power'，在政治哲学文本中会被解读为'劣质的、恶毒的或失当的权力'，完全无法表达出合法主权者所拥有的威严、令人敬畏的震慑力。",
+      "amazing": "错误。amazing意为'令人惊异的、神奇的'，强调新奇与意外（causing wonder or astonishment），完全不包含霍布斯主权权力所必备的威慑（dread）与庄严臣服（reverent submission）内涵，语体风格极其违和。",
+      "impressive": "错误。impressive意为'令人叹为观止的、令人钦佩的'，多用于评价某种技巧、成绩或宏大规模带来的正面审美与理智赞赏，其情感色彩缺乏维持利维坦国家秩序所需的深层敬畏（awe）与压制性恐惧。"
+    },
+    "translation": "在霍布斯式的政治理论中，主权者必须掌握一种令人生畏的强大权力以压制派系暴力，通过在原本难以管治的公民心中激起深刻的敬畏与顺从而维系社会秩序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_15",
+    "group_id": 478,
+    "group_name": "benevolent, kind, kindly, charitable",
+    "level": "TEM-8",
+    "target_word": "benevolent",
+    "question": "Although the tech conglomerate framed its pervasive surveillance system as an act of ___ paternalism designed to foster employee welfare, critics argued that such institutional oversight fundamentally eroded personal autonomy.",
+    "options": [
+      "benevolent",
+      "kind",
+      "kindly",
+      "charitable"
+    ],
+    "answer": "benevolent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational requirement with 'paternalism' in organizational and political theory ('benevolent paternalism'). Distractors cannot form this established sociological/philosophical term.",
+    "distractor_analysis": {
+      "benevolent": "正确。在社会学、组织行为学及政治哲学中，'benevolent paternalism'（仁慈家长式管理/开明家长制）是固定的学术专有名词，指上位者假借'关怀下属福祉'之名而行使的全面掌控与保护，与后文的'foster employee welfare'和'institutional oversight'形成严密的语境照应与学术语域呼应。",
+      "kind": "错误。日常通用词汇，多用于描述个人的和蔼性格或善意举动，语域偏口语化与通俗化，不能与政治制度或管理学抽象概念'paternalism'构成严肃的学术搭配。",
+      "kindly": "错误。作形容词时主要用于描述个体外在展现的和蔼面容、温和态度或慈祥神情（如 a kindly face / gesture），侧重于亲切体贴的外显行为特征，无法用作修饰体制性管理理念的学术定语。",
+      "charitable": "错误。核心义项为'慈善救济的'（涉及金钱、物资扶贫）或'宽容厚道的'（指评价上的宽大，如 a charitable view），强调对弱势者的施舍或宽容，不能用来表达企业或统治者自上而下的家长式威权保护。"
+    },
+    "translation": "尽管该科技巨头将其无孔不入的监控系统描绘为一种旨在增进员工福祉的“仁慈家长制”举措，但批评人士认为，这种机构层面的监督从根本上侵蚀了个人的自主权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_16",
+    "group_id": 478,
+    "group_name": "benevolent, kind, kindly, charitable",
+    "level": "TEM-8",
+    "target_word": "benevolent",
+    "question": "Eighteenth-century political theorists frequently justified absolute monarchy through the doctrine of ___ despotism, positing that an enlightened ruler possessing absolute authority could orchestrate progressive societal reforms more effectively than fractious assemblies.",
+    "options": [
+      "benevolent",
+      "kind",
+      "kindly",
+      "charitable"
+    ],
+    "answer": "benevolent",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Canonical historiographical and political term 'benevolent despotism' (synonymous with enlightened despotism). Distractors fail on stylistic register and idiomatic historical usage.",
+    "distractor_analysis": {
+      "benevolent": "正确。'benevolent despotism'（开明专制 / 仁慈专制）是欧洲史学与政治思想史中指称18世纪受启蒙运动影响、以增进臣民福祉为名推行改革之君主专制政体的固定术语，与句中的'absolute monarchy'、'enlightened ruler'及'progressive societal reforms'完全吻合。",
+      "kind": "错误。词义过于通俗泛化，侧重于人际相处中的友善，'kind despotism'在学术史学话语中属于严重搭配不当（collocational rupture），缺乏学术权威性与历史精确性。",
+      "kindly": "错误。作形容词时具有浓厚的文学感情色彩，指带有长者风范的和蔼慈祥（如 a kindly old gentleman），与强调刚性政治权力垄断的'despotism'（专制）在语体风格上产生剧烈冲突。",
+      "charitable": "错误。严格指涉'慈善救济的'或提供扶贫援助的行动与机构（如 charitable organizations），不能修饰国家政体或君主统治形态，语义指涉与句意不符。"
+    },
+    "translation": "十八世纪的政治理论家经常借助“仁慈专制”（开明专制）学说为绝对君主制辩护，他们认为，掌握绝对权力的开明统治者能够比派系林立的代议机构更有效地推动渐进式的社会改革。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_17",
+    "group_id": 479,
+    "group_name": "catchy, hard, tricky, difficult",
+    "level": "TEM-8",
+    "target_word": "catchy",
+    "question": "Although the sociologist's monograph offered little methodological innovation, it achieved widespread cultural resonance largely because the author encapsulated its central argument in a ___ moniker that effortlessly captured the public imagination.",
+    "options": [
+      "catchy",
+      "hard",
+      "tricky",
+      "difficult"
+    ],
+    "answer": "catchy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'a ___ moniker that effortlessly captured the public imagination' explicitly demands an adjective that forms a natural, idiomatic collocation with 'moniker' while denoting high mnemonic appeal and effortless mental retention. 'Catchy' perfectly forms the collocation 'catchy moniker' (a memorable, easily recalled label), logically explaining why the monograph achieved 'widespread cultural resonance'. In contrast, 'hard' and 'difficult' create severe collocational ruptures and directly contradict 'effortlessly captured', while 'tricky' introduces an irrelevant and discordant connotation of deceit or intricate peril.",
+    "distractor_analysis": {
+      "catchy": "正确。catchy意为“朗朗上口的、容易记住的、引人注目的”，与moniker（名称、代号）构成极为地道且经典的修辞搭配（a catchy moniker），精准契合从句中“effortlessly captured the public imagination”（毫不费力地俘获了公众的想象力）以及主句“widespread cultural resonance”（广泛的文化共鸣）所设定的认知传播语境。",
+      "hard": "错误。hard与moniker搭配产生严重的搭配断裂（collocational rupture），英语中不存在*hard moniker*表示“晦涩的名称”；且hard若理解为“费力的、艰难的”，与从句中的“effortlessly”（毫不费力地）产生不可调和的逻辑矛盾。",
+      "tricky": "错误。tricky意为“棘手的、难对付的、狡黠的”，强调事物复杂脆弱、需要谨慎处理或暗含圈套。修饰moniker不仅搭配生疏，且带有消极贬义色彩，与作者提炼核心概念以利于大众传播的意图背道而驰。",
+      "difficult": "错误。difficult意为“费力的、难懂的”，与moniker搭配不当（形容概念名称艰涩通常用obscure或unwieldy）；从语义推导来看，一个“难懂的代称”绝不可能让论著“轻而易举地俘获公众想象力”，形成因果倒错。"
+    },
+    "translation": "尽管这位社会学家的专著在方法论上鲜有创新，但它却引发了广泛的文化共鸣，这在很大程度上是因为作者将其核心论点凝练成了一个朗朗上口的代称，轻而易举地抓住了公众的想象力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_18",
+    "group_id": 479,
+    "group_name": "catchy, hard, tricky, difficult",
+    "level": "TEM-8",
+    "target_word": "catchy",
+    "question": "In her critique of contemporary science communication, the sociologist argued that public engagement often sacrifices conceptual nuance for a ___, easily digestible slogan designed primarily to maximize social-media virality.",
+    "options": [
+      "catchy",
+      "hard",
+      "tricky",
+      "difficult"
+    ],
+    "answer": "catchy",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COMMUNICATION",
+    "anchor_clue": "The sentence presents an explicit coordinated adjectival modification ('a ___, easily digestible slogan') governed by the purpose of achieving broad public reach ('designed primarily to maximize social-media virality') at the expense of substantive depth ('sacrifices conceptual nuance'). Both 'hard' and 'difficult' are direct antonymic contradictions to 'easily digestible', making their substitution logically impossible. Meanwhile, 'tricky' denotes being fraught with hidden complexities, hazards, or requiring delicate caution, which clashes oxymoronically with 'easily digestible' and subverts the communicative goal of frictionless transmission. Only 'catchy' denotes instant, pleasant memorability and effortless psychological retention, forming the canonical academic and journalistic collocation 'catchy slogan'.",
+    "distractor_analysis": {
+      "catchy": "正确。catchy在此意为“引人注意的、朗朗上口且易于记忆的”（instantly appealing and memorable; easily remembered），与名词slogan构成当代学术界与大众传播学中高度经典的标杆级搭配“catchy slogan”。句中“sacrifices conceptual nuance”（牺牲概念的严谨细致）与并列修饰语“easily digestible”（极易消化的、简明易懂的）以及目的状语“designed primarily to maximize social-media virality”（旨在最大化社交媒体病毒式传播）构成了绝对闭环的语义锚定，完全契合catchy的核心语义场与语域要求。",
+      "hard": "错误。hard在此作为形容词表示“艰涩的、深奥费解的、要求付出繁重脑力劳动的”（demanding strenuous mental exertion or difficult to comprehend）。空后紧随并列修饰语“easily digestible”（易于理解消化的），若填入hard修饰slogan，将直接构成“既深奥艰涩又容易消化”的严重语义互斥与逻辑破裂，与语境所表达的放弃复杂性追求通俗化背道而驰。",
+      "tricky": "错误。tricky的核心语义为“棘手的、复杂的、暗藏玄机或需要极其谨慎应对的”（requiring caution; full of hidden difficulties or pitfalls）。在此语境中，宣传口号旨在实现大众层面的快速渗透与无障碍理解，一个充满隐性陷阱或需要费心机敏应对的“tricky slogan”与后文“easily digestible”构成强烈的语用冲突，无法实现“最大化社交媒体病毒式传播”的目的。",
+      "difficult": "错误。difficult表示“难以理解的、不易掌握的、需克服重大认知阻碍的”（needing much effort or skill to understand or overcome）。该词与并列修饰项“easily digestible”在语义特征上形成不可调和的反义冲突（difficult vs. easily digestible）；前文已明确指出该传播策略“sacrifices conceptual nuance”（牺牲了概念细节），因而口号本身绝非difficult。"
+    },
+    "translation": "在对当代科学传播的批判中，这位社会学家指出，公众参与往往牺牲概念上的严谨细致，转而采用一种朗朗上口、易于消化的口号，其首要目的在于最大化社交媒体上的病毒式传播效果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_19",
+    "group_id": 480,
+    "group_name": "categorical, flat, unqualified, unconditional",
+    "level": "TEM-8",
+    "target_word": "categorical",
+    "question": "The cognitive linguist argued that native speakers draw a ___ distinction between voluntary actions and involuntary reflexes, maintaining that semantic boundaries in grammar reflect absolute conceptual divisions rather than graded spectra.",
+    "options": [
+      "categorical",
+      "flat",
+      "unqualified",
+      "unconditional"
+    ],
+    "answer": "categorical",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates with 'distinction' in cognitive science/epistemology to denote a discrete, qualitative demarcation, directly mirrored by 'absolute conceptual divisions rather than graded spectra'.",
+    "distractor_analysis": {
+      "categorical": "正确。在认知语言学和哲学分析中，'categorical distinction'（范畴性区分／明确界限）属于高度固化的学术搭配，特指将事物归入截然不同类别、不存在中间模糊过渡的质的区分，与后文的 'absolute conceptual divisions rather than graded spectra'（绝对的概念划分而非连续渐变谱）构成严密的语义呼应与语域契合。",
+      "flat": "错误。flat 用作形容词表示“断然的、彻底的”时，带有口语或非正式色彩，通常仅与少数行为/言论名词搭配（如 flat denial 矢口否认、flat refusal 坚决拒绝、flat contradiction 直接矛盾），修饰抽象的认知学术名词 distinction 属于严重的搭配断裂。",
+      "unqualified": "错误。unqualified 意为“毫无保留的、完全的”或“不具备资质的”，主要修饰带有评价性或程度性的名词（如 unqualified success 彻底的成功、unqualified support 全力支持），用来修饰概念边界 distinction 在语义与搭配上均不合规范。",
+      "unconditional": "错误。unconditional 意为“无条件的、不附带先决条件的”，其核心义素在于没有前提约束（如 unconditional surrender 无条件投降、unconditional guarantee 无条件担保），无法用来界定认知分类上的质性界限。"
+    },
+    "translation": "这位认知语言学家认为，母语者在自愿行为与非自愿条件反射之间划定了一种范畴性区分，坚称语法中的语义边界反映的是绝对的概念划分而非渐变连续谱。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b47_20",
+    "group_id": 480,
+    "group_name": "categorical, flat, unqualified, unconditional",
+    "level": "TEM-8",
+    "target_word": "categorical",
+    "question": "In formal epistemology, rational obligation is governed by a ___ imperative, which binds agents unconditionally, in stark contrast to hypothetical directives that remain contingent upon subjective desires.",
+    "options": [
+      "categorical",
+      "flat",
+      "unqualified",
+      "unconditional"
+    ],
+    "answer": "categorical",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The philosophical contrast with 'hypothetical directives' decisively points to Kant's foundational technical term 'categorical imperative'.",
+    "distractor_analysis": {
+      "categorical": "正确。在道德认识论与哲学语域中，'categorical imperative'（定言令式／绝对命令）是康德伦理学无可替代的核心专业术语（terminus technicus），专指无条件约束理性主体行动的普遍法则。后文明确出现的 'in stark contrast to hypothetical directives'（与假言指令形成鲜明对比）构成了决定性的学术互文与逻辑排他锚点（categorical vs. hypothetical）。",
+      "flat": "错误。flat 多用于修饰日常交际中的态度或语气（如 flat tone 生硬平淡的语调、flat refusal 毫无商量余地的拒绝），与规范哲学概念 imperative 毫无搭配兼容性，存在严重语域错配。",
+      "unqualified": "错误。unqualified 虽然可表示“无条件的、绝对的”，但它并非哲学概念体系中与假言指令（hypothetical）严格相对的专有名词，无法形成学术规范用语。",
+      "unconditional": "错误。首先，在伦理学学术传统中，该概念的专有表达固定为 categorical imperative 而非 unconditional imperative；其次，定语从句中已出现 'binds agents unconditionally'，若在空格处再选 unconditional，将导致同义累赘和低级语病（pleonasm）。"
+    },
+    "translation": "在形式认识论中，理性责任受定言令式支配，它无条件地约束行为主体，与依赖于主观欲望的假言指令形成了极其鲜明的对比。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

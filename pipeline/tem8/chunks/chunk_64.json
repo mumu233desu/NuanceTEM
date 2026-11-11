@@ -42,13 +42,13 @@
     },
     {
       "group_id": 643,
-      "group_name": "plight, mire, pinch, bitch",
+      "group_name": "plight, mire, pinch, impasse",
       "target_word": "plight",
       "words": [
         "plight",
         "mire",
         "pinch",
-        "bitch"
+        "impasse"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",
@@ -96,13 +96,13 @@
     },
     {
       "group_id": 646,
-      "group_name": "predicament, mire, pinch, bitch",
+      "group_name": "predicament, mire, pinch, impasse",
       "target_word": "predicament",
       "words": [
         "predicament",
         "mire",
         "pinch",
-        "bitch"
+        "impasse"
       ],
       "pos": "n",
       "field": "FIELD_COGNITION",

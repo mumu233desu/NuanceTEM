@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b23_01",
+    "group_id": 231,
+    "group_name": "flex, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "flex",
+    "question": "When defending complex hermeneutic frameworks against positivist reductionism, classical theorists frequently ___ their intellectual muscle, marshaling intricate dialectics to demonstrate that subjective consciousness transcends mechanistic computational modeling.",
+    "options": [
+      "flex",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "flex",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive syntactic position taking 'their intellectual muscle' as direct object, forming the established cognitive idiom 'flex one's muscle(s)' (to demonstrate strength or intellectual prowess); the other three verbs are strictly intransitive and describe involuntary or helpless physical movement.",
+    "distractor_analysis": {
+      "flex": "正确。此处考查该动词在高级智识语境（FIELD_COGNITION）中的比喻转义用法，即固定搭配“flex one's muscle(s)”（展现/施展力量、展示智识造诣）。该词由“屈肌收缩”引申为主动展示实力与权能，在句法上充当及物动词支配宾语“their intellectual muscle”，完美契合理论家主动发起辩证反击的强势语境。",
+      "waver": "错误。词义为“动摇、犹豫不决”。在句法层面上，waver 属于不及物动词（vi.），后接名词短语“their intellectual muscle”构成严重句法错误；在语义与情感色彩上，waver 表达意志不坚定或动摇退让，与后文学者主动“marshaling intricate dialectics”（调动精密辩证法）的抗辩态势完全相悖。",
+      "quiver": "错误。词义为“轻颤、微抖”，特指因恐惧、激动或生理刺激引起的细小且不由自主的震颤。句法上，quiver 为不及物动词，无法带直接宾语；语义上，它侧重身体或物体的微弱颤抖，与展示学术实力的意象毫无关联。",
+      "writhe": "错误。词义为“（因痛苦、折磨或窘迫而）翻滚、扭动”。句法上为典型不及物动词，后接“their intellectual muscle”不合语法；语体与语义上，writhe 通常与“in pain/agony”搭配，描述受难时的痛苦蜷曲，极度偏离句中所要求的自信从容的理论论辩语境。"
+    },
+    "translation": "在为复杂的阐释学框架抵御实证主义还原论时，古典理论家们经常施展其智识力量，调动缜密的辩证逻辑来证明主体意识绝非机械的计算模型所能涵盖。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_02",
+    "group_id": 231,
+    "group_name": "flex, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with contradictory empirical anomalies, the epistemologist began to ___ between the orthodox paradigm and an emerging radical hypothesis, unable to synthesize the divergent observational data into a coherent model.",
+    "options": [
+      "flex",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic dependency '___ between [Noun Phrase A] and [Noun Phrase B]' indicating intellectual indecision or theoretical vacillation; 'waver' is the only verb among the options that selects 'between' to denote fluctuating between two alternative beliefs or hypotheses.",
+    "distractor_analysis": {
+      "waver": "正确。词义为“（在两种信念、立场或选择之间）动摇、犹豫不决”（to vacillate between choices; fluctuate in opinion）。其核心句法标志为介词搭配“waver between A and B”，高度契合认知哲学（FIELD_COGNITION）中学者在正统理论与激进假说之间举棋不定的思维震荡状态。",
+      "flex": "错误。词义为“展示、弯曲”。在表达展示力量或能力时为及物动词（如 flex one's muscle）；用作不及物动词时仅指关节屈曲或柔韧弯折，绝对不能与介词短语“between A and B”搭配表示在不同学说间“犹豫动摇”，存在明显的句法与语意割裂。",
+      "quiver": "错误。词义为“颤抖、颤动”，指快速而轻微的物理震颤，常接介词 with（如 quiver with excitement/rage）。quiver 无法与“between two hypotheses”搭配表达认知上的踌躇或观点摇摆，置于此处属于范畴错配（category mistake）。",
+      "writhe": "错误。词义为“痛苦扭动、受煎熬”，侧重躯体因剧痛或心理因极端耻辱而翻滚挣扎（如 writhe in agony）。writhe 既不具备“在两者之间取舍不定”的理性认知语意，也无法与“between... and...”搭配表摇摆，语体色彩严重失配。"
+    },
+    "translation": "面对相互矛盾的经验反常现象，这位认识论学者开始在正统范式与新兴的激进假说之间摇摆不定，无法将存在分歧的观察数据综合为一个自洽的模型。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_03",
+    "group_id": 232,
+    "group_name": "flop, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "flop",
+    "question": "When sensory feedback was severed during the motor cognition trial, the participant's hand would ___ abruptly onto the sensor pad, exhibiting none of the graduated deceleration characteristic of deliberate volitional control.",
+    "options": [
+      "flop",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "flop",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“abruptly onto the sensor pad”（突兀地跌落在感应垫上）与后文“exhibiting none of the graduated deceleration”（毫无渐进减速特征）构成决定性语义锚点，唯一指向韦氏词典对 flop 强调的“突兀、笨拙且毫无支撑地猛然跌落（fall suddenly and abruptly with a heavy, limp movement）”。",
+    "distractor_analysis": {
+      "flop": "正确。flop 在韦氏词典中的核心同义辨析义为“fall suddenly and abruptly”，特指由于失去张力、力量或支撑而“沉重、松弛、笨拙且突兀地下坠”。本句处于运动认知神经实验语境，失去感觉神经反馈的手部完全脱离了意识控制，呈无张力状态突兀砸落，与副词 abruptly 及后文缺乏减速缓冲的动作特征形成严密契合。",
+      "alight": "错误。alight 指轻盈、优雅或平稳地“降落、飞落、停歇”（descend and settle gently/lightly），通常用于鸟类、昆虫降落或物体轻柔就位，与句中失去神经控制后沉重、突兀的猛然坠落（abruptly）存在根本性的动作姿态与物理质感冲突。",
+      "subside": "错误。subside 指“趋于平息、平伏”或“缓慢下沉至较低水平”（sink to a lower level; abate gradually），多修饰风暴、情绪、肿胀或地基下陷，属于渐进式衰减过程，既不与肢体的猛然跌落搭配，也无法与介词短语 abruptly onto 形成合理的动态共现。",
+      "cascade": "错误。cascade 指如瀑布般“大量倾泻、连绵跌落”（fall in or like a cascade），强调复数元素、流体或多级梯次的奔涌过程（如瀑布般披散的头发或连续下泄的数据流），无法用于单一肢体（hand）孤立的单次下落动作。"
+    },
+    "translation": "在运动认知实验中，一旦感觉反馈被阻断，受试者的手便会突兀而沉重地跌落在感应垫上，完全没有表现出自主意识控制所特有的渐进减速特征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_04",
+    "group_id": 232,
+    "group_name": "flop, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "In reviewing the intricate neural imaging data, the neuroscientist’s critical attention happened to ___ upon a fleeting micro-signal, unlocking an entirely novel understanding of preconscious visual perception.",
+    "options": [
+      "flop",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "alight",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "由主语“critical attention”（审视的目光/专注力）以及介词“upon a fleeting micro-signal”（停留在微弱信号上）构成的认知隐喻搭配，唯有 alight 能构成“alight upon（偶然注意到、目光/注意力停留在……之上）”的高阶学术与文学修辞用法。",
+    "distractor_analysis": {
+      "alight": "正确。alight 除表示物理上的“轻盈停歇”外，在韦氏词典中具备专门的认知与感知转义：“to come by chance : HIT, HAPPEN — usually used with on or upon”，常搭配 eyes, gaze, attention 或 mind，表示目光、视线或敏锐注意力“偶然落于、停留在某一焦点上”。此处与 critical attention 及 upon 形成无懈可击的高阶认知语篇搭配。",
+      "flop": "错误。flop 强调物质实体的沉重无力坠落或方案的彻底惨败，完全属于物理运动或结果评判范畴，注意力（attention）属于抽象心智机能，绝不可能“flop upon”某个微弱信号，语义产生严重的范畴错配（category mistake）。",
+      "subside": "错误。subside 意为“平息、消退、回落”，其句法多为不及物或搭配介词 into（如 subside into silence），既不存在 *subside upon 表示“注意到”或“停驻于”的句法构式，也与句中敏锐捕捉关键信号的语境逻辑背道而驰。",
+      "cascade": "错误。cascade 意为“成瀑布状下倾、连缀倾泻”，若与 upon 搭配，通常表示海量事物（如批评、数据、灾难）如洪水般倾泻降临在某人某物身上（cascade upon sb.）；抽象的“专注力（attention）”无法作为主体单向“倾泻”在单一孤立的微弱信号（a micro-signal）上，存在严重的配伍破裂。"
+    },
+    "translation": "在审查纷繁复杂的神经成像数据时，这位神经科学家的敏锐目光偶然停留在了一个稍纵即逝的微弱信号上，从而开启了对前意识视觉感知的全新理解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_05",
+    "group_id": 233,
+    "group_name": "flux, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "flux",
+    "question": "Rejecting the Cartesian conception of a static ego, phenomenologists argue that human consciousness exists in perpetual ___, continuously reconstituted by an uninterrupted stream of evolving perceptions and sensations.",
+    "options": [
+      "flux",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "flux",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_PHILOSOPHY",
+    "anchor_clue": "句中首尾呼应的哲学对立逻辑与核心搭配构成绝对排他锚点：前半句 'Rejecting the Cartesian conception of a static ego' 确立了对'静态（static）'的否定；'exists in perpetual ___' 构成学术经典搭配，其后的分词短语 'continuously reconstituted by an uninterrupted stream of evolving perceptions'（由不断演进的知觉之连绵流变所持续重构）精准锚定 Merriam-Webster 对名词 flux 的核心释义 'a state of continuous change or movement' 及 'a continuous moving on or passing by (as of a stream)'。其余三项均为可数名词或动词，在句法结构（不可数抽象状态名词要求）与哲学语义上均发生严重破裂。",
+    "distractor_analysis": {
+      "flux": "正确。flux 在此作不可数名词，Merriam-Webster 核心释义为 'a state of continuous change or movement'（持续的改变或流动状态）以及 'a continuous moving on or passing by (as of a stream)'（如流水般连绵推移）。在哲学认识论语境中，'in perpetual flux'（处于永恒流变之中）是高度固定的学术搭配，与前文对静态自我（static ego）的批判形成鲜明对照，且与后文'连绵不断的感知之流'（uninterrupted stream）达成完美的语义互锁。",
+      "waver": "错误。waver 作名词时为可数名词，指'动摇、犹豫、踌躇'或光线的'摇曳'（an act or instance of wavering）。语法上，waver 无法作为抽象不可数名词置于 'in perpetual ___' 中构成合法状态状语（出现单复数与词类搭配缺陷）；语义上，waver 强调在对立立场间的摇摆不定，无法表达意识连绵生成与演化的流体动力学过程。",
+      "quiver": "错误。quiver 作名词时为可数名词，指物理或情绪上的'微颤、震颤'（a slight rapid shaking movement or tremor）。在句法上受限于可数性无法直接跟在 'in perpetual' 之后；在语义上，quiver 属于局部物理震动，将其用于定义宏观意识存在状态属于范畴错配（category error）。",
+      "writhe": "错误。writhe 绝大多数情况下作为动词使用，即便作名词也是指'（因痛苦而产生的）扭动、翻滚、挣扎'（a contorted twisting movement）。它既不能充当表示哲学抽象状态的不可数名词，且其强烈的肉体剧痛与扭曲意象会彻底破坏严肃的哲学认识论语域，造成荒谬的修辞破裂。"
+    },
+    "translation": "现象学家反对笛卡尔关于静态自我的构想，认为人类意识处于永恒的流变之中，由不断演进的知觉与感觉构成的连绵之流所持续重塑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_06",
+    "group_id": 233,
+    "group_name": "flux, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted with contradictory neuroimaging data, the cognitive scientists began to ___ between discarding their longstanding neural model and adopting an untested hypothesis regarding memory retrieval.",
+    "options": [
+      "flux",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性句法与语义双重锚点为固定搭配 '___ between [gerund A] and [gerund B]'。语境呈现研究者在面对矛盾数据时，在'抛弃既有理论'与'接纳未经验证假说'两个互斥认知方案之间产生主观犹豫与举棋不定。waver 是所给词中唯一能够在句法上接 'between... and...' 并准确表达认知抉择犹豫、动摇（to vacillate irresolutely between choices）的动词。",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为'（在两者之间）摇摆不定、举棋不定、优柔寡断'（to vacillate irresolutely between choices or opinions）。搭配 'waver between A and B' 是学术英语中表达面临认知冲突、理论权衡或决策困境时主观犹豫的标准范式，在此与 'between discarding... and adopting...' 形成天衣无缝的句法与语境共振。",
+      "flux": "错误。flux 作为不及物动词表示'如水流般推进'或'不断流变'（如 'meanings flux over time'），其主语通常是概念、潮流或客观局势，不仅不能以认知科学家（人）为主语表示主观抉择的迟疑，更不存在接介词短语 'between A and B' 表二选一摇摆的用法，存在严重语法和搭配冲突。",
+      "quiver": "错误。quiver 意为'发抖、轻微震颤'，表达生理反应或物理微动，语法上不能与 'between [doing X] and [doing Y]' 连用，语意上亦完全无法表示认知决策层面的动摇或权衡。",
+      "writhe": "错误。writhe 意为'（因痛苦、折磨）扭动翻滚'，常接介词 in（如 'writhe in agony'），在句法上无法支配 'between A and B' 结构表达理性的学术踌躇，且与句子的高级学术探讨色彩格格不入。"
+    },
+    "translation": "面对相互矛盾的神经影像数据，认知科学家们开始在废弃其长期沿用的神经模型与采纳一项未经检验的记忆提取假说之间举棋不定。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_07",
+    "group_id": 234,
+    "group_name": "harness, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "harness",
+    "question": "Epistemologists suggest that intuitive thinkers do not suppress spontaneous conjecture; rather, they ___ latent associative mechanisms to synthesize fragmented empirical observations into coherent theoretical frameworks.",
+    "options": [
+      "harness",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "harness",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The sentence exhibits a sharp antithetical pivot ('do not suppress...; rather, they ___ [mechanisms] to synthesize...'). This discursive structure strictly necessitates a verb denoting the productive mastery and purposeful deployment of an internal capacity toward a constructive end, categorically excluding verbs of mere suppression, impedance, or perplexity.",
+    "distractor_analysis": {
+      "harness": "【正确】harness 核心语义为“控制并驾驭、有效利用（自然力、能力或机制以服务于特定建设性目的）”。在此处与“latent associative mechanisms（潜在联想机制）”及目的状语“to synthesize... into coherent theoretical frameworks（综合为连贯理论框架）”构成绝佳搭配，完美承接前半句“do not suppress... rather”的对仗与逻辑升华。",
+      "rein": "【错误】rein 意为“制止、约束、勒住”，强调对失控力量的遏止或减速（常与 in 连用）。若填入此处，与前半句“do not suppress”语义重叠，无法形成 rather 所引导的正向利用转折，且与后文“综合理论框架”的建设性目标产生逻辑裂痕。",
+      "baffle": "【错误】baffle 意为“使困惑、阻挫”。主语“直觉型思考者”不可能主动去“难倒”或“困惑”自身的思维机制以实现理论综合，语义在认知场域内完全荒谬。",
+      "inhibit": "【错误】inhibit 意为“抑制、阻碍（神经反应、冲动或行为）”。填入后会产生“do not suppress... rather, they inhibit...”这一明显的同义反复与自相矛盾，彻底破坏了句子的逻辑对比框架。"
+    },
+    "translation": "认识论学者指出，直觉型思考者并不会压制自发的假想；相反，他们懂得驾驭大脑潜在的联想机制，从而将零散的经验观察综合为连贯的理论框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_08",
+    "group_id": 234,
+    "group_name": "harness, rein, baffle, inhibit",
+    "level": "TEM-8",
+    "target_word": "rein",
+    "question": "Although intuitive leaps often spark scientific breakthroughs, rigorous epistemologists must continually ___ in excessive theoretical conjecture, ensuring that abstract models remain strictly tethered to observable empirical data.",
+    "options": [
+      "harness",
+      "rein",
+      "baffle",
+      "inhibit"
+    ],
+    "answer": "rein",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The blank is immediately followed by the particle 'in' to govern the direct object 'excessive theoretical conjecture', complemented by the subsequent equestrian metaphor 'tethered to'. Among all options, only 'rein' forms the legitimate phrasal verb 'rein in' (to curb or restrain runaway momentum or excess); 'harness in', 'baffle in', and 'inhibit in' are syntactically illicit in English.",
+    "distractor_analysis": {
+      "rein": "【正确】rein 源于骑乘意象，及物动词短语“rein in”意为“勒缰止马；严格遏制、收束（过度放纵或狂奔的势头）”。此处与“excessive theoretical conjecture（过度的理论臆测）”以及后文隐喻“remain strictly tethered to（严格拴系于……）”形成高度自洽的修辞与句法结构，完美符合学术语体中对认知冲动进行自我约束的表达。",
+      "harness": "【错误】harness 意为“治理、驾驭、利用”，为标准及物动词，在现代英语中不存在 *harness in 的及物动词短语搭配，填入即导致句法严重不通；且其积极利用的内涵与抑制“excessive”的消极语境相悖。",
+      "baffle": "【错误】baffle 意为“使困惑、击败”，属于纯及物动词，不能接副词小品词 in 来支配宾语（无 *baffle in 结构），在句法上直接被排除。",
+      "inhibit": "【错误】inhibit 虽有“抑制”之义，但其属于标准及物动词，直接接承受对象（如 inhibit excessive conjecture），根本不存在 *inhibit in 的动副结构；若填入会导致明显的句法破损。"
+    },
+    "translation": "尽管直觉的飞跃往往能点燃科学突破的火花，但严谨的认识论学者必须不断约束过度的理论臆测，以确保抽象模型始终严格锚定在可观察的经验数据之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_09",
+    "group_id": 235,
+    "group_name": "honk, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "honk",
+    "question": "Subjected to simulated commuter stress, drivers in the control group began to ___ impatiently at unexpected blockages, their strident, brassy blasts causing measurable spikes in the auditory cortex activation of monitored subjects.",
+    "options": [
+      "honk",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "honk",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的主语“drivers”、动作对象“impatiently at unexpected blockages”以及后置同位解释“their strident, brassy blasts”（尖锐刺耳的铜管般鸣响）构成决定性声学与搭配锚点，唯一锁定表示按响汽车喇叭发出高亢刺耳长鸣的 honk。",
+    "distractor_analysis": {
+      "honk": "正确。honk 专指按响汽车喇叭或发出高亢、刺耳、粗粝的鸣叫声（如雁鸣或号角声）。句中主语为受压力的驾驶员（drivers），其受阻时发出的声响被明确界定为“strident, brassy blasts”（尖锐刺耳的鸣响），与 honk at 的用法及声学特质严丝合缝。",
+      "rap": "错误。rap 强调以硬物短促、快速地叩击（如轻叩门窗、敲击桌面），其声学特质为清脆、短促的敲击声，后接 at 时通常表示“敲打（门窗等）”，完全无法指代机动车驾驶员发出的“strident, brassy blasts”。",
+      "thud": "错误。thud 描述重物坠地或软质碰撞时发出的沉重、沉闷、缺乏共鸣的钝响（如重物落地）。该词在声学特征上与“strident”（尖锐高亢）和“brassy”（黄铜质感的鸣响）形成语义互斥，且驾驶员无法通过 thud 来向路障表达不耐烦。",
+      "drone": "错误。drone 指持续发出低沉、单调、催眠般的嗡嗡声或轰鸣声（如昆虫振翅、引擎持续低转速运转）。句中描述的是突发性、高唤醒度的应激警告鸣笛（blasts），与 drone 所指的连续平缓低频声在时相与音色上均直接冲突。"
+    },
+    "translation": "在模拟通勤压力的实验中，对照组的驾驶员面对意外路障开始不耐烦地按响喇叭，其尖锐刺耳的鸣笛声引发了受试者听觉皮层激活水平的显著跃升。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_10",
+    "group_id": 235,
+    "group_name": "honk, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "To redirect the committee’s drifting attention during the contentious hearing, the magistrate had to ___ sharply on the mahogany dais with her gavel, the crisp, percussive strike instantly restoring cognitive focus in the chamber.",
+    "options": [
+      "honk",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配与工具锚点“sharply on the mahogany dais with her gavel”结合后文的“crisp, percussive strike”（清脆的撞击敲打），在物理机制和音质特征上排他性指向用硬物急促敲击的 rap。",
+    "distractor_analysis": {
+      "honk": "错误。honk 指按响汽车喇叭或雁鸣，属于吹奏类或气流引发的高鸣，动作施加主体既无法是手持法槌（gavel）的法官，也绝不可能作用于红木台（on the mahogany dais），与下文的“percussive strike”（打击式敲击）存在不可调和的范畴错配。",
+      "rap": "正确。rap 精确表示用坚硬物体（如指节、木槌）迅捷、短促而清脆地敲击表面以引起注意（常用搭配 rap on/with），完美吻合句中的“sharply on the mahogany dais with her gavel”及“crisp, percussive strike”。",
+      "thud": "错误。thud 指没有共鸣的低沉沉闷撞击声（通常为钝物落地）。法槌猛击坚硬干燥的红木台所产生的声音清脆而尖锐，与 thud 所代表的低闷质感相悖，且修饰语“sharply”（尖锐地）与“thud”存在语义上的反义冲突（thud 本身不可 sharp）。此外，人作为主语使用工具主动制造声响时极少使用 thud on sth with sth。",
+      "drone": "错误。drone 指连续不断地发出低沉嗡嗡声或单调冗长的低语，与句中用木槌骤然制造的单次、突发、具有唤醒功能的“crisp, percussive strike”在声学物理机制与时间维度上截然相反。"
+    },
+    "translation": "为了在充满争议的听证会中重新拉回委员们涣散的注意力，地方法官不得不用法槌在红木台上重重一敲，那一声清脆的敲击瞬间使审讯室内众人的认知焦点得以恢复。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_11",
+    "group_id": 236,
+    "group_name": "immerse, fence, encase, enshrine",
+    "level": "TEM-8",
+    "target_word": "immerse",
+    "question": "To comprehend the subtlety of ancient hermeneutics, scholars must completely ___ themselves in the socio-historical milieu rather than prematurely superimposing contemporary theoretical frameworks upon the source texts.",
+    "options": [
+      "immerse",
+      "fence",
+      "encase",
+      "enshrine"
+    ],
+    "answer": "immerse",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational pattern '___ themselves in the socio-historical milieu' contrasted with 'prematurely superimposing contemporary theoretical frameworks', strictly requiring a verb denoting profound intellectual/cognitive absorption.",
+    "distractor_analysis": {
+      "immerse": "正确。immerse 在学术与认知语境中常构成“immerse oneself in sth”，表示“潜心专注于、彻底沉浸于（特定研究领域或文化语境）”。此处与“socio-historical milieu”及后文“探究古代诠释学奥义而非强加当代框架”构成无可替代的严密认知学术搭配。",
+      "fence": "错误。fence 作及物动词时意为“用栅栏围住；防卫”，若用“fence oneself in”则表示“画地为牢、自我限制”，这与学者深入探究历史语境的开放性认知态度截然相反，且 fence 不用于抽象学术语境下的背景融入。",
+      "encase": "错误。encase 严格指物理层面的“用外壳、箱盒紧密包裹”（如 encase sth in glass/concrete），与反身代词 oneself 及抽象的“socio-historical milieu”搭配存在严重的本体范畴越界与语义冲突。",
+      "enshrine": "错误。enshrine 意为“将……铭刻于、奉为神圣”（常接法律、原则、权利等抽象价值，如 enshrine rights in the constitution），其动作主体通常为法典或集体共识，学者无法将自身“enshrine in a milieu”来进行学术解读。"
+    },
+    "translation": "若要领会古代诠释学的幽微精义，学者必须彻底沉浸于当时的社会历史语境之中，而非过早地将当代理论框架强加于原始文本之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_12",
+    "group_id": 236,
+    "group_name": "immerse, fence, encase, enshrine",
+    "level": "TEM-8",
+    "target_word": "fence",
+    "question": "During the parliamentary inquiry, the embattled minister chose to ___ with the investigative committee regarding the undisclosed subsidies, artfully dodging substantive inquiries through rhetorical equivocations.",
+    "options": [
+      "immerse",
+      "fence",
+      "encase",
+      "enshrine"
+    ],
+    "answer": "fence",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic structure 'choose to ___ with the investigative committee' paired with 'artfully dodging substantive inquiries through rhetorical equivocations', which demands an intransitive verb meaning to parry or equivocate verbally.",
+    "distractor_analysis": {
+      "fence": "正确。fence 在认知交锋与高级话语语境中用作不及物动词，引申自击剑的格挡动作，意为“（在辩论或质问中）巧妙周旋、搪塞、回避实质问题”。固定搭配“fence with sb”与后文“artfully dodging substantive inquiries through rhetorical equivocations”（通过修辞含糊巧妙回避实质质询）构成唯一的逻辑与句法闭环。",
+      "immerse": "错误。语法与语义均不成立。immerse 为及物动词（常接 oneself 或宾语 + in），无法作不及物动词与介词 with 连用，且其语义（沉浸、浸润）与政治质询中的言语对抗/搪塞毫无关联。",
+      "encase": "错误。encase 是纯粹及物动词，意为“把……装入箱壳中”，句法上不能直接接“with the committee”，语义上也完全无法用于形容政客的话语防御策略。",
+      "enshrine": "错误。enshrine 为及物动词，意为“铭记；珍藏；把……载入法典”，其后必须接宾语（如 enshrine principles），绝不能接“with sb”作不及物动词使用，置于此处导致严重的句法破裂。"
+    },
+    "translation": "在议会质询期间，面对有关未披露补贴的调查，这位四面楚歌的部长选择与调查委员会巧妙周旋，凭借修辞上的含糊其辞巧妙避开了实质性质询。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_13",
+    "group_id": 237,
+    "group_name": "impair, mar, blemish, afflict",
+    "level": "TEM-8",
+    "target_word": "impair",
+    "question": "Neuroimaging studies reveal that chronic sleep deprivation can profoundly ___ prefrontal executive functioning, severely undermining an individual's capacity to evaluate risk and regulate emotional impulses under high-pressure scenarios.",
+    "options": [
+      "impair",
+      "mar",
+      "blemish",
+      "afflict"
+    ],
+    "answer": "impair",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object 'prefrontal executive functioning' paired with 'undermining an individual's capacity' strictly requires a verb denoting the functional diminution or physiological weakening of cognitive faculties.",
+    "distractor_analysis": {
+      "impair": "正确。该词专指生理机能、认知运作、感觉能力或效能的“减弱、受损、变差”（make worse or less effective），核心搭配对象正是 cognitive functioning, judgment, memory, hearing 等机能范畴。句中宾语为 prefrontal executive functioning（前额叶执行功能），语境严丝合缝。",
+      "mar": "错误。意为“损毁、破坏（整体的完好、美观或圆满体验）”，侧重破坏原本和谐或完美的局面（如破坏盛宴、损毁无暇表现），不能用来描述神经生理或认知功能的机能衰退。",
+      "blemish": "错误。意为“玷污、给……留下污点或瑕疵”，通常用于物体表面斑点，或转义用于道德名声、清白记录（如 blemish one's reputation/record），与认知机制与生理机能搭配不当。",
+      "afflict": "错误。及物动词意为“使受折磨、折磨”，其逻辑宾语必须是能感知痛苦的有生命个体、人群或社会实体（如 afflict patients, afflict humanity），无法接抽象的生理与认知功能（functioning）作宾语。"
+    },
+    "translation": "神经成像研究表明，长期的睡眠剥夺会严重损害前额叶的执行功能，从而极大地削弱个体在高压情境下评估风险和调控情绪冲动的能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_14",
+    "group_id": 237,
+    "group_name": "impair, mar, blemish, afflict",
+    "level": "TEM-8",
+    "target_word": "mar",
+    "question": "Although the scholar's cognitive model was celebrated for its conceptual rigor, several persistent anomalies threatened to ___ an otherwise flawless synthesis of perceptual data.",
+    "options": [
+      "impair",
+      "mar",
+      "blemish",
+      "afflict"
+    ],
+    "answer": "mar",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The high-register discursive pattern 'threatened to ___ an otherwise flawless [noun]' exclusively selects 'mar' to denote detracting from or spoiling the perfection, integrity, or finish of an intellectual work.",
+    "distractor_analysis": {
+      "mar": "正确。意为“破坏、损毁（整体的完美、和谐或品质）”，尤常与 an otherwise flawless/perfect... 构成高频学术修辞搭配，特指局部瑕疵破坏了整体结构的圆满无暇。句中宾语为 an otherwise flawless synthesis（原本毫无瑕疵的整合模型），mar 完美契合语境。",
+      "impair": "错误。意为“削弱、损害（功能、运转效能）”，支配客体必须具备动态运作能力或功能负荷（如损害视力、损伤判断力）。学术“理论综合/模型”（synthesis）属于静态智力建构，不可被“impair”。",
+      "blemish": "错误。虽含有“产生瑕疵”之意，但其语义核心源自物理斑点或道德污痕，主要支配具有名誉、清白属性的词汇（如 blemish a reputation/record），在学术语境中修饰理论整体的完美性被破坏时，缺乏 mar 固有的完形破坏语用色彩。",
+      "afflict": "错误。意为“折磨、使苦恼”，及物用法要求承受对象为受苦的主体或群体（如 afflicted by poverty/disease），不能用于指理论模型或数据整合成果受到负面影响。"
+    },
+    "translation": "尽管这位学者的认知模型因其概念严密性而备受赞誉，但若干持续存在的反常现象却有可能破坏这一原本毫无瑕疵的知觉数据综合成果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_15",
+    "group_id": 238,
+    "group_name": "impoverish, regress, inflame, devolve",
+    "level": "TEM-8",
+    "target_word": "impoverish",
+    "question": "Epistemologists warn that an over-reliance on reductive algorithmic metrics will inevitably ___ philosophical inquiry, stripping complex ethical deliberations of their nuanced contextual dimensions and moral depth.",
+    "options": [
+      "impoverish",
+      "regress",
+      "inflame",
+      "devolve"
+    ],
+    "answer": "impoverish",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The direct object 'philosophical inquiry' governed by the participial clause 'stripping complex ethical deliberations of their nuanced contextual dimensions and moral depth' requires a transitive verb denoting the depletion or exhaustion of cognitive and intellectual richness. 'Regress' is intransitive; 'inflame' means to agitate or incite passions; 'devolve' requires 'into' to express degeneration or denotes the delegation of authority.",
+    "distractor_analysis": {
+      "impoverish": "正确。及物动词，在此引申表示“使（思想、理解力、学术探讨等）贫瘠、枯竭，剥夺其活力与丰富性”。句中分词从句“stripping complex ethical deliberations of their nuanced contextual dimensions and moral depth”（剥离复杂伦理深思中微妙的语境维度与道德深度）构成了决定性的语义锚点，精准对应 impoverish 所表达的使智识探索“扁平化、贫乏化”的核心内涵。",
+      "regress": "错误。在现代标准英语中，regress 表达“倒退、退化”时为不及物动词（通常搭配介词 to 或 into），不可直接接及物宾语“philosophical inquiry”；其仅在统计学中具有罕见的及物用法（如 regress y on x），与本句的认知哲学语境完全不符。",
+      "inflame": "错误。及物动词，意为“激化、煽动（愤怒、激情或激烈争端）”，常见搭配为 inflame passions, inflame tensions 等情绪性词汇。句中宾语为“哲学探索”，且后文语境强调的是智识深度的流失而非激烈情绪的被激化，语义逻辑断裂。",
+      "devolve": "错误。devolve 作及物动词时意为“下放（权力、职责）给下级”，典型结构为 devolve power/responsibilities to sb；作不及物动词表示“堕落、退化”时，必须搭配介词 into（devolve into chaos）。此处既无法充当接直接宾语 philosophical inquiry 的谓语动词，在词义搭配上也完全不成立。"
+    },
+    "translation": "认识论学者警告称，过度依赖还原主义的算法指标必然会使哲学探索变得贫乏空洞，从而剥离复杂伦理深思中微妙的语境维度与道德深度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_16",
+    "group_id": 238,
+    "group_name": "impoverish, regress, inflame, devolve",
+    "level": "TEM-8",
+    "target_word": "regress",
+    "question": "Under protracted psychological duress, even seasoned decision-makers may unconsciously ___ to infantile cognitive heuristics, abandoning rational deliberation in favor of simplistic, emotionally comforting dogmas.",
+    "options": [
+      "impoverish",
+      "regress",
+      "inflame",
+      "devolve"
+    ],
+    "answer": "regress",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The prepositional frame '___ to infantile cognitive heuristics' combined with the psychological concept of reverting backward to an earlier, primitive developmental state mandates an intransitive verb of developmental retrogression. 'Impoverish' and 'inflame' are strictly transitive verbs; 'devolve' strictly selects 'into' when denoting degeneration and selects 'to/upon' only when duties or powers are transferred.",
+    "distractor_analysis": {
+      "regress": "正确。不及物动词，在认知心理学及精神分析学中表示“退行、倒退”，常指个体在压力下返回到较早的、更不成熟的行为模式或认知机制（搭配介词 to，如 regress to infantile heuristics 即退行至幼稚的认知捷径），完美契合“abandoning rational deliberation in favor of simplistic dogmas”的倒退性语境。",
+      "impoverish": "错误。impoverish 为纯及物动词，意为“使贫困、使贫乏”，其后必须直接接及物宾语（如 impoverish the mind），不能直接接由介词 to 引导的介词短语，存在不可调和的句法搭配缺陷。",
+      "inflame": "错误。inflame 为纯及物动词，意为“点燃、激发、煽动（情绪、炎症等）”，其后必须带宾语（如 inflame public anger），无法与介词 to 构成“倒退至某种认知模式”的不及物短语搭配。",
+      "devolve": "错误。devolve 表示“退化、堕落”时，其规范且唯一的介词搭配是 into（如 devolve into violence/anarchy）；若接介词 to 或 upon，主语通常必须是权利、财产或职责，表示“（权力或责任）下移或转移给某人”（power devolves to the committee）。决策者作为人称主语不能“devolve to heuristics”，语法与语用搭配均不成立。"
+    },
+    "translation": "在长期的心理高压之下，即便是经验老到的决策者也可能潜意识地退行至幼稚的认知捷径，放弃理性的深思熟虑，转而依附于简单化且能带来情感抚慰的教条。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_17",
+    "group_id": 239,
+    "group_name": "infringe, lapse, forge, impinge",
+    "level": "TEM-8",
+    "target_word": "infringe",
+    "question": "Although the tech conglomerate claimed its generative neural network was completely novel, industry regulators concluded that the system's uncredited training data did indeed ___ proprietary copyrights, triggering widespread demands for algorithmic accountability.",
+    "options": [
+      "infringe",
+      "lapse",
+      "forge",
+      "impinge"
+    ],
+    "answer": "infringe",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后直接接宾语 'proprietary copyrights'（专有版权），语境聚焦未经授权抓取数据构成对知识产权法规的违犯。语法上必须选用可作及物动词接法律权益的词，语义上表达法律层面的‘侵犯、触犯’。",
+    "distractor_analysis": {
+      "infringe": "正确。infringe 作及物动词时直接跟法律、契约、专利或版权作宾语（如 infringe a copyright/patent），意为“侵犯，侵害”，完美契合句中未经授权抓取训练数据侵犯专有版权的法律学术语境。",
+      "lapse": "错误。lapse 用作动词时为不及物动词，意为“（权利、契约等）失效、终止”或“陷入”，不能直接跟宾语 proprietary copyrights，存在明显的句法搭配错误。",
+      "forge": "错误。forge 虽然可作及物动词，但其含义为“伪造（签名、货币、证件等）”或“艰苦缔造（联盟、友谊等）”，不能与抽象的法定权益 copyrights 搭配表达“侵权”，属于词义与搭配范畴严重错配。",
+      "impinge": "错误。impinge 在表示“侵害、侵犯（权利或自由）”或“产生冲击影响”时，为不及物动词，必须与介词 on 或 upon 连用（即 impinge on/upon rights），不能直接带宾语，违反句法限制。"
+    },
+    "translation": "尽管这家科技巨头声称其生成式神经网络完全属于原创，但行业监管机构认定，该系统未经许可使用的训练数据确实侵犯了专有版权，从而引发了各界对算法问责的广泛呼吁。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_18",
+    "group_id": 239,
+    "group_name": "infringe, lapse, forge, impinge",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "Under sustained sensory overload and intellectual exhaustion, decision-makers are particularly prone to ___ into dogmatic thinking, relying uncritically on entrenched cognitive biases rather than evaluating novel empirical evidence.",
+    "options": [
+      "infringe",
+      "lapse",
+      "forge",
+      "impinge"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后紧跟介词短语 'into dogmatic thinking'（陷入教条思维），且前有 'prone to'（易于/倾向于发生消极演变）。语境强调因心智耗竭而不知不觉滑入劣质、消极的思维状态，构成 'lapse into' 的专属认知心理学高频搭配。",
+    "distractor_analysis": {
+      "lapse": "正确。lapse into 为固定学术与书面搭配，意为“（因疲劳、衰退或疏忽而）不知不觉陷入或退化为某种消极、低阶的状态”，与前文的感官超载、心智耗竭（intellectual exhaustion）形成无可挑剔的逻辑衔接。",
+      "infringe": "错误。infringe 表示侵权或侵犯时，若为及物动词则直接带宾语，若为不及物动词则与介词 on / upon 搭配，在现代英语中不可与 into 搭配（*infringe into 属语法硬伤）。",
+      "impinge": "错误。impinge 表示冲击、产生不良影响或侵占时，是不及物动词且必须搭配介词 on 或 upon（即 impinge on/upon），绝不能搭配 into（*impinge into 存在严重介词错配）。",
+      "forge": "错误。forge 作为不及物动词接 into 时仅用于物理位移（如 forge into the wilderness 艰难推进）；表示“塑造”时为及物动词（forge A into B）。此处语境指疲惫导致无意识地“滑向/陷入”教条思维，使用表示主动用力推进或锻造的 forge 在句法及语义逻辑上均不成立。"
+    },
+    "translation": "在持续的感官过载和心智耗竭之下，决策者极易陷入教条主义思维，盲目依赖根深蒂固的认知偏差，而无法客观测评全新的实证证据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_19",
+    "group_id": 240,
+    "group_name": "invalidate, void, clot, reinstate",
+    "level": "TEM-8",
+    "target_word": "invalidate",
+    "question": "Rigorous replication studies revealed that pervasive methodological flaws and selective sampling would inevitably ___ the researcher's theoretical deductions, rendering what had seemed a groundbreaking cognitive model thoroughly unsound.",
+    "options": [
+      "invalidate",
+      "void",
+      "clot",
+      "reinstate"
+    ],
+    "answer": "invalidate",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The object 'theoretical deductions' combined with the resultant participle clause 'rendering what had seemed a groundbreaking cognitive model thoroughly unsound' establishes an epistemological evaluation context; in academic cognitive science, flaws 'invalidate' (prove false or unsound) intellectual findings or theories.",
+    "distractor_analysis": {
+      "invalidate": "正确。在学术与认知科学（FIELD_COGNITION）语域中，invalidate 指通过揭示逻辑缺陷或方法论漏洞证明假说、推理或理论模型‘不能成立’或‘使之无效’，与 theoretical deductions 及 unsound 构成无可挑剔的语域与语义搭配。",
+      "void": "错误。void 作为动词主要用于法律、行政或商业程序语域，表示通过行使职权或触发违约条款‘废止、使合同/票据/凭据无效’（如 void a contract/warranty），不能与 theoretical deductions、hypotheses 等抽象认知推理概念搭配，存在严重的语域错配与搭配不当。",
+      "clot": "错误。clot 本义为‘凝结成块’或‘使（液体/交通等）堵塞’，属于生理学或物理机械范畴，在此处修饰学术推论属于范畴谬误（category mistake）。",
+      "reinstate": "错误。reinstate 意为‘恢复（原职、原状、效力）’，与后半句‘rendering... thoroughly unsound’（使之彻底站不住脚）构成直接的语义反向冲突。"
+    },
+    "translation": "严格的重复性研究表明，普遍存在的方法论缺陷和选择性抽样必然会使该研究人员的理论推导归于无效，从而使那个曾看似具有开创性的认知模型彻底站不住脚。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b23_20",
+    "group_id": 240,
+    "group_name": "invalidate, void, clot, reinstate",
+    "level": "TEM-8",
+    "target_word": "void",
+    "question": "While the revisionist monograph was praised for its rhetorical elegance, several prominent historians dismissed its central thesis as virtually ___ of archival documentation, relying almost exclusively on speculative conjecture.",
+    "options": [
+      "invalidate",
+      "void",
+      "clot",
+      "reinstate"
+    ],
+    "answer": "void",
+    "primary_mechanism": "MECH_PREP_SELECTION",
+    "field": "FIELD_HUMANITIES",
+    "anchor_clue": "The syntactic frame 'virtually ___ of archival documentation' strictly demands a formal predicative adjective governing the preposition 'of' to signify 'completely devoid or lacking'; among all options, only 'void' possesses this certified adjective function and subcategorization frame.",
+    "distractor_analysis": {
+      "void": "正确。此处考查 void 的高级书面语形容词用法及其固定介词搭配“void of sth.”，意为“完全缺乏、毫无……的”（相当于 devoid of / completely lacking in）。句中“virtually void of archival documentation”（几乎完全缺乏档案文献支持）与后文“relying almost exclusively on speculative conjecture”（几乎完全依赖推测性臆断）形成严密的逻辑对比与语篇呼应，完全契合学术书评的典雅语体风格。",
+      "invalidate": "错误。invalidate 是纯及物动词（transitive verb），意为“使无效、推翻”，后接直接宾语（如 invalidate a hypothesis）；它不具备形容词词性，绝不能跟在副词 virtually 之后充当补足语，更无法与介词 of 连用（英语中不存在 *invalidate of 结构）。若需表达形容词含义，应使用 invalid。",
+      "clot": "错误。clot 作动词表示“凝结、凝固”，作名词表示“凝块（如血栓）”。在学术批评语境下，置于“virtually ___ of archival documentation”不仅在句法上无法充当合格的形容词补足语，而且语义风马牛不相及，属典型脱靶选项。",
+      "reinstate": "错误。reinstate 为及物动词，意为“使……复职、恢复……的效力”，必须后接宾语（如 reinstate a policy），既无形容词用法，也无法与介词 of 连用（无 *reinstate of 搭配），在句法和词性上完全不成立。"
+    },
+    "translation": "尽管这部修正主义专著因其修辞上的优雅文笔而受到赞誉，但数位知名历史学家却斥责其核心论点几乎毫无档案文献依据，完全是建立在推测性臆断之上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

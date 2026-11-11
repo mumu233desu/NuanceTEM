@@ -60,13 +60,13 @@
     },
     {
       "group_id": 64,
-      "group_name": "evacuate, void, ooze, crap",
+      "group_name": "evacuate, void, ooze, purge",
       "target_word": "evacuate",
       "words": [
         "evacuate",
         "void",
         "ooze",
-        "crap"
+        "purge"
       ],
       "pos": "v",
       "field": "FIELD_COGNITION",

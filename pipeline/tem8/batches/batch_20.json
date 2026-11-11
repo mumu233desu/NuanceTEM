@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b20_01",
+    "group_id": 201,
+    "group_name": "buzz, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "buzz",
+    "question": "Whenever foundational paradigms in theoretical physics collapse, intellectual circles inevitably ___ with frantic conjecture, generating competing epistemic frameworks to explain anomalies that conventional mathematical models can no longer reconcile.",
+    "options": [
+      "buzz",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "buzz",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The discursive collocation 'intellectual circles inevitably ___ with frantic conjecture' specifically requires a verb expressing vibrant cognitive agitation and communicative ferment, syntactically subcategorizing for the preposition 'with'.",
+    "distractor_analysis": {
+      "buzz": "buzz 在本句中用作抽象隐喻不及物动词，指学术圈“（因兴奋、争议、猜想而）议论纷纷、活跃喧腾”（to be filled with vibrant activity or speculation），其固定句法搭配为 buzz with something（如 buzz with excitement/conjecture），完美契合范式瓦解后思想界激烈交锋的认知语境。",
+      "drone": "drone 意为“发出单调低沉的轰鸣”或“单调乏味地长篇大论”，常用搭配为 drone on about sth。其核心语义特征是“乏味、沉闷、缺乏能量”，在语义情感极性上与“frantic conjecture”（狂热亢奋的猜想）产生直接冲突，且在句法上不能与介词 with 搭配表示“充满思想活力”。",
+      "rap": "rap 作不及物动词指“急促叩击”（常接 on/at），作及物动词指“厉声说出”或“严加斥责”（常接 for），完全无法与介词短语 with frantic conjecture 形成合乎句法与修辞规范的搭配。",
+      "thud": "thud 指重物“重重落下并发出沉闷顿响”，为重质物理撞击拟声词，完全不具备指代群体认知活跃、学术猜想涌现的抽象引申义，搭配完全断裂。"
+    },
+    "translation": "每当理论物理学的基础范式发生瓦解，学术界便不可避免地因狂热的猜想而喧腾不休，纷纷构建相互竞争的认识论框架，以解释传统数学模型已无法调和的反常现象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_02",
+    "group_id": 201,
+    "group_name": "buzz, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "In its damning annual assessment, the parliamentary oversight panel did not hesitate to ___ regulatory agencies for their persistent failure to anticipate systemic vulnerabilities within algorithmic trading.",
+    "options": [
+      "buzz",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The formal transitive evaluative frame 'to ___ regulatory agencies for their persistent failure' demands a verb denoting severe official reprimand or critical censure that takes a direct institutional object followed by a causative 'for'-clause.",
+    "distractor_analysis": {
+      "rap": "rap 在高阶政经公文与权威媒体语境中常作为及物动词，表示“严厉批评、严厉斥责”（to criticize sharply; rebuke），其核心句法配价结构为 rap somebody/something for (doing) something。本句中监督机构因监管不力对行政部门进行严肃问责，词义与句法均严丝合缝。",
+      "buzz": "buzz 属于不及物动词（表示嗡嗡作响或活跃），在口语中作及物动词时仅表示“按蜂鸣器呼叫”或“飞机低空掠过”，既无“批评、指责”之义，亦无法接机构名词与 for 引导的受罚原因状语。",
+      "thud": "thud 为典型的不及物动词，表示“沉重地击打或砰然落下”，无法充当及物动词支配宾语 regulatory agencies，更不具备道义或法规问责的评价语义。",
+      "drone": "drone 为不及物动词，表示“单调低吟”或“唠唠叨叨”，不能直接支配名词短语作为其受事宾语，语法结构彻底失效。"
+    },
+    "translation": "在其措辞严厉的年度评估报告中，议会监督专门小组毫不犹豫地严厉斥责了各监管机构，指责其未能预见算法交易中潜藏的系统性脆弱性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_03",
+    "group_id": 202,
+    "group_name": "bypass, shun, shirk, fudge",
+    "level": "TEM-8",
+    "target_word": "bypass",
+    "question": "Seeking to accelerate biomedical innovation, the research consortium devised an alternative framework to ___ cumbersome institutional hierarchies, thereby delivering experimental therapies directly to critically ill patients without administrative delay.",
+    "options": [
+      "bypass",
+      "shun",
+      "shirk",
+      "fudge"
+    ],
+    "answer": "bypass",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "句中的核心结构为 'devised an alternative framework to ___ cumbersome institutional hierarchies, thereby delivering... directly... without administrative delay'。动词需表达‘通过建立替代渠道而绕过/跳过繁琐的制度层级’，在语义与搭配上具有严格排他性。",
+    "distractor_analysis": {
+      "bypass": "【正确】意为“（通过迂回或替代渠道）绕过、避开（规则、程序、中介机构或障碍）”，尤用于为了追求效率而绕开繁文缛节。此处与宾语 'cumbersome institutional hierarchies' 搭配精准，完美契合后文 'delivering therapies directly... without administrative delay' 的行政与程序绕行语境。",
+      "shun": "【错误】意为“（出于道德、社交偏好或戒律）刻意避开、躲避”，其典型搭配为名利、聚光灯、恶习或社会接触（如 shun publicity, shun worldly pleasures），不能用于指代通过设计新机制‘绕过体制层级’。",
+      "shirk": "【错误】意为“因偷懒或懦弱而推卸、逃避（法定或道德上的责任、任务或义务）”（如 shirk one's responsibilities/duties）。机构层级（institutional hierarchies）并非行为主体自身的应尽义务，搭配范畴严重违和，且带有负面偷懒道德贬义。",
+      "fudge": "【错误】意为“（对数据、问题、事实）含糊其辞、搪塞、篡改或敷衍了事”（如 fudge the figures, fudge the issue），与通过替代通道直接向病人交付疗法的程序性绕开机制毫无语义关联。"
+    },
+    "translation": "为了加速生物医学创新，该科研联盟设计了一套替代机制以绕过繁琐的机构层级，从而毫无行政延误地将实验性疗法直接提供给危重患者。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_04",
+    "group_id": 202,
+    "group_name": "bypass, shun, shirk, fudge",
+    "level": "TEM-8",
+    "target_word": "shun",
+    "question": "Despite achieving international renown for his groundbreaking proofs, the reclusive mathematician chose to ___ the relentless glare of publicity, conducting his research in near-monastic solitude.",
+    "options": [
+      "bypass",
+      "shun",
+      "shirk",
+      "fudge"
+    ],
+    "answer": "shun",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "语境锚点为 'the reclusive mathematician'（离群索居的数学家）以及 'the relentless glare of publicity'（公众舆论持续的聚焦关注）和 'in near-monastic solitude'（近乎苦修隐居的状态），决定了空格必须填入表示‘刻意远离、避开名利或社交关注’的及物动词。",
+    "distractor_analysis": {
+      "shun": "【正确】意为“（出于生活方式、原则或天性）刻意回避、远离”，常与公众关注、名利场或聚光灯构成固定高频搭配（如 shun publicity, shun the limelight, shun the media glare）。与句中 'reclusive' 和 'near-monastic solitude' 形成严丝合缝的语境呼应。",
+      "bypass": "【错误】侧重于物理上的迂回绕行，或程序、体制维度的越级绕开，不能用来表示学者主动隐遁、心理上抗拒并回避公众关注的行为。",
+      "shirk": "【错误】专指消极懈怠地“逃避、推诿（应负的责任、义务或苦役）”。聚光灯或公众知名度属于外界关注而非个人的法定义务或劳动任务，不可与 shirk 搭配。",
+      "fudge": "【错误】表示“含糊应付、蒙混过关、篡改（事实或账目）”，其施动对象通常为有待明确界定的争议、报告或数字，与回避公众视野的语境产生严重语义破裂。"
+    },
+    "translation": "尽管因开创性的数学证明赢得了国际声誉，这位孤僻的数学家却选择避开公众舆论的持续聚焦，在近乎苦行隐修般的孤独中继续着他的研究。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_05",
+    "group_id": 203,
+    "group_name": "cackle, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "cackle",
+    "question": "Rather than exhibiting statesmanship following the contentious summit, the foreign minister chose to ___ with malicious delight over his rivals' economic collapse, severely undermining subsequent multilateral diplomacy.",
+    "options": [
+      "cackle",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "cackle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "语境中的核心锚点为“with malicious delight over his rivals' economic collapse”，语法上需要一个能够与“with + 情感名词 + over”连用、表示“发出刺耳讥笑/幸灾乐祸地大笑”的不及物动词；语义上强烈呼应面对敌手倾覆时的恶毒狂喜与轻浮嘲弄。",
+    "distractor_analysis": {
+      "cackle": "正确。cackle 本义指母鸡产蛋后的咯咯叫声，引申为指人发出尖锐、刺耳的狂笑或讥嘲，常与 glee、delight 以及介词 over 搭配（cackle with delight over...），专指因对手遭遇横祸或失败而“幸灾乐祸地尖笑”，完全符合句中恶意外交姿态的语境与语法要求。",
+      "blurt": "错误。blurt 意为“脱口而出、不加思索地说出”，属于及物动词（通常后接宾语或与 out 搭配），表示言语表达的冲动性与无意泄密，既不能与“with malicious delight over...”构成不及物介词搭配，也全无幸灾乐祸或尖声讥笑的语义色彩。",
+      "whiff": "错误。whiff 主要表示“微风轻拂；轻嗅气味；（体育运动中）击球落空”，在此处无论是充当言语反应动词还是心理外化动词均不成立，属于彻底的词义破裂。",
+      "snivel": "错误。snivel 意为“抽鼻涕、抽泣、抽抽搭搭地抱怨或哭诉”，侧重表现出软弱自怜、哀怨或虚伪的情感极性，与句中“malicious delight（恶毒的狂喜/幸灾乐祸）”构成根本性的情感极性冲突。"
+    },
+    "translation": "在充满争议的峰会结束后，这位外交部长非但没有展现出大国政治家的风范，反而在对手经济崩溃之际幸灾乐祸地大肆讥笑，从而严重破坏了随后的多边外交进程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_06",
+    "group_id": 203,
+    "group_name": "cackle, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "When subjected to relentless cross-examination, flustered witnesses often lose their cognitive restraint and ___ out incriminating details before realizing the catastrophic legal implications of their unconsidered haste.",
+    "options": [
+      "cackle",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中“lose their cognitive restraint（丧失认知克制）”与“unconsidered haste（未经深思熟虑的仓促冲动）”直接锁定了言语行为的冲动失控性；结合固定搭配“___ out incriminating details（脱口泄露罪证细节）”，唯一在语法搭配与认知机制上完全吻合的动词是 blurt。",
+    "distractor_analysis": {
+      "blurt": "正确。blurt 意为“不假思索地脱口而出”，其核心义素为因激动、慌乱或缺乏心理防御而冲动泄密（utter abruptly and impulsively），blurt out 为固定动词短语，完美契合证人在严苛质询下因认知负荷过载而仓促招供的语境。",
+      "cackle": "错误。cackle out 极为生僻，意为“尖笑着吐露”，带有冷笑或嘲弄之意；而本句语境是证人心慌意乱（flustered）且面临灾难性法律后果，绝不可能是在得意尖笑中招供，情态与语义逻辑完全脱节。",
+      "whiff": "错误。whiff out 在俚语与棒球术语中意为“挥棒落空而出局”，属不及物短语，后绝不可接名词宾语“incriminating details”，存在致命的句法违规。",
+      "snivel": "错误。snivel 主要作不及物动词，意为“啜泣、抽抽搭搭地哀诉”，其核心特征是懦弱流泪与呜咽哀鸣，无法传达句中因“unconsidered haste（草率仓促）”而导致冲动失言的话语认知机制。"
+    },
+    "translation": "在面对步步紧逼的法庭交叉质询时，心慌意乱的证人往往会失去认知层面的自控力，在一时冲动之下脱口说出对自身不利的罪证细节，随后才意识到这种未经深思的仓促之举所带来的毁灭性法律后果。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_07",
+    "group_id": 204,
+    "group_name": "censure, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "censure",
+    "question": "Following an exhaustive inquiry into undisclosed corporate gifts, the parliamentary committee convened a special plenary session and voted overwhelmingly to ___ the former minister for serious ethical breaches.",
+    "options": [
+      "censure",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "censure",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中主语为官方权力机构（the parliamentary committee），动作形态为经由正式投票表决的程序性制裁（voted overwhelmingly to...），且搭配及物动词句型与介词短语（___ the former minister for serious ethical breaches）。在所给选项中，唯有 censure 具备“官方/机构正式问责与公开谴责”的法定语域含义与句法搭配。",
+    "distractor_analysis": {
+      "censure": "正确。censure 作及物动词，严格用于正式、官方或制度化语境（如议会、纪律委员会等法纪权威），指通过官方决议对某人进行“正式谴责、严厉申诫”，常用于 censure sb for sth 结构，与句中的 parliamentary committee、voted 及 for serious ethical breaches 形成严密的语域与句法契合。",
+      "snipe": "错误。snipe 表示“放暗枪；进行隐蔽、琐屑的冷嘲热讽”，在表达言语攻击时属于非及物动词，必须接介词 at（如 snipe at sb），在此处直接接宾语 the former minister 构成句法结构断裂；且其非正式、暗中使绊的语义色彩与议会公开决议的严肃法定语域严重冲突。",
+      "assail": "错误。assail 意为“猛烈攻击、痛击、肆意指责”，强调言语或物理层面猛烈直白的攻击与冲击（如 assail a policy / assailant），通常由政治对手、舆论或敌对群体发起，不具备议会或纪律委员会通过表决施行“制度性纪律处分/正式谴责”的法律与政治程序含义。",
+      "deplore": "错误。deplore 意为“对……深感遗憾、痛惜、强烈反对”，其语义核心在于表达主观上的痛惜与悲叹，且在现代英语中其典型宾语多为行为、局势或灾祸（如 deplore the violence / deplore the breach），极少直接以具体人员作为道德惩戒对象（即不构成 vote to deplore a minister for... 的处分动词搭配）。"
+    },
+    "translation": "在对未公开的企业礼品展开全面调查后，议会委员会召开了特别全体会议，并以压倒性多数投票决定对该前部长的严重违纪行为予以正式谴责。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_08",
+    "group_id": 204,
+    "group_name": "censure, snipe, assail, deplore",
+    "level": "TEM-8",
+    "target_word": "snipe",
+    "question": "Rather than offering constructive policy alternatives during the televised budget debate, disgruntled opposition deputies chose merely to ___ at the chancellor’s monetary proposals from the backbenches.",
+    "options": [
+      "censure",
+      "snipe",
+      "assail",
+      "deplore"
+    ],
+    "answer": "snipe",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配与行为语态：空格后紧跟介词 'at'（___ at the chancellor’s monetary proposals），且句中 'from the backbenches'（从后座席位）与 'rather than offering constructive policy alternatives'（而非提出建设性方案）明确勾勒出“偏安一隅进行琐碎非难、放冷箭”的语用情境。四个选项中仅 snipe 属于典型的不及物动词并与 at 形成固定搭配。",
+    "distractor_analysis": {
+      "snipe": "正确。snipe 在转义用于批判语境时为不及物动词，固定与介词 at 连用（snipe at sb/sth），意为“暗中放箭、在暗处或侧翼进行吹毛求疵的抨击”；与句中 from the backbenches（后座议员席）以及缺乏建设性方案的琐碎攻讦语境具有排他性的精准吻合。",
+      "censure": "错误。censure 是纯及物动词（transitive verb），其后必须直接加受谴责的对象（censure sth/sb），不能与介词 at 连用（不存在 *censure at 的句法结构），在此产生严重的及物性语法违背。",
+      "assail": "错误。assail 同样为纯及物动词，意为“猛烈抨击，攻击”，后须直接跟宾语（如 assail the proposals），后接介词短语 *assail at 属于严重句法错误；且 assail 强调正面、猛烈的压倒性攻势，与后半句偏安后座进行琐碎骚扰的语境不符。",
+      "deplore": "错误。deplore 为及物动词，意为“谴责、痛惜某事”（如 deplore the proposals），后绝不可跟介词 at（不存在 *deplore at 的用法），在句法上直接被排除。"
+    },
+    "translation": "在电视转播的预算辩论中，心怀不满的反对党议员并没有提出建设性的替代政策，而是仅仅选择坐在后座对财政大臣的货币政策提案冷嘲热讽。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_09",
+    "group_id": 205,
+    "group_name": "chime, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "chime",
+    "question": "Although the theorist’s speculative deductions appear superficially persuasive, they fail to ___ with recent neurobiological observations that document distinct neural pathways for affective and cognitive empathy.",
+    "options": [
+      "chime",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "chime",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic-semantic anchor is 'fail to ___ with [neurobiological observations]'. Only 'chime' forms the established academic idiom 'chime with', meaning to be in accord, harmony, or congruence with empirical findings.",
+    "distractor_analysis": {
+      "chime": "正确。chime with 为权威学术与思辨语境中的常用搭配，意为“与……相一致、相契合”（to be in agreement or harmony with），完美呼应理论推断与实证生物学数据之间的协调关系。",
+      "rap": "错误。rap 作动词主要意为“敲击”或及物动词“严厉批评”（rap sb. for sth.），不可与介词 with 搭配表示抽象认知上的“一致或吻合”，存在句法和语义双重排斥。",
+      "thud": "错误。thud 意为“砰的一声落下或重击”，为物理动作不及物动词（常与 against/on 连用），不具备“认知协调”的抽象隐喻义，与介词 with 搭配在句意上无法成立。",
+      "drone": "错误。drone 意为“发出嗡嗡声”或“低沉单调地喋喋不休”（常与 on/away 搭配），无法与 with 连用表示逻辑或事实上的“相符、契合”。"
+    },
+    "translation": "尽管这位理论家的推测性演绎在表面上颇具说服力，但它们未能与最近记录了情感同理心与认知同理心具有不同神经通路的神经生物学观察结果相吻合。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_10",
+    "group_id": 205,
+    "group_name": "chime, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "Independent regulatory committees routinely ___ private research institutions for concealing ambiguous cognitive assessment results, emphasizing that academic integrity demands absolute transparency in neuropsychological evaluations.",
+    "options": [
+      "chime",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the transitive syntactic frame '___ [direct object] for [gerund]'. Only 'rap' operates transitively in formal/journalistic discourse to mean 'criticize sharply or rebuke'.",
+    "distractor_analysis": {
+      "chime": "错误。chime 为不及物动词（表示钟声响起或 chime with 吻合、chime in 插话），不能直接接宾语 private research institutions 并与介词 for 构成“因……而斥责”的句式结构。",
+      "rap": "正确。rap 在高阶学术与权威媒体语境中具引申评价义，作及物动词意为“严厉斥责、非难、惩戒”（to criticize sharply; rebuke），其核心搭配为 rap somebody/an institution for doing something，完全符合监管机构问责学术违规的语境。",
+      "thud": "错误。thud 意为“沉重地撞击并发出闷响”，为不及物动词，既不能接机构名词作宾语，亦无“伦理批判或行政惩戒”的认知评价含义。",
+      "drone": "错误。drone 意为“发出低沉单调的嗡嗡声”或“单调无聊地漫谈”，属于不及物动词（通常搭配 on/about），语法上不可带直接宾语接 for 表原因。"
+    },
+    "translation": "独立监管委员会经常严厉斥责隐瞒模糊认知评估结果的私立研究机构，强调学术诚信要求在神经心理学评估中保持绝对的透明度。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_11",
+    "group_id": 206,
+    "group_name": "chirp, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "chirp",
+    "question": "Although macroprudential indicators signaled an impending liquidity crisis, corporate publicists continued to ___ blithely about quarterly consumer resilience, betraying an alarming cognitive detachment from fiscal reality.",
+    "options": [
+      "chirp",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "chirp",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "副词修饰语 'blithely'（轻快漫不经心地）与话题 'about quarterly consumer resilience'（乐观谈论季度消费韧性）构成了决定性语义锚点，要求动词引申表达‘轻快、欢快而盲目地高谈阔论’。",
+    "distractor_analysis": {
+      "chirp": "正确。原指鸟类欢快尖锐地鸣叫，在认知与言语交际领域常引申为‘轻快、欢快或不合时宜地盲目乐观发言’（speak or utter in a cheerful, brisk, or blithe manner）。与状语 'blithely' 以及后文的盲目乐观论调（'consumer resilience'）形成严密契合，精准表现出公关人员对危机的麻木盲目。",
+      "hoot": "错误。本义指猫头鹰叫或汽笛长鸣，引申指‘（发出嘲弄、蔑视的）叫嚣、狂笑’，常搭配介词 'at' 或结构 'hoot down'（如 hoot at absurdity），其强烈的否定与讥讽色彩与修饰语 'blithely'（轻松欢快地）产生严重的语义冲突。",
+      "squall": "错误。本义指突发狂风，引申指婴儿或动物‘尖叫、嚎哭’或指‘粗暴发怒地哭喊’（cry out loudly and harshly），感情色彩为痛苦、狂躁或极度不满，无法与表达欢快轻松的 'blithely' 搭配，且不用于常规商业乐观宣传语境。",
+      "gobble": "错误。作不及物动词时指火鸡发出咯咯声，或指急促含混地说话；作及物动词时指‘狼吞虎咽’（常与 up 搭配）。它无法与 'blithely about...' 构成表达‘欢快发表言论’的固定习惯搭配，语义逻辑完全断裂。"
+    },
+    "translation": "尽管宏观审慎指标已预示流动性危机即将来临，但企业公关人员仍旧轻松欢快地高谈阔论季度消费韧性，暴露了其对财政现实令人担忧的认知脱节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_12",
+    "group_id": 206,
+    "group_name": "chirp, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "Skeptical delegates at the symposium did not merely question the minister's radical monetary scheme; several senior economists proceeded to ___ openly at the sheer absurdity of his baseline assumptions.",
+    "options": [
+      "chirp",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句式结构 '___ openly at the sheer absurdity of...'（公开发出嘲弄/嗤笑）构成了句法与语义的双重锚点，要求动词具备‘因荒谬而发出嘲笑、喝倒彩’（express derision or scornful laughter）的专有转义搭配。",
+    "distractor_analysis": {
+      "hoot": "正确。在学术研讨及公共舆论场域中，'hoot at' 是高度专用的熟语搭配，表示‘（因觉得荒谬可笑而）公开发出嘲弄、哄笑或嗤之以鼻’（to laugh loudly or shout derisively at someone or something）。在此处与 'at the sheer absurdity' 达成严丝合缝的句法语义共振。",
+      "chirp": "错误。其转义为‘欢快而言’或‘叽叽喳喳’，语义倾向为积极轻快或盲目乐观，绝对无法与介词短语 'at the sheer absurdity' 连用表示严肃学术场合下的‘讥弄、嘲弄’。",
+      "squall": "错误。指‘婴儿般尖叫嚎啕’或‘狂风呼啸’，多描述受惊、受折磨或无理取闹时的刺耳叫嚷，既不具备 'squall at sth' 表达理性或嘲讽性‘哄笑/嗤之以鼻’的认知转义，亦严重违背高级学术语篇的庄重文体风格。",
+      "gobble": "错误。常指火鸡咯咯叫或贪婪吞食（gobble up），不能与 'at the sheer absurdity' 形成表示‘嘲笑、喝倒彩’的搭配关系，在句法与语境上均无法成立。"
+    },
+    "translation": "研讨会上持怀疑态度的代表们不仅质疑该部长的激进货币方案；数位资深经济学家甚至当场针对其基准假设的荒谬绝伦公开放声嗤笑。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_13",
+    "group_id": 207,
+    "group_name": "chuck, waive, forego, forfeit",
+    "level": "TEM-8",
+    "target_word": "chuck",
+    "question": "Exasperated by the editorial board's persistent demands for ideological conformity, the essayist abruptly decided to ___ his revised manuscript into the wastebasket, adamantly refusing to soften his critiques for political expedience.",
+    "options": [
+      "chuck",
+      "waive",
+      "forego",
+      "forfeit"
+    ],
+    "answer": "chuck",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_LITERATURE_CRITIQUE",
+    "anchor_clue": "into the wastebasket (介词短语引导的方向性物理抛掷容器，与具体物理文稿 his revised manuscript 及副词 abruptly 形成排他性句法与语义闭环)",
+    "distractor_analysis": {
+      "chuck": "正确。Merriam-Webster 将其核心释义明确界定为“to toss or throw with a quick motion, easily, or with little aim”，并收录了经典例证“chucked the letter into the wastebasket”。句中主语为被激怒的散文家（essayist），宾语为具体实物文稿（his revised manuscript），后接明确指示抛弃方向与物理容器的介词短语“into the wastebasket”。chuck 精准契合“随手抛掷、愤然弃掷”的动作特征与介词短语搭配，在文学评论与高阶叙事散文中极具表现力且完全符合规范标准用法。",
+      "waive": "错误。waive 专用于法律、规章与权利语境，意为“自愿放弃（法定权利、索赔、费用或程序豁免）”（to refrain from pressing or enforcing a claim or right）。其宾语必须是权利或规章制度等抽象概念（如 waive a fee/claim/immunity），既不能支配具体物理文稿（manuscript），在句法上也根本无法与表示物理位移的介词短语“into the wastebasket”连用。",
+      "forego": "错误。forego（亦作 forgo）意为“自制、克制不享受或放弃（预期的利益、愉悦、良机等）”（to do without; abstain from the enjoyment of something prospective）。其宾语通常为预期可享受但选择放弃的抽象事物（如 forego a pleasure/opportunity），不能指扔掉已写就的纸质文稿，且其后不可接“into the wastebasket”这一具有空间位移特性的介词短语，存在不可调和的句法断裂。",
+      "forfeit": "错误。forfeit 专指因过失、违约或犯罪而“（作为惩罚）丧失、被没收（财产、权利、资格等）”（to lose or lose the right to as a penalty for an error or offense）。句中文稿作者系出于捍卫自身独立立场的自主决断，绝非遭受惩戒性被动剥夺；且作为及物动词，forfeit 绝不能与方向介词短语“into the wastebasket”搭配。"
+    },
+    "translation": "因对编辑部要求其在思想上保持一致的执拗要求感到愤慨，这位散文作家断然决定将修改后的文稿一把扔进废纸篓，誓死拒绝为政治私利而弱化自己的批判锋芒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_14",
+    "group_id": 207,
+    "group_name": "chuck, waive, forego, forfeit",
+    "level": "TEM-8",
+    "target_word": "waive",
+    "question": "The institutional review board agreed to ___ the formal requirement of informed consent for the cognitive trial, recognizing that prior disclosure would inevitably contaminate the subjects' spontaneous behavioral responses.",
+    "options": [
+      "chuck",
+      "waive",
+      "forego",
+      "forfeit"
+    ],
+    "answer": "waive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "the formal requirement of informed consent (指向监管机构对正规规章、程序性要求或法定权利的官方豁免与放弃)",
+    "distractor_analysis": {
+      "waive": "正确。Merriam-Webster释义为“to refrain from insisting on or using (a right, claim, or requirement)”。在科研伦理审查与学术治理中，“waive a requirement / waive informed consent”（免除要求/豁免知情同意）属于高度固定的官方学术搭配，完美契合伦理审查委员会（IRB）依据特例豁免法定规章的语境。",
+      "chuck": "错误。chuck带有非正式色彩，意为随便扔掉或抛弃（to discard casually），其语体风格与机构审查委员会严谨的学术伦理决议语境发生严重冲突。",
+      "forego": "错误。forego强调行为主体自身“克制、放弃享受某种利益或待遇”（to abstain from enjoying）。伦理审查委员会作为规章执行与监管主体，是对受试实验流程给予“豁免批准”，而非委员会自身“放弃享用某种利益”，在施事角色与语义指向上均不成立。",
+      "forfeit": "错误。forfeit强调因违法、违规或过错而被动“丧失资格或权益”（to lose as a punitive consequence）。句中免除知情同意是出于保证实验科学性的理性裁量与制度豁免，绝非任何一方因违规过错而受到的惩罚性剥夺。"
+    },
+    "translation": "机构伦理审查委员会同意免除该认知实验关于知情同意的硬性要求，因为他们认识到事先告知将不可避免地干扰受试者自发的行为反应。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_15",
+    "group_id": 208,
+    "group_name": "collude, conspire, affiliate, condescend",
+    "level": "TEM-8",
+    "target_word": "collude",
+    "question": "Because antitrust statutes require proof of explicit agreement, the appellate judge ruled that using algorithmic pricing to tacitly ___ on profit margins did not constitute an actionable conspiracy under federal law.",
+    "options": [
+      "collude",
+      "conspire",
+      "affiliate",
+      "condescend"
+    ],
+    "answer": "collude",
+    "primary_mechanism": "MECH_DISCOURSE_LOGIC",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中由“proof of explicit agreement”（明示协议证据）、“algorithmic pricing”（算法定价）以及后半句的核心裁判结论“did not constitute an actionable conspiracy under federal law”（不构成联邦法律下可诉的共谋）构建了高度严密的法经济学与反垄断法语境。\n【决定性排他锚点】：\n1. 篇章逻辑排他：反垄断法（如《谢尔曼法》第1条经典判例）严格区分了“经济学上的默示合谋（tacit collusion / conscious parallelism）”与“法律上的违法共谋（actionable conspiracy）”。由于裁决结论明确认定该行为“不构成共谋（did not constitute a conspiracy）”，若填入 conspire，将产生“以算法默契共谋（tacitly conspire）……却不构成共谋（conspiracy）”的根本性语义荒谬与自我反叛（Logical Contradiction）；唯有 collude 准确表达无正式协议但客观协同的“默示合谋（tacitly collude）”，完美支撑司法逻辑的反差。\n2. 搭配排他：在产业组织与规制语境中，“collude on prices/profit margins”是固定的术语级动介搭配，而 conspire, affiliate, condescend 均无法在此语义下与“on profit margins”搭配。",
+    "distractor_analysis": {
+      "collude": "正确。collude 在反垄断经济学中与副词 tacitly 构成核心术语搭配（tacitly collude，默示合谋/默契串通），指寡头垄断者无需明文协议、仅借由算法监控等默契手段协同获利；后接介词 on 标定合谋维度（collude on profit margins）。该词精准呼应了反垄断法中“虽然存在经济合谋（tacit collusion），但因缺乏意思联络而不构成法定共谋（actionable conspiracy）”的经典法理逻辑。",
+      "conspire": "错误。句末裁定已白纸黑字写明该算法定价“did not constitute an actionable conspiracy”（不构成可诉的共谋）。若填入 conspire，句子将沦为“tacitly conspire... did not constitute an actionable conspiracy”（默契共谋不构成共谋）的逻辑自相矛盾与语义同义反复；此外，conspire 极少与“on + 经济指标”直接连用，搭配亦显生硬断裂。",
+      "affiliate": "错误。affiliate 意为“使隶属；接纳……为分支机构”，通常作及物动词或与介词 with 连用（affiliate with），表达合法公开的机构从属或联盟关系，既无法与介词 on 形成有效句法连接（affiliate on profit margins 属严重搭配残缺），也彻底偏离了反垄断中企业操纵利润率的非法协同语境。",
+      "condescend": "错误。condescend 意为“屈尊，居高临下”，常规构式为后接不定式（condescend to do sth）或介词 to，用于描述个体态度傲慢或纡尊降贵，既无法描述企业间的市场行为，也无法与介词 on 搭配，在句法与语义上双重失效。"
+    },
+    "translation": "因为反垄断法规要求必须提供存在明示协议的证据，上诉法院法官裁定，利用算法定价在利润率上达成默示合谋的行为并不构成联邦法律所认定的可诉共谋。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_16",
+    "group_id": 208,
+    "group_name": "collude, conspire, affiliate, condescend",
+    "level": "TEM-8",
+    "target_word": "conspire",
+    "question": "Unprecedented seasonal droughts, severe labor deficits, and escalating freight rates have all seemed to ___ against the government's ambitious infrastructural initiative, stalling vital regional development projects.",
+    "options": [
+      "collude",
+      "conspire",
+      "affiliate",
+      "condescend"
+    ],
+    "answer": "conspire",
+    "primary_mechanism": "MECH_REGISTER",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句子的主语是由 'droughts'（干旱）、'labor deficits'（劳动力短缺）和 'freight rates'（运费上涨）组成的非人格化、客观抽象的不利条件与自然/经济因素。在英语高级书面语体中，唯有 conspire 拥有独特的拟人化比喻义：“（诸种客观不利因素、事件等）协同起作用，共同促成（坏的结果）”（to act in harmony toward a common deleterious end），且其后紧跟介词短语 'against sth'（conspire against...，合力阻碍/破坏……）。其余三项均严格受限于具有意志的生物或组织主体，语法与语义上均不可用于非人称客观事物。",
+    "distractor_analysis": {
+      "conspire": "正确。conspire 在高级学术和政经评论语体中具备一种特有的隐喻性及物/不及物用法，主语常为 circumstances、events 或不利客观因素，固定搭配 'conspire against sb/sth'（诸事不顺，各种不利因素合力挫败某事），与本句的抽象并列主语和介词 against 完美契合。",
+      "collude": "错误。collude（串通，合谋）严格限定于具有主观故意和欺骗动机的理性行为体（如个人、企业集团或官员），无法与无生命的自然灾害和经济指标（droughts, freight rates）构成主谓搭配，且英语中无 'collude against' 这一搭配模式。",
+      "affiliate": "错误。affiliate 意为“使并入；发生联系”，主语必须为机构、组织或其成员，不能用于客观灾害与经济困难，且其搭配介词通常为 with，接 against 属于严重句法违规。",
+      "condescend": "错误。condescend 意为“屈尊，放下架子”（常见搭配为 condescend to do sth 或 condescend to sb），仅能用于描写具有社会地位差距的人类心理态度，绝不能以无生命的抽象概念作主语，且无法与 against 搭配。"
+    },
+    "translation": "空前的季节性干旱、严重的劳动力短缺以及不断攀升的货运费率，似乎都在共同作祟阻碍政府雄心勃勃的基础设施建设计划，致使关键的区域开发项目陷入停滞。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_17",
+    "group_id": 209,
+    "group_name": "con, diddle, defraud, victimize",
+    "level": "TEM-8",
+    "target_word": "con",
+    "question": "Armed with forged credentials and fabricated aristocratic ties, the audacious imposter managed to ___ his way into European diplomatic salons, gathering sensitive intelligence while eluding counterespionage scrutiny for years.",
+    "options": [
+      "con",
+      "diddle",
+      "defraud",
+      "victimize"
+    ],
+    "answer": "con",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_SOCIETY",
+    "anchor_clue": "空后的核心结构“his way into [salons]”构成了英语中典型的“way-构式”（the way-construction: verb + one's way + Path-PP）。在此构式中，动词必须能够充当表达手段或方式的使役移动谓词。四个选项中，仅有 con 具备成熟且地道的构式搭配“con one's way into...”（靠招摇撞骗、巧言伪饰混入/打入某圈子），其余三个动词在句法上均无法支配 way-构式，代入后均构成严重的语法搭配错误。",
+    "distractor_analysis": {
+      "con": "正确。con 在现代英语（尤其是高质量叙事与深度新闻报道中）常与 way-构式固化搭配，形成“con one's way into/through...”，意为“凭借行骗手段或假身份混入某处”。句中描述冒充者凭借伪造证件和虚构贵族背景混入欧洲外交沙龙，无论在句法构式还是情境语义上均为唯一正确选择。",
+      "diddle": "错误。diddle 属于口语/俚语，主要指小规模的弄虚作假、欺哄或浪费时间（如 diddle someone out of money / diddle with controls），其及物性框架极度受限，根本无法进入“verb + one's way into”这一结果路径构式，代入后出现致命的句法破裂（*diddle his way into）。",
+      "defraud": "错误。defraud 是纯粹的法律与财产权语域动词，其严格的次范畴化题元框架为三价或二价的“defraud someone (of something)”（诈取某人的财产或权利）。defraud 无法表征致使位移的手段，在英语句法中完全不可支配 way-构式（*defraud one's way into 属于严重非句法形式），故断然排除。",
+      "victimize": "错误。victimize 意为“使受害、迫害、欺凌”，为典型的受事支配动词（如 victimize innocent citizens），动作直接作用于外部受害者，绝对不能后接反身代词加 way 构成位移路径补足语（*victimize one's way into 语义与句法皆不通）。"
+    },
+    "translation": "凭借伪造的证件和虚构的贵族血统，这位胆大包天的冒名顶替者设法混入了欧洲外交沙龙，在逃避反间谍严密监视长达数年的同时搜集了大量敏感机密。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_18",
+    "group_id": 209,
+    "group_name": "con, diddle, defraud, victimize",
+    "level": "TEM-8",
+    "target_word": "diddle",
+    "question": "Although the comptroller insisted that the discrepancies were inadvertent clerical errors, an independent audit revealed that department heads had deliberately attempted to ___ the expenditure figures to conceal budget shortfalls.",
+    "options": [
+      "con",
+      "diddle",
+      "defraud",
+      "victimize"
+    ],
+    "answer": "diddle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空缺处的直接宾语是“the expenditure figures”（开支数据/账目）。在权威词典（如韦氏词典）及政经深度报道（如《经济学人》）的用法中，diddle 拥有专有义项“to manipulate dishonestly : FUDGE”（篡改、在账目数据上做手脚），可直接接 figures, accounts 或 books。而 con、defraud 与 victimize 在语义选择限制上均要求宾语为受欺诈或受害的人/组织机构，绝不能支配“数据”这一无生命名词。",
+    "distractor_analysis": {
+      "diddle": "正确。diddle 除了指口语化的欺骗外，在财经与政经语域中极为精准地指“暗中虚报、篡改数据、做假账”（to manipulate dishonestly; fudge），经典动宾搭配即为“diddle the figures / diddle the books”。本句用于部门主管篡改开支数字以掩盖亏空，动宾搭配与上下文逻辑完全吻合。",
+      "con": "错误。con 的选择限制极其严格，及物宾语必须是具备感知与信任能力的受骗对象（即人或法人实体，如 con investors/the public），绝不能与“the expenditure figures”形成动宾搭配，属于严重的语义范畴冲突。",
+      "defraud": "错误。defraud 意为“欺诈、诈取”，其及物宾语必须是被剥夺权益的受害主体（如 defraud the company/the revenue），或接 of 引导的受损财物（defraud investors of their savings）；人绝不可能去“欺诈数据”（defraud figures），属于语法与搭配谬误。",
+      "victimize": "错误。victimize 指使弱势对象沦为受害者或遭不公对待，其及物宾语严格限定为有生命的目标群体或个人（如 victimize employees），无法作用于抽象的统计数据，构成范畴分类错误。"
+    },
+    "translation": "尽管审计主管坚称那些账目出入纯属无心之笔误，但独立审计显示，部门主管曾蓄意企图篡改开支数据以掩盖预算亏空。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_19",
+    "group_id": 210,
+    "group_name": "consign, waive, chuck, forego",
+    "level": "TEM-8",
+    "target_word": "consign",
+    "question": "Rigid adherence to orthodox monetarism threatens to ___ the emerging industrial sector to perpetual obsolescence, as policymakers persistently refuse to finance green infrastructure upgrades.",
+    "options": [
+      "consign",
+      "waive",
+      "chuck",
+      "forego"
+    ],
+    "answer": "consign",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "介词搭配 '___ [NP] to perpetual obsolescence'（将……打入/交付至某种不幸的万劫不复之境地）。只有 consign 与介词 to 构成固定搭配，表达不可逆转地把人或事物置于不良处境。",
+    "distractor_analysis": {
+      "consign": "正确。consign 常与介词 to 连用（consign sb./sth. to sth.），意为“把……置于，使陷入（通常为恶劣、不可挽回的境地，如遗忘、毁灭或淘汰）”。在此处与 'to perpetual obsolescence'（陷入永久淘汰的深渊）构成精确学术搭配与语意闭环。",
+      "waive": "错误。waive 意为“自愿放弃（权利、要求、规则、费用等）”，为及物动词且直接接抽象权利或规定作宾语（如 waive a right/fee），不能与 'NP + to + 终态名词' 搭配，语意与句法结构均不符。",
+      "chuck": "错误。chuck 意为“随意扔掉、抛弃”，属于高度口语化/俚语色彩（informal register）词汇，既与 TEM-8 高端学术政经语境产生严重语域冲突（register clash），也无法与正式的抽象结果补足语 'to perpetual obsolescence' 搭配。",
+      "forego": "错误。forego（或写作 forgo）意为“放弃，克制不做（尤指令人愉悦或有益的事物）”，宾语通常为某种便利、享乐或优先权（如 forego a pleasure/opportunity），不能支配受损对象并接介词 to 引出不利命运。"
+    },
+    "translation": "对正统货币主义的固守恐将使这一新兴工业部门陷入永久淘汰的境地，因为决策者始终拒绝为绿色基础设施升级提供资金。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b20_20",
+    "group_id": 210,
+    "group_name": "consign, waive, chuck, forego",
+    "level": "TEM-8",
+    "target_word": "waive",
+    "question": "To finalize the debt restructuring agreement, the finance ministry formally agreed to ___ sovereign immunity from overseas judicial enforcement, thereby exposing state-owned commercial assets to potential creditor claims.",
+    "options": [
+      "consign",
+      "waive",
+      "chuck",
+      "forego"
+    ],
+    "answer": "waive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "国际主权债务与公法专属法律搭配 '___ sovereign immunity from overseas judicial enforcement'（放弃免受境外司法执行的主权豁免权）。在法律与主权外交契约语境中，正式、具有法律效力地主动放弃法定豁免权或特权，必须使用专属动词 waive。",
+    "distractor_analysis": {
+      "waive": "正确。waive 专指以正式、具备法律约束力的方式自愿放弃（法定特权、诉权、豁免权或程序性要求），'waive sovereign immunity from...' 是主权融资与国际诉讼领域绝对权威的固定法学搭配。",
+      "consign": "错误。consign 意为“交付、托管”或“将……打入/贬置于（某种不良境地）”，句式上须后接介词 to（如 consign sth to oblivion），语义和句法均无法用于法律层面的“自愿放弃豁免权”。",
+      "chuck": "错误。chuck 属非正式口语/俚语，表示“漫不经心地随手抛弃实物”或“轻率辞去职务”，用于主权债务重组这一庄严的国际金融公法语境存在严重的语域（register）冲突。",
+      "forego": "错误。forego 指出于实际权衡或节制而“放弃享受某种舒适、利益或便利”（如 forego a salary increase），强调个人层面的克制与隐忍，不具备正式公法上的程序效力，不能用于豁免权或法定特权的放弃。"
+    },
+    "translation": "为敲定债务重组协议，财政部正式同意放弃免受境外司法执行的主权豁免权，从而使国有商业资产面临潜在的债权人索赔。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

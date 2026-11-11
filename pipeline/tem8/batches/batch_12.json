@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b12_01",
+    "group_id": 121,
+    "group_name": "negate, dampen, enfeeble, debilitate",
+    "level": "TEM-8",
+    "target_word": "negate",
+    "question": "Longitudinal clinical trials demonstrated that chronic sleep fragmentation can effectively ___ the cognitive advantages conferred by intensive mnemonic training, rendering the subjects' post-intervention recall performance functionally indistinguishable from their initial baseline.",
+    "options": [
+      "negate",
+      "dampen",
+      "enfeeble",
+      "debilitate"
+    ],
+    "answer": "negate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation with 'the cognitive advantages' coupled with the subsequent resultative clause 'rendering the subjects' post-intervention recall performance functionally indistinguishable from their initial baseline', which establishes an absolute nullification of accrued gains rather than partial attenuation or physical debilitation.",
+    "distractor_analysis": {
+      "negate": "正确。negate在此严格对应韦氏词典核心释义“to cause to be ineffective or invalid; to nullify the effect of something”（抵消、使无效），常用于认知科学及实证学术语境，与advantages、benefits、gains高度凝固搭配。后文伴随结果状语“rendering the subjects' post-intervention recall performance functionally indistinguishable from their initial baseline”（使受试者干预后的成绩与初始基线无异）构成了决定性的语义闭环，明确指记忆训练带来的增量优势被彻底“归零抵消”，唯有negate能承载这种完全抵消的对冲逻辑。",
+      "dampen": "错误。dampen意为“抑制、减弱、降低（热情、需求或反应强度）”（如dampen enthusiasm/demand/expectations），指在烈度或振幅上的局部衰减，而非将增加的优势彻底抵消至基线，与后文“indistinguishable from baseline”（归零至基线）所体现的彻底对冲逻辑产生冲突。",
+      "enfeeble": "错误。enfeeble意为“使衰弱、使孱弱”，其动词选择限制（selectional restrictions）要求宾语必须是具备生命活力、物理力量或组织威权的实体（如enfeeble the body/resolve/empire/argument），不可与抽象的定量增益词“advantages”构成及物搭配（英语中无*enfeeble advantages之用法）。",
+      "debilitate": "错误。debilitate意为“使虚弱、严重损害（系统或机体）”，常用于疾病损害生理机能或危机破坏宏观经济（如a debilitating disease/condition, debilitate the economy），其支配对象通常是有机体或功能性网络系统，严禁用于修饰或削减抽象的获益概念（*debilitate advantages属于范畴性搭配错误）。"
+    },
+    "translation": "纵向临床试验表明，长期的睡眠破碎化能有效抵消强化记忆训练所带来的认知优势，使得受试者在干预后的回忆成绩在功能上与其初始基线别无二致。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_02",
+    "group_id": 121,
+    "group_name": "negate, dampen, enfeeble, debilitate",
+    "level": "TEM-8",
+    "target_word": "dampen",
+    "question": "The cognitive psychologist warned that introducing punitive grading metrics would inevitably ___ students' innate curiosity and intrinsic motivation, subduing the exploratory instincts essential for creative problem-solving.",
+    "options": [
+      "negate",
+      "dampen",
+      "enfeeble",
+      "debilitate"
+    ],
+    "answer": "dampen",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Fixed psychological collocation with 'innate curiosity and intrinsic motivation', reinforced by the parallel non-finite participle 'subduing the exploratory instincts'.",
+    "distractor_analysis": {
+      "dampen": "正确。dampen在认知心理学与教育学语境中与curiosity、motivation、enthusiasm构成经典习惯搭配，意为'抑制、挫伤、遏抑（心理情感或动机状态）'，与后文分词短语'subduing the exploratory instincts'（压抑探索本能）形成完美的语义平行动力。",
+      "negate": "错误。negate侧重于逻辑上的'否定、取消、使无效'（如negate a premise/benefit/result），其支配对象必须具有真值、功效或定量属性，不可用于支配curiosity或motivation等心理趋力或情感状态。",
+      "enfeeble": "错误。enfeeble意为'使体弱、使衰微'，搭配对象多为机体活力、权力、宪政或论辩逻辑力量，与'innate curiosity'（天生好奇心）缺乏动宾共现容忍度，属于典型的搭配不当。",
+      "debilitate": "错误。debilitate表示'使极度虚弱、丧失活动能力'，通常作用于人体骨骼肌肉、神经系统或宏观社会基础设施，不能用于描述对心理状态、好奇心或内在动机的挫伤抑制。"
+    },
+    "translation": "这位认知心理学家警告称，引入惩罚性评分指标将不可避免地挫伤学生的天生好奇心与内在动机，从而压制创造性解决问题所必需的探索本能。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_03",
+    "group_id": 122,
+    "group_name": "nestle, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "nestle",
+    "question": "The nascent theory of embodied cognition does not entirely displace Cartesian dualism; rather, it manages to ___ comfortably within the established philosophical framework, mitigating methodological tensions across disciplines.",
+    "options": [
+      "nestle",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "nestle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法上需要不及物动词与副词 comfortably 及介词短语 within the established philosophical framework 形成连贯搭配；语义上特指“安稳、舒适地置身于/融入某种既定架构”，四个选项中仅 nestle 符合此隐喻性空间/认知分布搭配。",
+    "distractor_analysis": {
+      "nestle": "正确。nestle 常用作不及物动词，引申为“安卧、舒适地处于（某种保护性或支持性的环境/架构）之中”，与 comfortably within... 构成地道高阶搭配，生动表现具身认知理论虽具创新性，却能安然依托、契合于传统哲学基底之内。",
+      "ladle": "排除。ladle 为及物动词，原义为“用勺盛”，引申为“大量给予、分发”，通常后接具体宾语或构成 ladle out 结构，无法充当不及物动词与 comfortably within 搭配，句法与语义均不成立。",
+      "siphon": "排除。siphon 作为及物动词意为“用虹吸管吸出”或比喻为“暗中抽调、转移（资源或资金）”，通常与 off 或 from 连用且必须带宾语，置于此处导致句法残缺且与“理论融入框架”的文意背道而驰。",
+      "stratify": "排除。stratify 意为“使分层、形成阶层”，主要用于地质学或社会学分层分析（如社会阶级或岩层），既不能表达思想学说“安居于架构内”的从属融合状态，也无法与 comfortably within 生成合理语义。"
+    },
+    "translation": "具身认知的新兴理论并未完全取代笛卡尔身心二元论；相反，它得以舒适地嵌合在既有的哲学框架之内，缓解了跨学科的方法论紧张关系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_04",
+    "group_id": 122,
+    "group_name": "nestle, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Throughout the academic symposium, senior delegates continued to ___ out effusive praise for the unverified theoretical model, disregarding the glaring empirical contradictions identified by younger researchers.",
+    "options": [
+      "nestle",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心决定性锚点为动副固定搭配“___ out effusive praise for...”，要求动词能与副词 out 组合，引申表示“不加节制地大量给予/滥发（赞美、批评等无形之物）”，唯有 ladle out 构成此专用习语。",
+    "distractor_analysis": {
+      "ladle": "正确。ladle out 为高级英语中常见的隐喻搭配，意为“大量给予、滥加（赞美、款待、劝告等）”（to dole out lavishly or indiscreetly），与宾语 effusive praise（溢美之词）完美契合，深刻刻画出学术大佬们盲目捧场的论辩姿态。",
+      "nestle": "排除。nestle 意为“安顿、依偎”，属于静态空间或依托性动词，不存在 *nestle out 的动副搭配，亦不可支配抽象的褒贬评价词。",
+      "siphon": "排除。siphon 虽然常与 off/out 连用，但表示“抽取、侵吞、转移（资金、液体等）”，动作方向是向外抽取剥离（extracting away），而语境需要的是向外给予/奉上赞誉（dispensing out），方向和语义逻辑皆发生冲突。",
+      "stratify": "排除。stratify 意为“（使）分层”，属于及物或不及物动词，不与小品词 out 连用，更无法与 praise 形成支配关系。"
+    },
+    "translation": "在整个学术研讨会期间，资深代表们不断对尚未经证实的理论模型滥加赞誉，完全忽视了青年学者所指出的显而易见的经验矛盾。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_05",
+    "group_id": 123,
+    "group_name": "pant, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "pant",
+    "question": "Although emerging autocratic regimes eagerly ___ after international recognition and economic legitimacy, Western financial institutions remain reluctant to extend developmental capital without verifiable governance benchmarks.",
+    "options": [
+      "pant",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "pant",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于介词搭配 'after' 与认知渴望宾语 'international recognition and economic legitimacy' 的协同。在英语书面语中，'pant after/for' 为韦氏词典明确收录的高阶搭配（Merriam-Webster: to long eagerly: YEARN — used with for or after），用以形容迫切甚至不体面地汲汲于地位、认可或权力；其余三项均不存在接 'after' 表达抽象追求的句法及搭配可能。",
+    "distractor_analysis": {
+      "pant": "正确。pant 原义指生理上的‘喘气、气喘吁吁’，在政治社评与高级学术文本（FIELD_COGNITION）中常借喻强烈的心理渴求与执念，与介词 after 或 for 构成固定搭配（pant after/for recognition/fame），意为‘渴望、汲汲于追求’，与句意及介词完全吻合。",
+      "hoot": "错误。hoot 原义为猫头鹰鸣叫，引申指‘高声嘲笑、喝倒彩’，其标准动宾或介词搭配为 hoot at（嘲讽某事物）或 hoot down（以起哄声压倒某人），绝不与介词 after 连用表达‘渴望追求’之意。",
+      "squall": "错误。squall 原指突发狂风或婴儿‘尖声啼哭、号啕’，引申为‘喧闹抗议’，多接介词 about/over，既无认知渴望之义，亦不存在 squall after 这一介词搭配。",
+      "gobble": "错误。gobble 指火鸡咯咯叫或人类‘狼吞虎咽、贪婪吞食’，多及物使用或与副词小品词构成短语动词（如 gobble up/down），无法与介词 after 连用表达对合法性的心理渴求，存在严重句法断裂。"
+    },
+    "translation": "尽管新兴专制政权汲汲于获取国际认可与经济合法性，但若缺乏可核实的治理基准，西方金融机构依然不愿向其提供发展资金。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_06",
+    "group_id": 123,
+    "group_name": "pant, hoot, squall, gobble",
+    "level": "TEM-8",
+    "target_word": "hoot",
+    "question": "When the evolutionary theorist first challenged orthodox speciation models, mainstream academics tended to ___ at the radical hypothesis, dismissing it as little more than sensationalized methodological heresy.",
+    "options": [
+      "pant",
+      "hoot",
+      "squall",
+      "gobble"
+    ],
+    "answer": "hoot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点为介词搭配 'at' 以及认知评价客体 'the radical hypothesis'，并与后文伴随状语 'dismissing it as little more than... heresy'（贬斥其不过是耸人听闻的异端）形成严密的语义呼应。韦氏词典明确收录 'hoot at the idea/hypothesis'（表示对某一理论假说报以轻蔑嘲讽与全盘否定），其余三词均无此句法与认知语义功能。",
+    "distractor_analysis": {
+      "hoot": "正确。hoot 在认知与学术交锋语境中表示‘嗤之以鼻、报以嘲弄与不屑’，韦氏词典专列其与介词 at 的固定搭配（to express scornful disapproval of... scholars hooted at the idea）。本句中 mainstream academics 对 radical hypothesis 的否定态度与 hoot at 完美契合。",
+      "pant": "错误。pant 表示气喘或渴望（pant for/after），无法与介词 at 搭配表示学术上的轻蔑与否定，导致逻辑与语用反向。",
+      "squall": "错误。squall 指‘嚎啕、大声尖叫抗议’（通常搭配 about/over），语域偏向非理性的哭闹喧哗，无法用于形容主流学者对学术假说的嘲讽性认知评价（学术英语中不存在 squall at a hypothesis 的用法）。",
+      "gobble": "错误。gobble 意为‘狼吞虎咽’或‘侵占’（常接 up/down），不能接介词 at 用于抽象观念的评价与批判，在语义和句法搭配上均属明显错误。"
+    },
+    "translation": "当这位演化理论学者首次挑战传统物种形成模型时，主流学界往往对这一激进假说嗤之以鼻，将其贬斥为不过是耸人听闻的方法论异端。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_07",
+    "group_id": 124,
+    "group_name": "patter, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "patter",
+    "question": "Immersed in deep contemplation, the philosopher barely registered how the evening drizzle began to ___ rhythmically against the library skylight, producing a gentle, intermittent acoustic texture that lulled rather than disrupted.",
+    "options": [
+      "patter",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "patter",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocation with 'evening drizzle' and semantic compatibility with 'gentle, intermittent acoustic texture that lulled rather than disrupted', denoting light, soft, repetitive tapping on a surface.",
+    "distractor_analysis": {
+      "patter": "正确。意为“轻快、细碎地敲打或发出嗒嗒声”。在语境中，它与主语“evening drizzle”（细雨）及后文“gentle, intermittent acoustic texture”（柔和断续的声学质感）构成高度地道的惯用搭配，准确呈现出细微声响抚慰思绪、不惊扰深度沉思的认知图景。",
+      "rap": "错误。意为“急促而坚硬地敲打/叩击”，强调敲击声清脆、突兀甚至刺耳（如指节叩门或木槌敲击），与温和绵密的“drizzle”及“lulled rather than disrupted”（抚慰而非打扰）所构筑的幽静心境截然对立。",
+      "thud": "错误。意为“砰的一声落下或沉闷地撞击”，特指沉重、无弹性的钝物撞击发出的沉闷声响，与轻盈细密的水滴敲击声在物理声学特征上严重冲突。",
+      "drone": "错误。意为“发出持续低沉的嗡嗡声”，侧重单调连绵的持续性声响（如昆虫、马达或单调话语），不能用于描绘雨滴离散、节奏性地敲打天窗（___ rhythmically against...）的动作。"
+    },
+    "translation": "沉浸在深邃的沉思中，哲学家几乎没有觉察到傍晚的细雨开始有节奏地轻扣着图书馆的天窗，那轻柔而断续的声响非但没有打断他的思绪，反而带来一种宁静的抚慰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_08",
+    "group_id": 124,
+    "group_name": "patter, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "Seeking to dispel the assembly's mounting inattention, the exasperated committee chair was forced to ___ sharply on the mahogany rostrum with her gavel, abruptly jolting the delegates out of their collective cognitive lethargy.",
+    "options": [
+      "patter",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic-collocational structure '___ sharply on the mahogany rostrum with her gavel' and the causative effect 'abruptly jolting the delegates out of their collective cognitive lethargy', demanding a crisp, percussive strike intended to seize attention.",
+    "distractor_analysis": {
+      "rap": "正确。意为“（用硬物）急促而响亮地敲击”。与“sharply on the mahogany rostrum with her gavel”（用议事槌猛敲讲台）构成严格的固定动宾-介词搭配（to rap on sth. with a gavel），其清脆而具穿透力的击打声，与下文“abruptly jolting... out of their cognitive lethargy”（猝然打破与会者的思维迟滞）在因果认知链条上完全吻合。",
+      "patter": "错误。意为“轻快柔和地轻击”，语义核心为轻细、连续且缺乏冲击力，无法与“sharply”（严厉锐利地）、“gavel”（木槌）及震慑怠倦的强制性意图相匹配。",
+      "thud": "错误。意为“发出沉闷的重击声”，多指钝重实体摔落的声音，缺乏法槌敲击硬木时所具有的清脆、警示性高频冲击，且不符合“rap with a gavel”的经典正式行文规范。",
+      "drone": "错误。意为“嗡鸣”或“单调低沉地唠叨”，既无法在句法层面容纳“sharply on... with her gavel”这一离散打击行为，且低沉单调的声效在逻辑上只会加剧而非驱散（dispel）会场的认知怠惰。"
+    },
+    "translation": "为了驱散全场愈发明显的涣散涣散状态，心力交瘁的委员会主席不得不拿起议事槌在红木讲台上重重地猛敲了几下，猝然将代表们从集体的心智迟滞中震醒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_09",
+    "group_id": 125,
+    "group_name": "pinch, pleat, ruffle, furrow",
+    "level": "TEM-8",
+    "target_word": "pinch",
+    "question": "Confronted with the impenetrable epistemic paradox, the senior philosopher paused to ___ the bridge of his nose, seeking a momentary respite from the cognitive exhaustion induced by hours of relentless debate.",
+    "options": [
+      "pinch",
+      "pleat",
+      "ruffle",
+      "furrow"
+    ],
+    "answer": "pinch",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定身体认知搭配 'to ___ the bridge of one's nose'。在此类描述认知负荷与思维疲惫的语境中，只能使用 pinch（用手指捏鼻梁）；furrow 支配 brow/forehead，pleat 支配纺织物，ruffle 支配羽毛/心绪，均产生严重搭配断裂。",
+    "distractor_analysis": {
+      "pinch": "正确。动词 pinch 在此构成高级学术与文学语料中极其固定的生理与认知状态习用搭配“pinch the bridge of one's nose”（捏鼻梁）。该动作是人在面对高强度认知负荷（cognitive exhaustion）、逻辑困境或精神疲惫时极具标志性的肢体语言，准确传达出哲学家在悖论面前陷入深思、试图缓解疲惫的心智图景。",
+      "pleat": "错误。pleat 专指“把（布料、纸张等）按规则折成双层平行的褶裥”，其受词必须是具备可折叠物理性质的平面材质，绝不能用于人体面部解剖结构，属于范畴错配（category mistake）。",
+      "ruffle": "错误。ruffle 意为“使泛起涟漪、弄皱、弄乱”，常与头发、羽毛（ruffle feathers）搭配，或引申为打乱某人的沉着心境（ruffle someone's composure），无法与“the bridge of his nose”构成述宾搭配。",
+      "furrow": "错误。最具诱导性的近义干扰项。furrow 确实常用于表达深思、困惑或专注时的面部表情，但其严格受限于“furrow one's brow / forehead”（皱起眉头/前额），意指在肌肉表面挤压出凹陷的深沟。鼻梁属于骨与软骨结构，物理上无法形成“furrow”，与该宾语搭配在解剖常识与词汇搭配上均不成立。"
+    },
+    "translation": "面对难以参透的认识论悖论，那位资深哲学家停顿下来捏了捏鼻梁，试图从数小时激烈辩论所引发的认知疲惫中获得片刻喘息。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_10",
+    "group_id": 125,
+    "group_name": "pinch, pleat, ruffle, furrow",
+    "level": "TEM-8",
+    "target_word": "pleat",
+    "question": "To investigate how tactile manipulation shapes spatial cognition, researchers observed how master tailors ___ stiffened linen into sharp, equidistant folds, noting how geometric precision guided their subconscious motor routines.",
+    "options": [
+      "pinch",
+      "pleat",
+      "ruffle",
+      "furrow"
+    ],
+    "answer": "pleat",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句法与语义双重锚点：宾语与补足语结构 '___ stiffened linen into sharp, equidistant folds'。只有 pleat 专指将织物系统性地压折成等距、平行的规则褶裥；pinch 强调手指捏聚局部，ruffle 制造不规则紊乱皱纹，furrow 指耕出沟槽，均与后文的 'geometric precision' 及等距褶裥冲突。",
+    "distractor_analysis": {
+      "pleat": "正确。pleat 作为及物动词，其权威词典释义为“to fold cloth or other material so that one part lies over another in regular, parallel folds”（打褶裥）。句中的介词短语“into sharp, equidistant folds”（折成清晰、等距的褶裥）以及后文对“geometric precision”（几何精度）的强调，构成了选择 pleat 的决定性语义锚点。",
+      "pinch": "错误。pinch 意为“捏紧、捏掐”，虽然可用于烘焙时捏紧面皮边缘（pinch a pie crust）或用指尖捏住单处折痕，但其动作本质是指向单个接触点的局部受压，无法表达将整幅硬挺亚麻布系统化折叠成连续、规则、等距褶裥的工艺动作。",
+      "ruffle": "错误。ruffle 意为“弄皱、使呈波状褶皱”，强调打破原有的平整表面，产生轻微、不规则的细碎波动或褶边（如荷叶边），这与句中所要求的“sharp, equidistant folds”（清晰且等距的折痕）及严苛的几何精度构成直接的语意极性对立。",
+      "furrow": "错误。furrow 意为“在……上开沟、犁出深槽”，通常作用于土地（furrow the soil）或面部皮肤（furrow the brow）。在纺织面料工艺中，不会使用 furrow 来表示折叠规整褶裥，属于严重的搭配不当与专业语义断层。"
+    },
+    "translation": "为探究触觉操作如何塑造空间认知，研究人员观察了高级裁缝如何将硬挺的亚麻布折叠成清晰等距的规整褶裥，并记录下几何维度的精准度如何引导他们潜意识层面的肌肉运动程序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_11",
+    "group_id": 126,
+    "group_name": "exude, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "exude",
+    "question": "Throughout the protracted diplomatic impasse, the chief negotiator continued to ___ an unruffled composure and quiet authority, effectively reassuring nervous allies while defusing hostile rhetoric across the table.",
+    "options": [
+      "exude",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "exude",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COMMUNICATION",
+    "anchor_clue": "Direct object 'an unruffled composure and quiet authority' requiring a transitive verb denoting the natural, dignified radiation of understated psychological states without unctuous or pejorative connotations.",
+    "distractor_analysis": {
+      "exude": "正确。exude 作及物动词引申用于人格特质与心理状态的传达时，指自然、从容地散发出令人信服的沉着、自信或威严（如 exude composure/authority/grace），与修饰语 'unruffled'（波澜不惊的）及 'quiet'（内敛沉静的）高度契合，完全符合严肃外交谈判语境的高端书面语体要求。",
+      "ooze": "错误。ooze 虽在修辞上可及物使用（如 ooze charm），但其物理本义为黏稠液体渗出，引申义带有极强的‘过量、浓稠、谄媚甚至油腔滑调’（unctuous or excessive）的贬抑色彩（pejorative semantic prosody），与句中强调内敛克制的 'unruffled' 和 'quiet' 构成明显的语义冲突与修辞断裂。",
+      "seep": "错误。seep 无论用于物理渗透还是比喻性浸染，在现代标准英语中均为严格的不及物动词（常与 into, through 等介词连用，如 anxiety seeped into the delegation），无法直接接续名词短语 'an unruffled composure...' 作宾语，存在不可调和的句法结构缺失。",
+      "purge": "错误。purge 表示‘清除、肃清、排泄’（通常接不良事物或构成 purge sth of sth），若代入本句则意为‘清除波澜不惊的镇定与威信’，使主语主动剥离自身积极特质，直接导致后文伴随状语中‘安抚盟友并化解敌对言辞’（reassuring allies while defusing hostile rhetoric）的积极结果发生因果逻辑逆转。"
+    },
+    "translation": "在旷日持久的外交僵局中，首席谈判代表始终散发出一种波澜不惊的沉着气度与不怒自威的权威，从而有效安抚了焦虑的盟友，并化解了谈判桌对面的敌对言论。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_12",
+    "group_id": 126,
+    "group_name": "exude, ooze, seep, purge",
+    "level": "TEM-8",
+    "target_word": "ooze",
+    "question": "Although the think-tank monograph purported to deliver an objective evaluation of the trade dispute, its concluding chapters seemed to ___ with condescension and barely concealed partisan rancor.",
+    "options": [
+      "exude",
+      "ooze",
+      "seep",
+      "purge"
+    ],
+    "answer": "ooze",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive syntactic frame '___ with [negative abstract attitude]' specifically licensed by Merriam-Webster and OED for 'ooze', strictly excluding transitive-only 'exude' and directional 'seep'.",
+    "distractor_analysis": {
+      "ooze": "正确。ooze 经韦氏词典及牛津词典明确标注，其引申用于抽象品质时常与介词 with 搭配（结构为 ooze with sth，如 oozing with malice/condescension/sentimentality），形象地表达某种负面、浓重或令人不适的情绪态度‘满溢而出、充斥其间’，与空后的 'with condescension and barely concealed partisan rancor' 构成精准的句法语义锚合。",
+      "exude": "错误。exude 用于表露或散发抽象态度或品质时，在规范英语中为及物动词，直接接名词宾语（如 exuded condescension），绝不接介词 with 引导的属性补足语（*exude with 为严重搭配错配语法错误）。",
+      "seep": "错误。seep 为不及物动词，表示渗透、渗漏时必须接空间或方向性介词（如 seep into, seep through, seep out of），英语中不存在 *seep with [attitude] 的句法配价结构。",
+      "purge": "错误。purge 表‘清除、净化’，其基本搭配为 purge A of B 或 purge A from B；若与 with 连用，with 只能引导工具或手段（如 purge with fire/laxatives），无法用于表示文本‘充斥、流露出某种傲慢态度’，语义不通且语法结构不符。"
+    },
+    "translation": "尽管该智库专著声称要对这起贸易争端给出客观评估，但其结语章节似乎通篇满溢着居高临下的傲慢以及几乎不加掩饰的党派仇怨。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_13",
+    "group_id": 127,
+    "group_name": "pounce, swoop, alight, subside",
+    "level": "TEM-8",
+    "target_word": "pounce",
+    "question": "Sensing an ideological vulnerability during the contentious parliamentary hearing, opposition backbenchers were quick to ___ upon the minister’s inadvertent admission, exploiting it to demand an immediate independent inquiry.",
+    "options": [
+      "pounce",
+      "swoop",
+      "alight",
+      "subside"
+    ],
+    "answer": "pounce",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "固定搭配与语义选择限制（collocational & selectional restrictions）：'pounce upon/on' 专用于政治修辞与论辩语境，意为“敏锐且具攻击性地抓住（疏漏、破绽、失言或机会）大加抨击”；宾语为抽象言语破绽 'inadvertent admission' 时具有决定性唯一排他性。",
+    "distractor_analysis": {
+      "pounce": "正确。'pounce on/upon' 在高阶政经学术与议会辩论语境中为经典固定搭配，韦氏词典释义为 'to seize upon and criticize or exploit a mistake or an opportunity'（抓住错误、漏洞大肆抨击或利用）。句中后接宾语 'the minister's inadvertent admission'（部长的无心之言/失言），完全契合其批判性立场与语域风格。",
+      "swoop": "错误。'swoop on/upon' 强调自上而下的俯冲物理动作，或指执法机关、军队发动的突然突袭（如 'police swooped on the hideout'），其语义受词选择限制（selectional restriction）约束，无法以话语失误、论辩漏洞等抽象概念作为目标来表示“揪住破绽进行反驳”。",
+      "alight": "错误。'alight on/upon' 多指鸟类或昆虫“轻轻落在……上”，引申指目光或思绪“偶然落在/停留于某物”，属于中性且温和的意象，完全缺乏题干中议会反对党议员 'quick to... exploiting it to demand an inquiry' 所体现出的敏锐攻击性与机会主义立场。",
+      "subside": "错误。'subside' 为不及物动词，意为“（情绪、风暴等）平息、减弱”或“（地面、建筑物）下沉”，常与介词 'into' 连用，与介词 'upon' 无法构成合法谓语搭配，且语义与句中激烈的议会交锋完全相悖。"
+    },
+    "translation": "在充满争议的议会听证会上，反对党后座议员敏锐地察觉到了意识形态上的破绽，随即揪住该部长的不慎失言大做文章，并以此要求立即启动独立的调查程序。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_14",
+    "group_id": 127,
+    "group_name": "pounce, swoop, alight, subside",
+    "level": "TEM-8",
+    "target_word": "swoop",
+    "question": "Supported by forensic evidence of widespread market manipulation, federal regulatory authorities launched a dawn operation, moving swiftly to ___ on the brokerage firm’s headquarters before digital ledgers could be permanently erased.",
+    "options": [
+      "pounce",
+      "swoop",
+      "alight",
+      "subside"
+    ],
+    "answer": "swoop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "执法突袭的专用语域搭配：'swoop on + 实体机构/窝点/据点' 专指执法或监管部门突然发动的搜查突袭（a sudden raid）；而 'pounce' 的宾语仅限于具体猎物或抽象失误，绝对不可支配不可移动的实体建筑物/机构设施。",
+    "distractor_analysis": {
+      "swoop": "正确。'swoop on' 是英美严肃法政与经贸新闻（如《金融时报》《经济学人》）中极高频的经典搭配，对应韦氏词典核心义项 'to move down on as if in an attack' 以及牛津/朗文词典中的执法专有义 'to visit or attack suddenly and unexpectedly; raid'（对某地突击搜查）。句中 'dawn operation' 与 'brokerage firm's headquarters' 构成决定性语境锚点，唯一支持 'swoop'。",
+      "pounce": "错误。'pounce on' 在物理动作上指肉食动物自地面扑向猎物（spring upon with claws），在比喻义上指抓住错误或机会（seize on an error）。在现代英语及 TEM-8 规范语域中，'pounce' 无法以 immovable property（总部大楼、据点、房产）为支配对象，不能表达“突击查抄机构”之意，属于严惩的搭配断裂。",
+      "alight": "错误。'alight' 表示“降落、飞落”或“走下交通工具”，属于静态或柔和的物理位移，与句中带有强制执行色彩的突击搜查行动（'dawn operation', 'moving swiftly'）在语用色彩上产生严重冲突。",
+      "subside": "错误。'subside' 属于非及物动词，核心义为“下陷、平息”，无法与宾语 'the brokerage firm's headquarters' 产生及物或介词搭配逻辑，造成句法与语义双重溃败。"
+    },
+    "translation": "在掌握了大规模市场操纵行为的司法鉴定证据后，联邦监管机构发起了一场破晓突击行动，迅速查抄了该经纪公司的总部，以免数字账目被永久删除。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_15",
+    "group_id": 128,
+    "group_name": "precipitate, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "precipitate",
+    "question": "The sudden declassification of contradictory empirical data threatened to ___ an acute epistemological crisis within the academic community, rapidly dismantling decades of hard-won theoretical consensus.",
+    "options": [
+      "precipitate",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "precipitate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb governing the abstract direct object 'an acute epistemological crisis', denoting the sudden instigation of an intellectual emergency.",
+    "distractor_analysis": {
+      "precipitate": "正确。作及物动词，意为“促成；使突发；骤然降临”（尤指危机、剧变或负面后果）。在学术与认识论（FIELD_COGNITION）语境中，precipitate 与 crisis 构成高度固化的经典名物化宾语搭配（precipitate a crisis），精确表达矛盾数据突然促发一场认知危机的因果链条。",
+      "alight": "错误。alight 为纯不及物动词，表示“降落；（目光、思维等）偶落于某物”，后接对象必须经由介词 on 或 upon 引导，绝不能直接跟名词短语 an acute epistemological crisis 作宾语，存在不可调和的句法语法错误。",
+      "subside": "错误。subside 为不及物动词，意为“平息；减弱；沉降”（主语常为风暴、疼痛或危机本身），无法后接直接宾语（*subside a crisis 不合语法）；且句意强调矛盾数据的出现“诱发”了危机，而非“平息”危机，语义与句法均相悖。",
+      "cascade": "错误。cascade 通常用作不及物动词表示“倾泻；连续传递”；在现代偶作及物动词时仅限于在层级结构中传递信息（如 cascade instructions），绝不可与 crisis 搭配表示“引爆或骤发危机”，存在严重的搭配断裂。"
+    },
+    "translation": "矛盾经验数据的突然解密恐将引发学术界内部一场尖锐的认识论危机，迅速瓦解数十年苦心建立的理论共识。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_16",
+    "group_id": 128,
+    "group_name": "precipitate, alight, subside, cascade",
+    "level": "TEM-8",
+    "target_word": "alight",
+    "question": "Although the epistemologist explored numerous disparate hypotheses regarding mental representations, her analytical focus would invariably ___ upon the subtle phenomenological discrepancies that empirical observation persistently failed to reconcile.",
+    "options": [
+      "precipitate",
+      "alight",
+      "subside",
+      "cascade"
+    ],
+    "answer": "alight",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The cognitive subject 'her analytical focus' selecting the intransitive prepositional collocation '___ upon' to denote intellectual settlement or fixation on a specific problem.",
+    "distractor_analysis": {
+      "alight": "正确。alight 于抽象认知语境中常借用其“停栖、降落”的原义，引申为“（目光、注意力、思绪等）在审视多方后落于或驻留于特定焦点”，其不可分割的核心搭配为介词 on 或 upon（alight upon sth.）。句中与主语 her analytical focus 以及介词 upon 完美契合，准确刻画学者思维最终聚焦于特定分歧的状态。",
+      "precipitate": "错误。precipitate 作及物动词表示“加速、促发”；作不及物动词时表示化学中的“沉淀析出”或物理上的“猛掷、急落”，其引申不及物用法常与介词 into（如 precipitate into chaos）连用，绝不与 upon 搭配，更无法用于主语 focus 停驻于某一学术疑难的语境。",
+      "subside": "错误。subside 表示“（情绪、现象等）趋于平静、下沉”，其典型介词搭配为 into（如 subside into silence）或 to，无法与 upon 构成合规搭配；且“焦点平息/沉落于差异之上”在语意逻辑上难以成立。",
+      "cascade": "错误。cascade 强调多层级、自上而下的连续倾泻或逐级涌动，常接介词 down, through 或 over。与聚焦于单一客体的思维焦点（analytical focus）以及介词 upon 搭配构成意象冲突与搭配断裂。"
+    },
+    "translation": "尽管这位认识论学者探讨了关于心理表征的诸多迥异假说，但她的分析焦点总是不可避免地落在那处经验观察始终未能调和的微妙现象学分歧上。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_17",
+    "group_id": 129,
+    "group_name": "propagate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "propagate",
+    "question": "Recent oceanographic research demonstrates that low-frequency acoustic signals can ___ through stratified water columns across vast distances, preserving their waveform integrity despite ambient interference and thermal dissipation.",
+    "options": [
+      "propagate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "propagate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "acoustic signals can ___ through stratified water columns across vast distances, preserving their waveform integrity",
+    "distractor_analysis": {
+      "propagate": "正确。propagate 在声学与地球物理语境中属于专业核心词汇，特指波（声波、电磁波、地震波等）在特定物理介质中的“传播、传导”。此处与介质状语“through stratified water columns（穿过分层水体）”及“across vast distances（跨越漫长距离）”构成严谨的学术动宾/状语搭配，且与后文“preserving their waveform integrity（保持波形完整性）”在科学逻辑上高度契合。",
+      "waver": "错误。waver 意为“动摇、忽隐忽现、摇摆”，侧重光线闪烁、决心动摇或状态不稳定，不能用于描述物理信号在介质中的远距离定向传播；且 waver 所蕴含的不稳定性与下文“preserving their waveform integrity（保持波形完整）”产生语意冲突。",
+      "quiver": "错误。quiver 意为“轻微颤抖、抖动”，多用于描述物体（如枝叶、琴弦）或人体部位（如嘴唇、肌肉）小幅度、高频率的生理或机械振颤，无法表示波或信号跨越空间的物理传输过程，属于严重的词义与搭配错位。",
+      "writhe": "错误。writhe 意为“（因剧痛或挣扎而）翻滚、扭动”，施事主语通常为有生命的存在或具象躯体，用来修饰无形的声波信号属于范畴谬误（category error），完全不符合学术英语的规范表达。"
+    },
+    "translation": "近期的海洋学研究表明，低频声学信号能够跨越漫长距离在分层水体中传播，尽管存在环境干扰和热耗散，仍能保持其波形的完整性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_18",
+    "group_id": 129,
+    "group_name": "propagate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Longitudinal ecological surveys revealed that the endangered amphibian population began to ___ precariously between local extinction and fragile recovery, severely undermined by recurring droughts and fungal pathogens.",
+    "options": [
+      "propagate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_NATURE",
+    "anchor_clue": "began to ___ precariously between local extinction and fragile recovery",
+    "distractor_analysis": {
+      "waver": "正确。waver 在抽象语境下常与介词短语“between ... and ...”搭配，表示“在两种状态、极端或抉择之间摇摆不定、徘徊不定”。句中“waver precariously between local extinction and fragile recovery”精准传达了濒危种群生存状况岌岌可危、在灭绝与复苏之间摇摆挣扎的动态特征，句法搭配与语境色彩天衣无缝。",
+      "propagate": "错误。propagate 在生物学中指生物“繁衍、繁殖”或观点/波动的“传播”，其句法框架绝不支持“propagate between [State A] and [State B]”这一表示状态摇摆的二元结构，逻辑不通。",
+      "quiver": "错误。quiver 仅指微弱、快速地“颤抖、震颤”（如 leaves quiver, voice quivers），为纯粹的物理或生理震动描摹词，不具备支配“between ... and ...”抽象状态波动句型的句法配价，代入造成语法与语义的双重破裂。",
+      "writhe": "错误。writhe 强调身体因极端痛苦而“扭动、翻滚”（如 writhe in agony），虽然极具画面感，但不能接续“between extinction and recovery”这一表示状态徘徊的抽象介词短语，语义搭配严重不合。"
+    },
+    "translation": "长期的生态监测调查显示，在反复干旱和真菌病原体的严重侵害下，该濒危两栖动物种群开始在局部灭绝与微弱复苏之间危险地徘徊摇摆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_19",
+    "group_id": 130,
+    "group_name": "purge, clot, sanctify, reinstate",
+    "level": "TEM-8",
+    "target_word": "purge",
+    "question": "In an uncompromising bid to restore institutional integrity, the newly appointed tribunal resolved to ___ the civil service of entrenched patronage networks, thereby eradicating decades of systemic malfeasance across municipal departments.",
+    "options": [
+      "purge",
+      "clot",
+      "sanctify",
+      "reinstate"
+    ],
+    "answer": "purge",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中关键搭配结构为“___ the civil service of entrenched patronage networks”。动词 purge 与介词 of 构成经典搭配“purge sb./sth. of sth.”，意为“清除、肃清（组织、机构内部的腐败或异己分子）”，且后文“eradicating decades of systemic malfeasance”形成了决定性的语义呼应。",
+    "distractor_analysis": {
+      "purge": "正确。purge 意为“清洗、清除、肃清”，其后常接介词 of 构成固定搭配“purge A of B”（清除 A 中的 B 恶习、腐败分子或杂质），在此处指肃清公务员队伍中根深蒂固的裙带网络，语法搭配与政治社论语域完全契合。",
+      "clot": "错误。clot 主要用作生理或物理意义上的“凝固、结块”，或引申为“堵塞”，既不符合政政治机构改革的语境，也不能与介词 of 构成“clot sb./sth. of sth.”的语法搭配。",
+      "sanctify": "错误。sanctify 意为“使神圣化、使具有宗教效力、批准”，为及物动词，通常直接接宾语（如 sanctify a marriage/tradition），无法与介词 of 连用表示“清除”，且与下文“消除腐败恶行”的逻辑语义相悖。",
+      "reinstate": "错误。reinstate 意为“使复职、恢复（原职、原状）”，其经典搭配为“reinstate sb. to a post”或“reinstate a law/policy”，无法接“of + 不良事物”，在逻辑上更不可能“恢复公务员队伍中的裙带网络并以此清除弊端”。"
+    },
+    "translation": "为了坚定不移地恢复机构廉洁性，新设立的特别法庭决意彻底肃清公务员队伍中根深蒂固的裙带网络，从而根除各市政部门数十年来系统性的渎职劣迹。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b12_20",
+    "group_id": 130,
+    "group_name": "purge, clot, sanctify, reinstate",
+    "level": "TEM-8",
+    "target_word": "clot",
+    "question": "Clinical trials demonstrated that the novel procoagulant agent caused human plasma to ___ with unprecedented rapidity, effectively arresting severe hemorrhage in trauma patients before hypovolemic shock could develop.",
+    "options": [
+      "purge",
+      "clot",
+      "sanctify",
+      "reinstate"
+    ],
+    "answer": "clot",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_RELATION",
+    "anchor_clue": "句中主语补足语的核心动作发出者为“human plasma”（人血浆），直接诱因为“novel procoagulant agent”（新型促凝血剂），其临床目的为“arresting severe hemorrhage”（阻止严重大出血）。在医学与血液学生理语境中，仅有不及物动词 clot（凝结、凝固）能与 plasma 构成铁证搭配。",
+    "distractor_analysis": {
+      "clot": "正确。clot 作不及物动词时指血液或血浆“凝固、结块”，与前文的“procoagulant agent”（促凝剂）和后文的“arresting severe hemorrhage”（制止大出血）形成严密闭环的医学逻辑链与专业搭配。",
+      "purge": "错误。purge 意为“清洗、净化、通便”，多作及物动词；血浆本身不能自主执行“purge”动作，且促凝剂的作用绝非净化血浆，语义与生理机制完全不符。",
+      "sanctify": "错误。sanctify 意为“使神圣、神圣化”，属于宗教或伦理哲学语域的高阶动词，用于描述血浆生理反应属于严重的范畴错配（category mistake）。",
+      "reinstate": "错误。reinstate 意为“使重返职位、恢复原状”，为纯及物动词（transitive verb），在句中作 plasma 的不定式补足语时缺少宾语，且在生物医学语境下毫无语义逻辑。"
+    },
+    "translation": "临床试验证明，该新型促凝剂能促使人体血浆以空前的速度凝固，在创伤患者出现低血容量性休克之前有效遏制了严重的大出血。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

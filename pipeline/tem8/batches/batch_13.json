@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b13_01",
+    "group_id": 131,
+    "group_name": "quench, slash, detract, deflate",
+    "level": "TEM-8",
+    "target_word": "quench",
+    "question": "Despite rigorous censorship and the confiscation of dissident pamphlets, the totalitarian state ultimately proved powerless to ___ the burgeoning intellectual thirst for political pluralism and civil liberties.",
+    "options": [
+      "quench",
+      "slash",
+      "detract",
+      "deflate"
+    ],
+    "answer": "quench",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中的核心宾语为 'the burgeoning intellectual thirst for...'。在英语高阶学术与政论修辞中，thirst（无论表示生理渴感还是对自由/真理的隐喻性渴望）在动词搭配上具有严格的独占性选择限制，只能与 quench（或 slake）构成固定搭配，意为'熄灭、平息或满足渴望'。",
+    "distractor_analysis": {
+      "quench": "正确。quench 原义为'熄灭（火焰）、淬火'，在经典修辞和高级英语搭配中高度固化为 quench one's thirst（解渴/平息渴望），此处用于隐喻搭配 'quench the burgeoning intellectual thirst'（平息不断萌发的心智渴望），语体庄重典雅，完全契合题干的政论语境。",
+      "slash": "错误。slash 意为'大幅削减、砍伤'，其宾语必须是可量化、具象的经济或统计指标（如 slash budgets, slash prices, slash jobs, slash emissions），与抽象的认知与精神渴求 'thirst' 搭配属于严重的语义范畴与搭配冲突（collocational clash）。",
+      "detract": "错误。detract 在现代标准英语中几乎全为不及物动词（intransitive verb），必须接介词 from 构成固定搭配 detract from sth（减损……的价值/名誉）。此处空格后直接接名词短语宾语，在句法结构（subcategorization frame）上直接构成语法错误。",
+      "deflate": "错误。deflate 的核心义为'放气、紧缩'，通常用于原本处于膨胀状态的客体（如 deflate a tyre/balloon, deflate an asset bubble, deflate one's ego/optimism）。'thirst' 表示一种由匮乏引发的渴求状态，而非膨胀实体，故 'deflate a thirst' 属于逻辑与搭配误用。"
+    },
+    "translation": "尽管极权国家推行严苛的言论审查并没收异见小册子，但最终仍无法平息知识界对政治多元化与公民自由日益强烈的渴望。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_02",
+    "group_id": 131,
+    "group_name": "quench, slash, detract, deflate",
+    "level": "TEM-8",
+    "target_word": "slash",
+    "question": "Faced with declining oil revenues and an impending fiscal deficit, the finance ministry announced emergency austerity measures to ___ public subsidies on fuel and eliminate thousands of redundant administrative posts.",
+    "options": [
+      "quench",
+      "slash",
+      "detract",
+      "deflate"
+    ],
+    "answer": "slash",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句中的宾语为财政紧缩语境下的 'public subsidies on fuel'（公共燃油补贴）。在宏观经济与政策紧缩语境中，表示以激进、果断手段'大幅削减/大砍（预算、补贴、开支）'的标准权威动宾搭配为 slash subsidies/spending/budgets。",
+    "distractor_analysis": {
+      "slash": "正确。slash 在经济与政策语境中特指'大幅削减、急剧降低（开支、预算、补贴或人员）'，与 austerity measures（紧缩措施）及后文的 eliminate redundant posts 形成严密连贯的政策话语呼应，slash subsidies 为高频标准经济搭配。",
+      "quench": "错误。quench 语义场局限于'熄灭（火）、平息（渴望/热情）、猝冷（金属）'或化学物理中的'猝灭（荧光）'，无法以财政预算、政府补贴等金融制度性指标作为宾语，存在明显的语义类别错配。",
+      "detract": "错误。detract 属于不及物动词，后须跟介词 from（如 detract from the merit of...），不能直接带名词宾语 'public subsidies'，句法上不成立。",
+      "deflate": "错误。deflate 在经济学领域特指通过货币或财政政策使整体经济、货币流通或价格总水平'通货紧缩'（如 deflate the economy），或使资产泡沫破裂（deflate the housing bubble），但不能用于直接及物搭配微观或具体政策性拨款项（不能说 *deflate public subsidies）。"
+    },
+    "translation": "面对石油收入下滑和迫在眉睫的财政赤字，财政部宣布了紧急紧缩措施，以大幅削减燃油公共补贴并精简数千个冗余的行政岗位。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_03",
+    "group_id": 132,
+    "group_name": "quiver, waver, writhe, bustle",
+    "level": "TEM-8",
+    "target_word": "quiver",
+    "question": "Confronted by the committee's defamatory allegations during the public inquiry, the eminent scholar visibly began to ___ with suppressed indignation, though his formal rebuttal remained remarkably poised and articulate.",
+    "options": [
+      "quiver",
+      "waver",
+      "writhe",
+      "bustle"
+    ],
+    "answer": "quiver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "The decisive anchor clue is the prepositional and affective collocation '___ with suppressed indignation'. The verb 'quiver' specifically denotes an involuntary, rapid, slight trembling or shaking motion of the body triggered by high-strung emotion (collocating standardly as 'quiver with rage/indignation/anticipation'). In contrast, 'waver' requires 'in' or 'between' and signifies vacillation; 'writhe' denotes violent somatic twisting typically followed by 'in agony/pain' (and logically contradicts being 'poised and articulate'); and 'bustle' governs bustling physical activity rather than an inward affective state.",
+    "distractor_analysis": {
+      "quiver": "正确。quiver 意为“（因激动、愤怒、寒冷等）微颤、发抖”，专指细微而快速的物理或生理性颤动，与介词短语“with suppressed indignation”（因强抑的愤怒而…）构成严密的经典文学与学术搭配。",
+      "waver": "错误。waver 意为“动摇、犹豫、踌躇”，在语法上通常接介词 in（如 waver in one's faith/resolve）或 between（如 waver between two choices），不用于修饰人体因剧烈情绪产生的生理性震颤，在此处产生介词失配与语义断裂。",
+      "writhe": "错误。writhe 意为“（因剧痛、苦恼等）翻滚、扭动”，强调躯体大幅度的翻转扭曲，通常与介词 in 连用（如 writhe in agony/pain）。若填入本句，不仅语域和搭配不合，更与后半句该学者依然保持“poised and articulate”（沉着且条理清晰）的逻辑形成严重冲突。",
+      "bustle": "错误。bustle 意为“奔忙、熙熙攘攘”，常用搭配为 bustle about 或 bustle with activity/people，主语多为群体或繁忙场所，完全无法用于形容单个人因被压抑的情感而身体发颤。"
+    },
+    "translation": "面对调查委员会在公开听证会上提出的诽谤性指控，这位著名学者显然因强抑的愤慨而微微发颤，但他随后的正式抗辩依然显得极其沉着且条理清晰。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_04",
+    "group_id": 132,
+    "group_name": "quiver, waver, writhe, bustle",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Confronted by relentless diplomatic isolation and mounting domestic unrest, the embattled premier did not ___ in his resolve to negotiate a peaceful federation, confounding critics who had predicted immediate capitulation.",
+    "options": [
+      "quiver",
+      "waver",
+      "writhe",
+      "bustle"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "The decisive anchor clue is the fixed political/rhetorical collocation 'did not ___ in his resolve', set in contrast to 'confounding critics who had predicted immediate capitulation'. 'Waver' means to falter, vacillate, or become irresolute, and exclusively governs the prepositional pattern 'waver in one's resolve/commitment/loyalty'. 'Quiver' denotes high-frequency micro-tremors and cannot take an abstract cognitive noun like 'resolve'; 'writhe' signifies agonizing bodily contortion; and 'bustle' indicates hurried physical commotion, rendering all three impossible in this register.",
+    "distractor_analysis": {
+      "waver": "正确。waver 意为“动摇、迟疑、动摇不定”，在正式社科与政治话语中，“waver in one's resolve/commitment”（在决心/承诺上动摇）为不可替代的固定搭配，完美呼应后文反击了批评者对“立即投降”（immediate capitulation）的预测。",
+      "quiver": "错误。quiver 仅指物理层面的“微颤、抖动”，其受词或搭配范围仅限于具象物体（如琴弦、落叶、箭矢）或生理躯体反应，绝不能与抽象信念搭配（不存在 *quiver in one's resolve 的用法）。",
+      "writhe": "错误。writhe 意为“扭动、翻滚、遭受苦难折磨”，属于强烈的具象肉体痛苦动作，与抽象的政治决心（resolve）存在严重的范畴搭配错误（category error）。",
+      "bustle": "错误。bustle 意为“忙乱、奔忙”，强调喧闹忙碌的外在移动，在句法和语义上均无法与否定词 did not 以及介词短语 in his resolve 契合。"
+    },
+    "translation": "尽管面临着无休止的外交孤立和日益加剧的国内动荡，这位四面楚歌的总理在协商建立和平联邦的决心上却丝毫未曾动摇，令那些曾预言他会立即投降的批评家大惊失色。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_05",
+    "group_id": 133,
+    "group_name": "rasp, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "rasp",
+    "question": "Despite suffering from acute vocal cord fatigue, the foreign minister managed to ___ a defiant rebuke across the negotiation table, her voice crackling with dry, abrasive friction.",
+    "options": [
+      "rasp",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "rasp",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The physiological descriptors 'acute vocal cord fatigue' and 'crackling with dry, abrasive friction' decisively mandate a verb denoting phonatory harshness and grating vocal friction ('utter in a grating voice'), uniquely fulfilled by 'rasp'.",
+    "distractor_analysis": {
+      "rasp": "正确。Merriam-Webster权威释义为'utter in a grating voice'（以沙哑刺耳、摩擦般的声音说出）。句中前置条件'acute vocal cord fatigue'（急性声带疲劳）与后置伴随状语'voice crackling with dry, abrasive friction'（嗓音带有干涩粗糙的摩擦杂音）构成了严密的语音学与语义学排他闭环，完美契合rasp作为及物动词接言语宾语的典型搭配用法。",
+      "blurt": "错误。blurt的核心义项为'to utter abruptly and impulsively'（脱口而出、不假思索地脱口说出秘密或失言），侧重认知上缺乏自控力与突发性，而非发声器官的物理质感；此处外长的严厉驳斥是有意识的坚决表态，而非心理失控导致的走漏风声。",
+      "whiff": "错误。whiff用作动词主要指'轻吹、喷气、微闻/嗅到'或在体育语境中指'挥棒落空'，在句法上无法作为及物言语动词支配'a defiant rebuke'这一抽象话语宾语，属于范畴性语法与语义错误。",
+      "snivel": "错误。snivel指'抽抽搭搭地哭泣、抽鼻涕，或带着哭腔哀诉抱怨'，带有强烈的自怜、委屈或怯懦色彩，与语境中'defiant rebuke'（坚决的斥责与反驳）所表现出的顽强与不屈在语用色彩上产生不可调和的逻辑冲突。"
+    },
+    "translation": "尽管遭受严重的声带疲劳，这位外交部长依然努力在谈判桌上沙哑地挤出一记坚决的驳斥，她的声音中伴随着干涩粗糙的摩擦声。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_06",
+    "group_id": 133,
+    "group_name": "rasp, blurt, whiff, snivel",
+    "level": "TEM-8",
+    "target_word": "blurt",
+    "question": "Overcome by sudden panic during the deposition, the rattled accountant failed to maintain his composure and proceeded to ___ out incriminating financial disclosures that his attorneys had explicitly cautioned him to suppress.",
+    "options": [
+      "rasp",
+      "blurt",
+      "whiff",
+      "snivel"
+    ],
+    "answer": "blurt",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The combination of the particle 'out', the psychological trigger 'sudden panic/failed to maintain his composure', and the patient noun phrase 'incriminating financial disclosures that... attorneys had... cautioned him to suppress' strictly selects the fixed idiomatic collocation 'blurt out' (impulsively and indiscreetly reveal suppressed secrets).",
+    "distractor_analysis": {
+      "blurt": "正确。Merriam-Webster定义为'to utter abruptly and impulsively — usually used with out'。'blurt out'是高级英语中指因精神高度紧张或恐慌而'脱口泄露机密/不打自招'的核心固定搭配。题干中的'sudden panic'（突发恐慌）、'failed to maintain his composure'（未能保持沉着）与'cautioned him to suppress'（律师告诫其隐瞒）构成了不可替代的决定性情境锚点。",
+      "rasp": "错误。虽然rasp亦可与out搭配（rasp out an oath/command），但其语义重心绝对停留在'发出粗粝沙哑之声'的生理声学特征上，无法表征因心理防线崩溃而'脱口失言走漏不利证据'的认知机理，在此语境中造成严重的语义偏移。",
+      "whiff": "错误。whiff与out搭配（whiff out）多为非正式俚语（尤指棒球运动中的'三振出局'），在正式的法律宣誓作证（deposition）及学术语域中完全不具备言语披露（disclosure）的功能，属于句法语义双重脱节。",
+      "snivel": "错误。snivel指'啜泣、哭诉'，极罕见地与out搭配时意为'带着哭腔哼哼唧唧地吐露道歉'，并不包含'失控脱口泄露禁忌事实'的认知语用含义，无法搭配高度专业化的'incriminating financial disclosures'。"
+    },
+    "translation": "在宣誓作证过程中，这名惊慌失措的会计师被突如其来的恐慌压垮，未能守住心理防线，竟脱口说出了一连串其律师曾明确告诫他必须予以隐瞒的涉罪财务内幕。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_07",
+    "group_id": 134,
+    "group_name": "rattle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rattle",
+    "question": "Despite his formidable reputation for stoic detachment, the relentless cross-examination during the parliamentary inquiry began visibly to ___ the former chancellor's composure, exposing vulnerabilities in his fiscal policy defense.",
+    "options": [
+      "rattle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rattle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive collocation '___ someone's composure' in a psychological/cognitive context, contrasted with 'stoic detachment'. Only 'rattle' functions as a transitive verb denoting unsettling mental poise.",
+    "distractor_analysis": {
+      "rattle": "正确。rattle 在认知与心理状态语境中常引申为及物动词，意为“使慌乱；扰乱……的镇定”，与抽象名词 composure（沉着、泰然自若）构成高度固定的高级动宾搭配（rattle one's composure），精准呼应前文的 stoic detachment（坚忍的超然态度）。",
+      "rap": "错误。rap 作为及物动词意为“厉声质问；严厉斥责”，常见搭配为 rap sb. for sth.，不能与抽象心理平衡名词 composure 搭配（不可表达 *rap one's composure*），产生严重的语义搭配断裂。",
+      "thud": "错误。thud 意为“沉闷地响；砰然落下”，为典型的不及物动词或物理敲击动词，不能及物支配抽象认知/心理名词 composure。",
+      "drone": "错误。drone 意为“嗡嗡叫；单调絮叨地讲”，通常作不及物动词（常与 on 连用）或后接言语声音，无法作为及物动词支配由情绪或定力构成的宾语。"
+    },
+    "translation": "尽管这位前财政大臣以沉着超然的坚忍作风著称，但议会调查中咄咄逼人的盘问仍明显动摇了他的镇定，暴露了其财政政策辩护中的薄弱环节。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_08",
+    "group_id": 134,
+    "group_name": "rattle, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "In an unusually scathing oversight report, the parliamentary audit committee moved to ___ the intelligence directorate for failing to interpret critical reconnaissance data before the border skirmish.",
+    "options": [
+      "rattle",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic-semantic frame 'move to ___ [Entity] for [Transgression]', indicating official censure/rebuke. Only 'rap' satisfies both the transitive syntax and the evaluative cognitive meaning of sharp reprimand.",
+    "distractor_analysis": {
+      "rattle": "错误。rattle 表示“使惊慌；使不安”，其句式逻辑为心理状态的被动扰动，不具备官方机构对过失行为进行“问责斥责”的评价性语义，亦不能接介词短语 'for failing to...' 来引入受指责的原因。",
+      "rap": "正确。rap 在高阶政治与学术新闻语体中具有专指“严厉谴责；痛批（rebuke/censure）”的引申用法，其标准句式为 rap sb./sth. for doing sth.，与题干中审计委员会对情报部门因失职而作出的严厉裁定严丝合缝。",
+      "thud": "错误。thud 表示“砰然坠落或重击”，为不及物动词，既不能带宾语 the intelligence directorate，更无评价性谴责的隐喻含义。",
+      "drone": "错误。drone 为不及物动词（如 drone on），语义为单调乏味地低吟或漫谈，无法带及物宾语表达对特定机构的问责或制裁。"
+    },
+    "translation": "在一份措辞罕见严厉的监督报告中，议会审计委员会严厉斥责了情报总署，指责其在边境冲突爆发前未能准确研判关键的侦察数据。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_09",
+    "group_id": 135,
+    "group_name": "rebate, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "rebate",
+    "question": "During the restoration of the cathedral's fifteenth-century clerestory, conservators noted that medieval stonemasons did not simply bevel the masonry, but would meticulously ___ the structural limestone blocks to seat the leaded casements.",
+    "options": [
+      "rebate",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "rebate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The contrast with 'did not simply bevel the masonry' combined with the purpose clause 'to seat the leaded casements' uniquely requires the technical masonry sense of cutting a continuous rectangular groove or step into stone (MW: 'cut a rebate in timber or stone').",
+    "distractor_analysis": {
+      "rebate": "正确。rebate 作及物动词时为专门的石工与木工术语，意为“在（木料或石料边缘）开企口/凹槽/槽口”（Merriam-Webster: cut a rebate in timber or stone），其功能正是为了让窗框、玻璃或接合板材平嵌就位。句中与斜切边（bevel）形成精细工艺对比，且与后文“seat the leaded casements（平整安装铅条窗扇）”形成精准的专业语域与句法搭配。",
+      "lop": "错误。lop 意为“砍掉、剪去（树枝等枝桠）”或斩断，强调挥动工具进行大刀阔斧的粗暴砍截，与古代大教堂石匠对石料进行高精度槽口开凿（precision stone dressing）存在严重的语域及语义冲突。",
+      "pare": "错误。pare 侧重于用刀具“剥皮、削去外层薄皮或微量修剪”（如 pare an apple / pare fingernails）。石料构建中不存在通过 pare 来制造承托窗扇的阶梯状构造槽口的用法，无法与“seat the leaded casements”的功能搭配兼容。",
+      "indent": "错误。indent 作及物动词指“使成锯齿状、在边缘开出一系列凹齿”或“文字缩进”。若在石构件边缘进行 indent 处理，会产生犬牙交错的锯齿缺口，从而破坏密闭性，根本无法实现紧密平整安装窗扇的目的。"
+    },
+    "translation": "在对该大教堂15世纪高侧窗的修复过程中，文物保护人员注意到，中世纪的石匠并非仅仅将石料边缘倒角，而是会极其细致地在承重石灰石块上开凿凹槽企口，以平整嵌入铅条窗扇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_10",
+    "group_id": 135,
+    "group_name": "rebate, lop, pare, indent",
+    "level": "TEM-8",
+    "target_word": "lop",
+    "question": "Confronted with an unsustainable fiscal deficit, the parliamentary budget office recommended an aggressive restructuring plan designed to ___ nearly ten billion pounds off projected capital expenditure over the coming triennium.",
+    "options": [
+      "rebate",
+      "lop",
+      "pare",
+      "indent"
+    ],
+    "answer": "lop",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The fixed syntactic collocation '___ [monetary amount] off [budget/expenditure]' combined with the semantic modifier 'aggressive restructuring plan' strictly selects 'lop' (MW: 'to cut off or eliminate as unnecessary: lopped millions off the budget').",
+    "distractor_analysis": {
+      "lop": "正确。lop 在宏观经济与政策新闻语域中常与介词 off 构成固定搭配（lop ... off ...），形象地表示“大幅砍掉、大幅削减（庞大预算、巨额赤字或高昂开销）”（Merriam-Webster: to cut off or eliminate as unnecessary or undesirable — often used with off: lopped millions off the budget）。与句中“aggressive restructuring plan”以及“nearly ten billion pounds off projected capital expenditure”构成严丝合缝的搭配。",
+      "rebate": "错误。rebate 作为及物动词时意为“退还、返还（部分已付税款或费用）”，其典型句法结构为 rebate an amount to taxpayers/consumers，既不表达强行削减公共预算的语义，也不能与介词 off 搭配使用。",
+      "pare": "错误。pare 意为“逐步减缩、修削”，其修饰预算或规模时通常搭配副词 down（如 pare down the budget）；当 pare 与 off 搭配时仅用于具体物理层面的“削去表层薄皮”（如 pare off the rind），且其“审慎微幅修剪”的内涵与句中“aggressive（激进强硬的）”及近百亿英镑的巨额削减存在明显的语义色彩排斥。",
+      "indent": "错误。indent 意为“使边缘呈锯齿状”、“段落缩进”或商业上的“照单订购”，完全不具备消减预算开支的语义功能与句法结构。"
+    },
+    "translation": "面对难以为继的财政赤字，议会预算办公室建议推行一项激进的重组方案，旨在在未来三年内大幅削减近百亿英镑的预期资本性支出。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_11",
+    "group_id": 136,
+    "group_name": "reciprocate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "reciprocate",
+    "question": "Although the prime minister extended several unprecedented diplomatic overtures to defuse border tensions, the neighboring administration conspicuously failed to ___ these conciliatory gestures, thereby escalating the precarious regional standoff.",
+    "options": [
+      "reciprocate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "reciprocate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "句法与搭配决定性排他锚点：空格后紧跟及物动词的直接宾语短语 'these conciliatory gestures'。在四个选项中，仅有 reciprocate 可作及物动词，并构成高频外交政经搭配 'reciprocate gestures/overtures'（对等回应和解姿态/善意举动）。其余三项（waver, quiver, writhe）在现代英语中均为严格的不及物动词，在句法结构上出现排他性断裂，无法直接带宾语。",
+    "distractor_analysis": {
+      "reciprocate": "【正确】作为及物动词，意为“对等回应、互换、以同样方式回报（善意、举动等）”，与后文的 'these conciliatory gestures' 构成高度纯正的外交学术搭配，完美呼应前文主语伸出外交橄榄枝（extended diplomatic overtures）而对方未予对等回应的严密逻辑。",
+      "waver": "【错误】不及物动词，意为“动摇、犹豫、摇摆”，通常后接介词短语（如 waver in one's commitment 或 waver between choices），无法直接接宾语 'these conciliatory gestures'，在句法结构上完全不成立。",
+      "quiver": "【错误】不及物动词，意为“（轻微而快速地）颤抖、发抖”，常见搭配为 quiver with fear/excitement 或 quiver in the cold，既无法充当及物动词接宾语，也完全脱离地缘政治博弈的文体语域。",
+      "writhe": "【错误】不及物动词，意为“（因肉体剧痛或极度窘迫而）扭动、翻滚、挣扎”，常见搭配为 writhe in pain/agony，属于具象躯体动作，无法支配抽象宾语，更无法用于政经决策语境。"
+    },
+    "translation": "尽管该国总理为缓和边境紧张局势主动做出了数项前所未有的外交示好，但邻国政府却显而易见地未能对这些和解姿态作出对等回应，从而加剧了这一岌岌可危的地区对峙局面。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_12",
+    "group_id": 136,
+    "group_name": "reciprocate, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite relentless macroeconomic headwinds and fierce parliamentary opposition, the central bank governor did not ___ in her commitment to aggressive interest rate hikes aimed at taming persistent inflation.",
+    "options": [
+      "reciprocate",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_CHANGE",
+    "anchor_clue": "介词搭配与语义场决定性锚点：空格后紧跟介词短语 'in her commitment to...'。在表达政治意志、货币政策决心或信念立场时，'waver in one's commitment/resolve'（在决心/承诺上动摇、退缩）是权威英语政经期刊中牢不可破的固定搭配。其余三个动词均无法与 'in one's commitment' 形成合乎逻辑与用法的搭配。",
+    "distractor_analysis": {
+      "waver": "【正确】不及物动词，意为“（信念、决心、意志等）动摇、犹豫”，与介词 in 及 commitment 构成固定搭配 'waver in one's commitment'，精准传达出央行行长在面对多重阻力时“在激进加息承诺上毫不动摇”的高阶政经语义。",
+      "reciprocate": "【错误】核心语义为“对等回报、互惠互还”，主要用作及物动词，若作不及物动词也强调双方的往复交互，绝不可用于 'reciprocate in one's commitment' 这一搭配，语义完全不通。",
+      "quiver": "【错误】主要指因恐惧、激动、寒冷或机械振动而产生的细微“颤抖、战栗”（如 quiver with emotion），指代具体的物理或生理震颤，不可引申用于政策决心或信念层面的动摇。",
+      "writhe": "【错误】指因肉体受创或极端精神折磨而产生的强烈“翻滚、扭动”（如 writhe in pain/agony），为极具具象躯体色彩的词汇，与抽象的政策意志（commitment）出现严重的语义场冲突。"
+    },
+    "translation": "尽管面临持续严峻的宏观经济逆风与来自议会的激烈反对，这位央行行长在其通过激进加息以遏制顽固通胀的坚定承诺上未曾发生丝毫动摇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_13",
+    "group_id": 137,
+    "group_name": "recline, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "recline",
+    "question": "During psychoanalytic sessions, patients are typically invited to ___ comfortably on the couch, which helps dissolve somatic inhibitions and encourages the unconstrained stream of free association.",
+    "options": [
+      "recline",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "recline",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The syntactic frame requires an intransitive verb of body posture followed by 'comfortably on the couch' in a clinical psychoanalytic setting.",
+    "distractor_analysis": {
+      "recline": "正确。不及物动词，意为“斜倚；后仰；斜躺”，在此处与介词短语“comfortably on the couch”构成精神分析与认知心理学语境中的经典动介搭配（recline on the couch 指来访者后仰斜卧于躺椅上以弱化防御机制），句法与语义高度吻合。",
+      "ladle": "错误。及物动词，本义为“用勺舀取”，引申为“大量施予（赞扬、财物）”，后需跟直接宾语，不能作不及物动词表示人体姿势，在此句中导致句法结构断裂。",
+      "siphon": "错误。及物动词，意为“用虹吸管输送；抽取、抽调（资金、资源）”，必须带宾语且常与 off/from 连用，无法用于描述人类身体在长椅上的物理体态。",
+      "stratify": "错误。及物/不及物动词，意为“（使）分层；（使）形成阶层”，常修饰社会结构、岩石构造或实验样本，与患者斜靠在长沙发上的动作毫无逻辑关联。"
+    },
+    "translation": "在精神分析过程中，患者通常被要求舒适地斜躺在长椅上，这有助于消除躯体抑制，并促进自由联想的无拘束流淌。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_14",
+    "group_id": 137,
+    "group_name": "recline, ladle, siphon, stratify",
+    "level": "TEM-8",
+    "target_word": "ladle",
+    "question": "Rather than subjecting the controversial cognitive model to rigorous empirical scrutiny, the senior editors appeared content to ___ uncritical adulation upon its author, alienating skeptical researchers across the disciplinary spectrum.",
+    "options": [
+      "recline",
+      "ladle",
+      "siphon",
+      "stratify"
+    ],
+    "answer": "ladle",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive transitive metaphorical collocation: '___ uncritical adulation upon [someone]', denoting lavishly bestowing praise or flattery.",
+    "distractor_analysis": {
+      "ladle": "正确。及物动词比喻用法，意为“大量给予；慷慨倾倒（赞赏、阿谀等）”，常用搭配为“ladle praise/adulation/flattery on/upon someone”。句中“ladle uncritical adulation upon its author”精准体现了学术评论中不加节制倾倒赞美的批判色彩。",
+      "recline": "错误。不及物动词，意为“斜倚；斜靠”，不能直接带名词短语“uncritical adulation”作宾语，存在直接的及物性（transitivity）语法冲突。",
+      "siphon": "错误。及物动词，意为“抽出；暗中转移（资金或资源）”，通常表达抽取流向“siphon sth from... into...”，不仅语义指向为“取走”而非“赋予”，且介词 upon 与之完全不匹配。",
+      "stratify": "错误。及物动词，意为“使分层；分层划分”，宾语通常为社会阶级、地层或分类样本，无法与抽象情感评价词“adulation”构成合理搭配。"
+    },
+    "translation": "资深编辑们并未对这一颇具争议的认知模型进行严格的实证检验，反而似乎满足于将盲目的溢美之词大肆倾倒在其作者身上，从而疏远了整个学科领域的持怀疑态度的研究人员。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_15",
+    "group_id": 138,
+    "group_name": "regret, stag, inoculate, understate",
+    "level": "TEM-8",
+    "target_word": "regret",
+    "question": "The foreign ministry issued a formal communiqué to officially ___ that the bilateral summit had been postponed indefinitely, citing insurmountable logistical complications and escalating regional tensions.",
+    "options": [
+      "regret",
+      "stag",
+      "inoculate",
+      "understate"
+    ],
+    "answer": "regret",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的决定性排他锚点为动词后接引的陈述性从句“that the bilateral summit had been postponed indefinitely”以及官方副词“officially”。在所给四个选项中，仅有 regret 具备后接 that 宾语从句（subcategorization frame: regret that...）以表达“对……正式表示遗憾/抱歉”的句法支配能力（对应韦氏词典：express with regret），且完全契合外交公报（formal communiqué）的高阶庄重语体。其余三项均在句法层面上严禁后接 that 从句。",
+    "distractor_analysis": {
+      "regret": "正确。regret 在此作及物动词，意为“正式表示遗憾、抱歉”（express with regret），属于高阶外交与官方公告语体（diplomatic discourse）的核心标配词。其在句法上可直接支配 that 引导的名词性从句（regret that...），表示官方对峰会延期深表遗憾，语法与语篇逻辑严丝合缝。",
+      "stag": "错误。stag 作为及物动词时为专有金融与股票市场术语，意为“（为迅速转手获利而）认购/炒作（新股）”；它只能支配表示股票或发售物的名词短语（如 stag an IPO），在句法上根本无法接 that 从句，语义与公报语境毫无关联。",
+      "inoculate": "错误。inoculate 意为“接种疫苗”或引申为“使脱敏、灌输（思想）”，属于生物医疗或隐喻性认知动词；其及物用法必须接指代机体、系统或人群的名词宾语，常搭配介词 with 或 against（如 inoculate sb against sth），在句法上无法后接 that 从句。",
+      "understate": "错误。understate 意为“低估、轻描淡写”，属于单及物量度/评价动词，其宾语必须是表示规模、程度或严重性的名词短语（如 understate the severity/impact），不能接由 that 引导的陈述性事件从句；且外交部不可能通过官方公报去“正式少报/轻描淡写”峰会的取消，语义出现逻辑矛盾。"
+    },
+    "translation": "外交部发表了一份正式公报，正式对双边峰会无限期推迟表示遗憾，理由是难以克服的后勤困难和不断升级的地区紧张局势。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_16",
+    "group_id": 138,
+    "group_name": "regret, stag, inoculate, understate",
+    "level": "TEM-8",
+    "target_word": "stag",
+    "question": "Anticipating an immediate surge in secondary market valuation, opportunistic hedge funds mobilized substantial short-term capital to ___ the heavily oversubscribed initial public offering for rapid speculative gains.",
+    "options": [
+      "regret",
+      "stag",
+      "inoculate",
+      "understate"
+    ],
+    "answer": "stag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于高阶金融证券领域的搭配网络：“hedge funds”（对冲基金）、“mobilized substantial short-term capital”（调集大量短期资本）、宾语“the heavily oversubscribed initial public offering”（严重超额认购的首次公开募股/IPO）以及目的状语“for rapid speculative gains”（为了获取快速投机暴利）。在四个选项中，仅有 stag 具备及物动词义项“认购新股并迅速转手以获利/炒新”（to buy shares in a new issue in order to sell immediately at a profit），其他选项在金融语境和动宾逻辑上均完全脱节。",
+    "distractor_analysis": {
+      "stag": "正确。stag 在 TEM-8 考纲中属于典型的金融熟词生义，作及物动词时专指“（在二级市场开盘后立即转售赚取差价而）突击认购/炒作（新股或 IPO）”。句中“mobilized capital to stag the initial public offering for rapid speculative gains”完美契合经济学术与财经传媒的标准术语搭配。",
+      "regret": "错误。regret 意为“后悔、为……感到遗憾”，属于认知心理与情感评价动词。对冲基金调集巨额短期资本是为了追逐投机暴利，逻辑上不可能去“后悔”一个超额认购的 IPO，动宾语义产生荒谬的认知冲突。",
+      "inoculate": "错误。inoculate 意为“给……接种疫苗”或“使……获得免疫力”，常接介词 with 或 against。基金机构无法对“首次公开募股”进行接种或预防免疫，与二级市场资本运作的语义场完全无关，搭配断裂。",
+      "understate": "错误。understate 意为“低估、少报、轻描淡写”，其宾语通常为数据、损失或事实严重性。对冲基金调动流动资金是实际的建仓与交易行为，不可能去“少报”一项公开发行，且“少报发行”根本无法与后文“获取快速投机收益”形成合理因果关系。"
+    },
+    "translation": "预见到二级市场估值会随即飙升，投机性对冲基金调集了大量短期资本突击认购这项严重超额发售的首次公开募股，以攫取快速投机暴利。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_17",
+    "group_id": 139,
+    "group_name": "rejuvenate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "rejuvenate",
+    "question": "Cognitive neuroscientists assert that prolonged periods of reflective solitude can effectively ___ flagging intellectual faculties, restoring the creative vitality and divergent thinking compromised by sustained digital overstimulation.",
+    "options": [
+      "rejuvenate",
+      "jog",
+      "lure",
+      "entice"
+    ],
+    "answer": "rejuvenate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Direct object 'flagging intellectual faculties' coupled with the appositive participial clause 'restoring the creative vitality' demands a transitive verb signifying biological or cognitive revitalisation/renewal.",
+    "distractor_analysis": {
+      "rejuvenate": "正确。意为“使恢复活力、使复原”，在认知与心理学学术语境中与表示脑力机能衰退的宾语“flagging intellectual faculties”构成精准强搭配，且与后文伴随状语“restoring the creative vitality”在语义和修辞层面上完全呼应。",
+      "jog": "错误。jog在认知语域主要用于固化搭配“jog sb's memory”（唤起某人的记忆），无法支配“flagging intellectual faculties”来表达“恢复智力活力”之意，造成严重搭配断裂。",
+      "lure": "错误。意为“诱惑、诱捕”，其语义特征（semantic feature）严格要求受体具有主观感知与行为意图（通常为人或动物），不能接抽象的机能名词“faculties”，且语境完全不存在“以诱饵引诱”的逻辑。",
+      "entice": "错误。意为“诱使、怂恿”，同样侧重以利益或希望吸引有意志的实体采取行动（entice sb to do sth），与恢复认知机能的语境发生概念和搭配维度的双重冲突。"
+    },
+    "translation": "认知神经学家坚称，长时间的沉思独处能够有效恢复衰退的智力机能，重塑因持续数字化过度刺激而受损的创造活力与发散性思维。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_18",
+    "group_id": 139,
+    "group_name": "rejuvenate, jog, lure, entice",
+    "level": "TEM-8",
+    "target_word": "jog",
+    "question": "During the forensic inquiry, the archival investigator presented contemporaneous diary entries and annotated sketches to ___ the octogenarian witness’s fading memory regarding the exact sequence of events.",
+    "options": [
+      "rejuvenate",
+      "jog",
+      "lure",
+      "entice"
+    ],
+    "answer": "jog",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun phrase 'the octogenarian witness's fading memory' acting as the direct object of an action triggered by external evidentiary prompts ('diary entries and annotated sketches') exclusively activates the idiomatic cognitive collocation 'jog one's memory'.",
+    "distractor_analysis": {
+      "jog": "正确。在认知与记忆心理学及司法叙事中，“jog sb's memory”为权威、地道的固定搭配，意为“（通过线索或提示）唤起/促醒某人的记忆”。句中展示日记和手稿作为提示物（cues），正是为了触发高龄证人模糊的回忆。",
+      "rejuvenate": "错误。意为“使变年轻、使恢复青春活力”，通常用于整体生命力、组织体制或持续疲惫状态的更新，不能用于表示借助具体的外部线索“触发、唤醒某一特定事件的记忆点”。",
+      "lure": "错误。意为“引诱、诱惑”，用于通过诱饵吸引人或猎物（如 lure investors / lure prey），记忆（memory）作为认知客体无法被“引诱”。",
+      "entice": "错误。意为“诱使、怂恿”，强调引起欲望或希望以达成行为诱导，在认知提取（cognitive retrieval）语境下缺乏语义合理性。"
+    },
+    "translation": "在司法调查过程中，档案调查员出示了当时的日记记录与带有注释的草图，以唤起这位八旬证人关于确切事件发生顺序的模糊记忆。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_19",
+    "group_id": 140,
+    "group_name": "remit, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "remit",
+    "question": "Although the initial audit revealed no detectable anomalies, the lead cryptographer warned the intelligence team never to ___ their cognitive vigilance, as sophisticated adversarial networks often simulate compliance before launching attacks.",
+    "options": [
+      "remit",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "remit",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Transitive verb requirement taking the direct object 'their cognitive vigilance' in the sense of relaxing or slackening mental alertness; 'remit one's vigilance' is a fixed high-register collocation.",
+    "distractor_analysis": {
+      "remit": "正确。在此作及物动词，意为“缓和、放松、松懈（努力、警惕等）”（Merriam-Webster: to slacken: abate, <remit one's efforts>）。在英语高阶学术与政论语料中，“remit one's vigilance”（放松警惕）是高度固化的经典搭配，与句中首席密码学家告诫团队不可因未见异常而松懈防范的认知逻辑完全契合。",
+      "wane": "错误。语法受限。wane 属于严格的不及物动词（vi.），意为“衰落、减弱”，无法接宾语，绝不能用于 *wane one's vigilance 这一结构。",
+      "flag": "错误。在表示“疲劳、衰退、变弱”时，flag 仅作不及物动词（如 interest/energy flags，不可说 *flag one's vigilance）；若作为及物动词，其词义突变为“标记出、挑出（以待处理）”，代入后意为“警告团队不要标记他们的警惕”，完全违背句意逻辑。",
+      "deflate": "错误。搭配与语义场严重不适。deflate 作及物动词时意为“放气；紧缩；挫伤（信心、自负）”，其隐喻模型基于原本膨胀之物的塌缩，通常搭配 ego、optimism、currency 或 bubble 等，与代表持续警觉专注状态的“vigilance”发生严重的语义搭配断裂（collocational rupture）。"
+    },
+    "translation": "尽管初步审查未发现任何可察觉的异常，但首席密码学家告诫情报团队绝不可放松其认知警惕，因为复杂的对抗网络在发动攻击前往往会先模拟合规表象。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b13_20",
+    "group_id": 140,
+    "group_name": "remit, wane, flag, deflate",
+    "level": "TEM-8",
+    "target_word": "wane",
+    "question": "Historians of science observe that while logical positivism saw its empirical prestige wax throughout the interwar era, its philosophical hegemony began to ___ once Quine dismantled the dogma of the analytic-synthetic distinction.",
+    "options": [
+      "remit",
+      "wane",
+      "flag",
+      "deflate"
+    ],
+    "answer": "wane",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Antithetical lexical pairing with 'wax' in the preceding clause (wax and wane) combined with the subject 'philosophical hegemony' describing historical decline in intellectual dominance.",
+    "distractor_analysis": {
+      "wane": "正确。在此作不及物动词，意为“（势力、支配地位、影响力等）衰退、式微”（Merriam-Webster: to become less powerful: to fall gradually from power, prosperity, or high condition）。句法上，前半句的“empirical prestige wax（声望渐增）”与后半句的“hegemony began to wane”构成了英语思想史中极其典雅严谨的“wax and wane”（盛极而衰）修辞反义锚定，同时“hegemony wanes”为主谓地道搭配。",
+      "remit": "错误。语义场与语域严重错配。remit 用作不及物动词时，专指急性病理状态（如热度、痛感、病症）或恶劣自然气象（如风暴、狂怒）的“缓解、平息”（MW: to abate in force or intensity, e.g., the fever remitted），绝不可用于描绘哲学学派霸权或理论体系的历史性衰微。",
+      "flag": "错误。主谓搭配与选择限制冲突。flag 作不及物动词时，核心语义为“（生物体力量、精神、热情因精疲力竭而）衰退、疲软”（MW: to become feeble; lose driving force），其主语必须为活力特征或心理状态（如 spirits, stamina, enthusiasm），不可修饰“philosophical hegemony”（哲学霸权/支配地位）这一抽象理论范畴。",
+      "deflate": "错误。概念隐喻不合。deflate 作不及物动词表示“（气球等）泄气、瘪掉”或“突然萎缩”，不仅无法体现学术范式在数十年思想长河中的渐进式消长演变，更破坏了与前半句“wax”严格对应的经典修辞平衡。"
+    },
+    "translation": "科学史学者指出，尽管逻辑实证主义的经验主义声望在两次世界大战之间达到鼎盛，但一旦奎因破除了分析与综合区分的教条，其哲学霸权便开始渐趋式微。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

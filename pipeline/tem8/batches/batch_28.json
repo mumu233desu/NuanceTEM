@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b28_01",
+    "group_id": 281,
+    "group_name": "trudge, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "trudge",
+    "question": "Deprived of sleep and overwhelmed by cognitive fatigue, the evacuated researchers had to ___ along the rocky mountain path, their slow, heavy footfalls epitomizing the profound exhaustion that weighed upon them.",
+    "options": [
+      "trudge",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "trudge",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词结构中的'slow, heavy footfalls'（缓慢而沉重的脚步）与前文的'cognitive fatigue'及'profound exhaustion'构成了直接的语义锚点，精准对应 Merriam-Webster 对 trudge 的核心释义：'walk heavily and firmly, as when weary'。同时，路径为'rocky mountain path'（坚硬的岩石山径），彻底排除了需要介质阻力的 wade。",
+    "distractor_analysis": {
+      "trudge": "正确。trudge 指因精疲力竭、负担沉重或路况艰辛而拖着沉重、缓慢的步伐‘步履艰难地跋涉’（walk heavily and firmly, as when weary）。句中的'overwhelmed by cognitive fatigue'（心智极度疲惫）以及'slow, heavy footfalls'（沉重的脚步）完美契合 trudge 的核心语义与动作特征。",
+      "wade": "错误。wade 的本义为在水、泥泞、积雪等具有阻力的液体或半液体介质中艰难涉行（walk through water, mud, etc. offering resistance）。本句行进地点为坚硬的'rocky mountain path'（岩石山径），不存在浸润性阻力介质，属于严重的语义与搭配冲突。",
+      "slink": "错误。slink 指因恐惧、内疚、羞耻或图谋不轨而悄无声息、鬼鬼祟祟地潜行或溜走（to move stealthily or furtively, as from fear or shame）。句中强调的是身心极度疲惫导致的沉重脚步声（'heavy footfalls'），与 slink 所强调的隐秘、无声特性在逻辑与情态上产生直接对立。",
+      "slouch": "错误。slouch 作动词时主要强调因懒散、无精打采或缺乏教养而垂头塌肩、无精打采地走动或站立（to move or walk with an awkward, drooping, lazy posture），侧重不良体态与懒散态度，而非承受重负与极端劳累下的沉重跋涉（heavy, labored steps），无法匹配句中的学术严肃语域及重力疲态。"
+    },
+    "translation": "在被剥夺睡眠且深陷认知疲倦的重压之下，撤离的研究人员只得沿着崎岖的岩石山径艰难跋涉，他们缓慢而沉重的脚步深刻折射出压在身上的极度疲竭。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_02",
+    "group_id": 281,
+    "group_name": "trudge, wade, slink, slouch",
+    "level": "TEM-8",
+    "target_word": "wade",
+    "question": "Rather than remaining an aloof spectator, the cognitive theorist decided to ___ into the bitter methodological dispute, vigorously challenging the prevailing orthodoxy with unassailable empirical evidence and dialectical precision.",
+    "options": [
+      "trudge",
+      "wade",
+      "slink",
+      "slouch"
+    ],
+    "answer": "wade",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "核心句法与语义锚点为固定学术动介搭配'___ into the dispute'以及伴随状语'vigorously challenging...'。根据 Merriam-Webster，wade into 专指'to set to work or attack vigorously'（大展身手、积极介入并猛烈抨击），在学术论辩语境中专门用于表示‘主动且强势地介入争端/论战’，其他三词在句法或语义极性上均发生破裂。",
+    "distractor_analysis": {
+      "wade": "正确。wade 与介词 into 构成极具辨识度的学术与政论级习惯搭配 wade into（接 fray, debate, dispute 等），意为‘积极果断地介入、投身于（激烈争论或战斗）并展开有力交锋’（to set to work or attack vigorously）。该词完美呼应后文的'vigorously challenging the prevailing orthodoxy'（有力挑战主流正统观念）。",
+      "trudge": "错误。trudge into 仅能用于物理层面的疲惫拖沓迈入，含义为步履沉重、被迫或不情愿地走入。将其置于学术论辩语境既缺乏搭配依据，更与句中'vigorously challenging'所蕴含的主动、强势且充满进攻性的基调产生逻辑冲突。",
+      "slink": "错误。slink 意为鬼鬼祟祟地溜走或潜行，slink into 常指‘偷偷摸摸溜进’以期不被注意。这与本句中理论家以不可辩驳的经验证据公开展开论战（'vigorously challenging... with dialectical precision'）的自信、公开立场彻底相反。",
+      "slouch": "错误。slouch into 意为懒散漫不经心地晃进或瘫坐进（如 slouch into a chair），传达的是消极懈怠、无所谓或萎靡不振的状态，断然无法承载句中由严谨实证和辩证精确性驱动的积极理论干预。"
+    },
+    "translation": "这位认知理论家不愿只做冷漠的旁观者，而是毅然决然地强势介入这场激烈的理论方法之争，凭借无懈可击的经验证据与严密的辩证逻辑，对主流的正统观念发起了有力挑战。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_03",
+    "group_id": 282,
+    "group_name": "unsettle, faze, unnerve, afflict",
+    "level": "TEM-8",
+    "target_word": "unsettle",
+    "question": "The sudden devaluation of the reserve currency threatens to ___ the fragile economic equilibrium of the region, prompting central bankers to convene an emergency summit to preempt widespread financial contagion.",
+    "options": [
+      "unsettle",
+      "faze",
+      "unnerve",
+      "afflict"
+    ],
+    "answer": "unsettle",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive anchor is the inanimate, abstract direct object 'the fragile economic equilibrium of the region'. In advanced formal English, 'unsettle' is uniquely suited to mean disturbing the balance, stability, or order of an established system or market. In contrast, 'faze' and 'unnerve' are strictly selection-restricted to animate/sentient beings capable of feeling composure or courage, making them category errors here; 'afflict' denotes inflicting persistent physical suffering or torment (typically with diseases or calamities) and cannot collocate with 'equilibrium'.",
+    "distractor_analysis": {
+      "unsettle": "正确。MW释义为“disturb the composure of / upset the stability or smooth operation of”（扰乱、使动摇、破坏稳定）。在宏观经济与学术高阶语域中，unsettle 常与 equilibrium（平衡）、market（市场）、consensus（共识）等抽象名词搭配，精准表达打破既有体系的平稳状态。",
+      "faze": "错误。faze 意为“使慌乱、使气馁、使胆怯”，其及物宾语必须是具有心理感受能力的人（sentient being），且多用于否定语境（如 nothing could faze him）。此处宾语为抽象体制概念“the fragile economic equilibrium”，存在严重的语义范畴谬误（category error）。",
+      "unnerve": "错误。unnerve 意为“使胆怯、使丧失勇气”（deprive of courage or nerve），其逻辑宾语必须是有生命、有神经感知力的人或动物。无生命的“经济平衡”不存在所谓“勇气”或“神经”，不能作为 unnerve 的宾语。",
+      "afflict": "错误。afflict 意为“折磨、使痛苦”，通常表示疾病、贫困、天灾等对人或社会群体造成持久深重的肉体或精神摧残（常用结构为 be afflicted with/by），无法与“economic equilibrium”搭配表示“破坏平衡”。"
+    },
+    "translation": "该储备货币的骤然贬值恐将打破该地区脆弱的经济平衡，促使各国央行行长紧急召开峰会，以防范大范围金融风险的蔓延。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_04",
+    "group_id": 282,
+    "group_name": "unsettle, faze, unnerve, afflict",
+    "level": "TEM-8",
+    "target_word": "unnerve",
+    "question": "The sudden, deafening detonation outside the embassy compound threatened to ___ the inexperienced diplomat, sapping his fragile courage just as he prepared to deliver the high-stakes ultimatum.",
+    "options": [
+      "unsettle",
+      "faze",
+      "unnerve",
+      "afflict"
+    ],
+    "answer": "unnerve",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中后置分词短语'sapping his fragile courage'（剥夺其脆弱的勇气）提供了决定性排他锚点。unnerve词源为un-（剥夺）+ nerve（勇气、胆魄），在标准高级英语中专指因突发险情或剧烈震慑使人丧失勇气、镇定或决断力（deprive of courage or nerve）；相比之下，unsettle仅指扰乱既有秩序、思维平衡或使感到不安，不包含剥夺胆识之烈度；faze被各大权威词典明确定性为非正式口语（informal），且多用于否定句，在此庄重外交危机语域中属风格冲突；afflict指长久折磨、施加疾苦，与突发惊吓剥夺瞬间胆识的句意完全不合。",
+    "distractor_analysis": {
+      "unnerve": "【正确】及物动词，词源为un- + nerve，权威释义为'to deprive of courage, strength, or resolve; cause to lose nerve'（使丧失勇气、胆魄或决断力）。句中'sapping his fragile courage'（削弱/剥夺其胆识）构成直接的词义投射，完美契合面临重大通牒前被爆炸吓退胆识的语境。",
+      "unsettle": "【错误】及物动词，指'扰乱…的平衡、稳定或既定心境'（to disturb the composure or equilibrium of），其语义重心在于打破心理或体系的平和与确信感，并不包含使人丧失决死勇气或魄力的烈度，无法与'sapping his fragile courage'精确呼应。",
+      "faze": "【错误】及物动词，指'使心烦意乱、使胆怯'，但在牛津、韦氏及柯林斯等权威词典中均明确标注为'informal/colloquial'（非正式/口语语域），多用于否定结构（如nothing could faze him），置于高级外交谈判与重大危机叙事中构成严重语域冲突。",
+      "afflict": "【错误】及物动词，指'长期在身体、精神或物质上折磨、困扰'（to distress severely so as to cause persistent suffering），多接受难群体或国家（如afflicted by poverty/drought），句法上不可用于描述突发声响对瞬间心理胆魄的剥夺。"
+    },
+    "translation": "使馆大院外突如其来的震耳爆炸声险些击垮这位缺乏经验的外交官的胆魄，就在他准备递交这份事关重大的最后通牒之际，彻底削弱了他脆弱的勇气。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_05",
+    "group_id": 283,
+    "group_name": "unwind, brace, cramp, energize",
+    "level": "TEM-8",
+    "target_word": "unwind",
+    "question": "Despite rigorous mindfulness training intended to mitigate hyperarousal, the exhausted hostage negotiator found it nearly impossible to ___ after enduring seventy-two hours of unrelenting psychological confrontation.",
+    "options": [
+      "unwind",
+      "brace",
+      "cramp",
+      "energize"
+    ],
+    "answer": "unwind",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The phrases 'mitigate hyperarousal' (缓解生理与心理的过度唤醒紧绷状态) and 'after enduring seventy-two hours of unrelenting psychological confrontation' indicate a post-crisis state where psychological decompression is needed. Only 'unwind' functions intransitively to denote releasing tension and relaxing the mind after intense stress.",
+    "distractor_analysis": {
+      "unwind": "正确。此处用作不及物动词，专指在经历长期的精神高度紧张、劳累或危机之后“放松下来、解除神经紧绷”（to relax and allow one's mind to be free from anxiety/stress）。与句中“mitigate hyperarousal”（平复应激唤醒）和高强度对峙后的恢复语境高度契合。",
+      "brace": "错误。brace 作心理认知动词时意为“（使）做好心理准备、严阵以待”，通常具有前瞻性（面向未来冲击），常与介词 for 搭配或接反身代词（brace oneself for）。句中事件已发生且正在承受后遗影响（after enduring...），上下文需要的是“释压”而非“备战防御”，语义方向完全相反。",
+      "cramp": "错误。cramp 用作动词时，主要作及物动词表示“束缚、阻碍（活动或潜能）”（如 cramp one's style），或不及物表示肌肉“抽筋/痉挛”。在认知心理层面上无法表示在压力消除后“放松”，放入句中造成严重的语义畸变。",
+      "energize": "错误。energize 是典型及物动词（transitive verb），意为“激励……、使……精力充沛”，后方必须接宾语，此处在 to 之后作不及物动词在句法上不合格；且在语义上，面临 hyperarousal（过度激活/唤醒）的个体寻求的是平息和解压（unwind），而非进一步被激发活力。"
+    },
+    "translation": "尽管旨在缓解过度应激唤醒的严苛正念训练已经展开，但这位心力交瘁的人质谈判代表在经历长达七十二小时持续不断的心理对峙后，发现自己几乎无法彻底放松下来。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_06",
+    "group_id": 283,
+    "group_name": "unwind, brace, cramp, energize",
+    "level": "TEM-8",
+    "target_word": "brace",
+    "question": "Confronted with ominous macroeconomic indicators signaling prolonged stagflation, monetary authorities advised regional lenders to ___ for sudden capital flight rather than assuming interbank credit lines would remain perpetually solvent.",
+    "options": [
+      "unwind",
+      "brace",
+      "cramp",
+      "energize"
+    ],
+    "answer": "brace",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The decisive syntactic and semantic anchor is the construction 'to ___ for sudden capital flight'. In formal economic and risk-management discourse, only 'brace' functions as an intransitive verb colligated with 'for' to mean proactively fortifying and preparing oneself for an impending adverse event.",
+    "distractor_analysis": {
+      "brace": "正确。brace 作不及物动词时，常与介词 for 构成固定搭配（brace for sth），意为“为应对……（危机、冲击或坏消息）做好准备、严阵以待”（to prepare oneself for something difficult or unpleasant）。完全契合商业银行针对资本外逃进行防御性准备的宏观审慎语境。",
+      "unwind": "错误。unwind 作及物动词时可指金融上的“头寸平仓、退出宽松政策（unwind positions/stimulus）”，但作不及物动词时仅表示“放松、解开”，不能与 for 连用表示“针对潜在危机做好准备”。若填入此处，逻辑上金融机构不可能在资本外逃的威胁面前“去放松”。",
+      "cramp": "错误。cramp 为及物动词，表示“束缚、限制”，无法与介词 for 搭配，存在决定性的介词语法排斥；语义上亦无法表达机构对未来系统性风险的主动防御态势。",
+      "energize": "错误。energize 在当代标准英语中为及物动词，意为“给……注入活力、激发”，其后需要直接宾语（energize sth/sb），绝无“energize for a crisis”表示戒备或防御的搭配；面对突发资本外逃，监管层的要求是风险防御（brace），而非激发活力。"
+    },
+    "translation": "面对预示着长期滞胀的严峻宏观经济指标，货币监管当局建议各区域贷款机构针对突发性的资本外逃严阵以待，切勿盲目认定银行同业信贷额度能够永远保持充足清偿力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_07",
+    "group_id": 284,
+    "group_name": "wallow, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "wallow",
+    "question": "Instead of articulating a viable fiscal strategy to stabilize the volatile markets, several senior policymakers chose to ___ in defeatist cynicism, needlessly prolonging an institutional paralysis that eroded public trust.",
+    "options": [
+      "wallow",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "wallow",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation with 'in defeatist cynicism' signifying unproductive emotional indulgence, reinforced by the consequence 'needlessly prolonging an institutional paralysis'.",
+    "distractor_analysis": {
+      "wallow": "正确。wallow 在认知与心理语境中常与介词 in 搭配，意为“沉溺于、放任于（某种消极情绪或破坏性心理状态）”（to indulge unrestrainedly in an emotional state），wallow in defeatist cynicism（沉溺于失败主义犬儒心态）与后文“徒然延长制度性瘫痪”在逻辑与情感色彩上严丝合缝。",
+      "waver": "错误。waver 意为“动摇、犹豫不决”，强调在选择、信念或行动间的摇摆（vacillate），常搭配 between 或 in one's commitment/resolve，不能与 defeatist cynicism 搭配表示“沉溺于消极心态”。",
+      "quiver": "错误。quiver 意为“微颤、发抖”，侧重指躯体或声音因激动、寒冷或恐惧而产生的物理性细微颤动，无法支配抽象的认知心态短语 in defeatist cynicism。",
+      "writhe": "错误。writhe 意为“扭动、翻滚、挣扎”，通常表示因肉体或精神上的极端剧痛、折磨或羞愧而扭曲挣扎（如 writhe in agony/pain），与此处形容政策制定者消极懈怠、自怨自艾的沉溺状态语义不符。"
+    },
+    "translation": "几位高层政策制定者并未制定出切实可行的财政战略来稳定动荡的市场，而是选择沉溺于失败主义的犬儒情绪之中，徒然延长了侵蚀公众信任的制度性瘫痪。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_08",
+    "group_id": 284,
+    "group_name": "wallow, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite mounting pressure from international creditors to abandon capital controls, the central bank governor did not ___ in his resolve to maintain monetary sovereignty and curb systemic speculation.",
+    "options": [
+      "wallow",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Decisive idiomatic and cognitive collocation 'did not ___ in his resolve', indicating steadfastness against external pressure rather than physical movement or indulgence.",
+    "distractor_analysis": {
+      "wallow": "错误。wallow 指沉溺于消极心境或自私享受（如 self-pity, despair），与象征坚定信念与意志的褒义词 resolve（决心）在语义极性上根本对立，不存在 wallow in one's resolve 的表达。",
+      "waver": "正确。waver 意为“动摇、犹豫”，在认知与意志语境中专指决心、立场或信念的动摇。not waver in one's resolve 是地道的高频英语搭配，精准体现行长顶住外来施压、矢志不渝维护货币主权的语境。",
+      "quiver": "错误。quiver 强调物理层面的快速微颤或颤栗（如声音、落叶、身体因恐惧颤抖），无法用于形容人的认知决心或意志状态，与 in his resolve 产生搭配破裂。",
+      "writhe": "错误。writhe 侧重于剧烈痛楚下的肉体扭动或精神煎熬（如 writhe in agony），与本句表现行长面对外部压力保持沉着、坚定不移的政治决断语境南辕北辙。"
+    },
+    "translation": "尽管国际债权人施加了越来越大的压力要求其放弃资本管制，但这位央行行长在维护货币主权和遏制系统性投机方面的决心从未发生丝毫动摇。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_09",
+    "group_id": 285,
+    "group_name": "whizz, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "whizz",
+    "question": "Neurocognitive assessments reveal that combat pilots, conditioned to track airborne projectiles that ___ past their cockpits at high velocity, develop specialized sensory filters capable of prioritizing acute spatial trajectories.",
+    "options": [
+      "whizz",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "whizz",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "airborne projectiles that ___ past ... at high velocity: 明确限定了空中高速飞行物体发出的尖锐呼啸声与快速掠过的轨迹，且能与介词 past 构成固定空间位移动态搭配。",
+    "distractor_analysis": {
+      "whizz": "正确。whizz 指“（子弹、飞行物等）在空中高速掠过并发出呼啸或嗖嗖声”（to fly or move through the air with a whistling or whooshing sound），与先行词 airborne projectiles 及状语 past their cockpits at high velocity 构成在声学特质和空间运动上完全契合的纯正学术搭配。",
+      "rap": "错误。rap 强调短促、清脆、突然的“敲击、叩击”（如轻敲桌面或敲门，常接 on/at/against），既不具备高空飞行的动力学含义，亦不可与介词 past 搭配表示高速呼啸掠过。",
+      "thud": "错误。thud 指沉重、沉闷的撞击声或以钝响落地/撞击（a dull, heavy sound of impact），通常暗示物体与实体表面的撞击，无法用于描述空中高速弹体在无撞击状态下呼啸飞过的场景。",
+      "drone": "错误。drone 指发出单调、持续的低嗡嗡声（a continuous low humming sound，如蜂鸣或远方低速引擎轰鸣），其语义核心在于“持续且缺乏变化的低频振动”，与弹体在瞬间高流速（at high velocity）下破空而过的瞬态啸叫严重冲突。"
+    },
+    "translation": "神经认知评估显示，战斗机飞行员在长期适应追踪以极高速度呼啸掠过座舱的空中弹体后，会形成专门的感官过滤机制，能够优先捕获并处理紧急的空间轨迹信息。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_10",
+    "group_id": 285,
+    "group_name": "whizz, rap, thud, drone",
+    "level": "TEM-8",
+    "target_word": "rap",
+    "question": "In judicial cognition studies, researchers observed that arbitrators who deliberately ___ their gavels to punctuate critical rulings effectively reorient juror attention, thereby mitigating cognitive fatigue during protracted, complex trials.",
+    "options": [
+      "whizz",
+      "rap",
+      "thud",
+      "drone"
+    ],
+    "answer": "rap",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "宾语 their gavels 以及目的状语 to punctuate critical rulings：在及物用法中，只有 rap 与 gavel（法槌）构成敲击发声以提请注意的唯一地道规范搭配，其余动词在及物语法或动作属性上均不成立。",
+    "distractor_analysis": {
+      "rap": "正确。rap 在表示敲击时可作及物动词，Merriam-Webster 明确收录“to strike with a quick, light, or sharp blow <rapped his gavel>”，指用器具短促而清脆地敲击以强调重点或重整秩序，与 their gavels 构成完美动宾搭配，契合通过敲击法槌重聚注意力的话语场景。",
+      "whizz": "错误。whizz 主要用作不及物动词，表示物体在空气中呼啸穿行或快速移动，既不能直接接法槌（gavels）作及物宾语，也毫无“敲击硬物发出清脆声响”的语义。",
+      "thud": "错误。thud 表示发出沉闷、浑厚的钝响（如重物坠地），在现代标准英语中通常为不及物动词，不可及物支配 their gavels；且法槌与硬木底座撞击发出的声音是清脆的叩击声，与沉闷的 thud 在声学特征上相悖。",
+      "drone": "错误。drone 表示发出持续不断的低鸣或单调沉闷地讲话（drone on），无法支配动作工具宾语 gavels，在语法形态与动作语义层面均不符合语境。"
+    },
+    "translation": "在司法认知研究中，研究人员观察到，主审仲裁员故意敲击法槌来强调关键裁决，能够有效重新集中陪审员的注意力，从而在冗长复杂的庭审过程中缓解其认知疲劳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_11",
+    "group_id": 286,
+    "group_name": "wobble, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "wobble",
+    "question": "Under the relentless scrutiny of cognitive neuroscientists, the longstanding Cartesian framework began to ___ on its dualistic axis, threatening to topple decades of established philosophy of mind.",
+    "options": [
+      "wobble",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "wobble",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中核心锚点为 'on its dualistic axis, threatening to topple'（在二元论轴心上发生动摇，濒临倾覆）。wobble 的韦氏词典核心释义为 'move with an unsteady rocking motion'（以不稳定的摇摆动作晃动），常与 axis（轴心）、fulcrum（支点）连用，比喻理论构架失衡、摇摇欲坠。其他选项在此搭配与语义场中均不成立。",
+    "distractor_analysis": {
+      "wobble": "【正确】wobble 意为'（在轴心/支点上）摇摆不定、摇摇欲坠'（move unsteadily or rock on an axis），在此处精准契合认知哲学中'笛卡尔理论构架在其轴心上摇晃倾覆'（wobble on its dualistic axis, threatening to topple）的比喻搭配，符合学术英语的高阶隐喻用法。",
+      "waver": "【排除】waver 意为'犹豫不决、动摇、闪烁'（vacillate between choices; flicker），侧重于主观意志的踌躇或两极之间的游移，不能与 'on an axis'（在轴心上）搭配，也无法表达构架失去平衡即将倾覆（threatening to topple）的物理性晃动隐喻。",
+      "quiver": "【排除】quiver 指高频、细微的'颤动、抖动'（tremble with a slight, rapid movement），多用于因恐惧、寒冷或情绪激动引起的身体/声音微颤，无法用于描述宏大理论体系失去平衡并濒临倾覆的结构性晃动。",
+      "writhe": "【排除】writhe 指因极度痛苦、折磨而'（肢体）扭曲、翻滚、挣扎'（twist or squirm in agony），为具象的生理/肉体反应，完全脱离本句理论构架与哲学认知的语义范畴，造成严重搭配断裂。"
+    },
+    "translation": "在认知神经科学家的严密审视下，长期存在的笛卡尔框架在其二元论轴心上开始摇摇欲坠，威胁到数十年来既定的心灵哲学理论的根基。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_12",
+    "group_id": 286,
+    "group_name": "wobble, waver, quiver, writhe",
+    "level": "TEM-8",
+    "target_word": "waver",
+    "question": "Despite relentless diplomatic coercion and domestic political vilification, the ambassador did not once ___ in her commitment to the non-proliferation treaty, resolutely defending the multilateral framework before the security council.",
+    "options": [
+      "wobble",
+      "waver",
+      "quiver",
+      "writhe"
+    ],
+    "answer": "waver",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "句中决定性锚点为介词搭配结构 '___ in her commitment to...'（在……的坚定承诺/信念上发生动摇）。在英语学术与外交高阶语域中，'waver in one's commitment / support / allegiance / resolve' 是各大权威词典（韦氏、牛津、朗文）严格收录的经典固定搭配（意为 falter or become irresolute）。而 wobble 隐喻表示动摇时严格搭配介词 on 或 over（如 wobble on the issue / over policy），不与 'in + 忠诚/承诺' 连用；quiver 仅支配生理或情绪性震颤（quiver in fear）；writhe 则仅接肉体痛苦（writhe in pain/agony）。",
+    "distractor_analysis": {
+      "waver": "【正确】waver 核心义项为'动摇、动摇决心或信念'（to become unsteady or falter in purpose/belief），与介词 in 构成固定构式 'waver in one's commitment/allegiance/faith'，精准契合句中大使面对外交威逼与政治攻讦时'对条约承诺毫不动摇'的高阶政治话语语境。",
+      "wobble": "【排除】wobble 隐喻表示政策或立场的动摇时，语法支配介词为 on、over 或 between（如 wobbled on the policy pledge），各大权威语料库与词典均不接 'in one's commitment' 来表示对抽象忠诚/承诺的动摇，置于此处会造成严重的介词搭配脱节（colligational rupture）。",
+      "quiver": "【排除】quiver 指因寒冷、恐惧、激动等引起的轻微快速颤动（如 quiver with excitement, quiver in fear），其选择限制（selectional restrictions）限定于生理反应或物理震动，完全无法与 commitment（抽象立场/承诺）搭配，语义范畴错配。",
+      "writhe": "【排除】writhe 专指因肉体剧痛或极端精神折磨而身体翻滚、扭曲（如 writhe in agony/pain），属于强烈的躯体动作动词，绝不可用于政治承诺维度的意志动摇，语义严重不通。"
+    },
+    "translation": "尽管面临无休止的外交胁迫与国内政治诋毁，这位大使对其防扩散条约的坚定承诺未曾发生丝毫动摇，并在安理会面前坚决捍卫了多边框架。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_13",
+    "group_id": 287,
+    "group_name": "wrench, wring, deform, contort",
+    "level": "TEM-8",
+    "target_word": "wrench",
+    "question": "Determined to vindicate his revisionist thesis, the polemicist sought to ___ isolated passages from their archival context, thereby perverting the original author's nuanced philosophical doctrines.",
+    "options": [
+      "wrench",
+      "wring",
+      "deform",
+      "contort"
+    ],
+    "answer": "wrench",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocation and syntax 'wrench [text/passages] from their context' combined with 'thereby perverting... doctrines', denoting the violent extraction and distortion of original meaning.",
+    "distractor_analysis": {
+      "wrench": "正确。Merriam-Webster 词典专门收录了 wrench 在认知与文本阐释领域的特定义项：“to distort the meaning or natural development of: PERVERT (e.g., wrench text from its context)”。句中“isolated passages from their archival context”（从档案语境中强行抽取孤立段落）与后文“thereby perverting...”（从而曲解……）构成决定性锚点，精准表达论辩者为了自身论点而“断章取义、强行曲解文本”。",
+      "wring": "错误。wring 的核心隐喻是“施压榨取”（twist and compress to extract），常用于“从某人处逼取让步或口供”（wring a concession/admission from sb.）或“从数据中费力提取意义”，但不能与“isolated passages from context”搭配，在语义逻辑上不存在“将文段从语境中绞出”的用法。",
+      "deform": "错误。deform 侧重物理形态、几何外貌或系统结构的“变形、损毁”（to spoil the form or appearance of），句法上无法接“passages from context”这种兼具空间剥离与文本曲解双重机制的结构。",
+      "contort": "错误。contort 意为“使扭曲、歪曲”，通常直接支配受扭曲的对象（如 contort the truth/logic/meaning），强调客体形态被拧得怪异变形，但它缺乏“暴力抽离、拔出”的位主动态语义，无法与介词短语“from their archival context”构成合乎习惯的动宾介搭配。"
+    },
+    "translation": "为了证明其修正主义论点的正确性，这位论辩者企图从档案语境中强行断章取义，进而曲解了原作者细致入微的哲学学说。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_14",
+    "group_id": 287,
+    "group_name": "wrench, wring, deform, contort",
+    "level": "TEM-8",
+    "target_word": "wring",
+    "question": "By imposing exorbitant licensing fees and aggressive dividend extractions, the predatory investment firm threatened to ___ the struggling subsidiary dry before regulatory authorities could finalize their antitrust intervention.",
+    "options": [
+      "wrench",
+      "wring",
+      "deform",
+      "contort"
+    ],
+    "answer": "wring",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BUSINESS_AND_ECONOMICS",
+    "anchor_clue": "The resultative construction '___ [object] dry', a fixed idiomatic collocation uniquely licensed by 'wring' ('wring sb/sth dry', meaning to thoroughly deplete of money or resources), which is syntactically and semantically incompatible with wrench, deform, or contort.",
+    "distractor_analysis": {
+      "wring": "正确。Merriam-Webster 将 wring 释为“to squeeze or twist so as to make dry or extract moisture or liquid”。在该物理挤压义的基础上，衍生出高度固定且严谨的书面动结搭配“wring somebody/something dry”（意为“将某人/某机构的资金、资源彻底榨干掏空”）。在本句中，wring 与宾语“the struggling subsidiary”及结果补足语“dry”完美契合，精准呼应前文“exorbitant licensing fees and aggressive dividend extractions”（过高的许可费和激进的分红抽血）所描绘的资产掠夺语境。",
+      "wrench": "错误。wrench 的核心义在于“通过猛烈拉扯或扭转使其脱位、扯脱”（to pull, jerk, or twist violently），在动结结构中只能接表示松开、分离的结果补足语（如 wrench something free / loose / apart / open），英语中绝对不存在 *wrench something dry 的构式；此外其侧重“撕扯拽落”，完全不具备 wring 所包含的“挤压拧绞以抽出液体/榨取资本”的核心义素。",
+      "deform": "错误。deform 指“使改变天然外观或物理外形、使畸变”（to spoil the natural form or shape of），为纯粹的外形结构改变动词，语法上无法与表枯竭状态的结果形容词 dry 构成动结搭配（*deform sth dry），且无法转用于经济领域的资产榨取。",
+      "contort": "错误。contort 指“扭曲、使（肢体、面容、逻辑）走样”（to twist or bend out of normal shape），其支配的宾语仅限于具有具体形体或论证结构的客体，语法上既不能进入“contort sth dry”搭配，在语义范畴上亦无法表达对资金或附属机构的抽干与掠夺。"
+    },
+    "translation": "通过强征过高的许可费并激进地抽榨股息，这家掠夺性投资机构企图在监管机构敲定反垄断干预措施之前将陷入困境的子公司彻底榨干。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_15",
+    "group_id": 288,
+    "group_name": "adorn, beautify, embellish, grace",
+    "level": "TEM-8",
+    "target_word": "adorn",
+    "question": "Under early modern sumptuary legislation, provincial aristocrats were strictly forbidden to ___ themselves with ermine robes or gem-encrusted collars, which remained statutory prerogatives reserved exclusively for the high nobility.",
+    "options": [
+      "adorn",
+      "beautify",
+      "embellish",
+      "grace"
+    ],
+    "answer": "adorn",
+    "primary_mechanism": "MECH_SYNTAX_SELECTION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点在于反身句式搭配与介词选择限制：“to ___ themselves with [ermine robes / collars]”。在英语词汇库中，唯有 adorn 具备表示“以服饰、珠宝等饰物穿戴打扮自身”的反身惯用搭配（adorn oneself with ornaments/garments）；grace 绝对不可用于反身穿戴语境（无 *grace oneself with 结构）；embellish 的选择限制仅指向无生命器物或文本故事，不可用于反身人称代词；beautify 侧重世俗容貌修饰或环境美化，无法与禁奢法令所规约的等级性服饰穿戴形成合规搭配。",
+    "distractor_analysis": {
+      "adorn": "正确选项。adorn 的核心释义为“以精美物品或服饰装点人身”（to enhance the appearance of especially with beautiful objects / deck with ornaments or garments），其反身句法结构“adorn oneself with sth”（以……饰物装扮穿戴自身）是历史学、社会学文献描述禁奢法（sumptuary laws）与等级服饰时高度固定的规范表达，完美契合句中“themselves with ermine robes or gem-encrusted collars”的句法与语境要求。",
+      "beautify": "偏误选项。beautify 强调“使变美丽、美化”，侧重改善外观或消除丑陋（如 beautify the city / cosmetics to beautify the skin）。在句法与语用上，beautify 无法构成“beautify oneself with [garments]”来表达“佩戴/穿戴某种等级服饰”；禁奢法规约的是特权阶层的阶层性服饰佩戴（ornamentation / adornment），而非肉体或容貌的世俗美容，存在明显的语域与搭配脱节。",
+      "embellish": "偏误选项。embellish 的核心用法为在既有物件、文本或叙事上“润色、添枝加叶”（如 embellish a manuscript / embellish a story），其宾语的选择限制（selectional restriction）严格局限于无生命事物、艺术品或叙事话语。embellish 绝不能接反身代词作宾语来表示“某人穿戴盛装或珠宝”，句法选择限制违规。",
+      "grace": "偏误选项。grace 作及物动词时表示“因出席而使……增辉”或“为某物增添优美光彩”（如 his presence graced the banquet; robes graced his person）。但在语法和语义结构上，grace 绝对不能作反身动词用于衣着穿戴，现代英语中完全不存在“*grace oneself with robes/collars”的用法，属于致命的句法与语义偏误。"
+    },
+    "translation": "在近代早期的禁奢法令下，地方贵族被严厉禁止用白鼬皮袍或镶宝项圈来穿戴打扮自身，这些服饰属于专门保留给高级贵族的法定特权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_16",
+    "group_id": 288,
+    "group_name": "adorn, beautify, embellish, grace",
+    "level": "TEM-8",
+    "target_word": "beautify",
+    "question": "In clinical bioethics, scholars debate whether surgical interventions designed to ___ the human form, rather than correct functional impairments or repair congenital defects, exceed the traditional moral mandate of restorative medicine.",
+    "options": [
+      "adorn",
+      "beautify",
+      "embellish",
+      "grace"
+    ],
+    "answer": "beautify",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "决定性锚点在于生命伦理学中外科干预手段对机体本身的美学改造：“surgical interventions designed to ___ the human form, rather than correct... or repair...”。在医学哲学中，旨在改良正常人体外观的整形手术与修复畸形缺陷的重建手术构成经典对立（reconstructive vs. cosmetic surgery），其标准规范表述为 beautify the human form/body。该语境要求动词表达通过内在组织重塑与审美设计来改善实体自身形态，而非增添外部装饰物或附着饰品，从而严格排除了 adorn、embellish 和 grace。",
+    "distractor_analysis": {
+      "beautify": "正确选项。beautify 意为“使美丽、使改善外貌（to make beautiful or more beautiful）”。Merriam-Webster 明确指出其核心特征在于“counteracting ugliness or plainness or of making something attractive through aesthetic design”，强调通过整体审美规划与实质改造提升事物本身的外形品质。在医学伦理学关于“治疗（therapy）与增强/美容（enhancement/cosmetic）”的经典辨析中，beautify the human form（美化人体形态）是学术界的标准固定表达，同下文的 repair congenital defects 形成工整严密的对照。",
+      "adorn": "偏误选项。adorn 意为“佩戴饰物、以某物点缀（to enhance especially with beautiful objects）”，其核心义素在于借助外部独立的装饰实体（如珠宝、服饰、花环）附着于被修饰对象表面。句中施动手段为“外科手术干预（surgical interventions）”，其本质是对生物机体组织进行切除、塑形等内在改造，绝非在身体上“挂载外在饰品”，在此产生不可调和的范畴谬误与语义错配。",
+      "embellish": "偏误选项。embellish 侧重于“在已有表面增添琐碎装饰细节、花纹图案（add decorative details/ornamentation）”或“在言语叙述中添油加醋、渲染夸大”。该词通常搭配手稿边缘、建筑立面构件或文学叙事，不能用于描述外科手术对活体解剖形态进行重构与美化，在医学学术语域中极不自然。",
+      "grace": "偏误选项。grace 用作及物动词意为“使……增光添彩；给……带来体面或荣幸”，其及物构式要求主语本身具备优美或高贵特质，并通过“自身的在场或伴随（presence/attendance）”赋予客体光彩（如 a smile graced her lips）。grace 无法在以技术手段为工具、以主动改造为目的使役结构“interventions designed to grace X”中成立，句法功能与语义选择受限。"
+    },
+    "translation": "在临床生命伦理学中，学者们探讨旨在美化人体外形的外科干预措施——而非纠正功能损伤或修复先天缺陷——是否已经超越了修复医学的传统道德授权。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_17",
+    "group_id": 289,
+    "group_name": "affiliate, interpose, condescend, treat",
+    "level": "TEM-8",
+    "target_word": "affiliate",
+    "question": "To preserve their scholarly independence amid mounting commercial pressure, several regional laboratories refused to ___ themselves with the transnational biotechnology conglomerate, despite the latter's lucrative research endowments.",
+    "options": [
+      "affiliate",
+      "interpose",
+      "condescend",
+      "treat"
+    ],
+    "answer": "affiliate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键句法与语义锚点为反身代词 'themselves' 与介词短语 'with the transnational biotechnology conglomerate'。在学术与机构组织语境中，表示地方研究实体加入或隶属于大型财团的标准搭配为 'affiliate oneself with sth.'，其余选项均存在严重的介词选择冲突或论元结构不合语法的问题。",
+    "distractor_analysis": {
+      "affiliate": "正确。affiliate 在此作及物动词，构成 'affiliate oneself with sb./sth.' 经典构式，意为“使自己隶属于、使与……建立从属或紧密合作关系”。句意为地方实验室拒绝隶属于跨国生物技术企业，语法结构与学术政治语域完全贴合。",
+      "interpose": "错误。interpose 意为“介入、置于……之间”，若带反身代词，其典型介词补足语必须为 between 或 in（即 interpose oneself between/in），无法与 with 搭配表从属关联，存在致命介词搭配冲突。",
+      "condescend": "错误。condescend 意为“屈尊、俯就”，属于纯粹的不及物动词，常用句型为 'condescend to do sth.' 或 'condescend to sb.'，不可接反身代词作直接宾语（无 condescend oneself 之说），语法结构不成立。",
+      "treat": "错误。treat 作及物动词且接反身代词时，'treat oneself to/with' 意为“用……款待自己”或“以……给自己治病”，置于本句商业与科研语境中语义荒谬；若取“与某人交涉/谈判”之意，则为不及物用法（treat with sb.），严禁插入反身代词。"
+    },
+    "translation": "为了在日益加剧的商业压力下保持学术独立性，几家地区实验室拒绝使自己隶属于这家跨国生物技术企业集团，尽管后者提供了极为丰厚的科研资助。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_18",
+    "group_id": 289,
+    "group_name": "affiliate, interpose, condescend, treat",
+    "level": "TEM-8",
+    "target_word": "interpose",
+    "question": "When the territorial dispute escalated into imminent naval skirmishes, the regional council sought to ___ its diplomatic authority between the belligerent states before all diplomatic communication broke down completely.",
+    "options": [
+      "affiliate",
+      "interpose",
+      "condescend",
+      "treat"
+    ],
+    "answer": "interpose",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于及物动词后所接的抽象直接宾语 'its diplomatic authority' 以及后置介词短语 'between the belligerent states'。在正式的外交与政治语篇中，唯有 'interpose sth. between A and B' 能够精准表达“在交战双方之间介入/施加（权威或干预）以阻止冲突升级”。",
+    "distractor_analysis": {
+      "affiliate": "错误。affiliate 意为“使隶属、接纳为分支”，其常规句式为 affiliate sth. to/with sth.，完全不能与抽象名宾 'diplomatic authority' 和介词 'between' 形成合乎逻辑的外交调停搭配。",
+      "interpose": "正确。interpose 意为“置于……之间、介入、介入施加（权威或调停）”，句法构式 'interpose sth. between A and B' 极为严密，完全符合学术政经语境中在交战国间行使外交权威的表达要求。",
+      "condescend": "错误。condescend 意为“屈尊；带有优越感”，为不及物动词（vi.），其后根本无法直接支配名词性宾语 'its diplomatic authority'，出现动词配价（valence）与及物性层面的严重语法断裂。",
+      "treat": "错误。treat 虽然可作及物动词（意为对待、处理），但其语义场与介词短语 'between the belligerent states' 绝无搭配可能，无法表达“行使权威进行调停与介入”的核心语义。"
+    },
+    "translation": "当领土争端升级为一触即发的海上小规模冲突时，地区委员会试图在所有外交沟通彻底破裂之前，在交战国之间介入其外交权威。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_19",
+    "group_id": 290,
+    "group_name": "align, correlate, corroborate, twin",
+    "level": "TEM-8",
+    "target_word": "align",
+    "question": "To foster ethical governance, the commission demanded that institutional asset managers ___ their fiduciary strategies with international decarbonization commitments, ensuring long-term capital allocation reflects climate urgency.",
+    "options": [
+      "align",
+      "correlate",
+      "corroborate",
+      "twin"
+    ],
+    "answer": "align",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "demanded that institutional asset managers ___ their fiduciary strategies with international decarbonization commitments（要求管理者将主动制定的策略与外部标准/承诺相一致，符合 'align A with B' 的规范性校准搭配，而非实证统计或证据确证）",
+    "distractor_analysis": {
+      "align": "正确。align ... with ... 在公司治理、公共政策与战略管理语境中属于核心学术搭配，意为“使……与……相一致/使符合（原则、标准或承诺）”。句中监管机构要求投资经理主动调整其信托投资策略，以契合国际脱碳承诺，句法与语域极其吻合。",
+      "correlate": "错误。correlate ... with ... 意为“将……与……联系起来/使呈相关性”，主要用于实证统计与科学观察，表示两个变量在数据上的共变关系。句子中管理者被要求主动调整策略以遵从外部标准，而非对策略和承诺进行统计学相关分析。",
+      "corroborate": "错误。corroborate 意为“证实、确证（陈述、假说或证据）”，其宾语通常为 hypothesis, evidence, theory 或 claim。fiduciary strategies（信托策略）属于行为方案而非待核实的证据或陈述，且该词在句法上不与介词 with 连用表示规范性调整。",
+      "twin": "错误。twin ... with ... 意为“使……与……结合/成对出现”，多指将两项平行政策、项目或实体并联推进（如 twin fiscal austerity with structural reform）。句中国际脱碳承诺是衡量与规范投资策略的外部基准，属于“基准对齐”而非平级实体的“成对结合”。"
+    },
+    "translation": "为了推进合规治理，委员会要求机构资产管理者调整其信托策略，使其与国际脱碳承诺保持一致，以确保长期资本配置切实反映气候问题的紧迫性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b28_20",
+    "group_id": 290,
+    "group_name": "align, correlate, corroborate, twin",
+    "level": "TEM-8",
+    "target_word": "correlate",
+    "question": "In longitudinal neuropsychological assessments, researchers systematically ___ sustained attentional deficits with regional reductions in prefrontal gray matter volume, demonstrating a statistically significant functional interdependence.",
+    "options": [
+      "align",
+      "correlate",
+      "corroborate",
+      "twin"
+    ],
+    "answer": "correlate",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "systematically ___ sustained attentional deficits with regional reductions ... demonstrating a statistically significant functional interdependence（后半句的“统计学上显著的功能性互依关系”明确锁定了表示两组连续变量间实证统计关联的 'correlate A with B'）",
+    "distractor_analysis": {
+      "correlate": "正确。correlate ... with ... 意为“使……与……互相关联/测定相关性”，是实证科学中描述两组量化变量之间统计依存关系的特异性搭配。句中后半句的“statistically significant functional interdependence”（统计学上显著的功能性互依关系）构成决定性锚点，唯有 correlate 符合该实证统计逻辑。",
+      "align": "错误。align ... with ... 强调人为有意识地“调整、使对齐/使符合（标准或利益）”。认知注意力缺陷与脑区灰质萎缩均为客观病理及生理指标，无法被人为主观地“拉平”或“校准”。",
+      "corroborate": "错误。corroborate 意为“证实、确证”，及物动词通常直接接需验证的假说或发现（如 corroborate a hypothesis），不能用于表达将两组生理/认知变量进行统计学关联比对，且此处与介词 with 搭配表达变量关联属于严重句法不通。",
+      "twin": "错误。twin ... with ... 意为“使成对、使结合”，常用于社会政策、制度举措或物理实体的配对结合。用于描述神经病理萎缩与认知缺陷变量之间的统计学相关性属于严重语域冲突与搭配不当。"
+    },
+    "translation": "在纵向神经心理学评估中，研究人员系统地将持续性注意力缺陷与前额叶灰质体积的局部减少关联起来，证实了两者之间在统计学上显著的功能性相互依存关系。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

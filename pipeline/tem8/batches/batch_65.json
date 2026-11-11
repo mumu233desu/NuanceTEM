@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b65_01",
+    "group_id": 651,
+    "group_name": "rake, ram, tamper, grapple",
+    "level": "TEM-8",
+    "target_word": "rake",
+    "question": "In landmark experiments on primate cognition, macaques learned to employ a miniature ___ with comb-like teeth to retrieve distant food pellets, demonstrating how tool use dynamically recalibrates the neural representation of peripersonal space.",
+    "options": [
+      "rake",
+      "ram",
+      "tamper",
+      "grapple"
+    ],
+    "answer": "rake",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的决定性语义与搭配锚点为“with comb-like teeth”（带有梳齿状排齿）与“to retrieve distant food pellets”（用于拢取拉回远处的食物颗粒），精准契合名词 rake 的词典定义（带有齿列的长柄拢集工具）。在灵长类认知神经科学（如 Iriki 关于身体图式拓展的经典实验）中，受试动物所使用的正是“miniature rake”；而 ram（撞锤）、tamper（捣固平底工具）、grapple（抓钩）在形态与聚拢功能上均被绝对排除。",
+    "distractor_analysis": {
+      "rake": "正确。rake 作名词指“耙子，齿耙”，其本质形态特征为头部配备排齿（teeth/tines），功能为拢集、梳理散落物体。在认知心理学与神经生物学关于工具使用（tool-use cognition）的经典实验范式中，受试猕猴正是通过操纵“miniature rake”将伸展范围外的食物颗粒耙回近身空间，完美契合实验设定与高阶学术语境。",
+      "ram": "错误。ram 作名词指“破城槌，撞锤；液压柱塞”，是一种利用钝性力量实施前向单向冲击或挤压的重型装置，既无“comb-like teeth”（梳齿），也无法用于将微小颗粒轻巧拢回，语义与句法逻辑严重脱节。",
+      "tamper": "错误。tamper 作名词指“捣固器，捣槌”，其底部为宽阔平整的金属面，专用于垂直向下拍打以压实（tamp down）土壤、咖啡粉或道渣。它不具备梳齿构造，若用于食物颗粒只会将其碾碎，无法实现“retrieve”（拢取收回）操作。",
+      "grapple": "错误。grapple 作名词指“抓斗，抓钩”，其结构为数个弯曲闭合的铁爪，用于在垂直起吊中抓扣固定重物，而非具有平行梳齿用于在平面上平推拢物的小型工具，无法与文中的实验范式兼容。"
+    },
+    "translation": "在关于灵长类认知的里程碑式实验中，猕猴学会了使用带有梳状齿的微型耙子来获取远处的食物颗粒，这证明了工具使用能动态重塑大脑对近身空间的神经表征。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_02",
+    "group_id": 651,
+    "group_name": "rake, ram, tamper, grapple",
+    "level": "TEM-8",
+    "target_word": "ram",
+    "question": "In her critique of radical empiricism, the philosopher argued that reductionist logic was wielded like an intellectual battering ___, relentlessly demolishing nuanced phenomenological distinctions rather than accommodating complex subjective experiences.",
+    "options": [
+      "rake",
+      "ram",
+      "tamper",
+      "grapple"
+    ],
+    "answer": "ram",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性排他锚点为强搭配“battering ___”以及后文动词短语“relentlessly demolishing... distinctions”（无情地摧毁……区分）。“battering ram”（破城槌，攻城槌）是英语中不可分割的固有复合名词及经典学术隐喻，指代具有摧毁性穿透力的重击力量。其余三项均无法与 battering 产生词汇搭配（*battering rake*、*battering tamper*、*battering grapple* 均为非词化严重错配），且在机械意象上均不具备“撞毁坚固屏障”的语义内涵。",
+    "distractor_analysis": {
+      "ram": "正确。ram 在此处构成固定专有名词及隐喻搭配“battering ram”（破城槌）。在认识论与认知哲学批评中，“intellectual battering ram”为高频经典隐喻，形象生动地描绘了还原论逻辑如何如同野蛮撞击城门的重型攻城槌一般，粗暴砸毁微观细腻的现象学体验边界（demolishing nuanced distinctions），修辞格与搭配严密契合。",
+      "rake": "错误。rake 与 battering 无法共现（*battering rake* 为臆造错误表达）；rake 仅指耙子或放荡之徒，其动作特征为浅表刮擦，完全不具备撞击与粉碎性拆解（demolishing）的语义潜能。",
+      "tamper": "错误。tamper 作为工具指压实机、夯锤，其核心语义为致密压实，无法与 battering 搭配成词（*battering tamper* 不合规范），且其“向下加压”的力学特征与攻破屏障的水平爆破性破坏完全相悖。",
+      "grapple": "错误。grapple 作名词指用于抓取或攀爬的“抓钩”，与 battering 搭配出现严重词汇搭配断裂（*battering grapple* 违背英语搭配惯例）；抓钩的语义特征为抓紧、束缚，缺乏击破与捣毁的意象动力。"
+    },
+    "translation": "在对激进经验主义的批判中，这位哲学家指出，还原主义逻辑被当作一种智识上的攻城槌来挥舞，无情地碾碎了微妙的现象学区分，而非包容复杂的主观体验。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_03",
+    "group_id": 652,
+    "group_name": "rebound, wring, wrench, repercussion",
+    "level": "TEM-8",
+    "target_word": "rebound",
+    "question": "Psychologists caution that entering a serious relationship on the ___ often stems from an impulsive desire to soothe emotional vulnerability rather than genuine compatibility, frequently leading to renewed distress.",
+    "options": [
+      "rebound",
+      "wring",
+      "wrench",
+      "repercussion"
+    ],
+    "answer": "rebound",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "Fixed idiomatic prepositional frame 'on the rebound' describing entering a new relationship while still recovering from a previous heartbreak or emotional disappointment.",
+    "distractor_analysis": {
+      "rebound": "【正确】rebound在此处用作名词，构成经典固定搭配“on the rebound”（在失恋或受挫后的情绪反弹期/感情创伤恢复期），专指人在刚经历分手或打击、心理极其脆弱时仓促投入新恋情以寻求慰藉，与句中的“soothe emotional vulnerability”及“genuine compatibility”形成严密的逻辑契合。",
+      "wring": "【排除】wring作名词时指“拧、绞、紧握”，完全不存在“on the wring”这一介词搭配，在句法和语义上均属严重断裂。",
+      "wrench": "【排除】wrench作名词可表示“猛扭、扭伤”或“（离别等的）痛苦、难舍”，虽然具有负面情绪色彩，但英语中绝无“on the wrench”的习语表达，无法与介词短语“on the”搭配。",
+      "repercussion": "【排除】repercussion多用复数形式（repercussions），指某一事件引发的深远、间接的“不良后果、反响”，既不能作为单数直接填入“on the ___”，也无法在心理学行为语境中指代失恋后的恢复阶段。"
+    },
+    "translation": "心理学家告诫称，在失恋反弹期仓促开启一段严肃的恋爱关系，往往源于抚平情感创伤的冲动欲望，而非真正的契合，这往往会导致新的痛苦。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_04",
+    "group_id": 652,
+    "group_name": "rebound, wring, wrench, repercussion",
+    "level": "TEM-8",
+    "target_word": "wring",
+    "question": "Determined to ___ persistent inflation out of the overheated economy, the central bank aggressively escalated benchmark interest rates, fully aware that such contractionary monetary policy risked precipitating a prolonged industrial recession.",
+    "options": [
+      "rebound",
+      "wring",
+      "wrench",
+      "repercussion"
+    ],
+    "answer": "wring",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "The canonical macroeconomic collocation 'wring [inflation] out of [the economy]', which metaphorically casts aggressive monetary tightening as the systematic squeezing out of embedded inflationary pressures.",
+    "distractor_analysis": {
+      "wring": "【正确】此处考查wring在宏观经济与政策政论中的高阶比喻性动词搭配“to wring... out of...”，意为“把（通货膨胀）从（经济体系）中彻底挤出/肃清”（to wring inflation out of the economy/system）。该表达源自wring的物理本义“绞、拧、挤出（水分）”（to squeeze or twist so as to extract liquid），生动形象地比喻央行通过强力紧缩政策排除根深蒂固的通胀压力。该搭配在《经济学人》（The Economist）、《金融时报》（Financial Times）及美联储政策公报中属于高度固化的专业政经搭配，与后文的“overheated economy”及“contractionary monetary policy”完美契合。",
+      "wrench": "【排除】wrench用作动词时核心语义为“猛拉、猛扭、剧烈拧动”（to pull or twist violently and suddenly），常用于物理层面的暴力扯脱（如 wrench a weapon from sb's grasp）或骨节扭伤（wrench an ankle），或引申为文本层面的“断章取义、曲解”（wrench meaning out of context）。wrench强调瞬间的物理暴力拔除，无法以连续系统的调控手段作用于弥散性、抽象的经济指标“inflation”，构成严重的语义场冲突与搭配破裂（collocational rupture）。",
+      "rebound": "【排除】rebound主要用作不及物动词（intransitive verb），意为“弹回、回升、复苏”（如 output rebounded from the slump），其后不能直接接宾语“persistent inflation”构成及物动宾结构，更无法与“out of the overheated economy”连用，存在致命的及物性句法违歧（transitivity violation）。",
+      "repercussion": "【排除】repercussion在现代英语中是纯粹的名词（noun），意为“（尤指不良的）间接后果、反响、连锁反应”（an indirect consequence or ripple effect）。本句空缺处位于不定式符号“to”之后，必须填入动词原形，repercussion无法用作动词，直接构成词性句法错误（part-of-speech violation）。"
+    },
+    "translation": "为了坚决从过热的经济中彻底挤出顽固的通货膨胀，中央银行大幅上调基准利率，尽管他们十分清楚这种紧缩性货币政策有可能引发长期的工业衰退。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_05",
+    "group_id": 653,
+    "group_name": "relapse, lapse, flunk, failing",
+    "level": "TEM-8",
+    "target_word": "relapse",
+    "question": "Neuropsychologists warned that prematurely terminating the targeted cognitive intervention after brief clinical remission would almost certainly precipitate a debilitating ___ into depressive delusions.",
+    "options": [
+      "relapse",
+      "lapse",
+      "flunk",
+      "failing"
+    ],
+    "answer": "relapse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的“clinical remission”（临床缓解期）构成了医学与认知病理学上的决定性反义对称锚点；在临床语境中，由缓解期重新坠入重度精神异常状态，与动词 precipitate 及介词 into 严格搭配的只有 relapse（precipitate a relapse into... 指诱发病症复发）。",
+    "distractor_analysis": {
+      "relapse": "正确。relapse 指“（疾病、精神异常或恶习好转后的）复发、恶化”，在认知精神病学与临床心理学语域中，与 clinical remission（临床缓解）形成严格的专业互补对立，precipitate a debilitating relapse into... 意为“诱发严重的重度复发”，完全契合学术搭配。",
+      "lapse": "错误。lapse 侧重指“（精力、记忆、道德等）短暂的失误、闪失”或“时间的流逝”，通常强调短时性（如 momentary lapse），既不能用来表示经历缓解期后病理状态的长期恶化与复发，也无法与 debilitating 构成指代病症反复的连贯逻辑。",
+      "flunk": "错误。flunk 属于北美非正式口语用词，意为“（考试、学业）不及格、挂科”，与本句严肃的神经心理学学术期刊语域产生强烈的文体冲突（register clash），且语义完全不符。",
+      "failing": "错误。failing 作名词时通常指人性格、品行或系统机制上的“缺点、短板、过失”（常作复数 failings），无法表示病理状态的倒退或复发，亦不能与“precipitate a debilitating ... into”搭配。"
+    },
+    "translation": "神经心理学家警告称，在病情短暂出现临床缓解后过早终止针对性的认知干预，几乎必然会导致患者再度严重复发，重陷入抑郁性妄想之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_06",
+    "group_id": 653,
+    "group_name": "relapse, lapse, flunk, failing",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "The investigation revealed that the catastrophic navigational error stemmed not from mechanical dysfunction, but from an uncharacteristic ___ of concentration by the fatigued radar technician during peak operations.",
+    "options": [
+      "relapse",
+      "lapse",
+      "flunk",
+      "failing"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "空后的“of concentration”（注意力）构成了决定性的固化短语搭配锚点。“lapse of concentration”（走神、一时注意力涣散）是认知心理学及事故调查报告中的高度固化专业搭配，其他选项均无法与 of concentration 组合。",
+    "distractor_analysis": {
+      "relapse": "错误。relapse 专指“（病情或恶劣行为的）复发、退步”，其句法上通常接介词 into 或独立使用，在英语中完全不存在“relapse of concentration”这一搭配，产生严重的搭配断裂。",
+      "lapse": "正确。lapse of concentration 为认知工效学与正式英文中极其地道、固定的专有搭配，指由于疲劳等诱因引发的“短暂注意力缺失、走神”，完美呼应前文形容词 uncharacteristic（非典型的、一反常态的）及后文疲劳雷达员的语境。",
+      "flunk": "错误。flunk 属于非正式/口语语体（指考试不合格），在事故调查通报等严肃官方语域中属文体失当，且在语法搭配上不存在 *flunk of concentration 的用法。",
+      "failing": "错误。failing 作为名词通常指道德、人品或性格上的“长期缺陷或品性不足”，属于持久的个人属性特征，不能指代因生理疲劳导致的瞬间认知失控，英语中亦无 *failing of concentration 这一结构。"
+    },
+    "translation": "调查显示，这一灾难性的导航失误并非源于机械故障，而是由疲惫不堪的雷达技术员在作业高峰期一反常态地走神所致。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_07",
+    "group_id": 654,
+    "group_name": "repertoire, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "repertoire",
+    "question": "To navigate unpredictable cross-cultural negotiations effectively, diplomats must develop an expansive ___ of communicative strategies, dynamically balancing subtle linguistic hedging with authoritative assertions rather than relying on rigid, pre-formulated scripts.",
+    "options": [
+      "repertoire",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "repertoire",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational frame 'expansive ___ of communicative strategies' contrasted with 'rigid, pre-formulated scripts'; denotes an internalized inventory of skills and techniques.",
+    "distractor_analysis": {
+      "repertoire": "【正确】指个人或团队在特定实践领域中所掌握的“全部技能、手段或策略储备”（the entire range of skills, aptitudes, or devices used in a particular field）。在认知语用学与交际学中，repertoire of communicative strategies（交际策略库/储备）属于高度凝固的学术搭配，与后文动态调配策略、拒绝刻板剧本的语境完全吻合。",
+      "mound": "【排除】指物理意义上的“土丘、土堆”或口语中杂乱堆积的具象杂物（如 a mound of paperwork）。其修饰对象必须是可实体堆叠的客观物件，与抽象的内化认知技能储备（strategies）存在根本的语义范畴错配（category error）。",
+      "fauna": "【排除】生态学与动物学专业术语，指特定地理区域或地质时期的“动物群”（all the animal life of a given place or time）。与人际协商、认知策略及语言表达毫无语义关联。",
+      "corpus": "【强干扰项】指用于语言学研究的“语料库”或某一主题的“文献汇编、全集”（a collection of recorded texts or utterances for linguistic analysis）。题干中虽含有 linguistic、communicative 等语言学语境词，极易诱使考生联想到 corpus linguistics（语料库语言学），但 corpus 本质上属于客观存在的文献数据库，绝不能用来描述人类个体内部掌握的动态认知或行为策略集。"
+    },
+    "translation": "为有效应对难以预测的跨文化谈判，外交官必须构建一套丰富的交际策略储备，动态权衡微妙的语言模糊限制语与权威性陈述，而非一味依赖僵化死板的既定话术。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_08",
+    "group_id": 654,
+    "group_name": "repertoire, mound, fauna, corpus",
+    "level": "TEM-8",
+    "target_word": "mound",
+    "question": "Deep within the ancient necropolis, excavators uncovered a monumental ___ of limestone rubble and compressed earth, beneath which lay centuries of undisturbed funerary artifacts and fossilized animal remains.",
+    "options": [
+      "repertoire",
+      "mound",
+      "fauna",
+      "corpus"
+    ],
+    "answer": "mound",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic modifier 'monumental ___ of limestone rubble and compressed earth, beneath which lay...' strictly demands a physical, elevated archaeological heap or tumulus.",
+    "distractor_analysis": {
+      "mound": "【正确】指由泥土、碎石等堆砌而成的“土丘、石堆”，在考古学与人类学文献中专指覆盖在古墓或遗址之上的“土冢、封土堆”（an artificial hill or raised mass of earth/stones built over a grave）。此处与材料介词短语 of limestone rubble and compressed earth 以及方位从句 beneath which lay 构成无懈可击的物性与空间逻辑。",
+      "repertoire": "【排除】仅用于指代抽象层面的“技能储备、节目单、指令集”，无法指代任何由泥土与碎石构筑的具象物理堆积体，在句法和语义上均无法成立。",
+      "fauna": "【干扰项】指某一时空的“动物区系、动物群”。后文虽然提及 fossilized animal remains（动物化石遗骸），对考生具有强烈的局部词汇诱导，但空格处被形容词 monumental（巨大的）修饰且为物质组成 of rubble and earth 所限定，充当覆盖墓葬的土建结构，fauna 无法充当此类物理堆积实体。",
+      "corpus": "【干扰项】指“文集、语料库”或引申为“主体结构”。后文的 funerary artifacts（随葬品）可能诱使考生联想到出土的铭文辑录（corpus of inscriptions），但 corpus 无法指代由碎石和压实泥土堆垒而成的物理封土堆，属于词义滥用。"
+    },
+    "translation": "在这座古老的大型墓地深处，发掘人员发现了一处由石灰石碎石与压实泥土构筑的巨型土冢，其下方埋藏着数百年未受扰动的随葬器物与动物化石遗骸。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_09",
+    "group_id": 655,
+    "group_name": "respite, lull, lapse, blackout",
+    "level": "TEM-8",
+    "target_word": "respite",
+    "question": "Although the sabbatical provided a brief ___ from the grueling cognitive demands of academic administration, the professor found that her theoretical research still required intense intellectual exertion.",
+    "options": [
+      "respite",
+      "lull",
+      "lapse",
+      "blackout"
+    ],
+    "answer": "respite",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "固定介词搭配与语义指向双重锚点：句中空格后接介词短语 'from the grueling cognitive demands'（从繁重的认知负荷中……）。在四个选项中，仅有 respite 能与 from 构成权威固定搭配（respite from sth），表示从繁重、痛苦或消耗性的劳务中获得暂时的‘喘息、缓解’。lull 严格搭配介词 in（如 a lull in the fighting/conversation）；lapse 表‘失误、间歇’时通常搭配 of 或 in，接 from 时特指‘偏离道德规范或正轨’（如 lapse from grace）；blackout 指断电、昏厥或信息封锁，与 from 搭配表示获得缓解在句法和语义上均不成立。",
+    "distractor_analysis": {
+      "respite": "【正确】意为‘（从劳累、痛苦、压力中的）暂时的缓解、喘息’。句法上，'respite from sth' 是极具辨识度的固定学术与书面搭配；语义上，休假（sabbatical）为学者提供了从行政认知重负（grueling cognitive demands）中的‘短暂喘息’，与后半句转折（仍需高强度智力付出）在逻辑与语体上严丝合缝。",
+      "lull": "【错误】意为‘（活动、风暴或喧嚣中）暂时的平息、间歇’。其核心介词搭配为 in（如 'a lull in activity'），无法与 from 搭配构成表示‘从某项重负中获得解脱’的句式；此外，lull 侧重外部客观环境或活动强度的自然回落，而非主体主观上获得的调养性‘喘息’。",
+      "lapse": "【错误】意为‘小错、疏忽；（时间）流逝；陷入’。常用于 'a lapse of memory/time' 或 'a lapse in concentration'。若与 from 连用，通常表示‘背离原则、堕落’（如 a lapse from virtue），既破坏介词习惯，也严重背离句意逻辑。",
+      "blackout": "【错误】意为‘停电；暂时性意识丧失（晕厥）；信息新闻封锁’。既无法与介词 from 搭配表示‘休息/缓解’，在认知与学术语境下指代‘行政重负的暂歇’亦属于严重的语义范畴错配。"
+    },
+    "translation": "尽管学术休假让这位教授从大学行政工作繁重的认知负荷中获得了短暂的喘息，但她发现自己的理论研究仍然需要极高强度的智力投入。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_10",
+    "group_id": 655,
+    "group_name": "respite, lull, lapse, blackout",
+    "level": "TEM-8",
+    "target_word": "lull",
+    "question": "During an unexpected ___ in cognitive workload, operators frequently experience a sharp decline in situational awareness, rendering them dangerously unprepared for sudden operational anomalies.",
+    "options": [
+      "respite",
+      "lull",
+      "lapse",
+      "blackout"
+    ],
+    "answer": "lull",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "认知工效学专业搭配与介词选择锚点：句中空格处于 'an unexpected ___ in cognitive workload'（认知负荷意外……期间）结构中。lull 与介词 in 构成经典学术搭配（a lull in workload/activity），特指任务活动或负荷强度的‘暂时降低、间歇期’，且在人机工程与认知语境中常暗示一种导致人员放松警惕的‘虚假平静’（与后文 situational awareness 急剧下降致险完美呼应）。respite 搭配介词 from（表从痛苦中解脱），与 in 搭配不合规范且褒义色彩与句中事故隐患相斥；lapse 指人的注意力或判断力‘过失、滑坡’（lapse in attention/judgment），不能用来修饰客观的 workload；blackout 指彻底昏厥或断电，无法表示负荷的‘短暂减缓’。",
+    "distractor_analysis": {
+      "respite": "【错误】意为‘喘息、暂时的缓解’。语法上，respite 要求后接介词 from，不与 in 连用表示负荷的回落；语义上，respite 蕴含积极正面的解脱与疗愈色彩，而本句语境强调因负荷骤降导致操作员情境意识丧失（rendering them dangerously unprepared）的负面潜在危机，存在语用反差与搭配断裂。",
+      "lull": "【正确】意为‘（活动、声音或强度的）暂时平静、间歇’。在人机工程及认知心理学文献中，'a lull in workload' 是标准专业表达，指工作负荷的暂时波谷；其在语意上精确传递出使人产生麻痹心理的‘平静间歇’，与后文警觉度降低（sharp decline in situational awareness）形成严密的因果逻辑。",
+      "lapse": "【错误】意为‘失误、疏忽、走神’。常接介词 in，但其宾语必须是人的认知功能或伦理规范（如 a lapse in concentration/memory/judgment），而 'workload'（工作负荷）是客观任务指标，绝不能成为 lapse 的限定对象，属于词义搭配范畴错置。",
+      "blackout": "【错误】意为‘暂时性黑视/眩晕、意识完全丧失；大停电’。虽然属于认知医学词汇，但既不能与 'in cognitive workload' 构成搭配，也不能指代操作负荷强度的阶段性放缓或谷底。"
+    },
+    "translation": "在认知工作负荷出现意料之外的短暂间歇期，操作人员的情境意识往往会急剧下降，从而使他们在面对突发系统异常时极易猝不及防。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_11",
+    "group_id": 656,
+    "group_name": "reversion, lapse, flunk, relapse",
+    "level": "TEM-8",
+    "target_word": "reversion",
+    "question": "The longitudinal study demonstrated that acute cognitive fatigue prompted an unexpected ___ to archaic heuristic patterns, wherein subjects systematically defaulted to instinctual biases rather than deliberative analytical reasoning.",
+    "options": [
+      "reversion",
+      "lapse",
+      "flunk",
+      "relapse"
+    ],
+    "answer": "reversion",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocates uniquely with the preposition 'to' followed by 'archaic heuristic patterns' to denote a cognitive retreat to an earlier, primitive processing system, perfectly matching the semantic contrast with 'deliberative analytical reasoning'.",
+    "distractor_analysis": {
+      "reversion": "正确。reversion 指系统性地“回复、倒退至先前或更为原始的状态”（a return to a previous condition, practice, or state）。在认知科学与心理学语境中，常与介词 to 搭配构成“a reversion to...”（倒退回……模式），本句中与“archaic heuristic patterns”（陈旧的启发式模式）形成严密的句法和语义契合，对应后文的“defaulted to instinctual biases”（系统性退回本能偏见）。",
+      "lapse": "排除。lapse 作为名词指“微小的失误、瞬间的注意力或记忆缺失”（a momentary failure of concentration or memory），其常见介词搭配为 of/in（如 a lapse of concentration/in judgment），若作名词极少接 to，且无法表示认知系统整体“倒退回原始启发式模式”。",
+      "flunk": "排除。flunk 用作名词时属于非正式口语（informal/slang），意为“不及格、失败（尤指测验）”，其语体风格严重偏离学术刊物的严谨正式语域，且语法及语义均不符。",
+      "relapse": "排除。relapse 主要指疾病的“复发”或不良嗜好、道德恶习的“故态复萌”（a falling back into illness, crime, or vice），句法上通常与 into 连用（如 a relapse into bad habits），不用于指代从分析思维向启发式思维机制的理论性逆转。"
+    },
+    "translation": "该纵向研究表明，严重的认知疲劳会引发向陈旧启发式模式的意料之外的倒退，实验对象在此状态下会系统性地退回本能偏见，而非进行深思熟虑的分析性推理。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_12",
+    "group_id": 656,
+    "group_name": "reversion, lapse, flunk, relapse",
+    "level": "TEM-8",
+    "target_word": "lapse",
+    "question": "Although the seasoned air traffic controller possessed an impeccable safety record, a momentary ___ of attention during peak operational hours precipitated a perilous breach of airspace separation protocols.",
+    "options": [
+      "reversion",
+      "lapse",
+      "flunk",
+      "relapse"
+    ],
+    "answer": "lapse",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Forms the standard cognitive psychology collocation 'a momentary lapse of attention', denoting a fleeting failure in mental concentration that is syntactically anchored by the modifier 'momentary' and the post-modifying prepositional phrase 'of attention'.",
+    "distractor_analysis": {
+      "lapse": "正确。lapse 指“暂时的走神、小疏忽、疏漏”（a temporary or momentary failure of concentration, memory, or judgment）。在认知行为与人因工程语境中，“a momentary lapse of attention”（瞬间的注意力不集中/走神）是极其固定且地道的高阶搭配，准确揭示了空管员因短暂疏忽导致严重失误的情境。",
+      "reversion": "排除。reversion 强调系统向先前状态的“倒退、复归”，常与介词 to 搭配（如 reversion to type），不存在 *reversion of attention 的搭配，语义逻辑完全断裂。",
+      "flunk": "排除。flunk 意为“学业不及格、考试挂科”，纯属日常口语（informal），语体层级极低，根本无法在正式书面语境中与 of attention 搭配使用。",
+      "relapse": "排除。relapse 专指病情的恶化复发或恶习的死灰复燃，通常搭配 of a disease 或 a relapse into addiction，不能用来表示瞬间的、微观的“注意力中断”。"
+    },
+    "translation": "尽管这位经验丰富的空中交通管制员拥有无可挑剔的安全记录，但在运营高峰期瞬间出现的注意力涣散，依然导致了一起极其危险的领空隔离间距违规事件。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_13",
+    "group_id": 657,
+    "group_name": "rind, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "rind",
+    "question": "Cognitive anthropologists studying culinary categorization observe that consumers intuitively discard the bitter ___ of citrus fruits, failing to recognize that its dense cellular structure harbors essential oils and defensive phytochemicals.",
+    "options": [
+      "rind",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "rind",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational and definitional tie to 'bitter ___ of citrus fruits' whose 'dense cellular structure harbors essential oils', strictly requiring the botanical/culinary noun for thick outer skin.",
+    "distractor_analysis": {
+      "rind": "正确。名词，指果实（特别是柑橘类、瓜类）或奶酪、咸肉的坚硬天然外皮（the natural outer covering of food）。句中与‘bitter’（苦涩的）及‘citrus fruits’构成严密的专有搭配，完全契合后文‘dense cellular structure harbors essential oils’（致密细胞结构蕴含精油）的植物生物学与认知语境。",
+      "abrasive": "错误。作名词时指‘研磨剂、磨料’（如金刚砂、浮石粉），用于摩擦、平整或打磨物体表面。柑橘类水果不包含无机磨蚀剂，与生物外皮及精油载体的语境完全脱节。",
+      "undercut": "错误。作名词时指‘下切口、削球、下层肉’或商业上的‘减价竞争’，既无法修饰水果，也无法作为承受细胞结构分析的实体外皮，语义严重不通。",
+      "aggregate": "错误。作名词时指‘总计、聚集体’或建筑工程中的‘骨料、集料’。水果表皮绝非离散单元构成的‘聚集体’，无法与‘bitter ___ of citrus fruits’构成自然搭配。"
+    },
+    "translation": "研究饮食分类学的认知人类学家观察到，消费者往往会凭直觉丢弃柑橘类水果苦涩的厚外皮，却未能意识到其致密的细胞结构中蕴藏着精油与防御性植物化学成分。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_14",
+    "group_id": 657,
+    "group_name": "rind, abrasive, undercut, aggregate",
+    "level": "TEM-8",
+    "target_word": "abrasive",
+    "question": "Investigating prehistoric lapidary techniques, cognitive archaeologists demonstrated that early hominins deliberately selected quartz dust as a fine ___ to polish bone implements, reflecting advanced forethought and material mastery.",
+    "options": [
+      "rind",
+      "abrasive",
+      "undercut",
+      "aggregate"
+    ],
+    "answer": "abrasive",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Syntactic and functional collocation with 'selected quartz dust as a fine ___ to polish bone implements', definitively identifying a particulate polishing/grinding substance.",
+    "distractor_analysis": {
+      "abrasive": "正确。名词，指‘研磨剂、磨料’，即用于磨光、磨平或磨损坚硬表面的微粒物质。句中‘quartz dust’（石英粉尘）作为材料，与后文目的状语‘to polish bone implements’（打磨抛光骨质器具）构成不可替代的功能性搭配，‘fine abrasive’（精细研磨剂）属于物质文化与考古认知领域的标准术语。",
+      "rind": "错误。名词，指动植物或奶酪的外部硬皮，不能指代石英矿物粉末，更无法充当打磨骨器的加工介质。",
+      "undercut": "错误。名词，指切口、下部掏空结构或发型底切，属于空间形态名词，不能用来指称石英粉尘这种粉末状材料实体。",
+      "aggregate": "错误。作名词时在地质与工程领域专指‘集料、骨料’（如混凝土中充当骨架的砂石），其功能是提供结构性填充与体积稳定性，而非用于微观打磨与抛光的‘研磨剂’（abrasive），存在致命的技术功能错配。"
+    },
+    "translation": "在考察史前琢磨工艺时，认知考古学家证实早期古人类特意选用石英粉尘作为精细研磨剂来抛光骨质器具，这体现了极高的预见性与对材料特性的掌握。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_15",
+    "group_id": 658,
+    "group_name": "rocker, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "rocker",
+    "question": "To accommodate dynamic seismic displacement, the viaduct span was mounted upon an alloyed steel ___, whose precisely machined curved contour permits the superstructure to tilt back and forth smoothly without inducing fatal structural fatigue.",
+    "options": [
+      "rocker",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "rocker",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "The descriptive clause 'whose precisely machined curved contour permits the superstructure to tilt back and forth smoothly' directly mirrors the core definition of rocker ('a curved support that permits the supported object to rock to and fro'), strictly precluding stationary or rigid supports.",
+    "distractor_analysis": {
+      "rocker": "正确。rocker在此处指工程结构中的“弧形支座”或“摇轴支座”（a curved support that permits rocking/tilting motion），完美契合后文‘curved contour’（弧形轮廓）与‘tilt back and forth smoothly’（平稳往复摆动倾斜）的受力机理与动作特征。",
+      "pier": "错误。pier指桥墩或直立实心支柱，属于固定式重型垂直承重构件，其几何形态绝非允许往复摆动的‘curved contour’（弧形轮廓），无法满足抗震往复位移的语境要求。",
+      "brace": "错误。brace指斜撑、拉杆等“加固支架”，其核心工程功能是增加结构刚度并‘约束/限制变形’，与句中允许上部结构‘tilt back and forth smoothly’（自由平稳摆动以吸收位移）的力学意图完全相悖。",
+      "foothold": "错误。foothold指物理上的“立足点、攀爬抓脚处”或比喻意义上的“根据地、立足点”，属于非机械工程术语，在此处搭配alloyed steel完全属于语义错配。"
+    },
+    "translation": "为适应动态地震位移，该高架桥孔跨被安装于合金钢摇轴支座之上；其精密加工的弧形轮廓允许上部结构平稳往复倾斜，而不至于引发致命的结构疲劳。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_16",
+    "group_id": 658,
+    "group_name": "rocker, pier, brace, foothold",
+    "level": "TEM-8",
+    "target_word": "pier",
+    "question": "Hydraulic engineers sank the massive reinforced concrete ___ deep into the riverbed's bedrock, ensuring that the primary vertical support could withstand severe scouring from seasonal torrents without compromising the viaduct's equilibrium.",
+    "options": [
+      "rocker",
+      "pier",
+      "brace",
+      "foothold"
+    ],
+    "answer": "pier",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "Collocates with 'reinforced concrete', 'sank ... deep into the riverbed's bedrock', and the appositive 'primary vertical support' designed to withstand hydraulic 'scouring', uniquely defining a bridge pier.",
+    "distractor_analysis": {
+      "pier": "正确。pier在此指桥梁的“桥墩”（an upright vertical support for a bridge），与‘reinforced concrete’（钢筋混凝土）、‘sank ... into the riverbed’s bedrock’（沉入河床基岩）及后文‘primary vertical support’（主要垂直支承）形成绝对精确的工程专业搭配，且桥墩抗冲刷（scour）是水利工程典型课题。",
+      "rocker": "错误。rocker为弧形活动支座或摇轴，体积精巧且常为金属制造，绝不可能作为“深沉入河床基岩的巨型钢筋混凝土主要垂直支柱”。",
+      "brace": "错误。brace是起到斜向固定、辅助拉紧作用的“撑杆/支撑体”，绝非承担桥跨重量并深埋入河床基岩的‘primary vertical support’（主垂直承重墩）。",
+      "foothold": "错误。foothold仅表示攀登时的“脚踏处”或市场拓展中的“据点”，不可与‘reinforced concrete’及沉入基岩等重型土木施工搭配。"
+    },
+    "translation": "水利工程师将巨大的钢筋混凝土桥墩深沉入河床基岩之中，确保这一主要垂直支承构件能够抵御季节性洪流的剧烈冲刷，而不破坏高架桥的整体平衡。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_17",
+    "group_id": 659,
+    "group_name": "rosette, frill, ruffle, frontal",
+    "level": "TEM-8",
+    "target_word": "rosette",
+    "question": "Rather than viewing the commendation as ceremonial vanity, the chancellor accepted the silk ___ pinned to his lapel as an official badge of distinction, conferred for groundbreaking institutional research.",
+    "options": [
+      "rosette",
+      "frill",
+      "ruffle",
+      "frontal"
+    ],
+    "answer": "rosette",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "pinned to his lapel as an official badge of distinction, conferred for groundbreaking institutional research (决定性排他锚点：与作为佩戴在翻领上、代表官方嘉奖与荣誉的玫瑰结勋饰/徽章严格吻合，排他性极强)",
+    "distractor_analysis": {
+      "rosette": "正确。根据韦氏词典（Merriam-Webster），rosette 指 'an ornament or pattern resembling a rose that is worn as a badge of office or as recognition of having won an honor'（作为官职徽章或所获荣誉标志的玫瑰形丝带结/徽章）。句中由 'silk' 修饰，并有后置定语 'pinned to his lapel as an official badge of distinction'（佩戴在其翻领上作为官方卓越荣誉徽章），在构词内涵、实体语境与学术嘉奖语域中完全契合。",
+      "frill": "错误。frill 主要指衣物边缘褶皱花边，引申为‘不必要的修饰、奢华装饰物’（多用复数或与 no-frills 搭配）。它无法作为具象化、佩戴在翻领上代表特定荣誉称号的徽章（badge of distinction），语义与搭配严重断裂。",
+      "ruffle": "错误。ruffle 指（衣服袖口或领口的）连续褶皱花边，或引申为微波、轻微烦扰以及军鼓的隆隆声。它是一整条褶边饰物，无法独立作为一枚别在西装翻领上以示学术表彰的纪念徽章。",
+      "frontal": "错误。frontal 作名词时指祭坛前帘（an ornamental hanging for the front of an altar）或解剖学上的额骨。无论在词义、尺寸还是功能上，都根本无法用于‘别在翻领上作为荣誉徽章’的语境。"
+    },
+    "translation": "校长并未将这番嘉奖视作纯粹的仪式性虚荣，而是接受了别在其翻领上的丝质玫瑰结徽章；这是因开展开创性学术研究而授予他的官方杰出荣誉。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_18",
+    "group_id": 659,
+    "group_name": "rosette, frill, ruffle, frontal",
+    "level": "TEM-8",
+    "target_word": "frill",
+    "question": "The budget director insisted that subsidized campus childcare was not an extravagant ___, but an essential service required to ensure equitable retention rates among junior research fellows.",
+    "options": [
+      "rosette",
+      "frill",
+      "ruffle",
+      "frontal"
+    ],
+    "answer": "frill",
+    "primary_mechanism": "MECH_CONNOTATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "not an extravagant ___, but an essential service (决定性排他锚点：通过 not... but... 结构与 essential service 形成绝对语义对立，特指‘可有可无的奢侈品/非必需附加项’)",
+    "distractor_analysis": {
+      "rosette": "错误。rosette 指玫瑰形花饰或荣誉勋章，无‘非必要之奢侈项目’这一抽象比喻义，不能与 'essential service'（刚需基本服务）构成认知逻辑上的对比对立。",
+      "frill": "正确。根据韦氏词典，frill 的核心引申内涵为 'something that is desirable but not a necessity : LUXURY'（非必需的昂贵修饰、多余的享受或附加品）。句中 'not an extravagant frill, but an essential service' 构成高度纯正的高级英语对比逻辑链，精准表达校内托育补贴并非‘铺张浪费的可有可无之物’，而是不可或缺的基本保障。",
+      "ruffle": "错误。ruffle 在服装语境中指褶裥，在心理/认知语境中指‘心神不宁、涟漪’，没有任何词义引申可以表示‘不必要的附加奢侈品’，在此处逻辑上无法立足。",
+      "frontal": "错误。frontal 作名词指祭坛前帷缦或额骨，不能引申为‘奢侈额外之物’，代入句中造成语法与语义的双重荒谬。"
+    },
+    "translation": "预算主管坚称，校内托育补贴绝非铺张浪费的多余点缀，而是一项旨在保障青年研究人员公平留任率所不可或缺的基本服务。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_19",
+    "group_id": 660,
+    "group_name": "sag, furrow, crease, dimple",
+    "level": "TEM-8",
+    "target_word": "sag",
+    "question": "Neuroergonomic evaluations demonstrated that uninterrupted exposure to complex simulated flight scenarios induced a perceptible ___ in cognitive vigilance, markedly compromising the pilots' situational awareness and rapid decision-making capacity.",
+    "options": [
+      "sag",
+      "furrow",
+      "crease",
+      "dimple"
+    ],
+    "answer": "sag",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Collocational pattern 'a perceptible ___ in cognitive vigilance' requiring a noun denoting a decline, slump, or temporary drooping of mental stamina/energy.",
+    "distractor_analysis": {
+      "sag": "正确。sag 作名词时除表示物理上的下垂、凹陷外，在抽象认知和经济语境中常指“（精力、士气、警觉性或活力的）暂时衰退、下挫或低迷”，固定搭配为 a sag in vigilance/energy/morale/attention，完美契合后文因长时间飞行模拟而导致的认知警觉度下降。",
+      "furrow": "错误。furrow 作名词指犁沟或眉额间的深皱纹，通常与 brow/forehead 搭配，无法与介词短语 in cognitive vigilance 连用表示机能或水平的“下滑、衰减”。",
+      "crease": "错误。crease 主要指织物、纸张上的折痕或皮肤上的浅层皱褶，既无“性能下降/低潮”的抽象比喻义，也不与认知心理学术语搭配。",
+      "dimple": "错误。dimple 指酒窝或微小的凹斑，语义具象且多含正面审美色彩，完全无法融入神经工效学中关于认知衰退的严谨表述。"
+    },
+    "translation": "神经工效学评估表明，长时间持续暴露于复杂的模拟飞行场景中会导致认知警觉度出现明显的下滑，从而显著损害飞行员的态势感知与快速决策能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b65_20",
+    "group_id": 660,
+    "group_name": "sag, furrow, crease, dimple",
+    "level": "TEM-8",
+    "target_word": "furrow",
+    "question": "Observing the archival footage, the biographer noted the prominent ___ of perplexity etched across the logician's brow, which invariably accompanied his intense deliberation over unresolved formal paradoxes.",
+    "options": [
+      "sag",
+      "furrow",
+      "crease",
+      "dimple"
+    ],
+    "answer": "furrow",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "Idiomatic collocation 'the prominent ___ of perplexity etched across the logician's brow' denoting deep intellectual tension grooves.",
+    "distractor_analysis": {
+      "furrow": "正确。furrow 原指犁地翻出的一道道深沟，引申用于面部时，专指因沉思、忧虑、困惑或高度专注而在额头或眉间紧蹙形成的“深沟、深纹”。文学与学术英语中常构成固定的认知神态搭配（如 a furrow of perplexity/concentration etched across one's brow），完全契合逻辑学家深陷悖论思考时的神态描写。",
+      "sag": "错误。sag 作名词指下垂、凹陷或下陷的状态（如 skin sag 指皮肤松弛下垂），既不能用作计量单条面部皱纹的离散名词，也无法与 of perplexity 以及 across one's brow 形成合理的表意搭配。",
+      "crease": "错误。crease 主要指衣物、纸张等折叠压挤出的“褶痕”，用于面部时通常指衰老产生的细纹或眼角鱼尾纹（如 creases around the eyes），而在英语经典修辞中，指代深思或困惑在额头、眉宇间雕刻出的“紧蹙深纹”时，具有排他性专属搭配力的是 furrow 而非 crease。",
+      "dimple": "错误。dimple 专指笑靥、酒窝或浅显的圆凹，多见于脸颊或下巴，其解剖位置与传达的愉悦、甜美的情感色彩与句中严谨逻辑学家紧蹙双眉思考深奥悖论的语境完全相悖。"
+    },
+    "translation": "观察档案录像时，传记作者注意到了那位逻辑学家眉宇间深刻的困惑沟壑，这种神情总是伴随着他对悬而未决的形式悖论所进行的紧张深思。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]

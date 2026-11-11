@@ -1,0 +1,542 @@
+[
+  {
+    "id": "tem8_b52_01",
+    "group_id": 521,
+    "group_name": "viable, feasible, possible, practicable",
+    "level": "TEM-8",
+    "target_word": "viable",
+    "question": "Without continuous capital subsidies from the municipal government, financial analysts warned that the regional rail operator could not remain a ___ enterprise, inevitably collapsing under the crushing weight of maintenance deficits.",
+    "options": [
+      "viable",
+      "feasible",
+      "possible",
+      "practicable"
+    ],
+    "answer": "viable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The noun 'enterprise' combined with the existential threat 'remain a... enterprise, inevitably collapsing' decisively demands 'viable' (in its specific Merriam-Webster sense of 'financially sustainable / capable of independent survival as an entity'). The other options describe actions or plans, not self-sustaining entities.",
+    "distractor_analysis": {
+      "viable": "正确。viable源自生物学生命存活之意，引申至工商业与组织行为学时，专指企业、项目或实体“在经济上能自负盈亏、独立存续的”（financially sustainable / capable of maintaining independent existence）。韦氏词典明确保留其典型搭配即为‘a viable enterprise’。句中‘remain a ___ enterprise’与后半句‘collapsing under the crushing weight of maintenance deficits’（在维护亏损重压下崩溃）形成生死存亡的逻辑呼应，完全契合语境。",
+      "feasible": "错误。feasible核心义为“（计划、设想、项目）可执行的、行得通的”（capable of being done or carried out），修饰的对象通常是具体行动、工程计划或实施方案（如 a feasible plan/proposal）。一个已在实际运营的企业本身是一间实体，而非“待执行的计划”，不可称企业本身为‘feasible enterprise’，属于严重的搭配与语义范畴错配（category error）。",
+      "practicable": "错误。practicable强调“可实践的、适用的、可通行的”（capable of being put into practice or used），多用来修饰方法、路线、建议或程序（如 a practicable route/solution）。用其修饰商业机构（enterprise）既不合习惯用法，也无法表达“在财务上能够自给自足、避免破产”的核心概念。",
+      "possible": "错误。possible语义过于宽泛薄弱，仅表示客观上“可能的、潜在的”，在高级学术与财经语域中缺乏表征“具备自律性经济存续能力”的专业涵义，与‘remain a... enterprise’搭配语义空洞且不符合学术英语惯用法。"
+    },
+    "translation": "财务分析师警告称，若无来自市政府的持续资本补贴，该地区铁路运营商将无法维持为一个具备自我生存能力的商业实体，最终必将在高额维护亏损的沉重压力下走向瓦解。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_02",
+    "group_id": 521,
+    "group_name": "viable, feasible, possible, practicable",
+    "level": "TEM-8",
+    "target_word": "viable",
+    "question": "Ecological surveys revealed that while the reforested corridor made seasonal migration technically possible, it remained far too fragmented to sustain a genetically ___ population of brown bears over successive generations.",
+    "options": [
+      "viable",
+      "feasible",
+      "possible",
+      "practicable"
+    ],
+    "answer": "viable",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_BEHAVIOR",
+    "anchor_clue": "The fixed scientific collocation 'genetically viable population' (a population possessing sufficient genetic diversity to survive long-term without inbreeding depression) alongside 'sustain a... population... over successive generations' strictly selects 'viable'.",
+    "distractor_analysis": {
+      "viable": "正确。viable在此处考查其回归生命科学与生态学语境的本义：“（物种或胚胎）具备正常生长发育、繁殖并长期繁衍存活能力的”（capable of living, growing, or developing adequately）。在生态保护学与群体遗传学中，‘genetically viable population’（具遗传活力的可持续种群 / 最小存活种群）是绝对固定的学术术语，特指基因库足够丰富、能避免近亲繁殖衰退并世代延续的种群，与句末‘over successive generations’形成闭合印证。",
+      "feasible": "错误。feasible完全局限于人类活动、方案或工程的“可行性”，绝对无法用于修饰生物学基因特征或种群繁衍。‘genetically feasible population’在英语中是不成立的概念错位。",
+      "practicable": "错误。practicable表示“可付诸实行的、可操作的”，其修饰主体必然是手段、工艺或路径。生物群落的存在与繁衍无法被“put into practice”，因而不能与population或genetically连用。",
+      "possible": "错误。首先，前半句让步状语从句中已明示‘technically possible’，若主句再填入possible不仅构成拙劣的词汇重复，而且‘genetically possible population’并非正统生物学表述，完全丢失了“具有遗传繁殖活力、免于灭绝”的专业内涵。"
+    },
+    "translation": "生态调查表明，尽管人工再造的植被廊道使棕熊的季节性迁徙在技术上成为可能，但其破碎化程度依然严重，难以支撑该棕熊种群历经数代依然维持具备遗传繁衍活力的可持续规模。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_03",
+    "group_id": 522,
+    "group_name": "wizard, magic, magical, charming",
+    "level": "TEM-8",
+    "target_word": "wizard",
+    "question": "Long celebrated as a financial ___, the veteran portfolio manager was severely reprimanded by regulators after forensic audits revealed that his spectacular yields stemmed from illicit arbitrage rather than analytical prowess.",
+    "options": [
+      "wizard",
+      "magic",
+      "magical",
+      "charming"
+    ],
+    "answer": "wizard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_FINANCE",
+    "anchor_clue": "The canonical economic collocation 'financial wizard' (an exceptionally skilled investor), anchored syntactically by the singular countable agent noun requirement in 'as a financial ___' referring to the human subject 'the veteran portfolio manager', and semantically contrasted with 'illicit arbitrage rather than analytical prowess'.",
+    "distractor_analysis": {
+      "wizard": "正确。wizard在此处用作可数名词，表示“在特定领域展现出非凡才智与技能的人、行家里手、专家”（MW: a very clever or skillful person: a financial wizard）。在句法上，前置短语“as a financial ___”要求填入一个指代人类主体的单数可数名词以同位修饰主句主语“the veteran portfolio manager”；在搭配与语篇语义上，“financial wizard”（金融奇才）为财经权威期刊（如The Economist, FT）的标准搭配，且后文“analytical prowess”（分析造诣）与此形成明确的语意呼应。",
+      "magic": "错误。句法与词性不匹配。magic主要作为不可数抽象名词（表示“魔法、法术、魔力”）或定语名词（如magic bullet）。在句中修饰指代具体管理者的主语“portfolio manager”时，magic无法充当表示人的单数可数名词（英语中指人的对应词应为magician），产生严重的语法范畴错误。",
+      "magical": "错误。词性缺失导致句法残缺。magical为描述性形容词（意为“具有魔力的、奇异的”）。在不定冠词“a”与修饰性形容词“financial”之后，空缺处必须是该名词短语的核心名词（head noun），填入形容词magical会导致短语缺失中心名词，构成严重句法错误。",
+      "charming": "错误。句法功能与语义语域双重违背。charming为形容词（意为“迷人的、讨人喜欢的”），无法充当介词短语的中心名词。此外，其指向温和的人际审美情感，与后文“forensic audits”（司法审计）、“illicit arbitrage”（非法套利）等冷峻严谨的金融监管语境形成剧烈的风格冲突。"
+    },
+    "translation": "尽管长期被誉为金融奇才，但司法审计揭露其惊人收益源于非法套利而非卓越的分析才智后，这位资深投资组合经理遭到了监管机构的严厉惩戒。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_04",
+    "group_id": 522,
+    "group_name": "wizard, magic, magical, charming",
+    "level": "TEM-8",
+    "target_word": "wizard",
+    "question": "Universally acknowledged by macroeconomists as a financial ___, the central bank governor orchestrated an unorthodox liquidity injection that stabilized the teetering banking sector without igniting inflationary pressures.",
+    "options": [
+      "wizard",
+      "magic",
+      "magical",
+      "charming"
+    ],
+    "answer": "wizard",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_ECONOMICS",
+    "anchor_clue": "The appositive framing 'as a financial ___' directly identifying the human agent 'the central bank governor' strictly requires a singular countable noun denoting an expert of exceptional virtuosity, activating the established collocation 'financial wizard'.",
+    "distractor_analysis": {
+      "wizard": "正确。wizard在此作可数名词，表示“在特定领域拥有极高造诣或技能的专家、奇才”（Merriam-Webster: a very clever or skillful person）。在“as a financial ___”结构中，它作同位语指代后文的主语“央行行长（the central bank governor）”，且构成权威词典普遍收录的高频经典搭配“financial wizard”（金融奇才），无论在句法功能、语义搭配还是学术政经语体上均完全吻合。",
+      "magic": "错误。词性与语义范畴双重不符。magic作为名词通常是不可数名词，表示抽象的“魔力、魅力”或指代魔术戏法（illusion/trick），既不能在没有引申修辞下带不定冠词“a”直接指代具体的个人，也无法充当指代专业人士的施事名词，填入会导致严重的语法错误与范畴谬误。",
+      "magical": "错误。词性错误。magical为纯形容词，意为“有魔力的、不可思议的”，不能用在不定冠词与形容词“a financial”后充当名词短语的核心名词（head noun），导致语法结构残缺。",
+      "charming": "错误。词性与语境完全割裂。charming为形容词或现在分词，意为“迷人的、令人愉悦的”，既无法充当单数可数名词来指代人，其轻巧的情感色彩也与宏观金融危机干预、流动性注资等严谨冷峻的专业语境相去甚远。"
+    },
+    "translation": "作为被宏观经济学家们公认的金融奇才，这位央行行长精心策划了一套非常规的流动性注资方案，在没有引发通货膨胀压力的前提下，成功稳定了摇摇欲坠的银行业。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_05",
+    "group_id": 523,
+    "group_name": "adept, good, expert, proficient",
+    "level": "TEM-8",
+    "target_word": "adept",
+    "question": "Although notoriously uncomfortable with rigid bureaucratic hierarchies, the envoy proved remarkably socially ___, intuiting unspoken diplomatic sensitivities and navigating volatile factional disputes with an effortless tact that disarmed his fiercest critics.",
+    "options": [
+      "adept",
+      "good",
+      "expert",
+      "proficient"
+    ],
+    "answer": "adept",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_DIPLOMACY",
+    "anchor_clue": "句首让步状语指出该特使“notoriously uncomfortable with rigid bureaucratic hierarchies”（对僵化死板的官僚科层体制极其不适），主句则通过副词“socially”与后文分词短语“intuiting unspoken diplomatic sensitivities and navigating volatile factional disputes with an effortless tact”（凭借直觉洞察未予言明的敏感外交意图，以举重若轻的圆融手腕斡旋于动荡派系纷争之间）构建鲜明对照，描绘其在非程式化人际博弈中的极高敏锐度。根据Merriam-Webster与权威语料库辨析：1. “socially adept”是政治学、心理学与高阶学术政论中描写人际交往圆融敏锐、善于体察人心的经典固化搭配（是socially inept/awkward的直接反义表达）；2. “socially good”在英语中是特定价值判断短语，专指“造福社会的 / 具有公益性质的”（如socially good causes），作表语修饰个人交际手腕属于严重的语义范畴错误；3. expert侧重学术或特定学科层面的系统权威性（authoritative mastery），作形容词时不能与副词socially组合来表示“人际圆通”；4. proficient严格指经过刻苦操练（training and practice）在某一具体学科、规程或操作技能上达标，与不可编码的人际洞察与外交手腕截然相悖，“socially proficient”在此语境下搭配断裂。",
+    "distractor_analysis": {
+      "adept": "正确。Merriam-Webster明确指出“adept implies a natural or acquired aptitude for accomplishing something difficult or requiring cleverness or dexterity”，强调在应对复杂棘手、需要机巧或圆融手腕的局面时展现的敏锐天赋。“socially adept”是高阶英语中高度固化的权威搭配，与后文分词短语“intuiting unspoken diplomatic sensitivities”及“effortless tact”在语域、语义逻辑与修辞质感上皆高度吻合。",
+      "good": "错误。语义范畴与语体双重脱节。首先，副词socially修饰形容词good构成的“socially good”专用于表示“对社会有益的 / 增进公众福利的”（如socially good enterprises），无法用于指称个体的人际敏锐手腕；其次，good作为基础口语词汇，置于Foreign Affairs风格的高阶政论中存在显著的语域落差。",
+      "expert": "错误。语义侧重与搭配违背。根据权威词典辨析，expert作形容词核心强调在专门学术领域、科学或工艺技术上拥有经年累月积累的权威造诣（authoritative mastery resulting from specialized study）；在书面语中，形容人际交往精明圆熟时英语固定使用“socially adept”，而“socially expert”属于典型的搭配断裂（collocational rupture）。",
+      "proficient": "错误。语义特征与语境逻辑背离。Merriam-Webster指出“proficient implies a thorough competence derived from training and practice”，通常修饰语言、数学模型、仪器操纵等可通过规范化训练考核的技术规范。本句强调该特使反感死板条框，其外交能力源于非程式化的直觉洞察力（intuiting sensitivities）与非凡手腕（tact），并非后天规范化技术操练的产物，“socially proficient”在此处既不合句意逻辑，亦非合规搭配。"
+    },
+    "translation": "尽管这位特使对死板僵化的官僚层级体系出了名地难以适应，但他却表现出极其高超的人际圆融手腕，不仅能敏锐洞悉未予挑明的敏感外交意图，更能以举重若轻的分寸感斡旋于动荡的派系纷争之间，令其最苛刻的批评者也为之折服。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_06",
+    "group_id": 523,
+    "group_name": "adept, good, expert, proficient",
+    "level": "TEM-8",
+    "target_word": "adept",
+    "question": "Even before acquiring speech, preverbal infants prove remarkably ___ at parsing continuous acoustic streams into discrete words, an innate statistical capacity that precedes any formal training or conscious grammatical instruction.",
+    "options": [
+      "adept",
+      "good",
+      "expert",
+      "proficient"
+    ],
+    "answer": "adept",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的主体为“preverbal infants”（尚处于言语发生前的婴儿），且同位语部分明确界定该能力为“an innate statistical capacity that precedes any formal training or conscious grammatical instruction”（一种先于任何正规训练或自觉语法讲授的先天统计能力）。根据《韦氏词典》（Merriam-Webster）同义词辨析：proficient严格要求“competence derived from study and practice”（通过系统学习与后天实践获得的熟练精通），expert强调“acquired through specialized training or long experience”（经专门训练或长期经验积累的专家资质），二者均与“innate”（先天的）以及“precedes any formal training”（先于任何训练）构成无法调和的语义与认知逻辑冲突；good属于初阶口语词汇，在此严肃认知科学语境中存在严重的语体破裂（stylistic clash）；唯有adept的核心义涵为“implies a natural aptitude for an art or an activity”（强调先天具备的悟性、天赋或处理机巧），且“adept at parsing...”构成了发展语言学文献中的经典学术表达。",
+    "distractor_analysis": {
+      "adept": "正确。根据《韦氏词典》，adept侧重于“natural aptitude”（天赋悟性与敏锐的机巧）。句中描绘前言语期婴儿尚未接受过任何后天训练即展现出的认知能力，精确契合“先天机巧/资质”这一语义核心；此外，在认知心理学与发展语言学权威文本中，“be adept at doing sth”是表述婴儿及灵长类动物具备本能认知分辨能力的标准学术搭配。",
+      "good": "错误。good虽然在语法上可接介词at，但属于基础日常口语词汇（CEFR A1-A2级），置于由“parsing continuous acoustic streams into discrete words”构成的严谨认知神经语言学学术语境中，会产生严重的语体降格与文体断层（stylistic clash），不符合TEM-8学术语篇的用词水准。",
+      "expert": "错误。根据《韦氏词典》，expert作形容词时核心义为“having or showing extraordinary skill and knowledge acquired through specialized training or long experience”（通过专门训练或长期经验积累而展现的专家级技能）。前言语期的婴儿毫无经验积累或专业受训可言，使用expert不仅在逻辑上产生概念错位，更违背了后文“precedes any formal training”的限制条件。",
+      "proficient": "错误。《韦氏词典》明确指出：“PROFICIENT implies a thorough competence derived from study and practice”（proficient强调通过刻苦研习与反复实践训练而达到的精通熟练）。句中同位语已明确交代该能力是“innate”（先天的）且“precedes any formal training or conscious grammatical instruction”（先于任何正规训练或自觉语法讲授），选入proficient会导致前后逻辑直接相悖。"
+    },
+    "translation": "甚至在习得言语之前，前言语期的婴儿就展现出将连续声学流切分为离散词汇的惊人天赋，这是一种先于任何正规训练或自觉语法讲授的先天统计认知能力。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_07",
+    "group_id": 524,
+    "group_name": "adjunct, accessory, auxiliary, supportive",
+    "level": "TEM-8",
+    "target_word": "adjunct",
+    "question": "Confronted by relentless budgetary austerity, modern universities have increasingly replaced tenure-track lines with precarious ___ appointments, prompting widespread concern over instructional stability and the gradual disenfranchisement of junior scholars.",
+    "options": [
+      "adjunct",
+      "accessory",
+      "auxiliary",
+      "supportive"
+    ],
+    "answer": "adjunct",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中构建了高等教育学术劳工体系的经典二元对立：“replaced tenure-track lines with precarious ___ appointments”（以不稳定的……教职取代终身教职编制）。在高校人事聘任体制中，专指非终身轨、合同制编外兼任教职的法定术语为“adjunct appointments”（或 adjunct faculty/posts），该搭配在此语境下具有绝对排他性。",
+    "distractor_analysis": {
+      "adjunct": "正确。作定语修饰 appointments 时，意为“（大学教职等）编外的、兼任的、临时聘用的”，构成学术雇佣制度中的核心术语“adjunct appointments”（编外兼聘职位），与前文的“tenure-track lines”（终身轨编制）形成精确且不可替代的体制对立，极具批判性学术论述质感。",
+      "accessory": "错误。该词主要用于法学语境指“从犯的、帮凶的”，或用于器物、服饰领域指“附加的、附件的”（如 accessory equipment），绝不能用于修饰高校学术教职类别，构成严重的搭配断裂（collocational rupture）。",
+      "auxiliary": "错误。该词多指后勤服务、应急支援队伍（如 auxiliary police/nurses）或辅助备用设备（如 auxiliary power），英美大学人事编制中指代非终身轨兼职授课人员的标准法定术语是 adjunct 而非 auxiliary。",
+      "supportive": "错误。该词属于情感与态度评价形容词，意为“支持性的、给予鼓励或抚慰的”（如 supportive environment），既无法充当界定学术编制种类的定语，亦与句中描述教职脆弱性的“precarious”在语义逻辑上产生断裂。"
+    },
+    "translation": "面对严峻的预算紧缩，现代大学日益以朝不保夕的编外兼聘职位取代终身教职编制，这引发了人们对教学稳定性以及青年学者逐步被边缘化的普遍担忧。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_08",
+    "group_id": 524,
+    "group_name": "adjunct, accessory, auxiliary, supportive",
+    "level": "TEM-8",
+    "target_word": "adjunct",
+    "question": "Rejecting broad semantic generalizations, the syntactician argued that whereas arguments are obligatorily selected by a lexical head, ___ constituents serve merely as optional modifiers that can be freely omitted.",
+    "options": [
+      "adjunct",
+      "accessory",
+      "auxiliary",
+      "supportive"
+    ],
+    "answer": "adjunct",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_STANCE",
+    "anchor_clue": "句中依托形式句法学的核心理论范畴构建严密对立：“whereas arguments are obligatorily selected by a lexical head, ___ constituents serve merely as optional modifiers”（论元受词汇中心语强制选择，而……成分仅充当可随意省略的修饰语）。在生成语法中，与核心强制性“论元”（argument）相对立、指代可选非核心句法修饰成分的专属术语即为“adjunct constituents”（附加成分）。",
+    "distractor_analysis": {
+      "adjunct": "正确。在理论语言学与形式句法学中，adjunct（附加语/附加成分）是与 argument（论元）严格对立的专门术语，作定语修饰 constituents 指不受中心语次范畴化限制、在结构上可自由增删而不影响句式合法性的修饰性成分，完全契合题干的理论界定。",
+      "accessory": "错误。该词属于法律学与日常器物附件概念，在形式句法理论中根本不存在所谓“accessory constituents”这一术语，属于学科范畴误用。",
+      "auxiliary": "错误。在语言学中，auxiliary 严格专指助动词（auxiliary verbs），用以承载时态、体貌或语态，不能用来指称在短语结构中提供时间、地点等修饰性信息的附加语成分（adjuncts）。",
+      "supportive": "错误。该词为描述性/心理态度形容词，意为“支持性的”，完全脱离理论语言学结构分析的概念框架，不能作为句法成分分类的学术术语。"
+    },
+    "translation": "句法学家摒弃了宽泛的语义概括，指出论元受到词汇中心语的强制选择，而附加成分仅仅充当可选的修饰语，即便随意省略也不会影响句式完整性。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_09",
+    "group_id": 525,
+    "group_name": "auspicious, rosy, bright, hopeful",
+    "level": "TEM-8",
+    "target_word": "auspicious",
+    "question": "Despite the treaty’s seemingly ___ inauguration, celebrated with grand diplomatic fanfare and reciprocal trade concessions, latent ideological rifts quickly resurfaced to undermine the fragile geopolitical compromise.",
+    "options": [
+      "auspicious",
+      "rosy",
+      "bright",
+      "hopeful"
+    ],
+    "answer": "auspicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The noun 'inauguration' denotes a formal beginning or ceremonial launch. Among the options, only 'auspicious' carries the specific lexicographical meaning of 'attended by good auspices; showing or suggesting future success at the outset of an undertaking' and regularly collocates with inception nouns (e.g., auspicious beginning/debut/inauguration).",
+    "distractor_analysis": {
+      "auspicious": "正确。意为“吉利的，开局良好并预示成功的”（showing or suggesting that future success is likely; propitious）。在外交与政经的高阶书面语中，常与表示开端、启动或典礼的词汇（如 beginning, debut, inauguration）构成强搭配。此处精准概括条约在隆重仪式与互惠让步中所展现的“大吉开局”。",
+      "rosy": "错误。意为“乐观的，玫瑰色的”，侧重对未来局势或前景抱有积极甚至盲目乐观的推演或描摹，核心搭配对象为抽象的认知模型与展望词汇（如 rosy outlook, rosy picture, rosy projection），与具有典礼性、开端性的具体事件名词 inauguration 存在严重的搭配断裂。",
+      "bright": "错误。意为“明亮的，光明的，有希望的”，通俗度高且多修饰长期前途（如 bright future, bright prospects）或智力表征（bright child），不能用于正式政经语境中修饰制度性启动仪式（inauguration），语域风格不符且缺乏“吉兆昭示良好开端”的内涵。",
+      "hopeful": "错误。意为“抱有希望的，给人希望的”，其施事主语通常为有意识的人（如 hopeful diplomats），或修饰具有指示性、表征微弱可能性的线索（如 a hopeful sign）。用以修饰条约的正式启动仪式（inauguration）既不符合地道英语搭配规范，也无法表达“吉兆显著、预兆成功”的客观仪典色彩。"
+    },
+    "translation": "尽管该条约在隆重的外交盛况和互惠贸易让步中看似迎来了吉兆祥和的开局，但潜在的意识形态分歧很快重新浮现，削弱了这一脆弱的地缘政治妥协。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_10",
+    "group_id": 525,
+    "group_name": "auspicious, rosy, bright, hopeful",
+    "level": "TEM-8",
+    "target_word": "auspicious",
+    "question": "Mounting sovereign debt and persistent industrial strikes convinced the treasury that the impending fiscal quarter was scarcely the most ___ juncture to implement stringent austerity measures.",
+    "options": [
+      "auspicious",
+      "rosy",
+      "bright",
+      "hopeful"
+    ],
+    "answer": "auspicious",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "The construction 'scarcely the most ___ juncture to implement...' requires an adjective denoting favorable, opportune circumstances or propitious timing for embarking on a difficult enterprise. 'Auspicious juncture/moment' is an established academic collocation signifying an advantageous, well-omened time.",
+    "distractor_analysis": {
+      "auspicious": "正确。意为“有利的，适宜的，预示成功的”（favorable, propitious）。在此处与 formal noun 'juncture'（重大关头/特定时点）连用，构成高级政经英语中极其典雅的标准句式 'not/scarcely the most auspicious juncture to do sth.'，准确表达当前严峻形势绝非推行财政紧缩政策的“良机/有利契机”。",
+      "rosy": "错误。意为“乐观的”，侧重于被描绘出的美好前景或主观预期（如 a rosy forecast），无法形容某个具体的时间决策关头（juncture），在英语中不存在 'a rosy juncture' 这种修饰搭配，语义范畴不匹配。",
+      "bright": "错误。意为“前途光明的”，修饰时间或时机时通常只能作表语指天色明亮，或构成 'bright spot'（亮点），不能用于修饰抽象的时间关节点词 juncture 来表达“时机适宜、条件有利”，造成语域不协调与语义错位。",
+      "hopeful": "错误。意为“充满希望的，怀有期盼的”，侧重于主体心理状态（如 a hopeful mood）或表示带来希望的初始信号（a hopeful sign/development），不能用于形容客观时间节点是否具备政策落地的利好天时，无法表达 'opportune/propitious'（有利时机）的含义。"
+    },
+    "translation": "不断攀升的主权债务与持续不断的工潮使财政部深信，即将到来的财政季度绝非实施严厉紧缩政策的最适宜关头。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_11",
+    "group_id": 526,
+    "group_name": "bountiful, big, liberal, handsome",
+    "level": "TEM-8",
+    "target_word": "bountiful",
+    "question": "Refuting assumptions of chronic prehistoric deprivation, archaeological evidence demonstrates that the coastal foragers thrived by relying on a ___ nature, whose unremitting ecological wealth furnished abundant sustenance without necessitating the arduous adoption of agriculture.",
+    "options": [
+      "bountiful",
+      "big",
+      "liberal",
+      "handsome"
+    ],
+    "answer": "bountiful",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_ANTHROPOLOGY",
+    "anchor_clue": "定语从句中的“whose unremitting ecological wealth furnished abundant sustenance”（其源源不断的生态财富提供了充沛的生存资料）精准对应了《韦氏词典》（Merriam-Webster）对该同义词辨析的核心释义：“BOUNTIFUL suggests lavish, unremitting giving or providing: children who were grateful for a bountiful nature”。在此学术人类学语境中，唯一能够修饰作为生态施予者（natural provider）之“nature”并表达“慷慨丰饶、源源不断提供自然物产”的词唯有“bountiful”。",
+    "distractor_analysis": {
+      "bountiful": "正确。意为“丰产的、慷慨施予的、丰沛的”。《韦氏词典》同义词辨析明确指出：“bountiful 强调大量、持续不断的给予或供给（lavish, unremitting giving or providing）”，并列出标准例证“grateful for a bountiful nature”（感恩于大自然的慷慨馈赠）。本句定语从句中“unremitting... furnished abundant sustenance”正是该词词典释义的具象化再现，语义与搭配均严丝合缝。",
+      "big": "错误。属于基础口语用词，主要表示物理尺寸、体积或一般规模。在高度书面化的学术考古学语境中与“nature”搭配存在严重的语域冲突（register clash），且完全无法表达生态繁茂或持续提供物质资料的深层语义。",
+      "liberal": "错误。《韦氏词典》指出该词侧重于人施舍钱财、帮助时的开明慷慨（如 a liberal employer）或施加药剂、配料时的分量充足（如 liberal doses）。当“liberal”与“nature”构成搭配时，只能指人具有“宽宏大度、心胸开阔的品性/性格”（temperament），绝对不能用于指代自然界或生态环境的丰饶产出，造成范畴谬误。",
+      "handsome": "错误。《韦氏词典》同义词辨析强调，当“handsome”表示“可观的、丰厚的”时，其修饰对象严格限定于“被给予、提供或获取的事物本身”（something offered, given, or gained），如 a handsome fortune、handsome rewards、a handsome harvest（作为收获物）。它不能用于修饰作为源头或施予者的自然环境（nature）；若强行构成“a handsome nature”，在英语中仅能指“美好的品行”，与后文的生态物产产出产生逻辑断裂。"
+    },
+    "translation": "考古证据推翻了史前时代必然陷入长期匮乏的假说，证明沿海采集狩猎群体依靠大自然的慷慨馈赠繁衍生息；自然界源源不断的生态财富为他们提供了充足的生存物资，使他们无需经历艰难的农业驯化历程。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_12",
+    "group_id": 526,
+    "group_name": "bountiful, big, liberal, handsome",
+    "level": "TEM-8",
+    "target_word": "bountiful",
+    "question": "Cognitive ecologists studying avian spatial memory demonstrated that scrub jays inhabiting a ___ environment recalled thousands of cache locations with exceptional fidelity, disproving the assumption that resource abundance degrades mnemonic precision.",
+    "options": [
+      "bountiful",
+      "big",
+      "liberal",
+      "handsome"
+    ],
+    "answer": "bountiful",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句尾同位语从句中的“resource abundance”（资源充沛/丰足）是决定性的语义复现锚点，直接界定了该环境所具备的“物产丰富、给养充裕”特性。修饰生态栖息地或自然环境的物产丰富，唯有“bountiful”符合生态学语境；“liberal”用于环境时仅指政治或社会风气开明自由，构成范畴谬误；“handsome”仅形容容貌或金钱数额；“big”仅表物理空间范围且语体口语化。",
+    "distractor_analysis": {
+      "bountiful": "正确。意为“丰富充裕的、慷慨赐予的”，专指自然、土地或生态系统慷慨产出充足的食物或生存给养。与后文破除的假设“resource abundance degrades mnemonic precision”形成严密的语义照应，完美契合生态认知学的学术语境。",
+      "big": "错误。仅表示宏观物理尺寸、几何体量或广阔空间（如 a big area/forest），无法表达食物给养丰沛（resource-rich）之义，且在学术论文语境中格调低矮。",
+      "liberal": "错误。当修饰“environment”时，其固定含义为“政治开明或思想宽容的社会环境”，修饰鸟类（scrub jays）的自然生态生境属于荒谬的范畴错配（category mistake）。",
+      "handsome": "错误。含义为“英俊美观的”或“（金钱报酬）可观的”，在语义和搭配上均不可用来修饰自然生态环境。"
+    },
+    "translation": "研究鸟类空间记忆的认知生态学家证实，栖息在物产丰裕环境中的灌丛鸦能够以极高的精准度回忆起数千处储藏点的位置，从而推翻了“资源丰富会削弱记忆精度”的既有假设。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_13",
+    "group_id": 527,
+    "group_name": "chic, smart, stylish, fashionable",
+    "level": "TEM-8",
+    "target_word": "chic",
+    "question": "The retrospective demonstrated that the couturier's enduring legacy stemmed from an effortless ___, which seamlessly balanced utilitarian minimalism with exquisite craftsmanship while deliberately eschewing the ostentatious vulgarity of seasonal runway fads.",
+    "options": [
+      "chic",
+      "smart",
+      "stylish",
+      "fashionable"
+    ],
+    "answer": "chic",
+    "primary_mechanism": "MECH_SYNTAX",
+    "field": "FIELD_AESTHETICS",
+    "anchor_clue": "句法环境构成决定性排他锚点。空格前置不定冠词与修饰性形容词“an effortless”，后接关系代词which引导的非限制性定语从句，结构上要求填入一个能够充当名词短语核心（head noun）且表征高级审美格调的不可数抽象名词。在所给四个选项中，stylish与fashionable均为纯粹的派生形容词（名词形式分别为stylishness与fashion/fashionableness）；smart主要作形容词，其作名词时仅指刺痛或复数形式（smarts）表示才智。唯有chic兼具形容词与名词词性（在《韦氏词典》中名词词条列于首位），指代“smart elegance and sophistication”，且与effortless构成高定时尚批评领域的经典搭配（effortless chic），因此在句法和语意上均具有不可替代的唯一性。",
+    "distractor_analysis": {
+      "chic": "正确。根据《韦氏词典》，chic在英语中既可作形容词，亦为历史悠久的高级抽象名词（源自法语，首见于1856年），核心语义为“smart elegance and sophistication especially of dress or manner（服饰或风度中干练利落的高雅与洗练格调）”。此处作为名词核心构成经典搭配“an effortless chic（浑然天成的别致典雅）”，不仅完美契合句法要求，且精准呼应后文“平衡实用主义极简与精湛工艺、摒弃秀场浮华”的设计哲学。",
+      "smart": "错误。smart在现代英语中绝大多数情况下作形容词使用（意为“整洁利落的”或“聪颖的”）。当其作为名词时，语义严格限定为“肉体或精神的剧烈刺痛（a stinging localized pain）”，或在口语非正式语体中以复数形式smarts表示“机智、才智（street smarts）”。将其置于“an effortless ___”中充当表征审美雅致的名词，既造成严重的句法功能错配，语意逻辑也完全无法成立。",
+      "stylish": "错误。stylish为纯粹的形容词（意为“符合特定风格的、有风采的”），其对应的抽象名词形式必须为stylishness。本句空格处于“冠词 + 形容词 + 名词核心”的语法槽位中，必须由名词承载后方定语从句的修饰关系。填入形容词stylish会导致名词短语缺失中心语，构成严重的句法破格。",
+      "fashionable": "错误。fashionable同样为派生形容词（意为“合乎流行风尚的”），偶尔在特定历史文学语体中以复数名词the fashionables指代“时髦社交界人士”，但绝对不能作为不可数抽象名词指代“时髦、风尚本身”（其名词形式应为fashion或fashionableness）。将其填入空格同样破坏了“an effortless ___”的名词短语结构，产生直接的语法错误。"
+    },
+    "translation": "该回顾展表明，这位时装大师历久弥新的深远影响源于一种浑然天成的别致典雅——它将实用主义的极简风格与精湛绝伦的手工技艺天衣无缝地融为一体，同时审慎地摒弃了当季秀场风潮那种浮夸庸俗的喧嚣。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_14",
+    "group_id": 527,
+    "group_name": "chic, smart, stylish, fashionable",
+    "level": "TEM-8",
+    "target_word": "chic",
+    "question": "Dismissing the drawing-room activism of the salon, the political theorist characterized their ostentatious patronage of militant insurgencies as mere radical ___, an ideological pose that offered social cachet without genuine sacrifice.",
+    "options": [
+      "chic",
+      "smart",
+      "stylish",
+      "fashionable"
+    ],
+    "answer": "chic",
+    "primary_mechanism": "MECH_COLLOCATION",
+    "field": "FIELD_SOCIOLOGY",
+    "anchor_clue": "句中“mere radical ___”与后文同位语“an ideological pose that offered social cachet without genuine sacrifice”构成了无可辩驳的决定性排他锚点。在政治社会学与文化批评语域中，“radical chic”（激进时髦）是一个由汤姆·沃尔夫（Tom Wolfe）首创、被《韦氏词典》（Merriam-Webster）与《牛津英语词典》（OED）正式收录的专有名词与固定学术概念，专指特权阶层为博取声誉而摆出附庸激进革命运动的虚伪姿态。同时，在句法层面，“mere radical [___]”要求一个不可数抽象名词作介词as的宾语中心语，四项中仅有chic兼具名词词性，其余三词均为纯形容词，代入后均出现致命句法失配与严重搭配断裂。",
+    "distractor_analysis": {
+      "chic": "正确。chic不仅作形容词，亦是标准的抽象名词（意为“时髦、别致、风尚”）。在学术批评语境中，“radical chic”是具有固定词典释义的专门术语（Merriam-Webster: fashionable affectation of radical or revolutionary socio-political views），与句中“ostentatious patronage of militant insurgencies（高调赞助激进暴动）”及“ideological pose... social cachet（换取社交资本的意识形态姿态）”完美契合，兼具严格的句法适配与专有搭配排他性。",
+      "smart": "错误。smart在现代英语中主要为形容词，其表示“精明、整洁、时髦”的对应抽象名词为smartness（口语中smarts仅表示智慧机智，为复数名词）。将其置于“mere radical ___”中作单数名词短语中心语属于语法范畴错误；且英语学术语境中绝无“radical smart”这一概念搭配。",
+      "stylish": "错误。stylish纯属形容词（意为“具有鲜明风格的、时髦的”），其名词形式必须派生为stylishness。将其填入“mere radical ___”直接违反了名词性中心语的句法要求；同时“radical stylish”在社会政治语篇中属于严重的搭配断裂（collocational rupture）。",
+      "fashionable": "错误。fashionable是形容词（名流阶层虽偶用the fashionables指人，但不可作抽象风格名词），其对应的抽象名词应为fashionableness或fashionability。代入句中造成语法结构崩塌；政治哲学与社会学文献中亦不存在“radical fashionable”这一表达。"
+    },
+    "translation": "这位政治理论家对沙龙内部的‘客厅激进主义’嗤之以鼻，将他们对激进暴动的高调资助斥为纯粹的‘激进时髦’（radical chic）——一种既能捞取社交资本又无须付出实际牺牲的意识形态姿态。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_15",
+    "group_id": 528,
+    "group_name": "constituent, organic, essential, constitutional",
+    "level": "TEM-8",
+    "target_word": "constituent",
+    "question": "Cognitive theorists maintain that complex mental representations must be parsed into their ___ elements, demonstrating that overall semantic meaning is fully determined by the discrete conceptual units that compose the aggregate structure.",
+    "options": [
+      "constituent",
+      "organic",
+      "essential",
+      "constitutional"
+    ],
+    "answer": "constituent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中关键短语 'parsed into their ___ elements'（分解为其……要素）与后半句的组合性解释 'the discrete conceptual units that compose the aggregate structure'（构成聚合结构的各个离散概念单元）形成严格的形式语义学与认知科学锚定。此处必须填入表示“构成局部的”、“组成的”（component / serving to form a whole）的形容词。只有 constituent 精准表达部分与整体的生成构造关系；organic（有机的）强调天然生命体式的不可分割性，与离散解析（parsed / discrete）相悖；essential（本质的、不可或缺的）侧重必要性而非构造性；constitutional 则指体质的或宪法的，无成分构造之义。",
+    "distractor_analysis": {
+      "constituent": "正确。作形容词时意为“构成的，组成的”（serving to form, compose, or make up a unit or whole）。在认知语言学和分析哲学中，constituent elements 是指构成复合表征的“组分要素”，与后文 'compose the aggregate structure' 形成严密的词汇学照应。",
+      "organic": "错误。意为“有机的、器官的、整体协同的”。其哲学语境常指不可机械拆分的有机整体（organic whole），与句中将其“解析为离散单元”（parsed into discrete units）的还原论表述产生明显的语义与逻辑冲突。",
+      "essential": "错误。意为“必不可少的、本质的”（indispensable, fundamental）。语义分析将表征拆解为其所有“组成成分”（不论是核心的还是附加的修饰性成分），而非仅仅筛选出“不可或缺的”成分，故用词偏离了句意中的部分-整体构造关系（mereological relation）。",
+      "constitutional": "错误。意为“体质的、本质构成的、宪法的”。韦氏词典指出其主要指个体的身体构造或心理素质（in the structure of something, especially physical makeup）或政法宪章，不能用来修饰抽象认知命题中的可拆分构件。"
+    },
+    "translation": "认知理论家主张，复杂的心理表征必须被分解为其组分要素，以证明整体语义完全由构成该聚合结构的各个离散概念单元所决定。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_16",
+    "group_id": 528,
+    "group_name": "constituent, organic, essential, constitutional",
+    "level": "TEM-8",
+    "target_word": "constituent",
+    "question": "Rather than treating human consciousness as an irreducible monolith, cognitive philosophers conceptualize it as an aggregate of ___ states, each contributing its particular qualitative character to the unified subjective experience.",
+    "options": [
+      "constituent",
+      "organic",
+      "essential",
+      "constitutional"
+    ],
+    "answer": "constituent",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首对比结构 'Rather than treating human consciousness as an irreducible monolith'（与其将人类意识视为不可分割的单一巨石）与 'an aggregate of ___ states'（由……状态组成的聚集体）形成决定性排他。后文 'each contributing its particular qualitative character to the unified subjective experience' 阐释各局部状态对整体经验的合成作用，严格要求填入表示“作为组成部分的”形容词。constituent states 专指构成整体意识流的“组成状态”；organic states 在心身哲学中专指器质性病理状态，且 organic 与 aggregate 概念对立；essential 强调本质必要性，排除了瞬时偶发的感知体验；constitutional 专指生理体格或政宪，均无法成立。",
+    "distractor_analysis": {
+      "constituent": "正确。作形容词表示“组成的、构成的”（forming a part of a whole; component）。与 aggregate（聚合体）搭配，constituent states 准确描绘了心灵哲学中由多元成分状态聚合成统一主观体验的束理论（bundle theory）模型。",
+      "organic": "错误。意为“器质性的、有机体性的”。在心智与医学认知领域，organic states 特指由脑部器质性病变引起的生理状态（区别于功能性心理状态），此处会引发严重的范畴错置（category mistake）；此外，organic whole 概念上与 aggregate（机械聚合体）直接对立。",
+      "essential": "错误。意为“本质的、绝对必要的”。统一的主观体验由无数连续的、偶发的乃至微不足道的知觉状态（如暂时的背景杂音感）所构成，这些状态绝非都是意识本质所“必不可少”的（not essential），但它们在当下确实是“构成”该经验的组分（constituent）。",
+      "constitutional": "错误。意为“体格上的、天生体制的、宪法上的”。通常用于描述人的先天体质弱点（constitutional weakness）或政治建制，绝不能用于指代转瞬即逝的主观心理成分状态。"
+    },
+    "translation": "认知哲学家并未将人类意识视为不可拆分的铁板一块，而是将其概念化为一个由诸组分状态构成的聚合体，每种状态都将其特有的质性特征赋予这统一的主观体验之中。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_17",
+    "group_id": 529,
+    "group_name": "definitive, classic, standard, classical",
+    "level": "TEM-8",
+    "target_word": "definitive",
+    "question": "After decades of contentious historiographical debate, Professor Vance’s exhaustive archival monograph has emerged as the ___ study of the Weimar collapse, leaving virtually no room for further evidentiary dispute.",
+    "options": [
+      "definitive",
+      "classic",
+      "standard",
+      "classical"
+    ],
+    "answer": "definitive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中的'exhaustive archival monograph'（详尽的档案专著）以及结果状语'leaving virtually no room for further evidentiary dispute'（几乎未给进一步的证据争议留下空间）构成强语义锚点，要求填入一个表示'具有公认权威性、排他性且具有终局结论意义'的形容词。",
+    "distractor_analysis": {
+      "definitive": "正确。definitive 强调“权威完整的、决定性的、终结争议的”（authoritative, exhaustive, and conclusive），与 study 搭配构成 definitive study，特指某领域内盖棺定论、无可撼动的权威之作，与后文彻底消除证据分歧的语境严丝合缝。",
+      "classic": "错误。classic 指“经典的、典范的”或“典型的、第一流的”，侧重于经受时间检验的范例地位，但并不包含“提供最终结论、排除所有后续实证争论”的终局性语意；一部经典的著作依然可以存在巨大的史料争议。",
+      "standard": "错误。standard 意为“标准的、常规的、通行的”，侧重于符合公认的基准或常规规范（如 standard reference），无法体现该研究“穷尽史料、终结学界数十年争鸣”的压倒性权威。",
+      "classical": "错误。classical 严格指代古希腊罗马古典时期的，或指遵循传统经典体系的（如 classical mechanics），修饰现代关于魏玛共和国崩溃的历史学术研究属于严重范畴错位。"
+    },
+    "translation": "在经历了数十年激烈的史学争论之后，万斯教授详尽的档案专著已成为关于魏玛共和国崩溃的权威定论之作，几乎没有为进一步的证据争议留下任何空间。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_18",
+    "group_id": 529,
+    "group_name": "definitive, classic, standard, classical",
+    "level": "TEM-8",
+    "target_word": "definitive",
+    "question": "Although preliminary biomarkers suggested severe metabolic impairment, the diagnostic committee refused to issue a ___ diagnosis until comprehensive genomic sequencing could irrefutably corroborate the underlying pathology.",
+    "options": [
+      "definitive",
+      "classic",
+      "standard",
+      "classical"
+    ],
+    "answer": "definitive",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句首让步分句中的'preliminary biomarkers'（初步生物标志物）与后文'until comprehensive genomic sequencing could irrefutably corroborate'（直到全基因组测序能够无可辩驳地证实）形成认识层级上的对比，决定了此处需要一个表示'最终确证的、排他的终局判断'的词汇。",
+    "distractor_analysis": {
+      "definitive": "正确。definitive diagnosis 是临床医学与认知诊断中的严格专门术语，意为“确定性诊断、确诊”（a conclusive and final diagnosis established beyond doubt），完美对应与初步迹象（preliminary）相对、须由全基因组测序最终证实的严密逻辑。",
+      "classic": "错误。classic 常修饰 symptoms, signs 或 presentation，表示“符合教科书特征的、典型的”（如 classic symptoms 典型症状），但并不与 diagnosis 连用指代“排他性的确诊结论”，亦无法传达证据链闭环后的终局确信度。",
+      "standard": "错误。standard diagnosis 意为“常规诊断”或“标准诊断手段”，强调操作程序的规范性与普遍性，而非结论本身的终极确凿性，在强调需要排除疑点方能定性的上下文中断裂了因果逻辑。",
+      "classical": "错误。classical 指“传统的、古典学派的”（如 classical conditioning），在现代精准医疗和分子病理诊断语境中属于语域与语义的双重错配。"
+    },
+    "translation": "尽管初步的生物标志物提示存在严重的代谢损伤，但在全基因组测序能够无可辩驳地证实潜在病理机制之前，诊断委员会仍拒绝作出最终确诊。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_19",
+    "group_id": 530,
+    "group_name": "devout, dear, earnest, sincere",
+    "level": "TEM-8",
+    "target_word": "devout",
+    "question": "Sociological surveys of contemporary secularization reveal a stark divide between nominal affiliates who inherit cultural traditions and ___ adherents who actively integrate daily prayer, scriptural study, and ritual obligations into their lives.",
+    "options": [
+      "devout",
+      "dear",
+      "earnest",
+      "sincere"
+    ],
+    "answer": "devout",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "句中构建了宗教社会学经典的对立范式——“nominal affiliates”（仅有文化归属的名义信徒）与“___ adherents who actively integrate daily prayer, scriptural study, and ritual obligations”（将每日祈祷、研经和仪轨融入生活的信徒）。在学术英语与认知信仰领域，与 nominal（名义上的）构成严格术语级对立且精确指涉“虔信与宗教实践（piety & ritual practice）”的词唯有 devout。",
+    "distractor_analysis": {
+      "devout": "正确。devout 意为“虔诚的、深信宗教的”，专指对宗教信仰及其实践具有极高忠诚度并身体力行的人。在宗教学与认知社会学语境中，“devout adherents”与“nominal affiliates”是学术界公认的固定二元对立范式，且与后文“actively integrate daily prayer, scriptural study, and ritual obligations”的释义完全契合。",
+      "dear": "错误。dear 意为“亲爱的、珍贵的、昂贵的”。在此处修饰 adherents 会产生严重的语体与语义偏差（如演变为布道者的口语呼告“亲爱的信徒们”），完全无法表达学术研究中基于宗教实践维度的客观信徒分类。",
+      "earnest": "错误。earnest 意为“认真的、热切严肃的”，侧重于态度上的庄重与投入（如 an earnest student），并不包含宗教维度的“虔敬神明、恪守宗教戒律仪轨”的核心义项，无法与 nominal 形成学术上的对立范畴。",
+      "sincere": "错误。sincere 意为“真诚的、由衷的、无虚伪的”，其对立面是 hypocritical（虚伪的）或 feigned（假装的）。名义信徒自承文化身份并不等同于虚伪欺骗，其与虔诚信徒的根本分水岭在于是否践行宗教仪轨（piety），因此 sincere 缺乏“仪轨虔信”的核心语素，造成逻辑断层。"
+    },
+    "translation": "当代世俗化进程的社会学调查表明，仅继承文化传统的名义信徒，与将日常祈祷、研经和宗教仪轨主动融入生活的虔诚信徒之间，存在着极为鲜明的界限。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  },
+  {
+    "id": "tem8_b52_20",
+    "group_id": 530,
+    "group_name": "devout, dear, earnest, sincere",
+    "level": "TEM-8",
+    "target_word": "devout",
+    "question": "Throughout her reign, the empress presented herself not merely as a secular patron of ecclesiastical architecture, but as a ___ communicant, whose strict observance of the Eucharistic fast set a rigorous standard for the imperial court.",
+    "options": [
+      "devout",
+      "dear",
+      "earnest",
+      "sincere"
+    ],
+    "answer": "devout",
+    "primary_mechanism": "MECH_NUANCE",
+    "field": "FIELD_COGNITION",
+    "anchor_clue": "决定性锚点在于高阶教会历史专业名词“communicant”（按期领受圣餐的正式教会成员）以及定语从句“whose strict observance of the Eucharistic fast set a rigorous standard”（严格恪守圣餐禁食圣规）。在历史学与神学语境中，修饰信徒虔敬履行圣事操练的固定学术搭配为 devout communicant，其余选项在此处均会导致严重的搭配破裂或语体风格冲突。",
+    "distractor_analysis": {
+      "devout": "正确。devout 意为“虔诚的、恪守宗教圣事的”，完美契合教会历史话语中对严格遵守圣事法规（如 Eucharistic fast，圣餐斋戒）者的描述。“devout communicant”是牛津、剑桥历史学传记中指称“严格履行圣餐礼与宗教操练之教徒”的经典固定搭配，且与前文的“secular patron”形成鲜明对照。",
+      "dear": "错误。dear 意为“亲爱的、珍视的”，用于修饰具有正式圣礼身份的名词 communicant 属于私人情感口语或私人书信套话，与本句庄重的高阶历史学术语体完全脱节。",
+      "earnest": "错误。earnest 强调性格或行事意图上的“严肃认真、热切专注”（如 earnest reformer），但无法用于修饰具有严格教会圣礼身份的 communicant，亦无法准确承载严格遵循宗教禁食戒律所体现的“圣事虔诚（sacramental piety）”。",
+      "sincere": "错误。sincere 意为“真诚的、无欺诈的”，其语义核心在于“真实不伪”。虽然信徒态度应当真诚，但在英语中修饰教会特定圣事实践身份时，“sincere communicant”属于生硬的非地道搭配，无法传达在行为上“严格履行宗教禁食与圣事规范”的虔敬特质。"
+    },
+    "translation": "在位期间，这位女皇展现给世人的不仅是教会建筑的世俗赞助人形象，更是一位虔诚的圣餐领受者，她对圣餐斋戒的严格恪守为整个皇廷确立了严苛的标准。",
+    "_l1_passed": true,
+    "_l2_passed": true
+  }
+]
