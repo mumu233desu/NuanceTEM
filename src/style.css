@@ -115,6 +115,11 @@ button {
   cursor: pointer;
 }
 
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
 /* Scrollbar Styling */
 ::-webkit-scrollbar {
   width: 6px;
@@ -214,6 +219,8 @@ button {
   color: var(--text-muted);
   cursor: pointer;
   transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  width: 100%;
+  text-align: left;
 }
 
 .icon {
@@ -336,6 +343,9 @@ button {
     cursor: pointer;
     flex: 1;
     transition: color 0.2s ease;
+    background: none;
+    border: none;
+    padding: 0;
   }
 
   .mobile-nav-item.active {

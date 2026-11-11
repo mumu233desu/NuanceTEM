@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, onMounted, onUnmounted } from 'vue';
 import { useAuth } from '../composables/useAuth';
 import { useSync } from '../composables/useSync';
 
@@ -73,6 +73,20 @@ const handleClose = () => {
   }
   emit('close');
 };
+
+const handleKeydown = (e: KeyboardEvent) => {
+  if (e.key === 'Escape' && props.isOpen) {
+    handleClose();
+  }
+};
+
+onMounted(() => {
+  window.addEventListener('keydown', handleKeydown);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('keydown', handleKeydown);
+});
 
 const handleSendCode = async () => {
   const emailVal = email.value.trim().toLowerCase();
@@ -165,17 +179,22 @@ const handleSubmit = async () => {
 
 <template>
   <div v-if="isOpen" class="modal-backdrop fade-in" @click.self="handleClose">
-    <div class="auth-card glass-card scale-in">
+    <div
+      class="auth-card glass-card scale-in"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="auth-modal-title"
+    >
       <button class="close-btn" @click="handleClose" aria-label="关闭">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
           <line x1="18" y1="6" x2="6" y2="18"></line>
           <line x1="6" y1="6" x2="18" y2="18"></line>
         </svg>
       </button>
 
       <div class="header">
-        <div class="logo-mark">N</div>
-        <h3>
+        <div class="logo-mark" aria-hidden="true">N</div>
+        <h3 id="auth-modal-title">
           {{ mode === 'login' ? '登录 NuanceTEM 云端同步' : mode === 'register' ? '注册新学习账号' : mode === 'forgot' ? '找回密码' : '设置新密码' }}
         </h3>
         <p class="subtitle">
@@ -183,10 +202,10 @@ const handleSubmit = async () => {
         </p>
       </div>
 
-      <div v-if="errorMsg" class="alert error">
+      <div v-if="errorMsg" class="alert error" role="alert">
         {{ errorMsg }}
       </div>
-      <div v-if="successMsg" class="alert success">
+      <div v-if="successMsg" class="alert success" role="status">
         {{ successMsg }}
       </div>
 
@@ -194,8 +213,9 @@ const handleSubmit = async () => {
         <!-- 重置新密码模式 -->
         <template v-if="mode === 'reset'">
           <div class="form-group">
-            <label>新密码</label>
+            <label for="auth-new-password">新密码</label>
             <input
+              id="auth-new-password"
               v-model="newPassword"
               type="password"
               required
@@ -205,8 +225,9 @@ const handleSubmit = async () => {
             />
           </div>
           <div class="form-group">
-            <label>确认新密码</label>
+            <label for="auth-confirm-password">确认新密码</label>
             <input
+              id="auth-confirm-password"
               v-model="confirmPassword"
               type="password"
               required
@@ -220,19 +241,20 @@ const handleSubmit = async () => {
         <!-- 常规模式：登录 / 注册 / 找回密码 -->
         <template v-else>
           <div v-if="mode === 'register'" class="form-group">
-            <label>昵称 (可选)</label>
-            <input v-model="nickname" type="text" placeholder="你的学习代号" class="input-field" />
+            <label for="auth-nickname">昵称 (可选)</label>
+            <input id="auth-nickname" v-model="nickname" type="text" placeholder="你的学习代号" class="input-field" />
           </div>
 
           <div class="form-group">
-            <label>电子邮箱</label>
-            <input v-model="email" type="email" required placeholder="your.name@example.com" class="input-field" />
+            <label for="auth-email">电子邮箱</label>
+            <input id="auth-email" v-model="email" type="email" required placeholder="your.name@example.com" class="input-field" />
           </div>
 
           <div v-if="mode === 'register'" class="form-group">
-            <label>邮箱验证码</label>
+            <label for="auth-code">邮箱验证码</label>
             <div class="code-input-row">
               <input
+                id="auth-code"
                 v-model="verificationCode"
                 type="text"
                 required
@@ -254,10 +276,10 @@ const handleSubmit = async () => {
 
           <div v-if="mode !== 'forgot'" class="form-group">
             <div class="label-row">
-              <label>密码</label>
+              <label for="auth-password">密码</label>
               <a v-if="mode === 'login'" href="#" @click.prevent="switchMode('forgot')" class="forgot-link">忘记密码？</a>
             </div>
-            <input v-model="password" type="password" required minlength="6" placeholder="至少 6 位字符" class="input-field" />
+            <input id="auth-password" v-model="password" type="password" required minlength="6" placeholder="至少 6 位字符" class="input-field" />
           </div>
         </template>
 

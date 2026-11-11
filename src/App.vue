@@ -129,19 +129,31 @@ onMounted(initApp);
         </div>
       </div>
 
-      <nav class="nav-links">
-        <div @click="navigateTo('dashboard')" class="nav-item" :class="{ active: currentView === 'dashboard' }">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+      <nav class="nav-links" aria-label="主导航">
+        <button
+          type="button"
+          @click="navigateTo('dashboard')"
+          class="nav-item"
+          :class="{ active: currentView === 'dashboard' }"
+          :aria-current="currentView === 'dashboard' ? 'page' : undefined"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <rect x="3" y="3" width="7" height="7"></rect>
             <rect x="14" y="3" width="7" height="7"></rect>
             <rect x="14" y="14" width="7" height="7"></rect>
             <rect x="3" y="14" width="7" height="7"></rect>
           </svg>
           仪表盘
-        </div>
+        </button>
         
-        <div @click="navigateTo('quiz')" class="nav-item" :class="{ active: currentView === 'quiz' }">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+        <button
+          type="button"
+          @click="navigateTo('quiz')"
+          class="nav-item"
+          :class="{ active: currentView === 'quiz' }"
+          :aria-current="currentView === 'quiz' ? 'page' : undefined"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
             <polyline points="14 2 14 8 20 8"></polyline>
             <line x1="16" y1="13" x2="8" y2="13"></line>
@@ -149,30 +161,48 @@ onMounted(initApp);
             <polyline points="10 9 9 9 8 9"></polyline>
           </svg>
           词汇挑战
-        </div>
+        </button>
 
-        <div @click="navigateTo('review')" class="nav-item" :class="{ active: currentView === 'review' }">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+        <button
+          type="button"
+          @click="navigateTo('review')"
+          class="nav-item"
+          :class="{ active: currentView === 'review' }"
+          :aria-current="currentView === 'review' ? 'page' : undefined"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path>
           </svg>
           智能复习
-        </div>
+        </button>
 
-        <div @click="navigateTo('database')" class="nav-item" :class="{ active: currentView === 'database' }">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+        <button
+          type="button"
+          @click="navigateTo('database')"
+          class="nav-item"
+          :class="{ active: currentView === 'database' }"
+          :aria-current="currentView === 'database' ? 'page' : undefined"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path>
             <path d="M12 16v-4M12 8h.01"></path>
           </svg>
           词库浏览
-        </div>
+        </button>
 
-        <div @click="navigateTo('settings')" class="nav-item" :class="{ active: currentView === 'settings' }">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+        <button
+          type="button"
+          @click="navigateTo('settings')"
+          class="nav-item"
+          :class="{ active: currentView === 'settings' }"
+          :aria-current="currentView === 'settings' ? 'page' : undefined"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <circle cx="12" cy="12" r="3"></circle>
             <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
           </svg>
           设置
-        </div>
+        </button>
       </nav>
 
       <!-- Cloud Sync & Account in Sidebar -->
@@ -200,8 +230,8 @@ onMounted(initApp);
 
       <!-- Theme Toggle in Sidebar -->
       <div class="theme-toggle-container">
-        <button @click="toggleTheme" class="nav-item">
-          <svg v-if="isDarkMode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+        <button type="button" @click="toggleTheme" class="nav-item">
+          <svg v-if="isDarkMode" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <circle cx="12" cy="12" r="5"></circle>
             <line x1="12" y1="1" x2="12" y2="3"></line>
             <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -212,7 +242,7 @@ onMounted(initApp);
             <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
             <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
           </svg>
-          <svg v-else xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+          <svg v-else xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon" aria-hidden="true">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
           {{ isDarkMode ? '日间模式' : '夜间模式' }}
@@ -221,45 +251,75 @@ onMounted(initApp);
     </aside>
 
     <!-- Mobile Navigation Bar -->
-    <nav class="mobile-nav">
-      <div @click="navigateTo('dashboard')" class="mobile-nav-item" :class="{ active: currentView === 'dashboard' }">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <nav class="mobile-nav" aria-label="移动端底部导航">
+      <button
+        type="button"
+        @click="navigateTo('dashboard')"
+        class="mobile-nav-item"
+        :class="{ active: currentView === 'dashboard' }"
+        :aria-current="currentView === 'dashboard' ? 'page' : undefined"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <rect x="3" y="3" width="7" height="7"></rect>
           <rect x="14" y="3" width="7" height="7"></rect>
           <rect x="14" y="14" width="7" height="7"></rect>
           <rect x="3" y="14" width="7" height="7"></rect>
         </svg>
         <span>仪表盘</span>
-      </div>
-      <div @click="navigateTo('quiz')" class="mobile-nav-item" :class="{ active: currentView === 'quiz' }">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      </button>
+      <button
+        type="button"
+        @click="navigateTo('quiz')"
+        class="mobile-nav-item"
+        :class="{ active: currentView === 'quiz' }"
+        :aria-current="currentView === 'quiz' ? 'page' : undefined"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
           <polyline points="14 2 14 8 20 8"></polyline>
           <line x1="16" y1="13" x2="8" y2="13"></line>
           <line x1="16" y1="17" x2="8" y2="17"></line>
         </svg>
         <span>词汇挑战</span>
-      </div>
-      <div @click="navigateTo('review')" class="mobile-nav-item" :class="{ active: currentView === 'review' }">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      </button>
+      <button
+        type="button"
+        @click="navigateTo('review')"
+        class="mobile-nav-item"
+        :class="{ active: currentView === 'review' }"
+        :aria-current="currentView === 'review' ? 'page' : undefined"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path>
         </svg>
         <span>智能复习</span>
-      </div>
-      <div @click="navigateTo('database')" class="mobile-nav-item" :class="{ active: currentView === 'database' }">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      </button>
+      <button
+        type="button"
+        @click="navigateTo('database')"
+        class="mobile-nav-item"
+        :class="{ active: currentView === 'database' }"
+        :aria-current="currentView === 'database' ? 'page' : undefined"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path>
           <path d="M12 16v-4M12 8h.01"></path>
         </svg>
         <span>词库</span>
-      </div>
-      <div @click="navigateTo('settings')" class="mobile-nav-item" :class="{ active: currentView === 'settings' }">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      </button>
+      <button
+        type="button"
+        @click="navigateTo('settings')"
+        class="mobile-nav-item"
+        :class="{ active: currentView === 'settings' }"
+        :aria-current="currentView === 'settings' ? 'page' : undefined"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <circle cx="12" cy="12" r="3"></circle>
           <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
         </svg>
         <span>设置</span>
-      </div>
+      </button>
     </nav>
 
     <!-- Main Content Panel -->

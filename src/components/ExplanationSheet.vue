@@ -46,7 +46,7 @@ ${props.questionText}
 </script>
 
 <template>
-  <div v-if="visible" class="explanation-sheet scale-in">
+  <div v-if="visible" class="explanation-sheet scale-in" aria-live="polite">
     <div class="header">
       <div class="result-badge" :class="isCorrect ? 'correct' : 'incorrect'">
         <span v-if="isCorrect">✓ 答对了</span>
