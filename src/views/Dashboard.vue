@@ -129,7 +129,7 @@ onMounted(loadStats);
           </svg>
         </div>
         <div class="stat-info">
-          <h3>{{ dueCount }}</h3>
+          <div class="stat-number">{{ dueCount }}</div>
           <p>今日待复习</p>
         </div>
       </div>
@@ -141,7 +141,7 @@ onMounted(loadStats);
           </svg>
         </div>
         <div class="stat-info">
-          <h3>{{ masteredCount }}</h3>
+          <div class="stat-number">{{ masteredCount }}</div>
           <p>已熟记词汇</p>
         </div>
       </div>
@@ -153,7 +153,7 @@ onMounted(loadStats);
           </svg>
         </div>
         <div class="stat-info">
-          <h3>{{ learningCount }}</h3>
+          <div class="stat-number">{{ learningCount }}</div>
           <p>记忆曲线中</p>
         </div>
       </div>
@@ -165,7 +165,7 @@ onMounted(loadStats);
           </svg>
         </div>
         <div class="stat-info">
-          <h3>{{ totalQuestions }}</h3>
+          <div class="stat-number">{{ totalQuestions }}</div>
           <p>总词组题量</p>
         </div>
       </div>
@@ -373,7 +373,11 @@ onMounted(loadStats);
 .stat-icon.learning { background-color: var(--info-light); color: var(--info); }
 .stat-icon.total { background-color: var(--primary-light); color: var(--primary); }
 
-.stat-info h3 {
+.stat-info .stat-number {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text-main);
   font-size: 1.85rem;
   line-height: 1;
   margin-bottom: 0.25rem;
