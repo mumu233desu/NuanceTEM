@@ -17,29 +17,11 @@ interface Manifest {
 
 export const MANIFEST_VERSION_KEY = 'nuancetem_manifest_version';
 
-function getExpectedTotal(manifest: Manifest): number {
-  let count = 0;
-  for (const scope of ['tem4', 'tem8'] as const) {
-    const scopePackages = manifest.packages[scope];
-    if (scopePackages) {
-      if (typeof scopePackages.total_count === 'number') {
-        count += scopePackages.total_count;
-      } else {
-        for (const info of Object.values(scopePackages)) {
-          if (typeof info === 'object' && typeof info.count === 'number') {
-            count += info.count;
-          }
-        }
-      }
-    }
-  }
-  return count;
-}
-
 export async function loadQuestionsFromManifest(forceReload = false): Promise<Question[]> {
   try {
     const baseUrl = import.meta.env.BASE_URL;
-    // 1. 读取 Manifest 清单 (强制避免任何中间层 HTTP 缓存)
+
+    // 1. 读取云端 Manifest 清单（通过 no-store 穿透缓存，始终探查云端真实最新版本号）
     const manifestResp = await fetch(`${baseUrl}data/manifest.json?_t=${Date.now()}`, {
       cache: 'no-store'
     });
@@ -47,68 +29,56 @@ export async function loadQuestionsFromManifest(forceReload = false): Promise<Qu
       throw new Error(`Failed to load manifest.json (status: ${manifestResp.status})`);
     }
     const manifest: Manifest = await manifestResp.json();
-    const version = manifest.version || 'default';
-    const expectedTotal = getExpectedTotal(manifest);
-
-    // 2. 检查本地版本与已有数据完整性
-    // 只有在非强制重载、版本一致、且本地题目数达到预期总数（防止历史中断残留）时，才复用缓存
-    const cachedVersion = localStorage.getItem(MANIFEST_VERSION_KEY);
+    const cloudVersion = manifest.version || 'default';
+    const localVersion = localStorage.getItem(MANIFEST_VERSION_KEY);
     const existingCount = await db.questions.count();
-    if (!forceReload && cachedVersion === version && existingCount >= expectedTotal) {
-      console.log(`[Loader] Manifest version (${version}) already loaded. Local DB has ${existingCount} items (expected >= ${expectedTotal}). Skipping re-download.`);
+
+    // 2. 直接比对本地与云端版本号：版本一致且本地有数据时，直接秒开本地缓存
+    if (!forceReload && localVersion === cloudVersion && existingCount > 0) {
+      console.log(`[Loader] Question bank version (${cloudVersion}) is up to date (${existingCount} items). Skipping download.`);
       return await db.questions.toArray();
     }
 
-    if (existingCount < expectedTotal && cachedVersion === version) {
-      console.warn(`[Loader] Integrity mismatch detected: local DB has ${existingCount} questions, but manifest declared ${expectedTotal}. Triggering repair download.`);
-    }
+    console.log(`[Loader] Updating question bank: local (${localVersion || 'none'}) -> cloud (${cloudVersion})...`);
 
-    // 3. 收集所有题包路径及预期条数
-    const packageEntries: { path: string; count?: number }[] = [];
+    // 3. 收集所有题包路径
+    const packagePaths: string[] = [];
     for (const scope of ['tem4', 'tem8'] as const) {
       const scopePackages = manifest.packages[scope];
       if (scopePackages) {
         for (const info of Object.values(scopePackages)) {
           if (typeof info === 'object' && info.path) {
-            packageEntries.push({ path: info.path, count: info.count });
+            packagePaths.push(info.path);
           }
         }
       }
     }
 
-    // 4. 并行拉取所有考点分包（带失败指数退避重试，防止移动弱网波动）
-    const fetchPackageWithRetry = async (pkg: { path: string; count?: number }, maxRetries = 2): Promise<Question[]> => {
+    // 4. 并行拉取各考点分包（网络失败时不吞异常，防止半拉取假成功）
+    const fetchPackageWithRetry = async (pkgPath: string, maxRetries = 2): Promise<Question[]> => {
       for (let attempt = 0; attempt <= maxRetries; attempt++) {
         try {
-          const resp = await fetch(`${baseUrl}data/${pkg.path}?v=${version}`);
+          const resp = await fetch(`${baseUrl}data/${pkgPath}?v=${cloudVersion}`);
           if (!resp.ok) {
             throw new Error(`HTTP ${resp.status} ${resp.statusText}`);
           }
-          const list: Question[] = await resp.json();
-          if (pkg.count !== undefined && list.length !== pkg.count) {
-            console.warn(`[Loader] Package ${pkg.path} returned ${list.length} items (expected ${pkg.count}).`);
-          }
-          return list;
+          return await resp.json();
         } catch (err) {
           if (attempt === maxRetries) {
-            throw new Error(`Failed to fetch package ${pkg.path} after ${maxRetries + 1} attempts: ${err}`);
+            throw new Error(`Failed to fetch package ${pkgPath}: ${err}`);
           }
-          await new Promise(r => setTimeout(r, 600 * (attempt + 1)));
+          await new Promise(r => setTimeout(r, 500 * (attempt + 1)));
         }
       }
       return [];
     };
 
-    const results = await Promise.all(packageEntries.map(pkg => fetchPackageWithRetry(pkg)));
+    const results = await Promise.all(packagePaths.map(p => fetchPackageWithRetry(p)));
     const allQuestions: Question[] = results.flat();
 
-    if (expectedTotal > 0 && allQuestions.length < expectedTotal) {
-      throw new Error(`Downloaded questions count (${allQuestions.length}) is below required manifest total (${expectedTotal}). Aborting partial update.`);
-    }
-
-    // 5. 读取老 ID 映射字典，进行老数据无损平滑迁移（同步清理旧题目与流水）
+    // 5. 迁移旧数据映射（无损平滑兼容）
     try {
-      const mappingResp = await fetch(`${baseUrl}data/id_mapping.json?v=${version}`);
+      const mappingResp = await fetch(`${baseUrl}data/id_mapping.json?v=${cloudVersion}`);
       if (mappingResp.ok) {
         const idMapping: Record<string, string> = await mappingResp.json();
         await migrateLegacyProgress(idMapping);
@@ -117,7 +87,7 @@ export async function loadQuestionsFromManifest(forceReload = false): Promise<Qu
       console.warn('ID mapping migration skipped:', e);
     }
 
-    // 6. 原子存入本地 IndexedDB，并自动清理不在当前清单中的孤儿废弃题目与进度（保证单一可信源）
+    // 6. 原子写入本地 IndexedDB，并清理不在当前清单中的孤儿废弃题目
     await db.transaction('rw', [db.questions, db.progress], async () => {
       await db.questions.bulkPut(allQuestions);
       const validIdSet = new Set(allQuestions.map(q => q.id));
@@ -130,7 +100,7 @@ export async function loadQuestionsFromManifest(forceReload = false): Promise<Qu
       }
     });
 
-    // 7. 仅为缺失进度的题目补充初始进度
+    // 7. 仅为新增题目初始化默认学习进度
     const existingProgress = await db.progress.toArray();
     const existingIds = new Set(existingProgress.map(p => p.questionId));
     const newQuestions = allQuestions.filter(q => !existingIds.has(q.id));
@@ -140,16 +110,16 @@ export async function loadQuestionsFromManifest(forceReload = false): Promise<Qu
       console.log(`Initialized progress for ${newEntries.length} new questions.`);
     }
 
-    // 8. 仅在全部数据校验通过并入库后，固化本地版本号
-    localStorage.setItem(MANIFEST_VERSION_KEY, version);
-    console.log(`Successfully loaded ${allQuestions.length} questions from ${packageEntries.length} packages (v: ${version}).`);
+    // 8. 只有在全部题包拉取完成且成功入库后，才将本地版本号置为云端最新版本号！
+    localStorage.setItem(MANIFEST_VERSION_KEY, cloudVersion);
+    console.log(`Successfully updated question bank to v${cloudVersion} (${allQuestions.length} questions).`);
     return allQuestions;
   } catch (error) {
-    console.error('Failed to load questions via manifest:', error);
+    console.error('Failed to sync questions from manifest:', error);
     if (forceReload) {
       throw error;
     }
-    // 离线/故障兜底：优先复用本地已存题目，避免拉取旧版未分类数据污染
+    // 离线/异常降级：复用本地已存题目（但不改动本地版本号，下次联网时将自动重试）
     const fallbackCount = await db.questions.count();
     if (fallbackCount > 0) {
       console.log(`[Loader Fallback] Utilizing ${fallbackCount} cached questions from IndexedDB.`);

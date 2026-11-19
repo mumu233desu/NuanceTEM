@@ -30,6 +30,7 @@ const handleRequestReset = async () => {
 
 const appVersion = __APP_VERSION__;
 const dbUpdateTime = ref('读取中...');
+const cloudVersion = ref('');
 const questionStats = ref({
   total: 0,
   tem4: 0,
@@ -50,7 +51,7 @@ const handleForceSyncQuestions = async () => {
   try {
     const res = await forceReloadQuestions();
     await refreshQuestionStats();
-    syncQuestionsMessage.value = `同步成功！当前题库共 ${res.total} 题（TEM-4: ${questionStats.value.tem4} 题 · TEM-8: ${questionStats.value.tem8} 题）。学习进度已完好保留。`;
+    syncQuestionsMessage.value = `同步成功！题库已更新至最新版本 (${questionStats.value.version})，共 ${res.total} 题。学习记录完好无损。`;
   } catch (err: any) {
     syncQuestionsMessage.value = `同步失败: ${err.message || err}`;
   } finally {
@@ -64,6 +65,7 @@ onMounted(async () => {
     const res = await fetch(`${import.meta.env.BASE_URL}data/manifest.json?_t=${Date.now()}`, { cache: 'no-store' });
     if (res.ok) {
       const manifest = await res.json();
+      cloudVersion.value = manifest.version || '';
       if (manifest.updated_at) {
         const date = new Date(manifest.updated_at);
         dbUpdateTime.value = date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
@@ -415,16 +417,17 @@ const handleResetAll = async () => {
             <div class="bank-stats-row">
               <span>本地题库状态:</span>
               <strong>总计 {{ questionStats.total }} 题 (TEM-4: {{ questionStats.tem4 }} · TEM-8: {{ questionStats.tem8 }})</strong>
-              <span v-if="questionStats.tem8 < 1500" class="badge-outdated">
-                旧版缓存 (建议更新)
+              <span v-if="cloudVersion && questionStats.version !== cloudVersion" class="badge-outdated">
+                发现新版本
               </span>
-              <span v-else class="badge-latest">
-                已完整同步
+              <span v-else-if="questionStats.version && questionStats.version !== '未同步'" class="badge-latest">
+                已是最新版本
               </span>
             </div>
             <div class="bank-stats-row sub">
-              <span>词库清单版本:</span>
+              <span>本地词库版本:</span>
               <code>{{ questionStats.version }}</code>
+              <span v-if="cloudVersion" class="dim-text">（云端最新: {{ cloudVersion }}）</span>
             </div>
             <div class="bank-actions">
               <button
