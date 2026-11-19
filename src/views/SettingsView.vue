@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, watch, onMounted } from 'vue';
 import { db, createDefaultProgress } from '../db';
+import { getQuestionBankStats, forceReloadQuestions } from '../db/loader';
 import { useAuth } from '../composables/useAuth';
 import { useSync } from '../composables/useSync';
 import { useTheme } from '../composables/useTheme';
@@ -29,19 +30,49 @@ const handleRequestReset = async () => {
 
 const appVersion = __APP_VERSION__;
 const dbUpdateTime = ref('读取中...');
+const questionStats = ref({
+  total: 0,
+  tem4: 0,
+  tem8: 0,
+  version: '检测中...'
+});
+const isSyncingQuestions = ref(false);
+const syncQuestionsMessage = ref('');
+
+const refreshQuestionStats = async () => {
+  questionStats.value = await getQuestionBankStats();
+};
+
+const handleForceSyncQuestions = async () => {
+  if (isSyncingQuestions.value) return;
+  isSyncingQuestions.value = true;
+  syncQuestionsMessage.value = '正在连通云端并同步最新题库分包...';
+  try {
+    const res = await forceReloadQuestions();
+    await refreshQuestionStats();
+    syncQuestionsMessage.value = `同步成功！当前题库共 ${res.total} 题（TEM-4: ${questionStats.value.tem4} 题 · TEM-8: ${questionStats.value.tem8} 题）。学习进度已完好保留。`;
+  } catch (err: any) {
+    syncQuestionsMessage.value = `同步失败: ${err.message || err}`;
+  } finally {
+    isSyncingQuestions.value = false;
+  }
+};
 
 onMounted(async () => {
+  await refreshQuestionStats();
   try {
-    const res = await fetch(`${import.meta.env.BASE_URL}data/questions.json`, { method: 'HEAD' });
-    const lastModified = res.headers.get('Last-Modified');
-    if (lastModified) {
-      const date = new Date(lastModified);
-      dbUpdateTime.value = date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+    const res = await fetch(`${import.meta.env.BASE_URL}data/manifest.json?_t=${Date.now()}`, { cache: 'no-store' });
+    if (res.ok) {
+      const manifest = await res.json();
+      if (manifest.updated_at) {
+        const date = new Date(manifest.updated_at);
+        dbUpdateTime.value = date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+      }
     } else {
-      dbUpdateTime.value = '2026年6月11日';
+      dbUpdateTime.value = '2026年11月20日';
     }
   } catch (e) {
-    dbUpdateTime.value = '2026年6月11日';
+    dbUpdateTime.value = '2026年11月20日';
   }
 });
 
@@ -380,6 +411,39 @@ const handleResetAll = async () => {
           <p>存储引擎: <strong>IndexedDB (Dexie.js 本地引擎){{ isAuthenticated ? ' + Cloudflare D1 (云端分布式数据库)' : '' }}</strong></p>
           <p>软件架构: <strong>Vite + Vue 3 + Cloudflare Pages &amp; Edge Functions</strong></p>
           <p>题库更新时间: <strong>{{ dbUpdateTime }}</strong></p>
+          <div class="bank-stats-box">
+            <div class="bank-stats-row">
+              <span>本地题库状态:</span>
+              <strong>总计 {{ questionStats.total }} 题 (TEM-4: {{ questionStats.tem4 }} · TEM-8: {{ questionStats.tem8 }})</strong>
+              <span v-if="questionStats.tem8 < 1500" class="badge-outdated">
+                旧版缓存 (建议更新)
+              </span>
+              <span v-else class="badge-latest">
+                已完整同步
+              </span>
+            </div>
+            <div class="bank-stats-row sub">
+              <span>词库清单版本:</span>
+              <code>{{ questionStats.version }}</code>
+            </div>
+            <div class="bank-actions">
+              <button
+                type="button"
+                class="btn-action mini-action"
+                :disabled="isSyncingQuestions"
+                @click="handleForceSyncQuestions"
+              >
+                <svg v-if="!isSyncingQuestions" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+                </svg>
+                <span v-if="isSyncingQuestions" class="spinner-inline"></span>
+                <span>{{ isSyncingQuestions ? '正在下载更新题库...' : '检查并强制重新同步题库' }}</span>
+              </button>
+            </div>
+            <p v-if="syncQuestionsMessage" class="sync-msg" :class="{ error: syncQuestionsMessage.includes('失败') }">
+              {{ syncQuestionsMessage }}
+            </p>
+          </div>
         </div>
       </div>
   </div>
@@ -676,5 +740,76 @@ const handleResetAll = async () => {
 }
 .dim-text {
   color: var(--text-muted);
+}
+
+.bank-stats-box {
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  background: var(--bg-app);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.bank-stats-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  font-size: 0.88rem;
+}
+
+.bank-stats-row.sub {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.badge-outdated {
+  background: rgba(239, 68, 68, 0.15);
+  color: #dc2626;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 9999px;
+}
+
+.badge-latest {
+  background: rgba(16, 185, 129, 0.15);
+  color: #059669;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 9999px;
+}
+
+.bank-actions {
+  margin-top: 0.25rem;
+}
+
+.sync-msg {
+  font-size: 0.82rem;
+  color: var(--primary);
+  margin-top: 0.25rem;
+}
+
+.sync-msg.error {
+  color: var(--error);
+}
+
+.spinner-inline {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--border-color);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
 }
 </style>
