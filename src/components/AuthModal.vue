@@ -261,9 +261,11 @@ const handleSubmit = async () => {
                 id="auth-code"
                 v-model="verificationCode"
                 type="text"
+                inputmode="numeric"
+                autocomplete="one-time-code"
                 required
                 maxlength="6"
-                placeholder="6 位验证码"
+                placeholder="请输入 6 位验证码"
                 class="input-field code-input"
               />
               <button
@@ -465,23 +467,36 @@ const handleSubmit = async () => {
 
 .code-input-row {
   display: flex;
+  align-items: stretch;
   gap: 0.5rem;
+  width: 100%;
 }
 
 .code-input {
   flex: 1;
+  min-width: 0;
   letter-spacing: 3px;
   font-family: var(--font-mono, monospace);
   font-weight: 600;
 }
 
+.code-input::placeholder {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  letter-spacing: normal;
+  color: var(--text-light);
+  opacity: 0.75;
+}
+
 .send-code-btn {
-  padding: 0.75rem 0.9rem;
+  flex-shrink: 0;
+  width: 116px;
+  padding: 0 0.5rem;
   border-radius: var(--radius-md);
   border: 1px solid var(--primary);
   background: var(--primary-light);
   color: var(--primary);
-  font-size: 0.82rem;
+  font-size: 0.84rem;
   font-weight: 600;
   cursor: pointer;
   white-space: nowrap;
@@ -489,7 +504,6 @@ const handleSubmit = async () => {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 105px;
 }
 
 .send-code-btn:hover:not(:disabled) {
